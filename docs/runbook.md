@@ -9,10 +9,17 @@ the Paw-Friends.uk Shopify store.
 ## Each run
 
 1. **Find new mail.**
-   `search_threads` with `in:inbox is:unread -label:Bot/Draft Ready
-   -label:Bot/Needs Approval -label:Bot/Auto-Resolved
-   -label:Bot/Escalated - Owner Attention` — anything already labeled has
-   been triaged; skip it.
+   `search_threads` with `in:inbox is:unread -label:"Bot/Draft Ready"
+   -label:"Bot/Needs Approval" -label:"Bot/Auto-Resolved"
+   -label:"Bot/Escalated - Owner Attention" -label:"Bot/No Action"` —
+   **quote every multi-word label.** An unquoted `-label:Bot/Draft Ready`
+   gets tokenized by Gmail as `-label:Bot/Draft` plus a stray `Ready` search
+   term, which does *not* exclude already-labeled threads — this bug let
+   already-triaged threads resurface as "new" on the second run
+   (2026-07-18). Even with the query fixed, treat it as a filter, not a
+   guarantee: cross-check each result's `labelIds` before treating it as
+   new, since Gmail's matching is thread-level and can still surface an
+   already-labeled thread that got a new message.
 
 2. **Read each thread in full**, including prior messages in the thread
    (don't classify off the snippet alone — context from earlier replies
@@ -35,6 +42,10 @@ the Paw-Friends.uk Shopify store.
    - Everything else: draft the reply only (never send — there's no send
      tool), label `Bot/Draft Ready` or `Bot/Needs Approval` per the policy
      doc, or `Bot/Escalated - Owner Attention` if a trigger applies.
+   - Not a support case at all (spam/vendor solicitation, account-security
+     notices, or a thread that's already resolved/closed with nothing left
+     to do): label `Bot/No Action` so it stops resurfacing, and don't draft
+     a reply.
 
 6. **Log the action** by appending one line to that day's triage record
    (`docs/YYYY-MM-DD-backlog-triage.md`, create if it doesn't exist) with:

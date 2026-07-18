@@ -83,6 +83,13 @@ never auto-draft a policy-template denial
 - Same customer has already received 2+ prior replies on the same issue
   without resolution.
 - Anything alleging a safety issue (e.g. choking hazard, injury to a pet).
+- Customer quotes back a previous reply that promised something (a refund,
+  a replacement, an amount) that wasn't honoured, or that contradicts a
+  later reply. Never send another templated reply on top of this — it was
+  the exact failure mode found in the 2026-07-18 backlog (Alan Crump,
+  Order 1135: promised a 50% refund, a later reply then said no refunds on
+  used items, and the promised amount was never paid). Acknowledge the
+  specific contradiction honestly, make no new promises, and escalate.
 
 These go to the `Bot/Escalated - Owner Attention` Gmail label, with a
 drafted reply that acknowledges and escalates honestly — it does not
@@ -97,3 +104,6 @@ template that's already failed to resolve things once.
 - `Bot/Auto-Resolved` — rule 4 case, refund already issued via Shopify.
 - `Bot/Escalated - Owner Attention` — one of the escalation triggers above;
   needs the owner personally, not just a queue review.
+- `Bot/No Action` — not a support case (spam/vendor solicitation, account
+  notices) or already resolved/closed with nothing left to do. Applied so
+  it doesn't keep resurfacing as "new" on later runs.
