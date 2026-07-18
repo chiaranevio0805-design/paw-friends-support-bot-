@@ -82,3 +82,26 @@ Fixed in `docs/runbook.md`.
   however replies were being triaged before this bot existed, not just
   bad luck twice — worth checking whether other closed/trashed threads
   have the same mismatch.
+
+## Run 3 (hourly check-in, ~21:50 UTC)
+
+8 unread threads matched; 6 were already-handled duplicates resurfacing
+only because their messages were still marked unread (see runbook fix
+below), not new activity. 2 were genuinely new.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Dog chew toys" | codlingjacqueline@gmail.com | — | Resolved — "Thank you for your response," nothing further needed | No reply needed | `Bot/No Action` |
+| "Return" | Lucy Haskins | #2188 | Rule 5 — one toy broke in ~10 min (no refund, no dispute from customer), second is confirmed unused/unopened, within 30-day window. **Order is 28 days old — window closes in ~2 days, through no fault of the customer (she first asked 2 July, store took 2+ weeks to give a straight answer).** Cleaned up a prior reply's confusing "partial refund" language — it's a full refund on the unused item | Drafted corrected return-instructions reply | `Bot/Needs Approval` (time-sensitive) |
+
+### Runbook bug fixed this run: unread messages resurface even after being drafted and labeled
+
+Six threads already handled in Runs 1–2 (Alison Whybrow #1208, Katy
+Markham #1329, vfiyinfunoluwa "who owns this store," Niki Curtis #1218,
+Alan Crump #1135, daz.38) reappeared in this run's search purely because
+their messages were still marked `UNREAD` — a Bot label doesn't
+retroactively exclude a message from an `is:unread` search. No duplicate
+drafts were created (checked each thread's latest message ID against
+what was already handled). Fixed by marking all six read, and added a new
+runbook step: mark a message read immediately after acting on it, not
+just labeling it.

@@ -47,7 +47,18 @@ the Paw-Friends.uk Shopify store.
      to do): label `Bot/No Action` so it stops resurfacing, and don't draft
      a reply.
 
-6. **Log the action** by appending one line to that day's triage record
+6. **Mark the message read** (`unlabel_message` with
+   `labelIds: ["UNREAD"]`) once you've acted on it. A Bot label alone does
+   not stop an already-handled message from resurfacing in the next run's
+   `is:unread` search — Gmail evaluates unread status per message, and a
+   thread-level label doesn't retroactively cover it. Discovered
+   2026-07-18 run 3: six threads already drafted in earlier runs
+   reappeared as "new" purely because their messages were still unread.
+   Removing `UNREAD` after drafting is what actually stops the repeat
+   processing; the label is for humans triaging the inbox, not for the
+   bot's own dedupe.
+
+7. **Log the action** by appending one line to that day's triage record
    (`docs/YYYY-MM-DD-backlog-triage.md`, create if it doesn't exist) with:
    thread subject, sender, classification, action taken, and (for
    approval/escalated items) the recommended next step for the human.
