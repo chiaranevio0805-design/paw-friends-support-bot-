@@ -24,6 +24,11 @@ the Paw-Friends.uk Shopify store.
 2. **Read each thread in full**, including prior messages in the thread
    (don't classify off the snippet alone — context from earlier replies
    matters, e.g. "have we already apologized for this delay twice?").
+   `search_threads` truncates a thread's message list (seen: 5 of 7
+   messages shown, 2026-07-18 run 4) — don't trust it as complete, even
+   for a thread you've already touched before. Use `get_thread` with
+   `METADATA_ONLY` (cheap, untruncated) to check for messages beyond what
+   a prior run already saw before assuming there's nothing new.
 
 3. **Look up the order** in Shopify (`get-order` by order number if the
    customer gave one, otherwise `list-orders` by customer email) before

@@ -105,3 +105,30 @@ drafts were created (checked each thread's latest message ID against
 what was already handled). Fixed by marking all six read, and added a new
 runbook step: mark a message read immediately after acting on it, not
 just labeling it.
+
+## Run 4 (hourly check-in, ~22:50 UTC)
+
+1 thread matched — Alison Whybrow (#1208) again, but `search_threads`
+(`THREAD_VIEW_MINIMAL`) truncates the message list per thread (it showed
+only 5 of this thread's 7 messages), so two genuinely new messages were
+hiding underneath the ones already marked read: a 17 July message
+explicitly asking for a refund ("fed up of waiting, this is ridiculous")
+and an 18 July "still waiting" follow-up. Confirmed via `get_thread`
+`METADATA_ONLY` (which does not truncate) that these were unread and
+unaddressed.
+
+No new draft was created — the existing Run 1 escalation draft already
+offers reship-or-refund and doesn't repeat the delay excuse, so it covers
+an explicit refund ask. Both messages marked read. **This is now the
+clearest case for the owner to act on: an explicit refund request sitting
+unresolved for a day+ on top of 5 weeks of no delivery.**
+
+### Note for future runs: `search_threads` can truncate a thread's message list
+
+Don't assume a thread's full history is visible from `search_threads`
+results alone, even in the same run where a thread already appeared —
+messages can be hiding past the truncation point. When re-checking a
+thread that's been touched before, prefer `get_thread` with
+`METADATA_ONLY` (cheap, untruncated) to check for messages beyond what
+was seen last time, rather than trusting the search result's message list
+as complete.
