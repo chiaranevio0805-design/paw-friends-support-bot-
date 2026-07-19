@@ -38,3 +38,13 @@ Two new threads.
 |---|---|---|---|---|---|
 | "#2730" | Jason Collins | #2730 | Not explicitly covered by the 6 rules — courier (Evri) claims proof-of-delivery, but the customer doesn't recognise the door/person in the photo and it wasn't left with a neighbour. Reads as a misdelivered/lost parcel, same shape as darrenmarshallsmith09's #1173 case from 2026-07-18 | Drafted honest reply committing to raise it with the courier; doesn't promise resend vs. refund until the investigation is done | `Bot/Escalated - Owner Attention` |
 | "Re: Important Update Regarding Your Order" | Karen Mournahan | — | Rule 1 — order finally arrived after a delay, dog tore the ear off immediately, no refund requested, no defect claim | Drafted friendly no-refund reply | `Bot/Draft Ready` |
+
+## Run 4 (hourly check-in, ~17:51 UTC)
+
+fagzycreative020@gmail.com (the "👋" thread) confirmed as marketing spam,
+not a genuine customer — follow-up pitched "6000+ highly interested
+shoppers... without paying anything upfront," a growth-marketing
+solicitation. Reclassified from `Bot/Draft Ready` to `Bot/No Action`; no
+reply drafted. Same vague-opener-then-pitch shape as smithsofystorebuilder
+and mailer.shopifysurelinkhub — worth remembering "hey, is this X's
+store?" with no real question is a mild spam signal on its own.
