@@ -57,3 +57,23 @@ Two new messages.
 |---|---|---|---|---|---|
 | "Re: 👋" | fagzycreative020@gmail.com | — | Follow-up nudge on the already-confirmed marketing spam thread | No reply | `Bot/No Action` (unchanged) |
 | "Re: Important Update Regarding Your Order" | Karen Mournahan | #2784 (6 July, within window) | Pushed back on the Rule 1 no-refund explanation, citing the product's own "destroy everything" naming, but clarified she has a **second, unopened toy** she wants to return — that's a clean Rule 5 case | Drafted reply: holds the line on Rule 1 for the destroyed toy (product naming isn't a durability guarantee), agrees to process the return on the unopened one pending approval | `Bot/Needs Approval` |
+
+## Run 6 (hourly check-in, ~21:14 UTC)
+
+Two threads, both hitting the disputed-advertising-claim escalation
+trigger — and both citing the **product description**, not a Facebook ad.
+This is new evidence worth flagging on its own (see README update below).
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Indestructible toy" | Pat McCarty | #2679 | Follow-up after the earlier no-refund reply — not asking for anything further (says he won't order again), but states the durability claim came from **"the description"** and suggests fixing it | Drafted an honest acknowledgment that doesn't repeat the denial or promise anything; passes the description feedback to the owner | `Bot/Escalated - Owner Attention` |
+| (no subject) | Sarah Goldring | Not found under this email — asked for order number | 3 plush toys, 3 dogs, all destroyed within an hour; says she bought them because **"the description"** said they'd last | Drafted reply asking for the order number, escalating rather than giving a generic Rule 1 denial given the description claim | `Bot/Escalated - Owner Attention` |
+
+### README updated: business-risk flag strengthened
+
+Two independent customers in one day citing the on-site **product
+description** (not Facebook ad copy) for the durability claim is a
+stronger, more directly-actionable signal than what was flagged on
+2026-07-18 — this points at copy the owner controls directly on the
+product listing itself. Updated the flag in `README.md` to call this out
+specifically and recommend checking the live description text.
