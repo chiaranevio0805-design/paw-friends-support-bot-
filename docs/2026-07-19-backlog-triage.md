@@ -29,3 +29,12 @@ Two new threads, neither a real support case.
 |---|---|---|---|---|
 | "👋" | fagzycreative020@gmail.com | Vague opener ("is this Pawfriends's store?"), no actual question. Same shape as prior openers that turned into scam pitches (smithsofystorebuilder) — cautious but not yet clearly malicious | Drafted a short, generic confirmation reply with no owner/personal info | `Bot/Draft Ready` |
 | "An honest offer to help" | mailer.shopifysurelinkhub@gmail.com | Cold marketing/SEO-audit solicitation ("send me your store URL for a complimentary audit") — same template shape as the shopifyrevenuefix spam from 2026-07-18 Run 2 | No reply | `Bot/No Action` |
+
+## Run 3 (hourly check-in, ~17:12 UTC)
+
+Two new threads.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "#2730" | Jason Collins | #2730 | Not explicitly covered by the 6 rules — courier (Evri) claims proof-of-delivery, but the customer doesn't recognise the door/person in the photo and it wasn't left with a neighbour. Reads as a misdelivered/lost parcel, same shape as darrenmarshallsmith09's #1173 case from 2026-07-18 | Drafted honest reply committing to raise it with the courier; doesn't promise resend vs. refund until the investigation is done | `Bot/Escalated - Owner Attention` |
+| "Re: Important Update Regarding Your Order" | Karen Mournahan | — | Rule 1 — order finally arrived after a delay, dog tore the ear off immediately, no refund requested, no defect claim | Drafted friendly no-refund reply | `Bot/Draft Ready` |
