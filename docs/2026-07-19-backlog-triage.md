@@ -48,3 +48,12 @@ solicitation. Reclassified from `Bot/Draft Ready` to `Bot/No Action`; no
 reply drafted. Same vague-opener-then-pitch shape as smithsofystorebuilder
 and mailer.shopifysurelinkhub — worth remembering "hey, is this X's
 store?" with no real question is a mild spam signal on its own.
+
+## Run 5 (hourly check-in, ~19:04 UTC)
+
+Two new messages.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: 👋" | fagzycreative020@gmail.com | — | Follow-up nudge on the already-confirmed marketing spam thread | No reply | `Bot/No Action` (unchanged) |
+| "Re: Important Update Regarding Your Order" | Karen Mournahan | #2784 (6 July, within window) | Pushed back on the Rule 1 no-refund explanation, citing the product's own "destroy everything" naming, but clarified she has a **second, unopened toy** she wants to return — that's a clean Rule 5 case | Drafted reply: holds the line on Rule 1 for the destroyed toy (product naming isn't a durability guarantee), agrees to process the return on the unopened one pending approval | `Bot/Needs Approval` |
