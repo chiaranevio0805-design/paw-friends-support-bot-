@@ -132,3 +132,30 @@ thread that's been touched before, prefer `get_thread` with
 `METADATA_ONLY` (cheap, untruncated) to check for messages beyond what
 was seen last time, rather than trusting the search result's message list
 as complete.
+
+## Runs 5–6 (hourly check-ins, ~23:50 and ~00:50 UTC)
+
+No new activity either run — remaining unread flags were stale leftovers
+on already-triaged threads (`darrenmarshallsmith09`, `dartsdel`, and
+others), cleaned up by marking read. No draft or label changes needed, no
+commit made for these runs individually.
+
+## Run 7 (hourly check-in, ~01:50 UTC on 2026-07-19)
+
+One new message, on the "Payment security question" thread
+(`smithsofystorebuilder@gmail.com`) already flagged as suspicious in Run
+2. The follow-up confirmed it: after the (harmless) security-question
+reply went out, the sender claimed "5 customers... 30% interested... event
+in two weeks" and asked us to move the conversation to WhatsApp. That's a
+classic move-off-platform social-engineering pattern (urgency + bulk-order
+claim + push for a personal contact channel).
+
+| Thread | Sender | Classification | Action | Label |
+|---|---|---|---|---|
+| "Re: Payment security question" | smithsofystorebuilder@gmail.com | New escalation trigger: move-off-platform + urgency pattern | Drafted a reply that stays in-channel, declines to share a WhatsApp number or owner contact, but doesn't refuse legitimate business outright | `Bot/Escalated - Owner Attention` (upgraded from `Bot/Draft Ready`) |
+
+Added "move conversation off-platform + urgency claim" as a named
+escalation trigger in `support-policy.md`, alongside the existing
+"who owns this store" case from Run 2 — both are about not handing an
+unverified sender a personal contact channel or owner identity, not about
+refund policy at all.

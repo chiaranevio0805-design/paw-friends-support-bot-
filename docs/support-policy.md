@@ -83,6 +83,13 @@ never auto-draft a policy-template denial
 - Same customer has already received 2+ prior replies on the same issue
   without resolution.
 - Anything alleging a safety issue (e.g. choking hazard, injury to a pet).
+- Sender pushes to move the conversation off email (WhatsApp, phone, other
+  app) combined with an urgency claim (bulk order, event deadline,
+  "customers waiting") — a common move-off-platform social-engineering
+  pattern. Don't share personal contact details (phone numbers, WhatsApp,
+  owner identity) with an unverified sender. Reply only through the
+  existing channel, decline to move off-platform, and don't refuse
+  legitimate business outright — just keep it in writing here.
 - Customer quotes back a previous reply that promised something (a refund,
   a replacement, an amount) that wasn't honoured, or that contradicts a
   later reply. Never send another templated reply on top of this — it was
