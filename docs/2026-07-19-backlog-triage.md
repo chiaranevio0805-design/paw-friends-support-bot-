@@ -20,3 +20,12 @@ did and didn't ship before deciding what to refund/cancel; the draft
 deliberately doesn't commit to a specific outcome. Mention of contacting
 Klarna is worth treating with the same urgency as the daz.38 chargeback
 case — a payment-provider dispute may already be in motion.
+
+## Run 2 (hourly check-in, ~13:59 UTC)
+
+Two new threads, neither a real support case.
+
+| Thread | Sender | Classification | Action | Label |
+|---|---|---|---|---|
+| "👋" | fagzycreative020@gmail.com | Vague opener ("is this Pawfriends's store?"), no actual question. Same shape as prior openers that turned into scam pitches (smithsofystorebuilder) — cautious but not yet clearly malicious | Drafted a short, generic confirmation reply with no owner/personal info | `Bot/Draft Ready` |
+| "An honest offer to help" | mailer.shopifysurelinkhub@gmail.com | Cold marketing/SEO-audit solicitation ("send me your store URL for a complimentary audit") — same template shape as the shopifyrevenuefix spam from 2026-07-18 Run 2 | No reply | `Bot/No Action` |
