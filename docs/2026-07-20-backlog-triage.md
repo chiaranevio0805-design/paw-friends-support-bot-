@@ -46,3 +46,11 @@ invoke Trust Pilot while threatening a bank/chargeback dispute. Given the
 pattern is recurring, worth checking whether there's a shared root cause
 (e.g. a batch of orders from the same period/courier all running very
 late) rather than treating each as an isolated case.
+
+## Run 4 (hourly check-in, ~15:57 UTC)
+
+One new thread.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Order #3017" | Bernadette Murphy | #3017 | Not one of the 6 explicit rules, but about as clean as a refund request gets: order placed 3 days ago and confirmed UNFULFILLED in Shopify — a straightforward pre-shipment cancellation | Drafted a confident reply agreeing to cancel and refund | `Bot/Needs Approval` (not rule-4, so still requires sign-off, but no complication of any kind) |
