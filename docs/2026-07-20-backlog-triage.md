@@ -23,3 +23,26 @@ symptom of the same underlying gap. The owner needs to either supply a
 real returns address for the bot to use going forward, or confirm returns
 should route through a different process entirely (e.g. no physical
 return required, refund on photo evidence only).
+
+## Run 2 (hourly check-in, ~14:15 UTC)
+
+Non-customer notices only this run (2x Klaviyo account-security emails,
+German language, MFA prompts) — filtered, no reply needed, not logged as
+a substantive entry.
+
+## Run 3 (hourly check-in, ~15:15 UTC)
+
+Two new threads.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Order #2817 confirmed" | Lorraine Reimann | #2817 | Rule 1 — both plush toys destroyed within 10 minutes, no refund requested, no defect claim, photos attached | Drafted friendly no-refund reply | `Bot/Draft Ready` |
+| "Re: Important Update Regarding Your Order" | Lynda Corney (richfdx602) | #1485 | **Serious escalation trigger, multiple at once**: order dispatched 25 June, still not confirmed received (25+ days in transit); a prior reply's "we're a legitimate business" reassurance was rejected; customer now explicitly cites Trust Pilot reviews and threatens to contact her bank and report Paw Friends as fraudulent | Drafted an honest reply that does **not** repeat the "legitimate business" reassurance or make new promises; acknowledges her right to contact her bank; escalates directly | `Bot/Escalated - Owner Attention` |
+
+### Note on Lynda Corney (#1485)
+
+This is now the second customer (after daz.38 on 2026-07-18) to explicitly
+invoke Trust Pilot while threatening a bank/chargeback dispute. Given the
+pattern is recurring, worth checking whether there's a shared root cause
+(e.g. a batch of orders from the same period/courier all running very
+late) rather than treating each as an isolated case.
