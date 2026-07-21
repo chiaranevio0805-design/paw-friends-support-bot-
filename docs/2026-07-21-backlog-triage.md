@@ -61,3 +61,13 @@ thread.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Where is my order" | Hebert Silva | #2923 | Rule 3 — polite status check, dispatched 14 July (7 days in transit), within normal range | Drafted reply with tracking link | `Bot/Draft Ready` |
+
+## Run 6 (hourly check-in, ~19:47 UTC)
+
+One new thread. Also marked read the remaining older messages on the
+Lynne Saunders thread (#1110) that were still surfacing as unread noise
+from before this bot's "mark read" habit started — no new content there.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Order #2964 confirmed" | Nicholas Killick | #2964 | Rule 3 — not yet shipped (order 6 days old, UNFULFILLED). Explained honestly via the international-fulfilment-partner language per policy | Drafted reply | `Bot/Draft Ready` |
