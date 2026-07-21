@@ -50,3 +50,14 @@ the site's own marketing is "false information." Also a reminder to
 check older TRASH-labeled threads periodically for anything that was
 never given a Bot label at all, since the label-based search can only
 find what it's been told to look for.
+
+## Run 5 (hourly check-in, ~19:14 UTC)
+
+One new thread. Also caught and fixed a leftover: Lynne Saunders' thread
+(#1110, escalated last run) was still showing as unread because marking
+it read was missed at the time — fixed now, no new content on that
+thread.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Where is my order" | Hebert Silva | #2923 | Rule 3 — polite status check, dispatched 14 July (7 days in transit), within normal range | Drafted reply with tracking link | `Bot/Draft Ready` |
