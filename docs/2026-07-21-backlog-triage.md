@@ -21,3 +21,12 @@ One new thread.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "RE: Order #2931 confirmed" | Dave Venables | #2931 | Rule 3 — polite status check, no complaint. Dispatched 14 July (7 days in transit), within normal range | Drafted reply with tracking link and honest timeline expectation | `Bot/Draft Ready` |
+
+## Run 3 (hourly check-in, ~16:10 UTC)
+
+Two new threads.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Cancel" | Eduardo Matos | #2946 | Order 7 days old, still UNFULFILLED — clean pre-shipment cancellation. Uses the word "fraudulent" but doesn't cite reviews or a bank dispute (milder than the daz.38/Lynda Corney pattern) | Drafted agreement to cancel and refund | `Bot/Needs Approval` (worth noting the language even though it doesn't meet a full escalation trigger) |
+| "Toy" | Maureen Cree | #2830 (13 days old, within window) | Rule 5 — wants to return, reason given is only "wasn't what I expected," doesn't confirm unused/unopened condition | Drafted reply asking her to confirm the item is unused/unopened before proceeding | `Bot/Needs Approval` (pending her confirmation) |
