@@ -28,3 +28,20 @@ explicitly frame the silence as a deliberate stalling tactic against the
 no-physical-return refund policy) is now blocking at least two escalated
 threads plus four other approved-but-stalled returns (Joanne Hopkins,
 Niki Curtis, Lucy Haskins, Karen Mournahan) — see README.md.
+
+## Run 3 (hourly check-in, ~10:5x UTC)
+
+One new thread — a serious escalation with a broken promise on top of it.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Important Update Regarding Your Order. RESOLUTIONS TEAM" | Pam Trafford | #2095 | Multiple escalation triggers at once: disputed "indestructible" advertising claim (2 of 3 plushies destroyed within 2 days, one kept unopened), a prior bank/chargeback threat already made (16 July), and — the new part — a reply on 17 July explicitly promised the "Resolutions Team" would be in touch "very shortly," and 5 days later nothing has happened | Drafted an honest reply that does **not** repeat the broken "Resolutions Team will be in touch shortly" promise; confirms the refund decision hasn't been made, admits the bot can't approve it, and says the owner is being notified directly. Does not dispute her right to have contacted her bank | `Bot/Escalated - Owner Attention` |
+
+### Note on Pam Trafford (#2095)
+
+This is now the second broken-promise case after Alan Crump (2026-07-18) —
+a specific commitment made in an email ("Resolutions Team... very shortly")
+that was never followed through on. Combined with the recurring
+"indestructible" advertising dispute pattern (Katy Markham, Alan Crump, Pat
+McCarty, Sarah Goldring), this reinforces the existing business-risk flag
+in README.md rather than adding a new one.
