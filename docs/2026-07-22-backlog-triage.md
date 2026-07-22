@@ -45,3 +45,20 @@ that was never followed through on. Combined with the recurring
 "indestructible" advertising dispute pattern (Katy Markham, Alan Crump, Pat
 McCarty, Sarah Goldring), this reinforces the existing business-risk flag
 in README.md rather than adding a new one.
+
+## Run 4 (hourly check-in, ~15:1x UTC)
+
+One new thread — another instance of the recurring durability/advertising
+dispute pattern.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Plushies" | Angie McClarren | #2807 | Disputed advertising claim, first contact — all 3 plushies destroyed within 1 day by a 7-month-old Goldador puppy, explicitly says the "indestructible" claim on the site doesn't match what she received and wants a refund. Order placed 7 July, received ~17 July, genuinely within the 30-day window | Drafted a reply that doesn't repeat a generic Rule-1 "toys aren't guaranteed against chewing" denial — acknowledges her window is fine, confirms the description-mismatch complaint is being passed to the owner directly for a refund decision | `Bot/Escalated - Owner Attention` |
+
+### Note on Angie McClarren (#2807)
+
+Sixth customer overall (after Katy Markham, Alan Crump, Pat McCarty, Sarah
+Goldring, Pam Trafford) to explicitly dispute the "indestructible" claim
+against the product description/advertising — this pattern is now
+recurring often enough that it's clearly not a one-off complaint. See
+README.md business-risk flag.
