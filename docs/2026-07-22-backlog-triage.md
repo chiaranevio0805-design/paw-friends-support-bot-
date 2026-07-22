@@ -71,3 +71,11 @@ Two new threads, both routine.
 |---|---|---|---|---|---|
 | "Delivery Orders Order #2803" | Gary Newbigging | #2803 | Rule 3 follow-up — dispatched 10 July, now 12 days in transit, first explicit conditional refund request ("if this does not arrive tomorrow"). Measured tone, no legal/review citation, no repeat-unresolved pattern yet | Drafted honest reply with tracking link; doesn't promise arrival tomorrow but agrees a refund is fair to look at if it genuinely doesn't turn up | `Bot/Needs Approval` (conditional refund not yet due, but flagging so it isn't missed if he follows up again) |
 | "Staffy proof" | Kevin Saggers (kevindavbell@gmail.com) | #3197 (just placed, UNFULFILLED) | Not a complaint — lighthearted pre-purchase comment about his Staffy's chewing habits, no issue to resolve | Drafted a friendly, honest (no durability guarantee) acknowledgment | `Bot/Draft Ready` |
+
+## Run 6 (hourly check-in, ~19:1x UTC)
+
+One new thread, routine.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Could you tell me when I will get my order please. Thank you" | Debra Newlon | #2864 | Rule 3 — polite first-contact status check, dispatched 17 July (5 days in transit to the US), no complaint | Drafted reply with tracking link | `Bot/Draft Ready` |
