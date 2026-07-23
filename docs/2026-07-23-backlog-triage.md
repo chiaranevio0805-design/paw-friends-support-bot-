@@ -49,3 +49,24 @@ follow-up promised, then silence. This is now the third such case. Also a
 reminder (per the Lynne Saunders precedent) to keep checking for
 completely unlabeled threads that predate this bot, since label-exclusion
 search can only find what it's told to look for.
+
+## Run 5 (hourly check-in, ~17:0x UTC)
+
+One new thread — a fourth completely unlabeled pre-bot thread found this
+week, same pattern as Lynne Saunders and Tara Harte.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Quality of products" | Darren Short | #2701 | **Found unresolved and completely unlabeled.** First email 13 July (poor product quality, full refund requested for 3 toys) went completely unanswered for 10 days. Follow-up on 23 July now explicitly says the quality "is not what is advertised on your web site" and threatens a chargeback if no reply within 7 days. Order placed 3 July, well within the 30-day window | Drafted an honest reply: apologises for the genuine 10-day silence, confirms the return request is within the window (not in question), does not dispute his right to consider a chargeback, and flags directly to the owner | `Bot/Escalated - Owner Attention` |
+
+### Note on Darren Short (#2701)
+
+Fourth previously-unlabeled thread surfaced this week (after Lynne
+Saunders, and now this one following Tara Harte) — all predate this bot
+and fell through the cracks entirely with zero response. Multiple
+escalation triggers at once here: repeat unresolved contact (10 days,
+zero replies) plus a disputed-advertising claim plus an explicit
+chargeback threat. Worth flagging structurally: these unlabeled backlog
+threads keep surfacing one at a time rather than all at once, suggesting
+there may be more still sitting unanswered that a label-exclusion search
+alone won't surface.
