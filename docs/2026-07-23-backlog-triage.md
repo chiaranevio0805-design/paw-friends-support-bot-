@@ -20,3 +20,13 @@ One new thread, routine.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Order #2894" | Jeff Hughes | #2894 | Rule 3 — polite status check, dispatched 14 July (~9 days in transit), no complaint | Drafted reply with tracking link | `Bot/Draft Ready` |
+
+## Run 3 (hourly check-in, ~12:0x UTC)
+
+Three new threads.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Order #2852 confirmed" | John Conrad | #2852 | Rule 3 — polite status check, dispatched 17 July (~6 days in transit to the US), no complaint | Drafted reply with tracking link | `Bot/Draft Ready` |
+| "Order Number 2894" | Jeff Hughes | #2894 | Rule 2 — item arrived with a small tear in the body, photo provided, first contact. This is the same order as this morning's routine status check (Run 2) — now genuinely defective on arrival | Drafted reply thanking him for the photo, confirming a replacement (elephant or fox) is being arranged pending internal confirmation, and that he won't be asked to return the damaged item at his own cost | `Bot/Needs Approval` (photo-confirmation is a judgment call per policy, not auto-executed) |
+| (no subject) | bellobahirah477@gmail.com | — | Not a support case — a Fiverr seller asking for a 5% commission to resell products to 50 customers | No reply | `Bot/No Action` |
