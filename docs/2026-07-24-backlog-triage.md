@@ -19,3 +19,11 @@ non-customer noise, not logged as a substantive entry).
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Order #2783" | Barbara Swindler | #2783 | Rule 3, judgment call — dispatched 7 July, 17 days with **no tracking movement at all** (US delivery), first contact. Not yet the "3+ weeks" explicit threshold, but zero movement in over two weeks is a genuine concern, not routine | Drafted an honest reply that doesn't just reassure — flags it for a real check with the courier and a reship/refund decision rather than a generic "please wait" | `Bot/Needs Approval` |
+
+## Run 3 (hourly check-in, ~07:2x UTC)
+
+One new thread, routine.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Order #2848 confirmed" | Amanda Mayo | #2848 | Rule 3 — polite status check, dispatched 17 July (7 days in transit), within normal range, no complaint | Drafted reply with tracking link | `Bot/Draft Ready` |
