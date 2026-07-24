@@ -55,3 +55,21 @@ touch" commitment made and never followed through on. Given how
 frequently these are surfacing, it's worth the owner doing one full sweep
 of older TRASH-labeled/archived threads rather than waiting for each to
 resurface individually.
+
+## Run 6 (hourly check-in, ~20:4x UTC)
+
+One new thread — another instance of the recurring durability/advertising
+dispute pattern.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Order number 2438" | Andrew Kirk | #2438 | Disputed advertising claim, first contact — no refund explicitly requested, just informational feedback that the "indestructible" toys were destroyed by his Dachshund in a day and the advert "gave hope they would survive much longer." Order within window if he later asks for a refund | Drafted a reply that doesn't give a generic Rule-1 chew-wear denial — acknowledges the actual point about the advertising claim, passes it to the owner, and offers to look into a refund/return if he wants one | `Bot/Escalated - Owner Attention` |
+
+### Note on Andrew Kirk (#2438)
+
+Seventh customer overall to explicitly dispute the "indestructible"
+claim against the advertising/description (after Katy Markham, Alan
+Crump, Pat McCarty, Sarah Goldring, Pam Trafford, Angie McClarren, Gary
+Newbigging). This pattern is now recurring often enough weekly that it
+reads as a structural issue with the ad copy or description rather than
+isolated complaints — see README.md business-risk flag.
