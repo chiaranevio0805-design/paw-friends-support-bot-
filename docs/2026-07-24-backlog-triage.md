@@ -73,3 +73,21 @@ Crump, Pat McCarty, Sarah Goldring, Pam Trafford, Angie McClarren, Gary
 Newbigging). This pattern is now recurring often enough weekly that it
 reads as a structural issue with the ad copy or description rather than
 isolated complaints — see README.md business-risk flag.
+
+## Run 7 (hourly check-in, ~21:3x UTC)
+
+One new thread — an eighth instance of the same advertising dispute
+pattern, this time within the same hour as the seventh.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Toy is not indestructible" | Ronald Elizondo | #2906 | Disputed advertising claim — 1 of 4 plushies destroyed already, first contact, also asks a practical question about whether all 4 need to be returned for a full refund. Order placed 12 July, within the 30-day window | Drafted a reply that escalates the advertising complaint honestly, while still giving an honest partial answer to her practical question: unused/unopened items can be returned normally, the destroyed one is part of what's being escalated | `Bot/Escalated - Owner Attention` |
+
+### Note on Ronald Elizondo (#2906)
+
+Eighth customer overall to raise the "indestructible" advertising
+dispute — two such complaints landed within the same hour today (Andrew
+Kirk, Run 6). The frequency of this complaint is now high enough that it
+reads less like isolated unhappy customers and more like a live,
+ongoing mismatch between the marketing claim and the product, actively
+generating fresh complaints on a near-daily basis this week.
