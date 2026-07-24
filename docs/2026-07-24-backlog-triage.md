@@ -35,3 +35,23 @@ One new thread — escalation.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Re: A shipment from order #2803 is on the way" | Gary Newbigging | #2803 | Disputed advertising claim — item arrived and he says quality is "low quality and not as advertised," explicitly threatens to report to the ombudsman for false advertising. This is the same customer whose delivery-delay case was logged 2026-07-22 (Needs Approval); now a distinct, more serious complaint after receipt | Drafted an honest, non-denial reply — doesn't dispute his right to contact the ombudsman, passes the advertising complaint directly to the owner rather than a templated response | `Bot/Escalated - Owner Attention` |
+
+## Run 5 (hourly check-in, ~14:5x UTC)
+
+Two new threads: a routine follow-up, and a fifth completely unlabeled
+pre-bot thread found this week.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Toy" | Maureen Cree | #2830 | Follow-up on the pending return (2026-07-21 log) — confirms the item is unused and has already been sent back to the return address given | Drafted a short acknowledgment; refund to be processed on arrival | `Bot/Needs Approval` (unchanged — refund still requires action on receipt) |
+| "Order 2096" | David Whitham | #2096 | **Found unresolved and completely unlabeled.** Full history: 8 July, poor quality complaint, full refund requested; two unanswered follow-ups ("PLEASE RESPOND," "PLEASE REPLY"); 16 July, explicit threat to contact Facebook and his bank; 17 July, a pre-bot human reply apologised and said the "returns and resolutions team" would be in touch "as soon as possible" — **8 days later, nothing happened, and he's now following through on the Facebook/bank threat** | Drafted an honest reply that does not repeat the "returns team will be in touch" promise — flags directly to the owner, doesn't dispute his right to contact his bank or post publicly | `Bot/Escalated - Owner Attention` |
+
+### Note on David Whitham (#2096)
+
+Fifth previously-unlabeled thread surfaced this week (after Lynne
+Saunders, Tara Harte, Darren Short) and the fourth broken-promise case
+(after Alan Crump, Pam Trafford, Tara Harte) — a specific "team will be in
+touch" commitment made and never followed through on. Given how
+frequently these are surfacing, it's worth the owner doing one full sweep
+of older TRASH-labeled/archived threads rather than waiting for each to
+resurface individually.
