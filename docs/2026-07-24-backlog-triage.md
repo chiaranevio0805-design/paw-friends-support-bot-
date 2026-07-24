@@ -27,3 +27,11 @@ One new thread, routine.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Re: Order #2848 confirmed" | Amanda Mayo | #2848 | Rule 3 — polite status check, dispatched 17 July (7 days in transit), within normal range, no complaint | Drafted reply with tracking link | `Bot/Draft Ready` |
+
+## Run 4 (hourly check-in, ~08:4x UTC)
+
+One new thread — escalation.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: A shipment from order #2803 is on the way" | Gary Newbigging | #2803 | Disputed advertising claim — item arrived and he says quality is "low quality and not as advertised," explicitly threatens to report to the ombudsman for false advertising. This is the same customer whose delivery-delay case was logged 2026-07-22 (Needs Approval); now a distinct, more serious complaint after receipt | Drafted an honest, non-denial reply — doesn't dispute his right to contact the ombudsman, passes the advertising complaint directly to the owner rather than a templated response | `Bot/Escalated - Owner Attention` |
