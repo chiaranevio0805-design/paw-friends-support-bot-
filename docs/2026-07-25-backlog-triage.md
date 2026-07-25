@@ -33,3 +33,11 @@ Two new threads.
 |---|---|---|---|---|---|
 | "Order 3359" | Keith Appleby | #3359 | Pre-shipment order-selection issue — order confirmation shows "fox" variant but he says he selected "donkey"; order is still UNFULFILLED (nothing shipped yet), so not a Rule-4 wrong-item-delivered case. Wants it corrected, or a cancellation/refund | Drafted reply acknowledging the mix-up, flagging for a manual order correction to donkey, offering a full refund as the alternative if he'd rather cancel | `Bot/Needs Approval` (order-line correction is a manual Shopify action, not something the bot can execute) |
 | "Dog toy" | Thomas Meihaus | — (no order number given) | Rule 1 — unprompted feedback only, explicitly not requesting a refund; toy destroyed by a 95lb Rottweiler within hours. No complaint tone, no advertising dispute raised | Drafted a warm thank-you-for-feedback reply, honest that no plush toy is fully indestructible against a determined large dog | `Bot/Draft Ready` |
+
+## Run 3 (hourly check-in, ~17:0x UTC)
+
+One new thread, routine — a reply to a bulk shipping-delay marketing notice, not a personalised prior reply.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Important Update Regarding Your Order" | Ernie Swinhoe | #3085 | Rule 3 — first contact ("Where my order"), dispatched 20 July (~5 days in transit), within normal transit window, no complaint | Drafted reply with tracking link | `Bot/Draft Ready` |
