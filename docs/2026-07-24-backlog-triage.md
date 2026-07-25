@@ -91,3 +91,11 @@ Kirk, Run 6). The frequency of this complaint is now high enough that it
 reads less like isolated unhappy customers and more like a live,
 ongoing mismatch between the marketing claim and the product, actively
 generating fresh complaints on a near-daily basis this week.
+
+## Run 8 (hourly check-in, 2026-07-25, ~05:5x UTC)
+
+One new thread, routine.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Toys" | Helen Passfield | #2866 | Rule 3 — polite first-contact status check, dispatched 17 July (~8 days in transit to the UK), no complaint, within normal transit window | Drafted reply with tracking link | `Bot/Draft Ready` |
