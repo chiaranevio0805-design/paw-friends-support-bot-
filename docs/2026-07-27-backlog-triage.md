@@ -27,3 +27,11 @@ One new thread, routine.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Re: Order #3155 confirmed" | John Wilkins | #3155 | Rule 3 — first-contact status check, dispatched 22 July (~5 days in transit), within normal transit window, no complaint | Drafted reply with tracking link | `Bot/Draft Ready` |
+
+## Run 4 (hourly check-in, ~10:2x UTC)
+
+One new thread, routine.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "My order" | Linzi Wood | #3063 | Rule 3 — first contact, says her own tracking lookup showed "no order found"; dispatched 20 July (~7 days in transit), within normal window, no complaint beyond the tracking confusion | Drafted reply with the correct tracking link, noting it can take time to update | `Bot/Draft Ready` |
