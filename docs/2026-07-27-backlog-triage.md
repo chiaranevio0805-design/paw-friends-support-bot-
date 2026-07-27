@@ -19,3 +19,11 @@ One new thread — a bot misstep caught and corrected on re-review.
 ### Note on Edward Henderson (#2762)
 
 Tenth customer overall to dispute the "indestructible"/"destroy everything" advertising claim. Also a reminder to look closely at chew-damage complaints for advertising-dispute language before applying the Rule-1 denial template — the first reply on this thread missed it.
+
+## Run 3 (hourly check-in, ~09:5x UTC)
+
+One new thread, routine.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Order #3155 confirmed" | John Wilkins | #3155 | Rule 3 — first-contact status check, dispatched 22 July (~5 days in transit), within normal transit window, no complaint | Drafted reply with tracking link | `Bot/Draft Ready` |
