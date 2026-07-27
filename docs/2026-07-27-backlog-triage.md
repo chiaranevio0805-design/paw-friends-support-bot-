@@ -43,3 +43,16 @@ One new thread, routine chew-damage complaint.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Re: A shipment from order #3066 is on the way" | Eleanor Davies | #3066 | Rule 1 — dog destroyed a toy within an hour, first contact, no refund explicitly requested, no advertising-dispute language, no repeat contact | Drafted a friendly Rule-1 reply (chew damage, no refund per policy) | `Bot/Draft Ready` |
+
+## Run 6 (hourly check-in, ~19:4x/20:0x UTC)
+
+Two new threads.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Toys" | Helen Passfield | #2866 | Multiple escalation triggers stacked — disputed advertising/quality claim ("massive lie about quality"), public-review threat ("crap review pending"), and an implied pattern complaint ("pretty sure I'm not the only one to say that"). Follow-up on her routine tracking reply from the previous day, now that the item has arrived and been destroyed in 10 minutes | Drafted an honest reply that doesn't dispute her right to leave a review, acknowledges the quality complaint seriously, and passes it to the owner rather than a template denial | `Bot/Escalated - Owner Attention` (relabeled from `Bot/Draft Ready`) |
+| "Order number 3087" | Jackie (Jax) Ayling | #3087 | Rule 1 — three toys ripped up within two hours by dogs described as not heavy chewers, first contact, no advertising-dispute language, no refund explicitly requested | Drafted a friendly Rule-1 reply (chew damage, no refund per policy) | `Bot/Draft Ready` |
+
+### Note on Helen Passfield (#2866)
+
+Eleventh customer overall to dispute product quality against advertising, and the first this week to explicitly combine it with a public-review threat and a suggestion of a wider pattern of similar complaints — worth the owner's attention given the accumulating volume of "indestructible"/quality disputes logged across recent reports.
