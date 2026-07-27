@@ -56,3 +56,11 @@ Two new threads.
 ### Note on Helen Passfield (#2866)
 
 Eleventh customer overall to dispute product quality against advertising, and the first this week to explicitly combine it with a public-review threat and a suggestion of a wider pattern of similar complaints — worth the owner's attention given the accumulating volume of "indestructible"/quality disputes logged across recent reports.
+
+## Run 7 (hourly check-in, ~20:4x UTC)
+
+One new thread, order not identifiable from the sender's email.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Delivery update please" | sutec21@icloud.com | — (receipt PDF attached, but no order found under this email in Shopify) | Not classifiable yet — no order number in the email body, and the sender's email doesn't match any Shopify order | Drafted a reply asking for the order number or the name/address it was placed under | `Bot/Draft Ready` |
