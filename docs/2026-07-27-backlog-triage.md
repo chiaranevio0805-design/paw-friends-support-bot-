@@ -64,3 +64,11 @@ One new thread, order not identifiable from the sender's email.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Delivery update please" | sutec21@icloud.com | — (receipt PDF attached, but no order found under this email in Shopify) | Not classifiable yet — no order number in the email body, and the sender's email doesn't match any Shopify order | Drafted a reply asking for the order number or the name/address it was placed under | `Bot/Draft Ready` |
+
+## Run 8 (hourly check-in, ~23:0x UTC)
+
+One new thread — a third contact on the already-escalated Linda Franks/#1952 case, from a new Gmail thread (different subject wording, so not caught as a reply to the existing thread).
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Order 1952" | Linda Franks (casalyn262) | #1952 | Continuation of the 2026-07-25 escalation — third email on the same issue (she believes she's had no response at all, since our replies are drafts only and nothing has been sent). Now also explicitly says "miss sold" and threatens a bad review if she doesn't hear back — repeat-unresolved-contact plus public-review threat stacked on the existing advertising dispute | Drafted an honest reply acknowledging this is her third email, not disputing her right to leave a review, and flags directly to the owner again that this needs an actual decision, not another reply | `Bot/Escalated - Owner Attention` (unchanged, reinforced) |
