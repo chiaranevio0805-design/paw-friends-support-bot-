@@ -35,3 +35,11 @@ One new thread, routine.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "My order" | Linzi Wood | #3063 | Rule 3 — first contact, says her own tracking lookup showed "no order found"; dispatched 20 July (~7 days in transit), within normal window, no complaint beyond the tracking confusion | Drafted reply with the correct tracking link, noting it can take time to update | `Bot/Draft Ready` |
+
+## Run 5 (hourly check-in, ~16:0x UTC)
+
+One new thread, routine chew-damage complaint.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: A shipment from order #3066 is on the way" | Eleanor Davies | #3066 | Rule 1 — dog destroyed a toy within an hour, first contact, no refund explicitly requested, no advertising-dispute language, no repeat contact | Drafted a friendly Rule-1 reply (chew damage, no refund per policy) | `Bot/Draft Ready` |
