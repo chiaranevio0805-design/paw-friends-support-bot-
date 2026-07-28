@@ -69,3 +69,11 @@ One new thread — a reclassification of an already-handled order, from a differ
 ### Note on Eleanor/Richard Davies (#3066)
 
 Thirteenth customer overall to dispute the "indestructible" advertising claim, and the second this week (after Peter Hensman, Run 6) where the same order needed reclassifying from a routine Rule-1 reply once the advertising language and a formal refund request surfaced on a follow-up — same pattern seen with Edward Henderson (#2762, 2026-07-27 Run 2). Worth re-checking chew-damage first replies for this before assuming they're closed.
+
+## Run 8 (hourly check-in, ~20:5x UTC)
+
+One new thread, order not identifiable from the sender's email.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Lasted 20 mins" | Helen Allen | — (no order found under this email) | Not classifiable yet — first contact, chew-damage/refund-policy request, but no order number given and the sender's email doesn't match any Shopify order | Drafted a reply asking for the order number or the name/address it was placed under | `Bot/Draft Ready` |
