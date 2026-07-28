@@ -57,3 +57,15 @@ Two new threads.
 ### Note on Peter Hensman (#2965)
 
 Twelfth customer overall to dispute the "indestructible"/"anti destructive structure" advertising claim — this pattern continues to recur multiple times per week.
+
+## Run 7 (hourly check-in, ~15:2x UTC)
+
+One new thread — a reclassification of an already-handled order, from a different household email.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Indestructible -- My Labrador Cari would like a word !!!" | Richard Davies (on behalf of Eleanor Davies) | #3066 | **Escalation, corrected from an earlier routine reply.** Same order given a routine Rule-1 chew-damage reply two days ago (2026-07-27 Run 5, no advertising language, no refund requested). This follow-up, sent from her partner's email, explicitly disputes the "indestructible" description by name and formally requests a refund under the 30-day guarantee (£34.95, three toys) — a disputed-advertising-claim escalation trigger, not a repeat chew complaint | Drafted a reply that acknowledges the earlier reply didn't address the advertising point, doesn't repeat the denial, and passes the refund decision to the owner | `Bot/Escalated - Owner Attention` |
+
+### Note on Eleanor/Richard Davies (#3066)
+
+Thirteenth customer overall to dispute the "indestructible" advertising claim, and the second this week (after Peter Hensman, Run 6) where the same order needed reclassifying from a routine Rule-1 reply once the advertising language and a formal refund request surfaced on a follow-up — same pattern seen with Edward Henderson (#2762, 2026-07-27 Run 2). Worth re-checking chew-damage first replies for this before assuming they're closed.
