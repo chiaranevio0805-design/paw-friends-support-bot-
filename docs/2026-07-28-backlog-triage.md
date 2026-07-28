@@ -36,3 +36,11 @@ One new thread, routine (angry tone).
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Re: Important Update Regarding Your Order" | Brian Hall | #3426 | Rule 3 — first contact, terse and angry ("This is ridiculous") reply to a bulk shipping-delay notice; order still UNFULFILLED (2 days old), not yet an escalation trigger (no advertising dispute, no consumer-law citation, no repeat contact) | Drafted an honest, extra-friendly reply per Rule 6 tone modifier, explaining the international-fulfilment delay honestly and offering reship/refund if it doesn't move soon | `Bot/Draft Ready` |
+
+## Run 5 (hourly check-in, ~12:3x UTC)
+
+One new thread — continuation of a long-running, already-escalated case, from a new Gmail thread (different subject wording, so not caught by the label-exclusion search under its existing Escalated label).
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Order 13th June." | Lynda Corney (richfdx602) | #1485 | Continuation of the ongoing #1485 saga (first raised 19 June, escalated 2026-07-03 and 2026-07-20 for a Trust Pilot citation and legitimacy dispute). Order shows dispatched 25 June — over a month ago — still apparently undelivered. Terse, angry message ("Is this some kind of joke?") with a screenshot attached | Drafted an honest reply acknowledging the six-week failure directly, not disputing her right to escalate further, and flags to the owner that this needs an actual resend/refund decision now | `Bot/Escalated - Owner Attention` (relabeled — new thread wasn't previously labeled) |
