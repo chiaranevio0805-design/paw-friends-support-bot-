@@ -44,3 +44,16 @@ One new thread — continuation of a long-running, already-escalated case, from 
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Order 13th June." | Lynda Corney (richfdx602) | #1485 | Continuation of the ongoing #1485 saga (first raised 19 June, escalated 2026-07-03 and 2026-07-20 for a Trust Pilot citation and legitimacy dispute). Order shows dispatched 25 June — over a month ago — still apparently undelivered. Terse, angry message ("Is this some kind of joke?") with a screenshot attached | Drafted an honest reply acknowledging the six-week failure directly, not disputing her right to escalate further, and flags to the owner that this needs an actual resend/refund decision now | `Bot/Escalated - Owner Attention` (relabeled — new thread wasn't previously labeled) |
+
+## Run 6 (hourly check-in, ~14:5x UTC)
+
+Two new threads.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Poor quality" | Peter Hensman | #2965 | Disputed advertising claim — toy destroyed within 30 minutes, explicitly quotes the "anti destructive structure" claim as the reason for purchase, requests a refund | Drafted an honest reply that doesn't apply the standard Rule-1 chew-damage denial, passes the advertising dispute and refund request to the owner | `Bot/Escalated - Owner Attention` |
+| "Just ordered my address is 22 gwalia terrace Sa44dw" | pheaher@icloud.com | — (no order found under this email) | Not classifiable yet — no order number given, message body otherwise empty, and the sender's email doesn't match any Shopify order | Drafted a reply asking for the order number or the name it was placed under | `Bot/Draft Ready` |
+
+### Note on Peter Hensman (#2965)
+
+Twelfth customer overall to dispute the "indestructible"/"anti destructive structure" advertising claim — this pattern continues to recur multiple times per week.
