@@ -28,3 +28,11 @@ Two new threads.
 ### Note on Nicholas Killick (#2964)
 
 The 24 July reply on this thread stated the order hadn't shipped due to UK stock issues, but Shopify's fulfillment record shows it was actually dispatched two days *before* that reply was drafted. Worth double-checking fulfillment status directly rather than relying on assumptions when a delay has already been mentioned once — this is the second instance this month of a shipping-status reply not matching the actual Shopify record (see also Helen Passfield's own tracking-lookup confusion, 2026-07-27).
+
+## Run 4 (hourly check-in, ~11:3x UTC)
+
+One new thread, routine (angry tone).
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Important Update Regarding Your Order" | Brian Hall | #3426 | Rule 3 — first contact, terse and angry ("This is ridiculous") reply to a bulk shipping-delay notice; order still UNFULFILLED (2 days old), not yet an escalation trigger (no advertising dispute, no consumer-law citation, no repeat contact) | Drafted an honest, extra-friendly reply per Rule 6 tone modifier, explaining the international-fulfilment delay honestly and offering reship/refund if it doesn't move soon | `Bot/Draft Ready` |
