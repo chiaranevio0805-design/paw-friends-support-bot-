@@ -45,3 +45,15 @@ Two follow-ups, both resolving previously-open questions.
 |---|---|---|---|---|---|
 | "Re: Order 3359" | Keith Appleby | #3359 | Confirmation reply — happy with the donkey correction (2026-07-25 escalation), no complaint | Drafted a short confirmation that the correction has been passed to the team | `Bot/Needs Approval` (unchanged — order-line correction is still a manual Shopify action) |
 | "Re: Delivery update please" | Alan Sutton (sutec21@gmail.com, previously sutec21@icloud.com) | #2988 | Rule 3 — provided the missing order number/address from a different email address than he first contacted us from; order found, dispatched 22 July, ~7 days in transit, within normal window | Drafted reply with tracking link | `Bot/Draft Ready` |
+
+## Run 6 (hourly check-in, ~09:0x UTC)
+
+One new complaint, sent as duplicate replies to two separate old threads.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: A shipment from order #3168 is on the way" + "Re: Important Update Regarding Your Order" | Mark Ellis | #3168 | Disputed advertising claim — toy (from the "Designed for Furry Friends Who Destroy Everything" line) destroyed within an hour, explicitly says he's unhappy with "the description on the website," refund requested with photo. Same product line as the recurring pattern, so treated as an advertising dispute rather than a routine Rule-1 denial, even though he didn't quote specific marketing copy verbatim | Drafted an honest reply on each thread (the second a shorter note pointing to the first, since it's the same complaint sent twice) that doesn't apply the standard chew-damage denial, passes the refund and description concern to the owner | `Bot/Escalated - Owner Attention` (both messages) |
+
+### Note on Mark Ellis (#3168)
+
+Fifteenth customer overall to raise the "Designed for Furry Friends Who Destroy Everything" advertising/description mismatch, though this is the first case where the dispute was inferred from context (product line + "unhappy with the description") rather than a verbatim quote — worth keeping an eye on whether vaguer "not as described" complaints on this product line should also route to escalation by default.
