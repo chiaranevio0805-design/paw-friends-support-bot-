@@ -96,3 +96,11 @@ One new thread — a direct, explicit "indestructible" claim dispute.
 ### Note on Mark Urwin (#2868)
 
 Sixteenth customer overall to directly dispute the "indestructible" claim — the running total keeps climbing at roughly the same pace as previous days.
+
+## Run 11 (hourly check-in, ~17:1x UTC)
+
+One new thread, routine return request.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Order #3162 confirmed" | Jo Perry (jo_chris@live.co.uk) | #3162 | Rule 5 — unhappy with quality on sight, hasn't given the toys to her dog, unused/unopened, order placed 21 July so well within the 30-day window. No advertising-claim language, no chew damage, no repeat contact | Drafted an honest reply confirming she can return the unused items for a refund, asking her to confirm original packaging | `Bot/Needs Approval` |
