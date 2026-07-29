@@ -84,3 +84,15 @@ One new thread — a direct advertising-claim dispute.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Re: A shipment from order #2956 is on the way" | Paul Cawthorne | #2956 (4 items, "Designed for Furry Friends Who Destroy Everything" line) | Disputed advertising claim — explicitly says "contrary to your claims" his dog destroyed the toy in under 10 minutes, photo attached, says he won't buy again. Direct language disputing the claim (stronger than Mark Ellis's Run 6 case) | Drafted an honest reply that doesn't argue or minimise, treats the claim dispute seriously, and passes it (with photo) to the owner rather than a chew-damage denial | `Bot/Escalated - Owner Attention` |
+
+## Run 10 (hourly check-in, ~13:5x UTC)
+
+One new thread — a direct, explicit "indestructible" claim dispute.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Toys" | Mark Urwin | #2868 | Disputed advertising claim — opens with "You say that these toys are indestructible," dog nearly destroyed the duck (leg hanging off, rope shredded) within an hour, directly asks whether these are "just normal toys" being advertised as something different. No refund explicitly requested, but the claim dispute itself is the escalation trigger | Drafted an honest reply that takes the question seriously rather than giving a generic chew-wear answer, passes it to the owner | `Bot/Escalated - Owner Attention` |
+
+### Note on Mark Urwin (#2868)
+
+Sixteenth customer overall to directly dispute the "indestructible" claim — the running total keeps climbing at roughly the same pace as previous days.
