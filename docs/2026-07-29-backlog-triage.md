@@ -76,3 +76,11 @@ One new thread, routine but a longer-than-usual delay.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Re: Order #3241 confirmed" | John Davies (kidktm69@gmail.com) | #3241 | Rule 3 — first contact, order 6 days old and still completely UNFULFILLED (UK stock out, international fulfilment). Polite, no anger, no repeat contact | Drafted honest reply explaining the international-fulfilment delay | `Bot/Draft Ready` |
+
+## Run 9 (hourly check-in, ~12:0x UTC)
+
+One new thread — a direct advertising-claim dispute.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: A shipment from order #2956 is on the way" | Paul Cawthorne | #2956 (4 items, "Designed for Furry Friends Who Destroy Everything" line) | Disputed advertising claim — explicitly says "contrary to your claims" his dog destroyed the toy in under 10 minutes, photo attached, says he won't buy again. Direct language disputing the claim (stronger than Mark Ellis's Run 6 case) | Drafted an honest reply that doesn't argue or minimise, treats the claim dispute seriously, and passes it (with photo) to the owner rather than a chew-damage denial | `Bot/Escalated - Owner Attention` |
