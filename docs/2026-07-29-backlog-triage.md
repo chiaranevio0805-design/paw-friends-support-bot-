@@ -57,3 +57,14 @@ One new complaint, sent as duplicate replies to two separate old threads.
 ### Note on Mark Ellis (#3168)
 
 Fifteenth customer overall to raise the "Designed for Furry Friends Who Destroy Everything" advertising/description mismatch, though this is the first case where the dispute was inferred from context (product line + "unhappy with the description") rather than a verbatim quote — worth keeping an eye on whether vaguer "not as described" complaints on this product line should also route to escalation by default.
+
+## Run 7 (hourly check-in, ~10:2x UTC)
+
+Four items.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "RE: Formal Complaint..." | Katy Markham | #1329 | Follow-up on the existing CRA 2015 escalation (Run 4) — she's simply confirmed she'll wait for a formal response from management, no new question raised | No new draft — a further reply would just be another holding message, which is exactly what she's already pushed back on; the real need is the owner's actual response | `Bot/Escalated - Owner Attention` (relabeled — new message wasn't carrying the label) |
+| "Re: Delivery update please" | Alan Sutton | #2988 | Direct shipping-origin question ("I assume it's coming from China then, not here in the UK?") — per the shipping/origin-language policy, answered truthfully rather than deflecting | Drafted an honest reply confirming it's not shipped from the UK, fulfilled via our international partner (Yanwen), without claiming a specific country we can't confirm | `Bot/Draft Ready` |
+| "Re: My order" | Linzi Wood | #3063 | Rule 1 — both toys ripped apart within an hour of arrival, asking how to access the "money back guarantee." No advertising-claim language, no consumer-law citation, no repeat-unresolved pattern — straightforward chew damage | Drafted an honest Rule-1 reply: no refund for chew damage, only exception is a proven pre-existing defect (photo of a non-chew fault) | `Bot/Draft Ready` |
+| "Order #3587" | Ian Brodie (brodiemondeo@yahoo.co.uk) | #3587 | Rule 3 — first contact, order 2 days old, still UNFULFILLED (UK stock out, international fulfilment) | Drafted honest reply per the shipping/origin-language policy, explaining the delay without volunteering a specific country | `Bot/Draft Ready` |
