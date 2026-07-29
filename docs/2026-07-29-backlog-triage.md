@@ -36,3 +36,12 @@ Two items: one a mislabeling catch on an already-handled case, one a formal cons
 ### Note on Katy Markham (#1329)
 
 Fourteenth customer overall to dispute the "indestructible"/"destroy everything" advertising claim, and the first to formally cite the Consumer Rights Act 2015 in writing rather than just mentioning legal/ombudsman action informally. Also now a second instance of an escalation reply's own promised timeline ("very shortly") going unfulfilled — worth the owner treating this one as time-sensitive given the written legal framing.
+
+## Run 5 (hourly check-in, ~08:0x UTC)
+
+Two follow-ups, both resolving previously-open questions.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Order 3359" | Keith Appleby | #3359 | Confirmation reply — happy with the donkey correction (2026-07-25 escalation), no complaint | Drafted a short confirmation that the correction has been passed to the team | `Bot/Needs Approval` (unchanged — order-line correction is still a manual Shopify action) |
+| "Re: Delivery update please" | Alan Sutton (sutec21@gmail.com, previously sutec21@icloud.com) | #2988 | Rule 3 — provided the missing order number/address from a different email address than he first contacted us from; order found, dispatched 22 July, ~7 days in transit, within normal window | Drafted reply with tracking link | `Bot/Draft Ready` |
