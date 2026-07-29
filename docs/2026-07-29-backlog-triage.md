@@ -68,3 +68,11 @@ Four items.
 | "Re: Delivery update please" | Alan Sutton | #2988 | Direct shipping-origin question ("I assume it's coming from China then, not here in the UK?") — per the shipping/origin-language policy, answered truthfully rather than deflecting | Drafted an honest reply confirming it's not shipped from the UK, fulfilled via our international partner (Yanwen), without claiming a specific country we can't confirm | `Bot/Draft Ready` |
 | "Re: My order" | Linzi Wood | #3063 | Rule 1 — both toys ripped apart within an hour of arrival, asking how to access the "money back guarantee." No advertising-claim language, no consumer-law citation, no repeat-unresolved pattern — straightforward chew damage | Drafted an honest Rule-1 reply: no refund for chew damage, only exception is a proven pre-existing defect (photo of a non-chew fault) | `Bot/Draft Ready` |
 | "Order #3587" | Ian Brodie (brodiemondeo@yahoo.co.uk) | #3587 | Rule 3 — first contact, order 2 days old, still UNFULFILLED (UK stock out, international fulfilment) | Drafted honest reply per the shipping/origin-language policy, explaining the delay without volunteering a specific country | `Bot/Draft Ready` |
+
+## Run 8 (hourly check-in, ~11:0x UTC)
+
+One new thread, routine but a longer-than-usual delay.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Order #3241 confirmed" | John Davies (kidktm69@gmail.com) | #3241 | Rule 3 — first contact, order 6 days old and still completely UNFULFILLED (UK stock out, international fulfilment). Polite, no anger, no repeat contact | Drafted honest reply explaining the international-fulfilment delay | `Bot/Draft Ready` |
