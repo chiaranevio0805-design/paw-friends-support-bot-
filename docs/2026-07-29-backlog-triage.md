@@ -23,3 +23,16 @@ One new thread — continuation of an already-escalated advertising-dispute case
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Re: Your plush toys" | Sarah Goldring | — (Klarna ref C214GT62 only; no order found under this email in Shopify) | Continuation of the existing "indestructible" advertising-dispute escalation (three toys destroyed within an hour); replied to the request for an order number with a Klarna payment reference instead, which doesn't match anything in Shopify | Drafted a reply explaining the Klarna reference alone doesn't resolve to an order, asking for the name/delivery address the order was placed under, and reconfirming the underlying complaint is still going to the owner once matched up | `Bot/Escalated - Owner Attention` (relabeled — new message wasn't carrying the thread's existing label) |
+
+## Run 4 (hourly check-in, ~07:1x UTC)
+
+Two items: one a mislabeling catch on an already-handled case, one a formal consumer-law escalation.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "My order" | Linzi Wood | #3063 | **Found mislabeled, no new action needed.** Same message already handled in full on 2026-07-27 Run 4 (tracking-lookup reply drafted), but this specific message never received the `Bot/Draft Ready` label, so it kept resurfacing in the exclusion search | Applied the missing label only; no new draft created (one already exists from 2026-07-27) | `Bot/Draft Ready` (label applied, catching up) |
+| "Formal Complaint: Breach of Consumer Rights Act 2015 - Order 1329" | Katy Markham (GM_ES@btinternet.com) | #1329 (paid, fulfilled, £24.95, 2 plushies "Designed for Furry Friends Who Destroy Everything") | Escalation — explicit Consumer Rights Act 2015 citation, formal written complaint, exercising the statutory short-term right to reject goods, refund demand. Already escalated once (28 July reply promised "very shortly" with no update since) — same advertising-claim pattern as the other "indestructible"/"destroy everything" disputes | Drafted an honest reply that doesn't dispute her statutory rights, doesn't repeat the unfulfilled "shortly" promise, and reconfirms this is now with the owner for an actual decision | `Bot/Escalated - Owner Attention` (relabeled — new message wasn't carrying the thread's existing label) |
+
+### Note on Katy Markham (#1329)
+
+Fourteenth customer overall to dispute the "indestructible"/"destroy everything" advertising claim, and the first to formally cite the Consumer Rights Act 2015 in writing rather than just mentioning legal/ombudsman action informally. Also now a second instance of an escalation reply's own promised timeline ("very shortly") going unfulfilled — worth the owner treating this one as time-sensitive given the written legal framing.
