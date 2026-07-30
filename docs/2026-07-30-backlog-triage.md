@@ -43,3 +43,12 @@ One new thread, clean pre-shipment address correction.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Order no. 3876" | Michael Warren | #3876 | Address-correction request — order placed same day, still UNFULFILLED, so there's time to update the shipping address before dispatch | Drafted reply confirming the new address has been passed on for correction | `Bot/Needs Approval` (address correction is a manual Shopify action, not something the bot can execute) |
+
+## Run 6 (hourly check-in, ~13:5x UTC)
+
+Two new threads, both non-support solicitation probes.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: IMPORTANT MESSAGE" | vfiyinfunoluwa@gmail.com | — | Follow-up confirms this is a marketing/agency probe, not a genuine query — after being asked to clarify, the reply pivots to asking about our marketing strategies. Reclassified from the prior `Bot/Escalated - Owner Attention` label (applied when the vague "Who owns this store?" opener looked ambiguous) now that intent is clear | No reply | `Bot/No Action` |
+| "..." (no subject) | enishopifysdvisory@gmail.com | — | Not a support case — opens by asking "Are you the owner or manager," same shape as prior agency/marketing solicitation probes | No reply | `Bot/No Action` |
