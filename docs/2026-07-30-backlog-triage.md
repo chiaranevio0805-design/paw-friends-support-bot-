@@ -19,3 +19,11 @@ One new thread, clean pre-shipment cancellation.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Re: Order #3650 confirmed" | Craig Bryan | #3650 | Cancellation request ("changed my mind") — order still UNFULFILLED (placed 2 days ago), so a clean pre-shipment cancel/refund, not a Rule-4 case | Drafted honest reply confirming the order hasn't shipped and can be cancelled/refunded in full | `Bot/Needs Approval` (cancellation/refund is a manual Shopify action, not something the bot can execute) |
+
+## Run 3 (hourly check-in, ~09:5x UTC)
+
+One new thread, routine.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Delivery date" | flolo6514@gmail.com (order placed under Jennie Tidiman) | #3274 | Rule 3 — first contact, no order number given but found via sender's email; dispatched 26 July, ~4 days in transit, within normal window | Drafted reply with tracking link | `Bot/Draft Ready` |
