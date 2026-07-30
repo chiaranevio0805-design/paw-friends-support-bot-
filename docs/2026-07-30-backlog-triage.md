@@ -68,3 +68,11 @@ One new thread, order not identifiable.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Can you solve the order issue?" | scapessuper34@gmail.com | — (no order found under this email) | Not classifiable yet — vague one-line message with no order number or detail, and the sender's email doesn't match any Shopify order | Drafted a reply asking for the order number and more detail | `Bot/Draft Ready` |
+
+## Run 9 (hourly check-in, ~18:1x UTC)
+
+One new thread, same pricing/promo pattern seen before.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Order #3916" | Robert Brookfield | #3916 | Not covered by the six numbered rules — same Zahnbuddy free-gift-vs-charged pricing dispute as Kelly Hawkins (#3656, 2026-07-28 Run 3); order also carries an "UpCart Rewards" tag. Order still UNFULFILLED (placed same day) | Drafted an honest reply that doesn't confirm or deny a credit itself, flags the promo/pricing question to the owner, notes there's still time to fix before dispatch | `Bot/Needs Approval` |
