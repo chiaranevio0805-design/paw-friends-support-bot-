@@ -92,3 +92,14 @@ One new thread, routine.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "#3714" | Sue Tudor (susie_tudor@hotmail.co.uk) | #3714 | Rule 3 — first contact, order 2 days old, still UNFULFILLED (UK stock out, international fulfilment) | Drafted honest reply explaining the delay | `Bot/Draft Ready` |
+
+## Run 12 (hourly check-in, ~20:5x UTC)
+
+Four new threads.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "No tracking details" | Ian Rome | #3698 | Rule 3 — first contact, no order number given but found via sender's email; order 2 days old, still UNFULFILLED (UK stock out, international fulfilment) | Drafted honest reply explaining the delay | `Bot/Draft Ready` |
+| "Re: Order #3930 confirmed" | Adam Worsell | #3930 | Address-correction request (old address on file) — order placed same day, still UNFULFILLED, so there's time to update before dispatch | Drafted reply confirming the new address has been passed on | `Bot/Needs Approval` (manual Shopify action) |
+| "Re: Order #2862 confirmed" | Brenda Glass | #2862 | Judgment call — US order dispatched 17 July via RD Express, 13 days in transit with no delivery yet; longer than routine, not yet at the "several weeks" threshold seen in other cases | Drafted an honest reply that doesn't just reassure — flags it for a real tracking check and reship/refund decision if it doesn't turn up soon | `Bot/Needs Approval` |
+| "..." (no subject) | brandstrategy.peakconix@gmail.com | — | Not a support case — vague "Black Friday planning" question with no order reference, same "peakconix" domain as a prior bulk-order/marketing solicitation (g.m.peakconixteam@gmail.com, 2026-07-26 Run 2) | No reply | `Bot/No Action` |
