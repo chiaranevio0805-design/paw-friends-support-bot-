@@ -35,3 +35,11 @@ One new complaint, sent as duplicate messages on two forwarded threads within mi
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Fw: Order #3404 confirmed" + "Fw: Link to order #3404" | Cherrie Handsaker (cherrie.lewis@hotmail.com, "Mrs Lewis") | #3404 | Rule 3 — first contact, polite, order 5 days old and still UNFULFILLED (UK stock out, international fulfilment) | Drafted a full reply on the first thread and a shorter note on the second pointing to it, since it's the same order/question sent twice | `Bot/Draft Ready` (both messages) |
+
+## Run 5 (hourly check-in, ~12:0x UTC)
+
+One new thread, clean pre-shipment address correction.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Order no. 3876" | Michael Warren | #3876 | Address-correction request — order placed same day, still UNFULFILLED, so there's time to update the shipping address before dispatch | Drafted reply confirming the new address has been passed on for correction | `Bot/Needs Approval` (address correction is a manual Shopify action, not something the bot can execute) |
