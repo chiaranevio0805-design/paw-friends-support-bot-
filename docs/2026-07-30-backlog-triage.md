@@ -76,3 +76,11 @@ One new thread, same pricing/promo pattern seen before.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Order #3916" | Robert Brookfield | #3916 | Not covered by the six numbered rules — same Zahnbuddy free-gift-vs-charged pricing dispute as Kelly Hawkins (#3656, 2026-07-28 Run 3); order also carries an "UpCart Rewards" tag. Order still UNFULFILLED (placed same day) | Drafted an honest reply that doesn't confirm or deny a credit itself, flags the promo/pricing question to the owner, notes there's still time to fix before dispatch | `Bot/Needs Approval` |
+
+## Run 10 (hourly check-in, ~19:2x UTC)
+
+One new thread, routine.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Broken" | John Wilkins | #3155 | Rule 1 — dog destroyed the toy within 24 hours, refund requested, no advertising-claim language. New complaint on an order previously only handled as a routine tracking check (2026-07-27 Run 3) | Drafted a friendly Rule-1 reply (chew damage, no refund per policy) | `Bot/Draft Ready` |
