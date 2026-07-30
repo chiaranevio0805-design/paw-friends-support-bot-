@@ -60,3 +60,11 @@ One new thread, routine (angry tone).
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "What a piece of rubbish!" | Marian White (madge1960@hotmail.co.uk) | #2991 | Rule 1 — first contact, blunt one-liner, dog destroyed the monkey plushie within 5 minutes, no refund explicitly requested, no advertising-claim quote, no repeat contact | Drafted a friendly Rule-1 reply (chew damage, no refund per policy, per Rule 6 tone modifier) | `Bot/Draft Ready` |
+
+## Run 8 (hourly check-in, ~17:0x UTC)
+
+One new thread, order not identifiable.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Can you solve the order issue?" | scapessuper34@gmail.com | — (no order found under this email) | Not classifiable yet — vague one-line message with no order number or detail, and the sender's email doesn't match any Shopify order | Drafted a reply asking for the order number and more detail | `Bot/Draft Ready` |
