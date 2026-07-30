@@ -84,3 +84,11 @@ One new thread, routine.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Broken" | John Wilkins | #3155 | Rule 1 — dog destroyed the toy within 24 hours, refund requested, no advertising-claim language. New complaint on an order previously only handled as a routine tracking check (2026-07-27 Run 3) | Drafted a friendly Rule-1 reply (chew damage, no refund per policy) | `Bot/Draft Ready` |
+
+## Run 11 (hourly check-in, ~19:3x UTC)
+
+One new thread, routine.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "#3714" | Sue Tudor (susie_tudor@hotmail.co.uk) | #3714 | Rule 3 — first contact, order 2 days old, still UNFULFILLED (UK stock out, international fulfilment) | Drafted honest reply explaining the delay | `Bot/Draft Ready` |
