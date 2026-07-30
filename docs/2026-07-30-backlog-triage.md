@@ -27,3 +27,11 @@ One new thread, routine.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Delivery date" | flolo6514@gmail.com (order placed under Jennie Tidiman) | #3274 | Rule 3 — first contact, no order number given but found via sender's email; dispatched 26 July, ~4 days in transit, within normal window | Drafted reply with tracking link | `Bot/Draft Ready` |
+
+## Run 4 (hourly check-in, ~11:0x UTC)
+
+One new complaint, sent as duplicate messages on two forwarded threads within minutes.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Fw: Order #3404 confirmed" + "Fw: Link to order #3404" | Cherrie Handsaker (cherrie.lewis@hotmail.com, "Mrs Lewis") | #3404 | Rule 3 — first contact, polite, order 5 days old and still UNFULFILLED (UK stock out, international fulfilment) | Drafted a full reply on the first thread and a shorter note on the second pointing to it, since it's the same order/question sent twice | `Bot/Draft Ready` (both messages) |
