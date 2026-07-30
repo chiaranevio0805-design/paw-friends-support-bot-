@@ -103,3 +103,11 @@ Four new threads.
 | "Re: Order #3930 confirmed" | Adam Worsell | #3930 | Address-correction request (old address on file) — order placed same day, still UNFULFILLED, so there's time to update before dispatch | Drafted reply confirming the new address has been passed on | `Bot/Needs Approval` (manual Shopify action) |
 | "Re: Order #2862 confirmed" | Brenda Glass | #2862 | Judgment call — US order dispatched 17 July via RD Express, 13 days in transit with no delivery yet; longer than routine, not yet at the "several weeks" threshold seen in other cases | Drafted an honest reply that doesn't just reassure — flags it for a real tracking check and reship/refund decision if it doesn't turn up soon | `Bot/Needs Approval` |
 | "..." (no subject) | brandstrategy.peakconix@gmail.com | — | Not a support case — vague "Black Friday planning" question with no order reference, same "peakconix" domain as a prior bulk-order/marketing solicitation (g.m.peakconixteam@gmail.com, 2026-07-26 Run 2) | No reply | `Bot/No Action` |
+
+## Run 13 (hourly check-in, ~22:2x UTC)
+
+One new thread, pre-shipment cancellation driven by reviews rather than personal experience.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Cancel order" | Katharine Swann (swanny1412@gmail.com) | #3944 | Cancellation request — placed the order, then read negative reviews about durability ("not as advertised") and wants to cancel before receiving it, rather than a complaint about her own experience. Order still UNFULFILLED (placed minutes earlier), so a clean pre-shipment cancel/refund | Drafted honest reply confirming the order hasn't shipped and can be cancelled/refunded in full | `Bot/Needs Approval` (cancellation/refund is a manual Shopify action) |
