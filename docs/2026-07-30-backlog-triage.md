@@ -52,3 +52,11 @@ Two new threads, both non-support solicitation probes.
 |---|---|---|---|---|---|
 | "Re: IMPORTANT MESSAGE" | vfiyinfunoluwa@gmail.com | — | Follow-up confirms this is a marketing/agency probe, not a genuine query — after being asked to clarify, the reply pivots to asking about our marketing strategies. Reclassified from the prior `Bot/Escalated - Owner Attention` label (applied when the vague "Who owns this store?" opener looked ambiguous) now that intent is clear | No reply | `Bot/No Action` |
 | "..." (no subject) | enishopifysdvisory@gmail.com | — | Not a support case — opens by asking "Are you the owner or manager," same shape as prior agency/marketing solicitation probes | No reply | `Bot/No Action` |
+
+## Run 7 (hourly check-in, ~14:5x UTC)
+
+One new thread, routine (angry tone).
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "What a piece of rubbish!" | Marian White (madge1960@hotmail.co.uk) | #2991 | Rule 1 — first contact, blunt one-liner, dog destroyed the monkey plushie within 5 minutes, no refund explicitly requested, no advertising-claim quote, no repeat contact | Drafted a friendly Rule-1 reply (chew damage, no refund per policy, per Rule 6 tone modifier) | `Bot/Draft Ready` |
