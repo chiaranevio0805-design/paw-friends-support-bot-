@@ -111,3 +111,15 @@ One new thread, pre-shipment cancellation driven by reviews rather than personal
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Cancel order" | Katharine Swann (swanny1412@gmail.com) | #3944 | Cancellation request — placed the order, then read negative reviews about durability ("not as advertised") and wants to cancel before receiving it, rather than a complaint about her own experience. Order still UNFULFILLED (placed minutes earlier), so a clean pre-shipment cancel/refund | Drafted honest reply confirming the order hasn't shipped and can be cancelled/refunded in full | `Bot/Needs Approval` (cancellation/refund is a manual Shopify action) |
+
+## Run 14 (hourly check-in, ~22:5x UTC)
+
+One new thread — a serious, well-documented formal complaint.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Complaint re poor quality goods" | Martin J Cooke | #2401 | Multiple escalation triggers — formal letter explicitly citing the Consumer Rights Act 2015 (satisfactory quality, fitness for purpose, matching description), disputes the "indestructible"/"suitable for heavy chewers" claims with timestamped photo evidence (toy destroyed in under 2 hours), and repeat unresolved contact: three prior emails (2, and two follow-ups) all met with the same templated "no refunds on used items" reply on 17 July, none engaging with the actual complaint | Drafted an honest reply that explicitly acknowledges the three prior template replies weren't adequate, doesn't repeat that denial, and passes the letter, timeline, and evidence to the owner for a real decision | `Bot/Escalated - Owner Attention` |
+
+### Note on Martin Cooke (#2401)
+
+Seventeenth customer overall to dispute the "indestructible" advertising claim, and one of the more serious cases: he has photographic/timestamped evidence, cited the Consumer Rights Act 2015 by name, and was given the same inadequate templated denial three separate times before escalating to a formal letter. Recommend treating this one as high priority given the documentation and repeat pattern.
