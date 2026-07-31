@@ -123,3 +123,11 @@ One new thread — a serious, well-documented formal complaint.
 ### Note on Martin Cooke (#2401)
 
 Seventeenth customer overall to dispute the "indestructible" advertising claim, and one of the more serious cases: he has photographic/timestamped evidence, cited the Consumer Rights Act 2015 by name, and was given the same inadequate templated denial three separate times before escalating to a formal letter. Recommend treating this one as high priority given the documentation and repeat pattern.
+
+## Run 15 (hourly check-in, ~23:5x UTC)
+
+One new thread, clean pre-shipment address correction.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Change shipping address" | ozzerella77@yahoo.com (order under Kristin Pence) | #3949 | Address-correction request — order placed under 30 minutes ago, still UNFULFILLED, so there's time to update; she didn't include the new address in her message | Drafted reply confirming there's time to fix it, asking her to send the correct address | `Bot/Needs Approval` (address correction is a manual Shopify action) |
