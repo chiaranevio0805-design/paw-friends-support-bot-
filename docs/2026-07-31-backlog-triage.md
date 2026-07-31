@@ -44,3 +44,12 @@ One new thread — a serious complaint combining a safety concern with a specifi
 ### Note on Kevin Saggers (#3197)
 
 A different flavour of the recurring advertising-dispute pattern — not the "indestructible" claim this time, but a "rope reinforced" description he says wasn't met, plus a genuine safety concern about a plastic component. Worth the owner checking whether this is a manufacturing/QC issue rather than just wear.
+
+## Run 5 (hourly check-in, ~12:1x UTC)
+
+Two new threads.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Order #3592 confirmed" | Loraine Robinson (lorylr@outlook.com) | #3592 | Rule 3 — first contact, dispatched 29 July, ~2 days in transit, within normal window | Drafted reply with tracking link | `Bot/Draft Ready` |
+| "KURZE FRAGE" | rossivogel.ecom@gmail.com | — | Not a support case — German-language message asking "can I speak with the shop owner," same shape as prior agency/marketing solicitation probes ("Are you the owner or manager") | No reply | `Bot/No Action` |
