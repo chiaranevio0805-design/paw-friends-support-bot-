@@ -87,3 +87,11 @@ Two items: a cancellation request that's arrived too late, and a simple thank-yo
 |---|---|---|---|---|---|
 | "Order #3474" | Dave/Marie Reid (davereid.bds@icloud.com) | #3474 | Cancellation request — order already dispatched 27 July, so can't be intercepted | Drafted honest reply explaining it's already shipped, offering a return/refund once it arrives if unused | `Bot/Needs Approval` |
 | "Re: A shipment from order #3242 is on the way" | Irene Hatter | #3242 | Simple "Thank you!" closing out the tracking reply (31 July Run 3) — no new content | No reply needed | `Bot/Draft Ready` (unchanged) |
+
+## Run 9 (hourly check-in, ~17:2x UTC)
+
+One new thread — a US order now apparently lost, second contact demanding a refund.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Order #2783" | Barbara Swindler | #2783 | Repeat unresolved contact — dispatched 7 July to Pennsylvania, now 24 days with no delivery and no tracking movement (originally flagged as a judgment call on 2026-07-24 at 17 days); she's now demanding a refund outright | Drafted an honest reply that doesn't ask her to wait again, flags the parcel as apparently lost and passes the refund request to the owner for an actual decision | `Bot/Escalated - Owner Attention` (relabeled from `Bot/Needs Approval`) |
