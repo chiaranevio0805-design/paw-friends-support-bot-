@@ -68,3 +68,13 @@ Five items: two clean closures, one reclassification, and one new escalation.
 ### Note on John Wilkins (#3155) and Russell Peck (#2957)
 
 Two more advertising-dispute cases today, bringing the running total to 21. John Wilkins is now the second case this window (after Edward Henderson, Mark Ellis) where a first reply treated a chew complaint as routine before a follow-up revealed it should have been escalated — worth continuing to watch for specific claim quotes ("double stitched," "won't rip," etc.) in first-contact chew complaints too, not just after a pushback.
+
+## Run 7 (hourly check-in, ~14:5x UTC)
+
+Three simple follow-ups closing out earlier items.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Order #3162 confirmed" | Jo Perry | #3162 | Confirms the unused items are still in original packaging (per Run 6, 31 July) | Drafted a short reply confirming the return/refund will proceed | `Bot/Needs Approval` (unchanged) |
+| "Re: Broken" | John Wilkins | #3155 | Simple "thank you" acknowledging the escalation reply (Run 6) — no new content | No reply needed | `Bot/Escalated - Owner Attention` (unchanged) |
+| "Re: Order #3930 confirmed" | Adam Worsell | #3930 | Simple "thank you" acknowledging the address correction (Run 6) — no new content | No reply needed | `Bot/Needs Approval` (unchanged) |
