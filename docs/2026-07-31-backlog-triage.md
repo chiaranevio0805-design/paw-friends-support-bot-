@@ -78,3 +78,12 @@ Three simple follow-ups closing out earlier items.
 | "Re: Order #3162 confirmed" | Jo Perry | #3162 | Confirms the unused items are still in original packaging (per Run 6, 31 July) | Drafted a short reply confirming the return/refund will proceed | `Bot/Needs Approval` (unchanged) |
 | "Re: Broken" | John Wilkins | #3155 | Simple "thank you" acknowledging the escalation reply (Run 6) — no new content | No reply needed | `Bot/Escalated - Owner Attention` (unchanged) |
 | "Re: Order #3930 confirmed" | Adam Worsell | #3930 | Simple "thank you" acknowledging the address correction (Run 6) — no new content | No reply needed | `Bot/Needs Approval` (unchanged) |
+
+## Run 8 (hourly check-in, ~15:3x UTC)
+
+Two items: a cancellation request that's arrived too late, and a simple thank-you close-out.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Order #3474" | Dave/Marie Reid (davereid.bds@icloud.com) | #3474 | Cancellation request — order already dispatched 27 July, so can't be intercepted | Drafted honest reply explaining it's already shipped, offering a return/refund once it arrives if unused | `Bot/Needs Approval` |
+| "Re: A shipment from order #3242 is on the way" | Irene Hatter | #3242 | Simple "Thank you!" closing out the tracking reply (31 July Run 3) — no new content | No reply needed | `Bot/Draft Ready` (unchanged) |
