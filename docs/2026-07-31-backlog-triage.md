@@ -32,3 +32,15 @@ Two items: a repeat send of an already-handled case, and a routine tracking foll
 |---|---|---|---|---|---|
 | "Fwd: Order #3162 confirmed" | Jo Perry | #3162 | Repeat send, no new content — she's forwarded the exact same message already handled on 2026-07-29 Run 11 (Rule 5 return, drafted reply), likely because there's been no visible reply since the bot only drafts | No new draft needed; existing draft from Run 11 still stands | `Bot/Needs Approval` (relabeled — new message wasn't carrying the label) |
 | "Re: A shipment from order #3242 is on the way" | Irene Hatter | #3242 | Rule 3 — first contact, dispatched 26 July, ~5 days in transit, within normal window | Drafted reply with tracking link | `Bot/Draft Ready` |
+
+## Run 4 (hourly check-in, ~08:1x UTC)
+
+One new thread — a serious complaint combining a safety concern with a specific advertising dispute.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Staffy proof" | Kevin Saggers (kevindavbell@gmail.com) | #3197 | Multiple escalation triggers — quality complaint ("like something out of Sainsbury's for £5"), a safety concern (says the toys have plastic components that could be dangerous), and a specific description dispute (asks "where is the rope reinforced toy as advertised"), photos attached, full refund requested | Drafted an honest reply that takes the safety point seriously, doesn't apply a generic chew-damage denial, and passes the refund request, photos, and safety concern to the owner | `Bot/Escalated - Owner Attention` |
+
+### Note on Kevin Saggers (#3197)
+
+A different flavour of the recurring advertising-dispute pattern — not the "indestructible" claim this time, but a "rope reinforced" description he says wasn't met, plus a genuine safety concern about a plastic component. Worth the owner checking whether this is a manufacturing/QC issue rather than just wear.
