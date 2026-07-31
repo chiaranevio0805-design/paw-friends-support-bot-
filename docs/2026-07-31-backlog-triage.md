@@ -53,3 +53,18 @@ Two new threads.
 |---|---|---|---|---|---|
 | "Re: Order #3592 confirmed" | Loraine Robinson (lorylr@outlook.com) | #3592 | Rule 3 — first contact, dispatched 29 July, ~2 days in transit, within normal window | Drafted reply with tracking link | `Bot/Draft Ready` |
 | "KURZE FRAGE" | rossivogel.ecom@gmail.com | — | Not a support case — German-language message asking "can I speak with the shop owner," same shape as prior agency/marketing solicitation probes ("Are you the owner or manager") | No reply | `Bot/No Action` |
+
+## Run 6 (hourly check-in, ~14:1x UTC)
+
+Five items: two clean closures, one reclassification, and one new escalation.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Change shipping address" | Kristin Pence (ozzerella77@yahoo.com) | #3949 | Follow-up providing the new address requested in Run 15 (30 July) | Drafted a short confirmation the new address has been passed on | `Bot/Needs Approval` (unchanged) |
+| "Re: Order no. 3876" | Michael Warren (djfreeon43@gmail.com) | #3876 | Simple thank-you, confirms the address correction (30 July Run 5) — no new content | No reply needed | `Bot/No Action` |
+| "Re: Broken" | John Wilkins | #3155 | **Escalation, corrected from an earlier routine reply.** His response to the Rule-1 denial (Run 10, 30 July) now explicitly quotes the "won't rip"/"double stitched" claims and the money-back guarantee, and calls the company "con artists" — this is a disputed-advertising-claim escalation, not a repeat chew complaint | Drafted a reply acknowledging the earlier reply didn't address the advertising point, doesn't argue back, passes it to the owner | `Bot/Escalated - Owner Attention` (relabeled from `Bot/Draft Ready`) |
+| "Re: Order #2957 confirmed" | Russell Peck | #2957 | Disputed advertising claim — "designed for those pups/dogs who destroy everything," didn't last 5 minutes, explicitly says "the advertising needs to be updated" | Drafted an honest reply that doesn't apply a generic chew-damage denial, passes it to the owner | `Bot/Escalated - Owner Attention` |
+
+### Note on John Wilkins (#3155) and Russell Peck (#2957)
+
+Two more advertising-dispute cases today, bringing the running total to 21. John Wilkins is now the second case this window (after Edward Henderson, Mark Ellis) where a first reply treated a chew complaint as routine before a follow-up revealed it should have been escalated — worth continuing to watch for specific claim quotes ("double stitched," "won't rip," etc.) in first-contact chew complaints too, not just after a pushback.
