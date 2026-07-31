@@ -95,3 +95,11 @@ One new thread — a US order now apparently lost, second contact demanding a re
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Re: Order #2783" | Barbara Swindler | #2783 | Repeat unresolved contact — dispatched 7 July to Pennsylvania, now 24 days with no delivery and no tracking movement (originally flagged as a judgment call on 2026-07-24 at 17 days); she's now demanding a refund outright | Drafted an honest reply that doesn't ask her to wait again, flags the parcel as apparently lost and passes the refund request to the owner for an actual decision | `Bot/Escalated - Owner Attention` (relabeled from `Bot/Needs Approval`) |
+
+## Run 10 (hourly check-in, ~19:4x UTC)
+
+One new thread, a fair piece of feedback rather than a new complaint.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: No tracking details" | Ian Rome | #3698 | Follow-up on the delay reply (31 July Run 9) — he raises a fair point that the store shouldn't market itself as UK-based if fulfilment isn't from the UK, and that proactive updates would be better than having to chase. Not a refund request or one of the six escalation triggers, but a legitimate piece of feedback worth passing on honestly rather than deflecting | Drafted an honest reply that doesn't dismiss the point, acknowledges it fairly, and confirms the tracking update will still follow | `Bot/Draft Ready` |
