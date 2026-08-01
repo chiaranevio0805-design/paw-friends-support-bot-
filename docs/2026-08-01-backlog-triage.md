@@ -51,3 +51,15 @@ One new thread — a reclassification of an already-handled routine reply.
 ### Note on Marian White (#2991)
 
 Another instance of the recurring pattern where a first reply treats a chew complaint as routine before a follow-up reveals it should have been escalated (after Edward Henderson, Mark Ellis, John Wilkins). Also another data point on the "designed for furry friends that destroy everything" product line specifically.
+
+## Run 6 (hourly check-in, ~21:0x UTC)
+
+One new thread — another reclassification of an already-handled routine reply.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: My order" | Linzi Wood (linzimatthews1975@gmail.com) | #3063 | **Escalation, corrected from an earlier routine reply.** Original chew-damage complaint (2026-07-27/29) was handled as routine Rule 1 with a money-back-guarantee denial (2026-07-31). This follow-up explicitly disputes the "indestructible" claim across "all your adverts" as the reason the denial policy is unreasonable — a disputed-advertising-claim escalation | Drafted a reply acknowledging the earlier reply didn't address the advertising point, doesn't repeat the denial, and passes it to the owner | `Bot/Escalated - Owner Attention` (relabeled from `Bot/Draft Ready`) |
+
+### Note on Linzi Wood (#3063)
+
+Twenty-third customer overall to dispute the "indestructible" advertising claim, and another instance of the recurring pattern where a first reply treats a chew complaint as routine before a follow-up reveals it should have been escalated (after Edward Henderson, Mark Ellis, John Wilkins, Marian White).
