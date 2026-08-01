@@ -31,3 +31,11 @@ One new thread — a direct "indestructible" claim dispute with a consumer-law c
 ### Note on Christine Macdonald (#3050)
 
 Twenty-second customer overall to dispute the "indestructible" advertising claim, and the first this week to explicitly cite the Sale of Goods Act by name alongside a public-review/social-media threat.
+
+## Run 4 (hourly check-in, ~13:3x UTC)
+
+One new thread, routine.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Order #3107 confirmed" | Martin Weavers (mweavers@norfolkhomes.co.uk) | #3107 | Rule 1 — dog chewed the toy up within two days, refund requested, no advertising-claim language, no repeat-unresolved pattern | Drafted a friendly Rule-1 reply (chew damage, no refund per policy, per Rule 6 tone modifier) | `Bot/Draft Ready` |
