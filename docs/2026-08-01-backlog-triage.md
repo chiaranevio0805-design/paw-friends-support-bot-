@@ -19,3 +19,15 @@ One new thread — a continuation of the already-escalated Kevin Saggers case (#
 ### Note on Kevin Saggers (#3197)
 
 Same customer and order as 2026-07-31 Run 4, now escalating further with a formal dispute/Trading Standards threat after apparently not seeing a reply (the bot only drafts, so nothing was actually sent to him yet). Recommend the owner treat this one as time-sensitive given the repeat contact plus safety element.
+
+## Run 3 (hourly check-in, ~12:5x UTC)
+
+One new thread — a direct "indestructible" claim dispute with a consumer-law citation and a social-media threat.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Important Update Regarding Your Order" | Christine Macdonald (chrisandmac@sky.com) | #3050 | Multiple escalation triggers — disputes the "well made and indestructable" advertising claim, explicitly invokes the Sale of Goods Act, demands a full refund and a prepaid return label, and threatens to post photos on social media if not answered quickly | Drafted an honest reply that doesn't apply a generic chew-damage denial, doesn't dispute her right to post publicly or cite consumer law, and passes the refund/return request to the owner | `Bot/Escalated - Owner Attention` |
+
+### Note on Christine Macdonald (#3050)
+
+Twenty-second customer overall to dispute the "indestructible" advertising claim, and the first this week to explicitly cite the Sale of Goods Act by name alongside a public-review/social-media threat.
