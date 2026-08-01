@@ -63,3 +63,11 @@ One new thread — another reclassification of an already-handled routine reply.
 ### Note on Linzi Wood (#3063)
 
 Twenty-third customer overall to dispute the "indestructible" advertising claim, and another instance of the recurring pattern where a first reply treats a chew complaint as routine before a follow-up reveals it should have been escalated (after Edward Henderson, Mark Ellis, John Wilkins, Marian White).
+
+## Run 7 (hourly check-in, ~22:0x UTC)
+
+One new thread, simple close-out.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Cancel order" | Katharine Swann (swanny1412@gmail.com) | #3944 | Simple "Thank you so much" closing out the cancellation confirmation (2026-07-31) — no new content | No reply needed | `Bot/Needs Approval` (relabeled — new message wasn't carrying the thread's existing label) |
