@@ -39,3 +39,15 @@ One new thread, routine.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Order #3107 confirmed" | Martin Weavers (mweavers@norfolkhomes.co.uk) | #3107 | Rule 1 — dog chewed the toy up within two days, refund requested, no advertising-claim language, no repeat-unresolved pattern | Drafted a friendly Rule-1 reply (chew damage, no refund per policy, per Rule 6 tone modifier) | `Bot/Draft Ready` |
+
+## Run 5 (hourly check-in, ~15:4x UTC)
+
+One new thread — a reclassification of an already-handled routine reply.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: What a piece of rubbish!" | Marian White (madge1960@hotmail.co.uk) | #2991 | **Escalation, corrected from an earlier routine reply.** Original message (2026-07-30 Run 7) was a blunt one-liner with no advertising-claim quote, handled as routine Rule 1. This follow-up explicitly quotes the "designed for furry friends that destroy everything" description and calls it poor quality/waste of money with a 9-month-old puppy — a disputed-advertising-claim escalation | Drafted a reply acknowledging the earlier reply didn't address the advertising point, doesn't repeat the denial, and passes it to the owner | `Bot/Escalated - Owner Attention` (relabeled from `Bot/Draft Ready`) |
+
+### Note on Marian White (#2991)
+
+Another instance of the recurring pattern where a first reply treats a chew complaint as routine before a follow-up reveals it should have been escalated (after Edward Henderson, Mark Ellis, John Wilkins). Also another data point on the "designed for furry friends that destroy everything" product line specifically.
