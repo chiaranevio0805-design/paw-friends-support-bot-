@@ -36,3 +36,11 @@ One new thread, routine follow-up on an existing return case.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Re: Order #3162 confirmed" | Jo Perry (jo_chris@live.co.uk) | #3162 | Rule 5 continuation — confirmed unused/original packaging (2026-07-31), now asking for return details to send items back for a full refund | Drafted a short reply confirming the return details/prepaid label will be sent along with the refund | `Bot/Needs Approval` (unchanged) |
+
+## Run 5 (hourly check-in, ~18:2x UTC)
+
+One item, no new action needed.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re order july 18 th" | Christine Macdonald (chrisandmac@sky.com) | #3050 | Repeat send, no new content — same "indestructible"/Sale of Goods Act/refund + return-label request already escalated on 2026-08-01 Run 3, sent from a new Gmail thread (different subject) that didn't inherit the existing Escalated label | No new draft needed; existing escalation and drafted reply from Run 3 still stand | `Bot/Escalated - Owner Attention` (relabeled — new thread wasn't carrying the label) |
