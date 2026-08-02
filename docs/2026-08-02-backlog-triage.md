@@ -44,3 +44,15 @@ One item, no new action needed.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Re order july 18 th" | Christine Macdonald (chrisandmac@sky.com) | #3050 | Repeat send, no new content — same "indestructible"/Sale of Goods Act/refund + return-label request already escalated on 2026-08-01 Run 3, sent from a new Gmail thread (different subject) that didn't inherit the existing Escalated label | No new draft needed; existing escalation and drafted reply from Run 3 still stand | `Bot/Escalated - Owner Attention` (relabeled — new thread wasn't carrying the label) |
+
+## Run 6 (hourly check-in, ~20:2x UTC)
+
+One new thread — an address correction combined with a security-sensitive payment request.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "ORDER #4284" | craigdebbie12@gmail.com (order under Debra Woods) | #4284 | Address-correction request (order still UNFULFILLED, time to fix) combined with the customer pasting a full card number in plaintext and asking us to charge it instead — a security-sensitive request the bot has no authority or safe channel to act on | Drafted a reply confirming the address fix is being actioned, firmly declining to process the card number sent by email (without repeating the digits back), and advising against sending card details by email going forward | `Bot/Escalated - Owner Attention` (payment/security judgment call, not a routine address correction) |
+
+### Note on order #4284 (Debra Woods / craigdebbie12@gmail.com)
+
+The customer emailed a full 16-digit card number in plaintext asking us to charge it instead of the original payment method. This isn't something the bot should ever act on or repeat back — flagging to the owner as a security/PCI concern as well as a routine address correction. Worth considering whether the reply should also mention deleting/not storing that email, though that's a call for the owner given it touches account security practices.
