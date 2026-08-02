@@ -65,3 +65,11 @@ Two new threads.
 |---|---|---|---|---|---|
 | "Free?" | Priscilla (prisou_8@hotmail.com) | — (pre-purchase, no order found under this email) | Not covered by the six numbered rules — same Zahnbuddy free-gift-vs-charged pricing pattern seen before (Kelly Hawkins 2026-07-28, Robert Brookfield 2026-07-30), but raised pre-checkout rather than on an existing order | Drafted an honest reply that doesn't confirm or deny a promo itself, flags the pricing question to the owner | `Bot/Needs Approval` |
 | "Order #4263" | Michelle Mulqueen (michelle.mulqueen@gmail.com) | #4263 | Cancellation request (placed accidentally, can't afford it) — order still UNFULFILLED, so a clean pre-shipment cancel/refund | Drafted honest reply confirming the order hasn't shipped and can be cancelled/refunded in full | `Bot/Needs Approval` (cancellation/refund is a manual Shopify action) |
+
+## Run 8 (hourly check-in, ~22:4x UTC)
+
+One new thread, not a support case.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "..." (no subject) | mondaypopcommerce@gmail.com | — | Not a support case — vague "do you sell and deliver internationally" one-liner, no order reference, sender domain reads as a marketing/agency probe similar to prior solicitations | No reply | `Bot/No Action` |
