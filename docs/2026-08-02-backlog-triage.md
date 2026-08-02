@@ -28,3 +28,11 @@ Two new threads.
 |---|---|---|---|---|---|
 | "Order 2997" | Laura Vincent-Evans (lauraelizabethvincent@gmail.com) | #2997 | Repeat unresolved contact — dispatched 22 July, now well over a week overdue; she says she was already told it would be "escalated" and delivered yesterday, but it still hasn't arrived. Broken promise on delivery timing, apparently lost parcel | Drafted an honest reply that doesn't repeat the unfulfilled promise, flags it to the owner for an actual replacement/refund decision | `Bot/Escalated - Owner Attention` |
 | "Your storefront" | emails.nexthos@gmail.com | — | Not a support case — vague "did you take a look at your storefront lately?" opener, same shape as prior marketing/agency solicitation probes | No reply | `Bot/No Action` |
+
+## Run 4 (hourly check-in, ~13:1x UTC)
+
+One new thread, routine follow-up on an existing return case.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Order #3162 confirmed" | Jo Perry (jo_chris@live.co.uk) | #3162 | Rule 5 continuation — confirmed unused/original packaging (2026-07-31), now asking for return details to send items back for a full refund | Drafted a short reply confirming the return details/prepaid label will be sent along with the refund | `Bot/Needs Approval` (unchanged) |
