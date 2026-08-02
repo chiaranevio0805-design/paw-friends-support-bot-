@@ -71,3 +71,11 @@ One new thread, simple close-out.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Re: Cancel order" | Katharine Swann (swanny1412@gmail.com) | #3944 | Simple "Thank you so much" closing out the cancellation confirmation (2026-07-31) — no new content | No reply needed | `Bot/Needs Approval` (relabeled — new message wasn't carrying the thread's existing label) |
+
+## Run 8 (hourly check-in, ~23:5x UTC)
+
+One new thread — repeat unresolved contact on an already-escalated case.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Order #2762 confirmed" | Edward Henderson (edward.henderson82@gmail.com) | #2762 | Repeat unresolved contact — already-escalated advertising-dispute case (2026-07-27), now demanding an update and asking when the refund will arrive | Drafted an honest reply that doesn't promise a refund date or timeline that isn't confirmed, flags this as a further follow-up needing an actual answer | `Bot/Escalated - Owner Attention` (relabeled — new message wasn't carrying the thread's existing label) |
