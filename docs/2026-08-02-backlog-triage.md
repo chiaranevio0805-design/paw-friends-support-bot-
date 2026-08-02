@@ -19,3 +19,12 @@ One new thread, clean pre-shipment cancellation.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Order 4212. Cancel" | Mandy Baker (mandyfindlater81@gmail.com) | #4212 | Cancellation request ("changed my mind") — order placed minutes earlier, still UNFULFILLED, so a clean pre-shipment cancel/refund | Drafted honest reply confirming the order hasn't shipped and can be cancelled/refunded in full | `Bot/Needs Approval` (cancellation/refund is a manual Shopify action, not something the bot can execute) |
+
+## Run 3 (hourly check-in, ~09:2x/09:5x UTC)
+
+Two new threads.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Order 2997" | Laura Vincent-Evans (lauraelizabethvincent@gmail.com) | #2997 | Repeat unresolved contact — dispatched 22 July, now well over a week overdue; she says she was already told it would be "escalated" and delivered yesterday, but it still hasn't arrived. Broken promise on delivery timing, apparently lost parcel | Drafted an honest reply that doesn't repeat the unfulfilled promise, flags it to the owner for an actual replacement/refund decision | `Bot/Escalated - Owner Attention` |
+| "Your storefront" | emails.nexthos@gmail.com | — | Not a support case — vague "did you take a look at your storefront lately?" opener, same shape as prior marketing/agency solicitation probes | No reply | `Bot/No Action` |
