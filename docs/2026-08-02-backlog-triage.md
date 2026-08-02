@@ -56,3 +56,12 @@ One new thread — an address correction combined with a security-sensitive paym
 ### Note on order #4284 (Debra Woods / craigdebbie12@gmail.com)
 
 The customer emailed a full 16-digit card number in plaintext asking us to charge it instead of the original payment method. This isn't something the bot should ever act on or repeat back — flagging to the owner as a security/PCI concern as well as a routine address correction. Worth considering whether the reply should also mention deleting/not storing that email, though that's a call for the owner given it touches account security practices.
+
+## Run 7 (hourly check-in, ~22:1x UTC)
+
+Two new threads.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Free?" | Priscilla (prisou_8@hotmail.com) | — (pre-purchase, no order found under this email) | Not covered by the six numbered rules — same Zahnbuddy free-gift-vs-charged pricing pattern seen before (Kelly Hawkins 2026-07-28, Robert Brookfield 2026-07-30), but raised pre-checkout rather than on an existing order | Drafted an honest reply that doesn't confirm or deny a promo itself, flags the pricing question to the owner | `Bot/Needs Approval` |
+| "Order #4263" | Michelle Mulqueen (michelle.mulqueen@gmail.com) | #4263 | Cancellation request (placed accidentally, can't afford it) — order still UNFULFILLED, so a clean pre-shipment cancel/refund | Drafted honest reply confirming the order hasn't shipped and can be cancelled/refunded in full | `Bot/Needs Approval` (cancellation/refund is a manual Shopify action) |
