@@ -45,3 +45,11 @@ Two new threads, both routine.
 |---|---|---|---|---|---|
 | "My order #5323" | Owen Wilson (wilsonowen2@hotmail.com) | #3523 (customer quoted the wrong number) | Rule 3 — dispatched same day as order (27 July), ~7 days in transit, within normal window; no order found under "#5323" but matched via sender's email | Drafted reply with tracking link, honest note about the international-fulfilment route | `Bot/Draft Ready` |
 | "Awaiting order" | Michael Green (groca69@googlemail.com) | #3486 | Rule 3 — dispatched 27 July, ~7 days in transit, tracking status stuck on "on the way to relay"; within normal window, first contact | Drafted reply with tracking link, honest explanation that the status can sit still on this route without meaning it's stopped moving | `Bot/Draft Ready` |
+
+## Run 6 (hourly check-in, ~12:1x UTC)
+
+One new thread, not a support case.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Information here or on social media, are both used on your end?" | eu.quduscreativestudio@gmail.com | — | Not a support case — vague question with no order reference, sender domain ("creativestudio") reads as a marketing/agency solicitation probe similar to prior ones | No reply | `Bot/No Action` |
