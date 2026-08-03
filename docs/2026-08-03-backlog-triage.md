@@ -28,3 +28,11 @@ One new thread, clean pre-shipment cancellation.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Fw: Order #4099 confirmed" | Elaine Herlihy (Elaineherlihy@hotmail.com) | #4099 | Cancellation request — just received a delay notice (12 working days) and won't need the item in time; order still UNFULFILLED, so a clean pre-shipment cancel/refund | Drafted honest reply confirming the order hasn't shipped and can be cancelled/refunded in full | `Bot/Needs Approval` (cancellation/refund is a manual Shopify action) |
+
+## Run 4 (hourly check-in, ~10:0x UTC)
+
+One new thread, clean pre-shipment cancellation.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Order" | Samantha McGuinness (sammymc16@icloud.com) | #4096 | Cancellation request — received a delay notice and will be away, so won't be able to wait; order still UNFULFILLED, so a clean pre-shipment cancel/refund | Drafted honest reply confirming the order hasn't shipped and can be cancelled/refunded in full | `Bot/Needs Approval` (cancellation/refund is a manual Shopify action) |
