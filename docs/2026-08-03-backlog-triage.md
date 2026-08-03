@@ -36,3 +36,12 @@ One new thread, clean pre-shipment cancellation.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Order" | Samantha McGuinness (sammymc16@icloud.com) | #4096 | Cancellation request — received a delay notice and will be away, so won't be able to wait; order still UNFULFILLED, so a clean pre-shipment cancel/refund | Drafted honest reply confirming the order hasn't shipped and can be cancelled/refunded in full | `Bot/Needs Approval` (cancellation/refund is a manual Shopify action) |
+
+## Run 5 (hourly check-in, ~10:5x UTC)
+
+Two new threads, both routine.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "My order #5323" | Owen Wilson (wilsonowen2@hotmail.com) | #3523 (customer quoted the wrong number) | Rule 3 — dispatched same day as order (27 July), ~7 days in transit, within normal window; no order found under "#5323" but matched via sender's email | Drafted reply with tracking link, honest note about the international-fulfilment route | `Bot/Draft Ready` |
+| "Awaiting order" | Michael Green (groca69@googlemail.com) | #3486 | Rule 3 — dispatched 27 July, ~7 days in transit, tracking status stuck on "on the way to relay"; within normal window, first contact | Drafted reply with tracking link, honest explanation that the status can sit still on this route without meaning it's stopped moving | `Bot/Draft Ready` |
