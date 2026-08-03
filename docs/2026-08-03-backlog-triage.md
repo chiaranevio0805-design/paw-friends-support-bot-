@@ -66,3 +66,15 @@ Two items.
 ### Note on Richard Foley (#1084)
 
 This is now the third documented follow-up on this case (29 June original, 3 July chase-up, 30 July "still awaiting a response", now 3 August pointing out the repeated reply). Recommend the owner treat this as the highest-priority open case given the safety element, the length of time unresolved, and the now-explicit review threat.
+
+## Run 8 (hourly check-in, ~15:5x UTC)
+
+One new thread — a broken promise on an already-flagged pricing case.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Order #3916" | Robert Brookfield (robertdavidbrookfield@gmail.com) | #3916 | Escalation trigger — his Zahnbuddy free-gift-vs-charged question (2026-07-30) was still unresolved when the order dispatched (2 August); the £14.95 charge is still showing on the order with no credit applied | Drafted an honest reply confirming the charge is still there, doesn't guess at an outcome, re-flags to the owner | `Bot/Escalated - Owner Attention` (relabeled from `Bot/Needs Approval`) |
+
+### Note on Robert Brookfield (#3916)
+
+Same underlying Zahnbuddy free-gift-vs-charged pattern as Kelly Hawkins, Priscilla, and Brooke Layzell, but here the order shipped before the pricing question was actually resolved — worth the owner checking whether other pending Zahnbuddy pricing queries risk the same outcome if not addressed before dispatch.
