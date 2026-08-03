@@ -78,3 +78,11 @@ One new thread — a broken promise on an already-flagged pricing case.
 ### Note on Robert Brookfield (#3916)
 
 Same underlying Zahnbuddy free-gift-vs-charged pattern as Kelly Hawkins, Priscilla, and Brooke Layzell, but here the order shipped before the pricing question was actually resolved — worth the owner checking whether other pending Zahnbuddy pricing queries risk the same outcome if not addressed before dispatch.
+
+## Run 9 (hourly check-in, ~19:3x UTC)
+
+One new thread — a direct advertising-claim dispute.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Fluffy" | Rachael Harris (rachaelharris0904@gmail.com) | #3298 | Disputed advertising claim — donkey plushie destroyed on day one, explicitly cites "indestructible or money back" rather than just being unhappy it broke, well within the 30-day guarantee window | Drafted an honest reply that doesn't apply a generic chew-damage denial, passes the refund request to the owner | `Bot/Escalated - Owner Attention` |
