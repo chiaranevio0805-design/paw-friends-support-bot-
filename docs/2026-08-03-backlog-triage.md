@@ -53,3 +53,16 @@ One new thread, not a support case.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Information here or on social media, are both used on your end?" | eu.quduscreativestudio@gmail.com | — | Not a support case — vague question with no order reference, sender domain ("creativestudio") reads as a marketing/agency solicitation probe similar to prior ones | No reply | `Bot/No Action` |
+
+## Run 7 (hourly check-in, ~12:5x/13:0x UTC)
+
+Two items.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Order #1084" | Richard Foley (foley_richard@sky.com) | #1084 | Repeat unresolved contact, escalating further — this is the long-running case combining a safety/ingestion concern, an "indestructible" advertising dispute, and a broken "shortly" promise (2026-07-30). He's now pointed out the last reply was a repeat of the same message, and is now explicitly raising leaving bad reviews | Drafted an honest reply acknowledging the repeat reply was wrong, doesn't dispute his right to leave reviews, re-escalates as urgent | `Bot/Escalated - Owner Attention` (unchanged) |
+| "Re: ODER" | markben8131@gmail.com | — | Not a support case — repeat "CAN I SPEAK WITH THE STORE OWNER?" from a sender first seen 12 June, same shape as prior agency/marketing solicitation probes | No reply | `Bot/No Action` |
+
+### Note on Richard Foley (#1084)
+
+This is now the third documented follow-up on this case (29 June original, 3 July chase-up, 30 July "still awaiting a response", now 3 August pointing out the repeated reply). Recommend the owner treat this as the highest-priority open case given the safety element, the length of time unresolved, and the now-explicit review threat.
