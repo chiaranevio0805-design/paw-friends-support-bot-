@@ -20,3 +20,11 @@ Two items — both repeat unresolved contact on long-running, previously under-a
 ### Note on these two threads
 
 Both are longstanding cases (over a month old) where repeated promises of a follow-up or resolution have not been honoured. Recommend the owner treat these as priority given how long they've been outstanding and the repeat-contact escalation trigger.
+
+## Run 3 (hourly check-in, ~07:5x UTC)
+
+One new thread, clean pre-shipment cancellation.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Fw: Order #4099 confirmed" | Elaine Herlihy (Elaineherlihy@hotmail.com) | #4099 | Cancellation request — just received a delay notice (12 working days) and won't need the item in time; order still UNFULFILLED, so a clean pre-shipment cancel/refund | Drafted honest reply confirming the order hasn't shipped and can be cancelled/refunded in full | `Bot/Needs Approval` (cancellation/refund is a manual Shopify action) |
