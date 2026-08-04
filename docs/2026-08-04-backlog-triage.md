@@ -53,3 +53,11 @@ Two items.
 ### Note on Debra Woods (#4284)
 
 The card-number/security concern flagged on 2026-08-02 is now moot — the customer confirmed the card on file is correct and asked us to disregard that part of her earlier email. What remains is a straightforward pre-dispatch shipping-address correction, so this has been moved out of the escalation queue into Needs Approval for the manual Shopify edit.
+
+## Run 6 (hourly check-in, ~17:2x UTC)
+
+One new thread — a very delayed order, first contact.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Order 2783" | Barbara Swindler (bswindler@comcast.net) | #2783 | Rule 3, escalated — dispatched 7 July, now ~28 days in transit with no delivery, well beyond the extended window we've been seeing on other routes; first contact but the delay itself is the trigger | Drafted an honest reply with the tracking link, doesn't just point to tracking without acknowledging how overdue it is, flags to the owner for investigation (possible lost parcel) | `Bot/Escalated - Owner Attention` |
