@@ -61,3 +61,12 @@ One new thread — a very delayed order, first contact.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Order 2783" | Barbara Swindler (bswindler@comcast.net) | #2783 | Rule 3, escalated — dispatched 7 July, now ~28 days in transit with no delivery, well beyond the extended window we've been seeing on other routes; first contact but the delay itself is the trigger | Drafted an honest reply with the tracking link, doesn't just point to tracking without acknowledging how overdue it is, flags to the owner for investigation (possible lost parcel) | `Bot/Escalated - Owner Attention` |
+
+## Run 7 (hourly check-in, ~18:3x/18:4x UTC)
+
+Two items.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "An invitation to migrate to Klaviyo's email sending infrastructure" | marketing-responses@klaviyo.com | — | Not a support case — Klaviyo platform marketing email, not a customer | No reply | `Bot/No Action` |
+| "Re: A shipment from order #3518 is on the way" | Tim Wykes (timwykes@hotmail.com) | #3518 | Rule 1 — elephant plushie destroyed "10 mins in", photo attached, refund demanded; no advertising-claim quote, no repeat-unresolved pattern | Drafted a friendly Rule-1 reply (chew damage, no refund per policy, per Rule 6 tone modifier) | `Bot/Draft Ready` |
