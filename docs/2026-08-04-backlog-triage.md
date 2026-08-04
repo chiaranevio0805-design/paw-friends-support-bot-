@@ -78,3 +78,11 @@ One new thread — a continuation of the already-escalated Laura Vincent-Evans c
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Re: Order 2997" | Laura Vincent-Evans (lauraelizabethvincent@gmail.com) | #2997 | Repeat unresolved contact — still not delivered (dispatched 22 July, ~13 days), now explicitly asking for a refund rather than just a delivery update | Drafted an honest reply that doesn't repeat a delivery-only response, passes the refund request to the owner alongside the outstanding delivery issue | `Bot/Escalated - Owner Attention` (unchanged) |
+
+## Run 9 (hourly check-in, ~20:2x UTC)
+
+One new thread, promo/pricing pattern seen before.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Free zahnbuddy at checkout" | Ian Beswick (iabeswick18@gmail.com) | #4543 | Not covered by the six numbered rules — same free-gift-vs-charged Zahnbuddy pricing pattern seen repeatedly before (Kelly Hawkins, Robert Brookfield, Priscilla, Brooke Layzell). Order placed minutes earlier, still UNFULFILLED | Drafted an honest reply that doesn't confirm or deny a promo itself, flags the pricing question to the owner, notes there's time to resolve it before dispatch | `Bot/Needs Approval` |
