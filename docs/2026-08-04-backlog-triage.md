@@ -20,3 +20,11 @@ Two new threads.
 ### Note on Paul Steadman (#1843)
 
 This case predates the visible bot triage log (original complaint 6 July, first bot reply 17 July) and had no Bot label applied until now, despite being an unresolved "indestructible" advertising dispute with a broken follow-up promise — worth the owner checking whether any other pre-mid-July threads were similarly missed.
+
+## Run 3 (hourly check-in, ~12:5x UTC)
+
+One new thread, not a support case.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Is this the right contact?" | toheebmiller3@gmail.com | — | Not a support case — vague "is this the right email to the owner of this brand?" opener with no order reference, same shape as prior marketing/agency solicitation probes | No reply | `Bot/No Action` |
