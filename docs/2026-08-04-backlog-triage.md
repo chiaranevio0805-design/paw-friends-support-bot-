@@ -70,3 +70,11 @@ Two items.
 |---|---|---|---|---|---|
 | "An invitation to migrate to Klaviyo's email sending infrastructure" | marketing-responses@klaviyo.com | — | Not a support case — Klaviyo platform marketing email, not a customer | No reply | `Bot/No Action` |
 | "Re: A shipment from order #3518 is on the way" | Tim Wykes (timwykes@hotmail.com) | #3518 | Rule 1 — elephant plushie destroyed "10 mins in", photo attached, refund demanded; no advertising-claim quote, no repeat-unresolved pattern | Drafted a friendly Rule-1 reply (chew damage, no refund per policy, per Rule 6 tone modifier) | `Bot/Draft Ready` |
+
+## Run 8 (hourly check-in, ~19:4x UTC)
+
+One new thread — a continuation of the already-escalated Laura Vincent-Evans case (#2997, 2026-08-02 Run 3).
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Order 2997" | Laura Vincent-Evans (lauraelizabethvincent@gmail.com) | #2997 | Repeat unresolved contact — still not delivered (dispatched 22 July, ~13 days), now explicitly asking for a refund rather than just a delivery update | Drafted an honest reply that doesn't repeat a delivery-only response, passes the refund request to the owner alongside the outstanding delivery issue | `Bot/Escalated - Owner Attention` (unchanged) |
