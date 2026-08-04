@@ -28,3 +28,15 @@ One new thread, not a support case.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Re: Is this the right contact?" | toheebmiller3@gmail.com | — | Not a support case — vague "is this the right email to the owner of this brand?" opener with no order reference, same shape as prior marketing/agency solicitation probes | No reply | `Bot/No Action` |
+
+## Run 4 (hourly check-in, ~14:1x UTC)
+
+One new thread — another repeat unresolved contact on a case that had never been bot-labeled.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Poor quality" | Peter Hensman (pjhensman@ymail.com) | #2965 | Escalation triggers — disputed "anti destructive structure" advertising claim (donkey plushie destroyed within 30 minutes), previously passed to the owner (28 July reply) but never actually resolved or labeled, and he's now chasing the refund a week later | Drafted an honest reply acknowledging the continued wait, doesn't repeat the earlier "you'll hear back" line without action, flags to the owner as a priority | `Bot/Escalated - Owner Attention` |
+
+### Note on Peter Hensman (#2965)
+
+Same pattern as Paul Steadman (Run 2 today) — a case correctly identified as an advertising-claim escalation at the time, but never given a Bot label, so it sat unresolved with no owner-facing tracking until the customer chased it. Worth the owner double-checking for other pre-August escalations that may have fallen through the same gap.
