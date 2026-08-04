@@ -40,3 +40,16 @@ One new thread — another repeat unresolved contact on a case that had never be
 ### Note on Peter Hensman (#2965)
 
 Same pattern as Paul Steadman (Run 2 today) — a case correctly identified as an advertising-claim escalation at the time, but never given a Bot label, so it sat unresolved with no owner-facing tracking until the customer chased it. Worth the owner double-checking for other pre-August escalations that may have fallen through the same gap.
+
+## Run 5 (hourly check-in, ~16:3x/17:0x UTC)
+
+Two items.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Not received order" | Barrie Howlett (bazhowl88@googlemail.com) | #3444 | Rule 3 — dispatched 27 July, now ~8 days in transit, first contact; within the extended window we're currently seeing on this route | Drafted reply with tracking link, honest note about the international-fulfilment route | `Bot/Draft Ready` |
+| "Re: ORDER #4284" | Debra Woods (craigdebbie12@gmail.com) | #4284 | Follow-up on the 2026-08-02 security-flagged case — she's now explicitly retracted the card-number request ("credit card information is correct on the invoice, already been charged") and clarified this is only a shipping-address correction. Order still UNFULFILLED, so a clean pre-dispatch address fix | Drafted reply confirming we won't act on the card details from the earlier email, and that the address correction is being actioned before dispatch | `Bot/Needs Approval` (relabeled from `Bot/Escalated - Owner Attention` — the security element is resolved by her own retraction, leaving a routine manual address correction) |
+
+### Note on Debra Woods (#4284)
+
+The card-number/security concern flagged on 2026-08-02 is now moot — the customer confirmed the card on file is correct and asked us to disregard that part of her earlier email. What remains is a straightforward pre-dispatch shipping-address correction, so this has been moved out of the escalation queue into Needs Approval for the manual Shopify edit.
