@@ -60,3 +60,11 @@ Two items.
 ### Note on Jeff Hughes (#2894)
 
 A Rule-2 replacement promised on 24 July still hasn't shipped as of 5 August — this is the fourth follow-up on the same unresolved case. Worth the owner checking whether the replacement was ever actually queued in Shopify.
+
+## Run 8 (hourly check-in, ~21:2x UTC)
+
+One new thread, not a support case.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Hello, can I call you" | allialameen0208@gmail.com | — | Not a support case — empty body, no order reference, same shape as prior marketing/agency solicitation probes | No reply | `Bot/No Action` |
