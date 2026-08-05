@@ -23,3 +23,11 @@ One new thread — a third contact on the same delivery issue, now escalating.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Re: A shipment from order #3486 is on the way" | Michael Green (groca69@googlemail.com) | #3486 | Repeat unresolved contact, escalated — dispatched 27 July, still not delivered nine days on; this is his third contact on the same issue and he's now explicitly frustrated ("beyond a joke", "no response to previous emails") | Drafted an honest reply acknowledging this is the third chase, doesn't repeat the tracking-link line again, flags to the owner for a proper resolution | `Bot/Escalated - Owner Attention` (relabeled from `Bot/Draft Ready`) |
+
+## Run 4 (hourly check-in, ~12:3x UTC)
+
+One new thread, clean pre-shipment address correction.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Cancel" | Nicholas Kloepfer (nicholaskloepfer@icloud.com) | #4604 | Address-correction request — quoted a checkout token rather than the order number, matched via name search; order placed minutes earlier, still UNFULFILLED, so time to fix the address | Drafted honest reply confirming the corrected address is being actioned before dispatch | `Bot/Needs Approval` (address correction is a manual Shopify action) |
