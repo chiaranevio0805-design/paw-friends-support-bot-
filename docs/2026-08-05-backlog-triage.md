@@ -47,3 +47,16 @@ One new thread — a follow-up on the Nicholas Kloepfer address-correction case 
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Hello" | Nicholas Kloepfer (nicholaskloepfer@icloud.com) | #4604 | Same address-correction request repeated (still hasn't been actioned in Shopify — shipping address on the order is unchanged from earlier today) — order still UNFULFILLED | Drafted an honest reply confirming this is the same request already flagged, references the address he gave earlier, passes it on again | `Bot/Needs Approval` (relabeled — new thread wasn't carrying the existing label) |
+
+## Run 7 (hourly check-in, ~19:5x/20:1x UTC)
+
+Two items.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Order number 3602" | Amy Spencer (griffiths_76@hotmail.co.uk) | #3602 | Rule 3 — dispatched 29 July, ~7 days in transit, first contact; within the extended window we're currently seeing on this route | Drafted reply with tracking link, honest note about the international-fulfilment route | `Bot/Draft Ready` |
+| "Re: Order Number 2894" | Jeff Hughes (jeff.hughes@yahoo.co.uk) | #2894 | Repeat unresolved contact, escalated — Rule-2 defective-on-arrival replacement promised 24 July, still not dispatched nearly two weeks later despite multiple chase-ups (29 July, 31 July, now 5 August) | Drafted an honest reply that doesn't repeat the "chasing this up" line again, flags to the owner for the replacement to actually be dispatched | `Bot/Escalated - Owner Attention` (relabeled from `Bot/Needs Approval`) |
+
+### Note on Jeff Hughes (#2894)
+
+A Rule-2 replacement promised on 24 July still hasn't shipped as of 5 August — this is the fourth follow-up on the same unresolved case. Worth the owner checking whether the replacement was ever actually queued in Shopify.
