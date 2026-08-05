@@ -39,3 +39,11 @@ One new thread, not a support case.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Popular Topic for https://paw-friends.uk" | quduscreatives.eu@gmail.com | — | Not a support case — vague "if you could add one feature you wished existed" opener with no order reference, same shape as prior marketing/agency solicitation probes | No reply | `Bot/No Action` |
+
+## Run 6 (hourly check-in, ~17:2x UTC)
+
+One new thread — a follow-up on the Nicholas Kloepfer address-correction case (#4604, Run 4 today), from a new Gmail thread that didn't inherit the existing label.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Hello" | Nicholas Kloepfer (nicholaskloepfer@icloud.com) | #4604 | Same address-correction request repeated (still hasn't been actioned in Shopify — shipping address on the order is unchanged from earlier today) — order still UNFULFILLED | Drafted an honest reply confirming this is the same request already flagged, references the address he gave earlier, passes it on again | `Bot/Needs Approval` (relabeled — new thread wasn't carrying the existing label) |
