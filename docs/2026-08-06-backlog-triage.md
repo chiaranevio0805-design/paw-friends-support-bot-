@@ -62,3 +62,11 @@ One new thread — another chew-damage refusal drawing a public-review threat.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Re: My Dog destroyed the Toy" | Hector Cruz (replied from hlcandassociates@gmail.com, original hlcruzx@gmail.com) | — | Escalation trigger — after the Rule-1 chew-damage refusal was sent, he's disputing the "indestructible" claim and explicitly says he'll include this in a public comment/review | Drafted an honest, non-committal reply acknowledging the feedback rather than a template denial, flags to the owner, no refund promised or denied | `Bot/Escalated - Owner Attention` |
+
+## Run 8 (hourly check-in, ~13:2x UTC)
+
+One new thread, courtesy close-out.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: ORDER #4284" | Debra Woods (craigdebbie12@gmail.com) | #4284 | Courtesy thank-you after today's address-correction and card-details replies were sent — no new request | No reply needed | `Bot/Needs Approval` (labelled to match the underlying case) |
