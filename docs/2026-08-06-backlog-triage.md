@@ -88,3 +88,11 @@ One new thread — a follow-up on the already-escalated Michael Green case (#348
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Re: Awaiting order" | Michael Green (groca69@googlemail.com) | #3486 | Shipping/origin-language rule — he directly raised an assumption that the order was UK-only and asked (in effect) whether it meets British standards; per policy, answered honestly and directly rather than staying vague, confirming international fulfilment and that safety testing is unaffected by shipping route | Drafted an honest, direct reply addressing the origin question | `Bot/Escalated - Owner Attention` (relabelled to match the underlying case, which is already with the owner) |
+
+## Run 11 (hourly check-in, ~18:0x UTC)
+
+One new thread, not a support case.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| (no subject) | abdulmalik22503@gmail.com | — | Not a support case — garbled spam/scam text ("Profidinn you a massive CLV of $2500 efry 5 dais is mino"), no order reference, not from a customer | No reply | `Bot/No Action` |
