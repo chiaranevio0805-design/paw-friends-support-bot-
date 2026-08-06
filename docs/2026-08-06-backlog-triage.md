@@ -105,3 +105,11 @@ Two items.
 |---|---|---|---|---|---|
 | "Order" | Sandra Sant (sasant73@gmail.com) | #1476 | Escalation trigger — repeat unresolved contact ("sent few emails but still had no response") on an order dispatched 25 June, now over six weeks with no delivery; thread had never carried a Bot label | Drafted an honest reply that doesn't just repeat tracking, acknowledges the unanswered prior emails, flags to the owner as a priority | `Bot/Escalated - Owner Attention` |
 | "Order NEVER received!." | Barbara Swindler (bswindler@comcast.net) | #2783 | Continuation of the already-escalated case — repeats the refund request; no new classification needed | No reply needed | `Bot/Escalated - Owner Attention` (unchanged) |
+
+## Run 13 (hourly check-in, ~20:3x UTC)
+
+One new thread, not covered by the six numbered rules.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| (no subject) | Sue Steer (suesteer@hotmail.com) | #3089 | Not a routine not-arrived case — courier (EVRI) marked it delivered on 28 July with a photo showing it left somewhere that isn't her property (she has no greenhouse), and she reports wider local issues with this courier; first contact, no escalation trigger, but needs a manual replacement/refund decision | Drafted an honest reply acknowledging the mis-delivery evidence, flags to the owner for a replacement, doesn't just point back to the courier | `Bot/Needs Approval` |
