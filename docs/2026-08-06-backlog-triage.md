@@ -54,3 +54,11 @@ Several of today's earlier drafted replies have now been sent to customers (by t
 | "Plushies" | Deanna McKenzie (deanna592@hotmail.com) | #3249 | Escalation trigger — explicitly attributes "indestructible" to our advertising as her reason for buying, and the fox plushie lost both legs, an ear, and stuffing within a day with no chewing mentioned, which reads more like a possible defect than routine play damage | Drafted an honest reply that doesn't dismiss it as normal wear, flags to the owner with the photos for a proper look, no refund promised or denied | `Bot/Escalated - Owner Attention` |
 | "Re: Cancel" | Nicholas Kloepfer (nicholaskloepfer@icloud.com) | #4604 | Courtesy thank-you after the address-correction reply was sent — no new request | No reply needed | `Bot/Needs Approval` (labelled to match the underlying case, which still needs the Shopify address edit confirmed) |
 | "Re: URGENT - FULL RETURN FUND REQUEST" | Do Robinson (dorobinson2918@yahoo.co.uk) | #1915 | Courtesy acknowledgement after today's honest reply — no new request, case remains open | No reply needed | `Bot/Escalated - Owner Attention` (unchanged) |
+
+## Run 7 (hourly check-in, ~11:5x UTC)
+
+One new thread — another chew-damage refusal drawing a public-review threat.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: My Dog destroyed the Toy" | Hector Cruz (replied from hlcandassociates@gmail.com, original hlcruzx@gmail.com) | — | Escalation trigger — after the Rule-1 chew-damage refusal was sent, he's disputing the "indestructible" claim and explicitly says he'll include this in a public comment/review | Drafted an honest, non-committal reply acknowledging the feedback rather than a template denial, flags to the owner, no refund promised or denied | `Bot/Escalated - Owner Attention` |
