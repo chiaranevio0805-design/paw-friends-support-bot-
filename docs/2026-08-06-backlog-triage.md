@@ -80,3 +80,11 @@ Three items.
 | "Re: Dog toy fox" | Ann Welsh (priceann100@gmail.com) | #2228 | Escalation trigger — broken promise: a 17 July reply said the "Resolutions Team" would be in touch about a refund, no follow-through, and she's now chasing it nearly a month later (thread had never carried a Bot label) | Drafted an honest reply that doesn't repeat the broken "Resolutions Team" promise, flags to the owner as a priority | `Bot/Escalated - Owner Attention` |
 | "Delivered 3 hours ago !!!" | Irene Hatter (irenehatter@hotmail.com) | #3242 | Escalation trigger — Rule-1 chew damage (destroyed within 3 hours), but explicitly disputes the "indestructible" claim as ours ("Not indestructible as you claim") | Drafted an honest reply that doesn't dismiss the advertising point as a normal chew-damage refusal alone, flags to the owner | `Bot/Escalated - Owner Attention` |
 | "Re: Order #2783" | Barbara Swindler (bswindler@comcast.net) | #2783 | Continuation of the already-escalated case — confirms she wants the refund the owner was asked to action; no new classification needed | No reply needed | `Bot/Escalated - Owner Attention` (unchanged) |
+
+## Run 10 (hourly check-in, ~15:0x UTC)
+
+One new thread — a follow-up on the already-escalated Michael Green case (#3486), from a different Gmail thread that didn't inherit the label.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Awaiting order" | Michael Green (groca69@googlemail.com) | #3486 | Shipping/origin-language rule — he directly raised an assumption that the order was UK-only and asked (in effect) whether it meets British standards; per policy, answered honestly and directly rather than staying vague, confirming international fulfilment and that safety testing is unaffected by shipping route | Drafted an honest, direct reply addressing the origin question | `Bot/Escalated - Owner Attention` (relabelled to match the underlying case, which is already with the owner) |
