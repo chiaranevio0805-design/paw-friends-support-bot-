@@ -113,3 +113,11 @@ One new thread, not covered by the six numbered rules.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | (no subject) | Sue Steer (suesteer@hotmail.com) | #3089 | Not a routine not-arrived case — courier (EVRI) marked it delivered on 28 July with a photo showing it left somewhere that isn't her property (she has no greenhouse), and she reports wider local issues with this courier; first contact, no escalation trigger, but needs a manual replacement/refund decision | Drafted an honest reply acknowledging the mis-delivery evidence, flags to the owner for a replacement, doesn't just point back to the courier | `Bot/Needs Approval` |
+
+## Run 14 (hourly check-in, ~21:1x UTC)
+
+One new thread — a follow-up on the already-flagged Ian Beswick Zahnbuddy pricing case (#4543).
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Zahnbuddy at checkout" | Ian Beswick (iabeswick18@gmail.com) | #4543 | Confirms the free-gift-vs-charged pricing issue on re-checking the checkout; case already passed to the owner, nothing new to action | No reply needed | `Bot/Needs Approval` (unchanged) |
