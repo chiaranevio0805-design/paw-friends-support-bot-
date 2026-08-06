@@ -27,3 +27,11 @@ Two items.
 | "Sie haben kürzlich SMS MFA von Ihrem Konto entfernt" | no-reply@klaviyo.com | — | Not a support case — Klaviyo account-security notification (MFA method change) addressed to our own inbox, not a customer | No reply | `Bot/No Action` |
 
 Also cleared stale UNREAD flags with no new content on already-handled threads: Barrie Howlett #3444, Jeff Hughes #2894, Edward Henderson #2762.
+
+## Run 4 (hourly check-in, ~08:0x UTC)
+
+One new thread, angry first contact.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Order" | Brian Hall (brian2678@icloud.com) | #3426 | Rule 3, angry tone (Rule 6 modifier) — dispatched 29 July, ~8 days in transit, first contact; within the extended window we're currently seeing on this route | Drafted reply with tracking number/link, extra warm/apologetic given the tone, honest note about the international-fulfilment route | `Bot/Draft Ready` |
