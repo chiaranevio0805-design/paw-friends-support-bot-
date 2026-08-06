@@ -96,3 +96,12 @@ One new thread, not a support case.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | (no subject) | abdulmalik22503@gmail.com | — | Not a support case — garbled spam/scam text ("Profidinn you a massive CLV of $2500 efry 5 dais is mino"), no order reference, not from a customer | No reply | `Bot/No Action` |
+
+## Run 12 (hourly check-in, ~19:0x UTC)
+
+Two items.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Order" | Sandra Sant (sasant73@gmail.com) | #1476 | Escalation trigger — repeat unresolved contact ("sent few emails but still had no response") on an order dispatched 25 June, now over six weeks with no delivery; thread had never carried a Bot label | Drafted an honest reply that doesn't just repeat tracking, acknowledges the unanswered prior emails, flags to the owner as a priority | `Bot/Escalated - Owner Attention` |
+| "Order NEVER received!." | Barbara Swindler (bswindler@comcast.net) | #2783 | Continuation of the already-escalated case — repeats the refund request; no new classification needed | No reply needed | `Bot/Escalated - Owner Attention` (unchanged) |
