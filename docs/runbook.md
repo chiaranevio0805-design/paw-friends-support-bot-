@@ -36,17 +36,28 @@ the Paw-Friends.uk Shopify store.
    from the email alone.
 
 4. **Classify against `support-policy.md`.** Check the escalation triggers
-   list first — if any apply, route to escalated regardless of which
-   numbered rule would otherwise apply.
+   list first — if any apply, route to escalated regardless of what the
+   two-case guarantee rule would otherwise say.
 
-5. **Act:**
-   - Rule 4 (confirmed wrong item): issue the refund via
-     `graphql_mutation` (Shopify Admin API `refundCreate` — look up exact
-     fields with `graphql_schema` first since input shape can change),
-     draft a confirmation reply, label `Bot/Auto-Resolved`.
-   - Everything else: draft the reply only (never send — there's no send
-     tool), label `Bot/Draft Ready` or `Bot/Needs Approval` per the policy
-     doc, or `Bot/Escalated - Owner Attention` if a trigger applies.
+5. **Act** (drafts only — there is no send tool, and no case is ever
+   auto-refunded via Shopify under the current policy):
+   - Damaged/defective, photo not yet provided: draft asking for a photo,
+     label `Bot/Needs Approval`.
+   - Damaged/defective, photo already confirms it: draft offering a
+     replacement or refund, label `Bot/Needs Approval` (the actual refund
+     is a manual Shopify action for a human, not this bot).
+   - Unused item within 30 days: draft with the return address and next
+     steps, label `Bot/Needs Approval`.
+   - Everything else covered by the guarantee text (chew/play damage,
+     dog doesn't like it, too small, change of mind, wear from use): draft
+     the policy-explained decline, label `Bot/Draft Ready`.
+   - Escalation trigger applies: draft starting with the
+     `⚠️ MANUELLE PRÜFUNG - GRUND: [...]` line instead of a normal reply,
+     label `Bot/Escalated - Owner Attention`.
+   - A case the guarantee text doesn't name at all (wrong item, delayed
+     shipment, pricing/promo question, etc.): don't invent a rule — draft
+     an honest holding reply and label `Bot/Needs Approval`, flagging the
+     gap for the owner.
    - Not a support case at all (spam/vendor solicitation, account-security
      notices, or a thread that's already resolved/closed with nothing left
      to do): label `Bot/No Action` so it stops resurfacing, and don't draft
@@ -82,8 +93,10 @@ repo file for the owner to read, whichever the owner prefers.
 ## Things this runbook deliberately does not do
 
 - Auto-send any email.
-- Auto-refund anything except a confirmed rule-4 wrong-item case.
-- Repeat an identical "please wait" holding reply to the same customer a
-  third time — that's an escalation trigger, not a rule-3 case.
+- Auto-refund anything, ever — every refund or replacement is a manual
+  Shopify action a human takes after reviewing the draft.
+- Reply a third time on the same case without escalating — a third email
+  from the same customer on the same issue is itself an escalation
+  trigger.
 - Invent order or shipping details not present in Shopify — if the order
   can't be found, that itself is a `Bot/Needs Approval` case.
