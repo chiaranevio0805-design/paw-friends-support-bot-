@@ -35,3 +35,11 @@ One new thread, angry first contact.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Order" | Brian Hall (brian2678@icloud.com) | #3426 | Rule 3, angry tone (Rule 6 modifier) — dispatched 29 July, ~8 days in transit, first contact; within the extended window we're currently seeing on this route | Drafted reply with tracking number/link, extra warm/apologetic given the tone, honest note about the international-fulfilment route | `Bot/Draft Ready` |
+
+## Run 5 (hourly check-in, ~09:2x UTC)
+
+One new thread, chew damage.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Paw Friends return" | Marty Weavers (martyweavers@yahoo.co.uk) | #3107 | Rule 1 — two plushies chewed, no order number given (matched via name search); calls them "indestructible toys" only as his own generic description, not quoting a specific advertised phrase, so no escalation trigger | Drafted a friendly Rule-1 reply (chew damage, no refund per policy, suggests sturdier styles) | `Bot/Draft Ready` |
