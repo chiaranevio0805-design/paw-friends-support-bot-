@@ -70,3 +70,13 @@ One new thread, courtesy close-out.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Re: ORDER #4284" | Debra Woods (craigdebbie12@gmail.com) | #4284 | Courtesy thank-you after today's address-correction and card-details replies were sent — no new request | No reply needed | `Bot/Needs Approval` (labelled to match the underlying case) |
+
+## Run 9 (hourly check-in, ~14:2x UTC)
+
+Three items.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Dog toy fox" | Ann Welsh (priceann100@gmail.com) | #2228 | Escalation trigger — broken promise: a 17 July reply said the "Resolutions Team" would be in touch about a refund, no follow-through, and she's now chasing it nearly a month later (thread had never carried a Bot label) | Drafted an honest reply that doesn't repeat the broken "Resolutions Team" promise, flags to the owner as a priority | `Bot/Escalated - Owner Attention` |
+| "Delivered 3 hours ago !!!" | Irene Hatter (irenehatter@hotmail.com) | #3242 | Escalation trigger — Rule-1 chew damage (destroyed within 3 hours), but explicitly disputes the "indestructible" claim as ours ("Not indestructible as you claim") | Drafted an honest reply that doesn't dismiss the advertising point as a normal chew-damage refusal alone, flags to the owner | `Bot/Escalated - Owner Attention` |
+| "Re: Order #2783" | Barbara Swindler (bswindler@comcast.net) | #2783 | Continuation of the already-escalated case — confirms she wants the refund the owner was asked to action; no new classification needed | No reply needed | `Bot/Escalated - Owner Attention` (unchanged) |
