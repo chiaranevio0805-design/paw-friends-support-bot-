@@ -43,3 +43,14 @@ One new thread, chew damage.
 | Thread | Sender | Order | Classification | Action | Label |
 |---|---|---|---|---|---|
 | "Paw Friends return" | Marty Weavers (martyweavers@yahoo.co.uk) | #3107 | Rule 1 — two plushies chewed, no order number given (matched via name search); calls them "indestructible toys" only as his own generic description, not quoting a specific advertised phrase, so no escalation trigger | Drafted a friendly Rule-1 reply (chew damage, no refund per policy, suggests sturdier styles) | `Bot/Draft Ready` |
+
+## Run 6 (hourly check-in, ~11:1x UTC)
+
+Several of today's earlier drafted replies have now been sent to customers (by the owner) and drawn follow-ups. Four items.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: A shipment from order #3518 is on the way" | Tim Wykes (timwykes@hotmail.com) | #3518 | Escalation trigger — after the Rule-1 chew-damage refusal, he's now explicitly disputing our advertising ("This is not the position you present in your advertising") and signalling he'll post about it publicly | Drafted an honest, non-committal reply acknowledging the point rather than a template denial, flags to the owner rather than promising an outcome | `Bot/Escalated - Owner Attention` |
+| "Plushies" | Deanna McKenzie (deanna592@hotmail.com) | #3249 | Escalation trigger — explicitly attributes "indestructible" to our advertising as her reason for buying, and the fox plushie lost both legs, an ear, and stuffing within a day with no chewing mentioned, which reads more like a possible defect than routine play damage | Drafted an honest reply that doesn't dismiss it as normal wear, flags to the owner with the photos for a proper look, no refund promised or denied | `Bot/Escalated - Owner Attention` |
+| "Re: Cancel" | Nicholas Kloepfer (nicholaskloepfer@icloud.com) | #4604 | Courtesy thank-you after the address-correction reply was sent — no new request | No reply needed | `Bot/Needs Approval` (labelled to match the underlying case, which still needs the Shopify address edit confirmed) |
+| "Re: URGENT - FULL RETURN FUND REQUEST" | Do Robinson (dorobinson2918@yahoo.co.uk) | #1915 | Courtesy acknowledgement after today's honest reply — no new request, case remains open | No reply needed | `Bot/Escalated - Owner Attention` (unchanged) |
