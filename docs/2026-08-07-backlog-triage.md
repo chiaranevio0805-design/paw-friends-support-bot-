@@ -28,6 +28,25 @@ One new thread.
 |---|---|---|---|---|---|
 | "Re: #3714" | Sue Tudor (susie_tudor@hotmail.co.uk) | #3714 | Delivery question, second contact — our 31 July reply said it hadn't shipped; it then went out 1 Aug, so there was a genuine new update to give rather than a repeat holding line | Tracking given, shipping explanation, `Paw-Friends10` offered | `Bot/Draft Ready` |
 
+## Run 3 (check-in, ~12:2x UTC)
+
+One new thread — and it caught a real error on our side.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: Hello" | Nicholas Kloepfer (nicholaskloepfer@icloud.com) | #4604 | **Escalation** — third contact on the same case, and the address change he asked for on 5 Aug was never actually applied. Shopify still shows the original Orlando address; order is UNFULFILLED. He believes it was corrected because our reply quoted his new address back to him | `⚠️ MANUELLE PRÜFUNG` draft correcting his assumption honestly, confirming no tracking yet because it hasn't shipped, and flagging the change as urgent | `Bot/Escalated - Owner Attention` |
+
+### Note on #4604 — needs action before this ships
+
+The address correction has been requested three times and applied zero
+times. The order is still unfulfilled, so it is fixable right now, but if
+it dispatches to the Orlando address first this becomes a lost-parcel
+claim on a US delivery. Worth doing today.
+
+A quoted-back address in a reply is not a change. This is the second time
+this week a customer has read a confirmation of *what they asked for* as
+confirmation it was *done* (see Debra Woods #4284, 2026-08-04).
+
 ### Recurring defect worth fixing at source
 
 The Zahnbuddy "free gift, then charged" checkout bug has now been reported
