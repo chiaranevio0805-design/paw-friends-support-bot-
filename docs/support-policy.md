@@ -35,6 +35,23 @@ Everything else: no refund, no exception. This explicitly includes:
 - A change of mind after the item has been used
 - Ordinary wear from use
 
+### Open question — "defective only" vs. the product page (2026-08-07)
+
+The owner has asked that replies say there is **no refund except for
+defective items**, and will send the product-page wording to argue from.
+Case 2 above (unused, within 30 days) is left in place until that wording
+arrives, because the product-page copy the owner quoted says the opposite:
+
+> "we give you a full 30 days to make sure you've made the right choice…
+> we will always work with you to find a fair solution."
+
+A customer who reads that and is then told only faulty items qualify has a
+real grievance, and "your advertising says X" is already the single most
+common escalation in this inbox. Whichever way the owner resolves it, the
+reply text and the product page need to say the same thing — otherwise the
+bot generates the complaints it then has to escalate. Flagged for the owner
+rather than silently dropped.
+
 ## The justification to use
 
 Always explain what the guarantee is *for* — never just say no:
@@ -44,6 +61,36 @@ Always explain what the guarantee is *for* — never just say no:
 > returned unused within 30 days."
 
 Never send a bare refusal without this explanation.
+
+## Shipping and delivery questions (owner update, 2026-08-07)
+
+Every customer gets an answer — no shipping question goes unanswered.
+
+1. **Always look the order up in Shopify first** and tell the customer what
+   it actually shows. Never answer a "where is my order" question without
+   checking.
+   - Fulfilled with tracking: give the tracking number and link.
+   - Still unfulfilled: say so honestly — the order is being prepared for
+     dispatch and they'll get tracking when it ships.
+2. **The standard explanation for delay**, where it is the real reason:
+   our UK warehouse is currently sold out, so orders are being fulfilled
+   from our international warehouse, which can add **10–14 working days**
+   to delivery.
+3. **Offer the discount code** `Paw-Friends10` — 10% off their next order —
+   to customers who have been waiting on a delayed delivery.
+
+**Bounds on the above.** Use the UK-warehouse explanation where it is
+actually the reason for the delay — which, for the international-fulfilment
+orders on this store, it generally is. Do **not** use it as a blanket
+explanation for a delay it doesn't explain: a parcel the courier marked
+delivered to the wrong address, a parcel lost in transit, or an order that
+was never actually dispatched are different problems, and saying "UK stock
+is sold out" there would be telling the customer something untrue. Say what
+Shopify actually shows and, where that shows a genuine problem, flag it to
+the owner rather than reassuring the customer past it. Reassurance is only
+worth anything when it's accurate — a customer reassured with something
+false comes back angrier, which is how several of this week's escalations
+started.
 
 ## Tone
 
@@ -121,6 +168,26 @@ Triggers:
 - An animal was hurt.
 - Parcel never arrived, or was delivered to the wrong address.
 - Third email from the same customer on the same case.
+
+### Legal threats — also notify the owner (owner update, 2026-08-07)
+
+When a customer mentions a lawyer or legal action, additionally create a
+Gmail draft to `nevio.marasa@icloud.com` setting out the case: who, which
+order, what they're claiming, what we've replied so far, and what they're
+asking for.
+
+The customer-facing draft still starts with the `⚠️ MANUELLE PRÜFUNG` line
+and stays short and non-committal. Do **not** have the bot argue the policy
+point-by-point at someone who has raised legal action — that is a
+conversation for the owner to have, and a bot restating the refund policy
+to someone threatening to escalate reliably makes things worse rather than
+better. Set out the facts, promise nothing, hand it over.
+
+## Every customer gets a reply
+
+No customer email is left unanswered. If a case doesn't fit the guarantee
+rule or the shipping guidance, draft an honest holding reply and flag it —
+silence is never the right output.
 
 ## Never
 

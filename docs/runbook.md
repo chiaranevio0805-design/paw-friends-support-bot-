@@ -79,16 +79,30 @@ the Paw-Friends.uk Shopify store.
    thread subject, sender, classification, action taken, and (for
    approval/escalated items) the recommended next step for the human.
 
-## Daily report
+## Daily report (owner update, 2026-08-07 — wanted every evening)
 
-Once a day, compile the day's triage log into a summary: counts by
-category, any refunds actually issued, and the full list of
-`Needs Approval` / `Escalated` items with recommended actions. Since
-there's no Gmail send capability, this can't be emailed automatically —
-draft it via `create_draft` addressed to `nevio.marasa@icloud.com` (it
-will sit in the connected Gmail account's Drafts, not arrive in the
-icloud inbox, until someone sends it) or paste it directly into chat/a
-repo file for the owner to read, whichever the owner prefers.
+Once a day, compile the day's triage log into a summary containing:
+
+- Counts by category.
+- **What customers asked about most often that day**, grouped by theme
+  (delivery delays, chew damage, returns, pricing, etc.) with rough counts
+  — this is the part the owner most wants to see.
+- **How the bot replied** to each theme, so the owner can spot a wording
+  problem before it turns into a pattern of complaints.
+- Any refunds or replacements actually actioned by a human.
+- The full list of `Needs Approval` / `Escalated` items with recommended
+  next steps.
+
+Draft it via `create_draft` addressed to `nevio.marasa@icloud.com`, and
+post the same summary into chat so the owner sees it without opening
+Drafts.
+
+**There is no send capability on the connected account** — the draft sits
+in the support mailbox's Drafts folder and does *not* arrive in the iCloud
+inbox until a human opens Gmail and presses send. The owner has asked to
+"receive an email every evening"; that will only actually happen if someone
+sends the draft, or the owner connects an account with send permission.
+Don't describe the report as "sent."
 
 ## Things this runbook deliberately does not do
 
