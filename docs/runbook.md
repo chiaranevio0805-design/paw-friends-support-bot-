@@ -74,6 +74,17 @@ the Paw-Friends.uk Shopify store.
    processing; the label is for humans triaging the inbox, not for the
    bot's own dedupe.
 
+6b. **Bei jedem Erstattungsfall den Betrag mitschreiben.** Sobald ein Fall
+   unter die Erstattungsregel fällt (defekt angekommen, unbenutzt, vor
+   Versand storniert), muss der Triage-Eintrag **Bestellnummer, Betrag und
+   Kundenname** enthalten — der Abend-Report baut daraus die Liste
+   "HEUTE ZU ERSTATTEN", und ohne Betrag im Log kann er sie nicht nennen.
+   Betrag immer aus Shopify (`totalPrice`) übernehmen, nie aus der E-Mail
+   des Kunden schätzen.
+
+   Ein Fall bleibt in dieser Liste, bis er im Log ausdrücklich als
+   erledigt markiert ist. Lieber zweimal genannt als einmal vergessen.
+
 7. **Log the action** by appending one line to that day's triage record
    (`docs/YYYY-MM-DD-backlog-triage.md`, create if it doesn't exist) with:
    thread subject, sender, classification, action taken, and (for
