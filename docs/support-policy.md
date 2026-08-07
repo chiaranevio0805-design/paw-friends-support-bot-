@@ -16,24 +16,50 @@ drafted reply, not a Shopify mutation.
 > `Bot/Auto-Resolved` automation, and the old escalation-trigger list below
 > are superseded by this version — see "What changed" at the bottom.
 
-## The rule
+## The rule (clarified by the owner, 2026-08-07)
 
-Our 30-day money-back guarantee covers exactly two cases:
+There are two separate buckets, and the distinction is what the dog did:
 
-1. **The item arrived damaged or defective.**
-   Ask for a photo. Once confirmed, the customer gets a replacement or a
-   refund.
-2. **The item is UNUSED and within 30 days of order.**
-   Get a return address from the customer, and confirm the refund will be
-   processed once the returned item is received.
+### Refund — yes, full amount
 
-Everything else: no refund, no exception. This explicitly includes:
+1. **The item arrived damaged or defective.** Ask for a photo. Once
+   confirmed: replacement or refund.
+2. **The item is unused** — arrived and never given to the dog, still in
+   its packaging.
+3. **Cancelled before dispatch.** Order still UNFULFILLED and the customer
+   asks to cancel: cancel and refund the full amount, no argument, no
+   attempt to talk them out of it.
 
-- Damage from chewing, pulling, or normal play
-- The dog simply doesn't like the toy
-- The product is smaller than the customer expected
-- A change of mind after the item has been used
-- Ordinary wear from use
+In these cases the customer gets **the whole amount they paid**, and gets
+told once it's done.
+
+### Refund — no
+
+- Damage from chewing, pulling, or normal play. **This is the firm one.**
+  A dog destroying a toy is not a fault in the toy, and this is where the
+  answer stays no.
+- Ordinary wear from use.
+
+The dividing line is simple: if the dog got to it, no refund. If it never
+reached the dog, refund.
+
+### The bot cannot execute refunds — connector limitation
+
+The Shopify connector blocks every fund-moving mutation at the server
+level. Both `refundCreate` and `orderCancel` are refused with
+`category: "financial"` — this is enforced by the connector, not a choice
+in this policy, and no wording here can change it. Verified 2026-08-07.
+
+So for every "refund — yes" case the bot:
+1. Confirms the order state in Shopify (paid, and unfulfilled where the
+   case depends on that).
+2. Drafts the customer reply.
+3. Labels `Bot/Needs Approval` **with the exact action spelled out** —
+   order number, amount, and "cancel + refund in full" — so the owner can
+   execute it in Shopify admin in seconds.
+
+Do not tell a customer a refund "has been processed." Say it is being
+processed, because at the point the draft is written it hasn't been.
 
 ### Open question — "defective only" vs. the product page (2026-08-07)
 

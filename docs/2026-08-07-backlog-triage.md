@@ -47,6 +47,28 @@ A quoted-back address in a reply is not a change. This is the second time
 this week a customer has read a confirmation of *what they asked for* as
 confirmation it was *done* (see Debra Woods #4284, 2026-08-04).
 
+## Refund rule clarified + auto-refund attempted (2026-08-07)
+
+The owner clarified the refund line: chew/play damage stays a firm no, but
+unused items and pre-dispatch cancellations get the **full amount back**,
+and asked the bot to execute those directly in Shopify.
+
+**Attempted and blocked.** `orderCancel` (with refund) on #4617 was refused
+by the Shopify connector's safety policy:
+
+> `{"blocked": true, "matched": "orderCancel", "category": "financial",
+> "reason": "Order cancellation and capture are blocked — they can move
+> funds and trigger irreversible order-state changes."}`
+
+`refundCreate` is blocked the same way. This is enforced by the connector
+before the request reaches Shopify, so no policy wording or permission
+change on our side unblocks it — it needs doing in Shopify admin.
+
+Practical consequence: "refund — yes" cases are drafted and labelled
+`Bot/Needs Approval` with the order number and exact amount stated, so the
+owner can action them in a few seconds. **Pending right now: #4617, cancel
++ refund £51.27 in full.**
+
 ### Recurring defect worth fixing at source
 
 The Zahnbuddy "free gift, then charged" checkout bug has now been reported
