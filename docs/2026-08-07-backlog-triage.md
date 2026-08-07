@@ -76,3 +76,161 @@ by at least five separate customers (Ian Beswick #4543, Kelly Hawkins,
 Robert Brookfield, Priscilla, Brooke Layzell, now Claire Roberts). It is
 generating support volume every few days and is a pricing-accuracy problem,
 not a support one — fixing the checkout would remove the whole category.
+
+## Offene Entwürfe im Volltext (Stand 2026-08-07 13:2x UTC)
+
+Ab sofort wird jeder Entwurf beim Anlegen hier im Volltext protokolliert
+(siehe Runbook 6a). Die folgenden lagen schon vorher im Entwurfsordner —
+für die mit Volltext unten ist die Fassung verbürgt, die übrigen lassen
+sich über den Gmail-Connector nicht mehr auslesen (`list_drafts` liefert
+`plaintextBody` nur für den zuletzt erstellten Entwurf) und müssen vor dem
+Senden in Gmail gelesen werden.
+
+### Mit verbürgtem Volltext
+
+**Entwurf an Tor Vatne (vikingflooringlv@gmail.com) — Betreff: Re: Cancel Order #4617**
+> Hi Tor,
+>
+> Thanks for letting us know quickly — that made this easy.
+>
+> Order #4617 hasn't been dispatched, so it can be stopped. It's being cancelled and refunded in full — the whole £51.27 back to the card you paid with. You don't need to do anything.
+>
+> Refunds usually take a few working days to show on your statement depending on your bank. You'll get a confirmation from Shopify once it's gone through.
+>
+> Sorry the order went in by mistake, and thanks for catching it early.
+>
+> Lisa
+> Paw-Friends UK
+>
+> **Zusage darin:** Volle Erstattung £51,27. Muss in Shopify ausgeführt werden, bevor bzw. direkt nachdem diese Mail rausgeht.
+
+**Entwurf an Nicholas Kloepfer (nicholaskloepfer@icloud.com) — Betreff: Re: Hello**
+> ⚠️ MANUELLE PRÜFUNG - GRUND: Adressänderung #4604 wurde NICHT im System vorgenommen — Bestellung steht weiterhin auf der alten Adresse (13722 Lagoon Isle Way, Orlando) und ist unversandt. Kunde glaubt, sie sei korrigiert. Dritter Kontakt. Muss vor Versand geändert werden.
+>
+> Hi Nicholas,
+>
+> Thanks for checking — and I'm glad you did, because I need to correct something rather than let you assume it's sorted.
+>
+> When I quoted your address back to you, that was me confirming what you'd sent me, not confirming it had been changed on the order. I've just looked, and the order still has the original address on it. I'm sorry — that's on us, not you.
+>
+> Two things:
+>
+> There's no tracking yet, because #4604 hasn't been dispatched. So nothing has gone to the wrong address, and there's still time to fix it.
+>
+> I've flagged the address change as urgent so it's applied before the order ships. Once it does ship you'll get the tracking automatically, and I'll double-check it went out to the right place.
+>
+> Sorry for the back and forth on this one.
+>
+> Lisa
+> Paw-Friends UK
+>
+> **Zusage darin:** Adresse wird vor Versand geändert. Die ⚠️-Zeile vor dem Senden entfernen — sie ist nur für den Owner.
+
+**Entwurf an Sue Steer (suesteer@hotmail.com) — Betreff: Re: Order #3089**
+> Hi Sue,
+>
+> I'm really sorry to hear this — and thank you for the detail, that's genuinely helpful. A delivery photo showing your parcel somewhere that isn't even your property, combined with what you're hearing from others locally about EVRI, does suggest this one's gone astray rather than actually reached you.
+>
+> I've flagged this to the team with a view to getting a replacement sent out, since it doesn't look like this was your parcel going missing through any fault of yours. I can't confirm the exact next step myself, but wanted you to know this is being looked at properly rather than just pointed back to the courier.
+>
+> Thanks also for the feedback on EVRI — that's worth us knowing about.
+>
+> Sorry again for the hassle, Sue, and I'll be in touch as soon as I have an update.
+>
+> Best wishes,
+> Lisa
+> Paw Friends Customer Care
+>
+> **Zusage darin:** Ersatzlieferung wird geprüft, Rückmeldung zugesagt. Wenn kein Ersatz geschickt wird, muss sie trotzdem eine Antwort bekommen.
+
+**Entwurf an Sandra Sant (sasant73@gmail.com) — Betreff: Re: Order**
+> Hi Sandra,
+>
+> I'm really sorry — over six weeks since dispatch with no delivery, and multiple emails from you that never got a reply, is well below what you should expect from us. I don't want to just point you to tracking again without acknowledging that.
+>
+> For reference, order #1476 was dispatched on 25 June (tracking WNBAA0474015057YQ, https://t.17track.net/en#nums=WNBAA0474015057YQ), but I understand that doesn't help much at this point given how long it's been and that you've already had to buy replacements yourself.
+>
+> I'm flagging this directly to the owner as a priority so your refund request gets a proper answer rather than another wait. I can't approve it myself, but I want you to know this has been raised urgently.
+>
+> Thank you for your patience, Sandra, and I'm sorry this has taken so long to reach someone.
+>
+> Best wishes,
+> Lisa
+> Paw Friends Customer Care
+>
+> **Zusage darin:** Antwort auf ihren Erstattungswunsch zugesagt — keine Erstattung versprochen, aber eine Entscheidung. Betrag falls erstattet: £62,85.
+
+**Entwurf an Ann Welsh (priceann100@gmail.com) — Betreff: Re: Dog toy fox**
+> Hi Ann,
+>
+> I'm really sorry — nearly a month with no follow-up after being told the Resolutions Team would be in touch is not okay, and I don't want to just repeat that same promise again without anything to back it up.
+>
+> I'm flagging this directly to the owner now so it actually gets sorted rather than leaving you waiting any longer. I can't confirm the refund myself, but I want you to know this has been escalated properly this time.
+>
+> Thanks for your patience, Ann, and sorry again for how long this has dragged on.
+>
+> Best wishes,
+> Lisa
+> Paw Friends Customer Care
+>
+> **Zusage darin:** Entscheidung zum bereits zugesagten Refund. Achtung: ihr wurde am 17. Juli eine Erstattung zugesagt — Kauschaden, fällt eigentlich nicht unter die Regel. Owner muss entscheiden, ob die alte Zusage gehalten wird.
+
+**Entwurf an Hector Cruz (hlcandassociates@gmail.com) — Betreff: Re: My Dog destroyed the Toy**
+> Hi Hector,
+>
+> Thanks for coming back to me, and I understand you're not happy with how this has landed — that's a fair thing to feel.
+>
+> I don't want to just repeat the policy line again, so I'm passing this on to the team along with your message so they're aware of your feedback on how we describe durability and the review you're planning to leave. I can't promise a different outcome on the refund from where things stand, but I wanted to be upfront that this isn't being ignored.
+>
+> Thanks for your patience, Hector.
+>
+> Best wishes,
+> Lisa
+> Paw Friends Customer Care
+>
+> **Zusage darin:** Keine. Feedback wird weitergegeben, ausdrücklich kein anderes Ergebnis versprochen.
+
+**Entwurf an Irene Hatter (irenehatter@hotmail.com) — Betreff: Re: Delivered 3 hours ago !!!**
+> Hi Irene,
+>
+> Sorry to hear that — three hours is no time at all, and I completely understand why that feels wrong given how we describe these.
+>
+> Chew damage from normal play isn't something we're able to refund under our policy, since it's not a fault with the toy itself, so my hands are a little tied on that front. But I don't want to just wave off the point you're raising about the "indestructible" description — I'm passing that on to the team directly so it gets a proper look rather than a quick policy answer from me.
+>
+> Sorry again for the frustration, Irene, and thanks for flagging it.
+>
+> Best wishes,
+> Lisa
+> Paw Friends Customer Care
+>
+> **Zusage darin:** Keine Erstattung. Werbeaussage wird intern geprüft.
+
+**Entwurf an Michael Green (groca69@googlemail.com) — Betreff: Re: Awaiting order**
+> Hi Michael,
+>
+> Good question, and I want to be straight with you rather than leave it vague: your order is coming from our international fulfilment partner rather than a UK warehouse, which is why the tracking behaves a bit differently to a standard UK parcel. That's the reason it's taking longer than you'd expect for something ordered from a UK-based store.
+>
+> On standards — the toys go through the same safety testing regardless of which warehouse they ship from, so that side of things isn't affected by the shipping route.
+>
+> Thanks for bearing with us, Michael — hope it lands soon and is worth the wait.
+>
+> Best wishes,
+> Lisa
+> Paw Friends Customer Care
+>
+> **Zusage darin:** Keine. Enthält aber eine Aussage zur Sicherheitsprüfung — nur senden, wenn das stimmt.
+
+### Volltext nicht mehr auslesbar — vor dem Senden in Gmail lesen
+
+Diese Entwürfe wurden in früheren Läufen heute angelegt; der Connector gibt
+ihren Text nicht mehr heraus:
+
+- Susie Tudor (susie_tudor@hotmail.co.uk) — "Re: #3714"
+- Casalyn (casalyn262@hotmail.co.uk) — "Re: Order 1952"
+- Steph Bentley (steph.bentley84@googlemail.com) — "Re: Order #3770 confirmed"
+- Claire Roberts (clairejroberts@btinternet.com) — "Re: Checkout price incorrect"
+- Lindsey Lake (lindseylake73@gmail.com) — "Re: Order eta 3590"
+- David Yendle (davidyendle14@gmail.com) — "Re: A shipment from order #3790 is on the way"
+- Fred Braun (fredbraun1966@gmail.com) — "Re: Return order"
+
+Ab dem nächsten Lauf tritt dieses Loch nicht mehr auf.

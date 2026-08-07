@@ -74,6 +74,27 @@ the Paw-Friends.uk Shopify store.
    processing; the label is for humans triaging the inbox, not for the
    bot's own dedupe.
 
+6a. **Den vollständigen Entwurfstext ins Log schreiben.** Jeder Entwurf,
+   den der Bot anlegt, muss im Triage-Log im Volltext stehen — nicht nur
+   eine Zusammenfassung. Der Owner liest den Abend-Report und entscheidet
+   danach, was er absendet; er darf nie auf "Senden" klicken müssen, ohne
+   den Text gesehen zu haben.
+
+   Format pro Fall:
+
+   ```
+   **Entwurf an [Name] ([E-Mail]) — Betreff: [Betreff]**
+   > [vollständiger Text des Entwurfs, als Blockzitat]
+   >
+   > **Zusage darin:** [was wir konkret versprechen — Erstattung, Ersatz,
+   > Adressänderung, Rückmeldung — oder "keine"]
+   ```
+
+   Die **Zusage-Zeile ist Pflicht.** Jede unerfüllte Zusage aus diesem
+   Postfach ist später zu einer Eskalation geworden (Alan Crump #1135,
+   Jeff Hughes #2894, Ann Welsh #2228). Wenn ein Entwurf etwas verspricht,
+   muss der Owner beim Absenden wissen, wofür er geradesteht.
+
 6b. **Bei jedem Erstattungsfall den Betrag mitschreiben.** Sobald ein Fall
    unter die Erstattungsregel fällt (defekt angekommen, unbenutzt, vor
    Versand storniert), muss der Triage-Eintrag **Bestellnummer, Betrag und
