@@ -20,6 +20,14 @@ redrafted against the updated policy.
 | "Fwd: Order #3770 confirmed" | Stephanie Bentley (steph.bentley84@googlemail.com) | #3770 | **Escalation** — cancellation request was never answered, and she is now threatening to report the store as a scam. Order already dispatched 30 July | `⚠️ MANUELLE PRÜFUNG` draft, acknowledges the unanswered cancellation, promises nothing | `Bot/Escalated - Owner Attention` |
 | "Re: Order 1952" | Linda (casalyn262@hotmail.co.uk) | #1952 | **Escalation** — disputes how the toy was advertised, and this is her third contact with no reply since 28 July | `⚠️ MANUELLE PRÜFUNG` draft, no repeat policy explanation, handed to owner | `Bot/Escalated - Owner Attention` |
 
+## Run 2 (check-in, ~12:1x UTC)
+
+One new thread.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Re: #3714" | Sue Tudor (susie_tudor@hotmail.co.uk) | #3714 | Delivery question, second contact — our 31 July reply said it hadn't shipped; it then went out 1 Aug, so there was a genuine new update to give rather than a repeat holding line | Tracking given, shipping explanation, `Paw-Friends10` offered | `Bot/Draft Ready` |
+
 ### Recurring defect worth fixing at source
 
 The Zahnbuddy "free gift, then charged" checkout bug has now been reported
