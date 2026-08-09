@@ -75,3 +75,48 @@ nur auf Facebook-Werbung.
 
 ~180 weitere ungelesene Threads. Bei diesem Volumen ist Einzelbearbeitung
 in einem Lauf nicht seriös möglich. Vorschlag steht im Chat.
+
+## Run 2 (~21:5x UTC) — Werbeaussagen-Linie festgelegt, Rückstand abgearbeitet
+
+**Owner-Entscheidung 2026-08-09:** Bei Kauschaden wird abgelehnt — unabhängig
+davon, was der Kunde über die Werbung schreibt. Auf die Werbeaussage wird
+nicht eingegangen. Stattdessen wird freundlich die Richtlinie erklärt und auf
+den veröffentlichten Abschnitt der Website verwiesen:
+**"How does the 30-Day Money-Back Guarantee work?"**
+
+Das ist ab sofort die Linie. Keine Rückfrage mehr pro Fall.
+
+### 13 Kauschaden-Antworten geschrieben
+
+Ray Lewis #3429 · Joanne Coutts · love_life89 #3907 · Michael Wilkinson #3937 ·
+Lisa Good #3689 · Sam LJ #3711 · David Kiff #3715 · Lindsey Lake ·
+Claire Elderfield · M Mellor #3319 · David Yendle · Holly Priest ·
+tongaym@charter.net
+
+Alle nach demselben Muster, individuell formuliert:
+1. Persönliche Anrede, Bedauern ohne Floskel
+2. Was die Garantie abdeckt (defekt angekommen / unbenutzt zurück in 30 Tagen)
+3. Klar: Kauschaden ist nicht abgedeckt
+4. Verweis auf den Website-Abschnitt
+5. Offene Tür für echte Fabrikationsfehler bei Ankunft
+6. Signatur
+
+Bei tongaym wurde die angekündigte Facebook-Bewertung ruhig zur Kenntnis
+genommen ("entirely your call") statt sie zu ignorieren oder darauf zu
+reagieren — Drohung ändert die Antwort nicht.
+
+### Posteingang jetzt leer
+
+Die "201 ungelesen" aus Run 1 war Gmails Schätzung über Einzelnachrichten
+hinweg. Nach dem Labeln aller Threads sind **6 Threads** übrig, sämtlich
+bekannte, bereits bearbeitete Alt-Threads im Papierkorb (Kevin Saggers,
+Linzi Wood, Sharon Alberio, Ronald Elizondo, Darren, Do Robinson).
+
+**Es liegt kein unbeantworteter Kundenkontakt mehr im Posteingang.**
+
+### Stand Entwurfsordner
+
+Alle offenen Entwürfe tragen `Bot/Draft Ready`. Keine internen ⚠️-Zeilen mehr
+in Kundentexten. Der einzige zu löschende Entwurf bleibt der überholte
+Tor-Vatne-Entwurf vom 07.08. ("Re: Cancel Order #4617") — Löschen ist über
+den Connector nicht möglich, muss der Owner in Gmail selbst tun.
