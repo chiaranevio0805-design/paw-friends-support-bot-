@@ -280,3 +280,33 @@ Edward Henderson, Irene Hatter und Hector Cruz.
 > Paw-Friends UK
 >
 > **Zusage darin:** Keine Erstattung.
+
+## Aufräumen im Entwurfsordner (2026-08-09 abends, auf Owner-Wunsch)
+
+Der Owner wollte einen Ordner, in dem ausnahmslos alles liegt, was er
+absenden kann. Dafür mussten drei Dinge geändert werden, sonst wäre das
+Label eine Lüge gewesen:
+
+1. **⚠️-Zeilen aus drei Entwürfen entfernt** (Tor Vatne #4617, Christopher
+   Grive #3536, Nicholas Kloepfer #4604). Diese Zeilen sind interne
+   deutschsprachige Notizen für den Owner. In einem Ordner mit der
+   Aufschrift "bereit zum Senden" sind sie eine Falle: Ein Klick, und der
+   Kunde liest sie mit. Die Eskalations-Information steht weiterhin im Log
+   und im Abendreport — sie gehört dorthin, nicht in eine Kundenmail.
+
+2. **Michael Green (#3486) inhaltlich korrigiert.** Der Entwurf behauptete,
+   die Spielzeuge durchliefen dieselbe Sicherheitsprüfung unabhängig vom
+   Versandlager. Diese Aussage war eine Schlussfolgerung, keine belegte
+   Tatsache, und wurde zweimal zur Prüfung markiert, ohne dass sie bestätigt
+   wurde. Sie ist jetzt ersetzt durch die Zusage, die Frage zu klären und
+   zurückzukommen. Eine unbelegte Sicherheitsaussage ist genau die Art von
+   Satz, die später zum Problem wird.
+
+3. **`Bot/Draft Ready` auf Thread-Ebene** für alle 29 offenen Vorgänge
+   gesetzt, damit Entwurf und Kundenmail gemeinsam unter dem Label liegen.
+
+**Nicht löschbar:** Der überholte Tor-Vatne-Entwurf vom 07.08. ("Re: Cancel
+Order #4617") bleibt liegen. Der Gmail-Connector hat kein Lösch-Tool für
+Entwürfe, und `apply_sensitive_message_label` braucht eine Message-ID, die
+`list_drafts` nicht herausgibt (`Invalid id value`). Muss der Owner selbst
+löschen — ein Klick.
