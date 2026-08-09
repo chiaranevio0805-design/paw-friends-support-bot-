@@ -120,3 +120,49 @@ Alle offenen Entwürfe tragen `Bot/Draft Ready`. Keine internen ⚠️-Zeilen me
 in Kundentexten. Der einzige zu löschende Entwurf bleibt der überholte
 Tor-Vatne-Entwurf vom 07.08. ("Re: Cancel Order #4617") — Löschen ist über
 den Connector nicht möglich, muss der Owner in Gmail selbst tun.
+
+## Run 3 — Entwürfe komplett neu aufgebaut
+
+Der Owner hat den Entwurfsordner geleert. Alle offenen Vorgänge wurden neu
+geschrieben, diesmal durchgehend nach der am 09.08. festgelegten Linie:
+Kauschaden wird abgelehnt, Verweis auf den Website-Abschnitt
+"How does the 30-Day Money-Back Guarantee work?", keine Diskussion der
+Werbeaussage.
+
+**33 Entwürfe angelegt.** Keine internen ⚠️-Zeilen mehr — die
+Eskalations-Information steht ausschließlich hier im Log und im Chat.
+
+### Stornierungen (alle UNFULFILLED, erstattungsfähig)
+
+| Order | Betrag | Kunde |
+|---|---|---|
+| #4617 | £51,27 | Tor Vatne |
+| #4756 | £51,27 | Deborah Savage |
+| #4968 | £28,52 | Renee Johnson |
+| #5328 | £19,95 | Matt James |
+| #4861 | £19,95 | Zoe Haldane |
+| **Summe** | **£170,96** | |
+
+### Teilerstattungen Zahnbuddy (falsch berechnetes Gratis-Produkt)
+
+| Order | Betrag | Kunde | Offen seit |
+|---|---|---|---|
+| #3656 | £14,95 | Kelly Hawkins | 28.07. |
+| #3916 | £14,95 | Robert Brookfield | 30.07. |
+
+### Adressänderungen — beide Bestellungen noch UNFULFILLED
+
+| Order | Kunde | Alte Adresse | Neue Adresse |
+|---|---|---|---|
+| #4926 | Amy Jo Stevenson | 2235 Wisconsin Avenue, New Holstein, WI 53061 | **N2660 Hayton Road** (Rest unverändert) |
+| #4604 | Nicholas Kloepfer | 13722 Lagoon Isle Way, Apt 103, Orlando, FL 32824 | **5049 Troubador CT** |
+
+### Bereits falsch zugestellt — nicht mehr korrigierbar
+
+**#3930 Adam Worsell.** Adressänderung war bestätigt, wurde nie angewendet,
+Sendung ging am 02.08. an die alte Adresse (35 Lincoln Close, Runcorn).
+Entscheidung nötig: Ersatzlieferung oder Erstattung £27,95.
+
+Dritter Fall dieser Art nach #4604 und #4284. Die Ursache ist immer
+dieselbe: Die Bestätigung an den Kunden geht raus, bevor jemand die Adresse
+in Shopify ändert.
