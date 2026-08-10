@@ -90,3 +90,94 @@ seiner Adresse. Das war ungeprüft und **falsch** — #4978 existiert. Der
 Entwurf wurde korrigiert, bevor er in den Report ging. Auslöser war die
 Log-Pflicht aus Runbook 6a: beim Aufschreiben des Volltexts fiel die
 unbelegte Behauptung auf.
+
+## Run 2 (~09:2x UTC)
+
+Zwei neue Threads — und ein Fehler auf unserer Seite, der beim Lesen von
+Lynn Franks' Thread aufgefallen ist.
+
+### Der Fehler: interner Vermerk ging an eine Kundin
+
+Der Entwurf an Lynn Franks (#1952) wurde am 09.08. um 21:22 gesendet — **mit
+der internen Markierung als erster Zeile**:
+
+> ⚠️ MANUELLE PRÜFUNG - GRUND: Werbeaussage bestritten + dritte
+> Kontaktaufnahme, seit 28.07. keine Antwort erhalten
+>
+> Hi Lynn, …
+
+Eine britische Kundin, die bereits zweimal ohne Antwort geblieben war und
+Trading Standards angedroht hatte, bekam damit einen deutschen internen
+Vermerk zu sehen, der sie als Vorgang klassifiziert.
+
+**Ursache ist mein Format, nicht der Versand.** Ich hatte die Markierung in
+den Entwurfstext gesetzt; der Owner sendet Entwürfe unverändert. Bei
+Nicholas Kloepfer wurde die Zeile vor dem Senden entfernt, bei Lynn nicht —
+darauf darf sich das System nicht verlassen.
+
+**Behoben:** `support-policy.md` und `runbook.md` sind geändert. Der
+Eskalationsgrund steht ab sofort **ausschließlich im Log und im
+Abend-Report**, nie im Entwurf. Entwürfe sind so zu schreiben, dass sie
+unverändert versendbar sind.
+
+**Zu prüfen:** Ob weitere Entwürfe mit der Markierung rausgingen. Eine
+Gmail-Suche über `in:sent` nach dem Text lieferte keine Treffer (Gmail
+indexiert die Zeichenfolge offenbar nicht zuverlässig), daher konnte ich es
+nicht abschließend klären. Betroffen sein könnten die Eskalationsentwürfe
+vom 07.08.: Stephanie Bentley (#3770) und Tor Vatne (#4617).
+
+### Neue Vorgänge
+
+| Kunde | Order | Klassifikation | Label |
+|---|---|---|---|
+| Lynn Franks | #1952 | **Eskalation** — vierter Kontakt. Fordert Erstattung **£17,95**, droht Trading Standards an. Ihre Beschwerde ist ausdrücklich „not as described / nicht wie abgebildet", nicht nur Kauschaden — das ist rechtlich ein anderer Fall | `Bot/Escalated - Owner Attention` |
+| Nikki | — | Kauschaden nach 5 Min. nach langer Lieferzeit, Erstkontakt, verweist auf die Erwartung aus der Werbung | `Bot/Draft Ready` |
+
+**Eskalationsgrund Lynn Franks:** Trading Standards angedroht, vierter
+Kontakt, zwei gebrochene Rückmeldezusagen, bestrittene Produktbeschreibung.
+
+### Entwürfe im Volltext
+
+**Entwurf an Lynn Franks (casalyn262@hotmail.co.uk) — Betreff: Re: Order 1952**
+> Hi Lynn,
+>
+> Two things, and I'll be straight with you on both.
+>
+> First — my last email to you had a line of internal text at the top, in German, that was never meant to leave our system. That was our mistake, not something you did, and I'm sorry it landed in your inbox. Please ignore it.
+>
+> Second, and more importantly: you're right that you've been told twice now that you'd hear back, and twice you haven't. I'm not going to make that promise a third time and leave it hanging.
+>
+> Your complaint isn't only that your dog destroyed the toy. You're saying the item didn't match the pictures and wasn't as described, and that it wasn't fit for purpose. That's a different argument from ordinary chew damage, and it's one I'm not in a position to dismiss.
+>
+> I've put your refund request in front of the owner as a decision that needs making, with your order details and the amount, £17.95. You've also mentioned Trading Standards, which is entirely your right and something I've flagged rather than glossed over.
+>
+> I'm sorry it has taken this many emails.
+>
+> Lisa
+> Paw-Friends UK
+>
+> **Zusage darin:** Keine Erstattung zugesagt — aber zugesagt, dass eine Entscheidung getroffen wird. Entschuldigung für den internen Vermerk. £17,95 falls erstattet.
+
+**Entwurf an Nikki (nikki.1988@yahoo.com) — Betreff: Re: Destroyed**
+> Hi Nikki,
+>
+> Sorry — a long wait followed by five minutes of use is a rotten combination, and I understand the disappointment.
+>
+> Our 30-day money-back guarantee covers items that arrive faulty and items returned unused within 30 days. Damage from chewing isn't something it covers, so I can't promise a refund on that basis.
+>
+> What I won't do is pretend the expectation you had came from nowhere. If the way these are advertised set you up for something different, that's a fair point and one I've passed on rather than argued with here.
+>
+> If anything looked wrong with the toy before your daughter's dog got hold of it, send me a photo and I'll take another look.
+>
+> Lisa
+> Paw-Friends UK
+>
+> **Zusage darin:** Keine Erstattung. Fotoprüfung angeboten, Werbepunkt weitergegeben.
+
+### Zur Werbefrage, zweiter Beleg
+
+Lynn Franks schreibt, der Artikel habe „nothing like the pictures" ausgesehen.
+Das ist inhaltlich etwas anderes als die „40.000 Hunde"-Zitate der übrigen
+Kunden — hier geht es um die Produktabbildung, nicht um die Haltbarkeits-
+aussage. Beide Stränge zeigen aber auf dieselbe Stelle: das Werbematerial
+außerhalb der Produktseite.

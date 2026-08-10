@@ -51,9 +51,11 @@ the Paw-Friends.uk Shopify store.
    - Everything else covered by the guarantee text (chew/play damage,
      dog doesn't like it, too small, change of mind, wear from use): draft
      the policy-explained decline, label `Bot/Draft Ready`.
-   - Escalation trigger applies: draft starting with the
-     `⚠️ MANUELLE PRÜFUNG - GRUND: [...]` line instead of a normal reply,
-     label `Bot/Escalated - Owner Attention`.
+   - Escalation trigger applies: draft an honest, non-committal reply that
+     promises nothing, and label `Bot/Escalated - Owner Attention`. The
+     reason for escalating goes in the **log entry only** — never in the
+     draft body. The owner sends drafts verbatim, so anything in the body
+     is customer-facing (see support-policy.md, "Escalation").
    - A case the guarantee text doesn't name at all (wrong item, delayed
      shipment, pricing/promo question, etc.): don't invent a rule — draft
      an honest holding reply and label `Bot/Needs Approval`, flagging the

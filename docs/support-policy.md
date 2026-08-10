@@ -179,11 +179,25 @@ Paw-Friends UK
 
 ## Escalation
 
-For any of the triggers below, do **not** draft a normal reply. Instead,
-create the draft with this as the first line:
+For any of the triggers below, the case goes to the owner rather than
+getting a standard reply.
+
+**The escalation marker never goes in the draft body.** It belongs in the
+triage log and the evening report only. A draft must be sendable exactly as
+written, with nothing in it that the customer shouldn't read.
+
+This was learned the hard way on 2026-08-09: a draft to Lynn Franks
+(#1952) was sent with `⚠️ MANUELLE PRÜFUNG - GRUND: Werbeaussage
+bestritten…` as its first line. A customer already on her third unanswered
+contact, already threatening Trading Standards, received an internal German
+note labelling her as a case. The owner sends drafts as they are — anything
+in the body reaches the customer.
+
+So: draft the honest, non-committal reply and nothing else. Record the
+reason for escalation in the log entry, where it reads:
 
 ```
-⚠️ MANUELLE PRÜFUNG - GRUND: [reason]
+**Eskalationsgrund:** [reason]
 ```
 
 Triggers:
