@@ -313,3 +313,28 @@ kleiner.
 **Adressänderungen dieser Woche, keine davon ausgeführt:** #4604 Kloepfer
 (3× angefragt), #4459 Russell (zu spät, bereits versandt), #4284 Woods,
 jetzt #4926 Stevenson. Das ist ein eigener Rückstand.
+
+### Dubletten aus paralleler Bearbeitung (2026-08-07, ~14:3x UTC)
+
+Zwei Läufe haben dieselben drei Threads (Vatne #4617, Sheppard #3657,
+Stevenson #4926) gleichzeitig bearbeitet und je einen eigenen Entwurf
+angelegt. Im Postfach lagen dadurch **zwei Antworten pro Kunde**.
+
+Behalten wurde jeweils die Fassung des ersten Laufs. Bei Sheppard war das
+auch sachlich die richtige: Samantha hatte bereits selbst mit Evri
+gesprochen und war von dort an uns zurückverwiesen worden. Die zweite
+Fassung ging darauf nicht ein und hätte sie faktisch weiter warten lassen —
+also genau der Fehler, den die Policy mit "nicht an den Versanddienstleister
+verweisen" verhindern soll.
+
+Die drei überzähligen Entwürfe konnten nicht gelöscht werden: der
+Gmail-Connector hat kein Lösch-Tool für Entwürfe, `apply_sensitive_message_label`
+lehnt Draft-IDs ab (`Invalid id value`), und `search_threads` mit `in:draft`
+liefert nichts. Sie wurden stattdessen per `update_draft` entschärft —
+Betreff "DUBLETTE – NICHT SENDEN", Empfänger auf das eigene Support-Postfach
+umgestellt, sodass ein versehentliches Senden niemanden erreicht.
+
+**Konsequenz für den Betrieb:** Zwei Check-in-Läufe dürfen sich nicht
+überlappen. Solange dieselbe Mail in beiden Läufen noch als `UNREAD` ohne
+Bot-Label steht, verarbeiten beide sie. Der Abend-Report muss beim Zählen
+darauf achten, sonst erscheinen Fälle doppelt.
