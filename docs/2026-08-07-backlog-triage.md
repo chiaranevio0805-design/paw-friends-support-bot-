@@ -234,3 +234,82 @@ ihren Text nicht mehr heraus:
 - Fred Braun (fredbraun1966@gmail.com) — "Re: Return order"
 
 Ab dem nächsten Lauf tritt dieses Loch nicht mehr auf.
+
+## Run 4 (check-in, ~14:2x UTC)
+
+Drei neue Threads.
+
+| Thread | Sender | Order | Classification | Action | Label |
+|---|---|---|---|---|---|
+| "Fwd: Order #4617 confirmed" | Tor Vatne (vikingflooringlv@gmail.com) | #4617 | **Eskalation** — zweite Stornierungsanfrage. Die erste von heute Vormittag wurde nie beantwortet (Entwurf liegt unversendet), die Stornierung nie ausgeführt. Bestellung weiterhin UNFULFILLED, £51,27 | `⚠️ MANUELLE PRÜFUNG`-Entwurf, entschuldigt das Schweigen, bestätigt volle Erstattung | `Bot/Escalated - Owner Attention` |
+| "(kein Betreff)" | Samantha Sheppard (s.j.sheppard@icloud.com) | #3657 | Sendung seit ~6 Tagen beim Zusteller ohne Bewegung. Evri hat sie an uns zurückverwiesen — sie darf auf keinen Fall wieder zum Zusteller geschickt werden (Policy: „Den Kunden nicht an den Versanddienstleister verweisen") | Entwurf mit Tracking, Zusage dass **wir** beim Carrier nachfassen | `Bot/Needs Approval` |
+| "Re: Order #4926 confirmed" | Amy Jo Stevenson (ajstevenson@frontier.com) | #4926 | Adressänderung, Bestellung heute 14:05 aufgegeben, UNFULFILLED. Die angegebene Adresse ist unvollständig (nur Straße, keine Stadt/ZIP) | Entwurf fragt die vollständige Adresse ab, stellt ausdrücklich klar dass noch nichts geändert wurde | `Bot/Needs Approval` |
+
+### Entwürfe im Volltext
+
+**Entwurf an Tor Vatne (vikingflooringlv@gmail.com) — Betreff: Re: Order #4617 confirmed**
+> ⚠️ MANUELLE PRÜFUNG - GRUND: Zweite Stornierungsanfrage von Tor. Die erste vom 07.08. wurde nie beantwortet, die Stornierung nie ausgeführt. #4617 ist weiterhin UNFULFILLED, £51,27 bezahlt. Muss heute in Shopify storniert + voll erstattet werden.
+>
+> Hi Tor,
+>
+> You're right to chase — you asked us to cancel this earlier today and hadn't heard back. Sorry about that.
+>
+> Order #4617 hasn't been dispatched, so it can still be stopped. It's being cancelled and refunded in full — the whole £51.27 back to the card you paid with. You don't need to do anything else.
+>
+> Refunds usually take a few working days to appear on your statement depending on your bank, and you'll get a confirmation from Shopify once it goes through.
+>
+> Sorry again for the silence on the first email.
+>
+> Lisa
+> Paw-Friends UK
+>
+> **Zusage darin:** Volle Erstattung £51,27. Zweite Zusage in Folge — die erste wurde nicht eingelöst. Muss heute ausgeführt werden. ⚠️-Zeile vor dem Senden entfernen.
+
+**Entwurf an Samantha Sheppard (s.j.sheppard@icloud.com) — Betreff: Re: Order #3657**
+> Hi Samantha,
+>
+> Thanks for letting us know, and for going to the trouble of speaking to Evri first — you shouldn't have had to do that.
+>
+> I won't send you back to them. Your order #3657 went out on 1 August under tracking UL381230954YP (https://t.17track.net/en#nums=UL381230954YP), and if it's been sitting with the courier for a week without moving, that needs chasing from our end rather than yours.
+>
+> I've passed it on so we can take it up with the carrier directly. I'll come back to you with what they say, or with a replacement if the parcel can't be located — I'd rather tell you that once we actually know, than guess now.
+>
+> Sorry for the wait, Samantha.
+>
+> Lisa
+> Paw-Friends UK
+>
+> **Zusage darin:** Wir fassen beim Carrier nach UND melden uns zurück. Ersatzlieferung als Möglichkeit genannt, nicht zugesagt. Wenn niemand beim Carrier nachfragt, ist das eine gebrochene Zusage — Betrag falls Ersatz/Erstattung: £27,95.
+
+**Entwurf an Amy Jo Stevenson (ajstevenson@frontier.com) — Betreff: Re: Order #4926 confirmed**
+> Hi Amy Jo,
+>
+> Thanks for catching this quickly — your order #4926 hasn't been dispatched yet, so there's time to change the address.
+>
+> Before I pass it on, could you send me the full address including town and ZIP? I have "N2660 Hayton Road" from your message, and I don't want to guess the rest and send it somewhere wrong. Your order currently has:
+>
+> 2235 Wisconsin Avenue
+> New Holstein, Wisconsin 53061
+>
+> Once you confirm the complete new address, I'll get it changed before the order ships.
+>
+> To be clear, it isn't changed yet — I'll confirm once it actually has been.
+>
+> Lisa
+> Paw-Friends UK
+>
+> **Zusage darin:** Adressänderung vor Versand, sobald sie die vollständige Adresse schickt. Ausdrücklich klargestellt, dass noch nichts geändert ist (Lehre aus #4604).
+
+### Muster, das sich wiederholt
+
+Tor ist der zweite Fall diese Woche, bei dem ein Kunde nachhakt, **weil unser
+Entwurf nie rausging**. Nicholas Kloepfer (#4604) war der erste. Beide Fälle
+wären mit einem Klick erledigt gewesen.
+
+Solange Entwürfe im Ordner liegen bleiben, erzeugt der Bot Arbeit statt sie
+zu sparen — der Kunde schreibt erneut, und der Fall wird schlimmer statt
+kleiner.
+
+**Adressänderungen dieser Woche, keine davon ausgeführt:** #4604 Kloepfer
+(3× angefragt), #4459 Russell (zu spät, bereits versandt), #4284 Woods,
+jetzt #4926 Stevenson. Das ist ein eigener Rückstand.
