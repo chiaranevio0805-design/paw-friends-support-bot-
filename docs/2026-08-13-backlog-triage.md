@@ -246,8 +246,10 @@ Zeitpunkt dieses Laufs **UNFULFILLED**.
 
 ## Batch B — Eskalationen (`Bot/Escalated - Owner Attention`)
 
-Alle Entwürfe beginnen mit der `⚠️ MANUELLE PRÜFUNG`-Zeile. **Diese Zeile ist
-intern und muss vor dem Absenden gelöscht werden.**
+Die Entwürfe unten enthalten **keine** internen Markierungen und sind so, wie
+sie dastehen, absendbar. Der Eskalationsgrund steht jeweils darüber und ist
+nur für dich — er geht nicht an den Kunden (siehe support-policy.md,
+„Escalation": am 09.08. ging so eine Notiz versehentlich an Lynn Franks raus).
 
 | Kunde | Bestellung | Trigger |
 |---|---|---|
@@ -271,8 +273,8 @@ Das sind keine neuen Entscheidungen, sondern bereits gegebene Versprechen.
 
 **Entwurf an Sharon Alberio (pinkpookie16@gmail.com) — Betreff: Re: Refund – Order 1240**
 
-> ⚠️ MANUELLE PRÜFUNG - GRUND: Fünfte Mail seit dem 25.06. Die Rückgabe wurde am 17.07. ausdrücklich bewilligt (unbenutzt, Originalverpackung) — aber die Antwort an die Kundin enthielt wörtlich den Platzhalter „[RETURN ADDRESS – PLEASE ADD]" statt einer Adresse. Seit sieben Wochen wurde keine Rücksendeadresse geliefert. Bestellung #1240 (bestellt unter neonpinkgorilla@yahoo.co.uk), 24,95 £, Status weiterhin PAID.
->
+**Eskalationsgrund:** Fünfte Mail seit dem 25.06. Die Rückgabe wurde am 17.07. ausdrücklich bewilligt (unbenutzt, Originalverpackung) — aber die Antwort an die Kundin enthielt wörtlich den Platzhalter „[RETURN ADDRESS – PLEASE ADD]" statt einer Adresse. Seit sieben Wochen wurde keine Rücksendeadresse geliefert. Bestellung #1240 (bestellt unter neonpinkgorilla@yahoo.co.uk), 24,95 £, Status weiterhin PAID.
+
 > Hi Sharon,
 >
 > You're not being ignored, though I understand completely why it looks that way from your side. I'm sorry.
@@ -291,8 +293,8 @@ Das sind keine neuen Entscheidungen, sondern bereits gegebene Versprechen.
 
 **Entwurf an Scott Hawkins (scotthechef@googlemail.com) — Betreff: Re: Dog destroyed toy**
 
-> ⚠️ MANUELLE PRÜFUNG - GRUND: Am 17.07. wurde eine Erstattung zugesagt („Resolutions Team"), seither ist nichts passiert. Bestellung #2189, 19,95 £, geliefert, weiterhin PAID. Offene Zusage — Betrag steht aus.
->
+**Eskalationsgrund:** Am 17.07. wurde eine Erstattung zugesagt („Resolutions Team"), seither ist nichts passiert. Bestellung #2189, 19,95 £, geliefert, weiterhin PAID. Offene Zusage — Betrag steht aus.
+
 > Hi Scott,
 >
 > No, you haven't received it — I've checked rather than guessed.
@@ -312,8 +314,8 @@ Das sind keine neuen Entscheidungen, sondern bereits gegebene Versprechen.
 
 **Entwurf an Katharine Swann (swanny1412@gmail.com) — Betreff: Re: Cancel order**
 
-> ⚠️ MANUELLE PRÜFUNG - GRUND: Storno und Erstattung wurden am 31.07. zugesagt, Bestellung #3944 wurde trotzdem am 02.08. versandt (Tracking UL383805642YP). 19,95 £, Status weiterhin PAID, keine Erstattung erfolgt. Gleiches Muster wie #4617.
->
+**Eskalationsgrund:** Storno und Erstattung wurden am 31.07. zugesagt, Bestellung #3944 wurde trotzdem am 02.08. versandt (Tracking UL383805642YP). 19,95 £, Status weiterhin PAID, keine Erstattung erfolgt. Gleiches Muster wie #4617.
+
 > Hi Katharine,
 >
 > You're right on both counts — the mix-up was ours, and the refund was promised to you before any of this happened.
@@ -334,8 +336,8 @@ Das sind keine neuen Entscheidungen, sondern bereits gegebene Versprechen.
 
 **Entwurf an David Kiff (davidkiff@thekiffs.net) — Betreff: Re: Order 3715**
 
-> ⚠️ MANUELLE PRÜFUNG - GRUND: Kunde wirft ausdrücklich Falschwerbung vor und zitiert die Anzeige wörtlich („our plushies are made for dogs that destroy everything. 40000 owners. Not one dog got through"). Vierter Kontakt, zweimal ohne Antwort nachgefasst. Bestellung #3715, 27,95 £, geliefert.
->
+**Eskalationsgrund:** Kunde wirft ausdrücklich Falschwerbung vor und zitiert die Anzeige wörtlich („our plushies are made for dogs that destroy everything. 40000 owners. Not one dog got through"). Vierter Kontakt, zweimal ohne Antwort nachgefasst. Bestellung #3715, 27,95 £, geliefert.
+
 > Hi David,
 >
 > Thanks for chasing, and I'm sorry you've had to do it twice.
@@ -351,8 +353,8 @@ Das sind keine neuen Entscheidungen, sondern bereits gegebene Versprechen.
 
 **Entwurf an Maria Graeble (mariagraeble@gmail.com) — Betreff: Re: Order 3778**
 
-> ⚠️ MANUELLE PRÜFUNG - GRUND: Kundin zitiert ausdrücklich die Werbeaussage „indestructible toy" und beruft sich auf die 30-Tage-Rückgabe. Zweite Mail, die erste blieb unbeantwortet. Bestellung #3778, 19,95 £, geliefert.
->
+**Eskalationsgrund:** Kundin zitiert ausdrücklich die Werbeaussage „indestructible toy" und beruft sich auf die 30-Tage-Rückgabe. Zweite Mail, die erste blieb unbeantwortet. Bestellung #3778, 19,95 £, geliefert.
+
 > Hi Maria,
 >
 > Thank you for following up, and I'm sorry your first email went unanswered — that shouldn't have happened.
@@ -368,8 +370,8 @@ Das sind keine neuen Entscheidungen, sondern bereits gegebene Versprechen.
 
 **Entwurf an Ellen Rosey (ellenrosey@aol.com) — Betreff: Re: A shipment from order #4071 is on the way**
 
-> ⚠️ MANUELLE PRÜFUNG - GRUND: Kundin zitiert die Werbeaussage wörtlich („no dog has ever destroyed your furry animals!") und widerlegt sie am eigenen Fall. Bestellung #4071.
->
+**Eskalationsgrund:** Kundin zitiert die Werbeaussage wörtlich („no dog has ever destroyed your furry animals!") und widerlegt sie am eigenen Fall. Bestellung #4071.
+
 > Hi Ellen,
 >
 > Thank you for writing, and I'm sorry — ten minutes is not what you were led to expect.
@@ -385,8 +387,8 @@ Das sind keine neuen Entscheidungen, sondern bereits gegebene Versprechen.
 
 **Entwurf an John McNamara (jmcnamara05@gmail.com) — Betreff: Re: Order #3324**
 
-> ⚠️ MANUELLE PRÜFUNG - GRUND: Kunde stellt die Werbeaussage zur Unzerstörbarkeit ausdrücklich in Frage (Betreffzeile „Absolutely non indestructible"), Fotos angehängt. Bestellung #3324.
->
+**Eskalationsgrund:** Kunde stellt die Werbeaussage zur Unzerstörbarkeit ausdrücklich in Frage (Betreffzeile „Absolutely non indestructible"), Fotos angehängt. Bestellung #3324.
+
 > Hi John,
 >
 > Thanks for the photos, and I'm sorry the monkey didn't last the morning.
@@ -402,8 +404,8 @@ Das sind keine neuen Entscheidungen, sondern bereits gegebene Versprechen.
 
 **Entwurf an kstarbird63@gmail.com — Betreff: Re: Return**
 
-> ⚠️ MANUELLE PRÜFUNG - GRUND: Kunde beruft sich ausdrücklich auf die Werbeaussage „indestructible" und auf die Angabe „fully guaranteed" auf der Website. Zweite Mail, die erste blieb unbeantwortet. Keine Bestellnummer genannt — vor der Antwort zuordnen.
->
+**Eskalationsgrund:** Kunde beruft sich ausdrücklich auf die Werbeaussage „indestructible" und auf die Angabe „fully guaranteed" auf der Website. Zweite Mail, die erste blieb unbeantwortet. Keine Bestellnummer genannt — vor der Antwort zuordnen.
+
 > Hello,
 >
 > Thank you for coming back to me, and I'm sorry your first email didn't get a reply.
@@ -419,8 +421,8 @@ Das sind keine neuen Entscheidungen, sondern bereits gegebene Versprechen.
 
 **Entwurf an Lianne Simpson (lianne-simpson@hotmail.co.uk) — Betreff: Re: Order 3858**
 
-> ⚠️ MANUELLE PRÜFUNG - GRUND: Kundin bezeichnet die Werbung ausdrücklich als irreführend („Should not be advertised in the way you are. Very misleading"). Bestellung #3858.
->
+**Eskalationsgrund:** Kundin bezeichnet die Werbung ausdrücklich als irreführend („Should not be advertised in the way you are. Very misleading"). Bestellung #3858.
+
 > Hi Lianne,
 >
 > Thanks for writing, and I'm sorry it didn't last.
@@ -436,8 +438,8 @@ Das sind keine neuen Entscheidungen, sondern bereits gegebene Versprechen.
 
 **Entwurf an Michael Green (groca69@googlemail.com) — Betreff: Re: not as advertised**
 
-> ⚠️ MANUELLE PRÜFUNG - GRUND: Dritter Kontakt desselben Kunden, Fall #3486 liegt bereits beim Owner. Kunde leitet seine Mail erneut weiter, weil er keine Antwort erhalten hat.
->
+**Eskalationsgrund:** Dritter Kontakt desselben Kunden, Fall #3486 liegt bereits beim Owner. Kunde leitet seine Mail erneut weiter, weil er keine Antwort erhalten hat.
+
 > Hi Michael,
 >
 > You've forwarded this because you haven't heard back, and that's fair — I'm sorry.
@@ -453,8 +455,8 @@ Das sind keine neuen Entscheidungen, sondern bereits gegebene Versprechen.
 
 **Entwurf an Pete Glister (peteglister@gmail.com) — Betreff: Re: Arrived today**
 
-> ⚠️ MANUELLE PRÜFUNG - GRUND: Kunde kündigt an, innerhalb von 48 Stunden öffentlich über die Produktqualität zu kommentieren. Foto angehängt. Keine Bestellnummer genannt — vor der Antwort zuordnen.
->
+**Eskalationsgrund:** Kunde kündigt an, innerhalb von 48 Stunden öffentlich über die Produktqualität zu kommentieren. Foto angehängt. Keine Bestellnummer genannt — vor der Antwort zuordnen.
+
 > Hi Pete,
 >
 > Thanks for sending the photo — I can see exactly what you mean, and less than two hours is nowhere near good enough.
