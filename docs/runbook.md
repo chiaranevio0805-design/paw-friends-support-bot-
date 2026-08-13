@@ -92,6 +92,14 @@ the Paw-Friends.uk Shopify store.
    > Adressänderung, Rückmeldung — oder "keine"]
    ```
 
+   **Bereits gesendete Entwürfe markieren.** Stellt ein Lauf fest, dass auf
+   einen Entwurf schon eine Kundenantwort gekommen ist, oder dass der Thread
+   eine `SENT`-Nachricht mit unserem Text enthält, wird der Log-Eintrag mit
+   **`✅ GESENDET am TT.MM.`** ergänzt. Der Abend-Report übernimmt in
+   „HEUTE ZU SENDEN" nur Entwürfe **ohne** diese Markierung — sonst schickt
+   der Owner denselben Text ein zweites Mal raus (passiert am 09.08. bei
+   Sheppard #3657 und Stevenson #4926).
+
    Die **Zusage-Zeile ist Pflicht.** Jede unerfüllte Zusage aus diesem
    Postfach ist später zu einer Eskalation geworden (Alan Crump #1135,
    Jeff Hughes #2894, Ann Welsh #2228). Wenn ein Entwurf etwas verspricht,

@@ -33,6 +33,32 @@ There are two separate buckets, and the distinction is what the dog did:
 In these cases the customer gets **the whole amount they paid**, and gets
 told once it's done.
 
+**A pre-dispatch cancellation must also be cancelled, not only refunded.**
+Refunding an order in Shopify does not stop it: the fulfilment automation
+picks it up as normal and ships it the next day. This has now happened
+twice — #4617 (refunded 07-08, shipped 08-08 to Las Vegas, £51.27 lost with
+the goods) and #3944 Katharine Swann (cancellation agreed 31-07, shipped
+02-08, refund still unpaid). Both times the money and the goods left the
+business. Cancel the order *and* refund it, in that order.
+
+### There is no returns address (open, blocking — 2026-08-13)
+
+The business has no confirmed returns address. `get-shop-info` has none, and
+the only location on the store is the supplier's fulfilment address. On
+17 July a reply went out to a customer (Sharon Alberio, #1240) containing
+the literal template placeholder `[RETURN ADDRESS – PLEASE ADD]`; she has
+asked for the real address three times since and still doesn't have it.
+
+Until this is resolved, **no "unused return" case can actually be closed**,
+and the bot must not invent an address. Two workable options, both the
+owner's call:
+
+1. Establish a real returns address and put it here.
+2. Refund unused-return cases without requiring the item back.
+
+Doing neither means every return case turns into an escalation, which is
+what is happening now.
+
 ### Refund — no
 
 - Damage from chewing, pulling, or normal play. **This is the firm one.**
