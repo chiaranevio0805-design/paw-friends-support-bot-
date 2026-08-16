@@ -49,3 +49,60 @@ Datei vom 13.08. dokumentiert und liegt in der Werbung, nicht im Support.
   blockiert beides (`category: "financial"`).
 - Keine Mail versendet.
 - Keine Rücksendeadresse erfunden.
+
+---
+
+# Lauf 2 (spät abends, ~21:0x UTC)
+
+26 weitere Threads seit dem Vormittagslauf. **Der Gmail-Connector ist während
+dieses Laufs mehrfach ausgefallen** — Entwürfe konnten nicht angelegt werden.
+Die Shopify-Prüfung lief durch, deshalb hier die Befunde, damit sie nicht
+verloren gehen.
+
+## ⏱ Zeitkritisch — heute Abend noch zu retten
+
+**#6126 — Alex Marris — 29,95 £ — Storno vor Versand**
+
+- Bestellt **14.08. 20:32 UTC**, Storno-Mail **20:38 UTC** — sechs Minuten später
+- Shopify: `PAID`, `UNFULFILLED`, keine Fulfillments
+- Artikel: Frosch + Affe, Versand nach Scunthorpe DN17 4LZ
+- **Achtung, Adressabweichung:** Die Bestellung läuft auf `amarris@aol.com`,
+  die Storno-Mail kam von `alexmarris82@gmail.com`. Vor der Erstattung kurz
+  abgleichen.
+
+→ **Stornieren + 29,95 £ voll erstatten, bevor die Fulfillment-Automatik
+zugreift.** Genau in dieser Konstellation sind #4617, #3944, #4212 und #5474
+schiefgegangen: Der Kunde storniert rechtzeitig, es passiert nichts, die
+Bestellung geht am Folgetag raus. Storno **und** Erstattung, in dieser
+Reihenfolge — Erstatten allein stoppt den Versand nicht.
+
+Entwurf konnte wegen des Connector-Ausfalls nicht angelegt werden. Kein Text
+aus dem Gedächtnis rekonstruiert.
+
+## Wiederholte Kontakte (Eskalationstrigger, noch unbeantwortet)
+
+| Kunde | Bestellung | Trigger |
+|---|---|---|
+| G. Zalarick | #3959 | **Zweite Mail**, ausdrücklich „not indestructible as advertised"; erste Mail vom 11.08. blieb liegen |
+| Frankie Grant | — | **Zweite Mail**, bittet um „the courtesy of a reply"; erste Mail vom 10.08. blieb vier Tage liegen |
+| Becky (bloomphoto) | — | Betreff „**Second inquiry**", beruft sich auf die Geldzurück-Garantie |
+| Paul Russell | #4459 | Zitiert „as it says indestructible"; Adressfall vom 06.08. ist derselbe Kunde |
+
+Alle vier gehören nach Policy in `Bot/Escalated - Owner Attention`. Sie sind
+in diesem Lauf **nicht** beantwortet worden.
+
+## Weitere neue Fälle (unbearbeitet)
+
+- **Werbeaussage bestritten:** kirsty_waugh („robust toy with a 30 day money
+  back guarantee"), e_harvey8, yog97, jessicastokes80, am.smitheram,
+  lauracmcintyre #4461 („not fit for purpose")
+- **Lieferstatus:** angel #4957 (zweite Anfrage), davbutterworth #4916
+- **Sonstiges:** n.simpson727 fragt nach dem versprochenen Gratis-E-Book, das
+  sie nie erhalten hat — eigener Fehlertyp, bisher nicht in der Policy erfasst
+
+## Hinweis zum Ablauf
+
+Der Posteingang wächst seit dem 12.08. um 25–30 Mails pro Tag. Bearbeitet
+werden pro Lauf deutlich weniger. Die Ursache ist in der Datei vom 13.08.
+dokumentiert und liegt in der Werbung, nicht im Support — solange die Anzeige
+mit den Absolutaussagen läuft, ist der Rückstand nicht einholbar.
