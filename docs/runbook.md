@@ -100,6 +100,26 @@ the Paw-Friends.uk Shopify store.
    der Owner denselben Text ein zweites Mal raus (passiert am 09.08. bei
    Sheppard #3657 und Stevenson #4926).
 
+   **Vor dem Absenden prüfen, ob der Thread schon eine Antwort hat.** Seit
+   dem 15.08. gehen aus diesem Postfach auch Antworten raus, die nicht aus
+   einem Bot-Lauf stammen. Ein Entwurf vom Vortag kann deshalb überholt sein;
+   wird er trotzdem gesendet, bekommt der Kunde zwei verschiedene Antworten
+   auf dieselbe Mail. Also: `get_thread` vor dem Senden, und wenn der Thread
+   bereits eine `SENT`-Nachricht nach dem Entwurfsdatum enthält, den Entwurf
+   verwerfen statt absenden.
+
+   **Ein liegengebliebener Entwurf ist keine Antwort.** Das ist der teuerste
+   Fehlermodus in diesem Postfach, nicht die Klassifikation. Lisa McManus
+   (#4125) hatte seit dem 13.08. einen fertigen Entwurf und schrieb am 19.08.
+   „I haven't received any response from you"; Rick Macunovich wartete neun
+   Tage; Ellen Rosey (#4071) schrieb ein drittes Mal. Alle drei waren
+   inhaltlich einfache Fälle und sind allein durch Liegenbleiben zu
+   Eskalationen geworden — genau wie Sharon Alberio (sieben Wochen), Dave Reid
+   (vier Anfragen) und Paul Steadman (seit Juli). Wenn Entwürfe schneller
+   entstehen, als sie abgesendet werden, produziert der Lauf Beschwerden statt
+   sie zu verhindern; das gehört in den Abend-Report, nicht in die nächste
+   Warteschleife.
+
    Die **Zusage-Zeile ist Pflicht.** Jede unerfüllte Zusage aus diesem
    Postfach ist später zu einer Eskalation geworden (Alan Crump #1135,
    Jeff Hughes #2894, Ann Welsh #2228). Wenn ein Entwurf etwas verspricht,
