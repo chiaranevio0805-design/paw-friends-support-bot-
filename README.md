@@ -41,6 +41,10 @@ decision.
 - `docs/runbook.md` — the step-by-step procedure each check-in run follows.
 - `docs/2026-07-18-backlog-triage.md` — record of the first backlog pass,
   including two items flagged for the owner rather than auto-handled.
+- `docs/ads-launch-runbook.md` — Meta Ads Manager launch template: account,
+  campaign and pixel IDs, the standard ad set/ad settings to clone, what
+  the creative upload can and cannot accept, and the durability-claim
+  warning that ties back to the business-risk flag below.
 
 ## Known business-risk flag (not a bot issue — flagging for the owner)
 
