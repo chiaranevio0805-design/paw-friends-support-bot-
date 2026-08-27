@@ -1,13 +1,32 @@
 # Launch-Spec: Image Ads USA 28.08.26
 
-Vorbereitet am 27.08.2026. **Noch nicht angelegt** — ein Schritt fehlt,
-siehe „Blocker" unten.
+Angelegt am 27.08.2026, alles pausiert.
 
-## Adset (anzulegen)
+## Ergebnis
+
+| Objekt | ID |
+|---|---|
+| Kampagne | `120252017271800270` — Plüschies USA Image Ads 28.08.26 |
+| Adset | `120252017277300270` — Image Ads USA 28.08.26 |
+| Ad 1 Donkey | `120252017285630270` |
+| Ad 2 Fox | `120252017288220270` |
+| Ad 3 Monkey | `120252017289710270` |
+| Ad 4 Elephant | `120252017291570270` |
+| Ad 5 Duck | `120252017294530270` |
+
+`ads_get_errors` auf Kampagne und Adset: keine Zustellfehler.
+
+**Nicht in Plüschies 02.06.26 gelandet.** Die Kampagne bleibt für das Tool
+gesperrt (siehe Blocker unten), und der Auftrag lautete, ohne Handgriffe
+des Inhabers fertigzuwerden. Deshalb eine eigene Kampagne — bewusst **ohne**
+Gebotsstrategie auf Kampagnenebene, damit künftige Adsets dort ohne diesen
+Fehler angelegt werden können.
+
+## Adset — Soll-Werte (so umgesetzt)
 
 | Feld | Wert |
 |---|---|
-| Kampagne | `120247283540670270` — Plüschies 02.06.26 |
+| Kampagne | `120252017271800270` — Plüschies USA Image Ads 28.08.26 |
 | Name | Image Ads USA 28.08.26 |
 | Land | US (home + recent) |
 | Tagesbudget | £25,00 (`daily_budget: 2500`) |

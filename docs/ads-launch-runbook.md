@@ -128,10 +128,26 @@ Adset aus `ad_set_id`, und der Aufruf meldet trotzdem Erfolg und spiegelt
 falschen Adset für ein neues Adset. **Nach jedem `ads_create_ad` die
 tatsächliche `adset_id` der Ad abfragen.**
 
-Ablauf deshalb: **Adset von Hand im Ads Manager anlegen** (oder ein
-bestehendes duplizieren und Land, Budget, Name anpassen), Adset-ID
-durchgeben, danach die Ads per API hineinbauen. Vor jedem Launch einmal neu
-testen, ob die Vorabprüfung inzwischen korrigiert wurde.
+Betroffen sind genau die Kampagnen mit Gebotsstrategie auf Kampagnenebene
+**ohne** Kampagnenbudget. Stand 27.08.2026:
+
+| Kampagne | Adset anlegen |
+|---|---|
+| Plüschies 02.06.26 | ❌ |
+| Fluffys 11.08.26 USA – Kopie | ❌ |
+| Bottel of Funnel 21.08.2026 | ✅ |
+| Fluffys 04.08.26 Uk | ✅ |
+| CBO USA / CBO USA – Kopie | echtes CBO, Adsets ohne Budget |
+
+Zwei Wege: **Adset von Hand im Ads Manager anlegen** und die ID durchgeben,
+danach die Ads per API hineinbauen. Oder in eine Kampagne launchen, die
+nicht betroffen ist — dort läuft alles vollautomatisch.
+
+Für neue Kampagnen gilt: Gebotsstrategie **nicht** auf Kampagnenebene
+setzen, sondern auf Adset-Ebene. Dann bleibt die Kampagne dauerhaft
+beschreibbar. `ads_create_campaign` ohne `campaign_bid_strategy` und ohne
+Kampagnenbudget aufrufen — so ist
+`120252017271800270` (Plüschies USA Image Ads) angelegt und funktioniert.
 
 ## Ablauf eines Launches
 
