@@ -40,6 +40,24 @@ der Sandbox-Proxy blockiert sowohl den Higgsfield-CDN als auch Metas
 `fbcdn.net`. Der Abgleich läuft über Prompt-Text, Dateiname und Bildmaße.
 Ein Blick in die Ads-Vorschau bleibt Pflicht.
 
+## Australien und UK (27.08. nachgezogen)
+
+Dieselben fünf Creatives, je eine eigene Kampagne, Struktur identisch zur
+USA-Kampagne: ABO, keine Gebotsstrategie auf Kampagnenebene, £25/Tag,
+Start 28.08. 04:00, Pixel-PURCHASE, Advantage+ Audience, Käufer
+ausgeschlossen, automatische Platzierungen. Alles pausiert.
+
+| Land | Kampagne | Adset |
+|---|---|---|
+| AU | `120252017644050270` | `120252017654900270` |
+| UK | `120252017649260270` | `120252017657020270` |
+
+Meta hat die Creatives dedupliziert: die AU- und UK-Ads verweisen auf
+**exakt dieselben** creative_ids wie die verifizierten USA-v2-Ads
+(`1096702496202409` Donkey, `1568938381392224` Fox, `1793156828384215`
+Monkey, `1691925281896909` Elephant, `1593597578776794` Duck). Die Bilder
+sind damit per Konstruktion korrekt — der Hash-Check von USA gilt mit.
+
 ## ⚠️ Die ersten fünf Ads sind fehlerhaft — nicht scharf schalten
 
 Alle fünf Creatives tragen denselben Bild-Hash

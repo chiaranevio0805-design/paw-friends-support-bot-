@@ -174,6 +174,51 @@ Deshalb: **erst eine einzelne Ad anlegen und verifizieren, dann den Rest** —
 nie fünf Creates parallel abfeuern, und Fehlversuche nicht in Serie
 wiederholen.
 
+## Autopilot: wo die Creatives liegen müssen
+
+Der einzige echte Engpass für unbeaufsichtigte Launches ist die Herkunft
+der Bilder. Was funktioniert und was nicht:
+
+| Quelle | Nutzbar | Warum |
+|---|---|---|
+| Higgsfield-Generierung | ✅ | über `show_generations` auffindbar, `results.rawUrl` ist eine öffentliche URL |
+| Shopify → Inhalte → Dateien | ✅ | liefert eine `cdn.shopify.com`-URL |
+| Beliebige öffentliche Direkt-URL | ✅ | wird direkt als `link_data.picture` gesetzt |
+| Bild in den Chat gelegt | ❌ | landet nicht auf der Platte, es gibt keine URL |
+| Google Drive / Dropbox / Canva | ❌ | liefern eine Login- oder Zwischenseite |
+| Knight Vision | ✅ | `list_images` liefert `image_url` |
+
+Am 27.08. konkret aufgetreten: fünf per Chat geschickte Motive waren weder
+in Higgsfield noch in Knight Vision und damit unbrauchbar. Für Autopilot
+gilt deshalb: **Creatives gehören in Higgsfield, Knight Vision oder
+Shopify Files — nicht in den Chat.**
+
+Der Rest des Ablaufs ist dann unbeaufsichtigt fahrbar: eine Routine weckt
+eine Sitzung nach Zeitplan, die Sitzung liest die neuesten Generierungen,
+gruppiert sie zu Fünferpaketen, legt pro Paket ein Adset je Land an und
+baut die Ads hinein — alles pausiert, das Scharfschalten bleibt beim
+Inhaber.
+
+## Mehrländer-Struktur
+
+Ein Land = eine Kampagne, damit Budget und Reporting sauber getrennt
+bleiben und die Adset-Nummerierung pro Land durchläuft.
+
+| Land | Kampagne |
+|---|---|
+| USA | `120252017271800270` — Plüschies USA Image Ads |
+| AU | `120252017644050270` — Plüschies AU Image Ads |
+| UK | `120252017649260270` — Plüschies UK Image Ads |
+
+Creatives werden von Meta kontenweit dedupliziert: dieselbe Bild-URL und
+derselbe Text ergeben in allen drei Ländern dieselbe `creative_id`. Der
+Hash-Check muss deshalb nur einmal pro Motiv laufen, nicht pro Land.
+
+## Budget im Blick behalten
+
+Der Vollausbau ist grösser, als er im Einzelschritt wirkt: 6 Adsets je Land
+× 3 Länder × £25 = **£450 pro Tag**. Vor dem Scharfschalten gegenrechnen.
+
 ## Ablauf eines Launches
 
 1. **Sammeln:** Creatives (Mediathek-Namen oder Direkt-URLs), Primary Text,
