@@ -121,6 +121,13 @@ Kampagnenbudget, nur eine Gebotsstrategie auf Kampagnenebene.
 `source_adset_id` hilft nicht — das Budget wird nicht mitkopiert. Ein
 Update-Tool für Adsets existiert in diesem MCP-Server nicht.
 
+`adset_spec` inline in `ads_create_ad` hilft ebenfalls nicht und ist die
+gefährlichste der Sackgassen: das Feld wird ignoriert, die Ad landet im
+Adset aus `ad_set_id`, und der Aufruf meldet trotzdem Erfolg und spiegelt
+`adset_spec` im Response zurück. Wer das nicht nachprüft, hält eine Ad im
+falschen Adset für ein neues Adset. **Nach jedem `ads_create_ad` die
+tatsächliche `adset_id` der Ad abfragen.**
+
 Ablauf deshalb: **Adset von Hand im Ads Manager anlegen** (oder ein
 bestehendes duplizieren und Land, Budget, Name anpassen), Adset-ID
 durchgeben, danach die Ads per API hineinbauen. Vor jedem Launch einmal neu

@@ -62,6 +62,19 @@ Geprüft und ebenfalls erfolglos:
   mitkopiert, gleicher Fehler
 - Ein Update-Tool für Adsets gibt es in diesem MCP-Server nicht
 
+Ebenfalls getestet und gescheitert: `adset_spec` inline in
+`ads_create_ad`. Das Feld wird **stillschweigend ignoriert** — die Ad wird
+angelegt, aber in dem Adset, das in `ad_set_id` steht, und kein neues Adset
+entsteht. Der Aufruf meldet trotzdem Erfolg und gibt `adset_spec` im
+Response-Spec zurück, was den Eindruck erweckt, es sei berücksichtigt
+worden. Nicht darauf hereinfallen: nach jedem Anlegen die tatsächliche
+`adset_id` der Ad gegenprüfen.
+
+Dabei ist am 27.08. eine ungewollte Ad entstanden:
+`120252017037980270` („Donkey - No Dog Has Beaten USA 28.08.26") im Adset
+`120251949571290270` („Image Ad 4 Australien – Kopie 4"). Pausiert, kein
+Spend — muss von Hand gelöscht werden, ein Delete-Tool gibt es hier nicht.
+
 **Workaround:** das Adset einmal von Hand im Ads Manager anlegen (oder ein
 bestehendes duplizieren und Land/Budget/Namen anpassen), dann die Adset-ID
 durchgeben. Die 5 Ads lassen sich anschließend per API hineinbauen.
@@ -77,6 +90,9 @@ durchgeben. Die 5 Ads lassen sich anschließend per API hineinbauen.
 **Workaround:** beim Anlegen der Ad `image_url` direkt im Creative-Spec
 mitgeben — Meta holt das Bild dann selbst und legt den Hash an. Deshalb
 stehen oben URLs statt Image-Hashes.
+
+Am 27.08. verifiziert: die Higgsfield-CDN-URL wurde von Meta beim Anlegen
+der Ad akzeptiert. Der Bild-Weg funktioniert also, nur das Adset fehlt.
 
 ## Offen
 
