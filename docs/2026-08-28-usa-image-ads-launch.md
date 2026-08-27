@@ -58,6 +58,41 @@ Meta hat die Creatives dedupliziert: die AU- und UK-Ads verweisen auf
 Monkey, `1691925281896909` Elephant, `1593597578776794` Duck). Die Bilder
 sind damit per Konstruktion korrekt — der Hash-Check von USA gilt mit.
 
+## Set 2 (27.08., alle drei Länder)
+
+Fünf weitere Motive, direkt aus der Higgsfield-Historie gezogen — kein
+Zuschicken nötig. £20/Tag je Adset, sonst identisch zur Vorlage.
+
+| Land | Adset |
+|---|---|
+| USA | `120252017762190270` — Image Ads USA Set 2 |
+| AU | `120252017764850270` — Image Ads AU Set 2 |
+| UK | `120252017765350270` — Image Ads UK Set 2 |
+
+Fünf eigene Bild-Hashes, geprüft: `d7f3bcf1` Think Yours Is Different,
+`ec32d3a9` He Wrecks Everything, `bdd092d4` No Dog Has Ever Beaten These,
+`d4a5a2ec` For Dogs That Destroy Everything, `38fc9551` 40,000 Dogs Tried
+Zero Won.
+
+**Klon-Trick für weitere Länder:** die Creatives einmal in einem Land mit
+`link_data.picture` anlegen, dann in den anderen Ländern nur noch
+`{"creative_id":"..."}` übergeben. Spart den Text, das Bild und den
+erneuten Hash-Check — Meta dedupliziert ohnehin.
+
+## Wo die Chat-Bilder herkommen — ungeklärt
+
+Sechs per Chat geschickte Motive sind in keiner erreichbaren Quelle:
+Higgsfield (120 neueste Generierungen durchsucht), Higgsfield Marketing
+Studio (leer), alle Higgsfield-Workspaces (nur einer), Knight Vision
+(neueste 18.08.), Shopify Files (neueste 22.08.). Google Drive bietet über
+MCP nur Schreib-Tools, kein Lesen.
+
+Die Serie dazu existiert in Higgsfield („OURS ARE STILL STANDING", drei
+Toys, schwarze Fußleiste), aber **alle acht Varianten dort haben
+Studio-Hintergründe** — keine hat die Wohnzimmer-Szene mit den zerfetzten
+Spielzeugen. Diese Motive stammen aus einem Werkzeug, auf das dieser
+Zugang keinen Zugriff hat.
+
 ## ⚠️ Die ersten fünf Ads sind fehlerhaft — nicht scharf schalten
 
 Alle fünf Creatives tragen denselben Bild-Hash
