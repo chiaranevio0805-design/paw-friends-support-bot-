@@ -276,3 +276,110 @@ der Ad akzeptiert. Der Bild-Weg funktioniert also, nur das Adset fehlt.
   Copy-Warnung in `ads-launch-runbook.md` — die Aussage ist in den
   Triage-Docs als Erstattungs- und Consumer-Rights-Act-Risiko vermerkt.
   „40,000 Dogs Tried" ist zusätzlich eine konkrete Zahlenbehauptung.
+
+---
+
+# Vollausbau 27.08.2026 — 24 Adsets, 117 Ads, 3 Länder
+
+Ersetzt die oben beschriebenen Erst-Versuche. Alles PAUSED, Start
+28.08.2026 04:00 Kontozeit, £20/Tag je Adset.
+
+## Kampagnen
+
+| Land | Kampagnen-ID | Name |
+|---|---|---|
+| USA | `120252017271800270` | Plüschies USA Image Ads 28.08.26 |
+| Australien | `120252017644050270` | Plüschies AU Image Ads 28.08.26 |
+| UK | `120252017649260270` | Plüschies UK Image Ads 28.08.26 |
+
+Kein Kampagnenbudget, keine Bid-Strategy auf Kampagnenebene (ABO) — sonst
+greift die CBO-Fehlerkennung des Create-Tools, siehe Runbook.
+
+## Adsets (8 Batches × 3 Länder = 24)
+
+| Batch | Motive | USA | AU | UK |
+|---|---|---|---|---|
+| B1 | 0–4 | `120252018113460270` | `120252018115520270` | `120252018117690270` |
+| B2 | 5–9 | `120252018120510270` | `120252018122640270` | `120252018125010270` |
+| B3 | 10–14 | `120252018287960270` | `120252018290100270` | `120252018290800270` |
+| B4 | 15–19 | `120252018292500270` | `120252018297060270` | `120252018299440270` |
+| B5 | 20–24 | `120252018379050270` | `120252018379860270` | `120252018380130270` |
+| B6 | 25–29 | `120252018405140270` | `120252018406630270` | `120252018408050270` |
+| B7 | 30–34 | `120252018430070270` | `120252018430780270` | `120252018431470270` |
+| B8 | 35–38 | `120252018450150270` | `120252018451370270` | `120252018451870270` |
+
+B1–B7 haben je 5 Ads pro Land, B8 nur 4 (39 Motive gehen nicht glatt durch
+5 auf). Summe: 117 Ads.
+
+Adset-Einstellungen identisch für alle 24:
+
+```
+optimization_goal  OFFSITE_CONVERSIONS
+billing_event      IMPRESSIONS
+bid_strategy       LOWEST_COST_WITHOUT_CAP (Highest Volume)
+daily_budget       2000  (= £20,00)
+destination_type   WEBSITE
+start_time         2026-08-28T04:00:00+02:00
+promoted_object    {"pixel_id":"1311406010460496","custom_event_type":"PURCHASE"}
+targeting          Land (US | AU | GB), home+recent, 18–65,
+                   Advantage+ Audience an,
+                   Ausschluss 120250751148250270
+attribution        7 Tage Klick + 1 Tag View (Default)
+Platzierungen      automatisch
+```
+
+## Ads
+
+Alle: Seite `1147503868444857` (Paw-Friends.Uk), CTA `ORDER_NOW`,
+`conversion_domain` `paw-friends.uk`, Ziel-URL
+
+`https://paw-friends.uk/products/cross-border-new-pet-plush-sound-cotton-rope-toy-fox-frog-pig-dog-interactive-tug-of-war-training-supplies`
+
+Primary Text: der bestehende Plushies-Text („Bought this toy expecting my
+dog to destroy it within hours ❌ …"), identisch in allen 117 Ads.
+
+Bilder: 39 Higgsfield-Motive vom 26.08.2026 (Gruppen-/Varianten-Shots, die
+Collagen mit Hundefotos am Rand sind bewusst nicht dabei). Basis-URL
+
+`https://d8j0ntlcm91z4.cloudfront.net/user_3BvvIV0xKOjMxRy4PeLGy70LaFW/`
+
+Vorgehen je Batch: 3 Adsets anlegen → 5 USA-Ads mit `link_data.picture`
+→ `creative_id` je Ad auslesen → je 5 Klon-Ads für AU und UK mit
+`{"creative_id":"…"}`. Meta dedupliziert Creatives kontoweit, ein Klon
+zeigt garantiert dasselbe Bild.
+
+## Verifikation 27.08.
+
+- 24 Adsets, alle `PAUSED`, alle £20,00 GBP, alle Start
+  `2026-08-28T03:00:00+0100` (= 04:00 MESZ) — geprüft per
+  `ads_get_ad_entities`
+- 117 Ads angelegt, Verteilung 15/15/15/15/15/15/15/12
+- `ads_get_errors` über alle drei Kampagnen: leer
+- `image_hash` aller 29 in B3–B8 neu angelegten Creatives ausgelesen:
+  29 verschiedene Hashes, keiner davon der alte Fallback
+  `5142c41441073142e2e341d5fe8dc647`. Die Bilder sind also drin.
+
+Was **nicht** verifiziert werden konnte: ob Motiv und Headline visuell
+zusammenpassen. Der Sandbox-Proxy blockiert den CDN-Host, die Bilder
+lassen sich nicht herunterladen und ansehen. Die Zuordnung stammt aus den
+Higgsfield-Prompt-Texten. Vor dem Scharfschalten einmal durch die Vorschau
+scrollen.
+
+## Muss von Hand gelöscht werden
+
+Es gibt in diesem MCP-Server kein Delete- oder Update-Tool. Diese Reste
+aus früheren Versuchen liegen pausiert im Konto und müssen im Ads Manager
+weg:
+
+1. Die drei Adsets „Image Ads USA / AU / UK Set 5" — das sind die
+   Hundefoto-Collagen, die nicht gewollt sind.
+2. Die 5 Ads in „Image Ads USA Set 1" **ohne** `v2` im Namen — die haben
+   das falsche Bild (`5142c41441073142e2e341d5fe8dc647`).
+3. Ad `120252017037980270` („Donkey - No Dog Has Beaten USA 28.08.26") im
+   Adset `120251949571290270`.
+
+## Budget beim Scharfschalten
+
+24 Adsets × £20 = **£480/Tag**, wenn alles gleichzeitig läuft. Pro Land
+£160/Tag. Wer kleiner starten will: erst B1–B2 je Land aktivieren
+(£120/Tag) und den Rest nachziehen.

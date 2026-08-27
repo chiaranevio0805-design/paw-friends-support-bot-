@@ -240,8 +240,11 @@ Hash-Check muss deshalb nur einmal pro Motiv laufen, nicht pro Land.
 
 ## Budget im Blick behalten
 
-Der Vollausbau ist grösser, als er im Einzelschritt wirkt: 6 Adsets je Land
-× 3 Länder × £25 = **£450 pro Tag**. Vor dem Scharfschalten gegenrechnen.
+Der Vollausbau ist grösser, als er im Einzelschritt wirkt. Stand
+27.08.2026: 8 Adsets je Land × 3 Länder × £20 = **£480 pro Tag**, wenn
+alles gleichzeitig läuft. Vor dem Scharfschalten gegenrechnen und im
+Zweifel gestaffelt aktivieren — erst zwei Blöcke je Land, den Rest
+nachziehen.
 
 ## Ablauf eines Launches
 
@@ -259,6 +262,52 @@ Der Vollausbau ist grösser, als er im Einzelschritt wirkt: 6 Adsets je Land
 Adsets und Ads werden von der API **immer pausiert** angelegt. Das ist
 Absicht und lässt sich nicht umgehen: nichts gibt Geld aus, bevor es
 jemand angesehen hat.
+
+## Massen-Launch: Batch-Verfahren für mehrere Länder
+
+Bewährt am 27.08.2026 (39 Motive, 24 Adsets, 117 Ads, drei Länder in einem
+Durchlauf). Ohne dieses Verfahren wird der Ablauf oben bei mehr als einer
+Handvoll Ads unübersichtlich.
+
+Aufteilung: Motive durchnummerieren und in Blöcke zu 5 schneiden. Jeder
+Block wird ein Adset **pro Land**. Bleibt am Ende ein Rest, bekommt der
+letzte Block weniger Ads — kein Grund, ein Motiv doppelt zu nehmen.
+
+Je Block der immer gleiche Vierschritt:
+
+1. **3 Adsets anlegen** (USA / AU / UK), identische Einstellungen bis auf
+   `geo_locations.countries`.
+2. **5 USA-Ads anlegen** mit vollem `object_story_spec` und dem Bild in
+   `link_data.picture`.
+3. **`creative_id` je Ad auslesen** — `ads_get_ad_entities`, Level `ad`,
+   gefiltert auf `adset.id`, Feld `creative`.
+4. **Je 5 Klon-Ads für AU und UK** mit `creative": {"creative_id": "…"}`.
+
+Warum Klonen statt neu Anlegen: Meta dedupliziert Creatives kontoweit. Ein
+Klon über `creative_id` zeigt garantiert dasselbe Bild wie das Original —
+zweimal dieselbe URL zu schicken kann dagegen zwei Creatives erzeugen.
+Nebenbei spart es zwei Drittel der Schreibaufrufe, was die Schreibsperre
+(siehe unten) seltener auslöst.
+
+Schritt 2 und 3 sind sequenziell — der `creative_id` existiert erst nach
+dem Anlegen. Schritt 1 des nächsten Blocks lässt sich mit Schritt 3 des
+laufenden bündeln.
+
+### Pflicht-Gegenprüfung am Ende
+
+- `ads_get_ad_entities` auf Level `adset`, gefiltert auf die Kampagnen:
+  Anzahl, Budget, Startzeit, Status stimmen?
+- `ads_get_ad_entities` auf Level `ad`: sind es so viele Ads wie geplant?
+- `ads_get_creatives` mit allen neuen `creative_ids` und Feld `image_hash`:
+  **alle Hashes müssen verschieden sein.** Gleiche Hashes über mehrere
+  Motive heißt, das Bild ist nicht angekommen und Meta hat einen
+  Fallback gesetzt.
+- `ads_get_errors` über alle Kampagnen-IDs.
+
+Was auf diesem Weg **nicht** prüfbar ist: ob Bild und Headline visuell
+zusammenpassen. Der Sandbox-Proxy blockiert die Bild-CDNs. Die Zuordnung
+kommt aus den Prompt-Texten der Generierung — ein Mensch muss vor dem
+Scharfschalten einmal durch die Ads-Manager-Vorschau scrollen.
 
 ## Namensschema
 
