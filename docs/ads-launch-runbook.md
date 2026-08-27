@@ -72,26 +72,59 @@ Ausgelesen aus Creative `1411888704181543`:
 
 ## Creatives: was geht und was nicht
 
-Das ist der einzige echte Engpass. Der Upload akzeptiert:
+Das ist der echte Engpass. Stand 27.08.2026 für Konto `2479996745858211`:
 
 | Weg | Video | Bild |
 |---|---|---|
-| Öffentliche Direkt-URL (Shopify-CDN, S3, eigener Server) | ✅ | ✅ |
-| Liegt schon in der Meta-Mediathek des Kontos | ✅ | ✅ |
-| Datei vom Rechner über Upload-Fenster | ❌ | ✅ (JPEG/PNG/GIF) |
+| `image_url` direkt im Creative-Spec der Ad | ❌ | ✅ |
+| Liegt schon in der Meta-Mediathek (per Hash/ID referenzieren) | ✅ | ✅ |
+| `ads_creative_upload_media`, `upload_source: URL` | ❌ | ❌ |
+| `ads_creative_upload_media`, `upload_source: LOCAL_FILE` | ❌ | ❌ |
 | Google Drive / Dropbox / Canva-Freigabelink | ❌ | ❌ |
 
-Drive- und Dropbox-Links liefern eine Login- bzw. Zwischenseite statt der
-Datei — der Upload schlägt fehl, auch wenn der Link auf „jeder mit dem
-Link" steht.
+Beide Upload-Wege sind für dieses Konto zu: LOCAL_FILE ist deaktiviert
+(„Local file upload is not available for ad account"), und der URL-Upload
+ist noch nicht ausgerollt („This tool is new and is being gradually rolled
+out"). Ein separates `ads_creative_upload_image` gibt es in diesem
+MCP-Server nicht.
 
-**Empfohlener Weg für Videos:** einmal per Drag & Drop in die Meta-Mediathek
-(Ads Manager → Mediathek) legen und die Dateinamen durchgeben. Von dort
-werden sie ohne Upload direkt in die Ads übernommen.
+**Was trotzdem funktioniert:** `image_url` direkt im Creative-Spec von
+`ads_create_ad` mitgeben — Meta holt das Bild selbst und legt den Hash an.
+Der Upload-Schritt entfällt damit komplett. Gilt nur für Bilder.
+
+**Für Videos** bleibt nur: einmal per Drag & Drop in die Meta-Mediathek
+(Ads Manager → Mediathek) legen, danach über `ads_get_ad_videos` per Titel
+finden und die Video-ID im Creative referenzieren.
+
+Bilder, die per Chat geschickt werden, landen **nicht** auf der Platte und
+sind damit nicht verwertbar. Wenn sie mit Higgsfield erzeugt wurden, lassen
+sie sich über `show_generations` anhand des Prompt-Textes wiederfinden —
+die `results.rawUrl` ist eine öffentliche CDN-URL und genau das, was
+`image_url` braucht. Der Sandbox-Proxy blockiert diesen CDN-Host allerdings,
+die Bilder lassen sich also nicht herunterladen und visuell prüfen; die
+Zuordnung läuft über den Prompt-Text und gehört vor dem Scharfschalten in
+der Ads-Vorschau gegengeprüft.
 
 Ein automatischer Umweg über die Shopify-Files-API ist hier **nicht**
 möglich: `mcp__Shopify__graphql_mutation` steht in `.claude/settings.json`
 auf `deny`.
+
+## Adsets in „Plüschies 02.06.26": nur von Hand
+
+Diese Kampagne lässt sich per API nicht um Adsets erweitern. Sie ist ABO,
+Meta verlangt also ein Adset-Budget (`Ad Set Budget is Missing`, subcode
+1885649) — aber die Vorabprüfung von `ads_create_ad_set` weist jedes
+`daily_budget` mit „Parent campaign uses Campaign Budget Optimization
+(CBO)" zurück. Die Erkennung ist falsch: die Kampagne hat kein
+Kampagnenbudget, nur eine Gebotsstrategie auf Kampagnenebene.
+
+`source_adset_id` hilft nicht — das Budget wird nicht mitkopiert. Ein
+Update-Tool für Adsets existiert in diesem MCP-Server nicht.
+
+Ablauf deshalb: **Adset von Hand im Ads Manager anlegen** (oder ein
+bestehendes duplizieren und Land, Budget, Name anpassen), Adset-ID
+durchgeben, danach die Ads per API hineinbauen. Vor jedem Launch einmal neu
+testen, ob die Vorabprüfung inzwischen korrigiert wurde.
 
 ## Ablauf eines Launches
 
