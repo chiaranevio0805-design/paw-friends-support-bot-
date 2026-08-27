@@ -79,6 +79,40 @@ Zero Won.
 `{"creative_id":"..."}` übergeben. Spart den Text, das Bild und den
 erneuten Hash-Check — Meta dedupliziert ohnehin.
 
+## Vollausbau Set 3–6 (27.08., unbeaufsichtigt gebaut)
+
+20 weitere Motive aus der Higgsfield-Historie, in Fünferpakete geteilt,
+jedes Paket in allen drei Ländern. Damit stehen **18 Adsets und 90 Ads**.
+
+| Set | USA | AU | UK |
+|---|---|---|---|
+| 3 | `120252017810660270` | `120252017811790270` | `120252017812490270` |
+| 4 | `120252017816640270` | `120252017820790270` | `120252017823480270` |
+| 5 | `120252017825470270` | `120252017826130270` | `120252017827270270` |
+| 6 | `120252017828610270` | `120252017829160270` | `120252017829820270` |
+
+Motive je Set — 3: Never Beaten, Unbeaten, See The Difference, Stop Buying
+The Wrong Toys, Not All Dog Toys Are Equal. 4: Why Dogs Can't Beat Ours,
+Undefeated, Built To Survive Him, Ours vs Ordinary Toys, Still Standing.
+5: 40,000 Tried Zero Wins, 40,000 Dogs Have Tried, Think Your Dog Is
+Different, Meet The Challengers, Every Dog Has Tried. 6: Same Week Very
+Different Result, Stop Wasting Money, The Math Is Simple, Other Toys Don't
+Stand A Chance, He Beats Every Toy Not This One.
+
+Alles pausiert, `ads_get_errors` über alle drei Kampagnen: leer.
+
+### Tagesbudget im Vollausbau
+
+3 Adsets à £25 (Set 1) + 15 Adsets à £20 (Set 2–6) = **£375 pro Tag**,
+sobald alles scharf geschaltet wird.
+
+### Ungeprüft: die Bildinhalte
+
+Die Motive wurden über Prompt-Text und Dateiname zugeordnet, **nicht
+visuell** — der Proxy blockiert Higgsfield-CDN und fbcdn gleichermassen.
+Bei KI-erzeugtem Text im Bild sind Schreibfehler nicht auszuschliessen.
+Vor dem Scharfschalten gehört jedes Adset einmal durch die Ads-Vorschau.
+
 ## Wo die Chat-Bilder herkommen — ungeklärt
 
 Sechs per Chat geschickte Motive sind in keiner erreichbaren Quelle:
