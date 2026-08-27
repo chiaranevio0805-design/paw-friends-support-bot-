@@ -76,7 +76,8 @@ Das ist der echte Engpass. Stand 27.08.2026 für Konto `2479996745858211`:
 
 | Weg | Video | Bild |
 |---|---|---|
-| `image_url` direkt im Creative-Spec der Ad | ❌ | ✅ |
+| `picture` in `link_data` des Creative-Specs | ❌ | ✅ |
+| `image_url` auf Creative-Ebene | ❌ | ❌ (still ignoriert) |
 | Liegt schon in der Meta-Mediathek (per Hash/ID referenzieren) | ✅ | ✅ |
 | `ads_creative_upload_media`, `upload_source: URL` | ❌ | ❌ |
 | `ads_creative_upload_media`, `upload_source: LOCAL_FILE` | ❌ | ❌ |
@@ -94,8 +95,10 @@ Response, aber Meta setzt ein beliebiges bereits vorhandenes Bild des
 Kontos ein. Fünf Ads mit fünf verschiedenen URLs bekamen alle denselben
 Hash. Die Empfehlung im Tool-Text ist an dieser Stelle falsch.
 
-Vermutlich richtig ist `picture` **innerhalb** von `link_data` — noch
-ungetestet, der Test lief in die Kontosperre.
+**Richtig ist `picture` innerhalb von `link_data`.** Am 27.08. verifiziert:
+damit bekommt jede Ad ihren eigenen Bild-Hash, und die Maße stimmen mit der
+Quelldatei überein. Meta holt das Bild selbst von der URL — ein separater
+Upload ist nicht nötig.
 
 **Pflichtprüfung nach jedem `ads_create_ad`:** den `image_hash` des
 erzeugten Creatives über `ads_get_creatives` auslesen und gegen die anderen

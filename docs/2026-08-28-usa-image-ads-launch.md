@@ -16,7 +16,31 @@ Angelegt am 27.08.2026, alles pausiert.
 
 `ads_get_errors` auf Kampagne und Adset: keine Zustellfehler.
 
-## ⚠️ Die Ads sind fehlerhaft — nicht scharf schalten
+## Korrigierte Ads (v2) — diese gelten
+
+Nach Aufhebung der Kontosperre am 27.08. mit `link_data.picture` statt
+`image_url` neu angelegt. Alle fünf haben einen **eigenen** Bild-Hash,
+alle 1024×1024 PNG — passend zu den Higgsfield-Quelldateien. Die falschen
+Creatives waren 1280×1280 JPG, der Unterschied ist also auch an den
+Maßen erkennbar. `ads_get_errors` über alle fünf: leer.
+
+| Ad | ID | image_hash |
+|---|---|---|
+| Donkey – No Dog Has Beaten … v2 | `120252017449760270` | `cc0db34c…` |
+| Fox – Destroy Everything … v2 | `120252017468300270` | `c78aac62…` |
+| Monkey – Is Yours The First … v2 | `120252017472450270` | `569522d8…` |
+| Elephant – Think Yours Is Different … v2 | `120252017479620270` | `dc1f38a5…` |
+| Duck – 40000 Dogs Tried … v2 | `120252017481360270` | `f85ab990…` |
+
+Das `v2` im Namen trennt sie von den fehlerhaften Ads darunter, die kein
+Delete-Tool entfernen kann. Nach dem Löschen der alten kann der Suffix weg.
+
+Visuell geprüft ist die Zuordnung Bild ↔ Headline weiterhin **nicht** —
+der Sandbox-Proxy blockiert sowohl den Higgsfield-CDN als auch Metas
+`fbcdn.net`. Der Abgleich läuft über Prompt-Text, Dateiname und Bildmaße.
+Ein Blick in die Ads-Vorschau bleibt Pflicht.
+
+## ⚠️ Die ersten fünf Ads sind fehlerhaft — nicht scharf schalten
 
 Alle fünf Creatives tragen denselben Bild-Hash
 `5142c41441073142e2e341d5fe8dc647` — ein bereits vorhandenes Bild namens
@@ -52,7 +76,7 @@ Rest, statt fünf Creates parallel abzufeuern.
 
 ## Aufräumliste (nur von Hand möglich, kein Delete-Tool)
 
-- Die 5 Ads oben — falsches Bild, müssen neu
+- Die 5 Ads **ohne** `v2` im Namen — falsches Bild, ersetzt durch die v2-Ads
 - Ad `120252017037980270` im Adset `120251949571290270`
   („Image Ad 4 Australien – Kopie 4") — Fehlversuch mit `adset_spec`
 
