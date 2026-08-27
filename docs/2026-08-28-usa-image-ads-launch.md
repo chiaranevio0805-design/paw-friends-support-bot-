@@ -16,6 +16,46 @@ Angelegt am 27.08.2026, alles pausiert.
 
 `ads_get_errors` auf Kampagne und Adset: keine Zustellfehler.
 
+## ⚠️ Die Ads sind fehlerhaft — nicht scharf schalten
+
+Alle fünf Creatives tragen denselben Bild-Hash
+`5142c41441073142e2e341d5fe8dc647` — ein bereits vorhandenes Bild namens
+„untitled_105" (1280×1280, angelegt 07.08.2026). Keines der fünf
+übergebenen Motive ist angekommen.
+
+Ursache: `image_url` auf **Creative-Ebene** wird ignoriert. Meta meldet
+keinen Fehler, sondern setzt ersatzweise ein beliebiges vorhandenes Bild
+des Kontos ein. Der Aufruf gibt Erfolg zurück und spiegelt die `image_url`
+im Response — genau dieselbe Falle wie bei `adset_spec`.
+
+Die Empfehlung im Tool-Text („If you have only an image URL, place it at
+the creative top level, not inside link_data") führt also ins Leere.
+Richtig ist vermutlich `link_data.picture`. **Ungetestet** — der Test
+scheiterte an der Kontosperre unten.
+
+**Regel daraus: nach jedem `ads_create_ad` den `image_hash` des erzeugten
+Creatives auslesen und prüfen, dass er sich zwischen den Ads
+unterscheidet.** Ein Erfolg im Response sagt nichts über das Bild aus.
+
+## ⚠️ Konto für Schreibzugriffe gesperrt
+
+Seit dem 27.08. lehnt Meta jedes Anlegen und Ändern ab:
+
+> Please authenticate your account: We think someone may have tried to
+> access your account without permission. (error_code 31, subcode 3858385)
+
+Bestehende Ads laufen weiter. Die Sperre muss der Inhaber im Ads Manager
+per Identitätsprüfung aufheben, bevor die Bilder korrigiert werden können.
+Ausgelöst vermutlich durch die Menge an Schreibversuchen in kurzer Zeit —
+also: bei künftigen Launches erst einen Testfall verifizieren, dann den
+Rest, statt fünf Creates parallel abzufeuern.
+
+## Aufräumliste (nur von Hand möglich, kein Delete-Tool)
+
+- Die 5 Ads oben — falsches Bild, müssen neu
+- Ad `120252017037980270` im Adset `120251949571290270`
+  („Image Ad 4 Australien – Kopie 4") — Fehlversuch mit `adset_spec`
+
 **Nicht in Plüschies 02.06.26 gelandet.** Die Kampagne bleibt für das Tool
 gesperrt (siehe Blocker unten), und der Auftrag lautete, ohne Handgriffe
 des Inhabers fertigzuwerden. Deshalb eine eigene Kampagne — bewusst **ohne**

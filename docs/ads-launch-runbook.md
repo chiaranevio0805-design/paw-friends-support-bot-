@@ -88,9 +88,19 @@ ist noch nicht ausgerollt („This tool is new and is being gradually rolled
 out"). Ein separates `ads_creative_upload_image` gibt es in diesem
 MCP-Server nicht.
 
-**Was trotzdem funktioniert:** `image_url` direkt im Creative-Spec von
-`ads_create_ad` mitgeben — Meta holt das Bild selbst und legt den Hash an.
-Der Upload-Schritt entfällt damit komplett. Gilt nur für Bilder.
+**`image_url` auf Creative-Ebene funktioniert NICHT.** Am 27.08. getestet:
+das Feld wird ignoriert, der Aufruf meldet Erfolg und spiegelt die URL im
+Response, aber Meta setzt ein beliebiges bereits vorhandenes Bild des
+Kontos ein. Fünf Ads mit fünf verschiedenen URLs bekamen alle denselben
+Hash. Die Empfehlung im Tool-Text ist an dieser Stelle falsch.
+
+Vermutlich richtig ist `picture` **innerhalb** von `link_data` — noch
+ungetestet, der Test lief in die Kontosperre.
+
+**Pflichtprüfung nach jedem `ads_create_ad`:** den `image_hash` des
+erzeugten Creatives über `ads_get_creatives` auslesen und gegen die anderen
+Ads vergleichen. Gleicher Hash bei verschiedenen Bildern = das Bild ist
+nicht angekommen. Ein Erfolg im Response beweist nichts.
 
 **Für Videos** bleibt nur: einmal per Drag & Drop in die Meta-Mediathek
 (Ads Manager → Mediathek) legen, danach über `ads_get_ad_videos` per Titel
@@ -148,6 +158,18 @@ setzen, sondern auf Adset-Ebene. Dann bleibt die Kampagne dauerhaft
 beschreibbar. `ads_create_campaign` ohne `campaign_bid_strategy` und ohne
 Kampagnenbudget aufrufen — so ist
 `120252017271800270` (Plüschies USA Image Ads) angelegt und funktioniert.
+
+## Schreibsperre des Kontos
+
+Zu viele Schreibversuche in kurzer Zeit lösen bei Meta eine
+Sicherheitsprüfung aus (`error_code 31`, subcode `3858385`,
+„Please authenticate your account"). Danach ist Anlegen und Ändern gesperrt,
+bis der Inhaber sich im Ads Manager verifiziert; laufende Ads sind nicht
+betroffen. Am 27.08. genau so passiert.
+
+Deshalb: **erst eine einzelne Ad anlegen und verifizieren, dann den Rest** —
+nie fünf Creates parallel abfeuern, und Fehlversuche nicht in Serie
+wiederholen.
 
 ## Ablauf eines Launches
 
