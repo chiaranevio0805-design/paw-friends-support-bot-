@@ -263,6 +263,34 @@ Adsets und Ads werden von der API **immer pausiert** angelegt. Das ist
 Absicht und lässt sich nicht umgehen: nichts gibt Geld aus, bevor es
 jemand angesehen hat.
 
+## Startzeit nachträglich ändern: geht nur von Hand
+
+Der MCP-Server kann nur **anlegen**. Es gibt kein Update-Tool für Adsets,
+also lässt sich `start_time` nach dem Anlegen per API nicht mehr
+verschieben. Am 27.08. angefragt und geprüft: kein `ads_update_ad_set`,
+kein Edit-Pfad, auch nicht über einen Umweg.
+
+Der Weg im Ads Manager (schnell, weil Sammelbearbeitung geht):
+
+1. Ads-Manager-Reiter **Anzeigengruppen** öffnen, auf die Kampagne filtern.
+2. Alle Adsets der Kampagne über die Kopf-Checkbox markieren.
+3. **Bearbeiten** → im Seitenbereich unter *Zeitplan* das neue Startdatum
+   und die Uhrzeit setzen → auf alle markierten anwenden → veröffentlichen.
+4. Für jede der drei Länder-Kampagnen einmal.
+
+Zwei Dinge, die dabei oft verwechselt werden:
+
+- Eine Startzeit **in der Vergangenheit** blockiert nichts. Das Adset
+  startet dann einfach, sobald es aktiviert wird. Eine knappe Uhrzeit ist
+  also kein Grund zur Eile — verpasst man sie, läuft es sofort los.
+- Die Startzeit allein schaltet nichts scharf. Alles wird PAUSED angelegt
+  und bleibt PAUSED, bis ein Mensch aktiviert.
+
+Konsequenz fürs nächste Mal: **Startzeit vor dem Anlegen festzurren.**
+Neu anlegen wäre die einzige API-Alternative — und würde die alten 24
+Adsets samt 117 Ads als Handarbeit zum Löschen hinterlassen, also deutlich
+mehr Aufwand als die Sammelbearbeitung oben.
+
 ## Massen-Launch: Batch-Verfahren für mehrere Länder
 
 Bewährt am 27.08.2026 (39 Motive, 24 Adsets, 117 Ads, drei Länder in einem
