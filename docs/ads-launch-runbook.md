@@ -182,16 +182,40 @@ der Bilder. Was funktioniert und was nicht:
 | Quelle | Nutzbar | Warum |
 |---|---|---|
 | Higgsfield-Generierung | ✅ | über `show_generations` auffindbar, `results.rawUrl` ist eine öffentliche URL |
-| Shopify → Inhalte → Dateien | ✅ | liefert eine `cdn.shopify.com`-URL |
+| Shopify → Inhalte → Dateien | ✅ **empfohlen** | liefert eine `cdn.shopify.com`-URL |
 | Beliebige öffentliche Direkt-URL | ✅ | wird direkt als `link_data.picture` gesetzt |
 | Bild in den Chat gelegt | ❌ | landet nicht auf der Platte, es gibt keine URL |
 | Google Drive / Dropbox / Canva | ❌ | liefern eine Login- oder Zwischenseite |
 | Knight Vision | ✅ | `list_images` liefert `image_url` |
 
-Am 27.08. konkret aufgetreten: fünf per Chat geschickte Motive waren weder
-in Higgsfield noch in Knight Vision und damit unbrauchbar. Für Autopilot
-gilt deshalb: **Creatives gehören in Higgsfield, Knight Vision oder
-Shopify Files — nicht in den Chat.**
+Am 27.08. konkret aufgetreten: sechs per Chat geschickte Motive waren weder
+in Higgsfield noch in Knight Vision noch in Shopify Files und damit
+unbrauchbar. Für Autopilot gilt deshalb: **Creatives gehören in Shopify
+Files, Higgsfield oder Knight Vision — nicht in den Chat.**
+
+### Shopify Files ist der vorgesehene Ablageort
+
+Am 27.08. verifiziert. Die Dateien lassen sich lesend über
+`mcp__Shopify__graphql_query` auflisten, inklusive öffentlicher CDN-URL:
+
+```graphql
+query GetFiles($first: Int!) {
+  files(first: $first, sortKey: CREATED_AT, reverse: true) {
+    edges { node { id alt createdAt
+      ... on MediaImage { image { url width height } } } }
+  }
+}
+```
+
+`image.url` ist genau das, was `link_data.picture` braucht. Der Inhaber legt
+die Motive per Drag & Drop unter Inhalte → Dateien ab, sonst nichts — kein
+Verschicken, keine Links.
+
+**Benennung ist Pflicht**, sonst ist die Zuordnung Motiv ↔ Headline nicht
+maschinell möglich (die Bilder selbst kann der Sandbox-Proxy nicht laden).
+Schema: `plushies-<land oder all>-<nummer>-<headline-stichwort>.png`, und
+das `alt`-Feld mit der gewünschten Headline füllen. Dann kommen Ad-Name und
+Headline direkt aus der Datei.
 
 Der Rest des Ablaufs ist dann unbeaufsichtigt fahrbar: eine Routine weckt
 eine Sitzung nach Zeitplan, die Sitzung liest die neuesten Generierungen,
