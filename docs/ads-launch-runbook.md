@@ -368,3 +368,22 @@ skaliert das Risiko mit dem Budget.
   API gibt sie nicht flach zurück. Beim ersten Launch einmal nennen, dann
   hier eintragen.
 - Landet ein Launch in einer **CBO**-Kampagne, gilt die Budget-Warnung oben.
+
+## Ads lassen sich per API nicht anschalten
+
+Der Meta-Ads-Toolset in diesem Setup kann **anlegen und lesen, aber nicht ändern**.
+`ads_create_ad` und `ads_create_ad_set` legen zwingend mit Status PAUSED an, und es
+gibt kein `ads_update_entity` / `ads_activate_entity`. Das Scharfschalten ist damit
+immer ein manueller Schritt im Ads Manager.
+
+Aufwandsarm wird es über einen Deep Link pro Kampagne — dort alles markieren und den
+Toggle einmal umlegen:
+
+    https://www.facebook.com/adsmanager/manage/adsets?act=<AD_ACCOUNT_ID>&selected_campaign_ids=<CAMPAIGN_ID>
+
+Adset **und** Ad müssen auf ON stehen. Eine aktive Ad in einem pausierten Adset
+liefert nicht aus.
+
+Gleiches gilt für nachträgliche Änderungen an Startzeit oder Budget: geht nur von
+Hand. Und sobald ein Adset einmal gestartet ist, lehnt Meta eine Änderung der
+`start_time` grundsätzlich ab (error_code 100, subcode 1487057).
