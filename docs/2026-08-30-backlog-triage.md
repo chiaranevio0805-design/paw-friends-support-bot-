@@ -132,6 +132,65 @@ Damit **57 Fälle seit dem 13.08.**
 
 ---
 
+# Lauf 2 (12:17 UTC)
+
+Drei Vorgänge sind seit dem 11:17-Lauf dazugekommen.
+
+## 8. #6199 — Maggie Smith (maggieacoffey@aol.com) — zweite Anfrage, Ware ist unterwegs
+
+30.08. 12:12: „**Second request** for information on the status of my order."
+
+Shopify, geprüft: **#6199**, bestellt 15.08. 12:02 UTC, 29,95 £, `PAID`,
+**`FULFILLED`** — versandt am **22.08. 01:57 UTC**, Yanwen Special Line,
+Tracking **`UL442893676YP`**, `https://t.17track.net/en#nums=UL442893676YP`.
+2 × Plushie „donkey", Lieferadresse Birmingham B43 6LU.
+
+Also kein Verlustfall: die Sendung ist raus, sie hat nur nie eine
+Sendungsnummer bekommen. Die Antwort ist unkompliziert — Tracking nennen und
+sagen, dass aus dem internationalen Lager versandt wurde. **Kategorie:**
+`Bot/Draft Ready`, sobald wieder Entwürfe möglich sind.
+
+Ihre erste Anfrage ist unbeantwortet geblieben; das ist der Grund für die
+zweite. Bei einem Fall, bei dem seit acht Tagen eine Sendungsnummer im System
+liegt, ist das vermeidbar gewesen.
+
+## 9. alison.shaw@itv.com — Abwesenheitsnotiz, kein Support-Fall
+
+30.08. 11:51, „Out Of Office - Bank Holiday", automatische Antwort im Thread zu
+#6118. → `Bot/No Action`, keine Antwort.
+
+## 10. Andy Sire hat **zwei** Threads — beide am 29.08. falsch beantwortet
+
+Der Log-Eintrag oben (Punkt 1) betrifft den Thread „Absolutely rubbish". Es gibt
+einen zweiten, „Destroy anything" (27.08. 17:01), und auch der hat am **29.08.
+17:47** eine Vorlagen-Absage bekommen („Our returns policy states that the
+30-day money-back guarantee applies to unused items…").
+
+Seine Antwort am 30.08. 06:46 zitiert die Werbung wörtlich:
+
+> „you are selling a product with advertising clearly stating your toys are
+> different from the rest **For furry friends who destroy everything / extra
+> strong / made for strong chewers** Amongst other clear…"
+
+Damit steht bei ihm dreierlei zusammen: ein möglicher Verschluckungsvorfall,
+eine ausdrücklich bestrittene Werbeaussage — und zwei Vorlagen-Absagen innerhalb
+von zwei Minuten, eine davon zum falschen Thema. Beide Threads gehören zusammen
+behandelt.
+
+## 11. Bestätigt: Papierkorb-Befund bei Ann Price
+
+Die Nachricht `19fd7780b578541b` im Thread `19f46e8d2f838d9d` (Ann Price,
+06.08. „Still waiting on my promised refund") trägt die Labels
+`IMPORTANT, Label_7, TRASH, Label_4` — sie ist also **als eskaliert und als
+„Draft Ready" markiert und liegt trotzdem im Papierkorb**. Zusammen mit Dominic
+Higney (#3988) ist das der zweite Thread, in dem eine Kundenmail im Papierkorb
+gelandet ist.
+
+→ `in:trash` systematisch prüfen. Zwei Funde ohne gezielte Suche sprechen nicht
+für Einzelfälle.
+
+---
+
 ## Nicht getan
 
 - Keine Entwürfe, keine Labels — Gmail-Schreibpfad defekt.
