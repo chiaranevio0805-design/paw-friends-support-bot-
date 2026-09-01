@@ -180,11 +180,15 @@ Reihenfolge. Kein Betrag im Text, weil der Kunde „$62.64" nennt und Shopify
 
 ---
 
-## 6. #6905 — usfmom02@gmail.com — Storno vor Versand
+## 6. #6905 — usfmom02@gmail.com — erstattet, Text am 01.09. angepasst
 
-Wendy Higgins. Shopify: **PAID / UNFULFILLED**, £28,52. Sie hat am 22.08. 10:56
-zum zweiten Mal geschrieben, nachdem ihr um 09:01 eine Rückfrage nach dem Grund
-geschickt wurde.
+Wendy Higgins. Shopify-Stand **01.09.: `REFUNDED` / `UNFULFILLED`** — die
+Erstattung über £28,52 ist raus, die Bestellung ist aber **nicht storniert** und
+steht weiter versandbereit. Sie hat am 22.08. 10:56 zum zweiten Mal geschrieben,
+nachdem ihr um 09:01 eine Rückfrage nach dem Grund geschickt wurde.
+
+Der ursprüngliche Text sagte die Erstattung als bevorstehend zu. Das stimmt
+nicht mehr — sie ist erfolgt. Deshalb dieser Text:
 
 > Hi Wendy,
 >
@@ -192,19 +196,23 @@ geschickt wurde.
 > changing your mind is reason enough, and we should have simply cancelled it
 > the first time you asked.
 >
-> Order #6905 hasn't been dispatched, so I'm getting the cancellation put
-> through now along with a refund of the full amount you paid. It goes back to
-> your original payment method, and depending on your bank it usually shows
-> within a few working days.
+> Your refund for order #6905 has gone through for the full amount you paid,
+> back to your original payment method. Depending on your bank it can take a few
+> working days to appear on your statement.
 >
-> If it hasn't appeared by then, reply here and I'll chase it up.
+> If it hasn't shown up by the end of the week, reply here and I'll chase it.
 >
 > Lisa
 > Paw-Friends UK
 
-⚠️ **Zusage darin:** Storno und volle Erstattung.
+⚠️ **Zusage darin:** Bestätigung der bereits erfolgten Erstattung; Rückmeldung,
+falls sie nicht ankommt. **Vor dem Senden in Shopify gegenprüfen, dass die
+Erstattung wirklich verbucht ist** — bei #5841 wurde einem Kunden genau das
+geschrieben, ohne dass gezahlt worden war.
 
-**Owner-Aktion: #6905 stornieren, dann erstatten — £28,52.**
+**Owner-Aktion: #6905 stornieren.** Nur noch das — das Geld ist zurück, die
+Bestellung nicht. Solange sie auf `UNFULFILLED` steht, kann die
+Fulfilment-Automatik sie ziehen; dann sind Geld **und** Ware weg, wie bei #4617.
 
 ---
 
