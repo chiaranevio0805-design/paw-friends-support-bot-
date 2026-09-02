@@ -147,72 +147,87 @@ man wolle die Zusage nicht wiederholen, ohne sie einlösen zu können.
 
 ---
 
-## 5. #6870 — todd.jacobsw@gmail.com — Storno vor Versand
+## 5. #6870 — todd.jacobsw@gmail.com — **am 02.09. versandt, Text ersetzt**
 
-Bestellung läuft auf marypowerjacobs@gmail.com. Shopify: **PAID / UNFULFILLED**,
-£45,95. Offen seit 20.08. Am 22.08. 08:54 ist ihm aus dem Postfach eine Rückfrage
-nach dem Storno-Grund geschickt worden — das widerspricht Regel 3.
+Bestellung läuft auf marypowerjacobs@gmail.com. Shopify-Stand **02.09.: `PAID` /
+`FULFILLED`**, £45,95, versandt **02.09. 10:36 UTC** (JQ Express US,
+`JCHSG0000004362592`). Storno-Bitte lag seit dem **20.08.** vor — dreizehn Tage
+lang war die Bestellung `UNFULFILLED` und stornierbar.
+
+Der frühere Text sagte „nothing has been dispatched". Das ist seit heute
+Vormittag unwahr; **die alte Fassung darf nicht mehr abgeschickt werden.**
 
 > Hi Todd,
 >
-> Sorry for the back-and-forth — you asked us to cancel, and that's all we
-> needed. You don't owe us a reason.
+> I owe you an apology and a straight account of what happened.
 >
-> I've checked order #6870 and nothing has been dispatched, so I'm getting the
-> cancellation put through along with a refund of the full amount you paid. It
-> goes back to the card the order was placed with; how quickly it lands depends
-> on your bank, usually a few working days.
+> You asked us to cancel order #6870 on 20 August, and instead of simply doing
+> it, we came back asking why. That was wrong — you didn't owe us a reason. Then
+> the cancellation sat unactioned, and this morning the order shipped anyway.
+> None of that is on you.
+>
+> So: the parcel is on its way, and I'm not going to ask you to send it back
+> after we caused this. The full amount you paid is being refunded to the card
+> the order was placed with, and you should see it within a few working days
+> once your bank has released it.
 >
 > One thing worth flagging: the order is registered under
-> marypowerjacobs@gmail.com, so the confirmation from our system will arrive in
-> that inbox rather than this one.
+> marypowerjacobs@gmail.com, so anything our system sends will land in that
+> inbox rather than this one.
 >
-> If anything doesn't look right once it comes through, just reply here.
+> If the refund doesn't come through, reply here and I'll chase it.
 >
 > Lisa
 > Paw-Friends UK
 
-⚠️ **Zusage darin:** Storno und volle Erstattung.
+⚠️ **Zusage darin:** Volle Erstattung von £45,95 **und** ausdrücklich keine
+Rücksendung. Diese Zusage ist bindend, sobald der Text raus ist.
 
-**Owner-Aktion: #6870 stornieren, dann erstatten — £45,95.** In dieser
-Reihenfolge. Kein Betrag im Text, weil der Kunde „$62.64" nennt und Shopify
-£45,95 führt.
+**Owner-Aktion: #6870 erstatten — £45,95.** Storno ist nicht mehr möglich, die
+Ware ist unterwegs. Kein Betrag im Text, weil der Kunde „$62.64" nennt und
+Shopify £45,95 führt.
 
 ---
 
-## 6. #6905 — usfmom02@gmail.com — erstattet, Text am 01.09. angepasst
+## 6. #6905 — usfmom02@gmail.com — **erstattet UND versandt, Text ersetzt**
 
-Wendy Higgins. Shopify-Stand **01.09.: `REFUNDED` / `UNFULFILLED`** — die
-Erstattung über £28,52 ist raus, die Bestellung ist aber **nicht storniert** und
-steht weiter versandbereit. Sie hat am 22.08. 10:56 zum zweiten Mal geschrieben,
-nachdem ihr um 09:01 eine Rückfrage nach dem Grund geschickt wurde.
+Wendy Higgins. Shopify-Stand **02.09.: `REFUNDED` / `FULFILLED`** — die
+Erstattung über £28,52 ist raus, **und die Ware ist am 02.09. 10:38 UTC trotzdem
+versandt worden** (JQ Express US, `JCHSG0000004362798`). Geld und Ware beide
+weg; das ist der zweite #4617.
 
-Der ursprüngliche Text sagte die Erstattung als bevorstehend zu. Das stimmt
-nicht mehr — sie ist erfolgt. Deshalb dieser Text:
+Der Text vom 01.09. bestätigte nur die Erstattung. Sie bekommt aber zusätzlich
+ein Paket, mit dem sie nicht rechnet — das muss drinstehen, sonst schreibt sie
+ein drittes Mal.
 
 > Hi Wendy,
 >
-> Thanks for coming back to me, and I'm sorry you were asked for a reason —
-> changing your mind is reason enough, and we should have simply cancelled it
-> the first time you asked.
+> Two things, and the second one is us getting it wrong again.
 >
 > Your refund for order #6905 has gone through for the full amount you paid,
 > back to your original payment method. Depending on your bank it can take a few
-> working days to appear on your statement.
+> working days to show on your statement.
 >
-> If it hasn't shown up by the end of the week, reply here and I'll chase it.
+> The part I need to be straight with you about: despite the cancellation, the
+> order was still sent out this morning, so a parcel is on its way to you. That
+> shouldn't have happened. You've been refunded and I'm not going to ask you to
+> post anything back to us — if it arrives, it's yours to keep or pass on as you
+> like.
+>
+> Sorry to have made this more complicated than it needed to be. If the refund
+> hasn't landed by the end of the week, reply here and I'll chase it.
 >
 > Lisa
 > Paw-Friends UK
 
-⚠️ **Zusage darin:** Bestätigung der bereits erfolgten Erstattung; Rückmeldung,
-falls sie nicht ankommt. **Vor dem Senden in Shopify gegenprüfen, dass die
-Erstattung wirklich verbucht ist** — bei #5841 wurde einem Kunden genau das
-geschrieben, ohne dass gezahlt worden war.
+⚠️ **Zusage darin:** Bestätigung der erfolgten Erstattung **und** ausdrücklich
+keine Rücksendung. **Vor dem Senden in Shopify gegenprüfen, dass die Erstattung
+verbucht ist** — bei #5841 wurde einem Kunden genau das geschrieben, ohne dass
+gezahlt worden war.
 
-**Owner-Aktion: #6905 stornieren.** Nur noch das — das Geld ist zurück, die
-Bestellung nicht. Solange sie auf `UNFULFILLED` steht, kann die
-Fulfilment-Automatik sie ziehen; dann sind Geld **und** Ware weg, wie bei #4617.
+**Owner-Aktion: keine mehr ausführbar.** Storno ist nicht mehr möglich, die
+Erstattung ist erfolgt. Nur die Entscheidung, ob die Ware zurückgefordert wird —
+nach dem Muster #5474 (Kirtland) wird sie das nicht, wenn der Fehler bei uns lag.
 
 ---
 
