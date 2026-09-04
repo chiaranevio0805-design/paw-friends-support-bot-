@@ -163,7 +163,7 @@ Vormittag unwahr; **die alte Fassung darf nicht mehr abgeschickt werden.**
 >
 > You asked us to cancel order #6870 on 20 August, and instead of simply doing
 > it, we came back asking why. That was wrong — you didn't owe us a reason. Then
-> the cancellation sat unactioned, and this morning the order shipped anyway.
+> the cancellation sat unactioned, and on 2 September the order shipped anyway.
 > None of that is on you.
 >
 > So: the parcel is on its way, and I'm not going to ask you to send it back
@@ -209,7 +209,7 @@ ein drittes Mal.
 > working days to show on your statement.
 >
 > The part I need to be straight with you about: despite the cancellation, the
-> order was still sent out this morning, so a parcel is on its way to you. That
+> order was still sent out on 2 September, so a parcel is on its way to you. That
 > shouldn't have happened. You've been refunded and I'm not going to ask you to
 > post anything back to us — if it arrives, it's yours to keep or pass on as you
 > like.
