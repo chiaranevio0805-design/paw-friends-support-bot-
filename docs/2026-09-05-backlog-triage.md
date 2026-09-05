@@ -188,10 +188,25 @@ wird trotzdem als Erstantwort verwendet.
 7. **Klären, was die beworbene „replacement guarantee" ist** — zwei Kunden
    fragen inzwischen danach.
 
+## Korrektur zum Stand von #6870 und #6905
+
+Dieser Eintrag war zunächst mit dem Shopify-Stand vom 01.09. geschrieben.
+Richtig ist der Stand aus dem Log vom 02.09.: **beide Bestellungen sind am
+02.09. trotz der Stornobitten versandt worden** — #6870 um 10:36 UTC (JQ
+Express US, `JCHSG0000004362592`), #6905 erstattet und trotzdem raus. Bei
+#6870 lag die Stornobitte seit dem **20.08.** vor; dreizehn Tage lang war die
+Bestellung `UNFULFILLED` und stornierbar.
+
+Damit ist das Muster „erstattet, aber nicht storniert, also trotzdem
+versandt" zum **siebten und achten Mal** eingetreten (#4617, #3944, #4212,
+#5474, #6173, #5841, #6870, #6905). Die Texte in
+`docs/entwuerfe-zum-kopieren.md` sind dafür bereits angepasst; die alten
+Fassungen („nothing has been dispatched") dürfen **nicht** mehr abgeschickt
+werden.
+
 ## Unverändert offen
 
-Erstattungsliste 316,96 £; **#6870** weiterhin `PAID/UNFULFILLED`; **#6905**
-erstattet, aber **nicht storniert**; #5841 (Erstattung als erledigt gemeldet,
+Erstattungsliste 316,96 £; #5841 (Erstattung als erledigt gemeldet,
 nie angekommen); Trading Standards (Jason Branch); Chargebacks #3310 und
 #5111; keine Rücksendeadresse für inzwischen **neun** Rückgabefälle;
 Google-Sicherheitswarnung vom 14.08.; Kreditkartennummer im Thread #4284;
