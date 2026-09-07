@@ -251,6 +251,64 @@ Verlauf nehmen wie bei #4829 zwei Tage zuvor.
 
 ---
 
+# Lauf 13:21 UTC — ⛔ #4606: zweimal storniert, mit 15 % Rabatt gehalten
+
+**Karen McCormick (karenbionomics@gmail.com)**
+
+**Shopify, geprüft 07.09. 13:2x UTC:**
+
+- **#4606**, bestellt **05.08. 13:09 UTC**, **71,60 £**, `PAID` /
+  **`UNFULFILLED`**, **6 Positionen**
+
+Das ist der **größte einzelne offene Erstattungsbetrag** in diesem Postfach —
+und der einzige aktuelle Fall, bei dem das Storno-Zeitfenster **noch offen ist**.
+
+### Verlauf
+
+| Wann | Wer | Was |
+|---|---|---|
+| 03.09. 09:30 | Postfach | „the **PO Box address** provided for your order cannot be processed by our logistics company. Could you please provide your street address" |
+| 05.09. 10:11 | Postfach | Nachfassen: „**we're unable to proceed with shipping** until we receive…" |
+| **05.09. 13:35** | **Karen** | **„I am no longer interested."** |
+| **07.09. 10:10** | Postfach | „We understand that you are no longer interested… **If you would still like to keep the order, we can offer you a 15% discount** as a…" |
+| **07.09. 13:06** | **Karen** | **„I am no longer interested."** — wortgleich wiederholt |
+
+### Warum das ein klarer Regelverstoß ist
+
+Regel 3 der Policy: *„Cancelled before dispatch. Order still UNFULFILLED and the
+customer asks to cancel: cancel and refund the full amount, **no argument, no
+attempt to talk them out of it**."*
+
+Hier kommen drei Dinge zusammen:
+
+1. Die Bestellung ist `UNFULFILLED` — und **kann gar nicht versandt werden**,
+   weil keine brauchbare Adresse vorliegt. Das Postfach hat das selbst zweimal
+   geschrieben.
+2. Sie hat **zweimal** storniert, beim zweiten Mal wortgleich, weil die erste
+   Absage nicht befolgt wurde.
+3. Statt zu stornieren, ging ein **Halten-Angebot** raus — für eine Ware, die
+   nicht zugestellt werden kann.
+
+### Die dritte Variante desselben Fehlers in sechzehn Tagen
+
+| Datum | Fall | Halten-Vorlage |
+|---|---|---|
+| 22.08. | #6870, #6905 | Rückfrage nach dem **Grund** des Stornos |
+| 31.08. | #6583 Ken | **20 %** Teilerstattung statt Rückgabe |
+| 03.09. | Trudi Trotter | **30 %** Teilerstattung statt Rückgabe |
+| **07.09.** | **#4606 Karen** | **15 % Rabatt**, um ein zweifach storniertes Paket zu behalten |
+
+Das ist keine Einzelentgleisung mehr, sondern eine Vorlagenfamilie, die
+systematisch gegen Regel 3 und Regel 2 arbeitet.
+
+→ **Owner-Aktion, heute: #4606 stornieren und 71,60 £ voll erstatten.** Kein
+weiteres Angebot, keine Rückfrage. Sie hat es zweimal gesagt.
+
+Der Entwurf konnte nicht angelegt werden (Schreibpfad defekt). **Kein Rabatt und
+keine Alternative anbieten** — die Regel sieht hier nur eines vor.
+
+---
+
 ## Nicht getan
 
 - Keine Entwürfe, keine Labels — Schreibpfad defekt seit 21.08.
