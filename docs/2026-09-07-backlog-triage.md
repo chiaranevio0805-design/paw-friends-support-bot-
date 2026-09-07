@@ -588,6 +588,73 @@ erzeugt in diesem Postfach die Eskalationen.
 
 ---
 
+# Lauf 19:17 UTC — #7782: erste direkte Frage nach der Herkunft
+
+## 1. #7782 — Tracey Wood — „your website said uk supply… coming from Yemen"
+
+**18:42:** „Please can you advise where my order is, **your website said uk
+supply** how ever I have tracked this order now **coming from Yemen**. Please
+**reimburse my money back to my card** as I now no longer wish [to receive it]"
+
+**Shopify, geprüft 07.09. 19:2x UTC:**
+
+- **#7782**, bestellt **25.08. 20:03 UTC**, **27,95 £**, `PAID` / **`FULFILLED`**
+- Versandt **03.09. 07:47 UTC** — also **neun Tage** nach Bestellung
+- Fulfilment-Standort: **„Kirchstr. 2"** — das ist die Lieferantenadresse, **kein
+  UK-Standort** (Befund vom 13.08.)
+- Zusteller: **Yanwen Special Line**, `UL478625597YP`
+- Lieferadresse Manchester M24 2EG
+
+### Was gesagt werden darf und was nicht
+
+Das ist der **erste Fall im Postfach, in dem eine Kundin die
+UK-Herkunftsaussage direkt anspricht**. Die Policy ist hier eindeutig:
+**ehrlich, standardmäßig herkunftsneutral — aber wahrheitsgemäß, wenn direkt
+gefragt wird. Keine einstudierte Verschleierung.** Sie fragt direkt.
+
+**Durch die Daten gedeckt:** Die Sendung ist **nicht** von einem UK-Standort
+losgeschickt worden. Fulfilment-Location und Zusteller belegen das.
+
+**Nicht gedeckt:** die Angabe „Yemen". Sie liest das aus der Sendungsverfolgung;
+Shopify sagt dazu nichts. Der Punkt ist **weder zu bestätigen noch zu
+bestreiten** — und es ist auch nicht nötig, denn ihre eigentliche Aussage
+(„nicht aus UK") stimmt.
+
+**Was auf keinen Fall gesendet werden darf:** die UK-Lager-Erklärung in der
+Fassung, die sonst bei Verzug benutzt wird („our UK warehouse is currently sold
+out, so orders are shipped from our international warehouse"). Gegenüber einer
+Kundin, die gerade festgestellt hat, dass nie etwas aus UK kam, wäre das genau
+die Verschleierung, die die Policy verbietet.
+
+### Ihr Anliegen
+
+Sie will das Geld zurück und die Ware nicht mehr. Die Bestellung ist seit dem
+03.09. unterwegs — **Regel 3 greift nicht mehr**. Es ist auch kein Kauschaden:
+sie beanstandet, dass die Ware **nicht wie beschrieben** herkommt. Dieser
+Fehlertyp steht nicht in der Policy.
+
+→ **Owner-Entscheidung.** Der Bot sagt keine Erstattung zu. Aber die Frage nach
+der Herkunft muss ehrlich beantwortet werden, egal wie die Erstattungsfrage
+ausgeht. **27,95 £.**
+
+## 2. #4273 — Gary (garyml@sky.com) — Schadensdokumentation mit Zeitstempeln
+
+**18:21:** „I received the plushies on **14th August**. The first picture below
+is when they were opened at **17:41**. The 2nd picture is from **18:20, less
+than 40 minutes later**. The 3rd is from **18th August, 4 days** [später] …"
+
+Drei datierte Fotos, minutengenaue Chronologie. Das ist die sorgfältigste
+Belegführung, die bisher in diesem Postfach aufgetaucht ist — und sie kommt
+ohne Drohung oder Beschimpfung aus.
+
+Inhaltlich Kauschaden. Aber: bei dieser Beweislage und diesem Ton wäre die
+Vorlagen-Absage der sichere Weg in dieselbe Eskalation wie heute bei Valerie
+(#4829) und countrygal2473 (#4792). **Vor der Antwort den Volltext und die
+Fotos ansehen** — möglicherweise zeigt Bild 1 bereits einen Zustand bei
+Auslieferung (Regel 1), nicht erst nach Benutzung.
+
+---
+
 ## Nicht getan
 
 - Keine Entwürfe, keine Labels — Schreibpfad defekt seit 21.08.
