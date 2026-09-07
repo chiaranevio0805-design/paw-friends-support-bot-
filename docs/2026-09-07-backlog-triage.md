@@ -426,6 +426,50 @@ ihm eine Rückmeldung zugesagt, seither ist nichts passiert. **Dritter Kontakt,
 Reiht sich in Alberio, Reid, Steadman, McManus, Macunovich und Sue Steer ein —
 Eskalationen, die allein durch Nichtantworten entstanden sind.
 
+### Volltext nachgelesen (16:2x UTC) — der Fall ist erheblich schwerer
+
+`get_thread` zeigt: **#3197**, 2 Stück für **28 £**, bestellt 22.07.
+
+**Was er ankündigt** (07.09., wörtlich):
+
+> „you leave me no other option than **report your company to trading standards
+> and report you to barclaycard as a scam**"
+
+**Damit ist es der dritte Trading-Standards-Fall** — nach Jason Branch (17.08.)
+und Valerie #4829 (heute 11:37) — **plus** eine Chargeback-Ankündigung bei
+Barclaycard.
+
+**Und der eigentliche Punkt liegt weiter zurück.** Seine Mail vom **31.07.**:
+
+> „I gave the elephant to my dog this morning and it lasted 10 minutes an
+> absolute joke. Please can you sort out a full refund and how to send these
+> back please. **They are dangerous to dogs as they have plastic in them.**
+> where is the **rope reinforced** toy as advertised when I purchased them ????"
+
+Die Antwort aus dem Postfach am **06.08. 11:52** war inhaltlich richtig — sie
+nahm den Sicherheitspunkt ernst:
+
+> „especially the point about **plastic components coming loose, which isn't
+> something I want to brush past given the safety concern that raises** […]
+> I've passed your refund request, the photos, **and the safety concern** on to
+> them directly."
+
+**Seitdem: nichts.** Eine als Sicherheitsproblem anerkannte Meldung liegt seit
+**einem Monat** beim Owner, ohne Rückmeldung an den Kunden.
+
+**Zusätzlich eine Zusage vom 24.07.**, noch vor der Lieferung:
+
+> „**If anything doesn't hold up, just let us know and we'll sort it out.**"
+
+Das ist eine offene Zusage aus dem Postfach — dieselbe Kategorie wie Alberio,
+Hawkins, Price und Steadman.
+
+**Vier Punkte in einem Fall:** Sicherheitsmeldung (Plastikteile, „dangerous to
+dogs"), bestrittene Werbeaussage („rope reinforced"), offene Zusage vom 24.07.,
+und jetzt Behörde plus Chargeback. **Der Fall gehört heute an den Owner**, nicht
+in die Warteschlange — und er ist der einzige heutige Fall mit einem
+Tiergesundheitsaspekt neben #6283 und Andy Sire.
+
 ## 3. ididnttakeit@gmail.com — Lieferstatus
 
 **14:50:** „I ordered a plushy from you on **August 12th** and have not recieved
