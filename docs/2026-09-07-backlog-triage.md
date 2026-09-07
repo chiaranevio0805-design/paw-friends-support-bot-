@@ -481,6 +481,65 @@ Shopify-Status nennen, nicht „on the way" (siehe #8295).
 
 ---
 
+# Lauf 17:17 UTC — drei Fälle
+
+## 1. #8009 — Yvonne Ware — braucht die Ware „next week", nichts ist versandt
+
+**16:38:** „Can you please tell me if my order **has been dispatched** as **need
+it for next week**!"
+
+**Shopify, geprüft 07.09. 17:2x UTC:**
+
+- **#8009**, bestellt **28.08. 09:26 UTC**, **27,95 £**, `PAID` /
+  **`UNFULFILLED`**, **`fulfillments: []`**
+- Frosch + Little Bear, Lieferadresse Hull HU7 3NA
+
+**Die ehrliche Antwort ist „nein".** Nach zehn Tagen ist nichts rausgegangen.
+Rechnet man die dokumentierten 10–14 Werktage aus dem internationalen Lager
+dazu, ist „nächste Woche" **nicht erreichbar** — das sollte ihr gesagt werden,
+bevor sie darauf plant.
+
+**Zeitkritisch im Regel-3-Sinn:** Solange `UNFULFILLED`, kann sie noch kostenlos
+stornieren. Wenn sie die Ware zu einem bestimmten Termin braucht und der nicht
+zu halten ist, ist die Stornierung die für sie bessere Option — **das darf ihr
+nicht verschwiegen werden.** Kein „on the way"-Satz wie bei #8295.
+
+## 2. #4792 — countrygal2473@rocketmail.com — zwei Absagen, jetzt öffentliche Meldung
+
+| Wann | Was |
+|---|---|
+| 04.09. | „After waiting **almost a month**… my Czech Shepherd had the toy destroyed in **45 mins**. She is 7 months old. **You said it was for any dog or age.**" |
+| 05.09. 08:36 | Vorlagen-Absage |
+| 05.09. 15:47 | „I am requesting a refund **due to your advertisement**. It doesn't say what kind of damage and made for any dog… **Your ad says money** [back]" |
+| 07.09. 10:23 | **zweite** Vorlagen-Absage |
+| **07.09. 15:28** | „Well no refund…. **you will have a bad report from me and false advertisement is not a good record for yall**" |
+
+Identischer Verlauf wie Valerie (#4829) heute Vormittag: sachliche Anfrage →
+Absage → Werbeaussage bestritten → **zweite** Absage → Ankündigung öffentlicher
+Kritik plus Vorwurf der Falschwerbung. Beide Male hat die zweite Absage die
+Eskalation erzeugt.
+
+**Das ist heute der zweite Fall dieser Bauart innerhalb von sechs Stunden.**
+
+## 3. #6044 — Greg (gw81@y7mail.com, Australien) — dreimal gefragt, nie das Versanddatum bekommen
+
+| Wann | Was |
+|---|---|
+| 14.08. | Bestellung |
+| 31.08. | „Where is my order? I haven't received any updates" |
+| 01.09. | Postfach: „shipped and is currently on the way" — **ohne Datum, ohne Nummer** |
+| 02.09. | Greg: „**When did you guys send my items?**" — direkte Sachfrage |
+| 03.09. | Postfach: „your order **has shipped and is currently on its way**. Our UK warehouse is currently sold out…" — **die Frage bleibt unbeantwortet** |
+| **07.09. 15:19** | „**My dog has almost destroyed 1 of the toys already**" |
+
+Zwei Dinge: die Ware ist offenbar angekommen (der Lieferfall hat sich erledigt),
+und er wird jetzt zum Kauschaden-/Werbefall. Aber **seine konkrete Frage nach
+dem Versanddatum ist zweimal mit demselben Textbaustein beantwortet worden, der
+sie nicht enthält.** Dasselbe Muster wie #8295 und Robert Gagne: die Vorlage
+antwortet, ohne in Shopify nachzusehen.
+
+---
+
 ## Nicht getan
 
 - Keine Entwürfe, keine Labels — Schreibpfad defekt seit 21.08.
