@@ -540,6 +540,54 @@ antwortet, ohne in Shopify nachzusehen.
 
 ---
 
+# Lauf 18:17 UTC — #6004: eine zweite, nie beantwortete Beschwerde
+
+**Tina (Christina) Mccallion** stand im Log vom 06.09. als Werbeaussage-Fall.
+Beim Nachlesen des Threads zeigt sich: sie hat **zwei** Anliegen, und das
+zweite ist nie beantwortet worden.
+
+**Shopify, geprüft 07.09. 18:2x UTC:**
+
+- **#6004**, bestellt **13.08. 21:01 UTC**, **29,95 £**, `PAID` / `FULFILLED`
+- **Eine** Position, **Menge 1** — Hippo. Kein zweiter Artikel.
+- `tags: []` — **kein** „Kaching Bundles"-Tag, den andere Bestellungen tragen
+- Versandt 22.08., 4PX, `4PX3003136921543CN`, Londonderry BT48 8HX
+
+### Verlauf
+
+| Wann | Was |
+|---|---|
+| 29.08. | „when I bought this it was **buy 1 get 1 free which I never got** and my wee dog had it half an hour and it ripped already" |
+| 31.08. 09:35 | Antwort aus dem Postfach — **nur zum Kauschaden**, das BOGO-Thema bleibt unerwähnt |
+| 31.08. 12:05 | „you state that your toys are tough and durable **for all dog even small dogs** that's the reason I bought it" |
+| 31.08. 12:07 | „See that's why I bought it" (mit Beleg) |
+| **03.09. 00:09** | **„Well am I get my order fulfilled"** |
+
+Vier Nachrichten seit dem 29.08., eine Antwort, die nur die Hälfte behandelt.
+Ihre letzte Frage — bekomme ich, wofür ich bezahlt habe — steht seit **vier
+Tagen** unbeantwortet.
+
+### Was der Datenstand hergibt und was nicht
+
+**Belegt:** Sie hat 29,95 £ für **einen** Artikel bezahlt und einen erhalten.
+Ihre Bestellung trägt **nicht** das Bundle-Tag, das bei anderen Bestellungen
+gesetzt ist.
+
+**Nicht belegt:** ob zum Bestellzeitpunkt tatsächlich „buy 1 get 1 free" beworben
+wurde. Das steht nicht in Shopify und lässt sich von hier aus nicht prüfen —
+**das ist eine Owner-/Marketing-Frage, keine Support-Frage.** Der Bot bestätigt
+die Aktion nicht und bestreitet sie nicht.
+
+Falls die Aktion lief, ist das ein **Preis-/Promo-Fehler beim Checkout** — ein
+Fehlertyp, den die Policy nicht benennt, und der zweite dieser Art nach
+n.simpson727 (Gratis-E-Book, Log 14.08.). Falls sie nicht lief, braucht sie eine
+klare, freundliche Auskunft statt weiterer Stille.
+
+So oder so: **die Frage ist bisher schlicht übergangen worden**, und genau das
+erzeugt in diesem Postfach die Eskalationen.
+
+---
+
 ## Nicht getan
 
 - Keine Entwürfe, keine Labels — Schreibpfad defekt seit 21.08.
