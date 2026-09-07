@@ -120,9 +120,61 @@ hinterlegt ist, statt die Nummer noch einmal zu schicken.
 
 ---
 
+# Lauf 10:17 UTC
+
+## 🚩 Sue Steer — drei Mails seit dem 06.08., **null Antworten**
+
+`suesteer@hotmail.com`, Thread „Fluffy toys" (bereits `Label_7`).
+
+`get_thread` zeigt **zwei Kundennachrichten und keine einzige `SENT`-Nachricht**
+— zusammen mit der zitierten Erstmail vom 06.08. sind das **drei Kontakte in
+32 Tagen, auf die nie geantwortet wurde.**
+
+**Ihr Fall** (Erstmail 06.08., wörtlich):
+
+> „I ordered 3 fluffy dog toys from your company on the **20th July**. The
+> courier, EVRI said they had delivered them on the 28th to my address and
+> **left them in my greenhouse, but I have not received them. I do not have a
+> greenhouse** and the picture showed they were left on a desk. […] I have
+> contacted EVRI about this and was told to contact you. **I would still like
+> these items** and would recommend you do not use this courier."
+
+- **22.08.:** „have not received a response yet from you. Could you please
+  update me on your decision."
+- **07.09. 10:04:** „Could you please give an update regarding **my order
+  replacement**."
+
+**Eskalationsgrund:** Paket nie angekommen bzw. an falscher Stelle abgeliefert —
+das ist ein ausdrücklicher Trigger in `support-policy.md`. Dazu dritter Kontakt
+ohne jede Antwort.
+
+### Zwei Punkte, die vor einer Antwort geklärt sein müssen
+
+1. **Es wurde ihr nie ein Ersatz zugesagt.** Sie schreibt von „my order
+   replacement", aber im Thread steht keine Zusage — es steht überhaupt nichts
+   von uns darin. Vermutlich hat sie aus dem Ausbleiben einer Absage
+   geschlossen, ihr Wunsch („I would still like these items") sei bewilligt.
+   **Der Bot bestätigt keinen Ersatz, den niemand zugesagt hat**, und bestreitet
+   ihn auch nicht — das ist eine Owner-Entscheidung.
+
+2. **Sie wurde bereits von Evri zu uns zurückgeschickt.** Die Policy verbietet
+   ohnehin, Kunden an den Zusteller zu verweisen („Never refer the customer to
+   the shipping carrier"). Hier wäre es zusätzlich sinnlos: sie war schon dort.
+
+Der Fall unterscheidet sich von der Werbewelle — es geht nicht um Haltbarkeit,
+sondern um Ware, die sie bezahlt und nie bekommen hat. Nach fünf Wochen Stille
+ist das der Fall mit der klarsten Anspruchslage im ganzen Postfach.
+
+→ **Bestellnummer und Betrag aus Shopify holen** (über
+`suesteer@hotmail.com`, Bestellung vom 20.07.), dann Owner-Entscheidung: Ersatz
+liefern oder erstatten. Beides ist vertretbar, weiter schweigen nicht.
+
+---
+
 ## Nicht getan
 
 - Keine Entwürfe, keine Labels — Schreibpfad defekt seit 21.08.
 - Keine Erstattung, kein Storno, keine Adressänderung.
 - Keine Aussage zur Ersatzgarantie erfunden.
 - Keine Sendungsnummer für #8295 genannt — es existiert keine.
+- Sue Steer keinen Ersatz bestätigt — es ist keiner zugesagt worden.
