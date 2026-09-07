@@ -276,7 +276,9 @@ Chargeback ausgelöst.
 
 1. Die zwei Verschluckungsmeldungen (#6283, Andy Sire) — Tiergesundheit, drei
    bzw. sieben Tage unbeantwortet.
-2. #6870 und #6905 stornieren **und** erstatten, solange sie `UNFULFILLED` sind.
+2. **#6870 erstatten** (£45,95, ohne Rücksendung). Stornieren ist bei #6870 und
+   #6905 **nicht mehr möglich** — beide sind am 02.09. versandt worden. Das
+   Zeitfenster, das dieser Punkt offenhalten sollte, ist zu.
 3. Den Papierkorb auf weitere unbeantwortete Kundenmails prüfen.
 4. Die Vorlagen-Absage bei bestrittenen Werbeaussagen abschalten — am 29.08.
    sind sechs davon rausgegangen und alle sechs kamen schärfer zurück, zwei mit
