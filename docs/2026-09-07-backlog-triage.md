@@ -698,6 +698,55 @@ Vorhersage macht es schlimmer.
 
 ---
 
+# Lauf 22:17 UTC — #6741: dreimal um dieselbe Rückgabe gebeten
+
+**Zacharey McLaughlin (alexru12@yahoo.com)**
+
+**Shopify, geprüft 07.09. 22:2x UTC:**
+
+- **#6741**, bestellt **19.08. 20:35 UTC**, **61,30 £**, `PAID` /
+  `PARTIALLY_FULFILLED`, **6 Positionen**
+- Versandt 25.08., Yanwen Special Line US, `UL451109674YP`, Fort Pierce, Florida
+- Enthält u. a. das E-Book „Why Your Dog Destroys Every Toy" zu **36,02 £**
+
+### Verlauf
+
+| Wann | Wer | Was |
+|---|---|---|
+| 02.09. | Zacharey | „I would like to **return** order #6741 **for a full refund**. I am very dissatisfied with the quality and size" — mit vollständiger Postanschrift |
+| 04.09. 09:51 | Postfach | „Before we proceed with your return request, could you please provide **a little more** [Detail]" |
+| 04.09. 19:17 | Zacharey | „The size of the product is **too small for a larger dog. My dog could swallow these.** The quality is that of a walmart $10 toy… **Please proceed with the refund**" |
+| 06.09. 08:51 | Postfach | „**While** our 30-day money-back guarantee applies to items returned…" — Ausweichantwort |
+| **07.09. 21:59** | **Zacharey** | „**I would like to return the products for a full refund please**" |
+
+**Dritte Aufforderung, zweimal ausgewichen.** Nach Policy ist der dritte Kontakt
+in derselben Sache ein Eskalationstrigger.
+
+### Warum das ein Regel-2-Fall ist
+
+Er sagt an keiner Stelle, dass der Hund die Ware benutzt oder beschädigt hat.
+Seine Begründung ist **Größe und Qualität** — und ausdrücklich, dass er sie dem
+Hund **nicht** geben will („my dog could swallow these"). Damit spricht alles
+für **unbenutzt innerhalb von 30 Tagen** (bestellt 19.08., Rückgabewunsch
+02.09.). Das ist Regel 2: **volle Erstattung**.
+
+Blockiert ist er, wie alle Rückgabefälle, durch die **fehlende
+Rücksendeadresse** — er hat seine eigene Anschrift schon zweimal mitgeschickt.
+
+### Sicherheitshinweis, vierter dieser Art
+
+„**My dog could swallow these**" ist keine Schadensmeldung, sondern eine
+**Gefahrenmeldung zur Größe**. Zusammen mit #6283 (Ohr verschluckt), Andy Sire
+(Teile verschluckt) und Kevin Saggers (Plastikteile) ist es der vierte
+sicherheitsbezogene Hinweis — und der erste, der sich auf die **Produktgröße im
+Verhältnis zum Hund** bezieht, nicht auf Bruchstücke.
+
+→ **Owner: 61,30 £ nach Regel 2 erstatten**, sobald die Rücksendefrage geklärt
+ist — oder ohne Rücksendung erstatten, wie es die Policy als zweite Option
+vorsieht. Ein drittes Ausweichen ist nicht vertretbar.
+
+---
+
 ## Nicht getan
 
 - Keine Entwürfe, keine Labels — Schreibpfad defekt seit 21.08.
