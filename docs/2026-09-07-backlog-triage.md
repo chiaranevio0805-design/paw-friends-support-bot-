@@ -309,6 +309,62 @@ keine Alternative anbieten** — die Regel sieht hier nur eines vor.
 
 ---
 
+# Lauf 14:18 UTC — #5205: Teilerstattung angeboten, angenommen, nie gezahlt
+
+**Sharon Lagos (sylc95@gmail.com)**
+
+**Shopify, geprüft 07.09. 14:2x UTC:**
+
+- **#5205**, bestellt **09.08. 02:04 UTC**, **20,34 £**, `PAID` / `FULFILLED`
+- **`financialStatus: PAID`** — **keine Erstattung verbucht**, auch keine
+  Teilerstattung
+- Versandt 13.08., Yun Express US, `YT2622500707262575`, Grand Prairie, Texas
+
+### Verlauf
+
+| Wann | Wer | Was |
+|---|---|---|
+| 24.08. | Sharon | „advertised as being durable and supposed to last… did not even last one hour", mit Fotos |
+| 25.08. 10:04 | Postfach | Vorlagen-Absage |
+| 25.08. 10:11 | Sharon | „I **do not believe your return policy addresses the actual issue** with my complaint. I did not purchase a regular plush toy and then decide to return it…" |
+| 26.08. 17:58 | Postfach | Antwort auf ihre Screenshots, darin ein **20 %-Teilerstattungsangebot** |
+| **26.08. 18:51** | **Sharon** | „**I'll accept the 20% partial refund for Order #5205. Please go ahead and process the refund.**" |
+| seither | — | **nichts.** Keine Zahlung, keine Antwort. Ihre Zusagemail ist bis heute ungelesen. |
+
+### Zwei Befunde
+
+**1. Die Teilerstattung ist älter als bisher dokumentiert.** Im Log vom 06.09.
+steht Ken (#6583, 31.08.) als erster 20 %-Fall. Tatsächlich ging das Angebot
+schon am **26.08.** an Sharon Lagos. Die Reihe lautet damit:
+
+| Datum | Fall | Angebot |
+|---|---|---|
+| **26.08.** | **#5205 Sharon Lagos** | **20 % — angenommen, nie gezahlt** |
+| 31.08. | #6583 Ken | 20 % — abgelehnt |
+| 03.09. | Trudi Trotter | 30 % — abgelehnt |
+| 07.09. | #4606 Karen | 15 % Rabatt — zweimal abgelehnt |
+
+**2. Es ist eine offene Zusage, keine Regelfrage.** Kauschaden fällt nicht unter
+die Erstattungsregel, und 20 % gibt es in der Policy nicht. Aber das Angebot ist
+gemacht und **vom Kunden angenommen worden** — damit steht es, unabhängig davon,
+ob es je hätte gemacht werden dürfen. 20 % von 20,34 £ sind rund **4,07 £**;
+den genauen Betrag legt der Owner fest, weil die Höhe nirgends verbindlich
+dokumentiert ist.
+
+Das ist dasselbe Muster wie bei Alberio (#1240), Hawkins (#2189), Ann Price und
+Steadman: eine Zusage aus dem Postfach, die in Shopify nie ausgeführt wurde. Sie
+wartet seit **zwölf Tagen** auf etwas, dem sie ausdrücklich zugestimmt hat.
+
+→ **Owner-Aktion:** entweder die zugesagte Teilerstattung ausführen, oder ihr
+ehrlich schreiben, dass das Angebot zurückgezogen wird — Letzteres nach zwölf
+Tagen Stille allerdings mit absehbarem Ergebnis. Nichts zu tun ist die
+schlechteste der drei Möglichkeiten.
+
+**Nicht auf die Regel-Erstattungsliste** — Kauschaden. Gehört zu den offenen
+Zusagen, wie #2189 und Ann Price.
+
+---
+
 ## Nicht getan
 
 - Keine Entwürfe, keine Labels — Schreibpfad defekt seit 21.08.
