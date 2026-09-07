@@ -60,8 +60,69 @@ die Seite seither geändert worden, oder die Formulierung steht an anderer Stell
 
 ---
 
+# Lauf 08:17 UTC
+
+## 🚩 #8295 — Ivan Griffen: dem Kunden wurde gesagt, die Ware sei unterwegs. Sie ist es nicht.
+
+**Shopify, geprüft 07.09. 08:2x UTC:**
+
+- **#8295**, bestellt **31.08. 01:24 UTC**, 27,95 £, **`PAID` / `UNFULFILLED`**,
+  **`fulfillments: []`** — keine Sendung, keine Sendungsnummer
+- Artikel: Plushies „Elk" und „monkey", Lieferadresse Gosport PO12 4WE
+
+**Was ihm geschrieben wurde**, 06.09. 17:04 UTC aus dem Postfach:
+
+> „I can confirm that **your order has been shipped and is currently on the
+> way**."
+
+Das ist unwahr. Die Bestellung ist seit sieben Tagen unversandt.
+
+**Sein Verlauf:**
+
+| Wann | Was |
+|---|---|
+| 05.09. 09:35 | „When is my order going to arrive and when will I get a tracking number." |
+| 06.09. 17:04 | Antwort aus dem Postfach: „shipped and currently on the way" — **ohne Nummer** |
+| 06.09. 17:45 | „Have you got a tracking number" |
+| **07.09. 08:01** | „Can I have a tracking number please" |
+| **07.09. 08:02** | dieselbe Bitte noch einmal, in einem zweiten Thread |
+
+**Vierter Kontakt in derselben Sache** — nach Policy ein Eskalationstrigger ab
+dem dritten. Er fragt viermal nach einer Nummer, die nicht existieren kann, weil
+nichts versandt wurde.
+
+**Eskalationsgrund:** Dem Kunden wurde eine unzutreffende Auskunft gegeben, und
+er hakt seitdem nach. Die Policy ist an dieser Stelle ausdrücklich
+(„Bounds on the above"): *„Say what Shopify actually shows … a customer
+reassured with something false comes back angrier, which is how several of this
+week's escalations started."*
+
+Das ist dasselbe Muster wie **#4212 Mandy Baker**, nur umgekehrt: dort wurde
+„nicht versandt" gesagt, als die Ware raus war; hier wird „versandt" gesagt,
+obwohl sie liegt.
+
+→ **Zwei Dinge sind zu tun, und beide gehören dem Owner:**
+1. Klären, warum #8295 nach sieben Tagen noch `UNFULFILLED` ist.
+2. Ihm ehrlich schreiben, dass die Bestellung noch nicht raus ist — und dass die
+   vorige Auskunft falsch war. Eine weitere Antwort ohne Sendungsnummer, aber
+   mit derselben Behauptung, macht es schlimmer.
+
+Der Entwurf dazu konnte nicht angelegt werden (Schreibpfad defekt). **Kein Text
+rekonstruiert**, und ausdrücklich **keine Sendungsnummer genannt** — es gibt
+keine.
+
+## Zweiter Fall desselben Typs im Postfach
+
+**Robert Gagne** (Log 06.09.) hat am 06.09. die Nummer `WNBAA0493985171YQ`
+bekommen; der Zusteller sagt ihm, sie sei ungültig, die richtige beginne mit
+`SWF`. Auch hier: vor der nächsten Antwort in Shopify nachsehen, was tatsächlich
+hinterlegt ist, statt die Nummer noch einmal zu schicken.
+
+---
+
 ## Nicht getan
 
 - Keine Entwürfe, keine Labels — Schreibpfad defekt seit 21.08.
 - Keine Erstattung, kein Storno, keine Adressänderung.
 - Keine Aussage zur Ersatzgarantie erfunden.
+- Keine Sendungsnummer für #8295 genannt — es existiert keine.
