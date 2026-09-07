@@ -185,5 +185,10 @@ Vor der nächsten Antwort in Shopify nachsehen, was tatsächlich hinterlegt ist.
    erhalten. Gehört an den Owner, nicht in die Warteschlange.
 5. **Klären, ob es eine „replacement guarantee" gibt.** Zwei Kunden warten
    darauf, einer seit drei Wochen, mit der Anzeige als Beleg.
-6. **#6870 ist weiterhin offen** (PAID/UNFULFILLED, £45,95, seit 20.08.), und
-   **#6905 ist erstattet, aber nicht storniert**.
+6. **#6870 ist am 02.09. versandt worden** — dreizehn Tage nach der Storno-Bitte
+   und trotz durchgehendem `UNFULFILLED`-Status. Damit ist es der sechste Fall
+   des Musters (#4617, #3944, #4212, #5474, #6173, jetzt #6870): storniert
+   verlangt, nicht storniert, Ware raus. Erstattung von £45,95 steht aus, ohne
+   Rücksendung. Der ersetzte Text dafür steht in `entwuerfe-zum-kopieren.md`.
+   **#6905 ist erstattet, aber weiterhin nicht storniert** — dort ist das
+   Zeitfenster noch offen.
