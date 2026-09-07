@@ -365,6 +365,78 @@ Zusagen, wie #2189 und Ann Price.
 
 ---
 
+# Lauf 15:17 UTC — drei Fälle, darunter die zweite unbezahlte Teilerstattung
+
+## 1. #6546 — Viken Jehdian — Teilerstattung angenommen, ebenfalls nicht gezahlt
+
+**Shopify, geprüft 07.09. 15:2x UTC:**
+
+- **#6546**, bestellt **17.08. 22:44 UTC**, **61,31 £**, `PAID` /
+  **`PARTIALLY_FULFILLED`**, 6 Positionen
+- **`financialStatus: PAID`** — **keine Erstattung verbucht**
+
+**Achtung, Adressabweichung:** Er schreibt von `vjehdian1972@icloud.com`; unter
+dieser Adresse findet Shopify **keine** Bestellung. Der Auftrag läuft auf
+„Viken Jehdian" mit anderer Hinterlegung. Vor der Ausführung abgleichen, damit
+die Erstattung auf der richtigen Bestellung landet.
+
+### Verlauf
+
+| Wann | Wer | Was |
+|---|---|---|
+| 02.09. | Viken | „the order took a long time and second **the quality of the toys is bad** so I would like a refund and **I would return the items**" |
+| 04.09. 09:52 | Postfach | „**To save you the** [Rücksendung]…" → Teilerstattungsangebot |
+| 04.09. 15:22 | Viken | „thank you for the offer but **I don't want the product** if its not what I need, **please refund the money**" |
+| 05.09. 09:54 | Postfach | „**While we are unable to offer the full refund requested**, we have reviewed…" → erneut Teilerstattung |
+| **05.09. 16:21** | **Viken** | **„That's fine ok"** — angenommen |
+
+### Damit sind es zwei angenommene, unbezahlte Teilerstattungen
+
+| Fall | Angeboten | Angenommen | Gezahlt |
+|---|---|---|---|
+| #5205 Sharon Lagos | 26.08. | 26.08. | **nein** (12 Tage) |
+| **#6546 Viken Jehdian** | 04./05.09. | **05.09.** | **nein** (2 Tage) |
+
+Er hat **zweimal** ausdrücklich um die volle Erstattung gebeten und angeboten,
+die Ware zurückzuschicken. Beim zweiten Mal wurde ihm gesagt, die volle
+Erstattung sei nicht möglich — begründet wird das im Snippet nicht. Ob sein Fall
+unter Regel 2 fällt („unbenutzt"), lässt sich aus den Snippets nicht
+entscheiden; er sagt „bad quality" nach Erhalt, nicht ausdrücklich „unbenutzt".
+**Das ist vor der Ausführung zu klären, nicht zu unterstellen.**
+
+`PARTIALLY_FULFILLED` bei 6 Positionen heißt außerdem: ein Teil seiner
+Bestellung ist womöglich nie versandt worden. Das würde „the order took a long
+time" erklären — und wäre ein eigener Anspruch.
+
+## 2. Kevin Saggers (kevindavbell@gmail.com) — dritter Kontakt, ein Monat Stille
+
+Thread „Staffy proof", bereits `Label_7`.
+
+| Wann | Was |
+|---|---|
+| 06.08. | „thanks for your response, I hope to hear from you soon on this matter" |
+| 16.08. | „have you any feed back on my request??? **Already been 10 days** since your email" |
+| **07.09. 14:38** | „I've been on holiday for 2 weeks. **Still no response???** If there's no reply to this message, I feel I've been very patient and **you have no intentions of getting back to me, you leave me** …" |
+
+Der Satz bricht im Snippet ab — was er ankündigt, steht im Volltext und sollte
+**vor der Antwort gelesen** werden. Der Verlauf ist eindeutig: am 06.08. wurde
+ihm eine Rückmeldung zugesagt, seither ist nichts passiert. **Dritter Kontakt,
+über einen Monat.**
+
+Reiht sich in Alberio, Reid, Steadman, McManus, Macunovich und Sue Steer ein —
+Eskalationen, die allein durch Nichtantworten entstanden sind.
+
+## 3. ididnttakeit@gmail.com — Lieferstatus
+
+**14:50:** „I ordered a plushy from you on **August 12th** and have not recieved
+it yet. Will i be recieving it soon?"
+
+Sachliche Erstanfrage, 26 Tage nach Bestellung. Keine Bestellnummer genannt —
+vor der Antwort über die Adresse zuordnen und den **tatsächlichen**
+Shopify-Status nennen, nicht „on the way" (siehe #8295).
+
+---
+
 ## Nicht getan
 
 - Keine Entwürfe, keine Labels — Schreibpfad defekt seit 21.08.
