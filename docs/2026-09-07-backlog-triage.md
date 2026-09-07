@@ -188,6 +188,69 @@ Kauschaden.
 
 ---
 
+# Lauf 12:21 UTC — drei neue Fälle
+
+## 1. #5036 — Lynette Lumley — Storno nach 30 Tagen Wartezeit
+
+**11:52:** „I think it is time to **cancel this order** please — it has been over
+a month now and i still haven't received the items. I am not holding out much
+hope any longer. Delivery states up to 21 days…"
+
+**Shopify, geprüft 07.09. 12:2x UTC:**
+
+- **#5036**, bestellt **08.08. 06:58 UTC**, **27,95 £**, `PAID` / **`FULFILLED`**
+- Versandt **22.08. 01:41 UTC**, Yanwen Special Line, `UL442891848YP`
+- Fuchs + Elefant, Lieferadresse Abingdon OX14 1FW
+
+**Kein Regel-3-Fall.** Die Ware ist seit 16 Tagen unterwegs, ein Vorab-Storno ist
+nicht mehr möglich. Damit fällt der Fall unter „von der Garantie nicht benannt"
+→ ehrliche Zwischenantwort, `Bot/Needs Approval`, Lücke an den Owner melden.
+
+**Wichtig zur Einordnung:** Die Antwort vom 01.09. („your order is on the way and
+currently in transit") war hier **zutreffend** — anders als bei #8295. Der
+Unterschied zwischen den beiden Fällen ist genau der Punkt: einmal deckte die
+Auskunft sich mit Shopify, einmal nicht.
+
+Sie beruft sich auf die zugesagte Lieferzeit („Delivery states up to 21 days") —
+die ist seit dem 29.08. überschritten. Owner-Entscheidung: erstatten trotz
+laufender Sendung, oder ihr die Wahl lassen (behalten oder zurückschicken, sobald
+das Paket ankommt). **Der Bot sagt keine Erstattung zu**, weil der Fall nicht
+unter die zwei Regelfälle fällt.
+
+## 2. #4829 — Valerie (lemonsnawba@aol.com) — Trading Standards **und** Facebook angedroht
+
+- 03.09.: „I've just received this indestructible toy 10 minutes ago and guess
+  what? My dog has pulled a bit off of it"
+- 04.09. 15:03 aus dem Postfach: **Vorlagen-Absage**
+- **07.09. 11:37:** „reading the reports your are just **a big con of a
+  company**, no one has a good word to say. Just to let you know **if I don't get
+  a full refund I will take this matter further with fb and trading**
+  [standards]"
+
+**Eskalationsgrund:** Behörde (Trading Standards) angedroht **plus** öffentliche
+Bewertung angekündigt **plus** bestrittene Werbeaussage — drei Trigger. Die
+Vorlagen-Absage vom 04.09. hat die Eskalation ausgelöst; vorher stand davon
+nichts in ihrer Mail.
+
+Damit ist Jason Branch (17.08.) nicht mehr der einzige Trading-Standards-Fall.
+
+## 3. #6606 — mpinnock@hotmail.co.uk — Werbeaussage, Fotos angeboten
+
+**11:45:** „our dog has totally destroyed it within days **though you say they
+are non destructible**. What are the next steps? **Am happy to show
+photographs.**"
+
+Bestrittene Werbeaussage → Eskalation. Ton ist sachlich, sie fragt nach dem
+Verfahren und bietet Belege an. Eine Vorlagen-Absage würde hier denselben
+Verlauf nehmen wie bei #4829 zwei Tage zuvor.
+
+## Ebenfalls diese Stunde
+
+- **seancragan@gmail.com** — zweiter Kontakt (11:14), nach „About time you pulled
+  your fingers out" vom 06.09.
+
+---
+
 ## Nicht getan
 
 - Keine Entwürfe, keine Labels — Schreibpfad defekt seit 21.08.
