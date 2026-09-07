@@ -165,9 +165,26 @@ Der Fall unterscheidet sich von der Werbewelle — es geht nicht um Haltbarkeit,
 sondern um Ware, die sie bezahlt und nie bekommen hat. Nach fünf Wochen Stille
 ist das der Fall mit der klarsten Anspruchslage im ganzen Postfach.
 
-→ **Bestellnummer und Betrag aus Shopify holen** (über
-`suesteer@hotmail.com`, Bestellung vom 20.07.), dann Owner-Entscheidung: Ersatz
-liefern oder erstatten. Beides ist vertretbar, weiter schweigen nicht.
+### Shopify, geprüft 07.09. 11:2x UTC
+
+- **#3089** — Sue Steer — bestellt **19.07. 07:42 UTC** — **27,95 £** —
+  `PAID` / **`FULFILLED`**, 2 Positionen
+
+Der Status `FULFILLED` deckt sich mit der Evri-Meldung „zugestellt" — er sagt
+nur, dass die Sendung rausging, nicht dass sie angekommen ist. Bei ihr ist sie
+das nachweislich nicht.
+
+*Zwei kleine Abweichungen, die keine Rolle spielen, aber nicht übergangen werden
+sollten:* sie nennt den **20.07.** als Bestelldatum (Shopify: 19.07.) und
+**drei** Spielzeuge (Shopify: 2 Positionen — möglicherweise 2 Positionen mit
+Menge 3). Vor einer Ersatzlieferung kurz nachsehen, **was** genau zu ersetzen
+ist. Ihre Schilderung deshalb nicht anzuzweifeln — die Abweichung liegt im
+Bereich normaler Erinnerung.
+
+→ **Owner-Entscheidung: Ersatz liefern oder 27,95 £ erstatten.** Beides ist
+vertretbar, weiter schweigen nicht. Der Fall gehört auf die Erstattungsliste,
+sobald die Entscheidung gefallen ist — als „nie angekommen", nicht als
+Kauschaden.
 
 ---
 
