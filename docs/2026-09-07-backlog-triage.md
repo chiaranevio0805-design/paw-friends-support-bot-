@@ -655,6 +655,49 @@ Auslieferung (Regel 1), nicht erst nach Benutzung.
 
 ---
 
+# Lauf 21:17 UTC — #7043: „today" seit drei Tagen
+
+**Beverley Jones (beverleyjones22@yahoo.com)**, 21:17:
+
+> „Past three days I have had a notification that this is going to be delivered
+> **'today'** And I still haven't received anything. I have tried to trace it
+> with the tracking number. **It has provided** [keine Auskunft]…"
+
+**Shopify, geprüft 07.09. 21:2x UTC:**
+
+- **#7043**, bestellt **21.08. 19:35 UTC**, **27,95 £**, `PAID` / `FULFILLED`
+- Versandt **02.09. 10:45 UTC** — **zwölf Tage** nach Bestellung
+- Yanwen Special Line, `UL476304569YP`, Esel + Fuchs, Skegness PE24 5HT
+
+Die Sendung ist also tatsächlich unterwegs — ihre Beschwerde richtet sich nicht
+gegen den Versand, sondern gegen die **Zustellprognose**: Drei Tage in Folge
+„heute", jedes Mal nichts. Und die Sendungsverfolgung gibt ihr dazu nichts her.
+
+## Der vierte Tracking-Fall an einem Tag
+
+| Fall | Problem |
+|---|---|
+| **#8295** Ivan Griffen | „shipped and on the way" gesagt — **nichts versandt**, viermal nach der Nummer gefragt |
+| **Robert Gagne** | Nummer genannt — **Zusteller sagt, sie ist ungültig** |
+| **#6044** Greg | zweimal nach dem **Versanddatum** gefragt, zweimal Baustein ohne Datum |
+| **#7043** Beverley Jones | Nummer vorhanden, **Prognose seit drei Tagen falsch**, Verfolgung liefert nichts |
+
+Vier verschiedene Kunden, ein gemeinsamer Nenner: **die Sendungsverfolgung
+dieses Versandwegs trägt nicht.** Bei Yanwen/4PX-Sendungen aus dem
+Nicht-UK-Lager kommen die Nummern offenbar entweder verspätet, ungültig oder
+ohne verwertbare Statusdaten an.
+
+Das ist kein Support-Textproblem mehr, sondern eines des Versanddienstleisters —
+und es erzeugt gerade einen stetigen Zulauf an „wo ist meine Bestellung"-Mails,
+die der Support nicht auflösen kann, weil er selbst keine belastbaren Daten hat.
+
+**Für die Antwort an sie:** Versanddatum (02.09.) und Zusteller ehrlich nennen,
+die zwölf Tage bis zum Versand nicht verschweigen, und **keine neue
+Zustellprognose abgeben** — drei sind bereits nicht eingetroffen. Eine vierte
+Vorhersage macht es schlimmer.
+
+---
+
 ## Nicht getan
 
 - Keine Entwürfe, keine Labels — Schreibpfad defekt seit 21.08.
