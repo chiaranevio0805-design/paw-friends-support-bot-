@@ -593,3 +593,81 @@ gefragt.
 `JCHSG0000004362556`, `https://t.17track.net/en#nums=JCHSG0000004362556`.
 **Kein Zustelldatum.** Ob die Auskunft vom 26./28.08. richtiggestellt wird,
 entscheidet der Owner — sie ist nachweislich unzutreffend gewesen.
+
+---
+
+# Lauf 23:20 UTC — #6583 Ken Beville: zweimal abgelehnte Rückgabe, und eine Korrektur
+
+Wieder ein Thread ohne neue Kundennachricht, aber mit einem Verlauf, der bisher
+**unvollständig erfasst** war. Letzte Kundennachricht **01.09.**, seither
+unbeantwortet — eine Woche.
+
+**Shopify, geprüft 08.09. 23:2x UTC:**
+
+- **#6583**, bestellt **18.08. 11:47 UTC**, **30,54 £**, `PAID` / `FULFILLED`
+- 2 × Plushie (Duck, fox), versandt 22.08., JQ Express `JCHSG0000004248274`
+- Valparaiso, Indiana 46385
+
+**Vollständiger Verlauf:**
+
+- **29.08. 15:41** Ken: „I would like to **return** this item. It is very cheap
+  feeling and **i know it will not last with my pup**. **Please set-up a
+  return.**"
+- **31.08. 09:42** aus dem Postfach: *„**Before arranging a return**, we can
+  offer you a **20% partial refund**"*
+- **31.08. 10:08** Ken: „**Please continue with the return for a refund. I do
+  not want to keep them.**"
+- **01.09. 12:24** aus dem Postfach: *„**Before proceeding with the return**, we
+  can offer you a **30% partial refund** on your entire order as a **final
+  goodwill gesture**, while you keep the toys and avoid the…"*
+- **01.09. 14:31** Ken: „**No thank you.** I am unwilling to let my pup use
+  these toys. And because of that am not willing to keep these, **even at a
+  discount**, as it would basically come down to me **just donating them**."
+
+**Klassifikation: Regel 2 — unbenutzt.** Er hat die Spielzeuge nie an den Hund
+gegeben. Voller Anspruch auf **30,54 £**. Stattdessen ist ihm zweimal ein
+Teilbetrag angeboten worden, beim zweiten Mal ausdrücklich als „**final**
+goodwill gesture" — nachdem er die Rückgabe bereits zum zweiten Mal verlangt
+hatte.
+
+Die Policy zu Regel 3 sagt: „no argument, **no attempt to talk them out of
+it**". Für Regel 2 gilt nichts anderes. Hier ist zweimal genau das versucht
+worden.
+
+**Nebenbefund:** „I am unwilling to let my pup use these toys" ist eine
+**Sicherheitseinschätzung** des Kunden, keine Geschmacksfrage. Sie steht neben
+#6283, Andy Sire, Kevin Saggers (#3197), #6741 und der Nadel im Hippo
+(#1301).
+
+## 🔧 Korrektur an früheren Einträgen
+
+Zwei Angaben aus meinen eigenen Logs sind damit falsch und werden hier
+richtiggestellt:
+
+1. **Ken (#6583) war nicht „ein 20-%-Angebot am 31.08."**, sondern **20 % am
+   31.08. und 30 % am 01.09.** — zwei Angebote gegen zwei ausdrückliche
+   Rückgabeverlangen.
+2. **Die 30-%-Stufe hat nicht am 03.09. mit Trudi Trotter begonnen**, sondern
+   am **01.09. mit Ken**. Zwei Tage früher als bisher notiert.
+
+**Damit lautet die Chronologie der Teilerstattungs-Vorlage:**
+
+| Datum | Kunde | Angebot | Anspruch nach Regel |
+|---|---|---|---|
+| 26.08. | Sharon Lagos (#5205) | 20 % | angenommen, nie ausgezahlt |
+| 31.08. | **Ken Beville (#6583)** | **20 %** | **voll (Regel 2)** — abgelehnt |
+| **01.09.** | **Ken Beville (#6583)** | **30 %** | **voll (Regel 2)** — abgelehnt |
+| 03.09. | Trudi Trotter (#5148) | 30 % | voll (Regel 2) — abgelehnt |
+| 05.09. | Viken Jehdian (#6546) | Teilbetrag | angenommen, nie ausgezahlt |
+| 07.09. | Karen McCormick (#4606) | 15 % Rabatt | voll (Regel 3) |
+| 07.09. | Sheila Keirnan (#1301) | 30 % | voll (Regel 1 + 2) |
+
+**Sieben Angebote, fünf davon gegen einen vollen Anspruch, zwei angenommen und
+nie ausgezahlt.** Die Vorlage steht nirgends in der Policy.
+
+→ `Bot/Escalated - Owner Attention` (Zweitkontakt unbeantwortet, zweimal
+abgelehntes Abwehrangebot, Sicherheitseinschätzung).
+**Erstattung: 30,54 £, Regel 2 — unbenutzt.**
+Rücksendung weiterhin nicht organisierbar: es gibt keine Rücksendeadresse
+(offener Blocker seit 13.08.). Das gehört ihm ehrlich gesagt, statt ihm ein
+drittes Mal einen Teilbetrag anzubieten.
