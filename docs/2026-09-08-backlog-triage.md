@@ -271,3 +271,278 @@ Der Ablauf ist seit dem 29.08. sechsmal dokumentiert und seit dem 07.09. dreimal
 in zwei Tagen: **Vorlagen-Absage auf eine bestrittene Werbeaussage erzeugt die
 Eskalation, die sie verhindern soll.** Bei #6606 war der Verlauf im Log vom
 Vortag namentlich vorhergesagt.
+
+---
+
+# Sammellauf 21:20 UTC (deckt die Läufe 10:17–21:17 ab)
+
+Suchlauf `in:inbox is:unread after:2026/09/08`, 26 Threads. Achtzehn Vorgänge
+mit neuem Stand seit 09:17. Alle Beträge und Versanddaten unten aus Shopify,
+geprüft 08.09. 21:2x UTC.
+
+## 1. ✅ Die PO-Box-Begründung ist widerlegt — durch zwei eigene Sendungen
+
+Heute Morgen stand hier der Widerspruch als offene Frage. Er ist jetzt
+entschieden, und zwar gegen die Begründung:
+
+**a) #5817 Georgia Martin — angekommen.** Um **14:22** schreibt sie:
+
+> „**Recieved my order today.** Thank you."
+
+Ihre Sendung ging am 22.08. an **P.O. Box 177, Champion, Michigan** und ist
+zugestellt worden. Der Fall ist **erledigt**, keine Antwort nötig.
+
+**b) #6209 Cale Rogers — heute an die P.O. Box versandt, die angeblich nicht
+geht.**
+
+- **03.09. 08:57** aus dem Postfach: „the **PO Box address** provided for your
+  order **cannot be processed by our logistics company**. Could you please
+  provide your street address"
+- **05.09. 10:10** aus dem Postfach: „we're **unable to proceed with shipping**
+  until we receive" die neue Adresse
+- **08.09. 10:30 UTC — Shopify fulfilled #6209**, 4PX Economic Registered,
+  `4PX3003140510658CN`, **Lieferadresse: `PO BOX 121`, Ocala, Florida 34478**
+- **08.09. 14:24** Kunde liefert die Straßenanschrift nach: „Updated delivery
+  address: Cale Rogers, 1105 SE 3rd Ave, Ocala, FL 34471"
+
+Die Sendung war **vier Stunden vorher raus** — an genau die P.O. Box, die ihm
+zweimal als nicht bearbeitbar genannt wurde. **#6209**, bestellt 15.08.,
+**30,56 £**, `PAID` / `FULFILLED`.
+
+**Damit steht fest:** Sendungen an P.O. Boxen werden ausgeliefert (#5817) und
+werden auch weiterhin dorthin verschickt (#6209). Die Aussage „PO Box cannot be
+processed" ist durch die eigenen Versanddaten widerlegt.
+
+→ **Karen McCormick (#4606, 71,60 £)** ist auf dieser Grundlage blockiert
+worden, hat zweimal storniert und am 07.09. 15 % Rabatt angeboten bekommen.
+Ihr Fall gehört neu bewertet: die Begründung, mit der ihre Bestellung
+liegengeblieben ist, trägt nicht.
+→ **Cale Rogers** muss ehrlich gesagt werden, dass die Sendung bereits
+unterwegs ist — an die alte Adresse. `Bot/Needs Approval`.
+
+## 2. 🚩 #6173 Sarah Myers — Ware zurückgewiesen, Bankverfahren läuft, Erstattung offen
+
+**17:06:**
+
+> „Please confirm the status of the refund by return of email — the package was
+> **not accepted and returns unopened** and confirmation from you of a **refund
+> and cancellation has been repeatedly ignored**."
+
+**Shopify:** **#6173**, bestellt 15.08. 08:00 UTC, **29,95 £**, `PAID` /
+`FULFILLED`, versandt 22.08. 01:56, Yanwen `UL442892344YP`, Calne SN11 9EU.
+2 × Plushie (elephant, monkey).
+
+Verlauf: mehrfach vor Versand storniert und Erstattung **zugesagt** → trotzdem
+am 22.08. versandt → 02.09. Annahme verweigert, Ware geht zurück, **Bankdispute
+eröffnet** → heute vierte Nachfrage.
+
+**Das ist ein Regel-3-Fall** (vor Versand storniert) **und** die Ware ist
+unbenutzt und ungeöffnet auf dem Rückweg. **29,95 £ sind fällig.** Er ist auch
+der Fall aus dem Muster „storniert verlangt, nicht storniert, Ware raus"
+(#4617, #3944, #4212, #5474, #6173, #6870).
+→ `Bot/Escalated - Owner Attention` (Bankverfahren, vierter Kontakt, offene
+Zusage). **Erstattung: 29,95 £.**
+
+## 3. 🚩 #6213 Meredith Spicer — die vierte Bewertungs-/Behördeneskalation an einem Tag
+
+- **06.09. 14:10:** „Requesting refund. All 3 items were destroyed by my dogs
+  **minutes** after they got them."
+- **08.09. 07:58** aus dem Postfach: Vorlagen-Absage (Kauschaden)
+- **08.09. 13:59** Kundin:
+
+> „The reason I purchased from you is that you advertise the item is
+> **indestructible**… I will def be **leaving a review** and **contacting
+> better business bureau** about **false advertising**."
+
+**Shopify:** **#6213**, bestellt 15.08., **46,08 £**, `PAID` / `FULFILLED`,
+versandt 25.08., 4PX `4PX3003096544523CN`, Vicksburg (US).
+
+Damit ist es **an einem einzigen Tag der zweite Fall** dieses Ablaufs (nach
+#6606 heute früh) und insgesamt der **vierte in zwei Tagen** (#4829, #4792,
+#6606, #6213). Bei ihr kommt eine **Behörde** dazu (Better Business Bureau),
+nicht nur eine Bewertung.
+→ `Bot/Escalated - Owner Attention`. **Keine zweite Absage.**
+
+## 4. 🚩 „Bereits versandt" — dreimal gesagt, bevor es stimmte
+
+Das ist der gravierendste neue Befund dieses Laufs. In drei Fällen ist Kunden
+mitgeteilt worden, die Ware sei unterwegs, **bevor** in Shopify überhaupt eine
+Sendung angelegt war:
+
+| Kunde | Bestellung | Antwort „ist versandt" | Tatsächlich versandt | Differenz |
+|---|---|---|---|---|
+| Rick Torres | **#7274** (43,89 £) | **26.08. 16:29** | **02.09. 10:57** | 7 Tage zu früh |
+| Barb Fitzgerald | **#7771** (28,52 £) | **01.09. 11:53** | **03.09. 07:47** | 2 Tage zu früh |
+| Ivan Griffen | **#8295** | 06.09. | bis heute `UNFULFILLED` | nie versandt |
+
+Beide melden sich heute erneut, weil nichts angekommen ist:
+
+- **Rick Torres, 14:43:** „Do you have any idea when I'll be receiving my
+  purchased items? I haven't received any updates."
+- **Barb Fitzgerald, 15:49:** „I have not received my order yet… **Very
+  disappointed in how long it is taking.**"
+
+Das ist keine Verzögerung, sondern eine **unzutreffende Zusage**. Nach der
+Policy („Say what Shopify actually shows … a customer reassured with something
+false comes back angrier") darf dieser Satz nur stehen, wenn in Shopify eine
+Sendung mit Datum hinterlegt ist.
+→ Beide `Bot/Needs Approval`: die Antwort muss die **richtigen** Versanddaten
+nennen (Torres: 02.09., JQ Express `JCHSG0000004362729`; Fitzgerald: 03.09.,
+4PX `4PX3003124889886CN`) — und der Owner entscheidet, ob die frühere Auskunft
+richtiggestellt wird. **Kein zweites „is on the way" ohne Beleg.**
+
+## 5. 🚩 Teilsendungen, über die niemand informiert wurde
+
+Drei Bestellungen stehen in Shopify auf **`PARTIALLY_FULFILLED`** — es ist also
+nur ein Teil raus. Allen dreien ist gesagt worden (oder wird gerade gesagt), die
+Bestellung sei „on the way":
+
+| Kunde | Bestellung | Betrag | Stand |
+|---|---|---|---|
+| Sharron Hodges | **#6116** | **82,81 £** | 1 Sendung 25.08., Yun Express `YT2623700701579714`; Rest offen |
+| Dorothy Rysh | **#6872** | **50,43 £** | 1 Sendung 02.09., WB US `WNBAA0497780263YQ`; Rest offen |
+| Sheila Keirnan | **#1301** | **32,95 £** | seit **12.06.** offen |
+
+**Sharron Hodges, 14:15:** „Still haven't received my order. **Need these tough
+toys, not flushes.** Dog chews everything to pieces. Please send the tough toys
+I spent a fortune for." — Sie hat **82,81 £** bezahlt und einen Teil der Ware
+nie erhalten. Am 31.08. hieß es „shipped and on its way", was für die
+Gesamtbestellung nicht stimmt.
+
+→ Vor jeder weiteren Antwort in Shopify prüfen, **welche Positionen** offen
+sind. Der Satz „your order has been shipped" ist bei einer Teilsendung falsch.
+
+## 6. 🚩 #6872 Dorothy Rysh — eine Zollauskunft, die nirgends belegt ist
+
+- **03.09.:** „I am unable to track my order through shop. It says **order not
+  found**."
+- **04.09.:** „Is it in the US yet?"
+- **05.09. 10:04 aus dem Postfach:** *„Yes, I can confirm that your parcel has
+  **completed customs clearance in the US** and is now progressing through the
+  local delivery network."*
+- **08.09. 16:15:** „Can you send me a **link** that I can track the shipment in
+  the US?"
+
+**In Shopify steht keine Zollinformation** — nur Sendungsnummer
+`WNBAA0497780263YQ` (WB US) vom 02.09. Die Zollaussage vom 05.09. ist durch
+nichts gedeckt. Dieselbe Nummernfamilie (`WNBAA…YQ`) hat bei **Robert Gagne**
+dazu geführt, dass der Zusteller die Nummer für ungültig erklärte.
+
+→ Sagbar: die Nummer und `https://t.17track.net/en#nums=WNBAA0497780263YQ`.
+**Nicht sagbar:** dass die Sendung den Zoll passiert hat. Dazu offen:
+`PARTIALLY_FULFILLED` (siehe Punkt 5). `Bot/Needs Approval`.
+
+## 7. 🚩 Sheila Keirnan (#1301) — 30 % auf einen Sicherheitsbefund und unbenutzte Ware
+
+**12:25:**
+
+> „Dear Lisa, thank you so much for your **goodwill offer of a 30% partial
+> refund**. I'm glad to hear you are taking my concern seriously, after all I
+> would hate this incident to happen to one of your…"
+
+Sachverhalt: Im **Hippo-Spielzeug steckte eine Nadel** („the 'FAULTY' Hippo
+containing the…"). Sie hat außerdem **zwei ungeöffnete Spielzeuge** und am
+05.09. ausdrücklich nach der Rücksendeanleitung dafür gefragt.
+
+**Shopify:** **#1301**, bestellt **12.06.2026**, **32,95 £**, `PAID` /
+`PARTIALLY_FULFILLED`, 3 × Plushie + E-Book.
+
+Das ist **Regel 1** (defekt angekommen) für den Hippo **und Regel 2**
+(unbenutzt, ungeöffnet) für die zwei anderen — beides voller Anspruch.
+Angeboten wurden **30 %**. Dazu kommt: ein Fremdkörper im Spielzeug ist ein
+**Sicherheitsbefund**, kein Kulanzfall.
+
+Damit ist die Teilerstattungs-Vorlage bei: 20 % (26.08. Sharon Lagos), 20 %
+(31.08. Ken), 30 % (03.09. Trudi Trotter), 15 % (07.09. Karen McCormick),
+30 % (07.09. Sheila Keirnan). **Fünfmal, dreimal davon gegen einen vollen
+Anspruch.**
+→ `Bot/Escalated - Owner Attention`. **Erstattungsanspruch: 32,95 £**, nicht
+30 % davon. Rücksendeanleitung weiterhin nicht erteilbar — es gibt keine
+Rücksendeadresse (offener Blocker seit 13.08.).
+
+## 8. Neue Fälle mit bestrittener Werbeaussage
+
+| Kunde | Bestellung | Betrag | Zitat |
+|---|---|---|---|
+| Tasmin Hunt (`tazzyhunt1@`) | **#5829** | 19,95 £ | „I received my **unbreakable** elephant toy last week, and my dog had already destroyed it… I'm disappointed that you advertise it as this and it's not" (21:03) |
+| Christopher Betterton | **#5072** | 19,95 £ | „Took about **15 minutes** to tear it apart. Not sure how **indestructible** this really is." (19:15) |
+| Tobias Peabody | **#6017** | 30,54 £ | Betreff „**Lasted 10 minutes!**", „Refund my purchase please" — **Video und Foto beigefügt** (14:42) |
+| Stephen Cooil | **#5973** | 29,95 £ | „I sent an email a couple of days ago **with a video and photo attached** showing my dog destroying a plushie in about **one minute** but have **not received a reply**" (09:54) |
+| Claire Sands | **#5461** | 19,95 £ | „**Ding Dong the fox is dead!** Turns out foxy is **destructible** after all. Shame he loved it for the week it lasted" (10:35) |
+
+Damit **rund 65 Fälle mit bestrittener Werbeaussage seit dem 13.08.**
+
+**Stephen Cooil ist ein Zweitkontakt** — er hat vor zwei Tagen Video und Foto
+geschickt und keine Antwort bekommen. Nach der Policy ist „repeat unresolved
+contact" ein Eskalationstrigger. → `Bot/Escalated - Owner Attention`.
+
+**Claire Sands** ist der freundlichste Fall des Tages: sie hatte am 27.08. noch
+geschrieben, ihr Hund liebe den Fuchs, und meldet den Schaden jetzt mit Humor
+und **ohne** Erstattungsforderung. Genau hier gehört keine Vorlagen-Absage hin,
+sondern eine Antwort, die den Ton aufnimmt. → `Bot/Draft Ready`.
+
+Die übrigen vier sind Kauschaden nach der Regel — **keine Erstattung** — aber
+alle vier zitieren die Werbung. Nach dem heutigen Befund (vier Eskalationen aus
+vier Vorlagen-Absagen) ist die Standardabsage hier **nicht** die richtige
+Antwort. → `Bot/Needs Approval`, Antwort erklärend statt ablehnend.
+
+## 9. Lieferstatus — neue Nachfragen
+
+| Kunde | Bestellung | Betrag | Bestellt | Versandt | Zusteller / Nummer |
+|---|---|---|---|---|---|
+| John Collins | **#7053** | 35,65 £ | 21.08. | **02.09.** | Yanwen US `UL476304878YP` |
+| Roy Fletcher | **#6999** | 27,95 £ | 21.08. | **02.09.** | Yanwen `UL476303912YP` |
+| Geoffrey Russell | **#7114** | 28,50 £ | 22.08. | **02.09.** | RD Express `RD1026707422HM` |
+| Rick Torres | **#7274** | 43,89 £ | 22.08. | **02.09.** | JQ Express `JCHSG0000004362729` |
+| Barb Fitzgerald | **#7771** | 28,52 £ | 25.08. | **03.09.** | 4PX `4PX3003124889886CN` |
+
+- **John Collins (20:58):** „The **tracking information that was sent to me is
+  not showing any information.**" — dritter Fall nach Robert Gagne und Dorothy
+  Rysh, in dem die genannte Nummer beim Zusteller nichts anzeigt.
+- **Roy Fletcher (16:48):** „**This is a shocking amount of time** to wait."
+- **Geoffrey Russell (13:40):** „Were my stuff" [sic].
+
+Gemeinsamer Befund: **alle fünf** wurden erst **11–12 Tage nach Bestellung**
+versandt, vier davon am selben Tag (02.09.). Die Wartezeit entsteht vor dem
+Versand, nicht beim Zusteller.
+→ Alle `Bot/Draft Ready`: Versanddatum und Nummer nennen, ehrlich sagen, dass
+zwischen Zahlung und Versand rund zwei Wochen lagen. **Kein Zustelldatum.**
+
+## 10. Kein Support-Fall
+
+- **abolajiyus21@gmail.com** (11:18): „I have a recommendation about your Shop.
+  **Is this inbox active?**" — Akquise, vierte dieser Art nach `haminexpert01@`,
+  `yomtech006@`, `kejiconsult@`. → `Bot/No Action`.
+
+---
+
+## Bilanz des Tages
+
+**Vier Eskalationen sind heute aus dem Postfach heraus erzeugt worden.** Um
+07:57, 07:58, 08:25 und 07:58 gingen vier Antworten raus; drei davon haben
+binnen Stunden zu einer Erstattungsforderung, einer Bewertungsankündigung und
+einer Behördenmeldung geführt (#6606, #6213, Vicky Blow). Die vierte (Rena
+Barnes) ist noch unbeantwortet.
+
+**Drei Aussagen aus dem Postfach sind heute durch Shopify-Daten widerlegt
+worden:**
+
+1. „PO Box cannot be processed" — #5817 zugestellt, #6209 heute selbst an eine
+   P.O. Box versandt.
+2. „Your order has been shipped" — bei #7274 sieben Tage, bei #7771 zwei Tage
+   vor dem tatsächlichen Versand gesagt.
+3. „Completed customs clearance in the US" — in Shopify steht dazu nichts.
+
+Das ist derselbe Punkt wie beim Vorlagen-Ablauf: **Was der Kunde als
+Beruhigung bekommt, kommt als Eskalation zurück, sobald es sich nicht
+bestätigt.**
+
+## Nicht getan (Sammellauf)
+
+- Keine Entwürfe, keine Labels — Gmail-Schreibpfad bricht seit dem 21.08. ab.
+- Keine Erstattung, kein Storno, keine Adressänderung in Shopify ausgeführt.
+- Keine Rücksendeadresse erfunden (Sheila Keirnan wartet weiter darauf).
+- Kein Entwurfstext rekonstruiert.
+- Cale Rogers' Adresse **nicht** geändert — die Sendung ist bereits raus, eine
+  Änderung im System würde daran nichts mehr ändern und den Stand verfälschen.
+- Dorothy Rysh **nicht** bestätigt, dass die Sendung den Zoll passiert hat.
