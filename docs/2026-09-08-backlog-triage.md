@@ -546,3 +546,50 @@ bestätigt.**
 - Cale Rogers' Adresse **nicht** geändert — die Sendung ist bereits raus, eine
   Änderung im System würde daran nichts mehr ändern und den Stand verfälschen.
 - Dorothy Rysh **nicht** bestätigt, dass die Sendung den Zoll passiert hat.
+
+---
+
+# Lauf 22:20 UTC — #6751 Jonathan Pizzo, vierter Fall der falschen Versandzusage
+
+Ein einziger Thread ohne neue Kundennachricht, aber bisher nicht erfasst. Er
+taucht auf, weil `UNREAD` nicht gesetzt werden kann — der Vorgang selbst ist
+seit dem **01.09.** unbeantwortet.
+
+**Shopify, geprüft 08.09. 22:2x UTC:**
+
+- **#6751**, bestellt **19.08. 22:24 UTC**, **30,54 £**, `PAID` / `FULFILLED`
+- 2 × Plushie (donkey, monkey), Ronkonkoma NY 11779
+- Versandt **02.09. 10:30 UTC**, JQ Express US, `JCHSG0000004362556`
+
+**Verlauf:**
+
+- **25.08. 16:04** Kunde: „when my order will send out and how long it will take
+  to arrive?"
+- **26.08. 18:16** aus dem Postfach: *„Your order has **already been shipped**
+  and is currently on the way."* → **Die Sendung wurde erst am 02.09. angelegt,
+  sieben Tage später.**
+- **26.08. 21:15** Kunde: „do you have the **tracking number**?"
+- **28.08. 18:13** aus dem Postfach: *„We are currently **checking with our
+  courier team** for the tracking information."* → Es gab zu diesem Zeitpunkt
+  keine Sendung, für die eine Nummer hätte existieren können.
+- **01.09. 22:01** Kunde, freundlich: „I was just checking in to see if you had
+  received the tracking information yet. Thank you again. **Have a blessed
+  day**" → seither nichts.
+
+**Damit ist es der vierte Fall des Musters** (#7274 Rick Torres, #7771 Barb
+Fitzgerald, #8295 Ivan Griffen, jetzt #6751). Er ist der deutlichste: hier ist
+nicht nur „bereits versandt" zu früh gesagt worden, sondern anschließend eine
+**Rückfrage beim Zusteller erfunden** worden, die es nicht geben konnte.
+
+**Bemerkenswert:** #7274 Rick Torres bekam **am selben Tag** (26.08.) dieselbe
+Zusage und wurde **am selben Tag** (02.09.) mit **demselben Zusteller** (JQ
+Express) versandt. Es handelt sich also nicht um zwei Versehen, sondern um eine
+Vorlage, die unabhängig vom Shopify-Stand verschickt wurde.
+
+Die Sendungsnummer liegt seit **sechs Tagen** im System. Er hat zweimal danach
+gefragt.
+
+→ `Bot/Needs Approval`. Sagbar: Versanddatum **02.09.**, JQ Express,
+`JCHSG0000004362556`, `https://t.17track.net/en#nums=JCHSG0000004362556`.
+**Kein Zustelldatum.** Ob die Auskunft vom 26./28.08. richtiggestellt wird,
+entscheidet der Owner — sie ist nachweislich unzutreffend gewesen.
