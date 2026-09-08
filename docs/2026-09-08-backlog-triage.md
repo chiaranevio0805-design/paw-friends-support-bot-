@@ -83,6 +83,51 @@ Keine Antwort, kein Entwurf.
 
 ---
 
+## Lauf 08:17 UTC — #3344 John Beirne: der erste Routinefall seit Tagen
+
+**08:00:** „I ordered a plushie (**order no 3344**) with the hope that my dog
+would have it for a while but unfortunately **it lasted less than a month**. Is
+there anything that can be done?"
+
+**Shopify, geprüft 08.09. 08:2x UTC:**
+
+- **#3344**, bestellt **25.07. 07:22 UTC**, **19,95 £**, `PAID` / `FULFILLED`
+- Versandt 29.07., Yanwen, `UL374416043YP`, Affe, Henley on Thames RG9 1AP
+
+**Klassifikation: Kauschaden → keine Erstattung.** Nach der Regel klar: der Hund
+hat das Spielzeug benutzt, es ist beim Spielen kaputtgegangen.
+
+**Warum dieser Fall trotzdem erwähnenswert ist:** Er ist der **erste seit
+Tagen, der nicht eskaliert ist** — kein Werbezitat, keine Behörde, keine
+öffentliche Ankündigung, kein Zweitkontakt. Er fragt schlicht: „Is there
+anything that can be done?"
+
+Damit gehört er in genau die Kategorie, für die die Policy die
+Standardantwort vorsieht: **`Bot/Draft Ready`**, Absage **mit** der Erklärung,
+wofür die Garantie da ist. Das ist der einzige Fall dieser Woche, bei dem die
+Vorlagenantwort **richtig** wäre — vorausgesetzt, sie erklärt statt nur
+abzulehnen.
+
+Zwei Details für die Antwort:
+
+- **„Less than a month"** ist ein anderer Sachverhalt als die 10-Minuten-Fälle.
+  Das Spielzeug hat wochenlang gehalten. Eine Antwort, die ihn behandelt, als
+  hätte er nach zehn Minuten reklamiert, wird ihm nicht gerecht.
+- Bestellt am **25.07.** — die 30 Tage sind **abgelaufen** (seit 24.08.). Eine
+  unbenutzte Rückgabe käme ohnehin nicht mehr in Frage; das gehört ehrlich
+  gesagt, aber nicht als Hauptargument.
+
+Kein Entwurf angelegt (Schreibpfad defekt), kein Text rekonstruiert.
+
+## Wieder aufgetaucht, unverändert
+
+**#5316 David Andrews** — letzte Kundennachricht vom 26.08., keine neue. Der
+Thread erscheint nur wieder, weil `UNREAD` nicht gesetzt werden kann. Stand
+unverändert: Chargeback angedroht, vierter Kontakt, seit dem 26.08.
+unbeantwortet (Log 06.09.).
+
+---
+
 ## Nicht getan
 
 - Keine Entwürfe, keine Labels — Schreibpfad defekt seit 21.08.
