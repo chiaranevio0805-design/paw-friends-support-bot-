@@ -1152,3 +1152,93 @@ im Raum.
 
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, kein Text
 rekonstruiert.
+
+---
+
+## Lauf 21:20 UTC — 🚩🚩 #4975 Darlene Futrel: vier Behörden auf einmal
+
+### #4975 — der schärfste Eskalationsfall im Postfach
+
+**21:17**, Betreff: „**THIRD REQUEST | FORMAL COMPLAINT & DEMAND FOR FULL
+REFUND — Order #4975**"
+
+**Shopify, geprüft 09.09. 21:2x UTC:**
+
+- **#4975**, bestellt **07.08. 18:06 UTC**, **28,52 £** (Kunde nennt **$38,48**),
+  `PAID` / `FULFILLED`
+- 2 × Plushie (frog, elephant), versandt **22.08. 01:39 UTC** — 15 Tage später
+- Yanwen Special Line US, `UL442892548YP`, Anaheim CA 92808
+- Zahlung Karte endend **7056**
+
+**Ihr Vorwurf ist ein anderer als bei allen bisherigen Fällen:**
+
+> „The products I received are **entirely different from how they are
+> represented on your website**. Your advertising falsely portrays these items
+> as **standard, regular-sized** stuffed animals built to withstand play.
+> Instead, I received **miniature toys**… Selling fragile, pocket-sized items
+> under the guise of durable, standard-sized pet toys is a clear
+> **bait-and-switch**."
+
+Es geht **nicht um Haltbarkeit, sondern um die Größe** — also darum, dass die
+gelieferte Ware nicht der Abbildung entspricht. Das ist derselbe Punkt wie bei
+**#6741 Zacharey McLaughlin** („The size of the product is **too small** for a
+larger dog") und **#5973 Stephen Cooil** („the toys are **smaller than the
+impression given**"). **Drei Fälle**, und dieser ist der erste, der es als
+Falschdarstellung benennt.
+
+**Die Ankündigung, wörtlich und nummeriert:**
+
+> „…if a full refund (including shipping) is not processed… **within five (5)
+> business days**, I will immediately take the following actions:
+> 1. File a formal complaint with the **State Attorney General's Office** for
+>    consumer protection violations, deceptive trade practices, and false
+>    advertising
+> 2. File a report with the **Federal Trade Commission (FTC)** for deceptive
+>    marketing
+> 3. File a complaint with the **Better Business Bureau (BBB)**
+> 4. Initiate a **chargeback** dispute with my financial institution for
+>    ‚**Product Not as Described**'"
+
+**Vier Stellen gleichzeitig**, davon zwei US-Bundes- bzw. Landesbehörden, die in
+diesem Postfach bisher nicht vorgekommen sind. Sie verlangt außerdem
+ausdrücklich die **Eskalation an einen Vorgesetzten**.
+
+**„THIRD REQUEST"** — zwei frühere Kontakte sind unter dieser Adresse im
+Postfach **nicht auffindbar**. Wie heute Nachmittag bei **Jeff Williams
+(#5851)**. Bei **#3988 Dominic Higney** und **Ann Price** ist belegt, dass
+Kundenmails ungelesen im **Papierkorb** lagen. → **`in:trash` und `in:spam`
+für `dfutrel@gmail.com` prüfen, bevor geantwortet wird.**
+
+→ `Bot/Escalated - Owner Attention`, **höchste Priorität im Postfach**.
+**Eskalationsgrund (nur fürs Log):** dritter Kontakt, förmliche Beschwerde,
+vier angekündigte Behörden-/Streitverfahren mit Fünf-Tage-Frist, Vorwurf der
+Falschdarstellung der Ware (nicht der Haltbarkeit), Verlangen nach
+Vorgesetzten-Eskalation.
+
+**Keine Vorlagen-Absage.** Die Kauschaden-Vorlage geht an ihrem Vorwurf komplett
+vorbei — sie sagt nicht, der Hund habe die Ware zerstört, sondern die Ware sei
+nicht die beworbene. **Achte Zahlungsstreitigkeit.**
+
+**Nicht auf der Erstattungsliste:** Ob „nicht wie beschrieben" hier zutrifft, ist
+eine **Owner-Entscheidung** — der Bot kann die Produktabbildung nicht
+beurteilen. **28,52 £ nicht zusagen.** Falls erstattet wird: der Kunde nennt
+$38,48, Shopify führt 28,52 £ — **die Differenz vor jeder Zusage klären.**
+
+### #5902 — Emma Rapp
+
+**20:37**, weitergeleitete Versandbestätigung:
+
+> „I received my purchase below which you advertise are **stronger toys, durable
+> and indestructible**. My dachshund **killed both of them within 10 mins**…"
+
+**Shopify:** **#5902**, bestellt **13.08. 07:08 UTC**, **27,95 £**, `PAID` /
+`FULFILLED`, 2 × Plushie (Duck, monkey), versandt **22.08. 01:47 UTC**, Yanwen
+`UL442893044YP`.
+
+Kauschaden mit ausdrücklich zitierter Werbeaussage („indestructible").
+→ `Bot/Needs Approval`. **Keine Vorlagen-Absage** — nach der heutigen Bilanz
+(sechs Absagen, sechs Eskalationen) ist das der vorhersehbare Fehler.
+**Nicht auf der Erstattungsliste.**
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine Fristzusage,
+kein Text rekonstruiert, die Betragsdifferenz nicht überbrückt.
