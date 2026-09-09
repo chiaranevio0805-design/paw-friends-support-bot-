@@ -102,3 +102,50 @@ stattdessen einen Rabatt anzubieten.
 - **Kein Betrag geschätzt** — der erstattungsfähige Anteil von #6528 steht nicht
   fest.
 - Kein Entwurfstext rekonstruiert.
+
+---
+
+## Lauf 03:20 UTC — 🚩 Mail gibt sich als Shopify-Regulierungsstelle aus
+
+**08.09. 21:58 UTC**, Absender **`shopifystoreregulatory.center@gmail.com`**,
+**keine Betreffzeile**, Inhalt vollständig:
+
+> „I'd like to hear your thoughts on something."
+
+### Warum das kein Support-Fall, sondern ein Sicherheitsbefund ist
+
+- Der Absendername gibt eine **Regulierungs-/Aufsichtsstelle für Shopify-Shops**
+  vor. Eine solche Stelle würde nicht von einer **gmail.com-Adresse** schreiben.
+  Shopify kontaktiert Händler über `@shopify.com`, nicht über Freemail.
+- **Kein Betreff, kein Anliegen, kein Bezug** — ein Einzeiler, dessen einziger
+  Zweck es ist, eine Antwort zu erzeugen. Das ist das Standardmuster von
+  Pretexting: erst Vertrauen über die vorgetäuschte Rolle aufbauen, der Inhalt
+  kommt in der zweiten Mail.
+- **Der Zeitpunkt passt zur Lage.** Im Postfach liegen aktuell eine
+  Trading-Standards-Ankündigung (Jason Branch, Valerie #4829), eine Meldung ans
+  **Better Business Bureau** (#6213, gestern 13:59), mehrere Chargebacks
+  (#3310, #5111, #5316, #6173) und eine Sammelklage-Androhung. Eine Mail, die
+  sich als Aufsichtsstelle ausgibt, trifft genau die Sorge, die ein Betreiber
+  in dieser Lage hat — und erhöht die Chance, dass jemand antwortet.
+
+### Einordnung im Kontext
+
+Das ist der **vierte Sicherheitsbefund** in diesem Postfach:
+
+| Datum | Befund |
+|---|---|
+| 14.08. | Google-Sicherheitswarnung: Wiederherstellungs-E-Mail **und** -Telefonnummer im selben Moment geändert |
+| — | Vollständige Kreditkartennummer im Klartext im Thread #4284 |
+| 06.09. | Phishing-Mail „Todd Jacobs Shared a Document with You", BCC-Massenversand, angeblicher OneDrive-Link |
+| **08.09.** | **Mail als „Shopify Store Regulatory Center" von einer Gmail-Adresse** |
+
+→ **`Bot/No Action`. Nicht antworten, nicht nachfragen, keine Informationen zum
+Shop, zu Bestellungen oder zu laufenden Beschwerden herausgeben.** Auch keine
+höfliche Rückfrage — jede Antwort bestätigt, dass die Adresse gelesen wird, und
+liefert den Anknüpfungspunkt für die zweite Mail.
+
+Der Owner sollte den Absender kennen, bevor er selbst ins Postfach sieht: eine
+Mail, die sich als Aufsicht ausgibt, wirkt gerade jetzt plausibel.
+
+**Nicht getan:** nicht geantwortet, nichts angeklickt, keine Shop-Daten
+herausgegeben.
