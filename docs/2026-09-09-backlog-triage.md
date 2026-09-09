@@ -1242,3 +1242,50 @@ Kauschaden mit ausdrücklich zitierter Werbeaussage („indestructible").
 
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine Fristzusage,
 kein Text rekonstruiert, die Betragsdifferenz nicht überbrückt.
+
+---
+
+## Lauf 23:20 UTC — #7784 Cameron Dayton
+
+**22:52**, Betreff „**Not so Indestructible**", ein Foto beigefügt:
+
+> „We've had this little yellow duck for **20 minutes** and my little rescue dog
+> already has it **in pieces across my carpet**. There was some **guarantee that
+> this would be a high endurance product**, which is why **I paid extra to have
+> that come over**. I would like a refund please."
+
+**Shopify, geprüft 09.09. 23:2x UTC:**
+
+- **#7784**, bestellt **25.08. 20:14 UTC**, **20,34 £**, `PAID` / `FULFILLED`
+- 1 × Plushie „Duck" (Listenpreis 30,76 £)
+- Versandt **03.09. 07:47 UTC** — **neun Tage** nach der Bestellung
+- **WB US**, `WNBAA0498036129YQ`, Salt Lake City
+
+**Klassifikation: Kauschaden → keine Erstattung nach der Regel.**
+
+**Zwei Punkte, die die Vorlage nicht abdeckt:**
+
+1. **„some guarantee that this would be a high endurance product"** — wieder
+   eine Zusage, auf die sich ein Kunde beruft. Anders als bei #6259, #5851,
+   Adam Sellens und Gary Sanderson geht es nicht um **Ersatz**, sondern um
+   **Haltbarkeit**. Er nennt keine Quelle. Das gehört an dieselbe offene
+   Owner-Frage angehängt: **was genau wird wo zugesagt?**
+2. **„I paid extra to have that come over"** — er glaubt, für schnelleren
+   Versand bezahlt zu haben. In Shopify sind bei dieser Bestellung **keine
+   gesonderten Versandkosten ausgewiesen**; der Gesamtbetrag liegt mit 20,34 £
+   **unter** dem Listenpreis der einen Position (30,76 £). Ob und wofür er
+   „extra" gezahlt hat, **lässt sich aus der Bestellung nicht ableiten** und
+   muss im Admin geprüft werden. **Weder bestätigen noch bestreiten.**
+
+Dazu: neun Tage bis zum Versand, und die Sendungsnummer gehört wieder zur
+Familie `WNBAA…YQ` (bei Robert Gagne für ungültig erklärt, bei #6872 „order not
+found", heute auch bei #7741 Linda Phillips).
+
+→ `Bot/Needs Approval`. **Keine Vorlagen-Absage** — sie würde beide Punkte
+übergehen. Tagesbilanz: sechs Vorlagen-Absagen, sechs Eskalationen.
+
+**Nicht auf der Erstattungsliste** — Kauschaden fällt unter keine der drei
+Regeln.
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine Aussage zu
+den angeblichen Mehrkosten, kein Text rekonstruiert.
