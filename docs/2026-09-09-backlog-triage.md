@@ -885,3 +885,41 @@ Regeln.
 
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung zugesagt, kein Text
 rekonstruiert, die Wartezeit nicht kleingeredet.
+
+---
+
+## Lauf 16:20 UTC — #7741 Linda Phillips: die Frage, die der Bot nicht beantworten darf
+
+**15:58**, Betreff „Delivery", vollständiger Inhalt:
+
+> „Is it possible to get an **estimate of delivery**? Thank you, Linda"
+
+**Shopify, geprüft 09.09. 16:2x UTC:**
+
+- **#7741**, bestellt **25.08. 13:58 UTC**, **20,35 £**, `PAID` / `FULFILLED`
+- Versandt **03.09. 07:46 UTC** — **neun Tage** nach der Bestellung
+- **WB US (Selected postal codes)**, `WNBAA0498036181YQ`
+- Shrewsbury (US)
+
+Höflich, ohne Vorwurf, ohne Erstattungsforderung — und sie fragt **genau das
+Einzige**, was nach dem Runbook nicht gesagt werden darf: einen Zustelltermin.
+
+**Warum das so bleibt:** Bei **#7043 Beverley Jones** sind drei „heute" in Folge
+zugesagt worden und die Sendung ist nicht angekommen. Jede Prognose, die nicht
+eintrifft, macht aus einer geduldigen Kundin einen Zweitkontakt — und der
+Zweitkontakt ist in diesem Postfach der Schritt vor der Eskalation.
+
+**⚠️ Dazu ein konkreter Vorbehalt zur Sendungsnummer:** Die Kennung beginnt mit
+`WNBAA…YQ`. Bei **Robert Gagne** hat der Zusteller eine Nummer dieser Familie
+für **ungültig** erklärt, bei **#6872 Dorothy Rysh** zeigte sie „**order not
+found**". Ihr die Nummer zu nennen ist richtig — aber **ohne** die Zusage, dass
+die Verfolgung funktioniert.
+
+→ `Bot/Draft Ready`. Sagbar: Versanddatum **03.09.**, Zusteller, Nummer,
+`https://t.17track.net/en#nums=WNBAA0498036181YQ`, und offen, dass zwischen
+Bestellung und Versand neun Tage lagen. **Kein Zustelldatum, keine Zeitspanne,
+keine „should arrive soon"-Formel.** Wenn die Nummer bei ihr nichts anzeigt,
+soll sie sich melden — das ist bei diesem Zusteller schon zweimal vorgekommen.
+
+**Nicht getan:** kein Entwurf, kein Label, **keine Zustellprognose**, kein Text
+rekonstruiert.
