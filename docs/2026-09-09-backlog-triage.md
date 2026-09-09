@@ -352,3 +352,81 @@ Regelfolge.
 geprüft, bevor der nächste Kunde danach fragt. Sie ist der Auslöser dieses
 Falls, und es ist der erste, in dem eine Zusage **aus dem eigenen Shop** — nicht
 aus einer Anzeige — bestritten wird.
+
+---
+
+## Lauf 10:20 UTC — #6044 Gregory Williams: der Kunde, der kein Geld will
+
+**Der wichtigste Satz im Postfach seit Tagen — von einem Kunden, der nichts für
+sich verlangt.**
+
+**Shopify, geprüft 09.09. 10:2x UTC:**
+
+- **#6044**, bestellt **14.08. 08:56 UTC**, **45,84 £**, `PAID` / `FULFILLED`
+- 4 × Plushie (Duck, pig, monkey, hippo)
+- Versandt **20.08. 02:14 UTC**, Yanwen Registered Airmail, `VR951952875YP`
+- **Dalyellup, Western Australia 6230 — Australien**
+
+### Der Verlauf
+
+- **31.08. 08:59** — „Where is my order? I haven't received any updates"
+- **01.09. 12:02 aus dem Postfach** — „shipped and is currently on…"
+- **02.09. 02:52 Greg**, direkt gefragt: „May I ask? **When did you guys send my
+  items?**"
+- **03.09. 10:49 aus dem Postfach** — „your order has shipped and is currently
+  on its way. Our **UK warehouse** is currently sold out, so your order was
+  shipped from our…" — **das Versanddatum wird wieder nicht genannt.** Es steht
+  seit dem 20.08. im System.
+- **07.09. 15:19** — „My dog has almost destroyed 1 of the toys already"
+- **07.09. 15:31** — „My dog (aka **destructor**) has already ripped a hole in
+  the toy I only gave him **30 minutes** ago"
+- **09.09. 09:51 aus dem Postfach** — Vorlagen-Absage (Kauschaden)
+- **09.09. 10:03 Greg**, zwölf Minuten später:
+
+> „**I'm not expecting my money back, it'll be good if you guys changed your
+> ad**"
+
+### Warum dieser Satz zählt
+
+Seit dem 13.08. sind **rund 65 Fälle** mit bestrittener Werbeaussage
+aufgelaufen. Fast alle enden in einer Erstattungsforderung, einer Bewertung
+oder einer Behörde. **Greg verlangt ausdrücklich kein Geld.** Er nennt als
+einzigen Wunsch, dass die Anzeige geändert wird.
+
+Damit sagt ein Kunde von sich aus genau das, was in diesen Logs seit Wochen als
+Ursache steht: **das Problem ist nicht die Rückgaberegel, sondern die Werbung.**
+Er ist der einzige, dem man nicht entgegenhalten kann, er wolle nur sein Geld
+zurück.
+
+**Zugleich ist er der sechste Empfänger einer Vorlagen-Absage in 26 Stunden** —
+und der einzige, dessen Antwort **keine** Eskalation ist. Nach #6259 (Trading
+Standards heute früh), #6213 (Better Business Bureau), #6606 (Bewertung) und
+#7610 (Erstattungsforderung) ist das der Kontrast, der den Punkt macht: Es ist
+nicht die Absage allein, die eskalieren lässt — es ist die Absage auf eine
+Werbeaussage, die der Kunde für unzutreffend hält, **wenn niemand darauf
+eingeht**. Greg geht es nicht ums Geld, also eskaliert er nicht; sein Anliegen
+bleibt trotzdem unbeantwortet.
+
+### Einordnung
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund (nur fürs Log):** bestrittene Werbeaussage, ausdrücklich an
+den Betreiber gerichtete Forderung nach einer Änderung der Anzeige. Das ist
+nichts, was der Support entscheiden kann.
+
+**Kein Erstattungsfall** (Kauschaden, und er verlangt keine Erstattung). Er
+steht **nicht** auf der Erstattungsliste.
+
+**Was ihm geantwortet werden kann:** dass sein Hinweis an den Inhaber
+weitergegeben wurde — und zwar ehrlich, nicht als „wir nehmen Ihr Feedback zur
+Kenntnis". Die Vorlage vom 09:51 enthält bereits den Satz „we will take it into
+consideration as we review our products"; genau diese Formel hat Nick Tarrant
+heute früh mit „I'm not sure I really got an answer" beantwortet.
+
+**Nebenbefund:** Er hat am 02.09. **direkt nach dem Versanddatum gefragt** und
+es nicht bekommen, obwohl es seit dem 20.08. in Shopify steht. Damit reiht er
+sich in #6751, #8295, #6199 und #6872 ein — fünfter Fall, in dem eine
+vorhandene Versandinformation den Kunden nicht erreicht.
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, kein Text
+rekonstruiert.
