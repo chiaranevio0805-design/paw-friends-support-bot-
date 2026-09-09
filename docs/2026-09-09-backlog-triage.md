@@ -430,3 +430,102 @@ vorhandene Versandinformation den Kunden nicht erreicht.
 
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, kein Text
 rekonstruiert.
+
+---
+
+## Lauf 11:20 UTC — zwei weitere Vorlagen-Absagen, zwei sofortige Rückläufer
+
+Zwischen **09:51 und 11:04** sind heute Vormittag **drei** Vorlagen-Absagen
+rausgegangen (Greg #6044, Gary #4273, John Beirne #3344). **Alle drei haben
+innerhalb von 7 bis 39 Minuten geantwortet.**
+
+### 🚩 #4273 Gary Lindsay — Werbetext wörtlich zitiert, Chargeback angekündigt
+
+**Shopify, geprüft 09.09. 11:2x UTC:**
+
+- **#4273**, bestellt **02.08. 19:24 UTC**, **27,95 £**, `PAID` / `FULFILLED`
+- 2 × Plushie (monkey, hippo), versandt **05.08.**, Yanwen `UL393919732YP`
+- Aberdeen AB10 7NW, Zahlung Karte endend **0991**
+
+**07.09. 18:21** — mit **drei zeitgestempelten Fotos**:
+
+> „I received the plushies on 14th August. The first picture below is when they
+> were **opened at 17:41**. The 2nd picture is from **18:20, less than 40
+> minutes later**. The 3rd is from 18th August, 4 days later. These did not last
+> any longer than other toys we have bought. Please advise how to receive a
+> refund."
+
+**09.09. 09:55** — Vorlagen-Absage.
+
+**09.09. 10:34**, 39 Minuten später:
+
+> „**Is this a joke?** The advert focuses on the durability of the plushies —
+> „**Extremely Durable & Long-Lasting**". And it makes a big point of the
+> guarantee — **which is pointless if a dog toy cannot be used by a dog or the
+> guarantee is invalidated. This is false advertising.**
+> Please respond with how you aim to resolve this or **I will have no option but
+> to contact my credit card company**."
+
+**Sein Argument ist neu und trifft den wunden Punkt genauer als alle bisherigen:**
+Nicht nur die Werbeaussage sei falsch, sondern die **Garantie selbst sei
+gegenstandslos** — sie gelte nur für unbenutzte Ware, also nie für den Fall, für
+den das Produkt beworben wird. Das ist dieselbe Beobachtung, die
+`bev212.bs@googlemail.com` (06.09.) und **#6286 Deborah Gould** (heute 04:16)
+gemacht haben, nur schärfer formuliert. **Drei Kunden in vier Tagen** an
+derselben Stelle.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund (nur fürs Log):** wörtlich zitierte Werbeaussage,
+ausdrücklicher Vorwurf „false advertising", **angekündigter Chargeback**,
+Fotobeweis mit Zeitstempeln.
+**Keine zweite Absage.** Fünfte Chargeback-Androhung nach #3310, #5111, #5316
+und #6173.
+
+### #3344 John Beirne — der zweite „ändert eure Werbung"-Fall an einem Tag
+
+**09.09. 11:04** — Vorlagen-Absage. **11:11**, sieben Minuten später:
+
+> „In light of this might I suggest that your **marketing doesn't make claims to
+> be in some way ideal for animals that have chewed through other toys**. The
+> reality is that your product is **no different to others at half the price**."
+
+**Er verlangt keine Erstattung.** Wie Greg (#6044) heute früh bittet er darum,
+die Werbung zu ändern.
+
+**Das war der Fall, für den im Log vom 08.09. ausdrücklich stand**, er sei „der
+einzige Fall dieser Woche, bei dem die Vorlagenantwort **richtig** wäre —
+**vorausgesetzt, sie erklärt statt nur abzulehnen**". Die Vorlage hat abgelehnt,
+ohne zu erklären, und die Bedingung damit nicht erfüllt. Er hat sachlich
+reagiert, aber der Vorbehalt aus dem Log ist eingetreten.
+
+→ `Bot/Escalated - Owner Attention` (Forderung nach Änderung der Werbung —
+nichts, was der Support entscheiden kann). **Kein Erstattungsfall.**
+
+### Der Befund
+
+**Zwei von drei Kunden, die heute Vormittag eine Absage bekamen, wollen kein
+Geld — sie wollen, dass die Anzeige geändert wird.** Greg um 10:03, John Beirne
+um 11:11. Der dritte, Gary Lindsay, kündigt einen Chargeback an und nennt es
+„false advertising".
+
+Damit sind es seit gestern früh **acht** Vorlagen-Absagen, von denen **sieben**
+umgehend zurückgekommen sind:
+
+| Kunde | Absage | Reaktion | Abstand |
+|---|---|---|---|
+| Vicky Blow (#7610) | 08.09. 07:57 | Erstattungsforderung | 57 Min. |
+| Rena Barnes (#4940) | 08.09. 07:58 | — | offen |
+| Meredith Spicer (#6213) | 08.09. 07:58 | Bewertung + **BBB** | 6 Std. |
+| Nick Tarrant (#6259) | 08.09. 08:23 | **Trading Standards** | 22 Std. |
+| Matt Pinnock (#6606) | 08.09. 08:25 | Bewertungsankündigung | 9 Min. |
+| **Greg Williams (#6044)** | **09.09. 09:51** | **„changed your ad"** | **12 Min.** |
+| **Gary Lindsay (#4273)** | **09.09. 09:55** | **Chargeback + „false advertising"** | **39 Min.** |
+| **John Beirne (#3344)** | **09.09. 11:04** | **„marketing doesn't make claims…"** | **7 Min.** |
+
+### Wieder aufgetaucht, unverändert
+
+**#5036 Lynette Lumley** — keine neue Nachricht. Stand unverändert: Stornowunsch
+vom 07.09., 27,95 £, Ware seit dem 22.08. unterwegs, kein Regelfall.
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, kein Text
+rekonstruiert.
