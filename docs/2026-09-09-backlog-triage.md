@@ -529,3 +529,150 @@ vom 07.09., 27,95 £, Ware seit dem 22.08. unterwegs, kein Regelfall.
 
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, kein Text
 rekonstruiert.
+
+---
+
+## Lauf 12:20 UTC — sechs Vorgänge, darunter eine zweite Absage an einen Eskalationsfall
+
+Am Vormittag sind zwischen 09:51 und 11:19 **fünf** Vorlagen-Antworten
+rausgegangen. Die Bilanz mittags:
+
+### 🚩🚩 #6213 Meredith Spicer — die zweite Absage nach der BBB-Meldung
+
+Der Fall stand seit gestern im Log als `Bot/Escalated - Owner Attention` mit dem
+ausdrücklichen Vermerk „**Keine zweite Absage.**"
+
+- **08.09. 13:59** Kundin: Bewertung + **Better Business Bureau** wegen „false
+  advertising"
+- **09.09. 11:19 aus dem Postfach:** **dieselbe Vorlagen-Absage noch einmal** —
+  Wort für Wort der Text vom 08.09. 07:58
+- **09.09. 12:01** Kundin, ein Wort:
+
+> „**dumb**"
+
+Das ist genau der Ablauf, den `support-policy.md` für Eskalationen ausschließt,
+und er ist an einem Fall passiert, der bereits als Eskalation erfasst war. Bei
+#4919 Em Gregg (04.09.) und #6259 Nick Tarrant (08.09.) hat dieselbe zweite
+Absage zu Verbraucherrechtszitat bzw. Trading Standards geführt.
+
+**46,08 £**, `#6213`. → bleibt `Bot/Escalated`. **Dritte Absage ausgeschlossen.**
+
+### 🚩 #5973 Stephen Cooil — Medienandrohung, und eine unbenutzte Ware wurde mit abgelehnt
+
+**Shopify:** **#5973**, bestellt 13.08., **29,95 £**, `PAID` / `FULFILLED`,
+**2 × Plushie (donkey, elephant)**, versandt 22.08., Yanwen `UL442891065YP`.
+
+- **08.09. 09:54** (Zweitkontakt): „I wish to **return both items** for a full
+  refund per the advertised 30 day guarantee."
+- **09.09. 11:10 aus dem Postfach:** Vorlagen-Absage.
+- **09.09. 12:15** Kunde:
+
+> „Your advert makes great claims… with **testimonials** from people who say
+> favourable things. **I can't believe these are genuine**… The Elephant is the
+> toy destroyed in the video. **We do still have a Donkey, untouched.**
+> …this seems like a **scam** and if I don't get satisfaction from you **I will
+> be in touch with the media to expose your company**."
+
+**Zwei neue Befunde:**
+
+1. **Der Donkey ist unbenutzt.** Er hat um die Rückgabe **beider** Teile
+   gebeten; die Absage hat beide abgelehnt. Der unbenutzte Donkey fällt unter
+   **Regel 2**. Das ist der **dritte** Fall dieser Verwechslung nach Carolyn
+   Marmalejo (#4812, 21.08.) und der Konstellation bei #6528 Tommy Johnson.
+2. **Er bestreitet die Echtheit der Testimonials** und droht mit der **Presse** —
+   eine Eskalationsstufe, die es bisher nicht gab (bisher: Bewertungen,
+   Trading Standards, BBB, Chargebacks, Sammelklage).
+
+→ `Bot/Escalated - Owner Attention`. **Erstattungsanspruch für den unbenutzten
+Donkey** — Anteil von 29,95 £, im Admin auf Positionsebene zu bestimmen.
+
+### 🚩 #6741 Zacharey McLaughlin — zweimal um Rückgabe gebeten, seit 07.09. unbeantwortet
+
+**Shopify:** **#6741**, bestellt 19.08., **61,30 £**, `PAID` /
+**`PARTIALLY_FULFILLED`**, 5 × Plushie + Zahnbuddy + E-Book, eine Sendung
+25.08., Yanwen US `UL451109674YP`.
+
+- **02.09.:** „I would like to **return** order #6741 for a **full refund**. I
+  am very dissatisfied with the quality and **size**."
+- **04.09. aus dem Postfach:** Rückfrage nach Details.
+- **04.09. Kunde:** „The size of the product is too small for a larger dog. **My
+  dog could swallow these.** The quality is that of a walmart $10 toy… Please
+  proceed with the refund."
+- **06.09. aus dem Postfach:** Teilabsage („While our 30-day money-back
+  guarantee applies to items returned…").
+- **07.09. 21:59 Kunde, zum dritten Mal:** „**I would like to return the
+  products for a full refund please**" — seither **unbeantwortet**.
+
+**Das ist ein Regel-2-Fall.** Er meldet keinen Kauschaden; er will die Ware
+zurückgeben, weil Größe und Qualität nicht stimmen. Nichts deutet darauf hin,
+dass die Spielzeuge benutzt wurden — im Gegenteil: er hält sie für zu klein, um
+sie dem Hund zu geben.
+
+Dazu ein **Sicherheitshinweis**: „my dog could swallow these" ist die
+**siebte** Meldung über verschluckbare Teile bzw. Größenrisiko (#6283, Andy
+Sire, Kevin Saggers #3197, #6741, die Nadel in #1301, der Quietscher in #6286).
+
+→ `Bot/Escalated - Owner Attention` (dritter unbeantworteter Kontakt,
+Sicherheitshinweis). **Erstattung: 61,30 £, Regel 2.** Rücksendung weiterhin
+nicht organisierbar — es gibt keine Rücksendeadresse.
+
+### #6004 Tina Mccallion — das fehlende BOGO-Teil
+
+**Shopify:** **#6004**, bestellt 13.08., **29,95 £**, `PAID` / `FULFILLED` —
+**nur eine Position: 1 × Plushie „hippo"**, versandt 22.08., 4PX
+`4PX3003136921543CN`.
+
+- **29.08.:** „when I bought this it was **buy 1 get 1 free which I never got**
+  and my wee dog had it half an hour and it ripped already"
+- **31.08. aus dem Postfach:** Antwort, die den Kauschaden bedauert
+- **31.08. Kundin, zweimal:** „you state that your toys are **tough and durable
+  for all dogs even small dogs** — that's the reason I bought it" + Foto
+- **03.09.:** „**Well am I get my order fulfilled**" — seither unbeantwortet
+
+**Der Kern ist nicht der Kauschaden, sondern die fehlende Ware.** Sie sagt, sie
+habe „buy 1 get 1 free" gekauft; in Shopify steht **eine** Position. Ob das
+Angebot bei ihrer Bestellung angewandt wurde, lässt sich aus der Bestellung
+nicht ableiten — das muss im Admin geprüft werden.
+
+→ `Bot/Needs Approval`. **Zuerst klären, ob ihr ein zweites Exemplar zusteht.**
+Solange das offen ist, ist jede Antwort zum Kauschaden am Thema vorbei — sie
+fragt seit sechs Tagen nach der Ware, nicht nach Geld.
+
+### #5095 Chris Bradley — Routineanfrage
+
+**Shopify:** **#5095**, bestellt **08.08. 13:32 UTC**, **19,95 £**, `PAID` /
+`FULFILLED`, 1 × Plushie „donkey", versandt **22.08. 01:43 UTC**, Yanwen
+`UL442892208YP`.
+
+**12:16:** „Can you tell me where this order is please, seems a long time in
+coming"
+
+Er hat recht: **14 Tage** zwischen Bestellung und Versand, seither 18 weitere.
+→ `Bot/Draft Ready`. Versanddatum und Nummer nennen, die Wartezeit offen
+benennen. **Kein Zustelldatum.**
+
+### ✅ #7114 Geoffrey Russell — erledigt, und zwar durch eine richtige Antwort
+
+- **09.09. 11:18 aus dem Postfach:** Antwort mit Versandinformation
+- **09.09. 11:56 Kunde:** „**Thank you for the update.**"
+
+**Der einzige der fünf Vormittagsantworten, der positiv zurückkam** — und der
+einzige, der keine Vorlagen-Absage war, sondern eine Auskunft. Das ist der
+Gegenbeleg zu allen anderen Fällen dieses Tages: wenn die Information kommt, ist
+der Fall erledigt.
+
+---
+
+## Zwischenstand 09.09. mittags
+
+Seit gestern früh sind **zehn** Vorlagen-Absagen rausgegangen. **Acht** sind
+verschärft zurückgekommen, **eine** ist noch offen (Rena Barnes), **eine**
+Auskunft (#7114) hat den Fall gelöst.
+
+Neu hinzugekommene Eskalationsstufen an einem einzigen Tag:
+**Trading Standards** (#6259), **Chargeback** (#4273, der fünfte),
+**Presse** (#5973), **„dumb"** nach der zweiten Absage (#6213) — und zweimal
+die Bitte, **die Werbung zu ändern**, ohne Geld zu verlangen (#6044, #3344).
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, kein Storno, kein
+Text rekonstruiert, keine Rücksendeadresse erfunden, kein Betrag geschätzt.
