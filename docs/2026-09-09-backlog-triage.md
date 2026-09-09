@@ -676,3 +676,79 @@ die Bitte, **die Werbung zu ändern**, ohne Geld zu verlangen (#6044, #3344).
 
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, kein Storno, kein
 Text rekonstruiert, keine Rücksendeadresse erfunden, kein Betrag geschätzt.
+
+---
+
+## Lauf 13:25 UTC — 🚩 #7190 Steve Solley: nicht die Werbung, sondern die Lieferzusage
+
+Ein neuer Fallschnitt. Zum ersten Mal bestreitet ein Kunde nicht die
+**Produkt**aussage, sondern die **Liefer**zusage beim Kauf.
+
+**Shopify, geprüft 09.09. 13:2x UTC:**
+
+- **#7190**, bestellt **22.08. 14:52 UTC**, **27,95 £**, `PAID` / `FULFILLED`
+- 2 × Plushie (pig, Duck), Sittingbourne ME10 4QT
+- Versandt **02.09. 10:53 UTC**, Yanwen, `UL476311114YP` — **elf Tage** nach
+  der Bestellung
+
+**09.09. 12:27, Betreff „7190":**
+
+> „I ordered these several weeks ago as I have had little update re delivery
+> other than **it's now coming from another country**. I would like to request a
+> full refund with immediate effect. **The original order was UK based and
+> delivery was 4-5 working days, then I am emailed telling me that was not the
+> case** and delivery would take longer. I still have not received the order so
+> am requesting **as not the original agreement** a full refund.
+> You can issue the refund directly into the account from where it came and will
+> **expect this done by close of business today**."
+
+### Warum das ein eigener Fall ist
+
+Alle bisherigen ~68 Streitfälle drehen sich um die **Haltbarkeit**. Dieser
+dreht sich um die **Lieferbedingungen zum Zeitpunkt des Kaufs**: er sagt, es
+sei „UK based" mit „4-5 working days" verkauft worden, und die Änderung sei ihm
+erst **nachträglich per Mail** mitgeteilt worden.
+
+Diese Mail gibt es tatsächlich, und sie geht regelmäßig raus. Wortlaut aus dem
+Postfach (u. a. an #5036 Lynette Lumley am 18.08., #7771 Barb Fitzgerald am
+01.09., #6116 Sharron Hodges am 31.08., #6044 Greg Williams am 03.09.):
+
+> „Our **UK warehouse is currently sold out**, so your order was shipped from
+> our **international warehouse**."
+
+**Er ist der erste, der daraus einen Anspruch ableitet**, statt nur nachzufragen.
+Sein Punkt ist nachvollziehbar: elf Tage bis zum Versand, danach internationaler
+Transport — das ist etwas anderes als 4–5 Werktage aus einem UK-Lager.
+
+### Einordnung
+
+**Kein Fall der drei Regeln.** Nicht defekt angekommen (Regel 1), nicht
+unbenutzt zurückgegeben (Regel 2), und die Stornierung kommt **nach** dem
+Versand (Regel 3). Der Bot darf ihm die Erstattung **nicht** zusagen.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund (nur fürs Log):** bestrittene Zusage aus dem Kaufvorgang
+(Lieferzeit und Lieferland), Fristsetzung („close of business today"). Das
+berührt die Angaben im Shop selbst, nicht die Rückgabepolicy — das kann der
+Support nicht entscheiden.
+
+**Was sagbar ist:** Versanddatum **02.09.**, Yanwen, `UL476311114YP`, und
+offen, dass zwischen Zahlung und Versand elf Tage lagen. **Kein Zustelldatum,
+keine Erstattungszusage, und keine Bestätigung seiner Frist.**
+
+**Was zu prüfen ist:** Welche Lieferzeit und welches Versandland standen bei
+seiner Bestellung am 22.08. auf der Produkt-/Checkout-Seite? Das entscheidet
+seinen Fall — und den aller anderen, die dieselbe „UK warehouse sold out"-Mail
+bekommen haben. **Das ist der zweite Website-Text nach „With replacement
+guarantee" (#6259, heute früh), an dem sich ein Kunde festmacht.**
+
+**Nicht in der Erstattungsliste** — er fällt unter keine Regel; 27,95 £ wären
+eine Owner-Entscheidung.
+
+### Kein Support-Fall
+
+**`marketing-responses@klaviyo.com`** (13:14) — Newsletter des
+E-Mail-Marketing-Anbieters („Your latest benchmarks are in"). → `Bot/No Action`.
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine Fristzusage,
+kein Text rekonstruiert.
