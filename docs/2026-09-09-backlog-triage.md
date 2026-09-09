@@ -752,3 +752,91 @@ E-Mail-Marketing-Anbieters („Your latest benchmarks are in"). → `Bot/No Acti
 
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine Fristzusage,
 kein Text rekonstruiert.
+
+---
+
+## Lauf 14:25 UTC — 🚩🚩🚩 #5316 David Andrews: elf Vorlagen-Absagen, drei davon **nach** dem Chargeback
+
+Der schwerwiegendste Einzelbefund dieser Logs. Ich habe den vollständigen Thread
+gelesen (24 Nachrichten) — bisher war nur der Anfang erfasst.
+
+**Shopify, geprüft 09.09. 14:2x UTC:**
+
+- **#5316**, bestellt **09.08. 16:37 UTC**, **27,95 £**
+- **Shopify-Status: `PAID` / `FULFILLED`** — versandt 13.08., Yanwen
+  `UL418695131YP`, Kidderminster DY10 2UR
+
+### 🔧 Korrektur an meinen eigenen Logs
+
+Im Log vom **06.09.** steht: „#5316 … **Seit dem 26.08. unbeantwortet.**" Im
+englischen Tagesreport von heute früh steht dasselbe: „*unanswered since
+26.08.*"
+
+**Beides ist falsch.** Die Angabe stammte aus `search_threads`, das nur die
+**fünf ältesten** Nachrichten eines Threads anzeigt. `get_thread` zeigt das
+Gegenteil: der Thread ist **nicht unbeantwortet** — er ist **elfmal** beantwortet
+worden, jedes Mal mit derselben Vorlage.
+
+### Der tatsächliche Verlauf
+
+| Nr. | Absage aus dem Postfach | Antwort des Kunden |
+|---|---|---|
+| 1 | 25.08. 10:08 | 25.08. 11:31 — „You marketed this as an **indestructible** dog toy. Refund the full amount now." |
+| 2 | 26.08. 18:03 | 26.08. 18:07 — „…which is a lie, what is worse is that **you know it is**" |
+| 3 | 28.08. 11:35 | 28.08. 11:37 — „No I require a full refund **NOW**" |
+| 4 | 30.08. 12:23 | 30.08. 15:34 — „You are **scammers**… **My bank will pursue you**" |
+| 5 | 01.09. 11:53 | 01.09. 11:54 — „No - you will be refunding 100 %" |
+| 6 | 02.09. 14:29 | 02.09. 14:40 — „You have **misrepresented the goods** and used **misleading advertising statements** to generate sales that would otherwise not have happened" |
+| 7 | 04.09. 09:23 | 04.09. 10:11 — „You will need to refund 100 %" |
+| 8 | 05.09. 08:27 | 05.09. 08:33 — „**You are disgusting scammers**" |
+| 9 | 06.09. 16:59 | **06.09. 17:02 — „Sorry, 100 %. The bank have refunded me"** |
+| 10 | **08.09. 07:59** | 08.09. 08:01 — „Arrange a full refund **today**" |
+| 11 | **09.09. 11:05** | **09.09. 13:49 — „this is unacceptable… I require a full refund"** |
+
+### Die drei Punkte, die zählen
+
+**1. Der Chargeback ist bereits durch.** Am **06.09. 17:02** hat er mitgeteilt:
+**„The bank have refunded me."** In Shopify steht die Bestellung trotzdem
+weiterhin auf **`PAID`** — der Rückbuchung ist im System nichts zugeordnet.
+Entweder ist sie noch nicht durchgereicht, oder sie ist übersehen worden. **Das
+gehört heute im Zahlungsanbieter geprüft**, denn ein bereits erstatteter Betrag
+kann sonst versehentlich ein zweites Mal ausgezahlt werden.
+
+**2. Nach dieser Mitteilung sind noch zwei weitere Absagen rausgegangen** —
+08.09. 07:59 und 09.09. 11:05. Beide erklären ihm die Rückgabepolicy für einen
+Betrag, den seine Bank ihm bereits zurückgebucht hat. Das ist nicht nur
+wirkungslos, es hält einen abgeschlossenen Vorgang künstlich offen.
+
+**3. Elf identische Absagen an einen Fall mit drei Eskalationstriggern.** Er
+hat die Werbeaussage bestritten (25.08.), „misrepresented the goods" und
+„misleading advertising" ausdrücklich benannt (02.09.) und den Chargeback
+angekündigt (30.08.). Nach `support-policy.md` hätte der Fall spätestens am
+25.08. an den Owner gehen müssen. Stattdessen ist die Vorlage **elfmal**
+verschickt worden — die letzte heute Vormittag, im selben Block wie die
+Absagen an #6044, #4273, #3344, #6213 und #5973.
+
+### Einordnung
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund (nur fürs Log):** vollzogener Chargeback, bestrittene
+Werbeaussage, ausdrücklicher Vorwurf der Falschdarstellung, **elf**
+Vorlagen-Absagen, davon **drei nach** der Mitteilung über die Rückbuchung.
+
+**Keine zwölfte Absage.** Es gibt hier nichts mehr zu verweigern — das Geld ist
+nach seiner Angabe bereits zurück. Die einzige sinnvolle Handlung ist, den
+Zahlungsstatus zu prüfen und den Thread zu schließen.
+
+**Nicht in der Erstattungsliste** — Kauschaden, und die Rückbuchung ist nach
+seiner Angabe bereits erfolgt. **27,95 £ auf keinen Fall ein zweites Mal
+auszahlen, bevor der Zahlungsanbieter geprüft ist.**
+
+### Was daraus für die anderen Fälle folgt
+
+`search_threads` zeigt nur die fünf ältesten Nachrichten. Überall dort, wo in
+diesen Logs „seit dem … unbeantwortet" steht und der Befund **nicht** durch
+`get_thread` bestätigt wurde, kann dasselbe passiert sein. **Zu prüfen sind
+insbesondere:** #4919 Em Gregg, #4829 Valerie, #4792 countrygal2473,
+Carolyn Marmalejo (#4812), Ann Price (#2228), Adam Sellens, #3310 Tim Carroll.
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, kein Text
+rekonstruiert. **Insbesondere keine zweite Erstattung für #5316 veranlasst.**
