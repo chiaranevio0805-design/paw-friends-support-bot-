@@ -246,3 +246,109 @@ Spam gelandet, oder der Satz ist Teil der Vorlage. Kein Handlungsbedarf, aber
 es passt zum Muster der übrigen fünf, die alle dieselbe Form haben.
 
 Nicht geantwortet, nichts angeklickt.
+
+---
+
+## Lauf 07:20 UTC — 🚩🚩 #6259 Nick Tarrant: Trading Standards, weil eine Frage zweimal nicht beantwortet wurde
+
+Das ist der schwerste Vorgang seit gestern früh — und er korrigiert zugleich
+den Befund von gestern.
+
+**Shopify, geprüft 09.09. 07:2x UTC:**
+
+- **#6259**, bestellt **15.08. 18:37 UTC**, **29,95 £**, `PAID` / `FULFILLED`
+- 2 × Plushie (pig, monkey) — „BUY 1 AND GET 1 FREE"
+- Versandt **22.08. 01:59 UTC**, Yanwen, `UL442893702YP`, Lichfield WS13 6US
+- Kunde: **DR NICHOLAS TARRANT**
+
+### Der Verlauf
+
+- **03.09. 06:22** — Foto beigefügt: „In 5 mins, my female greyhound had torn
+  off an ear and exposed the stuffing. I'd like to request a refund as these
+  are **meant to be extra strong**."
+- **04.09. 13:17 aus dem Postfach** — **erste** Vorlagen-Absage (Kauschaden).
+- **05.09. 14:48 Nick**, eine einzige, präzise Frage:
+
+  > „Your website mentions '**With replacement guarantee**'. **I'm keen to hear
+  > what this means?**"
+
+- **08.09. 08:23 aus dem Postfach** — **zweite** Vorlagen-Absage. Sie beginnt
+  mit „**As explained**…", wiederholt die 30-Tage-Regel und schreibt:
+
+  > „We appreciate your concerns regarding the product's durability **and the
+  > wording used in our advertising**… Unfortunately, we're unable to provide a
+  > refund, **replacement**, or exchange…"
+
+  **Seine Frage nach der Ersatzgarantie wird mit keinem Wort beantwortet.** Die
+  Antwort räumt sogar ein, dass es um die Werbeformulierung geht — und geht
+  dann nicht darauf ein.
+
+- **09.09. 06:54 Nick:**
+
+  > „I'm not sure I really got an answer about my question about the replacement
+  > guarantee? **I will be asking Trading Standards for their view as I think
+  > this is deeply misleading.**"
+
+### 🔧 Korrektur am Log vom 08.09.
+
+Im gestrigen Eintrag „Bilanz des Tages" steht, es seien **vier** Antworten aus
+dem Postfach gegangen (07:57, 07:58, 07:58, 08:25). **Das war unvollständig.**
+Um **08:23** ging eine fünfte an Nick Tarrant — zwei Minuten vor der an Matt
+Pinnock. Ich habe sie im 09:17-Lauf nicht erfasst, weil der Thread damals nicht
+in der Trefferliste stand.
+
+**Richtig ist:** Am 08.09. sind zwischen 07:57 und 08:25 **fünf**
+Vorlagen-Antworten rausgegangen. **Vier davon haben inzwischen eskaliert:**
+
+| Zeit | Kunde | Reaktion | Abstand |
+|---|---|---|---|
+| 07:57 | Vicky Blow (#7610) | Erstattungsforderung bekräftigt | 57 Min. |
+| 07:58 | Rena Barnes (#4940) | bisher keine | — |
+| 07:58 | Meredith Spicer (#6213) | Bewertung + **Better Business Bureau** | 6 Std. |
+| **08:23** | **Nick Tarrant (#6259)** | **Trading Standards** | **22 Std.** |
+| 08:25 | Matt Pinnock (#6606) | Bewertungsankündigung | 9 Min. |
+
+### Warum dieser Fall anders liegt als die übrigen
+
+Bei #6213, #6606, #4829 und #4792 ging es um **Werbeaussagen in Anzeigen**.
+Nick Tarrant zitiert etwas, das **auf der Website selbst** steht: „With
+replacement guarantee". Er hat nicht argumentiert und nicht gedroht — er hat
+**eine sachliche Frage gestellt**, was diese Zusage bedeutet. Diese Frage ist
+zweimal unbeantwortet geblieben. Erst danach hat er Trading Standards genannt.
+
+Nach `support-policy.md` ist eine Ersatzgarantie **nicht Teil des Regelwerks**.
+Damit steht die Website-Zusage gegen die Policy, und niemand im Support kann
+sie beantworten, ohne dass der Owner entscheidet, was gilt.
+
+**Er ist der dritte Kunde, der auf diese Antwort wartet:**
+
+| Datum | Kunde | Beleg |
+|---|---|---|
+| 14.08. | **Adam Sellens** | hat die Anzeige mitgeschickt; am 15.08. „an unser Team weitergegeben"; seit 25.08. nichts |
+| 18.08. | **Gary Sanderson** | dieselbe Ersatzzusage aus der Anzeige |
+| 05.09. | **Nick Tarrant (#6259)** | **Zusage steht auf der Website**, zweimal nicht beantwortet, jetzt Trading Standards |
+
+**Dritte Trading-Standards-Nennung** nach Jason Branch und Valerie (#4829).
+
+### Einordnung
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund (nur fürs Log):** Behörde eingeschaltet, bestrittene
+Werbeaussage, **zwei** Vorlagen-Absagen auf einen Eskalationsfall, eine direkte
+Frage zweimal unbeantwortet.
+
+**Keine dritte Absage.** Was er verlangt, ist keine Erstattung, sondern eine
+**Auskunft**: was die auf der Website beworbene Ersatzgarantie bedeutet. Solange
+der Owner das nicht entschieden hat, ist die einzige ehrliche Antwort, dass die
+Frage an den Inhaber gegangen ist — **ohne** die Regel ein drittes Mal zu
+zitieren und **ohne** eine Ersatzlieferung zuzusagen, die es im Regelwerk nicht
+gibt.
+
+**Kein Erstattungsfall nach der Regel** (Kauschaden). Er steht deshalb **nicht**
+auf der Erstattungsliste — die 29,95 £ wären eine Owner-Entscheidung, keine
+Regelfolge.
+
+**Vordringlich:** Die Website-Formulierung „With replacement guarantee" gehört
+geprüft, bevor der nächste Kunde danach fragt. Sie ist der Auslöser dieses
+Falls, und es ist der erste, in dem eine Zusage **aus dem eigenen Shop** — nicht
+aus einer Anzeige — bestritten wird.
