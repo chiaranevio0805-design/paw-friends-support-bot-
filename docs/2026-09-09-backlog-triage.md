@@ -994,3 +994,87 @@ Erstattung den Zahlungsstatus prüfen (siehe #5316, wo genau das versäumt wurde
 
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine Ersatzzusage,
 kein Text rekonstruiert.
+
+---
+
+## Lauf 18:20 UTC — 🚩 #7771 Barb Fitzgerald: Frist von 24 Stunden, und die Nummer liegt seit sechs Tagen bereit
+
+Der Fall stand seit gestern als `Bot/Needs Approval` im Log, mit dem Vermerk,
+dass ihr am 01.09. „**has been shipped**" geschrieben wurde, obwohl die Sendung
+erst am **03.09.** angelegt wurde. Heute ist er eskaliert.
+
+**Shopify (unverändert, geprüft 08.09.):**
+
+- **#7771**, bestellt **25.08. 17:54 UTC**, **28,52 £**, `PAID` / `FULFILLED`
+- Versandt **03.09. 07:47 UTC**, 4PX Economic Registered,
+  **`4PX3003124889886CN`**, Madison (US)
+
+### Der vollständige Verlauf
+
+- **30.08. 16:23** — höflich, **und bereits mit Zahlungsvorbehalt**:
+
+  > „I wanted to check in regarding my order #7771… **If I don't hear back from
+  > you soon, I may need to reach out to my credit card company to inquire about
+  > reversing the charges of $38.87.**"
+
+  **Dieser Satz stand von Anfang an im Thread.** Nach `support-policy.md` war der
+  Fall damit schon am 30.08. ein Eskalationsfall — er ist als Lieferanfrage
+  behandelt worden.
+
+- **01.09. 11:53 aus dem Postfach:**
+
+  > „I can confirm that order #7771 **has been shipped and is currently on the
+  > way**. Our UK warehouse is currently sold out… Delivery usually takes
+  > **7–21 days**… Your parcel is currently progressing through the delivery
+  > network."
+
+  Drei Aussagen, drei Probleme: **die Sendung existierte noch nicht** (angelegt
+  erst am 03.09.); „progressing through the delivery network" war damit
+  ebenfalls unbelegt; und **eine Sendungsnummer wurde nicht genannt.**
+
+- **08.09. 15:49** — „I have not received my order yet… Very disappointed in how
+  long it is taking." Unbeantwortet.
+
+- **09.09. 17:58:**
+
+  > „Where is my order? **I have no way of tracking it.** I am wearing thin on
+  > this issue as **you people seem to be evading this order issue**. Please let
+  > me know status. **If I get no reply from you within a day I will contact my
+  > credit card company and dispute the charge.**"
+
+### Der Kern
+
+**„I have no way of tracking it" ist zutreffend — und vermeidbar.** Die Nummer
+`4PX3003124889886CN` liegt seit dem **03.09.**, also seit **sechs Tagen**, in
+Shopify. Sie hat dreimal geschrieben und sie nie bekommen.
+
+Das ist derselbe Befund wie bei **#6751 Jonathan Pizzo** (Nummer seit sechs
+Tagen im System, zweimal danach gefragt), **#8295 Ivan Griffen**, **#6199
+Maggie Smith**, **#6872 Dorothy Rysh** und **#6044 Greg Williams** — der
+**sechste** Fall, in dem vorhandene Versandinformation den Kunden nicht
+erreicht. Bei Barb Fitzgerald hat es jetzt zu einer Rückbuchungsfrist geführt.
+
+**Siebte Zahlungsstreitigkeit** nach #3310, #5111, #5316 (vollzogen), #6173,
+#4273 (heute 10:34) und #5851 (heute 16:39, PayPal). **Drei davon allein
+heute.**
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund (nur fürs Log):** dritter Kontakt, angekündigter Chargeback
+mit **24-Stunden-Frist**, Vorwurf des Ausweichens, dazu eine nachweislich
+unzutreffende Versandauskunft vom 01.09.
+
+**Was sagbar ist — und heute gesagt werden sollte:** Versanddatum **03.09.**,
+4PX, **`4PX3003124889886CN`**,
+`https://t.17track.net/en#nums=4PX3003124889886CN`. Das beantwortet ihre
+eigentliche Frage und ist der einzige Punkt, an dem dieser Fall noch zu drehen
+ist.
+**Kein Zustelldatum. Keine Wiederholung der 7–21-Tage-Formel** — die ist am
+01.09. schon einmal gegeben worden und ist inzwischen abgelaufen. **Ihre Frist
+nicht bestätigen.**
+
+**Nicht auf der Erstattungsliste** — die Ware ist unterwegs, kein Regelfall.
+Ob 28,52 £ erstattet werden, entscheidet der Owner; bei einer Rückbuchung
+**vorher den Zahlungsstatus prüfen** (siehe #5316).
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine Fristzusage,
+kein Zustelldatum, kein Text rekonstruiert.
