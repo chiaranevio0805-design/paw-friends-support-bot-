@@ -1078,3 +1078,77 @@ Ob 28,52 £ erstattet werden, entscheidet der Owner; bei einer Rückbuchung
 
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine Fristzusage,
 kein Zustelldatum, kein Text rekonstruiert.
+
+---
+
+## Lauf 19:20 UTC — ✅ #7559 Rod Smith erledigt, und eine Korrektur an meinem eigenen Befund
+
+### #7559 Rod Smith — freundlich abgeschlossen
+
+- **09.09. 11:09 aus dem Postfach:** Liefer-Vorlage.
+- **09.09. 18:18 Rod Smith:**
+
+> „Lisa, thanks for the explanation, **I will just wait**. So will Gracie,
+> (**indestructible toy destroyer**). 🐶 If ever you need a **test puppy**, just
+> ask!!"
+
+Zweiter positiv abgeschlossener Fall des Tages nach #7114 Geoffrey Russell.
+Bemerkenswert: auch er kennt die Werbeaussage und macht einen Witz daraus,
+statt sie zu bestreiten.
+
+### 🔧 Korrektur zum Eintrag von 12:20 UTC
+
+Dort steht über #7114 Geoffrey Russell: „**der einzige, der keine
+Vorlagen-Absage war, sondern eine Auskunft**… wenn die Information kommt, ist
+der Fall erledigt."
+
+**Das war falsch, und ich habe es erst jetzt nachgeprüft.** Ich habe beide
+Antworten im Volltext gelesen:
+
+- **#7559 (11:09)** und **#7114 (11:18)** sind **dieselbe Liefer-Vorlage**,
+  Wort für Wort: „your order has been shipped and is currently on the way. Our
+  **UK warehouse is currently sold out**… Delivery usually takes **7–21 days**…
+  Your parcel is currently progressing through the delivery network."
+- **Keine der beiden enthält eine Sendungsnummer.**
+- Es ist **exakt derselbe Text**, den **#7771 Barb Fitzgerald** am 01.09.
+  bekommen hat — und der bei ihr heute zu einer 24-Stunden-Frist für einen
+  Chargeback geführt hat.
+
+**Die richtige Schlussfolgerung ist eine andere:** Nicht die Auskunft hat den
+Fall gelöst, sondern der Umstand, dass Rod Smith die Sendungsnummer
+**`UL478624089YP` bereits selbst hatte** — sie stand in der
+Shopify-Versandbenachrichtigung, die er zitiert hat. Und dass beide Kunden
+geduldig sind.
+
+### Was sich daraus tatsächlich ablesen lässt
+
+Am 09.09. sind aus dem Postfach **acht** Vorlagen-Antworten gegangen:
+
+| Vorlage | Empfänger | Ergebnis |
+|---|---|---|
+| **Kauschaden-Absage** (6×) | #6044, #4273, #3344, #5316, #5973, #6213 | **6 von 6 eskaliert** — Werbeänderung verlangt, „false advertising", Chargeback, Presse, „dumb" |
+| **Liefer-Vorlage** (2×) | #7114, #7559 | **2 von 2 freundlich abgeschlossen** |
+
+**Aber:** Dieselbe Liefer-Vorlage hat bei **#7771 Barb Fitzgerald** versagt —
+weil sie sie am 01.09. schon einmal bekommen hatte. Beim **Erstkontakt**
+beruhigt sie; beim **Zweit- oder Drittkontakt** wirkt sie als Ausweichen
+(„you people seem to be evading this order issue").
+
+Und sie enthält **drei Aussagen, die nicht durchgängig belegt sind**:
+„is currently on the way" (bei #7771 und #7274 zum Sendezeitpunkt unwahr),
+„7–21 days" (eine Zustellprognose — bei #7043 dreimal gerissen),
+„progressing through the delivery network" (steht in Shopify nirgends).
+
+→ Der Unterschied liegt **nicht** darin, dass eine Vorlage informiert und die
+andere ablehnt. Beide enthalten keine belastbare Information. Der Unterschied
+ist, dass die Liefer-Vorlage beim ersten Mal auf Geduld trifft — und dass sie
+diese Geduld beim zweiten Mal aufbraucht.
+
+**Was daraus folgt:** Die Sendungsnummer gehört in jede Lieferantwort. Sie steht
+in Shopify, sie ist belegt, und sie ist das Einzige an dieser Vorlage, das dem
+Kunden tatsächlich hilft. Bei #7771, #6751, #8295, #6199, #6872 und #6044 ist
+sie nicht genannt worden — bei zweien davon steht inzwischen eine Rückbuchung
+im Raum.
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, kein Text
+rekonstruiert.
