@@ -222,3 +222,27 @@ Fünfte Mail dieser Art nach `haminexpert01@` (01.09.), `yomtech006@` (06.09.),
 
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, kein Text
 rekonstruiert, keine Rücksendeadresse erfunden, kein Verschlucken unterstellt.
+
+---
+
+## Lauf 06:20 UTC — `haiweimaoyi0814@gmail.com`, Akquise (Zweitkontakt)
+
+**05:18**, Betreff „A few product ideas for Paw-Friends":
+
+> „I just wanted to **follow up on my previous message**. I came across
+> Paw-Friends and really liked your focus on durable, high-quality products for
+> dogs…"
+
+Lieferanten- bzw. Agenturakquise, kein Support-Fall. → `Bot/No Action`, keine
+Antwort.
+
+**Sechste Mail dieser Art** seit dem 01.09.: `haminexpert01@` (01.09.),
+`yomtech006@` (06.09.), `kejiconsult@` (08.09.), `abolajiyus21@` (08.09.),
+`stephanixtech10@` (09.09.), jetzt diese. Fünf davon in den letzten drei Tagen.
+
+**Nebenbefund:** Sie schreibt „follow up on my **previous** message" — eine
+erste Mail dieser Adresse ist im Postfach nicht auffindbar. Entweder ist sie im
+Spam gelandet, oder der Satz ist Teil der Vorlage. Kein Handlungsbedarf, aber
+es passt zum Muster der übrigen fünf, die alle dieselbe Form haben.
+
+Nicht geantwortet, nichts angeklickt.
