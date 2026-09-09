@@ -923,3 +923,74 @@ soll sie sich melden — das ist bei diesem Zusteller schon zweimal vorgekommen.
 
 **Nicht getan:** kein Entwurf, kein Label, **keine Zustellprognose**, kein Text
 rekonstruiert.
+
+---
+
+## Lauf 17:20 UTC — 🚩 #5851 Jeff Williams: die Ersatzgarantie zum vierten Mal, dazu PayPal
+
+**16:39**, Betreff „**Cheap, cheap, cheap**":
+
+> „**Still waiting for my reply to my first email.** Your company stated it
+> **would replace any toy destroyed** like these are in any way a tough toy…
+> These are cheap junk. Dog tore **two of the three** up the **very first day**.
+> Nothing tough about these cheap toys. Guess your company is a **fraud** like
+> the toys you peddle.
+> **Will be contacting PayPal about reversing this charge.**"
+
+**Shopify, geprüft 09.09. 17:2x UTC:**
+
+- **#5851**, bestellt **12.08. 21:22 UTC**, **44,03 £**, `PAID` / `FULFILLED`
+- 1 × Zahnbuddy „Blue Mop Plush Dog" + 2 × Plushie (fox, donkey)
+- Versandt **25.08. 01:42 UTC** — **dreizehn Tage** nach der Bestellung
+- JQ Express US, `JCHSG0000004274082`, Cedar Park, Texas
+
+### Vier Punkte, alle einzeln relevant
+
+**1. Die Ersatzgarantie — zum vierten Mal.** „Your company stated it would
+**replace any toy destroyed**". Damit sind es vier Kunden, die sich auf eine
+Ersatzzusage berufen, die in `support-policy.md` **nicht existiert**:
+
+| Datum | Kunde | Quelle der Zusage |
+|---|---|---|
+| 14.08. | Adam Sellens | Anzeige mitgeschickt |
+| 18.08. | Gary Sanderson | Anzeige |
+| 05.09. | **Nick Tarrant (#6259)** | **Website** — heute 06:54 Trading Standards |
+| **09.09.** | **Jeff Williams (#5851)** | „your company stated" |
+
+**Nick Tarrant hat heute früh genau wegen dieser Frage Trading Standards
+eingeschaltet.** Jeff ist der zweite an einem Tag. Der Punkt aus dem
+07:20-Eintrag steht damit doppelt: **die Formulierung gehört heute geprüft.**
+
+**2. Erstkontakt unbeantwortet.** „Still waiting for my reply to my first
+email" — im Postfach ist unter dieser Adresse **kein früherer Thread**
+auffindbar. Entweder ist die erste Mail im Papierkorb gelandet (wie bei #3988
+Dominic Higney und Ann Price, beide belegt) oder im Spam. **`in:trash` und
+`in:spam` gehören für diese Adresse geprüft**, bevor ihm geantwortet wird —
+sonst ist die Antwort auf einen Vorwurf, dessen Grundlage man nicht kennt.
+
+**3. PayPal-Rückbuchung angekündigt** — die **sechste** Zahlungsstreitigkeit
+nach #3310, #5111, #5316 (bereits vollzogen), #6173 (Bank) und #4273 (heute
+Vormittag, Kreditkarte). Die erste über PayPal.
+
+**4. Dreizehn Tage bis zum Versand**, und er hat drei Artikel bestellt, von
+denen zwei am ersten Tag kaputtgingen.
+
+### Einordnung
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund (nur fürs Log):** unbeantworteter Erstkontakt (Zweitkontakt),
+bestrittene Werbe-/Ersatzzusage, Betrugsvorwurf, angekündigte
+Zahlungsrückbuchung.
+
+**Keine Vorlagen-Absage.** Sie würde hier zusätzlich die Ersatzgarantie
+übergehen — genau der Fehler, der bei #6259 zu Trading Standards geführt hat,
+und zwar heute.
+
+**Nicht in der Erstattungsliste:** Kauschaden fällt unter keine der drei Regeln.
+Ob die beworbene Ersatzlieferung gilt, ist eine **Owner-Entscheidung** und
+betrifft alle vier Fälle gemeinsam. **44,03 £ nicht zusagen**, solange das offen
+ist — und wegen der angekündigten PayPal-Rückbuchung **vor** einer etwaigen
+Erstattung den Zahlungsstatus prüfen (siehe #5316, wo genau das versäumt wurde).
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine Ersatzzusage,
+kein Text rekonstruiert.
