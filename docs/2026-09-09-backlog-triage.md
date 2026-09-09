@@ -840,3 +840,48 @@ Carolyn Marmalejo (#4812), Ann Price (#2228), Adam Sellens, #3310 Tim Carroll.
 
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, kein Text
 rekonstruiert. **Insbesondere keine zweite Erstattung für #5316 veranlasst.**
+
+---
+
+## Lauf 15:20 UTC — #4851 Sally O'Connor
+
+**15:07**, Betreff: „**Designed for pets that destroy everything**" — sie
+verwendet den **Produktnamen als Betreffzeile**:
+
+> „We received these this week and they are **already destroyed**. Can we request
+> a full refund as we have **waited a very long** [time] for these and within
+> days completely destroyed."
+
+**Shopify, geprüft 09.09. 15:2x UTC:**
+
+- **#4851**, bestellt **07.08. 06:12 UTC**, **27,95 £**, `PAID` / `FULFILLED`
+- 2 × Plushie (pig, Duck)
+- Versandt **22.08. 01:34 UTC**, Yanwen, `UL442893177YP`
+
+**Zwei Sachverhalte in einer Mail:**
+
+1. **Kauschaden** — nach der Regel **keine Erstattung**. Sie schreibt „already
+   destroyed", ohne einen Defekt bei Ankunft zu behaupten.
+2. **Wartezeit** — und die ist belegt: **15 Tage** zwischen Bestellung (07.08.)
+   und Versand (22.08.), danach weitere zwei Wochen bis zur Ankunft „this week".
+   Insgesamt **rund einen Monat**. Ihr „we have waited a very long time" ist
+   sachlich richtig und darf nicht bestritten werden.
+
+Die Betreffzeile ist der eigentliche Punkt: sie zitiert den **Produktnamen aus
+dem Shop** („Designed for Furry Friends Who Destroy Everything") gegen das
+Produkt. Das ist **der dritte Shop-eigene Text an einem Tag**, an dem sich ein
+Kunde festmacht — nach „With replacement guarantee" (#6259, 06:54) und der
+Lieferzusage „UK based, 4-5 working days" (#7190, 12:27). Anders als bei den
+Anzeigen kann hier niemand einwenden, das stehe nur in der Werbung: **es ist der
+Name des Artikels auf der Rechnung.**
+
+→ `Bot/Needs Approval`. Nach dem heutigen Befund (elf Vorlagen-Absagen an
+#5316, acht Rückläufer aus zehn Absagen seit gestern) **keine Vorlagen-Absage**.
+Die Antwort muss beides trennen: die Wartezeit **einräumen** — sie ist belegt —
+und die Kauschaden-Regel **erklären**, statt sie nur zu zitieren.
+
+**Nicht auf der Erstattungsliste** — Kauschaden fällt unter keine der drei
+Regeln.
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung zugesagt, kein Text
+rekonstruiert, die Wartezeit nicht kleingeredet.
