@@ -205,3 +205,110 @@ Regeln.
 
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, kein Verschlucken
 unterstellt, kein Text rekonstruiert.
+
+---
+
+## Lauf 03:20 UTC — 🚩🚩🚩 zwei schwere Fälle
+
+### 🚩🚩🚩 #8253 Tim Kipling — Storno bestätigt, Erstattung bestätigt, Ware trotzdem versandt, Geld nie zurück
+
+**Der gravierendste Vorgang in diesen Logs.** Drei schriftliche Zusagen, keine
+davon eingehalten.
+
+**Shopify, geprüft 10.09. 03:2x UTC:**
+
+- **#8253**, bestellt **30.08. 13:18 UTC**, **44,04 £**
+- **Status: `PAID` / `FULFILLED`** — **keine Erstattung im System**
+- **Versandt 08.09. 07:45 UTC**, 4px US, `4PX3003140315567CN`
+- 1 × Zahnbuddy + 2 × Plushie (monkey, Duck), Chula Vista, Kalifornien
+
+**Der Verlauf, vollständig:**
+
+| Zeit | Ereignis |
+|---|---|
+| **30.08. 13:18** | Bestellung |
+| **30.08. 14:31** | **Storno nach 73 Minuten:** „Please cancel my order and **do not ship the product**… I have notified my bank to stop payment." |
+| **01.09. 11:49** | Aus dem Postfach: *„We can confirm that your order **has been cancelled as requested**. **The product will not be shipped**."* |
+| **01.09. 19:35** | Kunde: „Per your email you stated that this order was canceled and I would not be charged. **You have since charged me**, have not canceled order — as per the email I received stating it was being shipped…" |
+| **03.09. 09:54** | Aus dem Postfach: Entschuldigung für „the confusion" |
+| **04.09. 23:46** | Kunde: „**When will I see my refund**… It appears that you are making **no effort** to refund my funds." |
+| **06.09. 09:53** | Aus dem Postfach: *„I can confirm that your **refund has now been processed** to your original payment method."* |
+| **08.09. 07:45** | **Shopify: Sendung angelegt und verschickt** — **zwei Tage nach der Erstattungsbestätigung**, zehn Tage nach dem Storno |
+| **10.09. 02:23** | Kunde: „**This is my last request before I turn this over as a fraudulent transaction to the Fraud Department of the Better Business Bureau and Commerce Department.**" |
+
+### Was hier belegt ist
+
+1. **Das Storno kam 73 Minuten nach der Bestellung** — es gab kein
+   Zeitfenster-Problem. **Regel 3** greift eindeutig.
+2. **Die Stornierung wurde schriftlich bestätigt** („will not be shipped") und
+   **nicht ausgeführt**.
+3. **Die Erstattung wurde schriftlich bestätigt** („has now been processed") und
+   **ist in Shopify nicht vorhanden** — der Status steht unverändert auf `PAID`.
+   Das ist der **zweite** Fall dieser Art nach **#5841** (Log 01.09.).
+4. **Die Ware ist zwei Tage nach der Erstattungsbestätigung rausgegangen.**
+
+**Siebter Fall des Musters** „storniert verlangt, nicht storniert, Ware raus":
+#4617, #3944, #4212, #5474, #6173, #6870, **jetzt #8253** — und der einzige, bei
+dem zusätzlich eine Erstattung fälschlich als erledigt gemeldet wurde.
+
+→ `Bot/Escalated - Owner Attention`, **höchste Priorität, noch vor #4975**.
+**Eskalationsgrund (nur fürs Log):** Betrugsvorwurf mit angekündigter Meldung an
+**BBB Fraud Department** und **Commerce Department**, zwei nicht eingehaltene
+schriftliche Zusagen, laufende Bankmeldung, fünfter Kontakt.
+
+**⚠️ ERSTATTUNG: 44,04 £, Regel 3 — vor Versand storniert.** Sie ist ihm am
+06.09. schriftlich bestätigt worden. Bis sie tatsächlich ausgeführt ist, steht
+eine schriftliche Zusage unerfüllt im Raum — das ist der Kern seines
+Betrugsvorwurfs. **Keine weitere Zusage senden, bevor die Zahlung im
+Zahlungsanbieter sichtbar ist.**
+
+**Nicht senden:** irgendeine Bestätigung, dass die Erstattung „bearbeitet wird".
+Genau dieser Satz steht seit dem 06.09. im Thread und ist der Grund für seine
+letzte Mail.
+
+### 🚩 #7292 Tracy Hartley — ein Etikett wurde verschluckt
+
+**03:10**, weitergeleitete Bestellbestätigung:
+
+> „My order took **18 days to arrive** and less than 20 minutes for my dog to
+> destroy the Pig. I looked at the sales page and **don't find any mention of
+> the fact that they have squeakers, which encourage aggression**. I would NEVER
+> buy a squeaker toy for any dog…
+> What is the **return procedure**? I will gladly return **the unopened duck**
+> and the pig that's missing an ear… and **the tag that my dog swallowed**
+> before I knew the toy was clearly NOT indestructible!
+> I've been so looking forward to these indestructible toys. **I feel so stupid
+> now.**"
+
+**Shopify:** **#7292**, bestellt **22.08. 23:53 UTC**, **28,50 £** (Kundin nennt
+**$38,90**), `PAID` / `FULFILLED`, 2 × Plushie (Duck, pig), versandt **02.09.
+10:58 UTC**, 4px US `4PX3003122374414CN`, Alhambra, Kalifornien.
+
+**Drei Punkte:**
+
+1. **🚩 „the tag that my dog swallowed" — ein tatsächlich verschlucktes Teil.**
+   Nicht „möglicherweise", nicht „könnte": sie berichtet es als geschehen. Das
+   ist die **zehnte** Meldung dieser Art und nach #6283 und Andy Sire der
+   **dritte bestätigte Verschluckungsvorgang**. Sicherheitsbefund.
+2. **Regel 2: „the unopened duck"** — ein Teil ist ungeöffnet, sie will es
+   zurückgeben und fragt ausdrücklich nach dem **Rückgabeverfahren**. **Es gibt
+   keine Rücksendeadresse** (offener Blocker seit 13.08.). Das gehört ihr
+   ehrlich gesagt.
+3. **Produktinformation:** Sie wirft vor, die **Quietscher** seien auf der
+   Verkaufsseite nicht erwähnt. Das ist **der vierte shop-eigene Text** in zwei
+   Tagen, an dem sich ein Kunde festmacht — nach „With replacement guarantee"
+   (#6259), der Lieferzusage (#7190) und dem Artikelnamen (#4851). Diesmal geht
+   es nicht um eine falsche Angabe, sondern um eine **fehlende**.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund (nur fürs Log):** bestätigter Verschluckungsvorfall,
+bestrittene Werbeaussage, Vorwurf fehlender Produktinformation,
+Rückgabeverlangen für unbenutzte Ware.
+
+**Erstattungsanspruch für den ungeöffneten Duck** — Anteil von 28,50 £, im Admin
+auf Positionsebene zu bestimmen. **Betragsdifferenz** (28,50 £ vs. $38,90) vor
+jeder Zusage klären — dritter Fall nach #4975 und #7179.
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine
+Rücksendeadresse erfunden, kein Betrag geschätzt, keine Zusage zu #8253
+wiederholt.
