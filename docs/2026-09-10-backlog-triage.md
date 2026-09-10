@@ -1146,3 +1146,51 @@ zu umgehen.
 
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, **kein weiteres
 Teilangebot**, keine Rücksendeadresse erfunden, kein Text rekonstruiert.
+
+---
+
+## Lauf 17:20 UTC — #7899 Anna Howie
+
+**17:09**, Betreff „My order":
+
+> „My order number is **#7899**. I have not received my order yet and **there is
+> no update in my order**. I would like to know when to expect my order."
+
+**Shopify, geprüft 10.09. 17:2x UTC:**
+
+- **#7899**, bestellt **27.08. 07:34 UTC**, **27,95 £**, `PAID` / `FULFILLED`
+- 2 × Plushie (elephant, donkey)
+- Versandt **03.09. 07:52 UTC** — **sieben Tage** nach der Bestellung
+- 4PX Economic Registered, `4PX3003125178279CN`
+- Fochabers, Schottland IV32 7JG
+
+Sachlich, ohne Vorwurf, ohne Erstattungsforderung. Sieben Tage bis zum Versand
+ist die **kürzeste** Liegezeit unter den heutigen Lieferanfragen (gegenüber
+zehn bei #7627, zwölf bei #7031 und #7001, sechzehn bei #4745).
+
+**„There is no update in my order"** — sie hat die Sendungsnummer aus der
+Versandbenachrichtigung und sieht keine Bewegung. Damit ist sie der **fünfte**
+Fall dieser Art, nach Robert Gagne, #6872 Dorothy Rysh, #7053 John Collins und
+**#7525 Carol Garvey** (heute 06:07, dieselbe Formulierung: „the tracking
+information hasn't been updated").
+
+**Sie ist außerdem die fünfte Kundin aus dem Versandstapel vom 03.09.** — nach
+#7559 Rod Smith, #7741 Linda Phillips, #7525 Carol Garvey und #7627 Charlotte
+Matthews. Von den beiden großen Versandtagen melden sich damit heute
+**sieben Kunden aus dem 02.09.-Stapel und fünf aus dem 03.09.-Stapel**.
+
+→ `Bot/Needs Approval` (nicht `Draft Ready`, aus demselben Grund wie bei #7525):
+Der Vorlagensatz „your parcel is currently **progressing through the delivery
+network**" wäre bei ihr **unbelegt** — genau das bestreitet sie.
+
+**Sagbar:** Versanddatum **03.09.**, Zusteller 4PX, Nummer
+`4PX3003125178279CN`, `https://t.17track.net/en#nums=4PX3003125178279CN`, und
+dass zwischen Bestellung und Versand sieben Tage lagen.
+**Nicht sagbar:** ein Zustelldatum, die 7–21-Tage-Formel (heute bei #7031
+nachweislich fällig geworden), oder dass die Sendung sich bewegt.
+
+**Nicht auf der Erstattungsliste** — Ware unterwegs, kein Regelfall, keine
+Forderung gestellt.
+
+**Nicht getan:** kein Entwurf, kein Label, keine Zustellprognose, nicht
+behauptet, die Sendung bewege sich, kein Text rekonstruiert.
