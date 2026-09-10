@@ -1439,3 +1439,79 @@ sieben Minuten später zu „ändert eure Werbung" geführt.
 
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine
 Vorlagen-Absage, kein Text rekonstruiert.
+
+---
+
+## Lauf 23:20 UTC — #8344 Jeff Goodner: die erste September-Bestellung im Beschwerdelauf
+
+**22:26**, Betreff „Product destroy", mit Anhang (7,6 MB):
+
+> „Hello, your product **did not last 1 hour**… **Have a good day**"
+
+**Shopify, geprüft 10.09. 23:2x UTC:**
+
+- **#8344**, bestellt **02.09. 02:31 UTC**, **28,50 £**, `PAID` / `FULFILLED`
+- 2 × Plushie (Duck, fox)
+- Versandt **04.09. 04:36 UTC** — **zwei Tage** nach der Bestellung
+- JQ Express US, `JCHSG0000004378164`, Long Beach, Kalifornien
+
+### Zwei Dinge, die dieser Fall zeigt
+
+**1. Der Versand hat sich drastisch beschleunigt — und ändert nichts.**
+
+Zwei Tage von der Bestellung bis zum Versand. Zum Vergleich, alle aus den
+heutigen Läufen:
+
+| Bestellung | Liegezeit bis Versand |
+|---|---|
+| #4745 Stephen Hanlon | **16 Tage** |
+| #4851 Sally O'Connor | 15 Tage |
+| #7031 Neil Wilcock, #7001 Keith Furman | 12 Tage |
+| #7179, #7223, #6952, #7101 | 11 Tage |
+| #7627, #7506, #7525 | 10 Tage |
+| #7899 Anna Howie | 7 Tage |
+| **#8344 Jeff Goodner** | **2 Tage** |
+
+Das Liegezeit-Problem, das seit Wochen die Lieferbeschwerden erzeugt, ist bei
+den September-Bestellungen offenbar behoben. **Es hat auf seine Beschwerde
+keinen Einfluss** — sie betrifft die Haltbarkeit, nicht die Wartezeit. Die
+beiden Probleme sind unabhängig, und nur eines davon löst sich von selbst.
+
+**2. Er ist der zehnte Kunde ohne Forderung — und der freundlichste.**
+
+„Have a good day." Keine Erstattungsforderung, kein Werbezitat, keine Drohung.
+Seit dem 09.09.: #6044, #3344, #7559, #7101, #7271, #6952, #4745, #7316, #7223,
+**#8344**. **Zehn Kunden in zwei Tagen.**
+
+**Klassifikation: Kauschaden → keine Erstattung nach der Regel.**
+
+→ `Bot/Needs Approval`. Kurz, freundlich, **ohne Vorlage und ohne Erwähnung der
+Rückgabepolicy** — er hat nichts gefordert. Der Anhang (vermutlich Fotos) sollte
+angesehen werden, bevor geantwortet wird: bei #1301 war auf den Bildern eine
+**Nadel** zu sehen.
+
+**Nicht auf der Erstattungsliste** — Kauschaden, keine Forderung.
+
+---
+
+## Tagesabschluss 10.09.
+
+**24 Vorgänge in 19 Läufen.** Der Tag hat vier Dinge ergeben, die vorher nicht
+belegt waren:
+
+1. **Neun offene schriftliche Zusagen**, keine einzige ausgeführt — sieben
+   Erstattungen (#2228, #2283, #5841, #3770, #8253, #1301, #4055) und **zwei
+   Ersatzlieferungen** (#4317 Charles Rivera, Gary Sanderson), beide am **19.08.**
+   zugesagt. Die älteste Zusage ist **56 Tage** alt.
+2. **Zwölf Teilerstattungs-Angebote** seit dem 22.08., davon vier heute erstmals
+   gefunden (25 %, 50 %, #5186, #4055). Sechs gegen einen vollen Regelanspruch,
+   sechs abgelehnt, zwei angenommen und nie ausgezahlt.
+3. **Sechs Behörden in sechs Tagen** — Trading Standards, BBB, FTC, State
+   Attorney General, **ACCC**, **UKICC**.
+4. **Zehn Kunden in zwei Tagen, die sich beschweren, ohne Geld zu verlangen.**
+   Zwei davon bitten ausdrücklich darum, **die Werbung zu ändern**.
+
+**Nicht getan (ganzer Tag):** kein Entwurf, kein Label, keine Erstattung, kein
+Storno, keine Ersatzlieferung, keine Rücksendeadresse erfunden, kein Betrag
+geschätzt, keine Währungsdifferenz überbrückt, kein Entwurfstext rekonstruiert,
+kein Verschlucken unterstellt, keine Zustellprognose abgegeben.
