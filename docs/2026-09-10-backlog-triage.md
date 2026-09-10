@@ -1397,3 +1397,45 @@ Rückgabe seit dem 15.08. verlangt, **26 Tage**.
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, kein weiteres
 Teilangebot, keine Rücksendeadresse erfunden, keine Ersatzlieferung zugesagt,
 kein Text rekonstruiert.
+
+---
+
+## Lauf 21:20 UTC — #7223 Christopher Dechon
+
+**20:29**, weitergeleitete Versandbestätigung, vollständiger Inhalt:
+
+> „My **60 pounds lab** had these toys for **20 minutes** and tore them to
+> shreds. **What a joke**"
+
+**Shopify, geprüft 10.09. 21:2x UTC:**
+
+- **#7223**, bestellt **22.08. 17:56 UTC**, **28,50 £**, `PAID` / `FULFILLED`
+- 2 × Plushie (monkey, elephant)
+- Versandt **02.09. 10:54 UTC** — elf Tage nach der Bestellung
+- Yanwen Special Line US, `UL476311692YP`, Wyckoff, New Jersey
+
+**Klassifikation: Kauschaden → keine Erstattung nach der Regel.** Er stellt
+**keine Forderung** — kein „refund", kein „return", keine Werbezitate. Zwei
+Sätze Ärger, mehr nicht.
+
+Damit ist er der **neunte** Kunde seit dem 09.09., der sich beschwert, ohne Geld
+zu verlangen: #6044, #3344, #7559, #7101, #7271, #6952, #4745, #7316, **#7223**.
+Und der **achte** Fall aus dem Versandstapel vom 02.09.
+
+**Was an seiner Mail sachlich steht:** ein **60-Pfund-Labrador** (rund 27 kg).
+Das gehört zu den Größen-/Eignungsbefunden — #6741 („too small for a **larger**
+dog"), #5186 John Abbott („way too small… he tries to eat them"), #4975
+(„no way a **65-pound dog** will not destroy these"), #7506. **Fünf Kunden
+nennen inzwischen ausdrücklich das Gewicht oder die Größe ihres Hundes als
+Grund**, und bei #4975 ist daraus eine Falschdarstellungs-Beschwerde mit vier
+Behörden geworden.
+
+→ `Bot/Needs Approval`. Kurz und ohne Vorlage. **Keine Rückgabepolicy
+erwähnen** — er hat nicht danach gefragt; bei **#6952** und **#7316** gilt
+dasselbe, bei **#3344** ist genau dieser Fehler am 09.09. passiert und hat
+sieben Minuten später zu „ändert eure Werbung" geführt.
+
+**Nicht auf der Erstattungsliste** — Kauschaden, keine Forderung.
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine
+Vorlagen-Absage, kein Text rekonstruiert.
