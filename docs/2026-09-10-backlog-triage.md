@@ -312,3 +312,66 @@ jeder Zusage klären — dritter Fall nach #4975 und #7179.
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine
 Rücksendeadresse erfunden, kein Betrag geschätzt, keine Zusage zu #8253
 wiederholt.
+
+---
+
+## Lauf 04:20 UTC — #6952 Daniel Piekarski: „Not asking for a refund"
+
+**04:05**, Betreff „Order #6952", ein Foto beigefügt:
+
+> „Was really excited to get these **Plushies – Designed for Furry Friends Who
+> Destroy Everything**.
+> Unfortunately, the fox **didn't even last 10 minutes** before it started
+> coming apart.
+> **Not asking for a refund, just providing feedback** that there's **no way any
+> of the stuff that 'makes these different' is accurate**."
+
+**Shopify, geprüft 10.09. 04:2x UTC:**
+
+- **#6952**, bestellt **21.08. 11:00 UTC**, **28,50 £**, `PAID` / `FULFILLED`
+- 2 × Plushie (Elk, fox)
+- Versandt **02.09. 10:40 UTC** — zwölf Tage nach der Bestellung
+- 4PX Standard Registered, `4PX3003122368741CN`, Belgrave, Victoria,
+  **Australien**
+
+**Wieder aus dem Versandstapel vom 02.09.** — der sechste Fall daraus in vier
+Stunden (#7179, #6760, #7101, #7271, #7001, jetzt #6952).
+
+### Einordnung
+
+Er sagt **zweimal ausdrücklich**, dass er kein Geld will: „Not asking for a
+refund, just providing feedback." Was er stattdessen sagt, ist eine
+Produktaussage: **„there's no way any of the stuff that ‚makes these different'
+is accurate"** — er bezieht sich damit nicht auf ein einzelnes Wort, sondern auf
+den **gesamten Differenzierungsanspruch** des Produkts.
+
+**Das ist der sechste Kunde in zwei Tagen, der die Werbeaussage bestreitet, ohne
+eine Erstattung zu fordern:**
+
+| Datum | Kunde | Was er stattdessen will |
+|---|---|---|
+| 09.09. 10:03 | Greg Williams (#6044) | „it'll be good if you guys **changed your ad**" |
+| 09.09. 11:11 | John Beirne (#3344) | „your **marketing** doesn't make claims…" |
+| 09.09. 18:18 | Rod Smith (#7559) | nichts — abgeschlossen |
+| 10.09. 23:36* | Cameron Herpich (#7101) | „We will **keep trying**" |
+| 10.09. 00:01 | Rosalind Welch (#7271) | nichts — „Very disappointed" |
+| **10.09. 04:05** | **Daniel Piekarski (#6952)** | **„just providing feedback"** |
+
+*(#7101 am 09.09. 23:36 eingegangen)*
+
+**Sechs von sechs** dieser Kunden nennen die Werbung als Kern. **Keiner** von
+ihnen verlangt Geld. Das ist inzwischen kein Nebenbefund mehr, sondern die
+zweitgrößte Gruppe im Postfach — und die einzige, bei der die Kauschaden-Absage
+**nichts** zu verweigern hätte, weil nichts gefordert wird.
+
+→ `Bot/Draft Ready`. Freundlich, kurz, **den Hinweis annehmen statt ihn
+abzuwehren**. Keine Erwähnung der Rückgabepolicy — er hat nicht danach gefragt.
+**Eine Vorlagen-Absage auf diese Mail wäre der vermeidbarste Fehler im ganzen
+Postfach**, und es wäre der zweite Anlauf dazu: bei John Beirne (#3344) ist
+gestern genau das passiert, sieben Minuten vor seiner Antwort.
+
+**Nicht auf der Erstattungsliste** — Kauschaden, und er verlangt ausdrücklich
+keine Erstattung.
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, kein Text
+rekonstruiert.
