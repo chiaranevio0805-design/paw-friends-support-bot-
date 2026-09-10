@@ -520,3 +520,107 @@ steht die Sache aber anders da als bei einem Fall ohne Vorgeschichte.
 
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, **kein drittes
 Teilangebot**, kein Text rekonstruiert.
+
+---
+
+## Lauf 08:20 UTC — 🚩 #3770 Steph Bentley: eine Erstattung, die seit dem 03.09. zugesagt ist
+
+### 🚩🚩 #3770 — der zweite Fall einer zugesagten und nicht gezahlten Erstattung binnen fünf Stunden
+
+**Shopify, geprüft 10.09. 08:2x UTC:**
+
+- **#3770**, bestellt **29.07. 11:23 UTC**, **19,95 £**
+- **Status: `PAID` / `FULFILLED`** — **keine Erstattung im System**
+- Versandt 30.07., Yanwen, `UL375777043YP`
+- Bestell-Adresse `steph.bentley84@gmail.com`, sie schreibt von
+  `steph.bentley84@googlemail.com`
+
+**Der Verlauf, vollständig (`get_thread`, acht Nachrichten):**
+
+| Datum | Wer | Inhalt |
+|---|---|---|
+| bis **11.08.** | Kundin | zwei Mails, unbeantwortet |
+| **14.08. 10:26** | Kundin | Betreff: „**3rd CHASER NO RESPONSE**". „Please advise where I can return this awful small toy so I can obtain my **£20 refund** asap. **your reviews are false** as your communication is diabolical!" |
+| **15.08. 16:09** | Postfach | *„Before we proceed, could you please let us know **the reason** you would like to return…"* — die **Rückfrage-Vorlage** |
+| **15.08. 17:37** | Kundin | „**My reasoning is in the last 2 emails**… as per your returns policy I would like to return for a **full refund**, please advise **where to send** to" |
+| **21.08. 10:51** | Kundin | „**Surprise surprise another week past and still no return details**" |
+| **22.08. 09:15** | Postfach | „We have forwarded your return request to **the relevant team**" |
+| **01.09. 20:35** | Kundin | „I have now waited **25 days** to return this item **within your return period**… I want my money back now" |
+| **03.09. 09:57** | Postfach | *„**There is no need for you to return the item. We will**…"* — **Erstattung zugesagt** |
+| **10.09. 07:53** | Kundin | „**Please advise when I will receive this refund**" |
+
+### Was das bedeutet
+
+**Das ist Regel 2 in Reinform** — unbenutzte Ware, Rückgabe innerhalb der Frist
+verlangt (sie hat am 11.08. begonnen, elf Tage nach Lieferung). Nach der Policy:
+volle Erstattung, „**no argument, no attempt to talk them out of it**".
+
+Stattdessen:
+
+1. **Die Rückfrage-Vorlage** („the reason you would like to return") — dieselbe,
+   die am 22.08. an Todd Jacobs und Wendy Higgins ging und die die Policy für
+   Rückgaben ausschließt. Sie hatte den Grund bereits zweimal genannt.
+2. **Die Rücksendeadresse wurde nie genannt** — sie hat viermal danach gefragt.
+   Es gibt keine (offener Blocker seit 13.08.).
+3. **Am 03.09. wurde die Erstattung zugesagt** („no need for you to return the
+   item"). **In Shopify steht die Bestellung sieben Tage später unverändert auf
+   `PAID`.**
+
+**Damit ist es der zweite Fall an einem Vormittag**, in dem eine schriftlich
+zugesagte Erstattung nicht ausgeführt wurde — nach **#8253 Tim Kipling**
+(zugesagt 06.09., heute Betrugsvorwurf). Insgesamt der **dritte** nach **#5841**
+(Log 01.09.) und **#2228 Ann Price** (zugesagt 17.07., seit acht Wochen offen).
+
+**Vier zugesagte, nicht ausgeführte Erstattungen** — #2228, #5841, #8253, #3770.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund (nur fürs Log):** fünfter Kontakt, offene Erstattungszusage
+seit dem 03.09., Rückgabeverlangen seit dem 11.08. unerfüllt, Vorwurf gefälschter
+Bewertungen („your reviews are false").
+
+**⚠️ ERSTATTUNG: 19,95 £, Regel 2 — unbenutzt.** Sie ist bereits schriftlich
+zugesagt. **Keine weitere Zusage senden, bevor die Zahlung ausgeführt ist** —
+genau das ist bei #8253 der Auslöser für die Betrugsmeldung gewesen.
+
+### #8081 Matthew Pierce — eine Militäranschrift, und das nächste Adressproblem
+
+- **10.09. 07:14 aus dem Postfach:** „we noticed that **two different postcodes**
+  have been provided… our system is **unable to recognise** the…"
+- **10.09. 07:48 Kunde:** „Confirming my address: **Matthew Pierce, Box 5647
+  PSC 3, APO AP 96266**"
+
+**Shopify:** **#8081**, bestellt **29.08. 05:56 UTC**, **20,35 £**, `PAID` /
+**`UNFULFILLED`** — seit **zwölf Tagen** nicht versandt.
+Hinterlegt: `Box 5647 PSC 3`, **APO**, **Armed Forces Pacific**, `96266-0057`.
+
+**Das ist eine US-Militärpostanschrift (APO/PSC)**, keine fehlerhafte Eingabe.
+Die im System hinterlegte Adresse **stimmt bereits mit der überein**, die er
+jetzt bestätigt hat — bis auf die vierstellige Postcode-Erweiterung `-0057`,
+die vermutlich die „zwei verschiedenen Postleitzahlen" erklärt.
+
+**Der Fall gehört zum PO-Box-Komplex** (#5817, #6209, #4606, `annafg72`): eine
+Adressform, die das Versandsystem nicht verarbeitet, führt dazu, dass eine
+bezahlte Bestellung liegen bleibt. Bei #4606 Karen McCormick hat genau das zu
+zwei Stornierungen und einem Rabattangebot geführt; bei #6209 wurde am Ende doch
+an die P.O. Box versandt.
+
+**Offen und vom Bot nicht entscheidbar:** ob die Zusteller (4PX, Yanwen, WB US)
+APO/FPO überhaupt beliefern. **Wenn nicht, ist das kein Adressproblem, sondern
+ein Erstattungsfall** — und er wartet dann seit zwölf Tagen auf eine Sendung,
+die nie rausgehen kann.
+
+→ `Bot/Needs Approval`. **Nicht bestätigen, dass die Adresse jetzt passt** —
+ungeprüft. **Keine Versandprognose.** Zuerst klären, ob APO zustellbar ist.
+
+### Wieder aufgetaucht, unverändert
+
+- **#4940 Rena Barnes** — keine neue Nachricht seit dem 06.09. Die
+  Vorlagen-Absage vom 08.09. 07:58 ist weiterhin die einzige der fünf aus jenem
+  Block **ohne** Rückläufer.
+- **#7784 Cameron Dayton** — hat um 01:54 „my order number and proof of
+  purchase" nachgereicht. Stand unverändert (Log 09.09. 23:20); die Frage, ob er
+  „extra" für den Versand gezahlt hat, bleibt im Admin zu prüfen.
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine
+Erstattungszusage wiederholt, keine Rücksendeadresse erfunden, nicht bestätigt,
+dass die APO-Adresse zustellbar ist.
