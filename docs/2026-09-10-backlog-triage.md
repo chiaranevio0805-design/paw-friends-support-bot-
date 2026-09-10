@@ -707,3 +707,80 @@ feststellbar.
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine
 Erstattungszusage, kein fremder Entwurfstext umadressiert, kein Text
 rekonstruiert.
+
+---
+
+## Lauf 10:20 UTC — #7031 Neil Wilcock: die 21-Tage-Grenze ist heute erreicht
+
+**Shopify, geprüft 10.09. 10:2x UTC:**
+
+- **#7031**, bestellt **21.08. 18:26 UTC**, **19,95 £**, `PAID` / `FULFILLED`
+- 1 × Plushie „monkey", Lydiate L31 2PA (UK)
+- Versandt **02.09. 10:45 UTC** — **zwölf Tage** nach der Bestellung
+- Yanwen, `UL476303254YP`
+
+**Verlauf:**
+
+- **29.08. 11:12:** „can I have an update as to where my item is… I thought I
+  might have at least had an update by now"
+- **31.08. 09:31 aus dem Postfach:** die Liefer-Vorlage, hier in einer
+  **erweiterten Fassung**: „…Delivery usually takes **7–21 days**… Your parcel
+  is progressing through the delivery network, although we're unfortunately
+  **unable to provide an exact delivery date**… We're sorry that **the tracking
+  information has not provided clearer updates**"
+- **10.09. 09:27:**
+
+> „I'm still waiting for my order and this is now **as of today 21 days** and
+> still waiting. I **originally ordered hoping to receive from the UK** as I
+> have stated, so **to be told I'm receiving from another country was a
+> surprise**, but to be waiting **over 3 weeks** and still to be waiting isn't
+> great and has **definitely put me off ordering in future**."
+
+### Drei Punkte
+
+**1. Die selbst genannte Frist ist heute abgelaufen.** Am 31.08. wurden ihm
+„7–21 days" zugesagt. Er zählt ab Bestellung: **21.08. bis 10.09. = 20 Tage**,
+er sagt 21. Rechnet man ab **Versand** (02.09.), sind es acht. Beide Rechnungen
+sind vertretbar — **die Vorlage sagt nicht, ab wann gezählt wird.** Genau
+deshalb ist sie hier zum Bumerang geworden: er hat sie ab Bestelldatum
+verstanden, und danach ist die Zusage **heute gerissen**.
+
+Das ist der **erste** Fall, in dem die 7–21-Tage-Formel nachweislich fällig
+wird. Sie ist mindestens an **#7771, #6280, #7559, #7114, #7525** und ihn
+gegangen. Bei den anderen läuft die Frist noch — **bei #7771 Barb Fitzgerald
+(versandt 03.09.) am 24.09., bei #7525 Carol Garvey ebenso.**
+
+**2. Zweiter Fall der bestrittenen Lieferzusage** nach **#7190 Steve Solley**
+(gestern 12:27). Auch Neil Wilcock sagt, er habe **UK-Versand erwartet** — „as I
+have stated", also hat er das schon vorher gesagt — und die Umstellung auf ein
+anderes Land sei „a surprise" gewesen. Zwei Kunden in 21 Stunden, die dieselbe
+Angabe beim Kauf bestreiten. Der Prüfauftrag aus dem 13:25-Eintrag von gestern
+steht damit doppelt: **was stand am Bestelltag auf der Produkt- und
+Checkout-Seite?**
+
+**3. Die Antwort vom 31.08. war die ehrlichste Fassung der Vorlage**, die in
+diesen Logs vorkommt: sie sagt ausdrücklich, dass **kein exaktes Zustelldatum**
+genannt werden kann, und räumt ein, dass **die Sendungsverfolgung keine klaren
+Informationen liefert**. Beides ist zutreffend und richtig formuliert.
+**Trotzdem enthält sie weiterhin die 7–21-Tage-Angabe** — und genau die ist
+jetzt der Streitpunkt. Die beiden ehrlichen Sätze nützen nichts, solange die
+Frist danebensteht.
+
+### Einordnung
+
+**Kein Fall der drei Regeln** — Ware unterwegs, keine Erstattungsforderung. Er
+verlangt nichts; er sagt, er werde nicht wieder bestellen.
+
+→ `Bot/Needs Approval`.
+Sagbar: Versanddatum **02.09.**, Yanwen, `UL476303254YP`, und offen, dass
+**zwölf Tage** zwischen Zahlung und Versand lagen — das ist der eigentliche
+Grund für seine Wartezeit und steht bisher in keiner Antwort an ihn.
+**Nicht sagbar:** eine neue Frist, ein Zustelldatum, oder dass die Sendung sich
+bewegt. **Und die 7–21-Tage-Formel darf hier nicht wiederholt werden** — sie ist
+nach seiner Rechnung heute abgelaufen.
+
+**Nicht auf der Erstattungsliste.** Ob nach 21 Tagen etwas erstattet wird, ist
+eine **Owner-Entscheidung**; die Policy sieht dafür nichts vor.
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine neue Frist
+genannt, kein Text rekonstruiert.
