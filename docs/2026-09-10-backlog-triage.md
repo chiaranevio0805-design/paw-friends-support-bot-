@@ -784,3 +784,88 @@ eine **Owner-Entscheidung**; die Policy sieht dafür nichts vor.
 
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine neue Frist
 genannt, kein Text rekonstruiert.
+
+---
+
+## Lauf 11:20 UTC — 🚩 #6286 Deborah Gould: die ACCC, und der im Log vorhergesagte Verlauf
+
+### Der Fall, der gestern namentlich prognostiziert wurde
+
+Im Eintrag vom **09.09. 04:20** steht zu #6286 wörtlich:
+
+> „→ `Bot/Needs Approval`. Absage **mit** dem Unterschied zwischen Frist und
+> Geltungsbereich, ausdrücklich ohne die Behauptung, sie sei zu spät dran.
+> **Keine Vorlagen-Absage** — nach dem gestrigen Befund (vier Eskalationen aus
+> vier Vorlagen-Absagen) ist das hier der **teuerste mögliche Fehler**."
+
+**Heute 10:26** ging die Vorlagen-Absage raus, adressiert an „**Dear
+Customer**" — obwohl sie mit Namen unterschrieben hatte.
+
+**Heute 10:39, dreizehn Minuten später:**
+
+> „I find that **absolutely ridiculous**.
+> I bought your product **only because of your 30 Day money back guarantee**.
+> What you're saying is that the guarantee only covers the product **on arrival
+> and not used** — **who would return them?!**
+> **You need to remove your claims and the guarantee as this is false
+> advertising!!!**
+> **I will be contacting the ACCC** for what my rights are."
+
+### Drei Befunde
+
+**1. Die ACCC ist die fünfte Behörde.** Australian Competition and Consumer
+Commission — sie schreibt aus **New South Wales**. Bisher: Trading Standards
+(UK, dreimal), Better Business Bureau (zweimal), FTC, State Attorney General.
+**Fünf verschiedene Stellen in fünf Tagen, auf drei Kontinenten.**
+
+**2. Ihr Argument ist wortgleich mit dem von Gary Lindsay (#4273)** — und sie
+kann es nicht von ihm haben:
+
+| | Formulierung |
+|---|---|
+| Gary Lindsay, 09.09. 10:34 | „the guarantee — which is **pointless if a dog toy cannot be used by a dog** or the guarantee is invalidated" |
+| **Deborah Gould, 10.09. 10:39** | „the guarantee only covers the product on arrival and not used — **who would return them?!**" |
+
+Zwei Kunden auf zwei Kontinenten kommen unabhängig voneinander zu demselben
+Schluss: **eine Haltbarkeitsgarantie, die nur für unbenutzte Ware gilt, ist in
+sich widersprüchlich.** Das ist kein Missverständnis der Kunden mehr — es ist
+ein Einwand gegen die Konstruktion.
+
+**Sechs Kunden** haben diesen Punkt inzwischen erhoben: Christina Williams
+(21.08.), `bev212.bs` (06.09.), Gary Lindsay (09.09.), Deborah Gould (09. und
+10.09.), Sofia Christopoulos (10.09.), Keith Crane (10.09.).
+
+**3. „Dear Customer".** Sie hat mit „Kind regards, **Deborah**" unterschrieben
+und wurde als „Dear Customer" angeschrieben. In allen anderen Vorlagen-Antworten
+dieser Woche stand der Vorname. Bei einer Kundin, die ohnehin den Eindruck hat,
+nicht gehört zu werden, ist das kein Formfehler ohne Folgen.
+
+### Einordnung
+
+→ `Bot/Escalated - Owner Attention` (zuvor `Needs Approval`).
+**Eskalationsgrund (nur fürs Log):** Verbraucherschutzbehörde eingeschaltet
+(ACCC), ausdrücklicher Vorwurf der Falschwerbung, Forderung nach Entfernung der
+Werbeaussage **und** der Garantie, Zweitkontakt nach Vorlagen-Absage.
+
+**Keine zweite Absage.** Bei #4919, #6259 und #6213 hat genau die zu
+Verbraucherrechtszitat, Trading Standards und „dumb" geführt.
+
+**Kein Erstattungsfall nach der Regel** (Kauschaden). Sie steht **nicht** auf
+der Erstattungsliste; 45,83 £ wären eine Owner-Entscheidung.
+
+**Vordringlich:** Sie verlangt zweierlei — die Werbeaussage **und** die Garantie
+zu ändern. Beides ist Owner-Sache und beides steht seit dem 21.08. offen.
+
+### Wieder aufgetaucht, unverändert
+
+- **#4812 Carolyn Marmalejo** (`Label_7`) — keine neue Nachricht seit dem
+  22.08. Stand unverändert: „**I only opened one toy**… therefore I never opened
+  the **other new toys**" — Regel 2, seit **19 Tagen** unbeantwortet. Der
+  Ur-Fall der Verwechslung, die sich seither bei #6528, #5973, #7179 und #7292
+  wiederholt hat.
+- **#6751 Jonathan Pizzo** — keine neue Nachricht. Sendungsnummer
+  `JCHSG0000004362556` liegt seit dem 02.09. bereit und ist ihm nie genannt
+  worden; er hat zweimal danach gefragt, zuletzt am 01.09.
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine zweite
+Absage, kein Text rekonstruiert.
