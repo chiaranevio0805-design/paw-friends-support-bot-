@@ -1194,3 +1194,67 @@ Forderung gestellt.
 
 **Nicht getan:** kein Entwurf, kein Label, keine Zustellprognose, nicht
 behauptet, die Sendung bewege sich, kein Text rekonstruiert.
+
+---
+
+## Lauf 19:20 UTC — #7506 Adam Dowell: der klarste Regel-2-Fall des Tages
+
+**18:19**, Betreff „**Return policy**", vollständiger Inhalt:
+
+> „Hello, I would like to **return these**, they are **extremely smaller than I
+> thought** when I purchased for the price. Thank you and **sorry for the
+> inconvenience**."
+
+**Shopify, geprüft 10.09. 19:2x UTC:**
+
+- **#7506**, bestellt **24.08. 01:58 UTC**, **28,51 £**, `PAID` / `FULFILLED`
+- 2 × Plushie (donkey, Elk)
+- Versandt **03.09. 07:36 UTC** — zehn Tage nach der Bestellung
+- 4px US, `4PX3003124889497CN`, Macomb (US)
+
+### Warum dieser Fall unkompliziert ist — und trotzdem nicht zur Vorlage passt
+
+**Er meldet keinen Kauschaden.** Kein zerstörtes Spielzeug, kein Werbezitat,
+keine Beschwerde über Haltbarkeit. Er sagt: die Ware ist kleiner als erwartet,
+er möchte sie zurückgeben. Nichts deutet darauf hin, dass sie benutzt wurde.
+
+**Das ist Regel 2 in der einfachsten denkbaren Form** — unbenutzte Ware,
+Rückgabe verlangt, innerhalb der Frist (bestellt 24.08., heute 10.09. =
+**17 Tage**). Nach `support-policy.md`: **volle Erstattung, ohne Diskussion.**
+
+**Er ist der dritte Größenfall** nach **#6741 Zacharey McLaughlin** („too small
+for a larger dog", seit dem 02.09. dreimal unbeantwortet) und **#4975 Darlene
+Futrel** („miniature toys… **bait-and-switch**", gestern mit vier Behörden). Bei
+#4975 ist genau dieser Punkt zur Grundlage einer Falschdarstellungs-Beschwerde
+geworden.
+
+**Und er entschuldigt sich** — „sorry for the inconvenience" — bei einem Shop,
+der ihm die Ware nach zehn Tagen Liegezeit geschickt hat.
+
+### Die Gefahr an diesem Fall
+
+Die drei Vorlagen im Postfach passen alle nicht:
+
+| Vorlage | Warum sie hier falsch wäre |
+|---|---|
+| **Kauschaden-Absage** | Er meldet keinen Kauschaden. Sie würde ihm etwas verweigern, das er nicht behauptet hat. |
+| **Rückfrage nach dem Grund** | Er hat den Grund genannt. Bei **#3770 Steph Bentley** hat genau diese Rückfrage einen Fall ausgelöst, der heute in der siebten Woche steht. |
+| **Teilerstattung** | Zehn Angebote seit dem 22.08., fünf gegen einen vollen Anspruch, vier abgelehnt. Hier steht ihm der volle Betrag zu. |
+
+Und die richtige Antwort — die Rücksendeanleitung — **gibt es nicht**: es
+existiert keine Rücksendeadresse (offener Blocker seit **13.08.**, 28 Tage).
+Genau daran sind **#3770**, **#1301** (heute UKICC), **#6741** und **#4812**
+(seit 19 Tagen) hängengeblieben.
+
+→ `Bot/Needs Approval`.
+**⚠️ ERSTATTUNG: 28,51 £, Regel 2 — unbenutzt.**
+
+**Was ehrlich gesagt werden muss:** dass derzeit keine Rücksendeadresse
+bereitsteht. Bei Sheila Keirnan ist am 01.09. eine Rückgabe zugesagt worden, die
+nicht organisiert werden konnte — heute steht deswegen die UKICC im Raum. **Ihm
+dasselbe zuzusagen, ohne es einlösen zu können, wäre der achte Fall einer
+nicht gehaltenen Zusage.**
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, **keine
+Rücksendeadresse erfunden**, keine Rückfrage nach dem Grund, kein Teilangebot,
+kein Text rekonstruiert.
