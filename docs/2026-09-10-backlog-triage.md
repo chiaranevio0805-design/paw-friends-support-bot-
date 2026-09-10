@@ -1032,3 +1032,117 @@ gefordert. **Nicht auf der Erstattungsliste.**
 
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine
 Vorlagen-Absage, kein Text rekonstruiert.
+
+---
+
+## Lauf 16:20 UTC — 🚩🚩🚩 #1301 Sheila Keirnan: UKICC, und drei Korrekturen
+
+**15:35:**
+
+> „I've **taken advice** on this matter of your company **refusing to refund me,
+> my full purchase price of £32.95**. I've been **instructed to give you one
+> last opportunity** to give me a full refund, before bringing this matter to
+> the attention of the **International Consumer Centre (UKICC)**."
+
+Ich habe den vollständigen Thread gelesen (sieben Nachrichten). Er korrigiert
+drei Angaben aus meinen eigenen Logs.
+
+### 🔧 Korrektur 1: Am 01.09. wurde ihr die Rückgabe **zugesagt**
+
+Im Log vom 09.09. steht nur, sie habe „am 05.09. ausdrücklich nach der
+Rücksendeanleitung gefragt". Tatsächlich hat sie danach gefragt, **weil sie ihr
+angeboten worden war.** Aus dem Postfach, **01.09. 11:00**:
+
+> „The **two unopened toys may be returned in their original condition for a
+> refund**. Please let us know if you would like to proceed with returning those
+> items, and **we'll provide the return instructions**."
+
+Sie hat am 05.09. genau das getan — und **statt der Anleitung kam am 07.09. ein
+30-%-Angebot**. Die Zusage wurde also nicht vergessen, sondern **zurückgenommen
+und durch ein Teilangebot ersetzt**.
+
+**Damit ist es die siebte schriftliche Zusage, die nicht eingehalten wurde:**
+#2228, #2283, #4317, #5841, #3770, #8253 — und **#1301**.
+
+### 🔧 Korrektur 2: Es gab am 09.09. ein **50-%-Angebot**
+
+Das stand in keinem meiner Logs. Aus dem Postfach, **09.09. 11:18**:
+
+> „While we're **unable to arrange a full refund and prepaid return** in this
+> case, we would like to **increase our goodwill offer to a 50 % partial
+> refund**… allowing you to keep all of the items without needing to return
+> them."
+
+**Die berichtigte Chronologie: zehn Angebote, und eine neue Höchststufe.**
+
+| Datum | Kunde | Angebot |
+|---|---|---|
+| 22.08. | Christina Williams (#4035) | 20 % |
+| 26.08. | Sharon Lagos (#5205) | 20 % |
+| 31.08. | Ken Beville (#6583) | 20 % |
+| 31.08. | Christina Williams (#4035) | 25 % |
+| 01.09. | Ken Beville (#6583) | 30 % |
+| 03.09. | Trudi Trotter (#5148) | 30 % |
+| 05.09. | Viken Jehdian (#6546) | Teilbetrag |
+| 07.09. | Karen McCormick (#4606) | 15 % |
+| 07.09. | Sheila Keirnan (#1301) | 30 % |
+| **09.09.** | **Sheila Keirnan (#1301)** | **50 %** |
+
+**Bei ihr ist die Vorlage von 30 % auf 50 % geklettert, um eine Rückgabe
+abzuwenden, die zuvor schriftlich zugesagt worden war.** Sie hat beides
+abgelehnt.
+
+### 🔧 Korrektur 3: Ihr Fall ist von Anfang an ein Sicherheitsfall — und wurde als Kauschaden behandelt
+
+Ihre Erstmail vom **09.08.** ging an die **Privatadresse des Owners**
+(`chiaranevio0805@gmail.com`) und wurde erst am 30.08. weitergeleitet — drei
+Wochen Liegezeit. Inhalt: beim Spielen löste sich der Kopf des Hippos, **darin
+steckte eine Nadel mit lila Spitze**.
+
+Die Antwort vom 01.09. enthält den richtigen Satz — „**Please do not allow your
+dogs to use the toys** while this matter is being reviewed" — **und im selben
+Absatz die Kauschaden-Absage** für den Hippo: „our policy does not cover toys
+that have been **used and damaged by chewing**".
+
+**Eine Nadel im Spielzeug ist kein Kauschaden.** Das Produkt war bei Anlieferung
+fehlerhaft; der Hund hat den Defekt nur freigelegt. Das ist **Regel 1**, nicht
+die Kauschaden-Ausnahme.
+
+### 🚩 Nebenbefund: zwei verschiedene Zahlen auf der Website
+
+Am 05.09. schrieb sie:
+
+> „…one of your **40,000 happy dog owners** that have purchased your product
+> that you advertise on your website, **or is it 25,000**?"
+
+Sie hat auf der Website **zwei unterschiedliche Kundenzahlen** gefunden. Das ist
+der **fünfte shop-eigene Text**, an dem sich ein Kunde festmacht — nach „With
+replacement guarantee" (#6259 → Trading Standards), der Lieferzusage (#7190,
+#7031), dem Artikelnamen (#4851) und den fehlenden Quietscher-Angaben (#7292).
+**Unbeantwortet geblieben.**
+
+### Einordnung
+
+→ bleibt `Bot/Escalated - Owner Attention`, **jetzt mit Frist**.
+**Eskalationsgrund (nur fürs Log):** Verbraucherschutzstelle angekündigt
+(UKICC), Rechtsberatung eingeholt, zurückgenommene schriftliche Zusage,
+Sicherheitsbefund (Nadel im Produkt), fünfter Kontakt.
+
+**Die UKICC ist die sechste Stelle** nach Trading Standards, BBB, FTC, State
+Attorney General und ACCC — **innerhalb von sechs Tagen**.
+
+**⚠️ ERSTATTUNG: 32,95 £, Regel 1 + Regel 2.** Der Hippo kam **defekt** an
+(Fremdkörper), die zwei anderen sind **ungeöffnet**. Beide Regeln greifen; ein
+Teilbetrag ist hier nicht vorgesehen und dreimal abgelehnt worden.
+
+**Kein drittes Teilangebot.** Nach 30 % und 50 % wäre das der Punkt, an dem aus
+einem Sicherheitsfall ein Verhandlungsfall wird — und genau das hat sie mit
+„taken advice" beendet.
+
+**Rücksendung weiterhin nicht organisierbar** — es gibt keine Rücksendeadresse
+(offener Blocker seit 13.08.). Sie ist am 01.09. zugesagt worden und existiert
+nicht. Das gehört ehrlich gesagt, statt es ein viertes Mal mit einem Prozentsatz
+zu umgehen.
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, **kein weiteres
+Teilangebot**, keine Rücksendeadresse erfunden, kein Text rekonstruiert.
