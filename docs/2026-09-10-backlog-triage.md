@@ -375,3 +375,60 @@ keine Erstattung.
 
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, kein Text
 rekonstruiert.
+
+---
+
+## Lauf 06:20 UTC — #7525 Carol Garvey: „The tracking information hasn't been updated either"
+
+**06:07**, Betreff „Order 7525":
+
+> „I had an email to say my order was **on its way on 3/9** and I **still
+> haven't received it**. **The tracking information hasn't been updated
+> either.** Please can you confirm when I will…"
+
+**Shopify, geprüft 10.09. 06:2x UTC:**
+
+- **#7525**, bestellt **24.08. 05:11 UTC**, **27,95 £**, `PAID` / `FULFILLED`
+- 2 × Plushie (monkey, fox)
+- Versandt **03.09. 07:37 UTC** — **zehn Tage** nach der Bestellung
+- Yanwen Special Line Promotion, `UL478624631YP`
+- Chelwood Gate RH17 7LS (UK)
+
+### Der Punkt, der zählt
+
+Sie hat die Sendungsnummer **bereits** — die Shopify-Versandbenachrichtigung vom
+03.09. enthält sie. **Ihr Problem ist, dass sie nichts anzeigt.**
+
+Damit ist sie der **vierte** Fall, in dem eine genannte Sendungsnummer beim
+Zusteller keine Bewegung zeigt:
+
+| Kunde | Bestellung | Zusteller | Befund |
+|---|---|---|---|
+| Robert Gagne | — | `WNBAA…YQ` | Zusteller: Nummer **ungültig** |
+| Dorothy Rysh | #6872 | `WNBAA…YQ` | „**order not found**" |
+| John Collins | #7053 | Yanwen US | „not showing any **information**" |
+| **Carol Garvey** | **#7525** | **Yanwen** | „**hasn't been updated**" |
+
+**Das ist ein anderes Problem als die fehlende Nummer.** Bei #7771, #6751,
+#8295, #6199, #6872, #6044 und #6280 wurde die vorhandene Nummer nicht
+weitergegeben. Hier ist sie weitergegeben worden und **nützt nichts**.
+
+Für die Antwort heißt das: Die Nummer noch einmal zu nennen, wäre keine Hilfe.
+Was ihr belegt gesagt werden kann, ist das **Versanddatum 03.09.**, der
+**Zusteller** und die Tatsache, dass zwischen Bestellung und Versand **zehn
+Tage** lagen — mehr steht in Shopify nicht. Ob die Sendung sich bewegt, ist von
+hier aus **nicht feststellbar**, und das gehört ehrlich gesagt.
+
+→ `Bot/Needs Approval` (nicht `Draft Ready`): Der Standardtext „your parcel is
+currently progressing through the delivery network" wäre hier **nachweislich
+unbelegt** — genau das bestreitet sie. Dieselbe Formel steckt in der
+Liefer-Vorlage, die gestern an #7114, #7559 und am 01.09. an #7771 ging.
+
+**Kein Zustelldatum, keine 7–21-Tage-Formel** (die Frist läuft bei ihr ohnehin
+erst am 24.09. ab und beantwortet ihre Frage nicht), **keine Behauptung, die
+Sendung sei in Bewegung.**
+
+**Nicht auf der Erstattungsliste** — die Ware ist unterwegs, kein Regelfall.
+
+**Nicht getan:** kein Entwurf, kein Label, keine Zustellprognose, nicht
+behauptet, die Sendung bewege sich, kein Text rekonstruiert.
