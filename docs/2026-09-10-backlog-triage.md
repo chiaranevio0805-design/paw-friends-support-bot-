@@ -624,3 +624,86 @@ ungeprüft. **Keine Versandprognose.** Zuerst klären, ob APO zustellbar ist.
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine
 Erstattungszusage wiederholt, keine Rücksendeadresse erfunden, nicht bestätigt,
 dass die APO-Adresse zustellbar ist.
+
+---
+
+## Lauf 09:20 UTC — 🚩 #2283 Tara Harte: die fünfte offene Erstattungszusage, seit dem 17.07.
+
+### 🚩🚩 #2283 — acht Wochen, dritter belegter Kontakt, Thread trägt bereits `Label_7`
+
+**Shopify, geprüft 10.09. 09:2x UTC:**
+
+- **#2283**, bestellt **22.06. 07:55 UTC**, **19,95 £**
+- **Status: `PAID` / `FULFILLED`** — **keine Erstattung im System**
+- Versandt 25.06., SunSu Packet, `SYGB021701028`
+
+**Verlauf, Betreff „Indestructible toy":**
+
+- **17.07.** — im Thread zitiert: eine Antwort aus dem Postfach von diesem Datum
+- **12.08. 10:24:** „This has been going on for **quite a while** now. Can I have
+  an **update on my refund** please"
+- **17.08. 14:45:** „Can someone please respond to my email below. This has been
+  going on for **6 weeks** and is **simply not good enough**. **I would like my
+  refund**"
+- **10.09. 09:06:** „Hi Lisa, can you update me please — **I still haven't
+  received my refund**"
+
+**Der Thread trägt bereits `Label_7` (`Bot/Escalated - Owner Attention`)** — er
+ist also erfasst und seit Wochen als Eskalation markiert. Passiert ist nichts.
+
+### Das ist jetzt der fünfte Fall — und der zweite vom 17.07.
+
+| Bestellung | Kunde | Zusage seit | Betrag | Stand |
+|---|---|---|---|---|
+| **#2228** | Ann Price | **17.07.** | 19,95 £ | `PAID`, nie gezahlt |
+| **#2283** | **Tara Harte** | **17.07.** | **19,95 £** | `PAID`, nie gezahlt |
+| — | #5841 | — | — | als „erledigt" gemeldet, nie gezahlt |
+| **#8253** | Tim Kipling | 06.09. | 44,04 £ | heute Betrugsvorwurf |
+| **#3770** | Steph Bentley | 03.09. | 19,95 £ | heute Nachfrage |
+
+**Zwei Erstattungen wurden am selben Tag — dem 17.07. — zugesagt und sind beide
+bis heute nicht ausgezahlt.** Das ist kein Einzelversäumnis mehr, sondern ein
+Muster mit fünf Belegen, das inzwischen **56 Tage** zurückreicht.
+
+Bei **Ann Price** ist die Folge dokumentiert: „**how many people have you conned
+out of money with this statement!**" (30.08.). Bei **Tim Kipling** heute früh die
+Meldung an BBB Fraud Department und Commerce Department. Tara Harte ist bislang
+sachlich geblieben — nach acht Wochen und drei Nachfragen.
+
+→ bleibt `Bot/Escalated - Owner Attention`.
+**⚠️ ERSTATTUNG: 19,95 £.** Seit dem 17.07. zugesagt.
+**Keine weitere Zusage senden.** Der Text für Ann Price in
+`entwuerfe-zum-kopieren.md` („I'm not going to make you that promise a fourth
+time from this desk") passt inhaltlich auch hier — **aber er ist für sie
+geschrieben, nicht für Tara Harte, und darf nicht einfach umadressiert werden.**
+
+### #7627 Charlotte Matthews — Lieferanfrage mit Erstattungsalternative
+
+**08:18**, Betreff „Order no 7627":
+
+> „I placed an order on **24th August** and have **still not received it**. Can
+> you please let me know what's going on **or refund my money**?"
+
+**Shopify:** **#7627**, bestellt **24.08. 19:23 UTC**, **27,95 £**, `PAID` /
+`FULFILLED`, versandt **03.09. 07:41 UTC**, Yanwen, `UL478624234YP`,
+Bury Saint Edmunds (UK).
+
+**Zehn Tage** zwischen Bestellung und Versand, seither sieben.
+
+Sie stellt die Erstattung als **Alternative** — „or refund my money" —, nicht als
+Forderung. Der Fall fällt unter **keine** der drei Regeln (Ware unterwegs, Storno
+nach Versand), also **keine Erstattungszusage**.
+
+Sie ist die **vierte** Kundin aus dem Versandstapel vom **03.09.** (nach #7559
+Rod Smith, #7741 Linda Phillips, #7525 Carol Garvey) — alle vier am selben Tag
+versandt, alle vier melden sich jetzt.
+
+→ `Bot/Draft Ready`. Versanddatum **03.09.**, Yanwen, `UL478624234YP` nennen und
+die zehn Tage Liegezeit offen benennen. **Kein Zustelldatum, keine
+7–21-Tage-Formel** — bei Carol Garvey (#7525) zeigt dieselbe Zusteller-Nummer
+seit einer Woche nichts an; ob sich diese Sendung bewegt, ist von hier aus nicht
+feststellbar.
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine
+Erstattungszusage, kein fremder Entwurfstext umadressiert, kein Text
+rekonstruiert.
