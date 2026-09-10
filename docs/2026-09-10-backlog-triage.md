@@ -952,3 +952,83 @@ Eine Erstattung wäre nicht das, worum er gebeten hat.
 
 **Nicht getan:** kein Entwurf, kein Label, keine Ersatzlieferung veranlasst
 (nicht möglich), keine neue Zusage, kein Text rekonstruiert.
+
+---
+
+## Lauf 14:20 UTC — 🚩 #4745 Stephen Hanlon: Trustpilot wird zum Argument
+
+### 🚩 #4745 — der erste Kunde, der sich auf die Bewertungsplattform beruft
+
+**14:02**, Betreff „my order":
+
+> „your toys are **shite**.. **one day** they lasted before the **stuffing was
+> flying** like any other toy you claimed not to be like. **i should have read
+> the trust pilot reviews that says it all.. everyone says they are shite!!**"
+
+**Shopify, geprüft 10.09. 14:2x UTC:**
+
+- **#4745**, bestellt **06.08. 13:07 UTC**, **54,95 £** — **der höchste
+  Einzelbetrag der letzten Tage**
+- `PAID` / `FULFILLED`, versandt **22.08. 01:30 UTC** — **sechzehn Tage** nach
+  der Bestellung
+- Yun Express, `YT2623400701612777`
+
+**Was daran neu ist:** Er beruft sich nicht auf die Werbung, sondern auf
+**Trustpilot** — und zwar als Beleg dafür, dass die Erfahrung kein Einzelfall
+sei. Bisher liefen alle Verweise auf Bewertungen in die andere Richtung:
+
+| Datum | Kunde | Bezug |
+|---|---|---|
+| 26.08. | David Andrews (#5316) | „can be seen from the **thousands of reviews online**" |
+| 08.09. | Matt Pinnock (#6606) | **kündigt an**, eine Bewertung zu schreiben |
+| 08.09. | Meredith Spicer (#6213) | **kündigt an**, eine Bewertung zu schreiben |
+| **10.09.** | **Stephen Hanlon (#4745)** | **hat sie gelesen — nachträglich** |
+
+Er sagt sinngemäß, die Bewertungen hätten ihn gewarnt, wenn er sie vorher
+gelesen hätte. Das ist kein Eskalationsmittel, sondern eine **Feststellung über
+die Außenwirkung** — und die deckt sich mit dem, was David Andrews am 26.08.
+schrieb.
+
+Dazu passt **Steph Bentley** (#3770, 14.08.): „**your reviews are false**" — sie
+meinte damit die Bewertungen **auf der Website**. Zusammen ergibt das zwei
+gegenläufige Aussagen über Bewertungen: die im Shop seien geschönt, die
+außerhalb seien vernichtend. **Beides gehört an den Owner**, nicht in eine
+Support-Antwort.
+
+**Klassifikation: Kauschaden → keine Erstattung nach der Regel.** Er verlangt
+auch keine — er beschwert sich, ohne eine Forderung zu stellen. Damit ist er der
+**siebte** dieser Art seit dem 09.09.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund (nur fürs Log):** bestrittene Werbeaussage plus Verweis auf
+öffentliche Bewertungen als Beleg — das ist der „public-review pattern
+complaint" aus der Policy.
+**Keine Vorlagen-Absage.** Sie würde ihm die Rückgabepolicy erklären, die er
+nicht angesprochen hat.
+
+**Nicht auf der Erstattungsliste** — Kauschaden, und keine Forderung.
+**Nebenbefund:** 16 Tage bis zum Versand bei einem 54,95-£-Auftrag; das ist die
+längste Liegezeit, die in diesen Logs bisher belegt ist.
+
+### #7316 Brett Merriman — kurz und ohne Forderung
+
+**13:51**, weitergeleitete Versandbestätigung, vollständiger Inhalt:
+
+> „**This toy lasted 20 minutes... Junk**"
+
+**Shopify:** **#7316**, bestellt **23.08. 03:19 UTC**, **20,34 £**, `PAID` /
+`FULFILLED`, 1 × Plushie „frog", versandt **02.09. 10:59 UTC**, **WB US**,
+`WNBAA0497794623YQ`, Mesa (US).
+
+Kauschaden, keine Erstattungsforderung, keine Werbezitate. **Siebter Fall aus
+dem Versandstapel vom 02.09.**, und mit ihm der **achte** Kunde seit dem 09.09.,
+der sich beschwert, ohne Geld zu verlangen.
+
+⚠️ Sendungsnummer erneut aus der Familie `WNBAA…YQ` — **fünfter Fall** (Robert
+Gagne, #6872, #7741, #7001, jetzt #7316).
+
+→ `Bot/Needs Approval`. Kurz, ohne Vorlage, ohne Rückgabepolicy — er hat nichts
+gefordert. **Nicht auf der Erstattungsliste.**
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine
+Vorlagen-Absage, kein Text rekonstruiert.
