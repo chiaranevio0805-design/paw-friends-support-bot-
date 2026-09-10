@@ -1258,3 +1258,142 @@ nicht gehaltenen Zusage.**
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, **keine
 Rücksendeadresse erfunden**, keine Rückfrage nach dem Grund, kein Teilangebot,
 kein Text rekonstruiert.
+
+---
+
+## Lauf 20:20 UTC — 🚩🚩 die zweite nie verschickte Ersatzlieferung, und zwei weitere Teilangebote
+
+Drei Vorgänge, alle drei erweitern Befunde von heute Nachmittag.
+
+### 🚩🚩 Gary Sanderson — Ersatz zugesagt am **19.08.**, nie verschickt
+
+**20:17:**
+
+> „I wanted to request an **update in relation to your email dated 20th August**.
+> **Can you confirm a replacement is being sent as you stated**, as we have not
+> received one as yet"
+
+**Verlauf:**
+
+| Datum | Wer | Inhalt |
+|---|---|---|
+| **17.08. 18:05** | Kunde | „I have seen your **advertisement** about these products and **the replacement guarantee**. **How do you qualify for a replacement?**" + Fotos |
+| **19.08. 08:45** | **Postfach** | *„…I completely understand your concerns. **We can arrange a**…"* — Ersatz angeboten |
+| **19.08. 11:48** | Kunde | „If you could **send a replacement** that would be great… Please send to :- 60…" — **er nennt seine Adresse** |
+| **20.08. 20:25** | Postfach | *„We've **forwarded your replacement request to our team** for processing."* |
+| **10.09. 20:17** | Kunde | siehe oben — **22 Tage später** |
+
+**Shopify: unter `g.sanderson1@sky.com` existiert keine Bestellung** — sie läuft
+auf eine andere Adresse. **Ein Ersatzauftrag ist jedenfalls nicht auffindbar.**
+
+### 🔧 Korrektur: Gary Sanderson hat eine Antwort bekommen
+
+In allen bisherigen Logs steht er in der Liste der Kunden, die „**auf eine
+Antwort zur Ersatzgarantie warten**" (zuletzt heute 12:20 und im Morgenreport).
+**Das ist falsch.** Er hat am 19.08. eine bekommen, und zwar eine **zusagende** —
+genau wie Charles Rivera (#4317) **am selben Tag**.
+
+**Zwei Ersatzlieferungen, beide am 19.08. zugesagt, beide angenommen, keine
+verschickt.** Und derselbe Satz in beiden Fällen: „forwarded your replacement
+request to our team for processing."
+
+**Die berichtigte Lage bei der Ersatzgarantie:**
+
+| Kunde | Datum | Was geschah |
+|---|---|---|
+| Adam Sellens | 14.08. | Anzeige mitgeschickt; 15.08. „an unser Team weitergegeben"; seit 25.08. nichts |
+| **Gary Sanderson** | **17.08.** | **Ersatz zugesagt 19.08., nie verschickt** |
+| **Charles Rivera (#4317)** | **18.08.** | **Ersatz zugesagt 19.08., nie verschickt** |
+| Nick Tarrant (#6259) | 05.09. | Frage zweimal unbeantwortet → **Trading Standards** |
+| Jeff Williams (#5851) | 09.09. | „your company stated" → **PayPal** |
+
+**Nick Tarrant hat zweimal keine Antwort auf die Frage bekommen, ob es eine
+Ersatzgarantie gibt — während zwei andere Kunden längst eine schriftliche
+Zusage hatten.**
+
+→ `Bot/Escalated - Owner Attention`. **Achte offene schriftliche Zusage.**
+Nicht auf der Erstattungsliste — er will Ersatz, kein Geld.
+
+### #5186 John Abbott — Größe, Sicherheitshinweis, und ein Teilangebot
+
+**19:54:** „**Would like a full refund.** Sorry, this went to **Spam** and just
+seeing this"
+
+**Shopify:** **#5186**, bestellt **09.08. 00:03 UTC**, **51,21 £**, `PAID` /
+**`PARTIALLY_FULFILLED`**, 3 × Plushie + Zahnbuddy + E-Book, versandt 13.08.,
+Yanwen US `UL418694269YP`.
+
+**Verlauf:**
+
+- **26.08.:** „**How do I return these?**"
+- **28.08. Postfach:** *„Before we provide the return instructions, could you
+  please let us know **the reason** you would like to return the items?"* — die
+  Rückfrage-Vorlage
+- **30.08. Kunde:** „**Way too small** for my dog. **He tries to eat them.**"
+- **01.09. Postfach:** *„As a convenient alternative to returning the items, we
+  can offer you a…"* — **Teilangebot**
+- **10.09.:** volle Erstattung verlangt
+
+**Drei Punkte:** Es ist ein **Regel-2-Fall** (Rückgabe, kein Kauschaden
+gemeldet); „**he tries to eat them**" ist ein **Sicherheitshinweis** — die
+**elfte** Meldung dieser Art; und es ist der **vierte Größenfall** nach #6741,
+#4975 und #7506 (vor einer Stunde).
+
+**Nebenbefund:** Er sagt, die Antwort vom 01.09. sei **im Spam** gelandet. Das
+ist die Gegenrichtung zu #5851 und #4975, deren Erstkontakte im Postfach nicht
+auffindbar sind — **Post geht in beide Richtungen verloren.**
+
+→ `Bot/Needs Approval`. **⚠️ ERSTATTUNG: 51,21 £, Regel 2 — unbenutzt.**
+
+### #4055 Kimberley Ierston/Shenton — 30 % abgelehnt, seit dem 15.08. offen
+
+**19:35:**
+
+> „I appreciate the offer but the item would **still be expensive with 30 % off**.
+> It would make the total around **£14**. This toy is literally like something you
+> could get out of the supermarket for no…"
+
+**Shopify:** **#4055**, bestellt **31.07. 18:56 UTC**, **19,95 £**, `PAID` /
+`FULFILLED`. Bestellt unter dem **Mädchennamen** `kim.ierston@googlemail.com`.
+
+**Verlauf:** Rückgabe verlangt am **15.08.** → Rückfrage nach Details → „It is
+**not as advertised or pictured**" (16.08.) → Nachfrage (20.08.) → Rückfrage
+nach der Bestellnummer (21.08.) → sie kann sie nicht finden (21.08.) → „unable
+to locate an order" (22.08.) → **sie liefert den Mädchennamen nach** (22.08.) →
+**23.08.: „forwarded your return request… they will provide you with the return
+address"** → Nachfrage (04.09.) → **05.09.: 30 % Teilangebot** → heute abgelehnt.
+
+**Zwei Befunde:**
+
+1. **Am 23.08. wurde ihr die Rücksendeadresse zugesagt** — „they will provide
+   you with the return address and further instructions". **Neunte offene
+   schriftliche Zusage.** Dieselbe Formulierung wie bei **#3770 Steph Bentley**
+   (22.08.) und **#1301 Sheila Keirnan** (01.09.).
+2. **Das 30-%-Angebot vom 05.09. stand in keinem meiner Logs.**
+
+**Die Chronologie der Teilerstattungen steht damit bei zwölf Angeboten:**
+
+| Datum | Kunde | Angebot |
+|---|---|---|
+| 22.08. | Christina Williams (#4035) | 20 % |
+| 26.08. | Sharon Lagos (#5205) | 20 % |
+| 31.08. | Ken Beville (#6583) | 20 % |
+| 31.08. | Christina Williams (#4035) | 25 % |
+| 01.09. | Ken Beville (#6583) | 30 % |
+| **01.09.** | **John Abbott (#5186)** | **Teilbetrag** |
+| 03.09. | Trudi Trotter (#5148) | 30 % |
+| **05.09.** | **Kimberley Ierston (#4055)** | **30 %** |
+| 05.09. | Viken Jehdian (#6546) | Teilbetrag |
+| 07.09. | Karen McCormick (#4606) | 15 % |
+| 07.09. | Sheila Keirnan (#1301) | 30 % |
+| 09.09. | Sheila Keirnan (#1301) | 50 % |
+
+**Zwölf Angebote in 19 Tagen. Sechs davon gegen einen vollen Regelanspruch.
+Sechs ausdrücklich abgelehnt. Zwei angenommen und nie ausgezahlt.**
+
+→ `Bot/Needs Approval`. **⚠️ ERSTATTUNG: 19,95 £, Regel 2 — unbenutzt.**
+Rückgabe seit dem 15.08. verlangt, **26 Tage**.
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, kein weiteres
+Teilangebot, keine Rücksendeadresse erfunden, keine Ersatzlieferung zugesagt,
+kein Text rekonstruiert.
