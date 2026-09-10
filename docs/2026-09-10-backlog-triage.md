@@ -150,3 +150,58 @@ teilweise #6259.
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, kein Betrag
 geschätzt, keine Betragsdifferenz überbrückt, kein Text rekonstruiert, keine
 Rücksendeadresse erfunden.
+
+---
+
+## Lauf 02:20 UTC — #6280 Jasin Vandenbroeke: aus einem Lieferfall wird ein Kauschaden
+
+**Shopify, geprüft 10.09. 02:2x UTC:**
+
+- **#6280**, bestellt **15.08. 22:02 UTC**, **30,56 £**, `PAID` / `FULFILLED`
+- 2 × Plushie (Little Bear, hippo)
+- Versandt **20.08. 02:16 UTC** — fünf Tage, ungewöhnlich schnell für diesen
+  Zeitraum
+- 4PX Economic Registered, `4PX3003082535801CN`, Dudley (US)
+
+**Verlauf:**
+
+- **29.08. 14:51**, Betreff „**I want a refund**": „This is taking too long for
+  the items to get to me. It's going on **11 or so days**."
+- **31.08. 09:39 aus dem Postfach:** die Liefer-Vorlage — „has been shipped and
+  is currently on the way… **UK warehouse is currently sold out**… Delivery
+  usually takes **7–21 days**… **At around 11 days, your order is still within
+  the usual delivery timeframe** and should arrive as soon as possible."
+  **Keine Sendungsnummer**, obwohl sie seit dem 20.08. vorlag.
+- **10.09. 02:16**, mit Foto:
+
+> „The dog toys **did not last** — it took my dog **less than 20 minutes** to
+> tear them open and **get the squeaker out**. Given the poor quality and
+> durability issues, I [would] like to request a **full refund**."
+
+### Zwei Beobachtungen
+
+**1. Der Fall hat die Kategorie gewechselt.** Er hat als Lieferbeschwerde
+begonnen und ist nach der Zustellung ein Kauschadensfall geworden. Der
+Betreff „I want a refund" steht seit dem 29.08. im Thread — jetzt aber aus
+einem völlig anderen Grund. Wer nur den Betreff liest, beantwortet den
+falschen Fall.
+
+**2. „get the squeaker out" — neunte Meldung über lose Kleinteile**, nach
+#6283, Andy Sire, Kevin Saggers (#3197), #6741, der Nadel in #1301, dem
+Quietscher in #6286, der Füllwatte in #7179 (vor zwei Stunden) und dem
+Größenrisiko bei #4975. Er meldet **kein** Verschlucken, und das gehört ihm
+nicht unterstellt.
+
+**Klassifikation: Kauschaden → keine Erstattung nach der Regel.**
+
+→ `Bot/Needs Approval`. **Keine Vorlagen-Absage** — bei sechs von sechs am
+09.09. hat sie eskaliert. Die Antwort muss außerdem berücksichtigen, dass ihm
+am 31.08. bereits eine Antwort geschickt wurde, die **die Sendungsnummer
+wegließ**, obwohl sie seit elf Tagen im System lag. Das ist der **siebte**
+Fall dieser Art (#7771, #6751, #8295, #6199, #6872, #6044, jetzt #6280).
+
+**Nicht auf der Erstattungsliste** — Kauschaden fällt unter keine der drei
+Regeln.
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, kein Verschlucken
+unterstellt, kein Text rekonstruiert.
