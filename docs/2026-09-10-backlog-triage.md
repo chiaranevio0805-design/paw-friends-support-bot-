@@ -432,3 +432,91 @@ Sendung sei in Bewegung.**
 
 **Nicht getan:** kein Entwurf, kein Label, keine Zustellprognose, nicht
 behauptet, die Sendung bewege sich, kein Text rekonstruiert.
+
+---
+
+## Lauf 07:20 UTC — 🔧 #4035 Christina Williams: die Teilerstattungs-Chronologie war falsch
+
+**Shopify, geprüft 10.09. 07:2x UTC:**
+
+- **#4035**, bestellt **31.07. 16:21 UTC**, **27,95 £**, `PAID` / `FULFILLED`
+- 2 × Plushie (donkey, hippo)
+- Versandt **05.08. 04:32 UTC**, Yanwen, `UL393919026YP`
+
+### Der vollständige Verlauf (`get_thread`, sieben Nachrichten)
+
+| Datum | Wer | Inhalt |
+|---|---|---|
+| **19.08. 02:15** | Kundin | „I recently purchased 2 of your **'strong'** dog toys, my dogs **ripped them to bits in a day**. Can I have a refund please?" |
+| **20.08. 20:33** | Postfach | Vorlagen-Absage („does not cover items that have been used or damaged by a…") |
+| **21.08. 00:54** | Kundin | „**so what exactly does your 30 day money back guarantee cover?** for the toys that you claim are **super tough**? and **£15 each**? I would like a refund please. I have **pictures**…" |
+| **22.08. 09:00** | Postfach | Antwort mit **20 % Teilerstattung** |
+| **29.08. 14:43** | Kundin | „I would like a **full** refund please, **20 % is not enough**, the toys are rubbish, **a replacement will be the same**" |
+| **31.08. 09:38** | Postfach | *„As a further goodwill gesture, we can **increase the offer to a 25 % partial refund** while you keep the toys."* |
+| **10.09. 06:57** | Kundin | Foto beigefügt: „This was **within 24 hours of delivery**. **Why would I want a replacement or partial refund? I want my money back please**" |
+
+### 🔧 Zwei Korrekturen an meinen eigenen Logs
+
+**1. Die Teilerstattungs-Vorlage begann nicht am 26.08., sondern am 22.08.**
+
+Im Log vom 08.09. (Lauf 23:20) steht die Chronologie mit **Sharon Lagos
+(#5205, 26.08.)** als erstem Fall. Das ist falsch: **Christina Williams hat sie
+am 22.08. bekommen** — vier Tage früher.
+
+**2. Es gibt eine 25-%-Stufe, die in keinem meiner Logs stand.**
+
+Am 31.08. wurde ihr **25 %** angeboten, ausdrücklich als Erhöhung des
+vorherigen Angebots. Die bisher notierten Stufen waren 15 %, 20 % und 30 %.
+
+**Die berichtigte Chronologie — neun Angebote, nicht sieben:**
+
+| Datum | Kunde | Angebot | Anspruch nach Regel |
+|---|---|---|---|
+| **22.08.** | **Christina Williams (#4035)** | **20 %** | Kauschaden — kein Anspruch |
+| 26.08. | Sharon Lagos (#5205) | 20 % | angenommen, **nie ausgezahlt** |
+| 31.08. | Ken Beville (#6583) | 20 % | **voll (Regel 2)** — abgelehnt |
+| **31.08.** | **Christina Williams (#4035)** | **25 %** | Kauschaden — abgelehnt |
+| 01.09. | Ken Beville (#6583) | 30 % | **voll (Regel 2)** — abgelehnt |
+| 03.09. | Trudi Trotter (#5148) | 30 % | **voll (Regel 2)** — abgelehnt |
+| 05.09. | Viken Jehdian (#6546) | Teilbetrag | angenommen, **nie ausgezahlt** |
+| 07.09. | Karen McCormick (#4606) | 15 % Rabatt | **voll (Regel 3)** |
+| 07.09. | Sheila Keirnan (#1301) | 30 % | **voll (Regel 1 + 2)** |
+
+**Neun Angebote in 16 Tagen, fünf davon gegen einen vollen Regelanspruch, zwei
+angenommen und nie ausgezahlt, vier ausdrücklich abgelehnt.**
+
+### 🔧 Dritte Korrektur: die Garantie-Frage ist älter als gedacht
+
+Am **21.08.** fragte sie: „**what exactly does your 30 day money back guarantee
+cover?**" Das ist **die früheste Fassung** dieser Frage — im Log vom 09.09.
+hatte ich `bev212.bs` (06.09.) als ersten Fall notiert.
+
+**Fünf Kunden, beginnend am 21.08.:** Christina Williams (21.08.),
+`bev212.bs` (06.09.), Gary Lindsay #4273 (09.09., „the guarantee… is
+**pointless**"), Deborah Gould #6286 (09.09.), Sofia Christopoulos #6760
+(10.09.).
+
+### Einordnung des heutigen Vorgangs
+
+**Klassifikation: Kauschaden → keine Erstattung nach der Regel.** Ihr Anspruch
+auf die vollen 27,95 £ ergibt sich aus den drei Regeln **nicht**.
+
+**Aber:** Ihr sind zwei Teilbeträge angeboten worden (20 %, dann 25 %) — das ist
+**kein** Bestandteil der Policy. Sie fragt jetzt zu Recht: „**Why would I want a
+replacement or partial refund?**" Ein drittes Angebot würde denselben Weg
+nehmen; das ist bei Ken Beville (#6583) nach zwei Angeboten dokumentiert.
+
+Dazu: **Foto beigefügt**, Schaden **innerhalb von 24 Stunden nach Lieferung**,
+**vierter Kontakt** seit dem 19.08.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund (nur fürs Log):** vierter Kontakt, bestrittene Werbeaussage
+(„'strong'", „super tough"), zweimal abgelehntes Abwehrangebot, offene Frage zum
+Geltungsbereich der Garantie seit dem 21.08. unbeantwortet.
+
+**Nicht auf der Erstattungsliste** — Kauschaden. Ob ihr über die Regel hinaus
+erstattet wird, ist eine **Owner-Entscheidung**; nach zwei eigenen Angeboten
+steht die Sache aber anders da als bei einem Fall ohne Vorgeschichte.
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, **kein drittes
+Teilangebot**, kein Text rekonstruiert.
