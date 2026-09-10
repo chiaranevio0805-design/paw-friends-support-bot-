@@ -869,3 +869,86 @@ zu ändern. Beides ist Owner-Sache und beides steht seit dem 21.08. offen.
 
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine zweite
 Absage, kein Text rekonstruiert.
+
+---
+
+## Lauf 12:20 UTC — 🚩🚩 #4317 Charles Rivera: die Ersatzlieferung wurde zugesagt — und nie verschickt
+
+**Das ist der Beleg, der in der offenen Ersatzgarantie-Frage bisher gefehlt hat.**
+
+**Shopify, geprüft 10.09. 12:2x UTC:**
+
+- **#4317**, bestellt **03.08. 01:48 UTC**, **28,51 £**, `PAID` / `FULFILLED`
+- 2 × Plushie (hippo, elephant), versandt 05.08., Yun Express US,
+  `YT2621700703209981`
+- **Es existiert keine zweite Bestellung** unter dieser Adresse. **Kein
+  Ersatzauftrag ist je angelegt worden.**
+
+**Verlauf:**
+
+| Datum | Wer | Inhalt |
+|---|---|---|
+| **18.08. 12:35** | Kunde | „We were excited to finally purchase a dog toy that was said to be **indestructible**… **Both toys did not last 3 days**. **I really don't want a refund.** I would…" |
+| **19.08. 10:57** | **Postfach** | *„We can **arrange two replacement toys** for you. Before we proceed, please confirm…"* |
+| **19.08. 13:22** | Kunde | „**Yes, please go ahead and send the 2 replacement toys.** Thank you for your help." |
+| **20.08. 20:29** | Postfach | *„We've **forwarded your replacement request to our team** for processing. They will review the request and arrange the replacement accordingly."* |
+| **10.09. 12:04** | Kunde | „**I have not received my replacement dog toys. Nor have I gotten an email that they were shipped.** Can you please give me an update…" |
+
+### Warum das den Ersatzgarantie-Komplex entscheidet
+
+Seit dem 14.08. steht in diesen Logs die Frage offen, ob es eine
+**Ersatzgarantie** gibt. Vier Kunden berufen sich darauf, einer davon hat
+deswegen **Trading Standards** eingeschaltet:
+
+| Datum | Kunde | Quelle |
+|---|---|---|
+| 14.08. | Adam Sellens | Anzeige mitgeschickt, seit 25.08. ohne Antwort |
+| 18.08. | Gary Sanderson | Anzeige |
+| 05.09. | **Nick Tarrant (#6259)** | **Website** — 10.09. Trading Standards |
+| 09.09. | Jeff Williams (#5851) | „your company stated" |
+
+**`support-policy.md` kennt keine Ersatzgarantie.** Aber am **19.08.** hat das
+Postfach einem Kunden eine Ersatzlieferung **ausdrücklich angeboten** — „we can
+arrange two replacement toys for you" — und er hat sie **angenommen**.
+
+Damit ist die Frage nicht mehr, ob die Werbung etwas verspricht, das die Policy
+nicht kennt. **Der Support selbst hat es zugesagt.** Und **22 Tage später ist
+nichts passiert**: kein Ersatzauftrag in Shopify, keine Versandmitteilung, keine
+Rückmeldung.
+
+**Charles Rivera ist außerdem der Kunde, der ausdrücklich schrieb: „I really
+don't want a refund."** Er wollte nur funktionierende Spielzeuge. Er gehört
+damit zu der Gruppe, die seit dem 09.09. sechsmal aufgetreten ist (#6044, #3344,
+#7559, #7101, #7271, #6952) — und er ist der Einzige davon, dem **etwas zugesagt
+wurde**.
+
+### Die Liste der offenen Zusagen wächst auf sechs
+
+| Vorgang | Kunde | Zugesagt am | Art | Stand |
+|---|---|---|---|---|
+| #2228 | Ann Price | 17.07. | Erstattung | nie gezahlt |
+| #2283 | Tara Harte | 17.07. | Erstattung | nie gezahlt |
+| **#4317** | **Charles Rivera** | **19.08.** | **Ersatzlieferung** | **nie verschickt** |
+| — | #5841 | — | Erstattung | als erledigt gemeldet, nie gezahlt |
+| #3770 | Steph Bentley | 03.09. | Erstattung | nie gezahlt |
+| #8253 | Tim Kipling | 06.09. | Erstattung | nie gezahlt, heute Betrugsvorwurf |
+
+**Sechs schriftliche Zusagen, keine einzige ausgeführt.** Die älteste ist
+**56 Tage** alt.
+
+### Einordnung
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund (nur fürs Log):** offene Ersatzzusage seit dem 19.08.,
+Zweitkontakt nach 22 Tagen Funkstille, bestrittene Werbeaussage.
+
+**Was zu entscheiden ist — und zwar für alle fünf Fälle gemeinsam:** Gibt es
+eine Ersatzlieferung oder nicht? Bei Charles Rivera ist sie **zugesagt und
+angenommen**; bei Nick Tarrant führt die unbeantwortete Frage danach bereits zu
+einer Behörde. Der Support kann das nicht auflösen.
+
+**Nicht auf der Erstattungsliste** — er will **kein** Geld, er will die Ware.
+Eine Erstattung wäre nicht das, worum er gebeten hat.
+
+**Nicht getan:** kein Entwurf, kein Label, keine Ersatzlieferung veranlasst
+(nicht möglich), keine neue Zusage, kein Text rekonstruiert.
