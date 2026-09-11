@@ -994,3 +994,107 @@ Versehen.**
 **Nicht getan:** keine Antwort entworfen, keine Erstattung zugesagt, kein Anteil
 geschätzt, `in:sent` nicht systematisch durchsucht, Elisabeth nicht kontaktiert,
 kein Label gesetzt.
+
+---
+
+## Lauf 18:20 UTC — #6606 fragt zum dritten Mal nach der Bewertung, und was dabei im Shop sichtbar wird
+
+### Der Vorgang
+
+**Shopify:** #6606 **Matt Pinnock**, bestellt **18.08. 16:06**, **29,95 £**,
+`PAID` / `FULFILLED`, Tag `Kaching Bundles`, 2 × Paw-Friends™-Fluffys (Duck,
+giraffe), versandt **23.08. 02:12** ab Kirchstr. 2, Yanwen Special Line
+`UL445331564YP`, Knaphill, England.
+
+| Datum | Was passiert ist |
+|---|---|
+| 07.09. 11:45 | „our dog has totally destroyed it within days though you say they are **non destructible**. What are the next steps? **Am happy to show photographs**." |
+| 08.09. 08:25 | Vorlagen-Absage |
+| **08.09. 08:34** | „Thank you for the prompt response **and I understand**. **How do I leave a review** because I think it's important that people understand that they are not as durable as what is portrayed?" |
+| 09.09. 11:05 | **dieselbe Absage noch einmal** — die Frage nach der Bewertung kommt darin nicht vor |
+| **11.09. 18:04** | „**Would you be able to advise how we leave a review please.** Thanks" |
+
+**Er hat die Absage angenommen.** Er verlangt keine Erstattung, er hat nie eine
+verlangt. Er stellt seit drei Tagen **eine einzige Frage** und hat darauf
+zweimal eine Antwort über Kauschäden bekommen.
+
+### Was die Shop-Daten dazu zeigen
+
+Abgefragt wurden die Bewertungs-Metafelder des Hauptprodukts
+(`Plushies – Designed for Furry Friends Who Destroy Everything`):
+
+| Feld | Wert |
+|---|---|
+| `loox.avg_rating` | **5.0** |
+| `loox.num_reviews` | **78** |
+| `reviews.rating` | 5.0 von 5.0 |
+
+**78 Bewertungen, Durchschnitt 5,0. Keine einzige negative darunter.** Im
+selben Zeitraum liegen im Postfach rund 70 Beschwerden über genau die
+Haltbarkeit, die diese Bewertungen loben.
+
+**🔎 Zehn Bewertungen tragen denselben Zeitstempel-Block.** Im Loox-Feed sind
+zehn Einträge mit vollständigen westlichen Namen auf den **01.06.2026 zwischen
+18:41:05 und 18:50:57 UTC** datiert — **zehn Minuten**:
+
+> Evie L. („no toy in the world ever stands up to our Rottweiler… still in one
+> piece"), Johanna S., Tim W., Mike L., Lily J., Mia T., Sophia G., Emily H.
+> („Lotte usually destroys every toy, but this one has already lasted two
+> weeks"), Jones O. („My 'destroyer' has had a hard time with it"), James S.
+> („my little one has been trying to destroy it for four weeks").
+
+Die übrigen Einträge sind anders: maskierte Namen (`A***z`, `Б***а`, `M***r`),
+generische Texte, Daten bis zurück ins Jahr 2025 — das Muster importierter
+Marktplatz-Bewertungen.
+
+**Der Bot stellt hier keine Absicht fest.** Er stellt fest: die zehn
+namentlichen Haltbarkeits-Testimonials sind innerhalb von zehn Minuten an einem
+Abend angelegt worden, und das steht so in den Shop-eigenen Daten.
+
+**Damit ist der Vorwurf von #5973 Stephen Cooil vom 09.09. belegbar geworden:**
+
+> „Your advert makes great claims about the toy being 'designed for furry
+> friends who destroy everything' **with testimonials from people who say
+> favourable things. I'm afraid that I can't believe these are genuine.**"
+
+Er hat darauf zweimal die Haltbarkeits-Vorlage bekommen.
+
+### Warum die unbeantwortete Frage kein Nebenschauplatz ist
+
+Matt Pinnock will eine negative Bewertung abgeben. In einem Pool von 78
+Bewertungen mit Schnitt 5,0 wäre sie die erste. **Er fragt zweimal, wie das
+geht, und bekommt zweimal keine Antwort.** Wie das von aussen aussieht, muss
+hier nicht ausgeführt werden.
+
+Nach `support-policy.md` ist „scripted concealment" ausgeschlossen. **Eine
+dritte Nicht-Antwort auf diese Frage wäre genau das.**
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** dritter Kontakt zur selben unbeantworteten Frage;
+bestrittene Werbeaussage; Bewertungsabsicht, die zweimal ins Leere lief;
+Bewertungspool des Hauptprodukts ohne jede negative Stimme bei rund 70
+gegenteiligen Kundenmails.
+
+**Nicht auf der Erstattungsliste** — Kauschaden, kein Regelfall, **und er
+verlangt nichts.**
+
+### Was der Owner entscheiden muss
+
+1. **Bekommt Matt Pinnock den Weg zur Bewertung genannt — ja oder nein?** Der
+   Shop nutzt **Loox**. Der Bot hat **nicht** geprüft, ob dort das Einreichen
+   ohne Einladung möglich ist, und erfindet keinen Link.
+2. **Die zehn Einträge vom 01.06.** gehören überprüft, bevor der nächste Kunde
+   dieselbe Frage stellt.
+3. **Die Testimonials stehen in der Werbung**, auf die sich inzwischen mehrere
+   Kunden berufen — zusammen mit der heute zweimal zitierten Ersatzzusage
+   (#7060, #5851) ist das der dritte shopseitige Text an einem Tag, der geprüft
+   werden muss.
+
+### Entwurf
+
+Volltext in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#6606**.
+Kein Gmail-Entwurf angelegt — `create_draft` bricht seit dem 21.08. ab.
+
+**Nicht getan:** kein Bewertungslink erfunden, keine Loox-Funktion behauptet,
+keine Aussage über die Echtheit einzelner Bewertungen, keine Vorlagen-Absage
+wiederholt, keine Erstattung zugesagt, kein Label gesetzt.

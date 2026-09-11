@@ -722,6 +722,45 @@ Zustelltermin, keine 7–21-Tage-Formel, keine Erstattung. Der Kunde wird
 
 ---
 
+## #6606 — mpinnock@hotmail.co.uk — „How do I leave a review?", dritte Nachfrage
+
+**Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
+bestehenden Thread, Betreff `Re: Order #6606 confirmed`.
+**Er verlangt nichts und hat die Absage angenommen. Diese Antwort darf weder
+eine Absage noch ein Angebot enthalten — nur die Antwort auf seine Frage.**
+
+> Dear Matt,
+>
+> You have asked this twice now and been sent the durability paragraph both
+> times instead. That was not an answer to your question, and I'm sorry you had
+> to ask a third time.
+>
+> The straight position: reviews on our site are collected through Loox, which
+> normally sends a review request by email after an order. I am not going to
+> paste you a link I have not checked works, because sending you somewhere that
+> goes nowhere would be the fourth non-answer. I have asked the owner of the
+> business today for the exact route for a customer who wants to leave a review
+> without waiting for an invitation, and I will send it to you.
+>
+> I also want to be clear about one thing, because it may be why you are
+> asking: nobody here is going to try to talk you out of the review or make it
+> difficult. You said the toys are not as durable as portrayed. That is your
+> experience and you are entitled to say so publicly, on our site or anywhere
+> else.
+>
+> If your offer of photographs still stands, I would like to pass them to the
+> owner along with this.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** zugesagt ist, ihm den Weg zur Bewertung nachzuliefern —
+und nichts sonst. Keine Erstattung, kein Ersatz, kein erfundener Link, keine
+Behauptung über die Loox-Funktion, die nicht geprüft ist. **Diese Zusage muss
+tatsächlich eingelöst werden; sie ist der einzige Inhalt der Mail.**
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
