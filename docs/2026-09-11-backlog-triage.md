@@ -565,3 +565,142 @@ bei jedem Versuch ab.
 **Nicht getan:** keine Vorlagen-Absage wiederholt, keine Erstattung zugesagt,
 keine 7–21-Tage-Zusage, keine Zustellprognose, kein Label gesetzt,
 `⚠️ MANUELLE PRÜFUNG` nur hier und nicht im Entwurfstext.
+
+---
+
+## Lauf 14:20 UTC — drei neue Fälle, darunter eine Werbeaussage, die es bisher nicht gab
+
+**Neu seit 13:20:** drei Kundenmails, 13:43, 13:46 und 14:01.
+
+---
+
+### 🚩 #7060 Felecia Pierce — „advertised as **indestructible or you get a refund**"
+
+**14:01**, Betreff „Order purchase", mit Kaufbeleg im Anhang (`1092.jpg`):
+
+> „I am writing to formally raise a concern regarding a recent purchase that
+> involved **false advertising**. The dog toy was **advertised as indestructible
+> or you get a refund**. What I received **did not match the features and claims
+> described in your commercial**. Specifically, It's just a stuff animal I could
+> purchase anywhere. Because the item was **not as advertised**, I would like to
+> request a full refund. …**Package received 9/11/2026 at 7am.**"
+
+**Shopify:** #7060, bestellt **21.08. 21:52**, **20,35 £**, `PAID` /
+`FULFILLED`, 1 × Plushie (elephant), versandt **02.09. 10:46** ab Kirchstr. 2,
+**WB US `WNBAA0497781141YQ`**, San Diego, Kalifornien.
+**Zugestellt heute 07:00 Ortszeit** — 21 Tage nach der Bestellung, neun Tage
+nach dem Versand.
+
+**Zwei Dinge machen diesen Fall anders als alle bisherigen:**
+
+1. **🔎 Eine Werbeaussage, die in keinem der bisherigen 70+ Fälle vorkam:**
+   „indestructible **or you get a refund**". Das ist keine Haltbarkeitsaussage,
+   das ist eine **zugesagte Erstattung für genau den Fall, den die Vorlage
+   ablehnt**. Wenn dieser Text so auf der Seite oder in einer Anzeige steht,
+   widerspricht die Standardabsage der eigenen Werbung. **Das ist vom Owner an
+   der Live-Seite und im Anzeigenkonto zu prüfen — der Bot stellt es hier als
+   Kundenbehauptung fest, nicht als Befund.**
+2. **Es ist kein Kauschadensfall.** Sie schreibt **nicht**, dass der Hund etwas
+   zerstört hat. Sie hat das Paket heute früh bekommen und beanstandet das
+   Produkt selbst: es entspreche nicht der Beschreibung. Ob der Artikel
+   **unbenutzt** ist, sagt sie nicht — **das ist zu fragen, nicht anzunehmen.**
+   Wenn ja, ist das **Regel 2** innerhalb der 30 Tage.
+
+**Wenn dieser Fall die Kauschaden-Vorlage bekommt, ist das die sechste
+Regel-2-Verwechslung** — und die erste, bei der die Vorlage eine Erstattung
+ablehnt, die die Werbung selbst zugesagt haben soll.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage in einer neuen, gravierenderen
+Form („or you get a refund"), förmliche Falschwerbungs-Rüge, Kaufbeleg
+beigefügt, möglicher Regel-2-Anspruch bei unbenutzter Ware.
+
+**Noch nicht auf der Erstattungsliste** — erst nach der Rückfrage, ob der
+Artikel unbenutzt ist. 20,35 £ stehen im Raum.
+
+---
+
+### 🚩 #5973 Stephen Cooil — dritte Absage, vierte Nachfrage, und der Esel ist immer noch ungeöffnet
+
+**Shopify:** #5973, bestellt **13.08. 16:06**, **29,95 £**, `PAID` /
+`FULFILLED`, Tag `Kaching Bundles`, 2 × Plushie (**donkey** und **elephant**,
+beide Listenpreis 19,95 £), versandt **22.08. 01:50**, Yanwen
+`UL442891065YP`, Chester, England.
+
+| Datum | Was passiert ist |
+|---|---|
+| ~06.09. | Erste Mail mit **Video und Foto** — nie beantwortet |
+| 08.09. 09:54 | Zweitkontakt: „I wish to return **both items** for a full refund per the advertised 30 day guarantee" |
+| 09.09. 11:10 | **Erste Vorlagen-Absage** |
+| 09.09. 12:15 | Er bestreitet die Werbung und die Testimonials, nennt es „a scam", kündigt **Medien** an. **Und schreibt: „We do still have a Donkey, untouched."** |
+| **11.09. 09:47** | **Zweite Absage** — Text leicht umformuliert, Ergebnis identisch. **Der ungeöffnete Esel kommt darin nicht vor.** |
+| **11.09. 13:43** | **„Dear Lisa, I still have one unused toy that I wish to return for a refund. How do I go about this?"** |
+
+**Er fragt jetzt zum dritten Mal nach demselben ungeöffneten Spielzeug** — am
+08.09. („both items"), am 09.09. („a Donkey, untouched") und heute. Zweimal ist
+darauf eine Absage gekommen, die ausschließlich Kauschaden behandelt.
+
+**Der Esel ist ein Regel-2-Fall.** Unbenutzt, Originalzustand, innerhalb der
+30 Tage ab Zustellung. Die Garantie deckt ihn **so, wie sie selbst formuliert
+ist**. Beide Positionen haben denselben Listenpreis (19,95 £), gezahlt wurden
+**29,95 £** für beide zusammen — **die Zuordnung ist im Shopify-Admin zu
+bestimmen, nicht hier auszurechnen.**
+
+**Und die Frage, die er stellt, ist die, die seit dem 13.08. nicht beantwortbar
+ist:** „How do I go about this?" **Es gibt keine Rücksendeadresse.** Das ist der
+älteste offene Blocker im Projekt — inzwischen 29 Tage — und er ist jetzt der
+Grund, warum ein unstrittiger Anspruch nicht abgewickelt werden kann.
+
+**Damit ist die Regel-2-Verwechslung bei sechs Fällen:** #4812 Carolyn
+Marmalejo, #5973 Stephen Cooil (**dreimal derselbe Kunde**), #6528 Tommy
+Johnson, #7179 Keith Crane — und möglicherweise #7060.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** vierter Kontakt ohne Lösung, zwei Absagen an der Frage
+vorbei, angekündigte Medienkontaktierung am 09.09., unstrittiger
+Regel-2-Anspruch blockiert durch die fehlende Rücksendeadresse.
+
+**Auf der Erstattungsliste:** Anteil für den **ungeöffneten Esel**, Regel 2 —
+Betrag im Admin zu bestimmen.
+
+---
+
+### #7547 Luke Prior — Ware nicht angekommen, will stornieren
+
+**13:46**, Betreff „No order":
+
+> „My order hasn't turned up and I feel time taken to deliver is **not
+> acceptable** therefore I would like a **refund** as not willing to wait any
+> longer and **want to go elsewhere**."
+
+**Shopify:** #7547, bestellt **24.08. 09:27**, **19,95 £**, `PAID` /
+`FULFILLED`, 1 × Plushie (monkey), versandt **03.09. 07:38** ab Kirchstr. 2,
+Yanwen Special Line `UL478624693YP`, Wisbech, England.
+
+**Achter Kunde aus dem Versandstapel vom 03.09.** — nach #7568, #7525, #7899
+und den übrigen. **Zehn Tage** zwischen Bestellung und Versand.
+
+**Regel 3 greift hier nicht:** die Ware ist am 03.09. versandt worden, die
+Stornierung kommt acht Tage danach. Eine Erstattung für Nichtzustellung ist
+**kein Regelfall** und damit **Owner-Entscheidung** — der Bot sagt sie nicht zu.
+
+**Was ihm zusteht und nicht gesagt wurde:** die Sendungsnummer. Sie liegt seit
+dem 03.09. vor. Er ist der zweite Kunde heute (nach Carol Garvey #7525), dem
+eine vorhandene Nummer nicht genannt wurde.
+
+→ `Bot/Needs Approval`. Sagbar: Versanddatum, Zusteller, Nummer, Trackinglink,
+und offen, dass zehn Tage bis zum Versand vergingen. **Nicht sagbar:** eine
+Erstattungszusage, ein Zustelltermin, die 7–21-Tage-Formel.
+
+---
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#7060**, **#5973**
+und **#7547**. Kein Gmail-Entwurf angelegt — `create_draft` bricht seit dem
+21.08. bei jedem Versuch ab.
+
+**Nicht getan:** keine Vorlagen-Absage wiederholt, keine Erstattung zugesagt,
+kein Anteil ausgerechnet, keine Rücksendeadresse erfunden, keine
+Zustellprognose, keine 7–21-Tage-Formel, kein Label gesetzt,
+`⚠️ MANUELLE PRÜFUNG` nur hier und nicht im Entwurfstext.

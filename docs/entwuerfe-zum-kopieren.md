@@ -469,6 +469,126 @@ Kein Verweis an den Zusteller.
 
 ---
 
+## #7060 — fpierce1967@gmail.com — „indestructible or you get a refund"
+
+**Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
+bestehenden Thread, Betreff `Re: Order purchase`.
+**Wichtig: das ist KEIN Kauschadensfall. Die Kauschaden-Vorlage darf hier unter
+keinen Umständen hin.**
+
+> Dear Ms Pierce,
+>
+> Thank you for writing, and for attaching your receipt.
+>
+> I want to be careful not to answer you with a standard reply, because your
+> email is not the one those replies are written for. You are not telling me a
+> dog destroyed the toy. You received the parcel this morning and you are
+> saying the item itself is not what the advertising described. Those are
+> different things and they deserve different answers.
+>
+> You have also quoted a promise I need to check rather than wave away — that
+> the toy was advertised as indestructible or you get a refund. I am not going
+> to tell you today that no such wording exists, and I am not going to confirm
+> it either. I am putting that question, in your words, to the owner of the
+> business along with your order, because if we advertised a refund then a
+> refund is what we advertised.
+>
+> One thing would help me: is the toy still unused and in the condition it
+> arrived in this morning? If it is, that matters for how this is handled,
+> because our own 30-day guarantee is written for exactly that.
+>
+> You will get a direct answer rather than another standard one.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage, kein Betrag, keine
+Rücksendeadresse, keine Frist. Zugesagt sind die Vorlage beim Owner und eine
+direkte Antwort. Die Werbeaussage wird **weder bestätigt noch bestritten** —
+sie ist nicht geprüft. Die Rückfrage nach dem Zustand ist die einzige echte
+Frage darin und entscheidet, ob Regel 2 greift.
+
+---
+
+## #5973 — stevecooil@me.com — der ungeöffnete Esel, dritte Nachfrage
+
+**Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
+bestehenden Thread, Betreff `Re: Plushies Order 5973`.
+**Er hat zweimal eine Absage bekommen, die seine Frage nicht berührt. Diese
+Antwort darf die Garantiebedingungen nicht noch einmal zitieren.**
+
+> Dear Stephen,
+>
+> You have now asked the same question three times and been answered twice
+> about something else. I'm sorry about that.
+>
+> To be clear about where I stand: the untouched donkey is not the chewed
+> elephant, and the replies you received treated them as one thing. An unused
+> toy in its original condition is exactly what our 30-day guarantee is written
+> for. You are not asking for an exception to it, you are asking for it to be
+> applied.
+>
+> You asked how to go about it, and here I have to be straight with you rather
+> than helpful-sounding: I do not have a returns address to give you. That is
+> not a stalling tactic and it is not a condition I am putting on you — we do
+> not currently have one on file, and I am not going to invent one and have
+> your parcel disappear. I have said so plainly to the owner of the business
+> along with your order, because this is now the thing standing between you and
+> a claim nobody is disputing.
+>
+> On the elephant and on the advertising, I am not going to send you the
+> durability paragraph a third time. Your video and your point about the
+> testimonials have gone to the owner as well.
+>
+> You will get a direct answer, including on how to send the donkey back.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** zugesagt sind die Vorlage beim Owner und eine direkte
+Antwort einschließlich des Rückweges. **Keine** Erstattungszusage, **kein**
+Betrag, **keine** erfundene Adresse. Der Regel-2-Anspruch wird eingeräumt, die
+Abwicklung ausdrücklich als offen benannt.
+
+---
+
+## #7547 — lukepriora20@hotmail.com — Ware nicht angekommen, will stornieren
+
+**Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
+bestehenden Thread, Betreff `Re: No order`.
+
+> Dear Luke,
+>
+> Thank you for writing, and I understand why you have run out of patience.
+>
+> Here is where your order actually is. It was placed on 24 August and
+> dispatched on 3 September with Yanwen Special Line, tracking number
+> UL478624693YP, which you can follow at
+> https://t.17track.net/en#nums=UL478624693YP. That number should have been
+> sent to you before now.
+>
+> The part I won't dress up: ten days passed between your order and the parcel
+> being handed over. That delay was on our side, not the courier's, and nothing
+> about it was explained to you at the time.
+>
+> On the refund — I'm not going to promise you one in this email and then have
+> someone overturn it, which is worse than saying nothing. The request to
+> cancel and refund is with the owner of the business today, with the dates
+> above, and you will get a straight yes or no rather than another wait.
+>
+> I'm also not going to give you a delivery date. I'd be guessing, and a guess
+> is what got you here.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage — ausdrücklich offengelassen und
+als Owner-Entscheidung benannt. Kein Zustelltermin, keine 7–21-Tage-Formel,
+kein Verweis an den Zusteller. Die Sendungsnummer und die zehn Tage
+Verzögerung sind belegt.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
