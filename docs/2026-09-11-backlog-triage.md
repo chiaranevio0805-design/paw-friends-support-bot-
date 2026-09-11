@@ -704,3 +704,170 @@ und **#7547**. Kein Gmail-Entwurf angelegt — `create_draft` bricht seit dem
 kein Anteil ausgerechnet, keine Rücksendeadresse erfunden, keine
 Zustellprognose, keine 7–21-Tage-Formel, kein Label gesetzt,
 `⚠️ MANUELLE PRÜFUNG` nur hier und nicht im Entwurfstext.
+
+---
+
+## Läufe 15:20 und 16:20 UTC — die Werbeaussage bestätigt sich unabhängig, und eine Korrektur
+
+### 🔧 Korrektur zum Eintrag 13:20
+
+Dort steht: „**drei** Kauschaden-Absagen, drei Eskalationen". **Das war zu
+niedrig.** Zum Zeitpunkt des Eintrags waren zwei weitere Absagen desselben
+Vormittags noch nicht zurückgekommen. Vollständig sieht der Vormittag so aus:
+
+| Absage | Kunde | Reaktion | Abstand |
+|---|---|---|---|
+| 09:47:47 | **Stephen Cooil #5973** (2. Absage) | erneute Regel-2-Frage | 3 Std 56 Min |
+| 09:50:15 | **Jeff Williams #5851** | Chargeback + **BBB** | 5 Std 18 Min |
+| 09:58:51 | Keith Crane #7179 | Chargeback | 41 Min |
+| 09:59:27 | Cameron Herpich #7101 | PayPal + öffentliche Bewertung | 28 Min |
+| 10:01:33 | Rosalind Welch #7271 | „deceptive" + öffentliche Bewertung | 3 Std 16 Min |
+| 10:09:01 | Carol Garvey #7525 (Lieferauskunft) | bedankt sich | — |
+
+**Fünf Kauschaden-Absagen, fünf Eskalationen. Keine Ausnahme.**
+Die einzige Antwort des Vormittags, die nicht eskaliert ist, war die, die keine
+Absage war.
+
+---
+
+### 🚩🚩 Die Werbeaussage „Ersatz bzw. Erstattung garantiert" — jetzt zweimal unabhängig
+
+**Heute haben zwei Kunden, die nichts miteinander zu tun haben, innerhalb von
+67 Minuten dieselbe Zusage zitiert:**
+
+| Zeit | Kunde | Zitat |
+|---|---|---|
+| **14:01** | **Felecia Pierce #7060** (San Diego, CA) | „advertised as indestructible **or you get a refund**" |
+| **15:08** | **Jeff Williams #5851** (Cedar Park, TX) | „on your ad your company stated that **if a dog destroys this 'undestroyable' toy then you would replace it free**. **That is the only reason I ordered the toys** was because of your guarantee of free replacement." |
+
+Jeff Williams hatte das bereits am **09.09. 16:39** geschrieben („Your company
+stated it would replace any toy destroyed") — **und bekam am 11.09. 09:50 die
+Vorlagen-Absage, die genau diese Zusage bestreitet.**
+
+**Warum das etwas anderes ist als die bisherigen ~70 Werbevorwürfe:** die
+bisherigen betreffen die *Haltbarkeit*. Diese beiden betreffen eine *zugesagte
+Rechtsfolge* — Ersatz oder Erstattung für den Zerstörungsfall. Wenn dieser Text
+so geschaltet wurde oder wird, dann lehnt die Standardvorlage etwas ab, das der
+Shop selbst zugesagt hat. Beide Kunden sind in den **USA**; beide berufen sich
+auf eine **Anzeige**, nicht auf die Produktseite.
+
+**Was der Bot dazu geprüft hat und was nicht — ausdrücklich:**
+Es ist festgestellt, dass unter dem Konto **fünf Werbekonten** liegen, darunter
+eines in **GBP** mit dem Namen **„Uk 1" (ID `2479996745858211`)**, das als
+einziges GBP-Konto zur Paw-Friends-Währung passt. **Die Anzeigentexte selbst
+sind nicht gelesen worden.** Der Bot behauptet also **nicht**, dass diese Zusage
+geschaltet wurde — er stellt fest, dass **zwei unabhängige Kunden sie
+übereinstimmend zitieren** und dass die Prüfung im Werbekonto und auf der
+Live-Seite **offen ist**. Diese Prüfung gehört dem Owner.
+
+**Solange sie offen ist, darf keiner dieser Fälle eine Absage bekommen, die die
+Zusage bestreitet.**
+
+---
+
+### 🚩 #5851 Jeff Williams — dritte BBB-Meldung
+
+**Shopify:** #5851, bestellt **12.08. 21:22**, **44,03 £**, `PAID` /
+`FULFILLED`, Tags `Kaching Bundles`, `UpCart Rewards`, drei Positionen
+(Zahnbuddy „Blue Mop Plush Dog", Plushie fox, Plushie donkey), versandt
+**25.08. 01:42** ab Kirchstr. 2, **JQ Express US `JCHSG0000004274082`**,
+Cedar Park, Texas. **Dreizehn Tage bis zum Versand.**
+
+Seine Antwort **15:08**: „…your products are cheap Chinese made shit and your
+warranty is crap. **I will have this reversed on my c/c** instead of dealing
+with incompetent thieves. **Will also report your company to the Better
+Business Bureau.**"
+
+**BBB zum dritten Mal** seit dem 05.09. Behördenstand insgesamt: Trading
+Standards / Citizens Advice (4×), BBB (3×), FTC, State Attorney General, ACCC,
+UKICC.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** zitierte Ersatz-Zusage aus der Werbung, angekündigter
+Chargeback, angekündigte BBB-Meldung, Zweitkontakt nach unbeantworteter
+Erstmail.
+**Nicht auf der Erstattungsliste** — Kauschaden, kein Regelfall. Die zitierte
+Zusage ist ungeprüft und wird hier **nicht** als Anspruchsgrundlage geführt.
+
+---
+
+### 🚩 dinod28@aol.com — die 20-%-Vorlage bricht
+
+**15:50**, Antwort auf ein Angebot vom **03.09.**:
+
+> „That won't work **why have a 30 day money back guarantee if you don't take
+> the toy back?** **What if I only bought one** — I would like my full refund
+> **false advertising** don't think customers will…"
+
+**Vorgeschichte:** Am 29.08. meldet sie einen Schaden am blauen Bären und
+schreibt, das **zweite** Spielzeug habe sie dem Hund gar nicht erst gegeben. Am
+**31.08.** bestätigt sie ausdrücklich: „**Yes not used still in packaging.**"
+Am **03.09.** kommt statt der Rücknahme ein **20-%-Teilerstattungsangebot** auf
+die Gesamtbestellung.
+
+**Das ist ein Regel-2-Fall** — unbenutzt, Originalverpackung, vom Kunden
+schriftlich bestätigt. Angeboten wurden **20 %**, und zwar ausdrücklich
+„**rather than going through the return process**". Ihr Einwand trifft genau:
+eine 30-Tage-Geld-zurück-Garantie, die die Ware nicht zurücknimmt, ist keine.
+
+**Sie ist der siebte Fall der Regel-2-Verwechslung** — und der einzige, bei dem
+die Verwechslung nicht in einer Absage, sondern in einem **Teilerstattungs-
+angebot** steckt.
+
+**🔎 Shopify: zu dieser Adresse ist keine Bestellung auffindbar.** Weder über
+`email:dinod28@aol.com` noch über die Kundensuche. Entweder wurde unter einer
+anderen Adresse bestellt, oder der Vorgang ist nicht über die E-Mail
+auffindbar. **Der Bot rät die Bestellnummer nicht.** Sie ist im Admin zu
+ermitteln — ohne sie ist weder der Betrag noch der 20-%-Bezug belegbar.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** Vorwurf „false advertising", bestrittene Garantiezusage,
+Teilerstattungsangebot gegen einen vollen Regel-2-Anspruch, Drittkontakt.
+**Auf der Erstattungsliste:** Anteil für das **ungeöffnete zweite Spielzeug**,
+Regel 2 — **Bestellnummer und Betrag im Admin zu ermitteln.**
+
+---
+
+### Lieferanfragen
+
+**#7853 Matthew Bent** — 15:04, „How long does it take to get a couple of dog
+toys?"
+Bestellt **26.08. 16:42**, **30,55 £**, `PAID` / `FULFILLED`, 2 ×
+Paw-Friends™-Fluffys (frog, giraffe), versandt **04.09. 04:35**, **4PX Economic
+Registered `4PX3003127442798CN`**, Menasha, Wisconsin. **Neun Tage bis zum
+Versand.**
+→ `Bot/Draft Ready`. Sagbar: Versanddatum, Zusteller, Nummer, und offen, dass
+neun Tage bis zum Versand vergingen. **Nicht sagbar:** Zustelltermin,
+7–21-Tage-Formel.
+
+**#6799 Adam Garner** — 15:08, Betreff „Order no UL476291180YP": „Please could
+you advise if this order has been shipped".
+Bestellt **20.08. 09:45**, **29,95 £**, `PAID` / `FULFILLED`, 2 × Plushie
+(frog, fox), versandt **02.09. 10:32**, Yanwen Special Line `UL476291180YP`,
+Barnoldswick, England. **Dreizehn Tage bis zum Versand.**
+**Er hat die Sendungsnummer und fragt trotzdem, ob versandt wurde** — das
+heißt, die Sendungsverfolgung zeigt ihm nichts. Derselbe Befund wie bei Carol
+Garvey heute früh und bei #7771.
+→ `Bot/Draft Ready`. Sagbar: ja, versandt am 02.09., Zusteller, Trackinglink,
+und offen, dass die Verfolgung bei dieser Nummernfamilie oft erst spät
+aktualisiert. **Nicht sagbar:** Zustelltermin, 7–21-Tage-Formel, kein Verweis
+an den Zusteller.
+
+### Kein Kundenvorgang
+
+**zainababdulsalam697@gmail.com**, 16:05, Betreff „Just curious" — Kaltakquise
+für Marketingdienstleistungen („generate additional 20 orders in September").
+Kein Kunde, keine Bestellung, keine Antwort nötig. → `Bot/No Action`.
+
+---
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#5851**,
+**dinod28**, **#7853** und **#6799**. Kein Gmail-Entwurf angelegt —
+`create_draft` bricht seit dem 21.08. bei jedem Versuch ab.
+
+**Nicht getan:** keine Vorlagen-Absage wiederholt, keine Erstattung zugesagt,
+keine Bestellnummer geraten, **kein Anzeigentext gelesen und keiner behauptet**,
+keine Zustellprognose, keine 7–21-Tage-Formel, kein Label gesetzt,
+`⚠️ MANUELLE PRÜFUNG` nur hier und nicht im Entwurfstext.

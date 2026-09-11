@@ -589,6 +589,139 @@ Verzögerung sind belegt.
 
 ---
 
+## #5851 — jeff@sinnerscycleshop.com — zitierte Ersatz-Zusage, BBB angekündigt
+
+**Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
+bestehenden Thread, Betreff `Re: Cheap, cheap, cheap`.
+
+> Dear Jeff,
+>
+> You wrote to us on 9 September, got no answer, and then got a standard
+> refusal two days later. That order of events is on us, and I'm not going to
+> start by defending it.
+>
+> The thing you have said twice now is the part I want to take seriously rather
+> than answer with policy: that the ad promised a free replacement if the toy
+> was destroyed, and that this is why you bought three of them. I am not going
+> to tell you that no such promise was made. I am also not going to confirm it,
+> because I have not seen the ad you saw and I won't guess at it in writing.
+>
+> What I have done is put that question to the owner of the business today, in
+> your words, along with your order and the dates above. If we advertised a
+> free replacement, then that is what we advertised, and it is not for a
+> support reply to talk you out of it.
+>
+> You'll get a direct answer rather than another standard one.
+>
+> If you have already started the card reversal or contacted the BBB, that is
+> your right and it changes nothing about how this is handled here.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage, kein Ersatz zugesagt, kein Betrag,
+keine Frist. Zugesagt sind die Vorlage beim Owner und eine direkte Antwort. Die
+zitierte Werbezusage wird **weder bestätigt noch bestritten** — sie ist
+ungeprüft, und ein Bestreiten wäre bei zwei unabhängigen gleichlautenden
+Zitaten am selben Tag nicht vertretbar.
+
+---
+
+## dinod28@aol.com — 20 % abgelehnt, ungeöffnetes zweites Spielzeug
+
+**Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
+bestehenden Thread, Betreff `Re: Your product did not stand up as promised`.
+**Achtung: Bestellnummer und Betrag sind nicht belegt — im Text kommt beides
+deshalb nicht vor.**
+
+> Dear Dino,
+>
+> Your question is the right one and I'm not going to talk around it. A 30-day
+> money-back guarantee that does not take the item back is not much of a
+> guarantee, and offering you 20 per cent instead of the return you asked for
+> was not the right answer.
+>
+> You told us on 31 August that the second toy is unused and still in its
+> packaging. That is exactly the case our guarantee is written for. You are not
+> asking for a favour, you are asking for the thing we advertised.
+>
+> Two honest things rather than a quick promise. First, this is going to the
+> owner of the business today, because the 20 per cent offer was not mine to
+> make and replacing it with a different number would be no better. Second, I
+> do not have a returns address to give you, and I am not going to invent one
+> and have your parcel go nowhere. That is the actual obstacle here and I would
+> rather you knew it than be told to wait.
+>
+> You'll get a direct answer, including on how to send the unopened one back.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage, kein Betrag, keine Bestellnummer,
+keine erfundene Adresse, keine Frist. Der Regel-2-Anspruch wird eingeräumt, die
+20-%-Vorlage ausdrücklich als falsch benannt. **Anrede „Dino" ist aus der
+E-Mail-Adresse abgeleitet — vor dem Senden den richtigen Namen im Shopify-Admin
+prüfen, die Bestellung ist über die Adresse nicht auffindbar.**
+
+---
+
+## #7853 — benty4476@gmail.com — Lieferanfrage
+
+**Neu geschrieben am 11.09.** Antwort im bestehenden Thread, Betreff
+`Re: A shipment from order #7853 is on the way`.
+
+> Dear Matthew,
+>
+> Fair question, and here is the actual answer rather than a range.
+>
+> Your order was placed on 26 August and dispatched on 4 September with 4PX,
+> tracking number 4PX3003127442798CN. Nine days passed before it was handed
+> over, and that wait was on our side rather than the courier's.
+>
+> I'm not going to give you a delivery date, because I would be guessing. If
+> the tracking hasn't moved in the next while, write back and I'll chase 4PX
+> rather than send you an estimate.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** beim Zusteller nachfassen, wenn er erneut schreibt. Kein
+Zustelltermin, keine 7–21-Tage-Formel, keine Erstattung, kein Verweis an den
+Zusteller.
+
+---
+
+## #6799 — adamgarner100@yahoo.co.uk — „has this been shipped?"
+
+**Neu geschrieben am 11.09.** Antwort im bestehenden Thread, Betreff
+`Re: Order no UL476291180YP`.
+
+> Dear Adam,
+>
+> Yes — it was dispatched on 2 September with Yanwen Special Line, and
+> UL476291180YP is the right number. You can follow it at
+> https://t.17track.net/en#nums=UL476291180YP.
+>
+> I suspect the reason you are asking is that the page has shown you nothing.
+> That happens with this carrier more often than it should, usually while the
+> parcel is between handovers rather than because it is lost. I would rather
+> say that than tell you it is "progressing through the network".
+>
+> The part worth saying plainly: you ordered on 20 August and it was dispatched
+> on 2 September. Thirteen days passed before it moved, and that was on us.
+>
+> I won't give you a delivery date. If the tracking is still blank in a few
+> days, write back and I'll chase the carrier.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** beim Zusteller nachfassen, wenn er erneut schreibt. Kein
+Zustelltermin, keine 7–21-Tage-Formel, keine Erstattung. Der Kunde wird
+**nicht** an den Zusteller verwiesen.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
