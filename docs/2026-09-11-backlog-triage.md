@@ -169,3 +169,51 @@ Keirnan** gestern zur UKICC geführt hat.
 
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine
 Rücksendeadresse erfunden, kein Betrag geschätzt, kein Text rekonstruiert.
+
+---
+
+## Lauf 08:20 UTC — #7568 Pete Preston
+
+**07:51**, Betreff „Not received my order 7568":
+
+> „I ordered my dog toy on **August 24th** and I **still haven't received it**
+> yet. My order number is **7568**. Please can you tell me when I will receive
+> this"
+
+**Shopify, geprüft 11.09. 08:2x UTC:**
+
+- **#7568**, bestellt **24.08. 11:56 UTC**, **19,95 £**, `PAID` / `FULFILLED`
+- 1 × Plushie „monkey", Barwell, Hinckley LE9 8DT (UK)
+- Versandt **03.09. 07:39 UTC** — **zehn Tage** nach der Bestellung
+- Yanwen Special Line Promotion, `UL478624150YP`
+
+Sachlich, ohne Vorwurf, ohne Erstattungsforderung. Er fragt nach einem
+**Zustelltermin** — dasselbe wie **#7741 Linda Phillips** am 09.09.
+
+**Er ist der sechste Kunde aus dem Versandstapel vom 03.09.**, nach #7559 Rod
+Smith, #7741 Linda Phillips, #7525 Carol Garvey, #7627 Charlotte Matthews und
+#7899 Anna Howie. **Alle sechs am selben Tag versandt, alle sechs melden sich
+innerhalb einer Woche.**
+
+→ `Bot/Draft Ready`. Sagbar: Versanddatum **03.09.**, Zusteller, Nummer
+`UL478624150YP`, `https://t.17track.net/en#nums=UL478624150YP`, und offen, dass
+zwischen Bestellung und Versand **zehn Tage** lagen.
+
+**Nicht sagbar:** ein Zustelltermin — genau seine Frage. Und **nicht** die
+7–21-Tage-Formel: sie ist gestern bei **#7031 Neil Wilcock** nachweislich
+gerissen, weil die Vorlage nicht sagt, ab wann gezählt wird. Bei ihm liefe sie
+je nach Zählweise am **14.09.** (ab Bestellung) oder **24.09.** (ab Versand) ab
+— eine Zusage, die in beiden Fällen nur neuen Streit erzeugt.
+
+**Nicht auf der Erstattungsliste** — Ware unterwegs, kein Regelfall, keine
+Forderung.
+
+### Wieder aufgetaucht, unverändert
+
+- **#7771 Barb Fitzgerald** — keine neue Nachricht. Ihre Chargeback-Frist ist am
+  **10.09. 17:58** abgelaufen; die Sendungsnummer liegt seit dem 03.09. bereit
+  und ist ihr nie genannt worden.
+- **#7741 Linda Phillips** — keine neue Nachricht seit dem 09.09.
+
+**Nicht getan:** kein Entwurf, kein Label, **keine Zustellprognose**, keine
+7–21-Tage-Zusage, kein Text rekonstruiert.
