@@ -797,6 +797,84 @@ direkte Antwort. **Kein Regel-2-Anteil** — alle drei Teile sind zerstört.
 
 ---
 
+## #7190 — steve.solley@hotmail.co.uk — formelle Stornierung, 48-Stunden-Frist
+
+**Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
+bestehenden Thread, Betreff `Re: 7190`.
+**Zeitkritisch: seine Frist endet am 13.09. 19:32, die von ihm berechnete
+Lieferfrist am 12.09.** Er verlangt ausdrücklich die Sendungsnummer **und** eine
+Begründung, falls die Erstattung verweigert wird. Beides muss die Antwort
+enthalten oder offen benennen.
+
+> Dear Steve,
+>
+> Two things you asked for directly, and one I cannot answer myself.
+>
+> First, the tracking. Your order was dispatched on 2 September with Yanwen
+> Special Line, tracking number UL476311114YP, and you can follow it at
+> https://t.17track.net/en#nums=UL476311114YP. You should have had that number
+> on 2 September, and certainly in this morning's reply when you asked. That it
+> was withheld while you were being told to keep waiting is not defensible and I
+> am not going to defend it.
+>
+> Second, the timeframe. This morning you were told delivery takes 7 to 21 days.
+> That message did not say what those days are counted from, which is exactly
+> why you and we could now be reading it differently: counted from your order on
+> 22 August it runs out tomorrow, counted from dispatch on 2 September it does
+> not. I am not going to use that ambiguity against you. You were given a number
+> without a starting point, and that is our problem, not yours.
+>
+> Third, the part I cannot decide. You have asked for cancellation and a full
+> refund, and you have asked for the basis if that is refused. I am not going to
+> refuse it, and I am not going to approve it from this desk and have it
+> reversed. Your order, the dates, your 48 hours and your point that the original
+> terms were UK dispatch in 4 to 5 working days have all gone to the owner of the
+> business tonight, marked urgent.
+>
+> What I will not do is send you the standard delivery paragraph again while
+> your deadline runs.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** die Sendungsnummer (belegt) und die Weitergabe an den
+Owner. **Keine** Erstattungszusage, **keine** Stornobestätigung, **keine**
+Zusicherung zur 48-Stunden-Frist. Die Zweideutigkeit der 7–21-Tage-Angabe wird
+**eingeräumt und nicht gegen ihn verwendet** — das ist bewusst, weil sie
+tatsächlich ohne Startpunkt verschickt wurde.
+
+---
+
+## #7248 — dianna.b@mac.com — Statusanfrage
+
+**Neu geschrieben am 11.09.** Antwort im bestehenden Thread, Betreff
+`Re: Order #7248 confirmed`.
+
+> Dear Dianna,
+>
+> Of course — here is where it stands.
+>
+> Your order was dispatched on 2 September with 4PX, tracking number
+> 4PX3003122373639CN. You can follow it at
+> https://t.17track.net/en#nums=4PX3003122373639CN.
+>
+> The part I would rather say than leave out: you ordered on 22 August, so
+> eleven days passed before the parcel was handed over. That wait was on our
+> side rather than the courier's, and nobody told you it was happening.
+>
+> I am not going to give you a delivery date, because I would be guessing. If
+> the tracking stops moving, write back and I will chase 4PX rather than send
+> you an estimate.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** beim Zusteller nachfassen, wenn sie erneut schreibt. Kein
+Zustelltermin, **keine 7–21-Tage-Formel** (heute bei #7190 nachweislich
+gerissen), keine Erstattung, kein Verweis an den Zusteller.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

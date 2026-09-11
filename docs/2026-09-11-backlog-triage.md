@@ -1151,3 +1151,132 @@ Kein Gmail-Entwurf angelegt — `create_draft` bricht seit dem 21.08. ab.
 
 **Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, keine
 Rücksendeadresse, keine Frist, kein Label gesetzt.
+
+---
+
+## Lauf 20:20 UTC — die 7–21-Tage-Formel reißt neun Stunden nach dem Versenden
+
+### 🔧 Korrektur zur Zahl der Vormittagsantworten
+
+In den Einträgen 13:20 und 15/16:20 stehen **sechs** Antworten für den Zeitraum
+09:47–10:09. Es waren **sieben**. Übersehen war **09:48:16 an Steve Solley
+(#7190)** — die zweite Lieferauskunft des Vormittags.
+
+**Die Zahl, auf die es ankommt, ändert sich nicht:** fünf Kauschaden-Absagen,
+fünf Eskalationen. Was sich ändert: **beide** Lieferauskünfte des Vormittags
+enthielten die **7–21-Tage-Formel**. Eine davon (#7525 Carol Garvey) wurde mit
+einem Dank beantwortet. Die andere ist jetzt gerissen.
+
+---
+
+### 🚩 #7190 Steve Solley — formelle Stornierung mit 48-Stunden-Frist
+
+**Shopify:** #7190, bestellt **22.08. 14:52**, **27,95 £**, `PAID` /
+`FULFILLED`, 2 × Plushie (pig, Duck), versandt **02.09. 10:53** ab Kirchstr. 2,
+Yanwen Special Line `UL476311114YP`, Sittingbourne, England.
+
+**Ablauf:**
+
+| Zeit | Vorgang |
+|---|---|
+| 09.09. 12:27 | „I ordered these several weeks ago… **The original order was UK based and delivery was 4-5 working days**, then I am email telling me that was not the case… requesting as not the original agreement **a full refund**" |
+| **11.09. 09:48** | Lieferauskunft mit **„Delivery usually takes 7–21 days"** — ohne Sendungsnummer |
+| **11.09. 19:32** | **Formelle Stornierung** |
+
+Seine Antwort, wörtlich:
+
+> „You have advised me that delivery normally takes 7–21 days. **Tomorrow marks
+> 21 days**, and I still have not received the product I have paid for.
+>
+> I therefore consider the stated delivery timeframe to have **expired**…
+>
+> I am formally requesting that the order is **cancelled** and that I receive a
+> **full refund** of the amount paid.
+>
+> If you believe the order cannot be cancelled because the parcel is already in
+> transit, **please provide me with the tracking information and a clear
+> explanation of the basis on which you are refusing my refund request**.
+>
+> I would appreciate confirmation of the cancellation and refund **within 48
+> hours**."
+
+### Warum das der schwerste Lieferfall bisher ist
+
+**Die Formel ist neun Stunden nach dem Versenden gerissen.** Sie ging um 09:48
+raus; um 19:32 hat der Kunde sie gegen den Shop gewendet. Er zählt **ab
+Bestellung (22.08.)**, und nach dieser Zählung läuft die Frist **morgen,
+12.09.**, ab. Nach der anderen Lesart (ab Versand 02.09.) liefe sie am 23.09.
+ab. **Genau diese Zweideutigkeit steht seit dem 10.09. im Log** — bei **#7031
+Neil Wilcock** — und ist heute um 13:20 bei **#7525 Carol Garvey** erneut
+festgehalten worden, **vier Stunden nachdem** die Formel zum zweiten Mal an
+diesem Tag rausgegangen war.
+
+**Er hat die Sendungsnummer immer noch nicht.** `UL476311114YP` liegt seit dem
+**02.09.** vor. Er verlangt sie jetzt ausdrücklich — und zwar zusammen mit einer
+Begründung, falls man ihm die Erstattung verweigert. **Dritter Kunde heute**,
+dem eine vorhandene Nummer vorenthalten wurde (nach #7525 Carol Garvey und
+#7547 Luke Prior).
+
+**Er bestreitet die Lieferzusage namentlich:** „UK based and delivery was 4-5
+working days". Das ist der bestrittene Liefertext, zum wiederholten Mal — heute
+schon von Carol Garvey angesprochen („There was no note to say shipping would
+take so long"), aber hier als Vertragsbruch formuliert: „**not the original
+agreement**".
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** formelle Stornierung mit 48-Stunden-Frist und
+Begründungsverlangen; bestrittene Lieferzusage (UK / 4–5 Werktage);
+Zweitkontakt ohne Lösung; die vom Shop selbst genannte Frist läuft morgen ab.
+
+**Erstattungslage:** **Kein Regelfall.** Regel 3 deckt Stornierungen **vor**
+Versand; hier wurde am 02.09. versandt und am 09.09. erstmals storniert.
+**Owner-Entscheidung.** Ob die selbst genannte 7–21-Tage-Frist eine eigene
+Zusage begründet, ist eine Rechtsfrage und **keine Support-Entscheidung** —
+der Bot sagt hier weder zu noch ab.
+
+**Zeitkritisch:** seine Frist endet am **13.09. 19:32**, die von ihm berechnete
+Lieferfrist **morgen**.
+
+---
+
+### #7248 Dianna Battistella — Statusanfrage
+
+**19:37:** „Can you please provide an update on this order."
+
+**Shopify:** #7248, bestellt **22.08. 21:11**, **28,50 £**, `PAID` /
+`FULFILLED`, 2 × Plushie (monkey, donkey), versandt **02.09. 10:56** ab
+Kirchstr. 2, **4PX Standard Registered `4PX3003122373639CN`**, Woodville Park,
+South Australia. **Elf Tage** bis zum Versand.
+
+Höflich, ohne Forderung, erster Kontakt in diesem Thread. Weiterer Kunde aus dem
+Versandstapel vom **02.09.**
+
+→ `Bot/Draft Ready`. Sagbar: Versanddatum, Zusteller, Nummer, Trackinglink, und
+offen, dass elf Tage bis zum Versand vergingen. **Nicht sagbar:** ein
+Zustelltermin, und **auf keinen Fall** die 7–21-Tage-Formel — sie ist heute
+nachweislich gerissen.
+
+**Nicht auf der Erstattungsliste** — Ware unterwegs, keine Forderung.
+
+---
+
+### Kein Kundenvorgang
+
+Zwei Dienstmitteilungen von `no-reply@klaviyo.com` (19:51 und 20:00) zu
+Sub-Processor-Liste und Data Processing Agreement. Kein Kunde, keine Antwort
+nötig. → `Bot/No Action`.
+
+**Hinweis:** Die DPA-Mitteilung betrifft die Auftragsverarbeitung
+personenbezogener Daten. Angesichts des heute festgestellten Vorfalls im
+Postausgang (#6116, „Elisabeth" / Valcor Zurich) gehört sie **nicht** in den
+Papierkorb, bevor der Owner sie gesehen hat.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#7190** und
+**#7248**. Kein Gmail-Entwurf angelegt — `create_draft` bricht seit dem 21.08.
+ab.
+
+**Nicht getan:** keine Erstattung zugesagt, keine Stornierung bestätigt, keine
+Frist akzeptiert oder zurückgewiesen, keine 7–21-Tage-Formel wiederholt, keine
+Zustellprognose, kein Verweis an den Zusteller, kein Label gesetzt.
