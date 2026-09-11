@@ -308,6 +308,96 @@ am Anspruch vorbeiging: das steht in der Rüge und lässt sich nicht bestreiten.
 
 ---
 
+## #7179 — keithhyype@gmail.com — Füllwatte gefressen + zwei ungeöffnete Teile
+
+**Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
+bestehenden Thread, Betreff `Re: Junk`. **Zeitkritisch wegen Punkt 1.**
+
+> Hi Keith,
+>
+> I'm answering the part about the cotton first, because it matters more than
+> the money.
+>
+> If your dog has swallowed stuffing, the things worth watching for are
+> vomiting or retching, going off his food, straining or producing nothing,
+> and any hunched or uncomfortable posture. If any of that shows up, call your
+> vet — or sooner if you would simply rather have him checked than wait. A vet
+> would much rather hear from you early about something that turns out to be
+> nothing. I'm sorry that this sat here since Wednesday night without anyone
+> answering it.
+>
+> On the reply you got this morning: it was the wrong reply, and I'd rather say
+> that plainly than defend it. It answered one of the three things in your
+> email and then refused all of them together.
+>
+> You told us you only opened the donkey. Two of the three are still sealed,
+> and you have asked to send them back. Our own 30-day guarantee is written for
+> exactly that — items that are unused and in their original condition. Those
+> two are not the chewed one, and this morning's message should not have swept
+> them up with it.
+>
+> I'm not going to pretend I can settle this from where I sit. I'm putting
+> order #7179 in front of the owner of the business today with all three
+> points: the stuffing, the two unopened toys, and what the product was
+> described as when you bought it. You'll get a direct answer, including on how
+> a return would actually work.
+>
+> If you have already started the dispute with your payment company, that's
+> fine and it won't change how this is handled here.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage, kein Betrag, keine
+Rücksendeadresse, keine Frist. Zugesagt sind die Vorlage beim Owner und eine
+direkte Antwort. Der Regel-2-Anspruch wird **benannt**, aber nicht beziffert —
+der Anteil ist bei einer Kaching-Bundle-Bestellung nur im Admin feststellbar.
+Die **48 Dollar** werden nicht aufgegriffen; Shopify weist 35,64 £ aus, und die
+Differenz ist nicht Sache des Supports.
+
+---
+
+## #7101 — camangherpich@gmail.com — Werbescreenshots, PayPal, öffentliche Bewertung
+
+**Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
+bestehenden Thread, Betreff `Re: A shipment from order #7101 is on the way`.
+
+> Dear Mr Herpich,
+>
+> Thank you for writing back, and for attaching the pages from our own site.
+> You have not misconstrued them.
+>
+> The reply you received this morning was a standard one and it should not have
+> been sent to you. Your first email did not even ask for anything — you told us
+> the toys had not lasted and that you would keep looking. Answering that with a
+> refusal was the wrong response, and I'm sorry.
+>
+> The question you put in your second email is the one I want to answer
+> honestly, because it is a fair one and we do not have a good answer to it: you
+> are right that a chew toy cannot be assessed without giving it to the dog, and
+> that the moment you do, it is no longer unused. A returns condition written
+> around "unused and in original condition" does not fit a product sold to be
+> chewed. That is not something I can fix by email, and I am not going to
+> pretend the policy reads any other way than it does.
+>
+> So I am putting order #7101 in front of the owner of the business, together
+> with your photos, the pages you attached, and that objection stated the way
+> you stated it. You will get a direct answer rather than another standard one.
+>
+> On the review and on PayPal: both are entirely your call and neither will be
+> held against your case here.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage, kein Betrag, keine
+Rücksendeadresse, keine Frist. Zugesagt sind die Vorlage beim Owner und eine
+direkte Antwort. Der Policy-Einwand wird **eingeräumt**, nicht wegerklärt — er
+ist sachlich zutreffend, und ein Bestreiten würde bei einem Kunden, der die
+Shop-Seite bereits archiviert hat, nur den nächsten Schritt auslösen.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

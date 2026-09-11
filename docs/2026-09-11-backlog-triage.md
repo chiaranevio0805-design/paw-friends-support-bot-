@@ -311,3 +311,145 @@ Versuch ab.
 keine Rücksendeadresse genannt (es gibt keine), keine Frist außer den 30 Tagen
 genannt, kein Label gesetzt (Schreibpfad defekt), `⚠️ MANUELLE PRÜFUNG` steht
 nur hier und nicht im Entwurfstext.
+
+---
+
+## Lauf 11:20 UTC — zwei Vorlagen-Absagen um 09:58 und 09:59, zwei Eskalationen binnen 41 Minuten
+
+**Neu seit 10:20:** zwei Kundenantworten. Beide sind Reaktionen auf zwei
+Absagen, die **heute Vormittag im Abstand von 61 Sekunden** aus dem Postfach
+gingen — dieselbe Vorlage, einmal „Dear Keith", einmal „Dear Customer".
+
+| Uhrzeit | Vorgang |
+|---|---|
+| 09:58:51 | Vorlagen-Absage an **Keith Crane (#7179)** |
+| 09:59:27 | Vorlagen-Absage an **Cameron Herpich (#7101)** |
+| **10:27:02** | Herpich eskaliert — **28 Minuten später** |
+| **10:39:31** | Crane eskaliert — **41 Minuten später** |
+
+**Beide Fälle standen gestern im Log, beide mit ausdrücklicher Warnung.**
+Zusammen mit **#5829** (Absage 10.09., Rüge heute 09:34) sind das **drei
+Eskalationen an einem Vormittag, alle drei aus derselben Vorlage, alle drei im
+Log vorhergesagt.**
+
+---
+
+### 🚩 #7179 Keith Crane — die Absage deckt keinen der drei Sachverhalte
+
+**Shopify, erneut geprüft:** #7179, bestellt **22.08. 13:37**, **35,64 £**,
+`PAID` / **`PARTIALLY_FULFILLED`**, 3 × Plushie (frog, donkey, monkey) +
+E-Book, versandt **02.09. 10:52** ab Kirchstr. 2, Yanwen Special Line US
+`UL476310958YP`, Northborough, Massachusetts.
+
+Seine Antwort, **10:39**:
+
+> „Wait what… that is unacceptable. What a crock of shit. Talk about
+> **misleading false advertising**. I will not accept your response as a
+> resolution. I want my money back. **I still have two unopened!** I'm
+> **disputing this with my payment company**."
+
+**Was die Vorlage von seinen drei Punkten beantwortet hat: keinen.**
+
+1. **Kauschaden am donkey** — hier ist die Absage sachlich richtig, aber sie
+   steht in einer Mail, die auch die anderen beiden Punkte mit abräumt.
+2. **🚩 Sicherheitsvorfall** — „my dog… **is now eating the cotton**", seit dem
+   09.09. 23:29 im Postfach. Die Absage geht mit keinem Wort darauf ein.
+   **35 Stunden ohne Antwort auf eine laufende Verschluckungsmeldung.** Das ist
+   die achte Meldung über verschluckbares Material.
+3. **Regel 2** — „I only opened the donkey", jetzt nochmals „**I still have two
+   unopened**". Zwei ungeöffnete Plüschtiere fallen unter die 30-Tage-Garantie
+   **so, wie sie selbst formuliert ist**. Die Absage lehnt „a refund,
+   replacement, or exchange" pauschal ab und schließt sie damit mit ein.
+
+**Damit ist die Regel-2-Verwechslung bei fünf Fällen** (#4812 Carolyn
+Marmalejo, #5973 Stephen Cooil, #6528 Tommy Johnson, #7179 Keith Crane — und
+Crane ist der einzige, der sie **zweimal** vorgebracht hat, vor und nach der
+Absage).
+
+**Betrag:** Shopify weist **35,64 £** aus, der Kunde nennt **48 Dollar**. Die
+Differenz wird hier **nicht überbrückt** — sie gehört dem Owner vorgelegt.
+Der Anteil für die zwei ungeöffneten Teile ist **nicht ableitbar**: #7179 ist
+eine Kaching-Bundle-Bestellung, die Listenpreise (3 × 30,78 £ + 35,91 £)
+ergeben nicht den gezahlten Betrag. **Im Shopify-Admin zu bestimmen, nicht zu
+schätzen.**
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** unbeantwortete Sicherheitsmeldung (Hund frisst Füllwatte,
+35 Stunden), pauschale Absage über einen bestehenden Regel-2-Anspruch hinweg,
+angekündigter Chargeback, Vorwurf „misleading false advertising".
+
+---
+
+### 🚩 #7101 Cameron Herpich — Werbescreenshots als Beweismittel, öffentliche Bewertung angekündigt
+
+**Shopify:** #7101, bestellt **22.08. 01:03**, **28,32 £**, `PAID` /
+`FULFILLED`, Tag `Kaching Bundles`, 2 × Plushie (elephant, fox), versandt
+**02.09. 10:48** ab Kirchstr. 2, Yanwen Special Line `UL476307375YP`.
+**Lieferanschrift: P.O. Box 697, North Lakes, Queensland 4509, Australien.**
+
+Erste Mail **09.09. 23:36**, freundlich, mit Fotos: „Unfortunately they are not
+indestructible… We will keep trying to get a product that he cannot chew open."
+**Keine Forderung, kein Vorwurf.** Antwort darauf war die Vorlagen-Absage.
+
+Seine Antwort, **10:27**, mit **fünf Anhängen**:
+
+> „Your company's claim that the toys are indestructible is **misleading and
+> factually incorrect**. My photos prove that point. **Please explain how I can
+> return a toy unused when the whole purpose is to give the dog a chew toy?**
+> How can I know it is faulty until it is provided to the dog…? …I have the
+> facts of delivery, photos… **which I will share on your website** of my
+> experience. I will also provide these photos when I **raise the issue with
+> PayPal**. Additionally I will **keep the two toys** we purchased **as proof of
+> the claim**. For your convenience, I have also **attached your claims as
+> advertised on your website** in case I misconstrued what I read."
+
+Die Anhänge sind ein Foto des zerstörten Spielzeugs (`20260911_192421.jpg`) und
+**vier Chrome-Screenshots der eigenen Website** vom 11.09. 20:20–20:22 Ortszeit
+(`Screenshot_20260911_2020xx_Chrome.jpg`).
+
+**Drei Befunde:**
+
+1. **Er hat die Werbeaussagen gesichert.** Nach #6877 (neun Fotos) und #5829
+   (Produkttitel) ist das der dritte Fall mit nachprüfbarem Beleg — und der
+   erste, in dem ein Kunde die Shop-Seite selbst archiviert und ankündigt, sie
+   einem Zahlungsdienstleister vorzulegen.
+2. **Er benennt den Konstruktionsfehler der Regel 2.** Ein Kauspielzeug lässt
+   sich nicht prüfen, ohne es dem Hund zu geben — und damit ist es benutzt. Die
+   Bedingung „unbenutzt zurück" ist bei dieser Produktkategorie für einen
+   Mangel an der Kaufeigenschaft praktisch nie erfüllbar. Das ist kein
+   Kundenärger, das ist ein Einwand gegen die Policy selbst. **Gehört dem Owner
+   vorgelegt.**
+3. **🔎 P.O. Box, zum dritten Mal widerlegt.** Die Ware ging an eine Postfach-
+   anschrift und wurde dort zugestellt („These arrived this morning **in the
+   Post Office**"). Nach **#5817** (zugestellt) und **#6209** (vier Stunden vor
+   der Straßenanschrift versandt) ist das der **dritte** dokumentierte Beleg
+   gegen die Aussage „a P.O. Box cannot be processed". Auf dieser Aussage beruht
+   die Blockade von **#4606 Karen McCormick (71,60 £)**.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage mit gesicherten Screenshots der
+eigenen Website, angekündigte öffentliche Bewertung, angekündigter
+PayPal-Vorgang, Aufbewahrung der Ware als Beweismittel.
+
+**Nicht auf der Erstattungsliste:** #7101 ist reiner Kauschaden. Kein
+Regelfall, keine Zusage.
+
+---
+
+### Erstattungslage aus diesem Lauf
+
+- **#7179 Keith Crane** — Anteil für **zwei ungeöffnete Plüschtiere**, Regel 2.
+  Betrag **im Shopify-Admin zu bestimmen** (Kaching-Bundle, Listenpreise
+  ergeben den gezahlten Betrag nicht). Bleibt offen.
+- **#7101** und **#5829** — kein Regelfall.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#7179** und
+**#7101**. Kein Gmail-Entwurf angelegt — `create_draft` bricht seit dem 21.08.
+bei jedem Versuch ab.
+
+**Nicht getan:** keine Vorlagen-Absage wiederholt, keine Erstattung zugesagt,
+kein Anteil geschätzt, keine Währungsdifferenz überbrückt, keine
+Rücksendeadresse genannt, keine Zustellprognose, kein Label gesetzt,
+`⚠️ MANUELLE PRÜFUNG` nur hier und nicht im Entwurfstext.
