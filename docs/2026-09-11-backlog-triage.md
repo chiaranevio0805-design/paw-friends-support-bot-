@@ -1098,3 +1098,56 @@ Kein Gmail-Entwurf angelegt — `create_draft` bricht seit dem 21.08. ab.
 **Nicht getan:** kein Bewertungslink erfunden, keine Loox-Funktion behauptet,
 keine Aussage über die Echtheit einzelner Bewertungen, keine Vorlagen-Absage
 wiederholt, keine Erstattung zugesagt, kein Label gesetzt.
+
+---
+
+## Lauf 19:20 UTC — #8343 Christopher Hikade: eine Stunde
+
+**Neu seit 18:20:** eine Mail, **18:34**, Betreff „order #8343", mit Foto
+(`faulty plushies.HEIC`):
+
+> „**Your plushies which are designed for dogs that destroy everything lasted
+> less than one hour.** Please provide a refund. The items **arrived today** and
+> were given to my dog **at 12pm. By 1pm, the plushies were destroyed** per the
+> attached photo. Poor product. Look forward to the refund."
+
+**Shopify:** #8343, bestellt **01.09. 20:41**, **35,63 £**, `PAID` /
+`FULFILLED`, Tag `Kaching Bundles`, **3 × Plushie** (Duck, fox, elephant),
+versandt **04.09. 04:36** ab Kirchstr. 2, Yanwen Special Line US
+`UL481119057YP`, Winnetka, Illinois.
+
+### Einordnung
+
+**Er zitiert den Produktnamen selbst**, nicht eine erinnerte Werbung: „designed
+for dogs that destroy everything". Das ist nach **#5829 Tasmin Hunt** (heute
+09:34) der **zweite Fall an einem Tag**, in dem der Artikelname aus den eigenen
+Shopify-Stammdaten das bestrittene Versprechen ist.
+
+**Alle drei Teile sind zerstört** — es gibt hier keinen ungeöffneten Rest und
+damit **keinen Regel-2-Anteil.** Der Fall ist sauber Kauschaden.
+
+**Zeitlicher Ablauf, vollständig belegt:** bestellt 01.09., versandt 04.09.,
+zugestellt 11.09., zerstört 11.09. zwischen 12:00 und 13:00 Ortszeit. **Eine
+Stunde Nutzungsdauer.** Er schreibt 90 Minuten später, sachlich, mit Foto, ohne
+Vorwurf.
+
+**Nebenbefund Versanddauer:** **drei Tage** von der Bestellung bis zum Versand.
+Das bestätigt den Befund vom 10.09. (#8344, zwei Tage): **die Versandverzögerung
+ist für neue Bestellungen weg.** Das Haltbarkeitsproblem ist es nicht — #8343
+ist eine Septemberbestellung und derselbe Fall wie die Augustbestellungen.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage, und zwar der Artikelname aus den
+eigenen Stammdaten, mit Fotobeleg und minutengenauer Zeitangabe.
+
+**Nicht auf der Erstattungsliste** — Kauschaden, kein Regelfall. Er verlangt
+ausdrücklich eine Erstattung; die Vorlagen-Absage ist nach dem heutigen Befund
+(fünf von fünf eskaliert) **nicht** die richtige Antwort.
+
+### Entwurf
+
+Volltext in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#8343**.
+Kein Gmail-Entwurf angelegt — `create_draft` bricht seit dem 21.08. ab.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, keine
+Rücksendeadresse, keine Frist, kein Label gesetzt.

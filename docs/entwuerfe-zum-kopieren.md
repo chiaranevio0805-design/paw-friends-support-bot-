@@ -761,6 +761,42 @@ tatsächlich eingelöst werden; sie ist der einzige Inhalt der Mail.**
 
 ---
 
+## #8343 — hikadece@gmail.com — drei Plüschtiere, eine Stunde
+
+**Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
+bestehenden Thread, Betreff `Re: order #8343`.
+**Er ist sachlich und höflich. Keine Vorlagen-Absage — heute sind fünf von fünf
+davon eskaliert.**
+
+> Dear Mr Hikade,
+>
+> Thank you for the photo and for the timings — arrived today, given to your dog
+> at twelve, gone by one. That is a clearer account than most people bother to
+> give us and it does not need any more evidence than you have already sent.
+>
+> I am not going to open with our returns policy, because what you are pointing
+> at is the name on the product. The item is listed as "Plushies – Designed for
+> Furry Friends Who Destroy Everything", and an hour is an hour. You have not
+> misread anything.
+>
+> What I can honestly tell you: whether that description holds up is not
+> something a support reply can settle, and I am not going to decide your refund
+> in one direction or the other from here. Order #8343 is going to the owner of
+> the business today with your photo and your account of the timings, and you
+> will get a direct answer rather than a form reply.
+>
+> I would rather say that than send you something that sounds like a decision
+> and is not one.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage, kein Betrag, keine
+Rücksendeadresse, keine Frist. Zugesagt sind die Vorlage beim Owner und eine
+direkte Antwort. **Kein Regel-2-Anteil** — alle drei Teile sind zerstört.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
