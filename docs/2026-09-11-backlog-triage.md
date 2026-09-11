@@ -217,3 +217,97 @@ Forderung.
 
 **Nicht getan:** kein Entwurf, kein Label, **keine Zustellprognose**, keine
 7–21-Tage-Zusage, kein Text rekonstruiert.
+
+---
+
+## Lauf 10:20 UTC — #5829 Tasmin Hunt: förmliche Rüge nach Consumer Rights Act 2015
+
+**Neu im Postfach seit 08:20:** eine Mail, 09:34 UTC, von
+`david.coles1990@gmail.com`, Tasmin Hunt (`tazzyhunt1@hotmail.co.uk`) in Kopie.
+Betreff: „Formal Notice: Rejection of Faulty/Misdescribed Goods (Order #5829)".
+
+**Shopify #5829:** bestellt **12.08.2026 18:56**, **19,95 £**, `PAID` /
+`FULFILLED`, versandt **22.08.** ab Kirchstr. 2, Yanwen Special Line
+`UL442892707YP`. Ein Artikel:
+**„Plushies – Designed for Furry Friends Who Destroy Everything"**, Variante
+Elefant. Lieferanschrift Wincanton, England.
+
+### Der Ablauf ist vollständig dokumentiert
+
+| Datum | Was passiert ist |
+|---|---|
+| 08.09. 21:03 | Tasmin Hunt schreibt: „my **unbreakable** elephant toy… my dog had already destroyed it… I'm disappointed that you advertise it as this and it's not" |
+| **08.09., dieser Log** | Fall in Abschnitt 8 als bestrittene Werbeaussage erfasst, `Bot/Needs Approval`, mit dem ausdrücklichen Vermerk: **„Nach dem heutigen Befund (vier Eskalationen aus vier Vorlagen-Absagen) ist die Standardabsage hier _nicht_ die richtige Antwort."** |
+| **10.09. 11:07** | Aus dem Postfach geht trotzdem **die Vorlagen-Absage** raus, gezeichnet „Lisa": 30-Tage-Garantie gilt nur für unbenutzte Ware, Kauschaden nicht gedeckt, „unable to provide a refund, replacement, or exchange" |
+| 10.09. 18:26 | Tasmin leitet die Absage an David Coles weiter |
+| **11.09. 09:34** | Förmliche Rüge — **22 Stunden 27 Minuten nach der Absage** |
+
+### Was in der Rüge steht
+
+- **Consumer Rights Act 2015**, ausdrücklich: „I am not claiming under a
+  discretionary company warranty; I am exercising my statutory rights"
+- **Short-term right to reject** innerhalb der ersten 30 Tage
+- Zitiert die Produktbeschreibung wörtlich: „designed for furry friends who
+  destroy everything" sowie „reinforced rope structure, double stitching, and
+  anti-tear design"
+- „company policies regarding 'accidental damage' **do not override the law**"
+- Angekündigt: **Citizens Advice / Trading Standards** und **Chargeback** beim
+  Zahlungsdienstleister wegen „goods significantly not as described"
+
+### Warum das kein gewöhnlicher Kauschadensfall ist
+
+**Das erste Zitat steht im Shopify-Produkttitel selbst.** „Designed for Furry
+Friends Who Destroy Everything" ist nicht die Erinnerung eines Kunden an eine
+Werbung — es ist der Artikelname in den eigenen Stammdaten, nachprüfbar in
+jedem Screenshot der Bestellbestätigung. Nach **#6877 Alexander Meza**
+(„reinforced double-stitching", neun Fotos, gestern 00:20) ist das der
+**zweite technisch nachprüfbare** Werbevorwurf — und er betrifft dieselbe
+Zusagenfamilie: Doppelnaht, Reißfestigkeit.
+
+**Die Absage vom 10.09. beantwortet eine Frage, die niemand gestellt hat.** Sie
+erklärt die Reichweite der eigenen Kulanzgarantie. Der Anspruch stützt sich
+nicht darauf. Genau diesen Unterschied macht die Rüge auf, und sie macht ihn
+korrekt.
+
+**Die Eskalation war im Log namentlich vorhergesagt.** Am 08.09. steht dieser
+Fall in derselben Tabelle, mit derselben Empfehlung, die drei Tage später
+verletzt wurde. Das ist nach **#6528 Tommy Johnson** (heute 04:20, vierte
+Wiederholung derselben Verwechslung) der **zweite Fall an einem Tag**, bei dem
+die vorhergesagte Eskalation eingetreten ist.
+
+**30-Tage-Fenster:** ab Bestelldatum 12.08. läuft es **heute, 11.09.**, ab. Der
+Kunde beruft sich ausdrücklich darauf, innerhalb des Fensters zu sein.
+
+### Eskalationstrigger — vier auf einmal
+
+Verbraucherrechtszitat (CRA 2015) · bestrittene Werbeaussage · Zweitkontakt
+nach unbefriedigender Antwort · angekündigter Chargeback.
+
+→ **`Bot/Escalated - Owner Attention`.**
+
+**Eskalationsgrund:** Förmliche Rüge nach Consumer Rights Act 2015 mit
+wörtlichem Zitat des eigenen Produkttitels; Trading Standards und Chargeback
+angekündigt; die auslösende Vorlagen-Absage vom 10.09. ging gegen die
+ausdrückliche Empfehlung im Log vom 08.09. raus.
+
+**Behörden-Zählung:** Citizens Advice / Trading Standards jetzt **zum vierten
+Mal** seit dem 05.09. — neben BBB (2×), FTC, State Attorney General, ACCC und
+UKICC.
+
+### Erstattung
+
+**Nicht auf der Erstattungsliste.** Kauschaden fällt nicht unter die drei
+Regeln, und der Bot sagt keine Erstattung außerhalb der Regel zu. Der
+gesetzliche Anspruch ist davon unabhängig und **Owner-Entscheidung** — der Bot
+weist ihn nicht ab und sagt ihn nicht zu. 19,95 £ stehen im Raum.
+
+### Entwurf
+
+Volltext steht in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#5829**.
+Kein Gmail-Entwurf angelegt — `create_draft` bricht seit dem 21.08. bei jedem
+Versuch ab.
+
+**Nicht getan:** keine Vorlagen-Absage wiederholt, keine Erstattung zugesagt,
+keine Rücksendeadresse genannt (es gibt keine), keine Frist außer den 30 Tagen
+genannt, kein Label gesetzt (Schreibpfad defekt), `⚠️ MANUELLE PRÜFUNG` steht
+nur hier und nicht im Entwurfstext.

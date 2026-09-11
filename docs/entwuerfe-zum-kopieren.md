@@ -260,6 +260,54 @@ Chargeback ausgelöst.
 
 ---
 
+## #5829 — tazzyhunt1@hotmail.co.uk, cc david.coles1990@gmail.com — förmliche Rüge nach CRA 2015
+
+**Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
+bestehenden Thread, Betreff: `Re: Formal Notice: Rejection of Faulty/Misdescribed Goods (Order #5829)`.
+**An beide Adressen** — Frau Hunt ist die Kundin, Herr Coles schreibt für sie
+und hat sie in Kopie gesetzt.
+
+> Dear Tasmin, dear Mr Coles,
+>
+> Thank you for writing, and for setting the position out as clearly as you
+> have.
+>
+> I'd rather answer you straight than repeat what was sent on 10 September.
+> That reply explained the scope of our 30-day money-back guarantee, which is a
+> goodwill policy of ours. That is not what you are claiming under. You are
+> claiming under the Consumer Rights Act 2015, and you are right that our own
+> policy does not cut down your statutory rights. Those are two separate
+> things, and the reply you got answered the wrong one. I'm sorry for that.
+>
+> You have also quoted our product description accurately. The item is listed
+> under the name "Plushies – Designed for Furry Friends Who Destroy
+> Everything", and the description does refer to a reinforced rope structure,
+> double stitching and an anti-tear design. Whether what arrived at 43 Penn
+> View matched that is exactly the question you are raising, and it is not one
+> I can settle with a policy line.
+>
+> So I am passing order #5829 to the owner of the business for a decision,
+> together with your notice and with the product description as it stands on
+> our own page today. I am not telling you your claim is refused, and I am not
+> going to promise you an outcome that isn't mine to decide. You will get a
+> direct answer on the refund and on how a return would be handled if one is
+> needed.
+>
+> If you would rather not wait on us and want to go to Citizens Advice or to
+> your payment provider in the meantime, that is your right and it won't count
+> against the claim here.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage, keine Rücksendeadresse, keine
+Frist. Zugesagt ist ausschließlich die Weitergabe an den Owner und eine direkte
+Antwort. Bewusst **ohne** Wiederholung der Kulanzpolicy — genau die hat die
+Rüge ausgelöst. Bewusst **mit** dem Eingeständnis, dass die Antwort vom 10.09.
+am Anspruch vorbeiging: das steht in der Rüge und lässt sich nicht bestreiten.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
