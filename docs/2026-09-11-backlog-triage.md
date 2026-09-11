@@ -871,3 +871,126 @@ Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#5851**,
 keine Bestellnummer geraten, **kein Anzeigentext gelesen und keiner behauptet**,
 keine Zustellprognose, keine 7–21-Tage-Formel, kein Label gesetzt,
 `⚠️ MANUELLE PRÜFUNG` nur hier und nicht im Entwurfstext.
+
+---
+
+## Lauf 17:20 UTC — keine neue Kundenmail, aber ein bisher nicht erfasster Vorfall im Postausgang
+
+**Neue Kundenmails seit 16:20: keine.** Der Thread zu **#6116 Sharron Hodges**
+ist ohne neue eingehende Nachricht wieder aufgetaucht. Beim Prüfen des Threads
+ist eine gesendete Nachricht sichtbar geworden, die in **keinem** bisherigen Log
+steht.
+
+### 🚩🚩 Falsch adressierte Antwort mit Kundendaten eines Dritten
+
+Am **09.09. um 12:36:59 UTC** ging aus `support.pawfriends.uk@gmail.com` an
+**`sharronhodges@gmail.com`** diese Nachricht raus — im Thread zu Bestellung
+**#6116**, Betreff unverändert „Re: A shipment from order #6116 is on the way":
+
+> „**Guten Tag Elisabeth**,
+>
+> vielen Dank für Ihre Nachricht und **die Zahlung von CHF 9.–**.
+>
+> Wir haben Ihre Anfrage an unser zuständiges Team weitergeleitet. Der
+> ***LUNA Coastal Sandal in Schwarz, Grösse 40***, wird nun für Sie vorbereitet
+> und versendet.
+>
+> Sobald die Sendung auf den Weg gebracht wurde, erhalten Sie die entsprechenden
+> Versand- und Trackinginformationen.
+>
+> Wir hoffen sehr, dass die Sandalen gut passen und Sie mit der Qualität
+> zufrieden sind.
+>
+> Freundliche Grüsse
+> Lisa
+> **Valcor Zurich**"
+
+**45 Sekunden später**, um 12:37:44, ging die eigentlich gemeinte Antwort an
+Sharron Hodges raus.
+
+**Was damit an eine unbeteiligte Person gegangen ist:**
+
+| Offengelegt | Inhalt |
+|---|---|
+| Vorname einer anderen Kundin | **Elisabeth** |
+| Zahlungsbetrag | **CHF 9.–** |
+| Gekaufter Artikel | **LUNA Coastal Sandal, Schwarz, Grösse 40** |
+| Bearbeitungsstand | Anfrage weitergeleitet, Ware wird versandt |
+| Absendende Firma | **Valcor Zurich** |
+
+**Drei Feststellungen, ohne Spekulation:**
+
+1. **Es ist ein Datenschutzvorfall.** Name, Kaufbetrag, Artikel, Grösse und
+   Bearbeitungsstand einer Kundin sind an eine andere, unbeteiligte Kundin in
+   Kalifornien gegangen. Empfängerin ist **Sharron Hodges**, die an diesem Tag
+   wegen einer nicht angekommenen Bestellung geschrieben hatte.
+2. **Aus demselben Postfach wird mindestens ein zweiter Shop bedient.** Die
+   Signatur lautet „Lisa, **Valcor Zurich**" — derselbe Vorname wie in allen
+   Paw-Friends-Antworten, ein anderer Firmenname. Das erklärt, wie die
+   Verwechslung entstehen konnte, und es ist der erste Beleg dafür im Projekt.
+3. **Der Vorfall stand in keinem Log.** Er ist am 09.09. passiert und fällt
+   heute, **zwei Tage später**, beim Aufräumen eines wiederaufgetauchten Threads
+   auf. Die Läufe vom 09.09. haben ihn nicht erfasst, weil sie eingehende Mails
+   prüfen und nicht den Postausgang.
+
+**→ Owner-Sache, sofort.** Der Bot kann hier nichts tun: er kann die Mail nicht
+zurückholen, er kann Elisabeth nicht benachrichtigen (ihre Adresse steht nicht
+in dieser Nachricht), und er sendet nicht. **Zu entscheiden sind:** ob Sharron
+Hodges informiert und um Löschung gebeten wird, ob Elisabeth informiert wird,
+und ob eine Meldepflicht besteht — Valcor Zurich ist dem Namen nach in der
+Schweiz, die Empfängerin in den USA, der Shop in Grossbritannien registriert.
+**Das ist eine Rechtsfrage und keine Support-Entscheidung.**
+
+**Ableitung für die laufende Arbeit:** Die Läufe prüfen bisher nur `in:inbox`.
+Dieser Fund zeigt, dass im Postausgang Dinge stehen, die kein eingehender Thread
+sichtbar macht. **Empfehlung an den Owner: eine einmalige Durchsicht von
+`in:sent` seit dem 13.08.** — der Bot hat sie nicht durchgeführt, weil sie nicht
+Teil des Auftrags ist.
+
+### Der Sachstand zu #6116 selbst
+
+**Shopify:** #6116, bestellt **14.08. 18:46**, **82,81 £**, `PAID` /
+**`PARTIALLY_FULFILLED`**, Tags `Kaching Bundles`, `UpCart Rewards`.
+Bestellt wurden **neun Positionen**: 1 × Zahnbuddy (Blue Mop Plush Dog),
+1 × Plushie frog, **5 × Plushie elephant**, 1 × Fur Wonder Brush, 1 × E-Book.
+**Versandt wurde eine einzige Sendung am 25.08.**, Yun Express US
+`YT2623700701579714`, nach Lakeside, Kalifornien.
+
+Sie hat am **29.08.** („Where is my order?") und am **08.09.** geschrieben:
+
+> „Still haven't received my order. **Need these tough toys, not flushes.** Dog
+> chews everything to pieces. Please send **the tough toys I spent a fortune
+> for.**"
+
+Am **31.08.** bekam sie: „Your order **has been shipped** and is currently on
+its way… UK warehouse is currently sold out… Delivery usually takes 7–21 days."
+**Die Bestellung ist bis heute `PARTIALLY_FULFILLED`** — der grösste Teil der
+neun Positionen ist nie rausgegangen. „Your order has been shipped" war zu dem
+Zeitpunkt für den Grossteil der Bestellung nicht zutreffend.
+
+Die Antwort vom 09.09. 12:37:44 beginnt mit „…Our tracking information shows
+that the parcel…". **Der Volltext ist hier nicht wiedergegeben, weil er nicht
+gelesen wurde** — er ist vor einer Antwort an sie in Gmail zu prüfen.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** Datenschutzvorfall im Thread; Bestellung über **82,81 £**
+seit dem 14.08. weitgehend unausgeliefert; dreimal kontaktiert; „has been
+shipped" für eine überwiegend nicht versandte Bestellung.
+
+**Erstattungslage:** Die nicht gelieferten Positionen sind **kein** Fall der
+drei Regeln (kein Defekt, nicht unbenutzt zurückgegeben, nicht vor Versand
+storniert) — eine Erstattung oder Nachlieferung ist **Owner-Entscheidung**.
+Der Anteil der offenen Positionen am gezahlten Betrag ist wegen der
+Bundle-Rabatte **im Admin zu bestimmen, nicht zu schätzen.**
+
+### Entwurf
+
+Für #6116 ist **bewusst kein Entwurfstext geschrieben worden.** Solange nicht
+entschieden ist, wie mit der falsch zugestellten Mail umgegangen wird, wäre jede
+Antwort an Sharron Hodges entweder unvollständig oder würde einer
+Owner-Entscheidung vorgreifen. **Das ist eine bewusste Auslassung, kein
+Versehen.**
+
+**Nicht getan:** keine Antwort entworfen, keine Erstattung zugesagt, kein Anteil
+geschätzt, `in:sent` nicht systematisch durchsucht, Elisabeth nicht kontaktiert,
+kein Label gesetzt.
