@@ -453,3 +453,115 @@ bei jedem Versuch ab.
 kein Anteil geschätzt, keine Währungsdifferenz überbrückt, keine
 Rücksendeadresse genannt, keine Zustellprognose, kein Label gesetzt,
 `⚠️ MANUELLE PRÜFUNG` nur hier und nicht im Entwurfstext.
+
+---
+
+## Lauf 13:20 UTC — dritte Eskalation aus derselben Vorlage, und der Gegenfall
+
+**Neu seit 11:20:** zwei Kundenantworten, 13:17 und 13:18. Beide sind Reaktionen
+auf Antworten, die heute Vormittag rausgingen.
+
+**Damit ist der Vormittag vollständig:** zwischen **09:58 und 10:09** gingen
+**vier** Antworten aus dem Postfach. Drei davon waren die
+Kauschaden-Vorlagen-Absage — **alle drei sind eskaliert**. Die vierte war die
+Lieferauskunft — **sie ist nicht eskaliert.**
+
+| Absage | Kunde | Reaktion | Abstand |
+|---|---|---|---|
+| 09:58:51 | Keith Crane **#7179** | Chargeback angekündigt | **41 Min** |
+| 09:59:27 | Cameron Herpich **#7101** | PayPal + öffentliche Bewertung | **28 Min** |
+| 10:01:33 | **Rosalind Welch #7271** | **„deceptive" + öffentliche Bewertung** | **3 Std 16 Min** |
+| 10:09:01 | Carol Garvey **#7525** (Lieferauskunft) | **bedankt sich** | 3 Std 09 Min |
+
+**Drei von drei.** Das ist nach dem 29.08. (sechs von sechs) und dem 09.09.
+(sechs von sechs) die dritte Serie ohne Ausnahme.
+
+---
+
+### 🚩 #7271 Rosalind Welch — „Your ad was very deceptive"
+
+**Shopify:** #7271, bestellt **22.08. 22:50**, **20,34 £**, `PAID` /
+`FULFILLED`, 1 × Plushie (Elk), versandt **02.09. 10:57** ab Kirchstr. 2,
+**WB US `WNBAA0497782168YQ`**, Oakdale, Minnesota.
+
+Erste Mail **10.09. 00:01**, drei Sätze, ohne Forderung:
+
+> „Hi sent this toy as a **gift**. The dog pull off ears in **less than 1 hour**.
+> **Your claim was not true.** Very disappointed."
+
+Antwort darauf war die Vorlagen-Absage. Ihre Antwort, **13:17**:
+
+> „**Your ad was very deceptive** you claimed that product was not
+> destructible. **I will be posted** that toy did not last 1 hour."
+
+**Sie hat nie eine Erstattung verlangt.** Weder in der ersten noch in der
+zweiten Mail. Sie hat eine Werbeaussage bestritten — und die Vorlage hat ihr
+eine Erstattung abgelehnt, die sie nicht gefordert hatte. Danach kündigt sie
+eine öffentliche Bewertung an.
+
+Das ist derselbe Ablauf wie bei **#7101 Cameron Herpich** zwei Stunden vorher:
+freundliche Meldung ohne Forderung → Absage → öffentliche Bewertung angekündigt.
+**Zweimal am selben Vormittag.**
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage („deceptive"), angekündigte
+öffentliche Bewertung, Absage auf eine nicht gestellte Forderung.
+
+**Nicht auf der Erstattungsliste** — Kauschaden, kein Regelfall, keine Forderung.
+
+**Nebenbefund:** `WNBAA…YQ` (WB US) ist die Nummernfamilie, zu der bisher
+**fünf** Meldungen „invalid" / „order not found" vorliegen. Hier ist die Ware
+angekommen — der sechste Datenpunkt zu dieser Familie, diesmal ein positiver.
+
+---
+
+### #7525 Carol Garvey — der Gegenfall, und was er zeigt
+
+**Shopify:** #7525, bestellt **24.08. 05:11**, **27,95 £**, `PAID` /
+`FULFILLED`, Tag `Kaching Bundles`, 2 × Plushie (monkey, fox), versandt
+**03.09. 07:37** ab Kirchstr. 2, Yanwen Special Line `UL478624631YP`,
+Chelwood Gate, England. **Zehn Tage zwischen Bestellung und Versand.**
+
+Sie ist damit der **siebte** Kunde aus dem Versandstapel vom **03.09.** —
+nach #7568 Pete Preston heute früh, #7899 Anna Howie und den übrigen.
+
+Ihre Antwort **13:18**:
+
+> „Thank you for the update. **There was no note to say shipping would take so
+> long.** Hopefully will be here soon."
+
+**Das ist keine Eskalation, und sie soll auch nicht als eine behandelt werden.**
+Sie enthält aber zwei Befunde:
+
+1. **Die 7–21-Tage-Formel ist heute erneut verschickt worden** — obwohl im Log
+   vom 10.09. bei **#7031 Neil Wilcock** festgehalten ist, dass sie reißt, weil
+   sie nicht sagt, ab wann gezählt wird. Bei Carol Garvey läuft sie **ab Versand
+   am 24.09.** und **ab Bestellung am 14.09.** ab. Die Formel hat jetzt bei ihr
+   eine Uhr, die in drei Tagen abläuft oder in dreizehn — je nach Lesart.
+2. **Die Lieferzeit war beim Kauf nicht angegeben** — das sagt sie ausdrücklich,
+   ohne Vorwurf. Das ist der bestrittene Liefertext (UK / 4–5 Tage), diesmal
+   nicht als Beschwerde, sondern als schlichte Feststellung einer Kundin, die
+   sonst zufrieden ist.
+
+**Was ihr nicht gesagt wurde:** die **Sendungsnummer**. Sie hatte ausdrücklich
+geschrieben, die Tracking-Information sei nicht aktualisiert worden. Die Nummer
+`UL478624631YP` liegt seit dem 03.09. vor und steht nicht in der Antwort. Das
+ist derselbe Fehler wie bei **#7771, #7114, #7559** — dort mit deutlich
+schlechterem Ausgang.
+
+→ `Bot/Draft Ready`. Sagbar: Versanddatum 03.09., Zusteller, Nummer,
+Trackinglink, und offen, dass zehn Tage zwischen Bestellung und Versand lagen.
+**Nicht sagbar:** ein Zustelltermin, und **nicht** die 7–21-Tage-Formel ein
+zweites Mal.
+
+---
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#7271** und
+**#7525**. Kein Gmail-Entwurf angelegt — `create_draft` bricht seit dem 21.08.
+bei jedem Versuch ab.
+
+**Nicht getan:** keine Vorlagen-Absage wiederholt, keine Erstattung zugesagt,
+keine 7–21-Tage-Zusage, keine Zustellprognose, kein Label gesetzt,
+`⚠️ MANUELLE PRÜFUNG` nur hier und nicht im Entwurfstext.

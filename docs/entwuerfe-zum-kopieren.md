@@ -398,6 +398,77 @@ Shop-Seite bereits archiviert hat, nur den nächsten Schritt auslösen.
 
 ---
 
+## #7271 — rosalindwelch2@gmail.com — „Your ad was very deceptive"
+
+**Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
+bestehenden Thread, Betreff `Re: Order`.
+
+> Dear Rosalind,
+>
+> The reply you got this morning was a standard one, and it answered something
+> you never asked. You did not ask us for your money back — you told us the toy
+> came apart in under an hour and that what we said about it was not true. Being
+> refused a refund you hadn't requested is not an answer, and I'm sorry that's
+> what came back.
+>
+> You bought it as a gift, and it lasted under an hour. I'm not going to argue
+> with you about that, and I'm not going to send you the durability line again.
+>
+> What I can do is put order #7271 in front of the owner of the business,
+> together with what you said about the advertising, and ask for a direct
+> answer rather than another standard one. That is what I've done today.
+>
+> If you post about your experience, that's entirely your call and it won't
+> change anything about how this is handled here.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage, kein Betrag, keine Frist.
+Zugesagt sind die Vorlage beim Owner und eine direkte Antwort. Bewusst **ohne**
+jede Wiederholung der Garantiebedingungen — sie hat nie danach gefragt, und
+genau die Wiederholung hat die Eskalation ausgelöst.
+
+---
+
+## #7525 — carolgarvey2@hotmail.com — Sendungsnummer, die ihr nie genannt wurde
+
+**Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
+bestehenden Thread, Betreff `Re: Order 7525`. **Freundlicher Fall — sie ist
+nicht verärgert. Ton entsprechend.**
+
+> Dear Carol,
+>
+> Thank you for coming back, and you're right about the second part — the
+> delivery time wasn't set out for you when you ordered, and it should have
+> been.
+>
+> Here are the details I should have given you this morning. Your order was
+> dispatched on 3 September with Yanwen Special Line, tracking number
+> UL478624631YP, and you can follow it at
+> https://t.17track.net/en#nums=UL478624631YP. If that page has been quiet,
+> that is usually the handover between carriers rather than a lost parcel, but
+> I would rather you had the number than take my word for it.
+>
+> The honest part I owe you: your order was placed on 24 August and dispatched
+> on 3 September, so ten days passed before it moved at all. That wasn't
+> anything to do with the courier, and it wasn't explained to you at the time.
+>
+> I'm not going to give you a delivery date, because I would only be guessing
+> and you have had enough of that. If the tracking hasn't moved in the next
+> while, write back and I'll chase the carrier rather than send you another
+> estimate.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** zugesagt ist, bei erneutem Schreiben beim Zusteller
+nachzufassen — keine Erstattung, kein Zustelltermin, **keine 7–21-Tage-Formel**.
+Die Verzögerung von zehn Tagen wird benannt, nicht dem Zusteller zugeschoben.
+Kein Verweis an den Zusteller.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
