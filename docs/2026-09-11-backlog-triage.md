@@ -87,3 +87,85 @@ mitgeschickt.**
 
 **Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine Aussage zu
 Nähten oder Größen, keine Vorlagen-Absage, kein Text rekonstruiert.
+
+---
+
+## Lauf 04:20 UTC — #6528 Tommy Johnson: die vierte Wiederholung desselben Fehlers, vorhergesagt am 09.09.
+
+Im Eintrag vom **09.09. 02:20** stand zu diesem Fall wörtlich:
+
+> „Tommy Johnsons Mail enthält **beide Auslöser gleichzeitig**… Eine
+> Vorlagen-Absage auf das erste Stichwort würde das zweite übergehen — genau wie
+> bei Carolyn Marmalejo.
+> → `Bot/Needs Approval`. **Keine Kauschaden-Absage. Kein
+> Teilerstattungsangebot.**"
+
+**Am 10.09. 10:26 ging die Kauschaden-Absage raus.** Sie beantwortet das
+zerstörte Spielzeug und erwähnt die ungeöffneten mit keinem Wort.
+
+**Seine Antwort, 11.09. 03:54:**
+
+> „Thank you for the clarification.
+> **I understand that the destroyed stuff cannot be returned**, but **I ordered
+> multiple in this order.**
+> Could you please **set up a return for the other 3 stuffies that I have**?"
+
+**Er hat die Absage akzeptiert — für das zerstörte Teil — und stellt dieselbe
+Frage zum zweiten Mal.** Höflich, mit Foto, ohne Vorwurf.
+
+### Was das bedeutet
+
+**Vierte Wiederholung derselben Verwechslung:**
+
+| Datum | Kunde | Ablauf |
+|---|---|---|
+| 21.08. | **Carolyn Marmalejo (#4812)** | fragte nach den **unbenutzten** Teilen, bekam die Kauschaden-Absage. **Seit dem 22.08. unbeantwortet — 20 Tage.** |
+| 09.09. | **Stephen Cooil (#5973)** | wollte **beide** Teile zurückgeben (eines unbenutzt), beide abgelehnt |
+| 10.09. | **Keith Crane (#7179)** | „I only opened the donkey", zwei ungeöffnet |
+| **10./11.09.** | **Tommy Johnson (#6528)** | **Absage trotz Log-Warnung → er fragt erneut** |
+
+**Der Unterschied zu den anderen dreien:** Bei ihm stand die Warnung
+**namentlich im Log, 32 Stunden vor der Absage**. Bei #6286 Deborah Gould ist
+gestern dasselbe passiert — dort mit ACCC als Ergebnis. Tommy Johnson hat
+stattdessen höflich nachgefragt.
+
+### 🔧 Korrektur zur Stückzahl
+
+Im Log vom 09.09. steht „**zwei von drei** Plüschtieren ungeöffnet" — nach
+seiner damaligen Formulierung („the other two"). **Er nennt jetzt drei.**
+
+**Shopify (#6528, unverändert):** **4 × Plushie** (frog, fox, Duck, donkey) +
+1 × E-Book, **45,86 £**, `PARTIALLY_FULFILLED`.
+
+Vier Plüschtiere minus das zerstörte = **drei ungeöffnete**. Seine heutige
+Angabe passt zum Systemstand; die vom 09.09. war eine Untertreibung, vermutlich
+weil er den vierten Artikel zunächst nicht gezählt hatte. **Maßgeblich ist der
+Shopify-Stand: vier Positionen, drei davon ungeöffnet.**
+
+### Einordnung
+
+→ `Bot/Escalated - Owner Attention` (zuvor `Needs Approval`).
+**Eskalationsgrund (nur fürs Log):** Zweitkontakt nach einer Absage, die sein
+Anliegen nicht behandelt hat; Rückgabeverlangen für unbenutzte Ware zum zweiten
+Mal gestellt.
+
+**⚠️ ERSTATTUNG: drei von vier Plüschtieren, Regel 2 — unbenutzt.** Anteil von
+**45,86 £**, im Admin auf Positionsebene zu bestimmen. **Nicht schätzen** — die
+Positionspreise sind Listenpreise vor dem Bundle-Rabatt.
+
+**Was ehrlich gesagt werden muss:** Es gibt **keine Rücksendeadresse** (offener
+Blocker seit 13.08., **29 Tage**). Er bittet ausdrücklich darum, eine Rückgabe
+„einzurichten". Ihm das zuzusagen, ohne es einlösen zu können, wäre die
+**zehnte** nicht gehaltene Zusage — und genau der Weg, der bei **#1301 Sheila
+Keirnan** gestern zur UKICC geführt hat.
+
+### Wieder aufgetaucht, unverändert
+
+- **#7771 Barb Fitzgerald** — keine neue Nachricht. Ihre **24-Stunden-Frist für
+  den Chargeback lief am 10.09. 17:58 ab**; die Sendungsnummer
+  `4PX3003124889886CN` liegt seit dem 03.09. bereit und ist ihr nie genannt
+  worden.
+- **#7741 Linda Phillips** — keine neue Nachricht seit dem 09.09.
+
+**Nicht getan:** kein Entwurf, kein Label, keine Erstattung, keine
+Rücksendeadresse erfunden, kein Betrag geschätzt, kein Text rekonstruiert.
