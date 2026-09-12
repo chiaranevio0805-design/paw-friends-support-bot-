@@ -1029,3 +1029,129 @@ Volltext in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#6936**.
 **Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, kein
 Verschlucken hineingelesen, keine Werbeformulierung erfunden, kein Anteil
 geschätzt, kein Label gesetzt.
+
+---
+
+## Lauf 18:20 UTC — drei Fälle: #6891, #7506, #6528
+
+### 🚩 #6891 Michael Palermo — die schärfste Formulierung des Regel-2-Problems bisher
+
+**17:29**, Betreff: **„Your toys are not what you advertise - ORDER 6891"**
+
+> „We finally received the **'indestructible'** plush chew toys and our Aussie
+> **destroyed 2-3 in the span of 5 minutes** or so.
+>
+> **Please change your advertising** to reflect that they are for heavy chewers
+> as that is not the case at all. Also, **your return policy could reflect a
+> year so as long as you do not test the product with your pet. Not being able
+> to return something that is not what is promised is not a return policy.**
+>
+> I am very disappointed **in myself** for believing the claims made on the
+> website as it is **no where near the truth** of what we received."
+
+**Shopify:** #6891, bestellt **20.08. 23:10**, **43,92 £**, `PAID` /
+`FULFILLED`, Tags `Kaching Bundles`, `UpCart Rewards`, drei Positionen
+(Plushie monkey, Plushie pig, Zahnbuddy „Blue Mop Plush Dog"), versandt
+**02.09. 10:37** ab Kirchstr. 2, **JQ Express US `JCHSG0000004362459`**,
+Fairport, New York. **Dreizehn Tage** bis zum Versand.
+
+**Zwei Dinge, und beide sind keine Erstattungsforderung:**
+
+1. **„Please change your advertising."** **Fünfter Kunde**, der das ausdrücklich
+   verlangt — nach #6280 und #6286 heute und zwei Fällen am 10.09.
+2. **Der Satz zur Rückgabepolicy ist die präziseste Fassung des Problems, die
+   bisher im Postfach stand:** *„Not being able to return something that is not
+   what is promised is not a return policy."* Das ist die **dritte unabhängige
+   Formulierung** des Regel-2-Konstruktionsfehlers — nach **#7101 Cameron
+   Herpich** (gestern) und **#7316 Brett Merriman** (heute Mittag). Drei Kunden,
+   drei Länder, dieselbe Beobachtung.
+
+**Er verlangt kein Geld.** Vierter Fall an diesem Tag ohne jede Forderung —
+nach #4939 Sara Thompson, #6936 Lisa Steggel und, gestern, #7101 und #7271.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage im Betreff und im Text,
+ausdrückliche Forderung nach Änderung von Werbung **und** Rückgabepolicy.
+**Nicht auf der Erstattungsliste** — Kauschaden, keine Forderung.
+
+---
+
+### #7506 Adam Dowell — die Teilerstattungs-Vorlage ist wieder im Umlauf
+
+| Zeit | Vorgang |
+|---|---|
+| **10.09. 18:19** | „**i would like to return these**, they are **extremely smaller** than i thought when i purchased for the price" |
+| **12.09. 10:38** | **30-%-Teilerstattungsangebot**: „**Rather than going through the return process**, we'd like to offer you a **30% partial refund** … allowing you to keep the items **without needing to return them**" |
+| **12.09. 17:32** | „Can we do **50%**, feel slighted with **size** and **'indestructible'** cause he had them **destroyed in literally 5 minutes**. If you cant do 50% **ill take the 30%** and **do you have bigger ones??**" |
+
+**Shopify:** #7506, bestellt **24.08. 01:58**, **28,51 £**, `PAID` /
+`FULFILLED`, Tag `Kaching Bundles`, 2 × Plushie (donkey, Elk), versandt
+**03.09. 07:36** ab Kirchstr. 2, **4px US `4PX3003124889497CN`**, Macomb,
+Michigan. **Zehn Tage** bis zum Versand. **Zwölfter Kunde aus dem
+Versandstapel vom 03.09.**
+
+**Drei Befunde:**
+
+1. **Ein neues Teilerstattungsangebot ist heute rausgegangen.** Nach der
+   Chronologie im Log vom 10.09. (zwölf Angebote seit dem 22.08.) ist das
+   **mindestens das dreizehnte**. Es ging raus, **nachdem** die Chronologie
+   zwei Tage im Log stand.
+2. **Er hatte am 10.09. um eine Rücksendung gebeten** — wegen der **Grösse**,
+   nicht wegen eines Kauschadens. Zu diesem Zeitpunkt war die Ware
+   höchstwahrscheinlich unbenutzt und damit ein **Regel-2-Fall mit vollem
+   Anspruch**. Statt der Rücknahme kam zwei Tage später ein Prozentangebot.
+   **In der Zwischenzeit hat der Hund die Teile zerstört** — der Regel-2-Weg ist
+   damit zu. **Derselbe Ablauf wie bei dinod28 und #5186.**
+3. **Er will weiterhin kaufen.** „do you have bigger ones??" — die Frage steht
+   unbeantwortet im Raum und ist die einzige im ganzen heutigen Postfach, die
+   nach einem weiteren Kauf klingt.
+
+→ `Bot/Needs Approval`. **Bewusst nicht `Escalated`:** Er nennt zwar
+„indestructible" und fühlt sich „slighted", droht aber nichts an, zitiert keine
+Behörde und will verhandeln. Der offene Punkt ist eine **kaufmännische
+Entscheidung** — 30 % oder 50 % — und die gehört dem Owner, nicht einer
+Eskalationsschleife.
+
+**Nicht auf der Erstattungsliste** — kein Regelfall mehr, seit die Ware benutzt
+ist. **Der Prozentsatz ist Owner-Entscheidung; der Bot schlägt keinen vor.**
+
+---
+
+### 🚩 #6528 Tommy Johnson — fünfter Kontakt, 37 Stunden
+
+**17:23**, vollständiger Text:
+
+> „Hi Lisa, **Just wanted to check in on this again.** Thank you, Tommy"
+
+Er bezieht sich auf seine Mail vom **11.09. 03:54**:
+
+> „I understand that the destroyed stuff cannot be returned, but I ordered
+> multiple in this order. **Could you please set up a return for the other 3
+> stuffies** that I have not opened?"
+
+**Seither unbeantwortet — 37 Stunden 29 Minuten.**
+
+**Das ist der fünfte Kontakt in diesem Vorgang.** Der Fall steht seit dem
+**09.09.** im Log, dort namentlich mit der Vorhersage, dass eine
+Kauschaden-Absage hier falsch wäre; sie ging am 10.09. trotzdem raus. Am 11.09.
+wurde er als **vierte Wiederholung derselben Verwechslung** erfasst.
+
+**Sein Anliegen ist unstrittig:** drei von vier Plüschtieren **ungeöffnet**,
+Rücksendung verlangt, **Regel 2**, voller Anspruch auf den entsprechenden
+Anteil. **Blockiert durch die fehlende Rücksendeadresse** — heute **dreissig
+Tage** offen.
+
+**Er ist höflich geblieben. Über fünf Kontakte und zwei Wochen.**
+
+→ `Bot/Escalated - Owner Attention` (bleibt).
+**Auf der Erstattungsliste:** Anteil für **drei von vier ungeöffneten**
+Plüschtieren, Regel 2 — Betrag im Admin zu bestimmen.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#6891**, **#7506**
+und **#6528**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, **kein
+Prozentsatz vorgeschlagen**, keine Rücksendeadresse erfunden, keine Aussage zu
+grösseren Varianten (nicht geprüft), kein Anteil geschätzt, kein Label gesetzt.

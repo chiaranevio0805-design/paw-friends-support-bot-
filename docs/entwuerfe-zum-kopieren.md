@@ -1559,6 +1559,121 @@ Rückfrage zum Affen entscheidet über Regel 2.
 
 ---
 
+## #6891 — mbpa@me.com — „not a return policy"
+
+**Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
+`Re: Your toys are not what you advertise - ORDER 6891`.
+**Er verlangt kein Geld. Keine Absage, kein Angebot, keine
+Garantiebedingungen.**
+
+> Dear Michael,
+>
+> You have not asked us for money, so I am not going to answer you with our
+> refunds policy. You asked for two things to change, and those are the two I
+> want to respond to.
+>
+> On the second one first, because you put it better than we have: "not being
+> able to return something that is not what is promised is not a return policy."
+> I am not going to argue with that. You are the third customer this week to
+> make the same point in their own words, and it is a fair description of how
+> the condition reads at the moment.
+>
+> On the advertising: you say the description does not match what arrived. That
+> is not something a support reply can settle, and I am not going to try to talk
+> you round. Your email has gone to the owner of the business this evening,
+> unedited, along with the note that you are one of several people asking for the
+> wording to be changed rather than for a refund.
+>
+> I cannot promise you either change will happen. I can tell you it has been put
+> in front of the person who can make it.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** ausschliesslich die unveränderte Weitergabe. **Keine
+Zusage, dass Werbung oder Rückgabepolicy geändert werden**, keine Erstattung,
+kein Betrag. Dass mehrere Kunden dasselbe verlangen, wird bestätigt — das ist
+belegt.
+
+---
+
+## #7506 — adamdo19@gmail.com — 30 % angeboten, 50 % gegengefordert
+
+**Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
+`Re: Return policy`.
+**⚠️ Der Bot schlägt KEINEN Prozentsatz vor. Die Zahl entscheidet der Owner.
+Vor dem Senden einsetzen — der Text hat dafür keine Lücke, sondern sagt
+ausdrücklich, dass die Entscheidung aussteht.**
+
+> Dear Adam,
+>
+> Thank you for coming back so plainly — it makes this easier to handle.
+>
+> On the number: the 30 per cent was offered to you this morning and you have
+> asked for 50. That is not mine to decide, so I am not going to say yes and
+> have it pulled back, and I am not going to say no on someone else's behalf.
+> Your counter has gone to the owner of the business this evening and you will
+> get a straight answer on the figure.
+>
+> Two things I want to be straight about in the meantime.
+>
+> When you first wrote on 10 September you asked to return the toys because they
+> were smaller than you expected. That was a return request and it should have
+> been answered as one. Instead you were offered a percentage two days later,
+> and by then your dog had got to them. That sequence was ours, not yours, and I
+> have said so.
+>
+> And you asked whether we have bigger ones. I would rather check properly than
+> guess at a size from memory, so I am finding out and will come back to you on
+> it.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** eine klare Antwort zur Prozentzahl **vom Owner**, und eine
+Rückmeldung zur Frage nach grösseren Varianten. **Keine Zusage über die Höhe,
+keine eigene Zahl, keine Erstattungszusage.** Die zweite Zusage muss eingelöst
+werden — dazu ist im Sortiment nachzusehen.
+
+---
+
+## #6528 — thomashjohnson23@gmail.com — fünfter Kontakt, drei ungeöffnete Teile
+
+**Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
+`Re: Order #6528 Return Request`. **CC an `kth3john@hotmail.com` beibehalten —
+die Adresse steht seit der ersten Mail in Kopie.**
+**Fünfter Kontakt. Er ist durchgehend höflich geblieben. Der Text darf keine
+Garantiebedingungen wiederholen und keine Adresse erfinden.**
+
+> Dear Tommy,
+>
+> You have now written five times and you are still waiting on an answer to a
+> question you asked on Thursday. I am sorry, and I am not going to pad that out
+> with an explanation.
+>
+> To be clear where things stand: you are right on the substance. The chewed one
+> is a separate matter, and the three you have not opened are exactly what our
+> 30-day guarantee is written for. Nobody here is disputing that, and the reply
+> you got on Wednesday should not have treated all four as one thing.
+>
+> The honest reason you have not had the return set up: I do not have a returns
+> address to give you. We do not currently have one on file, and I am not going
+> to invent one and have your parcel disappear. That is the actual hold-up, it
+> is ours, and I have put it to the owner of the business in those words along
+> with your order.
+>
+> You will get an answer on the three unopened ones, and on where to send them.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** eine Antwort zu den drei ungeöffneten Teilen **und** zum
+Rückweg. **Keine Erstattungszusage, kein Betrag, keine erfundene Adresse, keine
+Frist.** Der Regel-2-Anspruch wird eingeräumt, die Abwicklung ausdrücklich als
+offen benannt.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
