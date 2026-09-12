@@ -936,6 +936,48 @@ und eine Korrektur würde nur den Ton verderben.
 
 ---
 
+## #8081 — vad_shooter@yahoo.com — APO-Anschrift, Bestellung seit 14 Tagen blockiert
+
+**Neu geschrieben am 12.09., nie als Gmail-Entwurf vorhanden.** Antwort im
+bestehenden Thread, Betreff `Re: Address Confirmation Required for Order #8081`.
+**Es darf keine weitere Adressangabe verlangt werden. Seine Anschrift ist
+vollständig und steht korrekt in Shopify.**
+
+> Dear Matthew,
+>
+> You have been asked the same thing twice and told twice that it was already
+> settled, and the two messages you got yesterday contradicted each other four
+> minutes apart. I'm sorry — that was confusing to read and none of it was your
+> doing.
+>
+> To close it properly: your address is complete and we have it correctly on
+> file as Box 5647, PSC 3, APO AP 96266. There is no street address or building
+> number to supply, because an APO address does not have one, and you should not
+> have been asked for it. You do not need to send us anything further.
+>
+> The part I will not gloss over: order #8081 was paid on 29 August and has not
+> been dispatched. Fourteen days have gone by on an address question that our
+> own records already answered. I have put it in front of the owner of the
+> business this morning to be released.
+>
+> I am not going to give you a dispatch date in this message, because I would be
+> guessing and you have had enough messages that turned out not to hold. You
+> will get the tracking number as soon as it exists.
+>
+> If you would rather not wait and want the order cancelled instead, say so and
+> that is the end of it — nothing has shipped, and you will not be asked to
+> justify it.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** Vorlage beim Owner zur Freigabe, die Sendungsnummer, sobald
+sie existiert, **und** — bei Stornowunsch — eine Stornierung ohne Rückfrage.
+Letzteres ist Regel 3 und damit bereits geltende Policy, keine neue Zusage.
+**Kein Versanddatum, keine Erstattungszusage von sich aus.**
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

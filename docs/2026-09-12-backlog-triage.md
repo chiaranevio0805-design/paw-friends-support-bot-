@@ -94,3 +94,82 @@ Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#7383** und
 **Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, keine
 Rücksendeadresse, keine Zustellprognose, keine 7–21-Tage-Formel (gestern bei
 #7190 nachweislich gerissen), kein Label gesetzt.
+
+---
+
+## Lauf 03:20 UTC — 🚩 #8081 Matthew Pierce: eine Bestellung, die an einer erfundenen Anforderung hängt
+
+**Neu im Postfach:** eine Mail, **02:44**, von `vad_shooter@yahoo.com`.
+**Sie enthält keinen eigenen Text** — nur den zitierten Verlauf. Entweder eine
+versehentlich leere Antwort oder eine wortlose Rückgabe der letzten Nachricht.
+**Der Bot deutet das nicht.**
+
+**Shopify:** #8081, bestellt **29.08. 05:56**, **20,35 £**, `PAID` /
+**`UNFULFILLED`**, 1 × Plushie (Duck). Lieferanschrift, so wie sie in Shopify
+steht:
+
+```
+Box 5647 PSC 3
+APO
+Armed Forces Pacific
+96266-0057
+United States
+```
+
+**Seit vierzehn Tagen bezahlt und nicht versandt.**
+
+### Der Ablauf
+
+| Zeit | Vorgang |
+|---|---|
+| 10.09. 07:14 | Shop: „we noticed that **two different postcodes** have been provided… our system is **unable to recognise the APO address format**… please confirm your complete and accurate delivery address, **including the correct postcode and full street address**" |
+| 10.09. 07:48 | Kunde antwortet vollständig: „Matthew Pierce, Box 5647 PSC 3, APO AP 96266, United States" |
+| **11.09. 09:57:44** | Shop: „Thank you for providing the updated address. **We have received the details and will update your order accordingly.**" |
+| **11.09. 10:01:11** | Shop, **drei Minuten und 27 Sekunden später**: „could you please provide **the physical street address and house/building number** associated with your APO address?" |
+| 12.09. 02:44 | Kunde antwortet — **ohne eigenen Text** |
+
+### Drei Feststellungen
+
+1. **Die beiden Antworten vom 11.09. widersprechen sich.** Die erste sagt, alles
+   liege vor. Die zweite, keine vier Minuten später, verlangt etwas Weiteres.
+   Aus Kundensicht ist das nicht auflösbar.
+
+2. **Eine APO-Anschrift hat keine Strassenadresse.** `PSC 3, Box 5647, APO AP
+   96266` ist eine vollständige Anschrift der US-Militärpost; ein Haus oder eine
+   Strasse gehört dort nicht dazu — das ist keine Lücke, sondern die Bauart
+   dieser Anschriften. **Es wird etwas verlangt, das es nicht gibt.**
+   Strukturell derselbe Fall wie „a P.O. Box cannot be processed" — eine
+   Aussage, die inzwischen **dreimal** widerlegt ist (#5817, #6209, #7101).
+
+3. **„Two different postcodes" trifft nicht zu.** Shopify führt
+   **96266-0057**, der Kunde nennt **96266**. Das ist dieselbe ZIP einmal mit
+   und einmal ohne die vierstellige Zusatzangabe, nicht zwei Postleitzahlen.
+
+**Die Anschrift steht in Shopify korrekt und vollständig.** Die Bestellung hängt
+seit vierzehn Tagen an einer Rückfrage, die die eigenen Stammdaten bereits
+beantworten.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bezahlte Bestellung seit 14 Tagen unversandt; zwei
+einander widersprechende Antworten binnen vier Minuten; Nachforderung einer
+Angabe, die es bei dieser Anschriftenart nicht gibt; unzutreffende Begründung
+(„zwei Postleitzahlen").
+
+### Erstattungslage
+
+**Kein Regelfall — noch nicht.** Er hat nicht storniert. **Wenn er es tut, ist
+es ein glatter Regel-3-Fall:** die Bestellung ist `UNFULFILLED`, die Stornierung
+käme vor Versand, und nach der Policy gilt dann „no argument, no attempt to talk
+them out of it". **Das ist im Voraus festgehalten, damit bei einer Stornierung
+nicht wieder eine Rückfrage rausgeht** — genau das ist bei #6870 Todd Jacobs am
+20.08. passiert und hat dreizehn Tage gekostet, bis die Ware trotz Storno
+rausging.
+
+### Entwurf
+
+Volltext in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#8081**.
+Kein Gmail-Entwurf angelegt — `create_draft` bricht seit dem 21.08. ab.
+
+**Nicht getan:** keine Strassenadresse nachgefordert, kein Versanddatum
+zugesagt, keine Erstattung zugesagt, die leere Antwort nicht gedeutet, kein
+Label gesetzt.
