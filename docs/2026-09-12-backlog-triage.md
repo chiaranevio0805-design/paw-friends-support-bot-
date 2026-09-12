@@ -382,3 +382,88 @@ Volltext in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#4726**.
 **Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt oder
 abgelehnt, keine Aussage zum Lieferumfang, keine Zustellprognose, keine
 7–21-Tage-Formel, kein Label gesetzt.
+
+---
+
+## Lauf 11:20 UTC — 🚩 #4745 Steph Hanlon: vier Minuten 26 Sekunden
+
+**Neu seit 10:20:** eine Kundenantwort, **10:36:18**. Sie ist die Reaktion auf
+eine Vorlagen-Absage, die heute um **10:31:52** rausging.
+
+**Abstand: 4 Minuten 26 Sekunden.** Das ist die **schnellste Eskalation im
+Projekt** — bisheriger Wert: 28 Minuten (#7101 Cameron Herpich, gestern).
+
+**Shopify:** #4745, bestellt **06.08. 13:07**, **54,95 £**, `PAID` /
+`FULFILLED`, Tag `Kaching Bundles`, fünf Positionen (4 × Plushie — hippo,
+elephant, Duck, frog — plus Fur Wonder Brush), versandt **22.08. 01:30** ab
+Kirchstr. 2, Yun Express `YT2623400701612777`, Coatbridge, Schottland.
+**Sechzehn Tage** bis zum Versand.
+
+**Der Fall ist bereits erfasst** — Log vom 10.09., 14:20: „#4745 Stephen
+Hanlon: Trustpilot wird zum Argument". Seine Mail vom 10.09. 14:02:
+
+> „your toys are shite.. **one day they lasted** before the stuffing was flying
+> like any other toy **you claimed not be like**. I should have read the **trust
+> pilot reviews** that says it all.. **everyone says they are shite!!**"
+
+**Was daraufhin passiert ist:** Am **12.09. 10:31:52** — zwei Tage später — ging
+die **Kauschaden-Vorlage** an ihn raus. Seine Antwort, 10:36:
+
+> „the product didnt meet my expectations because **the company is full of shite
+> making ridiculous claims** that your toys are better than everyone elses and
+> **will out last any dog** blah blah bullshit.. your toys are pish and **your
+> reviews speak for themselves**."
+
+### Die Zählung
+
+**Sechs von sechs.** Fünf Absagen gestern (#5973, #5851, #7179, #7101, #7271),
+eine heute (#4745) — **alle sechs eskaliert, keine Ausnahme.** Über drei Tage
+gerechnet: **17 von 17.**
+
+**Die heutige Absage ging raus, nachdem der Befund drei Tage lang im Log
+steht** und gestern im Tagesreport an erster Stelle stand.
+
+### Was er zusätzlich sagt
+
+**„Your reviews speak for themselves"** — er meint die **externen** Bewertungen,
+auf die er schon am 10.09. verwiesen hat. Das steht neben dem Befund von gestern
+zu **#6606**: der **shopeigene** Bewertungspool des Hauptprodukts zeigt **78
+Bewertungen, Durchschnitt 5,0, keine einzige negative**.
+
+**Beides gleichzeitig kann der Owner prüfen, der Bot nicht** — er hat die
+Trustpilot-Seite **nicht** aufgerufen und behauptet über deren Inhalt nichts.
+Festgestellt ist nur: **zwei Kunden** (#4745 am 10.09. und heute) berufen sich
+auf externe Bewertungen als Gegenbeleg, und **ein Kunde** (#6606 Matt Pinnock)
+fragt seit vier Tagen vergeblich, wie er auf der Shop-Seite eine abgeben kann.
+
+**Er zitiert ausserdem eine weitere Werbeaussage:** „your toys are **better than
+everyone elses** and **will out last any dog**". Ob dieser Wortlaut so geschaltet
+wurde, ist **ungeprüft** — wie bei #7060 und #5851. Der Bot liest keine
+Anzeigentexte.
+
+→ `Bot/Escalated - Owner Attention` (bleibt).
+**Eskalationsgrund:** dritter Kontakt, bestrittene Werbeaussage, Verweis auf
+externe Bewertungen als Beleg für ein Muster, Betrugsvorwurf gegen das
+Unternehmen.
+
+**Nicht auf der Erstattungsliste** — Kauschaden, kein Regelfall, und er verlangt
+keine Erstattung. **Er verlangt überhaupt nichts.** Wie #7101 und #7271
+gestern: eine Beschwerde ohne Forderung, beantwortet mit der Ablehnung einer
+nicht gestellten Forderung.
+
+### Ohne neue Nachricht wieder aufgetaucht
+
+**#6751 Jonathan Pizzo** — keine neue Kundenmail. Letzte Nachricht weiterhin
+**01.09. 22:01**, in der er höflich nachfragt, ob die am **28.08.** zugesagte
+Sendungsnummer inzwischen vorliegt („We are currently checking with our courier
+team"). **Seit elf Tagen unbeantwortet.** Vollständig erfasst im Log vom 08.09.,
+22:20. Kein neuer Eintrag nötig — **aber die Zusage vom 28.08. steht weiterhin
+offen.**
+
+### Entwurf
+
+Volltext in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#4745**.
+
+**Nicht getan:** keine Vorlagen-Absage wiederholt, keine Erstattung zugesagt,
+keine Trustpilot-Seite aufgerufen, kein Anzeigentext behauptet, kein Label
+gesetzt.

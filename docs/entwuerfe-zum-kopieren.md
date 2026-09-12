@@ -1133,6 +1133,42 @@ Rücksendeadresse, keine Frist, keine 7–21-Tage-Formel.
 
 ---
 
+## #4745 — skinnyman76@hotmail.co.uk — vier Minuten nach der Vorlage
+
+**Neu geschrieben am 12.09., nie als Gmail-Entwurf vorhanden.** Antwort im
+bestehenden Thread, Betreff `Re: my order`.
+**Er verlangt nichts. Keine Absage, kein Angebot, keine Garantiebedingungen —
+genau die haben ihn vor vier Minuten wieder in die Luft gehen lassen.**
+
+> Dear Steph,
+>
+> That reply this morning was a standard one and you clearly spotted it as such
+> within about four minutes. Fair enough. I am not going to send you another.
+>
+> You wrote to us on Wednesday to say the toy lasted a day and that the reviews
+> elsewhere say the same thing. Nobody answered that. What came back two days
+> later was a refusal of a refund you had not asked for. That is not an answer
+> to what you wrote and I am not going to pretend otherwise.
+>
+> I have put order #4745 and both of your emails in front of the owner of the
+> business, including the point about how the toys are described against what
+> people are actually saying about them. That is not a decision for a support
+> desk, and it is not one I am going to fudge with a policy line.
+>
+> I am not making you an offer here, because you have not asked for one and
+> inventing one now would look like exactly what you think this company is.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage, kein Ersatz, kein Betrag, keine
+Frist — **bewusst nichts ausser der Weitergabe**. Er hat zweimal geschrieben,
+ohne etwas zu fordern; ein unaufgefordertes Angebot wäre hier ein Eingeständnis
+ohne Deckung und würde die Erwartung bei den übrigen ~70 Fällen verschieben.
+Keine Aussage über Trustpilot, keine über den eigenen Bewertungspool.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
