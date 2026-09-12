@@ -824,3 +824,121 @@ Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#7246** und
 **Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, kein
 Rücksendeverfahren beschrieben, keine Adresse erfunden, kein Vorname geraten,
 keine Zustellprognose, keine 7–21-Tage-Formel, kein Label gesetzt.
+
+---
+
+## Lauf 16:20 UTC — drei Fälle, einer davon ohne feststellbare Bestellnummer
+
+### 🚩 becca23047@aol.com — „Destroyed in 5 minutes", Bestellung nicht auffindbar
+
+**15:20**, Betreff „Destroyed in 5 minutes", **drei Anhänge**
+(`image0.png`, `image1.png`, `image2.jpeg`):
+
+> „These toys are **no where near indestructible**, my dog destroyed it in **five
+> minutes**. **Please refund my whole order** to the credit card I used. **See
+> attached photos for ordering information** and a photo of the toy."
+
+**🔎 Die Bestellung ist nicht feststellbar.**
+
+- In Shopify liegt **keine Bestellung** zu `becca23047@aol.com` — weder über die
+  Bestell- noch über die Kundensuche.
+- Die Bestelldaten stehen **in den Screenshots**. **Der Bot kann Bildinhalte
+  nicht lesen** und rät keine Bestellnummer.
+
+**Das ist der zweite Fall dieser Art binnen 24 Stunden** — nach
+**dinod28@aol.com** gestern, wo ebenfalls keine Bestellung zur Adresse
+auffindbar war. Beide sind `@aol.com`. Ob das zusammenhängt, ist **offen**; der
+Bot stellt nur fest, dass es zweimal vorkam.
+
+**→ Owner: die Anhänge öffnen und die Bestellung identifizieren.** Ohne Nummer
+ist weder der Betrag noch der Umfang belegbar, und eine Erstattung „des ganzen
+Auftrags" ist nicht bezifferbar.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage („no where near indestructible"),
+Erstattungsforderung über den gesamten Auftrag, Bestellung nicht zuordenbar.
+**Nicht auf der Erstattungsliste** — Kauschaden, und ohne Bestellnummer
+ohnehin nicht bezifferbar.
+
+**Fünf Minuten** ist damit zum zweiten Mal heute die kürzeste gemeldete
+Nutzungsdauer — nach **#7383 JoAnn Jinks** heute Nacht.
+
+---
+
+### 🚩 #7627 Charlotte Matthews — die Erstattungsbitte wurde übergangen
+
+**Shopify:** #7627, bestellt **24.08. 19:23**, **27,95 £**, `PAID` /
+`FULFILLED`, versandt **03.09. 07:41** ab Kirchstr. 2, Yanwen Special Line
+`UL478624234YP`, Bury Saint Edmunds, England. **Zehn Tage** bis zum Versand.
+**Elfter Kunde aus dem Versandstapel vom 03.09.**
+
+| Zeit | Vorgang |
+|---|---|
+| 10.09. 08:18 | „I placed an order on 24th August and have still not received it. Can u please let me know what's going on **or refund my money**?" |
+| **12.09. 09:50** | Lieferauskunft mit **7–21-Tage-Formel**, **ohne Sendungsnummer** — **und ohne ein Wort zur Erstattungsbitte** |
+| **12.09. 16:15** | ihre Antwort |
+
+> „Ok. **Your website doesn't specify that orders will take that long.** When I
+> placed my order **that time frame was not communicated**. I will know **not to
+> purchase again** in future."
+
+**Drei Befunde, alle heute schon dagewesen:**
+
+1. **Ihre Erstattungsbitte vom 10.09. ist in der Antwort nicht vorgekommen.**
+   Dasselbe wie bei #7179 (drei Punkte, einer beantwortet) und #5973 (dreimal
+   dieselbe Frage, zweimal am Thema vorbei).
+2. **Die Sendungsnummer lag seit dem 03.09. vor und wurde nicht genannt.**
+   **Fünfter Fall** in zwei Tagen — nach #7525, #7547, #7190, #4726.
+3. **Sie bestreitet die Lieferzusage**, wie Carol Garvey gestern („There was no
+   note to say shipping would take so long") und Steve Solley („not the original
+   agreement"). **Dritte Kundin** mit demselben Punkt in zwei Tagen.
+
+Sie eskaliert nicht. Sie hört auf zu kaufen.
+
+→ `Bot/Needs Approval`. **Offen ist ein Ja oder Nein zur Erstattung** — die
+Bitte steht seit dem 10.09. unbeantwortet im Raum. Kein Regelfall (versandt
+03.09.), also Owner-Entscheidung. Sendungsnummer in jedem Fall nennen.
+**Nicht auf der Erstattungsliste.**
+
+---
+
+### #4939 Sara Thompson — Geschenk, zwanzig Minuten, und eine Bestellung von Anfang August
+
+**15:47**, mit Foto, vollständiger Text:
+
+> „I just gave **my mom her new teddy** purchased from you. **Here is the outcome
+> 20 mins later...**"
+
+**Keine Forderung. Kein Vorwurf. Kein Zitat.** Wie #7101 Cameron Herpich und
+#7271 Rosalind Welch — beide bekamen darauf eine Absage und beide sind
+eskaliert.
+
+**Shopify:** #4939, bestellt **07.08. 15:04**, **34,95 £**, `PAID` /
+**`PARTIALLY_FULFILLED`**, Tag `Kaching Bundles`, **vier Positionen**
+(3 × Paw-Friends™-Fluffys — Duck, giraffe, frog — plus E-Book). **Eine einzige
+Sendung am 24.08. 02:20**, Yun Express `YT2623600701636706`, Tipton, England.
+**Siebzehn Tage** bis zum Versand.
+
+**🚩 Die Bestellung ist seit dem 07.08. — sechsunddreissig Tagen — nicht
+vollständig ausgeliefert.** Wie bei **#6116 Sharron Hodges** (82,81 £, neun
+Positionen, eine Sendung) und **#4726 Marilyn Penniall** (vier Positionen, eine
+Sendung). **Welche Positionen versandt wurden, ist aus den vorliegenden Daten
+nicht ableitbar** — im Admin zu prüfen. Der Bot behauptet dazu nichts.
+
+**Das ist der dritte `PARTIALLY_FULFILLED`-Fall in zwei Tagen.**
+
+→ `Bot/Needs Approval`. Die Antwort selbst verspricht nichts, **aber die
+unausgelieferten Positionen sind eine Owner-Entscheidung**, und sie soll keine
+Zusage bekommen, bevor klar ist, was sie überhaupt erhalten hat.
+**Nicht auf der Erstattungsliste** — der zerstörte Teddy ist Kauschaden; die
+fehlenden Positionen sind kein Regelfall, sondern eine Lieferfrage.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **becca23047**,
+**#7627** und **#4939**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt oder
+abgelehnt, **keine Bestellnummer geraten**, keine Bildinhalte gedeutet, keine
+Aussage zum Lieferumfang, keine Zustellprognose, keine 7–21-Tage-Formel, kein
+Label gesetzt.

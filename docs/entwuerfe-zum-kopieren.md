@@ -1413,6 +1413,115 @@ an den Zusteller, **keine Anrede mit einem ungeklärten Namen**.
 
 ---
 
+## becca23047@aol.com — „Destroyed in 5 minutes", Bestellung nicht auffindbar
+
+**Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
+`Re: Destroyed in 5 minutes`.
+**⚠️ Zu dieser Adresse ist in Shopify keine Bestellung auffindbar. Die
+Bestelldaten stehen in ihren Screenshots. Vor dem Senden die Anhänge öffnen und
+die Bestellung identifizieren — der Text nennt deshalb weder Nummer noch
+Betrag.**
+
+> Dear Becca,
+>
+> Five minutes, and you have sent the photos. I am not going to ask you to prove
+> it twice.
+>
+> One practical thing first, and it is our problem rather than yours: I cannot
+> find your order under the email address you have written from. You attached
+> your order details as images, and I would rather say that I need a moment to
+> match them up than pretend I already have your file open. Nothing is being
+> held up by this — I just do not want to quote you a number that turns out to
+> be someone else's.
+>
+> On what you actually said: you bought these on the basis that they were
+> indestructible and they were not. Whether that description holds up is not
+> something a support reply can decide, and I am not going to argue you out of
+> it. Your email and your photos have gone to the owner of the business this
+> afternoon along with your request for a full refund to the card you paid with.
+>
+> You will get a direct answer rather than a standard one.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage und keine Ablehnung, **kein
+Betrag, keine Bestellnummer**, keine Rücksendeadresse, keine Frist. Zugesagt
+sind die Weitergabe und eine direkte Antwort.
+
+---
+
+## #7627 — charlotteamatthews88@gmail.com — die übergangene Erstattungsbitte
+
+**Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
+`Re: Order no 7627`.
+**Sie hat am 10.09. um eine Erstattung gebeten und darauf keine Antwort
+bekommen. Das muss zuerst angesprochen werden.**
+
+> Dear Charlotte,
+>
+> You are right, and I would rather agree with you than explain it away.
+>
+> When you wrote on 10 September you asked two things: what was going on, and
+> whether you could have your money back. This morning's reply answered the
+> first and simply did not mention the second. That was not an oversight you
+> should have had to notice.
+>
+> So, the second one: your request for a refund has gone to the owner of the
+> business this afternoon and you will get a yes or a no. I am not going to
+> decide it here and have it reversed.
+>
+> And the details you should have had this morning. Your order was dispatched on
+> 3 September with Yanwen Special Line, tracking number UL478624234YP, which you
+> can follow at https://t.17track.net/en#nums=UL478624234YP. That number existed
+> when you were written to and it was not included.
+>
+> On the timeframe: you ordered on 24 August and it was ten days before the
+> parcel was handed over. You are right that this was not set out when you
+> ordered. I am not going to give you a delivery date on top of that, because I
+> would be guessing.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** die Sendungsnummer (belegt) und die Weiterleitung der
+Erstattungsbitte an den Owner mit der Zusage einer klaren Antwort. **Keine
+Erstattungszusage, kein Zustelltermin, keine 7–21-Tage-Formel.**
+
+---
+
+## #4939 — sara.thompson4881@gmail.com — Geschenk, und eine Bestellung vom 07.08.
+
+**Neu geschrieben am 12.09.** Antwort im bestehenden Thread.
+**Sie fordert nichts. Keine Absage, kein Angebot. Vor dem Senden im Admin
+prüfen, welche der vier Positionen versandt wurden.**
+
+> Dear Sara,
+>
+> Thank you for the photo. Twenty minutes, and it was a present for your mum —
+> that is a worse version of this than most, and I am sorry.
+>
+> You have not asked us for anything, so I am not going to answer you with our
+> returns policy. What I have done is pass your message and the photo to the
+> owner of the business, because how these are described against how they hold
+> up is not a question a support reply can settle.
+>
+> There is a second thing I noticed while looking at your order, and I would
+> rather raise it than leave it sitting there. You ordered on 7 August and our
+> records do not show the order as fully dispatched — only one parcel went out,
+> on 24 August. I do not want to tell you what is missing before I have checked
+> properly, so I am checking, and I will come back to you on it either way.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** eine **Rückmeldung zum Lieferumfang** — diese Zusage muss
+eingelöst werden und setzt eine Prüfung im Admin voraus. Keine
+Erstattungszusage, kein Betrag, keine Rücksendeadresse, keine Frist. **Keine
+Aussage darüber, welche Positionen fehlen**, bevor das geprüft ist.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
