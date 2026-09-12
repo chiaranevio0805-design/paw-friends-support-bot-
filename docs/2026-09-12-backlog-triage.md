@@ -598,3 +598,69 @@ und **#6286**.
 abgelehnt, keine Zusage zur Änderung von Werbung oder Garantie — **das ist
 Owner-Sache und wird im Text ausdrücklich so benannt**, kein Anzeigentext
 gelesen, kein Label gesetzt.
+
+---
+
+## Lauf 13:20 UTC — 🚩 #7165 Andrea Dentel: „too dangerous for my dog"
+
+**Neu seit 12:20:** eine Mail, **12:22**, Betreff „Return Request - order 7165",
+mit Foto (`image0.jpeg`):
+
+> „my dog destroyed the toy **within 20 minutes** of receiving it. Picture
+> attached. **These types of toys are too dangerous for my dog.** I'm requesting
+> to **return the items** and receive a **full refund** of my order."
+
+**Shopify:** #7165, bestellt **22.08. 12:37**, **28,50 £**, `PAID` /
+`FULFILLED`, Tag `Kaching Bundles`, **2 × Plushie** (frog, pig), versandt
+**02.09. 10:51** ab Kirchstr. 2, **JQ Express US `JCHSG0000004363079`**,
+Gurnee, Illinois. **Elf Tage** bis zum Versand.
+
+### Zwei Dinge, die diesen Fall von den übrigen unterscheiden
+
+**1. Sie nennt es eine Gefahr, nicht einen Mangel.** „**Too dangerous for my
+dog**" ist kein Qualitätsurteil, sondern eine Sicherheitsaussage. Das ist die
+**neunte** Meldung, die auf verschluckbares oder gefährliches Material zielt —
+nach #6283, Andy Sire, Kevin Saggers #3197, #6741, der Nadel in #1301, dem
+Quietscher in #6286, #7179 („eating the cotton") und #5186 („he tries to eat
+them").
+
+**Nach `support-policy.md` ist eine Sicherheitsmeldung ein eigener
+Eskalationstrigger** — unabhängig davon, ob ein Erstattungsanspruch besteht.
+
+**2. Sie schreibt „the toy" im Singular und „the items" im Plural.** Bestellt
+sind **zwei** Plüschtiere. Ob das zweite unbenutzt ist, sagt sie **nicht** —
+**das ist zu fragen, nicht anzunehmen.** Wenn ja, ist es ein **Regel-2-Fall**
+und damit ein voller Anspruch auf den entsprechenden Anteil, und die
+Kauschaden-Absage wäre hier zum **achten** Mal der falsche Text.
+
+Der Anteil ist bei einer Kaching-Bundle-Bestellung **im Admin zu bestimmen** —
+die Listenpreise (2 × 30,78 £) ergeben nicht den gezahlten Betrag von 28,50 £.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** Sicherheitsmeldung („too dangerous"), dazu ein möglicher
+Regel-2-Anspruch auf das zweite Teil, der vor jeder Antwort zu klären ist.
+
+**Noch nicht auf der Erstattungsliste** — erst nach der Rückfrage zum zweiten
+Teil. **Das zerstörte Teil ist und bleibt Kauschaden und kommt nicht darauf.**
+
+### Ohne neue Nachricht wieder aufgetaucht
+
+**#5186 John Abbott** — keine neue Kundenmail; die letzte bleibt **10.09.
+19:54** („Would like a full refund. Sorry, this went to Spam and just seeing
+this"). Vollständig erfasst im Log vom 10.09. Kein neuer Eintrag.
+
+**Der Vorgang bleibt aber offen und gehört zum heutigen Muster:** Er hat am
+26.08. gefragt „How do I return these?", bekam am 28.08. die
+**Rückfrage-Vorlage** („could you please let us know the reason"), antwortete am
+30.08. mit einer **Sicherheitsangabe** („way too small for my dog. **He tries to
+eat them**") — und bekam darauf am 01.09. **ein Teilerstattungsangebot statt
+einer Rücknahme**. Am 10.09. verlangt er die volle Erstattung. **Seither
+unbeantwortet.**
+
+### Entwurf
+
+Volltext in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#7165**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, kein Anteil
+geschätzt, keine Rücksendeadresse genannt (es gibt keine), nicht angenommen,
+dass das zweite Teil unbenutzt ist, kein Label gesetzt.

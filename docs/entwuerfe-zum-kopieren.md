@@ -1268,6 +1268,46 @@ der Bot bringt ein laufendes Behördenverfahren nicht von sich aus auf.
 
 ---
 
+## #7165 — andrea.g.dentel@gmail.com — „too dangerous for my dog"
+
+**Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
+`Re: Return Request - order 7165`.
+**Sicherheitsmeldung zuerst. Die Rückfrage zum zweiten Teil ist der einzige
+echte Inhalt neben der Weitergabe — sie entscheidet über Regel 2.**
+
+> Dear Andrea,
+>
+> Thank you for the photo, and for saying plainly that you consider the toy
+> dangerous rather than just disappointing. I am treating it that way.
+>
+> First, the part that matters most: if there is any chance your dog swallowed
+> any of the filling or a piece of the toy, the things to watch for are vomiting
+> or retching, going off his food, straining or producing nothing, and any
+> hunched or uncomfortable posture. Call your vet if you see any of that, or
+> sooner if you would rather have him checked than wait. I would rather raise it
+> unnecessarily than not raise it.
+>
+> Second, a question I need to ask rather than assume. Your order was for two
+> toys, the frog and the pig, and you have written about one being destroyed. Is
+> the second one still unused and in its packaging? If it is, that is a
+> different case from the chewed one and it matters for how the refund is
+> handled.
+>
+> On the refund itself: you have asked for the full amount and I am not going to
+> refuse that, nor am I going to approve it here and have it overturned. Order
+> #7165, your photo and the safety point have gone to the owner of the business
+> this afternoon. You will get a direct answer.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage und keine Ablehnung, kein Betrag,
+keine Rücksendeadresse, keine Frist. Zugesagt sind Weitergabe und eine direkte
+Antwort. **Die Rückfrage zum zweiten Teil muss beantwortet werden, bevor der
+Fall beurteilt wird.**
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
