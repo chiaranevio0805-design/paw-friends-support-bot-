@@ -467,3 +467,134 @@ Volltext in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#4745**.
 **Nicht getan:** keine Vorlagen-Absage wiederholt, keine Erstattung zugesagt,
 keine Trustpilot-Seite aufgerufen, kein Anzeigentext behauptet, kein Label
 gesetzt.
+
+---
+
+## Lauf 12:20 UTC — drei weitere Eskalationen, und eine Korrektur der Zählung
+
+### 🔧 Korrektur: es waren acht Antworten am 11.09., nicht sieben
+
+Im Eintrag vom 20:20 gestern steht, es seien **sieben** Antworten zwischen 09:47
+und 10:09 rausgegangen. Es waren **acht**. Fehlte: **10:02:41 an
+`jasinv13@gmail.com` (#6280)** — die **sechste** Kauschaden-Absage.
+
+**Ursache, und sie ist strukturell:** Die Läufe durchsuchen `in:inbox`. Eine
+gesendete Antwort wird erst sichtbar, wenn der Kunde darauf antwortet. Jede
+Zählung ausgehender Mails ist deshalb **zum Zeitpunkt des Laufs zwangsläufig
+eine Untergrenze**. Dasselbe Loch hat gestern den Vorfall bei #6116 zwei Tage
+lang verdeckt. **Alle Angaben zu ausgehenden Vorlagen in diesen Logs sind als
+Mindestzahlen zu lesen.**
+
+### Der Stand nach heute
+
+| Tag | Kauschaden-Absagen | eskaliert |
+|---|---|---|
+| 11.09. | #5973, #5851, #7179, #7101, #7271, **#6280** | **6 von 6** |
+| 12.09. | #4745, #7316, #6286 | **3 von 3** |
+
+**Neun von neun.** Die drei heutigen gingen raus, **nachdem** der Befund drei
+Tage im Log stand und gestern im Tagesreport an erster Stelle stand.
+
+---
+
+### 🚩 #6280 Jasin Vandenbroeke — verlangt jetzt nur noch die Änderung der Werbung
+
+**Shopify:** #6280, bestellt **15.08. 22:02**, **30,56 £**, `PAID` /
+`FULFILLED`, 2 × Plushie (Little Bear, hippo), versandt **20.08. 02:16** ab
+Kirchstr. 2, **4PX Economic Registered `4PX3003082535801CN`**, Dudley, North
+Carolina.
+
+| Datum | Vorgang |
+|---|---|
+| 29.08. | „This is taking too long… going on 11 or so days" |
+| 31.08. | Lieferauskunft: „**At around 11 days**, your order is still within the usual delivery timeframe" |
+| 10.09. | „**less than 20 minutes** to tear them open and get the **squeaker** out… I would like to request a full refund" |
+| **11.09. 10:02:41** | **Kauschaden-Absage** |
+| **12.09. 11:21** | die Mail unten, mit Foto |
+
+> „I am writing to **formally request that Paw-Friends reconsider its
+> advertising language** regarding product durability. Marketing your toys as
+> **'indestructible'** sets an explicit expectation… When a product advertised
+> in this manner **fails within 20 minutes**, it **fails to meet the basic
+> standards established by your own promotional claims**. I strongly encourage
+> your team to **revise these product descriptions** to ensure accurate
+> marketing and to **avoid misleading future customers**."
+
+**Er hat die Erstattungsforderung fallengelassen.** Am 10.09. hat er eine
+verlangt; heute verlangt er **nur noch, dass die Werbung geändert wird**. Das
+ist der **dritte** Kunde, der das ausdrücklich fordert, nach den beiden Fällen
+vom 10.09.
+
+**Nebenbefund zur 7–21-Tage-Formel:** Ihm wurde sie am 31.08. **mit Startpunkt**
+geschickt („at around 11 days" — also ab Bestellung). Bei **#7190 Steve Solley**
+ging sie am 11.09. **ohne** Startpunkt raus, und genau daran ist sie gerissen.
+**Die Formel wird also uneinheitlich verschickt** — das ist präziser als die
+bisherige Formulierung im Log und gehört so festgehalten.
+
+→ `Bot/Escalated - Owner Attention`. **Nicht auf der Erstattungsliste** —
+Kauschaden, und er fordert keine Erstattung mehr.
+
+---
+
+### 🚩 #7316 Brett Merriman — „Why would I return it before it got used?"
+
+**Shopify:** #7316, bestellt **23.08. 03:19**, **20,34 £**, `PAID` /
+`FULFILLED`, versandt **02.09. 10:59** ab Kirchstr. 2, **WB US
+`WNBAA0497794623YQ`**, Mesa, Arizona.
+
+Erste Mail **10.09. 13:51**: „This toy lasted **20 minutes**… Junk".
+Absage **12.09. 10:31:38**. Antwort **12:04:22** — **1 Std 33 Min**:
+
+> „Ya so your toys suck and so does your company. **Why the fuck would I return
+> it before it got used?** Clowns"
+
+**Das ist zum zweiten Mal derselbe strukturelle Einwand** wie bei **#7101
+Cameron Herpich** gestern: die Bedingung „unbenutzt zurück" ist bei einem
+Kauspielzeug nicht erfüllbar, ohne auf die Prüfung zu verzichten. Zwei Kunden,
+zwei Kontinente, dieselbe Beobachtung, beide unabhängig voneinander.
+
+→ `Bot/Escalated - Owner Attention`. **Nicht auf der Erstattungsliste** —
+Kauschaden.
+
+---
+
+### 🚩 #6286 Deborah Gould — vierter Kontakt, „false advertising"
+
+Absage **10.09. 10:26**, Antwort **10.09. 10:39** („I bought your product **only
+because of your 30 Day money back guarantee**"), **zweite Absage 12.09.
+09:54:57**, Antwort **11:36:12** — **1 Std 41 Min**:
+
+> „**I will be watching to see if you change your 30 day guarantee** and that
+> you **outline what constitutes your money back guarantee**. **You must see now
+> that it is false advertising.** Not happy!"
+
+**Sie ist die Kundin, die am 10.09. die ACCC eingeschaltet hat.** Sie bekommt
+danach dieselbe Absage ein zweites Mal — und formuliert jetzt exakt dieselbe
+Forderung wie #6280 heute und wie die beiden Fälle vom 10.09.: **die Werbung
+und die Garantiebedingungen sollen geändert werden.**
+
+→ `Bot/Escalated - Owner Attention` (bleibt). **Nicht auf der Erstattungsliste**
+— Kauschaden.
+
+---
+
+### Das Muster, das sich über alle drei legt
+
+**Vier Kunden verlangen inzwischen ausdrücklich nicht Geld, sondern eine
+Änderung der Werbung** (#6280 heute, #6286 heute, plus zwei am 10.09.).
+Dazu kommen **zwei**, die den Konstruktionsfehler der Regel 2 benennen (#7101,
+#7316), und **drei**, denen eine Erstattung abgelehnt wurde, die sie nie
+verlangt hatten (#7101, #7271, #4745).
+
+**Das ist keine Erstattungsfrage mehr.** Es ist eine Frage an den Text auf der
+Seite und an die Garantiebedingung.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#6280**, **#7316**
+und **#6286**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt oder
+abgelehnt, keine Zusage zur Änderung von Werbung oder Garantie — **das ist
+Owner-Sache und wird im Text ausdrücklich so benannt**, kein Anzeigentext
+gelesen, kein Label gesetzt.

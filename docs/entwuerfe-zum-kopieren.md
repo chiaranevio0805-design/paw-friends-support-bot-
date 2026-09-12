@@ -1169,6 +1169,105 @@ Keine Aussage über Trustpilot, keine über den eigenen Bewertungspool.
 
 ---
 
+## #6280 — jasinv13@gmail.com — verlangt nur noch die Änderung der Werbung
+
+**Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
+`Re: I want a refund`.
+**Er fordert kein Geld mehr. Der Text darf ihm keine Erstattung anbieten und
+keine ablehnen.**
+
+> Dear Jasin,
+>
+> You asked for a refund two days ago and today you are asking for something
+> else: that we change how the toys are described. I would rather answer the
+> thing you actually asked.
+>
+> I am not going to promise you that the wording will change, because that is
+> not mine to decide and a promise from this desk would be worth nothing. What I
+> have done is pass your message on unedited, to the owner of the business, with
+> your photo and the twenty minutes. You are not the first person to ask for
+> this in the last few days, and I have said so as well.
+>
+> The refund is a separate question and it has gone over with it. If you still
+> want one, it has not been dropped just because you did not repeat it.
+>
+> I am not going to argue with your point. A product sold on durability that
+> comes apart in twenty minutes is a fair thing to raise, and it is being raised
+> by more than one person.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** Weitergabe an den Owner, unverändert. **Keine Zusage, dass
+Werbung oder Beschreibung geändert werden** — ausdrücklich als nicht eigene
+Entscheidung benannt. Keine Erstattungszusage, keine Ablehnung. Dass mehrere
+Kunden dasselbe verlangen, wird ihm **bestätigt** — das ist belegt und ein
+Bestreiten wäre unwahr.
+
+---
+
+## #7316 — brettamerriman@gmail.com — „Why would I return it before it got used?"
+
+**Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
+`Re: A shipment from order #7316 is on the way`.
+
+> Dear Brett,
+>
+> The question in your reply is a fair one and I am not going to dodge it. You
+> cannot return a chew toy unused, because finding out whether it holds up means
+> giving it to the dog. A returns condition written around "unused and in
+> original condition" does not fit a product sold to be chewed, and the reply
+> you got this morning did not acknowledge that at all.
+>
+> You are the second person in two days to put it exactly that way. I have
+> passed order #7316 and your wording to the owner of the business, because the
+> condition itself is what needs looking at and that is not something I can
+> change from here.
+>
+> I am not going to send you the policy paragraph a second time.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage, kein Betrag, keine Frist — nur
+die Weitergabe. Der Policy-Einwand wird **eingeräumt**, weil er zutrifft.
+
+---
+
+## #6286 — debgould57@me.com — vierter Kontakt, ACCC bereits eingeschaltet
+
+**Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
+`Re: Order #6286 Destroyed toys`.
+**Vierter Kontakt, zweite identische Absage. Kein drittes Mal.**
+
+> Dear Deborah,
+>
+> You have now had the same answer twice, and the second time it was sent after
+> you had already explained why the first one did not address what you bought
+> on. I am not going to send it a third time.
+>
+> Your point is that you bought because of the 30-day money-back guarantee and
+> that what the guarantee actually covers is not set out where a customer can
+> see it before buying. I am not going to argue with that, and I am not in a
+> position to tell you it will be changed — that is the owner's decision, not
+> mine, and you would be right to distrust a promise from me about it.
+>
+> What I have done is put your emails, in full, in front of the owner of the
+> business, together with the fact that you are one of several people this week
+> asking for the same thing: that the wording be made accurate.
+>
+> You will get an answer from someone who can actually give you one.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** Weitergabe an den Owner und eine Antwort von dort. **Keine
+Erstattungszusage, keine Zusage zur Änderung der Garantie oder der Werbung.**
+Die ACCC wird **nicht** angesprochen — sie hat sie im Thread nicht erwähnt, und
+der Bot bringt ein laufendes Behördenverfahren nicht von sich aus auf.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
