@@ -1308,6 +1308,45 @@ Fall beurteilt wird.**
 
 ---
 
+## #6781 — carliebanfield1975@gmail.com — „Not what you say in your adverts!"
+
+**Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
+`Re: Not what you say in your adverts!`.
+**Sie fragt nach dem Rücksendeverfahren. Es gibt keins — das muss drinstehen,
+und es darf keine Adresse erfunden werden.**
+
+> Dear Carlie,
+>
+> Thank you for both photos. Twenty minutes, and then a few minutes more — that
+> is clear enough without me asking you for anything further.
+>
+> You asked about our refund process, and I would rather give you an awkward
+> honest answer than a tidy one. I do not have a returns address to give you. We
+> do not currently have one on file, and I am not going to invent one and have
+> your parcel go nowhere. You are the third person this week to ask me how to
+> send something back, so this is not about your order in particular — it is
+> something the business has to fix, and I have said so.
+>
+> On what you quoted: you are pointing at the words "durable and long lasting".
+> Whether the product matched them is not something I can settle with a policy
+> line, and I am not going to try. Order #6781 and both of your photos have gone
+> to the owner of the business this afternoon.
+>
+> One question, because I would rather ask than assume: your order was for two
+> toys, a pig and a duck, and you have written about one. Is the second still
+> unused and in its packaging? If it is, that is a separate case from the
+> chewed one and it matters for the refund.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage und keine Ablehnung, kein Betrag,
+keine Frist, **keine Rücksendeadresse** — das Fehlen wird ausdrücklich
+eingeräumt. Zugesagt sind Weitergabe und eine Antwort vom Owner. Die Rückfrage
+zum zweiten Teil entscheidet über Regel 2.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

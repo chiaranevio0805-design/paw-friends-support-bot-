@@ -664,3 +664,87 @@ Volltext in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#7165**.
 **Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, kein Anteil
 geschätzt, keine Rücksendeadresse genannt (es gibt keine), nicht angenommen,
 dass das zweite Teil unbenutzt ist, kein Label gesetzt.
+
+---
+
+## Lauf 14:20 UTC — 🚩 #6781 Carlie Terry: „Not what you say in your adverts!"
+
+**Neu seit 13:20:** zwei Mails derselben Kundin, **13:21** und **13:29**, beide
+mit Foto.
+
+**Betreff: „Not what you say in your adverts!"** — der Werbevorwurf steht in der
+Betreffzeile.
+
+**13:21** (`1000111046.jpg`):
+
+> „I have just received my order and my dog **has not had it 20 minutes** and
+> has already started to destroy it, it certainly **isn't as durable and long
+> lasting as you state**! Please see picture attached after 20 mins of having
+> his new toy! **Total waste of money.** Please advise on your **refund
+> process** please."
+
+**13:29**, acht Minuten später, zweites Foto:
+
+> „And a few minutes later......**this!** Clearly not durable and long lasting!!"
+
+**Shopify:** #6781, bestellt **20.08. 05:24**, **29,95 £**, `PAID` /
+`FULFILLED`, Tag `Kaching Bundles`, **2 × Plushie** (pig, Duck), versandt
+**02.09. 10:31** ab Kirchstr. 2, Yanwen Special Line `UL476290860YP`,
+Gillingham, England. **Dreizehn Tage** bis zum Versand.
+
+### Drei Punkte
+
+**1. Eine weitere Wortlaut-Variante.** Sie zitiert „**durable and long
+lasting**" als das, was „you state". Das ist eine Formulierung, die in keinem
+bisherigen Fall vorkam. Die Liste der bestrittenen shopseitigen Wortlaute steht
+damit bei:
+
+| Wortlaut | zuerst zitiert von |
+|---|---|
+| „indestructible" | zahlreich, seit 13.08. |
+| „Designed for Furry Friends Who Destroy Everything" (Artikelname) | #5829, #8343 |
+| „reinforced rope structure, double stitching, anti-tear design" | #5829, #6877 |
+| „indestructible **or you get a refund**" | #7060 (11.09.) |
+| „**replace it free**" | #5851 (11.09.) |
+| „better than everyone elses", „will out last any dog" | #4745 (heute) |
+| „**durable and long lasting**" | **#6781 (heute)** |
+
+**Keiner dieser Wortlaute ist vom Bot geprüft worden.** Er liest keine
+Anzeigentexte und keine Produktseite. Festgehalten ist nur, **was Kunden
+zitieren** — und dass es inzwischen sieben verschiedene Formulierungen sind.
+
+**2. Sie fragt nach dem Verfahren, nicht nach einer Zusage.** „Please advise on
+your refund process" — das ist dieselbe Frage wie bei **#5973 Stephen Cooil**
+(„How do I go about this?") und **#5186 John Abbott** („How do I return
+these?"). **Alle drei sind unbeantwortbar, solange es keine Rücksendeadresse
+gibt** — offener Blocker seit dem 13.08., heute **dreissig Tage**.
+
+**3. Zweites Teil ungeklärt.** Bestellt sind **zwei** Plüschtiere, sie schreibt
+von „**his new toy**" im Singular. Ob das zweite unbenutzt ist, sagt sie nicht —
+**wird gefragt, nicht angenommen.** Derselbe offene Punkt wie bei **#7165 Andrea
+Dentel** vor einer Stunde.
+
+### Beide Fälle von heute Mittag gehören zusammen
+
+**#7165 Andrea Dentel (12:22)** und **#6781 Carlie Terry (13:21)**: beide
+Bestellungen aus dem Versandstapel vom **02.09.**, beide diese Woche zugestellt,
+beide melden **zwanzig Minuten**, beide bestellten **zwei** Teile und schreiben
+über **eines**. Sie wissen nichts voneinander.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage, ausdrücklich im Betreff und im
+Text mit Wortlaut; zwei Fotobelege binnen acht Minuten.
+
+**Nicht auf der Erstattungsliste** — das zerstörte Teil ist Kauschaden. **Der
+Anteil für ein etwaiges unbenutztes zweites Teil erst nach ihrer Antwort**, und
+dann im Admin zu bestimmen (Kaching-Bundle: 2 × 29,95 £ Listenpreis gegen
+29,95 £ gezahlt).
+
+### Entwurf
+
+Volltext in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#6781**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, kein
+Rücksendeverfahren beschrieben (es gibt keins), keine Rücksendeadresse erfunden,
+kein Anteil geschätzt, kein Anzeigentext geprüft oder behauptet, kein Label
+gesetzt.
