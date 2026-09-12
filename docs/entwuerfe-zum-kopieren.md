@@ -978,6 +978,115 @@ Letzteres ist Regel 3 und damit bereits geltende Policy, keine neue Zusage.
 
 ---
 
+## #6882 — chris@htconcepts.com.au — „15 mins… gutted. Please explain"
+
+**Neu geschrieben am 12.09., nie als Gmail-Entwurf vorhanden.** Antwort im
+bestehenden Thread, Betreff `Re: WTF`.
+**Er verlangt eine Erklärung, keine Erstattung. Der Text darf ihm keine
+Erstattungsabsage erteilen, um die er nicht gebeten hat.**
+
+> Dear Chris,
+>
+> You asked me to explain, so I will not send you a policy paragraph instead.
+>
+> The honest answer is that I cannot explain it. The product is sold under a
+> name that says it is built for dogs that destroy things, and yours lasted
+> fifteen minutes with a Jack Russell. I am not going to tell you that is normal
+> wear, and I am not going to tell you your dog is unusually strong. You are not
+> the first person to write to us about this.
+>
+> Because I cannot answer it, I have put order #6882 and your photo in front of
+> the owner of the business, along with your question in your own words. That is
+> where an explanation has to come from, not from here.
+>
+> One thing worth asking, and I would rather ask than assume: you said the toy
+> was gutted, so the stuffing is out. If there is any chance your dog swallowed
+> any of it, keep an eye out for vomiting or retching, going off his food,
+> straining, or looking hunched or uncomfortable, and call your vet if you see
+> any of that. Probably nothing — but I would rather mention it than not.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage, kein Betrag, keine Frist.
+Zugesagt sind die Vorlage beim Owner und eine Erklärung von dort. Die
+**58,56 AUD** aus seiner Bestellbestätigung werden nicht aufgegriffen; Shopify
+führt 30,66 £, und die Differenz ist nicht Sache des Supports.
+
+---
+
+## #5407 — nicolettedawn@msn.com — dreissig Tage unterwegs
+
+**Neu geschrieben am 12.09., nie als Gmail-Entwurf vorhanden.** Antwort im
+bestehenden Thread, Betreff `Re: A shipment from order #5407 is on the way`.
+**Die 7–21-Tage-Formel ist hier um neun Tage überschritten und darf unter
+keinen Umständen im Text stehen.**
+
+> Dear Nicolette,
+>
+> Thank you for writing, and I am sorry you have had to.
+>
+> Here is where it actually stands. You ordered on 10 August and the parcel was
+> handed to Yanwen on 13 August under tracking number UL418684575YP, which you
+> can check at https://t.17track.net/en#nums=UL418684575YP. That is thirty days
+> ago.
+>
+> I am not going to tell you it is on its way and ask you to keep waiting.
+> Thirty days is well past anything we could reasonably call in transit, and at
+> this point the likeliest explanation is that the parcel is not going to
+> arrive. I would rather say that plainly than send you another holding message.
+>
+> What happens next is not mine to decide, so I am not going to promise you a
+> refund or a replacement in this email and risk it being contradicted. Your
+> order has gone to the owner of the business this morning, with the dates
+> above and with a note that this is the longest outstanding delivery we have.
+> You will get a decision rather than another update.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage, kein Ersatz zugesagt, keine
+Frist. Zugesagt sind die Vorlage beim Owner und eine **Entscheidung** statt
+eines weiteren Sachstands. **Keine 7–21-Tage-Formel**, kein Verweis an den
+Zusteller.
+
+---
+
+## #7699 — lorraine.sale1@hotmail.co.uk — eigene Frist 17.09.
+
+**Neu geschrieben am 12.09., nie als Gmail-Entwurf vorhanden.** Antwort im
+bestehenden Thread, Betreff `Re: A shipment from order #7699 is on the way`.
+
+> Dear Mrs Sale,
+>
+> Here are the details rather than a range.
+>
+> Your order was dispatched on 3 September with Yanwen Special Line, tracking
+> number UL478625416YP, and you can follow it at
+> https://t.17track.net/en#nums=UL478625416YP.
+>
+> The part I will not dress up: you ordered on 25 August and it was nine days
+> before the parcel was handed over. That wait was ours, not the courier's, and
+> nobody told you it was happening.
+>
+> On the 17th of September and the refund: I have passed that to the owner of
+> the business today rather than answering it myself, because a yes from me that
+> someone else reverses would be worse than no answer at all. Your date is noted
+> and it has not been ignored.
+>
+> I am not going to give you a delivery date. If the tracking has not moved by
+> the time your date comes round, write to me and I will chase the carrier
+> rather than send you an estimate.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** die Sendungsnummer, die Weitergabe an den Owner und
+Nachfassen beim Zusteller. **Keine Erstattungszusage zum 17.09.** — ausdrücklich
+als Owner-Entscheidung benannt. Kein Zustelltermin, keine 7–21-Tage-Formel.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

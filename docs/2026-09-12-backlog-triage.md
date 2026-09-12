@@ -173,3 +173,128 @@ Kein Gmail-Entwurf angelegt — `create_draft` bricht seit dem 21.08. ab.
 **Nicht getan:** keine Strassenadresse nachgefordert, kein Versanddatum
 zugesagt, keine Erstattung zugesagt, die leere Antwort nicht gedeutet, kein
 Label gesetzt.
+
+---
+
+## Läufe 08:20 und 09:20 UTC — drei neue Fälle, und der Tagesreport
+
+### 🔴 `create_draft` erneut gescheitert — Versuch Nr. 21
+
+Der Tagesreport-Auftrag verlangt ausdrücklich einen Gmail-Entwurf an
+`nevio.marasa@icloud.com`. Es wurde **ein** Versuch unternommen: das Schema lud,
+danach wurde der Worker-Prozess neu gestartet — dasselbe Muster wie an jedem Tag
+seit dem **21.08.** Der Entwurf existiert **nicht**.
+
+**Der Tagesreport liegt stattdessen vollständig in
+`docs/2026-09-12-tagesreport.md`** und ist gepusht. Er wurde **vor** dem
+Entwurfsversuch geschrieben und committet, genau deshalb ist er nicht
+verlorengegangen.
+
+---
+
+### 🚩 #6882 Chris Cobb — „15 mins and my Jack Russell gutted the first one"
+
+**Zwei Mails, 08:56 und 09:00.**
+
+**08:56**, Betreff „WTF":
+
+> „Received this arv. **15 mins** and my Jack Russell **gutted** the first one.
+> Lucky I didn't give it to the Staffys. I have bought **shit from discount
+> stores that last longer**. **Please explain**."
+
+**09:00:** ein Foto (`Image.jpeg`) plus die weitergeleitete
+Bestellbestätigung. **Kein weiterer eigener Text.**
+
+**Shopify:** #6882, bestellt **20.08. 22:10**, **30,66 £**, `PAID` /
+`FULFILLED`, Tag `Kaching Bundles`, 2 × Plushie (monkey, elephant), versandt
+**02.09. 10:37** ab Kirchstr. 2, Yanwen Special Line `UL476302497YP`, Tewantin,
+Queensland. **Dreizehn Tage** bis zum Versand.
+
+**Währungsdifferenz:** Die Bestellbestätigung weist **58,56 AUD** aus, Shopify
+führt **30,66 £**. Wie bei #7179 (48 USD / 35,64 £) wird das **nicht
+überbrückt** — der Betrag gehört dem Owner vorgelegt.
+
+**Was er verlangt, ist keine Erstattung, sondern eine Erklärung.** „Please
+explain" ist die ganze Forderung. Er bestreitet damit die Grundannahme des
+Produkts, unter dessen Namen er es gekauft hat.
+
+**„Gutted"** heisst, die Füllung liegt offen. Er schreibt **nicht**, dass der
+Hund etwas gefressen hat — **das wird hier nicht hineingelesen.** Die Frage
+gehört aber in die Antwort, so wie bei #7179.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Produktzusage mit Fotobeleg und ausdrücklicher
+Erklärungsforderung.
+**Nicht auf der Erstattungsliste** — Kauschaden, kein Regelfall, keine
+Erstattungsforderung.
+
+---
+
+### 🚩 #5407 Nicolette Kirkwood — dreissig Tage unterwegs
+
+**08:57:**
+
+> „I ordered these 2 toys **in good faith** on the 13th of August and they have
+> **never arrived**. Please can you look into this and provide an update."
+
+**Shopify:** #5407, bestellt **10.08. 08:11**, **27,95 £**, `PAID` /
+`FULFILLED`, Tag `Kaching Bundles`, 2 × Paw-Friends™-Fluffys (frog, giraffe),
+versandt **13.08. 10:44** ab Kirchstr. 2, Yanwen Special Line `UL418684575YP`,
+Prestwick, Schottland.
+
+**Das ist der längste Nichtzustellungsfall im Projekt.**
+
+- Versandt am **13.08.** — heute sind das **dreissig Tage**.
+- **Und der Versand war schnell:** drei Tage nach der Bestellung. Die gesamte
+  Verzögerung liegt **im Transport**, nicht im Lager.
+- Ihre Datumsangabe „13th of August" bezieht sich auf die
+  **Versandbenachrichtigung**, nicht auf die Bestellung (10.08.). Kein
+  Widerspruch.
+
+**Die 7–21-Tage-Formel ist hier um neun Tage überschritten** — in jeder
+Lesart, ab Bestellung wie ab Versand. **Sie darf ihr auf keinen Fall geschickt
+werden.**
+
+→ `Bot/Needs Approval`. Sie verlangt einen Sachstand, keine Erstattung. Nach
+dreissig Tagen ist ein Sachstand aber keine ehrliche Antwort mehr: die Sendung
+ist mit hoher Wahrscheinlichkeit nicht mehr unterwegs. **Ob Ersatz oder
+Erstattung angeboten wird, ist Owner-Entscheidung** — kein Regelfall, der Bot
+sagt nichts zu.
+
+---
+
+### #7699 Lorraine Sale — eigene Frist, 17.09.
+
+**08:13:**
+
+> „Can you please advise **where the items I ordered from yourselves are**! I
+> feel this is quite an **excessive time** now to be waiting. **If they are not
+> here by 17th September I want a full refund.**"
+
+**Shopify:** #7699, bestellt **25.08. 07:13**, **27,95 £**, `PAID` /
+`FULFILLED`, Tag `Kaching Bundles`, 2 × Plushie (frog, Duck), versandt
+**03.09. 07:44** ab Kirchstr. 2, Yanwen Special Line `UL478625416YP`, Leicester,
+England. **Neun Tage** bis zum Versand.
+
+**Zehnter Kunde aus dem Versandstapel vom 03.09.** — nach #7568, #7525, #7547,
+#7383, #7899 und den übrigen.
+
+**Sie setzt selbst eine Frist: 17.09.** Das ist die zweite selbstgesetzte Frist
+binnen zwei Tagen (nach #7190 Steve Solley, 48 Stunden ab gestern 19:32).
+
+→ `Bot/Needs Approval`. Sagbar: Versanddatum, Zusteller, Nummer, Trackinglink,
+und offen, dass neun Tage bis zum Versand vergingen. **Die Erstattungszusage für
+den 17.09. ist Owner-Entscheidung** — kein Regelfall, die Ware ist versandt.
+**Nicht sagbar:** ein Zustelltermin, und **nicht** die 7–21-Tage-Formel.
+
+---
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#6882**, **#5407**
+und **#7699**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, keine Frist
+akzeptiert, keine 7–21-Tage-Formel, keine Zustellprognose, keine
+Währungsdifferenz überbrückt, kein Verschlucken hineingelesen, kein Label
+gesetzt.
