@@ -1347,6 +1347,72 @@ zum zweiten Teil entscheidet über Regel 2.
 
 ---
 
+## #7246 — arabrabtnarg@gmail.com — „How do i get refunded?"
+
+**Neu geschrieben am 12.09.** Antwort im bestehenden Thread.
+**Sie fragt nach dem Verfahren. Es gibt keins — das wird eingeräumt, nicht
+umschifft.**
+
+> Dear Barbara,
+>
+> Ten minutes, and you have the photo to show it. I am not going to ask you for
+> anything more than that.
+>
+> You asked how you get refunded, and the honest answer is more awkward than it
+> should be: I do not have a returns address to give you. We do not currently
+> have one on file, and I would rather tell you that than send you off to post a
+> parcel somewhere that does not exist. You are the fourth person this week to
+> ask me that same question, so it is not about your order — it is something the
+> business needs to sort out, and I have put it that way.
+>
+> On the claim itself: you bought these on the basis that your dog would not
+> destroy them. Whether that claim holds is not something I can settle from a
+> support desk, and I am not going to talk you out of raising it. Order #7246
+> and your photo have gone to the owner of the business this afternoon, and you
+> will get a direct answer on the refund.
+>
+> One question rather than an assumption: you wrote about both plushies. Is
+> either of them still unused and in its packaging? If one is, that is a
+> different case from the chewed one and it changes how the refund is handled.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage und keine Ablehnung, kein Betrag,
+keine Frist, **keine Rücksendeadresse** — das Fehlen wird ausdrücklich
+eingeräumt. Zugesagt sind Weitergabe und eine direkte Antwort.
+
+---
+
+## #8359 — gary.lisacooper@gmail.com — „Have not received my order"
+
+**Neu geschrieben am 12.09.** Antwort im bestehenden Thread.
+**⚠️ Die Bestellung läuft auf Norma Vickroy, geschrieben hat eine andere
+Adresse. Der Text enthält deshalb bewusst KEINE namentliche Anrede — vor dem
+Senden im Admin klären.**
+
+> Hello,
+>
+> Thank you for writing — here is where order #8359 actually is.
+>
+> It was placed on 7 September and dispatched the next day, 8 September, with RD
+> Express under tracking number RD1026898162HM. You can follow it at
+> https://t.17track.net/en#nums=RD1026898162HM.
+>
+> So it has been with the carrier for four days. I am not going to give you a
+> delivery date, because I would be guessing, and I would rather you had the
+> tracking number than a number I made up. If the tracking stops moving, write
+> back and I will chase RD Express rather than send you an estimate.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** beim Zusteller nachfassen, wenn erneut geschrieben wird.
+Kein Zustelltermin, **keine 7–21-Tage-Formel**, keine Erstattung, kein Verweis
+an den Zusteller, **keine Anrede mit einem ungeklärten Namen**.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

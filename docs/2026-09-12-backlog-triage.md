@@ -748,3 +748,79 @@ Volltext in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#6781**.
 Rücksendeverfahren beschrieben (es gibt keins), keine Rücksendeadresse erfunden,
 kein Anteil geschätzt, kein Anzeigentext geprüft oder behauptet, kein Label
 gesetzt.
+
+---
+
+## Lauf 15:20 UTC — #7246 und #8359
+
+### 🚩 #7246 Barbara Crouch — „How do i get refunded?"
+
+**14:41**, mit Foto:
+
+> „Very disappointed in **the claim that my dog wont destroy these plushies**.
+> This was **10 minutes** of play time. **How do i get refunded?**"
+
+**Shopify:** #7246, bestellt **22.08. 20:52**, **28,50 £**, `PAID` /
+`FULFILLED`, Tag `Kaching Bundles`, **2 × Plushie** (hippo, elephant), versandt
+**02.09. 10:56** ab Kirchstr. 2, **4px US `4PX3003122373561CN`**, Clarksville,
+Tennessee. **Elf Tage** bis zum Versand.
+
+**Sie ist die vierte Kundin an diesem Tag, die nach dem Verfahren fragt** — nach
+**#5973** („How do I go about this?"), **#5186** („How do I return these?") und
+**#6781** („Please advise on your refund process"). **Alle vier Fragen sind
+unbeantwortbar**, weil es keine Rücksendeadresse gibt. Der Blocker ist heute
+**dreissig Tage** alt.
+
+**Achter bestrittener Wortlaut:** „the claim that my dog **wont destroy** these
+plushies". Ungeprüft wie die übrigen sieben.
+
+**Zehn Minuten** ist die zweitkürzeste gemeldete Nutzungsdauer — kürzer war nur
+**#7383 JoAnn Jinks** mit fünf Minuten (heute Nacht).
+
+**Sie schreibt „these plushies" im Plural** — anders als #7165 und #6781 deutet
+das darauf hin, dass **beide** Teile benutzt wurden. **Sicher ist es nicht**, und
+es wird nicht angenommen; die Rückfrage steht im Entwurf.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage mit Fotobeleg.
+**Nicht auf der Erstattungsliste** — Kauschaden.
+
+---
+
+### #8359 — Lieferanfrage, und der Gegenbeleg zum Versandproblem
+
+**14:56**, vollständiger Text: „**Have not received my order**"
+
+**Shopify:** #8359, bestellt **07.09. 04:35**, **44,06 £**, `PAID` /
+`FULFILLED`, Tags `Kaching Bundles`, `UpCart Rewards`, drei Positionen
+(1 × Zahnbuddy „Blue Mop Plush Dog", **2 × Plushie donkey**), versandt
+**08.09. 07:50** ab Kirchstr. 2, **RD Express `RD1026898162HM`**, Morning Sun,
+Iowa.
+
+**⚠️ Namensabweichung:** Die Bestellung läuft auf **Norma Vickroy**, geschrieben
+hat `gary.lisacooper@gmail.com`. **Der Bot rät keinen Vornamen** und redet die
+Person im Entwurf nicht mit einem Namen an, den er nicht belegen kann. Vor dem
+Senden im Admin klären, wer Ansprechpartner ist.
+
+**Der Befund zur Versanddauer:** **ein Tag** zwischen Bestellung und Versand.
+Zusammen mit **#8344** (zwei Tage, 10.09.) und **#8343** (drei Tage, gestern) ist
+das der dritte Beleg: **die Versandverzögerung ist für Septemberbestellungen
+weg.** Zum Vergleich dieselbe Woche: #6781 dreizehn Tage, #7246 elf Tage, #4726
+sechzehn Tage — alles Augustbestellungen.
+
+**Ihre Erwartung ist damit aber nicht erfüllt:** die Ware ist seit vier Tagen
+unterwegs. Ein Zustelltermin wird **nicht** genannt, und die 7–21-Tage-Formel
+**nicht** verwendet.
+
+→ `Bot/Draft Ready`. Kein Eskalationstrigger: Erstkontakt, keine Forderung,
+keine Werbeaussage, keine Frist.
+**Nicht auf der Erstattungsliste** — Ware unterwegs, keine Forderung.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#7246** und
+**#8359**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, kein
+Rücksendeverfahren beschrieben, keine Adresse erfunden, kein Vorname geraten,
+keine Zustellprognose, keine 7–21-Tage-Formel, kein Label gesetzt.
