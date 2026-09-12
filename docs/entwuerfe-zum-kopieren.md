@@ -1087,6 +1087,52 @@ als Owner-Entscheidung benannt. Kein Zustelltermin, keine 7–21-Tage-Formel.
 
 ---
 
+## #4726 — maz.penniall@gmail.com — „not as described, promised or advertised"
+
+**Neu geschrieben am 12.09., nie als Gmail-Entwurf vorhanden.** Antwort im
+bestehenden Thread, Betreff `Re: 4726 order`.
+**Vor dem Senden im Admin prüfen, welche der vier Positionen tatsächlich
+versandt wurden — die Bestellung ist `PARTIALLY_FULFILLED`.**
+
+> Dear Marilyn,
+>
+> You are right that the reply you got on 4 September did not answer you, and I
+> would rather say why than send you a third version of it.
+>
+> That message told you no plush toy can be guaranteed to be completely
+> indestructible. Whatever else is true, that sits badly next to the way the
+> product is named and sold, and you are entitled to point at the gap. You have
+> asked for a refund on the basis that the toys are not as described. That is a
+> fair way to put it and it is not something I am going to argue you out of.
+>
+> It is also not something I can decide. I am not going to refuse you, and I am
+> not going to approve a refund here and have it reversed over your head. Order
+> #4726, your photo and your own words have gone to the owner of the business
+> this morning.
+>
+> Two other things you should have been told already. Your order was placed on
+> 6 August and the first parcel was not handed over until 22 August — sixteen
+> days, on our side, unexplained. And when you asked on 25 August where it was,
+> the reply did not include your tracking number, which was UL442894597YP and
+> had existed for four days by then. You can check it at
+> https://t.17track.net/en#nums=UL442894597YP.
+>
+> I am also checking whether everything you paid for was actually sent, because
+> our records do not show the order as fully dispatched. If something is
+> missing, that is a separate matter from the refund and I will come back to you
+> on it.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage und **keine Ablehnung**; die
+Entscheidung wird ausdrücklich dem Owner zugeordnet. Zugesagt sind die Vorlage
+beim Owner und eine **Rückmeldung zum Lieferumfang**. Diese zweite Zusage muss
+eingelöst werden — sie setzt eine Prüfung im Admin voraus. Keine
+Rücksendeadresse, keine Frist, keine 7–21-Tage-Formel.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

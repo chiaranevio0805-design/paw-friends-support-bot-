@@ -298,3 +298,87 @@ und **#7699**.
 akzeptiert, keine 7–21-Tage-Formel, keine Zustellprognose, keine
 Währungsdifferenz überbrückt, kein Verschlucken hineingelesen, kein Label
 gesetzt.
+
+---
+
+## Lauf 10:20 UTC — 🚩 #4726 Marilyn Penniall, und eine zweite Vorlage, die bisher in keinem Log steht
+
+**Neu seit 09:20:** eine Mail, **09:46**, mit Foto (`1000013047.jpg`):
+
+> „Thank you for the response however **I am not happy with the reply** & **you
+> offer a money back guarantee**. I would like to have a **full refund** as they
+> are **absolutely not as described, promised or advertised**."
+
+**Shopify:** #4726, bestellt **06.08. 11:01**, **34,95 £**, `PAID` /
+**`PARTIALLY_FULFILLED`**, Tag `Kaching Bundles`, vier Positionen (3 × Plushie —
+monkey, fox, elephant — plus E-Book). **Eine einzige Sendung am 22.08.
+10:30**, Yanwen Special Line `UL442894597YP`, Northampton, England.
+**Sechzehn Tage** bis zum Versand.
+
+### 🔎 Eine zweite Vorlage — und sie widerspricht der eigenen Werbung
+
+Am **04.09. 09:26** bekam sie **nicht** die Kauschaden-Absage, sondern einen
+anderen Text. Der Kern, wörtlich:
+
+> „While our toys are **designed with durability in mind**, **no plush toy can
+> be guaranteed to be completely indestructible**, particularly for dogs who are
+> strong or persistent chewers."
+
+**Das ist der Shop selbst, schriftlich, gegenüber einer Kundin.** Es ist damit
+eine shopseitige Aussage, die genau das einräumt, was seit dem 13.08. rund
+siebzig Kunden bestreiten — und sie steht im Widerspruch zu dem Produktnamen,
+unter dem verkauft wird, und zu der gestern zweimal zitierten Anzeigenzusage
+(#7060 „or you get a refund", #5851 „replace it free").
+
+**Diese Vorlage steht in keinem bisherigen Log.** Bis heute war nur die
+Kauschaden-Absage bekannt. **Es sind also mindestens zwei verschiedene
+Standardtexte im Umlauf, die sich gegenseitig untergraben:** der eine lehnt mit
+Verweis auf die Garantiebedingungen ab, der andere räumt ein, dass die
+beworbene Eigenschaft nicht zugesichert werden kann.
+
+→ **Owner-Prüfung: welche Standardtexte existieren und wer sie verschickt.**
+Der Bot hat den Postausgang **nicht** systematisch durchsucht — dieselbe Lücke,
+die gestern den Vorfall bei #6116 zwei Tage lang verdeckt hat.
+
+### Der Verlauf
+
+| Datum | Vorgang |
+|---|---|
+| 06.08. | Bestellung, 34,95 £ |
+| **22.08.** | eine Sendung raus — **16 Tage** später |
+| 25.08. 08:34 | „Please advise on when I will receive my order" |
+| 26.08. 17:50 | „has been shipped… progressing through the delivery network" — **ohne Sendungsnummer** |
+| 02.09. 14:51 | „I purchased this on the understanding **from your advert** that it was a tuff toy… feel **ripped off & scammed**" |
+| **04.09. 09:26** | die zweite Vorlage (s. o.) |
+| **12.09. 09:46** | **dritter Kontakt**, Foto, ausdrückliche Berufung auf die Geld-zurück-Garantie |
+
+**Auch hier wurde eine vorhandene Sendungsnummer nicht genannt** —
+`UL442894597YP` lag seit dem 22.08. vor. **Vierter solcher Fall** in zwei Tagen
+(nach #7525, #7547, #7190).
+
+### Offene Frage zum Lieferumfang
+
+Die Bestellung ist bis heute **`PARTIALLY_FULFILLED`**: vier Positionen, eine
+Sendung. Sie schrieb am 02.09. „Thank you for delivering my order", hat also
+etwas erhalten. **Welche Positionen versandt wurden und welche nicht, ist aus
+den vorliegenden Daten nicht ableitbar** — das ist im Admin zu prüfen, bevor ihr
+geantwortet wird. Der Bot behauptet dazu nichts.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage („not as described, promised or
+advertised"), ausdrückliche Berufung auf die Geld-zurück-Garantie, dritter
+Kontakt ohne Lösung, Betrugsvorwurf („ripped off & scammed"), dazu eine
+unvollständig ausgelieferte Bestellung.
+
+**Nicht auf der Erstattungsliste.** Kauschaden ist kein Regelfall, und für
+Regel 2 wären die Teile unbenutzt — das sind sie nicht. **Die Frage, ob die
+Ware „as described" war, ist Owner- und ggf. Rechtssache**, ebenso die nicht
+ausgelieferten Positionen. Der Bot sagt nichts zu und lehnt nichts ab.
+
+### Entwurf
+
+Volltext in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#4726**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt oder
+abgelehnt, keine Aussage zum Lieferumfang, keine Zustellprognose, keine
+7–21-Tage-Formel, kein Label gesetzt.
