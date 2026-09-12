@@ -1155,3 +1155,94 @@ und **#6528**.
 **Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, **kein
 Prozentsatz vorgeschlagen**, keine Rücksendeadresse erfunden, keine Aussage zu
 grösseren Varianten (nicht geprüft), kein Anteil geschätzt, kein Label gesetzt.
+
+---
+
+## Lauf 19:20 UTC — #6420 und #5032
+
+### 🚩 #6420 Keith Grice — als zugestellt gescannt, nie erhalten
+
+**19:16**:
+
+> „I am requiring about order number #6420. I went on the site to find out if
+> there was an update on the package. **I didn't know there was a third party
+> delivery service.** When I clicked on the tracking, it states it was
+> **delivered on August 25th in a locker**. **I received no information that I
+> had a package and I have not received the item.** I tried to go to the third
+> party site but **it is not opening up for me**. I was hoping you can help me."
+
+**Shopify:** #6420, bestellt **16.08. 21:24**, **30,54 £**, `PAID` /
+`FULFILLED`, Tag `Kaching Bundles`, 2 × Plushie (donkey, monkey), versandt
+**18.08. 07:45** ab Kirchstr. 2, **JQ Express US `JCHSG0000004217579`**,
+Orlando, Florida.
+
+**Das ist eine Fallart, die im Log bisher nicht vorkam.** Keine Verzögerung,
+kein Kauschaden: die Ware ist **als zugestellt gescannt** — am **25.08. in
+einen Paketkasten** — und der Kunde hat sie nie bekommen und nie eine
+Benachrichtigung erhalten. **Achtundzwanzig Tage** liegen zwischen dem
+Zustellscan und seiner Mail.
+
+**Drei Dinge, die er sagt und die stimmen:**
+
+1. Er wusste nichts von einem Drittzusteller. In der Bestellbestätigung steht
+   „Standard"; der Zusteller taucht erst in der Versandmail auf.
+2. Die Trackingseite öffnet bei ihm nicht.
+3. Eine Zustellbenachrichtigung hat er nicht erhalten.
+
+**Nach `support-policy.md` darf er nicht an den Zusteller verwiesen werden.**
+Das ist hier besonders wichtig: er hat es bereits selbst versucht und kommt
+nicht durch.
+
+**Nebenbefund zur Versanddauer:** **zwei Tage** von der Bestellung bis zum
+Versand — bei einer Bestellung vom **16.08.** Die Verzögerung im August war
+also **nicht durchgängig**: #4726 sechzehn Tage, #4745 sechzehn Tage, #5032
+siebzehn Tage, aber #6420 zwei Tage. **Die bisherige Formulierung „die
+Verzögerung betraf die Augustbestellungen" ist zu grob** — sie traf einen Teil
+von ihnen.
+
+→ `Bot/Needs Approval`. **Kein Regelfall** — nicht defekt, nicht unbenutzt
+zurückgegeben, nicht vor Versand storniert. **Ob Ersatz oder Erstattung, ist
+Owner-Entscheidung.** Was der Bot tun kann: die Nummer und den Trackinglink
+nennen, den Sachverhalt festhalten und **nicht** an JQ Express verweisen.
+
+**Nicht auf der Erstattungsliste** — kein Regelfall.
+
+---
+
+### #5032 Adam Murgatroyd — alle drei, eine Stunde, keine Forderung
+
+**18:38**, mit Fotos:
+
+> „**All of these toys** have been destroyed **within 1 hour** of giving them to
+> our dog. **He loves them** but they simply **aren't suitable for him**. Really
+> disappointed with them and **won't order again**."
+
+**Shopify:** #5032, bestellt **08.08. 06:24**, **42,90 £**, `PAID` /
+`FULFILLED`, Tags `Kaching Bundles`, `UpCart Rewards`, drei Positionen
+(Zahnbuddy „Blue Mop Plush Dog", Plushie frog, Plushie pig), versandt
+**25.08. 01:41** ab Kirchstr. 2, Yanwen Special Line `UL451107611YP`, West
+Kilbride, Schottland. **Siebzehn Tage** bis zum Versand.
+
+**Er verlangt nichts.** Kein Geld, kein Ersatz, keine Rücksendung, kein Zitat
+aus der Werbung. **Fünfter Fall an diesem Tag ohne jede Forderung** — nach
+#4939, #6936, #6891 und #6280.
+
+**Alle drei Teile sind zerstört** — es gibt **keinen Regel-2-Rest**.
+
+**„He loves them but they simply aren't suitable for him"** ist der freundlichste
+Satz im heutigen Postfach. **„Won't order again"** ist die Folge. Wie bei
+#7627 Charlotte Matthews heute Nachmittag: keine Eskalation, sondern ein
+Kunde, der aufhört.
+
+→ `Bot/Draft Ready`. Kein Eskalationstrigger: keine Forderung, kein
+Werbezitat, keine Drohung, keine Behörde, Erstkontakt.
+**Nicht auf der Erstattungsliste** — Kauschaden, keine Forderung.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#6420** und
+**#5032**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, **kein
+Verweis an den Zusteller**, keine Zustellprognose, keine Aussage darüber, wo
+das Paket ist, kein Label gesetzt.

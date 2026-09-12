@@ -1674,6 +1674,74 @@ offen benannt.
 
 ---
 
+## #6420 — firebc291@yahoo.com — als zugestellt gescannt, nie erhalten
+
+**Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
+`Re: Order #6420`.
+**Er darf NICHT an den Zusteller verwiesen werden — er hat es selbst versucht
+und kommt nicht durch.**
+
+> Dear Keith,
+>
+> Thank you for setting it out so clearly — that saves a lot of back and forth.
+>
+> What our records show: order #6420 was dispatched on 18 August with JQ Express
+> under tracking number JCHSG0000004217579. The tracking page is at
+> https://t.17track.net/en#nums=JCHSG0000004217579, which may or may not load
+> any better for you than the one you tried.
+>
+> What I am not going to do is tell you to take it up with the courier. You have
+> already tried that, and a parcel marked as delivered to a locker you were never
+> told about is not something you should have to chase on our behalf.
+>
+> So: I have no way of telling you today where that parcel actually is, and I am
+> not going to guess. What I have done is put your order in front of the owner of
+> the business this evening, with the delivery scan of 25 August, the fact that
+> you received no collection notice, and the fact that you never got the goods
+> you paid for. Whether that is replaced or refunded is a decision for them, and
+> you will get it directly rather than another tracking link.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** die Sendungsnummer und eine Entscheidung vom Owner zu
+Ersatz oder Erstattung. **Keine Erstattungszusage, kein Ersatz zugesagt, keine
+Aussage darüber, wo das Paket ist, kein Verweis an den Zusteller.**
+
+---
+
+## #5032 — acmurgatroyd1@gmail.com — alle drei, eine Stunde, keine Forderung
+
+**Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
+`Re: A shipment from order #5032 is on the way`.
+**Er fordert nichts. Keine Absage, kein Angebot, keine Garantiebedingungen.**
+
+> Dear Adam,
+>
+> Thank you for telling us, and for being fair about it — "he loves them but
+> they simply aren't suitable for him" is a kinder way to put it than we have
+> earned this week.
+>
+> You have not asked us for anything, so I am not going to reply with our
+> returns policy. All three inside an hour is worth someone here knowing about,
+> so I have passed your message and the photos to the owner of the business
+> rather than filing it as feedback.
+>
+> One thing I would rather say than leave out: you ordered on 8 August and the
+> parcel was not handed to the courier until 25 August. Seventeen days, before
+> the shipping itself even started, and nobody told you that was happening.
+> That part was ours.
+>
+> I am sorry this is where it ended up.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** ausschliesslich die Weitergabe. Keine Erstattungszusage,
+kein Ersatz, kein Angebot, keine Rücksendeadresse.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
