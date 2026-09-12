@@ -875,6 +875,67 @@ gerissen), keine Erstattung, kein Verweis an den Zusteller.
 
 ---
 
+## #7383 — jojinks12@icloud.com — „sold as indestructible"
+
+**Neu geschrieben am 12.09., nie als Gmail-Entwurf vorhanden.** Antwort im
+bestehenden Thread, Betreff `Re: Return`.
+
+> Dear JoAnn,
+>
+> Five minutes is five minutes, and you have described exactly what you were
+> sold and exactly what arrived. I am not going to open by quoting our returns
+> policy at you.
+>
+> What I can tell you honestly is this. Whether the toy matched the way it was
+> described to you is the question you are actually raising, and that is not
+> one I can settle from a support desk in either direction. I am not refusing
+> your refund and I am not going to approve it here and have it overturned.
+> Order #7383 has gone to the owner of the business tonight with what you wrote,
+> word for word.
+>
+> You will get a direct answer rather than a standard one.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage, kein Betrag, keine
+Rücksendeadresse, keine Frist. Zugesagt sind die Vorlage beim Owner und eine
+direkte Antwort.
+
+---
+
+## #6755 — rmattmurphy@gmail.com — Erstattungsforderung, kein Werbevorwurf
+
+**Neu geschrieben am 12.09., nie als Gmail-Entwurf vorhanden.** Antwort im
+bestehenden Thread, Betreff `Re: Refund request`.
+**Er hat keine Werbeaussage zitiert — dieser Text greift auch keine auf.**
+
+> Dear Matt,
+>
+> Thank you for sending the order details with your message; it saved me asking.
+>
+> On the wait: you ordered on 19 August and the parcel was not handed to the
+> courier until 2 September. Fourteen of those days were us, before the shipping
+> had even started, and nobody told you that was happening. That part I can
+> confirm rather than explain away.
+>
+> On the refund: you have asked for one directly, so I would rather be straight
+> than smooth. I am not in a position to approve it from this desk, and I am not
+> going to refuse it either. Order #6755 and your request have gone to the owner
+> of the business, with the dates above, and you will get a yes or a no rather
+> than a policy paragraph.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage — ausdrücklich als
+Owner-Entscheidung offengelassen. Kein Betrag, keine Rücksendeadresse, keine
+Frist. Die vierzehn Tage bis zum Versand werden **belegt benannt**; die Angabe
+„months" wird **nicht richtiggestellt** — sie ist für die Sache ohne Bedeutung
+und eine Korrektur würde nur den Ton verderben.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
