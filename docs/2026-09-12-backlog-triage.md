@@ -1246,3 +1246,202 @@ Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#6420** und
 **Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, **kein
 Verweis an den Zusteller**, keine Zustellprognose, keine Aussage darüber, wo
 das Paket ist, kein Label gesetzt.
+
+---
+
+## Lauf 22:20 UTC — 🚩🚩 #7292: die Garantiebedingung wird gegen die eigene Produktseite gehalten
+
+### Die Mail
+
+**22:15**, von `doulatracy@gmail.com` (tracy hartley), Antwort auf die
+Kauschaden-Absage vom **11.09. 10:05:57**:
+
+> „I have to admit that **I am confused by your explanation of the 30-day
+> money-back guarantee.**
+>
+> The product page for the Plushies specifically says that these toys are
+> designed for dogs who **'destroy everything,'** that they are designed to
+> handle **'everyday chewing, tugging, carrying, and play,'** and that they have
+> an **'anti-tear design built for strong chewers.'**
+>
+> It also says: **'A toy that lasts longer and stands up to everyday
+> adventures.'**
+>
+> The same product page explains the 30-Day Money-Back Guarantee this way:
+> **'If you're not completely satisfied for any reason, simply contact us within
+> 30 days of receiving your order and we'll work with you to find a solution.'**
+>
+> **I cannot find any statement on the product page saying that the 30-day
+> guarantee applies only if the toy is unused and undamaged.**
+>
+> …There would be **no practical way for me to discover whether the toy actually
+> lives up to your durability claims without allowing my dog to use it.**
+>
+> I also noticed that your product page specifically says: **'Remove the toy
+> immediately at the first signs of damage. Small parts may present a choking
+> hazard if swallowed.' That is exactly what I did.**
+>
+> So I am now being told that I cannot receive a refund because I used the toy,
+> **even though using the toy as advertised was the only reasonable way to
+> determine that it did not perform as advertised.**
+>
+> I am therefore asking you to **reconsider your decision and honor the 30-Day
+> Money-Back Guarantee**. I am happy to **return the damaged pig and the unused
+> duck** if you provide a return procedure and **prepaid return shipping**. I
+> would appreciate a full refund of my **$38.90**."
+
+---
+
+### 🔎 Was davon an den Shopify-Daten überprüft wurde
+
+**Zum ersten Mal in diesem Projekt ist ein Werbevorwurf an den eigenen
+Stammdaten geprüft worden.** Abgefragt wurde `descriptionHtml` des Produkts
+`gid://shopify/Product/16231842283869`.
+
+**Wörtlich bestätigt:**
+
+| Ihr Zitat | Fundstelle in der Produktbeschreibung |
+|---|---|
+| „anti-tear design built for strong chewers" | **„Anti-tear design built for strong chewers"** — wörtlich |
+| „A toy that lasts longer and stands up to everyday adventures" | **„The result: A toy that lasts longer and stands up to everyday adventures."** — wörtlich |
+| „destroy everything" | **im Artikelnamen** selbst |
+
+**Ausserdem steht dort, von ihr nicht zitiert:**
+„Rope-reinforced construction for extra durability" · **„Reinforced double
+stitching to help prevent tearing"** (das Zitat aus **#5829** und **#6877**) ·
+„Shape-retaining structure for long-lasting play" · „Built tough for tugging,
+carrying, chewing, and cuddling".
+
+**Sinngemäss, nicht wörtlich:** ihr Zitat „everyday chewing, tugging, carrying,
+and play". Die Seite sagt „Built tough for tugging, carrying, chewing, and
+cuddling" und „made for dogs who love to chew, tug, and play hard". **Inhaltlich
+deckungsgleich, im Wortlaut nicht.** Das wird hier so festgehalten und nicht
+geglättet.
+
+**🔎 Nicht gefunden — und das ist ein eigener Befund:**
+
+1. **Das Wort „indestructible" steht nicht in der Produktbeschreibung.** Kein
+   einziges Mal. Die Seite arbeitet mit „anti-tear", „built to last",
+   „durable", „built tough". **Dutzende Kunden zitieren aber „indestructible".**
+   Woher sie es haben — Anzeige, Seitenbereich ausserhalb der Beschreibung,
+   frühere Fassung — ist **offen und vom Owner zu klären.**
+2. **Der Garantietext steht nicht im Beschreibungsfeld**, ebenso wenig der
+   Warnhinweis zum Verschlucken. Beide erscheinen auf der Seite, aber aus einer
+   anderen Quelle (Theme-Baustein, Metafeld oder separater Abschnitt).
+   **Der Bot kann ihren Wortlaut damit weder bestätigen noch bestreiten.**
+
+**Was das bedeutet:** Ihre Beschreibung der Haltbarkeitszusagen ist **belegt**.
+Ihre Wiedergabe des Garantietextes ist **nicht geprüft** — und genau dieser Text
+ist der Kern ihres Arguments. **Er ist vom Owner auf der Live-Seite zu
+verifizieren.** Trifft er zu, dann sagt die veröffentlichte Garantie
+„**for any reason**" und enthält **keine** Unbenutzt-Bedingung, während die
+Vorlage genau diese Bedingung als geltende Policy behauptet.
+
+---
+
+### Die drei Punkte, die unabhängig vom Garantietext stehen
+
+1. **Sie hat die eigene Sicherheitsanweisung befolgt.** „Remove the toy
+   immediately at the first signs of damage" — und wird dann abgelehnt, **weil
+   das Spielzeug beschädigt ist**. Wenn dieser Hinweis so auf der Seite steht,
+   bestraft die Vorlage das vorgeschriebene Verhalten.
+2. **Sie formuliert den Regel-2-Konstruktionsfehler zum vierten Mal** — nach
+   #7101, #7316 und #6891. Ihre Fassung ist die vollständigste.
+3. **Sie bietet die Rückgabe des ungeöffneten Ducks an.** Das ist ein
+   **Regel-2-Fall mit vollem Anspruch** auf den entsprechenden Anteil — und wird
+   von der Absage vom 11.09. pauschal mit abgelehnt. **Achte
+   Regel-2-Verwechslung.**
+
+**Vorgeschichte:** Sie hat am 10.09. gemeldet, ihr Hund habe **das Etikett
+verschluckt** („the tag that my dog swallowed") — erfasst im Log vom 10.09.
+**Diese Sicherheitsmeldung ist bis heute unbeantwortet.**
+
+**Shopify:** #7292, bestellt **22.08. 23:53**, **28,50 £**, `PAID` /
+`FULFILLED`, 2 × Plushie (Duck, pig), versandt **02.09. 10:58** ab Kirchstr. 2,
+**4px US `4PX3003122374414CN`**, Alhambra, Kalifornien. Sie nennt **38,90 USD**
+— **die Differenz wird nicht überbrückt.**
+
+→ `Bot/Escalated - Owner Attention`, **höchste Priorität**.
+**Eskalationsgrund:** Die Garantiebedingung der Vorlage wird gegen den
+veröffentlichten Garantietext gehalten; unbeantwortete Verschluckungsmeldung
+seit dem 10.09.; Regel-2-Anspruch auf den ungeöffneten Duck; ausdrückliche
+Aufforderung, die Entscheidung zu revidieren.
+
+**Auf der Erstattungsliste:** Anteil für den **ungeöffneten Duck**, Regel 2 —
+Betrag im Admin. **Der beschädigte Pig bleibt Kauschaden** und steht **nicht**
+darauf; ob die Garantie ihn deckt, ist genau die offene Frage.
+
+### 🔧 Korrektur, dritte Fassung: es waren neun Antworten am 11.09.
+
+Die Absage an sie ging um **10:05:57** raus. Damit sind es für den 11.09.:
+
+**Sieben Kauschaden-Absagen** — 09:47 #5973, 09:50 #5851, 09:58 #7179,
+09:59 #7101, 10:01 #7271, 10:02 #6280, **10:05 #7292** — **und alle sieben sind
+eskaliert.** Dazu zwei Lieferauskünfte (09:48 #7190, 10:09 #7525).
+
+**Mit dem 12.09. (#6286, #7316, #4745): zehn von zehn.**
+
+Die Ursache steht seit dem 12:20-Eintrag im Log: die Läufe lesen `in:inbox`,
+ausgehende Mails werden erst sichtbar, wenn geantwortet wird. **Die dortige
+Feststellung, dass alle Zählungen Mindestzahlen sind, hat sich hiermit zum
+zweiten Mal bestätigt.**
+
+---
+
+### 🚩 #2283 Tara Harte — seit dem 22. Juni
+
+**21:40:**
+
+> „I still **haven't received my refund**!!!!! This has been going on **since
+> July**. **Absolutely shocking service.** Can you please advise."
+
+**Shopify:** #2283, bestellt **22.06.2026 07:55**, **19,95 £**, `PAID` /
+`FULFILLED`, 1 × Plushie (donkey), versandt **25.06. 11:06**, **SunSu Packet
+`SYGB021701028`**, London.
+
+**#2283 steht seit Wochen auf der Liste der schriftlich zugesagten, nie
+gezahlten Erstattungen** — zugesagt am **17.07.**, zusammen mit #2228 Ann Price.
+**Heute sind das 57 Tage.**
+
+Der Thread trägt den Betreff „**Important Update Regarding Your Order**" und
+beginnt am **24.06.** — der Vorgang läuft seit **82 Tagen**.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** schriftlich zugesagte, seit 57 Tagen nicht gezahlte
+Erstattung; wiederholter Kontakt.
+**Auf der Erstattungsliste** — unter „schriftlich zugesagt, nie gezahlt",
+**19,95 £** (jetzt beziffert; bisher stand dort „Betrag im Admin").
+
+---
+
+### #7874 Patricia Butler — „forward my money back or sent my order"
+
+**21:35:**
+
+> „I have not received my order **you took my money quick enough** I pretty
+> disappointed. Order no 7874, I ordered **27 August**. **Please forward my
+> money back or sent my order.**"
+
+**Shopify:** #7874, bestellt **26.08. 22:46** (bei ihr am 27.08. Ortszeit),
+**28,50 £**, `PAID` / `FULFILLED`, 2 × Plushie (elephant, monkey), versandt
+**03.09. 07:51** ab Kirchstr. 2, **Yanwen Registered Airmail `VR959516805YP`**,
+Queenscliff, Victoria, Australien. **Acht Tage** bis zum Versand.
+
+**Dreizehnter Kunde aus dem Versandstapel vom 03.09.**
+
+→ `Bot/Needs Approval`. Sie stellt eine **Alternative**: Geld zurück **oder**
+Ware. Die Ware ist unterwegs; kein Regelfall (versandt 03.09.). **Die
+Entscheidung gehört dem Owner.** Sagbar: Versanddatum, Zusteller, Nummer,
+Trackinglink, und offen, dass acht Tage bis zum Versand vergingen.
+**Nicht sagbar:** Zustelltermin, 7–21-Tage-Formel.
+**Nicht auf der Erstattungsliste** — kein Regelfall.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#7292**, **#2283**
+und **#7874**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, **der
+Garantietext weder bestätigt noch bestritten**, keine Rücksendeadresse,
+**keine Zusage zu vorausbezahltem Rückversand**, keine Währungsdifferenz
+überbrückt, kein Label gesetzt.

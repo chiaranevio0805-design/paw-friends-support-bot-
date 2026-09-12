@@ -1742,6 +1742,137 @@ kein Ersatz, kein Angebot, keine Rücksendeadresse.
 
 ---
 
+## #7292 — doulatracy@gmail.com — Garantietext gegen Vorlage
+
+**Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
+`Re: Order #7292 confirmed`.
+**⚠️ Der Garantietext, den sie zitiert, ist NICHT geprüft — er steht nicht im
+Beschreibungsfeld des Produkts. Der Text bestätigt ihn deshalb nicht und
+bestreitet ihn nicht. Ihre Haltbarkeitszitate sind dagegen an den Shopify-Daten
+belegt und werden ausdrücklich bestätigt.**
+
+> Dear Tracy,
+>
+> Thank you for setting this out as carefully as you have. I am going to answer
+> it in the same spirit rather than send you the paragraph again.
+>
+> First, what I can confirm. I have checked our own product data, and the
+> durability wording you quoted is there: "anti-tear design built for strong
+> chewers" and "a toy that lasts longer and stands up to everyday adventures"
+> are both on the product, word for word, along with rope-reinforced
+> construction and reinforced double stitching. You have not exaggerated
+> anything.
+>
+> Second, what I am not going to pretend to. You have quoted our 30-day
+> guarantee as saying "if you're not completely satisfied for any reason". I
+> cannot verify that wording from where I sit — it does not sit in the part of
+> the product record I can read — and I am not going to tell you it says
+> something else just because that would be easier for us. If the published
+> guarantee says "for any reason" and sets no condition about the toy being
+> unused, then the reply you received on Friday stated a condition that is not
+> where you were asked to look. That is exactly the question I am putting to the
+> owner of the business, in your words.
+>
+> Third, the point you make about testing the toy. You are right, and you are
+> the fourth customer in three days to make it: there is no way to find out
+> whether a chew toy survives chewing without letting the dog chew it. I am not
+> going to argue against that.
+>
+> Fourth, and this one I do not want lost in the rest. You told us on 10
+> September that your dog swallowed the tag. Nobody answered that, and I am
+> sorry. If he has shown any vomiting or retching, gone off his food, strained
+> without producing anything, or seemed hunched or uncomfortable at any point
+> since, please call your vet. If he has been completely fine since then, that
+> is reassuring, but I would still rather have said it.
+>
+> On what happens next: the unused duck and the damaged pig are two different
+> cases, and Friday's reply treated them as one. Your order, both of them, your
+> request for prepaid return shipping and your request that the decision be
+> reconsidered have all gone to the owner of the business tonight. I am not
+> going to approve a refund here and have it reversed, and I am not going to
+> refuse you.
+>
+> One practical note: I do not currently have a returns address to give you.
+> That is our problem, not a condition I am putting on you, and it has gone over
+> with the rest.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage und keine Ablehnung, **kein
+vorausbezahlter Rückversand zugesagt**, keine Rücksendeadresse, kein Betrag,
+keine Frist. Bestätigt wird ausschliesslich, was an den Shopify-Daten belegt
+ist. Die 38,90 USD werden nicht aufgegriffen (Shopify: 28,50 £).
+
+---
+
+## #2283 — taralouiseharte@yahoo.com — Erstattung seit dem 17.07. zugesagt
+
+**Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
+`Re: Important Update Regarding Your Order`.
+**Die Zusage steht seit 57 Tagen. Eine Wiederholung ohne Zahlung macht es
+schlimmer — der Text enthält deshalb bewusst keine neue Zusage.**
+
+> Dear Tara,
+>
+> You are right to be angry, and I am not going to open with an apology and then
+> give you nothing.
+>
+> Your order was placed on 22 June. You were told on 17 July that you would get
+> your money back. It is now 12 September and you have not been paid. That is 57
+> days since the promise, and nothing I say in this email changes that.
+>
+> So I am not going to promise it to you a second time from this desk. A fourth
+> or fifth assurance without a payment behind it is worth nothing to you, and
+> you would be right to treat it that way. What I have done instead is put it in
+> front of the owner of the business as an unpaid amount that was already
+> agreed — order #2283, £19.95, promised on 17 July — because releasing it is
+> their decision and not mine.
+>
+> You have been more patient with this than we have earned.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** **keine neue Erstattungszusage** — bewusst. Die Zusage vom
+17.07. wird benannt und als offen bezeichnet. Betrag und Datum sind aus Shopify
+belegt.
+
+---
+
+## #7874 — patriciabutler27@gmail.com — „money back or sent my order"
+
+**Neu geschrieben am 12.09.** Antwort im bestehenden Thread.
+
+> Dear Patricia,
+>
+> You asked for one of two things — the money back or the order sent. Here is
+> where the second one stands, and an honest answer on the first.
+>
+> Your order was dispatched on 3 September with Yanwen under tracking number
+> VR959516805YP, and you can follow it at
+> https://t.17track.net/en#nums=VR959516805YP. So it is on its way to
+> Queenscliff, though I am not going to give you a date, because I would be
+> guessing.
+>
+> The part you are right about: you ordered on 27 August and it was eight days
+> before the parcel was handed over. Nobody told you that was happening, and
+> "you took my money quick enough" is a fair thing to say about that gap.
+>
+> On the refund: that is not mine to approve, and I would rather tell you so
+> than say yes and have it pulled back. Your request has gone to the owner of
+> the business tonight with the dates above, and you will get a straight answer
+> either way.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** die Sendungsnummer und eine klare Antwort des Owners zur
+Erstattung. Keine Erstattungszusage, kein Zustelltermin, keine
+7–21-Tage-Formel.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
