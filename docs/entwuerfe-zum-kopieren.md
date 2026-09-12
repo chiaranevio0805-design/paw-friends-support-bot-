@@ -1522,6 +1522,43 @@ Aussage darüber, welche Positionen fehlen**, bevor das geprüft ist.
 
 ---
 
+## #6936 — lisac131@googlemail.com — „Mr Donkey is dead"
+
+**Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
+`Re: Not even an hour.`
+**Sie fordert nichts und schreibt freundlich. Keine Absage, keine
+Garantiebedingungen, kein Angebot — der Ton nimmt ihren auf.**
+
+> Dear Lisa,
+>
+> I am sorry about Mr Donkey, and I am sorry Bert got less than an hour out of
+> him.
+>
+> You have not asked us for anything, so I am not going to reply with our
+> returns policy. You said you expected him to last longer after reading our
+> advert, and that is the part worth taking seriously rather than smoothing
+> over. I have passed your email and the photos to the owner of the business,
+> because how these are described against how they actually hold up is not
+> something a support desk can settle.
+>
+> Two small things. The squeaker is out — if there is any chance Bert swallowed
+> it or any of the filling, the things to watch for are vomiting or retching,
+> going off his food, straining, or looking hunched and uncomfortable. Ring your
+> vet if you see any of that. Very likely nothing, but I would rather mention it.
+>
+> And your order was for two, the donkey and the monkey. Is the monkey still
+> unused and in its packaging? If it is, that is a different case from Mr Donkey
+> and it matters for what can be done here.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage, kein Ersatz, kein Betrag, keine
+Rücksendeadresse, keine Frist. Zugesagt ist die Weitergabe an den Owner. Die
+Rückfrage zum Affen entscheidet über Regel 2.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

@@ -942,3 +942,90 @@ Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **becca23047**,
 abgelehnt, **keine Bestellnummer geraten**, keine Bildinhalte gedeutet, keine
 Aussage zum Lieferumfang, keine Zustellprognose, keine 7–21-Tage-Formel, kein
 Label gesetzt.
+
+---
+
+## Lauf 17:20 UTC — #6936, und warum drei Bestellungen heute „nicht auffindbar" waren
+
+### 🔎 Der Suchfehler, nicht die Bestellung
+
+Die Mail von **16:52** kam von `lisac131@**googlemail**.com`. Die Suche
+`email:lisac131@googlemail.com` in Shopify liefert **nichts**.
+
+Die Kundensuche nach dem **Nachnamen** liefert sofort **#6936 Miss L Steggel** —
+hinterlegt ist dort `LisaC131@**gmail**.com`.
+
+**Es ist dieselbe Mailbox.** `googlemail.com` und `gmail.com` sind bei Google
+Aliasse; Kunden in Grossbritannien und Deutschland schreiben oft aus der
+Googlemail-Variante. **Die Shopify-Suche `email:` vergleicht die Zeichenkette
+exakt und findet solche Fälle nicht.**
+
+**Das ist ein Befund über die eigene Suchmethode, nicht über die Kunden** — und
+er ist heute dreimal aufgetreten:
+
+| Adresse | Stand |
+|---|---|
+| `lisac131@googlemail.com` | **aufgelöst** über die Namenssuche → #6936 |
+| `dinod28@aol.com` (11.09.) | **weiterhin offen** — kein Name bekannt, Namenssuche nicht möglich |
+| `becca23047@aol.com` (heute 15:20) | **weiterhin offen** — Bestelldaten liegen nur als Bild vor |
+
+**Empfehlung:** Bei „keine Bestellung gefunden" künftig **zusätzlich über den
+Nachnamen** suchen, bevor der Fall als nicht zuordenbar geführt wird. Für die
+beiden `@aol.com`-Fälle hilft das nicht, weil dort kein Name im Text steht —
+**diese beiden bleiben Owner-Sache.**
+
+**Frühere Aussagen im Log werden dadurch nicht falsch**, aber sie waren
+unvollständig: bei `dinod28@aol.com` steht im Eintrag vom 11.09., die Suche sei
+„weder über die Bestell- noch über die Kundensuche" erfolgreich gewesen — die
+Kundensuche lief dort über die **Adresse**, nicht über einen Namen, weil keiner
+bekannt war. Das bleibt so.
+
+---
+
+### 🚩 #6936 Lisa Steggel — „after reading your advert"
+
+**Shopify:** #6936, bestellt **21.08. 08:03**, **27,95 £**, `PAID` /
+`FULFILLED`, **2 × Plushie** (monkey, donkey), versandt **02.09. 10:40** ab
+Kirchstr. 2, Yanwen Special Line `UL476302846YP`. **Zwölf Tage** bis zum
+Versand.
+
+**16:52**, zwei Fotos plus ein Google-Drive-Link:
+
+> „Received my parcel **today** and **Mr Donkey has not even lasted an hour**
+> with Bert. **The squeak is out now** and Mr Donkey is dead. I was hoping it
+> would survive a little longer **after reading your advert**."
+
+**Drei Punkte:**
+
+1. **Sie verlangt nichts.** Kein Geld, kein Ersatz, keine Rücksendung. Sie
+   berichtet — freundlich, mit Humor („Mr Donkey is dead"). **Das ist der dritte
+   solche Fall an diesem Tag** nach **#4939 Sara Thompson** und, gestern,
+   **#7101** und **#7271** — bei den letzten beiden hat die Vorlagen-Absage
+   genau daraus eine Eskalation gemacht.
+2. **„after reading your advert"** — Werbebezug, ohne Wortlaut. Sie zitiert
+   nichts, sie beruft sich nur darauf. Ein achter Wortlaut kommt damit **nicht**
+   dazu; der Bot trägt keine Formulierung ein, die nicht dasteht.
+3. **„The squeak is out now."** Der Quietscher liegt frei. Sie schreibt
+   **nicht**, dass der Hund ihn verschluckt hat — **das wird nicht
+   hineingelesen.** Der Punkt gehört aber in die Antwort: beim Quietscher ist
+   das schon bei **#6286** und **#6280** aufgetreten.
+
+**Zweites Teil ungeklärt:** Bestellt sind **zwei** Plüschtiere, zerstört ist der
+Esel. Ob der Affe unbenutzt ist, sagt sie nicht — **wird gefragt, nicht
+angenommen.** Vierter Fall dieser Art heute nach #7165, #6781, #7246.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** ausdrücklicher Bezug auf die Werbung als Kaufgrundlage,
+mit Fotobeleg.
+
+**Nicht auf der Erstattungsliste** — Kauschaden, und sie fordert nichts. Ein
+etwaiger Regel-2-Anteil für den Affen **erst nach ihrer Antwort**, dann im Admin
+zu bestimmen.
+
+### Entwurf
+
+Volltext in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#6936**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, kein
+Verschlucken hineingelesen, keine Werbeformulierung erfunden, kein Anteil
+geschätzt, kein Label gesetzt.
