@@ -757,3 +757,88 @@ und **#8517**.
 Kartendaten erfragt**, keine Stornierung vollzogen, keine Änderung an einer
 Bestellung, kein Anteil geschätzt, kein Verschlucken hineingelesen, kein Label
 gesetzt.
+
+---
+
+## Lauf 17:20 UTC — 🚩 #7547 Luke Prior: „I was not given the choice to cancel"
+
+### Die Tagesbilanz der Vorlagen ist zu korrigieren
+
+Im Eintrag 12:20 stehen **zwei** Absagen für heute. Es waren **drei**, plus eine
+Lieferauskunft — alle vier binnen elf Minuten:
+
+| Uhrzeit | Kunde | Vorlage | Reaktion | Abstand |
+|---|---|---|---|---|
+| **10:42:05** | #7223 Christopher Dechon | Kauschaden | „You guys lie" | 52 Min |
+| **10:42:25** | **#6877 Alexander Meza** | Kauschaden | FTC, Meta, 48-Std-Frist | 1 Std 56 |
+| **10:49:13** | #7179 Keith Crane | Kauschaden (2.) | „money back for those two at least" | 45 Min |
+| **10:52:46** | **#7547 Luke Prior** | **Lieferauskunft, 7–21 Tage** | siehe unten | **5 Std 41** |
+
+**Vier von vier eskaliert.**
+**Kauschaden-Absagen gesamt: sieben am 11.09., drei am 12.09., drei heute —
+dreizehn von dreizehn.**
+
+---
+
+### Der Fall
+
+**#7547 Luke Prior** stand seit dem **11.09.** als `Bot/Needs Approval` im Log:
+Er hatte am 11.09. 13:46 geschrieben, er wolle **stornieren und eine
+Erstattung**. Die Antwort von heute **10:52** ist die **7–21-Tage-Lieferauskunft**
+— sie erwähnt seine Erstattungsforderung **mit keinem Wort** und enthält
+**wieder nicht** die Sendungsnummer `UL478624693YP`, die seit dem **03.09.**
+vorliegt.
+
+Seine Antwort, **16:34**:
+
+> „That's all good and well. But **it's not very good customer service** is it.
+> **It's not like I was given the choice to cancel my order as your UK warehouse
+> was sold out.** That is a problem you have to deal with **keeping better
+> stock** as opposed to **punishing your customers with unacceptable timelines**
+> for delivery. **Could have made my own dog toy in this time.**"
+
+### Der Punkt, den er macht, ist neu
+
+**„I was not given the choice to cancel my order as your UK warehouse was sold
+out."**
+
+Er beschreibt damit keinen Lieferverzug, sondern eine **unterbliebene
+Mitteilung**: Er hat in der Erwartung bestellt, dass aus Grossbritannien
+geliefert wird. Als das nicht ging, ist er **nicht gefragt worden**, ob er unter
+diesen Umständen noch will — er hat es erst erfahren, als die Ware längst
+unterwegs war.
+
+**Das ist die vierte Beanstandung des Liefertexts binnen drei Tagen**, und die
+erste, die sich nicht auf die Dauer bezieht, sondern auf die **fehlende
+Wahlmöglichkeit**:
+
+| Kunde | Formulierung |
+|---|---|
+| #7525 Carol Garvey (11.09.) | „There was **no note** to say shipping would take so long" |
+| **#7190 Steve Solley** (11.09.) | „UK based and delivery was 4-5 working days… **not the original agreement**" |
+| #7627 Charlotte Matthews (12.09.) | „**Your website doesn't specify** that orders will take that long" |
+| **#7547 Luke Prior** (heute) | „**I was not given the choice to cancel**" |
+
+**Seine Erstattungsforderung vom 11.09. ist damit zum zweiten Mal übergangen
+worden** — genau wie bei **#7627 Charlotte Matthews**, wo dieselbe
+Lieferauskunft dieselbe Forderung verschwiegen hat.
+
+**Und es ist der siebte Fall in vier Tagen, in dem eine vorhandene
+Sendungsnummer nicht genannt wurde** — nach #7525, #7547 (erstmals), #7190,
+#4726, #7627, #7119.
+
+→ `Bot/Escalated - Owner Attention` (**hochgestuft** von `Needs Approval`).
+**Eskalationsgrund:** zweimal übergangene Erstattungsforderung; bestrittene
+Liefer- und Verfügbarkeitsdarstellung; Zweitkontakt ohne Lösung.
+
+**Nicht auf der Erstattungsliste** — kein Regelfall (versandt 03.09., Storno
+acht Tage danach). **Die Entscheidung steht seit dem 11.09. aus.**
+
+### Entwurf
+
+Volltext in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#7547 (zweite
+Fassung)**. Die Fassung vom 11.09. ist damit **überholt und darf nicht gesendet
+werden** — sie setzt voraus, dass er noch keine Antwort bekommen hat.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, keine
+7–21-Tage-Formel wiederholt, keine Zustellprognose, kein Label gesetzt.

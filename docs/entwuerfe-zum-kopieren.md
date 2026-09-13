@@ -2400,6 +2400,51 @@ Aufforderung, Kartendaten zu senden** — im Gegenteil, eine Warnung davor.
 
 ---
 
+## #7547 — lukepriora20@hotmail.com — ZWEITE FASSUNG, nach der Lieferauskunft vom 13.09.
+
+**Neu geschrieben am 13.09.** Ersetzt die Fassung vom 11.09., die nie gesendet
+wurde. Antwort im bestehenden Thread, Betreff `Re: No order`.
+**⚠️ Er hat am 13.09. 10:52 die 7–21-Tage-Lieferauskunft bekommen, in der seine
+Erstattungsforderung nicht vorkam. Die alte Fassung setzt das nicht voraus und
+darf nicht mehr gesendet werden.**
+
+> Dear Luke,
+>
+> You asked to cancel and be refunded on 11 September. The reply you got this
+> morning told you about delivery times and did not mention that request at all.
+> That is the second time you have raised it and the first time anyone has
+> acknowledged it, and I am not going to dress that up.
+>
+> The point you make in your last email is the one I want to answer properly,
+> because it is not about how long the parcel is taking. You are saying you were
+> never given the choice. You ordered expecting it to come from the UK, and when
+> it could not, nobody came back to you and asked whether you still wanted it on
+> those terms — you found out once it was already on its way. That is a fair
+> criticism and it is not one I can answer with a shipping estimate.
+>
+> Two practical things. Your tracking number is UL478624693YP and you can follow
+> it at https://t.17track.net/en#nums=UL478624693YP. It has existed since 3
+> September and it should have been in this morning's reply, and in the one
+> before that.
+>
+> And the refund: I am not able to approve it from this desk, and I am not going
+> to refuse it on someone else's behalf. Your request — from 11 September and
+> again today — has gone to the owner of the business this evening, together
+> with your point about not being offered the choice to cancel. You will get a
+> yes or a no.
+>
+> I am not going to quote you a delivery window again.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** die Sendungsnummer (belegt) und eine klare Antwort des
+Owners zur Erstattung. **Keine Erstattungszusage, kein Zustelltermin, keine
+7–21-Tage-Formel.** Sein Einwand zur fehlenden Wahlmöglichkeit wird
+**eingeräumt**, nicht wegerklärt.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
