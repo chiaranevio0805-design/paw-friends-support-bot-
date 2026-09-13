@@ -842,3 +842,94 @@ werden** — sie setzt voraus, dass er noch keine Antwort bekommen hat.
 
 **Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, keine
 7–21-Tage-Formel wiederholt, keine Zustellprognose, kein Label gesetzt.
+
+---
+
+## Lauf 18:20 UTC — #7610 hat die Bewertung geschrieben, #8321 neu
+
+### 🚩 #7610 Vicky Blow — Trustpilot-Bewertung ist abgegeben, nicht angedroht
+
+**Zweite Mail heute, 17:21** — 82 Minuten nach der ersten, mit Foto:
+
+> „I would like a refund on this toy I ordered. Not only did it take **two weeks
+> to arrive** but **the quality is shocking**. It lasted **half a hour** with my
+> dog ripped through. **I have left a review on trust pilot** and **I will be
+> taking this further if u do not receive my refund!**"
+
+**Das ist ein anderer Sachverhalt als heute Nachmittag.** Um 15:59 hat sie eine
+Erstattung verlangt. Jetzt teilt sie mit, dass sie **die öffentliche Bewertung
+bereits geschrieben hat** — nicht, dass sie es vorhat.
+
+**Nach `support-policy.md` ist „public-review pattern complaint" ein
+Eskalationstrigger.** Bei ihr ist er nicht mehr angekündigt, sondern **erfüllt**.
+
+**Das ist der erste Fall im Projekt, in dem ein Kunde eine abgegebene
+Trustpilot-Bewertung mitteilt.** Bisher war Trustpilot nur als **Argument**
+aufgetreten — #4745 Steph Hanlon („I should have read the trust pilot reviews…
+everyone says they are shite", 10.09.), #7645 Betty Brown („false advertisement
+and comments from customers", heute früh), #5973 Stephen Cooil („I can't believe
+these are genuine", 09.09.). **Jetzt kommt eine dazu.**
+
+**Der Kontrast zum Befund vom 11.09. bleibt bestehen:** der shopeigene
+Bewertungspool des Hauptprodukts zeigt **78 Bewertungen, Schnitt 5,0, keine
+einzige negative** — und **#6606 Matt Pinnock** fragt seit dem 08.09.
+vergeblich, **wie man dort eine abgibt**. **Der Bot hat Trustpilot nicht
+aufgerufen und behauptet über den Inhalt ihrer Bewertung nichts.**
+
+**Ihr dritter und vierter Kontakt** liegen damit am selben Tag; ihre
+Erstattungsforderung steht seit dem **09.09.** unbeantwortet — fünf Tage.
+
+→ `Bot/Escalated - Owner Attention` (**hochgestuft** von `Needs Approval`
+heute Nachmittag).
+**Eskalationsgrund:** abgegebene öffentliche Bewertung, angekündigte weitere
+Schritte, seit fünf Tagen unbeantwortete Erstattungsforderung, vierter Kontakt.
+**Nicht auf der Erstattungsliste** — ein Teil, zerstört, kein Regelfall.
+
+**Der Entwurf von 16:20 ist überholt** — er setzt voraus, dass die Bewertung
+noch nicht geschrieben ist. **Zweite Fassung in
+`docs/entwuerfe-zum-kopieren.md`.**
+
+---
+
+### #8321 Darren Calver — „any updates on my dogs toys pls?"
+
+**17:36**, vollständiger Text: „Hi any updates on my dogs toys pls ?"
+**Keine Bestellnummer genannt.**
+
+**Über die E-Mail-Suche gefunden:** #8321, bestellt **31.08. 13:54**,
+**27,95 £**, `PAID` / `FULFILLED`, Tag `Kaching Bundles`, 2 × Plushie (Duck,
+elephant), versandt **08.09. 07:48** ab Kirchstr. 2, Yanwen Special Line
+`UL493236753YP`, Cliffe Woods, England. **Acht Tage** bis zum Versand.
+
+Höflich, keine Forderung, keine Werbeaussage, keine Frist, Erstkontakt.
+
+→ `Bot/Draft Ready`. Sagbar: Versanddatum, Zusteller, Nummer, Trackinglink, und
+offen, dass acht Tage bis zum Versand vergingen. **Nicht sagbar:** ein
+Zustelltermin, und **nicht** die 7–21-Tage-Formel.
+**Nicht auf der Erstattungsliste** — Ware unterwegs, keine Forderung.
+
+---
+
+### Ohne neue Nachricht wieder aufgetaucht
+
+**#6872 Dorothy Rysh** — keine neue Kundenmail; die letzte bleibt **08.09.
+16:15**:
+
+> „**Can you send me a link that I can track the shipment in the US?**"
+
+**Seit fünf Tagen unbeantwortet.** Der Vorgang ist erfasst (Log vom 09.09.): ihr
+wurde am **05.09.** geschrieben, das Paket habe „**completed customs clearance
+in the US**" — eine Aussage, für die **in den Shopify-Daten keine Grundlage
+besteht**. Sie fragt seither nach einem Link, der das belegen würde.
+
+**Kein neuer Eintrag, kein neues Label. Vermerkt, weil eine unbelegte Aussage
+im Raum steht und die Rückfrage dazu seit fünf Tagen offen ist.**
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#7610 (zweite
+Fassung)** und **#8321**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, Trustpilot
+nicht aufgerufen, keine Aussage über den Inhalt ihrer Bewertung, keine
+Zustellprognose, keine 7–21-Tage-Formel, kein Label gesetzt.

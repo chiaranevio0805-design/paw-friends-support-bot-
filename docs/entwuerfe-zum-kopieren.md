@@ -2445,6 +2445,75 @@ Owners zur Erstattung. **Keine Erstattungszusage, kein Zustelltermin, keine
 
 ---
 
+## #7610 — vannblow@icloud.com — ZWEITE FASSUNG, Bewertung ist abgegeben
+
+**Neu geschrieben am 13.09., 18:20.** Ersetzt die Fassung von 16:20 desselben
+Tages, die nie gesendet wurde.
+**⚠️ Sie hat die Trustpilot-Bewertung inzwischen geschrieben. Die erste Fassung
+setzt das nicht voraus und darf nicht mehr gesendet werden. Der Text erwähnt
+die Bewertung, ohne sie zu kommentieren, und knüpft nichts daran.**
+
+> Dear Vicky,
+>
+> You asked for a refund on 9 September and nobody answered you. That is five
+> days, and you have now had to write twice more today to get a response. I am
+> sorry — none of that was your doing.
+>
+> Where it stands factually: your order was placed on 24 August and dispatched
+> on 3 September, so ten days passed before it moved at all. That first stretch
+> was ours rather than the courier's, and you are right that it took over two
+> weeks to reach you.
+>
+> On the refund: I am not able to approve it from this desk and I am not going
+> to refuse it on someone else's behalf. Your request — from 9 September and
+> twice today — has gone to the owner of the business this evening, with the
+> dates and with the fact that it sat unanswered for five days. You will get a
+> yes or a no.
+>
+> You mentioned you have left a review. That is entirely your right, nothing
+> here depends on it, and I am not going to ask you to change or remove it.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage — ausdrücklich als
+Owner-Entscheidung benannt. Kein Zustelltermin, keine 7–21-Tage-Formel.
+**Ausdrücklich keine Bitte, die Bewertung zu ändern oder zu löschen**, und keine
+Verknüpfung der Erstattung mit der Bewertung.
+
+---
+
+## #8321 — stockingseight@gmail.com — Lieferanfrage ohne Bestellnummer
+
+**Neu geschrieben am 13.09.** Antwort im bestehenden Thread.
+**Er hat keine Bestellnummer genannt; sie wurde über die E-Mail-Suche
+ermittelt.**
+
+> Dear Darren,
+>
+> Here are the details for order #8321.
+>
+> It was dispatched on 8 September with Yanwen Special Line, tracking number
+> UL493236753YP, and you can follow it at
+> https://t.17track.net/en#nums=UL493236753YP.
+>
+> The part worth saying rather than leaving out: you ordered on 31 August and it
+> was eight days before the parcel was handed over. That wait was on our side,
+> not the courier's, and nobody told you it was happening.
+>
+> I am not going to give you a delivery date, because I would be guessing. If
+> the tracking stops moving, write back and I will chase Yanwen rather than send
+> you an estimate.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** beim Zusteller nachfassen, wenn er erneut schreibt. Kein
+Zustelltermin, **keine 7–21-Tage-Formel**, keine Erstattung, kein Verweis an den
+Zusteller.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
