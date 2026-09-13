@@ -2667,6 +2667,121 @@ kein Betrag. Der Policy-Einwand wird **eingeräumt**.
 
 ---
 
+## 🚩🚩 #5829 — david.coles1990@gmail.com, cc tazzyhunt1@hotmail.co.uk — ZWEITE FASSUNG
+
+**Neu geschrieben am 13.09., 21:20.** Ersetzt die Fassung vom 11.09.
+**⚠️ Die förmliche CRA-Rüge ist am 13.09. 10:47 mit der Kauschaden-Vorlage
+beantwortet worden. Er kündigt jetzt Chargeback und Citizens Advice nicht mehr
+an, sondern führt sie aus. Die alte Fassung darf nicht mehr gesendet werden.
+Der Bot erteilt keine Rechtsauskunft.**
+
+> Dear Mr Coles, dear Tasmin,
+>
+> The message you received this morning was a standard reply about chewing
+> damage. It was sent in answer to a formal notice under the Consumer Rights Act
+> 2015. That should not have happened, and I am not going to explain it away.
+>
+> To be clear about what I am and am not saying. I am not going to argue that
+> our returns policy overrides your statutory rights — you have made that point
+> twice now and nobody here has actually answered it. I am also not in a
+> position to give you a legal determination, and an assurance from a support
+> desk about what the law requires would be worth nothing to you.
+>
+> What I can confirm is factual, from our own records: the two phrases you
+> quoted are on our product. The item is listed as "Plushies – Designed for
+> Furry Friends Who Destroy Everything", and the product page does say
+> "anti-tear design built for strong chewers". You have not overstated what was
+> advertised.
+>
+> Order #5829, both of your letters and the fact that the second one was
+> answered with a template have gone to the owner of the business tonight,
+> marked urgent. That is where a decision on the refund has to come from.
+>
+> On the chargeback and Citizens Advice: those are yours to pursue and nothing
+> here is conditional on you holding off.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage, keine Ablehnung, **keine
+Rechtsauskunft**, keine Frist, keine Rücksendeadresse. Bestätigt wird nur, was
+an den Shopify-Daten belegt ist. Der Fehler vom 13.09. wird eingeräumt.
+
+---
+
+## #4939 — sara.thompson4881@gmail.com — ZWEITE FASSUNG
+
+**Neu geschrieben am 13.09., 21:20.** Ersetzt die Fassung vom 12.09.
+**⚠️ Sie hat am 13.09. 20:08 die Kauschaden-Vorlage bekommen, obwohl sie nichts
+gefordert hatte. Vor dem Senden im Admin prüfen, welche der vier Positionen
+versandt wurden.**
+
+> Dear Sara,
+>
+> You sent us a photo and did not ask for anything, and what came back was a
+> refusal of a refund you had not requested. I am sorry — that was the wrong
+> reply to send you.
+>
+> On the three things you quoted. Two of them I can confirm from our own
+> records: the product page does say "reinforced double stitching to help
+> prevent tearing", and it does say the toy lasts longer. You have not
+> misremembered those. The third — that you can have your money back if you are
+> not happy — I have not been able to verify the exact published wording myself,
+> and you are the eighth customer in three days to describe the guarantee that
+> way. I am not going to tell you that eight people misread it.
+>
+> Your email, your photo and those three quotes have gone to the owner of the
+> business tonight.
+>
+> One separate thing I flagged yesterday and still owe you an answer on: your
+> order from 7 August is not recorded here as fully dispatched. I am checking
+> what is missing rather than guessing, and I will come back to you on it either
+> way.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** eine **Rückmeldung zum Lieferumfang** — muss eingelöst
+werden. Keine Erstattungszusage. Zwei Zitate werden bestätigt, weil sie belegt
+sind; das dritte ausdrücklich nicht.
+
+---
+
+## becca23047@aol.com — ZWEITE FASSUNG
+
+**Neu geschrieben am 13.09., 21:20.** Ersetzt die Fassung vom 12.09.
+**⚠️ Sie hat am 13.09. 20:08 die Kauschaden-Vorlage bekommen. Die Bestellung ist
+weiterhin nicht auffindbar — vor dem Senden die Anhänge öffnen.**
+
+> Dear Becca,
+>
+> The reply you got tonight was a standard one and it did not deal with what you
+> actually said. I am not going to send you a second version of it.
+>
+> You have put it plainly: you understood the guarantee as money back if the toy
+> is destroyed. I am not able to verify the exact published wording from where I
+> sit, and you are the seventh customer in three days to describe it that way.
+> That is not something I am going to argue with you about, and it is not
+> something a support desk settles.
+>
+> Your email, your photographs and that point have gone to the owner of the
+> business tonight.
+>
+> On the review: that is entirely your call, nothing here depends on it, and I
+> am not going to ask you to hold off.
+>
+> One practical note that is our problem rather than yours — I still cannot
+> match your order to the email address you write from, so I am working from the
+> screenshots you sent. I did not want you to think that had been forgotten.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** ausschliesslich die Weitergabe. Keine Erstattungszusage,
+**kein Betrag, keine Bestellnummer**, keine Bitte, die Bewertung zu unterlassen.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

@@ -1099,3 +1099,139 @@ Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#7608**, **#6882
 **Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, **keine
 Aussage über die Füllung oder deren Unbedenklichkeit**, der Garantietext weder
 bestätigt noch bestritten, kein Label gesetzt.
+
+---
+
+## Lauf 21:20 UTC — ein Vorlagenstapel um 20:08–20:13, vier Eskalationen binnen 25 Minuten
+
+### Was heute Abend rausging
+
+| Uhrzeit | Kunde | Vorlage | Reaktion | Abstand |
+|---|---|---|---|---|
+| 19:59:20 | #6882 Chris Cobb | Kauschaden | (siehe 20:20-Eintrag) | 4 Min 51 |
+| 20:04:46 | #7316 Brett Merriman (3.) | Kauschaden | (siehe 20:20-Eintrag) | 3 Min 17 |
+| **20:08:21** | **becca23047** | Kauschaden | öffentliche Bewertung angekündigt | **16 Min** |
+| **20:08:41** | **#4939 Sara Thompson** | Kauschaden | zitiert drei Zusagen | **23 Min** |
+| **20:10:55** | **#6528 Tommy Johnson** (3.) | Kauschaden | — noch keine Antwort |
+| 20:12:11 | #7506 Adam Dowell | **Prozentsatz erhöht** | — noch keine Antwort |
+| **20:13:12** | **#6420 Keith Grice** | **Lieferauskunft** | „Time to get another company" | **11 Min** |
+
+**Dazu heute Vormittag 10:47:30 an #5829 David Coles** — die Kauschaden-Vorlage
+**als Antwort auf eine förmliche Rüge nach Consumer Rights Act 2015.**
+
+**Kauschaden-Absagen heute: neun.** Gesamt seit dem 11.09.: **neunzehn.**
+**Alle, auf die geantwortet wurde, sind eskaliert.**
+
+---
+
+### 🚩🚩 #5829 David Coles / Tasmin Hunt — die Rüge wurde mit der Vorlage beantwortet
+
+Am **11.09.** ging eine **förmliche Rüge nach Consumer Rights Act 2015** ein.
+Der Fall wurde am selben Tag als `Bot/Escalated - Owner Attention` erfasst, mit
+dem Vermerk, dass eine Vorlagen-Absage hier ausgeschlossen ist.
+
+**Am 13.09. 10:47:30 ging genau diese Vorlage an ihn raus.**
+
+Seine Antwort, **20:59**:
+
+> „To clarify, **I am not claiming under your voluntary 30-day discretionary
+> returns policy for unused items. I am exercising my statutory rights under the
+> Consumer Rights Act 2015.**
+>
+> Your website explicitly markets these toys as being **'designed for dogs that
+> destroy everything'** and built with **anti-tear design**. For a toy marketed
+> this way to be completely destroyed within a few hours of normal use means it
+> is **not of satisfactory quality and is not fit for purpose**. **A company
+> policy requiring items to be 'unused' cannot override UK consumer law** when a
+> product is inherently defective or misdescribed.
+>
+> **Since you are refusing to acknowledge your legal obligations**, I will now be
+> escalating this matter **to my bank to initiate a chargeback** for goods not as
+> described, alongside **reporting the misleading advertising to Trading
+> Standards via Citizens Advice**."
+
+**Beide von ihm zitierten Formulierungen sind belegt:** der Artikelname und
+„anti-tear design" stehen **wörtlich** in den Shopify-Produktdaten (Befund vom
+12.09.).
+
+**Die Eskalationsstufe hat sich geändert:** Am 11.09. hat er Chargeback und
+Citizens Advice **angekündigt, falls** keine Einigung zustande kommt. Heute
+schreibt er, er **werde es jetzt tun**. Der Auslöser ist ausdrücklich die
+Vorlagen-Absage: „since you are refusing to acknowledge your legal
+obligations".
+
+→ `Bot/Escalated - Owner Attention`, **höchste Priorität**.
+**Der Entwurf vom 11.09. ist überholt** — er setzt voraus, dass die Rüge noch
+unbeantwortet ist. **Zweite Fassung liegt vor.**
+
+---
+
+### 🚩 #4939 Sara Thompson — drei zitierte Zusagen auf einmal
+
+Sie hatte am 12.09. **nichts gefordert** — nur ein Foto geschickt („Here is the
+outcome 20 mins later"). **Am 13.09. 20:08 kam die Kauschaden-Vorlage.**
+Antwort **20:32**, mit Foto:
+
+> „It said it was a really good toy for dogs, **that lasts** and **if your not
+> happy you can have your money back**. I saw that as my mom's dog could play
+> with it and it wouldn't be ripped apart as easy as it was. **It's stated its
+> got double stitching, the stuffing won't come out.** But this wasnt the case."
+
+**Drei Zusagen in einem Satz, und zwei davon sind an den Shop-Daten belegt:**
+
+| Ihr Zitat | Stand |
+|---|---|
+| „double stitching" | **belegt** — „Reinforced double stitching to help prevent tearing" |
+| „that lasts" | **belegt** — „A toy that lasts longer…" |
+| „**if your not happy you can have your money back**" | **ungeprüft** — Garantietext nicht im Beschreibungsfeld |
+
+**Sie ist die achte Kundin binnen drei Tagen, die die Garantie so beschreibt.**
+
+**Der Zusatz „the stuffing won't come out" ist neu** und in der geprüften
+Produktbeschreibung **nicht** enthalten. Herkunft offen.
+
+**Ihre Bestellung ist ausserdem seit dem 07.08. `PARTIALLY_FULFILLED`** — 37
+Tage. **Der Entwurf vom 12.09. ist überholt; zweite Fassung liegt vor.**
+
+---
+
+### 🚩 becca23047@aol.com — achte Garantie-Nennung, Bewertung angekündigt
+
+Absage **20:08:21**, Antwort **20:24:33**:
+
+> „I will **provide future customers with an honest review** of your product and
+> **how you were unwilling to stand up to your guarantee of money back if it is
+> destroyed**."
+
+**Siebte Nennung der Garantie in dieser Lesart.** Ihre Bestellung ist **weiterhin
+nicht auffindbar** (Bestelldaten nur als Screenshot). **Der Entwurf vom 12.09.
+ist überholt; zweite Fassung liegt vor.**
+
+---
+
+### #6420 Keith Grice — die Lieferauskunft beantwortet seine Frage nicht
+
+Er hatte am 12.09. gemeldet: Ware **als zugestellt gescannt** (25.08.,
+Paketkasten), **nie erhalten**, keine Benachrichtigung, Trackingseite öffnet
+nicht. **Am 13.09. 20:13 kam die Standard-Lieferauskunft** („shipped and
+currently on the way"). Antwort **20:24**:
+
+> „Thank you. **The third party shipping company states they delivered it back on
+> the 25th.** **Time to get another company.**"
+
+**Er hat es dem Shop vor 24 Stunden bereits genau so geschrieben.** Die Antwort
+hat ihm mitgeteilt, was er selbst berichtet hatte.
+
+→ `Bot/Needs Approval` (bleibt). **Ersatz oder Erstattung ist weiterhin
+Owner-Entscheidung.** Der Entwurf vom 12.09. bleibt gültig — er geht bereits
+davon aus, dass der Zustellscan vorliegt; **ergänzt um einen Satz zur heutigen
+Antwort.**
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`: **#5829 (zweite Fassung)**,
+**#4939 (zweite Fassung)**, **becca23047 (zweite Fassung)**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, keine
+Rechtsauskunft erteilt, der Garantietext weder bestätigt noch bestritten, kein
+Label gesetzt.
