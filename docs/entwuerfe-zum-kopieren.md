@@ -2291,6 +2291,115 @@ keine Rücksendeadresse, keine Frist. Nur Weitergabe und eine direkte Antwort.
 
 ---
 
+## #7034 — sarahc300@gmail.com — „guaranteed indestructible toy"
+
+**Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff
+`Re: Destroyed in seconds`.
+**Sie schreibt freundlich und mit Humor. Ton entsprechend — keine Absage, keine
+Garantiebedingungen.**
+
+> Dear Sarah,
+>
+> "Challenge accepted and met" made me laugh, which I suspect was the intention,
+> so thank you for that in the middle of a bad experience.
+>
+> On what you were told: you have put "guaranteed indestructible toy" in quotes
+> and said that was the deal on the advert. I am not going to tell you that you
+> misremembered it. You are the fifth customer in three days to describe the
+> guarantee that way, and I am not able to check the exact wording of what was
+> advertised myself. That has gone to the owner of the business as the real
+> question it is, along with your order and your photo.
+>
+> So I am not refusing your refund or replacement, and I am not going to approve
+> one here and have it reversed. You will get a direct answer.
+>
+> Two smaller things. You said the squeaker was the target — if there is any
+> chance your staffie swallowed it or any of the stuffing, watch for vomiting or
+> retching, going off his food, straining, or looking hunched, and ring your vet
+> if you see any of that. Probably nothing, but I would rather say it.
+>
+> And you mentioned opening the fox. Your order was for two, the fox and the
+> pig. Is the pig still unused in its packaging? If it is, that is a separate
+> case from the fox and it matters here.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage, kein Ersatz zugesagt, kein Betrag,
+keine Rücksendeadresse, keine Frist. Nur Weitergabe und eine direkte Antwort.
+Die Werbezusage wird **weder bestätigt noch bestritten**.
+
+---
+
+## #7610 — vannblow@icloud.com — dritter Kontakt
+
+**Neu geschrieben am 13.09.** Antwort im **neuen** Thread, Betreff `Re: Refund`.
+**Ihre Erstattungsforderung vom 09.09. ist unbeantwortet — das gehört an den
+Anfang.**
+
+> Dear Vicky,
+>
+> You asked for a refund on 9 September and nobody answered you. I am sorry —
+> that is four days, and you should not have had to write again in a new email
+> to get a response.
+>
+> Where it stands: your order was placed on 24 August and dispatched on 3
+> September, so ten days passed before it moved. You are right that it took over
+> two weeks to reach you, and that first stretch was ours rather than the
+> courier's.
+>
+> On the refund itself: I am not able to approve it from this desk and I am not
+> going to refuse it on someone else's behalf. Your request — the one from 9
+> September and today's — has gone to the owner of the business this afternoon.
+> You will get a yes or a no rather than another delivery update.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage — ausdrücklich als
+Owner-Entscheidung benannt. Kein Zustelltermin, keine 7–21-Tage-Formel.
+
+---
+
+## 🔐 #8517 — peggymcsnyder@yahoo.com — Kartenänderung
+
+**Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff
+`Re: Need to change credit card number`.
+**⚠️ UNTER KEINEN UMSTÄNDEN nach einer Kartennummer fragen — weder hier noch in
+einer Folgeantwort. Der Text tut es nicht und darf nicht dahingehend geändert
+werden.**
+
+> Dear Peggy,
+>
+> Thank you for writing so quickly after ordering — that gives us room to sort
+> this out properly.
+>
+> One thing first, and please take it as it is meant: **do not send us your card
+> details by email.** Not the number, not the expiry, not the security code. We
+> will never ask you for them this way, and an email is not a safe place for
+> them regardless of who is asking.
+>
+> Order #8517 has not been dispatched yet, so nothing is locked in. The clean
+> way to change which card is used is to cancel this order and place it again
+> with the card you want — you would be refunded in full for the first one and
+> you would not be asked to justify cancelling. If that is what you would like,
+> just say so and I will put it through to be actioned.
+>
+> If you meant something else — a card that has been replaced by your bank, for
+> example, or a billing detail rather than a payment — tell me what you need and
+> I will sort it from there.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** eine **Stornierung mit voller Erstattung auf ihren Wunsch
+hin** — das ist **Regel 3** und damit geltende Policy, keine neue Zusage
+(`UNFULFILLED`, Storno vor Versand, ohne Rückfrage). **Ausdrücklich keine
+Aufforderung, Kartendaten zu senden** — im Gegenteil, eine Warnung davor.
+**Keine Stornierung wird vom Bot vollzogen.**
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

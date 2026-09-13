@@ -638,3 +638,122 @@ Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#6877** und
 abgelehnt, keine Aussage darüber, ob die Ware doppelt genäht ist (**nicht
 prüfbar — der Bot sieht keine Bilder und kein Produkt**), keine Frist akzeptiert
 oder bestritten, kein Label gesetzt.
+
+---
+
+## Lauf 16:20 UTC — drei Fälle, darunter eine Kreditkartenanfrage
+
+### 🚩 #7034 Sarah Checksfield — „guaranteed indestructible toy", in Anführungszeichen
+
+**15:29**, Betreff „Destroyed in seconds", mit Foto (`DSCI0012.JPG`):
+
+> „Thank you so much for order #7034 it **arrived yesterday**… **I opened the
+> fox** and gave it to my staffie to play with. He played nicely with it for a
+> couple of hours then went on his usual mission to **seek and destroy the
+> internal squeaker**… **challenge accepted and met within a minute or two of
+> actual effort.**
+>
+> I was **lured into spending a large amount of cash for a 'guaranteed
+> indestructible toy'** only to be very disappointed. Can you please arrange a
+> **refund or replacement**, as ~ I'm sure this was **the deal on the advert I
+> was taken in by**…"
+
+**Shopify:** #7034, bestellt **21.08. 18:43**, **27,95 £**, `PAID` /
+`FULFILLED`, Tag `Kaching Bundles`, **2 × Plushie** (pig, fox), versandt
+**02.09. 10:45** ab Kirchstr. 2, Yanwen Special Line `UL476303356YP`, Swindon,
+England. **Zwölf Tage** bis zum Versand.
+
+**Drei Punkte:**
+
+1. **Sie setzt „guaranteed indestructible toy" in Anführungszeichen** und
+   schreibt, das sei „the deal on the advert". **Vierte unabhängige Kundin
+   binnen drei Tagen, die eine Garantie für den Zerstörungsfall beschreibt** —
+   nach #7060, #5851 und #5436 heute Mittag; #7292 zitiert zusätzlich den
+   veröffentlichten Text „for any reason". **Fünf Kunden, fünf Formulierungen,
+   dieselbe Richtung.**
+2. **Sie sagt ausdrücklich: „I opened the fox."** Der **pig** ist damit
+   möglicherweise ungeöffnet — **wird gefragt, nicht angenommen.** Siebter Fall
+   dieser Art seit dem 12.09.
+3. **Der Quietscher, zum vierten Mal.** Nach #6286, #6280 und #6936 ist es
+   erneut das Innenteil, auf das der Hund es abgesehen hatte. Sie schreibt
+   nicht, dass er ihn verschluckt hat — **das wird nicht hineingelesen**, aber
+   im Entwurf angesprochen.
+
+→ `Bot/Escalated - Owner Attention`.
+**Nicht auf der Erstattungsliste** — der zerstörte Fuchs ist Kauschaden; ein
+etwaiger Regel-2-Anteil für den pig erst nach ihrer Antwort.
+
+---
+
+### #7610 Vicky Blow — dritter Kontakt
+
+**15:59**, Betreff „Refund", **neuer Thread**:
+
+> „I would like a **refund** on my product? Not only did I **wait over two
+> weeks** for my product to arrive, **my dog has chewed it up straight away**."
+
+**Shopify:** #7610, bestellt **24.08. 17:56**, **19,95 £**, `PAID` /
+`FULFILLED`, 1 × Plushie (elephant), versandt **03.09. 07:40** ab Kirchstr. 2,
+Yanwen Special Line `UL478624322YP`, Weldon/Corby, England. **Zehn Tage** bis
+zum Versand. **Fünfzehnter Kunde aus dem Versandstapel vom 03.09.**
+
+**🔎 Sie ist bereits zweimal im Log:**
+
+| Datum | Vorgang |
+|---|---|
+| **08.09.** | „‚shipped and currently on the way' reicht ihr nicht mehr" — Lieferbeschwerde |
+| **09.09. 07:57** | **Erstattungsforderung**, 57 Minuten nach der Antwort |
+| **13.09. 15:59** | erneute Erstattungsforderung, **in einem neuen Thread** |
+
+**Das ist der dritte Kontakt** — und der erste, in dem sie sagt, dass die Ware
+angekommen und sofort zerstört worden ist. **Ihre Erstattungsforderung vom
+09.09. ist bis heute unbeantwortet.**
+
+**Ein Teil, zerstört — kein Regel-2-Rest.** Kein Regelfall.
+
+→ `Bot/Needs Approval`. **Offen ist ein Ja oder Nein zur Erstattung**, seit dem
+09.09. **Nicht auf der Erstattungsliste** — kein Regelfall.
+
+---
+
+### 🔐 #8517 Peggy Snyder — „Need to change credit card number"
+
+**15:47**, Betreff **„Need to change credit card number"**. **Der Textkörper ist
+leer** (nur die Signatur „Sent from Yahoo Mail for iPhone").
+
+**Shopify:** #8517, bestellt **heute 15:44:55** — **zwei Minuten und 24 Sekunden
+vor ihrer Mail** —, **20,35 £**, **`PAID`** / **`UNFULFILLED`**, McKinney,
+Texas.
+
+**Die Bestellung ist bereits bezahlt.** Was sie ändern will, sagt sie nicht.
+
+### ⚠️ Das ist in erster Linie eine Sicherheitsfrage
+
+**Es dürfen keine Kartendaten per E-Mail erbeten, entgegengenommen oder
+weitergeleitet werden** — weder vom Bot noch in einer Antwort, die ihn dazu
+einlädt. Ein Entwurf, der sie bittet, eine Kartennummer zu schicken, wäre ein
+Fehler mit Folgen weit über diesen Vorgang hinaus. **Der Entwurf fragt
+ausdrücklich nicht danach.**
+
+**Der saubere Weg steht in der eigenen Policy:** Die Bestellung ist
+**`UNFULFILLED`**. Eine Stornierung ist damit ein **glatter Regel-3-Fall** —
+„no argument, no attempt to talk them out of it" — und sie kann anschliessend
+mit der gewünschten Karte neu bestellen. **Das ist der Weg, den der Entwurf
+anbietet**, ohne ihn ihr aufzudrängen und ohne eine Stornierung zu vollziehen.
+
+→ `Bot/Needs Approval`. **Kein Eskalationstrigger**, aber owner-pflichtig, weil
+nur der Owner stornieren und erstatten kann.
+**Nicht auf der Erstattungsliste — noch nicht.** **Wenn sie storniert, ist es
+Regel 3 und ohne Rückfrage zu erstatten.** Das ist der dritte Vorgang binnen
+zwei Tagen, bei dem eine unversandte Bestellung ansteht (#8081, #8505, jetzt
+#8517) — und der einzige, bei dem eine Stornierung tatsächlich im Raum steht.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#7034**, **#7610**
+und **#8517**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, **keine
+Kartendaten erfragt**, keine Stornierung vollzogen, keine Änderung an einer
+Bestellung, kein Anteil geschätzt, kein Verschlucken hineingelesen, kein Label
+gesetzt.
