@@ -81,3 +81,64 @@ Volltext in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#7645**.
 **Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, keine
 externe Bewertungsseite aufgerufen, keine Aussage über deren Inhalt, kein
 Anteil geschätzt, kein Label gesetzt.
+
+---
+
+## Lauf 08:20 UTC — #8505 John Marsh: eine Adresskorrektur, elf Minuten nach der Bestellung
+
+**07:23**, Betreff „Re: Order #8505 confirmed":
+
+> „The **house number is missing** from the shipping address but is on the
+> billing address. Shipping is to **6 Ermine Close, Ancaster, Grantham, Lincs,
+> NG32 3RD**. Thanks for your help."
+
+**Shopify:** #8505, bestellt **heute 07:12:42**, **19,95 £**, `PAID` /
+**`UNFULFILLED`**, 1 × Plushie (fox).
+
+**Die hinterlegte Lieferanschrift bestätigt ihn:**
+
+```
+address1: "Ermine Close, Ancaster, Grantham NG32 3RD, UK"
+address2: "Ancaster"
+city:     "Grantham"
+zip:      "NG32 3RD"
+```
+
+**Es steht keine Hausnummer darin.** Seine Angabe — **6 Ermine Close** — ist die
+fehlende Information.
+
+### Warum das ein guter Fall ist, wenn er heute erledigt wird
+
+- **Er hat elf Minuten nach der Bestellung geschrieben**, aus eigenem Antrieb,
+  bevor irgendetwas schiefgehen konnte.
+- **Die Bestellung ist `UNFULFILLED`.** Die Korrektur ist vor dem Versand
+  möglich — und Septemberbestellungen gehen inzwischen in **ein bis drei Tagen**
+  raus (#8359 ein Tag, #8344 zwei, #8343 drei). **Das Zeitfenster ist klein.**
+- Wird die Adresse korrigiert, wird aus diesem Vorgang **nie eine Beschwerde**.
+
+**Der Gegenfall steht im Log:** **#8081 Matthew Pierce** — dort ist eine
+vollständige, korrekte Anschrift **vierzehn Tage lang** als unzureichend
+behandelt worden, mit einer Nachforderung, die es bei APO-Adressen nicht gibt.
+**Hier ist die Anschrift tatsächlich unvollständig, und der Kunde liefert die
+Korrektur selbst.**
+
+### Was der Bot nicht tut
+
+**Die Adresse wird nicht geändert.** Nach `runbook.md` ist der einzige
+zulässige schreibende Shopify-Vorgang die Erstattung bei einem bestätigten
+Regel-4-Fall; alles andere ist Entwurf und Label. Eine Änderung an der
+Bestellung eines Kunden fällt nicht darunter. **Die Korrektur gehört in den
+Admin, durch den Owner — vor dem Versand.**
+
+→ `Bot/Needs Approval`.
+**Kein Eskalationstrigger:** keine Forderung, keine Werbeaussage, keine Frist,
+keine Behörde, Erstkontakt, freundlicher Ton.
+**Nicht auf der Erstattungsliste** — nichts zu erstatten.
+
+### Entwurf
+
+Volltext in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#8505**.
+
+**Nicht getan:** keine Adressänderung in Shopify, keine Bestätigung, dass die
+Adresse geändert wurde, kein Versanddatum, kein Zustelltermin, kein Label
+gesetzt.

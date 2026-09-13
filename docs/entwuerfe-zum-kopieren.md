@@ -1910,6 +1910,38 @@ Bewertungen wird ausdrücklich nichts behauptet.
 
 ---
 
+## #8505 — johnmarsh443@gmail.com — fehlende Hausnummer
+
+**Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff
+`Re: Order #8505 confirmed`.
+**⚠️ Zeitkritisch: die Bestellung ist `UNFULFILLED` und Septemberbestellungen
+gehen in ein bis drei Tagen raus. Die Adresse muss VOR dem Versand im Admin
+korrigiert werden — der Text sagt ihm deshalb nicht, dass es bereits erledigt
+ist.**
+
+> Dear John,
+>
+> Thank you for catching that so quickly — and you are right. The shipping
+> address on order #8505 reads "Ermine Close, Ancaster, Grantham NG32 3RD" with
+> no house number on it, so 6 Ermine Close is exactly the missing piece.
+>
+> I have passed the correction on to be made on the order before it is
+> dispatched. I am not going to tell you it is already changed, because I would
+> rather you heard that when it actually is.
+>
+> Nothing has shipped yet, so there is time. If you want to be certain before it
+> goes, reply here and I will confirm once the change is on the order.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe der Korrektur **und** eine Bestätigung, wenn
+sie gemacht ist, falls er nachfragt. **Keine Bestätigung, dass die Adresse
+bereits geändert wurde**, kein Versanddatum, kein Zustelltermin, keine
+Erstattung.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
