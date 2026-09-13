@@ -2514,6 +2514,47 @@ Zusteller.
 
 ---
 
+## #6833 — kwendland123@gmail.com — „How do I return these and get a refund???"
+
+**Neu geschrieben am 13.09.** Antwort im bestehenden Thread.
+**Sie fragt nach dem Verfahren. Es gibt keins — das wird eingeräumt, nicht
+umschifft. Beide Teile sind zerstört, also keine Regel-2-Rückfrage.**
+
+> Dear Karen,
+>
+> Five minutes, after weeks of waiting for them. I am not going to open by
+> quoting our returns policy at you.
+>
+> On your question about the advertising: you are quoting the product's own
+> name. It is sold as "Plushies – Designed for Furry Friends Who Destroy
+> Everything", so that is not something you read into it — that is what it says
+> on the order you placed. Whether the product lives up to it is a fair question
+> and not one a support desk settles.
+>
+> On how to return them, I owe you an awkward answer rather than a tidy one: I
+> do not have a returns address to give you. We do not currently have one on
+> file, and I am not going to invent one and have your parcel go nowhere. You
+> are the sixth person in two days to ask me that same question, so it is not
+> about your order — it is something the business has to fix, and I have said so
+> in those words.
+>
+> Your order, your question about the advertising and your refund request have
+> gone to the owner of the business this evening. You will get a direct answer
+> rather than a standard one.
+>
+> The other thing worth saying: you ordered on 20 August and the parcel was not
+> handed to the courier until 2 September. Thirteen days, before the shipping
+> itself started, and nobody told you that was happening.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage und keine Ablehnung, kein Betrag,
+**keine Rücksendeadresse** — das Fehlen wird ausdrücklich eingeräumt, keine
+Frist. Der Artikelname wird bestätigt, weil er an den Shopify-Daten belegt ist.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

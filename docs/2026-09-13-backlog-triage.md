@@ -933,3 +933,54 @@ Fassung)** und **#8321**.
 **Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, Trustpilot
 nicht aufgerufen, keine Aussage über den Inhalt ihrer Bewertung, keine
 Zustellprognose, keine 7–21-Tage-Formel, kein Label gesetzt.
+
+---
+
+## Lauf 19:20 UTC — 🚩 #6833 Karen Wendland
+
+**18:22**, vollständiger Text:
+
+> „After **several weeks of waiting** for this order to be delivered, **my dogs
+> ripped these toys apart within 5 minutes** of getting them! **How can you
+> advertise that these are great for dogs that destroy everything?** These are
+> the worst dog toys i have ever purchased. **Made soo cheap!** **How do I
+> return these and get a refund???**"
+
+**Shopify:** #6833, bestellt **20.08. 15:05**, **30,56 £**, `PAID` /
+`FULFILLED`, Tag `Kaching Bundles`, **2 × Plushie** (monkey, elephant), versandt
+**02.09. 10:34** ab Kirchstr. 2, **JQ Express US `JCHSG0000004362691`**, Medina,
+Ohio. **Dreizehn Tage** bis zum Versand.
+
+### Drei Punkte
+
+**1. Sie zitiert den Artikelnamen als Werbeaussage.** „**great for dogs that
+destroy everything**" — der Shopify-Artikelname lautet „Plushies – **Designed
+for Furry Friends Who Destroy Everything**". **Belegt**, wie bei #5829, #8343
+und #6882. Ihr Vorwurf trifft die eigenen Stammdaten, nicht eine Erinnerung.
+
+**2. Sie fragt nach dem Rückgabeverfahren** — „**How do I return these and get a
+refund???**". **Sechste Kundin binnen zwei Tagen mit dieser Frage**, nach #6781,
+#7246, #6528, #5973 und #5186. **Alle sechs sind unbeantwortbar: es gibt keine
+Rücksendeadresse. Der Blocker ist heute 31 Tage alt.**
+
+**3. Beide Teile sind zerstört** — „these toys", „ripped these toys apart". Kein
+Regel-2-Rest, keine Rückfrage nötig. **Das unterscheidet sie von den acht
+offenen Fällen mit einem möglicherweise unbenutzten zweiten Teil.**
+
+**Fünf Minuten** — gemeinsam mit **#7383 JoAnn Jinks** (12.09.) und
+**becca23047** (12.09.) die kürzeste gemeldete Nutzungsdauer im Projekt.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage gegen den belegten Artikelnamen,
+ausdrückliche Erstattungsforderung.
+
+**Nicht auf der Erstattungsliste** — Kauschaden, beide Teile benutzt, kein
+Regelfall.
+
+### Entwurf
+
+Volltext in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#6833**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, **kein
+Rücksendeverfahren beschrieben und keine Adresse erfunden** (es gibt keine),
+keine Zustellprognose, kein Label gesetzt.
