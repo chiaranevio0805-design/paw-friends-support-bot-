@@ -2008,6 +2008,47 @@ Erstattung. Keine Erstattungszusage, kein Zustelltermin, keine
 
 ---
 
+## #2894 — jeff.hughes@yahoo.co.uk — Ersatz seit dem 24. Juli zugesagt
+
+**Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff
+`Re: Order Number 2894`.
+**Sechster Nachfassversuch. Die Zusage steht seit 51 Tagen. Eine Wiederholung
+von „wir kümmern uns darum" ist hier ausgeschlossen — genau das hat er seit
+Ende Juli bekommen.**
+
+> Dear Jeff,
+>
+> You asked on 13 August how long a customer should reasonably accept this going
+> on. Nobody answered you then, and it has now been another month. So let me
+> answer it: not this long, and not with another assurance.
+>
+> Here is the position without any softening. Your fox arrived torn on 23 July.
+> A replacement was confirmed to you on 24 July. It is now 13 September, and I
+> have checked our records: **no replacement was ever created.** Not delayed, not
+> lost in transit — never raised. You have chased it on 29 July, 31 July, 5
+> August, 13 August, 27 August and again today, and each time you were told it
+> was being looked into.
+>
+> I am not going to tell you it is being looked into.
+>
+> What I have done instead is put it in front of the owner of the business as an
+> outstanding commitment with the date on it — order #2894, £19.95, replacement
+> promised 24 July, 51 days — because sending it or refunding you is their
+> decision and repeating the promise from this desk would be the seventh time.
+>
+> You have been considerably more patient than this deserved.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** **keine neue Ersatzzusage und keine Erstattungszusage** —
+bewusst. Zugesagt ist ausschliesslich die Vorlage beim Owner. Der Befund „nie
+angelegt" ist aus Shopify belegt und wird ihm offen gesagt; ihn zu verschweigen
+wäre nach `support-policy.md` genau die Art von Beschönigung, die
+ausgeschlossen ist.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

@@ -233,3 +233,97 @@ Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#7119** und
 **Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, keine
 Zustellprognose, keine 7–21-Tage-Formel, kein Verweis an den Zusteller, kein
 Anlass erfragt oder unterstellt, kein Label gesetzt.
+
+---
+
+## Lauf 10:20 UTC — 🚩🚩 #2894 Jeff Hughes: eine Ersatzlieferung, zugesagt am 24. Juli
+
+**09:28**, vollständiger Text:
+
+> „Hi, **Can you arrange for this to be sorted out ASAP please.** Jeff"
+
+**Shopify:** #2894, bestellt **11.07.2026 14:02**, **19,95 £**, `PAID` /
+`FULFILLED`, 1 × Plushie (fox), versandt **14.07. 07:50** ab Kirchstr. 2,
+**SunSu Packet `SYGB022179102`**, Northwich, England.
+**In Shopify existiert nur diese eine Sendung. Eine Ersatzlieferung ist nie
+angelegt worden.**
+
+### Der Vorgang, aus den eigenen Logs
+
+| Datum | Was im Log steht |
+|---|---|
+| **23.07.** | Ware **mit einem Riss angekommen**, Foto beigefügt. Log: „now genuinely defective on arrival". **Ersatz (elephant oder fox) wird bestätigt**, Rücksendung ausdrücklich nicht verlangt. `Bot/Needs Approval` |
+| **24.07.** | **Ersatz zugesagt** — „I'll be back in touch shortly to confirm" |
+| **29.07.** | Erste Nachfrage. Log: „no shipped update yet" |
+| **31.07.** | Zweite Nachfrage |
+| **05.08.** | Dritte Nachfrage. **Hochgestuft auf `Bot/Escalated - Owner Attention`**, Log: „replacement promised 24 July, **still not dispatched nearly two weeks later**" |
+| 06.08. | Antwort aus dem Postfach |
+| **13.08.** | „**If you were the customer, how long would you reasonably accept this scenario to go on?**" — im Postfach mit `Label_7` versehen |
+| **27.08.** | „Ok, so where are we up to with this now? It's taking a while." |
+| **13.09.** | „Can you arrange for this to be sorted out ASAP please." |
+
+### Was das heisst
+
+**Die Ersatzlieferung ist seit dem 24. Juli zugesagt. Heute sind das
+einundfünfzig Tage.** In Shopify ist sie **nie angelegt worden**.
+
+**Das ist die dritte offene Ersatzzusage** — und die mit Abstand älteste:
+
+| Fall | zugesagt | offen seit |
+|---|---|---|
+| **#2894 Jeff Hughes** | **24.07.** | **51 Tage** |
+| #4317 Charles Rivera | 19.08. | 25 Tage |
+| Gary Sanderson | 19.08. | 25 Tage |
+
+**Er hat mindestens sechsmal nachgefasst** — 29.07., 31.07., 05.08., 13.08.,
+27.08., heute — **und ist in jeder einzelnen Mail höflich geblieben.** Seine
+Frage vom 13.08. steht seit einem Monat unbeantwortet im Postfach:
+
+> „If you were the customer, **how long would you reasonably accept this
+> scenario to go on?**"
+
+**Der Fall war am 05.08. bereits eskaliert** und trägt seit dem 13.08. das
+Escalated-Label. Er ist seither nicht gelöst worden.
+
+→ `Bot/Escalated - Owner Attention`, **hohe Priorität wegen der Dauer**.
+**Eskalationsgrund:** seit 51 Tagen zugesagte, nie ausgeführte Ersatzlieferung;
+mindestens sechster unbeantworteter Nachfassversuch; bereits am 05.08.
+eskaliert und seither unverändert.
+
+**✅ Auf der Erstattungsliste — und zwar als Regelfall.**
+**#2894 — 19,95 £ — Jeff Hughes — defekt angekommen (Riss bei Ankunft, Foto vom
+23.07.).** Das ist **Regel 1**. Der Anspruch besteht unabhängig davon, dass
+stattdessen ein Ersatz zugesagt wurde; wird der Ersatz nicht geschickt, ist der
+Kaufpreis zu erstatten. **Bisher stand dieser Fall nicht auf der Liste** — er
+gehört dorthin.
+
+---
+
+### Ohne neue Nachricht wieder aufgetaucht
+
+**Kimberley Shenton (`kim.shenton@me.com`)** — keine neue Kundenmail; die letzte
+bleibt **20.08. 06:26** („I would appreciate a response and a resolve on this
+matter asap please").
+
+**Der Vorgang ist trotzdem offen und gehört benannt:** Sie hat am **15.08.** um
+Rückgabe gebeten („due to the quality"), am **16.08.** begründet — „**It is not
+as advertised or pictured**" — und am **20.08.** nachgefasst. Die Antwort vom
+**21.08.** fragte nach der **Bestellnummer**, die zuvor schon einmal erfragt
+worden war. **Seither ist nichts passiert.**
+
+**In Shopify ist zu dieser Adresse keine Bestellung über die E-Mail-Suche
+auffindbar.** Nach dem Befund vom 12.09. (googlemail/gmail) wäre die
+**Namenssuche** der nächste Schritt — sie ist hier **möglich**, weil der Name
+bekannt ist: **Shenton**. Das gehört im Admin geprüft, bevor sie ein drittes Mal
+nach ihrer Bestellnummer gefragt wird.
+
+→ Kein neuer Eintrag, kein neues Label. **Vermerkt, weil der Vorgang seit 24
+Tagen stillsteht und die Rückfrage nach der Bestellnummer vermeidbar ist.**
+
+### Entwurf
+
+Volltext in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#2894**.
+
+**Nicht getan:** keine Ersatzzusage wiederholt, keine Erstattung zugesagt, kein
+Liefertermin, keine Bestellnummer für Kimberley Shenton geraten, kein Label
+gesetzt.
