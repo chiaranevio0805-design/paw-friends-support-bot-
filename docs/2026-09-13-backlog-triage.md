@@ -394,3 +394,135 @@ Volltext in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#6835**.
 **Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt oder
 abgelehnt, keine Frist akzeptiert oder festgelegt, keine Werbeformulierung
 bestritten, kein Anteil geschätzt, kein Label gesetzt.
+
+---
+
+## Lauf 12:20 UTC — zwei weitere Absagen, zwei weitere Eskalationen, und ein dritter Zeuge für die Ersatzzusage
+
+### Zwei Vorlagen-Absagen heute Vormittag
+
+| Absage | Kunde | Reaktion | Abstand |
+|---|---|---|---|
+| **10:42:05** | **#7223 Christopher Dechon** | „You guys lie. **I'll be spreading this as much as I can**" | **52 Min** |
+| **10:49:13** | **#7179 Keith Crane** (2. Absage) | „I want my money back for those two **at least**!" | **45 Min** |
+
+**Damit: zwölf von zwölf.** Sieben am 11.09., drei am 12.09., zwei heute —
+**keine einzige Ausnahme.**
+
+---
+
+### 🚩 #7179 Keith Crane — der Regel-2-Anspruch ist jetzt zum dritten Mal abgelehnt worden
+
+**11:34:**
+
+> „**I have two in the packages still. I ordered three of them!** I certainly
+> **don't want them!!!** **I want my money back for those two at least!** What a
+> horrible company. Scamming people with these pieces of…"
+
+**Er hat es jetzt dreimal gesagt:**
+
+| Datum | Wortlaut |
+|---|---|
+| 09.09. 23:29 | „**I only opened the donkey.** I would like to return these" |
+| 11.09. 10:39 | „**I still have two unopened!**" |
+| **13.09. 11:34** | „**I have two in the packages still.** … money back for those two **at least**" |
+
+**Und dreimal ist die Kauschaden-Vorlage gekommen** — am 11.09. 09:58 und heute
+10:49. **Beide Male hat sie „a refund, replacement, or exchange" pauschal
+abgelehnt** und damit auch die zwei **ungeöffneten** Plüschtiere.
+
+**Das ist ein unstrittiger Regel-2-Anspruch**, dreimal vorgetragen, zweimal
+pauschal abgelehnt. **Dazu weiterhin unbeantwortet: seine Sicherheitsmeldung
+vom 09.09. — „my dog… is now eating the cotton" — jetzt seit 84 Stunden.**
+
+→ `Bot/Escalated - Owner Attention`, **Priorität hoch**.
+**Auf der Erstattungsliste** (steht dort seit dem 11.09.): Anteil für **zwei von
+drei ungeöffneten** Plüschtieren, Regel 2 — Betrag im Admin (Kaching-Bundle,
+35,64 £ gezahlt).
+
+---
+
+### 🚩 #7223 Christopher Dechon — öffentliche Verbreitung angekündigt
+
+**Shopify:** #7223, bestellt **22.08. 17:56**, **28,50 £**, `PAID` /
+`FULFILLED`, Tag `Kaching Bundles`, 2 × Plushie (monkey, elephant), versandt
+**02.09. 10:54** ab Kirchstr. 2, **Yanwen Special Line US `UL476311692YP`**,
+Wyckoff, New Jersey. **Elf Tage** bis zum Versand.
+
+Erste Mail **10.09. 20:29**: „My **60 pounds lab** had these toys for **20
+minutes** and tore them to shreds. What a joke."
+Absage **heute 10:42**. Antwort **11:34**:
+
+> „**You advised it as a durable dog toy.** It was a piece of shit. **You guys
+> lie. I'll be spreading this as much as I can.**"
+
+**„Durable dog toy"** — der Wortlaut „**durable**" ist am 12.09. **wörtlich in
+der Shopify-Produktbeschreibung nachgewiesen** worden („Rope-reinforced
+construction for **extra durability**", „designed with **durability** in mind").
+Sein Vorwurf trifft belegten Text.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** angekündigte öffentliche Verbreitung, Vorwurf der Lüge,
+bestrittene Werbeaussage gegen einen belegten Produkttext.
+**Nicht auf der Erstattungsliste** — Kauschaden; beide Teile zerstört, kein
+Regel-2-Rest.
+
+---
+
+### 🚩🚩 #5436 Shirley Hemstock — dritte unabhängige Nennung einer Garantie für den Zerstörungsfall
+
+**12:16**, mit Foto:
+
+> „my dog has managed to **destroy the giraffe**, (**having not given him the
+> duck yet**). **I think you offer 30 day money back offer if the toy gets
+> destroyed?**"
+
+**Shopify:** #5436, bestellt **10.08. 11:01**, **27,95 £**, `PAID` /
+`FULFILLED`, Tag `Kaching Bundles`, 2 × Paw-Friends™-Fluffys (giraffe, Duck),
+versandt **13.08. 10:45** ab Kirchstr. 2, Yanwen Special Line `UL418684902YP`,
+South Wonston, England. **Drei Tage** bis zum Versand.
+
+**Zwei Befunde:**
+
+**1. Sie beschreibt die Garantie als eine, die den Zerstörungsfall deckt.**
+„**30 day money back offer if the toy gets destroyed**". Sie zitiert nichts
+wörtlich und ist sich unsicher („I think") — **aber es ist die dritte
+unabhängige Kundin, die die Garantie so verstanden hat**:
+
+| Datum | Kunde | Wortlaut |
+|---|---|---|
+| 11.09. | #7060 Felecia Pierce | „indestructible **or you get a refund**" |
+| 11.09. | #5851 Jeff Williams | „if a dog destroys this toy then you would **replace it free**" |
+| **13.09.** | **#5436 Shirley Hemstock** | „30 day money back offer **if the toy gets destroyed**" |
+
+Dazu kommt **#7292 tracy hartley** (12.09.), die den veröffentlichten
+Garantietext mit „**for any reason**" zitiert und feststellt, dass dort **keine**
+Unbenutzt-Bedingung steht.
+
+**Vier Kunden, vier Formulierungen, dieselbe Richtung.** Der Bot hat den
+Garantietext **nicht** prüfen können — er steht nicht im Beschreibungsfeld des
+Produkts (Befund vom 12.09.). **Die Prüfung auf der Live-Seite ist damit die
+einzelne offene Frage, an der die meisten aktuellen Fälle hängen.**
+
+**2. Der Duck ist ungeöffnet** — sie sagt es ausdrücklich und ungefragt. **Das
+ist ein klarer Regel-2-Fall**, ohne dass eine Rückfrage nötig wäre. Erster Fall
+seit dem 12.09., bei dem der Kunde von sich aus klarstellt, dass ein Teil
+unbenutzt ist.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene bzw. abweichend verstandene Garantiezusage,
+dritte unabhängige Nennung derselben Lesart.
+
+**✅ Auf die Erstattungsliste:** Anteil für den **ungeöffneten Duck**, Regel 2 —
+Betrag im Admin zu bestimmen (Kaching-Bundle: 2 × 19,95 £ Listenpreis gegen
+27,95 £ gezahlt). **Die zerstörte Giraffe bleibt Kauschaden** und steht nicht
+darauf — es sei denn, die Prüfung des Garantietextes ergibt etwas anderes.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#5436**, **#7223**
+und **#7179 (zweite Fassung)**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, **der
+Garantietext weder bestätigt noch bestritten**, keine Rücksendeadresse, kein
+Anteil geschätzt, kein Label gesetzt.

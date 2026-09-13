@@ -2087,6 +2087,123 @@ ist** — mehr nicht.
 
 ---
 
+## #5436 — shirleyhemstock@yahoo.co.uk — Duck ungeöffnet, Garantie für den Zerstörungsfall
+
+**Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff
+`Re: A shipment from order #5436 is on the way`.
+**Sie hat von sich aus gesagt, dass der Duck ungeöffnet ist — das ist ein klarer
+Regel-2-Fall. Der Garantietext, den sie vermutet, ist ungeprüft und wird weder
+bestätigt noch bestritten.**
+
+> Dear Shirley,
+>
+> Thank you for the photo, and for saying plainly that the duck has not been out
+> of its packaging — that matters more than you might think.
+>
+> Taking your two things separately.
+>
+> The duck first, because it is the straightforward one. An unused toy still in
+> its packaging is exactly what our 30-day guarantee is written for. You are not
+> asking for an exception there. What I cannot do yet is tell you how to send it
+> back: we do not currently have a returns address on file. That is our problem,
+> not a condition I am putting on you, and I have said so to the owner of the
+> business along with your order.
+>
+> The giraffe and your question about the guarantee. You have asked whether the
+> 30 days covers a toy that gets destroyed. I am not going to answer that with a
+> flat no, and I am not going to tell you yes either — I have not been able to
+> verify the exact wording of the published guarantee myself, and you are the
+> fourth customer in three days to read it the way you have. That is not a
+> coincidence I am going to talk around. It has gone to the owner as the actual
+> question it is.
+>
+> You will get a direct answer on both.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage, kein Betrag, keine
+Rücksendeadresse, keine Frist. Der **Regel-2-Anspruch für den Duck wird
+eingeräumt**, die Abwicklung ausdrücklich als offen benannt. Der Garantietext
+wird **nicht ausgelegt**.
+
+---
+
+## #7223 — cdech86@gmail.com — „You guys lie"
+
+**Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff
+`Re: A shipment from order #7223 is on the way`.
+**Zweite Vorlage heute an ihn raus — keine dritte.**
+
+> Dear Christopher,
+>
+> The reply you got this morning was a standard one, and you spotted it as such
+> in under an hour. I am not going to send you a second version of it.
+>
+> On the word you used: you said we advertised a durable dog toy. You are right
+> that we did — our own product page talks about rope-reinforced construction
+> for extra durability and says the toys are designed with durability in mind. I
+> have checked, and that wording really is there. So I am not going to stand
+> here and tell you that you misread it.
+>
+> Twenty minutes with a sixty-pound lab is twenty minutes. Whether the product
+> lives up to that description is not a question a support desk settles, and I
+> am not going to fudge it with a policy paragraph. Order #7223 and both of your
+> emails have gone to the owner of the business.
+>
+> On spreading it: that is your call, and it will not change how this is
+> handled here.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** ausschliesslich die Weitergabe. Keine Erstattungszusage,
+kein Betrag. **Bestätigt wird nur der Produkttext, der an den Shopify-Daten
+belegt ist.**
+
+---
+
+## #7179 — keithhyype@gmail.com — ZWEITE FASSUNG, nach der zweiten Absage
+
+**Neu geschrieben am 13.09.** Ersetzt die Fassung vom 11.09., die nie gesendet
+wurde. Antwort im bestehenden Thread, Betreff `Re: Junk`.
+**⚠️ Er hat inzwischen eine zweite Vorlagen-Absage bekommen (13.09. 10:49).
+Die alte Fassung setzt das nicht voraus und darf nicht mehr gesendet werden.**
+
+> Hi Keith,
+>
+> You have now told us three times that two of the three are still sealed —
+> on 9 September, on 11 September and again this morning — and twice you have
+> been sent a message refusing "a refund, replacement, or exchange" across the
+> whole order. That second one went out today. It should not have.
+>
+> To be clear where I stand: you are right. Two unopened toys in their original
+> packaging are exactly what our 30-day guarantee is written for. The chewed
+> donkey is a separate question. Nobody here should have been treating all three
+> as one thing, and I am not going to defend it.
+>
+> I am not able to approve the refund from this desk, so I am not going to
+> promise you a figure and have it reversed. What I have done is put order #7179
+> in front of the owner of the business with the three dates on it and with the
+> two unopened toys stated separately from the chewed one.
+>
+> The other thing, which still has not been answered and matters more than the
+> money: on 9 September you wrote that your dog was eating the cotton. If he has
+> shown any vomiting or retching, gone off his food, strained without producing
+> anything, or seemed hunched or uncomfortable at any point since, please ring
+> your vet. If he has been fine all week, that is genuinely reassuring — but
+> nobody should have left that sitting for four days, and I am sorry.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage, kein Betrag, keine
+Rücksendeadresse, keine Frist. Der Regel-2-Anspruch wird **eingeräumt**, die
+Entscheidung ausdrücklich dem Owner zugeordnet. Die Sicherheitsmeldung wird
+nachgeholt.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
