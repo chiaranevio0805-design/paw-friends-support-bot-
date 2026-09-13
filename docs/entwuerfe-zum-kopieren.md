@@ -1873,6 +1873,43 @@ Erstattung. Keine Erstattungszusage, kein Zustelltermin, keine
 
 ---
 
+## #7645 — bettybrown0610@gmail.com — „False advertisement and comments from customers"
+
+**Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff `Re: Toy`.
+**Sie fordert nichts. Keine Absage, kein Angebot. Die Bewertungsfrage wird
+weder bestätigt noch bestritten — der Bot hat keine Bewertungsseite geprüft.**
+
+> Dear Betty,
+>
+> Ten minutes, on the day it arrived. I am not going to answer that with our
+> returns policy, because you have not asked me for anything.
+>
+> On the description: you say the toy is not for heavy chewers. Our own product
+> page says "anti-tear design built for strong chewers" — I have checked, and
+> that wording really is there. So the gap you are pointing at is between what
+> we wrote and what turned up at your door, and that is not something I can talk
+> you out of.
+>
+> On the customer comments: I am not going to tell you they are all genuine, and
+> I am not going to tell you they are not. I have not verified them and I would
+> rather say so than reassure you about something I have not checked. Your point
+> has gone to the owner of the business along with your order, in your words.
+>
+> One question rather than an assumption: your order was for three things — the
+> hippo, the donkey and the Zahnbuddy. You have written about one. Are the other
+> two still unused and in their packaging? If they are, that is a different case
+> from the chewed one and it matters for what can be done here.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** ausschliesslich die Weitergabe. Keine Erstattungszusage,
+kein Ersatz, kein Betrag, keine Rücksendeadresse, keine Frist. **Bestätigt wird
+nur der Produkttext, der an den Shopify-Daten belegt ist** — über die
+Bewertungen wird ausdrücklich nichts behauptet.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
