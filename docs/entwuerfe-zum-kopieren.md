@@ -1942,6 +1942,72 @@ Erstattung.
 
 ---
 
+## #7119 — susanmcgee@outlook.com.au — Chargeback angekündigt, Nummer liegt vor
+
+**Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff
+`Re: ORDER #7119`.
+**Sie verlangt nur die Sendungsnummer. Die Nummer ist der ganze Inhalt — sie
+gehört in den ersten Satz.**
+
+> Dear Susan,
+>
+> Here is the tracking number, which is the thing you asked for:
+> **VR959018244YP**, with Yanwen Registered Airmail. You can follow it at
+> https://t.17track.net/en#nums=VR959018244YP.
+>
+> It should not have taken an email and the threat of a chargeback to get that
+> to you. The number has existed since 2 September, when the parcel was handed
+> over, and it should have been sent to you then.
+>
+> The rest, plainly: you ordered on 22 August and it was eleven days before the
+> parcel was dispatched. That wait was on our side, not the courier's, and
+> nobody explained it to you.
+>
+> I am not going to give you a delivery date, because I would be guessing. If
+> the tracking has not moved when you next look, write back and I will chase
+> Yanwen rather than send you an estimate.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** die Sendungsnummer (belegt) und Nachfassen beim Zusteller,
+wenn sie erneut schreibt. Keine Erstattungszusage, kein Zustelltermin, keine
+7–21-Tage-Formel, kein Verweis an den Zusteller.
+
+---
+
+## #8009 — vonnie1982@hotmail.co.uk — der Termin ist vorbei
+
+**Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff `Re: #8009`.
+**Sie muss ihren Anlass nicht belegen — der Text fragt nicht danach.**
+
+> Dear Mrs Ware,
+>
+> I am sorry the date you needed these for has passed. That is the part that
+> actually matters and I am not going to ask you what the occasion was.
+>
+> Where the order stands: it was placed on 28 August and dispatched on 8
+> September with Yanwen, tracking number UL493229620YP, which you can follow at
+> https://t.17track.net/en#nums=UL493229620YP. Eleven days went by before the
+> parcel was handed over, and that wait was ours.
+>
+> On the refund: I am not in a position to approve it from this desk, and I am
+> not going to refuse it on someone else's behalf. Your request has gone to the
+> owner of the business this morning with the dates above, and you will get a
+> straight answer.
+>
+> I am not going to offer you a delivery date instead. The date that mattered
+> has gone, and another estimate would not help.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** die Sendungsnummer und eine klare Antwort des Owners zur
+Erstattung. Keine Erstattungszusage, kein Zustelltermin, keine
+7–21-Tage-Formel, **keine Rückfrage nach dem Anlass**.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

@@ -142,3 +142,94 @@ Volltext in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#8505**.
 **Nicht getan:** keine Adressänderung in Shopify, keine Bestätigung, dass die
 Adresse geändert wurde, kein Versanddatum, kein Zustelltermin, kein Label
 gesetzt.
+
+---
+
+## Lauf 09:20 UTC — #7119 und #8009
+
+### 🚩 #7119 Susan McGee — Chargeback angekündigt, weil die Sendungsnummer fehlt
+
+**08:33**, Betreff „ORDER #7119":
+
+> „I have **not received these items** & **I have not got a tracking number**.
+> Please supply this **or I will have to have this payment reversed by the
+> bank**."
+
+**Shopify:** #7119, bestellt **22.08. 04:43**, **28,50 £**, `PAID` /
+`FULFILLED`, Tag `Kaching Bundles`, 2 × Plushie (pig, fox), versandt
+**02.09. 10:49** ab Kirchstr. 2, **Yanwen Registered Airmail `VR959018244YP`**,
+Blackstone Heights, Tasmanien. **Elf Tage** bis zum Versand.
+
+**Die Sendungsnummer existiert seit dem 02.09. — seit elf Tagen — und sie hat
+sie nicht.**
+
+**Das ist der sechste Fall dieser Art in drei Tagen:**
+
+| Kunde | Nummer vorhanden seit | Ausgang |
+|---|---|---|
+| #7525 Carol Garvey | 03.09. | nicht genannt, sie bedankt sich trotzdem |
+| #7547 Luke Prior | 03.09. | nicht genannt, will stornieren |
+| **#7190 Steve Solley** | 02.09. | nicht genannt, **48-Stunden-Frist läuft heute ab** |
+| #4726 Marilyn Penniall | 22.08. | nicht genannt, dritter Kontakt |
+| #7627 Charlotte Matthews | 03.09. | nicht genannt, „won't purchase again" |
+| **#7119 Susan McGee** | 02.09. | nicht genannt, **Chargeback angekündigt** |
+
+**Dieser Fall ist der einfachste von allen sechs und der einzige, der sich mit
+einer einzigen Zeile auflösen lässt:** sie verlangt ausdrücklich nur die
+Nummer und knüpft die Rückbuchung daran, sie **nicht** zu bekommen.
+`VR959018244YP` liegt vor.
+
+**Derselbe Ablauf hat bei #7771 Barb Fitzgerald zu einer tatsächlichen
+Chargeback-Frist geführt** — dort ist die Nummer bis heute nicht genannt worden.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** angekündigte Rückbuchung über die Bank.
+**Nicht auf der Erstattungsliste** — kein Regelfall, Ware unterwegs.
+
+---
+
+### #8009 Yvonne Ware — der Termin ist vorbei
+
+**09:16**, Betreff „#8009", vollständiger Text:
+
+> „Can I please have my money back, as **the date I wanted the order has now
+> been and gone**!"
+
+**Shopify:** #8009, bestellt **28.08. 09:26**, **27,95 £**, `PAID` /
+`FULFILLED`, Tag `Kaching Bundles`, 2 × Plushie (frog, Little Bear), versandt
+**08.09. 07:32** ab Kirchstr. 2, Yanwen Special Line `UL493229620YP`, Hull,
+England. **Elf Tage** bis zum Versand.
+
+**Sie nennt keinen Termin und sagt nicht, ob sie ihn dem Shop mitgeteilt hat.**
+**Das wird nicht angenommen und nicht rekonstruiert.** Aus den Daten geht
+hervor: bestellt am 28.08., versandt am 08.09., bis heute nicht angekommen —
+**sechzehn Tage nach der Bestellung**.
+
+**Kein Regelfall.** Regel 3 deckt Stornierungen **vor** Versand; hier wurde am
+08.09. versandt. Eine Erstattung wegen eines verpassten Anlasses ist
+**Owner-Entscheidung**.
+
+→ `Bot/Needs Approval`. Sagbar: Versanddatum, Zusteller, Nummer, Trackinglink,
+und offen, dass elf Tage bis zum Versand vergingen. **Nicht sagbar:** ein
+Zustelltermin, die 7–21-Tage-Formel, und **keine Rückfrage nach dem Anlass** —
+sie muss ihren Grund nicht belegen.
+
+**Nicht auf der Erstattungsliste** — kein Regelfall.
+
+---
+
+### Nebenbefund zur Versanddauer
+
+**#8009 wurde am 28.08. bestellt und am 08.09. versandt — elf Tage.** Das
+bestätigt die Einordnung vom 12.09.: die schnellen Versandzeiten (ein bis drei
+Tage) betreffen **Septemberbestellungen**; Augustbestellungen liegen weiterhin
+bei neun bis siebzehn Tagen, unabhängig davon, wann sie tatsächlich rausgingen.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#7119** und
+**#8009**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, keine
+Zustellprognose, keine 7–21-Tage-Formel, kein Verweis an den Zusteller, kein
+Anlass erfragt oder unterstellt, kein Label gesetzt.
