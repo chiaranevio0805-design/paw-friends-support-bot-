@@ -2049,6 +2049,44 @@ ausgeschlossen ist.
 
 ---
 
+## #6835 — tesa.allen@hotmail.co.uk — „so called indestructible", 29,95 £ gefordert
+
+**Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff
+`Re: Order #6835 confirmed`.
+**Der geforderte Betrag stimmt mit Shopify überein — er darf genannt werden.
+Die Werbeformulierung „indestructible" steht nicht in der Produktbeschreibung;
+der Text bestreitet sie trotzdem nicht.**
+
+> Dear Mr Allen,
+>
+> Thank you for the photos, and for the amount — £29.95 is exactly what the
+> order shows, so there is nothing to work out between us on that.
+>
+> Less than an hour, with a twelve-month-old Schnoodle. I am not going to
+> suggest that is unusual handling, and I am not going to send you our
+> durability paragraph.
+>
+> On the refund: you have asked for it directly, so I will be straight rather
+> than smooth. I am not in a position to approve it from this desk, and I am not
+> going to refuse it on someone else's behalf. Order #6835 and both photos have
+> gone to the owner of the business this morning with your request, and you will
+> get a yes or a no rather than a policy paragraph.
+>
+> One question rather than an assumption: your order was for two, the Little
+> Bear and the hippo, and you have written about one being destroyed. Is the
+> other still unused and in its packaging? If it is, that is a separate case
+> from the chewed one and it changes how this is handled.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage und keine Ablehnung, keine
+Rücksendeadresse, keine Frist. Zugesagt sind die Vorlage beim Owner und eine
+klare Antwort. **Der Betrag 29,95 £ wird bestätigt, weil er an Shopify belegt
+ist** — mehr nicht.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

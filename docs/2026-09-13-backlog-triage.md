@@ -327,3 +327,70 @@ Volltext in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#2894**.
 **Nicht getan:** keine Ersatzzusage wiederholt, keine Erstattung zugesagt, kein
 Liefertermin, keine Bestellnummer für Kimberley Shenton geraten, kein Label
 gesetzt.
+
+---
+
+## Lauf 11:20 UTC — 🚩 #6835 Terry Allen
+
+**11:11**, Betreff „Re: Order #6835 confirmed", mit **zwei Fotos**
+(`5436.jpg`, `5105.jpg`):
+
+> „I have just **finally** received the attached order of **so called
+> indestructible** dog toys. Sadly my **12 month old Schnoodle** as pictured has
+> managed to **destroy one in less than 1 hour** again as attached. I now expect
+> **as a minimum a full refund of £29.95**. **Await your response by return.**"
+
+**Shopify:** #6835, bestellt **20.08. 15:34**, **29,95 £**, `PAID` /
+`FULFILLED`, Tag `Kaching Bundles`, **2 × Plushie** (Little Bear, hippo),
+versandt **02.09. 10:34** ab Kirchstr. 2, Yanwen Special Line `UL476291794YP`,
+Milton Keynes, England. **Dreizehn Tage** bis zum Versand.
+
+### Vier Punkte
+
+1. **Der Betrag stimmt exakt.** Er nennt **29,95 £**, Shopify weist **29,95 £**
+   aus. **Keine Währungsdifferenz** — anders als bei #7179 (48 USD / 35,64 £),
+   #6882 (58,56 AUD / 30,66 £) und #7292 (38,90 USD / 28,50 £). Das ist der
+   erste Fall seit Tagen, in dem der vom Kunden genannte Betrag ohne Umrechnung
+   belegbar ist.
+
+2. **„As a minimum"** — er lässt ausdrücklich offen, dass er mehr verlangen
+   könnte. **„Await your response by return"** ist eine Frist, ohne dass ein
+   Datum genannt wird. **Der Bot legt keines fest und unterstellt keines.**
+
+3. **Er nennt den Hund: ein zwölf Monate alter Schnoodle.** Er führt das selbst
+   als Kontext an. Der Bot bewertet das nicht und leitet daraus nichts ab.
+
+4. **Zweites Teil ungeklärt.** Bestellt sind **zwei** Plüschtiere (Little Bear
+   und hippo), zerstört ist nach seiner Angabe **eines**. Ob das andere
+   unbenutzt ist, sagt er nicht — **wird gefragt, nicht angenommen.** **Sechster
+   Fall dieser Art** seit dem 12.09. nach #7165, #6781, #7246, #6936 und #7645.
+
+**„So called indestructible"** — er bestreitet eine Formulierung, die **nicht in
+der Produktbeschreibung steht** (Befund vom 12.09.). Wie bei allen anderen ist
+damit offen, woher sie stammt. **Der Bot bestreitet sie ihm gegenüber nicht** —
+das wäre nach `support-policy.md` eine Behauptung über Ungeprüftes.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage mit zwei Fotobelegen,
+ausdrückliche Erstattungsforderung mit impliziter Frist.
+
+**Nicht auf der Erstattungsliste** — das zerstörte Teil ist Kauschaden. **Der
+Anteil für ein etwaiges unbenutztes zweites Teil erst nach seiner Antwort**,
+dann im Admin zu bestimmen (Kaching-Bundle: 2 × 29,95 £ Listenpreis gegen
+29,95 £ gezahlt).
+
+### Ohne neue Nachricht wieder aufgetaucht
+
+**#5316 David Andrews** — keine neue Kundenmail; die letzte bleibt **26.08.
+18:07**. Der Fall ist vollständig erfasst (Log vom 09.09.: **elf**
+Vorlagen-Absagen, drei davon **nach** seiner Mitteilung „The bank have refunded
+me" vom 06.09., mit dem dort vermerkten Risiko einer Doppelzahlung).
+**Kein neuer Eintrag. Der Vorgang bleibt offen.**
+
+### Entwurf
+
+Volltext in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#6835**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt oder
+abgelehnt, keine Frist akzeptiert oder festgelegt, keine Werbeformulierung
+bestritten, kein Anteil geschätzt, kein Label gesetzt.
