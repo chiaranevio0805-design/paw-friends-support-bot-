@@ -2782,6 +2782,157 @@ weiterhin nicht auffindbar — vor dem Senden die Anhänge öffnen.**
 
 ---
 
+## 🚩🚩 #7292 — doulatracy@gmail.com — DRITTE FASSUNG
+
+**Neu geschrieben am 13.09., 22:20.** Ersetzt die Fassung vom 12.09.
+**⚠️ Sie hat am 13.09. 20:15 eine zweite identische Absage bekommen. Sie
+verlangt keine Kulanz, sondern eine FUNDSTELLE. Der Bot kann sie nicht liefern
+und darf keine erfinden — nur der Owner kann auf der Live-Seite nachsehen.**
+
+> Dear Tracy,
+>
+> You asked one question yesterday and you have asked it again today, and both
+> times what came back was the paragraph that asserts the very thing you are
+> asking us to locate. That is not an answer and I am not going to send it a
+> third time.
+>
+> Your question is: where, on the product page or in the 30-day guarantee as it
+> was presented when you bought, does it say the guarantee applies only to
+> unused and undamaged toys.
+>
+> I cannot point you to it. Not as a way of avoiding you — I have checked what I
+> can reach, and the guarantee wording is not held in the part of the product
+> record I am able to read. So I am not going to claim the limitation is there,
+> and I am not going to claim it is not. Either would be me guessing at
+> something you can see and I cannot.
+>
+> What I have done is put your question, in your exact words, to the owner of
+> the business, who can open the live page. You will get either the specific
+> wording you asked for or an acknowledgement that it is not there. Those are
+> the only two honest answers and you are entitled to one of them.
+>
+> Two things that should not wait on that. Your unopened Duck is a separate
+> matter from the Pig and our own guarantee is written for exactly that case; it
+> has been refused twice now alongside the chewed one and it should not have
+> been. And your point about the safety warning stands: you were told to remove
+> the toy at the first sign of damage, you did, and you were then refused
+> because the toy was damaged.
+>
+> On returns: I do not have a returns address to give you, and I am not going to
+> invent one. That is our problem and it has gone over with the rest.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** eine **Antwort auf ihre Fundstellen-Frage** — entweder der
+Wortlaut oder das Eingeständnis, dass es ihn nicht gibt. **Keine
+Erstattungszusage, kein Betrag, keine Rücksendeadresse, kein vorausbezahlter
+Rückversand.** Der Regel-2-Anspruch für den Duck wird eingeräumt.
+
+---
+
+## #6781 — carliebanfield1975@gmail.com — ZWEITE FASSUNG
+
+**Neu geschrieben am 13.09., 22:20.** Ersetzt die Fassung vom 12.09.
+**⚠️ Sie hat am 13.09. 20:07 die Kauschaden-Vorlage bekommen, obwohl sie am
+12.09. nach dem Rückgabeverfahren gefragt hatte. Der Bot erteilt keine
+Rechtsauskunft.**
+
+> Dear Carlie,
+>
+> You asked on Saturday how our refund process works. What came back tonight was
+> a refusal that did not mention your question. I am sorry.
+>
+> You have used the phrase "not fit for purpose". I am not going to tell you
+> that is the wrong way to look at it, and I am also not going to give you a
+> legal opinion from a support desk — that would be worth nothing to you either
+> way. What I can tell you is that the words you quoted on Saturday, "durable
+> and long lasting", are the kind of wording our own product page uses, and that
+> the gap you are pointing at between that and twenty minutes is the actual
+> question here.
+>
+> On your process question, the honest answer has not changed since Saturday and
+> it is an awkward one: I do not have a returns address to give you. We do not
+> have one on file, and I am not going to invent one. You are one of six people
+> in two days to ask, so this is not about your order.
+>
+> Order #6781, both of your photographs and your refund request have gone to the
+> owner of the business tonight. You will get a direct answer.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage, **keine Rechtsauskunft**, keine
+Rücksendeadresse — das Fehlen wird eingeräumt.
+
+---
+
+## #6755 — rmattmurphy@gmail.com — ZWEITE FASSUNG
+
+**Neu geschrieben am 13.09., 22:20.** Ersetzt die Fassung vom 12.09.
+**⚠️ Er hatte eine schlichte Erstattungsforderung gestellt, ohne Drohung. Am
+13.09. 19:55 kam die Kauschaden-Vorlage.**
+
+> Dear Matt,
+>
+> You asked for a refund on Friday and sent the order details with it so nobody
+> would have to ask. What came back tonight was a standard refusal. I am not
+> going to defend that.
+>
+> The part I can confirm rather than explain away: you ordered on 19 August and
+> the parcel was not handed to the courier until 2 September. Fourteen of those
+> days were ours, before the shipping itself had started, and nobody told you it
+> was happening.
+>
+> On the refund: I am not able to approve it from this desk and I am not going
+> to refuse it a second time on someone else's behalf. Order #6755 and your
+> request have gone to the owner of the business tonight with the dates and with
+> the fact that you have now had to write twice.
+>
+> On the reviews: that is your call and nothing here is conditional on it.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage. Nur Weitergabe und eine
+Entscheidung vom Owner.
+
+---
+
+## gacobalsam@aol.com — Bestellung nicht auffindbar
+
+**Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff
+`Re: Dog plush toy`.
+**⚠️ Zu dieser Adresse ist in Shopify keine Bestellung auffindbar, und die Mail
+nennt weder Nummer noch Namen. Der Text nennt deshalb keine Bestelldaten und
+fragt danach, ohne es dem Kunden anzulasten.**
+
+> Hello,
+>
+> Thank you for telling us, and for the photo. Stuffing out within minutes, on
+> both of them, is not a borderline case and I am not going to answer it with
+> our returns policy.
+>
+> You have not asked us for anything, so I am not going to make you an offer you
+> did not request. What I have done is pass your message and your photo to the
+> owner of the business, because the gap between how these are described and
+> what arrived is not something a support desk settles.
+>
+> One thing I need rather than something you have done wrong: I cannot match
+> your order to the email address you have written from, so I do not have your
+> order in front of me. If you have the order number to hand — it is in your
+> confirmation email and starts with a # — that would let me attach this to the
+> right file. If not, that is fine and it will go over without it.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** ausschliesslich die Weitergabe. Keine Erstattungszusage,
+**kein Betrag, keine Bestellnummer**, keine Rücksendeadresse. Die Rückfrage nach
+der Nummer ist als eigenes Problem formuliert, nicht als Bedingung.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

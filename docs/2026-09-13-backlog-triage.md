@@ -1235,3 +1235,147 @@ Volltexte in `docs/entwuerfe-zum-kopieren.md`: **#5829 (zweite Fassung)**,
 **Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, keine
 Rechtsauskunft erteilt, der Garantietext weder bestätigt noch bestritten, kein
 Label gesetzt.
+
+---
+
+## Lauf 22:20 UTC — vier weitere Eskalationen, und #7292 stellt die Frage zum zweiten Mal
+
+### Weitere Absagen aus demselben Abendstapel
+
+| Uhrzeit | Kunde | Reaktion | Abstand |
+|---|---|---|---|
+| 19:55:08 | **#6755 Matt Murphy** | „I will be **posting negative reviews**" | 1 Std 49 |
+| 20:07:25 | **#6781 Carlie Terry** | „**not fit for purpose**… I expect a full refund" | 1 Std 37 |
+| 20:15:40 | **#7292 tracy hartley** (2. Absage) | stellt dieselbe Frage erneut | 1 Std 09 |
+
+**Kauschaden-Absagen heute: zwölf.** Gesamt seit dem 11.09.: **zweiundzwanzig.**
+**Alle beantworteten sind eskaliert.**
+
+---
+
+### 🚩🚩 #7292 tracy hartley — die zweite Absage beantwortet die Frage wieder nicht
+
+Sie hatte am 12.09. den **veröffentlichten Garantietext zitiert** und gefragt,
+wo die Unbenutzt-Bedingung stehe. **Antwort am 13.09. 20:15: dieselbe Vorlage,
+die genau diese Bedingung behauptet.** Ihre Antwort, 21:24, ist ruhiger und
+präziser als zuvor:
+
+> „**Where, on the product page or the 30-Day Money-Back Guarantee as it was
+> presented when I purchased these toys, does it state that the guarantee
+> applies only to toys that are unused and undamaged?** I have looked carefully,
+> and **I cannot find that limitation.**
+>
+> I am having difficulty understanding how a customer could determine whether
+> they are 'completely satisfied' with a dog toy that is **specifically
+> advertised for chewing and strong chewers** without actually allowing the dog
+> to use it.
+>
+> …Your own safety warning says to '**Remove the toy immediately at the first
+> signs of damage**,' which is exactly what I did.
+>
+> **So I am not asking for a refund because my dog simply damaged a toy through
+> misuse. I am asking because the toy did not perform as I reasonably understood
+> it was advertised to perform.**
+>
+> I would really appreciate it if you could **point me to the specific wording on
+> your website** that explains that the 30-day guarantee does not apply once a
+> toy has been used.
+>
+> **I still have the Duck completely unopened and in its original packaging**, and
+> I am happy to return that, as well as the damaged Pig, if you provide the
+> return procedure and prepaid return shipping."
+
+**Sie stellt eine einzige, klar beantwortbare Frage — zum zweiten Mal.** Sie
+verlangt keine Kulanz, sie verlangt eine **Fundstelle**.
+
+**Der Bot kann sie nicht liefern:** Der Garantietext steht **nicht** im
+Beschreibungsfeld des Produkts (Befund 12.09.). **Nur der Owner kann auf der
+Live-Seite nachsehen — und entweder die Fundstelle nennen oder feststellen, dass
+es keine gibt.**
+
+**Ihr ungeöffneter Duck ist und bleibt ein Regel-2-Fall** und steht seit dem
+12.09. auf der Erstattungsliste. **Die zweite Absage hat ihn erneut mit
+abgelehnt.**
+
+→ `Bot/Escalated - Owner Attention`, **höchste Priorität**. **Der Entwurf vom
+12.09. ist überholt; dritte Fassung liegt vor.**
+
+---
+
+### 🚩 #6781 Carlie Terry — „not fit for purpose"
+
+Absage 20:07, Antwort 21:44:
+
+> „I am very disappointed with this response. **The toy was clearly not fit for
+> purpose** if it was destroyed in 20 minutes, **regardless of your returns
+> policy**. I expect a **full refund** for an item that…"
+
+**„Not fit for purpose" ist die Formulierung des Consumer Rights Act 2015** —
+dieselbe, die #5829 David Coles ausdrücklich zitiert. **Sie ist damit die
+zweite Kundin, die diese Rechtsfigur benennt**, auch wenn sie das Gesetz nicht
+nennt.
+
+**Ihre Frage nach dem Rücksendeverfahren vom 12.09. ist weiterhin unbeantwortet.**
+
+→ `Bot/Escalated - Owner Attention` (bleibt). **Entwurf vom 12.09. überholt;
+zweite Fassung liegt vor.**
+
+---
+
+### #6755 Matt Murphy — öffentliche Bewertungen angekündigt
+
+Absage 19:55, Antwort 21:44:
+
+> „This is ridiculous. **I will be posting negative reviews that will cost more
+> in lost business than my $30.**"
+
+Er hatte am 11.09. eine Erstattung verlangt, **ohne Werbezitat und ohne
+Drohung** — deshalb `Bot/Needs Approval`. **Die Vorlage hat daraus eine
+Eskalation gemacht.**
+
+→ **Hochgestuft auf `Bot/Escalated - Owner Attention`.** Entwurf vom 12.09.
+überholt; zweite Fassung liegt vor.
+
+---
+
+### 🔎 gacobalsam@aol.com — dritte nicht auffindbare `@aol.com`-Adresse
+
+**21:56**, vollständiger Text, mit Foto:
+
+> „Ordered **2 dog plush chew toys** and they were ripped apart and torn with
+> **stuffing coming out within minutes**. **Your website says these are for dogs
+> who play rough** and while cute as they may be, these plushies are **no better
+> than the common cheaper toys in every store**. **Never buying again.**"
+
+**Keine Bestellnummer, kein Name, keine Forderung.**
+
+**In Shopify ist zu `gacobalsam@aol.com` weder über die Bestell- noch über die
+Kundensuche etwas auffindbar.** Ein Name, über den sich die Namenssuche
+anwenden liesse, steht nicht in der Mail.
+
+**Das ist die dritte `@aol.com`-Adresse binnen drei Tagen ohne auffindbare
+Bestellung** — nach `dinod28@aol.com` (11.09.) und `becca23047@aol.com`
+(12.09.). **Der Bot stellt hier keinen Zusammenhang fest** — es können ebenso
+gut Bestellungen unter einer anderen Adresse sein. **Aber dreimal dasselbe
+Muster bei derselben Domain gehört dem Owner vorgelegt**, zusammen mit der
+Frage, ob es an der Adresszuordnung im Shop liegt.
+
+**„for dogs who play rough"** ist eine weitere Wortlaut-Variante; in der
+geprüften Produktbeschreibung steht „made for dogs who love to chew, tug, and
+play **hard**". **Sinngemäss deckungsgleich, im Wortlaut nicht** — das wird so
+festgehalten.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage; Bestellung nicht zuordenbar.
+**Nicht auf der Erstattungsliste** — kein Regelfall, keine Forderung, und ohne
+Bestellnummer ohnehin nicht bezifferbar.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`: **#7292 (dritte Fassung)**,
+**#6781 (zweite Fassung)**, **#6755 (zweite Fassung)**, **gacobalsam**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, **keine
+Fundstelle für die Garantiebedingung erfunden**, keine Bestellnummer geraten,
+kein Zusammenhang zwischen den drei `@aol.com`-Fällen behauptet, kein Label
+gesetzt.
