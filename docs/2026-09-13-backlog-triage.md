@@ -526,3 +526,115 @@ und **#7179 (zweite Fassung)**.
 **Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, **der
 Garantietext weder bestätigt noch bestritten**, keine Rücksendeadresse, kein
 Anteil geschätzt, kein Label gesetzt.
+
+---
+
+## Lauf 13:20 UTC — 🚩🚩 #6877 Alexander Meza: FTC, Meta und eine 48-Stunden-Frist
+
+### Die Eskalation
+
+**Heute 10:42:25** ging an ihn die **Kauschaden-Vorlage** raus. **12:38:25** —
+**1 Std 56 Min später** — kam diese Antwort:
+
+> „Your return policy **does not specify the requirements you are now adding**.
+> **This is not permitted for US customers.** You must disclose the requirements
+> of your policy.
+>
+> Further, you have made several claims that are **false on your website**. If
+> you choose to deny my refund, I will file a **dispute and complaint with your
+> credit card processor**. I will also file complaints with **meta** for your
+> misleading advertising, along with the **US FTC** for violating advertising
+> laws. Simply the fact you claimed this product is **double-stiched when it's
+> not** constitutes false advertising. **This is proven with just a
+> photograph.**
+>
+> **You have 48 hours to process my refund** or I will forcefully take my refund
+> and report your fraudulent business."
+
+**Frist: 15.09. 12:38 UTC.**
+
+### Warum dieser Fall anders liegt als die übrigen
+
+**1. Seine zentrale Behauptung ist an den Shop-Daten prüfbar — und die Aussage
+existiert.** Er sagt, das Produkt sei **nicht** doppelt genäht. Am 12.09. wurde
+in der Shopify-Produktbeschreibung **wörtlich** nachgewiesen:
+
+> „**Reinforced double stitching to help prevent tearing**"
+
+**Die Zusage ist also veröffentlicht.** Ob sie zutrifft, ist eine Frage an das
+Produkt, nicht an die Policy — und er sagt, ein Foto genügt zum Beweis. **Er hat
+am 11.09. neun Fotos geschickt.** Das ist die **konkreteste überprüfbare
+Werbebehauptung im gesamten Projekt.**
+
+**2. Seine Angabe zum fehlenden Geschenk ist bestätigt.** Shopify führt #6877
+als **`PARTIALLY_FULFILLED`** — bestellt **20.08. 21:49**, **45,84 £**,
+versandt **02.09. 10:36** ab Kirchstr. 2, **WB US `WNBAA0497780337YQ`**, Apple
+Valley, Minnesota. **Eine Sendung, Bestellung nicht vollständig ausgeliefert.**
+Er schrieb am 11.09.: „**You did not send the free gift that was on the
+receipt.**" **Das deckt sich mit dem Status.**
+
+**3. Er macht denselben Policy-Einwand wie #7292** — einen Tag später und
+unabhängig: die Bedingung, die die Vorlage nennt, stehe **nicht** in der
+veröffentlichten Rückgabepolicy. **Zweiter Kunde mit diesem Punkt**, und beide
+in den USA.
+
+**4. Neue Meldekanäle.** **Meta** (Anzeigenplattform) ist im Projekt neu.
+**FTC** ist die zweite Meldung. Behördenstand insgesamt: Trading Standards /
+Citizens Advice (4×), BBB (3×), **FTC (2×)**, State Attorney General, ACCC,
+UKICC, **Meta (1×, neu)**.
+
+**Der Fall war seit dem 11.09. 00:20 als `Bot/Escalated - Owner Attention`,
+hohe Priorität, erfasst** — mit vier dokumentierten Vorwürfen und Fotobeleg.
+**Am 13.09. ging trotzdem die Standardvorlage raus.** Das ist derselbe Ablauf
+wie bei #5829, #6528 und #6286: im Log namentlich vorhergesagt, Absage trotzdem
+verschickt.
+
+→ `Bot/Escalated - Owner Attention`, **höchste Priorität, zeitgebunden**.
+**Eskalationsgrund:** angekündigte FTC- und Meta-Beschwerde, Chargeback,
+48-Stunden-Frist; prüfbare Behauptung gegen eine veröffentlichte
+Produktaussage; Policy-Einwand; unvollständig ausgelieferte Bestellung.
+
+**Nicht auf der Erstattungsliste** — der zerstörte Artikel ist Kauschaden.
+**Aber:** die **nicht ausgelieferte Position** (`PARTIALLY_FULFILLED`) ist eine
+offene Lieferfrage, und der Vorwurf zur Doppelnaht ist eine **Produkt- und
+Rechtsfrage**. **Beides ist Owner-Sache und beides ist binnen 48 Stunden zu
+entscheiden.**
+
+---
+
+### #7401 Mick Lacey — Betreffzeile als Nachricht
+
+**13:06.** Die **Betreffzeile ist die vollständige Nachricht**; der Textkörper
+ist leer, dazu **12 MB Anhänge**:
+
+> „**defective item.** Just received this item from you. order #7401, it took my
+> dog, **a border collie**, **less than 10 minutes to rip a leg off**,"
+
+**Shopify:** #7401, bestellt **23.08. 13:48**, **19,95 £**, `PAID` /
+`FULFILLED`, 1 × Plushie (elephant), versandt **03.09. 07:32** ab Kirchstr. 2,
+Yanwen Special Line `UL478624530YP`, Telford, England. **Elf Tage** bis zum
+Versand. **Vierzehnter Kunde aus dem Versandstapel vom 03.09.**
+
+**Zur Einordnung, ohne seine Worte zu verdrehen:** Er nennt es „defective item".
+**Regel 1 deckt Ware, die defekt ankommt.** Nach seiner eigenen Schilderung ist
+die Ware angekommen und **danach** vom Hund zerrissen worden — das ist
+**Kauschaden**, kein Ankunftsdefekt. **Ob das im Ergebnis anders zu bewerten
+ist, wenn ein Bein nach zehn Minuten abgeht, ist genau die Frage, die der Owner
+entscheiden muss** — der Bot stuft es nicht um und weist es nicht ab.
+
+**Er nennt keine Werbeaussage, droht nichts an, nennt keine Behörde, keine
+Frist, und es ist sein Erstkontakt.**
+
+→ `Bot/Needs Approval`.
+**Nicht auf der Erstattungsliste** — nach der Regel kein Fall; eine Kulanz- oder
+Regel-1-Auslegung ist Owner-Entscheidung.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#6877** und
+**#7401**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt oder
+abgelehnt, keine Aussage darüber, ob die Ware doppelt genäht ist (**nicht
+prüfbar — der Bot sieht keine Bilder und kein Produkt**), keine Frist akzeptiert
+oder bestritten, kein Label gesetzt.

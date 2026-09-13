@@ -2204,6 +2204,93 @@ nachgeholt.
 
 ---
 
+## #6877 — am7.pdx@gmail.com — FTC, Meta, 48-Stunden-Frist
+
+**Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff
+`Re: Refund Request: Order #6877`.
+**⚠️ Seine Frist endet am 15.09. 12:38 UTC. Der Bot sagt NICHT, ob das Produkt
+doppelt genäht ist — er kann keine Bilder und kein Produkt prüfen. Bestätigt
+wird nur, dass die Aussage auf der Seite steht und dass die Bestellung
+unvollständig ausgeliefert ist.**
+
+> Dear Mr Meza,
+>
+> The reply you received this morning was a standard one. It did not address a
+> single thing in your email, and sending it to you two days after you set out
+> four specific points with photographs was not defensible. I am not going to
+> defend it.
+>
+> Three things I can confirm, and one I cannot.
+>
+> Confirmed: the claim you are disputing is published. Our product page does say
+> "reinforced double stitching to help prevent tearing" — I have checked our own
+> records and that wording is there. So the question you are raising is whether
+> the product matches it, and that is a fair question rather than a
+> misunderstanding on your part.
+>
+> Confirmed: your order is recorded here as not fully dispatched. You wrote that
+> the free gift on the receipt never arrived, and our own records show the order
+> as only partly fulfilled. You were right about that and nobody should have
+> needed the photographs to check it.
+>
+> Confirmed: you are the second customer in two days to say that the condition
+> quoted at you is not in the published returns policy. I am not going to tell
+> you it is there when I have not been able to verify that myself.
+>
+> What I cannot do is tell you whether the stitching on the item you received is
+> single or double. I cannot examine the product and I am not going to give you
+> an opinion dressed up as a finding.
+>
+> So: I am not refusing your refund, and I am not going to approve it from this
+> desk and have it reversed inside your 48 hours. Your order, your photographs,
+> your four points and your deadline have gone to the owner of the business this
+> afternoon, marked urgent and with the deadline on it.
+>
+> On the FTC, Meta and the card dispute: those are yours to file and nothing
+> here is conditional on you not filing them.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage und keine Ablehnung, kein Betrag,
+keine Zusage zur Einhaltung der 48 Stunden. Bestätigt werden **nur drei belegte
+Punkte**: der Wortlaut auf der Produktseite, der unvollständige Lieferstatus,
+und dass ein zweiter Kunde denselben Policy-Einwand erhoben hat. **Keine Aussage
+über die Naht.**
+
+---
+
+## #7401 — laceymick31@gmail.com — „defective item"
+
+**Neu geschrieben am 13.09.** Antwort im bestehenden Thread.
+**Er nennt es defekt; nach seiner eigenen Schilderung ist es Kauschaden. Der
+Text korrigiert ihn nicht und stuft nichts um.**
+
+> Dear Mick,
+>
+> Thank you for the photos — ten minutes and a leg off is clear enough without
+> me asking you for more.
+>
+> I am not going to open with our returns policy, and I am not going to get into
+> an argument with you about what counts as defective. You bought a toy sold for
+> dogs that destroy things, your border collie had a leg off it in ten minutes,
+> and that is the part that matters.
+>
+> What I can tell you honestly: this is not a decision I can make from a support
+> desk, and I would rather say so than give you a refusal or a promise that gets
+> overturned. Order #7401 and your photographs have gone to the owner of the
+> business this afternoon.
+>
+> You will get a direct answer rather than a standard one.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage und keine Ablehnung, kein Betrag,
+keine Rücksendeadresse, keine Frist. Nur Weitergabe und eine direkte Antwort.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
