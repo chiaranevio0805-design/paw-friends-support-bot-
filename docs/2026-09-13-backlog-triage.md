@@ -984,3 +984,118 @@ Volltext in `docs/entwuerfe-zum-kopieren.md`, Abschnitt **#6833**.
 **Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, **kein
 Rücksendeverfahren beschrieben und keine Adresse erfunden** (es gibt keine),
 keine Zustellprognose, kein Label gesetzt.
+
+---
+
+## Lauf 20:20 UTC — zwei Absagen am Abend, zwei Eskalationen in Minuten, ein neuer Sicherheitsfall
+
+### Neuer Rekord: 3 Minuten 17 Sekunden
+
+| Absage | Kunde | Reaktion | Abstand |
+|---|---|---|---|
+| **19:59:20** | **#6882 Chris Cobb** | „Your durability claims are **utterly false**" | **4 Min 51** |
+| **20:04:46** | **#7316 Brett Merriman** (3. Absage) | „I'll **blast the shit out of** how horrible your product is" | **3 Min 17** |
+
+**3 Minuten 17 Sekunden** ist die schnellste Eskalation im Projekt — bisheriger
+Wert 4 Min 26 (#4745, gestern).
+
+**Damit: fünfzehn von fünfzehn** seit dem 11.09. (sieben am 11.09., drei am
+12.09., **fünf heute**).
+
+---
+
+### #6882 Chris Cobb — er hatte um eine Erklärung gebeten
+
+Er schrieb am **12.09. 08:56**: „**Please explain.**" Keine Erstattungsforderung,
+nur die Bitte um eine Erklärung. **Am 13.09. 19:59 kam die Kauschaden-Vorlage.**
+Seine Antwort, 20:04:
+
+> „**Your durability claims are utterly false.** I look forward to **making
+> comment every opportunity presented.**"
+
+**Aus einer Bitte um Erklärung ist damit eine angekündigte öffentliche
+Kommentierung geworden.** Derselbe Ablauf wie bei #7101 Cameron Herpich, #7271
+Rosalind Welch und #4745 Steph Hanlon: **keine Forderung → Vorlagen-Absage →
+Eskalation.**
+
+→ `Bot/Escalated - Owner Attention` (bleibt). **Der Entwurf vom 12.09. ist
+überholt** — er setzt voraus, dass er noch keine Antwort bekommen hat.
+**Zweite Fassung liegt vor.**
+
+### #7316 Brett Merriman — dritte Absage
+
+Erste Mail 10.09., **erste Absage 12.09. 10:31**, Eskalation 12:04 („Why the
+fuck would I return it before it got used?"), **zweite Absage heute 20:04:46** —
+ohne ein Wort zu seinem Einwand. Antwort nach **3 Minuten 17**:
+
+> „I'll make sure to **blast the shit out of** how horrible your product is
+> especially **with your durability claims**."
+
+**Sein Einwand zur Rückgabebedingung ist zweimal unbeantwortet geblieben.**
+
+→ `Bot/Escalated - Owner Attention` (bleibt). **Der Entwurf vom 12.09. ist
+überholt. Zweite Fassung liegt vor.**
+
+---
+
+### 🚩🚩 #7608 Patricia Arenella — Sicherheit und die sechste Garantie-Nennung
+
+**20:06**, vollständiger Text:
+
+> „My dog destroyed the toy in **3 minutes**. **This was guaranteed not to be
+> destroyed.** I would like a **full refund**. I can send a photo. Also **the
+> toxic stuffing was very dangerous for my dog to swallow**. Your response is
+> appreciated."
+
+**Shopify:** #7608, bestellt **24.08. 17:44**, **20,35 £**, `PAID` /
+`FULFILLED`, 1 × Plushie (monkey), versandt **03.09. 07:40** ab Kirchstr. 2,
+**WB US `WNBAA0498036329YQ`**, East Meadow, New York. **Zehn Tage** bis zum
+Versand. **Sechzehnter Kunde aus dem Versandstapel vom 03.09.**
+
+**Zwei Punkte, beide gewichtig:**
+
+**1. „This was guaranteed not to be destroyed."** Das ist die **sechste
+unabhängige Kundin binnen drei Tagen**, die die Garantie so beschreibt:
+
+| Datum | Kunde | Wortlaut |
+|---|---|---|
+| 11.09. | #7060 Felecia Pierce | „indestructible **or you get a refund**" |
+| 11.09. | #5851 Jeff Williams | „**replace it free**" |
+| 12.09. | #7292 tracy hartley | „for **any reason**" (**Zitat der Seite**) |
+| 13.09. | #5436 Shirley Hemstock | „money back **if the toy gets destroyed**" |
+| 13.09. | #7034 Sarah Checksfield | „**guaranteed** indestructible toy" |
+| **13.09.** | **#7608 Patricia Arenella** | „**guaranteed not to be destroyed**" |
+
+**Sechs Kunden, sechs Formulierungen, drei Tage, dieselbe Richtung.** Der
+Garantietext steht **nicht** im Beschreibungsfeld des Produkts und ist
+**weiterhin ungeprüft**. **Das ist die eine offene Frage, an der inzwischen der
+grösste Teil des Bestands hängt.**
+
+**2. 🚩 „the toxic stuffing was very dangerous for my dog to swallow."**
+Das ist eine **Sicherheitsaussage mit einer Materialbehauptung**. Sie sagt
+nicht, dass der Hund etwas verschluckt hat — **das wird nicht hineingelesen** —
+aber sie nennt die Füllung **toxisch**.
+
+**Der Bot kann und wird dazu nichts feststellen.** Er kennt die Materialangaben
+nicht, hat kein Produkt und sieht keine Bilder. **Eine Behauptung über die
+Unbedenklichkeit der Füllung wäre hier der gefährlichste mögliche Fehler** —
+ebenso wie eine Bestätigung. **Zehnte Meldung zu verschluckbarem oder
+gefährlichem Material** im Projekt, und die **erste**, die es als **toxisch**
+bezeichnet.
+
+→ `Bot/Escalated - Owner Attention`, **hohe Priorität**.
+**Eskalationsgrund:** Sicherheits- und Materialbehauptung; bestrittene
+Garantiezusage, sechste Nennung binnen drei Tagen; ausdrückliche
+Erstattungsforderung.
+
+**Nicht auf der Erstattungsliste** — ein Teil, zerstört, kein Regelfall.
+**Die Material- und die Garantiefrage sind Owner- bzw. Rechtssache.**
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`, Abschnitte **#7608**, **#6882
+(zweite Fassung)** und **#7316 (zweite Fassung)**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, **keine
+Aussage über die Füllung oder deren Unbedenklichkeit**, der Garantietext weder
+bestätigt noch bestritten, kein Label gesetzt.

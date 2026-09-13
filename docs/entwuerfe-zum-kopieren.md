@@ -2555,6 +2555,118 @@ Frist. Der Artikelname wird bestätigt, weil er an den Shopify-Daten belegt ist.
 
 ---
 
+## 🚩 #7608 — patty.arenella@gmail.com — „toxic stuffing", „guaranteed not to be destroyed"
+
+**Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff
+`Re: Order #7608 confirmed`.
+**⚠️ Der Text sagt NICHT, dass die Füllung unbedenklich ist, und bestätigt
+nicht, dass sie toxisch ist. Beides wäre unbelegt. Die Garantiezusage wird
+ebenfalls weder bestätigt noch bestritten.**
+
+> Dear Patricia,
+>
+> Thank you for writing, and for raising the stuffing first — I am going to
+> answer that before the money.
+>
+> On the stuffing: I am not going to tell you it is harmless, because I have no
+> way of verifying that from here and a reassurance I cannot stand behind would
+> be worse than no answer. I am also not going to agree that it is toxic, for
+> the same reason. What I am doing is passing your description straight to the
+> owner of the business, unedited, because a material safety question is not one
+> a support desk should be answering either way.
+>
+> What I would say regardless: if there is any chance your dog swallowed any of
+> it, watch for vomiting or retching, going off his food, straining without
+> producing anything, or a hunched or uncomfortable posture — and call your vet
+> if you see any of that, or sooner if you would simply rather have him checked.
+> Mention what he may have swallowed when you call.
+>
+> On "guaranteed not to be destroyed": you are the sixth customer in three days
+> to describe our guarantee in those terms. I am not able to verify the exact
+> published wording myself, and I am not going to tell you that you misread
+> something when six people have read it the same way. That has gone to the
+> owner as the real question it is.
+>
+> So I am not refusing your refund and I am not going to approve it here and
+> have it reversed. Order #7608, your account of the three minutes and your
+> point about the stuffing are with the owner tonight. Please do send the photo
+> — it will go over with the rest.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** keine Erstattungszusage und keine Ablehnung, kein Betrag,
+keine Rücksendeadresse, keine Frist. **Keine Aussage über das Füllmaterial in
+irgendeine Richtung.** Die Tiergesundheitshinweise sind allgemein gehalten und
+ersetzen keine tierärztliche Einschätzung.
+
+---
+
+## #6882 — chris@htconcepts.com.au — ZWEITE FASSUNG, nach der Absage vom 13.09.
+
+**Neu geschrieben am 13.09., 20:20.** Ersetzt die Fassung vom 12.09.
+**⚠️ Er hat am 13.09. 19:59 die Kauschaden-Vorlage bekommen. Die alte Fassung
+setzt das nicht voraus und darf nicht mehr gesendet werden.**
+
+> Dear Chris,
+>
+> You asked one thing on Saturday: explain. What you got back tonight was a
+> standard refusal of a refund you had not asked for, and you replied within
+> five minutes. That was a fair reaction.
+>
+> So, the explanation you actually asked for — and the honest version of it is
+> that I do not have one. The product is sold under a name that says it is built
+> for dogs that destroy things, our own product page says "anti-tear design
+> built for strong chewers", and yours lasted fifteen minutes with a Jack
+> Russell. I have checked and that wording really is on the page. I am not going
+> to tell you that is normal wear.
+>
+> Because I cannot explain it, I have put order #6882, your photo and your
+> question in front of the owner of the business, in your words. That is where
+> an answer has to come from.
+>
+> On commenting publicly: that is your call and nothing here depends on it.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** ausschliesslich die Weitergabe. Keine Erstattungszusage.
+Die 58,56 AUD werden nicht aufgegriffen (Shopify: 30,66 £).
+
+---
+
+## #7316 — brettamerriman@gmail.com — ZWEITE FASSUNG, nach der zweiten Absage
+
+**Neu geschrieben am 13.09., 20:20.** Ersetzt die Fassung vom 12.09.
+**⚠️ Er hat am 13.09. 20:04 eine zweite Kauschaden-Vorlage bekommen, wieder ohne
+ein Wort zu seinem Einwand.**
+
+> Dear Brett,
+>
+> You have now had the same standard message twice, and the second one went out
+> tonight without addressing the point you made about it the first time. You
+> answered in three minutes. I would have too.
+>
+> Your point, for the record and so it stops getting lost: you cannot return a
+> chew toy unused, because finding out whether it survives chewing means giving
+> it to the dog. A returns condition built around "unused and in original
+> condition" does not fit a product sold to be chewed. That is not a technicality
+> and I am not going to keep sending you a paragraph that ignores it.
+>
+> Order #7316, both of your replies and that objection have gone to the owner of
+> the business tonight. The condition itself is what needs looking at, and that
+> is not something I can change from here.
+>
+> On making it public: your call, and nothing here is conditional on it.
+>
+> Kind regards
+> Paw Friends Customer Support
+
+⚠️ **Zusage darin:** ausschliesslich die Weitergabe. Keine Erstattungszusage,
+kein Betrag. Der Policy-Einwand wird **eingeräumt**.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
