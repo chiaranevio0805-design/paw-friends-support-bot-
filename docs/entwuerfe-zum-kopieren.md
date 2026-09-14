@@ -3780,6 +3780,122 @@ Kein Betrag. Keine Rücksendeadresse. Keine rechtliche Einordnung.
 
 ---
 
+## #7865 — Talia McClenahan (talialauren13@gmail.com)
+
+**Betreff:** Re: Plushie
+
+> Dear Talia,
+>
+> Thank you for writing on the day it arrived — that's genuinely useful.
+>
+> I've found your order #7865, placed on 26 August: the Little Bear.
+>
+> There's one thing I want to get right before this goes any further, and I'd
+> rather ask than assume. You've written that the seam was already split. Do you
+> mean it was open when you took it out of the packaging, before your dog had
+> it? Or did it come apart at the seam once he got hold of it?
+>
+> I'm asking because those are two different things on our side, and I don't
+> want to file yours as the wrong one. Whichever it is, just tell me plainly —
+> I'm not fishing for a particular answer.
+>
+> On the refund: I can't authorise one myself, so I'm not going to promise it
+> or refuse it. Your request has gone to the shop owner today, and your answer
+> to the question above will go with it.
+>
+> If you haven't heard back within a few days, reply here and I'll chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Keine Erstattung zugesagt und keine abgelehnt.** **Nicht entschieden, ob es
+sich um einen Ankunftsmangel oder um Kauschaden handelt** — die Frage wird
+offen gestellt, **ohne anzudeuten, welche Antwort ihr nützt**, und **nicht zur
+Bedingung** für die Bearbeitung gemacht. **Nicht behauptet, Kauschaden sei
+nicht gedeckt**, und ebenso wenig, ein Ankunftsmangel sei gedeckt. Keine
+Rücksendeadresse. Kein Betrag. Keine rechtliche Einordnung.
+
+---
+
+## #6223 — Barbara Lidster (blidster@gmail.com)
+
+**Betreff:** Re: Plushie toy destroyed. Order number 6223
+
+> Dear Barbara,
+>
+> Thank you for writing, and for the photograph.
+>
+> I've found your order #6223 from 15 August — the duck and the monkey.
+>
+> One practical note first: please don't send card details to this address,
+> and there's no need to. If a refund is issued through Shopify it goes back to
+> the card that paid, automatically — nobody has to type a number in, and I
+> haven't passed yours on.
+>
+> On the refund itself, I have to be straight with you rather than let you
+> assume. You've written that it's in line with our policy of refunding, and I
+> am not going to confirm or deny that from here — what the guarantee covers is
+> exactly the question the shop owner needs to answer, and it's one that has
+> come up a lot this week. Your request has gone to him today with your order
+> details and your photo.
+>
+> I can't authorise a refund myself, so I won't tell you one is coming or that
+> it isn't.
+>
+> If you haven't heard back within a few days, reply here and I'll chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Keine Erstattung zugesagt und keine abgelehnt.** **Ihre Lesart der Garantie
+wird weder bestätigt noch bestritten** — ausdrücklich als offene Owner-Frage
+benannt statt stillschweigend übergangen. **Die Kartenziffern werden nicht
+wiederholt**; der Hinweis erklärt sachlich, **warum sie nicht gebraucht
+werden**, ohne ihr einen Vorwurf zu machen. Keine Rücksendeadresse. Kein
+Betrag. Keine rechtliche Einordnung. Foto nicht gedeutet.
+
+---
+
+## #7001 — Keith Furman (kmfurman26@gmail.com)
+
+**Betreff:** Re: A shipment from order #7001 is on the way
+
+> Dear Keith,
+>
+> Thank you for letting us know, and for the photo.
+>
+> You wrote to us on 10 September asking where the parcel was, and you got an
+> answer about the shipping. Now it's arrived and lasted under an hour, which is
+> not the ending anyone wanted to that wait.
+>
+> Your order #7001 from 21 August — the hippo.
+>
+> You haven't told me what you'd like done about it, and I'm not going to decide
+> that for you or offer you something on my own initiative. I've sent your email
+> and your photo to the shop owner today. If there's something specific you
+> want — a refund, a replacement, or an answer about how the toy was described —
+> reply and say so, and that goes across too.
+>
+> If you hear nothing back in a few days, reply here and I'll chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Keine Erstattung und kein Ersatz zugesagt, angeboten oder abgelehnt** — er
+hat nichts gefordert. **Nicht behauptet, Kauschaden sei nicht gedeckt.** Der
+frühere Kontakt wird **anerkannt statt übergangen**, aber **die Auskunft vom
+11.09. wird nicht wiederholt und nicht verteidigt**; zur Herkunft der Sendung
+steht nichts Neues, weil er nicht danach gefragt hat. Kein Betrag. Keine
+Rücksendeadresse. Foto nicht gedeutet.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

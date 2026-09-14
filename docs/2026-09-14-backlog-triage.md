@@ -1122,3 +1122,111 @@ und nicht zulässig) **und kein Betrag genannt**, keine neue Erstattung
 zugesagt oder abgelehnt, kein Nachname geraten, das Foto nicht geöffnet, keine
 rechtliche Einordnung, keine Rücksendeadresse, kein Label gesetzt, **kein
 Entwurf in Gmail angelegt**.
+
+---
+
+## Lauf 18:20 UTC — drei Zuschriften, darunter ein möglicher Regelfall
+
+### 🚩 #7865 — Talia McClenahan (`talialauren13@gmail.com`), 14.09. 17:37 UTC
+
+- Bestellung **26.08.**, Versand **03.09.** — 8 Tage bis zum Versand
+- **19,95 £**, bezahlt, FULFILLED
+- Ein Plushie, Variante *Little Bear*
+- Yanwen Special Line Promotion, `UL478913735YP`
+- Lieferadresse Norwich, England
+
+Wortlaut: *„I received my plushy **today** and after reading reviews I was
+hopeful! My dog broke it straight away, **the seam was already split**. I am
+very unhappy with this product and request a refund please."*
+
+**Das ist möglicherweise kein Kauschadenfall.** *„The seam was already split"*
+kann bedeuten, dass die Naht **bei Ankunft bereits offen war** — dann wäre es
+**defekt angekommen** und fiele unter die Erstattungsregel, nicht unter die
+Kauschaden-Ausnahme.
+
+**Es kann aber auch heissen, dass die Naht aufging, als der Hund das Spielzeug
+bekam.** **Der Satz gibt beides her, und der Bot entscheidet das nicht.**
+**Der Entwurf fragt nach** — als Frage, nicht als Bedingung, und ohne ihr
+nahezulegen, welche Antwort ihr nützt.
+
+**Wenn sie bestätigt, dass die Naht bei Ankunft offen war, ist das der erste
+Regelfall seit Beginn dieser Beobachtung.** Ausführen könnte der Bot ihn
+trotzdem nicht: `refundCreate` ist gesperrt, und die Regel-4-Ausnahme
+(Falschlieferung) greift hier nicht.
+
+→ `Bot/Needs Approval`.
+**Auf die Erstattungsliste als *ungeklärt*** — mit dem ausdrücklichen Vermerk,
+dass die Einordnung von ihrer Antwort abhängt und **nicht vorweggenommen
+wird**.
+
+### #6223 — Barbara Lidster (`blidster@gmail.com`), 14.09. 17:39 UTC
+
+Betreff: „Plushie toy destroyed. Order number 6223". Ein Foto beigefügt —
+nicht geöffnet, nicht beurteilt.
+
+- Bestellung **15.08.**, Versand **22.08.** — 7 Tage bis zum Versand
+- **29,95 £**, bezahlt, FULFILLED
+- Zwei Plushies: *Duck* und *monkey*
+- Yanwen Special Line Promotion, `UL442893764YP`
+- Lieferadresse Newark, England
+
+Wortlaut: *„My dog has destroyed her plushie toy delivered on 2nd September. I
+attach a photo. **In line with your policy of refunding** to card ending
+[…]"*
+
+**Zwei Punkte:**
+
+1. **Sie hat von sich aus die letzten vier Ziffern ihrer Karte genannt.** Der
+   Bot hat sie **nicht danach gefragt**, **gibt sie nicht weiter** und
+   **wiederholt sie im Entwurf nicht**. Eine Shopify-Erstattung geht ohnehin
+   auf das ursprüngliche Zahlungsmittel zurück — **Kartenangaben werden dafür
+   nicht gebraucht.** Die am 13.09. bei #8517 festgelegte Linie gilt
+   unverändert: **keine Kartendaten per E-Mail erfragen, entgegennehmen oder
+   weiterreichen.**
+2. **„In line with your policy of refunding"** — sie setzt als gegeben voraus,
+   dass die Garantie Zerstörung deckt. **Das ist die elfte Kundin binnen sechs
+   Tagen in dieser Lesart.** Sie zitiert keinen Wortlaut und wirft nichts vor
+   — sie handelt schlicht danach.
+
+**Kein Eskalationsauslöser:** kein Recht zitiert, keine Bewertung angedroht,
+Erstkontakt, kein Sicherheitsproblem, kein ausdrücklicher Werbevorwurf.
+
+→ `Bot/Needs Approval`. **Offen ist ein Ja oder Nein zur Erstattung.** Wie bei
+#7673, #7663, #7368, #7231 und #7581 **keine Vorlagen-Absage.**
+
+### #7001 — Keith Furman (`kmfurman26@gmail.com`), 14.09. 18:06 UTC
+
+- Bestellung **21.08.**, Versand **02.09.** — 12 Tage bis zum Versand
+- **20,35 £**, bezahlt, FULFILLED
+- Ein Plushie, Variante *hippo*
+- WB US (Selected postal codes), `WNBAA0497780784YQ`
+- Lieferadresse Seaford, New York
+
+Vollständiger Text: *„Toy survived less then an hour after receipt…"* Ein
+Foto beigefügt.
+
+**Vorgeschichte im selben Thread:** Am **10.09.** schrieb er *„Where is my
+order!"*. Am **11.09.** ging die Lieferauskunft hinaus — mit dem Satz *„Our UK
+warehouse is currently sold out, so your order was shipped from our
+international warehouse."* **Diese Auskunft war offen und wird hier nur
+vermerkt, nicht beanstandet.**
+
+**Formal ist er ein Wiederkontakt** — aber **in einer neuen Sache**: damals
+ging es um den Verbleib der Sendung, jetzt um das Produkt. **Der
+Eskalationsauslöser „wiederholter unerledigter Kontakt" wird deshalb nicht
+angewandt** — sein erstes Anliegen wurde beantwortet.
+
+**Er fordert nichts.** Kein Betrag, keine Frist, kein Vorwurf.
+
+→ `Bot/Needs Approval`.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`: **#7865**, **#6223**,
+**#7001**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt oder
+abgelehnt, **bei #7865 nicht entschieden, ob die Naht bei Ankunft offen war**,
+**bei #6223 die Kartenziffern nicht wiederholt und nicht weitergegeben**, die
+Fotos nicht geöffnet, keine Rücksendeadresse, keine rechtliche Einordnung,
+kein Label gesetzt, **kein Entwurf in Gmail angelegt**.
