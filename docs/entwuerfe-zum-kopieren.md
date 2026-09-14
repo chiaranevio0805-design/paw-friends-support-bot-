@@ -3302,6 +3302,161 @@ Bedingung** — sie wird nicht zur Voraussetzung für irgendetwas gemacht.
 
 ---
 
+## #7323 — David Buckley (dbuckley@orkinau.com)
+
+**Betreff:** Re: Product Complaint - Order #7323
+
+> Dear David,
+>
+> Thank you for writing it up as clearly as you have, and for the photographs.
+>
+> I've found your order #7323, placed on 23 August — the monkey.
+>
+> You've raised two separate things and I don't want to blur them together.
+>
+> The first is that you bought the toy because of how it was described. You're
+> quoting us accurately: the product is listed under the name "Plushies –
+> Designed for Furry Friends Who Destroy Everything". I'm not going to argue
+> with your reading of that, and I'm also not going to settle the question from
+> here — it goes to the shop owner.
+>
+> The second is that you've told us the toy is now unsafe for your dog to keep
+> using. I'm not going to second-guess your judgement on that from an email, and
+> I'm not going to give you an assessment of my own that I'm not qualified to
+> give. What I will do is flag it as a safety report rather than a durability
+> complaint, because that is what you have sent us, and it goes to the owner
+> marked that way today, with your photographs.
+>
+> On your question of a refund or a replacement: I can't authorise either, so I
+> won't promise you one. What I can tell you is that this is going in front of
+> the owner today and not into a queue.
+>
+> If you haven't heard back within a few days, reply to this email and I'll
+> chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner, ausdrücklich als
+Sicherheitsmeldung, und eine Nachfass-Zusage. **Keine Erstattung und kein
+Ersatz zugesagt oder abgelehnt.** **Keine Aussage darüber, ob das Produkt
+sicher oder unsicher ist** — weder bestätigend noch relativierend; seine
+Einschätzung wird weitergegeben, nicht bewertet. **Keine Aussage zu Material
+oder Verträglichkeit.** Kein Rat, was er mit dem Spielzeug tun soll. Der
+Produkttitel wird bestätigt, weil er aus den Shop-Daten belegt ist; **ob die
+Werbung zutrifft, wird nicht beurteilt**. Fotos nicht gedeutet. Kein Betrag,
+keine Währungsumrechnung. Keine Rücksendeadresse. Keine rechtliche Einordnung.
+
+---
+
+## #8321 — Darren Calver (stockingseight@gmail.com) — zweite Fassung
+
+**Betreff:** Re: Order #8321 confirmed
+
+**Ersetzt den Entwurf vom 13.09., der nie hinausging.**
+
+> Dear Darren,
+>
+> You wrote yesterday afternoon and you should have had this back the same day.
+> You didn't, and that's on us — I'm sorry you had to ask twice.
+>
+> Your order #8321 was despatched on 8 September with Yanwen Special Line
+> Promotion, tracking number UL493236753YP:
+> https://t.17track.net/en#nums=UL493236753YP
+>
+> It's both Plushies — the duck and the elephant — going to Cliffe Woods.
+>
+> If the tracking page isn't showing you anything useful, or the parcel doesn't
+> turn up, reply here and tell me and I'll pick it up from there.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** eine Auskunft und die Bereitschaft, weiter daran zu
+arbeiten. **Kein Zustelldatum versprochen, keine Zustelldauer geschätzt, keine
+Erstattung und kein Ersatz zugesagt.** **Kein Verweis an den Zusteller.** Die
+Entschuldigung bezieht sich auf **die ausgebliebene Antwort** — sie nennt
+keinen Grund und **schiebt es nicht auf ein technisches Problem**, was aus
+Kundensicht eine Ausrede wäre. Keine Aussage zur Herkunft der Sendung.
+
+---
+
+## #7587 — Susan Hines (wagtailfarm@icloud.com)
+
+**Betreff:** Re: Order
+
+> Dear Susan,
+>
+> Thank you for writing, and I'm sorry you've been left without any news for
+> this long.
+>
+> Your order #7587 — two of the donkey Plushies — was despatched on 3 September
+> with Yanwen Special Line Promotion, tracking number UL478624185YP:
+> https://t.17track.net/en#nums=UL478624185YP
+>
+> I should be straight with you about the cancellation you asked for: the order
+> has already been sent, so it isn't something I can cancel at this point. I'd
+> rather tell you that plainly than let you think it's been done.
+>
+> Your refund request is a different matter and I've passed it to the shop owner
+> today, together with your order details and the fact that you have been
+> waiting since 24 August without a tracking number. I'm not going to tell you
+> yes or no on it myself, because I can't authorise it and I don't want to
+> promise you something that then gets reversed.
+>
+> If the parcel arrives in the meantime, or if it doesn't and you'd like me to
+> chase this again, just reply to this email.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** eine Auskunft, die Weitergabe der Erstattungsforderung
+und eine Nachfass-Zusage. **Die Erstattung wird weder zugesagt noch
+abgelehnt.** Die Stornierung wird **klar als nicht mehr möglich benannt** —
+ohne Ausrede und ohne sie als erledigt darzustellen. **Kein Zustelldatum
+versprochen.** **Kein Verweis an den Zusteller.** Kein Betrag genannt. Keine
+Aussage zur Herkunft der Sendung. Das Bestelldatum wird mit **24.08.** genannt,
+weil das der Shop-Stand ist; ihre Angabe „25th August" wird nicht korrigiert
+und nicht kommentiert.
+
+---
+
+## #7368 — Maurice „Buddy" Giles (mdgiles52@gmail.com)
+
+**Betreff:** Re: Order #7368 confirmed
+
+> Dear Buddy,
+>
+> Thank you for letting us know, and I'm sorry — under an hour is not what you
+> were expecting, and I'm not going to pretend it is.
+>
+> I've found your order #7368, placed on 23 August: the frog.
+>
+> On the refund you've asked for — I'm not going to give you a yes or a no in
+> this email. I can't authorise one myself, and I would rather say that straight
+> out than send you a decision I'd have to take back. Your request goes to the
+> shop owner today with your order details.
+>
+> If you haven't heard back within a few days, reply to this email and I'll
+> chase it up for you.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Die Erstattung wird weder zugesagt noch abgelehnt.** **Nicht behauptet,
+Kauschaden sei nicht gedeckt** — das nähme die Entscheidung vorweg. **Kein
+Betrag genannt und keine Währungsumrechnung**: seine Bestätigung weist
+27,76 USD aus, Shopify 20,34 £; die Differenz ist eine Owner-Frage und wird
+ihm gegenüber nicht angesprochen. Anrede nach seiner eigenen Unterschrift.
+Keine Rücksendeadresse. Keine rechtliche Einordnung.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

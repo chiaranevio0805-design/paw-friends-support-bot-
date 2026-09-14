@@ -503,3 +503,155 @@ abgelehnt, **das Foto von #7578 nicht geöffnet und nichts daraus abgeleitet**,
 kein Verweis an den Zusteller, keine Währungsumrechnung, kein Zustelldatum
 versprochen, keine Rücksendeadresse, keine rechtliche Einordnung, kein Label
 gesetzt, **kein Entwurf in Gmail angelegt**.
+
+---
+
+## Lauf 12:20 UTC — vier Zuschriften in 25 Minuten, darunter ein Sicherheitsfall
+
+Zwischen 11:42 und 12:07 sind **vier** Mails eingegangen.
+
+### 🚩 #7323 — David Buckley (`dbuckley@orkinau.com`), 14.09. 11:48 UTC
+
+Betreff: „Product Complaint – Order #7323". **Drei Fotos beigefügt** — der Bot
+hat sie **nicht geöffnet und beurteilt sie nicht**.
+
+- Bestellung **23.08.**, Versand **02.09.** — **10 Tage bis zum Versand**
+- **20,34 £**, bezahlt, FULFILLED
+- Ein Plushie, Variante *monkey*
+- 4PX Standard Registered, `4PX3003122375183CN`
+- Lieferadresse **Ellenbrook, Western Australia — Australien**
+
+Wortlaut:
+
+> „I purchased this product **specifically because it was advertised as being
+> designed for dogs that destroy toys**. Unfortunately, it lasted approximately
+> 40 minutes before the ears came off, followed by the legs about five minutes
+> later. **The stuffing is now also being pulled out piece by piece, making the
+> toy unsafe for continued use.** […] Please advise how you intend to resolve
+> this, either through a full refund or a suitable replacement that meets the
+> advertised durability claims."
+
+**Zwei Eskalationsauslöser in einer Mail:**
+
+1. **Bestrittene Werbeaussage, ausdrücklich als Kaufgrund benannt.** Seine
+   Wiedergabe — „designed for dogs that destroy toys" — ist am Produkttitel
+   **belegt**: „Plushies – Designed for Furry Friends Who Destroy Everything".
+2. **Sicherheitsmeldung.** Er bezeichnet das Spielzeug als *„unsafe for
+   continued use"*. **Der Bot trifft dazu keine Feststellung** — weder dass es
+   unsicher ist noch dass es sicher ist. **Das ist eine Owner-Frage.**
+   Festgehalten wird nur: **ein Kunde hat ein Sicherheitsproblem gemeldet und
+   mit Fotos belegt.**
+
+**Am 12.09. wurde geprüft, dass in `descriptionHtml` kein Warnhinweis zu einer
+Verschluckungsgefahr steht.** Das wird hier ohne Schlussfolgerung vermerkt.
+
+**Zweiter gemeldeter Sicherheitsfall nach #7608 vom 13.09.**
+
+→ `Bot/Escalated - Owner Attention`, **hohe Priorität**.
+**Eskalationsgrund:** Sicherheitsmeldung mit Fotobeleg; bestrittene
+Werbeaussage, ausdrücklich als Kaufgrund genannt.
+**Nicht auf der Erstattungsliste** — kein Regelfall nach der geltenden Regel.
+**Er verlangt ausdrücklich Erstattung oder Ersatz; beides ist offen.**
+
+### #8321 — Darren Calver (`stockingseight@gmail.com`), 14.09. 11:42 UTC
+
+> „Any update on my dogs toys pls ? **Await your response**"
+
+**Das ist seine zweite Anfrage.** Die erste kam am **13.09. um 17:36**, wurde
+im 18:20-Lauf als `Bot/Draft Ready` erfasst, und der Entwurf wurde
+geschrieben. **Er ist nie hinausgegangen** — es gibt keine Sendefunktion, und
+`create_draft` ist seit dem 21.08. blockiert.
+
+**Das gehört ausdrücklich festgehalten: Diese zweite Anfrage ist nicht sein
+Versäumnis, sondern unseres.** Es ist der erste belegte Fall, in dem die
+Entwurfsblockade **nachweislich** einen zweiten Kundenkontakt ausgelöst hat.
+Achtzehn Stunden, und die Auskunft, die er wollte, lag die ganze Zeit fertig
+vor.
+
+- Bestellung **31.08.**, Versand **08.09.** — 8 Tage bis zum Versand
+- **27,95 £**, bezahlt, FULFILLED
+- Zwei Plushies: *Duck* und *elephant*
+- Yanwen Special Line Promotion, `UL493236753YP`
+
+→ **Bleibt `Bot/Draft Ready`.** Formal ist „wiederholter unerledigter Kontakt"
+ein Eskalationsauslöser — **hier wird er nicht angewandt**, weil der Fall
+sachlich unverändert mit einer Auskunft erledigt ist und eine Hochstufung nur
+verdecken würde, woran es wirklich liegt. **Der Entwurf vom 13.09. wird um
+eine Entschuldigung für die ausgebliebene Antwort ergänzt.**
+
+### #7587 — Susan Hines (`wagtailfarm@icloud.com`), 14.09. 11:51 UTC
+
+> „I ordered and paid for two of your toys on the 25th August. **Still not
+> received. Could you please cancel and refund .**"
+
+- Bestellung **24.08.** (sie schreibt 25.08.), Versand **03.09.** — 10 Tage
+- **27,95 £**, bezahlt, FULFILLED
+- **Zwei** Plushies der Variante *donkey*
+- Yanwen Special Line Promotion, `UL478624185YP`
+- Lieferadresse Tonbridge, England
+
+**Die Ware ist seit elf Tagen unterwegs, nicht unversandt.** Eine Stornierung
+vor Versand ist damit sachlich nicht mehr möglich — **und `orderCancel` ist
+für diese Verbindung ohnehin gesperrt**. Der Fall fällt deshalb **nicht** unter
+„vor Versand storniert".
+
+**Die Sendungsnummer wurde ihr nie mitgeteilt.** Das ist der Kern: Sie fragt
+nach einer Stornierung, weil sie nicht weiss, dass und wann versendet wurde.
+
+→ `Bot/Needs Approval`. **Sagbar sind Versanddatum, Zusteller, Nummer und
+Link. Offen ist die Erstattung**, die sie ausdrücklich verlangt hat — das ist
+eine Owner-Entscheidung. **Nicht auf der Erstattungsliste**, weil kein
+Regelfall belegt ist: nicht zugestellt ist etwas anderes als nachweislich
+verloren.
+
+### #7368 — Maurice „Buddy" Giles (`mdgiles52@gmail.com`), 14.09. 12:07 UTC
+
+> „This did not last 1 hours. Could I get a refund?"
+
+- Bestellung **23.08.**, Versand **03.09.** — 11 Tage
+- Ein Plushie, Variante *frog*
+- WB US (Selected postal codes), `WNBAA0498036409YQ`
+- Lieferadresse Toano, Virginia
+
+**Währungsdifferenz:** Seine Bestellbestätigung weist **27,76 USD** aus, in
+Shopify steht die Bestellung mit **20,34 £ GBP**. **Es wird nicht
+umgerechnet und keine der beiden Zahlen als die richtige bezeichnet** — die
+Differenz wird dem Owner vorgelegt. Im Entwurf wird **kein Betrag genannt**.
+
+Unterschrieben hat er mit **Buddy**, im Shop steht **Maurice Giles**. Die
+Anrede folgt seiner Unterschrift.
+
+**Einstufung:** Erstkontakt, kein Recht zitiert, keine Bewertung angedroht,
+kein Sicherheitsproblem, kein ausdrücklicher Werbevorwurf. **Formal kein
+Eskalationsauslöser** — wie #7673 und #7663, und aus demselben Grund keine
+Vorlagen-Absage.
+
+→ `Bot/Needs Approval`. **Offen ist ein Ja oder Nein zur Erstattung.**
+
+### Eine Beobachtung zur Versandcharge vom 03.09.
+
+**Vier der heutigen Zuschriften betreffen Bestellungen, die am 03.09. mit
+Yanwen Special Line Promotion versendet wurden:**
+
+| Bestellung | Sendungsnummer | Anliegen heute |
+|---|---|---|
+| #7657 John Furlong | `UL478624163YP` | „where my order is" |
+| #7587 Susan Hines | `UL478624185YP` | „still not received", Storno |
+| #7578 Luke Buttrey | `UL478624336YP` | „Where's my order" |
+
+**Drei aufeinanderfolgende Sendungsnummern derselben Charge, drei Kunden,
+derselbe Vormittag, dieselbe Frage.** Der Bot zieht daraus **keinen Schluss
+über die Sendungen** — er hält fest, dass **keiner der drei seine
+Sendungsnummer je erhalten hat** und alle drei sie hier bekommen könnten.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`: **#7323**, **#8321 (zweite
+Fassung)**, **#7587**, **#7368**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt oder
+abgelehnt, **keine Feststellung zur Sicherheit des Produkts in die eine oder
+andere Richtung**, die Fotos nicht geöffnet, **keine Währungsumrechnung**,
+keine Stornierung vorgenommen (gesperrt und sachlich überholt), kein Verweis
+an den Zusteller, keine Rücksendeadresse, keine rechtliche Einordnung, kein
+Label gesetzt, **kein Entwurf in Gmail angelegt**.
