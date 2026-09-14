@@ -863,3 +863,149 @@ Volltext in `docs/entwuerfe-zum-kopieren.md`: **#7581**.
 oder abgelehnt, **keine Währungsumrechnung und keine der beiden Zahlen
 bestätigt**, die sechs Bilder nicht geöffnet, keine Rücksendeadresse, keine
 rechtliche Einordnung, kein Label gesetzt, **kein Entwurf in Gmail angelegt**.
+
+---
+
+## Lauf 16:20 UTC — 🚩🚩🚩 #7479, und zwei offene Fragen sind beantwortet
+
+### Zuerst eine Korrektur in eigener Sache
+
+**Heute früh, im 08:20-Lauf, wurde zu #6936 Lisa Steggel festgehalten, die von
+ihr zitierte Formulierung „You claim no dog has beaten it" stehe „weder
+wörtlich noch sinngemäss" in der geprüften Produktbeschreibung. Das war zu
+weit gefasst.**
+
+Geprüft war am 12.09. **die Beschreibung der Plushies**. Die heutige Zuschrift
+von Richard Bellamy betrifft ein **anderes Produkt**, die
+**Paw-Friends™-Fluffys**, und hat dazu geführt, dass dessen Beschreibung zum
+ersten Mal abgerufen wurde. **Dort steht, wörtlich:**
+
+> **„40,000 dogs have tried. Not one has beaten them yet."**
+> **„Still undefeated. Is your dog the one that changes that?"**
+> **„Soft enough that he wants it close. Strong enough that he can't take it
+> apart."**
+
+**Die Aussage, die Lisa Steggel zitiert hat, ist also veröffentlicht** — auf
+der Fluffys-Seite. Sie hat Plushies gekauft, nicht Fluffys; **ob sie den Satz
+dort oder anderswo gelesen hat, ist von hier aus nicht feststellbar**. Aber
+die Feststellung „steht nirgends" war falsch, und das gehört richtiggestellt.
+
+**Die allgemeine Lehre daraus:** Bisher wurde jede zitierte Werbeaussage gegen
+**eine** Produktbeschreibung geprüft. Der Shop führt mindestens neun Produkte.
+**Künftig wird eine Formulierung erst dann als „nicht auffindbar" bezeichnet,
+wenn mehr als ein Produkt geprüft wurde.**
+
+### 🚩 Und die zweite Frage: der Garantietext ist gefunden
+
+**Seit dem 12.09. steht im Protokoll, der 30-Tage-Garantietext sei in
+`descriptionHtml` nicht enthalten und die Bedingung „unbenutzt" nicht
+belegbar.** Bei den Plushies trifft das weiterhin zu.
+
+**In der Fluffys-Beschreibung steht er.** Als Aufzählungspunkt, wörtlich:
+
+> ✓ Double-layer cord shell
+> ✓ Triple-stitched at every seam
+> ✓ Soft enough to carry around all day
+> **✓ 30-day money-back guarantee**
+
+**Ohne jede Bedingung.** Kein „unused", kein „original condition", kein
+„undamaged" — vier Häkchen, und das vierte ist die Garantie.
+
+**Das ist genau die Fundstelle, nach der #7292 tracy hartley zweimal gefragt
+hat**, und genau der Punkt, den **#5032 Adam Murgatroyd** heute früh gemacht
+hat. **Der Bot zieht daraus keine rechtliche Folgerung und legt die Garantie
+nicht aus.** Er hält fest, was im Shop steht: **die Garantie ist dort ohne
+einschränkende Bedingung veröffentlicht, die Vorlage nennt eine.** Diese
+Diskrepanz gehört dem Owner vorgelegt, und sie betrifft rückwirkend jede der
+dreiundzwanzig Absagen.
+
+**Was weiterhin nicht gefunden wurde:** das Wort „indestructible" — auch in
+der Fluffys-Beschreibung kommt es **nicht** vor. Die Quellenfrage aus dem
+13:20-Lauf (#7698: Facebook) bleibt offen.
+
+### 🚩🚩🚩 #7479 — Richard Bellamy-Williams (`richard@brownwolf.net`), 14.09. 16:03 UTC
+
+Betreff: „Refund request and business address request".
+
+- Bestellung **23.08.**, Versand **03.09.** — 10 Tage bis zum Versand
+- **29,95 £**, bezahlt, FULFILLED, Tag `Kaching Bundles`
+- **Zwei Paw-Friends™-Fluffys**: *frog* und *giraffe* (**nicht** Plushies)
+- Yanwen Special Line Promotion, `UL478624605YP`
+- Lieferadresse Swindon, England — **Vereinigtes Königreich**
+
+**Einzelpreise 2 × 29,95 £ = 59,90 £, bezahlt 29,95 £.** Kein Anteil je
+Position geschätzt.
+
+Wortlaut:
+
+> „I purchased two of your **chew-proof designed for heavy chewers** toys
+> (order 7479). The first item was in pieces before the second was even opened.
+> Clearly these are **unfit for purpose** given the advertising **copies of
+> which I have taken along with a scrape of the website and domain
+> registration details**.
+>
+> Could I please ask **how I take you up on your 30 day money back guarantee**
+> (6 hours after receipt) **for the unopened item still in its original
+> packaging**.
+>
+> I also note your website isn't complying with it's obligations under **UK
+> Electronic Commerce Regulations 2002** re the publication of a **physical
+> location** for your office/offices. Therefore, could I please request that
+> now **should it be required for subsequent service**.
+>
+> Should I not hear **by 21st September** then I will take the matter and
+> website up with **the relevant regulators**."
+
+**Vier Punkte, jeder für sich owner-pflichtig:**
+
+1. **Er hat Beweise gesichert** — Kopien der Werbung, einen Scrape der Website
+   und die Domain-Registrierungsdaten. **Das ist der erste Kunde, der das
+   ausdrücklich mitteilt.** Was immer die Werbetexte heute sagen, sein Stand
+   ist festgehalten.
+2. **Sein Anspruch betrifft den ungeöffneten Artikel in Originalverpackung.**
+   **Damit fällt er unter die Rückgaberegelung genau so, wie die Vorlage sie
+   formuliert** — „items returned unused and in their original condition".
+   **Das ist der erste Fall, in dem die Bedingung der Vorlage erfüllt ist.**
+   Der Bot sagt ihm **keine Erstattung zu** — aber der Owner soll sehen, dass
+   hier nichts auszulegen ist.
+3. **Er fragt nach dem Garantieweg — und es gibt keinen.** Seit 32 Tagen ist
+   keine Rücksendeadresse auffindbar. **Es wird keine erfunden.**
+4. **Er verlangt die physische Geschäftsanschrift**, ausdrücklich *„should it
+   be required for subsequent service"* — also für eine mögliche Zustellung
+   im Rechtsverkehr. **Der Bot nennt keine.** In Shopify steht als
+   Fulfilment-Standort „Kirchstr. 2"; **das ist ein Lagerfeld, keine geprüfte
+   Geschäftsanschrift, und es als solche herauszugeben wäre eine Behauptung,
+   die der Bot nicht belegen kann.** **Das ist eine Owner-Entscheidung, und
+   zwar eine rechtliche.**
+
+**Er ist der dritte Kunde mit „unfit for purpose"** (nach #5829 und #6781) und
+**der vierte mit einer ausdrücklichen Gesetzesnennung** — hier sogar ein
+zweites Regelwerk neben dem Consumer Rights Act.
+
+→ `Bot/Escalated - Owner Attention`, **höchste Priorität, zeitgebunden**.
+**Eskalationsgrund:** zwei Gesetzesnennungen; angekündigte Einschaltung von
+Regulierungsbehörden mit Frist; gesicherte Beweise; bestrittene Werbeaussage;
+Anspruch auf die Garantie für unbenutzte Ware.
+
+**Nicht auf der Erstattungsliste** — **nicht weil der Anspruch schwach wäre,
+sondern weil `refundCreate` gesperrt ist und der Anteil je Position aus dem
+Kaching-Bundle ohne Admin nicht bestimmbar ist.** Der Owner muss entscheiden
+und ausführen.
+
+### Neue Frist
+
+**#7479 Richard Bellamy-Williams — 21.09.**, danach Regulierungsbehörden.
+**Ab morgen in der Kopfzeile des Tagesprotokolls mitzuführen**, neben #6877
+(15.09. 12:38 UTC) und #7699 (17.09.).
+
+### Entwürfe
+
+Volltext in `docs/entwuerfe-zum-kopieren.md`: **#7479**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt oder
+abgelehnt, **keine Rücksendeadresse genannt oder erfunden**, **keine
+Geschäftsanschrift genannt — „Kirchstr. 2" ausdrücklich nicht
+herausgegeben**, **keine rechtliche Einordnung zu beiden zitierten
+Regelwerken**, die Garantie weder ausgelegt noch als bedingungslos
+zugesichert, kein Anteil je Position geschätzt, kein Label gesetzt, **kein
+Entwurf in Gmail angelegt**.

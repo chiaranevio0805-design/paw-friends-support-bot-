@@ -3649,6 +3649,67 @@ Rücksendeadresse. Keine rechtliche Einordnung.
 
 ---
 
+## #7479 — Richard Bellamy-Williams (richard@brownwolf.net)
+
+**Betreff:** Re: Refund request and business address request
+
+> Dear Mr Bellamy-Williams,
+>
+> Thank you for setting this out so precisely. I'd rather answer it the same
+> way than send you something smooth, so I'll take your points in turn and tell
+> you plainly where I can't help.
+>
+> Your order #7479, placed on 23 August: two of the Fluffys, the frog and the
+> giraffe, despatched on 3 September.
+>
+> **The unopened item.** You've asked how to take up the 30-day money-back
+> guarantee for the one still in its packaging. I have to be honest with you:
+> I do not have a returns address to give you. There isn't one I can find, and
+> I am not going to invent an address and have you post a parcel to it. Your
+> request is going to the shop owner today, flagged specifically as a claim on
+> an unused item in its original packaging.
+>
+> **The business address.** I'm not able to give you one. There is an address
+> in our system attached to fulfilment, but I cannot confirm it is the
+> company's registered or trading address, and given the use you've described I
+> am not going to hand you something I can't stand behind. That request goes to
+> the owner today as well, as a request that needs answering by him and not by
+> me.
+>
+> **The advertising.** You've quoted how the toys were described and told us
+> you have kept copies. I'm not going to argue with you about the wording, and
+> I'm also not going to give you a view on whether it meets the standard you
+> cite — that isn't mine to give from a support inbox.
+>
+> **A refund.** I can't authorise one, so I'm not going to promise you one or
+> refuse you one.
+>
+> What I can tell you is that your email goes in front of the shop owner today
+> in full, with your date of 21 September on it. If you have heard nothing from
+> him by then, that is his position and not an oversight at my end — but reply
+> to me in the meantime and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die vollständige Weitergabe an den Owner, mit seiner
+Frist vermerkt, und eine Nachfass-Zusage. **Keine Erstattung zugesagt und
+keine abgelehnt.** **Keine Rücksendeadresse — das Fehlen wird offen
+eingeräumt.** **Keine Geschäftsanschrift**: dass es im System eine
+Fulfilment-Adresse gibt, wird eingeräumt statt verschwiegen, aber **sie wird
+nicht genannt**, weil nicht belegt ist, dass es die Geschäftsanschrift ist,
+und er sie ausdrücklich für eine mögliche Zustellung im Rechtsverkehr
+verlangt. **Keine Einordnung zum Consumer Rights Act und keine zu den
+Electronic Commerce Regulations 2002** — weder zustimmend noch ablehnend.
+**Die Garantie wird nicht ausgelegt** — weder als bedingungslos zugesichert
+noch mit der Bedingung „unbenutzt" versehen; dass sein Artikel ungeöffnet ist,
+wird als **Sachverhalt** an den Owner weitergegeben, nicht als Anspruch
+bewertet. Kein Betrag, kein Anteil je Position. Keine Entschuldigung für das
+Produkt.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
