@@ -655,3 +655,148 @@ andere Richtung**, die Fotos nicht geöffnet, **keine Währungsumrechnung**,
 keine Stornierung vorgenommen (gesperrt und sachlich überholt), kein Verweis
 an den Zusteller, keine Rücksendeadresse, keine rechtliche Einordnung, kein
 Label gesetzt, **kein Entwurf in Gmail angelegt**.
+
+---
+
+## Lauf 13:20 UTC — 🚩 vier weitere in 47 Minuten, und eine Quelle wird zum ersten Mal genannt
+
+Zwischen 12:20 und 13:07 sind **vier** weitere Mails eingegangen. **Drei von
+ihnen benutzen das Wort „indestructible".**
+
+### 🚩🚩 #7698 — Amy Burnell (`amy19902@hotmail.co.uk`), 14.09. 13:01 UTC
+
+Betreff: „Order 7698". **Zwei Fotos beigefügt** — nicht geöffnet, nicht
+beurteilt.
+
+- Bestellung **25.08.**, Versand **03.09.** — 9 Tage bis zum Versand
+- **27,95 £**, bezahlt, FULFILLED
+- Zwei Plushies: *fox* und *elephant*
+- Yanwen Special Line Promotion, `UL478625495YP`
+- Lieferadresse Harleston, England
+
+Wortlaut:
+
+> „I ordered these **under the advertisement of being indestructible**, now
+> don't get me wrong I expected they would not survive forever but thought my
+> dogs would get a few months at least of fun out of them. However […] 15 mins
+> after handing these to my dogs there is a tear in one already and **is now
+> unusable as it is a choking hazard**. […] I bought these **based on the
+> amazing reviews on Facebook** and frankly I wish I wasn't sucked in by them"
+
+**Das ist die erste Kundin, die eine Quelle konkret benennt.**
+
+Seit dem 12.09. steht fest, dass **„indestructible" in der geprüften
+Produktbeschreibung nicht vorkommt**. Die Frage, wo es dann steht, war seither
+offen. **#7030 Jordan Hauler** sagte heute Nacht *„the reviews and things you
+post"*. **Amy Burnell sagt jetzt: Facebook.**
+
+**Der Bot hat das nicht geprüft und kann es nicht prüfen** — Anzeigen- und
+Seitentexte waren von hier aus nie einsehbar. **Er behauptet nichts darüber,
+was auf Facebook steht.** Festgehalten wird ausschliesslich: **zwei
+unabhängige Kunden verweisen auf veröffentlichte Inhalte ausserhalb der
+Produktseite, eine davon namentlich auf Facebook.** **Das ist die
+Owner-Prüfung, und sie ist jetzt konkret adressierbar.**
+
+**Dazu eine Sicherheitsmeldung:** *„a choking hazard"*. **Der Bot trifft dazu
+keine Feststellung.** Es ist die **dritte** gemeldete Sicherheitssorge nach
+#7608 (13.09.) und #7323 (heute 11:48).
+
+→ `Bot/Escalated - Owner Attention`, **hohe Priorität**.
+**Eskalationsgrund:** Sicherheitsmeldung mit Fotobeleg; bestrittene
+Werbeaussage; benannte externe Quelle.
+**Nicht auf der Erstattungsliste** — kein Regelfall. **Sie verlangt Rücksendung
+und Erstattung; beides ist offen, und eine Rücksendeadresse gibt es nach wie
+vor nicht.**
+
+### 🚩 #7647 — Jack Carter (`jackcarter943@gmail.com`), 14.09. 13:07 UTC
+
+- Bestellung **24.08.**, Versand **03.09.** — 10 Tage
+- **27,95 £**, bezahlt, FULFILLED
+- Zwei Plushies: *fox* und *frog*
+- Yanwen Special Line Promotion, `UL478624279YP`
+- Lieferadresse Rochester, England
+
+Wortlaut: *„It was **sold as 'indestructible' dog toys**. […] My dog hasn't
+even had it five minutes and has already destroyed the toy. I expect a full
+refund on my order as **you are in breach of your 'customer promise'**. I have
+also waited **the best part of a month** for these sub standard toys to
+arrive."*
+
+**Neu ist „customer promise"** — er setzt es in Anführungszeichen, also als
+Bezeichnung von etwas Veröffentlichtem. **In der am 12.09. geprüften
+Produktbeschreibung kommt dieser Begriff nicht vor.** Der Bot weiss nicht, ob
+es ihn gibt, und **behauptet weder das eine noch das andere**. Das reiht sich
+ein neben „indestructible", „no dog has beaten it" (#6936) und „the stuffing
+won't come out" (#4939).
+
+**Zur Wartezeit:** Bestellung 24.08., Versand 03.09. — seine Angabe „best part
+of a month" bis zum Erhalt ist damit **plausibel und wird nicht bestritten**.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage; Berufung auf eine benannte
+Zusage („customer promise"); ausdrückliche Erstattungsforderung.
+
+### 🚩 #7031 — Neil Wilcock (`neilfayekay@googlemail.com`), 14.09. 12:57 UTC
+
+Betreff: „Toy destroyed 5 mins". **Ein Foto und ein Video** (`16567.mp4`)
+beigefügt — **weder geöffnet noch beurteilt**. Es ist der **erste Videobeleg**
+in diesem Postfach.
+
+- Bestellung **21.08.**, Versand **02.09.** — 12 Tage
+- **19,95 £**, bezahlt, FULFILLED
+- Ein Plushie, Variante *monkey*
+- Yanwen Special Line Promotion, `UL476303254YP`
+- Lieferadresse Lydiate, England
+
+Wortlaut: *„I purchased the plushie toy monkey and it lasted all of 5 minutes
+**so indestructible it's not** my 20 month old dog ate it within 5 minutes."*
+
+**Er stellt keine Forderung.** Keine Erstattung verlangt, keine Frist, keine
+Drohung — nur die Feststellung und der Beleg.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage mit Video- und Fotobeleg.
+**Nicht auf der Erstattungsliste** — kein Regelfall, und **er hat nichts
+gefordert**; ihm etwas anzubieten, was er nicht verlangt hat, wäre eine
+Entscheidung des Owners.
+
+### #7231 — Jason Leatherland (`j.leatherland1982@gmail.com`), 14.09. 12:20 UTC
+
+- Bestellung **22.08.**, Versand **02.09.** — 11 Tage
+- **27,95 £**, bezahlt, FULFILLED
+- Zwei Plushies: *frog* und *monkey*
+- Yanwen Special Line Promotion, `UL476311851YP`
+- Lieferadresse Heanor, England
+
+Vollständiger Text: *„After a long wait, I received the order and within 20
+minutes my dog had chewed and destroyed the toys?"*
+
+**Er fordert nichts und wirft nichts vor.** Das Fragezeichen am Ende ist das
+ganze Anliegen. Kein Verbraucherrecht, keine Bewertung, kein
+Sicherheitsproblem, kein ausdrücklicher Werbevorwurf.
+
+→ `Bot/Needs Approval`. **Wie #7673, #7663 und #7368 keine Vorlagen-Absage.**
+**Offen ist, was ihm angeboten wird** — das ist eine Owner-Entscheidung, und
+er hat nichts verlangt, worauf sich eine Absage überhaupt beziehen könnte.
+
+### Die Zählung für heute
+
+**Fünf Kundinnen und Kunden haben heute das Wort „indestructible" benutzt:**
+#7030 (00:42), #4822 (00:28), #7031 (12:57), #7698 (13:01), #7647 (13:07).
+**Am 12.09. wurde geprüft, dass es in der Produktbeschreibung nicht steht.**
+
+**Die Versandcharge vom 03.09. mit Yanwen Special Line Promotion** ist heute
+mit **vier** Bestellungen vertreten: `…163YP` (#7657), `…185YP` (#7587),
+`…279YP` (#7647), `…336YP` (#7578) — dazu `…495YP` (#7698). **Fünf Kunden aus
+einer Charge, ein Vormittag.**
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`: **#7698**, **#7647**,
+**#7031**, **#7231**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt oder
+abgelehnt, **keine Feststellung zur Sicherheit**, **nichts darüber behauptet,
+was auf Facebook oder in einem „customer promise" steht**, Fotos und Video
+nicht geöffnet, keine Rücksendeadresse genannt (es gibt keine), keine
+rechtliche Einordnung, kein Label gesetzt, **kein Entwurf in Gmail angelegt**.

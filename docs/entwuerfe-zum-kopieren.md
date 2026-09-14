@@ -3457,6 +3457,163 @@ Keine Rücksendeadresse. Keine rechtliche Einordnung.
 
 ---
 
+## #7698 — Amy Burnell (amy19902@hotmail.co.uk)
+
+**Betreff:** Re: Order 7698
+
+> Dear Amy,
+>
+> Thank you for writing, and for the photographs. Fifteen minutes is not what
+> you were promised by your own account of it, and I'm not going to talk you
+> round.
+>
+> I've found your order #7698, placed on 25 August — the fox and the elephant.
+>
+> Two things in your email are going straight to the shop owner today rather
+> than being answered by me.
+>
+> The first is that you've told us one of the toys is now a choking hazard. I'm
+> not going to offer you my own assessment of that — I'm not qualified to give
+> one and you'd be right not to want it from an email. It goes across marked as
+> a safety report, with your photographs.
+>
+> The second is where you saw the product described. You've said Facebook
+> reviews, and that you bought on the strength of them. I can't see from here
+> what is posted there, so I'm not going to tell you what those reviews do or
+> don't say. What I can do is put your email in front of the person who can
+> check, and I have flagged that specific point.
+>
+> On the return and refund you've asked for: I'm not able to authorise either,
+> so I'm not going to promise you one. I should also be honest that I don't have
+> a returns address I can give you — I'm not going to invent one and have you
+> post a parcel into nowhere.
+>
+> If you haven't heard back within a few days, reply to this email and I'll
+> chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner — ausdrücklich als
+Sicherheitsmeldung und mit der Quellenfrage markiert — und eine
+Nachfass-Zusage. **Keine Erstattung und keine Rücksendung zugesagt oder
+abgelehnt.** **Keine Aussage darüber, ob das Spielzeug eine
+Verschluckungsgefahr darstellt.** **Keine Aussage darüber, was auf Facebook
+steht** — weder bestätigend noch bestreitend. **Keine Rücksendeadresse
+erfunden**; das Fehlen wird offen benannt. Das Wort „indestructible" wird
+nicht wiederholt. Fotos nicht gedeutet. Kein Betrag. Keine rechtliche
+Einordnung.
+
+---
+
+## #7647 — Jack Carter (jackcarter943@gmail.com)
+
+**Betreff:** Re: Order 7647
+
+> Dear Jack,
+>
+> Thank you for writing. You're angry, and from what you describe I'm not going
+> to tell you that you shouldn't be.
+>
+> Your order #7647 was placed on 24 August and despatched on 3 September — the
+> fox and the frog. So your description of the wait is fair, and I won't argue
+> with it.
+>
+> On the rest, I want to be straight rather than smooth. You've quoted two
+> things back at us: that the toys were sold as indestructible, and that there is
+> a customer promise we're in breach of. I'm not in a position from here to
+> confirm the exact wording of either, and I am not going to pretend to you that
+> I can, nor am I going to wave them away. Both points go to the shop owner
+> today along with your refund request, quoted as you wrote them.
+>
+> I can't authorise a refund myself, so I'm not going to tell you one is coming.
+> What I can tell you is that this is going in front of the owner today.
+>
+> If you've heard nothing in a few days, reply here and I'll chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Keine Erstattung zugesagt oder abgelehnt.** **Weder bestätigt noch
+bestritten, dass es ein „customer promise" gibt oder was darin steht.**
+**Keine Aussage dazu, ob die Toys als „indestructible" beworben wurden.** Die
+Wartezeit wird **bestätigt**, weil Bestell- und Versanddatum aus den
+Shop-Daten belegt sind. Keine Entschuldigung für das Produkt. Kein Betrag.
+Keine Rücksendeadresse. Keine rechtliche Einordnung, obwohl er „breach"
+schreibt.
+
+---
+
+## #7031 — Neil Wilcock (neilfayekay@googlemail.com)
+
+**Betreff:** Re: Toy destroyed 5 mins
+
+> Dear Neil,
+>
+> Thank you for sending the photo and the video — that tells us more than a
+> description would, and I'd rather have it.
+>
+> I've found your order #7031, placed on 21 August: the monkey.
+>
+> You haven't asked us for anything, so I'm not going to put words in your
+> mouth or tell you what you're entitled to. What I've done is send your email,
+> with the video, to the shop owner, because five minutes is worth him seeing
+> for himself rather than reading in a summary from me.
+>
+> If there is something you would like done about it — a refund, a replacement,
+> or simply an answer — tell me and I'll make sure that goes with it. And if you
+> just wanted us to know, that's fine too; it's on record now.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner. **Keine Erstattung und
+kein Ersatz zugesagt, angeboten oder abgelehnt** — er hat nichts gefordert,
+und ihm etwas anzubieten wäre eine Entscheidung, die dem Owner zusteht; die
+Frage nach seinem Wunsch ist **offen gestellt, ohne Vorauswahl**. **Keine
+Aussage dazu, ob die Werbung zutrifft** — das Wort „indestructible" wird nicht
+aufgegriffen. Video und Foto nicht gedeutet. Kein Betrag. Keine
+Rücksendeadresse. Keine rechtliche Einordnung.
+
+---
+
+## #7231 — Jason Leatherland (j.leatherland1982@gmail.com)
+
+**Betreff:** Re: Order #7231 confirmed
+
+> Dear Jason,
+>
+> Thank you for letting us know, and I'm sorry — a long wait followed by twenty
+> minutes is a poor return on both counts.
+>
+> I've found your order #7231, placed on 22 August and despatched on 2
+> September: the frog and the monkey.
+>
+> You haven't told me what you'd like us to do, so I'm not going to decide that
+> for you. I've sent your email to the shop owner today so that someone who can
+> actually make a decision sees it. If there's something particular you want —
+> a refund, a replacement, or an explanation — say so and I'll pass that on too.
+>
+> Either way, reply here if you haven't heard back in a few days.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Keine Erstattung und kein Ersatz zugesagt, angeboten oder abgelehnt.**
+**Nicht behauptet, Kauschaden sei nicht gedeckt** — es gibt hier keine
+Forderung, auf die sich eine Absage beziehen könnte. Die Entschuldigung
+bezieht sich auf **die Wartezeit und den Verlauf**, nicht auf eine
+Produktzusage. Kein Betrag. Keine Rücksendeadresse. Keine rechtliche
+Einordnung.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
