@@ -2933,6 +2933,89 @@ der Nummer ist als eigenes Problem formuliert, nicht als Bedingung.
 
 ---
 
+## #7030 — Jordan Hauler (jhauler0317@gmail.com)
+
+**Betreff:** Re: My order
+
+> Dear Jordan,
+>
+> Thank you for writing, and I'm sorry this is how your order turned out. Two
+> dogs, an hour, and one toy already torn apart is not the outcome we want you
+> to have, and I'm not going to pretend otherwise.
+>
+> I've looked up your order — placed on 21 August, two Plushies, the donkey and
+> the monkey. I can see you've put the second one away untouched.
+>
+> You've raised something I want to be straight with you about rather than
+> answer with a stock line. You say you saw our items described as indestructible
+> and made for heavy chewers. I'm not able to confirm from here exactly which
+> wording you saw or where it appeared, and I don't want to guess at it or talk
+> around it. Your message is going to the shop owner today, with your order
+> details and what you've quoted, because a question about how the product is
+> described is theirs to answer and not something I should settle for you on my
+> own.
+>
+> What I can do straight away: if you're able to send a photo or two of the torn
+> toy, that goes across with everything else and saves a round of questions later.
+>
+> I'm not going to promise you an outcome in this email, because I'd rather say
+> nothing than say something I can't stand behind. What I will do is make sure
+> this doesn't sit unanswered — if you haven't heard back within a few days,
+> reply to this email and I'll chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage
+bei ausbleibender Antwort. **Keine Erstattung, kein Ersatz, keine Aussage
+darüber, ob die Werbeaussage zutrifft oder nicht.** Das Wort „indestructible"
+wird zitiert, weil der Kunde es benutzt hat — **nicht als Aussage des Shops
+übernommen und nicht bestritten**. Keine Frist genannt. Keine
+Rücksendeadresse. Keine rechtliche Einordnung. Der Umstand, dass das zweite
+Spielzeug unbenutzt ist, wird **festgehalten, ohne daraus eine Bedingung oder
+einen Anspruch abzuleiten**.
+
+---
+
+## #4822 — Melody Clement (jclement959@yahoo.com)
+
+**Betreff:** Re: A shipment from order #4822 is on the way
+
+> Dear Melody,
+>
+> Thank you for letting us know, and I'm sorry the donkey didn't last. A week,
+> and then a missing leg and ear, is clearly not what you expected when you
+> bought it.
+>
+> Yes, please do send the photo — it helps, and I'd rather have it than not.
+>
+> On the substance: you've said the toys are not indestructible, and you've
+> asked for a refund. I don't want to answer that with a standard reply, because
+> what you're raising is about how the product was described to you before you
+> bought it, and that isn't mine to decide. I'm passing your email, your order
+> #4822 and your refund request to the shop owner today so it's dealt with by
+> someone who can actually answer it.
+>
+> I'm not going to tell you yes or no on the refund here. I'd be guessing, and
+> you'd rightly hold me to it. What I can tell you is that your request is
+> recorded and going to the right person, not into a queue to be forgotten. If
+> you haven't heard anything back in a few days, reply to this email and I'll
+> follow it up.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Die Erstattung wird weder zugesagt noch abgelehnt.** Keine Aussage zur
+Garantie und ihren Bedingungen. Keine Rücksendeadresse. Keine rechtliche
+Einordnung. **Die 16 Tage bis zum Versand werden nicht angesprochen** — sie hat
+sich darüber nicht beschwert, und es unaufgefordert einzubringen wäre ein
+Nebenschauplatz.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
