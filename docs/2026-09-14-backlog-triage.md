@@ -800,3 +800,66 @@ abgelehnt, **keine Feststellung zur Sicherheit**, **nichts darüber behauptet,
 was auf Facebook oder in einem „customer promise" steht**, Fotos und Video
 nicht geöffnet, keine Rücksendeadresse genannt (es gibt keine), keine
 rechtliche Einordnung, kein Label gesetzt, **kein Entwurf in Gmail angelegt**.
+
+---
+
+## Lauf 14:20 UTC — #7581, und die Währungsdifferenz zeigt sich zum zweiten Mal
+
+### #7581 — Henry Torres (`torresh0927@gmail.com`), 14.09. 14:09 UTC
+
+Betreff: „Re: Order #7581 confirmed". **Sechs Bildanhänge** (`IMG_0808`,
+`IMG_0809`, `IMG_0810`, jeweils doppelt) — **nicht geöffnet, nicht
+beurteilt**.
+
+- Bestellung **24.08.**, Versand **03.09.** — 10 Tage bis zum Versand
+- Ein Plushie, Variante *fox*
+- WB US (Selected postal codes), `WNBAA0498036334YQ`
+- Lieferadresse Lancaster, Kalifornien
+
+Vollständiger Text: *„Good morning. Your toy did not live up to the hype. It
+was destroyed in less that 20 hours"*
+
+**Er fordert nichts.** Keine Erstattung verlangt, keine Frist, keine Drohung,
+kein zitierter Werbesatz.
+
+**Einstufung:** „did not live up to the hype" ist ein Vorwurf **in
+allgemeiner Form** — er benennt **keine konkrete veröffentlichte
+Formulierung**, anders als #7031 Neil Wilcock („so indestructible it's not")
+oder #7647 Jack Carter („customer promise"). **Deshalb kein
+Eskalationsauslöser**, sondern dieselbe Einstufung wie bei #7231 Jason
+Leatherland vor zwei Stunden.
+
+→ `Bot/Needs Approval`. **Offen ist, was ihm angeboten wird** — er hat nichts
+verlangt, und ihm von sich aus etwas anzubieten oder abzusprechen wäre eine
+Owner-Entscheidung.
+
+### 🚩 Die Währungsdifferenz ist kein Einzelfall
+
+**Zum zweiten Mal heute weicht die Bestellbestätigung eines US-Kunden vom
+Shopify-Stand ab — und zwar mit genau denselben zwei Zahlen:**
+
+| Bestellung | In der Bestätigungsmail | In Shopify |
+|---|---|---|
+| **#7368** Maurice Giles (Virginia) | **27,76 USD** | **20,34 £ GBP** |
+| **#7581** Henry Torres (Kalifornien) | **27,76 USD** | **20,34 £ GBP** |
+
+Beide Mails nennen ausserdem einen durchgestrichenen Ausgangspreis von
+**42,00 USD** und einen Rabatt „BUY 1 (-$14.24)".
+
+**Der Bot rechnet nicht um und bezeichnet keine der beiden Zahlen als die
+richtige.** Er hält nur fest: **es ist zweimal dieselbe Paarung, also kein
+Tippfehler in einer einzelnen Bestellung, sondern etwas Systematisches.**
+**Das gehört dem Owner vorgelegt** — welche Zahl der Kunde tatsächlich
+belastet bekommen hat, ist von hier aus nicht feststellbar und für jede
+Erstattungsentscheidung wesentlich.
+
+**In keinem der beiden Entwürfe wird ein Betrag genannt.**
+
+### Entwürfe
+
+Volltext in `docs/entwuerfe-zum-kopieren.md`: **#7581**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, angeboten
+oder abgelehnt, **keine Währungsumrechnung und keine der beiden Zahlen
+bestätigt**, die sechs Bilder nicht geöffnet, keine Rücksendeadresse, keine
+rechtliche Einordnung, kein Label gesetzt, **kein Entwurf in Gmail angelegt**.

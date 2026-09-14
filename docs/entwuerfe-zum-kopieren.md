@@ -3614,6 +3614,41 @@ Einordnung.
 
 ---
 
+## #7581 — Henry Torres (torresh0927@gmail.com)
+
+**Betreff:** Re: Order #7581 confirmed
+
+> Dear Henry,
+>
+> Thank you for writing, and for the photographs — under twenty hours is a
+> straight answer to the question of how it held up, and I'm not going to argue
+> with it.
+>
+> I've found your order #7581, placed on 24 August: the fox.
+>
+> You haven't told me what you'd like done, so I'm not going to assume. I've
+> sent your email and your photos to the shop owner today. If there's something
+> specific you want — a refund, a replacement, or an explanation of how it was
+> described when you bought it — reply and tell me, and that goes across too.
+>
+> Either way, if you hear nothing back in a few days, reply here and I'll chase
+> it up.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Keine Erstattung und kein Ersatz zugesagt, angeboten oder abgelehnt** — er
+hat nichts gefordert. **Nicht behauptet, Kauschaden sei nicht gedeckt.**
+**Keine Aussage dazu, ob die Werbung zutrifft** — „the hype" wird nicht
+aufgegriffen und nicht verteidigt. **Kein Betrag genannt und keine
+Währungsumrechnung**: seine Bestätigung weist 27,76 USD aus, Shopify 20,34 £;
+die Differenz ist eine Owner-Frage. Bilder nicht gedeutet. Keine
+Rücksendeadresse. Keine rechtliche Einordnung.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
