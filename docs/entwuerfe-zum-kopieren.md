@@ -3016,6 +3016,49 @@ Nebenschauplatz.
 
 ---
 
+## #7673 — Michelle Barnes (jjmbarnes15@gmail.com)
+
+**Betreff:** Re: Refund Request - Order #7673
+
+> Dear Michelle,
+>
+> Thank you for writing, and thank you for attaching the photo — it's genuinely
+> useful and saves us both a round of questions.
+>
+> I've found your order #7673, the duck, placed on 25 August. Five minutes is
+> not a reasonable life for a toy, and I'm not going to dress that up.
+>
+> I want to be honest with you about where this stands rather than send you a
+> standard answer. Our returns policy is written around items in unused
+> condition, which a chewed toy by definition isn't — but you bought a product
+> that we ourselves sell under the name "Designed for Furry Friends Who Destroy
+> Everything", and I'm not going to stand here and tell you that the two things
+> sit comfortably together. They don't.
+>
+> So I'm not going to decide your refund by quoting a policy line at you. I'm
+> putting your email, your order and your photo in front of the shop owner today
+> and asking for a decision on it. That's the honest position: your request is
+> with the person who can actually answer it, and I'd rather tell you that than
+> give you a quick no.
+>
+> If you haven't heard back within a few days, reply to this email and I'll
+> chase it up for you.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Vorlage beim Owner und eine Nachfass-Zusage.
+**Die Erstattung wird weder zugesagt noch abgelehnt.** Die Bedingung
+„unbenutzt" wird als **Inhalt der Rückgaberegelung** benannt — **nicht** als
+Fundstelle in der Garantie, weil die seit dem 12.09. unbelegt ist und
+#7292 sie zweimal vergeblich erfragt hat. Der Produkttitel wird zitiert, weil
+er aus den Shop-Daten belegt ist. **Keine Aussage darüber, ob die Werbung
+zutrifft.** Kein Urteil über das Foto. Keine Rücksendeadresse. Keine Frist.
+Keine rechtliche Einordnung.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

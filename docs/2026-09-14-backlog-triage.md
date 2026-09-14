@@ -109,3 +109,64 @@ für die Garantiebedingung erfunden, keine Rücksendeadresse genannt, keine
 rechtliche Einordnung vorgenommen, kein Label gesetzt (Label-Werkzeug weiter
 blockiert), **kein Entwurf in Gmail angelegt** — `create_draft` bleibt nach 21
 Fehlschlägen ausgesetzt.
+
+---
+
+## Lauf 04:20 UTC — #7673, und die Frage, die sich nicht mehr umgehen lässt
+
+### #7673 — Michelle Barnes (`jjmbarnes15@gmail.com`), 14.09. 03:58 UTC
+
+Betreff: „Refund Request - Order #7673". Bestellnummer selbst genannt, in
+Shopify bestätigt.
+
+- Bestellung **25.08.**, Versand **03.09.** — **9 Tage bis zum Versand**
+- **20,35 £**, bezahlt, FULFILLED
+- Ein Plushie, Variante **Duck**
+- WB US (Selected postal codes), `WNBAA0498036347YQ`
+- Lieferadresse Durham, North Carolina
+
+Wortlaut: *„I received the below order and it was destroyed by my daughter's
+dog within five minutes. I would like to request a full refund. Please see
+attached picture of the destroyed duck."*
+
+**Ein Foto liegt bei** (`DC3DFB3C-…jpeg`). Der Bot hat den Bildinhalt **nicht
+geöffnet und beurteilt ihn nicht** — festgehalten wird nur, dass ein Beleg
+mitgeschickt wurde.
+
+### Einstufung — und warum sie diesmal begründet wird
+
+Sie zitiert **kein** Verbraucherrecht, droht **keine** Bewertung an, ist
+**Erstkontakt**, nennt **kein** Sicherheitsproblem und greift die Werbung
+**nicht ausdrücklich** an. **Nach der Liste der Eskalationsauslöser ist das
+keiner.** Formal ist es der Regelfall Kauschaden.
+
+Trotzdem geht der Fall **nicht** mit der Vorlagen-Absage hinaus, und der Grund
+gehört ins Protokoll:
+
+**Das Produkt, das sie gekauft hat, heisst im Shop wörtlich „Plushies –
+Designed for Furry Friends Who Destroy Everything".** Dieser Titel steht in
+der Bestellung, in der Versandbenachrichtigung und in ihrer eigenen Mail —
+er ist **aus Shop-Daten belegt**, nicht behauptet. Einer Kundin, deren Hund
+das Spielzeug in fünf Minuten zerstört hat, mit „Kauschaden ist nicht gedeckt"
+zu antworten, heisst, ihr den Namen des Produkts entgegenzuhalten, den der
+Shop selbst vergeben hat.
+
+**Zweiundzwanzig Vorlagen-Absagen seit dem 11.09., und jede beantwortete hat
+eskaliert.** Der Bot leitet daraus keine Regeländerung ab — die Regel ist
+Sache des Owners. Er legt den Fall aber als **`Bot/Needs Approval`** vor
+statt ihn selbst abzuschliessen, weil eine Absage hier eine Entscheidung
+wäre, die er nicht zu treffen hat.
+
+→ `Bot/Needs Approval`.
+**Nicht auf der Erstattungsliste** — kein Regelfall. **Die Erstattung wird im
+Entwurf weder zugesagt noch abgelehnt.**
+
+### Entwürfe
+
+Volltext in `docs/entwuerfe-zum-kopieren.md`: **#7673 Michelle Barnes**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, nicht
+behauptet, die Garantie decke oder decke nicht — sondern offengelegt, dass
+die Bedingung nicht belegbar ist; das Foto nicht bewertet; keine
+Rücksendeadresse genannt; keine rechtliche Einordnung; kein Label gesetzt;
+**kein Entwurf in Gmail angelegt**.
