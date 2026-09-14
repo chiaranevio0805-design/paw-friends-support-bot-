@@ -3896,6 +3896,126 @@ Rücksendeadresse. Foto nicht gedeutet.
 
 ---
 
+## #7754 — Margaret Timmings (timmingsmargaret@yahoo.co.uk)
+
+**Betreff:** Re: Undistructable teddy's
+
+> Dear Margaret,
+>
+> Thank you for writing on the day they arrived, and for the photo.
+>
+> Your order #7754 from 25 August: two of the monkeys.
+>
+> You've described where it went first — the rope, unravelling at the arms —
+> and that detail is worth more than a general complaint, so thank you for
+> putting it that way. It has gone to the shop owner today exactly as you wrote
+> it, along with your photo.
+>
+> You haven't told me what you'd like done, and I'm not going to decide that on
+> your behalf. If you want a refund, a replacement, or simply an answer about
+> how the toys were described, reply and say so and it goes across with the
+> rest.
+>
+> One thing I won't do is give you a verdict on the second one. You've said your
+> puppy is working through it too — that's your call to make about your own dog,
+> not mine to advise on from here.
+>
+> If you haven't heard back in a few days, reply here and I'll chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Keine Erstattung und kein Ersatz zugesagt, angeboten oder abgelehnt** — sie
+hat nichts gefordert. **Keine Aussage dazu, ob die Werbung zutrifft**; das
+Wort „indestructible" wird nicht aufgegriffen. **Kein Rat, was sie mit dem
+zweiten Spielzeug tun soll** — weder es wegzunehmen noch es weiterzugeben.
+Foto nicht gedeutet. Kein Betrag. Keine Rücksendeadresse.
+
+---
+
+## #6806 — Jay Heap (jayheap@gmail.com)
+
+**Betreff:** Re: Must be defective
+
+> Dear Jay,
+>
+> Thank you — that's a fair and careful message, and I'd rather answer it
+> straight than send you a form reply.
+>
+> Your order #6806 from 20 August: the frog and the duck.
+>
+> You've named the point of failure — the rope — and you've said it wasn't a
+> hard-mouthed dog that did it. Both of those details have gone to the shop
+> owner today with your photos, because they say more than "it broke" does.
+>
+> You asked whether we can make it right. I'm not able to authorise a refund or
+> a replacement myself, so I'm not going to tell you yes and I'm not going to
+> tell you no. What I've done is put it in front of the person who can decide,
+> today, rather than leave you waiting on me.
+>
+> If you haven't heard back within a few days, reply to this email and I'll
+> chase it up.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Keine Erstattung und kein Ersatz zugesagt oder abgelehnt.** **Keine Aussage
+dazu, ob die Werbung zutrifft** — *„as advertised"* wird nicht kommentiert.
+**Kein technischer Schluss aus seiner Beschreibung des Seils** — sie wird
+weitergegeben, nicht bewertet. **Die 13 Tage bis zum Versand werden nicht von
+sich aus angesprochen**; er erwähnt die Wartezeit, beschwert sich aber nicht
+darüber. Fotos nicht gedeutet. Kein Betrag. Keine Rücksendeadresse.
+
+---
+
+## #6477 — Beverley „Bev" McManus (beverleymcmanus373@gmail.com)
+
+**Betreff:** Re: Order #6477
+
+> Dear Bev,
+>
+> Thank you for writing, and for the photos.
+>
+> I've pulled up order #6477, placed on 17 August: one Fluffys giraffe at
+> £29.95, despatched the following day.
+>
+> Two things, and I'll be straight about both.
+>
+> **The refund.** You've asked for £29.95 back, and that is exactly what the
+> order shows, so there is nothing to work out on that side. What I can't do is
+> approve it — that decision is the shop owner's, not mine, and I'm not going to
+> tell you it's coming when I can't make it happen. Your request went to him
+> today with your photos and the wording you quoted.
+>
+> **The buy-one-get-one.** You've said you thought it was buy one get one free.
+> The order I can see has one giraffe on it. I don't know what offer was running
+> on 17 August, and I'm not going to guess — that's a question for the owner too,
+> and I've flagged it as a separate point rather than letting it get lost behind
+> the refund.
+>
+> If you haven't heard back within a few days, reply to this email and I'll
+> chase both.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe beider Punkte an den Owner und eine
+Nachfass-Zusage. **Die Erstattung wird weder zugesagt noch abgelehnt** — der
+Betrag wird **bestätigt**, weil er mit den Shop-Daten übereinstimmt, die
+**Entscheidung** ausdrücklich nicht. **Nicht behauptet, ihr fehle eine
+Position**, und ebenso wenig, dass sie sich irrt — der Bestellinhalt wird
+genannt, die Aktionsfrage offen an den Owner gegeben. **Die Garantie wird
+nicht ausgelegt**, obwohl sie bei den Fluffys ohne Bedingung veröffentlicht
+ist. **Keine Aussage dazu, ob die Werbung zutrifft.** Fotos nicht gedeutet.
+Keine Rücksendeadresse. Keine rechtliche Einordnung.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

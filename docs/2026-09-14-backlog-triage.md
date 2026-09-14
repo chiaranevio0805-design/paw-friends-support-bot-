@@ -1230,3 +1230,128 @@ abgelehnt, **bei #7865 nicht entschieden, ob die Naht bei Ankunft offen war**,
 **bei #6223 die Kartenziffern nicht wiederholt und nicht weitergegeben**, die
 Fotos nicht geöffnet, keine Rücksendeadresse, keine rechtliche Einordnung,
 kein Label gesetzt, **kein Entwurf in Gmail angelegt**.
+
+---
+
+## Lauf 19:20 UTC — drei Zuschriften, und zweimal versagt dieselbe genannte Verstärkung
+
+Zwischen 18:28 und 18:49 sind drei weitere Mails eingegangen.
+
+### 🚩 #7754 — Margaret Timmings (`timmingsmargaret@yahoo.co.uk`), 14.09. 18:28 UTC
+
+Betreff: „Undistructable teddy's". Ein Foto — nicht geöffnet, nicht beurteilt.
+
+- Bestellung **25.08.**, Versand **03.09.** — 9 Tage bis zum Versand
+- **27,95 £**, bezahlt, FULFILLED
+- **Zwei** Plushies, beide Variante *monkey*
+- Yanwen Special Line Promotion, `UL478625566YP` — **wieder die Charge vom
+  03.09.**
+- Lieferadresse Rotherham, England
+
+Wortlaut: *„Received my **undistructable** monkeys **today the 14th**, my 5
+month old cockapoo puppy already destroyed the arms **unravelling the rope**
+[…] and working [his] way through the other one I got for my other dog so
+**not that indestructible** I bought 2 the same"*
+
+**Sie hat heute geliefert bekommen und heute geschrieben.**
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage („indestructible") mit Fotobeleg.
+
+### 🚩 #6806 — Jay Heap (`jayheap@gmail.com`), 14.09. 18:37 UTC
+
+Betreff: „Must be defective". **Zwei Fotos** — nicht geöffnet, nicht beurteilt.
+
+- Bestellung **20.08.**, Versand **02.09.** — 13 Tage bis zum Versand
+- **30,54 £**, bezahlt, FULFILLED
+- Zwei Plushies: *frog* und *Duck*
+- JQ Express US, `JCHSG0000004362699`
+- Lieferadresse Sharpsburg, Georgia
+
+Wortlaut: *„I thought these would be **hard for a dog to tear up, as
+advertised**. Less than three hours after I got it (**2+ weeks wait**), this is
+already happening. **Not an aggressive dog. A mild mannered Brittany. Started
+with the rope** and led to the side. Can you help? Seems like **too much to
+pay for a toy that is supposed to last**. Maybe you can make it right."*
+
+**Er droht nichts an, fordert keinen Betrag und bleibt durchweg freundlich.**
+*„Maybe you can make it right"* ist die ganze Forderung.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage, ausdrücklich als Kaufgrund
+(*„as advertised"*).
+**Nicht auf der Erstattungsliste** — kein Regelfall, und er hat nichts
+beziffert.
+
+### 🚩 Beide nennen dieselbe Stelle: das Seil
+
+**Das ist der Befund dieses Laufs.** In der am 12.09. geprüften
+Plushies-Beschreibung steht wörtlich:
+
+> **„Rope-reinforced construction for extra durability"**
+
+**Margaret Timmings: „unravelling the rope". Jay Heap: „Started with the
+rope".** **Neun Minuten auseinander, zwei verschiedene Länder, zwei
+verschiedene Bestellungen — und beide beschreiben das Versagen genau an dem
+Bauteil, das der Shop als Verstärkung ausweist.**
+
+**Der Bot zieht daraus keinen technischen Schluss** — er hat keine Fotos
+geöffnet und beurteilt keine Konstruktion. **Er hält fest, dass zwei
+unabhängige Meldungen dieselbe benannte Eigenschaft betreffen**, und dass
+diese Eigenschaft **belegt veröffentlicht** ist. **Das ist eine
+Owner-Prüfung**, und anders als die „indestructible"-Frage ist sie an einer
+Formulierung festzumachen, die nachweislich auf der Produktseite steht.
+
+### 🚩 #6477 — Bev McManus (`beverleymcmanus373@gmail.com`), 14.09. 18:49 UTC
+
+Betreff nennt Bestellnummer, Namen und Anschrift. **Zwei Fotos** — nicht
+geöffnet, nicht beurteilt.
+
+- Bestellung **17.08.**, Versand **18.08.** — **1 Tag bis zum Versand**, der
+  schnellste bisher beobachtete Wert
+- **29,95 £**, bezahlt, FULFILLED
+- **Ein** Paw-Friends™-Fluffys, Variante *giraffe*, Einzelpreis **29,95 £**
+- Yanwen Special Line Promotion, `UL432594479YP`
+- Lieferadresse Oldham, England
+
+Wortlaut: *„I ordered a toy giraffe, **which I thought was buy one get one
+free**, on 17th August. […] it arrived 29th August, and was **destroyed by my
+dog in less than 1 hour** — see photos attached. **Given your claim that these
+are indestructible**, I would like a full refund of **£29.95**."*
+
+**Drei Punkte:**
+
+1. **Sie hat Fluffys gekauft, nicht Plushies.** Damit gilt für ihr Produkt die
+   heute erstmals abgerufene Beschreibung mit *„40,000 dogs have tried. Not one
+   has beaten them yet."* und der **bedingungslos aufgeführten
+   30-Tage-Geld-zurück-Garantie**. **Von allen heutigen Fällen ist ihrer der,
+   bei dem die veröffentlichte Zusage am nächsten an ihrer Forderung liegt.**
+   **Der Bot sagt ihr trotzdem nichts zu** — die Auslegung der Garantie ist
+   Owner-Sache.
+2. **Der Betrag stimmt.** Sie nennt **29,95 £**, und genau das steht in
+   Shopify. **Keine Währungsdifferenz**, keine Bundle-Aufteilung — es ist eine
+   einzelne Position. **Das ist der einzige heutige Fall, in dem der geforderte
+   Betrag ohne Admin-Prüfung eindeutig ist.**
+3. **„which I thought was buy one get one free"** — in der Bestellung steht
+   **eine** Position, Menge 1. **Der Bot stellt nicht fest, dass ihr etwas
+   fehlt**, und ebenso wenig, dass sie sich irrt: sie schreibt selbst „I
+   thought". **Ob eine BOGO-Aktion lief und was sie umfasste, ist im Admin zu
+   prüfen** und gehört in die Antwort des Owners, nicht in eine Vermutung von
+   hier.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage; bezifferte Erstattungsforderung
+gegen eine Produktseite, die die Garantie ohne Bedingung führt.
+**Nicht auf der Erstattungsliste** — kein Regelfall nach der geltenden Regel;
+**aber der Owner sollte sie vor #7060 anschauen**, weil hier Betrag, Produkt
+und veröffentlichte Zusage zusammenpassen und nichts zu ermitteln ist.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`: **#7754**, **#6806**, **#6477**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt oder
+abgelehnt, **die Garantie nicht ausgelegt**, **kein technischer Schluss aus den
+zwei Seil-Meldungen**, die Fotos nicht geöffnet, **nicht behauptet, bei #6477
+fehle eine Position**, keine Rücksendeadresse, keine rechtliche Einordnung,
+kein Label gesetzt, **kein Entwurf in Gmail angelegt**.
