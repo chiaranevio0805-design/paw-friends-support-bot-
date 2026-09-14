@@ -269,3 +269,92 @@ der Consumer Rights Act hier greift; keine Erstattung zugesagt oder
 abgelehnt; kein Anteil je Position geschätzt; keine Fundstelle für die
 Garantiebedingung erfunden; keine Rücksendeadresse genannt; kein Label
 gesetzt; **kein Entwurf in Gmail angelegt**.
+
+---
+
+## Lauf 08:20 UTC — #6936 nennt es Betrug, #7657 fragt nur nach dem Paket
+
+Erster Lauf nach dem umgestellten Suchverfahren (`newer_than:1d` plus
+Abgleich gegen das Tagesprotokoll). **Zwei neue Zuschriften, beide um
+07:30–07:34.**
+
+### 🚩 #6936 — Lisa Steggel (`lisac131@googlemail.com`), 14.09. 07:34 UTC
+
+Antwort auf die Vorlagen-Absage vom 13.09. 20:10. **Abstand: 11 Stunden
+24 Minuten.**
+
+- Bestellung **21.08.**, Versand **02.09.** — **12 Tage bis zum Versand**
+- **27,95 £**, bezahlt, FULFILLED, Tag `Kaching Bundles`
+- Zwei Plushies: *monkey* und *donkey*
+- Yanwen Special Line Promotion, `UL476302846YP`
+- Lieferadresse Bristol, England — **Vereinigtes Königreich**
+- **Im Shop steht sie als `LisaC131@gmail.com`**, geschrieben hat sie von
+  `lisac131@googlemail.com` — das ist der Fall vom 12.09., an dem die
+  exakte `email:`-Suche gescheitert war.
+
+Wortlaut:
+
+> „Oh dear that's not very good customer service is it. **You claim no dog
+> has beaten it and that it is durable, what an out and out lie. False
+> advertising.** Why would I spend £30 on something he destroyed in less than
+> an hour! I should've gone to the pound shop and had the same results.
+> **Disgraceful false advertising. Ripped off. Stop lying, to sell your poor
+> quality products. I'll make sure nobody else falls for this.**"
+
+Zwei Punkte:
+
+1. **„You claim no dog has beaten it"** ist eine **neue** Formulierung. In der
+   am 12.09. geprüften Produktbeschreibung steht sie **nicht** — weder
+   wörtlich noch sinngemäss. Damit steht sie in derselben Reihe wie
+   „indestructible" (#7030, #4822) und „the stuffing won't come out"
+   (#4939): **Zusagen, die Kundinnen und Kunden zitieren und die im
+   geprüften Beschreibungsfeld fehlen.** Woher sie stammen, ist von hier aus
+   **nicht feststellbar**.
+2. **„I'll make sure nobody else falls for this"** ist eine angekündigte
+   öffentliche Verbreitung. Zusammen mit dem dreimal erhobenen Vorwurf der
+   Lüge ist das der Eskalationsauslöser.
+
+**Zum Betrag:** Sie schreibt von 30 £; bezahlt wurden **27,95 £**
+(Kaching-Bundle, Einzelpreise 2 × 29,95 £). **Kein Anteil je Position
+geschätzt.** Die Abweichung wird in der Antwort **nicht aufgegriffen** — sie
+zu korrigieren wäre hier kleinlich und ginge am Anliegen vorbei.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** Vorwurf irreführender Werbung, angekündigte öffentliche
+Verbreitung, Wiederkontakt nach Vorlagen-Absage.
+**Nicht auf der Erstattungsliste** — kein Regelfall nach der geltenden Regel.
+
+### #7657 — John Furlong (`johnfurlong.66@btinternet.com`), 14.09. 07:30 UTC
+
+Betreff: „Re order Order #7657". Vollständiger Text: *„Can you please tell me
+where my order is"*.
+
+- Bestellung **24.08.**, Versand **03.09.** — **10 Tage bis zum Versand**
+- **27,95 £**, bezahlt, FULFILLED, Tag `Kaching Bundles`
+- Zwei Plushies: *fox* und *Duck*
+- Yanwen Special Line Promotion, `UL478624336YP`
+- Lieferadresse Sittingbourne, England
+
+**Keine Forderung, keine Beschwerde, kein Eskalationsauslöser.** Er fragt nach
+dem Verbleib seiner Bestellung, und **die Auskunft liegt vollständig vor**:
+Versanddatum, Zusteller, Sendungsnummer, Trackinglink.
+
+**Das ist der achte Fall, in dem eine zurückgehaltene Sendungsnummer die
+ganze Anfrage ausmacht** — nach #7525, #7547, #7190, #4726, #7627, #7119 und
+#6835. Einer davon hatte in eine Chargeback-Drohung geführt, die mit einer
+Zeile zu erledigen gewesen wäre.
+
+→ `Bot/Draft Ready`. **Keine Owner-Entscheidung nötig.** Sagbar sind
+Versanddatum, Zusteller, Nummer und Link. **Nicht gesagt wird**, er möge sich
+an den Zusteller wenden.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`: **#6936 (zweite Fassung)**,
+**#7657**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt oder
+abgelehnt, **die Formulierung „no dog has beaten it" weder bestätigt noch
+bestritten**, keine rechtliche Einordnung, kein Anteil je Position geschätzt,
+die Betragsabweichung nicht aufgegriffen, kein Verweis auf den Zusteller,
+keine Rücksendeadresse, kein Label gesetzt, **kein Entwurf in Gmail angelegt**.

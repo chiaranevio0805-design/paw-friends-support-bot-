@@ -3109,6 +3109,85 @@ Rücksendeadresse. Keine Frist ausser den 30 Tagen, die nicht erwähnt werden.
 
 ---
 
+## #6936 — Lisa Steggel (lisac131@googlemail.com) — zweite Fassung
+
+**Betreff:** Re: Not even an hour.
+
+**Ersetzt den Entwurf vom 12.09. und die Vorlagen-Absage vom 13.09. 20:10.**
+
+> Dear Lisa,
+>
+> You're right that yesterday's reply wasn't good enough, and I'm not going to
+> defend it. You wrote to us about a toy that didn't last an hour and you got a
+> policy paragraph back. I'm sorry.
+>
+> I've pulled up your order #6936 — the monkey and the donkey, placed on 21
+> August.
+>
+> On the substance of what you're saying: you've accused us of advertising the
+> toys in a way the product doesn't live up to. I'm not going to argue with you
+> about that from a support inbox, and I'm not going to repeat the policy line
+> either. What I am doing is sending your email, in full and unedited, to the
+> shop owner today, along with your order details, and asking for it to be
+> answered by someone who can actually make a decision.
+>
+> I'm not going to promise you a refund, because I can't authorise one and I
+> won't tell you something I'd have to take back. What I can tell you is that
+> your email isn't being filed away.
+>
+> If you haven't heard back within a few days, reply here and I'll chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die vollständige Weitergabe an den Owner und eine
+Nachfass-Zusage. **Keine Erstattung zugesagt und keine abgelehnt.** **Die
+Formulierung „no dog has beaten it" wird weder bestätigt noch bestritten** —
+sie steht nicht in der geprüften Beschreibung, und woher sie stammt, ist von
+hier aus nicht feststellbar; eine Antwort in die eine oder andere Richtung
+wäre geraten. **Kein Eingeständnis irreführender Werbung und keine
+Zurückweisung des Vorwurfs.** Die Entschuldigung bezieht sich ausdrücklich
+auf **die gestrige Antwort**, nicht auf das Produkt. Keine rechtliche
+Einordnung. Kein Betrag genannt, die Abweichung 30 £ / 27,95 £ nicht
+aufgegriffen. Keine Rücksendeadresse. **Ihre Ankündigung, andere zu warnen,
+wird nicht erwähnt** — weder um sie davon abzubringen noch um darauf
+einzugehen; sie um Zurückhaltung zu bitten wäre unzulässig.
+
+---
+
+## #7657 — John Furlong (johnfurlong.66@btinternet.com)
+
+**Betreff:** Re: Re order Order #7657
+
+> Dear John,
+>
+> Thank you for asking — here is everything we have on your order #7657.
+>
+> It was despatched on 3 September with Yanwen Special Line Promotion, tracking
+> number UL478624336YP. You can follow it here:
+> https://t.17track.net/en#nums=UL478624336YP
+>
+> The order contains both Plushies, the fox and the duck, going to your address
+> in Lower Halstow.
+>
+> If the tracking page isn't showing you anything useful, or if the parcel
+> doesn't turn up, reply to this email and tell me — I'd rather you came back to
+> me than spent your time on it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur eine Auskunft und die Bereitschaft, weiter daran zu
+arbeiten. **Kein Zustelldatum versprochen, keine Zustelldauer geschätzt,
+keine Erstattung und kein Ersatz zugesagt.** **Kein Verweis an den
+Zusteller** — ausdrücklich das Gegenteil. Keine Aussage zur Herkunft der
+Sendung; er hat nicht danach gefragt. Keine Entschuldigung für die Dauer, weil
+er sich darüber nicht beschwert hat.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
