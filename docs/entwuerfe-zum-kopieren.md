@@ -4016,6 +4016,95 @@ Keine Rücksendeadresse. Keine rechtliche Einordnung.
 
 ---
 
+## #7525 — Carol Garvey (carolgarvey2@hotmail.com)
+
+**Betreff:** Re: Order 7525
+
+> Dear Carol,
+>
+> Thank you for writing, and for the photos.
+>
+> You asked how to go about getting a refund, and I'm going to give you the
+> honest answer rather than a tidy one: **I don't have a returns address to give
+> you.** You looked on the site and couldn't find one — you're not missing
+> anything. It isn't published, I can't produce it, and I'm not going to invent
+> an address and have you post a parcel into nowhere.
+>
+> That is not a good answer and I know it. It is the true one.
+>
+> What I've done instead: your email has gone to the shop owner today, together
+> with your order #7525 from 24 August — the monkey and the fox — your photos,
+> and the point that you couldn't find return information on the website. The
+> refund decision is his to make, so I'm not going to tell you it's coming or
+> that it isn't.
+>
+> If you haven't heard back within a few days, reply to this email and I will
+> chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Keine Erstattung zugesagt und keine abgelehnt.** **Keine Rücksendeadresse —
+und das Fehlen wird ausdrücklich eingeräumt statt umschrieben.** Ihre
+Feststellung, auf der Seite nichts gefunden zu haben, wird **bestätigt**, weil
+sie mit dem Befund aus den Shop-Daten übereinstimmt. **Keine Aussage dazu, ob
+die Werbung zutrifft**; „indestructible" wird nicht aufgegriffen. **Keine
+Entschuldigung für das Produkt**, nur für das Fehlen einer brauchbaren
+Auskunft. Fotos nicht gedeutet. Kein Betrag. Keine rechtliche Einordnung.
+
+---
+
+## Stephen Board (boardstephen1@gmail.com) — **ohne Bestellbezug**
+
+**Betreff:** Re: Still waiting on Delivery
+
+**⚠️ Bewusst ohne jede Bestellangabe. Die Adresse, von der geschrieben wurde,
+ist keinem Vorgang zugeordnet.**
+
+> Hello,
+>
+> Thank you for writing, and I'm sorry you've had no reply before this.
+>
+> I want to help you today, and there is one thing standing in the way that I'd
+> rather explain than work around: the email address you've written from isn't
+> attached to any order I can see. There is an order under a similar name, but
+> under a different email address, and I am not going to start quoting order
+> details, amounts or tracking numbers at an address I can't match to them. If
+> that order isn't yours, sending you someone else's details would be a far
+> worse mistake than making you wait another message.
+>
+> So: could you reply with your order number, or the postcode and the name the
+> order was placed under? Any one of those is enough and it takes me a minute
+> once I have it.
+>
+> Two things so you're not left guessing in the meantime. Your message has
+> already gone to the shop owner today, flagged with your 24-hour notice — it is
+> not sitting behind my question. And if you did write to us before and got no
+> answer, I have no reason to doubt that; I can't find an earlier email from
+> this address, but that doesn't mean you didn't send one.
+>
+> Reply whenever you can and I'll pick it straight up.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner mit seiner Frist und eine
+sofortige Bearbeitung nach seiner Antwort. **Keine Erstattung zugesagt und
+keine abgelehnt.** **Keine Bestellnummer, kein Inhalt, kein Betrag, keine
+Sendungsnummer, keine Adresse** — nichts, was zu #8004 gehört. Dass es einen
+namensähnlichen Vorgang gibt, wird **erwähnt, aber nicht ausgefüllt**, damit er
+nicht den Eindruck bekommt, es werde etwas zurückgehalten. **Sein Vorwurf, es
+handle sich um Betrug, wird weder aufgegriffen noch zurückgewiesen.**
+**Nicht bestritten, dass er vorher geschrieben hat.** Die Rückfrage ist
+ausdrücklich **keine Bedingung** für die Bearbeitung. Keine rechtliche
+Einordnung. Keine Aussage zum Verbleib der Sendung, weil sie ohne Zuordnung
+nicht belegbar wäre.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

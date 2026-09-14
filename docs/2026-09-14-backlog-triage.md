@@ -1355,3 +1355,112 @@ abgelehnt, **die Garantie nicht ausgelegt**, **kein technischer Schluss aus den
 zwei Seil-Meldungen**, die Fotos nicht geöffnet, **nicht behauptet, bei #6477
 fehle eine Position**, keine Rücksendeadresse, keine rechtliche Einordnung,
 kein Label gesetzt, **kein Entwurf in Gmail angelegt**.
+
+---
+
+## Lauf 20:20 UTC — 🚩 eine Kundin bestätigt den ältesten Blocker, und eine zweite Frist für morgen
+
+### 🚩🚩 #7525 — Carol Garvey (`carolgarvey2@hotmail.com`), 14.09. 19:51 UTC
+
+**Zwei Fotos** — nicht geöffnet, nicht beurteilt.
+
+- Bestellung **24.08.**, Versand **03.09.** — 10 Tage bis zum Versand
+- **27,95 £**, bezahlt, FULFILLED
+- Zwei Plushies: *monkey* und *fox*
+- Yanwen Special Line Promotion, `UL478624631YP` — **erneut die Charge vom
+  03.09.**
+- Lieferadresse Chelwood Gate, England
+
+Wortlaut:
+
+> „After waiting over 3 weeks, I finally received the **„indestructible"** pet
+> Toy. I must say I am extremely disappointed. **Have looked online about
+> returns and cannot find information on the site on how to do this.** For the
+> money spent, I would have expected better quality to be honest. **Please
+> advise how I go about getting a refund.**"
+
+**Der zentrale Satz ist der mittlere.** Seit dem 13.08. steht im Protokoll,
+dass **keine Rücksendeadresse auffindbar ist** — **32 Tage**. Das war bisher
+ein Befund des Bots aus den Shop-Daten. **Jetzt bestätigt es eine Kundin, die
+selbst auf der Seite gesucht hat.** Sie ist die **siebte**, die fragt, wie
+zurückzusenden ist, und **die erste, die ausdrücklich sagt, sie habe
+nachgeschaut und nichts gefunden.**
+
+**Der Entwurf erfindet keine Adresse und beschönigt das Fehlen nicht** — es
+wird ihr gegenüber offen benannt.
+
+**Vorgeschichte im Thread:** Am 10.09. fragte sie nach dem Verbleib, am 11.09.
+kam die Lieferauskunft (mit dem offen genannten internationalen Lager), am
+13.09. ein reines *„You are most welcome!"*. **Das ist ihr vierter Kontakt.**
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage; vierter Kontakt; Rückgabefrage,
+die mangels veröffentlichter Angaben nicht beantwortbar ist.
+
+### 🚩 Wahrscheinlich #8004 — Stephen Board (`boardstephen1@gmail.com`), 14.09. 19:30 UTC
+
+Betreff: „Still waiting on Delivery". **Keine Bestellnummer, kein Name in der
+Mail** — unterschrieben nur mit „Regards".
+
+Wortlaut:
+
+> „It's now been **16 days** and no delivery and no up date in SHOP. **Have
+> emailed you previously and received no response.** If I hear nothing in
+> **24hrs** will assume this is a **Scam** and look for a refund from you if no
+> refund or response is received will **withdraw my payment** and escalate and
+> **raise the issue with Facebook**."
+
+**⚠️ Zuordnung unsicher — und deshalb wird im Entwurf nichts zur Bestellung
+gesagt.**
+
+`email:boardstephen1@gmail.com` liefert **keine** Bestellung. Die Namenssuche
+über die Adresskennung findet **Stephen Board, Bestellung #8004** — aber
+**unter einer anderen E-Mail-Adresse** (`stevetomcat71@…`). Bestellt **28.08.**,
+versandt **08.09.**, 27,95 £, zwei Plushies (*Elk*, *pig*), Middlewich,
+England. **17 Tage seit der Bestellung — das passt zu seinen „16 days".**
+
+**Passend ist nicht dasselbe wie belegt.** Die Adresse, von der geschrieben
+wurde, steht nicht am Vorgang. **Bestelldaten an eine nicht zugeordnete
+Adresse herauszugeben, ist genau der Fehler vom 09.09.** (#6116: eine Antwort
+über eine fremde Kundin ging an einen unbeteiligten Kunden). **Das wird hier
+nicht wiederholt.**
+
+**Der Entwurf nennt deshalb weder Bestellnummer noch Inhalt, Betrag,
+Sendungsnummer oder Adresse**, sondern bittet um ein Merkmal zur Bestätigung
+— und sagt ihm zugleich offen, dass sein Anliegen **nicht wegen der Rückfrage
+liegen bleibt**.
+
+**Zu „emailed you previously":** Im Posteingang ist von dieser Adresse **keine
+frühere Mail auffindbar**. **Das heisst nicht, dass er keine geschrieben hat**
+— er kann von der anderen Adresse aus geschrieben haben, oder sie ist nicht
+angekommen. **Der Bot widerspricht ihm nicht.**
+
+→ `Bot/Escalated - Owner Attention`, **zeitgebunden**.
+**Eskalationsgrund:** angekündigter Zahlungsrückzug und Meldung an Facebook mit
+24-Stunden-Frist; Betrugsvorwurf; Wiederkontakt ohne Antwort.
+
+### 🚩 Zweite Frist für morgen
+
+| Frist | Fall | Läuft ab |
+|---|---|---|
+| 48 Stunden | **#6877 Alexander Meza** | **15.09. 12:38 UTC** |
+| 24 Stunden | **Stephen Board (wahrsch. #8004)** | **15.09. ca. 19:30 UTC** |
+
+Dazu **#7699 Lorraine Sale — 17.09.** und **#7479 Richard Bellamy-Williams —
+21.09.**
+
+**Beide Fristen von morgen enden mit einer Chargeback-Ankündigung**, und beide
+Kunden nennen zusätzlich eine dritte Stelle — Meza die FTC und Meta, Board
+Facebook.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`: **#7525**, **Stephen Board
+(ohne Bestellbezug)**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt oder
+abgelehnt, **keine Rücksendeadresse erfunden und das Fehlen nicht
+beschönigt**, **keine Bestelldaten an die nicht zugeordnete Adresse
+herausgegeben**, **nicht bestritten, dass er vorher geschrieben hat**, Fotos
+nicht geöffnet, keine rechtliche Einordnung, kein Label gesetzt, **kein
+Entwurf in Gmail angelegt**.
