@@ -4105,6 +4105,124 @@ nicht belegbar wäre.
 
 ---
 
+## #7312 — Ricky Gaugano (rgauganopsp@gmail.com)
+
+**Betreff:** Re: A shipment from order #7312 is on the way
+
+> Dear Ricky,
+>
+> Thank you for writing, and yes — please do send the photos. I'd rather have
+> them on file than not, and it saves you being asked for them later.
+>
+> Your order #7312 was placed on 23 August.
+>
+> You've said our promotional video tells you we refund when a dog destroys the
+> toy. I want to be straight with you: I can't see that video from where I sit,
+> so I'm not going to tell you that you've read it correctly and I'm not going
+> to suggest you haven't. What I have done is put your email in front of the
+> shop owner today with that point marked out specifically, because he can check
+> what the video says and I can't.
+>
+> I'm not able to authorise a refund myself, so I won't promise you one.
+>
+> One other thing I noticed while looking at your order, and I'd rather mention
+> it than let it sit: part of it is still showing as not yet fulfilled. I don't
+> want to guess at which part, so I've asked the owner to look at that too. If
+> something you paid for hasn't arrived, tell me what's missing and I'll add it.
+>
+> If you haven't heard back within a few days, reply here and I'll chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner — mit der Videofrage und der
+offenen Teillieferung ausdrücklich markiert — und eine Nachfass-Zusage.
+**Keine Erstattung zugesagt und keine abgelehnt.** **Keine Aussage darüber,
+was im Werbevideo steht** — weder bestätigend noch bestreitend. **Nicht
+geraten, welche Position fehlt**; die Teillieferung wird als **offene Tatsache**
+benannt und die Klärung erfragt. Kein Betrag. Keine Rücksendeadresse. Keine
+rechtliche Einordnung.
+
+---
+
+## #6869 — Martin Sellwood (martin.sellwood@icloud.com)
+
+**Betreff:** Re: Fluffy already ripped
+
+> Dear Martin,
+>
+> Thank you for writing.
+>
+> Your order #6869 from 20 August: two of the Fluffys, the frog and the giraffe.
+>
+> You asked for two things — how to return, and how we'll replace. I can give
+> you a straight answer to the first one, and it isn't a good one: **I don't
+> have a returns address to give you.** It isn't published on the site, I can't
+> produce one, and I'm not going to make an address up and have you post a
+> parcel that goes nowhere. Another customer wrote an hour before you saying
+> she'd looked for it and couldn't find it either. She wasn't missing anything.
+>
+> On the replacement: I can't authorise one, so I'm not going to tell you it's
+> coming or that it isn't. Your email has gone to the shop owner today, with
+> your order details and the wording you quoted back to us.
+>
+> If you haven't heard back within a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Kein Ersatz und keine Erstattung zugesagt oder abgelehnt.** **Keine
+Rücksendeadresse — das Fehlen wird offen eingeräumt**, einschliesslich des
+Hinweises, dass eine andere Kundin dasselbe festgestellt hat. **Keine Aussage
+dazu, ob die Werbung zutrifft**; „cannot be beaten" wird nicht kommentiert.
+**Nicht gefragt, ob die Giraffe ungeöffnet ist** — das wäre auf eine
+Erstattungskonstruktion hinausgelaufen, die er nicht verlangt hat. Kein
+Betrag. Keine rechtliche Einordnung.
+
+---
+
+## #7660 — Rebecca Seaton (brecseaton@gmail.com)
+
+**Betreff:** Re: Order #7660 confirmed
+
+> Dear Rebecca,
+>
+> Thank you for writing, and please tell Alfie it isn't his fault.
+>
+> Your order #7660 from 24 August: two of the Fluffys, the giraffe and the frog.
+>
+> You've asked to exchange the second one — still wrapped — for a Plushie. That
+> is a clear request and I want to answer it just as clearly: **I can't approve
+> an exchange myself.** I'm not able to change orders, so rather than tell you
+> yes and then have it unravel, I've put your request in front of the shop owner
+> today exactly as you wrote it.
+>
+> There is one practical thing you should know before you pack anything up:
+> **we don't currently have a returns address published**, and I'm not going to
+> invent one for you. So please don't post the wrapped Fluffy anywhere yet —
+> wait until you have an address from us, or you'll be out of pocket for postage
+> with nothing to show for it.
+>
+> If you haven't heard back within a few days, reply here and I'll chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Kein Tausch zugesagt und keiner abgelehnt.** **Keine Erstattung angeboten** —
+sie hat keine verlangt, und ihr eine anzutragen wäre eine
+Owner-Entscheidung. **Keine Rücksendeadresse erfunden**; der Hinweis, noch
+nichts zu verschicken, **schützt sie vor Portokosten** und ist keine Bedingung.
+**Ihre Selbstzuschreibung („ich habe das Falsche bestellt") wird weder
+bestätigt noch bestritten** — kein Wort dazu, ob die Produktbenennung dazu
+beigetragen hat. Kein Betrag. Keine rechtliche Einordnung.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

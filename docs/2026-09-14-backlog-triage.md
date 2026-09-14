@@ -1464,3 +1464,147 @@ beschönigt**, **keine Bestelldaten an die nicht zugeordnete Adresse
 herausgegeben**, **nicht bestritten, dass er vorher geschrieben hat**, Fotos
 nicht geöffnet, keine rechtliche Einordnung, kein Label gesetzt, **kein
 Entwurf in Gmail angelegt**.
+
+---
+
+## Lauf 21:20 UTC — 🚩 ein Werbevideo wird genannt, und eine Kundin will nur tauschen
+
+Drei Mails zwischen 20:54 und 20:58.
+
+### 🚩🚩 #7312 — Ricky Gaugano (`rgauganopsp@gmail.com`), 14.09. 20:58 UTC
+
+- Bestellung **23.08.**, Teilversand **02.09.**
+- **51,03 £**, bezahlt, **`PARTIALLY_FULFILLED`** — **seit 22 Tagen**
+- Fünf Positionen: Zahnbuddy, Plushies *monkey*, *fox*, *pig* **und
+  „📘 Why Your Dog Destroys Every Toy (And How to Finally Stop It)"**
+- WB US (Selected postal codes), `WNBAA0497781983YQ`
+- Lieferadresse Monterey Park, Kalifornien
+
+Wortlaut: *„**I[n] your promotional video, you will refund me when my dog
+destroys your toy.** I have a nearly 2yr old Samoyed dog. And your toy doesn't
+last on its 3rd day. **Do you need proof of it** that my Samoyed Gigi the dog
+destroys the toy?"*
+
+**🚩 Das ist die zweite benannte Quelle binnen acht Stunden.**
+
+| Zeit | Kunde | Genannte Quelle |
+|---|---|---|
+| 00:42 | #7030 Jordan Hauler | „the reviews and things you post" |
+| 13:01 | #7698 Amy Burnell | **Facebook** |
+| **20:58** | **#7312 Ricky Gaugano** | **ein Werbevideo („promotional video")** |
+
+**Und er beschreibt einen konkreten Inhalt: Erstattung, wenn der Hund das
+Spielzeug zerstört.** Das ist genau die Lesart, die inzwischen **zwölf**
+Kundinnen und Kunden wiedergegeben haben — **hier zum ersten Mal mit einer
+Quellenangabe, die kein Text ist.**
+
+**Der Bot hat kein Video gesehen und behauptet nichts über dessen Inhalt.**
+Die Meta-Ads-Prüfung war am 11.09. abgebrochen worden; **belegt ist bis heute
+nur die Existenz eines Werbekontos.** **Das ist die Owner-Prüfung, und sie hat
+jetzt zwei konkrete Adressen: Facebook und ein Werbevideo.**
+
+**Zusätzlich:** Die Bestellung ist seit dem 02.09. **teilweise unerfüllt**.
+**Was fehlt, geht aus den abgerufenen Daten nicht eindeutig hervor** — der Bot
+rät es nicht. **Er hat das nicht angesprochen**, und es gehört in die
+Owner-Prüfung.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** benannte Werbequelle mit konkreter Erstattungszusage;
+offene Teillieferung seit 22 Tagen.
+
+### 🚩 #6869 — Martin Sellwood (`martin.sellwood@icloud.com`), 14.09. 20:55 UTC
+
+- Bestellung **20.08.**, Versand **02.09.** — 13 Tage
+- **29,95 £**, bezahlt, FULFILLED
+- **Zwei Paw-Friends™-Fluffys**: *frog* und *giraffe*
+- Yanwen Special Line Promotion, `UL476302302YP`
+- Lieferadresse Maidstone, England
+
+Wortlaut: *„I ordered 2 of these fluffy toys **that you claim cannot be
+beaten**. The frog has lasted a total of **10 hours** so **it must be
+defective**. **Please can you provide details of how to return and how you
+will replace.** As it is **not how you described**."*
+
+**„cannot be beaten" ist die genaueste Wiedergabe bisher.** In der heute
+erstmals abgerufenen Fluffys-Beschreibung steht wörtlich **„40,000 dogs have
+tried. Not one has beaten them yet"** und **„Still undefeated."**
+**Sinngemäss deckungsgleich, im Wortlaut leicht abweichend** — und **belegt**.
+
+**Er fragt zum achten Mal in diesem Postfach nach dem Rückgabeweg.** Eine
+Stunde nach #7525 Carol Garvey, die schrieb, sie habe auf der Seite gesucht
+und nichts gefunden. **Es gibt weiterhin keine Adresse, und es wird keine
+erfunden.**
+
+**Zur Giraffe sagt er nichts.** Ob sie ungeöffnet ist, **wird nicht
+angenommen** — der Entwurf fragt nicht danach, weil er nicht darauf
+hinauswill, und der Owner kann es klären.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage gegen eine belegte
+Formulierung; Rückgabefrage ohne beantwortbaren Weg.
+
+### #7660 — Rebecca Seaton (`brecseaton@gmail.com`), 14.09. 20:54 UTC
+
+- Bestellung **24.08.**, Versand **03.09.** — 10 Tage
+- **29,95 £**, bezahlt, FULFILLED
+- **Zwei Paw-Friends™-Fluffys**: *giraffe* und *frog*, gebucht als
+  **„BUY 1 AND GET 1 FREE"**
+- Yanwen Special Line Promotion, `UL478624319YP`
+- Lieferadresse Kendal, England
+
+Wortlaut:
+
+> „We received our dogs toys **today** and we were super excited as your
+> reviews are great. But Alfie destroyed the toy I gave him within 5 mins […]
+> So I looked to see what had happened — **I had ordered two Fluffies and not
+> 2 Plushies for dogs that destroy everything.** **The second Fluffy is still
+> wrapped up. Please could I exchange this for a Plushie.**"
+
+**Das ist die einzige Zuschrift des Tages, die nichts vorwirft.** Kein
+Verbraucherrecht, keine Bewertung, kein Betrugsvorwurf, keine
+Erstattungsforderung. **Sie will tauschen.**
+
+**Drei Punkte:**
+
+1. **Der zweite Artikel ist ungeöffnet und sie sagt es von sich aus.** Das ist
+   sachlich ein Regel-2-Sachverhalt — **aber sie verlangt keine Erstattung,
+   sondern einen Tausch.** Der Bot bietet ihr **keine Erstattung an**; ihr
+   etwas anderes anzutragen, als sie gefragt hat, wäre eine
+   Owner-Entscheidung.
+2. **Sie hat die beiden Produkte selbst auseinandergehalten** — und beschreibt
+   ihren eigenen Irrtum, nicht einen Fehler des Shops. **Der Bot bestätigt
+   ihr diese Selbstzuschreibung nicht und widerspricht ihr nicht**; ob die
+   Produktbenennung dazu beigetragen hat, ist keine Feststellung, die von hier
+   zu treffen ist.
+3. **Ein Tausch ist eine Owner-Handlung.** Der Bot kann Bestellungen nicht
+   ändern — die am 13.09. bei #8505 gezogene Linie gilt unverändert.
+
+→ `Bot/Needs Approval`. **Offen ist ein Ja oder Nein zum Tausch** — und,
+falls ja, **wohin sie den ungeöffneten Fluffy schicken soll**, was ohne
+Rücksendeadresse nicht beantwortbar ist.
+
+### 🚩 Nebenbefund: die BOGO-Aktion ist belegt
+
+**In Rebecca Seatons Bestellung vom 24.08. steht ausdrücklich „BUY 1 AND GET 1
+FREE (-£14.98)".** Auch **#6869 Martin Sellwood** (20.08.) und **#6477 Bev
+McManus** (17.08.) zahlten je **29,95 £**; bei Sellwood stehen dafür zwei
+Fluffys, bei McManus einer.
+
+**Bev McManus schrieb heute um 18:49, sie habe „buy one get one free"
+erwartet.** Damit steht fest: **eine solche Aktion hat es im Shop gegeben.**
+**Ob sie am 17.08. für ihre Bestellung galt, ist damit nicht belegt** — der
+Bot stellt es nicht fest und behauptet nicht, ihr fehle eine Position.
+**Aber ihre Erwartung ist nicht aus der Luft gegriffen, und das gehört dem
+Owner zusammen mit ihrer Mail vorgelegt.**
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`: **#7312**, **#6869**,
+**#7660**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt oder
+abgelehnt, **kein Tausch zugesagt**, **nichts über den Inhalt des Werbevideos
+behauptet**, **nicht geraten, welche Position bei #7312 fehlt**, **keine
+Rücksendeadresse erfunden**, bei #7660 **keine Erstattung angeboten, die sie
+nicht verlangt hat**, keine rechtliche Einordnung, kein Label gesetzt, **kein
+Entwurf in Gmail angelegt**.
