@@ -3059,6 +3059,56 @@ Keine rechtliche Einordnung.
 
 ---
 
+## #5032 — Adam Murgatroyd (acmurgatroyd1@gmail.com) — zweite Fassung
+
+**Betreff:** Re: A shipment from order #5032 is on the way
+
+**Ersetzt die Vorlagen-Absage vom 13.09. 20:12.**
+
+> Dear Adam,
+>
+> Thank you for coming back to me, and for setting out your reasoning as
+> clearly as you have.
+>
+> I'm going to be straight with you rather than repeat what I sent yesterday.
+> You've raised two things that I am not in a position to answer: whether the
+> Consumer Rights Act applies to your purchase, and whether our guarantee is
+> misleading in the way you describe. Those are not questions for me to rule on
+> from a support inbox, and I'm not going to pretend they are settled by quoting
+> our returns policy back at you a second time.
+>
+> What I can confirm from your order: #5032, placed on 8 August, with the
+> Zahnbuddy and two of the Plushies, the frog and the pig. And you're right
+> about the wording — the product is listed under the name "Plushies – Designed
+> for Furry Friends Who Destroy Everything". That's the name we sell it under,
+> and I'm not going to argue that your reading of it is unreasonable.
+>
+> Your email is going to the shop owner today in full, with your order details
+> and the points you've made. I've asked for it to be answered properly rather
+> than with another policy line.
+>
+> One practical note so you're not left guessing: I'm not able to authorise a
+> refund from here, so I'm not going to tell you one is coming or that it isn't.
+> If you haven't had a substantive reply within a few days, reply to this email
+> and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die vollständige Weitergabe an den Owner und eine
+Nachfass-Zusage. **Keine Erstattung zugesagt und keine abgelehnt.** **Keine
+Aussage dazu, ob der Consumer Rights Act 2015 greift** — weder zustimmend
+noch ablehnend; ausdrücklich als nicht von hier zu entscheiden benannt.
+**Keine Aussage dazu, ob die Garantie irreführend ist.** Der Produkttitel
+wird bestätigt, weil er aus den Shop-Daten belegt ist; dass seine Lesart
+nicht unvernünftig sei, ist eine Aussage über die **Lesart**, keine über die
+Rechtslage. Kein Betrag genannt, **kein Anteil je Position geschätzt**
+(Kaching-Bundle: Einzelpreise 54,85 £, bezahlt 42,90 £). Keine
+Rücksendeadresse. Keine Frist ausser den 30 Tagen, die nicht erwähnt werden.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

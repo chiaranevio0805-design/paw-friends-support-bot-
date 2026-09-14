@@ -170,3 +170,102 @@ behauptet, die Garantie decke oder decke nicht — sondern offengelegt, dass
 die Bedingung nicht belegbar ist; das Foto nicht bewertet; keine
 Rücksendeadresse genannt; keine rechtliche Einordnung; kein Label gesetzt;
 **kein Entwurf in Gmail angelegt**.
+
+---
+
+## Lauf 07:20 UTC — #5032, und ein Fehler in der eigenen Suche
+
+### Zuerst die Korrektur
+
+**Die Meldungen „nichts Neues" um 05:20 und um 06:20 waren falsch.**
+
+Adam Murgatroyds Antwort ist am **14.09. um 04:31 UTC** eingegangen. Sie lag
+damit **in beiden Suchfenstern** und ist in **beiden Läufen nicht
+aufgetaucht**: `in:inbox newer_than:2h` lieferte um 05:20 nur #7673 und um
+06:20 gar nichts. Erst die Suche über `newer_than:1d` in diesem Lauf hat sie
+sichtbar gemacht — und dieselbe `newer_than:2h`-Suche, die sie um 06:20
+verschwiegen hat, liefert sie jetzt um 07:20, **obwohl 04:31 dann längst mehr
+als zwei Stunden zurückliegt**.
+
+**Damit ist `newer_than:Nh` als Grundlage für den Stundenlauf unbrauchbar.**
+Gmail dokumentiert für `newer_than` die Einheiten `d`, `m`, `y` — Stunden
+nicht. Was zurückkommt, ist weder ein sauberes Zeitfenster noch
+reproduzierbar. Der Fall hier hat **drei Stunden** gekostet, bei einer
+Verbraucherrechts-Zuschrift.
+
+**Änderung des Vorgehens ab sofort:** Der Stundenlauf sucht mit
+`in:inbox newer_than:1d` und gleicht gegen das ab, was im Tagesprotokoll
+bereits steht, statt sich auf ein Stundenfenster zu verlassen. Das ist
+teurer und dafür vollständig.
+
+**Abgleich für die letzten 24 Stunden nachgeholt:** Ausser #5032 gibt es
+seit dem letzten protokollierten Lauf (13.09. 22:20) **keine weitere
+übersehene Zuschrift** — #7673, #7030 und #4822 sind erfasst, alles Übrige
+ist auf dem Stand vom 13.09. 21:56 oder älter.
+
+### #5032 — Adam Murgatroyd (`acmurgatroyd1@gmail.com`), 14.09. 04:31 UTC
+
+Antwort auf die Vorlagen-Absage vom 13.09. 20:12. **Zeitabstand: 8 Stunden
+19 Minuten.**
+
+- Bestellung **08.08.**, Versand **25.08.** — **17 Tage bis zum Versand**
+- **42,90 £**, bezahlt, FULFILLED, Tags `Kaching Bundles`, `UpCart Rewards`
+- Drei Positionen: Zahnbuddy (Blue Mop Plush Dog) sowie zwei Plushies,
+  *frog* und *pig*
+- Yanwen Special Line Promotion, `UL451107611YP`
+- **Lieferadresse West Kilbride, Schottland — Vereinigtes Königreich**
+
+**Die Einzelpreise summieren sich auf 54,85 £, bezahlt wurden 42,90 £**
+(Kaching-Bundle). Nach der stehenden Regel wird **kein Anteil je Position
+geschätzt**; was auf eine einzelne Position entfällt, ist im Shopify-Admin
+zu bestimmen.
+
+Wortlaut: *„Under the Consumer Rights Act 2015 in the UK, goods that are
+supplied that arent fit for purpose or last a reasonable length of time are
+entitled to a refund. These toys are described as \"designed for everything\"
+and your 30 day money back guarantee is misleading, as them being unopened
+and unused is simply a basic consumer right, not for consumers to test your
+product and a statement of your confidence in the quality of them. These
+toys lasting a whole 30 minutes before being ripped apart is not \"designed
+for everything\"."*
+
+Drei Punkte:
+
+1. **Er ist im Vereinigten Königreich ansässig.** Bei #5829 und #6781 war das
+   ebenfalls so. Der Bot nimmt **keine rechtliche Einordnung** vor — er hält
+   nur fest, dass die Voraussetzung, unter der die Frage überhaupt gestellt
+   wird, hier sachlich zutrifft und die Zuschrift deshalb nicht als
+   Missverständnis abgetan werden kann.
+2. **„designed for everything"** ist seine Kurzform für den Produkttitel
+   **„Plushies – Designed for Furry Friends Who Destroy Everything"**. Der
+   Titel steht in seiner Bestellung und in der Versandbenachrichtigung —
+   **aus Shop-Daten belegt.**
+3. **Sein Einwand gegen die Garantie ist der schärfste bisher formulierte:**
+   dass eine Geld-zurück-Garantie, die nur für ungeöffnete und unbenutzte
+   Ware gilt, kein Vertrauensbeweis sei, sondern nur das ohnehin bestehende
+   Widerrufsrecht wiederhole. **Das ist die fünfte unabhängige Fassung
+   desselben Konstruktionsvorwurfs** — nach #7101, #7316, #6891 und #7292.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** Berufung auf den Consumer Rights Act 2015; bestrittene
+Werbeaussage; Wiederkontakt nach Vorlagen-Absage.
+**Nicht auf der Erstattungsliste** — kein Regelfall nach der geltenden Regel,
+und der Betrag je Position ist ohne Admin nicht bestimmbar.
+
+### Stand der Vorlagen-Absagen
+
+**Dreiundzwanzig Kauschaden-Absagen seit dem 11.09.** Mit #5032 sind
+**alle** beantworteten eskaliert — die Quote ist unverändert
+ausnahmslos. **Zwei ausdrückliche Berufungen auf den Consumer Rights Act
+2015** (#5829, #5032), eine dritte mit derselben Formulierung ohne
+Gesetzesnennung (#6781).
+
+### Entwürfe
+
+Volltext in `docs/entwuerfe-zum-kopieren.md`: **#5032 Adam Murgatroyd**.
+
+**Nicht getan:** keine rechtliche Einordnung und keine Stellungnahme dazu, ob
+der Consumer Rights Act hier greift; keine Erstattung zugesagt oder
+abgelehnt; kein Anteil je Position geschätzt; keine Fundstelle für die
+Garantiebedingung erfunden; keine Rücksendeadresse genannt; kein Label
+gesetzt; **kein Entwurf in Gmail angelegt**.
