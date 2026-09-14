@@ -3230,6 +3230,78 @@ Rücksendeadresse. Der Betrag wird nicht genannt.
 
 ---
 
+## #7578 — Luke Buttrey (lukebuttrey@hotmail.co.uk)
+
+**Betreff:** Re: Luke Buttrey
+
+> Dear Luke,
+>
+> Here is everything we have on your order #7578.
+>
+> It was despatched on 3 September with Yanwen Special Line Promotion, tracking
+> number UL478624163YP. The tracking page is here:
+> https://t.17track.net/en#nums=UL478624163YP
+>
+> The order is two of the Plushies, both the Elk, going to your address in
+> Bradford.
+>
+> I can see you attached a photo — if there was something specific in it you
+> wanted me to look at, tell me what I'm looking for and I'll come back to you
+> on it. And if the tracking page isn't showing anything useful, or the parcel
+> doesn't arrive, just reply here.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur eine Auskunft und die Bereitschaft, weiter daran zu
+arbeiten. **Kein Zustelldatum versprochen, keine Zustelldauer geschätzt,
+keine Erstattung und kein Ersatz zugesagt.** **Kein Verweis an den
+Zusteller.** **Das beigefügte Foto wird nicht gedeutet** — es wird
+ausdrücklich nachgefragt, statt eine Annahme darüber zu treffen. Keine
+Aussage zur Herkunft der Sendung; er hat nicht danach gefragt. Keine
+Entschuldigung für die Versanddauer, weil er sich darüber nicht beschwert
+hat.
+
+---
+
+## #7663 — Murray „Muzz" McLean (muzz.mclean@gmail.com)
+
+**Betreff:** Re: Plushies
+
+> Dear Muzz,
+>
+> Thank you for writing, and I'm sorry — an afternoon is not what you were
+> expecting out of them, and I'm not going to suggest otherwise.
+>
+> I've found your order #7663, placed on 24 August: the Zahnbuddy, the monkey
+> and the elephant, out to Mullaloo.
+>
+> Can I ask one thing that will help: was it all three, or only some of them?
+> You've written "plushes", and I don't want to guess and get your case wrong.
+>
+> On the refund — I'm not going to give you a yes or a no in this email,
+> because I can't authorise one myself and I would rather not tell you something
+> that then gets reversed. Your request is going to the shop owner today with
+> your order details.
+>
+> If you haven't heard back within a few days, reply to this email and I'll
+> chase it up.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Die Erstattung wird weder zugesagt noch abgelehnt.** Keine Aussage zur
+Garantie und ihren Bedingungen — insbesondere **nicht behauptet, Kauschaden
+sei nicht gedeckt**, weil das hier die Entscheidung vorwegnähme. **Keine
+Währungsumrechnung**, kein Betrag genannt. Keine Rücksendeadresse. Keine
+rechtliche Einordnung. Die Rückfrage nach dem Umfang ist **eine Frage, keine
+Bedingung** — sie wird nicht zur Voraussetzung für irgendetwas gemacht.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

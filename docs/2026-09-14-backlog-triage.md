@@ -431,3 +431,75 @@ abgelehnt, **nichts über die Existenz eines „Resolutions Team" behauptet**,
 keine neue Frist genannt, das Foto nicht bewertet, keine rechtliche
 Einordnung, keine Rücksendeadresse, kein Label gesetzt, **kein Entwurf in
 Gmail angelegt**.
+
+---
+
+## Lauf 11:20 UTC — #7578 und #7663, fünfzehn Minuten auseinander
+
+### #7578 — Luke Buttrey (`lukebuttrey@hotmail.co.uk`), 14.09. 10:56 UTC
+
+Betreff: „Luke Buttrey". Vollständiger Text: *„Where's my order please ?"*
+
+- Bestellung **24.08.**, Versand **03.09.** — **10 Tage bis zum Versand**
+- **27,95 £**, bezahlt, FULFILLED
+- **Zwei** Plushies der Variante *Elk*
+- Yanwen Special Line Promotion, `UL478624163YP`
+- Lieferadresse Bradford, England
+
+**Ein Foto liegt bei** (`IMG_8173.jpeg`). Der Bot hat es **nicht geöffnet und
+beurteilt es nicht**; vermerkt wird nur, dass etwas beigefügt war. Was es
+zeigt, ist unbekannt — es kann ebenso gut ein Screenshot der Trackingseite
+wie ein Bild der Ware sein. **Daraus wird nichts abgeleitet.**
+
+**Keine Forderung, keine Beschwerde, kein Eskalationsauslöser.** Die Auskunft
+liegt vollständig vor.
+
+→ `Bot/Draft Ready`. **Keine Owner-Entscheidung nötig.**
+
+**Das ist der neunte Fall, in dem eine zurückgehaltene Sendungsnummer die
+ganze Anfrage ausmacht** — der zweite allein heute, nach #7657 um 07:30.
+Beide Bestellungen wurden am **03.09. mit demselben Zusteller** versendet,
+die Sendungsnummern liegen nur 173 auseinander (`UL478624163YP` und
+`UL478624336YP`). **Zwei Kunden aus derselben Versandcharge fragen am selben
+Vormittag dasselbe.**
+
+### #7663 — Murray „Muzz" McLean (`muzz.mclean@gmail.com`), 14.09. 10:41 UTC
+
+Betreff: „Plushies". Wortlaut: *„I received plushes but alas one afternoon and
+they have been destroyed by my groodle. Refund please"*
+
+- Bestellung **24.08.**, Versand **04.09.** — **11 Tage bis zum Versand**
+- **44,23 £**, bezahlt, FULFILLED
+- Drei Positionen: Zahnbuddy (Blue Mop Plush Dog), Plushie *monkey*,
+  Plushie *elephant*
+- 4PX Standard Registered, `4PX3003127441579CN`
+- Lieferadresse **Mullaloo, Western Australia — Australien**
+
+Im Shop steht er als **Murray McLean**, unterschrieben hat er mit **Muzz
+McLean**. **Das ist keine Namensunsicherheit** wie bei #8359 — er hat selbst
+unterschrieben, und die Anrede folgt seiner Unterschrift.
+
+**Er nennt keinen Betrag.** Die Bestellung ist in **GBP** ausgewiesen, geliefert
+wurde nach Australien. **Eine Umrechnung wird nicht vorgenommen und keine
+Währungsdifferenz angesprochen** — es gibt hier nichts zu überbrücken, weil
+er nichts beziffert hat.
+
+**Einstufung:** Erstkontakt, kein Verbraucherrecht zitiert, keine Bewertung
+angedroht, kein Sicherheitsproblem, kein ausdrücklicher Werbevorwurf.
+**Formal kein Eskalationsauslöser** — dieselbe Lage wie bei #7673 Michelle
+Barnes heute früh, und aus demselben Grund **keine Vorlagen-Absage**: das
+Produkt heisst „Designed for Furry Friends Who Destroy Everything", und sein
+Hund hat genau das getan.
+
+→ `Bot/Needs Approval`. **Offen ist ein Ja oder Nein zur Erstattung.**
+**Nicht auf der Erstattungsliste** — kein Regelfall nach der geltenden Regel.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`: **#7578**, **#7663**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt oder
+abgelehnt, **das Foto von #7578 nicht geöffnet und nichts daraus abgeleitet**,
+kein Verweis an den Zusteller, keine Währungsumrechnung, kein Zustelldatum
+versprochen, keine Rücksendeadresse, keine rechtliche Einordnung, kein Label
+gesetzt, **kein Entwurf in Gmail angelegt**.
