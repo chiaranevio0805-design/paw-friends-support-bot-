@@ -3710,6 +3710,76 @@ Produkt.
 
 ---
 
+## #7060 — Felecia Pierce (fpierce1967@gmail.com)
+
+**Betreff:** Re: Order purchase
+
+> Dear Felecia,
+>
+> Thank you — your acceptance is noted, and I've recorded it against your order
+> #7060.
+>
+> I've passed it to the shop owner to be actioned, because the refund itself has
+> to be processed by him and not from this inbox. I'm deliberately not giving you
+> a date for it, because I'd only be guessing and you've waited enough already.
+>
+> If it hasn't reached you within a few days, reply to this email and I will
+> chase it — this thread shows the offer and your acceptance, so there is
+> nothing for you to prove.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Bestätigung, dass ihre Annahme erfasst und zur
+Ausführung weitergegeben ist, und eine Nachfass-Zusage. **Das Angebot selbst
+wird weder erweitert noch eingeschränkt noch zurückgenommen** — es steht, wie
+der Shop es am 13.09. formuliert hat. **Kein Betrag genannt**, weil die
+Grundlage der 30 % zwischen Shopify (20,35 £) und der US-Bestellbestätigung
+nicht eindeutig ist; die Zahl steht in ihrem eigenen Thread. **Kein
+Auszahlungsdatum versprochen.** Keine weitere Erstattung zugesagt. Keine
+rechtliche Einordnung.
+
+---
+
+## #7246 — Barbara (arabrabtnarg@gmail.com)
+
+**Betreff:** Re:
+
+> Dear Barbara,
+>
+> You asked for this to go to someone with authority, and that is a fair thing
+> to ask after the reply you got yesterday. It's done — your email and your
+> photograph went to the shop owner today, and I've marked it as your explicit
+> request, not as a routine complaint.
+>
+> Your order #7246 from 22 August, the hippo and the elephant.
+>
+> I'm not going to repeat yesterday's answer at you. You've made a specific
+> argument — that ten minutes of play is a product failure rather than the kind
+> of "use" a returns policy is meant to exclude — and that argument deserves a
+> reply from someone who can act on it rather than another paragraph from me.
+> I'm not going to tell you it's wrong, and I'm not in a position to tell you
+> it's right either.
+>
+> I can't authorise a refund myself, so I won't promise you one.
+>
+> If you haven't heard back in a few days, reply here and I'll chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner — ausdrücklich als ihre
+verlangte Eskalation — und eine Nachfass-Zusage. **Keine Erstattung zugesagt
+und keine abgelehnt.** **Keine Stellungnahme dazu, ob die Werbung irreführend
+ist**, in keine Richtung. **Ihr Argument wird weder bestätigt noch
+zurückgewiesen** — nur als das benannt, was es ist. Kein Nachname benutzt, weil
+Shop-Eintrag und Absenderkennung nicht übereinstimmen. Foto nicht gedeutet.
+Kein Betrag. Keine Rücksendeadresse. Keine rechtliche Einordnung.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

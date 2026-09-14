@@ -1009,3 +1009,116 @@ herausgegeben**, **keine rechtliche Einordnung zu beiden zitierten
 Regelwerken**, die Garantie weder ausgelegt noch als bedingungslos
 zugesichert, kein Anteil je Position geschätzt, kein Label gesetzt, **kein
 Entwurf in Gmail angelegt**.
+
+---
+
+## Lauf 17:20 UTC — 🚩🚩 #7060 hat angenommen, und #7246 verlangt Eskalation
+
+### 🚩🚩 #7060 — Felecia Pierce (`fpierce1967@gmail.com`), 14.09. 16:32 UTC
+
+**Ihre vollständige Nachricht lautet: „Yes, I accept."**
+
+Am **13.09. um 10:54** ging an sie ein Angebot hinaus, das **keine
+Vorlagen-Absage** war:
+
+> „As a goodwill gesture, we can offer you a **30% partial refund of your total
+> order amount**, and you can keep the product without needing to return it.
+> **Please let us know if you would like to accept the 30% partial refund, and
+> we will arrange it for you.**"
+
+**Sie hat angenommen.** Das ist im ganzen beobachteten Zeitraum **der erste
+Fall, in dem ein konkretes Angebot des Shops angenommen wurde.**
+
+- Bestellung **21.08.**, Versand **02.09.** — 12 Tage
+- **20,35 £** in Shopify, bezahlt, FULFILLED
+- Ein Plushie, Variante *elephant*
+- WB US (Selected postal codes), `WNBAA0497781141YQ`
+- Lieferadresse San Diego, Kalifornien
+
+**Damit ändert sich die Art des Falls.** Bei allen anderen offenen Vorgängen
+steht eine **Entscheidung** des Owners aus. Hier nicht: **der Shop hat
+angeboten, die Kundin hat angenommen, und der Shop hat zugesagt, es zu
+veranlassen.** Was aussteht, ist die **Ausführung**.
+
+**Der Bot führt sie nicht aus.** `refundCreate` ist für diese Verbindung
+gesperrt, und es ist kein Regel-4-Fall — die Erstattung ist **weder nach der
+Regel noch technisch** von hier aus möglich.
+
+**Zum Betrag — und warum hier keine Zahl steht:** 30 % beziehen sich laut
+Angebot auf „your total order amount". In Shopify steht **20,35 £**. **Bei zwei
+anderen US-Bestellungen wurde heute festgestellt, dass die
+Bestellbestätigung 27,76 USD auswies, wo Shopify 20,34 £ zeigt** (#7368,
+#7581) — ihre Bestellsumme liegt in derselben Grössenordnung. **Von welcher
+Grundlage die 30 % zu rechnen sind, ist damit nicht eindeutig, und der Bot
+legt es nicht fest.** Im Entwurf wird **keine Zahl genannt**.
+
+→ `Bot/Needs Approval`, **höchste praktische Priorität**.
+**Was zu tun ist: die zugesagten 30 % im Shopify-Admin auszahlen.** Das ist
+keine Ermessensfrage mehr.
+
+**Auf die Erstattungsliste — aber ausdrücklich als anderer Posten:** nicht als
+Regelfall, sondern als **angenommenes Angebot**. Die Erstattungsregel greift
+hier nicht; die Zusage schon.
+
+**Zur Vorgeschichte:** #7060 ist die Kundin, die am 11.09. schrieb, das
+Spielzeug sei beworben worden als *„indestructible or you get a refund"*. Sie
+war die erste der inzwischen zehn, die die Garantie in dieser Lesart
+wiedergegeben haben.
+
+### 🚩 #7246 — Barbara (`arabrabtnarg@gmail.com`), 14.09. 16:53 UTC
+
+Antwort auf die Vorlagen-Absage vom 13.09. 20:07. **Abstand: 20 Stunden
+47 Minuten.** Ein Foto beigefügt — nicht geöffnet, nicht beurteilt.
+
+- Bestellung **22.08.**, Versand **02.09.** — 11 Tage
+- **28,50 £**, bezahlt, FULFILLED
+- Zwei Plushies: *hippo* und *elephant*
+- 4px US (selected postal codes), `4PX3003122373561CN`
+- Lieferadresse Clarksville, Tennessee
+
+Wortlaut:
+
+> „**10 minutes of use is not 'used' in the way you are describing, it is a
+> product failure.** If your toys cannot survive 10 minutes of play, your
+> durability claims are **false advertising**. **I would like to escalate this
+> or have someone with authority review the attached photo.**"
+
+**Drei Dinge:**
+
+1. **Sie greift die Definition von „used" an, auf der die Vorlage beruht.**
+   Das ist die **sechste** unabhängige Fassung des Konstruktionsvorwurfs nach
+   #7101, #7316, #6891, #7292 und #5032 — und die einzige, die direkt am Wort
+   „used" ansetzt.
+2. **Sie verlangt ausdrücklich Eskalation** — *„someone with authority"*. Das
+   ist genau das, wofür das Label da ist; es wird gesetzt, weil sie darum
+   bittet, nicht nur weil ein Auslöser zutrifft.
+3. **Namenslage:** In Shopify steht **Barbara Crouch**, die Absenderadresse
+   liest sich rückwärts als „grant barbara", die Vorlage vom 13.09. sprach sie
+   als **Barbara** an. **Übereinstimmend ist nur der Vorname** — der Entwurf
+   benutzt deshalb **nur „Barbara"** und rät keinen Nachnamen.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** ausdrücklich verlangte Eskalation; Vorwurf irreführender
+Werbung; Wiederkontakt nach Vorlagen-Absage.
+**Nicht auf der Erstattungsliste** — kein Regelfall.
+
+### Stand der Vorlagen-Absagen
+
+**Vierundzwanzig seit dem 11.09.** Mit #7246 ist weiterhin **jede
+beantwortete eskaliert**.
+
+**Dem steht jetzt ein Gegenbeispiel gegenüber:** #7060 bekam **kein**
+Vorlagen-Nein, sondern ein Angebot — und der Vorgang ist **beim ersten
+Kontakt danach erledigt**. Der Bot leitet daraus **keine Empfehlung** ab, was
+angeboten werden soll; das ist Sache des Owners. Er hält den Unterschied im
+Verlauf fest, weil er der einzige im ganzen Zeitraum ist.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`: **#7060**, **#7246**.
+
+**Nicht getan:** keine Vorlagen-Absage, **die 30 % nicht ausgezahlt** (gesperrt
+und nicht zulässig) **und kein Betrag genannt**, keine neue Erstattung
+zugesagt oder abgelehnt, kein Nachname geraten, das Foto nicht geöffnet, keine
+rechtliche Einordnung, keine Rücksendeadresse, kein Label gesetzt, **kein
+Entwurf in Gmail angelegt**.
