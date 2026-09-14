@@ -4223,6 +4223,84 @@ beigetragen hat. Kein Betrag. Keine rechtliche Einordnung.
 
 ---
 
+## #7072 — Jane Bromirski (janekipp17@gmail.com)
+
+**Betreff:** Re: A shipment from order #7072 is on the way
+
+> Dear Jane,
+>
+> Thirty-one minutes is a precise number and I'm not going to pretend it reads
+> as anything other than it does. I'm sorry.
+>
+> Your order #7072 from 21 August — the frog.
+>
+> You haven't asked us for anything, so I'm not going to decide on your behalf
+> what you should want. What I've done is send your message to the shop owner
+> today. If there is something you would like — a refund, a replacement, or an
+> answer about how the toy was described before you bought it — reply and tell
+> me, and it goes across with the rest.
+>
+> If you'd rather leave it at having told us, that's fine too, and it's on
+> record.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner. **Keine Erstattung und
+kein Ersatz zugesagt, angeboten oder abgelehnt** — sie hat nichts gefordert.
+**Keine Aussage dazu, ob die Werbung zutrifft**; „indestructible" wird nicht
+aufgegriffen. **Die Herkunft der Sendung wird nicht angesprochen** — sie hat
+das am 02.09. getan und am 03.09. eine offene Antwort bekommen; es heute von
+sich aus wieder aufzumachen, hiesse ihr ein Thema unterzuschieben, das sie
+gerade nicht stellt. **Ihre Ankündigung, öffentlich zu posten, wird nicht
+erwähnt** — weder um sie davon abzubringen noch um darauf einzugehen. Kein
+Betrag. Keine Rücksendeadresse.
+
+---
+
+## #8359 — `gary.lisacooper@gmail.com` — **bewusst ohne Anrede mit Namen**
+
+**Betreff:** Re: Order #8359
+
+**⚠️ Die Adresse ist der Bestellung eindeutig zugeordnet; der Kundenname am
+Vorgang stimmt mit der Adresskennung nicht überein, und die Mail ist nicht
+unterschrieben. Es wird kein Name geraten.**
+
+> Hello,
+>
+> Thank you for writing, and I'm sorry you've been left wondering.
+>
+> Taking your points in order:
+>
+> **The payment.** Yes — order #8359 shows as paid on our side, placed on 7
+> September. You haven't been charged for nothing.
+>
+> **The delivery.** It was despatched the following day, on 8 September, with
+> RD Express, tracking number RD1026898162HM:
+> https://t.17track.net/en#nums=RD1026898162HM
+>
+> The order is the Zahnbuddy and two of the donkey Plushies.
+>
+> I'm not going to give you a delivery date, because I'd be making it up. What
+> I will say is that if the tracking page isn't showing you anything useful, or
+> the parcel doesn't arrive, reply to this email and tell me — I'd rather you
+> came back to me than spent your own time chasing it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** eine Auskunft und die Bereitschaft, weiter daran zu
+arbeiten. **Kein Zustelldatum versprochen, keine Zustelldauer geschätzt, keine
+Erstattung und kein Ersatz zugesagt.** **Kein Verweis an den Zusteller.**
+**Kein Name benutzt** — weder der am Vorgang noch einer aus der Adresskennung.
+Die Zahlung wird **bestätigt**, weil `PAID` aus den Shop-Daten belegt ist; die
+**Zustellung ausdrücklich nicht**. Keine Aussage zur Herkunft der Sendung; er
+hat nicht danach gefragt.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

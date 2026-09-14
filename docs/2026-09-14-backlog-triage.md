@@ -1608,3 +1608,109 @@ behauptet**, **nicht geraten, welche Position bei #7312 fehlt**, **keine
 Rücksendeadresse erfunden**, bei #7660 **keine Erstattung angeboten, die sie
 nicht verlangt hat**, keine rechtliche Einordnung, kein Label gesetzt, **kein
 Entwurf in Gmail angelegt**.
+
+---
+
+## Lauf 23:20 UTC — #7072 und #8359, letzter Lauf des Tages
+
+### 🚩 #7072 — Jane Bromirski (`janekipp17@gmail.com`), 14.09. 22:40 UTC
+
+- Bestellung **21.08.**, Versand **02.09.** — 12 Tage bis zum Versand
+- **20,34 £**, bezahlt, FULFILLED
+- Ein Plushie, Variante *frog*
+- **RD Express**, `RD1026707417HM`
+- Lieferadresse Eagle Bridge, New York
+
+Wortlaut: *„It took my dog **exactly 31 minutes** to destroy this
+**indistructable** toy! Extremely frustrating. **He weighs all of 30
+pounds!!!!**"*
+
+**Siebte Nennung von „indestructible" an diesem Tag** — nach #4822, #7030,
+#7031, #7698, #7647 und #7754.
+
+**Vorgeschichte im selben Thread, und sie ist der Grund für die Einstufung:**
+
+| Datum | Ereignis |
+|---|---|
+| **02.09.** | Sie schreibt: *„I'm not at all pleased that this order is coming from **china**. I specifically ordered from the UK. Not a good business look for you and **I will be posting on your website**."* |
+| **03.09.** | Antwort des Shops: *„Our UK warehouse is currently sold out, so your order is being shipped from our international warehouse."* — **offen und ohne Beschönigung**, das entspricht der Herkunftsregel. |
+| **14.09.** | Heute. |
+
+**Sie hat am 02.09. eine öffentliche Veröffentlichung angekündigt** und meldet
+sich jetzt zum zweiten Mal, diesmal zur Haltbarkeit. **Sie stellt keine
+Forderung** — kein Betrag, keine Frist, kein Rückgabewunsch.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage; zuvor angekündigte öffentliche
+Veröffentlichung; zweiter Kontakt.
+**Nicht auf der Erstattungsliste** — kein Regelfall, und sie hat nichts
+verlangt.
+
+### #8359 — Absender `gary.lisacooper@gmail.com`, 14.09. 22:36 UTC
+
+Vollständiger Text: *„I odered you took my money from my account you have not
+delivered"*
+
+- Bestellung **07.09.**, Versand **08.09.** — **1 Tag bis zum Versand**
+- **44,06 £**, bezahlt, FULFILLED
+- Drei Artikel: Zahnbuddy (Blue Mop Plush Dog) und **2 × Plushie** *donkey*
+- **RD Express**, `RD1026898162HM`
+- Lieferadresse Morning Sun, Vereinigte Staaten
+
+**Zur Namenslage — das ist der Fall vom 13.09.:** Die Absenderadresse ist in
+Shopify **eindeutig der Bestellung #8359 zugeordnet**. **Der Kundenname am
+Vorgang lautet aber „Norma Vickroy"**, die Adresse enthält „gary.lisacooper",
+und die Mail ist **nicht unterschrieben**.
+
+**Anders als bei Stephen Board um 19:30 ist die Zuordnung hier belegt** — die
+Adresse steht am Vorgang. **Die Auskunft kann also gegeben werden.** Offen ist
+allein, **wie anzureden ist**, und das wird **nicht geraten**: der Entwurf
+benutzt **keinen Namen**.
+
+**Sein Anliegen ist vollständig beantwortbar.** Versendet am 08.09., Zusteller
+und Sendungsnummer liegen vor. **Es ist der zehnte Fall, in dem eine
+zurückgehaltene Sendungsnummer die ganze Anfrage ausmacht.**
+
+**Zum Satz „you took my money":** Die Bestellung steht auf `PAID` — **die
+Zahlung ist also erfolgt, und das wird ihm bestätigt statt umgangen.** Der Bot
+behauptet nicht, die Ware sei zugestellt; er sagt, wann und womit sie
+versandt wurde.
+
+→ `Bot/Draft Ready`. **Keine Owner-Entscheidung nötig**, solange die Sendung
+ankommt.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`: **#7072**, **#8359**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt oder
+abgelehnt, **kein Name geraten**, **kein Zustelldatum versprochen**, kein
+Verweis an den Zusteller, **die Herkunftsauskunft vom 03.09. weder wiederholt
+noch verteidigt** (sie hat heute nicht danach gefragt), keine rechtliche
+Einordnung, kein Label gesetzt, **kein Entwurf in Gmail angelegt**.
+
+---
+
+## Tagesabschluss 14.09.
+
+**Sechzehn Läufe, 33 erfasste Vorgänge, keine einzige Vorlagen-Absage.**
+
+| Kategorie | Anzahl |
+|---|---|
+| `Bot/Escalated - Owner Attention` | **18** |
+| `Bot/Needs Approval` | **11** |
+| `Bot/Draft Ready` | **4** |
+
+**Offene Fristen, in der Reihenfolge des Ablaufs:**
+
+1. **#6877 Alexander Meza — 15.09. 12:38 UTC** (FTC, Meta, Chargeback)
+2. **Stephen Board — 15.09. ca. 19:30 UTC** (Zahlungsrückzug, Facebook)
+3. **#7699 Lorraine Sale — 17.09.**
+4. **#7479 Richard Bellamy-Williams — 21.09.** (Regulierungsbehörden)
+
+**Zwei benannte Werbequellen für die Owner-Prüfung:** **Facebook** (#7698) und
+**ein Werbevideo** (#7312).
+
+**Der älteste Blocker ist heute von aussen bestätigt worden:** #7525 Carol
+Garvey hat auf der Seite nach dem Rückgabeweg gesucht und keinen gefunden.
+**32 Tage.** Acht Kundinnen und Kunden haben inzwischen danach gefragt.
