@@ -358,3 +358,76 @@ abgelehnt, **die Formulierung „no dog has beaten it" weder bestätigt noch
 bestritten**, keine rechtliche Einordnung, kein Anteil je Position geschätzt,
 die Betragsabweichung nicht aufgegriffen, kein Verweis auf den Zusteller,
 keine Rücksendeadresse, kein Label gesetzt, **kein Entwurf in Gmail angelegt**.
+
+---
+
+## Lauf 10:20 UTC — 🚩🚩 #1998: ein Rückruf, zugesagt am 17. Juli
+
+### #1998 — Alexandra Bizzios-O'Connell (`alexbizoc@icloud.com`), 14.09. 09:25 UTC
+
+Betreff: „Re: Recent order - second email sent".
+
+- Bestellung **17.06.**, Versand **25.06.** — 8 Tage bis zum Versand
+- **24,95 £**, bezahlt, FULFILLED
+- Zwei Plushies: *pig* und *elephant*
+- **CNE Express(ECO)**, `3A5V734103582` — **elfter Zusteller**, bisher nicht
+  gesehen
+- Lieferadresse Aldershot, England — Vereinigtes Königreich
+- Im Shop steht sie als **Alexandra Bizzios-O'Connell**, identisch mit der
+  Unterschrift — keine Namensunsicherheit
+
+### Der Ablauf, vollständig aus dem Thread belegt
+
+| Datum | Ereignis |
+|---|---|
+| **02.07.** | Erstkontakt. Ein Plushie „destroyed within a very short time frame", **Foto mit Zeitstempel** beigelegt. Bittet um volle Erstattung, *„have not met my needs or lived up to their description of being durable and hard wearing"*. |
+| **06.07.** | Zweite Mail: *„I am contacting you again following no reply to my first email sent last week."* |
+| **17.07.** | **Antwort des Shops.** Entschuldigung für die ausgebliebene Antwort — und: *„I have passed your refund request directly to our **Resolutions Team** who will be in contact with you shortly."* |
+| **14.09.** | *„I am still waiting to be contacted by your resolutions team almost two months after the date of your last email. I have not been contacted and I have not yet received a refund."* |
+
+**Erstkontakt vor 74 Tagen. Die Zusage eines Rückrufs liegt 59 Tage
+zurück.**
+
+### Was hier genau zugesagt wurde — und was nicht
+
+**Zugesagt wurde ein Rückruf durch ein „Resolutions Team", nicht die
+Erstattung.** Der Satz vom 17.07. lautet, die Erstattungsanfrage sei
+weitergegeben worden und man werde sich melden. **Das ist keine
+Erstattungszusage**, und der Fall wird deshalb **nicht** wie #2894 Jeff
+Hughes als Regel-1-Fall auf die Erstattungsliste gesetzt.
+
+**Zugesagt und nicht eingehalten wurde der Rückruf.** Das steht fest und ist
+aus dem Thread belegt.
+
+**Ob es ein „Resolutions Team" gibt, kann der Bot nicht feststellen** und
+behauptet dazu nichts — weder dass es existiert noch dass es nicht existiert.
+**Das ist eine Owner-Frage**, und sie ist nicht nebensächlich: der
+Kundin wurde vor zwei Monaten eine Stelle genannt, von der sie seither
+nichts gehört hat.
+
+### Das Muster
+
+**Zweiter Fall binnen zwei Tagen, in dem eine Zusage aus dem Juli nie
+ausgeführt wurde** — nach **#2894 Jeff Hughes** (Ersatzlieferung zugesagt
+**24.07.**, nie in Shopify angelegt, inzwischen **52 Tage**). Bei Jeff Hughes
+war es ein Ersatz, hier ein Rückruf. **Beide Zusagen stammen aus demselben
+Monat, beide sind unerledigt.**
+
+→ `Bot/Escalated - Owner Attention`, **hohe Priorität wegen der Dauer**.
+**Eskalationsgrund:** seit 59 Tagen nicht eingehaltene Rückrufzusage;
+wiederholter unerledigter Kontakt seit 74 Tagen; bestrittene Werbeaussage
+(*„durable and hard wearing"*).
+
+**Nicht auf der Erstattungsliste** — aus dem oben genannten Grund. **Die
+Entscheidung über die Erstattung selbst steht beim Owner und ist seit dem
+02.07. offen.**
+
+### Entwürfe
+
+Volltext in `docs/entwuerfe-zum-kopieren.md`: **#1998**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt oder
+abgelehnt, **nichts über die Existenz eines „Resolutions Team" behauptet**,
+keine neue Frist genannt, das Foto nicht bewertet, keine rechtliche
+Einordnung, keine Rücksendeadresse, kein Label gesetzt, **kein Entwurf in
+Gmail angelegt**.

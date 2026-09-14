@@ -3188,6 +3188,48 @@ er sich darüber nicht beschwert hat.
 
 ---
 
+## #1998 — Alexandra Bizzios-O'Connell (alexbizoc@icloud.com)
+
+**Betreff:** Re: Recent order - second email sent
+
+> Dear Alexandra,
+>
+> You are right to chase this, and I'm sorry you have had to.
+>
+> I've read the whole thread. You first wrote on 2 July. You wrote again on 6
+> July because nobody had replied. On 17 July you were told your refund request
+> had been passed on and that someone would contact you shortly. That was
+> fifty-nine days ago and, as far as I can see, nobody has. I'm not going to
+> explain that away.
+>
+> I've found your order: #1998, placed on 17 June — the pig and the elephant.
+>
+> I'm putting this in front of the shop owner today, marked as the oldest
+> unanswered case in the inbox, together with the full history above and your
+> original photograph. I'd rather you heard that from me than got another
+> promise about a timescale I can't control.
+>
+> What I'm not going to do is repeat what you were told in July. I can't
+> authorise a refund myself, so I won't tell you one is on its way, and I won't
+> name a date. If you have heard nothing in the next few days, reply to this
+> email — I will chase it again, and the thread will show exactly how long this
+> has been outstanding.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Vorlage beim Owner und eine Nachfass-Zusage.
+**Keine Erstattung zugesagt und keine abgelehnt.** **Keine Aussage darüber, ob
+ein „Resolutions Team" existiert** — die Zusage vom 17.07. wird als das
+zitiert, was in der Mail steht, ohne sie zu bestätigen oder als falsch zu
+bezeichnen. **Keine neue Frist**, ausdrücklich nicht. Kein Urteil über das
+Foto. Keine Entschuldigung für das Produkt — die Entschuldigung bezieht sich
+auf **das Ausbleiben der Antwort**. Keine rechtliche Einordnung. Keine
+Rücksendeadresse. Der Betrag wird nicht genannt.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
