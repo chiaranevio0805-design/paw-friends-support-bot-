@@ -4913,6 +4913,108 @@ Einordnung.
 
 ---
 
+## #1084 — Richard Foley (foley_richard@sky.com)
+
+**Betreff:** Re: Order #1084
+
+**Ihm ist am 15.09. 09:06 die Kauschaden-Vorlage zugegangen — auf einen
+Vorgang, der seit dem 29.06. offen ist und eine unbeantwortete
+Sicherheitsmeldung enthält.**
+
+> Dear Richard,
+>
+> The reply you got this morning should not have been sent to you, and I am not
+> going to pretend it was an answer.
+>
+> I have read your thread from the beginning. Here is what it shows, and I am
+> setting it out because you should not have to keep repeating it:
+>
+> - **29 June** — you wrote that a piece came off within two minutes and your
+>   dog **swallowed it**, and you asked how to return both toys.
+> - **3 July** — you chased.
+> - **17 July** — you were told our Resolutions Team would contact you shortly.
+> - **30 July** — you chased again.
+> - **6 August** — you were told it was being escalated.
+> - **14 September** — you wrote that you had still heard nothing.
+> - **This morning** — you were sent a returns-policy paragraph.
+>
+> That is **seventy-eight days**, and the safety point you raised on 29 June has
+> never been answered by anyone here. I am not going to give you my own opinion
+> on whether the toy is safe — I am not qualified to and you would be right not
+> to want it from me — but I am not going to let it disappear into a durability
+> reply either.
+>
+> What I can do, and have done today: put the whole thread in front of the shop
+> owner, flagged as an unanswered safety report first and a refund request
+> second, with the dates above.
+>
+> What I cannot do: authorise your refund. So I am not going to promise you the
+> £24.95 and I am not going to repeat this morning's refusal, which was not
+> mine.
+>
+> One practical thing. You asked in June how to return them. **We still do not
+> have a returns address I can give you.** I am not going to invent one. If
+> you have been holding on to the toys waiting for instructions, that is why
+> none came.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe des vollständigen Vorgangs an den
+Owner — **ausdrücklich zuerst als Sicherheitsmeldung**. **Keine Erstattung
+zugesagt und keine abgelehnt**; die Absage von heute früh wird **als nicht von
+hier stammend und als keine Antwort benannt**, aber **nicht aufgehoben**.
+**Keine Aussage darüber, ob das Produkt sicher ist**, in keine Richtung.
+**Nichts darüber behauptet, ob es ein „Resolutions Team" gibt** — die Zusage
+vom 17.07. wird nur als das zitiert, was ihm geschrieben wurde. **Keine
+Rücksendeadresse — das Fehlen wird eingeräumt**, samt der Folge, dass seine
+Frage aus dem Juni deshalb nie beantwortet wurde. **Seine Ankündigungen
+gegenüber Facebook und Trading Standards werden nicht erwähnt** und nicht
+kommentiert. Der Betrag **24,95 £** wird genannt, weil er aus den Shop-Daten
+belegt ist; die Entscheidung darüber ausdrücklich nicht. Keine rechtliche
+Einordnung.
+
+---
+
+## #7937 — Marian Allaton (busa1957@msn.com) — zweite Fassung
+
+**Betreff:** Re: Destroyed toy
+
+**Ersetzt den Entwurf vom 07:20-Lauf. Sie hat vier Stunden später erneut
+geschrieben — in einem neuen Thread — und diesmal ausdrücklich eine
+Erstattung verlangt.**
+
+> Dear Marian,
+>
+> You wrote this morning and again just now, and you haven't had an answer in
+> between. I'm sorry — that's on us, not you.
+>
+> Your order #7937 from 27 August, the hippo.
+>
+> You've now asked for a refund, so let me answer that directly rather than ask
+> you what you'd like: **I can't authorise one myself.** That isn't a refusal —
+> it's the shop owner's decision, and your request has gone to him today with
+> your photo and what you said about the toy being described as being for heavy
+> chewers.
+>
+> I'm not going to give you a date, because I'd be guessing. But you shouldn't
+> have to write a third time, so if nothing reaches you in the next few days,
+> reply here and I'll chase it rather than leave you to.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Die Erstattung wird weder zugesagt noch abgelehnt.** **Nicht behauptet,
+Kauschaden sei nicht gedeckt.** **Der Wortlaut „for heavy chewers" wird
+weiterhin weder bestätigt noch bestritten.** Das Ausbleiben der ersten
+Antwort wird **eingeräumt**, ohne es auf ein technisches Problem zu schieben.
+Kein Datum versprochen. Kein Betrag. Keine Rücksendeadresse.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

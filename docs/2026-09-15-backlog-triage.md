@@ -635,3 +635,100 @@ abgelehnt, **keine Rücksendeadresse erfunden**, **seine Angaben zur
 Nutzungsdauer nicht bewertet**, die Fotos nicht geöffnet, keine Daten an eine
 nicht von ihm selbst einbezogene Adresse, keine rechtliche Einordnung, kein
 Label gesetzt, **kein Entwurf in Gmail angelegt**.
+
+---
+
+## Lauf 11:20 UTC — 🚩🚩🚩 #1084: 78 Tage, eine verschluckte Ecke, und dieselbe Zusage vom 17. Juli
+
+### 🚩🚩🚩 #1084 — Richard Foley (`foley_richard@sky.com`)
+
+**Das ist der älteste unerledigte Vorgang, der in diesem Postfach bisher
+aufgetaucht ist.**
+
+- Bestellung **07.06.2026**, Versand **10.06.** — 3 Tage
+- **24,95 £**, bezahlt, FULFILLED
+- Zwei Plushies: *elephant* und *Duck*
+- **CNE Express(ECO)**, `3A5V733804526`
+- Lieferadresse Sondland, England
+
+**Der vollständige Verlauf, aus dem Thread belegt:**
+
+| Datum | Ereignis |
+|---|---|
+| **29.06.** | Erstkontakt. Beide Spielzeuge *„advertised on your website as being **'indestructible'**"*. **Sein kleiner Hund riss binnen zwei Minuten ein Teil ab und verschluckte es.** Er nennt das ausdrücklich ein **Sicherheitsrisiko**, verlangt volle Erstattung, **fragt nach Rücksendeanweisungen**, setzt **14 Tage** und kündigt öffentliche Berichterstattung an. |
+| **03.07.** | Nachfrage. |
+| **17.07.** | Shop: *„I have passed your details directly to our **Resolutions Team** who will be in contact with you **shortly**."* |
+| **30.07.** | Nachfrage: *„I'm still awaiting a response, this is unacceptable."* |
+| **06.08.** | Shop antwortet **ausführlich und offen** — benennt die nicht eingehaltene Zusage vom 17.07., den Sicherheitshinweis, den „indestructible"-Streit und seine Ankündigung, und sagt die Eskalation an den Owner zu. |
+| **14.09. 22:34** | *„Still no reply, **I'm reporting you to facebook and trading standards**"* |
+| **15.09. 09:06** | **Die Kauschaden-Vorlage.** |
+| **15.09. 10:57** | *„What do you think a dog will do, **cuddle it**. How stupid, but don't worry **I'll make sure everyone knows about your policy on Facebook**. Worst customer service ever"* |
+
+**Vier Befunde:**
+
+1. **78 Tage seit dem Erstkontakt.** Das übertrifft #1998 (74 Tage) und ist
+   damit der längste offene Vorgang.
+2. **🚩 Die Zusage vom 17.07. ist dieselbe wie bei #1998 Alexandra
+   Bizzios-O'Connell — am selben Tag.** Beiden wurde an diesem Tag ein
+   „Resolutions Team" angekündigt, das sich melden werde. **Bei beiden kam
+   nie etwas.** **Der Bot stellt nicht fest, ob es ein solches Team gibt** —
+   er hält fest, dass **dieselbe Zusage am selben Tag an mindestens zwei
+   Kundinnen und Kunden ging und in beiden Fällen unerfüllt blieb.**
+3. **Die Sicherheitsmeldung ist seit dem 29.06. unbeantwortet.** Ein
+   abgerissenes und **verschlucktes** Teil. Die Antwort vom 06.08. hat sie
+   korrekt weitergegeben; die Vorlage von heute früh **erwähnt sie nicht.**
+   **Der Bot trifft keine Aussage zur Sicherheit des Produkts** — er hält
+   fest, dass die Meldung siebenundsiebzig Tage alt und unbeantwortet ist.
+4. **Seine Rückgabefrage vom 29.06. ist ebenfalls unbeantwortet** — er hat
+   ausdrücklich angeboten, die Ware zurückzuschicken, und um Anweisungen
+   gebeten. **Das ist die früheste Rückgabefrage im gesamten Material, drei
+   Wochen vor dem bisher ältesten vermerkten Fall.**
+
+**Die Antwort vom 06.08. war die bisher offenste im ganzen Material.** Sie
+hat eingeräumt, was schieflief, nichts beschönigt und nichts versprochen, was
+nicht zu halten war. **Sie wurde nicht eingelöst, und heute früh ging die
+Vorlage hinaus.**
+
+→ `Bot/Escalated - Owner Attention`, **höchste Priorität**.
+**Eskalationsgrund:** unbeantwortete Sicherheitsmeldung seit 77 Tagen;
+zweimal gebrochene Zusage; angekündigte Meldung an Facebook **und Trading
+Standards**; bestrittene Werbeaussage; unbeantwortete Rückgabefrage.
+
+**Nicht auf der Erstattungsliste** — kein Regelfall nach der geltenden Regel.
+**Aber der Betrag ist eindeutig: 24,95 £**, ein Einzelposten in GBP, keine
+Bundle-Aufteilung, keine Währungsdifferenz. **Wie bei #1998 und #6477 ist hier
+nichts zu ermitteln.**
+
+**Er ist der dritte Kunde mit Trading-Standards-Ankündigung** — nach #5829
+David Coles und #6936 Lisa Steggel (heute früh).
+
+### #7937 — Marian Allaton: zweiter Kontakt heute, jetzt mit Forderung
+
+**Neuer Thread**, 11:00 UTC, **dasselbe Foto** (`20260914_203524.jpg`) wie um
+07:00.
+
+> „I ordered this toy and my puppy destroyed it in 5 minutes I am so
+> disappointed **could I have a refund please**."
+
+**Ihre Mail von heute 07:00 ist unbeantwortet geblieben.** Vier Stunden
+später schreibt sie erneut — **und stellt jetzt eine Forderung**, die sie
+vorhin nicht gestellt hatte.
+
+**Sie eröffnet dabei einen neuen Thread** — dasselbe Muster wie bei #4975
+Darlene Futrel. **Zweiter Beleg dafür, dass Thread-Betrachtung allein
+Wiederholungskontakte verdeckt.**
+
+→ `Bot/Escalated - Owner Attention` (bleibt). **Der Entwurf vom 07:20-Lauf ist
+überholt** — er fragte, was sie möchte. **Sie hat geantwortet, bevor er
+hinausging. Zweite Fassung liegt vor.**
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`: **#1084**, **#7937 (zweite
+Fassung)**.
+
+**Nicht getan:** keine Vorlagen-Absage veranlasst, keine Erstattung zugesagt
+oder abgelehnt, **keine Aussage zur Sicherheit des Produkts**, **nichts über
+die Existenz eines „Resolutions Team" behauptet**, keine Rücksendeadresse
+erfunden, keine rechtliche Einordnung, kein Label gesetzt, **kein Entwurf in
+Gmail angelegt**.
