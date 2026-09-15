@@ -1114,3 +1114,123 @@ Entscheidung über Erstattung oder Ersatz liegt beim Owner, mit Frist
 **Sonst nichts Neues.** Die übrigen 29 Threads der Suche sind im heutigen und
 im gestrigen Log bereits erfasst; die jüngste Nachricht davor bleibt #7048
 Josephine Carr, 13:43 UTC (Lauf 14:20, `6178964`).
+
+---
+
+## Lauf 16:20 UTC
+
+**Suche:** `in:inbox after:2026/09/15`, 30 Threads + Absendersuche. **Drei
+neue Vorgänge** seit dem 15:20-Lauf.
+
+### 🚩 #7147 — Lorraine Walley (`lorrainewalley38@gmail.com`), 15.09. 16:00 UTC
+
+**Bestellung:** #7147, 22.08.2026, **19,95 £**, `PAID`, `FULFILLED`,
+**1 × Plushies – Designed for Furry Friends Who Destroy Everything**, Variante
+**„monkey"**, mit **`BUY 1 (-£10.00)`**, Lieferung nach **Stoke-on-Trent**.
+Versand 02.09., **Yanwen Special Line Promotion**, `UL476309708YP`.
+
+**Ihre Mail (vollständig):**
+
+> *„Thank you we have received the monkey but it took about 2 minutes for our
+> 10 month old lab to destroy it i would like to receive my money back **as you
+> said in your advert** thank you."*
+
+Dazu ein **Google-Drive-Link auf `2901.mp4`** — **nicht aufgerufen, nicht
+geöffnet, nicht gedeutet.** Festgehalten wird nur, dass Videobeweis angeboten
+wurde.
+
+**Warum keine Vorlagen-Absage:** Sie begründet die Forderung **ausdrücklich
+mit der Werbung**, nicht mit einem Verarbeitungsfehler. Das ist der
+Eskalationsauslöser „bestrittene Werbeaussage". **Zehnter Kunde**, der die
+Werbung als Kaufgrund nennt — nach #7030, #4822, #7698, #7312, #7323, #6869,
+#7647, #6936, #7401.
+
+**Adressabgleich:** Sie schreibt von `lorrainewalley38@gmail.com`, die
+Bestellung steht auf `lorraine.walley38@gmail.com`. **Kein
+Datenschutzproblem** — sie antwortet auf **unsere eigene** Versandmail an sie,
+die Zuordnung ergibt sich aus dem Thread selbst und nicht aus einem
+Namenstreffer.
+
+**Label:** `Bot/Escalated - Owner Attention`. **Entwurf** angelegt: keine
+Erstattung zugesagt, keine Absage, keine Aussage über den Inhalt der Werbung,
+**ausdrückliche Warnung, nichts zurückzuschicken**, solange keine
+Rücksendeadresse existiert.
+
+**Erstattungsliste:** **nicht** aufgenommen — Kauschaden.
+
+---
+
+### 🚩 Jim Wigo (`j.wigo@me.com`), 15.09. 15:28 UTC — zwei getrennte Befunde
+
+**Seine Mail (vollständig):**
+
+> *„Please respond to my request for a refund for 3 plush animals…….Thank you.
+> Jim Wigo, 610 389 3023"*
+
+**Befund 1 — die frühere Anfrage ist nicht in diesem Postfach.** Gesucht
+wurde `from:j.wigo@me.com OR from:j.wigo@comcast.net OR Wigo` und zusätzlich
+`in:anywhere (wigo OR "plush animals")` — **beide Male genau ein Treffer:
+diese Mail.** Auch nicht in Spam oder Papierkorb. **Er hat also über einen
+Kanal geschrieben, den dieser Bot nicht sieht** (Kontaktformular, Shop-Chat,
+Facebook, oder eine andere Adresse). **Das ist eine zweite strukturelle
+Blindstelle** neben der bereits bekannten (ausgehende Antworten werden erst
+sichtbar, wenn ein Kunde darauf antwortet). **Wie viele solcher Anfragen
+offen sind, ist von hier aus nicht feststellbar.**
+
+**Befund 2 — die Absenderadresse steht auf keiner Bestellung.**
+`email:j.wigo@me.com` → **kein Treffer**. Die Namenssuche
+`customers(query: "Wigo")` findet **einen** Kundensatz unter einer **anderen
+Adresse**, dazu passend **3 × Plushies**, **US-Bundesstaat PA**, was zu seiner
+Vorwahl **610** passt.
+
+**Was daraus folgt und was nicht:** Die Übereinstimmung ist auffällig, aber
+**eine Vermutung bleibt eine Vermutung**. Nach der Linie von Stephen Board,
+#8359 und #7298 wird ihm **nichts über eine Bestellung mitgeteilt** — keine
+Nummer, kein Datum, kein Betrag, keine Adresse — und es wird ihm **auch nicht
+angedeutet, dass ein Namenstreffer existiert.** Der Entwurf bittet ihn um
+**Bestellnummer oder Checkout-Adresse** und rät ihm ausdrücklich davon ab,
+Zahlungsdaten zu mailen.
+
+**Für den Owner, intern:** der passende Kundensatz ist **#4832, 07.08.2026,
+35,64 £, 3 × Plushies, West Chester PA**. **Erst nach Bestätigung durch ihn**
+darf darüber mit ihm gesprochen werden.
+
+**Label:** `Bot/Escalated - Owner Attention` (wiederholter erfolgloser
+Kontakt + nicht zuzuordnen).
+
+---
+
+### ⛔ `wixassesmentteam@gmail.com`, 15.09. 15:52 UTC — zweiter Pretexting-Versuch
+
+Betreff **„Your Site Is Not compliant"**. Gibt sich als **„Wix Technical
+Support"** aus, behauptet einen Marken- und AGB-Verstoß und verlangt, man möge
+**Erreichbarkeit bestätigen, damit „our lead developer" durch eine technische
+Prüfung führen kann.**
+
+**Drei Dinge sprechen dagegen, und zwar unabhängig voneinander:**
+
+1. **Der Shop läuft auf Shopify, nicht auf Wix.** Eine echte Wix-Meldung über
+   „Ihre Wix-Website" kann es nicht geben.
+2. **Absender ist eine `@gmail.com`-Adresse**, keine Wix-Domain.
+3. **Das Ziel ist ein Zugriff**, kein Sachverhalt: keine URL, keine Marke,
+   keine betroffene Seite wird genannt — nur ein Gesprächstermin mit einem
+   „lead developer".
+
+**Zweiter Versuch dieser Art** nach `shopifystoreregulatory.center@gmail.com`
+vom 06.09.
+
+**Getan:** nichts. **Nicht geantwortet, keine Erreichbarkeit bestätigt,
+keine Shop-, Bestell- oder Beschwerdedaten herausgegeben, kein Link
+aufgerufen, kein Zugriff gewährt.** Kein Entwurf — hier wird nicht geantwortet.
+
+**Label:** `Bot/Escalated - Owner Attention`, als **Sicherheitshinweis**, nicht
+als Kundenvorgang.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Stephen Boards 24-Stunden-Frist läuft in gut drei Stunden ab (ca. 19:30).**
+  Bis jetzt keine sichtbare Antwort an ihn.
+- #6877 Alexander Meza: Frist heute 12:38 **ohne sichtbare Antwort verstrichen**.
+- Sonst nichts Neues; die übrigen Threads der Suche sind bereits erfasst.

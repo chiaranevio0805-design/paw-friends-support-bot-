@@ -5339,6 +5339,108 @@ im Text.
 
 ---
 
+## #7147 — Lorraine Walley (lorrainewalley38@gmail.com)
+
+**Betreff:** Re: A shipment from order #7147 is on the way
+
+**Neu am 15.09. 16:00 UTC. Sie beruft sich ausdrücklich auf die Werbung
+(„as you said in your advert"), also bestrittene Werbeaussage —
+keine Vorlagen-Absage.**
+
+> Dear Lorraine,
+>
+> Thank you for letting us know, and I'm sorry it went the way it did — two
+> minutes is not what anyone hopes for.
+>
+> I want to be straight with you rather than give you a quick answer that
+> doesn't hold.
+>
+> You've asked for your money back on the basis of what the advert said. That
+> is a fair question to put, and it is not one I can answer for you: I am not
+> in a position to rule on what our advertising promised or to authorise a
+> refund on that basis. So I am not going to tell you yes, and I am not going
+> to send you a refusal either.
+>
+> What I have done is put your order in front of the shop owner today, in your
+> own words, with the note that your request rests on the advertising and not
+> on a fault in the stitching.
+>
+> Two things I would rather say now than let you find out later:
+>
+> - **Please don't post anything back to us yet.** We do not currently have a
+>   returns address published, and I don't want you paying postage on a parcel
+>   that has nowhere to go.
+> - I have not opened the video you linked. If it matters to the decision, the
+>   owner will ask you for it directly.
+>
+> If you have heard nothing in a few days, reply to this message and I will
+> chase it rather than leave it sitting.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine
+Nachfass-Zusage. **Keine Erstattung zugesagt, kein Betrag genannt, keine
+Absage erteilt.** **Keine Aussage darüber, was die Werbung versprochen hat**
+— in keine Richtung. Kein Garantietext zitiert, keine Bedingung behauptet,
+keine Frist genannt. **Video nicht geöffnet** und nicht gedeutet; der Link
+wurde nicht aufgerufen. **Ausdrückliche Warnung, nichts zurückzuschicken**,
+weil es keine Rücksendeadresse gibt — damit ihr kein Porto entsteht. Kein
+Hinweis auf den Transportdienstleister. Kein Eskalationsmarker im Text.
+
+---
+
+## Jim Wigo (j.wigo@me.com) — Absenderadresse steht nicht auf einer Bestellung
+
+**Betreff:** Re: Refund request
+
+**Neu am 15.09. 15:28 UTC. Er schreibt, er habe bereits eine Erstattung
+beantragt — diese frühere Anfrage ist in diesem Postfach nirgends zu finden
+(`in:anywhere` durchsucht, ein einziger Treffer: diese Mail). Unter seiner
+Absenderadresse liegt keine Bestellung. Deshalb wird hier nichts über eine
+Bestellung gesagt.**
+
+> Dear Mr Wigo,
+>
+> Thank you for writing, and I'm sorry you have had to ask twice.
+>
+> I want to be honest with you about where the problem sits on our side.
+>
+> **Your earlier request has not reached this mailbox.** I have searched it,
+> including the spam and deleted folders, and the message you are referring to
+> is not there. I don't know yet where it went, but I would rather tell you
+> that than let you think it was read and ignored.
+>
+> **The second thing is that I cannot match your email address to an order.**
+> The address you are writing from does not appear on one, and I am not willing
+> to guess my way from a name to somebody's order record and start discussing
+> it — not even when the name matches. That protects you as much as anyone
+> else.
+>
+> So that I can pick this up properly, could you reply with **either** the
+> order number **or** the email address you used at checkout? One line is
+> enough. I am not asking for any payment or card details, and you should never
+> send those by email to us or to anyone.
+>
+> As soon as I can match it, your refund request goes to the shop owner — who
+> decides it — and I will tell you plainly what comes back.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur, dass die Anfrage nach Zuordnung an den Owner geht,
+und dass die Antwort weitergegeben wird. **Keine Erstattung zugesagt, kein
+Betrag, keine Frist, keine Absage.** **Keine Bestellnummer, kein
+Bestelldatum, kein Artikel und keine Adresse genannt** — die Absenderadresse
+steht auf keiner Bestellung, und der Namenstreffer im Shop wird ihm
+**nicht** bestätigt. Auch die Existenz eines Treffers wird nicht angedeutet.
+**Keine Zahlungs- oder Kartendaten erbeten** — im Gegenteil ausdrücklich
+abgeraten. Keine Rücksendeadresse. Kein Eskalationsmarker im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
