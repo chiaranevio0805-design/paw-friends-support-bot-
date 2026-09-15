@@ -959,3 +959,70 @@ weder bestätigt noch bestritten**, die Fotos nicht geöffnet, **kein Schluss
 über die Versandcharge**, **auf das Dienstleistungsangebot nicht geantwortet
 und nichts über den Shop preisgegeben**, keine Rücksendeadresse, keine
 rechtliche Einordnung, kein Label gesetzt, **kein Entwurf in Gmail angelegt**.
+
+---
+
+## Lauf 14:20 UTC — 🚩 #7048: die Spielzeuge sind unbenutzt, und sie hat es vorher angekündigt
+
+### 🚩🚩 #7048 — Josephine Carr (`jocarr247@yahoo.com`), 15.09. 13:43 UTC
+
+- Bestellung **21.08.**, Versand **02.09.** — 12 Tage bis zum Versand
+- **27,95 £**, bezahlt, FULFILLED
+- Zwei Plushies: *Elk* und *hippo*
+- Yanwen Special Line Promotion, `UL476304572YP`
+- Darlington, England
+
+**Der Verlauf ist der Grund für die Einstufung:**
+
+| Datum | Ereignis |
+|---|---|
+| **03.09.** | *„Where is my parcel as haven't received it yet?"* |
+| **04.09. 10:55** | Lieferauskunft („7–21 Tage", internationales Lager offen genannt). |
+| **04.09. 15:25** | Sie: *„after reading reviews about the toys I ordered, **I will not be keeping them**, as people have stated they are destroyed within minutes […] and that they are **cheap soft toys**"* |
+| **05.09. 08:30** | Shop: *„Once you receive your order, **please take some time to check the toys**. If you're not satisfied with the products after receiving them, **simply let us know and we'll be happy to review the situation and advise you on the available options**."* |
+| **15.09. 13:43** | Sie: *„I have finally received my order, however I am **gravely disappointed**… **they are smaller** and **the quality isn't as described**… **I do not wish to keep them** as they aren't worth what I paid… **I would like a full refund please.**"* Sie gibt ihre vollständige Postanschrift an. |
+
+**Vier Punkte, und der zweite ist der wesentliche:**
+
+1. **Sie hat am 04.09. angekündigt, die Ware nicht behalten zu wollen** — vor
+   der Zustellung, also **bevor irgendetwas benutzt werden konnte**.
+2. **🚩 Der Shop hat sie am 05.09. ausdrücklich eingeladen, sich nach Erhalt
+   zu melden**, mit der Zusage, „die Optionen" zu nennen. **Sie hat genau das
+   getan.** Das ist **keine Kulanzbitte, sondern die Einlösung einer
+   Aufforderung des Shops.** **Der Bot leitet daraus keinen Anspruch ab** —
+   er hält fest, dass die Zusage vom 05.09. mit ihrer heutigen Mail fällig
+   geworden ist.
+3. **Nach ihrer Darstellung sind die Spielzeuge unbenutzt.** Sie schreibt
+   nicht, ihr Hund habe sie zerstört — sie sagt, ein Welpe *würde* sie
+   zerstören, und sie wolle sie **nicht behalten**. **Das ist kein
+   Kauschaden.** **Ob die Ware tatsächlich unbenutzt und in Originalzustand
+   ist, stellt der Bot nicht fest** — aber **nach ihrem eigenen Vortrag fällt
+   der Fall unter die Bedingung, die die Vorlage selbst nennt.**
+4. **Sie nennt als zweiten Grund die Grösse** — *„they are smaller"*. **Das
+   ist der zweite Fall nach #4975 Darlene Futrel heute früh.** Beide sagen,
+   die Ware sei kleiner als dargestellt. **Der Bot hat die Produktbilder nicht
+   geprüft und stellt zur Grösse nichts fest** — er vermerkt, dass es
+   inzwischen **zwei unabhängige Meldungen** sind.
+
+**Sie hat ihre Postanschrift mitgeschickt** — offenbar in der Erwartung, eine
+Rücksendung sei vorgesehen. **Es gibt weiterhin keine Rücksendeadresse, und
+es wird keine erfunden.**
+
+→ `Bot/Escalated - Owner Attention`, **hohe Priorität**.
+**Eskalationsgrund:** eingelöste Zusage vom 05.09.; Ware nach eigenem Vortrag
+unbenutzt; zweite Grössenbeanstandung; bestrittene Produktbeschreibung.
+
+**✅ Auf die Erstattungsliste — als *ungeklärt*.** **Nach ihrem Vortrag
+„unbenutzt", 27,95 £, Regel 2.** **Nicht ausgeführt**: `refundCreate` ist
+gesperrt, es ist kein Regel-4-Fall, und **ob die Ware tatsächlich unbenutzt
+ist, muss der Owner klären** — der Bot nimmt das nicht vorweg.
+
+### Entwürfe
+
+Volltext in `docs/entwuerfe-zum-kopieren.md`: **#7048**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt oder
+abgelehnt, **nicht festgestellt, dass die Ware unbenutzt ist** — nur, dass sie
+es vorträgt; **nichts zur Grösse festgestellt**; **keine Rücksendeadresse
+erfunden**, obwohl sie ihre eigene Anschrift geschickt hat; keine rechtliche
+Einordnung; kein Label gesetzt; **kein Entwurf in Gmail angelegt**.

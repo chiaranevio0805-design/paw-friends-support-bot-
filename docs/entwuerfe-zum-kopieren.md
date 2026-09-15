@@ -5221,6 +5221,58 @@ rechtliche Einordnung.
 
 ---
 
+## #7048 — Josephine Carr (jocarr247@yahoo.com)
+
+**Betreff:** Re: #7048
+
+> Dear Miss Carr,
+>
+> Thank you for coming back to us, and for the address — though please hold on
+> to the toys for now; I'll explain why below.
+>
+> Your order #7048 from 21 August: the Elk and the hippo.
+>
+> I want to be clear about one thing in your favour, because it matters and it
+> would be easy to lose. **On 5 September you were told to check the toys when
+> they arrived and to let us know if you weren't satisfied, and that we would
+> advise you on the options.** You have done exactly that. This is not you
+> asking for a favour — it is you doing what you were asked to do, and I have
+> put it to the shop owner in those terms.
+>
+> I've also passed on the two things you've raised: that they are smaller than
+> you expected, and that the quality isn't as described. You are not the first
+> person this week to say the size is not what they anticipated, and that has
+> gone across as its own point rather than being folded into a general
+> complaint.
+>
+> **Please don't post anything yet.** We do not currently have a returns address
+> published, and I am not going to invent one and have you pay to send a parcel
+> somewhere that doesn't exist. Until there is an address, sending them back is
+> not something I can set up for you.
+>
+> On the refund itself: I can't authorise one, so I'm not going to promise it or
+> refuse it. What I can say is that your case is with the person who can decide,
+> today, with the 5 September message attached.
+>
+> If you haven't heard back within a few days, reply here and I'll chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner — **die Zusage vom 05.09.
+ausdrücklich beigefügt** — und eine Nachfass-Zusage. **Keine Erstattung
+zugesagt und keine abgelehnt.** **Nicht festgestellt, dass die Ware unbenutzt
+ist**; ihr Vortrag wird weitergegeben, nicht bewertet, und **es wird ihr kein
+Anspruch bestätigt**. **Nichts zur Grösse festgestellt** — nur vermerkt, dass
+sie nicht die Einzige ist, **ohne Namen oder Bestellnummer der anderen
+Person**. **Keine Rücksendeadresse erfunden**, verbunden mit der klaren Bitte,
+noch nichts zu verschicken, damit ihr keine Portokosten entstehen. **Nicht
+behauptet, Kauschaden sei nicht gedeckt** — es ist keiner. Kein Betrag. Keine
+rechtliche Einordnung.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
