@@ -851,3 +851,111 @@ guarantee" weder bestätigt noch bestritten**, **nicht entschieden, ob
 Bellamy-Williams' Anspruch durchgreift**, keine rechtliche Einordnung, keine
 Rücksendeadresse erfunden, kein Label gesetzt, **kein Entwurf in Gmail
 angelegt**.
+
+---
+
+## Lauf 13:20 UTC — #6877s Frist ist abgelaufen, und zwei Lieferauskünfte kippen in Kauschaden
+
+### ⏰ #6877 Alexander Meza — Frist um 12:38 UTC abgelaufen
+
+**Bis zu diesem Lauf ist in seinem Thread keine Antwort des Shops sichtbar.**
+Angekündigt waren **FTC-Beschwerde, Meldung an Meta und Chargeback**.
+
+**Der Bot stellt nicht fest, ob er die Schritte eingeleitet hat** — er hält
+fest, dass **die Frist verstrichen ist, ohne dass eine Antwort im Postfach
+erscheint**. Der Entwurf vom 13.09. liegt unverändert vor.
+
+**Nächste Frist: Stephen Board, ca. 19:30 UTC** — in gut sechs Stunden.
+
+### 🚩 #7568 — Pete Preston: dreissig Minuten nach der Zustellung
+
+Er hatte am **11.09.** gefragt, wo seine Bestellung vom 24.08. bleibt. Am
+**15.09. 06:37** kam die Lieferauskunft („7–21 Tage, unterwegs").
+
+**Antwort 12:31:55:**
+
+> „We have now received the dog toy which **arrived about 1pm today**, **by
+> 1:30pm** the toy **which I understand from the advert was chewing proof**
+> looked like the photo I've attached. I am very disappointed after waiting all
+> this time for it to be delivered and **paying almost £20**."
+
+- Bestellung **24.08.**, Versand **03.09.** — 10 Tage; **Zustellung 15.09.**,
+  also **22 Tage nach der Bestellung**
+- **19,95 £**, ein Plushie *monkey*
+- Yanwen Special Line Promotion, `UL478624150YP` — **erneut die Charge vom
+  03.09.**
+- Barwell, England
+
+**Dreissig Minuten.** Die Ware kam um 13:00 Ortszeit an und war um 13:30
+zerstört. **Der kürzeste dokumentierte Abstand zwischen Zustellung und
+Meldung im gesamten Material.**
+
+**„chewing proof"** ist eine weitere zitierte Formulierung. **In keiner der
+beiden geprüften Beschreibungen.** Weder bestätigt noch bestritten.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage mit Fotobeleg; Wiederkontakt
+nach Lieferauskunft.
+
+### 🚩 #7712 — Lauren Cocks: dieselbe Kippe, drei Stunden früher
+
+Sie hatte am **12.09.** geschrieben, die Sendung sei seit dem 03.09. „on its
+way". **Heute 12:43** leitet sie ihre eigene Mail weiter — **ohne dass eine
+Antwort des Shops dazwischen sichtbar ist**:
+
+> „My order has now come and my dog **chewed it to pieces in less than 10
+> minutes**. **Advertised as if not indestructible then refundable?**"
+
+- Bestellung **25.08.**, Versand **03.09.**, **27,95 £**, zwei Plushies
+  (*frog*, *hippo*), Yanwen `UL478625521YP` — **ebenfalls die Charge vom
+  03.09.**, Stockport
+
+**Ihre Formulierung ist die präziseste Wiedergabe der Garantie bisher:**
+*„if not indestructible then refundable"* — **genau die Kopplung, die zwölf
+Kundinnen und Kunden beschrieben haben.** Sie setzt ein Fragezeichen dahinter,
+formuliert es also als Frage, nicht als Vorwurf.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage; Wiederkontakt nach
+unbeantworteter Lieferanfrage vom 12.09.
+
+**Zur Lieferanfrage:** Ihre Mail vom 12.09. ist **nie beantwortet worden**.
+Sie hat sich selbst geholfen, indem sie sie weiterleitete.
+
+### Die Charge vom 03.09. — laufende Zählung
+
+**Sieben der heute und gestern eingegangenen Beschwerden betreffen
+Bestellungen aus derselben Yanwen-Versandcharge vom 03.09.:** #7657, #7587,
+#7647, #7578, #7698, #7937, #7568, #7712, #7754. **Der Bot zieht daraus
+keinen Schluss über die Charge** — er hält fest, dass sie zusammen versendet
+wurden und die Beschwerden jetzt zusammen eintreffen, was mit einer
+gemeinsamen Zustellwelle erklärbar ist.
+
+### Kein Kundenanliegen: `bradleybosun1@gmail.com`, 13:12 UTC
+
+> „Rather than charging a fixed upfront fee, I'd prefer to work based on
+> performance. If I help you reach $10K monthly sales, would **10%** be
+> reasonable?"
+
+**Keine Bestellung, kein Kundenanliegen** — ein unaufgefordertes
+Dienstleistungsangebot. **Keine Bestellung unter dieser Adresse auffindbar**
+(nicht gesucht, weil kein Kundenbezug behauptet wird).
+
+**Der Bot antwortet nicht und legt keinen Entwurf an.** Es wird **nichts über
+den Shop, seine Zahlen oder seine Lage mitgeteilt** — dieselbe Linie wie am
+06.09. gegenüber `shopifystoreregulatory.center@gmail.com`. **Das ist kein
+Vorwurf gegen den Absender**; es ist schlicht keine Supportanfrage und nicht
+Sache dieses Postfachs.
+
+→ **Kein Label, kein Entwurf.** Dem Owner zur Kenntnis vorgelegt.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`: **#7568**, **#7712**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt oder
+abgelehnt, **„chewing proof" und „if not indestructible then refundable"
+weder bestätigt noch bestritten**, die Fotos nicht geöffnet, **kein Schluss
+über die Versandcharge**, **auf das Dienstleistungsangebot nicht geantwortet
+und nichts über den Shop preisgegeben**, keine Rücksendeadresse, keine
+rechtliche Einordnung, kein Label gesetzt, **kein Entwurf in Gmail angelegt**.

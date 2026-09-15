@@ -5144,6 +5144,83 @@ Rücksendeadresse.
 
 ---
 
+## #7568 — Pete Preston (ppreston25@aol.co.uk)
+
+**Betreff:** Re: Not received my order 7568
+
+> Dear Pete,
+>
+> Thank you for the photo, and I'm sorry — arriving at one o'clock and looking
+> like that by half past is not what you waited three weeks for.
+>
+> Your order #7568 was placed on 24 August and despatched on 3 September, so
+> the wait was real and I'm not going to argue with your account of it.
+>
+> You've said you understood from the advert that the toy was chewing proof. I
+> can't confirm that wording from here and I'm not going to tell you that you
+> misread it either — what the advertising says, and where, is a question for
+> the shop owner. Your email and your photo have gone to him today with that
+> point marked.
+>
+> You haven't asked for anything specific. If you would like a refund, reply and
+> say so and I'll add it — I'd rather ask than decide for you. Either way I
+> can't authorise one myself, so I won't promise you anything I can't deliver.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner. **Keine Erstattung
+zugesagt, angeboten oder abgelehnt** — er hat nichts gefordert; die Frage wird
+**offen gestellt**. **„Chewing proof" wird weder bestätigt noch bestritten**,
+und ihm wird **nicht unterstellt, er habe sich verlesen**. **Nicht behauptet,
+Kauschaden sei nicht gedeckt.** Die Wartezeit wird **bestätigt**, weil Bestell-
+und Versanddatum aus den Shop-Daten belegt sind. Foto nicht gedeutet. Kein
+Betrag genannt. Keine Rücksendeadresse.
+
+---
+
+## #7712 — Lauren Cocks (chuckon50@hotmail.com)
+
+**Betreff:** Re: Order 7712
+
+> Dear Lauren,
+>
+> Two things, and the first is an apology that's owed.
+>
+> You wrote on 12 September asking where your order was. **You never got an
+> answer.** You ended up forwarding your own email back to us today to get it
+> looked at. That shouldn't have been necessary.
+>
+> Your order #7712 from 25 August — the frog and the hippo — was despatched on 3
+> September.
+>
+> On what you've asked: you've put it as a question — advertised as, if not
+> indestructible, then refundable. I'm not able to confirm that wording from
+> here, so I'm not going to tell you it's right and I'm not going to tell you
+> it's wrong. It is the exact question the shop owner needs to answer, and your
+> email has gone to him today with it quoted as you wrote it.
+>
+> I can't authorise a refund myself, so I won't promise you one or refuse you
+> one on his behalf.
+>
+> If you haven't heard back in a few days, reply here — and this time you won't
+> have to forward it to yourself.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Keine Erstattung zugesagt und keine abgelehnt.** **Ihre Wiedergabe der
+Garantie wird weder bestätigt noch bestritten** — ausdrücklich als offene
+Owner-Frage benannt. Das Ausbleiben der Antwort vom 12.09. wird **eingeräumt**,
+ohne es auf ein technisches Problem zu schieben. **Nicht behauptet,
+Kauschaden sei nicht gedeckt.** Kein Betrag. Keine Rücksendeadresse. Keine
+rechtliche Einordnung.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
