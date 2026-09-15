@@ -4380,6 +4380,41 @@ nicht verteidigt. Kein Betrag. Keine rechtliche Einordnung.
 
 ---
 
+## #7303 — David House (brickhouse1105@gmail.com)
+
+**Betreff:** Re: Dog toy
+
+> Dear David,
+>
+> Ten minutes. There isn't much I can say to that which would make it sound
+> better, so I won't try.
+>
+> Thank you for the photos — they go further than a description would.
+>
+> Your order #7303 from 23 August: the monkey and the donkey.
+>
+> You haven't asked us for anything, and I'm not going to put words in your
+> mouth. What I've done is send your message and both photos to the shop owner
+> today. If there's something you want out of this — a refund, a replacement, or
+> an answer about how the toy was described when you bought it — reply and say
+> so, and it goes with it.
+>
+> If you'd rather just have said your piece, that's fine too; it's on record
+> either way.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner. **Keine Erstattung und
+kein Ersatz zugesagt, angeboten oder abgelehnt** — er hat nichts gefordert.
+**Das Wort „indestructible" wird nicht aufgegriffen**, weder bestätigend noch
+bestreitend. **Nicht behauptet, Kauschaden sei nicht gedeckt.** Sein „Junk"
+wird **nicht kommentiert und nicht verteidigt**. Fotos nicht gedeutet. Kein
+Betrag. Keine Rücksendeadresse. Keine rechtliche Einordnung.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

@@ -95,3 +95,44 @@ Volltexte in `docs/entwuerfe-zum-kopieren.md`: **#7114**, **#7298**.
 abgelehnt, **zu #7295 nichts preisgegeben**, **keine Rücksendeadresse
 erfunden**, die Herkunftsauskunft vom 09.09. nicht wiederholt, keine
 rechtliche Einordnung, kein Label gesetzt, **kein Entwurf in Gmail angelegt**.
+
+---
+
+## Lauf 03:20 UTC — #7303, achte „indestructible"-Nennung in 27 Stunden
+
+### 🚩 #7303 — David House (`brickhouse1105@gmail.com`), 15.09. 03:05 UTC
+
+Betreff: „Dog toy". **Zwei Fotos** — nicht geöffnet, nicht beurteilt.
+
+Vollständiger Text: *„**The indestructible toy lasted 10 minutes!! Junk**"*
+
+- Bestellung **23.08.**, Versand **03.09.** — 11 Tage bis zum Versand
+- **28,50 £**, bezahlt, FULFILLED
+- Zwei Plushies: *monkey* und *donkey*
+- **D&S Express (Selected postal codes)**, `JDW101399153090`
+- Lieferadresse Bridgeton, New Jersey
+
+**Acht Nennungen von „indestructible" seit gestern 00:28** — #4822, #7030,
+#7031, #7698, #7647, #7754, #7072 und jetzt #7303. **In 27 Stunden.**
+
+**Das Wort steht weder in der Plushies- noch in der Fluffys-Beschreibung.**
+Beide wurden geprüft (12.09. bzw. 14.09.). **Zwei Quellen sind inzwischen von
+Kunden benannt worden** — Facebook (#7698) und ein Werbevideo (#7312) —
+**beide vom Bot nicht einsehbar und deshalb unbestätigt.**
+
+**Er stellt keine Forderung.** Kein Betrag, keine Frist, keine Rückgabefrage,
+keine Drohung — vier Wörter und zwei Fotos.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage mit Fotobeleg.
+**Nicht auf der Erstattungsliste** — kein Regelfall, und er hat nichts
+verlangt.
+
+### Entwürfe
+
+Volltext in `docs/entwuerfe-zum-kopieren.md`: **#7303**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt, angeboten
+oder abgelehnt, **das Wort „indestructible" nicht bestätigt und nicht
+bestritten**, die Fotos nicht geöffnet, keine Rücksendeadresse, keine
+rechtliche Einordnung, kein Label gesetzt, **kein Entwurf in Gmail angelegt**.
