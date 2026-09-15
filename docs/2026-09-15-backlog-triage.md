@@ -136,3 +136,97 @@ Volltext in `docs/entwuerfe-zum-kopieren.md`: **#7303**.
 oder abgelehnt, **das Wort „indestructible" nicht bestätigt und nicht
 bestritten**, die Fotos nicht geöffnet, keine Rücksendeadresse, keine
 rechtliche Einordnung, kein Label gesetzt, **kein Entwurf in Gmail angelegt**.
+
+---
+
+## Lauf 07:20 UTC — 🚩 #8009 wurde beantwortet, und zwei Minuten später widersprochen
+
+### 🚩🚩 #8009 — Yvonne Ware (`vonnie1982@hotmail.co.uk`)
+
+**Das ist der erste Fall seit Tagen, in dem eine Antwort des Shops und die
+Reaktion darauf im selben Lauf sichtbar werden.**
+
+- Bestellung **28.08.**, Versand **08.09.** — 11 Tage bis zum Versand
+- **27,95 £**, bezahlt, FULFILLED
+- Zwei Plushies: *frog* und *Little Bear*
+- Yanwen Special Line Promotion, `UL493229620YP`
+- Lieferadresse Hull, England
+
+**Der Ablauf, im Thread belegt:**
+
+| Zeit | Ereignis |
+|---|---|
+| **13.09. 09:16** | Sie: *„Can I please have my money back, as the date I wanted the order has now been and gone!"* |
+| **15.09. 07:01** | Antwort des Shops: *„According to the latest tracking update, your parcel was **delivered on 14 September 2026**. […] **Could you please confirm whether you have received the parcel? Once we have your confirmation, we can advise you on the next steps** regarding your request."* |
+| **15.09. 07:03:17** | Sie: *„**No I haven't not received my order.**"* |
+| **15.09. 07:03:26** | **Dieselbe Nachricht ein zweites Mal**, neun Sekunden später. |
+
+**Zwei Minuten und sechs Sekunden.** Das ist die schnellste Reaktion auf eine
+Shop-Antwort im gesamten beobachteten Zeitraum — schneller als die 3 Minuten
+17 Sekunden bei #7316 am 13.09.
+
+**Drei Feststellungen:**
+
+1. **Zustellscan gegen Kundenaussage.** Das Tracking meldet Zustellung am
+   14.09., sie sagt, sie hat nichts bekommen. **Der Bot entscheidet nicht, wer
+   recht hat** — er hält beides nebeneinander fest. **Es ist der zweite Fall
+   dieser Art nach #6420 Keith Grice** (als zugestellt gescannt am 25.08., nie
+   erhalten).
+2. **Ihre Erstattungsforderung vom 13.09. ist weiterhin unbeantwortet.** Die
+   Antwort von heute früh sagt, man könne *„next steps"* erst nach ihrer
+   Bestätigung nennen. **Sie hat jetzt bestätigt — negativ.** Damit liegt der
+   Ball beim Owner, und die Bedingung, an die die Auskunft geknüpft war, ist
+   erfüllt.
+3. **Die doppelte Zustellung ihrer Antwort** (neun Sekunden Abstand, identischer
+   Text) ist **kein zweiter Kontakt**, sondern offenkundig technisch. **Sie
+   wird nicht als zweifache Nachfrage gezählt.**
+
+→ `Bot/Escalated - Owner Attention` (**hochgestuft** von `Bot/Needs Approval`
+vom 13.09.).
+**Eskalationsgrund:** bestrittener Zustellscan; seit dem 13.09. unbeantwortete
+Erstattungsforderung; die gestellte Bedingung ist erfüllt.
+
+**Nicht auf der Erstattungsliste — noch nicht.** **Nicht zugestellt ist etwas
+anderes als nachweislich verloren**, und die Prüfung des Zustellnachweises ist
+eine Owner-Aufgabe. **Wenn sich der Scan nicht halten lässt, ist es ein
+Regelfall.**
+
+### 🚩 #7937 — Marian Allaton (`busa1957@msn.com`), 15.09. 07:00 UTC
+
+**Ein Foto** — nicht geöffnet, nicht beurteilt.
+
+- Bestellung **27.08.**, Versand **03.09.** — 7 Tage bis zum Versand
+- **19,95 £**, bezahlt, FULFILLED
+- Ein Plushie, Variante *hippo*
+- Yanwen Special Line Promotion, `UL478913766YP` — **wieder die Charge vom
+  03.09.**
+- Lieferadresse Ipswich, England
+
+Vollständiger Text: *„I waited ages for this item and my dog destroyed it in
+5 minutes so disappointing **as it states for heavy chewers**."*
+
+**„states for heavy chewers"** — in der geprüften Plushies-Beschreibung steht
+*„Anti-tear design built for **strong** chewers"*. **Sinngemäss
+deckungsgleich, im Wortlaut nicht** — dieselbe Lage wie bei #7030 Jordan
+Hauler am 14.09. **Der Bot bestätigt den Wortlaut nicht und bestreitet ihn
+nicht.**
+
+**Sie stellt keine Forderung.** Kein Betrag, keine Frist, keine Rückgabefrage.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage mit Fotobeleg.
+**Nicht auf der Erstattungsliste** — kein Regelfall, und sie hat nichts
+verlangt.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`: **#8009 (zweite Fassung)**,
+**#7937**.
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt oder
+abgelehnt, **nicht entschieden, ob die Sendung zugestellt wurde**, **die
+Kundin nicht in Zweifel gezogen und der Zustellscan nicht als falsch
+bezeichnet**, der Wortlaut „for heavy chewers" weder bestätigt noch
+bestritten, die Fotos nicht geöffnet, kein Verweis an den Zusteller, keine
+Rücksendeadresse, keine rechtliche Einordnung, kein Label gesetzt, **kein
+Entwurf in Gmail angelegt**.

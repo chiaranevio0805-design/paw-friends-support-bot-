@@ -4415,6 +4415,85 @@ Betrag. Keine Rücksendeadresse. Keine rechtliche Einordnung.
 
 ---
 
+## #8009 — Yvonne Ware (vonnie1982@hotmail.co.uk) — zweite Fassung
+
+**Betreff:** Re: #8009
+
+**Ersetzt den Entwurf vom 13.09. Sie hat die heute früh gestellte Frage bereits
+beantwortet — mit Nein.**
+
+> Dear Mrs Ware,
+>
+> Thank you for answering so quickly, and I'm sorry to be putting you through
+> this at all.
+>
+> You've told us the parcel hasn't arrived. Our tracking says it was delivered
+> on 14 September. **I'm not going to tell you that our tracking is right and
+> you are wrong** — you know what has and hasn't turned up at your own door, and
+> a delivery scan is not the same thing as a parcel in your hands.
+>
+> So here is where it stands, honestly. You asked on 13 September for your money
+> back. This morning you were told we'd advise on next steps once you confirmed
+> whether the parcel had arrived. You have now confirmed it hasn't, so that
+> condition is met and there is nothing further for you to do.
+>
+> I can't authorise a refund myself, so I'm not going to promise you one. What I
+> have done is send this to the shop owner today, with the tracking record, your
+> answer, and the fact that your original request is now two days old.
+>
+> You don't need to chase this again — but if you haven't heard back within a
+> few days, reply here and I will.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Keine Erstattung zugesagt und keine abgelehnt.** **Nicht entschieden, ob
+zugestellt wurde** — der Scan wird genannt, **nicht als falsch bezeichnet**,
+und **ihre Aussage wird nicht angezweifelt**. **Kein Verweis an den Zusteller**
+und keine Aufforderung, bei Nachbarn zu suchen oder eine Nachforschung zu
+starten — das wäre Arbeit, die auf sie abgewälzt würde. **Kein neues Datum
+versprochen.** Kein Betrag. Keine Rücksendeadresse. Ihre doppelt eingegangene
+Antwort wird **nicht erwähnt**, weil es erkennbar technisch war.
+
+---
+
+## #7937 — Marian Allaton (busa1957@msn.com)
+
+**Betreff:** Re: Plushie
+
+> Dear Marian,
+>
+> Thank you for writing, and for the photo. A long wait and then five minutes
+> is a poor return on both counts, and I'm sorry.
+>
+> I've found your order #7937 from 27 August — the hippo.
+>
+> You've said the toy is described as being for heavy chewers. I'm not going to
+> argue with your reading of it and I'm also not going to confirm the exact
+> wording from here — what the product says and where is a question for the shop
+> owner, and your email has gone to him today with your photo.
+>
+> You haven't asked us for anything specific, so I'm not going to decide that
+> for you. If you would like a refund, a replacement, or simply an answer, reply
+> and tell me and it goes across with the rest.
+>
+> If you hear nothing back in a few days, reply here and I'll chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Keine Erstattung und kein Ersatz zugesagt, angeboten oder abgelehnt** — sie
+hat nichts gefordert. **Der Wortlaut „for heavy chewers" wird weder bestätigt
+noch bestritten.** **Nicht behauptet, Kauschaden sei nicht gedeckt.** Die
+Wartezeit wird **anerkannt**, ohne sie zu beziffern oder zu rechtfertigen.
+Foto nicht gedeutet. Kein Betrag. Keine Rücksendeadresse.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
