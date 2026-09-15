@@ -1474,3 +1474,132 @@ Erstattungsfall.
 - **Zwei angekündigte Zahlungsrückzüge heute**: Stephen Board und **#7164**.
 - **#7164 ist der erste Vorgang, der überhaupt in Richtung Regel 4 zeigt** —
   unbestätigt, nichts ausgelöst, zur Prüfung beim Owner.
+
+---
+
+## Lauf 19:20 UTC
+
+**Zwei neue Vorgänge — und eine Korrektur an meinen eigenen beiden letzten
+Läufen.**
+
+### ⚠️ Korrektur: #5973 wurde in den Läufen 17:20 und 18:20 übersehen
+
+Stephen Cooils Antwort kam **15.09. 16:35 UTC**. Beide folgenden Läufe haben
+sie **nicht gesehen** und beide haben „zwei neue Vorgänge" gemeldet, während es
+drei waren.
+
+**Grund:** `search_threads` zeigt pro Thread nur die **ältesten fünf**
+Nachrichten und setzt **keine Kürzungsmarke**. Der Thread #5973 hat inzwischen
+**neun** Nachrichten; die Vorschau endete jedes Mal beim 11.09. **Dieser
+Fallstrick ist in diesem Log seit dem 13.09. dokumentiert — ich bin trotzdem
+hineingelaufen, weil ich die Vorschau für den ganzen Thread genommen habe.**
+
+**Konsequenz ab sofort:** Bei jedem Lauf wird für **jeden Thread mit fünf oder
+mehr Nachrichten in der Vorschau** `get_thread` aufgerufen, bevor er als
+„bereits erfasst" abgehakt wird. Die Vorschau allein reicht nur bei Threads mit
+weniger als fünf Nachrichten.
+
+**Verspätung im Ergebnis: rund drei Stunden.** Sonst nichts verloren — der
+Vorgang ist unten vollständig erfasst.
+
+---
+
+### 🚩🚩 #5973 — Stephen Cooil (`stevecooil@me.com`), 15.09. 16:35 UTC — laufende Verhandlung
+
+**Bestellung:** #5973, 13.08.2026, **29,95 £**, `FULFILLED`, **2 × Plushies**
+(*Elephant* + *Donkey*), Chester.
+
+**Der vollständige Verlauf — das ist der einzige Vorgang im ganzen Log, in dem
+der Shop selbst verhandelt:**
+
+| Datum | Wer | Was |
+|---|---|---|
+| 06.09. (ca.) | Cooil | Erste Mail mit **Video und Foto**, unbeantwortet |
+| 08.09. 09:54 | Cooil | Fasst nach. Will **beide** Stücke zurückgeben, **„per the advertised 30 day guarantee"** |
+| 09.09. 11:10 | Shop | **Vorlagen-Absage** |
+| 09.09. 12:15 | Cooil | **65 Min später.** Zweifelt die **Testimonials** an, nennt die Ware **kleiner als dargestellt** und **überteuert**, sagt *„this seems like a scam"* und kündigt an, **die Medien einzuschalten**. Nennt ausdrücklich: **„We do still have a Donkey, untouched."** |
+| 11.09. 09:47 | Shop | **Zweite Vorlagen-Absage** |
+| 11.09. 13:43 | Cooil | *„I still have one unused toy that I wish to return for a refund. **How do I go about this?**"* |
+| 13.09. 10:52 | Shop | **Angebot: 30 %**, Ware behalten. **Die Rückgabefrage wird nicht beantwortet.** |
+| 14.09. 10:41 | Cooil | Fordert **mindestens 50 %** |
+| **15.09. 07:58** | **Shop** | **Angebot: 40 %** |
+| **15.09. 16:35** | **Cooil** | *„The least I can accept is 50%."* |
+
+**Was daran wichtig ist:**
+
+1. **Der Abstand beträgt 2,99 £.** 40 % von 29,95 £ sind 11,98 £, 50 % sind
+   14,98 £. **Es wird seit drei Tagen um knapp drei Pfund verhandelt**, während
+   der Kunde eine Medien-Ankündigung im Raum stehen hat.
+2. **Er hat ein unbenutztes Stück** — der Donkey, ungeöffnet. Damit ist die
+   Bedingung, die die Vorlage selbst nennt („unused and in their original
+   condition"), **für dieses Stück erfüllt**. Er ist damit der **fünfte** Fall
+   dieser Art (#7479, #7030, #7660, #7347).
+3. **Seine Rückgabefrage vom 11.09. ist bis heute unbeantwortet** — stattdessen
+   kam ein Teilerstattungsangebot. **Der ehrliche Grund ist, dass es keine
+   Rücksendeadresse gibt.** Das steht jetzt im Entwurf.
+4. **Dritte Größenbeschwerde** nach #4975 und #7048. **Nicht geprüft** — keine
+   Aussage dazu, in keine Richtung.
+
+**Label:** `Bot/Escalated - Owner Attention`. **Entwurf** angelegt: **sagt die
+50 % nicht zu und lehnt sie nicht ab**, **widerruft die bereits gemachten 40 %
+nicht**, nennt **keinen Betrag**, gibt **keine Rücksendeadresse**, deutet das
+**Video nicht** und sagt **nichts zur Größe**.
+
+**Erstattungsliste:** #5973 stand bereits als *unbenutzt* darauf und **bleibt
+dort** — **Betrag weiterhin offen**, weil 40/50 % nicht entschieden sind und
+der Anteil des unbenutzten Stücks am Kaching-Bundle-Preis nur im Admin
+bestimmt werden kann.
+
+---
+
+### 🚩 #7832 — Helen Shakeshaft (`shakeshafth@sky.com`), 15.09. 18:17 UTC
+
+**Bestellung:** #7832, 26.08.2026, **19,95 £**, `FULFILLED`, **1 × Plushies**,
+Bridgend (Wales). Versand 03.09., Yanwen Special Line Promotion,
+`UL478625742YP`. **Erstkontakt.**
+
+**Sie zitiert zwei Werbeaussagen — und beide stehen wörtlich in der
+Produktbeschreibung:**
+
+> *„You advertise the toy as being ideal for strong chewers due to its strong
+> material ( **anti-tear** i think you stated ) and **double stitching**."*
+
+Belegt im `descriptionHtml` der Plushies: **„Anti-tear design built for strong
+chewers"** und **„Reinforced double stitching to help prevent tearing"**.
+**Das ist der erste Fall, in dem ein Kunde die Werbung zitiert und das Zitat
+sich eins zu eins im Shop wiederfindet** — bei den elf „indestructible"-Fällen
+war es umgekehrt.
+
+**Weitere Punkte:**
+
+- *„This toy is definitely destructible."* — Ohr in kürzester Zeit zerkaut.
+- **Vierte Größenbeschwerde**: *„due to its small size, it's not value for
+  money either."*
+- **Trustpilot**: Sie hat die Bewertungen **erst nach dem Kauf** gefunden —
+  *„many negative reviews and lots of dissatisfied costumers who also added
+  your customer services need improving on too **as you fail to respond**."*
+  **Zweiter Trustpilot-Verweis heute** nach #7323.
+- Sie wirft dem Shop vor, **negative Bewertungen nicht anzuzeigen**.
+- *„I'm not holding out much hope of a response from you either."*
+
+**Sie fordert ausdrücklich nichts.** Der Entwurf bestätigt ihr deshalb die
+beiden Zitate als zutreffend, sagt **nichts** über die Größe (nicht geprüft),
+**nichts** darüber, ob das Produkt der Aussage gerecht wird, und **bietet ihr
+an**, auf ein Wort hin daraus eine förmliche Erstattungsanfrage zu machen —
+statt ihr eine zu unterstellen oder sie mit Schweigen zu bestätigen.
+
+**Label:** `Bot/Escalated - Owner Attention` (bestrittene Werbeaussage +
+öffentliches Bewertungsmuster). **Erstattungsliste:** nicht aufgenommen — sie
+hat keine Erstattung verlangt.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Stephen Boards 24-Stunden-Frist ist abgelaufen (ca. 19:30).** Keine
+  sichtbare Antwort an ihn. **Zweite heute verstrichene Frist nach #6877.**
+- **Zwölf Kunden** mit „indestructible"-artigen Werbezitaten; **#7832 ist der
+  erste, dessen Zitat im Shop belegt ist.**
+- **Vier Größenbeschwerden** (#4975, #7048, #5973, #7832) — **nichts davon
+  geprüft.**
+- **Drei Trustpilot-Verweise** insgesamt (#7610 Trustpilot-Post, #7323, #7832).

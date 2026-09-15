@@ -5667,6 +5667,125 @@ Hersteller zu nennen. Keine Rücksendeadresse. Kein Eskalationsmarker im Text.
 
 ---
 
+## #5973 — Stephen Cooil (stevecooil@me.com) — laufende Verhandlung, 40 % gegen 50 %
+
+**Betreff:** Re: Plushies Order 5973
+
+**Neu am 15.09. 16:35 UTC. Hier läuft seit dem 13.09. eine Verhandlung, die
+der Shop selbst führt — 30 %, dann 40 %, er fordert mindestens 50 %. Der
+Abstand beträgt bei 29,95 £ genau 2,99 £. Dieser Entwurf schließt die
+Verhandlung NICHT ab; das kann nur der Owner.**
+
+> Dear Stephen,
+>
+> Thank you — and I would rather be straight with you than keep this moving in
+> small steps.
+>
+> **I cannot agree 50% from where I sit.** Authorising the figure is the shop
+> owner's, not mine, so if I said yes to you now I would be making a promise I
+> have no standing to keep. You have had enough of those.
+>
+> What I have done instead is put it in front of him today with the whole
+> history attached and the gap stated plainly: 40% offered, 50% asked, and the
+> difference between those two is small.
+>
+> **Two things in your messages that I want on the record, because they have
+> not been answered yet:**
+>
+> - You asked on 11 September how to return the unused Donkey. **That question
+>   was never answered** — you were offered a partial refund instead. The
+>   honest reason is that we do not currently have a returns address published.
+>   **Please don't post anything back**, or you will be out of pocket for
+>   postage as well.
+> - You have an item that has never been opened. That is not the same as the
+>   toy your dog destroyed, and I have said so in the note that went with your
+>   order rather than letting the two be treated as one thing.
+>
+> I have not opened your video. You have offered it three times now, and if it
+> bears on the decision the owner will ask you for it.
+>
+> You said what you will do if this isn't resolved. That is your call to make
+> and I am not going to argue you out of it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** **nur** die Weitergabe an den Owner. **Die 50 % werden
+weder zugesagt noch abgelehnt**, und die bereits vom Shop gemachten 40 %
+werden **nicht widerrufen** — sie stehen, sie werden hier nur nicht erhöht.
+**Kein Betrag genannt**, auch nicht die Differenz in Pfund. **Keine
+Rücksendeadresse** — stattdessen der ausdrückliche Hinweis, dass es keine gibt,
+und die Warnung, nichts zu verschicken. **Die unbeantwortete Rückgabefrage vom
+11.09. wird offen als unbeantwortet benannt.** Video nicht geöffnet. **Keine
+Aussage zur Produktgröße** und **kein Vergleich mit Produktbildern** — beides
+nicht geprüft. **Keine Aussage dazu, ob die Testimonials echt sind.** **Keine
+rechtliche Einordnung** zu „scam" und **kein Versuch, ihn von der
+Medien-Ankündigung abzubringen.** Kein Eskalationsmarker im Text.
+
+---
+
+## #7832 — Helen Shakeshaft (shakeshafth@sky.com)
+
+**Betreff:** Re: Plushies
+
+**Neu am 15.09. 18:17 UTC. Sie zitiert zwei Werbeaussagen, die in der
+Produktbeschreibung tatsächlich stehen — „anti-tear" und „double stitching".
+Sie fordert nichts ausdrücklich; sie rechnet nicht einmal mit einer Antwort.
+Genau deshalb bekommt sie eine.**
+
+> Dear Helen,
+>
+> You wrote that you were not holding out much hope of a reply. I would rather
+> not prove you right, so here is one, and I will keep it honest rather than
+> smooth.
+>
+> **On the two claims you quoted.** You are quoting us correctly. Our Plushies
+> product page does say *"Anti-tear design built for strong chewers"* and
+> *"Reinforced double stitching to help prevent tearing"*. I am not going to
+> pretend you misread the advertising, because you didn't.
+>
+> Whether the product lives up to that wording is not mine to rule on, and I am
+> not going to talk you out of your own experience of it. It has gone to the
+> shop owner today with your message in your words.
+>
+> **On the reviews.** What you found is what you found, and I am not going to
+> argue with it or ask you to reconsider anything you have read or written. You
+> are also right that you are not the only person who has written to us about a
+> toy coming apart quickly — I am not going to tell you your case is unusual
+> when it isn't.
+>
+> **On the size.** I have not checked the measurements and I am not going to
+> guess at them, so I am not going to tell you either that they are as
+> pictured or that they aren't.
+>
+> **You did not actually ask me for anything**, so I want to say plainly what
+> is available: if you would like a refund considered, say so in one line and
+> it goes to the owner as a refund request rather than as feedback. If you
+> would rather leave it where it is, that is fine too and nothing further is
+> needed from you.
+>
+> One practical note either way: **please don't post the toy back to us.** We
+> do not have a returns address published at the moment, and I don't want you
+> paying postage for nothing.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner, und das Angebot, auf **ein
+Wort von ihr hin** daraus eine förmliche Erstattungsanfrage zu machen. **Keine
+Erstattung zugesagt, kein Betrag, keine Absage, keine Frist.** **Zwei
+Werbeaussagen werden ihr als zutreffend zitiert bestätigt** — das ist aus der
+Produktbeschreibung belegt und keine Zusage. **Keine Aussage darüber, ob das
+Produkt der Aussage gerecht wird.** **Keine Aussage zur Größe** — nicht
+geprüft, und ausdrücklich so gesagt. **Sie wird nicht gebeten, an Bewertungen
+etwas zu ändern**, und nichts wird davon abhängig gemacht. Keine
+Rücksendeadresse, stattdessen die Warnung, nichts zu verschicken. Kein
+Eskalationsmarker im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
