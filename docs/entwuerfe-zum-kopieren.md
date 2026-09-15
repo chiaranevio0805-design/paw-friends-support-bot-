@@ -4867,6 +4867,52 @@ Rücksendeadresse.
 
 ---
 
+## #7885 — Rod McNess (rod.m@promptpetroleum.com.au, Kopie pmcness@bigpond.com)
+
+**Betreff:** Re: Failed Plushie Fox
+
+**Er hat die zweite Adresse selbst in Kopie gesetzt; die Antwort geht an
+beide.**
+
+> Dear Rod,
+>
+> Thank you for writing, and for the photos. Four days, an hour a day, indoors
+> — you have set out what happened clearly and I'm not going to pick at it.
+>
+> I've found your order #7885, placed on 27 August: the fox.
+>
+> You asked two things, and I'll take the second one first because the answer
+> is awkward and you should have it straight away.
+>
+> **Do you need to send it back?** I can't tell you where to send it. **We do
+> not currently have a returns address published**, and I am not going to invent
+> one and have you post a parcel from Victoria to an address that doesn't
+> exist. So please don't send anything yet.
+>
+> **How do you get your money back?** I can't authorise a refund myself, so I'm
+> not going to promise you one or refuse you one. Your request has gone to the
+> shop owner today with your order details, your photos and the point you made
+> about the online claims.
+>
+> If you haven't heard back within a few days, reply to this email and I'll
+> chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Keine Erstattung zugesagt und keine abgelehnt.** **Keine Rücksendeadresse —
+das Fehlen wird offen eingeräumt**, verbunden mit der ausdrücklichen Bitte,
+noch nichts zu verschicken, damit ihm keine Portokosten aus Australien
+entstehen. **Keine Aussage dazu, ob die „online claims" zutreffen.** **Seine
+Angabe zur Nutzungsdauer wird nicht bewertet** — weder bestätigt noch
+angezweifelt, und sie wird ihm nicht als Argument in den Mund gelegt. Fotos
+nicht gedeutet. Kein Betrag, keine Währungsumrechnung. Keine rechtliche
+Einordnung.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

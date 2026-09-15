@@ -551,3 +551,87 @@ rechtliche Einordnung zum CRA 2015; **nichts zur Grössendarstellung
 festgestellt**; keine Währungsumrechnung; **Susan Hines nicht vorgehalten, sie
 irre sich**; keine Rücksendeadresse; kein Label gesetzt; **kein Entwurf in
 Gmail angelegt**.
+
+---
+
+## Lauf 10:20 UTC — #7885 und zwei Auskünfte, die die Frage nicht beantworten
+
+### 🚩 #7885 — Rod McNess (`rod.m@promptpetroleum.com.au`), 15.09. 09:44 UTC
+
+Betreff: „Failed Plushie Fox". **Zwei Fotos** — nicht geöffnet, nicht
+beurteilt.
+
+**Zur Zuordnung:** Die Absenderadresse ist eine Firmenadresse und steht an
+keinem Vorgang. **Die Namenssuche findet Rod McNess unter
+`pmcness@bigpond.com`** — und **genau diese Adresse hat er selbst in Kopie
+gesetzt**. **Damit ist die Zuordnung belegt**, anders als bei Stephen Board
+gestern.
+
+- Bestellung **27.08.**, Versand **03.09.** — 7 Tage bis zum Versand
+- **20,35 £**, bezahlt, FULFILLED
+- Ein Plushie, Variante *fox*
+- 4PX Standard Registered, `4PX3003125174745CN`
+- Lieferadresse **Upwey, Victoria — Australien**
+
+Wortlaut:
+
+> „We received a Fox plushie for our Pugalier **on Friday, Sept 11**. This toy
+> is only used by her **inside the house at night time**, at most **1 hr per day**
+> of play time with the Fox. This is disappointing considering **your online
+> claims and the price of this product**. **Can you please advise how we get our
+> money back and do we need to send the product back for our refund**"
+
+**Drei Punkte:**
+
+1. **Er beschreibt die Nutzung von sich aus und schränkt sie ein** — drinnen,
+   nachts, höchstens eine Stunde am Tag. **Der Bot bewertet das nicht** und
+   leitet daraus nichts ab; es wird weitergegeben, weil er es ausdrücklich
+   geschrieben hat.
+2. **„your online claims"** — allgemein gehalten, kein Zitat. **Wie bei #7581
+   Henry Torres am 14.09.** Trotzdem eine bestrittene Werbeaussage, hier
+   verbunden mit einer klaren Erstattungsforderung.
+3. **Er fragt nach dem Rückgabeweg.** **Das ist die zehnte Rückgabefrage.**
+   **Es gibt weiterhin keine Adresse, und es wird keine erfunden.**
+
+**Zur Kopie:** Er hat `pmcness@bigpond.com` selbst in Kopie gesetzt — das ist
+seine Entscheidung, und der Entwurf ist an beide gerichtet. **Es werden keine
+Daten an eine Adresse gegeben, die er nicht selbst einbezogen hat.**
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage mit ausdrücklicher
+Erstattungsforderung; unbeantwortbare Rückgabefrage.
+
+### #8321 — Darren Calver: dritte Anfrage, und die Nummer fehlt weiterhin
+
+Um **07:59** ging die **Standard-Lieferauskunft** an ihn: *„shipped and
+currently on the way […] Delivery usually takes 7–21 days"*. Antwort **09:30**:
+
+> „**Hopefully closer to 7** cheers"
+
+**Er bleibt freundlich.** Aber festzuhalten ist:
+
+**Die Auskunft enthielt die Sendungsnummer nicht.** Seine Bestellung wurde am
+**08.09.** mit Yanwen Special Line Promotion versendet, Nummer
+`UL493236753YP`. **Diese Nummer liegt seit dem 13.09. im Entwurf bereit und
+ist ihm bis heute nicht mitgeteilt worden** — inzwischen über drei Anfragen
+hinweg (13.09. 17:36, 14.09. 11:42, und implizit heute).
+
+**Die Spanne „7–21 Tage" wurde ihm genannt, ohne dass gesagt wurde, dass der
+Versand bereits am 08.09. erfolgt ist** — also vor sieben Tagen. Seine
+Antwort *„hopefully closer to 7"* legt nahe, dass er die Frist ab heute
+rechnet.
+
+→ `Bot/Draft Ready` (bleibt). **Der Entwurf vom 14.09. (zweite Fassung) bleibt
+unverändert gültig** — er enthält genau das, was fehlt: Versanddatum,
+Zusteller, Nummer und Link.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`: **#7885**. **#8321 (zweite
+Fassung vom 14.09.) bleibt unverändert gültig.**
+
+**Nicht getan:** keine Vorlagen-Absage, keine Erstattung zugesagt oder
+abgelehnt, **keine Rücksendeadresse erfunden**, **seine Angaben zur
+Nutzungsdauer nicht bewertet**, die Fotos nicht geöffnet, keine Daten an eine
+nicht von ihm selbst einbezogene Adresse, keine rechtliche Einordnung, kein
+Label gesetzt, **kein Entwurf in Gmail angelegt**.
