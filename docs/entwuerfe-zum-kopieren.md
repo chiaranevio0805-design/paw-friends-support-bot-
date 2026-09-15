@@ -4301,6 +4301,85 @@ hat nicht danach gefragt.
 
 ---
 
+## #7114 — Geoffrey Russell (geoffruss123@gmail.com)
+
+**Betreff:** Re: A shipment from order #7114 is on the way
+
+> Dear Geoffrey,
+>
+> Thank you for telling us, and I'm sorry — an ear off already is not what you
+> waited for.
+>
+> Your order #7114 from 22 August: the Little Bear and the monkey.
+>
+> You haven't said what you'd like us to do, so I'm not going to decide that for
+> you. I've sent your message to the shop owner today. If there's something
+> specific you want — a refund, a replacement, or an explanation — reply and tell
+> me, and it goes across with it.
+>
+> If you've sent a photo it helps, but don't worry if not.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner. **Keine Erstattung und
+kein Ersatz zugesagt, angeboten oder abgelehnt** — er hat nichts gefordert.
+**Nicht behauptet, Kauschaden sei nicht gedeckt.** **Keine Aussage dazu, ob
+die Werbung zutrifft** — er zitiert nichts. **Die Herkunft der Sendung wird
+nicht angesprochen**; sie war am 09.09. offen beantwortet, und er fragt heute
+nicht danach. Das Foto ist **erbeten, nicht verlangt**. Kein Betrag. Keine
+Rücksendeadresse.
+
+---
+
+## #7298 — Brian J. Becker (lift1500@yahoo.com)
+
+**Betreff:** Re: Return ???
+
+**⚠️ Er hat „Order #7295" geschrieben. Diese Nummer gehört einer anderen
+Kundin/einem anderen Kunden. Im Entwurf steht dazu nichts ausser der
+Feststellung, dass es nicht seine ist.**
+
+> Dear Brian,
+>
+> Thank you for writing, and for taking it as well as you have.
+>
+> One small thing first so nothing goes astray: the number in your email,
+> #7295, isn't your order — it belongs to someone else's. **Yours is #7298**,
+> placed on 23 August: the Zahnbuddy plus the monkey, the hippo and the duck.
+> That matches the four you describe, so I'm confident it's the right one. Worth
+> knowing in case you quote it again.
+>
+> On your actual question — whether this is a returnable situation — I'm going
+> to give you the straight answer rather than the comfortable one: **I don't
+> have a returns address to give you.** It isn't published on the site and I'm
+> not going to invent one and have you post four toys to an address that doesn't
+> exist. You're not the first person to ask this week, and I'd rather tell you
+> that than keep you guessing.
+>
+> What I can do is put your email in front of the shop owner today, which I have
+> done, with your order details. Whether anything is offered is his decision,
+> not mine, so I'm not going to promise you a refund or a replacement.
+>
+> If you haven't heard back within a few days, reply here and I'll chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Keine Erstattung und kein Ersatz zugesagt oder abgelehnt.** **Keine
+Rücksendeadresse — das Fehlen wird offen eingeräumt.** **Zur Bestellung #7295
+wird nichts preisgegeben**: kein Name, kein Land, kein Inhalt, kein Betrag —
+nur, dass sie nicht seine ist. Seine eigene Bestellnummer und ihr Inhalt
+werden genannt, weil seine Adresse an diesem Vorgang steht und die von ihm
+selbst genannte Artikelzahl übereinstimmt. **Keine Aussage dazu, ob die
+Werbung zutrifft** — „So much for durability" wird nicht aufgegriffen und
+nicht verteidigt. Kein Betrag. Keine rechtliche Einordnung.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
