@@ -5553,6 +5553,120 @@ im Text.
 
 ---
 
+## #7164 — Barry Dunster (bazdee1974@msn.com)
+
+**Betreff:** Re: My order
+
+**Neu am 15.09. 17:53 UTC. Kein reiner Kauschadenfall: Er sagt, die Ware sei
+**nicht das, was bestellt wurde** („not plush"), sei **bereits
+auseinandergefallen** und sei **unsicher**. Dazu angekündigter Chargeback über
+Apple Pay und Bank.**
+
+> Dear Barry,
+>
+> Thank you for writing, and I'm sorry — both for how long the parcel took and
+> for what turned up at the end of it.
+>
+> I want to separate out the parts of your message, because they are not the
+> same thing and they should not get one answer.
+>
+> **You say what arrived is not what you ordered.** That is the part I am
+> taking most seriously, and it is not something I can settle from my desk. I
+> am not going to tell you that you are mistaken about what is in front of
+> you, and I am not going to describe the item back to you from a screen when
+> you are holding it. It has gone to the shop owner today as exactly that: a
+> "this is not the product" report, not a wear-and-tear complaint.
+>
+> **You say the toys are unsafe.** I have recorded that in those words. I am
+> not qualified to give you a judgement on whether something is safe for your
+> dogs, and I am not going to offer you a reassurance I am in no position to
+> give. If you are uneasy about them, keep them away from your dogs until this
+> is sorted.
+>
+> **On the refund.** I cannot authorise one — that decision is the shop
+> owner's, and your order is in front of him today, flagged as urgent. So I am
+> not going to promise you a refund, and I am not going to refuse you one
+> either.
+>
+> **Two practical things:**
+>
+> - **Please don't post anything back to us yet.** We do not have a returns
+>   address published at the moment, and I don't want you out of pocket for
+>   postage on top of everything else.
+> - Please don't send us any card or payment details by email, whatever else
+>   happens. We will never ask you for them.
+>
+> You have said what you will do if you don't hear back, and that is entirely
+> your right — I am not going to talk you out of it. I would just rather you
+> got a real answer first.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** Weitergabe an den Owner, ausdrücklich als
+**„nicht das bestellte Produkt"** und nicht als Kauschaden, dazu die
+Sicherheitsmeldung im Wortlaut. **Keine Erstattung zugesagt, kein Betrag,
+keine Absage, keine Frist.** **Keine Aussage darüber, was er tatsächlich
+erhalten hat** — das Foto wurde nicht geöffnet, und es wird ihm nichts über
+das Produkt beschrieben, das er in der Hand hält. **Keine Aussage zur
+Materialsicherheit in irgendeine Richtung**; der Hinweis, die Spielzeuge
+vorerst wegzulegen, ist kein Sicherheitsurteil, sondern folgt seiner eigenen
+Sorge. **Keine rechtliche Einordnung** zum angekündigten Chargeback und **kein
+Versuch, ihn davon abzubringen.** Keine Kartendaten erbeten, ausdrücklich
+abgeraten. **Warnung, nichts zurückzuschicken.** Kein Hinweis auf den
+Transportdienstleister als Verantwortlichen. Kein Eskalationsmarker im Text.
+
+---
+
+## #8267 — Sharon Brinson (mtpleasantranch@yahoo.com)
+
+**Betreff:** Re: I have not received my order or heard anything??
+
+**Neu am 15.09. 17:27 UTC. Nur eine Betreffzeile, kein Text — zweiter Fall
+dieser Art nach #7401. Beantwortbar ohne Entscheidung des Owners: Versanddatum,
+Dienstleister, Sendungsnummer und Link sind belegt.**
+
+> Dear Sharon,
+>
+> Thank you for chasing this, and I'm sorry you have had to.
+>
+> Here is everything we hold on your order, so you are not left guessing:
+>
+> - **Ordered:** 30 August 2026
+> - **Shipped:** 8 September 2026
+> - **Carrier:** 4PX Economic Registered
+> - **Tracking number:** 4PX3003140314645CN
+> - **Track it here:** https://t.17track.net/en#nums=4PX3003140314645CN
+>
+> Two honest caveats rather than a reassurance:
+>
+> - Your order shipped from our international warehouse, so it is travelling a
+>   long way and scans can be sparse in the middle of the journey. A gap in the
+>   tracking does not by itself mean the parcel is lost, but I am not going to
+>   promise you a date I cannot stand behind.
+> - You wrote that you had not heard anything. If a shipping notification went
+>   out on 8 September and never reached you, that is worth knowing — please
+>   tell me and I will pass it on.
+>
+> If the tracking has not moved in the next few days, reply to this message and
+> I will take it further rather than ask you to wait again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur belegte Angaben — **Bestelldatum, Versanddatum,
+Dienstleister, Sendungsnummer und Tracking-Link, alle aus Shopify** — plus die
+Zusage, bei ausbleibender Bewegung nachzufassen. **Kein Zustelldatum
+versprochen, keine Lieferzeit genannt, keine Erstattung zugesagt, kein Betrag.**
+**Sie wird nicht an den Transportdienstleister verwiesen** — das Nachfassen
+bleibt bei uns. **Herkunft origin-neutral, aber nicht verschleiert**: das
+internationale Lager wird benannt, weil es die Laufzeit erklärt, ohne Land oder
+Hersteller zu nennen. Keine Rücksendeadresse. Kein Eskalationsmarker im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

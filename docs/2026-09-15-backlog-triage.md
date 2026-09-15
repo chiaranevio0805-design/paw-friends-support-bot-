@@ -1388,3 +1388,89 @@ weder im Log noch gegenüber Kunden.
 - **Elf Kunden** zitieren „indestructible"; der Katalog enthält es nicht.
 - **Vier Währungsfälle** (#7368, #7581, #4975, **#7001**).
 - **Vierter Fall mit unberührter Zweitware** (#7479, #7030, #7660, **#7347**).
+
+---
+
+## Lauf 18:20 UTC
+
+**Suche:** `in:inbox after:2026/09/15`. **Zwei neue Vorgänge.**
+
+### 🚩🚩 #7164 — Barry Dunster (`bazdee1974@msn.com`), 15.09. 17:53 UTC — „nicht das bestellte Produkt"
+
+**Bestellung:** #7164, 22.08.2026, **27,95 £**, `PAID`, `FULFILLED`,
+**2 × Plushies**, **Leslie (Schottland)**. Versand **02.09.**, Yanwen Special
+Line Promotion, `UL476310564YP`. **Keine frühere Nachricht von ihm in diesem
+Postfach** — das ist sein Erstkontakt hier.
+
+**Seine Mail (vollständig):**
+
+> *„After a long delay waiting for my order, what I have received **is not
+> plush** & is already fallen apart & **is unsafe for my dogs**, so I want a
+> full refund from yourself they are unsafe & fit for the bin, if you don't
+> refund **I will get my money back through Apple Pay & my bank** very very
+> disappointed. Let me know when you will refund me ?!"*
+
+**Warum das kein gewöhnlicher Kauschadenfall ist — und warum trotzdem keine
+Erstattung ausgelöst wurde:**
+
+Er sagt nicht, sein Hund habe das Spielzeug zerstört. Er sagt, **das Gelieferte
+sei nicht das bestellte Produkt** („is not plush"). Das ist der Sache nach eine
+**Falschlieferungsbehauptung** — und damit der erste Fall seit Beginn dieses
+Logs, der **überhaupt in Richtung Regel 4** zeigt.
+
+**Er ist aber nicht bestätigt, und deshalb wurde nichts ausgelöst.** Was
+geliefert wurde, ist von hier aus nicht feststellbar: Das beigefügte Foto
+wurde **nicht geöffnet und nicht gedeutet**, die Produktbilder wurden **nicht
+verglichen**, und über Material wird **in keine Richtung** etwas gesagt.
+**„Regel 4 bestätigt" heißt bestätigt — eine Kundenangabe allein ist das
+nicht.** Der Fall geht als **Prüfauftrag an den Owner**, nicht als
+ausgeführte Erstattung.
+
+**Dazu eine Sicherheitsmeldung** („unsafe for my dogs") und ein **angekündigter
+Chargeback über Apple Pay und Bank** — zweiter angekündigter Zahlungsrückzug
+heute nach Stephen Board.
+
+**Label:** `Bot/Escalated - Owner Attention`, **hohe Priorität**.
+**Erstattungsliste:** als **ungeklärt** vorgemerkt, **27,95 £**, **nicht** als
+Kauschaden — die Einordnung hängt an der Prüfung, ob die richtige Ware
+geliefert wurde.
+
+**Im Entwurf ausdrücklich nicht getan:** ihm gesagt, er irre sich; ihm das
+Produkt beschrieben, das er in der Hand hält; ihm eine Sicherheitsauskunft
+gegeben; ihn vom Chargeback abgebracht; Kartendaten erbeten.
+
+---
+
+### ✅ #8267 — Sharon Brinson (`mtpleasantranch@yahoo.com`), 15.09. 17:27 UTC
+
+**Bestellung:** #8267, 30.08.2026, **28,51 £**, `PAID`, `FULFILLED`,
+**2 × Plushies**, **Sweet Home, Oregon (US)**. Versand **08.09.**,
+**4PX Economic Registered**, `4PX3003140314645CN`,
+`https://t.17track.net/en#nums=4PX3003140314645CN`.
+
+**Ihre Mail besteht nur aus der Betreffzeile** — *„I have not received my order
+or heard anything??"* —, der Rumpf enthält allein die Yahoo-Signatur.
+**Zweiter Fall dieser Art nach #7401 Mick Lacey.**
+
+**Vollständig beantwortbar ohne Entscheidung des Owners:** Bestelldatum,
+Versanddatum, Dienstleister, Sendungsnummer und Tracking-Link sind alle in
+Shopify belegt. **16 Tage seit Bestellung, 7 Tage seit Versand** — beides
+innerhalb dessen, was der Shop als Laufzeit angibt. **Kein Zustelldatum
+versprochen.**
+
+Ihr Satz *„or heard anything"* ist mitgenommen: Falls die Versandmail vom
+08.09. sie nie erreicht hat, wäre das ein eigener Befund — der Entwurf bittet
+sie, das zu sagen, statt es zu unterstellen.
+
+**Label:** `Bot/Draft Ready`. **Nicht auf der Erstattungsliste** — kein
+Erstattungsfall.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Stephen Boards Frist läuft in gut einer Stunde ab (ca. 19:30).** Weiterhin
+  keine sichtbare Antwort an ihn.
+- **Zwei angekündigte Zahlungsrückzüge heute**: Stephen Board und **#7164**.
+- **#7164 ist der erste Vorgang, der überhaupt in Richtung Regel 4 zeigt** —
+  unbestätigt, nichts ausgelöst, zur Prüfung beim Owner.
