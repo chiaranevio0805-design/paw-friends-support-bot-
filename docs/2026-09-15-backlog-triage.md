@@ -230,3 +230,137 @@ bezeichnet**, der Wortlaut „for heavy chewers" weder bestätigt noch
 bestritten, die Fotos nicht geöffnet, kein Verweis an den Zusteller, keine
 Rücksendeadresse, keine rechtliche Einordnung, kein Label gesetzt, **kein
 Entwurf in Gmail angelegt**.
+
+---
+
+## Lauf 08:20 UTC — 🚩🚩 ein Vorlagenstapel am Morgen, vier Antworten in Minuten
+
+**Zwischen 07:22 und 08:10 sind fünf Kauschaden-Absagen hinausgegangen.**
+
+| Zeit | Fall | Vorher eingestuft als | Reaktion | Abstand |
+|---|---|---|---|---|
+| 07:22:32 | **#7401 Mick Lacey** | `Needs Approval` (13.09.) | zitiert die Garantiezusage | **45 Min** |
+| 07:45:01 | **#6781 Carlie Terry** | `Escalated` (13.09.) | — noch keine Antwort | |
+| 07:49:27 | **#6936 Lisa Steggel** (**2.**) | `Escalated` (14.09.) | **Trading Standards** | **7 Min** |
+| 08:00:34 | **#7323 David Buckley** | `Escalated`, **hohe Priorität**, **Sicherheitsmeldung** | förmlicher Widerspruch | **6 Min 34** |
+| 08:10:36 | **#7754 Margaret Timmings** | `Escalated` (14.09.) | **Bewertung angekündigt** | **4 Min 3** |
+
+**Vier von fünf haben binnen 45 Minuten geantwortet. Alle vier negativ.**
+Damit sind es **neunundzwanzig Kauschaden-Absagen seit dem 11.09. — und
+weiterhin ist jede beantwortete eskaliert.**
+
+**Drei dieser fünf waren im Protokoll ausdrücklich nicht für eine Absage
+vorgesehen:** #7323 war eine **Sicherheitsmeldung mit hoher Priorität**, #6936
+und #7754 waren **Eskalationen**, #7401 stand auf `Needs Approval`. **Der Bot
+hat keine dieser Absagen veranlasst** und stellt das ohne Wertung fest — die
+Entscheidung darüber liegt beim Owner.
+
+### 🚩🚩 #7401 — Mick Lacey: die Fluffys-Zusage wird zum ersten Mal zitiert
+
+- Bestellung **23.08.**, Versand **03.09.**, **19,95 £**, ein Plushie
+  *elephant*, Yanwen `UL478624530YP`, Telford, England
+
+Antwort **08:07:42**:
+
+> „Not really good customer service is it, when your toy broke within 10
+> minutes of use. **You state 40,000 dogs cant beat it**, ours, a border collie
+> did so very quickly, not a big dog, so cant blame that, **dont know if it was
+> defective until the leg came off**. I don't think i will recommend your
+> product to anybody."
+
+**🚩 „You state 40,000 dogs cant beat it" ist nahezu wörtlich die Zeile aus der
+Fluffys-Beschreibung:** *„**40,000 dogs have tried. Not one has beaten them
+yet.**"* (Befund vom 14.09.)
+
+**Das ist der erste Kunde, der diese Zahl nennt** — und **er hat Plushies
+gekauft, keine Fluffys.** Der Satz steht in der Beschreibung des **anderen**
+Produkts. **Der Bot zieht daraus keinen Schluss darüber, wo er es gelesen
+hat** — die Zahl kann ebenso in Werbung, auf Facebook oder im genannten
+Werbevideo stehen. **Festgehalten wird: die Formulierung ist im Shop belegt,
+und der Kunde, der sie zitiert, hat ein Produkt gekauft, auf dessen Seite sie
+nicht steht.**
+
+**Ausserdem bringt er den Defektbegriff ein** — *„dont know if it was defective
+until the leg came off"*. Er behauptet keinen Ankunftsmangel, er lässt es
+offen.
+
+→ `Bot/Escalated - Owner Attention` (**hochgestuft** von `Needs Approval`).
+
+### 🚩🚩 #7323 — David Buckley: die Sicherheitsmeldung blieb unbeantwortet
+
+Antwort **08:07:08**, **6 Minuten 34 Sekunden** nach der Absage. Er ist
+**General Manager bei Allpest WA** und schreibt aus dem Firmenkonto.
+
+> „The issue is **not** that my dog damaged the toy after normal use. The issue
+> is that I purchased the product **specifically because it was advertised as
+> being designed for dogs that destroy toys**. That advertising claim was the
+> **sole reason** for my purchase. […] **Simply referring to your returns policy
+> does not address the fact that the product failed almost immediately and did
+> not perform as advertised.** **Consumers are entitled to expect that a
+> product will reasonably do what it is promoted to do.** […] More concerning
+> is the apparent view that **a product can be marketed on durability claims
+> and then excused from responsibility when those claims prove inaccurate.**"
+
+**Was in der Absage fehlt, ist der Punkt:** Er hatte am 14.09. gemeldet, die
+Füllung werde stückweise herausgezogen und das Spielzeug sei *„unsafe for
+continued use"*. **Die Vorlage geht darauf mit keinem Wort ein.** Sie
+behandelt den Vorgang ausschliesslich als Kauschaden.
+
+**Der Bot trifft weiterhin keine Aussage darüber, ob das Produkt sicher oder
+unsicher ist.** Er hält fest: **eine gemeldete Sicherheitssorge ist
+unbeantwortet geblieben**, und das ist unabhängig von der Erstattungsfrage.
+
+→ `Bot/Escalated - Owner Attention`, **höchste Priorität** (bleibt).
+**Der Entwurf vom 14.09. ist überholt** — er setzt voraus, dass noch nichts
+geantwortet wurde. **Zweite Fassung liegt vor.**
+
+### 🚩 #6936 — Lisa Steggel: Trading Standards
+
+Zweite Absage **07:49**, Antwort **07:56:21** — **6 Minuten 54 Sekunden**.
+
+> „**You need to change your advert** it is clearly not designed for chewers.
+> Disappointed and ripped off is how I feel. **Lies, I'm sure trading standards
+> will be interested.** Really poor product and even worse service, **don't
+> bother replying with the same shit apologies unless you are refunding my
+> money in full.**"
+
+**Trading Standards ist neu bei ihr** — am 14.09. hatte sie nur angekündigt,
+andere zu warnen. **Sie ist die zweite Kundin mit dieser Ankündigung** nach
+#5829 David Coles (Citizens Advice/Trading Standards, 13.09.).
+
+**Sie schreibt ausdrücklich, sie wolle keine weitere Entschuldigung ohne
+Erstattung.** **Der Entwurf vom 14.09. ist damit überholt** — er bestand im
+Kern aus einer Entschuldigung. **Zweite Fassung liegt vor**, und sie
+entschuldigt sich **nicht** noch einmal.
+
+→ `Bot/Escalated - Owner Attention` (bleibt), **Priorität erhöht**.
+
+### 🚩 #7754 — Margaret Timmings: Bewertung angekündigt
+
+Absage **08:10:36**, Antwort **08:14:39** — **4 Minuten 3 Sekunden**.
+
+> „**It ok will just leave a review on your website site**"
+
+**Knapp, ohne Vorwurf — und eine angekündigte öffentliche Bewertung.**
+**Der Entwurf vom 14.09. ist überholt; zweite Fassung liegt vor.**
+
+→ `Bot/Escalated - Owner Attention` (bleibt).
+
+### #6781 — Carlie Terry: Absage 07:45, noch keine Antwort
+
+**Ihre Rückgabefrage vom 12.09. ist damit weiterhin unbeantwortet** — jetzt
+seit drei Tagen. Die Absage von heute früh geht nicht darauf ein.
+**Der Entwurf vom 13.09. (zweite Fassung) bleibt gültig** und wird **um einen
+Satz zur heutigen Absage ergänzt**.
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`: **#7401 (zweite Fassung)**,
+**#7323 (zweite Fassung)**, **#6936 (dritte Fassung)**, **#7754 (zweite
+Fassung)**.
+
+**Nicht getan:** keine Vorlagen-Absage veranlasst, keine Erstattung zugesagt
+oder abgelehnt, **keine Feststellung zur Sicherheit des Produkts**, **kein
+Schluss darüber, wo Mick Lacey die Zahl 40.000 gelesen hat**, **keine zweite
+Entschuldigung an #6936**, keine rechtliche Einordnung, keine
+Rücksendeadresse, kein Label gesetzt, **kein Entwurf in Gmail angelegt**.

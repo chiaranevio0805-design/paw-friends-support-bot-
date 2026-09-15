@@ -4494,6 +4494,189 @@ Foto nicht gedeutet. Kein Betrag. Keine Rücksendeadresse.
 
 ---
 
+## #7323 — David Buckley (dbuckley@orkinau.com) — zweite Fassung
+
+**Betreff:** Re: Product Complaint – Order #7323
+
+**Ersetzt den Entwurf vom 14.09. Ihm ist am 15.09. 08:00 die
+Kauschaden-Vorlage zugegangen; seine Sicherheitsmeldung blieb darin
+unerwähnt.**
+
+> Dear David,
+>
+> You are right that the reply you got this morning did not answer what you
+> actually wrote, and I am not going to defend it.
+>
+> Two things in particular went unanswered, and I want to name them rather than
+> talk around them.
+>
+> **First, you told us the toy is unsafe for continued use** — the stuffing
+> being pulled out piece by piece. That is not a durability complaint and it
+> should not have been answered as one. I am not qualified to give you a
+> judgement on whether it is safe, and I am not going to pretend otherwise, but
+> it goes to the shop owner today marked as a safety report and not as a return
+> request.
+>
+> **Second, your point about the advertising.** You bought the product because
+> of how it was described, you have said so plainly twice, and quoting the
+> returns policy at you does not engage with that. I am not in a position to
+> rule on whether the description was accurate — that is the owner's to answer,
+> and I have put it to him in your words, not mine.
+>
+> On the refund or replacement you asked for: I cannot authorise either. I am
+> not going to tell you yes and I am not going to repeat this morning's no,
+> because that decision was not mine and I do not think it addressed your
+> email.
+>
+> If you have not heard from the owner within a few days, reply to me and I
+> will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner — ausdrücklich getrennt
+als **Sicherheitsmeldung** und als **Werbefrage** — und eine Nachfass-Zusage.
+**Keine Erstattung und kein Ersatz zugesagt.** **Die Absage von heute früh
+wird weder bestätigt noch aufgehoben** — sie wird als nicht von hier getroffen
+und als nicht auf seine Mail eingehend benannt. **Keine Aussage darüber, ob
+das Produkt sicher ist**, in keine Richtung. **Keine Aussage darüber, ob die
+Werbung zutrifft.** **Keine rechtliche Einordnung** zu seinem Satz über
+Verbrauchererwartungen. Fotos nicht gedeutet. Kein Betrag. Keine
+Rücksendeadresse.
+
+---
+
+## #6936 — Lisa Steggel (lisac131@googlemail.com) — dritte Fassung
+
+**Betreff:** Re: Not even an hour.
+
+**Ersetzt die zweite Fassung. Sie hat heute früh eine zweite Absage bekommen
+und ausdrücklich geschrieben, sie wolle keine weitere Entschuldigung ohne
+Erstattung. Dieser Entwurf entschuldigt sich deshalb nicht noch einmal.**
+
+> Dear Lisa,
+>
+> You asked not to be sent another apology, so I won't send one.
+>
+> Here is what I can actually tell you.
+>
+> I cannot authorise a refund. That is not me refusing you — it is me telling
+> you where the decision sits, which is with the shop owner and not with this
+> inbox. Two replies have now gone to you that did not say that plainly, and
+> you were entitled to hear it the first time.
+>
+> Your email has gone to him today in full, including that you intend to raise
+> it with Trading Standards. I have not softened that or left it out.
+>
+> I am not going to tell you whether the advertising should change. You have
+> said what you think of it, that is on record with him now, and it is his to
+> answer.
+>
+> If nothing reaches you in the next few days, reply here and I will chase it
+> rather than write to you again with nothing in it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die vollständige Weitergabe an den Owner — die
+Trading-Standards-Ankündigung **ausdrücklich eingeschlossen** — und eine
+Nachfass-Zusage. **Keine Erstattung zugesagt und keine abgelehnt**;
+ausdrücklich benannt, dass die Entscheidung nicht hier liegt. **Keine
+Entschuldigung**, weil sie darum gebeten hat. **Keine Aussage dazu, ob die
+Werbung geändert werden sollte** oder ob sie zutrifft. **Ihre
+Trading-Standards-Ankündigung wird weder kommentiert noch wird versucht, sie
+davon abzubringen.** Keine rechtliche Einordnung. Kein Betrag.
+
+---
+
+## #7401 — Mick Lacey (laceymick31@gmail.com) — zweite Fassung
+
+**Betreff:** Re: defective item — order #7401
+
+**Ersetzt den Entwurf vom 13.09. Ihm ist am 15.09. 07:22 die
+Kauschaden-Vorlage zugegangen.**
+
+> Dear Mick,
+>
+> Thank you for coming back, and you are right that this morning's reply did
+> not really answer you.
+>
+> Your order #7401 from 23 August — the elephant.
+>
+> You have quoted a figure back at us: that 40,000 dogs can't beat it. I am not
+> going to tell you that you misread it, and I am also not going to confirm
+> where it appears or what exactly it says, because I would be guessing at which
+> page or advert you saw. What I have done is send that quote to the shop owner
+> exactly as you wrote it, because it is his to answer and it is the part of
+> your email that matters most.
+>
+> You also said you don't know whether it was defective until the leg came off.
+> That is a fair thing to say and I am not going to decide it for you either
+> way — if you think it arrived faulty rather than gave way in use, tell me and
+> I will make sure that goes with it.
+>
+> I cannot authorise a refund or a replacement myself, so I am not going to
+> promise you one or repeat this morning's refusal.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Keine Erstattung und kein Ersatz zugesagt oder abgelehnt**; die Absage von
+heute früh wird **nicht wiederholt und nicht bestätigt**. **Die Zahl 40.000
+wird weder bestätigt noch bestritten**, und **es wird nicht behauptet, wo er
+sie gelesen hat** — obwohl die Formulierung in der Fluffys-Beschreibung
+belegt ist und er Plushies gekauft hat, wird ihm das **nicht als Irrtum
+vorgehalten**. Die Defektfrage wird **offen gelassen**, nicht entschieden.
+Kein Betrag. Keine Rücksendeadresse. Keine rechtliche Einordnung.
+
+---
+
+## #7754 — Margaret Timmings (timmingsmargaret@yahoo.co.uk) — zweite Fassung
+
+**Betreff:** Re: Undistructable teddy's
+
+**Ersetzt den Entwurf vom 14.09. Ihr ist am 15.09. 08:10 die
+Kauschaden-Vorlage zugegangen; sie hat vier Minuten später geantwortet.**
+
+> Dear Margaret,
+>
+> You said you'll leave a review, and that is entirely your call — I'm not
+> going to ask you not to, and nothing here depends on it.
+>
+> What I do want to correct is the impression this morning's reply will have
+> left, which is that the matter is closed. It isn't, because that decision was
+> not mine to make and I have not made it.
+>
+> Your email from last night, your photo, and the point you made about the rope
+> unravelling at the arms have gone to the shop owner today. Another customer
+> described the same thing happening at the same place within nine minutes of
+> you, and both have gone across together.
+>
+> I can't authorise a refund, so I'm not going to promise you one. But I'd
+> rather you heard that it is in front of someone who can decide, than be left
+> with a reply that reads like the end of it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und die Klarstellung, dass
+der Vorgang nicht abgeschlossen ist. **Keine Erstattung zugesagt oder
+abgelehnt**; die Absage wird **nicht wiederholt**. **Sie wird ausdrücklich
+nicht gebeten, die Bewertung zu unterlassen**, und nichts wird daran geknüpft.
+**Keine Aussage dazu, ob die Werbung zutrifft.** Dass ein zweiter Kunde
+dieselbe Stelle genannt hat, wird erwähnt — **ohne Namen, ohne Bestellnummer
+und ohne jeden Hinweis auf dessen Identität**. Foto nicht gedeutet. Kein
+Betrag. Keine Rücksendeadresse.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
