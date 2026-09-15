@@ -1603,3 +1603,67 @@ hat keine Erstattung verlangt.
 - **Vier Größenbeschwerden** (#4975, #7048, #5973, #7832) — **nichts davon
   geprüft.**
 - **Drei Trustpilot-Verweise** insgesamt (#7610 Trustpilot-Post, #7323, #7832).
+
+---
+
+## Lauf 20:20 UTC
+
+**Ein neuer Vorgang.** Die beiden Threads mit fünf Nachrichten in der Vorschau
+(#7001 Furman, #5973 Cooil) wurden nach der neuen Regel mit `get_thread`
+geprüft — **beide sind aktuell erfasst, nichts Neues dahinter.**
+
+### 🚩 #7255 — Kenneth Crum (`blessedlovepuppet@frontier.com`), 15.09. 19:23 UTC
+
+**Bestellung:** #7255, 22.08.2026, **35,64 £**, `PAID`,
+**`PARTIALLY_FULFILLED`**, Kingman, Arizona (US). Versand der Spielzeuge
+**02.09.**, **JQ Express US**, `JCHSG0000004363161`.
+
+**Seine Mail, vollständig:**
+
+> *„How do I get refund they were destroyed the first day"*
+
+Ein Foto beigefügt — **nicht geöffnet, nicht gedeutet.**
+
+**Siebte Rückgabefrage** nach #7525, #6869, #7298, #7660, #5973 und #7048.
+**Die Antwort ist immer noch dieselbe: es gibt keine Rücksendeadresse.** Der
+Entwurf sagt ihm das offen und warnt ihn, nichts zu verschicken.
+
+**Was bei der Prüfung nebenbei auffiel und wichtiger ist als seine Frage:**
+
+Die Bestellung enthält **vier Positionen**, nicht drei:
+
+| Position | Menge | offen |
+|---|---|---|
+| Plushies | 1 | 0 |
+| Plushies | 1 | 0 |
+| **📘 „Why Your Dog Destroys Every Toy (And How to Finally Stop It)"** | **1** | **1** |
+| Plushies | 1 | 0 |
+
+**Die drei Spielzeuge sind ausgeliefert, der bezahlte digitale Ratgeber nie.**
+Seit **24 Tagen**. Er hat nicht danach gefragt — er weiß vermutlich nicht
+einmal, dass er ihn nicht bekommen hat.
+
+**Das steht trotzdem im Entwurf**, als Tatsache aus den Shopdaten und ohne
+Zusage einer Erstattung oder Nachlieferung dafür. Ein Kunde, der wegen
+zerstörter Spielzeuge schreibt, soll nicht zusätzlich still um etwas gebracht
+werden, das er bezahlt hat.
+
+**Für den Owner:** Das ist die **vierte** Bestellung mit offenem
+`PARTIALLY_FULFILLED`-Status im Log — nach #7312 (22 Tage), #4939 (37 Tage) und
+#6877. **Lohnt eine Abfrage über alle Bestellungen**, nicht nur über die, die
+sich beschweren.
+
+**Label:** `Bot/Escalated - Owner Attention` (unerledigte Teillieferung +
+Rückgabefrage ohne Route). **Erstattungsliste:** nicht aufgenommen —
+Kauschaden; **die offene Position des Ratgebers ist davon getrennt und eine
+Lieferfrage, keine Erstattungsfrage.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Beide heutigen Fristen sind verstrichen** (#6877 12:38, Stephen Board
+  ca. 19:30), beide ohne sichtbare Antwort.
+- **Sieben Rückgabefragen** seit dem 14.09., **keine beantwortbar**, weil es
+  seit 34 Tagen keine Rücksendeadresse gibt.
+- **Vier Bestellungen mit offener Teillieferung** im Log.

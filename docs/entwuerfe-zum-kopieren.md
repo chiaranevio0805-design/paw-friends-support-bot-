@@ -5786,6 +5786,57 @@ Eskalationsmarker im Text.
 
 ---
 
+## #7255 — Kenneth Crum (blessedlovepuppet@frontier.com)
+
+**Betreff:** Re: Return
+
+**Neu am 15.09. 19:23 UTC. Er fragt nach dem Weg zur Erstattung — siebte
+Rückgabefrage. Dabei ist bei der Prüfung aufgefallen, dass eine Position
+seiner Bestellung **nie ausgeliefert** wurde. Das steht im Entwurf, obwohl er
+nicht danach gefragt hat.**
+
+> Dear Kenneth,
+>
+> Thank you for writing. You asked a simple question, so here is a straight
+> answer rather than a polished one.
+>
+> **On how to return them: at the moment there is no way, and I would rather
+> tell you that than send you in a circle.** We do not have a returns address
+> published. So **please don't post anything back yet** — if you do, you will
+> be paying postage on a parcel that has nowhere to arrive. The moment there is
+> a return route, you will get it from us.
+>
+> **On the refund itself:** that decision is the shop owner's, not mine. I am
+> not going to promise you one I cannot authorise, and I am not going to give
+> you a refusal in its place. Your order went to him today with what you wrote.
+>
+> **One thing you did not ask about, which I found while checking your order
+> and would rather you heard from us:**
+>
+> Your order included the guide *"Why Your Dog Destroys Every Toy (And How to
+> Finally Stop It)"* alongside the three toys. **Our records show the three
+> toys went out on 2 September, but that guide has never been sent to you.** You
+> paid for it. If it never arrived in your inbox, that is our error and not
+> something you need to chase — I have flagged it with the toys.
+>
+> If you have heard nothing in a few days, reply to this message and I will
+> chase it rather than leave you waiting.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner, eine Nachfass-Zusage, und die
+**offene Mitteilung, dass eine bezahlte Position seiner Bestellung nie
+ausgeliefert wurde** — als Tatsache aus den Shopdaten, **ohne** eine
+Erstattung oder eine Nachlieferung dafür zuzusagen. **Keine Erstattung
+zugesagt, kein Betrag, keine Absage, keine Frist.** **Keine Rücksendeadresse
+— ausdrücklich gesagt, dass keine existiert**, samt Warnung, nichts zu
+verschicken. Foto nicht geöffnet. Keine Aussage zur Werbung, keine zur
+Produktsicherheit, keine zur Größe. Kein Eskalationsmarker im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
