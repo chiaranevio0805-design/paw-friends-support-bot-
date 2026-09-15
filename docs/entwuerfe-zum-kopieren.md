@@ -5273,6 +5273,72 @@ rechtliche Einordnung.
 
 ---
 
+## #7323 — David Buckley (dbuckley@orkinau.com) — dritte Fassung
+
+**Betreff:** Re: Product Complaint – Order #7323
+
+**Ersetzt die zweite Fassung, die ihn nie erreicht hat (`create_draft`
+blockiert). Er hat am 15.09. 14:19 UTC ein drittes Mal geschrieben: Verweis
+auf das öffentliche Trustpilot-Profil (nach seiner Angabe 1,2 von 5, 99 %
+Ein-Stern), Frist von fünf Werktagen, danach Beschwerde bei der UK
+Advertising Standards Authority und bei Citizens Advice zur Weitergabe an
+Trading Standards. Dieser Entwurf ist die Antwort auf diese Mail und steht
+für sich — er setzt nicht voraus, dass er die zweite Fassung gelesen hat.**
+
+> Dear David,
+>
+> Thank you for writing again, and for setting out plainly what you are asking
+> for.
+>
+> I want to be straight with you about three things.
+>
+> **The reply you received on the 15th did not answer your email.** You had
+> written that the toy is unsafe for continued use and that you bought it
+> because of how it was advertised. The answer you got addressed neither, and
+> quoted the returns policy instead. I am not going to defend that, and I am
+> not going to repeat it.
+>
+> **On the refund or replacement: I cannot authorise either.** Saying yes is
+> not mine to do, and I am not going to give you another no in place of a real
+> answer. Your order is with the shop owner today, in your words, with your
+> photographs, and with the three points you have raised — the product failing
+> within the hour, the advertising claim you bought on, and the safety concern
+> about the stuffing.
+>
+> **On what you found publicly:** I have not verified those figures from here,
+> so I am not going to confirm or dispute a number I have not checked. What I
+> can tell you is that you are not the only person to have written to us about
+> a toy coming apart quickly and then being told the damage was not covered. I
+> am not going to pretend to you that your case is isolated when it is not.
+>
+> Your review and what you choose to write publicly are entirely your own
+> business. Nothing here is asked of you in return, and nothing about your
+> order depends on it.
+>
+> I have recorded your five-working-day deadline and passed it on with the
+> rest. If you have heard nothing by then, reply to this message and I will
+> chase it rather than leave you to it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner — mit Fotos, mit den drei
+benannten Punkten und mit der Frist — sowie eine Nachfass-Zusage, falls bis
+dahin nichts kommt. **Keine Erstattung und kein Ersatz zugesagt, kein Betrag
+genannt.** Die Absage vom 15.09. wird **als nicht auf seine Mail eingehend
+benannt**, aber weder bestätigt noch aufgehoben. **Keine Aussage darüber, ob
+das Produkt sicher ist** — in keine Richtung. **Keine Aussage darüber, ob die
+Werbung zutrifft.** **Keine rechtliche Einordnung** zu ASA, Citizens Advice
+oder Trading Standards und keine Bewertung seiner Rechtsauffassung. **Die
+Trustpilot-Zahlen werden weder bestätigt noch bestritten** — sie sind von hier
+aus nicht überprüft. **Er wird nicht gebeten, eine Bewertung zu ändern oder zu
+löschen, und nichts wird davon abhängig gemacht.** Fotos nicht geöffnet und
+nicht gedeutet. Keine Rücksendeadresse — es gibt keine. Kein Eskalationsmarker
+im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

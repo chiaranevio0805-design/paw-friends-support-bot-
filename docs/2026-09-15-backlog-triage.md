@@ -1026,3 +1026,91 @@ abgelehnt, **nicht festgestellt, dass die Ware unbenutzt ist** — nur, dass sie
 es vorträgt; **nichts zur Grösse festgestellt**; **keine Rücksendeadresse
 erfunden**, obwohl sie ihre eigene Anschrift geschickt hat; keine rechtliche
 Einordnung; kein Label gesetzt; **kein Entwurf in Gmail angelegt**.
+
+---
+
+## Lauf 15:20 UTC
+
+**Suche:** `in:inbox after:2026/09/15`, 30 Threads, gegen den heutigen Log
+abgeglichen. **Ein neuer Vorgang**, eingegangen **nach** dem 14:20-Lauf.
+
+### 🚩🚩 #7323 — David Buckley (`dbuckley@orkinau.com`), 15.09. 14:19 UTC — dritter Kontakt, neue Frist
+
+**Bestellung:** #7323, 23.08.2026, **20,34 £ GBP**, `PAID`, `FULFILLED`,
+**1 × Plushies – Designed for Furry Friends Who Destroy Everything**,
+Lieferung nach **Ellenbrook, Australien**.
+
+**Verlauf:**
+
+| Zeit | Wer | Was |
+|---|---|---|
+| 14.09. 11:48 | Buckley | Erstbeschwerde, 3 Fotos. Spielzeug hielt **ca. 40 Minuten**; Ohren ab, fünf Minuten später die Beine, Füllung wird herausgezogen — **„unsafe for continued use"**. Gekauft **„specifically because it was advertised as being designed for dogs that destroy toys"**. |
+| 15.09. 08:00:34 | Shop | **Kauschaden-Vorlage.** Sicherheitsmeldung nicht erwähnt, Werbefrage nicht erwähnt. |
+| 15.09. 08:07:08 | Buckley | Widerspruch **6 Min 34 nach** der Absage (im 12:20-Lauf erfasst). |
+| **15.09. 14:19:41** | **Buckley** | **Neu.** Siehe unten. |
+
+**Was neu ist:**
+
+1. **Er hat das öffentliche Trustpilot-Profil des Shops aufgerufen** und
+   zitiert daraus: **„a rating of 1.2 out of 5, with 99% of the reviews being
+   one-star"**, mit Link auf `trustpilot.com/review/paw-friends.uk`.
+   **Diese Zahlen sind von hier aus nicht überprüft** — sie stehen hier als
+   seine Angabe, nicht als Feststellung.
+2. **Er erkennt das Muster von außen.** Wörtlich: *„Numerous customers report
+   that toys marketed as durable or designed for dogs that destroy toys fell
+   apart within minutes, followed by Paw Friends refusing a remedy because the
+   toys had been used or chewed. This is effectively the same experience I have
+   had. It indicates that my complaint is not an isolated product failure."*
+   **Das ist von außen genau der Befund, der seit dem 11.09. in diesem Log
+   steht.** Er ist der zweite Kunde nach #7525 Carol Garvey, der eine hier
+   intern festgestellte Lücke selbstständig von außen bestätigt.
+3. **Neue Frist: fünf Werktage**, d. h. **22.09.2026**.
+4. **Angekündigt:** Beschwerde bei der **UK Advertising Standards Authority**
+   wegen der Haltbarkeitsaussagen **und** bei **Citizens Advice** zur
+   Weitergabe an **Trading Standards**. Beigefügt werden sollen
+   **Produktfotos, Werbe-Screenshots und der vollständige Schriftwechsel.**
+   *„I would prefer to resolve this directly and reasonably."*
+
+**Eskalationsgrund:** vier Auslöser gleichzeitig — **öffentliches
+Bewertungsmuster**, **bestrittene Werbeaussage**, **wiederholter erfolgloser
+Kontakt (dritter)**, **Sicherheitsmeldung**. Dazu eine angekündigte Meldung an
+zwei Behörden mit Beweissicherung.
+
+**Label:** `Bot/Escalated - Owner Attention`, **hohe Priorität**.
+
+**Entwurf:** **dritte Fassung** in `docs/entwuerfe-zum-kopieren.md`. Die
+zweite Fassung hat ihn nie erreicht (`create_draft` blockiert), deshalb steht
+die dritte für sich. Sie sagt **keine Erstattung und keinen Ersatz zu**,
+nennt **keinen Betrag**, **bestätigt und bestreitet die Trustpilot-Zahlen
+nicht**, gibt **keine rechtliche Einordnung** zu ASA/Trading Standards, macht
+**keine Aussage zur Produktsicherheit in irgendeine Richtung** und **bittet
+ihn nicht**, eine Bewertung zu ändern oder zu löschen — nichts wird davon
+abhängig gemacht. Sie benennt offen, dass die Vorlage seine Mail nicht
+beantwortet hat, und dass er mit dem schnellen Auseinanderfallen **nicht
+allein ist**.
+
+**Nicht getan:** Fotos nicht geöffnet und nicht gedeutet (fünf Anhänge über
+drei Mails). Trustpilot-Link nicht aufgerufen. Keine Erstattung ausgelöst —
+kein Regel-4-Fall. Keine Rücksendeadresse genannt, es gibt keine.
+
+**Erstattungsliste:** #7323 **nicht** aufgenommen — **Kauschaden**, und
+Kauschaden gehört nach der Policy nicht auf die Erstattungsliste. Die
+Entscheidung über Erstattung oder Ersatz liegt beim Owner, mit Frist
+**22.09.**
+
+---
+
+### Fristenstand nach diesem Lauf
+
+| Ablauf | Fall | Angekündigt |
+|---|---|---|
+| **abgelaufen 15.09. 12:38** | **#6877 Alexander Meza** | FTC, Meta, Chargeback — **ohne sichtbare Antwort verstrichen** |
+| **heute ca. 19:30** | **Stephen Board** | Zahlungsrückzug, Meldung an Facebook |
+| 17.09. | #7699 Lorraine Sale | eigene Frist |
+| 21.09. | #7479 Richard Bellamy-Williams | danach Regulierungsbehörden |
+| **22.09. (neu)** | **#7323 David Buckley** | **ASA + Citizens Advice / Trading Standards** |
+| 22.09. | #1998, #4975 | — |
+
+**Sonst nichts Neues.** Die übrigen 29 Threads der Suche sind im heutigen und
+im gestrigen Log bereits erfasst; die jüngste Nachricht davor bleibt #7048
+Josephine Carr, 13:43 UTC (Lauf 14:20, `6178964`).
