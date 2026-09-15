@@ -4677,6 +4677,196 @@ Betrag. Keine Rücksendeadresse.
 
 ---
 
+## #1998 — Alexandra Bizzios-O'Connell — zweite Fassung
+
+**Betreff:** Re: Formal complaint - faulty/not as described goods - Consumer Rights Act 2015
+
+**Ersetzt den Entwurf vom 14.09. Ihr ist am 15.09. 07:51 die
+Kauschaden-Vorlage zugegangen — auf eine Mail, in der sie einen seit dem
+17.07. zugesagten Rückruf angemahnt hatte.**
+
+> Dear Alexandra,
+>
+> I'm not going to send you a third version of the same paragraph.
+>
+> You wrote yesterday because a callback you were promised on 17 July had not
+> happened. This morning you got a returns-policy reply that did not mention
+> that at all. That is a fair thing to be angry about and I am not going to
+> explain it away.
+>
+> On the substance, here is exactly what I can and cannot do.
+>
+> **I cannot rule on the Consumer Rights Act.** You have set out your position
+> on statutory rights clearly and I am not going to agree with it or argue
+> against it from a support inbox — not because it's inconvenient, but because
+> it isn't mine to decide and a wrong answer from me would help nobody.
+>
+> **I cannot authorise a refund.** So I am not going to promise you the £24.95,
+> and I am not going to repeat this morning's refusal either. That decision
+> sits with the shop owner.
+>
+> **What I have done**, today: sent him your full email, your order #1998, the
+> figure you have asked for, the record that you were promised contact on 17
+> July and heard nothing for fifty-nine days, and your date of 22 September.
+> None of it summarised, none of it softened.
+>
+> You have said you would prefer to resolve this directly. So would I. I can't
+> make that happen on my own, but I have made sure it is in front of the person
+> who can.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die vollständige Weitergabe an den Owner, mit ihrer
+Frist. **Keine Erstattung zugesagt und keine abgelehnt.** **Keine Aussage
+dazu, ob der Consumer Rights Act hier greift** — ausdrücklich als nicht von
+hier zu entscheiden benannt, **ohne ihr zu widersprechen**. **Die Absage von
+heute früh wird nicht wiederholt und nicht bestätigt.** **Der gebrochene
+Rückruf vom 17.07. wird als Tatsache bestätigt**, weil er im Thread belegt
+ist. Der Betrag **24,95 £** wird genannt, weil er mit den Shop-Daten
+übereinstimmt — **die Entscheidung darüber ausdrücklich nicht**. Keine neue
+Frist gesetzt. Keine Rücksendeadresse. **Ihre Ankündigung gegenüber
+Chargeback und Trading Standards wird weitergegeben, nicht kommentiert.**
+
+---
+
+## #4975 — Darlene Futrel (dfutrel@gmail.com)
+
+**Betreff:** Re: FOURTH REQUEST | FORMAL COMPLAINT & DEMAND FOR FULL REFUND - Order #4975
+
+> Dear Ms Futrel,
+>
+> You have written four times — 27 August, 4 September, 9 September and today —
+> and you have had three replies that did not resolve anything. I'm not going
+> to add a fourth of the same kind.
+>
+> Your order #4975 was placed on 7 August and despatched on 22 August: the frog
+> and the elephant.
+>
+> **On the size.** Your complaint is that the toys are miniature, not that they
+> wore out. That is a different complaint from the ones I normally see here,
+> and I want to be honest that I cannot settle it: I have not compared the
+> product images against what arrived, and I am not going to tell you the
+> listing was accurate or that it wasn't. What I have done is flag it to the
+> shop owner **as a size and description complaint**, in your words, so it is
+> not filed as a durability case and answered with a durability paragraph.
+>
+> **On the amount.** You have asked for $38.48, which is what your confirmation
+> shows. Our system records the order in pounds. I am not going to convert
+> between the two or tell you which figure governs — that discrepancy is real,
+> it affects several orders, and it has gone to the owner as its own point.
+>
+> **On the refund.** I cannot authorise one. I am not going to promise you it
+> is coming and I am not going to refuse it on his behalf.
+>
+> Your five-day date and the steps you have set out have gone across with
+> everything else, unedited.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner — **ausdrücklich als
+Grössen- und Beschreibungsbeschwerde**, nicht als Haltbarkeitsfall — und die
+Weitergabe ihrer Frist. **Keine Erstattung zugesagt und keine abgelehnt.**
+**Keine Aussage dazu, ob die Produktdarstellung zutrifft** — die Bilder wurden
+nicht geprüft, und das wird ihr gesagt. **Kein Betrag bestätigt und keine
+Währungsumrechnung**; die Differenz wird offen benannt. **Ihre Ankündigungen
+gegenüber Attorney General, FTC, BBB und Bank werden weitergegeben, nicht
+kommentiert und nicht relativiert.** **Der Vorwurf „bait-and-switch" wird
+weder übernommen noch zurückgewiesen.** Keine rechtliche Einordnung. Keine
+Rücksendeadresse.
+
+---
+
+## #7610 — Vicky Blow (vannblow@icloud.com) — zweite Fassung
+
+**Betreff:** Re: Refund
+
+**Ersetzt den Entwurf vom 13.09. Ihr ist am 15.09. 07:25 die
+Kauschaden-Vorlage zugegangen, obwohl sie bereits mitgeteilt hatte, eine
+Trustpilot-Bewertung veröffentlicht zu haben.**
+
+> Dear Vicky,
+>
+> You're right that this morning's reply didn't answer you, and I'm not going
+> to send you the same thing again.
+>
+> You've asked for a refund plainly, twice now. Here is the plain answer back:
+> **I can't authorise one.** That isn't a no — it's me telling you that the
+> decision sits with the shop owner, which is something you should have been
+> told the first time instead of being sent a policy paragraph.
+>
+> Your email has gone to him today, with your order details and what you've
+> said about how the toy was advertised.
+>
+> Your Trustpilot review is yours and I'm not going to mention it again beyond
+> this: nothing here depends on it, and nobody is going to ask you to change
+> it.
+>
+> If you've heard nothing in a few days, reply and I'll chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Keine Erstattung zugesagt und keine abgelehnt**; die Absage von heute früh
+wird **nicht wiederholt**. **Keine Aussage dazu, ob die Werbung zutrifft.**
+**Sie wird ausdrücklich nicht gebeten, die Bewertung zu ändern oder zu
+entfernen**, und nichts wird daran geknüpft. Keine rechtliche Einordnung.
+Kein Betrag. Keine Rücksendeadresse.
+
+---
+
+## #7587 — Susan Hines (wagtailfarm@icloud.com) — zweite Fassung
+
+**Betreff:** Re: Order
+
+**Ersetzt den Entwurf vom 14.09. Die Ware ist inzwischen angekommen.**
+
+> Dear Susan,
+>
+> Thank you for letting me know it arrived — and I'm glad the dogs are
+> unbothered.
+>
+> Two things I owe you straight answers on.
+>
+> **The reply you got this morning** said your parcel was on its way. By then it
+> had already reached you. That was our information being out of date, not you
+> misreading it.
+>
+> **The donkey and the fox.** You've said you ordered one of each. What I can
+> see on order #7587 is two donkeys — so what was picked and sent matches what
+> the order says on our side. I'm not telling you that you're misremembering;
+> I genuinely don't know where the difference arose, and I'd rather say that
+> than pick a version. I've put it to the shop owner exactly as you described
+> it, along with the fact that the order record says two donkeys.
+>
+> **Your refund request** from yesterday is still open — you asked to cancel and
+> refund before the parcel turned up, and I haven't treated that as withdrawn
+> just because it has now arrived. If you'd rather keep them and drop it, say
+> so and I'll note that. If you still want a refund, or something about the fox,
+> that's the owner's decision and it is with him.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und die Zusage, ihre
+Angabe zu notieren. **Keine Erstattung zugesagt und keine abgelehnt.** **Kein
+Ersatz für den Fuchs zugesagt.** **Keine Erstattung ausgeführt**: die
+Lieferung stimmt mit dem Bestellsatz überein, es liegt also **kein bestätigter
+Fall einer Falschlieferung** vor. **Ihr wird nicht vorgehalten, sie irre
+sich**, und ebenso wenig wird bestätigt, dass der Shop falsch geliefert hat —
+beide Stände werden nebeneinandergestellt. Die überholte Lieferauskunft wird
+**eingeräumt**, nicht verteidigt. **Ihre offene Forderung wird nicht
+stillschweigend als erledigt behandelt.** Kein Betrag. Keine
+Rücksendeadresse.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

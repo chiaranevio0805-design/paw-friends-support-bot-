@@ -364,3 +364,190 @@ oder abgelehnt, **keine Feststellung zur Sicherheit des Produkts**, **kein
 Schluss darüber, wo Mick Lacey die Zahl 40.000 gelesen hat**, **keine zweite
 Entschuldigung an #6936**, keine rechtliche Einordnung, keine
 Rücksendeadresse, kein Label gesetzt, **kein Entwurf in Gmail angelegt**.
+
+---
+
+## Lauf 09:20 UTC — 🚩🚩🚩 zwei neue Fristen, eine förmliche Rüge und ein vierter Anlauf
+
+**Der Vorlagenstapel von heute früh ging weiter als im 08:20-Lauf sichtbar.**
+Weitere Absagen: **07:25 an #7610 Vicky Blow**, **07:51 an #1998 Alexandra
+Bizzios-O'Connell**, **08:00 an #7587 Susan Hines** (Lieferauskunft).
+**Damit sind es acht Sendungen zwischen 07:22 und 08:10.**
+
+### 🚩🚩🚩 #1998 — Alexandra Bizzios-O'Connell: förmliche Rüge nach CRA 2015
+
+**Sie hat gestern um 09:25 geschrieben, dass sie seit dem 17.07. auf einen
+zugesagten Rückruf wartet. Heute um 07:51 kam die Kauschaden-Vorlage.**
+Antwort **08:38**, mit **geändertem Betreff**:
+
+> **„Formal complaint - faulty/not as described goods - Consumer Rights Act
+> 2015"**
+
+Aus dem Text:
+
+> „**My complaint is not a change-of-mind return.** […] My small dog was able to
+> destroy the toy in approximately **30 seconds**. […] Under the **Consumer
+> Rights Act 2015**, goods supplied by a trader must be of **satisfactory
+> quality, fit for purpose and as described**. **A trader's change-of-mind
+> returns policy does not remove or replace these statutory rights.** […] I
+> first contacted you […] and was told that I would be contacted by a member of
+> your returns/customer service team. **I then heard nothing for approximately
+> two months.** […] **I have retained photographs/evidence of the damaged toy,
+> my order confirmation and copies of my previous correspondence. I also have
+> screenshots of your website and its representations regarding the durability
+> of the products and your returns process.** […] refund of the **£24.95**
+> purchase price. **Please respond within 7 days.** If you continue to refuse
+> […] I will refer the matter to my **debit-card provider and request a
+> chargeback** […] I will also consider referring the matter to **Citizens
+> Advice/Trading Standards**."
+
+**Vier Punkte:**
+
+1. **Sie ist die dritte Kundin mit einer ausdrücklichen CRA-2015-Rüge** nach
+   #5829 David Coles und #5032 Adam Murgatroyd — **und die zweite, die nach
+   der Rüge die Vorlage bekam** (wie #5829 am 13.09.).
+2. **Sie hat Beweise gesichert, einschliesslich Screenshots der
+   Rückgabeprozess-Darstellung** — der zweite Fall nach #7479 Richard
+   Bellamy-Williams. **Beide haben den Zustand der Website festgehalten.**
+3. **Der Betrag stimmt:** sie nennt **24,95 £**, und genau das steht in
+   Shopify für #1998. **Keine Umrechnung nötig, keine Bundle-Aufteilung.**
+4. **Ihr Vorhalt ist belegt:** Am 17.07. wurde ihr ein Rückruf durch ein
+   „Resolutions Team" zugesagt. **59 Tage. Der Rückruf kam nie, und heute kam
+   stattdessen eine Absage.**
+
+→ `Bot/Escalated - Owner Attention`, **höchste Priorität, zeitgebunden**.
+**Neue Frist: 22.09.**
+**Der Entwurf vom 14.09. ist überholt** — er setzt voraus, dass noch nichts
+geantwortet wurde. **Zweite Fassung liegt vor.**
+
+### 🚩🚩🚩 #4975 — Darlene Futrel: vierter Anlauf, und ein neuer Vorwurfstyp
+
+**Betreff: „FOURTH REQUEST | FORMAL COMPLAINT & DEMAND FOR FULL REFUND"**
+
+- Bestellung **07.08.**, Versand **22.08.** — **15 Tage bis zum Versand**
+- **28,52 £** in Shopify / **38,48 USD** in ihrer Bestätigung
+- Zwei Plushies: *frog* und *elephant*
+- Yanwen Special Line US, `UL442892548YP`
+- Lieferadresse Anaheim, Kalifornien
+
+**Ihr Vorwurf ist nicht Haltbarkeit, sondern Grösse:**
+
+> „The products I received are **entirely different from how they are
+> represented on your website**. Your advertising falsely portrays these items
+> as **standard, regular-sized stuffed animals** built to withstand play.
+> Instead, I received **miniature toys**. […] Selling fragile, pocket-sized
+> items under the guise of durable, standard-sized pet toys is a clear
+> **bait-and-switch**."
+
+**Das ist ein neuer Vorwurfstyp in diesem Postfach.** Alle bisherigen
+Werbebeschwerden betrafen die Haltbarkeit. **Hier geht es um die
+Grössendarstellung.** **Der Bot hat die Produktbilder nicht geprüft und keine
+Masse verglichen** — er stellt nichts dazu fest.
+
+**Angekündigt bei Nichterfüllung binnen fünf Werktagen:**
+1. **State Attorney General** (Verbraucherschutz, irreführende Werbung)
+2. **FTC**
+3. **Better Business Bureau**
+4. **Chargeback** („Product Not as Described")
+
+**Sie fordert 38,48 USD.** Shopify weist **28,52 £** aus. **Keine Umrechnung,
+keine der beiden Zahlen bestätigt** — dieselbe Lage wie bei #7368, #7581 und
+#7060.
+
+**Der Vorgang ist belegt viermal geschrieben worden:**
+
+| Datum | Betreff | Antwort des Shops |
+|---|---|---|
+| **27.08.** | FORMAL COMPLAINT & DEMAND FOR FULL REFUND | 28.08. |
+| **04.09.** | **SECOND REQUEST** | 06.09. |
+| **09.09.** | **THIRD REQUEST** | 11.09. |
+| **15.09.** | **FOURTH REQUEST** | — |
+
+**🚩 Strukturbefund: Sie eröffnet jedes Mal einen neuen Thread.** Vier
+Beschwerden, vier getrennte Vorgänge. **Wer nur Threads betrachtet, sieht
+viermal einen Erstkontakt und nie ein Muster.** Erst die Suche nach der
+Absenderadresse macht es sichtbar. **Das gehört in den Runbook-Ablauf:** bei
+förmlich formulierten Beschwerden ist **nach Absender zu suchen, nicht nur im
+Thread zu lesen.**
+
+**Sie ist ausserdem der zweite Fall mit FTC-Ankündigung** nach #6877 Alexander
+Meza — **dessen Frist heute in drei Stunden abläuft.**
+
+→ `Bot/Escalated - Owner Attention`, **höchste Priorität, zeitgebunden**.
+**Neue Frist: 22.09.** (fünf Werktage).
+
+### 🚩 #7610 — Vicky Blow: Absage nach veröffentlichter Bewertung
+
+Absage **07:25:55**, Antwort **08:20:40** — 55 Minuten.
+
+> „Sorry, But this is not good enough **you advertise as it being tough and it
+> is not**. **I want my refund.**"
+
+**Sie hatte am 13.09. bereits mitgeteilt, eine Trustpilot-Bewertung
+veröffentlicht zu haben**, und wurde daraufhin am 13.09. auf `Escalated`
+hochgestuft. **Heute früh ging die Kauschaden-Vorlage an sie.**
+
+→ `Bot/Escalated - Owner Attention` (bleibt), **Priorität erhöht**.
+**Entwurf vom 13.09. überholt; zweite Fassung liegt vor.**
+
+### #7587 — Susan Hines: die Ware ist da, und zwei Esel statt Esel und Fuchs
+
+Sie erhielt um **08:00:46** die **Lieferauskunft** („currently on the way").
+Antwort **08:32:35**:
+
+> „I can confirm that I **have received my toys** but **I ordered a donkey and
+> a fox and have received two donkeys** however **I don't think my dogs care**
+> thank you for quick reply regards Susan Hines"
+
+**Zwei Feststellungen, und beide werden nicht zusammengezogen:**
+
+1. **Die Auskunft war überholt.** Ihr wurde gesagt, die Sendung sei
+   unterwegs — sie war zu dem Zeitpunkt bereits zugestellt. **Sachlich
+   festgehalten, ohne Wertung.**
+2. **Zur Abweichung:** Sie sagt, sie habe *donkey* und *fox* bestellt.
+   **In Shopify steht #7587 mit `Plushies … quantity 2, variantTitle
+   donkey`** — also **zwei Esel bestellt und zwei Esel geliefert.**
+   **Die Lieferung stimmt mit der Bestellung überein.**
+   **Das ist deshalb *kein* bestätigter Regel-4-Fall (Falschlieferung)**, und
+   es wird **keine Erstattung ausgeführt.** Wo die Abweichung entstanden ist —
+   beim Bestellvorgang, bei der Variantenauswahl oder in ihrer Erinnerung —
+   **stellt der Bot nicht fest und hält es ihr nicht vor.**
+
+**Ihre Stornierungs- und Erstattungsforderung vom 14.09. hat sie nicht
+zurückgezogen**, auch wenn ihr Ton entspannt ist. **Sie bleibt offen.**
+
+→ `Bot/Needs Approval` (bleibt). **Offen: Erstattung, und ob zum Fuchs etwas
+angeboten wird.**
+
+### Stand
+
+**Vierunddreissig Kauschaden-Absagen seit dem 11.09.** Von den acht heute
+früh versandten haben **sechs binnen 55 Minuten geantwortet, alle negativ**.
+
+**Fristenübersicht — neu ergänzt:**
+
+| Frist | Fall | Angekündigt |
+|---|---|---|
+| **HEUTE 12:38** | #6877 Alexander Meza | FTC, Meta, Chargeback |
+| **HEUTE ~19:30** | Stephen Board | Zahlungsrückzug, Facebook |
+| **17.09.** | #7699 Lorraine Sale | — |
+| **21.09.** | #7479 Richard Bellamy-Williams | Regulierungsbehörden |
+| **22.09.** | **#1998 Alexandra Bizzios-O'Connell** | Chargeback, Citizens Advice/Trading Standards |
+| **22.09.** | **#4975 Darlene Futrel** | **State Attorney General, FTC, BBB, Chargeback** |
+
+**Drei Kundinnen und Kunden haben inzwischen Beweise gesichert:** #7479
+(Website-Scrape, Domaindaten), #1998 (Screenshots der Website und des
+Rückgabeprozesses), #4975 (beruft sich auf die Website-Darstellung).
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`: **#1998 (zweite Fassung)**,
+**#4975**, **#7610 (zweite Fassung)**, **#7587 (zweite Fassung)**.
+
+**Nicht getan:** keine Vorlagen-Absage veranlasst, **keine Erstattung
+ausgeführt — auch bei #7587 nicht**, weil die Lieferung mit der Bestellung
+übereinstimmt und damit kein bestätigter Regel-4-Fall vorliegt; keine
+rechtliche Einordnung zum CRA 2015; **nichts zur Grössendarstellung
+festgestellt**; keine Währungsumrechnung; **Susan Hines nicht vorgehalten, sie
+irre sich**; keine Rücksendeadresse; kein Label gesetzt; **kein Entwurf in
+Gmail angelegt**.
