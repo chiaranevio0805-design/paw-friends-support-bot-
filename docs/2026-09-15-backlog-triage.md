@@ -1836,3 +1836,72 @@ aufgenommen — Kauschaden.
   heute geprüften Bestellungen mit diesem Artikel hatten ihn offen.** Eine
   Abfrage über alle Bestellungen mit dieser Position ist dringend angeraten.
 - **Acht Rückgabefragen**, weiterhin keine Adresse.
+
+---
+
+## Lauf 22:20 UTC
+
+**Im Postfach nichts Neues.** Jüngste Nachricht bleibt #7988 Jennifer Cooke,
+21:11 UTC, im 21:20-Lauf erfasst. Der Thread #7292 mit fünf Nachrichten in der
+Vorschau wurde nach der neuen Regel mit `get_thread` geprüft — aktuell.
+
+**Stattdessen wurde die Abfrage nachgeholt, die in den Läufen 20:20 und 21:20
+zweimal als „dringend angeraten" im Log steht.** Sie kostete zwei Queries und
+beantwortet die Frage vollständig.
+
+---
+
+### 🔍🔍 1.170 Bestellungen mit einer nie ausgelieferten bezahlten Position
+
+```
+ordersCount(query: "fulfillment_status:partial")  →  1.170   (EXACT)
+ordersCount()                                     →  7.561   (EXACT)
+```
+
+**Jede sechste Bestellung des Shops steht auf `PARTIALLY_FULFILLED`** —
+**15,5 %.**
+
+**Stichprobe:** Die 50 ältesten dieser Bestellungen wurden mit ihren Positionen
+abgefragt (#1049 bis #1486, alle vom **06.–13. Juni 2026**).
+
+| Befund | Anzahl |
+|---|---|
+| Offene Position ist **📘 „Why Your Dog Destroys Every Toy (And How to Finally Stop It)"** | **49 von 50** |
+| Offene Positionen sind die **Plüschtiere**, der Ratgeber ist ausgeliefert (#1144) | 1 von 50 |
+
+**Was daraus folgt — und was ausdrücklich nicht:**
+
+- **Belegt ist:** 1.170 Bestellungen sind teilweise unerfüllt. In der Stichprobe
+  der 50 ältesten ist die offene Position **49-mal der digitale Ratgeber**.
+- **Nicht belegt ist**, dass alle 1.170 denselben Grund haben. Die Stichprobe
+  ist nicht zufällig, sondern die älteste Seite der Liste. **Eine Hochrechnung
+  auf 1.170 wäre eine erfundene Zahl und steht deshalb hier nicht.**
+- Die beiden heute unabhängig gefundenen Fälle — **#7255 Kenneth Crum** und
+  **#6254 David Hickman** — passen genau in dieses Muster. **Beide hatten den
+  Ratgeber offen, und beide hatten nicht danach gefragt.**
+- **#1398 Heather Buchanan** hat den Ratgeber **zweimal** in der Bestellung,
+  **beide Positionen offen.**
+- **Die ältesten Fälle sind vom 06.06.2026 — über drei Monate.**
+
+**Warum das mehr ist als eine Fulfilment-Panne:** Es handelt sich um einen
+**bezahlten digitalen Artikel**, der keine Lieferzeit, keinen Versandweg und
+kein Lager braucht. Der Kunde merkt sein Fehlen in der Regel nicht, weil er
+keine Sendungsverfolgung erwartet. **Kein einziger der 1.170 Fälle ist je über
+das Support-Postfach gemeldet worden** — sie sind ausschließlich dadurch
+aufgefallen, dass zwei Kunden aus einem völlig anderen Grund geschrieben haben.
+
+**Für den Owner, konkret:**
+
+1. **Prüfen, ob der Ratgeber überhaupt je automatisch ausgeliefert wurde.**
+   Wenn ein Digital-Delivery-App fehlt oder nie eingerichtet wurde, erklärt das
+   alle Fälle auf einmal.
+2. Die **1.170 Bestellungen vollständig auflisten** — das geht im Admin in
+   einem Schritt.
+3. **Entscheiden, was den Betroffenen zugeht.** Von hier wurde **nichts**
+   zugesagt: Die Entwürfe für #7255 und #6254 teilen den Sachverhalt mit und
+   sagen ausdrücklich **keine** Erstattung und **keine** Nachlieferung zu.
+
+**Keine Schreiboperation ausgeführt.** Keine Bestellung bearbeitet, keine
+Position nachgeliefert, keine Erstattung ausgelöst — reine Leseabfragen.
+
+**Ansonsten nichts Neues im Postfach; kein Kundenvorgang in diesem Lauf.**
