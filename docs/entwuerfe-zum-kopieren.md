@@ -5441,6 +5441,118 @@ abgeraten. Keine Rücksendeadresse. Kein Eskalationsmarker im Text.
 
 ---
 
+## #7347 — Jill Hibbs (hibbsjill@yahoo.com)
+
+**Betreff:** Re: Order #7347 confirmed
+
+**Neu am 15.09. 17:09 UTC. Sie nennt „indestructible" — elfter Kunde mit
+diesem Wort. Sie will **beide** Spielzeuge zurückgeben; das zweite ist nach
+ihrer Schilderung nicht betroffen.**
+
+> Dear Jill,
+>
+> Thank you for writing, and I'm sorry the first minutes went the way they
+> did.
+>
+> Let me answer the parts I can answer and be straight about the rest.
+>
+> **On the advertising.** You have said you bought these because they were
+> advertised as indestructible. I am not going to argue with you about what
+> you saw, and I am not in a position to tell you what our advertising claims
+> or whether it was accurate — that is the shop owner's to answer, and it has
+> gone to him today in your own words.
+>
+> **On the refund.** I cannot authorise one, so I am not going to promise you
+> a refund and I am not going to refuse you either. What I have flagged
+> alongside your message is that you have two toys and, from what you
+> describe, only one of them has been touched. That difference matters to the
+> decision and I did not want it buried.
+>
+> **One practical thing, and please do read this one:** we do not currently
+> have a returns address published. **Please don't post anything back yet.** I
+> would rather tell you plainly than have you pay for postage on a parcel with
+> nowhere to go. As soon as there is a return route, you will get it from us.
+>
+> I have not opened the photos you attached beyond seeing that they are there.
+> If they matter to the decision, the owner will come back to you about them.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner, der ausdrückliche Hinweis
+auf das **unberührte zweite Spielzeug**, und eine Nachfass-Zusage. **Keine
+Erstattung zugesagt, kein Betrag, keine Absage, keine Frist.** **Keine Aussage
+darüber, ob die Werbung „indestructible" sagt** — weder bestätigt noch
+bestritten; das Wort steht in **keiner** der neun Produktbeschreibungen, wo es
+sonst herkommt, ist von hier aus nicht feststellbar. Kein Garantietext
+zitiert und keine Bedingung behauptet. **Fotos nicht geöffnet.** **Ausdrückliche
+Warnung, nichts zurückzuschicken.** Keine Aussage zur Produktsicherheit, keine
+zur Größe. Kein Eskalationsmarker im Text.
+
+---
+
+## #7001 — Keith Furman (kmfurman26@gmail.com) — zweite Fassung
+
+**Betreff:** Re: A shipment from order #7001 is on the way
+
+**Ersetzt den Entwurf vom 14.09., der ihn nie erreicht hat. Ihm ist am 15.09.
+08:08 die Kauschaden-Vorlage zugegangen; er hat um 17:12 geantwortet. Sein
+Einwand ist neu und trifft die Vorlage an ihrem Kern — er wird deshalb
+beantwortet und nicht umschifft.**
+
+> Dear Keith,
+>
+> I read your message properly, and I am not going to send you another version
+> of this morning's reply.
+>
+> **Your central point deserves a straight answer.** You wrote that a return
+> could never happen, because the packaging has to be opened before anyone can
+> find out whether the toy survives the dog. I am not going to pretend I have a
+> good answer to that. It is the sharpest form of an objection several
+> customers have now put to us, and I have passed it to the shop owner in your
+> words rather than paraphrased into something softer.
+>
+> **On the delay.** Your order was shipped on 2 September from our
+> international warehouse, and it took far longer than it should have. That is
+> on us, not on you, and I am not going to point you at the courier over it.
+>
+> **On the price you were charged.** You mention $40. Your order shows a
+> different figure in pounds on our side, and the shipping confirmation you
+> received shows a discount in dollars. I do not yet know which sum actually
+> left your account, and I am not going to guess at it or talk you out of the
+> number you are looking at. It is going to the owner as an open question, and
+> you will get a straight answer on it.
+>
+> **On the refund.** I cannot authorise one. I am not going to promise you
+> something I cannot deliver, and I am not going to repeat a refusal that did
+> not engage with what you wrote. The decision sits with the shop owner and it
+> is in front of him today.
+>
+> What you say publicly is your own business, and nothing here is asked of you
+> in return.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** Weitergabe an den Owner, und dass die **Preisfrage**
+beantwortet wird — nicht, **wie** sie beantwortet wird. **Keine Erstattung
+zugesagt, kein Betrag zugesagt, keine Absage, keine Frist.** Die Verzögerung
+wird **als unser Versäumnis benannt**, ohne den Kunden an den
+Transportdienstleister zu verweisen und ohne Herkunftsverschleierung — das
+internationale Lager wird beim Namen genannt, weil es in der Mail vom 11.09.
+bereits steht. **Sein Einwand zur Verpackung wird nicht widerlegt und nicht
+bestätigt**, sondern als offen benannt. **Keine rechtliche Einordnung** zu
+„deliberately misleading" oder „scam". **Keine Bitte, die angekündigten
+öffentlichen Kommentare zu unterlassen**, und nichts wird davon abhängig
+gemacht. Foto nicht geöffnet. Keine Rücksendeadresse. Kein Eskalationsmarker
+im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

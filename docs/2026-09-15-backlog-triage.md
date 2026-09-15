@@ -1234,3 +1234,157 @@ als Kundenvorgang.
   Bis jetzt keine sichtbare Antwort an ihn.
 - #6877 Alexander Meza: Frist heute 12:38 **ohne sichtbare Antwort verstrichen**.
 - Sonst nichts Neues; die übrigen Threads der Suche sind bereits erfasst.
+
+---
+
+## Lauf 17:20 UTC
+
+**Suche:** `in:inbox after:2026/09/15`. **Zwei neue Vorgänge** seit dem
+16:20-Lauf. Dazu eine **Produktprüfung über alle neun Artikel**, die mehrere
+seit Tagen offene Fragen auf einmal klärt.
+
+### 🚩 #7347 — Jill Hibbs (`hibbsjill@yahoo.com`), 15.09. 17:09 UTC
+
+**Bestellung:** #7347, 23.08.2026, **29,95 £**, `PAID`, `FULFILLED`,
+**2 × Paw-Friends™-Fluffys** (*frog* + *giraffe*), **BUY 1 AND GET 1 FREE**,
+Westbury. Versand **02.09.**, Yanwen Special Line Promotion, `UL476313591YP`.
+**Zugestellt heute** — 13 Tage ab Versand, **23 Tage ab Bestellung**.
+
+**Ihre Mail:**
+
+> *„My order was delivered today and within minutes my pet has pulled off its
+> feet (see photo). These fluffies were **advertised as indestructible**. I
+> would like to return **both toys** for a full refund."*
+
+**Zwei Punkte, die nicht untergehen dürfen:**
+
+1. **Elfter Kunde mit dem Wort „indestructible"** — nach #7030, #4822, #7698,
+   #7647, #7312 u. a. **Siehe die Produktprüfung unten: das Wort steht in
+   keiner der neun Beschreibungen.**
+2. **Sie will beide Spielzeuge zurückgeben**, betroffen ist nach ihrer
+   Schilderung nur eines. **Das zweite ist unberührt** — damit ist sie nach
+   #7479, #7030 und #7660 der vierte Fall, in dem **die Bedingung der Vorlage
+   („unused, original condition") für einen Teil der Lieferung tatsächlich
+   erfüllt ist.** Das steht ausdrücklich im Entwurf, damit es bei der
+   Entscheidung nicht verlorengeht.
+
+Zwei Fotos beigefügt — **nicht geöffnet, nicht gedeutet.**
+
+**Label:** `Bot/Escalated - Owner Attention` (bestrittene Werbeaussage).
+**Erstattungsliste:** nicht aufgenommen — das beschädigte Stück ist
+Kauschaden; **über das unberührte zweite entscheidet der Owner.**
+
+---
+
+### 🚩 #7001 — Keith Furman (`kmfurman26@gmail.com`), 15.09. 17:12 UTC — der schärfste Einwand gegen die Vorlage bisher
+
+**Bestellung:** #7001, 21.08.2026, **20,35 £ GBP** in Shopify, 1 × Plushies
+*hippo*, Seaford NY (US). Versand **02.09.**, WB US, `WNBAA0497780784YQ`.
+Vorlage zugegangen **15.09. 08:08**, Antwort **17:12**.
+
+**Sein Einwand, wörtlich:**
+
+> *„Then your return policy is deliberately misleading as your product's entire
+> identity is **‚quality material that dogs can't destroy'** that you know is
+> not true. And **there could never be a return because you need to open the
+> packaging to see if the dog will destroy the toy.**"*
+
+**Der zweite Satz ist der schärfste, den bisher jemand formuliert hat.** Er
+sagt nicht, dass die Bedingung unfair sei — er sagt, dass sie bei diesem
+Produkt **logisch nie erfüllbar** ist: Wer prüfen will, ob das Spielzeug dem
+Hund standhält, muss es auspacken und benutzen, und genau damit fällt er aus
+der Bedingung heraus. **Das ist dieselbe Struktur wie bei #5032 Adam
+Murgatroyd und #7292 tracy hartley, aber in ihrer stärksten Form.** Der
+Entwurf **widerlegt das nicht und bestätigt es nicht** — er benennt, dass es
+darauf keine gute Antwort von hier gibt, und gibt es weiter.
+
+**Preis:** Er nennt **„$40"**. Shopify zeigt **20,35 £**. Seine Versandmail
+zeigt `BUY 1 (-$14.28)` — **wieder in Dollar.** Das ist der **vierte** Fall
+nach #7368, #7581 und #4975. **Nicht überbrückt, nicht umgerechnet** — als
+offene Frage an den Owner.
+
+**Angekündigt:** *„If I see an ad on any social media account I will be sure
+to repeat what I just said above."* → öffentliches Bewertungsmuster. Dazu
+„total scam" und der Vorwurf, Kundengeld zu stehlen.
+
+**Label:** `Bot/Escalated - Owner Attention`. **Zweite Entwurfsfassung**
+angelegt. Sie benennt die Lieferverzögerung **als unser Versäumnis**, verweist
+ihn **nicht** an den Transportdienstleister, gibt **keine rechtliche
+Einordnung** zu „deliberately misleading" oder „scam", und **bittet ihn nicht**,
+die angekündigten Kommentare zu unterlassen.
+
+---
+
+### 🔍 Produktprüfung über alle neun Artikel — mehrere offene Fragen geklärt
+
+Abgefragt wurde `products(first: 20) { descriptionHtml }`, also **der gesamte
+Katalog**, nicht wie bisher ein oder zwei Artikel. Ergebnis:
+
+**1. „Indestructible" steht in KEINER der neun Beschreibungen.** Das war
+bisher für zwei Artikel geprüft; jetzt ist es für **alle** geprüft. **Der
+Befund steht damit fest**: Das Wort, das inzwischen **elf** Kunden zitieren,
+kommt nicht aus den Produktseiten. Die beiden von Kunden genannten Quellen
+bleiben **Facebook** (#7698) und ein **Werbevideo** (#7312) — beide von hier
+aus nicht einsehbar. **Das bleibt die am leichtesten zu beantwortende offene
+Frage des ganzen Vorgangs, und nur der Owner kann sie beantworten.**
+
+**2. Ein dritter Plüschartikel war bisher nie geprüft: `Paw-Friends™-Plush
+Chew Buddies`.** Seine Beschreibung enthält wörtlich:
+
+- *„Built tough for enthusiastic chewers"*
+- *„**Long-lasting durability** … helping it stay intact much longer than
+  ordinary plush toys"*
+- *„crafted from **high-quality, dog-friendly materials that are non-toxic**,
+  durable, and gentle on your dog's teeth and gums"*
+- *„designed with reinforced stitching and a **chew-resistant construction**"*
+
+**Keith Furmans Zitat „quality material that dogs can't destroy" steht
+nirgends wörtlich** — aber *„high-quality … materials"* + *„chew-resistant
+construction"* und, auf der Fluffys-Seite, *„Strong enough that he can't take
+it apart"* **decken es der Sache nach.** Er hat allerdings **Plushies**
+gekauft, nicht Chew Buddies. Das ist im Entwurf **nicht** behauptet worden.
+
+**3. Die Plushies-Seite enthält überhaupt keinen Garantietext.** Kein „30-day
+money-back guarantee", keine Rückgabebedingung, nichts. **Die Vorlage beruft
+sich also bei #7001, #7323 und den übrigen Plushies-Fällen auf eine Bedingung,
+die auf der gekauften Produktseite nicht steht.**
+
+**4. Wo die Garantie tatsächlich steht — und in welcher Form:**
+
+| Artikel | Wortlaut | Bedingung genannt? |
+|---|---|---|
+| **Fluffys** | *„✓ 30-day money-back guarantee"* | **nein** |
+| **Fur Wonder Brush** | *„30-Day Return Guarantee"* (zweimal) | **nein** |
+| **FurMagnet** | *„Try Fur Magnet™ risk-free for 30 days. If you're not completely satisfied, we'll give you your money back."* + *„30-Day Money-Back Guarantee"* | **nein** |
+| **PipiPad** | *„✓ 30-Day Money-Back Guarantee"* | **nein** |
+| **Plushies** | — | — |
+| **Chew Buddies**, **Zahnbuddy**, **Soulfriend**, **Floppy Lobster**, **E-Book** | — | — |
+
+**In keinem einzigen Fall ist „unused" oder „original condition" angehängt.**
+Das ist die Antwort auf die Frage, die **#7292 tracy hartley zweimal** gestellt
+hat und die **#5032 Adam Murgatroyd** juristisch formuliert hat: **Die
+Bedingung, die die Vorlage zitiert, ist auf keiner Produktseite des Shops
+veröffentlicht.** Ob sie anderswo steht (AGB-Seite, Checkout,
+Rückgaberichtlinie), ist von hier aus nicht prüfbar — **erfunden wird nichts.**
+
+**5. Nebenbefund zur Materialfrage (#7608):** Der Shop **veröffentlicht**
+für die Chew Buddies die Aussage *„non-toxic"*. **Das ist eine Feststellung
+darüber, was im Shop steht — keine Aussage darüber, ob das Produkt
+unbedenklich ist.** Dazu wird weiterhin **in keine Richtung** etwas gesagt,
+weder im Log noch gegenüber Kunden.
+
+**6. Weiterhin nicht auffindbar** — jetzt über alle neun Artikel geprüft:
+„customer promise" (#7647), „no-quibble guarantee" (#7479), „chewing proof"
+(#7568), „the stuffing won't come out" (#4939), „for heavy chewers" (#7030,
+#7937). **„40,000 dogs cant beat it"** (#7401) steht in der **Fluffys**-Copy
+— er hat aber **Plushies** gekauft.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Stephen Boards Frist läuft in ca. zwei Stunden ab (ca. 19:30).** Weiterhin
+  keine sichtbare Antwort an ihn.
+- **Elf Kunden** zitieren „indestructible"; der Katalog enthält es nicht.
+- **Vier Währungsfälle** (#7368, #7581, #4975, **#7001**).
+- **Vierter Fall mit unberührter Zweitware** (#7479, #7030, #7660, **#7347**).
