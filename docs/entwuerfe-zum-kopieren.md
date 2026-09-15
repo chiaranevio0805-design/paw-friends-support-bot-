@@ -6012,6 +6012,98 @@ Warnung. Kein Eskalationsmarker im Text.
 
 ---
 
+## #7114 — Geoffrey Russell (geoffruss123@gmail.com) — zweite Fassung
+
+**Betreff:** Re: Order 7114 bear and monkey the ear already gone
+
+**Neu am 15.09. 22:53 UTC, in einem NEUEN Thread — er hat heute früh schon
+einmal geschrieben (02:20-Lauf). Der Entwurf von damals hat ihn nie erreicht
+(`create_draft` blockiert). Diese Fassung ersetzt ihn und berücksichtigt, dass
+er jetzt zum zweiten Mal schreibt, ohne eine Antwort bekommen zu haben.**
+
+> Dear Geoffrey,
+>
+> You have written to us twice now and had nothing back. That part is on us,
+> and I am not going to open with an apology and then give you the same silence
+> in a longer form.
+>
+> Your order #7114 from 22 August: the bear and the monkey. From what you have
+> written, an ear has gone on both of them.
+>
+> **You still have not told me what you want us to do, and I am not going to
+> decide that for you.** If you want a refund, say so in one line and it goes
+> to the shop owner as a refund request. If you want a replacement, or simply
+> an explanation of how they came apart, say that instead. Any of the three is
+> a fair thing to ask for.
+>
+> What I can tell you is what I cannot do: I cannot authorise a refund myself.
+> So I am not going to promise you one, and you will not get a refusal from me
+> either.
+>
+> **One practical thing:** please don't post them back to us. We do not have a
+> returns address published at the moment, and I don't want you paying postage
+> on a parcel with nowhere to go.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner, sobald er sagt, was er
+will. **Keine Erstattung und kein Ersatz zugesagt, angeboten oder abgelehnt**
+— er hat weiterhin nichts gefordert. **Nicht behauptet, Kauschaden sei nicht
+gedeckt.** Die ausgebliebene Antwort wird **offen als unser Versäumnis
+benannt**. **Keine Aussage zur Werbung** — er zitiert nichts. Kein Betrag,
+keine Frist. **Keine Rücksendeadresse — ausdrücklich, weil es keine gibt**,
+samt Warnung. Kein Eskalationsmarker im Text.
+
+---
+
+## #6599 — Annette Townsend (acrtown@yahoo.com)
+
+**Betreff:** Re: Already chewed the ear off
+
+**Neu am 15.09. 22:42 UTC. Erstkontakt. Sie fordert nichts — sie berichtet.
+Nach ihrer Schilderung ist nur **eines** der beiden Spielzeuge betroffen.**
+
+> Dear Annette,
+>
+> Thank you for letting us know, and I'm sorry — an ear gone already is not
+> what you ordered them for.
+>
+> Your order #6599 from 18 August: two of the Plushies.
+>
+> **You haven't asked us for anything, so I am not going to assume what you
+> want.** If you would like a refund considered, say so in one line and it goes
+> to the shop owner as a refund request rather than as feedback. If you would
+> like a replacement, or just wanted us to know, that is fine too — nothing
+> further is needed from you.
+>
+> Two things I would rather say now than let you find out later:
+>
+> - I cannot authorise a refund myself. So I am not going to promise you one,
+>   and you will not get a refusal from me either. That decision is the shop
+>   owner's.
+> - **Please don't post anything back to us.** We do not have a returns address
+>   published at the moment, and I don't want you paying postage for nothing.
+>
+> I have not opened the photo you attached beyond seeing that it is there. If
+> it matters to the decision, the owner will come back to you about it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur, dass ihre Anfrage auf ein Wort von ihr hin an den
+Owner geht. **Keine Erstattung und kein Ersatz zugesagt, angeboten oder
+abgelehnt** — sie hat nichts gefordert. **Nicht behauptet, Kauschaden sei
+nicht gedeckt.** **Keine Aussage zur Werbung** — sie zitiert nichts. **Keine
+Aussage über das Alter oder die Beißkraft ihres Hundes** und keine
+Andeutung, das Spielzeug sei falsch verwendet worden. **Keine Aussage zur
+Produktsicherheit.** Foto nicht geöffnet. Kein Betrag, keine Frist, keine
+Rücksendeadresse. Kein Eskalationsmarker im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

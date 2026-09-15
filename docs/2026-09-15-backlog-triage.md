@@ -1905,3 +1905,98 @@ aufgefallen, dass zwei Kunden aus einem völlig anderen Grund geschrieben haben.
 Position nachgeliefert, keine Erstattung ausgelöst — reine Leseabfragen.
 
 **Ansonsten nichts Neues im Postfach; kein Kundenvorgang in diesem Lauf.**
+
+---
+
+## Lauf 23:20 UTC
+
+**Zwei neue Vorgänge — beide reine Kauschadenmeldungen ohne Eskalationsauslöser,
+und beide bemerkenswert dadurch, dass die Kunden gar nichts fordern.**
+
+### 🔁 #7114 — Geoffrey Russell (`geoffruss123@gmail.com`), 15.09. 22:53 UTC — zweiter Kontakt, neuer Thread
+
+**Bestellung:** #7114, 22.08.2026, **28,50 £**, `FULFILLED`, **2 × Plushies**
+(*Little Bear* + *monkey*), Calera (US).
+
+> *„Order 7114 bear and monkey the ear already gone. Geoffrey Russell"*
+
+**Er hat heute früh schon einmal geschrieben** (02:20-Lauf). Der damalige
+Entwurf hat ihn nie erreicht, weil `create_draft` blockiert ist. **Jetzt ist
+bei beiden Spielzeugen ein Ohr ab** — vorher war es eines.
+
+**Diese Mail kam in einem NEUEN Thread**, nicht als Antwort im alten. Das ist
+**der dritte Fall dieses Musters** nach #4975 Darlene Futrel (vier neue
+Threads) und #7937 Marian Allaton. **Bestätigt die Regel vom 13.09.: Wiederholte
+Kontakte müssen über `from:`-Suche gefunden werden, nicht im Thread.**
+
+**Er fordert weiterhin nichts** — keine Erstattung, keinen Ersatz, keine
+Erklärung. **Zweite Entwurfsfassung**: benennt die ausgebliebene Antwort offen
+als unser Versäumnis, **entscheidet nicht für ihn**, was er wollen soll, und
+bietet ihm die drei möglichen Wege an, ohne einen davon zuzusagen.
+
+**Label:** `Bot/Needs Approval`. **Erstattungsliste:** nicht aufgenommen —
+Kauschaden, und er hat nichts verlangt.
+
+---
+
+### #6599 — Annette Townsend (`acrtown@yahoo.com`), 15.09. 22:42 UTC
+
+**Bestellung:** #6599, 18.08.2026, **30,54 £**, `FULFILLED`, **2 × Plushies**,
+Senatobia, Mississippi (US). Versand **22.08.**, **D&S Express (Selected postal
+codes)**, `JDW101369423884`. **Erstkontakt.**
+
+> *„I have a 4 1/2 month lab mix puppy. He's already chewed the ear off 1 of
+> the toys."*
+
+Ein Foto beigefügt — **nicht geöffnet, nicht gedeutet.**
+
+**Sie fordert nichts.** Kein Erstattungswunsch, keine Frage, kein Vorwurf —
+sie berichtet. **Nach ihrer eigenen Schilderung ist nur eines der beiden
+Spielzeuge betroffen**; über das zweite sagt sie nichts, und es wird ihr auch
+nichts unterstellt.
+
+**Im Entwurf ausdrücklich nicht getan:** ihr eine Erstattungsforderung
+unterstellt; behauptet, Kauschaden sei nicht gedeckt; **irgendetwas über das
+Alter oder die Beißkraft ihres Welpen gesagt** oder angedeutet, das Spielzeug
+sei falsch verwendet worden. Sie erwähnt den Welpen selbst — **das ist kein
+Anlass, ihr die Schuld zuzuschieben.**
+
+**Label:** `Bot/Needs Approval`. **Erstattungsliste:** nicht aufgenommen.
+
+---
+
+### Tagesabschluss 15.09.2026
+
+**Läufe:** 02:20 bis 23:20, **zwanzig Stück.**
+**Vorgänge insgesamt: 55.** Neue oder überarbeitete Entwürfe: **45.**
+
+**Erstattungen ausgeführt: keine.** Kein bestätigter Regel-4-Fall.
+**E-Mails gesendet: keine** — es gibt keine Sendefunktion.
+**Schreiboperationen in Shopify: keine.**
+
+**Was dieser Tag zutage gebracht hat, in der Reihenfolge des Gewichts:**
+
+1. **Die Bedingung „unused and in original condition", mit der seit dem 11.09.
+   rund 36 Absagen begründet wurden, ist vom Shop nirgends veröffentlicht.**
+   Belegt aus `shopPolicies`, nicht vermutet.
+2. **1.170 von 7.561 Bestellungen haben eine bezahlte, nie ausgelieferte
+   Position** — in der Stichprobe der 50 ältesten 49-mal der digitale Ratgeber.
+   Kein einziger Fall ist je gemeldet worden.
+3. **Die Rückgaberichtlinie besteht vollständig aus einem Australien-Abschnitt**
+   und verweist auf Bedingungen, die darüber nicht stehen.
+4. **„Indestructible" steht in keiner der neun Produktbeschreibungen** — jetzt
+   für den ganzen Katalog geprüft — während zwölf Kunden es zitieren.
+5. **Die Geschäftsanschrift ist in den eigenen AGB veröffentlicht.** #7479 kann
+   beantwortet werden.
+6. **Zwei Fristen sind heute unbeantwortet verstrichen**: #6877 (12:38) und
+   Stephen Board (ca. 19:30).
+7. **Acht Rückgabefragen, keine beantwortbar** — seit 34 Tagen keine
+   Rücksendeadresse.
+8. **Zwei eigene Fehler offen benannt und korrigiert**: die übersehene
+   #5973-Antwort (Thread-Vorschau) und das daraus folgende neue Prüfverfahren.
+
+**Offene Fristen:** #7699 (17.09.), #7479 (21.09.), **#7323 (22.09.)**, #1998
+und #4975 (22.09.).
+
+**Weiterhin blockiert:** `create_draft` (21 Fehlversuche) und die
+Gmail-Label-Werkzeuge. **Alle 45 Entwürfe liegen im Repo, keiner in Gmail.**
