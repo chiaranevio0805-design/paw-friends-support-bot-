@@ -1667,3 +1667,172 @@ Lieferfrage, keine Erstattungsfrage.**
 - **Sieben Rückgabefragen** seit dem 14.09., **keine beantwortbar**, weil es
   seit 34 Tagen keine Rücksendeadresse gibt.
 - **Vier Bestellungen mit offener Teillieferung** im Log.
+
+---
+
+## Lauf 21:20 UTC
+
+**Drei neue Vorgänge — und der wichtigste Einzelbefund des ganzen Logs.**
+
+### 🔍🔍 Die veröffentlichten Richtlinien des Shops wurden erstmals abgefragt
+
+Auslöser war #7292 tracy hartley, die **zum vierten Mal** gefragt hat, wo die
+Bedingung „unused and in original condition" veröffentlicht ist. Statt ihr zum
+vierten Mal keine Antwort zu geben, wurde `shop { shopPolicies }` abgefragt.
+**Damit ist die Frage beantwortet, die seit dem 11.09. offen ist.**
+
+**Befund 1 — die Rückgaberichtlinie enthält nur einen Australien-Abschnitt.**
+
+Die Richtlinie heißt **„Widerrufsrecht"** und besteht **vollständig** aus einem
+Abschnitt mit der Überschrift *„Australia – Consumer Guarantees"*. **Kein
+allgemeiner Teil. Kein UK-Teil. Kein US-Teil. Kein Rückgabeverfahren. Keine
+Rücksendeadresse.**
+
+Sie verweist auf *„our voluntary 30-day return policy"* und auf
+*„the conditions stated above"* — **aber darüber steht nichts. Der Abschnitt,
+auf den sie sich beruft, existiert auf der Seite nicht.**
+
+**Befund 2 — die Bedingung, die die Vorlage seit dem 11.09. zitiert, ist
+nirgends als Regel veröffentlicht.**
+
+Die Wörter kommen im gesamten veröffentlichten Bestand **genau einmal** vor —
+im Australien-Abschnitt, und zwar in dieser Form:
+
+> *„These rights apply in addition to our voluntary 30-day return policy and
+> **are not limited by the requirement that an item be unused or in its
+> original packaging**."*
+
+**Der Satz nennt die Bedingung nur, um zu sagen, dass australische
+Verbraucherrechte nicht durch sie beschränkt werden. Die Bedingung selbst wird
+an keiner Stelle aufgestellt.** Nicht auf der Plushies-Seite (die überhaupt
+keinen Garantietext hat), nicht in der Rückgaberichtlinie, nicht in den AGB.
+
+**Das ist die Antwort auf tracy hartleys Frage, auf #5032 Adam Murgatroyds
+CRA-Argument, auf #7001 Keith Furmans Verpackungs-Einwand und auf #7479. Rund
+36 Absagen seit dem 11.09. berufen sich auf eine Bedingung, die der Shop nicht
+veröffentlicht.**
+
+**Befund 3 — die Geschäftsanschrift IST veröffentlicht, in den eigenen AGB.**
+
+Wörtlich, unter „Overview" und noch einmal unter „Contact Information":
+
+> **Chiara Marasa, trading as Paw-Friends.uk**
+> Kirchstrasse 2, 56753 Mertloch, Germany
+> Telefon: +49 175 2437033
+
+**Damit ändert sich die Lage bei #7479 Richard Bellamy-Williams.** Er hatte die
+Anschrift *„should it be required for subsequent service"* verlangt, und sie
+wurde ihm **nicht** genannt, weil „Kirchstr. 2" bis jetzt nur ein
+Fulfilment-Feld war. **Jetzt ist belegt, dass der Shop diese Anschrift selbst
+öffentlich als Geschäftsanschrift führt.** Sie ist damit keine interne Angabe
+mehr. **Trotzdem wird sie hier niemandem aktiv genannt** — die Entscheidung,
+ob und wie geantwortet wird, bleibt beim Owner; er kann jetzt aber auf eine
+öffentliche Seite verweisen, statt zu schweigen.
+
+**Befund 4 — drei Punkte, die der Owner prüfen sollte, unabhängig von jedem
+Kundenvorgang:**
+
+1. **In den live veröffentlichten AGB steht eine unerledigte Redaktionsnotiz:**
+   *„No commercial register number or VAT identification number is stated
+   because none has been provided. **If you have either number, it must be
+   added where legally required.**"* Das ist an die eigene Redaktion gerichtet
+   und für Kunden sichtbar.
+2. **Als anwendbares Recht ist Deutschland gewählt**, der Shop tritt als
+   `paw-friends.uk` auf. Der Text nennt UK-, AU- und US-Verbraucherrechte
+   ausdrücklich als unberührt. **Keine rechtliche Bewertung von hier** — nur
+   der Hinweis, dass es im Log steht.
+3. **Die Rückgaberichtlinie ist unvollständig** (siehe Befund 1) und verweist
+   auf einen Abschnitt, den es nicht gibt.
+
+**Befund 5 — zwei Zitate von tracy hartley bleiben unauffindbar:**
+
+- *„If you're not completely satisfied for any reason, simply contact us within
+  30 days of receiving your order and we'll work with you to find a solution."*
+- *„Remove the toy immediately at the first signs of damage. Small parts may
+  present a choking hazard if swallowed."*
+
+**Beide stehen weder im `descriptionHtml` noch in einer der drei Richtlinien.**
+Sie zitiert sie aber wörtlich und zweimal. **Das spricht dafür, dass es auf der
+Produktseite Abschnitte gibt, die über `descriptionHtml` nicht sichtbar sind**
+— Theme-Sektionen, App-Blöcke, Metafelder. **Ihr wird nicht unterstellt, falsch
+zu zitieren.** Das ist die zweite von hier nicht einsehbare Textquelle nach
+Facebook und dem Werbevideo.
+
+---
+
+### 🚩🚩 #7292 — tracy hartley (`doulatracy@gmail.com`), 15.09. 20:44 UTC — vierte Nachfrage
+
+**Bestellung:** #7292, 22.08.2026, **38,90 $ USD** laut Bestätigung,
+2 × Plushies (*Duck* ungeöffnet, *pig* zerstört), Alhambra CA.
+
+Verlauf: Absage 11.09., Nachfrage 13.09., zweite Absage 13.09., Nachfrage
+14.09., **30-%-Angebot 15.09. 00:44**, jetzt ihre Antwort. Sie nimmt das
+Angebot **nicht an und lehnt es nicht ab** — sie will erst die Antwort auf ihre
+Frage. Sie fragt zusätzlich nach dem **Link zur Rückgaberichtlinie**.
+
+**Vierte Entwurfsfassung** angelegt. Sie beantwortet die Frage zum ersten Mal
+wirklich — belegt, nicht ausgelegt —, **bestätigt das 30-%-Angebot als
+weiterhin stehend**, erhöht es **nicht**, sagt **keine Erstattung zu**, gibt
+**keine rechtliche Einordnung** und bestreitet ihre Zitate **nicht**.
+
+**Label:** `Bot/Escalated - Owner Attention`, **höchste Priorität**.
+**Erstattungsliste:** bleibt als *unbenutzt* (Duck) mit offenem Betrag.
+
+---
+
+### 🚩 #6254 — David Hickman (`davehickman71@gmail.com`), 15.09. 20:26 UTC
+
+**Bestellung:** #6254, 15.08.2026, **44,95 £**, **`PARTIALLY_FULFILLED`**,
+Milton Keynes. **4 × Plushies + 📘 Ratgeber.** Zugestellt 01.09.
+
+*„He has chewed two of the items up. **We have not given him the other two**
+because no doubt he will do the same to these. We purchased them because they
+are advertised as being built for that type of dog. I'd like to return these
+for a full refund please. Can you tell me what we need to do, and **the address
+we need to send them to**?"*
+
+- **Sechster Fall mit unbenutzter Zweitware** (#7479, #7030, #7660, #7347,
+  #5973, jetzt #6254) — hier sogar **zwei** von vier Stücken.
+- **Achte Rückgabefrage**, achte Mal ohne Adresse.
+- **Zweiter Fall heute mit nie ausgeliefertem Ratgeber** nach #7255.
+
+**Label:** `Bot/Escalated - Owner Attention`. **Erstattungsliste:** die
+**zwei unbenutzten Stücke** aufgenommen, Betrag offen; die zwei zerkauten
+**nicht**.
+
+---
+
+### 🚩 #7988 — Jennifer Cooke (`jennifercooke81@gmail.com`), 15.09. 21:11 UTC
+
+**Bestellung:** #7988, 28.08.2026, **43,94 £**, New Franklin, Ohio (US).
+**1 × Zahnbuddy + 2 × Plushies** (*monkey*, *Elk*), `BUY 2 (-$22.62)` — **wieder
+Dollar in der Versandmail.** Versand 08.09., 4px US, `4PX3003140310500CN`.
+
+*„Your reviews have to be fake! False advertising for sure on size. Just
+received my package, so small. The elk took no time to rip the rope off/out.
+… no place in your website for a REAL review. … Then ill send back for a full
+refund just for your phoney company. Zero star."*
+
+- **Fünfte Größenbeschwerde** (#4975, #7048, #5973, #7832, #7988).
+- **Vorwurf gefälschter Bewertungen** — zweiter nach #5973 Stephen Cooil.
+- **Vorwurf, die Website biete keine Möglichkeit für eine echte Bewertung** —
+  **nicht geprüft**, und im Entwurf steht ausdrücklich, dass es nicht geprüft
+  ist.
+- **Dritter Rope-Fall** nach #7754 und #6806 — genau an dem Merkmal, das die
+  Beschreibung als *„Rope-reinforced construction for extra durability"*
+  bewirbt.
+
+**Label:** `Bot/Escalated - Owner Attention`. **Erstattungsliste:** nicht
+aufgenommen — Kauschaden.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Die Bedingung, mit der seit dem 11.09. ~36 Absagen begründet wurden, ist
+  vom Shop nirgends veröffentlicht.** Das ist ab jetzt belegt, nicht vermutet.
+- **Die Geschäftsanschrift ist veröffentlicht** — #7479 kann beantwortet werden.
+- **Fünf Bestellungen mit nie ausgeliefertem 📘 Ratgeber-Posten** — und **beide
+  heute geprüften Bestellungen mit diesem Artikel hatten ihn offen.** Eine
+  Abfrage über alle Bestellungen mit dieser Position ist dringend angeraten.
+- **Acht Rückgabefragen**, weiterhin keine Adresse.

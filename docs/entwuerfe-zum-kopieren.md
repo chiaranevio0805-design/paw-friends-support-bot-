@@ -5837,6 +5837,181 @@ Produktsicherheit, keine zur Größe. Kein Eskalationsmarker im Text.
 
 ---
 
+## #7292 — tracy hartley (doulatracy@gmail.com) — vierte Fassung, endlich mit einer Antwort
+
+**Betreff:** Re: Order #7292 confirmed
+
+**Neu am 15.09. 20:44 UTC. Sie fragt zum VIERTEN Mal, wo die Bedingung
+„unused" veröffentlicht ist. Diesmal kann die Frage beantwortet werden: die
+veröffentlichten Richtlinien des Shops wurden abgefragt. Das Ergebnis ist
+nicht das, was die Vorlage behauptet — und der Entwurf sagt ihr das.**
+
+> Dear Tracy,
+>
+> You have asked the same question four times now and been given the same
+> non-answer four times. I went and looked properly. Here is what I found,
+> including the part that does not help us.
+>
+> **1. Where our returns policy is.** It is published here:
+> https://paw-friends.uk/policies/refund-policy — and I would rather you heard
+> this from me than discovered it yourself: **as it currently stands, that page
+> contains only a section about Australian consumer law.** There is no general
+> returns procedure on it, no UK or US section, and no returns address. You
+> were referred repeatedly to "our current returns policy". **The page that
+> name points to does not contain the rule you were quoted.**
+>
+> **2. Where the "unused and in original condition" condition is published.**
+> I could not find it stated as a rule anywhere the shop publishes — not on
+> the Plushies product page, not in the returns policy, not in the terms.
+> **The only place those words appear at all is inside the Australian section,
+> and there they appear in order to say that Australian consumer guarantees are
+> *not* limited by them.** I am not going to invent a citation for you, and I
+> am not going to keep asserting a condition I cannot show you.
+>
+> **3. The guarantee wording you quoted** — *"not completely satisfied for any
+> reason… we'll work with you to find a solution"* — and **the safety warning
+> you quoted** — *"Remove the toy immediately at the first signs of damage"* —
+> I can see neither in the product description I have access to. That does not
+> mean you did not see them. It is more likely that they sit in a part of the
+> page I cannot read from here. **I am not going to suggest you misquoted us.**
+>
+> **What this does and does not mean.** It does not mean you are getting a
+> refund — I still cannot authorise one, and I am not going to pretend
+> otherwise. It means the reason you were given for refusing one is not
+> something I can back up, and I have said so to the shop owner in exactly
+> those words, with your four emails attached.
+>
+> **On the 30% offer:** it stands. I am not withdrawing it and I am not
+> increasing it. You asked for the facts before deciding, and you should have
+> them before you decide.
+>
+> **One practical thing:** please don't post the Duck or the Pig back yet. **We
+> have no returns address published**, so a parcel has nowhere to arrive and
+> you would be paying the postage for nothing.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner und die **Bestätigung, dass
+das bereits gemachte 30-%-Angebot steht** — es wird weder erhöht noch
+widerrufen. **Keine Erstattung zugesagt, kein Betrag, keine Frist, keine
+Absage.** **Die Feststellungen zur Rückgaberichtlinie sind belegt** — aus
+`shopPolicies` abgefragt — und **nicht ausgelegt**: Es steht dort, was dort
+steht, und es steht dort nicht, was dort nicht steht. **Keine rechtliche
+Einordnung**, keine Aussage darüber, ob die Bedingung wirksam wäre, keine
+Aussage zu ihren Rechten nach US-Recht. **Ihr Zitat wird nicht bestritten**,
+sondern als „von hier nicht einsehbar" benannt. **Keine Aussage zur
+Produktsicherheit** trotz des zitierten Warnhinweises. Keine
+Rücksendeadresse — ausdrücklich, weil es keine gibt. **Die
+Geschäftsanschrift aus den AGB wird ihr nicht genannt**, weil sie nicht danach
+gefragt hat. Kein Eskalationsmarker im Text.
+
+---
+
+## #6254 — David Hickman (davehickman71@gmail.com)
+
+**Betreff:** Re: A shipment from order #6254 is on the way
+
+**Neu am 15.09. 20:26 UTC. Zwei von vier Stücken zerkaut, **zwei nie
+ausgepackt**. Er fragt nach Verfahren UND Adresse. Außerdem ist bei der
+Prüfung aufgefallen, dass auch bei ihm eine bezahlte Position nie ausgeliefert
+wurde.**
+
+> Dear Dave,
+>
+> Thank you for writing, and for setting it out so clearly.
+>
+> **On the return address, straight away, because it is the thing that could
+> cost you money:** we do not currently have a returns address published.
+> **Please don't send anything back yet.** If you post four toys to us now, you
+> will pay the postage and the parcel will have nowhere to arrive. The moment
+> there is a return route, you will get it from us — you will not have to ask
+> again.
+>
+> **On the refund:** I cannot authorise one, so I am not going to promise you
+> one, and I am not going to give you a refusal in its place. What I have put
+> in front of the shop owner is the distinction you drew yourself: **two toys
+> were chewed, and two have never been given to your dog at all.** Those are
+> not the same case, and I did not want them treated as one.
+>
+> **On why you bought them** — because they are advertised as built for that
+> kind of dog — that is a fair point to make and it is the owner's to answer,
+> not mine. It went to him in your words.
+>
+> **One thing you did not ask about, which I found while checking your order.**
+> Your order included the guide *"Why Your Dog Destroys Every Toy (And How to
+> Finally Stop It)"* alongside the four toys. **Our records show it has never
+> been sent to you.** You paid for it. If it never arrived, that is our error,
+> not something you need to chase — I have flagged it with the rest.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** Weitergabe an den Owner, Nachfass-Zusage, die Zusage,
+dass er die Rücksendeadresse **unaufgefordert** bekommt, sobald es eine gibt,
+und die **offene Mitteilung über die nie ausgelieferte bezahlte Position** —
+**ohne** dafür eine Erstattung oder Nachlieferung zuzusagen. **Keine
+Erstattung zugesagt, kein Betrag, keine Absage, keine Frist.** **Keine
+Rücksendeadresse — ausdrücklich, weil es keine gibt**, samt Warnung. **Keine
+Aussage über den Inhalt der Werbung.** Der Unterschied zwischen benutzter und
+unbenutzter Ware wird **benannt, nicht bewertet**. Kein Eskalationsmarker im
+Text.
+
+---
+
+## #7988 — Jennifer Cooke (jennifercooke81@gmail.com)
+
+**Betreff:** Re: A shipment from order #7988 is on the way
+
+**Neu am 15.09. 21:11 UTC. Fünfte Größenbeschwerde, Vorwurf gefälschter
+Bewertungen, und der Vorwurf, es gebe auf der Website keinen Platz für eine
+echte Bewertung.**
+
+> Dear Jennifer,
+>
+> Thank you for writing, and I am not going to answer this with a form letter.
+>
+> **On the reviews.** You said ours have to be fake and that there is nowhere
+> on the site to leave a real one. **I cannot verify either point from where I
+> sit, so I am not going to tell you that you are wrong** — and I am not going
+> to assure you the reviews are genuine when I have not checked. Both go to the
+> shop owner as questions, in your words. What you write publicly is your own
+> business, and nothing here is asked of you in return.
+>
+> **On the size.** I have not measured the toys and I have not compared them
+> against the photographs. So I am not going to tell you they are as pictured,
+> and I am not going to tell you they aren't. You are the fifth person to raise
+> it, and I have said so to the owner rather than filing it as a one-off.
+>
+> **On the refund.** I cannot authorise one. I am not going to promise you
+> something I cannot deliver, and I am not going to refuse you either. Your
+> order is with the owner today.
+>
+> **One practical thing** — you mentioned sending them back. **Please don't
+> post anything yet.** We do not have a returns address published, so the
+> parcel would have nowhere to arrive and you would be out of pocket for the
+> postage on top of everything else.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner. **Keine Erstattung
+zugesagt, kein Betrag, keine Absage, keine Frist.** **Die Echtheit der
+Bewertungen wird weder bestätigt noch bestritten** — beides ist von hier nicht
+prüfbar, und das steht so im Text. **Keine Aussage zur Größe** und **kein
+Vergleich mit Produktbildern** — nicht geprüft. **Sie wird nicht gebeten, eine
+Bewertung zu unterlassen oder zu ändern**, und nichts wird davon abhängig
+gemacht. **Keine Aussage dazu, ob es auf der Website eine Bewertungsfunktion
+gibt** — nicht geprüft. Foto nicht geöffnet. Keine Rücksendeadresse, samt
+Warnung. Kein Eskalationsmarker im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
