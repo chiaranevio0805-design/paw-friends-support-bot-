@@ -732,3 +732,122 @@ oder abgelehnt, **keine Aussage zur Sicherheit des Produkts**, **nichts über
 die Existenz eines „Resolutions Team" behauptet**, keine Rücksendeadresse
 erfunden, keine rechtliche Einordnung, kein Label gesetzt, **kein Entwurf in
 Gmail angelegt**.
+
+---
+
+## Lauf 12:20 UTC — 🚩 #7479 bekam die Absage für ein ungeöffnetes Spielzeug
+
+**#6877 Alexander Mezas Frist läuft in achtzehn Minuten ab (12:38 UTC).**
+**Bis zu diesem Lauf ist in seinem Thread keine Antwort des Shops sichtbar.**
+
+### 🚩🚩🚩 #7479 — Richard Bellamy-Williams: „Nice try, but clearly you didn't read the email"
+
+**Absage 08:03:27, Antwort 12:06:57.**
+
+**Sein Anliegen war ausdrücklich der ungeöffnete zweite Artikel** — genau der
+Fall, den die Vorlage als gedeckt bezeichnet. **Die Vorlage wurde ihm
+trotzdem geschickt**, mit dem Satz, Kauschaden sei nicht gedeckt.
+
+> „**Nice try, but clearly you didn't read the email correctly.**
+>
+> I have a **giraffe toy wrapped in it's original wrapping and ready to be
+> returned unopened and unused in line with your published return policy.**
+> Please advise how that can be progressed given your **'no-quibble'
+> guarantee**.
+>
+> I also note **you have not addressed your non-compliance with a published
+> office address** – could you please provide an address suitable for service
+> should that become necessary."
+
+**Drei Punkte:**
+
+1. **Die Absage trifft seinen Fall nicht.** Er beruft sich auf die Bedingung,
+   die die Vorlage selbst nennt — unbenutzt, Originalverpackung, innerhalb
+   der Frist. **Der Bot entscheidet nicht, ob sein Anspruch durchgreift**; er
+   hält fest, dass die Absage einen anderen Sachverhalt behandelt als den, den
+   er geschildert hat.
+2. **🚩 Neuer zitierter Begriff: „'no-quibble' guarantee".** In
+   Anführungszeichen, also als Bezeichnung von etwas Veröffentlichtem. **In
+   der Plushies- und in der Fluffys-Beschreibung kommt er nicht vor.** Er
+   reiht sich ein neben „indestructible", „customer promise" (#7647), „no dog
+   has beaten it" (#6936) und „the stuffing won't come out" (#4939). **Weder
+   bestätigt noch bestritten.**
+3. **Die Adressfrage ist zum zweiten Mal gestellt und zum zweiten Mal nicht
+   beantwortet.** Er verlangt sie ausdrücklich *„suitable for service"*.
+   **Der Bot gibt weiterhin keine heraus** — „Kirchstr. 2" ist ein
+   Fulfilment-Feld, keine geprüfte Geschäftsanschrift, und die Herausgabe im
+   Rechtsverkehr ist eine Owner-Entscheidung.
+
+**Seine Frist bleibt der 21.09.**
+
+→ `Bot/Escalated - Owner Attention`, **höchste Priorität** (bleibt).
+**Der Entwurf vom 14.09. ist überholt. Zweite Fassung liegt vor.**
+
+### 🚩 #6835 — Terry Allen: „technically outside" — und trotzdem der Vorwurf
+
+Absage **08:09**, Antwort **11:19:49**.
+
+- Bestellung **20.08.**, **29,95 £**, zwei Plushies (*Little Bear*, *hippo*),
+  gebucht als **„BUY 1 AND GET 1 FREE"**, Milton Keynes
+- Erstkontakt war der **13.09.**: *„so called indestructible dog toys"*, Foto,
+  **volle Erstattung von 29,95 £ verlangt**
+
+> „**Whilst my situation is technically outside your 30 day money back
+> guarantee** if nothing else **its false advertising on your side** and as a
+> result I should expect **at least some compensation**. **How can you possibly
+> advertise a indestructible product** that my 12 month Schnoodle can destroy
+> in **less than hour**."
+
+**Er räumt selbst ein, dass die Garantiefrist seinen Fall nicht trägt** — und
+stützt sich stattdessen ausschliesslich auf die Werbung. **Das ist die
+sauberste Trennung der beiden Fragen, die bisher ein Kunde vorgenommen hat.**
+**Er senkt seine Forderung von voller Erstattung auf „at least some
+compensation".**
+
+**Der Bot bewertet weder die Frist noch den Werbevorwurf.**
+
+→ `Bot/Escalated - Owner Attention` (bleibt).
+**Entwurf vom 13.09. überholt; zweite Fassung liegt vor.**
+
+### #7627 — Charlotte Matthews (`charlotteamatthews88@gmail.com`), 11:31 UTC
+
+**Zwei Fotos** — nicht geöffnet, nicht beurteilt.
+
+> „After a long wait I received my dogs toys **yesterday**. However **I thought
+> they were supposed to be indestructible?** […] **It's been less than 24
+> hours**"
+
+**Neunte Nennung von „indestructible" seit dem 14.09. 00:28.**
+
+**#7627 stand bereits am 12.09. im Protokoll** — als einer der Fälle mit
+**zurückgehaltener Sendungsnummer**. **Die Ware ist jetzt angekommen**, nach
+langem Warten, und hat keinen Tag gehalten.
+
+**Sie stellt keine Forderung**, sondern eine Frage — mit Fragezeichen.
+
+→ `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage mit Fotobeleg.
+
+### Stand um 12:20
+
+**Von den acht Sendungen heute früh haben inzwischen sieben eine Antwort
+ausgelöst** — #7401, #6936, #7323, #7754, #7610, #7479, #6835 —
+**alle sieben negativ**. **Nur #6781 Carlie Terry hat bisher nicht
+geantwortet.**
+
+**Fünf Kundinnen und Kunden haben heute einen veröffentlichten Begriff
+zitiert, den der Bot in keiner der beiden geprüften Produktbeschreibungen
+findet:** „indestructible", „40,000 dogs cant beat it", „no-quibble
+guarantee", „customer promise", „for heavy chewers".
+
+### Entwürfe
+
+Volltexte in `docs/entwuerfe-zum-kopieren.md`: **#7479 (zweite Fassung)**,
+**#6835 (zweite Fassung)**, **#7627**.
+
+**Nicht getan:** keine Vorlagen-Absage veranlasst, keine Erstattung zugesagt
+oder abgelehnt, **keine Geschäftsanschrift herausgegeben**, **„no-quibble
+guarantee" weder bestätigt noch bestritten**, **nicht entschieden, ob
+Bellamy-Williams' Anspruch durchgreift**, keine rechtliche Einordnung, keine
+Rücksendeadresse erfunden, kein Label gesetzt, **kein Entwurf in Gmail
+angelegt**.

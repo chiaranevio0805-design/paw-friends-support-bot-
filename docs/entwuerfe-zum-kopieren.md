@@ -5015,6 +5015,135 @@ Kein Datum versprochen. Kein Betrag. Keine Rücksendeadresse.
 
 ---
 
+## #7479 — Richard Bellamy-Williams — zweite Fassung
+
+**Betreff:** RE: Refund request and business address request
+
+**Ihm ist am 15.09. 08:03 die Kauschaden-Vorlage zugegangen — obwohl sein
+Anliegen ausdrücklich der ungeöffnete zweite Artikel war.**
+
+> Dear Mr Bellamy-Williams,
+>
+> You are right. The reply you received this morning answered a complaint you
+> did not make, and I am not going to defend it.
+>
+> **The giraffe.** You have said it is unopened, in its original wrapping, and
+> that you want to return it. That is not a chewed-toy case and it should not
+> have been answered as one. It has gone to the shop owner today stated exactly
+> that way: **an unused item in original packaging, offered for return.**
+>
+> What I cannot do is tell you where to send it. **There is no returns address
+> published that I can find, and I will not invent one.** So the honest position
+> is that your claim has not been refused on its merits — it has been answered
+> with the wrong paragraph, and the route to act on it does not currently exist.
+> Both of those points are with the owner.
+>
+> **The office address.** You asked again, and again I am not able to give you
+> one. There is an address in our system attached to fulfilment; I cannot
+> confirm it is the company's registered or trading address, and given you have
+> asked for it as an address suitable for service, I am not going to hand you
+> something I cannot stand behind. That request is with the owner as a question
+> only he can answer, and I have flagged that it is now outstanding twice.
+>
+> **The guarantee wording.** You have quoted a 'no-quibble' guarantee. I am not
+> able to confirm that wording from here and I am not going to tell you it does
+> not exist either. It has gone across in your words.
+>
+> Your date of 21 September is recorded with all of it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner — der ungeöffnete Artikel
+**ausdrücklich als solcher benannt** — und die Weitergabe seiner Frist.
+**Keine Erstattung zugesagt und keine abgelehnt**; die Absage von heute früh
+wird **als sachlich unpassend benannt, aber nicht aufgehoben**. **Keine
+Geschäftsanschrift** — dass es eine Fulfilment-Adresse gibt, wird eingeräumt,
+sie wird **nicht genannt**. **Keine Rücksendeadresse erfunden.** **„No-quibble
+guarantee" weder bestätigt noch bestritten.** **Nicht entschieden, ob sein
+Anspruch durchgreift** — nur, dass er nicht beantwortet wurde. Keine
+rechtliche Einordnung zu CRA 2015 oder E-Commerce-Verordnung.
+
+---
+
+## #6835 — Terry Allen (tesa.allen@hotmail.co.uk) — zweite Fassung
+
+**Betreff:** Re: Order #6835 confirmed
+
+**Ihm ist am 15.09. 08:09 die Kauschaden-Vorlage zugegangen.**
+
+> Dear Terry,
+>
+> Thank you for coming back, and for being straight about it.
+>
+> You have drawn a line most people don't: you accept that the thirty-day
+> guarantee doesn't cover your case, and you are putting your complaint on the
+> advertising instead. I'm not going to blur that back together — it has gone to
+> the shop owner today stated the way you put it, as an advertising complaint
+> and not a returns one.
+>
+> You've also moved from asking for the full £29.95 to asking for some
+> compensation. I've passed that on as you wrote it and I have not rounded it
+> in either direction.
+>
+> What I can't do is decide it. I cannot authorise a refund or a goodwill
+> payment, so I'm not going to promise you one, and I'm not going to repeat
+> this morning's refusal — it did not engage with what you actually said.
+>
+> If you have heard nothing in a few days, reply and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Keine Erstattung und keine Kulanzzahlung zugesagt oder abgelehnt**; die
+Absage von heute früh wird **nicht wiederholt**. **Keine Aussage dazu, ob die
+Werbung irreführend ist**, in keine Richtung. **Seine eigene Einordnung, der
+Fall liege ausserhalb der Garantiefrist, wird weder bestätigt noch
+korrigiert** — sie wird als seine Formulierung weitergegeben. **Seine
+reduzierte Forderung wird nicht nach oben oder unten ausgelegt.** Keine
+rechtliche Einordnung. Keine Rücksendeadresse.
+
+---
+
+## #7627 — Charlotte Matthews (charlotteamatthews88@gmail.com)
+
+**Betreff:** Re: Order no 7627
+
+> Dear Charlotte,
+>
+> Thank you for writing, and for the photos.
+>
+> A long wait and then less than twenty-four hours is a poor return on both
+> counts, and I'm sorry.
+>
+> You asked a question rather than making a demand, so I'll answer the part I
+> can. I'm not able to confirm from here exactly how the toys were described
+> where you saw them, and I'm not going to tell you that you misremembered it
+> either. What I've done is send your email and your photos to the shop owner
+> today, with that question marked out, because it's his to answer and not
+> mine.
+>
+> You haven't told me what you'd like done. If there is something — a refund, a
+> replacement, or simply an answer — reply and say so and it goes across with
+> the rest.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner. **Keine Erstattung und
+kein Ersatz zugesagt, angeboten oder abgelehnt** — sie hat nichts gefordert.
+**Das Wort „indestructible" wird weder bestätigt noch bestritten**, und ihr
+wird **nicht unterstellt, sie habe sich geirrt**. **Nicht behauptet,
+Kauschaden sei nicht gedeckt.** Die Wartezeit wird anerkannt, ohne sie zu
+beziffern oder zu rechtfertigen. Fotos nicht gedeutet. Kein Betrag. Keine
+Rücksendeadresse.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
