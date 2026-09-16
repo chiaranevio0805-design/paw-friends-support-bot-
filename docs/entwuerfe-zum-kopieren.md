@@ -6163,6 +6163,65 @@ Kein Eskalationsmarker im Text.
 
 ---
 
+## #6528 — Thomas „Tommy" H. Johnson III (thomashjohnson23@gmail.com) — laufende Verhandlung, 30 % gegen 75 %
+
+**Betreff:** Re: Order #6528 Return Request
+
+**Neu am 16.09. 02:29 UTC. Zweite vom Shop selbst geführte Verhandlung nach
+#5973. Er hat VIERMAL um ein Rückgabeverfahren für drei ungeöffnete Stücke
+gebeten und es nie bekommen. Dieser Entwurf schließt nichts ab.**
+
+> Dear Tommy,
+>
+> Thank you — and before anything else, one thing you are owed straight.
+>
+> **You have asked four times how to return the three unused toys** — on 9, 10
+> and 12 September and again on the 14th. You were answered each time, but
+> never with the thing you asked for. **The honest reason is that we do not
+> currently have a returns address published.** There is no process to point
+> you at, and there was none on any of those four occasions either. You were
+> offered a partial refund instead of an answer, and you should have been told
+> why.
+>
+> **So on your first preference — returning the three items — I cannot set that
+> up for you today.** Not because your request is unreasonable; it is the most
+> reasonable request in my queue. **Please don't post them back on your own
+> initiative**, or you will pay the postage and the parcel will have nowhere to
+> arrive.
+>
+> **On the money.** You have said 30% is not acceptable and 75% would be. I
+> cannot authorise either figure — that is the shop owner's, not mine — so I am
+> not going to accept your 75%, and I am not going to defend the 30% either.
+> **The 30% already offered to you stands; I am not withdrawing it.** Both
+> numbers, and your preference to return rather than to be paid off, went to
+> the owner tonight in your own words.
+>
+> **One thing you did not ask about, which I found while checking your order.**
+> It included the guide *"Why Your Dog Destroys Every Toy (And How to Finally
+> Stop It)"* alongside the four toys. **Our records show it has never been sent
+> to you.** You paid for it. That is our error, not something for you to chase
+> — I have flagged it with the rest.
+>
+> You have been patient longer than this deserved. If you have heard nothing in
+> a few days, reply here and I will chase it rather than let it drift again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner, eine Nachfass-Zusage, die
+**Bestätigung, dass das 30-%-Angebot weiter steht**, und die **offene
+Mitteilung über die nie ausgelieferte bezahlte Position** — **ohne** dafür
+Erstattung oder Nachlieferung zuzusagen. **Die 75 % werden weder angenommen
+noch abgelehnt.** **Keine Erstattung zugesagt, kein Betrag genannt, keine
+Frist.** **Das viermalige Ausbleiben einer Antwort wird offen als unser
+Versäumnis benannt**, mit dem wahren Grund. **Keine Rücksendeadresse — es gibt
+keine**, samt Warnung, nichts zu verschicken. **Keine Aussage darüber, welchen
+Anteil die drei unbenutzten Stücke am Preis haben** — das ist im Admin zu
+bestimmen. Foto nicht geöffnet. Kein Eskalationsmarker im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

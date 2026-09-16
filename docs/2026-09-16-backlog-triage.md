@@ -72,3 +72,68 @@ Fall anwendet; das ist seine Entscheidung, nicht meine.
 seit dem 11.09. an australische Adressen gingen.** Für jede davon gilt derselbe
 Widerspruch. Bekannt sind bisher #7323 (Ellenbrook WA), #7885 (AU) und jetzt
 #7663 (Mullaloo WA).
+
+---
+
+## Lauf 03:20 UTC
+
+**Ein neuer Vorgang — die zweite vom Shop selbst geführte Verhandlung.**
+
+### 🚩🚩 #6528 — Thomas „Tommy" H. Johnson III (`thomashjohnson23@gmail.com`), 16.09. 02:29 UTC
+
+**Bestellung:** #6528, 17.08.2026, **45,86 £**, **`PARTIALLY_FULFILLED`**,
+Monroe, Louisiana (US). **4 × Plushies + 📘 Ratgeber.**
+
+**Der vollständige Verlauf — er hat VIERMAL dasselbe gefragt:**
+
+| Datum | Wer | Was |
+|---|---|---|
+| 09.09. 06:43 | Johnson | Erstes Spielzeug sofort zerstört. *„Could we please return **the other two that we have not given to her yet** for a refund?"* |
+| 10.09. 05:26 | Shop | **Vorlagen-Absage** |
+| 10.09. 22:54 | Johnson | *„I understand that the destroyed stuff cannot be returned… Could you please **set up a return for the other 3 stuffies**?"* + Foto |
+| 12.09. 17:23 | Johnson | *„Just wanted to check in on this again."* |
+| 13.09. 20:10 | Shop | **Zweite Vorlagen-Absage** — auf eine Frage, die gar nicht gestellt war |
+| 13.09. 20:26 | Johnson | *„Yes I am fully aware of the policy on used toys. **I am not trying to return the used toy.** I have 3 more unused toys that are **in the original packaging** that I would like to return **based on your company's policy**. Please direct me in how to start the return process."* |
+| **15.09. 07:31** | **Shop** | **Angebot: 30 %**, alles behalten. **Die Verfahrensfrage bleibt zum vierten Mal unbeantwortet.** |
+| **16.09. 02:29** | **Johnson** | *„Instead of a 30% refund, **I would prefer to return the 3 unused items.** If that is not preferable, I would be willing to accept a **75%** refund, but cannot accept 30%."* |
+
+**Warum dieser Fall so klar liegt wie kein anderer:**
+
+Er hat **drei ungeöffnete Stücke in Originalverpackung** und beruft sich
+ausdrücklich auf **die Bedingung, die die Vorlage selbst aufstellt**. Er
+streitet die Absage für das benutzte Stück **nicht** an — er sagt zweimal
+ausdrücklich, dass er sie verstanden hat und akzeptiert. **Er verlangt genau
+das, was die Vorlage ihm zugesteht, und bekommt es seit sieben Tagen nicht**,
+weil es keine Rücksendeadresse gibt. **Siebter Fall mit unbenutzter Zweitware**
+(#7479, #7030, #7660, #7347, #5973, #6254, jetzt #6528) und **neunte
+Rückgabefrage.**
+
+**Zu den Zahlen — eine Beobachtung, keine Berechnung:** 30 % von 45,86 £ sind
+13,76 £, 75 % sind 34,40 £. **Seine 75 % entsprechen rechnerisch drei von vier
+Spielzeugen, wenn man sie gleich bewertet.** Sein Gegenangebot ist also nicht
+gegriffen, sondern exakt „erstattet mir die drei, die ich nicht benutzt habe".
+**Was die drei Stücke tatsächlich am Kaching-Bundle-Preis ausmachen, ist von
+hier nicht bestimmbar und steht deshalb nicht im Entwurf.**
+
+**Dritter Ratgeber-Fall in zwei Tagen:** Auch #6528 ist `PARTIALLY_FULFILLED`,
+die offene Position ist wieder der **📘 Ratgeber**. Nach #7255 und #6254 der
+dritte unabhängig gefundene Fall — und der dritte, in dem der Kunde nichts
+davon weiß. Er ist im Entwurf offen mitgeteilt, **ohne Zusage.**
+
+**Adressabgleich, für den Owner:** Die Bestellung steht auf
+`thepelicanstyle@gmail.com`, er schreibt von `thomashjohnson23@gmail.com` und
+setzt `kth3john@hotmail.com` auf Kopie. **Kein Eingreifen von hier** — der Shop
+korrespondiert seit dem 09.09. über fünf Nachrichten mit dieser Adresse und hat
+ihm Bestelldaten bereits offengelegt. **Es wird nur vermerkt, nicht
+nachträglich zum Problem gemacht.**
+
+**Label:** `Bot/Escalated - Owner Attention`, **hohe Priorität**.
+
+**Entwurf** angelegt. Er **nimmt die 75 % nicht an und lehnt sie nicht ab**,
+**widerruft die 30 % nicht**, nennt **keinen Betrag**, gibt **keine
+Rücksendeadresse** und benennt das viermalige Ausbleiben einer Antwort **offen
+als unser Versäumnis, mit dem wahren Grund.**
+
+**Erstattungsliste:** #6528 stand bereits als *unbenutzt* darauf und **bleibt
+dort** — **Betrag weiterhin offen**, weil 30/75 % nicht entschieden sind und der
+Anteil der drei Stücke nur im Admin bestimmt werden kann.
