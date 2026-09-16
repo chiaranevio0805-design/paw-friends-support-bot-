@@ -264,3 +264,76 @@ keine Absage, kein Betrag, kein Etikett, keine Adresse.**
 - **Elf Rückgabefragen** seit dem 14.09., **keine beantwortbar** — 35 Tage ohne
   Rücksendeadresse.
 - **Dreizehn Kunden** zitieren „indestructible"; der Katalog enthält es nicht.
+
+---
+
+## Lauf 10:20 UTC
+
+**Ein neuer Vorgang — und die erste Frage seit Tagen, die tatsächlich
+beantwortet werden kann.**
+
+### 🚩🚩🚩 #7479 — Richard Bellamy (`richard@brownwolf.net`), 16.09. 10:10 UTC — dritter Kontakt
+
+**Frist: 21.09.**, danach Regulierungsbehörden.
+
+Er leitet **seine eigene Kette an uns weiter** (Betreff jetzt „**FW:**") und
+stellt dieselbe Frage zum dritten Mal:
+
+> *„I have an **unopened, unused** fluffy and would like to exercise my **30 day
+> no quibble guarantee** and return this to you for a refund. **How may I do
+> this please?** I look forward to your quick reply."*
+
+**Der Verlauf in seinen eigenen Worten:**
+
+| Datum | Wer | Was |
+|---|---|---|
+| 14.09. 21:03 | Bellamy | Erstes Stück zerlegt, **bevor das zweite ausgepackt war**. Bittet um die Garantie für **das ungeöffnete Stück**. Hat **Werbekopien, Website-Scrape und Domain-Registrierungsdaten** gesichert. Rügt fehlende Anschrift nach **E-Commerce Regulations 2002**. Frist **21.09.** |
+| 15.09. 09:03 | Shop | **Kauschaden-Vorlage** — antwortet auf einen Fall, den er nicht vorgetragen hat |
+| 15.09. 13:07 | Bellamy | *„**Nice try, but clearly you didn't read the email correctly.**"* Wiederholt beides. |
+| **16.09. 10:10** | **Bellamy** | **Dritte Wiederholung**, diesmal als Weiterleitung seiner eigenen Kette. |
+
+**Was diesmal anders ist: die Adressfrage ist beantwortbar.**
+
+Gestern aus `shopPolicies` belegt: Die Anschrift **ist** veröffentlicht, in den
+**eigenen AGB des Shops**, unter „Overview" und noch einmal unter „Contact
+Information" — **Chiara Marasa, trading as Paw-Friends.uk, Kirchstrasse 2,
+56753 Mertloch, Germany**, mit Telefonnummer.
+
+**Sie wird ihm deshalb genannt** — nicht aus internen Shopdaten, sondern als
+Zitat aus einer **öffentlich zugänglichen Seite des Shops**, mit Link. Das ist
+keine Datenpreisgabe: Es ist der Hinweis auf etwas, das ohnehin jeder lesen
+kann. **Eine rechtliche Bewertung, ob das den zitierten Regulations genügt,
+wird ausdrücklich nicht abgegeben.**
+
+**Was weiterhin nicht beantwortbar ist: seine eigentliche Frage.**
+
+Er hat ein **ungeöffnetes, unbenutztes Stück in Originalverpackung** — **genau
+die Bedingung, die unsere eigenen Absagen seit dem 11.09. zitieren.** Er
+verlangt exakt das, was die Vorlage ihm zugesteht, und bekommt es seit zwei
+Tagen nicht, weil **es keine Rücksendeadresse gibt.** Der Entwurf sagt ihm das
+mit dem wahren Grund und benennt es **als unser Versagen, nicht als Lücke in
+seinem Anspruch.**
+
+Sein Begriff **„no-quibble guarantee"** ist in keiner der neun
+Produktbeschreibungen auffindbar — er wird **weder bestätigt noch bestritten.**
+
+**Dritte Entwurfsfassung** angelegt. **Keine Erstattung zugesagt, kein Betrag,
+keine Absage, keine rechtliche Einordnung.** Die Absage vom 15.09. wird **als
+sachfremd benannt, aber nicht aufgehoben.**
+
+**Label:** `Bot/Escalated - Owner Attention`, **höchste Priorität — Frist in
+fünf Tagen.**
+
+**Erstattungsliste:** steht bereits als *unbenutzt* darauf und **bleibt dort**;
+Betrag offen, weil der Anteil des ungeöffneten Stücks am Bundle-Preis nur im
+Admin zu bestimmen ist.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Sechs Vorgänge heute.**
+- **Zwölf Rückgabefragen** seit dem 14.09. **Eine davon — #7479 — betrifft
+  Ware, die die Bedingung der Vorlage nachweislich erfüllt, und ist trotzdem
+  nicht erfüllbar.**
+- **Die Adressfrage ist nach zwei Tagen erstmals beantwortet.**

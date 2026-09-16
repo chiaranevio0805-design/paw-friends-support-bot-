@@ -6372,6 +6372,74 @@ Eskalationsmarker im Text.
 
 ---
 
+## #7479 — Richard Bellamy (richard@brownwolf.net) — dritte Fassung
+
+**Betreff:** Re: Refund request and business address request
+
+**Neu am 16.09. 10:10 UTC — dritter Kontakt. Er leitet seine eigene Kette an
+uns weiter („FW:") und stellt dieselbe Frage zum dritten Mal. Frist 21.09.
+NEU: Die Adressfrage kann diesmal beantwortet werden — die Anschrift steht in
+den veröffentlichten AGB des Shops. Die Rückgabefrage weiterhin nicht.**
+
+> Dear Richard,
+>
+> You have asked the same two questions three times. I can answer one of them
+> properly today. I am not going to dress up the other.
+>
+> **1. The business address.** It is published — in our own Terms of Service,
+> under "Overview" and again under "Contact Information":
+>
+> > **Chiara Marasa, trading as Paw-Friends.uk**
+> > Kirchstrasse 2, 56753 Mertloch, Germany
+> > Telephone: +49 175 2437033
+>
+> You can read it at https://paw-friends.uk/policies/terms-of-service. I am not
+> going to offer you a view on whether that satisfies the Regulations you cited
+> — that is not mine to assess, and I would rather give you the fact than an
+> opinion dressed as one.
+>
+> **2. The unopened giraffe.** This is the part I cannot fix today, and you are
+> owed the real reason rather than a third round of the same.
+>
+> **There is currently no returns address published, so there is no process I
+> can start for you.** Not because your request falls outside anything — **your
+> item is unopened, unused and in its original packaging, which is precisely
+> the condition our own replies keep citing.** You are asking for the thing the
+> policy says you can have, and the route to it does not exist. That is our
+> failure, not a gap in your claim.
+>
+> **So: please do not post the giraffe to us.** If you send it now you will pay
+> the postage and it will have nowhere to arrive. The moment there is a return
+> route you will get it from me without having to ask a fourth time.
+>
+> **3. On the refund itself.** I cannot authorise one. I am not going to
+> promise you what I cannot deliver, and I am not going to send you another
+> refusal — the one you received on 15 September answered a case you had not
+> made, and I am not going to defend it.
+>
+> Your file is with the shop owner, with your deadline of 21 September on it,
+> and with the point that the unopened item meets our own stated condition.
+>
+> Best wishes,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Beantwortung der Adressfrage** (die Anschrift ist
+öffentlich, sie wird ihm nicht aus internen Daten gegeben, sondern aus der
+eigenen veröffentlichten AGB-Seite zitiert), die Weitergabe an den Owner **mit
+seiner Frist**, und die Zusage, dass er die Rücksendeadresse **unaufgefordert**
+erhält. **Keine Erstattung zugesagt, kein Betrag, keine Frist unsererseits,
+keine Absage.** **Keine rechtliche Einordnung** — ausdrücklich nicht dazu, ob
+die Veröffentlichung den zitierten Regulations genügt, und nicht zum Consumer
+Rights Act. **Kein Garantietext zitiert und keine Bedingung behauptet**; es
+wird nur festgestellt, dass **seine Ware die Bedingung erfüllt, die unsere
+eigenen Antworten nennen.** Sein Begriff „no-quibble guarantee" wird **weder
+bestätigt noch bestritten** — er ist in keiner der neun Produktbeschreibungen
+auffindbar. **Die Absage vom 15.09. wird als sachfremd benannt, aber nicht
+aufgehoben.** Keine Aussage zur Werbung. Kein Eskalationsmarker im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
