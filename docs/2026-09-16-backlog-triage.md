@@ -212,3 +212,55 @@ erst nach ihrer Antwort entschieden werden.
 - **Zehn Rückgabefragen**, keine beantwortbar.
 - **Zwei laufende Verhandlungen** mit offenem Ausgang: #5973 (40 % gegen 50 %)
   und #6528 (30 % gegen 75 % oder Rückgabe).
+
+---
+
+## Lauf 09:20 UTC
+
+**Ein neuer Vorgang.**
+
+### 🚩 #6384 — Simon Foord (`simonfoord@me.com`), 16.09. 09:13 UTC
+
+**Bestellung:** #6384, 16.08.2026, **27,95 £**, `FULFILLED`, **2 × Plushies**,
+Whiteley (GB). Versand **20.08.**, Yanwen Special Line Promotion,
+`UL436986630YP`.
+
+**Verlauf:**
+
+| Datum | Wer | Was |
+|---|---|---|
+| 28.08. 07:51 | Foord | *„My order has not arrived and there is no information to track it showing."* |
+| 31.08. 12:21 | Shop | Standardantwort: unterwegs, UK-Lager ausverkauft, internationales Lager, 7–21 Tage |
+| **16.09. 09:13** | **Foord** | *„My order has **eventually** arrived. I wish to return as they lasted **less than 10 minutes** of play with my dog. Nothing liked **the claimed indestructible** at all. **Please send returns label.**"* |
+
+**Drei Punkte:**
+
+1. **Die Lieferung hat 27 Tage gedauert** — Versand 20.08., Ankunft irgendwann
+   vor heute. Die Antwort vom 31.08. nannte „7–21 Tage"; das ist **überschritten
+   worden**, und er hat dazwischen selbst nachfassen müssen. Der Entwurf
+   benennt das **als unser Versäumnis** und verweist ihn **nicht** an den
+   Transportdienstleister.
+2. **Dreizehnter Kunde mit „indestructible".** Das Wort steht in **keiner** der
+   neun Produktbeschreibungen — gestern für den ganzen Katalog geprüft. Seine
+   Quelle ist von hier nicht feststellbar, und **ihm wird nicht unterstellt, es
+   erfunden zu haben.**
+3. **Elfte Rückgabefrage — und die erste, die ausdrücklich ein
+   Rücksendeetikett verlangt.** Der Entwurf sagt **klar ab**, mit dem wahren
+   Grund: Es gibt keine Rücksendeadresse, also auch kein Etikett. Dazu die
+   Warnung, nichts zu verschicken, und die Zusage, dass er die Adresse
+   **unaufgefordert** bekommt, sobald es eine gibt.
+
+**Label:** `Bot/Escalated - Owner Attention` (bestrittene Werbeaussage +
+wiederholter Kontakt). **Entwurf** angelegt: **keine Erstattung zugesagt,
+keine Absage, kein Betrag, kein Etikett, keine Adresse.**
+
+**Erstattungsliste:** nicht aufgenommen — Kauschaden.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Fünf Vorgänge heute** (#7663, #6528, #7114, #6804, #6384).
+- **Elf Rückgabefragen** seit dem 14.09., **keine beantwortbar** — 35 Tage ohne
+  Rücksendeadresse.
+- **Dreizehn Kunden** zitieren „indestructible"; der Katalog enthält es nicht.

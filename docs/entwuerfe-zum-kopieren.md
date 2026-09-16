@@ -6314,6 +6314,64 @@ unterstellt**, dass es unbenutzt ist. Kein Eskalationsmarker im Text.
 
 ---
 
+## #6384 — Simon Foord (simonfoord@me.com)
+
+**Betreff:** Re: Order 6384
+
+**Neu am 16.09. 09:13 UTC. Er hat am 28.08. nachgefasst, weil nichts ankam; die
+Ware kam erst jetzt — 27 Tage nach Versand. Er zitiert „indestructible"
+(dreizehnter Kunde) und bittet um ein **Rücksendeetikett**.**
+
+> Dear Simon,
+>
+> Thank you for the update, and I'm sorry on two counts rather than one.
+>
+> **First, the wait.** Your order shipped on 20 August and has only just
+> reached you. That is far longer than it should have taken, and the reply you
+> got on 31 August told you to be patient without being able to tell you
+> anything useful. That is on us, and I am not going to point you at the
+> courier for it.
+>
+> **Second, the returns label you asked for. I cannot send you one, and I would
+> rather say so plainly than go quiet.** We do not currently have a returns
+> address published, so there is no label to issue and no address to post to.
+> **Please don't send the toys anywhere yet** — you would pay for postage and
+> the parcel would have nowhere to arrive. The moment there is a return route,
+> you will get it from us without having to ask again.
+>
+> **On the refund.** That decision is the shop owner's, not mine. I am not
+> going to promise you one I cannot authorise, and I am not going to send you a
+> refusal in its place. Your order went to him this morning with what you
+> wrote.
+>
+> **On "the claimed indestructible":** I am not going to argue with you about
+> what you saw before you bought. You are not the first person to use that
+> word to us, and I am not in a position to rule on whether our advertising
+> was accurate — that is the owner's to answer, and I passed your point on as
+> yours, not paraphrased.
+>
+> If you have heard nothing in a few days, reply here and I will chase it
+> rather than leave you waiting again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner, eine Nachfass-Zusage, und die
+Zusage, dass er **unaufgefordert** die Rücksendeadresse bekommt, sobald es eine
+gibt. **Kein Rücksendeetikett zugesagt — ausdrücklich abgesagt, mit dem wahren
+Grund.** **Keine Erstattung zugesagt, kein Betrag, keine Absage, keine Frist.**
+Die Lieferzeit wird **als unser Versäumnis benannt**, ohne ihn an den
+Transportdienstleister zu verweisen; die Herkunft wird nicht angesprochen, weil
+sie ihm am 31.08. bereits offen genannt wurde und er heute nicht danach fragt.
+**Keine Aussage darüber, ob die Werbung „indestructible" sagt oder ob sie
+zutrifft** — das Wort steht in keiner der neun Produktbeschreibungen, seine
+Quelle ist von hier nicht feststellbar, und **ihm wird nicht unterstellt, es
+erfunden zu haben.** **Nicht behauptet, Kauschaden sei nicht gedeckt.** Kein
+Eskalationsmarker im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
