@@ -7559,6 +7559,68 @@ Frist, keine Rücksendeadresse. Kein Eskalationsmarker im Text.
 
 ---
 
+## #8372 — Kerri Forbey (wollenzienk@hotmail.com) — unbenutzt, Originalverpackung, am Tag der Zustellung
+
+**Betreff:** Re: Paw friends plushies
+
+**Neu am 16.09. 20:36 UTC. **Der klarste unbenutzt-Fall im ganzen Log:** Sie hat
+die Ware heute erhalten, sie **nicht** herausgegeben, und fragt am selben Tag
+nach der Rücksendeadresse — die Bedingung der Vorlage ist vollständig erfüllt,
+und trotzdem kann ihr niemand antworten.**
+
+> Dear Kerri,
+>
+> Thank you for writing on the day it arrived, and for being clear that the
+> toys are still in their original packaging.
+>
+> **You asked one question — where to send them back — and I have to give you
+> an honest answer rather than a useful one: there is currently no returns
+> address published, so there is nowhere I can tell you to send them.** That is
+> not a judgement on your request. It is a gap on our side.
+>
+> **Please don't post anything yet.** If you send the parcel now you will pay
+> the postage and it will have nowhere to arrive. **The moment there is a
+> return route, you will get it from me without having to ask again.**
+>
+> **I want to be straight about one more thing, because it matters to your
+> case.** The condition our replies normally cite — that items be returned
+> unused and in their original condition — **is exactly the condition you
+> meet.** You have not given the toys to your dog at all. So this is not a
+> borderline request; it is the straightforward one, and the only thing
+> standing in its way is that we have not published a way to do it.
+>
+> **On the refund itself:** I cannot authorise one, so you will get no promise
+> from me and no refusal either. Your request has gone to the shop owner
+> tonight, marked as unused goods in original packaging, reported on the day of
+> delivery.
+>
+> **One thing you did not ask about, which I found while checking your order.**
+> It included the guide *"Why Your Dog Destroys Every Toy (And How to Finally
+> Stop It)"* alongside the toys and the brush. **Our records show it has never
+> been sent to you.** You paid for it. That is our error, not something for you
+> to chase.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner **ausdrücklich als
+„unbenutzt, Originalverpackung, am Tag der Zustellung gemeldet"**, eine
+Nachfass-Zusage, die Zusage, dass sie die Rücksendeadresse **unaufgefordert**
+bekommt, und die **offene Mitteilung über die nie ausgelieferte bezahlte
+Position** — **ohne** dafür Erstattung oder Nachlieferung zuzusagen. **Keine
+Erstattung zugesagt, kein Betrag genannt, keine Absage, keine Frist.** **Es
+wird festgestellt, dass sie die Bedingung erfüllt — nicht, dass daraus ein
+Anspruch folgt.** **Kein Garantietext zitiert.** **Keine Aussage über ihren
+Hund** und keine Andeutung, ihre Einschätzung sei voreilig — sie beschreibt,
+was sie erwartet, und das wird ihr nicht ausgeredet. **Dollar gegen Pfund nicht
+überbrückt und nicht erwähnt.** Keine Rücksendeadresse, samt Warnung. Kein
+Eskalationsmarker im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

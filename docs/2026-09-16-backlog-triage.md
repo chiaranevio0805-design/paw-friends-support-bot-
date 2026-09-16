@@ -1201,3 +1201,69 @@ Erstattung nicht übersehen wird.
   `UNFULFILLED`).
 - **Elf Währungsfälle**, **zwei Trinkgeldfälle.**
 - **Siebzehn Rückgabefragen**, keine beantwortbar.
+
+---
+
+## Lauf 21:20 UTC
+
+**Ein neuer Vorgang — der klarste unbenutzt-Fall des ganzen Logs.**
+
+### 🚩🚩 #8372 — Kerri Forbey (`wollenzienk@hotmail.com`), 16.09. 20:36 UTC
+
+**Bestellung:** #8372, 07.09.2026, **71,56 £ GBP** in Shopify, `PAID`,
+**`PARTIALLY_FULFILLED`**, Shawano, Wisconsin (US). Versand 08.09.,
+**Yun Express**, `YT2625100706715108`. **Zugestellt heute.**
+
+**Inhalt:** 1 × Zahnbuddy, **4 × Plushies**, 1 × Fur Wonder Brush,
+**1 × 📘 Ratgeber — offen.**
+
+> *„I received my plushies today Wednesday, September 16th. I am not happy with
+> my purchase. My 9 month old German shepherd **will be able to** shred the
+> material and the rope of the plush toy up almost immediately upon receipt. My
+> order was for **$96.89**. I would like a **full refund**. **Please inform me
+> to whom I must return the contents to in the original packaging.**"*
+
+**Warum dieser Fall so klar liegt wie kein anderer:**
+
+**Sie hat die Spielzeuge gar nicht erst herausgegeben.** Sie schreibt im
+Futur — *„will be able to shred"* —, nicht im Perfekt. **Es gibt keinen
+Kauschaden.** Die Ware ist **unbenutzt, in Originalverpackung**, und sie meldet
+sich **am Tag der Zustellung.**
+
+**Damit erfüllt sie die Bedingung, auf die sich seit dem 11.09. rund 36
+Absagen berufen — vollständig und ohne jede Auslegung.** Und sie kann trotzdem
+nicht bedient werden, **weil es keine Rücksendeadresse gibt.** Das ist die
+Lücke in ihrer reinsten Form: **Nicht der Kunde scheitert an der Bedingung,
+sondern der Shop an seiner eigenen.**
+
+**Neunter unbenutzt-Fall** nach #7479, #7030, #7660, #7347, #5973, #6254,
+#6528, #7292 — und der erste, bei dem **die gesamte Bestellung** unbenutzt ist,
+nicht nur ein Teil.
+
+**Zwölfter Währungsfall:** Sie nennt **96,89 $**, Shopify zeigt **71,56 £**.
+**Nicht überbrückt und im Entwurf nicht erwähnt.**
+
+**Vierter Ratgeber-Fall:** Auch hier ist der bezahlte digitale Ratgeber nie
+ausgeliefert worden — nach #7255, #6254 und #6528. **Sie weiß nichts davon.**
+Der Entwurf teilt es ihr offen mit, **ohne Zusage.**
+
+**Im Entwurf ausdrücklich nicht getan:** ihr gesagt, ihre Einschätzung sei
+voreilig, weil sie das Spielzeug noch gar nicht verwendet hat. **Sie
+beschreibt, was sie erwartet — das wird ihr nicht ausgeredet.** Ebenso wenig
+wird behauptet, aus der erfüllten Bedingung folge ein Anspruch; festgestellt
+wird nur, **dass sie sie erfüllt.**
+
+**Label:** `Bot/Escalated - Owner Attention`, **hohe Priorität.**
+
+**Erstattungsliste:** **aufgenommen — #8372, Betrag offen (71,56 £ gesamt),
+Kerri Forbey, unbenutzt, Originalverpackung, vollständige Bestellung.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Neunundzwanzig Vorgänge heute.**
+- **Neun unbenutzt-Fälle** auf der Erstattungsliste — **#8372 ist der erste mit
+  vollständig unbenutzter Bestellung.**
+- **Achtzehn Rückgabefragen** seit dem 14.09., **keine beantwortbar.**
+- **Zwölf Währungsfälle**, **vier Ratgeber-Fälle.**
