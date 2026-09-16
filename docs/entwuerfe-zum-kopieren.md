@@ -6104,6 +6104,65 @@ Rücksendeadresse. Kein Eskalationsmarker im Text.
 
 ---
 
+## #7663 — Murray „Muzz" McLean (muzz.mclean@gmail.com) — zweite Fassung
+
+**Betreff:** Re: Plushies
+
+**Neu am 16.09. 00:31 UTC. Ersetzt den Entwurf vom 14.09., der ihn nie
+erreicht hat. Ihm ist am 15.09. 07:51 die Kauschaden-Vorlage zugegangen. Er
+liefert in Australien — und die einzige veröffentlichte Rückgaberichtlinie des
+Shops besteht vollständig aus einem Australien-Abschnitt, der der Absage
+widerspricht.**
+
+> Dear Muzz,
+>
+> Thank you for coming back, and I would rather answer this properly than
+> trade another form letter with you.
+>
+> **On the point you raised: I am not going to argue with it.** I am also not
+> the right person to give you a legal view, and I am not going to pretend to
+> be one — so I will stick to what I can actually show you.
+>
+> **Your order ships to Western Australia, and our own published returns policy
+> has an Australian section.** It is the only section on that page. It says, in
+> our words, not yours:
+>
+> *"Our goods come with guarantees that cannot be excluded under the Australian
+> Consumer Law… These rights apply in addition to our voluntary 30-day return
+> policy and are not limited by the requirement that an item be unused or in
+> its original packaging."*
+>
+> **The reply you received on 15 September refused you on exactly that
+> requirement.** I am not going to defend that, and I am not going to repeat
+> it. I have put it in front of the shop owner in those terms.
+>
+> **What I cannot do is authorise a refund.** So I am not going to promise you
+> one — you have had enough words from us already. What I can tell you is that
+> the refusal you were sent is not something I can stand behind, and I have
+> said so internally rather than to you alone.
+>
+> **One practical thing:** please don't post anything back yet. We have no
+> returns address published, so it would have nowhere to arrive and you would
+> be out the postage on top.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner und die **Feststellung, dass
+die Absage vom 15.09. hier nicht vertreten wird.** **Keine Erstattung zugesagt,
+kein Betrag, keine Frist.** **Keine rechtliche Einordnung, keine Aussage zu
+seinen Ansprüchen nach australischem Recht und keine Bewertung seines Hinweises
+auf einen „corporate claim"** — ausdrücklich gesagt, dass dies nicht Sache des
+Supports ist. **Der zitierte Abschnitt ist wörtlich aus der veröffentlichten
+Rückgaberichtlinie des Shops**, nicht aus einer Rechtsquelle und nicht
+ausgelegt; zitiert wird, was dort steht. **Keine Aussage darüber, ob die
+Werbung falsche Angaben enthält** — er behauptet es, es wird weder bestätigt
+noch bestritten. Keine Rücksendeadresse — ausdrücklich, weil es keine gibt.
+Kein Eskalationsmarker im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
