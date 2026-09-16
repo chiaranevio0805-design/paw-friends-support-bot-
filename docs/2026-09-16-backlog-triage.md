@@ -551,3 +551,92 @@ advertising and deception", kein Betrag, Dollar/Pfund **nicht überbrückt**.
   davon eskaliert.
 - **Der Verpackungs-Einwand ist jetzt dreifach belegt** (#7001, #6528, #7072).
 - **Drei angekündigte Zahlungsanfechtungen** in 48 Stunden.
+
+---
+
+## Lauf 13:20 UTC
+
+**Drei neue Vorgänge.**
+
+### 🚩🚩 John Keefauver (`johnkeefauver@comcast.net`), 16.09. 13:15 UTC — dritte Nennung einer Quelle außerhalb der Produktseiten
+
+> *„I purchased 2 of your products and my dog quickly destroyed them both. I
+> have photos attached here. **How do I go about getting my refund as promised
+> in your Facebook marketing?**"*
+
+**Das ist der Kern.** Er beruft sich nicht auf die Produktseite, sondern auf
+ein **in der Facebook-Werbung versprochenes Erstattungsrecht.**
+
+**Damit steht der Befund auf drei unabhängigen Beinen:**
+
+| # | Kunde | Genannte Quelle |
+|---|---|---|
+| #7698 | Amy Burnell | *„under the advertisement of being indestructible"* — **Facebook-Rezensionen** |
+| #7312 | Ricky Gaugano | *„In your **promotional video**, you will refund me when my dog destroys your toy"* |
+| **neu** | **John Keefauver** | *„**my refund as promised in your Facebook marketing**"* |
+
+**Zwei davon nennen ausdrücklich eine Erstattungszusage**, nicht bloß eine
+Haltbarkeitsaussage. **Der Katalog enthält nichts dergleichen** — das ist über
+alle neun Artikel geprüft. **Von hier ist die Facebook-Werbung nicht einsehbar.
+Sie wird weder bestätigt noch bestritten, und ihm wird nicht unterstellt, sich
+zu irren.**
+
+**Zuordnung:** `email:johnkeefauver@comcast.net` → **keine Bestellung.** Die
+Kundensuche findet **zwei** Datensätze auf denselben Namen — einen mit einer
+anderen Adresse und einer Bestellung, einen mit seiner Adresse und **null**
+Bestellungen. **Nach der Linie von Jim Wigo, #8359 und Stephen Board wird ihm
+nichts über eine Bestellung gesagt und der Namenstreffer weder bestätigt noch
+angedeutet.** Der Entwurf bittet um Bestellnummer oder Checkout-Adresse.
+
+**Label:** `Bot/Escalated - Owner Attention`. Fotos nicht geöffnet.
+
+---
+
+### #7950 — Andy Kennedy (`andykennedy1@btinternet.com`), 16.09. 12:46 UTC
+
+**Bestellung:** #7950, 27.08.2026, **19,95 £**, 1 × Plushies *elephant*,
+Newcastle Emlyn (Wales). Versand 03.09., Yanwen, `UL478913806YP`.
+**Zugestellt Montag, 14.09.** — *„it didnt last long."*
+
+**Zwei Tage.** Er **fordert nichts**, er meldet. Der Entwurf unterstellt ihm
+keine Forderung, behauptet **nicht**, Kauschaden sei nicht gedeckt, und bietet
+ihm an, auf ein Wort hin eine Erstattungsanfrage daraus zu machen. Foto nicht
+geöffnet.
+
+**Label:** `Bot/Needs Approval`.
+
+---
+
+### 🔁 #6804 — Jill Brown, 16.09. 13:10 UTC — zweiter Kontakt, zweiter Thread, jetzt mit Werbebezug
+
+Sie hat heute **03:38** geschrieben und **neun Stunden später** erneut, in
+einem **zweiten Thread**. Dazwischen keine Antwort — der Entwurf von 04:20 hat
+sie nie erreicht.
+
+> *„How can we get a refund as this is not acceptable since **you advertise
+> these toys are nearly indestructible**?"*
+
+**Neu gegenüber heute früh:** Sie nennt jetzt die Werbung. Damit ist es keine
+reine Kauschadenmeldung mehr. **Vierzehnte Nennung dieser Art.**
+
+**Heraufgestuft** von `Bot/Needs Approval` auf
+`Bot/Escalated - Owner Attention`. **Zweite Entwurfsfassung**: benennt die
+ausgebliebene Antwort offen als unser Versäumnis, sagt **keine Erstattung zu**,
+**keine Absage**, **nichts über den Inhalt der Werbung** — und **fragt erneut
+nach dem zweiten Spielzeug, ohne zu unterstellen**, dass es unbenutzt ist.
+
+**Sie ist der vierte Kunde**, der in getrennten Threads nachfasst, nach #4975
+(vier), #7114 (vier) und #7937.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Vierzehn Vorgänge heute.**
+- **Drei Kunden benennen inzwischen eine Werbequelle außerhalb der
+  Produktseiten** — zweimal Facebook, einmal ein Werbevideo. **Zwei davon
+  sprechen von einer zugesagten Erstattung.** Das ist weiterhin die am
+  leichtesten zu beantwortende offene Frage, und **nur der Owner kann sie
+  beantworten.**
+- **Vierzehn Kunden** mit „indestructible"-artigen Zitaten.
+- **Dreizehn Rückgabefragen**, keine beantwortbar.

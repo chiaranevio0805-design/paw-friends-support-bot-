@@ -6697,6 +6697,156 @@ weil sie ausdrücklich danach gefragt hatte. Kein Betrag in Dollar gegen Pfund
 
 ---
 
+## John Keefauver (johnkeefauver@comcast.net) — beruft sich auf ein Facebook-Versprechen
+
+**Betreff:** Re: toys destroyed
+
+**Neu am 16.09. 13:15 UTC. Er nennt ausdrücklich ein **in der Facebook-Werbung
+versprochenes** Erstattungsrecht — nach #7698 Amy Burnell und #7312 Ricky
+Gaugano der dritte Kunde, der eine Quelle außerhalb der Produktseiten
+benennt. Unter seiner Absenderadresse liegt KEINE Bestellung.**
+
+> Dear Mr Keefauver,
+>
+> Thank you for writing, and I'm sorry both toys went that way.
+>
+> **Two honest things before anything else.**
+>
+> **I cannot match the address you are writing from to an order.** There is no
+> order attached to it on our side, and I am not going to guess my way from a
+> name to somebody's order record and start discussing it — not even when the
+> name matches. That protects you as much as anyone. Could you reply with
+> **either the order number or the email address you used at checkout**? One
+> line is enough. I am not asking for any payment or card details, and you
+> should never send those by email to us or to anyone.
+>
+> **On the refund promised in the Facebook marketing.** I am not going to
+> dispute what you saw. I also cannot see our Facebook advertising from where I
+> work, so I am not in a position to confirm its wording either — and I would
+> rather tell you that than guess at what it said. **You are not the first
+> person to tell us about a promise made there**, and I am putting that to the
+> shop owner as its own question, in your words.
+>
+> Once I can match your order, your refund request goes to him — he is the one
+> who decides it — and I will tell you plainly what comes back. I am not going
+> to promise you a refund before then, and you will not get a refusal from me
+> in the meantime.
+>
+> **One practical thing:** please don't post the toys back anywhere yet. We do
+> not have a returns address published, so a parcel would have nowhere to
+> arrive.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur, dass die Anfrage nach Zuordnung an den Owner geht,
+und dass die Facebook-Frage gesondert weitergegeben wird. **Keine Erstattung
+zugesagt, kein Betrag, keine Absage.** **Keine Bestellnummer, kein Datum, kein
+Artikel, keine Adresse genannt** — die Absenderadresse trägt keine Bestellung,
+und der Namenstreffer im Shop wird ihm **weder bestätigt noch angedeutet.**
+**Der Inhalt der Facebook-Werbung wird weder bestätigt noch bestritten** — er
+ist von hier nicht einsehbar, und das steht so im Text. **Ihm wird nicht
+unterstellt, sich zu irren.** Keine Zahlungsdaten erbeten, ausdrücklich
+abgeraten. Keine Rücksendeadresse. Fotos nicht geöffnet. Kein
+Eskalationsmarker im Text.
+
+---
+
+## #7950 — Andy Kennedy (andykennedy1@btinternet.com)
+
+**Betreff:** Re: A shipment from order #7950 is on the way
+
+**Neu am 16.09. 12:46 UTC. Erstkontakt. Er fordert nichts — er meldet.**
+
+> Dear Andy,
+>
+> Thank you for letting us know, and I'm sorry it went that quickly.
+>
+> Your order #7950 from 27 August: the elephant. It reached you on Monday, so
+> it lasted two days.
+>
+> **You haven't asked us for anything, so I am not going to decide that for
+> you.** If you would like a refund considered, say so in one line and it goes
+> to the shop owner as a refund request rather than as feedback. If you would
+> prefer a replacement, or simply wanted us to know, that is fine too and
+> nothing further is needed from you.
+>
+> Two things I would rather say now than have you find out the hard way:
+>
+> - I cannot authorise a refund myself. So I am not going to promise you one,
+>   and you will not get a refusal from me either — that decision is the shop
+>   owner's.
+> - **Please don't post the toy back to us.** We do not have a returns address
+>   published at the moment, and I don't want you paying postage for nothing.
+>
+> I have not opened the photo beyond seeing that it is there. If it matters to
+> the decision, the owner will come back to you about it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur, dass seine Anfrage auf ein Wort von ihm hin an den
+Owner geht. **Keine Erstattung und kein Ersatz zugesagt, angeboten oder
+abgelehnt** — er hat nichts gefordert. **Nicht behauptet, Kauschaden sei nicht
+gedeckt.** **Keine Aussage zur Werbung** — er zitiert nichts. Foto nicht
+geöffnet. Kein Betrag, keine Frist, keine Rücksendeadresse. Kein
+Eskalationsmarker im Text.
+
+---
+
+## #6804 — Jill Brown (jillbindewald@gmail.com) — zweite Fassung
+
+**Betreff:** Re: Order #6804
+
+**Neu am 16.09. 13:10 UTC, **neun Stunden nach ihrer ersten Mail** und in einem
+zweiten Thread. Der Entwurf von heute früh hat sie nie erreicht. **Neu: sie
+nennt jetzt die Werbung** — „nearly indestructible".**
+
+> Dear Jill,
+>
+> You wrote at half past three this morning and again now, and you have had
+> nothing back in between. That gap is ours, not yours.
+>
+> **On the advertising.** You say the toys are advertised as nearly
+> indestructible. I am not going to argue with you about what you saw before
+> you bought, and I am not in a position to rule on whether our advertising was
+> accurate — that is the shop owner's to answer. It went to him with your
+> message, in your words.
+>
+> **On the refund.** I cannot authorise one, so I am not going to promise you
+> anything, and I am not going to send you a refusal instead. Your order is in
+> front of him today.
+>
+> **On how to return them** — the question you asked this morning: **there is
+> currently no return route I can give you.** We do not have a returns address
+> published. **Please don't post anything back**, or you will pay the postage
+> and the parcel will have nowhere to arrive. The moment there is a route you
+> will get it from us without having to ask again.
+>
+> **One thing I asked this morning and would still like to know**, because it
+> may matter to the decision: your order was for two toys. **If the second one
+> is still unopened, tell me** — that is a different situation from the one
+> your dog has had, and I do not want the two treated as one by mistake.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner und die Zusage, dass sie die
+Rücksendeadresse **unaufgefordert** bekommt, sobald es eine gibt. **Keine
+Erstattung zugesagt, kein Betrag, keine Absage, keine Frist.** **Keine Aussage
+darüber, ob die Werbung „nearly indestructible" sagt oder ob sie zutrifft** —
+das Wort steht in keiner der neun Produktbeschreibungen, und **ihr wird nicht
+unterstellt, es erfunden zu haben.** **Nicht behauptet, Kauschaden sei nicht
+gedeckt.** Die ausgebliebene Antwort wird **offen als unser Versäumnis
+benannt.** **Nach dem zweiten Stück wird erneut gefragt, nicht unterstellt.**
+Foto nicht geöffnet. Keine Rücksendeadresse, samt Warnung. Kein
+Eskalationsmarker im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
