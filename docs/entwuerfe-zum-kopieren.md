@@ -6907,6 +6907,104 @@ im Text.
 
 ---
 
+## #7378 — Gary Green (gary.green53@gmail.com)
+
+**Betreff:** Re: Fluffy not so indestructible.
+
+**Neu am 16.09. 14:46 UTC. Erstkontakt. Er hat **Fluffys** gekauft — und was
+versagt hat, sind **die Nähte**, also genau das Merkmal, das die
+Fluffys-Beschreibung dreimal ausdrücklich hervorhebt.**
+
+> Dear Gary,
+>
+> Thank you for writing, and for saying plainly why you bought them — to see
+> whether they would last longer than the others.
+>
+> **I am going to tell you one thing straight, because you have earned it by
+> being specific.** You said the seams split. Our Fluffys product page says, in
+> our own words: *"Triple-stitched at every seam"* and *"Triple-stitched seams —
+> ears, joints, belly. The places he goes for first."* **You are describing a
+> failure at exactly the feature we advertise.** I am not going to pretend I
+> did not notice that, and I have put it to the shop owner in those terms
+> rather than as a general complaint.
+>
+> **What I am not going to do is tell you what follows from it.** Whether our
+> description holds up is the owner's to answer, not mine, and I am not going to
+> give you a verdict I have no standing to give.
+>
+> **On a refund:** you have not actually asked me for one. If you would like one
+> considered, say so in one line and it goes to him as a refund request rather
+> than as feedback. I cannot authorise one myself, so you will get neither a
+> promise nor a refusal from me.
+>
+> **One practical thing:** please don't post them back. We do not have a returns
+> address published at the moment, and I don't want you paying postage on a
+> parcel with nowhere to go.
+>
+> I have not opened the photographs beyond seeing that they are there.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner — **ausdrücklich als
+Naht-Fall, nicht als allgemeine Beschwerde** — und das Angebot, auf ein Wort
+hin eine Erstattungsanfrage daraus zu machen. **Keine Erstattung zugesagt, kein
+Betrag, keine Absage, keine Frist.** **Der zitierte Werbetext ist wörtlich aus
+`descriptionHtml` der Fluffys** und damit belegt; **daraus wird ausdrücklich
+keine Folgerung gezogen.** **Keine Aussage darüber, ob das Produkt mangelhaft
+ist.** **Keine Aussage über seinen Hund**, obwohl er die Rasse selbst nennt —
+kein Hinweis auf „starkes Kauen" als Erklärung. **Nicht behauptet, Kauschaden
+sei nicht gedeckt.** Fotos nicht geöffnet. Keine Rücksendeadresse, samt
+Warnung. Kein Eskalationsmarker im Text.
+
+---
+
+## #6233 — Darlene Burke (dburkecpa@msn.com)
+
+**Betreff:** Re: A shipment from order #6233 is on the way
+
+**Neu am 16.09. 14:40 UTC. Erstkontakt, ein Satz. Sie fordert nichts — sie
+stellt fest.**
+
+> Dear Ms Burke,
+>
+> Thank you for telling us, and I'm sorry — within hours is not what you paid
+> for.
+>
+> **You have made a statement rather than a request, so I am not going to
+> decide for you what you want.** If you would like a refund considered, say so
+> in one line and it goes to the shop owner as a refund request. If you would
+> prefer a replacement, or simply wanted it on record, that is fine too and
+> nothing further is needed from you.
+>
+> **On the claims themselves:** I am not in a position to rule on whether our
+> advertising holds up, and I am not going to argue the point with you. It is
+> the shop owner's to answer, and your message went to him today in your own
+> words.
+>
+> Two things I would rather say now:
+>
+> - I cannot authorise a refund myself, so you will get neither a promise nor a
+>   refusal from me.
+> - **Please don't post anything back to us.** We do not have a returns address
+>   published at the moment, and I don't want you out of pocket for postage.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur, dass ihre Anfrage auf ein Wort von ihr hin an den
+Owner geht. **Keine Erstattung und kein Ersatz zugesagt, angeboten oder
+abgelehnt** — sie hat nichts gefordert. **Keine Aussage darüber, ob die
+Werbeaussagen zutreffen** — weder bestätigt noch bestritten. **Nicht behauptet,
+Kauschaden sei nicht gedeckt.** Kein Betrag, keine Frist, keine
+Rücksendeadresse. **Ihre berufliche Signatur und die Kanzleianschrift werden
+nicht aufgegriffen** und spielen für die Behandlung keine Rolle. Kein
+Eskalationsmarker im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

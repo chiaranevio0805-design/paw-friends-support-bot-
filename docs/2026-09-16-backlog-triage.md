@@ -699,3 +699,80 @@ keine Absage, kein Betrag, keine rechtliche Einordnung.**
 - **Sieben Währungsfälle** (#7368, #7581, #4975, #7001, #6804, #7114, #6205).
 - **Drei Kunden benennen Werbequellen außerhalb der Produktseiten**; zwei davon
   sprechen von einer zugesagten Erstattung.
+
+---
+
+## Lauf 15:20 UTC
+
+**Zwei neue Vorgänge.**
+
+### 🚩🚩 #7378 — Gary Green (`gary.green53@gmail.com`), 16.09. 14:46 UTC — Versagen genau am beworbenen Merkmal
+
+**Bestellung:** #7378, 23.08.2026, **29,95 £**, **2 × Paw-Friends™-Fluffys**,
+Penkridge (GB). Versand 03.09., Yanwen, `UL478624543YP`. **Erstkontakt.**
+
+Betreff: **„Fluffy not so indestructible."** — **fünfzehnte Nennung.**
+
+> *„So I bought these to see if they would last longer than others. As an EBT
+> is a powerful dog. So 2 days in. **The seams split**."*
+
+**Das ist der bisher direkteste Treffer zwischen Beschwerde und eigenem
+Werbetext.** Die **Fluffys**-Beschreibung sagt wörtlich, dreimal:
+
+- *„✓ **Triple-stitched at every seam**"*
+- *„**Triple-stitched seams** — ears, joints, belly. **The places he goes for
+  first.**"*
+- *„Most plush toys fail the same way: **one seam gives**, the filling comes
+  out, done."*
+
+**Er beschreibt exakt das Versagen, das der Text ausschließt** — und er hat
+**Fluffys** gekauft, also den Artikel, auf dem dieser Text steht. Anders als
+bei den „indestructible"-Zitaten muss hier nichts vermutet werden.
+
+**Damit ist es der vierte Fall dieser Art:** #7754, #6806 und #7988 am Seil
+(*„Rope-reinforced construction for extra durability"*), jetzt #7378 an den
+Nähten.
+
+**Der Entwurf zitiert ihm den Werbetext wörtlich zurück** — das ist belegt —
+**und zieht ausdrücklich keine Folgerung daraus.** Keine Aussage, ob das
+Produkt mangelhaft ist. **Keine Aussage über seinen Hund**, obwohl er die
+Rasse selbst nennt: Dass er einen kräftigen Hund hat, ist **kein Argument
+gegen ihn.**
+
+**Er fordert nichts.** Der Entwurf bietet an, auf ein Wort hin eine
+Erstattungsanfrage daraus zu machen.
+
+**Label:** `Bot/Escalated - Owner Attention`. Fotos nicht geöffnet.
+
+---
+
+### #6233 — Darlene Burke (`dburkecpa@msn.com`), 16.09. 14:40 UTC
+
+**Bestellung:** #6233, 15.08.2026, **46,08 £**, 1 × Zahnbuddy + 2 × Plushies
+(*Elk*, *pig*), Niceville, Florida (US). Versand 24.08., 4PX Economic
+Registered. Versandmail zeigt `BUY 1 AND GET 1 FREE (-$21.33)` — **Dollar,
+achter Fall.** **Erstkontakt, ein Satz:**
+
+> *„Well my dog destroyed this toy within hours, **so your claims are
+> unfounded**."*
+
+**Sie fordert nichts** — sie stellt fest. Der Entwurf unterstellt ihr keine
+Forderung, **bestreitet ihre Feststellung nicht und bestätigt sie nicht**, und
+bietet an, auf ein Wort hin eine Erstattungsanfrage daraus zu machen.
+
+**Ihre Signatur weist sie als CPA mit Kanzleianschrift aus.** Das wird **nicht
+aufgegriffen** und ändert an der Behandlung nichts — weder zu ihren Gunsten
+noch zu ihren Lasten.
+
+**Label:** `Bot/Needs Approval`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Siebzehn Vorgänge heute.**
+- **Vier Fälle, in denen das Versagen genau an dem Merkmal auftrat, das der
+  Werbetext hervorhebt** — dreimal das Seil, jetzt einmal die Naht. **Alle vier
+  sind aus dem eigenen `descriptionHtml` belegt**, nicht aus Kundenangaben.
+- **Fünfzehn Kunden** mit „indestructible"-artigen Zitaten.
+- **Acht Währungsfälle.**
