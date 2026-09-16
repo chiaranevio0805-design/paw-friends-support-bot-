@@ -6222,6 +6222,98 @@ bestimmen. Foto nicht geöffnet. Kein Eskalationsmarker im Text.
 
 ---
 
+## #7114 — Geoffrey Russell (geoffruss123@gmail.com) — dritte Fassung
+
+**Betreff:** Re: Refund
+
+**Neu am 16.09. 04:13 UTC — sein DRITTER Kontakt innerhalb von 26 Stunden,
+zum dritten Mal in einem neuen Thread. Erstmals nennt er die Werbung und
+erstmals sagt er, was er will: eine Erstattung.**
+
+> Dear Geoffrey,
+>
+> You have now written three times and had nothing back from us. I am not going
+> to start with an apology and then hand you a third round of silence.
+>
+> **You have told me what you want this time — a refund — and that is the part
+> I can actually act on.** Your order #7114 is with the shop owner as a refund
+> request, in your words, not summarised into something smaller.
+>
+> **On "didn't hold up like you said":** I am not going to argue with you about
+> what our advertising said, and I am not in a position to rule on whether it
+> was accurate. That is the owner's to answer, and I have passed it on as your
+> point rather than folding it into the rest.
+>
+> **What I cannot do is authorise the refund myself.** So I am not promising you
+> one — you have had enough words from us. What I will not do is send you a
+> refusal in its place.
+>
+> **One practical thing:** please don't post them back. We do not have a returns
+> address published at the moment, and I don't want you paying postage on top of
+> everything else.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **als Erstattungsanfrage** und eine
+Nachfass-Zusage. **Keine Erstattung zugesagt, kein Betrag, keine Absage, keine
+Frist.** Das dreimalige Ausbleiben einer Antwort wird **offen als unser
+Versäumnis benannt**. **Keine Aussage darüber, was die Werbung gesagt hat oder
+ob sie zutrifft.** **Nicht behauptet, Kauschaden sei nicht gedeckt.** Keine
+Rücksendeadresse — ausdrücklich, weil es keine gibt, samt Warnung. Kein
+Eskalationsmarker im Text.
+
+---
+
+## #6804 — Jill Brown (jillbindewald@gmail.com)
+
+**Betreff:** Re: A shipment from order #6804 is on the way
+
+**Neu am 16.09. 03:38 UTC. Erstkontakt. Zehnte Rückgabefrage — und die
+zehnte, die nicht beantwortet werden kann.**
+
+> Dear Jill,
+>
+> Thank you for writing, and I'm sorry — three minutes is not what you paid
+> for.
+>
+> **You asked a direct question, so here is a direct answer: at the moment
+> there is no return route I can give you.** We do not have a returns address
+> published. I would rather tell you that plainly than send you round in a
+> circle. **Please don't post anything back yet** — you would pay the postage
+> and the parcel would have nowhere to arrive. As soon as there is a route, you
+> will get it from us without having to ask again.
+>
+> **On the refund itself:** that decision is the shop owner's, not mine. I am
+> not going to promise you one I cannot authorise, and I am not going to give
+> you a refusal in its place. Your order went to him tonight with what you
+> wrote.
+>
+> **One thing that may matter to the decision, and I would rather ask than
+> assume:** your order was for two toys. If the second one is still unopened,
+> tell me — it is a different situation from the one your dog has had, and I do
+> not want the two treated as one thing by mistake.
+>
+> If you have heard nothing in a few days, reply here and I will chase it
+> rather than leave you waiting.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner, eine Nachfass-Zusage, und die
+Zusage, dass sie die Rücksendeadresse **unaufgefordert** bekommt, sobald es
+eine gibt. **Keine Erstattung zugesagt, kein Betrag, keine Absage, keine
+Frist.** **Keine Rücksendeadresse — ausdrücklich, weil es keine gibt**, samt
+Warnung. **Nicht behauptet, Kauschaden sei nicht gedeckt.** Keine Aussage zur
+Werbung — sie zitiert nichts. **Nach dem zweiten Stück wird gefragt, nicht
+unterstellt**, dass es unbenutzt ist. Kein Eskalationsmarker im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

@@ -137,3 +137,78 @@ als unser Versäumnis, mit dem wahren Grund.**
 **Erstattungsliste:** #6528 stand bereits als *unbenutzt* darauf und **bleibt
 dort** — **Betrag weiterhin offen**, weil 30/75 % nicht entschieden sind und der
 Anteil der drei Stücke nur im Admin bestimmt werden kann.
+
+---
+
+## Lauf 04:20 UTC
+
+**Zwei neue Vorgänge.**
+
+### 🚩🔁 #7114 — Geoffrey Russell (`geoffruss123@gmail.com`), 16.09. 04:13 UTC — DRITTER Kontakt in 26 Stunden
+
+> *„The ears and the arms or gone. **Didn't hold up like you said**"*
+
+**Sein dritter Kontakt seit gestern 02:20 — und zum dritten Mal in einem
+neuen Thread.** Nach #4975 Darlene Futrel (vier Threads) ist er der Kunde mit
+der zweithöchsten Zahl separater Threads.
+
+**Zwei Dinge haben sich geändert:**
+
+1. **Er nennt erstmals die Werbung:** *„Didn't hold up like you said."* Damit
+   ist es keine bloße Kauschadenmeldung mehr — **Eskalationsauslöser
+   „bestrittene Werbeaussage"**, dazu **wiederholter erfolgloser Kontakt**.
+2. **Er sagt erstmals, was er will:** der Betreff lautet schlicht **„Refund"**.
+   In den ersten beiden Mails hatte er nichts gefordert, und beide Entwürfe
+   hatten das ausdrücklich offengelassen, statt für ihn zu entscheiden.
+   **Jetzt hat er selbst entschieden.**
+
+**Label:** heraufgestuft von `Bot/Needs Approval` auf
+`Bot/Escalated - Owner Attention`.
+
+**Dritte Entwurfsfassung** angelegt: gibt die Anfrage **als
+Erstattungsanfrage** weiter, benennt das dreimalige Ausbleiben einer Antwort
+offen als unser Versäumnis, sagt **keine Erstattung zu**, erteilt **keine
+Absage**, sagt **nichts darüber, was die Werbung besagt oder ob sie zutrifft**,
+und behauptet **nicht**, Kauschaden sei nicht gedeckt.
+
+**Erstattungsliste:** **nicht** aufgenommen — Kauschaden. Die Entscheidung
+liegt beim Owner.
+
+---
+
+### #6804 — Jill Brown (`jillbindewald@gmail.com`), 16.09. 03:38 UTC
+
+**Bestellung:** #6804, 20.08.2026, **30,54 £**, `FULFILLED`,
+**2 × Plushies** (*monkey* + *pig*), Bush, Louisiana (US). Versand 02.09.,
+**4PX Economic Registered**, `4PX3003122361278CN`. Versandmail zeigt
+`BUY 1 AND GET 1 FREE (-$21.16)` — **wieder Dollar.** **Erstkontakt.**
+
+> *„We opened this package today. After giving it to our dog he destroyed it
+> **within 3 minutes**. We are highly upset about this for the price we paid.
+> **How can I get a refund?**"*
+
+**Zehnte Rückgabefrage** seit dem 14.09. — und die zehnte, die nicht
+beantwortet werden kann, weil es seit 35 Tagen keine Rücksendeadresse gibt.
+
+**Namensabgleich:** Sie unterschreibt „Jill Brown", die Adresse lautet
+`jillbindewald@`. **Die Bestellung steht auf „Jill Brown" mit genau dieser
+Adresse** — **kein Widerspruch**, die Anrede ist gedeckt.
+
+**Zum zweiten Stück:** Sie schreibt „this package" und „destroyed **it**" —
+**ob das zweite Spielzeug noch ungeöffnet ist, geht daraus nicht hervor.** Der
+Entwurf **fragt danach und unterstellt es nicht.** Wäre es unbenutzt, wäre sie
+der achte Fall dieser Art.
+
+**Label:** `Bot/Needs Approval`. **Erstattungsliste:** nicht aufgenommen —
+Kauschaden für das geöffnete Stück; über ein etwaiges unbenutztes zweites kann
+erst nach ihrer Antwort entschieden werden.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Vier Vorgänge heute** (#7663, #6528, #7114, #6804), davon **drei
+  Wiederholungskontakte nach einer Vorlagen-Absage oder ohne jede Antwort.**
+- **Zehn Rückgabefragen**, keine beantwortbar.
+- **Zwei laufende Verhandlungen** mit offenem Ausgang: #5973 (40 % gegen 50 %)
+  und #6528 (30 % gegen 75 % oder Rückgabe).
