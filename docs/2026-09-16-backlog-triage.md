@@ -337,3 +337,153 @@ Admin zu bestimmen ist.
   Ware, die die Bedingung der Vorlage nachweislich erfüllt, und ist trotzdem
   nicht erfüllbar.**
 - **Die Adressfrage ist nach zwei Tagen erstmals beantwortet.**
+
+---
+
+## Lauf 11:20 UTC
+
+**Vier neue Vorgänge — und der schwerste Einzelbefund seit Beginn dieses Logs.**
+
+**Vorbemerkung:** Zwischen 09:50 und 10:25 sind heute früh **mindestens vier
+Antworten aus dem Shop hinausgegangen** (#6806 09:50, #7114 10:19, #5148 10:25,
+#7479 bereits gestern). Drei davon waren die Kauschaden-Vorlage, und **alle
+drei wurden innerhalb von 68 Minuten beantwortet.**
+
+---
+
+### ⛔⛔ #5148 — Trudi Wright (`truditrotter67@icloud.com`), 16.09. 11:00 UTC — eine zugesagte Erstattung ist nicht verzeichnet
+
+**Bestellung:** #5148, 08.08.2026, **27,95 £**, **2 × Plushies**, Newark (GB).
+
+**Was ihr gesagt wurde:**
+
+| Datum | Shop |
+|---|---|
+| 07.09. 11:45 | *„I can confirm that the **50% partial refund has now been processed** to your original payment method."* |
+| **16.09. 10:25** | *„I can confirm that the **50% partial refund has already been processed**."* |
+
+**Was in Shopify steht:**
+
+```
+displayFinancialStatus:  PAID
+totalRefundedSet:        0.00 GBP
+refunds:                 []
+```
+
+**Auf der Bestellung ist keine Erstattung verzeichnet. Keine.** Neun Tage nach
+der ersten Zusicherung.
+
+**Was daraus folgt und was ausdrücklich nicht:** Es ist **nicht** festgestellt,
+dass kein Geld geflossen ist — eine Zahlung über einen Weg, der nicht in die
+Bestelldaten zurückschreibt, wäre hier nicht sichtbar. **Festgestellt ist
+allein: In den Bestelldaten steht keine Erstattung, und die Bestellung gilt als
+vollständig bezahlt.** Der Entwurf sagt ihr genau das, mit diesem Vorbehalt —
+und **wiederholt die Zusicherung nicht ein drittes Mal.**
+
+**Der zweite Teil ist genauso schlecht:** Am **25.08.** wurde ihr geschrieben,
+ihre Ware sei *„eligible for return under our 30-day money-back guarantee"*,
+die Rückgabeanfrage sei **„forwarded to the relevant team"**, und sie solle
+**nichts zurückschicken, bis sie die Adresse erhalte**. **Das war vor 22
+Tagen. Die Adresse kam nie — weil es keine gibt.** Sie wurde also aufgefordert,
+auf etwas zu warten, das nicht existiert. Das ist **dieselbe Konstruktion wie
+die „Resolutions Team"-Zusage bei #1998 und #1084.**
+
+Ihre Ware ist **unbenutzt und in Originalverpackung** — sie erfüllt die
+Bedingung, die die Vorlage nennt. **Achter Fall dieser Art.**
+
+**Label:** `Bot/Escalated - Owner Attention`, **höchste Priorität — dies ist
+eine Zahlungsfrage, kein Supportfall.**
+
+**Für den Owner:** In den Zahlungsunterlagen nachsehen, ob die 50 % (13,98 £)
+tatsächlich ausgelöst wurden, und **dann entweder ausführen oder ihr belegen,
+wann sie abgegangen sind.** Beides ist besser als eine dritte Zusicherung.
+**Von hier wurde nichts ausgelöst** — `refundCreate` ist blockiert, und dies
+wäre ohnehin kein Regel-4-Fall.
+
+**Erstattungsliste:** **neu aufgenommen — #5148, 13,98 £ (50 % von 27,95 £),
+Trudi Wright, zugesagt und nicht verzeichnet.** Das ist der erste Eintrag mit
+einem belegten Betrag seit #2894.
+
+---
+
+### 🚩 #6806 — Jay Heap (`jayheap@gmail.com`), 16.09. 10:58 UTC
+
+**Bestellung:** #6806, 20.08.2026, **30,54 £**, 2 × Plushies, Sharpsburg,
+Georgia (US). Vorlage zugegangen **09:50**, Antwort **10:58 — 68 Minuten.**
+
+> *„I understand the policy, but a product advertised as durable should not be
+> destroyed in less than three hours by a mild-mannered dog. It is
+> disappointing that you are not standing behind the quality of the item. **I
+> would appreciate it if you would reconsider.**"*
+
+Er hat am 14.09. geschrieben, das Versagen habe **am Seil begonnen** — einer
+von drei Rope-Fällen (#7754, #6806, #7988) an genau dem Merkmal, das als
+*„Rope-reinforced construction for extra durability"* beworben wird.
+
+**Zweite Entwurfsfassung**: gibt die **ausdrückliche Bitte um erneute Prüfung**
+weiter, benennt die Vorlage als sachfremd, **hebt sie nicht auf**, sagt **keine
+Erstattung zu** und sagt **nichts darüber, ob das Produkt defekt ist** — sein
+Betreff lautet „Must be defective", das wird weder bestätigt noch bestritten.
+
+---
+
+### 🔁 #7114 — Geoffrey Russell, 16.09. 11:11 UTC — VIERTER Thread, und er korrigiert sich selbst
+
+Vorlage zugegangen **10:19**, Antwort **11:11 — 52 Minuten.**
+
+> *„I paid 30 dollars or more for a toy that claimed to hold up but doesn't.
+> **I have another order I'll be returning.** Thanks for the reply and better
+> understanding of your policy. **I must have gotten your product mixed up with
+> another one that claims if a pet can tear it apart, they'll replace it.**"*
+
+**Er zieht den Werbevorwurf von sich aus zurück.** Das ist in diesem ganzen Log
+bisher einmalig. **Es wird nicht gegen ihn verwendet und die Werbefrage nicht
+damit für erledigt erklärt** — dreizehn Kunden haben dasselbe beschrieben, und
+seine Richtigstellung geht **mitsamt** dem Rest an den Owner.
+
+**Zwei offene Punkte:** Er nennt **„30 dollars or more"**, Shopify zeigt
+**28,50 £** — sechster Währungsfall, **nicht überbrückt**. Und er erwähnt eine
+**zweite Bestellung**, die unter seiner Adresse **nicht auffindbar** ist; der
+Entwurf **fragt danach und rät nicht.**
+
+**Vierte Entwurfsfassung.** Vierter separater Thread desselben Kunden.
+
+---
+
+### 🚩 `jet73@y7mail.com`, 16.09. 09:20 UTC — nicht zuzuordnen
+
+Betreff: **„12.45 mins"**.
+
+> *„That's how long your frog lasted before my Cavoodle ate its eye. Really
+> disappointed. **Would like a refund.**"*
+
+**`email:jet73@y7mail.com` → kein Treffer.** Die Mail nennt **weder Namen noch
+Bestellnummer**, also gibt es nichts, wogegen sich abgleichen ließe. **Keine
+Namens- oder Ähnlichkeitssuche als Ersatz** — anders als bei Jim Wigo gibt es
+hier nicht einmal einen Namen.
+
+**Nichts über eine Bestellung mitgeteilt, keine Anrede mit Namen** (es liegt
+keiner vor), **keine Zahlungsdaten erbeten.** Der Entwurf bittet um
+Bestellnummer oder Checkout-Adresse.
+
+**Nebenbefund:** `y7mail.com` ist ein australischer Anbieter, und *Cavoodle*
+ist ein überwiegend australischer Begriff. **Das ist eine Beobachtung, keine
+Feststellung** — der Lieferort ist nicht bekannt. Falls Australien, gilt der
+Befund aus dem 01:20-Lauf (#7663) auch hier.
+
+**Label:** `Bot/Escalated - Owner Attention` (nicht zuzuordnen + Erstattungs-
+forderung).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Zehn Vorgänge heute.**
+- **#5148 ist der erste Fall, in dem eine dem Kunden zugesagte Zahlung in den
+  Bestelldaten nicht auffindbar ist.** Erstattungsliste: **13,98 £, belegt.**
+- **Drei Vorlagen-Absagen heute früh, alle drei innerhalb von 68 Minuten
+  beantwortet.** Die Quote seit dem 11.09. bleibt unverändert: **jede
+  beantwortete Absage eskaliert.**
+- **Dreizehn Kunden** mit Werbezitaten — **einer davon hat sich heute selbst
+  korrigiert.**
+- **Zwölf Rückgabefragen**, keine beantwortbar.

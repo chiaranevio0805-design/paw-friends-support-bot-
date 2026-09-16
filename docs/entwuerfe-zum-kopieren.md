@@ -6440,6 +6440,207 @@ aufgehoben.** Keine Aussage zur Werbung. Kein Eskalationsmarker im Text.
 
 ---
 
+## #5148 — Trudi Wright (truditrotter67@icloud.com) — ⛔ zugesagte Erstattung ist in Shopify nicht verzeichnet
+
+**Betreff:** Re: Plushies
+
+**Neu am 16.09. 11:00 UTC. Ihr wurde am 07.09. UND heute 10:25 gesagt, eine
+50-%-Erstattung sei „processed". In Shopify ist auf #5148 KEINE Erstattung
+verzeichnet: `totalRefundedSet` = 0,00 £, `refunds: []`, Status `PAID`.
+Dieser Entwurf wiederholt die Zusicherung nicht.**
+
+> Dear Trudi,
+>
+> You have been told twice that the refund was processed, and you are telling
+> me it has not arrived. I went and looked rather than repeat it a third time,
+> and I would rather give you what I found than reassure you again.
+>
+> **Our order system shows no refund recorded against your order.** The order
+> still shows as paid in full, with nothing refunded against it. I want to be
+> careful here: if the money was sent through a different route that does not
+> write back to our order records, it would not show up in what I can see. So I
+> am not going to tell you flatly that nothing was sent. **What I am not going
+> to do is tell you a third time that it has been processed, because I cannot
+> see that it has.**
+>
+> This has gone to the shop owner this morning as an urgent payment question,
+> not as a support ticket. He is the only one who can look at the actual
+> payment records and either complete the refund or show you when it left.
+>
+> **Two things you are owed regardless:**
+>
+> - **On 25 August you were told your return request had been forwarded to "the
+>   relevant team", who would send you the return address.** That was
+>   twenty-two days ago and no address was ever sent. The honest reason is that
+>   **we do not have a returns address published at all.** You were told to wait
+>   for something that does not exist, and you were right to keep chasing.
+> - **Please still don't post the toys anywhere.** They are unused and in
+>   their original packaging, and if you send them now you will pay postage on
+>   a parcel with no destination.
+>
+> I am not going to promise you a date. If you have heard nothing by the end of
+> the week, reply here and I will chase it again rather than leave it with you.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner **als dringende
+Zahlungsfrage** und eine Nachfass-Zusage. **Die 50 % werden NICHT erneut als
+ausgeführt bestätigt** — das ist der Kern. **Es wird aber auch nicht behauptet,
+es sei nichts gezahlt worden**: Gesagt wird nur, was in den Bestelldaten steht,
+mit dem ausdrücklichen Vorbehalt, dass eine Zahlung über einen anderen Weg
+dort nicht erscheinen würde. **Keine neue Erstattung zugesagt, kein Betrag
+zugesagt, kein Datum genannt.** **Die unerfüllte Zusage vom 25.08. wird offen
+benannt, mit dem wahren Grund.** **Keine Rücksendeadresse — es gibt keine**,
+samt Warnung. **Keine rechtliche Einordnung** und **kein Hinweis auf
+Chargeback** — das ist ihre Entscheidung, nicht unser Vorschlag. Kein
+Eskalationsmarker im Text.
+
+---
+
+## #6806 — Jay Heap (jayheap@gmail.com) — zweite Fassung
+
+**Betreff:** Re: Must be defective
+
+**Ersetzt den Entwurf vom 14.09., der ihn nie erreicht hat. Ihm ist heute
+09:50 die Kauschaden-Vorlage zugegangen; er hat 68 Minuten später
+geantwortet.**
+
+> Dear Jay,
+>
+> Thank you for coming back, and for putting it as plainly as you did.
+>
+> **You asked us to reconsider. I cannot do that from here** — the decision was
+> not mine, and I am not going to pretend I can reverse it. What I can do is
+> make sure it is actually looked at by the person who can, and that is where
+> your order went this morning, with your sentence in your own words: a product
+> advertised as durable should not come apart in under three hours with a
+> mild-mannered dog.
+>
+> **I am not going to defend this morning's reply to you.** It answered the
+> policy question. It did not answer the point you were making.
+>
+> **On the rope:** you said the failure started at the rope and spread to the
+> side. That detail went on separately rather than being folded into the rest,
+> because you are not the first person to describe it starting there.
+>
+> **One practical thing:** please don't post the toy back yet. We have no
+> returns address published, so it would have nowhere to arrive and you would
+> be out the postage.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner **mit der ausdrücklichen
+Bitte um erneute Prüfung** — nicht deren Ergebnis. **Keine Erstattung zugesagt,
+kein Ersatz, kein Betrag, keine Absage, keine Frist.** Die Absage von heute
+früh wird **als sachfremd benannt, aber nicht aufgehoben.** **Keine Aussage
+darüber, ob die Werbung zutrifft** und **keine Aussage darüber, ob das Produkt
+defekt ist** — sein Betreff lautet „Must be defective", das wird **weder
+bestätigt noch bestritten.** Der Rope-Befund wird ihm gegenüber **nicht
+ausgebreitet**; ihm wird nur gesagt, dass er damit nicht allein ist. Foto nicht
+geöffnet. Keine Rücksendeadresse. Kein Eskalationsmarker im Text.
+
+---
+
+## #7114 — Geoffrey Russell (geoffruss123@gmail.com) — vierte Fassung
+
+**Betreff:** Re: A shipment from order #7114 is on the way
+
+**Neu am 16.09. 11:11 UTC, in einem VIERTEN Thread. Ihm ist heute 10:19 die
+Vorlage zugegangen. Bemerkenswert: Er zieht den Werbevorwurf VON SICH AUS
+zurück. Und er erwähnt eine zweite Bestellung, die unter seiner Adresse nicht
+auffindbar ist.**
+
+> Dear Geoffrey,
+>
+> Thank you — and I want to say plainly that you did something most people
+> don't: you went back and checked, and then told us you may have had us
+> confused with another brand. I am not going to take advantage of that.
+>
+> **It does not settle the question.** You are the thirteenth person this month
+> to tell us a toy did not hold up the way they understood it was sold. Whether
+> our advertising created that impression is the shop owner's to answer, and it
+> went to him this morning — **including your own correction, not just the part
+> that suits us.**
+>
+> **On the refund:** I cannot authorise one, so I am not going to promise you
+> one, and I am not going to give you another refusal either. Your order is in
+> front of the owner.
+>
+> **On the other order you mention:** I cannot find a second order under the
+> email address you are writing from. Rather than guess my way to someone
+> else's record, could you reply with the order number, or the email address
+> used at checkout? One line is enough.
+>
+> **And please don't post anything back yet** — we have no returns address
+> published, and I don't want you paying postage on a parcel with nowhere to
+> go.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner **einschließlich seiner
+eigenen Richtigstellung**, und die Zuordnung der zweiten Bestellung nach seiner
+Antwort. **Keine Erstattung zugesagt, kein Betrag, keine Absage, keine Frist.**
+**Seine Richtigstellung wird nicht gegen ihn verwendet** und die Werbefrage
+nicht damit für erledigt erklärt. **Keine Bestelldaten zu einer zweiten
+Bestellung** — unter seiner Adresse ist keine auffindbar, und es wird **nicht
+geraten**. Keine Aussage zum Preis in Dollar gegen Pfund — **nicht
+überbrückt**. Keine Rücksendeadresse. Kein Eskalationsmarker im Text.
+
+---
+
+## `jet73@y7mail.com` — Absenderadresse steht auf keiner Bestellung
+
+**Betreff:** Re: 12.45 mins
+
+**Neu am 16.09. 09:20 UTC. Unter der Absenderadresse liegt keine Bestellung,
+und die Mail nennt weder Namen noch Bestellnummer. Deshalb wird hier nichts
+über eine Bestellung gesagt.**
+
+> Hello,
+>
+> Thank you for writing, and I'm sorry — twelve and a half minutes is not what
+> anyone hopes for.
+>
+> **I can't match your email address to an order**, and there is no order number
+> or name in your message, so I am not able to look yours up. I am not going to
+> guess my way from an address to somebody's order record — that protects you as
+> much as anyone else.
+>
+> Could you reply with **either the order number or the email address you used
+> at checkout**? One line is enough. I am not asking for any payment or card
+> details, and you should never send those to us or to anyone by email.
+>
+> As soon as I can match it, your refund request goes to the shop owner — he is
+> the one who decides it — and I will tell you plainly what comes back. I am not
+> going to promise you a refund before then, and you will not get a refusal from
+> me in the meantime.
+>
+> One thing worth saying now: **please don't post the toy back anywhere yet.**
+> We do not have a returns address published, so it would have nowhere to
+> arrive.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur, dass die Anfrage nach Zuordnung an den Owner geht und
+die Antwort weitergegeben wird. **Keine Erstattung zugesagt, kein Betrag, keine
+Absage.** **Keine Bestellnummer, kein Datum, kein Artikel, keine Adresse
+genannt** — es ist keine Bestellung zuzuordnen, und es wurde **keine Namens-
+oder Ähnlichkeitssuche als Ersatz herangezogen.** **Keine Anrede mit Namen**,
+weil kein Name vorliegt. **Keine Zahlungsdaten erbeten** — ausdrücklich
+abgeraten. Keine Rücksendeadresse. Kein Eskalationsmarker im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
