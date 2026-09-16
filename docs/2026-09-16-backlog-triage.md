@@ -776,3 +776,80 @@ noch zu ihren Lasten.
   sind aus dem eigenen `descriptionHtml` belegt**, nicht aus Kundenangaben.
 - **Fünfzehn Kunden** mit „indestructible"-artigen Zitaten.
 - **Acht Währungsfälle.**
+
+---
+
+## Lauf 16:20 UTC
+
+**Zwei neue Vorgänge — einer davon ist ein zweiter Fall der Art #5148.**
+
+### ⛔ #7547 — Luke Prior (`lukepriora20@hotmail.com`), 16.09. 15:33 UTC — er wartet auf eine Erstattung, die nie veranlasst wurde
+
+**Bestellung:** #7547, 24.08.2026, **19,95 £**, `PAID`, **`totalRefundedSet`
+0,00 £**, 1 × Plushies, Wisbech (GB). Versand 03.09., Yanwen,
+`UL478624693YP`.
+
+> *„After some big claims about your product, you did not live up to, I would
+> like a refund as per your policy. […] I have sent photo and replied to
+> e-mails. **Waiting on a refund please**"*
+
+**Der ganze Verlauf, nachgeprüft:**
+
+| Datum | Wer | Was |
+|---|---|---|
+| 11.09. 18:46 | Prior | *„My order hasn't turned up […] therefore **I would like a refund** as not willing to wait any longer and want to go elsewhere"* |
+| 13.09. 11:52 | Shop | Antwort **nur zur Lieferzeit**. Erstattung nicht erwähnt. |
+| 13.09. 21:34 | Prior | *„It's not like I was given the choice to cancel my order"* |
+| 15.09. 07:25 | Shop | Antwort **nur zur Lieferzeit und Zustellung**. Erstattung erneut nicht erwähnt. |
+| 15.09. 10:02 | Prior | (im gestrigen Log erfasst) |
+| **16.09. 15:33** | **Prior** | *„Waiting on a refund please"* |
+
+**Er wartet auf etwas, das nie veranlasst und ihm auch nie abgesagt wurde.**
+Seine Bitte vom 11.09. ist **dreimal** an unseren Antworten vorbeigegangen.
+`totalRefundedSet` steht auf **0,00 £**.
+
+**Das ist nicht derselbe Fall wie #5148** — Trudi Wright wurde **ausdrücklich
+gesagt**, die Erstattung sei ausgeführt. **Luke Prior wurde nie etwas gesagt,
+und genau daraus ist seine Erwartung entstanden.** Das Ergebnis ist dasselbe:
+**ein Kunde wartet auf Geld, das niemand freigegeben hat.**
+
+**Der Entwurf rückt das ausdrücklich gerade** — er sagt ihm klar, dass **keine
+Erstattung veranlasst ist**, damit er nicht weiter wartet, und **erteilt
+zugleich keine Absage.**
+
+**Wichtige Einordnung für den Owner:** Er hat die Erstattung **vor Zustellung**
+verlangt, weil die Wartezeit unzumutbar geworden war — **nicht** wegen eines
+zerkauten Spielzeugs. **Das ist ein anderer Fall als Kauschaden**, so wie
+#7048 Josephine Carr. Der Entwurf gibt ihn ausdrücklich so weiter.
+
+**Label:** `Bot/Escalated - Owner Attention`, **hohe Priorität.**
+**Erstattungsliste:** **als ungeklärt aufgenommen — #7547, 19,95 £, Luke
+Prior, Erstattungswunsch vor Zustellung, dreimal übergangen.**
+
+---
+
+### #8377 — Sarah Phillips (`sarahphillipsjones22@gmail.com`), 16.09. 15:31 UTC
+
+**Bestellung:** #8377, 07.09.2026, **19,95 £**, 1 × Plushies, Port Talbot
+(Wales). Versand 08.09., Yanwen, `UL493237232YP`. **Erstkontakt.**
+
+> *„I've received the plushie and my dog has had it for **10 mins** and the ear
+> has broken off."*
+
+**Sie fordert nichts.** Der Entwurf unterstellt ihr keine Forderung, behauptet
+nicht, Kauschaden sei nicht gedeckt, und bietet an, auf ein Wort hin eine
+Erstattungsanfrage daraus zu machen. Bild nicht geöffnet.
+
+**Label:** `Bot/Needs Approval`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Neunzehn Vorgänge heute.**
+- **Zwei Kunden warten auf Geld, das nicht freigegeben ist**: #5148 (ihr wurde
+  zweimal gesagt, es sei ausgeführt) und **#7547 (ihm wurde nie etwas gesagt).**
+  **Beide Erwartungen sind durch unsere Antworten entstanden, nicht durch die
+  Kunden.**
+- **Erstattungsliste mit belegten Beträgen:** #2894 (19,95 £), #5148 (13,98 £),
+  **#7547 (19,95 £, ungeklärt).**

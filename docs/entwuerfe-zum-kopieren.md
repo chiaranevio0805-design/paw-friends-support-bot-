@@ -7005,6 +7005,109 @@ Eskalationsmarker im Text.
 
 ---
 
+## #7547 — Luke Prior (lukepriora20@hotmail.com) — zweite Fassung: seine Erstattungsbitte wurde dreimal übergangen
+
+**Betreff:** Re: Poor all round
+
+**Neu am 16.09. 15:33 UTC. Er schreibt „Waiting on a refund please" — er
+glaubt, eine Erstattung sei unterwegs. **Es wurde ihm nie eine zugesagt, und
+es wurde ihm auch nie abgesagt.** Seine Bitte vom 11.09. ist dreimal
+unbeantwortet geblieben. Das muss geradegerückt werden, bevor er länger
+wartet.**
+
+> Dear Luke,
+>
+> You wrote that you are waiting on a refund. **I have to correct that, and I
+> would rather do it now than let you wait on something that is not coming on
+> its own.**
+>
+> **No refund has been arranged, and none has been refused either.** You asked
+> for one on 11 September, when the parcel had not arrived and you said you did
+> not want to wait any longer. You were answered on the 13th and again on the
+> 15th — both times about the delivery, and **neither time about the refund you
+> had asked for.** That is three times your actual question went past us. I am
+> not going to pretend otherwise and I am not going to leave you expecting money
+> that nobody has authorised.
+>
+> **What I can do is the part that is mine.** Your request has gone to the shop
+> owner today, flagged as what it actually is: **a refund asked for before the
+> goods arrived, because the wait had become unacceptable** — not a complaint
+> about a chewed toy. Those are different things and I did not want them
+> merged.
+>
+> **What I cannot do is authorise it.** So you will get no promise from me, and
+> no refusal either. If you have heard nothing in a few days, reply here and I
+> will chase it rather than let it drift a fourth time.
+>
+> **One practical thing:** please don't post the toy back. We do not have a
+> returns address published, so it would have nowhere to arrive and you would
+> be out the postage on top.
+>
+> On the delivery itself: your order shipped on 3 September from our
+> international warehouse because the UK warehouse was sold out. You were told
+> that at the time, and it was true — I am not going to dress it up differently
+> now.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner **mit der richtigen
+Einordnung** (Erstattungswunsch vor Zustellung, nicht Kauschaden) und eine
+Nachfass-Zusage. **Keine Erstattung zugesagt, kein Betrag, keine Frist, keine
+Absage.** **Der Kern ist die Richtigstellung:** Ihm wird ausdrücklich gesagt,
+dass **keine Erstattung veranlasst ist** — damit er nicht weiter auf Geld
+wartet, das niemand freigegeben hat. **Das dreimalige Übergehen seiner Bitte
+wird offen als unser Versäumnis benannt.** **Keine Aussage zur Werbung**
+(„big claims") — weder bestätigt noch bestritten. **Herkunft origin-neutral,
+aber wahrheitsgemäß bestätigt**, weil sie ihm bereits offen genannt wurde.
+Foto nicht geöffnet. Keine Rücksendeadresse, samt Warnung. Kein
+Eskalationsmarker im Text.
+
+---
+
+## #8377 — Sarah Phillips (sarahphillipsjones22@gmail.com)
+
+**Betreff:** Re: (ohne Betreff)
+
+**Neu am 16.09. 15:31 UTC. Erstkontakt, zwei Zeilen. Sie fordert nichts.**
+
+> Dear Sarah,
+>
+> Thank you for letting us know, and I'm sorry — ten minutes is not what you
+> ordered it for.
+>
+> Your order #8377 reached you recently, so it did not last long at all.
+>
+> **You haven't asked us for anything, so I am not going to decide that for
+> you.** If you would like a refund considered, say so in one line and it goes
+> to the shop owner as a refund request rather than as feedback. If you would
+> prefer a replacement, or simply wanted us to know, that is fine too and
+> nothing further is needed from you.
+>
+> Two things I would rather say now than have you find out later:
+>
+> - I cannot authorise a refund myself, so you will get neither a promise nor a
+>   refusal from me. That decision is the shop owner's.
+> - **Please don't post the toy back to us.** We do not have a returns address
+>   published at the moment, and I don't want you paying postage for nothing.
+>
+> I have not opened the picture beyond seeing that it is there. If it matters
+> to the decision, the owner will come back to you about it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur, dass ihre Anfrage auf ein Wort von ihr hin an den
+Owner geht. **Keine Erstattung und kein Ersatz zugesagt, angeboten oder
+abgelehnt** — sie hat nichts gefordert. **Nicht behauptet, Kauschaden sei nicht
+gedeckt.** **Keine Aussage zur Werbung** — sie zitiert nichts. Bild nicht
+geöffnet. Kein Betrag, keine Frist, keine Rücksendeadresse. Kein
+Eskalationsmarker im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
