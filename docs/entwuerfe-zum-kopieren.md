@@ -7108,6 +7108,156 @@ Eskalationsmarker im Text.
 
 ---
 
+## #8548 — Enedino Calleros (nino0628@gmail.com) — ⏰ Adresskorrektur, Bestellung noch NICHT versandt
+
+**Betreff:** Re: Order 8548
+
+**Neu am 16.09. 16:43 und 16:49 UTC, zwei Mails. **Die Bestellung ist vom
+15.09. und steht auf `UNFULFILLED` — eine Korrektur ist also noch möglich,
+aber nur solange nicht versandt wird. Zeitkritisch.** Der Bot ändert keine
+Bestellungen; das muss im Admin geschehen.**
+
+> Dear Mr Calleros,
+>
+> Thank you for catching this quickly — and I'm glad you did, because the
+> timing still works in your favour.
+>
+> **Your order has not shipped yet.** That means the address can still be
+> corrected, which would not be true in a day or two.
+>
+> **What I cannot do is change it myself.** I do not have the ability to edit
+> orders, and I am not going to tell you it is done when it is not. What I have
+> done instead is put it in front of the shop owner **today, marked urgent and
+> marked as "must be corrected before dispatch"**, with the address exactly as
+> you gave it:
+>
+> > 2202 River Rd, River Grove, Illinois 60171
+>
+> **Please check that line and tell me immediately if I have any of it wrong** —
+> it is the version that will be used.
+>
+> I am not going to promise you that it will be changed in time, because that
+> is not mine to promise. What I will do is chase it if you have not heard back
+> by tomorrow — just reply to this message.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner **als dringend und als „vor
+Versand zu korrigieren"**, und eine Nachfass-Zusage. **Nicht zugesagt, dass die
+Adresse tatsächlich geändert wird** — das kann von hier niemand versprechen.
+**Keine Bestellung bearbeitet** — der Bot ändert keine Bestellungen, und das
+steht offen im Text. **Die alte Adresse wird ihm nicht zurückzitiert**, nur die
+neue, die er selbst genannt hat, zur Kontrolle. **Keine Erstattung, kein
+Betrag, keine Stornierung angesprochen** — danach hat er nicht gefragt. Kein
+Eskalationsmarker im Text.
+
+---
+
+## #7160 — Kimberly „Kim" Maguire (kmags43@gmail.com)
+
+**Betreff:** Re: Order #7160 confirmed
+
+**Neu am 16.09. 17:06 UTC. Erstkontakt. Sie beruft sich ausdrücklich auf die
+30-Tage-Garantie und fragt nach dem Verfahren — die vierzehnte Rückgabefrage.**
+
+> Dear Kim,
+>
+> Thank you for writing, and for setting out the dates so clearly.
+>
+> **You asked what the process is from here, so here is the honest answer
+> rather than a comfortable one: at the moment there is no return process I can
+> give you.** We do not have a returns address published. **Please don't post
+> the toy anywhere yet** — you would pay the postage and the parcel would have
+> nowhere to arrive. The moment there is a route, you will get it from us
+> without having to ask again.
+>
+> **On the guarantee you invoked.** I am not going to quote a condition back at
+> you that I cannot show you. I have looked, and the "unused and in original
+> condition" wording our replies keep citing **is not published on the product
+> page you bought from**. I am telling you that because it is true, not because
+> it settles anything.
+>
+> **On the refund itself:** I cannot authorise one, so you will get no promise
+> from me and no refusal either. Your request went to the shop owner this
+> evening with your dates — delivered on the 13th, first given to your dog on
+> the 14th, torn within fifteen minutes — because those dates matter and I did
+> not want them summarised away.
+>
+> I have not opened the photographs beyond seeing that they are there.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner **mit ihren Daten**, eine
+Nachfass-Zusage, und die Zusage, dass sie die Rücksendeadresse
+**unaufgefordert** bekommt, sobald es eine gibt. **Keine Erstattung zugesagt,
+kein Betrag, keine Absage, keine Frist.** **Keine Rücksendeadresse — es gibt
+keine**, samt Warnung. Die Feststellung zur Bedingung ist **belegt** (aus
+`descriptionHtml` und `shopPolicies`) und **es wird ausdrücklich gesagt, dass
+sie nichts entscheidet.** **Keine Aussage darüber, ob die Garantie Zerstörung
+abdeckt.** **Dollar gegen Pfund nicht überbrückt und nicht erwähnt.**
+**Das Trinkgeld auf ihrer Bestellung wird nicht angesprochen** — sie hat es
+nicht erwähnt, und es gehört dem Owner zur Entscheidung. Fotos nicht geöffnet.
+Kein Eskalationsmarker im Text.
+
+---
+
+## #8133 — Steve Raine (steveraine31@gmail.com)
+
+**Betreff:** Re: Plushie
+
+**Neu am 16.09. 16:45 UTC. Erstkontakt. Er verlangt **keine** Erstattung — er
+kündigt Bewertungen an. Und das, was er als falsche Behauptung bezeichnet, ist
+**der Produktname selbst**.**
+
+> Dear Steve,
+>
+> Thank you for writing, and for being straightforward about what you intend to
+> do.
+>
+> **You have not asked me for anything, and I am not going to talk you into or
+> out of anything.** What you write publicly is entirely your own business.
+> Nothing here is asked of you in return, and nothing about your order depends
+> on it.
+>
+> **On the claim you are disputing:** you are quoting the product's own name
+> back at us — it is sold as *"Designed for Furry Friends Who Destroy
+> Everything"*. I am not going to pretend you have misread anything. Whether
+> the product lives up to that name is the shop owner's to answer and not
+> mine, and your message went to him this evening in your own words.
+>
+> **One thing I would rather you knew**, since you mentioned not wanting to
+> waste more money returning it: **we do not have a returns address published
+> at the moment anyway.** So please don't post it — you would be out the
+> postage for nothing. If that changes, and if you want it, you will hear from
+> us.
+>
+> **And if you would like a refund considered after all**, say so in one line
+> and it goes to the owner as a refund request rather than as feedback. I
+> cannot authorise one myself, so you would get neither a promise nor a refusal
+> from me — but it would at least be in front of the person who decides.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner und das Angebot, auf ein
+Wort hin eine Erstattungsanfrage daraus zu machen. **Keine Erstattung zugesagt,
+kein Betrag, keine Absage** — er hat nichts gefordert. **Er wird nicht gebeten,
+die angekündigten Bewertungen zu unterlassen, zu ändern oder zu löschen**, und
+**nichts wird davon abhängig gemacht.** **Keine Aussage darüber, ob das Produkt
+dem Namen gerecht wird** — nur die belegte Feststellung, dass er den
+**Produktnamen** korrekt zitiert. **Nicht behauptet, Kauschaden sei nicht
+gedeckt.** Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im
+Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

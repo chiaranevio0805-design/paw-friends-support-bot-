@@ -853,3 +853,103 @@ Erstattungsanfrage daraus zu machen. Bild nicht geöffnet.
   Kunden.**
 - **Erstattungsliste mit belegten Beträgen:** #2894 (19,95 £), #5148 (13,98 £),
   **#7547 (19,95 £, ungeklärt).**
+
+---
+
+## Lauf 17:20 UTC
+
+**Drei neue Vorgänge — einer davon ist zeitkritisch und noch reparierbar.**
+
+### ⏰ #8548 — Enedino Calleros (`nino0628@gmail.com`), 16.09. 16:43 + 16:49 UTC
+
+**Bestellung:** #8548, **15.09.2026 02:09**, **28,51 £**,
+**`UNFULFILLED`** — **noch nicht versandt**, 2 × Plushies, hinterlegte Adresse
+in **Chicago, IL**.
+
+Zwei Mails, sechs Minuten auseinander:
+
+> *„I sent my order to wrong address how can I change it"*
+> *„The address is old address please ship to **2202 river rd river grove
+> Illinois 60171**"*
+
+**Das ist der einzige Vorgang seit Tagen, der noch vollständig zu retten ist —
+aber nur, solange nicht versandt wird.** Die Bestellung ist knapp 15 Stunden
+alt und steht auf `UNFULFILLED`.
+
+**Nicht getan:** die Bestellung geändert. **Der Bot bearbeitet keine
+Bestellungen** — das steht so in der Policy und gilt auch dann, wenn die
+Änderung dem Kunden offensichtlich hilft. Die Korrektur muss **im Admin**
+erfolgen. **Zweiter Fall dieser Art** nach #8505 John Marsh.
+
+**Der Entwurf** sagt ihm offen, dass hier niemand die Adresse ändern kann,
+gibt die neue Adresse **zur Kontrolle** zurück (er hat sie selbst genannt),
+zitiert die alte **nicht**, und **verspricht nicht, dass die Änderung
+klappt** — sondern nur, dass sie dem Owner heute als **dringend und „vor
+Versand zu korrigieren"** vorliegt.
+
+**Label:** `Bot/Needs Approval`, **zeitkritisch — heute oder gar nicht.**
+
+---
+
+### 🚩 #7160 — Kimberly „Kim" Maguire (`kmags43@gmail.com`), 16.09. 17:06 UTC
+
+**Bestellung:** #7160, 22.08.2026, **22,38 £ GBP** in Shopify, 1 × Plushies
+*monkey* **+ eine Position „Tip"**. Bestätigung weist **30,54 $ USD** aus
+(27,76 $ + 2,78 $ Trinkgeld) — **neunter Währungsfall.** Versand 02.09.,
+WB US, `WNBAA0497781825YQ`. **Erstkontakt.**
+
+> *„I'd like to request a refund **under the 30-day money back guarantee**. I
+> received my item on **Sunday September 13th**, gave it to my dog for the
+> first time on **September 14th** and **within 15 minutes** it was ripped.
+> […] **Please let me know what the process is from here.**"*
+
+**Vierzehnte Rückgabefrage** — und wieder keine Antwort möglich. Sie hat die
+Daten sauber dokumentiert; der Entwurf gibt sie **unverkürzt** weiter.
+
+**Sie hat freiwillig Trinkgeld gegeben.** Das wird im Entwurf **nicht
+angesprochen** — sie hat es nicht erwähnt, und wie damit umzugehen ist, ist
+eine Entscheidung des Owners. **Hier nur vermerkt, damit es bei einer
+Erstattung nicht übersehen wird.**
+
+**Label:** `Bot/Escalated - Owner Attention`. Fotos nicht geöffnet.
+
+---
+
+### 🚩 #8133 — Steve Raine (`steveraine31@gmail.com`), 16.09. 16:45 UTC
+
+**Bestellung:** #8133, 29.08.2026, **19,95 £**, 1 × Plushies, Boston Spa (GB).
+**Erstkontakt.**
+
+> *„It didn't last 10 minutes before the stuffing was ripped out. **I won't
+> waste any more of my money returning it.** I will be placing reviews
+> regarding **false claims that they are designed for dogs who destroy
+> everything** etc."*
+
+**Zwei Besonderheiten:**
+
+1. **Er verlangt keine Erstattung.** Er kündigt Bewertungen an und rechnet
+   nicht mehr mit uns. Der Entwurf **bittet ihn nicht**, davon abzusehen, und
+   macht **nichts davon abhängig** — er bietet ihm nur an, auf ein Wort hin
+   doch eine Erstattungsanfrage daraus zu machen.
+2. **Was er als falsche Behauptung bezeichnet, ist der Produktname selbst** —
+   *„Plushies – Designed for Furry Friends Who Destroy Everything"*. Das ist
+   **belegt**, es steht in den Bestelldaten und in jeder Shopify-Versandmail.
+   Der Entwurf stellt nur fest, **dass er korrekt zitiert** — und sagt
+   ausdrücklich **nicht**, ob das Produkt dem Namen gerecht wird.
+3. **Sein Satz über die Rücksendung ist unfreiwillig treffend:** Er will kein
+   Geld mehr für eine Rücksendung ausgeben — **es gibt ohnehin keine Adresse,
+   an die er sie schicken könnte.** Der Entwurf sagt ihm das, damit er nicht
+   doch noch Porto zahlt.
+
+**Label:** `Bot/Escalated - Owner Attention` (öffentliches Bewertungsmuster +
+bestrittene Werbeaussage).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Zweiundzwanzig Vorgänge heute.**
+- **#8548 ist der einzige offene Vorgang, der heute noch vollständig zu retten
+  ist** — und nur bis zum Versand.
+- **Vierzehn Rückgabefragen** seit dem 14.09., **keine beantwortbar.**
+- **Neun Währungsfälle.**
