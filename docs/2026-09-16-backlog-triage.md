@@ -953,3 +953,89 @@ bestrittene Werbeaussage).
   ist** — und nur bis zum Versand.
 - **Vierzehn Rückgabefragen** seit dem 14.09., **keine beantwortbar.**
 - **Neun Währungsfälle.**
+
+---
+
+## Lauf 18:20 UTC
+
+**Zwei neue Vorgänge — und ein technischer Befund an der Bestellbestätigung.**
+
+### 🚩 #7192 — Kelly Matisonn (`kellymatisonn@gmail.com`), 16.09. 17:51 UTC
+
+**Bestellung:** #7192, 22.08.2026, **42,90 £**, 1 × Zahnbuddy + 2 × Plushies,
+Weymouth (GB). Versand 02.09., Yanwen, `UL476311131YP`. **Erstkontakt.**
+
+> *„I purchased these toys as **they said they were very strong and would last
+> a long time**. In fact **they didn't last as long as the toys that are much
+> cheaper**. […] would like to return them for a **full refund**. The pictures
+> show the toy **after 5 minutes**."*
+
+**Fünfzehnte Rückgabefrage.** Ihr Preisvergleich mit billigeren Spielzeugen ist
+der dritte dieser Art nach #5973 Stephen Cooil (*„cheap pet shop toys that have
+lasted longer"*) und #7001 Keith Furman (*„same quality of a $5 toy from
+Wal-Mart"*). **Weitergegeben, nicht bewertet.**
+
+**Label:** `Bot/Escalated - Owner Attention`. Fotos nicht geöffnet.
+
+---
+
+### #5682 — Brian Carr (`sportsworldcardshop@gmail.com`), 16.09. 18:10 UTC
+
+**Bestellung:** #5682, **11.08.2026** — die älteste heute eingegangene
+Beschwerde —, **56,03 £ GBP**, Lebanon, Tennessee (US). Bezahlt per **PayPal**.
+**Erstkontakt, zwei Sätze:**
+
+> *„These items lasted my dogs about 3 minutes before being shredded to bits.
+> Absolute junk"*
+
+**Er fordert nichts.** Der Entwurf unterstellt ihm keine Forderung und bietet
+an, auf ein Wort hin eine Erstattungsanfrage daraus zu machen.
+
+---
+
+### 🔍 Befund: die Bestellbestätigung listet eine Position doppelt
+
+Bei der Prüfung von #5682 fiel eine Abweichung auf, die **nicht den Kunden
+betrifft, sondern die Bestätigungsmail selbst.**
+
+**Die Mail, die er weitergeleitet hat, listet:** frog, monkey, donkey, fox,
+**monkey** — also **fünf** Plushies, dazu die Bürste gratis.
+
+**Der Bestelldatensatz enthält:** frog, monkey, donkey, fox — also **vier**
+Plushies, dazu die Bürste.
+
+**Welche Angabe stimmt, ergibt die Arithmetik der Mail selbst:**
+
+```
+Zeilenpreise in der Mail:  18.92 + 18.93 + 18.93 + 18.93 + 18.93  =  94.64 $
+Zwischensumme der Mail:                                              75.71 $
+18.92 + 18.93 + 18.93 + 18.93                                    =  75.71 $
+```
+
+**Die Zwischensumme entspricht genau vier Spielzeugen.** Der Kunde ist also
+**nicht zu wenig beliefert und nicht zu viel belastet worden** — **die
+Bestätigungsmail rendert eine Position doppelt.**
+
+**Warum das trotzdem zählt:** Ein Kunde, der seine Bestätigung liest, zählt
+fünf Artikel und bekommt vier. Bei #5682 ist es nicht aufgefallen, weil er
+sich über die Haltbarkeit beschwert hat, nicht über die Menge. **Ob das nur
+diese eine Mail betrifft oder eine Vorlage, ist von hier aus nicht
+feststellbar** — die gesendeten Bestätigungen liegen nicht in diesem Postfach.
+
+**Dem Kunden wird davon nichts gesagt**, weil er nicht danach gefragt hat und
+ihm kein Nachteil entstanden ist. **Der Befund geht an den Owner.**
+
+**Zehnter Währungsfall** nebenbei: 75,71 $ auf der Bestätigung, **56,03 £** in
+Shopify.
+
+**Label:** `Bot/Needs Approval`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Vierundzwanzig Vorgänge heute.**
+- **Zehn Währungsfälle.**
+- **Fünfzehn Rückgabefragen**, keine beantwortbar.
+- **Neuer Befund:** Die Bestellbestätigung kann eine Position doppelt
+  ausweisen, ohne dass die Summe falsch wird. **Umfang unbekannt.**

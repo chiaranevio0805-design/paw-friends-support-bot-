@@ -7258,6 +7258,99 @@ Text.
 
 ---
 
+## #7192 — Kelly Matisonn (kellymatisonn@gmail.com)
+
+**Betreff:** Re: Refund order #7192
+
+**Neu am 16.09. 17:51 UTC. Erstkontakt. Sie verlangt ausdrücklich eine
+vollständige Erstattung und beruft sich auf die Haltbarkeitsaussage.**
+
+> Dear Kelly,
+>
+> Thank you for writing, and for saying plainly what you want.
+>
+> **On the refund:** I cannot authorise one. I am not going to promise you
+> something I have no standing to deliver, and I am not going to send you a
+> refusal in its place either. Your request went to the shop owner this evening
+> as a full refund request, in your words — including the comparison you drew,
+> that cheaper toys have lasted longer.
+>
+> **On what you were told before you bought:** you say they were sold as very
+> strong and long-lasting. I am not going to argue with you about that, and I
+> am not in a position to rule on whether our description holds up. That is the
+> owner's to answer.
+>
+> **On returning them — the part you asked about:** please **don't send
+> anything back yet.** We do not have a returns address published at the
+> moment, so a parcel would have nowhere to arrive and you would be out the
+> postage on top of everything else. The moment there is a return route, you
+> will get it from us without having to ask again.
+>
+> I have not opened the photographs beyond seeing that they are there. If they
+> matter to the decision, the owner will come back to you about them.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **als ausdrückliche Anfrage auf volle
+Erstattung**, eine Nachfass-Zusage, und die Zusage, dass sie die
+Rücksendeadresse unaufgefordert bekommt. **Keine Erstattung zugesagt, kein
+Betrag, keine Absage, keine Frist.** **Keine Aussage darüber, ob die
+Beschreibung zutrifft.** **Ihr Vergleich mit billigeren Spielzeugen wird
+weitergegeben, nicht bewertet.** **Nicht behauptet, Kauschaden sei nicht
+gedeckt.** Fotos nicht geöffnet. Keine Rücksendeadresse, samt Warnung. Kein
+Eskalationsmarker im Text.
+
+---
+
+## #5682 — Brian Carr (sportsworldcardshop@gmail.com)
+
+**Betreff:** Re: Order #5682 confirmed
+
+**Neu am 16.09. 18:10 UTC. Erstkontakt, zwei Sätze. Er fordert nichts.
+**Wichtig: Die Bestellbestätigung, die er weitergeleitet hat, listet EINEN
+Artikel mehr auf, als die Bestellung enthält — siehe Log. Das wird ihm NICHT
+gesagt**, weil er nicht danach gefragt hat und die Zwischensumme stimmt.**
+
+> Dear Brian,
+>
+> Thank you for telling us, and I'm sorry — three minutes across four toys is
+> not what you paid for.
+>
+> **You haven't asked me for anything, so I am not going to decide that for
+> you.** If you would like a refund considered, say so in one line and it goes
+> to the shop owner as a refund request rather than as feedback. If you would
+> prefer replacements, or simply wanted it on record, that is fine too and
+> nothing further is needed from you.
+>
+> Two things I would rather say now than have you find out the hard way:
+>
+> - I cannot authorise a refund myself, so you will get neither a promise nor a
+>   refusal from me. That decision is the shop owner's.
+> - **Please don't post anything back to us.** We do not have a returns address
+>   published at the moment, and I don't want you paying postage for nothing.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur, dass seine Anfrage auf ein Wort von ihm hin an den
+Owner geht. **Keine Erstattung und kein Ersatz zugesagt, angeboten oder
+abgelehnt** — er hat nichts gefordert. **Nicht behauptet, Kauschaden sei nicht
+gedeckt.** **Keine Aussage zur Werbung** — er zitiert nichts. **Die
+Abweichung zwischen seiner Bestätigungsmail und dem Bestelldatensatz wird ihm
+nicht mitgeteilt**: Die Zwischensumme der Mail entspricht rechnerisch **vier**
+Spielzeugen, er ist also nicht zu wenig beliefert worden, und ihn auf eine
+Zeile hinzuweisen, die es nie gab, würde nur Verwirrung stiften. **Der Befund
+geht an den Owner, nicht an ihn.** **Dollar gegen Pfund nicht überbrückt und
+nicht erwähnt.** Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker
+im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
