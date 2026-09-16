@@ -1039,3 +1039,68 @@ Shopify.
 - **Fünfzehn Rückgabefragen**, keine beantwortbar.
 - **Neuer Befund:** Die Bestellbestätigung kann eine Position doppelt
   ausweisen, ohne dass die Summe falsch wird. **Umfang unbekannt.**
+
+---
+
+## Lauf 19:20 UTC
+
+**Ein neuer Vorgang.**
+
+### 🚩🚩 #7525 — Carol Garvey (`carolgarvey2@hotmail.com`), 16.09. 19:14 UTC — fünfter Kontakt
+
+**Verlauf:** 10.09. (Sendung überfällig) → 11.09. (Antwort: internationales
+Lager) → 11.09. (sie bedankt sich, rügt fehlende Laufzeitangabe) → 13.09.
+(Antwort: *„You are most welcome!"*) → **15.09. 00:51: Ware da, enttäuscht,
+findet auf der Seite keine Rückgabeinformation, fragt ausdrücklich nach dem
+Weg zur Erstattung** → **16.09. 09:51: Kauschaden-Vorlage** → **16.09. 19:14:
+diese Mail.**
+
+**Ihre Frage vom 15.09. — „Please advise how I go about getting a refund" —
+ist bis heute unbeantwortet.** Die Vorlage hat sie nicht beantwortet, sondern
+eine andere Frage abgelehnt.
+
+**Vier Punkte in ihrer Mail:**
+
+1. **Lieferzeit** — über drei Wochen, zweimal selbst nachgefasst.
+2. **„indestructible"** in Anführungszeichen — **sechzehnte Nennung.**
+3. **Sie kündigt eine ehrliche Kundenbewertung an**, ausdrücklich über
+   Lieferzeit **und** Haltbarkeit.
+4. **Preisvergleich mit Pets at Home** — *„very similar dog toys for a fraction
+   of the price […] do not make the same claims about being indestructible, I
+   have found them to last considerably longer."* **Vierter Vergleich dieser
+   Art** nach #5973, #7001 und #7192.
+
+**Und ein fünfter Punkt, den bisher niemand gemacht hat:**
+
+> *„I am also surprised that **every response I have received has come directly
+> from you.** This gives the impression that the company may not be as large or
+> established as it is presented to be."*
+
+**Sie schließt aus dem Support auf die Größe des Unternehmens.** Der Entwurf
+**bestätigt das nicht und bestreitet es nicht** und **erfindet keine
+Geschichte** — weder „wir sind ein kleines Team" noch das Gegenteil. Er sagt
+ihr nur, dass sie mit der Beobachtung recht hat und dass hier keine
+Darstellung konstruiert wird, um sie zu beruhigen. **Das ist die Grenze
+zwischen ehrlich und geschwätzig; über interne Verhältnisse ist von hier
+nichts bekannt und wird nichts behauptet.**
+
+**Sie ist zugleich die Kundin, die am 15.09. als Erste von außen bestätigt
+hat, dass es auf der Seite keine Rückgabeinformation gibt.** Der Entwurf
+bestätigt ihr ausdrücklich: **Sie hat beim Suchen nichts übersehen — es ist
+nicht da.**
+
+**Label:** `Bot/Escalated - Owner Attention`. **Dritte Entwurfsfassung.**
+**Keine Erstattung zugesagt, keine Absage, kein Betrag, keine Bitte, die
+Bewertung zu unterlassen.**
+
+**Erstattungsliste:** nicht aufgenommen — Kauschaden. **Ihre unbeantwortete
+Verfahrensfrage ist davon getrennt und bleibt offen.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Fünfundzwanzig Vorgänge heute.**
+- **Sechzehn Kunden** mit „indestructible"-artigen Zitaten.
+- **Sechzehn Rückgabefragen** seit dem 14.09., **keine beantwortbar.**
+- **Vier Preisvergleiche** mit billigeren Spielzeugen anderer Anbieter.

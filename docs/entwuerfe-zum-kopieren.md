@@ -7351,6 +7351,81 @@ im Text.
 
 ---
 
+## #7525 — Carol Garvey (carolgarvey2@hotmail.com) — dritte Fassung
+
+**Betreff:** Re: Order 7525
+
+**Neu am 16.09. 19:14 UTC — ihr fünfter Kontakt. Ihr ist heute 09:51 die
+Kauschaden-Vorlage zugegangen. Sie kündigt eine Bewertung an, zitiert
+„indestructible", vergleicht mit Pets at Home — und macht eine Beobachtung,
+die bisher noch niemand gemacht hat: dass jede Antwort von derselben Person
+kommt.**
+
+> Dear Carol,
+>
+> Thank you for writing again, and for being as measured about it as you have
+> been throughout. You have now written five times, and I am not going to
+> answer the fifth one with another form letter.
+>
+> **On this morning's reply:** it answered a policy question you had not asked.
+> You had asked, on 15 September, **how to go about getting a refund** — and
+> that is the question that went unanswered, again. I am not going to defend
+> that.
+>
+> **So here is the answer you actually asked for, and it is not a good one:
+> there is currently no returns process I can give you.** We do not have a
+> returns address published — which is also why you could not find one on the
+> site when you looked. **You were not missing anything. It is not there.**
+> **Please don't post the toy anywhere**, or you will pay postage on a parcel
+> with no destination.
+>
+> **On the delivery:** over three weeks, and you had to chase it twice. That is
+> ours, not the courier's, and I am not going to point you at them for it.
+>
+> **On "indestructible":** I have looked, and that word does not appear on any
+> of our product pages. **I am not saying you did not see it** — several
+> customers have quoted it to us this month, and two have told us where they
+> saw it. Where it comes from is a question for the shop owner, and it has gone
+> to him as exactly that.
+>
+> **On your observation that every reply has come from me:** you are right that
+> it has, and I am not going to construct an impression for you either way. I
+> am not going to tell you a story about the size of the company to make you
+> feel better about it.
+>
+> **On a resolution:** I cannot authorise a refund. I am not going to promise
+> you one, and after five exchanges you have earned better than another
+> refusal, so you will not get one of those from me either. What I have done is
+> put your complaint in front of the shop owner tonight — the delivery time, the
+> advertising, the missing returns route and the fact that your actual question
+> has now gone unanswered twice.
+>
+> Your review is entirely your own business. Nothing here is asked of you in
+> return.
+>
+> If you have heard nothing in a few days, reply to me and I will chase it
+> rather than let it drift a third time.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner **mit allen vier Punkten** und
+eine Nachfass-Zusage. **Keine Erstattung zugesagt, kein Betrag, keine Absage,
+keine Frist.** **Keine Rücksendeadresse — es gibt keine**, samt Warnung, und
+ausdrücklich die Bestätigung, **dass sie beim Suchen nichts übersehen hat.**
+**Zu „indestructible" wird belegt gesagt, dass das Wort auf keiner der neun
+Produktseiten steht — und zugleich, dass ihr nicht unterstellt wird, es
+erfunden zu haben.** **Zu ihrer Beobachtung über die Unternehmensgröße wird
+weder etwas bestätigt noch bestritten und keine Geschichte erfunden** —
+weder „wir sind ein kleines Team" noch das Gegenteil. **Kein Vergleich mit Pets
+at Home bewertet.** **Sie wird nicht gebeten, die Bewertung zu unterlassen**,
+und nichts wird davon abhängig gemacht. Lieferzeit **als unser Versäumnis
+benannt**, kein Verweis auf den Transportdienstleister. Kein Eskalationsmarker
+im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
