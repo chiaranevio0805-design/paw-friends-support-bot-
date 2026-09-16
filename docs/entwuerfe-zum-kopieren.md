@@ -6847,6 +6847,66 @@ Eskalationsmarker im Text.
 
 ---
 
+## #6205 — John R Keefauver (johnkeefauver@gmail.com) — zweite Fassung, ersetzt die erste
+
+**Betreff:** Re: Order #6205 confirmed
+
+**Neu am 16.09. 13:19 UTC — vier Minuten nach seiner Mail von der
+comcast-Adresse, diesmal **von der Adresse, auf der die Bestellung
+tatsächlich steht**. Damit ist die Zuordnung erledigt und die erste Fassung
+(die um Identifikation bat) hinfällig. **Diese Fassung an die
+Gmail-Adresse senden, nicht an die comcast-Adresse.**
+
+> Dear Mr Keefauver,
+>
+> Thank you — you wrote twice within a few minutes, from two different
+> addresses, and the second one has cleared up the only thing I could not do
+> before: your order is #6205 from 15 August. I can work from that.
+>
+> **On the guarantee.** You wrote that our marketing states a 30-day
+> money-back guarantee covering exactly this. I am not going to argue with you
+> about what you read. What I will not do is quote a condition back at you that
+> I cannot show you — **I have looked, and the "unused and in original
+> condition" wording that our replies keep citing is not published on the
+> product page you bought from.** I am telling you that because it is true, not
+> because it decides anything.
+>
+> **On the Facebook marketing you mentioned in your other email.** I cannot see
+> our Facebook advertising from where I work, so I can neither confirm nor
+> dispute its wording, and I am not going to guess. You are the third person
+> this month to point us at something said outside the product page. **That has
+> gone to the shop owner as its own question.**
+>
+> **On the refund itself.** I cannot authorise one. I am not going to promise
+> you anything I cannot deliver, and you will not get a template refusal from
+> me. Your order is in front of the shop owner today with both of your emails
+> attached.
+>
+> **One practical thing:** please don't post the toys back yet. We do not have
+> a returns address published, so a parcel would have nowhere to arrive and you
+> would be out the postage.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner, und dass die Facebook-Frage
+**gesondert** weitergegeben wird. **Keine Erstattung zugesagt, kein Betrag,
+keine Absage, keine Frist.** **Der Inhalt der Facebook-Werbung wird weder
+bestätigt noch bestritten** — nicht einsehbar, und das steht so im Text.
+**Keine Aussage darüber, ob die Garantie Zerstörung abdeckt.** Was gesagt wird,
+ist **belegt**: dass die Bedingung „unused and in original condition" auf der
+gekauften Produktseite nicht veröffentlicht ist — das ist aus `descriptionHtml`
+und `shopPolicies` geprüft. **Es wird ausdrücklich dazugesagt, dass das nichts
+entscheidet.** **Keine rechtliche Einordnung.** **Kein Hinweis darauf, dass er
+in seiner Mail andere Tiere nennt als die Bestellbestätigung** — was tatsächlich
+im Paket war, ist von hier nicht feststellbar, und **ihm wird nicht gesagt, er
+irre sich.** **Dollar gegen Pfund nicht überbrückt und nicht erwähnt.** Fotos
+nicht geöffnet. Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker
+im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

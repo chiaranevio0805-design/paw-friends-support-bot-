@@ -640,3 +640,62 @@ nach dem zweiten Spielzeug, ohne zu unterstellen**, dass es unbenutzt ist.
   beantworten.**
 - **Vierzehn Kunden** mit „indestructible"-artigen Zitaten.
 - **Dreizehn Rückgabefragen**, keine beantwortbar.
+
+---
+
+## Lauf 14:20 UTC
+
+**Ein neuer Vorgang — und er löst die Zuordnungsfrage aus dem 13:20-Lauf auf.**
+
+### 🚩🚩 #6205 — John R Keefauver (`johnkeefauver@gmail.com`), 16.09. 13:19 UTC
+
+**Vier Minuten nach seiner Mail von `@comcast.net` hat er ein zweites Mal
+geschrieben — diesmal von `@gmail.com`, der Adresse, auf der die Bestellung
+tatsächlich steht.** Damit ist die Zuordnung erledigt, **ohne dass von hier
+geraten werden musste.** Die Zurückhaltung im 13:20-Lauf hat sich innerhalb
+einer Stunde von selbst aufgelöst.
+
+**Bestellung:** #6205, 15.08.2026, **30,56 £ GBP** in Shopify, `PAID`,
+`FULFILLED`, **2 × Plushies**, Hanover, Pennsylvania (US).
+
+**Seine zweite Mail:**
+
+> *„My dog promptly destroyed these toys. **Your marketing states a 30-day
+> moneyback guarantee that this won't happen.** How do we proceed? Photo is
+> attached. (the frog and the monkey) came from Paw-Friends."*
+
+**Drei Befunde:**
+
+1. **Siebter Währungsfall.** Die Bestellbestätigung weist **41,34 $ USD** aus
+   (2 × 42,00 $, „BUY 1 AND GET 1 FREE", −21,33 $ je Position), Shopify zeigt
+   **30,56 £ GBP**. **Nicht überbrückt und im Entwurf nicht erwähnt** —
+   er hat nicht danach gefragt.
+2. **Artikelabweichung, nicht angesprochen.** Die Bestätigung nennt **hippo und
+   frog**, er schreibt von **frog und monkey**. **Was tatsächlich im Paket war,
+   ist von hier nicht feststellbar** — Variantenbezeichnung und Inhalt können
+   auseinanderfallen, das war die Lehre aus #7587. **Ihm wird nicht gesagt, er
+   irre sich**, und die Abweichung wird nur hier vermerkt.
+3. **Er liest die Garantie als Zusage gegen Zerstörung** — dieselbe Lesart wie
+   #5436, #7034 und andere. Der Entwurf **bewertet das nicht**, sagt ihm aber
+   das eine, was belegt ist: **Die Bedingung „unused and in original condition",
+   auf die sich die Vorlage stützt, ist auf der von ihm gekauften Produktseite
+   nicht veröffentlicht.** Dazu ausdrücklich: **das entscheidet nichts.**
+
+**Zusammen mit seiner ersten Mail bleibt der Kernpunkt bestehen:** Er beruft
+sich auf die **Facebook-Werbung**. Der Entwurf gibt das als eigene Frage an
+den Owner weiter und **bestätigt noch bestreitet den Inhalt** — nicht einsehbar.
+
+**Zweite Entwurfsfassung**, an die **Gmail-Adresse** zu senden; die erste
+Fassung (die um Identifikation bat) ist hinfällig. **Keine Erstattung zugesagt,
+keine Absage, kein Betrag, keine rechtliche Einordnung.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Fünfzehn Vorgänge heute.**
+- **Sieben Währungsfälle** (#7368, #7581, #4975, #7001, #6804, #7114, #6205).
+- **Drei Kunden benennen Werbequellen außerhalb der Produktseiten**; zwei davon
+  sprechen von einer zugesagten Erstattung.
