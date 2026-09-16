@@ -7621,6 +7621,58 @@ Eskalationsmarker im Text.
 
 ---
 
+## #7625 — Erin Browning (ebrowningrn2@yahoo.com)
+
+**Betreff:** Re: Return
+
+**Neu am 16.09. 22:07 UTC. Erstkontakt. Siebzehnte „indestructible"-Nennung —
+diesmal als Frage formuliert: „I thought they were indestructible?"**
+
+> Dear Erin,
+>
+> Thank you for writing, and I'm sorry — five minutes is not what you ordered
+> them for.
+>
+> **You asked a question rather than making an accusation, so let me answer it
+> as straight as I can.** The word "indestructible" does not appear on any of
+> our product pages — I have checked all of them. **That is not me telling you
+> that you imagined it.** You are the seventeenth person this month to use that
+> word with us, and two customers have told us where they saw it. Where it
+> comes from is a question for the shop owner, and it has gone to him as
+> exactly that, with your message attached.
+>
+> **On the refund:** I cannot authorise one. I am not going to promise you
+> something I have no standing to deliver, and I am not going to send you a
+> refusal in its place either. Your request went to the shop owner tonight, in
+> your words, as a refund request for the order.
+>
+> **One practical thing, and please do read this one:** we do not currently
+> have a returns address published. **Please don't post anything back yet** —
+> you would pay the postage and the parcel would have nowhere to arrive. The
+> moment there is a return route, you will get it from us without having to ask
+> again.
+>
+> I have not opened the photographs beyond seeing that they are there. If they
+> matter to the decision, the owner will come back to you about them.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **als Erstattungsanfrage für die
+Bestellung**, die gesonderte Weitergabe der Werbefrage, eine Nachfass-Zusage
+und die Zusage, dass sie die Rücksendeadresse **unaufgefordert** bekommt.
+**Keine Erstattung zugesagt, kein Betrag, keine Absage, keine Frist.** **Zu
+„indestructible" wird nur das Belegte gesagt** — das Wort steht auf keiner der
+neun Produktseiten — **und ausdrücklich dazu, dass ihr nicht unterstellt wird,
+es erfunden zu haben.** **Keine Aussage darüber, ob das Produkt hätte halten
+müssen.** **Nicht behauptet, Kauschaden sei nicht gedeckt.** Fotos nicht
+geöffnet. Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

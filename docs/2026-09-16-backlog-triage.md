@@ -1267,3 +1267,48 @@ Kerri Forbey, unbenutzt, Originalverpackung, vollständige Bestellung.**
   vollständig unbenutzter Bestellung.**
 - **Achtzehn Rückgabefragen** seit dem 14.09., **keine beantwortbar.**
 - **Zwölf Währungsfälle**, **vier Ratgeber-Fälle.**
+
+---
+
+## Lauf 22:20 UTC
+
+**Ein neuer Vorgang.**
+
+### 🚩 #7625 — Erin Browning (`ebrowningrn2@yahoo.com`), 16.09. 22:07 UTC
+
+**Bestellung:** #7625, 24.08.2026, **43,91 £**, `FULFILLED`, 1 × Zahnbuddy +
+2 × Plushies, Fountain Inn, South Carolina (US). Versand 04.09.,
+Yanwen Special Line US, `UL481117365YP`. **Erstkontakt.**
+
+> *„It took my dog **5 min** to tear this up. **I thought they were
+> indestructible?** I would like an order refund."*
+
+**Siebzehnte Nennung von „indestructible" — und die erste als Frage.** Sie
+erhebt keinen Vorwurf; sie fragt, ob sie etwas falsch verstanden hat.
+
+**Der Entwurf beantwortet die Frage, statt sie zu umgehen:** Das Wort steht auf
+**keiner der neun Produktseiten** — das ist geprüft und belegt. **Und
+ausdrücklich dazu, dass ihr nicht unterstellt wird, es erfunden zu haben**:
+Siebzehn Kunden in diesem Monat haben es benutzt, zwei haben gesagt, wo sie es
+gesehen haben. **Die Frage geht als eigene Frage an den Owner.**
+
+**Neunzehnte Rückgabefrage** dem Sinne nach — Betreff „Return", Forderung
+„order refund". Wieder keine Adresse, wieder die Warnung, nichts zu
+verschicken.
+
+**Label:** `Bot/Escalated - Owner Attention` (bestrittene Werbeaussage).
+**Keine Erstattung zugesagt, keine Absage, kein Betrag.** Fotos nicht geöffnet.
+
+**Erstattungsliste:** nicht aufgenommen — Kauschaden.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Dreißig Vorgänge heute** — der bislang stärkste Tag in diesem Log.
+- **Siebzehn Kunden** mit „indestructible"; **das Wort steht in keiner der neun
+  Produktbeschreibungen.** Zwei Kunden haben eine Quelle genannt
+  (**Facebook**, **Werbevideo**), ein dritter beruft sich auf eine dort
+  zugesagte Erstattung. **Von hier aus nicht einsehbar — und weiterhin die am
+  leichtesten zu beantwortende offene Frage des ganzen Vorgangs.**
+- **Neunzehn Rückgabefragen** seit dem 14.09., **keine beantwortbar.**
