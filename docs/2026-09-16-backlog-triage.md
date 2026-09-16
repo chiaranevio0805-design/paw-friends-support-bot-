@@ -487,3 +487,67 @@ forderung).
 - **Dreizehn Kunden** mit Werbezitaten — **einer davon hat sich heute selbst
   korrigiert.**
 - **Zwölf Rückgabefragen**, keine beantwortbar.
+
+---
+
+## Lauf 12:20 UTC
+
+**Ein neuer Vorgang.**
+
+### 🚩🚩 #7072 — Jane Bromirski (`janekipp17@gmail.com`), 16.09. 11:41 UTC — zweite Absage, dritte Formulierung desselben Einwands
+
+**Bestellung:** #7072, 21.08.2026, **20,34 £**, `PAID`, **`totalRefundedSet`
+0,00 £**, 1 × Plushies *frog*, Eagle Bridge, New York (US). Versandmail zeigt
+`BUY 1 (-$14.24)` — **Dollar.**
+
+**Verlauf:**
+
+| Datum | Wer | Was |
+|---|---|---|
+| 02.09. 12:22 | Bromirski | *„I'm not at all pleased that this order is coming from china. **I specifically ordered from the UK.**"* Kündigt Bewertung an. |
+| 03.09. 16:46 | Shop | **Offen geantwortet**: UK-Lager ausverkauft, Versand aus dem internationalen Lager. **Keine Verschleierung** — das war korrekt. |
+| 14.09. 22:40 | Bromirski | *„It took my dog exactly **31 minutes** to destroy this **indistructable** toy! He weighs all of 30 pounds!!!!"* |
+| **16.09. 10:18** | **Shop** | **Zweite Vorlagen-Absage** |
+| **16.09. 11:41** | **Bromirski** | **83 Minuten später.** Siehe unten. |
+
+**Ihre Antwort, in ihren Worten:**
+
+> *„Are you f'n kidding me. 31 minutes and it was destroyed. **Am i supposed to
+> leave in packaging and somehow determine that it is going to get destroyed in
+> 31 minutes!!!!** Your false advertising and deception is beyond
+> comprehension. **I will be disputing this as far as is possible.**"*
+
+**Drei Punkte:**
+
+1. **Das ist die dritte unabhängige Formulierung desselben Einwands in zwei
+   Tagen** — nach **#7001 Keith Furman** (*„there could never be a return
+   because you need to open the packaging to see if the dog will destroy the
+   toy"*) und **#6528 Tommy Johnson**, der drei Stücke ungeöffnet zurückgeben
+   will. **Drei Kunden, drei Länder, dieselbe Logik: Die Bedingung ist bei
+   diesem Produkt nicht erfüllbar, ohne auf die Prüfung zu verzichten.** Der
+   Entwurf **widerlegt das nicht und bestätigt es nicht** — er sagt, dass es
+   darauf von hier keine gute Antwort gibt.
+2. **Dritte angekündigte Zahlungsanfechtung** nach Stephen Board (15.09.) und
+   **#7164 Barry Dunster** (15.09.). **Kein Versuch, sie davon abzubringen.**
+3. **Die Herkunftsfrage wurde am 03.09. offen beantwortet** — UK-Lager
+   ausverkauft, internationales Lager. **Der Entwurf bestätigt das und
+   relativiert es nicht**, obwohl sie jetzt verärgert ist. Das ist die Linie
+   der Policy: origin-neutral als Standard, **wahrheitsgemäß, wenn direkt
+   gefragt wird** — und sie hatte direkt gefragt.
+
+**Label:** `Bot/Escalated - Owner Attention`. **Zweite Entwurfsfassung**:
+keine Erstattung zugesagt, keine Absage, keine rechtliche Einordnung zu „false
+advertising and deception", kein Betrag, Dollar/Pfund **nicht überbrückt**.
+
+**Erstattungsliste:** nicht aufgenommen — Kauschaden.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Elf Vorgänge heute.**
+- **Vier Vorlagen-Absagen heute früh** (#6806 09:50, #7072 10:18, #7114 10:19,
+  dazu #5148 10:25) — **alle vier innerhalb von 83 Minuten beantwortet**, drei
+  davon eskaliert.
+- **Der Verpackungs-Einwand ist jetzt dreifach belegt** (#7001, #6528, #7072).
+- **Drei angekündigte Zahlungsanfechtungen** in 48 Stunden.

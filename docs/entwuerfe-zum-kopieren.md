@@ -6641,6 +6641,62 @@ abgeraten. Keine Rücksendeadresse. Kein Eskalationsmarker im Text.
 
 ---
 
+## #7072 — Jane Bromirski (janekipp17@gmail.com) — zweite Fassung
+
+**Betreff:** Re: A shipment from order #7072 is on the way
+
+**Ersetzt den Entwurf vom 14.09., der sie nie erreicht hat. Ihr ist heute
+10:18 die ZWEITE Vorlagen-Absage zugegangen; sie hat nach 83 Minuten
+geantwortet. Sie formuliert unabhängig denselben Einwand wie #7001 und #6528
+und kündigt an, die Zahlung anzufechten.**
+
+> Dear Jane,
+>
+> I am not going to send you a third version of the same letter.
+>
+> **The question you asked is a fair one and it deserves an answer rather than
+> a policy quote.** You asked whether you were supposed to leave the toy in its
+> packaging and somehow work out in advance that it would last thirty-one
+> minutes. **I do not have a good answer to that, and I am not going to
+> pretend I do.** You are the third customer in two days to put that exact
+> objection to us. It has gone to the shop owner in your words, not softened
+> into mine.
+>
+> **I am not going to defend this morning's reply.** It answered a policy
+> question you had not asked and said nothing about the point you were making.
+>
+> **On the refund: I cannot authorise one.** So I am not going to promise you
+> anything, and you are not getting another refusal from me. The decision sits
+> with the shop owner and your order is in front of him today.
+>
+> **On disputing the payment:** that is entirely your right and your decision.
+> I am not going to talk you out of it, and nothing here is conditional on what
+> you choose to do.
+>
+> **One last thing, about something you raised on 2 September.** You said you
+> had ordered from a UK shop and the parcel came from elsewhere. You were told
+> then that the UK warehouse was sold out and your order shipped from the
+> international warehouse. That was and is the truth, and I am not going to
+> dress it up differently now that you are unhappy.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner. **Keine Erstattung
+zugesagt, kein Betrag, keine Absage, keine Frist.** Die Vorlage von heute früh
+wird **als sachfremd benannt, aber nicht aufgehoben.** **Ihr
+Verpackungs-Einwand wird weder widerlegt noch bestätigt** — es wird
+ausdrücklich gesagt, dass es darauf von hier keine gute Antwort gibt. **Keine
+rechtliche Einordnung** zu „false advertising and deception". **Kein Versuch,
+sie von der Zahlungsanfechtung abzubringen**, und nichts wird davon abhängig
+gemacht. **Zur Herkunft der Sendung wird die bereits am 03.09. offen gegebene
+Auskunft bestätigt und nicht relativiert** — origin-neutral, aber wahrheitsgemäß,
+weil sie ausdrücklich danach gefragt hatte. Kein Betrag in Dollar gegen Pfund
+— **nicht überbrückt**. Keine Rücksendeadresse. Kein Eskalationsmarker im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
