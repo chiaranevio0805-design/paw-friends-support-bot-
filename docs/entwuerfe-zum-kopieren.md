@@ -7426,6 +7426,139 @@ im Text.
 
 ---
 
+## #8588 — Darren Law (dlaw69@sky.com) — Fehlermeldung zum Checkout, keine Beschwerde
+
+**Betreff:** Re: Order #8588 confirmed
+
+**Neu am 16.09. 19:41 UTC — **20 Minuten nach seiner Bestellung**. Er
+beschwert sich nicht: Er meldet einen Fehler im Warenkorb, der ihn einen
+Artikel gekostet hat. **Anrede „Dear Darren" ist gedeckt** — er unterschreibt
+selbst so und die Bestellung steht auf diesem Namen.**
+
+> Dear Darren,
+>
+> Thank you — and thank you particularly for telling us rather than just
+> shrugging and moving on. That is more useful to us than a complaint would
+> have been.
+>
+> **To be straight with you: I cannot check the checkout behaviour from where I
+> work, so I am not going to tell you it is fixed, and I am not going to tell
+> you that you misread it either.** What you describe — a free item added
+> automatically without the amount coming off — has gone to the shop owner
+> tonight as a fault report about the cart, not as a customer complaint, and
+> with your order number so he can look at the actual basket.
+>
+> **Your order itself went through and is on its way to being prepared.** You
+> removed the item, so nothing needs undoing.
+>
+> **One thing I would rather you hear from me:** if it turns out the free item
+> should have been applied and was not, I cannot promise you that it will be
+> sent or credited — that is the owner's call. But it is on his desk as your
+> question, in your words, and I will chase it if you have not heard back in a
+> few days.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **als Fehlermeldung zum Warenkorb** und
+eine Nachfass-Zusage. **Keine Nachlieferung des Gratisartikels zugesagt, keine
+Gutschrift, kein Betrag, keine Erstattung.** **Nicht behauptet, der Fehler sei
+bestätigt** — die Checkout-Logik ist von hier nicht prüfbar, und das steht so
+im Text. **Nicht behauptet, er habe sich geirrt.** **Keine Bestellung
+geändert.** Kein Eskalationsmarker im Text.
+
+---
+
+## #7041 — Tim Fitton (fitton@fitton.karoo.co.uk)
+
+**Betreff:** Re: Order number - 7041
+
+**Neu am 16.09. 19:39 UTC. Erstkontakt. **Anrede: Er unterschreibt „Tim
+Fitton"; die Bestellung steht auf einem anderen Vornamen. Deshalb wird
+ausschließlich der Name verwendet, den er selbst genannt hat — der Name aus
+der Bestellung wird ihm gegenüber nicht erwähnt.**
+
+> Dear Tim,
+>
+> Thank you for writing, and I'm sorry on two counts.
+>
+> **First, the wait.** You ordered on 21 August and it reached you yesterday.
+> That is far longer than it should have been, and it is ours, not the
+> courier's.
+>
+> **Second, what happened when it finally arrived.** Ten minutes is not what
+> you waited three and a half weeks for.
+>
+> **On the refund to your original payment method:** I cannot authorise one.
+> I am not going to promise you something I have no standing to deliver, and I
+> am not going to send you a refusal in its place. Your request has gone to the
+> shop owner this evening, in your words, as a refund request — including the
+> delivery time, because the two things belong together in this case.
+>
+> **One practical thing:** please don't post anything back yet. We do not have
+> a returns address published at the moment, so a parcel would have nowhere to
+> arrive and you would be out the postage as well.
+>
+> I have not opened the photographs beyond seeing that they are there.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **als Erstattungsanfrage, mit der
+Lieferzeit als Teil des Falls**, und eine Nachfass-Zusage. **Keine Erstattung
+zugesagt, kein Betrag, keine Absage, keine Frist.** Die Lieferzeit wird **als
+unser Versäumnis benannt**, kein Verweis auf den Transportdienstleister. **Der
+abweichende Vorname auf der Bestellung wird nicht erwähnt und nicht
+verwendet** — angesprochen wird er nur mit dem Namen, den er selbst
+unterschrieben hat. **Keine Aussage über seinen Hund.** Fotos nicht geöffnet.
+Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
+
+---
+
+## #7215 — Arthur Crouch (ajcrouch9@gmail.com)
+
+**Betreff:** Re: A shipment from order #7215 is on the way
+
+**Neu am 16.09. 19:27 UTC. Erstkontakt, ein Satz — ausdrücklich ohne
+Forderung: „Just so you know".**
+
+> Dear Arthur,
+>
+> Thank you for telling us, and I'm sorry — the first hour is not what you paid
+> for.
+>
+> **You said "just so you know", so I am going to take that at face value and
+> not turn it into something you did not ask for.** Your message is on record
+> and has gone to the shop owner as you wrote it.
+>
+> **If you would like a refund considered**, say so in one line and it goes to
+> him as a refund request rather than as feedback. I cannot authorise one
+> myself, so you would get neither a promise nor a refusal from me — but it
+> would be in front of the person who decides. If you would rather leave it
+> where it is, that is fine too and nothing further is needed from you.
+>
+> **One practical note either way:** please don't post the toy back to us. We
+> do not have a returns address published at the moment, and I don't want you
+> paying postage for nothing.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur, dass seine Meldung aktenkundig ist und auf ein Wort
+von ihm hin zur Erstattungsanfrage wird. **Keine Erstattung und kein Ersatz
+zugesagt, angeboten oder abgelehnt** — er hat ausdrücklich nichts gefordert,
+und das wird respektiert statt überschrieben. **Nicht behauptet, Kauschaden sei
+nicht gedeckt.** **Keine Aussage zur Werbung** — er zitiert nichts. **Das
+Trinkgeld auf seiner Bestellung wird nicht angesprochen.** Kein Betrag, keine
+Frist, keine Rücksendeadresse. Kein Eskalationsmarker im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

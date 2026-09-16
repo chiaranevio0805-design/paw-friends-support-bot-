@@ -1104,3 +1104,100 @@ Verfahrensfrage ist davon getrennt und bleibt offen.**
 - **Sechzehn Kunden** mit „indestructible"-artigen Zitaten.
 - **Sechzehn Rückgabefragen** seit dem 14.09., **keine beantwortbar.**
 - **Vier Preisvergleiche** mit billigeren Spielzeugen anderer Anbieter.
+
+---
+
+## Lauf 20:20 UTC
+
+**Drei neue Vorgänge — einer davon ist keine Beschwerde, sondern eine
+Fehlermeldung, die Geld kostet.**
+
+### 🔧 #8588 — Darren Law (`dlaw69@sky.com`), 16.09. 19:41 UTC — Checkout-Fehler, gemeldet 20 Minuten nach der Bestellung
+
+**Bestellung:** #8588, **heute 19:21 UTC**, **27,95 £**, `UNFULFILLED`,
+2 × Plushies (*elephant*, *fox*), Paignton (GB).
+
+> *„The **free item that was automatically added to the cart didn't deduct the
+> amount** so I had to remove it"*
+
+**Er beschwert sich nicht. Er meldet einen Fehler — und hat deswegen einen
+Artikel aus dem Warenkorb genommen.**
+
+**Was belegt ist:** Auf seiner Bestätigung sind die beiden Plushies mit
+`BUY 2 (-£15.98)` und `(-£15.97)` rabattiert, Endbetrag **27,95 £**,
+ausgewiesene Ersparnis 31,95 £. **Der Rabatt auf die beiden gekauften Stücke
+hat also funktioniert.** Was nicht funktioniert hat, ist nach seiner
+Schilderung **ein zusätzlicher, automatisch eingelegter Gratisartikel**, bei
+dem der Abzug ausblieb.
+
+**Was nicht belegt ist:** ob der Fehler tatsächlich vorliegt. **Die
+Checkout- und Rabattlogik ist von hier aus nicht prüfbar** — es gibt keinen
+Zugriff auf den Warenkorb vor dem Kauf. **Der Entwurf behauptet deshalb weder,
+dass der Fehler besteht, noch dass der Kunde sich irrt.**
+
+**Warum das trotzdem oben auf die Liste gehört:** Es ist der erste Hinweis in
+diesem ganzen Log, der **nicht** von einem enttäuschten, sondern von einem
+**gerade kaufenden** Kunden kommt. Wenn ein automatisch eingelegter
+Gratisartikel den Abzug nicht auslöst, nehmen Kunden ihn heraus — **das kostet
+Umsatz bei jedem Einzelnen, der es nicht meldet.** Wie viele es nicht melden,
+ist von hier aus nicht feststellbar.
+
+**Label:** `Bot/Needs Approval` — **technische Prüfung, kein Kundenvorgang.**
+**Keine Bestellung geändert, keine Gutschrift und keine Nachlieferung
+zugesagt.**
+
+---
+
+### 🚩 #7041 — Tim Fitton (`fitton@fitton.karoo.co.uk`), 16.09. 19:39 UTC
+
+**Bestellung:** #7041, **21.08.2026**, **29,95 £**, **2 × Fluffys**, Beverley
+(GB). Versand 02.09., Yanwen, `UL476304317YP`. **Zugestellt gestern, 15.09. —
+25 Tage.** **Erstkontakt.**
+
+> *„I ordered on 21st August and received yesterday. I gave the toys to my
+> **1 year old cocker spaniel** and she chewed through it **within 10
+> minutes**. **Please can you arrange for a refund to my original payment
+> method.**"*
+
+**Namensabgleich:** Er unterschreibt **„Tim Fitton"**, die Bestellung steht
+auf **einem anderen Vornamen** bei derselben Adresse. Nach der Linie von #8359
+wird **nicht geraten**: Angesprochen wird er **ausschließlich mit dem Namen,
+den er selbst genannt hat**, und der Name aus der Bestellung wird ihm gegenüber
+**nicht erwähnt.**
+
+**Siebzehnte Rückgabefrage** dem Sinne nach — er verlangt die Erstattung auf
+das ursprüngliche Zahlungsmittel. Der Entwurf gibt das als Erstattungsanfrage
+weiter, **mit der Lieferzeit als Teil des Falls**, und sagt **nichts zu.**
+
+**Label:** `Bot/Escalated - Owner Attention` (25 Tage Lieferzeit + ausdrückliche
+Erstattungsforderung).
+
+---
+
+### #7215 — Arthur Crouch (`ajcrouch9@gmail.com`), 16.09. 19:27 UTC
+
+**Bestellung:** #7215, 22.08.2026, **22,38 £** inkl. einer Position **„Tip"**,
+1 × Plushies *fox*, Phoenix, Arizona (US). Versandmail zeigt
+`BUY 1 (-$14.24)` — **elfter Währungsfall.** **Zweiter Trinkgeldfall** nach
+#7160.
+
+> *„My dog tore the stuffing out the first hour. **Just so you know**"*
+
+**Er fordert ausdrücklich nichts.** Der Entwurf **respektiert das, statt es zu
+überschreiben**: Die Meldung ist aktenkundig, und **auf ein Wort von ihm hin**
+wird daraus eine Erstattungsanfrage — nicht vorher. **Das Trinkgeld wird ihm
+gegenüber nicht angesprochen**, steht aber hier, damit es bei einer etwaigen
+Erstattung nicht übersehen wird.
+
+**Label:** `Bot/Needs Approval`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Achtundzwanzig Vorgänge heute.**
+- **Zwei offene Bestellungen, bei denen heute noch etwas zu retten wäre:**
+  **#8548** (falsche Adresse, `UNFULFILLED`) und **#8588** (Checkout-Fehler,
+  `UNFULFILLED`).
+- **Elf Währungsfälle**, **zwei Trinkgeldfälle.**
+- **Siebzehn Rückgabefragen**, keine beantwortbar.
