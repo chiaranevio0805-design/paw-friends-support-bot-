@@ -7718,6 +7718,123 @@ Text.
 
 ---
 
+## #7989 — Karen Reynolds (House54@outlook.com.au) — ⛔ schriftlich zugesagte Variante nie umgesetzt, dazu Fehlmenge
+
+**Betreff:** Re: Order #7989 confirmed
+
+**Neu am 17.09. 00:42 UTC. **Der bestbelegte Fall des ganzen Logs**, weil der
+Beleg aus unserer eigenen gesendeten Mail stammt: Am 29.08. wurde ihr
+schriftlich bestätigt, ihre Bestellung laute 1 × Hippo und 1 × Frog. Der
+Bestelldatensatz lautet unverändert 2 × Hippo. Geliefert kam nach ihrer Angabe
+ein Stück.**
+
+> Dear Karen,
+>
+> Thank you for writing, and for attaching the photograph. I have looked this
+> up properly rather than answer from memory, and I am not going to make you
+> argue for what you are owed.
+>
+> **Two separate things have gone wrong here, and both are ours.**
+>
+> **First, the frog.** On 28 August you asked us to confirm your order was one
+> Hippo and one Frog. **On 29 August we confirmed exactly that, in writing** —
+> "1 × Hippo, 1 × Frog. We'll make sure your requested selection is noted for
+> your order." **That change was never actually made to your order.** Our
+> records still show the original selection. So the confirmation you were given
+> was wrong, and you had no way of knowing that.
+>
+> **Second, what arrived.** You say one toy came. Our records show two were
+> despatched in that parcel. **I am not going to tell you that you must have
+> miscounted** — you are holding the box and I am not. What I can say is that
+> the two accounts do not match, and that is something to be resolved in your
+> favour rather than debated with you.
+>
+> **What I cannot do is fix either one from here.** I cannot change an order, I
+> cannot despatch a replacement, and I cannot authorise a refund. So I am not
+> going to promise you a frog, a second hippo, or money — I would only be
+> making a fourth promise on top of one that was already broken.
+>
+> **What I have done** is put this in front of the shop owner tonight as the
+> first thing on the list, with our own confirmation email attached, marked as:
+> variant change confirmed in writing and not carried out, plus a short
+> delivery. He is the one who can actually put it right.
+>
+> **Please don't send anything back in the meantime** — we have no returns
+> address published, and there is nothing here that should require you to post
+> anything anyway.
+>
+> If you have heard nothing within a few days, reply to me and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner **als erster Punkt, mit
+unserer eigenen Bestätigungsmail als Beleg**, und eine Nachfass-Zusage.
+**Keine Erstattung, keine Nachlieferung und kein Ersatz zugesagt** — und der
+Grund wird offen genannt: Es wäre die vierte Zusage auf einer bereits
+gebrochenen. **Kein Betrag, keine Frist.** **Der Widerspruch zwischen unserer
+Bestätigung und dem Bestelldatensatz wird als unser Fehler benannt**, belegt
+aus der eigenen gesendeten Mail. **Zur Fehlmenge wird ihr ausdrücklich nicht
+gesagt, sie habe sich verzählt** — festgehalten wird nur, dass beide
+Darstellungen nicht übereinstimmen. **Foto nicht geöffnet.** **AUD gegen GBP
+nicht überbrückt und nicht erwähnt.** Keine Rücksendeadresse — und der Hinweis,
+dass hier ohnehin nichts zurückzuschicken ist. Kein Eskalationsmarker im Text.
+
+---
+
+## #5880 — Laurie Oland (lj52585@comcast.net)
+
+**Betreff:** Re: Refunds
+
+**Neu am 17.09. 00:36 UTC. Erstkontakt. Sie zitiert den **Produktnamen** als
+falsche Werbung und verlangt volle Erstattung.**
+
+> Dear Laurie,
+>
+> Thank you for writing, and I'm sorry — five minutes after a long wait is not
+> what you paid for.
+>
+> **On what you quoted:** you are quoting the product's own name back at us. It
+> is sold as *"Designed for Furry Friends Who Destroy Everything"*, and that is
+> exactly how it appears on your order. **I am not going to pretend you have
+> misread anything.** Whether the product lives up to that name is the shop
+> owner's to answer and not mine, and your message went to him tonight in your
+> own words.
+>
+> **On the refund:** I cannot authorise one. I am not going to promise you
+> something I have no standing to deliver, and I am not going to send you a
+> template refusal instead. Your request is with him as a full refund request
+> for the order.
+>
+> **On returning them — please don't, not yet.** We do not have a returns
+> address published at the moment, so a parcel would have nowhere to arrive and
+> you would be out the postage on top. The moment there is a return route you
+> will get it from us without having to ask again.
+>
+> **One thing you did not ask about, which I found while checking your order.**
+> It included the guide *"Why Your Dog Destroys Every Toy (And How to Finally
+> Stop It)"* alongside the three toys. **Our records show it has never been
+> sent to you.** You paid for it. That is our error, not something for you to
+> chase — I have flagged it with the rest.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **als Anfrage auf volle Erstattung**, die
+Zusage, dass sie die Rücksendeadresse unaufgefordert bekommt, und die **offene
+Mitteilung über die nie ausgelieferte bezahlte Position** — **ohne** dafür
+Erstattung oder Nachlieferung zuzusagen. **Keine Erstattung zugesagt, kein
+Betrag, keine Absage, keine Frist.** **Bestätigt wird nur, dass sie den
+Produktnamen korrekt zitiert** — nicht, ob das Produkt ihm gerecht wird.
+**Keine rechtliche Einordnung** zu „false advertising". **Ihr Vergleich mit
+Dollar-Stores wird weitergegeben, nicht bewertet.** **Nicht behauptet,
+Kauschaden sei nicht gedeckt.** Keine Rücksendeadresse, samt Warnung. Kein
+Eskalationsmarker im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
