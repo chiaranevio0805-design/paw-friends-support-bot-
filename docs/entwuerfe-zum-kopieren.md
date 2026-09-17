@@ -8850,6 +8850,77 @@ darauf, dass sie eine andere Produktlinie benennt als die bestellte.** **Keine
 Auswertung der Fotos.** Keine Rücksendeadresse, samt Warnung. Kein
 Eskalationsmarker im Text.
 
+## #6032 — Helen Workman (helbeat.work71@gmail.com) — Erstkontakt, „Please advise", zweites Stück unbekannt
+
+**Betreff:** Re: Indestructible toys?
+
+**Neu am 17.09. 16:31 UTC. Erstkontakt.** Bestellt **14.08.**, **29,95 £**,
+2 × Plushies (Esel + Affe), Newton Abbot (GB), `FULFILLED`,
+`totalRefundedSet` **0.00 £**.
+
+> *„Please find attached pictures of the **'indestructible'** monkey toy that was
+> given to our puppy yesterday. **Please advise**"*
+
+**Sie fordert nichts und beschwert sich nicht — sie legt vor und fragt.**
+Betreff und Anführungszeichen tragen den Vorwurf; ausgesprochen wird er nicht.
+
+**Zwei Dinge bleiben offen und werden nicht geraten:**
+
+1. **Der Zustand des zweiten Stücks (Esel) ist unbekannt** — sie schreibt nur
+   über den Affen. **Zweiter Fall binnen zwei Stunden** nach #8165.
+2. **Was sie will, steht nicht da.** Erstattung, Ersatz, Rückgabe — nichts davon
+   ist gesagt. **Es wird ihr nichts in den Mund gelegt**, sondern gefragt.
+
+Zwei Bilder beigefügt — **nicht geöffnet, nicht ausgewertet.**
+
+**Ausdrücklich nicht im Entwurf:** eine Aussage darüber, ob das Spielzeug für
+einen Welpen geeignet ist, und irgendeine Aussage zur Sicherheit oder zum
+Material — in keine Richtung.
+
+> Dear Helen,
+>
+> Thank you for writing, and for putting the word in quotation marks rather than
+> at me — I have read it the way you meant it.
+>
+> **You asked me to advise, so here is where this actually stands rather than a
+> policy paragraph.** I cannot authorise a refund or a replacement; that decision
+> is the shop owner's. So I am not going to promise you either — and I am not
+> going to refuse you either, because you have not been given a decision by
+> anyone yet and you are entitled to one.
+>
+> Your photographs arrived and are noted with the case. What has gone to him
+> today is short and factual: **the monkey was given to your puppy yesterday, and
+> this is the result.**
+>
+> **Two things I would rather ask than assume.**
+>
+> **First, what would you like to happen?** You have not asked for anything
+> specific, and I am not going to decide on your behalf what you are after.
+>
+> **Second, the donkey.** You have written only about the monkey. If the donkey is
+> still as it arrived and has not been given to him, please say so, because that
+> is a different question and I do not want it settled on a guess.
+>
+> **Please don't post anything back in the meantime** — we do not publish a returns
+> address at present, so a parcel would have nowhere to arrive.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **mit ihrer Schilderung im Original**, die
+Bestätigung des Bildeingangs und eine Nachfass-Zusage. **Keine Erstattung
+zugesagt, kein Ersatz zugesagt, kein Betrag, kein Termin, keine Absage.**
+**Kein Anliegen unterstellt** — ausdrücklich gefragt, was sie möchte. **Keine
+Annahme über den Zustand des Esels.** **Keine Aussage zur Werbung**, keine
+Aussage zur Haltbarkeit, **keine Aussage zur Eignung für einen Welpen und keine
+zu Sicherheit oder Material.** **Keine Auswertung der Fotos.** **Keine Frist
+genannt** — weder die 30 Tage noch eine andere, weil sie keine Rückgabe unter
+der Garantie verlangt hat. Keine Rücksendeadresse, samt Warnung. Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

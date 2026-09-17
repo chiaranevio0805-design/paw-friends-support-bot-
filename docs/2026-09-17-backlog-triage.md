@@ -885,3 +885,58 @@ hier nur vermerkt, damit der Eingang nachvollziehbar ist.
 - **Zweiter Fall, in dem die genannte Produktlinie nicht der bestellten
   entspricht** (#7401, **#8165**) — beide Male **nicht gegen den Kunden
   verwendet.**
+
+---
+
+## Lauf 17:20 UTC — ein Vorgang
+
+Suche `in:inbox after:2026/09/17`, Abgleich gegen alle bisherigen Einträge
+dieses Tages. Ein Thread ist neu.
+
+---
+
+### 📨 #6032 — Helen Workman (`helbeat.work71@gmail.com`), 17.09. 16:31 UTC — Erstkontakt, „Please advise"
+
+Bestellt **14.08.**, **29,95 £**, 2 × Plushies (Esel + Affe), Newton Abbot (GB),
+`FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+> *„Please find attached pictures of the **'indestructible'** monkey toy that was
+> given to our puppy yesterday. **Please advise**"*
+
+**Sie fordert nichts.** Der Vorwurf steht im Betreff (*„Indestructible toys?"*)
+und in den Anführungszeichen — ausgesprochen wird er nicht. **Der vierte
+Erstkontakt heute, der eine Frage ist und keine Beschwerde** (nach #7163, #7275,
+#8165). Alle vier hätten von der Kauschaden-Vorlage eine Absage bekommen.
+
+**Zwei Dinge bleiben offen und werden nicht geraten:**
+
+1. **Der Zustand des zweiten Stücks (Esel) ist unbekannt** — sie schreibt nur
+   über den Affen. **Zweiter Fall binnen zwei Stunden** nach #8165, und der
+   vierte heute insgesamt, in dem ein zweites Stück über den Ausgang entscheidet
+   (#7119, #7347 beide ausdrücklich unbenutzt).
+2. **Was sie will, steht nicht da.** Der Entwurf **unterstellt ihr kein
+   Anliegen**, sondern fragt danach.
+
+Zwei Bilder beigefügt — **nicht geöffnet, nicht ausgewertet.**
+
+**Im Entwurf ausdrücklich nicht getan:** irgendeine Aussage dazu, ob das
+Spielzeug für einen Welpen geeignet ist, oder zu Sicherheit und Material — in
+keine Richtung. **Und keine Frist genannt**, auch nicht die 30 Tage: sie hat
+keine Rückgabe unter der Garantie verlangt, und das Zustelldatum ist von hier
+nicht belegt. **Es wird ihr also weder eine Frist eröffnet noch eine
+abgesprochen.**
+
+**Label:** `Bot/Draft Ready`, **mit Entscheidungsvorlage beim Owner.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Dreiundzwanzig Vorgänge heute**, davon zweiundzwanzig Kundenvorgänge.
+- **Vier Erstkontakte heute waren Fragen, keine Beschwerden:** #7163, #7275,
+  #8165, **#6032.**
+- **Vier Vorgänge heute hängen am Zustand eines zweiten Stücks:** #7119 und
+  #7347 (beide ausdrücklich unbenutzt, beide trotzdem auf Kauschaden abgelehnt),
+  #8165 und **#6032** (beide unbekannt — **nachgefragt, nicht geraten**).
+- **Einundzwanzig Kundinnen und Kunden haben „indestructible" verwendet** — neu:
+  **#6032**, in Anführungszeichen und im Betreff.
