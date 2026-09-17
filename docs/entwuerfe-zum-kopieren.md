@@ -8318,6 +8318,285 @@ Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
 ---
 
+## #7347 — Jill Hibbs (hibbsjill@yahoo.com) — ⚠️ das zweite Spielzeug ist unbenutzt
+
+**Betreff:** Re: Order #7347 confirmed
+
+**Neu am 17.09. 11:47 UTC.** Ihr ist heute 10:35 die Kauschaden-Vorlage
+zugegangen — die Absage umfasste **beide** Spielzeuge. **Sie hat zwei Fluffys
+gekauft (Frosch + Giraffe, 29,95 £, bestellt 23.08.). Das erste wurde in fünf
+Minuten zerstört. Das zweite hat sie dem Hund danach bewusst nie gegeben.**
+
+> Dear Jill,
+>
+> Thank you for coming back to me, and I'm sorry the reply you had this morning
+> did not deal with what you actually asked.
+>
+> **You asked to return the second toy — the one you never gave to her.** The
+> answer you got was about damage caused by a dog after delivery. That does not
+> describe the second toy at all, and I should not have let a single reply cover
+> both.
+>
+> **On the second toy:** you have said it is unused and unopened by your dog.
+> The thirty-day money-back guarantee we publish is written for exactly that —
+> an item returned unused and in its original condition — and your order was
+> placed on 23 August, so you are inside the thirty days. **I am not the person
+> who can authorise the money, so I am not going to promise it to you.** What I
+> have done is put it in front of the shop owner today, stated plainly: an
+> unused item, within the window, return requested in line with the published
+> guarantee.
+>
+> **Please don't post anything back yet.** We do not currently publish a returns
+> address, so a parcel sent now would have nowhere to arrive. Please keep the
+> second toy as it is, in its packaging, until you hear back with an address.
+>
+> **On the first toy** I have no decision to give you either, and I am not going
+> to re-send you this morning's refusal. Your account of it — five minutes, and
+> that you bought two because of the way they are advertised — has gone across
+> in your own words.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner **mit der richtigen
+Einordnung** (unbenutztes Stück, innerhalb der 30 Tage, Rückgabe nach der
+veröffentlichten Garantie) und eine Nachfass-Zusage. **Keine Erstattung
+zugesagt, kein Betrag, kein Termin.** Die Frist ist mit **30 Tagen** benannt,
+keine andere. **Keine Rücksendeadresse erfunden — samt ausdrücklicher Warnung,
+nichts zu verschicken.** Zum ersten Spielzeug **keine Entscheidung, aber auch
+keine Wiederholung der Absage**. **Keine Aussage dazu, ob die Werbung zutrifft**
+und keine Aussage zur Haltbarkeit. Kein Eskalationsmarker im Text.
+
+---
+
+## #7255 — blessedlovepuppet@frontier.com — ⚠️ behauptete Facebook-Zusage: Gratis-Ersatz bei Kauschaden
+
+**Betreff:** Re: Return
+
+**Neu am 17.09. 11:29 UTC**, nach der Kauschaden-Vorlage von 10:39 (Anrede
+*„Dear Customer"* — die Bestellung war nicht zugeordnet). **Sie nennt eine
+Facebook-Werbung mit einer konkreten Zusage:**
+
+> *„You have false advertising on Facebook it says **if dog damage it before 1
+> month free replacement**"*
+
+**Das ist die vierte außerhalb der Produktseiten genannte Werbequelle** (nach
+#7698, #7312, #6205) — und die erste, die eine **ausdrückliche Ersatzzusage bei
+Kauschaden** behauptet. Von hier aus **nicht überprüfbar**: der Katalogtext
+enthält keine solche Zusage, die Facebook-Anzeige ist aus diesem Postfach nicht
+einsehbar.
+
+> Dear Customer,
+>
+> Thank you for coming back to me, and I'm sorry the reply you had this morning
+> went out without your name on it.
+>
+> **On the Facebook advertising:** you say it states a free replacement if a dog
+> damages the toy within a month. **I am not going to tell you that you
+> misread it, and I am not going to confirm it either** — I cannot see our
+> Facebook advertising from where I sit, so I have no honest basis for saying
+> anything about its wording. What I have done is send your description of it,
+> in your own words, to the shop owner today, because **that wording and the
+> reply you were sent this morning cannot both be right.** He can see the
+> advertising; I cannot.
+>
+> **On your refund:** I cannot authorise one, so I am not going to promise you
+> anything. But you will not get a third copy of this morning's refusal from me
+> while that question is open.
+>
+> **One thing I should tell you rather than leave you to find it.** Your order
+> also included the digital guide you paid for, and our records still show that
+> item as not sent. I do not know whether it reached you. If it did not, please
+> say so in a reply and I will flag it as outstanding as well.
+>
+> **Please don't post anything back** in the meantime — we do not publish a
+> returns address at present, so a parcel would have nowhere to arrive.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe der behaupteten Werbeaussage **wörtlich**,
+der offene Hinweis auf die nicht ausgelieferte bezahlte Position, eine
+Nachfass-Zusage. **Keine Erstattung zugesagt, kein Ersatz zugesagt, kein
+Betrag.** **Die Facebook-Zusage wird weder bestätigt noch bestritten** — offen
+gesagt, dass sie von hier nicht einsehbar ist. **Keine Aussage dazu, ob die
+Werbung falsch ist.** Kein Widerspruch zu ihrer Schilderung. Keine
+Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text. **Anrede bleibt
+„Dear Customer" — es ist kein Name bekannt, und es wird keiner geraten.**
+
+---
+
+## #6751 — Jonathan Pizzo (jpizzo1102@gmail.com) — sechste Vorlagen-Absage, zweite Ankündigung sozialer Medien
+
+**Betreff:** Re: Order #6751 confirmed
+
+**Neu am 17.09. 11:20 UTC**, 105 Minuten nach der Absage von 09:36.
+**Fünf Absagen mit demselben Text seit 10.09.** — 10.09., 12.09. (Anrede
+*„Dear Customer"*), 13.09., 15.09., 17.09. Die Ankündigung, öffentlich zu
+posten, steht seit **10.09.** und wurde heute wiederholt.
+
+> Dear Jonathan,
+>
+> You have now had the same refusal from us five times in a week, twice today's
+> version of it, and once without even your name on it. **I am not going to send
+> it to you a sixth time.**
+>
+> I cannot authorise a refund — that decision sits with the shop owner and not
+> with me — so I am not going to promise you one. What I have done today is put
+> your case in front of him as it actually stands: **ordered 19 August, five
+> identical refusals, no decision ever taken by a person.**
+>
+> **On posting publicly:** that is entirely your business and I am not going to
+> ask you not to, or make anything depend on whether you do. You said it a week
+> ago and nothing changed, which is a fair thing to be angry about.
+>
+> **One point I want to put in front of him accurately, not guess at.** Your
+> order confirmation shows **41.57 USD**; our own record of the same order shows
+> **30.54 GBP**. I don't know which figure any refund decision would be measured
+> against, and I'm not going to convert one into the other and present it to you
+> as fact. It has gone to him flagged as a question, not an answer.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **mit Zählung der Absagen**, die offene
+Benennung der Währungsdifferenz als ungeklärte Frage, eine Nachfass-Zusage.
+**Keine Erstattung zugesagt, kein Betrag, keine Absage, keine Frist.** **Die
+beiden Beträge werden nicht ineinander umgerechnet und nicht überbrückt.**
+**Keine Bitte, nichts zu posten, und keine Bedingung daran geknüpft.** Keine
+Aussage zur Werbung, keine Aussage zur Haltbarkeit, keine rechtliche
+Einordnung. Kein Eskalationsmarker im Text.
+
+---
+
+## #7885 — Rod McNess (schreibt von rod.m@promptpetroleum.com.au) — ⚠️ dritter AU-Kunde, abgelehnt auf der widersprochenen Bedingung
+
+**Betreff:** Re: Failed Plushie Fox
+
+**Neu am 17.09. 09:35 UTC — vom 10:20-Lauf übersehen, hier nachgeholt.**
+Antwort **zwei Minuten** nach der Kauschaden-Vorlage von 09:33.
+
+**Datenlage, die im Entwurf Folgen hat:** Die Bestellung steht auf
+**`pmcness@bigpond.com`**, er schreibt von **`rod.m@promptpetroleum.com.au`**.
+Beide Adressen standen in seiner ersten Mail, der Shop hat bereits an
+`rod.m@` geantwortet. **Trotzdem werden im Entwurf keine Bestelldaten an die
+schreibende Adresse gegeben** — keine Bestellnummer, kein Betrag, keine
+Anschrift. Nur das, was er selbst geschrieben hat.
+
+**Und der Kern:** Lieferung nach **Australien**. Der einzige Abschnitt, den der
+Shop als Rückgaberichtlinie veröffentlicht, ist die australische
+Verbrauchergarantie-Passage — und die sagt ausdrücklich, dass die dortigen
+Rechte **nicht** durch die Anforderung „unbenutzt und in Originalverpackung"
+begrenzt sind. **Genau darauf ist er abgelehnt worden.** Nach #7663 und #7989
+der **dritte** solche Fall.
+
+> Dear Rod,
+>
+> Thank you for coming back, and I'd rather answer you straight than send you
+> another standard reply.
+>
+> **The refusal you had this morning rested on our toys having to be returned
+> unused and in their original condition.** Your order is being delivered in
+> Australia, and the returns section we actually publish for Australian
+> customers says in as many words that Australian consumer rights **are not
+> limited by that requirement.** So the reason you were given does not sit
+> comfortably with what we ourselves publish. I am not going to pretend
+> otherwise, and I am not going to give you a legal opinion either — that is not
+> mine to give.
+>
+> **I cannot authorise a refund**, so there is no promise from me here. Your case
+> has gone to the shop owner today with that contradiction stated plainly, and
+> with your own account of it: one hour of indoor play a day, from 11 September.
+>
+> **Please don't post the toy back yet** — we do not publish a returns address at
+> present, so it would have nowhere to arrive.
+>
+> One administrative note: the email address you are writing from is not the one
+> the order was placed under, so there are order details I am deliberately not
+> putting in this reply. That is not a brush-off — it is simply not mine to send
+> to an address that is not on the order.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner **mit ausdrücklicher Nennung
+des Widerspruchs** zur veröffentlichten AU-Passage, dazu eine Nachfass-Zusage.
+**Keine Erstattung zugesagt, kein Betrag, kein Termin, keine Absage.** **Keine
+rechtliche Bewertung** — die veröffentlichte Passage wird zitiert, nicht
+ausgelegt. **Keine Bestelldaten an eine Adresse, die nicht auf der Bestellung
+steht** — und das wird ihm offen gesagt statt verschwiegen. Keine
+Rücksendeadresse, samt Warnung. Keine Aussage zur Haltbarkeit oder zur Werbung.
+Kein Eskalationsmarker im Text.
+
+---
+
+## #4055 — Kimberley Shenton (kim.shenton@me.com) — sie hat 60 % angenommen; das Angebot selbst war widersprüchlich
+
+**Betreff:** Re: Refund request
+
+**Neu am 17.09. 10:38 UTC.** **Sie nimmt an:** *„Just send the partial refund of
+**60%** please. This is going on an unnecessary amount of time and would just
+like to bring it to a close."*
+
+**Drei Befunde zum Angebot, das sie angenommen hat:**
+
+1. **Es wurde zweimal verschickt** — 10:37:14 und 10:37:25, elf Sekunden
+   auseinander, wortgleich.
+2. **Es widerspricht sich selbst.** Wörtlich: *„we can increase our offer to a
+   6*0% partial refund*"* — und im nächsten Satz: *„Please let us know if you
+   would like to **accept the 50% partial refund**"*. **Derselbe Fehler wie
+   heute bei #6259.**
+3. **Sie hatte schon am 15.09. 17:54 angenommen** — *„Send the 50% refund if
+   it's easier"* — **auch das wurde nicht ausgeführt.** `totalRefundedSet` steht
+   auf **0.00 £** bei einem Bestellwert von **19,95 £**. 60 % davon wären
+   **11,97 £**.
+
+**Der Vorgang läuft seit dem 15.08. — 33 Tage, fünfzehn Mails.**
+
+> Dear Kimberley,
+>
+> Thank you — and I want to be straight with you about what happened this
+> morning rather than just say "noted".
+>
+> **The message you replied to was wrong, and it went to you twice.** It offered
+> you 60% in one sentence and then asked you to accept 50% in the next. That is
+> our mistake, not an attempt to move the figure on you. **I have recorded your
+> answer as what you actually wrote: 60%, and you want this closed.**
+>
+> **I cannot release the money myself** — that is the shop owner's to do — so I
+> am not going to tell you it has been processed. I have seen what happens when
+> that gets said before it is true, and I am not adding to it. What has gone to
+> him today is short: **an offer we made, accepted by you in writing, twice over
+> now, and nothing paid out yet.**
+>
+> You have been at this since 15 August. You should not have had to be.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die korrekte Protokollierung ihrer Annahme (**60 %**), die
+offene Benennung des widersprüchlichen und doppelt versandten Angebots, die
+Weitergabe zur Ausführung, eine Nachfass-Zusage. **Keine Aussage, dass die
+Erstattung bereits veranlasst oder „processed" sei** — ausdrücklich das
+Gegenteil. **Kein Betrag in Zahlen genannt**, kein Termin. **Keine neue
+Aushandlung, keine Rücknahme des Angebots.** **Keine Bedingung an ihre
+Bewertung oder ihr Verhalten geknüpft.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

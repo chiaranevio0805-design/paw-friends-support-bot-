@@ -498,3 +498,187 @@ bestrittene Werbeaussage, angekündigte Rückbuchung). **Dritte Entwurfsfassung.
   Produktbeschreibung).
 - **Eine angekündigte Rückbuchung** (#7164).
 - **Offene Erstattungsliste wächst um 27,95 £** (#5036, Nichtlieferung).
+
+---
+
+## Lauf 12:20 UTC — fünf Vorgänge, einer davon nachgeholt
+
+Suche `in:inbox after:2026/09/17`, Abgleich gegen alle bisherigen Einträge
+dieses Tages. **Vier Threads sind neu; einer (#7885 Rod McNess, 09:35) ist vom
+10:20-Lauf übersehen worden und wird hier nachgeholt — das steht hier, weil es
+so passiert ist.**
+
+---
+
+### ⚠️ #7347 — Jill Hibbs (`hibbsjill@yahoo.com`), 17.09. 11:47 UTC — das zweite Spielzeug ist unbenutzt
+
+**Der klarste Garantiefall bisher — und er wurde heute früh mit abgelehnt.**
+
+Bestellt **23.08.**, **29,95 £**, **2 × Fluffys** (Frosch + Giraffe),
+Westbury (GB), `FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+Das erste Spielzeug war nach fünf Minuten zerstört. Sie schreibt:
+
+> *„I did buy 2 as I had such faith in your spiel. After seeing the destruction
+> made of the first toy **i obviously did not give the second toy to my dog**.
+> I would like to **return this toy in line with your policy**."*
+
+**Das zweite Stück ist unbenutzt und in Originalzustand — genau die Bedingung,
+die der Shop als Garantie veröffentlicht.** Bestelldatum 23.08., damit liegt sie
+**innerhalb der 30 Tage** (bis 22.09.). Die Vorlagen-Absage von **10:35** hat
+**beide** Spielzeuge abgelehnt, mit der Begründung Kauschaden — die auf das
+zweite Stück nicht zutrifft.
+
+**Zweiter Fall dieser Art heute** nach #7119 Susan McGee (*„We have the pieces
+of one & one intact"*, 06:22). Beide wurden mit derselben Vorlage abgelehnt.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** unbenutztes Stück innerhalb der Frist, abgelehnt auf einer
+Begründung, die es nicht betrifft.
+
+---
+
+### 🚩🚩 #7255 — `blessedlovepuppet@frontier.com`, 17.09. 11:29 UTC — behauptete Facebook-Zusage: Gratis-Ersatz bei Kauschaden
+
+> *„You have false advertising on Facebook it says **if dog damage it before 1
+> month free replacement**"*
+
+**Die vierte außerhalb der Produktseiten genannte Werbequelle** (nach #7698
+Facebook, #7312 Werbevideo, #6205 *„my refund as promised in your Facebook
+marketing"*) — und **die erste, die eine ausdrückliche Ersatzzusage bei
+Kauschaden behauptet.** Das ist das direkte Gegenteil der Vorlage, die ihr um
+10:39 zugegangen ist.
+
+**Von hier nicht überprüfbar.** Im Katalogtext der neun Produkte steht keine
+solche Zusage; die Facebook-Anzeige ist aus diesem Postfach nicht einsehbar.
+Der Entwurf **bestätigt und bestreitet sie deshalb nicht** und gibt die
+Formulierung wörtlich an den Owner weiter.
+
+**Bestellung zugeordnet:** **#7255**, 22.08., **35,64 £**, Kingman (US),
+3 × Plushies + 📘 Ratgeber, `PARTIALLY_FULFILLED`, `totalRefundedSet` **0.00 £**.
+Die Absage von 10:39 ging an *„Dear Customer"* — die Bestellung war nicht
+zugeordnet. **Ein Name ist auch jetzt nicht bekannt und wird nicht geraten**;
+der Entwurf bleibt bei „Dear Customer".
+
+**Fünfter Ratgeber-Fall** (nach #7255 selbst aus der Stichprobe, #6254, #6528,
+#8372): die bezahlte digitale Position steht weiter als nicht ausgeliefert.
+**Im Entwurf offen mitgeteilt, ohne Zusage**, mit der Bitte um Rückmeldung, ob
+sie sie erhalten hat.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage mit behaupteter Ersatzzusage.
+
+---
+
+### 🚩 #6751 — Jonathan Pizzo (`jpizzo1102@gmail.com`), 17.09. 11:20 UTC — fünfte Absage mit demselben Text
+
+Bestellt **19.08.**, Ronkonkoma NY (US), 2 × Plushies. Antwort **105 Minuten**
+nach der Absage von 09:36.
+
+> *„I will certainly be **posting on social media** your responses and what
+> horrible product you sell and that you are stealing hard working peoples
+> money."*
+
+**Fünf Absagen mit im Kern demselben Text seit dem 10.09.:** 10.09., **12.09.
+(Anrede „Dear Customer")**, 13.09., 15.09., 17.09. Die Ankündigung, öffentlich
+zu posten, steht bereits seit dem **10.09.** — der Eskalationsgrund
+„öffentliches Bewertungsmuster" lag also vor der zweiten, dritten, vierten und
+fünften Absage vor. **Er wurde fünfmal nicht gezogen.**
+
+**⚠️ Währungsdifferenz:** Die Bestellbestätigung weist **41,57 USD** aus, der
+Shop-Datensatz **30,54 GBP**. **Nicht überbrückt, nicht umgerechnet** — als
+offene Frage an den Owner. **Dreizehnter Währungsfall.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** öffentliches Bewertungsmuster + wiederholter unerledigter
+Kontakt.
+
+---
+
+### ⚠️ #7885 — Rod McNess (`rod.m@promptpetroleum.com.au`), 17.09. 09:35 UTC — **vom 10:20-Lauf übersehen**
+
+**Das hätte im 10:20-Lauf stehen müssen.** Die Mail lag um 09:35 vor, der Lauf
+um 10:20 hat sie nicht erfasst. Kein Schaden entstanden außer zwei Stunden
+Verzögerung, aber es wird hier benannt und nicht stillschweigend nachgetragen.
+
+Antwort **zwei Minuten** nach der Kauschaden-Vorlage von 09:33:
+
+> *„That's an absolute load of rubbish. Of course the dog played with it you
+> product is rubbish and you are ripping people off. Your nothing but a bunch of
+> lying cheats"*
+
+**Der Kern — dritter australischer Fall auf derselben Bedingung.** Lieferung
+nach **Upwey, Victoria (AU)**. Der **einzige** Abschnitt, den der Shop als
+Rückgaberichtlinie veröffentlicht, ist die Passage *„Australia – Consumer
+Guarantees"*, und die sagt wörtlich, die dortigen Rechte seien
+*„not limited by the requirement that an item be unused or in its original
+packaging"*. **Abgelehnt wurde er auf genau dieser Anforderung.** Nach **#7663
+McLean (WA)** und **#7989 Reynolds (QLD)** der **dritte** Fall.
+
+**⚠️ Datenlage:** Die Bestellung **#7885** (27.08., **20,35 £**, 1 × Plushies
+fox, `FULFILLED`, `totalRefundedSet` **0.00 £**) steht auf
+**`pmcness@bigpond.com`**. Er schreibt von **`rod.m@promptpetroleum.com.au`**.
+Beide Adressen standen in seiner ersten Mail, und der Shop hat bereits an
+`rod.m@` geantwortet. **Der Entwurf gibt trotzdem keine Bestelldaten an die
+schreibende Adresse** — keine Bestellnummer, kein Betrag, keine Anschrift — und
+**sagt ihm offen, dass und warum.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** Ablehnung auf einer Bedingung, der die einzige
+veröffentlichte Richtlinie für sein Land widerspricht.
+
+---
+
+### 💷 #4055 — Kimberley Shenton (`kim.shenton@me.com`), 17.09. 10:38 UTC — sie hat 60 % angenommen
+
+> *„Just send the partial refund of **60%** please. This is going on an
+> unnecessary amount of time and would just like to bring it to a close."*
+
+Bestellung **#4055**, 31.07., **19,95 £**, geführt unter
+`kim.ierston@googlemail.com`, `totalRefundedSet` **0.00 £**. **60 % wären
+11,97 £.** Der Vorgang läuft seit dem **15.08. — 33 Tage, fünfzehn Mails.**
+
+**Drei Befunde zum Angebot, das sie angenommen hat:**
+
+1. **Es ging zweimal raus** — 10:37:14 und 10:37:25, elf Sekunden auseinander,
+   wortgleich.
+2. **Es widerspricht sich selbst.** Wörtlich: *„we can increase our offer to a
+   6\*0% partial refund\*"* — und im nächsten Satz: *„Please let us know if you
+   would like to **accept the 50% partial refund**"*. **Exakt derselbe Fehler
+   wie heute bei #6259.** Damit ist der 60/50-Widerspruch **kein Einzelfall**,
+   sondern steht in zwei unabhängigen Verhandlungen desselben Tages.
+3. **Sie hatte bereits am 15.09. 17:54 angenommen** — *„Send the 50% refund if
+   it's easier"*. **Auch das wurde nicht ausgeführt.**
+
+Damit ist sie **die fünfte Kundin, die auf eine nie ausgeführte Entscheidung
+wartet** (#5148, #7547, #7610, #5036, **#4055**) — und die zweite, die eine
+Zusage **schriftlich angenommen** hat, ohne dass etwas passiert ist (nach #7060,
+30 % angenommen, nicht ausgeführt).
+
+**Im Entwurf ausdrücklich nicht getan:** ihr gesagt, die Erstattung sei
+„processed" oder veranlasst. Nach #5148 wird das hier nicht wiederholt.
+
+**Label:** `Bot/Needs Approval` — **der Owner muss 11,97 £ freigeben**, die
+Zusage steht bereits vom Shop selbst. **Keine Erstattung von hier ausgeführt:
+kein Regel-4-Fall.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Achtzehn Vorgänge heute.**
+- **Fünf Kunden warten auf eine nie getroffene oder nie ausgeführte
+  Entscheidung:** #5148, #7547, #7610, #5036, **#4055**. **Zwei davon haben ein
+  Angebot des Shops schriftlich angenommen** (#7060, #4055).
+- **Der 60/50-Widerspruch im Angebotstext steht in zwei Verhandlungen desselben
+  Tages** (#6259, #4055) — es ist ein Textfehler, kein Einzelversehen.
+- **Zwei Kunden haben heute ein unbenutztes Stück gemeldet und wurden trotzdem
+  auf Kauschaden abgelehnt:** #7119, **#7347**.
+- **Drei australische Kunden sind auf der Bedingung abgelehnt worden, der die
+  einzige veröffentlichte Richtlinie für ihr Land ausdrücklich widerspricht:**
+  #7663, #7989, **#7885**.
+- **Vier Werbequellen außerhalb der Produktseiten**, neu: eine behauptete
+  **Gratis-Ersatz-Zusage bei Kauschaden** auf Facebook (#7255).
+- **Dreizehn Währungsfälle** (neu: #6751, 41,57 USD / 30,54 GBP).
+- **Fünf Ratgeber-Fälle.**
+- **Ein Vorgang wurde vom 10:20-Lauf übersehen** (#7885) und hier nachgeholt.
