@@ -1234,3 +1234,108 @@ Sendung stehen bleibt. **Kein Hinweis darauf, seine Frage sei verfrüht.**
 - **⛔ Sechs unbenutzte Stücke ohne Rücksendeweg:** #7119, #7347, #7479, #8372,
   **#7555 (zwei Stück)**. Bei #7479 mit **Frist 21.09.**
 - **Sechster Ratgeber-Fall** (#7555).
+
+---
+
+## Lauf 21:20 UTC — drei Vorgänge
+
+Suche `in:inbox after:2026/09/17`, Abgleich gegen alle bisherigen Einträge
+dieses Tages. Drei Nachrichten sind neu.
+
+---
+
+### ⛔ #5905 — Kate Stephens (`kateferron8@gmail.com`), 17.09. 20:20 UTC — vierte gebrochene „Team"-Zusage
+
+> *„Good evening, **Just checking if there is any update.** Many thanks, Kate"*
+
+**Sie fragt höflich nach — nach zehn Tagen Schweigen.**
+
+Bestellung **#5905**, 13.08., **27,95 £**, 2 × Fluffys, Coventry (GB),
+`FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+| Datum | Was |
+|---|---|
+| **01.09. 09:40** | Tracking: zugestellt, *„safe place — enclosed porch"* |
+| **04.09.** | Sie meldet: **nicht erhalten**, Relay hat sie an uns verwiesen |
+| **04.09.** | Shop bittet sie, Veranda, Haushalt und Nachbarn zu prüfen |
+| **04.09.** | Sie prüft das Zustellfoto: *„the photo shows it was placed **next to a bin**"* |
+| **05.09.** | Shop fragt erneut; sie bestätigt: **nicht erhalten** |
+| **07.09.** | Shop: *„forwarded the matter to our team for further investigation"*, Rückmeldung folge |
+| **17.09.** | **Zehn Tage. Nichts.** |
+
+**Vierte gebrochene „Team"-Zusage** nach #1998/#1084, #5148 und **#5036** — und
+**der zweite unbeantwortete Nichtlieferungsfall allein heute.**
+
+**Im Entwurf ausdrücklich nicht getan:** eine **neue** „Team"-Zusage gemacht.
+Nach drei gebrochenen wird hier keine vierte ausgesprochen. Ebenso wenig wird
+das Tracking gegen sie verwendet, das Zustellfoto gedeutet oder sie an den
+Zusteller verwiesen.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** Nichtlieferung seit 01.09., zugesagte Rückmeldung seit
+zehn Tagen ausgeblieben, wiederholter unerledigter Kontakt.
+**Auf die Erstattungsliste als offen:** 27,95 £, **Nichtlieferung — kein
+Kauschaden.**
+
+---
+
+### 🚩 #7970 — Melissa Harris (`melhar1@me.com`), 17.09. 20:35 UTC — Nichtlieferung, Erstkontakt
+
+> *„On August 28, 2026 I ordered plush toys for my dogs. The price was **$48.46**
+> paid with Apple Pay. As of today September 17, 2026 **the merchandise has not
+> been received.** I am notifying you today to **request a full refund**."*
+
+Bestellung **#7970**, **27.08.** (sie nennt den 28.08. — Zeitzone), 3 × Plushies,
+Comfort (US), `FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+**Befund: versandt erst am 08.09. — zwölf Tage nach der Bestellung.** Sendung
+`UL493228859YP`. Seit Versand neun Tage, seit Bestellung **21 Tage**.
+
+**⚠️ Währungsdifferenz:** sie nennt **48,46 USD**, der Shop-Datensatz führt
+**35,65 GBP**. **Nicht umgerechnet, nicht überbrückt** — als offene Frage an den
+Owner. **Vierzehnter Währungsfall.**
+
+**Im Entwurf ausdrücklich nicht getan:** ihr gesagt, sie solle noch eine
+bestimmte Zahl von Tagen abwarten, bevor ihre Bitte zählt. **Keine
+Verweisung an den Zusteller, kein Liefertermin.**
+
+**Label:** `Bot/Escalated - Owner Attention` (Nichtlieferung + Währungsfrage).
+**Dritter Nichtlieferungsfall heute** (#5036, #5905, #7970).
+
+---
+
+### 🔁 #7041 — Tim Fitton (`fitton@fitton.karoo.co.uk`), 17.09. 21:15 UTC — er schickt seine eigene Mail erneut
+
+**Kein neuer Text.** Seine Mail vom 16.09. 20:39 **unverändert erneut
+geschickt.** **Heute der dritte Vorgang dieser Art** nach #8295 (17:29) und
+#7555 (19:20). **Drei Kunden an einem Abend, die ihre eigene Nachricht
+zurückschicken, weil nichts zurückkam.**
+
+Bestellung **#7041**, 21.08., **29,95 £**, erhalten **15.09.** — **25 Tage
+Lieferzeit.** `totalRefundedSet` **0.00 £**.
+
+Der Entwurf bestätigt ihm, **dass seine Mail angekommen ist und das Schweigen
+bei uns liegt** — statt ihn im Unklaren zu lassen, ob sie verloren ging.
+**Fotos nicht geöffnet**, nur der Eingang vermerkt.
+
+**Label:** `Bot/Draft Ready`, **zweite Fassung.**
+
+---
+
+### Stand nach diesem Lauf — Tagesabschluss 17.09. (zweite Korrektur)
+
+- **Zweiunddreißig Vorgänge**, davon **einunddreißig Kundenvorgänge.**
+- **Fünfunddreißig Entwürfe** in `docs/entwuerfe-zum-kopieren.md`. **Keiner in
+  Gmail angelegt.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⛔ Vier gebrochene „Team"-Zusagen:** #1998/#1084, #5148, #5036, **#5905.**
+- **⛔ Drei unbeantwortete Nichtlieferungen allein heute:** #5036 (40 Tage),
+  **#5905** (10 Tage seit zugesagter Rückmeldung), **#7970** (21 Tage seit
+  Bestellung).
+- **🔁 Drei Kunden haben heute Abend ihre eigene Nachricht zurückgeschickt:**
+  #8295, #7555, **#7041.** Bei #7555 ist belegt, dass die Mail an eine
+  **andere Shop-Adresse** ging; bei den anderen beiden lag sie hier und blieb
+  liegen.
+- **⚠️ Vierzehn Währungsfälle** (neu: #7970, 48,46 USD / 35,65 GBP).
+- **⛔ Sechs unbenutzte Stücke ohne Rücksendeweg**, bei #7479 mit **Frist
+  21.09.**

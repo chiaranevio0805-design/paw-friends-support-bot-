@@ -9304,6 +9304,167 @@ Ersatz.** **Keine Verweisung an den Zusteller** — ausdrücklich das Gegenteil.
 falls er es tut, wird wahrheitsgemäß geantwortet. **Kein Hinweis darauf, dass
 seine Frage verfrüht sei.** Kein Eskalationsmarker im Text.
 
+## #5905 — Kate Stephens (kateferron8@gmail.com) — ⛔ vierte gebrochene „Team"-Zusage, 10 Tage
+
+**Betreff:** Re: Not delivered
+
+**Neu am 17.09. 20:20 UTC.** Sie fragt höflich nach — nach **zehn Tagen
+Schweigen.**
+
+> *„Good evening, **Just checking if there is any update.** Many thanks, Kate"*
+
+Bestellung **#5905**, 13.08., **27,95 £**, 2 × Fluffys (Ente + Giraffe),
+Coventry (GB), `FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+**Der Verlauf:** Tracking meldet **01.09. 09:40 zugestellt, „safe place —
+enclosed porch"**. Sie hat nachgesehen, Nachbarn gefragt, das Zustellfoto
+geprüft — *„the photo shows it was placed next to a bin"* — und am **05.09.**
+bestätigt, dass nichts da ist. Am **07.09.** wurde ihr geschrieben, die Sache
+gehe *„to our team for further investigation"*, eine Rückmeldung folge.
+**Zehn Tage, nichts.**
+
+**Das ist die vierte gebrochene „Team"-Zusage** nach #1998/#1084, #5148 und
+#5036 — **und der zweite unbeantwortete Nichtlieferungsfall allein heute.**
+
+> Dear Kate,
+>
+> There is no update, and the honest answer is that there should have been one
+> ten days ago.
+>
+> **On 7 September you were told the matter had gone to a team for
+> investigation and that we would come back to you. Nothing came back.** I am not
+> going to dress that up as an ongoing process — you were told to wait for
+> something that did not happen.
+>
+> **What is actually on record:** the tracking says delivered on 1 September to an
+> enclosed porch. You have checked, you have asked around, and **you have told us
+> the delivery photograph shows the parcel left next to a bin.** Nothing in our
+> records contradicts you, and I am not going to treat a tracking line as if it
+> outranks what you found when you looked.
+>
+> **I cannot authorise a refund** — that is the shop owner's — so I am not going
+> to promise you one, and I am not going to promise you another investigation
+> either. What has gone to him today is stated as it is: **parcel not received,
+> reported on 4 September, confirmed missing on the 5th, an update promised on
+> the 7th and never sent.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it again.
+> **You should not have to keep asking.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass die zugesagte Rückmeldung
+nie kam**, die Weitergabe mit vollständiger Zeitachse und eine Nachfass-Zusage.
+**Keine Erstattung zugesagt, kein Betrag, kein Ersatz, kein Termin.** **Keine
+neue „Team"-Zusage** — ausdrücklich nicht, nach drei gebrochenen. **Keine
+Verweisung an den Zusteller.** **Das Tracking wird nicht gegen sie verwendet**
+und ihre Schilderung nicht angezweifelt. **Keine Deutung des Zustellfotos** —
+nur ihre eigene Angabe wiedergegeben. Kein Eskalationsmarker im Text.
+
+---
+
+## #7970 — Melissa Harris (melhar1@me.com) — Nichtlieferung, ⚠️ Währungsdifferenz
+
+**Betreff:** Re: Merchandise not received
+
+**Neu am 17.09. 20:35 UTC. Erstkontakt.**
+
+> *„On August 28, 2026 I ordered plush toys for my dogs. The price was **$48.46**
+> paid with Apple Pay. As of today September 17, 2026 **the merchandise has not
+> been received.** I am notifying you today to **request a full refund** to my
+> Apple Pay account."*
+
+Bestellung **#7970**, **27.08.** (sie nennt den 28.08. — Zeitzone), 3 × Plushies,
+Comfort (US), `FULFILLED`, `totalRefundedSet` **0.00 £**. **Versandt erst am
+08.09. — zwölf Tage nach Bestellung.** Sendung `UL493228859YP`.
+
+**⚠️ Währungsdifferenz:** Sie nennt **48,46 USD**, der Shop-Datensatz führt
+**35,65 GBP**. **Nicht umgerechnet, nicht überbrückt** — als offene Frage an den
+Owner. **Vierzehnter Währungsfall.**
+
+> Dear Melissa,
+>
+> Thank you for writing, and for setting out the dates plainly.
+>
+> **Your order did leave us, but later than it should have: it was despatched on
+> 8 September**, twelve days after you ordered. The tracking reference is
+> **UL493228859YP**. So it is in transit rather than sitting here — but I am not
+> going to present that as if it answers your point, because three weeks on you
+> still have nothing.
+>
+> **I cannot authorise a refund** — that decision is the shop owner's — so I am not
+> going to promise you one. **Nor am I going to ask you to wait out a further
+> number of days before your request counts.** It has gone to him today as you put
+> it: **ordered 27 August, nothing received as of 17 September, full refund
+> requested.**
+>
+> **One thing I want to flag rather than quietly convert.** You paid **$48.46**;
+> our own record of the same order shows **£35.65**. I do not know which figure a
+> refund would be measured against, and I am not going to turn one into the other
+> and hand it to you as fact. It has gone to him marked as a question.
+>
+> **I am also not going to send you to chase the carrier yourself.** If it has not
+> arrived, reply here and it stays with us.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Versandbestätigung mit Datum und Sendungsnummer**, die
+offene Benennung der **verspäteten Versendung** und der **Währungsdifferenz als
+ungeklärte Frage**, sowie die Weitergabe an den Owner. **Keine Erstattung
+zugesagt, kein Betrag, kein Liefertermin, keine Wartefrist.** **Die beiden
+Beträge werden nicht ineinander umgerechnet.** **Keine Verweisung an den
+Zusteller** — ausdrücklich das Gegenteil. **Keine Aussage über Herkunft oder
+Versandweg** — sie hat nicht gefragt. Kein Eskalationsmarker im Text.
+
+---
+
+## #7041 — Tim Fitton (fitton@fitton.karoo.co.uk) — zweite Fassung, er schickt seine eigene Mail erneut
+
+**Betreff:** Re: Order number - 7041
+
+**Neu am 17.09. 21:15 UTC. Kein neuer Text** — er hat seine Mail vom 16.09.
+20:39 **unverändert erneut geschickt.** **Die stille Form von „ihr habt nicht
+geantwortet"**, heute zum dritten Mal (nach #8295 und #7555).
+
+Bestellung **#7041**, 21.08., **29,95 £**, `FULFILLED`,
+`totalRefundedSet` **0.00 £**. Bestellt 21.08., erhalten **15.09.** —
+**25 Tage.**
+
+> Dear Tim,
+>
+> You sent your message again because nothing came back. **It did arrive — the
+> silence is ours, not a delivery failure**, and I would rather tell you that than
+> let you wonder whether it got lost.
+>
+> **I cannot authorise a refund**, so I am not going to promise you one. **But you
+> are not getting a standard refusal from me either**, and I am not going to
+> dispute your account of what happened.
+>
+> What has gone to the shop owner is short and factual: **ordered 21 August,
+> received 15 September, chewed through within ten minutes, refund to the original
+> payment method requested.** Your photographs are on the file.
+>
+> **Please don't post anything back yet** — we do not publish a returns address at
+> present, so a parcel would have nowhere to arrive.
+>
+> If you have heard nothing in a few days, reply here and I will chase it. **You
+> should not have had to send it twice.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Bestätigung, dass seine Mail angekommen ist und das
+Schweigen bei uns liegt, die Weitergabe mit seinen Daten, eine Nachfass-Zusage.
+**Keine Erstattung zugesagt, kein Betrag, kein Termin, keine Absage.** **Keine
+Auswertung der Fotos**, nur der Eingang vermerkt. **Keine Aussage zur Werbung,
+keine zur Haltbarkeit**, **kein Widerspruch zu seiner Schilderung.** Keine
+Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
