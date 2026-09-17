@@ -812,3 +812,76 @@ Bestellung.
   **#7163** und **#7275**, beide als Betreffzeile.
 - **Eine Bestellung ohne hinterlegte E-Mail-Adresse gefunden** (#7275). Ob das
   ein Einzelfall ist, ist von hier nicht beantwortet.
+
+---
+
+## Lauf 15:20 UTC — ein Kundenvorgang, eine Systemmail
+
+Suche `in:inbox after:2026/09/17`, Abgleich gegen alle bisherigen Einträge
+dieses Tages. Zwei Threads sind neu.
+
+---
+
+### 📨 #8165 — Dawn Shepherd (`dawn@the-shepherdfamily.co.uk`), 17.09. 15:04 UTC — Erstkontakt, Ausfall am Ohr
+
+Bestellt **29.08.**, **27,95 £**, 2 × Plushies (Esel + Ente), Wincanton (GB),
+`FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+> *„The donkey lasted 15 minutes before it needed to go in the bin. **He bit the
+> ear off within minutes** and then the stuffing was everywhere. Not sure this
+> was supposed to happen or that's what you say. **Do you replace the donkey or
+> will you be issuing a refund?** I wait on your decision"*
+
+**Sie fragt und wartet auf eine Entscheidung — das ist keine Beschwerde.**
+Genau der Fall, in dem die Kauschaden-Vorlage aus einer offenen Frage eine
+Absage macht. **Der Entwurf verweigert nichts und sagt nichts zu** und nennt
+ausdrücklich, dass die Entscheidung beim Owner liegt.
+
+**Zwei Punkte, die offen bleiben und nicht geraten werden:**
+
+1. **Der Zustand des zweiten Stücks (Ente) ist unbekannt.** Sie schreibt nur
+   über den Esel. **Es wird nicht angenommen, dass die Ente benutzt ist — und
+   auch nicht, dass sie unbenutzt ist.** Der Entwurf **fragt danach**, weil das
+   eine sachlich andere Frage ist (siehe #7119 und #7347 heute).
+2. **Produktzuordnung — nur für den Owner, nicht für die Kundin.** Sie schreibt
+   *„2 Fluffiest"*; bestellt sind **2 × Plushies**. Die Formulierung über
+   dreifach vernähte **Ohren** — *„Triple-stitched seams — ears, joints, belly.
+   The places he goes for first."* — steht in der **Fluffys**-Beschreibung,
+   nicht bei Plushies. **Das wird ihr nicht vorgehalten und nicht gegen sie
+   verwendet**; welche Werbung sie gesehen hat, ist von hier nicht
+   rekonstruierbar. Gleiche Behandlung wie bei **#7401**.
+
+**Zum Ausfallort, falls die Fluffys-Beschreibung einschlägig ist:** das wäre der
+**fünfte** Ausfall genau an einem beworbenen Merkmal — nach dreimal Seil
+(#7754, #6806, #7988) und einmal Naht (#7378). **Das steht hier als Frage an
+den Owner, nicht als Feststellung.**
+
+Sechs Bilder beigefügt — **nicht geöffnet, nicht ausgewertet.**
+
+**Label:** `Bot/Draft Ready`, **mit Entscheidungsvorlage beim Owner** (Ersatz
+oder Erstattung — sie hat beides ausdrücklich zur Wahl gestellt).
+
+---
+
+### ⬜ Stripe — Rechnungsankündigung, 17.09. 14:27 UTC
+
+`upcoming-invoice+…@stripe.com`. **Automatische Abrechnungsmail, kein
+Kundenvorgang.** Nicht beantwortet, kein Entwurf, kein Link geöffnet, keine
+Daten herausgegeben. **Gehört dem Owner, nicht dem Support-Postfach** —
+hier nur vermerkt, damit der Eingang nachvollziehbar ist.
+
+**Label:** `Bot/No Action`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Zweiundzwanzig Vorgänge heute**, davon einundzwanzig Kundenvorgänge.
+- **Drei Kundinnen und Kunden haben heute ein zweites Stück im Spiel, dessen
+  Zustand über den Fall entscheidet:** #7119 (ausdrücklich unbenutzt), #7347
+  (ausdrücklich unbenutzt), **#8165 (unbekannt — nachgefragt, nicht geraten).**
+- **Drei Erstkontakte heute waren Fragen, keine Beschwerden:** #7163, #7275,
+  **#8165.** Alle drei hätten von der Kauschaden-Vorlage eine Absage bekommen.
+- **Zweiter Fall, in dem die genannte Produktlinie nicht der bestellten
+  entspricht** (#7401, **#8165**) — beide Male **nicht gegen den Kunden
+  verwendet.**

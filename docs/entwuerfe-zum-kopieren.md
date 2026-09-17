@@ -8781,6 +8781,75 @@ keine Bestellnummer geraten.** Die AU-Passage wird **zitiert, nicht ausgelegt**;
 dazu, ob die Werbeaussage zutrifft. Keine Rücksendeadresse, samt Warnung. Kein
 Eskalationsmarker im Text.
 
+## #8165 — Dawn Shepherd (dawn@the-shepherdfamily.co.uk) — Erstkontakt, Ausfall am Ohr, zweites Stück unbekannt
+
+**Betreff:** Re: Paw Friends
+
+**Neu am 17.09. 15:04 UTC. Erstkontakt.** Bestellt 29.08., **27,95 £**,
+Wincanton (GB), `FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+> *„The donkey lasted 15 minutes before it needed to go in the bin. **He bit the
+> ear off within minutes** and then the stuffing was everywhere. Not sure this
+> was supposed to happen or that's what you say. **Do you replace the donkey or
+> will you be issuing a refund?** I wait on your decision"*
+
+**Sie stellt eine Frage und wartet auf eine Entscheidung — sie beschwert sich
+nicht.**
+
+**Zwei Dinge, die im Entwurf bewusst offen bleiben:**
+
+1. **Das zweite Stück (Ente) ist unbekannt.** Sie schreibt nur über den Esel.
+   Ob die Ente benutzt ist oder nicht, steht nirgends — **das wird weder
+   angenommen noch unterstellt**, sondern gefragt.
+2. **Produktzuordnung, nur für den Owner:** Sie schreibt *„2 Fluffiest"*, die
+   Bestellung lautet auf **2 × Plushies** (Esel + Ente). Der Satz über
+   dreifach vernähte **Ohren** steht in der **Fluffys**-Beschreibung, nicht bei
+   Plushies. **Das wird nicht gegen sie verwendet und ihr nicht vorgehalten** —
+   welche Werbung sie gesehen hat, ist von hier nicht rekonstruierbar. Wie bei
+   #7401.
+
+Sechs Bilder beigefügt — **nicht geöffnet, nicht ausgewertet.**
+
+> Dear Dawn,
+>
+> Thank you for writing, and for asking it as plainly as you did.
+>
+> **You asked whether we replace it or refund it, and I would rather tell you
+> where that stands than give you a policy paragraph.** I cannot authorise either
+> one — that decision is the shop owner's — so I am not going to promise you a
+> refund or a replacement. **But I am also not refusing you**, and you are not
+> going to get a standard rejection from me while the question is genuinely open.
+>
+> Your account has gone to him today as you put it: **fifteen minutes, the ear
+> first, and the toy no longer usable.** Your photographs arrived and are noted
+> with the case.
+>
+> **One thing I need to ask rather than assume.** You mention the donkey. **I
+> don't know what state the duck is in** — whether it has been given to him at
+> all. If it is still as it arrived, please say so in a reply, because that is a
+> materially different question from the donkey and I don't want it decided on a
+> guess either way.
+>
+> **Please don't post anything back yet** — we do not publish a returns address at
+> present, so a parcel would have nowhere to arrive. Please keep the duck as it
+> is until you hear back.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **mit ihrer Schilderung im Original**, die
+Bestätigung des Bildeingangs und eine Nachfass-Zusage. **Keine Erstattung
+zugesagt, kein Ersatz zugesagt, kein Betrag, kein Termin, keine Absage.**
+**Keine Annahme über den Zustand der Ente** — ausdrücklich gefragt statt
+unterstellt. **Keine Aussage dazu, ob das Spielzeug hätte halten sollen**, keine
+Aussage zur Haltbarkeit, **keine Aussage zur Werbung** und **kein Hinweis
+darauf, dass sie eine andere Produktlinie benennt als die bestellte.** **Keine
+Auswertung der Fotos.** Keine Rücksendeadresse, samt Warnung. Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
