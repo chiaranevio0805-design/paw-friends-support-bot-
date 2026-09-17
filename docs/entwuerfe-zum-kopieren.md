@@ -7942,6 +7942,171 @@ Eskalationsmarker im Text.
 
 ---
 
+## #6259 — Nick Tarrant (nick.tarrant@me.com) — 30 → 50 → 60 %, er fordert 100 %, Frist 21.09.
+
+**Betreff:** Re: A shipment from order #6259 is on the way
+
+**Neu am 17.09. 10:04 UTC. Dritte vom Shop selbst geführte Verhandlung.
+**Wichtig: Die heutige 09:51-Mail widerspricht sich selbst** — sie bietet
+60 % an und bittet im nächsten Satz um Annahme der 50 %. Dazu zwei Fragen, die
+er zweimal gestellt und nie beantwortet bekommen hat.**
+
+> Dear Nick,
+>
+> Thank you — and before the money, two things you asked for and never got.
+>
+> **First: the email you received this morning contradicts itself.** It offers
+> you 60% in one sentence and asks you to accept 50% in the next. That is our
+> mistake, not a negotiating tactic, and you should not have to work out which
+> number is real. **I cannot tell you which one stands** — I did not write it
+> and I cannot authorise either figure. I have asked the shop owner to state
+> one number plainly.
+>
+> **Second: you asked on 5 and 9 September what "With replacement guarantee"
+> means, and you asked on 14 September what our complaints procedure is.
+> Neither question has been answered.** I am not going to answer them wrongly
+> now just to have said something:
+>
+> - On the replacement guarantee: I cannot find that wording on any of our nine
+>   product pages. **That does not mean you did not see it** — it means I cannot
+>   see where it sits, and I am not going to invent a meaning for a promise I
+>   cannot locate.
+> - On the complaints procedure: **as far as I can find, we do not publish
+>   one.** I would rather tell you that than describe a process that does not
+>   exist.
+>
+> **On the refund itself:** I cannot authorise any figure, 60% or 100%. So I am
+> not going to counter-offer you, and I am not going to defend the offers you
+> have already had. Your position — that the items were not as sold and that
+> you are therefore seeking the full amount — has gone to the shop owner today
+> in your words, with your deadline of 21 September on it.
+>
+> **On Trading Standards:** that is entirely your right and your decision. I am
+> not going to comment on it, and nothing here is conditional on what you do.
+>
+> If nothing has reached you by the 21st, reply to me and I will chase it.
+>
+> Best wishes,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **mit seiner Frist**, die Bitte an den
+Owner, **eine einzige Zahl zu nennen**, und eine Nachfass-Zusage. **Keine
+Erstattung zugesagt — weder 60 % noch 100 % noch irgendein Betrag** —, **keine
+Absage, kein Gegenangebot.** **Die bereits gemachten Angebote werden weder
+bestätigt noch widerrufen**; der Widerspruch wird offen als unser Fehler
+benannt. **Die Bedeutung von „With replacement guarantee" wird NICHT erfunden**
+— gesagt wird nur, dass die Formulierung auf keiner der neun Produktseiten
+auffindbar ist, **ohne ihm zu unterstellen, er habe sie nicht gesehen.** **Zur
+Beschwerdeprozedur wird offen gesagt, dass keine veröffentlicht ist** statt
+eine zu beschreiben. **Keine rechtliche Einordnung** zu „not as sold" oder zu
+seinen Rechten, **kein Kommentar zu Trading Standards** und kein Versuch, ihn
+davon abzubringen. Keine Rücksendeadresse. Kein Eskalationsmarker im Text.
+
+---
+
+## #7164 — Barry Dunster (bazdee1974@msn.com) — zweite Fassung
+
+**Betreff:** Re: order #7164
+
+**Neu am 17.09. 09:42 UTC, in einem neuen Thread. Zweiter Kontakt; der
+Entwurf vom 15.09. hat ihn nie erreicht. **Neu und ernst: Er berichtet, seit
+der Bestellung häuften sich Betrugsmails bei ihm, und vermutet, seine Adresse
+sei weitergegeben worden.**
+
+> Dear Barry,
+>
+> Thank you for writing again, and I am sorry you have had no reply since
+> Monday. That gap is ours.
+>
+> **I want to take the thing you raised last, first, because it is the most
+> serious.** You have noticed a rise in scam emails since ordering and you
+> suspect your address was passed on. **I cannot check that from where I sit,
+> so I am not going to reassure you that it did not happen, and I am not going
+> to claim it did.** What I can do is make sure it is not quietly filed as part
+> of a product complaint — it has gone to the shop owner as **a separate data
+> question**, in your words.
+>
+> Please treat anything that arrives claiming to be from us with the same
+> caution you would give any other unexpected email. **We will never ask you
+> for card details, passwords or payment information by email.** If anything
+> ever does, it did not come from us.
+>
+> **On the product:** you say again that what arrived is not what was
+> advertised and that it became unsafe within ten minutes. I am not going to
+> tell you that you are mistaken about what you are holding, and I am not
+> qualified to give you a judgement on whether it is safe. Both points went to
+> the owner as you wrote them.
+>
+> **On the refund and the return postage you asked for:** I cannot authorise
+> either. I am not going to promise you money or postage I have no standing to
+> release, and you will not get a refusal from me instead. **Please don't post
+> anything back yet** — we have no returns address published, so it would have
+> nowhere to arrive and you would be out the postage as well, which is the
+> opposite of what you asked for.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner — **die Datenfrage
+ausdrücklich getrennt vom Produktvorgang** — und eine Nachfass-Zusage.
+**Keine Erstattung zugesagt, keine Portoerstattung, kein Betrag, keine
+Absage.** **Zum Verdacht der Adressweitergabe wird weder bestätigt noch
+bestritten** — es wird ausdrücklich gesagt, dass es von hier nicht prüfbar ist,
+**und er wird nicht beruhigt, wo nichts zu beruhigen ist.** Der Hinweis, dass
+wir nie Karten- oder Zugangsdaten per Mail erfragen, ist eine **Warnung, keine
+Entwarnung.** **Keine Aussage zur Produktsicherheit in irgendeine Richtung**
+und **keine Aussage darüber, was er erhalten hat.** Fotos nicht geöffnet. Keine
+Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
+
+---
+
+## #7401 — Mick Lacey (laceymick31@gmail.com) — dritte Fassung
+
+**Betreff:** Re: defective item … order #7401
+
+**Neu am 17.09. 10:07 UTC. Ihm ist heute 09:22 die **zweite**
+Kauschaden-Absage zugegangen; er hat nach 45 Minuten geantwortet und kündigt
+an, es öffentlich zu machen.**
+
+> Dear Mick,
+>
+> You have had two refusals from us and no answer to the point you actually
+> made. I am not going to send a third.
+>
+> **On what you quoted.** You wrote that we state 40,000 dogs can't beat it.
+> **You are quoting us correctly** — that line is on our Fluffys page, word for
+> word: *"40,000 dogs have tried. Not one has beaten them yet."* I am not going
+> to pretend you misread our advertising, and I am not in a position to rule on
+> whether it holds up. That is the shop owner's to answer, and it went to him
+> this morning in your words.
+>
+> **On the refund:** I cannot authorise one. You will get no promise from me,
+> and you will not get a third refusal either. Your order is in front of him
+> today.
+>
+> **On telling people:** that is entirely your own business. Nothing here is
+> asked of you in return, and nothing about your order depends on it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner. **Keine Erstattung
+zugesagt, kein Betrag, keine Absage, keine Frist.** **Das Zitat wird ihm als
+zutreffend bestätigt** — es steht wörtlich in der Fluffys-Beschreibung —
+**ohne zu sagen, ob die Aussage zutrifft.** **Hinweis für den Owner: Er hat
+Plushies gekauft, nicht Fluffys**; im Entwurf wird das **nicht** gegen ihn
+verwendet, weil die Werbung, die er gesehen hat, von hier nicht rekonstruierbar
+ist. **Keine rechtliche Einordnung** zu „scam". **Er wird nicht gebeten, von
+der Ankündigung abzusehen**, und nichts wird davon abhängig gemacht. Kein
+Eskalationsmarker im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

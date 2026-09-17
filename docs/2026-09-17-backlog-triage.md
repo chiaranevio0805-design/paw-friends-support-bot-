@@ -233,3 +233,148 @@ Erstattungsanfrage ohne Entscheidung.**
 - **Zehn unbenutzt-Fälle** auf der Erstattungsliste.
 - **#7699 Lorraine Sales selbstgesetzte Frist läuft heute ab** — bisher keine
   sichtbare Antwort an sie.
+
+---
+
+## Lauf 10:20 UTC
+
+**Vier neue Vorgänge.** Zwischen **09:22 und 09:51** sind heute früh **vier
+Antworten aus dem Shop** hinausgegangen — drei davon Kauschaden-Absagen.
+**Alle drei wurden innerhalb von 45 Minuten beantwortet, alle drei negativ.**
+
+---
+
+### 🚩🚩🚩 #6259 — Nick Tarrant (`nick.tarrant@me.com`), 17.09. 10:04 UTC — 30 → 50 → 60 %, er fordert 100 %
+
+**Frist: 21.09.** Citizens Advice ist bereits eingeschaltet, Trading Standards
+informiert.
+
+| Datum | Wer | Was |
+|---|---|---|
+| 03.09. | Tarrant | Greyhound, **5 Minuten**, Ohr ab, Füllung offen. Bittet um Erstattung. |
+| 04.09. | Shop | Vorlagen-Absage |
+| 05.09. | Tarrant | *„Your website mentions **‚With replacement guarantee'**. I'm keen to hear what this means?"* |
+| 08.09. | Shop | Vorlagen-Absage — **Frage nicht beantwortet** |
+| 09.09. | Tarrant | Fragt **zum zweiten Mal**, kündigt Trading Standards an |
+| 10.09. | Shop | **Angebot: Ersatz oder 30 %** — Frage weiterhin nicht beantwortet |
+| 14.09. | Tarrant | Citizens Advice leitet an Trading Standards weiter. Fordert **100 %**, Frist **21.09.**, fragt **nach der Beschwerdeprozedur** |
+| 15.09. | Shop | **Angebot: 50 %** |
+| 15.09. | Tarrant | Bleibt bei 100 % |
+| **17.09. 09:51** | **Shop** | **Angebot: 60 % — und im nächsten Satz die Bitte, die 50 % anzunehmen** |
+| **17.09. 10:04** | **Tarrant** | Bleibt bei 100 %, verweist auf die Frist |
+
+**Drei Befunde:**
+
+1. **Die heutige Mail widerspricht sich selbst.** Sie erhöht auf 60 % und
+   bittet dann um Annahme von 50 %. **Welche Zahl gilt, ist von hier aus nicht
+   feststellbar** — der Entwurf benennt den Widerspruch offen als unseren
+   Fehler und bittet den Owner, **eine** Zahl zu nennen.
+2. **Zwei Fragen sind zweimal gestellt und nie beantwortet worden:** was
+   **„With replacement guarantee"** bedeutet, und **wie die
+   Beschwerdeprozedur** lautet. Der Entwurf beantwortet beide **so weit es
+   belegbar ist**: Die Formulierung ist auf keiner der neun Produktseiten
+   auffindbar, **und eine veröffentlichte Beschwerdeprozedur gibt es nach
+   allem, was von hier prüfbar ist, nicht.** **Beides wird nicht erfunden.**
+3. **„With replacement guarantee" ist die sechste von Kunden zitierte
+   Formulierung, die im Katalog nicht auffindbar ist** — nach „indestructible",
+   „customer promise", „no-quibble guarantee", „chewing proof" und „the
+   stuffing won't come out".
+
+**Label:** `Bot/Escalated - Owner Attention`, **höchste Priorität — Frist in
+vier Tagen.** **Keine Zahl zugesagt, kein Gegenangebot, keine Absage.**
+**Erstattungsliste:** **als ungeklärt aufgenommen — #6259, Betrag offen (30/50/
+60/100 % strittig), Nick Tarrant.**
+
+---
+
+### ⛔ #7316 — Brett Merriman, 17.09. 09:57 UTC — er bittet ausdrücklich, ihm nicht mehr zu schreiben
+
+**Vierte Kauschaden-Absage** (12.09., 13.09., 15.09., **heute 09:34**).
+Antwort nach **23 Minuten**:
+
+> *„**You can stop replying...** Your product is a piece of shit"*
+
+**Das ist eine ausdrückliche Bitte, den Kontakt einzustellen — und sie wird
+befolgt.**
+
+**Deshalb wurde für #7316 KEIN neuer Entwurf geschrieben.** Ihm noch eine Mail
+zu schicken, und sei sie noch so gut gemeint, wäre genau das, was er
+ausdrücklich nicht mehr will. **Der bestehende Entwurf vom 14.09. bleibt im
+Dokument, ist aber ab sofort als „nicht senden" zu behandeln.**
+
+**Für den Owner:** **Ihm sollte nur noch dann geschrieben werden, wenn es eine
+Entscheidung zu übermitteln gibt** — also eine Erstattung —, nicht um zu
+antworten. Sein Einwand vom 15.09. bleibt im Übrigen bestehen und ist die
+**vierte Formulierung** des Verpackungs-Arguments: *„Who the fuck would know it
+sucked if it didn't get used?"*
+
+**Label:** `Bot/Escalated - Owner Attention`, **Vermerk: Kontaktwunsch
+beachten.**
+
+---
+
+### 🚩🚩 #7164 — Barry Dunster (`bazdee1974@msn.com`), 17.09. 09:42 UTC — zweiter Kontakt, neuer Thread
+
+Er wiederholt, das Gelieferte sei **nicht das beworbene Produkt** („nothing
+plush about … the final product"), es sei **innerhalb von 10 Minuten unsicher**
+geworden, und verlangt **volle Erstattung plus Rückportо**.
+
+**Neu und ernst:**
+
+> *„in a huge co**[i]**ncidence I have started getting **lots of scam emails**
+> like my email has been passed on to their bogus scam artists"*
+
+**Er äußert einen Verdacht auf Weitergabe seiner E-Mail-Adresse.** Das ist
+**von hier aus nicht prüfbar** — es gibt keinen Einblick in Datenflüsse des
+Shops.
+
+**Behandlung:** **weder bestätigt noch bestritten.** Der Entwurf sagt
+ausdrücklich, dass es nicht prüfbar ist, **beruhigt ihn nicht**, und gibt die
+Sache **als eigene Datenfrage** an den Owner weiter — getrennt vom
+Produktvorgang, damit sie nicht als Teil einer Kauschadenbeschwerde abgelegt
+wird. Dazu die **Warnung** (keine Entwarnung), dass wir nie Karten- oder
+Zugangsdaten per Mail erfragen.
+
+**Zur Portoerstattung:** **nicht zugesagt.** Dazu der Hinweis, dass ein
+Rückversand ihn derzeit Geld kosten würde, weil es keine Adresse gibt — **das
+Gegenteil dessen, worum er gebeten hat.**
+
+**Label:** `Bot/Escalated - Owner Attention`, **hohe Priorität** (mögliche
+Falschlieferung + Sicherheitsmeldung + Datenfrage).
+
+---
+
+### 🚩 #7401 — Mick Lacey (`laceymick31@gmail.com`), 17.09. 10:07 UTC
+
+**Zweite Kauschaden-Absage heute 09:22**, Antwort nach **45 Minuten**:
+
+> *„So i can now say that these toys are **a scam** […] **I will let everybody
+> know** not to bother off you"*
+
+**Sein Zitat ist belegt.** Am 15.09. hatte er geschrieben: *„You state **40,000
+dogs cant beat it**"* — und genau das steht wörtlich in der
+**Fluffys**-Beschreibung: *„40,000 dogs have tried. Not one has beaten them
+yet."* Der Entwurf **bestätigt ihm das Zitat als zutreffend** und sagt
+**nicht**, ob die Aussage stimmt.
+
+**Hinweis für den Owner, nicht für den Kunden:** Er hat **Plushies** gekauft,
+nicht Fluffys. **Das wird im Entwurf nicht gegen ihn verwendet** — welche
+Werbung er tatsächlich gesehen hat, ist von hier nicht rekonstruierbar.
+
+**Label:** `Bot/Escalated - Owner Attention` (öffentliches Bewertungsmuster +
+bestrittene Werbeaussage). **Dritte Entwurfsfassung.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Neun Vorgänge heute.**
+- **Vier vom Shop geführte Verhandlungen laufen parallel:** #5973 (40/50 %),
+  #6528 (30/75 % oder Rückgabe), #7060 (30 % angenommen, nicht ausgeführt),
+  **#6259 (30/50/60/100 %, Frist 21.09.).**
+- **Der Verpackungs-Einwand steht jetzt vierfach** (#7001, #6528, #7072,
+  **#7316**).
+- **Sechs von Kunden zitierte Formulierungen sind im Katalog nicht
+  auffindbar.**
+- **Ein Kunde hat ausdrücklich gebeten, ihm nicht mehr zu schreiben** (#7316).
+  **Das wird befolgt.**
