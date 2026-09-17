@@ -8921,6 +8921,194 @@ genannt** — weder die 30 Tage noch eine andere, weil sie keine Rückgabe unter
 der Garantie verlangt hat. Keine Rücksendeadresse, samt Warnung. Kein
 Eskalationsmarker im Text.
 
+## #7479 — Richard Bellamy (richard@brownwolf.net) — vierte Fassung, ⚠️ er kündigt Zustellung an
+
+**Betreff:** Re: Fw: Refund request and business address request
+
+**Neu am 17.09. 17:30 UTC — vierter Kontakt. Frist 21.09. läuft weiter.**
+
+> *„**You do seem to have gone quiet.** How's the 30 day no quibble guarantee
+> coming along? One item in its original packaging you've been notified within
+> the requisite time .. **now how do I return the item for the refund.** I have
+> your Shopify account details which I'm happy to use to **serve process**."*
+
+**Er hat recht mit „gone quiet".** Die dritte Fassung vom 16.09. ist geschrieben,
+aber **nie bei ihm angekommen** — Gmail-Entwürfe sind seit dem 21.08. blockiert.
+**Das steht in dieser Fassung ausdrücklich drin**, statt so zu tun, als sei nie
+etwas verfasst worden.
+
+Bestellung **#7479**, 23.08., **29,95 £**, 2 × Fluffys (Frosch + Giraffe),
+Swindon (GB), `FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+**Seine Frage ist operativ, nicht rhetorisch: *wie* gibt er zurück.** Darauf gibt
+es weiterhin keine Antwort, weil keine Rücksendeadresse existiert.
+
+> Dear Richard,
+>
+> You are right that it went quiet, and you should have the actual reason rather
+> than an apology shaped like one. **A reply to you was written on 16 September
+> and never reached you** — our drafting has been failing at this end since
+> August. That is not your problem to carry, but it is the truth of why you heard
+> nothing, and I would rather you had it than assume you were being ignored.
+>
+> **You asked how to return the giraffe. I still cannot answer that, and here is
+> why rather than a fourth deflection: there is no returns address published, so
+> there is no process for me to start.** Your giraffe is unopened, unused and in
+> its original packaging, and you notified us within the window. **You are asking
+> for exactly the thing our own policy describes, and the route to it does not
+> exist.** That is a failure on our side, not a defect in your claim.
+>
+> **So please do not post it.** If you send it now you will pay the postage and it
+> will have nowhere to arrive. The moment a return route exists you will get it
+> from me unprompted.
+>
+> **On the address you asked for**, in case the 16 September reply never reached
+> you either — it is published in our own Terms of Service, under "Overview" and
+> again under "Contact Information":
+>
+> > **Chiara Marasa, trading as Paw-Friends.uk**
+> > Kirchstrasse 2, 56753 Mertloch, Germany
+> > Telephone: +49 175 2437033
+>
+> It is at https://paw-friends.uk/policies/terms-of-service. **I am not going to
+> tell you whether that satisfies the Regulations you cited** — that is not mine
+> to assess, and an opinion from me would be worth nothing to you.
+>
+> **On serving process:** that is entirely your right and your decision. I am not
+> going to ask you to hold off, and nothing here is conditional on whether you do.
+>
+> **On the refund itself: I cannot authorise one**, so you get no promise from me
+> — and no fifth refusal either. Your file is with the shop owner with your
+> deadline of 21 September on it, marked as an unused item in original packaging,
+> notified in time, with the return route missing.
+>
+> Best wishes,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Nennung des Grundes für das Schweigen**, die
+Beantwortung der Adressfrage aus der **öffentlichen** AGB-Seite, die Weitergabe
+mit **seiner** Frist, die Zusage, dass er die Rücksendeadresse unaufgefordert
+erhält. **Keine Erstattung zugesagt, kein Betrag, keine Frist unsererseits,
+keine Absage.** **Keine rechtliche Einordnung** — weder zu den zitierten
+Regulations noch zur angekündigten Zustellung. **Keine Bitte, von einer
+Zustellung abzusehen, und keine Bedingung daran geknüpft.** **Keine
+Rücksendeadresse erfunden**, samt Warnung, nichts zu verschicken. Sein Begriff
+*„no quibble guarantee"* wird **weder bestätigt noch bestritten** — er steht in
+keiner der neun Produktbeschreibungen. Kein Eskalationsmarker im Text.
+
+---
+
+## #8295 — Ivan Griffen (griffenivan@gmail.com) — zweite Fassung, er leitet sich selbst weiter
+
+**Betreff:** Re: Fwd: Order #8295
+
+**Neu am 17.09. 17:29 UTC.** Er hat **seine eigene Mail von 11:50 an uns
+weitergeleitet** — ohne neuen Text. **Das ist die stille Form von „ihr habt
+nicht geantwortet".** Sechseinhalb Stunden ohne Reaktion.
+
+> Dear Ivan,
+>
+> You forwarded your own message back to us, which I read as: nobody answered.
+> Fair enough.
+>
+> **Your first message did arrive**, and it is on your file. You flagged that the
+> parcel looks to have gone astray in a depot before it became a complaint, and
+> that is noted as exactly that — a warning, not a claim.
+>
+> **One thing I want to be straight about rather than smooth over.** You name a
+> particular carrier. **Our own record of your order names a different one**, and
+> I cannot see from here what happens after a parcel is handed on locally. So I
+> am not going to tell you who has your parcel, and I am not going to send you to
+> a carrier to chase it yourself on the strength of a guess.
+>
+> **What I can tell you is what is true:** as of now our record still shows it in
+> transit, not delivered and not returned. Nothing has been refunded and nothing
+> has been closed.
+>
+> If it does not arrive, reply here and say so — **you will not have to start
+> again from the beginning**, and I am not going to ask you to wait out an
+> arbitrary number of days first.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Bestätigung, dass seine erste Mail angekommen und
+vermerkt ist, die offene Nennung der Zusteller-Diskrepanz, und die Zusage, dass
+er bei Nichtankunft **nicht von vorn anfangen muss**. **Keine Erstattung
+zugesagt, kein Ersatz, kein Betrag, kein Liefertermin und keine Wartefrist.**
+**Keine Aussage dazu, welcher Zusteller die Sendung hat** — ausdrücklich offen
+gelassen. **Keine Verweisung an den Zusteller.** Kein Eskalationsmarker im Text.
+
+---
+
+## #8120 — Paul Mayoh (paul.mayoh@gmail.com) — ⚠️ Bestellung ohne hinterlegte E-Mail, abweichender Vorname
+
+**Betreff:** Re: order #8120 for 3 toys
+
+**Neu am 17.09. 18:01 UTC. Erstkontakt.**
+
+> *„I have received my toys **this afternoon** and as you can see from the
+> pictures they have **lasted less than 2 hours** can you please arrange a refund
+> **under your guarantee**"*
+
+**Zwei Datenpunkte, die im Entwurf Folgen haben:**
+
+1. **Die Bestellung `#8120` trägt keine E-Mail-Adresse** (`email: null`) —
+   **der zweite solche Fall heute** nach #7275.
+2. **Der Vorname weicht ab:** Die Lieferanschrift lautet auf **John Mayoh**, er
+   unterschreibt mit **Paul**. **Es wird nicht geraten, wer von beiden er ist**
+   — angesprochen wird er mit dem Namen, den er selbst nennt. **Keine
+   Bestelldaten über das hinaus, was er selbst geschrieben hat** (Bestellnummer
+   und „3 toys" stehen in seinem eigenen Betreff): **kein Betrag, keine
+   Anschrift, kein zweiter Name.**
+
+29.08. bestellt, 3 × Plushies, Bacup (GB), `FULFILLED`, `totalRefundedSet`
+**0.00 £**. Bild beigefügt — **nicht geöffnet, nicht ausgewertet.**
+
+> Dear Paul,
+>
+> Thank you for writing, and for saying plainly when they arrived and how long
+> they lasted.
+>
+> **I cannot authorise a refund** — that decision is the shop owner's — so I am
+> not going to promise you one. **But you are not getting a standard refusal
+> either**, and I am not going to argue with your account of this afternoon.
+>
+> Your request has gone to him today as you put it: **received this afternoon,
+> failed inside two hours, refund requested under the guarantee.** Your photograph
+> arrived and is noted with the case.
+>
+> **One administrative point I would rather say than quietly work around.** The
+> email address you are writing from is not recorded against the order in our
+> system, and the name on the delivery is not the one you have signed with. **That
+> is not me doubting you** — people order for a household all the time. It does
+> mean I am deliberately not putting order details into this reply that you have
+> not already given me yourself. The shop owner can check the record properly.
+>
+> **If any of the three is still untouched**, please say so in a reply — that is a
+> materially different question from the ones your dog has had, and I do not want
+> it decided on an assumption either way.
+>
+> **Please don't post anything back yet** — we do not publish a returns address at
+> present, so a parcel would have nowhere to arrive.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **mit seiner Schilderung im Original**, die
+Bestätigung des Bildeingangs, eine Nachfass-Zusage. **Keine Erstattung zugesagt,
+kein Betrag, kein Termin, keine Absage.** **Kein Vorname geraten** — nur der
+selbst genannte verwendet, und die Abweichung offen benannt statt verschwiegen.
+**Keine Bestelldaten über seine eigenen Angaben hinaus.** **Keine Annahme über
+den Zustand des dritten Stücks** — gefragt, nicht unterstellt. **Keine Aussage
+zur Werbung, keine zur Haltbarkeit, keine Auswertung des Fotos.** **Keine Frist
+genannt.** Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

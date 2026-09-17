@@ -940,3 +940,113 @@ abgesprochen.**
   #8165 und **#6032** (beide unbekannt — **nachgefragt, nicht geraten**).
 - **Einundzwanzig Kundinnen und Kunden haben „indestructible" verwendet** — neu:
   **#6032**, in Anführungszeichen und im Betreff.
+
+---
+
+## Lauf 18:20 UTC — drei Vorgänge
+
+Suche `in:inbox after:2026/09/17`, Abgleich gegen alle bisherigen Einträge
+dieses Tages. Drei Nachrichten sind neu.
+
+---
+
+### ⛔⛔ #7479 — Richard Bellamy (`richard@brownwolf.net`), 17.09. 17:30 UTC — vierter Kontakt, Zustellung angekündigt
+
+**Frist 21.09. läuft weiter — noch vier Tage.**
+
+> *„**You do seem to have gone quiet.** How's the 30 day no quibble guarantee
+> coming along? One item in its original packaging you've been notified within
+> the requisite time .. **now how do I return the item for the refund.** I have
+> your Shopify account details which I'm happy to use to **serve process**."*
+
+**Er hat mit „gone quiet" recht, und zwar aus einem Grund, der hier entstanden
+ist:** Die dritte Fassung wurde am 16.09. geschrieben und **ist nie bei ihm
+angekommen** — `create_draft` ist seit dem 21.08. blockiert, alle Entwürfe liegen
+nur in der Datei. **Das steht in der vierten Fassung ausdrücklich drin.** Er
+erfährt den wahren Grund, statt eine Entschuldigung ohne Inhalt zu bekommen.
+
+Bestellung **#7479**, 23.08., **29,95 £**, 2 × Fluffys (Frosch + Giraffe),
+Swindon (GB), `FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+**Seine Frage ist operativ, nicht rhetorisch: *wie* gibt er zurück.** Die
+Giraffe ist **ungeöffnet, unbenutzt, in Originalverpackung**, gemeldet **sechs
+Stunden nach Erhalt**. **Er verlangt genau das, was die veröffentlichte Garantie
+beschreibt — und der Weg dorthin existiert nicht.** Das ist der **vierte**
+Vorgang allein heute, in dem ein unbenutztes Stück an einer fehlenden
+Rücksendeadresse hängt (#7119, #7347, #7479, dazu die ungeklärten #8165, #6032).
+
+**Die Adressfrage wird erneut beantwortet** — aus der **öffentlichen**
+AGB-Seite des Shops, nicht aus internen Daten. **Keine rechtliche Einordnung**
+zu den zitierten Electronic Commerce Regulations 2002 und **keine** zur
+angekündigten Zustellung; **keine Bitte, davon abzusehen**, und nichts daran
+geknüpft.
+
+**Label:** `Bot/Escalated - Owner Attention`, **höchste Priorität heute.**
+**Eskalationsgrund:** angekündigte Zustellung, laufende Frist 21.09., vierter
+unerledigter Kontakt, unbenutzte Ware ohne Rückgabeweg.
+
+---
+
+### 🔁 #8295 — Ivan Griffen (`griffenivan@gmail.com`), 17.09. 17:29 UTC — er leitet seine eigene Mail weiter
+
+**Kein neuer Text.** Er hat seine Nachricht von 11:50 **an uns
+zurückgeleitet** — sechseinhalb Stunden ohne Antwort. **Das ist die stille Form
+von „ihr habt nicht geantwortet"**, und sie zählt als zweiter Kontakt.
+
+Der Entwurf bestätigt den Eingang der ersten Mail, benennt die
+**Zusteller-Diskrepanz** weiterhin offen (Kundenangabe ≠ Shop-Datensatz),
+**nennt keinen Zusteller**, **verweist ihn nicht an den Zusteller** und sagt zu,
+dass er bei Nichtankunft **nicht von vorn anfangen muss** — **ohne Wartefrist,
+ohne Liefertermin, ohne Erstattungszusage.**
+
+**Label:** `Bot/Draft Ready`, **zweite Fassung.**
+
+---
+
+### ⚠️ #8120 — Paul Mayoh (`paul.mayoh@gmail.com`), 17.09. 18:01 UTC — Erstkontakt, zweite Bestellung ohne E-Mail
+
+> *„I have received my toys **this afternoon** and as you can see from the
+> pictures they have **lasted less than 2 hours** can you please arrange a refund
+> **under your guarantee**"*
+
+Bestellt 29.08., **34,95 £**, **3 × Plushies** (Hippo, Esel, Affe), Bacup (GB),
+`FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+**Zwei Datenbefunde:**
+
+1. **Die Bestellung `#8120` trägt keine E-Mail-Adresse** (`email: null`).
+   **Zweiter solcher Fall heute** nach #7275 — und damit **kein Einzelfall
+   mehr.** Das gehört im Admin geprüft: wie viele Bestellungen laufen ohne
+   hinterlegte Adresse?
+2. **Der Vorname weicht ab.** Lieferanschrift: **John Mayoh**. Unterschrift:
+   **Paul**. **Es wird nicht geraten**, wer von beiden er ist; angesprochen wird
+   er mit dem selbst genannten Namen, und **die Abweichung wird ihm offen
+   gesagt** statt verschwiegen. **Keine Bestelldaten über das hinaus, was er
+   selbst geschrieben hat** — Bestellnummer und „3 toys" stehen in seinem eigenen
+   Betreff; **Betrag, Anschrift und der zweite Name stehen nicht im Entwurf.**
+
+**Der Zustand des dritten Stücks ist unbekannt** und wird **gefragt, nicht
+angenommen** — fünfter solcher Fall heute.
+
+Bild beigefügt — **nicht geöffnet, nicht ausgewertet.**
+
+**Label:** `Bot/Escalated - Owner Attention` (ungesicherte Zuordnung der
+Bestellung + Erstattung unter der Garantie verlangt).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Sechsundzwanzig Vorgänge heute**, davon fünfundzwanzig Kundenvorgänge.
+- **⚠️ Zwei Bestellungen ohne hinterlegte E-Mail-Adresse** (#7275, **#8120**).
+  Zwei an einem Tag sind kein Zufallsfund — **der Umfang gehört im Admin
+  geprüft.**
+- **⛔ #7479 ist der dringendste Vorgang des Tages:** Frist **21.09.**, vierter
+  Kontakt, Zustellung angekündigt, und der Grund für unser Schweigen liegt bei
+  uns — **der Entwurf vom 16.09. existiert, ist aber nie zugestellt worden.**
+- **Fünf Vorgänge heute hängen am Zustand eines zweiten oder dritten Stücks:**
+  #7119, #7347 (beide ausdrücklich unbenutzt), #8165, #6032, **#8120** (alle
+  drei unbekannt — **nachgefragt, nicht geraten**).
+- **Vier unbenutzte Stücke warten auf eine Rücksendeadresse, die es nicht
+  gibt** — #7119, #7347, #7479, und jede der offenen Nachfragen kann eine fünfte
+  ergeben.
