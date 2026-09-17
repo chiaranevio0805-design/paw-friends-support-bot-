@@ -7673,6 +7673,51 @@ geöffnet. Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text
 
 ---
 
+## #8195 — Georgia Caccavale (georgiacaccavale@gmail.com)
+
+**Betreff:** Re: Order
+
+**Neu am 16.09. 23:58 UTC. Erstkontakt, eine Zeile: Sie fragt nach dem Status.
+Vollständig beantwortbar ohne Entscheidung des Owners.**
+
+> Dear Georgia,
+>
+> Thank you for chasing this, and I'm sorry you had to ask.
+>
+> Here is everything we hold on your order, so you are not left guessing:
+>
+> - **Ordered:** 29 August 2026
+> - **Shipped:** 8 September 2026
+> - **Carrier:** 4PX Economic Registered
+> - **Tracking number:** 4PX3003140511051CN
+> - **Track it here:** https://t.17track.net/en#nums=4PX3003140511051CN
+>
+> Two honest caveats rather than a reassurance:
+>
+> - Your order shipped from our international warehouse, so it is travelling a
+>   long way, and scans can be sparse in the middle of the journey. A gap in the
+>   tracking does not by itself mean the parcel is lost — but I am not going to
+>   promise you a delivery date I cannot stand behind.
+> - It has now been some time since dispatch. **If the tracking has not moved
+>   in the next few days, reply to this message and I will take it further
+>   rather than ask you to keep waiting.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur belegte Angaben — **Bestelldatum, Versanddatum,
+Dienstleister, Sendungsnummer und Tracking-Link, alle aus Shopify** — plus die
+Zusage, bei ausbleibender Bewegung nachzufassen. **Kein Zustelldatum
+versprochen, keine Lieferzeit in Tagen genannt, keine Erstattung zugesagt, kein
+Betrag.** **Sie wird nicht an den Transportdienstleister verwiesen** — das
+Nachfassen bleibt bei uns. **Herkunft origin-neutral, aber nicht verschleiert:**
+Das internationale Lager wird benannt, weil es die Laufzeit erklärt, ohne Land
+oder Hersteller zu nennen. Keine Rücksendeadresse. Kein Eskalationsmarker im
+Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
