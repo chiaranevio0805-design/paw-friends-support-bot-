@@ -1126,3 +1126,111 @@ erfundenen Sachverhalt, fehlende Erstbitte im System.
   bei #7479 mit **Frist 21.09.**
 - **Der Eingangskanal, den dieses Postfach nicht sieht, ist zum zweiten Mal
   belegt** — beide Male bei Jim Wigo.
+
+---
+
+## Lauf 20:20 UTC — zwei Vorgänge, und zwei Strukturbefunde
+
+Suche `in:inbox after:2026/09/17`, Abgleich gegen alle bisherigen Einträge
+dieses Tages. Zwei Nachrichten sind neu. **Der Tagesabschluss von 19:20 wird
+damit hinfällig — er steht oben stehen, weil er so geschrieben wurde.**
+
+---
+
+### ⛔⛔ #7555 — Steve Kerr (`stevejkerr23@gmail.com`), 17.09. 19:20 UTC
+
+**Zwei Befunde in einer einzigen Mail.**
+
+#### Befund 1 — die zweite Eingangsadresse ist jetzt benannt
+
+Er leitet **seine eigene Mail vom 14.09. 21:44** weiter. Sie ging an
+**`paw-friends.uk@paw-friends.uk`** — **nicht an dieses Postfach**, und sie ist
+hier auch über `in:anywhere` nicht auffindbar. **Drei Tage ohne Antwort.**
+
+**Damit ist der blinde Fleck zum dritten Mal belegt — und zum ersten Mal mit
+Adresse.** Bei Jim Wigo (zweimal, zuletzt heute 18:32) war nur feststellbar,
+*dass* eine Erstbitte fehlt. **Hier steht, wohin sie ging.** Was sonst noch an
+`paw-friends.uk@paw-friends.uk` liegt und seit wann, ist von hier aus **nicht
+einsehbar.** **Das gehört als Erstes geprüft.**
+
+#### Befund 2 — die Werbe-Mail des Shops, im Wortlaut
+
+Er zitiert die Klaviyo-Warenkorbmail vom **27.08.**, versandt von
+`paw-friends.uk@paw-friends.uk`. Darin steht wörtlich:
+
+> *„**Nothing to lose.** Bad news for him."*
+> *„Backed by our 30-day money-back guarantee. **Still unbeaten.**"*
+> *„30-day money-back guarantee — **Zero risk on your side. Nobody has needed it
+> yet** — think your dog changes that?"*
+
+**Das ist die fünfte Werbequelle außerhalb der Produktseiten — und die erste,
+die wir im Wortlaut in der Hand haben**, aus unserem eigenen Postausgang.
+Zwei Punkte für den Owner, **ohne Bewertung von hier**:
+
+- *„Nobody has needed it yet"* ist eine **Tatsachenbehauptung über die
+  Erstattungshistorie.**
+- *„Zero risk on your side"* steht **ohne die Bedingung „unbenutzt"**, auf die
+  sich die Absage-Vorlage stützt.
+
+Der Footer nennt zudem **Kirchstr. 2, 56753 Mertloch** — dieselbe Anschrift wie
+in den AGB.
+
+#### Der Vorgang selbst
+
+Bestellung **#7555**, 24.08., **34,95 £**, Dunstable (GB), 3 × Plushies
++ **📘 Ratgeber, weiterhin `unfulfilledQuantity: 1`** — **sechster
+Ratgeber-Fall.** `totalRefundedSet` **0.00 £**.
+
+> *„the small Staffie destroyed hers in **two minutes**. **The other two plushy
+> toys have been taken away from the other dogs** […] I have the destroyed one in
+> a bag for return and **will include the other two as well.** Please let me know
+> **how the process works?**"*
+
+**Zwei der drei Stücke sind unbenutzt.** **Sechster solcher Vorgang** — und er
+fragt nach dem Verfahren, **das es nicht gibt.** Der Entwurf sagt ihm das
+offen, warnt ausdrücklich davor, das Paket abzuschicken, und nennt die nicht
+ausgelieferte bezahlte Position.
+
+**Er schreibt von der Bestelladresse** — die ursprüngliche Mail kam von
+`kerrsk4@gmail.com`, die jetzt auf Kopie steht. **Auskunft daher zulässig.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** unbenutzte Ware ohne Rückgabeweg, Erstbitte über einen
+nicht eingesehenen Kanal, dazu der Werbe-Wortlaut.
+
+---
+
+### 📨 #8438 — Anthony Burrell (`burrell-a@sky.com`), 17.09. 19:32 UTC — höfliche Lieferfrage
+
+> *„I ordered the monkey on the 9 of September […] if this item normally take
+> this long to deliver, **or am I been to anxious my apology if I am.**"*
+
+**Er entschuldigt sich dafür, dass er nachfragt.** Bestellung **#8438**,
+09.09., **19,95 £**, 1 × Plushies (Affe), Seaham (GB), **versandt 14.09.**,
+Sendung `UL510080262YP`. Er schreibt **von der Bestelladresse**.
+
+Der Entwurf bestätigt Versanddatum und Sendungsnummer, **nennt aber
+ausdrücklich keinen Liefertermin und keine Zeitspanne** — und **verweist ihn
+nicht an den Zusteller**, sondern lädt ihn ein, sich hier zu melden, wenn die
+Sendung stehen bleibt. **Kein Hinweis darauf, seine Frage sei verfrüht.**
+
+**Label:** `Bot/Draft Ready`.
+
+---
+
+### Stand nach diesem Lauf — Tagesabschluss 17.09. (korrigiert)
+
+- **Neunundzwanzig Vorgänge**, davon **achtundzwanzig Kundenvorgänge.**
+- **Zweiunddreißig Entwürfe** in `docs/entwuerfe-zum-kopieren.md`. **Keiner in
+  Gmail angelegt.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⛔ Die zweite Eingangsadresse ist identifiziert: `paw-friends.uk@paw-friends.uk`.**
+  Mindestens drei Kundenanfragen sind dort gelandet und hier nie angekommen
+  (Kerr 14.09., Wigo zweimal). **Was dort sonst noch offen liegt, ist von hier
+  nicht einsehbar — das ist die dringendste offene Frage.**
+- **⚠️ Die Werbe-Mail vom 27.08. liegt im Wortlaut vor** — *„Nobody has needed it
+  yet"*, *„Zero risk on your side"*, *„Still unbeaten"* —, versandt vom Shop
+  selbst, **ohne** die Bedingung, auf die sich die Absagen stützen.
+- **⛔ Sechs unbenutzte Stücke ohne Rücksendeweg:** #7119, #7347, #7479, #8372,
+  **#7555 (zwei Stück)**. Bei #7479 mit **Frist 21.09.**
+- **Sechster Ratgeber-Fall** (#7555).

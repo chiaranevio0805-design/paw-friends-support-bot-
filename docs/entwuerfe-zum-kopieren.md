@@ -9189,6 +9189,121 @@ der Bestellung steht** — offen gesagt statt verschwiegen. **Keine Annahme
 darüber, was mit den drei Tieren passiert ist** — gefragt, nicht unterstellt.
 Keine Aussage zur Werbung, keine zur Haltbarkeit. Kein Eskalationsmarker im Text.
 
+## #7555 — Steve Kerr (stevejkerr23@gmail.com) — ⛔⛔ zwei unbenutzte Stücke, und seine Bitte kam auf einem Kanal an, den dieses Postfach nicht sieht
+
+**Betreff:** Re: Fwd: Re. Order placed on 24 August 2026
+
+**Neu am 17.09. 19:20 UTC.** Er leitet **seine eigene Mail vom 14.09. 21:44**
+weiter, die er an **`paw-friends.uk@paw-friends.uk`** geschickt hatte — **nicht
+an dieses Postfach.** Drei Tage ohne Antwort.
+
+Bestellung **#7555**, 24.08., **34,95 £**, Dunstable (GB), 3 × Plushies
+(Ente, Hippo, Affe) **+ 📘 Ratgeber, weiterhin `unfulfilledQuantity: 1`**,
+`totalRefundedSet` **0.00 £**.
+
+> *„I gave the three plushy toys to my three dogs (one each) and the small
+> Staffie destroyed hers in **two minutes**. **The other two plushy toys have
+> been taken away from the other dogs** to stop her tearing those to shreds as
+> well!! You say there is a 30day money back guarantee, can I request that
+> please? I have the destroyed one in a bag for return and **will include the
+> other two as well.** Please let me know how the process works?"*
+
+**Er fragt nach dem Verfahren — und es gibt keins.** Zwei der drei Stücke sind
+**unbenutzt**; das ist der **sechste** solche Vorgang, und **wieder ohne
+Rücksendeweg.**
+
+> Dear Steve,
+>
+> Thank you for forwarding this, and I am sorry you had to. **Your message of 14
+> September went to a different address of ours and never reached this desk** — I
+> am not going to pretend it was overlooked here when the truth is it never
+> arrived here at all. That is our problem to fix, not yours.
+>
+> **You asked how the process works, so here is the honest answer rather than a
+> comfortable one: there is no returns address published at the moment, so there
+> is no process I can start for you.** Not because your request falls short of
+> anything — **two of the three have never been given to a dog, which is exactly
+> the condition our own guarantee describes.** You are asking for the thing the
+> policy says you can have, and the route to it does not exist yet.
+>
+> **So please keep the bag where it is and don't post it.** If you send it now you
+> will pay the postage and it will have nowhere to arrive. The moment there is a
+> return route you will get it from me without having to ask again.
+>
+> **I cannot authorise the money myself** — that sits with the shop owner — so you
+> get no promise from me. Your request has gone to him today stated plainly:
+> **three items, one destroyed in two minutes, two untouched, return requested
+> under the guarantee, request originally made on 14 September.**
+>
+> **One more thing you have not been told, and should be.** Your order also
+> included the digital guide you paid for, and our records still show that item
+> as not sent. I do not know whether it reached you. If it did not, say so and I
+> will flag it as outstanding too.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Mitteilung, dass seine Mail nie hier ankam**,
+die Weitergabe mit korrektem Datum seiner Erstbitte, der Hinweis auf die nicht
+ausgelieferte bezahlte Position, und die Zusage, dass er die Rücksendeadresse
+**unaufgefordert** erhält. **Keine Erstattung zugesagt, kein Betrag, kein
+Termin, keine Absage.** Frist nur mit **30 Tagen** benannt, keine andere.
+**Keine Rücksendeadresse erfunden**, samt ausdrücklicher Warnung, nichts zu
+verschicken. **Keine Aussage zur Werbung, keine zur Haltbarkeit**, und **keine
+Aussage über seinen Hund** oder darüber, ob das Spielzeug hätte halten sollen.
+Kein Eskalationsmarker im Text.
+
+---
+
+## #8438 — Anthony Burrell (burrell-a@sky.com) — Erstkontakt, höfliche Lieferfrage
+
+**Betreff:** Re: Pawfreinds
+
+**Neu am 17.09. 19:32 UTC. Erstkontakt, keine Beschwerde.**
+
+> *„I ordered the monkey on the 9 of September, at the moment there's no
+> indication of the order being sent to me my order number is #8438, if this item
+> normally take this long to deliver, **or am I been to anxious my apology if I
+> am.**"*
+
+**Er entschuldigt sich dafür, dass er nachfragt.** Bestellung **#8438**,
+09.09., **19,95 £**, 1 × Plushies (Affe), Seaham (GB). **Versandt am 14.09.**,
+Sendung `UL510080262YP`. Er schreibt **von der Bestelladresse**, die Auskunft
+ist also zulässig.
+
+> Dear Anthony,
+>
+> No apology needed — asking where your order is after a week is not being
+> anxious, it is a reasonable question, and you should have had a notification
+> without having to ask.
+>
+> **Your order did go out.** It was despatched on **14 September** and the
+> tracking reference is **UL510080262YP**. So it is on its way rather than
+> sitting here.
+>
+> **What I am not going to do is give you a delivery date.** Once a parcel is in
+> transit I cannot see reliably when it will land, and a date from me would be a
+> guess dressed up as information. I would rather tell you that than invent one.
+>
+> **If it has not arrived and the tracking stops moving, reply to this email and
+> say so.** I am not going to send you off to chase a carrier yourself — come back
+> here and it stays with us.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Versandbestätigung mit Datum und Sendungsnummer** und
+die Zusage, dass er sich bei Stillstand hier melden kann und der Fall hier
+bleibt. **Kein Liefertermin, keine Zeitspanne, keine Erstattungszusage, kein
+Ersatz.** **Keine Verweisung an den Zusteller** — ausdrücklich das Gegenteil.
+**Keine Aussage über Herkunft oder Versandweg** — er hat nicht danach gefragt;
+falls er es tut, wird wahrheitsgemäß geantwortet. **Kein Hinweis darauf, dass
+seine Frage verfrüht sei.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
