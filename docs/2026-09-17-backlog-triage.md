@@ -1339,3 +1339,99 @@ bei uns liegt** — statt ihn im Unklaren zu lassen, ob sie verloren ging.
 - **⚠️ Vierzehn Währungsfälle** (neu: #7970, 48,46 USD / 35,65 GBP).
 - **⛔ Sechs unbenutzte Stücke ohne Rücksendeweg**, bei #7479 mit **Frist
   21.09.**
+
+---
+
+## Lauf 22:20 UTC — zwei Vorgänge
+
+Suche `in:inbox after:2026/09/17`, Abgleich gegen alle bisherigen Einträge
+dieses Tages. Zwei Nachrichten sind neu.
+
+---
+
+### ⛔⛔ #6583 — Ken Beville (`kenthecarman06@gmail.com`), 17.09. 22:10 UTC — volle Erstattung schriftlich zugesagt, nie ausgeführt
+
+**Die schärfste Fassung des Musters, das heute den ganzen Tag wiederkehrt.**
+
+> *„My initial return inquiry was **Aug.29, 2026**. And **ANOTHER 7 days has past
+> with absolutely no response!!!!** I am **beginning to feel scammed** […]
+> **This will be my last attempt to have this resolved before I seek other
+> avenues.**"*
+
+Bestellung **#6583**, 18.08., **30,54 £**, 2 × Plushies, Valparaiso (US),
+`FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+| Datum | Wer | Was |
+|---|---|---|
+| **29.08.** | Ken | *„Please set-up a return."* |
+| **31.08.** | Shop | **20 %** angeboten |
+| **31.08.** | Ken | *„Please continue with the return for a refund. I do not want to keep them."* |
+| **01.09.** | Shop | **30 %**, *„as a final goodwill gesture"* |
+| **01.09.** | Ken | Abgelehnt: *„**I am unwilling to let my pup use these toys**"* |
+| **03.09.** | Shop | **„they will arrange a *full refund* for your order"** |
+| **09.09.** | Ken | Fragt nach |
+| **10.09.** | Shop | *„forwarded […] to the relevant team […] update as soon as we receive confirmation"* |
+| **17.09.** | Ken | **Vierzehn Tage nach der Zusage. Nichts.** |
+
+**Am 03.09. wurde die volle Erstattung nicht angeboten, sondern zugesagt.**
+`totalRefundedSet` **0.00 £**.
+
+**Das ist:**
+- der **zweite Fall einer schriftlich zugesagten, nie ausgeführten Erstattung**
+  nach **#5148**,
+- die **fünfte gebrochene „Team"-Zusage** (nach #1998/#1084, #5148, #5036,
+  #5905),
+- die **sechste Angebotsleiter** (20 → 30 → volle Erstattung),
+- und der **siebte unbenutzte Fall** — er hat die Spielzeuge **nie an den Hund
+  gegeben.**
+
+**Im Entwurf ausdrücklich nicht getan:** eine **neue** Erstattungszusage oder
+eine **weitere** „Team"-Zusage. Keine Bitte, von *„other avenues"* abzusehen,
+keine Bedingung daran geknüpft, keine rechtliche Einordnung zu *„scammed"*.
+**Die Zusage vom 03.09. wird ihm als das bestätigt, was sie war** — und als
+nicht eingelöst benannt.
+
+**Label:** `Bot/Escalated - Owner Attention`, **höchste Priorität gemeinsam mit
+#7479.**
+**Auf die Erstattungsliste:** **30,54 £, unbenutzt — kein Kauschaden**, Zusage
+vom 03.09. offen.
+
+---
+
+### 📨 #7541 — Lois Hertz (`drlhertz@gmail.com`), 17.09. 21:32 UTC — Erstkontakt, „How do I fix it?"
+
+> *„We received this on Tuesday. By Wednesday afternoon, she had successfully
+> ripped the nose and was pulling out stuffing. I had high hopes for this.
+> **They were dashed within 36 hours. How do I fix it? We are sad.**"*
+
+Bestellung **#7541**, 24.08., **28,50 £**, 2 × Plushies (Schwein + Ente),
+Atlanta (US), `FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+**Sie fordert nichts.** **Fünfter Erstkontakt heute, der eine Frage ist** (nach
+#7163, #7275, #8165, #6032). Der Entwurf verweigert nichts und sagt nichts zu.
+
+**Der Zustand des zweiten Stücks ist unbekannt** — **gefragt, nicht angenommen.**
+**Sechster solcher Fall heute.**
+
+Bild beigefügt — **nicht geöffnet, nicht ausgewertet.**
+
+**Label:** `Bot/Draft Ready`, **mit Entscheidungsvorlage beim Owner.**
+
+---
+
+### Stand nach diesem Lauf — Tagesabschluss 17.09. (dritte Korrektur)
+
+- **Vierunddreißig Vorgänge**, davon **dreiunddreißig Kundenvorgänge.**
+- **Siebenunddreißig Entwürfe** in `docs/entwuerfe-zum-kopieren.md`. **Keiner in
+  Gmail angelegt.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⛔ Fünf gebrochene „Team"-Zusagen:** #1998/#1084, #5148, #5036, #5905,
+  **#6583.**
+- **⛔ Zwei schriftlich zugesagte, nie ausgeführte Erstattungen:** #5148 (50 %,
+  zweimal als *„processed"* bezeichnet), **#6583 (volle Erstattung, 03.09.).**
+- **⛔ Sieben unbenutzte Stücke ohne Rücksendeweg:** #7119, #7347, #7479, #8372,
+  #7555 (zwei), **#6583.** Bei #7479 mit **Frist 21.09.**
+- **Sechs Erstkontakte heute waren Fragen, keine Beschwerden** — #7163, #7275,
+  #8165, #6032, #8438, **#7541.**
+- **Sechs Angebotsleitern belegt:** #5973, #6528, #7060, #6259, #4940,
+  **#6583.**

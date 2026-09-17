@@ -9465,6 +9465,142 @@ Auswertung der Fotos**, nur der Eingang vermerkt. **Keine Aussage zur Werbung,
 keine zur Haltbarkeit**, **kein Widerspruch zu seiner Schilderung.** Keine
 Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
+## #6583 — Ken Beville (kenthecarman06@gmail.com) — ⛔⛔ volle Erstattung schriftlich zugesagt am 03.09., nie ausgeführt
+
+**Betreff:** Re: Order 6583 return
+
+**Neu am 17.09. 22:10 UTC — vierter Kontakt.**
+
+> *„My initial return inquiry was **Aug.29, 2026**. And **ANOTHER 7 days has past
+> with absolutely no response!!!!** I am **beginning to feel scammed** and am
+> contemplating my next steps forward. […] **This will be my last attempt to have
+> this resolved before I seek other avenues.**"*
+
+Bestellung **#6583**, 18.08., **30,54 £**, 2 × Plushies (Ente + Fuchs),
+Valparaiso (US), `FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+**Der Kern — und das ist die schärfste Fassung dieses Musters bisher:**
+
+| Datum | Wer | Was |
+|---|---|---|
+| **29.08.** | Ken | *„I would like to return this item […] Please set-up a return."* |
+| **31.08.** | Shop | **20 %** angeboten, wenn er es behält |
+| **31.08.** | Ken | *„Please continue with the return for a refund. I do not want to keep them."* |
+| **01.09.** | Shop | **30 %** angeboten, *„as a final goodwill gesture"* |
+| **01.09.** | Ken | Abgelehnt: *„**I am unwilling to let my pup use these toys**"* |
+| **03.09.** | Shop | **„We have forwarded your case to our team, and they will arrange a *full refund* for your order."** |
+| **09.09.** | Ken | Fragt nach |
+| **10.09.** | Shop | *„forwarded […] to the relevant team […] update as soon as we receive confirmation"* |
+| **17.09.** | Ken | **Vierzehn Tage nach der Zusage. Nichts.** |
+
+**Am 03.09. wurde ihm eine volle Erstattung nicht in Aussicht gestellt, sondern
+zugesagt.** `totalRefundedSet` steht auf **0.00 £**. Das ist der **zweite Fall
+einer schriftlich zugesagten, nie ausgeführten Erstattung** nach **#5148** —
+und die **fünfte gebrochene „Team"-Zusage.**
+
+**Und:** Er hat die Spielzeuge **nie benutzt** — *„I am unwilling to let my pup
+use these toys."* **Siebter unbenutzter Fall.**
+
+> Dear Ken,
+>
+> You are owed a straight answer, so here it is.
+>
+> **On 3 September you were told, in writing, that a full refund would be
+> arranged for your order.** Not offered — arranged. **It has not been paid.**
+> Our records show nothing refunded against your order at all. I am not going to
+> explain that away, and I am not going to tell you a team is looking into it,
+> because that is what you were told on 3 September and again on the 10th.
+>
+> **I cannot release the money myself** — that sits with the shop owner — so I am
+> not going to become the third person to promise you something I cannot deliver.
+> **What I have done is put it in front of him tonight in the plainest terms I
+> can: a full refund promised in writing on 3 September, nothing paid, nineteen
+> days since the first request.**
+>
+> **You said you never let your dog near them.** That is on the file too, in your
+> words, because it matters — the toys are unused, and that is not in dispute.
+>
+> **Please don't post them back in the meantime.** We do not publish a returns
+> address at present, so a parcel would have nowhere to arrive, and you would be
+> paying postage on top of everything else.
+>
+> **Whatever you decide to do next is entirely your own call** and nothing here is
+> conditional on it.
+>
+> I am sorry. Not for the inconvenience — for the fact that you were given a
+> clear commitment and it was not kept.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ausdrückliche Bestätigung, dass am 03.09. eine volle
+Erstattung zugesagt und nicht ausgeführt wurde**, die Feststellung, dass nichts
+erstattet ist, die Weitergabe mit vollständiger Zeitachse. **Keine neue
+Erstattungszusage, kein Betrag, kein Termin.** **Keine vierte „Team"-Zusage** —
+ausdrücklich nicht. **Keine Bitte, von „other avenues" abzusehen**, und keine
+Bedingung daran geknüpft. **Keine rechtliche Einordnung zu „scammed".** Keine
+Rücksendeadresse, samt Warnung. Kein neues Prozentangebot. Kein
+Eskalationsmarker im Text.
+
+---
+
+## #7541 — Lois Hertz (drlhertz@gmail.com) — Erstkontakt, „How do I fix it?"
+
+**Betreff:** Re: 2 days order 7541
+
+**Neu am 17.09. 21:32 UTC. Erstkontakt.**
+
+> *„We received this on Tuesday. By Wednesday afternoon, she had successfully
+> ripped the nose and was pulling out stuffing. I had high hopes for this. **They
+> were dashed within 36 hours. How do I fix it? We are sad.**"*
+
+Bestellung **#7541**, 24.08., **28,50 £**, 2 × Plushies (Schwein + Ente),
+Atlanta (US), `FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+**Sie fordert nichts und beschwert sich nicht** — sie fragt, wie es weitergeht.
+**Der fünfte Erstkontakt heute, der eine Frage ist.** Der Zustand des **zweiten
+Stücks ist unbekannt** und wird **gefragt, nicht angenommen** — sechster solcher
+Fall heute.
+
+> Dear Lois,
+>
+> Thank you for writing, and I am sorry — that is a disappointing thirty-six
+> hours after looking forward to something.
+>
+> **You asked how to fix it, so let me tell you honestly where that stands rather
+> than give you a policy paragraph.** I cannot authorise a refund or a
+> replacement; that decision is the shop owner's. **So I am not going to promise
+> you either — and I am not refusing you, because nobody has actually decided
+> anything about your case yet.**
+>
+> Your account has gone to him tonight as you wrote it: **received Tuesday,
+> failed by Wednesday afternoon, the nose first and then the stuffing.** Your
+> photograph arrived and is noted with the case.
+>
+> **One thing I would rather ask than assume.** Your order was for two. **I do not
+> know what state the second one is in** — whether she has had it at all. If it is
+> still as it arrived, please say so in a reply, because that is a genuinely
+> different question and I do not want it settled on a guess either way.
+>
+> **Please don't post anything back yet** — we do not publish a returns address at
+> present, so a parcel would have nowhere to arrive.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **mit ihrer Schilderung im Original**, die
+Bestätigung des Bildeingangs, eine Nachfass-Zusage. **Keine Erstattung zugesagt,
+kein Ersatz zugesagt, kein Betrag, kein Termin, keine Absage.** **Keine Annahme
+über den Zustand des zweiten Stücks** — gefragt, nicht unterstellt. **Keine
+Auswertung des Fotos.** **Keine Aussage zur Werbung, keine zur Haltbarkeit**,
+und **keine Aussage darüber, ob das Spielzeug hätte halten sollen.** **Keine
+Frist genannt** — sie hat keine Rückgabe unter der Garantie verlangt. Keine
+Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
