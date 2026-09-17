@@ -1050,3 +1050,79 @@ Bestellung + Erstattung unter der Garantie verlangt).
 - **Vier unbenutzte Stücke warten auf eine Rücksendeadresse, die es nicht
   gibt** — #7119, #7347, #7479, und jede der offenen Nachfragen kann eine fünfte
   ergeben.
+
+---
+
+## Lauf 19:20 UTC — ein Vorgang, und der schwerste des Tages
+
+Suche `in:inbox after:2026/09/17`, Abgleich gegen alle bisherigen Einträge
+dieses Tages. Eine Nachricht ist neu.
+
+---
+
+### ⛔⛔ #4832 — Jim Wigo (`j.wigo@me.com`), 17.09. 18:32 UTC — die Vorlage hat ihm einen Sachverhalt unterstellt
+
+> *„**In this country, we call this fraud.** Such deceptive practice is terrible.
+> **I'll be sure to make my experience well known to the general public**…..thank
+> you."*
+
+**Warum das der schwerste Vorgang des Tages ist.**
+
+Seine Mail vom 15.09. lautete **vollständig und wörtlich**:
+
+> *„Please respond to my request for a refund for 3 plush animals…….Thank you.
+> Jim Wigo"*
+
+**Kein Wort über einen Hund. Kein Wort über Kauschaden.** Die Antwort von
+**10:32** behauptet trotzdem zweimal das Gegenteil — *„the toy was damaged after
+your dog used it"* und *„As the toy was used and damaged by your dog after
+delivery"* — und lehnt ihn **auf dieser erfundenen Grundlage** ab.
+
+**Das ist nicht dieselbe Sache wie bei #7547 oder #7401.** Dort passte die
+Vorlage nicht zum Anliegen. **Hier hat sie einen Sachverhalt erzeugt, den der
+Kunde nie geschildert hat, und ihn dann daran scheitern lassen.** Dass er das
+Ergebnis Betrug nennt, ist von hier aus nicht zu entkräften — **und der Entwurf
+versucht es nicht.** Er stellt fest, dass die Absage falsch war, und überlässt
+die Bewertung dem Kunden und dem Owner.
+
+**Der blinde Fleck, erneut bestätigt:** Die ursprüngliche Erstattungsbitte, auf
+die er sich beruft, ist **in diesem Postfach nicht auffindbar** — auch nicht
+über `in:anywhere`. **Das ist derselbe Befund wie schon einmal bei ihm:** es gibt
+einen Eingangskanal, den dieses Postfach nicht sieht. **Im Entwurf offen
+mitgeteilt**, ausdrücklich als unser Problem und **nicht** als Zweifel daran,
+dass er geschrieben hat.
+
+**⚠️ Datenlage:** Bestellung **#4832**, 07.08., **35,64 £**, West Chester (US),
+`totalRefundedSet` **0.00 £** — geführt unter **`j.wigo@comcast.net`**. Er
+schreibt von **`j.wigo@me.com`**. **Im Entwurf stehen deshalb keine
+Bestellnummer, kein Betrag und keine Anschrift**, und ihm wird offen gesagt,
+warum. **Dritter Adressabgleich-Fall heute** nach #7885 und #8120.
+
+**Was noch offen ist:** Was mit den drei Tieren tatsächlich passiert ist, weiß
+niemand hier. **Der Entwurf fragt danach und unterstellt nichts** — weder
+Kauschaden noch etwas anderes.
+
+**Label:** `Bot/Escalated - Owner Attention`, **hohe Priorität.**
+**Eskalationsgrund:** öffentliche Ankündigung, Betrugsvorwurf, Absage auf einem
+erfundenen Sachverhalt, fehlende Erstbitte im System.
+
+---
+
+### Stand nach diesem Lauf — Tagesabschluss 17.09.
+
+- **Siebenundzwanzig Vorgänge**, davon **sechsundzwanzig Kundenvorgänge.**
+- **Dreißig Entwürfe** liegen in `docs/entwuerfe-zum-kopieren.md`. **Keiner ist
+  in Gmail angelegt** — `create_draft` ist seit dem 21.08. blockiert.
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⛔ Der Vorlagenversand hat heute dreimal am Anliegen vorbei geantwortet:**
+  #7547 (Bitte vor Zustellung), #7401 (Zitat aus der eigenen Produktseite) und
+  **#4832 — dort hat die Vorlage den Sachverhalt erfunden.**
+- **⚠️ Drei Bestellungen mit Adressabweichung oder ohne hinterlegte E-Mail:**
+  #7885, #7275, #8120, **#4832**. In **keinem** Fall wurden Bestelldaten an die
+  schreibende Adresse gegeben.
+- **⚠️ Die Angebotsvorlage bleibt defekt** — fünf Mails, drei Kunden (#4940,
+  #6259, #4055).
+- **⛔ Vier unbenutzte Stücke ohne Rücksendeweg** (#7119, #7347, #7479, #8372),
+  bei #7479 mit **Frist 21.09.**
+- **Der Eingangskanal, den dieses Postfach nicht sieht, ist zum zweiten Mal
+  belegt** — beide Male bei Jim Wigo.

@@ -9109,6 +9109,86 @@ den Zustand des dritten Stücks** — gefragt, nicht unterstellt. **Keine Aussag
 zur Werbung, keine zur Haltbarkeit, keine Auswertung des Fotos.** **Keine Frist
 genannt.** Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
+## #4832 — Jim Wigo (schreibt von j.wigo@me.com) — ⛔ die Vorlage hat ihm einen Sachverhalt unterstellt, den er nie genannt hat
+
+**Betreff:** Re: Refund request
+
+**Neu am 17.09. 18:32 UTC.** Antwort auf die Kauschaden-Vorlage von **10:32**.
+
+> *„**In this country, we call this fraud.** Such deceptive practice is terrible.
+> **I'll be sure to make my experience well known to the general public**…..thank
+> you."*
+
+**Der Kern — und das ist der deutlichste Fall dieser Art bisher:**
+
+Seine Mail vom 15.09. lautete **vollständig**:
+
+> *„Please respond to my request for a refund for 3 plush animals…….Thank you.
+> Jim Wigo"*
+
+**Er hat mit keinem Wort gesagt, dass ein Hund etwas zerkaut hat.** Die Antwort
+von 10:32 behauptet dennoch: *„the toy was damaged after your dog used it"* und
+*„As the toy was used and damaged by your dog after delivery"*. **Die Vorlage hat
+ihm einen Sachverhalt in den Mund gelegt und ihn auf dieser erfundenen Grundlage
+abgelehnt.** Dass er das Ergebnis Betrug nennt, ist von hier aus nicht zu
+entkräften — **und es wird auch nicht versucht.**
+
+**Dazu der bekannte blinde Fleck:** Seine ursprüngliche Erstattungsbitte, auf
+die er sich beruft, **ist in diesem Postfach nicht auffindbar** — auch nicht über
+`in:anywhere`. Sie ist über einen Kanal gekommen, den dieses Postfach nicht
+sieht. **Das wird ihm gesagt, statt so zu tun, als habe er nie geschrieben.**
+
+**Datenlage:** Die Bestellung läuft unter **`j.wigo@comcast.net`**, er schreibt
+von **`j.wigo@me.com`**. **Keine Bestellnummer, kein Betrag, keine Anschrift im
+Entwurf.**
+
+> Dear Jim,
+>
+> The reply you had this morning was wrong, and not in a small way. **You never
+> told us a dog had chewed anything.** Your message said you were waiting on a
+> response about a refund for three plush animals — nothing more. **Our reply
+> invented the reason and then refused you on it.** I am not going to defend that
+> and I am not going to send you another one like it.
+>
+> **On what you called it:** you are entitled to that view and I am not going to
+> argue you out of it. **On making your experience public:** that is your business
+> entirely — I am not going to ask you not to, and nothing here depends on
+> whether you do.
+>
+> **There is something else you should know rather than be left guessing.** You
+> refer to a refund request you already made. **I cannot find it in this mailbox
+> at all**, and I have looked beyond the inbox. It appears to have arrived through
+> a route this mailbox does not see. **That is our problem, not evidence that you
+> did not send it** — and I have flagged it to the shop owner as exactly that.
+>
+> **On the refund: I cannot authorise one**, so there is no promise from me. What
+> has gone to him today is short: **a refund requested for three items, a first
+> request we cannot locate, and a refusal issued on a reason you never gave.**
+>
+> **One administrative note.** The address you are writing from is not the one the
+> order was placed under, so there are order details I am deliberately keeping
+> out of this reply. That is not a brush-off — it is simply not mine to send to
+> an address that is not on the order. The shop owner can match it up properly.
+>
+> If you would tell me what actually happened with the three animals, I will put
+> it on the file **in your words**, so that whatever gets decided is decided on
+> your account and not on a template's assumption.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ausdrückliche Feststellung, dass die Absage auf einem
+erfundenen Sachverhalt beruhte**, die offene Mitteilung, dass seine erste Bitte
+hier nicht auffindbar ist, die Weitergabe an den Owner und das Angebot, seine
+Schilderung wörtlich aufzunehmen. **Keine Erstattung zugesagt, kein Betrag, kein
+Termin, keine Absage.** **Keine rechtliche Einordnung zu „fraud"** — weder
+zustimmend noch bestreitend. **Keine Bitte, nichts zu veröffentlichen, und keine
+Bedingung daran geknüpft.** **Keine Bestelldaten an eine Adresse, die nicht auf
+der Bestellung steht** — offen gesagt statt verschwiegen. **Keine Annahme
+darüber, was mit den drei Tieren passiert ist** — gefragt, nicht unterstellt.
+Keine Aussage zur Werbung, keine zur Haltbarkeit. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
