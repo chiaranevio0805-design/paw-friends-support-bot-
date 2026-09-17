@@ -682,3 +682,133 @@ kein Regel-4-Fall.**
 - **Dreizehn Währungsfälle** (neu: #6751, 41,57 USD / 30,54 GBP).
 - **Fünf Ratgeber-Fälle.**
 - **Ein Vorgang wurde vom 10:20-Lauf übersehen** (#7885) und hier nachgeholt.
+
+---
+
+## Lauf 13:20 UTC — drei Vorgänge, einer davon ein Strukturbefund
+
+Suche `in:inbox after:2026/09/17`, Abgleich gegen alle bisherigen Einträge
+dieses Tages. Drei Threads sind neu, alle drei aus derselben Minute (12:58).
+
+---
+
+### ⚠️⚠️ #4940 — Rena Barnes (`renabarnes@hotmail.com`), 17.09. 12:58 UTC — die Angebotsleiter, von der Kundin selbst benannt
+
+**Das ist der fünfte parallel laufende Verhandlungsfall — und der erste, in dem
+die Kundin das Muster ausspricht.**
+
+> *„**Have I got to send another similar email 4 more times for you to build up
+> to 100% refund?** You did not deliver what you advertised so I would like my
+> money back please. 100% of it. I also had to wait over a month for delivery to
+> find out that your products were a scam!"*
+
+Bestellt **07.08.**, **27,95 £**, 2 × Plushies (Frosch + Elefant), Saint Austell
+(GB), `FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+**Die Leiter, vollständig aus dem Thread belegt:**
+
+| Datum | Angebot im Text | Zur Annahme erbeten | Ihre Antwort |
+|---|---|---|---|
+| 08.09. 08:58 | — (Vollabsage) | — | *„I have screen prints of your advert"* |
+| 09.09. 12:07 | **30 %** | 30 % ✔ | *„full refund is required"* |
+| 11.09. 11:31 | **35 %** | 35 % ✔ | *„I will speak to Trading Standards"* |
+| 13.09. 11:55 | **40 %** | **30 %** ✘ | *„Please stop the silly offers"* |
+| 15.09. 08:12 | **50 %** | **30 %** ✘ | *„the law states […] 100% refund is due"* |
+| 17.09. 09:50 | **60 %** | **30 %** ✘ | heutige Mail |
+
+**Zwei Befunde daraus:**
+
+1. **Die Leiter ist real:** 30 → 35 → 40 → 50 → 60 %, jede Stufe nach einer
+   weiteren Ablehnung. Ihre Frage beschreibt zutreffend, was passiert ist.
+2. **⚠️ Der Widerspruch im Angebotstext steht in DREI ihrer Mails** (13.09.,
+   15.09., 17.09.): der Angebotssatz nennt eine Zahl, der Annahmesatz eine
+   andere. Zusammen mit **#6259** und **#4055** von heute steht derselbe Fehler
+   jetzt in **fünf Mails an drei Kundinnen und Kunden**. **Das ist eine defekte
+   Vorlage, kein Versehen im Einzelfall** — und es gehört korrigiert, bevor die
+   nächste Verhandlungsmail rausgeht.
+
+**Sie hat Screenshots der Werbung** (*„I have screen prints of your advert"*,
+08.09.) und **hat Trading Standards eingeschaltet** (11.09.). Nach #6259
+(Citizens Advice → Trading Standards) der zweite solche Fall.
+
+**Im Entwurf ausdrücklich nicht getan:** ein sechstes Angebot gemacht. Das
+bestehende 60-%-Angebot wird **weder zurückgenommen noch erhöht**. Keine
+rechtliche Einordnung, keine Aussage zur Werbung, keine Bitte, Trading Standards
+nicht einzuschalten.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** Verbraucherrecht zitiert, Behörde eingeschaltet,
+bestrittene Werbeaussage, wiederholter unerledigter Kontakt — **und der
+Textfehler in der Angebotsvorlage.**
+
+---
+
+### 📨 #7163 — Chris McClelland (`riomcclelland@gmail.com`), 17.09. 12:58 UTC — Erstkontakt, Frage statt Beschwerde
+
+Bestellt 22.08., **27,95 £**, 2 × Plushies (Esel + Elefant), Newtownabbey (GB),
+`FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+> *„within 4 days my dog has managed to rip of a leg […] I was wondering if this
+> would be **returnable** as it was stated that this would not happen if you had
+> a dog who loved to chew."*
+
+**Er beschwert sich nicht — er fragt.** Genau der Fall, in dem die
+Kauschaden-Vorlage aus einer Frage eine Konfrontation macht. Der Entwurf zitiert
+den Garantietext, **gibt ihn aber ausdrücklich nicht als Entscheidung über
+seinen Fall aus**, und sagt ihm, dass eine Entscheidung aussteht.
+
+**Foto beigefügt — nicht geöffnet, nicht ausgewertet;** vermerkt ist nur, dass
+Bildmaterial vorliegt.
+
+**Label:** `Bot/Draft Ready`, **mit Entscheidungsvorlage beim Owner.**
+
+---
+
+### ⚠️ #7275 — Nathan Corcoran (`natcor1972@gmail.com`), 17.09. 12:58 UTC — vierter AU-Fall, Bestellung ohne hinterlegte E-Mail
+
+> *„I received my order yesterday and my dog played with them for **about 20
+> minutes** […] I purchased from pawfriends due to the fact that you advertise
+> your products as **indestructible**. I would like to apply for a full refund."*
+
+**Befund 1 — die Bestellung trägt keine E-Mail-Adresse.** `#7275`, 22.08.,
+**44,26 £**, Reedy Creek (AU), 1 × Zahnbuddy + 2 × Plushies, `FULFILLED`,
+`totalRefundedSet` **0.00 £**. Das Feld `email` ist **`null`**; auch der
+Kundendatensatz *Nathan Corcoran* hat **keine** hinterlegte Adresse. Der Name in
+der Lieferanschrift stimmt exakt — **aber ein Namensgleichklang ist keine
+Zuordnung.** **Im Entwurf stehen deshalb keine Bestellnummer, kein Betrag und
+keine Anschrift.** Das gehört im Admin geprüft.
+
+**Befund 2 — vierter australischer Fall.** Reedy Creek liegt in Queensland.
+Nach **#7663 (WA)**, **#7989 (QLD)** und **#7885 (VIC)** wäre er der vierte, dem
+die Vorlage die Bedingung „unbenutzt und in Originalverpackung" entgegenhält,
+der die einzige veröffentlichte AU-Passage ausdrücklich widerspricht.
+**Hier wird die Vorlage gar nicht erst geschickt.**
+
+Fotos beigefügt — **nicht geöffnet, nicht ausgewertet.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** AU-Richtlinienwiderspruch + ungesicherte Zuordnung der
+Bestellung.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Einundzwanzig Vorgänge heute.**
+- **⚠️ Der Widerspruch in der Angebotsvorlage ist ein Strukturfehler:** er steht
+  in **fünf Mails an drei Kundinnen und Kunden** (#4940 dreimal, #6259, #4055),
+  alle innerhalb von fünf Tagen. Der Angebotssatz nennt eine Zahl, der
+  Annahmesatz eine kleinere. **Das gehört korrigiert, bevor die nächste
+  Verhandlungsmail rausgeht.**
+- **Fünf Verhandlungen laufen parallel:** #5973, #6528, #7060, #6259,
+  **#4940 (30/35/40/50/60 %)**.
+- **Vier australische Kunden** sind auf der Bedingung abgelehnt worden oder
+  wären es geworden, der die einzige veröffentlichte Richtlinie für ihr Land
+  widerspricht: #7663, #7989, #7885, **#7275**.
+- **Zwei Kundinnen haben Behörden eingeschaltet:** #6259 (Citizens Advice →
+  Trading Standards), **#4940 (Trading Standards)**. **Eine hat Screenshots der
+  Werbung** (#4940).
+- **Zwanzig Kundinnen und Kunden haben „indestructible" verwendet** — neu:
+  **#7163** und **#7275**, beide als Betreffzeile.
+- **Eine Bestellung ohne hinterlegte E-Mail-Adresse gefunden** (#7275). Ob das
+  ein Einzelfall ist, ist von hier nicht beantwortet.
