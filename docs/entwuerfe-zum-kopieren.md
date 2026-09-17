@@ -7835,6 +7835,113 @@ Eskalationsmarker im Text.
 
 ---
 
+## #7119 — Susan McGee (susanmcgee@outlook.com.au) — ein Stück unberührt, Australien
+
+**Betreff:** Re: ORDER #7119
+
+**Neu am 17.09. 06:22 UTC. Ware heute angekommen. Sie zitiert
+„indestructible" (**achtzehnte Nennung**), bietet die Rückgabe an und hat
+**ein Stück unberührt**. Lieferung nach Tasmanien — damit greift der
+Australien-Befund vom 16.09.**
+
+> Dear Susan,
+>
+> Thank you for writing on the day it arrived, and for being precise about what
+> you have: the pieces of one, and one still intact.
+>
+> **That distinction matters more than you might think, so I have not let it
+> get flattened.** Your order went to the shop owner this morning with both
+> parts stated separately: one toy destroyed, **one never given to the dog at
+> all**. Those are not the same case and I did not want them treated as one.
+>
+> **On returning them:** you offered, and I have to tell you honestly that
+> there is currently nowhere for me to send you. **We do not have a returns
+> address published.** So **please don't post anything yet** — you would pay
+> the postage and the parcel would have nowhere to arrive. The moment there is
+> a route, you will get it from me without having to ask again.
+>
+> **On "advertised as indestructible":** I have checked all nine of our product
+> pages and that word is not on any of them. **That is not me saying you
+> imagined it** — you are the eighteenth person this month to use it with us,
+> and two customers have told us where they saw it. Where it comes from is a
+> question for the shop owner, and it has gone to him as exactly that.
+>
+> **On the refund:** I cannot authorise one, so you will get no promise from me
+> and no refusal either. It is with him today.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe an den Owner **mit ausdrücklicher Trennung
+zwischen zerstörtem und unberührtem Stück**, eine Nachfass-Zusage und die
+Zusage, dass sie die Rücksendeadresse unaufgefordert bekommt. **Keine
+Erstattung zugesagt, kein Betrag, keine Absage, keine Frist.** **Zu
+„indestructible" wird nur das Belegte gesagt** — das Wort steht auf keiner der
+neun Produktseiten — **und ausdrücklich, dass ihr nicht unterstellt wird, es
+erfunden zu haben.** **Keine rechtliche Einordnung** und **kein Hinweis auf
+australisches Verbraucherrecht** — sie hat nicht danach gefragt, und eine
+Rechtsauskunft ist nicht Sache des Supports. **Ihre frühere Ankündigung, die
+Zahlung über die Bank rückabwickeln zu lassen, wird nicht aufgegriffen** und
+nicht zum Thema gemacht. Keine Rücksendeadresse, samt Warnung. Kein
+Eskalationsmarker im Text.
+
+---
+
+## #7610 — Vicky Blow (vannblow@icloud.com) — dritte Fassung
+
+**Betreff:** Re: Refund
+
+**Neu am 17.09. 07:07 UTC. Ihr ist am 15.09. 07:25 die Kauschaden-Vorlage
+zugegangen; sie hat 55 Minuten später geantwortet und meldet sich jetzt zum
+dritten Mal. Sie ist die Kundin, die bereits eine Trustpilot-Bewertung
+veröffentlicht hat.**
+
+> Dear Vicky,
+>
+> You have now asked three times, and you are right to keep asking.
+>
+> **Let me be plain about where your request actually stands, because nobody
+> has told you.** **No refund has been arranged for you, and none has been
+> refused either.** What you received on 15 September was a policy statement,
+> not a decision on your case. I am not going to defend it and I am not going
+> to repeat it.
+>
+> **I cannot authorise a refund myself.** So I will not promise you one — you
+> have had enough words from us. What I have done is put it in front of the
+> shop owner this morning as an open refund request that has been outstanding
+> since 13 September, together with the point you have made twice now: that you
+> waited over two weeks for the toy and it did not last.
+>
+> **One practical thing:** please don't post it back. We do not have a returns
+> address published, so it would have nowhere to arrive and you would be out
+> the postage as well.
+>
+> **On your review:** that is entirely your own business. Nothing here is asked
+> of you in return, and nothing about your order depends on it.
+>
+> If you have heard nothing in a few days, reply here and I will chase it
+> rather than let it drift a fourth time.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **als seit dem 13.09. offene
+Erstattungsanfrage** und eine Nachfass-Zusage. **Keine Erstattung zugesagt,
+kein Betrag, keine Frist, keine Absage.** **Der Kern ist die Klarstellung**,
+dass **nichts veranlasst** ist — damit sie nicht weiter auf Geld wartet, das
+niemand freigegeben hat; **zugleich wird keine Absage erteilt.** Die Vorlage
+vom 15.09. wird **als Richtlinienaussage statt Entscheidung benannt, aber nicht
+aufgehoben.** **Sie wird nicht gebeten, die veröffentlichte Bewertung zu ändern
+oder zu löschen**, und nichts wird davon abhängig gemacht. **Keine Aussage zur
+Werbung** — sie zitiert nichts. Keine Rücksendeadresse, samt Warnung. Kein
+Eskalationsmarker im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

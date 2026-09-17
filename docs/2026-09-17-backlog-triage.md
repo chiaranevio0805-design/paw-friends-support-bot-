@@ -153,3 +153,83 @@ advertising".**
   gefunden. **Die Gesamtzahl steht seit dem 15.09. fest: 1.170 Bestellungen auf
   `PARTIALLY_FULFILLED`.**
 - **Dreizehn Währungsfälle.**
+
+---
+
+## Lauf 07:20 UTC
+
+**Zwei neue Vorgänge — beide Wiederholungskontakte.**
+
+### 🚩🚩 #7119 — Susan McGee (`susanmcgee@outlook.com.au`), 17.09. 06:22 UTC
+
+**Bestellung:** #7119, 22.08.2026, **28,50 £**, `PAID`, **`totalRefundedSet`
+0,00 £**, **2 × Plushies** (*pig*, *fox*), **Blackstone Heights, Tasmanien
+(Australien)**. Sendungsnummer `VR959018244YP`. **Zugestellt heute.**
+
+> *„We received the order today. **It was advertised as indestructible.** We
+> gave one to the dog. **It lasted 10min.** Please refund our money. **We have
+> the pieces of one & one intact. We are happy to return.**"*
+
+**Drei Punkte:**
+
+1. **Achtzehnte Nennung von „indestructible".**
+2. **Zehnter unbenutzt-Fall.** Sie hat **ein Stück unberührt** und sagt es von
+   sich aus. Der Entwurf hält die beiden Stücke **ausdrücklich getrennt**,
+   damit sie nicht als ein Fall behandelt werden.
+3. **Sie liefert nach Australien.** Damit greift der Befund vom 16.09. (#7663,
+   #7989): Der einzige veröffentlichte Abschnitt der Rückgaberichtlinie ist der
+   australische. **Im Entwurf wird darauf nicht hingewiesen** — sie hat nicht
+   danach gefragt, und eine Rechtsauskunft ist nicht Sache des Supports. **Der
+   Hinweis steht hier, für den Owner.**
+
+**Vorgeschichte:** Am 13.09. hatte sie geschrieben, sie habe weder Ware noch
+Sendungsnummer, und angekündigt, die Zahlung über die Bank rückabwickeln zu
+lassen. Am 15.09. bekam sie die Sendungsnummer. **Die damalige Ankündigung wird
+im Entwurf nicht aufgegriffen** und nicht zum Thema gemacht.
+
+**Label:** `Bot/Escalated - Owner Attention`. **Erstattungsliste:** **das
+unberührte Stück aufgenommen — #7119, Betrag offen, Susan McGee, unbenutzt**;
+das zerstörte **nicht**.
+
+---
+
+### 🔁 #7610 — Vicky Blow (`vannblow@icloud.com`), 17.09. 07:07 UTC — dritter Kontakt
+
+**Bestellung:** #7610, 24.08.2026, **19,95 £**, 1 × Plushies, Weldon/Corby
+(GB). **`totalRefundedSet` 0,00 £.**
+
+> *„**I would still like a refund** this product is not made to last."*
+
+**Verlauf:** 13.09. 15:59 Erstanfrage (*„I would like a refund […] not only did
+I wait over two weeks […] my dog has chewed it up straight away"*) → 13.09.
+17:21 Nachtrag → **15.09. 07:25 Kauschaden-Vorlage** → 15.09. 08:20 Antwort
+(**55 Minuten**) → **17.09. 07:07 dritter Kontakt.**
+
+**Sie ist die Kundin, die bereits eine Trustpilot-Bewertung veröffentlicht
+hat** — der erste bestätigte Fall im Log (14.09.).
+
+**Ihre Erstattungsanfrage steht seit dem 13.09. offen.** Sie hat darauf **keine
+Entscheidung** bekommen, sondern eine Richtlinienaussage. **Der Entwurf stellt
+das klar** — nichts ist veranlasst, damit sie nicht weiter wartet — **und
+erteilt zugleich keine Absage.** Er **bittet sie nicht**, die veröffentlichte
+Bewertung zu ändern oder zu löschen, und macht nichts davon abhängig.
+
+**Dritter Fall nach #5148 und #7547, in dem ein Kunde auf eine Entscheidung
+wartet, die nie getroffen wurde.**
+
+**Label:** `Bot/Escalated - Owner Attention`. **Erstattungsliste:** **als
+ungeklärt aufgenommen — #7610, 19,95 £, Vicky Blow, seit 13.09. offene
+Erstattungsanfrage ohne Entscheidung.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Fünf Vorgänge heute.**
+- **Drei Kunden warten auf eine Entscheidung, die nie getroffen wurde**:
+  #5148 (zweimal fälschlich als ausgeführt gemeldet), #7547 (dreimal
+  übergangen), **#7610 (Richtlinienaussage statt Entscheidung).**
+- **Achtzehn Kunden** mit „indestructible".
+- **Zehn unbenutzt-Fälle** auf der Erstattungsliste.
+- **#7699 Lorraine Sales selbstgesetzte Frist läuft heute ab** — bisher keine
+  sichtbare Antwort an sie.
