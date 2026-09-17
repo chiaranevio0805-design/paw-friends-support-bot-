@@ -378,3 +378,123 @@ bestrittene Werbeaussage). **Dritte Entwurfsfassung.**
   auffindbar.**
 - **Ein Kunde hat ausdrücklich gebeten, ihm nicht mehr zu schreiben** (#7316).
   **Das wird befolgt.**
+
+---
+
+## Lauf 11:20 UTC — vier neue Vorgänge
+
+Suche `in:inbox after:2026/09/17`, Abgleich gegen die bisherigen Einträge
+dieses Tages. Vier Threads sind neu gegenüber dem 10:20-Lauf.
+
+---
+
+### ⛔ #5036 — Lynette Lumley (`lynette_lumley@hotmail.com`), 17.09. 10:47 UTC
+
+**Der längste offene Nichtlieferungs-Fall — 40 Tage.**
+
+| | |
+|---|---|
+| Bestellt | **08.08.** |
+| Betrag | **27,95 £** |
+| Inhalt | 2 × Plushies |
+| Ziel | Abingdon |
+| Versand | 22.08. |
+| Sendung | `UL442891848YP` |
+| Tracking sagt | **zugestellt 01.09. 12:54, „safe place"** |
+| Kundin sagt | **nie erhalten** |
+| `totalRefundedSet` | **0.00 £** |
+
+**Zeitachse der unbeantworteten Bitten:**
+
+- **07.09.** — Stornierung und volle Erstattung erbeten. **Zehn Tage ohne
+  Antwort.**
+- **10.09.** — vom Shop mitgeteilt, der Fall gehe an *„the relevant team"*,
+  eine Rückmeldung folge. **Sieben Tage, nichts.**
+- **17.09.** — *„we still haven't received the items and you have my money 🙁"*
+
+Damit ist das die **dritte gebrochene „Team"-Zusage** nach #1998/#1084 und
+#5148 — und der **vierte Kunde, der auf eine nie getroffene Entscheidung
+wartet** (#5148, #7547, #7610, jetzt #5036).
+
+**Nicht im Entwurf enthalten:** keine Verweisung an den Zusteller, keine
+Deutung des Trackings gegen die Kundin, keine Erstattungszusage. Der Entwurf
+benennt offen, dass ihre Bitte vom 07.09. unbeantwortet blieb und die Zusage
+vom 10.09. nicht eingehalten wurde.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** Nichtlieferung über 40 Tage, Erstattungsbitte seit zehn
+Tagen unbeantwortet, zugesagte Rückmeldung nicht erfolgt.
+**Auf die Erstattungsliste als offen:** 27,95 £, **Grund Nichtlieferung — kein
+Kauschaden.**
+
+---
+
+### 📨 #8295 — Ivan Griffen (`griffenivan@gmail.com`), 17.09. 10:50 UTC
+
+**Vorwarnung, keine Beschwerde.**
+
+Bestellt 31.08., **27,95 £**, 2 × Plushies nach Gosport, versandt 08.09.,
+Sendung `UL493236461YP` (Yanwen).
+
+> *„it looks like Evri may have lost my package… Getting the same tracking
+> updates as the last 3 parcels of mine they have lost in the depot"*
+
+**Diskrepanz, die von hier nicht auflösbar ist:** unser Datensatz nennt einen
+**anderen Zusteller** als der Kunde. Die Übergabe an einen lokalen Zusteller ist
+aus dem Shop-Datensatz nicht sichtbar. Der Entwurf **behauptet deshalb nicht**,
+welcher Zusteller die Sendung hat, und **verweist ihn nicht an den Zusteller**.
+Er bestätigt die Meldung, nennt den Stand, den wir sehen, und sagt zu, dass der
+Fall vorgemerkt ist.
+
+**Label:** `Bot/Draft Ready`. Der Entwurf enthält **keine Erstattungszusage** —
+die Ware gilt noch als unterwegs.
+
+---
+
+### ⚠️ #7547 — Luke Prior (`lukepriora20@hotmail.com`), 17.09. 10:50 UTC
+
+**Seine Bitte ist jetzt zum vierten Mal übergangen worden.**
+
+Auf eine **Erstattungsbitte vor Zustellung** kam heute um **09:35** erneut die
+**Kauschaden-Vorlage**. Er beruft sich nun ausdrücklich auf den
+**Consumer Rights Act 2015**.
+
+**Was hier nicht passiert:** keine rechtliche Bewertung seiner Berufung, keine
+Aussage dazu, ob der CRA 2015 den Fall trägt. Der Entwurf bestätigt den
+Sachverhalt — seine Bitte betraf **nicht** Kauschaden — räumt die viermalige
+Fehlbehandlung ein und übergibt an den Owner.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** ausdrückliche Berufung auf Verbraucherrecht +
+wiederholter unerledigter Kontakt. **Dritte Entwurfsfassung.**
+
+---
+
+### 🚩 #7164 — Barry Dunster (`bazdee1974@msn.com`), 17.09. 10:46 UTC
+
+Antwort **elf Minuten** nach der Vorlagen-Absage von 10:36. Er kündigt eine
+**Rückbuchung über die Bank** an — *„my bank did ask me to ask you in the first
+instance"* —, nennt die Bewertungen gefälscht, erwähnt soziale Medien und
+stellt fest, dass ihm **kein Ersatz angeboten** wurde.
+
+**Getrennt gehalten:** seine Sorge, seine E-Mail-Adresse sei weitergegeben
+worden (Betrugsmail), ist **von hier nicht überprüfbar**. Der Entwurf
+**bestätigt und bestreitet dazu nichts** — die Frage geht als **eigene
+Datenfrage** an den Owner.
+
+**Label:** `Bot/Escalated - Owner Attention` (öffentliches Bewertungsmuster,
+bestrittene Werbeaussage, angekündigte Rückbuchung). **Dritte Entwurfsfassung.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Dreizehn Vorgänge heute.**
+- **Vier Kunden warten auf eine nie getroffene Entscheidung:** #5148, #7547,
+  #7610, **#5036**.
+- **Drei gebrochene „relevant team"-Zusagen:** #1998/#1084, #5148, **#5036**.
+- **Zwei Vorgänge wurden heute von der Kauschaden-Vorlage getroffen, obwohl es
+  nicht um Kauschaden ging:** #7547 (vor Zustellung), #7401 (Zitat aus der
+  Produktbeschreibung).
+- **Eine angekündigte Rückbuchung** (#7164).
+- **Offene Erstattungsliste wächst um 27,95 £** (#5036, Nichtlieferung).

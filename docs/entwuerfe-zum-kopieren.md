@@ -8107,6 +8107,217 @@ Eskalationsmarker im Text.
 
 ---
 
+## #5036 — Lynette Lumley (lynette_lumley@hotmail.com) — ⛔ 40 Tage, nie erhalten, Erstattungsbitte seit 10 Tagen unbeantwortet
+
+**Betreff:** Re: Order #5036 confirmed
+
+**Neu am 17.09. 10:47 UTC. **Der längste offene Nichtlieferungsfall im Log.**
+Bestellt am 08.08., nie erhalten, Sendungsverfolgung meldet „zugestellt". Sie
+hat am **07.09.** um Stornierung und volle Erstattung gebeten — **unbeantwortet
+bis heute.** Am 10.09. wurde ihr ein Update „sobald wir mehr wissen" zugesagt;
+das ist **sieben Tage** her.**
+
+> Dear Lynette,
+>
+> You have been extraordinarily patient, and you should not have had to be.
+> Let me tell you plainly where things actually stand, because nobody has.
+>
+> **Your order is from 8 August. That is forty days.**
+>
+> **You asked to cancel and requested a full refund on 7 September. That
+> request has never been answered.** Not refused — **answered**. Ten days have
+> gone by and nobody has told you yes or no. I am not going to pretend that was
+> anything other than a failure on our side.
+>
+> **On 10 September you were told your case had gone to "the relevant team" for
+> investigation with the courier, and that you would hear as soon as there was
+> news.** That was seven days ago. I can see no record of any outcome, and I am
+> not going to repeat that promise to you as if it were new.
+>
+> **What I can and cannot do.** I cannot authorise a refund and I cannot open a
+> claim with the courier — neither is mine to do. So you will get no promise
+> from me and, equally, no refusal.
+>
+> **What I have done** is put your order in front of the shop owner this
+> morning as the oldest unresolved case in the queue, stated as it is: **paid
+> on 8 August, never received, tracking says delivered, refund requested on 7
+> September, unanswered.**
+>
+> I would rather not give you another "we'll be in touch". So: **if you have
+> heard nothing by Monday, reply to this message and I will chase it again**,
+> and I will keep doing that until somebody gives you an answer.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **als ältester unerledigter Vorgang**, eine
+**konkrete** Nachfass-Zusage (Montag) und die Zusage, weiter nachzufassen.
+**Keine Erstattung zugesagt, kein Betrag, keine Absage, keine Frist unserer
+Seite.** **Keine Zusage, dass eine Nachforschung beim Transportdienstleister
+läuft oder eingeleitet wird** — ob die Zusage vom 10.09. je umgesetzt wurde,
+ist von hier nicht feststellbar, und **die Formel „wir melden uns" wird nicht
+wiederholt.** **Keine Aussage darüber, wo das Paket ist**, und **kein Verweis
+auf den Transportdienstleister als ihren Ansprechpartner.** Die unbeantwortete
+Bitte vom 07.09. wird **offen als unser Versäumnis benannt.** Kein
+Eskalationsmarker im Text.
+
+---
+
+## #8295 — Ivan Griffen (griffenivan@gmail.com) — Vorwarnung statt Beschwerde
+
+**Betreff:** Re: Order #8295
+
+**Neu am 17.09. 10:50 UTC. Er beschwert sich nicht — er **warnt vor**, dass
+seine Sendung vermutlich verloren geht, und nennt den Grund aus eigener
+Erfahrung.**
+
+> Dear Ivan,
+>
+> Thank you — and genuinely, thank you for telling us before it became a
+> problem rather than after. That is more useful than a complaint.
+>
+> **Here is what our records hold**, so you can compare it against what you are
+> seeing:
+>
+> - **Ordered:** 31 August 2026
+> - **Shipped:** 8 September 2026
+> - **Carrier on our side:** Yanwen Special Line Promotion
+> - **Tracking number:** UL493236461YP
+> - **Track it here:** https://t.17track.net/en#nums=UL493236461YP
+>
+> **One honest note:** our record names a different carrier than the one you
+> mention, which usually means the parcel was handed over to a local carrier
+> for the last leg. **I cannot see that handover from here**, so I am not going
+> to tell you either that your reading of the tracking is wrong or that it is
+> right. You are closer to it than I am.
+>
+> **I have not waited for it to go missing.** Your message has gone to the shop
+> owner today, flagged as a parcel at risk rather than a parcel already lost,
+> so that it does not sit until the usual waiting period has run.
+>
+> **If it does not arrive, reply to this message and I will chase it** — you
+> will not have to prove anything to me first.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur belegte Angaben — **Bestelldatum, Versanddatum,
+Dienstleister laut Shopdaten, Sendungsnummer und Link** —, die Weitergabe **als
+gefährdete Sendung** und eine Nachfass-Zusage. **Keine Erstattung zugesagt,
+kein Ersatz, kein Zustelldatum, kein Betrag.** **Der Widerspruch zwischen dem
+von ihm genannten und dem bei uns verzeichneten Dienstleister wird offen
+benannt und nicht aufgelöst** — der Übergabepunkt ist von hier nicht einsehbar.
+**Seine Einschätzung wird weder bestätigt noch bestritten.** **Kein Verweis an
+den Transportdienstleister**; das Nachfassen bleibt bei uns. Kein
+Eskalationsmarker im Text.
+
+---
+
+## #7547 — Luke Prior (lukepriora20@hotmail.com) — dritte Fassung
+
+**Betreff:** Re: No order
+
+**Neu am 17.09. 10:50 UTC. Ihm ist heute 09:35 die Kauschaden-Vorlage
+zugegangen — auf eine Erstattungsbitte, die er **vor** Zustellung gestellt
+hatte. Er beruft sich jetzt ausdrücklich auf den **Consumer Rights Act 2015**.**
+
+> Dear Luke,
+>
+> The reply you received this morning was the wrong answer to your question,
+> and I am not going to leave that standing.
+>
+> **You asked for a refund on 11 September, before the parcel had even
+> arrived**, because the wait had become unreasonable. That request was passed
+> over on the 13th, on the 15th, and again this morning — **this time answered
+> with a policy about chewed toys, which was never what you asked about.** Four
+> times. I am not going to defend it.
+>
+> **On the Consumer Rights Act:** you have set out your position clearly, and I
+> am not going to argue with it or offer you a legal view — that is not mine to
+> give and you would be right not to accept one from me. Your position has gone
+> to the shop owner today **in your own words, quoted, not summarised.**
+>
+> **On the refund itself:** I cannot authorise one. So you get no promise from
+> me — and no fifth brush-off either. What has gone to him is stated as what it
+> is: **a refund requested before delivery, on grounds of an unreasonable wait,
+> outstanding since 11 September**, plus your position on the goods now that
+> they have arrived.
+>
+> **Please don't post the toy back** in the meantime — we have no returns
+> address published, so it would have nowhere to arrive.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **mit korrekter Einordnung** (Erstattung
+vor Zustellung, seit 11.09. offen) **und wörtlicher Wiedergabe seiner
+Position**, dazu eine Nachfass-Zusage. **Keine Erstattung zugesagt, kein
+Betrag, keine Absage, keine Frist.** **Keine rechtliche Einordnung zum Consumer
+Rights Act** — weder zustimmend noch ablehnend; ausdrücklich gesagt, dass eine
+Rechtsauskunft von hier nichts wert wäre. **Die Vorlage von heute früh wird als
+sachfremd benannt, aber nicht aufgehoben.** **Keine Aussage zur Werbung.** Keine
+Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
+
+---
+
+## #7164 — Barry Dunster (bazdee1974@msn.com) — dritte Fassung
+
+**Betreff:** Re: My order
+
+**Neu am 17.09. 10:46 UTC — **elf Minuten** nach der Kauschaden-Vorlage von
+10:36. Er kündigt Chargeback über die Bank an, sagt, die Bank habe ihn an uns
+verwiesen, nennt die Bewertungen gefälscht und erwägt soziale Medien.**
+
+> Dear Barry,
+>
+> You wrote to us on Monday and again this morning, and what came back was a
+> standard reply about chewed toys. **That is not what you reported, either
+> time.** You told us the item is not what was advertised and that it became
+> unsafe. I am not going to defend that reply and I am not going to send you
+> another one like it.
+>
+> **On your bank:** you say they asked you to come to us first. You have now
+> done that twice. Whatever you decide from here is entirely your right, and I
+> am not going to try to talk you out of it or make anything conditional on it.
+>
+> **On a replacement:** you are right that none was offered. I cannot offer you
+> one either — that decision is the shop owner's, as is the refund. So you get
+> no promise from me, and no third refusal.
+>
+> **What I have done** is put your file in front of him today with all three
+> points kept separate, because they are not the same thing: **the product not
+> matching what was advertised**, **the safety concern**, and **the question
+> you raised about your email address and the scam mail you have started
+> receiving.** That last one is going to him as a data question, not as part of
+> a product complaint.
+>
+> **On the reviews:** I cannot verify them from where I work, so I am not going
+> to assure you they are genuine. You have looked at them and I have not.
+>
+> **Please don't post anything back yet** — we have no returns address
+> published, so you would pay postage on a parcel with nowhere to arrive.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** nur die Weitergabe an den Owner **mit den drei Punkten
+getrennt** — Produkt, Sicherheit, Datenfrage. **Keine Erstattung zugesagt, kein
+Ersatz, kein Porto, kein Betrag, keine Absage.** **Kein Versuch, ihn vom
+Chargeback abzubringen**, und nichts wird davon abhängig gemacht. **Die
+Echtheit der Bewertungen wird weder bestätigt noch bestritten** — nicht
+prüfbar, und das steht so im Text. **Keine Aussage zur Produktsicherheit in
+irgendeine Richtung**, **keine Aussage darüber, was er erhalten hat**, **keine
+rechtliche Einordnung** zu „not fit for purpose". Fotos nicht geöffnet. Keine
+Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
+
+---
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
