@@ -276,3 +276,81 @@ bestritten. Ebenso wenig wird seine Frage nach der **Werbung** mit einem Absatz
   wären es geworden, der die einzige veröffentlichte Richtlinie für ihr Land
   widerspricht: #7663, #7989, #7885, #7275, #7896, **#6311.**
 - **Vierundzwanzig Kundinnen und Kunden haben „indestructible" verwendet.**
+
+---
+
+## Lauf 04:20 UTC — zwei Vorgänge
+
+Suche `in:inbox after:2026/09/17`, Abgleich gegen den 03:20-Lauf. Drei
+Nachrichten sind in der Liste neu aufgetaucht; **eine davon ist bereits
+erfasst.**
+
+**Bereits erfasst, kein neuer Vorgang:** `davehickman71@gmail.com` (**#6254**,
+15.09. 20:26) erscheint erneut als ungelesen. **Die Nachricht ist im Log vom
+15.09. vollständig behandelt** — geprüft, nicht doppelt bearbeitet.
+
+---
+
+### ⚠️ #7815 — Angela Stevens (`angedave@bigpond.net.au`), 18.09. 03:45 UTC — siebter AU-Fall
+
+> *„This toy has been **ripped within 2 weeks** of giving to my dog. **Can i have
+> a more durable toy or a refund please.**"*
+
+Bestellung **#7815**, 26.08., **20,34 £**, 1 × Plushies (Schwein),
+**Wonga Park, Victoria (AU)**, `FULFILLED`, `totalRefundedSet` **0.00 £**.
+Erstkontakt.
+
+**Siebter australischer Fall** nach #7663 (WA), #7989 (QLD), #7885 (VIC),
+#7275 (QLD), #7896 (NSW), #6311 (WA). **Fünf davon allein in den letzten
+36 Stunden.**
+
+**Sie fordert nichts einseitig, sondern stellt zwei Möglichkeiten zur Wahl** —
+haltbareres Spielzeug **oder** Erstattung. Genau der Fall, in dem eine
+Absage-Vorlage aus einem Entgegenkommen eine Zurückweisung macht. **Der Entwurf
+verweigert nichts und sagt nichts zu**, und **beide** von ihr genannten Optionen
+gehen im Original an den Owner.
+
+**Im Entwurf ausdrücklich nicht getan:** eine Aussage dazu, **ob es ein
+haltbareres Produkt gibt** — das wäre eine Produktaussage, die von hier nicht
+belegbar ist. Ebenso keine rechtliche Bewertung; die AU-Passage wird zitiert,
+nicht ausgelegt.
+
+Zwei Bilder — **nicht geöffnet, nicht ausgewertet.**
+
+**Label:** `Bot/Escalated - Owner Attention` (AU-Richtlinienwiderspruch;
+Entscheidung zwischen zwei Optionen liegt beim Owner).
+
+---
+
+### ⬜ #7676 — Sean Cragan (`seancragan@gmail.com`), 18.09. 03:25 UTC — zufriedener Kunde
+
+> *„Got it thanks **my Frenchie loves it**"*
+
+Bestellung **#7676**, 25.08., **20,35 £**, 1 × Plushies (Esel),
+East Bunbury (AU), `FULFILLED`.
+
+**Kein Anliegen, keine Beschwerde, nichts zu entscheiden.** Ein **kurzer,
+optionaler** Dank liegt bereit; er **muss nicht gesendet werden.**
+
+**Ausdrücklich nicht getan:** ihn um eine Bewertung gebeten, ihm ein weiteres
+Produkt angeboten, **oder seine Rückmeldung als Beleg für irgendeine
+Produktaussage verwendet.** Eine zufriedene Rückmeldung sagt über die
+Haltbarkeitsfrage **nichts** aus — sie wird hier vermerkt, weil sie eingegangen
+ist, und nicht gegen die anderen Vorgänge gestellt.
+
+**Label:** `Bot/No Action`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Sieben Vorgänge am 18.09.**, davon einer ohne Handlungsbedarf.
+- **Vierundvierzig Entwürfe** in `docs/entwuerfe-zum-kopieren.md`, **keiner in
+  Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **Sieben australische Kunden** stehen inzwischen unter der Bedingung, der die
+  einzige veröffentlichte Richtlinie für ihr Land widerspricht: #7663, #7989,
+  #7885, #7275, #7896, #6311, **#7815.** **Fünf davon kamen in den letzten
+  36 Stunden.**
+- **Eine bereits erfasste Nachricht tauchte erneut als ungelesen auf** (#6254).
+  **Geprüft, nicht doppelt bearbeitet.**

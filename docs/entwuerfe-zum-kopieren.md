@@ -9936,6 +9936,100 @@ des zweiten Stücks** — gefragt, nicht unterstellt. **Keine Auswertung der
 Fotos**, keine Aussage zur Haltbarkeit, **keine Aussage über seinen Hund.**
 Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
+## #7815 — Angela Stevens (angedave@bigpond.net.au) — siebter AU-Fall, sie stellt zwei Optionen zur Wahl
+
+**Betreff:** Re: Re order 7815
+
+**Neu am 18.09. 03:45 UTC. Erstkontakt.**
+
+> *„This toy has been **ripped within 2 weeks** of giving to my dog. **Can i have
+> a more durable toy or a refund please.** See photos attached."*
+
+Bestellung **#7815**, 26.08., **20,34 £**, 1 × Plushies (Schwein),
+**Wonga Park, Victoria (AU)**, `FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+**Siebter australischer Fall** nach #7663 (WA), #7989 (QLD), #7885 (VIC),
+#7275 (QLD), #7896 (NSW), #6311 (WA).
+
+**Sie fordert nichts einseitig** — sie nennt **zwei** Möglichkeiten und
+überlässt uns die Wahl. Genau der Fall, in dem eine Absage-Vorlage aus einem
+Entgegenkommen eine Zurückweisung macht.
+
+Zwei Bilder beigefügt — **nicht geöffnet, nicht ausgewertet.**
+
+> Dear Angela,
+>
+> Thank you for writing, and for offering us two ways to put it right rather than
+> insisting on one.
+>
+> **I cannot authorise either of them** — a replacement and a refund are both the
+> shop owner's to decide, not mine — so I am not going to promise you one and
+> then leave you waiting. **But I am not refusing you either**, and you are not
+> going to get a form letter from me while the question is genuinely open.
+>
+> **One thing that may matter to how this is decided.** Your order was delivered
+> in Australia, and the returns section we publish for Australian customers
+> states that Australian consumer rights **are not limited by the requirement
+> that an item be unused or in its original packaging.** That is our own published
+> text. **I am not giving you a legal opinion on it** — that is not mine to give —
+> but it would not be honest to answer you as though that section did not exist,
+> and it has gone to him alongside your message.
+>
+> Your request is on the file as you put it: **ripped within two weeks, and you
+> would accept either a more durable toy or a refund.** Your photographs arrived
+> and are noted.
+>
+> **Please don't post anything back yet** — we do not publish a returns address at
+> present, so a parcel would have nowhere to arrive.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **beider von ihr genannten Optionen im
+Original**, die Bestätigung des Bildeingangs und eine Nachfass-Zusage. **Keine
+Erstattung zugesagt, kein Ersatz zugesagt, kein Betrag, kein Termin, keine
+Absage.** Die AU-Passage wird **zitiert, nicht ausgelegt**; **keine rechtliche
+Bewertung.** **Keine Aussage dazu, ob ein haltbareres Produkt existiert** — das
+wäre eine Produktaussage, die von hier nicht belegbar ist. **Keine Auswertung
+der Fotos**, keine Aussage zur Haltbarkeit, keine zur Werbung. Keine
+Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
+
+---
+
+## #7676 — Sean Cragan (seancragan@gmail.com) — ⬜ zufriedener Kunde, kein Vorgang
+
+**Betreff:** Re: (ohne Betreff)
+
+**Neu am 18.09. 03:25 UTC.**
+
+> *„Got it thanks **my Frenchie loves it**"*
+
+Bestellung **#7676**, 25.08., **20,35 £**, 1 × Plushies (Esel),
+East Bunbury (AU), `FULFILLED`.
+
+**Kein Anliegen, keine Beschwerde, nichts zu entscheiden.** Der Vollständigkeit
+halber ein **kurzer, optionaler** Dank — **er muss nicht gesendet werden**, und
+es geht nichts verloren, wenn er ungesendet bleibt.
+
+> Dear Sean,
+>
+> Thank you for letting us know — that is a good message to get, and I am glad
+> it landed safely and that it is going down well.
+>
+> Nothing needed from your side. If anything does come up, just reply here.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin: keine.** Kein Betrag, kein Termin, keine Erstattung, kein
+Ersatz, **keine Bitte um eine Bewertung** und **keine Werbung für ein weiteres
+Produkt.** **Seine Rückmeldung wird nicht als Beleg für irgendeine
+Produktaussage verwendet** — weder ihm gegenüber noch im Log.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
