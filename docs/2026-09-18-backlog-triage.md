@@ -1036,3 +1036,59 @@ nicht zur Bedingung gemacht.**
   weitergegeben.**
 - **Fünf Bestellungen mit belegter Liegezeit von acht bis zwölf Tagen vor
   Versand:** #7970, #7459, #8002, #8295, **#8312.**
+
+---
+
+## Lauf 17:20 UTC — ein Vorgang
+
+Suche `in:inbox after:2026/09/18`, Abgleich gegen den 16:20-Lauf. Eine
+Nachricht ist neu.
+
+---
+
+### 📨 #8407 — Susan (`susaninshepton@gmail.com`), 18.09. 17:15 UTC — Erstkontakt
+
+> *„Unfortunately **your toy does not live up to its name!** It took my dog
+> **20 mins** to totally destroy the toy and **chew the squeak** [out]. This is
+> very disappointing considering **the cost and recommendation**."*
+
+Bestellung **#8407**, 08.09., **27,95 £**, 2 × Plushies (Elefant + Affe),
+Ayton (GB), **versandt 09.09. — einen Tag nach der Bestellung.**
+`totalRefundedSet` **0.00 £**.
+
+**Randnotiz zum Versand:** Diese Bestellung ging **am Folgetag** raus. Das ist
+die schnellste Abwicklung dieser Woche — im Kontrast zu den **fünf
+Bestellungen mit acht bis zwölf Tagen Liegezeit** (#7970, #7459, #8002, #8295,
+#8312). **Die Verzögerung ist also nicht durchgängig, sondern ungleichmäßig.**
+
+**Drei Punkte:**
+
+1. **Der Zustand des zweiten Stücks ist unbekannt** — sie schreibt *„the toy"*,
+   Einzahl. **Siebter solcher Fall.** **Gefragt, nicht angenommen.**
+2. **„Recommendation" wird nicht gedeutet.** Werbung oder persönliche
+   Empfehlung — das steht nicht da und **wird nicht geraten.**
+3. **Für den Owner, nicht für die Kundin:** Sie berichtet, der **Quietscher sei
+   herausgekaut** worden. **Damit ist das heute die dritte Meldung zu sich
+   lösenden Kleinteilen** — #8406 (verschluckt), #8312 (befürchtet), **#8407
+   (herausgekaut)**. **Im Entwurf steht dazu nichts:** sie hat es nicht als
+   Sorge formuliert, und es wird ihr **keine Sorge untergeschoben** und **keine
+   Sicherheitsaussage** gemacht.
+
+Ein Bild — **nicht geöffnet, nicht ausgewertet.**
+
+**Label:** `Bot/Draft Ready`, **mit Entscheidungsvorlage beim Owner.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Vierundzwanzig Kundenvorgänge am 18.09.**
+- **Einundsechzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⚠️ Drei Meldungen zu sich lösenden Kleinteilen an einem Tag** — #8406,
+  #8312, **#8407**. **Zwei davon haben es als Sorge formuliert, eine nicht.**
+  **In keinem Entwurf steht eine Aussage zu Material oder Sicherheit.**
+- **Sieben Vorgänge hängen am Zustand eines zweiten oder dritten Stücks** —
+  in **allen** wurde gefragt statt angenommen.
+- **Der Spätversand ist nicht durchgängig:** #8407 ging am Folgetag raus,
+  fünf andere lagen acht bis zwölf Tage.

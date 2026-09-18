@@ -11113,6 +11113,74 @@ ausdrücklich nicht zur Bedingung gemacht.** Keine Aussage zur Haltbarkeit, kein
 zur Werbung. Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im
 Text.
 
+## #8407 — Susan (susaninshepton@gmail.com) — Erstkontakt, zweites Stück unbekannt
+
+**Betreff:** Re: Indestructible toy
+
+**Neu am 18.09. 17:15 UTC. Erstkontakt.**
+
+> *„Unfortunately **your toy does not live up to its name!** It took my dog
+> **20 mins** to totally destroy the toy and **chew the squeak** [out]. This is
+> very disappointing considering **the cost and recommendation**."*
+
+Bestellung **#8407**, 08.09., **27,95 £**, 2 × Plushies (Elefant + Affe),
+Ayton (GB), versandt 09.09. — **einen Tag nach Bestellung, die schnellste
+Abwicklung in dieser Woche.** `totalRefundedSet` **0.00 £**.
+
+**Drei Punkte:**
+
+1. **Der Zustand des zweiten Stücks ist unbekannt** — sie schreibt von *„the
+   toy"*, Einzahl. **Siebter solcher Fall.** **Gefragt, nicht angenommen.**
+2. **„Recommendation" wird nicht gedeutet.** Ob sie Werbung oder eine
+   persönliche Empfehlung meint, steht nicht da — **es wird nicht geraten**, und
+   ihre Formulierung geht im Original weiter.
+3. **Für den Owner, nicht für sie:** sie berichtet, der **Quietscher sei
+   herausgekaut** worden. **Das ist heute die dritte Meldung zu sich lösenden
+   Kleinteilen** (#8406 verschluckt, #8312 befürchtet). **Im Entwurf steht dazu
+   nichts** — sie hat es nicht als Sorge formuliert, und es wird ihr keine
+   Sorge untergeschoben und keine Aussage zur Sicherheit gemacht.
+
+Ein Bild — **nicht geöffnet, nicht ausgewertet.**
+
+> Dear Susan,
+>
+> Thank you for writing, and I am sorry — twenty minutes is not what anyone
+> expects after paying for it.
+>
+> **I cannot authorise a refund** — that decision is the shop owner's, not mine —
+> **so I am not going to promise you one.** But I am also not sending you a
+> standard refusal, because nobody has actually decided anything about your case
+> yet and a refusal from me would just be a form letter.
+>
+> Your account has gone to him as you wrote it: **twenty minutes, the toy
+> destroyed and the squeaker chewed out.** Your photograph arrived and is noted
+> with it.
+>
+> **One thing I would rather ask than assume.** Your order was for two.
+> **I don't know what state the second one is in** — whether your dog has had it
+> at all. If it is still as it arrived, please say so in a reply, because that is
+> a genuinely different question and I do not want it settled on a guess either
+> way.
+>
+> **Please don't post anything back yet** — we do not publish a returns address at
+> present, so a parcel would have nowhere to arrive.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **mit ihrer Schilderung im Original**, die
+Bestätigung des Bildeingangs, eine Nachfass-Zusage. **Keine Erstattung zugesagt,
+kein Ersatz, kein Betrag, kein Termin, keine Absage.** **Keine Annahme über den
+Zustand des zweiten Stücks** — gefragt, nicht unterstellt. **Keine Deutung, was
+sie mit „recommendation" meint.** **Keine Aussage zur Werbung**, keine zur
+Haltbarkeit, **keine Aussage zum herausgekauten Quietscher in
+sicherheitlicher Hinsicht** — sie hat das nicht als Sorge formuliert, und es
+wird ihr keine untergeschoben. **Keine Auswertung des Fotos.** **Keine Frist
+genannt.** Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
