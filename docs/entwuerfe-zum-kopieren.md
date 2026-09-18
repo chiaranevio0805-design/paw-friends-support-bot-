@@ -9601,6 +9601,187 @@ und **keine Aussage darüber, ob das Spielzeug hätte halten sollen.** **Keine
 Frist genannt** — sie hat keine Rückgabe unter der Garantie verlangt. Keine
 Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
+## #7048 — Josephine Carr (jocarr247@yahoo.com) — ⚠️ 30 % angeboten, obwohl die Ware ungeöffnet ist
+
+**Betreff:** Re: #7048
+
+**Neu am 17.09. 23:56 UTC.** Antwort auf das 30-%-Angebot von 10:31.
+
+> *„Really not happy with 30% as the quality is nothing like advertised they are
+> cheap and nasty soft toys. And also with the long wait I think its absolutely
+> disgusting. **I should at least get over 50% refund.**"*
+
+Bestellung **#7048**, 21.08., **27,95 £**, 2 × Plushies (Elch + Hippo),
+Darlington (GB), `FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+**Der Kern:** Am **15.09.** hat sie geschrieben:
+
+> *„**They haven't been opened** so want this dealing with ASAP"*
+
+**Am 17.09. wurde ihr trotzdem angeboten, die Spielzeuge gegen 30 % zu
+behalten** — Ware, die sie nicht ausgepackt hat und ausdrücklich nicht behalten
+will. **Achter unbenutzter Fall, und wieder ohne Rückgabeweg.**
+
+> Dear Miss Carr,
+>
+> Thank you for coming back, and I want to address something before the
+> percentage, because I think it is the more important point.
+>
+> **On 15 September you told us the toys had not been opened.** Two days later you
+> were offered thirty per cent **to keep them.** That was the wrong offer to make
+> to someone holding an unopened parcel they have said they do not want, and I am
+> not going to defend it.
+>
+> **An unopened, unused item is precisely what our published thirty-day guarantee
+> describes.** So you are not asking for a concession — you are asking for what
+> the policy already says.
+>
+> **Here is the part I cannot fix tonight, and you should have it straight:
+> there is no returns address published at the moment, so there is no return
+> process I can start for you.** That is a failure on our side, not a gap in your
+> claim. **Please don't post the parcel** — if you send it now you will pay the
+> postage and it will have nowhere to arrive.
+>
+> **On the figure: I cannot authorise any refund**, thirty per cent or otherwise,
+> so I am not going to name a number or make you a counter-offer. **Another
+> percentage from me would just be more of what you are objecting to.** What has
+> gone to the shop owner is stated plainly: **an unopened order, a return
+> requested on 15 September, and a partial offer made instead.**
+>
+> The wait you describe is on the file too, in your words.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass das 30-%-Angebot bei
+ungeöffneter Ware falsch war**, die Einordnung ihres Falls unter die
+veröffentlichte Garantie, die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Keine Erstattung zugesagt, kein Prozentsatz, kein Gegenangebot, kein Betrag,
+kein Termin.** **Das bestehende 30-%-Angebot wird weder zurückgenommen noch
+erhöht.** Frist nur mit **30 Tagen** benannt. **Keine Rücksendeadresse
+erfunden**, samt Warnung. **Keine Aussage dazu, ob die Werbung zutrifft**, und
+**keine Aussage zur Qualität** — ihre Einschätzung wird ihr nicht ausgeredet.
+Kein Eskalationsmarker im Text.
+
+---
+
+## #7896 — Jacqueline Dovale (jacqui.dovale@gmail.com) — ⚠️ fünfter AU-Fall
+
+**Betreff:** Re: Order #7896 on Shop
+
+**Neu am 17.09. 23:39 UTC. Erstkontakt.**
+
+> *„I purchased 3 Plushies from you as **the description stated they were
+> indestructible**. I received my order **within 2 days the toys were
+> destroyed.**"*
+
+Bestellung **#7896**, 27.08., **48,87 £**, 3 × Plushies (Hippo, 2 × Schwein),
+**Tallong, NSW — Australien**, `FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+**Fünfter australischer Fall** nach #7663, #7989, #7885, #7275 — und wieder
+gilt: die **einzige** veröffentlichte Rückgabepassage des Shops ist die
+australische, und sie widerspricht der Bedingung, auf die sich die Vorlage
+stützt. **Die Vorlage wird hier gar nicht erst geschickt.**
+
+Drei Bilder beigefügt — **nicht geöffnet, nicht ausgewertet.**
+
+> Dear Jacqueline,
+>
+> Thank you for writing, and for saying exactly what you bought on and what
+> happened.
+>
+> **I cannot authorise a refund** — that decision is the shop owner's — so I am
+> not going to promise you one. **But you are not getting a standard refusal from
+> me either, and I want to explain why rather than leave you wondering.**
+>
+> **Your order was delivered in Australia.** The returns section we publish for
+> Australian customers states that Australian consumer rights **are not limited by
+> the requirement that an item be unused or in its original packaging.** That is
+> our own published text. It would not be honest of me to answer you with a
+> policy line that our own published policy contradicts, so I have not. **I am
+> also not going to give you a legal opinion** — that is not mine to give.
+>
+> **On the word you quoted:** you say the description stated the toys were
+> indestructible. **I am not going to tell you that you misread it**, and I am not
+> going to confirm it either — what our advertising has said, and where, is for
+> the shop owner to answer, not me. Your quotation has gone to him **in your own
+> words.**
+>
+> Your request and your photographs are on the file as: **three items, destroyed
+> within two days of delivery, refund requested.**
+>
+> **Please don't post anything back yet** — we do not publish a returns address at
+> present, so a parcel would have nowhere to arrive.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **mit ihrem Zitat im Original** und eine
+Nachfass-Zusage. **Keine Erstattung zugesagt, kein Betrag, kein Termin, keine
+Absage.** Die AU-Passage wird **zitiert, nicht ausgelegt**; **keine rechtliche
+Bewertung.** **Die Werbeaussage wird weder bestätigt noch bestritten.** **Keine
+Auswertung der Fotos.** Keine Rücksendeadresse, samt Warnung. Kein
+Eskalationsmarker im Text.
+
+---
+
+## #8316 — Bryce Putt (bryce.putt23@icloud.com) — Erstkontakt
+
+**Betreff:** Re: Dog toy
+
+**Neu am 17.09. 23:45 UTC. Erstkontakt.**
+
+> *„So I bought my dog one of your toys. And **you claim it's indestructible**,
+> well my dog (dachshund) had it for **10 minutes** and destroyed it. I'd like a
+> refund for the product that is now destroyed. **I'll attach pictures for
+> proof.**"*
+
+Bestellung **#8316**, 31.08., **20,35 £**, 1 × Plushies (Affe),
+Chambersburg (US), `FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+Zwei Bilder beigefügt — **nicht geöffnet, nicht ausgewertet;** vermerkt ist nur,
+dass Bildmaterial vorliegt.
+
+> Dear Bryce,
+>
+> Thank you for writing, and for setting it out as plainly as you did.
+>
+> **I cannot authorise a refund** — that decision is the shop owner's — so I am
+> not going to promise you one. **I am also not going to send you a standard
+> refusal**, because nobody has actually decided anything about your case yet and
+> a refusal from me would just be a form letter.
+>
+> **On the claim you quoted:** you say we describe the toys as indestructible.
+> **I am not going to argue with you about what our advertising says** — where
+> that wording appears, and whether it stands up, is for the shop owner to answer
+> and not for me. Your quotation has gone to him **in your own words**, not
+> summarised.
+>
+> Your photographs arrived and are noted with the case. Your request is on the
+> file as: **one item, ten minutes, refund requested.**
+>
+> **Please don't post anything back yet** — we do not publish a returns address at
+> present, so a parcel would have nowhere to arrive.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **mit seinem Zitat im Original**, die
+Bestätigung des Bildeingangs, eine Nachfass-Zusage. **Keine Erstattung zugesagt,
+kein Betrag, kein Termin, keine Absage.** **Die Werbeaussage wird weder
+bestätigt noch bestritten.** **Keine Auswertung der Fotos**, keine Aussage zur
+Haltbarkeit, **keine Aussage über seinen Hund.** **Keine Frist genannt.** Keine
+Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
