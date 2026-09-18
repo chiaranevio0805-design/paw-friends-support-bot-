@@ -10327,6 +10327,184 @@ eigenen Frist (23.09.)** und die Zusage, dass er nicht von vorn anfangen muss.
 offen benannt. **Keine Verweisung an den Zusteller**, und **keine Bewertung
 seiner Aussage über den Zusteller.** Kein Eskalationsmarker im Text.
 
+## #6384 — Simon Foord (simonfoord@me.com) — zweite Fassung, „not fit for purpose"
+
+**Betreff:** Re: Order 6384
+
+**Neu am 18.09. 11:26 UTC**, **elf Minuten** nach der Kauschaden-Vorlage von
+11:15.
+
+> *„Sorry **I do not agree** with your email. **The product is not fit for
+> purpose.** You advertise as indestructible and it lasted **less than 5 minutes**
+> with a Pug! Please arrange refund as they are **not fit for purpose and not as
+> advertised**."*
+
+Bestellung **#6384**, 16.08., **27,95 £**, 2 × Plushies (Ente + Esel),
+Whiteley (GB), `FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+**Er hat am 16.09. um ein Rücksendeetikett gebeten** — *„Please send returns
+label"*. **Darauf kam die Kauschaden-Vorlage.** Die Bitte selbst ist nie
+beantwortet worden.
+
+**„Not fit for purpose"** ist die gesetzliche Formulierung des UK Consumer
+Rights Act. **Er zitiert sie zweimal — ohne das Gesetz zu nennen.** Das wird
+**nicht bewertet.**
+
+> Dear Simon,
+>
+> You replied eleven minutes after our message, and I understand why.
+>
+> **You asked for a returns label on 16 September. That question has still not
+> been answered, so let me answer it plainly: we do not currently publish a
+> returns address, and I cannot issue you a label.** That is a failure on our
+> side. **Please don't post anything** — you would pay the postage and it would
+> have nowhere to arrive.
+>
+> **On your position:** you say the product is not fit for purpose and not as
+> advertised. **I am not going to argue with that and I am not going to give you
+> a legal opinion on it either** — an assessment from me would be worth nothing
+> to you. **It has gone to the shop owner today in your own words, quoted, not
+> summarised.**
+>
+> **On the refund: I cannot authorise one**, so you get no promise from me — and
+> **no second copy of this morning's refusal.**
+>
+> Your case is on his desk as: **ordered 16 August, arrived after a long wait,
+> failed within minutes, returns label requested on 16 September and never
+> provided, refund requested on grounds of fitness for purpose.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Beantwortung seiner offenen Frage nach dem
+Rücksendeetikett** (es gibt keins), die Weitergabe **mit seinem Wortlaut**, eine
+Nachfass-Zusage. **Keine Erstattung zugesagt, kein Betrag, kein Termin, keine
+Absage.** **Keine rechtliche Einordnung zu „not fit for purpose"** — weder
+zustimmend noch ablehnend. **Keine Rücksendeadresse erfunden**, samt Warnung.
+**Keine Aussage dazu, ob die Werbung zutrifft.** Kein Eskalationsmarker im Text.
+
+---
+
+## #6806 — Jay Heap (jayheap@gmail.com) — dritter Kontakt, er gibt auf
+
+**Betreff:** Re: Must be defective
+
+**Neu am 18.09. 11:23 UTC**, 45 Minuten nach der zweiten Absage.
+
+> *„**That's fine. I'll find every opportunity I can to review your product and
+> service.** Thanks."*
+
+Bestellung **#6806**, 20.08., **30,54 £**, 2 × Plushies (Frosch + Ente),
+Sharpsburg (US), `FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+**Der Verlauf ist höflich geblieben, bis er es nicht mehr war:**
+
+- **14.09.** — *„Started with **the rope** and led to the side. […] Maybe you
+  can make it right."*
+- **16.09.** — Absage. Er antwortet: *„a product advertised as durable should
+  not be destroyed in less than three hours by a mild-mannered dog. **I would
+  appreciate it if you would reconsider.**"*
+- **18.09.** — **zweite Absage, im Kern derselbe Text.**
+- **18.09.** — *„That's fine."*
+
+**#6806 ist einer der bereits belegten Ausfälle genau am beworbenen Merkmal:
+das Seil.** Drei Fälle stehen dafür (#7754, #6806, #7988).
+
+> Dear Jay,
+>
+> „That's fine" is what people write when they have stopped expecting anything,
+> and you asked twice, politely, before you got there.
+>
+> **You asked us to reconsider. Nobody did — you were sent the same refusal a
+> second time.** I am not going to send you a third.
+>
+> **I cannot authorise a refund**, so there is no promise from me. **What I have
+> done is put your case in front of the shop owner as it actually stands: asked
+> on 14 September, refused twice with the same text, never once looked at by a
+> person.**
+>
+> **On reviewing us publicly:** that is entirely your business. I am not going to
+> ask you not to, and nothing here is conditional on whether you do.
+>
+> **One detail I have passed on specifically**, because you named it and it
+> matters: **you said it started with the rope.** That is a feature our own
+> product description makes a point of.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Feststellung, dass seine Bitte um Überprüfung nicht
+beachtet wurde**, die Weitergabe mit dem von ihm benannten Ausfallort (Seil),
+eine Nachfass-Zusage. **Keine Erstattung zugesagt, kein Betrag, keine Absage.**
+**Keine Bitte, keine Bewertung zu schreiben**, und keine Bedingung daran
+geknüpft. **Keine Aussage dazu, ob die Seil-Angabe der Beschreibung zutrifft** —
+nur, dass die Beschreibung das Merkmal nennt. **Keine Aussage über seinen
+Hund.** Kein Eskalationsmarker im Text.
+
+---
+
+## #7560 — Samantha (sammyv@live.co.uk) — höfliche Lieferfrage, 15 Tage ohne Nachricht
+
+**Betreff:** Re: A shipment from order #7560 is on the way
+
+**Neu am 18.09. 11:43 UTC. Erstkontakt.**
+
+> *„Please can you tell me **when I should expect to receive my order**? I
+> haven't heard anything since this email on **3rd September** which said they
+> were being shipped — **no tracking information or anything.**"*
+
+Bestellung **#7560**, 24.08., **27,95 £**, 2 × Plushies (Fuchs + Affe),
+Bleadon (GB), versandt **03.09.**, Sendung `UL478624101YP`,
+`totalRefundedSet` **0.00 £**.
+
+**Ihre Angabe ist nicht ganz zutreffend — und das zu ihren Gunsten:** Die
+Versandmail vom 03.09., die sie selbst zitiert, **enthält die Sendungsnummer**.
+Sie hat sie offenbar nicht gefunden. **Das wird ihr nicht vorgehalten**; die
+Nummer wird einfach genannt.
+
+**Seit Bestellung 25 Tage, seit Versand 15 Tage.**
+
+> Dear Samantha,
+>
+> Thank you for asking, and sorry you had to.
+>
+> **Your tracking reference is UL478624101YP.** It was in the shipping
+> notification you received on 3 September, but it sits well down the email and
+> is easy to miss — that is our formatting, not you overlooking something.
+>
+> **Our records still show the parcel in transit — not delivered, not returned to
+> us.**
+>
+> **What I am not going to do is tell you when it will arrive.** Once a parcel is
+> in transit I cannot see reliably when it will land, and a date from me would be
+> a guess dressed up as an answer. **Nor am I going to tell you that fifteen days
+> is normal and ask you to keep waiting** — you asked a fair question after a fair
+> amount of time.
+>
+> **If it does not arrive, or the tracking stops moving, reply here and say so.**
+> I will not send you off to chase a carrier yourself, and you will not have to
+> start again from the beginning.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Sendungsnummer** und der Stand (unterwegs, nicht
+zugestellt, nicht zurück), sowie die Zusage, dass sie sich hier melden kann und
+der Fall hier bleibt. **Kein Liefertermin, keine Zeitspanne, keine
+Erstattungszusage, kein Ersatz.** **Keine Verweisung an den Zusteller** —
+ausdrücklich das Gegenteil. **Kein Hinweis darauf, dass ihre Frage verfrüht
+sei.** **Ihr Irrtum über die fehlende Sendungsnummer wird ihr nicht
+vorgehalten** — die Ursache wird bei der Darstellung der Mail verortet. **Keine
+Aussage über Herkunft oder Versandweg** — sie hat nicht gefragt. Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

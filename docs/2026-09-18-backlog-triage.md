@@ -560,3 +560,126 @@ Zusteller.**
 - **Fünfzehn Währungsfälle** (neu: #6205).
 - **Zwei neue Fristen:** #8295 setzt **23.09.**; #7479 und #6259 laufen am
   **21.09.**
+
+---
+
+## Lauf 12:20 UTC — vier Vorgänge, davon einer ein Betrugsversuch
+
+Suche `in:inbox after:2026/09/18`, Abgleich gegen den 11:20-Lauf. Vier
+Nachrichten sind neu.
+
+---
+
+### ⚠️ #6384 — Simon Foord (`simonfoord@me.com`), 18.09. 11:26 UTC — „not fit for purpose"
+
+Antwort **elf Minuten** nach der Kauschaden-Vorlage von 11:15.
+
+> *„Sorry **I do not agree** with your email. **The product is not fit for
+> purpose.** You advertise as indestructible and it lasted **less than 5 minutes**
+> with a Pug! Please arrange refund as they are **not fit for purpose and not as
+> advertised**."*
+
+Bestellung **#6384**, 16.08., **27,95 £**, 2 × Plushies, Whiteley (GB),
+`FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+**Der übergangene Punkt:** Am **16.09.** hatte er geschrieben *„Please send
+returns label"*. **Darauf kam die Kauschaden-Vorlage.** Die Bitte selbst wurde
+**nie beantwortet** — der Entwurf holt das nach und sagt offen, dass es kein
+Etikett und keine Adresse gibt.
+
+**„Not fit for purpose"** ist die gesetzliche Formulierung des UK Consumer
+Rights Act. Er verwendet sie **zweimal**, ohne das Gesetz zu nennen. **Das wird
+nicht bewertet** — weder zustimmend noch ablehnend.
+
+**Label:** `Bot/Escalated - Owner Attention` (Verbraucherrechts-Formulierung +
+unbeantwortete Rückgabebitte). **Zweite Fassung.**
+
+---
+
+### ⛔ #6806 — Jay Heap (`jayheap@gmail.com`), 18.09. 11:23 UTC — er gibt auf
+
+> *„**That's fine. I'll find every opportunity I can to review your product and
+> service.** Thanks."*
+
+Bestellung **#6806**, 20.08., **30,54 £**, 2 × Plushies, Sharpsburg (US),
+`totalRefundedSet` **0.00 £**.
+
+**Der Verlauf ist bis zuletzt höflich geblieben:**
+
+| Datum | Was |
+|---|---|
+| **14.09.** | *„Started with **the rope** and led to the side. […] Maybe you can make it right."* |
+| **16.09.** | Absage (Vorlage) |
+| **16.09.** | *„a product advertised as durable should not be destroyed in less than three hours by a mild-mannered dog. **I would appreciate it if you would reconsider.**"* |
+| **18.09. 10:38** | **Zweite Absage, im Kern derselbe Text** |
+| **18.09. 11:23** | *„That's fine."* |
+
+**Er hat ausdrücklich um eine Überprüfung gebeten und dieselbe Absage ein
+zweites Mal bekommen.** *„That's fine"* ist das, was jemand schreibt, der nichts
+mehr erwartet.
+
+**#6806 ist einer der drei belegten Ausfälle genau am beworbenen Merkmal — dem
+Seil** (mit #7754 und #7988). Das geht als Sachangabe an den Owner, **ohne
+Bewertung, ob die Beschreibung zutrifft.**
+
+**Im Entwurf ausdrücklich nicht getan:** ihn gebeten, keine Bewertung zu
+schreiben, oder irgendetwas daran geknüpft.
+
+**Label:** `Bot/Escalated - Owner Attention` (öffentliches Bewertungsmuster +
+wiederholter unerledigter Kontakt).
+
+---
+
+### 📨 #7560 — Samantha (`sammyv@live.co.uk`), 18.09. 11:43 UTC — höfliche Lieferfrage
+
+> *„Please can you tell me **when I should expect to receive my order**? I
+> haven't heard anything since this email on **3rd September** […] **no tracking
+> information or anything.**"*
+
+Bestellung **#7560**, 24.08., **27,95 £**, 2 × Plushies, Bleadon (GB), versandt
+**03.09.**, Sendung `UL478624101YP`. **25 Tage seit Bestellung, 15 seit
+Versand.**
+
+**Ihre Annahme ist nicht ganz richtig — und das zu ihren Gunsten:** Die von ihr
+selbst zitierte Versandmail **enthält die Sendungsnummer**, sie steht nur weit
+unten im Text. **Das wird ihr nicht vorgehalten**; die Ursache wird bei der
+Darstellung der Mail verortet und die Nummer einfach genannt.
+
+**Im Entwurf ausdrücklich nicht getan:** ein Liefertermin, eine Zeitspanne, eine
+Verweisung an den Zusteller, oder der Hinweis, fünfzehn Tage seien normal.
+
+**Label:** `Bot/Draft Ready`.
+
+---
+
+### ⬛ `storeclean.panel@gmail.com`, 18.09. 11:23 UTC — dritter Betrugs-/Pretexting-Versuch
+
+Betreff *„You've been selected"*, Unterschrift **„CJ Dropshipping"**, Absender
+aber eine **freie Gmail-Adresse**. Behauptet, der Shop nutze bereits ihre
+Plattform, und bietet einen „product expert" für die Saison an. Bitte um
+**Antwort**, um „verbunden" zu werden.
+
+**Nicht beantwortet. Keine Daten herausgegeben. Kein Link geöffnet. Kein
+Entwurf.**
+
+**Dritter Versuch dieser Art** nach `shopifystoreregulatory.center@gmail.com`
+(06.09.) und `wixassesmentteam@gmail.com`. **Muster identisch:** ein bekannter
+Firmenname, eine freie Gmail-Adresse, ein Vorwand, und die Aufforderung zu
+antworten.
+
+**Label:** `Bot/No Action`. **Für den Owner:** nicht antworten, nichts anklicken.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Vierzehn Kundenvorgänge am 18.09.**, dazu drei Systemmails
+  (Klaviyo, Stripe am Vortag, **CJ-Dropshipping-Vorwand**).
+- **Einundfünfzig Entwürfe** in `docs/entwuerfe-zum-kopieren.md`, **keiner in
+  Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⛔ Zwei Kunden haben heute ausdrücklich um Überprüfung bzw. ein
+  Rücksendeetikett gebeten und stattdessen dieselbe Vorlage bekommen:** #6806
+  (zweimal abgelehnt) und **#6384** (Etikettbitte vom 16.09. nie beantwortet).
+- **Drei Fristen laufen:** #7479 und #6259 am **21.09.**, #8295 am **23.09.**
+- **Dritter Pretexting-Versuch** — nichts beantwortet, nichts herausgegeben.
