@@ -414,3 +414,22 @@ Spätversand).
   Ursache.**
 - **Vier Namens- oder Adressabweichungen**, in **keinem** Fall wurden
   Bestelldaten an eine nicht hinterlegte Adresse gegeben oder ein Name geraten.
+
+---
+
+## Lauf 09:20 UTC — kein Kundenvorgang
+
+Suche `in:inbox after:2026/09/17`, Abgleich gegen den 08:20-Lauf. Eine
+Nachricht ist neu.
+
+### ⬜ Klaviyo Academy, 18.09. 08:28 UTC
+
+`academy@klaviyo.com`. **Werbe-/Schulungsmail des Newsletter-Anbieters, kein
+Kundenvorgang.** Nicht beantwortet, kein Entwurf, **kein Link geöffnet**, keine
+Daten herausgegeben. Hier nur vermerkt, damit der Eingang nachvollziehbar ist.
+
+**Label:** `Bot/No Action`. **Zweite Systemmail** nach der
+Stripe-Rechnungsankündigung vom 17.09.
+
+**Keine Änderung am Stand:** acht Kundenvorgänge am 18.09., fünfundvierzig
+Entwürfe, keine Erstattung ausgeführt.
