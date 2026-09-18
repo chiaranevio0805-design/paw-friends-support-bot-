@@ -11181,6 +11181,98 @@ sicherheitlicher Hinsicht** — sie hat das nicht als Sorge formuliert, und es
 wird ihr keine untergeschoben. **Keine Auswertung des Fotos.** **Keine Frist
 genannt.** Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
+## #4998 — Michael Warren (mikewarren123@sky.com) — ⛔⛔ „has now been processed" — erstattet wurde nichts
+
+**Betreff:** Re: ORDER #4998
+
+**Neu am 18.09. 18:41 UTC.**
+
+> *„**Have still not received the agreed refund?**"*
+
+Bestellung **#4998**, 07.08., **19,95 £**, 1 × Plushies (Affe),
+Buntingford (GB), `FULFILLED`, `totalRefundedSet` **0.00 £**.
+**20 % wären 3,99 £.**
+
+**Am 07.09. wurde ihm geschrieben:**
+
+> *„I can confirm that the **20% partial refund has now been processed** to your
+> original payment method. Please allow a few business days…"*
+
+**Das ist keine Zusage, sondern eine Tatsachenbehauptung — und sie war
+unzutreffend.** `totalRefundedSet` steht auf **0.00 £**. **Elf Tage.**
+
+**Dritter Fall dieser Art:**
+
+| Vorgang | Wortlaut | Tatsächlich erstattet |
+|---|---|---|
+| **#5148** | 50 % **zweimal** als *„processed"* bezeichnet | **0.00** |
+| **#6583** | *„they will arrange a **full refund**"* (03.09.) | **0.00** |
+| **#4998** | *„**has now been processed**"* (07.09.) | **0.00** |
+
+**⚠️ Zwei Zitate, die im gesamten Produktkatalog nicht vorkommen.** Er zitiert
+am 03.09.:
+
+> *„❤️ **How Does The 30-Day Money-Back Guarantee Work?** […] If you're **not
+> completely satisfied for any reason**, simply contact us within 30 days of
+> receiving your order and **we'll work with you to find a solution.**"*
+
+und
+
+> *„your advertising clearly states '**Anti-Destruction Structure**'"*
+
+**Beides steht in keiner der zwölf Produktbeschreibungen** — heute vollständig
+geprüft. **Siebte Werbequelle außerhalb der Produktseiten**, und die erste, die
+**den Garantietext selbst** anders wiedergibt: *„for any reason"*, **ohne** die
+Bedingung „unbenutzt", auf die sich jede Absage stützt. **Ob und wo das so auf
+der Website steht, ist von hier nicht einsehbar.**
+
+> Dear Michael,
+>
+> **No, and I am not going to give you a vague answer about bank processing
+> times.**
+>
+> **On 7 September you were told the 20% refund had been processed. Our records
+> show nothing refunded against your order — not a partial amount, not a delayed
+> one. Nothing.** That message stated something as done which had not been done,
+> and you have been waiting eleven days on the strength of it.
+>
+> **I cannot release the money myself** — that sits with the shop owner — **so I
+> am not going to become the second person to tell you it is on its way.** What I
+> have done is put it in front of him today in one line: **a refund confirmed to
+> the customer as processed on 7 September, with nothing paid.**
+>
+> **On the wording you quoted back to us:** you cited our guarantee as saying
+> „if you're not completely satisfied for any reason", and our advertising as
+> saying „Anti-Destruction Structure". **I have checked every product description
+> we publish, and neither phrase is in any of them.** That does not mean you
+> invented it — it means it appears somewhere I cannot see from here, and **that
+> question has gone to the shop owner too**, because it matters which text you
+> actually bought on.
+>
+> **I am not going to tell you whether those claims hold up.** That is his to
+> answer, not mine.
+>
+> You told us on 5 September that you would accept the 20% only because there was
+> little point pursuing it. **You then did not receive even that.** I am sorry —
+> not for a delay, but for being told something was done when it was not.
+>
+> If you have heard nothing in a few days, reply here and I will chase it again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ausdrückliche Feststellung, dass nichts erstattet
+wurde und die Nachricht vom 07.09. eine nicht zutreffende Tatsachenbehauptung
+war**, die Feststellung, dass **seine beiden Zitate im Produktkatalog nicht
+auffindbar sind**, die Weitergabe an den Owner und eine Nachfass-Zusage.
+**Keine neue Erstattungszusage, kein Betrag, kein Termin.** **Keine Aussage
+dazu, ob die zitierten Werbeaussagen zutreffen** — nur, dass sie im Katalog
+nicht stehen und von hier nicht auffindbar sind. **Ihm wird nicht unterstellt,
+er habe sie erfunden.** **Keine rechtliche Einordnung** zu seiner Berufung auf
+Verbraucherrecht. **Keine Bitte, von öffentlichen Hinweisen abzusehen.** Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

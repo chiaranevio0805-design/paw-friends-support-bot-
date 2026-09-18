@@ -1092,3 +1092,91 @@ Ein Bild — **nicht geöffnet, nicht ausgewertet.**
   in **allen** wurde gefragt statt angenommen.
 - **Der Spätversand ist nicht durchgängig:** #8407 ging am Folgetag raus,
   fünf andere lagen acht bis zwölf Tage.
+
+---
+
+## Lauf 19:20 UTC — ein Vorgang, zwei Befunde
+
+Suche `in:inbox after:2026/09/18`, Abgleich gegen den 17:20-Lauf. Eine
+Nachricht ist neu.
+
+---
+
+### ⛔⛔ #4998 — Michael Warren (`mikewarren123@sky.com`), 18.09. 18:41 UTC — „has now been processed", erstattet wurde nichts
+
+> *„**Have still not received the agreed refund?**"*
+
+Bestellung **#4998**, 07.08., **19,95 £**, Buntingford (GB),
+`totalRefundedSet` **0.00 £**. **20 % wären 3,99 £.**
+
+**Am 07.09. wurde ihm geschrieben:** *„I can confirm that the **20% partial
+refund has now been processed** to your original payment method."*
+
+**Das ist keine Ankündigung, sondern eine Tatsachenbehauptung — und sie war
+unzutreffend.** Erstattet wurde **nichts.** **Elf Tage.**
+
+**Dritter Fall dieser Art:**
+
+| Vorgang | Wortlaut | Tatsächlich erstattet |
+|---|---|---|
+| **#5148** | 50 % **zweimal** als *„processed"* bezeichnet | **0.00** |
+| **#6583** | *„they will arrange a **full refund**"* (03.09.) | **0.00** |
+| **#4998** | *„**has now been processed**"* (07.09.) | **0.00** |
+
+**Kontext, der das verschärft:** Er hatte am 05.09. geschrieben, er nehme die
+20 % **nur an**, weil *„there is little point in pursuing the matter"*. **Er hat
+also nachgegeben — und dann nicht einmal das bekommen.**
+
+#### ⚠️ Zweiter Befund: zwei Zitate, die im Katalog nicht vorkommen
+
+Er zitiert am 03.09. zwei Textstellen:
+
+1. **Den Garantietext selbst:** *„❤️ **How Does The 30-Day Money-Back Guarantee
+   Work?** […] If you're **not completely satisfied for any reason**, simply
+   contact us within 30 days of receiving your order and **we'll work with you
+   to find a solution.**"*
+2. **Eine Werbeaussage:** *„your advertising clearly states '**Anti-Destruction
+   Structure**'"*
+
+**Heute wurden alle zwölf Produktbeschreibungen vollständig geprüft. Keine der
+beiden Formulierungen kommt darin vor.**
+
+**Warum das wichtig ist:** Der von ihm zitierte Garantietext sagt
+*„for any reason"* und *„we'll work with you to find a solution"* — **ohne die
+Bedingung „unbenutzt"**, auf die sich jede Absage stützt. **Das ist die
+siebte Werbequelle außerhalb der Produktseiten** und die erste, die **den
+Garantietext selbst** abweichend wiedergibt.
+
+**Im Entwurf ausdrücklich nicht getan:** ihm unterstellt, er habe die Zitate
+erfunden. Es wird **festgestellt, dass sie im Katalog nicht auffindbar sind**,
+und offen gesagt, dass sie an einer von hier nicht einsehbaren Stelle stehen
+könnten.
+
+**Label:** `Bot/Escalated - Owner Attention`, **höchste Priorität.**
+**Auf die Erstattungsliste:** **3,99 £ (20 %), am 07.09. als erledigt
+bezeichnet** — kein Kauschadenfall im Sinne der Liste, sondern eine
+**unerfüllte Bestätigung.**
+
+---
+
+### Randnotiz für den Owner, ohne Bewertung
+
+Die Katalogprüfung hat nebenbei ergeben, dass **seit gestern ein neues Produkt
+im Katalog steht** (*CalmHood™*, Bilddateien vom 17.09.). **Rein
+sachliche Feststellung**, keine Schlussfolgerung — sie steht hier nur, weil sie
+bei der Prüfung anfiel.
+
+---
+
+### Stand nach diesem Lauf — Tagesabschluss 18.09.
+
+- **Fünfundzwanzig Kundenvorgänge.**
+- **Zweiundsechzig Entwürfe** in `docs/entwuerfe-zum-kopieren.md`, **keiner in
+  Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⛔ Drei Erstattungen wurden dem Kunden als erledigt oder zugesagt
+  mitgeteilt und nie ausgeführt:** #5148, #6583, **#4998.**
+- **⚠️ Sieben Werbequellen außerhalb der Produktseiten**, darunter jetzt **eine
+  abweichende Fassung des Garantietextes selbst.**
+- **Zwei Fristen laufen am Montag, 21.09.:** **#7479** (Zustellung angekündigt)
+  und **#6259** (Trading Standards).
