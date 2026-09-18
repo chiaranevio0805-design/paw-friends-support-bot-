@@ -961,3 +961,78 @@ Kauschaden.**
 - **Lehre für die Suche:** Bei jedem Wiederholungskontakt **zuerst nach älteren
   Threads desselben Absenders suchen**, bevor eine Angabe als ungeklärt geführt
   wird.
+
+---
+
+## Lauf 16:20 UTC — zwei Erstkontakte
+
+Suche `in:inbox after:2026/09/18`, Abgleich gegen den 15:20-Lauf. Zwei
+Nachrichten sind neu.
+
+---
+
+### ⛔ #8312 — Paul Beaver (`mrpbeaver@gmail.com`), 18.09. 16:13 UTC — zehnter unbenutzter Fall
+
+> *„I am happy to **return both items; one toy remains unopened in its original
+> packaging.** […] I cannot give these toys to my dog **through fear of him
+> swallowing the fabric parts which detach so easily**."*
+
+Bestellung **#8312**, 31.08., **27,95 £**, 2 × Plushies, Daventry (GB),
+**versandt erst am 08.09. — acht Tage Liegezeit**, erhalten 17.09.,
+`totalRefundedSet` **0.00 £**.
+
+**Drei Punkte:**
+
+1. **Zehnter unbenutzter Fall.** Ein Stück **ungeöffnet in Originalverpackung**,
+   und er **bietet die Rückgabe von sich aus an.** **Es gibt keine Adresse** —
+   der Entwurf sagt genau das und warnt, nichts zu verschicken.
+2. **Zweite Sicherheitssorge des Tages** nach #8406: Angst vor **Verschlucken
+   sich lösender Stoffteile.** **Keine Aussage dazu in irgendeine Richtung** —
+   weder beruhigend noch bestätigend —, **keine tierärztliche Einschätzung**,
+   Verweis auf den Tierarzt ohne eigene Bewertung.
+3. Der **achttägige Spätversand** wird ihm **offen bestätigt.** **Fünfte
+   Bestellung mit belegter Liegezeit** nach #7970, #7459, #8002, #8295.
+
+Vier Bilder — **nicht geöffnet, nicht ausgewertet.**
+
+**Label:** `Bot/Escalated - Owner Attention` (unbenutzte Ware ohne Rückgabeweg +
+Sicherheitssorge).
+
+---
+
+### ⚠️ #7472 — Francisco Almazan (`falmazan2@gmail.com`), 18.09. 16:06 UTC — Größenbeanstandung
+
+> *„**The toys are super small! Not as advertised at all.** The blue toy that was
+> for teeth cleaning quote unquote was **ripped apart in 30 seconds**."*
+
+Bestellung **#7472**, 23.08., **43,92 £**, 1 × Zahnbuddy + 2 × Plushies,
+Pendleton (US), versandt 04.09., `totalRefundedSet` **0.00 £**. Erstkontakt.
+
+**Zwei getrennte Beanstandungen** — Größe und Haltbarkeit —, und sie werden im
+Entwurf **getrennt behandelt.**
+
+**⚠️ Zur Größe wird nichts gesagt** — weder bestätigend noch bestreitend.
+**Von hier ist keine Aussage über Produktmaße möglich**, und **Produktbilder
+werden weder herangezogen noch verglichen.** Die Beanstandung geht **im
+Original** an den Owner; sie betrifft die **Darstellung der Produkte**, nicht
+die Rückgaberichtlinie.
+
+Er kündigt Bilder an, hat aber noch keine geschickt — **das wird ausdrücklich
+nicht zur Bedingung gemacht.**
+
+**Label:** `Bot/Escalated - Owner Attention` (bestrittene Produktdarstellung).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Dreiundzwanzig Kundenvorgänge am 18.09.**
+- **Sechzig Entwürfe** in `docs/entwuerfe-zum-kopieren.md`, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⛔ Zehn unbenutzte Stücke ohne Rücksendeweg.** **#8312 bietet die Rückgabe
+  von sich aus an — und bekommt keine Adresse.**
+- **⚠️ Zwei Sicherheitssorgen an einem Tag** (#8406 verschluckt, **#8312**
+  befürchtet). **Beide ohne jede Material- oder Gesundheitsaussage
+  weitergegeben.**
+- **Fünf Bestellungen mit belegter Liegezeit von acht bis zwölf Tagen vor
+  Versand:** #7970, #7459, #8002, #8295, **#8312.**

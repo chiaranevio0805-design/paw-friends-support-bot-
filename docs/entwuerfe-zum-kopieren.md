@@ -10975,6 +10975,144 @@ Liefertermin, keine Wartefrist.** **Keine Verweisung an den Zusteller.**
 **Keine Bewertung seiner Aussage über den Zusteller** über das hinaus, was in
 unserer eigenen Mail vom 08.09. steht. Kein Eskalationsmarker im Text.
 
+## #8312 — Paul Beaver (mrpbeaver@gmail.com) — ⛔ zehnter unbenutzter Fall, dazu eine Sicherheitssorge
+
+**Betreff:** Re: Order #8312
+
+**Neu am 18.09. 16:13 UTC. Erstkontakt, sachlich und vollständig.**
+
+> *„I placed my order #8312 on the 31st August and the 2 toys arrived
+> **yesterday**. I gave one of them to my dog and it was **destroyed in less than
+> 30 minutes** […] As the toy was immediately deconstructed, it **does not meet
+> your claim as advertised**, therefore I would like a full refund. **I cannot
+> give these toys to my dog through fear of him swallowing the fabric parts which
+> detach so easily.** I am happy to **return both items; one toy remains unopened
+> in its original packaging.**"*
+
+Bestellung **#8312**, 31.08., **27,95 £**, 2 × Plushies (Affe + Esel),
+Daventry (GB), **versandt erst am 08.09. — acht Tage Liegezeit**, erhalten
+17.09., `totalRefundedSet` **0.00 £**.
+
+**Drei Punkte:**
+
+1. **Zehnter unbenutzter Fall** — ein Stück **ungeöffnet in Originalverpackung**,
+   und er **bietet die Rückgabe von sich aus an.** **Es gibt keine Adresse.**
+2. **Zweite Sicherheitssorge des Tages** nach #8406 — er nennt ausdrücklich die
+   **Angst vor Verschlucken sich lösender Stoffteile.** **Dazu keine Aussage in
+   irgendeine Richtung**, weder beruhigend noch bestätigend.
+3. Vier Bilder — **nicht geöffnet, nicht ausgewertet.**
+
+> Dear Paul,
+>
+> Thank you for setting it out as completely as you did — dates, sequence and
+> what you are asking for. That makes this easy to pass on accurately.
+>
+> **You offered to return both items, and one is still unopened. I have to tell
+> you plainly that you cannot: we do not currently publish a returns address, so
+> there is no return process and no label I can give you.** That is a gap on our
+> side, not a problem with your request. **Please don't post anything** — you
+> would pay the postage and it would have nowhere to arrive. Please keep the
+> unopened one exactly as it is.
+>
+> **On the unopened toy specifically:** it is unused and in its original
+> packaging, which is precisely the condition our published thirty-day guarantee
+> describes. **I cannot authorise the money** — that is the shop owner's — so I am
+> not going to promise it to you. **But your case has gone to him today stated
+> exactly that way**, and not as a chewed-toy complaint, because that is not what
+> you sent.
+>
+> **On your concern about swallowing:** I have recorded it as you wrote it and
+> flagged it to him. **I am not going to tell you the material is safe and I am
+> not going to tell you it isn't** — I have no basis for either, and a
+> reassurance from me would be worth nothing. If you have any worry about your
+> dog, that is a question for your vet.
+>
+> **One thing I can confirm outright:** you ordered on 31 August and the parcel
+> **was not despatched until 8 September.** Eight of those days were ours, before
+> it went anywhere.
+>
+> Your photographs arrived and are noted. If you have heard nothing in a few
+> days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **klare Antwort auf sein Rückgabeangebot** (nicht
+möglich, es gibt keine Adresse), die **richtige Einordnung des ungeöffneten
+Stücks** unter die veröffentlichte Garantie, die Aufnahme der Sicherheitssorge,
+die **offene Bestätigung des achttägigen Spätversands**, eine Nachfass-Zusage.
+**Keine Erstattung zugesagt, kein Betrag, kein Termin, keine Absage.** **Keine
+Aussage zu Material oder Unbedenklichkeit — in keine Richtung**, und **keine
+tierärztliche Einschätzung.** **Keine Rücksendeadresse erfunden**, samt Warnung.
+**Keine Aussage dazu, ob die Werbeaussage zutrifft.** **Keine Auswertung der
+Fotos.** Frist nur mit **30 Tagen** benannt. Kein Eskalationsmarker im Text.
+
+---
+
+## #7472 — Francisco Almazan (falmazan2@gmail.com) — Erstkontakt, ⚠️ Größenbeanstandung
+
+**Betreff:** Re: A shipment from order #7472 is on the way
+
+**Neu am 18.09. 16:06 UTC. Erstkontakt.**
+
+> *„**The toys are super small! Not as advertised at all.** The blue toy that was
+> for teeth cleaning quote unquote was **ripped apart in 30 seconds**, the ear
+> came right off. I'd like my money back please if that's possible."*
+
+Bestellung **#7472**, 23.08., **43,92 £**, 1 × Zahnbuddy + 2 × Plushies,
+Pendleton (US), versandt 04.09., `totalRefundedSet` **0.00 £**.
+
+**⚠️ Erste Größenbeanstandung seit Langem.** Dazu wird **nichts gesagt** —
+weder bestätigend noch bestreitend. **Von hier ist keine Aussage über
+Produktmaße möglich**, und **Produktbilder werden nicht herangezogen oder
+verglichen.** Seine Beanstandung geht **im Original** an den Owner.
+
+Er kündigt Bilder an, hat aber **noch keine geschickt** — das wird **nicht als
+Bedingung gestellt.**
+
+> Dear Francisco,
+>
+> Thank you for writing, and for separating the two things you are unhappy about
+> — they really are two different questions.
+>
+> **On the size:** you say the toys are much smaller than advertised. **I am not
+> going to tell you that you are wrong, and I am not going to confirm it
+> either.** I have no way of measuring what arrived with you, and comparing your
+> parcel against a product photograph from this desk would be guesswork dressed
+> up as an answer. **Your description has gone to the shop owner exactly as you
+> wrote it** — that is a question about how the products are presented, and it is
+> his to answer.
+>
+> **On the teeth-cleaning toy:** thirty seconds is what you reported, and I am
+> not going to argue with it.
+>
+> **On the refund: I cannot authorise one** — that decision is the shop owner's —
+> so I am not going to promise you one. **You are also not getting a standard
+> refusal from me**, because nobody has actually decided anything about your case
+> yet.
+>
+> **You mentioned sending photographs.** Send them if you would like to and I will
+> add them to the file — **but nothing here waits on them.** Your request stands
+> as it is.
+>
+> **Please don't post anything back** — we do not publish a returns address at
+> present, so a parcel would have nowhere to arrive.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **beider Beanstandungen im Original** und
+eine Nachfass-Zusage. **Keine Erstattung zugesagt, kein Betrag, kein Termin,
+keine Absage.** **Keine Aussage über Produktmaße — weder bestätigend noch
+bestreitend — und kein Vergleich mit Produktbildern.** **Die Bildzusendung wird
+ausdrücklich nicht zur Bedingung gemacht.** Keine Aussage zur Haltbarkeit, keine
+zur Werbung. Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im
+Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
