@@ -683,3 +683,90 @@ antworten.
   (zweimal abgelehnt) und **#6384** (Etikettbitte vom 16.09. nie beantwortet).
 - **Drei Fristen laufen:** #7479 und #6259 am **21.09.**, #8295 am **23.09.**
 - **Dritter Pretexting-Versuch** — nichts beantwortet, nichts herausgegeben.
+
+---
+
+## Lauf 13:20 UTC — drei Vorgänge
+
+Suche `in:inbox after:2026/09/18`, Abgleich gegen den 12:20-Lauf. Drei
+Nachrichten sind neu, alle drei Erstkontakte oder zweite Kontakte nach einer
+Vorlage.
+
+---
+
+### ⚠️ #8098 — (`stephenancasey@bigpond.com`), 18.09. 12:19 UTC — achter AU-Fall
+
+> *„my staffy has destroyed it **within seconds** getting out the fluff and
+> things, **what's the go from here?**"*
+
+Bestellung **#8098**, 29.08., **20,35 £**, 1 × Plushies (Esel),
+**Mandogalup, Western Australia**, `FULFILLED`, `totalRefundedSet` **0.00 £**.
+Versand über **4PX**, `4PX3003140312924CN`.
+
+**Achter australischer Fall** nach #7663, #7989, #7885, #7275, #7896, #6311,
+#7815. **Sechs davon in den letzten 48 Stunden.**
+
+**⚠️ Fünfter Namensfall.** Die Bestellung lautet auf einen Namen, die
+Absenderadresse legt einen anderen nahe, **und er unterschreibt gar nicht.**
+Die Adresse stimmt mit der Bestellung überein — Auskunft zulässig —, **aber es
+wird kein Vorname geraten: der Entwurf verzichtet auf eine namentliche
+Anrede.**
+
+**Label:** `Bot/Escalated - Owner Attention` (AU-Richtlinienwiderspruch).
+
+---
+
+### 🚩 #7950 — Andy Kennedy (`andykennedy1@btinternet.com`), 18.09. 12:20 UTC
+
+Antwort **39 Minuten** nach der Kauschaden-Vorlage von 11:41.
+
+> *„Ive read your reply and would like to say, **thanks for nothing**, these toys
+> are **meant to be for tough chewers**, **what a con**."*
+
+Bestellung **#7950**, 27.08., **19,95 £**, 1 × Plushies (Elefant),
+Newcastle Emlyn (GB), versandt 03.09., `totalRefundedSet` **0.00 £**.
+
+**Seine Erstmeldung vom 16.09. war ein einziger Satz ohne Vorwurf:** *„we
+received this on Monday morning, **it didnt last long**."* **Darauf kam die
+Vorlage — ungeprüft.**
+
+**Sein Argument ist der Produktname selbst:** *„Plushies – Designed for Furry
+Friends Who **Destroy Everything**"*. **Das wird nicht bewertet**, sondern als
+seine Position weitergegeben.
+
+**Label:** `Bot/Escalated - Owner Attention` (bestrittene Werbeaussage +
+Vorlagen-Absage auf eine neutrale Erstmeldung).
+
+---
+
+### 📨 #7168 — Phillip Hockley (`philnsarahhockley@gmail.com`), 18.09. 12:59 UTC — operative Frage ohne mögliche Antwort
+
+> *„**Can you please confirm if I need to return the product to get a refund?**"*
+
+Bestellung **#7168**, 22.08., **19,95 £**, 1 × Plushies (Ente),
+Aylesbury (GB), `FULFILLED`, `totalRefundedSet` **0.00 £**. Erstkontakt.
+
+**Dritte Rückgabe-Frage allein heute**, nach **#6384** (Rücksendeetikett, seit
+16.09. offen) und **#4812** (fünfmal seit dem 20.08.). **Alle drei sind
+unbeantwortbar, weil es keine Adresse gibt** — der Entwurf sagt genau das,
+statt auszuweichen, und warnt ausdrücklich davor, etwas zu verschicken.
+
+Ein Bild — **nicht geöffnet, nicht ausgewertet.**
+
+**Label:** `Bot/Draft Ready`, **mit Entscheidungsvorlage beim Owner.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Siebzehn Kundenvorgänge am 18.09.**
+- **Vierundfünfzig Entwürfe** in `docs/entwuerfe-zum-kopieren.md`, **keiner in
+  Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⛔ Drei Kunden haben allein heute nach dem Rückgabeweg gefragt** (#4812,
+  #6384, **#7168**) — **keine dieser Fragen ist beantwortbar.** Insgesamt warten
+  **neun unbenutzte Stücke** auf eine Adresse, die es nicht gibt.
+- **Acht australische Kunden**, sechs davon in 48 Stunden.
+- **Fünf Namens- oder Adressabweichungen** — in **keinem** Fall wurde ein Name
+  geraten oder Bestelldaten an eine nicht hinterlegte Adresse gegeben.
+- **Drei Fristen laufen:** #7479 und #6259 am **21.09.**, #8295 am **23.09.**

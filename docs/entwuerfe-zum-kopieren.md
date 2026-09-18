@@ -10505,6 +10505,180 @@ vorgehalten** — die Ursache wird bei der Darstellung der Mail verortet. **Kein
 Aussage über Herkunft oder Versandweg** — sie hat nicht gefragt. Kein
 Eskalationsmarker im Text.
 
+## #8098 — (`stephenancasey@bigpond.com`) — achter AU-Fall, „what's the go from here?"
+
+**Betreff:** Re: A shipment from order #8098 is on the way
+
+**Neu am 18.09. 12:19 UTC. Erstkontakt.**
+
+> *„I see you advised no [refund if it has] been destroyed but **my staffy has
+> destroyed it within seconds** getting out the fluff and things, **what's the go
+> from here?**"*
+
+Bestellung **#8098**, 29.08., **20,35 £**, 1 × Plushies (Esel),
+**Mandogalup, Western Australia**, `FULFILLED`, `totalRefundedSet` **0.00 £**.
+Sendung über **4PX**, `4PX3003140312924CN`.
+
+**Achter australischer Fall** nach #7663, #7989, #7885, #7275, #7896, #6311,
+#7815.
+
+**⚠️ Namensfrage:** Die Bestellung lautet auf einen Namen, die Absenderadresse
+legt einen anderen nahe, **und er unterschreibt gar nicht.** Die Adresse stimmt
+mit der Bestellung überein, die Auskunft ist also zulässig — **aber es wird kein
+Vorname geraten.** Der Entwurf kommt **ohne Anrede mit Namen** aus. **Fünfter
+Namensfall** nach #7041, #8120, #4832, #7459.
+
+> Hello,
+>
+> Thank you for writing, and for asking it plainly.
+>
+> **You asked what happens from here, so here is the real position rather than a
+> policy paragraph.** I cannot authorise a refund — that decision is the shop
+> owner's, not mine — **so I am not going to promise you one. But I am also not
+> refusing you**, because nobody has actually looked at your case yet and a
+> refusal from me would just be a form letter.
+>
+> **One thing that may matter to how this is decided, and you should have it
+> rather than find it later.** Your order was delivered in Australia. The returns
+> section we publish for Australian customers says in as many words that
+> Australian consumer rights **are not limited by the requirement that an item be
+> unused or in its original packaging.** That is our own published text. **I am
+> not giving you a legal opinion on it** — that is not mine to give — but it would
+> not be honest to answer you as though that section did not exist.
+>
+> Your account is on the file as you gave it: **destroyed within seconds of being
+> given to your dog, the stuffing coming out.**
+>
+> **Please don't post anything back yet** — we do not publish a returns address at
+> present, so a parcel would have nowhere to arrive.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **mit seiner Schilderung im Original** und
+eine Nachfass-Zusage. **Keine Erstattung zugesagt, kein Betrag, kein Termin,
+keine Absage.** Die AU-Passage wird **zitiert, nicht ausgelegt**; **keine
+rechtliche Bewertung.** **Kein Vorname geraten — der Entwurf verzichtet auf eine
+namentliche Anrede.** Keine Aussage zur Werbung, keine zur Haltbarkeit, **keine
+Aussage über seinen Hund.** Keine Rücksendeadresse, samt Warnung. Kein
+Eskalationsmarker im Text.
+
+---
+
+## #7950 — Andy Kennedy (andykennedy1@btinternet.com) — zweiter Kontakt nach der Vorlage
+
+**Betreff:** Re: FW: tough toys
+
+**Neu am 18.09. 12:20 UTC**, **39 Minuten** nach der Kauschaden-Vorlage von
+11:41.
+
+> *„Ive read your reply and would like to say, **thanks for nothing**, these toys
+> are **meant to be for tough chewers**, **what a con**."*
+
+Bestellung **#7950**, 27.08., **19,95 £**, 1 × Plushies (Elefant),
+Newcastle Emlyn (GB), versandt 03.09., `totalRefundedSet` **0.00 £**.
+
+**Seine Erstmeldung vom 16.09. war denkbar knapp und ohne Vorwurf:** *„we
+received this on Monday morning, **it didnt last long**."* — **Darauf kam die
+Vorlage.**
+
+**Der Produktname selbst ist sein Argument:** *„Plushies – Designed for Furry
+Friends Who **Destroy Everything**"*. Das steht **nicht** zur Bewertung, wird
+aber als seine Position weitergegeben.
+
+> Dear Andy,
+>
+> „Thanks for nothing" is a fair response to what you were sent, and I am not
+> going to pretend otherwise.
+>
+> **You wrote one plain sentence on 16 September — that it arrived on Monday and
+> did not last long — and what came back was a standard refusal.** Nobody looked
+> at it. I am not going to send you a second one.
+>
+> **I cannot authorise a refund**, so there is no promise from me either. What I
+> have done is put your case in front of the shop owner as it stands: **one item,
+> ordered 27 August, failed shortly after arrival, refused by template without
+> anyone reviewing it.**
+>
+> **On what the toys are meant to be:** you bought on the strength of how they
+> are described. **Whether that description holds up is not something I can rule
+> on**, and I am not going to argue the point with you — your words have gone
+> across as you wrote them, not summarised.
+>
+> **Please don't post anything back** — we do not publish a returns address at
+> present, so a parcel would have nowhere to arrive.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Feststellung, dass seine Erstmeldung ungeprüft mit
+einer Vorlage beantwortet wurde**, die Weitergabe mit seinem Wortlaut, eine
+Nachfass-Zusage. **Keine Erstattung zugesagt, kein Betrag, keine Absage.**
+**Keine Aussage dazu, ob die Produktbeschreibung zutrifft** — weder zustimmend
+noch ablehnend. **Kein Widerspruch zu seiner Schilderung**, keine Aussage über
+seinen Hund. Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im
+Text.
+
+---
+
+## #7168 — Phillip Hockley (philnsarahhockley@gmail.com) — Erstkontakt, operative Frage
+
+**Betreff:** Re: Order #7168 confirmed
+
+**Neu am 18.09. 12:59 UTC. Erstkontakt, höflich.**
+
+> *„We received the order and **within a week** my dog has ripped the toy. Which
+> I'm unhappy about as thought that this toy is **marketed as built to last**.
+> **Can you please confirm if I need to return the product to get a refund?**"*
+
+Bestellung **#7168**, 22.08., **19,95 £**, 1 × Plushies (Ente),
+Aylesbury (GB), `FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+**Seine Frage ist operativ: muss er zurücksenden, um eine Erstattung zu
+bekommen?** **Darauf gibt es keine Antwort** — es gibt keine Adresse. **Das ist
+heute die dritte solche Frage** nach #6384 (Rücksendeetikett) und #4812
+(fünfmal). Ein Bild beigefügt — **nicht geöffnet, nicht ausgewertet.**
+
+> Dear Phillip,
+>
+> Thank you for asking it as directly as you did — it deserves a direct answer
+> back.
+>
+> **You asked whether you need to return the toy to get a refund. The honest
+> answer is that you could not return it even if that were the condition: we do
+> not currently publish a returns address, so there is no return process for me
+> to point you to.** That is a gap on our side, and I would rather tell you than
+> leave you waiting for instructions that are not coming.
+>
+> **So please don't post it.** If you send it now you will pay the postage and it
+> will have nowhere to arrive. Please keep it as it is for now.
+>
+> **On the refund itself: I cannot authorise one** — that decision is the shop
+> owner's — so I am not going to promise you one, and I am not refusing you
+> either. Your case has gone to him today as you put it: **received, ripped
+> within a week, bought on the strength of how the toy is described.** Your
+> photograph arrived and is noted with it.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **direkte Beantwortung seiner Frage** (Rücksendung ist
+gegenwärtig nicht möglich), die Bestätigung des Bildeingangs, die Weitergabe an
+den Owner und eine Nachfass-Zusage. **Keine Erstattung zugesagt, kein Betrag,
+kein Termin, keine Absage.** **Keine Rücksendeadresse erfunden**, samt Warnung.
+**Keine Aussage dazu, ob die Werbeaussage („built to last") zutrifft**, keine
+Aussage zur Haltbarkeit, **keine Auswertung des Fotos.** **Keine Frist genannt.**
+Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
