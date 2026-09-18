@@ -10679,6 +10679,224 @@ kein Termin, keine Absage.** **Keine Rücksendeadresse erfunden**, samt Warnung.
 Aussage zur Haltbarkeit, **keine Auswertung des Fotos.** **Keine Frist genannt.**
 Kein Eskalationsmarker im Text.
 
+## #4604 — Nicholas Kloepfer (schreibt von nicholaskloepfer@icloud.com) — ⛔⛔ an die falsche Adresse versandt, nachdem er sie gemeldet hatte
+
+**Betreff:** Re: Hello
+
+**Neu am 18.09. 14:13 UTC.**
+
+> *„**It's September and still no package.. help me!!**"*
+
+Bestellung **#4604**, **05.08.**, **28,51 £**, 2 × Plushies (Esel + Affe),
+`FULFILLED`, `totalRefundedSet` **0.00 £**. **44 Tage.**
+
+**Der Verlauf — und er ist vierfach belegbar:**
+
+| Datum | Was |
+|---|---|
+| **05.08.** | Er meldet: *„The shipping address is wrong. My shipping address should be my billing address."* Bittet um **Erstattung oder Adressänderung.** |
+| **06.08.** | Shop: *„It hasn't shipped yet, so **there's still time** to get the address updated"* |
+| **08.08. 02:01** | **Die Bestellung wird versandt** (`UL402379729YP`) |
+| **09.08.** | Shop: *„**There's no tracking yet, because #4604 hasn't been dispatched.** So nothing has gone to the wrong address, and **there's still time to fix it.** I've flagged the address change as urgent so it's applied **before the order ships**."* |
+| **15.08.** | Shop: *„your order has been shipped"*, 7–21 Tage |
+| **18.09.** | **44 Tage, nichts angekommen.** |
+
+**Drei Feststellungen:**
+
+1. **Die Aussage vom 09.08. war zum Zeitpunkt des Schreibens unzutreffend.** Die
+   Bestellung war **am 08.08. bereits versandt** — einen Tag vorher.
+2. **Die Lieferadresse wurde nie geändert.** Sie weicht bis heute von der
+   Rechnungsadresse ab, die er verlangt hatte — **anderer Bundesstaat.**
+3. **Es wurde ihm zugesagt, die Änderung erfolge vor Versand. Sie erfolgte
+   nicht.**
+
+**⚠️ Datenlage:** Die Bestellung läuft unter **einer anderen E-Mail-Adresse**
+als der, von der er schreibt. **Sechster Namens-/Adressfall.** Im Entwurf
+stehen deshalb **keine Anschriften** — weder die hinterlegte noch die von ihm
+gewünschte —, **kein Betrag und keine Sendungsnummer.** Bestätigt wird nur, was
+er selbst bereits weiß: **dass die Adresse falsch war und nicht geändert
+wurde.**
+
+**Keine Änderung an der Bestellung vorgenommen.** Adresskorrekturen gehören in
+den Admin des Owners.
+
+> Dear Nicholas,
+>
+> You are owed a straight answer and an apology that names the actual mistake.
+>
+> **On 9 August you were told your order had not been dispatched yet and that
+> there was still time to correct the address. That was not correct: it had
+> already been dispatched the day before.** And **the address was never
+> changed.** So the parcel went out to the address you had told us on 5 August
+> was wrong.
+>
+> **That is our failure at every step**, and I am not going to describe forty-four
+> days of waiting as a delivery delay when the cause was here.
+>
+> **I cannot authorise a refund** — that decision is the shop owner's, not mine —
+> **so I am not going to promise you one.** What I have done is put this in front
+> of him today stated exactly as above: **an address correction requested on 5
+> August, confirmed twice as actioned, never applied, and the order shipped
+> before the second of those confirmations was even written.**
+>
+> **You asked on 5 August for a refund or an address change. You got neither.**
+> That is what I have passed on.
+>
+> **One administrative note, and I would rather say it than work around it
+> quietly.** The address you are writing from is not the one the order was placed
+> under, so there are order details I am deliberately not putting in this reply.
+> That is not a brush-off — it is simply not mine to send to an address that is
+> not on the order. The shop owner can see all of it.
+>
+> **I am also not going to send you to chase a carrier.** If anything changes at
+> your end, reply here and it stays with us.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ausdrückliche Feststellung, dass die Auskunft vom
+09.08. unzutreffend war und die Adresse nie geändert wurde**, die Weitergabe
+mit vollständiger Zeitachse und die offene Erklärung, warum Bestelldaten
+zurückgehalten werden. **Keine Erstattung zugesagt, kein Ersatz, kein Betrag,
+kein Termin, keine Nachlieferung.** **Keine Anschrift genannt** — weder die
+hinterlegte noch die gewünschte. **Keine Sendungsnummer** an eine nicht
+hinterlegte Adresse. **Keine Verweisung an den Zusteller.** **Keine Änderung an
+der Bestellung vorgenommen.** Kein Eskalationsmarker im Text.
+
+---
+
+## #8002 — Thomas Robinson (thomas2788work@gmail.com) — ⚠️ zweites wörtlich belegtes Zitat aus der Produktseite
+
+**Betreff:** Re: Plushies – Designed for Furry Friends Who Destroy Everything
+
+**Neu am 18.09. 13:36 UTC**, knapp zwei Stunden nach der Vorlage von 11:43.
+
+> *„You have sold me a DOG toy that is supposedly '**extremely durable and long
+> lasting**' and after my dog has 'used' it you are not offering a refund or
+> replacement?? **👉 The result: A toy that lasts longer and stands up to everyday
+> adventures. Unlike ordinary plush toys, Plushies™ are designed with durability
+> in mind from the very beginning. 🐾** This is from your website. My dog had it
+> 20 minutes. **I will be leaving similar review on your website.**"*
+
+**Sein Zitat ist belegt — Wort für Wort.** Die Plushies-Beschreibung enthält
+genau diese beiden Sätze, einschließlich der Emojis. Ebenfalls dort:
+*„🛠️ **WHY OUR PLUSHIES™ ARE BUILT TO LAST**"*, *„**Built tough** for tugging,
+carrying, chewing, and cuddling"*, *„More playtime, **fewer broken toys**"*.
+
+**Zweites wörtlich verifiziertes Kundenzitat** nach **#7401** (*„40,000 dogs
+have tried. Not one has beaten them yet."*, Fluffys).
+
+Bestellung **#8002**, 28.08., **19,95 £**, 1 × Plushies (Fuchs),
+Prudhoe (GB). **Versandt erst am 08.09. — elf Tage Liegezeit**, erhalten am
+16.09. nach **19 Tagen**, wie er selbst schreibt.
+
+> Dear Thomas,
+>
+> **Your quotation is accurate.** I have read our own product page, and those two
+> sentences appear on it word for word, emojis included. **I am not going to
+> pretend you have misread anything**, and I am not going to send you a second
+> copy of this morning's refusal.
+>
+> **What I cannot do is tell you whether that description holds up.** That is a
+> question about our advertising, and it belongs to the shop owner, not to me.
+> **What I have done is send him your quotation exactly as you wrote it**, next to
+> your account of twenty minutes.
+>
+> **On the refund: I cannot authorise one**, so there is no promise from me — and
+> no refusal from me either, because your case has not actually been decided by a
+> person yet.
+>
+> **On leaving a review:** that is entirely your business. I am not going to ask
+> you not to, and nothing here depends on whether you do.
+>
+> **One thing you were right about that I can confirm outright:** your order was
+> placed on 28 August and **was not despatched until 8 September**. Eleven of
+> those nineteen days were ours, before the parcel went anywhere.
+>
+> **Please don't post anything back** — we do not publish a returns address at
+> present, so a parcel would have nowhere to arrive.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Bestätigung, dass sein Zitat wörtlich auf der
+Produktseite steht**, die Bestätigung des **Spätversands von elf Tagen**, die
+Weitergabe seines Zitats im Original, eine Nachfass-Zusage. **Keine Erstattung
+zugesagt, kein Ersatz, kein Betrag, keine Absage.** **Keine Aussage dazu, ob die
+Beschreibung zutrifft** — nur, dass sie so dasteht. **Keine Bitte, keine
+Bewertung zu schreiben**, und keine Bedingung daran geknüpft. Keine
+Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
+
+---
+
+## #8406 — Joyce Abdalla (jva0259@gmail.com) — ⚠️ gemeldete Aufnahme eines Teils durch den Hund
+
+**Betreff:** Re: Order 8406
+
+**Neu am 18.09. 14:01 UTC. Erstkontakt.**
+
+> *„It took all of 15 minutes for my pup to take one ear off **and ingest it**,
+> and the other ear I was able to get to before she ate it. I was hopeful that
+> this would be **indestructible**, but I was wrong. […] I'd like to request a
+> refund."*
+
+Bestellung **#8406**, 08.09., **20,35 £**, 1 × Plushies (Fuchs),
+Mount Laurel (US), `FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+**⚠️ Das ist eine Sicherheitsmeldung, nicht nur ein Kauschadenfall:** Sie
+berichtet, **ein Teil sei verschluckt worden.** Das geht als solche an den
+Owner.
+
+**Im Entwurf ausdrücklich nicht getan:** irgendeine Aussage zum **Material**,
+zur **Toxizität** oder zur **Unbedenklichkeit** — **in keine Richtung** —, und
+**keine tierärztliche Einschätzung oder Empfehlung.** Beides steht mir nicht zu.
+Der Bericht wird **aufgenommen und weitergegeben**, nicht bewertet.
+
+Ein Bild — **nicht geöffnet, nicht ausgewertet.**
+
+> Dear Joyce,
+>
+> Thank you for writing, and for saying exactly what happened.
+>
+> **You have told me your puppy swallowed part of the toy. I have recorded that
+> as you described it and flagged it to the shop owner as a safety report, not
+> just as a damaged item** — it is the part of your message that matters most and
+> it should not sit inside a refund thread unnoticed.
+>
+> **I am not going to offer you any assessment of what was swallowed or what it
+> is made of.** I am not qualified to tell you that it is harmless and I am not
+> going to alarm you either — **anything I said about the material would be
+> guesswork, and this is not a subject for guesswork.** If you have any concern
+> about your dog, that is a question for your vet and not for me.
+>
+> **On the refund: I cannot authorise one** — that decision is the shop owner's —
+> so I am not going to promise you one. **But you are not getting a standard
+> refusal from me**, and your request is on his desk today as you wrote it:
+> **received last night, an ear off and swallowed within fifteen minutes, refund
+> requested.** Your photograph arrived and is noted with it.
+>
+> **Please don't post anything back yet** — we do not publish a returns address at
+> present, so a parcel would have nowhere to arrive.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ausdrückliche Aufnahme als Sicherheitsmeldung**, die
+Weitergabe mit ihrer Schilderung im Original, die Bestätigung des Bildeingangs,
+eine Nachfass-Zusage. **Keine Erstattung zugesagt, kein Ersatz, kein Betrag,
+kein Termin, keine Absage.** **Keine Aussage zu Material, Toxizität oder
+Unbedenklichkeit — in keine Richtung.** **Keine tierärztliche Einschätzung und
+keine Handlungsempfehlung**, nur der Hinweis, dass dies zum Tierarzt gehört.
+**Keine Aussage dazu, ob die Werbeaussage zutrifft.** **Keine Auswertung des
+Fotos.** Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

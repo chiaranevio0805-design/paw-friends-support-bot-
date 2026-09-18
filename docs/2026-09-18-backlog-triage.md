@@ -770,3 +770,119 @@ Ein Bild — **nicht geöffnet, nicht ausgewertet.**
 - **Fünf Namens- oder Adressabweichungen** — in **keinem** Fall wurde ein Name
   geraten oder Bestelldaten an eine nicht hinterlegte Adresse gegeben.
 - **Drei Fristen laufen:** #7479 und #6259 am **21.09.**, #8295 am **23.09.**
+
+---
+
+## Lauf 14:20 UTC — drei Vorgänge, zwei Befunde von Gewicht
+
+Suche `in:inbox after:2026/09/18`, Abgleich gegen den 13:20-Lauf. Drei
+Nachrichten sind neu.
+
+---
+
+### ⛔⛔ #4604 — Nicholas Kloepfer (`nicholaskloepfer@icloud.com`), 18.09. 14:13 UTC — an die falsche Adresse versandt, nachdem er sie gemeldet hatte
+
+> *„**It's September and still no package.. help me!!**"*
+
+Bestellung **#4604**, **05.08.**, **28,51 £**, 2 × Plushies, `FULFILLED`,
+`totalRefundedSet` **0.00 £**. **44 Tage.**
+
+| Datum | Was |
+|---|---|
+| **05.08.** | *„The shipping address is wrong."* Bittet um **Erstattung oder Adressänderung** |
+| **06.08.** | Shop: *„It hasn't shipped yet, so **there's still time**"* |
+| **08.08. 02:01** | **Die Bestellung wird versandt** (`UL402379729YP`) |
+| **09.08.** | Shop: *„**There's no tracking yet, because #4604 hasn't been dispatched.** […] I've flagged the address change as urgent so it's applied **before the order ships**."* |
+| **15.08.** | Shop: *„your order has been shipped"* |
+| **18.09.** | **Nichts angekommen.** |
+
+**Drei Feststellungen, alle aus dem Datensatz belegt:**
+
+1. **Die Auskunft vom 09.08. war beim Schreiben bereits unzutreffend** — versandt
+   wurde **am 08.08.**, einen Tag vorher.
+2. **Die Lieferadresse wurde nie geändert.** Sie weicht bis heute von der
+   Rechnungsadresse ab, die er verlangt hatte — **anderer Bundesstaat.**
+3. **Die Zusage „vor Versand" war zum Zeitpunkt der Zusage nicht mehr
+   erfüllbar.**
+
+**Das ist der bislang klarste belegte Shop-Fehler** — klarer noch als #7989,
+weil hier **die eigene Auskunft nachweislich falsch** war und **die Ursache
+vollständig auf unserer Seite liegt.**
+
+**⚠️ Sechster Namens-/Adressfall:** Die Bestellung läuft unter einer **anderen
+E-Mail-Adresse**. **Im Entwurf stehen keine Anschriften, kein Betrag, keine
+Sendungsnummer** — bestätigt wird nur, was er selbst weiß: dass die Adresse
+falsch war und nicht geändert wurde. **Keine Änderung an der Bestellung
+vorgenommen** — Adresskorrekturen gehören in den Admin.
+
+**Label:** `Bot/Escalated - Owner Attention`, **höchste Priorität.**
+
+---
+
+### ⚠️ #8002 — Thomas Robinson (`thomas2788work@gmail.com`), 18.09. 13:36 UTC — zweites wörtlich verifiziertes Zitat
+
+> *„**👉 The result: A toy that lasts longer and stands up to everyday
+> adventures. Unlike ordinary plush toys, Plushies™ are designed with durability
+> in mind from the very beginning. 🐾** This is from your website. My dog had it
+> 20 minutes."*
+
+**Sein Zitat ist Wort für Wort belegt**, einschließlich der Emojis — beide Sätze
+stehen so in der Plushies-Beschreibung. Ebenfalls dort verifiziert:
+*„🛠️ **WHY OUR PLUSHIES™ ARE BUILT TO LAST**"*, *„**Built tough** for tugging,
+carrying, chewing, and cuddling"*, *„More playtime, **fewer broken toys**"*.
+
+**Zweites wörtlich verifiziertes Kundenzitat** nach **#7401** (*„40,000 dogs
+have tried. Not one has beaten them yet."*).
+
+**Bemerkenswert für den Owner:** Die Beschreibung schildert als **Problem**,
+das Plushies löse, genau das, was hier laufend gemeldet wird — *„the seams rip,
+the stuffing comes out, and another toy ends up in the bin."*
+
+Bestellung **#8002**, 28.08., **19,95 £**, Prudhoe (GB). **Versandt erst am
+08.09. — elf Tage Liegezeit.** Das wird ihm **offen bestätigt.**
+
+**Label:** `Bot/Escalated - Owner Attention` (bestrittene Werbeaussage +
+angekündigte öffentliche Bewertung).
+
+---
+
+### ⚠️ #8406 — Joyce Abdalla (`jva0259@gmail.com`), 18.09. 14:01 UTC — gemeldete Aufnahme eines Teils
+
+> *„It took all of 15 minutes for my pup to take one ear off **and ingest it**,
+> and the other ear I was able to get to before she ate it."*
+
+Bestellung **#8406**, 08.09., **20,35 £**, 1 × Plushies (Fuchs),
+Mount Laurel (US), `totalRefundedSet` **0.00 £**. Erstkontakt.
+
+**Das ist eine Sicherheitsmeldung**, kein reiner Kauschadenfall, und wird als
+solche weitergegeben.
+
+**Im Entwurf ausdrücklich nicht getan:** irgendeine Aussage zu **Material,
+Toxizität oder Unbedenklichkeit — in keine Richtung** —, und **keine
+tierärztliche Einschätzung oder Empfehlung.** Der Bericht wird **aufgenommen,
+nicht bewertet**; auf die Frage nach dem Tier wird auf den Tierarzt verwiesen,
+ohne eigene Einschätzung.
+
+Ein Bild — **nicht geöffnet, nicht ausgewertet.**
+
+**Label:** `Bot/Escalated - Owner Attention` (**Sicherheitsmeldung**).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Zwanzig Kundenvorgänge am 18.09.**
+- **Siebenundfünfzig Entwürfe** in `docs/entwuerfe-zum-kopieren.md`, **keiner in
+  Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⛔ #4604 ist der klarste belegte Shop-Fehler bisher:** falsche Adresse
+  gemeldet, Korrektur zweimal zugesagt, nie ausgeführt, und **die Auskunft vom
+  09.08. war beim Schreiben bereits falsch.**
+- **⚠️ Zwei Kundenzitate aus dem Produkttext sind jetzt wörtlich verifiziert**
+  (#7401 Fluffys, **#8002 Plushies**).
+- **⚠️ Eine Sicherheitsmeldung** (#8406) — ohne jede Material- oder
+  Gesundheitsaussage weitergegeben.
+- **Sechs Namens-/Adressabweichungen** — in **keinem** Fall wurden Bestelldaten
+  an eine nicht hinterlegte Adresse gegeben.
+- **Spätversand von elf bis zwölf Tagen ist jetzt in vier Bestellungen belegt:**
+  #7970, #7459, #8002, **#8295**.
