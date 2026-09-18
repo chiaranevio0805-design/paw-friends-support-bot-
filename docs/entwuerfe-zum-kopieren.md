@@ -11273,6 +11273,97 @@ er habe sie erfunden.** **Keine rechtliche Einordnung** zu seiner Berufung auf
 Verbraucherrecht. **Keine Bitte, von öffentlichen Hinweisen abzusehen.** Kein
 Eskalationsmarker im Text.
 
+## #6936 — Lisa Steggel (lisac131@googlemail.com) — 💷 sie nimmt 30 % an
+
+**Betreff:** Re: Not even an hour.
+
+**Neu am 18.09. 19:37 UTC.**
+
+> *„**If that's the best you can offer then yes, I'd like some money back.
+> Better than nothing.**"*
+
+Bestellung **#6936**, 21.08., **27,95 £**, 2 × Plushies (Affe + Esel),
+Bristol (GB), **versandt erst am 02.09. — zwölf Tage Liegezeit**,
+`totalRefundedSet` **0.00 £**. **30 % wären 8,39 £.**
+
+**Zweiter `Needs Approval`-Fall neben #4055:** Ein Angebot des Shops, von der
+Kundin **schriftlich angenommen.** Es ist **nichts mehr zu entscheiden, nur
+auszuführen.**
+
+**Ihr Verlauf, kurz:**
+
+- **12.09.** — *„Mr Donkey has not even lasted an hour with Bert. **The squeak
+  is out** now."*
+- **13.09.** — Vorlage. **14.09.** — *„You claim **no dog has beaten it** […]
+  False advertising."*
+- **15.09.** — Vorlage. Sie: *„**I'm sure trading standards will be
+  interested.** […] don't bother replying with the same shit apologies."*
+- **17.09.** — **30 %** angeboten.
+- **18.09.** — **angenommen**, mit *„Better than nothing."*
+
+**Ihr Zitat ist belegt:** *„no dog has beaten it"* entspricht der
+**Fluffys**-Beschreibung — *„40,000 dogs have tried. **Not one has beaten them
+yet.**"* und *„**Still undefeated.**"* **Sie hat allerdings Plushies gekauft.
+Das wird nicht gegen sie verwendet** — welche Werbung sie gesehen hat, ist von
+hier nicht rekonstruierbar (wie bei #7401 und #8165).
+
+**Der Zustand des zweiten Stücks (Affe) ist unbekannt** — sie schreibt nur über
+den Esel. **Achter solcher Fall. Gefragt, nicht angenommen.**
+
+**Vierte Meldung zu sich lösenden Kleinteilen** (*„the squeak is out"*) nach
+#8406, #8312, #8407. **Sie hat es nicht als Sorge formuliert — es wird ihr
+keine untergeschoben.**
+
+> Dear Lisa,
+>
+> Thank you — and I would rather be straight with you than cheerful about it.
+>
+> **I have recorded your answer as what you actually wrote: you accept the 30%,
+> and you accept it because it is better than nothing.** That is not the same as
+> being satisfied, and I have not passed it on as though it were.
+>
+> **I cannot release the money myself** — that sits with the shop owner — **so I
+> am not going to tell you it has been processed.** I have seen that said before
+> it was true, and I am not adding to it. What has gone to him today is one line:
+> **an offer the shop made, accepted in writing on 18 September, nothing paid
+> yet.**
+>
+> **Two things I would rather ask or say plainly than leave.**
+>
+> **First, the second toy.** Your order was for two, and you have written only
+> about the donkey. **I don't know what state the monkey is in.** If it has not
+> been given to your dog, tell me and I will put that on the file — it is a
+> different question and I don't want it decided on a guess.
+>
+> **Second, something I can confirm outright:** you ordered on 21 August and the
+> parcel **was not despatched until 2 September.** Twelve of those days were ours,
+> before it went anywhere. That is not what you complained about, but you are
+> entitled to know it.
+>
+> **On the advertising:** you quoted a claim about no dog having beaten it. **That
+> wording does exist in our catalogue** — I am not going to tell you that you
+> imagined it. **Whether it holds up is not mine to rule on**, and that question
+> has gone to him as well, in your words.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **korrekte Protokollierung ihrer Annahme (30 %,
+ausdrücklich unter Vorbehalt)**, die Weitergabe zur Ausführung, die **offene
+Bestätigung des zwölftägigen Spätversands**, die Bestätigung, dass die von ihr
+zitierte Formulierung **im Katalog existiert**, und eine Nachfass-Zusage.
+**Keine Aussage, dass die Erstattung veranlasst oder „processed" sei** —
+ausdrücklich das Gegenteil. **Kein Betrag in Zahlen, kein Termin.** **Keine
+neue Aushandlung, keine Rücknahme und keine Erhöhung des Angebots.** **Keine
+Aussage dazu, ob die Werbeaussage zutrifft.** **Kein Hinweis darauf, dass sie
+eine andere Produktlinie zitiert als die bestellte.** **Keine Annahme über den
+Zustand des zweiten Stücks.** **Keine Aussage zum herausgefallenen Quietscher
+in sicherheitlicher Hinsicht.** **Keine Bitte, Trading Standards nicht
+einzuschalten.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

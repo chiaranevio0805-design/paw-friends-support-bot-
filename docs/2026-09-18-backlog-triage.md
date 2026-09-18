@@ -1180,3 +1180,72 @@ bei der Prüfung anfiel.
   abweichende Fassung des Garantietextes selbst.**
 - **Zwei Fristen laufen am Montag, 21.09.:** **#7479** (Zustellung angekündigt)
   und **#6259** (Trading Standards).
+
+---
+
+## Lauf 20:20 UTC — ein Vorgang
+
+Suche `in:inbox after:2026/09/18`, Abgleich gegen den 19:20-Lauf. Eine
+Nachricht ist neu. **Der Tagesabschluss von 19:20 wird damit hinfällig — er
+bleibt stehen, weil er so geschrieben wurde.**
+
+---
+
+### 💷 #6936 — Lisa Steggel (`lisac131@googlemail.com`), 18.09. 19:37 UTC — sie nimmt 30 % an
+
+> *„**If that's the best you can offer then yes, I'd like some money back.
+> Better than nothing.**"*
+
+Bestellung **#6936**, 21.08., **27,95 £**, 2 × Plushies (Affe + Esel),
+Bristol (GB), **versandt erst am 02.09. — zwölf Tage Liegezeit**,
+`totalRefundedSet` **0.00 £**. **30 % wären 8,39 £.**
+
+**Zweiter `Bot/Needs Approval`-Fall neben #4055.** Ein Angebot des Shops,
+**schriftlich angenommen** — **nichts mehr zu entscheiden, nur auszuführen.**
+
+**Verlauf:**
+
+| Datum | Was |
+|---|---|
+| **12.09.** | *„Mr Donkey has not even lasted an hour with Bert. **The squeak is out** now."* |
+| **13.09.** | Vorlage |
+| **14.09.** | *„You claim **no dog has beaten it** […] False advertising."* |
+| **15.09.** | Vorlage. Sie: *„**I'm sure trading standards will be interested**"* |
+| **17.09.** | **30 %** angeboten |
+| **18.09.** | **Angenommen** — *„Better than nothing."* |
+
+**Drei Punkte:**
+
+1. **Ihr Zitat ist belegt** — *„no dog has beaten it"* entspricht der
+   **Fluffys**-Beschreibung (*„Not one has beaten them yet"*, *„Still
+   undefeated"*). **Sie hat Plushies gekauft; das wird nicht gegen sie
+   verwendet** — wie bei #7401 und #8165.
+2. **Der Zustand des zweiten Stücks ist unbekannt.** **Achter solcher Fall.
+   Gefragt, nicht angenommen.**
+3. **Vierte Meldung zu sich lösenden Kleinteilen** (*„the squeak is out"*) nach
+   #8406, #8312, #8407. **Sie hat es nicht als Sorge formuliert — es wird ihr
+   keine untergeschoben und keine Sicherheitsaussage gemacht.**
+
+**Im Entwurf ausdrücklich nicht getan:** ihr gesagt, die Erstattung sei
+veranlasst oder „processed". **Nach drei solchen Fällen heute (#5148, #6583,
+#4998) wird das hier nicht wiederholt.** Ebenso: **keine neue Aushandlung**,
+das Angebot **weder zurückgenommen noch erhöht**, und **keine Bitte, Trading
+Standards nicht einzuschalten.**
+
+**Label:** `Bot/Needs Approval` — **der Owner muss 8,39 £ freigeben.** Die
+Zusage steht bereits vom Shop selbst.
+
+---
+
+### Stand nach diesem Lauf — Tagesabschluss 18.09. (korrigiert)
+
+- **Sechsundzwanzig Kundenvorgänge.**
+- **Dreiundsechzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **💷 Zwei Beträge sind schriftlich angenommen und nur noch auszuführen:**
+  **#4055 (11,97 £)** und **#6936 (8,39 £)** — zusammen **20,36 £**.
+- **⛔ Drei weitere wurden als erledigt oder zugesagt mitgeteilt und nie
+  ausgeführt:** #5148, #6583, #4998.
+- **Sechs Bestellungen mit belegter Liegezeit von acht bis zwölf Tagen:**
+  #7970, #7459, #8002, #8295, #8312, **#6936.**
+- **Zwei Fristen am Montag, 21.09.:** #7479, #6259.
