@@ -11364,6 +11364,81 @@ Zustand des zweiten Stücks.** **Keine Aussage zum herausgefallenen Quietscher
 in sicherheitlicher Hinsicht.** **Keine Bitte, Trading Standards nicht
 einzuschalten.** Kein Eskalationsmarker im Text.
 
+## #3405 — Yancy Fajardo (rayance84@gmail.com) — ⚠️⚠️ vierte unabhängige Werbeaussage: „refund if they rip"
+
+**Betreff:** Re: Important Update Regarding Your Order
+
+**Neu am 18.09. 21:08 UTC. Erstkontakt zur Sache.**
+
+> *„**Saw an ad that offered refund for these if they rip.** I need a refund,
+> see attached photo"*
+
+Bestellung **#3405**, **25.07.**, **51,43 £**, Las Vegas (US) —
+1 × Zahnbuddy, 3 × Plushies (Affe, Frosch, Little Bear) **+ 📘 Ratgeber,
+`unfulfilledQuantity: 1`**, versandt 31.07., `totalRefundedSet` **0.00 £**.
+**Die älteste Bestellung im laufenden Bestand.**
+
+**⚠️ Das ist die vierte unabhängige Aussage zur Werbung binnen 34 Stunden — und
+die konkreteste:**
+
+| Wann | Wer | Aussage |
+|---|---|---|
+| 17.09. 11:29 | **#7255** (US) | *„if dog damage it before 1 month **free replacement**"* |
+| 18.09. 03:03 | **#6311** (AU) | *„As per your add will you **replace as guaranteed**?"* |
+| 18.09. 11:10 | **#6205** (US) | *„not the message of your advertisements on Facebook"* |
+| 18.09. 21:08 | **#3405** (US) | *„an ad that offered **refund for these if they rip**"* |
+
+**Vier Kunden, zwei Kontinente, dieselbe Richtung: die Anzeige verspricht
+Erstattung oder Ersatz genau für den Fall, den die Vorlage ablehnt.** Von hier
+**nicht überprüfbar** — in keiner der zwölf Produktbeschreibungen steht eine
+solche Zusage.
+
+**Achter Ratgeber-Fall.** Sie weiß nichts davon.
+
+Zwei Bilder — **nicht geöffnet, nicht ausgewertet.**
+
+> Dear Yancy,
+>
+> Thank you for writing, and for saying exactly what you bought on.
+>
+> **On the advertisement:** you say it offered a refund if the toys rip. **I am
+> not going to tell you that you misremembered it, and I cannot confirm it
+> either** — I can read our product pages from here, and no such promise is on
+> any of them, but I cannot see the advertising you were shown. **Anything I said
+> about its wording would be invention.** Your description has gone to the shop
+> owner today **in your own words**, because he can look at the advertising and I
+> cannot.
+>
+> **I cannot authorise a refund** — that decision is his — so I am not going to
+> promise you one. **You are also not getting a standard refusal from me**,
+> because answering a question about an advertisement with a paragraph about
+> returns is not an answer, and your case has not actually been decided by a
+> person yet.
+>
+> Your photographs arrived and are noted with the file.
+>
+> **One thing you should know rather than find out later.** Your order also
+> included the digital guide you paid for, and our records still show that item
+> as **not sent**. I do not know whether it reached you. If it did not, say so and
+> I will flag it as outstanding too.
+>
+> **Please don't post anything back** — we do not publish a returns address at
+> present, so a parcel would have nowhere to arrive.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **ihrer Aussage im Original**, die
+Bestätigung des Bildeingangs, der **offene Hinweis auf die nicht ausgelieferte
+bezahlte Position**, eine Nachfass-Zusage. **Keine Erstattung zugesagt, kein
+Betrag, kein Termin, keine Absage.** **Die Werbeaussage wird weder bestätigt
+noch bestritten** — offen gesagt, dass sie **in den Produktseiten nicht steht**
+und die Anzeige von hier **nicht einsehbar** ist. **Keine Auswertung der
+Fotos.** Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

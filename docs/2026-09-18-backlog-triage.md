@@ -1249,3 +1249,71 @@ Zusage steht bereits vom Shop selbst.
 - **Sechs Bestellungen mit belegter Liegezeit von acht bis zwölf Tagen:**
   #7970, #7459, #8002, #8295, #8312, **#6936.**
 - **Zwei Fristen am Montag, 21.09.:** #7479, #6259.
+
+---
+
+## Lauf 21:20 UTC — ein Vorgang, vierte Werbeaussage
+
+Suche `in:inbox after:2026/09/18`, Abgleich gegen den 20:20-Lauf. Eine
+Nachricht ist neu.
+
+---
+
+### ⚠️⚠️ #3405 — Yancy Fajardo (`rayance84@gmail.com`), 18.09. 21:08 UTC
+
+> *„**Saw an ad that offered refund for these if they rip.** I need a refund,
+> see attached photo"*
+
+Bestellung **#3405**, **25.07.**, **51,43 £**, Las Vegas (US) — 1 × Zahnbuddy,
+3 × Plushies **+ 📘 Ratgeber, `unfulfilledQuantity: 1`**, versandt 31.07.,
+`totalRefundedSet` **0.00 £**. **Die älteste Bestellung im laufenden Bestand.**
+
+#### Die vierte unabhängige Werbeaussage in 34 Stunden — und die konkreteste
+
+| Wann | Wer | Aussage |
+|---|---|---|
+| 17.09. 11:29 | **#7255** (Kingman, US) | *„if dog damage it before 1 month **free replacement**"* |
+| 18.09. 03:03 | **#6311** (Maddington, AU) | *„As per your add will you **replace as guaranteed**?"* |
+| 18.09. 11:10 | **#6205** (Hanover, US) | *„**not the message of your advertisements on Facebook**"* |
+| 18.09. 21:08 | **#3405** (Las Vegas, US) | *„an ad that offered **refund for these if they rip**"* |
+
+**Vier Kunden, zwei Kontinente, dieselbe Richtung:** Die Anzeige verspricht
+**Erstattung oder Ersatz genau für den Fall, den die Vorlage ablehnt.**
+
+**Dazu, aus dem 19:20-Lauf:** **#4998** zitiert einen Garantietext
+(*„not completely satisfied **for any reason**"*), der **ebenfalls keine
+Bedingung „unbenutzt"** enthält und **in keiner Produktbeschreibung steht.**
+
+**Damit stehen fünf unabhängige Kundenangaben nebeneinander, die alle in
+dieselbe Richtung weisen — und keine davon ist von hier überprüfbar.** In den
+**zwölf geprüften Produktbeschreibungen** steht **keine** Erstattungs- oder
+Ersatzzusage für Kauschaden.
+
+**Das ist die dringendste inhaltliche Frage des Tages: Was steht tatsächlich in
+der Facebook-/Instagram-Werbung und auf den Shop-Seiten außerhalb der
+Produkttexte?** **Nur der Owner kann das nachsehen.**
+
+**Achter Ratgeber-Fall** (bezahlte digitale Position nicht ausgeliefert) — im
+Entwurf offen mitgeteilt, ohne Zusage.
+
+Zwei Bilder — **nicht geöffnet, nicht ausgewertet.**
+
+**Label:** `Bot/Escalated - Owner Attention` (bestrittene Werbeaussage mit
+behaupteter Erstattungszusage).
+
+---
+
+### Stand nach diesem Lauf — Tagesabschluss 18.09. (zweite Korrektur)
+
+- **Siebenundzwanzig Kundenvorgänge.**
+- **Vierundsechzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⚠️ Fünf unabhängige Kundenangaben zu Werbe- oder Garantietexten, die eine
+  Erstattung oder einen Ersatz für Kauschaden versprechen** — #7255, #6311,
+  #6205, #3405, **#4998** (Garantietext). **Keine davon steht in den zwölf
+  Produktbeschreibungen; keine ist von hier überprüfbar.**
+- **💷 Zwei Beträge schriftlich angenommen, nur auszuführen:** #4055 (11,97 £),
+  #6936 (8,39 £).
+- **⛔ Drei als erledigt mitgeteilte, nie ausgeführte Erstattungen:** #5148,
+  #6583, #4998.
+- **Zwei Fristen am Montag, 21.09.:** #7479, #6259.
