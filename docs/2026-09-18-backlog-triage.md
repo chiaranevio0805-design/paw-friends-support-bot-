@@ -354,3 +354,63 @@ ist, und nicht gegen die anderen Vorgänge gestellt.
   36 Stunden.**
 - **Eine bereits erfasste Nachricht tauchte erneut als ungelesen auf** (#6254).
   **Geprüft, nicht doppelt bearbeitet.**
+
+---
+
+## Lauf 08:20 UTC — ein Vorgang
+
+Suche `in:inbox after:2026/09/17`, Abgleich gegen den 04:20-Lauf. Eine
+Nachricht ist neu.
+
+---
+
+### 🚩 #7459 — Sarah Taylor (`jessalena2004@yahoo.co.uk`), 18.09. 07:52 UTC — vierte unbeantwortete Nichtlieferung
+
+> *„I **still have not received** my order 7459 which was placed **23rd August**.
+> Could you update me please?"*
+
+Bestellung **#7459**, 23.08., **19,95 £**, 1 × Plushies (Esel), Authorpe (GB),
+`FULFILLED`, `totalRefundedSet` **0.00 £**. Erstkontakt, höflich formuliert.
+
+**Befund: versandt erst am 03.09. — elf Tage nach der Bestellung.** Sendung
+`UL478624565YP`. **Seit Bestellung 26 Tage, seit Versand 15 Tage.**
+
+**Vierte unbeantwortete Nichtlieferung binnen zwei Tagen:**
+
+| # | Kunde | Bestellt | Versandt | Stand |
+|---|---|---|---|---|
+| **#5036** | Lynette Lumley | 08.08. | 22.08. | **40 Tage**, Erstattungsbitte seit 07.09. offen |
+| **#5905** | Kate Stephens | 13.08. | — | nicht erhalten seit **01.09.**, Rückmeldung seit 07.09. offen |
+| **#7970** | Melissa Harris | 27.08. | **08.09.** (12 Tage) | **21 Tage**, volle Erstattung verlangt |
+| **#7459** | Sarah Taylor | 23.08. | **03.09.** (11 Tage) | **26 Tage** |
+
+**Bei #7970 und #7459 ist dieselbe Ursache belegt:** die Ware lag **elf bzw.
+zwölf Tage** hier, bevor sie überhaupt übergeben wurde. **Das steht im Entwurf
+offen als unser Fehler**, statt die Verzögerung dem Zusteller zuzuschreiben.
+
+**⚠️ Namensabgleich, vierter Fall** nach #7041, #8120 und #4832: Die
+Lieferanschrift lautet auf einen **anderen Namen** als ihre Unterschrift. Sie
+schreibt **von der Bestelladresse** — die Auskunft ist zulässig —, **aber es
+wird nicht geraten, wer von beiden sie ist.** Angesprochen wird sie mit dem
+selbst genannten Namen; **der Name der Lieferanschrift steht nicht im Entwurf.**
+
+**Im Entwurf ausdrücklich nicht getan:** ihr einen Liefertermin genannt, sie an
+den Zusteller verwiesen, oder ihr eine Wartefrist auferlegt, bevor ihr Anliegen
+zählt.
+
+**Label:** `Bot/Escalated - Owner Attention` (Nichtlieferung + belegter
+Spätversand).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Acht Vorgänge am 18.09.**
+- **Fünfundvierzig Entwürfe** in `docs/entwuerfe-zum-kopieren.md`, **keiner in
+  Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⚠️ Vier unbeantwortete Nichtlieferungen:** #5036, #5905, #7970, **#7459.**
+  **In zwei Fällen ist Spätversand von elf bzw. zwölf Tagen die belegte
+  Ursache.**
+- **Vier Namens- oder Adressabweichungen**, in **keinem** Fall wurden
+  Bestelldaten an eine nicht hinterlegte Adresse gegeben oder ein Name geraten.

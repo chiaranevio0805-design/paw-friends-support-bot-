@@ -10030,6 +10030,73 @@ Ersatz, **keine Bitte um eine Bewertung** und **keine Werbung für ein weiteres
 Produkt.** **Seine Rückmeldung wird nicht als Beleg für irgendeine
 Produktaussage verwendet** — weder ihm gegenüber noch im Log.
 
+## #7459 — Sarah Taylor (jessalena2004@yahoo.co.uk) — vierte unbeantwortete Nichtlieferung
+
+**Betreff:** Re: Order 7459
+
+**Neu am 18.09. 07:52 UTC. Erstkontakt, höflich.**
+
+> *„I **still have not received** my order 7459 which was placed **23rd August**.
+> Could you update me please?"*
+
+Bestellung **#7459**, 23.08., **19,95 £**, 1 × Plushies (Esel), Authorpe (GB),
+`FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+**Der Befund: versandt erst am 03.09. — elf Tage nach der Bestellung.** Sendung
+`UL478624565YP`. **Seit Bestellung 26 Tage, seit Versand 15 Tage.**
+
+**Vierte unbeantwortete Nichtlieferung** in zwei Tagen nach #5036 (40 Tage),
+#5905 (seit 01.09.) und #7970 (21 Tage). **Bei #7970 und hier ist der
+Spätversand die gleiche Ursache** — zwölf bzw. elf Tage bis zur Übergabe.
+
+**⚠️ Namensabgleich:** Die Lieferanschrift lautet auf einen **anderen Namen**
+als ihre Unterschrift. Sie schreibt **von der Bestelladresse**, die Auskunft ist
+also zulässig — **aber es wird nicht geraten, wer von beiden sie ist.**
+Angesprochen wird sie mit dem **selbst genannten** Namen, und **der Name auf der
+Lieferanschrift steht nicht im Entwurf.** Vierter Namensfall nach #7041, #8120,
+#4832.
+
+> Dear Sarah,
+>
+> Thank you for asking, and I am sorry you had to.
+>
+> **Here is the actual position rather than a reassurance.** Your order was placed
+> on 23 August but **was not despatched until 3 September** — eleven days sitting
+> here before it went anywhere. That delay is ours, and I would rather you knew
+> it than be told everything is normal.
+>
+> The tracking reference is **UL478624565YP**. Our records still show it in
+> transit — **not delivered and not returned to us.**
+>
+> **What I am not going to do is give you a delivery date.** Once a parcel is in
+> transit I cannot see reliably when it will arrive, and a date from me would be
+> a guess presented as information.
+>
+> **I am also not going to ask you to wait a further set number of days before
+> this counts as a problem.** It is 23 August; that is long enough.
+>
+> **I cannot authorise a refund myself** — that decision is the shop owner's — so
+> I am not going to promise you one. **Your case has gone to him this morning
+> stated plainly: ordered 23 August, despatched 3 September, nothing received as
+> of 18 September.**
+>
+> **And I am not sending you off to chase a carrier.** If you would rather have
+> your money back than keep waiting, say so in a reply and I will put that on the
+> file in your words.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Nennung des Spätversands als unser Fehler**,
+Sendungsnummer und Versanddatum, die Weitergabe an den Owner, und das Angebot,
+ihren Wunsch (warten oder Erstattung) wörtlich aufzunehmen. **Keine Erstattung
+zugesagt, kein Betrag, kein Liefertermin, keine Wartefrist.** **Keine Verweisung
+an den Zusteller** — ausdrücklich das Gegenteil. **Keine Aussage über Herkunft
+oder Versandweg** — sie hat nicht gefragt; falls sie fragt, wird wahrheitsgemäß
+geantwortet. **Kein Name geraten** — nur der selbst genannte verwendet, der Name
+auf der Lieferanschrift bleibt außen vor. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
