@@ -10897,6 +10897,84 @@ keine Handlungsempfehlung**, nur der Hinweis, dass dies zum Tierarzt gehört.
 **Keine Aussage dazu, ob die Werbeaussage zutrifft.** **Keine Auswertung des
 Fotos.** Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
+## #8295 — Ivan Griffen (griffenivan@gmail.com) — vierte Fassung, ⛔ sechster Kontakt, dritter Thread
+
+**Betreff:** Re: Order #8295
+
+**Neu am 18.09. 14:30 UTC — in einem dritten Thread.**
+
+> *„**Where is my order.** Plus Evri have not delivered it when it was out for
+> delivery on Wednesday. Plus **I have sent you a few emails without receiving a
+> response. I need you to refund my money.**"*
+
+**Er verlangt jetzt die Erstattung — die Frist bis Mittwoch von heute Morgen ist
+damit hinfällig.**
+
+**Der vollständige Verlauf — sechs Kontakte über drei Threads:**
+
+| Datum | Kontakt | Antwort |
+|---|---|---|
+| **05.09. 14:35** | *„When is my order going to arrive and when will I get a tracking number."* | 06.09. — „shipped… 7–21 days" |
+| **06.09. 22:45** | *„Have you got a tracking number"* | 08.09. — Tracking + **„expected to reach the Evri network shortly"** |
+| **17.09. 11:50** | Vorwarnung: Paket vermutlich im Depot verloren | **keine** |
+| **17.09. 17:29** | Leitet seine eigene Mail zurück | **keine** |
+| **18.09. 11:09** | *„PLEASE REPLY"*, Frist Mittwoch 23.09. | **keine** |
+| **18.09. 14:30** | **„I need you to refund my money"** | — |
+
+**⚠️ Eine Korrektur an meiner eigenen früheren Einordnung.** In den Läufen vom
+17.09. (11:20, 18:20) und heute 11:20 habe ich die Zusteller-Angabe als
+**ungeklärte Diskrepanz** behandelt: Kunde nennt Evri, Shop-Datensatz nennt
+Yanwen. **Das war unvollständig.** Die Shop-Mail vom **08.09.** nennt **selbst**
+den Übergang an Evri: *„it is expected to reach the **Evri network** shortly."*
+**Seine Angabe ist damit aus unserem eigenen Postausgang gedeckt** — es gibt
+keine Diskrepanz, sondern eine dokumentierte Übergabe. **Die vorherigen
+Entwürfe sind dadurch nicht falsch** (sie behaupteten nichts und nannten keinen
+Zusteller), **aber die Einordnung im Log war es.** Der neue Entwurf korrigiert
+das ihm gegenüber.
+
+Bestellung **#8295**, 31.08., **27,95 £**, versandt **08.09.**,
+`UL493236461YP`, `totalRefundedSet` **0.00 £**.
+
+> Dear Ivan,
+>
+> **Six messages. Three of them since yesterday morning with nothing back.** You
+> are right to be asking in capitals by now.
+>
+> **First, a correction I owe you.** When you told us Evri had it, I was cautious
+> about confirming which carrier held the parcel. **I have now read our own reply
+> to you of 8 September, and it says the shipment was expected to reach the Evri
+> network.** So you were not guessing — **our own message says the same thing you
+> said.** I should have found that sooner.
+>
+> **What our records show now:** despatched 8 September under **UL493236461YP**,
+> still marked in transit — not delivered to you, not returned to us. **Nothing
+> has been refunded and nothing has been closed.**
+>
+> **You have now asked for your money back rather than a delivery date, and I
+> have recorded that as your request** — not as a deadline, as what you want.
+> **I cannot authorise a refund myself**, so I am not going to promise you one.
+> What has gone to the shop owner, today, is short: **ordered 31 August,
+> despatched 8 September, not delivered, six contacts, three unanswered, refund
+> requested.**
+>
+> **I am not going to send you to chase the carrier**, and I am not going to ask
+> you to wait out any further period before your request counts.
+>
+> If you hear nothing in the next few days, reply here — **and you will not have
+> to explain it from the beginning again.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Korrektur der früheren Zurückhaltung beim
+Zusteller**, die Bestätigung von Versanddatum, Sendungsnummer und Status, die
+Aufnahme seiner Erstattungsforderung als solche, und die Zusage, dass er nicht
+von vorn anfangen muss. **Keine Erstattung zugesagt, kein Betrag, kein
+Liefertermin, keine Wartefrist.** **Keine Verweisung an den Zusteller.**
+**Keine Bewertung seiner Aussage über den Zusteller** über das hinaus, was in
+unserer eigenen Mail vom 08.09. steht. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

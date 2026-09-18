@@ -886,3 +886,78 @@ Ein Bild — **nicht geöffnet, nicht ausgewertet.**
   an eine nicht hinterlegte Adresse gegeben.
 - **Spätversand von elf bis zwölf Tagen ist jetzt in vier Bestellungen belegt:**
   #7970, #7459, #8002, **#8295**.
+
+---
+
+## Lauf 15:20 UTC — ein Vorgang, und eine Korrektur an meiner eigenen Einordnung
+
+Suche `in:inbox after:2026/09/18`, Abgleich gegen den 14:20-Lauf. Eine
+Nachricht ist neu.
+
+---
+
+### ⛔ #8295 — Ivan Griffen (`griffenivan@gmail.com`), 18.09. 14:30 UTC — sechster Kontakt, dritter Thread
+
+> *„**Where is my order.** […] I have sent you a few emails without receiving a
+> response. **I need you to refund my money.**"*
+
+**Er verlangt jetzt die Erstattung.** Die Frist bis Mittwoch, die er heute
+Morgen um 11:09 gesetzt hatte, ist damit von ihm selbst überholt.
+
+**Der vollständige Verlauf — sechs Kontakte über drei Threads:**
+
+| Datum | Kontakt | Antwort |
+|---|---|---|
+| **05.09.** | Wann kommt die Bestellung, wo ist die Sendungsnummer | 06.09. |
+| **06.09.** | *„Have you got a tracking number"* | 08.09. |
+| **17.09. 11:50** | Vorwarnung: vermutlich im Depot verloren | **keine** |
+| **17.09. 17:29** | Leitet seine eigene Mail zurück | **keine** |
+| **18.09. 11:09** | *„PLEASE REPLY"*, Frist 23.09. | **keine** |
+| **18.09. 14:30** | **Erstattung verlangt** | — |
+
+**Er hat dafür drei verschiedene Threads geöffnet** (05.09., 17.09., 18.09.) —
+dasselbe Verhalten wie bei #7989 und #7114. **In einer Thread-Ansicht sieht das
+aus wie drei Kunden.**
+
+#### ⚠️ Korrektur an meiner eigenen früheren Einordnung
+
+In den Läufen **17.09. 11:20**, **17.09. 18:20** und **18.09. 11:20** habe ich
+die Zusteller-Angabe als **ungeklärte Diskrepanz** geführt — Kunde nennt Evri,
+Shop-Datensatz nennt Yanwen — und daraus geschlossen, die Übergabe sei „von hier
+nicht sichtbar".
+
+**Das war unvollständig.** Die Shop-Mail vom **08.09.** in diesem dritten Thread
+sagt es selbst: *„it is expected to reach the **Evri network** shortly."*
+
+**Seine Angabe ist also aus unserem eigenen Postausgang gedeckt.** Es gibt keine
+Diskrepanz, sondern eine dokumentierte Übergabe.
+
+**Was das für die bisherigen Entwürfe bedeutet:** Sie sind **nicht falsch** — sie
+haben ausdrücklich **keinen** Zusteller genannt und nichts behauptet, sondern
+offengelassen. **Falsch war die Einordnung im Log**, und die wird hiermit
+berichtigt. **Der neue Entwurf korrigiert es ihm gegenüber ausdrücklich**, statt
+es stillschweigend zu ändern.
+
+**Ursache des Fehlers:** Ich habe den Thread von 05./06./08.09. nicht gelesen,
+weil er vor dem Suchfenster lag. **Dieselbe Lücke wie bei #5973 am 15.09.** —
+frühere Threads desselben Kunden werden von `after:`-Suchen nicht erfasst.
+
+**Label:** `Bot/Escalated - Owner Attention`, **hohe Priorität** (Erstattung
+verlangt, sechs Kontakte, drei unbeantwortet). **Vierte Fassung.**
+**Auf die Erstattungsliste als offen:** 27,95 £, **Nichtlieferung — kein
+Kauschaden.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Einundzwanzig Kundenvorgänge am 18.09.**
+- **Achtundfünfzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⚠️ Eine frühere Einordnung dieses Logs war unvollständig und ist hier
+  berichtigt** (#8295, Zusteller).
+- **Fünf unbeantwortete Nichtlieferungen:** #5036, #5905, #7970, #7459,
+  **#8295.**
+- **Lehre für die Suche:** Bei jedem Wiederholungskontakt **zuerst nach älteren
+  Threads desselben Absenders suchen**, bevor eine Angabe als ungeklärt geführt
+  wird.
