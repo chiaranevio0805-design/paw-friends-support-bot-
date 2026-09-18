@@ -10097,6 +10097,236 @@ oder Versandweg** — sie hat nicht gefragt; falls sie fragt, wird wahrheitsgem�
 geantwortet. **Kein Name geraten** — nur der selbst genannte verwendet, der Name
 auf der Lieferanschrift bleibt außen vor. Kein Eskalationsmarker im Text.
 
+## #4812 — Carolyn Marmalejo (Ilovenails2@msn.com) — ⛔⛔ fünfmal nach der Rücksendeadresse gefragt, 29 Tage, achte Angebotsleiter
+
+**Betreff:** Re: Fw: Toys
+
+**Neu am 18.09. 10:27 UTC.**
+
+> *„I would like a full refund for the unused toys."*
+
+**Denselben Satz hat sie jetzt zum fünften Mal geschrieben.**
+
+Bestellung **#4812**, 06.08., **86,89 £** — **der bislang größte offene Vorgang**.
+Monee (US), **neun Positionen** (3 × Fluffys, 3 × Plushies, 1 × Zahnbuddy,
+**2 × 📘 Ratgeber, beide `unfulfilledQuantity: 1`**), `totalRefundedSet`
+**0.00 £**.
+
+**Der vollständige Verlauf — sie fragt seit dem 20.08. nach der
+Rücksendeadresse:**
+
+| Datum | Wer | Was |
+|---|---|---|
+| **17.08.** | Carolyn | Gekauft *„because you advertise them for being for dogs that are heavy chewers"*. Ein Spielzeug **nach 20 Sekunden** gerissen. Volle Erstattung erbeten. |
+| **19.08.** | Shop | Absage. **Verweist auf `paw-friends.uk/pages/refund-policy`** als Beleg für die Bedingung „unbenutzt". |
+| **20.08.** | Carolyn | **„can you provide me with the address in which to return the other toys?"** |
+| **21.08.** | Shop | *„please let us know and **we can advise you on the return process**"* |
+| **02.09.** | Carolyn | **„Please provide me with return information!"** |
+| **07.09.** | Carolyn | **„Please send me information on how to return the undamaged toys!!!"** |
+| **08.09.** | Shop | **30 %** zum Behalten |
+| **10.09.** | Carolyn | **„Please, again, I ask you for the return information!!!"** |
+| **12.09.** | Shop | **35 %** |
+| **14.09.** | Carolyn | *„No…i would like a full refund for the undamaged, unopened toys."* |
+| **15.09.** | Shop | **50 %** |
+| **15.09.** | Carolyn | *„I would like a full refund for the unused toys."* |
+| **17.09.** | Shop | **60 %** angeboten — **und im nächsten Satz Annahme von 50 % erbeten** |
+| **18.09.** | Carolyn | *„I would like a full refund for the unused toys."* |
+
+**Drei Befunde:**
+
+1. **Fünf Bitten um die Rücksendeadresse, null Antworten — seit 29 Tagen.**
+   Am 21.08. wurde ihr ausdrücklich zugesagt, man werde sie zum
+   Rücksendeverfahren beraten. **Das ist nie geschehen.**
+2. **⚠️ Die Absage vom 19.08. verweist auf die veröffentlichte
+   Rückgaberichtlinie als Beleg für die Bedingung „unbenutzt".** Diese Seite
+   besteht **ausschließlich** aus dem Abschnitt *„Australia – Consumer
+   Guarantees"* — und der sagt, die dortigen Rechte seien **nicht** durch diese
+   Bedingung begrenzt. **Sie wurde auf eine Seite verwiesen, die das Gegenteil
+   dessen enthält, was ihr gesagt wurde.**
+3. **Achte Angebotsleiter: 30 → 35 → 50 → 60 %.** Und der
+   **60/50-Widerspruch** steht damit in **sechs Mails an vier Kundinnen und
+   Kunden** (#4940 dreimal, #6259, #4055, **#4812**).
+
+**Neunter unbenutzter Fall** — und der größte: alles außer einem Stück.
+**Siebter Ratgeber-Fall**, hier sogar **zweifach** in derselben Bestellung.
+
+> Dear Carolyn,
+>
+> You have asked us for the return address five times since 20 August. **You have
+> never once been given it, and four of those five times you were sent a
+> percentage instead.** I am not going to do that to you a fifth time.
+>
+> **Here is the honest answer you should have had on 21 August: we do not publish
+> a returns address, so there is no return process to advise you on.** When you
+> were told we would advise you on it, that was a commitment we could not keep.
+> **The problem has never been your request — it is that the route does not
+> exist.**
+>
+> **So please do not post the parcel.** If you send it now you will pay the
+> postage and it will have nowhere to arrive. Please keep the unopened items as
+> they are.
+>
+> **On the money: I cannot authorise a refund of any size** — not the full amount
+> and not a percentage — so I am not going to name a figure or make you another
+> offer. **What has gone to the shop owner today is short: an order of nine
+> items, one damaged in twenty seconds, the rest unopened, a full refund
+> requested for the unused items since 2 September, and five unanswered requests
+> for a return address.**
+>
+> **Two other things you are owed rather than left to discover.**
+>
+> **First:** the reply you received on 19 August pointed you to our published
+> returns policy as the source of the "unused and in original condition"
+> requirement. **I have read that page, and it does not say that.** I am not going
+> to defend a citation that does not hold up, and that point has gone to the
+> owner too.
+>
+> **Second:** your order included **two copies of the digital guide** you paid
+> for, and our records still show both as not sent. I do not know whether they
+> reached you. If they did not, tell me and I will flag them as outstanding as
+> well.
+>
+> If you have heard nothing in a few days, reply here and I will chase it. **You
+> have been more patient with us than we have earned.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass es keinen Rücksendeweg
+gibt** und dass die Zusage vom 21.08. nicht einlösbar war, die Feststellung,
+**dass die zitierte Richtlinienseite die behauptete Bedingung nicht enthält**,
+der Hinweis auf die zwei nicht ausgelieferten bezahlten Positionen, die
+Weitergabe an den Owner und eine Nachfass-Zusage. **Keine Erstattung zugesagt,
+kein Prozentsatz, kein Gegenangebot, kein Betrag, kein Termin.** **Das
+bestehende 60-%-Angebot wird weder zurückgenommen noch erhöht.** **Keine
+Rücksendeadresse erfunden**, samt Warnung. **Keine Aussage dazu, ob die Werbung
+zutrifft**, keine rechtliche Einordnung. Kein Eskalationsmarker im Text.
+
+---
+
+## #6205 — John Keefauver (johnkeefauver@gmail.com) — dritte unabhängige Facebook-Aussage
+
+**Betreff:** Re: Order #6205 confirmed
+
+**Neu am 18.09. 11:10 UTC**, **29 Minuten** nach der Kauschaden-Vorlage von
+10:41.
+
+> *„**This is very clearly not the message of your advertisements on Facebook.**
+> Nice marketing deception. **I will share.**"*
+
+Und am **16.09.** hatte er geschrieben:
+
+> *„Your marketing states a **30-day moneyback guarantee that this won't
+> happen**. How do we proceed?"*
+
+Bestellung **#6205**, 15.08., **30,56 GBP** im Shop-Datensatz / **41,34 USD**
+auf der Bestellbestätigung — **fünfzehnter Währungsfall, nicht überbrückt.**
+Hanover, PA (US), `FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+**Dritte unabhängige Aussage zur Facebook-Werbung binnen 24 Stunden** nach
+**#7255** (US) und **#6311** (AU). **Alle drei sagen dasselbe: die Anzeige
+verspricht etwas anderes als die Vorlage.**
+
+> Dear John,
+>
+> You replied twenty-nine minutes after our message, and I do not blame you.
+> **The reply you were sent did not answer what you asked.**
+>
+> **You told us on 16 September that our marketing states a thirty-day
+> money-back guarantee covering exactly this.** What came back was a paragraph
+> explaining that chew damage is not covered. **Those two things cannot both be
+> true, and answering one with the other is not an answer.**
+>
+> **On the Facebook advertising: I cannot see it from where I sit**, so I am not
+> going to tell you what it says, and I am certainly not going to tell you that
+> you misread it. **What you say it says has gone to the shop owner today in your
+> own words** — he can look at the advertising and I cannot.
+>
+> **On sharing it publicly:** that is entirely your business. I am not going to
+> ask you not to, and nothing here depends on whether you do.
+>
+> **On the refund: I cannot authorise one**, so you get no promise from me — and
+> no second copy of this morning's refusal either.
+>
+> **One thing I am flagging rather than quietly converting.** Your order
+> confirmation shows **$41.34**; our own record of the same order shows
+> **£30.56**. I do not know which figure any decision would be measured against,
+> and I am not going to convert one into the other and hand it to you as fact.
+> It has gone to him as a question.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Feststellung, dass die Antwort von heute früh an
+seiner Frage vorbeiging**, die Weitergabe **seiner Aussage im Original**, die
+offene Benennung der Währungsdifferenz als ungeklärte Frage, eine
+Nachfass-Zusage. **Keine Erstattung zugesagt, kein Betrag, keine Absage.**
+**Die Facebook-Aussage wird weder bestätigt noch bestritten.** **Die Beträge
+werden nicht ineinander umgerechnet.** **Keine Bitte, nichts zu teilen**, und
+keine Bedingung daran geknüpft. Kein Eskalationsmarker im Text.
+
+---
+
+## #8295 — Ivan Griffen (griffenivan@gmail.com) — dritte Fassung, jetzt mit eigener Frist
+
+**Betreff:** Re: Order #8295
+
+**Neu am 18.09. 11:09 UTC — dritter Kontakt, neuer Thread.** Auf seine Mail vom
+17.09. 11:50 und die Weiterleitung von 17:29 kam **keine Antwort.**
+
+> *„Still haven't got my order […] It was out for delivery **Wednesday and
+> Thursday** and still haven't got it that means **they have lost it in their
+> depot**. **So if it's not here by next Wednesday I will need you to refund my
+> money please.** By the way you should not use Evri they have lost my last three
+> packages. **PLEASE REPLY**"*
+
+Bestellung **#8295**, 31.08., **27,95 £**, versandt **08.09.**, Sendung
+`UL493236461YP`, `totalRefundedSet` **0.00 £**.
+
+**Er setzt jetzt selbst eine Frist: nächster Mittwoch, 23.09.** — und bittet
+ausdrücklich um eine Antwort. **Dritter Kontakt, zweiter neuer Thread.**
+
+> Dear Ivan,
+>
+> You have written three times and heard nothing back. **That is on us, and
+> "PLEASE REPLY" in capitals is a fair thing to have to write by the third
+> attempt.**
+>
+> **What I can confirm:** your order was despatched on 8 September under
+> reference **UL493236461YP**, and our records still show it in transit — not
+> delivered, not returned to us. Nothing has been refunded and nothing has been
+> closed.
+>
+> **What I am not going to do is tell you who has it.** You are reading the local
+> tracking; our own record names a different carrier, and I cannot see what
+> happens after a parcel is handed over locally. **I would rather admit that than
+> give you a confident answer I cannot stand behind.** Your point about the
+> carrier has gone to the shop owner as you made it.
+>
+> **On your date of next Wednesday:** I have recorded it exactly as you set it —
+> **23 September** — and passed it on. **I cannot authorise a refund myself**, so
+> I am not going to promise you one for that date. What I can tell you is that
+> your request is on the file with your date on it, and **you will not have to
+> start again from the beginning.**
+>
+> If Wednesday passes and nothing has arrived, reply here and say so.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Bestätigung von Versanddatum und Sendungsnummer, dass
+nichts erstattet und nichts geschlossen ist, die **wörtliche Aufnahme seiner
+eigenen Frist (23.09.)** und die Zusage, dass er nicht von vorn anfangen muss.
+**Keine Erstattung zugesagt, kein Liefertermin, keine Zusage zum 23.09.**
+**Keine Aussage dazu, welcher Zusteller die Sendung hat** — die Diskrepanz wird
+offen benannt. **Keine Verweisung an den Zusteller**, und **keine Bewertung
+seiner Aussage über den Zusteller.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

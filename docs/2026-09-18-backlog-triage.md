@@ -433,3 +433,130 @@ Stripe-Rechnungsankündigung vom 17.09.
 
 **Keine Änderung am Stand:** acht Kundenvorgänge am 18.09., fünfundvierzig
 Entwürfe, keine Erstattung ausgeführt.
+
+---
+
+## Lauf 11:20 UTC — drei Vorgänge, zwei davon schwerwiegend
+
+Suche `in:inbox after:2026/09/17`, Abgleich gegen den 09:20-Lauf. Drei
+Nachrichten sind neu.
+
+---
+
+### ⛔⛔ #4812 — Carolyn Marmalejo (`Ilovenails2@msn.com`), 18.09. 10:27 UTC — fünfmal nach der Rücksendeadresse gefragt, 29 Tage
+
+**Der größte offene Einzelvorgang: 86,89 £, neun Positionen.** Monee (US),
+`PARTIALLY_FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+| Datum | Wer | Was |
+|---|---|---|
+| **17.08.** | Carolyn | Gekauft *„because you advertise them for being for dogs that are heavy chewers"*. Ein Stück **nach 20 Sekunden** gerissen. |
+| **19.08.** | Shop | Absage, **mit Verweis auf `paw-friends.uk/pages/refund-policy`** als Beleg für die Bedingung „unbenutzt" |
+| **20.08.** | Carolyn | **„can you provide me with the address in which to return the other toys?"** |
+| **21.08.** | Shop | *„**we can advise you on the return process**"* |
+| **02.09.** | Carolyn | **„Please provide me with return information!"** |
+| **07.09.** | Carolyn | **„Please send me information on how to return the undamaged toys!!!"** |
+| **08.09.** | Shop | **30 %** |
+| **10.09.** | Carolyn | **„Please, again, I ask you for the return information!!!"** |
+| **12.09.** | Shop | **35 %** |
+| **14.09.** | Carolyn | *„No…i would like a full refund for the undamaged, unopened toys."* |
+| **15.09.** | Shop | **50 %** |
+| **15.09.** | Carolyn | *„I would like a full refund for the unused toys."* |
+| **17.09.** | Shop | **60 %** angeboten — **Annahme von 50 % erbeten** |
+| **18.09.** | Carolyn | *„I would like a full refund for the unused toys."* |
+
+**Drei Befunde:**
+
+1. **⛔ Fünf Bitten um die Rücksendeadresse seit dem 20.08. — keine einzige
+   beantwortet.** Am 21.08. wurde ihr zugesagt, man werde sie zum Verfahren
+   beraten. **29 Tage, nichts.** Viermal kam statt der Adresse **ein
+   Prozentsatz.**
+2. **⚠️ Die Absage vom 19.08. beruft sich auf die veröffentlichte
+   Rückgaberichtlinie als Quelle der Bedingung „unbenutzt".** Diese Seite
+   besteht **ausschließlich** aus *„Australia – Consumer Guarantees"* — und
+   dieser Abschnitt sagt, die Rechte seien **nicht** durch diese Bedingung
+   begrenzt. **Die Kundin wurde auf eine Seite verwiesen, die das Gegenteil des
+   Behaupteten enthält.** Das ist der erste belegte Fall, in dem die Zitierung
+   selbst nachgewiesen falsch ist.
+3. **Achte Angebotsleiter: 30 → 35 → 50 → 60 %.** Der **60/50-Widerspruch**
+   steht damit in **sechs Mails an vier Kundinnen und Kunden** (#4940 dreimal,
+   #6259, #4055, **#4812**).
+
+**Neunter unbenutzter Fall** — und der umfangreichste: alles außer einem Stück.
+**Siebter Ratgeber-Fall**, hier **zweifach** in derselben Bestellung
+(2 × `unfulfilledQuantity: 1`).
+
+**Im Entwurf ausdrücklich nicht getan:** ein Gegenangebot, ein Prozentsatz, eine
+erfundene Adresse. **Das bestehende 60-%-Angebot wird weder zurückgenommen noch
+erhöht.**
+
+**Label:** `Bot/Escalated - Owner Attention`, **höchste Priorität.**
+
+---
+
+### 🚩 #6205 — John Keefauver (`johnkeefauver@gmail.com`), 18.09. 11:10 UTC — dritte unabhängige Facebook-Aussage
+
+Antwort **29 Minuten** nach der Kauschaden-Vorlage von 10:41.
+
+> *„**This is very clearly not the message of your advertisements on Facebook.**
+> Nice marketing deception. **I will share.**"*
+
+Am **16.09.** hatte er geschrieben: *„Your marketing states a **30-day moneyback
+guarantee that this won't happen**."*
+
+**Dritte unabhängige Aussage zur Facebook-Werbung binnen 24 Stunden:**
+
+| Wann | Wer | Aussage |
+|---|---|---|
+| 17.09. 11:29 | **#7255** (US) | *„if dog damage it before 1 month free replacement"* |
+| 18.09. 03:03 | **#6311** (AU) | *„As per your add will you replace as guaranteed?"* |
+| 18.09. 11:10 | **#6205** (US) | *„not the message of your advertisements on Facebook"* |
+
+**Drei Kunden, zwei Kontinente, dieselbe Aussage: die Anzeige verspricht etwas
+anderes als die Vorlage.** Von hier weiterhin **nicht überprüfbar.**
+
+**⚠️ Währungsdifferenz:** **41,34 USD** auf der Bestätigung gegen **30,56 GBP**
+im Datensatz. **Nicht überbrückt. Fünfzehnter Währungsfall.**
+
+**Label:** `Bot/Escalated - Owner Attention` (bestrittene Werbeaussage +
+angekündigte Veröffentlichung).
+
+---
+
+### 🔁 #8295 — Ivan Griffen (`griffenivan@gmail.com`), 18.09. 11:09 UTC — dritter Kontakt, eigene Frist
+
+> *„**PLEASE REPLY** […] **So if it's not here by next Wednesday I will need you
+> to refund my money please.**"*
+
+**Dritter Kontakt, zweiter neuer Thread.** Auf seine Mail vom 17.09. 11:50 und
+die Weiterleitung von 17:29 kam nichts zurück.
+
+**Er setzt selbst eine Frist: Mittwoch, 23.09.** Die steht **wörtlich** im
+Entwurf und geht so an den Owner — **ohne Zusage für dieses Datum.**
+
+Bestellung **#8295**, 31.08., **27,95 £**, versandt **08.09.**, `UL493236461YP`.
+Die **Zusteller-Diskrepanz** bleibt offen benannt; **kein Zusteller genannt,
+keine Verweisung an den Zusteller, keine Bewertung seiner Aussage über den
+Zusteller.**
+
+**Label:** `Bot/Escalated - Owner Attention` (wiederholter unerledigter Kontakt
++ gesetzte Frist). **Dritte Fassung.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Elf Kundenvorgänge am 18.09.**
+- **Achtundvierzig Entwürfe** in `docs/entwuerfe-zum-kopieren.md`, **keiner in
+  Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⛔ Neun unbenutzte Stücke/Sendungen ohne Rücksendeweg** — neu **#4812**, wo
+  **fünfmal** danach gefragt wurde.
+- **⚠️ Erstmals belegt, dass eine Absage sich auf eine Richtlinienseite beruft,
+  die das Gegenteil enthält** (#4812, 19.08.).
+- **⚠️ Der 60/50-Widerspruch steht in sechs Mails an vier Kunden.**
+- **⚠️ Die Facebook-Werbeaussage steht jetzt dreifach und unabhängig** (#7255,
+  #6311, **#6205**).
+- **Fünfzehn Währungsfälle** (neu: #6205).
+- **Zwei neue Fristen:** #8295 setzt **23.09.**; #7479 und #6259 laufen am
+  **21.09.**
