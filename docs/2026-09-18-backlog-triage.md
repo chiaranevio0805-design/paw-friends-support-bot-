@@ -204,3 +204,75 @@ Fehlmenge, wiederholter unerledigter Kontakt. **Zweite Entwurfsfassung.**
   Variantenzusage, keine Falschlieferung.**
 - **Vier Kunden haben binnen 36 Stunden nachgehakt**, weil nichts zurückkam:
   #8295, #7555, #7041, **#7989.** **Zwei davon über einen neuen Thread.**
+
+---
+
+## Lauf 03:20 UTC — ein Vorgang, ein Befund mit Gewicht
+
+Suche `in:inbox after:2026/09/17`, Abgleich gegen den 01:20-Lauf. Eine
+Nachricht ist neu.
+
+---
+
+### ⚠️⚠️ #6311 — Garth Callaghan (`garthcallaghan93@gmail.com`), 18.09. 03:03 UTC
+
+> *„**Further to your advertisement on Facebook/Insta** i made a purchase of these
+> indestructible dog toys. Well my little Chihuahua has managed to kill one and
+> is not far off the second. **As per your add will you replace as guaranteed?**"*
+
+Bestellung **#6311**, 16.08., **30,54 £**, 2 × Plushies (Affe + Hippo),
+**Maddington, Western Australia**, `FULFILLED`, `totalRefundedSet` **0.00 £**.
+Erstkontakt.
+
+#### ⚠️ Befund: die behauptete Facebook-Ersatzzusage steht jetzt zum zweiten Mal
+
+**Binnen sechzehn Stunden beschreiben zwei Kundinnen und Kunden, die einander
+nicht kennen, dieselbe Zusage:**
+
+| Wann | Wer | Wortlaut |
+|---|---|---|
+| **17.09. 11:29** | **#7255** (US, Kingman) | *„You have false advertising on Facebook it says **if dog damage it before 1 month free replacement**"* |
+| **18.09. 03:03** | **#6311** (AU, Maddington) | *„**As per your add will you replace as guaranteed?**"* |
+
+**Eine einzelne Behauptung kann ein Missverständnis sein. Zwei unabhängige aus
+zwei Ländern sind ein Hinweis.** Von hier **weiterhin nicht überprüfbar** — die
+Anzeige ist aus diesem Postfach nicht einsehbar, und **im Katalogtext der neun
+Produkte steht keine Ersatzzusage.** **Sechste Werbequelle außerhalb der
+Produktseiten.**
+
+**Das gehört geprüft, weil es der Absage-Vorlage direkt widerspricht:** Die
+Vorlage sagt, Kauschaden sei nicht gedeckt. Die behauptete Anzeige sagt, bei
+Kauschaden innerhalb eines Monats gebe es Ersatz. **Beides kann nicht stimmen.**
+
+#### Weitere Punkte
+
+- **Sechster australischer Fall** nach #7663 (WA), #7989 (QLD), #7885 (VIC),
+  #7275 (QLD), #7896 (NSW). Die AU-Passage wird im Entwurf **zitiert, nicht
+  ausgelegt.**
+- **Der Zustand des zweiten Stücks ist offen** — *„not far off the second"*.
+  **Nicht angenommen, sondern gefragt.**
+- Vier Bilder — **nicht geöffnet, nicht ausgewertet.**
+
+**Im Entwurf ausdrücklich nicht getan:** die Ersatzzusage bestätigt **oder**
+bestritten. Ebenso wenig wird seine Frage nach der **Werbung** mit einem Absatz
+über **Rückgabe** beantwortet — das sind zwei verschiedene Dinge.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+**Eskalationsgrund:** bestrittene Werbeaussage mit behaupteter Ersatzzusage
+(zweite unabhängige Nennung) + AU-Richtlinienwiderspruch.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Fünf Vorgänge am 18.09.**
+- **Zweiundvierzig Entwürfe** in `docs/entwuerfe-zum-kopieren.md`, **keiner in
+  Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⚠️ Die behauptete Facebook-Ersatzzusage steht jetzt zweifach** (#7255 US,
+  **#6311 AU**) — **unabhängig voneinander, und im direkten Widerspruch zur
+  Absage-Vorlage.**
+- **Sechs australische Kunden** sind auf der Bedingung abgelehnt worden oder
+  wären es geworden, der die einzige veröffentlichte Richtlinie für ihr Land
+  widerspricht: #7663, #7989, #7885, #7275, #7896, **#6311.**
+- **Vierundzwanzig Kundinnen und Kunden haben „indestructible" verwendet.**

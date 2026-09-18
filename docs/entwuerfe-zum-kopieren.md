@@ -9858,6 +9858,84 @@ Zusteller**, keine Deutung des Trackings gegen sie. **Keine Aussage zur
 australischen Rechtslage** — sie hat nicht danach gefragt. **Kein Foto
 ausgewertet.** Kein Eskalationsmarker im Text.
 
+## #6311 — Garth Callaghan (garthcallaghan93@gmail.com) — ⚠️⚠️ zweite unabhängige Facebook-Ersatzzusage, sechster AU-Fall
+
+**Betreff:** Re: Dog Toys
+
+**Neu am 18.09. 03:03 UTC. Erstkontakt.**
+
+> *„**Further to your advertisement on Facebook/Insta** i made a purchase of these
+> indestructible dog toys. Well my little Chihuahua has managed to kill one and
+> is not far off the second. **As per your add will you replace as guaranteed?**"*
+
+Bestellung **#6311**, 16.08., **30,54 £**, 2 × Plushies (Affe + Hippo),
+**Maddington, Western Australia**, `FULFILLED`, `totalRefundedSet` **0.00 £**.
+
+**Zwei Befunde:**
+
+1. **⚠️ Zweite unabhängige Behauptung einer Ersatzzusage in der
+   Facebook-Werbung — binnen 16 Stunden.** Am 17.09. 11:29 schrieb **#7255**:
+   *„if dog damage it before 1 month free replacement"*. Jetzt fragt er nach
+   **genau dieser Ersatzzusage** („as guaranteed"). **Zwei Kunden, die einander
+   nicht kennen, beschreiben dieselbe Zusage.** Von hier **nicht überprüfbar** —
+   die Anzeige ist aus diesem Postfach nicht einsehbar, und im Katalogtext der
+   neun Produkte steht keine Ersatzzusage. **Sechste Werbequelle außerhalb der
+   Produktseiten.**
+2. **Sechster australischer Fall** nach #7663 (WA), #7989 (QLD), #7885 (VIC),
+   #7275 (QLD), #7896 (NSW).
+
+**Das zweite Stück ist noch nicht zerstört** — *„not far off the second"*. **Ob
+es noch verwendbar ist, sagt er nicht; es wird nicht angenommen.**
+
+Vier Bilder beigefügt — **nicht geöffnet, nicht ausgewertet.**
+
+> Dear Garth,
+>
+> Thank you for writing, and for quoting what you actually bought on.
+>
+> **On the replacement you are asking about:** you say our Facebook and Instagram
+> advertising guarantees one. **I am not going to tell you that you misread it —
+> and I cannot confirm it either.** I cannot see our social advertising from
+> where I sit, so anything I said about its wording would be invention. What I
+> have done is send your question to the shop owner **in your own words**, because
+> he can see the advertising and I cannot.
+>
+> **I cannot authorise a replacement or a refund** — those are his to decide — so
+> there is no promise from me here. **But you are not getting a standard refusal
+> either**, because a refusal would mean answering a question about advertising
+> with a paragraph about returns, and those are not the same thing.
+>
+> **One thing that may matter to the outcome.** Your order was delivered in
+> Australia, and the returns section we publish for Australian customers states
+> that Australian consumer rights **are not limited by the requirement that an
+> item be unused or in its original packaging.** That is our own published text.
+> I am not giving you a legal opinion on it — that is not mine to give — but it
+> would not be honest to answer you as though that section did not exist.
+>
+> **You mention the second toy is not far off.** If it is still usable, or if it
+> is not, tell me either way and I will put it on the file as you describe it —
+> I am not going to guess at its condition in either direction.
+>
+> Your photographs arrived and are noted. **Please don't post anything back yet**
+> — we do not publish a returns address at present, so a parcel would have
+> nowhere to arrive.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **seiner Frage im Original**, die
+Bestätigung des Bildeingangs und eine Nachfass-Zusage. **Kein Ersatz zugesagt,
+keine Erstattung zugesagt, kein Betrag, kein Termin, keine Absage.** **Die
+Facebook-Ersatzzusage wird weder bestätigt noch bestritten** — offen gesagt,
+dass sie von hier nicht einsehbar ist. Die AU-Passage wird **zitiert, nicht
+ausgelegt**; **keine rechtliche Bewertung.** **Keine Annahme über den Zustand
+des zweiten Stücks** — gefragt, nicht unterstellt. **Keine Auswertung der
+Fotos**, keine Aussage zur Haltbarkeit, **keine Aussage über seinen Hund.**
+Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
