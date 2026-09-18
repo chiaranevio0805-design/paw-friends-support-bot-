@@ -140,3 +140,67 @@ bestritten.**
   neu: **#7896** und **#8316**, beide schreiben es der **Produktbeschreibung**
   zu. **In keiner der neun Produktbeschreibungen steht das Wort.**
 - **Acht unbenutzte Stücke ohne Rücksendeweg** (neu: **#7048**).
+
+---
+
+## Lauf 01:20 UTC — ein Vorgang
+
+Suche `in:inbox after:2026/09/17`, Abgleich gegen den 00:20-Lauf. Eine
+Nachricht ist neu.
+
+---
+
+### ⛔⛔ #7989 — Karen Reynolds (`House54@outlook.com.au`), 18.09. 00:39 UTC — neuer Thread nach 24 Stunden Schweigen
+
+> *„Hello, only half my order came. I got the Hippo but the Frog did not come.
+> **Please advise now what.**"*
+
+**Sie hat denselben Sachverhalt am 17.09. 00:42 gemeldet.** Vierundzwanzig
+Stunden, keine Antwort — also **öffnet sie einen neuen Thread.**
+
+**Das ist der vierte Kunde binnen 36 Stunden, der nachhakt, weil nichts kam**
+(#8295, #7555, #7041, **#7989**) — und der **zweite**, der dafür einen neuen
+Thread öffnet. **Genau dieses Verhalten macht Wiederholungskontakte in einer
+Thread-Ansicht unsichtbar.**
+
+**Der belegte Widerspruch, im Shopify-Datensatz nachgeprüft und unverändert:**
+
+| Quelle | Inhalt |
+|---|---|
+| Ihre Mail **28.08. 00:47** | *„Can I please confirm my order is for **1x Hippo and 1x Frog**."* |
+| Unsere Antwort **29.08. 18:04** | **„I can confirm that your order request is for: 1 × Hippo · 1 × Frog."** |
+| `lineItems` | **`quantity: 2, variantTitle: "hippo"`** — **kein Frosch** |
+| `fulfillmentLineItems` | **`quantity: 2 × hippo`**, versandt 08.09., `UL493229196YP` |
+| Sie hat erhalten | **ein** Stück |
+| `totalRefundedSet` | **0.00 £** bei 28,50 £ |
+
+**Zwei Fehler übereinander:** die **schriftlich zugesagte Variante wurde nie in
+die Bestellung übernommen** — der Frosch war nie eingeplant und konnte nicht
+ankommen —, und von zwei versandten Stücken ist **eines nicht angekommen.**
+
+**Zur Regel 4 — unverändert nein.** Regel 4 deckt eine bestätigte
+**Falschlieferung**. Hier liegen eine **nicht umgesetzte Variantenzusage** und
+eine **Fehlmenge** vor. **Keine Erstattung von hier ausgeführt.** Die
+Entscheidung — Erstattung, Ersatz oder Nachlieferung — liegt beim Owner.
+
+**Im Entwurf ausdrücklich nicht getan:** sie gebeten, nachzuzählen oder bei
+Nachbarn zu fragen. **Ihre Schilderung wird nicht angezweifelt.** Keine
+Verweisung an den Zusteller, keine Deutung des Trackings gegen sie, **keine
+Aussage zur australischen Rechtslage** — danach hat sie nicht gefragt.
+
+**Label:** `Bot/Escalated - Owner Attention`, **hohe Priorität.**
+**Eskalationsgrund:** belegter Shop-Fehler aus dem eigenen Postausgang,
+Fehlmenge, wiederholter unerledigter Kontakt. **Zweite Entwurfsfassung.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Vier Vorgänge am 18.09.**
+- **Einundvierzig Entwürfe** in `docs/entwuerfe-zum-kopieren.md`, **keiner in
+  Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4 — **#7989 kommt
+  dem am nächsten, ist aber eine Fehlmenge plus nicht umgesetzte
+  Variantenzusage, keine Falschlieferung.**
+- **Vier Kunden haben binnen 36 Stunden nachgehakt**, weil nichts zurückkam:
+  #8295, #7555, #7041, **#7989.** **Zwei davon über einen neuen Thread.**

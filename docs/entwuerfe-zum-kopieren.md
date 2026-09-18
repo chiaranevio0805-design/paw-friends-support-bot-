@@ -9782,6 +9782,82 @@ bestätigt noch bestritten.** **Keine Auswertung der Fotos**, keine Aussage zur
 Haltbarkeit, **keine Aussage über seinen Hund.** **Keine Frist genannt.** Keine
 Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
+## #7989 — Karen Reynolds (House54@outlook.com.au) — zweite Fassung, neuer Thread nach 24 Stunden Schweigen
+
+**Betreff:** Re: Missing Item.
+
+**Neu am 18.09. 00:39 UTC.** Sie hat denselben Sachverhalt am **17.09. 00:42**
+gemeldet und **keine Antwort** bekommen. Jetzt **ein neuer Thread**, 24 Stunden
+später:
+
+> *„Hello, only half my order came. I got the Hippo but the Frog did not come.
+> **Please advise now what.** Regards, Karen Reynolds."*
+
+Bestellung **#7989**, 28.08., **28,50 £**, Upper Coomera (**AU**), versandt
+08.09., Sendung `UL493229196YP`, `totalRefundedSet` **0.00 £`.
+
+**Der belegte Widerspruch, unverändert:**
+
+| Quelle | Inhalt |
+|---|---|
+| **Ihre Mail, 28.08. 00:47** | *„Can I please confirm my order is for 1x Hippo and 1x Frog."* |
+| **Unsere Antwort, 29.08. 18:04** | **„I can confirm that your order request is for: 1 × Hippo · 1 × Frog. We'll make sure your requested selection is noted for your order."** |
+| **Der Bestelldatensatz** | `quantity: 2, variantTitle: "hippo"` — **kein Frosch** |
+| **Die Versendung** | `quantity: 2 × hippo` |
+| **Sie hat erhalten** | **ein** Stück |
+
+**Das ist der einzige Vorgang, in dem ein Shop-Fehler aus unserem eigenen
+Postausgang belegt ist.** Zwei Fehler übereinander: die schriftlich zugesagte
+Variante wurde **nie umgesetzt**, und von zwei versandten Stücken ist **eines
+nicht angekommen.**
+
+**Zur Regel-4-Frage — unverändert nein:** Regel 4 deckt eine bestätigte
+**Falschlieferung**. Hier steht eine **Fehlmenge** (2 versandt, 1 erhalten) und
+eine **nicht umgesetzte Variantenzusage**. **Von hier wird keine Erstattung
+ausgeführt.**
+
+> Dear Karen,
+>
+> You told us this exactly a day ago and nobody came back to you. That is why you
+> are writing again, and I am sorry — the silence is ours.
+>
+> **You asked what now, so here is what I can actually tell you rather than a
+> holding line.**
+>
+> **On the frog:** you are right, and I can show it from our own records. **On 29
+> August we confirmed to you in writing that your order was for one hippo and one
+> frog.** That confirmation was never carried into the order itself — **the order
+> was processed as two hippos**, and two hippos were despatched on 8 September.
+> **So the frog was never going to arrive.** That is our error, not a delivery
+> mishap, and I am not going to present it as one.
+>
+> **On the second item:** two were sent and you received one. That part is a
+> separate problem from the frog, and it is also on the file.
+>
+> **What I cannot do is decide it.** I cannot authorise a refund, a replacement or
+> a reshipment — those are the shop owner's to make — so **I am not going to
+> promise you any of them.** What has gone to him is stated plainly: **a variant
+> confirmed in writing and never applied, and a short shipment on top of it.**
+>
+> **I am not going to ask you to check with neighbours or to count again.** You
+> have told us what arrived and I have no reason to doubt you.
+>
+> If you have heard nothing in a few days, reply here and I will chase it. **You
+> should not have had to open a second email to be noticed.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Bestätigung des Shop-Fehlers aus dem eigenen
+Postausgang**, die offene Feststellung, dass der Frosch nie eingeplant war, die
+Weitergabe an den Owner und eine Nachfass-Zusage. **Keine Erstattung zugesagt,
+kein Ersatz, keine Nachlieferung, kein Betrag, kein Termin.** **Keine
+Aufforderung, nachzuzählen oder Nachbarn zu fragen.** **Keine Verweisung an den
+Zusteller**, keine Deutung des Trackings gegen sie. **Keine Aussage zur
+australischen Rechtslage** — sie hat nicht danach gefragt. **Kein Foto
+ausgewertet.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
