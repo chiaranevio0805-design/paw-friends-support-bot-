@@ -95,3 +95,87 @@ mit konkretem Seitenbezug).
   ausdrücklich auf die **Shop-Seite**.
 - **Sieben Bestellungen mit belegter Liegezeit von acht bis zwölf Tagen:**
   #7970, #7459, #8002, #8295, #8312, #6936, **#7778**.
+
+---
+
+## Lauf 01:20 UTC — zwei Vorgänge
+
+Suche `in:inbox after:2026/09/18`, Abgleich gegen den 00:20-Lauf. Zwei
+Nachrichten sind neu.
+
+---
+
+### 💷 #6528 — Tommy Johnson (`thomashjohnson23@gmail.com`), 19.09. 00:26 UTC — er nimmt 50 % an
+
+> *„**I will accept your offer of 50%.** Please help me begin the refund
+> process."*
+
+Bestellung **#6528**, 17.08., **45,86 £**, Monroe (US), 4 × Plushies
+**+ 📘 Ratgeber (`unfulfilledQuantity: 1`)**, `totalRefundedSet` **0.00 £**.
+**50 % wären 22,93 £.**
+
+**Dritter `Bot/Needs Approval`-Fall** nach #4055 (11,97 £) und #6936 (8,39 £).
+**Nichts mehr zu entscheiden, nur auszuführen.**
+
+**Der Verlauf ist identisch mit #4812 — fünf Rückgabebitten, fünf
+Prozentsätze:**
+
+| Datum | Er | Antwort |
+|---|---|---|
+| **09.09.** | *„Could we please **return the other two** that we have not given to her yet?"* | Kauschaden-Vorlage |
+| **10.09.** | *„Could you please **set up a return** for the other 3 stuffies?"* | — |
+| **12.09.** | *„Just wanted to check in on this again."* | Kauschaden-Vorlage (13.09.) |
+| **14.09.** | *„I have **3 more unused toys in the original packaging** […] **Please direct me in how to start the return process**."* | **30 %** (15.09.) |
+| **16.09.** | *„I would **prefer to return the 3 unused items**. If not, **75 %**."* | **50 %** (18.09.) |
+| **19.09.** | **„I will accept your offer of 50%."** | — |
+
+**Er hat fünfmal um den Rückgabeweg gebeten und fünfmal keine Adresse
+bekommen.** **Drei Stücke sind unbenutzt und originalverpackt.**
+**Zweiter Fall mit fünf unbeantworteten Rückgabebitten** nach **#4812** — bei
+beiden kam stattdessen jedes Mal ein Prozentsatz.
+
+**Adressabgleich:** Bestellung unter `thepelicanstyle@gmail.com`, er schreibt
+von `thomashjohnson23@gmail.com`, CC `kth3john@hotmail.com`. **Keine
+Bestelldaten im Entwurf** — am 16.09. bereits so vermerkt.
+
+**Im Entwurf ausdrücklich nicht getan:** ihm gesagt, die Erstattung sei
+veranlasst. **Nach #5148, #6583 und #4998 wird das nicht wiederholt.**
+
+**Label:** `Bot/Needs Approval` — **22,93 £ freizugeben.**
+
+---
+
+### 📨 #7504 — Kelly Bateman (`kellyraeb@frontier.com`), 19.09. 00:18 UTC — Erstkontakt, offene Frage
+
+> *„My two dogs absolutely destroyed the two dog toys i ordered. **What can I do
+> about that?**"*
+
+Bestellung **#7504**, 24.08., **43,89 £**, Gresham (US) — 1 × Zahnbuddy,
+2 × Plushies, **versandt erst am 04.09. — elf Tage Liegezeit**,
+`totalRefundedSet` **0.00 £**.
+
+**Sie fordert nichts, sie fragt.** **Siebter Erstkontakt dieser Art.**
+Der Entwurf verweigert nichts und sagt nichts zu.
+
+**Der dritte Artikel (Zahnbuddy) wird von ihr nicht erwähnt** — sie schreibt von
+*„the two dog toys"*. **Zehnter Fall, in dem der Zustand eines weiteren Stücks
+über den Ausgang entscheidet. Gefragt, nicht angenommen.**
+
+**Der elftägige Spätversand wird ihr offen bestätigt**, obwohl sie nicht danach
+gefragt hat. **Achte Bestellung mit belegter Liegezeit.**
+
+**Label:** `Bot/Draft Ready`, **mit Entscheidungsvorlage beim Owner.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Drei Kundenvorgänge am 19.09.**
+- **Siebenundsechzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **💷 Drei Beträge sind schriftlich angenommen und nur noch auszuführen:**
+  **#4055 (11,97 £)**, **#6936 (8,39 £)**, **#6528 (22,93 £)** — zusammen
+  **43,29 £**.
+- **⛔ Zwei Kunden haben je fünfmal um den Rückgabeweg gebeten und je fünfmal
+  einen Prozentsatz bekommen:** #4812 und **#6528**.
+- **Acht Bestellungen mit belegter Liegezeit von acht bis zwölf Tagen.**

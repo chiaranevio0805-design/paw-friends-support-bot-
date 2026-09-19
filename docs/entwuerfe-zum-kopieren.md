@@ -11530,6 +11530,148 @@ rechtliche Einordnung.** **Keine Auswertung der Fotos.** Frist nur mit
 **30 Tagen** benannt, und nur als seine Angabe. Keine Rücksendeadresse, samt
 Warnung. Kein Eskalationsmarker im Text.
 
+## #6528 — Tommy Johnson (thomashjohnson23@gmail.com) — 💷 er nimmt 50 % an, nachdem er fünfmal um die Rückgabe gebeten hat
+
+**Betreff:** Re: Order #6528 Return Request
+
+**Neu am 19.09. 00:26 UTC.**
+
+> *„**I will accept your offer of 50%.** Please help me begin the refund
+> process."*
+
+Bestellung **#6528**, 17.08., **45,86 £**, Monroe (US), 4 × Plushies
+**+ 📘 Ratgeber (`unfulfilledQuantity: 1`)**, `PARTIALLY_FULFILLED`,
+`totalRefundedSet` **0.00 £**. **50 % wären 22,93 £.**
+
+**Dritter `Needs Approval`-Fall** nach #4055 und #6936. **Nichts mehr zu
+entscheiden, nur auszuführen.**
+
+**Der Verlauf ist derselbe wie bei #4812 — fünf Rückgabebitten, fünf
+Prozentsätze:**
+
+| Datum | Er | Antwort |
+|---|---|---|
+| **09.09.** | *„Could we please **return the other two that we have not given to her yet**?"* | Kauschaden-Vorlage |
+| **10.09.** | *„Could you please **set up a return** for the other 3 stuffies?"* | — |
+| **12.09.** | *„Just wanted to check in on this again."* | Kauschaden-Vorlage (13.09.) |
+| **14.09.** | *„I have **3 more unused toys in the original packaging**… **Please direct me in how to start the return process**."* | **30 %** (15.09.) |
+| **16.09.** | *„I would **prefer to return the 3 unused items**. If not, **75 %**."* | **50 %** (18.09.) |
+| **19.09.** | **„I will accept your offer of 50%."** | — |
+
+**Er hat fünfmal um den Rückgabeweg gebeten und fünfmal keine Adresse
+bekommen.** **Drei Stücke sind unbenutzt und originalverpackt.**
+
+**Adressabgleich:** Die Bestellung läuft unter `thepelicanstyle@gmail.com`, er
+schreibt von `thomashjohnson23@gmail.com` und setzt `kth3john@hotmail.com` auf
+Kopie. **Im Entwurf stehen deshalb keine Bestelldaten** — kein Betrag, keine
+Anschrift. Am 16.09. war das im Log bereits vermerkt.
+
+> Dear Tommy,
+>
+> Thank you — and I would rather be honest about what your acceptance does and
+> does not settle.
+>
+> **I have recorded it exactly as you wrote it: you accept 50%.** That has gone
+> to the shop owner today as an offer the shop made and a customer accepted.
+>
+> **I cannot release the money myself**, so **I am not going to tell you it has
+> been processed.** I have seen that said before it was true, and I will not add
+> to it. What I can tell you is that nothing is waiting on you any more.
+>
+> **On the part that was never answered:** you asked five times — on 9, 10, 12,
+> 14 and 16 September — how to return the three unused toys in their original
+> packaging. **You were never given a way to do it. The reason is that we do not
+> publish a returns address, so there was no process to point you to.** Each time
+> you asked, you were offered a percentage instead. **That was not an answer to
+> your question, and I am not going to pretend it was.**
+>
+> **So please don't post anything**, even now — there is still nowhere for a
+> parcel to arrive.
+>
+> **One administrative note:** the address you are writing from is not the one
+> the order was placed under, so I am keeping order details out of this reply.
+> That is not a brush-off, just not mine to send to an address that is not on
+> the order.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **korrekte Protokollierung seiner Annahme (50 %)**, die
+Weitergabe zur Ausführung, die **offene Feststellung, dass seine fünf
+Rückgabebitten nie beantwortet wurden und warum**, und eine Nachfass-Zusage.
+**Keine Aussage, dass die Erstattung veranlasst oder „processed" sei** —
+ausdrücklich das Gegenteil. **Kein Betrag, kein Termin.** **Keine neue
+Aushandlung**, das Angebot **weder zurückgenommen noch erhöht.** **Keine
+Rücksendeadresse erfunden**, samt Warnung. **Keine Bestelldaten an eine nicht
+hinterlegte Adresse.** Kein Eskalationsmarker im Text.
+
+---
+
+## #7504 — Kelly Bateman (kellyraeb@frontier.com) — Erstkontakt, offene Frage
+
+**Betreff:** Re: Desroyed
+
+**Neu am 19.09. 00:18 UTC. Erstkontakt.**
+
+> *„My two dogs absolutely destroyed the two dog toys i ordered. **What can I do
+> about that?**"*
+
+Bestellung **#7504**, 24.08., **43,89 £**, Gresham (US) — 1 × Zahnbuddy,
+2 × Plushies (Esel + Elefant), **versandt erst am 04.09. — elf Tage
+Liegezeit**, `totalRefundedSet` **0.00 £**.
+
+**Sie fordert nichts** — sie fragt, was sie tun kann. **Der siebte Erstkontakt
+dieser Art.** Genau der Fall, in dem die Vorlage aus einer Frage eine Absage
+macht.
+
+**Der Zahnbuddy wird von ihr nicht erwähnt** — sie schreibt von *„the two dog
+toys"*. **Was mit dem dritten Artikel ist, wird nicht angenommen, sondern
+gefragt.** **Zehnter solcher Fall.**
+
+> Dear Kelly,
+>
+> Thank you for asking it plainly — that deserves a plain answer rather than a
+> policy paragraph.
+>
+> **What you can do is exactly what you have just done, and the rest is on us.**
+> I cannot authorise a refund or a replacement — that decision is the shop
+> owner's, not mine — **so I am not going to promise you either. But I am not
+> refusing you**, because nobody has actually decided anything about your case
+> yet.
+>
+> Your message has gone to him today as you wrote it: **two toys, both destroyed
+> by your dogs, and a question about what happens now.**
+>
+> **One thing I would rather ask than assume.** Your order also included a third
+> item, a dental toy. **You have written about two toys, so I don't know what
+> state that one is in** — whether your dogs have had it at all. If it is still
+> as it arrived, tell me and I will put that on the file; it is a different
+> question and I don't want it settled on a guess.
+>
+> **One thing I can confirm without being asked:** you ordered on 24 August and
+> the parcel **was not despatched until 4 September.** Eleven of those days were
+> ours.
+>
+> **Please don't post anything back** — we do not publish a returns address at
+> present, so a parcel would have nowhere to arrive.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Weitergabe **ihrer Frage im Original**, die
+**offene Bestätigung des elftägigen Spätversands**, eine Nachfass-Zusage.
+**Keine Erstattung zugesagt, kein Ersatz, kein Betrag, kein Termin, keine
+Absage.** **Keine Annahme über den dritten Artikel** — gefragt, nicht
+unterstellt. **Keine Aussage zur Werbung, keine zur Haltbarkeit**, keine
+Aussage über ihre Hunde. **Keine Frist genannt.** Keine Rücksendeadresse, samt
+Warnung. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
