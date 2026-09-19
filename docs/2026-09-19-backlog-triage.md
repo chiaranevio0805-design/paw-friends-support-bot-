@@ -1106,3 +1106,171 @@ zusätzlich `in:sent after:<heute>` geprüft** — die beiden Übersehen von heu
   Wort „indestructible".
 - **💷 Vier Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
   #6528, #6159.
+
+---
+
+## Lauf 15:20 UTC
+
+**Drei neue Kundennachrichten — und der wichtigste Einzelfund seit Beginn dieser
+Protokolle.**
+
+### 🟦 Die Werbeaussage ist gefunden. Sie steht nicht auf den Produktseiten, sondern in unseren eigenen Marketing-Mails.
+
+In der Nachricht von **Steve Kerr (#7555)** ist die Klaviyo-Mail des Shops vom
+**27.08.2026** mitzitiert, gesendet von **`paw-friends.uk@paw-friends.uk`**.
+Wortlaut, wie er in seiner Mail steht:
+
+> **PAW-FRIENDS**
+> **„Nothing to lose. Bad news for him."**
+> **„Backed by our 30-day money-back guarantee. Still unbeaten."**
+> *„Last note about your cart. If you've stopped buying toys because **nothing
+> survives the week**, this is the one worth one more try — and **you're covered
+> either way**."*
+> **„30-day money-back guarantee — Zero risk on your side. Nobody has needed it
+> yet — think your dog changes that?"**
+> Fußzeile: *„Paw-Friends.uk • Kirchstr. 2, 56753 Mertloch, Germany"*
+
+**Damit ist die Frage beantwortet, die seit elf Tagen offen war.** Bisher stand
+im Log: zwölf Kundenaussagen über eine Garantie ohne Bedingung und über
+Haltbarkeitsversprechen, **aber nichts davon in den zwölf Produkttexten.** Der
+Grund ist jetzt belegt:
+
+- **„30-day money-back guarantee"** steht dort **ohne jede Bedingung** — kein
+  „unused", kein „original condition".
+- **„Zero risk on your side"** und **„you're covered either way"** sind
+  **stärker als alles auf den Produktseiten.**
+- **„Nobody has needed it yet"** und **„Still unbeaten"** sind
+  Haltbarkeitsbehauptungen.
+
+**Die Vorlagen-Absage stellt diesen Mails eine Bedingung entgegen, die in ihnen
+nicht vorkommt.** Deshalb schreiben die Kunden zurück, sie seien belogen worden
+— sie zitieren nicht die Produktseite, sie zitieren die Mail.
+
+**Nur der Owner kann das prüfen und abstellen.** Hier wird ausdrücklich **keine
+rechtliche Bewertung** abgegeben und **keine Aussage darüber, was zulässig ist**
+— nur der Befund: **Mailtext und Absagetext widersprechen einander, und der
+Mailtext ist der ältere.**
+
+**Zweiter Befund aus derselben Fußzeile:** die Marketing-Mails tragen eine
+**vollständige Postanschrift**. Damit ist die Anschrift, die #7479 seit fünf
+Tagen verlangt, **nicht nur in den Terms of Service, sondern auch in jeder
+Werbemail veröffentlicht.**
+
+---
+
+### ⛔ Korrektur: es waren **sieben** Vorlagen-Absagen heute, nicht fünf
+
+Der zusätzliche `in:sent`-Durchlauf hat zwei weitere gefunden:
+
+| Uhrzeit (UTC) | Empfänger | Land | Antwort | Abstand |
+|---|---|---|---|---|
+| 09:55:37 | #8372 Forbey | US | *„I did not give them to my dog"* | 59 min |
+| **09:55:51** | **#7625 Browning** | US | **„deceptive advertising", zwei unbenutzte Artikel** | **4 h 57** |
+| 10:09:26 | #7119 McGee | AU | Chargeback + öffentliche Beiträge | 7 min |
+| 10:44:48 | #7547 Prior | GB | Short-Term Right to Reject | 1 h 17 |
+| 10:54:21 | #7347 Hibbs | GB | erneute Rückgabebitte, unbenutzter Artikel | 3 h 05 |
+| 10:54:39 | #7275 Corcoran | AU | ACCC | 4 min |
+| **10:57:07** | **#7555 Kerr** | GB | **Trading Standards + Kreditkarte + Social Media** | **3 h 43** |
+
+**Mit den Sendungen vom 15. und 17.09. sind das zehn Sendungen derselben Vorlage
+in fünf Tagen. Zehn von zehn sind negativ zurückgekommen.**
+
+**Sechs der zehn gingen an Kunden, die einen unbenutzten Artikel zurückgeben
+wollten** (#7479, #7119, #8372, #7347, #7625, #7555). **Bei ihnen lehnt die
+Vorlage einen Schaden ab, den es nicht gibt.**
+
+**Die Absage an #7625 war mit „Dear Erinrin" adressiert** — ein Serienbrieffehler
+im Namen.
+
+---
+
+### #7625 — Erin Browning (`ebrowningrn2@yahoo.com`), 14:53/14:54 UTC — dritte Fassung
+
+> *„Well that is **deceptive advertising**. And just to let you know **I have two
+> toys that are unused**. After he quickly destroyed the first … **I never gave
+> him the other two.** I would like a refund of the remaining…"*
+
+**Shopify (#7625):** bestellt 24.08., Versand **04.09.** (elf Tage), drei
+Positionen (Zahnbuddy + 2 Plushies), **£43,91 / $59,86** (presentment USD,
+**nichts umgerechnet**), **0,00 £ erstattet**, Fountain Inn, **South Carolina
+(US)**. Zwei Fotos — **nicht geöffnet.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### #7555 — Steve Kerr (`stevejkerr23@gmail.com`), 14:39 UTC — zweite Fassung, **vierte Position nie geliefert**
+
+> *„The toys do not meet your advertising claims and therefore I'll share that
+> experience with **trading standards**. Paw Friends also **failed to deliver the
+> fourth part** on my order so I've shared that with my **credit card company**."*
+
+**Seine ursprüngliche Bitte vom 14.09.** (an `paw-friends.uk@paw-friends.uk`,
+selbst weitergeleitet am 18.09.): eine Staffie zerstörte ihr Spielzeug in zwei
+Minuten, **die beiden anderen wurden den Hunden sofort weggenommen** und liegen
+zur Rückgabe bereit. Er berief sich dabei ausdrücklich auf die
+30-Tage-Garantie — **die aus genau der Mail stammt, die oben zitiert ist.**
+
+**Shopify (#7555):** bestellt 24.08., Versand **03.09.** (zehn Tage), zugestellt
+**14.09.**, **£34,95**, **0,00 £ erstattet**, Dunstable (GB). Status
+**`PARTIALLY_FULFILLED`** — **vier Positionen, drei Plushies versandt, die
+vierte (`📘 Why Your Dog Destroys Every Toy`) trägt `unfulfilledQuantity: 1`.**
+**Seine Beanstandung stimmt also mit unserem eigenen Datensatz überein**, und
+das wird ihm bestätigt, nicht wegerklärt.
+
+**⚠️ Korrektur zum 11:20-Lauf:** Dort steht zu **#8372 Kerri Forbey**, der
+offene `PARTIALLY_FULFILLED`-Status betreffe „ausschließlich das digitale
+E-Book" und es fehle „kein Artikel". **Das war eine Annahme, keine Feststellung**
+— ich habe daraus geschlossen, ein digitales Produkt werde ohnehin per Mail
+ausgeliefert. **Steve Kerr sagt für dieselbe Position ausdrücklich, dass er sie
+nie bekommen hat.** Damit ist die Annahme nicht mehr haltbar: **bei #8372 wie
+bei #7555 ist die E-Book-Position unerfüllt, und ob sie je zugestellt wurde,
+kann von hier nicht geprüft werden.** Der Satz im 11:20-Lauf ist insoweit
+falsch.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### #8142 — Wendy Price (`wendyprice579@gmail.com`), 14:30 UTC — Erstkontakt
+
+> *„I ordered 2 of these **indestructible** toys … **waited ages for delivery**.
+> Have now received it and **destroyed within an hour**. Really very poor
+> considering the reviews. **How do I return for a refund please.**"*
+
+**Vorab-Suche nach älteren Threads:** ein einziger Thread. Erstkontakt.
+
+**Shopify (#8142):** bestellt 29.08., Versand **08.09.** (**zehn Tage**), zwei
+Plushies, **£27,95**, **0,00 £ erstattet**, Chelmsford (GB). **Vierzehnte
+Bestellung mit auffälliger Versandverzögerung.**
+
+Ein Foto — **nicht geöffnet**, und sie wird ausdrücklich davon entlastet, welche
+zu schicken. **Ihre Frage „how do I return" wird ehrlich beantwortet: es gibt
+derzeit keine Rücksendeadresse.** Keine Vorlagen-Absage, keine Zusage.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Neunzehn Kundenvorgänge am 19.09.**, dazu eine Betrugsmail.
+- **Dreiundachtzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **🟦 Die Werbeaussage ist belegt** — in der Klaviyo-Mail vom 27.08. aus
+  `paw-friends.uk@paw-friends.uk`: „30-day money-back guarantee — **Zero risk on
+  your side**", „**you're covered either way**", „**Nobody has needed it yet**",
+  „**Still unbeaten**". **Ohne Bedingung.** Das ist der Text, gegen den die
+  Vorlagen-Absage anschreibt.
+- **🔴 #6259: Erstattung heute als ausgeführt gemeldet, in Shopify nicht
+  vorhanden. Trading Standards, Frist Montag.**
+- **⛔ Zehn Sendungen der Kauschaden-Vorlage in fünf Tagen, sieben davon heute.
+  Zehn von zehn negativ zurückgekommen. Sechs an Kunden mit unbenutzter Ware.**
+- **⛔ #7479 hat als einziger akuter Fall heute keine Antwort bekommen** —
+  fünfter Kontakt, Frist Montag. **Die Anschrift, die er verlangt, steht in
+  jeder unserer Werbemails.**
+- **⚠️ Fünfzehn unabhängige Kundenaussagen zur Werbung**, acht davon heute.
+- **⛔ E-Book-Position bei #7555 und #8372 unerfüllt** — ein Kunde sagt
+  ausdrücklich, er habe sie nie bekommen.
+- **💷 Vier Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
+  #6528, #6159.

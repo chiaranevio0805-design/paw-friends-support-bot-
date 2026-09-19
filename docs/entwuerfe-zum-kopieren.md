@@ -12527,6 +12527,168 @@ gesehen hat.** **Keine Auswertung der Fotos.** **Keine Rücksendeadresse
 erfunden**, ausdrückliche Bitte, nichts zu verschicken. **Keine rechtliche
 Bewertung.** Kein Eskalationsmarker im Text.
 
+## #7625 — Erin Browning (ebrowningrn2@yahoo.com) — dritte Fassung, zwei unbenutzte Artikel, „deceptive advertising"
+
+**Betreff:** Re: Return
+
+> Dear Erin,
+>
+> **First, your name.** The reply you had from us this morning was addressed to
+> "Erinrin". I am sorry. That alone tells you how much attention it had.
+>
+> **Second, what it said.** It refused you on the grounds that a toy had been
+> chewed. **Two of your toys were never given to your dog at all** — you had to
+> tell us that yourself, afterwards. **A sealed, unused toy is not a chew-damage
+> case**, and that refusal was not an answer to what you asked.
+>
+> **Third, the advertising.** You asked on Thursday, "I thought they were
+> indestructible?", and you have now called it deceptive advertising. I have read
+> all twelve of our current product descriptions and that word is not in any of
+> them. **That is not me telling you that you did not see it** — I cannot see the
+> advertising that was shown to you and I am not going to guess at it. **Your
+> words go to the shop owner exactly as you wrote them.**
+>
+> **What I can and cannot do.** Whether you are refunded is the shop owner's
+> decision, not mine. **I am not going to promise you a refund and I am certainly
+> not going to refuse you again.** Your request is with him as it stands: **order
+> #7625, three items, $59.86 recorded on the order, nothing refunded, ordered
+> 24 August, dispatched 4 September, one item destroyed in about five minutes,
+> two items never used and a refund requested for those.**
+>
+> **Please do not post anything back yet** — we have no returns address I can
+> give you, and I would rather tell you that than have you pay postage to
+> nowhere.
+>
+> Your photographs are with your message. **I have not opened them**, and nothing
+> here depends on them.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Entschuldigung für die falsche Anrede („Erinrin")**,
+die Anerkennung, dass die Absage von 09:55 **einen Schaden ablehnte, den es bei
+zwei ihrer drei Artikel nie gab**, die ehrliche Auskunft zur Werbefrage, die
+Weitergabe mit allen Zahlen. **Keine Erstattung zugesagt, kein Betrag zugesagt,
+kein Termin, keine zweite Absage.** **Keine Behauptung, das Wort
+„indestructible" existiere nicht.** **Keine Rekonstruktion der Anzeige.**
+**Keine Auswertung der Fotos.** **Keine Rücksendeadresse erfunden.** **Keine
+Umrechnung** — 59,86 $ ist der Betrag in ihrer Währung auf der Bestellung.
+**Keine rechtliche Bewertung** ihres Vorwurfs der irreführenden Werbung. Kein
+Eskalationsmarker im Text.
+
+## #7555 — Steve Kerr (stevejkerr23@gmail.com) — zweite Fassung, vierte Position nie geliefert
+
+**Betreff:** Re: Re. Order placed on 24 August 2026
+
+> Dear Steve,
+>
+> **The reply you had at lunchtime refused you over chew damage. Two of your
+> three toys were never given to a dog at all** — you took them away after the
+> first one was destroyed, and you said so in the message you forwarded to us.
+> **That refusal did not answer what you asked, and I am not going to defend
+> it.**
+>
+> **On the fourth item, you are right, and I can confirm it from our own
+> records.** Order #7555 has four lines: three Plushies and the digital guide
+> *"Why Your Dog Destroys Every Toy (And How to Finally Stop It)"*. The three
+> Plushies are recorded as dispatched. **The fourth line is still recorded as
+> unfulfilled in our own system.** You paid for it and our record does not show
+> it ever reaching you. **I am not going to try to talk you out of that.**
+>
+> **On the guarantee you quoted.** You wrote that we say there is a 30-day
+> money-back guarantee. **You did not get that from nowhere** — it is in the
+> email we sent you on 27 August, in those words. I am not going to argue with
+> you about whether you read it correctly.
+>
+> **What I cannot do is decide your refund.** That is the shop owner's decision,
+> not mine, so **I am not going to promise you one and I am not going to refuse
+> you a second time.** Your case is with him as it stands: **order #7555, three
+> Plushies plus one digital item, £34.95 recorded on the order, nothing refunded,
+> ordered 24 August, dispatched 3 September, delivered 14 September, one toy
+> destroyed in two minutes, two toys untouched and offered for return, and the
+> fourth line still unfulfilled.**
+>
+> **One thing about how your message reached us, because you should know it.**
+> You first wrote on 14 September to `paw-friends.uk@paw-friends.uk`. **That is a
+> different mailbox from this one, and mail sent there does not arrive here.**
+> Your message only reached this desk when you forwarded it yourself on
+> 18 September — four days later. **That is our problem and not yours**, but it
+> is worth knowing which address gets read: this one.
+>
+> **Please do not post anything back yet** — we have no returns address I can
+> give you, and I would rather say so than have you pay postage to nowhere.
+>
+> **And I am not going to ask you to hold back on trading standards, on your
+> credit card company, or on anything you choose to post.** Those are yours to
+> decide and nothing here is conditional on them.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die Anerkennung, dass die Absage von 10:57 **zwei
+unbenutzte Artikel überging**, die **Bestätigung seiner Beanstandung zur vierten
+Position aus unserem eigenen Datensatz** (`unfulfilledQuantity: 1`), die
+**Bestätigung, dass die Garantieformulierung aus unserer eigenen Mail vom 27.08.
+stammt**, die Weitergabe mit allen Zahlen, und die **offene Benennung des
+zweiten Postfachs** als unser Problem. **Keine Erstattung zugesagt, kein Betrag
+zugesagt, kein Termin, keine zweite Absage.** **Keine Zusage zur Nachlieferung
+der vierten Position** — nur die Feststellung des Datenstands. **Keine
+Rücksendeadresse erfunden.** **Kein Versuch, ihn von Trading Standards, der
+Kreditkartenfirma oder öffentlichen Beiträgen abzubringen**, und nichts daran
+geknüpft. **Keine rechtliche Bewertung.** Kein Eskalationsmarker im Text.
+
+## #8142 — Wendy Price (wendyprice579@gmail.com) — Erstkontakt, GB
+
+**Betreff:** Re: Defective
+
+> Dear Wendy,
+>
+> Thank you for writing, and I am sorry it is about this. You waited a long time,
+> and then it lasted an hour. **I am not going to argue with you about that.**
+>
+> **You asked one plain question — how do you return them — so here is a plain
+> answer, and it is not the one I would like to give you: we do not publish a
+> returns address.** There is none I can give you and I am not going to invent
+> one. **Please do not post anything back until you hear otherwise**, because I
+> cannot tell you where it would go. **You do not need to send photographs
+> either**, and nothing depends on them.
+>
+> **On the wait, from our own records.** You ordered on 29 August. The order was
+> not handed over for dispatch until 8 September — **it sat with us for ten days
+> before it moved at all.** That part is ours and I am not going to explain it
+> away.
+>
+> **On "indestructible".** I have read all twelve of our current product
+> descriptions and that word is not in any of them. **That is not me telling you
+> that you did not see it** — I cannot see the advertising you were shown, and I
+> am not going to guess at it. **Your wording goes to the shop owner as you wrote
+> it**, because he is the only one who can look at the advertising itself.
+>
+> **On the refund.** That decision is the shop owner's, not mine, so **I am not
+> going to promise you one and I am not going to refuse you one.** Your request
+> is already in front of him with what our records show: **order #8142, two
+> Plushies, £27.95 recorded on the order, nothing refunded, ordered 29 August,
+> dispatched 8 September, destroyed within about an hour.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** eine **direkte Antwort auf ihre Frage „how do I return"**
+(nämlich: es geht derzeit nicht, und warum), die **ungefragte, überprüfbare
+Offenlegung der zehn Tage bis zum Versand**, die ehrliche Auskunft zur
+Werbefrage, die Weitergabe mit allen Zahlen, und eine Nachfass-Zusage. **Keine
+Erstattung zugesagt, kein Betrag zugesagt, kein Termin, keine Vorlagen-Absage.**
+**Keine Aussage, die Garantie decke Kauschaden.** **Keine Fotobedingung** — das
+mitgeschickte Bild wurde **nicht geöffnet.** **Keine Rücksendeadresse
+erfunden.** **Kein Hinweis auf den Versanddienstleister, keine Herkunftsangabe.**
+**Keine Bewertung der von ihr erwähnten Bewertungen** („considering the
+reviews"). Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
