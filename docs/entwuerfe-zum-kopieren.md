@@ -11439,6 +11439,97 @@ noch bestritten** — offen gesagt, dass sie **in den Produktseiten nicht steht*
 und die Anzeige von hier **nicht einsehbar** ist. **Keine Auswertung der
 Fotos.** Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
+## #7778 — Tony Brighi (t.brighi@yahoo.com) — präzise begründete Erstattungsbitte, beruft sich auf die Produktseite
+
+**Betreff:** Re: Refund Request – Plushie Failed Durability Claims
+
+**Neu am 18.09. 23:34 UTC. Erstkontakt — der sachlichste des Tages.**
+
+> *„I purchased two of your Plushies **specifically because they are advertised
+> as being designed for dogs that destroy toys** […] One of the toys was
+> destroyed by my Labrador **within approximately one week of normal use. The
+> seam/neck area opened and the stuffing came out.** […] **Your product page
+> advertises a 30-day money-back guarantee** and states that these toys are
+> designed for **chewing, tugging and hard play**. Based on those
+> representations, I am requesting a full refund for the failed toy."*
+
+Bestellung **#7778**, 25.08., **28,50 £**, 2 × Plushies (Affe + Little Bear),
+Las Vegas (US), **versandt erst am 03.09. — neun Tage Liegezeit**,
+`totalRefundedSet` **0.00 £**.
+
+**Prüfung seiner beiden Berufungen gegen den heute vollständig gelesenen
+Katalogtext:**
+
+| Seine Angabe | Befund |
+|---|---|
+| *„designed for chewing, tugging and hard play"* | **Belegt.** Die Plushies-Beschreibung sagt wörtlich *„made for dogs who love to **chew, tug, and play hard**"* und *„**Built tough** for tugging, carrying, chewing, and cuddling"*. |
+| *„Your product page advertises a **30-day money-back guarantee**"* | **In der Plushies-Produktbeschreibung steht dazu nichts.** Bei **Fluffys** steht *„✓ 30-day money-back guarantee"*. **Ob die Produktseite außerhalb des Beschreibungstextes eine Garantie ausweist, ist von hier nicht einsehbar** — genau wie bei **#4998**, der einen vollständigen Garantieabschnitt zitiert, der in keiner Beschreibung steht. |
+
+**Der zweite Punkt wird ihm nicht als Irrtum ausgelegt.** Er wird als das
+benannt, was er ist: von hier nicht prüfbar.
+
+**Der Zustand des zweiten Stücks ist unbekannt** — *„one of the toys"*.
+**Neunter solcher Fall. Gefragt, nicht angenommen.**
+
+Zwei Bilder — **nicht geöffnet, nicht ausgewertet.**
+
+> Dear Tony,
+>
+> Thank you — you have set out what you relied on and what happened, and that
+> deserves an equally precise answer rather than a policy paragraph.
+>
+> **On the durability wording: you are quoting us correctly.** Our Plushies page
+> does say the toys are made for dogs who love to chew, tug and play hard, and
+> that they are built tough for tugging, carrying and chewing. I have read it.
+> **I am not going to suggest you misread anything.**
+>
+> **On the thirty-day money-back guarantee: I have to be careful here, and I
+> would rather show you my working than give you a confident answer.** The
+> product description I can read for Plushies does not contain guarantee wording
+> — our Fluffys description does. **That does not mean it is not on the page**;
+> there are parts of our storefront I cannot see from this desk, and another
+> customer has quoted us a full guarantee section this week that I also cannot
+> locate. **So I am not going to tell you it isn't there.** That question has
+> gone to the shop owner, because it matters what you actually bought on, and he
+> can see the page as it is published.
+>
+> **On the refund: I cannot authorise one** — that decision is his — **so I am
+> not going to promise you one, and I am not refusing you either.** Your request
+> has gone across today exactly as you framed it: **one of two items, failed at
+> the seam within about a week of normal use, full refund requested for the
+> failed toy on the basis of the representations on the page.**
+>
+> **One thing I would rather ask than assume:** you wrote „one of the toys".
+> **I don't know what state the second one is in.** If it has not been given to
+> your dog, say so — that is a materially different question and I do not want it
+> decided on a guess.
+>
+> **One thing I can confirm outright, which you did not ask about:** you ordered
+> on 25 August and the parcel **was not despatched until 3 September.** Nine of
+> those days were ours.
+>
+> Your photographs arrived and are noted. **Please don't post anything back** —
+> we do not publish a returns address at present, so a parcel would have nowhere
+> to arrive.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Bestätigung, dass sein Haltbarkeits-Zitat wörtlich
+zutrifft**, die **offene Darlegung, was ich zur Garantie prüfen konnte und was
+nicht**, die Bestätigung des **neuntägigen Spätversands**, die Weitergabe an den
+Owner und eine Nachfass-Zusage. **Keine Erstattung zugesagt, kein Betrag, kein
+Termin, keine Absage.** **Ihm wird nicht gesagt, die Garantie stehe nicht auf
+der Seite** — nur, dass sie im Beschreibungstext fehlt und der Rest der Seite
+von hier nicht einsehbar ist. **Keine Aussage dazu, ob die Haltbarkeitsaussage
+zutrifft.** **Keine Annahme über den Zustand des zweiten Stücks.** **Keine
+rechtliche Einordnung.** **Keine Auswertung der Fotos.** Frist nur mit
+**30 Tagen** benannt, und nur als seine Angabe. Keine Rücksendeadresse, samt
+Warnung. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
