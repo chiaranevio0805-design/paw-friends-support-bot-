@@ -12413,6 +12413,58 @@ auf den Versanddienstleister.** Die Herkunftsangabe vom 13.09. wird **weder
 zurückgenommen noch beschönigt**, aber auch nicht als Entschuldigung für die
 zehn Tage benutzt. Kein Eskalationsmarker im Text.
 
+## #7457 — Sheree McGowan (shereemcg@gmail.com) — US, Erstkontakt, Nähte nach anderthalb Tagen offen
+
+**Betreff:** Re: refund
+
+> Dear Sheree,
+>
+> Thank you for writing, and I am sorry it is about this. Two toys, a day and a
+> half, and the arms are already off. **That is not what you paid for, and I am
+> not going to argue with you about it.**
+>
+> **You asked one plain question — what do you need to do — so here is a plain
+> answer.**
+>
+> **From you: nothing.** You do not need to send photographs, you do not need to
+> fill anything in, and **please do not post anything back to us.** We currently
+> have no returns address I can give you, and I would rather tell you that
+> straight than have you pay for postage to nowhere.
+>
+> **From me: your request is already with the shop owner**, exactly as you sent
+> it, with what our records show: **order #7457, two Plushies, ordered 23 August,
+> dispatched 3 September, $38.90 recorded on the order, nothing refunded, seams
+> open after about a day and a half.**
+>
+> **What I cannot do is decide it.** A refund is the shop owner's call, not mine.
+> **So I am not going to promise you one, and I am not going to refuse you one
+> either.** I would rather tell you honestly where your request sits than send
+> you a polished answer that decides nothing.
+>
+> **One thing from our own records that you are entitled to know:** your order
+> was placed on 23 August and was not handed over for dispatch until 3 September.
+> **It sat with us for eleven days before it moved at all.** That is ours, and I
+> am not going to explain it away.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** eine **direkte Antwort auf ihre Frage „what do I need to
+do"** (nämlich: nichts), die Weitergabe mit allen Zahlen, die **ungefragte,
+überprüfbare Offenlegung der elf Tage bis zum Versand**, und eine
+Nachfass-Zusage. **Keine Erstattung zugesagt, kein Betrag zugesagt, kein Termin,
+keine Absage.** **Keine Vorlagen-Ablehnung.** **Keine Aussage, die Garantie
+decke Kauschaden** — die Garantie wird nicht zitiert, da die
+Plushies-Beschreibung keinen Garantietext enthält. **Keine Fotobedingung.**
+**Keine Rücksendeadresse erfunden**, ausdrückliche Bitte, nichts zu verschicken.
+**Keine Umrechnung** — 38,90 $ ist der Betrag in ihrer Währung auf der
+Bestellung. **Kein Widerspruch zu ihrer Beschreibung der Artikel** („a monkey
+and a duck"); die Bestellzeilen führen keine Variante, also wird sie nicht
+korrigiert. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

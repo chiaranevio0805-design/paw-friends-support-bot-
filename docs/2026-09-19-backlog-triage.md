@@ -891,3 +891,115 @@ Werbeaussage + angekündigte Meldung + wiederholter unerledigter Kontakt
 - **💷 Vier Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
   #6528, #6159.
 - **Zwei Fristen am Montag, 21.09.:** #7479, #6259.
+
+---
+
+## Lauf 13:20 UTC
+
+**Ein neuer Kundenvorgang — und zwei Befunde, die wichtiger sind als er.**
+
+### 🔴 #6259 Nick Tarrant: heute um 10:28 UTC wurde ihm eine Erstattung als ausgeführt gemeldet. In Shopify steht keine.
+
+Die heute gesendete Nachricht an `nick.tarrant@me.com` lautet:
+
+> *„We can confirm that your **full refund has been processed** to your original
+> payment method. Please allow a few business days for the refund to appear…"*
+
+**Shopify zu #6259, soeben abgefragt:**
+
+| Feld | Wert |
+|---|---|
+| `displayFinancialStatus` | **`PAID`** |
+| `totalRefundedSet` | **0,00 £** |
+| `refunds` | **`[]` — leer** |
+| Bestellwert | 29,95 £ |
+
+**Es ist möglich, dass außerhalb von Shopify erstattet wurde** (direkt über den
+Zahlungsanbieter). **Das kann von hier aus nicht geprüft werden.** Was geprüft
+werden kann, ist der Shopify-Datensatz, und der weist **keine Erstattung** aus.
+
+**Warum das dringt:** #6259 ist der Fall, in dem **Trading Standards
+eingeschaltet ist und am 21.09. eine Frist läuft.** Wenn die Erstattung nicht
+tatsächlich ausgeführt ist, steht der Zusage vom heutigen Vormittag eine
+unbezahlte Bestellung gegenüber — in genau dem Fall, in dem das am wenigsten
+tragbar ist.
+
+**Das ist der vierte Fall dieses Musters.** Bisher im Log: **#5148** („processed"
+zweimal), **#6583** (03.09.), **#4998** („has now been processed", 07.09.) —
+alle drei mit `totalRefundedSet` 0,00. **#6259 ist der erste, der am selben Tag
+entsteht, an dem er auffällt.**
+
+**Für den Owner, unmittelbar:** im Zahlungsanbieter nachsehen, ob die Erstattung
+wirklich gebucht ist. Falls ja, in Shopify nachtragen. Falls nein, **heute
+ausführen** — vor Montag.
+
+---
+
+### 📤 Heute Vormittag sind aus dem Shop-Konto **26 Threads** beantwortet worden
+
+Eine Suche über `in:sent after:2026/09/19` liefert **26 Threads mit einer
+gesendeten Nachricht von heute**, fast alle zwischen **10:08 und 10:57 UTC**.
+**Das ist ein Massenabarbeiten des Rückstands, und es ist an sich gut** — viele
+dieser Kunden warteten seit Tagen.
+
+**Geprüft wurde der Inhalt bisher bei sechs davon.** Ergebnis:
+
+- **Vier waren die Kauschaden-Vorlage** (#8372, #7119, #7547, #7275) — alle vier
+  bereits negativ beantwortet, siehe die Läufe 10:20 bis 12:20.
+- **Eine war die Erstattungszusage an #6259**, die in Shopify keine Entsprechung
+  hat (oben).
+- Eine weitere (#7479 Richard Bellamy) ist **nicht** beantwortet worden — sein
+  Thread trägt heute **keine** gesendete Nachricht, obwohl seine Frist am
+  **Montag** abläuft und er heute zum fünften Mal geschrieben hat.
+
+**Der Inhalt der übrigen zwanzig Sendungen ist hier nicht geprüft.** Das wird in
+den folgenden Läufen nachgeholt, soweit die Kunden antworten. **Es wird hier
+nichts darüber behauptet, was in ihnen steht.**
+
+---
+
+### #7457 — Sheree McGowan (`shereemcg@gmail.com`), 19.09. 12:34 UTC — Erstkontakt
+
+> *„I ordered 2 items, a monkey and a duck. My dog played with them **1 and a
+> half days and arms were already off**. **What do I need to do for a refund**"*
+
+**Vorab-Suche nach älteren Threads desselben Absenders:** ein einziger Thread.
+Erstkontakt.
+
+**Shopify-Datenlage (#7457):** bestellt **23.08.**, Versand angelegt erst
+**03.09.** — **elf Tage** —, zwei Plushies, **£28,50 / $38,90** (der
+presentmentMoney-Betrag ist 38,90 USD, es wird **nichts umgerechnet**),
+**0,00 £ erstattet**, `FULFILLED`/`PAID`. Lieferadresse Robbinsville, New
+Jersey (**US**).
+
+**Dreizehnte Bestellung mit auffälliger Versandverzögerung.** Die elf Tage
+werden ihr **ungefragt** genannt — sie hat nur nach der Erstattung gefragt, aber
+der Verzug ist unser Fehler und steht in unserem eigenen Datensatz.
+
+**Kauschaden fällt nicht unter die Erstattungsregel** — **keine Erstattung
+ausgeführt, keine zugesagt.** Ebenso **keine Vorlagen-Absage**: ihre Frage
+lautet *„what do I need to do"*, und darauf gibt es eine ehrliche Antwort
+(nämlich: nichts), statt einer Ablehnung. **Keine Fotos verlangt, Rücksendung
+ausdrücklich abgeraten**, da es keine Rücksendeadresse gibt.
+
+**Label:** `Bot/Escalated - Owner Attention` (Haltbarkeitsbeschwerde +
+Erstattungsentscheidung außerhalb der Regel + eigener Versandverzug).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Fünfzehn Kundenvorgänge am 19.09.**, dazu eine Betrugsmail.
+- **Neunundsiebzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **🔴 #6259: Erstattung heute als ausgeführt gemeldet, in Shopify nicht
+  vorhanden — Trading-Standards-Fall mit Frist am Montag. Vierter Fall dieses
+  Musters.** Das ist ab sofort der dringlichste Punkt des Tages.
+- **⛔ #7479 hat heute als einziger der akuten Fälle keine Antwort bekommen** —
+  fünfter Kontakt, Frist ebenfalls Montag.
+- **⛔ Sechs Sendungen der Kauschaden-Vorlage in fünf Tagen**, alle sechs negativ
+  zurückgekommen.
+- **⏱️ Dreizehnte Bestellung mit auffälliger Versandverzögerung** (#7457: elf
+  Tage).
+- **💷 Vier Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
+  #6528, #6159.
