@@ -11774,6 +11774,212 @@ dass sie im Katalog fehlen. **Keine Rücksendeadresse erfunden**, samt Warnung,
 auch den Gratisartikel nicht zu verschicken. **Keine Auswertung der Fotos.**
 Kein Eskalationsmarker im Text.
 
+## #8081 — Matthew Pierce (vad_shooter@yahoo.com) — ⏰ APO-Adresse, seit sieben Tagen unbeantwortet, Bestellung noch `UNFULFILLED`
+
+**Betreff:** Re: Address Confirmation Required for Order #8081
+
+**Neu am 19.09. 02:30 UTC.**
+
+> *„Was there any more info regarding this order? **Was a US APO address
+> something you could accommodate and the item will be shipped, or will it be
+> cancelled?** I did not receive any updates."*
+
+Bestellung **#8081**, 29.08., **20,35 £**, 1 × Plushies (Ente),
+**`UNFULFILLED`**, **nicht storniert**, `totalRefundedSet` **0.00 £**.
+Lieferanschrift im System: **`Box 5647 PSC 3, APO AP 96266-0057, US`**.
+
+**⏰ Zeitkritisch und noch reparierbar — wie #8548 und #8588.** Die Ware liegt
+noch hier. **21 Tage nach Bestellung ist nichts passiert.**
+
+**Der Verlauf:**
+
+| Datum | Was |
+|---|---|
+| **10.09.** | Shop: zwei unterschiedliche Postleitzahlen, *„our system is unable to recognise the APO address format"* |
+| **10.09.** | Er bestätigt die Adresse vollständig |
+| **11.09. 14:57** | Shop: *„We have received the details and will update your order accordingly."* |
+| **11.09. 19:01** | Shop, vier Stunden später: *„could you please provide the **physical street address and house/building number** associated with your APO address?"* |
+| **12.09.** | Er erklärt: *„**APO addresses do not really work like that.** I cannot provide you a physical street address […] It is a military postal address and does not use physical addresses."* Und: *„**If shipping […] can not be accommodated, I certainly understand and can accept a refund.**"* |
+| **19.09.** | **Sieben Tage. Keine Antwort.** |
+
+**Zwei Punkte für den Owner:**
+
+1. **Seine Erklärung ist zutreffend.** Eine APO/FPO-Militärpostanschrift hat
+   **keine Straßenadresse**; die Zustellung erfolgt über das US-Militärpostsystem.
+   **Die Nachfrage vom 11.09. war unerfüllbar.**
+2. **Er hat von sich aus eine Erstattung als Lösung angeboten** — seit sieben
+   Tagen unbeantwortet. **Die Entscheidung ist einfach: versenden oder
+   stornieren und erstatten.** Beides liegt beim Owner.
+
+**Keine Änderung an der Bestellung vorgenommen.** Weder Versand noch Storno
+noch Adressänderung — das gehört in den Admin.
+
+> Dear Matthew,
+>
+> **You asked a straight question a week ago and got no answer. That is the part
+> I can apologise for without qualification.**
+>
+> **Your explanation was correct, and it should not have been queried.** An
+> APO address has no street number — that is how military post works, and asking
+> you for one was asking for something that does not exist. **I am not going to
+> repeat that request.**
+>
+> **Where your order actually stands:** it is still with us and **has not been
+> despatched.** It has also not been cancelled. **Nothing has been refunded.**
+>
+> **What I cannot do is decide it.** Whether we can ship to an APO address, and
+> whether the order is cancelled and refunded instead, are both the shop
+> owner's calls — **so I am not going to promise you either outcome.** What has
+> gone to him today is exactly the choice you put to us: **ship it or cancel and
+> refund**, plus the fact that **you offered to accept a refund on 12 September
+> and have heard nothing since.**
+>
+> **I am not going to ask you for any further address details**, and nothing is
+> waiting on you.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Feststellung, dass seine Erklärung zutraf und die
+Nachfrage unerfüllbar war**, der **wahre Bearbeitungsstand** (nicht versandt,
+nicht storniert, nichts erstattet), die Weitergabe **seiner Alternative im
+Original**, und eine Nachfass-Zusage. **Keine Erstattung zugesagt, kein Versand
+zugesagt, kein Storno, kein Termin, kein Betrag.** **Keine weitere
+Adressabfrage.** **Keine Änderung an der Bestellung vorgenommen.** **Keine
+Aussage dazu, ob der Versand an APO technisch möglich ist** — das ist von hier
+nicht feststellbar. Kein Eskalationsmarker im Text.
+
+---
+
+## #6159 — Mary Linan (malinan@att.net) — 💷 sie nimmt 30 % an, nach 19 Tagen
+
+**Betreff:** Re: Refund request
+
+**Neu am 19.09. 02:21 UTC.**
+
+> *„Sorry for late reply. **Yes please do the 30% refund**"*
+
+Bestellung **#6159**, 15.08., **30,56 £**, 2 × Plushies (Affe + Hippo),
+Anaheim (US), `totalRefundedSet` **0.00 £**.
+
+**Vierter `Needs Approval`-Fall** nach #4055, #6936 und #6528.
+
+**⚠️ Der bemerkenswerte Teil steht in unserer eigenen Mail vom 31.08.:**
+
+> *„**As the second toy is unused, it would normally be eligible for return in
+> accordance with our returns policy.** However, rather than requiring you to go
+> through the return process, we can offer you a 30% partial refund…"*
+
+**Das ist eine schriftliche Bestätigung, dass das unbenutzte Stück die
+Rückgabebedingung erfüllt** — und im selben Satz wird statt der Rückgabe ein
+Teilbetrag angeboten. **Sie hatte am 29.08. ausdrücklich gefragt:** *„Let me
+know where to return it."* **Das wurde nie beantwortet.**
+
+> Dear Mary,
+>
+> Thank you — no apology needed for the delay; you waited far longer for us.
+>
+> **I have recorded your answer as written: you accept the 30%.** That has gone
+> to the shop owner today as an offer the shop made and a customer accepted.
+>
+> **I cannot release the money myself**, so **I am not going to tell you it has
+> been processed.** What I can say is that nothing is waiting on you.
+>
+> **One thing I want to put on the record rather than leave buried.** On 29
+> August you asked us where to return the unused second toy. **You never got an
+> answer, and the reason is that we do not publish a returns address** — so
+> there was no process to send you to. On 31 August we told you the unused toy
+> *„would normally be eligible for return"*, and then offered you a percentage
+> instead of the return. **That was not a fair exchange, and I have said so in
+> what went to him.**
+>
+> **Please don't post it now either** — there is still nowhere for a parcel to
+> arrive.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **korrekte Protokollierung ihrer Annahme (30 %)**, die
+Weitergabe zur Ausführung, die **offene Feststellung, dass ihre Rückgabefrage
+vom 29.08. nie beantwortet wurde und warum**, und eine Nachfass-Zusage.
+**Keine Aussage, dass die Erstattung veranlasst sei.** **Kein Betrag, kein
+Termin.** **Keine neue Aushandlung, keine Rücknahme und keine Erhöhung des
+Angebots.** **Keine Rücksendeadresse erfunden**, samt Warnung. **Keine Aussage
+dazu, ob die Werbeaussage zutrifft.** Kein Eskalationsmarker im Text.
+
+---
+
+## #7625 — Erin Browning (ebrowningrn2@yahoo.com) — zweite Fassung, Erstattung verlangt
+
+**Betreff:** Re: A shipment from order #7625 is on the way
+
+**Neu am 19.09. 03:17 UTC.**
+
+> *„Requesting refund. The toys are **advertised as durable for heavy chewers**
+> but my dog destroyed the toy in the first 5 min of having it. **This item is
+> not as advertised.**"*
+
+Bestellung **#7625**, 24.08., **43,91 £**, Fountain Inn (US) — 1 × Zahnbuddy,
+2 × Plushies (Elk + Affe), **versandt erst am 04.09. — elf Tage Liegezeit**,
+`totalRefundedSet` **0.00 £**. **Zweiter Kontakt** (erster am 16.09. 22:07).
+
+**Ihre Formulierung ist belegt:** Die Plushies-Beschreibung sagt *„made for dogs
+who love to **chew, tug, and play hard**"* und der Produktname selbst lautet
+*„Designed for Furry Friends Who **Destroy Everything**"*. **Ob die Aussage
+zutrifft, wird nicht bewertet.**
+
+**Der Zustand der beiden anderen Artikel ist unbekannt** — sie schreibt von
+*„the toy"*, Einzahl. **Zwölfter solcher Fall. Gefragt, nicht angenommen.**
+
+Zwei Bilder — **nicht geöffnet, nicht ausgewertet.**
+
+> Dear Erin,
+>
+> Thank you for coming back, and for putting it plainly.
+>
+> **On what the toys are advertised as:** you are quoting us accurately. Our own
+> product page says they are made for dogs who love to chew, tug and play hard,
+> and the product is named for dogs who destroy everything. **I am not going to
+> suggest you misread it.** **Whether the claim holds up is not mine to rule on**
+> — that is the shop owner's, and your words have gone to him unedited.
+>
+> **On the refund: I cannot authorise one**, so there is no promise from me —
+> **and no standard refusal either**, because your case has not been decided by a
+> person yet.
+>
+> **One thing I would rather ask than assume.** Your order was for three items —
+> two plush toys and a dental toy. **You have written about one.** If the others
+> have not been given to your dog, tell me and I will put that on the file; it is
+> a different question and I don't want it settled on a guess.
+>
+> **One thing I can confirm without being asked:** you ordered on 24 August and
+> the parcel **was not despatched until 4 September.** Eleven of those days were
+> ours.
+>
+> Your photographs arrived and are noted. **Please don't post anything back** —
+> we do not publish a returns address at present, so a parcel would have nowhere
+> to arrive.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Bestätigung, dass ihre Wiedergabe der Produktseite
+zutrifft**, die **offene Bestätigung des elftägigen Spätversands**, die
+Weitergabe im Original, eine Nachfass-Zusage. **Keine Erstattung zugesagt, kein
+Betrag, kein Termin, keine Absage.** **Keine Aussage dazu, ob die Werbeaussage
+zutrifft.** **Keine Annahme über die zwei anderen Artikel.** **Keine
+Auswertung der Fotos.** Keine Rücksendeadresse, samt Warnung. Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

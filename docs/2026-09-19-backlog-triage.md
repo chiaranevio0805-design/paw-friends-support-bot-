@@ -254,3 +254,112 @@ Zwei Bilder — **nicht geöffnet, nicht ausgewertet.**
 - **💷 Drei Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
   #6528 — zusammen **43,29 £**.
 - **Neun Bestellungen mit belegter Liegezeit von acht bis zwölf Tagen.**
+
+---
+
+## Lauf 03:20 UTC — drei Vorgänge, einer zeitkritisch
+
+Suche `in:inbox after:2026/09/18`, Abgleich gegen den 02:20-Lauf. Drei
+Nachrichten sind neu.
+
+---
+
+### ⏰ #8081 — Matthew Pierce (`vad_shooter@yahoo.com`), 19.09. 02:30 UTC — APO-Adresse, Bestellung liegt seit 21 Tagen
+
+> *„**Was a US APO address something you could accommodate and the item will be
+> shipped, or will it be cancelled?** I did not receive any updates."*
+
+Bestellung **#8081**, 29.08., **20,35 £**, **`UNFULFILLED`**, **nicht
+storniert**, `totalRefundedSet` **0.00 £**. Adresse im System:
+`Box 5647 PSC 3, APO AP 96266-0057, US`.
+
+**⏰ Zeitkritisch und noch reparierbar — wie #8548 und #8588.** Die Ware liegt
+noch hier.
+
+| Datum | Was |
+|---|---|
+| **10.09.** | Shop: *„our system is unable to recognise the APO address format"* |
+| **10.09.** | Er bestätigt die vollständige Adresse |
+| **11.09. 14:57** | Shop: *„We have received the details and **will update your order accordingly**."* |
+| **11.09. 19:01** | Shop, vier Stunden später: *„could you please provide the **physical street address and house/building number**?"* |
+| **12.09.** | Er: *„**APO addresses do not really work like that** […] It is a military postal address and does not use physical addresses."* Und: *„**I certainly understand and can accept a refund**."* |
+| **19.09.** | **Sieben Tage. Keine Antwort.** |
+
+**Zwei Feststellungen:**
+
+1. **Seine Erklärung trifft zu.** Eine APO-Militärpostanschrift **hat keine
+   Straßenadresse.** **Die Nachfrage vom 11.09. war unerfüllbar** — und sie kam
+   vier Stunden nach der Bestätigung, die Adresse sei übernommen.
+2. **Er hat von sich aus eine Erstattung als Lösung angeboten** — seit sieben
+   Tagen unbeantwortet.
+
+**Die Entscheidung ist einfach: versenden oder stornieren und erstatten.**
+Beides liegt beim Owner. **Keine Änderung an der Bestellung vorgenommen** —
+weder Versand noch Storno noch Adressänderung.
+
+**Label:** `Bot/Escalated - Owner Attention`, **zeitkritisch.**
+
+---
+
+### 💷 #6159 — Mary Linan (`malinan@att.net`), 19.09. 02:21 UTC — sie nimmt 30 % an
+
+> *„Sorry for late reply. **Yes please do the 30% refund**"*
+
+Bestellung **#6159**, 15.08., **30,56 £**, 2 × Plushies, Anaheim (US),
+`totalRefundedSet` **0.00 £**. **Vierter `Bot/Needs Approval`-Fall** nach
+#4055, #6936 und #6528.
+
+**⚠️ Der Befund steht in unserer eigenen Mail vom 31.08.:**
+
+> *„**As the second toy is unused, it would normally be eligible for return in
+> accordance with our returns policy.** However, rather than requiring you to go
+> through the return process, we can offer you a 30% partial refund…"*
+
+**Das ist eine schriftliche Bestätigung, dass das unbenutzte Stück die
+Rückgabebedingung erfüllt** — und im selben Satz wird statt der Rückgabe ein
+Teilbetrag angeboten. Ihre Frage vom **29.08.** — *„Let me know where to return
+it"* — **wurde nie beantwortet.**
+
+**Dritter Fall, in dem wiederholte Rückgabebitten mit Prozentsätzen beantwortet
+wurden** (nach #4812 und #6528) — und **der erste, in dem der Shop die
+Rückgabeberechtigung ausdrücklich schriftlich einräumt.**
+
+**Label:** `Bot/Needs Approval` — **30 % freizugeben.**
+
+---
+
+### 🚩 #7625 — Erin Browning (`ebrowningrn2@yahoo.com`), 19.09. 03:17 UTC — zweiter Kontakt
+
+> *„Requesting refund. The toys are **advertised as durable for heavy chewers**
+> […] **This item is not as advertised.**"*
+
+Bestellung **#7625**, 24.08., **43,91 £**, Fountain Inn (US) — 1 × Zahnbuddy,
+2 × Plushies, **versandt erst am 04.09. — elf Tage Liegezeit**,
+`totalRefundedSet` **0.00 £**. Erster Kontakt am 16.09. 22:07.
+
+**Ihre Wiedergabe ist belegt** — Plushies-Text: *„made for dogs who love to
+**chew, tug, and play hard**"*, Produktname: *„Designed for Furry Friends Who
+**Destroy Everything**"*. **Ob die Aussage zutrifft, wird nicht bewertet.**
+
+**Der Zustand der beiden anderen Artikel ist unbekannt** (*„the toy"*, Einzahl).
+**Zwölfter solcher Fall. Gefragt, nicht angenommen.**
+
+**Label:** `Bot/Escalated - Owner Attention` (bestrittene Werbeaussage +
+zweiter Kontakt). **Zweite Fassung.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Sieben Kundenvorgänge am 19.09.**
+- **Einundsiebzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **💷 Vier Beträge sind schriftlich angenommen und nur auszuführen:** #4055
+  (11,97 £), #6936 (8,39 £), #6528 (22,93 £), **#6159 (30 % von 30,56 £)**.
+- **⏰ #8081 ist zeitkritisch und noch reparierbar:** Bestellung liegt seit
+  21 Tagen `UNFULFILLED`, der Kunde hat vor sieben Tagen selbst eine Erstattung
+  angeboten. **Versenden oder stornieren — beides offen.**
+- **⚠️ Drei Kunden haben wiederholt um den Rückgabeweg gebeten und
+  Prozentsätze bekommen:** #4812 (fünfmal), #6528 (fünfmal), **#6159**. Bei
+  #6159 hat der Shop die **Rückgabeberechtigung schriftlich eingeräumt.**
+- **Zehn Bestellungen mit belegter Liegezeit von acht bis zwölf Tagen.**
