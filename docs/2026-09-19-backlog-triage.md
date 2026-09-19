@@ -1394,3 +1394,101 @@ Leistungsumfang + unbeantwortete Punkte in einer bereits gesendeten Absage.
 - **⛔ #7479: fünfter Kontakt, heute keine Antwort, Frist Montag.**
 - **💷 Vier Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
   #6528, #6159.
+
+---
+
+## Lauf 17:20 UTC
+
+**Zwei neue Kundennachrichten. Keine neuen Sendungen aus dem Shop-Konto seit
+10:57.**
+
+### ⛔ #7401 — Mick Lacey (`laceymick31@gmail.com`), 19.09. 17:14 UTC — **dritte Absage**, und er stellt die Kernfrage
+
+> *„You are saying your toys are **highly durable**, how can that be **if you
+> can't give it to your dog**, in case he damages it? **Is it a toy for a dog to
+> chew or not?** Because you say they are, but my dog pulled the leg off in
+> 10 minutes … **What the hell is the toy supposed to be used for?** Perhaps an
+> **ornament on the shelf** where the dog can't get at it?"*
+
+**Er hat die Absage dreimal bekommen:**
+
+| Datum | Fassung |
+|---|---|
+| 15.09. 08:22 | vollständige Kauschaden-Vorlage |
+| 17.09. 09:22 | dieselbe Ablehnung in **gekürzter Form** |
+| **19.09. 10:28:57** | **die Vorlage erneut, Variante „As explained"** |
+
+**Seine Frage ist die genaueste Formulierung des Grundproblems, die bisher aus
+dem Postfach gekommen ist**, und sie lässt sich aus unserem eigenen Text
+beantworten: die **Plushies-Beschreibung** sagt *„made for dogs who love to
+**chew**, tug, and play hard"* und *„**anti-tear design built for strong
+chewers**"*. **Eine Absage, die den Kauschaden zum Ausschlussgrund macht,
+widerspricht der Produktbeschreibung desselben Artikels.** Genau das steht jetzt
+im Entwurf — **ohne Zusage und ohne vierte Absage.**
+
+**Zur Zitatstelle:** Er schrieb am 15.09. *„You state **40,000 dogs cant beat
+it**"*. **Das Zitat ist echt** — es steht auf der **Fluffys**-Seite. **Seine
+Bestellung #7401 ist aber ein Plushies.** Welche Anzeige ihm gezeigt wurde, ist
+von hier nicht feststellbar; im Entwurf wird das **benannt, aber ausdrücklich
+nicht gegen ihn verwendet**.
+
+**Shopify (#7401):** bestellt 23.08., Versand **03.09.** (elf Tage), ein
+Plushies, **19,95 £**, **0,00 £ erstattet**, Telford (GB).
+
+**Öffentliche Ankündigung:** *„I will let everybody know not to bother off you"*
+und *„these toys are a scam"* (17.09.). **Kein Versuch im Entwurf, ihn davon
+abzubringen**, und nichts daran geknüpft.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### #8080 — Ryan Beam (`mclmm187@gmail.com`), 19.09. 16:30 UTC — Sendungsnummer läuft auf Fehler
+
+> *„The tracking number you gave me doesn't work. It shows error. My order number
+> is 8080"*
+
+**Shopify (#8080):** bestellt **29.08.**, Versand angelegt **08.09.** (**zehn
+Tage**), zwei Plushies, **£28,50 / $38,58** (presentment USD), **0,00 £
+erstattet**, Idalou, **Texas (US)**. Sendungsnummer **4PX3003140312597CN**.
+
+**Der entscheidende Befund:** `fulfillments.updatedAt` ist **identisch mit
+`createdAt`, 08.09.2026 07:36 UTC**. **Seit elf Tagen gibt es in unserem eigenen
+Datensatz keine Aktualisierung zu dieser Sendung.** Dass seine Nummer einen
+Fehler zeigt, passt dazu.
+
+**Im Entwurf wird ihm der Datenstand vollständig genannt** — Bestelldatum,
+Versanddatum, Nummer, letzte Aktualisierung — und **ausdrücklich nicht
+behauptet, das Paket sei unterwegs.** **Kein Verweis an den
+Versanddienstleister**, keine Aufforderung, selbst nachzuforschen, **keine
+Spekulation über die Fehlermeldung**, keine Zusage auf Ersatz oder Erstattung.
+Die Entscheidung darüber liegt beim Owner; der Fall wird ihm als **festhängende
+Sendung** vorgelegt.
+
+**Fünfzehnte Bestellung mit auffälliger Versandverzögerung.**
+
+**Label:** `Bot/Needs Approval` — der Entwurf enthält keine Zusage, aber der
+Fall verlangt eine Entscheidung (Ersatz, Erstattung oder Nachforschung), die
+nur der Owner treffen kann.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Dreiundzwanzig Kundenvorgänge am 19.09.**, dazu eine Betrugsmail.
+- **Siebenundachtzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⛔ Die Kauschaden-Absage ist in fünf Tagen an elf verschiedene Kunden
+  gegangen, insgesamt vierzehnmal** — **#7401 dreimal**, #7547 und #7347 je
+  zweimal. **Keine einzige Sendung hat den Fall beendet; alle kamen schärfer
+  zurück.**
+- **🔴 Zwei Trading-Standards-Fälle mit gemeldeter, aber nicht verzeichneter
+  Erstattung:** **#6259** (Frist **Montag**) und **#5148**.
+- **🟦 Die Werbeaussage ist belegt** — Klaviyo-Mail vom 27.08.: „Zero risk on
+  your side", „you're covered either way", „Nobody has needed it yet".
+- **⚠️ Achtzehn unabhängige Kundenaussagen zur Werbung**, elf davon heute.
+- **⛔ #7479: fünfter Kontakt, heute keine Antwort, Frist Montag.**
+- **⏱️ Fünfzehnte Bestellung mit auffälliger Versandverzögerung** (#8080), und
+  bei ihr steht die Sendung seit elf Tagen still.
+- **💷 Vier Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
+  #6528, #6159.

@@ -12812,6 +12812,104 @@ Gratisartikel.** **Keine Fotobedingung.** **Keine Rücksendeadresse erfunden.**
 **Keine rechtliche Bewertung** ihres Vorwurfs der irreführenden Werbung. Kein
 Eskalationsmarker im Text.
 
+## #7401 — Mick Lacey (laceymick31@gmail.com) — dritte Absage, stellt die Kernfrage direkt
+
+**Betreff:** Re: defective item … order #7401
+
+> Dear Mick,
+>
+> **You asked a direct question and you are owed a direct answer, so here it is
+> before anything else.**
+>
+> **Yes. It is a toy for a dog to chew.** That is what we sell it as. Our own
+> product page for the Plushies describes them as *"made for dogs who love to
+> chew, tug, and play hard"*, with an *"anti-tear design built for strong
+> chewers"*. **So a refusal that rests on the toy having been chewed is at odds
+> with the way we advertise it**, and I am not going to stand behind that
+> reasoning. **You have now had it three times. That should not have happened.**
+>
+> **What I am not going to do is hand you a fourth version of the same refusal.**
+> Whether you are refunded is the shop owner's decision, not mine. **I am not
+> going to promise you a refund and I am not going to refuse you one.** Your case
+> goes to him exactly as you put it: **order #7401, one Plushies, £19.95 recorded
+> on the order, nothing refunded, ordered 23 August, dispatched 3 September, a
+> leg pulled off inside ten minutes, and the question of what the toy is for left
+> unanswered three times.**
+>
+> **On the line you quoted.** You wrote that we state *"40,000 dogs can't beat
+> it"*. **That wording is real** — it is on one of our product pages, though not
+> the one your order was for. **I am not going to use that against you.** I
+> cannot see which advertising was actually shown to you, and I am not going to
+> guess at it. **The point goes to the owner as you made it**, because he is the
+> only one who can look at the advertising itself.
+>
+> **And on telling people.** You said you would let everybody know. **That is
+> your decision, I am not going to ask you not to, and nothing here is
+> conditional on it.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** eine **direkte Antwort auf seine direkte Frage** — belegt
+mit dem **Wortlaut unserer eigenen Produktseite** —, die **offene Feststellung,
+dass die Absagebegründung dem eigenen Werbetext widerspricht**, die Anerkennung
+der dreifachen Wiederholung, die **Bestätigung, dass seine Zitatstelle
+tatsächlich existiert**, und die Weitergabe mit allen Zahlen. **Keine Erstattung
+zugesagt, kein Betrag, kein Termin, keine vierte Absage.** **Keine Aussage
+darüber, ob ihm ein Anspruch zusteht**; die Entscheidung bleibt beim Owner.
+**Keine Rekonstruktion, welche Anzeige er gesehen hat** — die Produktseiten-Frage
+wird benannt, aber **nicht gegen ihn verwendet**. **Kein Versuch, ihn von
+öffentlichen Äußerungen abzubringen.** **Keine Rücksendeaufforderung**, es gibt
+keine Adresse. **Keine rechtliche Bewertung.** Kein Eskalationsmarker im Text.
+
+## #8080 — Ryan Beam (mclmm187@gmail.com) — US, Sendungsnummer läuft auf Fehler
+
+**Betreff:** Re: Tracking number
+
+> Dear Ryan,
+>
+> Thank you for telling us, and I am sorry you had to.
+>
+> **Here is exactly what our own record shows for order #8080, without anything
+> added:**
+>
+> - The order was placed on **29 August**.
+> - It was handed over for dispatch on **8 September** — **ten days later**, and
+>   that wait was at our end.
+> - The tracking number recorded against it is **4PX3003140312597CN**.
+> - **Our record has had no update on that shipment since 8 September.**
+>
+> **So I am not going to tell you the parcel is on its way, because I cannot see
+> that it is.** If the number returns an error for you, it also does not show me
+> anything newer than the day it was handed over. **That is eleven days with no
+> movement in our own system.**
+>
+> **What I am not going to do is send you off to chase the carrier.** That is not
+> your job. **I have put this in front of the shop owner as a stalled shipment**,
+> with the order number, the tracking number and the dates above, because whether
+> you get a replacement or your money back is his decision and not mine — **so I
+> am not going to promise you either one.**
+>
+> **You do not need to do anything.** If you have heard nothing in a few days,
+> reply here and I will chase it again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **vollständige, überprüfbare Wiedergabe des eigenen
+Datenstands** (Bestelldatum, Versanddatum, Sendungsnummer, **letzte Aktualisierung
+08.09.**), die **offene Zurechnung der zehn Tage bis zum Versand**, die
+Einordnung als festhängende Sendung, und eine Nachfass-Zusage. **Keine
+Erstattung zugesagt, kein Ersatz zugesagt, kein Termin.** **Keine Behauptung,
+das Paket sei unterwegs.** **Kein Verweis an den Versanddienstleister** und
+keine Aufforderung, selbst nachzuforschen. **Keine Herkunftsangabe.** **Keine
+Spekulation, warum die Nummer einen Fehler zeigt.** **Keine Umrechnung** — es
+wird kein Betrag genannt, weil keiner nötig ist. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
