@@ -496,3 +496,50 @@ Versuche), ein 22. wurde nicht unternommen.
 - **💷 Vier Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
   #6528, #6159.
 - **⏰ #8081 weiterhin offen**, **zwei Fristen am Montag, 21.09.:** #7479, #6259.
+
+---
+
+## Lauf 09:20 UTC
+
+**Ein neuer Thread seit dem 08:20-Lauf. Kein Kundenvorgang.**
+
+### ⬛ `shopifyanalyticscentre@gmail.com`, 19.09. 08:17 UTC — vierter Betrugs-/Pretexting-Versuch
+
+Betreff *„Your Store Has Been Placed on Probation"*. Behauptet, der Shop sei
+wegen eines „unresolved configuration issue" **auf Bewährung gesetzt**, und
+verlangt **Handeln binnen 24 Stunden**, sonst folgten „further restrictions on
+core store functionality". Fußzeile: *„© Shopify | 151 Elgin Street, Ottawa"*.
+
+**Absender ist eine freie Gmail-Adresse.** Shopify schreibt nicht von
+`@gmail.com`. Der Text nennt **kein Konto, keine Domain, keine Bestellung, kein
+konkretes Problem** — nur Druck und eine Frist.
+
+**Nicht beantwortet. Keine Shop-, Bestell- oder Kundendaten herausgegeben. Kein
+Link geöffnet. Kein Entwurf.**
+
+**Vierter Versuch dieser Art** nach `shopifystoreregulatory.center@gmail.com`
+(06.09.), `wixassesmentteam@gmail.com` und `storeclean.panel@gmail.com`
+(18.09.). **Muster identisch und inzwischen engmaschig — drei der vier binnen
+zwei Wochen, zwei davon in den letzten 21 Stunden:** ein bekannter Firmenname,
+eine freie Gmail-Adresse, ein erfundener Anlass, eine kurze Frist.
+
+**Der Shopify-Status wurde in dieser Sitzung mehrfach direkt über die
+Admin-API gelesen** — Bestellungen, Erstattungen, Produkttexte, Shop-Policies
+sind normal abrufbar. **Für eine „Bewährung" gibt es keinerlei Anzeichen.**
+
+**Label:** `Bot/No Action`. **Für den Owner:** nicht antworten, nichts
+anklicken, nichts bestätigen. Bei echten Shopify-Meldungen ausschließlich im
+Admin nachsehen, nie über einen Mail-Link.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Neun Kundenvorgänge am 19.09.** (unverändert), dazu **eine Betrugsmail**.
+- **Dreiundsiebzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⬛ Vierter Pretexting-Versuch** — nichts beantwortet, nichts herausgegeben,
+  nichts angeklickt.
+- **💷 Vier Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
+  #6528, #6159.
+- **⏰ #8081 weiterhin offen**, **zwei Fristen am Montag, 21.09.:** #7479, #6259.
