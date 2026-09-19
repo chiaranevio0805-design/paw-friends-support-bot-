@@ -671,3 +671,127 @@ am 21.09.
   (#7119 und #7479 kommen hinzu).
 - **💷 Vier Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
   #6528, #6159.
+
+---
+
+## Lauf 11:20 UTC
+
+**⛔ Die Vorlagen-Absage ist heute Vormittag viermal rausgegangen. Drei davon
+sind bereits beantwortet — mit einem Chargeback und zwei Regulierungsmeldungen.**
+
+| Uhrzeit (UTC) | Empfänger | Land | Antwort des Kunden | Abstand |
+|---|---|---|---|---|
+| 15.09. 08:03 | **#7479** Richard Bellamy-Williams | GB | *„Nice try, but clearly you didn't read the email correctly."* → heute sieben Beschwerdewege, Frist 21.09. | 4 h |
+| **09:55** | **#8372** Kerri Forbey | US | Richtigstellung: **nichts wurde je benutzt** | 59 min |
+| **10:09** | **#7119** Susan McGee | AU | **Chargeback + angekündigte öffentliche Beiträge** | **7 min** |
+| **10:54** | **#7275** Nathan Corcoran | AU | **ACCC-Meldung angekündigt** | **4 min** |
+
+**Alle vier Mails sind wortgleich.** Alle vier begründen die Absage mit
+Kauschaden. **In zwei der vier Fälle gab es überhaupt keinen Kauschaden**, und
+in einem dritten lag zusätzlich ein unbenutzter Artikel vor, über den die Mail
+kein Wort verliert.
+
+**Seit dem 29.08. steht im Log, dass diese Vorlage abgeschaltet gehört.** Damals
+gingen sechs davon raus und alle sechs kamen schärfer zurück. **Heute sind es
+vier in drei Stunden, und zwei australische Regulierungswege sind binnen einer
+Stunde ins Spiel gekommen.**
+
+---
+
+### ⛔ #8372 — Kerri Forbey (`wollenzienk@hotmail.com`), 19.09. 10:54 UTC — die Absage behauptete einen Schaden, den es nie gab
+
+**Ihre Erstmeldung vom 16.09. 20:36 UTC, wörtlich:**
+
+> *„My 9 month old German shepherd **will be able to** shred the material and
+> the rope … I would like a full refund. **Please inform me to whom I must
+> return the contents to in the original packaging.**"*
+
+**Das ist Futur und eine Rückgabefrage.** Sie hat nichts an den Hund gegeben.
+**Die Absage von 09:55 antwortete trotzdem:** *„the toy was damaged **after your
+dog used it** … As the toy **was used and damaged by your dog** after delivery,
+we're therefore unable to provide a refund."*
+
+**Ihre Richtigstellung um 10:54:**
+
+> *„I have **all items, plushies untouched and in original packaging. I did not
+> give them to my dog** as I could tell by just touching them that the product
+> **would not stand up to the claim**. Again, I would still like a full refund
+> and I can return all items. **Please advise with return instructions.**"*
+
+**Damit hat die Vorlage einem Kunden eine Tatsache über seinen eigenen Fall
+untergeschoben und die Erstattung mit dieser erfundenen Tatsache abgelehnt.**
+Das ist ein anderer Fehler als eine zu harte Antwort.
+
+**Shopify-Datenlage (#8372):** bestellt **07.09.**, Versand **08.09.**,
+zugestellt **16.09.** Sieben Positionen, **£71,56 / $96,89** — der
+**presentmentMoney-Betrag auf der Bestellung ist 96,89 USD** und deckt sich
+exakt mit ihrer Angabe, es wird also **nichts umgerechnet**. **0,00 £
+erstattet.** Status `PARTIALLY_FULFILLED` — **geprüft: offen ist ausschließlich
+das digitale E-Book**, alle physischen Positionen sind versandt. Kein fehlender
+Artikel, und ihr wird deshalb auch keiner gemeldet.
+
+**Ihr Urteil über einen unbenutzten Artikel wird nicht als verfrüht abgetan.**
+Zweite Rückgabebitte, zweimal keine Anleitung — **weil es keine
+Rücksendeadresse gibt.** Genau das steht im Entwurf.
+
+**Eskalationsgrund:** falsche Tatsachenbehauptung in einer bereits gesendeten
+Absage + bestrittene Werbeaussage + unbenutzte Ware ohne Rücksendeweg.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### ⛔ #7275 — Nathan Corcoran (`natcor1972@gmail.com`), 19.09. 10:58 UTC — **ACCC vier Minuten nach der Absage**
+
+**Sein Betreff lautet seit dem 17.09. „Indestructible".** Seine Erstmeldung:
+
+> *„my dog played with them for about 20 minutes … **I purchased from pawfriends
+> due to the fact that you advertise your products as indestructible.** I would
+> like to apply for a full refund."*
+
+**Um 10:54 bekam er die Kauschaden-Vorlage. Um 10:58 antwortete er:**
+
+> *„as such I will contacting the **ACCC in Australia** to advise them that you
+> are **advertising your product in Australia as indestructible**. I am sure
+> they will be in touch."*
+
+**Eine Mail, deren Betreffzeile die Werbeaussage ist, wurde mit einem Absatz
+über Kauschaden beantwortet.** Das ist derselbe Fehler wie bei #7479 am 15.09.:
+**die gestellte Frage wurde nicht gelesen.**
+
+**Zuordnung unverändert ungesichert:** Bestellung **#7275** trägt
+`email: null`, `orders(query:"email:natcor1972@gmail.com")` liefert **null
+Treffer**, und der Kundendatensatz *Nathan Corcoran, Reedy Creek QLD* hat
+**keine E-Mail-Adresse**, nur eine Telefonnummer. **Weiterhin keine
+Bestellnummer, kein Betrag, keine Anschrift im Entwurf** — und das wird ihm
+offen gesagt. **Die Absage von 10:54 hat ihn dagegen mit „Dear Nathan"
+angesprochen und ihm eine Policy-Entscheidung mitgeteilt, ohne dass die
+Zuordnung gesichert ist.**
+
+Foto im Anhang — **nicht geöffnet, nicht ausgewertet.**
+
+**Eskalationsgrund:** angekündigte Meldung an eine Aufsichtsbehörde +
+bestrittene Werbeaussage + wiederholter unerledigter Kontakt (dritte Fassung) +
+ungesicherte Zuordnung.
+
+**Label:** `Bot/Escalated - Owner Attention`. **Dritte Fassung.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Dreizehn Kundenvorgänge am 19.09.**, dazu eine Betrugsmail.
+- **Siebenundsiebzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⛔ Vier Vorlagen-Absagen heute Vormittag, drei davon bereits mit Eskalation
+  beantwortet** — ein **Chargeback** (#7119), eine **ACCC-Meldung** (#7275),
+  eine **Richtigstellung eines erfundenen Sachverhalts** (#8372), dazu #7479 mit
+  Frist **Montag**. **Das ist der einzige Punkt, der heute wirklich dringt.**
+- **⚠️ Die Werbefrage steht jetzt auf zehn unabhängigen Kundenaussagen**, davon
+  **drei allein heute mit dem Wort „indestructible"** (#7119, #7275, sowie
+  #8372 sinngemäß über „the claim"). **Das Wort steht in keiner der zwölf
+  Produktbeschreibungen.**
+- **⛔ Vierzehn unbenutzte Artikel warten auf eine Rücksendeadresse** (#8372
+  bringt allein sechs unbenutzte Positionen mit).
+- **💷 Vier Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
+  #6528, #6159.

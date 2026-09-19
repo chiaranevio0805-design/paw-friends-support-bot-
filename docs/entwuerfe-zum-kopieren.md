@@ -12233,6 +12233,117 @@ Rekonstruktion, welche Anzeige sie gesehen hat.** **Keine Rücksendeadresse
 erfunden.** **Keine Umrechnung** zwischen der GBP-Bestellsumme und dem, was ihre
 Karte in AUD zeigt. Kein Eskalationsmarker im Text.
 
+## #8372 — Kerri Forbey (wollenzienk@hotmail.com) — US, nach der Vorlagen-Absage von 09:55 UTC
+
+**Betreff:** Re: Paw friends plushies
+
+> Dear Kerri,
+>
+> **The reply you had from us this morning said your toy was damaged after your
+> dog used it. That is not what you told us, and it is not what happened.** You
+> wrote that your dog *would* be able to shred it, and you asked where to send
+> everything back in its original packaging. **We answered a case you had never
+> made, and then refused it.** I am sorry. That was a bad reply and I am not
+> going to defend it.
+>
+> **What you actually have,** as you set out again this morning: **every item
+> untouched, in its original packaging, never given to your dog.** You judged the
+> products by handling them. **That is your judgement to make, and I am not going
+> to tell you it was too early.**
+>
+> **You have now asked twice for return instructions, so here is the honest
+> answer: we do not publish a returns address.** There is none I can give you and
+> I am not going to invent one. **Please do not post anything back yet** — I
+> would rather tell you there is nowhere to send it than let you pay for postage
+> to an address that does not exist.
+>
+> **On the refund.** That decision is the shop owner's, not mine, so **I am not
+> going to promise you one and I am not going to refuse you one.** Your case is
+> in front of him as it stands: **order #8372, $96.89 recorded on the order,
+> nothing refunded, delivered 16 September, every item unopened and unused, and a
+> return offered on the day it arrived.**
+>
+> **The point you made about the claim goes to him in your own words** — that you
+> could tell by handling the products that they would not stand up to it. I
+> cannot see the advertising you were shown from here and I am not going to guess
+> at it. He can look at it.
+>
+> **You should have had this answer on Wednesday, not a refusal this morning.**
+> If you hear nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ausdrückliche Richtigstellung einer falschen
+Tatsachenbehauptung über ihren eigenen Fall** (die Absage von 09:55 unterstellte
+einen Kauschaden, den es nie gab), die **Anerkennung ihres Urteils über einen
+unbenutzten Artikel**, die **wahre Begründung für die fehlende
+Rücksendeanleitung**, die Weitergabe mit allen Zahlen, und eine Nachfass-Zusage.
+**Keine Erstattung zugesagt, kein Betrag zugesagt, kein Termin, keine Absage.**
+**Keine Aussage, ihr Urteil sei verfrüht.** **Keine Rücksendeadresse erfunden**
+und ausdrückliche Bitte, nichts zu verschicken. **Keine Währungsumrechnung** —
+96,89 $ ist der auf der Bestellung selbst hinterlegte Betrag in ihrer Währung.
+**Keine Bewertung der Werbeaussage.** Kein Eskalationsmarker im Text.
+
+## #7275 — Nathan Corcoran (natcor1972@gmail.com) — dritte Fassung, ACCC angekündigt
+
+**Betreff:** Re: Indestructible
+
+> Dear Nathan,
+>
+> **The reply you had from us four minutes before you wrote back told you that
+> chew damage is not covered and refused you a refund. I am not going to stand
+> behind it.** It was a standard paragraph and it was not written for what you
+> said.
+>
+> **You asked for one thing and you gave one reason:** you bought from us because
+> the products were advertised to you as indestructible, and after about twenty
+> minutes they were not. **That is a question about our advertising. A paragraph
+> about chewing is not an answer to it.**
+>
+> **What I can tell you honestly.** I have read all twelve of our current product
+> descriptions, and the word "indestructible" is not in any of them. **That is
+> not me telling you that you did not see it.** I cannot see the advertisements
+> that were shown to you, and I am not going to guess at which ones they were.
+> **Your sentence goes to the shop owner exactly as you wrote it**, because he is
+> the only person who can look at the advertising itself.
+>
+> **On the ACCC.** That is entirely your decision. I am not going to try to talk
+> you out of it, I am not going to ask you to wait, and **nothing here is
+> conditional on it.** I have noted it for the owner as part of your message.
+>
+> **What I cannot do, and why.** Whether you are refunded is the owner's
+> decision, not mine — **so there is no promise and no refusal from me.** And
+> there is an administrative problem I would rather tell you about than hide:
+> **the address you write from is not recorded against any order in our system**,
+> so I cannot confirm from here which order is yours. **That is not me doubting
+> you** — it is me not matching a customer to an order on the strength of a name.
+> The shop owner can check it properly, and I have flagged it to him again. **It
+> is the reason this reply still contains no order details.**
+>
+> Your photographs are with your message. **I have not opened them**, and nothing
+> here depends on them.
+>
+> **Please do not post anything back in the meantime** — we have no returns
+> address I can give you.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Distanzierung von der Vorlagen-Absage von
+10:54 UTC**, die Benennung seiner Frage als **Werbefrage statt Kauschadenfrage**,
+die ehrliche Auskunft, was geprüft wurde und was von hier nicht einsehbar ist,
+die Weitergabe im Original, und die ausdrückliche Feststellung, dass die
+**ACCC-Meldung seine Sache ist und an nichts geknüpft wird**. **Keine Erstattung
+zugesagt, kein Betrag, kein Termin, keine Absage.** **Keine Behauptung, das Wort
+„indestructible" existiere nicht.** **Keine Rekonstruktion, welche Anzeige er
+gesehen hat.** **Weiterhin keine Bestellnummer, kein Betrag, keine Anschrift** —
+die Zuordnung ist ungesichert (Bestellung #7275 trägt keine E-Mail-Adresse), und
+das wird ihm offen gesagt. **Keine Auswertung der Fotos.** **Keine rechtliche
+Bewertung.** **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
