@@ -12344,6 +12344,75 @@ die Zuordnung ist ungesichert (Bestellung #7275 trägt keine E-Mail-Adresse), un
 das wird ihm offen gesagt. **Keine Auswertung der Fotos.** **Keine rechtliche
 Bewertung.** **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
 
+## #7547 — Luke Prior (lukepriora20@hotmail.com) — vierte Fassung, zweite Absage nach Gesetzesberufung
+
+**Betreff:** Re: No order
+
+> Dear Luke,
+>
+> **You have now had the same refusal twice — on Thursday and again this
+> morning — and the second one came after you had cited the Consumer Rights Act
+> 2015. That should not have happened, and I am not going to defend either
+> reply.**
+>
+> **What you asked was not answered.** You did not ask whether chewing is covered
+> by a returns policy. You said the toy was sold to you as indestructible and was
+> destroyed inside an hour, and you raised a statutory point about goods being as
+> described. **A paragraph about chew damage is not an answer to that.**
+>
+> **On the advertising, here is what I can honestly tell you.** I have read all
+> twelve of our current product descriptions and the word "indestructible" is not
+> in any of them. **That is not me telling you that you did not see it.** I cannot
+> see the advertising that was shown to you and I am not going to guess at it.
+> **Your wording goes to the shop owner exactly as you wrote it**, because he is
+> the only person who can look at the advertising itself.
+>
+> **On the legal point.** I am not going to give you a legal opinion in either
+> direction — I am not qualified to, and it would be worth nothing if I did. **I
+> am also not going to argue with you about it.** Your citation goes to the owner
+> in full, in your words.
+>
+> **On the wait, from our own records.** Your order was placed on 24 August. It
+> was not handed over for dispatch until 3 September — **it sat with us for ten
+> days before it moved at all** — and it reached you around the 15th. **That
+> delay was at our end**, and the reply you had on 13 September told you the UK
+> warehouse was sold out and the order went from the international one. That was
+> true, and it does not make the ten days before dispatch any less ours.
+>
+> **What I can and cannot decide.** Whether you are refunded is the shop owner's
+> decision, not mine. **I am not going to promise you a refund and I am not going
+> to refuse you one** — you have had two refusals from us already and a third
+> would be worth nothing to either of us. Your case is with him as it stands:
+> **order #7547, £19.95 recorded on the order, nothing refunded, ordered
+> 24 August, dispatched 3 September, destroyed within about an hour of use, full
+> refund requested under the Consumer Rights Act.**
+>
+> **I am not going to ask you to hold off on reporting this.** That is yours to
+> decide and nothing here is conditional on it.
+>
+> Your two photographs are with your message. **I have not opened them**, and
+> nothing here depends on them.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Anerkennung, dass er dieselbe Absage zweimal
+bekam — die zweite nach seiner Gesetzesberufung**, die Benennung seiner Frage
+als Werbe- und Gewährleistungsfrage statt Kauschadenfrage, die **überprüfbare
+Versandchronologie aus unserem eigenen Datensatz** samt der offenen Zurechnung
+der zehn Tage, die Weitergabe seiner Berufung im Original, und die ausdrückliche
+Feststellung, dass **seine Meldung an Dritte seine Sache ist und an nichts
+geknüpft wird**. **Keine Erstattung zugesagt, kein Betrag zugesagt, kein Termin,
+keine dritte Absage.** **Keine rechtliche Bewertung in eine der beiden
+Richtungen** — weder Zustimmung noch Widerspruch zu seiner CRA-Auslegung.
+**Keine Behauptung, das Wort „indestructible" existiere nicht.** **Keine
+Rekonstruktion, welche Anzeige er gesehen hat.** **Keine Auswertung der Fotos.**
+**Keine Rücksendeaufforderung** — es gibt keine Rücksendeadresse. **Kein Hinweis
+auf den Versanddienstleister.** Die Herkunftsangabe vom 13.09. wird **weder
+zurückgenommen noch beschönigt**, aber auch nicht als Entschuldigung für die
+zehn Tage benutzt. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

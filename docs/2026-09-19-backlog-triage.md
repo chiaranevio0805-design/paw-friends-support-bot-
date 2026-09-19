@@ -795,3 +795,99 @@ ungesicherte Zuordnung.
   bringt allein sechs unbenutzte Positionen mit).
 - **💷 Vier Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
   #6528, #6159.
+
+---
+
+## Lauf 12:20 UTC
+
+**Ein neuer Kundenvorgang — und eine Korrektur an meiner eigenen Zählung von
+11:20.**
+
+### ⚠️ Korrektur zum 11:20-Lauf: es waren **vier** Vorlagen-Absagen heute, nicht drei
+
+Im 11:20-Lauf habe ich drei Sendungen von heute aufgeführt (09:55, 10:09,
+10:54) und #7479 vom 15.09. danebengestellt. **Eine vierte Sendung von heute
+war mir entgangen: 10:44:48 UTC an #7547 Luke Prior.** Sie lag in einem Thread,
+der zu diesem Zeitpunkt keine ungelesene Eingangsnachricht hatte und deshalb
+nicht in der Trefferliste auffiel. **Die Zahl in der Tabelle von 11:20 ist
+damit falsch; richtig ist:**
+
+| Uhrzeit (UTC) | Empfänger | Land | Antwort des Kunden | Abstand |
+|---|---|---|---|---|
+| 15.09. 08:03 | #7479 Richard Bellamy-Williams | GB | sieben Beschwerdewege, Frist 21.09. | 4 h |
+| 17.09. 09:35 | **#7547 Luke Prior** | GB | **Berufung auf den Consumer Rights Act 2015** | 1 h 15 |
+| 09:55 | #8372 Kerri Forbey | US | Richtigstellung: nichts wurde je benutzt | 59 min |
+| 10:09 | #7119 Susan McGee | AU | Chargeback + öffentliche Beiträge | 7 min |
+| **10:44** | **#7547 Luke Prior** | GB | **Short-Term Right to Reject + angekündigte Meldung** | **1 h 17** |
+| 10:54 | #7275 Nathan Corcoran | AU | ACCC-Meldung angekündigt | 4 min |
+
+**Sechs Sendungen derselben Vorlage in fünf Tagen, vier davon heute Vormittag.
+Sechs von sechs sind negativ zurückgekommen.**
+
+---
+
+### ⛔ #7547 — Luke Prior (`lukepriora20@hotmail.com`), 19.09. 12:01 UTC — **zweite Absage nach einer Gesetzesberufung**
+
+**Der Ablauf ist der gravierendste Einzelfall des Tages, weil der Fehler hier
+zweimal hintereinander gemacht wurde:**
+
+- **17.09. 09:35** — er bekommt die Kauschaden-Vorlage.
+- **17.09. 10:50** — er antwortet mit einer **ausdrücklichen Berufung auf den
+  Consumer Rights Act 2015**: *„goods must be of satisfactory quality, fit for
+  purpose, and as described … I am entitled to a remedy"*, dazu der Vorwurf,
+  das Produkt sei **als „indestructible" beworben** worden.
+- **19.09. 10:44** — er bekommt **dieselbe Absage ein zweites Mal**, diesmal mit
+  dem Zusatz *„As explained …"*. **Auf die Gesetzesberufung geht sie mit keinem
+  Wort ein.**
+- **19.09. 12:01** — er beruft sich auf das **Short-Term Right to Reject**,
+  verlinkt die Gesetzesfassung und kündigt an: *„I will be reporting and
+  passing on my experience."*
+
+**Eine Verbraucherrechts-Berufung ist nach der Policy ein Eskalationsauslöser.
+Sie hat stattdessen eine zweite Vorlagen-Absage ausgelöst.**
+
+**Shopify-Datenlage (#7547):** bestellt **24.08.**, Versand angelegt erst
+**03.09.** — **zehn Tage** —, zugestellt um den **15.09.** (**22 Tage**). Ein
+Plushies, **19,95 £**, **0,00 £ erstattet**, `FULFILLED`/`PAID`.
+
+**Zur Herkunftsangabe:** Die Antwort vom **13.09.** hat ihm von sich aus
+mitgeteilt, das UK-Lager sei ausverkauft und die Bestellung sei aus dem
+internationalen Lager versandt worden. **Das ist eine offene Auskunft und wird
+im Entwurf nicht zurückgenommen** — sie wird aber auch **nicht als Erklärung
+für die zehn Tage bis zum Versand benutzt**, denn die lagen hier.
+
+**Zur Werbung:** *„an apparently **indestructible** toy destroyed in less than a
+few hours"* (15.09.) und *„the retailer explicitly marketed the toy as
+**'indestructible'**"* (heute). **Elfte unabhängige Kundenaussage zur Werbung,
+vierte allein heute mit genau diesem Wort** (#7119, #7275, #7547, dazu #8372
+sinngemäß). **Das Wort steht in keiner der zwölf Produktbeschreibungen.**
+
+**Keine rechtliche Bewertung im Entwurf** — weder Zustimmung noch Widerspruch
+zu seiner CRA-Auslegung. **Keine dritte Absage**, aber auch keine Zusage. Zwei
+Fotos vom 15.09. — **nicht geöffnet.**
+
+**Eskalationsgrund:** Verbraucherrechts-Berufung (zweimal) + bestrittene
+Werbeaussage + angekündigte Meldung + wiederholter unerledigter Kontakt
+(vierter Kontakt) + **zweite Vorlagen-Absage auf dieselbe Frage**.
+
+**Label:** `Bot/Escalated - Owner Attention`. **Vierte Fassung.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Vierzehn Kundenvorgänge am 19.09.**, dazu eine Betrugsmail.
+- **Achtundsiebzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⛔ Sechs Sendungen der Kauschaden-Vorlage in fünf Tagen, vier davon heute
+  Vormittag. Alle sechs sind negativ zurückgekommen:** zwei
+  Verbraucherrechts-Berufungen, ein Chargeback, eine ACCC-Meldung, eine
+  Richtigstellung eines erfundenen Sachverhalts, sieben Beschwerdewege.
+  **Das bleibt der einzige Punkt, der heute wirklich dringt.**
+- **⚠️ Elf unabhängige Kundenaussagen zur Werbung**, vier davon heute mit dem
+  Wort „indestructible".
+- **⏱️ Zwölfte Bestellung mit auffälliger Versandverzögerung** (#7547: zehn
+  Tage bis zum Versand).
+- **💷 Vier Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
+  #6528, #6159.
+- **Zwei Fristen am Montag, 21.09.:** #7479, #6259.
