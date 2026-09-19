@@ -1003,3 +1003,106 @@ Erstattungsentscheidung außerhalb der Regel + eigener Versandverzug).
   Tage).
 - **💷 Vier Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
   #6528, #6159.
+
+---
+
+## Lauf 14:20 UTC
+
+**Ein neuer Kundenvorgang — und die fünfte Vorlagen-Absage von heute, die mir
+bis eben entgangen war.**
+
+### ⛔ #7347 — Jill Hibbs (`hibbsjill@yahoo.com`), 19.09. 13:59 UTC — zweimal abgelehnt für etwas, das sie nie getan hat
+
+**Der Ablauf:**
+
+- **15.09. 21:09** — *„My order was delivered today and within minutes my pet
+  has pulled off its feet (see photo). These fluffies were **advertised as
+  indestructible**. I would like to return **both** toys for a full refund."*
+  Zwei Fotos.
+- **17.09. 10:35** — sie bekommt die Kauschaden-Vorlage.
+- **17.09. 11:47** — sie stellt ausdrücklich klar: *„I did buy 2 as I had such
+  faith in your spiel. **After seeing the destruction made of the first toy I
+  obviously did not give the second toy to my dog.** I would like to return this
+  toy **in line with your policy**."*
+- **19.09. 10:54** — sie bekommt **dieselbe Absage ein zweites Mal**, wieder mit
+  *„damage caused by chewing … after delivery is not covered"*. **Auf den
+  unbenutzten zweiten Artikel geht sie mit keinem Wort ein.**
+- **19.09. 13:59** — *„I would like to return **the item which is not damaged** —
+  I bought 2. **Please can you arrange a return and refund for this item.**"*
+
+**Der Artikel, den sie zurückgeben will, war nie am Hund.** Die Absage lehnt
+einen Kauschaden ab, den es bei diesem Artikel nicht gibt. **Das ist derselbe
+Fehler wie bei #8372, #7119 und #7479 — bei ihr zum zweiten Mal.**
+
+**Shopify-Datenlage (#7347):** bestellt **23.08.**, Versand angelegt erst
+**02.09.** — **zehn Tage** —, zugestellt **15.09.** (**23 Tage**). Zwei
+Paw-Friends™-Fluffys (frog, giraffe, BOGO), **29,95 £**, **0,00 £ erstattet**.
+
+**Wie bei #7479 ist das der Produkttyp, bei dem die Sache eindeutig ist:** die
+**Fluffys-Produktbeschreibung führt „✓ 30-day money-back guarantee" ohne jede
+Bedingung** (Vollabgleich aller zwölf Produkttexte am 18.09.). Ihr Artikel ist
+unbenutzt, sie hat **zwei Tage nach Zustellung** um Rückgabe gebeten. **Im
+Entwurf wird ihr der eigene Produkttext wahrheitsgemäß wiedergegeben** — es wird
+**keine „unbenutzt"-Bedingung erfunden**, die dort nicht steht, und trotzdem
+**nichts zugesagt**: die Entscheidung bleibt beim Owner.
+
+**„Advertised as indestructible"** — **zwölfte unabhängige Kundenaussage zur
+Werbung, fünfte allein heute.**
+
+**Zwei Fotos vom 15.09. — nicht geöffnet.**
+
+**Eskalationsgrund:** zweite Vorlagen-Absage auf dieselbe Frage + unbenutzte
+Ware ohne Rücksendeweg + bestrittene Werbeaussage + dritter Kontakt.
+
+**Label:** `Bot/Escalated - Owner Attention`. **Zweite Fassung.**
+
+---
+
+### ⚠️ Korrektur: es waren **fünf** Vorlagen-Absagen heute, nicht vier
+
+Die Sendung **10:54:21 UTC an #7347** kam achtzehn Sekunden vor der an #7275 und
+ist mir in den Läufen 11:20 und 12:20 entgangen — aus demselben Grund wie bei
+#7547: **ihr Thread trug zu diesem Zeitpunkt keine ungelesene
+Eingangsnachricht.** Richtig ist damit:
+
+| Uhrzeit (UTC) | Empfänger | Land | Antwort | Abstand |
+|---|---|---|---|---|
+| 15.09. 08:03 | #7479 Bellamy-Williams | GB | sieben Beschwerdewege | 4 h |
+| 17.09. 09:35 | #7547 Prior | GB | Consumer Rights Act 2015 | 1 h 15 |
+| 17.09. 10:35 | **#7347 Hibbs** | GB | *„I obviously did not give the second toy to my dog"* | 1 h 12 |
+| 09:55 | #8372 Forbey | US | *„I did not give them to my dog"* | 59 min |
+| 10:09 | #7119 McGee | AU | Chargeback + öffentliche Beiträge | 7 min |
+| 10:44 | #7547 Prior | GB | Short-Term Right to Reject | 1 h 17 |
+| **10:54:21** | **#7347 Hibbs** | GB | **erneute Rückgabebitte für den unbenutzten Artikel** | **3 h 05** |
+| 10:54:39 | #7275 Corcoran | AU | ACCC | 4 min |
+
+**Acht Sendungen derselben Vorlage in fünf Tagen. Acht von acht sind negativ
+zurückgekommen.** **Drei Kunden haben sie zweimal bekommen** (#7547, #7347 — und
+#7479 wartet seit fünf Tagen auf irgendeine Antwort).
+
+**Vier der acht gingen an Kunden, die einen unbenutzten Artikel zurückgeben
+wollten** (#7479, #7119, #8372, #7347). **Bei ihnen lehnt die Vorlage einen
+Schaden ab, den es nicht gibt.**
+
+**Methodischer Hinweis für die folgenden Läufe:** `in:inbox` allein zeigt
+gesendete Nachrichten in ruhenden Threads nicht. **Ab sofort wird in jedem Lauf
+zusätzlich `in:sent after:<heute>` geprüft** — die beiden Übersehen von heute
+(#7547, #7347) wären damit sofort aufgefallen.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Sechzehn Kundenvorgänge am 19.09.**, dazu eine Betrugsmail.
+- **Achtzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **🔴 #6259: Erstattung heute als ausgeführt gemeldet, in Shopify nicht
+  vorhanden. Trading Standards, Frist Montag.** Weiterhin der dringlichste Punkt.
+- **⛔ Acht Sendungen der Kauschaden-Vorlage in fünf Tagen, fünf davon heute.
+  Alle acht negativ zurückgekommen. Vier davon an Kunden mit unbenutzter Ware.**
+- **⛔ #7479 hat als einziger akuter Fall heute keine Antwort bekommen** —
+  fünfter Kontakt, Frist Montag.
+- **⚠️ Zwölf unabhängige Kundenaussagen zur Werbung**, fünf davon heute mit dem
+  Wort „indestructible".
+- **💷 Vier Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
+  #6528, #6159.

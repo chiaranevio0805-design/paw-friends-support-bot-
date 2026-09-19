@@ -12465,6 +12465,68 @@ Bestellung. **Kein Widerspruch zu ihrer Beschreibung der Artikel** („a monkey
 and a duck"); die Bestellzeilen führen keine Variante, also wird sie nicht
 korrigiert. Kein Eskalationsmarker im Text.
 
+## #7347 — Jill Hibbs (hibbsjill@yahoo.com) — zweite Fassung, zweimal abgelehnt für etwas, das sie nie getan hat
+
+**Betreff:** Re: Order #7347 confirmed
+
+> Dear Jill,
+>
+> **You have now asked the same thing three times, and you have been refused
+> twice for something you never did. I am not going to defend either reply.**
+>
+> On Tuesday you told us one toy was destroyed within minutes. **On Thursday you
+> told us plainly that after seeing that, you did not give the second toy to your
+> dog**, and you asked to return it. **This morning you were sent a refusal about
+> chew damage anyway.** The toy you want to return has never been near your dog.
+> **That refusal was not an answer to your question.**
+>
+> **You asked to return it "in line with your policy", so here is what our own
+> product page actually says.** The Paw-Friends™ Fluffys page lists a 30-day
+> money-back guarantee, and **it does not attach a condition to it.** I am not
+> going to pretend otherwise to you.
+>
+> **On the advertising.** You said twice that these were advertised as
+> indestructible. I have read all twelve of our current product descriptions and
+> that word is not in any of them. **That is not me telling you that you did not
+> see it** — I cannot see the advertising you were shown and I am not going to
+> guess at it. **Your words go to the shop owner as you wrote them.**
+>
+> **What I cannot do is decide your refund.** That is the owner's call, not mine,
+> so **I am not going to promise you one — and I am certainly not going to refuse
+> you a third time.** What I have done is put it in front of him exactly as it
+> stands: **order #7347, two Fluffys, £29.95 recorded on the order, nothing
+> refunded, delivered 15 September, one toy destroyed within minutes, one toy
+> never used, a return requested on 17 September and again today.**
+>
+> **And here is the part I would rather tell you straight than dress up: the
+> reason you have had no return instructions is that we do not publish a returns
+> address.** There is none I can give you and I am not going to invent one.
+> **Please do not post anything back until you hear otherwise** — I would rather
+> you knew that than pay postage to nowhere.
+>
+> Your photographs are with your first message. **I have not opened them**, and
+> nothing here depends on them.
+>
+> If you have heard nothing in a few days, reply here and I will chase it again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Anerkennung, dass sie zweimal für einen
+Kauschaden abgelehnt wurde, den es bei dem fraglichen Artikel nie gab**, die
+**wahrheitsgemäße Wiedergabe des eigenen Produkttextes** (Fluffys-Seite führt
+die 30-Tage-Garantie **ohne Bedingung**), die ehrliche Auskunft zur Werbefrage,
+die Weitergabe mit allen Zahlen, die **wahre Begründung für die fehlende
+Rücksendeanleitung**, und eine Nachfass-Zusage. **Keine Erstattung zugesagt,
+kein Betrag zugesagt, kein Termin, keine dritte Absage.** **Keine erfundene
+„unbenutzt"-Bedingung** — im Gegenteil, es wird gesagt, dass die
+Fluffys-Beschreibung keine enthält. **Keine Behauptung, das Wort
+„indestructible" existiere nicht.** **Keine Rekonstruktion, welche Anzeige sie
+gesehen hat.** **Keine Auswertung der Fotos.** **Keine Rücksendeadresse
+erfunden**, ausdrückliche Bitte, nichts zu verschicken. **Keine rechtliche
+Bewertung.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
