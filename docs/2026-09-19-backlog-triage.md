@@ -1655,3 +1655,79 @@ wortgetreuem Zitat des eigenen Produkttexts + Entscheidung außerhalb der Regel)
    schreibt die Kauschaden-Absage an, die heute **achtmal** rausging — insgesamt
    **vierzehnmal an elf Kunden in fünf Tagen**, und **kein einziges Mal hat sie
    einen Fall beendet.**
+
+---
+
+## Lauf 20:20 UTC
+
+**Ein neuer Kundenvorgang. Keine neuen Sendungen aus dem Shop-Konto seit 10:57.**
+
+### ⛔ #7771 — Barb Fitzgerald (`justbcuz7025@yahoo.com`), 19.09. 20:14 UTC — **fünfter Kontakt**, und eine nachweislich falsche Versandauskunft
+
+> *„I have received my order and am very disappointed … within 10 minutes he had
+> chewed a hole in it and was taking out the stuffing. **So much for being
+> indestructible!** Now since the chew toy **did not live up to your claim** I am
+> asking for refund of this purchase!"*
+
+**Ihr Verlauf seit dem 30.08.:**
+
+| Datum | Vorgang |
+|---|---|
+| 25.08. | Bestellung #7771, **38,87 $** |
+| **30.08.** | Erste Nachfrage: ist sie versandt? Nennt bereits eine mögliche Rückbuchung. |
+| **01.09.** | Antwort: *„I can confirm that order **#7771 has been shipped and is currently on the way**."* |
+| **08.09.** | *„I have not received my order yet."* |
+| **09.09.** | *„Where is my order? I have no way of tracking it. … **you people seem to be evading this order issue**. If I get no reply within a day I will contact my credit card company."* |
+| **13.09.** | Antwort mit Sendungsnummer 4PX3003124889886CN. |
+| **19.09.** | Erhalten, in zehn Minuten durchgekaut, Erstattung verlangt. |
+
+**🔴 Der Befund aus dem eigenen Datensatz:** `fulfillments.createdAt` für #7771
+ist **03.09.2026 07:47 UTC**. **Die Auskunft vom 01.09., die Bestellung sei
+bereits versandt und unterwegs, war an dem Tag, an dem sie gegeben wurde,
+unzutreffend.** Der Versand wurde **zwei Tage später** angelegt.
+
+**Das ist dasselbe Muster wie bei #4604 Kloepfer**, dort in umgekehrter Richtung
+(„hasn't been dispatched", obwohl schon versandt). **Beide Male wurde ein
+Versandstand behauptet, den der eigene Datensatz nicht hergab.**
+
+**Im Entwurf wird das ungefragt richtiggestellt** — mit beiden Daten, damit sie
+es nachprüfen kann.
+
+**Shopify (#7771):** bestellt **25.08.**, Versand **03.09.** (**neun Tage**),
+zwei Plushies, **£28,52 / $38,87** (presentment USD), **0,00 £ erstattet**,
+Madison, **South Dakota (US)**. **Siebzehnte Bestellung mit auffälliger
+Versandverzögerung.**
+
+**Zur Zuordnung:** Die Bestellung trägt **`email: null`**. Der Kundenname lautet
+**Barb Fitzgerald** und deckt sich mit ihrer Unterschrift; entscheidend ist
+aber, dass **die ihr am 13.09. genannte Sendungsnummer die des Auftrags ist**.
+**Im Entwurf wird ihr genau das gesagt** — die Zuordnung beruht auf der
+Sendungsnummer, nicht auf dem Namen.
+
+**Neunzehnte unabhängige Kundenaussage zur Werbung**, zwölfte heute.
+
+**Zur Füllung:** Sie **beschreibt**, dass der Hund die Füllung herausholte.
+**Sie äußert keine Sorge um die Gesundheit, und es wird ihr keine unterstellt.**
+Im Entwurf steht **nichts** über Füllmaterial, Verschlucken oder Sicherheit.
+
+**Ihre Chargeback-Ankündigungen vom 30.08. und 09.09. hat sie heute nicht
+wiederholt** — sie werden im Entwurf **nicht aufgegriffen.**
+
+**Label:** `Bot/Escalated - Owner Attention` (wiederholter unerledigter Kontakt,
+fünfter + bestrittene Werbeaussage + nachweislich falsche Auskunft durch uns).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Siebenundzwanzig Kundenvorgänge am 19.09.**, dazu eine Betrugsmail.
+- **Einundneunzig Entwürfe**, **davon neunzehn heute.** **Keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **🔴 Neuer Befund: falsche Versandauskunft am 01.09. an #7771** — zweiter
+  belegter Fall nach #4604.
+- **⏰ #8669** — Storno elf Minuten nach Bestellung, nichts versandt.
+- **🔴 #6259 und #5148** — Trading Standards, Erstattung gemeldet, in Shopify
+  `refunds: []`. **#6259 Frist Montag.**
+- **⛔ #7479** — fünfter Kontakt, heute keine Antwort, Frist Montag.
+- **🟦 Werbeaussage belegt** (Klaviyo-Mail vom 27.08.).
+- **⚠️ Neunzehn unabhängige Kundenaussagen zur Werbung**, zwölf davon heute.

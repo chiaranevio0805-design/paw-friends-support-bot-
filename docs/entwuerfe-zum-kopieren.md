@@ -13040,6 +13040,70 @@ weder des Belegs noch des Produktfotos. **Keine Deutung seiner Formulierung.**
 Rücksendeadresse erfunden.** **Keine Umrechnung** — 38,90 $ ist der Betrag in
 seiner Währung auf der Bestellung. Kein Eskalationsmarker im Text.
 
+## #7771 — Barb Fitzgerald (justbcuz7025@yahoo.com) — US, fünfter Kontakt, Versandauskunft vom 01.09. war unzutreffend
+
+**Betreff:** Re: order #7771
+
+> Dear Barb,
+>
+> **Before I answer about the toy, there is something in our own records that you
+> are owed, and I would rather say it than let it sit there.**
+>
+> **On 1 September we told you your order "has been shipped and is currently on
+> the way". Our own record shows it was not handed over for dispatch until
+> 3 September.** So on the day we told you it had shipped, it had not. **That was
+> wrong, it came from us, and I am not going to dress it up.** The order was
+> placed on 25 August — **nine days sat here before it moved at all.**
+>
+> **So you know how I matched this:** the tracking number you were given,
+> 4PX3003124889886CN, is the one recorded against order #7771. That is what ties
+> your emails to the order, not a name.
+>
+> **Now the toy.** Ten minutes, a hole chewed through, stuffing coming out. **I
+> am not going to argue with you about that**, and I am not going to send you a
+> paragraph explaining that chewing is not covered.
+>
+> **On "so much for being indestructible".** I have read all twelve of our
+> current product descriptions and that word is not in any of them. **That is not
+> me telling you that you did not see it** — I cannot see the advertising you
+> were shown and I am not going to guess at it. **Your sentence goes to the shop
+> owner exactly as you wrote it**, because he is the only one who can look at the
+> advertising itself.
+>
+> **On the refund you are asking for.** That decision is the shop owner's, not
+> mine, so **I am not going to promise you one and I am not going to refuse you
+> one.** Your request is with him as it stands: **order #7771, two Plushies,
+> $38.87 recorded on the order, nothing refunded, ordered 25 August, dispatched
+> 3 September, chewed through within ten minutes, full refund requested — and a
+> shipping confirmation from us on 1 September that our own record does not
+> support.**
+>
+> **You have written five times since 30 August. You should not have had to.** If
+> you have heard nothing in a few days, reply here and I will chase it again.
+>
+> **Please do not post anything back in the meantime** — we have no returns
+> address I can give you.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ungefragte Richtigstellung einer falschen
+Versandauskunft** aus unserem eigenen Datensatz (Zusage am 01.09., Versand
+tatsächlich erst am 03.09.), die **offene Zurechnung der neun Tage**, die
+**Offenlegung, worauf die Zuordnung beruht** (Sendungsnummer, nicht Name), die
+ehrliche Auskunft zur Werbefrage, die Weitergabe mit allen Zahlen, und eine
+Nachfass-Zusage. **Keine Erstattung zugesagt, kein Betrag zugesagt, kein Termin,
+keine Absage, keine Vorlagen-Antwort.** **Keine Behauptung, das Wort
+„indestructible" existiere nicht.** **Keine Rekonstruktion der Anzeige.**
+**Keine Aussage über Füllmaterial, Verschlucken oder Sicherheit** — sie hat die
+Füllung beschrieben, keine Sorge geäußert, und es wird ihr keine unterstellt.
+**Kein Aufgreifen ihrer früheren Chargeback-Ankündigung** — sie hat sie heute
+nicht wiederholt. **Kein Hinweis auf den Versanddienstleister, keine
+Herkunftsangabe.** **Keine Rücksendeadresse erfunden.** **Keine Umrechnung** —
+38,87 $ ist der Betrag in ihrer Währung auf der Bestellung. Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
