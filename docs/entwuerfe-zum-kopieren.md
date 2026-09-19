@@ -12910,6 +12910,87 @@ keine Aufforderung, selbst nachzuforschen. **Keine Herkunftsangabe.** **Keine
 Spekulation, warum die Nummer einen Fehler zeigt.** **Keine Umrechnung** — es
 wird kein Betrag genannt, weil keiner nötig ist. Kein Eskalationsmarker im Text.
 
+## #8669 — Chad Lovell (havoc17@aol.com) — Stornierung elf Minuten nach der Bestellung, nichts versandt
+
+**Betreff:** Re: How do I cancel my order
+
+> Dear Chad,
+>
+> **Yes — and your timing is good.** You ordered at 18:17 our time and wrote
+> eleven minutes later. **Order #8669 has not been dispatched: both items are
+> still recorded as unfulfilled and nothing has been handed over.**
+>
+> **What I have done:** your cancellation request has gone straight to the shop
+> owner, with the order number, the time you sent it, and the fact that nothing
+> has shipped. **He is the only one who can actually stop it and release the
+> money, so I am not going to tell you it is done when it is not** — but there is
+> nothing in the way of it.
+>
+> **What you should not do is wait and see.** If you get a dispatch notification
+> for #8669 in the next day or two, reply to this email straight away and I will
+> chase it again.
+>
+> **You do not need to give a reason and I am not going to ask you for one.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **überprüfbare Bestätigung, dass noch nichts versandt
+ist** (`UNFULFILLED`, keine Fulfillment-Einträge), die sofortige Weitergabe mit
+Zeitstempel, und eine Nachfass-Zusage. **Keine Stornierung bestätigt** — sie ist
+nicht ausgeführt und wird ausdrücklich nicht als erledigt dargestellt. **Keine
+Erstattung zugesagt, kein Termin.** **Keine Rückfrage nach dem Grund** — die
+Rückfrage-Vorlage bei Stornierungen widerspricht Regel 3 und wird nicht benutzt.
+Kein Eskalationsmarker im Text.
+
+## #6002 — Matt Bell (wmbelli@aol.com) — US, beide Artikel zerstört, Erstkontakt hier
+
+**Betreff:** Re: My dog has destroyed both toys you sent me
+
+> Dear Matt,
+>
+> Thank you for forwarding this, and I am sorry it is about this. **Both toys,
+> destroyed.** That is not what you paid for.
+>
+> **You asked one plain question — what do you do — so here is a plain answer.**
+>
+> **From you: nothing.** You do not need to send anything else, and **please do
+> not post the toys back to us** — we have no returns address I can give you, and
+> I would rather tell you that straight than have you pay postage to nowhere.
+> Your photograph arrived with your message. **I have not opened it**, and
+> nothing here depends on it.
+>
+> **From me: your case is already with the shop owner**, with what our records
+> show: **order #6002, two Plushies, $41.20 recorded on the order, nothing
+> refunded, ordered 13 August, dispatched 22 August, both items destroyed.**
+>
+> **What I cannot do is decide it.** A refund is the shop owner's call and not
+> mine, **so I am not going to promise you one and I am not going to refuse you
+> one.** I would rather tell you honestly where your request sits than send you a
+> tidy answer that settles nothing.
+>
+> **One practical note.** Your original message went to `support@wowpetsmart.com`.
+> **That is not an address we read** — this one is, and your forward arrived here
+> fine. If you write again, reply to this email and it will reach the same desk.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** eine **direkte Antwort auf seine Frage „what do I do"**
+(nämlich: nichts), die Weitergabe mit allen Zahlen, der **praktische Hinweis,
+welche Adresse gelesen wird**, und eine Nachfass-Zusage. **Keine Erstattung
+zugesagt, kein Betrag zugesagt, kein Termin, keine Vorlagen-Absage.** **Keine
+Aussage, die Garantie decke Kauschaden.** **Keine Fotobedingung**, das Bild
+wurde **nicht geöffnet.** **Keine Rücksendeadresse erfunden.** **Keine
+Spekulation darüber, was `wowpetsmart.com` ist** oder in welchem Verhältnis es
+zum Shop steht — es wird nur gesagt, dass wir diese Adresse nicht lesen.
+**Keine Umrechnung** — 41,20 $ ist der Betrag in seiner Währung auf der
+Bestellung. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

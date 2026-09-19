@@ -1492,3 +1492,92 @@ nur der Owner treffen kann.
   bei ihr steht die Sendung seit elf Tagen still.
 - **💷 Vier Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
   #6528, #6159.
+
+---
+
+## Lauf 18:20 UTC
+
+**Zwei neue Kundenvorgänge, beide Erstkontakte. Keine neuen Sendungen aus dem
+Shop-Konto seit 10:57.**
+
+### ⏰ #8669 — Chad Lovell (`havoc17@aol.com`), 19.09. 17:28 UTC — **Stornierung elf Minuten nach der Bestellung**
+
+> *„Order # 8669. I'd like to cancel the order. Chad"*
+
+**Shopify (#8669), soeben abgefragt:**
+
+| Feld | Wert |
+|---|---|
+| Bestellt | **19.09.2026, 17:17:37 UTC** |
+| Storno-Wunsch | **19.09.2026, 17:28:24 UTC — elf Minuten später** |
+| `displayFulfillmentStatus` | **`UNFULFILLED`** |
+| `fulfillments` | **leer** |
+| `cancelledAt` | **`null`** |
+| Betrag | **£28,51 / $38,19** |
+| Artikel | zwei Plushies, beide `unfulfilledQuantity: 1` |
+
+**Das ist der am leichtesten zu lösende Fall des ganzen Tages, und er hat ein
+Zeitfenster.** Nichts ist versandt. Die bisherigen Bestellungen lagen **acht bis
+zwölf Tage** hier, bevor sie bewegt wurden — es ist also Zeit. **Aber am 18.09.
+steht im Log, dass genau dieses Fenster bei #6870 und #6905 verpasst wurde:
+beide waren versandt, bevor die Stornierung ausgeführt werden konnte.**
+
+**`orderCancel` ist für diesen Bot gesperrt** (`{"blocked":true,"category":
+"financial"}`), ebenso `refundCreate`. **Der Owner muss es ausführen.**
+
+Im Entwurf wird ihm **bestätigt, dass nichts versandt ist** — das ist
+überprüfbar —, aber **die Stornierung ausdrücklich nicht als erledigt
+dargestellt**. **Keine Rückfrage nach dem Grund** (die Rückfrage-Vorlage bei
+Stornierungen widerspricht Regel 3 und steht seit dem 29.08. auf der
+Abschaltliste).
+
+**Label:** `Bot/Needs Approval`. **Zeitkritisch.**
+
+---
+
+### #6002 — Matt Bell (`wmbelli@aol.com`), 19.09. 17:52 UTC — Erstkontakt hier, beide Artikel zerstört
+
+> *„My dog has destroyed both toys you sent me. See attached pictures. **What do
+> I do?** Thank you, Matt Bell"*
+
+**Vorab-Suche nach älteren Threads desselben Absenders:** ein einziger Thread.
+
+**Der Vorgang ist eine Weiterleitung.** Seine ursprüngliche Mail vom 19.09.
+10:52 ging an **`support@wowpetsmart.com`** — nicht an dieses Postfach. Er hat
+sie anschließend selbst hierher weitergeleitet.
+
+**Das wird hier nur als Tatsache festgehalten.** **Es wird nicht spekuliert, was
+`wowpetsmart.com` ist oder in welchem Verhältnis es zum Shop steht** — dazu
+liegen keine Daten vor. **Für den Owner ist es trotzdem eine Beobachtung wert:**
+ein Kunde mit einer Paw-Friends-Bestellung schreibt seine Beschwerde zuerst an
+eine fremde Support-Adresse. Im Entwurf wird ihm nur gesagt, dass diese Adresse
+hier nicht gelesen wird und welche es ist.
+
+**Shopify (#6002):** bestellt **13.08.**, Versand **22.08.** (**neun Tage**),
+zwei Plushies, **£30,54 / $41,20** (presentment USD, **nichts umgerechnet**),
+**0,00 £ erstattet**, Pensacola, **Florida (US)**. Letzte Aktualisierung der
+Sendung: **22.08.** — dieselbe Auffälligkeit wie bei #8080, hier aber ohne
+Beanstandung des Kunden, deshalb **keine Behauptung über den Verbleib**.
+
+Ein Foto — **nicht geöffnet.** **Kein Foto verlangt.** Kauschaden fällt nicht
+unter die Erstattungsregel: **keine Erstattung ausgeführt, keine zugesagt, keine
+Vorlagen-Absage** — seine Frage *„what do I do"* wird direkt beantwortet.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Fünfundzwanzig Kundenvorgänge am 19.09.**, dazu eine Betrugsmail.
+- **Neunundachtzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⏰ #8669: Stornierung elf Minuten nach der Bestellung, nichts versandt.
+  Ausführbar, solange nichts rausgeht.**
+- **🔴 Zwei Trading-Standards-Fälle mit gemeldeter, aber nicht verzeichneter
+  Erstattung:** **#6259** (Frist **Montag**) und **#5148**.
+- **⛔ #7479: fünfter Kontakt, heute keine Antwort, Frist Montag.**
+- **🟦 Die Werbeaussage ist belegt** (Klaviyo-Mail vom 27.08.).
+- **⛔ Vierzehn Sendungen der Kauschaden-Absage an elf Kunden in fünf Tagen.**
+- **💷 Vier Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
+  #6528, #6159.
