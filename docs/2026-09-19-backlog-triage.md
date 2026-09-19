@@ -1274,3 +1274,123 @@ derzeit keine Rücksendeadresse.** Keine Vorlagen-Absage, keine Zusage.
   ausdrücklich, er habe sie nie bekommen.
 - **💷 Vier Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
   #6528, #6159.
+
+---
+
+## Lauf 16:20 UTC
+
+**Zwei neue Kundennachrichten. Keine neuen Sendungen aus dem Shop-Konto seit
+10:57.**
+
+### 🔴 #5148 — Trudi Wright (`truditrotter67@icloud.com`), 19.09. 15:57 UTC — **zweiter Trading-Standards-Fall des Tages**
+
+> *„It has been 2 weeks since I asked for a refund. I wanted to send the item
+> back and get a full refund **like it says on your website**. But that wasn't
+> possible for some reason only known to yourselves. **I don't believe you have
+> any intention of paying the 50% refund** which I was offered and very
+> reluctantly accepted. You give me no choice **I have been in touch with trading
+> standards**. And they are looking into this matter."*
+
+**Der vollständige Verlauf, aus dem Thread gelesen:**
+
+| Datum | Vorgang |
+|---|---|
+| **24.08.** | Zustellung. **Beide Artikel bleiben ungeöffnet in den Originalbeuteln.** Sie bittet um Rückgabe und volle Erstattung. |
+| **25.08.** | Antwort: die Artikel *„may be eligible for return under our 30-day money-back guarantee"*, man habe die Anfrage weitergeleitet, das Team werde **„the return address and further instructions"** schicken. **„Please do not send the items back until you receive the official return details."** |
+| **02.09.** | Sie fragt nach — nichts gekommen. |
+| **03.09.** | Statt der Adresse: **30 % Teilerstattung**. |
+| **03.09.** | Sie besteht auf voller Erstattung und Rücksendeetikett. |
+| **04.09.** | **Nochmals 30 %** (im Text verschrieben als „4 0%"). |
+| **05.09.** | Sie besteht erneut. *„They still remain unopened in original packaging awaiting a return label."* |
+| **06.09.** | **50 %** angeboten. Sie nimmt an: *„With due consideration I will reluctantly accept."* |
+| **07.09.** | **„The 50% partial refund has now been processed"** — angeredet mit **„Dear Customer"**. |
+| **15.09.** | Sie: noch nichts angekommen. |
+| **16.09.** | **„has already been processed"** (zweite Zusage). |
+| **16.09.** | Sie: *„I can assure you I have waited over a week."* |
+| **18.09.** | **„has been processed"** (dritte Zusage). |
+| **19.09.** | **Trading Standards.** |
+
+**Shopify zu #5148, soeben abgefragt:** `displayFinancialStatus` **`PAID`**,
+`totalRefundedSet` **0,00 £**, `refunds` **`[]`**, Bestellwert **27,95 £**,
+bestellt 08.08., versandt 13.08.
+
+**Damit ist das der fünfte Fall des Musters „als ausgeführt gemeldet, in Shopify
+nicht vorhanden"** — nach #6583, #4998, #6259 (heute) und diesem. **Und der
+zweite Trading-Standards-Fall an einem einzigen Tag.**
+
+**Es ist ausdrücklich möglich, dass außerhalb von Shopify gezahlt wurde.** Das
+kann von hier nicht geprüft werden, und der Entwurf sagt ihr genau das — **er
+behauptet nicht, es sei nicht gezahlt worden, sondern dass nichts verzeichnet
+ist**, und wiederholt die Zusage **nicht** zum vierten Mal.
+
+**Der zweite Teil ihres Falls ist genauso schwer:** Am **25.08. wurde ihr eine
+Rücksendeadresse ausdrücklich zugesagt** und sie wurde gebeten, **nichts zu
+schicken, bis sie kommt.** Sie ist nie gekommen — **weil es keine gibt.** Sie
+hat vier Wochen auf etwas gewartet, das nicht existiert, und in der Zwischenzeit
+drei Prozentangebote bekommen, statt der Antwort, dass es die Adresse nicht
+gibt. **Das steht jetzt so im Entwurf.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### #7608 — Patricia Arenella (`patty.arenella@gmail.com`), 19.09. 15:30 UTC — Werbung, fehlender Gratisartikel, Sicherheitssorge
+
+> *„**Your advertisement stated that the toys are indestructible** and for dogs
+> that destroy toys. My dog had it in his mouth for 5 minutes before she tore it
+> apart. … It was also **advertised that buy one get one free which I never
+> received**. I would like a complete refund **for false advertising** of a
+> product and for not sending the a free one."*
+
+**Ihre Erstmeldung vom 13.09. enthielt drei Punkte:** Zerstörung in drei
+Minuten, *„This was **guaranteed not to be destroyed**"*, und **eine Sorge wegen
+der Füllung** (*„very dangerous for my dog to swallow"*). Sie bot ein Foto an.
+
+**Die einzige Antwort, die sie bekam, war die Vorlage vom 15.09. 07:28 — und
+zwar die Variante, die mit „As explained" beginnt.** Es war die **erste** Antwort
+in diesem Thread. **Es war nichts erklärt worden.** Zwei ihrer drei Punkte wurden
+nicht beantwortet.
+
+**Shopify (#7608):** bestellt 24.08., Versand **03.09.** (**zehn Tage**), eine
+Position Plushies, **£20,35 / $27,75** (presentment USD, **nichts umgerechnet**),
+**0,00 £ erstattet**, East Meadow, **New York (US)**.
+
+**Zum fehlenden Gratisartikel:** Ihre Bestellbestätigung führt **eine** Position
+mit der Rabattzeile **„BUY 1 (-$14.25)"**. Bei anderen Bestellungen lautet die
+Zeile **„BUY 1 AND GET 1 FREE"** und es stehen zwei Positionen darin. **Welches
+Angebot ihr angezeigt wurde, ist von hier nicht feststellbar** — im Entwurf wird
+die Rabattzeile **faktisch wiedergegeben und nicht gedeutet**, und es wird ihr
+**weder bestätigt noch bestritten**, dass ein Gratisartikel versprochen war.
+
+**Zur Füllung:** **Keine Aussage zur Materialsicherheit oder Toxizität in
+irgendeine Richtung** — die Sorge wird aufgenommen, weitergegeben und sie wird
+für die Gesundheitsfrage an ihren Tierarzt verwiesen. **Kein Foto verlangt.**
+
+**Eskalationsgrund:** bestrittene Werbeaussage + Sicherheitsmeldung + bestrittener
+Leistungsumfang + unbeantwortete Punkte in einer bereits gesendeten Absage.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Einundzwanzig Kundenvorgänge am 19.09.**, dazu eine Betrugsmail.
+- **Fünfundachtzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **🔴 Zwei Trading-Standards-Fälle an einem Tag, beide mit einer Erstattung, die
+  als ausgeführt gemeldet wurde und in Shopify nicht steht:** **#6259** (heute
+  10:28 gemeldet, Frist **Montag**) und **#5148** (dreimal gemeldet, seit zwei
+  Wochen offen). **Das ist der dringlichste Punkt des Tages.**
+- **⛔ Fünf Fälle des Musters insgesamt:** #5148, #6583, #4998, #6259 — und in
+  allen vieren weist Shopify **0,00 £** aus.
+- **⛔ #5148 wurde am 25.08. eine Rücksendeadresse ausdrücklich zugesagt** und
+  sie wurde gebeten, bis dahin nichts zu schicken. **Sie wartet seit vier
+  Wochen auf eine Adresse, die es nicht gibt.**
+- **🟦 Die Werbeaussage ist seit dem 15:20-Lauf belegt** (Klaviyo-Mail vom
+  27.08.: „Zero risk on your side", „you're covered either way", „Nobody has
+  needed it yet").
+- **⚠️ Siebzehn unabhängige Kundenaussagen zur Werbung**, zehn davon heute.
+- **⛔ #7479: fünfter Kontakt, heute keine Antwort, Frist Montag.**
+- **💷 Vier Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
+  #6528, #6159.

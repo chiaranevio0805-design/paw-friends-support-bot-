@@ -12689,6 +12689,129 @@ erfunden.** **Kein Hinweis auf den Versanddienstleister, keine Herkunftsangabe.*
 **Keine Bewertung der von ihr erwähnten Bewertungen** („considering the
 reviews"). Kein Eskalationsmarker im Text.
 
+## #5148 — Trudi Wright (truditrotter67@icloud.com) — Trading Standards, Erstattung dreimal als ausgeführt gemeldet
+
+**Betreff:** Re: Plushies
+
+> Dear Trudi,
+>
+> **I am not going to tell you a fourth time that your refund has been
+> processed.** You were told that on 7 September, again on 16 September and again
+> on 18 September, and you are still waiting. **Repeating it would be worth
+> nothing to you.**
+>
+> **What I can tell you is what our own system shows, because you are entitled to
+> it: against order #5148 there is no refund recorded at all.** The order still
+> shows as paid in full, £27.95, with nothing refunded against it. **It is
+> possible that a payment was made outside our shop system and is not recorded
+> there — I cannot see your bank and I am not going to guess** — but I am not
+> going to repeat an assurance I cannot stand behind. **That question is now in
+> front of the shop owner, in exactly those words.**
+>
+> **The rest of it should be said plainly too.** On 25 August you were told that
+> both toys were unused and still in their original packaging, that they **"may
+> be eligible for return under our 30-day money-back guarantee"**, and that you
+> would be sent **a return address and further instructions**. **That address
+> never came.** What came instead was 30%, then 30% again, then 50%. **You asked
+> for a full refund and a return label four times.**
+>
+> **And here is why the address never came: we do not publish one.** There is no
+> returns address I can give you today either, and I am not going to invent one.
+> **You were told to wait for something that did not exist.** I would rather say
+> that to you than let you wait any longer.
+>
+> **I am not going to ask you to step back from trading standards.** That is your
+> decision, and nothing here is conditional on it.
+>
+> **What happens now.** Your case is with the shop owner as it stands: **order
+> #5148, placed 8 August, £27.95, both items never opened, a return address
+> promised on 25 August and never sent, a 50% refund offered on 6 September and
+> accepted, stated as processed three times, and no refund recorded against the
+> order.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ausdrückliche Weigerung, die Erstattungszusage ein
+viertes Mal zu wiederholen**, die **wahrheitsgemäße Auskunft über den eigenen
+Datenstand** (kein Erstattungseintrag zu #5148) **mit offener Nennung der
+Grenze** (eine Zahlung außerhalb des Shopsystems ist von hier nicht prüfbar),
+die **offene Benennung der am 25.08. zugesagten und nie gesendeten
+Rücksendeadresse**, die Chronologie der drei Prozentangebote, und die
+Weitergabe. **Keine Erstattung zugesagt, kein neuer Betrag, kein Termin, keine
+Absage.** **Keine Behauptung, die Erstattung sei nicht gezahlt worden** — nur,
+dass sie **nicht verzeichnet** ist. **Keine Rücksendeadresse erfunden.** **Kein
+Versuch, sie von Trading Standards abzubringen**, und nichts daran geknüpft.
+**Keine rechtliche Bewertung.** Kein Eskalationsmarker im Text.
+
+## #7608 — Patricia Arenella (patty.arenella@gmail.com) — US, Werbung, fehlender Gratisartikel, Sorge wegen der Füllung
+
+**Betreff:** Re: Order #7608 confirmed
+
+> Dear Patricia,
+>
+> **Two things about the reply you had on 15 September, before anything else.**
+>
+> **It began with "As explained" — but nothing had been explained.** It was the
+> first reply you ever received from us. You had written once, and you were
+> answered as though you were being told something for the second time.
+>
+> **And it answered only the chewing.** You raised three things. Two of them were
+> not addressed at all.
+>
+> **On the advertising.** You say it stated the toys are indestructible and made
+> for dogs that destroy toys. I have read all twelve of our current product
+> descriptions, and the word "indestructible" is not in any of them. **That is
+> not me telling you that you did not see it.** I cannot see the advertising that
+> was shown to you and I am not going to guess at it. **Your sentence goes to the
+> shop owner exactly as you wrote it**, because he is the only person who can
+> look at the advertising itself.
+>
+> **On the second toy.** Your order records one Plushies, a discount line
+> labelled "BUY 1 (-$14.25)", and $27.75 charged. **What I cannot check from here
+> is what the offer you actually saw said.** Whether a free second item was part
+> of it is a question about the advertising, not about your order, and **I am not
+> going to answer it by guessing in either direction.** It goes to him with the
+> rest.
+>
+> **On the stuffing.** You wrote on 13 September that you were worried about your
+> dog swallowing it. **I am not going to make any statement about what that
+> material is or is not** — I am not qualified to, and a reassurance from me would
+> be worth nothing to you. **It is recorded and passed on as a safety concern.**
+> If you are worried about your dog, the person to ask is your vet, not me.
+>
+> **On the refund.** That decision is the shop owner's, not mine, so **I am not
+> going to promise you one and I am not going to refuse you one.** Your case is
+> with him as it stands: **order #7608, one Plushies, $27.75 recorded on the
+> order, nothing refunded, ordered 24 August, dispatched 3 September, torn apart
+> within minutes, a full refund requested over the advertising and the second
+> item, and a concern raised about the stuffing.**
+>
+> **You do not need to send the photograph you offered**, and nothing here
+> depends on it. **And please do not post anything back** — we have no returns
+> address I can give you.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Benennung zweier konkreter Fehler der Antwort vom
+15.09.** („As explained" ohne vorangegangene Erklärung; zwei von drei Punkten
+unbeantwortet), die ehrliche Auskunft zur Werbefrage, die **faktische Wiedergabe
+der Rabattzeile ihrer Bestellung ohne Deutung**, die Aufnahme der
+Sicherheitssorge, und die Weitergabe mit allen Zahlen. **Keine Erstattung
+zugesagt, kein Betrag zugesagt, kein Termin, keine Absage.** **Keine Aussage zur
+Materialsicherheit oder Toxizität in irgendeine Richtung** — stattdessen
+Verweis auf den Tierarzt. **Keine Rekonstruktion, welche Anzeige oder welches
+Angebot sie gesehen hat**, und **keine Behauptung, sie irre sich beim
+Gratisartikel.** **Keine Fotobedingung.** **Keine Rücksendeadresse erfunden.**
+**Keine Umrechnung** — 27,75 $ ist der Betrag ihrer Bestellbestätigung.
+**Keine rechtliche Bewertung** ihres Vorwurfs der irreführenden Werbung. Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
