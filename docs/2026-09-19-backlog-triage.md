@@ -543,3 +543,131 @@ Admin nachsehen, nie über einen Mail-Link.
 - **💷 Vier Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
   #6528, #6159.
 - **⏰ #8081 weiterhin offen**, **zwei Fristen am Montag, 21.09.:** #7479, #6259.
+
+---
+
+## Lauf 10:20 UTC
+
+**Zwei neue Kundennachrichten — und der schwerwiegendste Vorgang des Tages.**
+
+### ⛔ Um 10:09 UTC ist aus dem Shop-Konto eine Vorlagen-Absage an eine AU-Kundin gegangen
+
+Im Thread **#7119 (Susan McGee, Tasmanien)** liegt eine **`SENT`-Nachricht vom
+19.09. 10:09:26 UTC**. Sie stammt **nicht aus diesem Lauf und nicht aus diesem
+Bot** — hier gibt es keine Sendefunktion, `create_draft` ist seit 21.08.
+blockiert. Inhalt, wörtlich:
+
+> *„Our 30-day money-back guarantee applies to items returned **unused and in
+> their original condition**. Unfortunately, damage caused by chewing … is not
+> covered … we're therefore **unable to provide a refund, replacement, or
+> exchange**."*
+
+**Das ist wortgleich dieselbe Vorlage, die am 15.09. an #7479 Richard Bellamy
+ging** — und wortgleich die Vorlage, von der im Log seit dem 29.08. steht, dass
+sie abgeschaltet gehört, weil damals sechs Stück davon rausgingen und alle sechs
+schärfer zurückkamen.
+
+**Zwei Fehler in dieser einen Mail:**
+
+1. **Sie beantwortet den falschen Fall.** Susan hatte am 17.09. geschrieben:
+   *„We have the pieces of one **& one intact**. We are happy to return."*
+   **Ein versiegelter, unbenutzter Artikel ist kein Kauschadenfall.** Dieser
+   Teil ihrer Mail wurde überhaupt nicht beantwortet.
+2. **Sie zitiert einer australischen Kundin die „unused"-Bedingung** — genau
+   die Bedingung, die **unsere eigene veröffentlichte Rückgaberichtlinie im
+   Abschnitt „Australia – Consumer Guarantees" ausdrücklich abbedingt**:
+   australische Rechte *„are not limited by the requirement that an item be
+   unused or in its original packaging."*
+
+**Sieben Minuten später, um 10:16:35 UTC, kam ihre Antwort:**
+
+> *„**Australia had strict laws around false advertising.** As a courtesy I have
+> requested a refund. I have **already collated the information for my bank &
+> will request a charge back**. I will also **post photos on all your socials &
+> websites** about the items lack of durability & **your false claims**."*
+
+**Drei Eskalationsauslöser in einer Nachricht:** Verbraucherrechts-Berufung,
+angekündigte öffentliche Bewertung, bestrittene Werbeaussage. **Dazu ein
+angekündigtes Chargeback.** Die Vorlage hat aus einem Erstattungswunsch binnen
+sieben Minuten einen Rückbuchungs- und Reputationsfall gemacht.
+
+**Shopify-Datenlage (#7119):** bestellt **22.08.**, Versand angelegt erst
+**02.09.** (**elf Tage**), zugestellt **17.09.** — **26 Tage**. Zwei Plushies,
+**28,50 £ auf der Bestellung**, **0,00 £ erstattet**, `FULFILLED`/`PAID`.
+Lieferadresse **Blackstone Heights, Tasmanien (AU)**.
+
+**⚠️ „It was advertised as indestructible."** Damit ist dies die **achte
+unabhängige Kundenaussage** zur Werbung — und die **dritte Wortfamilie** neben
+den Kauschaden-Zusagen und dem wortgleichen Zitat „Anti-Destruction Structure /
+extremely durable & long lasting" von #4998 und #8189. **„Indestructible" steht
+in keiner der zwölf Produktbeschreibungen.** Ihr wird **nicht** gesagt, das Wort
+existiere nicht — ihr wird gesagt, was geprüft wurde und was von hier aus nicht
+einsehbar ist.
+
+**Entwurf geschrieben.** Keine Erstattung zugesagt, keine Absage. Chargeback und
+öffentliche Beiträge werden ausdrücklich als ihre Sache bezeichnet und an nichts
+geknüpft. **Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### 🔁 #7479 — Richard Bellamy-Williams (`richard@brownwolf.net`), 19.09. 09:33 UTC — **fünfter Kontakt**, Frist **21.09.**
+
+Kontakte: **14.09., 15.09., 16.09., 17.09., 19.09.** Seine Frage ist seit dem
+15.09. unverändert **dieselbe** und wurde **viermal nicht beantwortet**:
+
+> *„One toy **unopened in its original wrapping** ready to head back for refund
+> … **now how does that work exactly?**"*
+
+**Er bekam am 15.09. dieselbe Vorlage wie Susan heute** — eine Absage wegen
+Kauschadens auf eine Frage nach einem **ungeöffneten** Artikel. Seine Antwort
+darauf: *„Nice try, but clearly you didn't read the email correctly."*
+
+**Heute listet er sieben Punkte auf** — u. a. Trading-Standards-Beschwerde,
+Advertising Standards, Bank- und Shopify-Meldung, Ofcom/Hoster, Marken- und
+Schutzrechtsfragen, sowie Betrugsvorwurf. **Nicht bewertet, nicht bestritten,
+nicht kommentiert** — das ist keine Bot-Aufgabe. Geht ungekürzt an den Owner.
+
+**Shopify-Datenlage (#7479):** bestellt **23.08.**, Versand **03.09.**,
+**zwei Paw-Friends™-Fluffys**, **29,95 £ auf der Bestellung**, **0,00 £
+erstattet**.
+
+**Der entscheidende Punkt, und er ist der am leichtesten lösbare im ganzen
+Postfach:** Die **Fluffys-Produktbeschreibung führt „✓ 30-day money-back
+guarantee" ohne jede Bedingung.** Er hat einen **ungeöffneten, unbenutzten**
+Fluffy und hat **sechs Stunden nach Zustellung** die Rückgabe angeboten. Es gibt
+keine Lesart dieser Zusage, unter die sein Fall nicht fällt. **Der einzige
+Grund, warum er seit fünf Tagen keine Antwort hat, ist, dass es keine
+Rücksendeadresse gibt.** Genau das wird ihm im Entwurf gesagt — statt einer
+Policy-Begründung, die nicht der wahre Grund ist.
+
+**Zur Anschrift für Zustellungen:** In den **TERMS_OF_SERVICE des Shops ist eine
+vollständige Postanschrift veröffentlicht** (am 18.09. geprüft). Ihm wird
+**gesagt, dass sie dort steht** — **nichts wird verschwiegen** —, aber sie wird
+**nicht vom Bot per Mail neu herausgegeben**: eine Privatanschrift zum Zweck der
+Zustellung erneut zu verschicken, ist eine Owner-Entscheidung. **Keine Adresse
+erfunden.**
+
+**Eskalationsgrund:** wiederholter unerledigter Kontakt (fünfmal) +
+Verbraucherrechts- und Regulierungsberufung + bestrittene Werbeaussage + Frist
+am 21.09.
+
+**Label:** `Bot/Escalated - Owner Attention`. **Fünfte Fassung.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Elf Kundenvorgänge am 19.09.**, dazu eine Betrugsmail.
+- **Fünfundsiebzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⛔ Die Vorlagen-Absage ist heute erneut rausgegangen** — an eine
+  AU-Kundin, gegen den Wortlaut unserer eigenen AU-Passage, und sie hat binnen
+  sieben Minuten ein Chargeback und angekündigte öffentliche Beiträge ausgelöst.
+  **Das ist der dringlichste Punkt dieses Tages.**
+- **⚠️ Achte unabhängige Kundenaussage zur Werbung** (#7119: „indestructible").
+- **⛔ #7479: fünfter Kontakt, Frist Montag, und die Frage ist bis heute
+  unbeantwortet** — obwohl die Fluffys-Seite die Garantie bedingungslos führt.
+- **⛔ Zwölf unbenutzte Artikel warten weiterhin auf eine Rücksendeadresse**
+  (#7119 und #7479 kommen hinzu).
+- **💷 Vier Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
+  #6528, #6159.

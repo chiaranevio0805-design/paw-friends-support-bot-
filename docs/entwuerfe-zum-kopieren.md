@@ -12104,6 +12104,135 @@ Versanddienstleister, keine Herkunftsangabe, keine Rücksendeadresse erfunden**
 (die Nicht-Existenz wird ihr ausdrücklich gesagt, damit sie nichts auf eigene
 Kosten verschickt). Kein Eskalationsmarker im Text.
 
+## #7479 — Richard Bellamy-Williams (richard@brownwolf.net) — fünfte Fassung, Frist 21.09.
+
+**Betreff:** Re: Refund request and business address request
+
+> Dear Richard,
+>
+> **This is the fifth time you have asked the same question, and it is the first
+> time you are getting an answer to it.** That is our failure, and I am going to
+> set it out plainly rather than dress it up.
+>
+> **The question you asked.** You have one Fluffys still sealed in its original
+> packaging, unopened and unused, and you want to return it under the 30-day
+> guarantee. You asked on 15 September, again on 16 September, again on
+> 17 September, and again this morning.
+>
+> **The reply you received on 15 September answered a question you had not
+> asked.** It was about chew damage. Your unopened item is not a chew-damage
+> case, and I am not going to defend that reply as an answer to you. It should
+> not have gone out in response to what you wrote.
+>
+> **Here is the real reason you have had no return instructions: we do not
+> publish a returns address.** There is none I can give you, and I am not going
+> to invent one. That — not a policy about used items — is why your question has
+> sat unanswered for five days. **Please do not post anything back in the
+> meantime**, because I cannot tell you where it would go.
+>
+> **What I can and cannot decide.** Whether you are refunded is the shop owner's
+> decision, not mine. **I am not going to promise you a refund and I am not going
+> to refuse you one.** What I have done is put the case in front of him exactly
+> as it stands: **order #7479, two Fluffys, £29.95 recorded on the order, nothing
+> refunded, one item destroyed, one item unopened and unused with a return
+> offered within six hours of delivery, and no returns address to send it to.**
+>
+> **On the address you asked for.** A trading name and a full postal address are
+> published in the Terms of Service on our own website. That is our published
+> address and you can read it there — **I am not hiding it from you.** What I am
+> not going to do is re-issue it by email myself for the purpose of service. That
+> is the owner's decision, not a support one, and your request has gone to him
+> with your date of 21 September attached.
+>
+> **The rest of your message.** You have set out seven separate matters. I am not
+> going to argue with any of them, and I am not going to give you my assessment
+> of them either — I am not qualified to give one and it would be worth nothing
+> if I did. **They go to the shop owner unabridged, in your words.**
+>
+> **Your deadline is Monday, and he has it.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Anerkennung, dass seine Frage viermal nicht
+beantwortet wurde**, die **ausdrückliche Distanzierung von der Vorlagen-Absage
+vom 15.09.**, die **wahre Begründung** (es gibt keine Rücksendeadresse) statt
+einer Policy-Ausrede, die Weitergabe des Falls mit allen Zahlen und seiner
+Frist, und der **Hinweis, wo die Anschrift tatsächlich veröffentlicht ist**.
+**Keine Erstattung zugesagt, kein Betrag, kein Termin, keine Absage.** **Keine
+Rücksendeadresse erfunden** und ausdrückliche Bitte, nichts zu verschicken.
+**Die Anschrift wird nicht per Mail neu herausgegeben** — aber auch **nicht
+verschwiegen**: ihm wird gesagt, dass sie in den eigenen Terms of Service steht.
+**Keine rechtliche Bewertung** seiner sieben Punkte, weder zustimmend noch
+ablehnend. Kein Eskalationsmarker im Text.
+
+## #7119 — Susan McGee (susanmcgee@outlook.com.au) — AU, nach der Vorlagen-Absage von 10:09 UTC
+
+**Betreff:** Re: ORDER #7119
+
+> Dear Susan,
+>
+> **The reply you had from us an hour ago answered only part of what you wrote,
+> and the part it did answer, it answered badly.** I am not going to stand behind
+> it. Here is a proper response.
+>
+> **First, it said nothing about the toy you still have intact.** On Thursday you
+> told us that one toy is in pieces and **one is untouched**, and that you are
+> happy to return it. A sealed, unused toy is not a chew-damage case at all. That
+> part of your message was simply not answered.
+>
+> **Second, your delivery address is in Tasmania — and our own published returns
+> policy carries a section headed "Australia – Consumer Guarantees".** It states
+> that Australian consumer rights **"are not limited by the requirement that an
+> item be unused or in its original packaging."** That is our text, on our site.
+> The reply you received this morning quoted that exact requirement back at you.
+> **I am not giving you a legal opinion** — I am telling you that we cited a
+> condition our own published policy disclaims for Australian customers.
+>
+> **Third, on the advertising.** You say the toys were advertised as
+> indestructible. I have read all twelve of our product descriptions, and that
+> word is not in any of them. **That is not me telling you that you did not see
+> it.** I cannot see the advertisements you were actually shown, and I am not
+> going to guess which one it was. What I can do is tell you exactly what I
+> checked and what I could not check. **Your wording goes to the shop owner as
+> you wrote it**, because he is the only one who can look at the advertisements
+> themselves.
+>
+> **What happens now.** Whether you are refunded is the shop owner's decision,
+> not mine, so **I am not going to promise you a refund and I am not going to
+> refuse you one.** It is with him as it stands: **order #7119, two Plushies,
+> £28.50 recorded on the order, nothing refunded, ordered 22 August, dispatched
+> 2 September, delivered 17 September, one toy destroyed in ten minutes, one toy
+> unused with a return offered.**
+>
+> **Two things I am not going to do.** I am not going to ask you to drop the
+> chargeback, and I am not going to ask you to hold back or take down anything
+> you post. **Those are yours to decide, and nothing here is conditional on
+> either.**
+>
+> **And please do not post the second toy back yet** — we have no returns address
+> I can give you, and I would rather tell you that than have you pay postage to
+> nowhere.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Distanzierung von der Vorlagen-Absage von
+10:09 UTC**, die Benennung des **unbenutzten zweiten Artikels als eigener,
+unbeantworteter Fall**, das **wörtliche Zitat unserer eigenen AU-Passage**, die
+ehrliche Auskunft zur Werbefrage (was geprüft wurde und was nicht prüfbar ist),
+die Weitergabe im Original, und die ausdrückliche Feststellung, dass
+**Chargeback und öffentliche Beiträge ihre Sache sind und an nichts geknüpft
+werden**. **Keine Erstattung zugesagt, kein Betrag zugesagt, kein Termin, keine
+Absage.** **Keine rechtliche Bewertung** — die AU-Passage wird zitiert, nicht
+ausgelegt. **Keine Behauptung, das Wort „indestructible" existiere nicht** — es
+wird gesagt, wo gesucht wurde und was nicht einsehbar ist. **Keine
+Rekonstruktion, welche Anzeige sie gesehen hat.** **Keine Rücksendeadresse
+erfunden.** **Keine Umrechnung** zwischen der GBP-Bestellsumme und dem, was ihre
+Karte in AUD zeigt. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
