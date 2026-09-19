@@ -12047,6 +12047,63 @@ Bestelldaten** — die Zuordnung ist weiterhin ungesichert, und das wird ihm
 offen gesagt. **Keine rechtliche Bewertung**; die AU-Passage wird zitiert, nicht
 ausgelegt. **Keine Auswertung der Fotos.** Kein Eskalationsmarker im Text.
 
+## #8337 — Cheryl Tagg (cheryldalby@live.co.uk) — Plüschtier nach keinen 24 Stunden zerstört, Erstattung verlangt
+
+**Betreff:** Re: Order #8337 confirmed
+
+> Dear Cheryl,
+>
+> Thank you for writing, and I am sorry it is about this. You bought one toy, it
+> arrived on Thursday, and by Friday morning it was in the bin. That is not what
+> you paid for.
+>
+> **First, the part I can confirm from our own records, because you should not
+> have to take my word for it:** you ordered on 1 September. The order was not
+> handed over for dispatch until 8 September — it sat with us for a week before
+> it moved at all. It then reached you on 18 September. **The wait was real, it
+> was longer than it should have been, and a good part of it was at our end.**
+> I am not going to explain that away.
+>
+> **Second, the toy itself.** You bought it from a product page that is built
+> around how long it lasts with a dog that chews. You expected it to survive more
+> than a day. **I am not going to tell you that expectation was unreasonable, and
+> I am not going to send you a standard refusal.**
+>
+> What I cannot do is decide your refund. **That decision belongs to the shop
+> owner, not to me, so I am not going to promise you one and I am not going to
+> deny you one either.** What I have done is put your request in front of him
+> exactly as you wrote it: **ordered 1 September, delivered 18 September,
+> destroyed within a day, full refund requested, £19.95 paid, nothing refunded so
+> far.**
+>
+> **You do not need to do anything to support this.** You do not need to send
+> photographs, and I am certainly not going to ask you to get the toy back out of
+> the bin. **Please also do not post anything back to us** — we currently have no
+> returns address I can give you, and I would rather tell you that plainly than
+> have you pay for postage to nowhere.
+>
+> **You asked not to be ignored, and you will not be.** If you have heard nothing
+> from us in a few days, reply to this email and I will chase it again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **überprüfbare Bestätigung des Ablaufs aus unserem
+eigenen Datensatz** (Bestellung 01.09., Versand erst 08.09., Zustellung 18.09.),
+die **offene Benennung der Woche Verzögerung bei uns**, die Weitergabe des
+Erstattungswunsches im Original an den Owner, die ausdrückliche Entlastung von
+Fotos und Rücksendung, und eine Nachfass-Zusage. **Keine Erstattung zugesagt,
+kein Betrag zugesagt, kein Termin, keine Absage.** **Keine Aussage, die Garantie
+decke Kauschaden** — die Garantie wird gar nicht zitiert, denn die
+Plushies-Produktbeschreibung enthält überhaupt keinen Garantietext. **Keine
+Bewertung der Werbeaussage** („built to last", „anti-tear design") — es wird nur
+gesagt, dass ihre Erwartung nicht als unbegründet abgetan wird; ob die Aussage
+haltbar ist, kann nur der Owner beantworten. **Kein Hinweis auf den
+Versanddienstleister, keine Herkunftsangabe, keine Rücksendeadresse erfunden**
+(die Nicht-Existenz wird ihr ausdrücklich gesagt, damit sie nichts auf eigene
+Kosten verschickt). Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

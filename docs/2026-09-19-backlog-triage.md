@@ -413,3 +413,86 @@ Drei Bilder — **nicht geöffnet, nicht ausgewertet.**
 - **⏰ #8081 weiterhin offen:** seit 21 Tagen `UNFULFILLED`, Kunde hat selbst
   eine Erstattung angeboten.
 - **Zwei Fristen am Montag, 21.09.:** #7479, #6259.
+
+---
+
+## Lauf 08:20 UTC
+
+**Ein neuer Thread seit dem 06:20-Lauf.** Die sieben übrigen Threads im
+Posteingang sind bereits in diesem Log erfasst.
+
+### #8337 — Cheryl Tagg (`cheryldalby@live.co.uk`), 19.09. 07:59 UTC — Erstkontakt
+
+> *„Toy arrived yesterday and **already dog as destroyed it** and so got to go
+> in bin. **very poorly made and long delivery.** I expect something to last
+> more not even 24 hours. I would like a **refund** please. **Please do not
+> ignore this email.**"*
+
+**Vorab-Suche nach älteren Threads desselben Absenders durchgeführt** (Regel
+seit 18.09. 15:20): `from:` **und** `to:cheryldalby@live.co.uk` — **genau ein
+Thread, dieser.** Erstkontakt, kein verdeckter Wiederholungsfall.
+
+**Shopify-Datenlage (#8337):**
+
+| | |
+|---|---|
+| Bestellt | **01.09.2026, 08:47 UTC** |
+| Versand angelegt | **08.09.2026, 07:49 UTC** — **sieben Tage später** |
+| Zugestellt | **18.09.** (nach ihrer Angabe) — **17 Tage nach Bestellung** |
+| Artikel | Plushies – Designed for Furry Friends Who Destroy Everything, ×1, elephant |
+| Gezahlt | **£19.95** (29,95 £ minus 10,00 £ Rabatt) |
+| Status | `FULFILLED` / `PAID`, `cancelledAt: null` |
+| **Erstattet** | **0,00 £** |
+
+**Zwei getrennte Beschwerdepunkte, beide belegbar bzw. offen:**
+
+1. **Lieferzeit.** Ihre Angabe „long delivery" ist **aus unserem eigenen
+   Datensatz bestätigt**: die Bestellung lag **eine volle Woche hier, bevor sie
+   überhaupt in den Versand ging**. Das wird ihr im Entwurf mit Daten genannt,
+   nicht relativiert. **Elfter Fall dieses Musters** (bisher zehn Bestellungen
+   mit 8–12 Tagen bis zum Versand).
+2. **Haltbarkeit.** Zerstört **in unter 24 Stunden** — bei einem Artikel, dessen
+   Produktname und Beschreibung genau davon handeln („Anti-tear design built for
+   strong chewers", „built to last", „More playtime, fewer broken toys").
+   **Das ist eine bestrittene Werbeaussage im Sinne der Eskalationsregel**, auch
+   wenn sie keine Werbeformulierung zitiert. **Nicht vom Bot zu bewerten.**
+
+**Kauschaden fällt nicht unter die Erstattungsregel** — deshalb **keine
+Erstattung ausgeführt und keine zugesagt.** Ebenso wenig eine Absage: nach der
+Policy gehört ein bestrittener Haltbarkeitsanspruch mit ehrlicher,
+unverbindlicher Antwort an den Owner, **nicht in eine Vorlagen-Ablehnung**. Die
+Vorlagen-Absage ist genau das, was am 29.08. sechsmal schärfer zurückkam.
+
+**Die Garantie wird im Entwurf nicht zitiert.** Die Plushies-Beschreibung
+enthält — beim vollständigen Abgleich aller zwölf Produkttexte am 18.09.
+geprüft — **überhaupt keinen Garantietext.** Eine Bedingung („unbenutzt") zu
+zitieren, die für dieses Produkt nirgends veröffentlicht ist, wäre erfunden.
+
+**Rücksendung ausdrücklich abgeraten:** Es gibt weiterhin **keine
+veröffentlichte Rücksendeadresse.** Ihr wird gesagt, sie solle **nichts
+zurückschicken** — statt sie Porto für eine nicht existierende Adresse zahlen zu
+lassen. **Keine Fotos verlangt**; das Spielzeug ist nach ihrer Angabe im Müll,
+und niemand wird gebeten, es wieder herauszuholen.
+
+**Eskalationsgrund:** bestrittene Haltbarkeits-/Werbeaussage + von uns selbst
+verschuldete Versandverzögerung + Erstattungsentscheidung außerhalb der Regel.
+
+**Label:** `Bot/Escalated - Owner Attention`. **Entwurf geschrieben**, wie alle
+anderen **nicht in Gmail** — `create_draft` ist seit 21.08. blockiert (21
+Versuche), ein 22. wurde nicht unternommen.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Neun Kundenvorgänge am 19.09.**
+- **Dreiundsiebzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⏱️ Elfte Bestellung mit auffälliger Versandverzögerung** — #8337 lag sieben
+  Tage bis zum Versand, Zustellung erst nach 17 Tagen.
+- **⚠️ Die Werbefrage wächst weiter:** #8337 bestreitet die Haltbarkeit nicht
+  über ein Zitat, sondern über den Verlauf — Totalschaden in unter 24 Stunden
+  bei einem Artikel, der genau damit beworben wird.
+- **💷 Vier Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
+  #6528, #6159.
+- **⏰ #8081 weiterhin offen**, **zwei Fristen am Montag, 21.09.:** #7479, #6259.
