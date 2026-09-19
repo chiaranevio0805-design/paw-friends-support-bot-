@@ -12991,6 +12991,55 @@ zum Shop steht — es wird nur gesagt, dass wir diese Adresse nicht lesen.
 **Keine Umrechnung** — 41,20 $ ist der Betrag in seiner Währung auf der
 Bestellung. Kein Eskalationsmarker im Text.
 
+## #7148 — Thomas Hibbard (tchibb@gmail.com) — US, Erstkontakt, „not built to last"
+
+**Betreff:** Re: Got 2 blushes labs and did not last a week
+
+> Dear Thomas,
+>
+> Thank you for writing, and I am sorry it is about this. **Less than a week, and
+> both are torn apart.** That is not what you paid for.
+>
+> **First, so you know how I found your order:** I matched it to the email
+> address you wrote from, **not** to the photograph of the receipt. **I have not
+> opened either of your pictures** and nothing here depends on them. What I have
+> is **order #7148, two Plushies, ordered 22 August, dispatched 2 September,
+> $38.90 recorded on the order, nothing refunded.** If that is not the right
+> order, just tell me the number in writing and I will correct it.
+>
+> **Second, the phrase you used.** You wrote *"guess they are not built to
+> last"*. **That wording is ours** — "built to last" is a heading on our own
+> Plushies page. I am not going to pretend you took it from nowhere, and I am not
+> going to argue with you about the result you got.
+>
+> **Third, and this matters: you have not actually asked us for anything, and I
+> am not going to put words in your mouth.** You told us what happened. **If what
+> you want is your money back, say so in a line and it goes forward as that.**
+> Either way, what you have written is already in front of the shop owner as you
+> wrote it.
+>
+> **What I cannot do is decide a refund.** That is his call and not mine, **so I
+> am not going to promise you one and I am not going to refuse you one.**
+>
+> **And please do not post anything back to us** — we have no returns address I
+> can give you, and I would rather say so than have you pay postage to nowhere.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Angabe, wie die Bestellung zugeordnet wurde**
+(über die Absenderadresse, **nicht** über das Belegfoto), die
+**wahrheitsgemäße Bestätigung, dass „built to last" unser eigener Wortlaut
+ist**, die Weitergabe im Original, und die **ausdrückliche Weigerung, seine
+Nachricht als Erstattungsforderung auszulegen**, verbunden mit dem Angebot, es
+auf ein Wort hin so weiterzugeben. **Keine Erstattung zugesagt, kein Betrag
+zugesagt, kein Termin, keine Absage.** **Keine Auswertung der beiden Bilder** —
+weder des Belegs noch des Produktfotos. **Keine Deutung seiner Formulierung.**
+**Keine Aussage über Produktgröße oder Bildvergleich.** **Keine
+Rücksendeadresse erfunden.** **Keine Umrechnung** — 38,90 $ ist der Betrag in
+seiner Währung auf der Bestellung. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

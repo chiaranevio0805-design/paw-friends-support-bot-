@@ -1581,3 +1581,77 @@ Vorlagen-Absage** — seine Frage *„what do I do"* wird direkt beantwortet.
 - **⛔ Vierzehn Sendungen der Kauschaden-Absage an elf Kunden in fünf Tagen.**
 - **💷 Vier Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
   #6528, #6159.
+
+---
+
+## Lauf 19:20 UTC
+
+**Ein neuer Kundenvorgang. Keine neuen Sendungen aus dem Shop-Konto seit 10:57.**
+
+### #7148 — Thomas Hibbard (`tchibb@gmail.com`), 19.09. 18:57 UTC — Erstkontakt
+
+> *„Got this plushie and the duck **less than a week ago** and already has been
+> torn apart **guess they are not built to last**. Here is a picture of the
+> receipt. Here is the pic of the pig."*
+
+**Vorab-Suche nach älteren Threads desselben Absenders:** ein einziger Thread.
+
+**🟦 Dritte wortgetreu überprüfte Kundenzitierung unseres eigenen Produkttexts.**
+Nach #7401 (Fluffys: *„40,000 dogs"*) und #8002 (*„The result: A toy that lasts
+longer…"*) trifft er mit **„built to last"** den **Wortlaut einer Überschrift
+der Plushies-Seite**: *„🛠️ **WHY OUR PLUSHIES™ ARE BUILT TO LAST**"*. **Das
+wird ihm im Entwurf bestätigt**, statt es zu relativieren.
+
+**Zwei Bilder im Anhang — eines davon ausdrücklich der Kaufbeleg. Beide nicht
+geöffnet.** Die Bestellung wurde **über seine Absenderadresse** zugeordnet, und
+**genau das steht auch im Entwurf**, damit er weiß, worauf die Zuordnung beruht
+und sie korrigieren kann.
+
+**Shopify (#7148):** bestellt **22.08.**, Versand angelegt **02.09.** (**elf
+Tage**), zwei Plushies, **£28,50 / $38,90** (presentment USD, **nichts
+umgerechnet**), **0,00 £ erstattet**, Ernul, **North Carolina (US)**.
+**Sechzehnte Bestellung mit auffälliger Versandverzögerung.**
+
+**Er hat nichts verlangt.** Er hat berichtet. **Seine Nachricht wird nicht als
+Erstattungsforderung ausgelegt** — im Entwurf steht ausdrücklich, dass ihm keine
+Worte in den Mund gelegt werden, verbunden mit dem Angebot, den Fall auf ein
+Wort hin als Erstattungswunsch weiterzugeben. **Keine Erstattung zugesagt, keine
+Absage, keine Vorlagen-Antwort.**
+
+**Label:** `Bot/Escalated - Owner Attention` (Haltbarkeitsbeschwerde mit
+wortgetreuem Zitat des eigenen Produkttexts + Entscheidung außerhalb der Regel).
+
+---
+
+### Stand nach diesem Lauf — **Tagesabschluss 19.09.**
+
+- **Sechsundzwanzig Kundenvorgänge**, dazu eine Betrugsmail.
+- **Neunzig Entwürfe** in `docs/entwuerfe-zum-kopieren.md`, **davon achtzehn
+  heute geschrieben**. **Keiner in Gmail** — `create_draft` seit 21.08. blockiert
+  (21 Versuche, kein 22.).
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **Abendreport** als `docs/2026-09-19-abendreport.md` geschrieben (Commit
+  `0aa26a4`, 17 Entwürfe im Volltext) und geliefert. **#7148 kam danach hinzu
+  und ist dort noch nicht enthalten** — der Volltext steht in
+  `docs/entwuerfe-zum-kopieren.md`.
+
+**Die vier Punkte, die über Nacht stehen bleiben:**
+
+1. **⏰ #8669 Chad Lovell — 38,19 $, Storno elf Minuten nach der Bestellung,
+   nichts versandt.** Solange nichts rausgeht, ausführbar. Am 18.09. wurde
+   dasselbe Fenster bei #6870 und #6905 verpasst.
+2. **🔴 #6259 Nick Tarrant und #5148 Trudi Wright** — beide haben **Trading
+   Standards** eingeschaltet, beiden wurde eine Erstattung **als ausgeführt
+   gemeldet**, beide weisen in Shopify `refunds: []` aus. **#6259 hat Frist am
+   Montag, 21.09.**
+3. **⛔ #7479 Richard Bellamy-Williams** — fünfter Kontakt, **heute als einziger
+   akuter Fall ohne jede Antwort**, Frist ebenfalls **Montag, 21.09.** Die
+   Anschrift, die er verlangt, steht in den Terms of Service **und in jeder
+   Werbemail**.
+4. **🟦 Die Werbeaussage ist belegt** — Klaviyo-Mail vom **27.08.** aus
+   `paw-friends.uk@paw-friends.uk`: *„30-day money-back guarantee — **Zero risk
+   on your side**"*, *„**you're covered either way**"*, *„**Nobody has needed it
+   yet**"*, *„**Still unbeaten**"*. **Ohne Bedingung.** Gegen genau diesen Text
+   schreibt die Kauschaden-Absage an, die heute **achtmal** rausging — insgesamt
+   **vierzehnmal an elf Kunden in fünf Tagen**, und **kein einziges Mal hat sie
+   einen Fall beendet.**
