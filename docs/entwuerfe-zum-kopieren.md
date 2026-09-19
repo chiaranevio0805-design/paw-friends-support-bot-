@@ -11980,6 +11980,73 @@ zutrifft.** **Keine Annahme über die zwei anderen Artikel.** **Keine
 Auswertung der Fotos.** Keine Rücksendeadresse, samt Warnung. Kein
 Eskalationsmarker im Text.
 
+## #7275 — Nathan Corcoran (schreibt von natcor1972@gmail.com) — zweite Fassung, neuer Thread nach 43 Stunden
+
+**Betreff:** Re: Not indestructible
+
+**Neu am 19.09. 06:04 UTC — zweiter Kontakt, neuer Thread.**
+
+> *„Just **following up on my previous email** regarding a refund."*
+
+**Seine Erstmeldung vom 17.09. 12:58 ist unbeantwortet geblieben — 43
+Stunden.** Er öffnet dafür **einen neuen Thread** und hängt dieselben Bilder
+erneut an.
+
+**Dritter Kunde, der dafür einen neuen Thread öffnet** (nach #7989 und #8295).
+**Sechster Kunde binnen drei Tagen, der nachhakt, weil nichts zurückkam**
+(#8295, #7555, #7041, #7989, #7275, dazu #6205).
+
+**Die Datenlage ist unverändert und im Entwurf weiterhin wirksam:**
+Die Bestellung **#7275** (22.08., Reedy Creek **AU**) trägt **keine
+E-Mail-Adresse** — Feld `email` ist `null`, der Kundendatensatz ebenfalls.
+**Namensgleichklang ist keine Zuordnung. Es stehen deshalb weiterhin keine
+Bestellnummer, kein Betrag und keine Anschrift im Entwurf.**
+
+Drei Bilder erneut beigefügt — **nicht geöffnet, nicht ausgewertet.**
+
+> Dear Nathan,
+>
+> You wrote on Wednesday and heard nothing back. **That silence is ours, and
+> your message did arrive** — I would rather tell you that than let you wonder
+> whether it went astray.
+>
+> **Nothing has changed at your end and nothing is waiting on you.** What has not
+> happened is a decision, and I cannot make one: a refund is the shop owner's
+> call, not mine. **So I am not going to promise you one, and I am not going to
+> send you a refusal either.**
+>
+> Your request is on his desk as you wrote it on Wednesday: **received the day
+> before, damaged within about twenty minutes, full refund requested, purchased
+> on the strength of the durability described.** Your photographs are with it.
+>
+> **The administrative point from Wednesday still stands, and it is the reason
+> this reply again contains no order details.** The address you are writing from
+> is not recorded against any order in our system, so I cannot confirm from here
+> which order is yours. **That is not me doubting you** — it is me not matching a
+> customer to an order on the strength of a name. The shop owner can check it
+> properly, and I have flagged it to him again.
+>
+> If your delivery address is in Australia, the point I raised on Wednesday also
+> still stands: **the returns section we publish for Australian customers states
+> that Australian consumer rights are not limited by the requirement that an item
+> be unused or in its original packaging.** I am not giving you a legal view on
+> that — only noting that it is our own published text.
+>
+> **You should not have had to write twice.** If you have heard nothing in a few
+> days, reply here and I will chase it again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Bestätigung, dass seine erste Mail angekommen ist und
+das Schweigen bei uns liegt**, die erneute Weitergabe mit seiner Schilderung im
+Original, die offene Wiederholung der Zuordnungsfrage, und eine Nachfass-Zusage.
+**Keine Erstattung zugesagt, kein Betrag, kein Termin, keine Absage.** **Keine
+Bestelldaten** — die Zuordnung ist weiterhin ungesichert, und das wird ihm
+offen gesagt. **Keine rechtliche Bewertung**; die AU-Passage wird zitiert, nicht
+ausgelegt. **Keine Auswertung der Fotos.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

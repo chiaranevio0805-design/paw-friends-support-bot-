@@ -363,3 +363,53 @@ zweiter Kontakt). **Zweite Fassung.**
   Prozentsätze bekommen:** #4812 (fünfmal), #6528 (fünfmal), **#6159**. Bei
   #6159 hat der Shop die **Rückgabeberechtigung schriftlich eingeräumt.**
 - **Zehn Bestellungen mit belegter Liegezeit von acht bis zwölf Tagen.**
+
+---
+
+## Lauf 06:20 UTC — ein Vorgang
+
+Suche `in:inbox after:2026/09/19`, Abgleich gegen den 03:20-Lauf. Eine
+Nachricht ist neu.
+
+---
+
+### 🔁 #7275 — Nathan Corcoran (`natcor1972@gmail.com`), 19.09. 06:04 UTC — neuer Thread nach 43 Stunden
+
+> *„Just **following up on my previous email** regarding a refund."*
+
+**Seine Erstmeldung vom 17.09. 12:58 ist unbeantwortet geblieben.** Er öffnet
+**einen neuen Thread** und hängt dieselben drei Bilder erneut an.
+
+**Dritter Kunde, der dafür einen neuen Thread öffnet** (nach #7989 und #8295)
+— **und der sechste binnen drei Tagen, der nachhakt, weil nichts zurückkam**
+(#8295, #7555, #7041, #7989, #6205, **#7275**).
+
+**Das ist inzwischen das häufigste Einzelmuster im Postfach: Kunden erinnern
+sich selbst.** In einer Thread-Ansicht sehen die drei Neu-Threads aus wie drei
+verschiedene Kunden.
+
+**Datenlage unverändert:** Bestellung **#7275** (22.08., Reedy Creek **AU**)
+trägt **keine E-Mail-Adresse** (`email: null`), der Kundendatensatz ebenfalls
+nicht. **Namensgleichklang ist keine Zuordnung — weiterhin keine
+Bestellnummer, kein Betrag, keine Anschrift im Entwurf**, und das wird ihm
+offen gesagt.
+
+Drei Bilder — **nicht geöffnet, nicht ausgewertet.**
+
+**Label:** `Bot/Escalated - Owner Attention` (wiederholter unerledigter Kontakt
++ ungesicherte Zuordnung + AU-Richtlinienwiderspruch). **Zweite Fassung.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Acht Kundenvorgänge am 19.09.**
+- **Zweiundsiebzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **🔁 Sechs Kunden haben binnen drei Tagen nachgehakt, weil nichts zurückkam**
+  — **drei davon über einen neuen Thread.**
+- **💷 Vier Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
+  #6528, #6159.
+- **⏰ #8081 weiterhin offen:** seit 21 Tagen `UNFULFILLED`, Kunde hat selbst
+  eine Erstattung angeboten.
+- **Zwei Fristen am Montag, 21.09.:** #7479, #6259.
