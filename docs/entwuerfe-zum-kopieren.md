@@ -11672,6 +11672,108 @@ unterstellt. **Keine Aussage zur Werbung, keine zur Haltbarkeit**, keine
 Aussage über ihre Hunde. **Keine Frist genannt.** Keine Rücksendeadresse, samt
 Warnung. Kein Eskalationsmarker im Text.
 
+## #8189 — Natina Shalley (natinashalley@gmail.com) — ⚠️⚠️ dieselben zwei Werbephrasen wie #4998, dazu gemeldete Aufnahme
+
+**Betreff:** Re: Refund request
+
+**Neu am 19.09. 01:33 UTC. Erstkontakt.**
+
+> *„within 5 minutes of me giving my dogs these toys **two of them have been
+> shredded** […] Since these are advertised as **„anti-destruction structure"**
+> and **„extremely durable & long lasting"** I thought they'd make it a few days
+> […] my dogs **definitely ingested some of the stuffing** that's inside of these
+> toys […] I'd like a full refund **or I'll gladly send back the two unused toys**
+> and the ones that ripped apart **along with the free gift**."*
+
+Bestellung **#8189**, 29.08., **56,07 £**, Phoenix (US) — 4 × Plushies,
+1 × Fur Wonder Brush **+ 📘 Ratgeber (`unfulfilledQuantity: 1`)**,
+**versandt erst am 08.09. — zehn Tage Liegezeit**, `totalRefundedSet`
+**0.00 £**.
+
+#### ⚠️ Der Befund: identische Formulierungen wie bei #4998
+
+| Kunde | Datum | Zitat |
+|---|---|---|
+| **#4998** Michael Warren (GB) | **03.09.** | *„your advertising clearly states '**Anti-Destruction Structure**'"* · *„a DOG toy that is supposedly '**extremely durable and long lasting**'"* |
+| **#8189** Natina Shalley (US) | **19.09.** | *„advertised as '**anti-destruction structure**' and '**extremely durable & long lasting**'"* |
+
+**Zwei Kunden, zwei Länder, sechzehn Tage auseinander — dieselben zwei
+Formulierungen, wörtlich.** **Keine davon steht in einer der zwölf
+Produktbeschreibungen** (gestern vollständig geprüft).
+
+**Zwei unabhängige, übereinstimmende Zitate sind kein Missverständnis.** Dieser
+Text existiert — **nur nicht dort, wo ich nachsehen kann.** **Das gehört
+vorrangig geprüft.**
+
+#### ⚠️ Zweiter Punkt: gemeldete Aufnahme von Füllmaterial
+
+> *„my dogs **definitely ingested some of the stuffing**"*
+
+**Zweiter tatsächlicher Verschluckensfall** nach **#8406**, und die **fünfte
+Meldung zu sich lösenden Kleinteilen** in zwei Tagen (#8406, #8312, #8407,
+#6936, **#8189**). **Als Sicherheitsmeldung weitergegeben — ohne jede Aussage
+zu Material, Toxizität oder Unbedenklichkeit, in keine Richtung.**
+
+#### Dritter Punkt: zwei unbenutzte Stücke
+
+**Elfter unbenutzter Fall.** Sie bietet die Rückgabe **aller** Artikel an,
+**einschließlich des Gratisartikels** — **und es gibt keine Adresse.**
+
+Zwei Bilder — **nicht geöffnet, nicht ausgewertet.**
+
+> Dear Natina,
+>
+> Thank you for setting out exactly what you relied on — that matters more than
+> you might expect.
+>
+> **On the two phrases you quoted:** „anti-destruction structure" and „extremely
+> durable and long lasting". **I have read all twelve of our product
+> descriptions, and neither phrase is in any of them.** I am telling you that not
+> to suggest you imagined it — **another customer quoted us the same two phrases
+> sixteen days ago** — but because it means the wording sits somewhere on our
+> storefront that I cannot see from this desk. **That question has gone to the
+> shop owner, and it is the part of your message I have flagged hardest.**
+>
+> **On what your dogs swallowed:** I have recorded that as you described it and
+> passed it on as a safety report, not as part of a refund query. **I am not
+> going to tell you the filling is harmless and I am not going to alarm you
+> either** — I have no basis for either statement, and this is not a subject for
+> guesswork. If you are at all concerned about your dogs, that is a question for
+> your vet, not for me.
+>
+> **On the refund: I cannot authorise one** — that decision is the shop owner's —
+> **so I am not going to promise you one, and I am not refusing you either.**
+>
+> **On your offer to send everything back, including the two unused toys and the
+> free gift:** thank you, but **please don't.** We do not publish a returns
+> address at present, so there is no process and nowhere for a parcel to arrive
+> — you would simply be out the postage as well. **Please keep the two unused
+> ones exactly as they are.**
+>
+> **One thing you did not ask about but should know:** you ordered on 29 August
+> and the parcel **was not despatched until 8 September.** Ten of those days were
+> ours.
+>
+> Your photographs arrived and are noted. If you have heard nothing in a few
+> days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Feststellung, dass ihre beiden Zitate im
+Produktkatalog nicht auffindbar sind und ein anderer Kunde dieselben Phrasen
+genannt hat**, die **Aufnahme als Sicherheitsmeldung**, die **offene
+Bestätigung des zehntägigen Spätversands**, die Bestätigung des Bildeingangs
+und eine Nachfass-Zusage. **Keine Erstattung zugesagt, kein Ersatz, kein
+Betrag, kein Termin, keine Absage.** **Keine Aussage zu Material, Toxizität
+oder Unbedenklichkeit — in keine Richtung** — und **keine tierärztliche
+Einschätzung.** **Ihr wird nicht unterstellt, sie habe die Zitate erfunden**,
+und es wird **nicht behauptet, die Formulierungen stünden nirgends** — nur,
+dass sie im Katalog fehlen. **Keine Rücksendeadresse erfunden**, samt Warnung,
+auch den Gratisartikel nicht zu verschicken. **Keine Auswertung der Fotos.**
+Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

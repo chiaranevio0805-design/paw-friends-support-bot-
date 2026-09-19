@@ -179,3 +179,78 @@ gefragt hat. **Achte Bestellung mit belegter Liegezeit.**
 - **⛔ Zwei Kunden haben je fünfmal um den Rückgabeweg gebeten und je fünfmal
   einen Prozentsatz bekommen:** #4812 und **#6528**.
 - **Acht Bestellungen mit belegter Liegezeit von acht bis zwölf Tagen.**
+
+---
+
+## Lauf 02:20 UTC — ein Vorgang, ein belastbarer Werbebefund
+
+Suche `in:inbox after:2026/09/18`, Abgleich gegen den 01:20-Lauf. Eine
+Nachricht ist neu.
+
+---
+
+### ⚠️⚠️ #8189 — Natina Shalley (`natinashalley@gmail.com`), 19.09. 01:33 UTC
+
+Bestellung **#8189**, 29.08., **56,07 £**, Phoenix (US) — 4 × Plushies,
+1 × Fur Wonder Brush **+ 📘 Ratgeber (`unfulfilledQuantity: 1`)**, **versandt
+erst am 08.09. — zehn Tage Liegezeit**, `totalRefundedSet` **0.00 £**.
+
+#### ⚠️ Befund 1: zwei Kunden zitieren dieselben zwei Werbephrasen, wörtlich
+
+| Kunde | Datum | Zitat |
+|---|---|---|
+| **#4998** Michael Warren (GB) | **03.09.** | *„your advertising clearly states '**Anti-Destruction Structure**'"* und *„a DOG toy that is supposedly '**extremely durable and long lasting**'"* |
+| **#8189** Natina Shalley (US) | **19.09.** | *„advertised as '**anti-destruction structure**' and '**extremely durable & long lasting**'"* |
+
+**Zwei Kunden, zwei Länder, sechzehn Tage auseinander, dieselben beiden
+Formulierungen.** **Keine davon steht in einer der zwölf Produktbeschreibungen**
+— gestern vollständig geprüft.
+
+**Ein einzelnes Zitat kann ein Missverständnis sein. Zwei unabhängige,
+wörtlich übereinstimmende sind es nicht.** Dieser Text **existiert** — nur an
+einer Stelle, die von hier nicht einsehbar ist. **Das ist der belastbarste
+Werbebefund bisher und gehört vorrangig geprüft.**
+
+**Gesamtstand der Werbefrage — sieben unabhängige Kundenangaben:**
+
+- **Erstattung/Ersatz bei Kauschaden versprochen:** #7255, #6311, #6205, #3405
+- **Garantietext ohne Bedingung „unbenutzt":** #4998, #7778
+- **„Anti-Destruction Structure" / „extremely durable & long lasting":** #4998,
+  **#8189**
+
+#### ⚠️ Befund 2: zweite tatsächlich gemeldete Aufnahme
+
+> *„my dogs **definitely ingested some of the stuffing**"*
+
+**Zweiter Verschluckensfall** nach **#8406** — und die **fünfte Meldung zu sich
+lösenden Kleinteilen in zwei Tagen** (#8406, #8312, #8407, #6936, **#8189**).
+**Als Sicherheitsmeldung weitergegeben, ohne jede Aussage zu Material,
+Toxizität oder Unbedenklichkeit in irgendeine Richtung**, und **ohne
+tierärztliche Einschätzung.**
+
+#### Befund 3: elfter unbenutzter Fall
+
+Sie bietet an, **alles** zurückzusenden — die zwei unbenutzten Stücke, die
+zerrissenen **und den Gratisartikel**. **Es gibt keine Adresse.** Der Entwurf
+sagt das offen und warnt ausdrücklich davor, etwas zu verschicken.
+
+Zwei Bilder — **nicht geöffnet, nicht ausgewertet.**
+
+**Label:** `Bot/Escalated - Owner Attention`, **hohe Priorität**
+(Sicherheitsmeldung + belastbarer Werbebefund).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Vier Kundenvorgänge am 19.09.**
+- **Achtundsechzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⚠️ Sieben unabhängige Kundenangaben zu Werbe- und Garantietexten, die im
+  Produktkatalog nicht vorkommen** — und **zwei davon stimmen wörtlich
+  überein** (#4998, #8189).
+- **⚠️ Fünf Meldungen zu sich lösenden Kleinteilen in zwei Tagen**, davon
+  **zwei tatsächliche Verschluckensfälle** (#8406, #8189).
+- **💷 Drei Beträge schriftlich angenommen, nur auszuführen:** #4055, #6936,
+  #6528 — zusammen **43,29 £**.
+- **Neun Bestellungen mit belegter Liegezeit von acht bis zwölf Tagen.**
