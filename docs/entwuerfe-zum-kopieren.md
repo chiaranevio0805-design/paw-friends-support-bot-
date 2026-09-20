@@ -13648,6 +13648,64 @@ Rekonstruktion der Anzeige.** **Keine Rücksendeadresse erfunden.** **Keine
 Umrechnung** — 38,47 $ ist der Betrag in ihrer Währung auf der Bestellung.
 Kein Eskalationsmarker im Text.
 
+## #7560 — Samantha Vowles (sammyv@live.co.uk) — GB, zweite Fassung, beruft sich auf die Garantie aus der Werbemail
+
+**Betreff:** Re: A shipment from order #7560 is on the way
+
+> Dear Samantha,
+>
+> **First, an apology you are owed.** You wrote on 18 September asking when your
+> order would arrive, and **you never got an answer.** The parcel turned up by
+> itself. **That was our failure, not a coincidence, and I am sorry.**
+>
+> **Now the toys.** One destroyed, a hole in the other, the stuffing out of the
+> fox inside half an hour. **I am not going to argue with you about that.** Your
+> photographs arrived with your second message — **I have not opened them**, and
+> nothing here depends on them.
+>
+> **On the guarantee you mention, here is the honest picture, and it is not
+> simple.**
+>
+> - **The product page for the Plushies carries no guarantee text at all.** I
+>   have read all twelve of our current product descriptions to check.
+> - **But a "30-day money-back guarantee" does appear in our own marketing
+>   emails, with no condition attached to it.** **So you did not get that from
+>   nowhere, and I am not going to suggest that you did.**
+>
+> **I am not telling you that settles your case** — whether it is applied here is
+> the shop owner's decision and not mine. **But I am not going to keep our own
+> wording from you either.**
+>
+> **On the refund.** That decision is his, so **I am not going to promise you one
+> and I am not going to refuse you one.** Your request is with him exactly as you
+> wrote it: **order #7560, two Plushies, £27.95 recorded on the order, nothing
+> refunded, ordered 24 August, dispatched 3 September, both items damaged within
+> 24 hours, full refund requested because they did not live up to the
+> advertising.**
+>
+> **Please do not post anything back to us** — we have no returns address I can
+> give you, and I would rather say so than have you pay postage to nowhere.
+>
+> **You should not have had to write twice.** If you have heard nothing in a few
+> days, reply here and I will chase it again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Entschuldigung dafür, dass ihre Lieferfrage vom
+18.09. unbeantwortet blieb**, die **vollständige und ehrliche Auskunft zur
+Garantiefrage** — Plushies-Seite **ohne** Garantietext, **aber**
+30-Tage-Garantie **ohne Bedingung in unseren eigenen Werbemails** — mit
+ausdrücklichem Hinweis, dass damit nichts entschieden ist, die Weitergabe mit
+allen Zahlen, und eine Nachfass-Zusage. **Keine Erstattung zugesagt, kein
+Betrag zugesagt, kein Termin, keine Absage.** **Keine Behauptung, es gebe keine
+Garantie** — das wäre unzutreffend, seit der Wortlaut der Klaviyo-Mail vom
+27.08. vorliegt. **Keine erfundene Bedingung.** **Keine Auswertung der Fotos,
+keine Fotobedingung.** **Keine Rücksendeadresse erfunden.** **Kein Hinweis auf
+den Versanddienstleister, keine Herkunftsangabe.** Kein Eskalationsmarker im
+Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

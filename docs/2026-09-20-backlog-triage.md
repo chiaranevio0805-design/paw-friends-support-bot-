@@ -558,3 +558,68 @@ Trading-Standards-Fällen geführt hat.**
 - **🔴 Beide Fristen laufen heute ab und sind unbearbeitet: #7479 und #6259.**
 - **⏰ #8669** — Storno elf Minuten nach Bestellung, weiterhin `UNFULFILLED`.
 - **⚠️ Drei festhängende Sendungen** (#8080, #6002, #8221).
+
+---
+
+## Lauf 15:20 UTC
+
+**Ein neuer Kundenvorgang (zwei Nachrichten). Keine Sendungen aus dem Shop-Konto
+seit 19.09. 10:57.**
+
+### #7560 — Samantha Vowles (`sammyv@live.co.uk`), 20.09. 15:05 und 15:09 UTC — **zweiter Kontakt**
+
+> *„I found my order yesterday, and my dog has **already destroyed one toy and
+> put a hole in the other** … **You advertise as there bring a one month
+> guarantee with these toys** but my dog has ripped into both **within 24 hours**
+> — in fact it took him **less than 30 minutes** to start getting the stuffing
+> out of the fox. **Please refund my purchases as they do not live up to your
+> advertising.**"*
+> Vier Minuten später: *„Apologies, I forgot to attach the photos."*
+
+**Vorab-Suche nach älteren Threads:** derselbe Thread trägt ihre **Lieferfrage
+vom 18.09. 11:43** — *„Please can you tell me when I should expect to receive my
+order? I haven't heard anything since this email on 3rd September."*
+**Diese Frage wurde nie beantwortet.** Ein Entwurf dazu wurde am 18.09.
+geschrieben, aber **wie alle anderen nie gesendet**, weil `create_draft`
+blockiert ist. **Das Paket ist von selbst aufgetaucht.** **Im Entwurf wird ihr
+das offen gesagt und dafür um Entschuldigung gebeten** — es wird **nicht** so
+getan, als sei die Frage beantwortet worden.
+
+**Shopify (#7560):** bestellt **24.08.**, Versand angelegt **03.09.** (**zehn
+Tage**), zwei Plushies (fox, monkey), **£27,95**, **0,00 £ erstattet**, Bleadon
+(GB). **Vierundzwanzigste Bestellung mit auffälliger Versandverzögerung.**
+
+**🟦 Der bemerkenswerte Punkt: sie beruft sich auf eine „one month guarantee" —
+und bei einem Plushies gibt es dafür auf der Produktseite keine Grundlage.**
+Die Plushies-Beschreibung enthält **überhaupt keinen Garantietext**. **Aber seit
+dem 19.09. liegt der Wortlaut der Klaviyo-Mail vom 27.08. vor**, und dort steht
+*„Backed by our **30-day money-back guarantee**"* und *„**30-day money-back
+guarantee — Zero risk on your side**"* — **ohne jede Bedingung.**
+
+**Deshalb wird ihr im Entwurf erstmals beides gesagt:** die Produktseite trägt
+keinen Garantietext, **aber unsere eigenen Werbemails tragen eine
+30-Tage-Garantie ohne Bedingung.** **Ihr zu sagen, es gebe keine Garantie, wäre
+seit dem 19.09. nachweislich falsch.** Gleichzeitig wird **ausdrücklich nicht
+behauptet, damit sei ihr Fall entschieden** — das bleibt Owner-Entscheidung.
+
+**Fünfundzwanzigste unabhängige Kundenaussage zur Werbung.**
+
+**Fotos — nicht geöffnet, keine verlangt.**
+
+**Keine Erstattung ausgeführt, keine zugesagt, keine Absage.**
+
+**Label:** `Bot/Escalated - Owner Attention` (bestrittene Werbeaussage +
+wiederholter Kontakt mit unbeantworteter Erstfrage). **Zweite Fassung.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Elf Kundenvorgänge am 20.09.**
+- **Einhundertzwei Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **🟦 Erstmals wird einer Kundin der Garantietext aus der Werbemail genannt** —
+  weil ihr zu sagen, es gebe keine Garantie, nachweislich falsch wäre.
+- **⚠️ Fünfundzwanzig unabhängige Kundenaussagen zur Werbung.**
+- **🔴 Beide Fristen laufen heute ab und sind unbearbeitet: #7479 und #6259.**
+- **⏰ #8669** — Storno elf Minuten nach Bestellung, weiterhin `UNFULFILLED`.
