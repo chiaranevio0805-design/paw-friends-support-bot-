@@ -13104,6 +13104,110 @@ Herkunftsangabe.** **Keine Rücksendeadresse erfunden.** **Keine Umrechnung** �
 38,87 $ ist der Betrag in ihrer Währung auf der Bestellung. Kein
 Eskalationsmarker im Text.
 
+## #7440 — Aaron Kell (aaron.kell30@gmail.com) — US, Erstkontakt, „no dog has ever destroyed one"
+
+**Betreff:** Re: Toy destroyed
+
+> Dear Aaron,
+>
+> Thank you for writing, and I am sorry it is about this. **A hole in the fox and
+> the elk's antlers chewed off, within days.** That is not what you paid for, and
+> I am not going to argue with you about it.
+>
+> **On the claim you mention.** You wrote that the product is advertised as one
+> **"that no dog has ever destroyed"**. **I am not going to pretend you invented
+> that.** A claim in that form does appear in our own material. What I cannot do
+> is tell you which advertisement was put in front of you — **I cannot see it
+> from here and I am not going to guess at it.** **Your sentence goes to the shop
+> owner exactly as you wrote it**, because he is the only person who can look at
+> the advertising itself.
+>
+> **One thing from our own records that you are entitled to know, even though you
+> did not ask:** your order was placed on 23 August and was not handed over for
+> dispatch until 3 September. **It sat with us for eleven days before it moved at
+> all.** That is ours and I am not going to explain it away.
+>
+> **You have not actually asked us for anything, and I am not going to put words
+> in your mouth.** You told us what happened. **If what you want is your money
+> back, say so in one line and it goes forward as that.** Either way, what you
+> wrote is already in front of the shop owner, with the order details: **order
+> #7440, two Plushies, $38.90 recorded on the order, nothing refunded, ordered
+> 23 August, dispatched 3 September.**
+>
+> **What I cannot do is decide a refund.** That is his call and not mine, **so I
+> am not going to promise you one and I am not going to refuse you one.**
+>
+> **And please do not post anything back to us** — we have no returns address I
+> can give you, and I would rather say so than have you pay postage to nowhere.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Bestätigung, dass eine Aussage dieser Art in unserem
+eigenen Material vorkommt**, die **ungefragte Offenlegung der elf Tage bis zum
+Versand**, die Weitergabe mit allen Zahlen, und die **ausdrückliche Weigerung,
+seine Meldung als Erstattungsforderung auszulegen**, verbunden mit dem Angebot,
+sie auf ein Wort hin so weiterzugeben. **Keine Erstattung zugesagt, kein Betrag
+zugesagt, kein Termin, keine Absage, keine Vorlagen-Antwort.** **Keine
+Rekonstruktion, welche Anzeige er gesehen hat** — es wird ausdrücklich gesagt,
+dass das von hier nicht feststellbar ist. **Keine Zuordnung seiner
+Formulierung zu einer bestimmten Produktseite.** **Keine Aussage über
+Füllmaterial oder Sicherheit** — er hat keine erwähnt. **Keine
+Rücksendeadresse erfunden.** **Keine Umrechnung** — 38,90 $ ist der Betrag in
+seiner Währung auf der Bestellung. Kein Eskalationsmarker im Text.
+
+## jscalera1@aol.com — zwei Meldungen binnen 36 Minuten, Bestellung nicht zuzuordnen
+
+**Betreff:** Re: Stuffed Animal / Another one destroyed
+
+> Dear Sir or Madam,
+>
+> Thank you for both messages. **The monkey in under three hours, and a second
+> one gone in five minutes with a six-month-old puppy.** I am sorry, and I am not
+> going to argue with you about either.
+>
+> **There is one administrative problem, and I would rather tell you about it
+> than work around it.** **The email address you are writing from is not recorded
+> against any order in our system.** That means I cannot confirm from here which
+> order is yours — **and I am not going to match a customer to an order on the
+> strength of a similar-looking name.** **That is not me doubting you.** It is me
+> refusing to send someone else's order details to the wrong person.
+>
+> **So this reply deliberately contains no order number, no amount and no
+> address.** If you send me **the order number** in writing — it is in the
+> confirmation email, in the form #1234 — I will have it matched properly.
+>
+> **What I have already done:** both of your messages have gone to the shop owner
+> as you wrote them, together with the note that the sender address does not
+> match an order. He can check it properly in the admin, which I cannot.
+>
+> **Your photographs are with your messages. I have not opened them**, and
+> nothing here depends on them. **You do not need to send anything else.**
+>
+> **And please do not post anything back to us** — we have no returns address I
+> can give you.
+>
+> **You have not asked us for anything yet, and I am not going to assume.** If
+> what you want is your money back, say so in one line and it goes forward as
+> that.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Benennung der ungesicherten Zuordnung**, die
+Weitergabe beider Meldungen im Original, die Bitte um die Bestellnummer, und die
+Zusicherung, dass keine Fotos nötig sind. **Keine Erstattung zugesagt, kein
+Betrag, kein Termin, keine Absage.** **Keine Bestellnummer, kein Betrag, keine
+Anschrift** — die Absenderadresse ist an keiner Bestellung hinterlegt, und ein
+Kundendatensatz mit ähnlichem Namen **unter einer anderen Adresse** wird
+**nicht** als seine behandelt. **Keine Daten an eine nicht hinterlegte Adresse
+herausgegeben.** **Keine Auswertung der Fotos.** **Keine Deutung seiner
+Meldungen als Erstattungsforderung.** **Keine Anrede mit einem geratenen
+Vornamen** — er hat nicht unterschrieben. **Keine Rücksendeadresse erfunden.**
+Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
