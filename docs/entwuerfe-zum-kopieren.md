@@ -13262,6 +13262,64 @@ Wort „scam"** — weder Zustimmung noch Widerspruch, keine rechtliche Bewertun
 **Keine Umrechnung** — 79,93 $ ist der Betrag in ihrer Währung auf der
 Bestellung. Kein Eskalationsmarker im Text.
 
+## #7975 — Carl Princehorn (carlprincehorn@gmail.com) — AU, Erstkontakt, erster Artikel in 15 Minuten zerstört
+
+**Betreff:** Re: A shipment from order #7975 is on the way
+
+> Dear Carl,
+>
+> Thank you for writing, and I am sorry it is about this. **Fifteen minutes.**
+> That is not what you paid for, and I am not going to argue with you about it or
+> ask you to prove it. **Your photograph is with your message — I have not opened
+> it**, and nothing here depends on it.
+>
+> **You wrote "the first toy I gave" him. If the second one is still sealed and
+> unopened, say so** — that is a different case from the first, and it is worth
+> having on the record separately. **I am not going to assume it either way.**
+>
+> **Two things from our own material that you are entitled to know.**
+>
+> **First, the wait.** You ordered on 27 August. The order was not handed over
+> for dispatch until 8 September — **twelve days sat here before it moved at
+> all.** That is ours, and I am not going to explain it away.
+>
+> **Second, because your delivery address is in the ACT.** Our published returns
+> policy carries a section headed **"Australia – Consumer Guarantees"**, and it
+> states that Australian consumer rights **"are not limited by the requirement
+> that an item be unused or in its original packaging."** **That is our own text,
+> on our own site.** **I am not giving you a legal opinion on it and I am not
+> telling you it decides your case** — I am telling you it is there, because you
+> should not have to find it yourself.
+>
+> **You have not actually asked us for anything, and I am not going to put words
+> in your mouth.** **If what you want is your money back, say so in one line and
+> it goes forward as that.** Either way, what you wrote is already with the shop
+> owner, with what our records show: **order #7975, two Plushies, A$53.86
+> recorded on the order, nothing refunded, ordered 27 August, dispatched
+> 8 September, first toy destroyed within fifteen minutes.**
+>
+> **Whether you are refunded is his decision and not mine, so I am not going to
+> promise you one and I am not going to refuse you one.**
+>
+> **And please do not post anything back to us** — we have no returns address I
+> can give you, and I would rather say so than have you pay postage to nowhere.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ungefragte Offenlegung der zwölf Tage bis zum
+Versand**, das **wörtliche Zitat unserer eigenen AU-Passage** mit ausdrücklichem
+Hinweis, dass damit nichts entschieden ist, die Weitergabe mit allen Zahlen, und
+die **Weigerung, seine Meldung als Erstattungsforderung auszulegen**. **Keine
+Erstattung zugesagt, kein Betrag zugesagt, kein Termin, keine Absage, keine
+Vorlagen-Antwort.** **Keine rechtliche Bewertung** — die AU-Passage wird
+zitiert, nicht ausgelegt. **Keine Annahme über den zweiten Artikel** — er wird
+gefragt, nicht unterstellt. **Keine Auswertung des Fotos, kein Foto verlangt.**
+**Keine Rücksendeadresse erfunden.** **Keine Umrechnung** — 53,86 A$ ist der
+presentment-Betrag der Bestellung; die abweichende GBP-Summe wird **nicht**
+überbrückt. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

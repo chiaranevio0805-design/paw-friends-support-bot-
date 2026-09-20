@@ -174,3 +174,58 @@ Produktlinien + Entscheidung außerhalb der Regel + eigener Versandverzug).
 - **⏱️ Neunzehnte Bestellung mit auffälliger Versandverzögerung.**
 - Die Fristen und offenen Punkte im Kopf dieser Datei bleiben unverändert:
   **#7479 und #6259 laufen heute ab.**
+
+---
+
+## Lauf 05:20 UTC
+
+**Ein neuer Kundenvorgang. Keine Sendungen aus dem Shop-Konto seit 19.09. 10:57.**
+
+### #7975 — Carl Princehorn (`carlprincehorn@gmail.com`), 20.09. 05:09 UTC — **AU**, Erstkontakt
+
+> *„Your package arrived. However **within 15 minutes** this was the state of the
+> **first toy I gave** to my Australian Kelpie. See attached."*
+
+**Vorab-Suche nach älteren Threads desselben Absenders:** ein einziger Thread.
+
+**Shopify (#7975):** bestellt **27.08.**, Versand angelegt **08.09.** —
+**zwölf Tage**, die bisher längste Vorlaufzeit in dieser Reihe —, zwei Plushies,
+**£28,50 / A$53,86** (presentment AUD; **die Differenz zur GBP-Summe wird nicht
+überbrückt**), **0,00 £ erstattet**, Evatt, **Australian Capital Territory
+(AU)**. **Zwanzigste Bestellung mit auffälliger Versandverzögerung.**
+
+**Neunter AU-Kunde** in dieser Reihe (nach #7663, #7989, #7885, #7275, #7896,
+#6311, #7815, #8098, #7119). **Die eigene veröffentlichte Rückgaberichtlinie
+enthält den Abschnitt „Australia – Consumer Guarantees"**, wonach australische
+Rechte *„are not limited by the requirement that an item be unused or in its
+original packaging."* **Das wird ihm im Entwurf wörtlich zitiert** — mit dem
+ausdrücklichen Hinweis, dass damit **nichts entschieden** ist und **keine
+rechtliche Bewertung** abgegeben wird.
+
+**Seine Formulierung „the first toy I gave" lässt offen, ob der zweite Artikel
+noch versiegelt ist.** **Das wird nicht unterstellt** — im Entwurf wird er
+gefragt, mit dem Hinweis, dass ein ungeöffneter zweiter Artikel ein **anderer
+Fall** wäre. Wäre es so, wäre er der **fünfzehnte** unbenutzte Artikel ohne
+Rücksendeweg.
+
+**Er hat nichts verlangt.** Seine Meldung wird **nicht ausgelegt**; stattdessen
+das Angebot, sie auf ein Wort hin als Erstattungswunsch weiterzugeben.
+
+**Ein Foto — nicht geöffnet, keines verlangt.**
+
+**Keine Erstattung ausgeführt, keine zugesagt, keine Absage, keine
+Vorlagen-Antwort.**
+
+**Label:** `Bot/Escalated - Owner Attention` (AU-Richtlinienwiderspruch +
+Haltbarkeitsbeschwerde + eigener Versandverzug).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Vier Kundenvorgänge am 20.09.**
+- **Fünfundneunzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⏱️ Zwanzigste Bestellung mit auffälliger Versandverzögerung** — #7975 mit
+  **zwölf Tagen** die längste bisher.
+- **Die beiden Fristen laufen heute ab: #7479 und #6259.**
