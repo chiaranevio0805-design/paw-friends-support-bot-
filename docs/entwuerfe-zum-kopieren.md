@@ -13450,6 +13450,59 @@ zustimmend noch ablehnend. **Keine Rücksendeadresse erfunden.** **Kein Versuch,
 ihn von Beschwerden oder Meldungen abzubringen**, und nichts daran geknüpft.
 Kein Eskalationsmarker im Text.
 
+## #7828 — Jim Edwards (jimandsue.je@gmail.com) — GB, Erstkontakt, „How do I claim my refund"
+
+**Betreff:** Re: Donkey toy.
+
+> Dear Jim,
+>
+> Thank you for writing, and I am sorry it is about this. **Five days.** That is
+> not what you paid for, and I am not going to argue with you about it or ask you
+> to prove it.
+>
+> **You asked a direct question — how do you claim your refund — so here is a
+> direct answer, and it is not a good one.**
+>
+> **There is no claim process I can point you to.** We do not publish a returns
+> address, so there is nowhere to send the toy, and **I am not going to invent
+> one.** **Please do not post anything back**, and **you do not need to send
+> photographs** — nothing here depends on any.
+>
+> **And the decision itself is not mine.** Whether you are refunded is the shop
+> owner's call. **So I am not going to promise you a refund and I am not going to
+> refuse you one.** What I have done is put your request in front of him exactly
+> as you asked it, with what our records show: **order #7828, one Plushies,
+> £19.95 recorded on the order, nothing refunded, ordered 26 August, dispatched
+> 3 September, destroyed after five days, refund requested.**
+>
+> **I would rather tell you plainly where your request sits than send you a tidy
+> answer that settles nothing.**
+>
+> **On the word you used.** I have read all twelve of our current product
+> descriptions and "indestructible" is not in any of them. **That is not me
+> telling you that you did not see it** — I cannot see the advertising you were
+> shown and I am not going to guess at it. **Your wording goes to the owner as
+> you wrote it**, because he is the only one who can look at the advertising
+> itself.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **direkte, wenn auch unerfreuliche Antwort auf seine
+Frage** (es gibt kein Verfahren, weil es keine Rücksendeadresse gibt), die
+Weitergabe mit allen Zahlen, die ehrliche Auskunft zur Werbefrage, und eine
+Nachfass-Zusage. **Keine Erstattung zugesagt, kein Betrag zugesagt, kein Termin,
+keine Absage, keine Vorlagen-Antwort.** **Keine Aussage, die Garantie decke
+Kauschaden** — die Garantie wird nicht zitiert, da die Plushies-Beschreibung
+keinen Garantietext enthält. **Keine Fotobedingung.** **Keine Rücksendeadresse
+erfunden.** **Keine Behauptung, das Wort „indestructible" existiere nicht.**
+**Keine Rekonstruktion der Anzeige.** **Anrede mit „Jim"**, wie er selbst
+unterschreibt — kein geratener Vorname; die Bestellung läuft auf „James
+Edwards" unter derselben E-Mail-Adresse. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

@@ -375,3 +375,53 @@ Paw-Friends™-Fluffys, **29,95 £**, **0,00 £ erstattet**.
   08:13 erstellt** (`docs/2026-09-20-tagesreport.md`, Commit `ceda3d1`).
   **#7479s sechste Nachricht kam eine halbe Stunde vorher herein, ist dort aber
   noch nicht enthalten** — sie fiel in diesen Lauf.
+
+---
+
+## Lauf 09:20 UTC
+
+**Ein neuer Kundenvorgang. Keine Sendungen aus dem Shop-Konto seit 19.09. 10:57.**
+
+### #7828 — Jim Edwards (`jimandsue.je@gmail.com`), 20.09. 08:41 UTC — Erstkontakt, GB
+
+> *„I'm afraid the **indestructible** toy lasted **5 days**. **How do I claim my
+> refund.**"*
+
+**Vorab-Suche nach älteren Threads desselben Absenders:** ein einziger Thread.
+
+**Shopify (#7828):** bestellt **26.08.**, Versand angelegt **03.09.** (**acht
+Tage**), ein Plushies, **£19,95**, **0,00 £ erstattet**, Swadlincote (GB).
+**Einundzwanzigste Bestellung mit auffälliger Versandverzögerung.**
+
+**⚠️ Zweiundzwanzigste unabhängige Kundenaussage zur Werbung**, wieder mit dem
+Wort **„indestructible"**.
+
+**Seine Frage ist präzise und wird präzise beantwortet: es gibt kein Verfahren,
+das man ihm nennen könnte.** Es gibt **keine Rücksendeadresse**, also nirgendwo
+hinzuschicken, und die Entscheidung liegt beim Owner. **Das steht so im
+Entwurf** — statt einer Vorlagen-Absage oder einer Hinhalteformel.
+
+**Zur Anrede:** Er unterschreibt mit **„Jim"**, die Bestellung läuft auf
+**„James Edwards"** unter derselben E-Mail-Adresse. **Es wird die
+Selbstbezeichnung verwendet, kein geratener Vorname.**
+
+**Zur Garantie:** **Nicht zitiert.** Sein Artikel ist ein Plushies, und die
+Plushies-Beschreibung enthält **überhaupt keinen Garantietext** — anders als
+die Fluffys-Seite. Eine Bedingung oder eine Zusage daraus abzuleiten, wäre
+erfunden.
+
+**Keine Erstattung ausgeführt, keine zugesagt, keine Absage. Kein Foto
+verlangt.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Sieben Kundenvorgänge am 20.09.**
+- **Achtundneunzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **🔴 Beide Fristen laufen heute ab und sind unbearbeitet: #7479 und #6259.**
+- **⏰ #8669** — Storno elf Minuten nach Bestellung, weiterhin `UNFULFILLED`.
+- **⚠️ Zweiundzwanzig unabhängige Kundenaussagen zur Werbung.**
