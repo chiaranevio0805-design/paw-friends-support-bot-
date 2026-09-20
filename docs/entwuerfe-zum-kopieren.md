@@ -13208,6 +13208,60 @@ Meldungen als Erstattungsforderung.** **Keine Anrede mit einem geratenen
 Vornamen** — er hat nicht unterschrieben. **Keine Rücksendeadresse erfunden.**
 Kein Eskalationsmarker im Text.
 
+## #8053 — Angie Zgonina (azgonina@icloud.com) — US, Erstkontakt, vier Artikel, „What a scam"
+
+**Betreff:** Re: Product
+
+> Dear Angie,
+>
+> Thank you for writing, and I am sorry it is about this. **Four toys, about ten
+> minutes.** That is not what you paid for, and I am not going to argue with you
+> about it or ask you to prove it.
+>
+> **You have not asked us for anything, and I am not going to put words in your
+> mouth.** You told us what happened. **If what you want is your money back, say
+> so in one line and it goes forward as that.** Either way, what you wrote is
+> already in front of the shop owner, with what our records show: **order #8053,
+> two Plushies and two Fluffys, $79.93 recorded on the order, nothing refunded,
+> ordered 28 August, dispatched 8 September.**
+>
+> **Two things from our own material that you are entitled to know, and I would
+> rather tell you than let you find out later.**
+>
+> **First, the wait.** Your order sat here for **eleven days** before it was
+> handed over for dispatch. That is ours, and I am not going to explain it away.
+>
+> **Second, the guarantee.** Our Paw-Friends™ Fluffys page lists a **30-day
+> money-back guarantee, and it does not attach a condition to it.** **I am not
+> telling you that settles your case** — whether it is applied here is the shop
+> owner's decision and not mine, and I am not going to promise you a refund or
+> refuse you one. **But I am not going to keep our own published wording from
+> you either.**
+>
+> **You do not need to send photographs**, and nothing here depends on any.
+> **And please do not post anything back to us** — we have no returns address I
+> can give you, and I would rather say so than have you pay postage to nowhere.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ungefragte Offenlegung der elf Tage bis zum Versand**,
+die **wahrheitsgemäße Wiedergabe des eigenen Fluffys-Produkttexts** (30 Tage,
+**ohne Bedingung**) **mit ausdrücklichem Hinweis, dass damit nichts entschieden
+ist**, die Weitergabe mit allen Zahlen, und die **Weigerung, ihre Meldung als
+Erstattungsforderung auszulegen**, verbunden mit dem Angebot, sie auf ein Wort
+hin so weiterzugeben. **Keine Erstattung zugesagt, kein Betrag zugesagt, kein
+Termin, keine Absage, keine Vorlagen-Antwort.** **Keine Behauptung, die Garantie
+decke ihren Fall** — nur, was auf der Seite steht, und dass die Entscheidung
+beim Owner liegt. **Keine erfundene „unbenutzt"-Bedingung.** **Keine
+Fotobedingung.** **Keine Rücksendeadresse erfunden.** **Keine Reaktion auf das
+Wort „scam"** — weder Zustimmung noch Widerspruch, keine rechtliche Bewertung.
+**Keine Umrechnung** — 79,93 $ ist der Betrag in ihrer Währung auf der
+Bestellung. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

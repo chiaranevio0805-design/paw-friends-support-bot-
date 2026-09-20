@@ -122,3 +122,55 @@ Haltbarkeitsbeschwerde).
 - **⏱️ Achtzehnte Bestellung mit auffälliger Versandverzögerung.**
 - Die Fristen und offenen Punkte aus dem Kopf dieser Datei bleiben unverändert
   bestehen.
+
+---
+
+## Lauf 03:20 UTC
+
+**Ein neuer Kundenvorgang. Keine Sendungen aus dem Shop-Konto seit 19.09. 10:57.**
+
+### #8053 — Angie Zgonina (`azgonina@icloud.com`), 20.09. 02:47 UTC — Erstkontakt
+
+> *„Your plushies and fluffies lasted about 10 minutes! **What a scam!!!**"*
+
+**Vorab-Suche nach älteren Threads desselben Absenders:** ein einziger Thread.
+
+**Shopify (#8053):** bestellt **28.08.**, Versand angelegt **08.09.** (**elf
+Tage**), **vier Positionen** — zwei Plushies **und zwei Paw-Friends™-Fluffys —**,
+**£59,05 / $79,93** (presentment USD, **nichts umgerechnet**), **0,00 £
+erstattet**, Richview, **Illinois (US)**. **Neunzehnte Bestellung mit
+auffälliger Versandverzögerung.**
+
+**Der höchste Einzelbetrag unter den Haltbarkeitsbeschwerden dieses und des
+Vortages.**
+
+**Besonderheit gegenüber den bisherigen Fällen:** Sie hat **beide Produktlinien**
+gekauft. **Die Fluffys-Beschreibung führt „✓ 30-day money-back guarantee" ohne
+jede Bedingung** (Vollabgleich aller zwölf Produkttexte am 18.09.). **Das wird
+ihr im Entwurf wahrheitsgemäß genannt** — zusammen mit dem **ausdrücklichen
+Hinweis, dass damit nichts entschieden ist** und die Entscheidung beim Owner
+liegt. **Es wird weder behauptet, die Garantie decke ihren Fall, noch wird eine
+„unbenutzt"-Bedingung erfunden, die dort nicht steht.** Das ist der schmale Grat
+zwischen Verschweigen und Zusagen, und er wird hier bewusst so gezogen.
+
+**Sie hat nichts verlangt.** *„What a scam"* ist eine Bewertung, keine
+Forderung. **Ihre Meldung wird nicht als Erstattungsforderung ausgelegt**;
+stattdessen das Angebot, sie auf ein Wort hin so weiterzugeben. **Auf das Wort
+„scam" wird nicht reagiert** — weder zustimmend noch widersprechend.
+
+**Keine Erstattung ausgeführt, keine zugesagt, keine Absage, keine
+Vorlagen-Antwort.**
+
+**Label:** `Bot/Escalated - Owner Attention` (Haltbarkeitsbeschwerde über beide
+Produktlinien + Entscheidung außerhalb der Regel + eigener Versandverzug).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Drei Kundenvorgänge am 20.09.**
+- **Vierundneunzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⏱️ Neunzehnte Bestellung mit auffälliger Versandverzögerung.**
+- Die Fristen und offenen Punkte im Kopf dieser Datei bleiben unverändert:
+  **#7479 und #6259 laufen heute ab.**
