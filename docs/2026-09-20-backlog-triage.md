@@ -425,3 +425,56 @@ verlangt.**
 - **🔴 Beide Fristen laufen heute ab und sind unbearbeitet: #7479 und #6259.**
 - **⏰ #8669** — Storno elf Minuten nach Bestellung, weiterhin `UNFULFILLED`.
 - **⚠️ Zweiundzwanzig unabhängige Kundenaussagen zur Werbung.**
+
+---
+
+## Lauf 11:20 UTC
+
+**Ein neuer Kundenvorgang. Keine Sendungen aus dem Shop-Konto seit 19.09. 10:57.**
+
+### #8221 — Beau Ricketts (`rickettsbeau@gmail.com`), 20.09. 10:27 UTC — **AU**, Sendung seit zwölf Tagen still
+
+> *„My item has not arrived. **Can you please find it.**"*
+
+**Vorab-Suche nach älteren Threads desselben Absenders:** ein einziger Thread.
+
+**Shopify (#8221):** bestellt **30.08.**, Versand angelegt **08.09.** (**neun
+Tage**), ein Plushies, **£20,35 / A$38,44** (presentment AUD; **die Differenz
+zur GBP-Summe wird nicht überbrückt**), **0,00 £ erstattet**, Young, **New South
+Wales (AU)**. Sendungsnummer **VR962222452YP**.
+
+**Der entscheidende Befund, wie schon bei #8080 und #6002:**
+`fulfillments.updatedAt` ist **identisch mit `createdAt`, 08.09.2026 07:43 UTC**.
+**Seit zwölf Tagen keine Aktualisierung im eigenen Datensatz.**
+
+**⚠️ Damit ist das der dritte Fall dieser Art binnen einer Woche** — #8080
+(Texas, elf Tage still, Nummer läuft auf Fehler), #6002 (Florida, seit 22.08.
+ohne Aktualisierung) und **#8221 (NSW, zwölf Tage still)**. **Bei zweien hat der
+Kunde selbst gemerkt, dass etwas nicht stimmt.** **Für den Owner: das ist kein
+Einzelfall mehr, sondern ein Muster bei den Sendungen vom 08.09.**
+
+**Im Entwurf wird ihm der Datenstand vollständig genannt** und **ausdrücklich
+nicht behauptet, das Paket sei unterwegs.** **Kein Verweis an den
+Versanddienstleister**, keine Aufforderung, selbst nachzuforschen, **keine
+Spekulation über den Verbleib**, **keine Zusage** auf Ersatz oder Erstattung.
+Auf seine Bitte *„can you please find it"* wird ehrlich geantwortet: **von hier
+aus nicht auffindbar** — aber es wird ihm auch nicht aufgebürdet.
+
+**Zehnter AU-Kunde** in dieser Reihe. **Zweiundzwanzigste Bestellung mit
+auffälliger Versandverzögerung.**
+
+**Label:** `Bot/Needs Approval` — der Entwurf enthält keine Zusage, aber der
+Fall verlangt eine Entscheidung (Ersatz, Erstattung oder Nachforschung), die nur
+der Owner treffen kann.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Acht Kundenvorgänge am 20.09.**
+- **Neunundneunzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⚠️ Drei festhängende Sendungen binnen einer Woche** (#8080, #6002, #8221) —
+  alle drei ohne Aktualisierung seit dem Versandtag.
+- **🔴 Beide Fristen laufen heute ab und sind unbearbeitet: #7479 und #6259.**
+- **⏰ #8669** — Storno elf Minuten nach Bestellung, weiterhin `UNFULFILLED`.

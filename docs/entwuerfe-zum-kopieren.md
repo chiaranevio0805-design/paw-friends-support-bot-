@@ -13503,6 +13503,54 @@ erfunden.** **Keine Behauptung, das Wort „indestructible" existiere nicht.**
 unterschreibt — kein geratener Vorname; die Bestellung läuft auf „James
 Edwards" unter derselben E-Mail-Adresse. Kein Eskalationsmarker im Text.
 
+## #8221 — Beau Ricketts (rickettsbeau@gmail.com) — AU, Sendung seit zwölf Tagen ohne Aktualisierung
+
+**Betreff:** Re: A shipment from order #8221 is on the way
+
+> Dear Beau,
+>
+> Thank you for telling us, and I am sorry you had to ask.
+>
+> **Here is exactly what our own record shows for order #8221, with nothing added
+> to it:**
+>
+> - The order was placed on **30 August**.
+> - It was handed over for dispatch on **8 September** — **nine days later**, and
+>   that wait was at our end.
+> - The tracking number recorded against it is **VR962222452YP**.
+> - **Our record has had no update on that shipment since 8 September.**
+>
+> **So I am not going to tell you it is on its way, because I cannot see that it
+> is.** Twelve days with no movement in our own system is not something I am
+> going to describe as normal progress.
+>
+> **You asked us to find it. What I can honestly say is that I cannot find it
+> from here, and I am not going to send you off to chase it yourself either** —
+> that is not your job.
+>
+> **What I have done instead:** your order has gone to the shop owner as a
+> **stalled shipment**, with the order number, the tracking number and the dates
+> above. **Whether you get a replacement or your money back is his decision and
+> not mine, so I am not going to promise you either one.**
+>
+> **You do not need to do anything.** If you have heard nothing in a few days,
+> reply here and I will chase it again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **vollständige, überprüfbare Wiedergabe des eigenen
+Datenstands** (Bestelldatum, Versanddatum, Sendungsnummer, **letzte
+Aktualisierung 08.09.**), die **offene Zurechnung der neun Tage bis zum
+Versand**, die Einordnung als festhängende Sendung, und eine Nachfass-Zusage.
+**Keine Erstattung zugesagt, kein Ersatz zugesagt, kein Termin.** **Keine
+Behauptung, das Paket sei unterwegs.** **Kein Verweis an den
+Versanddienstleister** und keine Aufforderung, selbst nachzuforschen. **Keine
+Herkunftsangabe.** **Keine Spekulation über den Verbleib.** **Keine
+Umrechnung** — es wird kein Betrag genannt, weil keiner nötig ist. Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
