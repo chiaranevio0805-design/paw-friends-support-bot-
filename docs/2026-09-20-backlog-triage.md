@@ -229,3 +229,75 @@ Haltbarkeitsbeschwerde + eigener Versandverzug).
 - **⏱️ Zwanzigste Bestellung mit auffälliger Versandverzögerung** — #7975 mit
   **zwölf Tagen** die längste bisher.
 - **Die beiden Fristen laufen heute ab: #7479 und #6259.**
+
+---
+
+## Lauf 06:20 UTC
+
+**Ein neuer Kundenvorgang. Keine Sendungen aus dem Shop-Konto seit 19.09. 10:57.**
+
+### #6592 — Andrew Rowlands (`andy@jacarowlands.co.uk`), 20.09. 05:55 UTC — Erstkontakt, GB
+
+> *„My order arrived eventually. I was disappointed that it **changed from
+> arriving in a few days to taking 2 weeks**, but I can live with that.
+> Unfortunately **I do have to challenge your claims that the toys are
+> indestructible**. My Corgi has already **destroyed 2 of the toys**, which is
+> unacceptable given your marketing claims. **Please advise how I can get a
+> refund or replacements.**"*
+
+**Vorab-Suche nach älteren Threads desselben Absenders:** ein einziger Thread.
+
+**Shopify (#6592):** bestellt **18.08.**, Versand angelegt **23.08.** — **fünf
+Tage, die kürzeste Vorlaufzeit in dieser ganzen Reihe.** **£65,95**, **0,00 £
+erstattet**, Knutsford (GB). Positionen: **sechs Paw-Friends™-Fluffys** (2×
+giraffe, 2× Duck, 2× frog, Aktion *„BUY 3 AND GET 3 FREE"*), eine Fur Wonder
+Brush, **und das digitale E-Book**.
+
+**⛔ Dritter Fall einer unerfüllten E-Book-Position:** `unfulfilledQuantity: 1`
+— nach **#8372** und **#7555**. Bei #7555 hat der Kunde am 19.09. ausdrücklich
+gesagt, er habe die vierte Position **nie erhalten**. **Damit ist das ein
+Muster, kein Einzelfall.** Andrew wird der Datenstand **ungefragt genannt**,
+ohne Zusage einer Nachlieferung.
+
+**⚠️ Einundzwanzigste unabhängige Kundenaussage zur Werbung.** Er verwendet das
+Wort **„indestructible"** und spricht ausdrücklich von *„your marketing
+claims"* — **die erste Kundenaussage, die die Werbung selbst und nicht die
+Produktseite benennt.** Das passt zu dem am 19.09. belegten Fund: die
+Klaviyo-Mail vom 27.08.
+
+**Er hat zwei Optionen genannt — „refund **or** replacements".** **Beide werden
+im Original weitergegeben**, keine wird für ihn ausgewählt.
+
+**Vier der sechs Fluffys sind nach seiner Schilderung nicht zerstört.** **Ob sie
+unbenutzt sind, wird nicht unterstellt** — er wird gefragt. Wären sie es, wären
+es **vier weitere unbenutzte Artikel ohne Rücksendeweg.**
+
+**Die Fluffys-Beschreibung führt die 30-Tage-Garantie ohne Bedingung.** Das wird
+ihm wahrheitsgemäß genannt, **mit dem ausdrücklichen Hinweis, dass damit nichts
+entschieden ist.**
+
+**Zur Lieferzeit:** Er beanstandet, dass aus „a few days" zwei Wochen wurden,
+**lässt es aber ausdrücklich durchgehen.** Im Entwurf wird das **weder
+gerechtfertigt noch breitgetreten** — die fünf Tage bis zum Versand sind hier
+tatsächlich der beste Wert der Reihe, und es wird **keine Herkunfts- oder
+Dienstleisterangabe** gemacht.
+
+**Keine Erstattung ausgeführt, keine zugesagt, kein Ersatz zugesagt, keine
+Absage, keine Vorlagen-Antwort.**
+
+**Label:** `Bot/Escalated - Owner Attention` (bestrittene Werbeaussage +
+Entscheidung außerhalb der Regel + unerfüllte Position).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Fünf Kundenvorgänge am 20.09.**
+- **Sechsundneunzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⛔ Dritter Fall einer unerfüllten E-Book-Position** (#8372, #7555, #6592) —
+  bei #7555 vom Kunden ausdrücklich beanstandet. **Für den Owner: prüfen, ob
+  diese Position überhaupt je ausgeliefert wird.**
+- **⚠️ Einundzwanzig unabhängige Kundenaussagen zur Werbung**, erstmals mit
+  ausdrücklichem Bezug auf *„your marketing claims"*.
+- **Die beiden Fristen laufen heute ab: #7479 und #6259.**

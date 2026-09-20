@@ -13320,6 +13320,76 @@ gefragt, nicht unterstellt. **Keine Auswertung des Fotos, kein Foto verlangt.**
 presentment-Betrag der Bestellung; die abweichende GBP-Summe wird **nicht**
 überbrückt. Kein Eskalationsmarker im Text.
 
+## #6592 — Andrew Rowlands (andy@jacarowlands.co.uk) — GB, sechs Fluffys, zwei zerstört, Erstattung **oder** Ersatz verlangt
+
+**Betreff:** Re: A shipment from order #6592 is on the way
+
+> Dear Andrew,
+>
+> Thank you for writing, and thank you for being fair about the delivery — **you
+> did not have to be.** Two of six toys gone to a Corgi is not what you paid for,
+> and I am not going to argue with you about it.
+>
+> **You asked one clear question: how do you get a refund or replacements. Here
+> is an honest answer, in three parts.**
+>
+> **First, the decision is not mine.** Whether you get a refund or replacements
+> is the shop owner's call. **So I am not going to promise you either, and I am
+> not going to refuse you either.** Your request has gone to him exactly as you
+> wrote it — **refund or replacements**, both options, in your words.
+>
+> **Second, there is nothing for you to do and nowhere to send anything.** We do
+> not publish a returns address. There is none I can give you, and I am not going
+> to invent one. **Please do not post anything back until you hear otherwise**,
+> and **you do not need to send photographs** — nothing here depends on any.
+>
+> **Third, you bought six Fluffys and two are destroyed. If the other four are
+> still sealed, tell me** — that is a different case from the two that were
+> chewed, and it is worth having on the record separately. **I am not going to
+> assume it either way.**
+>
+> **Two things from our own records you are entitled to know.**
+>
+> **Your order has a line that is still recorded as unfulfilled:** the digital
+> guide *"Why Your Dog Destroys Every Toy (And How to Finally Stop It)"*. The
+> toys and the brush are recorded as dispatched; **that fourth line is not.** If
+> it never reached you, you are not imagining it.
+>
+> **And our Paw-Friends™ Fluffys page lists a 30-day money-back guarantee, with
+> no condition attached to it.** **I am not telling you that settles your case** —
+> that is the owner's decision, not mine. **But I am not going to keep our own
+> published wording from you either.**
+>
+> **On the claims you are challenging.** I have read all twelve of our current
+> product descriptions, and the word "indestructible" is not in any of them.
+> **That is not me telling you that you did not see it** — I cannot see the
+> advertising you were shown and I am not going to guess at it. **Your sentence
+> goes to the owner as you wrote it**, because he is the only one who can look at
+> the advertising itself.
+>
+> **Your order is #6592, six Fluffys plus a brush, £65.95 recorded on the order,
+> nothing refunded, ordered 18 August, dispatched 23 August.** If you have heard
+> nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **direkte Beantwortung seiner Frage**, die Weitergabe
+**beider** von ihm genannten Optionen im Original, die **ungefragte Offenlegung
+der unerfüllten vierten Position**, die **wahrheitsgemäße Wiedergabe des eigenen
+Fluffys-Produkttexts** (30 Tage, **ohne Bedingung**) **mit ausdrücklichem
+Hinweis, dass damit nichts entschieden ist**, die ehrliche Auskunft zur
+Werbefrage, und eine Nachfass-Zusage. **Keine Erstattung zugesagt, kein Ersatz
+zugesagt, kein Betrag, kein Termin, keine Absage, keine Vorlagen-Antwort.**
+**Keine Nachlieferung der vierten Position zugesagt** — nur der Datenstand.
+**Keine Annahme über die vier übrigen Fluffys** — er wird gefragt, nicht
+unterstellt. **Keine erfundene „unbenutzt"-Bedingung.** **Keine Fotobedingung.**
+**Keine Rücksendeadresse erfunden.** **Kein Hinweis auf den
+Versanddienstleister, keine Herkunftsangabe** — und **keine Rechtfertigung der
+Lieferzeit**, die er selbst hat durchgehen lassen. Kein Eskalationsmarker im
+Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
