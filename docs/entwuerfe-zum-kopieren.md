@@ -13854,6 +13854,63 @@ Größenbeanstandung vom 18.09. wird **nicht** bewertet. **Keine Auswertung der
 Fotos.** **Keine Rücksendeadresse erfunden.** **Keine Umrechnung** — 59,85 $ ist
 der Betrag in seiner Währung auf der Bestellung. Kein Eskalationsmarker im Text.
 
+## #7885 — Rod McNess (rod.m@promptpetroleum.com.au) — AU, **zweimal dieselbe Absage**, zweite Fassung
+
+**Betreff:** Re: Failed Plushie Fox
+
+> Dear Rod,
+>
+> **You have now had the same paragraph from us twice — on 17 September and again
+> on 19 September — and you sent us the same reply twice, word for word. I do not
+> blame you. I am not going to send you a third one.**
+>
+> **What you actually asked on 15 September was this:** *"Can you please advise
+> how we get our money back and do we need to send the product back for our
+> refund."* **That was a straight question and it has still not been answered.**
+> Here is the answer, in two parts, and neither part is good news.
+>
+> **Do you need to send it back? No — and not because we are being generous. We
+> do not publish a returns address.** There is none I can give you, so **please
+> do not post anything**, and I am not going to invent one to make this reply
+> look tidier.
+>
+> **How do you get your money back? That decision is the shop owner's, not
+> mine.** **I am not going to promise you a refund, and I am not going to refuse
+> you one for a third time.** Your case is in front of him as you described it:
+> **order #7885, one Plushies fox, A$38.52 recorded on the order, nothing
+> refunded, ordered 27 August, dispatched 3 September, delivered 11 September,
+> used about an hour a day indoors, failed, refund requested on 15 September.**
+>
+> **One more thing, because your delivery address is in Victoria.** Our published
+> returns policy carries a section headed **"Australia – Consumer Guarantees"**,
+> and it states that Australian consumer rights **"are not limited by the
+> requirement that an item be unused or in its original packaging."** **That is
+> our own text, on our own site.** **The two replies you received cited exactly
+> that requirement back at you.** I am not giving you a legal opinion — I am
+> telling you what our own policy says, because you should not have to find it
+> yourself.
+>
+> **You called us lying cheats. I am not going to argue with you about that
+> either**, and nothing here is conditional on you taking it back.
+>
+> If you have heard nothing in a few days, reply here and I will chase it again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Anerkennung, dass er dieselbe Vorlage zweimal
+bekam**, die **endlich erfolgende Beantwortung seiner Frage vom 15.09.** in
+beiden Teilen, die **wahre Begründung** für die fehlende Rücksendemöglichkeit,
+das **wörtliche Zitat unserer eigenen AU-Passage** mit dem Hinweis, dass beide
+Absagen genau dagegen verstießen, und eine Nachfass-Zusage. **Keine Erstattung
+zugesagt, kein Betrag zugesagt, kein Termin, keine dritte Absage.** **Keine
+rechtliche Bewertung** — die AU-Passage wird zitiert, nicht ausgelegt. **Keine
+Rücksendeadresse erfunden.** **Keine Reaktion auf die Beschimpfung** außer der
+ausdrücklichen Feststellung, dass nichts daran geknüpft wird. **Keine
+Umrechnung** — 38,52 A$ ist der presentment-Betrag der Bestellung. Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

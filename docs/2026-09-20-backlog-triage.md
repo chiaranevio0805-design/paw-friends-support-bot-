@@ -827,3 +827,67 @@ beantwortet, kein Entwurf, kein Link geöffnet.** **Label:** `Bot/No Action`.
 - **Der Abendreport von 19:00** (`docs/2026-09-20-abendreport.md`, Commit
   `30ae316`) **enthält diese drei Entwürfe noch nicht** — sie kamen danach
   herein. Volltexte in `docs/entwuerfe-zum-kopieren.md`.
+
+---
+
+## Lauf 21:20 UTC
+
+**Ein neuer Kundenvorgang — und eine Korrektur an der Zählung vom 19.09.**
+
+### ⛔ #7885 — Rod McNess (`rod.m@promptpetroleum.com.au`), 20.09. 21:07 UTC — **AU, zweimal dieselbe Absage**
+
+> *„That's an absolute load of rubbish. Of course the dog played with it — you
+> product is rubbish and **you are ripping people off**. **Your nothing but a
+> bunch of lying cheats**"*
+
+**Der Ablauf, und er ist bitter, weil er sich wörtlich wiederholt:**
+
+| Datum | Vorgang |
+|---|---|
+| **15.09. 14:44** | Höfliche Frage: *„Can you please advise **how we get our money back** and **do we need to send the product back** for our refund. Your respectfully but disappointed, Rod McNess and Chica"* |
+| **17.09. 09:33** | Kauschaden-Vorlage. |
+| **17.09. 14:36** | *„…a bunch of lying cheats"* |
+| **19.09. 10:10** | **Dieselbe Vorlage ein zweites Mal**, Variante *„As explained"*. |
+| **20.09. 21:07** | **Wortgleich dieselbe Antwort wie am 17.09.** |
+
+**Er schickt zweimal denselben Text, weil er zweimal denselben Text bekommen
+hat.**
+
+**⚠️ Korrektur zur Zählung vom 19.09.:** In den Läufen vom 19.09. wurden acht
+Vorlagen-Sendungen dieses Tages erfasst. **Die Sendung um 10:10:11 UTC an #7885
+war nicht darunter** — sie lag zwischen der an #7119 (10:09:26) und der an
+#7401 (10:28:57) und fiel durch, weil der Thread damals keine ungelesene
+Eingangsnachricht trug. **Richtig sind damit neun Sendungen am 19.09.** und
+**sechzehn insgesamt** seit dem 15.09. **Vier Kunden haben sie zweimal bekommen
+(#7547, #7347, #7885), einer dreimal (#7401).**
+
+**Shopify (#7885):** bestellt **27.08.**, Versand **03.09.** (sieben Tage),
+zugestellt **11.09.**, ein Plushies (fox), **£20,35 / A$38,52** (presentment
+AUD; **nicht überbrückt**), **0,00 £ erstattet**, Upwey, **Victoria (AU)**.
+
+**⛔ Elfter AU-Kunde** — und beide Absagen an ihn haben ihm die
+**„unused"-Bedingung** entgegengehalten, **die unsere eigene veröffentlichte
+AU-Passage ausdrücklich abbedingt.** Dasselbe wie bei #7119 am 19.09.
+
+**Im Entwurf wird seine Frage vom 15.09. endlich beantwortet** — beide Teile,
+ehrlich: **keine Rücksendung, weil es keine Adresse gibt**, und **die
+Erstattungsentscheidung liegt beim Owner.** **Keine dritte Absage.** Die
+AU-Passage wird zitiert, **nicht ausgelegt**. **Auf die Beschimpfung wird nicht
+reagiert**, außer mit der Feststellung, dass nichts daran geknüpft wird.
+
+**Label:** `Bot/Escalated - Owner Attention`. **Zweite Fassung.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Fünfzehn Kundenvorgänge am 20.09.**, dazu drei Systemmails.
+- **Einhundertsechs Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⛔ Korrigierte Gesamtzahl: sechzehn Sendungen der Kauschaden-Vorlage in sechs
+  Tagen an zwölf Kunden.** **Keine einzige hat einen Fall beendet.** Vier Kunden
+  haben sie zweimal bekommen, einer dreimal.
+- **⛔ Zwei AU-Kunden (#7119, #7885) wurde die „unused"-Bedingung
+  entgegengehalten, die unsere eigene AU-Passage abbedingt.**
+- **🔴 Beide Fristen sind heute abgelaufen: #7479 und #6259.**
+- **⏰ #8669** — Storno elf Minuten nach Bestellung, weiterhin `UNFULFILLED`.
