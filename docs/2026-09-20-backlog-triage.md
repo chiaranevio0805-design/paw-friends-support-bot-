@@ -301,3 +301,77 @@ Entscheidung außerhalb der Regel + unerfüllte Position).
 - **⚠️ Einundzwanzig unabhängige Kundenaussagen zur Werbung**, erstmals mit
   ausdrücklichem Bezug auf *„your marketing claims"*.
 - **Die beiden Fristen laufen heute ab: #7479 und #6259.**
+
+---
+
+## Lauf 08:20 UTC
+
+**Ein neuer Vorgang — und es ist der Fall, dessen Frist heute abläuft.**
+
+### 🔴 #7479 — Richard Bellamy-Williams, 20.09. 07:43 UTC — **sechster Kontakt, am Tag der Frist**
+
+> *„Hi **Lisa/Chiara**, Isn't German and EU law a wonderful thing 😉
+> It would seem that the great and the good in **Mertloch** take a dim view of
+> breaching EU distant selling regulations. Thankfully, the **business address,
+> sole trader registration, phone number, tax registration reference and address
+> for suitable service** is available thanks to German law and that **links your
+> Shopify merchant account** … all useful information for the relevant
+> authorities including but not limited to **European Consumer Centre Germany**.
+> Probably time to share that with your disappointed customers don't you think?
+> **The post in Kirchstraße looks like it might be getting quite litigious** over
+> the coming weeks. **Just checking how that 30 day refund is coming along?**
+> I look forward to receiving my refund **by return**."*
+
+**Kontakte: 14.09., 15.09., 16.09., 17.09., 19.09., 20.09. — sechs.**
+**Antworten von uns: eine**, am 15.09., und die beantwortete eine Frage, die er
+nicht gestellt hatte.
+
+**Zwei Dinge haben sich seit gestern geändert:**
+
+1. **Die Anschriftsfrage ist gegenstandslos.** Er hat die Daten selbst gefunden
+   und nennt **Mertloch** und die **Kirchstraße** beim Namen — also genau das,
+   was in den **Terms of Service** und im **Fußbereich jeder Werbemail** steht.
+   **Was am 19.09. noch eine Owner-Entscheidung war (Anschrift herausgeben oder
+   nicht), ist erledigt: er hat sie.**
+2. **Er nennt den Shop erstmals mit einem Personennamen** und kündigt eine
+   Meldung an das **Europäische Verbraucherzentrum Deutschland** an.
+
+**Im Entwurf wird zur Person weder etwas bestätigt noch bestritten**, über das
+hinaus, was ohnehin veröffentlicht ist. **Keine rechtliche Bewertung** seiner
+Punkte.
+
+**⚠️ Wichtige Klarstellung im Entwurf:** Es wird ihm **nicht** gesagt, man habe
+ihm die Anschrift bereits genannt. **Die fünfte Fassung vom 19.09. enthielt
+diesen Hinweis — sie wurde nie gesendet, weil `create_draft` blockiert ist.**
+Ihm gegenüber zu tun, als sei sie draußen gewesen, wäre falsch. **Im Entwurf
+steht stattdessen offen, dass er seit dem 15.09. nichts erhalten hat.**
+
+**Die Sachfrage ist unverändert und weiterhin die am leichtesten zu
+beantwortende im ganzen Postfach:** Er hat einen **ungeöffneten, unbenutzten**
+Fluffy und hat die Rückgabe **sechs Stunden nach Zustellung** angeboten. Die
+**Fluffys-Seite führt „✓ 30-day money-back guarantee" ohne jede Bedingung.**
+Der einzige Hinderungsgrund ist, dass **keine Rücksendeadresse existiert** — und
+genau das steht im Entwurf, statt einer Policy-Begründung, die nicht der wahre
+Grund ist.
+
+**Shopify (#7479), unverändert:** bestellt 23.08., Versand 03.09., zwei
+Paw-Friends™-Fluffys, **29,95 £**, **0,00 £ erstattet**.
+
+**Label:** `Bot/Escalated - Owner Attention`. **Sechste Fassung.**
+**Frist läuft heute ab.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Sechs Kundenvorgänge am 20.09.**
+- **Siebenundneunzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **🔴 Beide Fristen laufen heute ab, und beide sind unbearbeitet:**
+  **#7479** (sechster Kontakt, seit fünf Tagen ohne Antwort) und **#6259**
+  (Trading Standards, Erstattung gemeldet, in Shopify `refunds: []`).
+- **⏰ #8669** — Storno elf Minuten nach Bestellung, weiterhin `UNFULFILLED`.
+- **Der Tagesreport für den Zeitraum 19.09. 08:13 – 20.09. 08:13 wurde um
+  08:13 erstellt** (`docs/2026-09-20-tagesreport.md`, Commit `ceda3d1`).
+  **#7479s sechste Nachricht kam eine halbe Stunde vorher herein, ist dort aber
+  noch nicht enthalten** — sie fiel in diesen Lauf.

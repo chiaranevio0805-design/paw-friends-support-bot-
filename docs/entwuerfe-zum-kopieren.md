@@ -13390,6 +13390,66 @@ Versanddienstleister, keine Herkunftsangabe** — und **keine Rechtfertigung der
 Lieferzeit**, die er selbst hat durchgehen lassen. Kein Eskalationsmarker im
 Text.
 
+## #7479 — Richard Bellamy-Williams (richard@brownwolf.net) — **sechste Fassung, Frist läuft heute ab**
+
+**Betreff:** Re: Refund request and business address request
+
+> Dear Richard,
+>
+> **This is your sixth email since 14 September, and your deadline is today.**
+> **Since 15 September you have had nothing from us at all**, and the one reply
+> you did have answered a question you had not asked. **Five emails, no answer.
+> That is our failure and I am not going to dress it up.**
+>
+> **On the address.** You have found what we publish. It is in our Terms of
+> Service and in the footer of our marketing emails. **I am not going to pretend
+> it was hidden from you** — but I am also **not going to confirm or deny
+> anything beyond what we publish**, about who stands behind the shop or about
+> anything you have found elsewhere. That is not mine to hand out, and a guess
+> from me would be worth nothing to you.
+>
+> **The question you have now asked six times is still the right one and still
+> has not been answered:** how do you return an unopened, unused Fluffy under the
+> 30-day guarantee. **Here is what I can tell you truthfully, in three lines:**
+>
+> - **Our Paw-Friends™ Fluffys page lists a 30-day money-back guarantee, and it
+>   does not attach a condition to it.**
+> - **We do not publish a returns address.** There is none I can give you and I
+>   am not going to invent one. **That — not a policy about used items — is why
+>   your question has gone unanswered for six days.**
+> - **Whether you are refunded is the shop owner's decision, not mine.** **I am
+>   not going to promise you a refund and I am not going to refuse you one.**
+>
+> **What I have done today** is put your case in front of the owner again, marked
+> with today's date as your deadline and with the fact that you have written six
+> times: **order #7479, two Fluffys, £29.95 recorded on the order, nothing
+> refunded, one item destroyed, one item unopened and unused, a return offered
+> within six hours of delivery, and no returns address to send it to.**
+>
+> **On everything else in your emails** — the complaints, the referrals, the
+> registrations and the legal points — **I am not going to argue with you and I
+> am not going to give you my assessment either.** I am not qualified to give one
+> and it would be worth nothing if I did. **They go to the owner unabridged, in
+> your words.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Anerkennung, dass er seit dem 15.09. keinerlei
+Antwort erhalten hat** und dass die Frage sechsmal unbeantwortet blieb, die
+**wahrheitsgemäße Wiedergabe des eigenen Fluffys-Produkttexts** (30 Tage, **ohne
+Bedingung**), die **wahre Begründung** für die fehlende Rücksendeanleitung, und
+die erneute Weitergabe mit Frist und allen Zahlen. **Keine Erstattung zugesagt,
+kein Betrag, kein Termin, keine Absage.** **Keine Behauptung, ihm sei die
+Anschrift schon genannt worden** — die früheren Entwürfe wurden nie gesendet,
+und das wird hier nicht überspielt. **Keine Bestätigung und keine Bestreitung
+von Angaben zur Person hinter dem Shop**, über das hinaus, was ohnehin
+veröffentlicht ist. **Keine rechtliche Bewertung** seiner Punkte, weder
+zustimmend noch ablehnend. **Keine Rücksendeadresse erfunden.** **Kein Versuch,
+ihn von Beschwerden oder Meldungen abzubringen**, und nichts daran geknüpft.
+Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
