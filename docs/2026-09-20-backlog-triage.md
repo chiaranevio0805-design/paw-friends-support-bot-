@@ -659,3 +659,40 @@ weiter.**
 - **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
 - **🔴 Beide Fristen laufen heute ab und sind unbearbeitet: #7479 und #6259.**
 - **⏰ #8669** — Storno elf Minuten nach Bestellung, weiterhin `UNFULFILLED`.
+
+---
+
+## Lauf 17:20 UTC
+
+**Eine neue Nachricht. Kein Kundenvorgang.**
+
+### ⬜ Klaviyo-Rechnung, 20.09. 16:24 UTC — Systemmail
+
+Absender `marketing-responses@klaviyo.com`, Betreff *„Klaviyo Rechnung"*:
+*„Dies ist dein Beleg für **September 2026**, ausgestellt am 20.9.2026 … Mit
+dieser Zahlung ist deine **Klaviyo Nutzung im nächsten Monat abgedeckt**."*
+
+**Dieselbe Zahlung wie die Stripe-Mail von 15:30**, nur von Klaviyo selbst
+statt vom Zahlungsdienstleister. **Nicht beantwortet, kein Entwurf, kein Link
+geöffnet.**
+
+**Der einzige Punkt, der daran zählt, steht wörtlich in der Mail: das
+Klaviyo-Abo ist für den kommenden Monat bezahlt.** Über diesen Dienst ging die
+Werbemail vom **27.08.** mit der **30-Tage-Garantie ohne Bedingung** — der Text,
+gegen den die Kauschaden-Absage anschreibt und aus dem sich inzwischen
+**fünfundzwanzig** Kundenaussagen zur Werbung erklären. **Solange an diesem
+Text nichts geändert wird, läuft er weiter.** Das ist eine Owner-Entscheidung,
+keine Support-Frage.
+
+**Label:** `Bot/No Action`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Elf Kundenvorgänge am 20.09.**, dazu **zwei Systemmails** (dieselbe
+  Klaviyo-Zahlung, zweimal belegt).
+- **Einhundertzwei Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **🔴 Beide Fristen laufen heute ab und sind unbearbeitet: #7479 und #6259.**
+- **⏰ #8669** — Storno elf Minuten nach Bestellung, weiterhin `UNFULFILLED`.
