@@ -696,3 +696,134 @@ keine Support-Frage.
 - **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
 - **🔴 Beide Fristen laufen heute ab und sind unbearbeitet: #7479 und #6259.**
 - **⏰ #8669** — Storno elf Minuten nach Bestellung, weiterhin `UNFULFILLED`.
+
+---
+
+## Lauf 19:20 UTC
+
+**Drei neue Kundenvorgänge, dazu eine Systemmail. Keine Sendungen aus dem
+Shop-Konto seit 19.09. 10:57.**
+
+### #7749 — Adrian Vincent-Janes (`adrian@vincent-janes.com`), 20.09. 19:11 UTC — Erstkontakt, GB
+
+> *„one of our dogs had **ripped the seams** and all the stuffed white filler was
+> all over the hallway … I request a **full refund (under the 30 day satisfaction
+> guarantee that you offered in your advertisement)** … and you can provide a
+> **FREE return shipping label**, as I have had to remove these toys from our
+> dog — **too dangerous, especially if they ingest, swallow the rubbish filling
+> inside the toy**."*
+
+**Vorab-Suche:** ein einziger Thread. **Sieben Fotos — nicht geöffnet.**
+
+**Shopify (#7749):** bestellt **25.08.**, Versand **03.09.** (**neun Tage**),
+zwei Plushies (fox, Elk), **£27,95**, **0,00 £ erstattet**, Richmond upon
+Thames (GB). **Fünfundzwanzigste Bestellung mit auffälliger
+Versandverzögerung.**
+
+**Drei Punkte, drei ehrliche Antworten:**
+
+1. **Rücksendeetikett: nein — und der wahre Grund ist schlimmer als eine
+   Richtlinie.** Es gibt **keine Rücksendeadresse**, die auf ein Etikett
+   gedruckt werden könnte. Das wird ihm gesagt, statt ihn auf ein Etikett
+   warten zu lassen, das nicht kommt.
+2. **Garantie: er beruft sich ausdrücklich auf „your advertisement".**
+   **Sechsundzwanzigste unabhängige Kundenaussage zur Werbung** — und die
+   **zweite**, die die Werbung statt der Produktseite benennt (nach #6592).
+   Ihm wird wahrheitsgemäß bestätigt, dass die 30-Tage-Garantie **ohne
+   Bedingung** in unseren eigenen Werbemails steht, **mit ausdrücklichem
+   Hinweis, dass damit nichts entschieden ist.**
+3. **Sicherheitssorge (Verschlucken der Füllung).** **Keine Aussage zur
+   Materialsicherheit oder Toxizität in irgendeine Richtung.** Aufgenommen,
+   weitergegeben, Verweis auf den Tierarzt. **Er hat die Spielzeuge bereits
+   selbst weggenommen** — das wird bestätigt, nicht kommentiert.
+
+**Label:** `Bot/Escalated - Owner Attention` (Sicherheitsmeldung + bestrittene
+Werbeaussage + Rückgabewunsch ohne Rücksendeweg).
+
+---
+
+### ⚠️ #7884 — Logan Bishop (`lgnbshp79@gmail.com`), 20.09. 18:20 UTC — Erstkontakt, **will keine Erstattung**
+
+> *„It is marketed as a **strong and durable product that will last** … I was
+> immediately disappointed in the **size** of the toy, it being about **1/3 of
+> the size I was expecting based on site photos** … before the morning, its ears
+> were chewed off … I paid about **$47** on a toy that didn't last the night
+> because **your adds were false and extremely misleading**. **Keep my money** …
+> I should have reviewed the **1.8 out of 5 rating** you have on your SHOP site."*
+
+**Vorab-Suche:** ein einziger Thread.
+
+**Shopify (#7884):** bestellt **27.08.**, Versand **03.09.** (sieben Tage), ein
+Plushies, **£20,35 / $27,66** (presentment USD), **0,00 £ erstattet**, Battle
+Creek, **Michigan (US)**.
+
+**Drei Besonderheiten:**
+
+1. **⚠️ Betragsdifferenz.** Er nennt **~47 $**, die Bestellung führt **27,66 $**.
+   **Es wird nicht überbrückt, nicht umgerechnet und ihm nicht gesagt, er irre
+   sich.** Im Entwurf steht offen, dass die beiden Zahlen von hier nicht
+   zusammenzubringen sind und die Differenz an den Owner gemeldet wurde. **Nur
+   wer Zugriff auf die Zahlungsdaten hat, kann das klären.**
+2. **⚠️ Größenbeanstandung.** **Nicht beantwortet** — nach der stehenden Regel
+   wird **nichts über Produktgröße gesagt und kein Produktfoto verglichen.**
+   **Aber es wird ihm offen gesagt, dass und warum dieser Punkt unbeantwortet
+   bleibt**, statt ihn stillschweigend zu übergehen. **Zweite
+   Größenbeanstandung** nach #7472.
+3. **Er verlangt ausdrücklich keine Erstattung** (*„Keep my money"*). **Das
+   wird respektiert.** Ihm wird **einmal** gesagt, dass die Möglichkeit
+   offenbleibt, und dann nicht weiter darauf gedrungen. **Die
+   1,8-von-5-Bewertung wird nicht bestritten**, und er wird **nicht** gebeten,
+   etwas zu entfernen oder zu ändern.
+
+**Siebenundzwanzigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention` (bestrittene Werbeaussage +
+öffentliche Bewertung + ungeklärte Betragsdifferenz).
+
+---
+
+### #7472 — Francisco Almazan (`falmazan2@gmail.com`), 20.09. 18:22 UTC — zweite Fassung
+
+> *„Here are some photos.. of the toys that are **so indestructible**"*
+
+**Seine Erstmeldung vom 18.09. 16:06 (Größenbeanstandung) ist unbeantwortet
+geblieben** — ein Entwurf wurde am 18.09. geschrieben, aber **nie gesendet**.
+**Das wird ihm im Entwurf offen gesagt und dafür um Entschuldigung gebeten.**
+
+**Shopify (#7472):** bestellt **23.08.**, Versand **04.09.** (**zwölf Tage**),
+**$59,85** (presentment USD), **0,00 £ erstattet**.
+
+**Fotos — nicht geöffnet.** **Ihm wird ungefragt gesagt, dass sie nicht geöffnet
+wurden und nicht nötig sind**, damit er nicht rätselt, ob jemand hingesehen hat.
+**Seine Größenbeanstandung wird weiterhin nicht bewertet.**
+
+**Achtundzwanzigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention`. **Zweite Fassung.**
+
+---
+
+### ⬜ `no-reply@klaviyo.com`, 20.09. 18:43 UTC — Systemmail
+
+Dritte Systemmail des Tages im Umfeld der Klaviyo-Abrechnung. **Nicht
+beantwortet, kein Entwurf, kein Link geöffnet.** **Label:** `Bot/No Action`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Vierzehn Kundenvorgänge am 20.09.**, dazu **drei Systemmails**.
+- **Einhundertfünf Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⚠️ Achtundzwanzig unabhängige Kundenaussagen zur Werbung**, **zwei davon
+  heute mit ausdrücklichem Bezug auf die Werbemail statt auf die Produktseite**
+  (#6592, #7749).
+- **⚠️ Zweite Größenbeanstandung** (#7884 nach #7472) — beide bleiben nach der
+  stehenden Regel unbeantwortet, **beide Kunden erfahren das aber offen.**
+- **⚠️ Ungeklärte Betragsdifferenz bei #7884** (~47 $ genannt, 27,66 $
+  verzeichnet) — **nur im Zahlungsanbieter zu klären.**
+- **🔴 Beide Fristen sind heute abgelaufen: #7479 und #6259.**
+- **⏰ #8669** — Storno elf Minuten nach Bestellung, weiterhin `UNFULFILLED`.
+- **Der Abendreport von 19:00** (`docs/2026-09-20-abendreport.md`, Commit
+  `30ae316`) **enthält diese drei Entwürfe noch nicht** — sie kamen danach
+  herein. Volltexte in `docs/entwuerfe-zum-kopieren.md`.

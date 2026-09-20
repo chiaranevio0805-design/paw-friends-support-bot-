@@ -13706,6 +13706,154 @@ keine Fotobedingung.** **Keine Rücksendeadresse erfunden.** **Kein Hinweis auf
 den Versanddienstleister, keine Herkunftsangabe.** Kein Eskalationsmarker im
 Text.
 
+## #7749 — Adrian Vincent-Janes (adrian@vincent-janes.com) — GB, verlangt Erstattung **und** ein Rücksendeetikett, dazu Sicherheitssorge
+
+**Betreff:** Re: A shipment from order #7749 is on the way
+
+> Dear Adrian,
+>
+> Thank you for writing, and I am sorry it is about this. **Four days, ripped
+> seams and filling across the hallway.** That is not what you paid for, and I am
+> not going to argue with you about it. **Your seven photographs arrived with
+> your message — I have not opened them**, and nothing here depends on them.
+>
+> **You asked for three things. I can be straight with you about each.**
+>
+> **1. A free return shipping label.** **I cannot send you one, and the reason is
+> worse than a policy: we do not publish a returns address at all.** There is no
+> address I can put on a label and I am not going to invent one. **Please do not
+> post anything back**, because I cannot tell you where it would go. **I would
+> rather say that plainly than leave you waiting for a label that is not
+> coming.**
+>
+> **2. A full refund under the guarantee you saw in the advertisement.** **You
+> did not imagine that wording.** A 30-day money-back guarantee does appear in
+> our own marketing emails, with no condition attached to it. **I am not telling
+> you that settles your case** — whether it is applied here is the shop owner's
+> decision and not mine, and **I am not going to promise you a refund or refuse
+> you one.** But I am not going to keep our own wording from you either. Your
+> request is in front of him exactly as you made it: **order #7749, two Plushies,
+> £27.95 recorded on the order, nothing refunded, ordered 25 August, dispatched
+> 3 September, seams gone within about four days, full refund and a return label
+> requested.**
+>
+> **3. The filling, and your worry about the dogs swallowing it.** **I am not
+> going to make any statement about what that material is or is not** — I am not
+> qualified to, and a reassurance from me would be worth nothing to you. **It is
+> recorded and passed on as a safety concern, in your words.** **You have already
+> done the sensible thing by taking the toys away.** If you are worried about the
+> dogs, the person to ask is your vet, not me.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **klare Absage an das Rücksendeetikett mit dem wahren
+Grund** (es gibt keine Adresse), die **wahrheitsgemäße Bestätigung, dass die
+Garantieformulierung aus unseren eigenen Werbemails stammt** — mit ausdrücklichem
+Hinweis, dass damit nichts entschieden ist —, die Weitergabe mit allen Zahlen,
+die Aufnahme der Sicherheitssorge, und eine Nachfass-Zusage. **Keine Erstattung
+zugesagt, kein Betrag zugesagt, kein Termin, keine Absage der Erstattung
+selbst.** **Kein Etikett zugesagt, keine Rücksendeadresse erfunden.** **Keine
+Aussage zur Materialsicherheit oder Toxizität in irgendeine Richtung** —
+stattdessen Verweis auf den Tierarzt. **Keine Auswertung der sieben Fotos.**
+**Keine rechtliche Bewertung.** Kein Eskalationsmarker im Text.
+
+## #7884 — Logan Bishop (lgnbshp79@gmail.com) — US, will **keine** Erstattung, nennt einen abweichenden Betrag
+
+**Betreff:** Re: Very Disappointed!
+
+> Dear Logan,
+>
+> Thank you for writing, and I am sorry it is about this. **Ears chewed off and
+> the stuffing out before morning.** That is not what you paid for.
+>
+> **You wrote "keep my money", and I am going to take you at your word rather
+> than talk you out of it.** **I am not going to push a refund on you that you
+> did not ask for.** What I will say once, and then leave alone: **if you change
+> your mind, one line back here is enough and it goes forward as a refund
+> request.** The option stays open; it is not a trick question.
+>
+> **One thing I cannot explain, and I would rather say so than guess.** You
+> mention paying **about $47**. The order recorded under your email address is
+> **#7884, one Plushies, $27.66**, ordered 27 August and dispatched 3 September.
+> **I cannot reconcile those two figures from here, and I am not going to tell
+> you that you misremembered.** **I have flagged the difference to the shop owner
+> so that someone with access to the payment records can look at it properly.**
+>
+> **On the advertising.** You say it was marketed as a toy that holds up to
+> aggressive chewers and that the adverts were misleading. **Your words go to the
+> shop owner exactly as you wrote them**, because he is the only person who can
+> look at the advertising itself. **I cannot see what was shown to you, and I am
+> not going to guess at it.**
+>
+> **On the rating you mention** — that is your observation to make and I am not
+> going to argue with it or ask you to take anything down.
+>
+> **There is one part of your message I am deliberately not answering**, and I
+> would rather tell you why than skirt it: **the size.** I cannot compare a
+> product photograph to what arrived, and anything I said about it would be a
+> guess dressed up as an answer. **That point goes to the owner untouched, in
+> your words.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Respektierung seines ausdrücklichen „keep my money"**
+— keine Erstattung wird ihm aufgedrängt —, verbunden mit dem **einmaligen**
+Hinweis, dass die Möglichkeit offenbleibt; die **offene Benennung der
+Betragsdifferenz** (er nennt ~47 $, die Bestellung führt 27,66 $) **ohne
+Behauptung, er irre sich** und **ohne Umrechnung oder Überbrückung**; die
+Weitergabe der Werbe- und Bewertungspunkte im Original. **Keine Erstattung
+zugesagt, kein Betrag zugesagt, kein Termin, keine Absage.** **Keine Aussage
+über Produktgröße und kein Vergleich mit Produktfotos** — und es wird ihm
+**offen gesagt, dass und warum dieser Punkt unbeantwortet bleibt**, statt ihn zu
+übergehen. **Keine Bitte, die Bewertung zu ändern oder zu entfernen.** **Keine
+Rekonstruktion der Anzeige.** Kein Eskalationsmarker im Text.
+
+## #7472 — Francisco Almazan (falmazan2@gmail.com) — zweite Fassung, Fotos nachgereicht
+
+**Betreff:** Re: A shipment from order #7472 is on the way
+
+> Dear Francisco,
+>
+> Thank you for the follow-up. **Your photographs arrived — I have not opened
+> them**, and I want you to know that up front rather than leave you wondering
+> whether anyone looked. **Nothing in your case depends on them**, and you do not
+> need to send any more.
+>
+> **You wrote on Friday and you have had no answer since. That is our failure,
+> not an oversight on your part, and I am sorry.**
+>
+> **What is in front of the shop owner, as you described it:** **order #7472,
+> $59.85 recorded on the order, nothing refunded, ordered 23 August, dispatched
+> 4 September** — **twelve days sitting here before it moved**, which is ours —
+> together with your complaint about the toys and your remark about how
+> indestructible they turned out to be.
+>
+> **Whether you are refunded is his decision and not mine**, so **I am not going
+> to promise you a refund and I am not going to refuse you one.** **Please do not
+> post anything back** — we have no returns address I can give you.
+>
+> If you have heard nothing in a few days, reply here and I will chase it again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ungefragte Mitteilung, dass die Fotos nicht geöffnet
+wurden und nicht nötig sind**, die **Entschuldigung dafür, dass seine Meldung
+vom 18.09. unbeantwortet blieb**, die **offene Zurechnung der zwölf Tage bis zum
+Versand**, die Weitergabe mit allen Zahlen, und eine Nachfass-Zusage. **Keine
+Erstattung zugesagt, kein Betrag zugesagt, kein Termin, keine Absage.** **Keine
+Aussage über Produktgröße und kein Vergleich mit Produktfotos** — seine
+Größenbeanstandung vom 18.09. wird **nicht** bewertet. **Keine Auswertung der
+Fotos.** **Keine Rücksendeadresse erfunden.** **Keine Umrechnung** — 59,85 $ ist
+der Betrag in seiner Währung auf der Bestellung. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
