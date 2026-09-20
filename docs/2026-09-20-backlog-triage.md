@@ -623,3 +623,39 @@ wiederholter Kontakt mit unbeantworteter Erstfrage). **Zweite Fassung.**
 - **⚠️ Fünfundzwanzig unabhängige Kundenaussagen zur Werbung.**
 - **🔴 Beide Fristen laufen heute ab und sind unbearbeitet: #7479 und #6259.**
 - **⏰ #8669** — Storno elf Minuten nach Bestellung, weiterhin `UNFULFILLED`.
+
+---
+
+## Lauf 16:20 UTC
+
+**Eine neue Nachricht. Kein Kundenvorgang.**
+
+### ⬜ Stripe-Beleg, 20.09. 15:30 UTC — Systemmail
+
+Absender `invoice+statements+…@stripe.com`, Betreff *„Your receipt from Klaviyo
+Inc #2895-9807-4059"*. **Eine Zahlungsbestätigung für das Klaviyo-Abonnement**,
+kein Kundenvorgang.
+
+**Nicht beantwortet, kein Entwurf.** Der Beleg wird **nicht geöffnet und nicht
+ausgewertet** — es geht daraus ohnehin nichts über einzelne Bestellungen oder
+Erstattungen hervor, und die offenen Erstattungsfragen (#6259, #5148, #6583,
+#4998) lassen sich **nur im Zahlungsanbieter-Dashboard** klären, nicht aus einer
+Abo-Quittung.
+
+**Der Vollständigkeit halber:** Klaviyo ist der Dienst, über den die Werbemail
+vom **27.08.** versandt wurde — dieselbe, in der die 30-Tage-Garantie **ohne
+Bedingung** steht und die seit dem 19.09. den Ursprung von inzwischen
+fünfundzwanzig Kundenaussagen zur Werbung erklärt. **Das Abonnement läuft also
+weiter.**
+
+**Label:** `Bot/No Action`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Elf Kundenvorgänge am 20.09.** (unverändert), dazu **eine Systemmail**.
+- **Einhundertzwei Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **🔴 Beide Fristen laufen heute ab und sind unbearbeitet: #7479 und #6259.**
+- **⏰ #8669** — Storno elf Minuten nach Bestellung, weiterhin `UNFULFILLED`.
