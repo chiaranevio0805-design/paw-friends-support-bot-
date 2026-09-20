@@ -478,3 +478,83 @@ der Owner treffen kann.
   alle drei ohne Aktualisierung seit dem Versandtag.
 - **🔴 Beide Fristen laufen heute ab und sind unbearbeitet: #7479 und #6259.**
 - **⏰ #8669** — Storno elf Minuten nach Bestellung, weiterhin `UNFULFILLED`.
+
+---
+
+## Lauf 14:20 UTC
+
+**Zwei neue Kundenvorgänge, beide Erstkontakte. Keine Sendungen aus dem
+Shop-Konto seit 19.09. 10:57.**
+
+### #5086 — John Mullins (`jmullins53@yahoo.com`), 20.09. 13:40 UTC — Erstkontakt, fragt nach **Ersatz**
+
+> *„Our friends LOVE these new toys, however, our rescue German Shepherd has
+> spent far too much time chewing on her duck. **Is there a way it can be
+> replaced??**"*
+
+**Vorab-Suche nach älteren Threads desselben Absenders:** ein einziger Thread.
+
+**Shopify (#5086):** bestellt **08.08.**, Versand angelegt **22.08.** —
+**vierzehn Tage, die längste Vorlaufzeit, die in dieser Reihe bisher
+aufgetaucht ist** —, zwei Plushies, **£28,52 / $38,46** (presentment USD),
+**0,00 £ erstattet**, Bluffton, **South Carolina (US)**. **Dreiundzwanzigste
+Bestellung mit auffälliger Versandverzögerung.**
+
+**Er fragt nach Ersatz, nicht nach Erstattung.** Beides liegt beim Owner;
+**weder das eine noch das andere wird zugesagt oder abgelehnt.**
+
+**⚠️ Seine positive Äußerung („our friends LOVE these new toys") wird im Entwurf
+nicht aufgegriffen und ausdrücklich nicht als Beleg für irgendeine
+Produktaussage verwendet.** Eine zufriedene Kundenstimme ist kein Beweis, und
+sie gegen die zwanzig gegenteiligen Meldungen zu stellen, wäre unredlich.
+
+**Die vierzehn Tage werden ihm ungefragt genannt**, mit der ausdrücklichen
+Begründung, dass er wissen soll, womit er rechnen muss, falls Ersatz kommt —
+**nicht als Entschuldigung.**
+
+**Label:** `Bot/Needs Approval` — kein Eskalationsauslöser erfüllt, aber der
+Fall verlangt eine Owner-Entscheidung (Ersatz).
+
+---
+
+### #5310 — Heather Taylor (`bhjdc5@gmail.com`), 20.09. 14:10 UTC — Erstkontakt, **geht davon aus, die Erstattung laufe**
+
+> *„I purchased a 2 pack of these **indestructible** toys for my dogs. They
+> destroyed them in **less than 10 minutes**. Pictures attached. **Please let me
+> know when this is processed.**"* Betreff: *„Refund request - order #5310"*
+
+**Vorab-Suche nach älteren Threads desselben Absenders:** ein einziger Thread.
+
+**Shopify (#5310):** bestellt **09.08.**, Versand angelegt **13.08.** (vier
+Tage), zwei Plushies, **£28,51 / $38,47** (presentment USD), **0,00 £
+erstattet**, Winter Garden, **Florida (US)**.
+
+**⚠️ Der Punkt, der hier zählt:** Sie schreibt *„please let me know **when** this
+is processed"* — **sie geht davon aus, dass die Erstattung bereits läuft.**
+**Sie läuft nicht.** Das wird ihr im Entwurf **ausdrücklich richtiggestellt**,
+statt es stehenzulassen: nichts ist genehmigt, nichts ist in Bearbeitung, und
+die Entscheidung liegt beim Owner. **Sie warten zu lassen, ohne das zu sagen,
+wäre genau das Muster, das bei #5148 und #6259 zu zwei
+Trading-Standards-Fällen geführt hat.**
+
+**Vierundzwanzigste unabhängige Kundenaussage zur Werbung**, wieder mit dem Wort
+**„indestructible"**.
+
+**Fotos im Anhang — nicht geöffnet, keine verlangt.**
+
+**Keine Erstattung ausgeführt, keine zugesagt, keine Absage.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Zehn Kundenvorgänge am 20.09.**
+- **Einhunderteins Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⏱️ #5086 mit vierzehn Tagen bis zum Versand ist der bisher längste Fall.**
+- **⚠️ Vierundzwanzig unabhängige Kundenaussagen zur Werbung.**
+- **🔴 Beide Fristen laufen heute ab und sind unbearbeitet: #7479 und #6259.**
+- **⏰ #8669** — Storno elf Minuten nach Bestellung, weiterhin `UNFULFILLED`.
+- **⚠️ Drei festhängende Sendungen** (#8080, #6002, #8221).

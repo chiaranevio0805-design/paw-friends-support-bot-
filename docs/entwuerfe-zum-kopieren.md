@@ -13551,6 +13551,103 @@ Herkunftsangabe.** **Keine Spekulation über den Verbleib.** **Keine
 Umrechnung** — es wird kein Betrag genannt, weil keiner nötig ist. Kein
 Eskalationsmarker im Text.
 
+## #5086 — John Mullins (jmullins53@yahoo.com) — US, freundlich, fragt nach Ersatz
+
+**Betreff:** Re: Possible replacement
+
+> Dear John,
+>
+> Thank you for writing, and thank you for the tone of it — **you were kinder
+> about this than you had to be.**
+>
+> **You asked one plain question: can the duck be replaced. Here is a plain
+> answer.**
+>
+> **I cannot decide that.** Replacements, like refunds, are the shop owner's
+> call and not mine. **So I am not going to promise you a replacement and I am
+> not going to tell you no.** What I have done is put your request in front of
+> him exactly as you asked it: **order #5086, two Plushies, $38.46 recorded on
+> the order, nothing refunded, ordered 8 August, dispatched 22 August, one item
+> chewed through by a rescue German Shepherd, replacement requested.**
+>
+> **There is nothing for you to do.** You do not need to send photographs, and
+> **please do not post anything back to us** — we have no returns address I can
+> give you, and I would rather tell you that than have you pay postage to
+> nowhere.
+>
+> **One thing you did not ask about, but should probably know before you wait on
+> anything.** Your order was placed on 8 August and was not handed over for
+> dispatch until 22 August — **fourteen days.** That was at our end. I mention it
+> only so that you know what our dispatch times have actually looked like, not as
+> an excuse.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **direkte Antwort auf seine Ersatzfrage** (die
+Entscheidung liegt nicht beim Bot), die Weitergabe mit allen Zahlen, die
+**ungefragte Offenlegung der vierzehn Tage bis zum Versand** mit ausdrücklicher
+Begründung, warum sie genannt wird, und eine Nachfass-Zusage. **Kein Ersatz
+zugesagt, keine Erstattung zugesagt, kein Betrag, kein Termin, keine Absage.**
+**Seine positive Äußerung über die Spielzeuge wird nicht aufgegriffen und
+schon gar nicht als Beleg für irgendeine Produktaussage verwendet.** **Keine
+Fotobedingung.** **Keine Rücksendeadresse erfunden.** **Keine Umrechnung** —
+38,46 $ ist der Betrag in seiner Währung auf der Bestellung. Kein
+Eskalationsmarker im Text.
+
+## #5310 — Heather Taylor (bhjdc5@gmail.com) — US, geht davon aus, die Erstattung laufe bereits
+
+**Betreff:** Re: Refund request - order #5310
+
+> Dear Heather,
+>
+> Thank you for writing, and I am sorry it is about this. **Two toys, under ten
+> minutes.** That is not what you paid for, and I am not going to argue with you
+> about it.
+>
+> **You wrote "please let me know when this is processed", and I am not going to
+> let that stand without correcting it, because it would be unfair to you.**
+> **Nothing is being processed.** Your refund has not been approved, and I cannot
+> approve it — that decision belongs to the shop owner, not to me. **I am not
+> going to promise you a refund and I am not going to refuse you one, but I am
+> also not going to let you sit waiting for something that is not in train.**
+>
+> **What is true:** your request is now in front of him exactly as you sent it,
+> with what our records show — **order #5310, two Plushies, $38.47 recorded on
+> the order, nothing refunded to date, ordered 9 August, dispatched 13 August,
+> both items destroyed within ten minutes, full refund requested.**
+>
+> **Your pictures arrived with your message. I have not opened them**, and
+> nothing here depends on them. **You do not need to send anything else, and
+> please do not post the toys back** — we have no returns address I can give you.
+>
+> **On the word you used.** I have read all twelve of our current product
+> descriptions and "indestructible" is not in any of them. **That is not me
+> telling you that you did not see it** — I cannot see the advertising you were
+> shown and I am not going to guess at it. **Your wording goes to the owner as
+> you wrote it**, because he is the only one who can look at the advertising
+> itself.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ausdrückliche Richtigstellung ihrer Annahme, die
+Erstattung sei bereits in Bearbeitung** — sie ist es nicht, und das wird ihr
+gesagt, statt es stehenzulassen —, die Weitergabe mit allen Zahlen, die ehrliche
+Auskunft zur Werbefrage, und eine Nachfass-Zusage. **Keine Erstattung zugesagt,
+kein Betrag zugesagt, kein Termin, keine Absage.** **Keine Bestätigung eines
+laufenden Vorgangs.** **Keine Auswertung der Fotos, keine Fotobedingung.**
+**Keine Behauptung, das Wort „indestructible" existiere nicht.** **Keine
+Rekonstruktion der Anzeige.** **Keine Rücksendeadresse erfunden.** **Keine
+Umrechnung** — 38,47 $ ist der Betrag in ihrer Währung auf der Bestellung.
+Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
