@@ -15051,6 +15051,52 @@ existiert** (siehe Log — das ist eine Owner-Prüfung). **Keine fremde Bestellu
 beschrieben.** **Kein Nachweis verlangt.** **Keine Rücksendeadresse erfunden.**
 Kein Eskalationsmarker im Text.
 
+## #7578 — Luke Buttrey (lukebuttrey@hotmail.co.uk) — GB, zweiter Kontakt, **verlangt nichts**
+
+**Betreff:** Re: Luke Buttrey
+
+> Dear Luke,
+>
+> **Ten minutes.** Thank you for telling us, and I am not going to argue with
+> you about it or ask you to prove it.
+>
+> **You waited for this one.** You wrote on 14 September asking where your order
+> was. What our records show is that it was placed on **24 August** and not
+> handed over for despatch until **3 September — ten days later.** **I would
+> rather you heard that from us than worked it out yourself.**
+>
+> **You have not asked me for anything, and I am not going to put words in your
+> mouth.** So here is the offer instead of an assumption: **if you want this
+> passed on as a refund request, say so in one line and it goes as that.** If
+> you simply wanted us to know, it goes as that. **Either way it reaches the
+> shop owner** — with your order, £27.95 recorded on it, two toys, and nothing
+> refunded.
+>
+> **What I can and cannot do, plainly.** I cannot approve a refund or a
+> replacement. **So I am not going to promise you either, and I am not going to
+> refuse you either.**
+>
+> **And please do not post anything back to us — there is no returns address I
+> can give you.** I would rather say that now than have you pay postage to
+> nowhere.
+>
+> **You do not need to send photographs.** Nothing here depends on them.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ungefragte Nennung der zehn Tage bis zum Versand**,
+das **Angebot, seine Meldung auf ein Wort hin als Erstattungsbitte
+weiterzugeben** statt sie dazu zu erklären, die Weitergabe mit Betrag und
+Menge, und eine Nachfass-Zusage. **Keine Erstattung zugesagt, kein Ersatz
+zugesagt, kein Betrag, kein Termin, keine Absage, keine Vorlagen-Antwort.**
+**Keine Deutung seiner Nachricht als Forderung.** **Kein Foto verlangt.**
+**Keine Rücksendeadresse erfunden.** **Keine Aussage zur Haltbarkeit des
+Produkts in die eine oder andere Richtung.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

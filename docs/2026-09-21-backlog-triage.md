@@ -1157,3 +1157,95 @@ nicht verlangt.** **Keine Zusage, keine Absage.**
 - **🔴 Offen und unverändert:** #7479, #6259, #5148, #6583, #6546, #8669.
 - **📤 Vier Entwürfe dieses Tages stehen in keinem Abendreport** (#7168, #2852,
   #8142, jscalera1). Volltext in `docs/entwuerfe-zum-kopieren.md`.
+
+---
+
+## Lauf 21:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Kundennachricht — **und im
+Postausgang ein Fund, der wichtiger ist als sie.**
+
+### 🔴🔴 #4812 — Carolyn Marmalejo: heute um 09:34 UTC wurde ihr eine **volle** Erstattung als ausgeführt gemeldet. In Shopify steht keine.
+
+**Was um 09:34:50 aus dem Shop-Konto an `Ilovenails2@msn.com` ging, im
+Volltext-Auszug:**
+
+> *„Dear **Customer**, Thank you for your patience. We can confirm that your
+> **full refund for the unused toys has been processed** to your original
+> payment method. Please allow a few business days for the refund…"*
+
+**Der Datenstand in Shopify (#4812):**
+
+- bestellt **06.08.2026**, **116,92 $** (presentment) / 86,89 £ (shop),
+  `displayFinancialStatus: PAID`
+- **`totalRefundedSet`: 0,00 $. `refunds`: leere Liste.** **Es ist nichts
+  erstattet worden.**
+- neun Positionen, darunter **zwei E-Books**
+
+**🔴 Das ist der siebte Fall des Musters „Erstattung als erledigt gemeldet,
+nicht ausgeführt"** — nach #5148, #6583, #4998, #6259, #6546 und #6583 erneut.
+**Und der erste, bei dem eine _volle_ Erstattung zugesagt wurde**, nicht ein
+Prozentsatz.
+
+**Ihr Verlauf macht es schlimmer:** Am **15.09.** wurden ihr 50 % angeboten, am
+**17.09.** 60 %; beide Male antwortete sie mit demselben Satz — *„I would like a
+full refund for the unused toys."* **Sie hat fünfmal nach der Rücksendeadresse
+gefragt.** Heute bekam sie die Zusage, die sie verlangt hatte — **adressiert mit
+„Dear Customer"** — und dahinter steht keine Buchung.
+
+**Kein Entwurf für sie.** **Sie hat nicht geschrieben.** Von hier geht keine
+unaufgeforderte Mail an eine Kundin, und es wird ihr insbesondere nicht
+mitgeteilt, dass die Zusage von heute nicht gedeckt ist — **das ist eine
+Entscheidung des Owners, nicht des Bots.** **Der Fall steht ab sofort in der
+Erstattungsliste mit voller Summe.**
+
+**⚠️ Für den Owner, unmissverständlich:** **86,89 £ / 116,92 $ sind heute
+schriftlich als ausgezahlt bestätigt worden.** Entweder die Buchung wird
+nachgeholt, oder die Zusage muss ihr gegenüber richtiggestellt werden. **Beides
+kann nur er.**
+
+### #7578 — Luke Buttrey (`lukebuttrey@hotmail.co.uk`), 21.09. 20:47 UTC — zweiter Kontakt
+
+**Vorab-Suche nach älteren Threads:** ein Thread, zwei Nachrichten von ihm.
+
+| Datum | Vorgang |
+|---|---|
+| **14.09. 10:56** | *„Where's my order please?"* |
+| **15.09. 07:58** | Antwort des Shops: Sendung unterwegs. |
+| **21.09. 20:47** | *„**This lasted all of 10 minutes I'm not impressed**"* |
+
+**⚠️ Die Versandauskunft vom 15.09. war korrekt** — die Sendung wurde am 03.09.
+angelegt. **Das ist ausdrücklich vermerkt, weil bei #7771 und #4604 das
+Gegenteil der Fall war.** Kein Vorwurf ohne Beleg.
+
+**Shopify (#7578):** bestellt **24.08.**, Versand **03.09.** (**zehn Tage**),
+zwei Plushies, **£27,95**, **0,00 £ erstattet**, Bradford (GB), Yanwen
+`UL478624163YP`. **Einunddreißigste Bestellung mit auffälliger
+Versandverzögerung** — und sie wird ihm ungefragt genannt.
+
+**Er verlangt nichts.** *„I'm not impressed"* ist eine Feststellung. **Seine
+Meldung wird nicht als Erstattungsforderung ausgelegt**; stattdessen das
+Angebot, sie auf ein Wort hin so weiterzugeben. **Keine Zusage, keine Absage,
+kein Foto verlangt.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Vierundzwanzig Kundenvorgänge am 21.09.** (fünf nach dem Abendreport).
+- **305 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **🔴 Sieben Geldzusagen ohne Ausführung:** #5148, #6583 (zweimal), #4998,
+  #6259, #6546 — und **#4812 (86,89 £ / 116,92 $, volle Erstattung, heute
+  zugesagt).**
+- **⛔ Damit steht fest: die Zusagen aus dem Shop-Konto und die Buchungen in
+  Shopify laufen auseinander, und zwar nicht in Einzelfällen.** Sieben Fälle,
+  fünf Kunden warten seit über einer Woche.
+- **⚠️ Achtunddreißig unabhängige Kundenaussagen zur Werbung** (#7578 zählt
+  nicht mit — er zitiert keine Werbung).
+- **⏰ Nächste Frist: #8295 am 23.09.**
+- **⛔🔴 Zwei Altfälle ohne jede Antwort:** #2894 und #3089.
+- **📤 Fünf Entwürfe dieses Tages stehen in keinem Abendreport** (#7168, #2852,
+  #8142, jscalera1, #7578).
