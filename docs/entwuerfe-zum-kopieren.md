@@ -14141,6 +14141,185 @@ Erstattung zugesagt, kein Betrag, kein Termin, keine Absage.** **Keine erneute
 ausdrücklich gesagt. **Keine Rücksendeadresse erfunden.** **Keine Bitte um
 Geduld.** Kein Eskalationsmarker im Text.
 
+## #6583 — Kenneth Beville (kenthecarman06@gmail.com) — 🔴 **dieselbe Erstattungszusage zum zweiten Mal, nichts gebucht**
+
+**Betreff:** Re: Order 6583 return
+
+> Dear Ken,
+>
+> **You are right, and I am not going to soften it.** The email you received this
+> morning is the same one you received on 3 September. **Eighteen days apart, word
+> for word, and no refund in between.**
+>
+> **I am not going to tell you a third time that your case has been "forwarded to
+> our team".** That sentence has now been sent to you twice and it has bought you
+> nothing.
+>
+> **What our own records show, so that you are not relying on my word:** against
+> order #6583 there is **no refund recorded at all** — the order still shows as
+> paid in full, **$41.32**, with nothing refunded against it. **It is possible a
+> payment was made outside our shop system and is not recorded there; I cannot
+> see your bank and I am not going to guess.** But I am not going to repeat an
+> assurance I cannot stand behind.
+>
+> **What I have done instead:** your case has gone to the shop owner personally,
+> stated as **a refund promised on 3 September, repeated on 21 September, and not
+> paid** — not as a new request. **I cannot issue the refund myself; that is not
+> mine to do.** **So I am not going to promise you a date, because the last two
+> promises you got were worth nothing.**
+>
+> **You have been waiting eighteen days on a decision that was already made in
+> your favour.** If you have heard nothing in a few days, reply here and I will
+> chase it again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ausdrückliche Bestätigung seiner Beobachtung** (es ist
+dieselbe Mail wie am 03.09.), die **Weigerung, die Formel „an unser Team
+weitergeleitet" ein drittes Mal zu verwenden**, die **wahrheitsgemäße Auskunft
+über den eigenen Datenstand** mit offener Nennung der Grenze, und die Weitergabe
+**als offene Zusage, nicht als neue Bitte**. **Keine Erstattung zugesagt, kein
+Termin zugesagt, keine Absage.** **Keine Behauptung, es sei nicht gezahlt
+worden** — nur, dass nichts verzeichnet ist. **Keine Umrechnung** — 41,32 $ ist
+der Betrag in seiner Währung auf der Bestellung. Kein Eskalationsmarker im Text.
+
+## #6384 — Simon Foord (simonfoord@me.com) — GB, Consumer Rights Act + Klarna + Trading Standards
+
+**Betreff:** Re: Order 6384
+
+> Dear Simon,
+>
+> **The reply you had this morning was a standard paragraph, and it was addressed
+> to "Dear Customer". You have written to us three times. I am not going to
+> defend it.**
+>
+> **You have said the product is not fit for purpose and that a refund must
+> follow under UK law. I am not going to argue with you about that, and I am not
+> going to give you my assessment of it either** — I am not qualified to give one
+> and it would be worth nothing. **Your position goes to the shop owner in full,
+> in your words.**
+>
+> **What I can tell you plainly:**
+>
+> - **I cannot issue a refund.** That decision is the shop owner's, not mine, so
+>   **I am not going to promise you one and I am not going to refuse you one for
+>   a third time.**
+> - **There is nowhere to send the toys back to.** We do not publish a returns
+>   address, and I am not going to invent one. **Please do not post anything.**
+> - Your case is with him as it stands: **order #6384, two Plushies, £27.95
+>   recorded on the order, nothing refunded, ordered 16 August, dispatched
+>   20 August.**
+>
+> **On Klarna and trading standards.** **Those are yours to contact and I am not
+> going to ask you to hold off**, delay, or reconsider. **Nothing in this email
+> is conditional on either.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Distanzierung von der Vorlagen-Absage von
+09:35** samt der Anrede „Dear Customer", die Weitergabe seiner
+Rechtsauffassung im Original, die klare Auskunft zur fehlenden
+Rücksendeadresse, und die ausdrückliche Feststellung, dass **Klarna und Trading
+Standards seine Sache sind und an nichts geknüpft werden**. **Keine Erstattung
+zugesagt, kein Betrag, kein Termin, keine dritte Absage.** **Keine rechtliche
+Bewertung in eine der beiden Richtungen.** **Keine Rücksendeadresse erfunden.**
+Kein Eskalationsmarker im Text.
+
+## #8406 — Joyce Abdalla (jva0259@gmail.com) — US, Garantiefrage, zuvor Sicherheitsmeldung
+
+**Betreff:** Re: Order 8406
+
+> Dear Joyce,
+>
+> **The reply you had this morning was a standard paragraph addressed to "Dear
+> Customer", and it did not answer you. I am not going to defend it.**
+>
+> **On the guarantee, here is the honest picture and it is not simple.**
+>
+> - **The product page for the Plushies carries no guarantee text at all.** I
+>   have read all twelve of our current product descriptions to check.
+> - **But a "30-day money-back guarantee" does appear in our own marketing
+>   emails, with no condition attached to it.** **So you did not take that from
+>   nowhere, and I am not going to suggest that you did.**
+>
+> **You wrote that a 30-day guarantee implies we stand behind the product. I am
+> not going to argue with that reading.** What I cannot do is decide your refund
+> — that is the shop owner's call and not mine. **So I am not going to promise
+> you one and I am not going to refuse you one.** Your case is with him as you
+> put it: **order #8406, one Plushies, $27.56 recorded on the order, nothing
+> refunded, ordered 8 September, dispatched 9 September.**
+>
+> **On sharing your experience** — that is entirely yours to do. **I am not going
+> to ask you not to, and nothing here is conditional on it.**
+>
+> **Please do not post anything back** — we have no returns address I can give
+> you.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Distanzierung von der Vorlagen-Absage von
+09:36**, die **vollständige und ehrliche Auskunft zur Garantiefrage** (keine auf
+der Produktseite, **aber** eine bedingungslose in den eigenen Werbemails), die
+Weitergabe mit allen Zahlen, und die ausdrückliche Feststellung, dass ihre
+öffentliche Weitergabe ihre Sache ist. **Keine Erstattung zugesagt, kein Betrag,
+kein Termin, keine zweite Absage.** **Keine Behauptung, es gebe keine
+Garantie.** **Keine Wiederaufnahme ihrer früheren Sicherheitsmeldung ohne
+Anlass** — sie hat sie heute nicht erwähnt. **Keine Aussage zur
+Materialsicherheit.** **Keine Rücksendeadresse erfunden.** **Keine
+Umrechnung.** Kein Eskalationsmarker im Text.
+
+## #3387 — Graeme Everett (graeme.everett@sky.com) — GB, Erstkontakt
+
+**Betreff:** Re: Elephant toy
+
+> Dear Graeme,
+>
+> Thank you for writing, and I am sorry it is about this. **A beagle managed it.**
+> I am not going to argue with you about that, and **your photograph is with your
+> message — I have not opened it**, and nothing here depends on it.
+>
+> **You asked what our next steps are, so here they are without decoration.**
+>
+> **Mine: none that will satisfy you, and I would rather say so than pretend
+> otherwise.** I cannot issue a refund or send a replacement — neither is mine to
+> decide. **So I am not going to promise you either, and I am not going to refuse
+> you either.** **And there is nowhere to send the toys back to**: we do not
+> publish a returns address, and I am not going to invent one. **Please do not
+> post anything.**
+>
+> **What I have done:** your case is in front of the shop owner as you wrote it,
+> with our records: **order #3387, two Plushies, £27.95 recorded on the order,
+> nothing refunded, ordered 25 July, dispatched 29 July.**
+>
+> **On "advertised as indestructible".** I have read all twelve of our current
+> product descriptions and that word is not in any of them. **That is not me
+> telling you that you did not see it** — I cannot see the advertising you were
+> shown and I am not going to guess at it. **Your sentence goes to him exactly as
+> you wrote it**, because he is the only one who can look at the advertising
+> itself.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **direkte Beantwortung seiner Frage nach den nächsten
+Schritten** — einschließlich der offenen Auskunft, dass es von hier aus keine
+befriedigenden gibt —, die Weitergabe mit allen Zahlen, die ehrliche Auskunft
+zur Werbefrage, und eine Nachfass-Zusage. **Keine Erstattung zugesagt, kein
+Ersatz zugesagt, kein Betrag, kein Termin, keine Absage, keine
+Vorlagen-Antwort.** **Keine Auswertung des Fotos, keins verlangt.** **Keine
+Behauptung, das Wort „indestructible" existiere nicht.** **Keine Rekonstruktion
+der Anzeige.** **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im
+Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

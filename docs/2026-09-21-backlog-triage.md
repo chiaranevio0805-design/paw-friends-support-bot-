@@ -319,3 +319,132 @@ achtfach + offene schriftliche Zusage + Defekt bei Lieferung).
 - **Der Tagesreport von 08:13** (`docs/2026-09-21-tagesreport.md`, Commit
   `04ce1eb`) **enthält #2894 noch nicht** — die Nachricht kam 43 Minuten vorher
   herein, fiel aber in diesen Lauf.
+
+---
+
+## Lauf 10:20 UTC
+
+**🔴 Zwischen 09:27 und 09:41 sind aus dem Shop-Konto fünfundzwanzig Threads
+beantwortet worden. Vier Kunden haben binnen einer halben Stunde geantwortet.
+Drei davon negativ, und zwei der drei hatten die Kauschaden-Vorlage erneut
+bekommen — diesmal mit der Anrede „Dear Customer".**
+
+### 🔴 #6583 — Kenneth Beville (`kenthecarman06@gmail.com`), 21.09. 10:11 UTC
+
+**Was um 09:27 an ihn ging:** *„We have forwarded your case to our team, and
+they will arrange a full refund…"*
+
+**Seine Antwort, 44 Minuten später:**
+
+> *„**This is the same exact email you sent September 3!!!!!!!!** And I am no
+> closer then to getting my refund now! **SEPTEMBER 3.** This is absolutely
+> ridiculous!!!!!!"*
+
+**Er hat recht.** #6583 steht seit dem 18.09. in diesen Protokollen auf der
+Liste der Erstattungen, die **als erledigt mitgeteilt und nie ausgeführt**
+wurden. **Shopify, soeben geprüft:** `totalRefundedSet` **0,00 £**, `refunds`
+**`[]`**, Bestellwert **£30,54 / $41,32**, bestellt 18.08., versandt 22.08.,
+Valparaiso, **Indiana (US)**.
+
+**Dieselbe Zusage ist ihm damit zweimal im Abstand von achtzehn Tagen gemacht
+worden, ohne dass etwas gebucht wurde.** Im Entwurf wird sie **nicht zum dritten
+Mal wiederholt.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### ⛔ #6384 — Simon Foord (`simonfoord@me.com`), 21.09. 10:10 UTC
+
+**Was um 09:35 an ihn ging: die Kauschaden-Vorlage, Variante „As explained",
+adressiert mit „Dear Customer".** Es war seine **dritte** Nachricht.
+
+> *„Your product is **not fit for purpose** therefore **under UK law a refund
+> must be issued**. I will advise **Klana** of your response and also **trading
+> standards**."*
+
+**Dritter Trading-Standards-Fall** (nach #6259 und #5148) **und erstmals eine
+Meldung an einen Zahlungsdienstleister (Klarna).**
+
+**Shopify (#6384):** bestellt 16.08., versandt 20.08., zwei Plushies, **£27,95**,
+**0,00 £ erstattet**, Whiteley (GB).
+
+**Keine rechtliche Bewertung im Entwurf**, keine dritte Absage, keine Zusage.
+**Kein Versuch, ihn von Klarna oder Trading Standards abzubringen.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### ⛔ #8406 — Joyce Abdalla (`jva0259@gmail.com`), 21.09. 10:03 UTC
+
+**Was um 09:36 an sie ging: die Kauschaden-Vorlage, adressiert mit „Dear
+Customer".**
+
+> *„**Such misleading advertising. 30 day guarantee implies you stand behind your
+> product.** Obviously you do not. No worries. **I'll be sure to share this
+> information.**"*
+
+**⚠️ #8406 ist eine der Sicherheitsmeldungen** (verschluckt, erfasst am 18.09.).
+**Sie hat die Vorlage bekommen.** **Im Entwurf wird ihre frühere
+Sicherheitsmeldung nicht ohne Anlass wieder aufgegriffen** — sie hat sie heute
+nicht erwähnt — und **es wird nichts zur Materialsicherheit gesagt.**
+
+**Ihr wird erstmals die vollständige Garantielage genannt:** Plushies-Seite ohne
+Garantietext, **Werbemails mit 30-Tage-Garantie ohne Bedingung.**
+
+**Shopify (#8406):** bestellt 08.09., versandt 09.09., ein Plushies, **£20,35 /
+$27,56**, **0,00 £ erstattet**, Mount Laurel, **New Jersey (US)**.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### #3387 — Graeme Everett (`graeme.everett@sky.com`), 21.09. 10:07 UTC — Erstkontakt
+
+> *„I believe you've **advertised these toys as indestructible** — well my beagle
+> has managed it. Please see photo attached and **advise your next steps**."*
+
+**Vorab-Suche:** ein einziger Thread. **Ein Foto — nicht geöffnet.**
+
+**Shopify (#3387):** bestellt **25.07.**, versandt **29.07.**, zwei Plushies,
+**£27,95**, **0,00 £ erstattet**, South Shields (GB). **Die älteste Bestellung,
+zu der heute erstmals eine Beschwerde eingeht.**
+
+**Seine Frage nach den nächsten Schritten wird direkt beantwortet** —
+einschließlich der offenen Auskunft, dass es von hier aus keine befriedigenden
+gibt. **Keine Zusage, keine Absage.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### ⚠️ Zur Vorlage: mindestens neunzehn Sendungen
+
+**Mit den beiden von heute (09:35 an #6384, 09:36 an #8406) sind es mindestens
+neunzehn Sendungen an mindestens fünfzehn Kunden seit dem 15.09.**
+
+**Neu und schlechter als bisher: beide sind mit „Dear Customer" adressiert** —
+bei Kunden, die dreimal bzw. mit Namen geschrieben haben.
+
+**Die Feststellung vom 07:20-Lauf gilt unverändert: diese Zahl ist eine
+Untergrenze.** Von den fünfundzwanzig heutigen Sendungen ist der Inhalt bei
+**drei** geprüft; über die übrigen zweiundzwanzig wird hier **nichts
+behauptet.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Acht Kundenvorgänge am 21.09.**
+- **Einhundertvierzehn Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **🔴 #6583: dieselbe Erstattungszusage zweimal im Abstand von achtzehn Tagen,
+  Shopify `refunds: []`.**
+- **⛔ Dritter Trading-Standards-Fall (#6384), erstmals dazu eine
+  Klarna-Meldung.**
+- **⚠️ Eine Sicherheitsmelderin (#8406) hat die Kauschaden-Vorlage bekommen.**
+- **🔴 Beide Fristen sind gestern abgelaufen: #7479 und #6259.**
+- **⛔🔴 #2894** — 19,95 £, defekt angekommen, Ersatz am 24.07. zugesagt, nie
+  versandt.
+- **⏰ #8669** — Storno-Fenster weiterhin offen.
