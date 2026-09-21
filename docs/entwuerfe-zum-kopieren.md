@@ -15097,6 +15097,80 @@ zugesagt, kein Betrag, kein Termin, keine Absage, keine Vorlagen-Antwort.**
 **Keine Rücksendeadresse erfunden.** **Keine Aussage zur Haltbarkeit des
 Produkts in die eine oder andere Richtung.** Kein Eskalationsmarker im Text.
 
+## #6311 — Garth Callaghan (garthcallaghan93@gmail.com) — **AU**, ⛔ **fragte nach Ersatz, bekam eine Geld-zurück-Bedingung**, nennt Facebook/Instagram
+
+**Betreff:** Re: Dog Toys
+
+> Dear Garth,
+>
+> **You have put your finger on something, and I am not going to talk around
+> it.** You asked on 18 September whether we would **replace** the toy **as
+> guaranteed by the advertisement you saw.** What came back this morning
+> quoted a **money-back guarantee that applies to unused items** — **which is
+> not an answer to the question you asked.** It also began "Dear Customer".
+> **Both of those are on us.**
+>
+> **And your point stands on its own.** A guarantee that only covers an item
+> **nobody has opened** cannot say anything about **how long that item lasts**.
+> **I am not going to pretend otherwise to you.** Whether that condition is a
+> fair one to apply is not mine to rule on — **but I am not going to defend it
+> by repeating it at you.**
+>
+> **What I can check, and what I cannot.**
+>
+> - **You bought after seeing an advertisement on Facebook and Instagram. I
+>   cannot see our advertising from here** — not those ads, not what they said,
+>   not when they ran. **So I will not tell you what was or was not in them,
+>   and I am certainly not going to suggest you misremember it.** **Your
+>   sentence goes to the shop owner word for word**, because he is the only
+>   person who can open those advertisements and read them.
+> - **The image you attached to your first message has not been opened**, and
+>   nothing here depends on it. **You do not need to send anything else.**
+> - What I **can** read: the written description of the product you bought
+>   **carries no guarantee text at all.** Our marketing emails carry a **30-day
+>   money-back guarantee, stated with no condition attached.** **Neither of
+>   those is the advertisement you saw.**
+>
+> **Because your order is an Australian one, here is our own published wording,
+> quoted exactly as it stands and without my interpretation:** our refund policy
+> states that Australian consumer guarantee rights *"are not limited by the
+> requirement that an item be unused or in its original packaging"*. **I am not
+> going to tell you what that means for your case — that is not mine to
+> decide** — **but you are entitled to read it, and it was not put in front of
+> you this morning.**
+>
+> **Your order, so you are not relying on my word.** Order #6311 was placed on
+> **16 August**, despatched on **18 August**, two toys, **A$58.36 recorded on
+> the order, nothing refunded.**
+>
+> **You asked for a replacement. I cannot approve one, and I cannot approve a
+> refund either — so I am not going to promise you either, and I am not going
+> to refuse you either.** **Your request goes to the shop owner as you made
+> it: a replacement, under the guarantee you saw advertised.**
+>
+> **Please do not post anything back** — we have no returns address I can give
+> you.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass seine Frage (Ersatz) nicht
+beantwortet wurde**, das **Zugeständnis seines Arguments** (eine Garantie für
+Ungeöffnetes sagt nichts über Haltbarkeit) **ohne rechtliche Bewertung**, die
+ehrliche Eingrenzung des Prüfbaren, das **wörtliche Zitat der eigenen
+AU-Passage** ohne Auslegung, und die Weitergabe seiner Bitte **als
+Ersatzforderung**, nicht als Erstattungsbitte. **Keine Erstattung zugesagt, kein
+Ersatz zugesagt, kein Betrag, kein Termin, keine Absage, keine zweite Vorlage.**
+**Keine Behauptung darüber, was in der Facebook-/Instagram-Werbung stand.**
+**Keine Rekonstruktion der Anzeige.** **Das eingebettete Bild wurde nicht
+geöffnet**, und das wird ihm gesagt. **Geld-zurück- und Ersatz-Garantie werden
+getrennt gehalten.** **Keine Reaktion auf „scam".** **Keine Umrechnung** —
+58,36 A$ ist der presentment-Betrag. **Keine Rücksendeadresse erfunden.** Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

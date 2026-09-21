@@ -1249,3 +1249,93 @@ kein Foto verlangt.**
 - **⛔🔴 Zwei Altfälle ohne jede Antwort:** #2894 und #3089.
 - **📤 Fünf Entwürfe dieses Tages stehen in keinem Abendreport** (#7168, #2852,
   #8142, jscalera1, #7578).
+
+---
+
+## Lauf 22:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht — **und sie
+bestätigt den Befund von 19:20 binnen drei Stunden.**
+
+### 🟦⛔ #6311 — Garth Callaghan (`garthcallaghan93@gmail.com`), 21.09. 22:10 UTC — **AU**, zweiter Kontakt
+
+**Sein Erstkontakt vom 18.09. 03:03, im Volltext:**
+
+> *„**Further to your advertisement on Facebook/Ista** i made a purchase of
+> these **indestructible** dog toys. Well my little Chihuahua has manged to
+> kill one and is not far off the second. **As per your add will you replace as
+> guaranteed?**"*
+> — mit einem **eingebetteten Bild** (`image.png`, 542 × 144 Pixel).
+
+**Um 09:28 ging die Kauschaden-Vorlage an ihn, adressiert „Dear Customer".**
+
+**Seine Antwort von 22:10, im Volltext:**
+
+> *„**If its unused how would you know its going to last. That is rediculous
+> and a scam!**"*
+
+**Vier Befunde aus dieser einen Nachricht:**
+
+1. **🟦 Zweiter Kunde binnen drei Stunden, der Facebook als Werbequelle nennt**
+   (nach #2852 um 19:08) — **und er nennt zusätzlich Instagram.** **Damit sind
+   es sechs mögliche Fundorte**, und **zwei davon sind jetzt von zwei
+   unabhängigen Kunden benannt.**
+2. **⚠️ Er fragte nach einem _Ersatz_ („will you replace as guaranteed?"), nicht
+   nach Geld** — und bekam eine **Geld-zurück-Bedingung** zurück. **Die Vorlage
+   hat seine Frage nicht beantwortet.** Das ist nach #7989 (Fehlmenge) der
+   **zweite Fall, in dem sie eine Frage beantwortet, die niemand gestellt hat.**
+3. **⚠️ Zweiter Kunde binnen vier Stunden, der von einer _replacement
+   guarantee_ spricht** (nach #7168 um 18:35, der sie auf einem Produktbild
+   gesehen haben will). **Bisher ging es durchweg um die Geld-zurück-Garantie.
+   Das ist eine andere Zusage, und sie wird hier nicht mit ihr vermengt.**
+4. **⚠️ Dritter Kunde, der den logischen Bruch der Bedingung benennt** (nach
+   #7541 und #6254) — und der knappste: *„If its unused how would you know its
+   going to last."* **Im Entwurf wird ihm das zugestanden, ohne die Bedingung
+   rechtlich zu bewerten.**
+
+**Das eingebettete Bild (542 × 144) wurde nicht geöffnet.** **Über seinen Inhalt
+wird nichts behauptet.** **Für den Owner:** das Format entspricht einem Banner;
+**falls er die Anzeige sucht, die seit dem 19.09. gesucht wird, liegt sie
+möglicherweise in dieser Mail.** **Nur er kann sie öffnen.**
+
+**Shopify (#6311):** bestellt **16.08.**, Versand **18.08.** — **zwei Tage,
+einer der schnellsten Versände im gesamten Bestand.** Zwei Plushies,
+**A$58,36 / £30,54**, **0,00 A$ erstattet**, Maddington, **Western Australia**.
+**Vierzehnter AU-Kunde.** **Hier gibt es keine Versandverzögerung, und das wird
+ihm auch nicht angedichtet.**
+
+**Die AU-Passage der eigenen Refund-Policy wird ihm wörtlich zitiert** — *„are
+not limited by the requirement that an item be unused or in its original
+packaging"* — **ohne Auslegung, ohne rechtliche Bewertung, und mit dem
+ausdrücklichen Hinweis, dass sie ihm heute früh nicht vorgelegt wurde.**
+
+**Auf „scam" wird nicht reagiert.** Die Formulierung geht kommentarlos weiter.
+
+**Neununddreißigste unabhängige Kundenaussage zur Werbung.**
+
+**Eskalationsgrund:** bestrittene Werbeaussage + wiederholter unerledigter
+Kontakt + eine Vorlage, die die gestellte Frage nicht beantwortet hat.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Fünfundzwanzig Kundenvorgänge am 21.09.** (sechs nach dem Abendreport).
+- **306 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **🟦 Sechs mögliche Fundorte der Werbeaussage:** Klaviyo-Mails · zwei
+  Advertorial-Seiten · Kunden-PDF (#7898) · Produktbild (#7168) ·
+  **Facebook (#2852, #6311)** · **Instagram (#6311)**. **Dazu ein eingebettetes
+  Banner-Bild in der Mail von #6311.** **Alle kann nur der Owner öffnen.**
+- **⚠️ Zwei Kunden binnen vier Stunden sprechen von einer _replacement
+  guarantee_** (#7168, #6311) — **eine andere Zusage als die
+  Geld-zurück-Garantie.** Das ist neu und wird nicht vermengt.
+- **⚠️ Neununddreißig unabhängige Kundenaussagen zur Werbung.**
+- **🔴 Sieben Geldzusagen ohne Ausführung**, unverändert: #5148, #6583
+  (zweimal), #4998, #6259, #6546, #4812.
+- **⏰ Nächste Frist: #8295 am 23.09.**
+- **⛔🔴 Zwei Altfälle ohne jede Antwort:** #2894 und #3089.
+- **📤 Sechs Entwürfe dieses Tages stehen in keinem Abendreport** (#7168, #2852,
+  #8142, jscalera1, #7578, #6311).
