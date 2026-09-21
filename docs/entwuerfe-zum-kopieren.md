@@ -13911,6 +13911,57 @@ ausdrücklichen Feststellung, dass nichts daran geknüpft wird. **Keine
 Umrechnung** — 38,52 A$ ist der presentment-Betrag der Bestellung. Kein
 Eskalationsmarker im Text.
 
+## #8171 — Orville Fender jr (drewdlo2000@hotmail.com) — US, Erstkontakt, verlangt nichts
+
+**Betreff:** Re: Dissatisfied customer
+
+> Dear Orville,
+>
+> Thank you for writing, and I am sorry it is about this. **The first day.**
+> That is not what you paid for, and I am not going to argue with you about it or
+> ask you to prove it.
+>
+> **You have not asked us for anything, and I am not going to put words in your
+> mouth.** You told us what happened. **If what you want is your money back, say
+> so in one line and it goes forward as that** — the option is open and it is not
+> a trick question. Either way, what you wrote is already with the shop owner,
+> with what our records show: **order #8171, one Plushies, $30.29 recorded on the
+> order, nothing refunded, ordered 29 August, dispatched 8 September.**
+>
+> **Whether a refund is given is his decision and not mine**, so I am not going
+> to promise you one and I am not going to refuse you one.
+>
+> **There is nothing for you to do.** You do not need to send photographs, and
+> **please do not post anything back to us** — we have no returns address I can
+> give you, and I would rather tell you that than have you pay postage to
+> nowhere.
+>
+> **One thing from our own records that you did not ask about but should
+> probably know.** Your order was placed on 29 August and was not handed over for
+> dispatch until 8 September — **ten days.** That was at our end, and I am not
+> going to explain it away.
+>
+> **And thank you for the tip you added to the order.** I have not forgotten that
+> it is on there; I am mentioning it because it makes the rest of this worse, not
+> better.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Weigerung, seine Meldung als Erstattungsforderung
+auszulegen**, verbunden mit dem Angebot, sie auf ein Wort hin so weiterzugeben;
+die Weitergabe mit allen Zahlen; die **ungefragte Offenlegung der zehn Tage bis
+zum Versand**; und eine Nachfass-Zusage. **Keine Erstattung zugesagt, kein
+Betrag zugesagt, kein Termin, keine Absage, keine Vorlagen-Antwort.** **Keine
+Aussage, die Garantie decke Kauschaden** — die Garantie wird nicht zitiert, da
+die Plushies-Beschreibung keinen Garantietext enthält. **Keine Fotobedingung.**
+**Keine Rücksendeadresse erfunden.** **Keine Umrechnung** — 30,29 $ ist der
+Betrag in seiner Währung auf der Bestellung; **die Trinkgeldposition wird nicht
+beziffert und nicht verrechnet.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
