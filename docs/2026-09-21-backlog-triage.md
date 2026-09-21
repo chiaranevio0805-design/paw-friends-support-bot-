@@ -90,3 +90,66 @@ Entscheidung außerhalb der Regel + eigener Versandverzug).
   21.08. blockiert (21 Versuche, kein 22.).
 - **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
 - Die Punkte im Kopf dieser Datei bleiben unverändert bestehen.
+
+---
+
+## Lauf 06:20 UTC
+
+**Ein neuer Kundenvorgang.**
+
+### ⛔ #7041 — Tim Fitton (`fittontim@gmail.com`), 21.09. 05:49 UTC — **dritter Kontakt, bisher keine einzige Antwort**
+
+> *„I am **still awaiting a full refund** on this as both items were of **poor
+> quality and not as described**."*
+
+**Vorab-Suche über beide Adressen** (`fittontim@gmail.com` **und**
+`fitton@fitton.karoo.co.uk`): **zwei Threads, drei Nachrichten** — 16.09.
+19:39, 17.09. 21:15, und diese. **In keinem der beiden Threads liegt eine
+gesendete Antwort.** **Er hat auf drei Nachrichten in fünf Tagen nichts
+bekommen.**
+
+**⚠️ Vierter Kunde, der für dieselbe Sache einen neuen Thread von einer anderen
+Adresse aufmacht** (nach #7989, #8295, #7275). **In einer Thread-Ansicht sieht
+das aus wie ein neuer Kunde.**
+
+**⚠️ Zu „still awaiting a full refund":** **Es ist keine Zusage auffindbar.**
+Im Entwurf wird ihm das offen gesagt — **ohne zu behaupten, es habe keine
+gegeben.** Falls ihm doch jemand eine zugesagt hat, soll er es sagen; dann geht
+der Fall als **gebrochenes Versprechen** weiter statt als neue Bitte. **Ihn in
+dem Glauben zu lassen, etwas laufe bereits, wäre genau das Muster von #5148,
+#6259, #6583 und #4998.**
+
+**Shopify (#7041):** bestellt **21.08.**, Versand angelegt **02.09.** — **zwölf
+Tage** —, zwei Paw-Friends™-Fluffys (frog, giraffe, BOGO), **£29,95**,
+**`totalRefundedSet` 0,00 £**, **`refunds: []`**, Beverley (GB).
+**Siebenundzwanzigste Bestellung mit auffälliger Versandverzögerung.**
+
+**⚠️ Adressabweichung, offen benannt:** Er schreibt von `fittontim@gmail.com`;
+die Bestellung ist auf **`fitton@fitton.karoo.co.uk`** hinterlegt, Rechnungsname
+**Bev Fitton**, Liefername **Tim Fitton**, dieselbe Anschrift. **Die Verbindung
+ist belegt, weil er die Originalbestätigung mitgeschickt hat** — sie wird
+deshalb nicht bestritten, aber im Entwurf ausdrücklich erwähnt, **mit dem
+Hinweis, dass eine Erstattung auf die Karte der Bestellung ginge und der Owner
+die Zuordnung prüft.** **Keine Zahlungsdaten genannt.**
+
+**Zur Garantie:** Seine Artikel sind **Fluffys**, und diese Beschreibung führt
+die **30-Tage-Garantie ohne Bedingung**. Das wird ihm wahrheitsgemäß genannt,
+**mit ausdrücklichem Hinweis, dass damit nichts entschieden ist.**
+
+**Neunundzwanzigste unabhängige Kundenaussage zur Werbung** („not as
+described").
+
+**Label:** `Bot/Escalated - Owner Attention` (wiederholter unerledigter Kontakt
++ bestrittene Beschaffenheit + ungeklärte Erstattungserwartung).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Zwei Kundenvorgänge am 21.09.**
+- **Einhundertacht Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⛔ #7041: drei Nachrichten, null Antworten** — und eine Erstattungserwartung,
+  für die es keine auffindbare Grundlage gibt.
+- **⚠️ Vierter Fall eines neuen Threads von einer zweiten Adresse.**
+- Die Punkte im Kopf dieser Datei bleiben unverändert bestehen.

@@ -13962,6 +13962,67 @@ die Plushies-Beschreibung keinen Garantietext enthält. **Keine Fotobedingung.**
 Betrag in seiner Währung auf der Bestellung; **die Trinkgeldposition wird nicht
 beziffert und nicht verrechnet.** Kein Eskalationsmarker im Text.
 
+## #7041 — Tim Fitton (schreibt von fittontim@gmail.com, Bestellung auf fitton@fitton.karoo.co.uk) — dritter Kontakt, **noch nie eine Antwort erhalten**
+
+**Betreff:** Re: Order #7041 confirmed
+
+> Dear Tim,
+>
+> **You have written three times — on 16 September, on 17 September and again
+> this morning — and you have not had a single reply from us. Not a slow one, not
+> a poor one: none at all.** That is our failure, and I am not going to open with
+> anything else.
+>
+> **Because of that, I want to be careful about one word in your message.** You
+> wrote that you are *"still awaiting a full refund"*. **I can find no reply from
+> us in which a refund was agreed**, so I do not want you to be left believing
+> something is already in motion when I cannot see that it is. **If someone did
+> promise you one and it is not in our records, tell me and it goes straight to
+> the shop owner as a broken promise rather than a new request.**
+>
+> **What our records do show:** **order #7041, two Paw-Friends™ Fluffys, £29.95
+> recorded on the order, nothing refunded, ordered 21 August, dispatched
+> 2 September** — **twelve days sitting here before it moved at all**, which is
+> ours.
+>
+> **One administrative note, and I would rather say it than work around it.** You
+> are writing from `fittontim@gmail.com`; the order is recorded against
+> `fitton@fitton.karoo.co.uk`, with the billing name Bev Fitton at the same
+> address. **I am not treating that as a problem — you forwarded the original
+> order confirmation, so the connection is plain.** But if a refund is approved
+> it would go back to **the card used on that order**, not to whoever wrote last,
+> and the shop owner will check the match properly.
+>
+> **On "not as described".** Our Paw-Friends™ Fluffys page lists a **30-day
+> money-back guarantee, and it does not attach a condition to it.** **I am not
+> telling you that settles your case** — that decision is the shop owner's and
+> not mine, and **I am not going to promise you a refund or refuse you one.**
+> **But I am not going to keep our own published wording from you either.**
+>
+> **Please do not post anything back** — we have no returns address I can give
+> you.
+>
+> **You should not have had to write three times.** If you have heard nothing in
+> a few days, reply here and I will chase it again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass er auf drei Nachrichten
+keine einzige Antwort erhalten hat**, die **ehrliche Klarstellung zu „still
+awaiting a refund"** (es ist keine Zusage auffindbar — verbunden mit dem
+Angebot, eine etwaige Zusage als gebrochenes Versprechen weiterzugeben), die
+**ungefragte Offenlegung der zwölf Tage bis zum Versand**, die **offene
+Benennung der Adressabweichung**, die **wahrheitsgemäße Wiedergabe des eigenen
+Fluffys-Produkttexts** mit ausdrücklichem Hinweis, dass damit nichts entschieden
+ist, und eine Nachfass-Zusage. **Keine Erstattung zugesagt, kein Betrag
+zugesagt, kein Termin, keine Absage.** **Keine Behauptung, ihm sei eine
+Erstattung versprochen oder nicht versprochen worden** — es wird nur gesagt, was
+auffindbar ist. **Keine erfundene „unbenutzt"-Bedingung.** **Keine
+Rücksendeadresse erfunden.** **Keine Zahlungsdaten genannt** — nur, dass eine
+Erstattung auf die Karte der Bestellung ginge. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
