@@ -14654,6 +14654,66 @@ zitierte Passage existiere nicht oder sei falsch wiedergegeben.** **Keine
 Rücksendeadresse erfunden.** **Keine Umrechnung** — 38,66 A$ ist der
 presentment-Betrag. Kein Eskalationsmarker im Text.
 
+## #3089 — Sue Steer (suesteer@hotmail.com) — ⛔ **nie zugestellt, vier Nachfragen seit dem 06.08., keine einzige Antwort**
+
+**Betreff:** Re: Fluffy toys
+
+> Dear Sue,
+>
+> **You have written on 6 August, on 22 August, on 7 September and again today,
+> and you have not had a single reply from us. Not a slow one — none.** That is
+> our failure and I am going to start there rather than with your order.
+>
+> **What our records show, so that you are not relying on my word.** Order #3089
+> was placed on **19 July** and handed over for despatch on **20 July**.
+> **There is one despatch on the order and nothing after it.** **No replacement
+> has ever been sent, and nothing has been refunded.**
+>
+> **Two things in our record do not match what you have told us, and I would
+> rather set them side by side than quietly pick one.**
+>
+> - You say you ordered **three** fluffy toys; the order records **two
+>   Plushies**. **I am not going to tell you that you misremembered your own
+>   order** — I am telling you what our system holds, so that the difference is
+>   visible and can be sorted out by someone who can look behind it.
+> - You name **Evri**; the carrier recorded against the despatch is a different
+>   one. **I cannot reconcile that from here and I am not going to guess.**
+>
+> **What I am not going to do is send you back to the courier.** You have already
+> been to Evri, and they sent you to us. **Chasing a parcel we despatched is not
+> your job**, and passing you round again would be the fourth non-answer you have
+> had from this address.
+>
+> **What I can and cannot do.** I cannot send a replacement and I cannot issue a
+> refund — neither is mine to do. **So I am not going to promise you either.**
+> What I have done is put the case in front of the shop owner stated plainly:
+> **order #3089, £27.95, despatched 20 July, marked delivered to a greenhouse the
+> customer does not have, never received, four unanswered follow-ups, nothing
+> sent, nothing refunded.**
+>
+> **You said you would still like the items.** That is on the record as what you
+> asked for, not as a refund request — **unless you tell me otherwise, in which
+> case one line back here is enough.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass vier Nachfragen
+unbeantwortet blieben**, die **überprüfbare Wiedergabe des Datenstands** (ein
+Versand, kein Ersatz, keine Erstattung), die **sichtbare Gegenüberstellung der
+beiden Abweichungen** (drei statt zwei Artikel; anderer Versanddienstleister)
+**ohne sie aufzulösen oder gegen sie zu verwenden**, und die Weitergabe mit
+ihrem eigentlichen Wunsch (Ware, nicht Geld). **Keine Erstattung zugesagt, kein
+Ersatz zugesagt, kein Betrag, kein Termin, keine Absage.** **Ihr wird
+ausdrücklich nicht gesagt, sie habe sich in der Menge geirrt.** **Kein Verweis
+an den Versanddienstleister** — im Gegenteil, es wird gesagt, dass das nicht
+ihre Aufgabe ist. **Keine Aussage darüber, welcher Dienstleister das Paket
+hatte.** **Keine Deutung ihrer Meldung als Erstattungsforderung.** Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

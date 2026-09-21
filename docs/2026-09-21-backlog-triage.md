@@ -708,3 +708,66 @@ vierunddreißig Kundenaussagen ihren Ursprung haben könnten. Nur er kann sie
   zehn davon negativ.**
 - **⏰ Nächste Frist: #8295 am 23.09.**
 - **🔴 Offen und unverändert:** #7479, #6259, #5148, #6583, #2894, #8669.
+
+---
+
+## Lauf 14:20 UTC
+
+**Ein neuer Kundenvorgang — und es ist der zweitälteste unerledigte Fall nach
+#2894.**
+
+### ⛔🔴 #3089 — Sue Steer (`suesteer@hotmail.com`), 21.09. 13:58 UTC — **nie zugestellt, vier Nachfragen, keine einzige Antwort**
+
+> *„Can you please update me on my order please"*
+
+**Ihre Erstmeldung vom 06.08.:**
+
+> *„I ordered 3 fluffy dog toys … on the 20th July. The courier, **EVRI** said
+> they had **delivered them on the 28th** to my address and **left them in my
+> greenhouse**, but I have not received them. **I do not have a greenhouse** and
+> the picture showed they were left on a desk. … I have **contacted EVRI** about
+> this and **was told to contact you**. **I would still like these items.**"*
+
+**Kontakte: 06.08., 22.08., 07.09., 21.09. — vier. Antworten: keine.**
+**46 Tage.**
+
+**Shopify (#3089):** bestellt **19.07.**, Versand **20.07.**, **ein einziges
+Fulfillment, nichts danach**, **£27,95**, **`totalRefundedSet` 0,00 £**,
+**`refunds: []`**, Ashurst (GB). **Kein Ersatz versandt, nichts erstattet.**
+
+**Zwei Abweichungen zwischen ihrer Schilderung und dem Datensatz — beide werden
+im Entwurf sichtbar nebeneinandergestellt und nicht aufgelöst:**
+
+1. Sie spricht von **drei** Fluffys; die Bestellung führt **zwei Plushies**.
+   **Ihr wird ausdrücklich nicht gesagt, sie habe sich geirrt.**
+2. Sie nennt **Evri**; im Versand ist ein **anderer Dienstleister** verzeichnet.
+   **Von hier nicht auflösbar** — dieselbe Konstellation wie bei #8295, wo sich
+   am 18.09. herausstellte, dass beide Angaben stimmen konnten.
+
+**⛔ Sie wurde vom Versanddienstleister bereits an uns verwiesen.** Im Entwurf
+wird sie **nicht zurückgeschickt** — es wird ausdrücklich gesagt, dass das
+Nachfassen bei einem von uns versandten Paket **nicht ihre Aufgabe** ist.
+
+**Ihr Wunsch ist die Ware, nicht das Geld.** Das wird so weitergegeben und
+**nicht in eine Erstattungsforderung umgedeutet.**
+
+**Label:** `Bot/Escalated - Owner Attention` (wiederholter unerledigter Kontakt,
+vierfach + Nichtzustellung).
+
+**Damit stehen zwei Fälle ganz oben, die beide älter sind als alles andere:**
+**#2894** (defekt geliefert 23.07., Ersatz zugesagt 24.07., nie versandt, acht
+Nachfassen) und **#3089** (nie zugestellt seit 28.07., vier Nachfassen, null
+Antworten).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Siebzehn Kundenvorgänge am 21.09.**
+- **Einhundertdreiundzwanzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⛔🔴 Zwei Altfälle ohne jede Antwort:** **#2894** (46 Tage ohne Antwort) und
+  **#3089** (46 Tage, vier Nachfragen, nie eine Antwort). **Beide sind
+  Lieferprobleme, keine Kauschäden — beide fallen unter die Erstattungsregel.**
+- **⏰ Nächste Frist: #8295 am 23.09.**
+- **🔴 Offen und unverändert:** #7479, #6259, #5148, #6583, #8669.
