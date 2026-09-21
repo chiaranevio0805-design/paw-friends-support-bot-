@@ -14946,6 +14946,111 @@ verlangt** — die Ware ist entsorgt, und das wird nicht gegen ihn verwendet.
 **Keine Rücksendeadresse erfunden.** **Keine Umrechnung** — 47,76 $ ist der
 presentment-Betrag. Kein Eskalationsmarker im Text.
 
+## #8142 — Wendy Price (wendyprice579@gmail.com) — GB, ⛔ **zweiter Kontakt, bisher keine einzige Antwort**
+
+**Betreff:** Re: Defective
+
+> Dear Wendy,
+>
+> **You wrote on 19 September and again today to ask whether anyone was going
+> to reply. Nobody had. That is our failure, not a delay you caused**, and I am
+> going to start there rather than with the toys.
+>
+> **You asked how to return them. Here is the honest answer: there is no
+> returns address I can give you.** We do not have one to hand out. **So please
+> do not post anything back** — I would rather tell you that plainly than let
+> you pay postage to nowhere.
+>
+> **What our records show, so you are not relying on my word.** Order #8142 was
+> placed on **29 August** and not handed over for despatch until **8 September
+> — ten days later.** **£27.95 is recorded on the order, and nothing has been
+> refunded.** **"Waited ages" is not an impression on your part; it is in the
+> dates.**
+>
+> **On the word you used.** I have read all twelve of our current product
+> descriptions and **"indestructible" is not in any of them.** **That is not me
+> telling you that you did not see it** — I cannot see the advertising that was
+> put in front of you, and I am not going to guess at it. **The same goes for
+> the reviews you mention: what is displayed on our site and how it is selected
+> is not something I can see or verify from here.** Both points go to the shop
+> owner in your own words, because he is the only person who can look at them.
+>
+> **What I can and cannot do.** I cannot approve a refund and I am not going to
+> refuse you one — that decision is not mine. **So I will not promise you
+> anything I cannot deliver.** Your case is in front of the shop owner with the
+> dates and the amount above.
+>
+> **You mentioned photographs. You do not need to send any**, and nothing here
+> depends on them.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass zwei Nachrichten
+unbeantwortet blieben**, die **direkte Antwort auf ihre eigentliche Frage**
+(keine Rücksendeadresse vorhanden — mit der ausdrücklichen Warnung, nichts zu
+verschicken), die **überprüfbare Wiedergabe der Daten** (zehn Tage bis zum
+Versand), die ehrliche Eingrenzung des Prüfbaren, und eine Nachfass-Zusage.
+**Keine Erstattung zugesagt, kein Betrag zugesagt, kein Termin, keine Absage,
+keine Vorlagen-Antwort.** **Keine Behauptung, ihr sei bereits geantwortet
+worden** — es wurde nie eine Antwort gesendet, und genau das steht im Text.
+**Keine Behauptung, das Wort „indestructible" existiere nicht.** **Keine
+Bestätigung und keine Bestreitung zur Bewertungsanzeige.** **Kein Foto
+verlangt.** **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
+
+## jscalera1@aol.com — Joe Scalera — ⚠️ **dritte Meldung, Absenderadresse an keiner Bestellung hinterlegt**
+
+**Betreff:** Re: Refund
+
+> Dear Mr Scalera,
+>
+> Thank you for writing, and I am sorry you have had to write more than once.
+>
+> **There is one thing I have to sort out before I can say anything about your
+> order, and I would rather explain it than leave you guessing.** **The email
+> address you are writing from is not the one recorded on any order I can
+> find.** That is not a suspicion about you — addresses get changed, orders get
+> placed from a second account, people buy as a gift. **But I am not willing to
+> discuss order details, amounts or refunds with an address I cannot match to
+> the purchase**, because the one time that rule is wrong to apply is the time
+> it matters most.
+>
+> **So one line back here would settle it:** either **the order number**, or
+> **the email address the order was placed under**. Either is enough. **I am
+> not asking you to prove anything about the toys.**
+>
+> **Your photographs arrived. I have not opened them, and you do not need to
+> send any more** — nothing in this depends on them.
+>
+> **I am not going to promise you a refund and I am not going to refuse you
+> one.** That decision belongs to the shop owner, not to me, and **your request
+> is already in front of him**, along with the fact that your address cannot be
+> matched — **so that he can look behind it, which I cannot.**
+>
+> **And please do not post anything back to us; there is no returns address I
+> can give you.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Begründung, warum ohne Zuordnung keine
+Bestelldaten genannt werden**, die **kleinstmögliche Rückfrage** (Bestellnummer
+**oder** Kaufadresse), die Feststellung, dass die Fotos ungeöffnet blieben und
+nicht nötig sind, und die Weitergabe an den Owner **mitsamt** dem
+Zuordnungsproblem. **Keine Erstattung zugesagt, kein Betrag, kein Termin, keine
+Absage.** **Keine Bestellnummer, kein Betrag, kein Bestellinhalt** — die
+Absenderadresse ist an keiner Bestellung hinterlegt. **Es wird ihm nicht
+mitgeteilt, dass unter seinem Namen eine Bestellung mit anderer Adresse
+existiert** (siehe Log — das ist eine Owner-Prüfung). **Keine fremde Bestellung
+beschrieben.** **Kein Nachweis verlangt.** **Keine Rücksendeadresse erfunden.**
+Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

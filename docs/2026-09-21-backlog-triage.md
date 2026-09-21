@@ -1058,3 +1058,102 @@ formuliert als die Datenlage sie trägt.** Das wird hier richtiggestellt.
 - **🔴 Offen und unverändert:** #7479, #6259, #5148, #6583, #6546, #8669.
 - **📤 Die beiden neuen Entwürfe stehen in keinem Abendreport** — sie entstanden
   danach. Volltext in `docs/entwuerfe-zum-kopieren.md`.
+
+---
+
+## Lauf 20:20 UTC
+
+**Posteingang (`in:inbox` und `in:sent` geprüft):** zwei Vorgänge — eine neue
+Nachricht und **eine, die bisher durchgerutscht ist.**
+
+### ⛔ #8142 — Wendy Price (`wendyprice579@gmail.com`) — **zweiter Kontakt, nie eine Antwort**
+
+**⚠️ Ihre Nachricht vom 19.09. 14:30 ist bis heute ungelesen.** Am **21.09.
+12:06** hat sie nachgefasst:
+
+> *„**Still not heard back from you?**"*
+
+**Ihr Erstkontakt vom 19.09., im Volltext:**
+
+> *„I ordered 2 of these **indestructible** toys for my dog (Cockerpoo)
+> **waited ages for delivery**. Have now received it and **destroyed within an
+> hour**. Really very poor **considering the reviews**. **How do I return
+> these?**"*
+
+**⚠️ Ihr Fall war am 19.09. erfasst und ein Entwurf geschrieben — gesendet wurde
+nie etwas.** Das ist der Grund, warum sie heute nachfasst. **Im neuen Entwurf
+wird ihr nicht vorgespielt, sie habe bereits eine Antwort bekommen**; es steht
+ausdrücklich drin, dass niemand geantwortet hat. **Die Nachfassung selbst ist
+der Beleg dafür, dass der Entwurfsstapel ohne Versand keine Wirkung hat.**
+
+**Shopify (#8142):** bestellt **29.08.**, Versand **08.09.** (**zehn Tage**),
+zwei Plushies, **£27,95**, **0,00 £ erstattet**, Chelmsford (GB), Yanwen
+`UL493234514YP`. **„Waited ages" ist keine Empfindung, sondern steht in den
+Daten** — und wird ihr ungefragt bestätigt.
+
+**Zweite Kundin binnen zwei Stunden, die die Bewertungsanzeige der Website
+anspricht** (nach #7168). **Weder bestätigt noch bestritten** — von hier nicht
+prüfbar.
+
+**Ihre eigentliche Frage („How do I return these?") wird beantwortet:** es gibt
+keine Rücksendeadresse, und sie wird ausdrücklich gebeten, **nichts** zu
+verschicken. **Kein Foto verlangt.**
+
+**Achtunddreißigste unabhängige Kundenaussage zur Werbung.**
+
+**Eskalationsgrund:** wiederholter unerledigter Kontakt + bestrittene
+Werbeaussage.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### ⚠️ `jscalera1@aol.com` — Joe Scalera, 21.09. 20:11 UTC — **dritte Meldung, Bestellung weiterhin nicht zuzuordnen**
+
+> *„**All 3 chew toys are not good. I sent pics. Please reimburse me** Thank
+> you Joe Scalera 7175540830"*
+
+**Dritte Meldung von dieser Adresse** (nach zwei am 19./20.09.). **Erstmals
+nennt er einen Namen und eine Telefonnummer.**
+
+**Shopify-Prüfung:**
+
+- `orders(query:"7175540830")` → **kein Treffer.**
+- `customers(query:"Scalera")` → **ein Treffer: Joseph Scalera, E-Mail
+  `jscalera3214@gmail.com`, Bestellung #8239 vom 30.08., 59,58 $, 0,00 $
+  erstattet.**
+
+**⚠️ Name gleich, Adresse verschieden — und das ist keine Zuordnung, sondern
+eine Vermutung.** **Dem Kunden wird davon nichts mitgeteilt.** Nach
+`support-policy.md` gehen **keine Bestelldaten an eine Adresse, die an der
+Bestellung nicht hinterlegt ist** — und es wird ihm **auch nicht gesagt, dass
+unter seinem Namen eine Bestellung mit einer anderen Adresse existiert.**
+**Das ist eine Prüfung für den Owner, der hinter die Konten sehen kann.**
+
+**Im Entwurf steht die kleinstmögliche Rückfrage:** Bestellnummer **oder**
+Kaufadresse — eines von beiden genügt. **Die Begründung wird offen genannt**,
+statt ihn im Unklaren zu lassen. **Seine Fotos wurden nicht geöffnet und werden
+nicht verlangt.** **Keine Zusage, keine Absage.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Dreiundzwanzig Kundenvorgänge am 21.09.** (vier davon nach dem Abendreport).
+- **304 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⚠️ Achtunddreißig unabhängige Kundenaussagen zur Werbung.**
+- **🟦 Fünf mögliche Fundorte der Werbeaussage** — Klaviyo-Mails · zwei
+  Advertorial-Seiten · Kunden-PDF · Produktbild (#7168) · Facebook-Anzeige
+  (#2852). **Alle fünf kann nur der Owner öffnen.**
+- **⚠️ Zwei Kundinnen sprechen die Bewertungsanzeige der Website an** (#7168,
+  #8142). **Von hier nicht prüfbar, deshalb weder bestätigt noch bestritten.**
+- **⚠️ Eine ungelesene Kundennachricht war zwei Tage lang übersehen worden**
+  (#8142 vom 19.09.). Die Nachfassung hat sie sichtbar gemacht. **Das ist
+  dieselbe Lücke, die am 07:20-Lauf benannt wurde: sichtbar wird ein Vorgang
+  erst, wenn der Kunde nachfasst.**
+- **⏰ Nächste Frist: #8295 am 23.09.**
+- **⛔🔴 Zwei Altfälle ohne jede Antwort:** #2894 und #3089.
+- **🔴 Offen und unverändert:** #7479, #6259, #5148, #6583, #6546, #8669.
+- **📤 Vier Entwürfe dieses Tages stehen in keinem Abendreport** (#7168, #2852,
+  #8142, jscalera1). Volltext in `docs/entwuerfe-zum-kopieren.md`.
