@@ -448,3 +448,106 @@ behauptet.**
 - **⛔🔴 #2894** — 19,95 £, defekt angekommen, Ersatz am 24.07. zugesagt, nie
   versandt.
 - **⏰ #8669** — Storno-Fenster weiterhin offen.
+
+---
+
+## Lauf 11:20 UTC
+
+**Vier weitere Antworten auf den Sendungsblock von 09:27–09:41. Damit haben
+binnen 90 Minuten acht Kunden reagiert.**
+
+### ⛔🔴 #7989 — Karen Reynolds (`House54@outlook.com.au`), 21.09. 10:47 UTC — **Fehlmenge, beantwortet mit einer Kauschaden-Absage**
+
+> *„**NO NO NO NO I only got half my order. Only the Hippo arrived where is my
+> Frog. Nothing is damaged… Read my email.**"*
+
+**Das ist der schwerste Einzelfehler des Tages.** Sie hat am 18.09. eine
+**fehlende Position** gemeldet. Die Antwort von 09:28 handelte von **Schäden**.
+**Sie sagt ausdrücklich, dass nichts beschädigt ist.**
+
+**Zweiter Fall dieser Art** nach **#8372** am 19.09., wo die Vorlage einen
+Kauschaden unterstellte, den es nie gab.
+
+**Shopify (#7989):** bestellt 28.08., **ein** Fulfillment vom **08.09.**, die
+Position lautet **„Plushies × 2" auf einer Zeile**, `unfulfilledQuantity: 0`.
+**£28,50 / A$53,87**, **0,00 £ erstattet**, Upper Coomera, **Queensland (AU)**.
+
+**Der Datensatz sagt: beide versandt. Sie sagt: eine angekommen.** **Ihr wird
+ausdrücklich nicht gesagt, sie habe sich verzählt** — im Entwurf steht, dass
+Datensatz und Paket nicht übereinstimmen und **nur der Owner hinter den
+Fulfillment-Eintrag sehen kann.** **Zwölfter AU-Kunde.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### ⛔ #8002 — Thomas Robinson (`thomas2788work@gmail.com`), 21.09. 10:53 UTC
+
+> *„**Is this an automated response? You sent that in the first email**"*
+
+**Ein Kunde benennt die Vorlage als solche.** Er hat sie am **18.09.** und
+erneut am **21.09. 09:36** bekommen — beide Male, die zweite mit **„Dear
+Customer"**.
+
+**Im Entwurf wird seine Frage direkt bejaht**: ja, es war eine Standardantwort,
+ja, er hatte sie schon. **Keine dritte.**
+
+**Shopify (#8002):** bestellt 28.08., Versand **08.09.** (elf Tage), ein
+Plushies, **£19,95**, **0,00 £ erstattet**, Prudhoe (GB).
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### #7048 — Jo Carr (`jocarr247@yahoo.com`), 21.09. 11:03 UTC — 40 % abgelehnt
+
+> *„**40% is still not good enough** after what i paid… **it states a full refund
+> if not happy with the products**"*
+
+**Ihr wurde um 09:28 ein 40-Prozent-Angebot gemacht.** Sie lehnt ab und beruft
+sich auf die Garantieformulierung. **Einunddreißigste unabhängige
+Kundenaussage zur Werbung**, und die **vierte**, die die Werbung statt der
+Produktseite meint.
+
+**Im Entwurf wird ihr die Formulierung wahrheitsgemäß bestätigt** — mit dem
+Hinweis, dass damit nichts entschieden ist. **Das Prozentangebot wird weder
+bestätigt noch zurückgenommen, und sie wird nicht dazu überredet.**
+
+**Shopify (#7048):** bestellt 21.08., Versand 02.09., zwei Plushies, **£27,95**,
+**0,00 £ erstattet**, Darlington (GB).
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### 🔁 #8295 — Ivan Griffen (`griffenivan@gmail.com`), 21.09. 10:54 UTC — **fünfter Anlauf**, Frist **23.09.**
+
+> *„It took **8 minutes** for my dog to destroy the toy"*
+
+**Er korrespondiert seit dem 06.09.** Die Antwort von 09:41 begann mit **„Dear
+Customer"** — nach drei Wochen.
+
+**Shopify (#8295):** bestellt 31.08., Versand 08.09., zwei Plushies, **£27,95**,
+**0,00 £ erstattet**, Gosport (GB). **Seine Frist läuft am 23.09. ab.**
+
+**Die Carrier-Frage wird nicht wieder aufgemacht** — sie wurde am 18.09.
+richtiggestellt.
+
+**Label:** `Bot/Escalated - Owner Attention`. **Fünfte Fassung.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Zwölf Kundenvorgänge am 21.09.**
+- **Einhundertachtzehn Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⛔🔴 Zweiter Fall, in dem die Vorlage den falschen Sachverhalt beantwortet:**
+  **#7989 meldete eine Fehlmenge und bekam eine Kauschaden-Absage.**
+- **⛔ Ein Kunde benennt die Vorlage ausdrücklich als automatische Antwort
+  (#8002).**
+- **⚠️ Mindestens acht der fünfundzwanzig Sendungen von heute Vormittag sind
+  inzwischen beantwortet — sieben davon negativ.** Über die übrigen siebzehn
+  wird hier nichts behauptet.
+- **⏰ Nächste Frist: #8295 am 23.09.**
+- **🔴 Offen und unverändert:** #7479, #6259, #5148, #6583, #2894, #8669.

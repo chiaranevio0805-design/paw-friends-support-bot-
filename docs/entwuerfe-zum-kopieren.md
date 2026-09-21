@@ -14320,6 +14320,163 @@ Behauptung, das Wort „indestructible" existiere nicht.** **Keine Rekonstruktio
 der Anzeige.** **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im
 Text.
 
+## #7989 — Karen Reynolds (House54@outlook.com.au) — ⛔ **Fehlmenge, beantwortet mit einer Kauschaden-Absage**
+
+**Betreff:** Re: Missing Item.
+
+> Dear Karen,
+>
+> **You are right to be angry, and the reply you had this morning was wrong on
+> its face.** You reported a **missing item**. You were answered about **damage**.
+> **Nothing of yours is damaged, you said so plainly, and I am not going to
+> pretend that reply made sense.**
+>
+> **So, your actual case, as you stated it: the hippo arrived, the frog did
+> not.**
+>
+> **What our records show, and I am not going to dress it up:** order #7989 is
+> recorded as **two Plushies on one line, both marked fulfilled, on a single
+> despatch dated 8 September**. **Our system therefore shows both as sent. You
+> say one arrived.** **I am not going to tell you that you miscounted** — you
+> opened the parcel and I did not. **What I can say is that our record and your
+> parcel do not agree, and that is something only the shop owner can resolve,
+> because he can look behind the fulfilment entry and I cannot.**
+>
+> **It is with him now, stated as a short shipment and not as anything else:**
+> **order #7989, two Plushies ordered, one received, A$53.87 recorded on the
+> order, nothing refunded, ordered 28 August, despatched 8 September.**
+>
+> **What I cannot do is decide it** — whether you get the frog sent, or the money
+> back for it, is his call and not mine, **so I am not going to promise you
+> either.**
+>
+> **You do not need to send photographs and there is nothing to return.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ausdrückliche Feststellung, dass die Antwort von
+09:28 den falschen Fall beantwortet hat**, die **offene Gegenüberstellung von
+Datensatz und ihrer Schilderung**, und die Weitergabe **als Fehlmenge**. **Keine
+Erstattung zugesagt, keine Nachlieferung zugesagt, kein Betrag, kein Termin,
+keine Absage.** **Ihr wird ausdrücklich nicht gesagt, sie habe sich verzählt.**
+**Keine Fotobedingung, keine Rücksendeaufforderung.** **Keine Umrechnung** —
+53,87 A$ ist der presentment-Betrag. Kein Eskalationsmarker im Text.
+
+## #8002 — Thomas Robinson (thomas2788work@gmail.com) — fragt direkt, ob das eine automatische Antwort war
+
+**Betreff:** Re: Plushies
+
+> Dear Thomas,
+>
+> **You asked whether that was an automated response, and whether you had already
+> been sent the same thing. The honest answer to both is yes.** It is a standard
+> paragraph, you had already received it, and sending it to you a second time was
+> not an answer. **I am not going to send you a third.**
+>
+> **What your case actually is, in our records:** **order #8002, one Plushies,
+> £19.95 recorded on the order, nothing refunded, ordered 28 August, despatched
+> 8 September** — **eleven days sitting here before it moved**, which is ours.
+>
+> **What I can and cannot do.** I cannot issue a refund or send a replacement;
+> neither is mine to decide. **So I am not going to promise you either and I am
+> not going to refuse you either.** Your case is in front of the shop owner as
+> you described it. **And there is nowhere to send anything back to** — we do not
+> publish a returns address, and I am not going to invent one.
+>
+> **You should have had a real answer the first time.** If you have heard nothing
+> in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **direkte, bejahende Antwort auf seine Frage**, ob es
+sich um eine automatische, bereits gesendete Antwort handelte; die Weitergabe
+mit allen Zahlen; die **ungefragte Offenlegung der elf Tage bis zum Versand**;
+und eine Nachfass-Zusage. **Keine Erstattung zugesagt, kein Ersatz zugesagt,
+kein Betrag, kein Termin, keine dritte Absage.** **Keine Rücksendeadresse
+erfunden.** Kein Eskalationsmarker im Text.
+
+## #7048 — Jo Carr (jocarr247@yahoo.com) — 40 % angeboten, beruft sich auf „full refund"
+
+**Betreff:** Re: #7048
+
+> Dear Jo,
+>
+> **You were offered 40 per cent. You did not ask for a percentage, and I am not
+> going to argue you down to one.**
+>
+> **On the wording you are relying on.** You say it states a full refund if you
+> are not happy with the products. **You did not take that from nowhere:** a
+> **30-day money-back guarantee appears in our own marketing emails, with no
+> condition attached to it.** **I am not telling you that settles your case** —
+> whether it is applied here is the shop owner's decision and not mine. **But I
+> am not going to pretend our own wording says something narrower than it does.**
+>
+> **What I can and cannot do.** I cannot approve a full refund and I cannot
+> approve the 40 per cent either — **neither is mine to decide.** **So I am not
+> going to promise you anything, and I am not going to withdraw what you were
+> already offered.** Your position goes to him exactly as you put it: **you want
+> the full amount, not a percentage.** With it: **order #7048, two Plushies,
+> £27.95 recorded on the order, nothing refunded, ordered 21 August, despatched
+> 2 September.**
+>
+> **Please do not post anything back** — we have no returns address I can give
+> you.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Respektierung ihrer Ablehnung des Prozentangebots**,
+die **wahrheitsgemäße Bestätigung, dass die Garantieformulierung aus unseren
+eigenen Werbemails stammt** — mit ausdrücklichem Hinweis, dass damit nichts
+entschieden ist —, und die Weitergabe ihrer Position im Original. **Keine
+Erstattung zugesagt, kein Prozentsatz bestätigt oder zurückgenommen, kein
+Betrag, kein Termin, keine Absage.** **Kein Versuch, sie zum Prozentangebot zu
+überreden.** **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im
+Text.
+
+## #8295 — Ivan Griffen (griffenivan@gmail.com) — fünfte Fassung, Frist 23.09.
+
+**Betreff:** Re: Order #8295
+
+> Dear Ivan,
+>
+> **Eight minutes. Thank you for telling us, and I am sorry you had to say it to
+> a reply that began "Dear Customer" — after three weeks of correspondence with
+> us.**
+>
+> **You have written to us since 6 September and the thing you asked for has
+> still not happened.** I am not going to add another holding line to that.
+>
+> **Where it stands, in our records:** **order #8295, two Plushies, £27.95
+> recorded on the order, nothing refunded, ordered 31 August, despatched
+> 8 September.** Your case is with the shop owner, with your own words about the
+> eight minutes and with the date you set.
+>
+> **What I cannot do is decide it.** A refund is his call and not mine, **so I am
+> not going to promise you one and I am not going to refuse you one.**
+>
+> **Please do not post anything back** — we have no returns address I can give
+> you.
+>
+> **You set a date of 23 September. He has it, and so does the fact that this is
+> your fifth attempt.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Benennung der unpersönlichen Anrede nach drei Wochen
+Korrespondenz**, die Weitergabe mit allen Zahlen **und seiner Frist**, und die
+offene Feststellung, dass es sein fünfter Anlauf ist. **Keine Erstattung
+zugesagt, kein Betrag, kein Termin, keine Absage.** **Keine Wiederholung der
+Carrier-Frage**, die am 18.09. bereits richtiggestellt wurde. **Keine
+Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
