@@ -14566,6 +14566,94 @@ Betrag, kein Termin, keine Absage, keine Vorlagen-Antwort.** **Keine Auswertung
 des Anhangs, keiner verlangt.** **Keine Behauptung, das Wort existiere nicht.**
 **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
 
+## #6254 — David Hickman (davehickman71@gmail.com) — ⛔ **zwei ungeöffnete Artikel, weil die Vorlage ihn darauf hingewiesen hat**
+
+**Betreff:** Re: A shipment from order #6254 is on the way
+
+> Dear Dave,
+>
+> **You have read the reply you were sent this morning carefully and taken it at
+> its word, and I am afraid that is exactly where the problem is.**
+>
+> **Yes — you have two toys still in their packaging, untouched, and you are
+> asking the obvious question. I cannot give you the answer it implies.** **We do
+> not publish a returns address.** There is none I can give you, and I am not
+> going to invent one. **So please do not post anything back yet**, because I
+> cannot tell you where it would go.
+>
+> **I would rather say that plainly than let you parcel them up on the strength
+> of a paragraph we sent you.**
+>
+> **What I have done:** your request is in front of the shop owner, stated as
+> what it is — **two unopened, unused items that a customer has asked to return,
+> and no route by which to do it.** With it: **order #6254, four Plushies plus
+> the digital guide, £44.95 recorded on the order, nothing refunded, ordered
+> 15 August, despatched 22 August, two items destroyed, two never opened.**
+>
+> **Whether you get money back for those two is his decision and not mine**, so
+> **I am not going to promise you anything and I am not going to refuse you.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass seine Frage berechtigt ist
+und die Antwort darauf nicht existiert** (keine Rücksendeadresse), die
+ausdrückliche Bitte, **nichts zu verschicken**, und die Weitergabe des Falls als
+**unbenutzte Ware ohne Rücksendeweg**. **Keine Erstattung zugesagt, kein Betrag,
+kein Termin, keine Absage.** **Keine Rücksendeadresse erfunden, kein Etikett
+zugesagt.** **Keine Wiederholung der Bedingung aus der Vorlage.** Kein
+Eskalationsmarker im Text.
+
+## #7815 — Angela Stevens (angedave@bigpond.net.au) — AU, zitiert die Website-Versprechen
+
+**Betreff:** Re: Re order 7815
+
+> Dear Angela,
+>
+> **You quoted our own website back at us, and you were entitled to.** I am not
+> going to argue with the contrast you are drawing.
+>
+> **What I can tell you honestly about that wording:** I have read all twelve of
+> our current **product descriptions**, and the passage you quote is not in those
+> — **it sits elsewhere on the site.** **I am not suggesting you invented it**;
+> I am telling you the limits of what I checked. **Where exactly it appears, and
+> whether it should be changed, is the shop owner's question — he is the only one
+> who can look at the site as a whole and act on it.** **Your quotation goes to
+> him in your words.**
+>
+> **On your order.** Whether you are refunded is his decision and not mine, **so
+> I am not going to promise you a refund and I am not going to refuse you one.**
+> It is with him as it stands: **order #7815, one Plushies, A$38.66 recorded on
+> the order, nothing refunded, ordered 26 August, despatched 3 September.**
+>
+> **One thing you are entitled to know because your delivery address is in
+> Victoria.** Our published returns policy carries a section headed **"Australia
+> – Consumer Guarantees"**, stating that Australian consumer rights **"are not
+> limited by the requirement that an item be unused or in its original
+> packaging."** **That is our own text. I am not giving you a legal opinion on
+> it** — only telling you it is there, because you should not have to find it
+> yourself.
+>
+> **Please do not post anything back** — we have no returns address I can give
+> you.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Bestätigung, dass sie unseren eigenen Website-Text
+zitiert**, die **ehrliche Eingrenzung dessen, was geprüft wurde** (zwölf
+Produktbeschreibungen — die Passage steht nicht dort, sondern anderswo auf der
+Seite), das **wörtliche Zitat der eigenen AU-Passage** ohne Auslegung, und die
+Weitergabe mit allen Zahlen. **Keine Erstattung zugesagt, kein Betrag, kein
+Termin, keine Absage.** **Keine rechtliche Bewertung.** **Keine Behauptung, die
+zitierte Passage existiere nicht oder sei falsch wiedergegeben.** **Keine
+Rücksendeadresse erfunden.** **Keine Umrechnung** — 38,66 A$ ist der
+presentment-Betrag. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

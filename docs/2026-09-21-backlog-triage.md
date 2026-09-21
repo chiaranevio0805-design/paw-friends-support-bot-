@@ -614,3 +614,97 @@ Bestellung mit auffälliger Versandverzögerung.**
 - **⚠️ Dreiunddreißig unabhängige Kundenaussagen zur Werbung.**
 - **⏰ Nächste Frist: #8295 am 23.09.**
 - **🔴 Offen und unverändert:** #7479, #6259, #5148, #6583, #2894, #8669.
+
+---
+
+## Lauf 13:20 UTC
+
+**Zwei weitere Antworten auf den Sendungsblock — und ein neuer Befund zur
+Werbefrage.**
+
+### ⛔ #6254 — David Hickman (`davehickman71@gmail.com`), 21.09. 13:16 UTC — **die Vorlage erzeugt selbst einen Rückgabefall**
+
+**Was um 09:31 an ihn ging: die Kauschaden-Vorlage** mit dem Satz, die Garantie
+gelte für *„items returned **unused and in their original condition**"*.
+
+**Seine Antwort:**
+
+> *„I purchased 4 toys and **do have two in their packaging untouched**. **Can I
+> please return these items?**"*
+
+**Er hat die Vorlage wörtlich genommen — und sie beim Wort genommen ist sie eine
+Einladung.** **Es gibt aber keine Rücksendeadresse.** **Damit erzeugt die
+Vorlage selbst Rückgabewünsche, die der Shop nicht erfüllen kann.**
+
+**Das ist strukturell neu:** Bisher kamen die unbenutzten Fälle von Kunden, die
+von sich aus zurückgeben wollten. **Hier hat die Absage den Fall überhaupt erst
+ausgelöst.** **Fünfzehnter unbenutzter Artikel ohne Rücksendeweg** (bei ihm
+zwei).
+
+**Shopify (#6254):** bestellt 15.08., Versand 22.08., **vier Plushies plus das
+E-Book**, **£44,95**, **0,00 £ erstattet**, Milton Keynes (GB). **Vierte
+Bestellung mit unerfüllter E-Book-Position** (nach #8372, #7555, #6592).
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### #7815 — Angela Stevens (`angedave@bigpond.net.au`), 21.09. 12:38 UTC — **AU**, zitiert die Website-Versprechen
+
+> *„What a joke. **This is front and centre on your website** — **Quality:** For
+> us, high product quality comes first. **Price-performance:** We offer you the
+> best quality at the best prices. **Satisfaction:** We place great…"*
+
+**Vierunddreißigste unabhängige Kundenaussage zur Werbung** — und die erste, die
+**nicht** die Garantie oder das Wort „indestructible" zitiert, sondern die
+**Qualitätsversprechen der Website.**
+
+**Shopify (#7815):** bestellt 26.08., Versand 03.09., ein Plushies, **£20,34 /
+A$38,66**, **0,00 £ erstattet**, Wonga Park, **Victoria (AU)**. **Dreizehnter
+AU-Kunde** — die AU-Passage wird ihr wörtlich zitiert, **nicht ausgelegt**.
+
+---
+
+### 🟦 Neuer Befund: zwei Advertorial-Seiten, deren Inhalt von hier nicht lesbar ist
+
+Eine Abfrage der Shop-Seiten liefert neben den üblichen Rechtsseiten:
+
+| Titel | Handle |
+|---|---|
+| **Listicle Angelina V3** | `angelina-notes-dog-toys` |
+| **Sophie Advertorial** | `sophie-dog-toy-counter` |
+| Listicle - Health & Beauty - Gut Health | `listicle` |
+| Listicle Page - Apparel & Accessories | `listicle-page-apparel-and-accessories-…` |
+| Our Story | `our-story` |
+
+**Bei allen abgefragten Seiten ist das Feld `body` leer** — auch bei „Our
+Story", deren Inhalt Angela Stevens gerade zitiert hat. **Der Text steht also
+nicht im `body`-Feld, sondern wird von einem Seiten-Builder erzeugt und ist über
+diese API nicht auslesbar.**
+
+**Das ist ein Befund, kein Verdacht:**
+
+1. **Die Werbeaussagen stehen nachweislich nicht in den zwölf
+   Produktbeschreibungen.**
+2. **Sie stehen belegt in den Klaviyo-Werbemails** (Fund vom 19.09.).
+3. **Und es gibt mindestens zwei Advertorial-Seiten** — „Listicle Angelina V3"
+   und „Sophie Advertorial" —, **deren Inhalt ich nicht lesen kann.**
+
+**Für den Owner: diese beiden Seiten sind der naheliegendste Ort, an dem die
+vierunddreißig Kundenaussagen ihren Ursprung haben könnten. Nur er kann sie
+öffnen.** **Hier wird ausdrücklich nicht behauptet, was darauf steht.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Sechzehn Kundenvorgänge am 21.09.**
+- **Einhundertzweiundzwanzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⛔ Neu und strukturell: die Vorlage hat bei #6254 selbst einen
+  Rückgabewunsch ausgelöst, den der Shop nicht erfüllen kann.**
+- **🟦 Zwei Advertorial-Seiten identifiziert, Inhalt von hier nicht lesbar.**
+- **⚠️ Elf der fünfundzwanzig Sendungen von heute Vormittag sind beantwortet,
+  zehn davon negativ.**
+- **⏰ Nächste Frist: #8295 am 23.09.**
+- **🔴 Offen und unverändert:** #7479, #6259, #5148, #6583, #2894, #8669.
