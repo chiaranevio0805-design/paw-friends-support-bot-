@@ -14023,6 +14023,66 @@ auffindbar ist. **Keine erfundene „unbenutzt"-Bedingung.** **Keine
 Rücksendeadresse erfunden.** **Keine Zahlungsdaten genannt** — nur, dass eine
 Erstattung auf die Karte der Bestellung ginge. Kein Eskalationsmarker im Text.
 
+## #6804 — Jill Brown (jillbindewald@gmail.com) — US, zweite Fassung, 1-Stern-Bewertung abgegeben
+
+**Betreff:** Re: Order #6804
+
+> Dear Jill,
+>
+> **On 16 September you asked one question: how can you get a refund. The reply
+> you got on 18 September did not answer it — it explained to you why chewing is
+> not covered. I am not going to defend that, and I am not going to send you
+> another one.**
+>
+> **So, the answer to the question you actually asked, in two parts.**
+>
+> **There is nowhere to send the toys back to.** We do not publish a returns
+> address. There is none I can give you and I am not going to invent one.
+> **Please do not post anything**, and **you do not need to send more
+> photographs** — the one you sent arrived, **I have not opened it**, and nothing
+> here depends on it.
+>
+> **And the refund decision is not mine to make.** It belongs to the shop owner.
+> **I am not going to promise you a refund and I am not going to refuse you one
+> for a second time.** Your case is with him as you put it: **order #6804, two
+> Plushies, $41.68 recorded on the order, nothing refunded, ordered 20 August,
+> dispatched 2 September, destroyed within three minutes, refund requested on
+> 16 September.**
+>
+> **On the advertising.** You say we claim the toy is indestructible and market
+> it as tough and great for strong chewers. I have read all twelve of our current
+> product descriptions, and the word "indestructible" is not in any of them —
+> **but the wording about strong chewers is ours**, and I am not going to pretend
+> otherwise. **What I cannot see from here is the advertising that was actually
+> shown to you, and I am not going to guess at it.** **Your sentence goes to the
+> shop owner exactly as you wrote it**, because he is the only person who can
+> look at the advertising itself and change it.
+>
+> **On your review.** You left one star and told other people not to shop with
+> us. **I am not going to ask you to take it down, change it or soften it, and
+> nothing in this email is conditional on it.** That is yours.
+>
+> **One thing from our records that you did not ask about.** Your order sat here
+> from 20 August until 2 September before it was handed over for dispatch —
+> **thirteen days.** That was at our end too.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass ihre Frage vom 16.09. nicht
+beantwortet wurde**, die **endliche Beantwortung in beiden Teilen**, die
+**wahrheitsgemäße Bestätigung, dass die Formulierung über „strong chewers"
+unsere eigene ist**, die Weitergabe mit allen Zahlen, und die **ungefragte
+Offenlegung der dreizehn Tage bis zum Versand**. **Keine Erstattung zugesagt,
+kein Betrag zugesagt, kein Termin, keine zweite Absage.** **Keine Bitte, die
+Bewertung zu entfernen, zu ändern oder abzuschwächen**, und **nichts daran
+geknüpft**. **Keine Behauptung, das Wort „indestructible" existiere nicht** —
+es wird gesagt, was geprüft wurde und was nicht einsehbar ist. **Keine
+Rekonstruktion der Anzeige.** **Keine Auswertung des Fotos, keins verlangt.**
+**Keine Rücksendeadresse erfunden.** **Keine Umrechnung** — 41,68 $ ist der
+Betrag in ihrer Währung auf der Bestellung. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

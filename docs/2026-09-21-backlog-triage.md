@@ -153,3 +153,87 @@ described").
   für die es keine auffindbare Grundlage gibt.
 - **⚠️ Vierter Fall eines neuen Threads von einer zweiten Adresse.**
 - Die Punkte im Kopf dieser Datei bleiben unverändert bestehen.
+
+---
+
+## Lauf 07:20 UTC
+
+**Ein neuer Kundenvorgang — und eine Korrektur, die grundsätzlicher ist als die
+vorigen.**
+
+### ⛔ #6804 — Jill Brown (`jillbindewald@gmail.com`), 21.09. 06:35 UTC — 1-Stern-Bewertung abgegeben
+
+> *„**You need to change your advertising and quit claiming it's an
+> indestructible dog toy.** Yall advertise it's **tough and great for strong
+> chewers** then charge a fortune for a piece of garbage. That's fine. **I just
+> left a 1 star review** along with all the other many negative reviews. I hope
+> the next customer checks that before purchasing as I **highly suggested NOT
+> shopping with such a deceptive company**."*
+
+**Ihr Verlauf:**
+
+| Datum | Vorgang |
+|---|---|
+| **16.09. 13:10** | *„within 3 minutes he had destroyed it … **How can we get a refund** as this is not acceptable since you advertise these toys are **nearly indestructible**?"* Ein Foto. |
+| **18.09. 10:41** | **Kauschaden-Vorlage.** |
+| **21.09. 06:35** | 1-Stern-Bewertung, Empfehlung, nicht hier zu kaufen. |
+
+**Ihre Frage lautete „how can we get a refund". Die Antwort erklärte ihr, warum
+Kauschaden nicht gedeckt ist. Das ist keine Antwort auf ihre Frage.** Im Entwurf
+wird sie **endlich beantwortet**, in beiden Teilen: **es gibt keine
+Rücksendeadresse**, und **die Erstattungsentscheidung liegt beim Owner.**
+
+**⚠️ Ihre Bewertung wird nicht angetastet.** **Keine Bitte, sie zu entfernen, zu
+ändern oder abzuschwächen; nichts im Entwurf ist daran geknüpft.**
+
+**Zur Werbung wird ihr etwas bestätigt, was zutrifft:** *„tough and great for
+strong chewers"* **ist unsere eigene Formulierung** — die Plushies-Beschreibung
+führt *„anti-tear design built for **strong chewers**"*. **Das Wort
+„indestructible" steht dort nicht**, und beides wird ihr gesagt, ohne zu
+behaupten, sie habe es nicht gesehen.
+
+**Shopify (#6804):** bestellt **20.08.**, Versand angelegt **02.09.** —
+**dreizehn Tage** —, zwei Plushies, **£30,54 / $41,68** (presentment USD),
+**0,00 £ erstattet**, Bush, **Louisiana (US)**. **Achtundzwanzigste Bestellung
+mit auffälliger Versandverzögerung.**
+
+**Dreißigste unabhängige Kundenaussage zur Werbung.** **Ein Foto — nicht
+geöffnet.**
+
+**Label:** `Bot/Escalated - Owner Attention` (öffentliche Bewertung +
+bestrittene Werbeaussage + unbeantwortete Erstfrage). **Zweite Fassung.**
+
+---
+
+### ⚠️ Korrektur — und eine Feststellung über meine eigene Zählung
+
+**Die Sendung an #6804 am 18.09. 10:41 war in keiner meiner bisherigen
+Aufstellungen enthalten.** Bisher hatte ich gezählt: **drei** Sendungen am
+15.09., **vier** am 17.09., **neun** am 19.09. — also sechzehn. **Mit dieser
+sind es mindestens siebzehn, und erstmals ist auch der 18.09. betroffen.**
+
+**Ich habe diese Zahl jetzt viermal nach oben korrigieren müssen** (12:20 und
+14:20 am 19.09., 15:20 am 19.09., 21:20 am 20.09., und jetzt). **Der Grund ist
+jedes Mal derselbe:** eine Sendung fällt nur auf, wenn der betroffene Thread
+später eine **ungelesene Eingangsnachricht** bekommt. Threads, in denen der
+Kunde nicht mehr antwortet, bleiben unsichtbar.
+
+**Daraus folgt eine Feststellung, die ich offen machen muss: „siebzehn" ist eine
+Untergrenze, keine Gesamtzahl.** **Wie viele dieser Absagen insgesamt
+rausgegangen sind, kann ich von hier aus nicht feststellen** — dafür müsste der
+gesendete Ordner vollständig durchgesehen werden, und zwar nach Textmuster, nicht
+nach ungelesenen Antworten. **Das ist eine Owner-Aufgabe.** Alle bisherigen
+Zahlen in diesen Protokollen sind entsprechend als **„mindestens"** zu lesen.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Drei Kundenvorgänge am 21.09.**
+- **Einhundertneun Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⛔ Kauschaden-Vorlage: mindestens siebzehn Sendungen an mindestens dreizehn
+  Kunden seit dem 15.09. — Untergrenze, nicht Gesamtzahl.** **Keine einzige hat
+  einen Fall beendet.**
+- **⚠️ Dreißig unabhängige Kundenaussagen zur Werbung.**
+- Die Punkte im Kopf dieser Datei bleiben unverändert bestehen.
