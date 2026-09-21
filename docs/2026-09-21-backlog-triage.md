@@ -771,3 +771,66 @@ Antworten).
   Lieferprobleme, keine Kauschäden — beide fallen unter die Erstattungsregel.**
 - **⏰ Nächste Frist: #8295 am 23.09.**
 - **🔴 Offen und unverändert:** #7479, #6259, #5148, #6583, #8669.
+
+---
+
+## Lauf 17:20 UTC
+
+**Ein neuer Kundenvorgang — mit einem Anhang, der für die Werbefrage wichtig
+sein könnte.**
+
+### #7898 — Tammy Brentlinger (`pitbulladvocate@live.com`), 21.09. 16:38 UTC — Erstkontakt
+
+> *„I ordered two of your **„indestructable"** chew toys for my two 45lb dogs.
+> **Both toys were destroyed in less than an hour.** … My dogs are **not
+> aggressive chewers** but do like to get the stuffing out … I am extremely
+> unhappy and **I ask for a full refund**."*
+
+**Vorab-Suche:** ein einziger Thread.
+
+**Shopify (#7898):** bestellt **27.08.**, Versand **03.09.** (sieben Tage), zwei
+Plushies **plus eine Trinkgeldposition**, **£31,37 / $42,61** (presentment USD),
+**0,00 £ erstattet**, Scottsdale, **Arizona (US)**. **Zweiter Kunde mit
+Trinkgeld** nach #8171.
+
+**Fünfunddreißigste unabhängige Kundenaussage zur Werbung** — sie setzt das Wort
+selbst in Anführungszeichen.
+
+**⚠️ Zwei Anhänge, beide ungeöffnet — einer davon möglicherweise von Bedeutung
+für die Werbefrage:**
+
+| Datei | Typ |
+|---|---|
+| `Plushie toys.jpg` | Foto des Schadens |
+| **`Plushies Dog Toys Email.pdf`** | **PDF** |
+
+**Der Dateiname des PDF legt nahe, dass es sich um eine Produkt-E-Mail
+handelt.** **Es wurde nicht geöffnet und sein Inhalt wird hier nicht
+behauptet.** **Für den Owner:** falls sie die Werbemail archiviert hat, die sie
+zum Kauf bewogen hat, liegt in diesem Anhang möglicherweise genau der Text, um
+den es seit dem 19.09. geht. **Nur er kann das öffnen.**
+
+**Zu ihren Preisangaben** („$20 a piece", „$42 per your regular price"): **nicht
+verrechnet, nicht richtiggestellt, nicht kommentiert.** Im Entwurf steht
+ausschließlich der auf der Bestellung verzeichnete Betrag.
+
+**Keine Erstattung ausgeführt, keine zugesagt, keine Absage.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Achtzehn Kundenvorgänge am 21.09.**
+- **Einhundertvierundzwanzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⚠️ Fünfunddreißig unabhängige Kundenaussagen zur Werbung.**
+- **🟦 Drei mögliche Fundorte der Werbeaussage stehen jetzt nebeneinander:** die
+  belegten **Klaviyo-Mails** (19.09.), die **zwei Advertorial-Seiten**, deren
+  Inhalt von hier nicht lesbar ist (13:20-Lauf), und **ein Kunden-PDF mit dem
+  Dateinamen „Plushies Dog Toys Email"** (dieser Lauf). **Alle drei kann nur der
+  Owner öffnen.**
+- **⏰ Nächste Frist: #8295 am 23.09.**
+- **⛔🔴 Zwei Altfälle ohne jede Antwort:** #2894 und #3089.
+- **🔴 Offen und unverändert:** #7479, #6259, #5148, #6583, #8669.

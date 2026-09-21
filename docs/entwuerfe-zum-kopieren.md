@@ -14714,6 +14714,60 @@ ihre Aufgabe ist. **Keine Aussage darüber, welcher Dienstleister das Paket
 hatte.** **Keine Deutung ihrer Meldung als Erstattungsforderung.** Kein
 Eskalationsmarker im Text.
 
+## #7898 — Tammy Brentlinger (pitbulladvocate@live.com) — US, Erstkontakt, volle Erstattung verlangt
+
+**Betreff:** Re: Dog Toys
+
+> Dear Tammy,
+>
+> Thank you for writing, and I am sorry it is about this. **Two toys, under an
+> hour, and you took the second one away before it went the same way.** That is
+> not what you paid for, and I am not going to argue with you about it or ask you
+> to prove it.
+>
+> **Your picture and your PDF arrived with the message. I have not opened
+> either**, and nothing here depends on them. **You do not need to send anything
+> else.**
+>
+> **You asked for a full refund, so here is a straight answer: I cannot approve
+> one.** That decision belongs to the shop owner, not to me. **So I am not going
+> to promise you a refund and I am not going to refuse you one.** Your request is
+> in front of him exactly as you made it, with our records: **order #7898, two
+> Plushies, $42.61 recorded on the order, nothing refunded, ordered 27 August,
+> despatched 3 September, both toys destroyed within an hour, full refund
+> requested.**
+>
+> **On the word you put in quotation marks.** I have read all twelve of our
+> current product descriptions and "indestructible" is not in any of them.
+> **That is not me telling you that you did not see it** — I cannot see the
+> advertising that was put in front of you, and I am not going to guess at it.
+> **Your words go to the shop owner as you wrote them**, because he is the only
+> person who can look at the advertising itself.
+>
+> **And please do not post anything back** — we have no returns address I can
+> give you, and I would rather say so than have you pay postage to nowhere.
+>
+> **One last thing.** You added a tip to the order. I am not going to pretend I
+> did not notice it; it makes this worse, not better.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **direkte Antwort auf ihre Erstattungsbitte** (die
+Entscheidung liegt nicht beim Bot), die Weitergabe mit allen Zahlen, die
+ehrliche Auskunft zur Werbefrage, und eine Nachfass-Zusage. **Keine Erstattung
+zugesagt, kein Betrag zugesagt, kein Termin, keine Absage, keine
+Vorlagen-Antwort.** **Weder das Foto noch das PDF geöffnet**, und das wird ihr
+ungefragt gesagt. **Keine Auseinandersetzung mit ihren Preisangaben** („$20 a
+piece", „$42 per your regular price") — es wird **nur der auf der Bestellung
+verzeichnete Betrag genannt und nichts verrechnet oder richtiggestellt.**
+**Keine Behauptung, das Wort „indestructible" existiere nicht.** **Keine
+Rekonstruktion der Anzeige.** **Keine Rücksendeadresse erfunden.** Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
