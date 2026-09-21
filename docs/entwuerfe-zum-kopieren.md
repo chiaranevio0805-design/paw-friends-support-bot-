@@ -14768,6 +14768,61 @@ verzeichnete Betrag genannt und nichts verrechnet oder richtiggestellt.**
 Rekonstruktion der Anzeige.** **Keine Rücksendeadresse erfunden.** Kein
 Eskalationsmarker im Text.
 
+## #6546 — Vik Jehdian (vjehdian1972@icloud.com) — 🔴 **angenommene 50-%-Erstattung am 09.09. als „processed" bestätigt, in Shopify nicht verzeichnet**
+
+**Betreff:** Re: Refund
+
+> Dear Vik,
+>
+> **You are right to ask, and the honest answer is not the one you were given.**
+>
+> **On 9 September this address told you that your 50% refund had been
+> processed. I am not going to repeat that sentence to you today, because I
+> cannot stand behind it.** Our own records show **no refund paid out on your
+> order — not a partial one, not any.** There is nothing there that a bank could
+> still be holding up.
+>
+> **The one limit on what I can see**, said plainly rather than left for you to
+> discover: I can only see payments made through our shop system. **If money
+> were sent to you some other way, it would not show here.** But nothing in our
+> records suggests that happened, and after twelve days of silence on your side
+> I am not going to offer you that as a comfortable explanation.
+>
+> **Where this stands now.** You asked for a full refund on 2 September and
+> said clearly you did not want to keep the products. You were offered 30%,
+> then 50%, and you accepted the 50% on 5 September and confirmed it again on
+> 7 September when you were asked to. **That is a settled agreement on our side,
+> not a request still waiting to be judged.** It has gone to the shop owner as
+> exactly that: **an accepted offer that was confirmed to you as paid and was
+> not paid.**
+>
+> **What I am not going to do is give you a date.** I cannot issue or release
+> money myself, and you have already had one confirmation from us that did not
+> hold. **You will not get a second one from me that I cannot keep.**
+>
+> **You do not need to do anything, and please do not post the items back** —
+> we have no returns address I can give you.
+>
+> If you have heard nothing in a few days, reply here and I will chase it
+> again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Richtigstellung der eigenen Zusage vom
+09.09.** („processed") gegen den Datenstand, die **ehrliche Nennung der Grenze**
+(außerhalb von Shopify geleistete Zahlungen sind von hier nicht sichtbar) **ohne
+sie als Ausrede anzubieten**, die **Einordnung als angenommene, offene
+Vereinbarung — nicht als neue Forderung**, und eine Nachfass-Zusage. **Keine
+neue Erstattung zugesagt, kein Betrag genannt, kein Termin, keine Absage.**
+**Die Zusicherung „processed" wird ausdrücklich nicht wiederholt.** **Keine
+Bestellnummer, kein Betrag und kein Bestellinhalt im Text** — er schreibt von
+einer anderen Adresse als der auf der Bestellung hinterlegten (siehe Log).
+**Keine Rücksendeadresse erfunden.** **Keine Deutung seiner Nachricht.** **Keine
+Umrechnung** — der Bestellbetrag ist in US-Dollar verzeichnet. Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

@@ -834,3 +834,102 @@ ausschließlich der auf der Bestellung verzeichnete Betrag.
 - **⏰ Nächste Frist: #8295 am 23.09.**
 - **⛔🔴 Zwei Altfälle ohne jede Antwort:** #2894 und #3089.
 - **🔴 Offen und unverändert:** #7479, #6259, #5148, #6583, #8669.
+
+---
+
+## Lauf 18:20 UTC
+
+**Posteingang (`in:inbox` und `in:sent` geprüft):** eine neue ungelesene
+Nachricht.
+
+### 🔴 #6546 — Vik Jehdian (`vjehdian1972@icloud.com`) — angenommene 50-%-Erstattung als „processed" bestätigt, in Shopify nicht verzeichnet
+
+**Neue Nachricht 21.09. 17:20:25, im Volltext:**
+
+> Please let me know when I'm going to get my refund. I still have not received
+> anything.
+> Vik Jehdian
+
+**Der belegte Verlauf des Threads (`1a063751d9b21f4e`):**
+
+| Datum | Wer | Inhalt |
+|---|---|---|
+| 02.09. | Kunde | volle Erstattung verlangt (lange Lieferzeit + Qualität), **Ware ausdrücklich zurückgeboten** |
+| 04.09. | Shop | **30 % Teilerstattung** angeboten, Ware behalten |
+| 04.09. | Kunde | „thank you for the offer but **I don't want the product** if its not what I need **please refund the money**" |
+| 05.09. | Shop | „**unable to offer the full refund** … **50 % partial refund**" |
+| 05.09. | Kunde | „That's fine ok" |
+| 07.09. | Shop | erneute Bestätigung erbeten |
+| 07.09. | Kunde | „**Yes I will take the 50 % refund**" |
+| 09.09. | Shop | „I can confirm that your **50 % refund has now been processed**. Depending on your bank … a few business days" |
+| 21.09. | Kunde | **„I still have not received anything."** |
+
+**Der Datenstand in Shopify (Bestellung #6546):**
+
+- bestellt **17.08.2026**, **83,09 $** (presentment) / 61,31 £ (shop),
+  `displayFinancialStatus: PAID`
+- **`totalRefundedSet`: 0,00 $. `refunds`: leere Liste.** **Es ist keine
+  Erstattung ausgeführt worden — keine Teilerstattung, keine ganze.**
+- 50 % wären **41,55 $** gewesen. Dieser Betrag steht **nicht** im Entwurf (s. u.).
+- versandt **22.08.**, also **5 Tage** nach Bestellung — passt in die bekannte
+  Reihe der Versandverzögerungen
+- **⚠️ Sendung steht still:** `fulfillments.updatedAt == createdAt`
+  (22.08.2026 02:01:48), Yun Express `YT2623400701413713`, Ziel Granada Hills,
+  Kalifornien. **Seit dem Versand vor 30 Tagen keine Aktualisierung.** Das ist
+  die **fünfte** stillstehende Sendung nach #8080, #6002 und #8221.
+- **⚠️ E-Book-Position weiterhin `unfulfilledQuantity: 1`** — die **fünfte**
+  Bestellung mit unausgelieferter E-Book-Zeile nach #8372, #7555, #6592, #6254.
+- **Die Positionspreise summieren sich auf 238 $ gegenüber 83,09 $ gezahlt**
+  (Kaching-Bundle). **Kein Anteil je Position geschätzt.**
+
+**⚠️ Adressabweichung — für den Owner:** der Kunde schreibt von
+`vjehdian1972@icloud.com`; auf der Bestellung hinterlegt ist
+`vjehdian@gmail.com`. **Beide Adressen gehören demselben Namen (Viken Jehdian),
+und dieser Postausgang hat den gesamten Vorgang bereits mit der iCloud-Adresse
+verhandelt.** Der Entwurf nennt deshalb **weder Bestellnummer noch Betrag noch
+Bestellinhalt** und beschränkt sich auf die Zusage, die der Shop selbst an diese
+Adresse gerichtet hat. **Die Abweichung wird nicht aufgelöst, sondern
+weitergegeben.**
+
+**Eskalationsgrund:** wiederholter unerledigter Kontakt **plus** eine schriftlich
+als ausgeführt bestätigte Geldzusage, die im System nicht existiert.
+
+**Entwurf:** geschrieben, siehe `docs/entwuerfe-zum-kopieren.md`. Er **wiederholt
+die Zusicherung „processed" ausdrücklich nicht**, stellt sie gegen den
+Datenstand, nennt die Grenze der eigenen Sicht (Zahlungen außerhalb von Shopify
+sind von hier nicht sichtbar) **ohne sie als Ausrede anzubieten**, und gibt den
+Fall als **angenommene, offene Vereinbarung** weiter — nicht als neue Forderung.
+**Kein Termin, kein Betrag, keine zweite Zusage.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+**🔴 Das ist der sechste Fall des Musters „Erstattung als erledigt gemeldet,
+offenbar nicht gezahlt"** nach #5148, #6583, #4998, #6259 — und #6583 erneut am
+21.09. **Und der vierte Fall der aufsteigenden Prozentsätze** (30 % → 50 %) nach
+#5148, #6159 und #7048.
+
+### Richtigstellung einer eigenen Zahl
+
+In den Läufen der letzten Tage wurde der Bestand der Entwurfsdatei mit zuletzt
+„einhundertvierundzwanzig Entwürfen" angegeben. **Diese Zahl stimmt nicht.**
+Nachgezählt (`grep -c "Zusage darin:"`) enthält `entwuerfe-zum-kopieren.md`
+**nach diesem Lauf 300 Entwürfe**, vorher 299. Die fortgeschriebene Zahl war ein
+übernommener Zählstand, der nicht mehr an der Datei geprüft worden war. **Ab
+hier gilt der gemessene Wert.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Neunzehn Kundenvorgänge am 21.09.**
+- **300 Entwürfe in der Datei** (nachgezählt), **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **🔴 Sechs Geldzusagen ohne Ausführung:** #5148, #6583, #4998, #6259 — und
+  jetzt **#6546 (41,55 $, seit dem 09.09. als gezahlt bestätigt).**
+- **⚠️ Fünf stillstehende Sendungen:** #8080, #6002, #8221 — und **#6546.**
+- **⚠️ Fünf Bestellungen mit unausgelieferter E-Book-Zeile:** #8372, #7555,
+  #6592, #6254, **#6546.**
+- **⚠️ Fünfunddreißig unabhängige Kundenaussagen zur Werbung.**
+- **⏰ Nächste Frist: #8295 am 23.09.**
+- **⛔🔴 Zwei Altfälle ohne jede Antwort:** #2894 und #3089.
+- **🔴 Offen und unverändert:** #7479, #6259, #5148, #6583, #8669.
