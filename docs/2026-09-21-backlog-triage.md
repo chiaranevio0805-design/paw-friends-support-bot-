@@ -933,3 +933,128 @@ hier gilt der gemessene Wert.**
 - **⏰ Nächste Frist: #8295 am 23.09.**
 - **⛔🔴 Zwei Altfälle ohne jede Antwort:** #2894 und #3089.
 - **🔴 Offen und unverändert:** #7479, #6259, #5148, #6583, #8669.
+
+---
+
+## Lauf 19:20 UTC
+
+**Posteingang (`in:inbox` und `in:sent` geprüft):** zwei neue ungelesene
+Nachrichten, **beide nach dem Abendreport eingegangen.**
+
+### ⛔ #7168 — Phillip Hockley (`philnsarahhockley@gmail.com`), 21.09. 18:35 UTC — **verlangt ausdrücklich Eskalation**
+
+**Vorab-Suche nach älteren Threads:** ein einziger Thread, zwei Nachrichten von
+ihm.
+
+**Sein Verlauf:**
+
+| Datum | Vorgang |
+|---|---|
+| **18.09. 12:59** | *„within a week my dog has ripped the toy … **Can you please confirm if I need to return the product to get a refund?**"* — ein Foto. |
+| **21.09. 09:36** | **Kauschaden-Vorlage, adressiert „Dear Customer".** **Seine Frage wurde nicht beantwortet.** |
+| **21.09. 18:35** | diese Nachricht. |
+
+**Im Volltext, was er heute Abend schreibt:**
+
+> *„I'm a disappointed to have to wait **nearly a month** for the a toy that is
+> marketed to withstand abuse. To then last 3 days.*
+>
+> *It's also interesting that **there doesn't appear to be any negative reviews
+> on your website** so it appears to be a quality product. **Which is
+> misleading.***
+>
+> *One of the **pictures shows „with a replacement guarantee"** but it seems
+> that that's **only if you don't open the package**. Again misleading.*
+>
+> ***I would like this matter escalated please.**"*
+
+**🟦 Das ist ein fünfter möglicher Fundort der Werbeaussage — und der erste, der
+ein Produktbild benennt.** **Bilder sind von hier nicht einsehbar.** Im Entwurf
+wird **weder bestätigt noch bestritten**, was auf dem Bild steht; es wird
+gesagt, dass es von hier nicht lesbar ist, **und ausdrücklich nicht, er habe
+sich verlesen.** **„Replacement guarantee" und „money-back guarantee" werden
+sauber getrennt und nicht gleichgesetzt.**
+
+**Seine Aussage zur Bewertungsanzeige der Website wird weder bestätigt noch
+bestritten** — was dort angezeigt und wie es ausgewählt wird, ist von hier nicht
+prüfbar. **Keine Beschwichtigung, keine Abtuung.**
+
+**Shopify (#7168):** bestellt **22.08.**, Versand **02.09.** (**elf Tage**), ein
+Plushies, **£19,95**, **0,00 £ erstattet**, Aylesbury (GB), Yanwen
+`UL476310825YP`. **Dreißigste Bestellung mit auffälliger Versandverzögerung.**
+
+**Sechsunddreißigste unabhängige Kundenaussage zur Werbung.**
+
+**Seine Eskalationsbitte wird wörtlich eingelöst** — und im Entwurf steht, was
+„eskaliert" konkret bedeutet, statt das Wort für sich arbeiten zu lassen.
+**Seine tatsächliche Frage vom 18.09. wird endlich beantwortet:** es gibt keine
+Rücksendeadresse. **Der Anhang (`IMG_3096.jpeg`) wurde nicht geöffnet.**
+
+**Eskalationsgrund:** bestrittene Werbeaussage + wiederholter unerledigter
+Kontakt + ausdrückliche Eskalationsbitte.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### 🟦 #2852 — John Conrad (`jmconrad417@gmail.com`), 21.09. 19:08 UTC — **eine Facebook-Anzeige als Quelle der Garantie**
+
+**Vorab-Suche:** ein einziger Thread, Erstkontakt.
+
+> *„**Just saw an ad on Facebook about guarantee.** My dogs tore these up
+> quickly and went into the trash. **Refund?**"*
+
+**🟦 Das ist der vierte mögliche Fundort — und der erste, bei dem ein Kunde den
+Kanal benennt: Facebook.** Bisher lagen vor: die belegten **Klaviyo-Mails**
+(19.09.), die **zwei Advertorial-Seiten** ohne lesbaren `body` (13:20), das
+**Kunden-PDF** (17:20) — und seit 18:35 ein **Produktbild** (#7168).
+**Fünf Fundorte, alle fünf nur vom Owner einsehbar.**
+
+**Im Entwurf wird nichts darüber behauptet, was in der Facebook-Anzeige stand**
+— nur, dass Werbung von hier nicht einsehbar ist und seine Angabe deshalb
+**wörtlich** weitergeht.
+
+**Shopify (#2852):** bestellt **09.07.2026**, Versand **17.07.** (acht Tage),
+drei Plushies **plus das E-Book**, **47,76 $ / £35,64**, **0,00 $ erstattet**,
+Santa Rosa Beach, **Florida (US)**. **Die älteste Bestellung, zu der überhaupt
+je eine Beschwerde eingegangen ist** — älter als #3387 (25.07.).
+
+**⚠️ Sechste Bestellung mit unausgelieferter E-Book-Position** (nach #8372,
+#7555, #6592, #6254, #6546).
+
+**Die Ware ist entsorgt.** **Kein Foto, kein Nachweis und keine Rücksendung
+verlangt** — und ausdrücklich gesagt, dass er nichts verschicken soll.
+
+**Siebenunddreißigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### ⚠️ Richtigstellung zum Befund „Sendung steht still"
+
+Bei #2852 gilt **`fulfillments.updatedAt == createdAt`** (17.07.2026) — **und
+die Ware ist nachweislich angekommen**, der Kunde hat sie benutzt und entsorgt.
+
+**Damit ist `updatedAt == createdAt` kein Beleg für eine Nichtzustellung.** Es
+belegt nur, dass **seit dem Versand keine Aktualisierung in unser System
+zurückgelaufen ist** — was auch bei zugestellten Sendungen vorkommt. Die vier
+im Abendreport genannten Sendungen (#8080, #6002, #8221, #6546) bleiben
+**auffällig**, aber **die Schlussfolgerung, sie steckten fest, war stärker
+formuliert als die Datenlage sie trägt.** Das wird hier richtiggestellt.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Einundzwanzig Kundenvorgänge am 21.09.** (zwei nach dem Abendreport).
+- **302 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⚠️ Siebenunddreißig unabhängige Kundenaussagen zur Werbung.**
+- **🟦 Fünf mögliche Fundorte der Werbeaussage:** Klaviyo-Mails · zwei
+  Advertorial-Seiten · Kunden-PDF · **Produktbild (#7168)** · **Facebook-Anzeige
+  (#2852)**. **Alle fünf kann nur der Owner öffnen.**
+- **⚠️ Sechs Bestellungen mit unausgelieferter E-Book-Position:** #8372, #7555,
+  #6592, #6254, #6546, **#2852.**
+- **⚠️ Dreißig Bestellungen mit auffälliger Versandverzögerung.**
+- **⏰ Nächste Frist: #8295 am 23.09.**
+- **⛔🔴 Zwei Altfälle ohne jede Antwort:** #2894 und #3089.
+- **🔴 Offen und unverändert:** #7479, #6259, #5148, #6583, #6546, #8669.
+- **📤 Die beiden neuen Entwürfe stehen in keinem Abendreport** — sie entstanden
+  danach. Volltext in `docs/entwuerfe-zum-kopieren.md`.

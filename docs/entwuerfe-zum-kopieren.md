@@ -14823,6 +14823,129 @@ einer anderen Adresse als der auf der Bestellung hinterlegten (siehe Log).
 Umrechnung** — der Bestellbetrag ist in US-Dollar verzeichnet. Kein
 Eskalationsmarker im Text.
 
+## #7168 — Phillip Hockley (philnsarahhockley@gmail.com) — GB, ⛔ **Vorlage mit „Dear Customer", verlangt ausdrücklich Eskalation**
+
+**Betreff:** Re: Order #7168 confirmed
+
+> Dear Phillip,
+>
+> **You asked for this to be escalated. It has been, and I want to tell you
+> exactly what that means rather than let the word do the work.** Your message
+> goes to the shop owner in full, with your order in front of it. **He is the
+> only person who can decide a refund. I cannot, and I am not going to imply
+> otherwise.**
+>
+> **First, about the reply you got this morning.** It began "Dear Customer",
+> it was a standard text, and it answered a policy question you had not asked.
+> **You asked whether you needed to return the product to get a refund.
+> That question was not answered.** I am not going to send you a second version
+> of the same thing.
+>
+> **The straight answer to what you actually asked: there is no returns address
+> I can give you.** So please do not post anything back — **not because your
+> case is refused, but because there is nowhere for it to go.**
+>
+> **On the two things you say are misleading, I will tell you what I can check
+> and what I cannot.**
+>
+> - **The picture with "with a replacement guarantee".** I cannot see our
+>   product images from here, and **I am not going to tell you that you
+>   misread it.** What I can tell you is what the written description of the
+>   product you bought contains: **it carries no guarantee text at all.** Our
+>   marketing emails do carry a **30-day money-back guarantee, stated with no
+>   condition attached** — **that is a money-back guarantee, not a replacement
+>   guarantee, and I am not going to blur the two.** **What the image itself
+>   says is for the shop owner to look at, and your words go to him as you
+>   wrote them.**
+> - **The reviews on our website.** **What is displayed there and how it is
+>   selected is not something I can see or verify from this desk.** I am not
+>   going to reassure you about it and I am not going to dismiss it. **It goes
+>   to him with the rest.**
+>
+> **Your order, so you are not relying on my word.** Order #7168 was placed on
+> **22 August** and not handed over for despatch until **2 September — eleven
+> days later.** **£19.95 is recorded on the order, and nothing has been
+> refunded.**
+>
+> **I am not going to promise you a refund and I am not going to refuse you
+> one.** Both would be dishonest from where I sit.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **wörtliche Einlösung seiner Eskalationsbitte** (mit der
+Erklärung, was „eskaliert" konkret heißt), die **offene Benennung der Vorlage**
+(„Dear Customer", Standardtext, beantwortet nicht seine Frage), die **endlich
+gegebene Antwort auf seine tatsächliche Frage** (keine Rücksendeadresse
+vorhanden), die **klare Trennung von Geld-zurück- und Ersatz-Garantie**, die
+ehrliche Eingrenzung des Prüfbaren, und die Weitergabe mit Datum und Betrag.
+**Keine Erstattung zugesagt, kein Betrag zugesagt, kein Termin, keine Absage,
+keine zweite Vorlage.** **Keine Aussage darüber, was auf dem Produktbild steht**
+— es wird gesagt, dass Bilder von hier nicht einsehbar sind, **ohne ihm zu
+sagen, er habe sich verlesen.** **Keine Bestätigung und keine Bestreitung zur
+Bewertungsanzeige der Website.** **Keine Rücksendeadresse erfunden.** **Der
+Anhang (IMG_3096.jpeg) wurde nicht geöffnet.** Kein Eskalationsmarker im Text.
+
+## #2852 — John Conrad (jmconrad417@gmail.com) — US, Erstkontakt, 🟦 **nennt eine Facebook-Anzeige als Quelle der Garantie**
+
+**Betreff:** Re: Order #2852 confirmed
+
+> Dear John,
+>
+> Thank you for writing, and **yes — you asked a plain question, so here is a
+> plain answer: I cannot approve a refund, and I am not going to refuse you
+> one either.** That decision belongs to the shop owner. **What I can do is put
+> it in front of him properly, which is what I have done.**
+>
+> **The part of your message that matters most is the first sentence.** You saw
+> **an advertisement on Facebook about the guarantee**. **You are not the first
+> person to write in about a guarantee they saw in an advertisement, and you
+> are the first to name where.** **I cannot see our advertising from here** —
+> not the Facebook ads, not what was in them, not when they ran. **So I am not
+> going to tell you what it did or did not say, and I am certainly not going to
+> suggest you misread it.** Your sentence goes to the shop owner word for word,
+> because he is the only person who can open that advertisement and read it.
+>
+> **What I can check, I have.** The written description of the product you
+> bought carries **no guarantee text at all.** Our marketing emails do carry a
+> **30-day money-back guarantee, stated with no condition attached.** **Those
+> are the two places I can actually read. The advertisement you saw is not one
+> of them.**
+>
+> **Your order, so you are not taking my word for it.** Order #2852 was placed
+> on **9 July** and despatched on **17 July**. **$47.76 is recorded on the
+> order, and nothing has been refunded.** **That is the oldest order anyone has
+> written to us about**, and I would rather say so than pretend this is a fresh
+> case.
+>
+> **You told me the toys went in the bin.** That is a statement, not a problem
+> — **I am not going to ask you to produce them, photograph them, or send
+> anything back.** **And please do not post anything to us; there is no returns
+> address I can give you.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **direkte Antwort auf „Refund?"** (die Entscheidung
+liegt nicht beim Bot — weder Zusage noch Absage), die **ausdrückliche
+Aufwertung seiner Quellenangabe** (Facebook-Anzeige) mit der ehrlichen
+Feststellung, dass Werbung von hier nicht einsehbar ist, die **wahrheitsgemäße
+Auskunft über die beiden prüfbaren Fundorte** (Produktbeschreibung ohne
+Garantietext, Werbemails mit 30-Tage-Garantie **ohne** Bedingung), die
+Weitergabe mit Datum und Betrag, und eine Nachfass-Zusage. **Keine Erstattung
+zugesagt, kein Betrag zugesagt, kein Termin, keine Absage, keine
+Vorlagen-Antwort.** **Keine Behauptung darüber, was in der Facebook-Anzeige
+stand.** **Keine Rekonstruktion der Anzeige.** **Kein Foto und kein Nachweis
+verlangt** — die Ware ist entsorgt, und das wird nicht gegen ihn verwendet.
+**Keine Rücksendeadresse erfunden.** **Keine Umrechnung** — 47,76 $ ist der
+presentment-Betrag. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
