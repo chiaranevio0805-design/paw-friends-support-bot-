@@ -237,3 +237,85 @@ Zahlen in diesen Protokollen sind entsprechend als **„mindestens"** zu lesen.
   einen Fall beendet.**
 - **⚠️ Dreißig unabhängige Kundenaussagen zur Werbung.**
 - Die Punkte im Kopf dieser Datei bleiben unverändert bestehen.
+
+---
+
+## Lauf 08:20 UTC
+
+**Ein neuer Kundenvorgang — und es ist der älteste unerledigte Fall, der bisher
+in diesem Postfach aufgetaucht ist.**
+
+### ⛔🔴 #2894 — Jeff Hughes (`jeff.hughes@yahoo.co.uk`), 21.09. 07:30 UTC — **Ersatz am 24.07. schriftlich zugesagt, nie versandt**
+
+> *„**Update me please**"*
+
+**Zwei Worte. Es ist sein achter Nachfasser.**
+
+**Die vollständige Chronologie aus dem Thread:**
+
+| Datum | Vorgang |
+|---|---|
+| **11.07.** | Bestellung #2894, ein Plushies, **19,95 £** |
+| **14.07.** | Versand (drei Tage — schnell) |
+| **23.07.** | *„I received my item today, and **it is damaged**. … please arrange for a **replacement**. … I can return the faulty item to you if needed, **at your cost**."* Mit Foto. |
+| **24.07.** | **Zusage:** *„**We'll get a replacement** … arranged for you … **No need to return the damaged item at your own cost; we won't ask you to do that.**"* |
+| **29.07.** | Nachfrage |
+| **31.07.** | *„I don't have a shipped replacement to confirm just yet … **I'm chasing this up properly**"* |
+| **05.08.** | Nachfrage |
+| **06.08.** | *„this is now several follow-ups on a replacement that was promised nearly two weeks ago … **I'm flagging this directly to the owner today to get the replacement actually dispatched**."* |
+| **13.08.** | *„If you were the customer, **how long would you reasonably accept this scenario to go on?**"* |
+| **27.08.** | *„Ok, so where are we up to with this now?"* |
+| **13.09.** | *„Can you arrange for this to be **sorted out ASAP** please."* |
+| **21.09.** | *„Update me please"* |
+
+**Seit dem 06.08. hat er von uns nichts mehr erhalten. Das sind 46 Tage.**
+**Seit der Zusage vom 24.07. sind es 59 Tage.**
+
+**Shopify (#2894), soeben geprüft:**
+
+| Feld | Wert |
+|---|---|
+| `fulfillments` | **genau einer, vom 14.07.** — das Original |
+| `totalRefundedSet` | **0,00 £** |
+| `refunds` | **`[]`** |
+| `cancelledAt` | `null` |
+
+**Es wurde nie ein Ersatz versandt.** Die Ankündigung vom 06.08., die Sache
+werde „heute" an den Owner gegeben, damit der Ersatz „tatsächlich rausgeht",
+hat keine Entsprechung im Datensatz.
+
+**⚠️ Dieser Fall ist kategorisch anders als fast alles andere im Postfach:**
+**Es ist kein Kauschaden.** Der Artikel kam **beschädigt an** — ein Riss im
+Körper, gemeldet am Tag der Zustellung, mit Foto. **Er fällt damit unter die
+Erstattungsregel („defekt angekommen")**, und darüber hinaus liegt eine
+**schriftliche Zusage** vor. **Er gehört auf die Ausführungsliste, nicht auf die
+Prüfliste.**
+
+**`refundCreate` ist für diesen Bot gesperrt**, und Regel 4 (bestätigter
+Falschartikel) greift hier nicht — **der Bot führt deshalb nichts aus.** Der
+Owner muss entscheiden: **Ersatz versenden oder 19,95 £ erstatten.**
+
+**Im Entwurf wird ihm keine vierte „wir kümmern uns"-Formel geschickt** — dass
+die drei bisherigen nichts wert waren, wird ausdrücklich gesagt. **Die Zusage
+vom 24.07., dass er nichts auf eigene Kosten zurückschicken muss, wird
+bestätigt und nicht zurückgenommen.** **Kein Ersatz und keine Erstattung
+zugesagt.**
+
+**Label:** `Bot/Escalated - Owner Attention` (wiederholter unerledigter Kontakt,
+achtfach + offene schriftliche Zusage + Defekt bei Lieferung).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Vier Kundenvorgänge am 21.09.**
+- **Einhundertzehn Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⛔🔴 Neu auf der Ausführungsliste: #2894 — 19,95 £, defekt angekommen,
+  Ersatz am 24.07. schriftlich zugesagt, nie versandt, acht Nachfasser.**
+  **Ältester unerledigter Fall im Postfach.**
+- **🔴 Beide Fristen sind gestern abgelaufen: #7479 und #6259.**
+- **⏰ #8669** — Storno-Fenster weiterhin offen.
+- **Der Tagesreport von 08:13** (`docs/2026-09-21-tagesreport.md`, Commit
+  `04ce1eb`) **enthält #2894 noch nicht** — die Nachricht kam 43 Minuten vorher
+  herein, fiel aber in diesen Lauf.

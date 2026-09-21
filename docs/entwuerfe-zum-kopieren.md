@@ -14083,6 +14083,64 @@ Rekonstruktion der Anzeige.** **Keine Auswertung des Fotos, keins verlangt.**
 **Keine Rücksendeadresse erfunden.** **Keine Umrechnung** — 41,68 $ ist der
 Betrag in ihrer Währung auf der Bestellung. Kein Eskalationsmarker im Text.
 
+## #2894 — Jeff Hughes (jeff.hughes@yahoo.co.uk) — ⛔ **defekt geliefert, Ersatz am 24.07. schriftlich zugesagt, nie versandt, achter Nachfasser**
+
+**Betreff:** Re: Order Number 2894
+
+> Dear Jeff,
+>
+> **You asked for an update. Here is a real one, and it is not an excuse.**
+>
+> **Our own records show that no replacement was ever sent.** Order #2894 has one
+> despatch on it, from 14 July — the original. **There is nothing after it.** So
+> when you were told on 6 August that it was being flagged to the owner "today to
+> get the replacement actually dispatched", **that did not happen**, and no one
+> has written to you since.
+>
+> **The full sequence, as it stands in our records:**
+>
+> - **23 July** — you reported the fox arrived with a tear and asked for a
+>   replacement, offering to return the damaged one.
+> - **24 July** — we agreed to a replacement in writing and told you that you
+>   would **not** have to return anything at your own cost.
+> - **29 July, 5 August, 13 August, 27 August, 13 September, and today** — you
+>   asked for an update. **Six of those got no reply at all.**
+> - **Nothing has been dispatched, and nothing has been refunded.**
+>
+> **That is fifty-nine days since a promise we made, not one you asked for.**
+>
+> **What I can do and what I cannot.** I cannot dispatch a replacement and I
+> cannot issue a refund — neither is mine to do. **So I am not going to give you
+> another "I'm chasing this up", because you have had three of those already and
+> they were worth nothing.** What I have done is put the case in front of the
+> shop owner stated plainly as **an outstanding written commitment**, not as a
+> new request: **order #2894, £19.95, damaged on arrival 23 July, replacement
+> agreed 24 July, never dispatched, nothing refunded, eight follow-ups from
+> you.**
+>
+> **What has not changed in your favour:** the undertaking that you would not
+> have to return the damaged item at your own cost **still stands and I am not
+> withdrawing it.** **Please do not post it back** — we have no returns address
+> to give you in any case.
+>
+> **I am not going to ask you for patience.** You have already shown more than
+> this deserved.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **überprüfbare Feststellung aus unserem eigenen
+Datensatz, dass nie ein Ersatz versandt wurde** (nur ein Fulfillment vom
+14.07.), die **vollständige Chronologie mit den sechs unbeantworteten
+Nachfragen**, die **Bestätigung, dass die Zusage vom 24.07. — keine Rücksendung
+auf eigene Kosten — weiterhin gilt**, und die Weitergabe als **offene
+schriftliche Zusage**, nicht als neue Bitte. **Kein Ersatz zugesagt, keine
+Erstattung zugesagt, kein Betrag, kein Termin, keine Absage.** **Keine erneute
+„wir kümmern uns"-Formel** — dass die drei bisherigen nichts wert waren, wird
+ausdrücklich gesagt. **Keine Rücksendeadresse erfunden.** **Keine Bitte um
+Geduld.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
