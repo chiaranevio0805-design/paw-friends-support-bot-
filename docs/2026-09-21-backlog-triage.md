@@ -551,3 +551,66 @@ richtiggestellt.
   wird hier nichts behauptet.
 - **⏰ Nächste Frist: #8295 am 23.09.**
 - **🔴 Offen und unverändert:** #7479, #6259, #5148, #6583, #2894, #8669.
+
+---
+
+## Lauf 12:20 UTC
+
+**Zwei weitere Vorgänge. Damit haben binnen zweieinhalb Stunden neun Kunden auf
+den Sendungsblock von 09:25–09:41 reagiert — acht davon negativ.**
+
+### ⛔ #7541 — Lois Hertz (`drlhertz@gmail.com`), 21.09. 11:36 UTC
+
+**Was um 09:25 an sie ging: die Kauschaden-Vorlage, „Dear Customer".**
+
+> *„That is ridiculous. **Your ads are very deceiving. Who wants to return an
+> unopened product?** You are **conmen**."*
+
+**⚠️ Sie benennt den logischen Bruch der Vorlage präziser als jeder andere
+Kunde bisher:** Eine Garantie, die **nur für ungeöffnete Ware** gilt, sagt
+nichts über die **Haltbarkeit** aus — sie kann den Fall, für den sie beworben
+wird, gar nicht abdecken.
+
+**Im Entwurf wird ihr das zugestanden**, ohne zu behaupten, die Bedingung sei
+rechtlich unhaltbar — **das ist eine Owner-Frage.** Auf „conmen" wird nicht
+reagiert; die Formulierung geht kommentarlos weiter.
+
+**Shopify (#7541):** bestellt 24.08., Versand 03.09., zwei Plushies, **£28,50 /
+$38,87**, **0,00 £ erstattet**, Atlanta, **Georgia (US)**.
+
+**Zweiunddreißigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention`. **Zweite Fassung.**
+
+---
+
+### #8003 — Michelle Owen (`michelle.owen2010@gmail.com`), 21.09. 11:34 UTC — Erstkontakt, GB
+
+> *„My purchase of a dog toy bear arrived last Thursday, it took **all of an
+> hour** for our dog to destroy **the indestructible**. As evidenced below
+> **please can you refund me**"*
+
+**Vorab-Suche:** ein einziger Thread. **Anhang — nicht geöffnet.**
+
+**Shopify (#8003):** bestellt **28.08.**, Versand **08.09.** (**elf Tage**), ein
+Plushies, **£19,95**, **0,00 £ erstattet**, Lincoln (GB). **Neunundzwanzigste
+Bestellung mit auffälliger Versandverzögerung.**
+
+**Dreiunddreißigste unabhängige Kundenaussage zur Werbung.**
+
+**Keine Erstattung zugesagt, keine Absage, keine Vorlagen-Antwort.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Vierzehn Kundenvorgänge am 21.09.**
+- **Einhundertzwanzig Entwürfe**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⚠️ Neun der fünfundzwanzig Sendungen von heute Vormittag sind beantwortet,
+  acht davon negativ.** Über die übrigen sechzehn wird nichts behauptet.
+- **⚠️ Dreiunddreißig unabhängige Kundenaussagen zur Werbung.**
+- **⏰ Nächste Frist: #8295 am 23.09.**
+- **🔴 Offen und unverändert:** #7479, #6259, #5148, #6583, #2894, #8669.
