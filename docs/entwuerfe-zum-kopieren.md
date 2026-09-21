@@ -15171,6 +15171,65 @@ getrennt gehalten.** **Keine Reaktion auf „scam".** **Keine Umrechnung** —
 58,36 A$ ist der presentment-Betrag. **Keine Rücksendeadresse erfunden.** Kein
 Eskalationsmarker im Text.
 
+## #6656 — Jesse Sida (jsida31@gmail.com) — US, Erstkontakt, ⛔ **Fehlmenge: „two toys I paid for 4"**, Bank-Claim angekündigt
+
+**Betreff:** Re: A shipment from order #6656 is on the way URGENT !!!
+
+> Dear Jesse,
+>
+> Thank you for writing, and **you asked for a status before you go to your
+> bank, so you are going to get a straight one rather than a holding reply.**
+>
+> **What our record shows, and where it does not match what you have told me.**
+> Order #6656 was placed on **19 August** and despatched on **20 August**.
+> **The order as it stands in our system records two toys, and both of them
+> were despatched.** **$41.33 is recorded on the order, and nothing has been
+> refunded.**
+>
+> **You say you paid for four. I am not going to tell you that you
+> miscounted.** I have no way of seeing from here what was shown to you when
+> you bought, and **several of our offers are sold as bundles, where what the
+> page displays and what lands on the order are not laid out the same way.**
+> **So I am putting the two statements side by side rather than quietly picking
+> the one that suits us** — **yours, and our record** — and passing both to the
+> shop owner, who can look behind the checkout at what you were actually
+> charged for. **That is the part I cannot do and will not pretend to.**
+>
+> **What I am not going to do is send you to the carrier.** The despatch shows
+> both recorded items going out together; **if two arrived, that is ours to
+> explain, not yours to chase.**
+>
+> **On your bank.** **You do not need my permission and I am not going to talk
+> you out of it.** Raising it with them does not affect how this is handled
+> here.
+>
+> **I cannot approve a refund or a replacement myself — so I am not going to
+> promise you either, and I am not going to refuse you either.** Your case is
+> in front of the shop owner as you put it: **paid for four, received two,
+> order #6656, $41.33, nothing refunded.**
+>
+> **You do not need to send photographs**, and please do not post anything back
+> — we have no returns address I can give you.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **direkte Statusauskunft, um die er gebeten hat**, die
+**sichtbare Gegenüberstellung seiner Angabe und des Datenstands ohne
+Auflösung**, der **ausdrückliche Verzicht darauf, ihm einen Zählfehler zu
+unterstellen**, der **offene Hinweis auf die Bundle-Darstellung als mögliche
+Ursache — ohne sie als Erklärung zu behaupten**, und die Weitergabe mit allen
+Zahlen. **Keine Erstattung zugesagt, kein Ersatz zugesagt, kein Betrag, kein
+Termin, keine Absage.** **Keine Verrechnung von Positionspreisen** — die
+Kaching-Listenpreise summieren sich nicht auf den gezahlten Betrag. **Kein
+Verweis an den Versanddienstleister.** **Kein Versuch, ihn vom Bank-Claim
+abzubringen.** **Kein Foto verlangt.** **Keine Rücksendeadresse erfunden.**
+**Keine Umrechnung** — 41,33 $ ist der presentment-Betrag. Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

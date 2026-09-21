@@ -1339,3 +1339,72 @@ Kontakt + eine Vorlage, die die gestellte Frage nicht beantwortet hat.
 - **⛔🔴 Zwei Altfälle ohne jede Antwort:** #2894 und #3089.
 - **📤 Sechs Entwürfe dieses Tages stehen in keinem Abendreport** (#7168, #2852,
   #8142, jscalera1, #7578, #6311).
+
+---
+
+## Lauf 23:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht.
+
+### ⛔ #6656 — Jesse Sida (`jsida31@gmail.com`), 21.09. 23:00 UTC — **Fehlmenge, Bank-Claim angekündigt**
+
+**Vorab-Suche nach älteren Threads desselben Absenders:** ein einziger Thread,
+**Erstkontakt.**
+
+**Im Volltext:**
+
+> *„Hello, I only received partial order, **I only received two toys I pad for
+> 4** **Need status before I place claim with my bank**"*
+> Betreff: *„Re: A shipment from order #6656 is on the way **URGENT !!!**"*
+
+**Shopify (#6656):** bestellt **19.08.**, Versand **20.08.** (**ein Tag** —
+einer der schnellsten im Bestand), **zwei Plushies**, beide im
+`fulfillmentLineItems` als versandt verzeichnet, **41,33 $ / £30,54**,
+**0,00 $ erstattet**, Corona, **Kalifornien (US)**, JQ Express
+`JCHSG0000004230128`.
+
+**⚠️ Die Abweichung, unaufgelöst:** **Er sagt vier bezahlt, erhalten zwei. Die
+Bestellung verzeichnet zwei, beide versandt.**
+
+**Ihm wird nicht gesagt, er habe sich verzählt.** Nach `support-policy.md` wird
+**nicht gegengerechnet und nicht richtiggestellt**; beide Aussagen stehen im
+Entwurf **nebeneinander** und gehen so an den Owner. **Im Entwurf wird der
+Bundle-Verkauf als mögliche Ursache offen benannt — aber nicht als Erklärung
+behauptet.** Nur der Owner kann hinter den Checkout sehen.
+
+**Zweiter Fehlmengen-Fall** nach #7989 Karen Reynolds (bezahlt für zwei,
+erhalten eines) — **und der zweite, bei dem die Bestellung weniger verzeichnet,
+als der Kunde bezahlt zu haben angibt.**
+
+**Kein Verweis an den Versanddienstleister.** **Kein Versuch, ihn vom
+Bank-Claim abzubringen** — es wird ausdrücklich gesagt, dass das seine
+Entscheidung ist und die Bearbeitung hier nicht berührt.
+
+**Kein Regel-4-Fall.** Eine Fehlmenge ist **keine bestätigte Falschlieferung**;
+es ist keine falsche Variante geliefert worden, sondern es fehlt Ware.
+**Deshalb wird von hier nichts erstattet.**
+
+**Eskalationsgrund:** angekündigter Zahlungsrückruf + Fehlmenge mit
+unaufgelöster Abweichung zum Bestellstand.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Sechsundzwanzig Kundenvorgänge am 21.09.** (sieben nach dem Abendreport).
+- **307 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⚠️ Zwei Fehlmengen-Fälle:** #7989 (2 bezahlt / 1 erhalten) und **#6656
+  (4 bezahlt / 2 erhalten).** **Beide unaufgelöst, beide für den Owner.**
+- **🔴 Sieben Geldzusagen ohne Ausführung**, unverändert: #5148, #6583
+  (zweimal), #4998, #6259, #6546, #4812.
+- **⚠️ Zweiter angekündigter Zahlungsrückruf binnen des Tages** (nach #6384,
+  Klarna) — insgesamt der dritte Chargeback-/Zahlungsdienstleister-Fall
+  (#3310, #6384, #6656).
+- **🟦 Sechs mögliche Fundorte der Werbeaussage**, unverändert.
+- **⏰ Nächste Frist: #8295 am 23.09.**
+- **⛔🔴 Zwei Altfälle ohne jede Antwort:** #2894 und #3089.
+- **📤 Sieben Entwürfe dieses Tages stehen in keinem Abendreport** (#7168,
+  #2852, #8142, jscalera1, #7578, #6311, #6656).
