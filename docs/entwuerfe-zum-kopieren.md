@@ -15230,6 +15230,54 @@ abzubringen.** **Kein Foto verlangt.** **Keine Rücksendeadresse erfunden.**
 **Keine Umrechnung** — 41,33 $ ist der presentment-Betrag. Kein
 Eskalationsmarker im Text.
 
+## #7813 — Tasha Payne (tpayne743@gmail.com) — US, Erstkontakt, **zitiert den Produktnamen selbst**, verlangt nichts
+
+**Betreff:** Re: Order #7813
+
+> Dear Tasha,
+>
+> **You are quoting our own product name back at us, and you are right to.**
+> The toy is sold as **"Designed for Furry Friends Who Destroy Everything"** —
+> **that is not advertising copy you have to dig for, it is the name on the
+> product.** **I am not going to explain that away to you.**
+>
+> **Five minutes.** Thank you for telling us, and **I am not going to ask you
+> to prove it, photograph it, or send anything back** — and please do not post
+> anything to us, because we have no returns address I can give you.
+>
+> **You have not asked me for anything, and I am not going to decide on your
+> behalf what you want.** So instead of assuming: **if you want this passed on
+> as a refund request, one line back here is enough and it goes as that.** If
+> you simply wanted us to know, it goes as that. **Either way it reaches the
+> shop owner**, together with what our records show: **order #7813, placed on
+> 26 August, not handed over for despatch until 3 September — eight days later
+> — one toy, $27.76 recorded on the order, nothing refunded.**
+>
+> **I would rather you heard those eight days from us than worked them out
+> yourself.**
+>
+> **What I cannot do:** I cannot approve a refund or a replacement. **So I am
+> not going to promise you either, and I am not going to refuse you either** —
+> that decision belongs to the shop owner, not to me.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Bestätigung, dass sie den Produktnamen zitiert
+und nicht irgendeine Werbeaussage**, das **Angebot, ihre Meldung auf ein Wort
+hin als Erstattungsbitte weiterzugeben** statt sie dazu zu erklären, die
+**ungefragte Nennung der acht Tage bis zum Versand**, und die Weitergabe mit
+Datum und Betrag. **Keine Erstattung zugesagt, kein Ersatz zugesagt, kein
+Betrag zugesagt, kein Termin, keine Absage, keine Vorlagen-Antwort.** **Keine
+Deutung ihrer Nachricht als Forderung.** **Kein Foto und kein Nachweis
+verlangt.** **Keine Aussage über die Haltbarkeit des Produkts in die eine oder
+andere Richtung** — es wird nur festgestellt, wie das Produkt heißt. **Keine
+Rücksendeadresse erfunden.** **Keine Umrechnung** — 27,76 $ ist der
+presentment-Betrag. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
