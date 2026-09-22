@@ -15824,6 +15824,293 @@ ihn zum Behalten zu überreden.** **Keine Schuldzuweisung an eine Person** — e
 wird gesagt, was im Datenstand steht, nicht wer die Mail geschrieben hat. Kein
 Eskalationsmarker im Text.
 
+## #8080 — Ryan Beam (mclmm187@gmail.com) — US, ⛔ **Sendungsnummer läuft auf Fehler, 23 Tage, spricht die Herkunft selbst an**
+
+**Betreff:** Re: Tracking number
+
+> Dear Ryan,
+>
+> **You asked for a tracking number that works. I do not have a second one, and
+> I am not going to send you the same one again as if that answered you.**
+>
+> **What is actually recorded on your order.** One despatch, created on
+> **8 September**, with the reference **4PX3003140312597CN**, carrier **4PX
+> Economic Registered**. **That is the only reference in existence for your
+> order.** **And our record shows no update against that despatch since
+> 8 September** — fourteen days. **So the problem you are describing is visible
+> on our side too. You are not imagining it.**
+>
+> **On the twenty-one days.** You were told 7–21 days. **You are at 23. That is
+> past what you were told, and I am not going to explain that away.**
+>
+> **On where it ships from.** **You raised that yourself, and I am not going to
+> pretend I did not read it or steer around it.** What I can tell you honestly
+> is what the order holds: the carrier and reference above, and **that
+> reference is the one you already have.** **I am not going to confirm details
+> about our warehousing that I cannot verify from here, and I am not going to
+> deny anything either** — **the shop owner can answer that properly, and your
+> question goes to him with the rest.**
+>
+> **What I am not going to do is send you to the carrier.** You have already
+> tried the reference and it errors. **Chasing a parcel we despatched is not
+> your job.**
+>
+> **You have not asked me for money and I am not going to decide on your behalf
+> that you want it.** **But you should not have to keep waiting without an
+> option**: **if you would like this passed on as a refund request instead of a
+> tracing request, one line back here is enough.** **$38.58 is recorded on the
+> order and nothing has been refunded.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it
+> again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Auskunft, dass es keine zweite
+Sendungsnummer gibt**, die **Bestätigung seines Befunds aus unseren eigenen
+Daten** (keine Aktualisierung seit dem 08.09.), die **Anerkennung der
+überschrittenen 21 Tage**, der **ehrliche Umgang mit seiner Herkunftsfrage**
+(weder bestätigt noch bestritten, ausdrücklich nicht umschifft, an den Owner
+weitergegeben), **kein Verweis an den Versanddienstleister**, und das neutrale
+Angebot, den Fall als Erstattungsbitte weiterzugeben. **Keine Erstattung
+zugesagt, kein Betrag zugesagt, kein Termin, keine Absage.** **Keine Behauptung
+über Lagerstandorte.** **Keine Aussage darüber, wo die Sendung sich befindet.**
+**Keine Umrechnung** — 38,58 $ ist der presentment-Betrag. Kein
+Eskalationsmarker im Text.
+
+## #8483 — Linda Richardson (brian.linda1992@gmail.com) — GB, Sendung seit acht Tagen ohne Aktualisierung
+
+**Betreff:** Re: Order 8483
+
+> Dear Linda,
+>
+> **A straight answer first.** Order #8483 was placed on **12 September** and
+> handed over for despatch on **14 September**, with the reference
+> **UL510080449YP** (Yanwen). **Our record shows no update against that
+> despatch since the day it was created — eight days ago.** **So your concern
+> matches what I can see, and I am not going to tell you it is too early to
+> worry.**
+>
+> **I am not going to give you a delivery date, because I would be making it
+> up.**
+>
+> **What I am not going to do is send you to the carrier.** **Chasing a parcel
+> we despatched is not your job.**
+>
+> **You have not asked me for anything, and I am not going to decide on your
+> behalf.** **If you would like this passed on as a refund request rather than
+> a tracing request, one line back here is enough and it goes as that.**
+> **£19.95 is recorded on the order and nothing has been refunded.** Your case
+> is with the shop owner either way.
+>
+> If you have heard nothing in a few days, reply here and I will chase it
+> again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **überprüfbare Auskunft mit Datum und Referenz**, die
+**Bestätigung, dass seit acht Tagen keine Aktualisierung vorliegt**, die
+ausdrückliche Feststellung, dass ihre Sorge **nicht verfrüht** ist, **kein
+Verweis an den Versanddienstleister**, und das neutrale Angebot. **Keine
+Erstattung zugesagt, kein Liefertermin genannt, keine Absage.** **Keine Aussage
+darüber, wo das Paket ist.** **Keine Deutung ihrer Nachricht als Forderung.**
+Kein Eskalationsmarker im Text.
+
+## #7608 — Patricia Arenella (patty.arenella@gmail.com) — US, ⛔ **„buy one get one free, which I never received"**
+
+**Betreff:** Re: Order #7608 confirmed
+
+> Dear Patricia,
+>
+> **You have raised something today that has not been answered at all, and it
+> is not about durability.** You say the offer was **buy one get one free** and
+> that the second toy never arrived.
+>
+> **Here is what our record holds, set beside what you have told me rather than
+> weighed against it.** **The order records one toy, and one toy was
+> despatched.** **You say you paid on a two-for-one offer and received one.**
+> **I am not going to tell you that you misread the offer, and I am not going
+> to tell you our record settles it** — I cannot see from here what was
+> displayed to you when you bought. **Both statements go to the shop owner
+> exactly as they stand, because he is the only person who can look behind the
+> checkout at what you were actually offered and charged for.**
+>
+> **What else is on the order, so you have it in full:** #7608, placed
+> **24 August**, despatched **3 September**, **$27.75 recorded on the order,
+> nothing refunded.**
+>
+> **On the advertising.** You have said twice now that it was advertised as
+> indestructible and made for dogs that destroy toys. **I have read all twelve
+> of our current product descriptions and "indestructible" is not in any of
+> them. That is not me telling you that you did not see it** — I cannot see the
+> advertising that was put in front of you, and **I am not going to guess at it
+> or explain it away.** **Your words go to him as you wrote them.**
+>
+> **You asked for a refund.** I cannot approve one from this desk, **so I am
+> not going to promise you one and I am not going to refuse you one.** Your
+> request is in front of him, and **the missing item is in front of him as a
+> separate point, not folded into the durability complaint.**
+>
+> **You do not need to send photographs**, and please do not post anything back
+> — we have no returns address I can give you.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **eigenständige Behandlung der fehlenden Position**
+(nicht in die Haltbarkeitsbeschwerde eingefaltet), die **sichtbare
+Gegenüberstellung ohne Auflösung**, der **ausdrückliche Verzicht darauf, ihr
+einen Lesefehler zu unterstellen**, die ehrliche Auskunft zur Werbefrage, und
+die Weitergabe mit Datum und Betrag. **Keine Erstattung zugesagt, kein Betrag
+zugesagt, kein Termin, keine Absage, keine dritte Vorlage.** **Keine Verrechnung
+von Positionspreisen** — der Listenpreis der Position (42,00 $) und der
+gezahlte Betrag (27,75 $) stimmen nicht überein, **und daraus wird nichts
+abgeleitet.** **Ihre Sicherheitsmeldung vom 13.09. wird nicht ungefragt wieder
+aufgegriffen**, und **es wird nichts zur Materialsicherheit gesagt.** **Kein
+Foto verlangt.** **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im
+Text.
+
+## #7771 — Barb Fitzgerald (justbcuz7025@yahoo.com) — US, **sechster Kontakt**, benennt den Bruch der Bedingung
+
+**Betreff:** Re: order #7771
+
+> Dear Barb,
+>
+> **You have asked the question that the text you were sent cannot answer:
+> how anyone is supposed to know whether a toy lasts if the guarantee only
+> covers one that was never taken out of the packaging. I am not going to
+> argue with that, because it is a fair point and arguing would be dishonest.**
+>
+> **Whether that condition can properly be applied is not mine to rule on** —
+> I would be inventing an answer. **What I can do is make sure your sentence
+> reaches the shop owner in your own words, which it has.**
+>
+> **And the reply you got this morning began "Dear Customer".** **This is your
+> sixth message to us.** That should not have happened and I am not going to
+> pretend it is a small thing.
+>
+> **Your order, and one correction I owe you.** #7771 was placed on
+> **26 August** and the despatch on it was created on **3 September.** **On
+> 1 September you were told it had already shipped. That did not match our own
+> record**, and you were entitled to know.
+>
+> **$28.50 is recorded on the order and nothing has been refunded.**
+>
+> **I cannot approve a refund from this desk, so I am not going to promise you
+> one and I am not going to refuse you one.** Your case is with him, stated
+> plainly: **six contacts, a shipping statement that did not match the record,
+> and a standard refusal sent twice.**
+>
+> **Please do not post anything back** — we have no returns address I can give
+> you.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** das **Zugeständnis ihres Arguments ohne rechtliche
+Bewertung**, die **offene Benennung der „Dear Customer"-Anrede im sechsten
+Kontakt**, die **ungefragte Richtigstellung der Versandauskunft vom 01.09.**
+gegen den Datenstand, und die Weitergabe mit allen Zahlen. **Keine Erstattung
+zugesagt, kein Betrag zugesagt, kein Termin, keine Absage, keine dritte
+Vorlage.** **Keine Behauptung, die Bedingung sei unwirksam — und keine, sie sei
+wirksam.** **Keine Schuldzuweisung an eine Person.** **Keine Rücksendeadresse
+erfunden.** **Keine Umrechnung.** Kein Eskalationsmarker im Text.
+
+## #7828 — James Edwards (jimandsue.je@gmail.com) — GB, **trocken, bietet seinen Hund als Tester an**
+
+**Betreff:** Re: Donkey toy.
+
+> Dear Jim,
+>
+> **Thank you for taking it the way you have. You are owed a straight answer
+> rather than a straight face, so here is one.**
+>
+> **You asked on 20 September how to claim your refund. What came back this
+> morning was a standard text explaining why chewed toys are not covered,
+> addressed to "Dear Customer". That did not answer your question and it should
+> not have been sent to you.**
+>
+> **Where your request stands: it has not been decided.** I cannot approve a
+> refund from this desk and **I am not going to refuse you one either** — that
+> is the shop owner's to decide. **It is in front of him as you made it**, with
+> the order: **#7828, placed 26 August, despatched 3 September, £19.95 recorded
+> on the order, nothing refunded, toy lasted five days.**
+>
+> **On the marketing.** You called it clever, and I am not going to pretend I
+> did not notice the point underneath. **I cannot see the advertising that was
+> put in front of you** — not the emails, not the ads — **so I am not going to
+> defend it and I am not going to tell you what it said.** **Your sentence goes
+> to him as you wrote it**, because he is the only person who can look at it.
+>
+> **And on the offer of a tester** — noted, and passed on unedited. **I am not
+> going to promise you that anything comes of it**, because I have no say over
+> what gets made.
+>
+> **Please do not post anything back** — we have no returns address I can give
+> you.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass die Vorlage seine Frage
+nicht beantwortet hat**, die Klarstellung, dass **seine Erstattungsbitte offen
+ist**, die ehrliche Eingrenzung zur Werbung, und die **ausdrückliche Weigerung,
+aus seinem Tester-Angebot eine Produktänderung in Aussicht zu stellen.** **Keine
+Erstattung zugesagt, kein Betrag zugesagt, kein Termin, keine Absage, keine
+zweite Vorlage.** **Keine Aussage darüber, was die Werbung gesagt hat.** **Keine
+Rücksendeadresse erfunden.** **Sein Ton wird nicht als Einverständnis
+gedeutet.** Kein Eskalationsmarker im Text.
+
+## executiveenamel06@gmail.com — ⚠️ **unleserliche Nachricht, keine Bestellung zuzuordnen**
+
+**Betreff:** Re: (kein Betreff)
+
+> Hello,
+>
+> **Thank you for writing. I want to help, but I have to be honest: I cannot
+> make out what you need from the message that arrived**, and **I would rather
+> say so than guess and answer the wrong question.**
+>
+> **This is what reached us, in full:** *"150 orrda diz sept. Only"*
+>
+> **I also cannot find an order under the address you are writing from.** That
+> is not a suspicion about you — orders get placed from a second address, or as
+> a gift. **But I am not able to discuss order details with an address I cannot
+> match to a purchase.**
+>
+> **Either of these would be enough to get this moving:** **your order number**,
+> or **the email address the order was placed under**. **A sentence in your own
+> words about what has gone wrong would help too** — there is no wrong way to
+> put it.
+>
+> **Nothing is being closed or refused in the meantime.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass die Nachricht nicht
+verstanden wurde**, die **wörtliche Wiedergabe des Eingegangenen**, die
+Begründung, warum ohne Zuordnung keine Bestelldaten genannt werden, und die
+**kleinstmögliche Rückfrage**. **Keine Erstattung zugesagt, kein Betrag, kein
+Termin, keine Absage.** **Keine Deutung der unleserlichen Nachricht** — es wird
+ausdrücklich nicht geraten, was gemeint sein könnte. **Keine Bestelldaten an
+eine nicht zugeordnete Adresse.** **Keine fremde Bestellung beschrieben.** Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

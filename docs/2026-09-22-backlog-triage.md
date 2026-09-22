@@ -613,3 +613,164 @@ doch hinausgeht, nachdem er dreimal gesagt hat, dass er sie nicht will.
 - **⏰ #8669: Stornofenster weiterhin offen — zeitkritisch.**
 - **⏰ Frist #8295 läuft morgen ab; die Frist von #7479 ist gestern abgelaufen.**
 - **⛔🔴 #2894 und #3089 weiterhin ohne jede Antwort.**
+
+---
+
+## Lauf 14:20 UTC
+
+**Posteingang und Postausgang geprüft.** **Sechs neue Kundennachrichten** —
+fünf davon **Antworten auf die Vorlagenwelle von 11:10–11:30.**
+
+### ⛔ #8080 — Ryan Beam (`mclmm187@gmail.com`), 22.09. 13:24 UTC — **spricht die Herkunft selbst an**
+
+**Um 11:10:59 bekam er:** *„I can confirm that your order has been shipped and
+is currently on…"* — auf die Meldung, **seine Sendungsnummer laufe auf Fehler.**
+
+> *„**I understand shipping from China takes a bit.** My tracking number
+> stopped working. You said it could take between **7-21 days it's at 23 days
+> today**. I'm just asking for a **tracking number that** [works]…"*
+
+**⚠️ Zum ersten Mal spricht ein Kunde die Herkunft von sich aus an.** Nach
+`docs/support-policy.md` gilt: **ehrlich, standardmäßig herkunftsneutral,
+wahrheitsgemäß bei direkter Frage — niemals einstudierte Verschleierung.** **Er
+stellt fest, er fragt nicht.** **Im Entwurf wird das weder bestätigt noch
+bestritten und — ausdrücklich — nicht umschifft:** es wird gesagt, dass über
+Lagerstandorte von hier nichts Überprüfbares gesagt werden kann, dass nichts
+bestritten wird, und dass die Frage an den Owner geht. **Genannt wird nur, was
+auf der Bestellung steht:** Carrier **4PX Economic Registered**, Referenz
+**4PX3003140312597CN**.
+
+**Shopify (#8080):** bestellt **29.08.**, Versand **08.09.** (zehn Tage),
+**38,58 $ / £28,50**, **0,00 $ erstattet**, Idalou, **Texas (US)**.
+**`updatedAt == createdAt` — seit dem 08.09. keine Aktualisierung, vierzehn
+Tage.** **Sein Befund deckt sich mit unseren Daten, und das wird ihm gesagt.**
+
+**Die überschrittenen 21 Tage werden anerkannt, nicht wegerklärt.** **Kein
+Verweis an den Versanddienstleister.** **Es gibt keine zweite Sendungsnummer,
+und das wird offen gesagt.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### ⛔ #7608 — Patricia Arenella (`patty.arenella@gmail.com`), 22.09. 14:12 UTC — **fehlender Gratisartikel**
+
+> *„In your advertisement it was support to be a toy for dogs that destroy
+> toys. It was supposed to be **indestructible**. In addition **it was buying
+> one get one free, which I never received** kindly refund me or…"*
+
+**⚠️ Dritter Fehlmengen-Fall** (nach #7989 und #6656) — **und der erste, bei dem
+es um einen beworbenen Gratisartikel geht.**
+
+**Shopify (#7608):** bestellt 24.08., Versand 03.09. (zehn Tage), **eine
+Position, ein Plushies**, **27,75 $ / £20,35** gezahlt, **Listenpreis der
+Position 42,00 $**, **0,00 $ erstattet**, East Meadow, **New York (US)**.
+
+**Die Abweichung wird nebeneinandergestellt, nicht aufgelöst.** **Ihr wird
+nicht unterstellt, sie habe das Angebot falsch gelesen**, und **aus der
+Differenz zwischen Listenpreis und gezahltem Betrag wird nichts abgeleitet.**
+**Die fehlende Position wird als eigener Punkt weitergegeben, nicht in die
+Haltbarkeitsbeschwerde eingefaltet.**
+
+**⚠️ Ihre Sicherheitsmeldung vom 13.09. („toxic stuffing") wird nicht ungefragt
+wieder aufgegriffen** — sie hat sie heute nicht erwähnt — **und es wird nichts
+zur Materialsicherheit gesagt.**
+
+**Dreiundvierzigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### ⛔ #7771 — Barb Fitzgerald (`justbcuz7025@yahoo.com`), 22.09. 13:32 UTC — **sechster Kontakt**
+
+> *„I have to wonder **how to know if your product stands up to your claim of
+> being indestructible if it can't be taken out of the package and used** to
+> see how good it is…"*
+
+**Fünfte Kundin, die den logischen Bruch benennt** (nach #7541, #6254, #6311,
+#8407). **Sie bekam um 11:17 die Vorlage — „Dear Customer", im sechsten
+Kontakt.**
+
+**Im Entwurf wird ihr außerdem ungefragt die Versandauskunft vom 01.09.
+richtiggestellt:** ihr wurde gesagt, die Bestellung sei bereits versandt; **der
+Versand wurde am 03.09. angelegt.** **£28,50**, **0,00 £ erstattet.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### #7828 — James Edwards (`jimandsue.je@gmail.com`), 22.09. 13:40 UTC
+
+> *„That's **very clever marketing** offering a money back guarantee and
+> **making it sound like your toys are indestructible**. However if you would
+> like a **tester** for yours toys our dog would be happy…"*
+
+**Seine Frage vom 20.09. lautete: „How do I claim my refund."** **Um 11:30 kam
+die Vorlage, „Dear Customer".** **Im Entwurf wird festgestellt, dass seine
+Bitte offen und unentschieden ist.**
+
+**⚠️ Sein trockener Ton wird nicht als Einverständnis gedeutet.** **Und aus
+seinem Tester-Angebot wird ausdrücklich keine Produktänderung in Aussicht
+gestellt** — dieselbe Zurückhaltung wie bei #8457 heute früh.
+
+**Shopify (#7828):** bestellt 26.08., Versand 03.09. (acht Tage), **£19,95**,
+**0,00 £ erstattet**, Swadlincote (GB).
+
+**Vierundvierzigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### #8483 — Linda Richardson (`brian.linda1992@gmail.com`), 22.09. 13:39 UTC
+
+> *„I am **still waiting** for the above order and am concerned that it has
+> been so long. Please advise."*
+
+**Shopify (#8483):** bestellt **12.09.**, Versand **14.09.**, ein Plushies,
+**£19,95**, Ledbury (GB), Yanwen `UL510080449YP`. **`updatedAt == createdAt` —
+seit acht Tagen keine Aktualisierung.**
+
+**Ihr wird gesagt, dass ihre Sorge nicht verfrüht ist**, und **kein Liefertermin
+genannt.** **Kein Verweis an den Versanddienstleister.** **Sie verlangt nichts**
+— neutrales Angebot statt Deutung.
+
+**⚠️ Kleine Adressabweichung, vermerkt:** Bestellung auf
+`brian.linda1992@googlemail.com`, Absender `...@gmail.com`. **Dasselbe
+Google-Postfach**, deshalb als zugeordnet behandelt — **für den Owner
+festgehalten.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### ⚠️ `executiveenamel06@gmail.com`, 22.09. 14:13 UTC — **unleserlich, keine Bestellung zuzuordnen**
+
+**Die Nachricht im Volltext, ohne Betreff:**
+
+> *„150 orrda diz sept. Only"*
+
+**Vorab-Suche:** ein einziger Thread. **`orders(query:"email:...")` → kein
+Treffer.**
+
+**Es wird nicht geraten, was gemeint sein könnte.** Im Entwurf steht offen, dass
+die Nachricht nicht verstanden wurde, sie wird **wörtlich zitiert**, und es wird
+um Bestellnummer **oder** Kaufadresse gebeten — **ohne Bestelldaten
+preiszugeben und ohne den Vorgang abzuweisen.**
+
+**Zweiter nicht zuzuordnender Absender** nach `jscalera1@aol.com`.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Achtzehn Kundenvorgänge am 22.09.**
+- **325 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⚠️ Erstmals spricht ein Kunde die Herkunft von sich aus an (#8080).**
+  Behandelt nach `support-policy.md`: **nicht bestätigt, nicht bestritten, nicht
+  umschifft, an den Owner weitergegeben.**
+- **⚠️ Drei Fehlmengen-Fälle:** #7989, #6656, **#7608** (Gratisartikel).
+- **⚠️ Fünf Kunden benennen den logischen Bruch der Bedingung:** #7541, #6254,
+  #6311, #8407, **#7771.**
+- **⚠️ Vierundvierzig unabhängige Kundenaussagen zur Werbung.**
+- **⚠️ Zwei Sendungen ohne Aktualisierung seit Versand:** #8080 (14 Tage),
+  **#8483** (8 Tage).
+- **🔴 Neun Geldzusagen ohne Ausführung**, unverändert.
+- **⏰ #8669: Stornofenster weiterhin offen — unverändert zeitkritisch.**
+- **⏰ Frist #8295 läuft morgen ab; #7479 ist gestern abgelaufen.**
+- **⛔🔴 #2894 und #3089 weiterhin ohne jede Antwort.**
