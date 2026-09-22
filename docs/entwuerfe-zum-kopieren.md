@@ -15278,6 +15278,55 @@ andere Richtung** — es wird nur festgestellt, wie das Produkt heißt. **Keine
 Rücksendeadresse erfunden.** **Keine Umrechnung** — 27,76 $ ist der
 presentment-Betrag. Kein Eskalationsmarker im Text.
 
+## #8457 — Sean McCrea (sm21601@gmail.com) — US, Erstkontakt, **lehnt Ersatz von sich aus ab**, verlangt nichts
+
+**Betreff:** Re: order #8457
+
+> Dear Sean,
+>
+> Thank you for writing, and thank you for the tone of it. **You told us the
+> toy lasted about five hours and then said you did not want another one. I am
+> going to take both of those at face value** rather than talk you round.
+>
+> **What I can tell you honestly about your second sentence.** You hoped this
+> would help make a tougher one. **I cannot promise you that it will.** I have
+> no say over what gets made or changed, and **I would rather say that than
+> thank you for feedback and imply something will come of it.** What I can do
+> is make sure it reaches the shop owner in your own words, which it has —
+> along with your order: **#8457, placed 10 September, despatched 14 September,
+> one toy, $27.59 recorded on the order, nothing refunded.**
+>
+> **You have not asked for anything, and I am not going to decide on your
+> behalf that you want money.** But I am also not going to let the absence of a
+> request quietly settle the matter: **if you would like this passed on as a
+> refund request, one line back here is enough and it goes as that.** If you
+> would rather leave it as a note about the product, it stays as that. **Either
+> is a complete answer and neither needs a reason.**
+>
+> **You do not need to send anything else** — and please do not post the toy
+> back, because we have no returns address I can give you. **Your attachment
+> arrived and has not been opened**; nothing here depends on it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Annahme seiner Ablehnung eines Ersatzes ohne
+Überredung**, die **ehrliche Absage an die naheliegende Floskel** (es wird
+**nicht** versprochen, dass sein Hinweis das Produkt verändert), das **neutrale
+Angebot**, seine Meldung auf ein Wort hin als Erstattungsbitte weiterzugeben,
+und die Weitergabe mit Datum und Betrag. **Keine Erstattung zugesagt, kein
+Ersatz zugesagt, kein Betrag zugesagt, kein Termin, keine Absage.** **Keine
+Deutung seiner Nachricht als Forderung** — und **kein Drängen in Richtung
+Erstattung**, nachdem er den Ersatz von sich aus abgelehnt hat. **Keine
+Produktänderung in Aussicht gestellt.** **Seine konstruktive Rückmeldung wird
+nicht als Beleg für irgendeine Produktaussage verwendet.** **Der Anhang wurde
+nicht geöffnet**, und das wird ihm gesagt. **Keine Rücksendeadresse erfunden.**
+**Keine Umrechnung** — 27,59 $ ist der presentment-Betrag. **Er wird mit dem
+Namen angesprochen, mit dem er unterschrieben hat** (die Bestellung lautet auf
+einen anderen Vornamen — **nicht geraten, nicht angesprochen**). Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

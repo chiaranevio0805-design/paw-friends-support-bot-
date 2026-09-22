@@ -92,3 +92,68 @@ den Produktnamen stützt.**
 - **⏰ Frist #8295 läuft morgen (23.09.) ab.**
 - **🔴 Sieben Geldzusagen ohne Ausführung**, unverändert.
 - **⛔🔴 #2894 und #3089 weiterhin ohne jede Antwort.**
+
+---
+
+## Lauf 10:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht.
+
+### #8457 — Sean McCrea (`sm21601@gmail.com`), 22.09. 10:10 UTC — Erstkontakt
+
+**Vorab-Suche nach älteren Threads desselben Absenders:** ein einziger Thread,
+**Erstkontakt.**
+
+**Im Volltext:**
+
+> *„Unfortunately it didn't last long... about **5 hours** with my 13 month
+> pet. **Not worth asking you to send another.** Hopefully will be something to
+> help you make a tougher one. Sean McCrea"*
+> Betreff: *„order #8457"* — mit einem **Anhang (~4,4 MB)**, **nicht geöffnet.**
+
+**⚠️ Er lehnt den Ersatz von sich aus ab und verlangt nichts.** Das ist nach
+#7884 (20.09., *„keep my money"*) der **zweite Kunde, der von sich aus auf etwas
+verzichtet.** **Im Entwurf wird ihm nichts angeboten, wovon er abgeraten hat,
+und er wird auch nicht in Richtung Erstattung gedrängt** — es steht nur das
+neutrale Angebot darin, seine Meldung **auf ein Wort hin** als Erstattungsbitte
+weiterzugeben. **Beides wird ausdrücklich als vollständige Antwort behandelt,
+die keiner Begründung bedarf.**
+
+**⚠️ Und eine Floskel wird ausgelassen, die sich hier aufdrängt.** Er schreibt,
+sein Hinweis helfe vielleicht, ein zäheres Produkt zu bauen. **Im Entwurf wird
+ihm gesagt, dass das von hier aus nicht versprochen werden kann** — statt ihm
+für die Rückmeldung zu danken und zu suggerieren, es folge etwas daraus.
+**Keine Produktänderung in Aussicht gestellt.**
+
+**Seine konstruktive, freundliche Rückmeldung wird nicht als Beleg für
+irgendeine Produktaussage verwendet** — weder hier noch gegenüber anderen
+Kunden.
+
+**Shopify (#8457):** bestellt **10.09.**, Versand **14.09.** (vier Tage —
+**keine auffällige Verzögerung**, und es wird ihm auch keine angedichtet), ein
+Plushies, **27,59 $ / £20,35**, **0,00 $ erstattet**, Easton, **Maryland (US)**,
+4PX `4PX3003158931636CN`.
+
+**⚠️ Namensabweichung, für den Owner vermerkt:** die Bestellung lautet auf
+**„Thomas S McCrea"**, er unterschreibt **„Sean McCrea"**. **Der Vorname wird
+nicht geraten** — er wird mit dem Namen angesprochen, mit dem er selbst
+unterschrieben hat. **Die Abweichung wird ihm gegenüber nicht thematisiert und
+nicht aufgelöst.**
+
+**Er zitiert keine Werbeaussage** — die Zählung bleibt bei vierzig.
+
+**Label:** `Bot/Escalated - Owner Attention` (Haltbarkeitsbeschwerde; keine
+Vorlagen-Absage, keine Zusage, keine Absage).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Zwei Kundenvorgänge am 22.09.**
+- **309 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt.** Kein Fall fiel unter Regel 4.
+- **⏰ Frist #8295 läuft morgen (23.09.) ab.**
+- **🔴 Sieben Geldzusagen ohne Ausführung**, unverändert: #4812, #6546, #6583,
+  #5148, #6259, #4998, #7060.
+- **⛔🔴 #2894 und #3089 weiterhin ohne jede Antwort.**
+- **⚠️ Vierzig unabhängige Kundenaussagen zur Werbung**, unverändert.
