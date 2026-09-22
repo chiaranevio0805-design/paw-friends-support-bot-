@@ -16272,6 +16272,66 @@ Foto verlangt.** **Keine Aussage zur Haltbarkeit des Produkts in die eine oder
 andere Richtung.** **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker
 im Text.
 
+## Maria Carter (mariacarter135@gmail.com) — ⚠️ **Erstattung verlangt, Absenderadresse an keiner Bestellung hinterlegt**
+
+**Betreff:** Re: Not as described!!
+
+> Dear Maria,
+>
+> Thank you for writing, and **I am sorry it is about this rather than
+> anything better.**
+>
+> **There is one thing I have to sort out before I can say anything about your
+> order, and I would rather explain it than leave you guessing.** **The email
+> address you are writing from is not recorded on any order I can find.** That
+> is not a suspicion about you — orders get placed from a second address, or
+> under a partner's name, or as a gift. **But I am not willing to discuss order
+> details, amounts or refunds with an address I cannot match to a purchase.**
+>
+> **Either of these would settle it in one line:** **your order number**, or
+> **the email address the order was placed under**. **That is the only thing I
+> need from you.**
+>
+> **What you do not need to do.** **Your pictures arrived and I have not opened
+> them. You do not need to send any more, and you do not need to prove
+> anything about your dogs.** I have no interest in going through what your
+> Springer or your Lab did or did not do — **you told me, and that is enough
+> for me to pass it on.**
+>
+> **On the advertising.** You say you bought in good faith because of what the
+> advert said. **I cannot see the advertising that was put in front of you** —
+> not the emails, not the ads — **so I am not going to tell you what it said
+> and I am not going to explain it away.** **Your words go to the shop owner
+> exactly as you wrote them**, because he is the only person who can look at
+> the advertising itself.
+>
+> **On your refund request.** **It is recorded as made, today, and it is not
+> waiting on the address question** — that only affects what I can tell you
+> back, not whether your request counts. **I cannot approve a refund from this
+> desk, so I am not going to promise you one and I am not going to refuse you
+> one.**
+>
+> **And please do not post anything back** — we have no returns address I can
+> give you.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Begründung, warum ohne Zuordnung keine
+Bestelldaten genannt werden**, die **kleinstmögliche Rückfrage**
+(Bestellnummer **oder** Kaufadresse), die Feststellung, dass ihre
+**Erstattungsbitte unabhängig davon als gestellt gilt**, die ehrliche Auskunft
+zur Werbefrage, und die Zusicherung, dass keine Nachweise nötig sind. **Keine
+Erstattung zugesagt, kein Betrag, kein Termin, keine Absage.** **Keine
+Bestellnummer, kein Betrag, kein Bestellinhalt** — die Absenderadresse ist an
+keiner Bestellung hinterlegt. **Es wird ihr nicht mitgeteilt, welche Kunden
+ähnlichen Namens im System stehen** (siehe Log — Owner-Prüfung), und **keine
+fremde Bestellung beschrieben.** **Fotos nicht geöffnet.** **Keine Aussage über
+ihre Hunde, ihr Kauverhalten oder darüber, was „soft mouthed" bedeuten soll.**
+**Keine Behauptung darüber, was die Anzeige gesagt hat.** **Keine
+Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

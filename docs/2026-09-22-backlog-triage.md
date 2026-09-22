@@ -903,3 +903,69 @@ Begründung bedürfen.
 - **⏰ #8669: Stornofenster weiterhin offen — unverändert zeitkritisch.**
 - **⏰ Frist #8295 läuft morgen (23.09.) ab; #7479 ist gestern abgelaufen.**
 - **⛔🔴 #2894 und #3089 weiterhin ohne jede Antwort.**
+
+---
+
+## Lauf 18:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht (der 17:20-Lauf
+fand nichts).
+
+### ⚠️ Maria Carter (`mariacarter135@gmail.com`), 22.09. 17:34 UTC — **Erstkontakt, Bestellung nicht zuzuordnen**
+
+**Im Volltext:**
+
+> *„I spent a few quid getting these as they **supposed be good for dogs that
+> destroy toys**!; I have attached pictures to say this is NOT the case. The
+> Springer is 11 years old and **soft mouthed**. He ripped it to pieces !!! I
+> am not happy at all and **would like a refund** as I bought these in good
+> faith that **they would last like your advert said**. The black dog in the
+> picture is a lab who is also soft mouthed."*
+> Betreff: *„Not as described!!"*
+
+**Vorab-Suche nach älteren Threads:** ein einziger Thread, **Erstkontakt.**
+
+**Shopify-Prüfung:**
+
+- `orders(query:"email:mariacarter135@gmail.com")` → **kein Treffer.**
+- `customers(query:"Carter")` → mehrere Kunden dieses Nachnamens, **keine Maria
+  Carter.** **Die Suche ist unscharf und liefert auch Nicht-Treffer mit; daraus
+  folgt nichts.**
+
+**⚠️ Dritter nicht zuzuordnender Absender** nach `jscalera1@aol.com` und
+`executiveenamel06@gmail.com`. **Ihr wird nichts über andere Kundenkonten
+mitgeteilt**, und **keine fremde Bestellung beschrieben.** **Die Prüfung, ob
+sie unter einer anderen Adresse gekauft hat, kann nur der Owner machen.**
+
+**Im Entwurf steht die kleinstmögliche Rückfrage** (Bestellnummer **oder**
+Kaufadresse) **mit offener Begründung** — und ausdrücklich, dass **ihre
+Erstattungsbitte unabhängig davon als heute gestellt gilt** und nicht an der
+Adressfrage hängt.
+
+**⚠️ Zu ihren Hunden wird nichts gesagt.** Sie beschreibt beide als „soft
+mouthed". **Das wird nicht kommentiert, nicht bewertet und nicht gegen sie
+verwendet** — und es wird auch nicht als Beleg für eine Produktaussage benutzt.
+**Fotos nicht geöffnet, keine weiteren Nachweise verlangt.**
+
+**Siebenundvierzigste unabhängige Kundenaussage zur Werbung** — sie beruft sich
+auf *„your advert"* und auf die Aussage *„good for dogs that destroy toys"*,
+**die dem Produktnamen entspricht** (vgl. #7813 heute früh).
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Zweiundzwanzig Kundenvorgänge am 22.09.**
+- **329 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⚠️ Drei Absender, deren Bestellung nicht zuzuordnen ist:** `jscalera1`,
+  `executiveenamel06`, **Maria Carter.** **Alle drei brauchen eine
+  Owner-Prüfung hinter den Konten.**
+- **⚠️ Siebenundvierzig unabhängige Kundenaussagen zur Werbung.**
+- **🔴 Neun Geldzusagen ohne Ausführung**, unverändert.
+- **⏰ #8669: Stornofenster weiterhin offen — unverändert zeitkritisch.**
+- **⏰ Frist #8295 läuft morgen (23.09.) ab; #7479 ist gestern abgelaufen.**
+- **⛔🔴 #2894 und #3089 weiterhin ohne jede Antwort.**
