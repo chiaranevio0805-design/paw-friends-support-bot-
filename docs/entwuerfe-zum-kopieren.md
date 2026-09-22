@@ -16227,6 +16227,51 @@ Behauptung, das Wort „indestructible" existiere nicht.** **Keine
 Rücksendeadresse erfunden.** **Keine Umrechnung.** Kein Eskalationsmarker im
 Text.
 
+## #8466 — Paul Robbins (homelite@hotmail.co.uk) — GB, Erstkontakt, verlangt nichts
+
+**Betreff:** Re: Order #8466 confirmed
+
+> Dear Paul,
+>
+> **It arrived at four o'clock and it was finished by ten past. Thank you for
+> telling us, and I am not going to ask you to prove it or photograph
+> anything.**
+>
+> **You have not asked me for anything, and I am not going to decide on your
+> behalf that you want money back.** **But I am not going to let that quietly
+> close the matter either: if you would like this passed on as a refund
+> request, one line back here is enough and it goes as that.** If you simply
+> wanted us to know, it goes as that. **Either is a complete answer and neither
+> needs a reason.**
+>
+> **What is on the order, so you have it from us rather than having to ask.**
+> #8466, placed **10 September**, handed over for despatch **14 September**,
+> one toy, **£19.95 recorded on the order, nothing refunded.**
+>
+> **What I cannot do, plainly.** I cannot approve a refund or a replacement
+> from this desk. **So I am not going to promise you either, and I am not going
+> to refuse you either.** Your message is in front of the shop owner as you
+> wrote it.
+>
+> **Please do not post anything back** — we have no returns address I can give
+> you, and I would rather say so now than have you pay postage to nowhere.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Annahme seiner Schilderung ohne Nachweisverlangen**,
+das **neutrale Angebot**, seine Meldung auf ein Wort hin als Erstattungsbitte
+weiterzugeben, die ungefragte Nennung von Bestell- und Versanddatum, und die
+klare Grenze der eigenen Befugnis. **Keine Erstattung zugesagt, kein Ersatz
+zugesagt, kein Betrag zugesagt, kein Termin, keine Absage, keine
+Vorlagen-Antwort.** **Keine Deutung seiner Nachricht als Forderung.** **Kein
+Foto verlangt.** **Keine Aussage zur Haltbarkeit des Produkts in die eine oder
+andere Richtung.** **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker
+im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

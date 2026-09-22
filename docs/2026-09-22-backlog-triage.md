@@ -857,3 +857,49 @@ drei Positionen, **59,85 $ / £43,92**, **0,00 $ erstattet**, Pendleton,
 - **⏰ #8669: Stornofenster weiterhin offen — unverändert zeitkritisch.**
 - **⏰ Frist #8295 läuft morgen ab; #7479 ist gestern abgelaufen.**
 - **⛔🔴 #2894 und #3089 weiterhin ohne jede Antwort.**
+
+---
+
+## Lauf 16:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht.
+
+### #8466 — Paul Robbins (`homelite@hotmail.co.uk`), 22.09. 15:21 UTC — Erstkontakt
+
+**Vorab-Suche nach älteren Threads desselben Absenders:** ein einziger Thread,
+**Erstkontakt.**
+
+**Im Volltext:**
+
+> *„Hi, **The toy turned up at 16.00pm today and it took my dog just 10 minutes
+> to destroy the toy**, very disappointed and a waste of money. Regards Paul"*
+
+**Shopify (#8466):** bestellt **10.09.**, Versand **14.09.** (vier Tage —
+**keine auffällige Verzögerung**, und es wird ihm auch keine angedichtet), ein
+Plushies, **£19,95**, **0,00 £ erstattet**, Cheshunt (GB), Yanwen
+`UL510080381YP`.
+
+**Er verlangt nichts.** *„A waste of money"* ist eine Feststellung, keine
+Forderung. **Seine Meldung wird nicht als Erstattungsforderung ausgelegt**;
+stattdessen das neutrale Angebot, sie auf ein Wort hin so weiterzugeben — und
+ausdrücklich die Feststellung, dass beide Antworten vollständig sind und keiner
+Begründung bedürfen.
+
+**Keine Vorlagen-Antwort, keine Zusage, keine Absage, kein Foto verlangt.**
+**Er zitiert keine Werbeaussage** — die Zählung bleibt bei sechsundvierzig.
+
+**Label:** `Bot/Escalated - Owner Attention` (Haltbarkeitsbeschwerde).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Einundzwanzig Kundenvorgänge am 22.09.**
+- **328 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⚠️ Sechsundvierzig unabhängige Kundenaussagen zur Werbung**, unverändert.
+- **🔴 Neun Geldzusagen ohne Ausführung**, unverändert.
+- **⏰ #8669: Stornofenster weiterhin offen — unverändert zeitkritisch.**
+- **⏰ Frist #8295 läuft morgen (23.09.) ab; #7479 ist gestern abgelaufen.**
+- **⛔🔴 #2894 und #3089 weiterhin ohne jede Antwort.**
