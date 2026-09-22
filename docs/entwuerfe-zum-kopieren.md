@@ -15765,6 +15765,65 @@ Versuch, sie von einer öffentlichen Äußerung abzubringen.** **Fotos nicht
 geöffnet.** **Keine Rücksendeadresse erfunden.** **Keine Umrechnung** — 38,47 $
 ist der presentment-Betrag. Kein Eskalationsmarker im Text.
 
+## #8669 — Chad Lovell (havoc17@aol.com) — US, 🔴🔴 **Stornierung mit einer Versandangabe abgelehnt, die unser eigener Datenstand nicht trägt**
+
+**Betreff:** Re: How do I cancel my order
+
+> Dear Chad,
+>
+> **I have to correct something you were told this morning, and I would rather
+> do it plainly than let it stand.**
+>
+> **You were told your order had already shipped and therefore could not be
+> cancelled. Our own records do not show that.** Order #8669 is recorded as
+> **not fulfilled**. **There is no despatch on it, no tracking, and both items
+> are still showing as not sent.** **The order has not been touched in our
+> system since the minute you placed it on 19 September.**
+>
+> **What that means for you: as far as I can see, nothing has left us, and your
+> cancellation request from 19 September still stands.** You made it eleven
+> minutes after ordering. **It has not been actioned and it has not been
+> properly refused** — **the reason you were given for refusing it does not
+> match our own record.**
+>
+> **What I cannot do, said plainly so you are not waiting on the wrong person.**
+> **I cannot cancel the order and I cannot issue the refund from this desk.**
+> So I am not going to promise you either, and **I am not going to tell you it
+> is done when I cannot see that it is.** What I have done is put it in front
+> of the shop owner exactly as it stands: **order #8669, $38.19, placed
+> 19 September, cancelled by the customer after eleven minutes, not despatched,
+> nothing refunded, and an incorrect refusal sent on 22 September.**
+>
+> **On the reviews you mention.** **I cannot see or verify what is displayed
+> about us, and I am not going to reassure you about it or argue with you about
+> it.** **What you have read is your own to weigh** — and you do not need to
+> justify wanting to cancel. **You asked three days ago; that is reason
+> enough.**
+>
+> **You do not need to do anything further, and you do not need to accept
+> anything on arrival.** If something does turn up despite the above, **do not
+> assume that settles it** — reply here and it goes straight back to him.
+>
+> If you have heard nothing in a couple of days, reply here and I will chase
+> it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ausdrückliche Richtigstellung der Versandangabe vom
+22.09.** gegen den eigenen Datenstand (`UNFULFILLED`, keine Fulfillments,
+`fulfillmentOrders: OPEN / UNSUBMITTED`, seit dem 19.09. unverändert), die
+**Feststellung, dass seine Stornierung weiterhin offen ist**, die klare Grenze
+der eigenen Befugnis, und die Weitergabe mit allen Zahlen. **Keine Stornierung
+zugesagt oder ausgeführt, keine Erstattung zugesagt oder ausgeführt, kein
+Betrag zugesagt, kein Termin, keine Absage.** **Keine Bestätigung und keine
+Bestreitung zu den Bewertungen** — von hier nicht prüfbar. **Keine Aussage zur
+Haltbarkeit des Produkts in die eine oder andere Richtung.** **Kein Versuch,
+ihn zum Behalten zu überreden.** **Keine Schuldzuweisung an eine Person** — es
+wird gesagt, was im Datenstand steht, nicht wer die Mail geschrieben hat. Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

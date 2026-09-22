@@ -539,3 +539,77 @@ geöffnet.**
 - **⏰ Frist #8295 läuft morgen (23.09.) ab.** **Die Frist von #7479 ist gestern
   abgelaufen.**
 - **⛔🔴 #2894 und #3089 weiterhin ohne jede Antwort.**
+
+---
+
+## Lauf 13:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht — **und sie macht
+den Befund von 11:20 zu einem laufenden Vorgang.**
+
+### 🔴🔴 #8669 — Chad Lovell (`havoc17@aol.com`), 22.09. 12:45 UTC
+
+**Er hat auf die falsche Versandauskunft geantwortet:**
+
+> *„**My concern is that you have horrible reviews and the toys are torn apart
+> in the first day.** Chad"*
+
+**Damit ist er ein Vorgang, und es gibt einen Entwurf.**
+
+**Der Datenstand, heute um 13:20 erneut abgefragt und schärfer als um 11:20:**
+
+| Feld | Wert |
+|---|---|
+| `displayFulfillmentStatus` | **`UNFULFILLED`** |
+| `fulfillments` | **leer** |
+| `fulfillmentOrders` | **`status: OPEN`, `requestStatus: UNSUBMITTED`** |
+| `cancelledAt` | **`null`** |
+| `updatedAt` | **19.09.2026 17:17:43** |
+| `totalRefundedSet` | **0,00 $** |
+| Positionen | beide **`unfulfilledQuantity: 1`** |
+
+**⛔ `requestStatus: UNSUBMITTED` heißt: der Versandauftrag wurde nicht einmal
+angefordert.** **Und `updatedAt` steht auf sechs Sekunden nach der Bestellung —
+an diesem Datensatz ist seit dem 19.09. nichts mehr geschehen.** **Die Aussage
+„has already been shipped" ist durch nichts in unseren Daten gedeckt.**
+
+**Im Entwurf wird das ausdrücklich richtiggestellt**, seine Stornierung vom
+19.09. als **weiterhin offen** festgestellt, und die Grenze der eigenen Befugnis
+klar benannt: **von hier kann weder storniert noch erstattet werden.** **Keine
+Zusage, keine Absage, kein Termin.**
+
+**Zu den Bewertungen, die er nennt:** **weder bestätigt noch bestritten** — von
+hier nicht prüfbar. **Keine Aussage zur Haltbarkeit des Produkts in die eine
+oder andere Richtung.** **Kein Versuch, ihn zum Behalten zu überreden** — im
+Gegenteil steht im Entwurf, dass er seinen Stornowunsch nicht begründen muss.
+
+**Ihm wird außerdem gesagt, dass er nichts annehmen muss, falls doch etwas
+ankommt, und dass eine Lieferung die Sache nicht erledigt.**
+
+**Shopify (#8669):** **38,19 $ / £28,51**, Clermont, **Georgia (US)**.
+
+**Eskalationsgrund:** eine Auskunft aus dem Shop-Konto, die dem eigenen
+Datenstand widerspricht, **plus** ein offenes Stornofenster mit laufendem
+Zeitdruck.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+**⏰ Für den Owner, unmissverständlich:** **Die Bestellung ist nicht versandt und
+nicht storniert. Sie kann noch storniert werden.** Je länger das dauert, desto
+wahrscheinlicher wird der Fall, gegen den er sich gewehrt hat — dass die Ware
+doch hinausgeht, nachdem er dreimal gesagt hat, dass er sie nicht will.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Zwölf Kundenvorgänge am 22.09.**
+- **319 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4. **`orderCancel` und `refundCreate` sind für den Bot gesperrt.**
+- **🔴 Neun Geldzusagen ohne Ausführung**, unverändert.
+- **🔴🔴 Drei Aussagen aus dem Shop-Konto widersprechen dem Shopify-Stand:**
+  #4812, #8669, #7884.
+- **⏰ #8669: Stornofenster weiterhin offen — zeitkritisch.**
+- **⏰ Frist #8295 läuft morgen ab; die Frist von #7479 ist gestern abgelaufen.**
+- **⛔🔴 #2894 und #3089 weiterhin ohne jede Antwort.**
