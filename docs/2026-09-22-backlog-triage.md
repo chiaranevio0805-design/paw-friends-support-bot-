@@ -157,3 +157,225 @@ Vorlagen-Absage, keine Zusage, keine Absage).
   #5148, #6259, #4998, #7060.
 - **⛔🔴 #2894 und #3089 weiterhin ohne jede Antwort.**
 - **⚠️ Vierzig unabhängige Kundenaussagen zur Werbung**, unverändert.
+
+---
+
+## Lauf 11:20 UTC
+
+**Posteingang und Postausgang geprüft.** **Sechs neue Kundennachrichten — und
+im Postausgang eine Vorlagenwelle von mindestens zehn Sendungen zwischen 11:02
+und 11:17, darunter eine Auskunft, die dem Datenstand widerspricht.**
+
+### 🔴🔴 #8669 — Chad Lovell: heute um 11:16 als „bereits versandt" abgelehnt. In Shopify ist die Bestellung **unversandt**.
+
+**Was um 11:16:20 an `havoc17@aol.com` ging, im Volltext-Auszug:**
+
+> *„Dear **Customer**, Thank you for your message. Unfortunately, **order #8669
+> has already been shipped, so we're unable to cancel it** at this stage. Once
+> the order arrives, please let us know if you have…"*
+
+**Der Datenstand in Shopify (#8669):**
+
+- bestellt **19.09. 17:17:37**, **38,19 $**, `displayFinancialStatus: PAID`
+- **`displayFulfillmentStatus`: `UNFULFILLED`**
+- **`fulfillments`: leere Liste**
+- beide Positionen: **`unfulfilledQuantity: 1`**
+- **`totalRefundedSet`: 0,00 $**
+
+**⛔ Die Bestellung ist nicht versandt. Sie war es am 19.09. nicht und sie ist
+es heute nicht.** Er hatte **elf Minuten nach der Bestellung** storniert
+(19.09. 17:28). **Die Begründung, mit der ihm die Stornierung heute verweigert
+wurde, trifft nach unseren eigenen Daten nicht zu — und das Stornofenster ist
+nach wie vor offen.**
+
+**Kein Entwurf an ihn.** **Er hat heute nicht geschrieben**, und von hier geht
+keine unaufgeforderte Mail an einen Kunden — genauso wie bei #4812 am 21.09.
+**Welcher Text an ihn geht, hängt davon ab, was der Owner entscheidet**
+(stornieren und erstatten, oder die Auskunft richtigstellen). **Beides kann nur
+er.**
+
+**⚠️ Das ist nach #4812 der zweite Fall binnen zwei Tagen, in dem eine
+Aussage aus dem Shop-Konto dem Shopify-Stand widerspricht** — dort eine
+Erstattung, die nicht existiert, hier ein Versand, der nicht existiert.
+
+### ⛔🔴 #5036 — Lynette Lumley (`lynette_lumley@hotmail.com`), 22.09. 10:46 UTC — **dritte unbeantwortete Nachfrage, Ombudsman angekündigt**
+
+> *„This is my **third email that you haven't replied too**. Very unimpressed.
+> I would like to know where it is for my refund on undelivered dog toys. …
+> **I will have to leave bad feedback and contact Ombudsman** if i don't hear
+> from you soon."*
+
+**Belegter Verlauf:** bestellt **08.08.**, Versand **22.08.** (**vierzehn
+Tage**). Am **08.09.** wurde ihr mitgeteilt, die Sendung sei *„delivered to a
+safe place on 1 September at 12:54"*; sie hat Grundstück und Nachbarn geprüft.
+Am **09.09.** bat sie um Erstattung. Am **10.09.** hieß es, der Fall sei *„to
+the relevant team for investigation"* weitergegeben. **Danach: 15.09., 17.09.
+und 22.09. — drei Nachrichten, keine Antwort.**
+
+**Shopify (#5036):** **£27,95**, **0,00 £ erstattet**, Abingdon (GB), Yanwen
+`UL442891848YP`. **45 Tage seit der Bestellung.**
+
+**Im Entwurf wird die nicht eingelöste Zusage vom 10.09. ausdrücklich
+benannt**, ihre Erstattungsbitte vom 09.09. als **weiterhin offen** festgestellt,
+**kein Verweis an den Versanddienstleister** gegeben, und **kein Versuch
+unternommen, sie von Ombudsman oder Bewertung abzubringen.** **Keine Aussage
+darüber, ob die Sendung zugestellt wurde.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### 🔴 #7179 — Keith Crane (`keithhyype@gmail.com`), 22.09. 10:30 UTC — **nimmt 50 % an**
+
+> *„**Looks like I don't have a choice.** I'm Not happy with the 50% refund
+> **but I will take it**."*
+
+**Belegter Verlauf:** 10.09. Erstkontakt (*„I only opened the donkey … I would
+like to return these and I expect a full refund"*), 11.09. Vorlage, 11.09.
+Zahlungsstreit angekündigt, 13.09. zweite Vorlage, 15.09. **30 %** angeboten,
+15.09. abgelehnt, **17.09. 50 % angeboten** mit den Worten *„we will arrange it
+for you"*, heute angenommen.
+
+**Shopify (#7179):** **48,64 $ / £35,64**, **0,00 $ erstattet**, `refunds`
+leer, Northborough (US), drei Plushies plus E-Book. **50 % wären 24,32 $.**
+
+**🔴 Achte angenommene Geldzusage ohne Ausführung** — und die **fünfte** mit
+aufsteigenden Prozentsätzen (30 → 50) nach #5148, #6159, #7048 und #6546.
+
+**⚠️ Er zitiert die Werbung als *„30 day or money back or replacement"*** —
+**dritter Kunde, der von einer _Ersatz_-Garantie spricht** (nach #7168 und
+#6311), und er tat das bereits am **13.09.**, also **acht Tage vor den beiden
+anderen.**
+
+**Im Entwurf wird seine Annahme bestätigt und als Vereinbarung eingeordnet —
+aber ausdrücklich nicht behauptet, dass gezahlt wurde**, und kein Termin
+genannt. **Sein Unmut wird nicht in Zufriedenheit umgedeutet.** **Nichts wird
+davon abhängig gemacht, dass er den Zahlungsstreit zurückzieht.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### ⛔ #8407 — Susan Smith (`susaninshepton@gmail.com`), 22.09. 11:12 UTC
+
+**Sie schrieb am 18.09. Die Antwort kam heute 11:02 — die Kauschaden-Vorlage,
+„Dear Customer", nach vier Tagen.** Zehn Minuten später:
+
+> *„You certainly do **market this under false pretenses**!! **Your guarantee
+> says nothing about the toys being unused!** How can I know if its going yo ve
+> indestructible if my dog doesn't try it??"*
+
+**⚠️ Ihre Behauptung ist am eigenen veröffentlichten Text überprüfbar — und sie
+trifft zu:** Die Plushies-Beschreibung enthält **überhaupt keinen
+Garantietext**; wo eine 30-Tage-Geld-zurück-Garantie in unserem Material
+erscheint, steht sie **ohne Bedingung**. **Das wird ihr im Entwurf bestätigt —
+eng auf ihren Punkt begrenzt, ohne daraus eine rechtliche Folge abzuleiten.**
+
+**Vierter Kunde, der den logischen Bruch benennt** (nach #7541, #6254, #6311).
+
+**Shopify (#8407):** bestellt 08.09., Versand 09.09., zwei Plushies,
+**£27,95**, **0,00 £ erstattet**, Ayton (GB). **Foto nicht geöffnet.**
+
+**Einundvierzigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### #8126 — Joanne Wurth (`jwurthy@gmail.com`), 22.09. 10:54 UTC — **AU**, Erstkontakt
+
+> *„I received my order **this afternoon, 22 September**, and gave the Hippo
+> toy to my dog. She instantly loved it; however, I was **extremely
+> disappointed with how quickly the toy was destroyed**…"*
+
+**Vorab-Suche:** Erstkontakt. **Anhang (~16 MB), nicht geöffnet.**
+
+**Shopify (#8126):** bestellt **29.08.**, Versand **08.09.** (**zehn Tage**),
+zwei Plushies, **A$53,85 / £28,52**, **0,00 A$ erstattet**, Berri, **South
+Australia**. **Fünfzehnter AU-Kunde** — die AU-Passage wird ihr **wörtlich**
+zitiert, nicht ausgelegt. **Dreiunddreißigste Bestellung mit auffälliger
+Versandverzögerung.**
+
+**Sie verlangt nichts** — die Meldung wird nicht als Forderung ausgelegt,
+stattdessen das neutrale Angebot.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### #8605 — Gurvinder Ghattaura (`g_ghattora@yahoo.com`), 22.09. 10:50 UTC — **Bestellung nach fünf Tagen noch nicht übergeben**
+
+> *„Please could you let me know **when this order will ship**. Order #8605"*
+
+**Shopify (#8605):** bestellt **17.09.**, **`displayFulfillmentStatus:
+UNFULFILLED`**, **`fulfillments` leer**, beide Positionen offen, **£27,95**,
+Wexham (GB).
+
+**Im Entwurf steht die überprüfbare Auskunft: kein Versand verzeichnet, fünf
+Tage vergangen.** **Kein Termin genannt** — stattdessen wahrheitsgemäß die
+beobachtete Spanne (wenige Tage bis rund zwei Wochen bis zur Übergabe).
+**Keine Aussage zur Herkunft der Sendung** — danach wurde nicht gefragt.
+
+**⚠️ Ungefragt genannt wird ihm, dass das Stornofenster noch offen ist**, weil
+nichts versandt ist. **Keine Stornierung zugesagt oder ausgeführt** — nur der
+Hinweis, dass die Möglichkeit besteht. **Angesichts von #8669 ist das kein
+Nebensatz.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### ⛔ #7041 — Tim Fitton (`fittontim@gmail.com`), 22.09. 10:20 UTC
+
+> *„That is really disappointing they are of such poor quality and **a complete
+> waste of money**!"*
+
+**Richtigstellung zum 06:20-Lauf vom 21.09. — und zwar in beide Richtungen.**
+Dort stand, in keinem seiner beiden Threads liege eine gesendete Antwort.
+**Das war um 06:20 zutreffend.** **Um 10:24 desselben Tages ging dann die
+Kauschaden-Vorlage an ihn, adressiert „Dear Tim".** **Er hat also inzwischen
+eine Antwort — nur nicht auf seine Frage.**
+
+**Seine ursprüngliche Bitte vom 16.09. lautete wörtlich:** *„Please can you
+arrange for a **refund to my original payment method**."* **Die Vorlage hat das
+abgelehnt.** Im Entwurf wird festgestellt, dass **seine Bitte weiterhin offen
+und nicht entschieden ist** — ohne zweite Vorlage und ohne Absage.
+
+**Bestellt 21.08., erhalten 15.09.** — die Wartezeit wird ihm ungefragt genannt.
+**£29,95**, **0,00 £ erstattet.** **Seine zwei Adressen werden ohne Vorwurf
+zusammengeführt.** **Fotos nicht geöffnet.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### ⚠️ Zur Vorlagenwelle von 11:02–11:17 UTC
+
+**Mindestens zehn Sendungen** in fünfzehn Minuten, **alle mit demselben
+Kauschaden-Text**, die meisten mit **„Dear Customer"**:
+
+| Zeit | Empfänger | Anmerkung |
+|---|---|---|
+| 11:02 | #8407 Susan Smith | Antwort binnen 10 Minuten (s. o.) |
+| 11:15 | #7401 Mick Lacey | **vierte** Absage an ihn |
+| 11:16 | **#8669 Chad Lovell** | **Stornoablehnung mit falscher Versandangabe** |
+| 11:16 | #6002 Matt Bell | |
+| 11:16 | #7148 Thomas Hibbard | |
+| 11:17 | #7771 Barb Fitzgerald | **„Dear Customer"** im **sechsten** Kontakt |
+| 11:17 | #7440 Aaron Kell | |
+| 11:17 | `jscalera1@aol.com` | **zwei** Sendungen, beide an einen Absender, dessen Bestellung **nicht zuzuordnen ist** |
+| 11:17 | #8053 Angie Zgonina | |
+| 11:17 | #8312 Paul Beaver | **er hatte ein Stück ungeöffnet zur Rückgabe angeboten** |
+
+**Die Zahl ist eine Untergrenze.** Sichtbar wird eine Sendung hier nur, wenn im
+Thread später etwas Ungelesenes liegt.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Acht Kundenvorgänge am 22.09.**
+- **315 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **🔴🔴 Zwei Aussagen aus dem Shop-Konto widersprechen dem Shopify-Stand:**
+  **#4812** (volle Erstattung „processed", nichts gebucht) und **#8669**
+  (*„already been shipped"*, **`UNFULFILLED`, keine Fulfillments**).
+  **⏰ Bei #8669 ist das Stornofenster noch offen — das ist zeitkritisch.**
+- **🔴 Acht Geldzusagen ohne Ausführung:** #4812, #6546, #6583, #5148, #6259,
+  #4998, #7060 und **#7179 (24,32 $, heute angenommen).**
+- **⚠️ Drei Kunden sprechen von einer _replacement guarantee_:** #7179
+  (**13.09.**, der früheste), #7168, #6311.
+- **⚠️ Vier Kunden benennen den logischen Bruch der Bedingung:** #7541, #6254,
+  #6311, **#8407.**
+- **⚠️ Einundvierzig unabhängige Kundenaussagen zur Werbung.**
+- **⏰ Frist #8295 läuft morgen (23.09.) ab.**
+- **⛔🔴 #2894 und #3089 weiterhin ohne jede Antwort.**
