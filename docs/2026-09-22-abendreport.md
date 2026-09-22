@@ -1359,14 +1359,14 @@ grundsätzlich nicht — auch nicht die elf Haltbarkeitsfälle von heute.
 
 ### Summe
 
-**Summe der bezifferten Beträge in GBP: 508,44 £.**
-(102,95 £ zugesagt · 200,56 £ nie angekommen · 204,93 £ unbenutzt)
+**Summe der bezifferten Beträge in GBP: 481,45 £.**
+(102,95 £ zugesagt · 200,56 £ nie angekommen · 177,94 £ unbenutzt)
 
 **Zusätzlich in USD, nicht umgerechnet: 116,92 $ (#4812) · 41,55 $ (#6546) ·
 38,19 $ (#8669) · 24,32 $ (#7179) · 8,30 $ (#7884).**
 
-**Elf Positionen sind nicht beziffert** (#5148, #6259, #7060, #7970, #6254,
-#7347, #8312, #7989, #6656, #7608 und der Anteil bei Bundle-Bestellungen), weil
+**Zehn Positionen sind nicht beziffert** (#5148, #6259, #7060, #7970, #6254,
+#7347, #8312, #7989, #6656, #7608), weil
 der Anteil je Position aus den **Kaching-Bundle-Preisen nicht errechenbar** ist
 — die Listenpreise summieren sich nicht auf den gezahlten Gesamtbetrag. **Diese
 Anteile müssen im Shopify-Admin bestimmt werden; hier wird nichts geschätzt.**
