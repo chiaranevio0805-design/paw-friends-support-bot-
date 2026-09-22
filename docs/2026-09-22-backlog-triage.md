@@ -1029,3 +1029,71 @@ verfrüht.
 - **⏰ Frist #8295 läuft morgen (23.09.) ab.**
 - **⛔🔴 #2894 und #3089 weiterhin ohne jede Antwort.**
 - **📤 Der Entwurf für #8372 steht in keinem Abendreport** — er entstand danach.
+
+---
+
+## Lauf 23:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht.
+
+### 🔴 #7479 — Richard Bellamy-Williams (`richard@brownwolf.net`), 22.09. 22:44 UTC
+
+**Nach allem, was vorausging, besteht seine Antwort aus einem Satz:**
+
+> *„**Thank you, but I'd rather have the refund pkease.**"*
+
+**Er lehnt die 30 % ab und bleibt bei der Erstattung.** **Damit ist er wieder
+ein laufender Vorgang, und es gibt einen Entwurf.**
+
+**Die Chronologie, die im Entwurf offen benannt wird:** **14.09.** erste Frage
+nach der 30-Tage-Garantie für den **ungeöffneten** Artikel · 16.09. · 17.09. ·
+19.09. · 20.09. — **fünf Nachfragen** · **21.09. Frist abgelaufen, ohne
+Antwort** · **22.09. 11:31 erste inhaltliche Antwort: „Dear Customer", 30 %
+statt Erstattung** · 22:44 diese Ablehnung.
+
+**Im Entwurf wird kein neues Prozentangebot gemacht und keines erhöht.**
+**Seine beiden Fragen werden endlich beantwortet:** es gibt **keine
+Rücksendeadresse**, und die **Handelsangaben stehen in den veröffentlichten
+AGB** — **darauf wird verwiesen, ohne etwas hinzuzufügen und ohne
+personenbezogene Angaben über das Veröffentlichte hinaus.** **Auf seine
+Beschwerde- und Behördenliste wird nicht eingegangen, und er wird zu nichts
+davon angehalten oder abgehalten.**
+
+### ⚠️ Richtigstellung eines eigenen Betrags — #7479 und die Bundle-Anteile
+
+**Shopify (#7479):** bestellt **23.08.**, Versand **03.09.**, **zwei
+Paw-Friends™-Fluffys**, Listenpreis **je £29,95**, **gezahlt insgesamt
+£29,95** (Zwei-für-eins), **0,00 £ erstattet**, Swindon (GB).
+
+**In der Erstattungsliste stand für #7479 bisher „14,98 £".** **Diese Zahl ist
+eine Schätzung — genau die Hälfte des gezahlten Betrags — und sie verstößt
+gegen die eigene Regel, aus Kaching-Bundle-Preisen keine Anteile je Position
+abzuleiten.** **Sie wird hiermit zurückgezogen.** Richtig ist: **£29,95
+gezahlt für beide Artikel; der Anteil für den einen ungeöffneten Artikel ist von
+hier nicht bestimmbar.** **Im Entwurf steht das ausdrücklich, damit niemand
+stillschweigend rundet.**
+
+**Damit ändert sich auch die Summe im Abendreport von heute:** statt **481,45 £**
+sind **466,47 £** beziffert. **#7347 war bereits heute auf „offen" korrigiert
+worden; #7479 folgt jetzt.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Vierundzwanzig Kundenvorgänge am 22.09.** (zwei nach dem Abendreport).
+- **331 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⛔ Fünf Kunden mit unbenutzter Ware ohne Rückgabeweg:** #6254, #8312, #7347,
+  #8372, **#7479.**
+- **🔴 Neun Geldzusagen ohne Ausführung**, unverändert.
+- **⚠️ Korrigierte Summe der bezifferten Erstattungsbeträge: 466,47 £**
+  (statt 481,45 £), **plus 116,92 $ · 41,55 $ · 38,19 $ · 24,32 $ · 8,30 $.**
+  **Elf Positionen unbeziffert.**
+- **⏰ #8669: Stornofenster weiterhin offen — unverändert zeitkritisch.**
+- **⏰ Frist #8295 läuft morgen (23.09.) ab.**
+- **⛔🔴 #2894 und #3089 weiterhin ohne jede Antwort.**
+- **📤 Die Entwürfe für #8372 und #7479 stehen in keinem Abendreport.**

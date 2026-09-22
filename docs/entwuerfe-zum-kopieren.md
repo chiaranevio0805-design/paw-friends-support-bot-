@@ -16388,6 +16388,73 @@ touching them") weder bestätigt noch als verfrüht abgetan.** **Keine
 Umrechnung** — 96,89 $ ist der presentment-Betrag. Kein Eskalationsmarker im
 Text.
 
+## #7479 — Richard Bellamy-Williams (richard@brownwolf.net) — GB, 🔴 **lehnt die 30 % ab und bleibt bei der Erstattung**
+
+**Betreff:** Re: FW: Refund request and business address request
+
+> Dear Richard,
+>
+> **Understood, and recorded exactly as you put it: you do not want the 30%,
+> you want the refund.** **I am not going to re-offer it, talk it up, or come
+> back to you with a different percentage.**
+>
+> **Where this actually stands, without any softening.** You first asked on
+> **14 September** how to take up the 30-day guarantee on the item that is
+> **still in its original packaging.** You asked again on the 16th, the 17th,
+> the 19th and the 20th. **The first substantive reply you got was yesterday,
+> and it offered you 30% instead of answering the question.** **You have not
+> been given a straight answer in eight days, and the deadline you set for
+> 21 September passed without one.**
+>
+> **Two things you asked that I can answer properly now.**
+>
+> - **How to return the unopened item: you cannot.** **There is no returns
+>   address I can give you** — we do not have one to hand out. **So please do
+>   not post it.** **That is not a refusal of your claim; it is the honest
+>   state of things, and it should have been said to you on 14 September.**
+> - **Your request for an address for service.** **Our trading details —
+>   including the registered trading address — are published in the terms of
+>   service on our website.** I am not going to repeat them into an email or
+>   add anything to what is published there, **but I am also not going to keep
+>   pretending the question was not asked.** It was asked five times.
+>
+> **What I cannot do.** I cannot issue the refund from this desk. **So I am not
+> going to promise you one and I am not going to refuse you one** — you have
+> had enough words that turned out to mean nothing. **What I have done is put
+> it in front of the shop owner stated plainly: order #7479, placed 23 August,
+> despatched 3 September, two Fluffys, £29.95 recorded on the order as the
+> total paid, nothing refunded, one item unopened and unused, notified within
+> the guarantee period, 30% offered on 22 September and declined, full refund
+> requested, no returns address in existence.**
+>
+> **On the amount, so nobody quietly rounds it.** The order was bought as a
+> two-for-one, so the **£29.95 is the total paid for both items**. **I am not
+> going to invent a figure for the single unopened one** — what it works out
+> at has to come from the shop's own records, not from my arithmetic.
+>
+> **On everything else in your correspondence** — the complaints, the
+> regulators, the authorities you have contacted: **that is your business, I am
+> not going to comment on it, and I am not going to ask you to hold off on any
+> of it.** Nothing here is conditional on it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **wörtliche Übernahme seiner Ablehnung**, die **offene
+Chronologie der acht Tage ohne Antwort und der abgelaufenen Frist**, die
+**endliche Antwort auf beide seiner Fragen** (keine Rücksendeadresse; die
+Handelsangaben stehen in den veröffentlichten AGB), und die Weitergabe mit
+allen Daten. **Keine Erstattung zugesagt, kein Betrag zugesagt, kein Termin,
+keine Absage.** **Kein erneutes Prozentangebot und kein höheres.** **Kein
+geschätzter Anteil für den einzelnen Artikel** — es wird ausdrücklich gesagt,
+dass der gezahlte Betrag für beide Artikel gilt und nichts hochgerechnet wird.
+**Keine rechtliche Bewertung** und **kein Versuch, ihn von Beschwerden oder
+Behörden abzubringen** — und nichts wird davon abhängig gemacht. **Keine
+personenbezogenen Angaben über den Shop über das hinaus, was ohnehin
+veröffentlicht ist** — es wird auf die AGB verwiesen, nichts hinzugefügt.
+**Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
