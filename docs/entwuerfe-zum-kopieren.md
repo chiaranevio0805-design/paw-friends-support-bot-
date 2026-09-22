@@ -16111,6 +16111,122 @@ ausdrücklich nicht geraten, was gemeint sein könnte. **Keine Bestelldaten an
 eine nicht zugeordnete Adresse.** **Keine fremde Bestellung beschrieben.** Kein
 Eskalationsmarker im Text.
 
+## #8337 — Cheryl Tagg (cheryldalby@live.co.uk) — GB, ⛔ **hat Rechtsrat eingeholt**
+
+**Betreff:** Re: Order #8337 confirmed
+
+> Dear Cheryl,
+>
+> **You wrote on 19 September and ended with "please do not ignore this
+> email". You were then ignored for three days and answered with a standard
+> text addressed to "Dear Customer". I am not going to gloss over that.**
+>
+> **You have taken legal advice. That is entirely your decision, I am not going
+> to try to talk you out of it, and nothing here depends on you dropping it.**
+> **I am also not going to tell you what your rights are or are not** — I am
+> not qualified to, and you now have someone who is.
+>
+> **What I will not do is argue with the distinction you drew.** You said
+> yourself that nothing is indestructible, and that your objection is to being
+> led to believe ours are. **That is a fair way to put it and I am not going to
+> pretend I did not understand it.**
+>
+> **What I can check, and what I cannot.** I have read all twelve of our
+> current product descriptions, and **"indestructible" is not in any of them.**
+> **That is not me telling you that you were not led to believe it** — I cannot
+> see the advertising that was put in front of you, and **I am not going to
+> guess at it or defend it.** **Your sentence goes to the shop owner exactly as
+> you wrote it**, because he is the only person who can look at the advertising
+> itself.
+>
+> **Your order, so you are not relying on my word.** #8337, placed
+> **1 September**, not handed over for despatch until **8 September**, one toy,
+> **£19.95 recorded on the order, nothing refunded.**
+>
+> **You asked for a refund. I cannot approve one from this desk, so I am not
+> going to promise you one and I am not going to refuse you one.** **It has not
+> been decided, and this morning's message should not be read as a decision.**
+> It is in front of the shop owner as you made it.
+>
+> **Please do not post anything back** — we have no returns address I can give
+> you.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Benennung der drei Tage Schweigen und der
+„Dear Customer"-Vorlage**, die **Anerkennung ihrer Unterscheidung** (nichts ist
+unzerstörbar — es geht um die Erwartung), die ehrliche Eingrenzung des
+Prüfbaren, und die **ausdrückliche Feststellung, dass die Vorlage keine
+Entscheidung war.** **Keine Erstattung zugesagt, kein Betrag zugesagt, kein
+Termin, keine Absage, keine zweite Vorlage.** **Keine rechtliche Bewertung, in
+keine Richtung** — und **kein Versuch, sie vom Rechtsrat abzubringen.**
+**Keine Behauptung, das Wort „indestructible" existiere nicht.** **Keine
+Rekonstruktion der Anzeige.** **Keine Rücksendeadresse erfunden.** Kein
+Eskalationsmarker im Text.
+
+## #7472 — Francisco Almazan (falmazan2@gmail.com) — US, dritter Kontakt, **Größenbeschwerde bleibt unbeantwortet**
+
+**Betreff:** Re: A shipment from order #7472 is on the way
+
+> Dear Francisco,
+>
+> **You have written three times and the reply you got this morning answered
+> none of it.** It was a standard text about chewed toys, addressed to "Dear
+> Customer". **You are on your third message. I am not sending you a fourth
+> copy of anything.**
+>
+> **What you actually raised, and what I can honestly do with each of it.**
+>
+> - **The size of the toys.** You said on 18 September that they are much
+>   smaller than advertised. **I cannot assess that from here — I cannot
+>   measure what you received and I cannot see what was displayed to you when
+>   you bought.** **So I am not going to tell you they are the right size and I
+>   am not going to tell you they are not.** **It goes to the shop owner in
+>   your own words, and it has not been answered by anyone yet.**
+> - **The teeth-cleaning toy.** Same answer, and for the same reason: **that is
+>   a claim about the product, and it is his to address, not mine to explain
+>   away.**
+> - **The advertising.** I have read all twelve of our current product
+>   descriptions and **"indestructible" is not in any of them.** **That is not
+>   me telling you that you did not see it** — I cannot see the advertising
+>   that was put in front of you. **Your words go to him as you wrote them.**
+>
+> **Your photographs arrived and have not been opened**, and **nothing here
+> depends on them. You do not need to send anything else.**
+>
+> **Your order.** #7472, placed **23 August**, not handed over for despatch
+> until **4 September — twelve days.** Three items. **$59.85 recorded on the
+> order, nothing refunded.**
+>
+> **I cannot approve a refund from this desk, so I am not going to promise you
+> one and I am not going to refuse you one.** **Nothing has been decided
+> here.**
+>
+> **Please do not post anything back** — we have no returns address I can give
+> you.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **getrennte Behandlung aller drei Punkte, die er
+erhoben hat** (Größe, Zahnpflege-Artikel, Werbung), die **offene Feststellung,
+dass die Größenbeschwerde seit dem 18.09. unbeantwortet ist**, die ehrliche
+Eingrenzung, und die ungefragte Nennung der zwölf Tage bis zum Versand.
+**Keine Erstattung zugesagt, kein Betrag zugesagt, kein Termin, keine Absage,
+keine vierte Vorlage.** **Keine Aussage über die Größe der Artikel in die eine
+oder andere Richtung**, und **kein Vergleich mit Produktbildern.** **Keine
+Aussage über die Zahnpflege-Wirkung.** **Fotos nicht geöffnet.** **Keine
+Behauptung, das Wort „indestructible" existiere nicht.** **Keine
+Rücksendeadresse erfunden.** **Keine Umrechnung.** Kein Eskalationsmarker im
+Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

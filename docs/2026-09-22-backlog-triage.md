@@ -774,3 +774,86 @@ preiszugeben und ohne den Vorgang abzuweisen.**
 - **⏰ #8669: Stornofenster weiterhin offen — unverändert zeitkritisch.**
 - **⏰ Frist #8295 läuft morgen ab; #7479 ist gestern abgelaufen.**
 - **⛔🔴 #2894 und #3089 weiterhin ohne jede Antwort.**
+
+---
+
+## Lauf 15:20 UTC
+
+**Posteingang und Postausgang geprüft.** Zwei neue Nachrichten, **beide
+Antworten auf die Vorlagenwelle.**
+
+### ⛔ #8337 — Cheryl Tagg (`cheryldalby@live.co.uk`), 22.09. 15:07 UTC — **Rechtsrat eingeholt**
+
+**Ihr Verlauf:** **19.09. 07:59:** *„I am a very disappointed customer … I would
+like a refund please . **Please do not ignore this email.**"* — **Drei Tage
+nichts.** **22.09. 11:06:** Kauschaden-Vorlage, **„Dear Customer"**. **15:07:**
+
+> *„**I have seeked legal advice** as you have sold me a toy which was
+> destroyed in less than a day of having it. **Yes nothing is indestructible
+> but you are misleading customers into thinking yours are.** I understand
+> things don't last forever but they are **very poorly made**."*
+
+**⚠️ Ihre Unterscheidung ist präziser als die meisten:** Sie bestreitet nicht,
+dass nichts unzerstörbar ist — **ihr Vorwurf ist die erzeugte Erwartung.**
+**Im Entwurf wird ihr das zugestanden, ohne rechtliche Bewertung in irgendeine
+Richtung** und **ohne jeden Versuch, sie vom Rechtsrat abzubringen.**
+
+**Ausdrücklich gesagt wird ihr außerdem, dass die Nachricht von heute früh keine
+Entscheidung war** — ihre Erstattungsbitte ist unentschieden.
+
+**Shopify (#8337):** bestellt **01.09.**, Versand **08.09.** (sieben Tage), ein
+Plushies, **£19,95** (Listenpreis £29,95), **0,00 £ erstattet**, Swadlincote
+(GB).
+
+**Fünfundvierzigste unabhängige Kundenaussage zur Werbung.** **Vierter Fall mit
+angekündigter rechtlicher Verfolgung** (nach #5829, #6384, #5148/#6259 Trading
+Standards, #7479).
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### ⛔ #7472 — Francisco Almazan (`falmazan2@gmail.com`), 22.09. 15:16 UTC — **dritter Kontakt, Größenbeschwerde weiterhin unbeantwortet**
+
+> *„So you guys **advertise them as indestructible and don't back up your
+> product**? What a waste of money!!!"*
+
+**Sein Verlauf:** **18.09.:** *„The toys are **super small! Not as advertised at
+all.** The blue toy that was for teeth cleaning quote unquote was…"* ·
+**20.09.:** Fotos · **22.09. 11:32:** Kauschaden-Vorlage, „Dear Customer" ·
+**15:16:** diese Nachricht.
+
+**⚠️ Seine ursprüngliche Beschwerde war eine Größen- und Produktbeschwerde,
+keine Kauschadenbeschwerde.** **Sie ist seit dem 18.09. unbeantwortet, und die
+Vorlage hat sie nicht berührt.**
+
+**Nach `support-policy.md` wird von hier nichts über die Größe der Artikel
+gesagt — in keine Richtung — und kein Vergleich mit Produktbildern gezogen.**
+**Im Entwurf steht stattdessen offen, dass das von hier weder geprüft noch
+entschieden werden kann, und dass es unbeantwortet an den Owner geht.**
+Dasselbe für die Zahnpflege-Aussage. **Fotos nicht geöffnet.**
+
+**Shopify (#7472):** bestellt **23.08.**, Versand **04.09.** (**zwölf Tage**),
+drei Positionen, **59,85 $ / £43,92**, **0,00 $ erstattet**, Pendleton,
+**Indiana (US)**.
+
+**Sechsundvierzigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Zwanzig Kundenvorgänge am 22.09.**
+- **327 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⚠️ Sechsundvierzig unabhängige Kundenaussagen zur Werbung.**
+- **⚠️ Die Vorlagenwelle von heute Vormittag hat bis jetzt neun Antworten
+  ausgelöst** (#8407, #5310, #7347, #8312, #7771, #7828, #8080, #8337, #7472).
+  **Keine einzige hat einen Fall geschlossen.** **Zwei haben einen
+  Rückgabewunsch erzeugt, einer Rechtsrat, einer einen bestätigten Widerspruch
+  zum Datenstand.**
+- **🔴 Neun Geldzusagen ohne Ausführung**, unverändert.
+- **⏰ #8669: Stornofenster weiterhin offen — unverändert zeitkritisch.**
+- **⏰ Frist #8295 läuft morgen ab; #7479 ist gestern abgelaufen.**
+- **⛔🔴 #2894 und #3089 weiterhin ohne jede Antwort.**
