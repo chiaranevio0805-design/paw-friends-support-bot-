@@ -16332,6 +16332,62 @@ ihre Hunde, ihr Kauverhalten oder darüber, was „soft mouthed" bedeuten soll.*
 **Keine Behauptung darüber, was die Anzeige gesagt hat.** **Keine
 Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
 
+## #8372 — Kerri Forbey (wollenzienk@hotmail.com) — US, ⛔ **zweimal eine Kauschaden-Absage für einen Schaden, den es nie gab**
+
+**Betreff:** Re: Paw friends plushies
+
+> Dear Kerri,
+>
+> **You have now been told twice that damage caused by chewing is not covered.
+> You never gave the toys to your dog. There is no chewing damage on your
+> order and there never was.** **That is our mistake, twice over, and the
+> second one was addressed to "Dear Customer" after you had already corrected
+> us.** I am not going to send you a third.
+>
+> **Taking your message at exactly what it says:** you did not use the product,
+> you want a full refund, and you can return everything **as purchased, unused,
+> in its original packaging.** **That is recorded as your request, in those
+> terms.**
+>
+> **Here is the honest problem, and it is ours and not yours: there is no
+> returns address I can give you.** We do not have one to hand out. **So please
+> do not post anything back** — not because your request is refused, but
+> because there is nowhere for it to go. **The condition you are being asked to
+> meet is one you already meet, and the process you are being pointed at does
+> not exist.**
+>
+> **What I can and cannot do.** I cannot approve a refund from this desk. **So
+> I am not going to promise you one and I am not going to refuse you one.**
+> What I have done is put it in front of the shop owner stated plainly: **order
+> #8372, placed 7 September, despatched 8 September, $96.89 recorded on the
+> order, nothing refunded, all items unused and in original packaging, full
+> refund requested, no returns address in existence, and two chew-damage
+> refusals sent for a product that was never used.**
+>
+> **One more thing on the order, which nobody has mentioned to you.** One line
+> on #8372 — the e-book — **is still recorded as not sent.** That is separate
+> from everything above and it goes to him too.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass zweimal ein Schaden
+unterstellt wurde, den es nie gab**, die **wörtliche Übernahme ihrer Forderung**
+(volle Erstattung, Rückgabe aller Artikel unbenutzt), die **ehrliche Auskunft,
+dass keine Rücksendeadresse existiert**, die Feststellung, dass **sie die
+zitierte Bedingung bereits erfüllt**, und der **ungefragte Hinweis auf die
+unausgelieferte E-Book-Position.** **Keine Erstattung zugesagt, kein Betrag
+zugesagt, kein Termin, keine Absage, keine dritte Vorlage.** **Keine rechtliche
+Bewertung.** **Keine Behauptung, damit sei die Sache entschieden.** **Keine
+Rücksendeadresse erfunden.** **Keine Aussage über die Haltbarkeit des Produkts**
+— insbesondere wird **ihre Einschätzung vom 19.09. („I could tell by just
+touching them") weder bestätigt noch als verfrüht abgetan.** **Keine
+Umrechnung** — 96,89 $ ist der presentment-Betrag. Kein Eskalationsmarker im
+Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

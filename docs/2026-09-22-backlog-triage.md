@@ -969,3 +969,63 @@ auf *„your advert"* und auf die Aussage *„good for dogs that destroy toys"*,
 - **⏰ #8669: Stornofenster weiterhin offen — unverändert zeitkritisch.**
 - **⏰ Frist #8295 läuft morgen (23.09.) ab; #7479 ist gestern abgelaufen.**
 - **⛔🔴 #2894 und #3089 weiterhin ohne jede Antwort.**
+
+---
+
+## Lauf 19:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht.
+
+### ⛔ #8372 — Kerri Forbey (`wollenzienk@hotmail.com`), 22.09. 18:50 UTC — **zweite Kauschaden-Absage für einen Schaden, den es nie gab**
+
+> *„**I Did NOT use the product.** I would like a **full refund**. I can
+> **return all items as purchased, unused in original packaging.** Kerri"*
+
+**Belegter Verlauf:**
+
+| Datum | Vorgang |
+|---|---|
+| **16.09. 20:36** | Erstkontakt: *„My 9 month old German shepherd **will be able to** shred the material and the rope…"* — **eine Einschätzung vor Gebrauch, kein Schadensfall.** |
+| **19.09. 09:55** | **Kauschaden-Vorlage**, „Dear Kerri". |
+| **19.09. 10:54** | Ihre Richtigstellung: *„I have all items, **plushies untouched and in original packaging**. I did not give them to my dog…"* |
+| **22.09. 11:07** | **Zweite Kauschaden-Vorlage — diesmal „Dear Customer"**, drei Tage nach ihrer Richtigstellung. |
+| **22.09. 18:50** | diese Nachricht. |
+
+**⛔ Zweimal wurde ihr erklärt, warum zerkaute Spielzeuge nicht gedeckt sind.
+Sie hat die Ware nie ausgepackt.** Das war bereits am 19.09. im Protokoll
+vermerkt — **und es ist am 22.09. ein zweites Mal passiert, nachdem sie
+widersprochen hatte.**
+
+**Shopify (#8372):** bestellt **07.09.**, Versand **08.09.**, sieben Positionen
+(vier Plushies, Zahnbuddy, Fur Wonder Brush, E-Book), **96,89 $ / £71,56**,
+**0,00 $ erstattet**, Shawano, **Wisconsin (US)**, Yun Express
+`YT2625100706715108`. **`PARTIALLY_FULFILLED` — die E-Book-Position ist
+weiterhin `unfulfilledQuantity: 1`.** **Darauf wird sie im Entwurf ungefragt
+hingewiesen**, getrennt von ihrer Erstattungsbitte.
+
+**⚠️ Vierte Kundin mit ungeöffneter Ware, die zurückgeben will und nicht kann**
+— nach #6254, #8312 und #7347, **alle drei ebenfalls heute oder gestern durch
+die Vorlage ausgelöst oder wiederholt abgewiesen.**
+
+**Im Entwurf wird ihre Einschätzung vom 19.09. („I could tell by just touching
+them") weder bestätigt noch als verfrüht abgetan** — nach `support-policy.md`
+wird einem Kunden, der unbenutzte Ware beurteilt, nicht gesagt, sein Urteil sei
+verfrüht.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Dreiundzwanzig Kundenvorgänge am 22.09.** (einer nach dem Abendreport).
+- **330 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⛔ Vier Kunden mit unbenutzter Ware ohne Rückgabeweg:** #6254, #8312, #7347,
+  **#8372.**
+- **🔴 Neun Geldzusagen ohne Ausführung**, unverändert.
+- **⏰ #8669: Stornofenster weiterhin offen — unverändert zeitkritisch.**
+- **⏰ Frist #8295 läuft morgen (23.09.) ab.**
+- **⛔🔴 #2894 und #3089 weiterhin ohne jede Antwort.**
+- **📤 Der Entwurf für #8372 steht in keinem Abendreport** — er entstand danach.
