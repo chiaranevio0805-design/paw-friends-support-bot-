@@ -167,3 +167,88 @@ bisher niemand vorgelegt hat.
 - **⏰ #8669 und #8605: Stornofenster weiterhin offen.**
 - **🔴 Neun Geldzusagen ohne Ausführung**, unverändert.
 - **⛔🔴 #2894 und #3089 weiterhin ohne jede Antwort.**
+
+---
+
+## Lauf 10:20 UTC
+
+**Posteingang und Postausgang geprüft.** Zwei neue Nachrichten (die Läufe 07:20
+bis 09:20 fanden nichts).
+
+### ⛔🔴 #8142 — Wendy Price (`wendyprice579@gmail.com`), 23.09. 09:47 UTC — **dritter Kontakt, noch immer keine Antwort**
+
+**Sie hat einen neuen Thread aufgemacht und ihre eigene Nachricht an sich selbst
+weitergeleitet, um sie erneut zu schicken:**
+
+> *„Hi **I'm emailing again as still no response** regarding the poor quality
+> of the products received and **how to get a refund!** **I will have no choice
+> but to go through my bank for a refund and leave a negative review** for you
+> should I not hear from you. Regards Wendy Price"*
+
+**Belegter Verlauf:** **19.09. 14:30** Erstkontakt (*„How do I return for a
+refund please"*) — **ungelesen geblieben** · **21.09. 12:06** *„Still not heard
+back from you?"* · **23.09. 09:47** diese Nachricht. **Am 21.09. wurde ein
+Entwurf für sie geschrieben. Gesendet wurde nie etwas.**
+
+**⚠️ Das ist der zweite Fall binnen drei Tagen, in dem ein Kunde aus demselben
+Grund einen neuen Thread aufmacht** (nach #7041) — **und in einer
+Thread-Ansicht sieht das aus wie ein neuer Kunde.**
+
+**Shopify (#8142):** bestellt **29.08.**, Versand **08.09.** (**zehn Tage**),
+zwei Plushies, **£27,95**, **0,00 £ erstattet**, Chelmsford (GB).
+
+**Im Entwurf steht ausdrücklich, dass ihr nie geantwortet wurde** — es wird ihr
+nichts vorgespielt. **Ihre eigentliche Frage wird beantwortet:** es gibt keine
+Rücksendeadresse. **Kein Versuch, sie von Bank oder Bewertung abzubringen**,
+und nichts davon abhängig gemacht. **Ein Foto liegt bei — nicht geöffnet.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### #7831 — Mary Hollerich (`mhollerich89@gmail.com`), 23.09. 09:53 UTC — Erstkontakt, US
+
+**Vorab-Suche:** ein einziger Thread, **Erstkontakt.**
+
+**Im Volltext:**
+
+> *„**Your toys destroyed with 5 min of giving them to my dog. Everyone of them
+> thrown in garbage the same night.** **You advertisement was all wrong.** **You
+> should refund my money for all of it.** Mary"*
+
+**Shopify (#7831):** bestellt **26.08.**, Versand **03.09.** (acht Tage), **drei
+Plushies plus das E-Book**, **48,58 $ / £35,65**, **0,00 $ erstattet**, Bethel
+Park, **Pennsylvania (US)**, Yanwen `UL478626323YP`.
+
+**⚠️ `PARTIALLY_FULFILLED` — die E-Book-Position ist `unfulfilledQuantity: 1`.**
+**Siebte Bestellung mit unausgelieferter E-Book-Position** (nach #8372, #7555,
+#6592, #6254, #6546, #2852). **Darauf wird sie im Entwurf ungefragt
+hingewiesen**, getrennt von ihrer Erstattungsbitte.
+
+**Die Ware ist entsorgt.** **Kein Foto, kein Nachweis und keine Rücksendung
+verlangt** — und ausdrücklich gesagt, dass sie nichts vorlegen muss, was sie
+bereits weggeworfen hat.
+
+**⚠️ Namenslage:** Die Bestellung lautet auf **Maryanne Hollerich**, sie
+unterschreibt **„Mary"**. **Der Vorname wird nicht geraten** — sie wird mit
+ihrer eigenen Unterschrift angesprochen, die Abweichung ihr gegenüber nicht
+thematisiert.
+
+**Einundfünfzigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Fünf Kundenvorgänge am 23.09.**
+- **336 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⚠️ Einundfünfzig unabhängige Kundenaussagen zur Werbung.**
+- **⚠️ Sieben Bestellungen mit unausgelieferter E-Book-Position:** #8372,
+  #7555, #6592, #6254, #6546, #2852, **#7831.**
+- **⏰⏰ Die Frist von #8295 läuft heute ab.**
+- **⏰ #8669 und #8605: Stornofenster weiterhin offen.**
+- **🔴 Neun Geldzusagen ohne Ausführung**, unverändert.
+- **⛔🔴 #2894 und #3089 weiterhin ohne jede Antwort** — und **#8142 ist jetzt
+  der dritte Fall, in dem jemand mehrfach schreibt und gar nichts bekommt.**

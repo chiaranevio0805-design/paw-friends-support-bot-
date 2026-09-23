@@ -16619,6 +16619,118 @@ nur Bescheid geben. **Keine rechtliche Bewertung.** **Keine Behauptung, das Wort
 Rücksendeadresse erfunden.** **Keine Umrechnung** — 54,25 A$ ist der
 presentment-Betrag. Kein Eskalationsmarker im Text.
 
+## #8142 — Wendy Price (wendyprice579@gmail.com) — GB, ⛔🔴 **dritter Kontakt, noch immer keine Antwort, Bank und Bewertung angekündigt**
+
+**Betreff:** Re: FW: RE: FW: Defective
+
+> Dear Wendy,
+>
+> **You have written on 19 September, on 21 September and again today, and you
+> have had nothing back from us. Not a slow reply — none. That is our failure,
+> and I am going to start there rather than with the toys.**
+>
+> **You asked one question three times: how to return them for a refund. Here
+> is the answer, and I am sorry it is this one: there is no returns address I
+> can give you.** We do not have one to hand out. **So please do not post
+> anything back** — not because your request is refused, but because there is
+> nowhere for it to go.
+>
+> **What our records show, so you are not relying on my word.** Order #8142 was
+> placed on **29 August** and not handed over for despatch until **8 September
+> — ten days later.** **£27.95 is recorded on the order, and nothing has been
+> refunded.** **"Waited ages" is not an impression on your part; it is in the
+> dates.**
+>
+> **On your bank and on leaving a review: both are entirely your decision. I am
+> not going to ask you to hold off on either, and nothing here is conditional
+> on you doing so.**
+>
+> **What I can and cannot do.** I cannot approve a refund from this desk. **So
+> I am not going to promise you one and I am not going to refuse you one** —
+> you have had enough silence without adding a false assurance to it. Your case
+> is in front of the shop owner stated plainly: **three messages in five days,
+> none answered, refund requested each time, nothing refunded, no returns
+> address in existence.**
+>
+> **On the word you used and the reviews you mentioned.** I have read all
+> twelve of our current product descriptions and **"indestructible" is not in
+> any of them** — **but I cannot see the advertising that was put in front of
+> you, and what is displayed about us elsewhere is not something I can verify
+> from here.** **I am not going to reassure you about either or argue with you
+> about either.** **Both go to him in your own words.**
+>
+> **You do not need to send photographs.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it
+> again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass drei Nachrichten
+unbeantwortet blieben**, die **endliche Antwort auf ihre eigentliche Frage**
+(keine Rücksendeadresse, ausdrückliche Warnung nichts zu verschicken), die
+überprüfbare Wiedergabe der Daten, und eine Nachfass-Zusage. **Keine Erstattung
+zugesagt, kein Betrag zugesagt, kein Termin, keine Absage, keine
+Vorlagen-Antwort.** **Keine Behauptung, ihr sei bereits geantwortet worden** —
+es wurde nie etwas gesendet, und genau das steht im Text. **Kein Versuch, sie
+von Bank oder Bewertung abzubringen**, und nichts davon abhängig gemacht.
+**Keine Behauptung, das Wort „indestructible" existiere nicht.** **Keine
+Bestätigung und keine Bestreitung zur Bewertungsanzeige.** **Kein Foto
+verlangt.** **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
+
+## #7831 — Mary Hollerich (mhollerich89@gmail.com) — US, Erstkontakt, **volle Erstattung verlangt**
+
+**Betreff:** Re: Items
+
+> Dear Mary,
+>
+> **Five minutes, and all of them in the bin the same night. Thank you for
+> telling us, and I am not going to ask you to prove it, photograph it, or
+> produce anything you have already thrown away.**
+>
+> **You asked for all of your money back, so here is a straight answer: I
+> cannot approve that.** The decision belongs to the shop owner, not to me.
+> **So I am not going to promise you a refund and I am not going to refuse you
+> one.** Your request is in front of him exactly as you made it, with our
+> records: **order #7831, placed 26 August, not handed over for despatch until
+> 3 September — eight days — three toys, $48.58 recorded on the order, nothing
+> refunded, all items destroyed within five minutes, full refund requested.**
+>
+> **On the advertising.** You say it was all wrong. **I have read all twelve of
+> our current product descriptions and "indestructible" is not in any of them.
+> That is not me telling you that you did not see what you saw** — I cannot see
+> the advertising that was put in front of you, and **I am not going to guess
+> at it or defend it.** **Your sentence goes to him as you wrote it**, because
+> he is the only person who can look at the advertising itself.
+>
+> **One thing on your order that nobody has mentioned to you.** One line on
+> #7831 — the e-book — **is still recorded as not sent.** That is separate from
+> everything above, and it goes to him too.
+>
+> **Please do not post anything back** — we have no returns address I can give
+> you.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **direkte Antwort auf ihre Erstattungsbitte** (die
+Entscheidung liegt nicht beim Bot), die **ausdrückliche Feststellung, dass
+nichts nachgewiesen werden muss** — die Ware ist entsorgt und das wird nicht
+gegen sie verwendet —, die ungefragte Nennung der acht Tage bis zum Versand,
+und der **ungefragte Hinweis auf die unausgelieferte E-Book-Position.** **Keine
+Erstattung zugesagt, kein Betrag zugesagt, kein Termin, keine Absage, keine
+Vorlagen-Antwort.** **Keine Behauptung, das Wort „indestructible" existiere
+nicht.** **Keine Rekonstruktion der Anzeige.** **Kein Foto verlangt.** **Keine
+Rücksendeadresse erfunden.** **Keine Umrechnung** — 48,58 $ ist der
+presentment-Betrag. **Sie wird mit dem Namen angesprochen, mit dem sie
+unterschrieben hat** (die Bestellung lautet auf einen längeren Vornamen —
+**nicht geraten, nicht thematisiert**). Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
