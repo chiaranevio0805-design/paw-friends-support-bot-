@@ -17067,6 +17067,123 @@ Paket ist.** **Keine Aussage zur Herkunft der Sendung** — danach wurde nicht
 gefragt. **Keine Deutung seiner Frage als Forderung.** Kein Eskalationsmarker
 im Text.
 
+## #2894 — Jeff Hughes (jeff.hughes@yahoo.co.uk) — GB, ⛔🔴 **Ersatz am 24.07. schriftlich zugesagt, seither zwei Monate Schweigen**
+
+**Betreff:** Re: Order Number 2894
+
+> Dear Jeff,
+>
+> **You are owed an update and an apology, and the apology has to come first.**
+>
+> **On 24 July this address told you, in writing, that a replacement — elephant
+> or fox, whichever could reach you fastest — was being arranged, that it only
+> needed confirming internally, and that you would be contacted shortly. You
+> were also told not to return the damaged toy at your own cost.**
+>
+> **Since that message you have written again and again, and you have not had
+> one reply. That is two months. I am not going to give you a reason for it,
+> because there is no good one.**
+>
+> **What our records show, so you are not relying on my word.** Order #2894 was
+> placed on **11 July** and despatched on **14 July**. **One toy, the fox.**
+> **There is one despatch on the order and nothing after it — no replacement
+> has ever been sent.** **£19.95 is recorded on the order, and nothing has been
+> refunded.**
+>
+> **So the plain answer to "I want an update" is this: nothing has happened
+> since 24 July.** Not the replacement, not a refund, not a reply.
+>
+> **What I can and cannot do.** I cannot send a replacement and I cannot issue
+> a refund — neither is mine to do. **So I am not going to promise you either,
+> and I am not going to give you a date.** You have had one promise from this
+> address that came to nothing; **you are not getting a second one from me that
+> I cannot keep.**
+>
+> **What I have done is put it in front of the shop owner stated plainly:**
+> **order #2894, £19.95, arrived damaged on 23 July, replacement promised in
+> writing on 24 July, never despatched, every follow-up since then unanswered,
+> nothing refunded.**
+>
+> **You offered on 23 July to return the faulty toy. You were told you did not
+> need to, and that still stands** — **please do not post it, because we have
+> no returns address I can give you either.**
+>
+> **Your photograph from July arrived and has not been opened. You do not need
+> to send anything else.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it
+> again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **wörtliche Wiedergabe der Zusage vom 24.07.**, die
+**offene Feststellung, dass seither zwei Monate lang nichts geschehen ist und
+keine Nachfrage beantwortet wurde**, die überprüfbare Wiedergabe des
+Datenstands (**ein Versand, kein Ersatz, keine Erstattung**), und die Weitergabe
+mit allen Zahlen. **Keine Erstattung zugesagt, kein Ersatz zugesagt, kein
+Termin, keine Absage.** **Ausdrücklich keine zweite Zusage**, weil die erste
+nicht gehalten wurde. **Keine Begründung oder Entschuldigung erfunden.**
+**Keine Rücksendung verlangt** — die Zusage vom 24.07., dass er nichts
+zurückschicken muss, wird bestätigt, **und keine Rücksendeadresse erfunden.**
+**Foto nicht geöffnet.** Kein Eskalationsmarker im Text.
+
+## #7608 — Patricia Arenella (patty.arenella@gmail.com) — US, **neuer Thread, dritter Anlauf**
+
+**Betreff:** Re: Damaged toy order 7608. Please refund
+
+> Dear Patricia,
+>
+> **You have opened a new email to ask for the same thing again, and I take
+> that as a sign that the last two did not get you anywhere. They did not, and
+> that is on us.**
+>
+> **Your three photographs arrived and have not been opened. You do not need to
+> send any more, and nothing here depends on them.**
+>
+> **Everything you have raised is on the record, and I am keeping the parts
+> separate rather than letting one swallow the others:**
+>
+> - **The refund you are asking for.** I cannot approve it from this desk, and
+>   **I am not going to refuse it either.** It is with the shop owner as you
+>   made it.
+> - **The second toy from the buy-one-get-one offer that never arrived.** You
+>   raised this yesterday and it has not been answered. **The order as recorded
+>   here shows one toy, and one toy was despatched. You say you bought on a
+>   two-for-one.** **I am not going to tell you that you misread the offer, and
+>   I am not going to tell you our record settles it** — **only the shop owner
+>   can look behind the checkout at what you were actually offered and
+>   charged.** **Both statements go to him as they stand.**
+> - **The advertising.** You have said more than once that the toys were
+>   advertised as indestructible and made for dogs that destroy toys. **I have
+>   read all twelve of our current product descriptions and "indestructible" is
+>   not in any of them — but I cannot see the advertising that was put in front
+>   of you, and I am not going to guess at it or explain it away.**
+>
+> **What is on the order:** #7608, placed **24 August**, despatched
+> **3 September**, **$27.75 recorded on the order, nothing refunded.**
+>
+> **Please do not post anything back** — we have no returns address I can give
+> you.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Anerkennung, dass zwei vorherige Anläufe nichts
+gebracht haben**, die **getrennte Behandlung ihrer drei Punkte**, die
+**sichtbare Gegenüberstellung bei der fehlenden Position ohne Auflösung**, und
+die ehrliche Eingrenzung zur Werbung. **Keine Erstattung zugesagt, kein Betrag
+zugesagt, kein Termin, keine Absage.** **Kein Lesefehler unterstellt.** **Keine
+Verrechnung von Listen- und Zahlbetrag.** **Fotos nicht geöffnet**, und das wird
+ihr gesagt. **Ihre Sicherheitsmeldung vom 13.09. wird nicht ungefragt wieder
+aufgegriffen**, und **nichts zur Materialsicherheit gesagt.** **Keine
+Rücksendeadresse erfunden.** **Keine Umrechnung.** Kein Eskalationsmarker im
+Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

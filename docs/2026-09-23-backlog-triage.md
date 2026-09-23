@@ -556,3 +556,87 @@ Liefertermin, kein Verweis an den Versanddienstleister.** **Er verlangt nichts**
 - **⚠️ Dreiundfünfzig unabhängige Kundenaussagen zur Werbung.**
 - **⏰⏰ Die Frist von #8295 läuft heute ab.**
 - **⏰ #8669 und #8605: Stornofenster weiterhin offen.**
+
+---
+
+## Lauf 16:20 UTC
+
+**Posteingang und Postausgang geprüft.** Zwei neue Nachrichten.
+
+### ⛔🔴 #2894 — Jeff Hughes (`jeff.hughes@yahoo.co.uk`), 23.09. 15:56 UTC
+
+> *„**I want an update on this** Regards Jeff"*
+
+**🟦 Der Thread enthält jetzt den Wortlaut der Zusage vom 24.07., der bisher nur
+zusammengefasst im Protokoll stand:**
+
+> *„Hi Jeff, … We'll get a **replacement (elephant or fox, whichever we can get
+> to you fastest) arranged for you** — I just need to **confirm this internally
+> before it goes out**, so please bear with me. **No need to return the damaged
+> item at your own cost; we won't ask you to do that.** **I'll be back in touch
+> shortly to confirm.**"*
+
+**Und sein Erstkontakt vom 23.07.:** *„I received my item today, and it is
+damaged… please arrange for a replacement item… **I can return the faulty item
+to you if needed, at your cost.**"*
+
+**Shopify (#2894):** bestellt **11.07.**, Versand **14.07.**, **ein Plushies,
+Variante „fox"**, **£19,95**, **0,00 £ erstattet**, Northwich (GB), SunSu
+`SYGB022179102`. **Ein einziges Fulfillment, nichts danach — es ist nie ein
+Ersatz versandt worden.**
+
+**⏱️ Seit der Zusage sind zwei Monate vergangen.**
+
+**⚠️ Richtigstellung einer eigenen Zahl:** Im Protokoll stand bisher „acht
+Nachfassungen". **In diesem Thread sichtbar sind fünf** (13.08., 27.08., 13.09.,
+21.09., 23.09.). **Die Vorschau zeigt nur die ältesten Nachrichten eines
+Threads, die Zahl ist also in beide Richtungen unsicher.** **Was feststeht und
+worauf es ankommt: seit dem 24.07. ist keine einzige Antwort an ihn
+gegangen.** Im Entwurf wird deshalb keine Zahl genannt, sondern der Zeitraum.
+
+**Im Entwurf wird die Zusage wörtlich wiedergegeben, festgestellt, dass seither
+nichts geschehen ist, und ausdrücklich keine zweite Zusage gemacht** — mit der
+Begründung, dass die erste nicht gehalten wurde. **Keine erfundene Begründung
+für das Schweigen.** **Die Zusage, dass er nichts zurückschicken muss, wird
+bestätigt** — und ergänzt, dass es ohnehin keine Rücksendeadresse gibt.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### ⛔ #7608 — Patricia Arenella (`patty.arenella@gmail.com`), 23.09. 15:24 UTC — **neuer Thread**
+
+**Betreff:** *„Damaged toy order 7608. **Please refund**"* — **Nachrichtentext:
+nur „Sent from my iPhone", dazu drei Fotos (`IMG_2109`–`IMG_2111`), nicht
+geöffnet.**
+
+**Sie hat einen neuen Thread aufgemacht, nachdem der alte am 13.09., 19.09. und
+22.09. nichts gebracht hat.** **Vierter Kunde binnen zwei Tagen, der einen
+neuen Thread aufmacht oder seine Mail weiterleitet** (nach #7041, #8142,
+#3387).
+
+**Im Entwurf werden ihre drei Punkte getrennt gehalten:** die Erstattungsbitte,
+**der beworbene Gratisartikel, der nie ankam** (seit gestern unbeantwortet), und
+die Werbeaussage. **Bei der fehlenden Position werden beide Aussagen
+nebeneinandergestellt** — **kein Lesefehler unterstellt, nichts verrechnet.**
+
+**Ihre Sicherheitsmeldung vom 13.09. wird nicht ungefragt wieder aufgegriffen.**
+
+**Shopify (#7608):** unverändert — 27,75 $, **0,00 $ erstattet**, eine Position.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Dreizehn Kundenvorgänge am 23.09.**
+- **344 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⛔ Vier Kunden haben binnen zwei Tagen einen neuen Thread aufgemacht oder
+  ihre eigene Mail weitergeleitet, weil nichts zurückkam:** #7041, #8142,
+  #3387, **#7608.**
+- **⛔🔴 #2894: zwei Monate seit der schriftlichen Ersatzzusage, kein Ersatz,
+  keine Erstattung, keine Antwort.** **#3089 unverändert.**
+- **🔴 Zehn Geldzusagen ohne Ausführung**, unverändert.
+- **⏰⏰ Die Frist von #8295 läuft heute ab.**
+- **⏰ #8669 und #8605: Stornofenster weiterhin offen.**
