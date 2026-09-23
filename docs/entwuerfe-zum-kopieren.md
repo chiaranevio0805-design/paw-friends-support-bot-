@@ -16455,6 +16455,112 @@ personenbezogenen Angaben über den Shop über das hinaus, was ohnehin
 veröffentlicht ist** — es wird auf die AGB verwiesen, nichts hinzugefügt.
 **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
 
+## #4792 — countrygal2473@rocketmail.com (Bestellung auf SHARON BARROWS) — US, ⛔ **zweimal abgelehnt, kündigt einen öffentlichen Beitrag an**
+
+**Betreff:** Re: A shipment from order #4792 is on the way
+
+> Hello,
+>
+> **You have been refused twice — on 7 September and again on 9 September — and
+> the second one was addressed to "Dear Customer". You have been asking since
+> 5 September. I am not going to send you a third refusal.**
+>
+> **On the post you are planning: that is your decision.** **I am not going to
+> ask you not to make it, and nothing here is conditional on you holding off.**
+> You do not need my agreement to say what happened to you.
+>
+> **What our record shows, so you are not relying on my word.** Order #4792 was
+> placed on **6 August** and not handed over for despatch until **22 August —
+> sixteen days.** **$38.36 is recorded on the order and nothing has been
+> refunded.**
+>
+> **On the advertising, which is what you actually raised on 5 September.** You
+> said the advert does not specify what kind of damage is covered and presents
+> the toys as made for any dog. **I have read all twelve of our current product
+> descriptions and "indestructible" is not in any of them** — **but I cannot
+> see the advertising that was put in front of you**, and **I am not going to
+> tell you what it said or explain it away.** **Your words go to the shop owner
+> exactly as you wrote them**, because he is the only person who can look at
+> the advertising itself. **That has not been done in the two replies you
+> received, and it should have been.**
+>
+> **What I can and cannot do.** I cannot approve a refund from this desk. **So
+> I am not going to promise you one — and I am not going to refuse you one
+> either. The two earlier refusals were not mine to make and I am not standing
+> behind them.** Your request is in front of the shop owner as you made it.
+>
+> **You do not need to send photographs**, and please do not post anything back
+> — we have no returns address I can give you.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Benennung der zwei Absagen und der
+„Dear Customer"-Anrede**, die **ausdrückliche Feststellung, dass diese Absagen
+hier nicht aufrechterhalten werden**, die ehrliche Auskunft zur Werbefrage, und
+die ungefragte Nennung der sechzehn Tage bis zum Versand. **Keine Erstattung
+zugesagt, kein Betrag zugesagt, kein Termin, keine dritte Absage.** **Kein
+Versuch, sie von dem angekündigten Beitrag abzubringen**, und **nichts davon
+abhängig gemacht.** **Keine Behauptung, das Wort „indestructible" existiere
+nicht.** **Keine Rekonstruktion der Anzeige.** **Kein Foto verlangt.** **Keine
+Anrede mit einem Vornamen** — die Absenderadresse trägt keinen Namen und die
+Nachricht ist nicht unterschrieben; **der auf der Bestellung hinterlegte Name
+wird nicht geraten.** **Keine Rücksendeadresse erfunden.** **Keine
+Umrechnung.** Kein Eskalationsmarker im Text.
+
+## #7457 — Sheree McGowan (shereemcg@gmail.com) — US, ⛔ **Erstattungsfrage mit der Kauschaden-Vorlage beantwortet**
+
+**Betreff:** Re: refund
+
+> Dear Sheree,
+>
+> **You asked on 19 September what you needed to do to get a refund. What came
+> back three days later was a standard text explaining why chewed toys are not
+> covered, addressed to "Dear Customer". That did not answer your question, and
+> I am not going to send you another copy of it.**
+>
+> **The answer to what you asked, plainly: the decision is not mine to make.**
+> I cannot approve a refund from this desk. **So I am not going to promise you
+> one and I am not going to refuse you one** — **and this morning's message
+> should not be read as a decision either.** Your request is in front of the
+> shop owner as you made it.
+>
+> **On the advertising.** You say it read as though the toys would be
+> indestructible, were made for hard chewers, and were guaranteed. **I have
+> read all twelve of our current product descriptions and "indestructible" is
+> not in any of them. That is not me telling you that you did not read it** — I
+> cannot see the advertising that was put in front of you, and **I am not going
+> to guess at it or defend it.** **What I can tell you is that where a 30-day
+> money-back guarantee appears in our own material, it appears without any
+> condition attached** — **which is not the same as what you were quoted this
+> morning.** **Your words and that difference both go to the shop owner.**
+>
+> **Your order.** #7457, placed **23 August**, not handed over for despatch
+> until **3 September — eleven days.** Two toys. **$38.90 recorded on the
+> order, nothing refunded.**
+>
+> **You do not need to send photographs**, and please do not post anything back
+> — we have no returns address I can give you.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass die Vorlage ihre Frage
+nicht beantwortet hat und keine Entscheidung ist**, die **überprüfbare Auskunft
+über den eigenen Garantietext** (ohne Bedingung — im Unterschied zum zitierten
+Text), die ehrliche Eingrenzung zur Werbung, und die ungefragte Nennung der elf
+Tage bis zum Versand. **Keine Erstattung zugesagt, kein Betrag zugesagt, kein
+Termin, keine Absage, keine zweite Vorlage.** **Keine rechtliche Bewertung der
+Bedingung.** **Keine Behauptung, das Wort „indestructible" existiere nicht.**
+**Kein Foto verlangt.** **Keine Rücksendeadresse erfunden.** **Keine
+Umrechnung.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
