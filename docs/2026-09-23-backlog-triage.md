@@ -640,3 +640,64 @@ nebeneinandergestellt** — **kein Lesefehler unterstellt, nichts verrechnet.**
 - **🔴 Zehn Geldzusagen ohne Ausführung**, unverändert.
 - **⏰⏰ Die Frist von #8295 läuft heute ab.**
 - **⏰ #8669 und #8605: Stornofenster weiterhin offen.**
+
+---
+
+## Lauf 17:20 UTC
+
+**Posteingang und Postausgang geprüft.** **Zwei neue Nachrichten — von
+derselben Kundin, zehn Minuten auseinander, in zwei getrennten Threads.**
+
+### #8456 — Cath Livesey (`cath.lives@icloud.com`), 23.09. 16:19 und 16:29 UTC — Erstkontakt
+
+**16:19, Betreff „Poor quality", ohne Bestellnummer:**
+
+> *„I have received 3 of the toys.. **very poor quality.** Can you please
+> **arrange a refund**"*
+
+**16:29, Betreff „ORDER 8456":**
+
+> *„Could you please **arrange a return and full refund** for the above order.
+> **The quality is shocking for the price of them**"*
+
+**Vorab-Suche:** zwei Threads, **beide von heute**, **Erstkontakt.** **Beide
+werden in einem Entwurf zusammengeführt**, damit der Vorgang nicht doppelt
+läuft oder halb untergeht.
+
+**Shopify (#8456):** bestellt **10.09.**, Versand **14.09.** (vier Tage — keine
+Verzögerung), **drei Plushies (hippo, Duck, frog) plus das E-Book**,
+**£34,95**, **0,00 £ erstattet**, Preston (GB), Yanwen `UL510080316YP`.
+
+**⚠️ `PARTIALLY_FULFILLED` — die E-Book-Position ist `unfulfilledQuantity: 1`.**
+**Achte Bestellung mit unausgelieferter E-Book-Position** (nach #8372, #7555,
+#6592, #6254, #6546, #2852, #7831). **Darauf wird sie im Entwurf ungefragt
+hingewiesen.**
+
+**⚠️ Sie schreibt nichts von Zerstörung oder Kauschaden** — nur von Qualität.
+**Ihr Fall wird ausdrücklich nicht als Kauschadenfall behandelt**, und es wird
+nichts über die Qualität der Artikel behauptet, in keine Richtung. **Kein Foto,
+kein Nachweis verlangt.**
+
+**⛔ Sie will zurücksenden. Es gibt keine Rücksendeadresse** — das steht an
+erster Stelle im Entwurf, mit der ausdrücklichen Bitte, nichts zu verschicken.
+**Siebte Kundin mit Rückgabewunsch ohne Rückgabeweg** (nach #6254, #8312,
+#7347, #8372, #7479, #7048).
+
+**Ihre Telefonnummer wird nicht verwendet und im Entwurf nicht erwähnt.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Vierzehn Kundenvorgänge am 23.09.**
+- **345 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⛔ Sieben Kunden wollen zurückgeben und können nicht:** #6254, #8312,
+  #7347, #8372, #7479, #7048, **#8456.**
+- **⚠️ Acht Bestellungen mit unausgelieferter E-Book-Position.**
+- **🔴 Zehn Geldzusagen ohne Ausführung**, unverändert.
+- **⏰⏰ Die Frist von #8295 läuft heute ab.**
+- **⏰ #8669 und #8605: Stornofenster weiterhin offen.**

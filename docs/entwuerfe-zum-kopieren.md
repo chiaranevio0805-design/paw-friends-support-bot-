@@ -17184,6 +17184,56 @@ aufgegriffen**, und **nichts zur Materialsicherheit gesagt.** **Keine
 Rücksendeadresse erfunden.** **Keine Umrechnung.** Kein Eskalationsmarker im
 Text.
 
+## #8456 — Cath Livesey (cath.lives@icloud.com) — GB, Erstkontakt, **Rückgabe und volle Erstattung verlangt**
+
+**Betreff:** Re: ORDER 8456
+
+> Dear Cath,
+>
+> **Thank you for both messages — they arrived ten minutes apart and I am
+> answering them together, so nothing gets handled twice or missed.**
+>
+> **You asked for a return and a full refund. Here is the honest answer to the
+> return half first, because it is the part that could cost you money: there is
+> no returns address I can give you.** We do not have one to hand out. **So
+> please do not post anything back** — **not because your request is refused,
+> but because there is nowhere for it to go.** I would rather tell you that now
+> than have you pay postage to nowhere.
+>
+> **On the refund itself: I cannot approve one from this desk, and I am not
+> going to refuse you one either.** That decision belongs to the shop owner.
+> **Your request is in front of him exactly as you made it — a return and a
+> full refund — with our records: order #8456, placed 10 September, despatched
+> 14 September, three toys, £34.95 recorded on the order, nothing refunded.**
+>
+> **One thing on your order that nobody has mentioned to you.** There is a
+> fourth item on #8456 — **the e-book — and it is still recorded as not sent.**
+> That is separate from everything above and it goes to him as well.
+>
+> **You have told me the quality is poor and you do not want to keep them. I am
+> taking that at face value.** **I am not going to ask you to photograph
+> anything, prove anything, or explain what your dog did or did not do** —
+> **you have not said the toys were damaged in use, and I am not going to treat
+> your message as though you had.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Zusammenführung ihrer beiden Nachrichten**, die
+**vorrangige Warnung, nichts zu verschicken** (keine Rücksendeadresse), die
+Weitergabe ihrer Bitte **wörtlich als Rückgabe plus volle Erstattung**, und der
+**ungefragte Hinweis auf die unausgelieferte E-Book-Position.** **Keine
+Erstattung zugesagt, kein Betrag zugesagt, kein Termin, keine Absage, keine
+Vorlagen-Antwort.** **Ihre Meldung wird ausdrücklich nicht als Kauschadenfall
+behandelt** — sie hat nichts dergleichen geschrieben. **Kein Foto und kein
+Nachweis verlangt.** **Keine Aussage über die Qualität der Artikel in die eine
+oder andere Richtung.** **Keine Rücksendeadresse erfunden.** **Ihre
+Telefonnummer wird nicht verwendet und nicht erwähnt.** Kein Eskalationsmarker
+im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
