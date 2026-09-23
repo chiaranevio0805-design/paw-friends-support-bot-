@@ -16561,6 +16561,64 @@ Bedingung.** **Keine Behauptung, das Wort „indestructible" existiere nicht.**
 **Kein Foto verlangt.** **Keine Rücksendeadresse erfunden.** **Keine
 Umrechnung.** Kein Eskalationsmarker im Text.
 
+## #7084 — Fiona Williams (fwjw1@optusnet.com.au) — **AU**, Erstkontakt, **verlangt ausdrücklich nichts**
+
+**Betreff:** Re: A shipment from order #7084 is on the way
+
+> Dear Fiona,
+>
+> **Thank you for telling us, and for the way you put it. Less than ten
+> minutes, and you are not asking us for anything — I am going to take both of
+> those at face value.**
+>
+> **So I am not going to turn your message into a claim you did not make.**
+> **But I am also not going to file it away as though nothing follows from
+> it.** **If you would like it passed on as a refund request, one line back
+> here is enough and it goes as that.** If you wanted us to know, it goes as
+> that. **Either is a complete answer and neither needs a reason.**
+>
+> **What is on the order, so you have it from us rather than having to ask.**
+> #7084, placed **22 August**, not handed over for despatch until
+> **2 September — twelve days.** Two toys. **A$54.25 recorded on the order,
+> nothing refunded.**
+>
+> **Because your order is an Australian one, here is our own published wording,
+> quoted exactly and without my interpretation:** our refund policy states that
+> Australian consumer guarantee rights *"are not limited by the requirement
+> that an item be unused or in its original packaging"*. **I am not going to
+> tell you what that means for your case — that is not mine to decide** — but
+> you are entitled to read it, and nobody has put it in front of you.
+>
+> **On the word.** You say the toys are not indestructible. **I have read all
+> twelve of our current product descriptions and "indestructible" is not in any
+> of them** — **but I cannot see the advertising that was put in front of you,
+> so I am not going to tell you what it said and I am certainly not going to
+> suggest you imagined it.** **Your sentence goes to the shop owner as you
+> wrote it.**
+>
+> **Your photographs arrived and have not been opened. You do not need to send
+> anything else**, and please do not post the toy back — we have no returns
+> address I can give you.
+>
+> If you decide you want something done and hear nothing back, reply here and I
+> will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Annahme ihrer Schilderung ohne Nachweisverlangen**,
+das **neutrale Angebot**, ihre Meldung auf ein Wort hin als Erstattungsbitte
+weiterzugeben, die ungefragte Nennung der zwölf Tage bis zum Versand, das
+**wörtliche Zitat der eigenen AU-Passage ohne Auslegung**, und die ehrliche
+Eingrenzung zur Werbung. **Keine Erstattung zugesagt, kein Ersatz zugesagt, kein
+Betrag zugesagt, kein Termin, keine Absage, keine Vorlagen-Antwort.** **Keine
+Deutung ihrer Nachricht als Forderung** — sie schreibt ausdrücklich, sie wolle
+nur Bescheid geben. **Keine rechtliche Bewertung.** **Keine Behauptung, das Wort
+„indestructible" existiere nicht.** **Fotos nicht geöffnet.** **Keine
+Rücksendeadresse erfunden.** **Keine Umrechnung** — 54,25 A$ ist der
+presentment-Betrag. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

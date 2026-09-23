@@ -118,3 +118,52 @@ zwei Plushies, **38,90 $ / £28,50**, **0,00 $ erstattet**, Robbinsville,
 - **⏰ #8669 und #8605: Stornofenster weiterhin offen.**
 - **🔴 Neun Geldzusagen ohne Ausführung**, unverändert.
 - **⛔🔴 #2894 und #3089 weiterhin ohne jede Antwort.**
+
+---
+
+## Lauf 06:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht (die Läufe 01:20
+bis 05:20 fanden nichts).
+
+### #7084 — Fiona Williams (`fwjw1@optusnet.com.au`), 23.09. 05:44 UTC — **AU**, Erstkontakt
+
+**Vorab-Suche nach älteren Threads desselben Absenders:** ein einziger Thread,
+**Erstkontakt.**
+
+**Im Volltext:**
+
+> *„Hello, **Just wanted to let you know that your dog toys are not
+> indestructible.** I took on the challenge with my dog and it took her **less
+> than ten minutes** to rip the blue elephant apart. I have attached…"*
+> — mit einem **Anhang (~22 MB)**, **nicht geöffnet.**
+
+**⚠️ Sie verlangt ausdrücklich nichts** — *„just wanted to let you know"*.
+**Die Meldung wird nicht als Erstattungsforderung ausgelegt**; stattdessen das
+neutrale Angebot, sie auf ein Wort hin so weiterzugeben, mit der ausdrücklichen
+Feststellung, dass beide Antworten vollständig sind. **Zugleich wird sie nicht
+einfach abgelegt.**
+
+**Shopify (#7084):** bestellt **22.08.**, Versand **02.09.** (**zwölf Tage**),
+zwei Plushies, **A$54,25 / £28,50**, **0,00 A$ erstattet**, Moama, **New South
+Wales (AU)**, Yanwen `VR959018187YP`. **Sechzehnter AU-Kunde** — die AU-Passage
+wird ihr **wörtlich** zitiert, nicht ausgelegt, mit dem Hinweis, dass sie ihr
+bisher niemand vorgelegt hat.
+
+**Fünfzigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention` (bestrittene Werbeaussage).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Drei Kundenvorgänge am 23.09.**
+- **334 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⚠️ Fünfzig unabhängige Kundenaussagen zur Werbung.**
+- **⏰⏰ Die Frist von #8295 läuft heute ab.**
+- **⏰ #8669 und #8605: Stornofenster weiterhin offen.**
+- **🔴 Neun Geldzusagen ohne Ausführung**, unverändert.
+- **⛔🔴 #2894 und #3089 weiterhin ohne jede Antwort.**
