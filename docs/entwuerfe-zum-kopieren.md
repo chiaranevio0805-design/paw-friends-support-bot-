@@ -16837,6 +16837,75 @@ keine erfunden wird. **Keine Aussage über die Größe oder Machart der Artikel.
 **Keine Aussage darüber, wo der Shop lagert** — danach wurde nicht gefragt.
 Kein Eskalationsmarker im Text.
 
+## #4919 — Em Gregory (greggz@live.co.uk) — GB, 🔴🔴 **40 % zweimal als „processed" bestätigt, nichts gebucht — und ihre Kernfrage seit dem 04.09. unbeantwortet**
+
+**Betreff:** Re: A shipment from order #4919 is on the way
+
+> Dear Em,
+>
+> **You are right, and I am not going to make you ask a fourth time.**
+>
+> **You were told on 8 September that the 40% refund had been processed. On
+> 15 September you said it had not arrived. On 17 September you were sent the
+> same sentence again, word for word. I have checked our own records: there is
+> no refund recorded against your order. Not a partial one, not any.** **I am
+> not going to repeat that confirmation to you a third time, because I cannot
+> stand behind it.**
+>
+> **The one limit on what I can see**, said plainly rather than left for you to
+> discover: I can only see payments made through our shop system. **If money
+> had been sent some other way it would not show here** — **but nothing in our
+> records suggests that happened, and after fifteen days I am not going to
+> offer you that as a comfortable explanation.**
+>
+> **Where this stands: you accepted 40% on 6 September. That is a settled
+> agreement on our side, not a request still waiting to be judged.** It has
+> gone to the shop owner as exactly that — **an accepted offer confirmed to you
+> as paid, twice, and not paid.** **£27.95 is recorded on the order and nothing
+> has been refunded.**
+>
+> **I cannot release money from this desk, so I am not going to give you a
+> date.** You have already had two confirmations that did not hold. **You will
+> not get a third from me that I cannot keep.**
+>
+> **And there is a question of yours from 4 September that nobody ever
+> answered.** You asked us to point you to the wording in our advertising that
+> explains the limits of the durability claim — particularly in relation to
+> normal chewing. **Here is the honest answer.** **I have read all twelve of
+> our current product descriptions. There is no such limitation in any of
+> them.** **The description of the toys you bought carries no guarantee wording
+> at all.** Where a 30-day money-back guarantee appears in our own marketing
+> material, **it appears without any condition attached** — **which is not the
+> wording that was quoted to you on 4 September.** **I am not going to tell you
+> what follows from that; that is not mine to decide, and you have set out your
+> own position on it clearly enough. But you asked a factual question and you
+> were entitled to a factual answer nineteen days ago.**
+>
+> **Your position under your statutory rights goes to the shop owner in your
+> own words, unedited.** **I am not qualified to rule on it and I am not going
+> to pretend the 40% settles it if you decide it does not.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it
+> again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Richtigstellung beider „processed"-Zusagen**
+gegen den Datenstand (`totalRefundedSet` 0,00, `refunds` leer), die **ehrliche
+Nennung der Grenze** der eigenen Sicht **ohne sie als Ausrede anzubieten**, die
+Einordnung als **angenommene, offene Vereinbarung**, und die **endliche Antwort
+auf ihre Frage vom 04.09.** (keine Einschränkung der Haltbarkeitsaussage in den
+zwölf Produktbeschreibungen; kein Garantietext auf der gekauften Seite; die
+Garantie im Marketing **ohne** Bedingung). **Keine neue Erstattung zugesagt,
+kein Betrag zugesagt, kein Termin, keine Absage.** **Die Zusicherung
+„processed" wird ausdrücklich nicht ein drittes Mal wiederholt.** **Keine
+rechtliche Bewertung ihrer Berufung auf gesetzliche Rechte** — sie geht
+unverändert an den Owner. **Keine Behauptung, die 40 % erledigten die Sache.**
+**Kein Foto verlangt.** **Keine Rücksendeadresse erfunden.** **Sie wird mit dem
+Namen angesprochen, mit dem sie unterschreibt.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

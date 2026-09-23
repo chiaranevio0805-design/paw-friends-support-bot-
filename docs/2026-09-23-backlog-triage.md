@@ -366,3 +366,77 @@ loszuschicken.**
 - **⏰⏰ Die Frist von #8295 läuft heute ab.**
 - **⏰ #8669 und #8605: Stornofenster weiterhin offen.**
 - **🔴 Neun Geldzusagen ohne Ausführung**, unverändert.
+
+---
+
+## Lauf 14:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht — **und sie ist
+die zehnte nicht ausgeführte Geldzusage.**
+
+### 🔴🔴 #4919 — Em Gregory (`greggz@live.co.uk`), 23.09. 13:40 UTC
+
+> *„Hi Lisa **Still nothing.** The experience is just going from **worst to
+> worse**!!!"*
+
+**Der belegte Verlauf:**
+
+| Datum | Vorgang |
+|---|---|
+| **02.09.** | *„These arrived today and it's already been chewed through… Can I have a refund please?"* |
+| **04.09.** | Kauschaden-Vorlage |
+| **04.09.** | *„you literally advertise them as **„can't be destroyed"** and it was in 15 minutes!!! I want a refund **under my consumer rights**"* |
+| **04.09.** | zweite Vorlage |
+| **04.09. 20:49** | **eine ausführliche, sorgfältig begründete Nachricht zu gesetzlichen Gewährleistungsrechten** — mit der Bitte: *„could you **point me towards the specific wording in your product advertising which explains the limitations of the durability claim**, particularly in relation to normal chewing"* |
+| **05.09.** | Angebot: **30 %** oder Ersatz |
+| **05.09.** | sie bittet um 50 % |
+| **06.09.** | Shop: Maximum **40 %** |
+| **06.09.** | **sie nimmt an** |
+| **08.09.** | *„I can confirm that the **40% partial refund has now been processed**"* |
+| **15.09.** | *„Can you confirm the refund has been processed? **Yet to hit my account**"* |
+| **17.09.** | **wortgleich dieselbe Bestätigung ein zweites Mal** |
+| **23.09.** | *„Still nothing."* |
+
+**Der Datenstand in Shopify (#4919):**
+
+- bestellt **07.08.**, Versand **22.08.** — **fünfzehn Tage**, der längste
+  bisher erfasste Vorlauf neben #5086
+- **£27,95**, **`totalRefundedSet`: 0,00 £**, **`refunds`: leere Liste**
+- 40 % wären **£11,18** gewesen. **Der Betrag steht nicht im Entwurf** — genannt
+  wird nur der auf der Bestellung verzeichnete Gesamtbetrag.
+
+**🔴 Zehnte Geldzusage ohne Ausführung** — und **der zweite Fall nach #6583, in
+dem dieselbe Bestätigung wortgleich zweimal gesendet wurde.** **Fünfzehn Tage
+seit der ersten.**
+
+**⚠️ Und ihre Kernfrage vom 04.09. ist seit neunzehn Tagen unbeantwortet.** Sie
+hat nicht um Kulanz gebeten, sondern um **eine Fundstelle**: wo in der Werbung
+die Haltbarkeitsaussage eingeschränkt wird. **Im Entwurf wird sie endlich
+beantwortet, und zwar überprüfbar:** **in keiner der zwölf
+Produktbeschreibungen steht eine solche Einschränkung**, die gekaufte Seite
+trägt **überhaupt keinen Garantietext**, und die Garantie im Marketing erscheint
+**ohne Bedingung** — **also nicht in der Fassung, die ihr am 04.09. zitiert
+wurde.** **Ohne rechtliche Folgerung.**
+
+**Ihre Berufung auf gesetzliche Rechte geht unverändert an den Owner.** **Keine
+Bewertung, keine Behauptung, die 40 % erledigten die Sache.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Acht Kundenvorgänge am 23.09.**
+- **339 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **🔴 Zehn Geldzusagen ohne Ausführung:** #4812, #7884, #7179, #6546, #6583,
+  #5148, #6259, #4998, #7060 — und **#4919 (£11,18, zweimal als „processed"
+  bestätigt).**
+- **⚠️ Zwei Fälle, in denen dieselbe Zusage wortgleich zweimal gesendet wurde:**
+  #6583 und **#4919.**
+- **⚠️ Zweiundfünfzig unabhängige Kundenaussagen zur Werbung** — #4919 zitiert
+  *„can't be destroyed"*.
+- **⏰⏰ Die Frist von #8295 läuft heute ab.**
+- **⏰ #8669 und #8605: Stornofenster weiterhin offen.**
