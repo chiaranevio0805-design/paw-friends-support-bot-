@@ -440,3 +440,119 @@ Bewertung, keine Behauptung, die 40 % erledigten die Sache.**
   *„can't be destroyed"*.
 - **⏰⏰ Die Frist von #8295 läuft heute ab.**
 - **⏰ #8669 und #8605: Stornofenster weiterhin offen.**
+
+---
+
+## Lauf 15:20 UTC
+
+**Posteingang und Postausgang geprüft.** Drei neue Nachrichten — **und eine
+davon deckt einen Fehler auf, der bisher falsch eingeordnet war.**
+
+### ⛔ #7989 — Karen Reynolds (`House54@outlook.com.au`), 23.09. 15:11 UTC — **eine schriftlich bestätigte Variante kam nie auf die Bestellung**
+
+> *„I wrote to you a few days ago saying I only got half my order as the Frog
+> was missing. You then replied you would look into why that happened. **Then I
+> received another email from you saying due to damage the warranty isn't
+> valid.** **I'm not disputing warranty as my dog hasn't destroyed the item as
+> we never received it all.** … As I never got the Frog and it is still in one
+> piece as it wasn't sent. **Please refund the cost of the Frog.** The Hippo is
+> great, but really not happy with this situation."*
+
+**🟦 Der Verlauf enthält etwas, das bisher nicht im Protokoll stand:**
+
+| Datum | Vorgang |
+|---|---|
+| **28.08.** | Sie bittet um Bestätigung: *„Can I please confirm my order is for **1x Hippo and 1x Frog**"* |
+| **30.08.** | **Der Shop bestätigt schriftlich:** *„I can confirm that your order request is for **1 × Hippo, 1 × Frog**. We'll make sure your requested selection is **noted for your order**."* |
+| **17.09.** | Nur der Hippo kommt an — **mit Foto**, das zeigt, dass die Verpackung für zwei Artikel zu klein ist |
+| **19.09.** | *„We have forwarded the details to our team for investigation"* |
+| **21.09.** | **Kauschaden-Vorlage** |
+| **23.09.** | diese Nachricht |
+
+**Der Datenstand in Shopify (#7989):** **eine einzige Position — `quantity: 2`,
+`variantTitle: "hippo"`.** **Kein Frosch auf der Bestellung, zu keinem
+Zeitpunkt.** Das Fulfillment verzeichnet **beide Hippos** als versandt.
+**A$53,87** gezahlt (Listenpreis A$116, Zwei-für-eins), **0,00 A$ erstattet**,
+Upper Coomera, **Queensland (AU)**.
+
+**⚠️ Damit sind es zwei getrennte Fehler, nicht einer:**
+
+1. **Eine am 30.08. schriftlich zugesagte Variantenänderung wurde nie auf die
+   Bestellung übernommen.**
+2. **Von zwei als versandt verzeichneten Artikeln ist einer nicht angekommen.**
+
+**Im Entwurf werden beide getrennt benannt und nicht ineinandergefaltet.**
+**Die Kauschaden-Absage vom 21.09. wird ausdrücklich als falsch bezeichnet und
+nicht aufrechterhalten.**
+
+**⚠️ Kein Regel-4-Fall.** Sie hat einen Hippo erhalten, und die Bestellung
+verzeichnet Hippos — **es ist keine falsche Variante geliefert worden, sondern
+eine zugesagte Variante wurde nie bestellt und ein bezahlter Artikel fehlt.**
+**Deshalb wird von hier nichts erstattet.**
+
+**Kein Betrag für den Frosch genannt** — A$53,87 ist der Paarpreis, und **aus
+einem Bundle wird kein Anteil geschätzt.** **Das steht auch im Entwurf, damit
+niemand halbiert.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### ⛔ #7440 — Aaron Kell (`aaron.kell30@gmail.com`), 23.09. 14:32 UTC — zweiter Kontakt
+
+> *„That is absolutely unacceptable. **The product is marketed as
+> indestructible**, yet it was destroyed by a small breed dog in only a few
+> days. … **I shouldn't be penalized because your advertising is
+> misleading.**"*
+
+**Seine Nachricht vom 20.09.** (*„advertised that **no dog has ever destroyed
+one**"*) **wurde am 22.09. mit der Kauschaden-Vorlage beantwortet, „Dear
+Customer".**
+
+**Im Entwurf wird ihm überprüfbar gesagt, dass die Garantie in unserem eigenen
+Material ohne Bedingung erscheint** — **anders als in der ihm zitierten
+Fassung** — und **dass die Nachricht vom 22.09. keine Entscheidung war.**
+
+**Shopify (#7440):** bestellt 23.08., Versand **03.09.** (**elf Tage**), zwei
+Plushies, **38,90 $ / £28,50**, **0,00 $ erstattet**, Newport,
+**Pennsylvania (US)**.
+
+**Dreiundfünfzigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### #8432 — Colin Teager (`tiggerbcfc@gmail.com`), 23.09. 14:49 UTC — **Sendung seit neun Tagen ohne Aktualisierung**
+
+> *„Hi **Where is my delivery**"*
+
+**Shopify (#8432):** bestellt **09.09.**, Versand **14.09.** (fünf Tage), zwei
+Plushies, **£27,95**, **0,00 £ erstattet**, Birmingham (GB), Yanwen
+`UL510080231YP`. **`updatedAt == createdAt` — seit neun Tagen keine
+Aktualisierung.**
+
+**Im Entwurf steht das offen: wenn sich die Sendungsverfolgung für ihn nicht
+bewegt, bewegt sie sich für uns auch nicht.** **Keine Beschwichtigung, kein
+Liefertermin, kein Verweis an den Versanddienstleister.** **Er verlangt nichts**
+— neutrales Angebot.
+
+**Dritte Sendung ohne Aktualisierung** neben #8080 (15 Tage) und #8483
+(9 Tage).
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Elf Kundenvorgänge am 23.09.**
+- **342 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4 — **auch #7989 nicht**, trotz der Fehlmenge.
+- **🟦 Neuer Befund: eine schriftlich zugesagte Variantenänderung (#7989,
+  30.08.) wurde nie auf die Bestellung übernommen.** **Das ist eine andere
+  Fehlerklasse als die bisherigen und sollte im Admin geprüft werden — es kann
+  weitere geben.**
+- **⚠️ Drei Sendungen ohne Aktualisierung seit Versand:** #8080 (15 Tage),
+  #8483 (9 Tage), **#8432** (9 Tage).
+- **🔴 Zehn Geldzusagen ohne Ausführung**, unverändert.
+- **⚠️ Dreiundfünfzig unabhängige Kundenaussagen zur Werbung.**
+- **⏰⏰ Die Frist von #8295 läuft heute ab.**
+- **⏰ #8669 und #8605: Stornofenster weiterhin offen.**
