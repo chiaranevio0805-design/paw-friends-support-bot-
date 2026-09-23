@@ -252,3 +252,54 @@ thematisiert.
 - **🔴 Neun Geldzusagen ohne Ausführung**, unverändert.
 - **⛔🔴 #2894 und #3089 weiterhin ohne jede Antwort** — und **#8142 ist jetzt
   der dritte Fall, in dem jemand mehrfach schreibt und gar nichts bekommt.**
+
+---
+
+## Lauf 11:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht.
+
+### ⛔ #3387 — Graeme Everett (`graeme.everett@sky.com`), 23.09. 10:36 UTC — **zweiter Kontakt, seine erste Nachricht blieb unbeantwortet**
+
+**Er hat seine eigene Mail vom 21.09. an uns zurückgeschickt:**
+
+> *„Hello **Very disappointed that you've not responded to my email below**"*
+> — weitergeleitet, darunter sein Erstkontakt vom **21.09. 10:07**:
+> *„I believe you've advertised these toys as indestructible well my beagle has
+> managed it. Please see photo attached and **advise your next steps**."*
+
+**Am 21.09. wurde ein Entwurf für ihn geschrieben. Gesendet wurde nie etwas.**
+
+**⚠️ Das ist innerhalb von zwei Stunden der zweite Kunde, der seine eigene
+Nachricht erneut schickt, weil nichts zurückkam** (nach #8142 um 09:47) — **und
+der dritte binnen drei Tagen** (nach #7041 am 22.09.).
+
+**Shopify (#3387):** bestellt **25.07.**, Versand **29.07.** (vier Tage —
+**keine Verzögerung**), zwei Plushies, **£27,95**, **0,00 £ erstattet**, South
+Shields (GB).
+
+**Seine Frage nach den nächsten Schritten wird im Entwurf direkt beantwortet** —
+einschließlich der offenen Auskunft, dass es von hier aus keine befriedigenden
+gibt und **keine Rücksendeadresse existiert.** **Foto nicht geöffnet**, und das
+wird ihm gesagt. **Kein Termin genannt.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Sechs Kundenvorgänge am 23.09.**
+- **337 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⛔ Vier Kunden schreiben inzwischen zum zweiten oder dritten Mal, ohne je
+  eine Antwort bekommen zu haben:** #2894, #3089, #8142, **#3387.** **Drei
+  davon haben einen neuen Thread aufgemacht oder ihre eigene Mail
+  weitergeleitet** — in einer Thread-Ansicht sieht das jedes Mal aus wie ein
+  neuer Kunde.
+- **⚠️ Einundfünfzig unabhängige Kundenaussagen zur Werbung**, unverändert
+  (#3387 war bereits am 21.09. gezählt).
+- **⏰⏰ Die Frist von #8295 läuft heute ab.**
+- **⏰ #8669 und #8605: Stornofenster weiterhin offen.**
+- **🔴 Neun Geldzusagen ohne Ausführung**, unverändert.

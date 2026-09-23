@@ -16731,6 +16731,55 @@ presentment-Betrag. **Sie wird mit dem Namen angesprochen, mit dem sie
 unterschrieben hat** (die Bestellung lautet auf einen längeren Vornamen —
 **nicht geraten, nicht thematisiert**). Kein Eskalationsmarker im Text.
 
+## #3387 — Graeme Everett (graeme.everett@sky.com) — GB, ⛔ **zweiter Kontakt, keine Antwort auf den ersten**
+
+**Betreff:** Re: Fwd: Elephant toy
+
+> Dear Graeme,
+>
+> **You wrote on 21 September asking what our next steps were, and nobody
+> replied. You should not have had to forward your own email back to us to get
+> an answer. That is our failure, not a delay you caused.**
+>
+> **So, the next steps, plainly and without anything dressed up.**
+>
+> - **I cannot approve a refund or a replacement from this desk**, and **I am
+>   not going to refuse you either.** That decision belongs to the shop owner.
+> - **Your case is now in front of him** with our records: **order #3387,
+>   placed 25 July, despatched 29 July, two Plushies, £27.95 recorded on the
+>   order, nothing refunded.**
+> - **Please do not post the toy back** — **we have no returns address I can
+>   give you.** I would rather tell you that now than have you pay postage to
+>   nowhere.
+> - **Your photograph arrived and has not been opened. You do not need to send
+>   anything else**, and nothing here depends on it.
+>
+> **On the advertising.** You said you believe the toys were advertised as
+> indestructible. **I have read all twelve of our current product descriptions
+> and the word is not in any of them.** **That is not me telling you that you
+> did not see it** — I cannot see the advertising that was put in front of you,
+> and **I am not going to guess at it or explain it away.** **Your sentence
+> goes to the shop owner exactly as you wrote it**, because he is the only
+> person who can look at the advertising itself.
+>
+> **I am not going to give you a date for his decision, because I would be
+> making it up.** If you have heard nothing in a few days, reply here and I
+> will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass seine erste Nachricht
+unbeantwortet blieb**, die **direkte Beantwortung seiner Frage nach den
+nächsten Schritten** — einschließlich der Auskunft, dass es von hier keine
+befriedigenden gibt —, die ehrliche Eingrenzung zur Werbung, und eine
+Nachfass-Zusage. **Keine Erstattung zugesagt, kein Ersatz zugesagt, kein
+Betrag zugesagt, kein Termin, keine Absage, keine Vorlagen-Antwort.** **Keine
+Behauptung, das Wort „indestructible" existiere nicht.** **Keine Rekonstruktion
+der Anzeige.** **Foto nicht geöffnet**, und das wird ihm gesagt. **Keine
+Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
