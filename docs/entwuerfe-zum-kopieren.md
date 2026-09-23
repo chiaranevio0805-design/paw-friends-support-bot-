@@ -17234,6 +17234,74 @@ oder andere Richtung.** **Keine Rücksendeadresse erfunden.** **Ihre
 Telefonnummer wird nicht verwendet und nicht erwähnt.** Kein Eskalationsmarker
 im Text.
 
+## #7749 — Adrian Vincent-Janes (adrian@vincent-janes.com) — GB, ⛔ **Trading Standards angekündigt; Rücksendeetikett verlangt; Sicherheitshinweis zum zweiten Mal**
+
+**Betreff:** Re: A shipment from order #7749 is on the way
+
+> Dear Adrian,
+>
+> **You asked three separate things on 21 September and the reply you got the
+> next day answered none of them. It was a standard text and it was addressed
+> to "Dear Customer". I am not going to send you another one.**
+>
+> **Taking your three points one at a time, because they are not the same
+> thing.**
+>
+> **1. The free return label you asked for.** **There is none, and there is no
+> returns address I can give you either.** We do not have one to hand out.
+> **So please do not post anything back.** **That is not a refusal of your
+> claim — it is the state of things, and you were entitled to hear it two days
+> ago instead of a policy paragraph.**
+>
+> **2. The refund you asked for under the guarantee in the advertisement.**
+> **I cannot approve it from this desk and I am not going to refuse it
+> either** — that decision is the shop owner's. **What I can tell you is what
+> is checkable from here:** I have read all twelve of our current product
+> descriptions, and **"indestructible" is not in any of them**; the description
+> of the toys you bought **carries no guarantee wording at all**; and where a
+> **30-day money-back guarantee** does appear in our own marketing material,
+> **it appears without any condition attached** — **which is not the version
+> that was quoted to you on 22 September.** **I cannot see the advertisement
+> you actually read, so I am not going to tell you what it said, and I am
+> certainly not going to suggest you misremember it. Your words go to him as
+> you wrote them.**
+>
+> **3. The filling, and your dogs.** **You have now raised this twice** — that
+> you took the toys away because of what is inside them. **That is recorded,
+> and it goes to the shop owner as a safety concern in its own right, not
+> folded into the refund question.** **I am not going to tell you the filling
+> is safe and I am not going to tell you it is unsafe. I am not qualified to,
+> and a reassurance from me would be worth nothing to you.** **Only he can
+> answer it properly.**
+>
+> **On Trading Standards: that is entirely your decision.** **I am not going to
+> ask you to hold off, and nothing here depends on you doing so.**
+>
+> **What is on the order:** #7749, placed **25 August**, not handed over for
+> despatch until **3 September — nine days** — two toys, **£27.95 recorded on
+> the order, nothing refunded.**
+>
+> **You do not need to send photographs.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **getrennte Behandlung seiner drei Punkte**
+(Rücksendeetikett, Erstattung, Sicherheitshinweis), die **klare Auskunft, dass
+es weder Etikett noch Rücksendeadresse gibt**, die überprüfbare Auskunft über
+den eigenen Text, und die **eigenständige Weitergabe seines Sicherheitshinweises**
+als solcher. **Keine Erstattung zugesagt, kein Betrag zugesagt, kein Termin,
+keine Absage, keine zweite Vorlage.** **Keine Aussage über die Füllung oder die
+Materialsicherheit, in keine Richtung** — und ausdrücklich gesagt, warum nicht.
+**Keine rechtliche Bewertung.** **Kein Versuch, ihn von Trading Standards
+abzubringen**, und nichts davon abhängig gemacht. **Keine Behauptung, das Wort
+„indestructible" existiere nicht.** **Keine Rekonstruktion der Anzeige.**
+**Keine Rücksendeadresse und kein Etikett erfunden.** **Kein Foto verlangt.**
+Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

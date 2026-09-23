@@ -701,3 +701,72 @@ erster Stelle im Entwurf, mit der ausdrücklichen Bitte, nichts zu verschicken.
 - **🔴 Zehn Geldzusagen ohne Ausführung**, unverändert.
 - **⏰⏰ Die Frist von #8295 läuft heute ab.**
 - **⏰ #8669 und #8605: Stornofenster weiterhin offen.**
+
+---
+
+## Lauf 18:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht.
+
+### ⛔ #7749 — Adrian Vincent-Janes (`adrian@vincent-janes.com`), 23.09. 17:53 UTC — **Trading Standards angekündigt**
+
+> *„I am very disappointed with your products and **response to my email**…
+> Your product does not live up to the advertising and **I will be sending an
+> email (which will include my original email to you and your response) to
+> Trading Standards**… You can only tell if something is indestructible **after
+> a dog has been playing with the toy for a couple of days**. It only took our
+> dog less than an hour… **now the dogs do not have the toys as destroyed and
+> also unsafe with all the rubbish filling.**"*
+
+**Sein Erstkontakt vom 21.09. enthielt drei getrennte Bitten, von denen keine
+beantwortet wurde:**
+
+1. **volle Erstattung** *„under the 30 day satisfaction guarantee that you
+   offered in your advertisement"*
+2. **ein kostenloses Rücksendeetikett** (*„you can provide a FREE return
+   shipping label"*)
+3. **ein Sicherheitshinweis:** *„too dangerous, especially if they ingest,
+   swallow the rubbish filling inside the toy"*
+
+**Am 22.09. kam darauf die Kauschaden-Vorlage, „Dear Customer".**
+
+**Im Entwurf werden alle drei getrennt behandelt.** **Es gibt kein
+Rücksendeetikett und keine Rücksendeadresse** — das steht ausdrücklich drin,
+samt der Feststellung, dass er das schon vor zwei Tagen hätte hören müssen.
+
+**⚠️ Zum Sicherheitshinweis:** Er hat ihn **zum zweiten Mal** erhoben. Nach
+`support-policy.md` wird **nichts zur Materialsicherheit gesagt, in keine
+Richtung** — im Entwurf steht ausdrücklich, dass weder Sicherheit noch
+Unsicherheit behauptet wird und warum. **Der Hinweis geht eigenständig an den
+Owner, nicht in die Erstattungsfrage eingefaltet.** **Das ist die vierte
+Sicherheitsmeldung insgesamt** (nach #6283, andysire, #8406, #7608).
+
+**Er benennt außerdem den logischen Bruch der Bedingung** — *„You can only tell
+if something is indestructible after a dog has been playing with it"* —
+**sechster Kunde** nach #7541, #6254, #6311, #8407, #7771.
+
+**Shopify (#7749):** bestellt **25.08.**, Versand **03.09.** (**neun Tage**),
+zwei Plushies (fox, Elk), **£27,95**, **0,00 £ erstattet**, Richmond upon
+Thames (GB).
+
+**Fünfter Trading-Standards-/Klarna-Fall** (nach #6384, #5148, #6259, #7048).
+**Vierundfünfzigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Fünfzehn Kundenvorgänge am 23.09.**
+- **346 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⚠️ Vier Sicherheitsmeldungen insgesamt:** #6283, `andysire`, #8406, #7608 —
+  **und #7749 erhebt seine zum zweiten Mal.** **Zu keiner wurde je etwas zur
+  Materialsicherheit gesagt, und das bleibt so.**
+- **⚠️ Sechs Kunden benennen den logischen Bruch der Bedingung.**
+- **⚠️ Vierundfünfzig unabhängige Kundenaussagen zur Werbung.**
+- **🔴 Zehn Geldzusagen ohne Ausführung**, unverändert.
+- **⏰⏰ Die Frist von #8295 läuft heute ab.**
+- **⏰ #8669 und #8605: Stornofenster weiterhin offen.**
