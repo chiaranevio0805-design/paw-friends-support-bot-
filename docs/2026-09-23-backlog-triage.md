@@ -303,3 +303,66 @@ wird ihm gesagt. **Kein Termin genannt.**
 - **⏰⏰ Die Frist von #8295 läuft heute ab.**
 - **⏰ #8669 und #8605: Stornofenster weiterhin offen.**
 - **🔴 Neun Geldzusagen ohne Ausführung**, unverändert.
+
+---
+
+## Lauf 12:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht.
+
+### ⛔ #7048 — Josephine Carr (`jocarr247@yahoo.com`), 23.09. 11:25 UTC — **vierter Kontakt, will an eine „UK department" zurücksenden**
+
+> *„**Stop with the stupid offers** after what i paid… **I want a full refund
+> and will send them back to your UK department (as they haven't been
+> opened).** Or I want **at least 70 % partial refund** and the items will go
+> in the rubbish bin.. **PLEASE REPLY ASAP, or I will pass it onto Klarna** to
+> solve,, **and report this company to Trading Standards**"*
+
+**⚠️ Der dringendste Punkt ist nicht die Erstattung, sondern das Porto.** **Sie
+kündigt an, die Ware an eine „UK department" zu schicken. Die gibt es nicht,
+und es gibt keine Rücksendeadresse.** **Im Entwurf steht das an erster Stelle,
+mit der ausdrücklichen Bitte, nichts zu verschicken — und mit dem Satz, dass
+hier keine Adresse erfunden wird, nur um die Mail leichter zu schreiben.**
+
+**Belegter Verlauf:** 03.09. *„Where is my parcel?"* · 04.09. Versandauskunft
+(*„Our UK warehouse is currently sold out, so your order was shipped from our
+international warehouse"* — **die Herkunft wurde ihr vom Shop selbst
+genannt**) · 04.09. sie will die Ware nach Bewertungen nicht behalten ·
+**15.09. „They haven't been opened"** · 17.09. **30 %** · 18.09. abgelehnt ·
+**21.09. 40 %** · 21.09. abgelehnt · **23.09.** diese Nachricht.
+
+**⚠️ Ihre Artikel sind seit dem 15.09. ungeöffnet — und das wurde in keiner der
+beiden Antworten erwähnt.** Stattdessen kamen zwei Prozentangebote, die beide
+davon ausgingen, dass sie die Ware behält. **Im Entwurf wird festgehalten, dass
+ihre Ware die Bedingung der eigenen Garantieformulierung erfüllt** — **ohne
+daraus eine Entscheidung abzuleiten.**
+
+**Kein drittes Prozentangebot.** **Kein Versuch, sie von Klarna oder Trading
+Standards abzubringen.**
+
+**Shopify (#7048):** bestellt **21.08.**, Versand **02.09.** (**zwölf Tage**),
+zwei Plushies, **£27,95**, **0,00 £ erstattet**, Darlington (GB).
+
+**⛔ Sechste Kundin mit ungeöffneter Ware ohne Rückgabeweg** — nach #6254,
+#8312, #7347, #8372, #7479. **Und die erste, die konkret ankündigt, ein Paket
+loszuschicken.**
+
+**Vierter Klarna-/Trading-Standards-Fall** (nach #6384, #5148, #6259).
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Sieben Kundenvorgänge am 23.09.**
+- **338 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⛔ Sechs Kunden mit ungeöffneter Ware ohne Rückgabeweg:** #6254, #8312,
+  #7347, #8372, #7479, **#7048** — **und #7048 will jetzt tatsächlich etwas
+  abschicken.**
+- **⚠️ Einundfünfzig unabhängige Kundenaussagen zur Werbung**, unverändert.
+- **⏰⏰ Die Frist von #8295 läuft heute ab.**
+- **⏰ #8669 und #8605: Stornofenster weiterhin offen.**
+- **🔴 Neun Geldzusagen ohne Ausführung**, unverändert.

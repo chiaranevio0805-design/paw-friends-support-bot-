@@ -16780,6 +16780,63 @@ Behauptung, das Wort „indestructible" existiere nicht.** **Keine Rekonstruktio
 der Anzeige.** **Foto nicht geöffnet**, und das wird ihm gesagt. **Keine
 Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
 
+## #7048 — Josephine Carr (jocarr247@yahoo.com) — GB, ⛔ **vierter Kontakt, will an eine „UK department" zurücksenden, die es nicht gibt**
+
+**Betreff:** Re: #7048
+
+> Dear Miss Carr,
+>
+> **No more offers. You have had 30% and then 40%, and both were sent to you
+> instead of an answer. I am not going to send you a third percentage.**
+>
+> **The part of your message I have to answer first, because it would cost you
+> money.** You said you will send the toys back to our UK department. **Please
+> do not.** **There is no returns address I can give you** — we do not have one
+> to hand out, and **I am not going to invent one to make this email easier to
+> write.** **Anything you post will not reach a returns desk**, and you would
+> be paying for the postage.
+>
+> **I would rather tell you that plainly than let you find out afterwards.**
+>
+> **What you have actually asked for is on the record as you put it:** **a full
+> refund with the unopened toys returned, or failing that at least 70%.** **I
+> cannot approve either from this desk** — not the full refund, not a
+> percentage. **So I am not going to promise you anything and I am not going to
+> refuse you.** It goes to the shop owner exactly as you wrote it, with our
+> records: **order #7048, placed 21 August, not handed over for despatch until
+> 2 September — twelve days — two toys, £27.95 recorded on the order, nothing
+> refunded, the toys unopened since you received them, and two partial offers
+> already made and rejected.**
+>
+> **One thing in your favour that has not been written down anywhere.** **You
+> told us on 15 September that the toys had not been opened, and that is still
+> the case.** **The condition our own guarantee wording asks for — unused, in
+> original condition — is one your items meet.** **I am not going to tell you
+> what follows from that, because that is the shop owner's to decide** — but it
+> should be in front of him, and now it is.
+>
+> **On Klarna and Trading Standards: both are entirely your decision.** **I am
+> not going to ask you to hold off, and nothing here depends on you doing so.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **vorrangige Warnung, nichts zu verschicken** (es gibt
+keine „UK department" und keine Rücksendeadresse), die **wörtliche Übernahme
+ihrer Forderung** (volle Erstattung mit Rückgabe **oder** mindestens 70 %), die
+**Feststellung, dass ihre Ware die zitierte Bedingung erfüllt**, und die
+Weitergabe mit allen Daten. **Keine Erstattung zugesagt, kein Prozentsatz
+zugesagt, kein Betrag genannt, kein Termin, keine Absage.** **Kein drittes
+Prozentangebot.** **Keine rechtliche Bewertung.** **Kein Versuch, sie von
+Klarna oder Trading Standards abzubringen**, und nichts davon abhängig
+gemacht. **Keine Rücksendeadresse erfunden** — und ausdrücklich gesagt, dass
+keine erfunden wird. **Keine Aussage über die Größe oder Machart der Artikel.**
+**Keine Aussage darüber, wo der Shop lagert** — danach wurde nicht gefragt.
+Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
