@@ -17302,6 +17302,65 @@ abzubringen**, und nichts davon abhängig gemacht. **Keine Behauptung, das Wort
 **Keine Rücksendeadresse und kein Etikett erfunden.** **Kein Foto verlangt.**
 Kein Eskalationsmarker im Text.
 
+## #8476 — Jerry Runge (jeromerunge@msn.com) — US, **erste Nachfrage nie angekommen, Sendung seit neun Tagen ohne Aktualisierung**
+
+**Betreff:** Re: Waiting On My Order #8476
+
+> Dear Jerry,
+>
+> **You say you wrote more than two weeks ago and heard nothing. I have
+> searched this mailbox and your message of today is the only one I can find
+> from you.** **That is not me telling you that you did not write** — **we have
+> more than one address in use, and a message sent to a different one would not
+> appear here.** **Either way, you asked a straightforward question and did not
+> get an answer, and that is not on you.**
+>
+> **The answer, as far as our records go.** Order #8476 was placed on
+> **11 September** and handed over for despatch on **14 September**, with the
+> reference **JDW101426369010** (D&S Express). **Our record shows no update
+> against that despatch since the day it was created — nine days.**
+>
+> **So if the tracking has not moved for you, it has not moved for us either. I
+> am not going to tell you it is on its way when all I can see is the same
+> thing you can.**
+>
+> **And I am not going to give you a delivery date, because I would be making
+> it up.** **That is the honest answer to what you asked, not a satisfying
+> one.**
+>
+> **I am not going to send you to the carrier either.** **Chasing a parcel we
+> despatched is not your job.**
+>
+> **One thing on the order that nobody has mentioned to you.** There is a
+> further item on #8476 — **the e-book — and it is still recorded as not
+> sent.** That is separate from the parcel and it goes to the shop owner too.
+>
+> **You have not asked me for anything beyond an update, and I am not going to
+> decide on your behalf.** **But if you would rather have this passed on as a
+> refund request than as a tracing request, one line back here is enough.**
+> **$52.95 is recorded on the order and nothing has been refunded.** Either way
+> it is now in front of him.
+>
+> If you have heard nothing in a few days, reply here and I will chase it
+> again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ehrliche Auskunft zur nicht auffindbaren ersten
+Nachricht** — **ohne ihm zu unterstellen, er habe nicht geschrieben**, und mit
+dem offenen Hinweis, dass mehrere Adressen im Einsatz sind —, die überprüfbare
+Auskunft mit Datum und Referenz, die **Feststellung, dass seit neun Tagen keine
+Aktualisierung vorliegt**, die **ausdrückliche Weigerung, einen Liefertermin zu
+nennen**, **kein Verweis an den Versanddienstleister**, der **ungefragte Hinweis
+auf die unausgelieferte E-Book-Position**, und das neutrale Angebot. **Keine
+Erstattung zugesagt, kein Termin, keine Absage.** **Keine Aussage darüber, wo
+das Paket ist.** **Keine Aussage zur Herkunft der Sendung** — danach wurde nicht
+gefragt. **Keine Deutung seiner Frage als Forderung.** **Die Trinkgeldposition
+wird nicht erwähnt und nicht verrechnet.** **Er wird mit dem Namen angesprochen,
+mit dem er unterschreibt.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

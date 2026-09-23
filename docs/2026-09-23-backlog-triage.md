@@ -770,3 +770,66 @@ Thames (GB).
 - **🔴 Zehn Geldzusagen ohne Ausführung**, unverändert.
 - **⏰⏰ Die Frist von #8295 läuft heute ab.**
 - **⏰ #8669 und #8605: Stornofenster weiterhin offen.**
+
+---
+
+## Lauf 19:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht (nach dem
+Abendreport eingegangen).
+
+### #8476 — Jerry Runge (`jeromerunge@msn.com`), 23.09. 18:37 UTC
+
+> *„I am following up regarding Order #8476. **I contacted you more than two
+> weeks ago to request an estimated delivery date, but I have not yet received
+> a response.** I received an order confirmation on September 11 and a shipment
+> notification on September 14, but **I still do not have a clear delivery
+> estimate**… the **delay in communication** has been frustrating."*
+
+**⚠️ Vorab-Suche über Adresse und Bestellnummer: seine heutige Nachricht ist die
+einzige auffindbare.** **Im Entwurf wird ihm das offen gesagt — ausdrücklich
+ohne ihm zu unterstellen, er habe nicht geschrieben** — **zusammen mit dem
+Hinweis, dass mehrere Shop-Adressen im Einsatz sind und eine Mail an eine andere
+hier nicht erscheinen würde.** **Das ist derselbe blinde Fleck wie bei #7555 und
+#3387.**
+
+**Shopify (#8476):** bestellt **11.09.**, Versand **14.09.** (drei Tage — keine
+Verzögerung), **drei Plushies (donkey, elephant, Duck) plus E-Book plus eine
+Trinkgeldposition**, **52,95 $ / £39,20**, **0,00 $ erstattet**, Cumming,
+**Georgia (US)**, D&S Express `JDW101426369010`.
+
+**⚠️ `updatedAt == createdAt` — seit dem 14.09. keine Aktualisierung, neun
+Tage.** **Vierte Sendung ohne Aktualisierung** neben #8080 (15 Tage), #8483 und
+#8432 (je 9 Tage). **Im Entwurf steht das offen: bewegt sich die
+Sendungsverfolgung für ihn nicht, bewegt sie sich für uns auch nicht.** **Kein
+Liefertermin genannt, kein Verweis an den Versanddienstleister.**
+
+**⚠️ `PARTIALLY_FULFILLED` — die E-Book-Position ist offen.** **Neunte
+Bestellung mit unausgelieferter E-Book-Position** (nach #8372, #7555, #6592,
+#6254, #6546, #2852, #7831, #8456). **Ungefragt genannt.**
+
+**Die Trinkgeldposition wird im Entwurf nicht erwähnt und nicht verrechnet.**
+
+**Er verlangt nichts außer einer Auskunft** — neutrales Angebot statt Deutung.
+
+**Label:** `Bot/Escalated - Owner Attention` (wiederholter unerledigter
+Kontakt).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Sechzehn Kundenvorgänge am 23.09.** (einer nach dem Abendreport).
+- **347 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⚠️ Vier Sendungen ohne Aktualisierung seit Versand:** #8080 (15 Tage),
+  #8483, #8432, **#8476** (je 9 Tage).
+- **⚠️ Neun Bestellungen mit unausgelieferter E-Book-Position.**
+- **⚠️ Fünfter Kunde, dessen frühere Nachricht hier nicht auffindbar ist** —
+  der zweite Posteingang (`paw-friends.uk@paw-friends.uk`) bleibt ein blinder
+  Fleck.
+- **🔴 Zehn Geldzusagen ohne Ausführung**, unverändert.
+- **⏰ Die Frist von #8295 ist heute abgelaufen, ohne dass etwas geschehen ist.**
+- **⏰ #8669 und #8605: Stornofenster weiterhin offen.**
+- **📤 Der Entwurf für #8476 steht in keinem Abendreport** — er entstand danach.
