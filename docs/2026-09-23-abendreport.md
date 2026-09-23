@@ -1075,13 +1075,15 @@ grundsätzlich nicht.
 
 ### Summe
 
-**Summe der bezifferten Beträge in GBP: 386,29 £.**
-(114,13 £ zugesagt · 208,71 £ nie angekommen/defekt · 63,45 £ unbenutzt)
+**Summe der bezifferten Beträge in GBP: 406,09 £.**
+(114,13 £ zugesagt · 27,95 £ vor Versand storniert · 200,56 £ nie
+angekommen/defekt · 63,45 £ unbenutzt)
 
 **Zusätzlich in USD/AUD, nicht umgerechnet: 116,92 $ (#4812) · 96,89 $ (#8372) ·
 41,55 $ (#6546) · 38,19 $ (#8669) · 24,32 $ (#7179) · 8,30 $ (#7884).**
 
-**Zwölf Positionen sind nicht beziffert**, weil der Anteil je Position aus den
+**Dreizehn Positionen sind nicht beziffert** (#5148, #6259, #7060, #7970,
+#7048, #8456, #7347, #8312, #6254, #7479, #7989, #6656, #7608), weil der Anteil je Position aus den
 **Kaching-Bundle-Preisen nicht errechenbar** ist — die Listenpreise summieren
 sich nicht auf den gezahlten Gesamtbetrag. **Diese Anteile müssen im
 Shopify-Admin bestimmt werden; hier wird nichts geschätzt.** **Es wird nichts
