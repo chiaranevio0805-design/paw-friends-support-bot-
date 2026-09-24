@@ -17895,6 +17895,61 @@ abzubringen**, und nicht um Entfernung gebeten. **Keine rechtliche Bewertung
 der Formulierung „false advertising".** **Die Fotos werden nicht geöffnet**,
 nur ihr Vorhandensein vermerkt. Kein Eskalationsmarker im Text.
 
+## #8484 — Sue Quick (quick.suzanne@gmail.com) — GB, **Erstkontakt, fragt nach dem Rückgabeweg**
+
+**Betreff:** Re: Destroyed
+
+> Dear Sue,
+>
+> **You asked one clear question — how to return the toy — and you are entitled
+> to a clear answer rather than a policy paragraph.**
+>
+> **The honest answer is that there is no returns address.** **We do not have
+> one to give you, and I am not going to invent one to make this email easier
+> to write.** **So please do not post the toy anywhere** — it would cost you
+> postage and you would most likely lose the item as well. **That is not a
+> refusal of anything. It is simply where things stand, and you should not have
+> to find it out by sending a parcel.**
+>
+> **On a refund: I cannot approve one from this desk and I am not going to
+> refuse one either.** **That decision is the shop owner's, and your message
+> goes to him today in your own words.** **I am not going to promise you an
+> answer or a date, because I do not control either.**
+>
+> **I am also not going to make a claim about the toy in either direction** —
+> not to defend it, and not to agree with you about it. **You told us what
+> happened and it is recorded exactly as you wrote it.**
+>
+> **On the wait.** Here are the dates, so you can see them rather than take my
+> word: order #8484 was placed on **12 September** and handed over for despatch
+> on **14 September**. **The two days at our end were not the problem; what
+> followed was, and it was not visible to you at any point.** **I am not going
+> to send you to the carrier about it.**
+>
+> **You have taken photographs. You do not need to send them** — nothing here
+> depends on you proving anything, and I would rather you did not have to.
+>
+> **What is on the order:** #8484, one toy, **£19.95 recorded on the order,
+> nothing refunded to date.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **direkte Beantwortung ihrer einzigen Frage** — es gibt
+keine Rücksendeadresse —, mit ausdrücklicher Bitte, nichts zu verschicken, und
+Warnung vor Porto- und Warenverlust; die **überprüfbaren Versanddaten**; und die
+Weitergabe an den Owner. **Keine Erstattung zugesagt, kein Betrag, kein Termin,
+keine Absage, keine Kauschaden-Vorlage.** **Keine Aussage über die Qualität oder
+Haltbarkeit des Artikels, in keine Richtung.** **Nichts über die Garantie
+behauptet** — sie hat sie nicht angerufen. **Kein Foto verlangt**, ausdrücklich
+abbestellt. **Kein Verweis an den Versanddienstleister.** **Keine Aussage zur
+Herkunft der Sendung.** **Sie wird mit dem Namen angesprochen, mit dem sie
+unterschreibt** (die Bestellung lautet auf „Suzanne"). Kein Eskalationsmarker
+im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

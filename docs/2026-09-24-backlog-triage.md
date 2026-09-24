@@ -434,3 +434,60 @@ Nachrichten.
 - **⚠️ Siebenundfünfzig unabhängige Kundenaussagen zur Werbung.**
 - **⏰⏰ Drei offene Stornofenster:** #8781, #8669, #8605.
 - **🔴 Zehn Geldzusagen ohne Ausführung**, unverändert.
+
+---
+
+## Lauf 18:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht.
+
+### #8484 — Sue Quick (`quick.suzanne@gmail.com`), 24.09. 17:55 UTC — Erstkontakt
+
+**Vorab-Suche:** ein einziger Thread, **Erstkontakt.**
+
+> *„I received my dogs **indestructible** toy monkey yesterday after **having to
+> wait some considerable time for delivery.** I gave my dog the toy and he
+> destroyed it within 6 minutes… **Please could you advise me how to return
+> this item to you.** I have also taken photos of the toy for confirmation."*
+
+**Shopify (#8484):** bestellt **12.09.**, Versand **14.09.** (**zwei Tage —
+keine Verzögerung an unserer Seite**), ein Plushies („monkey"), **£19,95**,
+**0,00 £ erstattet**, Exeter (GB), Yanwen `UL510080205YP`. **Zugestellt am
+23.09. nach ihrer eigenen Angabe — neun Tage Transit.**
+
+**Sie stellt genau eine Frage: wie sie zurücksenden kann.** **Im Entwurf steht
+die Antwort an erster Stelle: es gibt keine Rücksendeadresse**, mit der
+ausdrücklichen Bitte, nichts zu verschicken. **Achte Kundin mit Rückgabewunsch
+ohne Rückgabeweg** (nach #6254, #8312, #7347, #8372, #7479, #7048, #8456).
+
+**Zur Wartezeit werden die Daten offen genannt** — die zwei Tage bis zur
+Übergabe waren nicht das Problem, der Transit danach war es. **Kein Verweis an
+den Versanddienstleister, keine Aussage zur Herkunft der Sendung.**
+
+**Sie hat Fotos gemacht.** **Sie werden nicht verlangt und nicht geöffnet** —
+im Entwurf wird ihr ausdrücklich gesagt, dass sie nichts vorlegen muss.
+
+**Keine Kauschaden-Vorlage.** **Keine Aussage über die Qualität, in keine
+Richtung.** **Sie ruft die Garantie nicht an — es wird nichts darüber
+behauptet.**
+
+**Achtundfünfzigste unabhängige Kundenaussage zur Werbung** (sie nennt den
+Artikel *„indestructible toy monkey"*).
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Dreizehn Kundenvorgänge am 24.09.**
+- **358 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⛔ Acht Kunden wollen zurückgeben und können nicht:** #6254, #8312, #7347,
+  #8372, #7479, #7048, #8456, **#8484.**
+- **⚠️ Achtundfünfzig unabhängige Kundenaussagen zur Werbung.**
+- **⏰⏰ Drei offene Stornofenster:** #8781, #8669, #8605.
+- **🟥 Der Serienversand vom 24.09.** (mindestens fünfzehn Nachrichten) bleibt
+  der Hauptbefund des Tages.
+- **🔴 Zehn Geldzusagen ohne Ausführung**, unverändert.
