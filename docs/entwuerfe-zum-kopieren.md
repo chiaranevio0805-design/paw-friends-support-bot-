@@ -17950,6 +17950,47 @@ Herkunft der Sendung.** **Sie wird mit dem Namen angesprochen, mit dem sie
 unterschreibt** (die Bestellung lautet auf „Suzanne"). Kein Eskalationsmarker
 im Text.
 
+## #8781 — Glenn Yarbrough (glennyarbrough@gmail.com) — US, **zweiter Kontakt, fünf Stunden später, Stornofenster weiterhin offen**
+
+**Betreff:** Re: Order #8781 confirmed
+
+> Dear Glenn,
+>
+> **You wrote at 15:42 and again at 20:29, and nothing came back to you in
+> between. That is on us, not on you, and I am sorry you had to ask twice.**
+>
+> **To your question — whether it is still possible to cancel:** **as of right
+> now, our record still shows order #8781 as unfulfilled, with nothing
+> despatched and no despatch even requested.** **Nothing has changed since you
+> first wrote.** **So on the facts as they stand, yes, nothing has gone out.**
+>
+> **What I am still not going to do is tell you it is cancelled**, because I
+> cannot carry the cancellation out myself and I will not say something has
+> happened when it has not. **$37.69 is recorded as paid and nothing has been
+> refunded.**
+>
+> **Your request is with the shop owner, marked urgent, with both of your
+> timestamps on it.** **I am not going to give you a date, because it is his to
+> set and I would be guessing.**
+>
+> **You do not need to write a third time for this to stay on his desk.** **If
+> you would rather take it up with your payment provider in the meantime, that
+> is entirely your decision and nothing here depends on you waiting.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Anerkennung der ausgebliebenen Antwort als eigenes
+Versäumnis**, die **erneut geprüfte, überprüfbare Auskunft zum Stand der
+Bestellung** (unversandt, kein Versand angefordert, nichts erstattet,
+`updatedAt` unverändert seit 15:21 UTC), und die dringliche Weitergabe mit
+**beiden** Zeitstempeln. **Keine Stornierung zugesagt, keine Erstattung
+zugesagt, kein Termin.** **Nicht behauptet, die Bestellung sei storniert.**
+**Nicht behauptet, sie sei versandt.** **Kein Versuch, ihn von seinem
+Zahlungsdienstleister abzubringen**, und nichts davon abhängig gemacht.
+**Keine Aufforderung, erneut zu schreiben.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

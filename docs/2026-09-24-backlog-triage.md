@@ -491,3 +491,68 @@ Artikel *„indestructible toy monkey"*).
 - **🟥 Der Serienversand vom 24.09.** (mindestens fünfzehn Nachrichten) bleibt
   der Hauptbefund des Tages.
 - **🔴 Zehn Geldzusagen ohne Ausführung**, unverändert.
+
+---
+
+## Lauf 21:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht.
+
+### ⏰⏰ #8781 — Glenn Yarbrough (`glennyarbrough@gmail.com`), 24.09. 20:29 UTC — **zweiter Kontakt**
+
+> *„I requested earlier to cancel order #8781 as I had entered order
+> erroneously. **Is it possible to cancel since she has not occurred?**
+> Thanks, Glenn Yarbrough"* — **er hat die Bestellbestätigung an uns
+> weitergeleitet**, weil auf seine erste Bitte nichts zurückkam.
+
+**Vier Stunden und siebenundvierzig Minuten nach seiner ersten Nachricht.**
+**Damit ist er der fünfte Kunde binnen drei Tagen, der seine eigene Mail
+weiterleitet oder erneut schreibt, weil nichts zurückkam** (nach #7041, #8142,
+#3387, #7608).
+
+**Shopify (#8781), erneut geprüft:** **`UNFULFILLED`**, **`PAID`**,
+**`fulfillments`: leere Liste**, **`fulfillmentOrders: OPEN /
+UNSUBMITTED`**, **`cancelledAt: null`**, **`updatedAt` unverändert
+`2026-09-24T15:21:13Z`**, **0,00 $ erstattet.** **Seit seiner ersten Bitte hat
+sich nichts bewegt — weder zu seinen Gunsten noch dagegen.**
+
+**Im Entwurf wird seine Frage direkt beantwortet** — auf dem Datenstand ist
+nichts hinausgegangen —, **ohne zu behaupten, die Bestellung sei storniert.**
+**`orderCancel` bleibt gesperrt.** **Die ausgebliebene Antwort wird als eigenes
+Versäumnis benannt.** **Kein Versuch, ihn von seinem Zahlungsdienstleister
+abzubringen.**
+
+**Label:** `Bot/Escalated - Owner Attention` (zeitkritisch, zweiter Kontakt).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Dreizehn Kundenvorgänge am 24.09.** (#8781 zählt weiter als **ein**
+  Vorgang, jetzt mit zwei Kontakten).
+- **359 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⏰⏰ Drei offene Stornofenster:** **#8781** (zweimal gebeten, fünf Stunden
+  ohne Antwort, Datensatz unverändert), **#8669**, **#8605.**
+- **⛔ Fünf Kunden haben binnen drei Tagen ihre eigene Mail weitergeleitet oder
+  erneut geschrieben, weil nichts zurückkam:** #7041, #8142, #3387, #7608,
+  **#8781.**
+- **🟥 Der Serienversand vom 24.09.** (mindestens fünfzehn Nachrichten) bleibt
+  der Hauptbefund des Tages.
+- **🔴 Zehn Geldzusagen ohne Ausführung**, unverändert.
+
+---
+
+## Tagesabschluss 24.09.
+
+- **Dreizehn Kundenvorgänge**, davon **elf eskaliert**, **eins Needs
+  Approval** (#8270), **eins ohne Aktion** (#7813).
+- **359 Entwürfe in der Datei, keiner in Gmail.** **Es wurde an keinem Punkt
+  des Tages eine Nachricht aus diesem Lauf heraus gesendet** — das Konto kann
+  es nicht.
+- **Keine Erstattung, keine Stornierung, kein Regel-4-Fall.**
+- **Hauptbefund:** der Serienversand von mindestens fünfzehn Vorlagen aus dem
+  Shop-Konto zwischen 12:25 und 12:40 UTC, und der belegte Wortlaut beider
+  Vorlagen, die eine Garantiebedingung behaupten, **die im eigenen Marketing
+  nicht steht.**
