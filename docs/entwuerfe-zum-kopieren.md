@@ -17788,6 +17788,47 @@ Herkunft der Sendung** — danach wurde nicht gefragt. **Die Bild-Anhänge stamm
 aus der Shopify-Versandmail und werden nicht geöffnet.** Kein
 Eskalationsmarker im Text.
 
+## #8781 — Glenn Yarbrough (glennyarbrough@gmail.com) — US, **Stornowunsch 21 Minuten nach der Bestellung, nichts versandt**
+
+**Betreff:** Re: Order #8781 confirmed
+
+> Dear Glenn,
+>
+> **Thank you for telling us straight away — you wrote 21 minutes after the
+> order was placed, and there is no need to apologise for a mistake caught that
+> quickly.**
+>
+> **What our record shows right now:** order #8781 was placed today at
+> **15:20 UTC**. **It is recorded as unfulfilled, nothing has been despatched,
+> and no despatch has even been requested.** **$37.69 is recorded as paid and
+> nothing has been refunded.**
+>
+> **I am not going to tell you it is cancelled, because I cannot carry out the
+> cancellation myself and I am not going to claim something has happened when
+> it has not.** **What I can tell you is that nothing has gone out, so the
+> request has reached us in time on the facts as they stand.**
+>
+> **Your request is going to the shop owner now, marked urgent, with the times
+> on it.** **I am not going to give you a date for the refund, because that is
+> his to set and I would be guessing.**
+>
+> If you have heard nothing in a couple of days, reply here and I will chase
+> it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **überprüfbare Auskunft zum Stand der Bestellung** —
+unversandt, kein Versand angefordert, nichts erstattet —, die **ausdrückliche
+Feststellung, dass die Stornierung von hier aus nicht ausgeführt werden kann**,
+und die **dringliche Weitergabe an den Owner mit Zeitstempeln.** **Keine
+Stornierung zugesagt, keine Erstattung zugesagt, kein Termin.** **Nicht
+behauptet, die Bestellung sei storniert.** **Nicht behauptet, sie sei bereits
+versandt** — der Fehler aus #8669 wird hier nicht wiederholt. **Keine
+Entschuldigung von ihm verlangt und keine Begründung nachgefragt.** Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

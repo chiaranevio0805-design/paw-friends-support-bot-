@@ -308,3 +308,58 @@ still).
   Tages**, unverändert.
 - **🔴 Zehn Geldzusagen ohne Ausführung**, unverändert.
 - **⏰ #8669 und #8605: Stornofenster weiterhin offen.**
+
+---
+
+## Lauf 16:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht — **und sie ist
+zeitkritisch.**
+
+### ⏰⏰ #8781 — Glenn Yarbrough (`glennyarbrough@gmail.com`), 24.09. 15:42 UTC — **Storno 21 Minuten nach der Bestellung**
+
+**Vorab-Suche:** ein einziger Thread, **Erstkontakt.**
+
+> *„**I would like to cancel this order prior to shipping.** My apologies but
+> **I made the order in error.** Thanks"*
+
+**Shopify (#8781):** bestellt **heute, 24.09. um 15:20:59 UTC** —
+**`displayFulfillmentStatus: UNFULFILLED`**, **`displayFinancialStatus: PAID`**,
+**`fulfillments`: leere Liste**, **`fulfillmentOrders: OPEN /
+requestStatus: UNSUBMITTED`**, **`cancelledAt: null`**,
+`updatedAt` = **vierzehn Sekunden** nach der Bestellung. Zwei Plushies
+(„pig", „Elk"), **37,69 $**, **0,00 $ erstattet**, Benton, **Arkansas (US)**.
+
+**⏰ Zwischen Bestellung und Stornowunsch liegen einundzwanzig Minuten.** **Es
+ist nichts versandt — und ein Versand wurde nicht einmal angefordert.** **Das
+ist der klarste Stornofall, der hier bisher aufgetreten ist.**
+
+**`orderCancel` ist für dieses Konto gesperrt** (`{"blocked":true,
+"category":"financial"}`), **also wird von hier aus nichts storniert.**
+
+**Im Entwurf wird ihm ausdrücklich nicht gesagt, die Bestellung sei
+storniert** — nur, was der Datensatz zeigt, und dass die Ausführung beim Owner
+liegt. **Der Fehler aus #8669 — einem Kunden fälschlich zu sagen, die Ware sei
+„already shipped" — wird hier nicht wiederholt.** **Kein Erstattungstermin
+genannt.**
+
+**⏰ Drittes offenes Stornofenster** neben **#8669** ($38,19, am 22.09. auf
+falscher Grundlage abgelehnt) und **#8605.**
+
+**Label:** `Bot/Escalated - Owner Attention` (zeitkritisch).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Elf Kundenvorgänge am 24.09.**
+- **356 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⏰⏰ Drei offene Stornofenster:** **#8781** (21 Minuten alt, nichts
+  versandt), **#8669** ($38,19, Ablehnung ohne Grundlage im Datensatz),
+  **#8605.**
+- **⚠️ Fünf Sendungen ohne Aktualisierung seit Versand**, unverändert.
+- **🟥 Der Serienversand vom 24.09. 12:25–12:40 UTC** bleibt der Hauptbefund
+  des Tages.
+- **🔴 Zehn Geldzusagen ohne Ausführung**, unverändert.
