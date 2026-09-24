@@ -18067,6 +18067,48 @@ Rekonstruktion der Anzeige.** **Ihr Datum (21.08.) wird nicht gegen den
 Bestellsatz korrigiert.** **Die Fotos werden nicht geöffnet**, nur ihr
 Vorhandensein vermerkt. Kein Eskalationsmarker im Text.
 
+## Anfrage ohne Bestellung — hephzibahogunbiyi96@gmail.com, **Wortlaut mehrdeutig, kein Kundenkonto**
+
+**Betreff:** Re: Aw are u doing
+
+> Hello,
+>
+> **Thank you for writing in. I want to help, but I do not want to guess at
+> what you are asking and send you the wrong answer.**
+>
+> **Your message reads "Aw do I pay pls", and I am genuinely not certain what
+> it is asking.** **Rather than assume, I would rather ask you:**
+>
+> - **Are you asking how to pay for an order you are trying to place?**
+> - **Or is there a problem with a payment you have already made?**
+> - **Or is it something else entirely?**
+>
+> **One line back is enough and I will take it from there.**
+>
+> **I could not find an order or a customer record under this email address**,
+> so if you have already ordered, it may have been placed under a different
+> address — **if you have an order number, that would help most of all.**
+>
+> **One thing regardless of the answer: please do not send card details, bank
+> details or any payment information by email.** **We will never ask you for
+> them this way, and I would not be able to use them if you did.** **Payment is
+> only ever taken through the checkout on the website itself.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** **keine.** Eine **Rückfrage statt einer Deutung** — der
+Wortlaut ist mehrdeutig und wird ausdrücklich nicht ausgelegt —, die offene
+Auskunft, dass **unter dieser Adresse weder Bestellung noch Kundenkonto
+auffindbar ist**, **ohne ihr zu unterstellen, sie habe nicht bestellt**, und
+die **unaufgeforderte Warnung, keine Zahlungsdaten per E-Mail zu senden.**
+**Keine Zahlungsdaten angefordert, in keiner Form.** **Kein Zahlungslink und
+keine Zahlungsanweisung verschickt.** **Keine Erstattung, kein Betrag, kein
+Termin zugesagt.** **Nicht geraten, was „Aw" heißen soll.** **Keine Anrede mit
+einem geratenen Namen** — es liegt kein Kundenname vor. Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

@@ -617,3 +617,51 @@ Bilder werden nicht geöffnet, nur ihr Vorhandensein vermerkt.
   beider Vorlagen mit einer Garantiebedingung, **die im eigenen Marketing nicht
   steht.**
 - **📤 Der Entwurf für #6893 steht in keinem Abendreport** — er entstand danach.
+
+---
+
+## Lauf 23:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht.
+
+### Anfrage ohne Bestellung — `hephzibahogunbiyi96@gmail.com`, 24.09. 22:28 UTC
+
+**Vorab-Suche:** ein einziger Thread, **Erstkontakt.**
+
+**Die Nachricht vollständig** — Betreff *„Aw are u doing"*, Text:
+
+> *„Aw do I pay pls"*
+
+**⚠️ Der Wortlaut ist mehrdeutig, und er wird nicht ausgelegt.** Es liegt nahe,
+„Aw" als „How" zu lesen, **aber das ist eine Vermutung, und nach der stehenden
+Regel wird mehrdeutige Kundenformulierung nicht gedeutet.** **Im Entwurf steht
+deshalb eine Rückfrage mit drei möglichen Lesarten, nicht eine Antwort auf die
+geratene.**
+
+**Shopify:** **keine Bestellung und kein Kundendatensatz unter dieser
+Adresse** — `orders` leer, `customers` leer. **Im Entwurf wird ihr das offen
+gesagt, ausdrücklich ohne ihr zu unterstellen, sie habe nicht bestellt**, und
+mit dem Hinweis, dass eine Bestellnummer am meisten helfen würde.
+
+**⚠️ Es geht um Bezahlung.** **Im Entwurf steht unaufgefordert die Warnung,
+keine Karten-, Bank- oder Zahlungsdaten per E-Mail zu senden**, und dass wir
+danach nie auf diesem Weg fragen. **Es wurden keine Zahlungsdaten angefordert,
+kein Zahlungslink verschickt und keine Zahlungsanweisung gegeben.**
+
+**Kein Name vorhanden** — es wird keiner geraten; die Anrede bleibt neutral.
+
+**Label:** `Bot/Needs Approval`.
+
+---
+
+### Tagesabschluss 24.09. — zweite Fortschreibung
+
+- **Fünfzehn Kundenvorgänge**, davon **zwölf eskaliert**, **zwei Needs
+  Approval** (#8270, die Zahlungsanfrage), **eins ohne Aktion** (#7813).
+- **361 Entwürfe in der Datei, keiner in Gmail.**
+- **Keine Erstattung, keine Stornierung, kein Regel-4-Fall.**
+- **⏰⏰ Drei offene Stornofenster:** #8781 (zweimal gebeten), #8669, #8605.
+- **🟥 Hauptbefund bleibt der Serienversand** von mindestens fünfzehn Vorlagen
+  aus dem Shop-Konto zwischen 12:25 und 12:40 UTC.
+- **📤 Zwei Entwürfe stehen in keinem Abendreport** — #6893 und die
+  Zahlungsanfrage; beide entstanden danach.
