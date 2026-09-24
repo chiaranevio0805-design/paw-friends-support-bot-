@@ -556,3 +556,64 @@ abzubringen.**
   Shop-Konto zwischen 12:25 und 12:40 UTC, und der belegte Wortlaut beider
   Vorlagen, die eine Garantiebedingung behaupten, **die im eigenen Marketing
   nicht steht.**
+
+---
+
+## Lauf 22:20 UTC — **nach dem Tagesabschluss eingegangen**
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht, **21:24 UTC —
+nach dem oben notierten Tagesabschluss.** Der Abschluss wird unten
+fortgeschrieben.
+
+### #6893 — Eloise Newbrook (`eloise.newbrook@gmail.com`), 24.09. 21:24 UTC — **AU**, Erstkontakt
+
+**Vorab-Suche:** ein einziger Thread, **Erstkontakt.**
+
+**Im Volltext:**
+
+> *„My order 6893 from **21st of August 2026**, **finally arrived yesterday,
+> 23rd September 2026.** It lasted a total of **6 hours**, and 2 of those the
+> dog wasn't with the toy. **Absolutely not as advertised.** **Please start
+> progressing the money back guarantee.** Thank you. Eloise and Rua."*
+
+**Shopify (#6893):** bestellt **20.08. 23:23 UTC** — **in Melbourne ist das der
+21.08., ihr Datum stimmt und wird nicht korrigiert** —, Versand **02.09.**
+(**dreizehn Tage**), ein Plushies („fox"), **A$39,00**, **0,00 A$ erstattet**,
+Kensington, **Victoria (AU)**, 4PX `4PX3003122368048CN`. **Ankunft nach ihrer
+Angabe 23.09. — vierunddreißig Tage von der Bestellung bis zur Haustür.**
+
+**⚠️ Sie ist in Australien, und das ist hier nicht nebensächlich.** Die
+**eigene veröffentlichte Refund Policy** enthält einen Abschnitt
+**„Australia — Consumer Guarantees"**, in dem steht, die dortigen Rechte seien
+*„not limited by the requirement that an item be unused or in its original
+packaging."* **Das ist der eigene Text, nicht meine Auslegung.** **Im Entwurf
+wird er wörtlich wiedergegeben — ausdrücklich ohne rechtliche Folgerung und
+ohne Aussage darüber, was er für ihren Fall bedeutet.** **Das geht an den
+Owner.**
+
+**Zur Frist wird nichts behauptet.** Sie nennt selbst die dreißig Tage; **es
+wird weder gesagt, sie seien eingehalten, noch, sie seien abgelaufen.**
+
+**Keine Kauschaden-Vorlage.** **Keine Aussage darüber, wie lange der Artikel
+hätte halten sollen, in keine Richtung.** **Kein Foto verlangt** — die beiden
+Bilder werden nicht geöffnet, nur ihr Vorhandensein vermerkt.
+
+**Neunundfünfzigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Tagesabschluss 24.09. — fortgeschrieben
+
+- **Vierzehn Kundenvorgänge**, davon **zwölf eskaliert**, **eins Needs
+  Approval** (#8270), **eins ohne Aktion** (#7813).
+- **360 Entwürfe in der Datei, keiner in Gmail.**
+- **Keine Erstattung, keine Stornierung, kein Regel-4-Fall.**
+- **⚠️ Neunundfünfzig unabhängige Kundenaussagen zur Werbung.**
+- **⏰⏰ Drei offene Stornofenster:** #8781 (zweimal gebeten), #8669, #8605.
+- **🟥 Hauptbefund bleibt der Serienversand** von mindestens fünfzehn Vorlagen
+  aus dem Shop-Konto zwischen 12:25 und 12:40 UTC, samt dem belegten Wortlaut
+  beider Vorlagen mit einer Garantiebedingung, **die im eigenen Marketing nicht
+  steht.**
+- **📤 Der Entwurf für #6893 steht in keinem Abendreport** — er entstand danach.

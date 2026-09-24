@@ -17991,6 +17991,82 @@ zugesagt, kein Termin.** **Nicht behauptet, die Bestellung sei storniert.**
 Zahlungsdienstleister abzubringen**, und nichts davon abhängig gemacht.
 **Keine Aufforderung, erneut zu schreiben.** Kein Eskalationsmarker im Text.
 
+## #6893 — Eloise Newbrook (eloise.newbrook@gmail.com) — AU, **Erstkontakt, ruft die 30-Tage-Garantie an, 34 Tage Lieferzeit**
+
+**Betreff:** Re: 30 day money back
+
+> Dear Eloise,
+>
+> **Thank you for being precise about the dates — it makes this much easier to
+> answer honestly.**
+>
+> **First, the wait, because it is the part I can state plainly.** Your order
+> was placed on **21 August** and **was not handed over for despatch until
+> 2 September — thirteen days**, and it then reached you on **23 September**.
+> **That is more than a month from order to doorstep, and nobody told you
+> anything in between.** **That part is ours and I am not going to explain it
+> away.**
+>
+> **Second, the guarantee you have asked us to progress.** **I cannot approve
+> it from this desk and I am not going to refuse it either** — that decision is
+> the shop owner's, and your message goes to him with your dates on it, in your
+> own words.
+>
+> **What I can tell you is what our own published material says**, because you
+> should not have to take my word for any of it:
+>
+> - Our **refund policy** contains a section headed **"Australia — Consumer
+>   Guarantees"**, and that section states that rights under it **"are not
+>   limited by the requirement that an item be unused or in its original
+>   packaging."** **That is our own published wording. I am not a lawyer and I
+>   am not going to tell you what it means for your case** — but you are
+>   entitled to know it is there, and it goes to him alongside your message.
+> - I have read all twelve of our current product descriptions. **The word
+>   "indestructible" is not in any of them**, and **the description of the toy
+>   you bought carries no guarantee wording at all.** Where a **30-day
+>   money-back guarantee** does appear in our own marketing material, **it
+>   appears without any condition attached to it.**
+>
+> **I cannot see the advertisement you actually saw, so I am not going to tell
+> you what it said, and I am not going to suggest you misread it.**
+>
+> **I am also not going to make a claim about how long the toy should have
+> lasted.** You told us what happened and it is recorded exactly as you wrote
+> it.
+>
+> **One thing before you do anything with it: there is no returns address.**
+> **We do not have one to give you.** **So please do not post it back from
+> Australia** — the postage alone would be significant and you would lose the
+> item on top of it.
+>
+> **Your photographs are on the file and you do not need to send anything
+> further.**
+>
+> **What is on the order:** #6893, one toy, **A$39.00 recorded on the order,
+> nothing refunded to date.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Benennung der Lieferzeit** (dreizehn Tage bis
+zur Übergabe, Ankunft 23.09., über einen Monat insgesamt) **als eigener
+Fehler**, die **wörtliche Wiedergabe des eigenen, veröffentlichten
+AU-Abschnitts der Refund Policy** — **ausdrücklich ohne Auslegung und ohne
+rechtliche Folgerung** —, die überprüfbare Auskunft über den eigenen
+Produkttext, und die **klare Auskunft, dass es keine Rücksendeadresse gibt**,
+mit Warnung vor Porto- und Warenverlust bei einer Sendung aus Australien.
+**Keine Erstattung zugesagt, kein Betrag, kein Termin, keine Absage.** **Keine
+rechtliche Bewertung und keine Aussage darüber, was der AU-Abschnitt für ihren
+Fall bedeutet.** **Keine Frist genannt außer den dreißig Tagen, die sie selbst
+nennt** — **und keine Aussage darüber, ob sie eingehalten ist.** **Keine
+Aussage zur Haltbarkeit oder Qualität, in keine Richtung.** **Keine
+Rekonstruktion der Anzeige.** **Ihr Datum (21.08.) wird nicht gegen den
+Bestellsatz korrigiert.** **Die Fotos werden nicht geöffnet**, nur ihr
+Vorhandensein vermerkt. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
