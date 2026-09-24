@@ -17739,6 +17739,55 @@ Facebook-Anzeige, auf die er sich beruft.** **Keine Aussage zur Qualität oder
 Haltbarkeit, in keine Richtung.** **Kein Foto verlangt.** Kein
 Eskalationsmarker im Text.
 
+## #8079 — Nick Wright (wrighty90@hotmail.co.uk) — GB, **Erstkontakt, Sendung seit sechzehn Tagen ohne Aktualisierung**
+
+**Betreff:** RE: A shipment from order #8079 is on the way
+
+> Dear Nick,
+>
+> **You asked me to either tell you when it is coming or refund you. I can give
+> you a straight answer to the first part, and I am not going to dress it up.**
+>
+> Order #8079 was placed on **29 August** and was not handed over for despatch
+> until **8 September — ten days.** It went out with the reference
+> **UL493233111YP** (Yanwen).
+>
+> **Our record shows no update against that despatch since the day it was
+> created — sixteen days now.** **So if the tracking has not moved for you, it
+> has not moved for us either.** **I am not going to tell you it is on its way
+> when the only thing I can see is the same thing you can see.**
+>
+> **And I am not going to give you a delivery date, because I would be
+> inventing it.** **That is the honest answer to your question, not a
+> satisfying one.**
+>
+> **I am also not going to send you to the carrier.** **Chasing a parcel we
+> despatched is not your job.**
+>
+> **On the refund you offered as the alternative: I cannot approve it from this
+> desk and I am not going to refuse it either.** **That decision is the shop
+> owner's, and your message goes to him today with both halves of what you
+> asked — the date and the refund — kept as you put them.** **£19.95 is
+> recorded on the order and nothing has been refunded to date.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it
+> again.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die überprüfbare Auskunft mit Datum und Referenz, die
+**offene Benennung der zehn Tage bis zur Übergabe**, die **Feststellung, dass
+seit sechzehn Tagen keine Aktualisierung vorliegt**, die **ausdrückliche
+Weigerung, einen Liefertermin zu nennen**, **kein Verweis an den
+Versanddienstleister**, und die Weitergabe **beider Teile seiner Frage** in
+seiner eigenen Formulierung. **Keine Erstattung zugesagt, kein Termin, keine
+Absage.** **Keine Aussage darüber, wo das Paket ist.** **Keine Aussage zur
+Herkunft der Sendung** — danach wurde nicht gefragt. **Die Bild-Anhänge stammen
+aus der Shopify-Versandmail und werden nicht geöffnet.** Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

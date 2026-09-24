@@ -260,3 +260,51 @@ frühere Angabe kann ein eigener Fehler sein. **Das geht an den Owner.**
 - **⏰ #8669 und #8605: Stornofenster weiterhin offen.**
 - **⛔ Sieben Kunden mit ungeöffneter Ware ohne Rückgabeweg**, unverändert —
   drei davon haben heute erneut eine Absage oder ein Prozentangebot bekommen.
+
+---
+
+## Lauf 15:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht.
+
+### #8079 — Nick Wright (`wrighty90@hotmail.co.uk`), 24.09. 14:43 UTC — Erstkontakt
+
+**Vorab-Suche:** ein einziger Thread, **Erstkontakt.**
+
+> *„**I still haven't received my order**, please can you **confirm when its
+> coming or give me a refund.** Regards Nick"*
+
+**Shopify (#8079):** bestellt **29.08.**, Versand **08.09.** (**zehn Tage**),
+ein Plushies („fox"), **£19,95**, **0,00 £ erstattet**, Coaley (GB), Yanwen
+`UL493233111YP`.
+
+**⚠️ `updatedAt == createdAt` — seit dem 08.09. keine Aktualisierung,
+sechzehn Tage.** **Fünfte Sendung ohne Aktualisierung seit Versand** neben
+#8080 (16 Tage), #8483, #8432 (je 10 Tage) und #8476 (10 Tage). **Im Entwurf
+steht das offen: bewegt sich die Sendungsverfolgung für ihn nicht, bewegt sie
+sich für uns auch nicht.** **Kein Liefertermin genannt, kein Verweis an den
+Versanddienstleister.**
+
+**Er nennt selbst eine Alternative — Termin oder Erstattung.** **Beide Teile
+gehen unverändert an den Owner**; von hier wird weder zugesagt noch abgesagt.
+
+**Die beiden Bild-Anhänge stammen aus der zitierten Shopify-Versandmail, nicht
+vom Kunden.** **Sie werden nicht geöffnet.**
+
+**Label:** `Bot/Escalated - Owner Attention` (Sendung steht seit sechzehn Tagen
+still).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Zehn Kundenvorgänge am 24.09.**
+- **355 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⚠️ Fünf Sendungen ohne Aktualisierung seit Versand:** #8080 und **#8079**
+  (je 16 Tage), #8483, #8432, #8476 (je 10 Tage).
+- **🟥 Der Serienversand vom 24.09. 12:25–12:40 UTC bleibt der Hauptbefund des
+  Tages**, unverändert.
+- **🔴 Zehn Geldzusagen ohne Ausführung**, unverändert.
+- **⏰ #8669 und #8605: Stornofenster weiterhin offen.**
