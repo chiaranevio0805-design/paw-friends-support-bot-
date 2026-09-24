@@ -17829,6 +17829,72 @@ versandt** — der Fehler aus #8669 wird hier nicht wiederholt. **Keine
 Entschuldigung von ihm verlangt und keine Begründung nachgefragt.** Kein
 Eskalationsmarker im Text.
 
+## #5310 — Heather Taylor (bhjdc5@gmail.com) — US, **dritter Kontakt, zitiert „no dog has ever destroyed the toy"**
+
+**Betreff:** Re: Refund request - order #5310
+
+> Dear Heather,
+>
+> **You have written three times now, and twice what came back was a standard
+> paragraph that did not engage with what you actually said. The second one
+> went out this morning. That should not have happened.**
+>
+> **You have named a specific claim — that our advertising says no dog has ever
+> destroyed the toy — and you have said it is false. That deserves a real
+> answer, not another policy paragraph.**
+>
+> **Here is what I can check and what I cannot.**
+>
+> **What I can check:** I have read all twelve of our current product
+> descriptions. **The sentence you quote is not in any of them.** **The word
+> "indestructible" is not in any of them either.** **The descriptions of the
+> two toys on your order carry no guarantee wording at all.** And where a
+> **30-day money-back guarantee** does appear in our own marketing material,
+> **it appears without any condition attached to it** — **which is not the
+> version quoted to you in either of the replies you received.**
+>
+> **What I cannot check:** **which advertisement you actually saw.** We do not
+> place all of our advertising from this desk, and I have no way to view what
+> was shown to you. **So I am not going to tell you that the sentence does not
+> exist — only that I could not find it in the places I am able to look.**
+> **And I am certainly not going to suggest you imagined it.**
+>
+> **What I am not going to do is tell you your dogs were the first.** **You are
+> the second customer this week to quote that same sentence back to us, and I
+> am recording that as part of what goes to the shop owner.**
+>
+> **On your refund: I cannot approve it from this desk and I am not going to
+> refuse it either.** **That decision is his. Your message goes to him today,
+> in your own words, together with the fact that you were sent the same
+> template twice.**
+>
+> **On making this known publicly: that is entirely your decision.** **I am not
+> going to ask you to hold off, I am not going to ask you to take anything
+> down, and nothing here depends on what you do or do not post.**
+>
+> **What is on the order:** #5310, placed **9 August**, despatched
+> **13 August**, two toys, **$38.47 recorded on the order, nothing refunded to
+> date.**
+>
+> **Your photographs are on the file and you do not need to send anything
+> further.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Feststellung, dass sie zweimal eine Vorlage statt
+einer Antwort bekommen hat**, die **getrennte Darstellung von Überprüfbarem und
+Nichtüberprüfbarem** zur zitierten Werbeaussage, die Weitergabe an den Owner,
+und die Erwähnung, dass **ein zweiter Kunde dieselbe Aussage zitiert**. **Keine
+Erstattung zugesagt, kein Betrag, kein Termin, keine Absage.** **Nicht
+behauptet, der zitierte Satz existiere nicht** — nur, wo er nicht gefunden
+wurde. **Keine Rekonstruktion der Anzeige.** **Nicht behauptet, ihre Hunde
+seien die ersten gewesen.** **Kein Versuch, sie von einem öffentlichen Beitrag
+abzubringen**, und nicht um Entfernung gebeten. **Keine rechtliche Bewertung
+der Formulierung „false advertising".** **Die Fotos werden nicht geöffnet**,
+nur ihr Vorhandensein vermerkt. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

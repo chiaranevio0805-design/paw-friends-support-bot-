@@ -363,3 +363,74 @@ falscher Grundlage abgelehnt) und **#8605.**
 - **🟥 Der Serienversand vom 24.09. 12:25–12:40 UTC** bleibt der Hauptbefund
   des Tages.
 - **🔴 Zehn Geldzusagen ohne Ausführung**, unverändert.
+
+---
+
+## Lauf 17:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht — **und sie
+liefert den Wortlaut beider Vorlagen.**
+
+### ⛔ #5310 — Heather Taylor (`bhjdc5@gmail.com`), 24.09. 16:41 UTC — **dritter Kontakt, zitiert eine konkrete Werbeaussage**
+
+> *„**Your advertising says no dog has ever destroyed the toy. That's false**
+> because **there is no way that mine were the first.**"*
+
+**Belegter Verlauf:** **20.09. 14:10** Erstkontakt mit Fotos (*„I purchased a
+2 pack of these **indestructible** toys… destroyed them in less than
+10 minutes… Please let me know when this is processed."*) · **22.09. 11:31**
+Kauschaden-Vorlage · **22.09. 11:38** *„Your **false advertising** is duly
+noted. **I'll be sure to make that known.**"* · **24.09. 12:36** **zweite
+Vorlage** (Teil der heutigen Serie) · **24.09. 16:41** diese Nachricht.
+
+**Shopify (#5310):** bestellt **09.08.**, Versand **13.08.** (vier Tage), zwei
+Plushies („donkey", „fox"), **38,47 $**, **0,00 $ erstattet**, Winter Garden,
+**Florida (US)**, Yanwen `UL418695817YP`.
+
+**🟦 Der Thread enthält den vollständigen Wortlaut beider Vorlagen.** Beide
+behaupten, die 30-Tage-Garantie *„applies to items returned unused and in their
+original condition"*. **Diese Bedingung steht in keinem der zwölf
+Produkttexte und auch nicht in der Garantieformulierung des eigenen
+Marketings** — dort erscheint die Garantie **ohne Bedingung.** **Das ist
+dieselbe Diskrepanz, die inzwischen mehreren Kunden gegenüber behauptet
+wurde.**
+
+**⚠️ Sie ist die zweite Kundin binnen zwei Tagen, die denselben konkreten Satz
+zitiert** — *„no dog has ever destroyed the toy"* — nach **#7440 Aaron Kell**
+am 23.09. (*„advertised that no dog has ever destroyed one"*). **Das ist keine
+allgemeine Beschwerde über die Werbung mehr, sondern zweimal derselbe
+Wortlaut.**
+
+**Im Entwurf werden Überprüfbares und Nichtüberprüfbares getrennt gehalten:**
+der Satz steht in keiner der zwölf Beschreibungen — **aber es wird nicht
+behauptet, er existiere nicht**, nur, wo er nicht gefunden wurde. **Keine
+Rekonstruktion der Anzeige.** **Nicht behauptet, ihre Hunde seien die ersten
+gewesen.** **Kein Versuch, sie von einem öffentlichen Beitrag abzubringen.**
+
+**Siebenundfünfzigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+**⚠️ Korrektur zur eigenen Zählung:** Die Serienversendung von heute wurde im
+Lauf 13:20/14:20 mit **vierzehn** Nachrichten protokolliert. **Der Versand an
+#5310 um 12:36:49 UTC war darin nicht enthalten.** **Die Zahl ist also ein
+Mindestwert, kein Gesamtwert** — die Thread-Vorschau zeigt nicht alle
+Nachrichten.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Zwölf Kundenvorgänge am 24.09.**
+- **357 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **🟥 Der Serienversand vom 24.09. umfasst mindestens fünfzehn Nachrichten**,
+  nicht vierzehn — die Zahl bleibt ein Mindestwert.
+- **🟦 Der Wortlaut beider Vorlagen liegt jetzt belegt vor.** Beide behaupten
+  eine Garantiebedingung (*„returned unused and in their original condition"*),
+  **die im eigenen Marketing nicht steht.**
+- **⚠️ Zwei Kunden zitieren denselben konkreten Werbesatz:** #7440 und #5310.
+- **⚠️ Siebenundfünfzig unabhängige Kundenaussagen zur Werbung.**
+- **⏰⏰ Drei offene Stornofenster:** #8781, #8669, #8605.
+- **🔴 Zehn Geldzusagen ohne Ausführung**, unverändert.
