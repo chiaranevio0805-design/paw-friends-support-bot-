@@ -18109,6 +18109,80 @@ Termin zugesagt.** **Nicht geraten, was „Aw" heißen soll.** **Keine Anrede mi
 einem geratenen Namen** — es liegt kein Kundenname vor. Kein
 Eskalationsmarker im Text.
 
+## #4940 — Rena Barnes (renabarnes@hotmail.com) — GB, **sechs Prozentangebote, in jedem steht unten „the 30% refund"**
+
+**Betreff:** Re: Awaiting delivery of my order!
+
+> Dear Rena,
+>
+> **You spotted something real, and I am not going to talk around it.**
+>
+> **You have received six offers from us — 30 %, 35 %, 40 %, 50 %, 60 % and
+> 70 %.** **In every single one of them, the closing line asks you to confirm
+> "the 30% refund", whatever figure was named higher up.** **You noticed that
+> and said so. You were right to.**
+>
+> **I am not going to tell you which of the two numbers in each letter was the
+> real one, because I do not know, and guessing on your behalf would be worse
+> than admitting it.** **What I can tell you is that you were sent six letters
+> that contradict themselves, and that is not something you should have had to
+> unpick.**
+>
+> **On the refund itself.** **You have asked for 100 % eight times now and
+> declined every partial offer.** **I am not going to make you a seventh
+> offer.** **I also cannot approve a full refund from this desk and I am not
+> going to refuse one** — that decision is the shop owner's, and it goes to him
+> today with your own words and with the six contradictory letters attached to
+> the case.
+>
+> **On the law.** You have said that false advertising entitles you to a full
+> refund. **I am not qualified to tell you whether that is right or wrong, and
+> I am not going to pretend otherwise in either direction.** **Your argument
+> goes to him as you made it, unedited.**
+>
+> **What I can check, and what you can hold me to:** I have read all twelve of
+> our current product descriptions. **The word "indestructible" is not in any
+> of them**, and **the descriptions of the two toys on your order carry no
+> guarantee wording at all.** Where a **30-day money-back guarantee** does
+> appear in our own marketing material, **it appears without any condition
+> attached to it** — **which is not the version that has been quoted to you in
+> every letter since 8 September.**
+>
+> **I cannot see the advertisement you screenshotted, so I am not going to tell
+> you what it said, and I am not going to suggest you misread it.**
+>
+> **On the wait, which was the original complaint and never got an answer.**
+> Order #4940 was placed on **7 August** and **was not handed over for despatch
+> until 22 August — fifteen days.** **That is ours.**
+>
+> **On Trading Standards: that is entirely your decision.** **I am not going to
+> ask you to hold off, and nothing here depends on you doing so.**
+>
+> **What is on the order:** #4940, two toys, **£27.95 recorded on the order,
+> and nothing has been refunded to date — the refund record is empty.**
+>
+> **Your photographs are on the file. You do not need to send anything
+> further.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Bestätigung des Widerspruchs in allen sechs
+Angebotsschreiben** („the 30% refund" in der Schlusszeile, unabhängig von der
+genannten Prozentzahl), die **ausdrückliche Weigerung zu raten, welche Zahl
+gemeint war**, **kein siebtes Prozentangebot**, die überprüfbare Auskunft über
+den eigenen Text, die **offene Benennung der fünfzehn Tage bis zur Übergabe**
+als eigener Fehler, und die Weitergabe **ihrer Rechtsauffassung unverändert**
+an den Owner. **Keine Erstattung zugesagt, kein Betrag, kein Termin, keine
+Absage.** **Keine rechtliche Bewertung ihrer Berufung auf falsche Werbung, in
+keine Richtung.** **Keine Behauptung, „indestructible" existiere nicht.**
+**Keine Rekonstruktion der Anzeige.** **Kein Versuch, sie von Trading Standards
+abzubringen.** **Die Herkunft der Sendung wird nicht erneut angesprochen** —
+sie hat nicht danach gefragt, und ihr wurde am 20.08. bereits geantwortet.
+**Die Fotos werden nicht geöffnet**, nur ihr Vorhandensein vermerkt. Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
