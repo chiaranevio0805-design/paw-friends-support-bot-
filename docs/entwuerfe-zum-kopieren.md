@@ -18880,6 +18880,54 @@ schon andere Spielzeuge zerstört hat** — ihre eigene Schilderung wird nicht
 gegen sie verwendet. **Kein Foto verlangt**, ausdrücklich abbestellt. Kein
 Eskalationsmarker im Text.
 
+## #8781 — Glenn Yarbrough (glennyarbrough@gmail.com) — US, **dritter Kontakt, 31 Stunden nach der ersten Bitte, Datensatz unverändert**
+
+**Betreff:** Re: Order #8781 confirmed
+
+> Dear Glenn,
+>
+> **No. It has not been cancelled, and I am not going to soften that.**
+>
+> **You asked on 24 September at 15:42, again at 20:29, and now a third time.
+> Nothing has come back to you and nothing has changed on the order.** **That
+> is entirely on us.**
+>
+> **What our record shows, checked again just now:** order #8781 is still
+> recorded as **unfulfilled**, **nothing has been despatched**, **no despatch
+> has even been requested**, and **the order has not been marked cancelled**.
+> **The last time anything at all changed on it was fourteen seconds after you
+> placed it.** **$37.69 is recorded as paid and nothing has been refunded.**
+>
+> **So the honest position is this: nothing has gone out, and nothing has been
+> done either.** **The cancellation you asked for is still possible on the
+> facts, and it has simply not been actioned.**
+>
+> **I cannot carry it out myself — that is not a deflection, it is the limit of
+> what this desk can do — and I am not going to promise you a date on someone
+> else's behalf.** **What I can do, and have done again now, is put it in front
+> of the shop owner marked urgent, with all three of your timestamps on it.**
+>
+> **You should not have to ask a fourth time, and I am not going to suggest you
+> do.** **If you would rather stop waiting and take it up with your payment
+> provider, that is entirely your decision and nothing here depends on you
+> holding off.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **direkte, unbeschönigte Antwort auf seine Frage** —
+nein, es ist nicht storniert —, die **erneut geprüfte Auskunft aus dem
+Datensatz** (unversandt, kein Versand angefordert, nicht storniert,
+`updatedAt` unverändert seit vierzehn Sekunden nach der Bestellung, nichts
+erstattet), die **Anerkennung des dreifachen Schweigens als eigenes
+Versäumnis**, und die dringliche Weitergabe mit **allen drei** Zeitstempeln.
+**Keine Stornierung zugesagt, keine Erstattung zugesagt, kein Termin.**
+**Nicht behauptet, die Bestellung sei storniert oder in Bearbeitung.** **Nicht
+behauptet, sie sei versandt.** **Keine Bitte, weiter zu warten oder erneut zu
+schreiben.** **Kein Versuch, ihn von seinem Zahlungsdienstleister
+abzubringen.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

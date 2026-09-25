@@ -629,3 +629,51 @@ gesagt.** **Das steht auch so im Entwurf.**
 - **⏰⏰ Drei offene Stornofenster:** #8781, #8669, #8605.
 - **📤 Die Entwürfe für #8559 und #8573 stehen in keinem Abendreport** — beide
   entstanden danach.
+
+---
+
+## Lauf 23:20 UTC — **nach dem Tagesabschluss eingegangen**
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht.
+
+### ⏰⏰ #8781 — Glenn Yarbrough (`glennyarbrough@gmail.com`), 25.09. 22:41 UTC — **dritter Kontakt**
+
+> *„**Were you all able to cancel this order?** Thanks, Glenn Yarbrough"*
+
+**Einunddreißig Stunden nach seiner ersten Bitte, sechsundzwanzig Stunden nach
+der zweiten.** **Er hat auf keine der beiden eine Antwort bekommen.**
+
+**Shopify (#8781), zum dritten Mal geprüft:** **`UNFULFILLED`**, **`PAID`**,
+**`fulfillments`: leere Liste**, **`fulfillmentOrders: OPEN / UNSUBMITTED`**,
+**`cancelledAt: null`**, **`updatedAt` unverändert `2026-09-24T15:21:13Z`**,
+**0,00 $ erstattet.**
+
+**⚠️ Seit seiner ersten Bitte hat sich an der Bestellung buchstäblich nichts
+geändert** — der letzte Eintrag stammt von **vierzehn Sekunden nach der
+Bestellung**. **Es ist nichts hinausgegangen, und es ist auch nichts getan
+worden.**
+
+**Im Entwurf wird seine Frage direkt und unbeschönigt beantwortet: nein.**
+**Nicht behauptet, die Stornierung sei erfolgt oder in Bearbeitung.** **Nicht
+behauptet, die Ware sei versandt.** **Keine Bitte, weiter zu warten oder ein
+viertes Mal zu schreiben.** **Kein Versuch, ihn von seinem
+Zahlungsdienstleister abzubringen.** **`orderCancel` bleibt gesperrt.**
+
+**Label:** `Bot/Escalated - Owner Attention` (zeitkritisch, dritter Kontakt).
+
+---
+
+### Tagesabschluss 25.09. — fortgeschrieben
+
+- **Zwölf Kundenvorgänge** (#8781 ist ein Vorgang vom 24.09. und zählt hier
+  nicht erneut mit).
+- **375 Entwürfe in der Datei, keiner in Gmail.** **Einer davon (der erste für
+  #8577) ist ersetzt und darf nicht gesendet werden.**
+- **Keine Erstattung, keine Stornierung, kein Regel-4-Fall.**
+- **⏰⏰ #8781 ist jetzt der dringendste offene Fall überhaupt:** dreimal
+  gebeten, einunddreißig Stunden, **Datensatz vollständig unverändert**, das
+  Fenster nachweislich noch offen.
+- **⏰ #8669 und #8605** unverändert offen.
+- **🔴 Elf Geldzusagen ohne Ausführung.**
+- **📤 Drei Entwürfe stehen in keinem Abendreport** — #8559, #8573 und dieser
+  für #8781.
