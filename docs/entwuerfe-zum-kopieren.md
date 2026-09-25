@@ -18183,6 +18183,75 @@ sie hat nicht danach gefragt, und ihr wurde am 20.08. bereits geantwortet.
 **Die Fotos werden nicht geöffnet**, nur ihr Vorhandensein vermerkt. Kein
 Eskalationsmarker im Text.
 
+## #8228 — Marty Andrews (martin@interpet.com.sg) — AU, **Erstkontakt, verlangt „a solution", nicht ausdrücklich Geld**
+
+**Betreff:** Re: Order #8228 confirmed
+
+> Dear Marty,
+>
+> **You asked for a solution rather than naming one, and I am not going to
+> decide on your behalf what you meant. So let me tell you plainly what I can
+> do, what I cannot, and what is checkable.**
+>
+> **What I cannot do:** approve a refund, a replacement or a credit from this
+> desk. **I am also not going to refuse you one.** That decision belongs to the
+> shop owner, and your message goes to him today in your own words.
+>
+> **What I can tell you, and you can hold me to it:**
+>
+> - I have read all twelve of our current product descriptions. **The word
+>   "indestructible" is not in any of them**, and **the description of the toy
+>   you bought carries no guarantee wording at all.**
+> - Where a **30-day money-back guarantee** appears in our own marketing
+>   material, **it appears without any condition attached to it.**
+> - **Our published refund policy contains a section headed "Australia —
+>   Consumer Guarantees"**, which states that rights under it **"are not limited
+>   by the requirement that an item be unused or in its original packaging."**
+>   **That is our own wording, quoted as it stands. I am not a lawyer, I am not
+>   going to tell you what it means for your order, and I am not going to use it
+>   to promise you anything.** **But you are entitled to know it is there, and
+>   it goes to him with your message.**
+>
+> **I cannot see the advertisement you actually read, so I am not going to tell
+> you what it said, and I am not going to suggest you misread it.**
+>
+> **I am also not going to make a claim about the toy itself in either
+> direction** — not to defend it and not to agree with you about it. **You told
+> us what happened and it is recorded exactly as you wrote it. I am drawing no
+> conclusions from your dog's size.**
+>
+> **One thing before you do anything with it: there is no returns address.**
+> **We do not have one to give you.** **So please do not post it back from
+> Australia** — the postage would be significant and you would lose the item on
+> top of it.
+>
+> **Your photograph is on the file and you do not need to send anything
+> further.**
+>
+> **What is on the order:** #8228, placed **30 August**, not handed over for
+> despatch until **8 September — nine days** — one toy, **A$38.44 recorded on
+> the order, nothing refunded to date.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ehrliche Auskunft, was von hier aus geht und was
+nicht**, die überprüfbare Auskunft über den eigenen Produkttext, die **wörtliche
+Wiedergabe des eigenen AU-Abschnitts der Refund Policy — ausdrücklich ohne
+Auslegung und ohne daraus etwas abzuleiten**, die offene Benennung der neun Tage
+bis zur Übergabe, und die **klare Auskunft, dass es keine Rücksendeadresse
+gibt.** **Keine Erstattung, kein Ersatz, kein Gutschein, kein Betrag, kein
+Termin zugesagt — und keine Absage.** **Seine Bitte um „a solution" wird nicht
+als Erstattungsforderung gedeutet.** **Keine rechtliche Bewertung.** **Keine
+Aussage zur Haltbarkeit oder Qualität, in keine Richtung.** **Keine Folgerung
+aus dem Gewicht oder der Größe seines Hundes.** **Keine Rekonstruktion der
+Anzeige.** **Das Foto wird nicht geöffnet**, nur sein Vorhandensein vermerkt.
+**Er wird mit dem Namen angesprochen, mit dem er unterschreibt** (die
+Lieferadresse lautet auf „Martin"). Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

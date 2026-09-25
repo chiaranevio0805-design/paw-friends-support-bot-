@@ -109,3 +109,67 @@ Sendung wird nicht erneut angesprochen** — sie hat nicht danach gefragt.
 - **⏰⏰ Drei offene Stornofenster:** #8781, #8669, #8605.
 - **🔴 Zehn Geldzusagen ohne Ausführung**, unverändert — **#4940 gehört nicht
   dazu**, weil sie kein Angebot angenommen hat.
+
+---
+
+## Läufe 03:20 – 07:20 UTC
+
+**Fünf aufeinanderfolgende Läufe ohne neue Nachricht.** Keine Aktion.
+
+---
+
+## Läufe 08:20 – 11:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht.
+
+### #8228 — Marty Andrews (`martin@interpet.com.sg`), 25.09. 08:07 UTC — **AU**, Erstkontakt
+
+**Vorab-Suche:** ein einziger Thread, **Erstkontakt.**
+
+**Im Volltext:**
+
+> *„Hi team - received your product and **less than one day it's already been
+> opened up and stuffing being pulled** our tiny 4kg dog ?? **thought this was
+> durable and different from the rest as you advertised and why I bought
+> this?** **Not happy & need a solution from you.** Regards Marty"*
+
+**Shopify (#8228):** bestellt **30.08.**, Versand **08.09.** (**neun Tage**),
+ein Plushies („elephant"), **A$38,44** (Listenpreis A$58,00, „BUY 1"
+−A$19,56), **0,00 A$ erstattet**, Port Macquarie, **New South Wales (AU)**,
+Yanwen `VR962222483YP`.
+
+**⚠️ Er verlangt „a solution" — er nennt keine.** **Das wird nicht als
+Erstattungsforderung gedeutet.** Im Entwurf steht stattdessen offen, was von
+hier aus geht und was nicht, und die Entscheidung liegt beim Owner.
+
+**⚠️ Zweiter australischer Fall binnen zwölf Stunden** (nach #6893). **Wie
+dort wird der eigene, veröffentlichte Abschnitt „Australia — Consumer
+Guarantees" wörtlich wiedergegeben** — *„not limited by the requirement that an
+item be unused or in its original packaging"* — **ausdrücklich ohne Auslegung,
+ohne rechtliche Folgerung und ohne daraus ein Versprechen abzuleiten.**
+
+**Keine Kauschaden-Vorlage.** **Keine Aussage zur Haltbarkeit oder Qualität, in
+keine Richtung.** **Aus dem Gewicht seines Hundes wird nichts gefolgert.**
+**Kein Foto verlangt** — das beigefügte Bild wird nicht geöffnet. **Keine
+Rücksendeadresse erfunden**, mit ausdrücklicher Warnung vor einer Sendung aus
+Australien.
+
+**Einundsechzigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Zwei Kundenvorgänge am 25.09.** (#4940, #8228).
+- **363 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⚠️ Einundsechzig unabhängige Kundenaussagen zur Werbung.**
+- **⚠️ Zwei australische Fälle binnen zwölf Stunden** — der eigene
+  AU-Abschnitt der Refund Policy ist in beiden Entwürfen wörtlich zitiert,
+  **ohne Auslegung.**
+- **⏰⏰ Drei offene Stornofenster:** #8781, #8669, #8605.
+- **🔴 Zehn Geldzusagen ohne Ausführung**, unverändert.
+- **📤 Der Entwurf für #8228 steht in keinem Abendreport** — er entstand danach.
