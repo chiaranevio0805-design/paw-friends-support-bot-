@@ -436,3 +436,56 @@ Entwurf nicht als Zustellbeleg verwendet.**
 - **⚠️ Fünfundsechzig unabhängige Kundenaussagen zur Werbung.**
 - **🔴 Elf Geldzusagen ohne Ausführung**, unverändert.
 - **⏰⏰ Drei offene Stornofenster:** #8781, #8669, #8605.
+
+---
+
+## Lauf 15:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht.
+
+### #8550 — Karan Marlow (`karan.marlow@gmail.com`), 25.09. 14:42 UTC — Erstkontakt
+
+**Vorab-Suche:** ein einziger Thread, **Erstkontakt.**
+
+**Die Nachricht vollständig:**
+
+> *„Hi I received the below order yesterday and sorry to say **within 1 hour
+> the donkey didn't survive !!!** Kind regards karan"*
+
+**Shopify (#8550):** bestellt **15.09.**, Versand **17.09.** (zwei Tage — keine
+Verzögerung), **drei Plushies („elephant", „Duck", „donkey") plus das
+E-Book**, **£34,95**, **0,00 £ erstattet**, Coalville (GB), Yun Express
+`YT2626000705409464`.
+
+**⚠️ `PARTIALLY_FULFILLED` — die E-Book-Position ist `unfulfilledQuantity: 1`.**
+**Elfte Bestellung mit unausgelieferter E-Book-Position** (nach #8372, #7555,
+#6592, #6254, #6546, #2852, #7831, #8456, #8476, #8577). **Ungefragt genannt.**
+
+**⚠️ Sie stellt keine Forderung.** Keine Erstattung, kein Ersatz, keine
+Rücksendung verlangt — sie schildert. **Nach der stehenden Regel wird daraus
+keine Erstattungsforderung gemacht; im Entwurf steht ein neutrales Angebot.**
+
+**Sie erwähnt die Werbung nicht** — **es wird nichts darüber behauptet, und sie
+wird nicht als Werbeaussage gezählt.** **Die Zahl bleibt bei
+fünfundsechzig.** **Sie ruft die Garantie nicht an** — auch dazu nichts.
+
+**Keine Kauschaden-Vorlage.** **Keine Aussage darüber, wie lange der Artikel
+hätte halten sollen, in keine Richtung.** **Foto nicht geöffnet und
+ausdrücklich abbestellt.**
+
+**Label:** `Bot/Needs Approval`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Acht Kundenvorgänge am 25.09.**
+- **370 Entwürfe in der Datei**, **keiner in Gmail.** **Einer davon (der erste
+  für #8577) ist ersetzt und darf nicht gesendet werden.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⚠️ Elf Bestellungen mit unausgelieferter E-Book-Position** — **#8550** ist
+  die elfte, und die zweite an einem Tag.
+- **⚠️ Fünfundsechzig unabhängige Kundenaussagen zur Werbung**, unverändert.
+- **🔴 Elf Geldzusagen ohne Ausführung**, unverändert.
+- **⏰⏰ Drei offene Stornofenster:** #8781, #8669, #8605.

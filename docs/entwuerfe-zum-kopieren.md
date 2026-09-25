@@ -18609,6 +18609,58 @@ Rekonstruktion der Anzeige.** **Keine Aussage zur Qualität, in keine
 Richtung.** **Kein Foto verlangt.** **Die Sendungsnummer wird nicht als
 Zustellbeleg verwendet.** Kein Eskalationsmarker im Text.
 
+## #8550 — Karan Marlow (karan.marlow@gmail.com) — GB, **Erstkontakt, keine Forderung gestellt**
+
+**Betreff:** Re: Order
+
+> Dear Karan,
+>
+> **Thank you for telling us, and for being straightforward about it.**
+>
+> **You have told us what happened and you have not asked us for anything, so I
+> am not going to decide on your behalf what you wanted.** **If you would like
+> this passed on as a refund request, one line back here is enough and it goes
+> forward that way. If you would rather it simply be recorded, that is what it
+> stays.** **Either way it is now on the shop owner's desk.**
+>
+> **What I am not going to do is tell you the toy should have lasted longer, or
+> that it should not have. I am not going to make a claim about it in either
+> direction** — that is not mine to decide, and you would rightly take no
+> comfort from either version. **Your message is recorded exactly as you wrote
+> it.**
+>
+> **Your photograph is on the file and you do not need to send anything
+> further.**
+>
+> **One thing on the order that nobody has mentioned to you.** Three items were
+> despatched on 17 September. **There is a fourth item on #8550 — the e-book —
+> and it is still recorded as not sent.** That is separate from the toys, and
+> it goes to him too.
+>
+> **And one thing in case it is on your mind: there is no returns address.**
+> **We do not have one to give you, so please do not post anything back** — it
+> would cost you postage for nothing. **That is not a refusal of anything; it
+> is simply where things stand.**
+>
+> **What is on the order:** #8550, placed **15 September**, despatched
+> **17 September**, **£34.95 recorded on the order, nothing refunded to date.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** das **neutrale Angebot statt einer Deutung** — sie hat
+nichts gefordert —, der **ungefragte Hinweis auf die unausgelieferte
+E-Book-Position**, und die **klare Auskunft, dass es keine Rücksendeadresse
+gibt**, ohne daraus eine Absage zu machen. **Keine Erstattung zugesagt, kein
+Betrag, kein Termin, keine Absage, keine Kauschaden-Vorlage.** **Keine Aussage
+darüber, wie lange der Artikel hätte halten sollen, in keine Richtung.**
+**Nichts über die Garantie behauptet** — sie hat sie nicht angerufen. **Nichts
+über die Werbung behauptet** — sie hat sie nicht erwähnt. **Kein Foto
+verlangt**, ausdrücklich abbestellt. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
