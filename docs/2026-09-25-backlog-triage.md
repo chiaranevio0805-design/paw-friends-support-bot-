@@ -489,3 +489,74 @@ ausdrücklich abbestellt.**
 - **⚠️ Fünfundsechzig unabhängige Kundenaussagen zur Werbung**, unverändert.
 - **🔴 Elf Geldzusagen ohne Ausführung**, unverändert.
 - **⏰⏰ Drei offene Stornofenster:** #8781, #8669, #8605.
+
+---
+
+## Lauf 17:20 UTC
+
+**Posteingang und Postausgang geprüft.** Zwei neue Nachrichten.
+
+### ⛔ #7048 — Josephine Carr (`jocarr247@yahoo.com`), 25.09. 17:09 UTC — **fünfter Kontakt**
+
+> *„**PLEASE LET ME KNOW ASAP WHEN YOU WILL BE REFUNDING ME** AS **I DONT WISH
+> TO KEEP THE PRODUCTS**,,AS THEY ARE **CHEAP AND TACKY**"*
+
+**Ihre Nachricht vom 23.09. — in der sie ankündigte, die Ware an eine „UK
+department" zu schicken — ist seit zwei Tagen unbeantwortet.**
+
+**Shopify (#7048):** bestellt **21.08.**, Versand **02.09.** (**zwölf Tage**),
+zwei Plushies, **£27,95**, **`refunds`: leere Liste**, Darlington (GB).
+
+**⚠️ Im Entwurf steht die Warnung vor der Rücksendung wieder an erster
+Stelle** — **es gibt keine „UK department" und keine Rücksendeadresse.**
+**Ausdrücklich wird weder angenommen, sie habe das Paket bereits abgeschickt,
+noch, sie habe es nicht** — beides wird offen gefragt.
+
+**Kein drittes Prozentangebot** (30 % und 40 % sind abgelehnt). **Kein Termin
+genannt** — und offen gesagt, dass keiner genannt werden kann. **Keine Aussage
+über die Qualität der Artikel, in keine Richtung.** **Kein Versuch, sie von
+Klarna oder Trading Standards abzubringen.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### #8552 — Andy Gladman (`andyg9053@googlemail.com`), 25.09. 17:11 UTC — Erstkontakt
+
+**Vorab-Suche:** ein einziger Thread, **Erstkontakt.**
+
+> *„The two toys arrived on Wednesday and were fine. By the following morning
+> my two cockapoos had destroyed them. Photos are attached. **We paid more than
+> usual for indestructible toys** and unfortunately **they weren't up to the
+> job**"*
+
+**Shopify (#8552):** bestellt **15.09.**, Versand **17.09.** (zwei Tage — keine
+Verzögerung), zwei Plushies („frog", „fox"), **£27,95**, **0,00 £ erstattet**,
+Frinton (GB), Yun Express `YT2626000705407997`.
+
+**⚠️ Er stellt keine bestimmte Forderung** — im Entwurf steht ein neutrales
+Angebot statt einer Deutung. **Er beruft sich aber ausdrücklich auf die
+Werbung**, deshalb eskaliert.
+
+**Zur Preisfrage wird nichts gesagt** — weder ob der Preis angemessen war noch
+das Gegenteil. **Aus der Tatsache, dass zwei Hunde die Artikel hatten, wird
+nichts gefolgert.** **Vier Fotos beigefügt — nicht geöffnet, ausdrücklich
+abbestellt.**
+
+**Sechsundsechzigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Zehn Kundenvorgänge am 25.09.**
+- **372 Entwürfe in der Datei**, **keiner in Gmail.** **Einer davon (der erste
+  für #8577) ist ersetzt und darf nicht gesendet werden.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⚠️ Sechsundsechzig unabhängige Kundenaussagen zur Werbung.**
+- **⛔ #7048 hat seit dem 23.09. keine Antwort bekommen** — und die Warnung vor
+  dem Paket an eine nicht existierende Adresse hat sie damit **immer noch
+  nicht erhalten**, weil von hier nichts gesendet werden kann.
+- **🔴 Elf Geldzusagen ohne Ausführung**, unverändert.
+- **⏰⏰ Drei offene Stornofenster:** #8781, #8669, #8605.

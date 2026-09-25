@@ -18661,6 +18661,120 @@ darüber, wie lange der Artikel hätte halten sollen, in keine Richtung.**
 über die Werbung behauptet** — sie hat sie nicht erwähnt. **Kein Foto
 verlangt**, ausdrücklich abbestellt. Kein Eskalationsmarker im Text.
 
+## #7048 — Josephine Carr (jocarr247@yahoo.com) — GB, **fünfter Kontakt, seit zwei Tagen unbeantwortet**
+
+**Betreff:** Re: #7048
+
+> Dear Josephine,
+>
+> **You wrote on 23 September and again today, and nothing came back to you in
+> between. That is on us.**
+>
+> **You have asked when you will be refunded. The honest answer is that I
+> cannot tell you, because I cannot approve the refund from this desk and I
+> have no date to give you.** **I am not going to invent one to end this email
+> politely.** **What I can tell you is that your request is with the shop owner
+> and that it is the fifth time you have asked.**
+>
+> **The thing I most want to reach you before anything else:** on 23 September
+> you said you would send the items back to our "UK department". **There is no
+> UK department and there is no returns address.** **We do not have one to give
+> you, and I am not going to make one up.** **If you have not posted anything
+> yet, please do not** — you would lose the postage and most likely the items
+> as well. **If you have already sent something, tell me and I will make sure
+> that goes to him with the rest, today.**
+>
+> **You have now said clearly that you do not wish to keep the products.** That
+> is recorded exactly as you put it, and it is the fourth time you have made
+> your position plain. **I am not going to offer you another percentage.** You
+> have declined 30 % and 40 %, and asking a third time would be pressure, not
+> service.
+>
+> **I am not going to make a claim about the products in either direction.**
+> You have described them in your own words and those words go forward
+> unchanged.
+>
+> **On Klarna and on Trading Standards: both are entirely your decision.** **I
+> am not going to ask you to hold off, and nothing here depends on you doing
+> so.**
+>
+> **What is on the order:** #7048, placed **21 August**, not handed over for
+> despatch until **2 September — twelve days** — two toys, **£27.95 recorded on
+> the order, and the refund record is empty.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Anerkennung der zwei Tage Schweigen als eigenes
+Versäumnis**, die **ehrliche Auskunft, dass kein Termin genannt werden kann**,
+die **erneute, an erster Stelle stehende Warnung vor der Rücksendung an eine
+nicht existierende „UK department"**, **kein drittes Prozentangebot**, und die
+Weitergabe ihrer Formulierung unverändert. **Keine Erstattung zugesagt, kein
+Betrag, kein Termin, keine Absage.** **Nicht angenommen, sie habe das Paket
+bereits abgeschickt — und nicht angenommen, sie habe es nicht**; beides wird
+offen gefragt. **Keine Aussage über die Qualität der Artikel, in keine
+Richtung.** **Kein Versuch, sie von Klarna oder Trading Standards abzubringen.**
+**Kein Nachweis, kein Foto verlangt.** Kein Eskalationsmarker im Text.
+
+## #8552 — Andy Gladman (andyg9053@googlemail.com) — GB, Erstkontakt
+
+**Betreff:** Re: Order #8552 confirmed
+
+> Dear Andy,
+>
+> **Thank you for writing, and for setting out the dates so clearly.**
+>
+> **You have told us what happened and you have not asked us for anything
+> specific, so I am not going to decide on your behalf what you wanted.** **If
+> you would like this passed on as a refund request, one line back here is
+> enough. If you would rather it simply be recorded, that is what it stays.**
+> **Either way it is with the shop owner today, in your own words.**
+>
+> **You did say one thing I can check, and you can hold me to it:** you paid
+> more than usual for toys you understood to be indestructible. **I have read
+> all twelve of our current product descriptions. The word "indestructible" is
+> not in any of them**, and **the descriptions of the two toys on your order
+> carry no guarantee wording at all.** Where a **30-day money-back guarantee**
+> does appear in our own marketing material, **it appears without any condition
+> attached to it.**
+>
+> **I cannot see the advertisement you actually read, so I am not going to tell
+> you what it said, and I am not going to suggest you misread it.**
+>
+> **I am not going to make a claim about the toys themselves in either
+> direction**, and **I am not drawing any conclusion from the fact that two
+> dogs had them.**
+>
+> **Your photographs are on the file and you do not need to send anything
+> further.**
+>
+> **One thing in case it is on your mind: there is no returns address.** **We
+> do not have one to give you, so please do not post anything back** — it would
+> cost you postage for nothing. **That is not a refusal of anything.**
+>
+> **What is on the order:** #8552, placed **15 September**, despatched
+> **17 September**, two toys, **£27.95 recorded on the order, nothing refunded
+> to date.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** das **neutrale Angebot statt einer Deutung** — er fordert
+nichts Bestimmtes —, die überprüfbare Auskunft über den eigenen Text, und die
+**klare Auskunft, dass es keine Rücksendeadresse gibt**, ohne daraus eine
+Absage zu machen. **Keine Erstattung zugesagt, kein Betrag, kein Termin, keine
+Absage, keine Kauschaden-Vorlage.** **Keine Behauptung, „indestructible"
+existiere nicht.** **Keine Rekonstruktion der Anzeige.** **Keine Aussage zur
+Qualität oder Haltbarkeit, in keine Richtung.** **Keine Folgerung daraus, dass
+zwei Hunde die Artikel hatten.** **Keine Aussage zum Preis oder dazu, ob er
+angemessen war.** **Kein Foto verlangt**, ausdrücklich abbestellt. **Er wird
+mit dem Namen angesprochen, mit dem er unterschreibt** (die Rechnungsadresse
+lautet auf „Andrew"). Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
