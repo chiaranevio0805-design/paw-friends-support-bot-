@@ -560,3 +560,72 @@ abbestellt.**
   nicht erhalten**, weil von hier nichts gesendet werden kann.
 - **🔴 Elf Geldzusagen ohne Ausführung**, unverändert.
 - **⏰⏰ Drei offene Stornofenster:** #8781, #8669, #8605.
+
+---
+
+## Lauf 20:20 UTC — **nach dem Abendreport eingegangen**
+
+**Posteingang und Postausgang geprüft.** Zwei neue Nachrichten, **beide nach
+dem Abendreport von 19:15 UTC.**
+
+### #8559 — Justine Rowbottom (`justsimple21@hotmail.co.uk`), 25.09. 19:24 UTC — Erstkontakt
+
+**Vorab-Suche:** ein einziger Thread, **Erstkontakt.**
+
+> *„Received my order today the plush lasted all of five minutes before it
+> ripped **i would like to request a refund** **i can send pictures**"*
+
+**Shopify (#8559):** bestellt **15.09.**, Versand **17.09.** (zwei Tage), ein
+Plushies („hippo"), **£19,95**, **0,00 £ erstattet**, Stockport (GB).
+
+**Sie verlangt ausdrücklich eine Erstattung** — das geht unverändert an den
+Owner. **Die angebotenen Fotos werden ausdrücklich abbestellt**, damit kein
+Nachweis zur Bedingung wird. **Keine Kauschaden-Vorlage, keine Aussage zur
+Qualität.** **Sie erwähnt die Werbung nicht** — es wird nichts darüber
+behauptet, und sie wird **nicht** als Werbeaussage gezählt.
+
+**Label:** `Bot/Needs Approval`.
+
+### #8573 — Alison Greaves (`alisongreaves41@gmail.com`), 25.09. 20:13 UTC — Erstkontakt
+
+**Vorab-Suche:** ein einziger Thread, **Erstkontakt.**
+
+**Betreff: „Indestructable toy".** Im Volltext:
+
+> *„I have a 6 month old labrador puppy who so far has managed to destroy every
+> toy he owns. **I had high hopes with your toy. It arrived at 1pm today and
+> now at 9 it is in several pieces.** Very disappointed customer, Alison
+> Greaves"*
+
+**Shopify (#8573):** bestellt **16.09.**, Versand **17.09.** (ein Tag), ein
+Plushies („donkey"), **£19,95**, **0,00 £ erstattet**, Washington Village (GB),
+Yanwen `UL519772141YP`.
+
+**⚠️ Sie stellt keine Forderung** — neutrales Angebot statt Deutung. **Sie
+beruft sich aber im Betreff auf die Werbung**, deshalb eskaliert.
+
+**⚠️ Sie schreibt selbst, ihr Welpe habe bisher jedes Spielzeug zerstört.**
+**Daraus wird ausdrücklich nichts gefolgert**, und es wird nicht gegen sie
+verwendet — **weder zum Alter des Hundes noch zu seinem Verhalten wird etwas
+gesagt.** **Das steht auch so im Entwurf.**
+
+**Foto beigefügt — nicht geöffnet, ausdrücklich abbestellt.**
+
+**Siebenundsechzigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Tagesabschluss 25.09.
+
+- **Zwölf Kundenvorgänge**, davon **zehn eskaliert**, **zwei Needs Approval**
+  (#8550, #8559).
+- **374 Entwürfe in der Datei, keiner in Gmail.** **Einer davon (der erste für
+  #8577) ist ersetzt und darf nicht gesendet werden.**
+- **Keine Erstattung, keine Stornierung, kein Regel-4-Fall.**
+- **⚠️ Siebenundsechzig unabhängige Kundenaussagen zur Werbung.**
+- **🔴 Elf Geldzusagen ohne Ausführung.**
+- **⏰⏰ Drei offene Stornofenster:** #8781, #8669, #8605.
+- **📤 Die Entwürfe für #8559 und #8573 stehen in keinem Abendreport** — beide
+  entstanden danach.

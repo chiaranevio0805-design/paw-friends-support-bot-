@@ -18775,6 +18775,111 @@ angemessen war.** **Kein Foto verlangt**, ausdrücklich abbestellt. **Er wird
 mit dem Namen angesprochen, mit dem er unterschreibt** (die Rechnungsadresse
 lautet auf „Andrew"). Kein Eskalationsmarker im Text.
 
+## #8559 — Justine Rowbottom (justsimple21@hotmail.co.uk) — GB, Erstkontakt, **Erstattung verlangt**
+
+**Betreff:** Re: A shipment from order #8559 is on the way
+
+> Dear Justine,
+>
+> **You have asked for a refund and told us plainly why. I am not going to
+> answer that with a paragraph about policy.**
+>
+> **I cannot approve a refund from this desk, and I am not going to refuse you
+> one either.** That decision is the shop owner's, and your message goes to him
+> today in your own words.
+>
+> **I am not going to promise you an answer or a date, because I do not control
+> either.**
+>
+> **You offered to send pictures. Please do not go to the trouble** — nothing
+> here depends on you proving what happened, and asking you for evidence would
+> only add a step between you and an answer.
+>
+> **I am also not going to make a claim about the toy in either direction** —
+> not to defend it, and not to agree with you about it. **You told us what
+> happened and it is recorded exactly as you wrote it.**
+>
+> **One thing in case it is on your mind: there is no returns address.** **We
+> do not have one to give you, so please do not post anything back** — it would
+> cost you postage for nothing. **That is not a refusal of anything; it is
+> simply where things stand.**
+>
+> **What is on the order:** #8559, placed **15 September**, despatched
+> **17 September**, one toy, **£19.95 recorded on the order, nothing refunded
+> to date.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die ehrliche Auskunft, dass die Entscheidung beim Owner
+liegt, die **ausdrückliche Abbestellung der angebotenen Fotos**, und die
+**klare Auskunft, dass es keine Rücksendeadresse gibt**, ohne daraus eine
+Absage zu machen. **Keine Erstattung zugesagt, kein Betrag, kein Termin, keine
+Absage, keine Kauschaden-Vorlage.** **Keine Aussage zur Qualität oder
+Haltbarkeit, in keine Richtung.** **Nichts über die Garantie behauptet** — sie
+hat sie nicht angerufen. **Nichts über die Werbung behauptet** — sie hat sie
+nicht erwähnt. Kein Eskalationsmarker im Text.
+
+## #8573 — Alison Greaves (alisongreaves41@gmail.com) — GB, Erstkontakt
+
+**Betreff:** Re: Indestructable toy
+
+> Dear Alison,
+>
+> **Thank you for writing, and for being exact about the times.**
+>
+> **You have told us what happened and you have not asked us for anything, so I
+> am not going to decide on your behalf what you wanted.** **If you would like
+> this passed on as a refund request, one line back here is enough. If you
+> would rather it simply be recorded, that is what it stays.** **Either way it
+> is with the shop owner today, in your own words.**
+>
+> **You have headed your message "Indestructable toy", so let me tell you what
+> I can actually check, and you can hold me to it:** I have read all twelve of
+> our current product descriptions. **The word "indestructible" is not in any
+> of them**, and **the description of the toy you bought carries no guarantee
+> wording at all.** Where a **30-day money-back guarantee** does appear in our
+> own marketing material, **it appears without any condition attached to it.**
+>
+> **I cannot see the advertisement you actually read, so I am not going to tell
+> you what it said, and I am not going to suggest you misread it.**
+>
+> **I am not going to make a claim about the toy itself in either direction**,
+> and **I am drawing no conclusion from your puppy's age or from what has
+> happened to his other toys.** **You said it, not me, and it is not being used
+> against you.**
+>
+> **Your photograph is on the file and you do not need to send anything
+> further.**
+>
+> **One thing in case it is on your mind: there is no returns address.** **We
+> do not have one to give you, so please do not post anything back** — it would
+> cost you postage for nothing.
+>
+> **What is on the order:** #8573, placed **16 September**, despatched
+> **17 September**, one toy, **£19.95 recorded on the order, nothing refunded
+> to date.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** das **neutrale Angebot statt einer Deutung** — sie fordert
+nichts —, die überprüfbare Auskunft über den eigenen Text, und die **klare
+Auskunft, dass es keine Rücksendeadresse gibt**. **Keine Erstattung zugesagt,
+kein Betrag, kein Termin, keine Absage, keine Kauschaden-Vorlage.** **Keine
+Behauptung, „indestructible" existiere nicht.** **Keine Rekonstruktion der
+Anzeige.** **Keine Aussage zur Qualität oder Haltbarkeit, in keine Richtung.**
+**Ausdrücklich keine Folgerung aus dem Alter des Hundes oder daraus, dass er
+schon andere Spielzeuge zerstört hat** — ihre eigene Schilderung wird nicht
+gegen sie verwendet. **Kein Foto verlangt**, ausdrücklich abbestellt. Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
