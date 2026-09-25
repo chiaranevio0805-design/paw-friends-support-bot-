@@ -173,3 +173,143 @@ Australien.
 - **⏰⏰ Drei offene Stornofenster:** #8781, #8669, #8605.
 - **🔴 Zehn Geldzusagen ohne Ausführung**, unverändert.
 - **📤 Der Entwurf für #8228 steht in keinem Abendreport** — er entstand danach.
+
+---
+
+## Lauf 12:20 UTC
+
+**Posteingang und Postausgang geprüft.** **Vier neue Nachrichten.**
+
+### ⛔ #8312 — Paul Beaver (`mrpbeaver@gmail.com`), 25.09. 11:42 UTC — **dritte Bitte um Rückgabe**
+
+> *„**As I have already stated, I want to return the item for a full refund**
+> as your goods are not as advertised. **Please confirm the process.**"*
+
+**Belegter Verlauf:** 18.09. Erstkontakt mit Fotos · 22.09. Kauschaden-Vorlage ·
+22.09. *„I have one item unused in its original packaging. Please confirm how I
+return this for a refund."* · **24.09. 12:37 — 30 %-Angebot** (Teil der Serie) ·
+25.09. diese Nachricht.
+
+**Shopify (#8312):** bestellt **31.08.**, Versand **08.09.** (acht Tage), zwei
+Plushies („monkey", „donkey"), **£27,95**, **0,00 £ erstattet.**
+
+**Er fragt nach dem Verfahren.** **Im Entwurf steht die ehrliche Bestätigung,
+dass es keines gibt** — keine Rücksendeadresse, kein Prozess. **Kein weiteres
+Prozentangebot.** **Kein Anteil aus dem Bündelpreis geschätzt.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### #8577 — Shirley McCutcheon (`shirls_mc@hotmail.co.uk`), 25.09. 11:16 UTC — Erstkontakt
+
+**Vorab-Suche:** ein einziger Thread, **Erstkontakt.**
+
+> *„You describe these toys as **indestructable** well after 10 minutes
+> attached picture shows they are not **so I want a refund.**"*
+
+**Shopify (#8577):** bestellt **16.09.**, Versand **17.09.** (**ein Tag — keine
+Verzögerung**), **vier Plushies plus das E-Book**, **£49,90**, **0,00 £
+erstattet**, Hamilton (GB).
+
+**⚠️ `PARTIALLY_FULFILLED` — die E-Book-Position ist offen.** **Zehnte
+Bestellung mit unausgelieferter E-Book-Position** (nach #8372, #7555, #6592,
+#6254, #6546, #2852, #7831, #8456, #8476). **Ungefragt genannt.**
+
+**Keine Kauschaden-Vorlage, keine Aussage zur Qualität.** **Foto nicht
+geöffnet.** **Keine Rücksendeadresse erfunden.**
+
+**Zweiundsechzigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### ⛔ #7401 — `laceymick31@gmail.com`, 25.09. 10:45 UTC — **beruft sich auf UK-Verbraucherrecht**
+
+> *„…I consider it to be **defective and not of satisfactory quality or
+> reasonably durable** for its intended purpose. **I contacted Paw-Friends
+> regarding the problem, but no compensation or suitable remedy was offered.**
+> … **A „durable" dog toy that breaks in under 10 minutes is legally considered
+> faulty under UK consumer law**, and the retailer **must** offer a remedy…
+> **It was reported in time, but you keep ignoring it.**"*
+
+**⚠️ Vorab-Suche über Adresse und Bestellnummer: seine heutige Nachricht ist
+die einzige auffindbare.** **Im Entwurf wird ihm das offen gesagt — ausdrücklich
+ohne zu unterstellen, er habe nicht geschrieben — zusammen mit dem Hinweis auf
+die zweite Shop-Adresse.** **Sechster Kunde, den dieser blinde Fleck trifft**
+(nach #7555, #3387, #8476 und weiteren).
+
+**Shopify (#7401):** bestellt **23.08.**, Versand **03.09.** (**elf Tage**), ein
+Plushies („elephant"), **£19,95**, **0,00 £ erstattet**, Telford (GB).
+
+**Seine Rechtsauffassung geht unverändert an den Owner.** **Keine rechtliche
+Bewertung, in keine Richtung** — weder Zustimmung noch Widerspruch. **Kein
+geratener Name** — er unterschreibt nicht.
+
+**Dreiundsechzigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### ⛔🔴 #5036 — Lynette Lumley (`lynette_lumley@hotmail.com`), 25.09. 10:07 UTC — **sechster Kontakt, Bewertung bereits abgegeben**
+
+> *„I am guessing that after looking at your disgraceful reviews **to never
+> expect a reply anymore.** How disappointing and **deceitful** your business
+> is. … **I hope others look at the reviews, including the one i have left**,
+> and you never get another sale. **Enjoy my £30.** Lynette"*
+
+**🟦 Der vollständige Verlauf liegt jetzt im Thread vor:**
+
+| Datum | Vorgang |
+|---|---|
+| **08.08.** | bestellt |
+| 17.08. | *„Could I please enquire when this will be shipped?"* |
+| 18.08. | Shop: **UK-Lager ausverkauft, Versand aus dem internationalen Lager** |
+| **22.08.** | **Versand — vierzehn Tage nach der Bestellung** |
+| 30.08. | *„It is a very very long time."* |
+| 01.09. | Shop: *„on the way and currently in transit"*, Herkunft erneut genannt |
+| 07.09. | *„it has been over a month… Please could i request a full refund"* |
+| 08.09. | Shop: *„tracking… shows that your parcel was **delivered to a safe place on 1 September 2026 at 12:54**"* |
+| 08.09. | sie: *„**Rest assured we do not have the items.** The tracking for me says **still in process**?"* |
+| 09.09. | Shop: bei Nachbarn und am Grundstück nachsehen |
+| 09.09. | sie: geprüft, Nachbarn gefragt — nicht da; **Erstattung erbeten** |
+| **10.09.** | Shop: *„We have forwarded your case to the relevant team for investigation."* |
+| 15.09., 17.09., 22.09. | **drei Mails, keine Antwort** |
+| **25.09.** | diese Nachricht |
+
+**Shopify (#5036):** **£27,95**, **0,00 £ erstattet**, Versand **22.08.**,
+Yanwen `UL442891848YP`, **`updatedAt == createdAt` — seit dem Versand keine
+einzige Aktualisierung im eigenen Datensatz.**
+
+**⚠️ Damit stehen zwei Aussagen gegeneinander:** die Zustellmeldung vom 08.09.
+(*„delivered to a safe place on 1 September"*, aus einer Tracking-Seite) und
+**der eigene Datensatz, der seit dem 22.08. nichts verzeichnet.** **Im Entwurf
+wird keine der beiden übernommen** — **beide werden nebeneinandergestellt und
+gehen so an den Owner.** **Es wird weder behauptet, das Paket sei zugestellt,
+noch, es sei es nicht.**
+
+**Keine erneute Bitte, nachzusehen** — sie hat das dreimal getan. **Kein
+Versuch, sie von Bewertung oder Ombudsman abzubringen**, und **nicht um
+Änderung oder Entfernung der bereits abgegebenen Bewertung gebeten.** **Ihre
+Angabe „£30" wird ihr gegenüber nicht gegen den Bestellsatz korrigiert.**
+
+**Fünfzehn Tage seit der letzten Auskunft, sechs Kontakte, null Erstattung.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Sechs Kundenvorgänge am 25.09.** (#4940, #8228, #8312, #8577, #7401, #5036).
+- **367 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⚠️ Zehn Bestellungen mit unausgelieferter E-Book-Position** — **#8577** ist
+  die zehnte.
+- **⚠️ Dreiundsechzig unabhängige Kundenaussagen zur Werbung.**
+- **⛔ Neun Kunden mit Rückgabewunsch ohne Rückgabeweg:** #6254, #8312, #7347,
+  #8372, #7479, #7048, #8456, #8484, **#8577.**
+- **⛔ Sechster Kunde, dessen frühere Nachricht hier nicht auffindbar ist** —
+  der zweite Posteingang bleibt ein blinder Fleck.
+- **🟦 #5036: die Zustellmeldung vom 08.09. steht gegen den eigenen Datensatz**,
+  der seit dem 22.08. keine Aktualisierung trägt. **Von hier wird nichts
+  entschieden.**
+- **⏰⏰ Drei offene Stornofenster:** #8781, #8669, #8605.
+- **🔴 Zehn Geldzusagen ohne Ausführung**, unverändert.

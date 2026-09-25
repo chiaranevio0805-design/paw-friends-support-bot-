@@ -18252,6 +18252,228 @@ Anzeige.** **Das Foto wird nicht geöffnet**, nur sein Vorhandensein vermerkt.
 **Er wird mit dem Namen angesprochen, mit dem er unterschreibt** (die
 Lieferadresse lautet auf „Martin"). Kein Eskalationsmarker im Text.
 
+## #8312 — Paul Beaver (mrpbeaver@gmail.com) — GB, **dritte Bitte um Rückgabe, gestern erneut ein Prozentangebot**
+
+**Betreff:** Re: Order #8312
+
+> Dear Paul,
+>
+> **You have asked three times to return the unused toy, and yesterday you were
+> sent a percentage offer instead. That was not an answer to your question.**
+>
+> **So here is the answer, plainly: there is no returns address.** **We do not
+> have one to give you, and I am not going to invent one to make this email
+> easier to write.** **That is why the return you keep asking about has not
+> been arranged — not because your request was unreasonable.** **Please do not
+> post the item anywhere**; you would lose the postage and most likely the item
+> too.
+>
+> **You asked me to confirm the process. The honest confirmation is that there
+> is no process I can put you into from this desk.**
+>
+> **I am not going to offer you a percentage again.** You have declined it, and
+> repeating it would be pressure, not service.
+>
+> **A full refund is not mine to approve and not mine to refuse.** **Your
+> request — a full return and refund, on the grounds that the goods are not as
+> advertised — goes to the shop owner today in your own words.**
+>
+> **For the record, in your favour: the item you are asking about is unused and
+> in its original packaging.** **That is your statement and I pass it on as
+> your statement — you do not have to prove it, and you do not need to send
+> photographs.**
+>
+> **What is on the order:** #8312, placed **31 August**, not handed over for
+> despatch until **8 September — eight days** — two toys, **£27.95 recorded on
+> the order, nothing refunded to date.** **I am deliberately not quoting a
+> figure for the single unused toy**: £27.95 is a two-for-one price and halving
+> it would be a guess, not a fact.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Feststellung, dass das gestrige Prozentangebot seine
+Frage nicht beantwortet hat**, die **klare Auskunft, dass es keine
+Rücksendeadresse und kein Verfahren gibt**, mit Bitte, nichts zu verschicken,
+**kein weiteres Prozentangebot**, und die Weitergabe seiner Forderung in seiner
+eigenen Formulierung. **Keine Erstattung zugesagt, kein Betrag, kein Termin,
+keine Absage.** **Kein Anteil aus dem Bündelpreis geschätzt** — und gesagt,
+warum nicht. **Kein Nachweis, kein Foto verlangt.** **Keine Aussage zur
+Qualität, in keine Richtung.** Kein Eskalationsmarker im Text.
+
+## #8577 — Shirley McCutcheon (shirls_mc@hotmail.co.uk) — GB, Erstkontakt
+
+**Betreff:** Re: Toys delivered
+
+> Dear Shirley,
+>
+> **You have asked for a refund and given your reason. I am not going to answer
+> that with a paragraph about policy.**
+>
+> **I cannot approve a refund from this desk, and I am not going to refuse you
+> one either.** That decision is the shop owner's, and your message goes to him
+> today in your own words.
+>
+> **What I can tell you is what our own material says, and you can check me on
+> it:** I have read all twelve of our current product descriptions. **The word
+> "indestructible" is not in any of them**, and **the descriptions of the toys
+> on your order carry no guarantee wording at all.** Where a **30-day
+> money-back guarantee** does appear in our own marketing material, **it
+> appears without any condition attached to it.**
+>
+> **I cannot see the advertisement you read, so I am not going to tell you what
+> it said, and I am not going to suggest you misremember it.**
+>
+> **I am not going to make a claim about the toys themselves in either
+> direction.** You told us what happened and it is recorded exactly as you
+> wrote it.
+>
+> **Your photograph is on the file and you do not need to send anything
+> further.**
+>
+> **One thing on the order that nobody has mentioned to you.** There is a
+> further item on #8577 — **the e-book — and it is still recorded as not
+> sent.** That is separate from the toys and it goes to the shop owner too.
+>
+> **And one thing before you do anything with the toys: there is no returns
+> address.** **We do not have one to give you, so please do not post anything
+> back** — it would cost you postage for nothing.
+>
+> **What is on the order:** #8577, placed **16 September**, despatched
+> **17 September**, **£49.90 recorded on the order, nothing refunded to date.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ehrliche Auskunft, dass die Entscheidung beim Owner
+liegt**, die überprüfbare Auskunft über den eigenen Text, der **ungefragte
+Hinweis auf die unausgelieferte E-Book-Position**, und die **klare Auskunft,
+dass es keine Rücksendeadresse gibt.** **Keine Erstattung zugesagt, kein
+Betrag, kein Termin, keine Absage, keine Kauschaden-Vorlage.** **Keine
+Behauptung, „indestructible" existiere nicht.** **Keine Rekonstruktion der
+Anzeige.** **Keine Aussage zur Qualität, in keine Richtung.** **Kein Foto
+verlangt** — das beigefügte Bild wird nicht geöffnet. Kein Eskalationsmarker
+im Text.
+
+## #7401 — laceymick31@gmail.com — GB, **beruft sich auf UK-Verbraucherrecht, frühere Nachricht nicht auffindbar**
+
+**Betreff:** Re: Defective item
+
+> Hello,
+>
+> **You say you contacted us about this before and were ignored. I have
+> searched this mailbox and today's message is the only one I can find from
+> you.**
+>
+> **That is not me telling you that you did not write.** **The shop has more
+> than one address in use, and a message sent to a different one would not
+> appear here at all.** **Either way, you raised a problem and got nothing
+> back, and that part is not on you.**
+>
+> **On the legal position you set out.** You have stated what you believe UK
+> consumer law requires. **I am not qualified to tell you that you are right,
+> and I am not going to tell you that you are wrong.** **Support is the wrong
+> place for that answer and a confident reply from me would be worth nothing to
+> you.** **Your argument goes to the shop owner exactly as you wrote it,
+> unedited.**
+>
+> **On the remedy you asked for — a replacement or a refund.** **I cannot
+> approve either from this desk, and I am not going to refuse you either.**
+> **That decision is his.**
+>
+> **What I can check, and what you can hold me to:** I have read all twelve of
+> our current product descriptions. **The word "indestructible" is not in any
+> of them**, and **the description of the toy you bought carries no guarantee
+> wording at all.** Where a **30-day money-back guarantee** does appear in our
+> own marketing material, **it appears without any condition attached to it.**
+>
+> **I cannot see the advertisement you read, so I am not going to tell you what
+> it said.**
+>
+> **I am also not going to make a claim about the toy in either direction.**
+> You told us what happened and it is recorded as you wrote it. **Your
+> photograph is on the file and you do not need to send anything further.**
+>
+> **What is on the order:** #7401, placed **23 August**, not handed over for
+> despatch until **3 September — eleven days** — one toy, **£19.95 recorded on
+> the order, nothing refunded to date.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ehrliche Auskunft zur nicht auffindbaren früheren
+Nachricht** — **ohne zu unterstellen, es sei nicht geschrieben worden**, und
+mit dem offenen Hinweis auf die zweite Shop-Adresse —, die überprüfbare
+Auskunft über den eigenen Text, die offene Benennung der elf Tage bis zur
+Übergabe, und die Weitergabe **seiner Rechtsauffassung unverändert**. **Keine
+Erstattung, kein Ersatz, kein Betrag, kein Termin zugesagt — und keine
+Absage.** **Keine rechtliche Bewertung, in keine Richtung.** **Keine
+Behauptung, „indestructible" existiere nicht.** **Keine Rekonstruktion der
+Anzeige.** **Keine Aussage zur Qualität.** **Kein Foto verlangt.** **Keine
+Anrede mit einem geratenen Namen** — er unterschreibt nicht. Kein
+Eskalationsmarker im Text.
+
+## #5036 — Lynette Lumley (lynette_lumley@hotmail.com) — GB, **sechster Kontakt, Bewertung bereits abgegeben**
+
+**Betreff:** Re: Order #5036 confirmed - Refund email x 3
+
+> Dear Lynette,
+>
+> **You wrote on 15, 17 and 22 September and got nothing back. You are right
+> about that, and I am not going to explain it away.** **The last thing you
+> were told was on 10 September — that your case had been forwarded for
+> investigation. That was fifteen days ago and nothing has come back to you
+> since.**
+>
+> **Where things actually stand, from our own record rather than from a
+> tracking page:** order #5036 was placed on **8 August** and **was not handed
+> over for despatch until 22 August — fourteen days.** **Since that despatch
+> was created, our record carries no update against it at all.**
+>
+> **On 8 September you were told the parcel had been delivered to a safe place
+> on 1 September. You replied that your own tracking showed it still in
+> process, and that after checking your property and asking your neighbours the
+> items were not there.** **I am not going to tell you which of those is
+> correct, because I cannot see anything here that settles it.** **What I can
+> do is set both statements side by side and send them to the shop owner
+> together, rather than quietly adopting the one that suits us.**
+>
+> **What I am not going to do is ask you to check again.** You have already
+> done that, and asking a fourth time would be an insult.
+>
+> **On the refund: it is not mine to approve and not mine to refuse.** **Your
+> request goes to him today with the dates — ordered 8 August, despatched
+> 22 August, no update since, and three unanswered emails.** **£27.95 is
+> recorded on the order and nothing has been refunded.**
+>
+> **On the review you have left and on the Ombudsman: both are entirely your
+> decision.** **I am not going to ask you to change or remove anything, I am
+> not going to ask you to hold off, and nothing here depends on what you do.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Anerkennung der drei unbeantworteten Mails und der
+fünfzehn Tage seit der letzten Auskunft als eigenes Versäumnis**, die
+überprüfbare Auskunft aus dem **eigenen Datensatz** (vierzehn Tage bis zur
+Übergabe, **seither keine Aktualisierung**), und das **Nebeneinanderstellen der
+beiden widersprüchlichen Aussagen zur Zustellung**, ohne eine davon zu
+übernehmen. **Keine Erstattung zugesagt, kein Betrag über den auf der
+Bestellung verzeichneten hinaus, kein Termin, keine Absage.** **Nicht
+behauptet, das Paket sei zugestellt worden — und nicht behauptet, es sei es
+nicht.** **Keine erneute Bitte, nachzusehen.** **Kein Verweis an den
+Versanddienstleister.** **Kein Versuch, sie von Bewertung oder Ombudsman
+abzubringen**, und **nicht um Änderung oder Entfernung der Bewertung gebeten.**
+**Ihre Angabe „£30" wird nicht gegen den Bestellsatz korrigiert.** **Die
+Herkunft der Sendung wird nicht erneut angesprochen** — sie wurde ihr am 18.08.
+und 01.09. bereits genannt. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
