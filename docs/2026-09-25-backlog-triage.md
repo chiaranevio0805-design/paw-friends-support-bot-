@@ -385,3 +385,54 @@ Echtheit der Testimonials.**
   hinzu, seine Frage steht seit dem 11.09. offen.
 - **⚠️ Vierundsechzig unabhängige Kundenaussagen zur Werbung.**
 - **⏰⏰ Drei offene Stornofenster:** #8781, #8669, #8605.
+
+---
+
+## Lauf 14:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht — **von derselben
+Kundin wie im 12:20-Lauf, in einem zweiten Thread.**
+
+### ⛔ #8577 — Shirley McCutcheon (`shirls_mc@hotmail.co.uk`), 25.09. 13:28 UTC — **zweiter Thread, kündigt einen öffentlichen Beitrag an**
+
+> *„I have received these toys and one was **destructed in less than
+> 10 minutes** when **you claim wrongly they are indestructable** so **send me
+> a refund** and **I will be posting this information on website so others are
+> not deceived**"*
+
+**Zwei Stunden und zwölf Minuten nach ihrer ersten Nachricht (11:16 UTC), in
+einem getrennten Thread.** **Dritte Kundin binnen drei Tagen, die zwei Threads
+aufmacht** (nach #8456 am 23.09. und #7208 am 24.09.).
+
+**⚠️ Der Entwurf aus dem 12:20-Lauf wird dadurch überholt** — er kannte die
+Ankündigung des öffentlichen Beitrags nicht. **Der neue Entwurf führt beide
+Threads zusammen und ersetzt ihn.** **Der alte Entwurf bleibt in der Datei
+stehen, ist aber als ersetzt gekennzeichnet und darf nicht zusätzlich gesendet
+werden.**
+
+**Neu aus der zitierten Versandmail:** die Sendung vom 17.09. lief über **Yun
+Express `YT2626000705601466`** und enthielt **vier Artikel** — **die fünfte
+Position, das E-Book, war nicht dabei.** Das bestätigt den
+`PARTIALLY_FULFILLED`-Befund aus dem 12:20-Lauf. **Die Sendungsnummer wird im
+Entwurf nicht als Zustellbeleg verwendet.**
+
+**Kein Versuch, sie vom Beitrag abzubringen**, nichts davon abhängig gemacht,
+**nicht um Entfernung gebeten.**
+
+**Fünfundsechzigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Sieben Kundenvorgänge am 25.09.** — **#8577 zählt weiter als ein Vorgang**,
+  jetzt mit zwei Kontakten.
+- **369 Entwürfe in der Datei**, **keiner in Gmail.** **Einer davon (der erste
+  für #8577) ist ersetzt und darf nicht gesendet werden.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⚠️ Fünfundsechzig unabhängige Kundenaussagen zur Werbung.**
+- **🔴 Elf Geldzusagen ohne Ausführung**, unverändert.
+- **⏰⏰ Drei offene Stornofenster:** #8781, #8669, #8605.

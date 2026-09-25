@@ -18543,6 +18543,72 @@ der Anzeige.** **Kein Versuch, ihn von den Medien abzubringen.** **Kein Video
 und kein Foto verlangt**, ausdrücklich abbestellt. Kein Eskalationsmarker im
 Text.
 
+## #8577 — Shirley McCutcheon (shirls_mc@hotmail.co.uk) — GB, **zwei Threads zusammengeführt, kündigt einen öffentlichen Beitrag an** *(ersetzt den Entwurf vom 12:20-Lauf)*
+
+**Betreff:** Re: A shipment from order #8577 is on the way
+
+> Dear Shirley,
+>
+> **You wrote to us twice today, in two separate threads. I am answering both
+> here once, so this does not get handled twice or half-handled.**
+>
+> **You have asked for a refund and given your reason. I am not going to answer
+> that with a paragraph about policy.**
+>
+> **I cannot approve a refund from this desk, and I am not going to refuse you
+> one either.** That decision is the shop owner's, and both of your messages go
+> to him today in your own words.
+>
+> **What I can tell you is what our own material says, and you can check me on
+> it:** I have read all twelve of our current product descriptions. **The word
+> "indestructible" is not in any of them**, and **the descriptions of the toys
+> on your order carry no guarantee wording at all.** Where a **30-day
+> money-back guarantee** does appear in our own marketing material, **it
+> appears without any condition attached to it.**
+>
+> **I cannot see the advertisement you read, so I am not going to tell you what
+> it said, and I am not going to suggest you misremember it.**
+>
+> **I am not going to make a claim about the toys themselves in either
+> direction.** You told us what happened and it is recorded exactly as you
+> wrote it. **Your photograph is on the file and you do not need to send
+> anything further.**
+>
+> **On posting about this publicly: that is entirely your decision.** **I am
+> not going to ask you to hold off, I am not going to ask you to take anything
+> down, and nothing in this reply is conditional on what you do or do not
+> post.**
+>
+> **One thing on the order that nobody has mentioned to you.** Four items were
+> despatched on 17 September. **There is a fifth item on #8577 — the e-book —
+> and it is still recorded as not sent.** That is separate from the toys, and
+> it goes to the shop owner too.
+>
+> **And one thing before you do anything with the toys: there is no returns
+> address.** **We do not have one to give you, so please do not post anything
+> back** — it would cost you postage for nothing.
+>
+> **What is on the order:** #8577, placed **16 September**, despatched
+> **17 September**, **£49.90 recorded on the order, nothing refunded to date.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Zusammenführung ihrer beiden Threads**, die ehrliche
+Auskunft, dass die Entscheidung beim Owner liegt, die überprüfbare Auskunft
+über den eigenen Text, der **ungefragte Hinweis auf die unausgelieferte
+E-Book-Position**, und die **klare Auskunft, dass es keine Rücksendeadresse
+gibt.** **Keine Erstattung zugesagt, kein Betrag, kein Termin, keine Absage,
+keine Kauschaden-Vorlage.** **Kein Versuch, sie von einem öffentlichen Beitrag
+abzubringen**, nichts davon abhängig gemacht, und **nicht um Entfernung
+gebeten.** **Keine Behauptung, „indestructible" existiere nicht.** **Keine
+Rekonstruktion der Anzeige.** **Keine Aussage zur Qualität, in keine
+Richtung.** **Kein Foto verlangt.** **Die Sendungsnummer wird nicht als
+Zustellbeleg verwendet.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
