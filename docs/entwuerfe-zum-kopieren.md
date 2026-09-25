@@ -18474,6 +18474,75 @@ abzubringen**, und **nicht um Änderung oder Entfernung der Bewertung gebeten.**
 Herkunft der Sendung wird nicht erneut angesprochen** — sie wurde ihr am 18.08.
 und 01.09. bereits genannt. Kein Eskalationsmarker im Text.
 
+## #5973 — Stephen Cooil (stevecooil@me.com) — GB, **50 % am 17.09. als „processed" bestätigt, `refunds` leer**
+
+**Betreff:** Re: Plushies Order 5973
+
+> Dear Stephen,
+>
+> **You have not seen the refund because, as far as our own order record goes,
+> it was never issued.**
+>
+> **I would rather tell you that plainly than let you keep waiting on it.** On
+> **17 September** you were told your **50 % partial refund "has been
+> processed."** **The order record for #5973 shows `£0.00` refunded and no
+> refund entries against it at all.** **That is eight days.**
+>
+> **I am not going to tell you it is on its way, or that it is with your bank,
+> or that it takes a few more business days. I have no basis for any of those
+> and you have already been given one version of them.**
+>
+> **What I can do — and what I am doing today — is put this in front of the
+> shop owner as an outstanding payment that was confirmed to you in writing and
+> not made.** **He is the only person who can release it. I cannot issue it
+> from this desk, and I am not going to make you a second promise to replace a
+> first one that was not kept.**
+>
+> **The rest of what you raised is going to him with it, not instead of it:**
+>
+> - **The donkey is still unused.** You asked on 11 September how to return it.
+>   **The honest answer, which you should have had then, is that there is no
+>   returns address** — we do not have one to give you. **So please do not post
+>   it back.** **That is not a refusal; it is the state of things.**
+> - **Your point about the advertising and the testimonials** goes to him as
+>   you wrote it. **I have read all twelve of our current product descriptions:
+>   the word "indestructible" is not in any of them**, and **the descriptions
+>   of the toys on your order carry no guarantee wording at all.** Where a
+>   **30-day money-back guarantee** appears in our own marketing material, **it
+>   appears without any condition attached** — **which is not the version
+>   quoted to you on 9 and 11 September.** **I cannot see the advertisement you
+>   read, so I am not going to tell you what it said.**
+> - **Your comment about the size of the toys is recorded and passed on
+>   unchanged.** **I am not going to make a claim about it either way from
+>   here.**
+>
+> **On going to the media: that is entirely your decision.** **I am not going
+> to ask you to hold off, and nothing here depends on you doing so.**
+>
+> **You do not need to send the video or the photographs again.**
+>
+> **What is on the order:** #5973, placed **13 August**, not handed over for
+> despatch until **22 August — nine days** — two toys, **£29.95 recorded on the
+> order, £0.00 refunded.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass die am 17.09. bestätigte
+Erstattung im Bestelldatensatz nicht existiert** (`totalRefundedSet` 0,00 £,
+`refunds` leer), die **ausdrückliche Weigerung, eine zweite Zusage an die
+Stelle der ersten zu setzen**, die **klare Auskunft, dass es keine
+Rücksendeadresse für den ungenutzten Artikel gibt**, die überprüfbare Auskunft
+über den eigenen Text, und die dringliche Weitergabe an den Owner. **Keine
+Erstattung zugesagt, kein Betrag zugesagt, kein Termin, keine Absage.**
+**Nicht behauptet, das Geld sei unterwegs, bei der Bank oder in Bearbeitung.**
+**Keine Aussage zur Größe der Artikel, in keine Richtung** — nur weitergegeben.
+**Keine Aussage über die Echtheit der Testimonials.** **Keine Rekonstruktion
+der Anzeige.** **Kein Versuch, ihn von den Medien abzubringen.** **Kein Video
+und kein Foto verlangt**, ausdrücklich abbestellt. Kein Eskalationsmarker im
+Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

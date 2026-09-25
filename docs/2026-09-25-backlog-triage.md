@@ -313,3 +313,75 @@ Angabe „£30" wird ihr gegenüber nicht gegen den Bestellsatz korrigiert.**
   entschieden.**
 - **⏰⏰ Drei offene Stornofenster:** #8781, #8669, #8605.
 - **🔴 Zehn Geldzusagen ohne Ausführung**, unverändert.
+
+---
+
+## Lauf 13:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht — **und sie ist
+die elfte nicht ausgeführte Geldzusage.**
+
+### 🔴 #5973 — Stephen Cooil (`stevecooil@me.com`), 25.09. 12:33 UTC
+
+> *„Dear Lisa, **I've not seen any sign of my refund yet.** Kind regards,
+> Stephen."*
+
+**Der belegte Verlauf:**
+
+| Datum | Vorgang |
+|---|---|
+| 06.09. (nach seiner Angabe) | Erstkontakt mit **Video und Foto** — **blieb unbeantwortet** |
+| 08.09. | *„I wish to return both items for a full refund per the advertised 30 day guarantee."* |
+| 09.09. | Kauschaden-Vorlage |
+| 09.09. | *„…testimonials from people who say favourable things. **I can't believe these are genuine**… the toys are **smaller than the impression given**… this seems like a scam and **if I don't get satisfaction from you I will be in touch with the media**"* |
+| 11.09. | zweite Vorlage |
+| **11.09.** | *„**I still have one unused toy that I wish to return for a refund. How do I go about this?**"* — **nie beantwortet** |
+| 13.09. | **30 %** |
+| 14.09. | *„You should be offering me at least 50 %… **I have video proof**"* |
+| 15.09. | **40 %** |
+| 15.09. | *„**The least I can accept is 50 %.**"* |
+| **17.09.** | *„We can confirm that your **50 % partial refund has been processed.**"* |
+| **25.09.** | *„I've not seen any sign of my refund yet."* |
+
+**Shopify (#5973):** bestellt **13.08.**, Versand **22.08.** (neun Tage), zwei
+Plushies („donkey", „elephant"), **£29,95**, **`totalRefundedSet`: 0,00 £**,
+**`refunds`: leere Liste**, Chester (GB), Yanwen `UL442891065YP`.
+
+**🔴 Elfte Geldzusage ohne Ausführung.** **Acht Tage seit der Bestätigung.**
+**50 % wären £14,98 gewesen — der Betrag steht nicht im Entwurf**, genannt wird
+nur der auf der Bestellung verzeichnete Gesamtbetrag und die Tatsache, dass
+0,00 £ erstattet sind.
+
+**Im Entwurf wird ihm offen gesagt, dass die Erstattung im Datensatz nicht
+existiert** — **und ausdrücklich keine zweite Zusage an die Stelle der ersten
+gesetzt.** **Nicht behauptet, das Geld sei unterwegs oder bei der Bank.**
+
+**⚠️ Seine Frage vom 11.09. — wie er den ungenutzten Donkey zurückgibt — ist
+seit vierzehn Tagen unbeantwortet.** **Sie wird im Entwurf beantwortet: es gibt
+keine Rücksendeadresse.** **Zehnter Kunde mit Rückgabewunsch ohne Rückgabeweg.**
+
+**⚠️ Zu seiner Aussage über die Größe der Artikel wird nichts behauptet, in
+keine Richtung** — sie wird unverändert weitergegeben. **Ebenso nichts über die
+Echtheit der Testimonials.**
+
+**Kein Versuch, ihn von den Medien abzubringen.**
+
+**Vierundsechzigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Sieben Kundenvorgänge am 25.09.**
+- **368 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **🔴 ELF Geldzusagen ohne Ausführung:** #4812, #4919, #7884, #7179, #6546,
+  #6583, #5148, #6259, #4998, #7060 — und **#5973 (50 %, am 17.09. als
+  „processed" bestätigt, `refunds` leer).**
+- **⛔ Zehn Kunden mit Rückgabewunsch ohne Rückgabeweg** — **#5973** kommt
+  hinzu, seine Frage steht seit dem 11.09. offen.
+- **⚠️ Vierundsechzig unabhängige Kundenaussagen zur Werbung.**
+- **⏰⏰ Drei offene Stornofenster:** #8781, #8669, #8605.
