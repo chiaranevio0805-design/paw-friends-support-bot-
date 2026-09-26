@@ -431,3 +431,14 @@ festgestellt. **Der Owner entscheidet, ob er darauf eingeht.**
 
 **Kein Kundenvorgang, kein Label, kein Entwurf.** **Die Zahlen des
 Tagesabschlusses bleiben unverändert: vier Kundenvorgänge, 379 Entwürfe.**
+
+---
+
+## Läufe 22:20 und 23:20 UTC
+
+**Nichts Neues.** Keine Aktion. **Der Tag endet mit vier Kundenvorgängen, alle
+vier eskaliert, und zwei Nicht-Kundenvorgängen** (Google-Sicherheitswarnung
+10:23 UTC, Kaltakquise 20:44 UTC).
+
+**379 Entwürfe in der Datei, keiner in Gmail.** **Keine Erstattung, keine
+Stornierung, kein Regel-4-Fall am 26.09.**
