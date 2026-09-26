@@ -18928,6 +18928,79 @@ behauptet, sie sei versandt.** **Keine Bitte, weiter zu warten oder erneut zu
 schreiben.** **Kein Versuch, ihn von seinem Zahlungsdienstleister
 abzubringen.** Kein Eskalationsmarker im Text.
 
+## #7034 — Sarah Checksfield (sarahc300@gmail.com) — GB, **zweiter Kontakt, zweiter Artikel ungeöffnet, lehnt einen Gutschein ab**
+
+**Betreff:** Re: Destroyed in seconds
+
+> Dear Sarah,
+>
+> **You asked one practical question — how you go about returning the second
+> toy, which is still in its original packaging — and that is the part I can
+> answer straight away.**
+>
+> **There is no returns address.** **We do not have one to give you, and I am
+> not going to invent one to make this email easier to write.** **So please do
+> not post it back** — you would lose the postage and most likely the toy as
+> well. **That is not a refusal of your request; it is simply the state of
+> things, and you were entitled to hear it when you first asked.**
+>
+> **On the refund for that unused second toy: I cannot approve it from this
+> desk and I am not going to refuse it either.** **That decision is the shop
+> owner's, and your message goes to him today in your own words.** **You have
+> said you want it to the original payment method and not as a voucher — that
+> goes to him exactly as you put it, and nothing here offers you a voucher.**
+>
+> **On the reply you had on 15 September.** It told you the guarantee applies
+> to items **"returned unused and in their original condition."** **The second
+> toy is exactly that.** **I am not going to argue that point with you and I
+> am not going to treat it as a chewed item.**
+>
+> **On the advertising, here is what is checkable from here**, so you are not
+> relying on my word: I have read all twelve of our current product
+> descriptions. **The word "indestructible" is not in any of them**, and **the
+> descriptions of the toys on your order carry no guarantee wording at all.**
+> Where a **30-day money-back guarantee** does appear in our own marketing
+> material, **it appears without any condition attached to it.**
+>
+> **You have mentioned a promise to replace a toy if it is destroyed.** **I
+> could not find a replacement promise in any of the material I am able to
+> check, and I am not going to tell you it does not exist — only that I could
+> not find it where I can look.** **You are not the first customer to describe
+> it, and that fact goes to him with your message rather than being brushed
+> aside.**
+>
+> **I cannot see the Facebook advert you saw, so I am not going to tell you
+> what it said, and I am certainly not going to suggest you misread it.**
+>
+> **I am not going to make a claim about the first toy in either direction.**
+> You described what happened and it is recorded as you wrote it. **Your
+> photograph is on the file and you do not need to send anything further.**
+>
+> **What is on the order:** #7034, placed **21 August**, not handed over for
+> despatch until **2 September — twelve days** — two toys, **£27.95 recorded on
+> the order, nothing refunded to date.** **I am deliberately not quoting a
+> figure for the single unused toy**: £27.95 is a two-for-one price and halving
+> it would be a guess, not a fact.
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **direkte Beantwortung ihrer Frage nach dem
+Rückgabeweg** — es gibt keinen —, die **Feststellung, dass der zweite Artikel
+genau die Bedingung erfüllt, die ihr am 15.09. entgegengehalten wurde**, die
+Weitergabe ihrer ausdrücklichen Ablehnung eines Gutscheins **unverändert**, die
+überprüfbare Auskunft über den eigenen Text, und der Hinweis, dass **sie nicht
+die erste ist, die eine Ersatzzusage beschreibt.** **Keine Erstattung zugesagt,
+kein Betrag, kein Termin, keine Absage.** **Kein Gutschein angeboten** — und
+nicht behauptet, ihr sei je einer angeboten worden. **Kein Anteil aus dem
+Bündelpreis geschätzt** — und gesagt, warum nicht. **Nicht behauptet, eine
+Ersatzzusage existiere nicht** — nur, wo sie nicht gefunden wurde. **Keine
+Rekonstruktion der Facebook-Anzeige.** **Keine Aussage zur Qualität, in keine
+Richtung.** **Kein Foto verlangt.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
