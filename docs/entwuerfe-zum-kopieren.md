@@ -19064,6 +19064,65 @@ Trading Standards abzubringen**, und nicht um Rücknahme gebeten. **Keine
 Aussage zur Qualität oder zu Konkurrenzprodukten**, die sie erwähnt hat. Kein
 Eskalationsmarker im Text.
 
+## #8574 — John Husk (`husky0877@googlemail.com`) — 26.09., Entwurf
+
+**Betreff:** `Re: Plushies — your message of 26 September`
+
+> Dear John,
+>
+> Thank you for writing, and I am sorry the toy did not survive the evening.
+>
+> I would rather give you an honest answer than a standard one, so let me
+> start with something awkward. The address you have written from is not
+> letter-for-letter the address on the order I believe is yours. The name
+> matches exactly, so I am fairly confident it is you — but I am not going to
+> set out order details in an email to an address that does not match the
+> record, and I hope you will take that as care rather than obstruction. If
+> you send me the order number, or write from the address the order was placed
+> under, I can be specific.
+>
+> What I can answer without that:
+>
+> You say it was not as described. Our own product page for the Plushies uses
+> the words **"Rope-reinforced construction"** and **"Anti-tear design built
+> for strong chewers."** I am quoting our page to you rather than telling you
+> what those words ought to mean. Whether what arrived matched them is not
+> mine to rule on, and I am not going to tell you it did.
+>
+> You have not asked me for anything specific, and I am not going to decide
+> for you. If you want a refund, a replacement, or simply for this to be on
+> record, tell me which and I will pass it on in your words. I am not turning
+> your message into a request you did not make.
+>
+> I should also be plain about what I cannot do. I cannot process a refund or
+> a return from this desk, and I am not going to give you a date I cannot
+> keep. What I can do is put your message in front of the shop owner today,
+> unchanged.
+>
+> You attached two photographs. **I have not opened them, and I am not asking
+> you for any.** No photograph is a condition of anything here.
+>
+> One last thing, so you do not waste your postage: **there is currently no
+> returns address I can give you.** Please do not post the toy anywhere until
+> somebody sends you an actual address in writing.
+>
+> I am sorry this is not a faster answer.
+>
+> Kind regards,
+> Paw Friends Support
+
+⚠️ **Zusage darin:** **keine Erstattung zugesagt**, **kein Ersatz zugesagt**,
+**kein Termin genannt**, **keine Rücksendeadresse genannt** (ausdrücklich, dass
+es keine gibt, mit Warnung vor der Sendung). **Kein Foto verlangt**, die
+beigefügten **nicht geöffnet**. **Keine Aussage zur Haltbarkeit oder Qualität,
+in keine Richtung** — nur der **wörtliche** Produkttext, ohne Auslegung.
+**Nicht behauptet, die Beschreibung sei zutreffend oder unzutreffend.**
+**Nichts aus Rasse oder Größe des Hundes gefolgert.** **Keine
+Bestelldaten an eine nicht hinterlegte Adresse herausgegeben** — offen
+begründet, **ohne ihm zu unterstellen, er sei nicht der Besteller.** **Keine
+Deutung seiner Nachricht als Erstattungsforderung.** **Keine
+Kauschaden-Vorlage.** **Kein Prozentangebot.**
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

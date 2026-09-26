@@ -184,3 +184,83 @@ Aussage zu den von ihr erwähnten Konkurrenzprodukten.**
 - **⛔ Zwölf Kunden mit Rückgabewunsch ohne Rückgabeweg** — **#5148** kommt
   hinzu, und in ihrem Fall wurde die Adresse sogar ausdrücklich versprochen.
 - **⏰⏰ #8781 unverändert der dringendste Fall**, dazu #8669 und #8605.
+
+---
+
+## Läufe 08:20 und 09:20 UTC
+
+**Nichts Neues.** Keine Aktion. **Der Tagesreport für den 26.09. wurde um
+08:15 UTC erstellt** (`docs/2026-09-26-tagesreport.md`).
+
+---
+
+## Lauf 10:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht.
+
+### #8574 — John Husk (`husky0877@googlemail.com`), 26.09. 09:12 UTC — Erstkontakt
+
+**Vorab-Suche über Adresse und Namen: ein einziger Thread, Erstkontakt.**
+
+**Die Nachricht vollständig — sie trägt keinen Betreff:**
+
+> *„Disappointed, One evening and our **miniature Dachshund** has destroyed the
+> rope and ripped the label off causing a hole. **Not as described, thought it
+> was supposed to be tough!!** Regards John Husk"*
+
+**⚠️ Adressabweichung:** er schreibt von **`husky0877@googlemail.com`**, der
+Bestelldatensatz führt **`husky0877@gmail.com`**. **Der Name stimmt
+buchstabengenau überein.** **Von hier wird nicht entschieden, dass es dieselbe
+Adresse ist** — im Entwurf werden **keine Bestelldaten an die abweichende
+Adresse herausgegeben**, offen begründet und **ausdrücklich ohne zu
+unterstellen, er sei nicht der Besteller.** **Das geht so an den Owner.**
+
+**Shopify (#8574, über den Kundendatensatz gefunden, nicht über seine
+Absenderadresse):** bestellt **16.09.**, Versand **17.09.** (**ein Tag — keine
+Verzögerung**), ein Plushies („Elk"), **£19,95**, **`totalRefundedSet`
+0,00 £**, **`refunds`: leere Liste**, Dover (GB), Yanwen `UL519772169YP`,
+`FULFILLED`.
+
+**⚠️ Er stellt keine Forderung** — keine Erstattung, kein Ersatz, keine
+Rücksendung verlangt. **Nach der stehenden Regel wird daraus keine
+Erstattungsforderung gemacht**; im Entwurf steht ein neutrales Angebot und die
+Frage, was er möchte.
+
+**⚠️ Er beruft sich ausdrücklich auf die Beschreibung** (*„Not as described…
+supposed to be tough"*), deshalb eskaliert.
+
+**🟦 Seine Beanstandung trifft genau zwei Formulierungen des eigenen
+Produkttexts:** *„Rope-reinforced construction"* und *„Anti-tear design built
+for strong chewers"* — **er nennt das Seil ausdrücklich.** **Im Entwurf wird
+der Produkttext wörtlich zitiert und nicht ausgelegt** — **weder behauptet, die
+Beschreibung treffe zu, noch, sie treffe nicht zu.** **„Indestructible" steht
+in keinem der zwölf Produkttexte** und wird auch hier nicht als von uns
+stammend behandelt; **er benutzt das Wort selbst nicht.**
+
+**Aus Rasse und Größe seines Hundes wird nichts gefolgert.** **Keine
+Kauschaden-Vorlage** — er sagt nicht, die Ware sei benutzt gewesen, er
+beschreibt eine Beschädigung am ersten Abend. **Zwei Fotos beigefügt — nicht
+geöffnet und ausdrücklich abbestellt.** **Keine Rücksendeadresse erfunden**,
+mit Warnung vor einer Sendung.
+
+**Neunundsechzigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Drei Kundenvorgänge am 26.09.** (#7034, #5148, #8574).
+- **378 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⚠️ Neunundsechzig unabhängige Kundenaussagen zur Werbung.**
+- **⚠️ Neuer Befund: eine Adressabweichung** (`googlemail.com` gegen
+  `gmail.com`) bei identischem Namen. **Nicht von hier entschieden**, keine
+  Bestelldaten herausgegeben, an den Owner gemeldet.
+- **⏰⏰ #8781 unverändert der dringendste Fall**, dazu #8669 und #8605.
+- **🔴 Elf Geldzusagen ohne Ausführung**, unverändert.
+- **⛔ Zwölf Kunden mit Rückgabewunsch ohne Rückgabeweg**, unverändert —
+  **#8574 kommt nicht hinzu, weil er keine Rückgabe verlangt hat.**
+- **📤 Der Entwurf für #8574 steht in keinem Abendreport** — er entstand danach.
