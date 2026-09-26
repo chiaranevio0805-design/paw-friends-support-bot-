@@ -264,3 +264,94 @@ mit Warnung vor einer Sendung.
 - **⛔ Zwölf Kunden mit Rückgabewunsch ohne Rückgabeweg**, unverändert —
   **#8574 kommt nicht hinzu, weil er keine Rückgabe verlangt hat.**
 - **📤 Der Entwurf für #8574 steht in keinem Abendreport** — er entstand danach.
+
+---
+
+## Lauf 11:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Kundennachricht — **und
+eine Sicherheitsmeldung von Google, die nichts mit Kunden zu tun hat.**
+
+### 🟨 Nicht-Kundenvorgang: Google-Sicherheitswarnung, 26.09. 10:23 UTC
+
+**Absender `no-reply@accounts.google.com`, Betreff „Sicherheitswarnung":**
+*„Neuer Passkey wurde Ihrem Konto hinzugefügt — support.pawfriends.uk@gmail.com"*
+
+**⚠️ Von hier aus ist nicht feststellbar, ob der Owner das selbst getan hat.**
+**Es wurde nichts angeklickt, nichts bestätigt und nichts geändert.** **Kein
+Link in der Mail geöffnet.** **Die Meldung wird ausschließlich gemeldet.**
+**Wenn der Owner diesen Passkey nicht selbst angelegt hat, gehört das sofort
+geprüft** — es ist das Konto, über das der gesamte Kundenverkehr läuft.
+
+**Kein Kundenvorgang, kein Entwurf, kein Label.**
+
+### #7559 — Rod Smith (`smithrdrck@aol.com`), 26.09. 10:41 UTC — **vierter Kontakt**
+
+**Vorab-Suche: ein Thread, vier Kontakte, vollständig gelesen.**
+
+| Datum | Vorgang |
+|---|---|
+| **24.08.** | bestellt |
+| 08.09. | *„This was ordered and paid for on August 24th, when can I expect delivery?"* |
+| 09.09. | Shop: *„UK warehouse is currently sold out, so your order was shipped from our international warehouse"* — **Herkunft vom Shop selbst genannt** |
+| 09.09. | er: *„Thanks for the explanation, I will just wait."* |
+| 11.09. | Shop: Dank, Entschuldigung |
+| **26.09.** | diese Nachricht |
+
+**Die Nachricht im Kern:**
+
+> *„We REALLY love Donkey (as we have called him) **HOWEVER he is not
+> indestructible.** … he lasted 10 days before he lost his arms and the
+> stuffing is starting to come out. … **I DO NOT want to leave any kind of
+> negative review** but for £20 **I did believe your assurances.** … **I am
+> happy to accept a replacement rather than a refund**, maybe one of the other
+> 9 plushies will be better suited, what do you think?"*
+
+**Shopify (#7559):** bestellt **24.08.**, Versand **03.09.** (**zehn Tage**),
+ein Plushies („donkey"), **£19,95**, **`totalRefundedSet` 0,00 £**,
+**`refunds`: leere Liste**, Pershore (GB), Yanwen `UL478624089YP`.
+
+**⚠️ Er lehnt eine Erstattung ausdrücklich ab und bittet um Ersatz.** **Nach
+der stehenden Regel wird ihm keine Erstattung aufgedrängt** — und **es wird
+ihm auch kein Ersatz zugesagt.** **#2894 wartet seit zwei Monaten auf eine
+schriftlich zugesagte Ersatzlieferung, die nie kam**; eine zweite solche
+Zusage wird von hier nicht ausgesprochen. **Im Entwurf steht offen, dass von
+hier kein Ersatz versprochen werden kann.**
+
+**⚠️ Er sagt von sich aus, er wolle keine negative Bewertung abgeben.**
+**Daran wird nichts geknüpft, in keine Richtung** — **weder Dank noch Bitte,
+und ausdrücklich keine Gegenleistung.** **Das steht auch so im Entwurf.**
+
+**🟦 Er beruft sich auf „your assurances" und auf „indestructible".**
+**„Indestructible" steht in keinem der zwölf Produkttexte.** **Im Entwurf wird
+nur der wörtliche Produkttext zitiert** (*„Rope-reinforced construction"*,
+*„Anti-tear design built for strong chewers"*) **ohne Auslegung** — **weder
+behauptet, die Beschreibung treffe zu, noch, sie treffe nicht zu**, und
+**nicht behauptet, das Wort sei nie verwendet worden.**
+
+**Seine Angabe „£20" wird nicht gegen den Bestellsatz korrigiert.** **Seine
+Telefonnummer steht in der Signatur — sie wird nicht benutzt und nicht
+erwähnt.** **Drei Fotos beigefügt — nicht geöffnet, ausdrücklich abbestellt.**
+
+**Siebzigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Vier Kundenvorgänge am 26.09.** (#7034, #5148, #8574, #7559).
+- **379 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **🟨 Sicherheitswarnung von Google zum Support-Konto** — **nur gemeldet,
+  nichts angeklickt, nichts verändert.** **Gehört vom Owner geprüft.**
+- **⚠️ Siebzig unabhängige Kundenaussagen zur Werbung.**
+- **⚠️ Zweiter Kunde heute, der ausdrücklich keine bestimmte Forderung stellt
+  bzw. eine Erstattung ablehnt** — in beiden Entwürfen wird nichts
+  hineingedeutet.
+- **⏰⏰ #8781 unverändert der dringendste Fall**, dazu #8669 und #8605.
+- **🔴 Elf Geldzusagen ohne Ausführung**, unverändert.
+- **📤 Die Entwürfe für #8574 und #7559 stehen in keinem Abendreport** — beide
+  entstanden danach.

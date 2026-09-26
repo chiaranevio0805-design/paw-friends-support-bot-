@@ -19123,6 +19123,60 @@ begründet, **ohne ihm zu unterstellen, er sei nicht der Besteller.** **Keine
 Deutung seiner Nachricht als Erstattungsforderung.** **Keine
 Kauschaden-Vorlage.** **Kein Prozentangebot.**
 
+## #7559 — Rod Smith (`smithrdrck@aol.com`) — 26.09., Entwurf
+
+**Betreff:** `Re: A shipment from order #7559 is on the way`
+
+> Dear Rod,
+>
+> Thank you for writing, and I am sorry about Donkey.
+>
+> You have asked for a replacement rather than a refund, and I am going to
+> answer that directly instead of steering you somewhere else.
+>
+> **I cannot promise you a replacement from this desk, and I am not going to
+> promise you one.** I can pass your request to the shop owner today, in your
+> own words, with the plushie you would prefer left open for you to choose. I
+> am telling you this plainly because a promise I cannot keep would be worse
+> than an honest no.
+>
+> I am also not going to offer you a refund instead. You said a replacement
+> is what you would rather have, and that is what goes forward.
+>
+> On the description: you wrote that you believed our assurances. Our product
+> page uses the words **"Rope-reinforced construction"** and **"Anti-tear
+> design built for strong chewers."** I am quoting our own page rather than
+> telling you what those words should have meant, and I am not going to tell
+> you that what you received matched them. That judgement is not mine to
+> make, and your message goes to the owner unedited.
+>
+> You mentioned that you do not want to leave a negative review. **Nothing
+> here depends on that, in either direction.** Whether you review us or not is
+> entirely your business, and it will not change what I pass on or how.
+>
+> You attached photographs. **I have not opened them, and I am not asking for
+> any.** No photograph is a condition of anything.
+>
+> For the record on your order: nothing has been refunded against #7559.
+>
+> I am sorry I cannot give you a yes today. What I can give you is an honest
+> account of where it stands.
+>
+> Kind regards,
+> Paw Friends Support
+
+⚠️ **Zusage darin:** **kein Ersatz zugesagt** — ausdrücklich gesagt, dass von
+hier keiner zugesagt werden kann. **Keine Erstattung zugesagt und keine
+angeboten** — **er hat eine Erstattung ausdrücklich abgelehnt und wird nicht
+dorthin gedrängt.** **Kein Termin genannt.** **Keine Aussage zur Haltbarkeit
+oder Qualität, in keine Richtung** — nur der **wörtliche** Produkttext, ohne
+Auslegung. **Nichts an seine Bewertungsabsicht geknüpft**, weder Dank noch
+Bitte, und **nicht um Unterlassung gebeten.** **Kein Foto verlangt**, die
+beigefügten **nicht geöffnet.** **Seine Angabe „£20" nicht gegen den
+Bestellsatz korrigiert.** **Seine Telefonnummer aus der Signatur nicht benutzt
+und nicht erwähnt.** **Keine Kauschaden-Vorlage.** **Kein Prozentangebot.**
+**Nicht behauptet, es habe je eine Ersatzzusage gegeben oder nicht gegeben.**
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
