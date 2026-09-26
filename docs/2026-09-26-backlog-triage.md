@@ -355,3 +355,23 @@ erwähnt.** **Drei Fotos beigefügt — nicht geöffnet, ausdrücklich abbestell
 - **🔴 Elf Geldzusagen ohne Ausführung**, unverändert.
 - **📤 Die Entwürfe für #8574 und #7559 stehen in keinem Abendreport** — beide
   entstanden danach.
+
+---
+
+## Läufe 12:20 – 15:20 UTC
+
+**Nichts Neues.** Keine Aktion. **Vier aufeinanderfolgende leere Läufe.**
+
+**Unverändert offen und unerledigt:**
+
+- **⏰⏰ #8781** — dritter Kontakt, Datensatz seit dem 24.09. 15:21:13 UTC
+  unverändert, Stornofenster nachweislich noch offen.
+- **⏰ #8669** und **#8605.**
+- **🔴 Elf Geldzusagen ohne Ausführung**, darunter **#5148 (viermal als
+  „processed" bestätigt)** und **#5973.**
+- **⛔ Zwölf Kunden mit Rückgabewunsch ohne Rückgabeweg**, darunter **#7048**,
+  die seit dem 23.09. auf die Warnung vor ihrem Paket wartet.
+- **🟨 Die Google-Sicherheitswarnung von 10:23 UTC** (neuer Passkey auf dem
+  Support-Konto) **ist weiterhin ungeprüft** — von hier aus nicht prüfbar.
+- **379 Entwürfe in der Datei, keiner in Gmail.** `create_draft` bleibt
+  gesperrt.
