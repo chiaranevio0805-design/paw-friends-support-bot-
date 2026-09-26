@@ -402,3 +402,32 @@ Volltext** (#8228, #8559, #8573, #8781, #7034, #5148, #8574, #7559),
   **unverändert offen, von hier nicht prüfbar.**
 - **⏰⏰ #8781, #8669, #8605** unverändert offen.
 - **🔴 Elf Geldzusagen ohne Ausführung.**
+
+---
+
+## Lauf 21:20 UTC — **nach dem Tagesabschluss eingegangen**
+
+**Posteingang geprüft.** Eine neue Nachricht — **kein Kundenvorgang.**
+
+### 🟨 Kaltakquise: `permitshopify@gmail.com`, 26.09. 20:44 UTC
+
+**Betreff „Pawfriends Uk Feedback?", unterzeichnet „CJ Dropshipping":**
+
+> *„We were looking at your store, and we noticed a few things that could be
+> hindering you from making sales… just a free audit that shows area you are
+> performing lesser than competitors. **Would it be okay if we shared a couple
+> of specific things we spotted on your store?**"*
+
+**⚠️ Unaufgeforderte Verkaufsansprache von einer Gmail-Adresse**, die mit
+`permitshopify@` einen offiziellen Anstrich hat, aber **keine ist** — Shopify
+schreibt nicht von Gmail-Adressen. **Zweite Nachricht dieser Art in diesem
+Postfach** (nach `shopifystoreregulatory.center@gmail.com` vom 06.09., die
+unter einem Regulierungs-Vorwand Shop- und Bestelldaten erfragte).
+
+**Keine Antwort, kein Entwurf.** **Nichts angeklickt, kein Link geöffnet,
+keine Daten herausgegeben.** **Es wird nicht behauptet, die Nachricht sei
+betrügerisch** — sie ist unaufgeforderte Werbung, und mehr wird von hier nicht
+festgestellt. **Der Owner entscheidet, ob er darauf eingeht.**
+
+**Kein Kundenvorgang, kein Label, kein Entwurf.** **Die Zahlen des
+Tagesabschlusses bleiben unverändert: vier Kundenvorgänge, 379 Entwürfe.**
