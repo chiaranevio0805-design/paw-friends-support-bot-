@@ -375,3 +375,30 @@ erwähnt.** **Drei Fotos beigefügt — nicht geöffnet, ausdrücklich abbestell
   Support-Konto) **ist weiterhin ungeprüft** — von hier aus nicht prüfbar.
 - **379 Entwürfe in der Datei, keiner in Gmail.** `create_draft` bleibt
   gesperrt.
+
+---
+
+## Läufe 16:20 – 20:20 UTC
+
+**Nichts Neues.** Keine Aktion. **Neun leere Läufe in Folge seit 12:20 UTC.**
+
+**Der Abendreport für den 26.09. wurde um 19:15 UTC erstellt**
+(`docs/2026-09-26-abendreport.md`, Commit `e648dae`): **acht Entwürfe im
+Volltext** (#8228, #8559, #8573, #8781, #7034, #5148, #8574, #7559),
+**Erstattungssumme 455,00 £.**
+
+### Tagesabschluss 26.09.
+
+- **Vier Kundenvorgänge**, **alle vier eskaliert**. Kein `Needs Approval`,
+  kein `Draft Ready`, kein `No Action`.
+- **379 Entwürfe in der Datei, keiner in Gmail.** `create_draft` bleibt
+  gesperrt.
+- **Keine Erstattung, keine Stornierung, kein Regel-4-Fall.**
+- **⚠️ Siebzig unabhängige Kundenaussagen zur Werbung.**
+- **🟦 Zwei Befunde zu #5148:** die 50 % wurden **viermal** als „processed"
+  bestätigt (Korrektur von „zweimal"), und **am 25.08. wurde ihr schriftlich
+  eine Rücksendeadresse angekündigt, die es nie gab.**
+- **🟨 Google-Sicherheitswarnung von 10:23 UTC** zum Support-Konto —
+  **unverändert offen, von hier nicht prüfbar.**
+- **⏰⏰ #8781, #8669, #8605** unverändert offen.
+- **🔴 Elf Geldzusagen ohne Ausführung.**
