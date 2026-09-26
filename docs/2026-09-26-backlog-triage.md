@@ -99,3 +99,88 @@ hier aus nicht einsehbar und wird nicht rekonstruiert.**
 - **⚠️ Achtundsechzig unabhängige Kundenaussagen zur Werbung.**
 - **⏰⏰ #8781 unverändert der dringendste Fall**, dazu #8669 und #8605.
 - **🔴 Elf Geldzusagen ohne Ausführung.**
+
+---
+
+## Läufe 02:20 – 06:20 UTC
+
+**Fünf Läufe ohne neue Nachricht.** Die Datumsfilter zeigten mehrfach dieselben
+bereits bearbeiteten Threads (#7347, #8484, #7989); **kein neuer Eingang.**
+Keine Aktion.
+
+---
+
+## Lauf 07:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht — **und sie
+korrigiert eine eigene Zahl nach oben.**
+
+### 🔴🔴 #5148 — Trudi Wright (`truditrotter67@icloud.com`), 26.09. 07:02 UTC
+
+> *„**It has been 3 weeks now and still no payment. I am resigned to the fact
+> that no payment is ever going to be made.**"*
+
+**🟦 Der vollständige Thread liegt jetzt vor, und er enthält mehr als
+protokolliert war:**
+
+| Datum | Vorgang |
+|---|---|
+| **24.08.** | Erstkontakt: *„I have left both toys in the bags they came in… Could you please advise how I can return these to you for a full refund."* |
+| **25.08.** | Shop: *„they **may be eligible for return** under our 30-day money-back guarantee. We have **forwarded your return request** to the relevant team, and **they will provide you with the return address and further instructions**. **Please do not send the items back until you receive the official return details.**"* |
+| 02.09. | *„I haven't had any email etc for my return parcel."* |
+| 03.09. | **30 %** statt der Adresse |
+| 03.09. | *„I would like a full refund and a return label please."* |
+| 04.09. | **40 %** |
+| 05.09. | *„They still remain **unopened in original packaging awaiting a return label**."* |
+| 06.09. | **50 %** |
+| 06.09. | *„With due consideration I will **reluctantly accept** your offer."* |
+| **07.09.** | *„the 50 % partial refund **has now been processed**"* **(1)** |
+| 15.09. | *„it still hasn't been processed"* |
+| **16.09.** | *„has **already** been processed"* **(2)** |
+| 16.09. | *„I have waited over a week… still nothing"* |
+| **18.09.** | *„has been processed"* **(3)** |
+| **19.09.** | *„I don't believe you have any intention of paying… **I have been in touch with trading standards**"* |
+| **22.09.** | *„has been processed"* **(4)** |
+| **26.09.** | *„still no payment… resigned to the fact that no payment is ever going to be made."* |
+
+**Shopify (#5148):** bestellt **08.08.**, Versand **13.08.**, zwei Plushies
+(„donkey", „fox"), **£27,95**, **`totalRefundedSet`: 0,00 £**, **`refunds`:
+leere Liste**, Newark (GB), Yanwen `UL418693612YP`.
+
+**⚠️ Richtigstellung einer eigenen Zahl:** Im Protokoll stand bisher, die 50 %
+seien **zweimal** als „processed" bezeichnet worden. **Belegt sind vier Male:
+07.09., 16.09., 18.09. und 22.09.** **Das ist der am häufigsten wiederholte
+unerfüllte Zahlungsbescheid im gesamten Bestand.**
+
+**🟦 Zweiter, bisher nicht protokollierter Befund: ihr wurde am 25.08.
+ausdrücklich eine Rücksendeadresse angekündigt** — *„they will provide you with
+the return address"* — **und ausdrücklich gebeten, bis dahin nichts zu
+schicken.** **Sie ist nie gekommen.** **Sie hat beide Artikel deshalb einen
+Monat lang ungeöffnet aufbewahrt.** **Das wird im Entwurf unaufgefordert
+anerkannt.**
+
+**50 % wären £13,98 gewesen — der Betrag steht nicht im Entwurf**, genannt wird
+nur der Gesamtbetrag und die 0,00 £.
+
+**Keine fünfte Zusage.** **Nicht behauptet, das Geld sei unterwegs oder bei der
+Bank.** **Kein Versuch, sie von Trading Standards abzubringen.** **Keine
+Aussage zu den von ihr erwähnten Konkurrenzprodukten.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Zwei Kundenvorgänge am 26.09.**
+- **377 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **🔴 Elf Geldzusagen ohne Ausführung** — die Zahl bleibt, aber **#5148 ist
+  schwerer als bisher verbucht: viermal bestätigt, nicht zweimal.**
+- **🟦 Neuer Befund: einer Kundin wurde am 25.08. schriftlich eine
+  Rücksendeadresse angekündigt, die es nicht gibt.** **Das sollte geprüft
+  werden — es kann weitere Empfänger dieser Auskunft geben.**
+- **⛔ Zwölf Kunden mit Rückgabewunsch ohne Rückgabeweg** — **#5148** kommt
+  hinzu, und in ihrem Fall wurde die Adresse sogar ausdrücklich versprochen.
+- **⏰⏰ #8781 unverändert der dringendste Fall**, dazu #8669 und #8605.

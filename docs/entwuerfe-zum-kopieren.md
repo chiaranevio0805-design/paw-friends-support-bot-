@@ -19001,6 +19001,69 @@ Ersatzzusage existiere nicht** — nur, wo sie nicht gefunden wurde. **Keine
 Rekonstruktion der Facebook-Anzeige.** **Keine Aussage zur Qualität, in keine
 Richtung.** **Kein Foto verlangt.** Kein Eskalationsmarker im Text.
 
+## #5148 — Trudi Wright (truditrotter67@icloud.com) — GB, **50 % VIERMAL als „processed" bestätigt, `refunds` leer**
+
+**Betreff:** Re: Plushies
+
+> Dear Trudi,
+>
+> **You are right to have given up on it, and I would rather tell you why than
+> let you keep waiting.**
+>
+> **As far as our own order record goes, the refund was never issued.** Order
+> #5148 shows **£0.00 refunded and no refund entries against it at all.**
+>
+> **You were told the 50 % had been "processed" on 7 September, again on
+> 16 September, again on 18 September, and again on 22 September.** **Four
+> times.** **I am not going to send you a fifth version of that sentence.**
+>
+> **I am also not going to tell you it is with your bank, or that it needs a
+> few more business days. I have no basis for either, and you have already
+> been given both.**
+>
+> **There is a second thing you were told that did not happen, and you should
+> not have to bring it up yourself.** On **25 August** you were told your
+> return request had been forwarded and that a team **would provide you with a
+> return address and further instructions**, and you were asked not to send
+> anything until they did. **No return address was ever sent to you, because
+> there is no returns address to send.** **You kept both toys unopened for a
+> month waiting for one.** **That is our failure, not yours.**
+>
+> **So where this stands, honestly: you have an unused, unopened order, a 50 %
+> refund you accepted three weeks ago and were told four times had been paid,
+> and nothing has been paid.**
+>
+> **I cannot issue it from this desk — that is the limit of what support can
+> do here, not a deflection — and I am not going to make you a fifth
+> promise.** **What I have done today is put the whole sequence in front of
+> the shop owner, with the four dates on it, as an outstanding payment that
+> was confirmed in writing and not made.** **He is the only person who can
+> release it.**
+>
+> **On Trading Standards: that is entirely your decision.** **I am not going to
+> ask you to hold off, I am not going to ask you to withdraw anything, and
+> nothing here depends on what you do.**
+>
+> **What is on the order:** #5148, placed **8 August**, despatched
+> **13 August**, two toys, **£27.95 recorded on the order, £0.00 refunded.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass die viermal bestätigte
+Erstattung im Bestelldatensatz nicht existiert** (`totalRefundedSet` 0,00 £,
+`refunds` leer), die **ausdrückliche Weigerung, eine fünfte Zusage zu machen**,
+die **unaufgeforderte Anerkennung, dass ihr am 25.08. eine Rücksendeadresse
+angekündigt und nie geschickt wurde**, und die dringliche Weitergabe mit allen
+vier Daten. **Keine Erstattung zugesagt, kein Betrag zugesagt, kein Termin,
+keine Absage.** **Nicht behauptet, das Geld sei unterwegs, bei der Bank oder in
+Bearbeitung.** **Der Betrag £13,98 wird nicht genannt** — nur der auf der
+Bestellung verzeichnete Gesamtbetrag und die 0,00 £. **Kein Versuch, sie von
+Trading Standards abzubringen**, und nicht um Rücknahme gebeten. **Keine
+Aussage zur Qualität oder zu Konkurrenzprodukten**, die sie erwähnt hat. Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
