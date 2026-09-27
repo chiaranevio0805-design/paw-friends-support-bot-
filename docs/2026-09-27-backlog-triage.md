@@ -40,3 +40,85 @@
 ## Lauf 00:20 UTC
 
 **Nichts Neues.** Keine Aktion.
+
+---
+
+## Lauf 01:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht.
+
+### ⛔ #8431 — Sarah Williams (`slw72@tpg.com.au`), 27.09. 01:08 UTC — **AU**, Erstkontakt, **verlangt ausdrücklich eine Erstattung unter der 30-Tage-Garantie**
+
+**Vorab-Suche über beide Adressen und die Bestellnummer: ein einziger Thread,
+Erstkontakt.**
+
+> *„…ordered on 9 September 2026, shipped on 14 September 2026 and **received
+> on 26 September 2026** … I was excited to order the Donkey and Elephant
+> Plush toys based on the product reviews and **the promotion of the range as
+> „Plushies – Designed for Furry Friends Who Destroy Everything."** …
+> **within approximately 10 minutes it had been ripped to shreds** … **I am
+> now very reluctant to give him the elephant plush** … **Could you please
+> advise how I can proceed with a refund under your 30-Day Guarantee?** I am
+> happy to provide photographs … proof of purchase, and any other information
+> required to support my claim."*
+
+**Shopify (#8431):** bestellt **09.09.**, Versand **14.09.** (fünf Tage), zwei
+Plushies („elephant", „donkey"), **A$53,53**, **`totalRefundedSet` 0,00 A$**,
+**`refunds`: leere Liste**, **Firle, South Australia (AU)**, 4PX
+`4PX3003158933883CN`.
+
+**⚠️ Adressabweichung, aber von ihr selbst aufgelöst:** sie schreibt von
+`slw72@tpg.com.au`, der Bestelldatensatz führt `sarahwilliams@tpg.com.au` —
+**und genau diese Adresse steht in ihrer eigenen Signatur**, zusammen mit der
+Bestellnummer. **Anders als bei #8574 ist die Zuordnung damit von ihr selbst
+belegt**; die Abweichung wird trotzdem vermerkt.
+
+**⚠️ Dritter australischer Fall** (nach #6893 und #8228). **Wie dort wird der
+eigene, veröffentlichte Abschnitt „Australia — Consumer Guarantees" wörtlich
+wiedergegeben — ausdrücklich ohne Auslegung und ohne daraus ein Versprechen
+abzuleiten.**
+
+**⚠️ Sie ruft die Garantie ausdrücklich an.** **Im Entwurf wird weder
+behauptet, sie decke den Kauschaden, noch, sie decke ihn nicht.** **Es wird
+keine Frist genannt und nicht berechnet, ob sie in der Frist liegt** — weder
+ab Kauf noch ab Erhalt. **Das ist eine Owner-Entscheidung.**
+
+**🟦 Sie zitiert den Produkttitel wörtlich richtig** — *„Plushies – Designed
+for Furry Friends Who Destroy Everything"* **ist tatsächlich unser eigener
+Titel.** **Das wird ihr bestätigt, weil es überprüfbar ist** — **ohne daraus
+eine Aussage über Haltbarkeit oder über die Berechtigung ihres Anspruchs zu
+machen.**
+
+**⛔ Der Elefant ist ungeöffnet** — sie hat ihn dem Hund nicht gegeben.
+**Dreizehnte Kundin mit unbenutzter Ware ohne Rückgabeweg.** **Im Entwurf wird
+ihr nicht gesagt, was sie damit tun soll, in keine Richtung.**
+
+**Fotos, Kaufbeleg und „any other information" ausdrücklich abbestellt** —
+**nichts wird zur Bedingung gemacht.** **Ihre Angabe „$50+" wird nicht gegen
+den Bestellsatz gerechnet.** **Ihr Zustelldatum vom 26.09. wird übernommen,
+ohne ihr zu widersprechen** — der eigene Datensatz trägt seit dem Versand
+keine Aktualisierung, und **die Sendungsnummer wird nicht als Zustellbeleg
+benutzt.** **Aus Rasse des Hundes und dem Geburtstagsanlass wird nichts
+gefolgert.** **Ihre Telefonnummer steht in der Signatur — nicht benutzt, nicht
+erwähnt.**
+
+**Einundsiebzigste unabhängige Kundenaussage zur Werbung.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Ein Kundenvorgang am 27.09.**
+- **380 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⚠️ Einundsiebzig unabhängige Kundenaussagen zur Werbung.**
+- **⚠️ Dritter australischer Fall** — der eigene AU-Abschnitt ist jetzt in
+  drei Entwürfen wörtlich zitiert, **in keinem ausgelegt.**
+- **⛔ Dreizehn Kunden mit Rückgabewunsch ohne Rückgabeweg** — **#8431** kommt
+  hinzu (der Elefant ist ungeöffnet).
+- **⏰⏰ #8781 unverändert der dringendste Fall**, dazu #8669 und #8605.
+- **🔴 Elf Geldzusagen ohne Ausführung**, unverändert.
+- **🟨 Die Google-Sicherheitswarnung vom 26.09.** bleibt offen.

@@ -19177,6 +19177,94 @@ Bestellsatz korrigiert.** **Seine Telefonnummer aus der Signatur nicht benutzt
 und nicht erwähnt.** **Keine Kauschaden-Vorlage.** **Kein Prozentangebot.**
 **Nicht behauptet, es habe je eine Ersatzzusage gegeben oder nicht gegeben.**
 
+## #8431 — Sarah Williams (`slw72@tpg.com.au`) — **AU**, Erstkontakt, **verlangt ausdrücklich eine Erstattung unter der 30-Tage-Garantie**
+
+**Betreff:** `Re: Refund Request – Order #8431 – Donkey Plush Destroyed Within 10 Minutes`
+
+> Dear Sarah,
+>
+> Thank you for writing, and for setting the dates out so clearly. You asked
+> one direct question — how to proceed with a refund under the 30-day
+> guarantee — and I would rather answer it honestly than send you a policy
+> paragraph.
+>
+> **The honest answer has two parts, and the first one is uncomfortable.**
+>
+> **There is no returns process and no returns address.** We do not have one
+> to give you. **So please do not post anything back to us** — from Australia
+> that would be expensive, and you would lose the toy on top of the postage.
+> **That is not a refusal of your claim. It is simply where things stand, and
+> you were entitled to hear it in the first reply rather than the fifth.**
+>
+> **On the refund itself: I cannot approve it from this desk, and I am not
+> going to refuse it either.** That decision belongs to the shop owner. **Your
+> message goes to him today, in your own words, unedited, as a refund request
+> under the guarantee** — which is exactly what you called it.
+>
+> **I am not going to tell you whether the guarantee covers what happened, in
+> either direction.** That is his call and not mine, and guessing at it would
+> not help you.
+>
+> **What I can check, and you can hold me to it:**
+>
+> - **The product is indeed listed under the title "Plushies – Designed for
+>   Furry Friends Who Destroy Everything."** You quoted it accurately; that is
+>   our own wording on our own page.
+> - Where a **30-day money-back guarantee** appears in our own marketing
+>   material, **it appears without any condition attached to it.**
+> - **Our published refund policy contains a section headed "Australia —
+>   Consumer Guarantees"**, which states that rights under it **"are not
+>   limited by the requirement that an item be unused or in its original
+>   packaging."** **That is our own wording, quoted as it stands. I am not a
+>   lawyer, I am not going to tell you what it means for your order, and I am
+>   not going to use it to promise you anything** — but you are entitled to
+>   know it is there, and it goes to him with your message.
+>
+> **You offered photographs, proof of purchase and anything else required.
+> Please do not go to the trouble.** **Nothing here is conditional on you
+> proving what happened**, and asking you for evidence would only put another
+> step between you and an answer.
+>
+> **You have said you are now reluctant to give the elephant to your dog.**
+> **That is recorded as you wrote it, and I am not going to tell you what to
+> do with it in either direction** — not to try it, and not to keep it sealed.
+> **The fact that it is unopened goes to him with the rest.**
+>
+> **I am not going to make a claim about the toy itself**, and **I am drawing
+> no conclusion from your dog's breed or from the fact that it was a birthday
+> present.**
+>
+> **What is on the order:** #8431, placed **9 September**, despatched
+> **14 September**, two toys, **A$53.53 recorded on the order, nothing
+> refunded to date.** **You say it reached you on 26 September; our own record
+> carries no update after despatch, so I am recording your date rather than
+> contradicting it.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ehrliche Beantwortung ihrer Frage** — es gibt keinen
+Rückgabeweg —, die Weitergabe ihrer Forderung **unverändert und ausdrücklich
+als Garantieanspruch**, die überprüfbare Bestätigung des **eigenen
+Produkttitels**, und die **wörtliche Wiedergabe des eigenen AU-Abschnitts der
+Refund Policy, ausdrücklich ohne Auslegung.** **Keine Erstattung zugesagt, kein
+Betrag, kein Termin — und keine Absage.** **Nicht behauptet, die Garantie decke
+den Kauschaden, und nicht behauptet, sie decke ihn nicht.** **Keine Frist
+genannt und nicht berechnet, ob sie in der Frist liegt** — weder die 30 Tage ab
+Kauf noch ab Erhalt. **Keine rechtliche Bewertung.** **Fotos, Kaufbeleg und
+alles weitere ausdrücklich abbestellt** — nichts zur Bedingung gemacht.
+**Keine Rücksendeadresse erfunden**, mit Warnung vor einer Sendung aus
+Australien. **Keine Aussage zur Haltbarkeit oder Qualität, in keine Richtung.**
+**Nichts aus Rasse des Hundes oder dem Anlass gefolgert.** **Ihre Angabe
+„$50+" nicht gegen den Bestellsatz gerechnet.** **Ihr Zustelldatum
+übernommen, ohne ihr zu widersprechen und ohne die Sendungsnummer als
+Zustellbeleg zu benutzen.** **Ihre Telefonnummer aus der Signatur nicht benutzt
+und nicht erwähnt.** **Keine Kauschaden-Vorlage.** **Kein Prozentangebot.**
+**Keine Anweisung, was sie mit dem ungeöffneten Elefanten tun soll.**
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
