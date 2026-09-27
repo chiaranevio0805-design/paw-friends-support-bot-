@@ -221,3 +221,14 @@ durchgerutscht.**
 
 **Stand:** zwei Kundenvorgänge am 27.09. (#8431 eskaliert, #8568 Needs
 Approval), **381 Entwürfe in der Datei, keiner in Gmail.**
+
+---
+
+## Läufe 08:20 und 09:20 UTC
+
+**Nichts Neues.** Keine Aktion.
+
+**Der englische Tagesreport für den 27.09. wurde um 08:15 UTC erstellt**
+(`docs/2026-09-27-tagesreport.md`, Commit `927a187`): **vier Kundenvorgänge**
+(#8431, #7559, #8574, #8568), davon **drei eskaliert**, **keine Erstattung
+ausgeführt**. **Kein Gmail-Entwurf — `create_draft` bleibt gesperrt.**
