@@ -351,3 +351,81 @@ Abbildungen und zur Größe des Artikels wird nichts gesagt.**
 
 **Stand:** drei Kundenvorgänge am 27.09. (#8431 und #4055 eskaliert, #8568
 Needs Approval), **382 Entwürfe in der Datei, keiner in Gmail.**
+
+---
+
+## Lauf 16:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht — **eine weitere
+belegte Folge des Serienversands vom 24.09.**
+
+### ⛔ #7898 — Tammy Brentlinger (`pitbulladvocate@live.com`), 27.09. 15:38 UTC — **zweiter Kontakt**
+
+> *„That's disappointing. **I only bought them because of the 30 day
+> guarantee.** I would have never spent $20 on a toy if it wasn't going to be
+> **as durable as your company claimed.** **You won't be getting a good review
+> from me** nor will I ever buy another product from your company."*
+
+**Der belegte Verlauf:**
+
+| Datum | Vorgang |
+|---|---|
+| **27.08.** | bestellt |
+| **03.09.** | Versand — **sieben Tage** |
+| **21.09. 16:38** | Erstkontakt: zwei *„indestructable"* Spielzeuge, beide in unter einer Stunde zerstört, **volle Erstattung verlangt**, Foto beigefügt |
+| **21.09.** | **Entwurf geschrieben — nie gesendet** (dieses Konto kann nicht senden) |
+| **24.09. 12:26:45** | **Kauschaden-Vorlage — Teil des Serienversands.** *„we're therefore unable to provide a refund, replacement, or exchange"* |
+| **27.09.** | diese Nachricht |
+
+**Shopify (#7898):** bestellt **27.08.**, Versand **03.09.**, zwei Plushies
+(„donkey", „hippo") **plus eine Trinkgeld-Position**, **$42,61**,
+**`totalRefundedSet` 0,00 $**, **`refunds`: leere Liste**, Scottsdale,
+**Arizona (US)**, JQ Express `JCHSG0000004371143`.
+
+**⚠️ Die Trinkgeld-Position steht auf `unfulfilledQuantity: 1`.** **Das ist
+ein Trinkgeld, keine Ware** — **es wird nicht zu den Bestellungen mit
+unausgelieferter E-Book-Position gezählt und im Entwurf nicht erwähnt.**
+
+**⚠️ Der Entwurf vom 21.09. ist überholt.** Er kannte die Absage vom 24.09.
+nicht. **Er ist in der Datei als ersetzt gekennzeichnet und darf nicht
+zusätzlich gesendet werden.** **Der neue Entwurf behauptet ausdrücklich
+nicht, die Nachricht vom 24.09. sei „keine Entscheidung" gewesen** — sie
+wurde gesendet und war als Absage formuliert, und das wird nicht beschönigt.
+
+**🟦 Sie nennt die Garantie als Kaufgrund.** **Die Vorlage vom 24.09. stützte
+die Absage auf die Bedingung *„returned unused and in their original
+condition"*.** **Diese Bedingung steht in keinem der zwölf Produkttexte und
+nicht im eigenen Marketing** — dort steht die 30-Tage-Garantie **ohne jede
+Bedingung.** **Das wird ihr offen gesagt, weil es überprüfbar ist** — **und
+ausdrücklich ohne daraus abzuleiten, die Garantie greife oder greife nicht.**
+**Das ist eine Owner-Entscheidung.**
+
+**⚠️ Sie kündigt eine schlechte Bewertung an.** **Daran wird nichts geknüpft**,
+**nicht um Änderung oder Rücknahme gebeten**, und **nicht versucht, sie zum
+Wiederkauf zu bewegen.**
+
+**⚠️ Sie ist bereits am 21.09. als Werbeaussage gezählt worden** (belegt im
+Tagesreport vom 22.09.). **Die Zahl bleibt deshalb bei einundsiebzig.**
+
+**Nichts aus Größe oder Verhalten ihrer Hunde gefolgert.** **Ihre Preisangabe
+nicht gegen den Bestellsatz gerechnet.** **Foto vom 21.09. nicht geöffnet,
+nichts weiter verlangt.** **Keine Rücksendeadresse erfunden**, mit Warnung vor
+einer Sendung aus Arizona.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Vier Kundenvorgänge am 27.09.** (#8431, #8568, #4055, #7898).
+- **383 Entwürfe in der Datei**, **keiner in Gmail.** **Zwei davon sind als
+  ersetzt gekennzeichnet** (der erste für #8577 und jetzt der vom 21.09. für
+  #7898) **und dürfen nicht zusätzlich gesendet werden.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **🟥 Der Serienversand vom 24.09. produziert weiter Folgen** — **#7898 ist
+  der nächste dokumentierte Fall.**
+- **⚠️ Einundsiebzig unabhängige Kundenaussagen zur Werbung**, unverändert.
+- **⏰⏰ #8781 unverändert der dringendste Fall**, dazu #8669 und #8605.
+- **🔴 Elf Geldzusagen ohne Ausführung.**

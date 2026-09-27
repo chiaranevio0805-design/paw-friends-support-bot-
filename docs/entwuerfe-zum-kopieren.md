@@ -19396,6 +19396,90 @@ Aussage zur Qualität, in keine Richtung.** **Ihre eigene Preisrechnung nicht
 korrigiert.** **Die Rückgabe wird nicht wieder gegen sie aufgemacht** — sie
 hat die 60 % angenommen. Kein Eskalationsmarker im Text.
 
+## #7898 — Tammy Brentlinger (`pitbulladvocate@live.com`) — US, **zweiter Kontakt nach der Vorlage vom 24.09.** · **ERSETZT den Entwurf vom 21.09.**
+
+**⚠️ Der Entwurf vom 21.09. ist überholt und darf nicht mehr gesendet
+werden.** Er entstand, bevor sie am 24.09. die Kauschaden-Vorlage erhielt, und
+kennt diese Absage nicht.
+
+**Betreff:** `Re: Dog Toys`
+
+> Dear Tammy,
+>
+> You said you bought them because of the 30-day guarantee. **That deserves a
+> straight answer about what our own material actually says, rather than
+> another paragraph of policy.**
+>
+> **The reply you received on 24 September told you the guarantee "applies to
+> items returned unused and in their original condition."** **I have checked
+> where that condition comes from, and I am going to tell you what I found
+> rather than defend it.**
+>
+> - I have read all twelve of our current product descriptions. **That
+>   condition is in none of them.**
+> - **The description of the toys you bought carries no guarantee wording at
+>   all.**
+> - Where a **30-day money-back guarantee** does appear in our own marketing
+>   material, **it appears without any condition attached to it.**
+> - **The word "indestructible" is not in any of the twelve descriptions
+>   either.** **I cannot see the advertisement you actually read, so I am not
+>   going to tell you what it said, and I am certainly not going to suggest
+>   you misread it.**
+>
+> **What I am not going to do is tell you the guarantee covers what happened,
+> or that it does not.** **That is the shop owner's decision and not mine, and
+> I will not pretend otherwise in either direction.**
+>
+> **What I can tell you honestly: I cannot reverse the 24 September reply from
+> this desk, and I am not going to tell you it has been reversed.** **What I
+> have done is put your message in front of the shop owner today, in your own
+> words, together with the fact that the condition the refusal relied on does
+> not appear in our own product descriptions or marketing.** **He is the only
+> person who can change the answer.**
+>
+> **On the review: that is entirely your business.** **I am not going to ask
+> you to reconsider it, I am not going to ask you to change or remove
+> anything, and nothing here depends on what you write or do not write.**
+> **The same goes for not buying from us again.**
+>
+> **I am not going to make a claim about the toys themselves in either
+> direction**, and **I am drawing no conclusion from your dogs' size or from
+> how they play.** **You described what happened and it is recorded exactly as
+> you wrote it.** **Your photograph from 21 September is on the file and you
+> do not need to send anything further.**
+>
+> **One practical thing, in case it is on your mind: there is no returns
+> address.** **We do not have one to give you, so please do not post anything
+> back from Arizona** — it would cost you the postage and the items.
+>
+> **What is on the order:** #7898, placed **27 August**, not handed over for
+> despatch until **3 September — seven days** — two toys, **$42.61 recorded on
+> the order, nothing refunded to date.**
+>
+> I am sorry this is not a better answer today.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **überprüfbare Auskunft, dass die Bedingung, auf die
+sich die Absage vom 24.09. stützt, in keinem der zwölf Produkttexte und nicht
+im eigenen Marketing steht**, und die Weitergabe genau dieses Umstands an den
+Owner zusammen mit ihrer Nachricht. **Keine Erstattung zugesagt, kein Ersatz,
+kein Betrag, kein Termin.** **Nicht behauptet, die Absage vom 24.09. sei
+aufgehoben oder sei keine Entscheidung gewesen** — sie wurde tatsächlich
+gesendet, und das wird nicht beschönigt. **Nicht behauptet, die Garantie decke
+den Kauschaden, und nicht behauptet, sie decke ihn nicht.** **Nicht behauptet,
+„indestructible" existiere nicht** — nur, dass es in den zwölf Texten nicht
+steht. **Keine Rekonstruktion der Anzeige.** **Nichts an ihre Bewertung
+geknüpft**, nicht um Änderung oder Rücknahme gebeten, und **nicht versucht,
+sie zum Wiederkauf zu bewegen.** **Keine Aussage zur Haltbarkeit oder
+Qualität, in keine Richtung.** **Nichts aus Größe oder Verhalten ihrer Hunde
+gefolgert.** **Kein Foto verlangt.** **Ihre Preisangabe nicht gegen den
+Bestellsatz gerechnet.** **Keine Rücksendeadresse erfunden.** **Die
+Trinkgeld-Position der Bestellung wird nicht erwähnt.** Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
