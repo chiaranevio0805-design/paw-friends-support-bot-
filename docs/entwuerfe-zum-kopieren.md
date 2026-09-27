@@ -19327,6 +19327,75 @@ behauptet** — er hat sie nicht angerufen. **Keine Rücksendeadresse erfunden**
 mit Warnung vor einer Sendung. **Die Sendungsnummer nicht als Zustellbeleg
 benutzt.** Kein Eskalationsmarker im Text.
 
+## #4055 — Kimberley Shenton (`kim.shenton@me.com`, Bestellung auf `kim.ierston@googlemail.com`) — **60 % am 19.09. als „processed" bestätigt, `refunds` leer**
+
+**Betreff:** `Re: Refund request`
+
+> Dear Kimberley,
+>
+> You wrote one line and it deserves a straight answer rather than another
+> reassurance.
+>
+> **As far as our own order record goes, the refund was never issued.** Order
+> #4055 shows **£0.00 refunded and no refund entries against it at all.**
+>
+> **You were told on 19 September that the 60 % had been "processed to your
+> original payment method" and asked to allow a few business days.** **That
+> was eight days ago, and I am not going to repeat that sentence to you.** **I
+> am not going to tell you it is sitting with your bank either. I have no
+> basis for saying so, and you have already been told once.**
+>
+> **There are two other things in this thread that were our doing, and you
+> should not have to raise them yourself.**
+>
+> **First, on 15 September you were told we could not locate an order under
+> your details — after the order had already been found and three separate
+> offers had been made against it.** **You were right to say that made no
+> sense.** **The order is on our system, under your maiden name and the
+> address you gave us, exactly where you said it would be. It was never
+> missing.**
+>
+> **Second, on 23 August you were told your return request had been forwarded
+> and that a team would provide you with a return address and further
+> instructions.** **No return address was ever sent, because there is no
+> returns address to send.** **You waited on that for nearly two weeks before
+> the first partial offer arrived.** **That is our failure, not yours.**
+>
+> **So where this stands: you accepted 60 % on 17 September, you were told on
+> 19 September it had been paid, and our record shows nothing paid.**
+>
+> **I cannot issue it from this desk — that is the limit of what support can
+> do here, not a deflection — and I am not going to make you a second
+> promise.** **What I have done today is put the whole sequence in front of
+> the shop owner, with the dates on it, as an outstanding payment that was
+> confirmed in writing and not made.** **He is the only person who can release
+> it.**
+>
+> **What is on the order:** #4055, placed **31 July**, despatched **5 August**,
+> one toy, **£19.95 recorded on the order, £0.00 refunded.**
+>
+> I am sorry you have had to chase this.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass die am 19.09. bestätigte
+Erstattung im Bestelldatensatz nicht existiert** (`totalRefundedSet` 0,00 £,
+`refunds` leer), die **ausdrückliche Weigerung, eine zweite Zusage zu machen**,
+die **unaufgeforderte Richtigstellung der Auskunft vom 15.09.**, die Bestellung
+sei nicht auffindbar — **sie war es**, und die **unaufgeforderte Anerkennung,
+dass ihr am 23.08. eine Rücksendeadresse angekündigt und nie geschickt wurde.**
+**Keine Erstattung zugesagt, kein Termin, keine Absage.** **Nicht behauptet,
+das Geld sei unterwegs, bei der Bank oder in Bearbeitung.** **Der Betrag
+£11,97 wird ihr gegenüber nicht genannt** — nur der Bestellbetrag und die
+0,00 £. **Nichts zur Herkunft der Ware gesagt, in keine Richtung** — sie hat
+sie erwähnt, fragt aber nicht danach, und es wird nicht wiederholt.
+**Nichts über die Abbildungen oder die Größe des Artikels gesagt.** **Keine
+Aussage zur Qualität, in keine Richtung.** **Ihre eigene Preisrechnung nicht
+korrigiert.** **Die Rückgabe wird nicht wieder gegen sie aufgemacht** — sie
+hat die 60 % angenommen. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

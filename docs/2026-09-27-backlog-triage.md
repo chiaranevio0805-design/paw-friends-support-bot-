@@ -232,3 +232,113 @@ Approval), **381 Entwürfe in der Datei, keiner in Gmail.**
 (`docs/2026-09-27-tagesreport.md`, Commit `927a187`): **vier Kundenvorgänge**
 (#8431, #7559, #8574, #8568), davon **drei eskaliert**, **keine Erstattung
 ausgeführt**. **Kein Gmail-Entwurf — `create_draft` bleibt gesperrt.**
+
+---
+
+## Läufe 10:20 und 11:20 UTC
+
+**Nichts Neues.** Keine Aktion.
+
+---
+
+## Lauf 12:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht — **und der
+vollständig gelesene Thread liefert drei Befunde, von denen einer einen
+bisher nur vermuteten Zusammenhang belegt.**
+
+### 🔴🟦 #4055 — Kimberley Shenton (`kim.shenton@me.com`), 27.09. 12:16 UTC
+
+> *„Hi, **I've still received no refund**"*
+
+**Der Thread wurde vollständig gelesen — 22 Nachrichten seit dem 15.08.**
+
+| Datum | Vorgang |
+|---|---|
+| **31.07.** | bestellt (unter dem Mädchennamen **Kimberley Ierston**, `kim.ierston@googlemail.com`) |
+| **05.08.** | Versand |
+| 15.08. | *„I would like to return the product please due to the quality."* |
+| 16.08. | sie: *„It is **not as advertised or pictured**."* |
+| 20.08. | *„I would appreciate a response and a resolve on this matter asap"* |
+| 21.–22.08. | Shop fragt zweimal nach der Bestellnummer; **sie nennt Mädchennamen und Bestelladresse** |
+| **23.08.** | Shop: *„We have forwarded your return request to the relevant team, and **they will provide you with the return address and further instructions**"* |
+| 04.09. | *„Can I have an update on this please?"* |
+| 05.09. | **30 %** |
+| 10.09. | sie lehnt ab, *„I'd still like a full refund and to return"* |
+| 12.09. | **50 %** |
+| 13.09. | sie lehnt ab, *„a full and entire refund please"* |
+| **15.09.** | Shop: *„we're currently **unable to locate an order** under the details provided"* |
+| 15.09. | sie: *„I'm struggling to understand **how it's been located before**, you've offered partial refunds, I've refused them and **now it can't be located again**."* |
+| **17.09. 10:37:14** | **60 %-Angebot — Schlusszeile nennt aber „the 50% partial refund"** |
+| **17.09. 10:37:25** | **elf Sekunden später dieselbe Mail erneut, Schlusszeile auf 60 % korrigiert** |
+| 17.09. 10:38 | sie: *„Just send the partial refund of **60%** please."* |
+| **19.09.** | Shop: *„your **60% partial refund has been processed** to your original payment method"* |
+| **27.09.** | *„I've still received no refund"* |
+
+**Shopify (#4055):** bestellt **31.07.**, Versand **05.08.**, ein Plushies
+(„fox"), **£19,95**, **`totalRefundedSet` 0,00 £**, **`refunds`: leere
+Liste**, Ellesmere Port (GB), Yanwen `UL393919397YP`. **60 % wären £11,97 —
+der Betrag steht nicht im Entwurf**, genannt werden nur der Bestellbetrag und
+die 0,00 £.
+
+**🟦 BEFUND 1 — die Rücksendeadresse, die es nie gab, wurde ein zweites Mal
+schriftlich angekündigt.** Am **23.08.** bekam sie **denselben Satz** wie
+#5148 am **25.08.**: *„they will provide you with the return address and
+further instructions."* **Gestern stand im Protokoll noch, es „könne weitere
+Empfänger geben". Es gibt sie: mindestens zwei, belegt.** **Das gehört im
+Admin geprüft — die Formulierung stammt offensichtlich aus einer Vorlage.**
+
+**🟦 BEFUND 2 — der Widerspruch in den Angebotsschreiben ist nicht auf #4940
+beschränkt.** Die Mail vom **17.09. 10:37:14** nennt in der Überschrift
+**60 %** und in der Schlusszeile **„the 50% partial refund"** — **dieselbe
+Fehlkonstruktion wie in Rena Barnes' sechs Schreiben.** **Hier wurde sie
+bemerkt: elf Sekunden später ging dieselbe Mail korrigiert hinaus.** **Es ist
+also ein Vorlagenfehler, kein Einzelfall.** **Von hier wird nicht geraten,
+welche Zahl gemeint war — sie hat selbst 60 % angenommen, und dabei bleibt
+es.**
+
+**🟦 BEFUND 3 — die Bestellung war nie unauffindbar.** Am **15.09.** wurde ihr
+geschrieben, die Bestellung lasse sich nicht finden — **nachdem sie bereits
+gefunden und drei Angebote darauf gemacht worden waren.** **Sie hat den
+Widerspruch benannt.** **Shopify findet #4055 sofort über die von ihr
+genannte Adresse.** **Im Entwurf wird das unaufgefordert richtiggestellt.**
+
+**⚠️ Adressabweichung, von ihr selbst aufgelöst:** sie schreibt von
+`kim.shenton@me.com`, die Bestellung läuft auf `kim.ierston@googlemail.com` —
+**beides hat sie selbst in diesem Thread angegeben**, und der Shop hat die
+Bestellung damals auf dieser Grundlage gefunden.
+
+**⚠️ Sie hat am 16.08. die Herkunft der Ware erwähnt.** **Sie fragt nicht
+danach. Es wird nichts dazu gesagt, in keine Richtung, und ihre Formulierung
+wird nicht wiederholt.**
+
+**⚠️ Ihre Aussage vom 16.08. „not as advertised or pictured" ist eine
+Werbeaussage.** **Die Zählung wird trotzdem nicht erhöht** — die Aussage
+stammt vom 16.08. und **von hier ist nicht feststellbar, ob sie damals schon
+gezählt wurde.** **Es wird lieber nicht doppelt gezählt.** **Zu den
+Abbildungen und zur Größe des Artikels wird nichts gesagt.**
+
+**Zwölfte Geldzusage ohne Ausführung — acht Tage seit der Bestätigung.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Drei Kundenvorgänge am 27.09.** (#8431, #8568, #4055).
+- **382 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **🔴 Die Zahl der Geldzusagen ohne Ausführung bleibt bei elf** — **#4055 war
+  bereits darunter**, ist jetzt aber **mit Datum und Wortlaut belegt** und
+  **acht Tage überfällig.**
+- **🟦 Neu belegt: die Rücksendeadress-Ankündigung ging an mindestens zwei
+  Kundinnen** (#5148 am 25.08., **#4055 am 23.08.**). **Vorlagenfehler,
+  gehört geprüft.**
+- **🟦 Neu belegt: der 60/50-Widerspruch im Angebotsschreiben trat auch bei
+  #4055 auf** und wurde dort **nach elf Sekunden korrigiert.** **Damit ist es
+  ein Vorlagenfehler und nicht auf #4940 beschränkt.**
+- **⚠️ Einundsiebzig unabhängige Kundenaussagen zur Werbung**, unverändert —
+  **#4055 wird bewusst nicht erneut gezählt.**
+- **⏰⏰ #8781 unverändert der dringendste Fall**, dazu #8669 und #8605.
