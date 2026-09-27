@@ -206,3 +206,18 @@ bearbeitet wurde. **Der Thread wurde mit `get_thread` vollständig geprüft:
 fünf Nachrichten, keine neue.** Der Treffer entsteht, weil `newer_than:` auf
 **Threads** und nicht auf Nachrichten filtert und die `historyId` des Threads
 sich geändert hat. **Es wurde nichts doppelt beantwortet.**
+
+---
+
+## Läufe 06:20 und 07:20 UTC
+
+**Nichts Neues.** Keine Aktion.
+
+Im 06:20-Lauf wurden zur Kontrolle **alle sieben ungelesenen Threads der
+letzten 24 Stunden** geprüft (`in:inbox is:unread newer_than:1d`): #8312,
+#8568, #8431, #7559, #8574, die Google-Sicherheitswarnung und die Kaltakquise.
+**Alle sieben sind bereits bearbeitet und protokolliert. Keine Nachricht ist
+durchgerutscht.**
+
+**Stand:** zwei Kundenvorgänge am 27.09. (#8431 eskaliert, #8568 Needs
+Approval), **381 Entwürfe in der Datei, keiner in Gmail.**
