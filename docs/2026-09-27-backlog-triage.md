@@ -533,3 +533,28 @@ nachweislich benutzt sind.**
 - **📤 Der neue Entwurf für #8568 steht in keinem Abendreport** — er entstand
   danach. **Der ersetzte alte steht im Abendreport vom 27.09. und darf nicht
   mehr verwendet werden.**
+
+---
+
+## Läufe 22:20 und 23:20 UTC
+
+**Nichts Neues.** Keine Aktion. **Der Tag ist abgeschlossen.**
+
+### Tagesabschluss 27.09. — endgültig
+
+- **Vier Kundenvorgänge**, **alle vier eskaliert**: #8431 (AU, Garantie),
+  #4055 (60 % nie ausgeführt), #7898 (Folge des Serienversands), #8568
+  (zweiter Kontakt ohne Antwort).
+- **384 Entwürfe in der Datei, keiner in Gmail.** **Drei davon sind als
+  ersetzt gekennzeichnet** (#8577, #7898 vom 21.09., #8568 vom 03:20) **und
+  dürfen nicht zusätzlich gesendet werden.**
+- **Keine Erstattung, keine Stornierung, kein Regel-4-Fall.**
+- **🟦 Zwei Vorlagenfehler heute belegt** (Rücksendeadress-Ankündigung an
+  mindestens zwei Kundinnen; 60/50-Widerspruch auch bei #4055) **und eine
+  falsche Auskunft richtiggestellt** (#4055, 15.09.).
+- **⚠️ Einundsiebzig unabhängige Kundenaussagen zur Werbung.**
+- **⏰⏰ #8781, #8669, #8605** unverändert offen.
+- **🔴 Elf Geldzusagen ohne Ausführung**, Summe der bezifferten Beträge
+  **466,97 £.**
+- **🟨 Die Google-Sicherheitswarnung vom 26.09. bleibt ungeprüft** — von hier
+  aus nicht prüfbar, und weiterhin der dringendste Punkt überhaupt.
