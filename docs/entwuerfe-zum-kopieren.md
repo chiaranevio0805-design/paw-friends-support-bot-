@@ -19265,6 +19265,68 @@ Zustellbeleg zu benutzen.** **Ihre Telefonnummer aus der Signatur nicht benutzt
 und nicht erwähnt.** **Keine Kauschaden-Vorlage.** **Kein Prozentangebot.**
 **Keine Anweisung, was sie mit dem ungeöffneten Elefanten tun soll.**
 
+## #8568 — Allen Irvin (`allenirvin@aol.com`) — US, Erstkontakt, **fragt direkt nach dem Weg zur Erstattung**
+
+**Betreff:** `Re: How do I get my money back`
+
+> Dear Allen,
+>
+> You asked a direct question, so here is a direct answer rather than a page
+> of policy.
+>
+> **The first part is not the answer you want.** **There is no returns process
+> and no returns address.** We do not have one to give you. **So please do not
+> post anything back** — from Florida that would cost you the postage and the
+> item both. **That is not a refusal of your request; it is simply where
+> things stand, and you should not have to find it out the hard way.**
+>
+> **On the money itself: I cannot approve a refund from this desk, and I am
+> not going to refuse you one either.** That decision belongs to the shop
+> owner. **Your message goes to him today, in your own words, as a request for
+> your money back** — which is exactly what you asked for.
+>
+> **I am not going to promise you an answer or a date, because I do not
+> control either.**
+>
+> **You attached a photograph. I have not opened it, and I am not asking you
+> for any.** No photograph is a condition of anything here.
+>
+> **I am not going to make a claim about the toy in either direction** — not
+> to defend it and not to agree with you about it. **You told us what happened
+> and it is recorded exactly as you wrote it.** **I am also drawing no
+> conclusion whatsoever from your dog's breed or his weight. You mentioned
+> them; I am not going to use them.**
+>
+> **One question, because I would rather ask than assume.** Your order has two
+> toys on it, and you wrote about one. **If the second is still unopened, tell
+> me and I will say so when I pass this on**, because that is a different
+> situation and he should know which he is deciding. **If you have given him
+> both, that is fine too — I am not going to guess either way.**
+>
+> **What is on the order:** #8568, placed **16 September**, despatched
+> **17 September**, two toys, **$38.41 recorded on the order, nothing refunded
+> to date.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **direkte Beantwortung seiner Frage** — es gibt keinen
+Rückgabeweg —, die Weitergabe seiner Forderung **unverändert**, und **eine
+Rückfrage statt einer Annahme** zum zweiten Artikel. **Keine Erstattung
+zugesagt, kein Betrag, kein Termin — und keine Absage.** **Keine
+Kauschaden-Vorlage.** **Kein Prozentangebot.** **Keine Aussage zur Haltbarkeit
+oder Qualität, in keine Richtung.** **Ausdrücklich nichts aus Rasse oder
+Gewicht seines Hundes gefolgert** — und ihm das auch so gesagt. **Nicht
+angenommen, der zweite Artikel sei unbenutzt** — danach wird gefragt.
+**Kein Foto verlangt**, das beigefügte **nicht geöffnet**. **Nichts über die
+Werbung behauptet** — er hat sie nicht erwähnt. **Nichts über die Garantie
+behauptet** — er hat sie nicht angerufen. **Keine Rücksendeadresse erfunden**,
+mit Warnung vor einer Sendung. **Die Sendungsnummer nicht als Zustellbeleg
+benutzt.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

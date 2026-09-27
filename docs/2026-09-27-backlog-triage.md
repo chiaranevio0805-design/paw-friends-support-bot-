@@ -122,3 +122,73 @@ erwähnt.**
 - **⏰⏰ #8781 unverändert der dringendste Fall**, dazu #8669 und #8605.
 - **🔴 Elf Geldzusagen ohne Ausführung**, unverändert.
 - **🟨 Die Google-Sicherheitswarnung vom 26.09.** bleibt offen.
+
+---
+
+## Lauf 02:20 UTC
+
+**Nichts Neues.** Keine Aktion.
+
+---
+
+## Lauf 03:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht.
+
+### #8568 — Allen Irvin (`allenirvin@aol.com`), 27.09. 02:29 UTC — US, Erstkontakt
+
+**Vorab-Suche über Adresse und Namen: ein einziger Thread, Erstkontakt.**
+
+**⚠️ Die ganze Nachricht steht in der Betreffzeile; der Rumpf enthält nur
+„Sent from my Galaxy".**
+
+> **Betreff:** *„How do I get my money back. My 42 lb pit bull terrier
+> destroyed it in 2 minutes."*
+
+**Shopify (#8568):** bestellt **16.09.**, Versand **17.09.** (**ein Tag —
+keine Verzögerung**), **zwei** Plushies („hippo", „donkey"), **$38,41**,
+**`totalRefundedSet` 0,00 $**, **`refunds`: leere Liste**, Summerfield,
+**Florida (US)**, JQ Express `JCHSG0000004491119`.
+
+**⚠️ Er schreibt „it" — Einzahl. Auf der Bestellung stehen zwei Artikel.**
+**Es wird ausdrücklich nicht angenommen, der zweite sei unbenutzt** — **im
+Entwurf steht stattdessen eine Rückfrage.** **Er wird deshalb auch nicht in
+die Liste der Kunden mit unbenutzter Ware aufgenommen.** **Mehrdeutige
+Formulierungen werden nicht gedeutet.**
+
+**⚠️ Er nennt Rasse und Gewicht seines Hundes.** **Daraus wird nichts
+gefolgert, in keine Richtung** — **und das steht ihm gegenüber ausdrücklich so
+im Entwurf.**
+
+**Er verlangt ausdrücklich sein Geld zurück und fragt nach dem Weg.** **Im
+Entwurf steht die ehrliche Antwort: es gibt keinen** — mit Warnung vor einer
+Rücksendung aus Florida. **Keine Kauschaden-Vorlage, kein Prozentangebot,
+keine Aussage zur Qualität.**
+
+**Er erwähnt die Werbung nicht** — **es wird nichts darüber behauptet, und er
+wird nicht als Werbeaussage gezählt. Die Zahl bleibt bei einundsiebzig.**
+**Er ruft die Garantie nicht an** — auch dazu nichts.
+
+**Ein Foto beigefügt — nicht geöffnet, ausdrücklich abbestellt.**
+
+**Kein Eskalationsmerkmal erfüllt:** keine Rechtsberufung, keine
+Bewertungsankündigung, keine bestrittene Werbeaussage, kein Wiederholkontakt,
+kein Sicherheitsthema.
+
+**Label:** `Bot/Needs Approval`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Zwei Kundenvorgänge am 27.09.** (#8431, #8568).
+- **381 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⚠️ Einundsiebzig unabhängige Kundenaussagen zur Werbung**, unverändert —
+  **#8568 zählt nicht mit.**
+- **⛔ Dreizehn Kunden mit Rückgabewunsch ohne Rückgabeweg**, unverändert —
+  **#8568 kommt nicht hinzu**, weil unklar ist, ob der zweite Artikel
+  unbenutzt ist, und das nicht unterstellt wird.
+- **⏰⏰ #8781 unverändert der dringendste Fall**, dazu #8669 und #8605.
+- **🔴 Elf Geldzusagen ohne Ausführung**, unverändert.
