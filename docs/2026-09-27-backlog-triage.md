@@ -429,3 +429,32 @@ einer Sendung aus Arizona.
 - **⚠️ Einundsiebzig unabhängige Kundenaussagen zur Werbung**, unverändert.
 - **⏰⏰ #8781 unverändert der dringendste Fall**, dazu #8669 und #8605.
 - **🔴 Elf Geldzusagen ohne Ausführung.**
+
+---
+
+## Läufe 15:20 – 18:20 UTC
+
+**Nichts Neues** (außer dem im 16:20-Lauf bearbeiteten #7898). Keine weitere
+Aktion.
+
+### Tagesabschluss 27.09.
+
+- **Vier Kundenvorgänge:** #8431 (eskaliert), #8568 (Needs Approval), #4055
+  (eskaliert), #7898 (eskaliert). **Drei eskaliert, eine Needs Approval.**
+- **383 Entwürfe in der Datei, keiner in Gmail.** **Zwei davon sind als
+  ersetzt gekennzeichnet** (#8577 vom 25.09. 12:20, #7898 vom 21.09.).
+- **Keine Erstattung, keine Stornierung, kein Regel-4-Fall.**
+- **🟦 Zwei Vorlagenfehler heute belegt:** die Ankündigung einer
+  Rücksendeadresse, die es nie gab (**#5148 25.08., #4055 23.08.**), und der
+  **60/50-Widerspruch im Angebotsschreiben** (**#4940** und **#4055**).
+- **🟦 #4055 wurde am 15.09. gesagt, ihre Bestellung sei nicht auffindbar** —
+  nachdem drei Angebote darauf gemacht worden waren. **Im Entwurf
+  richtiggestellt.**
+- **🟥 Der Serienversand vom 24.09. wirkt weiter** — **#7898.**
+- **⚠️ Einundsiebzig unabhängige Kundenaussagen zur Werbung**, unverändert.
+- **⏰⏰ #8781, #8669, #8605** unverändert offen.
+- **🔴 Elf Geldzusagen ohne Ausführung**, davon **#4055 heute beziffert
+  (£11,97).**
+- **🟨 Die Google-Sicherheitswarnung vom 26.09. bleibt ungeprüft.**
+- **Abendreport erstellt:** `docs/2026-09-27-abendreport.md`, **vier Entwürfe
+  im Volltext**, **Erstattungssumme 466,97 £.**
