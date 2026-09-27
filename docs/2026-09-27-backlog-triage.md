@@ -192,3 +192,17 @@ kein Sicherheitsthema.
   unbenutzt ist, und das nicht unterstellt wird.
 - **⏰⏰ #8781 unverändert der dringendste Fall**, dazu #8669 und #8605.
 - **🔴 Elf Geldzusagen ohne Ausführung**, unverändert.
+
+---
+
+## Läufe 04:20 und 05:20 UTC
+
+**Nichts Neues.** Keine Aktion.
+
+**⚠️ Anmerkung zur Suchlogik:** In beiden Läufen tauchte der Thread von
+**#8312 Paul Beaver** wieder in `newer_than:2h` auf, obwohl seine letzte
+Nachricht vom **25.09. 11:42 UTC** stammt und am 25.09. im 12:20-Lauf
+bearbeitet wurde. **Der Thread wurde mit `get_thread` vollständig geprüft:
+fünf Nachrichten, keine neue.** Der Treffer entsteht, weil `newer_than:` auf
+**Threads** und nicht auf Nachrichten filtert und die `historyId` des Threads
+sich geändert hat. **Es wurde nichts doppelt beantwortet.**
