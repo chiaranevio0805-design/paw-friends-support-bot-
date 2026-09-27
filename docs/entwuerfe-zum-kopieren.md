@@ -19480,6 +19480,72 @@ Bestellsatz gerechnet.** **Keine Rücksendeadresse erfunden.** **Die
 Trinkgeld-Position der Bestellung wird nicht erwähnt.** Kein
 Eskalationsmarker im Text.
 
+## #8568 — Allen Irvin (`allenirvin@aol.com`) — US, **zweiter Kontakt, zweiter Thread — beide Artikel zerstört** · **ERSETZT den Entwurf vom 03:20-Lauf**
+
+**⚠️ Der Entwurf vom 27.09. 03:20 ist überholt und darf nicht mehr gesendet
+werden.** Er stellte die Frage, ob der zweite Artikel noch ungeöffnet sei —
+**Allen hat sie inzwischen selbst beantwortet.** **Dieser Entwurf führt beide
+Threads zusammen und ersetzt ihn.**
+
+**Betreff:** `Re: Returns`
+
+> Dear Allen,
+>
+> You have now written twice and had nothing back from us either time. **That
+> is on us, and I am not going to open with an apology template instead of an
+> answer.**
+>
+> **You have answered the question I was going to ask you.** The second toy is
+> not sitting unopened — **it went the same way as the first, in five
+> minutes.** That is recorded exactly as you wrote it, and it goes to the shop
+> owner with the rest.
+>
+> **You asked how to get a refund. The honest answer is that there is no
+> returns process and no returns address.** We do not have one to give you.
+> **So please do not post anything back** — from Florida you would lose the
+> postage and the items both. **That is not a refusal of your request. It is
+> simply the state of things, and you should have been told it the first time
+> you asked rather than the second.**
+>
+> **On the refund itself: I cannot approve it from this desk, and I am not
+> going to refuse you one either.** That decision belongs to the shop owner.
+> **Both of your messages go to him today, in your own words, as a request for
+> your money back** — which is exactly what you asked for, twice.
+>
+> **I am not going to promise you an answer or a date, because I do not
+> control either.** **And I am not going to ask you to write a third time.**
+>
+> **You have attached photographs again. I have not opened them, and I am not
+> asking you for any.** **Nothing here is conditional on you proving what
+> happened.**
+>
+> **I am not going to make a claim about the toys in either direction** — not
+> to defend them and not to agree with you about them. **I am also drawing no
+> conclusion from your dog's breed or his weight. You mentioned them; I am not
+> going to use them.**
+>
+> **What is on the order:** #8568, placed **16 September**, despatched
+> **17 September**, two toys, **$38.41 recorded on the order, nothing refunded
+> to date.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ehrliche Antwort auf seine Frage** — es gibt keinen
+Rückgabeweg —, die **offene Anerkennung, dass er zweimal geschrieben und
+zweimal keine Antwort bekommen hat**, und die Weitergabe **beider** Nachrichten
+unverändert. **Keine Erstattung zugesagt, kein Betrag, kein Termin — und keine
+Absage.** **Nicht behauptet, ihm sei schon einmal geantwortet worden** — es
+wurde nichts gesendet, und das wird nicht beschönigt. **Keine Bitte, ein
+drittes Mal zu schreiben.** **Ausdrücklich nichts aus Rasse oder Gewicht
+seines Hundes gefolgert — und ihm das gesagt.** **Keine Kauschaden-Vorlage,
+kein Prozentangebot, keine Aussage zur Qualität, in keine Richtung.**
+**Nichts über die Werbung behauptet** — er erwähnt sie nicht. **Nichts über
+die Garantie behauptet** — er ruft sie nicht an. **Kein Foto verlangt**, die
+beigefügten **nicht geöffnet**. **Keine Rücksendeadresse erfunden**, mit
+Warnung vor einer Sendung aus Florida.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

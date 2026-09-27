@@ -468,3 +468,68 @@ Aktion.
 **Der Abendreport für den 27.09. wurde um 19:15 UTC erstellt**
 (`docs/2026-09-27-abendreport.md`, Commit `d3b8b50`): **vier Entwürfe im
 Volltext** (#8431, #8568, #4055, #7898), **Erstattungssumme 466,97 £.**
+
+---
+
+## Lauf 21:20 UTC — **nach dem Abendreport eingegangen**
+
+**Posteingang geprüft.** Eine neue Nachricht.
+
+### ⛔ #8568 — Allen Irvin (`allenirvin@aol.com`), 27.09. 21:05 UTC — **zweiter Kontakt, zweiter Thread**
+
+**Betreff „Returns", die Nachricht vollständig:**
+
+> *„**How do I get a refund.** **This is the second one that took 5 minutes.**
+> Invoice #8568."*
+
+**Achtzehneinhalb Stunden nach seiner ersten Nachricht.** **Er hat auf keine
+von beiden eine Antwort bekommen** — von hier kann nichts gesendet werden.
+**Vierte Kundin bzw. vierter Kunde binnen weniger Tage, die einen zweiten
+Thread aufmachen** (nach #8456, #7208, #8577).
+
+**⚠️ Er beantwortet damit genau die Frage, die im Entwurf vom 03:20-Lauf
+stand.** **Der zweite Artikel ist nicht ungeöffnet — er ist ebenfalls
+zerstört.** **Es war richtig, das nicht zu unterstellen, und es ist jetzt
+belegt statt geraten.**
+
+**⚠️ Der Entwurf vom 03:20-Lauf ist damit überholt.** **Er ist in der Datei
+als ersetzt gekennzeichnet und darf nicht zusätzlich gesendet werden.** **Der
+neue Entwurf führt beide Threads zusammen.**
+
+**Shopify (#8568), unverändert:** bestellt **16.09.**, Versand **17.09.**,
+zwei Plushies („hippo", „donkey"), **$38,41**, **`totalRefundedSet` 0,00 $**,
+**`refunds`: leere Liste**, Summerfield, Florida (US).
+
+**⚠️ Label geändert: von `Bot/Needs Approval` auf `Bot/Escalated - Owner
+Attention`.** **Grund: Wiederholkontakt ohne jede Antwort** — das ist ein
+Eskalationsmerkmal nach der Policy. **Beim ersten Kontakt war keines erfüllt;
+jetzt ist es eines.**
+
+**Im Entwurf wird offen gesagt, dass er zweimal geschrieben und zweimal keine
+Antwort bekommen hat.** **Es wird ausdrücklich nicht behauptet, ihm sei schon
+einmal geantwortet worden.** **Keine Bitte, ein drittes Mal zu schreiben.**
+
+**Zwei HEIC-Fotos beigefügt — nicht geöffnet, ausdrücklich abbestellt.**
+**Weiterhin nichts aus Rasse oder Gewicht seines Hundes gefolgert.** **Er
+erwähnt die Werbung nicht** — die Zählung bleibt bei einundsiebzig.
+
+**⛔ Er kommt weiterhin NICHT in die Liste der Kunden mit unbenutzter Ware** —
+**jetzt nicht mehr, weil es unklar wäre, sondern weil beide Artikel
+nachweislich benutzt sind.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Tagesabschluss 27.09. — fortgeschrieben
+
+- **Vier Kundenvorgänge** (#8431, #8568, #4055, #7898). **#8568 zählt weiter
+  als ein Vorgang**, jetzt mit zwei Kontakten — **und ist jetzt eskaliert.**
+  **Damit: vier eskaliert, null Needs Approval.**
+- **384 Entwürfe in der Datei, keiner in Gmail.** **Drei davon sind als
+  ersetzt gekennzeichnet** (#8577 vom 25.09., #7898 vom 21.09., **#8568 vom
+  27.09. 03:20**) **und dürfen nicht zusätzlich gesendet werden.**
+- **Keine Erstattung, keine Stornierung, kein Regel-4-Fall.**
+- **📤 Der neue Entwurf für #8568 steht in keinem Abendreport** — er entstand
+  danach. **Der ersetzte alte steht im Abendreport vom 27.09. und darf nicht
+  mehr verwendet werden.**
