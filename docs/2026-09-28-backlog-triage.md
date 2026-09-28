@@ -317,3 +317,21 @@ Kauschaden-Vorlage, kein Prozentangebot, keine Aussage zur Qualität.**
 - **⚠️ Zweiundsiebzig unabhängige Kundenaussagen zur Werbung.**
 - **⏰⏰ #8781, #8669, #8605** unverändert offen.
 - **🟨 Die Google-Sicherheitswarnung vom 26.09. bleibt ungeprüft.**
+
+---
+
+## Lauf 09:20 UTC
+
+**Posteingang geprüft. Nichts Neues.** Keine Aktion.
+
+**Shopify-Verbindung erneut geprüft:** `shop.name` weiterhin
+**„Paw-Besties.com"**, `czkb6p-ju.myshopify.com`, **`ordersCount` 0.**
+**Unverändert der falsche Shop.** **`switch-shop` bleibt ungenutzt** — es
+würde den Token entziehen und eine interaktive Neu-Autorisierung verlangen,
+die in dieser Sitzung nicht möglich ist.
+
+**Solange das so bleibt, gilt für jeden neuen Entwurf: keine Angaben aus dem
+Bestelldatensatz, keine Beträge, keine Versanddaten, und keine Aussage
+darüber, ob etwas erstattet wurde.** **Die Triage läuft weiter** — Gmail ist
+unberührt, und die Nachrichten selbst lassen sich vollständig lesen und
+beantworten.
