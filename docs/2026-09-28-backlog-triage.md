@@ -335,3 +335,13 @@ Bestelldatensatz, keine Beträge, keine Versanddaten, und keine Aussage
 darüber, ob etwas erstattet wurde.** **Die Triage läuft weiter** — Gmail ist
 unberührt, und die Nachrichten selbst lassen sich vollständig lesen und
 beantworten.
+
+---
+
+## Läufe 10:20 und 11:20 UTC
+
+**Nichts Neues.** Keine Aktion.
+
+**Stand:** drei Kundenvorgänge am 28.09. (`hud@hildebrandt.com.au`, #7626,
+#7373 — zwei eskaliert, einer Needs Approval), **387 Entwürfe in der Datei,
+keiner in Gmail.** **Shopify unverändert auf dem falschen Shop.**
