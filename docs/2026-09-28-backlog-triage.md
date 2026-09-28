@@ -469,3 +469,95 @@ Personen, die Nachricht ist nicht unterschrieben.
 - **⚠️ Zweiundsiebzig unabhängige Kundenaussagen zur Werbung**, unverändert.
 - **⏰⏰ #8781, #8669, #8605** unverändert offen.
 - **🟨 Die Google-Sicherheitswarnung vom 26.09. bleibt ungeprüft.**
+
+---
+
+## Lauf 13:20 UTC
+
+**Posteingang und Postausgang geprüft.** Zwei neue Nachrichten — **und eine
+Korrektur zum 12:20-Lauf.**
+
+### 🟥 KORREKTUR: Der Serienversand umfasste MINDESTENS VIER Nachrichten, nicht drei
+
+**Im 12:20-Lauf habe ich drei gesendete Nachrichten (11:08:21, 11:09:55,
+11:10:09) protokolliert.** **Es war mindestens eine vierte dabei:**
+
+| Zeit (UTC) | Empfänger | Inhalt |
+|---|---|---|
+| 11:08:21 | #7479 Richard Bellamy | 50 %-Angebot |
+| 11:09:55 | #6254 David Hickman | 30 %-Angebot |
+| 11:10:09 | #7168 Hockley | zurückgewiesene Antwort |
+| **11:23:00** | **#8142 Wendy Price** | **zweite Kauschaden-Absage** |
+
+**Wie am 24.09. ist „vier" eine Untergrenze, kein Gesamtwert** — gesendete
+Nachrichten werden hier erst sichtbar, wenn der Thread später eine ungelesene
+eingehende Nachricht trägt. **Es können weitere dabei gewesen sein.**
+
+### ⛔🟥 #8142 — Wendy Price (`wendyprice579@gmail.com`), 28.09. 13:07 UTC
+
+> *„**As explained i still have one sealed in its packaging where do I send it
+> for my refund?**"*
+
+**Der belegte Verlauf:**
+
+| Datum | Vorgang |
+|---|---|
+| 19.09. | Erstkontakt: zwei *„indestructible"* Spielzeuge, eines binnen einer Stunde zerstört, **„How do I return for a refund please"** |
+| 21.09. | *„Still not heard back from you?"* |
+| **24.09. 12:26** | **Kauschaden-Absage** (erster Serienversand) |
+| 24.09. 12:48 | *„What an absolutely ridiculous reply… **One of the toys is still in its packaging so I expect a refund for this AND for the defective one.**"* |
+| **28.09. 11:23** | **zweite Kauschaden-Absage — der versiegelte Artikel wird erneut mit keinem Wort erwähnt** |
+| 28.09. 13:07 | diese Nachricht |
+
+**⚠️ Sie hat zweimal ausdrücklich über den versiegelten, ungeöffneten Artikel
+geschrieben, und beide Male wurde ihr über den zerkauten geantwortet.**
+**Dieselbe Fehlstruktur wie bei #7479 und #8372.** **Im Entwurf wird das offen
+als unser Versäumnis benannt und ihre tatsächliche Frage beantwortet: es gibt
+keine Rücksendeadresse.**
+
+**Keine dritte Kauschaden-Vorlage** — und ihr wird ausdrücklich gesagt, dass
+keine kommt. **Nicht behauptet, die Garantie decke den Kauschaden, und nicht
+behauptet, sie decke ihn nicht.** **Nichts an den angekündigten Chargeback oder
+die angekündigte Bewertung geknüpft.** **Keine Angaben aus dem
+Bestelldatensatz.**
+
+**⚠️ #8142 ist bereits früher als Werbeaussage gezählt worden.** **Die Zählung
+bleibt bei zweiundsiebzig.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### 🟨 Nicht-Kundenvorgang: `emmydigital4200@gmail.com`, 28.09. 13:16 UTC
+
+Unaufgeforderte Anfrage auf Deutsch:
+
+> *„Könnten Sie mir eine Provision von 2 % zahlen, wenn ich zwischen September
+> und Ende 2026 20 Bestellungen generiere und täglich über 2.000 Besucher
+> erreiche? **Falls ja, geben Sie bitte Ihre WhatsApp-Nummer an.**"*
+
+**Kein Kundenvorgang.** **Keine Antwort, kein Entwurf.** **Es wurde keine
+Telefonnummer und keine WhatsApp-Nummer herausgegeben, und es wird keine
+herausgegeben.** **Nichts angeklickt, keine Daten übermittelt.** **Dritte
+unaufgeforderte Geschäftsanbahnung in diesem Postfach** (nach
+`shopifystoreregulatory.center@gmail.com` am 06.09. und
+`permitshopify@gmail.com` am 26.09.). **Ob der Owner darauf eingeht, ist seine
+Entscheidung.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Sieben Kundenvorgänge am 28.09.**, **alle sieben eskaliert bis auf #7626**
+  (`hud@hildebrandt.com.au`, #7626 Needs Approval, #7373, #7479, #6254, #7168,
+  **#8142**).
+- **391 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **🟥 Der Serienversand vom 28.09. umfasste mindestens vier Nachrichten** —
+  Untergrenze, kein Gesamtwert.
+- **🟥 Zwei Kundinnen bzw. Kunden mit versiegelter, ungeöffneter Ware wurden
+  am selben Vormittag erneut über Kauschäden beschieden** (#7479 mit einem
+  Prozentangebot, #8142 mit einer Absage).
+- **⚠️ Kein Entwurf dieses Tages ab 06:20 enthält Bestelldaten** — Shopify
+  zeigt weiterhin auf den falschen Shop.
+- **⚠️ Zweiundsiebzig unabhängige Kundenaussagen zur Werbung**, unverändert.
+- **🟨 Die Google-Sicherheitswarnung vom 26.09. bleibt ungeprüft.**

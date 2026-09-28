@@ -19884,6 +19884,63 @@ zwei Personen und die Nachricht ist nicht unterschrieben. **Keine Angaben aus
 dem Bestelldatensatz** — er ist derzeit nicht abrufbar. Kein
 Eskalationsmarker im Text.
 
+## #8142 — Wendy Price (`wendyprice579@gmail.com`) — **zweite Kauschaden-Absage, die den versiegelten Artikel erneut übergeht** · 28.09.
+
+**Betreff:** `Re: FW: Defective`
+
+> Dear Wendy,
+>
+> **You have asked the same question twice now, and both times you were
+> answered about the chewed toy instead of the sealed one. That is our
+> failure, and I am going to answer the question you actually asked.**
+>
+> **Where do you send the sealed one? Nowhere — because there is no returns
+> address.** **We do not have one to give you.** **So please do not post it,
+> and please do not go to the post office for it** — until somebody sends you
+> an address in writing you would simply lose the toy and the postage on top.
+>
+> **That is not a refusal of your refund.** **It is the honest state of
+> things, and you were entitled to hear it on 24 September when you first
+> wrote that one toy was still in its packaging.**
+>
+> **On the refund itself — for both toys, as you asked: I cannot approve it
+> from this desk, and I am not going to refuse you either.** That decision
+> belongs to the shop owner. **Your message goes to him today in your own
+> words, and I am flagging specifically that the sealed, unopened toy has now
+> been passed over twice.**
+>
+> **What I am not going to do is tell you the guarantee covers the chewed toy,
+> or tell you it does not.** **That is his call, not mine.** **What I am also
+> not going to do is send you the same policy paragraph a third time.**
+>
+> **On the bank chargeback and the review: both are entirely your decision.**
+> **I am not going to ask you to hold off on either, I am not going to ask you
+> to take anything down, and nothing here depends on what you do.**
+>
+> **I am not going to make a claim about the toys in either direction.** You
+> described what happened and it is recorded exactly as you wrote it. **I am
+> drawing no conclusion from your dog.**
+>
+> I am sorry it took three replies to answer a straight question.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **direkte Beantwortung ihrer zweimal gestellten
+Frage** — es gibt keine Rücksendeadresse —, die **offene Anerkennung, dass der
+versiegelte Artikel zweimal übergangen wurde**, und die Weitergabe ihrer
+Forderung **für beide Artikel** unverändert. **Keine Erstattung zugesagt, kein
+Betrag, kein Termin — und keine Absage.** **Nicht behauptet, die Garantie decke
+den Kauschaden, und nicht behauptet, sie decke ihn nicht.** **Keine dritte
+Kauschaden-Vorlage** — und ausdrücklich gesagt, dass keine kommt. **Nichts an
+den angekündigten Chargeback oder die angekündigte Bewertung geknüpft**, nicht
+um Aufschub oder Rücknahme gebeten. **Keine Aussage zur Haltbarkeit oder
+Qualität, in keine Richtung.** **Nichts aus ihrem Hund gefolgert.** **Keine
+Rücksendeadresse erfunden**, mit ausdrücklicher Warnung, keine Postgebühr
+auszugeben. **Keine Angaben aus dem Bestelldatensatz** — er ist derzeit nicht
+abrufbar. **Kein Prozentangebot.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
