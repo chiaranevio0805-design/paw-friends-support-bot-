@@ -561,3 +561,43 @@ Entscheidung.**
   zeigt weiterhin auf den falschen Shop.
 - **⚠️ Zweiundsiebzig unabhängige Kundenaussagen zur Werbung**, unverändert.
 - **🟨 Die Google-Sicherheitswarnung vom 26.09. bleibt ungeprüft.**
+
+---
+
+## Lauf 14:20 UTC
+
+**Posteingang geprüft.** Eine neue Nachricht — **von derselben Kundin,
+dieselbe Frage, zehn Minuten später.**
+
+### ⛔ #8142 — Wendy Price, 28.09. 13:17 UTC — **dritte Stellung derselben Frage**
+
+> *„**I do have one still in original packaging how fo I return for a refund
+> of that.**"*
+
+**Zehn Minuten nach ihrer Nachricht von 13:07.** **Damit hat sie dieselbe
+Frage dreimal gestellt** — am **24.09.**, um **13:07** und um **13:17** —
+**und dreimal wurde ihr über den zerkauten Artikel geantwortet statt über den
+versiegelten.**
+
+**Kein neuer Entwurf.** **Der Entwurf aus dem 13:20-Lauf beantwortet diese
+Frage bereits und wurde nur in den Zahlen berichtigt:** aus „zweimal gefragt"
+wird **dreimal**, aus „zweimal übergangen" wird **dreimal übergangen**, und
+der Schlusssatz lautet jetzt *„I am sorry you had to ask three times to get a
+straight answer."* **Der Entwurfstext ist ansonsten unverändert; es ist
+weiterhin ein Entwurf, kein zweiter.**
+
+**Die Entwurfszahl bleibt deshalb bei 391.**
+
+**Label:** unverändert `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Sieben Kundenvorgänge am 28.09.** — **#8142 zählt weiter als einer**,
+  jetzt mit drei Kontakten an einem Tag.
+- **391 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.**
+- **🟥 Der versiegelte, ungeöffnete Artikel von #8142 ist jetzt dreimal
+  übergangen worden.** **Das ist der klarste Einzelbeleg dafür, dass die
+  Kauschaden-Vorlage auf Fälle angewendet wird, in die sie nicht gehört.**
