@@ -19728,6 +19728,162 @@ Richtung.** **Kein Foto verlangt**, die beigefügten **nicht geöffnet.**
 **Keine Kauschaden-Vorlage, kein Prozentangebot.** Kein Eskalationsmarker im
 Text.
 
+## #7479 — Richard Bellamy (`richard@brownwolf.net`) — **lehnt 50 % ab, ruft die Garantie für den ungeöffneten Artikel an** · 28.09.
+
+**Betreff:** `RE: FW: Refund request and business address request`
+
+> Dear Richard,
+>
+> **You have declined 30 % and now 50 %, and you have said plainly what you
+> want instead: the guarantee applied to the unopened item.** **I am not going
+> to answer that with a third percentage.** **No further offer is being made
+> here.**
+>
+> **Your position goes to the shop owner today, in your own words and
+> unedited** — including that you consider the claim to have been made inside
+> the published time limit. **He is the only person who can answer it.**
+>
+> **What I am not going to do, in either direction:** tell you the guarantee
+> applies to your unopened item, or tell you it does not. **That is his
+> decision and not mine, and I will not dress up a guess as an answer.**
+> **I am also not going to comment on any of the regulatory or legal points
+> you have raised — not to agree with them and not to dispute them.** **They
+> go forward exactly as you wrote them.**
+>
+> **On the address you asked for:** **our published Terms of Service do
+> contain a trading address**, and that is the address we publish. **Beyond
+> what is published there I am not going to confirm or deny anything about
+> registrations, ownership or individuals** — not because of anything you have
+> said, but because it is not mine to disclose.
+>
+> **One practical point I have to be honest about: there is no returns
+> process and no returns address I can give you.** **So please do not post
+> the unopened item back yet** — until someone gives you an address in
+> writing you would simply lose it and the postage. **That is not a refusal
+> of your claim.** **You asked on 15 September how to return it and you were
+> entitled to that answer then.**
+>
+> **Nothing here depends on what you do or do not do with the complaints you
+> have described.** **I am not asking you to pause anything, withdraw
+> anything, or wait.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ausdrückliche Feststellung, dass kein drittes
+Prozentangebot gemacht wird**, die unveränderte Weitergabe seiner Position,
+die **ehrliche Auskunft, dass es keinen Rückgabeweg gibt**, und der Hinweis
+auf die **in den eigenen Terms of Service veröffentlichte Handelsadresse.**
+**Keine Erstattung zugesagt, kein Betrag, kein Termin — und keine Absage.**
+**Nicht behauptet, die Garantie greife für den ungeöffneten Artikel, und
+nicht behauptet, sie greife nicht.** **Keine rechtliche Bewertung, in keine
+Richtung** — weder zu Fernabsatz, Werbung, Marken, Patenten noch Betrug.
+**Nichts über Registrierungen, Inhaberschaft oder Personen bestätigt oder
+bestritten, über das Veröffentlichte hinaus** — und ausdrücklich gesagt,
+warum nicht. **Kein Versuch, ihn von Behörden, Bank, Shopify oder Ombudsstelle
+abzubringen**, nichts daran geknüpft. **Keine Rücksendeadresse erfunden.**
+**Kein Foto verlangt.** **Keine Angaben aus dem Bestelldatensatz** — er ist
+derzeit nicht abrufbar. Kein Eskalationsmarker im Text.
+
+---
+
+## #6254 — David Hickman (`davehickman71@gmail.com`) — **antwortet auf 30 % mit einem Gegenvorschlag** · 28.09.
+
+**Betreff:** `Re: A shipment from order #6254 is on the way`
+
+> Dear Dave,
+>
+> Thank you for coming back so clearly.
+>
+> **You have made a specific counter-proposal — 40 % on the total order, or
+> returning the items instead — and that goes to the shop owner today in
+> exactly those words.** **I am not going to name a different figure, and I am
+> not going to talk you up or down from yours.**
+>
+> **I cannot approve either option from this desk, and I am not going to
+> refuse you either.** That decision is his. **I am not going to promise you
+> an answer or a date, because I do not control either.**
+>
+> **There is one thing I have to be straight about, because it affects the
+> second half of your proposal: there is no returns process and no returns
+> address I can give you.** **So please do not post the two unopened items
+> back yet** — until someone sends you an address in writing you would lose
+> them and the postage. **That is not a refusal; it is simply where things
+> stand, and you asked for that address on 16 September.**
+>
+> **Your reason for not wanting to keep the two unopened toys is recorded as
+> you put it, and I am not going to argue with it or agree with it.** **I am
+> not going to tell you what to do with them in either direction.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **unveränderte Weitergabe seines Gegenvorschlags
+(40 % oder Rückgabe)**, und die **ehrliche Auskunft, dass es keinen
+Rückgabeweg gibt** — die zweite Hälfte seines Vorschlags ist von hier aus
+nicht durchführbar. **Keine Erstattung zugesagt, kein Betrag genannt, kein
+Termin, keine Absage.** **Keine eigene Zahl ins Spiel gebracht** und **nicht
+versucht, ihn von seiner Zahl wegzubewegen.** **Keine Aussage zur Haltbarkeit
+oder Qualität, in keine Richtung.** **Nichts aus seinen Hunden gefolgert**,
+und seine Begründung nicht gegen ihn verwendet. **Keine Anweisung zu den zwei
+ungeöffneten Artikeln.** **Keine Rücksendeadresse erfunden.** **Keine Angaben
+aus dem Bestelldatensatz** — er ist derzeit nicht abrufbar. Kein
+Eskalationsmarker im Text.
+
+---
+
+## #7168 — Phil & Sarah Hockley (`philnsarahhockley@gmail.com`) — **verlangt ausdrücklich Eskalation, wirft Irreführung vor** · 28.09.
+
+**Betreff:** `Re: Order #7168 confirmed`
+
+> Hello,
+>
+> **You asked for this to be escalated. It has been, today, and I would
+> rather tell you exactly what that means than leave it as a word.**
+>
+> **Your message goes to the shop owner in full and unedited — including your
+> statement that the advertising was misleading.** **I am not softening it,
+> not summarising it, and not putting my own gloss on it.** **He is the only
+> person who can answer it.**
+>
+> **What I am not going to do is tell you whether the advertising was
+> misleading or whether it was not.** **That is not mine to rule on, and you
+> would be right not to trust me if I did.** **What I can tell you is what is
+> checkable:** I have read all twelve of our current product descriptions.
+> **The word "indestructible" is not in any of them.** Where a **30-day
+> money-back guarantee** appears in our own marketing material, **it appears
+> without any condition attached to it.** **I cannot see the advertisement you
+> actually saw, so I am not going to tell you what it said, and I am certainly
+> not going to suggest you misread it.**
+>
+> **I cannot approve a refund or a replacement from this desk, and I am not
+> going to refuse you one either.** **I am not going to promise you an answer
+> or a date, because I do not control either.**
+>
+> **And nothing here depends on what you do next** — whether you take this
+> further, write a review, or leave it. **I am not asking you to hold off on
+> anything.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Bestätigung, dass der Vorgang eskaliert ist**, und
+die unveränderte Weitergabe des Vorwurfs. **Keine Erstattung zugesagt, kein
+Ersatz, kein Betrag, kein Termin — und keine Absage.** **Nicht behauptet, die
+Werbung sei irreführend gewesen, und nicht behauptet, sie sei es nicht** —
+ausdrücklich als nicht von hier entscheidbar benannt. **Nur der überprüfbare
+Produkttext-Befund.** **Keine Rekonstruktion der Anzeige.** **Nichts an eine
+mögliche Bewertung oder weitere Schritte geknüpft.** **Kein Prozentangebot,
+keine Kauschaden-Vorlage.** **Kein geratener Vorname** — die Adresse nennt
+zwei Personen und die Nachricht ist nicht unterschrieben. **Keine Angaben aus
+dem Bestelldatensatz** — er ist derzeit nicht abrufbar. Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

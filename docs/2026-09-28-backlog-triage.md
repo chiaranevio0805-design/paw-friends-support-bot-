@@ -345,3 +345,127 @@ beantworten.
 **Stand:** drei Kundenvorgänge am 28.09. (`hud@hildebrandt.com.au`, #7626,
 #7373 — zwei eskaliert, einer Needs Approval), **387 Entwürfe in der Datei,
 keiner in Gmail.** **Shopify unverändert auf dem falschen Shop.**
+
+---
+
+## Lauf 12:20 UTC
+
+**Posteingang und Postausgang geprüft.** **Drei neue Nachrichten — und der
+Postausgang zeigt einen zweiten Serienversand.**
+
+### 🟥🟥 ZWEITER SERIENVERSAND — 28.09., 11:08:21 / 11:09:55 / 11:10:09 UTC
+
+**Drei Nachrichten gingen innerhalb von 108 Sekunden aus dem Shop-Konto an
+drei Kunden, deren Vorgänge hier als offen protokolliert sind.**
+**Nicht aus diesem Lauf — dieses Konto kann nicht senden.** **Ich stelle nur
+fest, was im Postausgang steht, und behaupte nicht, wer sie gesendet hat.**
+
+| Zeit (UTC) | Empfänger | Inhalt |
+|---|---|---|
+| **11:08:21** | #7479 Richard Bellamy | **50 %-Angebot**, Anrede „Dear Customer" |
+| **11:09:55** | #6254 David Hickman | **30 %-Angebot**, Anrede „Dear Customer" |
+| **11:10:09** | #7168 Hockley | (Antwort, die er als unzureichend zurückweist) |
+
+**⚠️ Alle drei Kunden haben binnen 22 Minuten geantwortet.** **Der erste
+Serienversand war am 24.09.; dies ist der zweite.**
+
+**⚠️ Die Vorlage enthält weiterhin den Tippfehler „Paw Friends Customer
+Suppor" ohne „t"** — in beiden heute gesendeten Prozentangeboten.
+
+**⚠️ #7479 hat damit das DRITTE Prozentangebot bekommen, nachdem er zwei
+abgelehnt hatte.** **Er hatte am 16.09. ausdrücklich nach dem Rückgabeweg für
+einen ungeöffneten Artikel gefragt** — beantwortet wurde das nie.
+
+### ⛔🟥 #7479 — Richard Bellamy (`richard@brownwolf.net`), 28.09. 11:31 UTC
+
+> *„Thank you for your previous offer of a 30% partial refund **which I
+> declined.** I note the new offer of a 50% partial refund… **I'm afraid I
+> will also be declining this latest offer.** I don't see the point in
+> accepting a partial refund of goods that are **not fit for the advertised
+> purpose** so will **take you up on the advertised no quibble thirty day
+> guarantee which was initiated within the two day limit** required under your
+> published process."*
+
+**Der Verlauf ist vollständig gelesen.** Wesentlich: **14.09.** Erstkontakt,
+Bestellung #7479, *„The first item was in pieces before the second was even
+opened"*, Bitte um die Garantie für den **ungeöffneten** Artikel **und** um
+eine Geschäftsadresse · **15.09.** Kauschaden-Vorlage — **obwohl er über den
+ungeöffneten Artikel geschrieben hatte** · **16.09.** *„I have an unopened,
+unused, fluffy and would like to exercise my 30 day no quibble guarantee…
+How may I do this please?"* — **nie beantwortet** · **17.09., 19.09., 20.09.**
+Nachfassungen mit einer langen Liste angekündigter Beschwerden · **22.09.**
+**30 %** · **23.09.** *„I'd rather have the refund"* · **28.09.** **50 %** ·
+**28.09.** diese Ablehnung.
+
+**⚠️ Er gibt an, Geschäftsadresse, Gewerbeanmeldung, Telefonnummer und
+Steuernummer aus deutschen Registern zu haben, und nennt einen Ort und eine
+Straße.** **Dazu wird im Entwurf NICHTS bestätigt und NICHTS bestritten** —
+über das hinaus, was ohnehin veröffentlicht ist. **Das steht ihm gegenüber
+offen und begründet.** **Auf seine Frage nach einer Adresse wird auf die in
+den eigenen Terms of Service veröffentlichte Handelsadresse verwiesen** —
+das ist überprüfbar und bereits publiziert.
+
+**⚠️ Kein drittes Prozentangebot.** **Keine rechtliche Bewertung seiner
+Punkte, in keine Richtung.** **Nicht behauptet, die Garantie greife für den
+ungeöffneten Artikel, und nicht behauptet, sie greife nicht.** **Kein Versuch,
+ihn von Behörden, Bank oder Shopify abzubringen.** **Ihm wird gesagt, dass es
+keinen Rückgabeweg gibt — und dass er diese Antwort am 15.09. verdient
+hätte.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### ⛔ #6254 — David Hickman (`davehickman71@gmail.com`), 28.09. 11:27 UTC
+
+> *„Thank you for your response and for the offer of a 30% reduction… the
+> issue remains that **the dogs are likely to damage the two unopened items in
+> the same way as the first two**… With that in mind, **I would be satisfied
+> with a 40% refund on the total order. Alternatively, I am happy to return
+> the items** if that is preferable."*
+
+**Er macht einen konkreten Gegenvorschlag.** **Der geht wörtlich an den
+Owner.** **Keine eigene Zahl ins Spiel gebracht**, und **nicht versucht, ihn
+von seiner Zahl wegzubewegen.** **Zwei von vier Artikeln sind ungeöffnet**;
+**es wird ihm nicht gesagt, was er damit tun soll.** **Seine Begründung wird
+nicht gegen ihn verwendet.** **Ihm wird offen gesagt, dass die zweite Hälfte
+seines Vorschlags — die Rückgabe — von hier aus nicht durchführbar ist, weil
+es keine Rücksendeadresse gibt**, und dass er danach schon am **16.09.**
+gefragt hatte.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### ⛔ #7168 — Phil & Sarah Hockley (`philnsarahhockley@gmail.com`), 28.09. 11:26 UTC
+
+> *„Thanks for your reply. **I still want this matter to be escalated** as I
+> think this is **totally unacceptable to mislead customers. Especially false
+> advertising your product.**"*
+
+**Er verlangt ausdrücklich Eskalation** — genau das passiert, und im Entwurf
+steht, was das konkret heißt. **Nicht behauptet, die Werbung sei irreführend
+gewesen, und nicht behauptet, sie sei es nicht** — ausdrücklich als nicht von
+hier entscheidbar benannt. **Nur der überprüfbare Produkttext-Befund.**
+**Keine Rekonstruktion der Anzeige.** **Nichts an weitere Schritte oder eine
+Bewertung geknüpft.** **Kein geratener Vorname** — die Adresse nennt zwei
+Personen, die Nachricht ist nicht unterschrieben.
+
+**⚠️ #7168 ist bereits früher als Werbeaussage gezählt worden** (Tagesreport
+22.09.). **Die Zählung bleibt bei zweiundsiebzig.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Sechs Kundenvorgänge am 28.09.** (`hud@hildebrandt.com.au`, #7626, #7373,
+  #7479, #6254, #7168).
+- **390 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **🟥🟥 Zweiter Serienversand am 28.09. zwischen 11:08 und 11:10 UTC**, drei
+  Kunden, **alle drei antworteten binnen 22 Minuten.** **#7479 bekam das
+  dritte Prozentangebot nach zwei Ablehnungen.**
+- **⚠️ KEIN Entwurf dieses Laufs enthält Angaben aus dem Bestelldatensatz** —
+  Shopify zeigt weiterhin auf den falschen Shop.
+- **⚠️ Zweiundsiebzig unabhängige Kundenaussagen zur Werbung**, unverändert.
+- **⏰⏰ #8781, #8669, #8605** unverändert offen.
+- **🟨 Die Google-Sicherheitswarnung vom 26.09. bleibt ungeprüft.**
