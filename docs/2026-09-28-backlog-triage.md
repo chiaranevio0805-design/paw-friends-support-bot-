@@ -51,3 +51,78 @@
 ## Läufe 01:20 – 03:20 UTC
 
 **Nichts Neues.** Keine Aktion.
+
+---
+
+## Läufe 04:20 und 05:20 UTC
+
+**Nichts Neues.** Keine Aktion.
+
+---
+
+## Lauf 06:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht.
+
+### ⛔ `hud@hildebrandt.com.au`, 28.09. 05:24 UTC — **AU**, Erstkontakt, **keine Bestellung auffindbar**
+
+**Die Nachricht vollständig:**
+
+> *„Hi I've received the products from your company. **I've given my Dog 3 out
+> of 4 products within a couple days.** The three were dismembered squeak is
+> out and limbs no longer attached. I'll attach photos and **you can work out
+> where we progress from here.** thanks"*
+
+**⚠️ Vorab-Suche über Adresse und Namen: ein einziger Thread, Erstkontakt.**
+
+**⚠️ Shopify findet weder über `email:hud@hildebrandt.com.au` noch über eine
+Kundensuche nach „hildebrandt" oder „hud" eine Bestellung.** **Es wird nicht
+behauptet, er habe nicht bestellt.** **Im Entwurf wird ihm offen gesagt, dass
+unter seiner Adresse nichts gefunden wurde, zusammen mit zwei möglichen
+Gründen — der zweite Posteingang `paw-friends.uk@paw-friends.uk` und eine
+abweichende Bestelladresse — und er wird um die Bestellnummer gebeten.**
+**Siebter Kunde, den dieser blinde Fleck treffen könnte.**
+
+**⚠️ Er stellt keine Forderung** — *„you can work out where we progress from
+here"*. **Das wird nicht als Erstattungsforderung gedeutet**; im Entwurf steht
+ein neutrales Angebot und die Frage, was er möchte.
+
+**⚠️ Vierter australischer Fall** (nach #6893, #8228, #8431). **Der eigene
+AU-Abschnitt der Refund Policy wird nur erwähnt, damit er ihn selbst lesen
+kann — ausdrücklich ohne Auslegung, ohne rechtliche Bewertung und ohne daraus
+ein Versprechen abzuleiten.** **Er ruft die Garantie nicht an** — es wird
+nichts darüber behauptet.
+
+**⚠️ Der vierte Artikel ist nicht ausgegeben worden.** **Es wird ihm nicht
+gesagt, was er damit tun soll, in keine Richtung.** **Er kommt NICHT in die
+Liste der Kunden mit Rückgabewunsch ohne Rückgabeweg** — **er hat keine
+Rückgabe verlangt.**
+
+**Er erwähnt die Werbung nicht** — **es wird nichts darüber behauptet, und er
+wird nicht als Werbeaussage gezählt. Die Zahl bleibt bei einundsiebzig.**
+
+**Zwei Fotos beigefügt — nicht geöffnet, ausdrücklich abbestellt.** **Kein
+geratener Name** — er unterschreibt nicht. **Keine Rücksendeadresse
+erfunden**, mit Warnung vor einer Sendung aus Australien.
+
+**Label:** `Bot/Escalated - Owner Attention` (Bestellung nicht auffindbar,
+AU-Fall, keine Zuordnung von hier möglich).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Ein Kundenvorgang am 28.09.**
+- **385 Entwürfe in der Datei**, **keiner in Gmail.** **Drei davon sind als
+  ersetzt gekennzeichnet.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **⚠️ Vierter australischer Fall** — der eigene AU-Abschnitt ist in vier
+  Entwürfen genannt bzw. zitiert, **in keinem ausgelegt.**
+- **⚠️ Erste Bestellung, die von hier aus überhaupt nicht auffindbar ist.**
+  **Ohne Bestellnummer kann der Owner den Fall im Admin suchen — von hier
+  geht es nicht.**
+- **⚠️ Einundsiebzig unabhängige Kundenaussagen zur Werbung**, unverändert.
+- **⏰⏰ #8781, #8669, #8605** unverändert offen.
+- **🔴 Elf Geldzusagen ohne Ausführung.**
+- **🟨 Die Google-Sicherheitswarnung vom 26.09. bleibt ungeprüft.**

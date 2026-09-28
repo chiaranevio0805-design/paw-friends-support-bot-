@@ -19546,6 +19546,77 @@ die Garantie behauptet** — er ruft sie nicht an. **Kein Foto verlangt**, die
 beigefügten **nicht geöffnet**. **Keine Rücksendeadresse erfunden**, mit
 Warnung vor einer Sendung aus Florida.
 
+## #? — `hud@hildebrandt.com.au` — **AU**, Erstkontakt, **keine Bestellung auffindbar**, keine Forderung gestellt
+
+**Betreff:** `Re: your message of 28 September`
+
+> Hello,
+>
+> Thank you for writing, and for setting out plainly what happened. **You have
+> asked us to work out where we go from here rather than telling us what you
+> want, so I am not going to decide that on your behalf.** If you would like a
+> refund, a replacement, or simply for this to be on record, say which and it
+> goes on exactly as you put it.
+>
+> **First, something awkward that I would rather tell you than hide.** **I
+> cannot find an order under the address you have written from.** **I am not
+> suggesting you did not order** — **there is a second address customers write
+> to, `paw-friends.uk@paw-friends.uk`, which I cannot see from this desk, and
+> orders are often placed under a different email than the one people write
+> from.** **If you send me the order number, or the name and address the order
+> was placed under, I can look properly.** Until then I genuinely do not have
+> your order in front of me, and I am not going to guess at it.
+>
+> **What I can tell you without it:**
+>
+> - **I cannot approve a refund or a replacement from this desk, and I am not
+>   going to refuse you one either.** That decision belongs to the shop owner,
+>   and your message goes to him today in your own words.
+> - **I am not going to promise you an answer or a date, because I do not
+>   control either.**
+> - **There is no returns process and no returns address.** We do not have one
+>   to give you. **So please do not post anything back from Australia** — the
+>   postage would be significant and you would lose the items on top of it.
+>   **That is not a refusal of anything; it is simply where things stand.**
+> - **Our published refund policy has a section headed "Australia — Consumer
+>   Guarantees."** **I am not a lawyer, I am not going to tell you what it
+>   means for your case, and I am not going to use it to promise you
+>   anything** — but you are in Australia and you are entitled to know it is
+>   there and to read it yourself.
+>
+> **You attached photographs. I have not opened them, and I am not asking you
+> for any.** **Nothing here is conditional on you proving what happened.**
+>
+> **I am not going to make a claim about the toys in either direction** — not
+> to defend them and not to agree with you about them. **You described what
+> happened and it is recorded exactly as you wrote it.** **I am also drawing
+> no conclusion from your dog.**
+>
+> **You mention a fourth item you have not given him.** **That is noted as you
+> wrote it, and I am not going to tell you what to do with it in either
+> direction** — not to try it, and not to keep it back.
+>
+> Send me the order number when you can, and I will chase this properly.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Auskunft, dass unter seiner Adresse keine
+Bestellung gefunden wurde — ausdrücklich ohne zu unterstellen, er habe nicht
+bestellt**, mit Hinweis auf die zweite Shop-Adresse; die **klare Auskunft,
+dass es keine Rücksendeadresse gibt**, mit Warnung vor einer Sendung aus
+Australien; und der **bloße Hinweis auf den eigenen AU-Abschnitt der Refund
+Policy, ausdrücklich ohne Auslegung und ohne daraus etwas abzuleiten.**
+**Keine Erstattung zugesagt, kein Ersatz, kein Betrag, kein Termin — und keine
+Absage.** **Keine Bestelldaten genannt** — es gibt keine. **Keine Deutung
+seiner Nachricht als Erstattungsforderung.** **Keine Kauschaden-Vorlage, kein
+Prozentangebot.** **Keine Aussage zur Haltbarkeit oder Qualität, in keine
+Richtung.** **Nichts aus dem Hund gefolgert.** **Kein Foto verlangt**, die
+beigefügten **nicht geöffnet**. **Keine Anweisung zum vierten, nicht
+ausgegebenen Artikel.** **Kein geratener Name** — er unterschreibt nicht.
+Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
