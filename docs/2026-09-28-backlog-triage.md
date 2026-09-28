@@ -691,3 +691,84 @@ Unterschrift „Mary" angesprochen**, die Abweichung zum Bestellnamen
   bzw. eine Bewertung angekündigt** (#7831 Facebook, #8142 Bewertung und
   Chargeback). **An keine von beiden wurde etwas geknüpft.**
 - **⚠️ Zweiundsiebzig unabhängige Kundenaussagen zur Werbung**, unverändert.
+
+---
+
+## Lauf 16:20 UTC
+
+**Posteingang geprüft: nichts Neues.** **Stattdessen habe ich den
+Postausgang direkt abgefragt — und muss eine Annahme korrigieren, die ich
+seit Tagen in jeden Bericht geschrieben habe.**
+
+### 🟥🟥🟥 GRUNDKORREKTUR: Der Postausgang IST vollständig abfragbar — und beide Serienversände waren ein Vielfaches dessen, was ich gemeldet habe
+
+**Was ich seit dem 24.09. behauptet habe:** gesendete Nachrichten würden in
+diesem Postfach erst sichtbar, wenn der Thread später eine ungelesene
+eingehende Nachricht trage; die Zahl der Serienversand-Mails sei deshalb eine
+Untergrenze und **„von hier aus nicht feststellbar"**.
+
+**Das war falsch.** **Der Satz stimmt nur für `in:inbox`-Suchen — und genau
+die hatte ich benutzt.** **Eine Abfrage mit `in:sent` liefert den
+Postausgang direkt und vollständig.** Ich hätte das von Anfang an prüfen
+können und habe es nicht getan.
+
+**Die tatsächlichen Zahlen:**
+
+| Datum | Zeitraum | **Gesendete Nachrichten** | Was ich gemeldet hatte |
+|---|---|---|---|
+| **24.09.** | **12:18:01 – 12:39:49** | **37** | „mindestens fünfzehn" |
+| **28.09.** | **11:08:21 – 11:26:59** | **32** | „mindestens fünf" (nach zwei Korrekturen) |
+
+**Beide Abfragen waren nicht abgeschnitten:** für den 24.09. meldete die Suche
+**37 Threads und lieferte 37**; für den 28.09. **32 Threads bei `pageSize` 50.**
+
+**Empfänger am 28.09. (32), nach Uhrzeit:** 11:08:21 `richard@brownwolf.net`
+(#7479) · 11:09:12 `shereemcg@` · 11:09:40 `countrygal2473@` · 11:09:55
+`davehickman71@` (#6254) · 11:10:09 `philnsarahhockley@` (#7168) · 11:10:32
+`fwjw1@optusnet.com.au` · 11:10:44 `wendyprice579@` (**zweiter Thread**) ·
+11:10:49 `mhollerich89@` (#7831) · 11:10:56 `graeme.everett@` · 11:17:35
+`greggz@` · 11:19:39 `aaron.kell30@` · 11:20:17 `tiggerbcfc@` · 11:20:33
+`patty.arenella@` (#7608) · 11:20:55 und 11:21:01 `cath.lives@` (**zwei
+Threads**, #8456) · 11:21:14 `adrian@vincent-janes.com` · 11:21:25
+`jeromerunge@` · **11:21:32 `g_ghattora@` (#8605 — offenes Stornofenster)** ·
+11:21:45 `jwurthy@` · 11:21:54 `brian.linda1992@` · 11:22:14
+`paulthomas2407@` (#8270) · 11:22:24 und 11:22:30 `nikkishefferd@` (**zwei
+Threads**, #7208) · 11:22:43 `griffenivan@` (#8295) · 11:22:52 `jmconrad417@`
+(#2852) · 11:23:00 `wendyprice579@` (#8142) · 11:25:34 `wollenzienk@` ·
+11:25:53 `wrighty90@` · 11:26:10 `bhjdc5@` (#5310) · 11:26:29
+`eloise.newbrook@` (#6893) · 11:26:48 `renabarnes@` (#4940) · 11:26:59
+`martin@interpet.com.sg` (#8228).
+
+**Was das bedeutet:**
+
+- **Es sind an zwei Tagen 69 Nachrichten aus dem Shop-Konto hinausgegangen**,
+  jeweils in unter zweiundzwanzig Minuten. **Nicht aus diesem Lauf — dieses
+  Konto kann nicht senden.** **Ich stelle weiterhin nur fest, was im
+  Postausgang steht, und behaupte nicht, wer sie gesendet hat.**
+- **Die überwiegende Mehrheit der Empfänger hat bisher nicht geantwortet** —
+  von den 32 am 28.09. sind hier heute nur sechs Antworten eingegangen. **Was
+  diese Kunden bekommen haben, ist damit nicht durch eine Antwort geprüft
+  worden.**
+- **#8605 Gurvinder Ghattaura hat am 28.09. eine Nachricht bekommen** —
+  eine der drei offenen Stornierungen. **Was darin stand, ist hier nicht
+  geprüft.**
+- **Alle bisherigen Angaben „mindestens N" zu beiden Serienversänden sind
+  überholt.** **Die Tages- und Abendreports vom 24.09. bis heute enthalten die
+  zu niedrigen Zahlen; sie werden hiermit berichtigt und nicht
+  nachträglich umgeschrieben.**
+
+**Es wurde nichts gesendet, nichts beantwortet und nichts verändert.** **Es
+wurde ausschließlich der Postausgang gelesen.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Acht Kundenvorgänge am 28.09.**, unverändert.
+- **392 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.**
+- **🟥 24.09.: 37 gesendete Nachrichten. 28.09.: 32.** **Beide Zahlen jetzt
+  belegt statt geschätzt.**
+- **🟥 Meine eigene Annahme über die Sichtbarkeit des Postausgangs war falsch
+  und ist korrigiert.** **Künftig wird der Postausgang mit `in:sent` direkt
+  geprüft.**
