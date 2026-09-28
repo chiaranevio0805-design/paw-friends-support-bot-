@@ -925,3 +925,14 @@ abrufbar.
   Kauschäden nie behauptet.**
 - **📤 Der Entwurf für #8456 steht in keinem Abendreport** — er entstand
   danach.
+
+---
+
+## Läufe 21:20 und 22:20 UTC
+
+**Nichts Neues.** Keine Aktion.
+
+**Stand:** zehn Kundenvorgänge am 28.09. (acht eskaliert, zwei Needs
+Approval), **394 Entwürfe in der Datei, keiner in Gmail**, vier davon als
+ersetzt gekennzeichnet. **Keine Erstattung, keine Stornierung, keine
+Adressänderung ausgeführt.** **Shopify unverändert auf dem falschen Shop.**
