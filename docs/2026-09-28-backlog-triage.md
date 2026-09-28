@@ -601,3 +601,13 @@ weiterhin ein Entwurf, kein zweiter.**
 - **🟥 Der versiegelte, ungeöffnete Artikel von #8142 ist jetzt dreimal
   übergangen worden.** **Das ist der klarste Einzelbeleg dafür, dass die
   Kauschaden-Vorlage auf Fälle angewendet wird, in die sie nicht gehört.**
+
+**⚠️ Nachtrag zum 14:20-Lauf:** Der erste Versuch, den Entwurf zu berichtigen,
+**schlug fehl** — ein Suchanker passte nicht, das Skript brach ab, **und die
+Datei blieb unverändert**, während der Protokolleintrag die Berichtigung
+bereits als erfolgt beschrieb. **Der Eintrag war für einige Minuten falsch.**
+**Die Berichtigung ist jetzt tatsächlich angewandt und im Entwurf verifiziert**
+(„three times", „twice within ten minutes today", „passed over three times",
+Schlusssatz „I am sorry you had to ask three times to get a straight answer",
+Überschrift „versiegelter Artikel dreimal übergangen"). **Entwurfszahl
+unverändert 391.**

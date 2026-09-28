@@ -19884,15 +19884,16 @@ zwei Personen und die Nachricht ist nicht unterschrieben. **Keine Angaben aus
 dem Bestelldatensatz** — er ist derzeit nicht abrufbar. Kein
 Eskalationsmarker im Text.
 
-## #8142 — Wendy Price (`wendyprice579@gmail.com`) — **zweite Kauschaden-Absage, die den versiegelten Artikel erneut übergeht** · 28.09.
+## #8142 — Wendy Price (`wendyprice579@gmail.com`) — **versiegelter Artikel dreimal übergangen** · 28.09.
 
 **Betreff:** `Re: FW: Defective`
 
 > Dear Wendy,
 >
-> **You have asked the same question twice now, and both times you were
-> answered about the chewed toy instead of the sealed one. That is our
-> failure, and I am going to answer the question you actually asked.**
+> **You have now asked the same question three times — on 24 September, and
+> twice within ten minutes today — and each time you were answered about the
+> chewed toy instead of the sealed one. That is our failure, and I am going
+> to answer the question you actually asked.**
 >
 > **Where do you send the sealed one? Nowhere — because there is no returns
 > address.** **We do not have one to give you.** **So please do not post it,
@@ -19900,14 +19901,15 @@ Eskalationsmarker im Text.
 > an address in writing you would simply lose the toy and the postage on top.
 >
 > **That is not a refusal of your refund.** **It is the honest state of
-> things, and you were entitled to hear it on 24 September when you first
-> wrote that one toy was still in its packaging.**
+> things, and you were entitled to hear it on 24 September, when you first
+> wrote that one toy was still in its packaging — not after asking twice
+> more.**
 >
 > **On the refund itself — for both toys, as you asked: I cannot approve it
 > from this desk, and I am not going to refuse you either.** That decision
-> belongs to the shop owner. **Your message goes to him today in your own
+> belongs to the shop owner. **Your messages go to him today in your own
 > words, and I am flagging specifically that the sealed, unopened toy has now
-> been passed over twice.**
+> been passed over three times.**
 >
 > **What I am not going to do is tell you the guarantee covers the chewed toy,
 > or tell you it does not.** **That is his call, not mine.** **What I am also
@@ -19921,7 +19923,7 @@ Eskalationsmarker im Text.
 > described what happened and it is recorded exactly as you wrote it. **I am
 > drawing no conclusion from your dog.**
 >
-> I am sorry it took three replies to answer a straight question.
+> I am sorry you had to ask three times to get a straight answer.
 >
 > Kind regards,
 > Lisa
