@@ -839,3 +839,29 @@ Eskalationsmerkmal erfüllt).
   Chargeback**, **#7479 eine Reihe von Behörden.** **An keine davon wurde
   etwas geknüpft.**
 - **🟥 24.09.: 37 gesendete Nachrichten. 28.09.: 32.** Unverändert.
+
+---
+
+## Läufe 18:20 und 19:20 UTC
+
+**Nichts Neues.** Keine Aktion.
+
+### Tagesabschluss 28.09.
+
+- **Neun Kundenvorgänge**, davon **sieben eskaliert**, **zwei Needs Approval**
+  (#7626, Adressänderung `betsey.barton@`).
+- **393 Entwürfe in der Datei, keiner in Gmail.** **Vier davon sind als
+  ersetzt gekennzeichnet** (#8577, #7898, #8568, #7831).
+- **Keine Erstattung, keine Stornierung, keine Adressänderung ausgeführt.**
+  Kein Fall fiel unter Regel 4.
+- **🟥 Shopify zeigt seit zwischen 03:20 und 06:20 UTC auf „Paw-Besties.com"**
+  statt auf Paw-Friends.uk. **Muss vom Owner wiederhergestellt werden.**
+- **🟥 Serienversand: 24.09. = 37 Nachrichten, 28.09. = 32.** **Beide Zahlen
+  jetzt belegt; meine frühere Annahme über die Sichtbarkeit des Postausgangs
+  war falsch und ist korrigiert.**
+- **🟥 Die Kauschaden-Vorlage traf heute erneut versiegelte Ware** (#8142
+  zum dritten Mal, #7479 statt einer Antwort auf seine Frage vom 16.09.).
+- **⚠️ Zweiundsiebzig unabhängige Kundenaussagen zur Werbung.**
+- **⏰⏰ #8781, #8669, #8605** unverändert offen.
+- **Abendreport erstellt:** `docs/2026-09-28-abendreport.md`, **neun Entwürfe
+  im Volltext**, **Erstattungssumme unverändert 466,97 £.**

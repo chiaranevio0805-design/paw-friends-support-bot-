@@ -19943,7 +19943,7 @@ Rücksendeadresse erfunden**, mit ausdrücklicher Warnung, keine Postgebühr
 auszugeben. **Keine Angaben aus dem Bestelldatensatz** — er ist derzeit nicht
 abrufbar. **Kein Prozentangebot.** Kein Eskalationsmarker im Text.
 
-## #7831 — Mary Hollerich (`mhollerich89@gmail.com`) — US, **kündigt einen öffentlichen Beitrag an** · **ERSETZT den Entwurf vom 23.09.**
+## #7831 — Mary Hollerich (`mhollerich89@gmail.com`) — US, **kündigt einen öffentlichen Beitrag und eine BBB-Meldung an** · **ERSETZT den Entwurf vom 23.09.**
 
 **⚠️ Der Entwurf vom 23.09. ist überholt und darf nicht mehr gesendet
 werden.** Er entstand, bevor sie am 28.09. die Kauschaden-Vorlage erhielt, und
