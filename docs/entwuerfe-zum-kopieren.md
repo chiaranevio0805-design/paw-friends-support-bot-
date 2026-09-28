@@ -19617,6 +19617,56 @@ beigefügten **nicht geöffnet**. **Keine Anweisung zum vierten, nicht
 ausgegebenen Artikel.** **Kein geratener Name** — er unterschreibt nicht.
 Kein Eskalationsmarker im Text.
 
+## #7626 — `tonisfurryfriends@yahoo.com` — Erstkontakt, **keine Forderung gestellt** · **Bestellung von hier aus nicht abrufbar**
+
+**Betreff:** `Re: A shipment from order #7626 is on the way`
+
+> Hello,
+>
+> Thank you for writing, and I am sorry — that is not what you paid for.
+>
+> **You have told us what happened and you have not asked us for anything, so
+> I am not going to decide on your behalf what you wanted.** **If you would
+> like this passed on as a refund request, one line back here is enough. If
+> you would rather it simply be recorded, that is what it stays.** **Either
+> way it is with the shop owner today, in your own words.**
+>
+> **What I should be straight about:** I cannot approve a refund or a
+> replacement from this desk, **and I am not going to refuse you one either.**
+> That decision is his. **I am also not going to promise you an answer or a
+> date, because I do not control either.**
+>
+> **One thing in case it is on your mind: there is no returns address.** **We
+> do not have one to give you, so please do not post anything back** — it
+> would cost you the postage for nothing. **That is not a refusal of anything;
+> it is simply where things stand.**
+>
+> **I am not going to make a claim about the toys in either direction** — not
+> to defend them and not to argue with you about them. **You described what
+> happened and it is recorded exactly as you wrote it.** **I am drawing no
+> conclusion from your dogs.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** das **neutrale Angebot statt einer Deutung** — sie fordert
+nichts —, und die **klare Auskunft, dass es keine Rücksendeadresse gibt**, mit
+Warnung vor einer Sendung. **Keine Erstattung zugesagt, kein Ersatz, kein
+Betrag, kein Termin — und keine Absage.** **⚠️ Ausdrücklich KEINE Angaben aus
+dem Bestelldatensatz** — die Bestellung ist von hier aus nicht abrufbar, und
+es wird nichts behauptet, was nicht überprüft werden konnte, **auch nicht,
+dass nichts erstattet sei.** **Nicht gesagt, ihre Bestellung sei nicht
+auffindbar** — sie hat ihre eigene Versandbestätigung zitiert, und das wird
+nicht gegen sie verwendet. **Keine Kauschaden-Vorlage, kein Prozentangebot.**
+**Keine Aussage zur Haltbarkeit oder Qualität, in keine Richtung** — auch
+nicht zustimmend. **Nichts aus ihren Hunden gefolgert.** **Nichts über die
+Werbung behauptet** — sie erwähnt sie nicht. **Nichts über die Garantie
+behauptet** — sie ruft sie nicht an. **Kein geratener Name** — sie
+unterschreibt nicht. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
