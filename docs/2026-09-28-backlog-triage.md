@@ -611,3 +611,83 @@ bereits als erfolgt beschrieb. **Der Eintrag war für einige Minuten falsch.**
 Schlusssatz „I am sorry you had to ask three times to get a straight answer",
 Überschrift „versiegelter Artikel dreimal übergangen"). **Entwurfszahl
 unverändert 391.**
+
+---
+
+## Lauf 15:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht — **und eine
+zweite Korrektur zum Umfang des Serienversands.**
+
+### 🟥 KORREKTUR (zweite): MINDESTENS FÜNF Nachrichten, nicht vier
+
+| Zeit (UTC) | Empfänger | Inhalt |
+|---|---|---|
+| 11:08:21 | #7479 Richard Bellamy | 50 %-Angebot |
+| 11:09:55 | #6254 David Hickman | 30 %-Angebot |
+| 11:10:09 | #7168 Hockley | zurückgewiesene Antwort |
+| **11:10:49** | **#7831 Mary Hollerich** | **Kauschaden-Vorlage** |
+| 11:23:00 | #8142 Wendy Price | zweite Kauschaden-Absage |
+
+**Ich habe die Zahl heute schon zweimal nach oben korrigieren müssen — von
+drei auf vier und jetzt auf fünf.** **„Fünf" bleibt eine Untergrenze.**
+**Gesendete Nachrichten werden in diesem Postfach erst sichtbar, wenn der
+Thread später eine ungelesene eingehende Nachricht trägt** — wer nicht
+antwortet, taucht hier nie auf. **Wie viele Vorlagen am 28.09. tatsächlich
+hinausgingen, ist von hier aus nicht feststellbar.**
+
+### ⛔🟥 #7831 — Mary Hollerich (`mhollerich89@gmail.com`), 28.09. 14:20 UTC — US
+
+> *„**This is the most bazar response I have ever heard.** It is a dog toy.
+> **You said it would hold up.** **I'll post this all over face book so others
+> can see.** Mary"*
+
+**Der belegte Verlauf:**
+
+| Datum | Vorgang |
+|---|---|
+| **23.09. 09:53** | Erstkontakt: *„Your toys destroyed with 5 min… Everyone of them thrown in garbage the same night. **You advertisement was all wrong.** **You should refund my money for all of it.**"* |
+| 23.09. | **Entwurf geschrieben — nie gesendet** |
+| **23.–28.09.** | **fünf Tage ohne jede Antwort** |
+| **28.09. 11:10:49** | **Kauschaden-Vorlage** (Serienversand) |
+| 28.09. 14:20 | diese Nachricht |
+
+**⚠️ Der Entwurf vom 23.09. ist überholt** — er kannte weder das fünftägige
+Schweigen noch die Vorlage. **Er ist als ersetzt gekennzeichnet und darf nicht
+zusätzlich gesendet werden.** **Damit sind vier Entwürfe in der Datei als
+ersetzt markiert** (#8577, #7898, #8568, **#7831**).
+
+**⚠️ Sie kündigt einen Facebook-Beitrag an.** **Daran wird nichts geknüpft**,
+nicht um Aufschub oder Verzicht gebeten — **und ihr wird ausdrücklich gesagt,
+dass sie uns kein Schweigen schuldet.**
+
+**⚠️ Sie hat die Artikel noch am selben Abend weggeworfen.** **Das wird ihr
+nicht vorgehalten**, und **es wird nichts davon abhängig gemacht.** **Sie
+kommt nicht in die Liste der Kunden mit unbenutzter Ware** — es ist nichts
+mehr da.
+
+**Keine zweite Kauschaden-Vorlage** — und ihr wird gesagt, dass keine kommt.
+**Nicht behauptet, die Garantie decke den Kauschaden, und nicht behauptet,
+sie decke ihn nicht.** **Keine Angaben aus dem Bestelldatensatz.**
+
+**⚠️ #7831 ist bereits am 23.09. als Werbeaussage gezählt worden.** **Die
+Zählung bleibt bei zweiundsiebzig.** **Sie wird mit ihrer eigenen
+Unterschrift „Mary" angesprochen**, die Abweichung zum Bestellnamen
+(„Maryanne") nicht thematisiert.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Acht Kundenvorgänge am 28.09.**
+- **392 Entwürfe in der Datei**, **keiner in Gmail.** **Vier davon sind als
+  ersetzt gekennzeichnet.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.**
+- **🟥 Der Serienversand vom 28.09. umfasste mindestens fünf Nachrichten.**
+  **Zwei Korrekturen an einem Tag; die Zahl bleibt eine Untergrenze.**
+- **🟥 Zwei Kundinnen haben heute nach der Vorlage einen öffentlichen Beitrag
+  bzw. eine Bewertung angekündigt** (#7831 Facebook, #8142 Bewertung und
+  Chargeback). **An keine von beiden wurde etwas geknüpft.**
+- **⚠️ Zweiundsiebzig unabhängige Kundenaussagen zur Werbung**, unverändert.

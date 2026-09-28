@@ -19943,6 +19943,71 @@ Rücksendeadresse erfunden**, mit ausdrücklicher Warnung, keine Postgebühr
 auszugeben. **Keine Angaben aus dem Bestelldatensatz** — er ist derzeit nicht
 abrufbar. **Kein Prozentangebot.** Kein Eskalationsmarker im Text.
 
+## #7831 — Mary Hollerich (`mhollerich89@gmail.com`) — US, **kündigt einen öffentlichen Beitrag an** · **ERSETZT den Entwurf vom 23.09.**
+
+**⚠️ Der Entwurf vom 23.09. ist überholt und darf nicht mehr gesendet
+werden.** Er entstand, bevor sie am 28.09. die Kauschaden-Vorlage erhielt, und
+kennt weder die fünf Tage Schweigen noch die Ankündigung.
+
+**Betreff:** `Re: Items`
+
+> Dear Mary,
+>
+> **You wrote on 23 September and heard nothing for five days. Then what you
+> did get was a policy paragraph. I am not going to defend that.**
+>
+> **You asked for your money back for all of it. That request goes to the
+> shop owner today, in your own words, unedited.** **I cannot approve it from
+> this desk and I am not going to refuse you either — that decision is his,
+> and I will not dress a guess up as an answer.**
+>
+> **You said we told you it would hold up.** **I cannot see the advertisement
+> you were shown, so I am not going to tell you what it said, and I am
+> certainly not going to suggest you misread it.** **What I can tell you is
+> checkable:** I have read all twelve of our current product descriptions.
+> **The word "indestructible" is not in any of them.** Where a **30-day
+> money-back guarantee** appears in our own marketing material, **it appears
+> without any condition attached to it.** **Your wording goes to him as you
+> wrote it, because he is the only one who can look at the advertising
+> itself.**
+>
+> **What I am not going to do is tell you the guarantee covers what happened,
+> or tell you it does not.** **And I am not going to send you that same
+> paragraph a second time.**
+>
+> **About posting on Facebook: that is entirely your business.** **I am not
+> going to ask you to reconsider, I am not going to ask you to wait, and
+> nothing here depends on whether you post or not.** **You do not owe us
+> silence in exchange for an answer.**
+>
+> **I am not going to make a claim about the toys in either direction** — not
+> to defend them and not to agree with you about them. **You told us what
+> happened and it is recorded exactly as you wrote it.** **You threw them out
+> the same night; I am not going to suggest you should have kept them, and
+> nothing here depends on your still having them.**
+>
+> I am sorry it took five days and a form letter to get to this.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Anerkennung der fünf Tage ohne Antwort und
+der Vorlage**, die unveränderte Weitergabe ihrer Forderung, und die
+**überprüfbare Auskunft über den eigenen Produkttext.** **Keine Erstattung
+zugesagt, kein Betrag, kein Termin — und keine Absage.** **Nicht behauptet,
+die Garantie decke den Kauschaden, und nicht behauptet, sie decke ihn nicht.**
+**Keine zweite Kauschaden-Vorlage** — und ausdrücklich gesagt, dass keine
+kommt. **Nichts an den angekündigten Facebook-Beitrag geknüpft**, nicht um
+Aufschub, Verzicht oder Rücknahme gebeten, und ausdrücklich gesagt, dass sie
+uns kein Schweigen schuldet. **Nicht behauptet, „indestructible" existiere
+nicht** — nur, was in den zwölf Texten steht. **Keine Rekonstruktion der
+Anzeige.** **Ihr wird nicht vorgehalten, die Artikel weggeworfen zu haben**,
+und nichts davon abhängig gemacht. **Keine Angaben aus dem Bestelldatensatz**
+— er ist derzeit nicht abrufbar. **Kein Prozentangebot.** **Sie wird mit
+ihrer eigenen Unterschrift „Mary" angesprochen**, die Abweichung zum
+Bestellnamen nicht thematisiert. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
