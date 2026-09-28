@@ -210,3 +210,110 @@ kein Sicherheitsthema.
 - **⏰⏰ #8781, #8669, #8605** unverändert offen.
 - **🔴 Elf Geldzusagen ohne Ausführung.**
 - **🟨 Die Google-Sicherheitswarnung vom 26.09. bleibt ungeprüft.**
+
+---
+
+## Lauf 08:20 UTC
+
+**Posteingang geprüft.** Eine neue Nachricht — **und beim Nachprüfen ihrer
+Bestellung ist etwas herausgekommen, das eine Korrektur von heute früh
+erzwingt.**
+
+### 🟥🟥 KORREKTUR: Die Shopify-Verbindung zeigt auf einen ANDEREN SHOP
+
+**Im 07:20-Lauf habe ich protokolliert, Bestellung #7626 sei „von hier aus
+nicht abrufbar", und im Tagesreport von 08:15 habe ich dich gebeten, das im
+Admin zu prüfen.** **Diese Einordnung war falsch, und ich korrigiere sie
+sofort.**
+
+**Bei der dritten nicht auffindbaren Bestellung an diesem Morgen (#7373) habe
+ich gegengeprüft, statt es erneut nur festzustellen:**
+
+| Abfrage | Ergebnis |
+|---|---|
+| `orders(query:"name:8574")` — **gestern noch vollständig abrufbar** | **leer** |
+| `orders(first:5)` — **ganz ohne Filter** | **leer** |
+| `ordersCount` | **0** |
+| `customers(first:3)` | **leer** |
+| `shop { name myshopifyDomain }` | **„Paw-Besties.com", `czkb6p-ju.myshopify.com`** |
+| `products(first:3)` | **„CuddlyKids Cozy Sleep Buddies™ — The Children's Pillow…"** u. a. |
+
+**Der verbundene Shop heißt „Paw-Besties.com", hat null Bestellungen und
+führt Kinderkissen statt Hundespielzeug.** **Es fehlen also keine
+Bestellungen — die Verbindung zeigt schlicht nicht mehr auf Paw-Friends.uk.**
+
+**Wann es passiert ist:** im **01:20-Lauf (#8431)** und im **03:20-Lauf
+(#8568)** kamen noch echte Paw-Friends-Daten zurück; ab dem **06:20-Lauf**
+(`hud@hildebrandt.com.au`) blieb alles leer. **Der Wechsel liegt zwischen
+03:20 und 06:20 UTC am 28.09.**
+
+**Was daraus folgt:**
+
+- **Alle Shopify-Angaben aus Läufen bis einschließlich 03:20 UTC am 28.09.
+  sind gültig** — sie stammen nachweislich aus dem echten Datenbestand
+  (echte Bestellnummern, echte Adressen, Produkttitel „Plushies – Designed
+  for Furry Friends Who Destroy Everything").
+- **Die drei „nicht auffindbaren Bestellungen" dieses Morgens
+  (`hud@hildebrandt.com.au`, #7626, #7373) sind KEIN Datenproblem bei
+  Paw-Friends.** **Die Einordnung im 07:20-Protokoll und im Tagesreport ist
+  hiermit berichtigt.**
+- **Die Bitte im Tagesreport, #7626 im Admin zu prüfen, ist gegenstandslos.**
+
+**⚠️ `switch-shop` wurde NICHT aufgerufen.** Das Werkzeug **entzieht dem
+aktuellen Shop den Zugriffstoken** und verlangt danach eine interaktive
+Neu-Autorisierung. **Diese Sitzung ist nicht interaktiv** — ein Aufruf würde
+den Shopify-Zugang vollständig und unwiederbringlich abschneiden. **Die
+Verbindung muss vom Owner wiederhergestellt werden.**
+
+**⚠️ Bis dahin enthält kein Entwurf mehr Angaben aus dem Bestelldatensatz.**
+**Es wird nichts behauptet, was nicht überprüft werden kann.**
+
+### ⛔ #7373 — Dom Frisina (`isdom00@gmail.com`), 28.09. 07:49 UTC — Erstkontakt
+
+**Vorab-Suche über Adresse, Namen und Bestellnummer: ein einziger Thread,
+Erstkontakt.**
+
+**Die Nachricht vollständig:**
+
+> *„Like to ask, **your item lasted not even a day or to and was stated that
+> was not breakable.**"*
+
+**⚠️ Er bestreitet ausdrücklich eine Werbeaussage** — *„was stated that was
+not breakable"*. **Deshalb eskaliert.** **Zweiundsiebzigste unabhängige
+Kundenaussage zur Werbung.**
+
+**⚠️ Seine Formulierung „Like to ask" nennt keine Forderung.** **Sie wird
+nicht gedeutet**; im Entwurf steht ein neutrales Angebot und die Frage, was er
+möchte.
+
+**⚠️ Kein Bestelldatensatz im Entwurf** — siehe Korrektur oben. **Ihm wird
+nicht gesagt, seine Bestellung sei nicht auffindbar.**
+
+**Im Entwurf steht nur der überprüfbare Produkttext-Befund** — *„indestructible"
+steht in keinem der zwölf Produkttexte, und von Unzerbrechlichkeit steht dort
+nichts* — **ausdrücklich ohne zu behaupten, die von ihm zitierte Aussage
+existiere nicht**, und **ohne die Anzeige zu rekonstruieren.**
+
+**Zwei Fotos beigefügt — nicht geöffnet, ausdrücklich abbestellt.** **Keine
+Kauschaden-Vorlage, kein Prozentangebot, keine Aussage zur Qualität.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Drei Kundenvorgänge am 28.09.** (`hud@hildebrandt.com.au`, #7626, #7373).
+- **387 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **🟥🟥 Die Shopify-Verbindung zeigt auf „Paw-Besties.com" statt auf
+  Paw-Friends.uk.** **Seit zwischen 03:20 und 06:20 UTC.** **Muss vom Owner
+  wiederhergestellt werden; `switch-shop` würde den Zugang in dieser nicht
+  interaktiven Sitzung endgültig abschneiden und wurde deshalb nicht
+  aufgerufen.**
+- **🟥 Die Einordnung von #7626 im 07:20-Lauf und im Tagesreport ist
+  berichtigt** — es war kein Datenproblem bei Paw-Friends.
+- **⚠️ Zweiundsiebzig unabhängige Kundenaussagen zur Werbung.**
+- **⏰⏰ #8781, #8669, #8605** unverändert offen.
+- **🟨 Die Google-Sicherheitswarnung vom 26.09. bleibt ungeprüft.**

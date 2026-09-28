@@ -229,3 +229,46 @@ she would send to a "UK department" that does not exist.
 Attempt **#26** was made while compiling this report. As with #22 to #25,
 **no Gmail draft of this report exists**; it is delivered in chat and in this
 repository instead.
+
+
+---
+
+## ⚠️ KORREKTUR, nachgetragen 08:25 UTC — Abschnitt 3 dieses Reports ist überholt
+
+**Section 3 above framed #7626 as "an order documented by our own shipping
+confirmation that five queries cannot retrieve" and asked the owner to check
+it in the admin. That framing is wrong, and I am correcting it rather than
+leaving it to stand.**
+
+When a **third** order proved unretrievable at 08:20 (#7373), I checked the
+connection itself instead of recording another miss:
+
+| Query | Result |
+|---|---|
+| `orders(query:"name:8574")` — **retrieved in full yesterday** | **empty** |
+| `orders(first:5)` — **no filter at all** | **empty** |
+| `ordersCount` | **0** |
+| `shop { name myshopifyDomain }` | **"Paw-Besties.com", `czkb6p-ju.myshopify.com`** |
+| `products(first:3)` | **"CuddlyKids Cozy Sleep Buddies™ — The Children's Pillow…"** |
+
+**The connected store is not Paw-Friends.uk.** It has zero orders and sells
+children's pillows. **No orders are missing — the Shopify connection is
+pointed somewhere else.**
+
+**When:** real Paw-Friends data still came back in the **01:20** (#8431) and
+**03:20** (#8568) runs; everything from **06:20** onward was empty. **The
+change happened between 03:20 and 06:20 UTC on 28.09.**
+
+**What this does and does not affect:**
+
+- **Every Shopify figure in this report and in all earlier reports stands** —
+  those queries returned genuine Paw-Friends data.
+- **Priority 2 of section 7 ("#7626 in the admin") is void.** Nothing is wrong
+  with that order as far as anyone can tell.
+- **Drafts written from 06:20 onward deliberately contain no order-record
+  data**, and will continue not to until the connection is restored.
+
+**⚠️ `switch-shop` was not called.** It revokes the current access token and
+then requires interactive re-authorization; **this session is not
+interactive**, so calling it would cut off Shopify access entirely and
+irreversibly. **The connection has to be restored by the owner.**

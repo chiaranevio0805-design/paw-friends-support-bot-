@@ -19667,6 +19667,67 @@ Werbung behauptet** — sie erwähnt sie nicht. **Nichts über die Garantie
 behauptet** — sie ruft sie nicht an. **Kein geratener Name** — sie
 unterschreibt nicht. Kein Eskalationsmarker im Text.
 
+## #7373 — Dom Frisina (`isdom00@gmail.com`) — Erstkontakt, **bestreitet eine Werbeaussage** · **Bestelldatensatz nicht abrufbar**
+
+**Betreff:** `Re: Order #7373`
+
+> Dear Dom,
+>
+> Thank you for writing.
+>
+> **You have raised something and not told me what you want from us, so I am
+> not going to decide that on your behalf.** **If you would like this passed
+> on as a refund request, or as a request for a replacement, one line back
+> here is enough. If you would rather it simply be recorded, that is what it
+> stays.** **Either way it is with the shop owner today, in your own words.**
+>
+> **You say it was stated that the toy was not breakable.** **Here is what I
+> can tell you that is checkable, rather than my opinion:** I have read all
+> twelve of our current product descriptions. **The word "indestructible" is
+> not in any of them**, and **the descriptions carry no wording about the toy
+> being unbreakable.** Where a **30-day money-back guarantee** appears in our
+> own marketing material, **it appears without any condition attached to it.**
+>
+> **I cannot see the advertisement you actually read, so I am not going to
+> tell you what it said, and I am certainly not going to suggest you misread
+> it or imagined it.** **What you were told, and where, goes to the owner
+> exactly as you put it.**
+>
+> **What I cannot do:** approve a refund or a replacement from this desk.
+> **I am also not going to refuse you one.** That decision is his. **I am not
+> going to promise you an answer or a date, because I do not control either.**
+>
+> **One thing in case it is on your mind: there is no returns address.** **We
+> do not have one to give you, so please do not post anything back** — it
+> would cost you the postage for nothing. **That is not a refusal of
+> anything.**
+>
+> **I am not going to make a claim about the toy in either direction** — not
+> to defend it and not to agree with you about it. **You described what
+> happened and it is recorded exactly as you wrote it.** **Your photographs
+> are on the file and you do not need to send anything further.**
+>
+> If you have heard nothing in a few days, reply here and I will chase it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** das **neutrale Angebot statt einer Deutung** — seine
+Formulierung *„Like to ask"* wird **nicht** als Erstattungsforderung gelesen —,
+die **überprüfbare Auskunft über den eigenen Produkttext**, und die **klare
+Auskunft, dass es keine Rücksendeadresse gibt.** **Keine Erstattung zugesagt,
+kein Ersatz, kein Betrag, kein Termin — und keine Absage.** **⚠️ Ausdrücklich
+KEINE Angaben aus dem Bestelldatensatz** — er ist derzeit nicht abrufbar (siehe
+Protokoll), **und es wird nichts behauptet, was nicht überprüft werden konnte,
+auch nicht, dass nichts erstattet sei.** **Nicht gesagt, seine Bestellung sei
+nicht auffindbar.** **Nicht behauptet, die zitierte Aussage existiere nicht** —
+nur, was in den zwölf Produkttexten steht und was nicht. **Keine Rekonstruktion
+der Anzeige.** **Keine Aussage zur Haltbarkeit oder Qualität, in keine
+Richtung.** **Kein Foto verlangt**, die beigefügten **nicht geöffnet.**
+**Keine Kauschaden-Vorlage, kein Prozentangebot.** Kein Eskalationsmarker im
+Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
