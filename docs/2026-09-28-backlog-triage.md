@@ -772,3 +772,70 @@ wurde ausschließlich der Postausgang gelesen.**
 - **🟥 Meine eigene Annahme über die Sichtbarkeit des Postausgangs war falsch
   und ist korrigiert.** **Künftig wird der Postausgang mit `in:sent` direkt
   geprüft.**
+
+---
+
+## Lauf 17:20 UTC
+
+**Posteingang geprüft.** Zwei neue Nachrichten.
+
+### ⛔ #7831 — Mary Hollerich, 28.09. 17:10 UTC — **dritter Kontakt heute, meldet uns der BBB**
+
+> *„**I am reporting you to the BB.** Mary"*
+
+**Zwei Stunden und fünfzig Minuten nach ihrer Nachricht von 14:20.**
+
+**Kein neuer Entwurf.** **Der Entwurf aus dem 15:20-Lauf wurde erweitert:** wo
+bisher nur der angekündigte Facebook-Beitrag folgenlos blieb, steht jetzt
+**beides** — Beitrag **und** BBB-Meldung — **und beides ausdrücklich ohne
+Bedingung, ohne Bitte um Aufschub und ohne Bitte um Rücknahme**, mit dem Satz
+*„You do not owe us silence in exchange for an answer."* **Der Entwurfstext
+ist sonst unverändert; es bleibt ein Entwurf.**
+
+**⚠️ Keine rechtliche oder verfahrensmäßige Bewertung der BBB-Meldung, in
+keine Richtung.** **Kein Versuch, sie davon abzubringen.**
+
+**Label:** unverändert `Bot/Escalated - Owner Attention`.
+
+### #? — `betsey.barton@yahoo.com`, 28.09. 17:04 UTC — **Adressänderung, Erstkontakt**
+
+**Vorab-Suche über Adresse und Namen: ein einziger Thread, Erstkontakt.**
+
+> *„**Is it to late to change the delivery address?** If it can be changed, it
+> should be delivered to [neue Anschrift in Mesa, Arizona]. Please let me
+> know"*
+
+**⚠️ Sie nennt keine Bestellnummer, und der Bestelldatensatz ist derzeit nicht
+prüfbar** — Shopify zeigt weiterhin auf den falschen Shop. **Im Entwurf wird
+weder behauptet, es sei zu spät, noch, es sei noch möglich** — **es wird offen
+gesagt, dass der Status von hier aus nicht geprüft werden kann**, und um die
+Bestellnummer gebeten.
+
+**⚠️ In Shopify wurde nichts verändert.** **Adressänderungen an Bestellungen
+gehören ohnehin nicht zu dem, was von hier ausgeführt wird** — die einzige
+zulässige Schreiboperation wäre eine Regel-4-Erstattung. **Die neue Anschrift
+geht wortgetreu an den Owner und wird ihr gegenüber nicht wiederholt.**
+
+**Kein geratener Name** — sie unterschreibt nicht. **Kein Termin zugesagt.**
+**Ihr wird zusätzlich angeboten, sich zu melden, falls das Paket bereits an
+die alte Adresse gegangen ist** — das wäre ein anderes Problem und soll nicht
+liegenbleiben.
+
+**Label:** `Bot/Needs Approval` (Owner muss im Admin handeln; kein
+Eskalationsmerkmal erfüllt).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Neun Kundenvorgänge am 28.09.** — **#7831 zählt weiter als einer**, jetzt
+  mit drei Kontakten an einem Tag.
+- **393 Entwürfe in der Datei**, **keiner in Gmail.** **Vier davon sind als
+  ersetzt gekennzeichnet.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt, keine
+  Adressänderung ausgeführt.**
+- **🟥 Drei Kundinnen haben heute nach der Vorlage öffentliche oder externe
+  Schritte angekündigt** — **#7831 Facebook und BBB**, **#8142 Bewertung und
+  Chargeback**, **#7479 eine Reihe von Behörden.** **An keine davon wurde
+  etwas geknüpft.**
+- **🟥 24.09.: 37 gesendete Nachrichten. 28.09.: 32.** Unverändert.

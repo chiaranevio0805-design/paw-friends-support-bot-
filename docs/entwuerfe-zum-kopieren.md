@@ -19975,10 +19975,11 @@ kennt weder die fünf Tage Schweigen noch die Ankündigung.
 > or tell you it does not.** **And I am not going to send you that same
 > paragraph a second time.**
 >
-> **About posting on Facebook: that is entirely your business.** **I am not
-> going to ask you to reconsider, I am not going to ask you to wait, and
-> nothing here depends on whether you post or not.** **You do not owe us
-> silence in exchange for an answer.**
+> **About posting on Facebook, and about reporting us to the Better Business
+> Bureau: both are entirely your business.** **I am not going to ask you to
+> reconsider either, I am not going to ask you to wait, and nothing here
+> depends on whether you do them or not.** **You do not owe us silence in
+> exchange for an answer.**
 >
 > **I am not going to make a claim about the toys in either direction** — not
 > to defend them and not to agree with you about them. **You told us what
@@ -19998,7 +19999,7 @@ der Vorlage**, die unveränderte Weitergabe ihrer Forderung, und die
 zugesagt, kein Betrag, kein Termin — und keine Absage.** **Nicht behauptet,
 die Garantie decke den Kauschaden, und nicht behauptet, sie decke ihn nicht.**
 **Keine zweite Kauschaden-Vorlage** — und ausdrücklich gesagt, dass keine
-kommt. **Nichts an den angekündigten Facebook-Beitrag geknüpft**, nicht um
+kommt. **Nichts an den angekündigten Facebook-Beitrag und nichts an die angekündigte BBB-Meldung geknüpft**, nicht um
 Aufschub, Verzicht oder Rücknahme gebeten, und ausdrücklich gesagt, dass sie
 uns kein Schweigen schuldet. **Nicht behauptet, „indestructible" existiere
 nicht** — nur, was in den zwölf Texten steht. **Keine Rekonstruktion der
@@ -20007,6 +20008,52 @@ und nichts davon abhängig gemacht. **Keine Angaben aus dem Bestelldatensatz**
 — er ist derzeit nicht abrufbar. **Kein Prozentangebot.** **Sie wird mit
 ihrer eigenen Unterschrift „Mary" angesprochen**, die Abweichung zum
 Bestellnamen nicht thematisiert. Kein Eskalationsmarker im Text.
+
+## Adressänderung — `betsey.barton@yahoo.com` — **keine Bestellnummer, Datensatz nicht prüfbar**
+
+**Betreff:** `Re: Address change`
+
+> Hello,
+>
+> Thank you for writing, and I will be straight with you about what I can and
+> cannot do here.
+>
+> **I cannot change a delivery address from this desk** — I do not have that
+> access, and I am not going to tell you it is done when it is not. **What I
+> have done is pass your request on to the shop owner straight away, with the
+> new address exactly as you wrote it.** He can make the change in the admin
+> if the order has not yet gone out.
+>
+> **I also cannot tell you whether it is too late.** **I am not able to check
+> your order's status from here at the moment, and I would rather say that
+> than guess.** **So please do not take this as confirmation that the address
+> has been changed, and please do not take it as a refusal either.**
+>
+> **One thing that would help: your order number.** If you send it, the change
+> can be matched to the right order without anyone having to search. **If you
+> do not have it to hand, the name and the original delivery address will do.**
+>
+> **If the parcel has already gone to the old address**, tell me and I will
+> pass that on too — that is a different problem and it should not be left to
+> sit.
+>
+> I am sorry I cannot simply confirm it for you.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ehrliche Auskunft, dass von hier aus keine Adresse
+geändert werden kann**, und die sofortige Weitergabe der neuen Adresse
+**wortgetreu**. **Keine Adressänderung zugesagt und keine vorgenommen** — in
+Shopify wurde nichts verändert, und das wäre auch außerhalb der Regeln.
+**Nicht behauptet, es sei zu spät, und nicht behauptet, es sei noch möglich**
+— **ausdrücklich gesagt, dass der Bestellstatus derzeit nicht prüfbar ist.**
+**Keine Bestellnummer, kein Datensatz** — es wird nichts über die Bestellung
+behauptet. **Kein Termin genannt.** **Kein geratener Name** — sie
+unterschreibt nicht. **Ihre neue Adresse wird ihr gegenüber nicht wiederholt**
+(sie kennt sie) **und geht ausschließlich an den Owner.** Kein
+Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 
