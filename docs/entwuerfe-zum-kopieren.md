@@ -20055,6 +20055,63 @@ unterschreibt nicht. **Ihre neue Adresse wird ihr gegenüber nicht wiederholt**
 (sie kennt sie) **und geht ausschließlich an den Owner.** Kein
 Eskalationsmarker im Text.
 
+## #8456 — Cath Livesey (`cath.lives@icloud.com`) — **widerspricht der Kauschaden-Annahme ausdrücklich** · zwei Threads, 28.09.
+
+**⚠️ Ein Entwurf für beide Threads** („Poor quality" und „ORDER 8456"). **Er
+ist einmal zu senden, nicht zweimal.**
+
+**Betreff:** `Re: ORDER 8456`
+
+> Dear Cath,
+>
+> **You are right, and I am going to say so before anything else: you never
+> told us the toys had been chewed.** **The reply you received this morning
+> answered a complaint you did not make, and it did that in both of your
+> threads.** **That was our mistake, not a misunderstanding on your side.**
+>
+> **You asked where to return them. The honest answer is that there is
+> nowhere to send them: we do not have a returns address.** **Please do not
+> post them, and please do not pay for postage** — until somebody sends you an
+> address in writing the parcel would have nowhere to go and you would be out
+> of pocket as well.
+>
+> **That is not a refusal of your refund.** **You asked for a return and a
+> full refund on 23 September and you were entitled to a straight answer then,
+> not a form letter five days later.**
+>
+> **On the refund itself: I cannot approve it from this desk, and I am not
+> going to refuse you either.** That decision belongs to the shop owner.
+> **Your request goes to him today in your own words, with the fact that the
+> items are unopened and in their original packaging stated plainly** — and
+> with the fact that you have had to correct us about it.
+>
+> **I am not going to tell you the guarantee covers this, or tell you it does
+> not.** **That is his call and not mine.** **What I will not do is send you
+> that chewing paragraph again.**
+>
+> **I am not going to make a claim about the quality of the toys in either
+> direction** — you described it and it is recorded as you wrote it.
+>
+> I am sorry you had to write twice to have us read what you actually said.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass sie nie von Kauschäden
+gesprochen hat und die Vorlage eine Beschwerde beantwortete, die sie nicht
+erhoben hat**, die **ehrliche Auskunft, dass es keine Rücksendeadresse gibt**,
+mit Warnung vor Portokosten, und die Weitergabe ihrer Forderung **mit dem
+ausdrücklichen Hinweis, dass die Ware ungeöffnet ist.** **Keine Erstattung
+zugesagt, kein Betrag, kein Termin — und keine Absage.** **Nicht behauptet,
+die Garantie decke oder decke nicht.** **Keine zweite Kauschaden-Vorlage** —
+und gesagt, dass keine kommt. **Keine Aussage zur Qualität, in keine
+Richtung.** **Ihre Telefonnummer aus der Signatur nicht benutzt und nicht
+erwähnt.** **Keine Angaben aus dem Bestelldatensatz** — er ist derzeit nicht
+abrufbar; **auch die von ihr genannte Stückzahl (3) wird nicht gegen den
+Bestellsatz geprüft oder korrigiert.** **Ein Entwurf für beide Threads**,
+ausdrücklich nur einmal zu senden. Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

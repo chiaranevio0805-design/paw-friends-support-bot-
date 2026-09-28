@@ -865,3 +865,63 @@ Eskalationsmerkmal erfüllt).
 - **⏰⏰ #8781, #8669, #8605** unverändert offen.
 - **Abendreport erstellt:** `docs/2026-09-28-abendreport.md`, **neun Entwürfe
   im Volltext**, **Erstattungssumme unverändert 466,97 £.**
+
+---
+
+## Lauf 20:20 UTC — **nach dem Abendreport eingegangen**
+
+**Posteingang geprüft.** Zwei neue Nachrichten — **von derselben Kundin, in
+zwei Threads, und sie widerspricht der Kauschaden-Annahme ausdrücklich.**
+
+### ⛔🟥 #8456 — Cath Livesey (`cath.lives@icloud.com`), 28.09. 19:19:43 und 19:20:48 UTC
+
+> *„**I have not said that the toys have been chewed** they are in their
+> original packaging in-opened. **Please advise where I can return them too**"*
+> (Thread „ORDER 8456")
+
+> *„**I have not said that the toys have been chewed** they are still in their
+> packaging. **Please advise how to return the items ( 3 )**"* (Thread „Poor
+> quality")
+
+**Der belegte Verlauf:**
+
+| Datum | Vorgang |
+|---|---|
+| **23.09. 16:19 und 16:29** | zwei Nachrichten: *„Could you please arrange a return and full refund… The quality is shocking for the price of them"* — **kein Wort von Kauschäden** |
+| **23.–28.09.** | **fünf Tage ohne Antwort** |
+| **28.09. 11:20:55 und 11:21:01** | **Kauschaden-Vorlage in BEIDEN Threads** (Serienversand) |
+| 28.09. 19:19 und 19:20 | diese beiden Nachrichten |
+
+**🟥 Sie ist die DRITTE Kundin an einem Tag, deren ungeöffnete Ware mit einer
+Kauschaden-Absage beantwortet wurde** — nach **#8142** (dreimal) und **#7479**
+(statt einer Antwort auf seine Frage vom 16.09.). **Sie ist die erste, die
+ausdrücklich widerspricht: sie hat Kauschäden nie behauptet.**
+
+**Das ist der deutlichste Beleg des Tages dafür, dass die Vorlage ohne Prüfung
+des Sachverhalts versendet wird** — sie ging an **beide** ihrer Threads, in
+denen jeweils nur von Qualität und Rückgabe die Rede war.
+
+**Im Entwurf steht das offen als unser Fehler**, nicht als Missverständnis auf
+ihrer Seite. **Ein Entwurf für beide Threads, ausdrücklich nur einmal zu
+senden.** **Keine zweite Kauschaden-Vorlage** — und gesagt, dass keine kommt.
+**Nicht behauptet, die Garantie decke oder decke nicht.** **Ihre
+Telefonnummer aus der Signatur wird nicht benutzt und nicht erwähnt.** **Ihre
+Angabe „( 3 )" wird nicht gegen den Bestellsatz geprüft** — er ist nicht
+abrufbar.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Tagesabschluss 28.09. — fortgeschrieben
+
+- **Zehn Kundenvorgänge**, davon **acht eskaliert**, **zwei Needs Approval.**
+- **394 Entwürfe in der Datei, keiner in Gmail.** **Vier davon sind als
+  ersetzt gekennzeichnet.**
+- **Keine Erstattung, keine Stornierung, keine Adressänderung ausgeführt.**
+- **🟥 DREI Kundinnen und Kunden haben heute eine Kauschaden-Absage auf
+  ungeöffnete Ware bekommen:** **#8142** (zum dritten Mal), **#7479**,
+  **#8456** (in beiden Threads). **#8456 widerspricht ausdrücklich: sie hat
+  Kauschäden nie behauptet.**
+- **📤 Der Entwurf für #8456 steht in keinem Abendreport** — er entstand
+  danach.
