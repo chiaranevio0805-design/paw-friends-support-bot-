@@ -166,3 +166,9 @@ Rücksendeadresse gibt.
 - **🟥 Vier Personen mit ungeöffneter Ware haben Kauschaden-Absagen bekommen**
   — #8142, #7479, #8456, **#8372 (viermal)**.
 - **⚠️ Dreiundsiebzig unabhängige Kundenaussagen zur Werbung**, unverändert.
+
+---
+
+## Läufe 02:20 und 03:20 UTC
+
+**Nichts Neues.** Keine Aktion.
