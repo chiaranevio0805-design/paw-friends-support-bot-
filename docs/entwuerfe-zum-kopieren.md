@@ -20112,6 +20112,75 @@ abrufbar; **auch die von ihr genannte Stückzahl (3) wird nicht gegen den
 Bestellsatz geprüft oder korrigiert.** **Ein Entwurf für beide Threads**,
 ausdrücklich nur einmal zu senden. Kein Eskalationsmarker im Text.
 
+## #? — Barbara Johnson (`jurienink@gmail.com`) — **zweiter Kontakt, erster blieb fünf Tage unbeantwortet** · **Bestelldatensatz nicht abrufbar**
+
+**Betreff:** `Re: Plushies`
+
+> Dear Barbara,
+>
+> **You wrote on 23 September and nobody came back to you. That is five days,
+> and it is our failure — not a backlog, not an oversight you need to excuse.**
+> **Thank you for writing again; you should not have had to.**
+>
+> **You asked how to proceed with a refund. Here is the honest answer, and the
+> first part of it is not good news: there is no returns process and no
+> returns address.** **We do not have one to give you, so please do not post
+> anything back** — until somebody sends you an address in writing you would
+> lose the item and the postage with it. **That is not a refusal of your
+> refund.**
+>
+> **On the refund itself: I cannot approve it from this desk, and I am not
+> going to refuse you either.** That decision belongs to the shop owner.
+> **Your request goes to him today, in your own words and unedited, together
+> with the fact that your first message went unanswered for five days.**
+>
+> **You wrote that you bought them because the website said they would last.**
+> **I cannot see the page or the advertising as it was shown to you, so I am
+> not going to tell you what it said, and I am certainly not going to suggest
+> you misread it.** **What I can tell you is checkable:** I have read all
+> twelve of our current product descriptions. **The word "indestructible" is
+> not in any of them.** Where a **30-day money-back guarantee** appears in our
+> own marketing material, **it appears without any condition attached to it.**
+> **Your wording goes to him exactly as you put it, because he is the only one
+> who can look at what you were actually shown.**
+>
+> **What I am not going to do is tell you the guarantee covers what happened,
+> or tell you it does not.** **That is his call and not mine.**
+>
+> **You attached a set of photographs and your invoice. I have not opened
+> them, and I am not asking you for anything further.** **Nothing here depends
+> on you proving what happened.**
+>
+> **One question, because I would rather ask than assume.** You wrote that you
+> bought two and gave one to your dog. **If the second is still unopened, tell
+> me and I will say so when I pass this on** — that is a different situation
+> and he should know which he is deciding. **If you have given her both, that
+> is fine too; I am not going to guess either way.**
+>
+> **I am not going to make a claim about the toys in either direction**, and
+> **I am drawing no conclusion from your dog's breed or her size.**
+>
+> I am sorry it took a second email to get a first reply.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Anerkennung der fünf Tage ohne Antwort als
+unser Versäumnis**, die **ehrliche Auskunft, dass es keinen Rückgabeweg
+gibt**, die unveränderte Weitergabe ihrer Forderung, und die **Rückfrage
+statt einer Annahme** zum zweiten Artikel. **Keine Erstattung zugesagt, kein
+Betrag, kein Termin — und keine Absage.** **Nicht behauptet, die Garantie
+decke den Kauschaden, und nicht behauptet, sie decke ihn nicht.** **Nicht
+behauptet, eine Aussage auf der Website existiere nicht** — nur, was in den
+zwölf Produkttexten steht. **Keine Rekonstruktion der Anzeige oder der
+Seite.** **Elf Anhänge nicht geöffnet und ausdrücklich abbestellt**, auch die
+Rechnung nicht. **Nicht angenommen, der zweite Artikel sei unbenutzt** —
+danach wird gefragt. **Nichts aus Rasse oder Größe ihres Hundes gefolgert.**
+**Keine Angaben aus dem Bestelldatensatz** — er ist derzeit nicht abrufbar,
+und es wird nichts behauptet, was nicht geprüft werden konnte. **Keine
+Kauschaden-Vorlage, kein Prozentangebot.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
