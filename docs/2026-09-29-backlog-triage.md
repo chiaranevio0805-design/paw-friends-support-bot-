@@ -1180,3 +1180,40 @@ habe.**
   fünfundzwanzig Minuten.**
 - **🟥 Zwei neue, nicht angenommene Prozentangebote (60 % an #7479, 50 % an
   #8312).**
+
+---
+
+## Lauf 23:20 UTC
+
+**Posteingang: nichts Neues.** **Die im 22:20-Lauf angekündigten Entwürfe
+sind jetzt geschrieben** — sechs Stück, für die sieben Antworten von heute
+Abend (Allen Irvin schrieb in zwei Threads, bekommt einen Entwurf für beide).
+
+| Entwurf | Kern |
+|---|---|
+| **#8142 Wendy Price** | **Vierte Nachfrage beantwortet**: es gibt keine Rücksendeadresse; offen benannt, dass ihr viermal am Sachverhalt vorbei geantwortet wurde; **keine fünfte Vorlage**; beide Artikel getrennt an den Owner; nichts an Chargeback oder Bewertung geknüpft. 27,95 £, Versand 8 Tage… **korrekt: bestellt 29.08., Versand 08.09. — zehn Tage**, erstattet 0,00 |
+| **#8312 Paul** | **Kein drittes Prozentangebot**, ausdrücklich zugesagt; seine Bitte „stop offering partial refunds" wird als berechtigt anerkannt; keine Rücksendeadresse; **nichts an seine Bemerkung zu Google-Bewertungen geknüpft**. 27,95 £, bestellt 31.08., Versand 08.09., erstattet 0,00 |
+| **#8781 Glenn Yarbrough** | **Offen festgestellt, dass die heute Abend gegebene Begründung („already been shipped") nicht zum Versandbeleg vom 28.09. passt**, während er am 24. und 25.09. storniert hatte; **nichts zugesagt, nichts abgelehnt**; keine rechtliche Bewertung |
+| **#7479 Richard** | **Kein fünftes Prozentangebot**; **seine Frage vom 16.09. endlich beantwortet** — kein Rückgabeweg; **überprüfbarer Hinweis, dass der eigene Produkttext der Fluffys die 30-Tage-Garantie ohne Bedingung führt**, **ausdrücklich ohne zu entscheiden, ob sie auf seinen Fall anwendbar ist**; zur Person hinter dem Shop nichts bestätigt und nichts bestritten |
+| **#8568 Allen Irvin** | Beide Sätze direkt beantwortet; **klargestellt, dass niemand eine Rückgabe verlangt**; ein Entwurf für beide Threads; **nichts aus Rasse oder Gewicht seines Hundes gefolgert**, und das wird ihm gesagt. 38,41 $, erstattet 0,00 |
+| **#8574 John Husk** | Vorlage als Nicht-Antwort benannt; **KEINE Bestelldaten herausgegeben** — die Absenderadresse (`googlemail`) stimmt nicht mit dem Datensatz (`gmail`) überein; **offen und ohne Misstrauen begründet, mit einfachem Weg, es aufzulösen**; **nicht unterstellt, dass er eine Erstattung verlangt** |
+
+**🟦 Ein neuer überprüfbarer Befund aus #7479:** **seine Bestellung enthält
+Fluffys, nicht Plushies.** **Die Fluffys-Produktbeschreibung führt die
+„30-day money-back guarantee" — und zwar ohne jede Bedingung.** **Die
+Kauschaden-Absage, die seit dem 24.09. an Kundinnen und Kunden geht, stützt
+sich auf eine Bedingung („returned unused and in their original condition"),
+die in keinem der zwölf Produkttexte steht.** **Bei ihm fällt das besonders
+auf, weil sein Produkt die Garantie ausdrücklich führt.** **Es wird ihm
+gegenüber NICHT ausgelegt** — nur zitiert, was die eigene Seite sagt.
+
+### Stand nach diesem Lauf
+
+- **Vierzehn Kundenvorgänge am 29.09.** — die sechs neuen Entwürfe betreffen
+  bereits erfasste Vorgänge und werden **nicht** als neue Fälle gezählt.
+- **414 Entwürfe in der Datei**, **keiner in Gmail.** **Fünf als ersetzt
+  markiert.**
+- **Keine Erstattung, keine Stornierung, keine Bestelländerung ausgeführt.**
+- **🟥 Dritter Serienversand: mindestens 27 Nachrichten, 20:57–21:22 UTC.**
+- **🟥 Sieben Antworten binnen Minuten, alle ablehnend — jetzt alle
+  entworfen.**
