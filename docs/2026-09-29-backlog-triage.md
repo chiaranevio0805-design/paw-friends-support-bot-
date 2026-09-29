@@ -169,6 +169,9 @@ Rücksendeadresse gibt.
 
 ---
 
-## Läufe 02:20 und 03:20 UTC
+## Läufe 02:20, 03:20, 04:20 und 05:20 UTC
 
 **Nichts Neues.** Keine Aktion.
+
+(Der Lauf um 05:20 fragte `in:inbox newer_than:3h` ab und lieferte ein leeres
+Ergebnis; damit sind die Läufe 02:20 bis 05:20 alle leer.)
