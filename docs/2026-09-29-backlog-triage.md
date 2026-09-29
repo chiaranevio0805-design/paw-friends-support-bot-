@@ -273,3 +273,76 @@ advertised") und eine Sicherheitsmeldung („very weak and unsafe").**
 - **🟥 Erste ausdrückliche Sicherheitsmeldung seit Beginn dieser Logs, die
   eine Kundin selbst so formuliert.** Sie gehört heute auf den Tisch des
   Owners.
+
+---
+
+## Lauf 07:20 UTC
+
+**Posteingang: nichts Neues.** Einziger Treffer ist der bereits um 06:20
+bearbeitete Thread von Kelly (#7324); keine neue Nachricht darin.
+
+### 🟥 Nachgeholte Prüfung der drei offenen Stornofälle — sie sind ALLE verschickt worden
+
+Weil die Shopify-Verbindung wieder auf Paw-Friends.uk zeigt, wurden die seit
+Tagen offenen Fälle erstmals seit dem 28.09. wieder abgefragt. **Das Ergebnis
+ändert drei Einträge der Standing-Liste grundlegend:**
+
+| Bestellung | Stornowunsch | Versandbeleg (`fulfillments.createdAt`) | Tracking |
+|---|---|---|---|
+| **#8781** Glenn Yarbrough · 37,69 USD | **24.09. 15:42, 20:29 und 25.09. 22:41 — dreimal, nie beantwortet** | **28.09. 04:37:47** | `JDW101460492529` |
+| **#8605** · 27,95 GBP | offen | **28.09. 04:31:16** | `YT2627100703084191` |
+| **#8669** Chad Lovell · 38,19 USD | Absage am 22.09. | **28.09. 04:32:52** | `4PX3003203386732CN` |
+
+**Alle drei innerhalb von sechs Minuten am 28.09. gegen 04:30 UTC
+verschickt** — und rund zwei Stunden bevor die Shopify-Verbindung auf den
+falschen Shop umsprang. **Deshalb war das von hier bis heute nicht sichtbar.**
+
+**Drei Feststellungen, die daraus folgen:**
+
+1. **#8781 wurde verschickt, obwohl die Kundin dreimal storniert hatte und
+   nie eine Antwort bekam.** Die Stornofrist war, wie in den Reports vom
+   26./27./28.09. festgehalten, bis zuletzt nachweislich offen. **Sie ist
+   jetzt zu.** **Das ist keine Auslegung — `cancelledAt` ist weiterhin
+   `null`, und der Versandbeleg trägt den 28.09.**
+2. **#8669 wurde am 22.09. mitgeteilt, die Bestellung sei „already been
+   shipped".** **Der Versandbeleg datiert auf den 28.09., sechs Tage später.**
+   **Damit steht fest, dass die Aussage zum Zeitpunkt der Absage nicht
+   zutraf.** **Was daraus folgt, entscheidet der Owner; hier wird nur der
+   Datensatz festgehalten.**
+3. **Bei allen drei ist `totalRefundedSet` 0,00 und `refunds` leer.**
+
+**Keine Nachricht an diese drei Kundinnen und Kunden aus diesem Lauf.** Sie
+haben nicht geschrieben, und **es wird niemandem unaufgefordert mitgeteilt,
+dass seine Stornierung ins Leere lief** — das ist eine Entscheidung des
+Owners, keine des Bots.
+
+### 🟩 #8372 ist jetzt bezifferbar
+
+| Feld | Wert |
+|---|---|
+| Bestellung | **#8372**, 07.09.2026 |
+| Betrag | **96,89 USD**, `PAID` |
+| Erstattet bisher | **0,00 USD**, `refunds` **leer** |
+
+**Kerris eigene Angabe „My order was for $96.89" stimmt mit dem Datensatz
+exakt überein.** **Der auszuzahlende Betrag ist der, der in dem am 28.09. um
+11:25:34 gesendeten Angebot steht** — er wird hier bewusst **nicht
+nachgerechnet**, damit in eine bereits angenommene Vereinbarung kein Fehler
+hineingetragen wird.
+
+### 🔴 Die übrigen Geldzusagen — unverändert offen
+
+| Bestellung | Betrag | `totalRefundedSet` | `refunds` |
+|---|---|---|---|
+| #4055 | 19,95 GBP (11,97 zugesagt) | **0,00** | **leer** |
+| #5148 | 27,95 GBP (13,98 zugesagt, viermal „processed") | **0,00** | **leer** |
+| #5973 | 29,95 GBP (14,98 zugesagt) | **0,00** | **leer** |
+
+**Keine Bewegung.**
+
+### Stand nach diesem Lauf
+
+- **Drei Kundenvorgänge am 29.09.**, **397 Entwürfe**, keiner in Gmail.
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.**
+- **⏰ Die drei offenen Stornofenster sind geschlossen — durch Versand, nicht
+  durch eine Antwort.**
