@@ -1078,3 +1078,105 @@ Garantieentscheidung, keine Frist.**
 - **⚠️ Achtzig unabhängige Kundenaussagen zur Werbung** (78 → 80).
 - **📤 Die drei Entwürfe seit dem Abendreport (#4055, #8577, #8573) stehen in
   keinem Abendreport** — Volltexte in `docs/entwuerfe-zum-kopieren.md`.
+
+---
+
+## Lauf 22:20 UTC
+
+# 🟥🟥🟥 KORREKTUR: Der Serienversand von heute Abend umfasste MINDESTENS 27 NACHRICHTEN, nicht 16
+
+**Im 21:20-Lauf habe ich sechzehn gesendete Nachrichten protokolliert und
+ausdrücklich geschrieben, es könnten weitere folgen. Es waren weitere.**
+`in:sent newer_than:2h` liefert jetzt **27 Threads mit je einer gesendeten
+Nachricht zwischen 20:57:13 und 21:22:11 UTC.**
+
+**Die elf zusätzlich erfassten Empfänger:**
+
+| Zeit (UTC) | Empfänger | Vorgang |
+|---|---|---|
+| 21:18:08 | `PitBullAdvocate@live.com` | #7898 |
+| 21:19:01 | `mrpbeaver@gmail.com` | **#8312 — 50 %-Angebot** |
+| 21:19:09 | `allenirvin@aol.com` | **#8568, zweiter Thread** |
+| 21:19:26 | `hud@hildebrandt.com.au` | AU-Fall |
+| 21:19:31 | `tonisfurryfriends@yahoo.com` | #7626 |
+| 21:19:38 | `isdom00@gmail.com` | #7373 |
+| 21:19:47 | `smithrdrck@aol.com` | #7559 |
+| 21:19:54 | `slw72@tpg.com.au` | #8431, AU |
+| 21:20:07 | `philnsarahhockley@gmail.com` | #7168 |
+| 21:20:51 | `davehickman71@gmail.com` | #6254 |
+| **21:21:32** | **`richard@brownwolf.net`** | **#7479 — 60 %-Angebot, das VIERTE** |
+| 21:22:11 | `wendyprice579@gmail.com` | **#8142** |
+
+**Damit: 24.09. = 37 · 28.09. = 32 · 29.09. = mindestens 27.**
+**„Mindestens" bleibt die richtige Formulierung** — die Zahl ist seit dem
+21:20-Lauf von 16 auf 27 gestiegen.
+
+**⚠️ Ich habe diese Nachrichten nicht gesendet. Ich halte fest, was im
+Postausgang steht.**
+
+## 🟥 Zwei neue Prozentangebote sind heute Abend hinausgegangen
+
+- **#7479 Richard Bellamy: 60 %** — nach 30 % (abgelehnt), 50 % (abgelehnt)
+  und einem dritten Angebot am 28.09. **Das ist das vierte.** **Seine Frage
+  vom 16.09. nach dem Rückgabeweg für den ungeöffneten Artikel ist weiterhin
+  unbeantwortet.**
+- **#8312 Paul: 50 %** — nach 30 % am 24.09., das er abgelehnt hatte.
+
+**Beide sind neue, nicht angenommene Angebote.** **Sie gehören NICHT in die
+Zusagen-Liste**, solange sie nicht angenommen sind, und werden dort auch
+nicht eingetragen.
+
+## 🟥 Sieben Antworten binnen Minuten — alle ablehnend
+
+| Zeit | Absender | Wortlaut (Auszug) |
+|---|---|---|
+| **21:28:27** | **#8312 Paul** | *„**Please stop offering partial refunds.** I want to return the poor quality item which was not as advertised. **Your Google reviews justify your pathetic lack of resolution**"* |
+| **21:28:34** | **#8781 Glenn Yarbrough** | *„My original email was shortly after the order on 9/24/26 **with no response**. My 2nd email on 9/26/26 was after receiving notification that there were inventory issues and would ship ASAP."* |
+| **21:28:43** | **#8142 Wendy Price** | *„**Why are you sending the same generic email every time? I HAVE A SEALED UNUSED TOY THAT I WANT TO RETURN FOR A REFUND. I BOUGHT 2!! HOW DO I GET MY MONEY BACK**"* |
+| **21:36:52** | **#8568 Allen Irvin** | *„Very misleading advertising."* |
+| **21:37:32** | **#7479 Richard** | *„**No thank you. I don't want a partial refund on goods that aren't fit for the advertised purpose.** The full offered 30 day no quibble (**you're quibbling**) refund please."* |
+| **21:39:24** | **#8568 Allen Irvin**, 2. Thread | *„**Why would I return something that worked?**"* |
+| **21:45:37** | **#8574 John Husk** | *„**So you are fine that it lasted one evening?** Absolutely shocking customer service and a sub par product that didn't do what it claimed to."* |
+
+### 🟥 Die drei schwerwiegendsten Einzelbefunde daraus
+
+1. **#8142 Wendy Price hat jetzt ZUM VIERTEN MAL über denselben versiegelten,
+   ungeöffneten Artikel geschrieben** — 24.09., 28.09. 13:07, 28.09. 13:17 und
+   jetzt 29.09. 21:28 in Großbuchstaben — **und zum vierten Mal eine Antwort
+   über den zerkauten bekommen.** **Sie fragt ausdrücklich, warum sie immer
+   dieselbe Standardmail bekommt.**
+2. **#8781 Glenn Yarbrough wurde heute Abend mitgeteilt, die Bestellung habe
+   nicht storniert werden können, weil sie *„has already been shipped and is
+   currently on its way"*.** **Der Versandbeleg datiert auf den 28.09.
+   04:37:47 — vier Tage NACH seiner ersten Stornierung und drei nach der
+   dritten.** **Es ist derselbe Satz, mit dem am 22.09. #8669 abgelehnt
+   wurde, als er dort nachweislich nicht zutraf.**
+3. **#7479 hat das vierte Prozentangebot bekommen, statt einer Antwort auf
+   seine Frage vom 16.09.** Er nennt das Verhalten beim Namen.
+
+## Was in diesem Lauf NICHT passiert ist
+
+**Für diese sieben Antworten sind heute Abend noch KEINE Entwürfe
+geschrieben worden.** **Das ist eine bewusste Feststellung, keine
+Auslassung:** der Befund zum Serienversand musste zuerst vollständig und
+belegt im Protokoll stehen. **Die Entwürfe folgen im nächsten Lauf, und bis
+dahin ist hier nichts beantwortet.**
+
+**⚠️ Für #8142, #7479, #6254, #7168, #7373, #7626, #8431, #7559 und
+`hud@…` existieren bereits Entwürfe in `docs/entwuerfe-zum-kopieren.md` —
+alle ungesendet.** **Sie sind durch die heute Abend gesendeten Nachrichten
+teilweise überholt und müssen vor dem Senden geprüft werden.** **Sie werden
+NICHT pauschal als ersetzt markiert, solange ich sie nicht einzeln geprüft
+habe.**
+
+### Stand nach diesem Lauf
+
+- **Vierzehn Kundenvorgänge am 29.09.** (unverändert — die sieben Antworten
+  von heute Abend betreffen bereits erfasste Vorgänge und kommen im nächsten
+  Lauf dazu).
+- **408 Entwürfe in der Datei, keiner in Gmail.**
+- **Keine Erstattung, keine Stornierung, keine Bestelländerung ausgeführt.**
+- **🟥🟥🟥 Dritter Serienversand: mindestens 27 Nachrichten in
+  fünfundzwanzig Minuten.**
+- **🟥 Zwei neue, nicht angenommene Prozentangebote (60 % an #7479, 50 % an
+  #8312).**
