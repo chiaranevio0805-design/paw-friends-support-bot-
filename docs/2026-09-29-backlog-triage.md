@@ -346,3 +346,113 @@ hineingetragen wird.
 - **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.**
 - **⏰ Die drei offenen Stornofenster sind geschlossen — durch Versand, nicht
   durch eine Antwort.**
+
+---
+
+## Läufe 08:20, 09:20, 10:20 und 11:20 UTC
+
+**Nichts Neues.** Keine Aktion. **Der Tagesreport 29.09. wurde um 08:15
+erstellt** (`docs/2026-09-29-tagesreport.md`, Commit `c3c42cf`).
+
+---
+
+## Lauf 12:20 UTC
+
+### ⛔🟥 #7048 — Josephine Carr (`jocarr247@yahoo.com`), 29.09. 11:27 UTC — **sechster Kontakt**
+
+> *„**I still havent received my 40% partial refund? Why is this?** Seen as
+> **you have informed Klarna that my order doesn't apply to the return
+> policy, when the items haven't been opened.**"*
+
+**Pflichtsuche nach älteren Threads derselben Absenderin durchgeführt: drei
+Threads, vollständig gelesen.** **Der belegte Verlauf — alles im Thread
+zitiert, nichts rekonstruiert:**
+
+| Datum | Vorgang |
+|---|---|
+| 21.08. 20:29 | Bestellung **#7048**, **27,95 £**, 2 × Plushies (Elch, Hippo) |
+| 01.09. / 03.09. | zweimal: *„where is my order"* |
+| **02.09. 10:46** | **tatsächlicher Versand — zwölf Tage nach der Bestellung** |
+| 04.09. (gesendet) | *„…**Our UK warehouse is currently sold out**, so your order was shipped from our international warehouse."* |
+| 04.09. | *„after reading reviews… i will not be keeping them"* |
+| **15.09. 18:57** | **„They haven't been opened so want this dealing with ASAP"** |
+| **17.09. 11:31 (gesendet)** | **30 % — „allowing you to keep the toys without needing to return them"** |
+| 18.09. | *„nothing like advertised… I should at least get over 50%"* |
+| **21.09. 09:28 (gesendet)** | **40 % — wortgleiche Vorlage, wieder „to keep the toys"** |
+| 21.09. 11:03 | *„40% is still not good enough… it states a full refund if not happy"* |
+| **23.09. 11:25** | *„Stop with the stupid offers… **I want a full refund and will send them back to your UK department (as they haven't been opened). Or I want at least 70% partial refund**… or I will pass it onto **Klarna**… and report this company to **Trading Standards**"* |
+| 25.09. 17:09 | *„PLEASE LET ME KNOW ASAP WHEN YOU WILL BE REFUNDING ME"* |
+| **23.–29.09.** | **sechs Tage ohne jede Antwort** |
+| 29.09. 11:27 | diese Nachricht |
+
+**Bestelldatensatz (wieder abrufbar):** `totalRefundedSet` **0,00 £**,
+`refunds` **leer**, `displayFinancialStatus` **PAID**, Versandbeleg
+**02.09. 10:46**. **Es ist nie etwas erstattet worden.**
+
+**Drei Feststellungen:**
+
+1. **🟥 Ihr wurde zweimal angeboten, Ware zu BEHALTEN, nachdem sie gesagt
+   hatte, dass sie sie nicht behalten will und dass sie ungeöffnet ist** —
+   am 17.09. (30 %) und am 21.09. (40 %), beide Male mit demselben Satz
+   *„allowing you to keep the toys without needing to return them"*. **Das ist
+   dieselbe Vorlagenlogik wie bei #8142, #7479, #8456 und #8372, nur in der
+   „Behalten"-Variante statt der Kauschaden-Variante.** **Fünfte Person mit
+   ungeöffneter Ware, bei der die Vorlage am Sachverhalt vorbeigeht.**
+2. **🟥 Widerspruch im Vorgang, der NICHT von hier entschieden wird:** am
+   21.09. wurden 40 % angeboten, am 23.09. hat sie sie ausdrücklich abgelehnt
+   und mehr verlangt, am 29.09. fragt sie nach genau diesen 40 %. **Im Entwurf
+   wird beides nebeneinandergestellt und sie wird gefragt, woran sie uns
+   halten will.** **Ihre eigenen Worte vom 23.09. werden ausdrücklich nicht
+   gegen sie verwendet.**
+3. **🟥 Klarna.** Sie sagt, Klarna sei mitgeteilt worden, ihre Bestellung falle
+   nicht unter die Rückgaberichtlinie. **Von hier aus ist nicht einsehbar, was
+   Klarna mitgeteilt wurde.** **Im Entwurf wird es weder bestätigt noch
+   bestritten**; der Satz geht wortgetreu an den Owner. **Keine rechtliche
+   Bewertung, auch nicht zu Trading Standards, und nichts daran geknüpft.**
+
+**Weiter im Entwurf:** **zwölf Tage bis zum Versand offen benannt**; **kein
+Betrag genannt und nichts nachgerechnet**; **das von ihr benutzte Werbewort
+nicht wiederholt**, nur der überprüfbare Befund, dass es in keinem der zwölf
+Produkttexte steht, **ohne zu behaupten, die von ihr gesehene Anzeige habe es
+nicht enthalten**; **ausdrückliche Warnung, nichts zu verschicken**, und die
+Frage, ob das Paket schon unterwegs ist; **keine Aussage zu Qualität oder
+Größe**; **ihre Postanschrift aus der Signatur nicht benutzt und nicht
+erwähnt**.
+
+**⚠️ #7048 ist bereits am 22.09. als Werbeaussage gezählt worden. Die Zählung
+bleibt bei vierundsiebzig.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### 🟥 KORREKTUR in eigener Sache: die Zahl der offenen Geldzusagen war falsch
+
+**Beim Gegenzählen für diesen Eintrag ist aufgefallen, dass meine eigene
+Summe nicht stimmt.** Der Tagesreport vom 28.09. war mit **„Eleven promises"**
+überschrieben und **listete darunter zwölf Bestellnummern**; der 29.09.-Log
+hat daraus **„zwölf"** gemacht und damit eine weitere untergezählt.
+
+**Die tatsächliche Liste:**
+
+#4812 · #4919 · #7884 · #7179 · #6546 · #6583 · #5148 · #6259 · #4998 ·
+#7060 · #5973 · #4055 = **zwölf**, **plus #8372 (angenommen 29.09.) =
+dreizehn.**
+
+**#7048 wird hier bewusst NICHT als vierzehnte mitgezählt**, weil der Fall
+anders liegt: **ihr wurde ein Angebot gemacht, das sie abgelehnt hat und auf
+das sie sich jetzt beruft.** **Das ist keine bestätigte Zusage, und es wird
+auch nicht zu einer gemacht, indem ich es in dieselbe Liste schreibe.**
+**Es steht als eigener Punkt daneben und gehört heute auf den Tisch des
+Owners.**
+
+---
+
+### Stand nach diesem Lauf
+
+- **Vier Kundenvorgänge am 29.09.**
+- **398 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall
+  fiel unter Regel 4.
+- **🔴 Dreizehn offene Geldzusagen** (korrigiert, siehe oben), **plus der
+  Sonderfall #7048.**
+- **🟥 Fünfte Person mit ungeöffneter Ware, an der die Vorlage vorbeigeht.**
+- **⚠️ Vierundsiebzig unabhängige Kundenaussagen zur Werbung**, unverändert.

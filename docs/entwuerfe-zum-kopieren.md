@@ -20342,6 +20342,105 @@ nicht an den Frachtführer verwiesen.** **Das Foto nicht geöffnet und nichts
 weiter angefordert.** **Der AU-Abschnitt nur benannt, nicht ausgelegt.**
 **Nichts aus ihrem Hund gefolgert.** Kein Eskalationsmarker im Text.
 
+## #7048 — Josephine Carr (`jocarr247@yahoo.com`) — **fragt nach dem nie gezahlten 40 %-Angebot, nennt Klarna** · 29.09.
+
+**Betreff:** `Re: #7048`
+
+> Dear Miss Carr,
+>
+> **I will answer your question first, because it has a straight answer.**
+> **Nothing has been refunded on order #7048. Not 40 per cent, not any other
+> amount.** The order record shows **no refund of any kind**, and I would
+> rather tell you that plainly than explain around it.
+>
+> **On the 40 per cent itself, I have to be honest about what is in the
+> thread rather than pick the version that suits us.** **It was offered to you
+> on 21 September.** **On 23 September you wrote back that you wanted a full
+> refund, or at least 70 per cent, and told us to stop with the offers.**
+> **So there are two different things on record, and I am not going to decide
+> for you which one you meant** — and I am certainly not going to use your
+> own words from 23 September as a reason to give you nothing. **Tell me
+> which one you want us held to, and that is the one I pass on.** **If you
+> want the 40 per cent, say so and it stands as your answer to the
+> 21 September letter.**
+>
+> **Whichever you choose, I cannot approve it from this desk and I am not
+> going to refuse you either.** That decision is the shop owner's. **Your
+> message goes to him today in your own words.** **I am not going to give you
+> a date, and I am not going to tell you it has been processed** — you have
+> been told things by this address before that did not match what actually
+> happened, and I am not adding to that.
+>
+> **You wrote that Klarna were told your order does not fall under the return
+> policy.** **I cannot see what was said to Klarna from here, so I am not
+> going to confirm it and I am not going to deny it.** **Your sentence goes to
+> the owner exactly as you wrote it, and he can check it against whatever was
+> actually sent.** **I am not going to give you any view on where that leaves
+> you** — that is not mine to give.
+>
+> **There is something I want to say plainly, because it has gone wrong
+> repeatedly in your case.** **You told us on 15 September that the items had
+> not been opened.** **On 17 September you were offered 30 per cent "allowing
+> you to keep the toys", and on 21 September 40 per cent in the same words** —
+> **twice offered the chance to keep goods you had already said you did not
+> want to keep.** **That was our error, not a misunderstanding on your side.**
+>
+> **And the return you asked about.** **On 23 September you said you would
+> send the items back to our UK department. You have had no answer to that for
+> six days, and that is not acceptable.** **Please do not post anything.**
+> **There is no returns address I can give you** — not one I am withholding,
+> one that does not exist on our side at the moment. **If you have already
+> posted the parcel, tell me and I will say so when I pass this on**, because
+> that is then a separate problem and it should not sit unanswered as well.
+>
+> **Two things from the order record that belong to you whatever is decided.**
+> **You ordered on 21 August and the parcel was not despatched until
+> 2 September — twelve days.** **And nothing has been refunded at any point,
+> which is why you have not seen anything arrive.**
+>
+> **On the wording you quoted.** **I cannot see the page or the advertising as
+> it was shown to you, so I am not going to tell you what it said, and I am
+> not going to suggest you misread it.** **What I can check, I have:** I have
+> read all twelve of our current product descriptions, **and the word you used
+> appears in none of them.** **Whether what you were shown said something
+> different is his question to answer, and your wording reaches him
+> unchanged.**
+>
+> **You mentioned Trading Standards.** **Nothing here is conditional on that,
+> in either direction.** **I am not asking you to wait, and I am not asking
+> you to drop it.**
+>
+> **No new percentage is being offered to you here, and I am not quoting an
+> amount back at you** — the figure belongs in the letter you were sent, not
+> in a recalculation from me.
+>
+> I am sorry you had to write a sixth time to get a direct answer.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **überprüfbare Auskunft, dass auf #7048 nichts
+erstattet wurde**, die **offene Benennung der zwölf Tage bis zum Versand**,
+die **Anerkennung, dass ihr zweimal ein „Behalten"-Angebot gemacht wurde,
+nachdem sie gesagt hatte, sie wolle die Ware nicht behalten**, die
+ehrliche Auskunft, dass es keinen Rückgabeweg gibt, und die **unveränderte
+Weitergabe ihrer Klarna-Aussage an den Owner**. **Keine Erstattung zugesagt,
+kein Termin, kein neues Prozentangebot — und keine Absage.** **Die
+Widersprüchlichkeit zwischen dem 40 %-Angebot vom 21.09. und ihrer Forderung
+vom 23.09. wird offengelegt, aber NICHT für sie entschieden** — und **ihre
+eigenen Worte vom 23.09. werden ausdrücklich nicht gegen sie verwendet.**
+**Nicht bestätigt und nicht bestritten, was Klarna mitgeteilt wurde.** **Keine
+rechtliche Bewertung, weder zu Klarna noch zu Trading Standards**, und nichts
+daran geknüpft. **Kein Betrag genannt und nichts nachgerechnet.** **Das von
+ihr benutzte Wort wird nicht wiederholt**; es wird nur gesagt, dass es in
+keinem der zwölf Produkttexte steht — **ohne zu behaupten, die von ihr
+gesehene Anzeige habe es nicht enthalten.** **Keine Aussage zur Qualität, in
+keine Richtung, und keine zur Größe.** **Ihre Postanschrift aus der Signatur
+wird nicht benutzt und nicht erwähnt.** **Nicht behauptet, sie habe das
+Angebot angenommen, und nicht behauptet, sie habe es abgelehnt.** Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
