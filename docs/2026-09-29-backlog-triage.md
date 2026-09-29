@@ -790,3 +790,73 @@ betrafen Lieferzeit und Frist.
   laufendes Bankverfahren (#2095).** **Das gehört heute auf den Tisch des
   Owners.**
 - **📘 Dreizehnte Bestellung mit nicht gelieferter E-Book-Position.**
+
+---
+
+## Lauf 18:20 UTC
+
+### ⛔🟥 #7608 — Patty Arenella (`patty.arenella@gmail.com`), 29.09. 17:33 UTC — **nach der Kauschaden-Absage**
+
+> *„**This is a con job.** Your advertisement states that it is for dogs that
+> chew toys and it was supposed to be durable for these types of dogs. **Also
+> the advertisement stated that there was a gift when one was purchased.** If
+> you will [not] refund send me a replacement"*
+
+**Der belegte Verlauf:**
+
+| Datum | Vorgang |
+|---|---|
+| 24.08.2026 | Bestellung **#7608**, **27,75 USD**, **ein** Plushie (monkey) |
+| **03.09.** | Versand — **zehn Tage nach der Bestellung** |
+| 23.09. 20:24 | Erstkontakt, Betreffzeile *„Damaged toy order 7608. Please refund"*, **Anhang** |
+| **28.09. 11:20:33** | **Kauschaden-Vorlage im Serienversand**, adressiert **„Dear Customer"** |
+| 29.09. 17:33 | diese Nachricht |
+
+**Erstattet bisher: 0,00 USD, `refunds` leer.**
+
+**🟥 Zwei Dinge aus der Absage vom 28.09., die festgehalten gehören:**
+
+1. **Sie verweigert in einem Satz Erstattung, Ersatz UND Umtausch** —
+   *„unable to provide a refund, replacement, or exchange under the current
+   policy."*
+2. **Sie räumt die Werbeaussage selbst ein:** *„especially given the
+   **durability claims associated with our toys**."* **Die Vorlage bestätigt
+   also, dass es Haltbarkeitsaussagen gibt, und lehnt im selben Text ab.**
+
+**🟦 NEU und überprüfbar: das beworbene Geschenk.** Sie schreibt, die Anzeige
+habe ein Geschenk beim Kauf versprochen. **Auf ihrer Bestellung steht genau
+eine Position — der monkey-Plushie — und keine Geschenkposition.** **Im
+Entwurf steht genau das: was auf der Bestellung steht, ohne zu behaupten, die
+von ihr beschriebene Werbung existiere nicht, und ohne die Anzeige zu
+rekonstruieren.** **Das ist der erste Fall im Protokoll, in dem ein beworbenes
+Gratisgeschenk gerügt wird.** **Ob es beworben wurde, kann nur der Owner
+beantworten.**
+
+**Weiter im Entwurf:** **kein Ersatz zugesagt** — offen begründet mit dem seit
+Juli offenen Ersatzversprechen (**ohne die andere Kundennummer zu nennen**);
+**nicht behauptet, die Absage vom 28.09. sei zurückgenommen** — es wird offen
+gesagt, dass sie gesendet wurde und von hier nicht zurückgenommen werden kann;
+**keine zweite Kauschaden-Vorlage**, und ihr wird gesagt, dass keine kommt;
+**keine Garantieentscheidung in irgendeine Richtung, keine Frist**; **zu „con
+job" keine Bewertung und kein Widerspruch**; **Anhang nicht geöffnet**;
+**Warnung, nichts zu verschicken**; **nichts aus ihrem Hund gefolgert.**
+
+**⚠️ Achtundsiebzigste unabhängige Kundenaussage zur Werbung** (77 → 78) —
+ihr Erstkontakt vom 23.09. hatte keinen Text im Nachrichtenkörper und ist
+deshalb nicht gezählt worden.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Elf Kundenvorgänge am 29.09.** — **zehn eskaliert, einer Needs Approval.**
+- **405 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt, keine
+  Bestellung verändert.** Kein Fall fiel unter Regel 4.
+- **🔴 Dreizehn offene Geldzusagen**, plus der Sonderfall #7048.
+- **⚠️ Achtundsiebzig unabhängige Kundenaussagen zur Werbung.**
+- **🟥 Der Serienversand vom 28.09. hat heute den vierten belegbaren
+  Folgefall produziert** — nach #8142, #7831, #8456 und #8432 jetzt **#7608**.
+- **🟦 Erster Fall eines gerügten, nicht gelieferten Werbegeschenks.**

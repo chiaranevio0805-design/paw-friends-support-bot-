@@ -20919,6 +20919,94 @@ geöffnet, nichts weiter angefordert.** **Nichts aus ihrem Hund gefolgert.**
 gedauert; das wird ihr nicht widersprochen und nicht ausgelegt. Kein
 Eskalationsmarker im Text.
 
+## #7608 — Patty Arenella (`patty.arenella@gmail.com`) — **nach der Kauschaden-Absage; nennt erstmals ein beworbenes Geschenk, das nicht auf der Bestellung steht** · 29.09.
+
+**Betreff:** `Re: Damaged toy order 7608. Please refund`
+
+> Dear Ms Arenella,
+>
+> **You asked for a refund, and said that if there is no refund you want a
+> replacement. Both of those go to the shop owner today, in your own words.**
+> **I cannot approve either from this desk, and I am not going to refuse you
+> a second time.**
+>
+> **About the reply you had on 28 September.** **It told you that no refund,
+> replacement or exchange was possible. I cannot pretend that letter was not
+> sent, and I cannot withdraw it — it was not mine to send and it is not mine
+> to take back.** **What I can do is make sure your request is actually in
+> front of the person who decides, rather than answered again with the same
+> paragraph.** **No second copy of it is coming from me.**
+>
+> **I am not going to promise you a replacement.** **There is a customer who
+> was promised one in writing in July and is still waiting for it at the end
+> of September**, and I am not willing to put you in that position by making a
+> promise of the same kind. **Your request for one is recorded and passed on
+> exactly as you made it.**
+>
+> **Now the part I can actually check, and it matters.** **You wrote that the
+> advertisement said there was a gift with the purchase.** **I cannot see the
+> advertisement as it was shown to you, so I am not going to tell you what it
+> said, and I am certainly not going to suggest you misremembered it.**
+> **What I can tell you is what is on your order: it has one item on it, the
+> monkey plush toy, and nothing else.** **There is no gift item on the order
+> at all.** **Whether one was advertised is the owner's question to answer,
+> and your sentence reaches him unchanged.**
+>
+> **On the durability wording.** **The product you bought is listed under our
+> own title, "Plushies – Designed for Furry Friends Who Destroy Everything" —
+> that is our wording, not yours.** **Beyond that I cannot see the page as it
+> was shown to you, and I am not going to reconstruct it.**
+>
+> **What I am not going to do is tell you the guarantee covers what happened,
+> or tell you it does not.** **That is the owner's decision and not mine.**
+>
+> **You used the words "con job".** **I am passing that on exactly as you
+> wrote it, and I am not going to argue with you about it, in either
+> direction.** **That is not a judgement a support desk should be handing
+> down about its own employer, and I am not going to pretend otherwise.**
+>
+> **From the order record, so that you have it:** **you ordered on 24 August
+> and the parcel was not despatched until 3 September — ten days.** **And
+> nothing has been refunded on this order at any point.** **The total you paid
+> is $27.75.**
+>
+> **You sent an attachment with your first message. I have not opened it, and
+> I am not asking you for anything further.** **Nothing here depends on you
+> proving what happened.**
+>
+> **If you are thinking of sending the toy back, please do not post anything
+> yet.** **There is no returns address I can give you** — not one I am
+> withholding, one that does not exist on our side at the moment.
+>
+> **I am not going to make any claim about the toy in either direction, and I
+> am drawing no conclusion from your dog.**
+>
+> I am sorry that the reply you got on 28 September was the kind of letter it
+> was.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **unveränderte Weitergabe beider Forderungen —
+Erstattung und hilfsweise Ersatz —**, die **überprüfbare Auskunft, dass auf
+ihrer Bestellung nur ein Artikel und kein Geschenk steht**, die **Nennung der
+zehn Tage bis zum Versand**, und die **Auskunft, dass nichts erstattet
+wurde**. **Keine Erstattung zugesagt, kein Ersatz zugesagt, kein Termin — und
+keine zweite Absage.** **Nicht behauptet, die Absage vom 28.09. sei
+zurückgenommen** — es wird offen gesagt, dass sie gesendet wurde und von hier
+nicht zurückgenommen werden kann. **Keine zweite Kauschaden-Vorlage**, und ihr
+wird gesagt, dass keine kommt. **Nicht behauptet, die Garantie decke den
+Kauschaden, und nicht behauptet, sie decke ihn nicht.** **Keine Frist
+genannt.** **Nicht behauptet, die von ihr beschriebene Geschenk-Werbung
+existiere nicht** — es wird nur gesagt, was auf ihrer Bestellung steht.
+**Keine Rekonstruktion der Anzeige.** **Der Produkttitel wird als unsere
+eigene Formulierung bestätigt.** **Zu „con job" keine Bewertung in irgendeine
+Richtung** und kein Widerspruch. **Anhang nicht geöffnet, nichts weiter
+angefordert.** **Warnung, nichts zu verschicken**, ohne die Rückgabe zur
+Bedingung zu machen. **Keine Aussage zur Qualität, in keine Richtung.**
+**Nichts aus ihrem Hund gefolgert.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
