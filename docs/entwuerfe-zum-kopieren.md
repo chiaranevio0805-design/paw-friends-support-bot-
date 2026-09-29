@@ -21075,6 +21075,162 @@ Aussage zur Qualität, in keine Richtung.** **Der 28.09.-Entwurf ist als
 ersetzt markiert und darf nicht zusätzlich gesendet werden.** Kein
 Eskalationsmarker im Text.
 
+## #8577 — Shirley (`shirls_mc@hotmail.co.uk`) — **nach der Kauschaden-Vorlage vom 29.09.; kündigt Kommentare unter der Werbung an** · 29.09.
+
+**Betreff:** `Re: Toys delivered`
+
+> Dear Ms McKenzie,
+>
+> **You wrote on 25 September. The reply you got tonight, four days later, was
+> a standard paragraph about a toy damaged by a dog, and it was addressed to
+> "Dear Customer".** **You called it unrealistic. I am not going to argue with
+> that, and I am not going to send you a second copy of it.**
+>
+> **You asked for a refund. I cannot approve one from this desk, and I am not
+> going to refuse you.** That decision belongs to the shop owner. **Your
+> request goes to him, in your own words.** **I am not going to give you a
+> date, and I am not going to tell you anything is being processed** — I have
+> no way of confirming that from here.
+>
+> **About what you said you will do.** **You are free to comment wherever you
+> like, and nothing here is conditional on it.** **I am not going to ask you
+> to hold off, to take anything down, or to wait and see first.** **Your
+> refund does not depend on what you do or do not post, and I will not have it
+> put to you that way.**
+>
+> **On the wording you quoted.** **I cannot see the advertisement as it was
+> shown to you, so I am not going to tell you what it said, and I am certainly
+> not going to suggest you misread it.** **What I can check, I have:** I have
+> read all twelve of our current product descriptions, **and the word you used
+> appears in none of them.** **That is a statement about those twelve texts
+> and nothing more — it is not a claim that what you saw said something
+> different.** **Your wording goes to the owner unchanged, because he is the
+> only one who can look at what was actually on the page.**
+>
+> **What I am not going to do is tell you the guarantee covers this, or tell
+> you it does not.** **That is his decision and not mine.**
+>
+> **From the order record, so that you have it:** **you ordered on
+> 16 September and the parcel was despatched on 17 September.** **Nothing has
+> been refunded on this order at any point.** **The total you paid is
+> £49.90.** **I am not going to break that down per item** — it was sold at a
+> bundle price and any per-toy figure I gave you would be a guess dressed up
+> as arithmetic.
+>
+> **You attached a picture. I have not opened it, and I am not asking you for
+> anything further.** **Nothing here depends on you proving what happened.**
+>
+> **One more thing you did not ask about.** **Your order includes an e-book,
+> and I am flagging it to the owner along with the rest** — **if it never
+> reached you, that is a separate thing you paid for and did not get.**
+>
+> **You wrote to us in two separate threads and both got the same standard
+> paragraph tonight.** **This reply is meant for both; you will not get it
+> twice.**
+>
+> **If you are thinking of sending anything back, please do not post it yet.**
+> **There is no returns address I can give you** — not one I am withholding,
+> one that does not exist on our side at the moment.
+>
+> **I am not going to make any claim about the toys in either direction, and I
+> am drawing no conclusion from your dog.**
+>
+> I am sorry that a four-day wait ended in a form letter.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Anerkennung, dass sie nach vier Tagen eine
+Vorlage bekommen hat**, die **unveränderte Weitergabe ihrer Forderung**, die
+**Auskunft, dass nichts erstattet wurde**, und der **ungefragte Hinweis auf
+die E-Book-Position**. **Keine Erstattung zugesagt, kein Termin, keine
+Absage.** **NICHTS an ihre angekündigten Kommentare geknüpft** — sie wird
+ausdrücklich **nicht** gebeten, zu warten, zu löschen oder zu unterlassen.
+**Keine zweite Kauschaden-Vorlage.** **Nicht behauptet, die Garantie decke
+den Fall, und nicht behauptet, sie decke ihn nicht.** **Keine Frist.**
+**Das Werbewort nicht wiederholt**, nur der Befund zu den zwölf
+Produkttexten, **ohne zu behaupten, die von ihr gesehene Anzeige habe etwas
+anderes gesagt.** **Gesamtbetrag genannt, ausdrücklich nicht aufgeteilt.**
+**Bild nicht geöffnet.** **Ein Entwurf für beide Threads, nur einmal
+senden.** **Nichts aus ihrem Hund gefolgert.** **⚠️ Der ältere #8577-Entwurf
+bleibt als ersetzt markiert.** Kein Eskalationsmarker im Text.
+
+## #8573 — Alison Greaves (`alisongreaves41@gmail.com`) — **nach der Kauschaden-Vorlage vom 29.09.** · 29.09.
+
+**Betreff:** `Re: Indestructable toy`
+
+> Dear Ms Greaves,
+>
+> **You made your point clearly and the reply you got tonight did not answer
+> it. I am not going to send you another copy of it.**
+>
+> **You wrote on 25 September. The answer came four days later, it was
+> addressed to "Dear Customer", and it was a standard paragraph about a toy
+> damaged by a dog.** **Your point was about what the toy was described as
+> before you bought it. That is a different question, and it deserved a
+> different answer.**
+>
+> **On the description.** **I cannot see the advertisement as it was shown to
+> you, so I am not going to tell you what it said, and I am certainly not
+> going to suggest you misread it.** **What I can check, I have:** I have read
+> all twelve of our current product descriptions, **and the word you used
+> appears in none of them.** **That is a statement about those twelve texts
+> and nothing more — it is not a claim that what you saw said something
+> different.** **Whether what you were shown matched what arrived is the shop
+> owner's question to answer, not mine, and your wording reaches him
+> unchanged.**
+>
+> **You have not asked me for anything specific, so I am not going to assume
+> what you want.** **If you want a refund, say so and it goes to him as a
+> refund request.** **If you want something else, say that instead.** **I
+> cannot approve either from this desk, and I am not going to refuse you.**
+>
+> **There is one thing I want to be explicit about.** **You told us your puppy
+> has managed to destroy every toy he owns. That was you being straight with
+> us, and it is not going to be used against you.** **I am drawing no
+> conclusion from it, from his age, or from his breed — not here, and not in
+> what I pass on.**
+>
+> **From the order record, so that you have it:** **you ordered on
+> 16 September and the parcel was despatched on 17 September.** **You say it
+> arrived at one o'clock and was in pieces by nine.** **Nothing has been
+> refunded on this order at any point.** **The total you paid is £19.95.**
+>
+> **You attached photographs. I have not opened them, and I am not asking you
+> for anything further.** **Nothing here depends on you proving what
+> happened.**
+>
+> **What I am not going to do is tell you the guarantee covers this, or tell
+> you it does not.** **That is his decision and not mine**, and I am not going
+> to quote you a deadline as though it were already settled.
+>
+> **If you are thinking of sending it back, please do not post anything yet.**
+> **There is no returns address I can give you** — not one I am withholding,
+> one that does not exist on our side at the moment.
+>
+> **I am not going to make any claim about the toy in either direction.**
+>
+> I am sorry that a four-day wait ended in a form letter.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Anerkennung, dass die Vorlage ihre Frage
+nicht beantwortet hat**, die **unveränderte Weitergabe ihrer Aussage**, und
+die **Auskunft, dass nichts erstattet wurde**. **Keine Erstattung zugesagt,
+kein Termin, keine Absage** — und **nicht unterstellt, dass sie eine
+verlangt**; es wird gefragt. **Keine zweite Kauschaden-Vorlage.** **Ihre
+eigene Aussage, ihr Welpe zerstöre jedes Spielzeug, wird ausdrücklich NICHT
+gegen sie verwendet**, und **aus Alter oder Rasse wird nichts gefolgert.**
+**Nicht behauptet, die Garantie decke den Fall, und nicht behauptet, sie decke
+ihn nicht.** **Keine Frist.** **Das Werbewort nicht wiederholt**, nur der
+Befund zu den zwölf Produkttexten, **ohne zu behaupten, die von ihr gesehene
+Anzeige habe etwas anderes gesagt.** **Ihre Zeitangabe wird wiedergegeben,
+nicht bewertet.** **Fotos nicht geöffnet.** **Warnung, nichts zu
+verschicken.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

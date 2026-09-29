@@ -956,3 +956,125 @@ offene Geldzusage).
 - **🔴 #4055 ist damit der am längsten offene bezifferte Fall mit
   Wiederholkontakt:** Annahme 17.09., „processed" 19.09., Nachfragen 27.09.
   und 29.09., **erstattet 0,00 £.**
+
+---
+
+## Lauf 21:20 UTC
+
+# 🟥🟥🟥 DRITTER SERIENVERSAND — HEUTE ABEND, 20:57 bis 21:18 UTC
+
+**Er läuft, während dieser Lauf geschrieben wird.** `in:sent newer_than:3h`
+liefert **sechzehn Threads mit je einer gesendeten Nachricht zwischen
+20:57:13 und 21:18:08 UTC.** **Die letzte liegt drei Sekunden vor dem Start
+dieses Laufs — es können weitere folgen, die hier noch nicht erfasst sind.**
+
+| Zeit (UTC) | Empfänger | Bekannter Vorgang |
+|---|---|---|
+| 20:57:13 | `laceymick31@gmail.com` | — |
+| 21:00:47 | `shirls_mc@hotmail.co.uk` | **#8577**, Thread 1 |
+| 21:07:15 | `stevecooil@me.com` | **#5973 — offene Geldzusage, „processed" am 17.09.** |
+| 21:07:25 | `shirls_mc@hotmail.co.uk` | **#8577**, Thread 2 |
+| 21:07:33 | `karan.marlow@gmail.com` | — |
+| **21:07:55** | **`jocarr247@yahoo.com`** | **#7048 — heute 12:20 von mir entworfen, nie gesendet** |
+| 21:08:11 | `andyg9053@googlemail.com` | — |
+| 21:08:17 | `justsimple21@hotmail.co.uk` | — |
+| 21:08:27 | `alisongreaves41@gmail.com` | **#8573** |
+| **21:15:29** | **`glennyarbrough@gmail.com`** | **#8781 — dreimal storniert, nie beantwortet, am 28.09. trotzdem verschickt** |
+| 21:15:42 | `sarahc300@gmail.com` | — |
+| 21:17:03 | `quick.suzanne@gmail.com` | — |
+| 21:17:27 | `hibbsjill@yahoo.com` | — |
+| 21:17:38 | `husky0877@googlemail.com` | **#8574** |
+| 21:17:51 | `allenirvin@aol.com` | **#8568** |
+| 21:18:08 | `PitBullAdvocate@live.com` | **#7898** |
+
+**Was hier NICHT behauptet wird:** **ich habe diese Nachrichten nicht
+gesendet — dieses Konto hat keine Sendefunktion.** **Ich halte nur fest, was
+im Postausgang steht, und sage nichts darüber, wer sie ausgelöst hat.**
+**Den Inhalt der meisten dieser sechzehn Nachrichten habe ich nicht geöffnet.**
+
+**Zwei sind durch die Antworten der Empfängerinnen belegt: es ist die
+Kauschaden-Vorlage**, adressiert **„Dear Customer"**, wortgleich mit der vom
+28.09. — einschließlich des Satzes *„especially given the durability claims
+associated with our toys."*
+
+**⚠️ Damit ist es der dritte dokumentierte Serienversand:** **24.09. = 37
+Nachrichten**, **28.09. = 32**, **29.09. = mindestens 16.**
+
+**⚠️ Drei der Empfänger sind Fälle, bei denen genau diese Vorlage besonders
+schädlich ist:** **#7048** (ungeöffnete Ware, Klarna-Verfahren, heute von mir
+entworfen), **#8781** (drei unbeantwortete Stornierungen, Ware trotzdem
+verschickt) und **#5973** (offene Geldzusage). **Was sie erhalten haben, ist
+von hier nicht geprüft.**
+
+---
+
+### ⛔🟥 #8577 — Shirley (`shirls_mc@hotmail.co.uk`), 29.09. 21:03:20 UTC — **drei Minuten nach der Vorlage**
+
+> **25.09. 11:16:** *„You describe these toys as [Werbewort] well after 10
+> minutes attached picture shows they are not so **I want a refund.**"*
+>
+> **29.09. 21:00:47:** Kauschaden-Vorlage, „Dear Customer".
+>
+> **29.09. 21:03:20:** *„**Thats an unrealistic response** so what I will do
+> is **every time I see your ad I will put a comment on telling people the
+> toys are not sustainable!**"*
+
+| Feld | Wert |
+|---|---|
+| Bestellung | **#8577**, 16.09.2026, **49,90 £** |
+| Versand | 17.09.2026 08:18 |
+| Erstattet | **0,00 £**, `refunds` **leer** |
+| Positionen | 3 × Plushies, 1 × Zahnbuddy, **1 × E-Book** |
+
+**Eskalationsauslöser: öffentliche Kommentare angekündigt (Bewertungsmuster)
+und Werbeaussage bestritten.**
+
+**Im Entwurf: NICHTS an ihre angekündigten Kommentare geknüpft** — sie wird
+**nicht** gebeten zu warten, zu löschen oder zu unterlassen, und die
+Erstattung wird **nicht** davon abhängig gemacht. **Keine zweite
+Kauschaden-Vorlage.** **Ein Entwurf für beide ihrer Threads, nur einmal zu
+senden.** **E-Book-Position ungefragt an den Owner gemeldet.** **⚠️ Der
+ältere #8577-Entwurf bleibt als ersetzt markiert.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### ⛔ #8573 — Alison Greaves (`alisongreaves41@gmail.com`), 29.09. 21:12:28 UTC — **vier Minuten nach der Vorlage**
+
+> **25.09. 20:13:** *„I have a 6 month old labrador puppy who so far has
+> managed to destroy every toy he owns. I had high hopes with your toy. **It
+> arrived at 1pm today and now at 9 it is in several pieces.**"*
+>
+> **29.09. 21:08:27:** Kauschaden-Vorlage, „Dear Customer".
+>
+> **29.09. 21:12:28:** *„**I think the point I was making it was described as
+> [Werbewort] and lasted less than a few hours. A very expensive item which
+> was misadvertised.**"*
+
+| Feld | Wert |
+|---|---|
+| Bestellung | **#8573**, 16.09.2026, **19,95 £**, ein Plushie (donkey) |
+| Versand | 17.09.2026 08:17 |
+| Erstattet | **0,00 £**, `refunds` **leer** |
+
+**Im Entwurf:** **ihre eigene Aussage, ihr Welpe zerstöre jedes Spielzeug,
+wird ausdrücklich NICHT gegen sie verwendet**, und **aus Alter oder Rasse
+wird nichts gefolgert.** **Sie verlangt nichts Konkretes — es wird gefragt,
+nicht unterstellt.** **Keine zweite Kauschaden-Vorlage, keine
+Garantieentscheidung, keine Frist.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Tagesabschluss 29.09. — zweite Fortschreibung
+
+- **Vierzehn Kundenvorgänge**, davon **dreizehn eskaliert**, **einer Needs
+  Approval.**
+- **408 Entwürfe in der Datei, keiner in Gmail.** **Fünf als ersetzt
+  markiert.**
+- **Keine Erstattung, keine Stornierung, keine Bestelländerung ausgeführt.**
+- **🟥🟥🟥 Dritter Serienversand, heute Abend, mindestens sechzehn
+  Nachrichten in einundzwanzig Minuten — möglicherweise noch laufend.**
+- **⚠️ Achtzig unabhängige Kundenaussagen zur Werbung** (78 → 80).
+- **📤 Die drei Entwürfe seit dem Abendreport (#4055, #8577, #8573) stehen in
+  keinem Abendreport** — Volltexte in `docs/entwuerfe-zum-kopieren.md`.
