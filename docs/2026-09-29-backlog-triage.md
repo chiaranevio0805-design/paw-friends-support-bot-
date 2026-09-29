@@ -528,3 +528,139 @@ Rückgabe ungeöffneter Ware.
 - **⚠️ Fünfundsiebzig unabhängige Kundenaussagen zur Werbung.**
 - **🟥 Sechs Personen halten ungeöffnete Ware, für die es keinen Rückgabeweg
   gibt.**
+
+---
+
+## Lauf 14:20 UTC (ausgelöst 15:26)
+
+**Drei neue Vorgänge.** Für jeden wurde vorab nach älteren Threads derselben
+Absender gesucht.
+
+### ⛔🟥 #8432 — Colin Teager (`tiggerbcfc@gmail.com`), 29.09. 14:46 UTC — zweiter Kontakt
+
+> *„my delivery arrived on the **25th September** after quite a long wait… the
+> elephant is not in a very good condition, my Border Terrier Bobbie has
+> destroyed your [Werbewort] dog toys… **will he be replaced through your
+> 30 day guarantee**… I must admit the Dogs loved your toys though"*
+
+**Sieben Fotos im Anhang — nicht geöffnet.**
+
+| Feld | Wert |
+|---|---|
+| Bestellung | **#8432**, 09.09.2026, **27,95 £**, `PAID` |
+| Positionen | 2 × Plushies (donkey, elephant) |
+| Versand | **14.09.2026 07:59** |
+| Zustellung | **25.09. nach seiner eigenen Angabe** |
+| Erstattet | **0,00 £**, `refunds` **leer** |
+
+**🟥 Der belegte Fehler:** Am **23.09. 14:49** schrieb er *„Where is my
+delivery"*. **Die Antwort kam am 28.09. um 11:20:17** — **im Serienversand,
+adressiert „Dear Customer"** obwohl er unterschrieben hatte — **und lautete,
+die Bestellung sei *„shipped and is currently on the way"*.** **Zu diesem
+Zeitpunkt war sie seit drei Tagen zugestellt.** **Im Entwurf steht das offen
+als unser Fehler, an erster Stelle.**
+
+**Weiter im Entwurf:** **kein Ersatz zugesagt** — offen begründet damit, dass
+ein im Juli schriftlich zugesagter Ersatz bis heute nicht geliefert ist
+(**#2894 wird ihm gegenüber nicht mit Nummer genannt**); **keine
+Garantieentscheidung in irgendeine Richtung, keine Frist**; **sein Lob
+ausdrücklich NICHT als Beleg verwendet und nicht gegen ihn gewendet**; **die
+von ihm angekündigte Beschädigung des zweiten Artikels nicht als zweiter
+Anspruch behandelt**; **nichts aus Rasse oder Namen seiner Hunde gefolgert.**
+
+**Label:** `Bot/Escalated - Owner Attention` (Wiederholkontakt, bestrittene
+Werbeaussage).
+
+### ⛔ #7982 — Rod O'Donnell (`mrodonnell66@gmail.com`), 29.09. 13:58 UTC — Erstkontakt, **Australien**
+
+> *„The products were destroyed by my two dogs within the first afternoon…
+> **I don't believe the product lived up to its claim to being strong and
+> designed for dogs that normally destroy such toys.** **I am seeking a full
+> refund, if you can please advise what you require and the process going
+> forward.**"*
+
+**Ein Bild im Anhang — nicht geöffnet.**
+
+| Feld | Wert |
+|---|---|
+| Bestellung | **#7982**, 27.08.2026, **53,87 AUD**, `PAID` |
+| Positionen | 2 × Plushies (Duck, fox); Einzelpreise **58,00 + 58,00 AUD** gegen **53,87 gezahlt** (Bündel) |
+| Versand | **08.09.2026 07:30 — zwölf Tage nach der Bestellung** |
+| Erstattet | **0,00 AUD**, `refunds` **leer** |
+| Adresse | Currambine, **Western Australia** |
+
+**Er fragt ausdrücklich nach dem Verfahren.** **Im Entwurf wird direkt
+geantwortet: es gibt keinen Rückgabeweg und keine Rücksendeadresse**, mit der
+ausdrücklichen Bitte, nichts zu verschicken. **Der Produkttitel wird als
+unsere eigene Formulierung bestätigt**, ohne die Anzeige zu rekonstruieren und
+ohne zu behaupten, die von ihm zitierte Aussage existiere nicht. **Keine
+Garantieentscheidung, keine Frist, kein Prozentangebot, keine Aussage zur
+Qualität.** **Gesamtbetrag genannt, ausdrücklich nicht aufgeteilt.**
+
+**🇦🇺 Sechster australischer Fall** — #6893, #8228, #8431,
+`hud@hildebrandt.com.au`, #7324, **#7982**.
+**⚠️ Sechsundsiebzigste unabhängige Kundenaussage zur Werbung** (75 → 76).
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### #8592 — Stephen Cranney (`stephencranney@aol.com`), 29.09. 14:36 UTC — Erstkontakt, **auf der Bestellung steht keine E-Mail-Adresse**
+
+> *„Could you please advise when I will receive my order, it has order
+> confirmation **#LYGH55D65**. This was ordered on **16th September** and I
+> have received **NO updates** since."*
+
+**Die Suche über seine Adresse ergab nichts.** **Die Suche über die von ihm
+genannte Bestätigungsnummer führte sofort zu #8592:**
+
+| Feld | Wert |
+|---|---|
+| Bestellung | **#8592**, **16.09.2026 21:34** — deckt sich mit seiner Angabe |
+| `confirmationNumber` | **`LYGH55D65`** — **exakte Übereinstimmung** |
+| Lieferadresse | **stephen cranney**, Newry, Vereinigtes Königreich |
+| **`email`** | **`null` — es ist KEINE E-Mail-Adresse hinterlegt** |
+| Betrag | **27,95 £**, `PAID`, 2 × Plushies (Elk, elephant) |
+| Versand | **28.09.2026 04:30:39 — zwölf Tage nach der Bestellung** |
+| Erstattet | **0,00 £** |
+
+**🟥 Das erklärt seine Beschwerde vollständig und es ist unser Fehler:**
+**auf der Bestellung ist keine E-Mail-Adresse gespeichert, also konnten weder
+Bestellbestätigung noch Versandbenachrichtigung automatisch zugestellt
+werden.** **Im Entwurf steht genau das — ausdrücklich als unser Fehler und
+nicht als sein Versäumnis.**
+
+**⚠️ Zuordnung:** sie stützt sich auf die **von ihm selbst genannte
+Bestätigungsnummer** und den **übereinstimmenden Namen auf der
+Lieferadresse** — **nicht auf einen E-Mail-Abgleich, weil auf der Bestellung
+keine Adresse steht.** **Das ist im Protokoll ausdrücklich festgehalten.**
+**Die hinterlegte Telefonnummer wird nicht benutzt und nicht erwähnt.**
+
+**⚠️ In Shopify wurde nichts verändert.** **Das Nachtragen der Adresse gehört
+in den Admin und damit zum Owner.**
+
+**Keine Zustellzusage.** **Die Trackingnummer wird genannt, aber ausdrücklich
+nicht als Zustellnachweis verwendet**, und es wird nicht an den Frachtführer
+verwiesen. **Keine Erstattung und keine Stornierung unterstellt** — es wird
+angeboten.
+
+**⚠️ Sein Versand am 28.09. um 04:30:39 liegt in derselben Minute wie #8605
+(04:31:16), #8669 (04:32:52) und #8781 (04:37:47)** — derselbe Versandlauf.
+
+**Label:** `Bot/Needs Approval` (Owner muss im Admin handeln; kein
+Eskalationsmerkmal erfüllt).
+
+---
+
+### Stand nach diesem Lauf
+
+- **Acht Kundenvorgänge am 29.09.** — **sieben eskaliert, einer Needs
+  Approval.**
+- **402 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt, keine
+  Bestellung verändert.** Kein Fall fiel unter Regel 4.
+- **🔴 Dreizehn offene Geldzusagen**, plus der Sonderfall #7048.
+- **⚠️ Sechsundsiebzig unabhängige Kundenaussagen zur Werbung.**
+- **🟥 Der Serienversand vom 28.09. hat erneut einen belegbaren Fehltreffer
+  produziert:** #8432 wurde mitgeteilt, sein Paket sei unterwegs — **drei Tage
+  nachdem es angekommen war.**
+- **🟥 Eine Bestellung ohne hinterlegte E-Mail-Adresse (#8592)** — der Kunde
+  konnte systembedingt nichts erhalten.
