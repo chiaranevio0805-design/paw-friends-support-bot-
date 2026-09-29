@@ -175,3 +175,101 @@ Rücksendeadresse gibt.
 
 (Der Lauf um 05:20 fragte `in:inbox newer_than:3h` ab und lieferte ein leeres
 Ergebnis; damit sind die Läufe 02:20 bis 05:20 alle leer.)
+
+---
+
+## Lauf 06:20 UTC
+
+### 🟩 ZUERST, weil es alles andere betrifft: die Shopify-Verbindung ist wieder auf Paw-Friends.uk
+
+**Seit gestern 06:20 UTC zeigte die Shopify-Verbindung auf einen fremden Shop
+("Paw-Besties.com", `czkb6p-ju.myshopify.com`, null Bestellungen,
+Kinderkissen). In diesem Lauf antwortet sie wieder korrekt:**
+
+| Abfrage | Ergebnis |
+|---|---|
+| `shop { name myshopifyDomain }` | **"Paw-Friends.uk", `fiqb08-8n.myshopify.com`** |
+| `orders(query:"name:7324")` | **vollständiger Datensatz** |
+
+**Wann genau sie zurückgestellt wurde, ist von hier nicht feststellbar** — der
+letzte leere Befund war gestern, die Läufe seither hatten keine Bestellung
+abzufragen. **`switch-shop` wurde zu keinem Zeitpunkt aufgerufen.**
+
+**Folge:** die Einschränkung „Entwürfe enthalten keine Bestelldaten" gilt ab
+sofort nicht mehr. **Sie gilt weiterhin für die Entwürfe, die zwischen 28.09.
+06:20 und jetzt geschrieben wurden** — dort fehlen die Daten bewusst und sie
+werden nicht nachträglich eingefügt. **Betroffen sind unter anderem #7626,
+`hud@hildebrandt.com.au`, Barbara Johnson und #8372.** **#8372 ist damit
+jetzt bezifferbar und sollte vor der Auszahlung im Admin gegengeprüft
+werden.**
+
+---
+
+### #7324 — Kelly (`kellydstudio@gmail.com`) — Erstkontakt
+
+**Eingang:** 29.09., 06:08 UTC. Betreff `4 min`. **Ein Foto im Anhang.**
+
+> *"Hi. Within 4 min this happened. These are not as advertised. They are in
+> fact very weak and unsafe. Please refund. My order number is 7324"*
+
+**Suche nach älteren Nachrichten derselben Absenderin: keine.** Erstkontakt.
+
+**Bestelldatensatz (jetzt wieder abrufbar):**
+
+| Feld | Wert |
+|---|---|
+| Bestellung | **#7324**, 23.08.2026 04:39 UTC |
+| Betrag | **106,66 AUD**, `PAID` |
+| Erstattet bisher | **0,00 AUD**, `refunds` **leer** |
+| Versand | **02.09.2026 10:59 UTC — zehn Tage nach Bestellung** |
+| Tracking | `VR959018584YP` (Yanwen) — **kein Zustellnachweis** |
+| Status | `PARTIALLY_FULFILLED`, `cancelledAt: null` |
+| Positionen | **4 × Plushies** (frog, monkey, fox, pig), 1 × Fur Wonder Brush, **1 × E-Book — `unfulfilledQuantity: 1`** |
+| Lieferadresse | **Beverley, Western Australia** |
+
+**Zwei Eskalationsauslöser gleichzeitig: bestrittene Werbeaussage („not as
+advertised") und eine Sicherheitsmeldung („very weak and unsafe").**
+
+**Was im Entwurf steht und was bewusst nicht:**
+
+- **Keine Aussage zur Sicherheit des Produkts, in keine Richtung.** Die
+  Meldung geht **als Sicherheitsmeldung** an den Owner, getrennt von der
+  Erstattungsfrage — sie wird weitergegeben, nicht bewertet.
+- **Zur Werbung nur das Nachprüfbare:** der Titel *"Plushies – Designed for
+  Furry Friends Who Destroy Everything"* ist unsere eigene Formulierung; die
+  Produkttexte nennen *"rope-reinforced construction"* und *"anti-tear design
+  built for strong chewers"*; **„indestructible" steht in keinem der zwölf
+  Texte.** **Keine Rekonstruktion der Anzeige, die sie gesehen hat.**
+- **Keine Garantieentscheidung in irgendeine Richtung, keine Frist genannt.**
+- **Zehn Tage bis zum Versand offen als unser Versäumnis benannt.**
+- **Die nicht gelieferte E-Book-Position ungefragt offengelegt.** Sie hat
+  nicht danach gefragt.
+- **Gesamtbetrag genannt, ausdrücklich nicht auf Einzelposten
+  heruntergerechnet** — die Listenpreise der Positionen summieren sich auf
+  **353,00 AUD** gegen **106,66 AUD** tatsächlich gezahlt (Kaching-Bundle).
+- **Keine Kauschaden-Vorlage.** Sie schreibt nicht, dass die Ware benutzt war;
+  es wird ihr nicht unterstellt.
+- **Foto nicht geöffnet, nichts weiter angefordert.**
+- **Offen gesagt, dass es keine Rücksendeadresse gibt**, mit der ausdrücklichen
+  Bitte, nichts zu verschicken.
+- **Der eigene Abschnitt „Australia – Consumer Guarantees" nur benannt, nicht
+  ausgelegt.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Drei Kundenvorgänge am 29.09.**
+- **397 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall
+  fiel unter Regel 4.
+- **🟩 Shopify wieder korrekt verbunden.**
+- **⚠️ Vierundsiebzig unabhängige Kundenaussagen zur Werbung** (73 → 74).
+- **🇦🇺 Fünfter australischer Fall** — #6893, #8228, #8431,
+  `hud@hildebrandt.com.au`, **#7324**.
+- **📘 Zwölfte Bestellung mit nicht gelieferter E-Book-Position.**
+- **🟥 Erste ausdrückliche Sicherheitsmeldung seit Beginn dieser Logs, die
+  eine Kundin selbst so formuliert.** Sie gehört heute auf den Tisch des
+  Owners.

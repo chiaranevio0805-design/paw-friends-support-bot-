@@ -20239,6 +20239,109 @@ Angebot.** **Sie wird mit „Kerri" angesprochen** — die Abweichung zwischen
 Kontoname und Unterschrift wird ihr gegenüber nicht thematisiert. Kein
 Eskalationsmarker im Text.
 
+## #7324 — Kelly (`kellydstudio@gmail.com`) — **Erstkontakt, Werbung bestritten UND Sicherheitsmeldung** · 29.09.
+
+**Betreff:** `Re: 4 min`
+
+> Dear Kelly,
+>
+> Thank you for writing, and for telling us plainly what happened.
+>
+> **You have asked for a refund. I cannot approve one from this desk, and I
+> am not going to refuse you either.** That decision belongs to the shop
+> owner. **Your request goes to him today, in your own words and unedited.**
+> I am not going to give you a date, because I have no way of confirming one
+> from here and I would rather say that than send you a reassurance I cannot
+> stand behind.
+>
+> **You wrote that they are "very weak and unsafe".** **I am passing that on
+> exactly as you wrote it, and I want to be straight with you about one
+> thing: I am not going to tell you that they are safe, and I am not going to
+> tell you that they are not.** **I am not in a position to make that
+> judgement, and a support desk that answers a safety report with a
+> reassurance it cannot back up is worse than one that says nothing.** **It
+> goes to the owner today as a safety report, marked as such, and not folded
+> into the refund question.**
+>
+> **On "not as advertised" — here is what is checkable, and what is not.**
+> **I cannot see the page or the advertisement as it was shown to you**, so I
+> am not going to tell you what it said, and I am certainly not going to
+> suggest you misread it. **What I can check, I have:** the product you
+> bought is listed under our own title, **"Plushies – Designed for Furry
+> Friends Who Destroy Everything"** — that is our wording, not yours. **I
+> have read all twelve of our current product descriptions.** The Plushies
+> text describes **"rope-reinforced construction"** and an **"anti-tear
+> design built for strong chewers"**. **The word "indestructible" does not
+> appear in any of the twelve.** **Whether what you were shown matched what
+> arrived is the owner's question to answer, not mine, and your wording
+> reaches him unchanged.**
+>
+> **What I am not going to do is tell you our guarantee covers this, or tell
+> you it does not.** **That is his call and not mine**, and I am not going to
+> quote you a deadline as though the answer were already settled.
+>
+> **Two things from your order record that you are entitled to know, whatever
+> he decides.**
+>
+> **First: you ordered on 23 August and the parcel was not despatched until
+> 2 September — ten days.** That delay is ours and I am not going to explain
+> it away. **There is a tracking number on the order, but a tracking number
+> is not proof that anything reached you, and I am not going to treat it as
+> one.**
+>
+> **Second: your order includes an e-book, "Why Your Dog Destroys Every Toy
+> (And How to Finally Stop It)", and the record shows it as still not
+> delivered.** **You paid for it as part of the bundle and it has not been
+> sent.** **You did not ask about it — I am telling you because you should
+> not have to discover it yourself.**
+>
+> **Nothing has been refunded on this order to date.** **The total you paid
+> is AUD 106.66.** **I am not going to break that down per item**: the
+> individual prices shown against the lines do not add up to what you
+> actually paid, because it was sold as a bundle, and any per-toy figure I
+> gave you would be a guess dressed up as arithmetic.
+>
+> **You attached a photograph. I have not opened it, and I am not asking you
+> for anything further.** **Nothing here depends on you proving what
+> happened.**
+>
+> **On sending anything back: please do not post anything yet.** **There is
+> no returns address I can give you** — not one I am withholding, one that
+> does not exist on our side at the moment. **If anybody sends you one in
+> writing, that is different. Until then, keep the items where they are**;
+> nothing you decide about them affects the refund question.
+>
+> **One more thing, because you are in Western Australia.** **Our own shop
+> policy carries a section headed "Australia – Consumer Guarantees".** **I am
+> pointing you to it so you can read it yourself — I am not interpreting it
+> for you and I am not deriving any promise from it.** It is published on our
+> site with the rest of the policies.
+>
+> I am sorry this is the first reply and it does not yet contain a decision.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **unveränderte Weitergabe ihrer Erstattungsforderung
+und ihrer Sicherheitsmeldung an den Owner**, die **offene Nennung der zehn
+Tage bis zum Versand als unser Versäumnis**, die **ungefragte Offenlegung der
+nicht gelieferten E-Book-Position**, und die ehrliche Auskunft, dass es keinen
+Rückgabeweg gibt. **Keine Erstattung zugesagt, kein Termin — und keine
+Absage.** **Keine Aussage zur Sicherheit des Produkts, in keine Richtung** —
+die Meldung wird weitergegeben, nicht bewertet. **Nicht behauptet, die
+Garantie decke den Fall, und nicht behauptet, sie decke ihn nicht.** **Keine
+Frist genannt.** **Keine Rekonstruktion der Anzeige, die sie gesehen hat** —
+nur, was in den zwölf Produkttexten nachweislich steht und was nicht.
+**Keine Kauschaden-Vorlage und keine Behauptung, die Ware sei benutzt
+gewesen** — sie schreibt es nicht so, und es wird ihr nicht unterstellt.
+**Kein Prozentangebot.** **Der gezahlte Gesamtbetrag wird genannt, aber
+ausdrücklich nicht auf Einzelposten heruntergerechnet** (Kaching-Bundle).
+**Die Trackingnummer wird nicht als Zustellnachweis verwendet, und es wird
+nicht an den Frachtführer verwiesen.** **Das Foto nicht geöffnet und nichts
+weiter angefordert.** **Der AU-Abschnitt nur benannt, nicht ausgelegt.**
+**Nichts aus ihrem Hund gefolgert.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
