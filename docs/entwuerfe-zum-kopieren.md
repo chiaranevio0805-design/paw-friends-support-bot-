@@ -20746,6 +20746,179 @@ E-Mail-Abgleich, weil auf der Bestellung keine Adresse steht.** **Die
 hinterlegte Telefonnummer wird nicht benutzt und nicht erwähnt.** Kein
 Eskalationsmarker im Text.
 
+## #2095 — Pam Trafford (`trafford.pam@gmail.com`) — **braucht die Rücksendeadresse für ihr Bankverfahren; seit 13.07. offen** · 29.09.
+
+**Betreff:** `Re: Important Update Regarding Your Order`
+
+> Dear Ms Trafford,
+>
+> **You asked for a returns address, and you asked for it because your bank
+> has told you to send the remnants back to the merchant. I am going to
+> answer that directly, because you have waited long enough for a direct
+> answer.**
+>
+> **I do not have a returns address to give you. There is not one on our side
+> at the moment.** **That is not me withholding it from you, and it is not a
+> formality I can work around.** **Please do not post anything to a guessed
+> address** — if you send the items somewhere that is not a real returns
+> address, you may lose them and still be no further forward.
+>
+> **I understand exactly what that means for you, and I am not going to
+> pretend otherwise.** **Your bank has asked you for something we are
+> currently not able to provide.** **That is our problem, not yours.** **It
+> goes to the shop owner today, marked as the most urgent thing in your
+> file, in your own words.** **I am not going to give you a date, because I
+> have no way of confirming one from here, and I would rather say that than
+> send you another assurance.**
+>
+> **On "another assurance" — there is something I have to acknowledge.**
+> **On 17 July you were sent a reply saying a team would be in touch with you
+> very shortly.** **That was seventy-four days ago and nobody has been in
+> touch.** **I am not going to repeat that sentence to you in any form.** **I
+> am telling you what I can actually do — pass this on today — and nothing
+> beyond it.**
+>
+> **You also forwarded a message you sent on 9 September to a different
+> address of ours, with your bank copied in.** **I want to be accurate rather
+> than reassuring: that message was not in this mailbox until you forwarded
+> it today.** **What happened to the copy you sent to the other address is not
+> something I can see from here, and I am not going to speculate about it.**
+>
+> **From the order record, so that you have it in writing:**
+>
+> - **You ordered on 18 June and the parcel was despatched on 25 June.**
+> - **Nothing has been refunded on this order at any point.** Not part of it,
+>   not any of it. **The record shows no refund at all.**
+> - **Your order also included the e-book, and the record shows it as never
+>   delivered.** **You did not ask about that — I am telling you because you
+>   should not have to find it out yourself.**
+>
+> **I am not going to tell you whether the guarantee or the returns policy
+> covers your case, in either direction.** **That is the owner's decision and
+> not mine**, and I am not going to quote you a rule I am not in a position to
+> apply.
+>
+> **On your dispute with the bank: I am not going to give you any view on it,
+> and nothing here is meant to influence it.** **I am not asking you to pause
+> it, withdraw it, or wait for us.** **You asked us for an address; that is
+> the only part of it that belongs to me.**
+>
+> **You told us in July that one of the three was still in its packaging. I
+> am not going to assume what state it is in now, and I am not making
+> anything conditional on it.**
+>
+> **I am not going to make any claim about the toys in either direction, and
+> I am drawing no conclusion from your dog.**
+>
+> I am sorry it has taken this long, and I am sorry this reply still does not
+> contain the address you need.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **direkte, ehrliche Auskunft, dass es keine
+Rücksendeadresse gibt**, die **ausdrückliche Anerkennung, dass ihr am 17.07.
+eine Rückmeldung „very shortly" zugesagt wurde und seit vierundsiebzig Tagen
+nichts kam**, die **überprüfbare Auskunft, dass nichts erstattet wurde**, und
+die **ungefragte Offenlegung der nie gelieferten E-Book-Position.** **Keine
+Erstattung zugesagt, kein Termin — und keine Absage.** **Die
+„Resolutions-Team"-Zusage wird NICHT wiederholt und NICHT in anderer Form
+erneuert.** **Keine Aussage darüber, wer intern existiert oder nicht
+existiert** — nur, was ihr nachweislich geschrieben wurde. **Keine Bewertung
+ihres Bankverfahrens, in keine Richtung**, und **nichts daran geknüpft**;
+**es wird ihr nicht nahegelegt, es auszusetzen oder zurückzuziehen.** **Keine
+Nachricht an die Bank** — der Entwurf geht ausschließlich an sie. **Nicht
+behauptet, ihre Mail vom 09.09. sei bearbeitet oder nicht bearbeitet
+worden** — nur, dass sie bis heute nicht in diesem Postfach lag. **Nicht
+unterstellt, der dritte Artikel sei noch ungeöffnet.** **Nicht behauptet, die
+Garantie oder die Rückgaberichtlinie decke den Fall, und nicht behauptet, sie
+decke ihn nicht.** **Keine Frist genannt.** **Keine Kauschaden-Vorlage, kein
+Prozentangebot, keine Aussage zur Qualität.** **Ihre frühere dienstliche
+E-Mail-Adresse wird nicht benutzt und nicht erwähnt.** Kein Eskalationsmarker
+im Text.
+
+## #7699 — Lorraine Sale (`lorraine.sale1@hotmail.co.uk`) — **verlangt volle Erstattung, bestreitet erstmals die Werbung** · 29.09.
+
+**Betreff:** `Re: A shipment from order #7699 is on the way`
+
+> Dear Ms Sale,
+>
+> Thank you for writing. **You asked when your refund will be actioned, so I
+> will start there and I will not dress it up.**
+>
+> **No refund has been arranged, and I cannot arrange one from this desk.**
+> **I am also not going to refuse you.** That decision belongs to the shop
+> owner, **and your request goes to him today in your own words.** **I am not
+> going to give you a date, and I am not going to tell you it is being
+> processed** — I have no way of confirming either from here, and you have had
+> enough of that already.
+>
+> **Which brings me to something I should acknowledge.** **On 12 September you
+> wrote that if the items were not with you by 17 September you wanted a full
+> refund.** **The reply you got on 13 September told you the order was
+> "shipped and currently on the way" and said nothing about the date you had
+> set.** **Nobody came back to you about it before 17 September, or after
+> it.** **That was our failure, not an oversight on your part.**
+>
+> **On the word you used for the toys.** **I cannot see the page or the
+> advertising as it was shown to you, so I am not going to tell you what it
+> said, and I am certainly not going to suggest you misread it.** **What I can
+> check, I have:** I have read all twelve of our current product
+> descriptions, **and that word appears in none of them.** **That is a
+> statement about those twelve texts and nothing more — it is not a claim that
+> what you saw said something different.** **Your wording reaches the owner
+> unchanged, because he is the only one who can look at what was actually on
+> the page.**
+>
+> **You also wrote that the toys are not fit for purpose.** **I am passing
+> that on exactly as you put it, and I am not going to give you a view on it
+> in either direction** — that is not a judgement a support desk should be
+> making about your rights, and I am not going to pretend it is.
+>
+> **From the order record, so that you have it:** **you ordered on 25 August
+> and the parcel was not despatched until 3 September — nine days.** **And
+> nothing has been refunded on this order at any point.** **The total you paid
+> is £27.95.** **I am not going to split that between the two toys** — they
+> were sold at a bundle price, the individual prices on the record do not add
+> up to what you actually paid, and any per-toy figure I gave you would be a
+> guess dressed up as arithmetic.
+>
+> **You attached photographs. I have not opened them, and I am not asking you
+> for anything further.** **Nothing here depends on you proving what
+> happened.**
+>
+> **If you are thinking of sending the toys back, please do not post anything
+> yet.** **There is no returns address I can give you** — not one I am
+> withholding, one that does not exist on our side at the moment. **Nothing
+> about your request depends on returning them.**
+>
+> **I am not going to make any claim about the toys in either direction, and
+> I am drawing no conclusion from your dog.**
+>
+> I am sorry you had to write again to get a straight answer.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **klare Auskunft, dass keine Erstattung veranlasst
+ist**, die **offene Anerkennung, dass ihre selbstgesetzte Frist vom 17.09. nie
+beantwortet wurde**, die **Nennung der neun Tage bis zum Versand**, und die
+**überprüfbare Auskunft, dass nichts erstattet wurde**. **Keine Erstattung
+zugesagt, kein Termin — und keine Absage.** **Nicht behauptet, die Ware sei
+oder sei nicht „fit for purpose"** — keine rechtliche Bewertung in irgendeine
+Richtung. **Das von ihr benutzte Werbewort wird nicht wiederholt**; nur der
+Befund zu den zwölf Produkttexten, **ohne zu behaupten, die von ihr gesehene
+Seite habe etwas anderes gesagt.** **Keine Kauschaden-Vorlage, kein
+Prozentangebot, keine Aussage zur Qualität.** **Gesamtbetrag genannt,
+ausdrücklich nicht aufgeteilt.** **Ausdrückliche Warnung, nichts zu
+verschicken**, ohne die Rückgabe zur Bedingung zu machen. **Fotos nicht
+geöffnet, nichts weiter angefordert.** **Nichts aus ihrem Hund gefolgert.**
+**Nicht gedeutet, ob und wann die Ware ankam** — sie schreibt, es habe lange
+gedauert; das wird ihr nicht widersprochen und nicht ausgelegt. Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

@@ -672,3 +672,121 @@ Eskalationsmerkmal erfüllt).
 **Nichts Neues.** Die beiden Treffer der Abfrage sind die bereits im
 14:20-Lauf bearbeiteten Threads von #8432 und #8592; **keine neue Nachricht
 darin.** Keine Aktion.
+
+---
+
+## Lauf 17:20 UTC
+
+**Zwei neue Vorgänge, drei neue Nachrichten.** Für beide wurde vorab nach
+älteren Threads derselben Absender gesucht.
+
+### 🟥🟥 #2095 — Pam Trafford (`trafford.pam@gmail.com`), 29.09. 16:39 und 16:44 UTC
+
+> *„Order # 2095. **Please could you supply me with a returns address for the
+> plushies to be sent back and refunded**, as they are not as described and I
+> applied for refund well within the time allowed."*
+
+**Fünf Minuten später leitet sie eine Nachricht vom 09.09. weiter, die sie an
+`chiaranevio0805@gmail.com` und **in Kopie an ihre Bank** geschickt hatte:**
+
+> *„I would like a postal address to return these items… **They did not last
+> as advertised, and I am now asked by card disputes at Co-op bank (cc) to
+> return the remnants to the merchant.** Please advise at your earliest as
+> **this dispute has been on going several months.**"*
+
+**Der belegte Verlauf:**
+
+| Datum | Vorgang |
+|---|---|
+| **18.06.2026** | Bestellung **#2095**, **32,95 £**, 3 × Plushies (donkey, Little Bear, elephant) **+ E-Book** |
+| 25.06. | Versand |
+| 04.07. | Zustellung nach ihrer Angabe |
+| **13.07.** | Erstkontakt: zwei Artikel binnen zwei Tagen zerstört, **einer noch in der Verpackung** |
+| **15.07.** | *„As I have not had any response to my emails… I have now contacted my bank"* |
+| **17.07. (gesendet)** | Antwort, die ausdrücklich zusagte, ein Team werde sich **„very shortly"** melden — **im Protokoll vom 22.07. bereits festgehalten** |
+| 19.08. | *„As you escalated my case to URGENT… the Plushies advertisement was blatantly untrue"* |
+| **09.09.** | Mail an die andere Adresse, **Bank in Kopie** |
+| **29.09.** | diese beiden Nachrichten |
+
+**Bestelldatensatz:** `totalRefundedSet` **0,00 £**, `refunds` **leer**,
+`displayFulfillmentStatus` **PARTIALLY_FULFILLED** — **die E-Book-Position ist
+nie geliefert worden.**
+
+**🟥 Das ist der bisher konkreteste Schaden aus der fehlenden
+Rücksendeadresse:** **ihre Bank verlangt die Rücksendung an den Händler, und
+wir können ihr die Adresse nicht geben.** **Damit blockiert unsere Lücke ein
+laufendes Verfahren einer Kundin.** **Im Entwurf steht genau das, als unser
+Problem und nicht als ihres**, mit der ausdrücklichen Warnung, nichts an eine
+geratene Adresse zu schicken.
+
+**🟥 Seit dem 17.07. sind vierundsiebzig Tage vergangen, in denen die
+zugesagte Rückmeldung nicht kam.** **Im Entwurf wird das offen benannt und
+die Zusage ausdrücklich NICHT wiederholt** — auch nicht in anderer Form.
+**Es wird nichts darüber gesagt, wer intern existiert oder nicht existiert**,
+nur, was ihr nachweislich geschrieben wurde.
+
+**Weiter im Entwurf:** **keine Bewertung ihres Bankverfahrens, in keine
+Richtung**, und **keine Bitte, es auszusetzen oder zurückzuziehen**; **keine
+Nachricht an die Bank** — der Entwurf geht ausschließlich an sie; **nicht
+behauptet, ihre Mail vom 09.09. sei bearbeitet oder nicht bearbeitet
+worden**, nur, dass sie bis heute nicht in diesem Postfach lag; **die nie
+gelieferte E-Book-Position ungefragt offengelegt**; **nicht unterstellt, der
+dritte Artikel sei noch ungeöffnet.**
+
+**⚠️ Sie ist bereits im Juli als Werbeaussage gezählt worden. Die Zählung
+bleibt insoweit unverändert.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### ⛔ #7699 — Lorraine Sale (`lorraine.sale1@hotmail.co.uk`), 29.09. 17:02 UTC
+
+> *„**Please arrange a full refund** for these two toys that were purchased as
+> [Werbewort] toys. See photos attached. The toys took ages to arrive and are
+> **clearly not fit for purpose.** Please advise **when my refund will be
+> actioned.**"*
+
+**Fotos im Anhang — nicht geöffnet.**
+
+| Feld | Wert |
+|---|---|
+| Bestellung | **#7699**, 25.08.2026, **27,95 £**, `PAID` |
+| Positionen | 2 × Plushies (frog, Duck); Einzelpreise **29,95 + 29,95 £** gegen **27,95 £ gezahlt** |
+| Versand | **03.09.2026 07:44 — neun Tage nach der Bestellung** |
+| Erstattet | **0,00 £**, `refunds` **leer** |
+
+**🟥 Der belegte Fehler:** Am **12.09.** schrieb sie, wenn die Ware nicht bis
+zum **17.09.** da sei, wolle sie die volle Erstattung. **Die Antwort vom
+13.09. lautete, die Bestellung sei „shipped and currently on the way", und
+ging auf ihre Frist mit keinem Wort ein.** **Weder vor noch nach dem 17.09.
+kam jemand darauf zurück.** **Im Entwurf steht das offen als unser
+Versäumnis.**
+
+**Weiter im Entwurf:** **keine rechtliche Bewertung zu „not fit for
+purpose", in keine Richtung**; **das Werbewort nicht wiederholt**, nur der
+Befund zu den zwölf Produkttexten, **ohne zu behaupten, die von ihr gesehene
+Seite habe etwas anderes gesagt**; **keine Kauschaden-Vorlage, kein
+Prozentangebot**; **Gesamtbetrag genannt, ausdrücklich nicht aufgeteilt**;
+**Warnung, nichts zu verschicken**, ohne die Rückgabe zur Bedingung zu
+machen; **nicht gedeutet, ob und wann die Ware ankam.**
+
+**⚠️ Siebenundsiebzigste unabhängige Kundenaussage zur Werbung** (76 → 77).
+**Sie bestreitet die Werbung hier zum ersten Mal** — ihre früheren Kontakte
+betrafen Lieferzeit und Frist.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Zehn Kundenvorgänge am 29.09.** — **neun eskaliert, einer Needs
+  Approval.**
+- **404 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt, keine
+  Bestellung verändert.** Kein Fall fiel unter Regel 4.
+- **🔴 Dreizehn offene Geldzusagen**, plus der Sonderfall #7048.
+- **⚠️ Siebenundsiebzig unabhängige Kundenaussagen zur Werbung.**
+- **🟥 Die fehlende Rücksendeadresse blockiert jetzt nachweislich ein
+  laufendes Bankverfahren (#2095).** **Das gehört heute auf den Tisch des
+  Owners.**
+- **📘 Dreizehnte Bestellung mit nicht gelieferter E-Book-Position.**
