@@ -19327,7 +19327,8 @@ behauptet** — er hat sie nicht angerufen. **Keine Rücksendeadresse erfunden**
 mit Warnung vor einer Sendung. **Die Sendungsnummer nicht als Zustellbeleg
 benutzt.** Kein Eskalationsmarker im Text.
 
-## #4055 — Kimberley Shenton (`kim.shenton@me.com`, Bestellung auf `kim.ierston@googlemail.com`) — **60 % am 19.09. als „processed" bestätigt, `refunds` leer**
+## #4055 — Kimberley Shenton (`kim.shenton@me.com`, Bestellung auf `kim.ierston@googlemail.com`) — **60 % am 19.09. als „processed" bestätigt, `refunds` leer**  
+**⚠️ ERSETZT durch den Entwurf vom 29.09. — nicht zusätzlich senden.**
 
 **Betreff:** `Re: Refund request`
 
@@ -21006,6 +21007,73 @@ Richtung** und kein Widerspruch. **Anhang nicht geöffnet, nichts weiter
 angefordert.** **Warnung, nichts zu verschicken**, ohne die Rückgabe zur
 Bedingung zu machen. **Keine Aussage zur Qualität, in keine Richtung.**
 **Nichts aus ihrem Hund gefolgert.** Kein Eskalationsmarker im Text.
+
+## #4055 — Kimberley Shenton (`kim.shenton@me.com`) — **dritter Kontakt; der 28.09.-Entwurf wurde nie gesendet** · 29.09.
+
+**Betreff:** `Re: Refund request`
+
+> Dear Kimberley,
+>
+> **You asked for an update, so here is one, and it is not the one you were
+> hoping for.**
+>
+> **No refund has reached you because no refund has been made.** **I checked
+> the order record today: nothing has been refunded on it, at any point, in
+> any amount.** **That is the whole of the update, and I would rather give you
+> that plainly than explain around it.**
+>
+> **On 19 September you were told that your 60 per cent partial refund "has
+> been processed to your original payment method" and asked to allow a few
+> business days.** **That was ten days ago, and the record does not support
+> it.** **I am not going to repeat that sentence to you, and I am not going to
+> tell you it is with your bank or still on its way.** **I have no basis for
+> saying any of that, and you have already been told it once.**
+>
+> **You also wrote on 27 September and got no reply. I am not going to dress
+> that up either: a reply to you was written that day and it was never sent.
+> That is our failure, and it is the second time in this thread that you have
+> had to chase us.**
+>
+> **What I can actually do, and what I cannot.** **I cannot release the
+> payment from this desk — that is the shop owner's to do, and only his.**
+> **What I am doing is putting this in front of him today with the dates in
+> it: your acceptance on 17 September, the confirmation on 19 September, your
+> message on 27 September, and this one.**
+>
+> **I am not going to give you a date, and I am not going to make you a second
+> promise.** **One has already been made to you and not kept; a second one
+> from me would be worth less than nothing.** **If you have not heard anything
+> within a week, write again and say so — that is a reasonable thing to do,
+> not a nuisance.**
+>
+> **I am not quoting a figure back to you.** **The amount is the one in the
+> letter you accepted on 17 September, and I am not going to restate or
+> recalculate it in case I introduce an error into something already agreed.**
+>
+> **Nothing here is conditional on anything.** **You do not have to send
+> anything back, provide anything, or ask again before this moves.**
+>
+> I am sorry. You accepted an offer twelve days ago and you have had to ask
+> three times since.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **überprüfbare Auskunft, dass nichts erstattet
+wurde**, die **offene Anerkennung, dass die „processed"-Bestätigung vom
+19.09. vom Datensatz nicht gedeckt ist**, und die **offene Anerkennung, dass
+ihre Nachricht vom 27.09. unbeantwortet blieb, weil der Entwurf nie gesendet
+wurde.** **Keine Erstattung zugesagt, kein Termin, kein zweites
+Versprechen** — und ausdrücklich begründet, warum keines gemacht wird.
+**Die „processed"-Formulierung wird NICHT wiederholt**, und es wird **nicht
+behauptet, das Geld sei bei ihrer Bank oder unterwegs.** **Kein Betrag
+genannt und nichts nachgerechnet** — die Zahl steht im angenommenen Angebot.
+**Nichts an eine Rückgabe, einen Nachweis oder eine weitere Nachfrage
+geknüpft.** **Nicht behauptet, sie sei bereits geantwortet worden.** **Keine
+Aussage zur Qualität, in keine Richtung.** **Der 28.09.-Entwurf ist als
+ersetzt markiert und darf nicht zusätzlich gesendet werden.** Kein
+Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 

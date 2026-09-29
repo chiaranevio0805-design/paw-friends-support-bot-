@@ -899,3 +899,60 @@ deshalb nicht gezählt worden.
 - **🇦🇺 Sechs australische Fälle** — #6893, #8228, #8431,
   `hud@hildebrandt.com.au`, #7324, #7982.
 - **🟨 Die Google-Sicherheitswarnung vom 26.09. ist seit drei Tagen offen.**
+
+---
+
+## Lauf 20:20 UTC — **nach dem Abendreport eingegangen**
+
+### 🔴 #4055 — Kimberley Shenton (`kim.shenton@me.com`), 29.09. 20:08 UTC — **dritter Kontakt**
+
+> *„Hello, **Can I have an update please?**"*
+
+**Der belegte Verlauf, vollständig aus dem Thread:**
+
+| Datum | Vorgang |
+|---|---|
+| **17.09. 10:37:14 (gesendet)** | Angebot, überschrieben mit **60 %**, schließend mit *„the 50% partial refund"* |
+| **17.09. 10:37:25 (gesendet)** | **elf Sekunden später** korrigierte Fassung, durchgehend 60 % |
+| **17.09. 10:38:16** | **Annahme:** *„Just send the partial refund of 60% please. This is going on an unnecessary amount of time"* |
+| **19.09. 10:42:30 (gesendet)** | *„your 60% partial refund **has been processed to your original payment method**. Please allow a few business days"* |
+| **27.09. 12:16** | *„I've still received no refund"* |
+| **28.09.** | **Entwurf geschrieben — nie gesendet** |
+| **29.09. 20:08** | diese Nachricht |
+
+**Shopify heute geprüft:** `totalRefundedSet` **0,00 £**, `refunds` **leer**.
+**Es ist nie etwas erstattet worden.** **Zehn Tage seit der
+„processed"-Bestätigung, zwölf Tage seit ihrer Annahme.**
+
+**Kein neuer Fall, sondern ein zweiter unbeantworteter Kontakt in derselben
+Sache.** **Der Entwurf vom 28.09. ist als ersetzt markiert und darf nicht
+zusätzlich gesendet werden.**
+
+**Was im neuen Entwurf steht:**
+
+- **Die überprüfbare Auskunft, dass nichts erstattet wurde.**
+- **Die offene Feststellung, dass die „processed"-Bestätigung vom 19.09. vom
+  Datensatz nicht gedeckt ist** — **die Formulierung wird nicht wiederholt**,
+  und es wird **nicht behauptet, das Geld sei bei ihrer Bank oder unterwegs.**
+- **Die offene Anerkennung, dass ihre Nachricht vom 27.09. unbeantwortet
+  blieb, weil der Entwurf nie gesendet wurde.** **Ihr wird nicht suggeriert,
+  sie sei bereits beantwortet worden.**
+- **Kein zweites Versprechen und kein Termin** — ausdrücklich begründet.
+- **Kein Betrag genannt und nichts nachgerechnet.**
+- **Nichts an Rückgabe, Nachweis oder erneute Nachfrage geknüpft.**
+
+**Label:** `Bot/Escalated - Owner Attention` (Wiederholkontakt ohne Antwort,
+offene Geldzusage).
+
+---
+
+### Tagesabschluss 29.09. — fortgeschrieben
+
+- **Zwölf Kundenvorgänge**, davon **elf eskaliert**, **einer Needs Approval.**
+- **406 Entwürfe in der Datei, keiner in Gmail.** **Fünf davon sind als
+  ersetzt gekennzeichnet** (#8577, #7898, #8568, #7831, **#4055 vom 28.09.**).
+- **📤 Der neue #4055-Entwurf steht in keinem Abendreport** — er entstand
+  danach. **Volltext in `docs/entwuerfe-zum-kopieren.md`.**
+- **🔴 #4055 ist damit der am längsten offene bezifferte Fall mit
+  Wiederholkontakt:** Annahme 17.09., „processed" 19.09., Nachfragen 27.09.
+  und 29.09., **erstattet 0,00 £.**
