@@ -20181,6 +20181,64 @@ danach wird gefragt. **Nichts aus Rasse oder Größe ihres Hundes gefolgert.**
 und es wird nichts behauptet, was nicht geprüft werden konnte. **Keine
 Kauschaden-Vorlage, kein Prozentangebot.** Kein Eskalationsmarker im Text.
 
+## #8372 — Kerri (`wollenzienk@hotmail.com`) — **hat das 39 %-Angebot ANGENOMMEN** · 29.09.
+
+**Betreff:** `Re: Paw friends plushies`
+
+> Dear Kerri,
+>
+> **Your acceptance is recorded and has gone to the shop owner today, in your
+> own words.** **He is the only person who can release the payment; I cannot
+> do it from this desk.**
+>
+> **So that you are not left guessing: I am not going to tell you it has been
+> processed, and I am not going to give you a date.** **I have no way of
+> confirming either from here, and I would rather say that plainly than send
+> you a reassurance I cannot stand behind.** **If you have not seen anything
+> within a week, write again and say so — that is a reasonable thing to do,
+> not a nuisance.**
+>
+> **There is something else I want to say, because you should not have to let
+> it go.** **You told us on 17 September that the toys were untouched and in
+> their original packaging. You said it again on 19 September, again on
+> 22 September, and again on 24 September in capital letters.** **Each of
+> those times you were sent a paragraph about a toy damaged by a dog.** **That
+> was wrong every time, and it was our error, not a misunderstanding on your
+> side.** **The reply you received on 28 September is the first one that read
+> what you actually wrote.**
+>
+> **On the items themselves:** the offer you have accepted lets you keep them.
+> **If you would still rather return them, say so** — but I have to be honest
+> that **there is no returns address I can give you**, so please do not post
+> anything until somebody sends you one in writing. **That is not a condition
+> of the refund and nothing here depends on it.**
+>
+> **I am not quoting a figure back to you** — the amount you accepted is the
+> one in the offer you were sent, and I am not going to restate or recalculate
+> it in case I introduce an error into something you have already agreed.
+>
+> I am sorry it took four replies to get to one that made sense.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Bestätigung, dass ihre Annahme aufgenommen und
+weitergegeben ist**, die **ausdrückliche Weigerung, die Zahlung als erfolgt
+oder terminiert darzustellen**, die **offene Anerkennung, dass ihre
+ungeöffnete Ware viermal mit einer Kauschaden-Absage beantwortet wurde**, und
+die ehrliche Auskunft, dass es keinen Rückgabeweg gibt. **Keine Erstattung
+zugesagt, kein Termin, kein Betrag genannt** — **ausdrücklich keine Zahl
+wiederholt oder nachgerechnet**, damit in eine bereits angenommene
+Vereinbarung kein Fehler hineingetragen wird. **Nicht behauptet, das Geld sei
+„processed", unterwegs oder bei der Bank.** **Ihre Angabe „$96.89" wird nicht
+gegen den Bestellsatz geprüft** — er ist derzeit nicht abrufbar. **Nichts an
+die Rückgabe geknüpft.** **Keine Aussage zur Qualität, in keine Richtung.**
+**Nichts aus Alter oder Rasse ihres Hundes gefolgert.** **Kein zweites
+Angebot.** **Sie wird mit „Kerri" angesprochen** — die Abweichung zwischen
+Kontoname und Unterschrift wird ihr gegenüber nicht thematisiert. Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

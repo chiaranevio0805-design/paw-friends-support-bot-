@@ -96,3 +96,73 @@ bestrittene Werbeaussage).
 - **⚠️ Dreiundsiebzig unabhängige Kundenaussagen zur Werbung.**
 - **🟥 Sie ist die nächste Person, deren Erstkontakt tagelang unbeantwortet
   blieb** — nach #7831 (fünf Tage), #8456 (fünf Tage) und #8142.
+
+---
+
+## Lauf 01:20 UTC
+
+**Posteingang und Postausgang geprüft.** Eine neue Nachricht — **und sie
+begründet eine neue, angenommene Geldzusage.**
+
+### 🔴⛔ #8372 — Kerri (`wollenzienk@hotmail.com`), 29.09. 01:11 UTC — **nimmt das 39 %-Angebot an**
+
+> *„**Yes, let's go ahead with the 39% partial refund.** My order was for
+> $96.89. Thank you, Kerri"*
+
+**Der vollständige Verlauf, aus dem Thread belegt:**
+
+| Datum | Vorgang |
+|---|---|
+| **17.09.** | Erstkontakt: *„I would like a full refund. Please inform me to whom I must return the contents **to in the original packaging**."* |
+| **19.09.** | **Kauschaden-Absage** |
+| 19.09. | sie: *„I have all items, plushies **untouched and in original packaging**. **I did not give them to my dog**…"* |
+| **22.09.** | **Kauschaden-Absage, zweite** |
+| 22.09. | sie: *„**I Did NOT use the product.** I would like a full refund."* |
+| **24.09.** | **Kauschaden-Absage, dritte** (erster Serienversand) |
+| 24.09. | sie: *„**I DID NOT USE the product. It is NOT DAMAGED.**"* |
+| **28.09. 11:25:34** | **39 %-Angebot** (zweiter Serienversand) — **die erste Antwort, die ihre Angabe aufnimmt:** *„We understand that the items are unused and remain in their original packaging."* |
+| **29.09. 01:11** | **Annahme** |
+
+**🔴 Damit besteht eine neue, angenommene Geldzusage.** **Sie ist nicht von
+hier ausgesprochen worden** — das Angebot stammt aus dem Serienversand vom
+28.09. **Aber sie ist angenommen, und damit steht sie offen.**
+
+**⚠️ Im Entwurf wird kein Betrag genannt und keiner nachgerechnet.** **Ihre
+Angabe „$96.89" wird nicht gegen den Bestellsatz geprüft** — er ist derzeit
+nicht abrufbar. **Es wird ausdrücklich nichts wiederholt oder umgerechnet,
+damit in eine bereits angenommene Vereinbarung kein Fehler hineingetragen
+wird.**
+
+**⚠️ Nicht behauptet, die Zahlung sei „processed", unterwegs oder
+terminiert.** **Stattdessen wird ihr gesagt, dass von hier weder ausgeführt
+noch bestätigt werden kann — und dass sie sich nach einer Woche wieder melden
+soll, wenn nichts kommt.** **Das ist bewusst so formuliert, weil in elf
+anderen Vorgängen genau solche Bestätigungen gegeben wurden, denen keine
+Zahlung folgte.**
+
+**⚠️ Ihre ungeöffnete Ware ist VIERMAL mit einer Kauschaden-Absage
+beantwortet worden.** **Das wird im Entwurf offen als unser Fehler benannt.**
+**Damit sind es inzwischen vier Personen, bei denen das belegt ist:** #8142,
+#7479, #8456 und **#8372 — und #8372 mit Abstand am häufigsten.**
+
+**Kein zweites Angebot.** **Keine Aussage zur Qualität, in keine Richtung.**
+**Nichts aus Alter oder Rasse ihres Hundes gefolgert.** **Nichts an eine
+mögliche Rückgabe geknüpft**, und offen gesagt, dass es keine
+Rücksendeadresse gibt.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Zwei Kundenvorgänge am 29.09.**
+- **396 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall fiel
+  unter Regel 4.
+- **🔴 NEU: eine angenommene Geldzusage (#8372, 39 %).** **Damit sind es
+  zwölf offene Geldzusagen** — elf alte und diese neue. **Der Betrag wird von
+  hier nicht beziffert**, weil der Bestelldatensatz nicht abrufbar ist.
+- **🟥 Vier Personen mit ungeöffneter Ware haben Kauschaden-Absagen bekommen**
+  — #8142, #7479, #8456, **#8372 (viermal)**.
+- **⚠️ Dreiundsiebzig unabhängige Kundenaussagen zur Werbung**, unverändert.
