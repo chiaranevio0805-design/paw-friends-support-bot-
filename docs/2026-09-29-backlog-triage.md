@@ -456,3 +456,75 @@ Owners.**
   Sonderfall #7048.**
 - **🟥 Fünfte Person mit ungeöffneter Ware, an der die Vorlage vorbeigeht.**
 - **⚠️ Vierundsiebzig unabhängige Kundenaussagen zur Werbung**, unverändert.
+
+---
+
+## Lauf 13:20 UTC
+
+### ⛔ #8307 — Yvette Martin (`yvettemears@yahoo.co.uk`), 29.09. 12:53 UTC — Erstkontakt
+
+**Pflichtsuche über Adresse, Namen und Bestellnummer: ein einziger Thread,
+Erstkontakt.**
+
+> *„Thank you for my order which I received yesterday (Monday 28th
+> September). However… **my dog managed to destroy one of these within
+> hours.** **I appreciate your site says that I can return unopened items for
+> a full refund**, but due to the destruction of an indestructible item **I
+> will only be able to return one unopened item.** **Would it be possible to
+> get a refund on the entire order?**"*
+
+**Ein Foto im Anhang — nicht geöffnet.**
+
+**Bestelldatensatz:**
+
+| Feld | Wert |
+|---|---|
+| Bestellung | **#8307**, 31.08.2026 08:09 UTC |
+| Betrag | **27,95 £**, `PAID` |
+| Erstattet bisher | **0,00 £**, `refunds` **leer** |
+| Versand | **08.09.2026 07:48 UTC — acht Tage nach der Bestellung** |
+| Zustellung | **28.09. nach ihrer eigenen Angabe — zwanzig Tage nach dem Versand, achtundzwanzig nach der Bestellung** |
+| Tracking | `UL493236577YP` |
+| Positionen | 2 × Plushies (hippo, pig), **BUY-2-Bündel**: Einzelpreise **29,95 £ + 29,95 £** gegen **27,95 £ gezahlt** |
+| Adresse | Yeovil, Vereinigtes Königreich |
+
+**Eskalationsauslöser: bestrittene Werbeaussage** — sie benutzt das
+Werbewort selbst und beruft sich zugleich auf eine Aussage der Website zur
+Rückgabe ungeöffneter Ware.
+
+**Was im Entwurf steht und was bewusst nicht:**
+
+- **Ihr wird ausdrücklich gesagt, sie soll nichts verschicken**, weil es keine
+  Rücksendeadresse gibt — **bevor sie auf ihren eigenen Plan hin ein Paket
+  aufgibt.** **Die Rückgabe wird an nichts geknüpft.**
+- **Nicht behauptet, die Rückgaberichtlinie decke den Fall, und nicht
+  behauptet, sie decke ihn nicht.** **Keine Frist genannt.**
+- **Das Werbewort wird nicht wiederholt und nicht übernommen** — nur der
+  überprüfbare Befund zu den zwölf Produkttexten, **ausdrücklich ohne zu
+  behaupten, die von ihr gesehene Seite habe etwas anderes gesagt.**
+- **Keine Kauschaden-Vorlage, kein Prozentangebot, keine Aussage zur
+  Qualität.**
+- **Acht Tage bis zum Versand und zwanzig bis zur Zustellung offen benannt.**
+- **Gesamtbetrag genannt, ausdrücklich nicht auf die beiden Artikel
+  aufgeteilt.**
+- **Sechste Person mit ungeöffneter Ware** — nach #8142, #7479, #8456, #8372
+  und #7048. **Bei ihr ist bisher nichts schiefgegangen; sie steht hier, weil
+  sie ebenfalls einen ungeöffneten Artikel hat und es keinen Rückgabeweg
+  gibt.**
+- **⚠️ Fünfundsiebzigste unabhängige Kundenaussage zur Werbung** (74 → 75);
+  sie kommt im Protokoll bisher nicht vor.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+---
+
+### Stand nach diesem Lauf
+
+- **Fünf Kundenvorgänge am 29.09.**
+- **399 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Keine Erstattung ausgeführt, keine Stornierung ausgeführt.** Kein Fall
+  fiel unter Regel 4.
+- **🔴 Dreizehn offene Geldzusagen**, plus der Sonderfall #7048.
+- **⚠️ Fünfundsiebzig unabhängige Kundenaussagen zur Werbung.**
+- **🟥 Sechs Personen halten ungeöffnete Ware, für die es keinen Rückgabeweg
+  gibt.**

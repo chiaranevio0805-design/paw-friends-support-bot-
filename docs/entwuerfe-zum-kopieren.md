@@ -20441,6 +20441,89 @@ wird nicht benutzt und nicht erwähnt.** **Nicht behauptet, sie habe das
 Angebot angenommen, und nicht behauptet, sie habe es abgelehnt.** Kein
 Eskalationsmarker im Text.
 
+## #8307 — Yvette Martin (`yvettemears@yahoo.co.uk`) — **Erstkontakt, ein Artikel ungeöffnet, beruft sich auf die Rückgaberichtlinie** · 29.09.
+
+**Betreff:** `Re: Order #8307 confirmed`
+
+> Dear Ms Martin,
+>
+> Thank you for writing, and for putting the question as clearly as you did.
+>
+> **You asked whether you can have a refund on the whole order. I cannot
+> approve one from this desk, and I am not going to refuse you either.** That
+> decision belongs to the shop owner. **Your question goes to him today in
+> your own words, including the fact that one of the two is still unopened.**
+> **I am not going to give you a date, because I cannot confirm one from
+> here.**
+>
+> **There is something I have to tell you before you act on your own plan,
+> and I would rather you heard it from us than found out by posting a
+> parcel.** **You wrote that you could return the unopened item. Please do
+> not send anything yet.** **There is no returns address I can give you** —
+> not one I am withholding, one that does not exist on our side at the
+> moment. **If somebody sends you one in writing, that is different. Until
+> then, please keep both items where they are.** **Nothing about your request
+> depends on you returning anything, and I am not making the return a
+> condition of anything.**
+>
+> **On the wording you quoted.** **I cannot see the page as it was shown to
+> you, so I am not going to tell you what it said, and I am certainly not
+> going to suggest you misread it.** **What I can check, I have:** I have read
+> all twelve of our current product descriptions. **The word you used in your
+> message appears in none of them.** **That is a statement about those twelve
+> texts and nothing more — it is not a claim that what you saw said something
+> different.** **Your wording goes to the owner unchanged, because he is the
+> only one who can look at what was actually on the page.**
+>
+> **What I am not going to do is tell you the policy covers this, or tell you
+> it does not.** **That is his decision and not mine**, and I am not going to
+> quote you a deadline as though the answer were already settled.
+>
+> **Two things from the order record that you are entitled to know, whatever
+> he decides.**
+>
+> **You ordered on 31 August. The parcel was not despatched until 8 September,
+> and by your own account it reached you on 28 September.** **That is a long
+> time and I am not going to explain it away.**
+>
+> **Nothing has been refunded on this order to date.** **The total you paid is
+> £27.95.** **I am not going to split that between the two toys** — they were
+> sold together at a bundle price, the individual prices shown on the
+> confirmation do not add up to what you actually paid, and any per-item
+> figure I gave you would be a guess dressed up as arithmetic.
+>
+> **You attached a photograph. I have not opened it, and I am not asking you
+> for anything further.** **Nothing here depends on you proving what
+> happened.**
+>
+> **I am not going to make any claim about the toys in either direction**, and
+> **I am drawing no conclusion from your dog.**
+>
+> I am sorry this first reply does not yet contain a decision.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **unveränderte Weitergabe ihrer Frage an den Owner**,
+die **ausdrückliche Warnung, nichts zu verschicken, weil es keine
+Rücksendeadresse gibt**, die **offene Nennung der Versand- und
+Zustellzeiten**, und die **überprüfbare Auskunft, dass auf diese Bestellung
+nichts erstattet wurde**. **Keine Erstattung zugesagt, kein Termin — und keine
+Absage.** **Nicht behauptet, die Rückgaberichtlinie decke den Fall, und nicht
+behauptet, sie decke ihn nicht.** **Keine Frist genannt.** **Das von ihr
+benutzte Werbewort wird nicht wiederholt und nicht übernommen**; es wird nur
+gesagt, dass es in keinem der zwölf Produkttexte steht, **ausdrücklich ohne zu
+behaupten, die von ihr gesehene Seite habe etwas anderes gesagt**. **Keine
+Kauschaden-Vorlage und kein Prozentangebot.** **Der gezahlte Gesamtbetrag wird
+genannt, aber ausdrücklich nicht auf die beiden Artikel aufgeteilt**
+(BUY-2-Bündelpreis; Einzelpreise 29,95 £ + 29,95 £ gegen 27,95 £ gezahlt).
+**Die Rückgabe wird an nichts geknüpft.** **Foto nicht geöffnet und nichts
+weiter angefordert.** **Keine Aussage zur Qualität, in keine Richtung, und
+keine zur Größe.** **Nichts aus ihrem Hund gefolgert.** **Sie wird mit dem
+Namen aus ihrer eigenen Unterschrift angesprochen.** Kein Eskalationsmarker im
+Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
