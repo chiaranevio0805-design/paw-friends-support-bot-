@@ -860,3 +860,42 @@ deshalb nicht gezählt worden.
 - **🟥 Der Serienversand vom 28.09. hat heute den vierten belegbaren
   Folgefall produziert** — nach #8142, #7831, #8456 und #8432 jetzt **#7608**.
 - **🟦 Erster Fall eines gerügten, nicht gelieferten Werbegeschenks.**
+
+---
+
+## Lauf 19:20 UTC
+
+**Posteingang geprüft: nichts Neues.** Keine Aktion.
+
+**Abendreport erstellt und gepostet:** `docs/2026-09-29-abendreport.md`,
+**elf Entwürfe im Volltext**, Erstattungsliste **heute erstmals seit dem
+28.09. wieder in Shopify gegengeprüft**. Commit `600713c`.
+
+### Tagesabschluss 29.09.
+
+- **Elf Kundenvorgänge**, davon **zehn eskaliert**, **einer Needs Approval**
+  (#8592).
+- **405 Entwürfe in der Datei, keiner in Gmail.** **Vier davon sind als
+  ersetzt gekennzeichnet** (#8577, #7898, #8568, #7831).
+- **Keine Erstattung, keine Stornierung, keine Bestell- oder Adressänderung
+  ausgeführt.** Kein Fall fiel unter Regel 4.
+- **🟩 Shopify zeigt seit heute früh wieder auf Paw-Friends.uk.** Die
+  Einschränkung „keine Bestelldaten in Entwürfen" ist aufgehoben; die während
+  der Störung geschriebenen Entwürfe wurden **nicht** nachträglich ergänzt.
+- **🟥 Die drei offenen Stornofenster sind geschlossen — durch Versand am
+  28.09. zwischen 04:31 und 04:38, nicht durch eine Antwort.** **#8669 war am
+  22.09. mit „already been shipped" abgelehnt worden; der Versandbeleg datiert
+  sechs Tage später.**
+- **🟥 Der Serienversand vom 28.09. hat heute fünf belegte Folgefälle
+  produziert:** #8142, #7831, #8456, **#8432**, **#7608**.
+- **🟥 Die fehlende Rücksendeadresse blockiert nachweislich ein laufendes
+  Bankverfahren (#2095).**
+- **🟥 Eine Bestellung ohne hinterlegte E-Mail-Adresse (#8592)** — der Kunde
+  konnte systembedingt nichts erhalten.
+- **🟦 Erster Fall eines gerügten, nicht gelieferten Werbegeschenks (#7608).**
+- **🔴 Dreizehn offene Geldzusagen** (Zahl heute korrigiert), plus der
+  Sonderfall **#7048**.
+- **⚠️ Achtundsiebzig unabhängige Kundenaussagen zur Werbung.**
+- **🇦🇺 Sechs australische Fälle** — #6893, #8228, #8431,
+  `hud@hildebrandt.com.au`, #7324, #7982.
+- **🟨 Die Google-Sicherheitswarnung vom 26.09. ist seit drei Tagen offen.**
