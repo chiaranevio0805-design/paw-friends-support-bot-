@@ -460,3 +460,59 @@ konnte.
 - **🇦🇺 Acht australische Fälle** — #6893, #8228, #8431, **#7091**, #7324,
   #7982, #8126 (und `hud@` ist jetzt als #7091 identifiziert, also keine
   Doppelzählung).
+
+---
+
+## Lauf 10:20 UTC
+
+### ⛔🟥 #7401 — Mick (`laceymick31@gmail.com`), 30.09. 10:06 UTC — **fragt nach Ungleichbehandlung**
+
+> *„I have been talking to a friend who bought one of your toys, and it was
+> destroyed quickly, **you sent him a new toy free of charge, can you explain
+> why you do that for one and not for me?**"*
+
+**Vorgeschichte:** Erstkontakt **25.09. 10:45** (*„Very disappointed with this
+'durable' dog toy… advertised as durable"*, mit Foto). **Antwort erst am
+29.09. um 20:57:13 im Serienversand** — immerhin mit „Dear Mick" adressiert,
+nicht „Dear Customer".
+
+| Feld | Wert |
+|---|---|
+| Bestellung | **#7401**, 23.08.2026, **19,95 £**, ein Plushie (elephant) |
+| Versand | **03.09. — elf Tage** |
+| Erstattet | **0,00 £**, `refunds` **leer** |
+| Adresse | Telford, Vereinigtes Königreich |
+
+**🟥 Der heikle Punkt und wie er behandelt wird:** **zum Vorgang seines
+Bekannten wird NICHTS bestätigt, NICHTS bestritten und NICHTS beschrieben** —
+**nicht einmal, ob diese Person Kundin oder Kunde ist.** **Es wird auch nicht
+behauptet, es habe keine Ungleichbehandlung gegeben, und nicht behauptet, es
+habe eine gegeben.**
+
+**Die Begründung wird ihm offen genannt und nicht als Ausflucht stehen
+gelassen:** dieselbe Regel, die verhindert, dass jemand Auskunft über *seine*
+Bestellung bekommt. **Seine Frage — „why for one and not for me" — geht
+wortgetreu an den Owner, weil nur er sie beantworten kann.**
+
+**Weiter im Entwurf:** **kein Ersatz zugesagt** (Begründung: das seit Juli
+offene Versprechen); **keine Erstattung zugesagt und keine Absage**; **keine
+Garantieentscheidung**; **die vier Tage bis zur Antwort und die elf Tage bis
+zum Versand offen benannt**; **Foto nicht geöffnet**; **Warnung, nichts zu
+verschicken.**
+
+**⚠️ #7401 ist im Protokoll bereits als sechster vom Zweitpostfach-Problem
+betroffener Kunde vermerkt** (Tagesreport 27.09.). **Die Werbezählung bleibt
+bei zweiundachtzig** — er ist am 25.09. bereits erfasst worden.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### Stand nach diesem Lauf
+
+- **Acht Kundenvorgänge am 30.09.**
+- **422 Entwürfe in der Datei**, **keiner in Gmail.** **Neun als ersetzt
+  markiert.**
+- **Keine Erstattung, keine Stornierung ausgeführt.**
+- **🟥 Vierzehnter belegter Folgefall des Serienversands vom 29.09.**
+- **🟦 Erster Fall, in dem ein Kunde eine Ungleichbehandlung gegenüber einem
+  anderen Kunden geltend macht.** **Dazu wurde nichts bestätigt und nichts
+  bestritten.**

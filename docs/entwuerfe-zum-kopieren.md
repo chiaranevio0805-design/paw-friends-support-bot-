@@ -22104,6 +22104,73 @@ habe es nicht enthalten.** **Keine Kauschaden-Vorlage.** **Keine Angaben aus
 einem Bestelldatensatz**, weil keiner zugeordnet werden konnte. **Nichts aus
 ihrem Welpen gefolgert.** Kein Eskalationsmarker im Text.
 
+## #7401 — Mick (`laceymick31@gmail.com`) — **fragt, warum ein Bekannter kostenlosen Ersatz bekam und er nicht** · 30.09.
+
+**Betreff:** `Re: Defective item`
+
+> Dear Mick,
+>
+> **You have asked a fair question and you deserve a straight answer, so I am
+> going to give you two: one about your friend's order, and one about yours.**
+>
+> **About your friend's order I can tell you nothing at all.** **I am not
+> able to confirm it, deny it, or describe what was or was not done for
+> anybody else — not even to say whether that person is a customer.** **That
+> is not me dodging you.** **It is the same rule that stops someone else
+> ringing up and being told what is on your order, and I am not going to
+> break it in your favour and then pretend it protects you.**
+>
+> **What I can do is put your question in front of the shop owner exactly as
+> you asked it** — *why for one and not for me* — **in your own words,
+> today.** **He is the one who can answer it, because he is the one who
+> decides these cases.** **I am not going to give you a date.**
+>
+> **About your own order, here is everything I can actually stand behind.**
+>
+> **I cannot approve a refund or a replacement from this desk, and I am not
+> going to refuse you.** **And I am not going to promise you a replacement
+> either** — there is a customer who was promised one in writing in July and
+> is still waiting for it at the end of September, and I am not willing to
+> add you to that list. **Your request goes to the owner, and what he decides
+> is his to decide.**
+>
+> **From the order record:** **your order is #7401, placed on 23 August, and
+> it was not despatched until 3 September — eleven days.** **Nothing has been
+> refunded on it at any point.** **The total you paid is £19.95.**
+>
+> **What I am not going to do is tell you the guarantee covers what happened,
+> or tell you it does not.** **That is his call and not mine.**
+>
+> **You wrote on 25 September and the reply came four days later.** **That is
+> too long and I am not going to explain it away.**
+>
+> **You attached a photograph. I have not opened it, and I am not asking you
+> for anything further.** **Nothing here depends on you proving what
+> happened.**
+>
+> **If you are thinking of sending the toy back, please do not post
+> anything** — **there is no returns address I can give you.**
+>
+> **I am not going to make any claim about the toy in either direction, and I
+> am drawing no conclusion from your dog.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **unveränderte Weitergabe seiner Frage nach der
+Ungleichbehandlung an den Owner**, die **Auskunft aus seinem eigenen
+Bestelldatensatz**, die **offene Nennung der elf Tage bis zum Versand und der
+vier Tage bis zur Antwort**, und die **ehrliche Auskunft, dass es keinen
+Rückgabeweg gibt.** **Keine Erstattung und kein Ersatz zugesagt, kein Termin,
+keine Absage.** **🟥 Zum Vorgang seines Bekannten wird NICHTS bestätigt,
+NICHTS bestritten und NICHTS beschrieben** — nicht einmal, ob die Person
+Kundin oder Kunde ist. **Die Begründung wird ihm offen genannt und nicht als
+Ausflucht stehen gelassen.** **Nicht behauptet, es habe keine
+Ungleichbehandlung gegeben, und nicht behauptet, es habe eine gegeben.**
+**Keine Garantieentscheidung.** **Foto nicht geöffnet.** **Nichts aus seinem
+Hund gefolgert.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
