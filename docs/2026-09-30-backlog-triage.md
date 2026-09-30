@@ -130,3 +130,78 @@ Protokoll war insoweit ungenau.**
 ## Lauf 02:20 UTC
 
 **Posteingang geprüft. Nichts Neues.** Keine Aktion.
+
+---
+
+## Lauf 03:20 UTC
+
+### ⛔🟥 #8431 — Sarah Williams (`slw72@tpg.com.au`), 30.09. 02:56 UTC — **AU, zweiter Kontakt nach der Vorlage**
+
+**Sie hat am 29.09. um 21:19:54 die Kauschaden-Vorlage bekommen** —
+adressiert „Dear Customer", obwohl sie unterschrieben hatte, **vier Tage nach
+ihrer sorgfältig formulierten Erstnachricht vom 27.09.**
+
+**Ihre Antwort, in Auszügen:**
+
+> *„The toy was marketed as being suitable for strong chewers and, more
+> significantly, as being **„indestructible."** That claim was a major factor
+> in my purchasing decision…"*
+>
+> *„I also find the wording of your 30-day money-back guarantee to be
+> **highly ambiguous**. If a product is marketed as „indestructible" and
+> specifically designed for dogs to chew and play with, **it is difficult to
+> understand how a customer can properly assess whether the product performs
+> as advertised without actually providing it to their pet**… **this makes
+> the guarantee appear largely meaningless.**"*
+>
+> *„**I am requesting a full refund for the unused elephant toy.** It remains
+> unopened and unused… **at no further cost to me.**"*
+
+**🟥 Der entscheidende Punkt, der im Entwurf klar benannt wird:** **die
+Absage vom 29.09. betraf einen benutzten, beschädigten Artikel. Ihre jetzige
+Forderung betrifft einen ungeöffneten.** **Das sind nicht dieselben
+Anliegen, und die erteilte Absage erledigt das neue nicht.** **Im Entwurf
+steht das als Befund aus dem Thread — ausdrücklich NICHT als Entscheidung.**
+
+**🟦 Sie formuliert das Garantie-Problem schärfer als bisher irgendjemand:**
+**eine Garantie, die nur ungebrauchte Ware abdeckt, kann für ein Produkt,
+dessen beworbene Eigenschaft sich nur durch Gebrauch prüfen lässt, nicht
+greifen.** **Im Entwurf wird darüber NICHT entschieden, in keine Richtung** —
+weder ob die Garantie ihren Fall deckt noch ob ihre Formulierung angemessen
+ist. **Ihre Begründung geht ungekürzt an den Owner.**
+
+| Feld | Wert |
+|---|---|
+| Bestellung | **#8431**, 09.09.2026, **53,53 AUD** |
+| Versand | 14.09.2026 · Zustellung **26.09.** nach ihrer Angabe |
+| Erstattet | **0,00 AUD**, `refunds` **leer** |
+| Ware | Esel **zerstört**, **Elefant ungeöffnet** |
+
+**Weiter im Entwurf:** **nicht behauptet, die von ihr zitierte Werbeaussage
+existiere nicht** — nur wörtlich, was in den zwölf Produkttexten steht
+(*„rope-reinforced construction"*, *„anti-tear design built for strong
+chewers"*, und **„indestructible" in keinem davon**); **keine Rekonstruktion
+der Anzeige und keine Aussage zu den von ihr erwähnten Facebook-Kommentaren**;
+**der AU-Abschnitt „Australia – Consumer Guarantees" nur benannt, ausdrücklich
+nicht ausgelegt**; **Fotos und Kaufnachweis ausdrücklich abbestellt**;
+**nichts an Bewertungen geknüpft**; **ihre Telefonnummer nicht benutzt**;
+**ihre Angabe „$50+" nicht gegen den Datensatz geprüft.**
+
+**Der #8431-Entwurf vom 27.09. ist als ersetzt markiert.**
+
+**⚠️ Sie ist bereits am 27.09. als Werbeaussage gezählt worden. Die Zählung
+bleibt bei achtzig.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### Stand nach diesem Lauf
+
+- **Zwei Kundenvorgänge am 30.09.**
+- **416 Entwürfe in der Datei**, **keiner in Gmail.** **Acht als ersetzt
+  markiert.**
+- **Keine Erstattung, keine Stornierung ausgeführt.** Kein Fall fiel unter
+  Regel 4.
+- **🔴 Vierzehn offene Geldzusagen.**
+- **🟥 Achter belegter Folgefall des Serienversands vom 29.09.** — nach
+  #8577, #8573, #8142, #8312, #8781, #7479, #8568, #8574 jetzt **#8431**.
+  **Damit sind es neun.**

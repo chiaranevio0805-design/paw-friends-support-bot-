@@ -19178,7 +19178,8 @@ Bestellsatz korrigiert.** **Seine Telefonnummer aus der Signatur nicht benutzt
 und nicht erwähnt.** **Keine Kauschaden-Vorlage.** **Kein Prozentangebot.**
 **Nicht behauptet, es habe je eine Ersatzzusage gegeben oder nicht gegeben.**
 
-## #8431 — Sarah Williams (`slw72@tpg.com.au`) — **AU**, Erstkontakt, **verlangt ausdrücklich eine Erstattung unter der 30-Tage-Garantie**
+## #8431 — Sarah Williams (`slw72@tpg.com.au`) — **AU**, Erstkontakt, **verlangt ausdrücklich eine Erstattung unter der 30-Tage-Garantie**  
+**⚠️ ERSETZT durch den Entwurf vom 30.09. — nicht zusätzlich senden.**
 
 **Betreff:** `Re: Refund Request – Order #8431 – Donkey Plush Destroyed Within 10 Minutes`
 
@@ -21640,6 +21641,101 @@ was Klarna mitgeteilt wurde.** **Nichts an eine Rückgabe geknüpft**, und offen
 gesagt, dass es keine Rücksendeadresse gibt. **Die frühere Fehlbehandlung
 wird nicht zurückgenommen, nur weil sie jetzt annimmt.** **Der Entwurf vom
 29.09. ist als ersetzt markiert.** Kein Eskalationsmarker im Text.
+
+## #8431 — Sarah Williams (`slw72@tpg.com.au`) — **AU**, **nach der Kauschaden-Vorlage: verlangt jetzt Erstattung NUR für den ungeöffneten Elefanten** · 30.09.
+
+**Betreff:** `Re: Refund Request – Order #8431 – Donkey Plush Destroyed Within 10 Minutes`
+
+> Dear Sarah,
+>
+> **Thank you for taking the trouble to set that out so carefully. You should
+> not have had to.**
+>
+> **First, about the reply you received last night.** **It was a standard
+> paragraph, it was addressed to "Dear Customer" although you had signed your
+> name, and it came four days after you wrote.** **I am not going to defend
+> it and no second copy is coming from me.**
+>
+> **Second, and this matters: that reply refused a refund for a toy that had
+> been used and damaged. What you are asking for now is something different —
+> a refund for the elephant, which is unopened and unused.** **Those are not
+> the same request, and the answer you were given does not dispose of the one
+> you are making now.** **I am stating that as a matter of what is in the
+> thread, not as a decision.**
+>
+> **I cannot approve a refund from this desk, and I am not going to refuse
+> you.** That decision belongs to the shop owner. **Your request for the
+> unused elephant goes to him today, in your own words and unedited, together
+> with your reasoning about the guarantee.** **I am not going to give you a
+> date.**
+>
+> **On the wording you quoted.** **I cannot see the advertising as it was
+> shown to you, so I am not going to tell you what it said, and I am
+> certainly not going to suggest you misread it.** **What I can check, I
+> have:** I have read all twelve of our current product descriptions. **The
+> word "indestructible" appears in none of them.** **The Plushies text
+> describes "rope-reinforced construction" and an "anti-tear design built for
+> strong chewers".** **That is what those twelve texts say — it is not a
+> claim that what you were shown said something different, and it is not a
+> suggestion that you imagined it.** **Your wording, including the phrase you
+> put in quotation marks, goes to the owner exactly as you wrote it.**
+>
+> **On the argument you make about the guarantee.** **You have put your
+> finger on something real, and I am not going to pretend I did not
+> understand it.** **What I am not going to do is rule on it** — whether the
+> guarantee covers your case, and whether its wording is adequate, are not
+> mine to decide, and a support desk that answered that question either way
+> would be overreaching. **What I will do is pass your reasoning on in full
+> rather than in summary, because it is the clearest statement of it anyone
+> has sent us.**
+>
+> **One thing you are entitled to know, and which is published on our own
+> site.** **Our shop policy carries a section headed "Australia – Consumer
+> Guarantees".** **I am pointing you to it so that you can read it yourself.
+> I am not interpreting it for you, I am not telling you what follows from
+> it, and I am not deriving any promise from it** — but you are in Australia,
+> you are making an argument about your rights, and you should not have to
+> find our own policy page on your own.
+>
+> **From the order record:** **you ordered on 9 September, the parcel was
+> despatched on 14 September, and by your account it reached you on
+> 26 September.** **Nothing has been refunded on this order at any point.**
+> **The total paid on the order is A$53.53.**
+>
+> **You offered photographs, proof of purchase and anything else required.**
+> **None of that is required, and I am declining it.** **Nothing here depends
+> on you proving anything, and I am not going to make evidence a condition.**
+>
+> **You mentioned reviews and comments you have read.** **Nothing here is
+> conditional on what you have read or on anything you may write.** **I am
+> not asking you to hold off on anything.**
+>
+> **And I am not going to draw any conclusion from your dog.**
+>
+> I am sorry that your first careful message was answered with a form letter.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Anerkennung, dass die Vorlage keine Antwort
+war**, die **Feststellung, dass die Absage einen benutzten Artikel betraf und
+ihre jetzige Forderung einen ungeöffneten** — **ausdrücklich als Befund aus
+dem Thread, nicht als Entscheidung**, die **unveränderte Weitergabe ihrer
+Begründung**, und die **Auskunft, dass nichts erstattet wurde.** **Keine
+Erstattung zugesagt, kein Termin, keine Absage.** **Nicht entschieden, ob die
+Garantie ihren Fall deckt, und nicht entschieden, ob ihre Formulierung
+angemessen ist** — beides ausdrücklich als nicht von hier entscheidbar
+benannt. **Keine Frist genannt.** **Nicht behauptet, die von ihr zitierte
+Werbeaussage existiere nicht** — nur, was in den zwölf Produkttexten steht,
+wörtlich. **Keine Rekonstruktion der Anzeige und keine Aussage zu Facebook.**
+**Der AU-Abschnitt nur benannt, ausdrücklich nicht ausgelegt.** **Fotos und
+Kaufnachweis ausdrücklich abbestellt** — nichts wird zur Bedingung gemacht.
+**Nichts an Bewertungen geknüpft, in keine Richtung.** **Ihre Telefonnummer
+wird nicht benutzt und nicht erwähnt.** **Ihre Angabe „$50+" wird nicht gegen
+den Datensatz geprüft** — der gezahlte Betrag wird daneben genannt. **Keine
+Aussage zur Qualität, in keine Richtung.** **Nichts aus ihrem Hund
+gefolgert.** Kein Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 
