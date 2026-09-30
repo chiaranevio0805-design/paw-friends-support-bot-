@@ -260,7 +260,8 @@ Chargeback ausgelöst.
 
 ---
 
-## #5829 — tazzyhunt1@hotmail.co.uk, cc david.coles1990@gmail.com — förmliche Rüge nach CRA 2015
+## #5829 — tazzyhunt1@hotmail.co.uk, cc david.coles1990@gmail.com — förmliche Rüge nach CRA 2015  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
 bestehenden Thread, Betreff: `Re: Formal Notice: Rejection of Faulty/Misdescribed Goods (Order #5829)`.
@@ -308,7 +309,8 @@ am Anspruch vorbeiging: das steht in der Rüge und lässt sich nicht bestreiten.
 
 ---
 
-## #7179 — keithhyype@gmail.com — Füllwatte gefressen + zwei ungeöffnete Teile
+## #7179 — keithhyype@gmail.com — Füllwatte gefressen + zwei ungeöffnete Teile  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
 bestehenden Thread, Betreff `Re: Junk`. **Zeitkritisch wegen Punkt 1.**
@@ -431,7 +433,8 @@ genau die Wiederholung hat die Eskalation ausgelöst.
 
 ---
 
-## #7525 — carolgarvey2@hotmail.com — Sendungsnummer, die ihr nie genannt wurde
+## #7525 — carolgarvey2@hotmail.com — Sendungsnummer, die ihr nie genannt wurde  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
 bestehenden Thread, Betreff `Re: Order 7525`. **Freundlicher Fall — sie ist
@@ -469,7 +472,8 @@ Kein Verweis an den Zusteller.
 
 ---
 
-## #7060 — fpierce1967@gmail.com — „indestructible or you get a refund"
+## #7060 — fpierce1967@gmail.com — „indestructible or you get a refund"  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
 bestehenden Thread, Betreff `Re: Order purchase`.
@@ -510,7 +514,8 @@ Frage darin und entscheidet, ob Regel 2 greift.
 
 ---
 
-## #5973 — stevecooil@me.com — der ungeöffnete Esel, dritte Nachfrage
+## #5973 — stevecooil@me.com — der ungeöffnete Esel, dritte Nachfrage  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
 bestehenden Thread, Betreff `Re: Plushies Order 5973`.
@@ -552,7 +557,8 @@ Abwicklung ausdrücklich als offen benannt.
 
 ---
 
-## #7547 — lukepriora20@hotmail.com — Ware nicht angekommen, will stornieren
+## #7547 — lukepriora20@hotmail.com — Ware nicht angekommen, will stornieren  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
 bestehenden Thread, Betreff `Re: No order`.
@@ -904,7 +910,8 @@ direkte Antwort.
 
 ---
 
-## #6755 — rmattmurphy@gmail.com — Erstattungsforderung, kein Werbevorwurf
+## #6755 — rmattmurphy@gmail.com — Erstattungsforderung, kein Werbevorwurf  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09., nie als Gmail-Entwurf vorhanden.** Antwort im
 bestehenden Thread, Betreff `Re: Refund request`.
@@ -936,7 +943,8 @@ und eine Korrektur würde nur den Ton verderben.
 
 ---
 
-## #8081 — vad_shooter@yahoo.com — APO-Anschrift, Bestellung seit 14 Tagen blockiert
+## #8081 — vad_shooter@yahoo.com — APO-Anschrift, Bestellung seit 14 Tagen blockiert  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09., nie als Gmail-Entwurf vorhanden.** Antwort im
 bestehenden Thread, Betreff `Re: Address Confirmation Required for Order #8081`.
@@ -978,7 +986,8 @@ Letzteres ist Regel 3 und damit bereits geltende Policy, keine neue Zusage.
 
 ---
 
-## #6882 — chris@htconcepts.com.au — „15 mins… gutted. Please explain"
+## #6882 — chris@htconcepts.com.au — „15 mins… gutted. Please explain"  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09., nie als Gmail-Entwurf vorhanden.** Antwort im
 bestehenden Thread, Betreff `Re: WTF`.
@@ -1052,7 +1061,8 @@ Zusteller.
 
 ---
 
-## #7699 — lorraine.sale1@hotmail.co.uk — eigene Frist 17.09.
+## #7699 — lorraine.sale1@hotmail.co.uk — eigene Frist 17.09.  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09., nie als Gmail-Entwurf vorhanden.** Antwort im
 bestehenden Thread, Betreff `Re: A shipment from order #7699 is on the way`.
@@ -1206,7 +1216,8 @@ Bestreiten wäre unwahr.
 
 ---
 
-## #7316 — brettamerriman@gmail.com — „Why would I return it before it got used?"
+## #7316 — brettamerriman@gmail.com — „Why would I return it before it got used?"  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
 `Re: A shipment from order #7316 is on the way`.
@@ -1308,7 +1319,8 @@ Fall beurteilt wird.**
 
 ---
 
-## #6781 — carliebanfield1975@gmail.com — „Not what you say in your adverts!"
+## #6781 — carliebanfield1975@gmail.com — „Not what you say in your adverts!"  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
 `Re: Not what you say in your adverts!`.
@@ -1347,7 +1359,8 @@ zum zweiten Teil entscheidet über Regel 2.
 
 ---
 
-## #7246 — arabrabtnarg@gmail.com — „How do i get refunded?"
+## #7246 — arabrabtnarg@gmail.com — „How do i get refunded?"  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread.
 **Sie fragt nach dem Verfahren. Es gibt keins — das wird eingeräumt, nicht
@@ -1384,7 +1397,8 @@ eingeräumt. Zugesagt sind Weitergabe und eine direkte Antwort.
 
 ---
 
-## #8359 — gary.lisacooper@gmail.com — „Have not received my order"
+## #8359 — gary.lisacooper@gmail.com — „Have not received my order"  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread.
 **⚠️ Die Bestellung läuft auf Norma Vickroy, geschrieben hat eine andere
@@ -1413,7 +1427,8 @@ an den Zusteller, **keine Anrede mit einem ungeklärten Namen**.
 
 ---
 
-## becca23047@aol.com — „Destroyed in 5 minutes", Bestellung nicht auffindbar
+## becca23047@aol.com — „Destroyed in 5 minutes", Bestellung nicht auffindbar  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
 `Re: Destroyed in 5 minutes`.
@@ -1451,7 +1466,8 @@ sind die Weitergabe und eine direkte Antwort.
 
 ---
 
-## #7627 — charlotteamatthews88@gmail.com — die übergangene Erstattungsbitte
+## #7627 — charlotteamatthews88@gmail.com — die übergangene Erstattungsbitte  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
 `Re: Order no 7627`.
@@ -1490,7 +1506,8 @@ Erstattungszusage, kein Zustelltermin, keine 7–21-Tage-Formel.**
 
 ---
 
-## #4939 — sara.thompson4881@gmail.com — Geschenk, und eine Bestellung vom 07.08.
+## #4939 — sara.thompson4881@gmail.com — Geschenk, und eine Bestellung vom 07.08.  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread.
 **Sie fordert nichts. Keine Absage, kein Angebot. Vor dem Senden im Admin
@@ -1522,7 +1539,8 @@ Aussage darüber, welche Positionen fehlen**, bevor das geprüft ist.
 
 ---
 
-## #6936 — lisac131@googlemail.com — „Mr Donkey is dead"
+## #6936 — lisac131@googlemail.com — „Mr Donkey is dead"  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
 `Re: Not even an hour.`
@@ -1637,7 +1655,8 @@ werden — dazu ist im Sortiment nachzusehen.
 
 ---
 
-## #6528 — thomashjohnson23@gmail.com — fünfter Kontakt, drei ungeöffnete Teile
+## #6528 — thomashjohnson23@gmail.com — fünfter Kontakt, drei ungeöffnete Teile  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
 `Re: Order #6528 Return Request`. **CC an `kth3john@hotmail.com` beibehalten —
@@ -1710,7 +1729,8 @@ Aussage darüber, wo das Paket ist, kein Verweis an den Zusteller.**
 
 ---
 
-## #5032 — acmurgatroyd1@gmail.com — alle drei, eine Stunde, keine Forderung
+## #5032 — acmurgatroyd1@gmail.com — alle drei, eine Stunde, keine Forderung  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
 `Re: A shipment from order #5032 is on the way`.
@@ -1742,7 +1762,8 @@ kein Ersatz, kein Angebot, keine Rücksendeadresse.
 
 ---
 
-## #7292 — doulatracy@gmail.com — Garantietext gegen Vorlage
+## #7292 — doulatracy@gmail.com — Garantietext gegen Vorlage  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
 `Re: Order #7292 confirmed`.
@@ -1942,7 +1963,8 @@ Erstattung.
 
 ---
 
-## #7119 — susanmcgee@outlook.com.au — Chargeback angekündigt, Nummer liegt vor
+## #7119 — susanmcgee@outlook.com.au — Chargeback angekündigt, Nummer liegt vor  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff
 `Re: ORDER #7119`.
@@ -1976,7 +1998,8 @@ wenn sie erneut schreibt. Keine Erstattungszusage, kein Zustelltermin, keine
 
 ---
 
-## #8009 — vonnie1982@hotmail.co.uk — der Termin ist vorbei
+## #8009 — vonnie1982@hotmail.co.uk — der Termin ist vorbei  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff `Re: #8009`.
 **Sie muss ihren Anlass nicht belegen — der Text fragt nicht danach.**
@@ -2008,7 +2031,8 @@ Erstattung. Keine Erstattungszusage, kein Zustelltermin, keine
 
 ---
 
-## #2894 — jeff.hughes@yahoo.co.uk — Ersatz seit dem 24. Juli zugesagt
+## #2894 — jeff.hughes@yahoo.co.uk — Ersatz seit dem 24. Juli zugesagt  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff
 `Re: Order Number 2894`.
@@ -2049,7 +2073,8 @@ ausgeschlossen ist.
 
 ---
 
-## #6835 — tesa.allen@hotmail.co.uk — „so called indestructible", 29,95 £ gefordert
+## #6835 — tesa.allen@hotmail.co.uk — „so called indestructible", 29,95 £ gefordert  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff
 `Re: Order #6835 confirmed`.
@@ -2163,7 +2188,8 @@ belegt ist.**
 
 ---
 
-## #7179 — keithhyype@gmail.com — ZWEITE FASSUNG, nach der zweiten Absage
+## #7179 — keithhyype@gmail.com — ZWEITE FASSUNG, nach der zweiten Absage  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 13.09.** Ersetzt die Fassung vom 11.09., die nie gesendet
 wurde. Antwort im bestehenden Thread, Betreff `Re: Junk`.
@@ -2292,7 +2318,8 @@ keine Rücksendeadresse, keine Frist. Nur Weitergabe und eine direkte Antwort.
 
 ---
 
-## #7034 — sarahc300@gmail.com — „guaranteed indestructible toy"
+## #7034 — sarahc300@gmail.com — „guaranteed indestructible toy"  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff
 `Re: Destroyed in seconds`.
@@ -2332,7 +2359,8 @@ Die Werbezusage wird **weder bestätigt noch bestritten**.
 
 ---
 
-## #7610 — vannblow@icloud.com — dritter Kontakt
+## #7610 — vannblow@icloud.com — dritter Kontakt  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 13.09.** Antwort im **neuen** Thread, Betreff `Re: Refund`.
 **Ihre Erstattungsforderung vom 09.09. ist unbeantwortet — das gehört an den
@@ -2401,7 +2429,8 @@ Aufforderung, Kartendaten zu senden** — im Gegenteil, eine Warnung davor.
 
 ---
 
-## #7547 — lukepriora20@hotmail.com — ZWEITE FASSUNG, nach der Lieferauskunft vom 13.09.
+## #7547 — lukepriora20@hotmail.com — ZWEITE FASSUNG, nach der Lieferauskunft vom 13.09.  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 13.09.** Ersetzt die Fassung vom 11.09., die nie gesendet
 wurde. Antwort im bestehenden Thread, Betreff `Re: No order`.
@@ -2446,7 +2475,8 @@ Owners zur Erstattung. **Keine Erstattungszusage, kein Zustelltermin, keine
 
 ---
 
-## #7610 — vannblow@icloud.com — ZWEITE FASSUNG, Bewertung ist abgegeben
+## #7610 — vannblow@icloud.com — ZWEITE FASSUNG, Bewertung ist abgegeben  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 13.09., 18:20.** Ersetzt die Fassung von 16:20 desselben
 Tages, die nie gesendet wurde.
@@ -2484,7 +2514,8 @@ Verknüpfung der Erstattung mit der Bewertung.
 
 ---
 
-## #8321 — stockingseight@gmail.com — Lieferanfrage ohne Bestellnummer
+## #8321 — stockingseight@gmail.com — Lieferanfrage ohne Bestellnummer  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 13.09.** Antwort im bestehenden Thread.
 **Er hat keine Bestellnummer genannt; sie wurde über die E-Mail-Suche
@@ -2556,7 +2587,8 @@ Frist. Der Artikelname wird bestätigt, weil er an den Shopify-Daten belegt ist.
 
 ---
 
-## 🚩 #7608 — patty.arenella@gmail.com — „toxic stuffing", „guaranteed not to be destroyed"
+## 🚩 #7608 — patty.arenella@gmail.com — „toxic stuffing", „guaranteed not to be destroyed"  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff
 `Re: Order #7608 confirmed`.
@@ -2783,7 +2815,8 @@ weiterhin nicht auffindbar — vor dem Senden die Anhänge öffnen.**
 
 ---
 
-## 🚩🚩 #7292 — doulatracy@gmail.com — DRITTE FASSUNG
+## 🚩🚩 #7292 — doulatracy@gmail.com — DRITTE FASSUNG  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 13.09., 22:20.** Ersetzt die Fassung vom 12.09.
 **⚠️ Sie hat am 13.09. 20:15 eine zweite identische Absage bekommen. Sie
@@ -3110,7 +3143,8 @@ Rücksendeadresse. Keine Frist ausser den 30 Tagen, die nicht erwähnt werden.
 
 ---
 
-## #6936 — Lisa Steggel (lisac131@googlemail.com) — zweite Fassung
+## #6936 — Lisa Steggel (lisac131@googlemail.com) — zweite Fassung  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Not even an hour.
 
@@ -3189,7 +3223,8 @@ er sich darüber nicht beschwert hat.
 
 ---
 
-## #1998 — Alexandra Bizzios-O'Connell (alexbizoc@icloud.com)
+## #1998 — Alexandra Bizzios-O'Connell (alexbizoc@icloud.com)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Recent order - second email sent
 
@@ -3231,7 +3266,8 @@ Rücksendeadresse. Der Betrag wird nicht genannt.
 
 ---
 
-## #7578 — Luke Buttrey (lukebuttrey@hotmail.co.uk)
+## #7578 — Luke Buttrey (lukebuttrey@hotmail.co.uk)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Luke Buttrey
 
@@ -3266,7 +3302,8 @@ hat.
 
 ---
 
-## #7663 — Murray „Muzz" McLean (muzz.mclean@gmail.com)
+## #7663 — Murray „Muzz" McLean (muzz.mclean@gmail.com)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Plushies
 
@@ -3303,7 +3340,8 @@ Bedingung** — sie wird nicht zur Voraussetzung für irgendetwas gemacht.
 
 ---
 
-## #7323 — David Buckley (dbuckley@orkinau.com)
+## #7323 — David Buckley (dbuckley@orkinau.com)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Product Complaint - Order #7323
 
@@ -3384,7 +3422,8 @@ Kundensicht eine Ausrede wäre. Keine Aussage zur Herkunft der Sendung.
 
 ---
 
-## #7587 — Susan Hines (wagtailfarm@icloud.com)
+## #7587 — Susan Hines (wagtailfarm@icloud.com)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order
 
@@ -3650,7 +3689,8 @@ Rücksendeadresse. Keine rechtliche Einordnung.
 
 ---
 
-## #7479 — Richard Bellamy-Williams (richard@brownwolf.net)
+## #7479 — Richard Bellamy-Williams (richard@brownwolf.net)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Refund request and business address request
 
@@ -3861,7 +3901,8 @@ Betrag. Keine rechtliche Einordnung. Foto nicht gedeutet.
 
 ---
 
-## #7001 — Keith Furman (kmfurman26@gmail.com)
+## #7001 — Keith Furman (kmfurman26@gmail.com)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: A shipment from order #7001 is on the way
 
@@ -3897,7 +3938,8 @@ Rücksendeadresse. Foto nicht gedeutet.
 
 ---
 
-## #7754 — Margaret Timmings (timmingsmargaret@yahoo.co.uk)
+## #7754 — Margaret Timmings (timmingsmargaret@yahoo.co.uk)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Undistructable teddy's
 
@@ -3936,7 +3978,8 @@ Foto nicht gedeutet. Kein Betrag. Keine Rücksendeadresse.
 
 ---
 
-## #6806 — Jay Heap (jayheap@gmail.com)
+## #6806 — Jay Heap (jayheap@gmail.com)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Must be defective
 
@@ -4017,7 +4060,8 @@ Keine Rücksendeadresse. Keine rechtliche Einordnung.
 
 ---
 
-## #7525 — Carol Garvey (carolgarvey2@hotmail.com)
+## #7525 — Carol Garvey (carolgarvey2@hotmail.com)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order 7525
 
@@ -4224,7 +4268,8 @@ beigetragen hat. Kein Betrag. Keine rechtliche Einordnung.
 
 ---
 
-## #7072 — Jane Bromirski (janekipp17@gmail.com)
+## #7072 — Jane Bromirski (janekipp17@gmail.com)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: A shipment from order #7072 is on the way
 
@@ -4302,7 +4347,8 @@ hat nicht danach gefragt.
 
 ---
 
-## #7114 — Geoffrey Russell (geoffruss123@gmail.com)
+## #7114 — Geoffrey Russell (geoffruss123@gmail.com)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: A shipment from order #7114 is on the way
 
@@ -4460,7 +4506,8 @@ Antwort wird **nicht erwähnt**, weil es erkennbar technisch war.
 
 ---
 
-## #7937 — Marian Allaton (busa1957@msn.com)
+## #7937 — Marian Allaton (busa1957@msn.com)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Plushie
 
@@ -4495,7 +4542,8 @@ Foto nicht gedeutet. Kein Betrag. Keine Rücksendeadresse.
 
 ---
 
-## #7323 — David Buckley (dbuckley@orkinau.com) — zweite Fassung
+## #7323 — David Buckley (dbuckley@orkinau.com) — zweite Fassung  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Product Complaint – Order #7323
 
@@ -4548,7 +4596,8 @@ Rücksendeadresse.
 
 ---
 
-## #6936 — Lisa Steggel (lisac131@googlemail.com) — dritte Fassung
+## #6936 — Lisa Steggel (lisac131@googlemail.com) — dritte Fassung  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Not even an hour.
 
@@ -4782,7 +4831,8 @@ Rücksendeadresse.
 
 ---
 
-## #7610 — Vicky Blow (vannblow@icloud.com) — zweite Fassung
+## #7610 — Vicky Blow (vannblow@icloud.com) — zweite Fassung  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Refund
 
@@ -4869,7 +4919,8 @@ Rücksendeadresse.
 
 ---
 
-## #7885 — Rod McNess (rod.m@promptpetroleum.com.au, Kopie pmcness@bigpond.com)
+## #7885 — Rod McNess (rod.m@promptpetroleum.com.au, Kopie pmcness@bigpond.com)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Failed Plushie Fox
 
@@ -5017,7 +5068,8 @@ Kein Datum versprochen. Kein Betrag. Keine Rücksendeadresse.
 
 ---
 
-## #7479 — Richard Bellamy-Williams — zweite Fassung
+## #7479 — Richard Bellamy-Williams — zweite Fassung  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** RE: Refund request and business address request
 
@@ -5223,7 +5275,8 @@ rechtliche Einordnung.
 
 ---
 
-## #7048 — Josephine Carr (jocarr247@yahoo.com)
+## #7048 — Josephine Carr (jocarr247@yahoo.com)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: #7048
 
@@ -5443,7 +5496,8 @@ abgeraten. Keine Rücksendeadresse. Kein Eskalationsmarker im Text.
 
 ---
 
-## #7347 — Jill Hibbs (hibbsjill@yahoo.com)
+## #7347 — Jill Hibbs (hibbsjill@yahoo.com)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #7347 confirmed
 
@@ -5555,7 +5609,8 @@ im Text.
 
 ---
 
-## #7164 — Barry Dunster (bazdee1974@msn.com)
+## #7164 — Barry Dunster (bazdee1974@msn.com)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: My order
 
@@ -5669,7 +5724,8 @@ Hersteller zu nennen. Keine Rücksendeadresse. Kein Eskalationsmarker im Text.
 
 ---
 
-## #5973 — Stephen Cooil (stevecooil@me.com) — laufende Verhandlung, 40 % gegen 50 %
+## #5973 — Stephen Cooil (stevecooil@me.com) — laufende Verhandlung, 40 % gegen 50 %  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Plushies Order 5973
 
@@ -5788,7 +5844,8 @@ Eskalationsmarker im Text.
 
 ---
 
-## #7255 — Kenneth Crum (blessedlovepuppet@frontier.com)
+## #7255 — Kenneth Crum (blessedlovepuppet@frontier.com)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Return
 
@@ -5911,7 +5968,8 @@ gefragt hat. Kein Eskalationsmarker im Text.
 
 ---
 
-## #6254 — David Hickman (davehickman71@gmail.com)
+## #6254 — David Hickman (davehickman71@gmail.com)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: A shipment from order #6254 is on the way
 
@@ -6014,7 +6072,8 @@ Warnung. Kein Eskalationsmarker im Text.
 
 ---
 
-## #7114 — Geoffrey Russell (geoffruss123@gmail.com) — zweite Fassung
+## #7114 — Geoffrey Russell (geoffruss123@gmail.com) — zweite Fassung  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order 7114 bear and monkey the ear already gone
 
@@ -6165,7 +6224,8 @@ Kein Eskalationsmarker im Text.
 
 ---
 
-## #6528 — Thomas „Tommy" H. Johnson III (thomashjohnson23@gmail.com) — laufende Verhandlung, 30 % gegen 75 %
+## #6528 — Thomas „Tommy" H. Johnson III (thomashjohnson23@gmail.com) — laufende Verhandlung, 30 % gegen 75 %  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #6528 Return Request
 
@@ -6224,7 +6284,8 @@ bestimmen. Foto nicht geöffnet. Kein Eskalationsmarker im Text.
 
 ---
 
-## #7114 — Geoffrey Russell (geoffruss123@gmail.com) — dritte Fassung
+## #7114 — Geoffrey Russell (geoffruss123@gmail.com) — dritte Fassung  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Refund
 
@@ -6270,7 +6331,8 @@ Eskalationsmarker im Text.
 
 ---
 
-## #6804 — Jill Brown (jillbindewald@gmail.com)
+## #6804 — Jill Brown (jillbindewald@gmail.com)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: A shipment from order #6804 is on the way
 
@@ -6316,7 +6378,8 @@ unterstellt**, dass es unbenutzt ist. Kein Eskalationsmarker im Text.
 
 ---
 
-## #6384 — Simon Foord (simonfoord@me.com)
+## #6384 — Simon Foord (simonfoord@me.com)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order 6384
 
@@ -6374,7 +6437,8 @@ Eskalationsmarker im Text.
 
 ---
 
-## #7479 — Richard Bellamy (richard@brownwolf.net) — dritte Fassung
+## #7479 — Richard Bellamy (richard@brownwolf.net) — dritte Fassung  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Refund request and business address request
 
@@ -6442,7 +6506,8 @@ aufgehoben.** Keine Aussage zur Werbung. Kein Eskalationsmarker im Text.
 
 ---
 
-## #5148 — Trudi Wright (truditrotter67@icloud.com) — ⛔ zugesagte Erstattung ist in Shopify nicht verzeichnet
+## #5148 — Trudi Wright (truditrotter67@icloud.com) — ⛔ zugesagte Erstattung ist in Shopify nicht verzeichnet  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Plushies
 
@@ -6501,7 +6566,8 @@ Eskalationsmarker im Text.
 
 ---
 
-## #6806 — Jay Heap (jayheap@gmail.com) — zweite Fassung
+## #6806 — Jay Heap (jayheap@gmail.com) — zweite Fassung  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Must be defective
 
@@ -6755,7 +6821,8 @@ Eskalationsmarker im Text.
 
 ---
 
-## #7950 — Andy Kennedy (andykennedy1@btinternet.com)
+## #7950 — Andy Kennedy (andykennedy1@btinternet.com)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: A shipment from order #7950 is on the way
 
@@ -6798,7 +6865,8 @@ Eskalationsmarker im Text.
 
 ---
 
-## #6804 — Jill Brown (jillbindewald@gmail.com) — zweite Fassung
+## #6804 — Jill Brown (jillbindewald@gmail.com) — zweite Fassung  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #6804
 
@@ -6849,7 +6917,8 @@ Eskalationsmarker im Text.
 
 ---
 
-## #6205 — John R Keefauver (johnkeefauver@gmail.com) — zweite Fassung, ersetzt die erste
+## #6205 — John R Keefauver (johnkeefauver@gmail.com) — zweite Fassung, ersetzt die erste  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #6205 confirmed
 
@@ -7007,7 +7076,8 @@ Eskalationsmarker im Text.
 
 ---
 
-## #7547 — Luke Prior (lukepriora20@hotmail.com) — zweite Fassung: seine Erstattungsbitte wurde dreimal übergangen
+## #7547 — Luke Prior (lukepriora20@hotmail.com) — zweite Fassung: seine Erstattungsbitte wurde dreimal übergangen  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Poor all round
 
@@ -7472,7 +7542,8 @@ geändert.** Kein Eskalationsmarker im Text.
 
 ---
 
-## #7041 — Tim Fitton (fitton@fitton.karoo.co.uk)
+## #7041 — Tim Fitton (fitton@fitton.karoo.co.uk)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order number - 7041
 
@@ -7561,7 +7632,8 @@ Frist, keine Rücksendeadresse. Kein Eskalationsmarker im Text.
 
 ---
 
-## #8372 — Kerri Forbey (wollenzienk@hotmail.com) — unbenutzt, Originalverpackung, am Tag der Zustellung
+## #8372 — Kerri Forbey (wollenzienk@hotmail.com) — unbenutzt, Originalverpackung, am Tag der Zustellung  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Paw friends plushies
 
@@ -7623,7 +7695,8 @@ Eskalationsmarker im Text.
 
 ---
 
-## #7625 — Erin Browning (ebrowningrn2@yahoo.com)
+## #7625 — Erin Browning (ebrowningrn2@yahoo.com)  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Return
 
@@ -7720,7 +7793,8 @@ Text.
 
 ---
 
-## #7989 — Karen Reynolds (House54@outlook.com.au) — ⛔ schriftlich zugesagte Variante nie umgesetzt, dazu Fehlmenge
+## #7989 — Karen Reynolds (House54@outlook.com.au) — ⛔ schriftlich zugesagte Variante nie umgesetzt, dazu Fehlmenge  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #7989 confirmed
 
@@ -7837,7 +7911,8 @@ Eskalationsmarker im Text.
 
 ---
 
-## #7119 — Susan McGee (susanmcgee@outlook.com.au) — ein Stück unberührt, Australien
+## #7119 — Susan McGee (susanmcgee@outlook.com.au) — ein Stück unberührt, Australien  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: ORDER #7119
 
@@ -8007,7 +8082,8 @@ davon abzubringen. Keine Rücksendeadresse. Kein Eskalationsmarker im Text.
 
 ---
 
-## #7164 — Barry Dunster (bazdee1974@msn.com) — zweite Fassung
+## #7164 — Barry Dunster (bazdee1974@msn.com) — zweite Fassung  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: order #7164
 
@@ -8110,7 +8186,8 @@ Eskalationsmarker im Text.
 
 ---
 
-## #5036 — Lynette Lumley (lynette_lumley@hotmail.com) — ⛔ 40 Tage, nie erhalten, Erstattungsbitte seit 10 Tagen unbeantwortet
+## #5036 — Lynette Lumley (lynette_lumley@hotmail.com) — ⛔ 40 Tage, nie erhalten, Erstattungsbitte seit 10 Tagen unbeantwortet  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #5036 confirmed
 
@@ -8167,7 +8244,8 @@ Eskalationsmarker im Text.
 
 ---
 
-## #8295 — Ivan Griffen (griffenivan@gmail.com) — Vorwarnung statt Beschwerde
+## #8295 — Ivan Griffen (griffenivan@gmail.com) — Vorwarnung statt Beschwerde  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #8295
 
@@ -8218,7 +8296,8 @@ Eskalationsmarker im Text.
 
 ---
 
-## #7547 — Luke Prior (lukepriora20@hotmail.com) — dritte Fassung
+## #7547 — Luke Prior (lukepriora20@hotmail.com) — dritte Fassung  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: No order
 
@@ -8321,7 +8400,8 @@ Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
 ---
 
-## #7347 — Jill Hibbs (hibbsjill@yahoo.com) — ⚠️ das zweite Spielzeug ist unbenutzt
+## #7347 — Jill Hibbs (hibbsjill@yahoo.com) — ⚠️ das zweite Spielzeug ist unbenutzt  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #7347 confirmed
 
@@ -8481,7 +8561,8 @@ Einordnung. Kein Eskalationsmarker im Text.
 
 ---
 
-## #7885 — Rod McNess (schreibt von rod.m@promptpetroleum.com.au) — ⚠️ dritter AU-Kunde, abgelehnt auf der widersprochenen Bedingung
+## #7885 — Rod McNess (schreibt von rod.m@promptpetroleum.com.au) — ⚠️ dritter AU-Kunde, abgelehnt auf der widersprochenen Bedingung  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Failed Plushie Fox
 
@@ -8545,7 +8626,8 @@ Kein Eskalationsmarker im Text.
 
 ---
 
-## #4055 — Kimberley Shenton (kim.shenton@me.com) — sie hat 60 % angenommen; das Angebot selbst war widersprüchlich
+## #4055 — Kimberley Shenton (kim.shenton@me.com) — sie hat 60 % angenommen; das Angebot selbst war widersprüchlich  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Refund request
 
@@ -8600,7 +8682,8 @@ Gegenteil. **Kein Betrag in Zahlen genannt**, kein Termin. **Keine neue
 Aushandlung, keine Rücknahme des Angebots.** **Keine Bedingung an ihre
 Bewertung oder ihr Verhalten geknüpft.** Kein Eskalationsmarker im Text.
 
-## #4940 — Rena Barnes (renabarnes@hotmail.com) — ⚠️ sie hat die Angebotsleiter selbst erkannt
+## #4940 — Rena Barnes (renabarnes@hotmail.com) — ⚠️ sie hat die Angebotsleiter selbst erkannt  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Awaiting delivery of my order!
 
@@ -8714,7 +8797,8 @@ Eskalationsmarker im Text.
 
 ---
 
-## #7275 — Nathan Corcoran (schreibt von natcor1972@gmail.com) — ⚠️ vierter AU-Fall, Bestellung ohne hinterlegte E-Mail
+## #7275 — Nathan Corcoran (schreibt von natcor1972@gmail.com) — ⚠️ vierter AU-Fall, Bestellung ohne hinterlegte E-Mail  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Indestructible
 
@@ -8924,7 +9008,8 @@ genannt** — weder die 30 Tage noch eine andere, weil sie keine Rückgabe unter
 der Garantie verlangt hat. Keine Rücksendeadresse, samt Warnung. Kein
 Eskalationsmarker im Text.
 
-## #7479 — Richard Bellamy (richard@brownwolf.net) — vierte Fassung, ⚠️ er kündigt Zustellung an
+## #7479 — Richard Bellamy (richard@brownwolf.net) — vierte Fassung, ⚠️ er kündigt Zustellung an  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Fw: Refund request and business address request
 
@@ -9002,7 +9087,8 @@ keiner der neun Produktbeschreibungen. Kein Eskalationsmarker im Text.
 
 ---
 
-## #8295 — Ivan Griffen (griffenivan@gmail.com) — zweite Fassung, er leitet sich selbst weiter
+## #8295 — Ivan Griffen (griffenivan@gmail.com) — zweite Fassung, er leitet sich selbst weiter  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Fwd: Order #8295
 
@@ -9192,7 +9278,8 @@ der Bestellung steht** — offen gesagt statt verschwiegen. **Keine Annahme
 darüber, was mit den drei Tieren passiert ist** — gefragt, nicht unterstellt.
 Keine Aussage zur Werbung, keine zur Haltbarkeit. Kein Eskalationsmarker im Text.
 
-## #7555 — Steve Kerr (stevejkerr23@gmail.com) — ⛔⛔ zwei unbenutzte Stücke, und seine Bitte kam auf einem Kanal an, den dieses Postfach nicht sieht
+## #7555 — Steve Kerr (stevejkerr23@gmail.com) — ⛔⛔ zwei unbenutzte Stücke, und seine Bitte kam auf einem Kanal an, den dieses Postfach nicht sieht  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Fwd: Re. Order placed on 24 August 2026
 
@@ -9425,7 +9512,8 @@ Versandweg** — sie hat nicht gefragt. Kein Eskalationsmarker im Text.
 
 ---
 
-## #7041 — Tim Fitton (fitton@fitton.karoo.co.uk) — zweite Fassung, er schickt seine eigene Mail erneut
+## #7041 — Tim Fitton (fitton@fitton.karoo.co.uk) — zweite Fassung, er schickt seine eigene Mail erneut  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order number - 7041
 
@@ -9468,7 +9556,8 @@ Auswertung der Fotos**, nur der Eingang vermerkt. **Keine Aussage zur Werbung,
 keine zur Haltbarkeit**, **kein Widerspruch zu seiner Schilderung.** Keine
 Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
-## #6583 — Ken Beville (kenthecarman06@gmail.com) — ⛔⛔ volle Erstattung schriftlich zugesagt am 03.09., nie ausgeführt
+## #6583 — Ken Beville (kenthecarman06@gmail.com) — ⛔⛔ volle Erstattung schriftlich zugesagt am 03.09., nie ausgeführt  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order 6583 return
 
@@ -9548,7 +9637,8 @@ Eskalationsmarker im Text.
 
 ---
 
-## #7541 — Lois Hertz (drlhertz@gmail.com) — Erstkontakt, „How do I fix it?"
+## #7541 — Lois Hertz (drlhertz@gmail.com) — Erstkontakt, „How do I fix it?"  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: 2 days order 7541
 
@@ -9604,7 +9694,8 @@ und **keine Aussage darüber, ob das Spielzeug hätte halten sollen.** **Keine
 Frist genannt** — sie hat keine Rückgabe unter der Garantie verlangt. Keine
 Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
-## #7048 — Josephine Carr (jocarr247@yahoo.com) — ⚠️ 30 % angeboten, obwohl die Ware ungeöffnet ist
+## #7048 — Josephine Carr (jocarr247@yahoo.com) — ⚠️ 30 % angeboten, obwohl die Ware ungeöffnet ist  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: #7048
 
@@ -9785,7 +9876,8 @@ bestätigt noch bestritten.** **Keine Auswertung der Fotos**, keine Aussage zur
 Haltbarkeit, **keine Aussage über seinen Hund.** **Keine Frist genannt.** Keine
 Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
-## #7989 — Karen Reynolds (House54@outlook.com.au) — zweite Fassung, neuer Thread nach 24 Stunden Schweigen
+## #7989 — Karen Reynolds (House54@outlook.com.au) — zweite Fassung, neuer Thread nach 24 Stunden Schweigen  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Missing Item.
 
@@ -9861,7 +9953,8 @@ Zusteller**, keine Deutung des Trackings gegen sie. **Keine Aussage zur
 australischen Rechtslage** — sie hat nicht danach gefragt. **Kein Foto
 ausgewertet.** Kein Eskalationsmarker im Text.
 
-## #6311 — Garth Callaghan (garthcallaghan93@gmail.com) — ⚠️⚠️ zweite unabhängige Facebook-Ersatzzusage, sechster AU-Fall
+## #6311 — Garth Callaghan (garthcallaghan93@gmail.com) — ⚠️⚠️ zweite unabhängige Facebook-Ersatzzusage, sechster AU-Fall  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Dog Toys
 
@@ -9939,7 +10032,8 @@ des zweiten Stücks** — gefragt, nicht unterstellt. **Keine Auswertung der
 Fotos**, keine Aussage zur Haltbarkeit, **keine Aussage über seinen Hund.**
 Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
-## #7815 — Angela Stevens (angedave@bigpond.net.au) — siebter AU-Fall, sie stellt zwei Optionen zur Wahl
+## #7815 — Angela Stevens (angedave@bigpond.net.au) — siebter AU-Fall, sie stellt zwei Optionen zur Wahl  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Re order 7815
 
@@ -10274,7 +10368,8 @@ keine Bedingung daran geknüpft. Kein Eskalationsmarker im Text.
 
 ---
 
-## #8295 — Ivan Griffen (griffenivan@gmail.com) — dritte Fassung, jetzt mit eigener Frist
+## #8295 — Ivan Griffen (griffenivan@gmail.com) — dritte Fassung, jetzt mit eigener Frist  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #8295
 
@@ -10330,7 +10425,8 @@ eigenen Frist (23.09.)** und die Zusage, dass er nicht von vorn anfangen muss.
 offen benannt. **Keine Verweisung an den Zusteller**, und **keine Bewertung
 seiner Aussage über den Zusteller.** Kein Eskalationsmarker im Text.
 
-## #6384 — Simon Foord (simonfoord@me.com) — zweite Fassung, „not fit for purpose"
+## #6384 — Simon Foord (simonfoord@me.com) — zweite Fassung, „not fit for purpose"  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order 6384
 
@@ -10452,7 +10548,8 @@ Hund.** Kein Eskalationsmarker im Text.
 
 ---
 
-## #7560 — Samantha (sammyv@live.co.uk) — höfliche Lieferfrage, 15 Tage ohne Nachricht
+## #7560 — Samantha (sammyv@live.co.uk) — höfliche Lieferfrage, 15 Tage ohne Nachricht  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: A shipment from order #7560 is on the way
 
@@ -10630,7 +10727,8 @@ Text.
 
 ---
 
-## #7168 — Phillip Hockley (philnsarahhockley@gmail.com) — Erstkontakt, operative Frage
+## #7168 — Phillip Hockley (philnsarahhockley@gmail.com) — Erstkontakt, operative Frage  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #7168 confirmed
 
@@ -10769,7 +10867,8 @@ der Bestellung vorgenommen.** Kein Eskalationsmarker im Text.
 
 ---
 
-## #8002 — Thomas Robinson (thomas2788work@gmail.com) — ⚠️ zweites wörtlich belegtes Zitat aus der Produktseite
+## #8002 — Thomas Robinson (thomas2788work@gmail.com) — ⚠️ zweites wörtlich belegtes Zitat aus der Produktseite  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Plushies – Designed for Furry Friends Who Destroy Everything
 
@@ -10836,7 +10935,8 @@ Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
 ---
 
-## #8406 — Joyce Abdalla (jva0259@gmail.com) — ⚠️ gemeldete Aufnahme eines Teils durch den Hund
+## #8406 — Joyce Abdalla (jva0259@gmail.com) — ⚠️ gemeldete Aufnahme eines Teils durch den Hund  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order 8406
 
@@ -10900,7 +11000,8 @@ keine Handlungsempfehlung**, nur der Hinweis, dass dies zum Tierarzt gehört.
 **Keine Aussage dazu, ob die Werbeaussage zutrifft.** **Keine Auswertung des
 Fotos.** Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
-## #8295 — Ivan Griffen (griffenivan@gmail.com) — vierte Fassung, ⛔ sechster Kontakt, dritter Thread
+## #8295 — Ivan Griffen (griffenivan@gmail.com) — vierte Fassung, ⛔ sechster Kontakt, dritter Thread  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #8295
 
@@ -10978,7 +11079,8 @@ Liefertermin, keine Wartefrist.** **Keine Verweisung an den Zusteller.**
 **Keine Bewertung seiner Aussage über den Zusteller** über das hinaus, was in
 unserer eigenen Mail vom 08.09. steht. Kein Eskalationsmarker im Text.
 
-## #8312 — Paul Beaver (mrpbeaver@gmail.com) — ⛔ zehnter unbenutzter Fall, dazu eine Sicherheitssorge
+## #8312 — Paul Beaver (mrpbeaver@gmail.com) — ⛔ zehnter unbenutzter Fall, dazu eine Sicherheitssorge  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #8312
 
@@ -11053,7 +11155,8 @@ Fotos.** Frist nur mit **30 Tagen** benannt. Kein Eskalationsmarker im Text.
 
 ---
 
-## #7472 — Francisco Almazan (falmazan2@gmail.com) — Erstkontakt, ⚠️ Größenbeanstandung
+## #7472 — Francisco Almazan (falmazan2@gmail.com) — Erstkontakt, ⚠️ Größenbeanstandung  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: A shipment from order #7472 is on the way
 
@@ -11116,7 +11219,8 @@ ausdrücklich nicht zur Bedingung gemacht.** Keine Aussage zur Haltbarkeit, kein
 zur Werbung. Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im
 Text.
 
-## #8407 — Susan (susaninshepton@gmail.com) — Erstkontakt, zweites Stück unbekannt
+## #8407 — Susan (susaninshepton@gmail.com) — Erstkontakt, zweites Stück unbekannt  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Indestructible toy
 
@@ -11918,7 +12022,8 @@ dazu, ob die Werbeaussage zutrifft.** Kein Eskalationsmarker im Text.
 
 ---
 
-## #7625 — Erin Browning (ebrowningrn2@yahoo.com) — zweite Fassung, Erstattung verlangt
+## #7625 — Erin Browning (ebrowningrn2@yahoo.com) — zweite Fassung, Erstattung verlangt  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: A shipment from order #7625 is on the way
 
@@ -11983,7 +12088,8 @@ zutrifft.** **Keine Annahme über die zwei anderen Artikel.** **Keine
 Auswertung der Fotos.** Keine Rücksendeadresse, samt Warnung. Kein
 Eskalationsmarker im Text.
 
-## #7275 — Nathan Corcoran (schreibt von natcor1972@gmail.com) — zweite Fassung, neuer Thread nach 43 Stunden
+## #7275 — Nathan Corcoran (schreibt von natcor1972@gmail.com) — zweite Fassung, neuer Thread nach 43 Stunden  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Not indestructible
 
@@ -12050,7 +12156,8 @@ Bestelldaten** — die Zuordnung ist weiterhin ungesichert, und das wird ihm
 offen gesagt. **Keine rechtliche Bewertung**; die AU-Passage wird zitiert, nicht
 ausgelegt. **Keine Auswertung der Fotos.** Kein Eskalationsmarker im Text.
 
-## #8337 — Cheryl Tagg (cheryldalby@live.co.uk) — Plüschtier nach keinen 24 Stunden zerstört, Erstattung verlangt
+## #8337 — Cheryl Tagg (cheryldalby@live.co.uk) — Plüschtier nach keinen 24 Stunden zerstört, Erstattung verlangt  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #8337 confirmed
 
@@ -12107,7 +12214,8 @@ Versanddienstleister, keine Herkunftsangabe, keine Rücksendeadresse erfunden**
 (die Nicht-Existenz wird ihr ausdrücklich gesagt, damit sie nichts auf eigene
 Kosten verschickt). Kein Eskalationsmarker im Text.
 
-## #7479 — Richard Bellamy-Williams (richard@brownwolf.net) — fünfte Fassung, Frist 21.09.
+## #7479 — Richard Bellamy-Williams (richard@brownwolf.net) — fünfte Fassung, Frist 21.09.  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Refund request and business address request
 
@@ -12236,7 +12344,8 @@ Rekonstruktion, welche Anzeige sie gesehen hat.** **Keine Rücksendeadresse
 erfunden.** **Keine Umrechnung** zwischen der GBP-Bestellsumme und dem, was ihre
 Karte in AUD zeigt. Kein Eskalationsmarker im Text.
 
-## #8372 — Kerri Forbey (wollenzienk@hotmail.com) — US, nach der Vorlagen-Absage von 09:55 UTC
+## #8372 — Kerri Forbey (wollenzienk@hotmail.com) — US, nach der Vorlagen-Absage von 09:55 UTC  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Paw friends plushies
 
@@ -12416,7 +12525,8 @@ auf den Versanddienstleister.** Die Herkunftsangabe vom 13.09. wird **weder
 zurückgenommen noch beschönigt**, aber auch nicht als Entschuldigung für die
 zehn Tage benutzt. Kein Eskalationsmarker im Text.
 
-## #7457 — Sheree McGowan (shereemcg@gmail.com) — US, Erstkontakt, Nähte nach anderthalb Tagen offen
+## #7457 — Sheree McGowan (shereemcg@gmail.com) — US, Erstkontakt, Nähte nach anderthalb Tagen offen  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: refund
 
@@ -12468,7 +12578,8 @@ Bestellung. **Kein Widerspruch zu ihrer Beschreibung der Artikel** („a monkey
 and a duck"); die Bestellzeilen führen keine Variante, also wird sie nicht
 korrigiert. Kein Eskalationsmarker im Text.
 
-## #7347 — Jill Hibbs (hibbsjill@yahoo.com) — zweite Fassung, zweimal abgelehnt für etwas, das sie nie getan hat
+## #7347 — Jill Hibbs (hibbsjill@yahoo.com) — zweite Fassung, zweimal abgelehnt für etwas, das sie nie getan hat  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #7347 confirmed
 
@@ -12642,7 +12753,8 @@ Rücksendeadresse erfunden.** **Kein Versuch, ihn von Trading Standards, der
 Kreditkartenfirma oder öffentlichen Beiträgen abzubringen**, und nichts daran
 geknüpft. **Keine rechtliche Bewertung.** Kein Eskalationsmarker im Text.
 
-## #8142 — Wendy Price (wendyprice579@gmail.com) — Erstkontakt, GB
+## #8142 — Wendy Price (wendyprice579@gmail.com) — Erstkontakt, GB  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Defective
 
@@ -12692,7 +12804,8 @@ erfunden.** **Kein Hinweis auf den Versanddienstleister, keine Herkunftsangabe.*
 **Keine Bewertung der von ihr erwähnten Bewertungen** („considering the
 reviews"). Kein Eskalationsmarker im Text.
 
-## #5148 — Trudi Wright (truditrotter67@icloud.com) — Trading Standards, Erstattung dreimal als ausgeführt gemeldet
+## #5148 — Trudi Wright (truditrotter67@icloud.com) — Trading Standards, Erstattung dreimal als ausgeführt gemeldet  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Plushies
 
@@ -12750,7 +12863,8 @@ dass sie **nicht verzeichnet** ist. **Keine Rücksendeadresse erfunden.** **Kein
 Versuch, sie von Trading Standards abzubringen**, und nichts daran geknüpft.
 **Keine rechtliche Bewertung.** Kein Eskalationsmarker im Text.
 
-## #7608 — Patricia Arenella (patty.arenella@gmail.com) — US, Werbung, fehlender Gratisartikel, Sorge wegen der Füllung
+## #7608 — Patricia Arenella (patty.arenella@gmail.com) — US, Werbung, fehlender Gratisartikel, Sorge wegen der Füllung  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #7608 confirmed
 
@@ -12869,7 +12983,8 @@ wird benannt, aber **nicht gegen ihn verwendet**. **Kein Versuch, ihn von
 öffentlichen Äußerungen abzubringen.** **Keine Rücksendeaufforderung**, es gibt
 keine Adresse. **Keine rechtliche Bewertung.** Kein Eskalationsmarker im Text.
 
-## #8080 — Ryan Beam (mclmm187@gmail.com) — US, Sendungsnummer läuft auf Fehler
+## #8080 — Ryan Beam (mclmm187@gmail.com) — US, Sendungsnummer läuft auf Fehler  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Tracking number
 
@@ -12914,7 +13029,8 @@ keine Aufforderung, selbst nachzuforschen. **Keine Herkunftsangabe.** **Keine
 Spekulation, warum die Nummer einen Fehler zeigt.** **Keine Umrechnung** — es
 wird kein Betrag genannt, weil keiner nötig ist. Kein Eskalationsmarker im Text.
 
-## #8669 — Chad Lovell (havoc17@aol.com) — Stornierung elf Minuten nach der Bestellung, nichts versandt
+## #8669 — Chad Lovell (havoc17@aol.com) — Stornierung elf Minuten nach der Bestellung, nichts versandt  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: How do I cancel my order
 
@@ -13044,7 +13160,8 @@ weder des Belegs noch des Produktfotos. **Keine Deutung seiner Formulierung.**
 Rücksendeadresse erfunden.** **Keine Umrechnung** — 38,90 $ ist der Betrag in
 seiner Währung auf der Bestellung. Kein Eskalationsmarker im Text.
 
-## #7771 — Barb Fitzgerald (justbcuz7025@yahoo.com) — US, fünfter Kontakt, Versandauskunft vom 01.09. war unzutreffend
+## #7771 — Barb Fitzgerald (justbcuz7025@yahoo.com) — US, fünfter Kontakt, Versandauskunft vom 01.09. war unzutreffend  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: order #7771
 
@@ -13108,7 +13225,8 @@ Herkunftsangabe.** **Keine Rücksendeadresse erfunden.** **Keine Umrechnung** �
 38,87 $ ist der Betrag in ihrer Währung auf der Bestellung. Kein
 Eskalationsmarker im Text.
 
-## #7440 — Aaron Kell (aaron.kell30@gmail.com) — US, Erstkontakt, „no dog has ever destroyed one"
+## #7440 — Aaron Kell (aaron.kell30@gmail.com) — US, Erstkontakt, „no dog has ever destroyed one"  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Toy destroyed
 
@@ -13161,7 +13279,8 @@ Füllmaterial oder Sicherheit** — er hat keine erwähnt. **Keine
 Rücksendeadresse erfunden.** **Keine Umrechnung** — 38,90 $ ist der Betrag in
 seiner Währung auf der Bestellung. Kein Eskalationsmarker im Text.
 
-## jscalera1@aol.com — zwei Meldungen binnen 36 Minuten, Bestellung nicht zuzuordnen
+## jscalera1@aol.com — zwei Meldungen binnen 36 Minuten, Bestellung nicht zuzuordnen  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Stuffed Animal / Another one destroyed
 
@@ -13394,7 +13513,8 @@ Versanddienstleister, keine Herkunftsangabe** — und **keine Rechtfertigung der
 Lieferzeit**, die er selbst hat durchgehen lassen. Kein Eskalationsmarker im
 Text.
 
-## #7479 — Richard Bellamy-Williams (richard@brownwolf.net) — **sechste Fassung, Frist läuft heute ab**
+## #7479 — Richard Bellamy-Williams (richard@brownwolf.net) — **sechste Fassung, Frist läuft heute ab**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Refund request and business address request
 
@@ -13454,7 +13574,8 @@ zustimmend noch ablehnend. **Keine Rücksendeadresse erfunden.** **Kein Versuch,
 ihn von Beschwerden oder Meldungen abzubringen**, und nichts daran geknüpft.
 Kein Eskalationsmarker im Text.
 
-## #7828 — Jim Edwards (jimandsue.je@gmail.com) — GB, Erstkontakt, „How do I claim my refund"
+## #7828 — Jim Edwards (jimandsue.je@gmail.com) — GB, Erstkontakt, „How do I claim my refund"  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Donkey toy.
 
@@ -13602,7 +13723,8 @@ Fotobedingung.** **Keine Rücksendeadresse erfunden.** **Keine Umrechnung** —
 38,46 $ ist der Betrag in seiner Währung auf der Bestellung. Kein
 Eskalationsmarker im Text.
 
-## #5310 — Heather Taylor (bhjdc5@gmail.com) — US, geht davon aus, die Erstattung laufe bereits
+## #5310 — Heather Taylor (bhjdc5@gmail.com) — US, geht davon aus, die Erstattung laufe bereits  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Refund request - order #5310
 
@@ -13710,7 +13832,8 @@ keine Fotobedingung.** **Keine Rücksendeadresse erfunden.** **Kein Hinweis auf
 den Versanddienstleister, keine Herkunftsangabe.** Kein Eskalationsmarker im
 Text.
 
-## #7749 — Adrian Vincent-Janes (adrian@vincent-janes.com) — GB, verlangt Erstattung **und** ein Rücksendeetikett, dazu Sicherheitssorge
+## #7749 — Adrian Vincent-Janes (adrian@vincent-janes.com) — GB, verlangt Erstattung **und** ein Rücksendeetikett, dazu Sicherheitssorge  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: A shipment from order #7749 is on the way
 
@@ -13818,7 +13941,8 @@ zugesagt, kein Betrag zugesagt, kein Termin, keine Absage.** **Keine Aussage
 übergehen. **Keine Bitte, die Bewertung zu ändern oder zu entfernen.** **Keine
 Rekonstruktion der Anzeige.** Kein Eskalationsmarker im Text.
 
-## #7472 — Francisco Almazan (falmazan2@gmail.com) — zweite Fassung, Fotos nachgereicht
+## #7472 — Francisco Almazan (falmazan2@gmail.com) — zweite Fassung, Fotos nachgereicht  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: A shipment from order #7472 is on the way
 
@@ -13966,7 +14090,8 @@ die Plushies-Beschreibung keinen Garantietext enthält. **Keine Fotobedingung.**
 Betrag in seiner Währung auf der Bestellung; **die Trinkgeldposition wird nicht
 beziffert und nicht verrechnet.** Kein Eskalationsmarker im Text.
 
-## #7041 — Tim Fitton (schreibt von fittontim@gmail.com, Bestellung auf fitton@fitton.karoo.co.uk) — dritter Kontakt, **noch nie eine Antwort erhalten**
+## #7041 — Tim Fitton (schreibt von fittontim@gmail.com, Bestellung auf fitton@fitton.karoo.co.uk) — dritter Kontakt, **noch nie eine Antwort erhalten**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #7041 confirmed
 
@@ -14087,7 +14212,8 @@ Rekonstruktion der Anzeige.** **Keine Auswertung des Fotos, keins verlangt.**
 **Keine Rücksendeadresse erfunden.** **Keine Umrechnung** — 41,68 $ ist der
 Betrag in ihrer Währung auf der Bestellung. Kein Eskalationsmarker im Text.
 
-## #2894 — Jeff Hughes (jeff.hughes@yahoo.co.uk) — ⛔ **defekt geliefert, Ersatz am 24.07. schriftlich zugesagt, nie versandt, achter Nachfasser**
+## #2894 — Jeff Hughes (jeff.hughes@yahoo.co.uk) — ⛔ **defekt geliefert, Ersatz am 24.07. schriftlich zugesagt, nie versandt, achter Nachfasser**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order Number 2894
 
@@ -14278,7 +14404,8 @@ Anlass** — sie hat sie heute nicht erwähnt. **Keine Aussage zur
 Materialsicherheit.** **Keine Rücksendeadresse erfunden.** **Keine
 Umrechnung.** Kein Eskalationsmarker im Text.
 
-## #3387 — Graeme Everett (graeme.everett@sky.com) — GB, Erstkontakt
+## #3387 — Graeme Everett (graeme.everett@sky.com) — GB, Erstkontakt  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Elephant toy
 
@@ -14324,7 +14451,8 @@ Behauptung, das Wort „indestructible" existiere nicht.** **Keine Rekonstruktio
 der Anzeige.** **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im
 Text.
 
-## #7989 — Karen Reynolds (House54@outlook.com.au) — ⛔ **Fehlmenge, beantwortet mit einer Kauschaden-Absage**
+## #7989 — Karen Reynolds (House54@outlook.com.au) — ⛔ **Fehlmenge, beantwortet mit einer Kauschaden-Absage**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Missing Item.
 
@@ -14403,7 +14531,8 @@ und eine Nachfass-Zusage. **Keine Erstattung zugesagt, kein Ersatz zugesagt,
 kein Betrag, kein Termin, keine dritte Absage.** **Keine Rücksendeadresse
 erfunden.** Kein Eskalationsmarker im Text.
 
-## #7048 — Jo Carr (jocarr247@yahoo.com) — 40 % angeboten, beruft sich auf „full refund"
+## #7048 — Jo Carr (jocarr247@yahoo.com) — 40 % angeboten, beruft sich auf „full refund"  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: #7048
 
@@ -14443,7 +14572,8 @@ Betrag, kein Termin, keine Absage.** **Kein Versuch, sie zum Prozentangebot zu
 überreden.** **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im
 Text.
 
-## #8295 — Ivan Griffen (griffenivan@gmail.com) — fünfte Fassung, Frist 23.09.
+## #8295 — Ivan Griffen (griffenivan@gmail.com) — fünfte Fassung, Frist 23.09.  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #8295
 
@@ -14570,7 +14700,8 @@ Betrag, kein Termin, keine Absage, keine Vorlagen-Antwort.** **Keine Auswertung
 des Anhangs, keiner verlangt.** **Keine Behauptung, das Wort existiere nicht.**
 **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
 
-## #6254 — David Hickman (davehickman71@gmail.com) — ⛔ **zwei ungeöffnete Artikel, weil die Vorlage ihn darauf hingewiesen hat**
+## #6254 — David Hickman (davehickman71@gmail.com) — ⛔ **zwei ungeöffnete Artikel, weil die Vorlage ihn darauf hingewiesen hat**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: A shipment from order #6254 is on the way
 
@@ -14718,7 +14849,8 @@ ihre Aufgabe ist. **Keine Aussage darüber, welcher Dienstleister das Paket
 hatte.** **Keine Deutung ihrer Meldung als Erstattungsforderung.** Kein
 Eskalationsmarker im Text.
 
-## #7898 — Tammy Brentlinger (pitbulladvocate@live.com) — US, Erstkontakt, volle Erstattung verlangt
+## #7898 — Tammy Brentlinger (pitbulladvocate@live.com) — US, Erstkontakt, volle Erstattung verlangt  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Dog Toys
 
@@ -14827,7 +14959,8 @@ einer anderen Adresse als der auf der Bestellung hinterlegten (siehe Log).
 Umrechnung** — der Bestellbetrag ist in US-Dollar verzeichnet. Kein
 Eskalationsmarker im Text.
 
-## #7168 — Phillip Hockley (philnsarahhockley@gmail.com) — GB, ⛔ **Vorlage mit „Dear Customer", verlangt ausdrücklich Eskalation**
+## #7168 — Phillip Hockley (philnsarahhockley@gmail.com) — GB, ⛔ **Vorlage mit „Dear Customer", verlangt ausdrücklich Eskalation**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #7168 confirmed
 
@@ -14893,7 +15026,8 @@ sagen, er habe sich verlesen.** **Keine Bestätigung und keine Bestreitung zur
 Bewertungsanzeige der Website.** **Keine Rücksendeadresse erfunden.** **Der
 Anhang (IMG_3096.jpeg) wurde nicht geöffnet.** Kein Eskalationsmarker im Text.
 
-## #2852 — John Conrad (jmconrad417@gmail.com) — US, Erstkontakt, 🟦 **nennt eine Facebook-Anzeige als Quelle der Garantie**
+## #2852 — John Conrad (jmconrad417@gmail.com) — US, Erstkontakt, 🟦 **nennt eine Facebook-Anzeige als Quelle der Garantie**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #2852 confirmed
 
@@ -14950,7 +15084,8 @@ verlangt** — die Ware ist entsorgt, und das wird nicht gegen ihn verwendet.
 **Keine Rücksendeadresse erfunden.** **Keine Umrechnung** — 47,76 $ ist der
 presentment-Betrag. Kein Eskalationsmarker im Text.
 
-## #8142 — Wendy Price (wendyprice579@gmail.com) — GB, ⛔ **zweiter Kontakt, bisher keine einzige Antwort**
+## #8142 — Wendy Price (wendyprice579@gmail.com) — GB, ⛔ **zweiter Kontakt, bisher keine einzige Antwort**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Defective
 
@@ -15331,7 +15466,8 @@ Namen angesprochen, mit dem er unterschrieben hat** (die Bestellung lautet auf
 einen anderen Vornamen — **nicht geraten, nicht angesprochen**). Kein
 Eskalationsmarker im Text.
 
-## #5036 — Lynette Lumley (lynette_lumley@hotmail.com) — GB, ⛔🔴 **nie zugestellt, dritte unbeantwortete Nachfrage, Ombudsman angekündigt**
+## #5036 — Lynette Lumley (lynette_lumley@hotmail.com) — GB, ⛔🔴 **nie zugestellt, dritte unbeantwortete Nachfrage, Ombudsman angekündigt**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #5036 confirmed - Refund email x 3
 
@@ -15481,7 +15617,8 @@ Behauptung, die Bedingung sei unwirksam — und keine, sie sei wirksam.** **Foto
 nicht geöffnet**, und das wird ihr gesagt. **Keine Rücksendeadresse erfunden.**
 Kein Eskalationsmarker im Text.
 
-## #8126 — Joanne Wurth (jwurthy@gmail.com) — **AU**, Erstkontakt, Ware heute angekommen
+## #8126 — Joanne Wurth (jwurthy@gmail.com) — **AU**, Erstkontakt, Ware heute angekommen  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order 8126
 
@@ -15623,7 +15760,8 @@ nie geantwortet worden** — es wird genau gesagt, was er wann bekommen hat.
 **Fotos nicht geöffnet.** **Keine Rücksendeadresse erfunden.** Kein
 Eskalationsmarker im Text.
 
-## #7347 — Jill Hibbs (hibbsjill@yahoo.com) — GB, ⛔ **dritte Bitte, den unbeschädigten Fluffy zurückzugeben, dritte Vorlagen-Absage**
+## #7347 — Jill Hibbs (hibbsjill@yahoo.com) — GB, ⛔ **dritte Bitte, den unbeschädigten Fluffy zurückzugeben, dritte Vorlagen-Absage**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #7347 confirmed
 
@@ -15672,7 +15810,8 @@ vierte Vorlage.** **Keine rechtliche Bewertung.** **Keine Behauptung, damit sei
 die Sache entschieden.** **Keine Rücksendeadresse erfunden.** Kein
 Eskalationsmarker im Text.
 
-## #8312 — Paul Beaver (mrpbeaver@gmail.com) — GB, ⛔ **die Vorlage erzeugt zum zweiten Mal einen Rückgabefall**
+## #8312 — Paul Beaver (mrpbeaver@gmail.com) — GB, ⛔ **die Vorlage erzeugt zum zweiten Mal einen Rückgabefall**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #8312
 
@@ -15712,7 +15851,8 @@ keine Absage, keine zweite Vorlage.** **Keine Rücksendeadresse erfunden.**
 **Keine Deutung seiner Bitte über das hinaus, was er geschrieben hat.** Kein
 Eskalationsmarker im Text.
 
-## #5310 — Heather Taylor (bhjdc5@gmail.com) — US, ⛔ **„Please let me know when this is processed" — beantwortet mit einer Absage**
+## #5310 — Heather Taylor (bhjdc5@gmail.com) — US, ⛔ **„Please let me know when this is processed" — beantwortet mit einer Absage**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Refund request - order #5310
 
@@ -15924,7 +16064,8 @@ Erstattung zugesagt, kein Liefertermin genannt, keine Absage.** **Keine Aussage
 darüber, wo das Paket ist.** **Keine Deutung ihrer Nachricht als Forderung.**
 Kein Eskalationsmarker im Text.
 
-## #7608 — Patricia Arenella (patty.arenella@gmail.com) — US, ⛔ **„buy one get one free, which I never received"**
+## #7608 — Patricia Arenella (patty.arenella@gmail.com) — US, ⛔ **„buy one get one free, which I never received"**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #7608 confirmed
 
@@ -16336,7 +16477,8 @@ ihre Hunde, ihr Kauverhalten oder darüber, was „soft mouthed" bedeuten soll.*
 **Keine Behauptung darüber, was die Anzeige gesagt hat.** **Keine
 Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
 
-## #8372 — Kerri Forbey (wollenzienk@hotmail.com) — US, ⛔ **zweimal eine Kauschaden-Absage für einen Schaden, den es nie gab**
+## #8372 — Kerri Forbey (wollenzienk@hotmail.com) — US, ⛔ **zweimal eine Kauschaden-Absage für einen Schaden, den es nie gab**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Paw friends plushies
 
@@ -16392,7 +16534,8 @@ touching them") weder bestätigt noch als verfrüht abgetan.** **Keine
 Umrechnung** — 96,89 $ ist der presentment-Betrag. Kein Eskalationsmarker im
 Text.
 
-## #7479 — Richard Bellamy-Williams (richard@brownwolf.net) — GB, 🔴 **lehnt die 30 % ab und bleibt bei der Erstattung**
+## #7479 — Richard Bellamy-Williams (richard@brownwolf.net) — GB, 🔴 **lehnt die 30 % ab und bleibt bei der Erstattung**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: FW: Refund request and business address request
 
@@ -16623,7 +16766,8 @@ nur Bescheid geben. **Keine rechtliche Bewertung.** **Keine Behauptung, das Wort
 Rücksendeadresse erfunden.** **Keine Umrechnung** — 54,25 A$ ist der
 presentment-Betrag. Kein Eskalationsmarker im Text.
 
-## #8142 — Wendy Price (wendyprice579@gmail.com) — GB, ⛔🔴 **dritter Kontakt, noch immer keine Antwort, Bank und Bewertung angekündigt**
+## #8142 — Wendy Price (wendyprice579@gmail.com) — GB, ⛔🔴 **dritter Kontakt, noch immer keine Antwort, Bank und Bewertung angekündigt**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: FW: RE: FW: Defective
 
@@ -16684,7 +16828,8 @@ von Bank oder Bewertung abzubringen**, und nichts davon abhängig gemacht.
 Bestätigung und keine Bestreitung zur Bewertungsanzeige.** **Kein Foto
 verlangt.** **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
 
-## #7831 — Mary Hollerich (mhollerich89@gmail.com) — US, Erstkontakt, **volle Erstattung verlangt**
+## #7831 — Mary Hollerich (mhollerich89@gmail.com) — US, Erstkontakt, **volle Erstattung verlangt**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Items
 
@@ -16784,7 +16929,8 @@ Behauptung, das Wort „indestructible" existiere nicht.** **Keine Rekonstruktio
 der Anzeige.** **Foto nicht geöffnet**, und das wird ihm gesagt. **Keine
 Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
 
-## #7048 — Josephine Carr (jocarr247@yahoo.com) — GB, ⛔ **vierter Kontakt, will an eine „UK department" zurücksenden, die es nicht gibt**
+## #7048 — Josephine Carr (jocarr247@yahoo.com) — GB, ⛔ **vierter Kontakt, will an eine „UK department" zurücksenden, die es nicht gibt**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: #7048
 
@@ -17028,7 +17174,8 @@ Vorlage.** **Keine Behauptung, das Wort „indestructible" existiere nicht.**
 Rücksendeadresse erfunden.** **Keine Umrechnung.** Kein Eskalationsmarker im
 Text.
 
-## #8432 — Colin Teager (tiggerbcfc@gmail.com) — GB, fragt nach dem Verbleib der Sendung
+## #8432 — Colin Teager (tiggerbcfc@gmail.com) — GB, fragt nach dem Verbleib der Sendung  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: A shipment from order #8432 is on the way
 
@@ -17133,7 +17280,8 @@ nicht gehalten wurde. **Keine Begründung oder Entschuldigung erfunden.**
 zurückschicken muss, wird bestätigt, **und keine Rücksendeadresse erfunden.**
 **Foto nicht geöffnet.** Kein Eskalationsmarker im Text.
 
-## #7608 — Patricia Arenella (patty.arenella@gmail.com) — US, **neuer Thread, dritter Anlauf**
+## #7608 — Patricia Arenella (patty.arenella@gmail.com) — US, **neuer Thread, dritter Anlauf**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Damaged toy order 7608. Please refund
 
@@ -17188,7 +17336,8 @@ aufgegriffen**, und **nichts zur Materialsicherheit gesagt.** **Keine
 Rücksendeadresse erfunden.** **Keine Umrechnung.** Kein Eskalationsmarker im
 Text.
 
-## #8456 — Cath Livesey (cath.lives@icloud.com) — GB, Erstkontakt, **Rückgabe und volle Erstattung verlangt**
+## #8456 — Cath Livesey (cath.lives@icloud.com) — GB, Erstkontakt, **Rückgabe und volle Erstattung verlangt**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: ORDER 8456
 
@@ -17238,7 +17387,8 @@ oder andere Richtung.** **Keine Rücksendeadresse erfunden.** **Ihre
 Telefonnummer wird nicht verwendet und nicht erwähnt.** Kein Eskalationsmarker
 im Text.
 
-## #7749 — Adrian Vincent-Janes (adrian@vincent-janes.com) — GB, ⛔ **Trading Standards angekündigt; Rücksendeetikett verlangt; Sicherheitshinweis zum zweiten Mal**
+## #7749 — Adrian Vincent-Janes (adrian@vincent-janes.com) — GB, ⛔ **Trading Standards angekündigt; Rücksendeetikett verlangt; Sicherheitshinweis zum zweiten Mal**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: A shipment from order #7749 is on the way
 
@@ -17547,7 +17697,8 @@ einem öffentlichen Beitrag abzubringen**, nichts davon abhängig gemacht, und
 nicht.** **Keine Rekonstruktion der Anzeige.** **Keine Aussage zur Qualität.**
 **Kein Foto verlangt.** Kein Eskalationsmarker im Text.
 
-## #8142 — Wendy Price (wendyprice579@gmail.com) — GB, **vierter Kontakt: erste Antwort nach fünf Tagen war die Kauschaden-Vorlage**
+## #8142 — Wendy Price (wendyprice579@gmail.com) — GB, **vierter Kontakt: erste Antwort nach fünf Tagen war die Kauschaden-Vorlage**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: FW: Defective
 
@@ -17601,7 +17752,8 @@ behauptet, sie decke sie nicht.** **Kein Versuch, sie von Bank oder Bewertung
 abzubringen.** **Keine rechtliche Bewertung.** **Kein Foto verlangt.** Kein
 Eskalationsmarker im Text.
 
-## #7347 — Jill Hibbs (hibbsjill@yahoo.com) — GB, **lehnt das Prozentangebot zum zweiten Mal ab und will zurücksenden**
+## #7347 — Jill Hibbs (hibbsjill@yahoo.com) — GB, **lehnt das Prozentangebot zum zweiten Mal ab und will zurücksenden**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #7347 confirmed
 
@@ -17652,7 +17804,8 @@ Absage.** **Kein Anteil aus dem Bündelpreis geschätzt** — und gesagt, warum
 nicht. **Kein Nachweis und kein Foto verlangt.** **Keine Aussage zur Qualität.**
 **Kein Druck, das Angebot doch anzunehmen.** Kein Eskalationsmarker im Text.
 
-## #8372 — Kerri Forbey (wollenzienk@hotmail.com) — US, **dritte Kauschaden-Vorlage für Ware, die sie nie ausgepackt hat**
+## #8372 — Kerri Forbey (wollenzienk@hotmail.com) — US, **dritte Kauschaden-Vorlage für Ware, die sie nie ausgepackt hat**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Paw friends plushies
 
@@ -17792,7 +17945,8 @@ Herkunft der Sendung** — danach wurde nicht gefragt. **Die Bild-Anhänge stamm
 aus der Shopify-Versandmail und werden nicht geöffnet.** Kein
 Eskalationsmarker im Text.
 
-## #8781 — Glenn Yarbrough (glennyarbrough@gmail.com) — US, **Stornowunsch 21 Minuten nach der Bestellung, nichts versandt**
+## #8781 — Glenn Yarbrough (glennyarbrough@gmail.com) — US, **Stornowunsch 21 Minuten nach der Bestellung, nichts versandt**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #8781 confirmed
 
@@ -17954,7 +18108,8 @@ Herkunft der Sendung.** **Sie wird mit dem Namen angesprochen, mit dem sie
 unterschreibt** (die Bestellung lautet auf „Suzanne"). Kein Eskalationsmarker
 im Text.
 
-## #8781 — Glenn Yarbrough (glennyarbrough@gmail.com) — US, **zweiter Kontakt, fünf Stunden später, Stornofenster weiterhin offen**
+## #8781 — Glenn Yarbrough (glennyarbrough@gmail.com) — US, **zweiter Kontakt, fünf Stunden später, Stornofenster weiterhin offen**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #8781 confirmed
 
@@ -18256,7 +18411,8 @@ Anzeige.** **Das Foto wird nicht geöffnet**, nur sein Vorhandensein vermerkt.
 **Er wird mit dem Namen angesprochen, mit dem er unterschreibt** (die
 Lieferadresse lautet auf „Martin"). Kein Eskalationsmarker im Text.
 
-## #8312 — Paul Beaver (mrpbeaver@gmail.com) — GB, **dritte Bitte um Rückgabe, gestern erneut ein Prozentangebot**
+## #8312 — Paul Beaver (mrpbeaver@gmail.com) — GB, **dritte Bitte um Rückgabe, gestern erneut ein Prozentangebot**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #8312
 
@@ -18306,7 +18462,8 @@ keine Absage.** **Kein Anteil aus dem Bündelpreis geschätzt** — und gesagt,
 warum nicht. **Kein Nachweis, kein Foto verlangt.** **Keine Aussage zur
 Qualität, in keine Richtung.** Kein Eskalationsmarker im Text.
 
-## #8577 — Shirley McCutcheon (shirls_mc@hotmail.co.uk) — GB, Erstkontakt
+## #8577 — Shirley McCutcheon (shirls_mc@hotmail.co.uk) — GB, Erstkontakt  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Toys delivered
 
@@ -18667,7 +18824,8 @@ darüber, wie lange der Artikel hätte halten sollen, in keine Richtung.**
 über die Werbung behauptet** — sie hat sie nicht erwähnt. **Kein Foto
 verlangt**, ausdrücklich abbestellt. Kein Eskalationsmarker im Text.
 
-## #7048 — Josephine Carr (jocarr247@yahoo.com) — GB, **fünfter Kontakt, seit zwei Tagen unbeantwortet**
+## #7048 — Josephine Carr (jocarr247@yahoo.com) — GB, **fünfter Kontakt, seit zwei Tagen unbeantwortet**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: #7048
 
@@ -18829,7 +18987,8 @@ Haltbarkeit, in keine Richtung.** **Nichts über die Garantie behauptet** — si
 hat sie nicht angerufen. **Nichts über die Werbung behauptet** — sie hat sie
 nicht erwähnt. Kein Eskalationsmarker im Text.
 
-## #8573 — Alison Greaves (alisongreaves41@gmail.com) — GB, Erstkontakt
+## #8573 — Alison Greaves (alisongreaves41@gmail.com) — GB, Erstkontakt  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Indestructable toy
 
@@ -18886,7 +19045,8 @@ schon andere Spielzeuge zerstört hat** — ihre eigene Schilderung wird nicht
 gegen sie verwendet. **Kein Foto verlangt**, ausdrücklich abbestellt. Kein
 Eskalationsmarker im Text.
 
-## #8781 — Glenn Yarbrough (glennyarbrough@gmail.com) — US, **dritter Kontakt, 31 Stunden nach der ersten Bitte, Datensatz unverändert**
+## #8781 — Glenn Yarbrough (glennyarbrough@gmail.com) — US, **dritter Kontakt, 31 Stunden nach der ersten Bitte, Datensatz unverändert**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #8781 confirmed
 
@@ -19070,7 +19230,8 @@ Trading Standards abzubringen**, und nicht um Rücknahme gebeten. **Keine
 Aussage zur Qualität oder zu Konkurrenzprodukten**, die sie erwähnt hat. Kein
 Eskalationsmarker im Text.
 
-## #8574 — John Husk (`husky0877@googlemail.com`) — 26.09., Entwurf
+## #8574 — John Husk (`husky0877@googlemail.com`) — 26.09., Entwurf  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** `Re: Plushies — your message of 26 September`
 
@@ -19272,7 +19433,8 @@ Zustellbeleg zu benutzen.** **Ihre Telefonnummer aus der Signatur nicht benutzt
 und nicht erwähnt.** **Keine Kauschaden-Vorlage.** **Kein Prozentangebot.**
 **Keine Anweisung, was sie mit dem ungeöffneten Elefanten tun soll.**
 
-## #8568 — Allen Irvin (`allenirvin@aol.com`) — US, Erstkontakt, **fragt direkt nach dem Weg zur Erstattung**
+## #8568 — Allen Irvin (`allenirvin@aol.com`) — US, Erstkontakt, **fragt direkt nach dem Weg zur Erstattung**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** `Re: How do I get my money back`
 
@@ -19737,7 +19899,8 @@ Richtung.** **Kein Foto verlangt**, die beigefügten **nicht geöffnet.**
 **Keine Kauschaden-Vorlage, kein Prozentangebot.** Kein Eskalationsmarker im
 Text.
 
-## #7479 — Richard Bellamy (`richard@brownwolf.net`) — **lehnt 50 % ab, ruft die Garantie für den ungeöffneten Artikel an** · 28.09.
+## #7479 — Richard Bellamy (`richard@brownwolf.net`) — **lehnt 50 % ab, ruft die Garantie für den ungeöffneten Artikel an** · 28.09.  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** `RE: FW: Refund request and business address request`
 
@@ -19893,7 +20056,8 @@ zwei Personen und die Nachricht ist nicht unterschrieben. **Keine Angaben aus
 dem Bestelldatensatz** — er ist derzeit nicht abrufbar. Kein
 Eskalationsmarker im Text.
 
-## #8142 — Wendy Price (`wendyprice579@gmail.com`) — **versiegelter Artikel dreimal übergangen** · 28.09.
+## #8142 — Wendy Price (`wendyprice579@gmail.com`) — **versiegelter Artikel dreimal übergangen** · 28.09.  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** `Re: FW: Defective`
 

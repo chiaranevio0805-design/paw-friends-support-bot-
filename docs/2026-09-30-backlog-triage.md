@@ -576,3 +576,80 @@ Verbraucherrechts-Zitat).
 - **Keine Erstattung, keine Stornierung ausgeführt.**
 - **⚠️ OFFEN: vollständige Durchsicht der Entwurfsdatei auf veraltete
   Dubletten.**
+
+---
+
+## Lauf 12:20 UTC
+
+**Posteingang: nichts Neues.** **Stattdessen habe ich die im 11:20-Lauf als
+offen benannte Durchsicht der Entwurfsdatei begonnen — und das Ergebnis ist
+erheblich schlimmer, als ich es dort beschrieben habe.**
+
+# 🟥🟥 DIE ENTWURFSDATEI ENTHÄLT MASSENHAFT VERALTETE DUBLETTEN
+
+**Auswertung über alle 422 Entwürfe, nach Bestellnummer bzw. E-Mail-Adresse
+gruppiert:**
+
+| Befund | Zahl |
+|---|---|
+| **Kunden mit MEHR ALS EINEM Entwurf** | **98** |
+| davon mit **ungekennzeichneten älteren Entwürfen** (vor dieser Prüfung) | **95** |
+| **Spitzenreiter: #7479** | **neun Entwürfe** |
+| #7048 | sieben |
+| #7347 · #8295 · #8142 | je sechs |
+| #7547 · #7608 · #8372 | je fünf |
+
+**Im 11:20-Lauf habe ich geschrieben, das könne „bei jedem Kunden mit
+mehreren Kontakten dasselbe vorliegen".** **Das war zu vorsichtig
+formuliert: es liegt bei 95 von 98 solchen Kunden vor.**
+
+**Was das für die Zahl bedeutet, die ich täglich melde:** **„422 Entwürfe"
+ist NICHT die Zahl der versendbaren Antworten.** **Es ist die Zahl der
+geschriebenen Texte, und ein erheblicher Teil davon ist durch spätere
+Fassungen überholt.** **Diese Einschränkung fehlte in allen bisherigen
+Reports, und sie gehört ab sofort dazu.**
+
+## Was ich getan habe — und was ausdrücklich NICHT
+
+**Getan:** **in jeden älteren Entwurf eines Kunden mit mehreren Entwürfen
+wurde direkt unter die Überschrift ein neutraler Warnhinweis gesetzt:**
+
+> **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN
+> Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+
+**164 Hinweise gesetzt.** **Kein Text gelöscht, kein Text verändert, nichts
+umformuliert** — der Hinweis ist additiv, und die Datei ist über git
+jederzeit wiederherstellbar (Sicherungskopie zusätzlich im Scratchpad).
+
+**NICHT getan: ich habe die älteren Entwürfe NICHT pauschal als „ERSETZT"
+markiert.** **Begründung:** **mehrere Entwürfe zu einer Bestellnummer sind
+nicht automatisch Dubletten.** Es kann sich um **zwei verschiedene Threads
+desselben Kunden** handeln, um **zwei getrennte Anliegen**, oder um einen
+Entwurf, der noch gilt, weil der neuere ein anderes Thema betrifft. **Eine
+pauschale Ersetzt-Markierung würde behaupten, was ich nicht geprüft habe,
+und könnte dazu führen, dass ein Entwurf unterdrückt wird, der gesendet
+gehört.** **Der Warnhinweis sagt nur, was nachweislich stimmt: es gibt einen
+neueren.**
+
+**Die vierzehn bereits geprüften Fälle behalten ihre ausdrückliche
+Ersetzt-Markierung** (#8577 ×2, #7898, #8568, #7831, #4055, #7048, #8431,
+`hud@`/#7091, und die fünf #7401-Dubletten).
+
+## Was offen bleibt
+
+**Die inhaltliche Einzelprüfung der 98 Kunden steht weiterhin aus.** **Sie
+ist von hier aus in einem Lauf nicht leistbar** — sie erfordert, für jeden
+Kunden alle Fassungen zu lesen und zu entscheiden, welche gilt. **Ich werde
+sie in den kommenden Läufen fallweise abarbeiten, beginnend mit denen, die
+die meisten Fassungen haben (#7479 mit neun, #7048 mit sieben), und jeden
+Schritt hier protokollieren.**
+
+### Stand nach diesem Lauf
+
+- **Acht Kundenvorgänge am 30.09.** (unverändert).
+- **422 Entwürfe in der Datei** — **davon 164 mit einem ausdrücklichen
+  Warnhinweis versehen, weil ein neuerer Entwurf für denselben Kunden
+  existiert.** **Keiner in Gmail.**
+- **Keine Erstattung, keine Stornierung ausgeführt.**
+- **⚠️ OFFEN: inhaltliche Einzelprüfung der 98 Kunden mit mehreren
+  Entwürfen.**
