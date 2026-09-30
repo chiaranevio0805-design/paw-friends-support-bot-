@@ -964,3 +964,78 @@ Entwürfe vom 29.09. und einem leeren Teil 3.
   29.09. sind dort nur mit Fundstelle genannt, nicht ausgeschrieben. **Der
   Wortlaut steht unverändert in `docs/2026-09-29-abendreport.md` und wurde
   nicht gekürzt, nicht zusammengefasst und nicht rekonstruiert.**
+
+---
+
+## Lauf 20:20 UTC — ein neuer Fall
+
+### 🟥 #5973 — Stephen Cooil (`stevecooil@me.com`), 30.09. 20:15:39 UTC — **Bot/Escalated – Owner Attention**
+
+**Eskalationsgrund:** wiederholter unbeantworteter Kontakt **und** bestrittene
+Werbeaussage **und** angekündigter Gang an die Presse **und — der eigentliche
+Punkt — eine zweimal schriftlich gegebene Zusage, die der Datensatz nicht
+deckt.**
+
+**Was er schreibt, wörtlich:** *„On the 17th September you said the refund
+would be within a few business days and you're telling me the same thing on
+30th. Nothing has yet appeared."*
+
+**Er hat recht.** Der Thread zeigt es:
+
+| Datum | Was passiert ist |
+|---|---|
+| 08.09. | Erstkontakt, er hatte schon Tage zuvor Video und Foto geschickt, ohne Antwort |
+| 09.09. | Kauschaden-Vorlage, Absage |
+| 09.09. | Er bestreitet die Werbung, nennt die Testimonials unglaubwürdig, kündigt die Presse an, **nennt den Esel ausdrücklich „untouched"** |
+| 11.09. | Zweite Kauschaden-Vorlage, wieder Absage |
+| 11.09. | *„I still have one unused toy that I wish to return for a refund. How do I go about this?"* — **die Frage wurde nie beantwortet** |
+| 13.09. | 30 % angeboten |
+| 15.09. | 40 % angeboten |
+| 15.09. | **Er nimmt 50 % als Minimum an** |
+| **17.09.** | **„Your 50% partial refund has been processed."** |
+| 25.09. | *„I've not seen any sign of my refund yet."* |
+| **29.09. 21:07** | **Dieselbe Zeile ein zweites Mal, wortgleich** (Teil des dritten Massenversands) |
+| **30.09. 20:15** | Er schreibt wieder |
+
+**🟥 Shopify-Befund, heute geprüft:** `#5973` — **`totalRefundedSet` = £0.00,
+`refunds` = leer.** **Kein einziger Erstattungseintrag, auch kein
+ausstehender.** Bestellt **13.08.**, versandt **22.08.** (neun Tage),
+Gesamtbetrag **£29,95**, zwei Plushies-Positionen zum Bündelpreis,
+`cancelledAt: null`.
+
+**Das heißt:** ihm wurde **zweimal schriftlich bestätigt**, eine Zahlung sei
+ausgeführt, die **nie ausgeführt wurde**. **Dreizehn Tage zwischen den beiden
+Bestätigungen.**
+
+**Entwurf geschrieben** (`docs/entwuerfe-zum-kopieren.md`, Zeile 22518).
+**Die drei früheren #5973-Entwürfe sind als ersetzt markiert.**
+
+**Im Entwurf ausdrücklich NICHT:** keine Wiederholung des „processed", auch
+nicht als „unterwegs", „bei der Bank" oder „noch ein paar Werktage"; keine
+Erstattung zugesagt; kein Termin; **kein Betrag genannt und nichts
+nachgerechnet** (er hat das Angebot bereits angenommen); keine
+Garantieentscheidung; **keine Aussage zur Größe der Artikel und kein Vergleich
+mit Produktbildern**, obwohl er das am 09.09. angesprochen hat; **die Echtheit
+der Testimonials weder bestätigt noch bestritten**; Video und Fotos nicht
+geöffnet und nicht zur Bedingung gemacht; nichts an die angekündigte Presse
+geknüpft und nicht um Aufschub gebeten.
+
+**Im Entwurf ausdrücklich DOCH:** die Warnung, den ungeöffneten Esel **nicht**
+zu verschicken, weil es keine Rücksendeadresse gibt — **seine Frage vom 11.09.
+„How do I go about this?" ist seit neunzehn Tagen unbeantwortet.**
+
+**Keine Erstattung ausgelöst** — `refundCreate` ist gesperrt, und #5973 ist
+kein Regel-4-Fall. **Nichts versendet.**
+
+### Stand nach diesem Lauf
+
+- **Kundenfälle am 30.09.: elf** (vorher zehn).
+- **Entwürfe in der Datei: 425.** Weiterhin gilt: **das ist die Zahl der
+  geschriebenen Texte, nicht der versendbaren Antworten.**
+- **Die fünfzehn offenen Geldzusagen bleiben fünfzehn** — #5973 stand bereits
+  darauf. **Was sich geändert hat, ist die Schwere:** bei #5973 ist die Zusage
+  jetzt **zweimal** gegeben und **zweimal** nicht eingelöst.
+- **🔴 Der Abendreport von 19:20 ist damit unvollständig.** Er nennt zehn
+  Fälle; es sind elf. **Der Fall kam um 20:15 herein, eine Stunde nach dem
+  Report.** Das wird hier festgehalten, statt den Report stillschweigend zu
+  ändern.

@@ -515,6 +515,8 @@ Frage darin und entscheidet, ob Regel 2 greift.
 ---
 
 ## #5973 — stevecooil@me.com — der ungeöffnete Esel, dritte Nachfrage  
+
+**⚠️ ERSETZT durch den Entwurf vom 30.09. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
@@ -5725,6 +5727,8 @@ Hersteller zu nennen. Keine Rücksendeadresse. Kein Eskalationsmarker im Text.
 ---
 
 ## #5973 — Stephen Cooil (stevecooil@me.com) — laufende Verhandlung, 40 % gegen 50 %  
+
+**⚠️ ERSETZT durch den Entwurf vom 30.09. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Plushies Order 5973
@@ -18640,6 +18644,8 @@ und 01.09. bereits genannt. Kein Eskalationsmarker im Text.
 
 ## #5973 — Stephen Cooil (stevecooil@me.com) — GB, **50 % am 17.09. als „processed" bestätigt, `refunds` leer**
 
+**⚠️ ERSETZT durch den Entwurf vom 30.09. — nur den neuesten senden.**
+
 **Betreff:** Re: Plushies Order 5973
 
 > Dear Stephen,
@@ -22508,6 +22514,103 @@ die ehrliche Auskunft, dass es keine Adresse gibt. **Offen eingeräumt, dass
 seine Frage vom 16.09. nie beantwortet wurde.** **Keine
 Kauschaden-Vorlage.** **Keine Aussage zur Qualität, in keine Richtung.**
 Kein Eskalationsmarker im Text.
+
+## #5973 — Stephen Cooil (`stevecooil@me.com`) — GB, **zum ZWEITEN Mal „processed" gesagt bekommen; `refunds` weiterhin leer** · 30.09.
+
+**✅ GEPRÜFT am 30.09.: Dies ist die geltende Fassung für diesen Kunden. Die früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+**Betreff:** `Re: Plushies Order 5973`
+
+> Dear Stephen,
+>
+> **You are right, and I am not going to soften it.** **On 17 September you
+> were told your 50 per cent refund "has been processed" and would appear
+> within a few business days. On 29 September you were sent that same
+> paragraph again, word for word.** **Thirteen days separate the two, and
+> nothing has reached you in between.**
+>
+> **Here is what our own order record says today, and I would rather you had
+> it than another reassurance: order #5973 shows £0.00 refunded and no refund
+> entries against it at all.** **Not a pending one, not a partial one. None.**
+>
+> **So I am not going to tell you it is on its way, or that it is with your
+> bank, or that it needs a few more business days.** **I have no basis for any
+> of those, and you have now been given that answer twice.** **A third copy of
+> it is not coming from me.**
+>
+> **I cannot release the payment from this desk. Only the shop owner can.**
+> **What I am doing today is putting this in front of him as what it is — a
+> refund confirmed to you in writing on 17 September, confirmed again on
+> 29 September, and not made.** **I am not going to give you a date, because I
+> cannot stand behind one and two dates have already failed you.**
+>
+> **I am not quoting a figure back to you.** **The percentage is the one you
+> accepted on 15 September, and I am not going to restate or recalculate it
+> and risk putting an error into something already agreed.**
+>
+> **On the donkey, which you told us on 9 September is untouched.** **Please do
+> not post it anywhere.** **There is no returns address I can give you — not
+> one I am withholding, one that does not exist on our side at the moment.**
+> **That is not a refusal and it is not a condition of anything; you are simply
+> entitled to know it before you spend postage.**
+>
+> **On the advertising.** **The phrase you quoted — "designed for furry friends
+> who destroy everything" — is our own product title, not your paraphrase.**
+> **Beyond that I cannot see the advertisement as it was shown to you, so I am
+> not going to tell you what it said, and I am certainly not going to suggest
+> you misread it.** **I have read all twelve of our current product
+> descriptions; the Plushies text describes "rope-reinforced construction" and
+> an "anti-tear design built for strong chewers".** **That is a statement about
+> those twelve texts and nothing more.**
+>
+> **You also questioned whether the testimonials are genuine.** **I am not
+> going to assure you that they are, and I am not going to tell you they are
+> not.** **I have no way of checking that from this desk, and an answer either
+> way from me would be worth nothing to you.** **Your question goes to the
+> owner in your own words, because he is the only one who can look at what was
+> actually published.**
+>
+> **From the order record:** **you ordered on 13 August and the parcel was not
+> despatched until 22 August — nine days.** **The total you paid is £29.95.**
+> **I am not going to split that between the two toys** — they were sold at a
+> bundle price and any per-toy figure would be a guess.
+>
+> **You said you have video and photographs. I have not opened them, and I am
+> not asking you for anything further.** **Nothing here depends on you proving
+> what happened.**
+>
+> **You said that without satisfaction you would go to the media.** **Nothing
+> here is conditional on that, in any direction.** **I am not asking you to
+> wait, to hold off, or to reconsider, and you do not owe us silence in
+> exchange for an answer.**
+>
+> **I am not going to make any claim about the toys in either direction, and I
+> am drawing no conclusion from your dog.**
+>
+> I am sorry you were told the same untrue thing twice.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **überprüfbare Auskunft, dass auf #5973 £0,00
+erstattet sind und kein einziger Erstattungseintrag existiert**, die **offene
+Feststellung, dass ihm am 17.09. UND am 29.09. dasselbe „processed" geschickt
+wurde**, und die **Weitergabe an den Owner als offene, zweimal schriftlich
+bestätigte Zahlung.** **Die „processed"-Zusage wird NICHT wiederholt** — weder
+als „unterwegs" noch als „bei der Bank" noch als „noch ein paar Werktage".
+**Keine Erstattung zugesagt, kein Termin. Kein Betrag genannt und nichts
+nachgerechnet** — der Prozentsatz steht in dem von ihm angenommenen Angebot.
+**Keine Garantieentscheidung.** **Der Produkttitel wird als unsere eigene
+Formulierung bestätigt, ohne die Anzeige zu rekonstruieren.** **KEINE Aussage
+zur Größe der Artikel und kein Vergleich mit Produktbildern.** **Die Echtheit
+der Testimonials wird weder bestätigt noch bestritten** — die Frage geht an
+den Owner. **Keine Aussage zur Qualität, in keine Richtung.** **Video und
+Fotos nicht geöffnet, nichts zur Bedingung gemacht.** **Nichts an die
+angekündigte Presse geknüpft**, und ausdrücklich nicht um Aufschub gebeten.
+**Vor dem Porto für den ungeöffneten Esel gewarnt.** **Gesamtbetrag genannt,
+nicht aufgeteilt.** **Nichts aus seinem Hund gefolgert.** Kein
+Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 
