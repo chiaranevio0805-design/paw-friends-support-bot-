@@ -922,3 +922,16 @@ bekam.**
   mit Warnhinweis.**
 - **🟥 Sechzehnter belegter Folgefall des Serienversands vom 29.09.**
 - **Keine Erstattung, keine Stornierung ausgeführt.**
+
+---
+
+## Lauf 18:20 UTC
+
+**Posteingang geprüft. Nichts Neues.** Keine Aktion.
+
+**Hinweis für den Abendreport um 19:00:** **die Entwurfszahl „424" darf dort
+nicht mehr ohne Einschränkung stehen.** **Sie ist die Zahl der geschriebenen
+Texte, nicht die Zahl der versendbaren Antworten** — 89 Kunden haben
+weiterhin mehrere Fassungen, von denen nur eine gilt, und mehrere geltende
+Fassungen enthalten veraltete Zeitangaben. **Beides gehört in Teil 1 des
+Abendreports.**
