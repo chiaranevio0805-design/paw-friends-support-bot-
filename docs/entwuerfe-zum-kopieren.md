@@ -21881,6 +21881,90 @@ zugesagt, kein Termin, keine Absage.** **Kein Versuch, sie zum Behalten zu
 bewegen.** **Keine Kauschaden-Vorlage.** **Keine Aussage zur Qualität.** Kein
 Eskalationsmarker im Text.
 
+## #7749 — Adrian Vincent-Janes (`adrian@vincent-janes.com`) — **dritter Kontakt, zweite Vorlage; wiederholt die Sicherheitsmeldung** · 30.09.
+
+**Betreff:** `Re: A shipment from order #7749 is on the way`
+
+> Dear Mr Vincent-Janes,
+>
+> **You have now written three times and been sent the same refusal twice.
+> No third copy of it is coming from me.**
+>
+> **First, the thing you asked for on 20 September and have still not been
+> answered on: a free return label.** **There is no returns address I can
+> give you, and there is no return label** — not one I am withholding, one
+> that does not exist on our side at the moment. **You should have been told
+> that ten days ago instead of twice being told why the guarantee does not
+> apply.** **Please do not post anything.**
+>
+> **Second, the safety point, because you have now raised it three times and
+> it should not keep being folded into a refund answer.** **You wrote that
+> the filling came out and that it is unsafe and could lead to suffocation.**
+> **I am not going to tell you that it is safe, and I am not going to tell
+> you that it is not.** **I am not in a position to make that judgement, and
+> a support desk that answered a safety report with a reassurance it cannot
+> stand behind would be doing you no favours.** **It goes to the shop owner
+> today as a safety report in its own right, marked as such, separately from
+> the refund question.**
+>
+> **Third, the question you put, which is a fair one.** **"How do you know if
+> the dog toy is totally indestructible unless the dog has a play with it."**
+> **I am not going to rule on that** — whether the guarantee's wording works
+> for a product whose advertised quality can only be tested by use is not
+> mine to decide, and pretending otherwise would be overreach. **What I will
+> do is pass it on in your words rather than in summary.** **You are the
+> second customer this week to put that argument to us.**
+>
+> **On the advertising itself.** **I cannot see the advertisement as it was
+> shown to you, so I am not going to tell you what it said, and I am
+> certainly not going to suggest you misremembered it.** **What I can check,
+> I have:** I have read all twelve of our current product descriptions.
+> **The word you used appears in none of them.** **That is a statement about
+> those twelve texts and nothing more.** **Your wording reaches the owner
+> unchanged.**
+>
+> **On the refund: I cannot approve one from this desk, and I am not going to
+> refuse you a third time.** That decision belongs to the owner. **Your
+> request goes to him today.** **I am not going to give you a date.**
+>
+> **You mentioned Trading Standards and said you will be leaving a review.**
+> **Nothing here is conditional on either, in any direction.** **I am not
+> asking you to wait, to hold off, or to reconsider. You do not owe us
+> silence in exchange for an answer.**
+>
+> **From the order record:** **you ordered on 25 August and the parcel was
+> not despatched until 3 September — nine days.** **Nothing has been refunded
+> on this order at any point.** **The total you paid is £27.95.** **I am not
+> going to split that between the two toys** — they were sold at a bundle
+> price and any per-toy figure would be a guess.
+>
+> **I am not going to make any claim about the toys in either direction, and
+> I am drawing no conclusion from your dogs.**
+>
+> I am sorry it took three messages and two form letters to get a reply that
+> answers what you asked.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **endlich gegebene Antwort auf seine Frage vom
+20.09. — es gibt kein Rücksendelabel und keine Adresse**, die **getrennte
+Weitergabe seiner Sicherheitsmeldung als solche**, die **unveränderte
+Weitergabe seiner Erstattungsforderung**, und die **Auskunft, dass nichts
+erstattet wurde.** **Keine Erstattung zugesagt, kein Termin — und keine
+dritte Absage.** **KEINE Aussage zur Sicherheit des Produkts, in keine
+Richtung.** **Nicht entschieden, ob die Garantieformulierung für ein Produkt
+taugt, dessen beworbene Eigenschaft sich nur durch Gebrauch prüfen lässt** —
+ausdrücklich als nicht von hier entscheidbar benannt. **Keine rechtliche
+Bewertung zu „not fit for purpose" oder Trading Standards.** **Nichts an die
+angekündigte Bewertung oder die Behörde geknüpft**, und ausdrücklich nicht um
+Aufschub oder Verzicht gebeten. **Das Werbewort nicht wiederholt** — nur der
+Befund zu den zwölf Produkttexten, **ohne zu behaupten, die von ihm gesehene
+Anzeige habe es nicht enthalten.** **Keine dritte Kauschaden-Vorlage.**
+**Gesamtbetrag genannt, nicht aufgeteilt.** **Nichts aus seinen Hunden
+gefolgert.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

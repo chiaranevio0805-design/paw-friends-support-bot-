@@ -302,3 +302,81 @@ Bedingung stützt, die in keinem der zwölf Texte steht.
 ## Lauf 07:20 UTC
 
 **Posteingang geprüft. Nichts Neues.** Keine Aktion.
+
+---
+
+## Lauf 08:20 UTC
+
+### ⛔🟥 #7749 — Adrian Vincent-Janes (`adrian@vincent-janes.com`), 30.09. 08:12 UTC — **dritter Kontakt, zweite Vorlage**
+
+> *„I would suggest that you **don't sell products that are not fit for
+> purpose** and **your advertising is completely misleading**. **How do you
+> know if the dog toy is totally indestructible unless the dog has a play
+> with it.** … exposed all the junk that was stuffed inside, **which again is
+> unsafe for dogs and could lead to suffocation**. **Will be leaving a
+> review** so that other potential customers are aware of the issues."*
+
+**Der belegte Verlauf:**
+
+| Datum | Vorgang |
+|---|---|
+| 25.08. | Bestellung **#7749**, **27,95 £**, 2 × Plushies (fox, Elk) |
+| **03.09.** | Versand — **neun Tage** |
+| **20.09. 19:11** | Erstkontakt: volle Erstattung unter der 30-Tage-Garantie **und ein kostenloses Rücksendelabel**; **erste Sicherheitsmeldung zur Füllung** |
+| **22.09. 11:33** | **Kauschaden-Vorlage**, „Dear Customer" |
+| **23.09. 17:53** | Trading Standards angekündigt; Werbung bestritten; **Sicherheitsmeldung wiederholt** |
+| **28.09. 11:21:14** | **zweite Vorlage** im Serienversand — verweigert Erstattung, Ersatz und Umtausch **und räumt „the wording used in our advertising" im selben Text ein** |
+| 30.09. 08:12 | diese Nachricht |
+
+**Erstattet: 0,00 £, `refunds` leer.**
+
+**Drei Dinge im Entwurf:**
+
+1. **Seine Frage vom 20.09. nach einem Rücksendelabel wird endlich
+   beantwortet: es gibt keines und keine Adresse.** **Offen gesagt, dass er
+   das vor zehn Tagen hätte hören müssen, statt zweimal zu erfahren, warum
+   die Garantie nicht greift.**
+2. **Seine Sicherheitsmeldung geht getrennt als solche an den Owner** —
+   **keine Aussage zur Sicherheit in irgendeine Richtung.**
+3. **Seine Garantie-Frage wird NICHT entschieden** — ausdrücklich als nicht
+   von hier entscheidbar benannt. **Er ist der zweite Kunde in dieser Woche
+   mit genau diesem Argument, nach #8431.**
+
+**Nichts an die angekündigte Bewertung oder an Trading Standards geknüpft**,
+in keine Richtung; **keine rechtliche Bewertung**; **keine dritte Vorlage.**
+
+### 🟥 KORREKTUR in eigener Sache: „erste Sicherheitsmeldung" war falsch
+
+**Am 29.09. habe ich #7324 als „die erste ausdrückliche Sicherheitsmeldung
+einer Kundin in diesen Protokollen" bezeichnet und das heute früh im
+Tagesreport wiederholt.** **Das stimmt nicht.**
+
+**Beim Gegenprüfen für #7749:** der Tagesreport vom **21.09.** führt
+bereits *„Safety concern about the filling — 1 (#7749)"*, der vom **24.09.**
+führt *„Safety issue: #7749 (second time raised)"* **und nennt vier
+Sicherheitsmeldungen in der Akte: #6283, `andysire`, #8406, #7608.**
+
+**Richtig ist:** **#7324 war nicht die erste.** **Sie war die erste seit
+Beginn dieser Protokollreihe im September, die eine Kundin in genau diesen
+Worten formuliert hat — aber Sicherheitsmeldungen liegen seit mindestens dem
+20.09. vor, und #7749 hat seine heute zum dritten Mal wiederholt.**
+**Die Formulierung im Tagesreport vom 30.09. ist damit berichtigt.**
+
+**Das ändert nichts an der Dringlichkeit von #7324** — es ändert die
+Behauptung, sie sei die erste gewesen.
+
+**⚠️ #7749 ist bereits mehrfach gezählt** — als Werbeaussage (24.09.) und als
+Sicherheitsmeldung (21. und 24.09.). **Die Werbezählung bleibt bei
+einundachtzig.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### Stand nach diesem Lauf
+
+- **Fünf Kundenvorgänge am 30.09.**
+- **419 Entwürfe in der Datei**, **keiner in Gmail.** **Acht als ersetzt
+  markiert.**
+- **Keine Erstattung, keine Stornierung ausgeführt.**
+- **🟥 Zwölfter belegter Folgefall des Serienversands vom 29.09.**
+- **🟥 Mindestens fünf Sicherheitsmeldungen in der Akte** — #6283,
+  `andysire`, #8406, #7608, **#7749 (dreimal)** und **#7324**.
