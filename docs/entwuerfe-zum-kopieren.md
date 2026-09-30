@@ -18543,7 +18543,8 @@ der Anzeige.** **Kein Versuch, ihn von den Medien abzubringen.** **Kein Video
 und kein Foto verlangt**, ausdrücklich abbestellt. Kein Eskalationsmarker im
 Text.
 
-## #8577 — Shirley McCutcheon (shirls_mc@hotmail.co.uk) — GB, **zwei Threads zusammengeführt, kündigt einen öffentlichen Beitrag an** *(ersetzt den Entwurf vom 12:20-Lauf)*
+## #8577 — Shirley McCutcheon (shirls_mc@hotmail.co.uk) — GB, **zwei Threads zusammengeführt, kündigt einen öffentlichen Beitrag an** *(ersetzt den Entwurf vom 12:20-Lauf)*  
+**⚠️ ERSETZT durch den Entwurf vom 29.09. (nach der Vorlage vom 21:00 UTC) — nicht zusätzlich senden.**
 
 **Betreff:** Re: A shipment from order #8577 is on the way
 
@@ -20343,7 +20344,8 @@ nicht an den Frachtführer verwiesen.** **Das Foto nicht geöffnet und nichts
 weiter angefordert.** **Der AU-Abschnitt nur benannt, nicht ausgelegt.**
 **Nichts aus ihrem Hund gefolgert.** Kein Eskalationsmarker im Text.
 
-## #7048 — Josephine Carr (`jocarr247@yahoo.com`) — **fragt nach dem nie gezahlten 40 %-Angebot, nennt Klarna** · 29.09.
+## #7048 — Josephine Carr (`jocarr247@yahoo.com`) — **fragt nach dem nie gezahlten 40 %-Angebot, nennt Klarna** · 29.09.  
+**⚠️ ERSETZT durch den Entwurf vom 30.09. — sie hat die 40 % inzwischen ausdrücklich angenommen. Nicht zusätzlich senden.**
 
 **Betreff:** `Re: #7048`
 
@@ -21573,6 +21575,71 @@ nicht mit dem Datensatz übereinstimmt; **das wird offen und ohne Misstrauen
 begründet, mit einem einfachen Weg, es aufzulösen.** **Keine zweite
 Kauschaden-Vorlage.** **Keine Garantieentscheidung.** **Nichts aus Rasse oder
 Größe seines Hundes gefolgert.** Kein Eskalationsmarker im Text.
+
+## #7048 — Josephine Carr (`jocarr247@yahoo.com`) — **hat die 40 % ausdrücklich ANGENOMMEN und Klarna als Zahlweg genannt** · 30.09.
+
+**Betreff:** `Re: #7048`
+
+> Dear Miss Carr,
+>
+> **Thank you for answering clearly. That settles the question I had to put
+> to you yesterday, and I am not going to raise it again.**
+>
+> **Your acceptance of the 40 per cent is recorded, in your own words, and it
+> has gone to the shop owner.** **You have also said you want it to go back
+> the way you paid, through Klarna. That is recorded too and passed on
+> exactly as you wrote it.**
+>
+> **He is the only person who can release the payment. I cannot do it from
+> this desk.**
+>
+> **So that you are not left guessing, and because you have been left
+> guessing before: I am not going to tell you it has been processed, and I am
+> not going to give you a date.** **You were told something like that on this
+> order's history before and it did not match what actually happened. I am
+> not adding to that.** **Nothing has been refunded on this order to date —
+> that is what the record says today, and I would rather you had the true
+> position than a comfortable one.**
+>
+> **If you have not seen anything within a week, write again and say so.**
+> That is a reasonable thing to do, not a nuisance.
+>
+> **I am not quoting a figure back to you.** **The amount is the one in the
+> offer letter you accepted, and I am not going to restate or recalculate it
+> in case I put an error into something you have already agreed to.**
+>
+> **On Klarna: you told us earlier that a dispute is open there.** **I am not
+> going to give you any view on how a refund and that dispute fit together,
+> and I am not going to ask you to close it, pause it or wait.** **I have
+> flagged both facts to the owner side by side so that he sees them
+> together.** **That is as far as it is mine to go.**
+>
+> **You do not have to send anything back, and there is still no returns
+> address I could give you** — so please do not post anything. **Nothing
+> about the refund depends on it.**
+>
+> **One last thing I said yesterday and will not take back: you were offered
+> 30 per cent on 17 September and 40 per cent on 21 September, both times
+> with the words "allowing you to keep the toys", after you had already told
+> us on 15 September that they were unopened and that you did not want to
+> keep them.** **That was our error. Your accepting the 40 per cent now does
+> not make it less of one.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Bestätigung, dass ihre Annahme und ihr Wunsch nach
+Auszahlung über Klarna aufgenommen und weitergegeben sind**, und die
+**überprüfbare Auskunft, dass bis heute nichts erstattet wurde**. **Keine
+Erstattung zugesagt, kein Termin, kein „processed".** **Kein Betrag genannt
+und nichts nachgerechnet** — die Zahl steht im angenommenen Angebot. **Keine
+Bewertung des Klarna-Verfahrens, in keine Richtung**, und **nicht darum
+gebeten, es zu schließen, auszusetzen oder abzuwarten.** **Nicht behauptet,
+was Klarna mitgeteilt wurde.** **Nichts an eine Rückgabe geknüpft**, und offen
+gesagt, dass es keine Rücksendeadresse gibt. **Die frühere Fehlbehandlung
+wird nicht zurückgenommen, nur weil sie jetzt annimmt.** **Der Entwurf vom
+29.09. ist als ersetzt markiert.** Kein Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 

@@ -52,3 +52,75 @@ alle Label-Werkzeuge seit dem 21.08. gesperrt.**
 ## Lauf 00:20 UTC
 
 **Posteingang geprüft. Nichts Neues.** Keine Aktion.
+
+---
+
+## Lauf 01:20 UTC
+
+### 🔴 #7048 — Josephine Carr (`jocarr247@yahoo.com`) — **nimmt die 40 % jetzt ausdrücklich an**
+
+**Zwei Nachrichten, fünf Minuten auseinander:**
+
+> **30.09. 01:12:09:** *„So when are you going to pay the 40% partial
+> refund?"*
+>
+> **30.09. 01:17:20:** *„**Yes please sort the 40% partial refund, to the
+> original payment which is klarna**"*
+
+**Vorgeschichte, die das erklärt:** **im Serienversand vom 29.09. ging ihr um
+21:07:55 erneut der 40 %-Angebotsbrief zu** (*„Dear Miss Carr… we can offer
+you…"*). **Damit war das Angebot faktisch erneuert, und sie hat es jetzt
+angenommen.**
+
+**🟩 Damit ist die Frage beantwortet, die ich gestern bewusst NICHT für sie
+entschieden habe.** Am 12:20-Lauf standen ihre Ablehnung vom 23.09. und ihre
+Nachfrage vom 29.09. nebeneinander, und im Entwurf wurde sie gefragt, woran
+sie uns halten will. **Sie hat geantwortet: die 40 %.** **Das war der richtige
+Weg — es wurde nichts für sie unterstellt, und sie hat selbst entschieden.**
+
+**🔴 #7048 ist damit eine angenommene Geldzusage — die vierzehnte.**
+
+| Feld | Wert |
+|---|---|
+| Bestellung | **#7048**, 21.08.2026, **27,95 £**, `PAID` |
+| Angenommen | **40 %**, am 30.09. 01:17 UTC |
+| Auszahlweg | **Klarna**, von ihr selbst benannt |
+| Erstattet bisher | **0,00 £**, `refunds` **leer** |
+
+**Der Betrag wird hier bewusst nicht nachgerechnet** — maßgeblich ist die
+Zahl im Angebotsbrief vom 21.09. bzw. in dessen erneuter Zusendung vom
+29.09.
+
+**⚠️ Sie hat zugleich ein laufendes Klarna-Verfahren.** **Wie sich eine
+Erstattung über Klarna und dieses Verfahren zueinander verhalten, wird von
+hier NICHT bewertet**, und sie wird nicht gebeten, es zu schließen,
+auszusetzen oder abzuwarten. **Beides geht nebeneinander an den Owner.**
+
+**Im neuen Entwurf:** Annahme und Zahlweg bestätigt und weitergegeben; **kein
+Termin, kein „processed", kein Betrag genannt**; die überprüfbare Auskunft,
+dass bis heute nichts erstattet wurde; **keine Bewertung des
+Klarna-Verfahrens**; **nichts an eine Rückgabe geknüpft**; und **die frühere
+Fehlbehandlung wird nicht zurückgenommen, nur weil sie jetzt annimmt.**
+
+**Der #7048-Entwurf vom 29.09. ist als ersetzt markiert.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### 🟥 Korrektur in eigener Sache: eine Ersetzt-Markierung fehlte
+
+**Im 21:20-Lauf am 29.09. habe ich geschrieben, der ältere #8577-Entwurf
+„bleibt als ersetzt markiert".** **Beim Nachprüfen stimmte das nur zur
+Hälfte:** es gibt **drei** #8577-Entwürfe, der älteste war als ersetzt
+markiert, **der mittlere aber nicht** — obwohl der neue Entwurf vom 29.09.
+ihn ablöst. **Das ist jetzt nachgeholt.** **Die Aussage im gestrigen
+Protokoll war insoweit ungenau.**
+
+### Stand nach diesem Lauf
+
+- **Ein Kundenvorgang am 30.09.**
+- **415 Entwürfe in der Datei**, **keiner in Gmail.** **Sieben als ersetzt
+  markiert** (#8577 ×2, #7898, #8568, #7831, #4055, #7048).
+- **Keine Erstattung, keine Stornierung ausgeführt.** Kein Fall fiel unter
+  Regel 4.
+- **🔴 VIERZEHN offene Geldzusagen** — die dreizehn vom 29.09. **plus #7048
+  (40 %, angenommen)**.
