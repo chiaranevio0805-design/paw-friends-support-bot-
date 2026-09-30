@@ -1039,3 +1039,17 @@ kein Regel-4-Fall. **Nichts versendet.**
   Fälle; es sind elf. **Der Fall kam um 20:15 herein, eine Stunde nach dem
   Report.** Das wird hier festgehalten, statt den Report stillschweigend zu
   ändern.
+
+---
+
+## Lauf 21:20 UTC — nichts Neues
+
+**Posteingang geprüft: keine neue Nachricht seit dem Lauf um 20:20.** Die
+jüngste eingegangene Nachricht bleibt **#5973 Stephen Cooil, 30.09. 20:15:39
+UTC**, und die ist bearbeitet.
+
+**Keine Erstattung ausgelöst, keine Bestellung storniert, keine Bestellung
+verändert, nichts versendet.**
+
+**Tagesstand unverändert: elf Kundenfälle, 425 Entwürfe in der Datei, keiner
+davon in Gmail.**
