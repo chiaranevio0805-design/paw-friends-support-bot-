@@ -380,3 +380,83 @@ einundachtzig.**
 - **🟥 Zwölfter belegter Folgefall des Serienversands vom 29.09.**
 - **🟥 Mindestens fünf Sicherheitsmeldungen in der Akte** — #6283,
   `andysire`, #8406, #7608, **#7749 (dreimal)** und **#7324**.
+
+---
+
+## Lauf 09:20 UTC
+
+### ⛔🟥 #7091 — HUD Bullivant (`hud@hildebrandt.com.au`), 30.09. 08:37 UTC — **AU, zweiter Kontakt; Bestellung jetzt identifiziert**
+
+> *„**What a crock that's a total cop out** your product say **you replace
+> them if faulty** now you're saying if they arrive faulty **that's false
+> advertising at its best**. Your products are crap… **I'm gonna put bad
+> reviews** but you've already got plenty of them now that I look."*
+
+**🟩 Die Bestellung ist jetzt auffindbar.** **Am 28.09. wurde protokolliert,
+dass zu seiner Adresse nichts gefunden wird — das fiel in die Zeit, in der
+Shopify auf den falschen Shop zeigte.** **Er wurde damals ausdrücklich NICHT
+darüber informiert, dass nichts gefunden wurde**, und musste deshalb auch
+nichts korrigiert bekommen.
+
+| Feld | Wert |
+|---|---|
+| Bestellung | **#7091**, 21.08.2026, **97,84 AUD** |
+| Positionen | Zahnbuddy + 3 × Plushies (monkey, donkey, fox) + **E-Book** |
+| Versand | **02.09. — zwölf Tage** |
+| Erstattet | **0,00 AUD** |
+| Adresse | Bossley Park, **New South Wales** |
+
+**Das deckt sich mit seiner Angabe „3 out of 4 products":** er hat drei der
+vier körperlichen Artikel ausgegeben.
+
+**Im Entwurf:** **keine Bewertung zu „false advertising", in keine
+Richtung**; **nicht behauptet, die von ihm beschriebene Ersatz-Zusage
+existiere nicht** — nur der Befund, dass keiner der zwölf Produkttexte ein
+Ersatzverfahren festlegt; **kein Ersatz zugesagt** (Begründung: das seit Juli
+offene Versprechen); **keine Rücksendeadresse, also nichts verschicken**;
+**nichts an die angekündigten Bewertungen geknüpft**; **nicht unterstellt,
+der vierte Artikel sei ungeöffnet** — es wird angeboten; **Fotos nicht
+geöffnet**; **AU-Abschnitt nur benannt.**
+
+**Der Entwurf vom 28.09. ist als ersetzt markiert.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### #? — Jen Helmuth (`jenhelmuth57@gmail.com`), 30.09. 08:28 UTC — **Erstkontakt, keine Bestellung auffindbar**
+
+> *„my puppy had his toy donkey for 30mins and **tore the seam on the foot
+> open**. **So much for being [Werbewort].** Just letting you know **l wasted
+> my money again**."*
+
+**Pflichtsuche: ein einziger Thread, kein früherer Kontakt in diesem
+Postfach.** **Shopify findet unter ihrer Adresse keine Bestellung.**
+
+**⚠️ Ihr „again" wird NICHT gedeutet** — es kann sich auf eine frühere
+Bestellung, auf andere Spielzeuge oder auf etwas ganz anderes beziehen.
+**Sie wird nicht darauf angesprochen und es wird nichts daraus gefolgert.**
+
+**⚠️ Ihr wird NICHT gesagt, ihre Bestellung existiere nicht.** **Im Entwurf
+stehen die beiden möglichen Gründe: eine abweichende Bestelladresse oder das
+Zweitpostfach `paw-friends.uk@paw-friends.uk`, das von hier nicht einsehbar
+ist.** **Um die Bestellnummer wird gebeten.**
+
+**Sie verlangt nichts** — im Entwurf wird angeboten, nicht unterstellt.
+**Keine Angaben aus einem Bestelldatensatz**, weil keiner zugeordnet werden
+konnte.
+
+**⚠️ Zweiundachtzigste unabhängige Kundenaussage zur Werbung** (81 → 82).
+**Siebter Kunde, der vom Zweitpostfach-Problem betroffen sein könnte.**
+
+**Label:** `Bot/Escalated - Owner Attention` (bestrittene Werbeaussage).
+
+### Stand nach diesem Lauf
+
+- **Sieben Kundenvorgänge am 30.09.**
+- **421 Entwürfe in der Datei**, **keiner in Gmail.** **Neun als ersetzt
+  markiert.**
+- **Keine Erstattung, keine Stornierung ausgeführt.**
+- **🟥 Dreizehnter belegter Folgefall des Serienversands vom 29.09.**
+- **⚠️ Zweiundachtzig unabhängige Kundenaussagen zur Werbung.**
+- **🇦🇺 Acht australische Fälle** — #6893, #8228, #8431, **#7091**, #7324,
+  #7982, #8126 (und `hud@` ist jetzt als #7091 identifiziert, also keine
+  Doppelzählung).

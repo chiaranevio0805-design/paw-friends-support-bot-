@@ -19549,7 +19549,8 @@ die Garantie behauptet** — er ruft sie nicht an. **Kein Foto verlangt**, die
 beigefügten **nicht geöffnet**. **Keine Rücksendeadresse erfunden**, mit
 Warnung vor einer Sendung aus Florida.
 
-## #? — `hud@hildebrandt.com.au` — **AU**, Erstkontakt, **keine Bestellung auffindbar**, keine Forderung gestellt
+## #? — `hud@hildebrandt.com.au` — **AU**, Erstkontakt, **keine Bestellung auffindbar**, keine Forderung gestellt  
+**⚠️ ERSETZT durch den Entwurf vom 30.09. — die Bestellung ist inzwischen als #7091 identifiziert. Nicht zusätzlich senden.**
 
 **Betreff:** `Re: your message of 28 September`
 
@@ -21964,6 +21965,144 @@ Befund zu den zwölf Produkttexten, **ohne zu behaupten, die von ihm gesehene
 Anzeige habe es nicht enthalten.** **Keine dritte Kauschaden-Vorlage.**
 **Gesamtbetrag genannt, nicht aufgeteilt.** **Nichts aus seinen Hunden
 gefolgert.** Kein Eskalationsmarker im Text.
+
+## #7091 — HUD Bullivant (`hud@hildebrandt.com.au`) — **AU**, **zweiter Kontakt nach der Vorlage; Bestellung jetzt identifiziert** · 30.09.
+
+**Betreff:** `Re:`
+
+> Dear Mr Bullivant,
+>
+> **You wrote on 28 September and the answer you got last night was a
+> standard paragraph addressed to "Dear Customer". You called it a cop-out.
+> I am not going to argue with that, and no second copy of it is coming from
+> me.**
+>
+> **You said the products are advertised as being replaced if faulty.** **I
+> cannot see the advertisement as it was shown to you, so I am not going to
+> tell you what it said, and I am certainly not going to suggest you
+> misremembered it.** **What I can check, I have:** I have read all twelve of
+> our current product descriptions, **and none of them sets out a
+> replacement procedure.** **That is a statement about those twelve texts and
+> nothing more — it is not a claim that what you saw said something
+> different.** **Your wording goes to the shop owner unchanged, because he is
+> the only one who can look at what was actually advertised.**
+>
+> **I am not going to tell you whether that amounts to false advertising, in
+> either direction.** **That is not a judgement a support desk should be
+> handing down, and I am not going to pretend otherwise.**
+>
+> **What you asked for on 28 September was for us to work out where this
+> goes. Here is the honest position.** **I cannot approve a refund or a
+> replacement from this desk, and I am not going to refuse you.** That is the
+> shop owner's decision, and your case goes to him today in your own words.
+> **I am not going to promise you a replacement** — there is a customer who
+> was promised one in writing in July and is still waiting at the end of
+> September, and I am not willing to put you in that position.
+>
+> **And there is no returns address I can give you**, so please do not post
+> anything anywhere.
+>
+> **From the order record — and I can give you this now, which I could not
+> when you first wrote:** **your order is #7091, placed on 21 August. It was
+> not despatched until 2 September — twelve days.** **Nothing has been
+> refunded on it at any point.** **The total you paid is A$97.84.** **I am
+> not going to break that down per item** — it was sold at a bundle price and
+> any per-item figure would be a guess.
+>
+> **You told us you gave three of the four to your dog.** **I am not going to
+> assume anything about the fourth**, and nothing here depends on it. **If it
+> is unopened, say so and I will pass that on.**
+>
+> **You said you will leave reviews.** **Nothing here is conditional on
+> that, in any direction.** **I am not asking you to hold off, and you do not
+> owe us anything in exchange for an answer.**
+>
+> **You attached photographs. I have not opened them, and I am not asking you
+> for anything further.**
+>
+> **One thing you are entitled to know, because you are in New South Wales.**
+> **Our own shop policy carries a section headed "Australia – Consumer
+> Guarantees".** **I am pointing you to it so you can read it yourself — I am
+> not interpreting it for you and I am deriving no promise from it.**
+>
+> **I am not going to make any claim about the toys in either direction, and
+> I am drawing no conclusion from your dog.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Weitergabe seines Falls an den Owner**, die
+**jetzt mögliche Auskunft aus dem Bestelldatensatz**, die **offene Nennung
+der zwölf Tage bis zum Versand**, und die **ehrliche Auskunft, dass es keinen
+Rückgabeweg gibt.** **Keine Erstattung und kein Ersatz zugesagt, kein
+Termin — und keine Absage.** **Keine Bewertung zu „false advertising", in
+keine Richtung.** **Nicht behauptet, die von ihm beschriebene Werbeaussage
+existiere nicht** — nur, dass keiner der zwölf Produkttexte ein
+Ersatzverfahren festlegt. **Keine Rekonstruktion der Anzeige.** **Nichts an
+die angekündigten Bewertungen geknüpft.** **Nicht unterstellt, der vierte
+Artikel sei ungeöffnet** — es wird angeboten, es weiterzugeben. **Fotos nicht
+geöffnet.** **Gesamtbetrag genannt, nicht aufgeteilt.** **Der AU-Abschnitt
+nur benannt, nicht ausgelegt.** **Nichts aus seinem Hund gefolgert.** **Der
+Entwurf vom 28.09. ist als ersetzt markiert.** Kein Eskalationsmarker im
+Text.
+
+## #? — Jen Helmuth (`jenhelmuth57@gmail.com`) — **Erstkontakt in diesem Postfach; keine Bestellung unter ihrer Adresse auffindbar** · 30.09.
+
+**Betreff:** `Re: Donkey.`
+
+> Dear Jen,
+>
+> Thank you for telling us. **You have not asked me for anything, so I am not
+> going to assume what you want** — but I am not going to treat your message
+> as something that needs no answer either.
+>
+> **If you would like a refund, say so and it goes to the shop owner as a
+> refund request. If you want something else, say that instead.** **I cannot
+> approve either from this desk, and I am not going to refuse you.**
+>
+> **There is something I have to be straight with you about.** **I searched
+> for an order under the address you are writing from and I could not find
+> one.** **I am not telling you that you did not order from us — you plainly
+> did, and I am not going to suggest otherwise.** **There are two reasons a
+> search from here can come up empty, and neither of them is your fault:**
+> **the order may carry a different email address**, or **it may sit in our
+> second mailbox, `paw-friends.uk@paw-friends.uk`, which I cannot see from
+> here.** **If you send me the order number, that resolves it in one step.**
+>
+> **On the word you used.** **I cannot see the advertisement as it was shown
+> to you, so I am not going to tell you what it said, and I am certainly not
+> going to suggest you misread it.** **What I can check, I have:** I have
+> read all twelve of our current product descriptions, **and that word
+> appears in none of them.** **That is a statement about those texts and
+> nothing more.** **Your wording goes to the shop owner unchanged.**
+>
+> **What I am not going to do is tell you the guarantee covers this, or tell
+> you it does not.** **That is his decision and not mine.**
+>
+> **If you are thinking of sending the donkey back, please do not post
+> anything.** **There is no returns address I can give you** — not one I am
+> withholding, one that does not exist on our side at the moment.
+>
+> **I am not going to make any claim about the toy in either direction, and I
+> am drawing no conclusion from your puppy.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** das **Angebot, ihre Forderung weiterzugeben, sobald sie
+eine nennt**, die **ehrliche Erklärung, warum die Suche leer blieb**, und die
+**Auskunft, dass es keinen Rückgabeweg gibt.** **Keine Erstattung zugesagt,
+kein Termin, keine Absage** — und **nicht unterstellt, dass sie eine
+Erstattung will.** **NICHT gesagt, sie habe nicht bestellt** — die beiden
+möglichen Gründe werden benannt, einschließlich des Zweitpostfachs.
+**Ihr „again" wird NICHT gedeutet** und nicht angesprochen. **Keine
+Garantieentscheidung.** **Das Werbewort nicht wiederholt** — nur der Befund
+zu den zwölf Produkttexten, **ohne zu behaupten, die von ihr gesehene Anzeige
+habe es nicht enthalten.** **Keine Kauschaden-Vorlage.** **Keine Angaben aus
+einem Bestelldatensatz**, weil keiner zugeordnet werden konnte. **Nichts aus
+ihrem Welpen gefolgert.** Kein Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 
