@@ -21737,6 +21737,150 @@ den Datensatz geprüft** — der gezahlte Betrag wird daneben genannt. **Keine
 Aussage zur Qualität, in keine Richtung.** **Nichts aus ihrem Hund
 gefolgert.** Kein Eskalationsmarker im Text.
 
+## #8126 — Joanne Wurth (`jwurthy@gmail.com`) — **AU**, **will die Rücksendeadresse, um das Porto zu prüfen — Artikel ungeöffnet** · 30.09.
+
+**Betreff:** `Re: Order 8126`
+
+> Dear Joanne,
+>
+> **I am answering the postage question first, because you are about to
+> spend money on the strength of it and you should not.**
+>
+> **There is no returns address I can give you. There is not one on our side
+> at the moment.** **So please do not price up postage and please do not
+> send the pig anywhere** — not to a guessed address, not to the address on
+> the parcel it came in. **You would be out the postage as well as the toy.**
+> **I would rather tell you that plainly than let you find it out at a post
+> office counter.**
+>
+> **That is not a refusal of anything.** **It is simply the true position,
+> and you are entitled to it before you decide.**
+>
+> **Now the part that is not mine to decide.** **You have an unopened pig,
+> still in its packaging, and you are asking what to do with it. I cannot
+> approve a refund from this desk, and I am not going to refuse you.** That
+> decision belongs to the shop owner. **I am putting it in front of him
+> today, in your own words, together with the fact that you were about to pay
+> postage on a return that cannot currently be made.** **I am not going to
+> give you a date.**
+>
+> **You also wrote that if the postage is too high you may simply keep it and
+> accept the loss.** **Please do not treat that as settled on our account.**
+> **Nothing about your position is weakened by waiting for an answer, and I
+> am not going to let "keeping it and accepting the loss" become the outcome
+> by default because nobody replied to you properly.**
+>
+> **About the reply you received on 28 September.** **It was a standard
+> paragraph, addressed to "Dear Customer" although you had signed your name,
+> and it was about the hippo.** **It did not address the pig at all, and the
+> pig is unopened.** **Those are two different situations and only one of
+> them was answered.**
+>
+> **On the wording you quoted.** **You quoted our own product title back to
+> us — "designed for furry friends who destroy everything" — and that is our
+> wording, not yours.** **Beyond that I cannot see the page or the
+> advertising as it was shown to you, and I am not going to reconstruct it or
+> tell you what it said.** **I have read all twelve of our current product
+> descriptions; the Plushies text describes "rope-reinforced construction"
+> and an "anti-tear design built for strong chewers".** **What follows from
+> that is the owner's question, and your wording reaches him unchanged.**
+>
+> **What I am not going to do is tell you the guarantee covers either toy, or
+> tell you it does not.**
+>
+> **From the order record:** **you ordered on 29 August and the parcel was
+> not despatched until 8 September — ten days — and by your account it
+> reached you on 22 September.** **Nothing has been refunded on this order at
+> any point.** **The total you paid is A$53.85.** **I am not going to split
+> that between the two toys** — they were sold at a bundle price and any
+> per-toy figure would be a guess.
+>
+> **You attached photographs. I have not opened them, and I am not asking you
+> for anything further.**
+>
+> **One more thing, because you are in South Australia.** **Our own shop
+> policy carries a section headed "Australia – Consumer Guarantees".** **I am
+> pointing you to it so you can read it yourself — I am not interpreting it
+> for you and I am deriving no promise from it.**
+>
+> **I am not going to make any claim about the toys in either direction, and
+> I am drawing no conclusion from your dog.**
+>
+> I am sorry that the first reply you got was about the wrong toy.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **rechtzeitige, ungefragte Warnung, kein Porto
+auszugeben und nichts zu verschicken**, die **offene Feststellung, dass die
+Vorlage vom 28.09. nur den benutzten Artikel betraf und den ungeöffneten gar
+nicht**, die **unveränderte Weitergabe ihres Anliegens**, und die **Auskunft,
+dass nichts erstattet wurde.** **Keine Erstattung zugesagt, kein Termin,
+keine Absage.** **Ihre eigene Überlegung, den Verlust hinzunehmen, wird
+ausdrücklich NICHT als Ergebnis übernommen.** **Nicht behauptet, die Garantie
+decke einen der beiden Artikel, und nicht behauptet, sie decke ihn nicht.**
+**Keine Frist.** **Der Produkttitel wird als unsere eigene Formulierung
+bestätigt**, **ohne die Anzeige zu rekonstruieren.** **Keine
+Kauschaden-Vorlage, kein Prozentangebot.** **Gesamtbetrag genannt,
+ausdrücklich nicht aufgeteilt.** **Fotos nicht geöffnet.** **Der AU-Abschnitt
+nur benannt, nicht ausgelegt.** **Nichts aus ihrem Hund gefolgert.** Kein
+Eskalationsmarker im Text.
+
+## #7347 — Jill Hibbs (`hibbsjill@yahoo.com`) — **lehnt das zweite Prozentangebot ab, will zurückschicken** · 30.09.
+
+**Betreff:** `Re: Order #7347 confirmed`
+
+> Dear Ms Hibbs,
+>
+> **You have asked the same thing three times now, in the same words, and you
+> have twice been offered a percentage instead of an answer. No third offer
+> is coming from me.**
+>
+> **You want to return the undamaged toy. Here is the honest answer: there is
+> no returns address I can give you, because there is not one on our side at
+> the moment.** **Please do not post anything.** **That is not a refusal of
+> your refund and it is not me holding something back — it does not exist,
+> and you should have been told that on 22 September when you first asked.**
+>
+> **On the refund itself: I cannot approve one from this desk, and I am not
+> going to refuse you.** That decision belongs to the shop owner. **Your
+> request goes to him today, in your own words, together with the fact that
+> you declined 30 per cent on 24 September and 50 per cent last night and
+> asked to return the toy each time.** **I am not going to give you a date.**
+>
+> **There is one thing I can check and tell you, and you can check it
+> yourself.** **The items on your order are listed on our site as Fluffys.**
+> **The published description for that product carries the line "30-day
+> money-back guarantee", and in our own product text it appears with no
+> condition attached to it.** **I am telling you that because it is what our
+> own page says.** **I am not going to tell you it therefore applies to your
+> case, and I am not going to tell you it does not — that is the owner's
+> decision and I am not going to make it for him.**
+>
+> **From the order record:** **you ordered on 23 August and the parcel was
+> not despatched until 2 September — ten days.** **Nothing has been refunded
+> on this order at any point.**
+>
+> **You said the toy is no use to you. I am not going to argue with that and
+> I am not going to try to talk you into keeping it.**
+>
+> I am sorry you had to say it three times.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** **kein drittes Prozentangebot** — ausdrücklich; die
+**ehrliche Auskunft, dass es keinen Rückgabeweg gibt**, mit der Anerkennung,
+dass sie das schon am 22.09. hätte hören müssen; der **überprüfbare Hinweis
+auf den eigenen Fluffys-Produkttext, in dem die 30-Tage-Garantie ohne
+Bedingung steht**, **ausdrücklich ohne zu entscheiden, ob sie auf ihren Fall
+anwendbar ist**; die **Weitergabe ihrer Forderung.** **Keine Erstattung
+zugesagt, kein Termin, keine Absage.** **Kein Versuch, sie zum Behalten zu
+bewegen.** **Keine Kauschaden-Vorlage.** **Keine Aussage zur Qualität.** Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

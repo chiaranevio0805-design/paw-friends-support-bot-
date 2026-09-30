@@ -211,3 +211,88 @@ bleibt bei achtzig.**
 ## Läufe 04:20 und 05:20 UTC
 
 **Posteingang geprüft. Nichts Neues.** Keine Aktion.
+
+---
+
+## Lauf 06:20 UTC
+
+**Zwei neue Nachrichten — beide fragen nach der Rücksendeadresse für
+ungeöffnete Ware.**
+
+### ⛔🟥 #8126 — Joanne Wurth (`jwurthy@gmail.com`), 30.09. 06:10 UTC — **AU**, **will das Porto prüfen**
+
+> *„Could you please confirm the **return address for the pig toy** I also
+> ordered? **It is still unopened in its original packaging.** **I would like
+> to check the postage cost before deciding whether to return it. If the cost
+> is too high, I may simply keep it and accept the loss.**"*
+
+| Feld | Wert |
+|---|---|
+| Bestellung | **#8126**, 29.08.2026, **53,85 AUD** |
+| Versand | **08.09. — zehn Tage** · Zustellung **22.09.** nach ihrer Angabe |
+| Erstattet | **0,00 AUD**, `refunds` **leer** |
+| Ware | Hippo **binnen einer Stunde zerstört**, **Schwein ungeöffnet** |
+| Adresse | Berri, **South Australia** |
+
+**🟥 Sie ist im Begriff, Geld für eine Rücksendung auszugeben, die es nicht
+gibt.** **Das steht im Entwurf an erster Stelle, ungefragt und unmissver-
+ständlich: kein Porto prüfen, nichts verschicken.**
+
+**🟥 Zweiter Befund:** **die Vorlage vom 28.09. betraf nur den benutzten
+Hippo. Zum ungeöffneten Schwein stand darin nichts.** **Auch das wird offen
+benannt.**
+
+**Ihre eigene Überlegung, „den Verlust hinzunehmen", wird ausdrücklich NICHT
+als Ergebnis übernommen** — es wird ihr gesagt, dass ihre Position durch
+Abwarten nicht schwächer wird.
+
+**🇦🇺 Siebter australischer Fall.** **⚠️ Einundachtzigste unabhängige
+Kundenaussage zur Werbung** (80 → 81) — sie kommt im Protokoll bisher nicht
+vor. **Achte Person mit ungeöffneter Ware ohne Rückgabeweg.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### ⛔ #7347 — Jill Hibbs (`hibbsjill@yahoo.com`), 30.09. 05:59 UTC — **zweites Prozentangebot abgelehnt**
+
+> *„Thank you for your offer but **I do not want the toy as it is no use to
+> me. Please send me the return details.**"*
+
+**Der belegte Verlauf:** 22.09. *„I would like to return the undamaged toy
+for refund"* → **24.09. 30 %** → 24.09. *„**No thank you. I would like to
+RETURN the toy.**"* → **29.09. 21:17 50 %** (Serienversand) → jetzt zum
+dritten Mal dieselbe Bitte.
+
+| Feld | Wert |
+|---|---|
+| Bestellung | **#7347**, 23.08.2026, **29,95 £** |
+| Ware | 2 × **Fluffys** (frog, giraffe) |
+| Versand | **02.09. — zehn Tage** |
+| Erstattet | **0,00 £**, `refunds` **leer** |
+
+**Im Entwurf: kein drittes Prozentangebot**, ausdrücklich; **die ehrliche
+Auskunft, dass es keinen Rückgabeweg gibt**, mit der Anerkennung, dass sie
+das schon am 22.09. hätte hören müssen; **der überprüfbare Hinweis, dass der
+eigene Fluffys-Produkttext die 30-Tage-Garantie ohne Bedingung führt**,
+**ausdrücklich ohne zu entscheiden, ob sie auf ihren Fall anwendbar ist**;
+**kein Versuch, sie zum Behalten zu bewegen.**
+
+**🟦 Zweiter Fluffys-Fall nach #7479** — bei beiden führt der eigene
+Produkttext die Garantie ohne Bedingung, während die Absage sich auf eine
+Bedingung stützt, die in keinem der zwölf Texte steht.
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### Stand nach diesem Lauf
+
+- **Vier Kundenvorgänge am 30.09.**
+- **418 Entwürfe in der Datei**, **keiner in Gmail.** **Acht als ersetzt
+  markiert.**
+- **Keine Erstattung, keine Stornierung ausgeführt.** Kein Fall fiel unter
+  Regel 4.
+- **🔴 Vierzehn offene Geldzusagen.**
+- **🟥 Elfter belegter Folgefall des Serienversands vom 29.09.**
+- **⚠️ Einundachtzig unabhängige Kundenaussagen zur Werbung.**
+- **🇦🇺 Sieben australische Fälle.**
+- **🟥 Acht Personen halten ungeöffnete Ware, für die es keinen Rückgabeweg
+  gibt** — #8142, #7479, #8456, #8372, #7048, #8307, #2095, #8431, **#8126**,
+  **#7347**. **Korrekt sind es damit zehn.**
