@@ -759,3 +759,54 @@ Ersetzt-Markierung falsch** — der Entwurf für den zweiten Thread ist kein
   vollständig geprüft und aufgelöst (#7479, #7048)** · **96 weiterhin nur mit
   Warnhinweis.**
 - **Keine Erstattung, keine Stornierung ausgeführt.**
+
+---
+
+## Lauf 15:20 UTC
+
+**Posteingang: nichts Neues.** **Dublettenprüfung fortgesetzt.**
+
+### ✅ Drei weitere Stapel geprüft und aufgelöst
+
+| Kunde | Fassungen | ältere als ersetzt markiert | Begründung |
+|---|---|---|---|
+| **#7347 Jill Hibbs** | 6 | 5 | **alle sechs mit identischer Betreffzeile** `Re: Order #7347 confirmed`, durchgehend dieselbe, nie erledigte Rückgabebitte |
+| **#8142 Wendy Price** | 6 | 5 | derselbe Vorgang über alle Fassungen (versiegelter Artikel); **die abweichenden Betreffzeilen sind reine Zitatketten** (`Re: Defective` → `Re: FW: RE: FW: Defective`), keine anderen Anliegen |
+| **#8372 Kerri Forbey** | 5 | 4 | **alle fünf mit identischer Betreffzeile** `Re: Paw friends plushies`, durchgehend derselbe Vorgang bis zur Annahme der 39 % |
+
+**Die jeweils geltende Fassung ist positiv gekennzeichnet.** **Kein Text
+gelöscht.**
+
+### ⚠️ Drei Stapel bewusst NICHT aufgelöst — und warum
+
+**Bei diesen drei reicht der Befund für eine Entscheidung nicht aus. Sie
+behalten nur den Warnhinweis:**
+
+- **#8295 Ivan Griffen (6 Fassungen)** — **das Protokoll hält ausdrücklich
+  „sechster Kontakt, dritter Thread" fest.** **Bei mehreren echten Threads
+  ist nicht gesagt, dass die neueste Fassung alle abdeckt.** **Hier gehört
+  eine zusammengeführte Fassung hin, wie sie für #8456 und #8577 schon
+  geschrieben wurde — das ist Arbeit, keine Markierung.**
+- **#7547 Luke Prior (5 Fassungen)** — **die Betreffzeilen unterscheiden sich
+  inhaltlich**: `Re: Poor all round` gegenüber `Re: No order`. **Das können
+  zwei verschiedene Anliegen sein — Nichtlieferung und Erstattung.** **Ohne
+  die Threads gelesen zu haben, markiere ich hier nichts als ersetzt.**
+- **#7608 Patty Arenella (4 Fassungen)** — **nachweislich zwei Threads**
+  (`Re: Order #7608 confirmed` und `Re: Damaged toy order 7608`). **Die
+  neueste Fassung liegt im zweiten Thread; ob sie das Anliegen aus dem
+  ersten — den nie gelieferten Gratisartikel — vollständig mitabdeckt, habe
+  ich nicht geprüft.**
+
+**Das ist der Grund, warum die 12:20-Massenmarkierung ein Warnhinweis war und
+keine Ersetzt-Markierung.** **Er hätte in diesen drei Fällen etwas
+unterdrückt, das gesendet gehört.**
+
+### Stand nach diesem Lauf
+
+- **Neun Kundenvorgänge am 30.09.** (unverändert).
+- **423 Entwürfe**, **keiner in Gmail.**
+- **Dublettenstand:** **98 Kunden mit mehreren Fassungen** · **5 geprüft und
+  aufgelöst** (#7479, #7048, #7347, #8142, #8372) · **3 geprüft und
+  ausdrücklich offengelassen** (#8295, #7547, #7608) · **90 weiterhin nur mit
+  Warnhinweis.**
+- **Keine Erstattung, keine Stornierung ausgeführt.**

@@ -5497,7 +5497,7 @@ abgeraten. Keine Rücksendeadresse. Kein Eskalationsmarker im Text.
 ---
 
 ## #7347 — Jill Hibbs (hibbsjill@yahoo.com)  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe, durchgehend offene Vorgang, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: Order #7347 confirmed
 
@@ -7633,7 +7633,7 @@ Frist, keine Rücksendeadresse. Kein Eskalationsmarker im Text.
 ---
 
 ## #8372 — Kerri Forbey (wollenzienk@hotmail.com) — unbenutzt, Originalverpackung, am Tag der Zustellung  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe, durchgehend offene Vorgang, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: Paw friends plushies
 
@@ -8401,7 +8401,7 @@ Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 ---
 
 ## #7347 — Jill Hibbs (hibbsjill@yahoo.com) — ⚠️ das zweite Spielzeug ist unbenutzt  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe, durchgehend offene Vorgang, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: Order #7347 confirmed
 
@@ -12345,7 +12345,7 @@ erfunden.** **Keine Umrechnung** zwischen der GBP-Bestellsumme und dem, was ihre
 Karte in AUD zeigt. Kein Eskalationsmarker im Text.
 
 ## #8372 — Kerri Forbey (wollenzienk@hotmail.com) — US, nach der Vorlagen-Absage von 09:55 UTC  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe, durchgehend offene Vorgang, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: Paw friends plushies
 
@@ -12579,7 +12579,7 @@ and a duck"); die Bestellzeilen führen keine Variante, also wird sie nicht
 korrigiert. Kein Eskalationsmarker im Text.
 
 ## #7347 — Jill Hibbs (hibbsjill@yahoo.com) — zweite Fassung, zweimal abgelehnt für etwas, das sie nie getan hat  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe, durchgehend offene Vorgang, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: Order #7347 confirmed
 
@@ -12754,7 +12754,7 @@ Kreditkartenfirma oder öffentlichen Beiträgen abzubringen**, und nichts daran
 geknüpft. **Keine rechtliche Bewertung.** Kein Eskalationsmarker im Text.
 
 ## #8142 — Wendy Price (wendyprice579@gmail.com) — Erstkontakt, GB  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe, durchgehend offene Vorgang, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: Defective
 
@@ -15085,7 +15085,7 @@ verlangt** — die Ware ist entsorgt, und das wird nicht gegen ihn verwendet.
 presentment-Betrag. Kein Eskalationsmarker im Text.
 
 ## #8142 — Wendy Price (wendyprice579@gmail.com) — GB, ⛔ **zweiter Kontakt, bisher keine einzige Antwort**  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe, durchgehend offene Vorgang, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: Defective
 
@@ -15761,7 +15761,7 @@ nie geantwortet worden** — es wird genau gesagt, was er wann bekommen hat.
 Eskalationsmarker im Text.
 
 ## #7347 — Jill Hibbs (hibbsjill@yahoo.com) — GB, ⛔ **dritte Bitte, den unbeschädigten Fluffy zurückzugeben, dritte Vorlagen-Absage**  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe, durchgehend offene Vorgang, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: Order #7347 confirmed
 
@@ -16478,7 +16478,7 @@ ihre Hunde, ihr Kauverhalten oder darüber, was „soft mouthed" bedeuten soll.*
 Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
 
 ## #8372 — Kerri Forbey (wollenzienk@hotmail.com) — US, ⛔ **zweimal eine Kauschaden-Absage für einen Schaden, den es nie gab**  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe, durchgehend offene Vorgang, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: Paw friends plushies
 
@@ -16767,7 +16767,7 @@ Rücksendeadresse erfunden.** **Keine Umrechnung** — 54,25 A$ ist der
 presentment-Betrag. Kein Eskalationsmarker im Text.
 
 ## #8142 — Wendy Price (wendyprice579@gmail.com) — GB, ⛔🔴 **dritter Kontakt, noch immer keine Antwort, Bank und Bewertung angekündigt**  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe, durchgehend offene Vorgang, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: FW: RE: FW: Defective
 
@@ -17698,7 +17698,7 @@ nicht.** **Keine Rekonstruktion der Anzeige.** **Keine Aussage zur Qualität.**
 **Kein Foto verlangt.** Kein Eskalationsmarker im Text.
 
 ## #8142 — Wendy Price (wendyprice579@gmail.com) — GB, **vierter Kontakt: erste Antwort nach fünf Tagen war die Kauschaden-Vorlage**  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe, durchgehend offene Vorgang, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: FW: Defective
 
@@ -17753,7 +17753,7 @@ abzubringen.** **Keine rechtliche Bewertung.** **Kein Foto verlangt.** Kein
 Eskalationsmarker im Text.
 
 ## #7347 — Jill Hibbs (hibbsjill@yahoo.com) — GB, **lehnt das Prozentangebot zum zweiten Mal ab und will zurücksenden**  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe, durchgehend offene Vorgang, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: Order #7347 confirmed
 
@@ -17805,7 +17805,7 @@ nicht. **Kein Nachweis und kein Foto verlangt.** **Keine Aussage zur Qualität.*
 **Kein Druck, das Angebot doch anzunehmen.** Kein Eskalationsmarker im Text.
 
 ## #8372 — Kerri Forbey (wollenzienk@hotmail.com) — US, **dritte Kauschaden-Vorlage für Ware, die sie nie ausgepackt hat**  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe, durchgehend offene Vorgang, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: Paw friends plushies
 
@@ -20058,7 +20058,7 @@ dem Bestelldatensatz** — er ist derzeit nicht abrufbar. Kein
 Eskalationsmarker im Text.
 
 ## #8142 — Wendy Price (`wendyprice579@gmail.com`) — **versiegelter Artikel dreimal übergangen** · 28.09.  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe, durchgehend offene Vorgang, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** `Re: FW: Defective`
 
@@ -20355,7 +20355,8 @@ danach wird gefragt. **Nichts aus Rasse oder Größe ihres Hundes gefolgert.**
 und es wird nichts behauptet, was nicht geprüft werden konnte. **Keine
 Kauschaden-Vorlage, kein Prozentangebot.** Kein Eskalationsmarker im Text.
 
-## #8372 — Kerri (`wollenzienk@hotmail.com`) — **hat das 39 %-Angebot ANGENOMMEN** · 29.09.
+## #8372 — Kerri (`wollenzienk@hotmail.com`) — **hat das 39 %-Angebot ANGENOMMEN** · 29.09.  
+**✅ GEPRÜFT am 30.09.: Dies ist die geltende Fassung für diesen Kunden. Alle früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
 **Betreff:** `Re: Paw friends plushies`
 
@@ -21405,7 +21406,8 @@ Anzeige habe etwas anderes gesagt.** **Ihre Zeitangabe wird wiedergegeben,
 nicht bewertet.** **Fotos nicht geöffnet.** **Warnung, nichts zu
 verschicken.** Kein Eskalationsmarker im Text.
 
-## #8142 — Wendy Price (`wendyprice579@gmail.com`) — **VIERTE Nachfrage zum versiegelten Artikel** · 29.09. abends
+## #8142 — Wendy Price (`wendyprice579@gmail.com`) — **VIERTE Nachfrage zum versiegelten Artikel** · 29.09. abends  
+**✅ GEPRÜFT am 30.09.: Dies ist die geltende Fassung für diesen Kunden. Alle früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
 **Betreff:** `Re: FW: Defective`
 
@@ -22000,7 +22002,8 @@ ausdrücklich nicht aufgeteilt.** **Fotos nicht geöffnet.** **Der AU-Abschnitt
 nur benannt, nicht ausgelegt.** **Nichts aus ihrem Hund gefolgert.** Kein
 Eskalationsmarker im Text.
 
-## #7347 — Jill Hibbs (`hibbsjill@yahoo.com`) — **lehnt das zweite Prozentangebot ab, will zurückschicken** · 30.09.
+## #7347 — Jill Hibbs (`hibbsjill@yahoo.com`) — **lehnt das zweite Prozentangebot ab, will zurückschicken** · 30.09.  
+**✅ GEPRÜFT am 30.09.: Dies ist die geltende Fassung für diesen Kunden. Alle früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
 **Betreff:** `Re: Order #7347 confirmed`
 
