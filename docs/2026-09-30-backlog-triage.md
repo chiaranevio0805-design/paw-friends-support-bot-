@@ -1065,3 +1065,55 @@ UTC**, bearbeitet.
 **Keine Erstattung ausgelöst, keine Bestellung storniert, keine Bestellung
 verändert, nichts versendet.** Tagesstand unverändert: **elf Kundenfälle,
 425 Entwürfe, keiner davon in Gmail.**
+
+---
+
+## Lauf 23:20 UTC — nichts Neues · Tagesabschluss 30.09.
+
+**Posteingang geprüft (`in:inbox is:unread newer_than:3h`): leer.** Die letzte
+eingegangene Nachricht bleibt **#5973 Stephen Cooil, 20:15:39 UTC**.
+
+### Was heute passiert ist
+
+**Elf Kundenfälle**, davon **zehn eskaliert** und **einer Needs Approval**:
+
+| # | Kunde | Kern |
+|---|---|---|
+| #7048 | Josephine Carr | 40 % angenommen, Auszahlung über Klarna gewünscht |
+| #8431 | Sarah Williams (AU) | verlangt Erstattung nur für den **ungeöffneten** Elefanten |
+| #8126 | Joanne Wurth (AU) | wollte Porto zahlen für eine Rücksendung, die es nicht gibt |
+| #7347 | Jill Hibbs | dritte Nachfrage, zweites Prozentangebot abgelehnt |
+| #7749 | Adrian Vincent-Janes | dritter Kontakt, **Sicherheitsmeldung zum dritten Mal** |
+| #7091 | HUD Bullivant (AU) | Bestellung identifiziert, zwölf Tage bis Versand |
+| — | Jen Helmuth | keine Bestellung unter ihrer Adresse auffindbar |
+| #7401 | Mick | Ungleichbehandlung **und** Verbraucherrecht |
+| #7034 | Sarah Checksfield | zum zweiten Mal über den falschen Artikel geantwortet bekommen |
+| #6254 | Dave Hickman | 35 % angenommen |
+| **#5973** | **Stephen Cooil** | **zweimal schriftlich „processed", Datensatz £0,00** |
+
+### Zahlen zum Tagesende
+
+- **Entwürfe in `docs/entwuerfe-zum-kopieren.md`: 425.** **Das ist die Zahl der
+  geschriebenen Texte, nicht der versendbaren Antworten** — **89 Kunden haben
+  weiterhin mehrere Fassungen**, und ein Durchgang auf veraltete Zeitangaben
+  steht aus.
+- **In Gmail angelegt: null.** `create_draft` und die Label-Werkzeuge sind
+  **seit dem 21.08. gesperrt**.
+- **Versendet: nichts.** Dieses Postfach hat keine Sendefunktion.
+- **Erstattungen ausgelöst: keine.** **Stornierungen: keine.**
+  **Bestelländerungen: keine.**
+- **Offene Geldzusagen: fünfzehn**, davon drei ausdrücklich angenommen
+  (#8372 39 %, #7048 40 %, #6254 35 %) und **eine zweimal als ausgeführt
+  bestätigt, ohne ausgeführt zu sein (#5973)**.
+
+### Was der Owner morgen als Erstes braucht
+
+1. **#5973 bezahlen oder ihm sagen, dass nicht bezahlt wird.** Zwei
+   schriftliche Bestätigungen ohne Deckung sind der schwerste Posten im
+   Backlog.
+2. **Die Kauschaden-Vorlage abschalten.** Sie hat heute in fünf Fällen den
+   falschen Artikel beantwortet.
+3. **Eine Rücksendeadresse.** Zehn Menschen halten ungeöffnete Ware; #2095
+   wartet seit 75 Tagen, ihre Bank wartet mit.
+4. **#7324s Sicherheitsmeldung beantworten** — und #7749s dritte.
+5. **Die Passkey-Warnung vom 26.09. prüfen** (vier Tage alt).
