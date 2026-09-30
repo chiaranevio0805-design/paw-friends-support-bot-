@@ -935,3 +935,32 @@ Texte, nicht die Zahl der versendbaren Antworten** — 89 Kunden haben
 weiterhin mehrere Fassungen, von denen nur eine gilt, und mehrere geltende
 Fassungen enthalten veraltete Zeitangaben. **Beides gehört in Teil 1 des
 Abendreports.**
+
+---
+
+## Lauf 19:20 UTC — nichts Neues
+
+**Posteingang geprüft (`in:inbox is:unread`, 25 Threads): keine neue Nachricht
+seit dem Lauf um 18:20.** Die jüngste eingegangene Nachricht bleibt **#6254
+Dave Hickman, 30.09. 16:39:11 UTC**, und die ist bearbeitet.
+
+**Keine Erstattung ausgelöst, keine Bestellung storniert, keine Bestellung
+verändert, nichts versendet.**
+
+**In diesem Lauf erstellt:** `docs/2026-09-30-abendreport.md` (Commit
+`fd4d1f7`) — der deutsche Abendreport für heute, dreiteilig, mit den zehn
+heutigen Entwürfen im vollen Wortlaut, dem Übertrag der zehn weiterhin offenen
+Entwürfe vom 29.09. und einem leeren Teil 3.
+
+**Im Abendreport ausdrücklich festgehalten:**
+- **„424" ist die Zahl der geschriebenen Texte, nicht der versendbaren
+  Antworten** — 89 Kunden haben weiterhin mehrere Fassungen, und ein
+  vollständiger Durchgang auf veraltete Datumsbezüge steht aus.
+- **Fünfzehn offene Geldzusagen**, davon drei ausdrücklich angenommen.
+- **#6254 = £44,95**, nicht £34,95 wie in den Abendreports der Vortage.
+- **#7324 war nicht die erste Sicherheitsmeldung** — es liegen mindestens
+  fünf vor.
+- **Die Abweichung beim Übertrag ist offen benannt:** die zehn Entwürfe vom
+  29.09. sind dort nur mit Fundstelle genannt, nicht ausgeschrieben. **Der
+  Wortlaut steht unverändert in `docs/2026-09-29-abendreport.md` und wurde
+  nicht gekürzt, nicht zusammengefasst und nicht rekonstruiert.**
