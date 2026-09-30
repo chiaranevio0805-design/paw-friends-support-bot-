@@ -810,3 +810,59 @@ unterdrückt, das gesendet gehört.**
   ausdrücklich offengelassen** (#8295, #7547, #7608) · **90 weiterhin nur mit
   Warnhinweis.**
 - **Keine Erstattung, keine Stornierung ausgeführt.**
+
+---
+
+## Lauf 16:20 UTC
+
+**Posteingang: nichts Neues.** **Dublettenprüfung fortgesetzt — und dabei ein
+Problem gefunden, das ALLE älteren Entwürfe betrifft.**
+
+### ✅ #7547 Luke Prior (5 Fassungen) — geprüft und aufgelöst
+
+**Im 15:20-Lauf hatte ich diesen Stapel offengelassen, weil die Betreffzeilen
+sich unterscheiden.** **Die Threads sind jetzt in Gmail gelesen:**
+
+| Thread | Verlauf |
+|---|---|
+| **„Poor all round"** | 16.09. seine Erstattungsforderung → 18.09. Kauschaden-Vorlage. **Seitdem tot.** |
+| **„No order"** | 17.09. Vorlage → **17.09. seine Berufung auf den Consumer Rights Act 2015** → 19.09. zweite Vorlage → **19.09. *„You are not compliant with legislation… making false claims"*** → 22.09. dritte Vorlage. **Hier steht seine letzte Nachricht.** |
+
+**Es sind zwei Threads, aber EIN Vorgang.** **Die vierte Fassung deckt ihn
+vollständig ab** — Erstattung, Werbung, Rechtspunkt, die zehn Tage bis zum
+Versand und die zwei erteilten Absagen. **Vier ältere Fassungen sind als
+ersetzt markiert; die geltende trägt den Hinweis, sie NUR EINMAL zu senden,
+und zwar im Thread „No order".**
+
+### 🟥 NEUER BEFUND: die geltenden Entwürfe selbst veralten
+
+**Beim Lesen der #7547-Fassung ist aufgefallen, dass sie Sätze enthält wie**
+*„You have now had the same refusal twice — on Thursday and again this
+morning"*. **Der Text stammt vom 22.09.** **Würde er heute gesendet, wären
+diese Zeitangaben schlicht falsch.**
+
+**Das betrifft nicht nur #7547.** **Jeder Entwurf, der relative Zeitangaben
+enthält — „this morning", „yesterday", „today", „within a week" — wird mit
+jedem Tag, an dem er ungesendet bleibt, ein Stück unrichtiger.** **Bei 423
+Entwürfen, von denen die ältesten aus dem Juli stammen, ist das ein
+systematisches Problem und keine Kleinigkeit.**
+
+**Ich habe es bei #7547 mit einem ausdrücklichen Hinweis versehen:**
+
+> **⚠️ VOR DEM SENDEN ANPASSEN: der Text stammt vom 22.09. und enthält
+> relative Zeitangaben, die heute nicht mehr stimmen.**
+
+**Eine vollständige Prüfung aller Entwürfe auf veraltete Zeitangaben steht
+aus.** **Sie gehört auf dieselbe Liste wie die Dublettenprüfung, und ich sage
+es lieber jetzt, als es beim Senden auffallen zu lassen.**
+
+### Stand nach diesem Lauf
+
+- **Neun Kundenvorgänge am 30.09.** (unverändert).
+- **423 Entwürfe**, **keiner in Gmail.**
+- **Dublettenstand:** **6 geprüft und aufgelöst** (#7479, #7048, #7347,
+  #8142, #8372, **#7547**) · **2 geprüft und begründet offengelassen**
+  (#8295, #7608) · **90 weiterhin nur mit Warnhinweis.**
+- **⚠️ NEU OFFEN: Prüfung aller Entwürfe auf veraltete relative
+  Zeitangaben.**
+- **Keine Erstattung, keine Stornierung ausgeführt.**

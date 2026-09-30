@@ -558,7 +558,7 @@ Abwicklung ausdrücklich als offen benannt.
 ---
 
 ## #7547 — lukepriora20@hotmail.com — Ware nicht angekommen, will stornieren  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: beide Threads („Poor all round" und „No order") betreffen denselben Vorgang; die vierte Fassung deckt ihn vollständig ab. NICHT senden.**
 
 **Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
 bestehenden Thread, Betreff `Re: No order`.
@@ -2430,7 +2430,7 @@ Aufforderung, Kartendaten zu senden** — im Gegenteil, eine Warnung davor.
 ---
 
 ## #7547 — lukepriora20@hotmail.com — ZWEITE FASSUNG, nach der Lieferauskunft vom 13.09.  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: beide Threads („Poor all round" und „No order") betreffen denselben Vorgang; die vierte Fassung deckt ihn vollständig ab. NICHT senden.**
 
 **Neu geschrieben am 13.09.** Ersetzt die Fassung vom 11.09., die nie gesendet
 wurde. Antwort im bestehenden Thread, Betreff `Re: No order`.
@@ -7077,7 +7077,7 @@ Eskalationsmarker im Text.
 ---
 
 ## #7547 — Luke Prior (lukepriora20@hotmail.com) — zweite Fassung: seine Erstattungsbitte wurde dreimal übergangen  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: beide Threads („Poor all round" und „No order") betreffen denselben Vorgang; die vierte Fassung deckt ihn vollständig ab. NICHT senden.**
 
 **Betreff:** Re: Poor all round
 
@@ -8297,7 +8297,7 @@ Eskalationsmarker im Text.
 ---
 
 ## #7547 — Luke Prior (lukepriora20@hotmail.com) — dritte Fassung  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: beide Threads („Poor all round" und „No order") betreffen denselben Vorgang; die vierte Fassung deckt ihn vollständig ab. NICHT senden.**
 
 **Betreff:** Re: No order
 
@@ -12456,7 +12456,9 @@ die Zuordnung ist ungesichert (Bestellung #7275 trägt keine E-Mail-Adresse), un
 das wird ihm offen gesagt. **Keine Auswertung der Fotos.** **Keine rechtliche
 Bewertung.** **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
 
-## #7547 — Luke Prior (lukepriora20@hotmail.com) — vierte Fassung, zweite Absage nach Gesetzesberufung
+## #7547 — Luke Prior (lukepriora20@hotmail.com) — vierte Fassung, zweite Absage nach Gesetzesberufung  
+**✅ GEPRÜFT am 30.09.: geltende Fassung. Sie deckt beide Threads ab („Poor all round" und „No order") — NUR EINMAL senden, im Thread „No order", in dem seine letzte Nachricht steht.**
+**⚠️ VOR DEM SENDEN ANPASSEN: der Text stammt vom 22.09. und enthält relative Zeitangaben („on Thursday and again this morning"), die heute nicht mehr stimmen.**
 
 **Betreff:** Re: No order
 
