@@ -3690,7 +3690,7 @@ Rücksendeadresse. Keine rechtliche Einordnung.
 ---
 
 ## #7479 — Richard Bellamy-Williams (richard@brownwolf.net)  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe Vorgang, dieselbe Betreffzeile, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: Refund request and business address request
 
@@ -5069,7 +5069,7 @@ Kein Datum versprochen. Kein Betrag. Keine Rücksendeadresse.
 ---
 
 ## #7479 — Richard Bellamy-Williams — zweite Fassung  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe Vorgang, dieselbe Betreffzeile, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** RE: Refund request and business address request
 
@@ -5276,7 +5276,7 @@ rechtliche Einordnung.
 ---
 
 ## #7048 — Josephine Carr (jocarr247@yahoo.com)  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe Vorgang, dieselbe Betreffzeile, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: #7048
 
@@ -6438,7 +6438,7 @@ Eskalationsmarker im Text.
 ---
 
 ## #7479 — Richard Bellamy (richard@brownwolf.net) — dritte Fassung  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe Vorgang, dieselbe Betreffzeile, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: Refund request and business address request
 
@@ -9009,7 +9009,7 @@ der Garantie verlangt hat. Keine Rücksendeadresse, samt Warnung. Kein
 Eskalationsmarker im Text.
 
 ## #7479 — Richard Bellamy (richard@brownwolf.net) — vierte Fassung, ⚠️ er kündigt Zustellung an  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe Vorgang, dieselbe Betreffzeile, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: Fw: Refund request and business address request
 
@@ -9695,7 +9695,7 @@ Frist genannt** — sie hat keine Rückgabe unter der Garantie verlangt. Keine
 Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
 ## #7048 — Josephine Carr (jocarr247@yahoo.com) — ⚠️ 30 % angeboten, obwohl die Ware ungeöffnet ist  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe Vorgang, dieselbe Betreffzeile, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: #7048
 
@@ -12215,7 +12215,7 @@ Versanddienstleister, keine Herkunftsangabe, keine Rücksendeadresse erfunden**
 Kosten verschickt). Kein Eskalationsmarker im Text.
 
 ## #7479 — Richard Bellamy-Williams (richard@brownwolf.net) — fünfte Fassung, Frist 21.09.  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe Vorgang, dieselbe Betreffzeile, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: Refund request and business address request
 
@@ -13514,7 +13514,7 @@ Lieferzeit**, die er selbst hat durchgehen lassen. Kein Eskalationsmarker im
 Text.
 
 ## #7479 — Richard Bellamy-Williams (richard@brownwolf.net) — **sechste Fassung, Frist läuft heute ab**  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe Vorgang, dieselbe Betreffzeile, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: Refund request and business address request
 
@@ -14532,7 +14532,7 @@ kein Betrag, kein Termin, keine dritte Absage.** **Keine Rücksendeadresse
 erfunden.** Kein Eskalationsmarker im Text.
 
 ## #7048 — Jo Carr (jocarr247@yahoo.com) — 40 % angeboten, beruft sich auf „full refund"  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe Vorgang, dieselbe Betreffzeile, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: #7048
 
@@ -16535,7 +16535,7 @@ Umrechnung** — 96,89 $ ist der presentment-Betrag. Kein Eskalationsmarker im
 Text.
 
 ## #7479 — Richard Bellamy-Williams (richard@brownwolf.net) — GB, 🔴 **lehnt die 30 % ab und bleibt bei der Erstattung**  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe Vorgang, dieselbe Betreffzeile, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: FW: Refund request and business address request
 
@@ -16930,7 +16930,7 @@ der Anzeige.** **Foto nicht geöffnet**, und das wird ihm gesagt. **Keine
 Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
 
 ## #7048 — Josephine Carr (jocarr247@yahoo.com) — GB, ⛔ **vierter Kontakt, will an eine „UK department" zurücksenden, die es nicht gibt**  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe Vorgang, dieselbe Betreffzeile, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: #7048
 
@@ -18825,7 +18825,7 @@ darüber, wie lange der Artikel hätte halten sollen, in keine Richtung.**
 verlangt**, ausdrücklich abbestellt. Kein Eskalationsmarker im Text.
 
 ## #7048 — Josephine Carr (jocarr247@yahoo.com) — GB, **fünfter Kontakt, seit zwei Tagen unbeantwortet**  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe Vorgang, dieselbe Betreffzeile, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: #7048
 
@@ -19901,7 +19901,7 @@ Richtung.** **Kein Foto verlangt**, die beigefügten **nicht geöffnet.**
 Text.
 
 ## #7479 — Richard Bellamy (`richard@brownwolf.net`) — **lehnt 50 % ab, ruft die Garantie für den ungeöffneten Artikel an** · 28.09.  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe Vorgang, dieselbe Betreffzeile, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** `RE: FW: Refund request and business address request`
 
@@ -21572,7 +21572,8 @@ Beleg** — der Versandbeleg vom 28.09. wird genannt. **Keine rechtliche
 Bewertung.** **Warnung, nichts zu verschicken.** Kein Eskalationsmarker im
 Text.
 
-## #7479 — Richard Bellamy (`richard@brownwolf.net`) — **VIERTES Prozentangebot abgelehnt** · 29.09. abends
+## #7479 — Richard Bellamy (`richard@brownwolf.net`) — **VIERTES Prozentangebot abgelehnt** · 29.09. abends  
+**✅ GEPRÜFT am 30.09.: Dies ist die geltende Fassung für diesen Kunden. Alle früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
 **Betreff:** `Re: FW: Refund request and business address request`
 
@@ -21748,7 +21749,8 @@ begründet, mit einem einfachen Weg, es aufzulösen.** **Keine zweite
 Kauschaden-Vorlage.** **Keine Garantieentscheidung.** **Nichts aus Rasse oder
 Größe seines Hundes gefolgert.** Kein Eskalationsmarker im Text.
 
-## #7048 — Josephine Carr (`jocarr247@yahoo.com`) — **hat die 40 % ausdrücklich ANGENOMMEN und Klarna als Zahlweg genannt** · 30.09.
+## #7048 — Josephine Carr (`jocarr247@yahoo.com`) — **hat die 40 % ausdrücklich ANGENOMMEN und Klarna als Zahlweg genannt** · 30.09.  
+**✅ GEPRÜFT am 30.09.: Dies ist die geltende Fassung für diesen Kunden. Alle früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
 **Betreff:** `Re: #7048`
 

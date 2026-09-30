@@ -711,3 +711,51 @@ bleibt bei zweiundachtzig.**
 - **🟥 Fünfzehnter belegter Folgefall des Serienversands vom 29.09.**
 - **🟥 Sechs Personen, bei denen die Vorlage am ungeöffneten Artikel
   vorbeiging** — #8142, #7479, #8456, #8372, #8126, **#7034**.
+
+---
+
+## Lauf 14:20 UTC
+
+**Posteingang: nichts Neues.** **Der Lauf wurde für die im 12:20-Lauf
+angekündigte Einzelprüfung der Entwurfs-Dubletten genutzt — begonnen bei den
+beiden größten Stapeln.**
+
+### ✅ #7479 (neun Fassungen) und #7048 (sieben Fassungen) — geprüft und aufgelöst
+
+**Prüfkriterium:** identische Betreffzeile **und** durchgehend derselbe,
+ununterbrochen offene Vorgang. **Beides trifft bei beiden Kunden zu:**
+
+- **#7479 Richard Bellamy** — alle neun Fassungen tragen
+  `Re: Refund request and business address request` (bzw. `Fw:`/`FW:`
+  davon) und betreffen durchgehend dieselbe, nie erledigte
+  Erstattungsforderung. **Acht ältere Fassungen sind jetzt ausdrücklich als
+  ersetzt markiert; die Fassung vom 29.09. abends gilt.**
+- **#7048 Josephine Carr** — alle sieben tragen `Re: #7048` und betreffen
+  denselben Vorgang bis zur Annahme der 40 % heute früh. **Sechs ältere
+  Fassungen sind als ersetzt markiert; die Fassung vom 30.09. gilt.**
+
+**Die jeweils geltende Fassung trägt jetzt eine positive Kennzeichnung:**
+
+> **✅ GEPRÜFT am 30.09.: Dies ist die geltende Fassung für diesen Kunden.
+> Alle früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+**Damit ist erstmals an zwei Fällen nicht nur gewarnt, sondern entschieden.**
+**Es wurde weiterhin kein Text gelöscht.**
+
+### Warum das nicht pauschal für alle 98 geht
+
+**Bei diesen beiden war die Prüfung eindeutig, weil Betreff und Vorgang über
+alle Fassungen identisch sind.** **Das gilt nicht überall:** bei **#8456**
+und **#8577** etwa gibt es nachweislich **zwei verschiedene Threads
+desselben Kunden**, und bei **#8568** ebenfalls. **Dort wäre eine pauschale
+Ersetzt-Markierung falsch** — der Entwurf für den zweiten Thread ist kein
+überholter, sondern ein eigener. **Deshalb bleibt es bei der Einzelprüfung.**
+
+### Stand nach diesem Lauf
+
+- **Neun Kundenvorgänge am 30.09.** (unverändert).
+- **423 Entwürfe in der Datei**, **keiner in Gmail.**
+- **Dublettenstand:** **98 Kunden mit mehreren Fassungen** · **2 davon
+  vollständig geprüft und aufgelöst (#7479, #7048)** · **96 weiterhin nur mit
+  Warnhinweis.**
+- **Keine Erstattung, keine Stornierung ausgeführt.**
