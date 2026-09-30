@@ -19094,7 +19094,8 @@ behauptet, sie sei versandt.** **Keine Bitte, weiter zu warten oder erneut zu
 schreiben.** **Kein Versuch, ihn von seinem Zahlungsdienstleister
 abzubringen.** Kein Eskalationsmarker im Text.
 
-## #7034 — Sarah Checksfield (sarahc300@gmail.com) — GB, **zweiter Kontakt, zweiter Artikel ungeöffnet, lehnt einen Gutschein ab**
+## #7034 — Sarah Checksfield (sarahc300@gmail.com) — GB, **zweiter Kontakt, zweiter Artikel ungeöffnet, lehnt einen Gutschein ab**  
+**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Destroyed in seconds
 
@@ -22363,6 +22364,90 @@ Kein Eskalationsmarker im Text.
 Entwurf, nicht zwei.**
 **⚠️ DIESER Entwurf ersetzt ALLE fünf früheren #7401-Entwürfe in dieser
 Datei. Nur diesen senden.**
+
+## #7034 — Sarah Checksfield (`sarahc300@gmail.com`) — **fragt zum zweiten Mal nach dem UNGEÖFFNETEN Artikel; zweite Vorlage betraf wieder den benutzten** · 30.09.
+
+**Betreff:** `Re: Destroyed in seconds`
+
+> Dear Sarah,
+>
+> **You have now asked twice about the item that is still sealed in its
+> packaging, and both times you were answered about the one your dog
+> destroyed. That was wrong both times, and it was our error, not a
+> misunderstanding on your side.** **No third copy of that paragraph is
+> coming from me.**
+>
+> **You also asked, quite reasonably, how you go about it.** **The honest
+> answer is that you cannot at the moment: there is no returns address on our
+> side, and I have none to give you.** **Please do not post anything.**
+> **That is not a refusal of your refund, and it is not a condition of
+> anything** — it is simply the position, and you should have had it on
+> 26 September when you first asked.
+>
+> **On the refund itself: I cannot approve one from this desk, and I am not
+> going to refuse you.** That decision belongs to the shop owner. **Your
+> request goes to him today in your own words, and I am putting it to him as
+> what it is — a request about an unopened item, not about the destroyed
+> one.** **I am not going to give you a date.**
+>
+> **You said you want it back to your original payment method and have no use
+> for a voucher.** **That is recorded exactly as you wrote it and passed on
+> with the rest.** **No voucher is being offered to you here.**
+>
+> **You wrote that you still hope we will honour a promise to replace if
+> destroyed.** **I cannot see the advertisement as it was shown to you, so I
+> am not going to tell you what it said, and I am certainly not going to
+> suggest you misremembered it.** **And I am not going to promise you a
+> replacement** — there is a customer who was promised one in writing in July
+> and is still waiting at the end of September, and I will not add you to
+> that list. **Your sentence about it goes to the owner unchanged, because
+> only he can look at what was actually advertised.**
+>
+> **What I can check, I have:** I have read all twelve of our current product
+> descriptions. **The word you put in quotation marks appears in none of
+> them.** **That is a statement about those twelve texts and nothing more.**
+>
+> **What I am not going to do is tell you the guarantee covers the unopened
+> item, or tell you it does not.** **That is his decision and not mine**, and
+> quoting you a rule I cannot apply would not help you.
+>
+> **From the order record:** **you ordered on 21 August and the parcel was
+> not despatched until 2 September — twelve days — and by your account it
+> reached you on 12 September.** **Nothing has been refunded on this order at
+> any point.** **The total you paid is £27.95.** **I am not going to split
+> that between the two toys** — they were sold at a bundle price and any
+> per-toy figure would be a guess.
+>
+> **You attached a photograph. I have not opened it, and I am not asking you
+> for anything further.**
+>
+> **You mentioned a Facebook survey and what you were tempted to write.**
+> **Nothing here is conditional on that, in any direction, and I am not
+> asking you to hold off or to soften anything.**
+>
+> **I am not going to make any claim about the toys in either direction, and
+> I am drawing no conclusion from your dog.**
+>
+> I am sorry it took three messages to get a reply about the right toy.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Anerkennung, dass zweimal über den falschen
+Artikel geantwortet wurde**, die **direkte Antwort auf ihre Verfahrensfrage —
+es gibt keinen Rückgabeweg**, die **Weitergabe ihrer Forderung ausdrücklich
+als Forderung zum ungeöffneten Artikel**, und die **Auskunft, dass nichts
+erstattet wurde.** **Keine Erstattung zugesagt, kein Ersatz zugesagt, kein
+Termin — und keine Absage.** **KEIN Gutschein angeboten**, und **nicht
+behauptet, es sei je einer angeboten worden oder nicht** — ihre Angabe wird
+nur aufgenommen. **Nicht behauptet, die von ihr erinnerte Ersatzzusage
+existiere nicht** — nur der Befund zu den zwölf Produkttexten. **Keine
+Garantieentscheidung zum ungeöffneten Artikel, in keine Richtung.** **Keine
+dritte Kauschaden-Vorlage.** **Nichts an die Facebook-Umfrage oder eine
+Bewertung geknüpft.** **Gesamtbetrag genannt, nicht aufgeteilt.** **Foto
+nicht geöffnet.** **Nichts aus ihrem Hund gefolgert.** Kein
+Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 

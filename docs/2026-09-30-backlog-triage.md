@@ -653,3 +653,61 @@ Schritt hier protokollieren.**
 - **Keine Erstattung, keine Stornierung ausgeführt.**
 - **⚠️ OFFEN: inhaltliche Einzelprüfung der 98 Kunden mit mehreren
   Entwürfen.**
+
+---
+
+## Lauf 13:20 UTC
+
+### ⛔🟥 #7034 — Sarah Checksfield (`sarahc300@gmail.com`), 30.09. 12:53 UTC — **zweite Nachfrage zum UNGEÖFFNETEN Artikel**
+
+> *„I would still appreciate a full refund on **the item which is still in
+> it's original packaging**. **Please let me have details how I go about
+> this**… **Please refund my money to the original payment method as I have
+> no use for a voucher against future purchases.**"*
+
+**Der belegte Verlauf:**
+
+| Datum | Vorgang |
+|---|---|
+| 21.08. | Bestellung **#7034**, **27,95 £**, 2 × Plushies (pig, fox) |
+| **02.09.** | Versand — **zwölf Tage** · Zustellung **12.09.** nach ihrer Angabe |
+| 13.09. | Erstkontakt: Fuchs zerstört, *„Can you please arrange a refund or replacement"* |
+| 15.09. | **Kauschaden-Vorlage** — immerhin „Dear Sarah" |
+| **26.09.** | *„I would still appreciate a full refund on **the second item which is still in it's original packaging**"*; erwähnt eine Facebook-Umfrage; *„I still hope you can honour your promise to replace if destroyed"* |
+| **29.09. 21:15:42** | **zweite Vorlage im Serienversand** — **wieder über den benutzten Artikel**, und diesmal „**Dear Customer**" |
+| 30.09. 12:53 | diese Nachricht |
+
+**Erstattet: 0,00 £, `refunds` leer.**
+
+**🟥 Sie ist die sechste Person, bei der die Vorlage am ungeöffneten Artikel
+vorbeigeht** — nach #8142, #7479, #8456, #8372 und #8126. **Bei ihr ist es
+zweimal passiert, am 15.09. und am 29.09.**
+
+**🟦 Neu und bemerkenswert:** **die zweite Vorlage war unpersönlicher als die
+erste.** Am 15.09. wurde sie mit „Dear Sarah" angeschrieben, am 29.09. mit
+„Dear Customer".
+
+**Im Entwurf:** **kein Gutschein angeboten**, und **nicht behauptet, es sei je
+einer angeboten worden oder nicht** — ihre Angabe wird nur aufgenommen und
+weitergegeben; **kein Ersatz zugesagt** (Begründung: das seit Juli offene
+Versprechen); **nicht behauptet, die von ihr erinnerte Ersatzzusage aus der
+Werbung existiere nicht**; **keine Garantieentscheidung zum ungeöffneten
+Artikel, in keine Richtung**; **ihre Verfahrensfrage direkt beantwortet — es
+gibt keinen Rückgabeweg**, mit der Anerkennung, dass sie das am 26.09. hätte
+hören müssen; **nichts an die Facebook-Umfrage geknüpft**; **zwölf Tage bis
+zum Versand offen benannt.**
+
+**⚠️ #7034 ist bereits früher als Werbeaussage gezählt worden. Die Zählung
+bleibt bei zweiundachtzig.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### Stand nach diesem Lauf
+
+- **Neun Kundenvorgänge am 30.09.**
+- **423 Entwürfe in der Datei**, **keiner in Gmail.** **165 tragen einen
+  Warnhinweis, weil ein neuerer Entwurf für denselben Kunden existiert.**
+- **Keine Erstattung, keine Stornierung ausgeführt.**
+- **🟥 Fünfzehnter belegter Folgefall des Serienversands vom 29.09.**
+- **🟥 Sechs Personen, bei denen die Vorlage am ungeöffneten Artikel
+  vorbeiging** — #8142, #7479, #8456, #8372, #8126, **#7034**.
