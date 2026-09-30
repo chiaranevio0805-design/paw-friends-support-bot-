@@ -1,0 +1,23 @@
+{
+ "clips_dir": "clips", "words": "clips/words.json", "out": "out/pawbesties_test_ad.mp4",
+ "hook": {"text": "YOUR DOG ISN'T THE PROBLEM", "until": 3.2},
+ "segments": [
+  {"clip": "c02.mp4", "in": 0.0, "out": 5.0,  "zooms": [[4.2, 5.0, 1.15]]},
+  {"clip": "c37.mp4", "in": 0.0, "out": 9.45, "zooms": [[7.4, 9.45, 1.1]]},
+  {"clip": "c08.mp4", "in": 0.0, "out": 5.3,  "zooms": [[4.45, 5.3, 1.18]]},
+  {"clip": "c23.mp4", "in": 0.0, "out": 9.9},
+  {"clip": "c06.mp4", "in": 0.0, "out": 4.85, "zooms": [[3.6, 4.85, 1.1]]},
+  {"clip": "c15.mp4", "in": 0.0, "out": 11.0, "captions_until": 8.3, "zooms": [[7.4, 8.4, 1.1]]}
+ ],
+ "replace": {"poor": "", "besties.": "Paw-Besties.", "dogboarding": "dog-boarding", "fur": "", "wonder": "FurWonder", "risk": "risk-free", "-free": ""},
+ "emphasis": {"isn't": "&H3C3CFF&", "brush": "&H3CFF3C&", "normal": "&H3C3CFF&", "30": "&H3CFF3C&", "money": "&H3CFF3C&", "back": "&H3CFF3C&", "paw-besties": "&H3CFF3C&", "undercoat": "&H3CFF3C&", "risk-free": "&H3CFF3C&"},
+ "music": {"file": "sounds/music_acoustic_pop_50s.mp3", "vol": 0.3},
+ "auto_whoosh": {"file": "sounds/whoosh.mp3", "vol": 0.45},
+ "sfx": [{"file": "sounds/whoa.mp3", "at": 29.75, "vol": 0.5}],
+ "word_sfx": [
+  {"seg": 0, "word": "isn't", "file": "sounds/boom.mp3", "vol": 0.8, "offset": -0.05},
+  {"seg": 2, "word": "brush", "file": "sounds/pop.mp3", "vol": 0.6},
+  {"seg": 5, "word": "30", "file": "sounds/pop.mp3", "vol": 0.6},
+  {"seg": 5, "word": "money", "file": "sounds/kaching.mp3", "vol": 0.55}
+ ]
+}
