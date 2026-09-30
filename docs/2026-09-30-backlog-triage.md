@@ -516,3 +516,63 @@ bei zweiundachtzig** — er ist am 25.09. bereits erfasst worden.
 - **🟦 Erster Fall, in dem ein Kunde eine Ungleichbehandlung gegenüber einem
   anderen Kunden geltend macht.** **Dazu wurde nichts bestätigt und nichts
   bestritten.**
+
+---
+
+## Lauf 11:20 UTC
+
+### ⛔🟥 #7401 — Mick, 30.09. 10:21 UTC — **zweite Nachricht, fünfzehn Minuten nach der ersten**
+
+> *„**A 'durable' dog toy that breaks in under 10 minutes is legally
+> considered faulty under UK consumer law**, and the retailer **must** offer
+> a remedy — usually a **full refund** if you report it within 30 days. The
+> fact you offered **no compensation** contradicts my statutory rights.
+> **I will be getting in touch with The UK consumer department, very
+> soon.**"*
+
+**Kein zweiter Entwurf.** **Der Entwurf aus dem 10:20-Lauf wurde erweitert:**
+
+- **Keine rechtliche Bewertung seiner Berufung auf das Verbraucherrecht, in
+  keine Richtung** — ihm wird weder gesagt, er habe recht, noch, er habe
+  unrecht. **Offen begründet: ein Support-Postfach ist nicht die Stelle, die
+  über seine Rechte entscheidet.**
+- **Nichts an die angekündigte Einschaltung der Verbraucherstelle geknüpft**,
+  und nicht um Aufschub gebeten.
+- **🟥 Eine Korrektur auf unserer Seite, die beim Lesen seiner Erstnachricht
+  auffiel:** **seine Nachricht vom 25.09. enthielt bereits eine konkrete
+  Forderung („a replacement or refund") UND denselben Rechtspunkt.** **Die
+  Vorlage vom 29.09. ging auf beides nicht ein.** **Das steht jetzt offen im
+  Entwurf.**
+
+### 🟥 Beim Nachprüfen gefunden: SECHS Entwürfe für #7401 in der Datei, keiner davon als ersetzt markiert
+
+**Die Suche nach dem heutigen Entwurf hat ergeben, dass für #7401
+insgesamt sechs Entwürfe existieren** — vom ersten Kontakt bis heute —
+**und bis eben war keiner davon als ersetzt gekennzeichnet.** **Hätte der
+Owner die Datei von oben abgearbeitet, hätte derselbe Kunde fünf veraltete
+Antworten bekommen können.**
+
+**Das ist jetzt behoben:** **die fünf früheren #7401-Entwürfe sind als
+ersetzt markiert**, und im heutigen steht ausdrücklich *„DIESER Entwurf
+ersetzt ALLE fünf früheren #7401-Entwürfe in dieser Datei. Nur diesen
+senden."*
+
+**⚠️ Das ist ein Hinweis auf ein allgemeineres Problem in der Entwurfsdatei,
+nicht nur auf #7401.** **Bei jedem Kunden mit mehreren Kontakten kann
+dasselbe vorliegen.** **Ich habe das bisher nur dort markiert, wo es mir im
+Einzelfall aufgefallen ist.** **Eine vollständige Durchsicht aller 422
+Entwürfe auf veraltete Dubletten steht aus und ist von hier aus in einem Lauf
+nicht leistbar** — **sie gehört auf die Liste, und ich sage das lieber, als
+den Eindruck zu erwecken, die Datei sei durchgehend sauber.**
+
+**Label:** unverändert `Bot/Escalated - Owner Attention` (jetzt zusätzlich
+Verbraucherrechts-Zitat).
+
+### Stand nach diesem Lauf
+
+- **Acht Kundenvorgänge am 30.09.** — #7401 zählt weiter als einer.
+- **422 Entwürfe in der Datei**, **keiner in Gmail.** **Vierzehn als ersetzt
+  markiert** (neun plus die fünf #7401-Dubletten).
+- **Keine Erstattung, keine Stornierung ausgeführt.**
+- **⚠️ OFFEN: vollständige Durchsicht der Entwurfsdatei auf veraltete
+  Dubletten.**

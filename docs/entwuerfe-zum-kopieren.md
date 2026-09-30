@@ -2260,7 +2260,8 @@ und dass ein zweiter Kunde denselben Policy-Einwand erhoben hat. **Keine Aussage
 
 ---
 
-## #7401 — laceymick31@gmail.com — „defective item"
+## #7401 — laceymick31@gmail.com — „defective item"  
+**⚠️ ERSETZT durch den Entwurf vom 30.09. — nicht zusätzlich senden.**
 
 **Neu geschrieben am 13.09.** Antwort im bestehenden Thread.
 **Er nennt es defekt; nach seiner eigenen Schilderung ist es Kauschaden. Der
@@ -4591,7 +4592,8 @@ davon abzubringen.** Keine rechtliche Einordnung. Kein Betrag.
 
 ---
 
-## #7401 — Mick Lacey (laceymick31@gmail.com) — zweite Fassung
+## #7401 — Mick Lacey (laceymick31@gmail.com) — zweite Fassung  
+**⚠️ ERSETZT durch den Entwurf vom 30.09. — nicht zusätzlich senden.**
 
 **Betreff:** Re: defective item — order #7401
 
@@ -8064,7 +8066,8 @@ Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
 ---
 
-## #7401 — Mick Lacey (laceymick31@gmail.com) — dritte Fassung
+## #7401 — Mick Lacey (laceymick31@gmail.com) — dritte Fassung  
+**⚠️ ERSETZT durch den Entwurf vom 30.09. — nicht zusätzlich senden.**
 
 **Betreff:** Re: defective item … order #7401
 
@@ -12812,7 +12815,8 @@ Gratisartikel.** **Keine Fotobedingung.** **Keine Rücksendeadresse erfunden.**
 **Keine rechtliche Bewertung** ihres Vorwurfs der irreführenden Werbung. Kein
 Eskalationsmarker im Text.
 
-## #7401 — Mick Lacey (laceymick31@gmail.com) — dritte Absage, stellt die Kernfrage direkt
+## #7401 — Mick Lacey (laceymick31@gmail.com) — dritte Absage, stellt die Kernfrage direkt  
+**⚠️ ERSETZT durch den Entwurf vom 30.09. — nicht zusätzlich senden.**
 
 **Betreff:** Re: defective item … order #7401
 
@@ -18357,7 +18361,8 @@ Anzeige.** **Keine Aussage zur Qualität, in keine Richtung.** **Kein Foto
 verlangt** — das beigefügte Bild wird nicht geöffnet. Kein Eskalationsmarker
 im Text.
 
-## #7401 — laceymick31@gmail.com — GB, **beruft sich auf UK-Verbraucherrecht, frühere Nachricht nicht auffindbar**
+## #7401 — laceymick31@gmail.com — GB, **beruft sich auf UK-Verbraucherrecht, frühere Nachricht nicht auffindbar**  
+**⚠️ ERSETZT durch den Entwurf vom 30.09. — nicht zusätzlich senden.**
 
 **Betreff:** Re: Defective item
 
@@ -22104,7 +22109,7 @@ habe es nicht enthalten.** **Keine Kauschaden-Vorlage.** **Keine Angaben aus
 einem Bestelldatensatz**, weil keiner zugeordnet werden konnte. **Nichts aus
 ihrem Welpen gefolgert.** Kein Eskalationsmarker im Text.
 
-## #7401 — Mick (`laceymick31@gmail.com`) — **fragt, warum ein Bekannter kostenlosen Ersatz bekam und er nicht** · 30.09.
+## #7401 — Mick (`laceymick31@gmail.com`) — **fragt nach Ungleichbehandlung UND beruft sich erneut auf das Verbraucherrecht** · 30.09.
 
 **Betreff:** `Re: Defective item`
 
@@ -22141,8 +22146,21 @@ ihrem Welpen gefolgert.** Kein Eskalationsmarker im Text.
 > **What I am not going to do is tell you the guarantee covers what happened,
 > or tell you it does not.** **That is his call and not mine.**
 >
-> **You wrote on 25 September and the reply came four days later.** **That is
-> too long and I am not going to explain it away.**
+> **You have also set out your view of your statutory rights, and you have
+> said you will contact the UK consumer department.** **I am not going to
+> tell you that you are right about the law, and I am not going to tell you
+> that you are wrong.** **A support desk is not the place that decides what
+> your rights are, and I would be doing you a disservice by pretending
+> otherwise.** **Your wording on that goes to the owner in full and unedited,
+> because it is part of what he is deciding.** **Nothing here is conditional
+> on whether you contact anybody, and I am not asking you to wait or to hold
+> off.**
+>
+> **One thing I want to correct on our side.** **Your message of
+> 25 September already asked for a remedy in plain terms — "a replacement or
+> refund" — and already set out the legal point you are making now.** **The
+> reply you got four days later addressed neither.** **That is too long, and
+> it answered the wrong thing, and I am not going to explain either away.**
 >
 > **You attached a photograph. I have not opened it, and I am not asking you
 > for anything further.** **Nothing here depends on you proving what
@@ -22168,8 +22186,19 @@ NICHTS bestritten und NICHTS beschrieben** — nicht einmal, ob die Person
 Kundin oder Kunde ist. **Die Begründung wird ihm offen genannt und nicht als
 Ausflucht stehen gelassen.** **Nicht behauptet, es habe keine
 Ungleichbehandlung gegeben, und nicht behauptet, es habe eine gegeben.**
-**Keine Garantieentscheidung.** **Foto nicht geöffnet.** **Nichts aus seinem
-Hund gefolgert.** Kein Eskalationsmarker im Text.
+**Keine Garantieentscheidung.** **KEINE rechtliche Bewertung seiner Berufung
+auf das Verbraucherrecht, in keine Richtung** — weder zustimmend noch
+widersprechend; **nichts an die angekündigte Einschaltung der
+Verbraucherstelle geknüpft**, und nicht um Aufschub gebeten. **Offen
+eingeräumt, dass seine Nachricht vom 25.09. bereits eine konkrete Forderung
+und den Rechtspunkt enthielt und die Antwort vom 29.09. auf beides nicht
+einging.** **Foto nicht geöffnet.** **Nichts aus seinem Hund gefolgert.**
+Kein Eskalationsmarker im Text.
+
+**⚠️ Die zweite Nachricht vom 30.09. 10:21 ist eingearbeitet — es bleibt EIN
+Entwurf, nicht zwei.**
+**⚠️ DIESER Entwurf ersetzt ALLE fünf früheren #7401-Entwürfe in dieser
+Datei. Nur diesen senden.**
 
 ## Was hier bewusst NICHT steht
 
