@@ -5969,7 +5969,7 @@ gefragt hat. Kein Eskalationsmarker im Text.
 ---
 
 ## #6254 — David Hickman (davehickman71@gmail.com)  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe Vorgang, er hat die 35 % inzwischen angenommen. NICHT senden.**
 
 **Betreff:** Re: A shipment from order #6254 is on the way
 
@@ -14703,7 +14703,7 @@ des Anhangs, keiner verlangt.** **Keine Behauptung, das Wort existiere nicht.**
 **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
 
 ## #6254 — David Hickman (davehickman71@gmail.com) — ⛔ **zwei ungeöffnete Artikel, weil die Vorlage ihn darauf hingewiesen hat**  
-**⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe Vorgang, er hat die 35 % inzwischen angenommen. NICHT senden.**
 
 **Betreff:** Re: A shipment from order #6254 is on the way
 
@@ -19963,7 +19963,8 @@ derzeit nicht abrufbar. Kein Eskalationsmarker im Text.
 
 ---
 
-## #6254 — David Hickman (`davehickman71@gmail.com`) — **antwortet auf 30 % mit einem Gegenvorschlag** · 28.09.
+## #6254 — David Hickman (`davehickman71@gmail.com`) — **antwortet auf 30 % mit einem Gegenvorschlag** · 28.09.  
+**⚠️ ERSETZT — geprüft am 30.09.: derselbe Vorgang, er hat die 35 % inzwischen angenommen. NICHT senden.**
 
 **Betreff:** `Re: A shipment from order #6254 is on the way`
 
@@ -22455,6 +22456,58 @@ dritte Kauschaden-Vorlage.** **Nichts an die Facebook-Umfrage oder eine
 Bewertung geknüpft.** **Gesamtbetrag genannt, nicht aufgeteilt.** **Foto
 nicht geöffnet.** **Nichts aus ihrem Hund gefolgert.** Kein
 Eskalationsmarker im Text.
+
+## #6254 — Dave Hickman (`davehickman71@gmail.com`) — **hat das 35 %-Angebot ANGENOMMEN** · 30.09.  
+**✅ GEPRÜFT am 30.09.: geltende Fassung für diesen Kunden.**
+
+**Betreff:** `Re: A shipment from order #6254 is on the way`
+
+> Dear Dave,
+>
+> **Thank you for the clear answer. Your acceptance of the 35 per cent is
+> recorded in your own words and has gone to the shop owner today.** **He is
+> the only person who can release the payment; I cannot do it from this
+> desk.**
+>
+> **So that you are not left guessing: I am not going to tell you it has been
+> processed, and I am not going to give you a date.** **I have no way of
+> confirming either from here, and I would rather say so than send you a
+> reassurance I cannot stand behind.** **Nothing has been refunded on this
+> order to date — that is what the record says today.** **If you have not
+> seen anything within a week, write again and say so; that is a reasonable
+> thing to do, not a nuisance.**
+>
+> **I am not quoting a figure back to you.** **The percentage is the one in
+> the offer you accepted, and I am not going to restate or recalculate it in
+> case I introduce an error into something already agreed.**
+>
+> **On the two that are still in their packaging:** the offer you accepted
+> lets you keep everything, so nothing is required of you. **I am not going
+> to tell you what to do with them, and nothing here depends on it.** **If
+> you would still rather return them, say so — but I have to be honest that
+> there is no returns address I can give you**, so please do not post
+> anything until somebody sends you one in writing.
+>
+> **One thing I want to acknowledge rather than let pass.** **You asked on
+> 16 September how to return the unopened items. You did not get an answer to
+> that question, and the replies you did get offered you percentages
+> instead.** **That was our failure, not a misunderstanding on your side.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Bestätigung, dass seine Annahme aufgenommen und
+weitergegeben ist**, und die **überprüfbare Auskunft, dass bis heute nichts
+erstattet wurde.** **Keine Erstattung zugesagt, kein Termin, kein
+„processed".** **Kein Betrag genannt und nichts nachgerechnet** — der
+Prozentsatz steht im angenommenen Angebot. **Nichts an eine Rückgabe
+geknüpft**, und ihm wird **nicht gesagt, was er mit den zwei ungeöffneten
+Artikeln tun soll.** **Keine Rückgabe nahegelegt und keine abgeraten** — nur
+die ehrliche Auskunft, dass es keine Adresse gibt. **Offen eingeräumt, dass
+seine Frage vom 16.09. nie beantwortet wurde.** **Keine
+Kauschaden-Vorlage.** **Keine Aussage zur Qualität, in keine Richtung.**
+Kein Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 

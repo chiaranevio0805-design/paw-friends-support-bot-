@@ -866,3 +866,59 @@ es lieber jetzt, als es beim Senden auffallen zu lassen.**
 - **⚠️ NEU OFFEN: Prüfung aller Entwürfe auf veraltete relative
   Zeitangaben.**
 - **Keine Erstattung, keine Stornierung ausgeführt.**
+
+---
+
+## Lauf 17:20 UTC
+
+### 🔴 #6254 — Dave Hickman (`davehickman71@gmail.com`), 30.09. 16:39 UTC — **nimmt 35 % an**
+
+> *„Ok **please credit 35% of order value** and that is fine. Thank you"*
+
+**Der belegte Verlauf:** 21.09. *„I purchased 4 toys and do have two in their
+packaging untouched. **Can I please return these items?**"* → **28.09.
+11:09:55 30 %-Angebot** (Serienversand) → 28.09. 11:27 sein Gegenvorschlag
+**40 %** → **29.09. 21:20:51 35 %-Angebot** (Serienversand) → jetzt
+angenommen.
+
+| Feld | Wert |
+|---|---|
+| Bestellung | **#6254**, 15.08.2026, **44,95 £** |
+| Positionen | 4 × Plushies (fox, hippo, frog, Duck) + **E-Book** |
+| Versand | 22.08.2026 — sieben Tage |
+| Erstattet | **0,00 £**, `refunds` **leer** |
+
+**🔴 Fünfzehnte offene Geldzusage.**
+
+### 🟥 KORREKTUR: der Bestellwert von #6254 war in meinen Reports falsch
+
+**In den Abendreports vom 28. und 29.09. steht „#6254 — offen (von 34,95 £)".**
+**Der Datensatz sagt 44,95 £.** **Die Zahl war falsch und ist hiermit
+berichtigt.** **Sie stammte aus einer Abfrage vor der Shop-Störung; wie sie
+zustande kam, kann ich nicht mehr rekonstruieren — ich halte nur fest, dass
+sie nicht stimmt.** **Der auszuzahlende Betrag ergibt sich ohnehin aus dem
+angenommenen Angebot, nicht aus meiner Rechnung.**
+
+**Im Entwurf:** Annahme bestätigt und weitergegeben; **kein Termin, kein
+„processed", kein Betrag genannt und nichts nachgerechnet**; **ihm wird nicht
+gesagt, was er mit den zwei ungeöffneten Artikeln tun soll**, und die
+Rückgabe wird weder nahegelegt noch abgeraten — nur die ehrliche Auskunft,
+dass es keine Adresse gibt; **offen eingeräumt, dass seine Frage vom 16.09.
+nach dem Rückgabeweg nie beantwortet wurde und er stattdessen Prozentangebote
+bekam.**
+
+**Drei ältere #6254-Entwürfe sind als ersetzt markiert.**
+
+**Label:** `Bot/Escalated - Owner Attention`.
+
+### Stand nach diesem Lauf
+
+- **Zehn Kundenvorgänge am 30.09.**
+- **424 Entwürfe**, **keiner in Gmail.**
+- **🔴 FÜNFZEHN offene Geldzusagen** — die vierzehn vom Morgen **plus #6254
+  (35 %, angenommen)**.
+- **Dublettenstand:** **7 geprüft und aufgelöst** (#7479, #7048, #7347,
+  #8142, #8372, #7547, **#6254**) · **2 begründet offengelassen** · **89 nur
+  mit Warnhinweis.**
+- **🟥 Sechzehnter belegter Folgefall des Serienversands vom 29.09.**
+- **Keine Erstattung, keine Stornierung ausgeführt.**
