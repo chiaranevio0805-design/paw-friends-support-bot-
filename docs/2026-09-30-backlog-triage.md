@@ -208,6 +208,6 @@ bleibt bei achtzig.**
 
 ---
 
-## Lauf 04:20 UTC
+## Läufe 04:20 und 05:20 UTC
 
 **Posteingang geprüft. Nichts Neues.** Keine Aktion.
