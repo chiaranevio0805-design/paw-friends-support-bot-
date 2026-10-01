@@ -970,3 +970,61 @@ zitieren, nicht auf unsere eigenen Sent-Einträge.** Das ist beim Lesen
 
 **Keine Erstattung ausgelöst, nichts versendet. Shopify weiterhin nicht
 abfragbar.**
+
+---
+
+## Lauf 22:20 UTC — ein neuer Fall
+
+*(Erst die Datei geschrieben und geprüft — Entwurf in Zeile 23944 —, dann
+dieser Eintrag.)*
+
+### 🟦 #7462 — Angela Sonnemann (`angelasittler@gmail.com`), 01.10. 21:40 UTC — **Bot/Escalated – Owner Attention**
+
+**Erstkontakt. Höflich, ohne Vorwurf, mit einer echten Frage:**
+
+> *„He managed to rip a hole in it and started pulling the stuffing out so we
+> had to take it away. Didn't even last a month… I included a picture of where
+> it tore for your quality management team. I'm hoping this was just a one
+> off.*
+>
+> *We are in the 30 day window so I'm not sure **how to go about getting
+> another? Or is this not covered.**"*
+
+**Eskalationsgrund:** sie fragt ausdrücklich nach der Anwendung der
+30-Tage-Garantie auf einen benutzten Artikel. **Das ist genau die Frage, die
+bisher sechzehnmal mit der Kauschaden-Vorlage beantwortet wurde.** Hier wird
+sie **nicht** beantwortet, sondern weitergegeben.
+
+**Im Entwurf ausdrücklich NICHT:**
+- **keine Kauschaden-Vorlage, keine Absage, keine Zusage, kein Termin**
+- **nicht entschieden, ob die Garantie ihren Fall deckt**, in keine Richtung
+- **keine andere Frist als dreißig Tage genannt** und **nicht gesagt, sie
+  irre sich über das Zeitfenster**
+- **🟥 ihre Schilderung der austretenden Füllung wird NICHT zu einer
+  Sicherheitsmeldung gemacht.** Sie hat keine erhoben — sie hat beschrieben,
+  warum sie das Spielzeug weggenommen hat. **Eine Sicherheitsmeldung zu
+  unterstellen, die sie nicht gemacht hat, wäre genauso falsch wie eine zu
+  übersehen.**
+- **zu ihrem „I'm hoping this was just a one off" wird NICHTS behauptet, in
+  keine Richtung** — und **keine anderen Kundenvorgänge erwähnt.** Ihr zu
+  sagen, es sei ein Einzelfall, wäre unwahr; ihr ungefragt von anderen
+  Beschwerden zu erzählen, wäre nicht meine Sache.
+- **Foto nicht geöffnet**, nur vermerkt, dass sie eines geschickt hat
+- **keine Angaben aus dem Bestelldatensatz** — Shopify weiterhin gesperrt
+
+**Im Entwurf ausdrücklich DOCH:** die **Warnung, kein Porto auszugeben**,
+weil es keine Rücksendeadresse gibt — bevor sie etwas verschickt.
+
+**Die korrigierte Ersatz-Begründung ist hier schon richtig drin:**
+*„promised one in writing on 18 August… six weeks later"*, nicht mehr „July".
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 443.**
+- **Kundenfälle am 01.10.: zwölf.**
+- **🟦 Sie ist die erste heute, die freundlich schreibt und trotzdem keine
+  brauchbare Antwort bekommen kann** — weil es keine Rücksendeadresse gibt
+  und niemand außer dem Owner über die Garantie entscheiden kann. **Das ist
+  der Normalzustand, nicht die Ausnahme.**

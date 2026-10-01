@@ -23941,6 +23941,84 @@ aus dem Bestelldatensatz**, weil Shopify nicht abfragbar ist. **Ihre
 frühere NHS-Adresse wird nicht erwähnt und nicht verwendet.** Kein
 Eskalationsmarker im Text.
 
+## #7462 — Angela Sonnemann (`angelasittler@gmail.com`) — **Erstkontakt, höflich, stellt eine echte Frage: „how to go about getting another? Or is this not covered."** · 01.10. 21:40
+
+**✅ GEPRÜFT am 01.10.: geltende Fassung für diese Kundin.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 17:20 UTC eine neue Anmeldung. Der Entwurf nennt keine Beträge und kein Versanddatum aus dem Datensatz.**
+
+**🟨 Sie schreibt von `angelasittler@gmail.com` und unterschreibt „Angela Sonnemann". Angesprochen wird sie mit ihrer eigenen Unterschrift „Angela"; die Abweichung wird nicht thematisiert.**
+
+**Betreff:** `Re: A shipment from order #7462 is on the way`
+
+> Dear Angela,
+>
+> **Thank you for writing the way you did — and I am going to answer the
+> question you actually asked rather than send you a policy paragraph.**
+>
+> **You asked how to go about getting another one, and whether this is
+> covered.** **The honest answer to the second half is that I cannot tell
+> you.** **I cannot approve a replacement or a refund from this desk, and I am
+> not going to refuse you either.** **Whether your case is covered is the shop
+> owner's decision, and if I guessed at it here you would only be told
+> something different later.** **Your question goes to him today, in your own
+> words.** **I am not going to give you a date.**
+>
+> **And I am not going to promise you a replacement.** **There is a customer
+> who was promised one in writing on 18 August and is still waiting now, six
+> weeks later.** **I am not willing to put you in that position, and I would
+> rather say that plainly than make you a promise I cannot keep.**
+>
+> **The practical half of your question I can answer, and you need it before
+> you do anything.** **There is no returns address I can give you — not one I
+> am withholding, one that does not exist on our side at the moment.** **So
+> please do not post the toy anywhere and please do not pay postage on the
+> strength of a replacement being arranged.** **That is not a refusal of
+> anything. It is simply the position, and you are entitled to know it now
+> rather than at a post office counter.**
+>
+> **On the thirty days.** **You said you are inside the window. I am not going
+> to tell you that you are wrong about that, and I am not going to quote you
+> any other period.** **How the thirty days apply to a toy that was used is
+> part of what the owner is deciding, and it is not mine to settle.**
+>
+> **You sent a photograph for our quality team.** **I have not opened it, and
+> I am not asking you for anything further** — nothing here depends on you
+> proving what happened. **It is recorded that you sent it, and it goes to the
+> owner with your message, described exactly as you described it.**
+>
+> **You said you were hoping this was a one-off.** **I am not going to tell
+> you that it was, and I am not going to tell you that it was not.** **I have
+> no way of standing behind either answer from this desk, and the comfortable
+> version would be the easy thing to write rather than the true one.**
+>
+> **I am not going to make any claim about the toy in either direction, and I
+> am drawing no conclusion from Bowlo.**
+>
+> I am sorry it came apart, and I am sorry that the answer today is "the owner
+> decides" rather than something more useful.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Weitergabe ihrer Frage im Wortlaut an den Owner**,
+die **ehrliche Auskunft, dass es keine Rücksendeadresse gibt**, und die
+**rechtzeitige Warnung, kein Porto auszugeben.** **Keine Erstattung und kein
+Ersatz zugesagt, kein Termin — und keine Absage.** **Ihre Frage wird NICHT
+als Erstattungsforderung gedeutet** — sie hat keine gestellt. **Keine
+Kauschaden-Vorlage.** **Nicht entschieden, ob die Garantie ihren Fall deckt**,
+in keine Richtung. **KEINE andere Frist als dreißig Tage genannt, und nicht
+gesagt, sie irre sich über das Zeitfenster.** **🟥 Ihre Schilderung der
+austretenden Füllung wird NICHT zu einer Sicherheitsmeldung gemacht** — sie
+hat keine erhoben; sie wird so weitergegeben, wie sie sie geschrieben hat.
+**Foto nicht geöffnet, kein Nachweis verlangt** — nur vermerkt, dass sie eines
+geschickt hat. **Zu „one off" wird NICHTS behauptet, in keine Richtung**, und
+**keine anderen Kundenvorgänge erwähnt.** **Keine Aussage zur Qualität.**
+**Nichts aus ihrem Hund gefolgert.** **Keine Angaben aus dem
+Bestelldatensatz**, weil Shopify nicht abfragbar ist. Kein Eskalationsmarker
+im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
