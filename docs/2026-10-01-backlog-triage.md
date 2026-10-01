@@ -826,3 +826,84 @@ Entwurfs. **Beides geprüft, nicht angenommen.**
 #8295-Markern um 17:20). **Alle drei sind hier benannt, keiner wurde
 stillschweigend behoben.** Lehre für die nächsten Läufe: **erst die Datei
 schreiben und verifizieren, dann das Protokoll schreiben** — nicht umgekehrt.
+
+---
+
+## Lauf 19:20 UTC — 🟥 #2095 Pam Trafford hat HEUTE erneut die Kauschaden-Vorlage bekommen
+
+*(Datei zuerst geschrieben und verifiziert — Entwurf steht in
+`docs/entwuerfe-zum-kopieren.md`, Zeile 23855 — dann dieser Eintrag.)*
+
+**Zwei Nachrichten in diesem Thread sind neu:**
+
+| Zeit (UTC) | Was |
+|---|---|
+| **01.10. 10:49:19** | **Ausgehend: die Kauschaden-Vorlage, angeredet „Dear Customer"** — *„damage caused by chewing or by a pet after delivery is not covered… we're therefore unable to provide a refund, replacement, or exchange"* |
+| **01.10. 18:44:03** | Ihre Antwort |
+
+**🟥 Das ist der Fall, bei dem seit Tagen auf der Owner-Liste steht, dass ihre
+Bankbeschwerde an der fehlenden Rücksendeadresse hängt.** Ihre Frage lautet
+seit Juli unverändert: **eine Postadresse.** Heute wurde ihr darauf ein
+Absagebrief zum Kauschaden geschickt. **Der zweite Versand aus diesem Postfach
+an sie, der ihre Frage nicht berührt.**
+
+**Ihre Antwort, wörtlich:**
+
+> *„Why would I return the toy if not tried and tested by the pets? They were
+> played with briefly and found not to be as described..indestructible. I have
+> kept the damaged ones as proof, as per photos I sent you previously*
+>
+> *I do have **one of the 3 toys, unused, still in it's wrapper**, so please
+> send your address and postage for it's return and refund."*
+
+**🟦 ZWEI NEUE TATSACHEN:**
+
+1. **Sie hat einen dritten, ungeöffneten Artikel** — bisher nirgends
+   vermerkt. **Damit sind es elf Menschen mit ungeöffneter Ware ohne
+   Rückgabeweg, nicht zehn.**
+2. **Sie stellt dieselbe Frage wie #8431, #7749 und #7347:** warum ein
+   Spielzeug zurückgehen soll, dessen beworbene Eigenschaft sich nur durch
+   Gebrauch prüfen lässt. **Vierte Kundin mit diesem Argument in zwei
+   Wochen.**
+
+**Aus ihrer weitergeleiteten Mail vom 09.09. geht hervor:** **ihre Bank
+(Co-operative Bank, Card Disputes) hat sie aufgefordert, die Reste an den
+Händler zurückzusenden.** *„this dispute has been on going several months."*
+
+**Entwurf geschrieben.** **Der frühere #2095-Entwurf ist als ersetzt
+markiert.**
+
+**Im Entwurf ausdrücklich:** die offene Feststellung, dass der Brief von heute
+der falsche war; die klare Auskunft, **dass es keine Rücksendeadresse gibt und
+dass genau das ihr Bankverfahren blockiert — und dass das unser Versäumnis
+ist**; die Weitergabe ihrer Erstattungsforderung für den ungeöffneten Artikel;
+**zweimal die Warnung, kein Porto auszugeben**; die Nennung der
+**sechsundsiebzig Tage** seit dem „very shortly" vom 17.07.
+
+**Im Entwurf ausdrücklich NICHT:** **keine Beratung zum Bankverfahren, in
+keine Richtung** — weder was sie sagen soll noch was die Bank entscheiden
+wird; **keine rechtliche Bewertung**; **nicht entschieden, ob die Garantie für
+ein nur durch Gebrauch prüfbares Produkt taugt**; nicht behauptet, die von ihr
+erinnerte Werbeaussage existiere nicht; keine zweite Vorlage; Fotos nicht
+geöffnet und kein Nachweis verlangt, dazu der Hinweis, nichts wegzuwerfen;
+**keine andere Frist als dreißig Tage**; **ihre frühere NHS-Adresse wird nicht
+erwähnt und nicht verwendet**; **keine Angaben aus dem Bestelldatensatz**,
+weil Shopify nicht abfragbar ist.
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### 🔴 Der Abendreport von 19:20 ist damit unvollständig
+
+Er nennt **fünfzehn** Fälle. **Mit #2095 sind es sechzehn.** Die Nachricht kam
+um 18:44, der Report wurde um 19:20 erstellt — **sie hätte drin sein müssen
+und ist es nicht.** **Das wird hier festgehalten, statt den Report
+stillschweigend zu ändern.**
+
+### Stand
+
+- **Entwürfe in der Datei: 442.**
+- **Kundenfälle am 01.10.: elf.**
+- **Menschen mit ungeöffneter Ware ohne Rückgabeweg: elf** (neu: #2095).
+- **🔴 Owner, dringlichste Einzelsache des Tages: Pam Trafford braucht eine
+  Postadresse.** Ihre Bank wartet seit Monaten darauf, und heute wurde ihr
+  stattdessen ein Absagebrief geschickt.

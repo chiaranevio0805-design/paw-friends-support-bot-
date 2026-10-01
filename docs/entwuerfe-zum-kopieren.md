@@ -21010,6 +21010,8 @@ Eskalationsmarker im Text.
 
 ## #2095 — Pam Trafford (`trafford.pam@gmail.com`) — **braucht die Rücksendeadresse für ihr Bankverfahren; seit 13.07. offen** · 29.09.
 
+**⚠️ ERSETZT durch den Entwurf vom 01.10. (19:20) — nur den neuesten senden.**
+
 **Betreff:** `Re: Important Update Regarding Your Order`
 
 > Dear Ms Trafford,
@@ -23848,6 +23850,95 @@ ungeöffneten Artikel**; die **rechtzeitige Warnung, kein Porto auszugeben.**
 Absage.** **Keine Garantieentscheidung zum ungeöffneten Artikel, in keine
 Richtung.** **Keine Kauschaden-Vorlage.** **Nichts aus ihrem Welpen
 gefolgert.** **Keine Angaben aus dem Bestelldatensatz.** Kein
+Eskalationsmarker im Text.
+
+## #2095 — Pam Trafford (`trafford.pam@gmail.com`) — 🟥 **hat HEUTE 10:49 erneut die Kauschaden-Vorlage bekommen; nennt erstmals einen DRITTEN, ungeöffneten Artikel; ihre Bank wartet weiter auf die Adresse** · 01.10. 19:20
+
+**✅ GEPRÜFT am 01.10.: geltende Fassung für diese Kundin. Die früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 17:20 UTC eine neue Anmeldung. Der Entwurf nennt keine Zahlen aus dem Datensatz und sagt das nicht, weil sie nicht danach gefragt hat — er behauptet schlicht nichts, was nicht geprüft ist.**
+
+**Betreff:** `Re:`
+
+> Dear Pam,
+>
+> **The letter you received this morning was the wrong letter, and it was
+> addressed to "Dear Customer" although you have signed your name every
+> time.** **It was a paragraph about chew damage sent to someone whose actual
+> question has been the same since July: an address to send things back to.**
+> **I am not going to defend it and no second copy is coming from me.**
+>
+> **So here is the answer to the question you have actually asked, plainly.**
+> **There is no returns address I can give you. There is not one on our side
+> at the moment.** **Not one I am withholding — one that does not exist.**
+>
+> **I know what that means for you, and I am not going to pretend otherwise:
+> your card dispute at the Co-operative Bank is waiting on exactly that
+> address, and has been for months.** **I cannot give you advice about the
+> dispute, and I am not going to tell you what to say to your bank or what it
+> is likely to decide — that is not mine to do.** **What I can do is tell you
+> the truth about our side, so that you are not left guessing why nothing is
+> arriving: the address does not exist, and that is our failure, not a delay
+> on your part.** **If it helps you to show this reply to the bank, you are
+> entirely free to do so.**
+>
+> **Second, the unused toy.** **You have told me today that one of the three
+> is still in its wrapper, unused.** **That is new to this desk and it
+> matters.** **You asked for the address and the postage so you can return it
+> for a refund — and I have to be straight with you twice over: there is no
+> address, and please do not pay postage on the strength of one appearing.**
+> **You would be out the postage as well as the toy.** **Your request for a
+> refund on that unused item goes to the shop owner today in your own words,
+> put to him as what it is — a request about an unopened, unused item.**
+> **I cannot approve it from this desk, and I am not going to refuse you.**
+> **I am not going to give you a date.**
+>
+> **Third, the question you put, and it is a fair one.** **"Why would I return
+> the toy if not tried and tested by the pets?"** **I am not going to rule on
+> that.** **Whether a guarantee limited to unused goods can work for a product
+> whose advertised quality can only be tested by use is not a question a
+> support desk should be answering either way, and I am not going to pretend
+> it is.** **You are the fourth customer in a fortnight to put that argument
+> to us.** **It goes to the owner in your words, not in a summary.**
+>
+> **On the word you used.** **I cannot see the advertising as it was shown to
+> you, so I am not going to tell you what it said, and I am certainly not
+> going to suggest you misread it.** **I have read all twelve of our current
+> product descriptions; that word appears in none of them.** **That is a
+> statement about those twelve texts and nothing more.**
+>
+> **You said you have kept the damaged items as proof and sent photographs
+> before.** **I have not opened them, and I am not asking you for anything
+> further.** **Nothing here depends on you proving anything, and please do not
+> throw anything away on our account either.**
+>
+> **One last thing I am not going to leave unsaid.** **You were told on
+> 17 July that this would be dealt with "very shortly". That was seventy-six
+> days ago.** **I am not going to put a new version of that sentence in front
+> of you.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass der Brief von heute
+10:49 der falsche war**; die **klare Antwort auf ihre eigentliche Frage — es
+gibt keine Rücksendeadresse**; die **ausdrückliche Anerkennung, dass genau das
+ihr Bankverfahren blockiert, und dass das unser Versäumnis ist**; die
+**Weitergabe ihrer Erstattungsforderung für den ungeöffneten dritten Artikel**;
+die **Nennung der sechsundsiebzig Tage seit „very shortly".** **Keine
+Erstattung zugesagt, kein Termin, keine Absage.** **🟥 KEINE Beratung zum
+Bankverfahren, in keine Richtung** — weder was sie sagen soll noch was die
+Bank entscheiden wird; es wird ihr nur freigestellt, die Antwort zu zeigen.
+**Keine rechtliche Bewertung.** **Nicht entschieden, ob die Garantie für ein
+nur durch Gebrauch prüfbares Produkt taugt** — ausdrücklich als nicht von hier
+entscheidbar benannt. **Nicht behauptet, die von ihr erinnerte Werbeaussage
+existiere nicht** — nur der Befund zu den zwölf Produkttexten. **Keine zweite
+Kauschaden-Vorlage.** **Vor dem Porto gewarnt, zweimal.** **Fotos nicht
+geöffnet, kein Nachweis verlangt**, und ausdrücklich gesagt, sie solle nichts
+wegwerfen. **Keine andere Frist als dreißig Tage genannt.** **Keine Angaben
+aus dem Bestelldatensatz**, weil Shopify nicht abfragbar ist. **Ihre
+frühere NHS-Adresse wird nicht erwähnt und nicht verwendet.** Kein
 Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
