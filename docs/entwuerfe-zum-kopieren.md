@@ -6513,6 +6513,8 @@ aufgehoben.** Keine Aussage zur Werbung. Kein Eskalationsmarker im Text.
 ---
 
 ## #5148 — Trudi Wright (truditrotter67@icloud.com) — ⛔ zugesagte Erstattung ist in Shopify nicht verzeichnet  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Plushies
@@ -8639,6 +8641,8 @@ Kein Eskalationsmarker im Text.
 ---
 
 ## #4055 — Kimberley Shenton (kim.shenton@me.com) — sie hat 60 % angenommen; das Angebot selbst war widersprüchlich  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Refund request
@@ -8695,6 +8699,8 @@ Aushandlung, keine Rücknahme des Angebots.** **Keine Bedingung an ihre
 Bewertung oder ihr Verhalten geknüpft.** Kein Eskalationsmarker im Text.
 
 ## #4940 — Rena Barnes (renabarnes@hotmail.com) — ⚠️ sie hat die Angebotsleiter selbst erkannt  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Awaiting delivery of my order!
@@ -11312,6 +11318,8 @@ genannt.** Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text
 
 ## #4998 — Michael Warren (mikewarren123@sky.com) — ⛔⛔ „has now been processed" — erstattet wurde nichts
 
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
+
 **Betreff:** Re: ORDER #4998
 
 **Neu am 18.09. 18:41 UTC.**
@@ -11802,6 +11810,7 @@ Aussage über ihre Hunde. **Keine Frist genannt.** Keine Rücksendeadresse, samt
 Warnung. Kein Eskalationsmarker im Text.
 
 ## #8189 — Natina Shalley (natinashalley@gmail.com) — ⚠️⚠️ dieselben zwei Werbephrasen wie #4998, dazu gemeldete Aufnahme
+
 
 **Betreff:** Re: Refund request
 
@@ -12829,6 +12838,8 @@ erfunden.** **Kein Hinweis auf den Versanddienstleister, keine Herkunftsangabe.*
 reviews"). Kein Eskalationsmarker im Text.
 
 ## #5148 — Trudi Wright (truditrotter67@icloud.com) — Trading Standards, Erstattung dreimal als ausgeführt gemeldet  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Plushies
@@ -18318,6 +18329,8 @@ Eskalationsmarker im Text.
 
 ## #4940 — Rena Barnes (renabarnes@hotmail.com) — GB, **sechs Prozentangebote, in jedem steht unten „the 30% refund"**
 
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
+
 **Betreff:** Re: Awaiting delivery of my order!
 
 > Dear Rena,
@@ -19222,6 +19235,8 @@ Richtung.** **Kein Foto verlangt.** Kein Eskalationsmarker im Text.
 
 ## #5148 — Trudi Wright (truditrotter67@icloud.com) — GB, **50 % VIERMAL als „processed" bestätigt, `refunds` leer**
 
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
+
 **Betreff:** Re: Plushies
 
 > Dear Trudi,
@@ -19550,6 +19565,8 @@ mit Warnung vor einer Sendung. **Die Sendungsnummer nicht als Zustellbeleg
 benutzt.** Kein Eskalationsmarker im Text.
 
 ## #4055 — Kimberley Shenton (`kim.shenton@me.com`, Bestellung auf `kim.ierston@googlemail.com`) — **60 % am 19.09. als „processed" bestätigt, `refunds` leer**  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ERSETZT durch den Entwurf vom 29.09. — nicht zusätzlich senden.**
 
 **Betreff:** `Re: Refund request`
@@ -21241,6 +21258,8 @@ Bedingung zu machen. **Keine Aussage zur Qualität, in keine Richtung.**
 **Nichts aus ihrem Hund gefolgert.** Kein Eskalationsmarker im Text.
 
 ## #4055 — Kimberley Shenton (`kim.shenton@me.com`) — **dritter Kontakt; der 28.09.-Entwurf wurde nie gesendet** · 29.09.
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 
 **Betreff:** `Re: Refund request`
 
@@ -23245,6 +23264,259 @@ Rückgabe-Zusage aus dem Brief vom 29.09. derzeit nicht einlösbar ist.
 benutzt.** **Zur erwähnten Inventar-Benachrichtigung wird NICHTS behauptet** —
 sie ist von hier nicht einsehbar. **Betrag in USD genannt, nicht
 umgerechnet.** Kein Eskalationsmarker im Text.
+
+## #4055 — Kimberley Shenton (`kim.shenton@me.com`) — **zum ZWEITEN Mal „already been processed"; Bestellung liegt auf einer ANDEREN E-Mail-Adresse** · 01.10.
+
+**🟥 INTERN, NICHT IM BRIEFTEXT: ihre Bestellung ist `#4055` und steht laut früherem Eintrag in dieser Datei auf `kim.ierston@googlemail.com`.** **Deshalb nennt der Brief weder die Bestellnummer noch Daten daraus** — sie schreibt von einer Adresse, die nicht auf der Bestellung steht, und Bestelldaten gehen nur an die Adresse auf der Bestellung. **Der Brief bittet sie stattdessen um die Bestellnummer; das ist der saubere Weg.** **Eine Suche über `email:kim.shenton@me.com` und über den Kundennamen „shenton" liefert heute beide nichts** — das ist im Brief wahrheitsgemäß so gesagt.
+
+**✅ GEPRÜFT am 01.10.: geltende Fassung für diese Kundin.**
+
+**🟥 Heute um 10:51 UTC ist aus diesem Postfach erneut „your 60% partial refund has already been processed" an sie hinausgegangen. Nicht aus dieser Sitzung. Sie hat 27 Minuten später widersprochen.**
+
+**Betreff:** `Re: Refund request`
+
+> Dear Kimberley,
+>
+> **You are right to say it has not arrived, and I am not going to tell you a
+> third time that it has been processed.**
+>
+> **On 19 September you were told your 60 per cent refund had been processed.
+> You wrote on 27 September and again on 29 September to say nothing had
+> come. This morning you were sent the same sentence again.** **I am not
+> going to repeat it, because I cannot stand behind it.**
+>
+> **Here is the honest position from this desk, and it is uncomfortable.**
+> **I searched our order records for your email address and I could not find
+> an order under it.** **I am not telling you that you did not order from us
+> — you plainly did, you have been dealing with us since at least
+> 15 September, and offers were made to you.** **But I cannot see the order
+> from here, which means I also cannot see any refund against it, in either
+> direction.** **There are reasons a search from here comes up empty that
+> have nothing to do with you: the order may carry a different email address
+> or name, or it may sit in our second mailbox,
+> `paw-friends.uk@paw-friends.uk`, which I cannot see.** **If you have the
+> order number, sending it to me resolves that in one step.**
+>
+> **What I am doing today:** **the whole thread — your acceptance, the two
+> "processed" messages, and the fact that no order can be matched to your
+> address from here — goes to the shop owner in one piece.** **He is the only
+> person who can release a payment or look the order up properly.** **I am
+> not going to give you a date.**
+>
+> **One thing I have to put in front of you rather than quietly pick a side
+> on.** **The offer letter of 17 September says in its body "a 60% partial
+> refund", and its closing line asks you to accept "the 50% partial refund".
+> Two different figures in one letter.** **You replied naming 60 per cent,
+> and that is recorded exactly as you wrote it.** **I am not going to decide
+> which figure governs — that is not mine to decide, and I am not going to
+> resolve an ambiguity in our own letter against you.** **Both lines go to
+> the owner side by side.**
+>
+> **Please do not send me any bank or card details.** **Nothing here needs
+> them, and I would not act on them if you did.**
+>
+> I am sorry you have now been told twice that money was on its way when
+> nobody here can show that it was.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Weigerung, das „processed" ein drittes Mal zu
+wiederholen**; die **offene Auskunft, dass unter ihrer Adresse keine
+Bestellung auffindbar ist** — **ohne zu behaupten, sie habe nicht bestellt**;
+die beiden möglichen Gründe, einschließlich des Zweitpostfachs; die
+**Weitergabe des gesamten Vorgangs**. **Keine Erstattung zugesagt, kein
+Termin.** **🟥 Die widersprüchlichen Zahlen im Brief vom 17.09. (60 % im
+Text, 50 % in der Schlusszeile) werden benannt, aber NICHT zu ihren Lasten
+aufgelöst** — beide gehen an den Owner. **Nicht nachgerechnet.** **Keine
+Bank- oder Kartendaten erbeten**, und ausdrücklich davor gewarnt. Kein
+Eskalationsmarker im Text.
+
+## #4998 — Michael Warren (`mikewarren123@sky.com`) — GB, **„20 % processed" am 22.09., Datensatz zeigt £0,00** · 01.10.
+
+**✅ GEPRÜFT am 01.10.: geltende Fassung für diesen Kunden.**
+
+**Betreff:** `Re: ORDER #4998`
+
+> Dear Michael,
+>
+> **You are right, and I am not going to soften it.**
+>
+> **On 22 September you were told: "the 20% partial refund has now been
+> processed to your original payment method."** **Our own order record for
+> #4998 shows £0.00 refunded and no refund entries against it at all.**
+> **Not a pending one. None.**
+>
+> **So I am not going to tell you it is on its way, or with your bank, or
+> that it needs a few more days.** **You were given that answer once and it
+> did not hold.** **A second copy of it is not coming from me.**
+>
+> **I cannot release the payment from this desk. Only the shop owner can.**
+> **What goes to him today is exactly that: a refund confirmed to you in
+> writing on 22 September and not made.** **I am not going to give you a
+> date, because I cannot stand behind one.**
+>
+> **I am not quoting a figure back to you or recalculating anything** — the
+> percentage is the one in the letter you were sent, and I am not going to
+> put an error into something already stated.
+>
+> **From the order record:** **you ordered on 7 August and the parcel was not
+> handed over for despatch until 22 August — fifteen days.** **The total you
+> paid is £19.95.** **Nothing has been refunded on this order at any point.**
+>
+> **You said our service has been appalling. I am not going to argue with
+> you about that.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **überprüfbare Auskunft, dass auf #4998 £0,00
+erstattet sind und kein Eintrag existiert**; die **offene Feststellung, dass
+ihm am 22.09. „processed" geschrieben wurde**; die Weitergabe als offene
+Zahlung. **Das „processed" wird NICHT wiederholt** — nicht als „unterwegs",
+nicht als „bei der Bank". **Keine Erstattung zugesagt, kein Termin.** **Kein
+Betrag nachgerechnet.** **Die fünfzehn Tage bis zum Versand offen genannt.**
+**Seiner Kritik wird nicht widersprochen.** Kein Eskalationsmarker im Text.
+
+## #5148 — Trudi (`truditrotter67@icloud.com`) — GB, **„50 % processed" am 22.09., Datensatz zeigt £0,00; Klarna läuft weiter** · 01.10.
+
+**✅ GEPRÜFT am 01.10.: geltende Fassung für diese Kundin.**
+
+**Betreff:** `Re: Plushies`
+
+> Dear Trudi,
+>
+> **You are right about the four weeks, and I am not going to explain it
+> away.**
+>
+> **On 22 September you were told: "your 50% partial refund has been
+> processed."** **Our own order record for #5148 shows £0.00 refunded and no
+> refund entries against it at all.** **I would rather tell you that plainly
+> than send you another reassurance.**
+>
+> **So I am not going to tell you it is on its way or that it needs a few
+> more days.** **No second copy of that message is coming from me.**
+>
+> **I cannot release the payment from this desk. Only the shop owner can, and
+> the whole of this goes to him today** — including the fact that it was
+> confirmed to you in writing on 22 September. **I am not going to give you a
+> date.**
+>
+> **I am not quoting a figure back to you or recalculating it.** **The
+> percentage is the one in the letter you were sent.**
+>
+> **On Klarna.** **You wrote that your last payment is due.** **I am not
+> going to give you any advice about that, in either direction — I am not
+> going to tell you to pay it and I am not going to tell you to stop it.**
+> **That is between you and Klarna, and a support desk guessing at it would
+> not be doing you a favour.** **What I have done is flag to the owner, in
+> one line, that your instalments are still running while the refund he
+> confirmed has not been made.**
+>
+> **From the order record:** **you ordered on 8 August, the parcel was
+> despatched on 13 August, and the total you paid is £27.95.** **Nothing has
+> been refunded on this order at any point.**
+>
+> I am sorry you had to write a fourth time to find out that nothing had
+> happened.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **überprüfbare Auskunft, dass auf #5148 £0,00
+erstattet sind**; die **offene Feststellung, dass ihr am 22.09. „processed"
+geschrieben wurde**; die Weitergabe als offene Zahlung; der **Hinweis an den
+Owner, dass die Raten weiterlaufen.** **Das „processed" wird NICHT
+wiederholt.** **Keine Erstattung zugesagt, kein Termin.** **Kein Betrag
+nachgerechnet.** **KEINE Empfehlung zu Klarna, in keine Richtung** — weder
+zahlen noch stoppen. **Sie wird mit ihrer eigenen Unterschrift „Trudi"
+angesprochen; die Abweichung zwischen Bestellname und Unterschrift wird nicht
+thematisiert.** Kein Eskalationsmarker im Text.
+
+## #4940 — Rena Barnes (`renabarnes@hotmail.com`) — GB, **🟥 sechs Angebotsbriefe mit ZWEI verschiedenen Prozentzahlen im selben Brief; sie nimmt jetzt an** · 01.10.
+
+**✅ GEPRÜFT am 01.10.: geltende Fassung für diese Kundin.**
+
+**🟥 Dieser Fall belegt den Defekt der Angebotsvorlage im Wortlaut. Siehe Protokolleintrag.**
+
+**Betreff:** `Re: Awaiting delivery of my order!`
+
+> Dear Rena,
+>
+> **You have accepted, and you asked a direct question. Both deserve a
+> straight answer, and the first thing I owe you is an admission.**
+>
+> **You were right on 25 September.** **Every one of those offer letters
+> carried two different figures. The body said 30, then 35, then 40, then 50,
+> then 60, then 70 per cent — and the closing line of each one asked you to
+> accept "the 30% refund".** **You spotted it and said so, and then on
+> 28 September you were sent the very same letter again, unchanged.** **That
+> was our error, repeatedly, and I am not going to pretend it was a
+> formatting quirk you should have read past.**
+>
+> **Because of that I am not going to decide what you have accepted.** **You
+> have written that you will accept "the 70% for each of the 2 toys".** **Our
+> letter says 70 per cent in one place and 30 per cent in another, and it
+> says "of your total order amount", not per toy.** **I am not going to
+> resolve any of that for you, in our favour or in yours.** **I am putting
+> your words and both figures from our letter side by side in front of the
+> shop owner, and he must come back to you with one unambiguous number before
+> anything is paid.** **Telling you a figure now and having it corrected
+> later would be worse than waiting.**
+>
+> **I cannot release a payment from this desk, and I am not going to refuse
+> you.** **I am not going to give you a date.**
+>
+> **You asked which account it would be refunded to.** **Please do not send
+> me your bank or card details.** **Nothing here needs them, I would not act
+> on them, and no one from this desk will ever ask you for them by email.**
+> **The owner will tell you the route when he confirms the amount.**
+>
+> **There is one more thing in this thread that you are entitled to know.**
+> **On 20 August you were told your order "has been shipped and is currently
+> on its way".** **Our record shows it was not handed over for despatch until
+> 22 August.** **When you were told it had shipped, it had not.**
+>
+> **From the order record:** **you ordered on 7 August, despatch 22 August —
+> fifteen days — total paid £27.95, two toys.** **Nothing has been refunded
+> on this order at any point.**
+>
+> **On the advertising.** **I cannot see the advertisement as it was shown to
+> you, so I am not going to tell you what it said, and I am certainly not
+> going to suggest you misread it** — you have said you kept screenshots.
+> **I have read all twelve of our current product descriptions; the word
+> "indestructible" appears in none of them.** **That is a statement about
+> those twelve texts and nothing more.** **Your wording and your screenshots
+> are for the owner, not for me to argue with.**
+>
+> **You mentioned Trading Standards.** **Nothing here is conditional on that,
+> in any direction, and I am not asking you to wait or hold off.**
+>
+> I am sorry it took eight letters, six of them contradicting themselves, to
+> get to a straight answer.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** das **offene Eingeständnis, dass sechs Angebotsbriefe je
+zwei verschiedene Prozentzahlen enthielten und dass derselbe Brief nach ihrem
+Hinweis noch einmal unverändert geschickt wurde**; die **Feststellung, dass
+ihr am 20.08. „has been shipped" geschrieben wurde, obwohl der Versand erst
+am 22.08. erfolgte**; die **Weitergabe ihrer Annahme im Wortlaut**; die
+Auskunft, dass nichts erstattet wurde. **🟥 Es wird NICHT entschieden, welche
+Zahl gilt und ob „pro Spielzeug" oder „vom Gesamtbetrag" gemeint ist** —
+beides geht nebeneinander an den Owner, der eine eindeutige Zahl nennen muss.
+**Keine Zahl genannt, nichts nachgerechnet, keine Erstattung zugesagt, kein
+Termin, keine Absage.** **🟥 KEINE Bankverbindung erbeten** — ausdrücklich
+davor gewarnt und gesagt, dass von hier nie danach gefragt wird. **Nicht
+behauptet, die von ihr erinnerte Werbung existiere nicht** — nur der Befund
+zu den zwölf Produkttexten; ihre Screenshots werden nicht bewertet. **Nichts
+an Trading Standards geknüpft.** **Keine Aussage zur Qualität, in keine
+Richtung.** Kein Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 

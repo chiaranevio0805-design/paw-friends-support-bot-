@@ -504,3 +504,112 @@ versendet.**
 
 - **Entwürfe in der Datei: 431.**
 - **Mehrfachfassungen abgearbeitet: 14.** **Offen: 81.**
+
+---
+
+## Läufe 08:20 / 09:20 / 10:20 / 11:20 UTC — 🟥 VIER neue Fälle und ein Versand aus diesem Postfach
+
+**Die Läufe um 08:20 und 09:20 waren leer.** Der Lauf um 11:20 hat mit einer
+breiteren Abfrage (`in:inbox is:unread after:2026/09/30`) **vier neue
+Kundennachrichten von heute** gefunden, die die engeren `newer_than`-Abfragen
+nicht geliefert hatten.
+
+### 🟥 Vorab: aus diesem Postfach ist heute um 10:51:46 UTC Post hinausgegangen
+
+**An `kim.shenton@me.com`:** *„Your 60% partial refund has already been
+processed to your original payment method."*
+
+**Nicht aus dieser Sitzung** — dieses Konto hat keine Sendefunktion. **Sie hat
+27 Minuten später widersprochen.**
+
+### 🟥 DAS MUSTER: vier Erstattungen, die als „processed" bestätigt wurden und im Datensatz nicht existieren
+
+| Fall | Zugesagt | „processed" am | `totalRefundedSet` heute |
+|---|---|---|---|
+| **#5973** Stephen Cooil | 50 % | **17.09. und 29.09.** | **£0.00**, `refunds` leer |
+| **#4055** Kimberley Shenton | 60 % | **19.09. und 01.10.** | Bestellung von hier nicht auffindbar |
+| **#4998** Michael Warren | 20 % | **22.09.** | **£0.00**, `refunds` leer |
+| **#5148** Trudi | 50 % | **22.09.** | **£0.00**, `refunds` leer |
+
+**Das ist kein Einzelfall mehr.** **Vier Kundinnen und Kunden haben
+schriftlich bestätigt bekommen, dass Geld unterwegs ist, das der Datensatz
+nicht kennt — zwei davon zweimal.**
+
+### 🟥 DER ZWEITE DEFEKT: die Angebotsvorlage trägt ZWEI Prozentzahlen im selben Brief
+
+**Belegt an #4940 Rena Barnes, im Wortlaut aus dem Thread:**
+
+| Datum | Im Fließtext | In der Schlusszeile |
+|---|---|---|
+| 09.09. | **30 %** | „accept the 30% refund" |
+| 11.09. | **35 %** | „accept the 35% refund" |
+| 13.09. | **40 %** | **„accept the 30% refund"** |
+| 15.09. | **50 %** | **„accept the 30% refund"** |
+| 17.09. | **60 %** | **„accept the 30% refund"** |
+| 19.09. | **70 %** | **„accept the 30% refund"** |
+| **28.09.** | **70 %** | **„accept the 30% refund"** — **derselbe Brief noch einmal, unverändert** |
+
+**Sie hat es am 25.09. selbst benannt:** *„No not 70% and you are not clever
+thinking we won't see the 30% further down the letters."* **Drei Tage später
+kam derselbe Brief erneut.**
+
+**Derselbe Defekt bei #4055:** Brief vom 17.09., Fließtext **60 %**,
+Schlusszeile **„accept the 50% partial refund"**.
+
+**Das ist die Vorlage, deren Prüfung seit Tagen auf der Owner-Liste steht.
+Hier ist der Beleg.**
+
+### Die vier Fälle einzeln
+
+**🟥 #4055 — Kimberley Shenton, 01.10. 11:18 — Bot/Escalated**
+*„I've already waited weeks since you said it had been processed, there has
+been no money received in my bank."* — 60 % am 17.09. angenommen, am 19.09.
+als „processed" bestätigt, am 27.09. und 29.09. nachgefragt, **heute erneut
+dieselbe Zusage.** **Suche über ihre Adresse und über den Kundennamen
+„shenton" liefert heute keine Bestellung** — laut früherem Eintrag in der
+Entwurfsdatei liegt **#4055 auf `kim.ierston@googlemail.com`**. **Der Entwurf
+nennt deshalb keine Bestelldaten** und bittet sie um die Bestellnummer.
+
+**🟥 #4998 — Michael Warren, 01.10. 10:40 — Bot/Escalated**
+*„This has still not been received!! What is happening, your customer service
+and support is appalling."* — 20 % am 22.09. als „processed" bestätigt.
+**Datensatz: bestellt 07.08., versandt 22.08. (fünfzehn Tage), £19,95,
+£0.00 erstattet.**
+
+**🟥 #5148 — Trudi, 01.10. 09:56 — Bot/Escalated**
+*„It is now 4 weeks and no refund. My last klarna payment is due…"* — 50 % am
+22.09. als „processed" bestätigt. **Datensatz: bestellt 08.08., versandt
+13.08., £27,95, £0.00 erstattet.** **Der Entwurf gibt KEINE Empfehlung zu
+Klarna, in keine Richtung**, meldet dem Owner aber, dass die Raten
+weiterlaufen.
+
+**🟥 #4940 — Rena Barnes, 01.10. 10:03 — Bot/Escalated**
+*„So what are you offering to refund? 70%. Or 30%. Only because I'm sick of
+emailing you, I will accept the 70% for each of the 2 toys that I purchased.
+Tell me the account you are refunding it to…"*
+**Der Entwurf entscheidet NICHT, welche Zahl gilt und ob „pro Spielzeug" oder
+„vom Gesamtbetrag"** — beides geht nebeneinander an den Owner, der eine
+eindeutige Zahl nennen muss. **Keine Bankverbindung erbeten, ausdrücklich
+davor gewarnt.**
+**Zusätzlicher Befund:** am **20.08.** wurde ihr geschrieben, die Bestellung
+*„has been shipped and is currently on its way"* — **`fulfillments.createdAt`
+ist der 22.08.** Zum dritten Mal dasselbe Muster (nach #8295 und #4940 selbst
+nun belegt). **Datensatz: bestellt 07.08., versandt 22.08. (fünfzehn Tage),
+£27,95, zwei Plushies, £0.00 erstattet.**
+
+### Korrektur in diesem Lauf
+
+**🟥 Beim Setzen der Ersetzt-Marker wurde #8189 (Natina Shalley) fälschlich
+mitmarkiert**, weil ihre Überschrift den Querverweis „#4998" enthält. **Der
+Marker wurde sofort wieder entfernt.** Kein anderer Entwurf ist betroffen.
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 435.**
+- **Kundenfälle am 01.10.: fünf** (#7831, #4055, #4998, #5148, #4940).
+- **🔴 Die Zahl der offenen Geldzusagen bleibt fünfzehn** — #4055, #4998,
+  #5148 und #5973 standen bereits darauf. **Was sich geändert hat, ist der
+  Beweisstand: bei vieren ist jetzt belegt, dass „processed" geschrieben
+  wurde, ohne dass etwas geschah.**
