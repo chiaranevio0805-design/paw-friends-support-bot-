@@ -656,3 +656,104 @@ falsch. Richtig sind **siebzehn** Fälle insgesamt, davon **zwölf** neue
 Nachrichten.)
 
 **Keine Erstattung ausgelöst, nichts versendet.**
+
+---
+
+## Lauf 17:20 UTC — 🟥 SECHS weitere Fälle · 🟥 Shopify-Zugang abgelaufen
+
+### 🟥 ZUERST: der Shopify-Zugang verlangt eine neue Anmeldung
+
+**Die Abfrage um 17:20 UTC wurde abgewiesen:**
+`MCP server "Shopify" needs you to sign in again`
+
+**Das heißt: Bestelldatensätze sind von hier ab jetzt nicht mehr lesbar.**
+Keine Beträge, keine Versanddaten, kein `totalRefundedSet`, keine
+Positionsprüfung. **Die Anmeldung braucht eine interaktive Sitzung; sie ist
+von hier nicht machbar.**
+
+**`mcp__Shopify__switch-shop` wurde NICHT aufgerufen und wird nicht
+aufgerufen** — der Aufruf widerruft das vorhandene Token und macht die Lage
+schlechter.
+
+**Folge für die sechs Entwürfe in diesem Lauf: keiner nennt Zahlen aus dem
+Bestelldatensatz.** Wo eine Aussage den Datensatz gebraucht hätte, sagen die
+Entwürfe ausdrücklich, dass der Datensatz von hier gerade nicht lesbar ist —
+**statt etwas zu behaupten, das nicht geprüft werden kann.**
+
+**Owner-Aufgabe, neu und dringend: Shopify-Verbindung neu autorisieren.**
+
+### Die sechs neuen Fälle — alle Bot/Escalated – Owner Attention
+
+**🟥 #7831 — Mary Hollerich, 16:02 — FÜNFTER Kontakt, dritter Thread**
+*„You didn't take into count the shipping time. It was well within the
+30 days."* **Der Entwurf entscheidet ihr Fristargument NICHT gegen sie** — und
+auch nicht für sie; er gibt es weiter und nennt erneut den belegten
+Versandverzug (bestellt 26.08., versandt 03.09.) und die nicht gelieferte
+E-Book-Position. **Keine andere Frist als dreißig Tage genannt.**
+
+**🔴 #? — Michael Laney (`mandklaney@gmail.com`), 15:48 — Ersatz seit 44 Tagen offen**
+*„I was told that the two items would be replaced and I have not heard
+anything to update their status."*
+**Am 18.08. wurde ihm geschrieben:** *„I've forwarded your replacement request
+to our team for processing. We'll get back to you with an update once the
+replacement has been arranged."* **Danach nichts. Sechs Wochen.**
+**🔴 WICHTIG: mehrere Entwürfe in der Datei berufen sich auf „einem Kunden
+wurde im JULI schriftlich Ersatz zugesagt".** **Die Zusage in diesem Thread
+datiert vom 18.08.** **Entweder gibt es einen zweiten, älteren Fall — oder die
+„July"-Angabe in jenen Entwürfen ist falsch.** **Das ist zu prüfen, bevor ein
+Entwurf mit „July" gesendet wird.** Der neue Entwurf hier macht **keine zweite
+Ersatzzusage** und nennt ihm den Grund.
+
+**🟥 #4604 — Nicholas Kloepfer, 14:10 — dritter Kontakt, Paket nie angekommen**
+15.08., 18.09., 01.10. — **zwischen dem zweiten und dritten Kontakt sechs
+Wochen Funkstille.** Der Entwurf **liest keinen Trackingstatus vor, benutzt
+ihn nicht als Transportnachweis und verweist ihn nicht an den Zusteller.**
+**Es wird nicht unterstellt, ob er Erstattung oder Nachlieferung will.**
+
+**🟥 #6793 — Brenda Griff (`bgriff294@yahoo.com`), 13:49 — Erstkontakt hier**
+*„I still have not received my refund I was told I was going to get for this
+order because I canceled it… I have an email stating it was going to be
+sent."*
+**Der Entwurf behauptet NICHT, die Bestellung sei storniert — und auch nicht,
+sie sei es nicht.** Beides ist ohne Shopify nicht prüfbar, und das steht so
+im Brief. **Die „processed"-Zusage wird nicht wiederholt.** **Keine Bank- oder
+Kartendaten erbeten.**
+
+**🟥 #2025 — Craig Syson (`csyson@independentforgings.com`), 11:52 — Erstkontakt**
+*„I've never received this order and your tracking number does not work.
+Please issue a refund."*
+**Der Entwurf benutzt die Trackingnummer NICHT als Nachweis, liest sie nicht
+aus und verweist ihn NICHT an den Zusteller.** **Nicht behauptet, die
+Bestellung sei versandt — und nicht, sie sei es nicht.** **Vor dem Porto
+gewarnt.**
+
+**🟥 #7660 — Brec Seaton, 11:42 — die Vorlage hat den falschen Artikel beantwortet**
+*„i think you might have misread my email. I ordered 2 toys - and one is still
+in the original wrapping and has never been given to our puppy, or even
+opened. So - can I exchange…"*
+**Der zehnte dokumentierte Fall, in dem eine Kauschaden-Antwort einen
+ungeöffneten Artikel verfehlt hat.** Der Entwurf räumt das offen ein, gibt
+ihre Frage ausdrücklich als Frage zum ungeöffneten Artikel weiter und **warnt
+sie, kein Porto auszugeben.**
+
+### Korrektur in diesem Lauf
+
+**🟥 Beim Setzen der Ersetzt-Marker wurden sieben #8295-Blöcke (Ivan Griffen)
+fälschlich mitmarkiert**, weil das Suchmuster „Griff" auch „Griffen" trifft.
+**Alle sieben Marker wurden sofort wieder entfernt**, einschließlich des
+Markers auf dem geltenden zusammengeführten #8295-Entwurf. **Verblieben sind
+fünf Marker, alle korrekt:** #7660, #4604 und drei frühere #7831-Fassungen.
+**Das ist derselbe Fehlertyp wie bei #8189 im 11:20-Lauf — zweimal am selben
+Tag. Das Suchmuster nach Teilstrings ist dafür zu grob; bei der nächsten
+Markierung ist auf exakte Bestellnummern oder vollständige Adressen zu
+filtern.**
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 441.**
+- **Kundenfälle am 01.10.: elf** (#7831 zweimal gezählt als ein Fall: #7831,
+  #4055, #4998, #5148, #4940, Laney, #4604, #6793, #2025, #7660 — **zehn**).
+- **🔴 Neue Owner-Aufgabe: Shopify neu autorisieren.** Ohne das kann keine
+  einzige Kundenaussage mehr gegen den Datensatz geprüft werden.

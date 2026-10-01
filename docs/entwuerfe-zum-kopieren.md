@@ -4235,6 +4235,8 @@ Betrag. Keine rechtliche Einordnung.
 
 ## #7660 — Rebecca Seaton (brecseaton@gmail.com)
 
+**⚠️ ERSETZT durch den Entwurf vom 01.10. (16:20) — nur den neuesten senden.**
+
 **Betreff:** Re: Order #7660 confirmed
 
 > Dear Rebecca,
@@ -8258,6 +8260,7 @@ Eskalationsmarker im Text.
 
 ## #8295 — Ivan Griffen (griffenivan@gmail.com) — Vorwarnung statt Beschwerde  
 
+
 **⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
@@ -9106,6 +9109,7 @@ keiner der neun Produktbeschreibungen. Kein Eskalationsmarker im Text.
 ---
 
 ## #8295 — Ivan Griffen (griffenivan@gmail.com) — zweite Fassung, er leitet sich selbst weiter  
+
 
 **⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
@@ -10394,6 +10398,7 @@ keine Bedingung daran geknüpft. Kein Eskalationsmarker im Text.
 
 ## #8295 — Ivan Griffen (griffenivan@gmail.com) — dritte Fassung, jetzt mit eigener Frist  
 
+
 **⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
@@ -10808,6 +10813,8 @@ Kein Eskalationsmarker im Text.
 
 ## #4604 — Nicholas Kloepfer (schreibt von nicholaskloepfer@icloud.com) — ⛔⛔ an die falsche Adresse versandt, nachdem er sie gemeldet hatte
 
+**⚠️ ERSETZT durch den Entwurf vom 01.10. (16:20) — nur den neuesten senden.**
+
 **Betreff:** Re: Hello
 
 **Neu am 18.09. 14:13 UTC.**
@@ -11027,6 +11034,7 @@ keine Handlungsempfehlung**, nur der Hinweis, dass dies zum Tierarzt gehört.
 Fotos.** Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
 ## #8295 — Ivan Griffen (griffenivan@gmail.com) — vierte Fassung, ⛔ sechster Kontakt, dritter Thread  
+
 
 **⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
@@ -14615,6 +14623,7 @@ Text.
 
 ## #8295 — Ivan Griffen (griffenivan@gmail.com) — fünfte Fassung, Frist 23.09.  
 
+
 **⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
@@ -16877,6 +16886,8 @@ verlangt.** **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text
 
 ## #7831 — Mary Hollerich (mhollerich89@gmail.com) — US, Erstkontakt, **volle Erstattung verlangt**  
 
+**⚠️ ERSETZT durch den Entwurf vom 01.10. (16:20) — nur den neuesten senden.**
+
 **⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
@@ -17697,6 +17708,7 @@ angerufen. **Nichts über Rasse, Alter oder Umgang des Hundes gefolgert.**
 verlangt.** Kein Eskalationsmarker im Text.
 
 ## #8295 — Ivan Griffen (griffenivan@gmail.com) — GB, **kündigt einen Facebook-Beitrag an, „scam advert"**
+
 
 **⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 
@@ -20188,6 +20200,8 @@ auszugeben. **Keine Angaben aus dem Bestelldatensatz** — er ist derzeit nicht
 abrufbar. **Kein Prozentangebot.** Kein Eskalationsmarker im Text.
 
 ## #7831 — Mary Hollerich (`mhollerich89@gmail.com`) — US, **kündigt einen öffentlichen Beitrag und eine BBB-Meldung an** · **ERSETZT den Entwurf vom 23.09.**
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. (16:20) — nur den neuesten senden.**
 
 **⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 
@@ -22683,6 +22697,8 @@ Eskalationsmarker im Text.
 
 ## #7831 — Mary Hollerich (`mhollerich89@gmail.com`) — US, **vierter Kontakt, neuer Thread; zwei Nachrichten vom 28.09. nie beantwortet** · 01.10.
 
+**⚠️ ERSETZT durch den Entwurf vom 01.10. (16:20) — nur den neuesten senden.**
+
 **✅ GEPRÜFT am 01.10.: Dies ist die geltende Fassung für diese Kundin. Die beiden früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
 **Betreff:** `Re: Defective dog toys`
@@ -22772,6 +22788,7 @@ aufgeteilt.** **Nichts aus ihrem Welpen gefolgert.** **Sie wird mit ihrer
 eigenen Unterschrift „Mary" angesprochen.** Kein Eskalationsmarker im Text.
 
 ## #8295 — Ivan Griffen (`griffenivan@gmail.com`) — GB, **ZUSAMMENGEFÜHRTER Entwurf für alle fünf Threads** · 01.10.
+
 
 **✅ GEPRÜFT am 01.10.: Dies ist die geltende Fassung für diesen Kunden. Alle sechs früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
@@ -23517,6 +23534,309 @@ behauptet, die von ihr erinnerte Werbung existiere nicht** — nur der Befund
 zu den zwölf Produkttexten; ihre Screenshots werden nicht bewertet. **Nichts
 an Trading Standards geknüpft.** **Keine Aussage zur Qualität, in keine
 Richtung.** Kein Eskalationsmarker im Text.
+
+## #7831 — Mary Hollerich (`mhollerich89@gmail.com`) — **FÜNFTER Kontakt, dritter Thread; argumentiert zur 30-Tage-Frist** · 01.10. 16:02
+
+**✅ GEPRÜFT am 01.10.: geltende Fassung. Der Entwurf von heute früh ist als ersetzt markiert.**
+
+**🟥 OHNE BESTELLDATEN: der Shopify-Zugang verlangt seit 16:20 UTC eine neue Anmeldung. Die Angaben zu #7831 aus dem 00:20-Lauf (bestellt 26.08., versandt 03.09., US$48,58, E-Book-Position offen) stammen aus einer Abfrage von heute früh und sind im Protokoll belegt — sie werden hier verwendet, aber nicht neu bestätigt.**
+
+**Betreff:** `Re: A shipment from order #7831 is on the way`
+
+> Dear Mary,
+>
+> **You are making a point about timing, and you are entitled to have it
+> answered rather than argued with.**
+>
+> **You wrote that the shipping time was not taken into account and that you
+> were well within the thirty days.** **I am not going to tell you that you
+> are wrong about that, and I am not going to tell you that you are right
+> either — not because I am dodging it, but because when the thirty days start
+> and stop is exactly the kind of thing a support desk should not be deciding
+> against a customer.** **It goes to the shop owner as the argument you made,
+> in your own words.**
+>
+> **What I can tell you from the record, and what I already told you earlier
+> today:** **you ordered on 26 August and the parcel was not handed over for
+> despatch until 3 September.** **That gap is ours, not yours.** **It is on
+> the record and it goes to him with everything else.**
+>
+> **This is now your fifth message to us across three separate email threads,
+> and your request has not changed since 23 September: a full refund.** **It
+> is with the owner. I cannot approve it from this desk and I am not going to
+> refuse you.** **I am not going to give you a date.**
+>
+> **And the separate point I raised this morning still stands:** **your order
+> includes a digital item that our record shows as not sent.** **You paid for
+> it and did not receive it. That is not a matter of timing or of thirty days
+> at all.**
+>
+> I am sorry you have had to keep making the same case.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Weigerung, ihr Fristargument gegen sie zu
+entscheiden** — ausdrücklich in keine Richtung; die **Weitergabe ihres
+Arguments im Wortlaut**; die **Wiederholung des überprüfbaren
+Versandverzugs**; der **erneute Hinweis auf die nicht gelieferte
+E-Book-Position.** **Keine Erstattung zugesagt, kein Termin, keine Absage.**
+**KEINE andere Frist als dreißig Tage genannt.** **Nicht gesagt, sie habe
+sich geirrt.** **Keine Aussage zur Qualität.** Kein Eskalationsmarker im Text.
+
+## #? — Michael Laney (`mandklaney@gmail.com`) — 🔴 **Ersatz am 18.08. „an das Team weitergeleitet", seit 44 Tagen keine Rückmeldung** · 01.10.
+
+**✅ GEPRÜFT am 01.10.: geltende Fassung für diesen Kunden.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt eine neue Anmeldung. Der Entwurf nennt deshalb keine Bestellnummer, kein Datum und keinen Betrag aus dem Datensatz.**
+
+**🔴 Dies ist sehr wahrscheinlich der Fall, auf den sich mehrere Entwürfe berufen („einem Kunden wurde im Juli schriftlich Ersatz zugesagt und er wartet Ende September noch"). Die Zusage in diesem Thread datiert vom 18.08., nicht Juli. Vor dem Senden anderer Entwürfe, die „July" sagen, muss das geprüft werden — siehe Protokoll.**
+
+**Betreff:** `Re: Already damaged product`
+
+> Dear Michael,
+>
+> **You asked a simple question and the answer is that nothing has happened,
+> and I am not going to dress that up.**
+>
+> **On 18 August you were told: "I've forwarded your replacement request to
+> our team for processing. We'll get back to you with an update once the
+> replacement has been arranged."** **That was six weeks ago and nobody came
+> back to you.** **You have had to ask.**
+>
+> **I am not going to promise you the replacement now.** **Not because I think
+> you should not have it — but because you were already given that promise
+> once, and a second one from someone who cannot execute it is worth nothing.**
+> **Only the shop owner can arrange it, and your question goes to him today
+> with the date of that message against it.**
+>
+> **I am not going to give you a date either, for the same reason.**
+>
+> **There is something I have to be straight with you about rather than leave
+> you to find out.** **There is no returns address I can give you at the
+> moment** — so if anyone asks you to send the damaged items back before a
+> replacement, please do not post anything until someone gives you an address
+> in writing.
+>
+> **I would rather tell you plainly that this has sat for six weeks than send
+> you another "we'll get back to you".**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass die Zusage vom 18.08.
+sechs Wochen unbearbeitet liegt**, im Wortlaut zitiert; die **Weitergabe an
+den Owner**; die **Warnung, nichts zu verschicken.** **🟥 KEINE zweite
+Ersatzzusage** — und der Grund wird ihm genannt. **Kein Termin.** **Keine
+Erstattung zugesagt und keine abgelehnt** (er hat keine verlangt). **Keine
+Angaben aus dem Bestelldatensatz**, weil Shopify derzeit nicht abfragbar ist.
+Kein Eskalationsmarker im Text.
+
+## #? — Nicholas Kloepfer (`nicholaskloepfer@icloud.com`) — **dritter Kontakt seit 15.08.; Paket nie angekommen** · 01.10.
+
+**✅ GEPRÜFT am 01.10.: geltende Fassung für diesen Kunden.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt eine neue Anmeldung. Weder Bestellnummer noch Versanddatum noch Betrag werden genannt.**
+
+**Betreff:** `Re: Hello`
+
+> Dear Nicholas,
+>
+> **You first wrote on 15 August, again on 18 September, and now on 1 October.
+> Six and a half weeks separated the second and third message and nothing came
+> back to you in between.** **That is the part I can answer for, and I am not
+> going to explain it away.**
+>
+> **What I cannot do is tell you where your parcel is.** **I am not going to
+> read you a tracking status as though it were proof that something is on its
+> way, and I am not going to send you off to chase a courier.** **If I told
+> you it was in transit I would be repeating a line, not giving you
+> information.**
+>
+> **So here is the honest position.** **Your question — where the package is,
+> and what happens if it never arrives — goes to the shop owner today, with
+> all three of your dates against it.** **He is the one who can look at what
+> actually happened to the consignment and decide what you are owed.**
+> **I cannot approve a refund or a resend from this desk, and I am not going
+> to refuse you.** **I am not going to give you a date.**
+>
+> **If you would like a refund rather than the parcel, say so and it goes to
+> him as that.** **I am not going to assume which you want.**
+>
+> I am sorry you have had to ask three times over seven weeks.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Nennung der drei Kontaktdaten und der
+Antwortlücke**; die **Weitergabe an den Owner**; das **Angebot, eine
+Erstattung weiterzugeben, sobald er eine nennt.** **🟥 KEIN Trackingstatus
+als Zustell- oder Transportnachweis**, und **nicht an den Zusteller
+verwiesen.** **Keine Erstattung und keine Nachsendung zugesagt, kein Termin,
+keine Absage.** **Nicht unterstellt, was er will.** **Keine Angaben aus dem
+Bestelldatensatz**, weil Shopify derzeit nicht abfragbar ist. Kein
+Eskalationsmarker im Text.
+
+## #6793 — Brenda Griff (`bgriff294@yahoo.com`) — **Stornierung und Erstattung schriftlich zugesagt, nichts erhalten** · 01.10.
+
+**✅ GEPRÜFT am 01.10.: geltende Fassung für diese Kundin.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt eine neue Anmeldung. Es wird deshalb NICHT behauptet, die Bestellung sei storniert, und auch nicht, sie sei es nicht. Beides ist derzeit von hier nicht prüfbar.**
+
+**Betreff:** `Re: order 6793`
+
+> Dear Brenda,
+>
+> **You say you have an email stating that a refund was going to be sent, and
+> that nothing has come. I am going to take that at face value, because the
+> thread is the thread and you have it in front of you.**
+>
+> **Here is what I will not do.** **I am not going to tell you that the refund
+> has been processed or that it is on its way.** **Several customers have been
+> told exactly that this month and it did not match what actually happened,
+> and I am not going to add you to that list.**
+>
+> **And I am not going to tell you that your order is cancelled.** **Not
+> because I doubt what you were told — but because I cannot verify the order
+> record from this desk at the moment, and asserting a cancellation I cannot
+> see would be worse than admitting the gap.** **I am equally not going to
+> tell you it is still open.**
+>
+> **What I am doing:** **your message, with your statement that cancellation
+> and a refund were confirmed to you in writing, goes to the shop owner
+> today.** **He is the only person who can release a payment and the only one
+> who can confirm the order's status.** **I cannot approve a refund from this
+> desk, and I am not going to refuse you.** **I am not going to give you a
+> date.**
+>
+> **One request that will speed this up and costs you nothing:** **if you
+> forward me the email you are referring to, or just its date, it goes to him
+> with your case attached.** **That is not me asking you to prove anything** —
+> you do not have to, and nothing here depends on it.
+>
+> **Please do not send me bank or card details.** **Nothing here needs them
+> and no one from this desk will ask you for them by email.**
+>
+> I am sorry you have had to chase this.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Weitergabe ihres Anliegens samt ihrer Angabe, dass
+Stornierung und Erstattung schriftlich bestätigt wurden**; die **offene
+Erklärung, warum von hier weder bestätigt noch bestritten wird.** **🟥 NICHT
+behauptet, die Bestellung sei storniert — und nicht, sie sei es nicht.**
+**🟥 Die „processed"-Zusage wird NICHT wiederholt.** **Keine Erstattung
+zugesagt, kein Termin, keine Absage.** **Die Bitte um die Mail ist
+ausdrücklich keine Nachweisbedingung.** **Keine Bank- oder Kartendaten
+erbeten**, ausdrücklich davor gewarnt. **Keine Angaben aus dem
+Bestelldatensatz**, weil Shopify derzeit nicht abfragbar ist. Kein
+Eskalationsmarker im Text.
+
+## #2025 — Craig Syson (`csyson@independentforgings.com`) — **Erstkontakt: nie geliefert, Trackingnummer funktioniert nicht, verlangt Erstattung** · 01.10.
+
+**✅ GEPRÜFT am 01.10.: geltende Fassung für diesen Kunden.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt eine neue Anmeldung.**
+
+**Betreff:** `Re: Order #2025`
+
+> Dear Mr Syson,
+>
+> **Thank you for writing, and I am going to answer the part I can answer for
+> first.**
+>
+> **You asked for a refund because the order never arrived. That request goes
+> to the shop owner today, in your own words.** **I cannot approve it from
+> this desk, and I am not going to refuse you.** **I am not going to give you
+> a date.**
+>
+> **About the tracking number.** **You have told me it does not work, and I am
+> not going to argue with you about it or ask you to try again.** **I am also
+> not going to read you a status from it as though that told either of us
+> where the parcel is, and I am not going to send you to the carrier to chase
+> it.** **A tracking number is not a delivery, and treating one as the other
+> is how people end up being told their parcel arrived when it did not.**
+>
+> **What I am not going to do is claim the order shipped, or claim it did
+> not.** **I cannot read the order record from this desk at the moment, and I
+> would rather tell you that than assert something I cannot see.** **Your
+> case goes to the owner with exactly that noted, so that he checks the
+> consignment himself rather than taking my word for anything.**
+>
+> **One thing to save you money in the meantime:** **there is no returns
+> address I can give you.** **Nothing in your case requires you to send
+> anything anywhere, and please do not.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **unveränderte Weitergabe seiner Erstattungsforderung
+an den Owner**; die **offene Auskunft, dass der Bestelldatensatz von hier
+derzeit nicht lesbar ist.** **🟥 Die Trackingnummer wird NICHT als Nachweis
+benutzt, nicht ausgelesen und er wird NICHT an den Zusteller verwiesen.**
+**Nicht behauptet, die Bestellung sei versandt — und nicht, sie sei es
+nicht.** **Keine Erstattung zugesagt, kein Termin, keine Absage.** **Ihm wird
+nicht gesagt, er solle es noch einmal versuchen.** **Keine Angaben aus dem
+Bestelldatensatz.** Kein Eskalationsmarker im Text.
+
+## #7660 — Brec Seaton (`brecseaton@gmail.com`) — **die Antwort vom 16.09. betraf den benutzten Artikel; EIN Artikel ist ungeöffnet** · 01.10.
+
+**✅ GEPRÜFT am 01.10.: geltende Fassung für diese Kundin.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt eine neue Anmeldung.**
+
+**Betreff:** `Re: Order #7660 confirmed`
+
+> Dear Brec,
+>
+> **You are right that your message was misread, and you should not have had
+> to point it out.**
+>
+> **You ordered two toys. One is still in its original wrapping, never opened
+> and never given to your puppy.** **The reply you received on 16 September
+> was about a toy a dog had used and damaged.** **That answered the other
+> item, not this one.** **Those are two different situations and only one of
+> them was dealt with.**
+>
+> **You asked whether you can exchange the unopened one.** **I cannot approve
+> an exchange, a replacement or a refund from this desk, and I am not going to
+> refuse you.** **That decision belongs to the shop owner, and your question
+> goes to him today in your own words — put to him as what it is, a question
+> about an unopened, unused item.** **I am not going to give you a date.**
+>
+> **What I am not going to do is tell you the guarantee covers the unopened
+> item, or tell you it does not.** **That is his call, not mine.**
+>
+> **And here is the thing you need before you do anything else.** **There is
+> no returns address I can give you — not one I am withholding, one that does
+> not exist on our side at the moment.** **So please do not post the unopened
+> toy anywhere, and please do not pay postage on the strength of an exchange
+> being arranged.** **You would be out the postage as well as the toy. I
+> would rather tell you that now.**
+>
+> **None of that is a refusal, and none of it is conditional on you doing
+> anything.**
+>
+> I am sorry the first reply answered the wrong toy.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Anerkennung, dass ihre Nachricht falsch
+gelesen wurde**; die **Weitergabe ihrer Frage ausdrücklich als Frage zum
+ungeöffneten Artikel**; die **rechtzeitige Warnung, kein Porto auszugeben.**
+**Kein Tausch, kein Ersatz, keine Erstattung zugesagt, kein Termin, keine
+Absage.** **Keine Garantieentscheidung zum ungeöffneten Artikel, in keine
+Richtung.** **Keine Kauschaden-Vorlage.** **Nichts aus ihrem Welpen
+gefolgert.** **Keine Angaben aus dem Bestelldatensatz.** Kein
+Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 
