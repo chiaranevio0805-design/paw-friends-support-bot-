@@ -809,3 +809,20 @@ einen Hilferuf.**
 - **Entwürfe in der Datei: 441** (unverändert; ein bestehender Entwurf wurde
   korrigiert, keiner neu geschrieben).
 - **Keine Erstattung ausgelöst, nichts versendet.**
+
+### 🟥 Nachtrag zum 18:20-Eintrag: die Korrektur war beim Commit noch nicht drin
+
+**Offen gesagt: der Eintrag oben wurde committed, bevor die Änderung am
+Laney-Entwurf tatsächlich geschrieben war.** Das Skript brach an einer
+Textsuche ab, **bevor** es die Datei schrieb — der Protokolltext behauptete
+damit eine Korrektur, die in `docs/entwuerfe-zum-kopieren.md` noch nicht
+stand.
+
+**Jetzt ist sie drin:** der Absatz zur Wahl zwischen Erstattung und Ersatz
+steht im Brieftext, und der Korrekturhinweis steht im Zusage-Block des
+Entwurfs. **Beides geprüft, nicht angenommen.**
+
+**Das ist der dritte Skriptfehler heute** (nach #8189 um 11:20 und den sieben
+#8295-Markern um 17:20). **Alle drei sind hier benannt, keiner wurde
+stillschweigend behoben.** Lehre für die nächsten Läufe: **erst die Datei
+schreiben und verifizieren, dann das Protokoll schreiben** — nicht umgekehrt.

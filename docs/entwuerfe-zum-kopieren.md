@@ -23619,6 +23619,13 @@ sich geirrt.** **Keine Aussage zur Qualität.** Kein Eskalationsmarker im Text.
 > replacement, please do not post anything until someone gives you an address
 > in writing.
 >
+> **One more thing, because you offered us a choice at the start and it should
+> not be quietly dropped.** **On 15 August you asked for "either a refund or a
+> replacement", and on 17 August you chose the replacement.** **That choice is
+> still yours to change.** **If you would now rather have the money back than
+> keep waiting, say so and it goes to the owner as a refund request instead.**
+> **I am not steering you either way.**
+>
 > **I would rather tell you plainly that this has sat for six weeks than send
 > you another "we'll get back to you".**
 >
@@ -23630,7 +23637,12 @@ sich geirrt.** **Keine Aussage zur Qualität.** Kein Eskalationsmarker im Text.
 sechs Wochen unbearbeitet liegt**, im Wortlaut zitiert; die **Weitergabe an
 den Owner**; die **Warnung, nichts zu verschicken.** **🟥 KEINE zweite
 Ersatzzusage** — und der Grund wird ihm genannt. **Kein Termin.** **Keine
-Erstattung zugesagt und keine abgelehnt** (er hat keine verlangt). **Keine
+Erstattung zugesagt und keine abgelehnt.** **🟥 Korrektur an der ersten
+Fassung dieses Entwurfs von heute 17:20: dort stand, er habe keine Erstattung
+verlangt. Das ist falsch — am 15.08. schrieb er „I am requesting either a
+refund or a replacement" und wählte am 17.08. den Ersatz.** Der Entwurf nennt
+ihm jetzt beides und stellt klar, dass die Wahl weiterhin seine ist, **ohne
+ihn in eine Richtung zu drängen.** **Keine
 Angaben aus dem Bestelldatensatz**, weil Shopify derzeit nicht abfragbar ist.
 Kein Eskalationsmarker im Text.
 
