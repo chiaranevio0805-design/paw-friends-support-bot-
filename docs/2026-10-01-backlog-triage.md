@@ -1028,3 +1028,88 @@ weil es keine Rücksendeadresse gibt — bevor sie etwas verschickt.
   brauchbare Antwort bekommen kann** — weil es keine Rücksendeadresse gibt
   und niemand außer dem Owner über die Garantie entscheiden kann. **Das ist
   der Normalzustand, nicht die Ausnahme.**
+
+---
+
+## Lauf 23:20 UTC — ein neuer Fall · Tagesabschluss 01.10.
+
+*(Erst die Datei geschrieben und geprüft — Entwurf in Zeile 24022 —, dann
+dieser Eintrag.)*
+
+### 🟦 `karen.seitz66@gmail.com`, 01.10. 22:25 UTC — **Bot/Escalated – Owner Attention**
+
+**Erstkontakt, Betreff „Donkey died", ohne Bestellnummer, im Ton freundlich:**
+
+> *„my golden retriever killed donkey! I was very hopeful because although he
+> destroyed the rope arms right away, he was not able to tear apart the
+> stuffed animal until today.*
+> ***I know the guarantee said that it was indestructible.** I do not know if
+> you replace the stuffed animal or or refund the money. Either way I've
+> attached a photo"*
+
+**Eskalationsgrund:** bestrittene Werbeaussage — **die vierundachtzigste
+unabhängige Kundenaussage zur Werbung**, und die erste, die sie ausdrücklich
+der **Garantie** zuschreibt und nicht der Anzeige.
+
+**Im Entwurf ausdrücklich NICHT:**
+- **ihre Frage wird NICHT als Erstattungsforderung gedeutet** — sie hat beides
+  offengelassen; es wird angeboten, das weiterzugeben, was sie nennt
+- **keine Garantieentscheidung**, in keine Richtung
+- **nicht behauptet, die von ihr erinnerte Aussage existiere nicht** — nur der
+  Befund zu den zwölf Produkttexten
+- **🟥 NICHT gesagt, es sei keine Bestellung auffindbar.** Sie hat keine
+  Nummer genannt, **und Shopify ist gesperrt — es wurde also gar nicht
+  gesucht.** Der Entwurf sagt ihr offen, dass der Datensatz heute nicht
+  abrufbar ist, nennt das unser Problem und bittet um die Nummer, **ohne sie
+  zur Bedingung zu machen.**
+- **kein Vorname geraten** — sie hat nicht unterschrieben, die Anrede ist
+  neutral
+- keine Kauschaden-Vorlage, Foto nicht geöffnet, nichts aus ihrem Hund
+  gefolgert
+
+**Im Entwurf ausdrücklich DOCH:** die **Warnung, kein Porto auszugeben.**
+
+---
+
+## Tagesabschluss 1. Oktober 2026
+
+| | |
+|---|---|
+| **Kundenfälle** | **dreizehn** |
+| **Davon eskaliert** | **dreizehn** |
+| **Entwürfe in der Datei** | **444** |
+| **Davon in Gmail** | **0** |
+| **Versendet** | **0** |
+| **Erstattungen / Stornierungen / Bestelländerungen** | **0 / 0 / 0** |
+
+### Die dreizehn Fälle
+
+#7831 (zweimal: 00:20 und 16:02) · #4055 · #4998 · #5148 · #4940 · Michael
+Laney · #4604 Kloepfer · #6793 · #2025 · #7660 · #2095 · #7462 ·
+`karen.seitz66`
+
+**Dazu fünf abgearbeitete Altfälle:** #8295, #7608, #7041, #7989, #8781.
+
+### Was heute belegt wurde
+
+1. **Vier „processed"-Zusagen ohne Deckung** — #5973, #4055, #4998, #5148.
+   **Zwei davon zweimal gegeben.**
+2. **Die Angebotsvorlage trägt zwei Prozentzahlen im selben Brief** — belegt
+   an #4940 über sechs Briefe, wiederholt nach ihrem Hinweis.
+3. **„has been shipped" vor dem tatsächlichen Versand** — #8295 und #4940.
+4. **Zwei Sicherheitsmeldungen unter Vorlagen verschwunden** — #7608
+   (achtzehn Tage), #7749.
+5. **Die „Juli"-Ersatzzusage ist in diesem Postfach nicht belegbar.** Fünf
+   versandfertige Entwürfe wurden korrigiert.
+6. **Die älteste ausgehende Mail hier datiert vom 09.08.** — für ältere
+   Bestellungen fehlt unsere Seite der Korrespondenz.
+
+### Was der Owner morgen zuerst braucht
+
+1. **Shopify neu autorisieren.** Ohne das ist nichts mehr prüfbar.
+2. **Die vier „processed"-Erstattungen auszahlen oder zurücknehmen.**
+3. **Eine Rücksendeadresse** — **elf** Menschen halten ungeöffnete Ware,
+   #2095s Bank wartet seit Monaten.
+4. **Die Kauschaden-Vorlage und die Angebotsvorlage abschalten.**
+5. **#7608 und #7749 zur Sicherheit beantworten.**
+6. **Die Passkey-Warnung vom 26.09.** — heute **fünf Tage alt.**

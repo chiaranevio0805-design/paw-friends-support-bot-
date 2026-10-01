@@ -24019,6 +24019,87 @@ geschickt hat. **Zu „one off" wird NICHTS behauptet, in keine Richtung**, und
 Bestelldatensatz**, weil Shopify nicht abfragbar ist. Kein Eskalationsmarker
 im Text.
 
+## #? — `karen.seitz66@gmail.com` — **Erstkontakt, keine Bestellnummer genannt; „I know the guarantee said that it was indestructible"** · 01.10. 22:25
+
+**✅ GEPRÜFT am 01.10.: geltende Fassung für diese Kundin.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 17:20 UTC eine neue Anmeldung, und sie hat keine Bestellnummer genannt. Es wird deshalb NICHT gesagt, es sei keine Bestellung auffindbar — es wurde gar nicht gesucht, weil nicht gesucht werden kann.**
+
+**🟨 Sie hat nicht unterschrieben. Der Entwurf spricht sie NICHT mit einem aus der E-Mail-Adresse geratenen Vornamen an.**
+
+**Betreff:** `Re: Donkey died`
+
+> Hello,
+>
+> **Thank you for writing, and for the tone of it — you have been fairer to us
+> than the situation deserves.**
+>
+> **You asked whether we replace the toy or refund the money. The honest
+> answer is that I cannot decide either from this desk, and I am not going to
+> refuse you.** **That decision belongs to the shop owner, and your message
+> goes to him today in your own words.** **I am not going to give you a
+> date.**
+>
+> **I am also not going to assume which of the two you want.** **Tell me and
+> it goes to him as that; if you would rather leave both open, I will pass it
+> on exactly as you wrote it.**
+>
+> **What I am not going to do is promise you a replacement.** **There is a
+> customer who was promised one in writing on 18 August and is still waiting
+> now, six weeks later.** **I am not willing to add you to that list.**
+>
+> **On the wording.** **You wrote that the guarantee said it was
+> indestructible.** **I cannot see the advertising or the page as it was shown
+> to you, so I am not going to tell you what it said, and I am certainly not
+> going to suggest you misread it.** **What I can check, I have:** I have read
+> all twelve of our current product descriptions. **The word "indestructible"
+> appears in none of them.** **That is a statement about those twelve texts
+> and nothing more — it is not a claim that what you were shown said something
+> different.** **Your sentence goes to the owner exactly as you wrote it,
+> because he is the only one who can look at what was actually published.**
+>
+> **What I am also not going to do is tell you the guarantee covers this, or
+> tell you it does not.** **That is his call and not mine.**
+>
+> **Two practical things.**
+>
+> **First, I cannot look your order up at the moment** — our order system is
+> not reachable from this desk today. **That is our problem, not yours. If you
+> send me the order number, it goes to the owner attached to your message and
+> saves him looking for it.** **Nothing here depends on your doing that.**
+>
+> **Second, and please read this before you spend anything: there is no
+> returns address I can give you.** **Not one I am withholding — one that does
+> not exist on our side at the moment.** **So please do not post the donkey
+> anywhere and please do not pay postage expecting to be reimbursed.**
+>
+> **You sent a photograph. I have not opened it, and I am not asking you for
+> anything further.** **Nothing here depends on you proving what happened.**
+>
+> **I am not going to make any claim about the toy in either direction, and I
+> am drawing no conclusion from your retriever.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Weitergabe ihrer Nachricht im Wortlaut an den
+Owner**, das **Angebot, Erstattung oder Ersatz als das weiterzugeben, was sie
+nennt**, die **ehrliche Auskunft, dass der Bestelldatensatz heute nicht
+abrufbar ist**, und die **Warnung, kein Porto auszugeben.** **Keine
+Erstattung und kein Ersatz zugesagt, kein Termin — und keine Absage.**
+**🟥 Ihre Frage wird NICHT als Erstattungsforderung gedeutet** — sie hat
+beides offengelassen. **Keine Garantieentscheidung, in keine Richtung.**
+**Nicht behauptet, die von ihr erinnerte Aussage existiere nicht** — nur der
+Befund zu den zwölf Produkttexten. **Keine Rekonstruktion der Anzeige.**
+**🟥 NICHT gesagt, es sei keine Bestellung auffindbar** — es wurde nicht
+gesucht, weil nicht gesucht werden kann; das wird ihr offen gesagt und als
+unser Problem benannt. **Die Bestellnummer wird erbeten, aber ausdrücklich
+nicht zur Bedingung gemacht.** **Foto nicht geöffnet.** **Keine
+Kauschaden-Vorlage.** **Kein Vorname geraten** — sie hat nicht
+unterschrieben. **Nichts aus ihrem Hund gefolgert.** Kein Eskalationsmarker
+im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
