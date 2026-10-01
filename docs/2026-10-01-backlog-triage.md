@@ -757,3 +757,55 @@ filtern.**
   #4055, #4998, #5148, #4940, Laney, #4604, #6793, #2025, #7660 — **zehn**).
 - **🔴 Neue Owner-Aufgabe: Shopify neu autorisieren.** Ohne das kann keine
   einzige Kundenaussage mehr gegen den Datensatz geprüft werden.
+
+---
+
+## Lauf 18:20 UTC — nichts Neues · zwei Korrekturen an Entwürfen aus dem 17:20-Lauf
+
+**Posteingang geprüft: keine Nachricht neuer als #7831 von 16:02 UTC.**
+
+**Shopify bleibt nicht abfragbar** — die Neuanmeldung steht aus.
+
+### 🟥 Korrektur 1: Michael Laney hat sehr wohl eine Erstattung genannt
+
+**Der Entwurf von 17:20 vermerkte „er hat keine Erstattung verlangt". Das ist
+falsch.** Seine erste Nachricht vom **15.08.** lautet:
+
+> *„We received this item less than two days ago. You advertise them as
+> indestructible, and this one hasn't even lasted two full days. **I am
+> requesting either a refund or a replacement.**"*
+
+Am **17.08.** wählte er den Ersatz (*„Yes, please provide a replacement"*).
+
+**Der Entwurf ist korrigiert:** er nennt ihm jetzt ausdrücklich, dass er am
+15.08. beides zur Wahl gestellt hat, dass die Wahl weiterhin seine ist, und
+dass eine Erstattung auf Wunsch stattdessen weitergegeben wird — **ohne ihn in
+eine Richtung zu drängen.** Die Korrektur steht auch im Zusage-Block des
+Entwurfs selbst, nicht nur hier.
+
+**Außerdem belegt seine erste Nachricht eine weitere Werbeaussage:**
+*„You advertise them as indestructible"* — **die dreiundachtzigste
+unabhängige Kundenaussage zur Werbung.**
+
+### 🟦 Korrektur 2 / Befund zu #4604 Nicholas Kloepfer
+
+**Am 15.08. wurde ihm geschrieben:** *„I can confirm that your order has been
+shipped and is currently on its way to you. Our UK warehouse is currently sold
+out, so orders are being shipped from our international warehouse."*
+
+**Das ist dieselbe Formulierung, die bei #8295 und #4940 nachweislich VOR dem
+tatsächlichen Versand verschickt wurde.** **Ob das hier auch so war, kann ich
+nicht prüfen — Shopify ist nicht abfragbar.** **Es wird deshalb NICHT
+behauptet.** Der Entwurf an ihn enthält dazu keine Aussage, und das ist
+richtig so.
+
+**Sein Verlauf, nur aus dem Thread:** 15.08. Nachfrage → Antwort „shipped" →
+**18.09.** *„It's September and still no package.. help me!!"* → **keine
+Antwort** → **01.10.** dritte Nachfrage. **Dreizehn Tage ohne Antwort auf
+einen Hilferuf.**
+
+### Stand
+
+- **Entwürfe in der Datei: 441** (unverändert; ein bestehender Entwurf wurde
+  korrigiert, keiner neu geschrieben).
+- **Keine Erstattung ausgelöst, nichts versendet.**
