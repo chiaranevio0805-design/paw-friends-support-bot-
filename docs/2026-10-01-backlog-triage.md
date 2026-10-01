@@ -265,3 +265,44 @@ das vielleicht nicht stimmt.**
 - **Offen aus der Entwurfsdatei-Prüfung:** **87 Kunden mit reiner Warnzeile**
   und **die Abarbeitung der 133 Datumsangaben.**
 - **Keine Erstattung ausgelöst, nichts versendet.**
+
+---
+
+## Lauf 04:20 UTC — nichts Neues im Posteingang · Mehrfachfassungen inventarisiert
+
+**Posteingang geprüft.** `newer_than:2h` lieferte drei Threads, deren jüngste
+Nachrichten aber alle vom **29.09.** sind — **das ist die bekannte Eigenart,
+dass `newer_than:` THREADS trifft und nicht Nachrichten.** Alle drei sind
+bearbeitet: `mrpbeaver@gmail.com` (#8312, Entwurf vom 29.09. abends),
+`yvettemears@yahoo.co.uk` (#8307) und `mrodonnell66@gmail.com` (#7982, beide
+im Abendreport vom 29.09.). **Nichts ist neuer als die #7831 von
+30.09. 23:36.**
+
+### Inventar der ungeklärten Mehrfachfassungen
+
+**Gezählt: 98 Kundinnen und Kunden haben mehrere Entwürfe in der Datei.**
+**Bei 84 davon ist mehr als eine Fassung NICHT als ersetzt markiert — zusammen
+203 Fassungen.**
+
+**Die vollständige Liste steht jetzt in
+`docs/entwuerfe-mehrfachfassungen.md`**, sortiert nach Anzahl der ungeklärten
+Fassungen, mit allen Überschriften je Kunde und einer Anleitung, wie ein Fall
+abzuarbeiten ist.
+
+**🟥 Warum das nicht automatisch geht, steht dort ausdrücklich drin:** **die
+jüngste Fassung ist nicht automatisch die vollständigste.** Bei **#7608**
+deckte genau die jüngste Fassung die Sicherheitsmeldung aus dem ersten Thread
+nicht ab. Wer dort blind die neueste genommen hätte, hätte eine seit achtzehn
+Tagen unbeantwortete Sicherheitsmeldung ein weiteres Mal übergangen.
+**Deshalb wird hier nichts pauschal markiert.**
+
+**Bisher abgearbeitet (11):** #7479, #7048, #7347, #8142, #8372, #7547, #6254,
+#5973, #7831, #8295, #7608.
+
+### Stand nach diesem Lauf
+
+- **Entwürfe in der Datei: 428** (unverändert).
+- **Offen:** **84 Kunden mit ungeklärten Mehrfachfassungen** und **133
+  Entwürfe mit relativen Zeitangaben** — beide jetzt als eigene Prüflisten im
+  Repository, nicht mehr nur als Satz im Protokoll.
+- **Keine Erstattung ausgelöst, nichts versendet.**
