@@ -7802,6 +7802,8 @@ Text.
 ---
 
 ## #7989 — Karen Reynolds (House54@outlook.com.au) — ⛔ schriftlich zugesagte Variante nie umgesetzt, dazu Fehlmenge  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #7989 confirmed
@@ -9891,6 +9893,8 @@ Haltbarkeit, **keine Aussage über seinen Hund.** **Keine Frist genannt.** Keine
 Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
 ## #7989 — Karen Reynolds (House54@outlook.com.au) — zweite Fassung, neuer Thread nach 24 Stunden Schweigen  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Missing Item.
@@ -14476,6 +14480,8 @@ der Anzeige.** **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im
 Text.
 
 ## #7989 — Karen Reynolds (House54@outlook.com.au) — ⛔ **Fehlmenge, beantwortet mit einer Kauschaden-Absage**  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Missing Item.
@@ -17089,6 +17095,8 @@ unverändert an den Owner. **Keine Behauptung, die 40 % erledigten die Sache.**
 Namen angesprochen, mit dem sie unterschreibt.** Kein Eskalationsmarker im Text.
 
 ## #7989 — Karen Reynolds (House54@outlook.com.au) — **AU**, ⛔ **eine schriftlich bestätigte Variante wurde nie auf die Bestellung übernommen**
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 
 **Betreff:** Re: Order #7989 confirmed
 
@@ -23044,6 +23052,107 @@ auch nicht, er sei ungeöffnet**; es wird angeboten, es weiterzugeben.
 **Gesamtbetrag genannt, nicht aufgeteilt.** **Vor dem Porto gewarnt.** **Keine
 Aussage zur Qualität, in keine Richtung.** **Nichts aus seinem Hund
 gefolgert.** Kein Eskalationsmarker im Text.
+
+## #7989 — Karen Reynolds (`House54@outlook.com.au`) — **AU**, **ZUSAMMENGEFÜHRTER Entwurf für beide Threads; schriftlich bestätigte Variante steht nicht auf der Bestellung, Frosch-Zusage vom 24.09. nicht gedeckt** · 01.10.
+
+**✅ GEPRÜFT am 01.10.: Dies ist die geltende Fassung für diese Kundin. Alle vier früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+**⚠️ Zwei Threads, eine Bestellung. Dieser eine Entwurf deckt beide ab.** Zu
+senden im Thread `Re: Order #7989 confirmed`.
+
+**🟥 WICHTIG: Der Entwurf wiederholt die Zusage vom 24.09. NICHT.** Dort wurde
+ihr geschrieben, das Team werde den fehlenden Frosch schicken. **Auf der
+Bestellung steht kein Frosch, und es ist nichts offen.** Eine zweite Zusage
+derselben Art wäre eine zweite ungedeckte Zusage.
+
+**Betreff:** `Re: Order #7989 confirmed`
+
+> Dear Karen,
+>
+> **I have read both of your email threads from the beginning, and I am going
+> to tell you what our own records actually show, because what you have been
+> told so far does not match them.**
+>
+> **First, the reply you got on 21 September.** **It was about a toy damaged
+> by a dog. You had reported a missing item. It was the wrong letter and you
+> were right to say so.** **No second copy of it is coming from me.**
+>
+> **Second, and this is the part that matters most.** **On 28 August you asked
+> us to confirm that your order was for one Hippo and one Frog. On 29 August
+> you were told in writing: "I can confirm that your order request is for:
+> 1 × Hippo, 1 × Frog. We'll make sure your requested selection is noted for
+> your order."**
+>
+> **That was never carried onto the order.** **Your order #7989 shows one line
+> with a quantity of two, and the variant on it is recorded as hippo. There is
+> no frog on the order at all.** **I am telling you that plainly because you
+> have spent five weeks being answered as though a frog were on its way.**
+>
+> **Third, the promise you were given on 24 September** — that the team would
+> arrange to send the missing Frog toy. **I am not going to repeat it.**
+> **Nothing on the order record supports it: there is no frog line to send,
+> and nothing is showing as outstanding.** **Making you that promise a second
+> time would be worth nothing to you, and you have already had one that did
+> not happen.**
+>
+> **Fourth, what you received.** **You have told us consistently that one item
+> arrived.** **Our record shows the line as a quantity of two, fully
+> despatched in one consignment on 8 September.** **I am not going to tell you
+> that you are mistaken about what was in your parcel — you opened it and I
+> did not.** **I am putting your account and the record side by side in front
+> of the shop owner, exactly as they stand, and letting him reconcile them.**
+> **That is not me avoiding the question; it is the only honest thing I can do
+> with two statements that do not agree.**
+>
+> **What happens now.** **The whole of it — the written confirmation that was
+> never applied, the item you did not receive, and the promise of 24 September
+> — goes to the shop owner today in one piece.** **I cannot approve a refund,
+> a replacement or a resend from this desk, and I am not going to refuse you.**
+> **I am not going to give you a date.**
+>
+> **From the order record:** **you ordered on 28 August and the parcel was not
+> handed over for despatch until 8 September — eleven days.** **Nothing has
+> been refunded on this order at any point.** **The total you paid is
+> A$53.87.**
+>
+> **You sent photographs. I have not opened them, and I am not asking you for
+> anything further.** **Nothing here depends on you proving what was in the
+> parcel.**
+>
+> **One thing you are entitled to know, because you are in Australia.** **Our
+> own shop policy carries a section headed "Australia – Consumer Guarantees".**
+> **I am pointing you to it so you can read it yourself — I am not
+> interpreting it for you and I am deriving no promise from it.**
+>
+> **Please do not post anything back to us in the meantime.** **There is no
+> returns address I can give you**, and nothing here requires you to send
+> anything.
+>
+> I am sorry that you asked a simple question on 28 August, were given a clear
+> answer in writing, and then spent five weeks chasing it.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass die schriftliche
+Bestätigung vom 29.08. nie auf die Bestellung übernommen wurde**; die
+**überprüfbare Auskunft, dass auf #7989 eine Position mit Menge 2 und der
+Variante „hippo" steht und kein Frosch**; die **Feststellung, dass die
+Frosch-Zusage vom 24.09. vom Datensatz nicht gedeckt ist**; die
+**geschlossene Weitergabe des gesamten Vorgangs an den Owner**; die Auskunft,
+dass nichts erstattet wurde. **🟥 Die Frosch-Zusage wird NICHT wiederholt** —
+keine zweite Zusage derselben Art. **Keine Erstattung, kein Ersatz und keine
+Nachsendung zugesagt, kein Termin, keine Absage.** **🟥 Ihr wird NICHT
+gesagt, sie habe sich verzählt** — ihre Schilderung und der Datensatz werden
+nebeneinandergestellt und dem Owner zur Klärung übergeben. **Keine zweite
+Kauschaden-Vorlage**, und offen eingeräumt, dass der Brief vom 21.09. der
+falsche war. **KEINE Aussage zur Größe der Verpackung und kein Vergleich mit
+Produktbildern**, obwohl sie das angesprochen hat. **Fotos nicht geöffnet,
+nichts zur Bedingung gemacht.** **Betrag in AUD genannt, nicht umgerechnet.**
+**Der AU-Abschnitt nur benannt, ausdrücklich nicht ausgelegt.** **Vor einer
+Rücksendung gewarnt, ohne sie zu verlangen.** **Keine Aussage zur Qualität,
+in keine Richtung.** Kein Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 

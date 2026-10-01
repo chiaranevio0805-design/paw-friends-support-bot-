@@ -372,3 +372,78 @@ ungeöffnet**; vor dem Porto gewarnt; nichts aus seinem Hund gefolgert.
 - **Entwürfe in der Datei: 429.**
 - **Mehrfachfassungen abgearbeitet: 12** (neu: #7041). **Offen: 83.**
 - **Entwürfe mit relativen Zeitangaben: weiterhin 133 offen.**
+
+---
+
+## Lauf 06:20 UTC — nichts Neues im Posteingang · #7989 abgearbeitet
+
+**Posteingang geprüft: nichts neuer als #7831 von 30.09. 23:36.**
+
+**Nächster Fall aus `docs/entwuerfe-mehrfachfassungen.md`.**
+
+### 🟥 #7989 — Karen Reynolds (`House54@outlook.com.au`), AU — **Bot/Escalated – Owner Attention**
+
+**Zwei Threads, vier Entwurfsfassungen. Alle vier sind jetzt als ersetzt
+markiert; es gibt genau einen geltenden Entwurf.**
+
+| Datum | Was passiert ist |
+|---|---|
+| 28.08. 00:43 | Bestellung #7989 |
+| 28.08. 00:47 | *„Can I please confirm my order is for 1x Hippo and 1x Frog."* |
+| **29.08. 18:04** | **Schriftliche Bestätigung: *„I can confirm that your order request is for: 1 × Hippo, 1 × Frog. We'll make sure your requested selection is noted for your order."*** |
+| **08.09. 07:31** | Versand — **elf Tage** |
+| 17.09. | *„Half my order just arrived. I only got the Hippo where is the frog as I payed for both."* |
+| 18.09. | **Zweiter Thread** `Missing Item.`: dieselbe Meldung |
+| 19.09. | Antwort: man bedaure, der Frosch fehle, man kümmere sich |
+| **21.09. 09:28** | **Kauschaden-Vorlage** auf eine Fehlmengenmeldung: *„sorry to hear that the toy was damaged after your dog used it"* |
+| 21.09. 10:47 | *„NO NO NO NO I only got half my order… **Nothing is damaged**… Read my email."* |
+| 23.09. | *„Can we please sort out this situation."* |
+| **24.09. 12:24** | **Zusage: *„they will arrange to send the missing Frog toy to you."*** |
+| seither | **nichts** |
+
+**🟥 Der Shopify-Befund stellt den ganzen Vorgang auf den Kopf:**
+
+`#7989` hat **genau eine Position: Menge 2, `variantTitle: "hippo"`.**
+**Es steht überhaupt kein Frosch auf der Bestellung.**
+
+**Das heißt:**
+
+1. **Die schriftliche Bestätigung vom 29.08. wurde nie auf die Bestellung
+   übernommen.** Ihr wurde zugesagt, ihre Auswahl werde vermerkt. Sie wurde
+   es nicht.
+2. **Die Zusage vom 24.09., den fehlenden Frosch zu schicken, ist vom
+   Datensatz nicht gedeckt** — es gibt keine Froschposition zum Nachsenden
+   und nichts Offenes (`unfulfilledQuantity: 0`, `fulfillmentOrders.status:
+   CLOSED`). **Der Entwurf wiederholt diese Zusage deshalb NICHT.** Eine
+   zweite Zusage derselben Art wäre eine zweite ungedeckte Zusage.
+3. **Sie sagt, ein Artikel kam an. Der Datensatz sagt, Menge 2 wurde am
+   08.09. in einer Sendung versandt.** **Ihr wird NICHT gesagt, sie habe sich
+   verzählt.** Beide Angaben stehen im Entwurf nebeneinander und gehen so an
+   den Owner.
+
+**Weitere Daten:** bestellt **28.08.**, versandt **08.09.** (elf Tage),
+**A$53,87**, `totalRefundedSet` = **$0.00**, `refunds` leer,
+`cancelledAt: null`.
+
+**Im Entwurf ausdrücklich NICHT:** keine Wiederholung der Frosch-Zusage;
+keine Erstattung, kein Ersatz, keine Nachsendung zugesagt; kein Termin; keine
+Absage; **keine Aussage zur Größe der Verpackung und kein Vergleich mit
+Produktbildern**, obwohl sie das angesprochen hat; Fotos nicht geöffnet;
+Betrag in AUD, nicht umgerechnet; der AU-Policy-Abschnitt nur benannt, nicht
+ausgelegt.
+
+**Anmerkung zur Quellenlage:** der Thread `Re: Order #7989 confirmed` meldet
+`messageCount: 6`, ausgeliefert wurden **fünf** Nachrichten. **Die sechste
+konnte ich nicht einsehen.** Der Entwurf stützt sich nur auf das, was
+tatsächlich gelesen wurde.
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand nach diesem Lauf
+
+- **Entwürfe in der Datei: 430.**
+- **Mehrfachfassungen abgearbeitet: 13.** **Offen: 82.**
+- **🔴 Für die Owner-Liste:** **#7989 ist eine weitere Zusage, die der
+  Datensatz nicht deckt** — neben #5973 (zweimal „processed", £0,00
+  erstattet). **Das sind jetzt zwei Fälle, in denen schriftlich etwas
+  bestätigt wurde, das nie geschehen ist.**
