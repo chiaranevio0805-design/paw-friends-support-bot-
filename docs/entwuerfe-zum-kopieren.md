@@ -16835,6 +16835,8 @@ Bestätigung und keine Bestreitung zur Bewertungsanzeige.** **Kein Foto
 verlangt.** **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
 
 ## #7831 — Mary Hollerich (mhollerich89@gmail.com) — US, Erstkontakt, **volle Erstattung verlangt**  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Items
@@ -20128,6 +20130,8 @@ abrufbar. **Kein Prozentangebot.** Kein Eskalationsmarker im Text.
 
 ## #7831 — Mary Hollerich (`mhollerich89@gmail.com`) — US, **kündigt einen öffentlichen Beitrag und eine BBB-Meldung an** · **ERSETZT den Entwurf vom 23.09.**
 
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
+
 **⚠️ Der Entwurf vom 23.09. ist überholt und darf nicht mehr gesendet
 werden.** Er entstand, bevor sie am 28.09. die Kauschaden-Vorlage erhielt, und
 kennt weder die fünf Tage Schweigen noch die Ankündigung.
@@ -22611,6 +22615,96 @@ angekündigte Presse geknüpft**, und ausdrücklich nicht um Aufschub gebeten.
 **Vor dem Porto für den ungeöffneten Esel gewarnt.** **Gesamtbetrag genannt,
 nicht aufgeteilt.** **Nichts aus seinem Hund gefolgert.** Kein
 Eskalationsmarker im Text.
+
+## #7831 — Mary Hollerich (`mhollerich89@gmail.com`) — US, **vierter Kontakt, neuer Thread; zwei Nachrichten vom 28.09. nie beantwortet** · 01.10.
+
+**✅ GEPRÜFT am 01.10.: Dies ist die geltende Fassung für diese Kundin. Die beiden früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+**Betreff:** `Re: Defective dog toys`
+
+> Dear Mary,
+>
+> **You have now written to us four times, and I want to set out plainly what
+> happened to each one, because the record is not good.**
+>
+> **You wrote on 23 September. Nothing came back for five days. On
+> 28 September you were sent a policy paragraph addressed to "Dear Customer",
+> although you had signed your name. You replied the same day, twice — once
+> about the paragraph and once to say you were reporting us.** **Neither of
+> those replies was answered at all.** **Last night you wrote again, in a new
+> message, asking for the same thing you asked for on 23 September.**
+>
+> **I am not going to defend any of that, and no second copy of that paragraph
+> is coming from me.**
+>
+> **Your request is a full refund. It goes to the shop owner today, in your own
+> words and unedited.** **I cannot approve it from this desk, and I am not
+> going to refuse you.** **That decision is his, and I am not going to give
+> you a date, because I have no way of standing behind one.**
+>
+> **There is one thing on your order I can check and tell you, and it is
+> separate from the dispute about the toys.** **Your order #7831 includes a
+> digital item — the e-book "Why Your Dog Destroys Every Toy (And How to
+> Finally Stop It)".** **Our own record still shows it as not sent.** **You
+> paid for it and it was not delivered.** **That is not a matter of opinion
+> about durability; it is what the order record says, and I am passing it to
+> the owner as its own item.**
+>
+> **From the order record:** **you ordered on 26 August and the parcel was not
+> handed over for despatch until 3 September — eight days.** **Nothing has
+> been refunded on this order at any point.** **The total you paid is
+> US$48.58.** **I am not going to break that down per item** — the toys were
+> sold at a bundle price and any per-item figure would be a guess.
+>
+> **On the advertising.** **I cannot see the advertisement as it was shown to
+> you, so I am not going to tell you what it said, and I am certainly not
+> going to suggest you misread it.** **What I can check, I have:** I have read
+> all twelve of our current product descriptions. **The word "indestructible"
+> appears in none of them.** **That is a statement about those twelve texts
+> and nothing more — it is not a claim that what you were shown said something
+> different.** **Your wording goes to the owner exactly as you wrote it,
+> because he is the only one who can look at the advertising itself.**
+>
+> **What I am not going to do is tell you the guarantee covers what happened,
+> or tell you it does not.** **That is his decision and not mine.**
+>
+> **You said you would post about this and that you were reporting us.**
+> **Both are entirely your business.** **Nothing here is conditional on either,
+> in any direction. I am not asking you to wait, to hold off, or to take
+> anything back, and you do not owe us silence in exchange for an answer.**
+>
+> **You told us the toys went in the bin the same night.** **I am not going to
+> suggest you should have kept them, and nothing here depends on your still
+> having them or on your proving anything.**
+>
+> **I am not going to make any claim about the toys in either direction, and I
+> am drawing no conclusion from your puppy.**
+>
+> I am sorry it took four messages to get a reply that answers what you asked.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **vollständige, datierte Aufstellung, was mit jeder
+ihrer vier Nachrichten geschehen ist**, einschließlich der **zwei nie
+beantworteten Antworten vom 28.09.**; die **unveränderte Weitergabe ihrer
+Forderung**; die **überprüfbare Auskunft, dass die E-Book-Position auf #7831
+weiterhin als nicht versandt geführt wird**; die Auskunft, dass nichts
+erstattet wurde. **Keine Erstattung zugesagt, kein Termin, keine Absage.**
+**Keine zweite Kauschaden-Vorlage**, und ausdrücklich gesagt, dass keine
+kommt. **Keine Garantieentscheidung, in keine Richtung.** **Nicht behauptet,
+die von ihr erinnerte Werbeaussage existiere nicht** — nur der Befund zu den
+zwölf Produkttexten. **Keine Rekonstruktion der Anzeige.** **🟥 Ihr „BB" wird
+NICHT ausgelegt** — die Meldung wird nur so benannt, wie sie sie genannt hat;
+**der Entwurf vom 28.09. hatte daraus „Better Business Bureau" gemacht, das
+war eine Deutung und wird hier nicht wiederholt.** **Nichts an den
+angekündigten Beitrag oder die Meldung geknüpft**, und nicht um Aufschub oder
+Rücknahme gebeten. **Ihr wird nicht vorgehalten, die Artikel weggeworfen zu
+haben.** **Nichts zur Bedingung gemacht, kein Nachweis verlangt.**
+**Gesamtbetrag in USD genannt, nicht in GBP umgerechnet und nicht
+aufgeteilt.** **Nichts aus ihrem Welpen gefolgert.** **Sie wird mit ihrer
+eigenen Unterschrift „Mary" angesprochen.** Kein Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 
