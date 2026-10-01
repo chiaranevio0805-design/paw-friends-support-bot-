@@ -2590,6 +2590,8 @@ Frist. Der Artikelname wird bestätigt, weil er an den Shopify-Daten belegt ist.
 ---
 
 ## 🚩 #7608 — patty.arenella@gmail.com — „toxic stuffing", „guaranteed not to be destroyed"  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff
@@ -12878,6 +12880,8 @@ Versuch, sie von Trading Standards abzubringen**, und nichts daran geknüpft.
 **Keine rechtliche Bewertung.** Kein Eskalationsmarker im Text.
 
 ## #7608 — Patricia Arenella (patty.arenella@gmail.com) — US, Werbung, fehlender Gratisartikel, Sorge wegen der Füllung  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #7608 confirmed
@@ -16081,6 +16085,8 @@ darüber, wo das Paket ist.** **Keine Deutung ihrer Nachricht als Forderung.**
 Kein Eskalationsmarker im Text.
 
 ## #7608 — Patricia Arenella (patty.arenella@gmail.com) — US, ⛔ **„buy one get one free, which I never received"**  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #7608 confirmed
@@ -17299,6 +17305,8 @@ zurückschicken muss, wird bestätigt, **und keine Rücksendeadresse erfunden.**
 **Foto nicht geöffnet.** Kein Eskalationsmarker im Text.
 
 ## #7608 — Patricia Arenella (patty.arenella@gmail.com) — US, **neuer Thread, dritter Anlauf**  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Damaged toy order 7608. Please refund
@@ -21122,6 +21130,8 @@ Eskalationsmarker im Text.
 
 ## #7608 — Patty Arenella (`patty.arenella@gmail.com`) — **nach der Kauschaden-Absage; nennt erstmals ein beworbenes Geschenk, das nicht auf der Bestellung steht** · 29.09.
 
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
+
 **Betreff:** `Re: Damaged toy order 7608. Please refund`
 
 > Dear Ms Arenella,
@@ -22818,6 +22828,115 @@ eigenen Worte werden nicht gegen ihn verwendet. **Nichts an den angekündigten
 Beitrag geknüpft**, und nicht um Aufschub gebeten. **Vor dem Porto gewarnt.**
 **Gesamtbetrag genannt, nicht aufgeteilt.** **Nichts aus seinem Hund
 gefolgert.** Kein Eskalationsmarker im Text.
+
+## #7608 — Patricia Arenella (`patty.arenella@gmail.com`) — US, **ZUSAMMENGEFÜHRTER Entwurf für beide Threads; enthält die seit 13.09. unbeantwortete Sicherheitsmeldung** · 01.10.
+
+**✅ GEPRÜFT am 01.10.: Dies ist die geltende Fassung für diese Kundin. Alle fünf früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+**⚠️ Sie hat in ZWEI Threads geschrieben, beide zur Bestellung #7608. Dieser
+eine Entwurf deckt beide ab.** Zu senden im neueren Thread
+`Re: Damaged toy order 7608. Please refund`.
+
+**🟥 Gegenüber dem Entwurf vom 29.09. neu und der eigentliche Grund für diese
+Fassung: ihre Sicherheitsmeldung vom 13.09. ist in vier Vorlagenbriefen und in
+jenem Entwurf überhaupt nicht vorgekommen.**
+
+**Betreff:** `Re: Damaged toy order 7608. Please refund`
+
+> Dear Ms Arenella,
+>
+> **You first wrote on 13 September. Since then you have had four replies from
+> us and all four were the same policy paragraph — on 15 and 22 and
+> 24 September, and again on 28 September. Two of them did not even use your
+> name.** **No fifth copy is coming from me.**
+>
+> **There is something in your very first message that none of those four
+> replies touched at all, and it should have been dealt with before anything
+> about refunds.** **You wrote that the stuffing came out and that it was
+> dangerous for your dog to swallow.** **I am not going to tell you that it is
+> safe, and I am not going to tell you that it is not.** **I am not in a
+> position to make that judgement, and a support desk that answered a safety
+> report with a reassurance it cannot stand behind would be doing you no
+> favours.** **It goes to the shop owner today as a safety report in its own
+> right, marked as such and separate from the refund question.** **It should
+> not have taken eighteen days for anyone to treat it as one.**
+>
+> **Your refund request, and your alternative request for a replacement, both
+> go to him today in your own words and unedited.** **I cannot approve either
+> from this desk, and I am not going to refuse you again.** **That decision is
+> his, and I am not going to give you a date.**
+>
+> **I am not going to promise you a replacement.** **There is a customer who
+> was promised one in writing in July and is still waiting at the end of
+> September, and I am not willing to put you in that position.**
+>
+> **About the free gift, and about when you raised it.** **You wrote on
+> 22 September: "it was buying one get one free, which I never received." You
+> raised it again on 29 September.** **It was not answered either time, and I
+> am not going to suggest you are only now bringing it up.** **Here is what I
+> can check: your order #7608 has one item on it and nothing else. There is no
+> second item and no gift item on the order at all.** **Whether one was
+> advertised is the owner's question — I cannot see the advertisement as it
+> was shown to you, I am not going to tell you what it said, and I am
+> certainly not going to suggest you misremembered it.** **Your wording
+> reaches him unchanged.**
+>
+> **On the durability wording.** **The product you bought is listed under our
+> own title, "Plushies – Designed for Furry Friends Who Destroy Everything" —
+> that is our wording, not yours.** **Beyond that I am not going to
+> reconstruct the page or the advertisement.** **I have read all twelve of our
+> current product descriptions; the word "indestructible" appears in none of
+> them.** **That is a statement about those twelve texts and nothing more.**
+>
+> **What I am not going to do is tell you the guarantee covers what happened,
+> or tell you it does not.** **That is his decision and not mine.**
+>
+> **You used the words "con job".** **I am passing that on exactly as you
+> wrote it and I am not going to argue with you about it, in either
+> direction.** **That is not a judgement a support desk should be handing down
+> about its own employer.**
+>
+> **From the order record:** **you ordered on 24 August and the parcel was not
+> handed over for despatch until 3 September — ten days.** **Nothing has been
+> refunded on this order at any point.** **The total you paid is US$27.75.**
+>
+> **You offered a photograph and sent an attachment. I have not opened it, and
+> I am not asking you for anything further.** **Nothing here depends on you
+> proving what happened.**
+>
+> **If you are thinking of sending the toy back, please do not post anything.**
+> **There is no returns address I can give you** — not one I am withholding,
+> one that does not exist on our side at the moment.
+>
+> **I am not going to make any claim about the toy in either direction, and I
+> am drawing no conclusion from your dog.**
+>
+> I am sorry it took four form letters and eighteen days before anyone
+> answered what you actually wrote.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **getrennte Weitergabe ihrer Sicherheitsmeldung vom
+13.09. als solche** — **sie ist in allen vier Vorlagenbriefen und im Entwurf
+vom 29.09. überhaupt nicht vorgekommen**; die **offene Nennung aller vier
+Vorlagen mit Datum**; die **Korrektur, dass sie den fehlenden Gratisartikel
+bereits am 22.09. genannt hat und nicht erst am 29.09.**; die **überprüfbare
+Auskunft, dass auf #7608 genau eine Position steht**; die Auskunft, dass
+nichts erstattet wurde. **Keine Erstattung zugesagt, kein Ersatz zugesagt,
+kein Termin — und keine fünfte Absage.** **KEINE Aussage zur Sicherheit oder
+Giftigkeit der Füllung, in keine Richtung.** **Keine Garantieentscheidung.**
+**Nicht behauptet, die von ihr beschriebene Geschenk-Werbung existiere
+nicht** — nur, was auf der Bestellung steht. **Nicht behauptet, die von ihr
+erinnerte Werbeaussage existiere nicht** — nur der Befund zu den zwölf
+Produkttexten. **Keine Rekonstruktion der Anzeige.** **Der Artikel wird NICHT
+näher bezeichnet** — der Entwurf vom 29.09. nannte ihn „the monkey plush toy",
+was der Datensatz nicht hergibt; hier steht nur „one item". **Zu „con job"
+keine Bewertung in irgendeine Richtung.** **Anhang nicht geöffnet, kein
+Nachweis verlangt.** **Betrag in USD genannt, nicht umgerechnet.** **Vor dem
+Porto gewarnt.** **Nichts aus ihrem Hund gefolgert.** Kein Eskalationsmarker
+im Text.
 
 ## Was hier bewusst NICHT steht
 

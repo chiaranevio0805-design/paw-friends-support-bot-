@@ -152,3 +152,72 @@ nichts aus seinem Hund gefolgert.
   Gratis-Artikel und die Füllung aus dem ersten Thread abdeckt) **und 87
   weitere Kunden**, die nur die neutrale Warnzeile tragen, sowie **der
   vollständige Durchgang auf veraltete Zeitangaben.**
+
+---
+
+## Lauf 02:20 UTC — nichts Neues im Posteingang · #7608 abgearbeitet
+
+**Posteingang geprüft: leer seit 23:36 UTC.**
+
+**Stattdessen den zweiten seit dem 30.09. offenen Posten erledigt: die
+Entscheidung zu #7608.** Die Frage war, ob der Entwurf vom 29.09. den ersten
+Thread mit abdeckt. **Antwort: nein — und zwar in einem Punkt, der schwerer
+wiegt als gedacht.**
+
+### 🟥 #7608 — Patricia Arenella (`patty.arenella@gmail.com`), US — **Bot/Escalated – Owner Attention**
+
+**Zwei Threads, beide zur selben Bestellung. In der Datei standen fünf
+Fassungen. Alle fünf sind jetzt als ersetzt markiert; es gibt genau einen
+geltenden Entwurf.**
+
+| Datum | Was passiert ist |
+|---|---|
+| 24.08. | Bestellung #7608 |
+| 03.09. | Versand (**zehn Tage**) |
+| **13.09. 20:06** | Erstkontakt: *„My dog destroyed the toy in 3 minutes… I would like a full refund I can send a photo also **the toxic stuffing was very dangerous for my dog to swallow**"* |
+| 15.09. | **Vorlage 1**, „Dear Patricia" |
+| 19.09. | *„Your advertisement stated that the toys are indestructible…"* |
+| 22.09. 11:10 | **Vorlage 2**, „Dear Patricia" |
+| **22.09. 14:12** | *„In addition it was **buying one get one free, which I never received** kindly refund me or…"* |
+| 24.09. | **Vorlage 3**, „Dear Customer" |
+| 23.09. | **Zweiter Thread** eröffnet: `Damaged toy order 7608. Please refund` |
+| 28.09. | **Vorlage 4**, „Dear Customer" |
+| 29.09. 17:33 | *„This is a **con job**… Also the advertisement stated that there was a gift…"* |
+
+**🟥 Zwei Fehler in der bisherigen Bearbeitung, beide hier korrigiert:**
+
+1. **Ihre Sicherheitsmeldung vom 13.09. — die Füllung, die ihr Hund
+   verschlucken könnte — ist in allen vier Vorlagenbriefen UND im Entwurf vom
+   29.09. überhaupt nicht vorgekommen.** **Heute sind das achtzehn Tage.**
+   Sie gehört zu den mindestens fünf dokumentierten Sicherheitsmeldungen; der
+   neue Entwurf gibt sie **getrennt vom Erstattungsthema** als
+   Sicherheitsmeldung weiter, **ohne jede Aussage zur Sicherheit oder
+   Giftigkeit in irgendeine Richtung.**
+2. **Die Überschrift des Entwurfs vom 29.09. lautete „nennt erstmals ein
+   beworbenes Geschenk". Das stimmt nicht.** Sie hat den fehlenden
+   Gratisartikel **bereits am 22.09.** genannt. Der neue Entwurf sagt ihr
+   ausdrücklich, dass sie es zweimal geschrieben hat und beide Male keine
+   Antwort bekam.
+
+**Dritte, kleinere Korrektur:** der Entwurf vom 29.09. nannte den Artikel
+„the monkey plush toy". **Der Datensatz gibt das nicht her** — die Position
+heißt schlicht „Plushies – Designed for Furry Friends Who Destroy
+Everything". Der neue Entwurf sagt nur „one item".
+
+**Shopify-Befund:** `#7608` — bestellt **24.08. 17:44**, versandt
+**03.09. 07:40** (**zehn Tage**), **US$27,75**, **genau eine Position**,
+`totalRefundedSet` = **$0.00**, `refunds` leer, `cancelledAt: null`.
+**Kein Gratisartikel und keine zweite Position auf der Bestellung.**
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand nach diesem Lauf
+
+- **Entwürfe in der Datei: 428.**
+- **Beide am 30.09. offen gelassenen Posten sind erledigt: #8295 und #7608.**
+- **Offen bleiben: 87 Kunden mit reiner Warnzeile** (mehrere Fassungen, nicht
+  geprüft, welche gilt) **und der vollständige Durchgang auf veraltete
+  Zeitangaben.**
+- **🟥 Für den Owner neu auf der Liste:** **#7608 ist die zweite
+  Sicherheitsmeldung, die wochenlang unter Kauschaden-Vorlagen verschwunden
+  ist** — die andere ist #7749. **Beide sind weiterhin unbeantwortet.**
