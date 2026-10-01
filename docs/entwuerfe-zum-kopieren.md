@@ -21204,8 +21204,8 @@ Eskalationsmarker im Text.
 > paragraph.** **No second copy of it is coming from me.**
 >
 > **I am not going to promise you a replacement.** **There is a customer who
-> was promised one in writing in July and is still waiting for it at the end
-> of September**, and I am not willing to put you in that position by making a
+> was promised one in writing on 18 August and is still waiting for it now,
+> six weeks later**, and I am not willing to put you in that position by making a
 > promise of the same kind. **Your request for one is recorded and passed on
 > exactly as you made it.**
 >
@@ -22265,8 +22265,8 @@ gefolgert.** Kein Eskalationsmarker im Text.
 > replacement from this desk, and I am not going to refuse you.** That is the
 > shop owner's decision, and your case goes to him today in your own words.
 > **I am not going to promise you a replacement** — there is a customer who
-> was promised one in writing in July and is still waiting at the end of
-> September, and I am not willing to put you in that position.
+> was promised one in writing on 18 August and is still waiting now, six
+> weeks later, and I am not willing to put you in that position.
 >
 > **And there is no returns address I can give you**, so please do not post
 > anything anywhere.
@@ -22398,8 +22398,8 @@ ihrem Welpen gefolgert.** Kein Eskalationsmarker im Text.
 >
 > **I cannot approve a refund or a replacement from this desk, and I am not
 > going to refuse you.** **And I am not going to promise you a replacement
-> either** — there is a customer who was promised one in writing in July and
-> is still waiting for it at the end of September, and I am not willing to
+> either** — there is a customer who was promised one in writing on 18 August
+> and is still waiting for it now, six weeks later, and I am not willing to
 > add you to that list. **Your request goes to the owner, and what he decides
 > is his to decide.**
 >
@@ -22497,8 +22497,8 @@ Datei. Nur diesen senden.**
 > destroyed.** **I cannot see the advertisement as it was shown to you, so I
 > am not going to tell you what it said, and I am certainly not going to
 > suggest you misremembered it.** **And I am not going to promise you a
-> replacement** — there is a customer who was promised one in writing in July
-> and is still waiting at the end of September, and I will not add you to
+> replacement** — there is a customer who was promised one in writing on
+> 18 August and is still waiting now, six weeks later, and I will not add you to
 > that list. **Your sentence about it goes to the owner unchanged, because
 > only he can look at what was actually advertised.**
 >
@@ -22929,8 +22929,8 @@ jenem Entwurf überhaupt nicht vorgekommen.**
 > his, and I am not going to give you a date.**
 >
 > **I am not going to promise you a replacement.** **There is a customer who
-> was promised one in writing in July and is still waiting at the end of
-> September, and I am not willing to put you in that position.**
+> was promised one in writing on 18 August and is still waiting now, six
+> weeks later, and I am not willing to put you in that position.**
 >
 > **About the free gift, and about when you raised it.** **You wrote on
 > 22 September: "it was buying one get one free, which I never received." You

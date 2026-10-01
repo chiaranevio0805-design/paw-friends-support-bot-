@@ -920,3 +920,53 @@ die ist bearbeitet.
 **Keine Erstattung ausgelöst, keine Stornierung, keine Bestelländerung, nichts
 versendet.** Stand unverändert: **442 Entwürfe, elf Kundenfälle heute, keiner
 der Entwürfe in Gmail.**
+
+---
+
+## Lauf 21:20 UTC — nichts Neues · 🟥 die „Juli"-Angabe in fünf Entwürfen ist nicht belegbar und wurde korrigiert
+
+*(Erst die Datei geändert und geprüft, dann dieser Eintrag.)*
+
+**Posteingang: nichts neuer als #2095 von 18:44 UTC.**
+
+### Der im 17:20-Lauf gemeldete Prüfpunkt ist geklärt — und das Ergebnis ist unangenehm
+
+**Fünf versandfertige Entwürfe enthielten den Satz, es gebe „a customer who
+was promised one in writing in July and is still waiting at the end of
+September".** Das war als Begründung gedacht, warum dem jeweiligen Kunden
+**keine** zweite Ersatzzusage gemacht wird — ein gutes Argument, aber nur,
+wenn es stimmt.
+
+**Geprüft wurde so:**
+
+1. `in:sent replacement after:2026/06/25 before:2026/08/01` → **leer.**
+2. `in:sent before:2026/08/10` → **die älteste ausgehende Nachricht in diesem
+   Postfach datiert vom 09.08.2026 um 21:41 UTC.**
+
+**Es gibt in diesem Postfach keine ausgehende Post aus dem Juli — also auch
+keine Ersatzzusage aus dem Juli.** Die einzige belegbare Ersatzzusage ist die
+an **Michael Laney vom 18.08.**
+
+**🟨 Was das NICHT heißt:** es heißt nicht, dass nie jemand im Juli eine
+Zusage bekommen hat. **Das Zweitpostfach `paw-friends.uk@paw-friends.uk` ist
+von hier nicht einsehbar**, und die Bestellnummern reichen weit vor den
+09.08. zurück. **Es heißt nur: von hier aus ist die Angabe nicht belegbar —
+und eine nicht belegbare Tatsachenbehauptung gehört nicht in einen Brief an
+eine Kundin.**
+
+**Korrektur in allen fünf Entwürfen** (#7401, #7034, #7608, #7091 und einem
+weiteren): aus *„in writing in July … at the end of September"* wurde
+**„in writing on 18 August … now, six weeks later"**. **Alle fünf Stellen
+geprüft, keine Reste.** Die Angabe ist jetzt **genau die, die im Thread
+nachweisbar ist.**
+
+**🟦 Nebenbefund mit eigenem Gewicht:** dass die **älteste ausgehende Mail in
+diesem Postfach vom 09.08.** ist, bedeutet, dass **die gesamte Korrespondenz
+zu Bestellungen unter etwa #4800 in diesem Postfach nur einseitig vorliegt** —
+die Kundennachrichten sind da, unsere Antworten darauf nicht. **Für Fälle wie
+#2095 (Zusage vom 17.07.) stützt sich die Chronik also auf das, was Kundinnen
+zitieren, nicht auf unsere eigenen Sent-Einträge.** Das ist beim Lesen
+älterer Fälle zu berücksichtigen.
+
+**Keine Erstattung ausgelöst, nichts versendet. Shopify weiterhin nicht
+abfragbar.**
