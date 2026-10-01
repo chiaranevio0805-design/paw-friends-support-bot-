@@ -221,3 +221,47 @@ Everything". Der neue Entwurf sagt nur „one item".
 - **🟥 Für den Owner neu auf der Liste:** **#7608 ist die zweite
   Sicherheitsmeldung, die wochenlang unter Kauschaden-Vorlagen verschwunden
   ist** — die andere ist #7749. **Beide sind weiterhin unbeantwortet.**
+
+---
+
+## Lauf 03:20 UTC — nichts Neues im Posteingang · dritter offener Posten begonnen
+
+**Posteingang geprüft: leer.**
+
+**Den dritten seit dem 30.09. offenen Posten angefasst: den Durchgang auf
+veraltete Zeitangaben in der Entwurfsdatei.**
+
+### 🟥 133 geltende Entwürfe enthalten relative Zeitangaben
+
+**Gesucht wurde nach** `yesterday`, `last night`, `this morning`,
+`this afternoon`, `this evening`, `tonight`, `tomorrow`, Wochentagen
+(`on Thursday`, `last Friday` …), `this week`, `last week`, `next week`,
+`a few days ago`, `the other day`. **Bereits als ersetzt markierte Fassungen
+wurden ausgenommen** — gezählt sind nur Entwürfe, die nach heutigem Stand
+gelten würden.
+
+**Befund: 133.**
+
+**Warum das zählt:** jeder dieser Texte wurde an dem Tag geschrieben, an dem
+die Angabe stimmte, und **keiner ist je versendet worden.** Wird einer davon
+heute abgeschickt, **enthält er eine falsche Aussage über den Vorgang der
+Kundin oder des Kunden** — und zwar gegenüber genau den Menschen, denen schon
+mehrfach etwas Unzutreffendes geschrieben wurde.
+
+**Die vollständige Liste steht in `docs/entwuerfe-mit-relativen-datumsangaben.md`**,
+mit der jeweils gefundenen Formulierung pro Entwurf.
+
+**Bewusst NICHT getan: die 133 Entwürfe automatisch umgeschrieben.** Ein
+Skript, das `this morning` durch ein Datum ersetzt, müsste raten, welcher Tag
+gemeint war — und bei mehreren Nachrichten am selben Tag rät es falsch.
+**Die Liste ist eine Prüfliste zum Abarbeiten, keine Reparatur.** In der
+Datei steht ausdrücklich: **lieber den Satz streichen als ein Datum einsetzen,
+das vielleicht nicht stimmt.**
+
+### Stand nach diesem Lauf
+
+- **Entwürfe in der Datei: 428** (unverändert — in diesem Lauf wurde kein
+  Entwurf geschrieben und keiner geändert).
+- **Offen aus der Entwurfsdatei-Prüfung:** **87 Kunden mit reiner Warnzeile**
+  und **die Abarbeitung der 133 Datumsangaben.**
+- **Keine Erstattung ausgelöst, nichts versendet.**
