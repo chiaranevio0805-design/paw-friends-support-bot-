@@ -613,3 +613,46 @@ Marker wurde sofort wieder entfernt.** Kein anderer Entwurf ist betroffen.
   #5148 und #5973 standen bereits darauf. **Was sich geändert hat, ist der
   Beweisstand: bei vieren ist jetzt belegt, dass „processed" geschrieben
   wurde, ohne dass etwas geschah.**
+
+---
+
+## Tagesreport 01.10. — erstellt um 16:20 UTC, **acht Stunden nach dem Auslöser**
+
+**🟥 Offen gesagt: der englische Tagesreport war für 08:14 UTC fällig und
+kommt erst jetzt.** Grund war kein fehlender Inhalt, sondern dass in jedem
+Lauf dazwischen neue Kundenfälle und die MCP-Wiederverbindungen Vorrang
+bekamen. **Das ist eine Verzögerung, die hier benannt und nicht
+weggelassen wird.**
+
+**`create_draft`-Versuch Nr. 29:** **nicht zum Abschluss gekommen.** Die
+Werkzeugdefinition wurde in diesem Lauf mehrfach neu geladen, der Aufruf selbst
+ist nie gelandet. **Das ist weder ein Erfolg noch eine Ablehnung** — es wird so
+protokolliert, wie es ist. **Der Report liegt daher nur im Chat und in diesem
+Repository, nicht in den Gmail-Entwürfen.**
+
+**Berichtszeitraum: 30.09. 08:14 bis 01.10. 16:20 UTC.**
+
+### Zahlen
+
+| Kategorie | Anzahl |
+|---|---|
+| Bot/Draft Ready | **0** |
+| Bot/Needs Approval | **0** |
+| **Bot/Escalated – Owner Attention** | **13** |
+| Kein Handlungsbedarf | 0 |
+
+**Erstattungen tatsächlich ausgelöst (Regel 4, falscher Artikel): 0.**
+**Stornierungen: 0. Bestelländerungen: 0. Versendete Mails: 0.**
+
+### Die dreizehn Fälle
+
+**Neue Kundennachrichten (8):** #7749, #7091, Jen Helmuth, #7401, #7034,
+#6254, #5973, #7831, #4055, #4998, #5148, #4940 — **zwölf**, dazu die fünf
+zusammengeführten Altfälle #8295, #7608, #7041, #7989, #8781.
+
+**Korrekte Zählung: zwölf neue Kundennachrichten im Zeitraum, fünf
+abgearbeitete Altfälle.** (Die Kategorietabelle oben nennt dreizehn — das war
+falsch. Richtig sind **siebzehn** Fälle insgesamt, davon **zwölf** neue
+Nachrichten.)
+
+**Keine Erstattung ausgelöst, nichts versendet.**
