@@ -306,3 +306,69 @@ Tagen unbeantwortete Sicherheitsmeldung ein weiteres Mal übergangen.
   Entwürfe mit relativen Zeitangaben** — beide jetzt als eigene Prüflisten im
   Repository, nicht mehr nur als Satz im Protokoll.
 - **Keine Erstattung ausgelöst, nichts versendet.**
+
+---
+
+## Lauf 05:20 UTC — nichts Neues im Posteingang · #7041 abgearbeitet
+
+**Posteingang geprüft.** Dieselben drei Threads wie um 04:20, alle mit
+jüngster Nachricht vom **29.09.** und alle bearbeitet. **Nichts ist neuer als
+#7831 von 30.09. 23:36.**
+
+**Aus der Prüfliste `docs/entwuerfe-mehrfachfassungen.md` den nächsten Fall
+abgearbeitet.**
+
+### 🟥 #7041 — Tim Fitton (`fitton@fitton.karoo.co.uk`), GB — **Bot/Escalated – Owner Attention**
+
+**Drei Threads, zwei Absenderadressen, vier Entwurfsfassungen. Alle vier sind
+jetzt als ersetzt markiert; es gibt genau einen geltenden Entwurf.**
+
+| Datum | Was passiert ist |
+|---|---|
+| 21.08. 19:30 | Bestellung #7041 |
+| **02.09. 10:45** | Versand — **zwölf Tage** |
+| 15.09. | Nach seiner Angabe erhalten |
+| 16.09. 19:39 | Erstkontakt von `fitton@fitton.karoo.co.uk` |
+| 17.09. 21:15 | Nachfass, gleiche Adresse |
+| **21.09. 05:49** | Von `fittontim@gmail.com`: *„I am still awaiting **a full refund** on this as both items were of poor quality and **not as described**"* |
+| 21.09. 09:24 | **Vorlage 1**, „Dear Tim" |
+| 22.09. 10:20 | *„That is really disappointing they are of such poor quality and a complete waste of money!"* |
+| 24.09. 12:18 | **Vorlage 2**, „Dear Customer" |
+| 24.09. 12:30 | **Vorlage 3**, „Dear Customer" |
+| seither | nichts |
+
+**🟦 Der entscheidende Befund:** **die Artikel auf #7041 sind
+`Paw-Friends™-Fluffys`.** **Der eigene Fluffys-Produkttext trägt die Zeile
+„30-day money-back guarantee" — ohne jede Bedingung.** Alle drei
+Absagebriefe stützten sich auf eine Bedingung („returned unused"), **die in
+keinem der zwölf Produkttexte steht.** Das ist dasselbe Muster wie bei #7479
+und #7347.
+
+**Zweiter Befund:** **seine ausdrückliche Erstattungsforderung vom 21.09.
+wurde nie als solche beantwortet** — drei Vorlagen zum Kauschaden, kein Wort
+zur Forderung. **Heute sind das zehn Tage.**
+
+**Shopify-Befund:** `#7041` — bestellt **21.08.**, versandt **02.09.**
+(**zwölf Tage**), **£29,95**, zwei Fluffys zum Bündelpreis,
+`totalRefundedSet` = **£0.00**, `refunds` leer, `cancelledAt: null`.
+**E-Mail auf der Bestellung: `fitton@fitton.karoo.co.uk`.**
+
+**🟥 Adressregel angewandt:** er schreibt auch von `fittontim@gmail.com`.
+**Der Entwurf geht an die Adresse auf der Bestellung**, und der Grund wird ihm
+offen genannt — **ohne seine Identität in Zweifel zu ziehen.** Es werden
+keine Bestelldaten an die Zweitadresse gegeben.
+
+**Weiter im Entwurf ausdrücklich NICHT:** keine vierte Kauschaden-Vorlage;
+keine Erstattung zugesagt, kein Termin, keine Absage; **nicht entschieden, ob
+die bedingungslose Fluffys-Garantie auf seinen Fall anwendbar ist**; nicht
+behauptet, die von ihm erinnerte Beschreibung existiere nicht; **nicht
+unterstellt, der zweite Artikel sei benutzt — und auch nicht, er sei
+ungeöffnet**; vor dem Porto gewarnt; nichts aus seinem Hund gefolgert.
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand nach diesem Lauf
+
+- **Entwürfe in der Datei: 429.**
+- **Mehrfachfassungen abgearbeitet: 12** (neu: #7041). **Offen: 83.**
+- **Entwürfe mit relativen Zeitangaben: weiterhin 133 offen.**

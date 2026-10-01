@@ -7549,6 +7549,8 @@ geändert.** Kein Eskalationsmarker im Text.
 ---
 
 ## #7041 — Tim Fitton (fitton@fitton.karoo.co.uk)  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order number - 7041
@@ -9523,6 +9525,8 @@ Versandweg** — sie hat nicht gefragt. Kein Eskalationsmarker im Text.
 ---
 
 ## #7041 — Tim Fitton (fitton@fitton.karoo.co.uk) — zweite Fassung, er schickt seine eigene Mail erneut  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order number - 7041
@@ -14109,6 +14113,8 @@ Betrag in seiner Währung auf der Bestellung; **die Trinkgeldposition wird nicht
 beziffert und nicht verrechnet.** Kein Eskalationsmarker im Text.
 
 ## #7041 — Tim Fitton (schreibt von fittontim@gmail.com, Bestellung auf fitton@fitton.karoo.co.uk) — dritter Kontakt, **noch nie eine Antwort erhalten**  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #7041 confirmed
@@ -15734,6 +15740,8 @@ Sendungsverfolgungsnummer genannt** — es gibt keine. Kein Eskalationsmarker im
 Text.
 
 ## #7041 — Tim Fitton (fittontim@gmail.com) — GB, ⛔ **Erstattungsbitte mit der Kauschaden-Vorlage beantwortet**
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 
 **Betreff:** Re: Order number - 7041
 
@@ -22937,6 +22945,105 @@ keine Bewertung in irgendeine Richtung.** **Anhang nicht geöffnet, kein
 Nachweis verlangt.** **Betrag in USD genannt, nicht umgerechnet.** **Vor dem
 Porto gewarnt.** **Nichts aus ihrem Hund gefolgert.** Kein Eskalationsmarker
 im Text.
+
+## #7041 — Tim Fitton (`fitton@fitton.karoo.co.uk`) — GB, **ZUSAMMENGEFÜHRTER Entwurf für alle drei Threads; drei Kauschaden-Vorlagen, Erstattungsforderung nie beantwortet** · 01.10.
+
+**✅ GEPRÜFT am 01.10.: Dies ist die geltende Fassung für diesen Kunden. Alle vier früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+**🟥 ADRESSE BEACHTEN: Diese Antwort geht an `fitton@fitton.karoo.co.uk` —
+das ist die Adresse auf der Bestellung.** Er hat auch von
+`fittontim@gmail.com` geschrieben. **Die Angaben aus dem Bestelldatensatz
+dürfen nur an die Adresse gehen, die auf der Bestellung steht.** Zu senden im
+Thread `Re: Order number - 7041`.
+
+**Betreff:** `Re: Order number - 7041`
+
+> Dear Mr Fitton,
+>
+> **You have written to us three times about this order and all three times
+> you were sent the same policy paragraph — on 21 and twice on 24 September.
+> Two of those did not use your name.** **No fourth copy is coming from me.**
+>
+> **The thing none of them answered is the thing you actually asked.** **On
+> 21 September you wrote: "I am still awaiting a full refund on this as both
+> items were of poor quality and not as described."** **That is a refund
+> request in plain words, and it was answered with a paragraph about chew
+> damage.** **It is being answered properly now.**
+>
+> **Your request goes to the shop owner today, in your own words and
+> unedited.** **I cannot approve a refund from this desk, and I am not going
+> to refuse you.** **That decision is his, and I am not going to give you a
+> date.**
+>
+> **There is one thing I can check and tell you, and you can check it
+> yourself.** **The items on your order are listed on our site as Fluffys.**
+> **The published description for that product carries the line "30-day
+> money-back guarantee", and in our own product text it appears with no
+> condition attached to it.** **The three replies you were sent all turned on
+> a condition about items being returned unused.** **I am telling you that
+> because it is what our own page says — I am not going to tell you it
+> therefore applies to your case, and I am not going to tell you it does
+> not.** **That is the owner's decision and I am not going to make it for
+> him.**
+>
+> **You wrote that the items were "not as described".** **I cannot see the
+> page or the advertising as it was shown to you, so I am not going to tell
+> you what it said, and I am certainly not going to suggest you misread it.**
+> **I have read all twelve of our current product descriptions; the word
+> "indestructible" appears in none of them.** **That is a statement about
+> those twelve texts and nothing more.** **Your wording reaches the owner
+> unchanged.**
+>
+> **From the order record:** **you ordered on 21 August and the parcel was not
+> handed over for despatch until 2 September — twelve days.** **By your own
+> account it reached you on 15 September.** **Nothing has been refunded on
+> this order at any point.** **The total you paid is £29.95.** **I am not
+> going to split that between the two items** — they were sold at a bundle
+> price and any per-item figure would be a guess.
+>
+> **You told us your spaniel chewed through the toy within ten minutes.** **I
+> am not going to assume anything about the second item one way or the other,
+> and nothing here depends on it.** **If it is still unopened, say so and I
+> will pass that on.**
+>
+> **If you are thinking of sending anything back, please do not post it.**
+> **There is no returns address I can give you** — not one I am withholding,
+> one that does not exist on our side at the moment. **You would be out the
+> postage as well.**
+>
+> **One practical note.** **You have written to us from two different email
+> addresses.** **I am replying to the one that is on the order, because that
+> is the only address I can give order details to.** **That is not a doubt
+> about who you are — it is the same rule that stops anyone else being told
+> what is on your order.**
+>
+> **I am not going to make any claim about the toys in either direction, and I
+> am drawing no conclusion from your dog.**
+>
+> I am sorry it took three form letters and two weeks before anyone answered
+> the question you asked.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Nennung aller drei Vorlagenbriefe mit
+Datum**; die **Feststellung, dass seine ausdrückliche Erstattungsforderung vom
+21.09. nie als solche beantwortet wurde**; die **unveränderte Weitergabe
+dieser Forderung**; der **überprüfbare Hinweis auf den eigenen
+Fluffys-Produkttext, in dem die 30-Tage-Garantie ohne Bedingung steht**,
+**ausdrücklich ohne zu entscheiden, ob sie auf seinen Fall anwendbar ist**;
+die Auskunft, dass nichts erstattet wurde. **Keine Erstattung zugesagt, kein
+Termin, keine vierte Absage.** **Keine vierte Kauschaden-Vorlage.** **Nicht
+behauptet, die von ihm erinnerte Beschreibung existiere nicht** — nur der
+Befund zu den zwölf Produkttexten. **Keine Rekonstruktion der Anzeige.**
+**🟥 Die Antwort geht an die Adresse auf der Bestellung, nicht an die
+Zweitadresse** — und der Grund wird ihm offen genannt, ohne seine Identität in
+Zweifel zu ziehen. **Nicht unterstellt, der zweite Artikel sei benutzt — und
+auch nicht, er sei ungeöffnet**; es wird angeboten, es weiterzugeben.
+**Gesamtbetrag genannt, nicht aufgeteilt.** **Vor dem Porto gewarnt.** **Keine
+Aussage zur Qualität, in keine Richtung.** **Nichts aus seinem Hund
+gefolgert.** Kein Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 
