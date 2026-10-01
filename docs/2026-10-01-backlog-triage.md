@@ -76,3 +76,79 @@ Regel-4-Fall. **Nichts versendet.**
   Texte, nicht der versendbaren Antworten.**
 - **🟦 Die E-Book-Position auf #7831 ist eine weitere unter den bereits
   dokumentierten Bestellungen mit nicht ausgelieferten E-Book-Zeilen.**
+
+---
+
+## Lauf 01:20 UTC — nichts Neues im Posteingang · #8295 abgearbeitet
+
+**Posteingang geprüft: keine neue Nachricht seit 23:36 UTC.** Die #7831 aus
+dem 00:20-Lauf bleibt die jüngste.
+
+**Stattdessen den seit dem 30.09. offenen Posten erledigt: den
+zusammengeführten Entwurf für #8295.**
+
+### 🟥 #8295 — Ivan Griffen (`griffenivan@gmail.com`), GB — **Bot/Escalated – Owner Attention**
+
+**Er hat in FÜNF getrennten Threads geschrieben**, alle zur selben Bestellung,
+und wurde in jedem behandelt, als wäre er jemand anderes. **In der
+Entwurfsdatei standen sechs Fassungen.** **Alle sechs sind jetzt als ersetzt
+markiert; es gibt genau einen geltenden Entwurf.**
+
+**Vollständiger Verlauf, aus allen fünf Threads zusammengesetzt:**
+
+| Datum | Was passiert ist |
+|---|---|
+| 31.08. 01:24 | Bestellung #8295 |
+| 05.09. | *„When is my order going to arrive and when will I get a tracking number."* |
+| **06.09. 17:04** | **Antwort: „your order has been shipped and is currently on its way"** |
+| 06.09. 17:45 | *„Havel you got a tracking number"* |
+| 07.09. | Zweimal *„Can I have a tracking number please"* — in **zwei weiteren Threads** |
+| **08.09. 07:47** | **Tatsächlicher Versand laut `fulfillments.createdAt`** |
+| 08.09. 08:20 / 08:24 | Zwei Antworten, „shipment details have been received" |
+| 09.09. | Trackingnummer gegeben |
+| 17.09. | **Vierter Thread:** *„Thought I would pre warn you that it looks like Evri may have lost my package"* |
+| 18.09. | **Fünfter Thread:** *„Still haven't got my order"* |
+| **18.09. 14:30** | *„I have sent you a few emails with out receiving a response **I need you to refund my money**"* |
+| 21.09. 09:40 | **Drei Tage später:** ein Tracking-Absatz an **„Dear Customer"** — **die Erstattungsforderung wird nicht erwähnt** |
+| 21.09. 10:54 | *„It took 8 minutes for my dog to destroy the toy"* — das Paket war also angekommen |
+| 24.09. 12:25 | Kauschaden-Vorlage, angeredet **„Dear IVan"** |
+| 24.09. 12:29 | *„Absolutely crap marketing a **scam advert** to get people's to buy !! will be showing the state of the toy after 8 minutes on facebook"* |
+| 28.09. 11:22 | **Zweite Kauschaden-Vorlage**, wieder **„Dear Customer"** |
+| seither | **nichts mehr von uns, nichts mehr von ihm** |
+
+**🟥 Zwei Befunde, die bisher nirgends standen:**
+
+1. **Am 06.09. wurde ihm geschrieben, die Bestellung „has been shipped and is
+   currently on its way". `fulfillments.createdAt` ist der 08.09. 07:47.**
+   **Als ihm gesagt wurde, es sei versandt, war es nicht versandt** — zwei
+   Tage zu früh.
+2. **Seine Erstattungsforderung vom 18.09. wurde nie als Erstattungsforderung
+   beantwortet.** Sie steht wörtlich im Thread, und die Antwort vom 21.09.
+   ging auf alles andere ein. **Heute sind das dreizehn Tage.**
+
+**Shopify-Befund:** `#8295` — bestellt **31.08.**, versandt **08.09.**
+(**acht Tage**), **£27,95**, zwei Plushies zum Bündelpreis,
+`totalRefundedSet` = **£0.00**, `refunds` leer, `cancelledAt: null`.
+
+**Im Entwurf ausdrücklich NICHT:** **der Zusteller wird nicht erwähnt und er
+wird nicht an ihn verwiesen**, obwohl er ihn selbst mehrfach genannt hat — die
+Verzögerung wird allein unserem Versanddatum zugeschrieben; **die
+Trackingnummer wird nicht als Zustellnachweis benutzt** (dass das Paket ankam,
+steht fest, weil er es selbst geschrieben hat); **nicht gesagt, seine
+Bewertung nach acht Minuten sei verfrüht**; keine dritte Kauschaden-Vorlage;
+keine Erstattung zugesagt, kein Termin, keine Absage; keine
+Garantieentscheidung; **nicht behauptet, die Werbung sei kein „scam advert" —
+und auch nicht, dass sie einer sei**; keine Rekonstruktion der Anzeige;
+nichts an seinen angekündigten Beitrag geknüpft; vor dem Porto gewarnt;
+nichts aus seinem Hund gefolgert.
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand nach diesem Lauf
+
+- **Entwürfe in der Datei: 427.**
+- **Offene Posten aus der Entwurfsdatei-Prüfung: #8295 ist erledigt.**
+  **Offen bleiben: #7608** (zwei Threads — unklar, ob der neueste den
+  Gratis-Artikel und die Füllung aus dem ersten Thread abdeckt) **und 87
+  weitere Kunden**, die nur die neutrale Warnzeile tragen, sowie **der
+  vollständige Durchgang auf veraltete Zeitangaben.**

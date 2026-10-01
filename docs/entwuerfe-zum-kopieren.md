@@ -8249,6 +8249,8 @@ Eskalationsmarker im Text.
 ---
 
 ## #8295 — Ivan Griffen (griffenivan@gmail.com) — Vorwarnung statt Beschwerde  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #8295
@@ -9092,6 +9094,8 @@ keiner der neun Produktbeschreibungen. Kein Eskalationsmarker im Text.
 ---
 
 ## #8295 — Ivan Griffen (griffenivan@gmail.com) — zweite Fassung, er leitet sich selbst weiter  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Fwd: Order #8295
@@ -10373,6 +10377,8 @@ keine Bedingung daran geknüpft. Kein Eskalationsmarker im Text.
 ---
 
 ## #8295 — Ivan Griffen (griffenivan@gmail.com) — dritte Fassung, jetzt mit eigener Frist  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #8295
@@ -11005,6 +11011,8 @@ keine Handlungsempfehlung**, nur der Hinweis, dass dies zum Tierarzt gehört.
 Fotos.** Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
 ## #8295 — Ivan Griffen (griffenivan@gmail.com) — vierte Fassung, ⛔ sechster Kontakt, dritter Thread  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #8295
@@ -14579,6 +14587,8 @@ Betrag, kein Termin, keine Absage.** **Kein Versuch, sie zum Prozentangebot zu
 Text.
 
 ## #8295 — Ivan Griffen (griffenivan@gmail.com) — fünfte Fassung, Frist 23.09.  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #8295
@@ -17652,6 +17662,8 @@ angerufen. **Nichts über Rasse, Alter oder Umgang des Hundes gefolgert.**
 verlangt.** Kein Eskalationsmarker im Text.
 
 ## #8295 — Ivan Griffen (griffenivan@gmail.com) — GB, **kündigt einen Facebook-Beitrag an, „scam advert"**
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 
 **Betreff:** Re: Order #8295
 
@@ -22705,6 +22717,107 @@ haben.** **Nichts zur Bedingung gemacht, kein Nachweis verlangt.**
 **Gesamtbetrag in USD genannt, nicht in GBP umgerechnet und nicht
 aufgeteilt.** **Nichts aus ihrem Welpen gefolgert.** **Sie wird mit ihrer
 eigenen Unterschrift „Mary" angesprochen.** Kein Eskalationsmarker im Text.
+
+## #8295 — Ivan Griffen (`griffenivan@gmail.com`) — GB, **ZUSAMMENGEFÜHRTER Entwurf für alle fünf Threads** · 01.10.
+
+**✅ GEPRÜFT am 01.10.: Dies ist die geltende Fassung für diesen Kunden. Alle sechs früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+**⚠️ Er hat uns in FÜNF getrennten Threads geschrieben, alle zur selben
+Bestellung #8295. Dieser eine Entwurf deckt sie alle ab. Nicht fünf Antworten
+senden — diese eine.** Zu senden im Haupt-Thread `Re: Order #8295`.
+
+**Betreff:** `Re: Order #8295`
+
+> Dear Ivan,
+>
+> **You have written to us in five separate email threads about one order, and
+> you have been answered as though each one were a different stranger. I am
+> going to answer all of it in one place, and I am going to be straight with
+> you about what went wrong at our end.**
+>
+> **First, a correction I owe you.** **On 6 September you were told your order
+> "has been shipped and is currently on its way".** **Our own record shows the
+> parcel was not handed over for despatch until 8 September.** **So when you
+> were told it had shipped, it had not.** **I am not going to explain that
+> away.**
+>
+> **Second, and this is the one that matters most.** **On 18 September you
+> wrote: "I have sent you a few emails with out receiving a response I need
+> you to refund my money."** **That was a refund request in plain words.**
+> **What you got three days later was a paragraph about tracking, addressed to
+> "Dear Customer".** **Your refund request was never answered as a refund
+> request. It is being answered now.**
+>
+> **It goes to the shop owner today, in your own words and unedited.** **I
+> cannot approve a refund from this desk, and I am not going to refuse you.**
+> **That decision is his.** **I am not going to give you a date, because I
+> have no way of standing behind one.**
+>
+> **Third, the two form letters.** **On 24 September you were sent a policy
+> paragraph about chew damage. On 28 September you were sent another one,
+> addressed to "Dear Customer".** **Neither of them answered what you had
+> written.** **No third copy is coming from me.**
+>
+> **Fourth, what you said about the advertising.** **You called it a scam
+> advert.** **I cannot see the advertisement as it was shown to you, so I am
+> not going to tell you what it said, and I am certainly not going to suggest
+> you misread it.** **What I can check, I have:** I have read all twelve of
+> our current product descriptions. **The word "indestructible" appears in
+> none of them.** **The Plushies text describes "rope-reinforced construction"
+> and an "anti-tear design built for strong chewers".** **That is a statement
+> about those twelve texts and nothing more — it is not a claim that what you
+> were shown said something different.** **Your wording goes to the owner
+> exactly as you wrote it, because he is the only one who can look at the
+> advertising itself.**
+>
+> **What I am not going to do is tell you the guarantee covers what happened,
+> or tell you it does not.** **That is his decision and not mine.**
+>
+> **You said you would be posting about this.** **Nothing here is conditional
+> on that, in any direction.** **I am not asking you to hold off, to
+> reconsider, or to take anything down, and you do not owe us silence in
+> exchange for an answer.**
+>
+> **From the order record:** **you ordered on 31 August and the parcel was not
+> handed over for despatch until 8 September — eight days.** **Nothing has
+> been refunded on this order at any point.** **The total you paid is £27.95.**
+> **I am not going to split that between the two toys** — they were sold at a
+> bundle price and any per-toy figure would be a guess.
+>
+> **If you are thinking of sending anything back, please do not post it.**
+> **There is no returns address I can give you — not one I am withholding, one
+> that does not exist on our side at the moment.** **You would be out the
+> postage as well.**
+>
+> **I am not going to make any claim about the toys in either direction, and I
+> am drawing no conclusion from your dog.**
+>
+> I am sorry it took five threads, two form letters and three weeks to get an
+> answer to the question you asked on 18 September.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Korrektur, dass ihm am 06.09. „has been
+shipped" gesagt wurde, obwohl der Versand erst am 08.09. erfolgte**; die
+**Feststellung, dass seine ausdrückliche Erstattungsforderung vom 18.09. nie
+als solche beantwortet wurde**; die **unveränderte Weitergabe dieser Forderung
+an den Owner**; die Auskunft, dass nichts erstattet wurde. **Keine Erstattung
+zugesagt, kein Termin, keine Absage.** **Keine dritte Kauschaden-Vorlage**,
+und gesagt, dass keine kommt. **Keine Garantieentscheidung, in keine
+Richtung.** **Nicht behauptet, die von ihm gesehene Werbung sei kein „scam
+advert"** — und auch nicht, dass sie einer sei; nur der Befund zu den zwölf
+Produkttexten, **ohne Rekonstruktion der Anzeige.** **🟥 Der Zusteller wird
+NICHT erwähnt und er wird NICHT an ihn verwiesen** — obwohl er ihn selbst
+mehrfach genannt hat; die Verspätung wird allein unserem Versanddatum
+zugeschrieben. **Die Trackingnummer wird NICHT als Zustellnachweis benutzt** —
+dass das Paket ankam, steht fest, weil er es am 21.09. selbst geschrieben hat.
+**Nicht gesagt, seine Bewertung nach acht Minuten sei verfrüht**, und seine
+eigenen Worte werden nicht gegen ihn verwendet. **Nichts an den angekündigten
+Beitrag geknüpft**, und nicht um Aufschub gebeten. **Vor dem Porto gewarnt.**
+**Gesamtbetrag genannt, nicht aufgeteilt.** **Nichts aus seinem Hund
+gefolgert.** Kein Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 
