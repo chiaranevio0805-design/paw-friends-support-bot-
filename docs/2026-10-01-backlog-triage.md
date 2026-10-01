@@ -907,3 +907,16 @@ stillschweigend zu ändern.**
 - **🔴 Owner, dringlichste Einzelsache des Tages: Pam Trafford braucht eine
   Postadresse.** Ihre Bank wartet seit Monaten darauf, und heute wurde ihr
   stattdessen ein Absagebrief geschickt.
+
+---
+
+## Lauf 20:20 UTC — nichts Neues
+
+**Posteingang geprüft: keine Nachricht neuer als #2095 von 18:44 UTC**, und
+die ist bearbeitet.
+
+**Shopify weiterhin nicht abfragbar** — die Neuanmeldung steht aus.
+
+**Keine Erstattung ausgelöst, keine Stornierung, keine Bestelländerung, nichts
+versendet.** Stand unverändert: **442 Entwürfe, elf Kundenfälle heute, keiner
+der Entwürfe in Gmail.**
