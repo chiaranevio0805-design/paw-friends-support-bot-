@@ -17990,6 +17990,8 @@ aus der Shopify-Versandmail und werden nicht geöffnet.** Kein
 Eskalationsmarker im Text.
 
 ## #8781 — Glenn Yarbrough (glennyarbrough@gmail.com) — US, **Stornowunsch 21 Minuten nach der Bestellung, nichts versandt**  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #8781 confirmed
@@ -18153,6 +18155,8 @@ unterschreibt** (die Bestellung lautet auf „Suzanne"). Kein Eskalationsmarker
 im Text.
 
 ## #8781 — Glenn Yarbrough (glennyarbrough@gmail.com) — US, **zweiter Kontakt, fünf Stunden später, Stornofenster weiterhin offen**  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #8781 confirmed
@@ -19092,6 +19096,8 @@ gegen sie verwendet. **Kein Foto verlangt**, ausdrücklich abbestellt. Kein
 Eskalationsmarker im Text.
 
 ## #8781 — Glenn Yarbrough (glennyarbrough@gmail.com) — US, **dritter Kontakt, 31 Stunden nach der ersten Bitte, Datensatz unverändert**  
+
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #8781 confirmed
@@ -21578,6 +21584,8 @@ Garantieentscheidung.** Kein Eskalationsmarker im Text.
 
 ## #8781 — Glenn Yarbrough (`glennyarbrough@gmail.com`) — **bekam heute Abend „already been shipped"; der Versandbeleg datiert später als seine Stornierungen** · 29.09.
 
+**⚠️ ERSETZT durch den Entwurf vom 01.10. — nur den neuesten senden.**
+
 **Betreff:** `Re: Order #8781 confirmed`
 
 > Dear Mr Yarbrough,
@@ -23153,6 +23161,90 @@ nichts zur Bedingung gemacht.** **Betrag in AUD genannt, nicht umgerechnet.**
 **Der AU-Abschnitt nur benannt, ausdrücklich nicht ausgelegt.** **Vor einer
 Rücksendung gewarnt, ohne sie zu verlangen.** **Keine Aussage zur Qualität,
 in keine Richtung.** Kein Eskalationsmarker im Text.
+
+## #8781 — Glenn Yarbrough (`glennyarbrough@gmail.com`) — US, **ZUSAMMENGEFÜHRTER Entwurf; er fragt direkt, warum nicht storniert wurde — die Antwort ist unangenehm und steht im Text** · 01.10.
+
+**✅ GEPRÜFT am 01.10.: Dies ist die geltende Fassung für diesen Kunden. Alle vier früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+**Betreff:** `Re: Order #8781 confirmed`
+
+> Dear Mr Yarbrough,
+>
+> **You asked a direct question — why you are now being told the order cannot
+> be cancelled — and you are owed a direct answer. Here it is, from our own
+> order record.**
+>
+> **You placed the order on 24 September at 15:20 UTC. Your first cancellation
+> request reached us at 15:42 the same day — twenty-two minutes later.** **You
+> asked again that evening, and a third time on 25 September.** **None of
+> those three messages was answered.**
+>
+> **The parcel was handed over for despatch on 28 September at 04:37 UTC** —
+> **three and a half days after you first asked us to stop it.**
+>
+> **So the sentence you were sent on 29 September was true by the time it was
+> written: the parcel had gone.** **What it left out is that it had gone
+> because nobody replied to you while it could still have been stopped.**
+> **The window did not close because the answer was no. It closed because
+> there was no answer.** **I am not going to dress that up.**
+>
+> **What the record shows today:** **the order is not cancelled, and nothing
+> has been refunded on it at any point.** **I am not going to tell you it is
+> cancelled, because it is not, and I cannot cancel it from this desk.**
+>
+> **What I am doing instead:** **the whole sequence — your three requests,
+> their dates and times, the despatch date, and your question — goes to the
+> shop owner today in your own words.** **He is the only person who can decide
+> what happens now.** **I cannot approve a refund from this desk, and I am not
+> going to refuse you.** **I am not going to give you a date.**
+>
+> **I am also not going to assume what you want.** **If you would like a
+> refund, say so and it goes to him as a refund request. If you would rather
+> keep the order now that it is on its way, that is equally fine and nothing
+> here pushes you either way.**
+>
+> **One thing to be straight about before you make that decision.** **The
+> reply of 29 September told you to contact us about return options once the
+> order arrives.** **There is no returns address I can give you — not one I am
+> withholding, one that does not exist on our side at the moment.** **So
+> please do not post anything back, and please do not plan around being able
+> to.** **I would rather tell you that now than after you have paid postage.**
+>
+> **You mentioned a notification about inventory and shipping as soon as
+> possible.** **I have not seen that message from here and I am not going to
+> characterise what it said.** **Your account of it goes to the owner as you
+> wrote it.**
+>
+> **From the order record, so you have it in one place:** **order #8781,
+> placed 24 September, despatched 28 September, total US$37.69, two items.**
+> **Not cancelled. Nothing refunded.**
+>
+> I am sorry you asked three times within thirty-one hours and heard nothing
+> until five days later.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **direkte Antwort auf seine Frage**, mit den
+**Uhrzeiten aus dem Datensatz** — Bestellung 24.09. 15:20 UTC, erste
+Stornobitte 15:42 UTC, Versand **28.09. 04:37 UTC**; die **offene
+Feststellung, dass das Stornofenster nicht durch eine Absage, sondern durch
+Schweigen geschlossen wurde**; die **Weitergabe des gesamten Vorgangs an den
+Owner**; die Auskunft, dass **nicht storniert und nichts erstattet** wurde.
+**🟥 Nicht behauptet, die Bestellung sei storniert** — `orderCancel` ist
+gesperrt und es wurde nichts ausgeführt. **Nicht behauptet, die Aussage vom
+29.09. sei falsch gewesen** — sie war zu dem Zeitpunkt zutreffend; gesagt
+wird, was sie verschwieg. **Keine Erstattung zugesagt, kein Termin, keine
+Absage.** **🟥 Seine Frage wird NICHT als Erstattungsforderung gedeutet** —
+es wird angeboten, beides weiterzugeben, und ausdrücklich in keine Richtung
+gedrängt. **Vor dem Porto gewarnt**, und offen gesagt, dass die
+Rückgabe-Zusage aus dem Brief vom 29.09. derzeit nicht einlösbar ist.
+**Der Zusteller wird nicht erwähnt und er wird nicht an ihn verwiesen.**
+**Die Trackingnummer wird nicht genannt und nicht als Zustellnachweis
+benutzt.** **Zur erwähnten Inventar-Benachrichtigung wird NICHTS behauptet** —
+sie ist von hier nicht einsehbar. **Betrag in USD genannt, nicht
+umgerechnet.** Kein Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 

@@ -447,3 +447,60 @@ tatsächlich gelesen wurde.
   Datensatz nicht deckt** — neben #5973 (zweimal „processed", £0,00
   erstattet). **Das sind jetzt zwei Fälle, in denen schriftlich etwas
   bestätigt wurde, das nie geschehen ist.**
+
+---
+
+## Lauf 07:20 UTC — nichts Neues im Posteingang · #8781 abgearbeitet
+
+**Posteingang geprüft: nichts neuer als #7831 von 30.09. 23:36.**
+
+### 🟥 #8781 — Glenn Yarbrough (`glennyarbrough@gmail.com`), US — **Bot/Escalated – Owner Attention**
+
+**Vier Entwurfsfassungen, alle jetzt als ersetzt markiert; eine gilt.**
+
+**Er stellt eine direkte Frage, die bisher unbeantwortet ist:** *„Why are you
+now telling me that the order cannot be cancelled?"*
+
+**Die Antwort aus dem Datensatz, auf die Minute:**
+
+| Zeitpunkt (UTC) | Was passiert ist |
+|---|---|
+| **24.09. 15:20:59** | Bestellung #8781 |
+| **24.09. 15:42:15** | **Erste Stornobitte — 22 Minuten später.** *„I would like to cancel this order **prior to shipping**. My apologies but I made the order in error."* |
+| 24.09. 20:29 | Zweite Bitte |
+| 25.09. 22:41 | Dritte Bitte: *„Were you all able to cancel this order?"* |
+| **28.09. 04:37:47** | **Versand — dreieinhalb Tage nach der ersten Bitte** |
+| 29.09. 21:15 | *„we were unable to cancel the order as it has already been shipped"* — **zu diesem Zeitpunkt zutreffend** |
+| 29.09. 21:28 | Seine Frage |
+
+**🟥 Der Punkt ist nicht, dass die Aussage vom 29.09. falsch war — sie war
+richtig. Der Punkt ist, dass das Stornofenster nicht durch eine Absage
+geschlossen wurde, sondern durch Schweigen.** Drei Bitten innerhalb von
+31 Stunden, keine Antwort, und erst danach der Versand. **Genau so steht es im
+Entwurf.**
+
+**Shopify-Befund:** `#8781` — **`cancelledAt: null`**, `totalRefundedSet` =
+**$0.00**, `refunds` leer, Versand **28.09. 04:37:47**, **US$37,69**, zwei
+Plushies (pig, Elk).
+
+**Im Entwurf ausdrücklich NICHT:** **nicht behauptet, die Bestellung sei
+storniert** (`orderCancel` gesperrt, nichts ausgeführt); **nicht behauptet,
+die Aussage vom 29.09. sei falsch gewesen**; keine Erstattung zugesagt, kein
+Termin, keine Absage; **seine Frage wird NICHT als Erstattungsforderung
+gedeutet** — es wird angeboten, beides weiterzugeben, und in keine Richtung
+gedrängt; **der Zusteller wird nicht erwähnt**; **die Trackingnummer wird
+nicht genannt und nicht als Zustellnachweis benutzt**; **zur von ihm
+erwähnten Inventar-Benachrichtigung wird nichts behauptet**, weil sie von
+hier nicht einsehbar ist; Betrag in USD, nicht umgerechnet.
+
+**🔴 Besonders zu beachten:** der Brief vom 29.09. hat ihm **Rückgabeoptionen
+nach Ankunft in Aussicht gestellt.** **Es gibt keine Rücksendeadresse.** Der
+Entwurf sagt ihm das, bevor er Porto ausgibt oder darauf plant.
+
+**Keine Erstattung ausgelöst, keine Stornierung ausgeführt, nichts
+versendet.**
+
+### Stand nach diesem Lauf
+
+- **Entwürfe in der Datei: 431.**
+- **Mehrfachfassungen abgearbeitet: 14.** **Offen: 81.**
