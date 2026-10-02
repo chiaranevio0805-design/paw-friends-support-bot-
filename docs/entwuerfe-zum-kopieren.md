@@ -175,7 +175,7 @@ Vormittag unwahr; **die alte Fassung darf nicht mehr abgeschickt werden.**
 > marypowerjacobs@gmail.com, so anything our system sends will land in that
 > inbox rather than this one.
 >
-> If the refund doesn't come through, reply here and I'll chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Lisa
 > Paw-Friends UK
@@ -214,8 +214,7 @@ ein drittes Mal.
 > post anything back to us — if it arrives, it's yours to keep or pass on as you
 > like.
 >
-> Sorry to have made this more complicated than it needed to be. If the refund
-> hasn't landed by the end of the week, reply here and I'll chase it.
+> Sorry to have made this more complicated than it needed to be. If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Lisa
 > Paw-Friends UK
@@ -458,9 +457,7 @@ nicht verärgert. Ton entsprechend.**
 > anything to do with the courier, and it wasn't explained to you at the time.
 >
 > I'm not going to give you a delivery date, because I would only be guessing
-> and you have had enough of that. If the tracking hasn't moved in the next
-> while, write back and I'll chase the carrier rather than send you another
-> estimate.
+> and you have had enough of that. If the tracking has not moved when you next look, write again and say so — I would rather you asked than waited.
 >
 > Kind regards
 > Paw Friends Customer Support
@@ -686,9 +683,7 @@ prüfen, die Bestellung ist über die Adresse nicht auffindbar.**
 > tracking number 4PX3003127442798CN. Nine days passed before it was handed
 > over, and that wait was on our side rather than the courier's.
 >
-> I'm not going to give you a delivery date, because I would be guessing. If
-> the tracking hasn't moved in the next while, write back and I'll chase 4PX
-> rather than send you an estimate.
+> I'm not going to give you a delivery date, because I would be guessing. If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards
 > Paw Friends Customer Support
@@ -718,8 +713,7 @@ Zusteller.
 > The part worth saying plainly: you ordered on 20 August and it was dispatched
 > on 2 September. Thirteen days passed before it moved, and that was on us.
 >
-> I won't give you a delivery date. If the tracking is still blank in a few
-> days, write back and I'll chase the carrier.
+> I won't give you a delivery date. If the tracking has not moved when you next look, write again and say so — I would rather you asked than waited.
 >
 > Kind regards
 > Paw Friends Customer Support
@@ -870,9 +864,7 @@ tatsächlich ohne Startpunkt verschickt wurde.
 > eleven days passed before the parcel was handed over. That wait was on our
 > side rather than the courier's, and nobody told you it was happening.
 >
-> I am not going to give you a delivery date, because I would be guessing. If
-> the tracking stops moving, write back and I will chase 4PX rather than send
-> you an estimate.
+> I am not going to give you a delivery date, because I would be guessing. If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards
 > Paw Friends Customer Support
@@ -1086,9 +1078,7 @@ bestehenden Thread, Betreff `Re: A shipment from order #7699 is on the way`.
 > someone else reverses would be worse than no answer at all. Your date is noted
 > and it has not been ignored.
 >
-> I am not going to give you a delivery date. If the tracking has not moved by
-> the time your date comes round, write to me and I will chase the carrier
-> rather than send you an estimate.
+> I am not going to give you a delivery date. If the tracking has not moved when you next look, write again and say so — I would rather you asked than waited.
 >
 > Kind regards
 > Paw Friends Customer Support
@@ -1417,8 +1407,7 @@ Senden im Admin klären.**
 >
 > So it has been with the carrier for four days. I am not going to give you a
 > delivery date, because I would be guessing, and I would rather you had the
-> tracking number than a number I made up. If the tracking stops moving, write
-> back and I will chase RD Express rather than send you an estimate.
+> tracking number than a number I made up. If the tracking has not moved when you next look, write again and say so — I would rather you asked than waited.
 >
 > Kind regards
 > Paw Friends Customer Support
@@ -1989,9 +1978,7 @@ gehört in den ersten Satz.**
 > parcel was dispatched. That wait was on our side, not the courier's, and
 > nobody explained it to you.
 >
-> I am not going to give you a delivery date, because I would be guessing. If
-> the tracking has not moved when you next look, write back and I will chase
-> Yanwen rather than send you an estimate.
+> I am not going to give you a delivery date, because I would be guessing. If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards
 > Paw Friends Customer Support
@@ -2541,9 +2528,7 @@ ermittelt.**
 > was eight days before the parcel was handed over. That wait was on our side,
 > not the courier's, and nobody told you it was happening.
 >
-> I am not going to give you a delivery date, because I would be guessing. If
-> the tracking stops moving, write back and I will chase Yanwen rather than send
-> you an estimate.
+> I am not going to give you a delivery date, because I would be guessing. If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards
 > Paw Friends Customer Support
@@ -3004,8 +2989,7 @@ der Nummer ist als eigenes Problem formuliert, nicht als Bedingung.
 >
 > I'm not going to promise you an outcome in this email, because I'd rather say
 > nothing than say something I can't stand behind. What I will do is make sure
-> this doesn't sit unanswered — if you haven't heard back within a few days,
-> reply to this email and I'll chase it.
+> this doesn't sit unanswered — If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -3043,9 +3027,7 @@ einen Anspruch abzuleiten**.
 >
 > I'm not going to tell you yes or no on the refund here. I'd be guessing, and
 > you'd rightly hold me to it. What I can tell you is that your request is
-> recorded and going to the right person, not into a queue to be forgotten. If
-> you haven't heard anything back in a few days, reply to this email and I'll
-> follow it up.
+> recorded and going to the right person, not into a queue to be forgotten. If you have not heard back within a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -3085,8 +3067,7 @@ Nebenschauplatz.
 > with the person who can actually answer it, and I'd rather tell you that than
 > give you a quick no.
 >
-> If you haven't heard back within a few days, reply to this email and I'll
-> chase it up for you.
+> If you have not heard back within a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -3133,8 +3114,7 @@ Keine rechtliche Einordnung.
 >
 > One practical note so you're not left guessing: I'm not able to authorise a
 > refund from here, so I'm not going to tell you one is coming or that it isn't.
-> If you haven't had a substantive reply within a few days, reply to this email
-> and I will chase it.
+> If you have not heard back within a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -3182,7 +3162,7 @@ Rücksendeadresse. Keine Frist ausser den 30 Tagen, die nicht erwähnt werden.
 > won't tell you something I'd have to take back. What I can tell you is that
 > your email isn't being filed away.
 >
-> If you haven't heard back within a few days, reply here and I'll chase it.
+> If you have not heard back within a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -3259,9 +3239,7 @@ er sich darüber nicht beschwert hat.
 >
 > What I'm not going to do is repeat what you were told in July. I can't
 > authorise a refund myself, so I won't tell you one is on its way, and I won't
-> name a date. If you have heard nothing in the next few days, reply to this
-> email — I will chase it again, and the thread will show exactly how long this
-> has been outstanding.
+> name a date. If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -3335,8 +3313,7 @@ hat.
 > that then gets reversed. Your request is going to the shop owner today with
 > your order details.
 >
-> If you haven't heard back within a few days, reply to this email and I'll
-> chase it up.
+> If you have not heard back within a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -3382,8 +3359,7 @@ Bedingung** — sie wird nicht zur Voraussetzung für irgendetwas gemacht.
 > won't promise you one. What I can tell you is that this is going in front of
 > the owner today and not into a queue.
 >
-> If you haven't heard back within a few days, reply to this email and I'll
-> chase it.
+> If you have not heard back within a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -3492,8 +3468,7 @@ und nicht kommentiert.
 > out than send you a decision I'd have to take back. Your request goes to the
 > shop owner today with your order details.
 >
-> If you haven't heard back within a few days, reply to this email and I'll
-> chase it up for you.
+> If you have not heard back within a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -3540,8 +3515,7 @@ Keine Rücksendeadresse. Keine rechtliche Einordnung.
 > a returns address I can give you — I'm not going to invent one and have you
 > post a parcel into nowhere.
 >
-> If you haven't heard back within a few days, reply to this email and I'll
-> chase it.
+> If you have not heard back within a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -3582,7 +3556,7 @@ Einordnung.
 > I can't authorise a refund myself, so I'm not going to tell you one is coming.
 > What I can tell you is that this is going in front of the owner today.
 >
-> If you've heard nothing in a few days, reply here and I'll chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -3683,8 +3657,7 @@ Einordnung.
 > specific you want — a refund, a replacement, or an explanation of how it was
 > described when you bought it — reply and tell me, and that goes across too.
 >
-> Either way, if you hear nothing back in a few days, reply here and I'll chase
-> it up.
+> Either way, If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -3738,9 +3711,7 @@ Rücksendeadresse. Keine rechtliche Einordnung.
 > refuse you one.
 >
 > What I can tell you is that your email goes in front of the shop owner today
-> in full, with your date of 21 September on it. If you have heard nothing from
-> him by then, that is his position and not an oversight at my end — but reply
-> to me in the meantime and I will chase it.
+> in full, with your date of 21 September on it. If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -3776,9 +3747,7 @@ Produkt.
 > to be processed by him and not from this inbox. I'm deliberately not giving you
 > a date for it, because I'd only be guessing and you've waited enough already.
 >
-> If it hasn't reached you within a few days, reply to this email and I will
-> chase it — this thread shows the offer and your acceptance, so there is
-> nothing for you to prove.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -3817,7 +3786,7 @@ rechtliche Einordnung.
 >
 > I can't authorise a refund myself, so I won't promise you one.
 >
-> If you haven't heard back in a few days, reply here and I'll chase it.
+> If you have not heard back within a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -3856,7 +3825,7 @@ Kein Betrag. Keine Rücksendeadresse. Keine rechtliche Einordnung.
 > or refuse it. Your request has gone to the shop owner today, and your answer
 > to the question above will go with it.
 >
-> If you haven't heard back within a few days, reply here and I'll chase it.
+> If you have not heard back within a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -3897,7 +3866,7 @@ Rücksendeadresse. Kein Betrag. Keine rechtliche Einordnung.
 > I can't authorise a refund myself, so I won't tell you one is coming or that
 > it isn't.
 >
-> If you haven't heard back within a few days, reply here and I'll chase it.
+> If you have not heard back within a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -3934,7 +3903,7 @@ Betrag. Keine rechtliche Einordnung. Foto nicht gedeutet.
 > want — a refund, a replacement, or an answer about how the toy was described —
 > reply and say so, and that goes across too.
 >
-> If you hear nothing back in a few days, reply here and I'll chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -3975,7 +3944,7 @@ Rücksendeadresse. Foto nicht gedeutet.
 > puppy is working through it too — that's your call to make about your own dog,
 > not mine to advise on from here.
 >
-> If you haven't heard back in a few days, reply here and I'll chase it.
+> If you have not heard back within a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -4011,8 +3980,7 @@ Foto nicht gedeutet. Kein Betrag. Keine Rücksendeadresse.
 > tell you no. What I've done is put it in front of the person who can decide,
 > today, rather than leave you waiting on me.
 >
-> If you haven't heard back within a few days, reply to this email and I'll
-> chase it up.
+> If you have not heard back within a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -4053,8 +4021,7 @@ darüber. Fotos nicht gedeutet. Kein Betrag. Keine Rücksendeadresse.
 > and I've flagged it as a separate point rather than letting it get lost behind
 > the refund.
 >
-> If you haven't heard back within a few days, reply to this email and I'll
-> chase both.
+> If you have not heard back within a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -4095,8 +4062,7 @@ Keine Rücksendeadresse. Keine rechtliche Einordnung.
 > refund decision is his to make, so I'm not going to tell you it's coming or
 > that it isn't.
 >
-> If you haven't heard back within a few days, reply to this email and I will
-> chase it.
+> If you have not heard back within a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -4187,7 +4153,7 @@ nicht belegbar wäre.
 > want to guess at which part, so I've asked the owner to look at that too. If
 > something you paid for hasn't arrived, tell me what's missing and I'll add it.
 >
-> If you haven't heard back within a few days, reply here and I'll chase it.
+> If you have not heard back within a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -4224,7 +4190,7 @@ rechtliche Einordnung.
 > coming or that it isn't. Your email has gone to the shop owner today, with
 > your order details and the wording you quoted back to us.
 >
-> If you haven't heard back within a few days, reply here and I will chase it.
+> If you have not heard back within a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -4265,7 +4231,7 @@ Betrag. Keine rechtliche Einordnung.
 > wait until you have an address from us, or you'll be out of pocket for postage
 > with nothing to show for it.
 >
-> If you haven't heard back within a few days, reply here and I'll chase it.
+> If you have not heard back within a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -4425,7 +4391,7 @@ Feststellung, dass es nicht seine ist.**
 > done, with your order details. Whether anything is offered is his decision,
 > not mine, so I'm not going to promise you a refund or a replacement.
 >
-> If you haven't heard back within a few days, reply here and I'll chase it.
+> If you have not heard back within a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -4543,7 +4509,7 @@ Antwort wird **nicht erwähnt**, weil es erkennbar technisch war.
 > for you. If you would like a refund, a replacement, or simply an answer, reply
 > and tell me and it goes across with the rest.
 >
-> If you hear nothing back in a few days, reply here and I'll chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -4593,8 +4559,7 @@ unerwähnt.**
 > because that decision was not mine and I do not think it addressed your
 > email.
 >
-> If you have not heard from the owner within a few days, reply to me and I
-> will chase it.
+> If you have not heard back within a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -4641,8 +4606,7 @@ Erstattung. Dieser Entwurf entschuldigt sich deshalb nicht noch einmal.**
 > said what you think of it, that is on record with him now, and it is his to
 > answer.
 >
-> If nothing reaches you in the next few days, reply here and I will chase it
-> rather than write to you again with nothing in it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -4689,7 +4653,7 @@ Kauschaden-Vorlage zugegangen.**
 > I cannot authorise a refund or a replacement myself, so I am not going to
 > promise you one or repeat this morning's refusal.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -4877,7 +4841,7 @@ Trustpilot-Bewertung veröffentlicht zu haben.**
 > this: nothing here depends on it, and nobody is going to ask you to change
 > it.
 >
-> If you've heard nothing in a few days, reply and I'll chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -4967,8 +4931,7 @@ beide.**
 > shop owner today with your order details, your photos and the point you made
 > about the online claims.
 >
-> If you haven't heard back within a few days, reply to this email and I'll
-> chase it.
+> If you have not heard back within a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -5072,8 +5035,7 @@ Erstattung verlangt.**
 > chewers.
 >
 > I'm not going to give you a date, because I'd be guessing. But you shouldn't
-> have to write a third time, so if nothing reaches you in the next few days,
-> reply here and I'll chase it rather than leave you to.
+> have to write a third time, so If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -5165,7 +5127,7 @@ rechtliche Einordnung zu CRA 2015 oder E-Commerce-Verordnung.
 > payment, so I'm not going to promise you one, and I'm not going to repeat
 > this morning's refusal — it did not engage with what you actually said.
 >
-> If you have heard nothing in a few days, reply and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -5329,7 +5291,7 @@ rechtliche Einordnung.
 > refuse it. What I can say is that your case is with the person who can decide,
 > today, with the 5 September message attached.
 >
-> If you haven't heard back within a few days, reply here and I'll chase it.
+> If you have not heard back within a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -5391,8 +5353,7 @@ für sich — er setzt nicht voraus, dass er die zweite Fassung gelesen hat.**
 > order depends on it.
 >
 > I have recorded your five-working-day deadline and passed it on with the
-> rest. If you have heard nothing by then, reply to this message and I will
-> chase it rather than leave you to it.
+> rest. If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -5448,8 +5409,7 @@ keine Vorlagen-Absage.**
 > - I have not opened the video you linked. If it matters to the decision, the
 >   owner will ask you for it directly.
 >
-> If you have heard nothing in a few days, reply to this message and I will
-> chase it rather than leave it sitting.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -5552,7 +5512,7 @@ ihrer Schilderung nicht betroffen.**
 > I have not opened the photos you attached beyond seeing that they are there.
 > If they matter to the decision, the owner will come back to you about them.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -5900,8 +5860,7 @@ nicht danach gefragt hat.**
 > paid for it. If it never arrived in your inbox, that is our error and not
 > something you need to chase — I have flagged it with the toys.
 >
-> If you have heard nothing in a few days, reply to this message and I will
-> chase it rather than leave you waiting.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -6027,7 +5986,7 @@ wurde.**
 > been sent to you.** You paid for it. If it never arrived, that is our error,
 > not something you need to chase — I have flagged it with the rest.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -6288,8 +6247,7 @@ gebeten und es nie bekommen. Dieser Entwurf schließt nichts ab.**
 > to you.** You paid for it. That is our error, not something for you to chase
 > — I have flagged it with the rest.
 >
-> You have been patient longer than this deserved. If you have heard nothing in
-> a few days, reply here and I will chase it rather than let it drift again.
+> You have been patient longer than this deserved. If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -6341,7 +6299,7 @@ erstmals sagt er, was er will: eine Erstattung.**
 > address published at the moment, and I don't want you paying postage on top of
 > everything else.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -6387,8 +6345,7 @@ zehnte, die nicht beantwortet werden kann.**
 > tell me — it is a different situation from the one your dog has had, and I do
 > not want the two treated as one thing by mistake.
 >
-> If you have heard nothing in a few days, reply here and I will chase it
-> rather than leave you waiting.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -6441,8 +6398,7 @@ Ware kam erst jetzt — 27 Tage nach Versand. Er zitiert „indestructible"
 > was accurate — that is the owner's to answer, and I passed your point on as
 > yours, not paraphrased.
 >
-> If you have heard nothing in a few days, reply here and I will chase it
-> rather than leave you waiting again.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -6573,8 +6529,7 @@ Dieser Entwurf wiederholt die Zusicherung nicht.**
 >   their original packaging, and if you send them now you will pay postage on
 >   a parcel with no destination.
 >
-> I am not going to promise you a date. If you have heard nothing by the end of
-> the week, reply here and I will chase it again rather than leave it with you.
+> I am not going to promise you a date. If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -6625,7 +6580,7 @@ geantwortet.**
 > returns address published, so it would have nowhere to arrive and you would
 > be out the postage.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -7138,8 +7093,7 @@ wartet.**
 > merged.
 >
 > **What I cannot do is authorise it.** So you will get no promise from me, and
-> no refusal either. If you have heard nothing in a few days, reply here and I
-> will chase it rather than let it drift a fourth time.
+> no refusal either. If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > **One practical thing:** please don't post the toy back. We do not have a
 > returns address published, so it would have nowhere to arrive and you would
@@ -7289,7 +7243,7 @@ Eskalationsmarker im Text.
 >
 > I have not opened the photographs beyond seeing that they are there.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -7391,7 +7345,7 @@ vollständige Erstattung und beruft sich auf die Haltbarkeitsaussage.**
 > I have not opened the photographs beyond seeing that they are there. If they
 > matter to the decision, the owner will come back to you about them.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -7505,8 +7459,7 @@ kommt.**
 > Your review is entirely your own business. Nothing here is asked of you in
 > return.
 >
-> If you have heard nothing in a few days, reply to me and I will chase it
-> rather than let it drift a third time.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -7555,9 +7508,7 @@ selbst so und die Bestellung steht auf diesem Namen.**
 >
 > **One thing I would rather you hear from me:** if it turns out the free item
 > should have been applied and was not, I cannot promise you that it will be
-> sent or credited — that is the owner's call. But it is on his desk as your
-> question, in your words, and I will chase it if you have not heard back in a
-> few days.
+> sent or credited — that is the owner's call. But it is on his desk as your question, in your words.
 >
 > Kind regards,
 > Lisa
@@ -7607,7 +7558,7 @@ der Bestellung wird ihm gegenüber nicht erwähnt.**
 >
 > I have not opened the photographs beyond seeing that they are there.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -7706,7 +7657,7 @@ und trotzdem kann ihr niemand antworten.**
 > been sent to you.** You paid for it. That is our error, not something for you
 > to chase.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -7762,7 +7713,7 @@ diesmal als Frage formuliert: „I thought they were indestructible?"**
 > I have not opened the photographs beyond seeing that they are there. If they
 > matter to the decision, the owner will come back to you about them.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -7873,7 +7824,7 @@ ein Stück.**
 > address published, and there is nothing here that should require you to post
 > anything anyway.
 >
-> If you have heard nothing within a few days, reply to me and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -7980,7 +7931,7 @@ Australien-Befund vom 16.09.**
 > **On the refund:** I cannot authorise one, so you will get no promise from me
 > and no refusal either. It is with him today.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -8035,8 +7986,7 @@ veröffentlicht hat.**
 > **On your review:** that is entirely your own business. Nothing here is asked
 > of you in return, and nothing about your order depends on it.
 >
-> If you have heard nothing in a few days, reply here and I will chase it
-> rather than let it drift a fourth time.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -8097,7 +8047,7 @@ er zweimal gestellt und nie beantwortet bekommen hat.**
 > **On Trading Standards:** that is entirely your right and your decision. I am
 > not going to comment on it, and nothing here is conditional on what you do.
 >
-> If nothing has reached you by the 21st, reply to me and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Best wishes,
 > Lisa
@@ -8159,7 +8109,7 @@ sei weitergegeben worden.**
 > nowhere to arrive and you would be out the postage as well, which is the
 > opposite of what you asked for.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -8259,9 +8209,7 @@ das ist **sieben Tage** her.**
 > on 8 August, never received, tracking says delivered, refund requested on 7
 > September, unanswered.**
 >
-> I would rather not give you another "we'll be in touch". So: **if you have
-> heard nothing by Monday, reply to this message and I will chase it again**,
-> and I will keep doing that until somebody gives you an answer.
+> I would rather not give you another "we'll be in touch". So: **If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -8316,8 +8264,7 @@ Erfahrung.**
 > owner today, flagged as a parcel at risk rather than a parcel already lost,
 > so that it does not sit until the usual waiting period has run.
 >
-> **If it does not arrive, reply to this message and I will chase it** — you
-> will not have to prove anything to me first.
+> **If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -8369,7 +8316,7 @@ hatte. Er beruft sich jetzt ausdrücklich auf den **Consumer Rights Act 2015**.*
 > **Please don't post the toy back** in the meantime — we have no returns
 > address published, so it would have nowhere to arrive.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -8477,7 +8424,7 @@ Minuten zerstört. Das zweite hat sie dem Hund danach bewusst nie gegeben.**
 > that you bought two because of the way they are advertised — has gone across
 > in your own words.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -8537,7 +8484,7 @@ einsehbar.
 > **Please don't post anything back** in the meantime — we do not publish a
 > returns address at present, so a parcel would have nowhere to arrive.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -8584,7 +8531,7 @@ posten, steht seit **10.09.** und wurde heute wiederholt.
 > against, and I'm not going to convert one into the other and present it to you
 > as fact. It has gone to him flagged as a question, not an answer.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -8648,7 +8595,7 @@ der **dritte** solche Fall.
 > putting in this reply. That is not a brush-off — it is simply not mine to send
 > to an address that is not on the order.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -8709,7 +8656,7 @@ like to bring it to a close."*
 >
 > You have been at this since 15 August. You should not have had to be.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -8768,7 +8715,7 @@ Bewertung oder ihr Verhalten geknüpft.** Kein Eskalationsmarker im Text.
 > **Please don't post the toys back** in the meantime — we do not publish a
 > returns address at present, so a parcel would have nowhere to arrive.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -8823,7 +8770,7 @@ Bildmaterial vorliegt.
 > parcel would have nowhere to arrive. Please keep both toys as they are until
 > you hear back.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -8896,7 +8843,7 @@ Fotos beigefügt — **nicht geöffnet, nicht ausgewertet.**
 > **Please don't post anything back yet** — we do not publish a returns address at
 > present, so a parcel would have nowhere to arrive.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -8964,7 +8911,7 @@ Sechs Bilder beigefügt — **nicht geöffnet, nicht ausgewertet.**
 > present, so a parcel would have nowhere to arrive. Please keep the duck as it
 > is until you hear back.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -9034,7 +8981,7 @@ Material — in keine Richtung.
 > **Please don't post anything back in the meantime** — we do not publish a returns
 > address at present, so a parcel would have nowhere to arrive.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -9229,7 +9176,7 @@ gelassen. **Keine Verweisung an den Zusteller.** Kein Eskalationsmarker im Text.
 > **Please don't post anything back yet** — we do not publish a returns address at
 > present, so a parcel would have nowhere to arrive.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -9376,7 +9323,7 @@ Rücksendeweg.**
 > as not sent. I do not know whether it reached you. If it did not, say so and I
 > will flag it as outstanding too.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -9484,7 +9431,7 @@ gehe *„to our team for further investigation"*, eine Rückmeldung folge.
 > reported on 4 September, confirmed missing on the 5th, an update promised on
 > the 7th and never sent.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it again.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 > **You should not have to keep asking.**
 >
 > Kind regards,
@@ -9590,7 +9537,7 @@ Bestellung **#7041**, 21.08., **29,95 £**, `FULFILLED`,
 > **Please don't post anything back yet** — we do not publish a returns address at
 > present, so a parcel would have nowhere to arrive.
 >
-> If you have heard nothing in a few days, reply here and I will chase it. **You
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance. **You
 > should not have had to send it twice.**
 >
 > Kind regards,
@@ -9727,7 +9674,7 @@ Fall heute.
 > **Please don't post anything back yet** — we do not publish a returns address at
 > present, so a parcel would have nowhere to arrive.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -9792,7 +9739,7 @@ will. **Achter unbenutzter Fall, und wieder ohne Rückgabeweg.**
 >
 > The wait you describe is on the file too, in your words.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -9858,7 +9805,7 @@ Drei Bilder beigefügt — **nicht geöffnet, nicht ausgewertet.**
 > **Please don't post anything back yet** — we do not publish a returns address at
 > present, so a parcel would have nowhere to arrive.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -9911,7 +9858,7 @@ dass Bildmaterial vorliegt.
 > **Please don't post anything back yet** — we do not publish a returns address at
 > present, so a parcel would have nowhere to arrive.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -9987,7 +9934,7 @@ ausgeführt.**
 > **I am not going to ask you to check with neighbours or to count again.** You
 > have told us what arrived and I have no reason to doubt you.
 >
-> If you have heard nothing in a few days, reply here and I will chase it. **You
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance. **You
 > should not have had to open a second email to be noticed.**
 >
 > Kind regards,
@@ -10066,7 +10013,7 @@ Vier Bilder beigefügt — **nicht geöffnet, nicht ausgewertet.**
 > — we do not publish a returns address at present, so a parcel would have
 > nowhere to arrive.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -10129,7 +10076,7 @@ Zwei Bilder beigefügt — **nicht geöffnet, nicht ausgewertet.**
 > **Please don't post anything back yet** — we do not publish a returns address at
 > present, so a parcel would have nowhere to arrive.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -10333,7 +10280,7 @@ Rücksendeadresse:**
 > reached you. If they did not, tell me and I will flag them as outstanding as
 > well.
 >
-> If you have heard nothing in a few days, reply here and I will chase it. **You
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance. **You
 > have been more patient with us than we have earned.**
 >
 > Kind regards,
@@ -10402,7 +10349,7 @@ verspricht etwas anderes als die Vorlage.**
 > and I am not going to convert one into the other and hand it to you as fact.
 > It has gone to him as a question.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -10525,7 +10472,7 @@ Rights Act. **Er zitiert sie zweimal — ohne das Gesetz zu nennen.** Das wird
 > failed within minutes, returns label requested on 16 September and never
 > provided, refund requested on grounds of fitness for purpose.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -10585,7 +10532,7 @@ das Seil.** Drei Fälle stehen dafür (#7754, #6806, #7988).
 > matters: **you said it started with the rope.** That is a feature our own
 > product description makes a point of.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -10705,7 +10652,7 @@ Namensfall** nach #7041, #8120, #4832, #7459.
 > **Please don't post anything back yet** — we do not publish a returns address at
 > present, so a parcel would have nowhere to arrive.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -10764,7 +10711,7 @@ aber als seine Position weitergegeben.
 > **Please don't post anything back** — we do not publish a returns address at
 > present, so a parcel would have nowhere to arrive.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -10819,7 +10766,7 @@ heute die dritte solche Frage** nach #6384 (Rücksendeetikett) und #4812
 > within a week, bought on the strength of how the toy is described.** Your
 > photograph arrived and is noted with it.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -10974,7 +10921,7 @@ Prudhoe (GB). **Versandt erst am 08.09. — elf Tage Liegezeit**, erhalten am
 > **Please don't post anything back** — we do not publish a returns address at
 > present, so a parcel would have nowhere to arrive.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -11040,7 +10987,7 @@ Ein Bild — **nicht geöffnet, nicht ausgewertet.**
 > **Please don't post anything back yet** — we do not publish a returns address at
 > present, so a parcel would have nowhere to arrive.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -11194,8 +11141,7 @@ Daventry (GB), **versandt erst am 08.09. — acht Tage Liegezeit**, erhalten
 > **was not despatched until 8 September.** Eight of those days were ours, before
 > it went anywhere.
 >
-> Your photographs arrived and are noted. If you have heard nothing in a few
-> days, reply here and I will chase it.
+> Your photographs arrived and are noted. If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -11263,7 +11209,7 @@ Bedingung gestellt.**
 > **Please don't post anything back** — we do not publish a returns address at
 > present, so a parcel would have nowhere to arrive.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -11330,7 +11276,7 @@ Ein Bild — **nicht geöffnet, nicht ausgewertet.**
 > **Please don't post anything back yet** — we do not publish a returns address at
 > present, so a parcel would have nowhere to arrive.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -11423,7 +11369,7 @@ der Website steht, ist von hier nicht einsehbar.**
 > little point pursuing it. **You then did not receive even that.** I am sorry —
 > not for a delay, but for being told something was done when it was not.
 >
-> If you have heard nothing in a few days, reply here and I will chase it again.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -11514,7 +11460,7 @@ keine untergeschoben.**
 > imagined it. **Whether it holds up is not mine to rule on**, and that question
 > has gone to him as well, in your words.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -11594,7 +11540,7 @@ Zwei Bilder — **nicht geöffnet, nicht ausgewertet.**
 > **Please don't post anything back** — we do not publish a returns address at
 > present, so a parcel would have nowhere to arrive.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -11681,7 +11627,7 @@ Zwei Bilder — **nicht geöffnet, nicht ausgewertet.**
 > we do not publish a returns address at present, so a parcel would have nowhere
 > to arrive.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -11762,7 +11708,7 @@ Anschrift. Am 16.09. war das im Log bereits vermerkt.
 > That is not a brush-off, just not mine to send to an address that is not on
 > the order.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -11827,7 +11773,7 @@ gefragt.** **Zehnter solcher Fall.**
 > **Please don't post anything back** — we do not publish a returns address at
 > present, so a parcel would have nowhere to arrive.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -11924,8 +11870,7 @@ Zwei Bilder — **nicht geöffnet, nicht ausgewertet.**
 > and the parcel **was not despatched until 8 September.** Ten of those days were
 > ours.
 >
-> Your photographs arrived and are noted. If you have heard nothing in a few
-> days, reply here and I will chase it.
+> Your photographs arrived and are noted. If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -12007,7 +11952,7 @@ noch Adressänderung — das gehört in den Admin.
 > **I am not going to ask you for any further address details**, and nothing is
 > waiting on you.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -12069,7 +12014,7 @@ know where to return it."* **Das wurde nie beantwortet.**
 > **Please don't post it now either** — there is still nowhere for a parcel to
 > arrive.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -12137,7 +12082,7 @@ Zwei Bilder — **nicht geöffnet, nicht ausgewertet.**
 > we do not publish a returns address at present, so a parcel would have nowhere
 > to arrive.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -12204,8 +12149,7 @@ Drei Bilder erneut beigefügt — **nicht geöffnet, nicht ausgewertet.**
 > be unused or in its original packaging.** I am not giving you a legal view on
 > that — only noting that it is our own published text.
 >
-> **You should not have had to write twice.** If you have heard nothing in a few
-> days, reply here and I will chase it again.
+> **You should not have had to write twice.** If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -12255,8 +12199,7 @@ ausgelegt. **Keine Auswertung der Fotos.** Kein Eskalationsmarker im Text.
 > returns address I can give you, and I would rather tell you that plainly than
 > have you pay for postage to nowhere.
 >
-> **You asked not to be ignored, and you will not be.** If you have heard nothing
-> from us in a few days, reply to this email and I will chase it again.
+> **You asked not to be ignored, and you will not be.** If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -12444,7 +12387,7 @@ Karte in AUD zeigt. Kein Eskalationsmarker im Text.
 > at it. He can look at it.
 >
 > **You should have had this answer on Wednesday, not a refusal this morning.**
-> If you hear nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -12624,7 +12567,7 @@ zehn Tage benutzt. Kein Eskalationsmarker im Text.
 > **It sat with us for eleven days before it moved at all.** That is ours, and I
 > am not going to explain it away.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -12686,7 +12629,7 @@ korrigiert. Kein Eskalationsmarker im Text.
 > Your photographs are with your first message. **I have not opened them**, and
 > nothing here depends on them.
 >
-> If you have heard nothing in a few days, reply here and I will chase it again.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -12852,7 +12795,7 @@ geknüpft. **Keine rechtliche Bewertung.** Kein Eskalationsmarker im Text.
 > Plushies, £27.95 recorded on the order, nothing refunded, ordered 29 August,
 > dispatched 8 September, destroyed within about an hour.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -12912,7 +12855,7 @@ reviews"). Kein Eskalationsmarker im Text.
 > accepted, stated as processed three times, and no refund recorded against the
 > order.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it again.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -13034,7 +12977,7 @@ Eskalationsmarker im Text.
 > your decision, I am not going to ask you not to, and nothing here is
 > conditional on it.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -13081,8 +13024,7 @@ keine Adresse. **Keine rechtliche Bewertung.** Kein Eskalationsmarker im Text.
 > you get a replacement or your money back is his decision and not mine — **so I
 > am not going to promise you either one.**
 >
-> **You do not need to do anything.** If you have heard nothing in a few days,
-> reply here and I will chase it again.
+> **You do not need to do anything.** If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -13115,9 +13057,7 @@ wird kein Betrag genannt, weil keiner nötig ist. Kein Eskalationsmarker im Text
 > money, so I am not going to tell you it is done when it is not** — but there is
 > nothing in the way of it.
 >
-> **What you should not do is wait and see.** If you get a dispatch notification
-> for #8669 in the next day or two, reply to this email straight away and I will
-> chase it again.
+> **What you should not do is wait and see.** If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > **You do not need to give a reason and I am not going to ask you for one.**
 >
@@ -13163,7 +13103,7 @@ Kein Eskalationsmarker im Text.
 > **That is not an address we read** — this one is, and your forward arrived here
 > fine. If you write again, reply to this email and it will reach the same desk.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -13268,8 +13208,7 @@ seiner Währung auf der Bestellung. Kein Eskalationsmarker im Text.
 > shipping confirmation from us on 1 September that our own record does not
 > support.**
 >
-> **You have written five times since 30 August. You should not have had to.** If
-> you have heard nothing in a few days, reply here and I will chase it again.
+> **You have written five times since 30 August. You should not have had to.** If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > **Please do not post anything back in the meantime** — we have no returns
 > address I can give you.
@@ -13434,7 +13373,7 @@ Kein Eskalationsmarker im Text.
 > **And please do not post anything back to us** — we have no returns address I
 > can give you, and I would rather say so than have you pay postage to nowhere.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -13560,8 +13499,7 @@ presentment-Betrag der Bestellung; die abweichende GBP-Summe wird **nicht**
 > the advertising itself.
 >
 > **Your order is #6592, six Fluffys plus a brush, £65.95 recorded on the order,
-> nothing refunded, ordered 18 August, dispatched 23 August.** If you have heard
-> nothing in a few days, reply here and I will chase it.
+> nothing refunded, ordered 18 August, dispatched 23 August.** If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -13679,7 +13617,7 @@ Kein Eskalationsmarker im Text.
 > you wrote it**, because he is the only one who can look at the advertising
 > itself.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -13727,8 +13665,7 @@ Edwards" unter derselben E-Mail-Adresse. Kein Eskalationsmarker im Text.
 > above. **Whether you get a replacement or your money back is his decision and
 > not mine, so I am not going to promise you either one.**
 >
-> **You do not need to do anything.** If you have heard nothing in a few days,
-> reply here and I will chase it again.
+> **You do not need to do anything.** If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -13775,7 +13712,7 @@ Eskalationsmarker im Text.
 > only so that you know what our dispatch times have actually looked like, not as
 > an excuse.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -13826,7 +13763,7 @@ Eskalationsmarker im Text.
 > you wrote it**, because he is the only one who can look at the advertising
 > itself.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -13881,8 +13818,7 @@ Kein Eskalationsmarker im Text.
 > **Please do not post anything back to us** — we have no returns address I can
 > give you, and I would rather say so than have you pay postage to nowhere.
 >
-> **You should not have had to write twice.** If you have heard nothing in a few
-> days, reply here and I will chase it again.
+> **You should not have had to write twice.** If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -13940,7 +13876,7 @@ Text.
 > done the sensible thing by taking the toys away.** If you are worried about the
 > dogs, the person to ask is your vet, not me.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -14035,7 +13971,7 @@ Rekonstruktion der Anzeige.** Kein Eskalationsmarker im Text.
 > to promise you a refund and I am not going to refuse you one.** **Please do not
 > post anything back** — we have no returns address I can give you.
 >
-> If you have heard nothing in a few days, reply here and I will chase it again.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -14090,7 +14026,7 @@ der Betrag in seiner Währung auf der Bestellung. Kein Eskalationsmarker im Text
 > **You called us lying cheats. I am not going to argue with you about that
 > either**, and nothing here is conditional on you taking it back.
 >
-> If you have heard nothing in a few days, reply here and I will chase it again.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -14142,7 +14078,7 @@ Eskalationsmarker im Text.
 > it is on there; I am mentioning it because it makes the rest of this worse, not
 > better.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -14202,8 +14138,7 @@ beziffert und nicht verrechnet.** Kein Eskalationsmarker im Text.
 > **Please do not post anything back** — we have no returns address I can give
 > you.
 >
-> **You should not have had to write three times.** If you have heard nothing in
-> a few days, reply here and I will chase it again.
+> **You should not have had to write three times.** If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -14370,8 +14305,7 @@ Geduld.** Kein Eskalationsmarker im Text.
 > promises you got were worth nothing.**
 >
 > **You have been waiting eighteen days on a decision that was already made in
-> your favour.** If you have heard nothing in a few days, reply here and I will
-> chase it again.
+> your favour.** If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -14506,7 +14440,7 @@ Umrechnung.** Kein Eskalationsmarker im Text.
 > you wrote it**, because he is the only one who can look at the advertising
 > itself.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -14590,8 +14524,7 @@ keine Absage.** **Ihr wird ausdrücklich nicht gesagt, sie habe sich verzählt.*
 > you described it. **And there is nowhere to send anything back to** — we do not
 > publish a returns address, and I am not going to invent one.
 >
-> **You should have had a real answer the first time.** If you have heard nothing
-> in a few days, reply here and I will chase it.
+> **You should have had a real answer the first time.** If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -14762,7 +14695,7 @@ Umrechnung.** Kein Eskalationsmarker im Text.
 > that you did not see it** — I cannot see the advertising you were shown and I
 > am not going to guess at it. **Your wording goes to him as you wrote it.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -14804,7 +14737,7 @@ des Anhangs, keiner verlangt.** **Keine Behauptung, das Wort existiere nicht.**
 > **Whether you get money back for those two is his decision and not mine**, so
 > **I am not going to promise you anything and I am not going to refuse you.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -14906,7 +14839,7 @@ presentment-Betrag. Kein Eskalationsmarker im Text.
 > asked for, not as a refund request — **unless you tell me otherwise, in which
 > case one line back here is enough.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it again.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -14962,7 +14895,7 @@ Eskalationsmarker im Text.
 > **One last thing.** You added a tip to the order. I am not going to pretend I
 > did not notice it; it makes this worse, not better.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -15015,8 +14948,7 @@ Eskalationsmarker im Text.
 > **You do not need to do anything, and please do not post the items back** —
 > we have no returns address I can give you.
 >
-> If you have heard nothing in a few days, reply here and I will chase it
-> again.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -15083,7 +15015,7 @@ Eskalationsmarker im Text.
 > **I am not going to promise you a refund and I am not going to refuse you
 > one.** Both would be dishonest from where I sit.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -15140,7 +15072,7 @@ Anhang (IMG_3096.jpeg) wurde nicht geöffnet.** Kein Eskalationsmarker im Text.
 > anything back.** **And please do not post anything to us; there is no returns
 > address I can give you.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -15198,7 +15130,7 @@ presentment-Betrag. Kein Eskalationsmarker im Text.
 > **You mentioned photographs. You do not need to send any**, and nothing here
 > depends on them.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -15248,7 +15180,7 @@ verlangt.** **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text
 > **And please do not post anything back to us; there is no returns address I
 > can give you.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -15297,7 +15229,7 @@ Kein Eskalationsmarker im Text.
 >
 > **You do not need to send photographs.** Nothing here depends on them.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -15366,7 +15298,7 @@ Produkts in die eine oder andere Richtung.** Kein Eskalationsmarker im Text.
 > **Please do not post anything back** — we have no returns address I can give
 > you.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -15426,7 +15358,7 @@ Eskalationsmarker im Text.
 > **You do not need to send photographs**, and please do not post anything back
 > — we have no returns address I can give you.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -15475,7 +15407,7 @@ Eskalationsmarker im Text.
 > not going to promise you either, and I am not going to refuse you either** —
 > that decision belongs to the shop owner, not to me.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -15578,8 +15510,7 @@ Eskalationsmarker im Text.
 > am not going to try to talk you out of either.** Neither changes how this is
 > handled here.
 >
-> If you have heard nothing in a few days, reply here and I will chase it
-> again.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -15614,8 +15545,7 @@ steht. Kein Eskalationsmarker im Text.
 >
 > **What I am not going to do is tell you it has been paid.** I cannot issue or
 > release money from here, and **I am not going to give you a date I cannot
-> keep.** If it has not reached you within a few days, reply here and I will
-> chase it.
+> keep.** If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > **Two things from your earlier messages that go with it, because they are
 > part of your case and not side issues.** **You still hold two of the three
@@ -15676,7 +15606,7 @@ Eskalationsmarker im Text.
 > been opened; you do not need to send anything else**, and please do not post
 > the toy back, because we have no returns address I can give you.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -15729,7 +15659,7 @@ Kein Eskalationsmarker im Text.
 > **Please do not post anything back** — we have no returns address I can give
 > you.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -15772,8 +15702,7 @@ erfunden.** Kein Eskalationsmarker im Text.
 > outcome** — but I am not going to let the choice quietly disappear because
 > nobody mentioned it.
 >
-> If you have heard nothing in a few days, reply here and I will chase it
-> again.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -15822,7 +15751,7 @@ Text.
 > anything else**, and please do not post the toys back — we have no returns
 > address I can give you.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -15871,7 +15800,7 @@ Eskalationsmarker im Text.
 > requested on 19 September and again today, nothing refunded, no returns
 > address in existence.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -15915,7 +15844,7 @@ Eskalationsmarker im Text.
 > **You had already offered to send the unused one back before today** — that
 > is on the record too, and it has not been lost.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -15970,7 +15899,7 @@ Eskalationsmarker im Text.
 > anything else**, and please do not post the toys back — we have no returns
 > address I can give you.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -16026,8 +15955,7 @@ ist der presentment-Betrag. Kein Eskalationsmarker im Text.
 > anything on arrival.** If something does turn up despite the above, **do not
 > assume that settles it** — reply here and it goes straight back to him.
 >
-> If you have heard nothing in a couple of days, reply here and I will chase
-> it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -16083,8 +16011,7 @@ Eskalationsmarker im Text.
 > tracing request, one line back here is enough.** **$38.58 is recorded on the
 > order and nothing has been refunded.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it
-> again.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -16127,8 +16054,7 @@ Eskalationsmarker im Text.
 > **£19.95 is recorded on the order and nothing has been refunded.** Your case
 > is with the shop owner either way.
 >
-> If you have heard nothing in a few days, reply here and I will chase it
-> again.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -16183,7 +16109,7 @@ Kein Eskalationsmarker im Text.
 > **You do not need to send photographs**, and please do not post anything back
 > — we have no returns address I can give you.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -16236,7 +16162,7 @@ Text.
 > **Please do not post anything back** — we have no returns address I can give
 > you.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -16284,7 +16210,7 @@ erfunden.** **Keine Umrechnung.** Kein Eskalationsmarker im Text.
 > **Please do not post anything back** — we have no returns address I can give
 > you.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -16376,7 +16302,7 @@ Eskalationsmarker im Text.
 > **Please do not post anything back** — we have no returns address I can give
 > you.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -16434,7 +16360,7 @@ Eskalationsmarker im Text.
 > **Please do not post anything back** — we have no returns address I can give
 > you.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -16481,7 +16407,7 @@ Text.
 > **Please do not post anything back** — we have no returns address I can give
 > you, and I would rather say so now than have you pay postage to nowhere.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -16594,7 +16520,7 @@ Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
 > on #8372 — the e-book — **is still recorded as not sent.** That is separate
 > from everything above and it goes to him too.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -16719,7 +16645,7 @@ veröffentlicht ist** — es wird auf die AGB verwiesen, nichts hinzugefügt.
 > **You do not need to send photographs**, and please do not post anything back
 > — we have no returns address I can give you.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -16772,7 +16698,7 @@ Umrechnung.** Kein Eskalationsmarker im Text.
 > **You do not need to send photographs**, and please do not post anything back
 > — we have no returns address I can give you.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -16827,8 +16753,7 @@ Umrechnung.** Kein Eskalationsmarker im Text.
 > anything else**, and please do not post the toy back — we have no returns
 > address I can give you.
 >
-> If you decide you want something done and hear nothing back, reply here and I
-> will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -16889,8 +16814,7 @@ presentment-Betrag. Kein Eskalationsmarker im Text.
 >
 > **You do not need to send photographs.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it
-> again.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -16945,7 +16869,7 @@ verlangt.** **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text
 > **Please do not post anything back** — we have no returns address I can give
 > you.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -16996,8 +16920,7 @@ unterschrieben hat** (die Bestellung lautet auf einen längeren Vornamen —
 > person who can look at the advertising itself.
 >
 > **I am not going to give you a date for his decision, because I would be
-> making it up.** If you have heard nothing in a few days, reply here and I
-> will chase it.
+> making it up.** If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -17052,7 +16975,7 @@ Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
 > **On Klarna and Trading Standards: both are entirely your decision.** **I am
 > not going to ask you to hold off, and nothing here depends on you doing so.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -17119,8 +17042,7 @@ Kein Eskalationsmarker im Text.
 > own words, unedited.** **I am not qualified to rule on it and I am not going
 > to pretend the 40% settles it if you decide it does not.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it
-> again.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -17187,8 +17109,7 @@ Namen angesprochen, mit dem sie unterschreibt.** Kein Eskalationsmarker im Text.
 > been opened**, and the Hippo is yours to keep — **nothing here asks you to
 > return it.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it
-> again.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -17243,7 +17164,7 @@ presentment-Betrag. Kein Eskalationsmarker im Text.
 > **Please do not post anything back** — we have no returns address I can give
 > you.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -17288,8 +17209,7 @@ Text.
 > enough and it goes as that.** **£27.95 is recorded on the order and nothing
 > has been refunded.** Either way it is now in front of the shop owner.
 >
-> If you have heard nothing in a few days, reply here and I will chase it
-> again.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -17348,8 +17268,7 @@ im Text.
 > **Your photograph from July arrived and has not been opened. You do not need
 > to send anything else.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it
-> again.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -17407,7 +17326,7 @@ zurückschicken muss, wird bestätigt, **und keine Rücksendeadresse erfunden.**
 > **Please do not post anything back** — we have no returns address I can give
 > you.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -17457,7 +17376,7 @@ Text.
 > **you have not said the toys were damaged in use, and I am not going to treat
 > your message as though you had.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -17525,7 +17444,7 @@ im Text.
 >
 > **You do not need to send photographs.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -17583,8 +17502,7 @@ Kein Eskalationsmarker im Text.
 > **$52.95 is recorded on the order and nothing has been refunded.** Either way
 > it is now in front of him.
 >
-> If you have heard nothing in a few days, reply here and I will chase it
-> again.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -17652,7 +17570,7 @@ mit dem er unterschreibt.** Kein Eskalationsmarker im Text.
 > despatch until **2 September — eleven days** — two toys, **£27.95 recorded on
 > the order, nothing refunded to date.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -17713,7 +17631,7 @@ im Text.
 > **What is on the order:** #8270, **£19.95 recorded on the order, nothing
 > refunded to date.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -18018,8 +17936,7 @@ Eskalationsmarker im Text.
 > asked — the date and the refund — kept as you put them.** **£19.95 is
 > recorded on the order and nothing has been refunded to date.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it
-> again.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -18063,8 +17980,7 @@ Eskalationsmarker im Text.
 > on it.** **I am not going to give you a date for the refund, because that is
 > his to set and I would be guessing.**
 >
-> If you have heard nothing in a couple of days, reply here and I will chase
-> it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -18183,7 +18099,7 @@ nur ihr Vorhandensein vermerkt. Kein Eskalationsmarker im Text.
 > **What is on the order:** #8484, one toy, **£19.95 recorded on the order,
 > nothing refunded to date.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -18299,7 +18215,7 @@ Zahlungsdienstleister abzubringen**, und nichts davon abhängig gemacht.
 > **What is on the order:** #6893, one toy, **A$39.00 recorded on the order,
 > nothing refunded to date.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -18488,7 +18404,7 @@ Eskalationsmarker im Text.
 > despatch until **8 September — nine days** — one toy, **A$38.44 recorded on
 > the order, nothing refunded to date.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -18659,7 +18575,7 @@ im Text.
 > despatch until **3 September — eleven days** — one toy, **£19.95 recorded on
 > the order, nothing refunded to date.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -18853,7 +18769,7 @@ Text.
 > **What is on the order:** #8577, placed **16 September**, despatched
 > **17 September**, **£49.90 recorded on the order, nothing refunded to date.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -18907,7 +18823,7 @@ Zustellbeleg verwendet.** Kein Eskalationsmarker im Text.
 > **What is on the order:** #8550, placed **15 September**, despatched
 > **17 September**, **£34.95 recorded on the order, nothing refunded to date.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -19020,7 +18936,7 @@ Richtung.** **Kein Versuch, sie von Klarna oder Trading Standards abzubringen.**
 > **17 September**, two toys, **£27.95 recorded on the order, nothing refunded
 > to date.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -19071,7 +18987,7 @@ lautet auf „Andrew"). Kein Eskalationsmarker im Text.
 > **17 September**, one toy, **£19.95 recorded on the order, nothing refunded
 > to date.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -19127,7 +19043,7 @@ nicht erwähnt. Kein Eskalationsmarker im Text.
 > **17 September**, one toy, **£19.95 recorded on the order, nothing refunded
 > to date.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -19250,7 +19166,7 @@ abzubringen.** Kein Eskalationsmarker im Text.
 > figure for the single unused toy**: £27.95 is a two-for-one price and halving
 > it would be a guess, not a fact.
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -19512,7 +19428,7 @@ und nicht erwähnt.** **Keine Kauschaden-Vorlage.** **Kein Prozentangebot.**
 > carries no update after despatch, so I am recording your date rather than
 > contradicting it.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -19580,7 +19496,7 @@ und nicht erwähnt.** **Keine Kauschaden-Vorlage.** **Kein Prozentangebot.**
 > **17 September**, two toys, **$38.41 recorded on the order, nothing refunded
 > to date.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -19923,7 +19839,7 @@ Kein Eskalationsmarker im Text.
 > happened and it is recorded exactly as you wrote it.** **I am drawing no
 > conclusion from your dogs.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -19984,7 +19900,7 @@ unterschreibt nicht. Kein Eskalationsmarker im Text.
 > happened and it is recorded exactly as you wrote it.** **Your photographs
 > are on the file and you do not need to send anything further.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa
@@ -20095,7 +20011,7 @@ derzeit nicht abrufbar. Kein Eskalationsmarker im Text.
 > you put it, and I am not going to argue with it or agree with it.** **I am
 > not going to tell you what to do with them in either direction.**
 >
-> If you have heard nothing in a few days, reply here and I will chase it.
+> If you have heard nothing in a few days, write again and say so — that is a reasonable thing to do, not a nuisance.
 >
 > Kind regards,
 > Lisa

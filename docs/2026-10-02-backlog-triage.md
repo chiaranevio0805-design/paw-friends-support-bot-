@@ -269,3 +269,77 @@ advertising" oder Trading Standards**, und nichts daran geknüpft.
   **Bei dreien ist der Datensatzbefund dokumentiert, bei #4055 war die
   Bestellung nicht auffindbar, bei #6936 ist er nicht mehr erhebbar.**
   **Das ist der stärkste Einzelgrund, Shopify sofort neu zu autorisieren.**
+
+---
+
+## Lauf 05:20 UTC — nichts Neues · 🟥 Sicherheitsdurchgang: 164 unhaltbare Zusagen aus den Entwürfen entfernt
+
+*(Erst die Datei geändert und geprüft, dann dieser Eintrag.)*
+
+**Posteingang: nichts neuer als #7324 von 00:01 UTC.**
+
+### Was geprüft wurde
+
+Ein Durchgang durch **alle 351 geltenden Entwürfe** (ersetzte ausgenommen),
+nur über den **Brieftext**, nicht über die Zusage-Blöcke, nach Formulierungen,
+die etwas versprechen:
+
+| Muster | Treffer | Befund |
+|---|---|---|
+| „has been processed" | 5 | **unbedenklich** — alle fünf **zitieren** die falsche Zusage, um sie zurückzuweisen (#5973, #4055, #6793, #7048, #7982) |
+| „will be refunded/sent/issued" | 0 | — |
+| „I promise" / „I guarantee" | 0 | — |
+| Rücksendeadresse genannt | 1 | **unbedenklich** — #6606, es geht um einen Bewertungslink, nicht um eine Adresse |
+| **„I will chase it" u. ä.** | **164** | **🟥 Problem** |
+
+### 🟥 Das Problem: 164 Zusagen, die niemand halten kann
+
+**164 Stellen in geltenden Entwürfen sagten dem Kunden sinngemäß:**
+*„If you have heard nothing in a few days, reply here and I will chase it."*
+
+**Fünfzehn davon versprachen zusätzlich, einen namentlich genannten Zusteller
+zu kontaktieren** — *„I will chase 4PX / Yanwen / RD Express rather than send
+you an estimate."*
+
+**Warum das nicht bleiben durfte:**
+
+1. **Dieses Postfach kann nicht senden.** Eine Zusage, selbst nachzufassen,
+   ist von hier aus nicht einlösbar.
+2. **Der ganze Vorgang dieser Woche besteht aus Zusagen, die niemand
+   eingelöst hat** — fünf „processed"-Fälle, eine Ersatzzusage seit 44 Tagen,
+   fünfzehn offene Geldzusagen. **In genau dieser Lage noch einmal „ich
+   kümmere mich" zu schreiben, wäre die nächste Zusage in derselben Reihe.**
+3. **Die Zusteller-Variante hätte zusätzlich Namen genannt**, zu denen von
+   hier nichts überprüfbar ist.
+
+### Was stattdessen dasteht
+
+> *„If you have heard nothing in a few days, write again and say so — that is
+> a reasonable thing to do, not a nuisance."*
+
+und bei Lieferfällen:
+
+> *„If the tracking has not moved when you next look, write again and say so —
+> I would rather you asked than waited."*
+
+**Das lädt die Kundin genauso ein, sich zu melden — verspricht aber keine
+Handlung, die niemand ausführen kann, und nennt keinen Zusteller.**
+**164 Stellen ersetzt, Endkontrolle: 0 verbleibend.**
+
+### 🟥 Eigene Fehlzählung, offen benannt
+
+**Der erste Durchlauf meldete „22 ersetzt" und ich hätte das beinahe so
+berichtet.** Die Zahl stammte aus einem zu engen Suchmuster. **Die Nachzählung
+ergab 142 weitere Vorkommen in 37 Formulierungsvarianten.** Es brauchte vier
+Durchgänge, bis die Zahl auf null stand. **Die richtige Zahl ist 164, nicht
+22.**
+
+**Sicherungskopie vor dem Eingriff:**
+`scratchpad/pre-chase-backup.md`.
+
+### Stand
+
+- **Entwürfe in der Datei: 448** (unverändert — kein Entwurf hinzugefügt oder
+  entfernt, 164 Textstellen geändert).
+- **Geltende Entwürfe: 351.**
+- **Keine Erstattung ausgelöst, nichts versendet.**
