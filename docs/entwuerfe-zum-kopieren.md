@@ -2362,6 +2362,8 @@ Die Werbezusage wird **weder bestätigt noch bestritten**.
 ---
 
 ## #7610 — vannblow@icloud.com — dritter Kontakt  
+
+**⚠️ ERSETZT durch den Entwurf vom 02.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 13.09.** Antwort im **neuen** Thread, Betreff `Re: Refund`.
@@ -2478,6 +2480,8 @@ Owners zur Erstattung. **Keine Erstattungszusage, kein Zustelltermin, keine
 ---
 
 ## #7610 — vannblow@icloud.com — ZWEITE FASSUNG, Bewertung ist abgegeben  
+
+**⚠️ ERSETZT durch den Entwurf vom 02.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 13.09., 18:20.** Ersetzt die Fassung von 16:20 desselben
@@ -4838,6 +4842,8 @@ Rücksendeadresse.
 ---
 
 ## #7610 — Vicky Blow (vannblow@icloud.com) — zweite Fassung  
+
+**⚠️ ERSETZT durch den Entwurf vom 02.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Refund
@@ -7982,6 +7988,8 @@ Eskalationsmarker im Text.
 ---
 
 ## #7610 — Vicky Blow (vannblow@icloud.com) — dritte Fassung
+
+**⚠️ ERSETZT durch den Entwurf vom 02.10. — nur den neuesten senden.**
 
 **Betreff:** Re: Refund
 
@@ -24178,6 +24186,89 @@ nicht geöffnet, kein Nachweis verlangt.** **Keine andere Frist als dreißig
 Tage genannt.** **Keine Angaben aus dem Bestelldatensatz**, weil Shopify
 nicht abfragbar ist. **Nichts aus ihrem Hund gefolgert.** Kein
 Eskalationsmarker im Text.
+
+## #7610 — Vicky Blow (`vannblow@icloud.com`) — **ZUSAMMENGEFÜHRTER Entwurf für beide Threads; vier Erstattungsforderungen, keine davon beantwortet** · 02.10.
+
+**✅ GEPRÜFT am 02.10.: Dies ist die geltende Fassung für diese Kundin. Alle vier früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+**⚠️ Zwei Threads, eine Bestellung. Dieser eine Entwurf deckt beide ab.** Zu
+senden im neueren Thread `Re: Refund`.
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue Anmeldung.**
+
+**Betreff:** `Re: Refund`
+
+> Dear Vicky,
+>
+> **You have asked for a refund four times — on 6 September, on 8 September,
+> on 15 September and again on 17 September — and not one of those four
+> messages was answered as a refund request.** **I have read both of your
+> email threads from the start, and that is simply what the record shows.**
+>
+> **What you did get was two replies about delivery and two standard
+> paragraphs about chew damage.** **The last of those was on 19 September.
+> Since then: nothing, for thirteen days.** **No third copy of that paragraph
+> is coming from me.**
+>
+> **So, properly this time: your request for a refund to your original
+> payment method goes to the shop owner today, in your own words.** **I cannot
+> approve it from this desk, and I am not going to refuse you.** **That
+> decision is his.** **I am not going to give you a date, because I cannot
+> stand behind one.**
+>
+> **There is one thing in the earlier thread I am not going to let pass.**
+> **On 8 and 9 September you were told your order had shipped and was in
+> transit, with a tracking update quoted at you.** **That was sent in reply to
+> a message asking for your money back, and it did not address the request at
+> all.** **I am not going to read you another tracking status, and I am not
+> going to send you to chase a courier.**
+>
+> **On the advertising.** **You wrote that it is advertised as tough and is
+> not.** **I cannot see the advertising as it was shown to you, so I am not
+> going to tell you what it said, and I am certainly not going to suggest you
+> misread it.** **I have read all twelve of our current product descriptions;
+> the word "indestructible" appears in none of them.** **That is a statement
+> about those twelve texts and nothing more.** **Your wording goes to the
+> owner unchanged.**
+>
+> **What I am not going to do is tell you the guarantee covers what happened,
+> or tell you it does not.** **That is his decision and not mine.**
+>
+> **You mentioned the review you have already left.** **Nothing here is
+> conditional on it, in any direction.** **I am not asking you to change it,
+> take it down or add to it, and nothing you decide about it affects what
+> happens to your refund request.**
+>
+> **One practical thing before you spend anything: there is no returns address
+> I can give you** — not one I am withholding, one that does not exist on our
+> side at the moment. **Please do not post the toy anywhere.**
+>
+> **I am not going to make any claim about the toy in either direction, and I
+> am drawing no conclusion from your dog.**
+>
+> I am sorry it took four requests and nearly three weeks of silence before
+> anyone answered the one you actually made.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Aufstellung ihrer vier Erstattungsforderungen
+mit Datum und die Feststellung, dass keine davon beantwortet wurde**; die
+**Nennung der dreizehn Tage Funkstille seit dem 19.09.**; die **unveränderte
+Weitergabe ihrer Forderung an den Owner**; die **Warnung, nichts zu
+verschicken.** **Keine Erstattung zugesagt, kein Termin, keine dritte
+Absage.** **Keine dritte Kauschaden-Vorlage.** **Keine Garantieentscheidung,
+in keine Richtung.** **Nicht behauptet, die von ihr erinnerte Werbeaussage
+existiere nicht** — nur der Befund zu den zwölf Produkttexten. **🟥 Kein
+Trackingstatus vorgelesen, nicht als Nachweis benutzt, und NICHT an den
+Zusteller verwiesen** — es wird nur festgestellt, dass die Lieferauskunft
+ihre Geldforderung nicht beantwortet hat. **🟥 Nichts an ihre bereits
+abgegebene Bewertung geknüpft**, und **nicht darum gebeten, sie zu ändern
+oder zu entfernen**; die Plattform wird nicht benannt. **Keine Angaben aus
+dem Bestelldatensatz**, weil Shopify nicht abfragbar ist. **Ihre Postanschrift
+aus der Mail vom 06.09. wird nicht wiederholt.** **Nichts aus ihrem Hund
+gefolgert.** Kein Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 

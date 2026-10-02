@@ -93,3 +93,54 @@ Stornierung, keine Bestelländerung, nichts versendet.**
 
 **Stand unverändert: 445 Entwürfe, ein Kundenfall heute, keiner der Entwürfe
 in Gmail.**
+
+---
+
+## Lauf 02:20 UTC — nichts Neues im Posteingang · #7610 abgearbeitet
+
+*(Erst die Datei geschrieben und geprüft — Entwurf in Zeile 24190 —, dann
+dieser Eintrag.)*
+
+**Posteingang: nichts neuer als #7324 von 00:01 UTC.**
+
+**Nächster Fall aus `docs/entwuerfe-mehrfachfassungen.md`.**
+
+### 🟥 #7610 — Vicky Blow (`vannblow@icloud.com`) — **Bot/Escalated – Owner Attention**
+
+**Zwei Threads, vier Entwurfsfassungen. Alle vier als ersetzt markiert; es
+gibt genau einen geltenden Entwurf.**
+
+| Datum | Was passiert ist |
+|---|---|
+| **06.09.** | *„I placed a order with you two weeks ago and I have not received my product. **I would like a refund to my original payment method**."* |
+| 08.09. 07:57 | Antwort: *„your order has been shipped and is currently on its way"* |
+| **08.09. 08:54** | *„this is still not good enough **I would like a refund**"* |
+| 09.09. 11:08 | Antwort: *„your parcel is currently in transit, with the latest tracking update…"* |
+| 13.09. | Zweiter Thread: Ware da, *„lasted half a hour"*, **Bewertung bereits abgegeben** |
+| 15.09. 07:25 | **Vorlage 1** |
+| **15.09. 08:20** | *„you advertise as it being tough and it is not. **I want my refund**."* |
+| **17.09. 07:07** | *„**I would still like a refund** this product is not made to last."* |
+| 19.09. 10:09 | **Vorlage 2** |
+| seither | **nichts — dreizehn Tage** |
+
+**🟥 Vier Erstattungsforderungen. Keine einzige wurde als solche
+beantwortet.** Zweimal kam eine Lieferauskunft, zweimal die
+Kauschaden-Vorlage. **Die Forderung selbst ist in keiner der vier Antworten
+erwähnt.**
+
+**Im Entwurf ausdrücklich NICHT:** keine dritte Vorlage; keine Erstattung
+zugesagt, kein Termin, keine Absage; keine Garantieentscheidung; nicht
+behauptet, die von ihr erinnerte Werbeaussage existiere nicht; **kein
+Trackingstatus vorgelesen und nicht an den Zusteller verwiesen** — es wird
+nur festgestellt, dass die Lieferauskunft ihre Geldforderung nicht
+beantwortet hat; **nichts an ihre bereits abgegebene Bewertung geknüpft** und
+**nicht darum gebeten, sie zu ändern oder zu entfernen**, die Plattform wird
+nicht benannt; **ihre Postanschrift aus der Mail vom 06.09. wird nicht
+wiederholt**; keine Angaben aus dem Bestelldatensatz.
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 446.**
+- **Mehrfachfassungen abgearbeitet: 15.** **Offen: 80.**
