@@ -806,3 +806,75 @@ Bitte um die Bestellnummer **ohne Bedingung.**
 - **Kundenfälle am 02.10.: acht** (#7324, #5128, `panorton61`, #7034, #7148,
   #8764, #8763, Bennett). **Dazu eine Fremdmail ohne Kundenanliegen.**
 - **Heute ist damit der kontaktstärkste Tag seit Beginn dieser Protokolle.**
+
+---
+
+## Lauf 23:20 UTC — nichts Neues · Tagesabschluss 2. Oktober 2026
+
+**Abfrage `in:inbox is:unread after:2026/10/02`: nichts Neueres als Nigel
+Bennett um 20:06 UTC. Keine neue Kundenmail. Kein Bericht in den Chat, wie
+für leere Läufe vorgesehen.**
+
+### Die acht Kundenfälle des Tages
+
+| Zeit (UTC) | Fall | Einordnung | Kern |
+|---|---|---|---|
+| 00:01 | **#7324** Kelly D | Escalated | Sicherheitsmeldung vom 29.09. wurde am 01.10. mit der Kauschaden-Vorlage beantwortet |
+| 08:52 | **`panorton61`** | Escalated | zitiert eine Ersatzzusage aus der Werbung; keine Bestellnummer |
+| 09:09 | **#5128** Stuart Leech | Escalated | zitiert Werbeformulierungen, die den echten Produkttexten nahekommen |
+| 13:29 | **#7148** Tom Hibbard | Escalated | kündigt eine Meldung beim BBB an; will Ersatz |
+| 14:21 | **#7034** Sarah Checksfield | Escalated | **dritte** Bitte um dieselbe Auskunft; ungeöffneter Artikel |
+| 16:21 | **#8763** `cvander4` | **Needs Approval** | „Where is my order?" — ohne Shopify nicht beantwortbar |
+| 18:48 | **#8764** Craig Wren | Escalated | **förmlicher Widerruf**, £54,95, Frist „by return" |
+| 20:06 | **Nigel Bennett** | Escalated | bestrittene Werbeaussage, **aber keine Forderung gestellt** |
+
+**Dazu eine Fremdmail (`y81630904@gmail.com`, 16:46) ohne Kundenanliegen —
+nicht beantwortet, nichts zugesagt, keine Daten herausgegeben.**
+
+**Sieben Escalated, einer Needs Approval, keiner Draft Ready, keiner No
+Action.** **Keine Erstattung ausgelöst. Nichts versendet.**
+
+### Was heute dazugekommen ist
+
+1. **🟥 Mindestens drei Kunden berufen sich auf eine ZUSAGE, ein zerstörtes
+   Spielzeug zu ersetzen** — #7034 (26.09.), #7148 (19.09.), `panorton61`
+   (heute). **In den zwölf Produkttexten steht sie nicht.** Wo sie steht, ist
+   von hier nicht feststellbar. **Das ist ein neuer Befund und er gehört dem
+   Owner.**
+2. **🟥 Zum ersten Mal ein förmlicher Widerruf mit Frist** (#8764). Von hier
+   ist weder Stornierung noch Erstattung ausführbar.
+3. **🟥 Zum ersten Mal eine angekündigte Meldung bei einer Verbraucherstelle**
+   (#7148, BBB). **Nicht bewertet, nicht abgeraten, nichts daran geknüpft.**
+4. **Zwölf Menschen halten ungeöffnete Ware ohne Rückgabeweg** (neu: #7034).
+5. **Zwei Kunden heute, die nichts verlangt haben** (Bennett, #8763) — beide
+   wurden **nicht** in eine Forderung umgedeutet.
+6. **🟥 Eine eigene Falschaussage von heute wurde zurückgenommen:** die
+   Behauptung, `panorton61` sei der erste mit der Ersatzzusage.
+
+### Was der Owner am 3. Oktober zuerst braucht
+
+1. **Shopify neu autorisieren.** Zweiter Tag ohne Datensatz. **`switch-shop`
+   nicht aufrufen** — das würde das Token widerrufen.
+2. **Eine Rücksendeadresse.** Zwölf Menschen, darunter **#2095 Pam Trafford**,
+   deren Bank seit Juli darauf wartet.
+3. **#8764 Craig Wren:** Widerruf mit Frist. **Nur er kann stornieren und
+   erstatten.**
+4. **Die Kauschaden-Vorlage und die Angebotsvorlage abschalten.** Die
+   Kauschaden-Vorlage hat bei #7034 dreimal dieselbe Frage zu einem
+   ungeöffneten Artikel verfehlt.
+5. **Die fünf „processed"-Erstattungen auszahlen oder widerrufen** — #5973,
+   #4055, #4998, #5148, #6936.
+6. **Die Sicherheitsmeldungen beantworten** — #7608, #7749, #7324.
+7. **Sagen, wo die Ersatzzusage veröffentlicht ist.**
+8. **#7989 im Admin korrigieren**; **#8592** fehlende E-Mail nachtragen; die
+   **Passkey-Warnung vom 26.09.** prüfen (sieben Tage alt).
+
+### Stand zum Tagesende
+
+- **Entwürfe in `docs/entwuerfe-zum-kopieren.md`: 456.** **Geltende: 352.**
+- **Mehrfachfassungen abgearbeitet: 18. Offen: 78.**
+- **123 geltende Entwürfe tragen die Datumswarnung.**
+- **Gmail-Labels und `create_draft`: seit 21.08. gesperrt.** Die Einordnung
+  steht nur hier im Protokoll; **es existiert kein Gmail-Entwurf.**
+- **Englischer Tagesbericht:** `docs/2026-10-02-daily-report-en.md`
+  (verspätet, Verspätung dort benannt).
