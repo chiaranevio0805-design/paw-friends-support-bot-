@@ -25286,6 +25286,94 @@ Bestelldatensatz.** **Keine Zusage, selbst nachzufassen.** Kein
 Eskalationsmarker im Text — **aber eine ausdrückliche Lücke für den Owner,
 die vor dem Senden zu füllen ist.**
 
+## Nigel Bennett (`nigel.1966@hotmail.co.uk`) — **keine Bestellnummer** · bestrittene Werbeaussage, **aber KEINE Forderung gestellt** · 02.10.
+
+**Erstkontakt, am Tag der Lieferung.** **Zwei Fotos — nicht geöffnet.**
+
+> *„This **indestructible** monkey my Labrador a has pulled its ear off
+> already ( recieved today). **Please advise** Nigel Bennett"*
+
+**Eskalationsgrund:** bestrittene Werbeaussage. **Die
+sechsundachtzigste unabhängige Kundenaussage zur Werbung.**
+
+**🟥 Er hat NICHTS verlangt — weder Erstattung noch Ersatz.** Er schreibt
+*„Please advise"*. **Der Entwurf deutet das nicht um, sondern fragt ihn,
+was er möchte, und sagt zu beiden Möglichkeiten dasselbe: Weitergabe, keine
+Entscheidung von hier.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue
+Anmeldung. Es wurde nicht gesucht; NICHT gesagt, es sei keine Bestellung
+auffindbar.**
+
+**🟥 Seine Schilderung wird NICHT zu einer Sicherheitsmeldung gemacht** — er
+hat keine erhoben.
+
+**Betreff:** `Re: Broken monkey`
+
+> Dear Nigel,
+>
+> Thank you for writing, and I am sorry it is on the day the parcel arrived.
+>
+> **You asked me to advise, and you have not asked for anything specific, so
+> I am not going to decide for you what you want.** **Here is what is
+> actually available, plainly, and then it is your choice.**
+>
+> **If you want your money back, say so and it goes to the shop owner as a
+> refund request in your own words.** **If you would rather have a
+> replacement, say that instead and it goes over the same way.** **I cannot
+> approve either from this desk, and I am not going to refuse you either.**
+> **I am also not going to promise you a replacement — one has been promised
+> in writing from this mailbox before and not delivered, and a second promise
+> like that would be worth nothing to you.** **I am not going to give you a
+> date.**
+>
+> **On the word you used.** **I cannot see the advertising as it was shown to
+> you, so I am not going to tell you what it said, and I am certainly not
+> going to suggest you misread it.** **What I can check, I have:** I have read
+> all twelve of our current product descriptions. **The word
+> "indestructible" appears in none of them.** **That is a statement about
+> those twelve texts and nothing more — it says nothing about what you were
+> shown, and I am not using it against you.** **Your wording goes to the
+> owner exactly as you wrote it.**
+>
+> **What I am not going to do is tell you the guarantee covers what happened,
+> or tell you it does not.** **That is the owner's decision and not mine.**
+>
+> **You sent photographs. I have not opened them, and I am not asking you for
+> anything further.** **Nothing here depends on you proving anything** —
+> please just keep them rather than deleting them.
+>
+> **Two practical things.** **There is no returns address I can give you —
+> not one I am withholding, one that does not exist on our side at the
+> moment — so please do not post anything back and please do not pay
+> postage.** **And if you can send your order number, it saves the owner
+> having to come back and ask; our order system is not readable from this
+> desk today, that is our problem and not yours, so I cannot look it up and I
+> am not going to pretend I tried.** **This is not a condition — your message
+> goes over either way.**
+>
+> **I am not going to make any claim about the toy in either direction, and I
+> am drawing no conclusion from your Labrador.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Weitergabe seiner Worte und, sobald er eine
+nennt, seiner Forderung**; die **Warnung, kein Porto auszugeben**; die Bitte
+um die Bestellnummer, ausdrücklich ohne Bedingung. **🟥 Seine Nachricht wird
+NICHT als Erstattungs- oder Ersatzforderung gedeutet** — er hat keine
+gestellt; es werden beide Wege offen genannt. **KEINE Ersatzzusage, keine
+Erstattung zugesagt, kein Termin, keine Absage.** **Keine
+Kauschaden-Vorlage.** **Keine Garantieentscheidung, in keine Richtung.**
+**Nicht behauptet, die von ihm erinnerte Werbeaussage existiere nicht** — nur
+der Befund zu den zwölf Produkttexten. **🟥 KEINE Sicherheitsmeldung
+unterstellt.** **🟥 NICHT gesagt, es sei keine Bestellung auffindbar.**
+**Fotos nicht geöffnet, kein Nachweis verlangt.** **Keine andere Frist als
+dreißig Tage genannt** (es wird keine genannt). **Keine Angaben aus dem
+Bestelldatensatz.** **Nichts aus seinem Hund gefolgert.** Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

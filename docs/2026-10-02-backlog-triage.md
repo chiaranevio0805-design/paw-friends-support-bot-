@@ -762,3 +762,47 @@ Vorwand-Mail von `shopifystoreregulatory.center@gmail.com`.**
 - **🔴 Owner, dritter Punkt mit eigener Dringlichkeit:** **#8764 hat
   förmlich widerrufen und eine Frist gesetzt.** Von hier ist weder
   Stornierung noch Erstattung ausführbar. **Das muss er selbst tun.**
+
+---
+
+## Lauf 20:20 UTC — ein neuer Fall
+
+*(Erst die Datei geschrieben und geprüft — Entwurf in Zeile 25289 —, dann
+dieser Eintrag.)*
+
+### 🟦 Nigel Bennett (`nigel.1966@hotmail.co.uk`), 02.10. 20:06 UTC — **Bot/Escalated – Owner Attention**
+
+**Erstkontakt, am Tag der Lieferung, keine Bestellnummer. Zwei Fotos —
+nicht geöffnet.**
+
+> *„This **indestructible** monkey my Labrador a has pulled its ear off
+> already ( recieved today). **Please advise** Nigel Bennett"*
+
+**Eskalationsgrund:** bestrittene Werbeaussage — **die sechsundachtzigste
+unabhängige Kundenaussage zur Werbung.**
+
+**🟥 Er hat NICHTS verlangt.** Nicht Erstattung, nicht Ersatz — er schreibt
+*„Please advise"*. **Der Entwurf deutet das nicht um.** Er nennt ihm beide
+Wege offen und sagt zu beiden dasselbe: Weitergabe an den Owner, keine
+Entscheidung von hier. **Eine Forderung zu unterstellen, die er nicht
+gestellt hat, wäre derselbe Fehler wie eine zu übersehen.**
+
+**Im Entwurf ausdrücklich NICHT:** keine Kauschaden-Vorlage; **keine
+Ersatzzusage** (mit offener Begründung); keine Garantieentscheidung, in keine
+Richtung; nicht behauptet, die von ihm erinnerte Werbeaussage existiere
+nicht — nur der Befund zu den zwölf Produkttexten; **keine
+Sicherheitsmeldung unterstellt** (er hat keine erhoben); **nicht gesagt, es
+sei keine Bestellung auffindbar** — es wurde nicht gesucht, weil Shopify
+gesperrt ist; **nichts aus seinem Labrador gefolgert.**
+
+**Im Entwurf ausdrücklich DOCH:** die Warnung, kein Porto auszugeben, und die
+Bitte um die Bestellnummer **ohne Bedingung.**
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 456.** **Geltende Entwürfe: 352.**
+- **Kundenfälle am 02.10.: acht** (#7324, #5128, `panorton61`, #7034, #7148,
+  #8764, #8763, Bennett). **Dazu eine Fremdmail ohne Kundenanliegen.**
+- **Heute ist damit der kontaktstärkste Tag seit Beginn dieser Protokolle.**
