@@ -440,6 +440,8 @@ genau die Wiederholung hat die Eskalation ausgelöst.
 
 ## #7525 — carolgarvey2@hotmail.com — Sendungsnummer, die ihr nie genannt wurde  
 
+**⚠️ ERSETZT durch den Entwurf vom 02.10. — nur den neuesten senden.**
+
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
@@ -4124,6 +4126,8 @@ Keine Rücksendeadresse. Keine rechtliche Einordnung.
 ---
 
 ## #7525 — Carol Garvey (carolgarvey2@hotmail.com)  
+
+**⚠️ ERSETZT durch den Entwurf vom 02.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order 7525
@@ -7532,6 +7536,8 @@ im Text.
 ---
 
 ## #7525 — Carol Garvey (carolgarvey2@hotmail.com) — dritte Fassung
+
+**⚠️ ERSETZT durch den Entwurf vom 02.10. — nur den neuesten senden.**
 
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning", „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
@@ -24627,6 +24633,85 @@ in keine Richtung**, und nichts daran geknüpft. **Nicht behauptet, die von
 ihr erinnerte Werbeaussage existiere nicht.** **Keine Angaben aus dem
 Bestelldatensatz.** **Nichts aus ihrem Hund gefolgert.** Kein
 Eskalationsmarker im Text.
+
+## #7525 — Carol Garvey (`carolgarvey2@hotmail.com`) — **ZUSAMMENGEFÜHRTER Entwurf für beide Threads; sie hat am 14.09. zwei direkte Fragen gestellt, beide bis heute unbeantwortet** · 02.10.
+
+**✅ GEPRÜFT am 02.10.: Dies ist die geltende Fassung für diese Kundin. Alle drei früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+**⚠️ Zwei Threads, eine Bestellung. Dieser eine Entwurf deckt beide ab.** Zu
+senden im Thread `Re: Order 7525` (dem längeren, ab 10.09.).
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue Anmeldung.**
+
+**Betreff:** `Re: Order 7525`
+
+> Dear Carol,
+>
+> **You asked two plain questions on 14 September and neither has been
+> answered. I am answering both now, eighteen days late, and I am not going
+> to pretend that is acceptable.**
+>
+> **You asked how to go about returning the toy.** **The honest answer is that
+> you cannot at the moment.** **There is no returns address I can give you —
+> not one I am withholding, one that does not exist on our side right now.**
+> **You wrote that you had looked on the site and could not find any
+> information about returns. You were not missing it.** **Please do not post
+> the toy anywhere, and please do not pay postage expecting it to come back
+> to you.**
+>
+> **You asked how to go about getting a refund.** **I cannot approve one from
+> this desk, and I am not going to refuse you.** **That decision belongs to
+> the shop owner, and your request goes to him today in your own words.**
+> **I am not going to give you a date.** **What I am not going to do is send
+> you a third paragraph that answers neither question** — you have had two of
+> those already, on 16 and 19 September.
+>
+> **On the delivery.** **You wrote on 10 September that the despatch notice
+> was dated 3 September and nothing had moved since, and on 11 September you
+> were told the order "has been shipped and is currently on the way".**
+> **You then waited until the middle of September for it.** **I am not going
+> to quote you a tracking status now, and I am not going to send you to chase
+> a courier.** **Your point that there was no note about how long shipping
+> would take goes to the owner as you made it.**
+>
+> **On the word you put in quotation marks.** **I cannot see the advertising
+> as it was shown to you, so I am not going to tell you what it said, and I
+> am certainly not going to suggest you misread it.** **What I can check, I
+> have:** I have read all twelve of our current product descriptions.
+> **The word "indestructible" appears in none of them.** **That is a statement
+> about those twelve texts and nothing more.** **Your wording reaches the
+> owner unchanged.**
+>
+> **What I am not going to do is tell you the guarantee covers what happened,
+> or tell you it does not.** **That is his decision and not mine.**
+>
+> **You sent photographs. I have not opened them, and I am not asking you for
+> anything further.** **Nothing here depends on you proving anything.**
+>
+> **I am not going to make any claim about the toy in either direction, and I
+> am drawing no conclusion from your dog.**
+>
+> I am sorry that two straightforward questions took eighteen days and three
+> emails to get an answer.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **direkte Beantwortung ihrer beiden Fragen vom
+14.09.** — wie zurückschicken (gar nicht, es gibt keine Adresse) und wie eine
+Erstattung bekommen (nur über den Owner); die **Bestätigung, dass sie die
+Rückgabeinformation auf der Website nicht übersehen hat**; die **Warnung, kein
+Porto auszugeben**; die **Weitergabe ihrer Forderung und ihres Punktes zur
+Lieferzeit.** **Keine Erstattung zugesagt, kein Termin, keine Absage.**
+**Keine dritte Kauschaden-Vorlage.** **Keine Garantieentscheidung, in keine
+Richtung.** **Nicht behauptet, die von ihr erinnerte Werbeaussage existiere
+nicht** — nur der Befund zu den zwölf Produkttexten. **Kein Trackingstatus
+genannt, kein Verweis an den Zusteller.** **Nicht behauptet, die Lieferung sei
+rechtzeitig gewesen oder verspätet** — nur ihre eigenen Daten wiedergegeben.
+**Fotos nicht geöffnet, kein Nachweis verlangt.** **Keine Angaben aus dem
+Bestelldatensatz**, weil Shopify nicht abfragbar ist. **Nichts aus ihrem Hund
+gefolgert.** Kein Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 

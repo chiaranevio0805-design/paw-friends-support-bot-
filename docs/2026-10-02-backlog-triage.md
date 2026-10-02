@@ -394,3 +394,87 @@ Skript müsste raten, welcher Tag gemeint war.
 
 - **Entwürfe in der Datei: 448** (unverändert).
 - **Geltende Entwürfe: 351.** **Davon mit Datumswarnung: 123.**
+
+---
+
+## 07:20 UTC — Posteingang leer; #7525 Carol Garvey abgearbeitet
+
+**Posteingang:** `in:inbox is:unread after:2026/10/01` — nichts Neueres als
+#7324 um 00:01 UTC, das bereits bearbeitet ist. **Keine neue Kundenmail.**
+
+Der Lauf wurde deshalb für die Mehrfachfassungen-Liste genutzt.
+
+### #7525 — Carol Garvey (`carolgarvey2@hotmail.com`) — drei Fassungen
+
+**Beide Threads vollständig gelesen** (`get_thread`, Thread `Order 7525`:
+8 von 8 Nachrichten).
+
+| Datum | Was passierte |
+|---|---|
+| 10.09. | sie fragt nach: Versandmeldung vom 03.09., Sendungsverfolgung bewegt sich nicht |
+| 11.09. | Antwort: *„your order has been shipped and is currently on the way… Our UK warehouse is currently sold out… Delivery usually takes 7–21 days"* |
+| 13.09. | Antwort: *„You are most welcome!"* |
+| **14.09. 19:51** | **ihre Kernnachricht, zwei direkte Fragen** |
+| 16.09. 09:51 | Kauschaden-Vorlage |
+| 16.09. 19:14 | ihre Antwort zu Lieferzeit und Werbeaussage |
+| 19.09. 09:52 | zweite Kauschaden-Vorlage |
+| seitdem | **nichts — dreizehn Tage** |
+
+**Ihre Nachricht vom 14.09. im Wortlaut:**
+
+> After waiting over 3 weeks, I finally received the "indestructible" pet Toy.
+> I must say I am extremely disappointed. **Have looked online about returns
+> and cannot find information on the site on how to do this.** For the money
+> spent, I would haveexpected better quality to be honest. **Please advise how
+> I go about getting a refund.** Many thanks.
+
+**Zwei Fotos angehängt — nicht geöffnet.**
+
+### 🟥 Der Befund
+
+**Sie hat am 14.09. zwei konkrete Fragen gestellt — wie zurückschicken und
+wie eine Erstattung bekommen. Beide Antworten, am 16.09. und am 19.09., waren
+dieselbe Kauschaden-Vorlage. Keine davon hat eine der beiden Fragen
+beantwortet.** **Achtzehn Tage.**
+
+**Dazu kommt:** sie schreibt, sie habe auf der Website nach der Rückgabe
+gesucht und nichts gefunden. **Sie hat nichts übersehen.** Das ist dieselbe
+Lücke, die elf andere Kundinnen und Kunden mit ungeöffneter Ware trifft: **es
+gibt keine Rücksendeadresse.**
+
+### Warum hier geantwortet wird und bei #6936 nicht
+
+Bei Lisa Steggel (#6936) wurde eine Sendesperre gesetzt, weil sie seit dem
+18.09. nicht mehr geschrieben hat und eine unaufgeforderte Mail gewesen wäre.
+**Hier liegt es anders: Carol Garvey hat eine ausdrückliche Frage gestellt,
+die nie beantwortet wurde.** Eine Antwort darauf ist keine unaufgeforderte
+Post, sondern eine überfällige.
+
+### Der zusammengeführte Entwurf
+
+**Ein Entwurf für beide Threads**, zu senden in `Re: Order 7525`. Er
+beantwortet **beide Fragen ausdrücklich**: zurückschicken geht derzeit nicht,
+weil es keine Adresse gibt — und sie wird gewarnt, **kein Porto auszugeben**;
+die Erstattung kann von hier nicht bewilligt und wird auch nicht abgelehnt,
+sie geht im Wortlaut an den Owner.
+
+**Bewusst nicht enthalten:** keine Zahl aus dem Bestelldatensatz (Shopify
+verlangt seit 01.10. 17:20 UTC eine neue Anmeldung); kein Trackingstatus und
+kein Verweis an den Zusteller; keine Garantieentscheidung in irgendeine
+Richtung; **nicht behauptet, die von ihr erinnerte Werbeaussage existiere
+nicht** — nur der prüfbare Befund, dass „indestructible" in keinem der zwölf
+Produkttexte steht; **nichts aus ihrem Hund gefolgert**; kein dritter
+Vorlagenbrief.
+
+**Drei frühere Fassungen als ERSETZT markiert** (Zeilen 441, 4128, 7538) —
+gefiltert auf die exakte Bestellnummer `#7525\b`, nicht auf eine
+Teilzeichenkette. **Datei vor dem Protokoll geschrieben und geprüft.**
+Sicherungskopie: `scratchpad/pre-7525-backup.md`.
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 449.** **Geltende Entwürfe: 349.**
+- **Mehrfachfassungen abgearbeitet: 18. Offen: 78.**
+- **Der nächste englische Tagesbericht ist um ~08:13 UTC fällig.**

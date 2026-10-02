@@ -27,9 +27,18 @@ Blick in die Threads der Kundin oder des Kunden.**
 4. **Wenn nein:** eine zusammengeführte Fassung schreiben, die alles abdeckt,
    und alle vorherigen als ERSETZT markieren.
 
-**Bereits so abgearbeitet:** #7479, #7048, #7347, #8142, #8372, #7547, #6254,
-#5973, #7831, **#8295** (sechs Fassungen, fünf Threads) und **#7608** (fünf
-Fassungen, zwei Threads, Sicherheitsmeldung nachgetragen).
+**Bereits so abgearbeitet (18 von 96):** #7479, #7048, #7347, #8142, #8372,
+#7547, #6254, #5973, #7831, **#8295** (sechs Fassungen, fünf Threads),
+**#7608** (fünf Fassungen, zwei Threads, Sicherheitsmeldung nachgetragen),
+#7041, **#7989** (zugesagte Variante nie umgesetzt), **#8781** (Storno nach
+22 Minuten, Ware trotzdem versandt), **#7610** (vier unbeantwortete
+Erstattungsforderungen), **#7114** (zweite Bestellung sollte zurückgeschickt
+werden), **#6936** (fünfter „processed"-Fall, mit Sendesperre) und **#7525**
+(zwei direkte Fragen vom 14.09., beide nie beantwortet).
+
+**Noch offen: 78.** Die Tabelle unten ist der Stand bei Erstellung am 01.10.
+und wird nicht zeilenweise nachgeführt — maßgeblich ist diese Liste und der
+GEPRÜFT-Vermerk in `entwuerfe-zum-kopieren.md`.
 
 ## Die Liste
 
