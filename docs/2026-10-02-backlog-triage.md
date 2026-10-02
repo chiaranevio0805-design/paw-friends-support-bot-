@@ -478,3 +478,95 @@ Sicherungskopie: `scratchpad/pre-7525-backup.md`.
 - **Entwürfe in der Datei: 449.** **Geltende Entwürfe: 349.**
 - **Mehrfachfassungen abgearbeitet: 18. Offen: 78.**
 - **Der nächste englische Tagesbericht ist um ~08:13 UTC fällig.**
+
+---
+
+## Läufe 08:20 / 09:20 UTC — 🟥 ZWEI neue Erstkontakte
+
+*(Erst die Datei geschrieben und geprüft — Entwürfe in Zeile 24716 und
+24807 —, dann dieser Eintrag.)*
+
+**Beide Auslöser kamen verspätet an (08:17 und 09:17) und werden hier
+zusammen abgehandelt.** Abfrage `in:inbox is:unread after:2026/10/01`.
+**Zwei Nachrichten sind neu**, beide von heute, beide Erstkontakte.
+**Für beide Absender wurde nach älteren Threads gesucht — es gibt keine.**
+
+**🟥 Shopify erneut geprüft: `MCP server "Shopify" needs you to sign in
+again`.** Zweiter Tag ohne Datensatzzugriff. **`switch-shop` weiterhin nicht
+aufgerufen.**
+
+### 🟥 #5128 — Stuart Leech (`firestorm637@gmail.com`), 02.10. 09:09 UTC — **Bot/Escalated – Owner Attention**
+
+> *„You state that these products have an anti-destruction structure and are
+> extremely durable and long-lasting, built for dogs that destroy
+> everything… I gave one of the toys to my labrador and it didn't last any
+> more than 5 minutes… These toys are clearly **not fit for purpose** and the
+> advertising is totally misleading. Please arrange for a refund to be made
+> to my card."*
+
+**Zwei Fotos angehängt — nicht geöffnet.**
+
+**🟥 Der Punkt, der den Owner angeht:** **seine Zitate kommen den echten
+Produkttexten nahe.** In den Plushie-Beschreibungen stehen tatsächlich
+**„Anti-tear design built for strong chewers"** und **„Rope-reinforced
+construction"**. **Der Entwurf sagt deshalb ausdrücklich NICHT, seine Zitate
+existierten nicht** — er nennt diese beiden Formulierungen offen, sagt, dass
+die genaue zitierte Fassung in den zwölf Texten nicht zu finden war, **und
+leitet daraus nichts gegen ihn ab**, weil nicht sichtbar ist, was er gesehen
+hat.
+
+**Im Entwurf ausdrücklich NICHT:** **keine rechtliche Bewertung zu „not fit
+for purpose"**, in keine Richtung; keine Kauschaden-Vorlage; keine
+Garantieentscheidung; keine Erstattung zugesagt und keine abgelehnt; **keine
+Kartendaten erbeten, ausdrücklich davor gewarnt**; **nichts über das zweite,
+nicht beschriebene Spielzeug unterstellt**; keine Angaben aus dem
+Bestelldatensatz.
+
+**Im Entwurf ausdrücklich DOCH:** die Warnung, kein Porto auszugeben.
+
+### 🟥 `panorton61@gmail.com`, 02.10. 08:52 UTC — **Bot/Escalated – Owner Attention**
+
+> *„I am not happy that you advertise these toys as indestructible but my
+> Golden retriever has proven you wrong. **You also say they rip it we
+> replace it**, so I am attaching photo of what is left and appreciated a
+> replacement."*
+
+**Drei Fotos angehängt — nicht geöffnet. Keine Bestellnummer, keine
+Unterschrift.**
+
+**🟥 Das ist die erste Kundenaussage, die eine ausdrückliche ERSATZZUSAGE aus
+der Werbung zitiert** — bisher ging es immer um „indestructible". **Die
+fünfundachtzigste unabhängige Kundenaussage zur Werbung.**
+
+**🟥 Er will Ersatz, keine Erstattung — das wird nicht umgedeutet.**
+
+**🟥 Und es wird KEINE Ersatzzusage gemacht.** Bei Michael Laney steht seit
+dem **18.08.** eine schriftliche Ersatzzusage offen, ohne dass etwas geschah.
+**Der Entwurf sagt ihm offen, dass eine solche Zusage hier schon einmal
+schriftlich gegeben und nicht gehalten wurde, und dass er deshalb die
+Wahrheit statt einer zweiten bekommt.** **Kein fremder Vorgang wird benannt
+oder beschrieben.**
+
+**Im Entwurf ausdrücklich NICHT:** **nicht gesagt, es sei keine Bestellung
+auffindbar** — es wurde nicht gesucht, weil Shopify gesperrt ist, und das
+steht so im Brief; **die Bestellnummer wird erbeten, aber nicht zur Bedingung
+gemacht**; **kein Vorname geraten**; nicht behauptet, die von ihm erinnerte
+Aussage existiere nicht — nur der Befund zu den zwölf Produkttexten,
+ausdrücklich ohne Schluss auf das, was er gesehen hat; keine
+Garantieentscheidung; keine Kauschaden-Vorlage.
+
+**Im Entwurf ausdrücklich DOCH:** die Warnung, kein Porto auszugeben.
+
+**Hinweis zum Betreff:** seine Mail trägt **keine Betreffzeile**. Im Thread
+antworten, **keinen Betreff mit einer Bestellnummer erfinden.**
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 451.** **Geltende Entwürfe: 351.**
+- **Kundenfälle am 02.10.: drei** (#7324, #5128, `panorton61`).
+- **🔴 Owner, unverändert und jetzt zweiter Tag: Shopify neu autorisieren.**
+- **🔴 Neu auf der Owner-Liste: die Ersatzzusage in der Werbung.** Ein Kunde
+  zitiert sie wörtlich; in den zwölf Produkttexten steht sie nicht. **Wo sie
+  steht, ist von hier nicht feststellbar — der Owner weiß es.**

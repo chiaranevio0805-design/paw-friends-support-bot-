@@ -24713,6 +24713,189 @@ rechtzeitig gewesen oder verspätet** — nur ihre eigenen Daten wiedergegeben.
 Bestelldatensatz**, weil Shopify nicht abfragbar ist. **Nichts aus ihrem Hund
 gefolgert.** Kein Eskalationsmarker im Text.
 
+## #5128 — Stuart Leech (`firestorm637@gmail.com`) — Erstkontakt, bestrittene Werbeaussage, er zitiert konkrete Formulierungen · 02.10.
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue Anmeldung; am 02.10. 09:2x erneut geprüft, weiterhin gesperrt.**
+
+**Eskalationsgrund:** bestrittene Werbeaussage, dazu die Formulierung „not fit
+for purpose". **Weder das eine noch das andere wird hier bewertet.**
+
+**🟥 WICHTIG für den Owner:** er zitiert Formulierungen, die den echten
+Produkttexten **nahekommen**. In den Plushie-Beschreibungen stehen
+tatsächlich **„Anti-tear design built for strong chewers"** und
+**„Rope-reinforced construction"**. **Der Entwurf sagt deshalb NICHT, seine
+Zitate existierten nicht** — er sagt, was geprüft wurde und was von hier aus
+nicht prüfbar ist.
+
+**Betreff:** `Re: Order #5128 - Mis-sold Products`
+
+> Dear Stuart,
+>
+> Thank you for writing, and for setting out exactly what you were told and
+> what happened.
+>
+> **I am going to be straight with you about what I can and cannot do from
+> this desk.**
+>
+> **I cannot approve a refund here, and I am not going to refuse you one.**
+> **That decision belongs to the shop owner, and your request for a refund to
+> your card goes to him today in your own words.** **I am not going to give
+> you a date, because I cannot stand behind one.** **I am not going to ask you
+> for any card details, and you should not send any by email** — nothing here
+> needs them.
+>
+> **On the wording you quoted, I want to be careful rather than convenient.**
+> **I cannot see the advertising as it was shown to you, so I am not going to
+> tell you what it said, and I am certainly not going to suggest you misread
+> it.** **What I can check, I have:** I have read all twelve of our current
+> product descriptions. **Two of the phrases in them are close to what you
+> describe — the plushies are listed with "Anti-tear design built for strong
+> chewers" and "Rope-reinforced construction".** **The exact wording you
+> quoted I could not match to any of those twelve texts, and that tells you
+> nothing about what you were actually shown, because I have no way of
+> seeing it.** **Your wording goes to the owner unchanged, including the part
+> about the advertising being misleading** — that is his to answer, not mine
+> to argue with.
+>
+> **You wrote that the toys are not fit for purpose.** **I am not going to
+> rule on that, in either direction** — I am a support desk, not the right
+> place for that judgement, and an opinion from me would be worth nothing to
+> you either way. **It goes to the owner as you put it.**
+>
+> **What I am not going to do is tell you the guarantee covers what happened,
+> or tell you it does not.** **That is his decision and not mine.**
+>
+> **You ordered two and described one of them.** **I am not going to assume
+> anything about the second one** — if it is unopened, or if you want
+> something different for it, tell me and that goes over as well.
+>
+> **One practical thing before you spend money: there is no returns address I
+> can give you.** **Not one I am withholding — one that does not exist on our
+> side at the moment.** **Please do not post anything, and please do not pay
+> postage expecting it to come back to you.**
+>
+> **You sent photographs. I have not opened them, and I am not asking you for
+> anything further.** **Nothing here depends on you proving anything** —
+> please just keep them for now rather than deleting them.
+>
+> **I am not going to make any claim about the toys in either direction, and I
+> am drawing no conclusion from your dog.**
+>
+> **I would rather tell you plainly what I cannot do than send you a polished
+> answer that settles nothing.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Weitergabe seiner Erstattungsforderung an den Owner
+im Wortlaut**, einschließlich seiner Worte zur Werbung und zu „not fit for
+purpose"; die **Warnung, kein Porto auszugeben**; die **ausdrückliche Bitte,
+keine Kartendaten zu schicken**; das Angebot, auch für das zweite Spielzeug
+etwas weiterzugeben. **Keine Erstattung zugesagt, kein Termin, keine Absage.**
+**Keine Kauschaden-Vorlage.** **Keine Garantieentscheidung, in keine
+Richtung.** **🟥 KEINE rechtliche Bewertung zu „not fit for purpose".**
+**🟥 NICHT behauptet, seine Zitate existierten nicht** — stattdessen offen
+genannt, dass zwei ähnliche Formulierungen in den Produkttexten tatsächlich
+stehen und dass die genaue Fassung dort nicht zu finden war, ohne daraus
+etwas gegen ihn abzuleiten. **Keine Rekonstruktion der Anzeige.** **Nichts
+über den zweiten Artikel unterstellt.** **Fotos nicht geöffnet, kein Nachweis
+verlangt.** **Keine Angaben aus dem Bestelldatensatz.** **Keine andere Frist
+als dreißig Tage genannt** (es wird gar keine genannt). **Nichts aus seinem
+Hund gefolgert.** Kein Eskalationsmarker im Text.
+
+## `panorton61@gmail.com` — Erstkontakt, **keine Bestellnummer, kein Name**, er beruft sich auf eine Ersatzzusage in der Werbung · 02.10.
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue
+Anmeldung; am 02.10. erneut geprüft, weiterhin gesperrt. Es wurde also gar
+nicht gesucht — der Entwurf behauptet NICHT, es sei keine Bestellung
+auffindbar.**
+
+**Eskalationsgrund:** bestrittene Werbeaussage — **und zum ersten Mal eine
+ausdrücklich zitierte Ersatzzusage: „you say they rip it we replace it".**
+
+**🟥 Er will Ersatz, keine Erstattung. Das wird nicht umgedeutet.**
+**🟥 Und es wird KEINE Ersatzzusage gemacht** — bei Michael Laney steht seit
+dem 18.08. eine schriftliche Ersatzzusage offen, ohne dass etwas geschah.
+**Eine zweite unhaltbare Zusage wäre der Fehler, der dort schon gemacht
+wurde.**
+
+**Anrede neutral — er hat nicht unterschrieben, und es wird kein Vorname
+geraten.**
+
+**Betreff:** **Seine Mail trägt keine Betreffzeile.** Im selben Thread
+antworten; Gmail setzt dann `Re:` auf den leeren Betreff. **Keinen Betreff
+erfinden, der eine Bestellnummer nennt** — es ist keine bekannt.
+
+> Hello,
+>
+> Thank you for writing, and for saying plainly what you are asking for.
+>
+> **You are asking for a replacement, not a refund, and I am going to keep it
+> that way.** **I am not going to turn your message into something you did
+> not ask for.**
+>
+> **What I can do is pass your replacement request to the shop owner today, in
+> your own words.** **What I am not going to do is promise you a replacement
+> from this desk.** **I want to be honest about why: a promise of that kind
+> has been made in writing here before and not kept, and sending you a second
+> one would be worth nothing to you.** **So you get the truth instead of a
+> reassurance — it goes to him, and the decision is his.** **I am not going
+> to give you a date.**
+>
+> **On the wording you quoted.** **I cannot see the advertising as it was
+> shown to you, so I am not going to tell you what it said, and I am
+> certainly not going to suggest you misread it.** **What I can check, I
+> have:** I have read all twelve of our current product descriptions.
+> **Neither the word "indestructible" nor a replacement promise of that kind
+> appears in any of them.** **That is a statement about those twelve product
+> texts and nothing more — it says nothing about what you were shown
+> elsewhere, and I am not using it to contradict you.** **Your wording goes
+> to the owner exactly as you wrote it.**
+>
+> **What I am not going to do is tell you the guarantee covers what happened,
+> or tell you it does not.** **That is his decision and not mine.**
+>
+> **One thing I need from you, and it is not a condition of anything: an
+> order number, or the name and address the order was placed under.** **Our
+> order system is not readable from this desk at the moment — that is our
+> problem, not yours — so I cannot look you up and I am not going to pretend
+> I tried.** **Your request goes to the owner either way; the number just
+> means he does not have to come back and ask.**
+>
+> **One practical thing before you spend money: there is no returns address I
+> can give you.** **Not one I am withholding — one that does not exist on our
+> side at the moment.** **Please do not post anything back, and please do not
+> pay postage expecting it to come back to you.**
+>
+> **You sent photographs. I have not opened them, and I am not asking you for
+> anything further.** **Nothing here depends on you proving anything** —
+> please just keep them rather than deleting them.
+>
+> **I am not going to make any claim about the toy in either direction, and I
+> am drawing no conclusion from your dog.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Weitergabe seines Ersatzwunsches im Wortlaut**; die
+**Bitte um die Bestellnummer, ausdrücklich ohne sie zur Bedingung zu
+machen**; die **Warnung, kein Porto auszugeben**. **🟥 KEINE Ersatzzusage —
+und offen gesagt, warum nicht.** **Kein Termin, keine Absage, keine
+Erstattung zugesagt.** **🟥 Sein Ersatzwunsch wird NICHT in eine
+Erstattungsforderung umgedeutet.** **Keine Kauschaden-Vorlage.** **Keine
+Garantieentscheidung, in keine Richtung.** **🟥 NICHT behauptet, die von ihm
+erinnerte Aussage existiere nicht** — nur der Befund zu den zwölf
+Produkttexten, ausdrücklich ohne Schluss auf das, was er gesehen hat.
+**🟥 NICHT gesagt, es sei keine Bestellung auffindbar** — es wurde nicht
+gesucht, und das steht so im Brief. **Kein Vorname geraten.** **Fotos nicht
+geöffnet, kein Nachweis verlangt.** **Keine Angaben aus dem
+Bestelldatensatz.** **Andere Kundenvorgänge werden NICHT benannt** — die
+frühere, nicht gehaltene Zusage wird nur als Tatsache erwähnt, ohne Namen und ohne
+Beschreibung eines fremden Vorgangs. **Nichts aus seinem Hund gefolgert.**
+Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach
