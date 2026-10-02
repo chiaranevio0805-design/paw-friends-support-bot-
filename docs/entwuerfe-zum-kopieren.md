@@ -20502,6 +20502,8 @@ Eskalationsmarker im Text.
 
 ## #7324 — Kelly (`kellydstudio@gmail.com`) — **Erstkontakt, Werbung bestritten UND Sicherheitsmeldung** · 29.09.
 
+**⚠️ ERSETZT durch den Entwurf vom 02.10. — nur den neuesten senden.**
+
 **Betreff:** `Re: 4 min`
 
 > Dear Kelly,
@@ -24099,6 +24101,83 @@ nicht zur Bedingung gemacht.** **Foto nicht geöffnet.** **Keine
 Kauschaden-Vorlage.** **Kein Vorname geraten** — sie hat nicht
 unterschrieben. **Nichts aus ihrem Hund gefolgert.** Kein Eskalationsmarker
 im Text.
+
+## #7324 — Kelly D (`kellydstudio@gmail.com`) — 🟥 **ihre Sicherheitsmeldung vom 29.09. wurde am 01.10. mit der Kauschaden-Vorlage beantwortet** · 02.10. 00:20
+
+**✅ GEPRÜFT am 02.10.: Dies ist die geltende Fassung für diese Kundin. Die frühere Fassung vom 29.09. ist als ersetzt markiert.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue Anmeldung.**
+
+**Betreff:** `Re: 4 min`
+
+> Dear Kelly,
+>
+> **You are right to be angry about the reply you got, and I am not going to
+> argue with a word of it.**
+>
+> **On 29 September you wrote three things: that the toys are not as
+> advertised, that they are "very weak and unsafe", and that you wanted a
+> refund. You gave your order number in the same message.** **What came back
+> two days later was a standard paragraph addressed to "Dear Customer" about
+> chew damage.** **It answered none of the three.** **No second copy of it is
+> coming from me.**
+>
+> **The one I want to deal with first is the one that got lost: you said the
+> toys are unsafe.** **I am not going to tell you that they are safe, and I am
+> not going to tell you that they are not.** **I am not in a position to make
+> that judgement, and a support desk that answered a safety report with a
+> reassurance it cannot stand behind would be doing you no favours.** **It
+> goes to the shop owner today as a safety report in its own right, marked as
+> such and separately from the refund — which is how it should have been
+> handled on 29 September.**
+>
+> **Your refund request goes to him today as well, in your own words.** **I
+> cannot approve a refund from this desk, and I am not going to refuse you.**
+> **I am not going to give you a date.**
+>
+> **On "not as advertised", and on what you called it this evening.** **I
+> cannot see the advertising as it was shown to you, so I am not going to tell
+> you what it said, and I am certainly not going to suggest you misread it.**
+> **What I can check, I have:** I have read all twelve of our current product
+> descriptions. **The word "indestructible" appears in none of them.** **That
+> is a statement about those twelve texts and nothing more.** **Your wording
+> goes to the owner exactly as you wrote it — including the part about our
+> claims — because that is his to answer, not mine to argue with.**
+>
+> **What I am not going to do is tell you the guarantee covers what happened,
+> or tell you it does not.**
+>
+> **You sent a photograph. I have not opened it, and I am not asking you for
+> anything further.** **Nothing here depends on you proving anything.**
+>
+> **One practical thing before you spend money: there is no returns address I
+> can give you.** **Not one I am withholding — one that does not exist on our
+> side at the moment.** **Please do not post anything.**
+>
+> **I am not going to make any claim about the toys in either direction, and I
+> am drawing no conclusion from your dog.**
+>
+> I am sorry that a message saying something was unsafe was answered with a
+> form letter about chewing.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass die Vorlage vom 01.10.
+keine ihrer drei Aussagen beantwortet hat**; die **getrennte Weitergabe ihrer
+Sicherheitsmeldung als solche**; die **unveränderte Weitergabe ihrer
+Erstattungsforderung und ihrer Worte über unsere Aussagen**; die **Warnung,
+nichts zu verschicken.** **KEINE Aussage zur Sicherheit der Artikel, in keine
+Richtung.** **Keine Erstattung zugesagt, kein Termin, keine zweite Absage.**
+**Keine Garantieentscheidung.** **Nicht behauptet, die von ihr erinnerte
+Werbeaussage existiere nicht** — nur der Befund zu den zwölf Produkttexten.
+**Keine Rekonstruktion der Anzeige.** **Ihrem „bogus"/„scam" wird weder
+zugestimmt noch widersprochen** — es geht unverändert an den Owner. **Foto
+nicht geöffnet, kein Nachweis verlangt.** **Keine andere Frist als dreißig
+Tage genannt.** **Keine Angaben aus dem Bestelldatensatz**, weil Shopify
+nicht abfragbar ist. **Nichts aus ihrem Hund gefolgert.** Kein
+Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 
