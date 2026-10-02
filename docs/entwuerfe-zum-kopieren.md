@@ -2370,6 +2370,8 @@ keine Rücksendeadresse, keine Frist. Nur Weitergabe und eine direkte Antwort.
 ---
 
 ## #7034 — sarahc300@gmail.com — „guaranteed indestructible toy"  
+
+**⚠️ ERSETZT durch den Entwurf vom 02.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff
@@ -13308,6 +13310,8 @@ Bestellung. Kein Eskalationsmarker im Text.
 
 ## #7148 — Thomas Hibbard (tchibb@gmail.com) — US, Erstkontakt, „not built to last"
 
+**⚠️ ERSETZT durch den Entwurf vom 02.10. — nur den neuesten senden.**
+
 **Betreff:** Re: Got 2 blushes labs and did not last a week
 
 > Dear Thomas,
@@ -19330,6 +19334,8 @@ schreiben.** **Kein Versuch, ihn von seinem Zahlungsdienstleister
 abzubringen.** Kein Eskalationsmarker im Text.
 
 ## #7034 — Sarah Checksfield (sarahc300@gmail.com) — GB, **zweiter Kontakt, zweiter Artikel ungeöffnet, lehnt einen Gutschein ab**  
+
+**⚠️ ERSETZT durch den Entwurf vom 02.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Destroyed in seconds
@@ -22652,6 +22658,8 @@ Datei. Nur diesen senden.**
 
 ## #7034 — Sarah Checksfield (`sarahc300@gmail.com`) — **fragt zum zweiten Mal nach dem UNGEÖFFNETEN Artikel; zweite Vorlage betraf wieder den benutzten** · 30.09.
 
+**⚠️ ERSETZT durch den Entwurf vom 02.10. — nur den neuesten senden.**
+
 **Betreff:** `Re: Destroyed in seconds`
 
 > Dear Sarah,
@@ -24894,6 +24902,228 @@ geöffnet, kein Nachweis verlangt.** **Keine Angaben aus dem
 Bestelldatensatz.** **Andere Kundenvorgänge werden NICHT benannt** — die
 frühere, nicht gehaltene Zusage wird nur als Tatsache erwähnt, ohne Namen und ohne
 Beschreibung eines fremden Vorgangs. **Nichts aus seinem Hund gefolgert.**
+Kein Eskalationsmarker im Text.
+
+## #7034 — Sarah Checksfield (`sarahc300@gmail.com`) — 🔴 **dritte Bitte um dieselbe Auskunft; sie hält einen UNGEÖFFNETEN Artikel** · 02.10.
+
+**✅ GEPRÜFT am 02.10.: Dies ist die geltende Fassung für diese Kundin.**
+
+**⚠️ Zwei Threads, eine Bestellung.** Sie hat am 02.10. einen **neuen Thread**
+(`Refund Please`) eröffnet und darin ihre Nachricht vom 30.09. **wörtlich
+wiederholt**, weil der alte Thread (`Destroyed in seconds`) unbeantwortet
+blieb. **Antwort im neuen Thread `Refund Please`.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue Anmeldung.**
+
+**Der Verlauf:**
+
+| Datum | Was |
+|---|---|
+| 13.09. | Erstkontakt, #7034, der Fuchs wurde zerstört — sie bittet um Erstattung **oder Ersatz** |
+| 15.09. | Kauschaden-Vorlage |
+| **26.09.** | **sie bittet um volle Erstattung für den ZWEITEN, ungeöffneten Artikel** und schreibt: *„I still hope you can honour your promise to replace if destroyed."* |
+| 29.09. 21:15 | **zweite Kauschaden-Vorlage, angeredet „Dear Customer"** — sie hatte zweimal mit Namen unterschrieben |
+| 30.09. 12:53 | **dieselbe Bitte erneut — unbeantwortet** |
+| **02.10. 14:21** | **dieselbe Bitte, Wort für Wort, in einem neuen Thread** |
+
+**🟥 Beide Vorlagenbriefe handeln vom BENUTZTEN Spielzeug. Ihre Frage betrifft
+den UNGEÖFFNETEN zweiten Artikel. Dreimal gestellt, nie beantwortet.**
+
+**🟥 Zur Gutschrift: sie schreibt „I have no use for a voucher against future
+purchases" — das steht bereits in ihrer Mail vom 26.09., also BEVOR
+irgendetwas geantwortet wurde. In diesem Postfach ist ihr kein Gutschein
+angeboten worden. Der Entwurf behauptet weder, dass einer angeboten wurde,
+noch dass keiner angeboten wurde** — er nimmt nur ihre Festlegung auf die
+ursprüngliche Zahlungsart zur Kenntnis.
+
+**Betreff:** `Re: Refund Please`
+
+> Dear Sarah,
+>
+> **You have asked the same question three times — on 26 September, on
+> 30 September and again today — and it has not been answered once.** **I am
+> answering it now.**
+>
+> **Your question is about the second toy, the one still in its original
+> packaging, unopened.** **Both replies you received were about the toy your
+> staffie destroyed.** **They did not address the unopened one at all, and
+> the second one was addressed to "Dear Customer" after you had signed your
+> name twice.** **I am sorry. That should not have happened, and no third
+> copy is coming from me.**
+>
+> **Here is the honest answer to "please let me have details how I go about
+> this".** **There is no returns address I can give you.** **Not one I am
+> withholding — one that does not exist on our side at the moment.** **So
+> please do not post the unopened toy anywhere, and please do not pay
+> postage expecting it to come back to you.** **I would rather tell you that
+> than let you spend money on a parcel that has nowhere to go.**
+>
+> **On the refund itself: I cannot approve one from this desk, and I am not
+> going to refuse you.** **That decision belongs to the shop owner, and your
+> request goes to him today in your own words — including that you want it to
+> your original payment method and not as credit against a future
+> purchase.** **I am not going to give you a date, because I cannot stand
+> behind one.**
+>
+> **What I am not going to do is tell you the guarantee covers the unopened
+> toy, or tell you it does not.** **You have read the thirty-day wording and
+> drawn your own conclusion from it; that is a reasonable thing to do, and it
+> is the owner's to answer, not mine to argue with.**
+>
+> **On the advertising, and on the replacement you say was promised.** **I
+> cannot see the advertising as it was shown to you, so I am not going to
+> tell you what it said, and I am certainly not going to suggest you misread
+> it.** **What I can check, I have:** I have read all twelve of our current
+> product descriptions. **Neither the word "indestructible" nor a promise to
+> replace a destroyed toy appears in any of them.** **That is a statement
+> about those twelve texts and nothing more — it says nothing about what you
+> were shown, and I am not using it against you.** **Your wording goes to the
+> owner exactly as you wrote it.**
+>
+> **I am not going to promise you a replacement either.** **I want to be
+> straight about why: a promise of that kind has been made in writing from
+> this desk before and not kept, and a second one would be worth nothing to
+> you.**
+>
+> **You sent a photograph. I have not opened it, and I am not asking you for
+> anything further.** **Nothing here depends on you proving anything.**
+>
+> **I am not going to make any claim about the toys in either direction, and
+> I am drawing no conclusion from your dog.**
+>
+> **You have been polite through three unanswered emails. That is more
+> patience than this has deserved.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **endlich gegebene Antwort auf ihre dreimal gestellte
+Frage** — es gibt keine Rücksendeadresse; die **offene Einräumung, dass beide
+Vorlagen am ungeöffneten Artikel vorbeigingen** und dass die zweite sie
+„Dear Customer" nannte; die **Weitergabe ihrer Erstattungsforderung im
+Wortlaut, einschließlich ihrer Festlegung auf die ursprüngliche
+Zahlungsart**; die **Warnung, kein Porto auszugeben.** **Keine Erstattung
+zugesagt, kein Termin, keine Absage.** **🟥 KEINE Ersatzzusage — und offen
+gesagt, warum nicht; kein fremder Vorgang benannt.** **Keine dritte
+Kauschaden-Vorlage.** **Keine Garantieentscheidung, in keine Richtung — auch
+nicht für den ungeöffneten Artikel.** **🟥 Zum Gutschein wird NICHTS
+behauptet, in keine Richtung** — weder dass einer angeboten wurde noch dass
+keiner angeboten wurde. **Nicht behauptet, die von ihr erinnerte
+Werbeaussage oder Ersatzzusage existiere nicht** — nur der Befund zu den
+zwölf Produkttexten. **Die Facebook-Anzeige und die Umfrage werden NICHT
+rekonstruiert und nicht erwähnt.** **Ihr „scam"-Satz wird nicht aufgegriffen
+und nicht bewertet.** **Foto nicht geöffnet, kein Nachweis verlangt.**
+**Keine andere Frist als dreißig Tage genannt.** **Keine Angaben aus dem
+Bestelldatensatz.** **Nichts aus ihrem Hund gefolgert.** Kein
+Eskalationsmarker im Text.
+
+## #7148 — Tom Hibbard (`tchibb@gmail.com`) — 🔴 **kündigt eine Meldung beim BBB an; will Ersatz, keine Erstattung** · 02.10.
+
+**✅ GEPRÜFT am 02.10.: Dies ist die geltende Fassung für diesen Kunden. Die frühere Fassung in dieser Datei ist als ersetzt markiert.**
+
+**Er nennt selbst keine Bestellnummer** — er hat am 19.09. ein Foto der
+Quittung geschickt. **Fotos nicht geöffnet.** **Die Bestellung ist hier unter
+#7148 abgelegt, früher über seine Absenderadresse zugeordnet, nicht über die
+Quittung; der Entwurf stellt sie ihm zur Korrektur.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue
+Anmeldung. Beträge und Daten aus dem Datensatz werden deshalb NICHT genannt,
+und das wird ihm gesagt.**
+
+**Eskalationsgrund:** angekündigte Meldung bei einer Verbraucherstelle (BBB)
+**und** bestrittene Werbeaussage. **Beides wird nicht bewertet.**
+
+**Der Verlauf:**
+
+| Datum | Was |
+|---|---|
+| 19.09. 23:58 | *„Got this plushie and the duck less than a week ago and already has been torn apart guess they are not built to last"* — mit Foto der Quittung |
+| 22.09. 11:16 | **Kauschaden-Vorlage, angeredet „Dear Customer"** |
+| **02.10. 13:29** | *„Wow so you are not going to stand by your claim that your pet chew toys are built to last? I believe you are false advertising your product, I guess I will just report you to the BBB then if you are not willing to sen a replacement!"* |
+
+**Betreff:** `Re: Got 2 blushes labs and did not last a week`
+
+> Dear Tom,
+>
+> **You are asking for a replacement, and I am going to keep your message as
+> what it is rather than turning it into something else.**
+>
+> **First, about the BBB.** **That is entirely your decision and nothing I
+> say here is conditional on it.** **I am not going to ask you not to, I am
+> not going to warn you off it, and it will make no difference to how your
+> request is handled.** **I am also not going to tell you whether you are
+> right that this is false advertising** — a support desk ruling on its own
+> employer's advertising would be worth nothing to you, in either direction.
+>
+> **What I can tell you is what is checkable, and I have checked it.**
+> **The phrase you used is ours: "built to last" is a heading on our own
+> Plushies page.** **I am not going to pretend you took it from nowhere.**
+> **What I did not find, in any of our twelve current product descriptions,
+> is the word "indestructible" or a promise to replace a destroyed toy** —
+> and that is a statement about those twelve texts and nothing more. **It
+> says nothing about what you were shown elsewhere, and I am not using it to
+> contradict you.** **Your words go to the shop owner exactly as you wrote
+> them, including the part about false advertising.**
+>
+> **Second, the reply you got on 22 September.** **It was a standard
+> paragraph addressed to "Dear Customer" and it refused you a replacement
+> without your request ever reaching a person who could decide.** **No second
+> copy of it is coming from me.**
+>
+> **Third, what I am actually able to do.** **Your request for a replacement
+> goes to the owner today, in your own words.** **I am not going to promise
+> you one from this desk, and I want to be straight about why: a replacement
+> has been promised in writing from this mailbox before and not delivered,
+> and a second promise like that would be worth nothing to you.** **I am not
+> going to give you a date either.** **I am not going to refuse you — that
+> decision is not mine to make.**
+>
+> **What I am not going to do is tell you the guarantee covers what happened,
+> or tell you it does not.**
+>
+> **One practical thing before you spend money: there is no returns address I
+> can give you.** **Not one I am withholding — one that does not exist on our
+> side at the moment.** **Please do not post anything back.**
+>
+> **You sent photographs, including one of your receipt. I have not opened
+> them, and I am not asking you for anything further.** **Nothing here
+> depends on you proving anything** — please just keep them rather than
+> deleting them.
+>
+> **On your order number: the correspondence here is filed under order
+> #7148, matched to the email address you write from and not to the
+> photograph of your receipt.** **If that is not the right order, tell me the
+> number and it gets corrected.** **I am not going to quote you any amounts
+> or dates from it today — our order system is not readable from this desk at
+> the moment, that is our problem and not yours, and a figure I cannot check
+> is worse than none.**
+>
+> **I am not going to make any claim about the toys in either direction, and
+> I am drawing no conclusion from your dog.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Weitergabe seines Ersatzwunsches und seiner Worte
+zur Werbung im Wortlaut**; die **offene Feststellung, dass die Vorlage vom
+22.09. ihn ohne Entscheidung abgewiesen hat**; die **Bitte um die
+Bestellnummer, ausdrücklich ohne Bedingung**; die **Warnung, kein Porto
+auszugeben.** **🟥 KEINE rechtliche Bewertung zu „false advertising" und
+KEINE Aussage zum BBB, in keine Richtung** — und **nichts daran geknüpft;
+er wird ausdrücklich nicht davon abgehalten.** **🟥 KEINE Ersatzzusage — und
+offen gesagt, warum nicht; kein fremder Vorgang benannt.** **Kein Termin,
+keine Absage, keine Erstattung zugesagt.** **🟥 Sein Ersatzwunsch wird NICHT
+in eine Erstattungsforderung umgedeutet.** **Keine zweite
+Kauschaden-Vorlage.** **Keine Garantieentscheidung.** **Nicht behauptet, die
+von ihm erinnerte Aussage existiere nicht** — nur der Befund zu den zwölf
+Produkttexten. **🟥 Keine Beträge und keine Daten aus dem
+Bestelldatensatz genannt** — der Grund wird ihm gesagt; die Bestellnummer wird
+ihm zur Korrektur gestellt, nicht als Tatsache aufgezwungen. **🟥 „built to
+last" wird ausdrücklich als UNSERE eigene Formulierung benannt** — er wird
+nicht so behandelt, als habe er sie erfunden. **Fotos, auch die Quittung, nicht geöffnet.** **Keine
+Angaben aus dem Bestelldatensatz.** **Nichts aus seinem Hund gefolgert.**
 Kein Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht

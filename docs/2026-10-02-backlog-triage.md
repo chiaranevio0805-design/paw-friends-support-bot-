@@ -570,3 +570,101 @@ antworten, **keinen Betreff mit einer Bestellnummer erfinden.**
 - **🔴 Neu auf der Owner-Liste: die Ersatzzusage in der Werbung.** Ein Kunde
   zitiert sie wörtlich; in den zwölf Produkttexten steht sie nicht. **Wo sie
   steht, ist von hier nicht feststellbar — der Owner weiß es.**
+
+---
+
+## Läufe 10:20 – 15:20 UTC — zwei neue Fälle · 🟥 eine eigene Falschaussage von heute Morgen korrigiert
+
+*(Erst die Datei geschrieben und geprüft — Entwürfe in Zeile 24907 und
+25021 —, dann dieser Eintrag.)*
+
+**Die Läufe um 10:20, 11:20, 12:20, 13:20 und 14:20 waren leer** (Abfrage
+`in:inbox is:unread after:2026/10/02`). **Im Lauf um 15:20 sind zwei neue
+Nachrichten da.**
+
+### 🟥 ZUERST: Korrektur einer Aussage aus dem 09:20-Eintrag
+
+**Dort steht über `panorton61@gmail.com`: „Das ist die erste Kundenaussage,
+die eine ausdrückliche ERSATZZUSAGE aus der Werbung zitiert."**
+
+**Das ist falsch.** **Sarah Checksfield (#7034) hat am 26.09. geschrieben:**
+*„I still hope you can honour your promise to replace if destroyed."*
+**Sieben Tage früher.** **Tom Hibbard beruft sich am 19.09. auf „built to
+last".** **Die Aussage von heute Morgen wird hiermit zurückgenommen** — sie
+entstand, weil nur nach dem jeweiligen Absender gesucht wurde und nicht nach
+dem Thema. **Mindestens drei Kundinnen und Kunden berufen sich auf eine
+Ersatzzusage, nicht einer.**
+
+### 🔴 #7034 — Sarah Checksfield (`sarahc300@gmail.com`) — **Bot/Escalated – Owner Attention**
+
+**Sie hat um 14:21 einen NEUEN Thread (`Refund Please`) eröffnet und darin
+ihre Nachricht vom 30.09. Wort für Wort wiederholt**, weil der alte Thread
+unbeantwortet blieb.
+
+| Datum | Was |
+|---|---|
+| 13.09. | Erstkontakt #7034, der Fuchs zerstört — Erstattung **oder Ersatz** erbeten |
+| 15.09. | Kauschaden-Vorlage |
+| **26.09.** | **Erstattung für den ZWEITEN, UNGEÖFFNETEN Artikel erbeten** + *„I still hope you can honour your promise to replace if destroyed."* |
+| 29.09. 21:15 | **zweite Kauschaden-Vorlage, „Dear Customer"** — sie hatte zweimal mit Namen unterschrieben |
+| 30.09. 12:53 | **dieselbe Bitte erneut — unbeantwortet** |
+| **02.10. 14:21** | **dieselbe Bitte, wörtlich, in einem neuen Thread** |
+
+**🟥 Beide Vorlagen handelten vom BENUTZTEN Spielzeug. Ihre Frage betrifft den
+UNGEÖFFNETEN zweiten Artikel — dreimal gestellt, nie beantwortet.**
+**Damit sind es zwölf Menschen mit ungeöffneter Ware ohne Rückgabeweg.**
+
+**🟥 Zum Gutschein:** ihr Satz *„I have no use for a voucher against future
+purchases"* steht bereits in der Mail vom 26.09., **bevor** irgendetwas
+geantwortet wurde. **In diesem Postfach ist ihr kein Gutschein angeboten
+worden. Der Entwurf behauptet weder, dass einer angeboten wurde, noch dass
+keiner angeboten wurde** — er nimmt nur ihre Festlegung auf die ursprüngliche
+Zahlungsart auf.
+
+**Im Entwurf ausdrücklich NICHT:** keine dritte Vorlage; **keine
+Garantieentscheidung, auch nicht für den ungeöffneten Artikel**; **keine
+Ersatzzusage** (mit offener Begründung); nicht behauptet, die von ihr
+erinnerte Werbeaussage oder Ersatzzusage existiere nicht; **die
+Facebook-Anzeige und die Umfrage werden nicht rekonstruiert und nicht
+erwähnt**; ihr „scam"-Satz wird nicht bewertet; Foto nicht geöffnet; keine
+Angaben aus dem Bestelldatensatz. **Drei frühere Fassungen als ERSETZT
+markiert.**
+
+### 🔴 #7148 — Tom Hibbard (`tchibb@gmail.com`) — **Bot/Escalated – Owner Attention**
+
+> *„Wow so you are not going to stand by your claim that your pet chew toys
+> are built to last? I believe you are false advertising your product, **I
+> guess I will just report you to the BBB** then if you are not willing to
+> sen a replacement!"*
+
+**19.09. Erstkontakt mit Foto der Quittung → 22.09. Kauschaden-Vorlage,
+„Dear Customer" → heute dies.**
+
+**Eskalationsgrund:** angekündigte Meldung bei einer Verbraucherstelle **und**
+bestrittene Werbeaussage.
+
+**Im Entwurf ausdrücklich:** **keine rechtliche Bewertung zu „false
+advertising" und keine Aussage zum BBB, in keine Richtung — und er wird
+ausdrücklich nicht davon abgehalten; nichts ist daran geknüpft.**
+**🟥 „built to last" wird als UNSERE eigene Formulierung benannt** — es ist
+eine Überschrift auf der Plushies-Seite, und er wird nicht so behandelt, als
+habe er sie erfunden. **Keine Ersatzzusage**, mit offener Begründung.
+**Keine Beträge und keine Daten aus dem Bestelldatensatz** — der Grund wird
+ihm gesagt. **Die Bestellnummer #7148 wird ihm zur Korrektur gestellt**, mit
+dem Hinweis, dass sie über seine Absenderadresse zugeordnet wurde und nicht
+über die Quittung. **Fotos, auch die Quittung, nicht geöffnet.** **Eine
+frühere Fassung als ERSETZT markiert.**
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 453.** **Geltende Entwürfe: 349.**
+- **Kundenfälle am 02.10.: fünf** (#7324, #5128, `panorton61`, #7034, #7148).
+- **Menschen mit ungeöffneter Ware ohne Rückgabeweg: zwölf** (neu: #7034).
+- **🔴 Owner: mindestens drei Kundinnen und Kunden berufen sich auf eine
+  ZUSAGE, ein zerstörtes Spielzeug zu ersetzen** (#7034 am 26.09.,
+  `panorton61` und #7148). **In den zwölf Produkttexten steht sie nicht. Wo
+  sie steht, ist von hier nicht feststellbar.**
+- **🔴 Die Kauschaden-Vorlage hat jetzt bei #7034 dreimal dieselbe Frage zu
+  einem ungeöffneten Artikel verfehlt.**
