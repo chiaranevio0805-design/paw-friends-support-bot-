@@ -25126,6 +25126,166 @@ nicht so behandelt, als habe er sie erfunden. **Fotos, auch die Quittung, nicht 
 Angaben aus dem Bestelldatensatz.** **Nichts aus seinem Hund gefolgert.**
 Kein Eskalationsmarker im Text.
 
+## #8764 — Craig Wren (`craigwren72@gmail.com`) — 🔴 **formelle Stornierung mit Erstattungsforderung über £54,95; Ware noch nicht erhalten** · 02.10.
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue
+Anmeldung. `orderCancel` und `refundCreate` sind ohnehin gesperrt. **Der
+Entwurf behauptet deshalb NICHT, die Bestellung sei storniert — und auch
+nicht, sie sei es nicht.**
+
+**Eskalationsgrund:** förmlich erklärter Widerruf („formal notice") mit
+Fristsetzung („by return"). **Keine rechtliche Bewertung im Entwurf, in keine
+Richtung.**
+
+**🟦 Was in seiner eigenen Mail steht und deshalb benannt werden darf:** die
+mitzitierte Shopify-Versandmeldung vom **28.09.**, *„Some items in your order
+are on the way"*, mit einer **Yun-Express-Nummer** und fünf Positionen. **Das
+ist sein eigener Beleg, nicht der Bestelldatensatz.** **Die Nummer wird NICHT
+als Zustellnachweis benutzt und nicht ausgelesen.**
+
+**🟦 Zur Herkunft der Ware:** er schreibt, er sei informiert worden, dass die
+Ware nicht aus UK-Bestand kommt, sondern aus dem Ausland versandt wird.
+**Das wird ihm nicht bestritten und nicht beschönigt** — und es wird auch
+nichts darüber hinaus ausgebreitet, wonach er nicht gefragt hat.
+
+**Betreff:** `Re: A shipment from order #8764 is on the way`
+
+> Dear Craig,
+>
+> Thank you for writing, and for putting it as plainly as you did.
+>
+> **I am going to be equally plain about what I can and cannot do, because a
+> polite non-answer would waste your time.**
+>
+> **I cannot cancel the order from this desk and I cannot release a refund
+> from it.** **Neither is something I am able to execute.** **So I am not
+> going to write "your order has been cancelled" or "your refund has been
+> processed" — you would have no way of knowing whether either had actually
+> happened, and in this mailbox such a sentence has gone out before when
+> nothing had.**
+>
+> **What I am doing is this: your cancellation notice and your request for a
+> full refund of £54.95 to your original payment method go to the shop owner
+> today, in your own words, as a formal cancellation.** **The decision and
+> the execution are his.** **I am not going to give you a date, because I
+> cannot stand behind one.**
+>
+> **I am not going to tell you whether you are entitled to cancel.** **That
+> is a legal question and an answer from a support desk would be worth
+> nothing to you, in either direction.** **Your notice is passed on as the
+> formal notice you intended it to be, not as a query.**
+>
+> **On where the goods come from: I am not going to contradict what you were
+> told.** **I am also not going to quote you a figure or a date from our
+> order system today — it is not readable from this desk at the moment, that
+> is our problem and not yours, and a number I cannot check is worse than
+> none.** **The £54.95 is your figure and I am not going to adjust it or
+> argue with it.**
+>
+> **One thing from your own email that the owner will need, and that you
+> should know I have seen:** the despatch notice you quoted back is dated
+> 28 September and says some items were on their way, with a courier
+> reference. **I am not going to read that reference as proof that anything
+> reached you, and I am not going to send you to chase a courier.** **You
+> have said the goods have not arrived, and that is what gets passed on.**
+>
+> **If a parcel does turn up after this, do not post it back on your own
+> initiative.** **There is no returns address I can give you — not one I am
+> withholding, one that does not exist on our side at the moment.** **Please
+> do not pay postage expecting to be reimbursed.** **Tell us instead and it
+> goes over with the rest.**
+>
+> **I am not going to ask you for card or bank details, and you should not
+> send any by email.** **Nothing here needs them.**
+>
+> I am sorry you had to write a formal letter to get this far.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Weitergabe seiner Stornierung und seiner Forderung
+über £54,95 im Wortlaut und als förmliche Erklärung**; die ausdrückliche
+Nennung dessen, was von hier **nicht** ausführbar ist; die **Warnung, kein
+Porto auszugeben**; die **Bitte, keine Bank- oder Kartendaten zu schicken.**
+**🟥 NICHT behauptet, die Bestellung sei storniert — und nicht, sie sei es
+nicht.** **🟥 NICHT behauptet, eine Erstattung sei veranlasst**, und offen
+gesagt, dass genau dieser Satz aus diesem Postfach schon einmal
+unzutreffend hinausging. **Kein Termin.** **🟥 KEINE rechtliche Bewertung
+seines Widerrufsrechts, in keine Richtung.** **🟥 Die Trackingnummer wird
+nicht ausgelesen und NICHT als Zustellnachweis benutzt; kein Verweis an den
+Zusteller.** **Nicht behauptet, die Ware sei versandt oder nicht versandt** —
+nur seine eigene Versandmeldung wird als seine benannt. **🟥 Seine Angabe zur
+Herkunft der Ware wird nicht bestritten und nicht beschönigt**, und es wird
+nichts darüber hinaus erzählt. **Sein Betrag wird nicht gegen den Datensatz
+geprüft oder korrigiert.** **Keine Angaben aus dem Bestelldatensatz.** Kein
+Eskalationsmarker im Text.
+
+## #8763 — `cvander4@frontiernet.net` — **Bot/Needs Approval** · einfache Standortfrage, die von hier nicht beantwortbar ist · 02.10.
+
+**Erstkontakt, vier Worte: *„Where is my order?"*** Bestellnummer im Betreff:
+**#8763**. **Kein Name genannt — die Anrede bleibt neutral, es wird kein
+Vorname geraten.**
+
+**🟥 Das ist der erste Fall heute, der KEINEN Eskalationsgrund trägt** — keine
+bestrittene Werbeaussage, keine Erstattungsforderung, keine Sicherheitsfrage.
+**Er ist trotzdem nicht beantwortbar: Shopify verlangt seit 01.10. 17:20 UTC
+eine neue Anmeldung, also ist der Versandstatus von hier nicht lesbar.**
+**Deshalb Needs Approval und nicht Draft Ready: der Owner muss den Status
+selbst einsetzen, bevor dieser Brief hinausgeht.**
+
+**⚠️ ANWEISUNG AN DEN OWNER: Dieser Entwurf ist unvollständig, mit Absicht.**
+**Bitte den Versandstatus im Admin nachsehen und die eine Lücke füllen — oder,
+wenn nichts versandt ist, das genauso schreiben.** **Nicht so senden, wenn
+der Status greifbar ist: eine Nichtantwort auf eine Statusfrage wäre hier das
+schlechtere Ergebnis.**
+
+**Betreff:** `Re: order #8763`
+
+> Hello,
+>
+> Thank you for writing, and I am sorry this is not the short answer it
+> should be.
+>
+> **I cannot read our order system from this desk at the moment.** **That is
+> our problem and not yours, and it is the reason you are not getting the
+> despatch status in this reply.** **I am not going to guess at it, and I am
+> not going to quote you a tracking status I cannot see.**
+>
+> **What I am not doing is telling you we cannot find your order.** **Your
+> order number is #8763 and it is in front of the shop owner today, with your
+> question, for the actual status.**
+>
+> **[OWNER: hier den tatsächlichen Stand einsetzen — versandt am …, oder noch
+> nicht versandt. Wenn nichts versandt ist, das ausdrücklich schreiben.]**
+>
+> **I am not going to send you to chase a courier, and I am not going to read
+> a tracking reference to you as if it proved delivery.**
+>
+> **If the parcel has not arrived and you would rather have your money back
+> than keep waiting, say so and that goes over as a refund request in your
+> own words.** **I cannot approve one from this desk and I am not going to
+> refuse you — that decision is the owner's.** **I am not assuming that is
+> what you want; you asked where your order is, and that is the question
+> being answered.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Auskunft, warum der Status fehlt**; die
+**Weitergabe seiner Frage an den Owner**; das **Angebot**, eine
+Erstattungsforderung weiterzugeben, falls er eine stellt. **Keine Erstattung
+zugesagt, kein Termin, keine Absage.** **🟥 NICHT gesagt, die Bestellung sei
+nicht auffindbar** — sie wurde nicht gesucht, und das steht so im Brief.
+**🟥 NICHT behauptet, die Bestellung sei versandt — und nicht, sie sei es
+nicht.** **Kein Trackingstatus, keine Trackingnummer, kein Verweis an den
+Zusteller.** **🟥 Seine Frage wird NICHT in eine Erstattungsforderung
+umgedeutet.** **Kein Vorname geraten.** **Keine Angaben aus dem
+Bestelldatensatz.** **Keine Zusage, selbst nachzufassen.** Kein
+Eskalationsmarker im Text — **aber eine ausdrückliche Lücke für den Owner,
+die vor dem Senden zu füllen ist.**
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

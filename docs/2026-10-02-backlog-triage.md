@@ -668,3 +668,97 @@ frühere Fassung als ERSETZT markiert.**
   sie steht, ist von hier nicht feststellbar.**
 - **🔴 Die Kauschaden-Vorlage hat jetzt bei #7034 dreimal dieselbe Frage zu
   einem ungeöffneten Artikel verfehlt.**
+
+---
+
+## Läufe 16:20 – 19:20 UTC — zwei neue Kundenfälle · 🟥 eine Fremdmail, die kein Kundenanliegen ist
+
+*(Erst die Datei geschrieben und geprüft — Entwürfe in Zeile 25129 und
+25224 —, dann dieser Eintrag.)*
+
+**Drei neue Nachrichten. Für alle drei Absender wurde nach älteren Threads
+gesucht — es gibt keine.**
+
+### 🔴 #8764 — Craig Wren (`craigwren72@gmail.com`), 02.10. 18:48 UTC — **Bot/Escalated – Owner Attention**
+
+> *„I am writing to cancel my order 8764 placed on 23/09/2026 for £54.95. I
+> placed the order through your UK website and have subsequently been
+> informed that the goods are not available from your UK stock and are
+> instead being shipped from overseas. I have not yet received the goods and
+> no longer wish to proceed… Please treat this email as **formal notice**
+> that I am cancelling the order and require a full refund of £54.95 to my
+> original payment method. Please confirm cancellation and refund **by
+> return**."*
+
+**Eskalationsgrund:** förmlich erklärter Widerruf mit Fristsetzung.
+
+**🟥 Der Entwurf behauptet NICHT, die Bestellung sei storniert — und nicht,
+sie sei es nicht.** `orderCancel` und `refundCreate` sind gesperrt, Shopify
+verlangt eine neue Anmeldung. **Er sagt ihm ausdrücklich, dass genau der Satz
+„your refund has been processed" aus diesem Postfach schon einmal hinausging,
+ohne dass etwas geschah** — deshalb kommt er hier nicht.
+
+**🟦 In seiner eigenen Mail mitzitiert:** die Shopify-Versandmeldung vom
+**28.09.**, *„Some items in your order are on the way"*, mit
+**Yun-Express-Nummer** und fünf Positionen (vier Plushies, eine Fellbürste).
+**Das ist sein Beleg, nicht der Datensatz.** **Die Nummer wird nicht
+ausgelesen und NICHT als Zustellnachweis benutzt; kein Verweis an den
+Zusteller.**
+
+**🟦 Zur Herkunft der Ware:** er schreibt, ihm sei gesagt worden, die Ware
+komme nicht aus UK-Bestand, sondern werde aus dem Ausland versandt. **Der
+Entwurf bestreitet das nicht und beschönigt es nicht** — und erzählt auch
+nichts darüber hinaus, wonach er nicht gefragt hat. **Das ist die
+Herkunftsregel wie vorgesehen: ehrlich, nicht ausgebreitet, keine
+Verschleierung.**
+
+**Weiter ausdrücklich NICHT im Entwurf:** **keine rechtliche Bewertung seines
+Widerrufsrechts, in keine Richtung**; **sein Betrag £54,95 wird nicht gegen
+den Datensatz geprüft und nicht korrigiert**; keine Bank- oder Kartendaten
+erbeten, ausdrücklich davor gewarnt; kein Termin. **Im Entwurf DOCH:** die
+Warnung, kein Porto auszugeben, falls doch noch ein Paket kommt.
+
+### 🟦 #8763 — `cvander4@frontiernet.net`, 02.10. 16:21 UTC — **Bot/Needs Approval**
+
+> *„Where is my order?"* — Betreff `order #8763`, **kein Name, vier Worte.**
+
+**🟥 Der erste Fall seit Tagen ohne jeden Eskalationsgrund** — und trotzdem
+nicht beantwortbar, **weil der Versandstatus ohne Shopify nicht lesbar ist.**
+
+**Deshalb Needs Approval und nicht Draft Ready: der Entwurf trägt eine
+ausdrückliche Lücke**, die der Owner aus dem Admin füllen muss
+(`[OWNER: hier den tatsächlichen Stand einsetzen …]`). **Er ist bewusst
+unvollständig, statt einen Status zu erfinden.** **Nicht gesagt, die
+Bestellung sei nicht auffindbar** — sie wurde nicht gesucht. **Kein
+Trackingstatus, keine Nummer, kein Verweis an den Zusteller. Kein Vorname
+geraten. Seine Frage wird nicht in eine Erstattungsforderung umgedeutet** —
+es wird nur angeboten, eine weiterzugeben, falls er eine stellt.
+
+### 🟥 `y81630904@gmail.com`, 02.10. 16:46 UTC — **KEIN Kundenanliegen, nicht beantwortet**
+
+**Betreff:** *„Support Pawfriends Uk — a small win worth 10 minutes"*
+**Inhalt, vollständig:** *„Soll ich es jetzt machen?"*
+
+**Keine Bestellnummer, kein Anliegen, keine Vorgeschichte in diesem Postfach,
+und die Nachricht fragt nach einer Freigabe für etwas, das nirgends benannt
+ist.** **Das ist kein Kundenkontakt.** **Es wird nicht geantwortet, nichts
+zugesagt, nichts bestätigt und nichts „gemacht".** **Keine Shop-, Bestell-
+oder Beschwerdedaten gehen an diese Adresse.**
+
+**Es wird ausdrücklich NICHT entschieden, ob das Werbung, ein Irrläufer oder
+ein Täuschungsversuch ist** — das ist von hier nicht feststellbar. **Nur der
+Befund und die Nichtbehandlung werden festgehalten, zur Kenntnis des Owners.**
+**Dritter Fall dieser Art nach dem Phishing-Link vom 06.09. und der
+Vorwand-Mail von `shopifystoreregulatory.center@gmail.com`.**
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 455.** **Geltende Entwürfe: 351.**
+- **Kundenfälle am 02.10.: sieben** (#7324, #5128, `panorton61`, #7034,
+  #7148, #8764, #8763). **Dazu eine Fremdmail ohne Kundenanliegen.**
+- **Erstmals seit Tagen ein Fall in Needs Approval statt Escalated: #8763.**
+- **🔴 Owner, dritter Punkt mit eigener Dringlichkeit:** **#8764 hat
+  förmlich widerrufen und eine Frist gesetzt.** Von hier ist weder
+  Stornierung noch Erstattung ausführbar. **Das muss er selbst tun.**
