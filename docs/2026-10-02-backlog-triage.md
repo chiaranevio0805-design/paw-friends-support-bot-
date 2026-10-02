@@ -80,3 +80,16 @@ gesperrt ist.
   Fälle, die ausdrücklich als eskaliert markiert sind.** Am 01.10. hat sie
   binnen vier Minuten eine Sicherheitsmeldung (#7324) und einen seit Juli
   offenen Rückgabefall mit laufendem Bankverfahren (#2095) beantwortet.
+
+---
+
+## Lauf 01:20 UTC — nichts Neues
+
+**Posteingang geprüft: keine Nachricht neuer als #7324 von 00:01 UTC**, und
+die ist bearbeitet.
+
+**Shopify weiterhin nicht abfragbar.** **Keine Erstattung ausgelöst, keine
+Stornierung, keine Bestelländerung, nichts versendet.**
+
+**Stand unverändert: 445 Entwürfe, ein Kundenfall heute, keiner der Entwürfe
+in Gmail.**
