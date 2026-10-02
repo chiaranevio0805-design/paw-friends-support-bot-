@@ -144,3 +144,65 @@ wiederholt**; keine Angaben aus dem Bestelldatensatz.
 
 - **Entwürfe in der Datei: 446.**
 - **Mehrfachfassungen abgearbeitet: 15.** **Offen: 80.**
+
+---
+
+## Lauf 03:20 UTC — nichts Neues im Posteingang · #7114 abgearbeitet
+
+*(Erst die Datei geschrieben und geprüft — Entwurf in Zeile 24281 —, dann
+dieser Eintrag.)*
+
+**Posteingang: nichts neuer als #7324 von 00:01 UTC.**
+
+### 🔴 #7114 — Geoffrey Russell (`geoffruss123@gmail.com`) — **Bot/Escalated – Owner Attention**
+
+**Drei Threads, vier Entwurfsfassungen. Alle vier als ersetzt markiert.**
+
+**🔴 Der Befund, der sofort zählt — seine Nachricht vom 16.09.:**
+
+> *„I paid 30 dollars or more for a toy that claimed to hold up but doesn't.
+> ****I have another order I'll be returning.**** Thanks for the reply and
+> better understanding of your policy. I must have gotten your product mixed
+> up with another one that claims if a pet can tear it apart, they'll replace
+> it."*
+
+**Er will eine ZWEITE Bestellung zurückschicken. Es gibt keine
+Rücksendeadresse. Niemand hat ihm das gesagt.** Heute sind das **sechzehn
+Tage.** **Wenn er inzwischen etwas verschickt hat, ist es weg.**
+
+**Was er stattdessen bekam:**
+
+| Datum | Was |
+|---|---|
+| 16.09. 10:19 | **Vorlage 1** („Dear Geoffery") |
+| **18.09. 10:35 / 10:37 / 10:39** | **Vorlagen 2, 3 und 4 — dieselbe Absage dreimal binnen vier Minuten, je einmal pro Thread** |
+
+**Vier gleichlautende Absagebriefe. Keiner erwähnt die angekündigte
+Rücksendung.**
+
+**Im Entwurf ausdrücklich:** die **dringende Warnung, nichts zu verschicken**,
+mit der offenen Einräumung der sechzehn Tage; die Nennung der vier
+Vorlagenbriefe; das Angebot, eine Erstattungsforderung weiterzugeben, sobald
+er eine stellt.
+
+**Im Entwurf ausdrücklich NICHT:**
+- **seine Nachricht wird NICHT als Erstattungsforderung gedeutet** — er hat
+  keine in diesen Worten gestellt
+- **🟥 seiner eigenen Vermutung, er habe unser Produkt mit einem anderen
+  verwechselt, wird WEDER zugestimmt NOCH widersprochen.** Ihm zu sagen, er
+  habe sich geirrt, wäre bequem und nicht belegbar; ihm zu sagen, er habe
+  recht, ebenso. **Nur der Befund zu den zwölf Produkttexten.**
+- **seine Betragsangabe „30 dollars or more" wird nicht geprüft und nicht
+  korrigiert** — Shopify ist gesperrt, und der Grund steht im Brief
+- kein Trackingstatus, kein Verweis an den Zusteller, keine fünfte Vorlage
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 447.**
+- **Mehrfachfassungen abgearbeitet: 16.** **Offen: 79.**
+- **🔴 Neu auf der Owner-Liste:** **#7114 ist der zwölfte Mensch, der Ware
+  zurückschicken will oder hält, ohne dass es einen Rückgabeweg gibt** — und
+  der erste, bei dem die Absicht seit über zwei Wochen unbeantwortet im
+  Postfach steht.
