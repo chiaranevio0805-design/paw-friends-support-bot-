@@ -309,6 +309,8 @@ am Anspruch vorbeiging: das steht in der Rüge und lässt sich nicht bestreiten.
 ---
 
 ## #7179 — keithhyype@gmail.com — Füllwatte gefressen + zwei ungeöffnete Teile  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
@@ -360,6 +362,8 @@ Differenz ist nicht Sache des Supports.
 
 ## #7101 — camangherpich@gmail.com — Werbescreenshots, PayPal, öffentliche Bewertung
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
 bestehenden Thread, Betreff `Re: A shipment from order #7101 is on the way`.
 
@@ -401,6 +405,8 @@ Shop-Seite bereits archiviert hat, nur den nächsten Schritt auslösen.
 
 ## #7271 — rosalindwelch2@gmail.com — „Your ad was very deceptive"
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
 bestehenden Thread, Betreff `Re: Order`.
 
@@ -433,6 +439,8 @@ genau die Wiederholung hat die Eskalation ausgelöst.
 ---
 
 ## #7525 — carolgarvey2@hotmail.com — Sendungsnummer, die ihr nie genannt wurde  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
@@ -470,6 +478,8 @@ Kein Verweis an den Zusteller.
 ---
 
 ## #7060 — fpierce1967@gmail.com — „indestructible or you get a refund"  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
@@ -801,6 +811,8 @@ direkte Antwort. **Kein Regel-2-Anteil** — alle drei Teile sind zerstört.
 
 ## #7190 — steve.solley@hotmail.co.uk — formelle Stornierung, 48-Stunden-Frist
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning", „tomorrow", „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
 bestehenden Thread, Betreff `Re: 7190`.
 **Zeitkritisch: seine Frist endet am 13.09. 19:32, die von ihm berechnete
@@ -877,6 +889,8 @@ gerissen), keine Erstattung, kein Verweis an den Zusteller.
 
 ## #7383 — jojinks12@icloud.com — „sold as indestructible"
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Neu geschrieben am 12.09., nie als Gmail-Entwurf vorhanden.** Antwort im
 bestehenden Thread, Betreff `Re: Return`.
 
@@ -938,6 +952,8 @@ und eine Korrektur würde nur den Ton verderben.
 ---
 
 ## #8081 — vad_shooter@yahoo.com — APO-Anschrift, Bestellung seit 14 Tagen blockiert  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning", „yesterday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09., nie als Gmail-Entwurf vorhanden.** Antwort im
@@ -1020,6 +1036,8 @@ führt 30,66 £, und die Differenz ist nicht Sache des Supports.
 
 ## #5407 — nicolettedawn@msn.com — dreissig Tage unterwegs
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Neu geschrieben am 12.09., nie als Gmail-Entwurf vorhanden.** Antwort im
 bestehenden Thread, Betreff `Re: A shipment from order #5407 is on the way`.
 **Die 7–21-Tage-Formel ist hier um neun Tage überschritten und darf unter
@@ -1091,6 +1109,8 @@ als Owner-Entscheidung benannt. Kein Zustelltermin, keine 7–21-Tage-Formel.
 
 ## #4726 — maz.penniall@gmail.com — „not as described, promised or advertised"
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Neu geschrieben am 12.09., nie als Gmail-Entwurf vorhanden.** Antwort im
 bestehenden Thread, Betreff `Re: 4726 order`.
 **Vor dem Senden im Admin prüfen, welche der vier Positionen tatsächlich
@@ -1136,6 +1156,8 @@ Rücksendeadresse, keine Frist, keine 7–21-Tage-Formel.
 ---
 
 ## #4745 — skinnyman76@hotmail.co.uk — vier Minuten nach der Vorlage
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „on wednesday", „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Neu geschrieben am 12.09., nie als Gmail-Entwurf vorhanden.** Antwort im
 bestehenden Thread, Betreff `Re: my order`.
@@ -1209,6 +1231,8 @@ Bestreiten wäre unwahr.
 ---
 
 ## #7316 — brettamerriman@gmail.com — „Why would I return it before it got used?"  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
@@ -1238,6 +1262,8 @@ die Weitergabe. Der Policy-Einwand wird **eingeräumt**, weil er zutrifft.
 ---
 
 ## #6286 — debgould57@me.com — vierter Kontakt, ACCC bereits eingeschaltet
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this week"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
 `Re: Order #6286 Destroyed toys`.
@@ -1272,6 +1298,8 @@ der Bot bringt ein laufendes Behördenverfahren nicht von sich aus auf.
 ---
 
 ## #7165 — andrea.g.dentel@gmail.com — „too dangerous for my dog"
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this afternoon"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
 `Re: Return Request - order 7165`.
@@ -1312,6 +1340,8 @@ Fall beurteilt wird.**
 ---
 
 ## #6781 — carliebanfield1975@gmail.com — „Not what you say in your adverts!"  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this afternoon", „this week"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
@@ -1352,6 +1382,8 @@ zum zweiten Teil entscheidet über Regel 2.
 ---
 
 ## #7246 — arabrabtnarg@gmail.com — „How do i get refunded?"  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this afternoon", „this week"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread.
@@ -1458,6 +1490,8 @@ sind die Weitergabe und eine direkte Antwort.
 ---
 
 ## #7627 — charlotteamatthews88@gmail.com — die übergangene Erstattungsbitte  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this afternoon", „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
@@ -1572,6 +1606,8 @@ Rückfrage zum Affen entscheidet über Regel 2.
 
 ## #6891 — mbpa@me.com — „not a return policy"
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this evening", „this week"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
 `Re: Your toys are not what you advertise - ORDER 6891`.
 **Er verlangt kein Geld. Keine Absage, kein Angebot, keine
@@ -1609,6 +1645,8 @@ belegt.
 ---
 
 ## #7506 — adamdo19@gmail.com — 30 % angeboten, 50 % gegengefordert
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this evening", „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
 `Re: Return policy`.
@@ -1649,6 +1687,8 @@ werden — dazu ist im Sortiment nachzusehen.
 ---
 
 ## #6528 — thomashjohnson23@gmail.com — fünfter Kontakt, drei ungeöffnete Teile  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „on thursday", „on wednesday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
@@ -1688,6 +1728,8 @@ offen benannt.
 
 ## #6420 — firebc291@yahoo.com — als zugestellt gescannt, nie erhalten
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this evening"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
 `Re: Order #6420`.
 **Er darf NICHT an den Zusteller verwiesen werden — er hat es selbst versucht
@@ -1723,6 +1765,8 @@ Aussage darüber, wo das Paket ist, kein Verweis an den Zusteller.**
 ---
 
 ## #5032 — acmurgatroyd1@gmail.com — alle drei, eine Stunde, keine Forderung  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this week"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
@@ -1756,6 +1800,8 @@ kein Ersatz, kein Angebot, keine Rücksendeadresse.
 ---
 
 ## #7292 — doulatracy@gmail.com — Garantietext gegen Vorlage  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „on friday", „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
@@ -1855,6 +1901,8 @@ belegt.
 ---
 
 ## #7874 — patriciabutler27@gmail.com — „money back or sent my order"
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread.
 
@@ -1990,6 +2038,8 @@ wenn sie erneut schreibt. Keine Erstattungszusage, kein Zustelltermin, keine
 ---
 
 ## #8009 — vonnie1982@hotmail.co.uk — der Termin ist vorbei  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff `Re: #8009`.
@@ -2065,6 +2115,8 @@ ausgeschlossen ist.
 ---
 
 ## #6835 — tesa.allen@hotmail.co.uk — „so called indestructible", 29,95 £ gefordert  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff
@@ -2147,6 +2199,8 @@ wird **nicht ausgelegt**.
 
 ## #7223 — cdech86@gmail.com — „You guys lie"
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff
 `Re: A shipment from order #7223 is on the way`.
 **Zweite Vorlage heute an ihn raus — keine dritte.**
@@ -2180,6 +2234,8 @@ belegt ist.**
 ---
 
 ## #7179 — keithhyype@gmail.com — ZWEITE FASSUNG, nach der zweiten Absage  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 13.09.** Ersetzt die Fassung vom 11.09., die nie gesendet
@@ -2222,6 +2278,8 @@ nachgeholt.
 ---
 
 ## #6877 — am7.pdx@gmail.com — FTC, Meta, 48-Stunden-Frist
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff
 `Re: Refund Request: Order #6877`.
@@ -2541,6 +2599,8 @@ Zusteller.
 
 ## #6833 — kwendland123@gmail.com — „How do I return these and get a refund???"
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this evening"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Neu geschrieben am 13.09.** Antwort im bestehenden Thread.
 **Sie fragt nach dem Verfahren. Es gibt keins — das wird eingeräumt, nicht
 umschifft. Beide Teile sind zerstört, also keine Regel-2-Rückfrage.**
@@ -2632,6 +2692,8 @@ ersetzen keine tierärztliche Einschätzung.
 
 ## #6882 — chris@htconcepts.com.au — ZWEITE FASSUNG, nach der Absage vom 13.09.
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „on saturday", „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Neu geschrieben am 13.09., 20:20.** Ersetzt die Fassung vom 12.09.
 **⚠️ Er hat am 13.09. 19:59 die Kauschaden-Vorlage bekommen. Die alte Fassung
 setzt das nicht voraus und darf nicht mehr gesendet werden.**
@@ -2665,6 +2727,8 @@ Die 58,56 AUD werden nicht aufgegriffen (Shopify: 30,66 £).
 
 ## #7316 — brettamerriman@gmail.com — ZWEITE FASSUNG, nach der zweiten Absage
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Neu geschrieben am 13.09., 20:20.** Ersetzt die Fassung vom 12.09.
 **⚠️ Er hat am 13.09. 20:04 eine zweite Kauschaden-Vorlage bekommen, wieder ohne
 ein Wort zu seinem Einwand.**
@@ -2696,6 +2760,8 @@ kein Betrag. Der Policy-Einwand wird **eingeräumt**.
 ---
 
 ## 🚩🚩 #5829 — david.coles1990@gmail.com, cc tazzyhunt1@hotmail.co.uk — ZWEITE FASSUNG
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning", „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Neu geschrieben am 13.09., 21:20.** Ersetzt die Fassung vom 11.09.
 **⚠️ Die förmliche CRA-Rüge ist am 13.09. 10:47 mit der Kauschaden-Vorlage
@@ -2739,6 +2805,8 @@ an den Shopify-Daten belegt ist. Der Fehler vom 13.09. wird eingeräumt.
 
 ## #4939 — sara.thompson4881@gmail.com — ZWEITE FASSUNG
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „tonight", „yesterday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Neu geschrieben am 13.09., 21:20.** Ersetzt die Fassung vom 12.09.
 **⚠️ Sie hat am 13.09. 20:08 die Kauschaden-Vorlage bekommen, obwohl sie nichts
 gefordert hatte. Vor dem Senden im Admin prüfen, welche der vier Positionen
@@ -2777,6 +2845,8 @@ sind; das dritte ausdrücklich nicht.
 
 ## becca23047@aol.com — ZWEITE FASSUNG
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Neu geschrieben am 13.09., 21:20.** Ersetzt die Fassung vom 12.09.
 **⚠️ Sie hat am 13.09. 20:08 die Kauschaden-Vorlage bekommen. Die Bestellung ist
 weiterhin nicht auffindbar — vor dem Senden die Anhänge öffnen.**
@@ -2811,6 +2881,8 @@ weiterhin nicht auffindbar — vor dem Senden die Anhänge öffnen.**
 ---
 
 ## 🚩🚩 #7292 — doulatracy@gmail.com — DRITTE FASSUNG  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „yesterday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 13.09., 22:20.** Ersetzt die Fassung vom 12.09.
@@ -2862,6 +2934,8 @@ Rückversand.** Der Regel-2-Anspruch für den Duck wird eingeräumt.
 
 ## #6781 — carliebanfield1975@gmail.com — ZWEITE FASSUNG
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „on saturday", „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Neu geschrieben am 13.09., 22:20.** Ersetzt die Fassung vom 12.09.
 **⚠️ Sie hat am 13.09. 20:07 die Kauschaden-Vorlage bekommen, obwohl sie am
 12.09. nach dem Rückgabeverfahren gefragt hatte. Der Bot erteilt keine
@@ -2897,6 +2971,8 @@ Rücksendeadresse — das Fehlen wird eingeräumt.
 ---
 
 ## #6755 — rmattmurphy@gmail.com — ZWEITE FASSUNG
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „on friday", „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Neu geschrieben am 13.09., 22:20.** Ersetzt die Fassung vom 12.09.
 **⚠️ Er hatte eine schlichte Erstattungsforderung gestellt, ohne Drohung. Am
@@ -3085,6 +3161,8 @@ Keine rechtliche Einordnung.
 ---
 
 ## #5032 — Adam Murgatroyd (acmurgatroyd1@gmail.com) — zweite Fassung
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „yesterday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: A shipment from order #5032 is on the way
 
@@ -3378,6 +3456,8 @@ keine Währungsumrechnung. Keine Rücksendeadresse. Keine rechtliche Einordnung.
 ---
 
 ## #8321 — Darren Calver (stockingseight@gmail.com) — zweite Fassung
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „yesterday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: Order #8321 confirmed
 
@@ -3766,6 +3846,8 @@ rechtliche Einordnung.
 
 ## #7246 — Barbara (arabrabtnarg@gmail.com)
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „yesterday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Betreff:** Re:
 
 > Dear Barbara,
@@ -3842,6 +3924,8 @@ Rücksendeadresse. Kein Betrag. Keine rechtliche Einordnung.
 ---
 
 ## #6223 — Barbara Lidster (blidster@gmail.com)
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this week"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: Plushie toy destroyed. Order number 6223
 
@@ -4364,6 +4448,8 @@ Rücksendeadresse.
 
 ## #7298 — Brian J. Becker (lift1500@yahoo.com)
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this week"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Betreff:** Re: Return ???
 
 **⚠️ Er hat „Order #7295" geschrieben. Diese Nummer gehört einer anderen
@@ -4446,6 +4532,8 @@ Betrag. Keine Rücksendeadresse. Keine rechtliche Einordnung.
 
 ## #8009 — Yvonne Ware (vonnie1982@hotmail.co.uk) — zweite Fassung
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Betreff:** Re: #8009
 
 **Ersetzt den Entwurf vom 13.09. Sie hat die heute früh gestellte Frage bereits
@@ -4525,6 +4613,8 @@ Foto nicht gedeutet. Kein Betrag. Keine Rücksendeadresse.
 ---
 
 ## #7323 — David Buckley (dbuckley@orkinau.com) — zweite Fassung  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Product Complaint – Order #7323
@@ -4672,6 +4762,8 @@ Kein Betrag. Keine Rücksendeadresse. Keine rechtliche Einordnung.
 
 ## #7754 — Margaret Timmings (timmingsmargaret@yahoo.co.uk) — zweite Fassung
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „last night", „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Betreff:** Re: Undistructable teddy's
 
 **Ersetzt den Entwurf vom 14.09. Ihr ist am 15.09. 08:10 die
@@ -4711,6 +4803,8 @@ Betrag. Keine Rücksendeadresse.
 ---
 
 ## #1998 — Alexandra Bizzios-O'Connell — zweite Fassung
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning", „yesterday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: Formal complaint - faulty/not as described goods - Consumer Rights Act 2015
 
@@ -4858,6 +4952,8 @@ Kein Betrag. Keine Rücksendeadresse.
 
 ## #7587 — Susan Hines (wagtailfarm@icloud.com) — zweite Fassung
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning", „yesterday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Betreff:** Re: Order
 
 **Ersetzt den Entwurf vom 14.09. Die Ware ist inzwischen angekommen.**
@@ -4951,6 +5047,8 @@ Einordnung.
 
 ## #1084 — Richard Foley (foley_richard@sky.com)
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Betreff:** Re: Order #1084
 
 **Ihm ist am 15.09. 09:06 die Kauschaden-Vorlage zugegangen — auf einen
@@ -5014,6 +5112,8 @@ Einordnung.
 ---
 
 ## #7937 — Marian Allaton (busa1957@msn.com) — zweite Fassung
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: Destroyed toy
 
@@ -5104,6 +5204,8 @@ rechtliche Einordnung zu CRA 2015 oder E-Commerce-Verordnung.
 ---
 
 ## #6835 — Terry Allen (tesa.allen@hotmail.co.uk) — zweite Fassung
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: Order #6835 confirmed
 
@@ -5531,6 +5633,8 @@ zur Größe. Kein Eskalationsmarker im Text.
 ---
 
 ## #7001 — Keith Furman (kmfurman26@gmail.com) — zweite Fassung
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: A shipment from order #7001 is on the way
 
@@ -6208,6 +6312,8 @@ Kein Eskalationsmarker im Text.
 ---
 
 ## #6528 — Thomas „Tommy" H. Johnson III (thomashjohnson23@gmail.com) — laufende Verhandlung, 30 % gegen 75 %  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #6528 Return Request
@@ -6316,6 +6422,8 @@ Eskalationsmarker im Text.
 ---
 
 ## #6804 — Jill Brown (jillbindewald@gmail.com)  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: A shipment from order #6804 is on the way
@@ -6362,6 +6470,8 @@ unterstellt**, dass es unbenutzt ist. Kein Eskalationsmarker im Text.
 ---
 
 ## #6384 — Simon Foord (simonfoord@me.com)  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order 6384
@@ -6550,6 +6660,8 @@ Eskalationsmarker im Text.
 ---
 
 ## #6806 — Jay Heap (jayheap@gmail.com) — zweite Fassung  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Must be defective
@@ -6696,6 +6808,8 @@ abgeraten. Keine Rücksendeadresse. Kein Eskalationsmarker im Text.
 
 ## #7072 — Jane Bromirski (janekipp17@gmail.com) — zweite Fassung
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Betreff:** Re: A shipment from order #7072 is on the way
 
 **Ersetzt den Entwurf vom 14.09., der sie nie erreicht hat. Ihr ist heute
@@ -6807,6 +6921,8 @@ Eskalationsmarker im Text.
 ---
 
 ## #7950 — Andy Kennedy (andykennedy1@btinternet.com)  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „on monday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: A shipment from order #7950 is on the way
@@ -6851,6 +6967,8 @@ Eskalationsmarker im Text.
 ---
 
 ## #6804 — Jill Brown (jillbindewald@gmail.com) — zweite Fassung  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #6804
@@ -7166,6 +7284,8 @@ Eskalationsmarker im Text.
 
 ## #8548 — Enedino Calleros (nino0628@gmail.com) — ⏰ Adresskorrektur, Bestellung noch NICHT versandt
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „tomorrow"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Betreff:** Re: Order 8548
 
 **Neu am 16.09. 16:43 und 16:49 UTC, zwei Mails. **Die Bestellung ist vom
@@ -7265,6 +7385,8 @@ Kein Eskalationsmarker im Text.
 
 ## #8133 — Steve Raine (steveraine31@gmail.com)
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this evening"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Betreff:** Re: Plushie
 
 **Neu am 16.09. 16:45 UTC. Erstkontakt. Er verlangt **keine** Erstattung — er
@@ -7315,6 +7437,8 @@ Text.
 ---
 
 ## #7192 — Kelly Matisonn (kellymatisonn@gmail.com)
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this evening"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: Refund order #7192
 
@@ -7409,6 +7533,8 @@ im Text.
 
 ## #7525 — Carol Garvey (carolgarvey2@hotmail.com) — dritte Fassung
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning", „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Betreff:** Re: Order 7525
 
 **Neu am 16.09. 19:14 UTC — ihr fünfter Kontakt. Ihr ist heute 09:51 die
@@ -7482,6 +7608,8 @@ im Text.
 ---
 
 ## #8588 — Darren Law (dlaw69@sky.com) — Fehlermeldung zum Checkout, keine Beschwerde
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: Order #8588 confirmed
 
@@ -7679,6 +7807,8 @@ Eskalationsmarker im Text.
 ---
 
 ## #7625 — Erin Browning (ebrowningrn2@yahoo.com)  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Return
@@ -7846,6 +7976,8 @@ dass hier ohnehin nichts zurückzuschicken ist. Kein Eskalationsmarker im Text.
 
 ## #5880 — Laurie Oland (lj52585@comcast.net)
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Betreff:** Re: Refunds
 
 **Neu am 17.09. 00:36 UTC. Erstkontakt. Sie zitiert den **Produktnamen** als
@@ -7897,6 +8029,8 @@ Eskalationsmarker im Text.
 ---
 
 ## #7119 — Susan McGee (susanmcgee@outlook.com.au) — ein Stück unberührt, Australien  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: ORDER #7119
@@ -8006,6 +8140,8 @@ Eskalationsmarker im Text.
 ---
 
 ## #6259 — Nick Tarrant (nick.tarrant@me.com) — 30 → 50 → 60 %, er fordert 100 %, Frist 21.09.
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: A shipment from order #6259 is on the way
 
@@ -8335,6 +8471,8 @@ Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
 ## #7164 — Barry Dunster (bazdee1974@msn.com) — dritte Fassung
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „on monday", „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Betreff:** Re: My order
 
 **Neu am 17.09. 10:46 UTC — **elf Minuten** nach der Kauschaden-Vorlage von
@@ -8443,6 +8581,8 @@ und keine Aussage zur Haltbarkeit. Kein Eskalationsmarker im Text.
 
 ## #7255 — blessedlovepuppet@frontier.com — ⚠️ behauptete Facebook-Zusage: Gratis-Ersatz bei Kauschaden
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Betreff:** Re: Return
 
 **Neu am 17.09. 11:29 UTC**, nach der Kauschaden-Vorlage von 10:39 (Anrede
@@ -8548,6 +8688,8 @@ Einordnung. Kein Eskalationsmarker im Text.
 ---
 
 ## #7885 — Rod McNess (schreibt von rod.m@promptpetroleum.com.au) — ⚠️ dritter AU-Kunde, abgelehnt auf der widersprochenen Bedingung  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Failed Plushie Fox
@@ -8788,6 +8930,8 @@ Eskalationsmarker im Text.
 ---
 
 ## #7275 — Nathan Corcoran (schreibt von natcor1972@gmail.com) — ⚠️ vierter AU-Fall, Bestellung ohne hinterlegte E-Mail  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „yesterday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Indestructible
@@ -8928,6 +9072,8 @@ Auswertung der Fotos.** Keine Rücksendeadresse, samt Warnung. Kein
 Eskalationsmarker im Text.
 
 ## #6032 — Helen Workman (helbeat.work71@gmail.com) — Erstkontakt, „Please advise", zweites Stück unbekannt
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „yesterday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: Indestructible toys?
 
@@ -9127,6 +9273,8 @@ gelassen. **Keine Verweisung an den Zusteller.** Kein Eskalationsmarker im Text.
 
 ## #8120 — Paul Mayoh (paul.mayoh@gmail.com) — ⚠️ Bestellung ohne hinterlegte E-Mail, abweichender Vorname
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this afternoon"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Betreff:** Re: order #8120 for 3 toys
 
 **Neu am 17.09. 18:01 UTC. Erstkontakt.**
@@ -9192,6 +9340,8 @@ zur Werbung, keine zur Haltbarkeit, keine Auswertung des Fotos.** **Keine Frist
 genannt.** Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
 ## #4832 — Jim Wigo (schreibt von j.wigo@me.com) — ⛔ die Vorlage hat ihm einen Sachverhalt unterstellt, den er nie genannt hat
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: Refund request
 
@@ -9552,6 +9702,8 @@ keine zur Haltbarkeit**, **kein Widerspruch zu seiner Schilderung.** Keine
 Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
 ## #6583 — Ken Beville (kenthecarman06@gmail.com) — ⛔⛔ volle Erstattung schriftlich zugesagt am 03.09., nie ausgeführt  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order 6583 return
@@ -9633,6 +9785,8 @@ Eskalationsmarker im Text.
 ---
 
 ## #7541 — Lois Hertz (drlhertz@gmail.com) — Erstkontakt, „How do I fix it?"  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „on tuesday", „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: 2 days order 7541
@@ -10126,6 +10280,8 @@ Produktaussage verwendet** — weder ihm gegenüber noch im Log.
 
 ## #7459 — Sarah Taylor (jessalena2004@yahoo.co.uk) — vierte unbeantwortete Nichtlieferung
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Betreff:** Re: Order 7459
 
 **Neu am 18.09. 07:52 UTC. Erstkontakt, höflich.**
@@ -10301,6 +10457,8 @@ zutrifft**, keine rechtliche Einordnung. Kein Eskalationsmarker im Text.
 
 ## #6205 — John Keefauver (johnkeefauver@gmail.com) — dritte unabhängige Facebook-Aussage
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Betreff:** Re: Order #6205 confirmed
 
 **Neu am 18.09. 11:10 UTC**, **29 Minuten** nach der Kauschaden-Vorlage von
@@ -10426,6 +10584,8 @@ offen benannt. **Keine Verweisung an den Zusteller**, und **keine Bewertung
 seiner Aussage über den Zusteller.** Kein Eskalationsmarker im Text.
 
 ## #6384 — Simon Foord (simonfoord@me.com) — zweite Fassung, „not fit for purpose"  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order 6384
@@ -10670,6 +10830,8 @@ Eskalationsmarker im Text.
 
 ## #7950 — Andy Kennedy (andykennedy1@btinternet.com) — zweiter Kontakt nach der Vorlage
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „on monday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Betreff:** Re: FW: tough toys
 
 **Neu am 18.09. 12:20 UTC**, **39 Minuten** nach der Kauschaden-Vorlage von
@@ -10870,6 +11032,8 @@ der Bestellung vorgenommen.** Kein Eskalationsmarker im Text.
 ---
 
 ## #8002 — Thomas Robinson (thomas2788work@gmail.com) — ⚠️ zweites wörtlich belegtes Zitat aus der Produktseite  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Plushies – Designed for Furry Friends Who Destroy Everything
@@ -10938,6 +11102,8 @@ Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 ---
 
 ## #8406 — Joyce Abdalla (jva0259@gmail.com) — ⚠️ gemeldete Aufnahme eines Teils durch den Hund  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „last night"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order 8406
@@ -11085,6 +11251,8 @@ Liefertermin, keine Wartefrist.** **Keine Verweisung an den Zusteller.**
 unserer eigenen Mail vom 08.09. steht. Kein Eskalationsmarker im Text.
 
 ## #8312 — Paul Beaver (mrpbeaver@gmail.com) — ⛔ zehnter unbenutzter Fall, dazu eine Sicherheitssorge  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „yesterday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #8312
@@ -11555,6 +11723,8 @@ und die Anzeige von hier **nicht einsehbar** ist. **Keine Auswertung der
 Fotos.** Keine Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
 ## #7778 — Tony Brighi (t.brighi@yahoo.com) — präzise begründete Erstattungsbitte, beruft sich auf die Produktseite
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this week"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: Refund Request – Plushie Failed Durability Claims
 
@@ -12097,6 +12267,8 @@ Auswertung der Fotos.** Keine Rücksendeadresse, samt Warnung. Kein
 Eskalationsmarker im Text.
 
 ## #7275 — Nathan Corcoran (schreibt von natcor1972@gmail.com) — zweite Fassung, neuer Thread nach 43 Stunden  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „on wednesday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Not indestructible
@@ -12164,6 +12336,8 @@ offen gesagt. **Keine rechtliche Bewertung**; die AU-Passage wird zitiert, nicht
 ausgelegt. **Keine Auswertung der Fotos.** Kein Eskalationsmarker im Text.
 
 ## #8337 — Cheryl Tagg (cheryldalby@live.co.uk) — Plüschtier nach keinen 24 Stunden zerstört, Erstattung verlangt  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „on thursday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #8337 confirmed
@@ -12285,6 +12459,8 @@ verschwiegen**: ihm wird gesagt, dass sie in den eigenen Terms of Service steht.
 ablehnend. Kein Eskalationsmarker im Text.
 
 ## #7119 — Susan McGee (susanmcgee@outlook.com.au) — AU, nach der Vorlagen-Absage von 10:09 UTC
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „on thursday", „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: ORDER #7119
 
@@ -12463,6 +12639,8 @@ das wird ihm offen gesagt. **Keine Auswertung der Fotos.** **Keine rechtliche
 Bewertung.** **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
 
 ## #7547 — Luke Prior (lukepriora20@hotmail.com) — vierte Fassung, zweite Absage nach Gesetzesberufung  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „on thursday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **✅ GEPRÜFT am 30.09.: geltende Fassung. Sie deckt beide Threads ab („Poor all round" und „No order") — NUR EINMAL senden, im Thread „No order", in dem seine letzte Nachricht steht.**
 **⚠️ VOR DEM SENDEN ANPASSEN: der Text stammt vom 22.09. und enthält relative Zeitangaben („on Thursday and again this morning"), die heute nicht mehr stimmen.**
 
@@ -12650,6 +12828,8 @@ erfunden**, ausdrückliche Bitte, nichts zu verschicken. **Keine rechtliche
 Bewertung.** Kein Eskalationsmarker im Text.
 
 ## #7625 — Erin Browning (ebrowningrn2@yahoo.com) — dritte Fassung, zwei unbenutzte Artikel, „deceptive advertising"
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „on thursday", „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: Return
 
@@ -13947,6 +14127,8 @@ zugesagt, kein Betrag zugesagt, kein Termin, keine Absage.** **Keine Aussage
 Rekonstruktion der Anzeige.** Kein Eskalationsmarker im Text.
 
 ## #7472 — Francisco Almazan (falmazan2@gmail.com) — zweite Fassung, Fotos nachgereicht  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „on friday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: A shipment from order #7472 is on the way
@@ -14322,6 +14504,8 @@ der Betrag in seiner Währung auf der Bestellung. Kein Eskalationsmarker im Text
 
 ## #6384 — Simon Foord (simonfoord@me.com) — GB, Consumer Rights Act + Klarna + Trading Standards
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Betreff:** Re: Order 6384
 
 > Dear Simon,
@@ -14365,6 +14549,8 @@ Bewertung in eine der beiden Richtungen.** **Keine Rücksendeadresse erfunden.**
 Kein Eskalationsmarker im Text.
 
 ## #8406 — Joyce Abdalla (jva0259@gmail.com) — US, Garantiefrage, zuvor Sicherheitsmeldung
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: Order 8406
 
@@ -14621,6 +14807,8 @@ Carrier-Frage**, die am 18.09. bereits richtiggestellt wurde. **Keine
 Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
 
 ## #7541 — Lois Hertz (drlhertz@gmail.com) — US, zweite Fassung, benennt den Widerspruch der Bedingung
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: 2 days order 7541
 
@@ -14968,6 +15156,8 @@ Umrechnung** — der Bestellbetrag ist in US-Dollar verzeichnet. Kein
 Eskalationsmarker im Text.
 
 ## #7168 — Phillip Hockley (philnsarahhockley@gmail.com) — GB, ⛔ **Vorlage mit „Dear Customer", verlangt ausdrücklich Eskalation**  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #7168 confirmed
@@ -15245,6 +15435,8 @@ zugesagt, kein Betrag, kein Termin, keine Absage, keine Vorlagen-Antwort.**
 Produkts in die eine oder andere Richtung.** Kein Eskalationsmarker im Text.
 
 ## #6311 — Garth Callaghan (garthcallaghan93@gmail.com) — **AU**, ⛔ **fragte nach Ersatz, bekam eine Geld-zurück-Bedingung**, nennt Facebook/Instagram
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: Dog Toys
 
@@ -15573,6 +15765,8 @@ Eskalationsmarker im Text.
 
 ## #8407 — Susan Smith (susaninshepton@gmail.com) — GB, ⛔ **„Your guarantee says nothing about the toys being unused"**
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Betreff:** Re: Indestructible toy
 
 > Dear Susan,
@@ -15624,6 +15818,8 @@ nicht geöffnet**, und das wird ihr gesagt. **Keine Rücksendeadresse erfunden.*
 Kein Eskalationsmarker im Text.
 
 ## #8126 — Joanne Wurth (jwurthy@gmail.com) — **AU**, Erstkontakt, Ware heute angekommen  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this afternoon"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order 8126
@@ -15818,6 +16014,8 @@ die Sache entschieden.** **Keine Rücksendeadresse erfunden.** Kein
 Eskalationsmarker im Text.
 
 ## #8312 — Paul Beaver (mrpbeaver@gmail.com) — GB, ⛔ **die Vorlage erzeugt zum zweiten Mal einen Rückgabefall**  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #8312
@@ -15917,6 +16115,8 @@ geöffnet.** **Keine Rücksendeadresse erfunden.** **Keine Umrechnung** — 38,4
 ist der presentment-Betrag. Kein Eskalationsmarker im Text.
 
 ## #8669 — Chad Lovell (havoc17@aol.com) — US, 🔴🔴 **Stornierung mit einer Versandangabe abgelehnt, die unser eigener Datenstand nicht trägt**
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: How do I cancel my order
 
@@ -16130,6 +16330,8 @@ Text.
 
 ## #7771 — Barb Fitzgerald (justbcuz7025@yahoo.com) — US, **sechster Kontakt**, benennt den Bruch der Bedingung
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Betreff:** Re: order #7771
 
 > Dear Barb,
@@ -16264,6 +16466,8 @@ Eskalationsmarker im Text.
 
 ## #8337 — Cheryl Tagg (cheryldalby@live.co.uk) — GB, ⛔ **hat Rechtsrat eingeholt**
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Betreff:** Re: Order #8337 confirmed
 
 > Dear Cheryl,
@@ -16320,6 +16524,8 @@ Rekonstruktion der Anzeige.** **Keine Rücksendeadresse erfunden.** Kein
 Eskalationsmarker im Text.
 
 ## #7472 — Francisco Almazan (falmazan2@gmail.com) — US, dritter Kontakt, **Größenbeschwerde bleibt unbeantwortet**
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: A shipment from order #7472 is on the way
 
@@ -16665,6 +16871,8 @@ wird nicht geraten.** **Keine Rücksendeadresse erfunden.** **Keine
 Umrechnung.** Kein Eskalationsmarker im Text.
 
 ## #7457 — Sheree McGowan (shereemcg@gmail.com) — US, ⛔ **Erstattungsfrage mit der Kauschaden-Vorlage beantwortet**
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: refund
 
@@ -17998,6 +18206,8 @@ Eskalationsmarker im Text.
 
 ## #5310 — Heather Taylor (bhjdc5@gmail.com) — US, **dritter Kontakt, zitiert „no dog has ever destroyed the toy"**
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning", „this week"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **Betreff:** Re: Refund request - order #5310
 
 > Dear Heather,
@@ -18425,6 +18635,8 @@ Anzeige.** **Das Foto wird nicht geöffnet**, nur sein Vorhandensein vermerkt.
 Lieferadresse lautet auf „Martin"). Kein Eskalationsmarker im Text.
 
 ## #8312 — Paul Beaver (mrpbeaver@gmail.com) — GB, **dritte Bitte um Rückgabe, gestern erneut ein Prozentangebot**  
+
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „yesterday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #8312
@@ -20257,6 +20469,8 @@ Eskalationsmarker im Text.
 
 ## #8456 — Cath Livesey (`cath.lives@icloud.com`) — **widerspricht der Kauschaden-Annahme ausdrücklich** · zwei Threads, 28.09.
 
+**🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
+
 **⚠️ Ein Entwurf für beide Threads** („Poor quality" und „ORDER 8456"). **Er
 ist einmal zu senden, nicht zweimal.**
 
@@ -21286,6 +21500,8 @@ Eskalationsmarker im Text.
 
 ## #8577 — Shirley (`shirls_mc@hotmail.co.uk`) — **nach der Kauschaden-Vorlage vom 29.09.; kündigt Kommentare unter der Werbung an** · 29.09.
 
+**🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **29.09.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „tonight") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
+
 **Betreff:** `Re: Toys delivered`
 
 > Dear Ms McKenzie,
@@ -21367,6 +21583,8 @@ bleibt als ersetzt markiert.** Kein Eskalationsmarker im Text.
 
 ## #8573 — Alison Greaves (`alisongreaves41@gmail.com`) — **nach der Kauschaden-Vorlage vom 29.09.** · 29.09.
 
+**🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **29.09.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „tonight") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
+
 **Betreff:** `Re: Indestructable toy`
 
 > Dear Ms Greaves,
@@ -21441,6 +21659,8 @@ nicht bewertet.** **Fotos nicht geöffnet.** **Warnung, nichts zu
 verschicken.** Kein Eskalationsmarker im Text.
 
 ## #8142 — Wendy Price (`wendyprice579@gmail.com`) — **VIERTE Nachfrage zum versiegelten Artikel** · 29.09. abends  
+
+**🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **29.09.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „tonight") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
 **✅ GEPRÜFT am 30.09.: Dies ist die geltende Fassung für diesen Kunden. Alle früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
 **Betreff:** `Re: FW: Defective`
@@ -21503,6 +21723,8 @@ Garantieentscheidung, keine Frist.** **Betrag genannt, nicht aufgeteilt.**
 Kein Eskalationsmarker im Text.
 
 ## #8312 — Paul (`mrpbeaver@gmail.com`) — **zweites Prozentangebot abgelehnt, verlangt Rückgabe** · 29.09. abends
+
+**🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **29.09.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „tonight") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
 
 **Betreff:** `Re: Order #8312`
 
@@ -21611,6 +21833,8 @@ Bewertung.** **Warnung, nichts zu verschicken.** Kein Eskalationsmarker im
 Text.
 
 ## #7479 — Richard Bellamy (`richard@brownwolf.net`) — **VIERTES Prozentangebot abgelehnt** · 29.09. abends  
+
+**🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **29.09.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „tonight") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
 **✅ GEPRÜFT am 30.09.: Dies ist die geltende Fassung für diesen Kunden. Alle früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
 **Betreff:** `Re: FW: Refund request and business address request`
@@ -21673,6 +21897,8 @@ hinaus. Kein Eskalationsmarker im Text.
 
 ## #8568 — Allen Irvin (`allenirvin@aol.com`) — **zwei Antworten heute Abend, beide Threads** · 29.09.
 
+**🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **29.09.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „tonight") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
+
 **Betreff:** `Re: Returns`
 
 > Dear Mr Irvin,
@@ -21733,6 +21959,8 @@ gefolgert, und das wird ihm gesagt.** Kein Eskalationsmarker im Text.
 
 ## #8574 — John Husk (`husky0877@googlemail.com`) — **nach der Vorlage: „So you are fine that it lasted one evening?"** · 29.09.
 
+**🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **29.09.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „tonight") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
+
 **Betreff:** `Re:`
 
 > Dear Mr Husk,
@@ -21788,6 +22016,8 @@ Kauschaden-Vorlage.** **Keine Garantieentscheidung.** **Nichts aus Rasse oder
 Größe seines Hundes gefolgert.** Kein Eskalationsmarker im Text.
 
 ## #7048 — Josephine Carr (`jocarr247@yahoo.com`) — **hat die 40 % ausdrücklich ANGENOMMEN und Klarna als Zahlweg genannt** · 30.09.  
+
+**🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **30.09.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „yesterday") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
 **✅ GEPRÜFT am 30.09.: Dies ist die geltende Fassung für diesen Kunden. Alle früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
 **Betreff:** `Re: #7048`
@@ -21854,6 +22084,8 @@ wird nicht zurückgenommen, nur weil sie jetzt annimmt.** **Der Entwurf vom
 29.09. ist als ersetzt markiert.** Kein Eskalationsmarker im Text.
 
 ## #8431 — Sarah Williams (`slw72@tpg.com.au`) — **AU**, **nach der Kauschaden-Vorlage: verlangt jetzt Erstattung NUR für den ungeöffneten Elefanten** · 30.09.
+
+**🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **30.09.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „last night") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
 
 **Betreff:** `Re: Refund Request – Order #8431 – Donkey Plush Destroyed Within 10 Minutes`
 
@@ -22039,6 +22271,8 @@ nur benannt, nicht ausgelegt.** **Nichts aus ihrem Hund gefolgert.** Kein
 Eskalationsmarker im Text.
 
 ## #7347 — Jill Hibbs (`hibbsjill@yahoo.com`) — **lehnt das zweite Prozentangebot ab, will zurückschicken** · 30.09.  
+
+**🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **30.09.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „last night") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
 **✅ GEPRÜFT am 30.09.: Dies ist die geltende Fassung für diesen Kunden. Alle früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
 **Betreff:** `Re: Order #7347 confirmed`
@@ -22094,6 +22328,8 @@ bewegen.** **Keine Kauschaden-Vorlage.** **Keine Aussage zur Qualität.** Kein
 Eskalationsmarker im Text.
 
 ## #7749 — Adrian Vincent-Janes (`adrian@vincent-janes.com`) — **dritter Kontakt, zweite Vorlage; wiederholt die Sicherheitsmeldung** · 30.09.
+
+**🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **30.09.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „this week") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
 
 **Betreff:** `Re: A shipment from order #7749 is on the way`
 
@@ -22178,6 +22414,8 @@ Anzeige habe es nicht enthalten.** **Keine dritte Kauschaden-Vorlage.**
 gefolgert.** Kein Eskalationsmarker im Text.
 
 ## #7091 — HUD Bullivant (`hud@hildebrandt.com.au`) — **AU**, **zweiter Kontakt nach der Vorlage; Bestellung jetzt identifiziert** · 30.09.
+
+**🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **30.09.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „last night") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
 
 **Betreff:** `Re:`
 
@@ -23228,6 +23466,8 @@ umgerechnet.** Kein Eskalationsmarker im Text.
 
 ## #4055 — Kimberley Shenton (`kim.shenton@me.com`) — **zum ZWEITEN Mal „already been processed"; Bestellung liegt auf einer ANDEREN E-Mail-Adresse** · 01.10.
 
+**🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **01.10.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „this morning") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
+
 **🟥 INTERN, NICHT IM BRIEFTEXT: ihre Bestellung ist `#4055` und steht laut früherem Eintrag in dieser Datei auf `kim.ierston@googlemail.com`.** **Deshalb nennt der Brief weder die Bestellnummer noch Daten daraus** — sie schreibt von einer Adresse, die nicht auf der Bestellung steht, und Bestelldaten gehen nur an die Adresse auf der Bestellung. **Der Brief bittet sie stattdessen um die Bestellnummer; das ist der saubere Weg.** **Eine Suche über `email:kim.shenton@me.com` und über den Kundennamen „shenton" liefert heute beide nichts** — das ist im Brief wahrheitsgemäß so gesagt.
 
 **✅ GEPRÜFT am 01.10.: geltende Fassung für diese Kundin.**
@@ -23480,6 +23720,8 @@ an Trading Standards geknüpft.** **Keine Aussage zur Qualität, in keine
 Richtung.** Kein Eskalationsmarker im Text.
 
 ## #7831 — Mary Hollerich (`mhollerich89@gmail.com`) — **FÜNFTER Kontakt, dritter Thread; argumentiert zur 30-Tage-Frist** · 01.10. 16:02
+
+**🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **01.10.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „this morning") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
 
 **✅ GEPRÜFT am 01.10.: geltende Fassung. Der Entwurf von heute früh ist als ersetzt markiert.**
 
@@ -23796,6 +24038,8 @@ Eskalationsmarker im Text.
 
 ## #2095 — Pam Trafford (`trafford.pam@gmail.com`) — 🟥 **hat HEUTE 10:49 erneut die Kauschaden-Vorlage bekommen; nennt erstmals einen DRITTEN, ungeöffneten Artikel; ihre Bank wartet weiter auf die Adresse** · 01.10. 19:20
 
+**🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **01.10.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „this morning") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
+
 **✅ GEPRÜFT am 01.10.: geltende Fassung für diese Kundin. Die früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
 **🟥 OHNE BESTELLDATEN — Shopify verlangt seit 17:20 UTC eine neue Anmeldung. Der Entwurf nennt keine Zahlen aus dem Datensatz und sagt das nicht, weil sie nicht danach gefragt hat — er behauptet schlicht nichts, was nicht geprüft ist.**
@@ -24043,6 +24287,8 @@ unterschrieben. **Nichts aus ihrem Hund gefolgert.** Kein Eskalationsmarker
 im Text.
 
 ## #7324 — Kelly D (`kellydstudio@gmail.com`) — 🟥 **ihre Sicherheitsmeldung vom 29.09. wurde am 01.10. mit der Kauschaden-Vorlage beantwortet** · 02.10. 00:20
+
+**🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **02.10.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „this evening") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
 
 **✅ GEPRÜFT am 02.10.: Dies ist die geltende Fassung für diese Kundin. Die frühere Fassung vom 29.09. ist als ersetzt markiert.**
 

@@ -343,3 +343,54 @@ Durchgänge, bis die Zahl auf null stand. **Die richtige Zahl ist 164, nicht
   entfernt, 164 Textstellen geändert).
 - **Geltende Entwürfe: 351.**
 - **Keine Erstattung ausgelöst, nichts versendet.**
+
+---
+
+## Lauf 06:20 UTC — nichts Neues · die Datumswarnung steht jetzt IM Entwurf, nicht nur in einer Liste
+
+*(Erst die Datei geändert und geprüft, dann dieser Eintrag.)*
+
+**Posteingang: nichts neuer als #7324 von 00:01 UTC.**
+
+### Was gemacht wurde
+
+**Seit dem 01.10. lag eine Liste von Entwürfen mit veralteten Zeitangaben im
+Repository — aber nur als separate Datei.** Wer einen Entwurf zum Kopieren
+öffnet, sieht sie nicht. **Das war der Konstruktionsfehler: die Warnung stand
+nicht dort, wo kopiert wird.**
+
+**Jetzt trägt jeder betroffene Entwurf direkt unter seiner Überschrift:**
+
+> **🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **DD.MM.** geschrieben.
+> Alle relativen Zeitangaben darin (gefunden: „this morning", „yesterday") …
+> **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz
+> streichen.**
+
+**123 Entwürfe markiert.** **Bei 107 davon steht kein Schreibdatum in der
+Überschrift** — dort verweist der Hinweis auf das Tagesprotokoll und sagt
+ausdrücklich: **im Zweifel den Satz streichen, statt ein Datum zu raten.**
+
+### Warum 123 und nicht mehr 133
+
+**Die Zahl ist gesunken, weil fünfzehn der betroffenen Entwürfe inzwischen
+durch zusammengeführte Fassungen ersetzt sind** (#8295, #7608, #7041, #7989,
+#8781, #7610, #7114, #6936, #7831, #7324, #2095, #4940, #4055, #4998, #5148).
+**Kein einziger Text wurde durch Umschreiben „geheilt"** — ersetzte Fassungen
+zählen nur nicht mehr mit. **Das gehört so gesagt, damit die sinkende Zahl
+nicht nach Fortschritt aussieht, der nicht stattgefunden hat.**
+
+**`docs/entwuerfe-mit-relativen-datumsangaben.md` ist entsprechend neu
+erzeugt** und nennt jetzt pro Entwurf auch das Schreibdatum, soweit es in der
+Überschrift steht.
+
+**Bewusst NICHT getan: die Zeitangaben automatisch durch Daten ersetzt.** Ein
+Skript müsste raten, welcher Tag gemeint war.
+
+**Sicherungskopie vor dem Eingriff:** `scratchpad/pre-dates-backup.md`.
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 448** (unverändert).
+- **Geltende Entwürfe: 351.** **Davon mit Datumswarnung: 123.**
