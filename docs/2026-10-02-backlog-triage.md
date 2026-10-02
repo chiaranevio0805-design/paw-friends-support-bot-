@@ -206,3 +206,66 @@ er eine stellt.
   zurückschicken will oder hält, ohne dass es einen Rückgabeweg gibt** — und
   der erste, bei dem die Absicht seit über zwei Wochen unbeantwortet im
   Postfach steht.
+
+---
+
+## Lauf 04:20 UTC — nichts Neues im Posteingang · #6936 abgearbeitet · 🟥 FÜNFTER „processed"-Fall
+
+*(Erst die Datei geschrieben und geprüft — Entwurf in Zeile 24372 —, dann
+dieser Eintrag.)*
+
+**Posteingang: nichts neuer als #7324 von 00:01 UTC.**
+
+### 🟥 #6936 — Lisa Steggel (`lisac131@googlemail.com`)
+
+**Vier Entwurfsfassungen, alle als ersetzt markiert.** Thread vollständig
+gelesen (`get_thread`, 8 von 8 Nachrichten) — **sie hat seit dem 18.09. nicht
+mehr geschrieben.**
+
+**Am 22.09. 11:04:12 bekam sie:** *„I can confirm that the 30% partial refund
+has now been processed to your original payment method."*
+
+### 🟥 Der Befund, der daraus folgt: drei „processed"-Briefe in acht Minuten
+
+| Uhrzeit am 22.09. | Fall | Zugesagt | Datensatz (geprüft am 01.10., solange Shopify ging) |
+|---|---|---|---|
+| **11:02:52** | **#4998** Michael Warren | 20 % | **£0.00, keine Einträge** |
+| **11:04:12** | **#6936** Lisa Steggel | 30 % | **nicht mehr prüfbar** |
+| **11:10:43** | **#5148** Trudi | 50 % | **£0.00, keine Einträge** |
+
+**Drei gleichlautende Bestätigungen binnen acht Minuten. Die beiden, die sich
+prüfen ließen, waren beide unzutreffend.** **Damit ist #6936 der fünfte
+dokumentierte „processed"-Fall** — nach #5973, #4055, #4998 und #5148.
+
+### ⛔ Bewusst KEIN sendefertiger Entwurf
+
+**Sie hat nicht nachgefragt.** Die Regel, niemanden unaufgefordert
+anzuschreiben, gilt auch hier. **Der Entwurf trägt deshalb eine ausdrückliche
+Sendesperre:**
+
+> **Nur zu senden, wenn der Owner bestätigt, dass die 30 % NICHT ausgezahlt
+> wurden — oder wenn sie sich selbst meldet. Wurden sie ausgezahlt, ist
+> nichts zu tun und der Entwurf wird verworfen.**
+
+**Das ist eine Abwägung, die hier offen benannt gehört:** einerseits schreibt
+man niemanden unaufgefordert an; andererseits sitzt sie möglicherweise in dem
+Glauben, Geld sei unterwegs, das nie kam. **Diese Entscheidung ist nicht
+meine.** Der Text liegt bereit, falls der Owner sie braucht.
+
+**Im Entwurf ausdrücklich NICHT:** **nicht behauptet, die Erstattung sei
+ausgeführt worden — und nicht behauptet, sie sei es nicht**; die
+„processed"-Zusage wird nicht wiederholt; kein Betrag genannt, nichts
+nachgerechnet; **andere Kundinnen werden erwähnt, aber nicht benannt und ihre
+Vorgänge nicht beschrieben**; **keine rechtliche Bewertung zu „false
+advertising" oder Trading Standards**, und nichts daran geknüpft.
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 448.**
+- **Mehrfachfassungen abgearbeitet: 17.** **Offen: 78.**
+- **🔴 „processed"-Fälle: fünf** — #5973, #4055, #4998, #5148, #6936.
+  **Bei dreien ist der Datensatzbefund dokumentiert, bei #4055 war die
+  Bestellung nicht auffindbar, bei #6936 ist er nicht mehr erhebbar.**
+  **Das ist der stärkste Einzelgrund, Shopify sofort neu zu autorisieren.**

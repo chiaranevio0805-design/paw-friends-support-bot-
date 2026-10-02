@@ -1542,6 +1542,8 @@ Aussage darüber, welche Positionen fehlen**, bevor das geprüft ist.
 ---
 
 ## #6936 — lisac131@googlemail.com — „Mr Donkey is dead"  
+
+**⚠️ ERSETZT durch den Entwurf vom 02.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 12.09.** Antwort im bestehenden Thread, Betreff
@@ -3152,6 +3154,8 @@ Rücksendeadresse. Keine Frist ausser den 30 Tagen, die nicht erwähnt werden.
 ---
 
 ## #6936 — Lisa Steggel (lisac131@googlemail.com) — zweite Fassung  
+
+**⚠️ ERSETZT durch den Entwurf vom 02.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Not even an hour.
@@ -4609,6 +4613,8 @@ Rücksendeadresse.
 ---
 
 ## #6936 — Lisa Steggel (lisac131@googlemail.com) — dritte Fassung  
+
+**⚠️ ERSETZT durch den Entwurf vom 02.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Not even an hour.
@@ -11435,6 +11441,8 @@ Verbraucherrecht. **Keine Bitte, von öffentlichen Hinweisen abzusehen.** Kein
 Eskalationsmarker im Text.
 
 ## #6936 — Lisa Steggel (lisac131@googlemail.com) — 💷 sie nimmt 30 % an
+
+**⚠️ ERSETZT durch den Entwurf vom 02.10. — nur den neuesten senden.**
 
 **Betreff:** Re: Not even an hour.
 
@@ -24360,6 +24368,103 @@ more" wird NICHT gegen den Datensatz geprüft und nicht korrigiert** — der
 Grund wird ihm genannt. **Keine Angaben aus dem Bestelldatensatz.** **Kein
 Trackingstatus, kein Verweis an den Zusteller.** **Nichts aus seinem Hund
 gefolgert.** Kein Eskalationsmarker im Text.
+
+## #6936 — Lisa Steggel (`lisac131@googlemail.com`) — ⛔ **NICHT UNAUFGEFORDERT SENDEN** · fünfter „processed"-Fall · 02.10.
+
+**✅ GEPRÜFT am 02.10.: Dies ist die geltende Fassung für diese Kundin. Alle vier früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+### ⛔ Sendesperre — bitte zuerst lesen
+
+**Sie hat seit dem 18.09. nicht mehr geschrieben.** Am **22.09. 11:04** bekam
+sie: *„I can confirm that the 30% partial refund has now been processed to
+your original payment method."* **Darauf hat sie nicht reagiert.**
+
+**Dieser Entwurf ist deshalb NICHT zum sofortigen Senden gedacht.** Es gilt
+die Regel, Kundinnen nicht unaufgefordert anzuschreiben. **Er ist nur zu
+senden, wenn der Owner bestätigt, dass die 30 % NICHT ausgezahlt wurden** —
+oder wenn sie sich selbst meldet.
+
+**Wenn die 30 % ausgezahlt wurden, ist hier nichts zu tun und der Entwurf
+wird verworfen.**
+
+**🟥 Warum der Verdacht besteht — der Befund vom 22.09.:**
+
+| Uhrzeit | Fall | Zugesagt | Datensatz (geprüft am 01.10., solange Shopify noch ging) |
+|---|---|---|---|
+| **11:02:52** | **#4998** Michael Warren | 20 % | **£0.00, keine Einträge** |
+| **11:04:12** | **#6936** Lisa Steggel | 30 % | **nicht mehr prüfbar** |
+| **11:10:43** | **#5148** Trudi | 50 % | **£0.00, keine Einträge** |
+
+**Drei gleichlautende „processed"-Bestätigungen binnen acht Minuten. Die
+beiden, die sich prüfen ließen, waren beide unzutreffend.** **Das ist der
+Grund, ihren Fall nicht einfach abzuhaken.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue Anmeldung. Ob auf #6936 etwas erstattet wurde, ist von hier nicht feststellbar. Der Entwurf behauptet es deshalb in keine Richtung.**
+
+---
+
+**Betreff:** `Re: Not even an hour.`
+
+> Dear Lisa,
+>
+> **I am writing without you having asked, and I want to say why straight
+> away rather than leave you wondering.**
+>
+> **On 22 September you were told that your 30 per cent partial refund "has
+> now been processed" to your original payment method.** **I am contacting
+> you because I cannot confirm from here that it was, and because other
+> customers were sent that same sentence on the same day in circumstances
+> where it did not hold.**
+>
+> **I am not telling you that your refund failed.** **I genuinely do not
+> know, and I am not going to guess in either direction.** **What I am doing
+> is making sure you are not sitting quietly assuming money arrived that may
+> not have.**
+>
+> **Please check your account for the payment.** **If it is there, this
+> message needs nothing from you and I am sorry for the interruption.**
+> **If it is not there, reply and say so, and it goes straight to the shop
+> owner as an outstanding payment that was confirmed to you in writing on
+> 22 September.**
+>
+> **I am not going to quote you a figure or recalculate anything** — the
+> percentage is the one in the message you accepted on 18 September.
+>
+> **I cannot release a payment from this desk and I am not going to give you
+> a date.**
+>
+> **One more thing I am not going to leave unanswered, because you raised it
+> and it was never addressed.** **You wrote that the advertising was false
+> and that you would expect Trading Standards to be interested.** **I am not
+> going to tell you that you are right about that, and I am not going to tell
+> you that you are wrong** — a support desk ruling on its own employer's
+> advertising would be worth nothing to you. **What I can tell you is
+> checkable: I have read all twelve of our current product descriptions, and
+> the word "indestructible" appears in none of them.** **That is a statement
+> about those twelve texts and nothing more.** **Your wording goes to the
+> owner unchanged, and nothing here is conditional on whether you contact
+> anybody.**
+>
+> **I am not going to make any claim about the toy in either direction, and I
+> am drawing no conclusion from Bert.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Erklärung, warum unaufgefordert geschrieben
+wird**; die **Bitte, das Konto zu prüfen**; die Zusage, eine fehlende Zahlung
+sofort an den Owner weiterzugeben. **🟥 NICHT behauptet, die Erstattung sei
+ausgeführt worden — und NICHT behauptet, sie sei es nicht.** **Die
+„processed"-Zusage wird nicht wiederholt.** **Keine Erstattung zugesagt, kein
+Termin, kein Betrag genannt und nichts nachgerechnet.** **Andere Kundinnen
+werden erwähnt, aber NICHT benannt und ihre Vorgänge nicht beschrieben** — nur
+der Umstand, dass dieselbe Zeile am selben Tag mehrfach hinausging.
+**KEINE rechtliche Bewertung zu „false advertising" oder Trading Standards,
+in keine Richtung**, und nichts daran geknüpft. **Nicht behauptet, die von
+ihr erinnerte Werbeaussage existiere nicht.** **Keine Angaben aus dem
+Bestelldatensatz.** **Nichts aus ihrem Hund gefolgert.** Kein
+Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 
