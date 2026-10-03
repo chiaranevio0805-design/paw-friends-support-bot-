@@ -1474,3 +1474,171 @@ Ursache** — sonst kommt der fünfte Doppelbrief.
 - **Sendesperren: fünf** — #6936, #7179, #6528, beide #7316-Fassungen.
 - **Shopify: dritter Tag Neuanmeldung nötig. `switch-shop` NICHT aufgerufen.**
 - **Kein Entwurf gesendet, keine Erstattung ausgelöst, nichts verändert.**
+
+---
+
+## Lauf 21:20 UTC — 🟥🟥 DER GRÖSSTE BEFUND DES TAGES, UND ER IST ZUGLEICH MEIN GRÖSSTER FEHLER: die Live-Seiten sagen etwas anderes als die Produktbeschreibungen
+
+**Posteingang: nichts Neues.** Der Lauf begann mit einem der 34 ungeprüften
+„processed"-Kandidaten — **und endete damit, dass 88 Entwürfe gesperrt werden
+mussten.**
+
+### 🟥 Teil 1: ZEHNTER bestätigter „processed"-Fall — und er betrifft eine VOLLE Erstattung
+
+**Carolyn Marmalejo (`ilovenails2@msn.com`), 18 Nachrichten, 17.08.–21.09.,
+vollständig gelesen.**
+
+| Datum (UTC) | Was |
+|---|---|
+| **17.08. 14:07** | Erstkontakt: sie kaufte mehrere Spielzeuge, *weil* sie für starke Kauer beworben werden; eines riss **nach etwa 20 Sekunden**. Fotos dabei. |
+| 19.08. 08:36 | Antwort mit **Link auf `paw-friends.uk/pages/refund-policy`** (dazu Teil 2) |
+| **20.08.** | *„Do I need a return label… or can you provide me with the **address** in which to return the other toys?"* |
+| 21.08. | Antwort **nur zum beschädigten Teil**; *„If you have any unused toys… we can advise you on the return process"* |
+| **22.08.** | *„Yes, I have other **unopened** toys… I **never opened the other new toys**."* |
+| **25.08.** | *„Please provide me with return instructions."* |
+| **27.08.** | *„I asked for this last Tuesday, **I have heard nothing**."* |
+| **02.09.** | *„I have the entire order to return without the damaged toy. **Please provide me with return information!**"* |
+| **06.09.** | *„Please send me information on how to return the undamaged toys!!!"* |
+| 08.09. | **30 %** „rather than going through the return process" |
+| **10.09.** | *„…full refund less the toy that was ripped apart. **Please, again, I ask you for the return information!!!**"* |
+| 12.09. | **35 %** |
+| **14.09.** | *„No...i would like a full refund for the undamaged, unopened toys."* |
+| 15.09. | **50 %** |
+| **15.09.** | *„I would like a full refund for the unused toys."* |
+| 17.09. | **60 %** |
+| **18.09.** | *„I would like a full refund for the unused toys."* |
+| **21.09. 09:34:50** | **🟥 *„Dear Customer… We can confirm that your **full refund for the unused toys has been processed** to your original payment method."*** |
+| seitdem | **nichts. 12 Tage.** |
+
+**🟥 Zehnter bestätigter „processed"-Brief — und der erste, der eine VOLLE
+Erstattung bestätigt.** **Sie hat SIEBENMAL nach der Rücksendeadresse gefragt**
+(20.08., 25.08., 27.08., 02.09., 06.09., 10.09. und davor) — **mehr als
+#6528 mit fünf.** **Die Angebotsleiter lautete 30 → 35 → 50 → 60 %**, jedes Mal
+mit „rather than going through the return process", gegen eine Kundin, die
+fünfmal geschrieben hat, dass sie ungeöffnete Ware zurückgeben will.
+**Auch dieser Brief trägt „Dear Customer" nach zuvor „Dear Carolyn".**
+
+**🟦 Sie ist der zwölfte BELEGTE Fall mit ungeöffneter Ware.** **Das ist keine
+Rehabilitierung der heute zurückgezogenen Zahl „zwölf"** — die war unbelegt;
+dies ist ein neu belegter Fall, der die belegte Zahl von 11 auf 12 bringt.
+
+**🟥 Ein 21.09.-Fenster, bisher nicht protokolliert:** 09:34:50 (Carolyn,
+„full refund processed"), 09:35:32 (#6384, zweite Vorlage), 09:40:58 (#8295,
+Vorlage). **Sieben Minuten, drei Briefe.** Neben dem schon bekannten
+22.09.-Fenster von 11:02–11:32 mit sechs Briefen.
+
+### 🟥🟥 Teil 2: Der Link in unserer eigenen Mail vom 19.08. — und was dahinter steht
+
+**In der Antwort vom 19.08. steht:** *„You can view our full returns policy
+here: **https://paw-friends.uk/pages/refund-policy**"*
+
+**Dieses Postfach hat den Link selbst verschickt.** **Es ist genau das, was
+#7292 Tracy Hartley dreimal erfragt hat — und wovon ich ihr heute um 04:20
+geschrieben habe, ich könne sie nicht darauf verweisen.**
+
+**Ich habe die Seiten daraufhin abgerufen. Der vollständige Befund mit allen
+Zitaten steht in `docs/produktseiten-live-befund.md`.** Das Wichtigste:
+
+1. **🟥 ZWEI Rückgaberichtlinien, die sich widersprechen.**
+   **`/pages/refund-policy`: „100% money back within 14 days"**, Ware muss
+   **„unused and in the same condition… original packaging"** sein,
+   Hundeschäden ausgeschlossen, **„return shipping costs must be covered by
+   the customer"**, **keine Adresse**, kein Australien.
+   **`/policies/refund-policy`: „30-day return policy"**, und wörtlich:
+   **„These rights… are not limited by the requirement that an item be unused
+   or in its original packaging"**, ein ausführlicher
+   **„Australian Consumer Law"**-Abschnitt und
+   **„we will reimburse reasonable return shipping costs"**.
+   **14 gegen 30 Tage. Bedingung gegen ausdrückliche Nicht-Beschränkung.**
+2. **🟥 Die Produktseite verspricht die 30 Tage OHNE jede Bedingung** —
+   *„we give you a full 30 days to make sure you've made the right choice…
+   simply contact us by email. Our support team replies within 24–48 hours"*.
+   **Keine Bedingung, kein Kauschaden, keine Adresse.** **Das ist die Antwort
+   auf #7292s zweite Frage, und die Antwort ist: sie hatte recht.**
+   Dieselbe Seite wirbt gegen *„a standard 14-day return policy"* — **gegen
+   unsere eigene Richtlinie A.**
+3. **🟦 KEINE der beiden Richtlinien nennt eine Rücksendeadresse.** **Die
+   Aussage in sehr vielen Entwürfen — „es gibt keine, die ich Ihnen geben
+   kann" — ist damit zum zweiten Mal unabhängig bestätigt.** Beide schicken
+   die Kundschaft per E-Mail an **dieses** Postfach. **Das ist die Schleife.**
+4. **🟥 Die Fluffies-Seite enthält: „40,000 dogs have tried. **Not one has
+   beaten them yet**.", „Still undefeated", „Triple-stitched at every seam",
+   „Double-layer cord shell", „Strong enough that he can't take it apart".**
+
+### 🟥🟥 Mein Fehler, und er ist groß
+
+**Mein Befund vom 18.09. — „alle zwölf Produkttexte vollständig gelesen" —
+war ein Befund über die Shopify-BESCHREIBUNGSFELDER, nicht über die
+veröffentlichten Seiten.** **Ich habe ihn seither in 88 geltenden Entwürfen
+verwendet, um Kundinnen und Kunden zu sagen, ihr Zitat sei in unseren Texten
+nicht zu finden.**
+
+**Vier Zitate sind damit belegt, die ich als „nicht gefunden" behandelt habe:**
+
+| Kunde | Zitat | Was auf der Seite steht |
+|---|---|---|
+| **#4071 Ellen Rosey** (13.08.) | *„no dog has ever destroyed your furry animals!"* | **„40,000 dogs have tried. Not one has beaten them yet."** |
+| **#7440 Aaron Kell** (20./23.09.) | *„no dog has ever destroyed one"* | **dieselbe Zeile** |
+| **#5310 Heather Taylor** (24.09.) | *„no dog has ever destroyed the toy"* | **dieselbe Zeile** |
+| **#5829 via David Coles** | *„double stitching"* | **„Triple-stitched at every seam"**, **„Double-layer cord shell"** |
+
+**🟥 Der Entwurf, den ich heute um 19:20 für Heather Taylor geschrieben habe,
+sagt ihr, der Satz stehe „in keinem der zwölf Texte". Zwei Stunden später
+steht er vor mir, veröffentlicht.** **Sie hat die Werbung korrekt erinnert,
+und mein Entwurf hätte ihr das Gegenteil nahegelegt.** **Dasselbe gilt für
+#5829.**
+
+**🟦 Und:** *„one seam gives, **the filling comes out**, done"* ist die
+Fehlerart, die die Seite den *anderen* Spielzeugen zuschreibt — **genau das
+haben #7749, #7292, #7179 und #8312 berichtet.**
+
+### ⛔ Was ich deshalb sofort getan habe
+
+**Alle 88 geltenden Entwürfe, die den Satz über die zwölf Produkttexte
+enthalten, tragen jetzt ein Banner:**
+
+> **⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** … **Die
+> Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them
+> yet.", „Still undefeated", „Triple-stitched at every seam" und eine
+> 30-Tage-Garantie OHNE jede Bedingung** — siehe
+> `docs/produktseiten-live-befund.md`. **Vor dem Senden den Satz über die
+> zwölf Texte streichen oder richtigstellen.**
+
+**Das sind 88 von 360 geltenden Entwürfen — fast ein Viertel.** **Lieber ein
+Viertel des Bestands anhalten als einem Menschen schreiben, seine Erinnerung
+sei nicht belegbar, wenn sie es ist.**
+
+**Die alten Protokolleinträge mit dem 18.09.-Befund bleiben unverändert
+stehen.**
+
+### Was weiterhin NICHT belegt ist
+
+- **„indestructible"** steht auf keiner der heute abgerufenen Seiten.
+- **„extremely durable and long lasting"** (#8002, #5128) ebenfalls nicht.
+- **Eine Ersatzzusage** steht auf keiner abgerufenen Seite. **#6311s Anhang
+  bleibt der wahrscheinlichste Beleg.**
+- **Zehn weitere Produktseiten sind nicht abgerufen.** Der Befund gilt für
+  zwei Plüschseiten, die Startseite und die zwei Richtlinienseiten.
+- **Die Zitate stammen aus Seitenabrufen von heute, nicht aus einem Browser.**
+  **Vor einer Verwendung gegenüber Behörden oder Zahlungsdienstleistern sollte
+  der Owner sie selbst öffnen.**
+
+### 🟥 Eine Regel, die ich hiermit ändere
+
+**Bisher galt: „Niemals eine andere Frist als 30 Tage nennen."** **Diese Regel
+ist so nicht mehr haltbar** — **14 Tage stehen genauso veröffentlicht wie 30.**
+**Neue Fassung: niemals eine der beiden Fristen als die geltende darstellen;
+beide nennen, mit Angabe, aus welchem Dokument jede stammt, und die
+Entscheidung dem Owner überlassen.** Dasselbe Verfahren wie bei
+widersprüchlichen Beträgen.
+
+### Stand
+
+- **Entwürfe: 475. Ersetzt: 115. Geltende: 360 — davon 88 jetzt gesperrt.**
+- **Sendesperren insgesamt: 93** (88 Werbebefund + #6936, #7179, #6528,
+  zwei #7316-Fassungen).
+- **Bestätigte „processed"-Briefe: 10.** Ungeprüfte Kandidaten: 33.
+- **Belegte Fälle mit ungeöffneter Ware: 12.**
+- **Shopify: dritter Tag Neuanmeldung nötig. Die Live-Seiten waren ohne
+  Shopify erreichbar** — das hätte mir am 01.10. einfallen können.
+- **Nichts gesendet, keine Erstattung ausgelöst, nichts verändert.**

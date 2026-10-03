@@ -781,6 +781,8 @@ tatsächlich eingelöst werden; sie ist der einzige Inhalt der Mail.**
 
 ## #8343 — hikadece@gmail.com — drei Plüschtiere, eine Stunde
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
 bestehenden Thread, Betreff `Re: order #8343`.
 **Er ist sachlich und höflich. Keine Vorlagen-Absage — heute sind fünf von fünf
@@ -2137,6 +2139,8 @@ ausgeschlossen ist.
 ---
 
 ## #6835 — tesa.allen@hotmail.co.uk — „so called indestructible", 29,95 £ gefordert  
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
@@ -6809,6 +6813,8 @@ geraten**. Keine Aussage zum Preis in Dollar gegen Pfund — **nicht
 
 ## `jet73@y7mail.com` — Absenderadresse steht auf keiner Bestellung
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **Betreff:** Re: 12.45 mins
 
 **Neu am 16.09. 09:20 UTC. Unter der Absenderadresse liegt keine Bestellung,
@@ -9654,6 +9660,8 @@ nur ihre eigene Angabe wiedergegeben. Kein Eskalationsmarker im Text.
 
 ## #7970 — Melissa Harris (melhar1@me.com) — Nichtlieferung, ⚠️ Währungsdifferenz
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **Betreff:** Re: Merchandise not received
 
 **Neu am 17.09. 20:35 UTC. Erstkontakt.**
@@ -12025,6 +12033,8 @@ Warnung. Kein Eskalationsmarker im Text.
 
 ## #8189 — Natina Shalley (natinashalley@gmail.com) — ⚠️⚠️ dieselben zwei Werbephrasen wie #4998, dazu gemeldete Aufnahme
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 
 **Betreff:** Re: Refund request
 
@@ -12650,6 +12660,8 @@ und ausdrückliche Bitte, nichts zu verschicken. **Keine Währungsumrechnung** �
 
 ## #7275 — Nathan Corcoran (natcor1972@gmail.com) — dritte Fassung, ACCC angekündigt
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **Betreff:** Re: Indestructible
 
 > Dear Nathan,
@@ -12707,6 +12719,8 @@ das wird ihm offen gesagt. **Keine Auswertung der Fotos.** **Keine rechtliche
 Bewertung.** **Keine Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
 
 ## #7547 — Luke Prior (lukepriora20@hotmail.com) — vierte Fassung, zweite Absage nach Gesetzesberufung  
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „on thursday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **✅ GEPRÜFT am 30.09.: geltende Fassung. Sie deckt beide Threads ab („Poor all round" und „No order") — NUR EINMAL senden, im Thread „No order", in dem seine letzte Nachricht steht.**
@@ -12833,6 +12847,8 @@ and a duck"); die Bestellzeilen führen keine Variante, also wird sie nicht
 korrigiert. Kein Eskalationsmarker im Text.
 
 ## #7347 — Jill Hibbs (hibbsjill@yahoo.com) — zweite Fassung, zweimal abgelehnt für etwas, das sie nie getan hat  
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 **⚠️ ERSETZT — geprüft am 30.09.: derselbe, durchgehend offene Vorgang, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: Order #7347 confirmed
@@ -12896,6 +12912,8 @@ erfunden**, ausdrückliche Bitte, nichts zu verschicken. **Keine rechtliche
 Bewertung.** Kein Eskalationsmarker im Text.
 
 ## #7625 — Erin Browning (ebrowningrn2@yahoo.com) — dritte Fassung, zwei unbenutzte Artikel, „deceptive advertising"
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „on thursday", „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
@@ -13012,6 +13030,8 @@ Kreditkartenfirma oder öffentlichen Beiträgen abzubringen**, und nichts daran
 geknüpft. **Keine rechtliche Bewertung.** Kein Eskalationsmarker im Text.
 
 ## #8142 — Wendy Price (wendyprice579@gmail.com) — Erstkontakt, GB  
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 **⚠️ ERSETZT — geprüft am 30.09.: derselbe, durchgehend offene Vorgang, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: Defective
@@ -13424,6 +13444,8 @@ Rücksendeadresse erfunden.** **Keine Umrechnung** — 38,90 $ ist der Betrag in
 seiner Währung auf der Bestellung. Kein Eskalationsmarker im Text.
 
 ## #7771 — Barb Fitzgerald (justbcuz7025@yahoo.com) — US, fünfter Kontakt, Versandauskunft vom 01.09. war unzutreffend  
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: order #7771
@@ -13649,6 +13671,8 @@ Bestellung. Kein Eskalationsmarker im Text.
 
 ## #7975 — Carl Princehorn (carlprincehorn@gmail.com) — AU, Erstkontakt, erster Artikel in 15 Minuten zerstört
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **Betreff:** Re: A shipment from order #7975 is on the way
 
 > Dear Carl,
@@ -13706,6 +13730,8 @@ presentment-Betrag der Bestellung; die abweichende GBP-Summe wird **nicht**
 überbrückt. Kein Eskalationsmarker im Text.
 
 ## #6592 — Andrew Rowlands (andy@jacarowlands.co.uk) — GB, sechs Fluffys, zwei zerstört, Erstattung **oder** Ersatz verlangt
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **Betreff:** Re: A shipment from order #6592 is on the way
 
@@ -13836,6 +13862,8 @@ ihn von Beschwerden oder Meldungen abzubringen**, und nichts daran geknüpft.
 Kein Eskalationsmarker im Text.
 
 ## #7828 — Jim Edwards (jimandsue.je@gmail.com) — GB, Erstkontakt, „How do I claim my refund"  
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Donkey toy.
@@ -14038,6 +14066,8 @@ Kein Eskalationsmarker im Text.
 
 ## #7560 — Samantha Vowles (sammyv@live.co.uk) — GB, zweite Fassung, beruft sich auf die Garantie aus der Werbemail
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **Betreff:** Re: A shipment from order #7560 is on the way
 
 > Dear Samantha,
@@ -14205,6 +14235,8 @@ zugesagt, kein Betrag zugesagt, kein Termin, keine Absage.** **Keine Aussage
 Rekonstruktion der Anzeige.** Kein Eskalationsmarker im Text.
 
 ## #7472 — Francisco Almazan (falmazan2@gmail.com) — zweite Fassung, Fotos nachgereicht  
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „on friday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
@@ -14420,6 +14452,8 @@ Erstattung auf die Karte der Bestellung ginge. Kein Eskalationsmarker im Text.
 
 ## #6804 — Jill Brown (jillbindewald@gmail.com) — US, zweite Fassung, 1-Stern-Bewertung abgegeben
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **Betreff:** Re: Order #6804
 
 > Dear Jill,
@@ -14634,6 +14668,8 @@ Kein Eskalationsmarker im Text.
 
 ## #8406 — Joyce Abdalla (jva0259@gmail.com) — US, Garantiefrage, zuvor Sicherheitsmeldung
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: Order 8406
@@ -14680,6 +14716,8 @@ Materialsicherheit.** **Keine Rücksendeadresse erfunden.** **Keine
 Umrechnung.** Kein Eskalationsmarker im Text.
 
 ## #3387 — Graeme Everett (graeme.everett@sky.com) — GB, Erstkontakt  
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Elephant toy
@@ -14894,6 +14932,8 @@ Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
 
 ## #7541 — Lois Hertz (drlhertz@gmail.com) — US, zweite Fassung, benennt den Widerspruch der Bedingung
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: 2 days order 7541
@@ -14942,6 +14982,8 @@ kommentarlosen Weitergabe. **Keine Rücksendeadresse erfunden.** **Keine
 Umrechnung.** Kein Eskalationsmarker im Text.
 
 ## #8003 — Michelle Owen (michelle.owen2010@gmail.com) — GB, Erstkontakt
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **Betreff:** Re: Refund
 
@@ -15026,6 +15068,8 @@ zugesagt.** **Keine Wiederholung der Bedingung aus der Vorlage.** Kein
 Eskalationsmarker im Text.
 
 ## #7815 — Angela Stevens (angedave@bigpond.net.au) — AU, zitiert die Website-Versprechen
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **Betreff:** Re: Re order 7815
 
@@ -15133,6 +15177,8 @@ hatte.** **Keine Deutung ihrer Meldung als Erstattungsforderung.** Kein
 Eskalationsmarker im Text.
 
 ## #7898 — Tammy Brentlinger (pitbulladvocate@live.com) — US, Erstkontakt, volle Erstattung verlangt  
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Dog Toys
@@ -15188,6 +15234,8 @@ Rekonstruktion der Anzeige.** **Keine Rücksendeadresse erfunden.** Kein
 Eskalationsmarker im Text.
 
 ## #6546 — Vik Jehdian (vjehdian1972@icloud.com) — 🔴 **angenommene 50-%-Erstattung am 09.09. als „processed" bestätigt, in Shopify nicht verzeichnet**
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **Betreff:** Re: Refund
 
@@ -15369,6 +15417,8 @@ verlangt** — die Ware ist entsorgt, und das wird nicht gegen ihn verwendet.
 presentment-Betrag. Kein Eskalationsmarker im Text.
 
 ## #8142 — Wendy Price (wendyprice579@gmail.com) — GB, ⛔ **zweiter Kontakt, bisher keine einzige Antwort**  
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 **⚠️ ERSETZT — geprüft am 30.09.: derselbe, durchgehend offene Vorgang, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: Defective
@@ -16566,6 +16616,8 @@ Eskalationsmarker im Text.
 
 ## #8337 — Cheryl Tagg (cheryldalby@live.co.uk) — GB, ⛔ **hat Rechtsrat eingeholt**
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: Order #8337 confirmed
@@ -16624,6 +16676,8 @@ Rekonstruktion der Anzeige.** **Keine Rücksendeadresse erfunden.** Kein
 Eskalationsmarker im Text.
 
 ## #7472 — Francisco Almazan (falmazan2@gmail.com) — US, dritter Kontakt, **Größenbeschwerde bleibt unbeantwortet**
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
@@ -16916,6 +16970,8 @@ veröffentlicht ist** — es wird auf die AGB verwiesen, nichts hinzugefügt.
 
 ## #4792 — countrygal2473@rocketmail.com (Bestellung auf SHARON BARROWS) — US, ⛔ **zweimal abgelehnt, kündigt einen öffentlichen Beitrag an**
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **Betreff:** Re: A shipment from order #4792 is on the way
 
 > Hello,
@@ -16972,6 +17028,8 @@ Umrechnung.** Kein Eskalationsmarker im Text.
 
 ## #7457 — Sheree McGowan (shereemcg@gmail.com) — US, ⛔ **Erstattungsfrage mit der Kauschaden-Vorlage beantwortet**
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
 **Betreff:** Re: refund
@@ -17023,6 +17081,8 @@ Bedingung.** **Keine Behauptung, das Wort „indestructible" existiere nicht.**
 Umrechnung.** Kein Eskalationsmarker im Text.
 
 ## #7084 — Fiona Williams (fwjw1@optusnet.com.au) — **AU**, Erstkontakt, **verlangt ausdrücklich nichts**
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **Betreff:** Re: A shipment from order #7084 is on the way
 
@@ -17080,6 +17140,8 @@ Rücksendeadresse erfunden.** **Keine Umrechnung** — 54,25 A$ ist der
 presentment-Betrag. Kein Eskalationsmarker im Text.
 
 ## #8142 — Wendy Price (wendyprice579@gmail.com) — GB, ⛔🔴 **dritter Kontakt, noch immer keine Antwort, Bank und Bewertung angekündigt**  
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 **⚠️ ERSETZT — geprüft am 30.09.: derselbe, durchgehend offene Vorgang, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: FW: RE: FW: Defective
@@ -17198,6 +17260,8 @@ unterschrieben hat** (die Bestellung lautet auf einen längeren Vornamen —
 
 ## #3387 — Graeme Everett (graeme.everett@sky.com) — GB, ⛔ **zweiter Kontakt, keine Antwort auf den ersten**
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **Betreff:** Re: Fwd: Elephant toy
 
 > Dear Graeme,
@@ -17245,6 +17309,8 @@ der Anzeige.** **Foto nicht geöffnet**, und das wird ihm gesagt. **Keine
 Rücksendeadresse erfunden.** Kein Eskalationsmarker im Text.
 
 ## #7048 — Josephine Carr (jocarr247@yahoo.com) — GB, ⛔ **vierter Kontakt, will an eine „UK department" zurücksenden, die es nicht gibt**  
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 **⚠️ ERSETZT — geprüft am 30.09.: derselbe Vorgang, dieselbe Betreffzeile, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: #7048
@@ -17303,6 +17369,8 @@ keine erfunden wird. **Keine Aussage über die Größe oder Machart der Artikel.
 Kein Eskalationsmarker im Text.
 
 ## #4919 — Em Gregory (greggz@live.co.uk) — GB, 🔴🔴 **40 % zweimal als „processed" bestätigt, nichts gebucht — und ihre Kernfrage seit dem 04.09. unbeantwortet**
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **Betreff:** Re: A shipment from order #4919 is on the way
 
@@ -17435,6 +17503,8 @@ verlangt.** **Foto nicht geöffnet.** **Keine Umrechnung** — 53,87 A$ ist der
 presentment-Betrag. Kein Eskalationsmarker im Text.
 
 ## #7440 — Aaron Kell (aaron.kell30@gmail.com) — US, zweiter Kontakt nach der Vorlage
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **Betreff:** Re: Toy destroyed
 
@@ -17835,6 +17905,8 @@ mit dem er unterschreibt.** Kein Eskalationsmarker im Text.
 
 ## #7208 — Nikki Shefferd (nikkishefferd@gmail.com) — GB, **Erstkontakt, zwei Threads, ruft die 30-Tage-Garantie ausdrücklich an**
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **Betreff:** Re: Order #7208
 
 > Dear Nikki,
@@ -18174,6 +18246,8 @@ Eskalationsmarker im Text.
 
 ## #2852 — John Conrad (jmconrad417@gmail.com) — US, **antwortet auf die Vorlage: „did not last as described"**
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **Betreff:** Re: Order #2852 confirmed
 
 > Dear John,
@@ -18479,6 +18553,8 @@ Zahlungsdienstleister abzubringen**, und nichts davon abhängig gemacht.
 
 ## #6893 — Eloise Newbrook (eloise.newbrook@gmail.com) — AU, **Erstkontakt, ruft die 30-Tage-Garantie an, 34 Tage Lieferzeit**
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **Betreff:** Re: 30 day money back
 
 > Dear Eloise,
@@ -18673,6 +18749,8 @@ Eskalationsmarker im Text.
 
 ## #8228 — Marty Andrews (martin@interpet.com.sg) — AU, **Erstkontakt, verlangt „a solution", nicht ausdrücklich Geld**
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **Betreff:** Re: Order #8228 confirmed
 
 > Dear Marty,
@@ -18796,6 +18874,8 @@ warum nicht. **Kein Nachweis, kein Foto verlangt.** **Keine Aussage zur
 Qualität, in keine Richtung.** Kein Eskalationsmarker im Text.
 
 ## #8577 — Shirley McCutcheon (shirls_mc@hotmail.co.uk) — GB, Erstkontakt  
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Toys delivered
@@ -19162,6 +19242,8 @@ darüber, wie lange der Artikel hätte halten sollen, in keine Richtung.**
 verlangt**, ausdrücklich abbestellt. Kein Eskalationsmarker im Text.
 
 ## #7048 — Josephine Carr (jocarr247@yahoo.com) — GB, **fünfter Kontakt, seit zwei Tagen unbeantwortet**  
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 **⚠️ ERSETZT — geprüft am 30.09.: derselbe Vorgang, dieselbe Betreffzeile, durch eine spätere Fassung abgelöst. NICHT senden.**
 
 **Betreff:** Re: #7048
@@ -19219,6 +19301,8 @@ Richtung.** **Kein Versuch, sie von Klarna oder Trading Standards abzubringen.**
 **Kein Nachweis, kein Foto verlangt.** Kein Eskalationsmarker im Text.
 
 ## #8552 — Andy Gladman (andyg9053@googlemail.com) — GB, Erstkontakt
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **Betreff:** Re: Order #8552 confirmed
 
@@ -19325,6 +19409,8 @@ hat sie nicht angerufen. **Nichts über die Werbung behauptet** — sie hat sie
 nicht erwähnt. Kein Eskalationsmarker im Text.
 
 ## #8573 — Alison Greaves (alisongreaves41@gmail.com) — GB, Erstkontakt  
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Indestructable toy
@@ -19914,6 +20000,8 @@ hat die 60 % angenommen. Kein Eskalationsmarker im Text.
 
 ## #7898 — Tammy Brentlinger (`pitbulladvocate@live.com`) — US, **zweiter Kontakt nach der Vorlage vom 24.09.** · **ERSETZT den Entwurf vom 21.09.**
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **⚠️ Der Entwurf vom 21.09. ist überholt und darf nicht mehr gesendet
 werden.** Er entstand, bevor sie am 24.09. die Kauschaden-Vorlage erhielt, und
 kennt diese Absage nicht.
@@ -20186,6 +20274,8 @@ unterschreibt nicht. Kein Eskalationsmarker im Text.
 
 ## #7373 — Dom Frisina (`isdom00@gmail.com`) — Erstkontakt, **bestreitet eine Werbeaussage** · **Bestelldatensatz nicht abrufbar**
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **Betreff:** `Re: Order #7373`
 
 > Dear Dom,
@@ -20356,6 +20446,8 @@ Eskalationsmarker im Text.
 ---
 
 ## #7168 — Phil & Sarah Hockley (`philnsarahhockley@gmail.com`) — **verlangt ausdrücklich Eskalation, wirft Irreführung vor** · 28.09.
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **Betreff:** `Re: Order #7168 confirmed`
 
@@ -20641,6 +20733,8 @@ Bestellsatz geprüft oder korrigiert.** **Ein Entwurf für beide Threads**,
 ausdrücklich nur einmal zu senden. Kein Eskalationsmarker im Text.
 
 ## #? — Barbara Johnson (`jurienink@gmail.com`) — **zweiter Kontakt, erster blieb fünf Tage unbeantwortet** · **Bestelldatensatz nicht abrufbar**
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **Betreff:** `Re: Plushies`
 
@@ -20975,6 +21069,8 @@ Eskalationsmarker im Text.
 
 ## #8307 — Yvette Martin (`yvettemears@yahoo.co.uk`) — **Erstkontakt, ein Artikel ungeöffnet, beruft sich auf die Rückgaberichtlinie** · 29.09.
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **Betreff:** `Re: Order #8307 confirmed`
 
 > Dear Ms Martin,
@@ -21057,6 +21153,8 @@ Namen aus ihrer eigenen Unterschrift angesprochen.** Kein Eskalationsmarker im
 Text.
 
 ## #8432 — Colin Teager (`tiggerbcfc@gmail.com`) — **fragt nach Ersatz unter der 30-Tage-Garantie; wurde am 28.09. eine bereits zugestellte Lieferung als „unterwegs" gemeldet** · 29.09.
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **Betreff:** `Re: A shipment from order #8432 is on the way`
 
@@ -21143,6 +21241,8 @@ Eskalationsmarker im Text.
 
 ## #7982 — Rod O'Donnell (`mrodonnell66@gmail.com`) — **Erstkontakt, Australien, bestreitet die Produktaussage, will volle Erstattung** · 29.09.
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **Betreff:** `Re: Refund Request - Order #7982`
 
 > Dear Mr O'Donnell,
@@ -21222,6 +21322,8 @@ nicht ausgelegt.** **Nichts aus den Rassen seiner Hunde gefolgert.** Kein
 Eskalationsmarker im Text.
 
 ## #8592 — Stephen Cranney (`stephencranney@aol.com`) — **Lieferstatus; auf der Bestellung steht KEINE E-Mail-Adresse** · 29.09.
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **Betreff:** `Re: Where is my order #LYGH55D65`
 
@@ -21373,6 +21475,8 @@ E-Mail-Adresse wird nicht benutzt und nicht erwähnt.** Kein Eskalationsmarker
 im Text.
 
 ## #7699 — Lorraine Sale (`lorraine.sale1@hotmail.co.uk`) — **verlangt volle Erstattung, bestreitet erstmals die Werbung** · 29.09.
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **Betreff:** `Re: A shipment from order #7699 is on the way`
 
@@ -21614,6 +21718,8 @@ Eskalationsmarker im Text.
 
 ## #8577 — Shirley (`shirls_mc@hotmail.co.uk`) — **nach der Kauschaden-Vorlage vom 29.09.; kündigt Kommentare unter der Werbung an** · 29.09.
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **29.09.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „tonight") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
 
 **Betreff:** `Re: Toys delivered`
@@ -21696,6 +21802,8 @@ senden.** **Nichts aus ihrem Hund gefolgert.** **⚠️ Der ältere #8577-Entwur
 bleibt als ersetzt markiert.** Kein Eskalationsmarker im Text.
 
 ## #8573 — Alison Greaves (`alisongreaves41@gmail.com`) — **nach der Kauschaden-Vorlage vom 29.09.** · 29.09.
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **29.09.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „tonight") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
 
@@ -22013,6 +22121,8 @@ hinaus. Kein Eskalationsmarker im Text.
 
 ## #8568 — Allen Irvin (`allenirvin@aol.com`) — **zwei Antworten heute Abend, beide Threads** · 29.09.
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **29.09.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „tonight") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
 
 **Betreff:** `Re: Returns`
@@ -22074,6 +22184,8 @@ Garantieentscheidung.** **Nichts aus Rasse oder Gewicht seines Hundes
 gefolgert, und das wird ihm gesagt.** Kein Eskalationsmarker im Text.
 
 ## #8574 — John Husk (`husky0877@googlemail.com`) — **nach der Vorlage: „So you are fine that it lasted one evening?"** · 29.09.
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **29.09.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „tonight") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
 
@@ -22201,6 +22313,8 @@ wird nicht zurückgenommen, nur weil sie jetzt annimmt.** **Der Entwurf vom
 
 ## #8431 — Sarah Williams (`slw72@tpg.com.au`) — **AU**, **nach der Kauschaden-Vorlage: verlangt jetzt Erstattung NUR für den ungeöffneten Elefanten** · 30.09.
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **30.09.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „last night") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
 
 **Betreff:** `Re: Refund Request – Order #8431 – Donkey Plush Destroyed Within 10 Minutes`
@@ -22297,6 +22411,8 @@ Aussage zur Qualität, in keine Richtung.** **Nichts aus ihrem Hund
 gefolgert.** Kein Eskalationsmarker im Text.
 
 ## #8126 — Joanne Wurth (`jwurthy@gmail.com`) — **AU**, **will die Rücksendeadresse, um das Porto zu prüfen — Artikel ungeöffnet** · 30.09.
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **Betreff:** `Re: Order 8126`
 
@@ -22533,6 +22649,8 @@ gefolgert.** Kein Eskalationsmarker im Text.
 
 ## #7091 — HUD Bullivant (`hud@hildebrandt.com.au`) — **AU**, **zweiter Kontakt nach der Vorlage; Bestellung jetzt identifiziert** · 30.09.
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **30.09.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „last night") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
 
 **Betreff:** `Re:`
@@ -22615,6 +22733,8 @@ Entwurf vom 28.09. ist als ersetzt markiert.** Kein Eskalationsmarker im
 Text.
 
 ## #? — Jen Helmuth (`jenhelmuth57@gmail.com`) — **Erstkontakt in diesem Postfach; keine Bestellung unter ihrer Adresse auffindbar** · 30.09.
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **Betreff:** `Re: Donkey.`
 
@@ -22902,6 +23022,8 @@ Kein Eskalationsmarker im Text.
 
 ## #5973 — Stephen Cooil (`stevecooil@me.com`) — GB, **zum ZWEITEN Mal „processed" gesagt bekommen; `refunds` weiterhin leer** · 30.09.
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **✅ GEPRÜFT am 30.09.: Dies ist die geltende Fassung für diesen Kunden. Die früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
 **Betreff:** `Re: Plushies Order 5973`
@@ -23091,6 +23213,8 @@ eigenen Unterschrift „Mary" angesprochen.** Kein Eskalationsmarker im Text.
 
 ## #8295 — Ivan Griffen (`griffenivan@gmail.com`) — GB, **ZUSAMMENGEFÜHRTER Entwurf für alle fünf Threads** · 01.10.
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 
 **✅ GEPRÜFT am 01.10.: Dies ist die geltende Fassung für diesen Kunden. Alle sechs früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
@@ -23192,6 +23316,8 @@ Beitrag geknüpft**, und nicht um Aufschub gebeten. **Vor dem Porto gewarnt.**
 gefolgert.** Kein Eskalationsmarker im Text.
 
 ## #7608 — Patricia Arenella (`patty.arenella@gmail.com`) — US, **ZUSAMMENGEFÜHRTER Entwurf für beide Threads; enthält die seit 13.09. unbeantwortete Sicherheitsmeldung** · 01.10.
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **✅ GEPRÜFT am 01.10.: Dies ist die geltende Fassung für diese Kundin. Alle fünf früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
@@ -23301,6 +23427,8 @@ Porto gewarnt.** **Nichts aus ihrem Hund gefolgert.** Kein Eskalationsmarker
 im Text.
 
 ## #7041 — Tim Fitton (`fitton@fitton.karoo.co.uk`) — GB, **ZUSAMMENGEFÜHRTER Entwurf für alle drei Threads; drei Kauschaden-Vorlagen, Erstattungsforderung nie beantwortet** · 01.10.
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **✅ GEPRÜFT am 01.10.: Dies ist die geltende Fassung für diesen Kunden. Alle vier früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
@@ -23759,6 +23887,8 @@ thematisiert.** Kein Eskalationsmarker im Text.
 
 ## #4940 — Rena Barnes (`renabarnes@hotmail.com`) — GB, **🟥 sechs Angebotsbriefe mit ZWEI verschiedenen Prozentzahlen im selben Brief; sie nimmt jetzt an** · 01.10.
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **✅ GEPRÜFT am 01.10.: geltende Fassung für diese Kundin.**
 
 **🟥 Dieser Fall belegt den Defekt der Angebotsvorlage im Wortlaut. Siehe Protokolleintrag.**
@@ -24158,6 +24288,8 @@ Eskalationsmarker im Text.
 
 ## #2095 — Pam Trafford (`trafford.pam@gmail.com`) — 🟥 **hat HEUTE 10:49 erneut die Kauschaden-Vorlage bekommen; nennt erstmals einen DRITTEN, ungeöffneten Artikel; ihre Bank wartet weiter auf die Adresse** · 01.10. 19:20
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **01.10.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „this morning") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
 
 **✅ GEPRÜFT am 01.10.: geltende Fassung für diese Kundin. Die früheren Fassungen in dieser Datei sind als ersetzt markiert.**
@@ -24327,6 +24459,8 @@ im Text.
 
 ## #? — `karen.seitz66@gmail.com` — **Erstkontakt, keine Bestellnummer genannt; „I know the guarantee said that it was indestructible"** · 01.10. 22:25
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **✅ GEPRÜFT am 01.10.: geltende Fassung für diese Kundin.**
 
 **🟥 OHNE BESTELLDATEN — Shopify verlangt seit 17:20 UTC eine neue Anmeldung, und sie hat keine Bestellnummer genannt. Es wird deshalb NICHT gesagt, es sei keine Bestellung auffindbar — es wurde gar nicht gesucht, weil nicht gesucht werden kann.**
@@ -24408,6 +24542,8 @@ im Text.
 
 ## #7324 — Kelly D (`kellydstudio@gmail.com`) — 🟥 **ihre Sicherheitsmeldung vom 29.09. wurde am 01.10. mit der Kauschaden-Vorlage beantwortet** · 02.10. 00:20
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **02.10.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „this evening") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
 
 **✅ GEPRÜFT am 02.10.: Dies ist die geltende Fassung für diese Kundin. Die frühere Fassung vom 29.09. ist als ersetzt markiert.**
@@ -24486,6 +24622,8 @@ nicht abfragbar ist. **Nichts aus ihrem Hund gefolgert.** Kein
 Eskalationsmarker im Text.
 
 ## #7610 — Vicky Blow (`vannblow@icloud.com`) — **ZUSAMMENGEFÜHRTER Entwurf für beide Threads; vier Erstattungsforderungen, keine davon beantwortet** · 02.10.
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **✅ GEPRÜFT am 02.10.: Dies ist die geltende Fassung für diese Kundin. Alle vier früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
@@ -24570,6 +24708,8 @@ gefolgert.** Kein Eskalationsmarker im Text.
 
 ## #7114 — Geoffrey Russell (`geoffruss123@gmail.com`) — **ZUSAMMENGEFÜHRTER Entwurf für alle drei Threads; 🔴 er will eine ZWEITE Bestellung zurückschicken und weiß nicht, dass es keine Adresse gibt** · 02.10.
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **✅ GEPRÜFT am 02.10.: Dies ist die geltende Fassung für diesen Kunden. Alle vier früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
 **⚠️ Drei Threads, dieselbe Bestellung. Dieser eine Entwurf deckt alle drei ab.** Zu senden im Thread `Re: A shipment from order #7114 is on the way`.
@@ -24652,6 +24792,8 @@ Trackingstatus, kein Verweis an den Zusteller.** **Nichts aus seinem Hund
 gefolgert.** Kein Eskalationsmarker im Text.
 
 ## #6936 — Lisa Steggel (`lisac131@googlemail.com`) — ⛔ **NICHT UNAUFGEFORDERT SENDEN** · fünfter „processed"-Fall · 02.10.
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **✅ GEPRÜFT am 02.10.: Dies ist die geltende Fassung für diese Kundin. Alle vier früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
@@ -24750,6 +24892,8 @@ Eskalationsmarker im Text.
 
 ## #7525 — Carol Garvey (`carolgarvey2@hotmail.com`) — **ZUSAMMENGEFÜHRTER Entwurf für beide Threads; sie hat am 14.09. zwei direkte Fragen gestellt, beide bis heute unbeantwortet** · 02.10.
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **✅ GEPRÜFT am 02.10.: Dies ist die geltende Fassung für diese Kundin. Alle drei früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
 **⚠️ Zwei Threads, eine Bestellung. Dieser eine Entwurf deckt beide ab.** Zu
@@ -24828,6 +24972,8 @@ Bestelldatensatz**, weil Shopify nicht abfragbar ist. **Nichts aus ihrem Hund
 gefolgert.** Kein Eskalationsmarker im Text.
 
 ## #5128 — Stuart Leech (`firestorm637@gmail.com`) — Erstkontakt, bestrittene Werbeaussage, er zitiert konkrete Formulierungen · 02.10.
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue Anmeldung; am 02.10. 09:2x erneut geprüft, weiterhin gesperrt.**
 
@@ -24920,6 +25066,8 @@ Hund gefolgert.** Kein Eskalationsmarker im Text.
 
 ## `panorton61@gmail.com` — Erstkontakt, **keine Bestellnummer, kein Name**, er beruft sich auf eine Ersatzzusage in der Werbung · 02.10.
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue
 Anmeldung; am 02.10. erneut geprüft, weiterhin gesperrt. Es wurde also gar
 nicht gesucht — der Entwurf behauptet NICHT, es sei keine Bestellung
@@ -25011,6 +25159,8 @@ Beschreibung eines fremden Vorgangs. **Nichts aus seinem Hund gefolgert.**
 Kein Eskalationsmarker im Text.
 
 ## #7034 — Sarah Checksfield (`sarahc300@gmail.com`) — 🔴 **dritte Bitte um dieselbe Auskunft; sie hält einen UNGEÖFFNETEN Artikel** · 02.10.
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **✅ GEPRÜFT am 02.10.: Dies ist die geltende Fassung für diese Kundin.**
 
@@ -25125,6 +25275,8 @@ Bestelldatensatz.** **Nichts aus ihrem Hund gefolgert.** Kein
 Eskalationsmarker im Text.
 
 ## #7148 — Tom Hibbard (`tchibb@gmail.com`) — 🔴 **kündigt eine Meldung beim BBB an; will Ersatz, keine Erstattung** · 02.10.
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **✅ GEPRÜFT am 02.10.: Dies ist die geltende Fassung für diesen Kunden. Die frühere Fassung in dieser Datei ist als ersetzt markiert.**
 
@@ -25394,6 +25546,8 @@ die vor dem Senden zu füllen ist.**
 
 ## Nigel Bennett (`nigel.1966@hotmail.co.uk`) — **keine Bestellnummer** · bestrittene Werbeaussage, **aber KEINE Forderung gestellt** · 02.10.
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **Erstkontakt, am Tag der Lieferung.** **Zwei Fotos — nicht geöffnet.**
 
 > *„This **indestructible** monkey my Labrador a has pulled its ear off
@@ -25481,6 +25635,8 @@ Bestelldatensatz.** **Nichts aus seinem Hund gefolgert.** Kein
 Eskalationsmarker im Text.
 
 ## #8312 — Paul Beaver (`mrpbeaver@gmail.com`) — **ZUSAMMENGEFÜHRT** · 🟥 **viermal nach dem Rückgabeweg gefragt, nie beantwortet; dazu eine Sicherheitssorge vom 18.09., die in vier Antworten nicht vorkommt** · 03.10.
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diesen Kunden. Alle vier früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
@@ -25598,6 +25754,8 @@ Daten werden nur als seine wiedergegeben. **Nichts aus seinem Hund
 gefolgert.** Kein Eskalationsmarker im Text.
 
 ## #7179 — Keith (`keithhyype@gmail.com`), US — ⛔ **NICHT UNAUFGEFORDERT SENDEN** · 🟥 **SECHSTER „processed"-Fall** · 03.10.
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diesen Kunden. Alle drei früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
@@ -25727,6 +25885,8 @@ dem Bestelldatensatz.** **Nichts aus seinem Hund gefolgert.** Kein
 Eskalationsmarker im Text.
 
 ## #6528 — Tommy Johnson (`thomashjohnson23@gmail.com`) — ⛔ **NICHT UNAUFGEFORDERT SENDEN** · 🟥 **SIEBTER „processed"-Fall — und der VIERTE Brief im Acht-Minuten-Fenster vom 22.09.** · 03.10.
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diesen Kunden. Alle drei früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
@@ -25895,6 +26055,8 @@ Text.
 
 ## #7292 — Tracy Hartley (`doulatracy@gmail.com`), US — **ZUSAMMENGEFÜHRT** · 🟥 **sie stellt seit dem 12.09. DREIMAL zwei präzise Fragen zu unseren eigenen Texten; keine davon wurde beantwortet** · 03.10.
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diese Kundin. Alle drei früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
 **🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue
@@ -26050,6 +26212,8 @@ nicht erwähnt.** **Keine andere Frist als dreißig Tage genannt.** **Nichts
 aus ihrem Hund gefolgert.** Kein Eskalationsmarker im Text.
 
 ## #7119 — Susan McGee (`susanmcgee@outlook.com.au`), AU — **ZUSAMMENGEFÜHRT** · 🟥 **zweimal Rückgabe angeboten, zweimal die Kauschaden-Vorlage; dazu Verbraucherrecht, Chargeback und eine angekündigte öffentliche Veröffentlichung** · 03.10.
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diese Kundin. Alle drei früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
@@ -26517,6 +26681,8 @@ wird nicht kommentiert und nicht zugeordnet.** Kein Eskalationsmarker im Text.
 
 ## #5829 — Tasmin Hunt (`tazzyhunt1@hotmail.co.uk`), vertreten durch David Coles (`david.coles1990@gmail.com`), GB — **ZUSAMMENGEFÜHRT** · 🟥 **förmliche Zurückweisung nach CRA 2015 — DREIMAL mit der Kauschaden-Vorlage beantwortet, die dritte war die Eingangsvorlage** · 03.10.
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diesen Fall. Beide früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
 **🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue
@@ -26636,6 +26802,8 @@ Bestelldatensatz.** **Nichts aus dem Hund gefolgert.** Kein
 Eskalationsmarker im Text.
 
 ## #7749 — Adrian Vincent-Janes (`adrian@vincent-janes.com`), GB — **ZUSAMMENGEFÜHRT** · 🟥 **DREIMAL eine Sicherheitssorge erhoben (20.09., 23.09., 30.09.) — zweimal mit der Kauschaden-Vorlage beantwortet, nie als Sicherheitsmeldung** · 03.10.
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diesen Kunden. Alle früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
@@ -27059,6 +27227,8 @@ Bestellung auffindbar.** Kein Eskalationsmarker im Text.
 
 ## #6311 — Garth Callaghan (`garthcallaghan93@gmail.com`) — **ZUSAMMENGEFÜHRT** · 🟥 **fragt direkt nach der ERSATZZUSAGE aus der Facebook/Instagram-Werbung — und hat offenbar ein Bild davon mitgeschickt** · 03.10.
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diesen Kunden. Beide früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
 **🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue Anmeldung.**
@@ -27170,6 +27340,8 @@ Eskalationsmarker im Text.
 
 ## #8002 — Thomas Robinson (`thomas2788work@gmail.com`), GB — **ZUSAMMENGEFÜHRT** · 🟥 **„How do I get a refund?" am 16.09. — dieselbe Vorlage zweimal; er hat die Wiederholung selbst erkannt** · 03.10.
 
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
+
 **✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diesen Kunden. Beide früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
 **🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue
@@ -27276,6 +27448,8 @@ Kundenvorgang erwähnt** — der Gleichlaut mit #5128 steht nur im Kopf dieses
 Entwurfs, für den Owner. Kein Eskalationsmarker im Text.
 
 ## #5310 — Heather Taylor (`bhjdc5@gmail.com`), US — **ZUSAMMENGEFÜHRT** · 🟥 **DRITTER Vorlagenbrief, der dritte wörtlich gleich dem zweiten — und DRITTE unabhängige Kundin mit derselben Werbeaussage, die jetzt in unserer EIGENEN Werbemail eine Entsprechung hat** · 03.10.
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diese Kundin. Alle drei früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
@@ -27451,6 +27625,8 @@ relativen** — dieser Entwurf braucht keine Datumswarnung. Kein
 Eskalationsmarker im Text.
 
 ## #6384 — Simon Foord (`simonfoord@me.com`), GB — **ZUSAMMENGEFÜHRT** · 🟥 **VIERTER belegter Doppelbrief: die Eingangsvorlage vom 18.09. ging am 24.09. WÖRTLICH erneut hinaus — nur die Anrede wechselte von „Dear Simon" zu „Dear Customer"** · 🟥 **Klarna + Trading Standards + „under UK law"** · 03.10.
+
+**⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diesen Kunden. Alle drei früheren Fassungen in dieser Datei sind als ersetzt markiert.**
 
