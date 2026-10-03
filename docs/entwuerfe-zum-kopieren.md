@@ -13267,6 +13267,8 @@ Spekulation, warum die Nummer einen Fehler zeigt.** **Keine Umrechnung** — es
 wird kein Betrag genannt, weil keiner nötig ist. Kein Eskalationsmarker im Text.
 
 ## #8669 — Chad Lovell (havoc17@aol.com) — Stornierung elf Minuten nach der Bestellung, nichts versandt  
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: How do I cancel my order
@@ -16177,6 +16179,8 @@ geöffnet.** **Keine Rücksendeadresse erfunden.** **Keine Umrechnung** — 38,4
 ist der presentment-Betrag. Kein Eskalationsmarker im Text.
 
 ## #8669 — Chad Lovell (havoc17@aol.com) — US, 🔴🔴 **Stornierung mit einer Versandangabe abgelehnt, die unser eigener Datenstand nicht trägt**
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
@@ -26811,6 +26815,102 @@ der Ware wird nichts Neues gesagt** — die Auskunft vom 18.08. („internationa
 warehouse") wird nicht zurückgenommen und nicht ausgebreitet. **Ihre
 Bemerkung „How is your sleep at night" wird aufgegriffen, ohne sich zu
 rechtfertigen und ohne Floskel.** Kein Eskalationsmarker im Text.
+
+## #8669 — Chad Lovell (`havoc17@aol.com`), US — **ZUSAMMENGEFÜHRT** · 🟥 **Storno elf Minuten nach der Bestellung — drei Tage später mit „has already been shipped" abgelehnt, obwohl der Datensatz damals NICHTS Versandtes zeigte** · 03.10.
+
+**✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diesen Kunden. Beide früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue
+Anmeldung. `orderCancel` ist ohnehin gesperrt.**
+
+**🟦 Was aus unserer eigenen Datei stammt, nicht aus einer heutigen Abfrage:**
+die Fassung vom 19./20.09. — geschrieben, **als Shopify noch abfragbar war** —
+hält fest: **bestellt um 18:17, Storno elf Minuten später, beide Positionen
+„unfulfilled", nichts übergeben.** **Das ist unser eigener damaliger
+Datenstand.** **Er ist heute nicht erneut prüfbar, und der Entwurf sagt das
+so.**
+
+**Der Verlauf (`get_thread`, 3 von 3 Nachrichten):**
+
+| Datum (UTC) | Was |
+|---|---|
+| **19.09. 17:28** | *„Order # 8669. **I'd like to cancel the order.** Chad"* — **elf Minuten nach der Bestellung** |
+| **22.09. 11:16** | **🟥 *„Unfortunately, order #8669 **has already been shipped**, so we're unable to cancel it at this stage."*** — **drei Tage später** |
+| **22.09. 12:45** | *„My concern is that you have horrible reviews and the toys are torn apart in the first day."* |
+| seitdem | **nichts. Elf Tage.** |
+
+**🟥 Zwei Dinge liegen übereinander:** der Storno lag **drei Tage
+unbearbeitet** — und die Ablehnung stützte sich auf eine Versandangabe, die
+**unser eigener Datenstand zu jenem Zeitpunkt nicht trug.**
+
+**🟦 Er hat keine Erstattung verlangt.** Seine letzte Nachricht nennt eine
+**Sorge**, keine Forderung. **Das wird nicht umgedeutet.**
+
+**Betreff:** `Re: How do I cancel my order`
+
+> Dear Chad,
+>
+> **You asked to cancel on 19 September, eleven minutes after placing the
+> order. The reply came three days later and said the order had already
+> shipped. I am not going to leave that standing as though it settled
+> anything.**
+>
+> **Here is what I can tell you honestly, and the limits of it.** **When our
+> order record was last readable to this desk, around the time you wrote, it
+> showed both items as unfulfilled — nothing handed over for despatch.**
+> **That is our own record, not my impression.** **Our order system is not
+> reachable from here today, so I cannot tell you what it says now, and I am
+> not going to guess in either direction: I am not going to tell you the
+> parcel is on its way, and I am not going to tell you it never went.**
+> **What I am not going to do is repeat the sentence you were sent, because I
+> cannot stand behind it.**
+>
+> **Your cancellation request goes to the shop owner today, with the date and
+> time you sent it and the fact that it sat for three days.** **I cannot
+> cancel the order from this desk and I cannot release money from it — so I
+> am not going to write that it has been cancelled.** **He is the only one
+> who can do either.** **I am not going to give you a date.**
+>
+> **You have not asked me for a refund and I am not going to put words in
+> your mouth.** **If that is what you want now — instead of, or as well as,
+> the cancellation — say so and it goes over as a refund request in your own
+> words.** **If you would rather simply have the order stopped, that is what
+> is already on its way to him.**
+>
+> **If a parcel does arrive after all, please do not post it back on your own
+> initiative.** **There is no returns address I can give you at the moment —
+> not one I am withholding, one that does not exist on our side — and you
+> would be out the postage as well.** **Tell us instead.**
+>
+> **On the reviews you mentioned: I am not going to argue with you about what
+> you read, and I am not going to tell you what to make of it.** **I am also
+> not going to make any claim about how the toys hold up, in either
+> direction — you have not received anything yet, and a reassurance from me
+> would be worth nothing to you.**
+>
+> **Three days on a cancellation sent eleven minutes after an order is not
+> something I can explain, and I am not going to try.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Weitergabe des Stornos mit Uhrzeit und der
+Feststellung, dass es drei Tage lag**; das **Angebot**, eine
+Erstattungsforderung weiterzugeben, falls er eine stellt; die **Warnung, kein
+Porto auszugeben**, falls doch ein Paket kommt. **🟥 NICHT behauptet, die
+Bestellung sei storniert** — und offen gesagt, dass es von hier nicht
+ausführbar ist. **🟥 Die Angabe „has already been shipped" wird NICHT
+wiederholt** — und es wird **weder behauptet, das Paket sei unterwegs, noch,
+es sei nie versandt worden.** **Der frühere Datenstand wird ausdrücklich als
+„zuletzt lesbar" gekennzeichnet, mit dem Hinweis, dass er heute nicht
+prüfbar ist.** **Kein Termin, keine Erstattung zugesagt, keine Absage.**
+**🟥 Seine Sorge wird NICHT in eine Erstattungsforderung umgedeutet.**
+**Keine Aussage zur Haltbarkeit der Spielzeuge, in keine Richtung** — er hat
+noch nichts erhalten. **Zu den Bewertungen, die er gelesen hat, wird nicht
+widersprochen und nichts daran geknüpft.** **Kein Trackingstatus, keine
+Trackingnummer, kein Verweis an den Zusteller.** **Keine Angaben aus dem
+heutigen Bestelldatensatz.** Kein Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 

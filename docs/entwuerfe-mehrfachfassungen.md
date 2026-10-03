@@ -27,7 +27,7 @@ Blick in die Threads der Kundin oder des Kunden.**
 4. **Wenn nein:** eine zusammengeführte Fassung schreiben, die alles abdeckt,
    und alle vorherigen als ERSETZT markieren.
 
-**Bereits so abgearbeitet (31 von 96):** #7479, #7048, #7347, #8142, #8372,
+**Bereits so abgearbeitet (32 von 96):** #7479, #7048, #7347, #8142, #8372,
 #7547, #6254, #5973, #7831, **#8295** (sechs Fassungen, fünf Threads),
 **#7608** (fünf Fassungen, zwei Threads, Sicherheitsmeldung nachgetragen),
 #7041, **#7989** (zugesagte Variante nie umgesetzt), **#8781** (Storno nach
@@ -45,11 +45,11 @@ zu unseren eigenen Texten, dreimal gestellt, nie beantwortet) **#7119**
 (volle Erstattung am 03.09. zugesagt, derselbe Brief am 21.09. wörtlich
 erneut geschickt) **#7555** (zitiert unsere eigene Werbemail: „Zero risk
 on your side… you're covered either way") **#5829** (förmliche
-Zurückweisung nach CRA 2015, dreimal mit der Vorlage beantwortet) **#7749** (Sicherheitssorge dreimal erhoben, nie als solche beantwortet) und
-**#5036** (Storno nie ausgeführt, „parcel was delivered" gegen ihre Aussage,
-23 Tage ohne Antwort).
+Zurückweisung nach CRA 2015, dreimal mit der Vorlage beantwortet) **#7749** (Sicherheitssorge dreimal erhoben, nie als solche beantwortet) **#5036** (Storno nie ausgeführt, „parcel was delivered" gegen ihre Aussage,
+23 Tage ohne Antwort) und **#8669** (Storno elf Minuten nach der Bestellung,
+drei Tage später mit einer Versandangabe abgelehnt).
 
-**Noch offen: 65.** Die Tabelle unten ist der Stand bei Erstellung am 01.10.
+**Noch offen: 64.** Die Tabelle unten ist der Stand bei Erstellung am 01.10.
 und wird nicht zeilenweise nachgeführt — maßgeblich ist diese Liste und der
 GEPRÜFT-Vermerk in `entwuerfe-zum-kopieren.md`.
 

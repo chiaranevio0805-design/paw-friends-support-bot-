@@ -1017,3 +1017,58 @@ und ohne Rechtfertigung.**
   (22 Minuten nach der Bestellung, trotzdem versandt), **#6793** (Storno
   behauptet, nicht prüfbar), **#5036** (07.09., nie beantwortet) — **dazu
   #8764 vom 02.10. mit Frist.**
+
+---
+
+## Lauf 14:20 UTC — Posteingang leer; #8669 abgearbeitet · 🟥 vierter nicht ausgeführter Storno
+
+*(Erst die Datei geschrieben und geprüft — Entwurf in Zeile 27032 —, dann
+dieser Eintrag.)*
+
+**Keine neue Kundennachricht.** Bearbeitet: **#8669 Chad Lovell
+(`havoc17@aol.com`), US**, zwei Fassungen, **Thread vollständig gelesen (3 von
+3).**
+
+| Datum (UTC) | Was |
+|---|---|
+| **19.09. 17:28** | *„Order # 8669. **I'd like to cancel the order.**"* — **elf Minuten nach der Bestellung** |
+| **22.09. 11:16** | **🟥 *„order #8669 **has already been shipped**, so we're unable to cancel it"*** — **drei Tage später** |
+| **22.09. 12:45** | *„My concern is that you have horrible reviews and the toys are torn apart in the first day."* |
+| seitdem | **nichts. Elf Tage.** |
+
+**🟥 Zwei Dinge übereinander:** der Storno lag **drei Tage unbearbeitet** —
+und die Ablehnung stützte sich auf eine **Versandangabe, die unser eigener
+Datenstand damals nicht trug.** **Die Fassung vom 19./20.09., geschrieben als
+Shopify noch abfragbar war, hält fest: bestellt 18:17, Storno elf Minuten
+später, beide Positionen „unfulfilled", nichts übergeben.**
+
+**Der Entwurf nennt diesen Datenstand ausdrücklich als „zuletzt lesbar" und
+sagt, dass er heute nicht prüfbar ist** — **und er behauptet weder, das Paket
+sei unterwegs, noch, es sei nie versandt worden.** **Die Zeile „has already
+been shipped" wird nicht wiederholt.**
+
+**🟦 Er hat keine Erstattung verlangt** — seine letzte Nachricht nennt eine
+**Sorge**. **Das wird nicht umgedeutet**; es wird angeboten, eine Forderung
+weiterzugeben, falls er eine stellt.
+
+**Weiter NICHT im Entwurf:** keine Aussage zur Haltbarkeit der Spielzeuge, in
+keine Richtung — **er hat noch nichts erhalten**; den Bewertungen, die er
+gelesen hat, wird nicht widersprochen und nichts daran geknüpft; kein
+Trackingstatus, kein Verweis an den Zusteller. **Im Entwurf DOCH:** die
+Warnung, kein Porto auszugeben, falls doch ein Paket kommt.
+
+**Beide früheren Fassungen als ERSETZT markiert.**
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 468.** **Geltende: 361.**
+- **Mehrfachfassungen abgearbeitet: 32. Offen: 64.**
+- **🔴 Nicht ausgeführte Stornowünsche jetzt vier:** **#8781** (22 Minuten,
+  trotzdem versandt), **#6793**, **#5036** (07.09., nie beantwortet),
+  **#8669** (elf Minuten, drei Tage später mit einer Versandangabe
+  abgelehnt) — **dazu #8764 vom 02.10. mit Frist.**
+- **🔴 Muster, das der Owner kennen muss:** **in drei dieser Fälle wurde dem
+  Kunden gesagt oder suggeriert, es sei zu spät — bei #8669 nachweislich auf
+  Grundlage einer Angabe, die der eigene Datensatz nicht stützte.**
