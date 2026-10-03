@@ -1692,6 +1692,8 @@ werden — dazu ist im Sortiment nachzusehen.
 
 ## #6528 — thomashjohnson23@gmail.com — fünfter Kontakt, drei ungeöffnete Teile  
 
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
+
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „on thursday", „on wednesday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
@@ -6322,6 +6324,8 @@ Kein Eskalationsmarker im Text.
 ---
 
 ## #6528 — Thomas „Tommy" H. Johnson III (thomashjohnson23@gmail.com) — laufende Verhandlung, 30 % gegen 75 %  
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
@@ -11830,6 +11834,8 @@ rechtliche Einordnung.** **Keine Auswertung der Fotos.** Frist nur mit
 Warnung. Kein Eskalationsmarker im Text.
 
 ## #6528 — Tommy Johnson (thomashjohnson23@gmail.com) — 💷 er nimmt 50 % an, nachdem er fünfmal um die Rückgabe gebeten hat
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 
 **Betreff:** Re: Order #6528 Return Request
 
@@ -25633,6 +25639,173 @@ steht im Protokoll für den Owner, nicht in diesem Brief; es wird auch nichts
 über Material oder Sicherheit gesagt, in keine Richtung. **Keine Angaben aus
 dem Bestelldatensatz.** **Nichts aus seinem Hund gefolgert.** Kein
 Eskalationsmarker im Text.
+
+## #6528 — Tommy Johnson (`thomashjohnson23@gmail.com`) — ⛔ **NICHT UNAUFGEFORDERT SENDEN** · 🟥 **SIEBTER „processed"-Fall — und der VIERTE Brief im Acht-Minuten-Fenster vom 22.09.** · 03.10.
+
+**✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diesen Kunden. Alle drei früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+### ⚠️ Vor dem Senden: NICHT an alle antworten
+
+**Er setzt in seinen eigenen Mails `kth3john@hotmail.com` ins CC.** **Dieser
+Entwurf ist nur an ihn selbst zu senden, nicht per „Antwort an alle"** —
+solange der Owner nicht weiß, dass diese zweite Adresse zur Bestellung gehört
+und mitlesen darf. **Er darf das für sich entscheiden; wir geben Bestelldaten
+nicht an eine Adresse heraus, die nicht an der Bestellung hängt.**
+
+### ⛔ Sendesperre — bitte zuerst lesen
+
+**Er hat seit dem 19.09. nicht mehr geschrieben.** Am **22.09. 11:05:13**
+bekam er: *„I can confirm that the 50% partial refund has now been processed
+to your original payment method."* — angeredet **„Dear Thomas"**, obwohl er
+durchweg **„Tommy"** unterschreibt. **Darauf hat er nicht reagiert.**
+
+**Nur zu senden, wenn der Owner bestätigt, dass die 50 % NICHT ausgezahlt
+wurden — oder wenn Tommy sich selbst meldet.** **Wurden sie gezahlt, ist hier
+nichts zu tun und der Entwurf wird verworfen.**
+
+### 🟥 Der Befund: das Acht-Minuten-Fenster hat VIER Briefe, nicht drei
+
+| Uhrzeit am 22.09. | Fall | Zugesagt | Datensatz (geprüft am 01.10., solange Shopify ging) |
+|---|---|---|---|
+| **11:02:52** | #4998 Michael Warren | 20 % | **£0.00, keine Einträge** |
+| **11:04:12** | #6936 Lisa Steggel | 30 % | nicht mehr prüfbar |
+| **11:05:13** | **#6528 Tommy Johnson** | **50 %** | **nicht mehr prüfbar** |
+| **11:10:43** | #5148 Trudi | 50 % | **£0.00, keine Einträge** |
+
+**Vier gleichlautende „processed"-Bestätigungen in acht Minuten. Die beiden,
+die sich prüfen ließen, waren beide unzutreffend.** **Insgesamt sind es nun
+sieben solche Briefe** (#5973, #4055, #4998, #5148, #6936, #7179, #6528).
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue Anmeldung.**
+
+**🟦 Eigene Mengenangaben widersprechen sich:** am **09.09.** schreibt er
+*„the other **two**"*, ab dem **11.09.** *„the other **3** stuffies"* und
+*„**3** more unused toys"*. **Der Entwurf legt das NICHT fest und korrigiert
+ihn nicht** — beide Angaben gehen an den Owner, und er wird gefragt.
+**Ohne Shopify ist nicht prüfbar, was bestellt wurde.**
+
+**Der Verlauf (`get_thread`, 11 von 11 Nachrichten):**
+
+| Datum (UTC) | Was |
+|---|---|
+| **09.09. 01:43** | Erstkontakt: gekauft, weil *„marketed for big-time chewers"*; **Betreff von Anfang an „Return Request"**; *„**Could we please return the other two that we have not given to her yet for a refund?**"* |
+| 10.09. 10:26 | **Kauschaden-Vorlage** |
+| **11.09. 03:54** | *„I understand that the destroyed stuff cannot be returned, but I ordered multiple… **Could you please set up a return for the other 3 stuffies**"* |
+| **12.09. 17:23** | *„Just wanted to check in on this again."* |
+| 13.09. 20:10 | **zweite Kauschaden-Vorlage** — wieder nur zum benutzten Teil |
+| **13.09. 20:26** | *„**Yes I am fully aware** and understanding of the policy on used toys. **I am not trying to return the used toy. I have 3 more unused toys that are in the original Packaging** that I would like to return"* |
+| 15.09. 07:31 | **30 % statt Rückgabe** |
+| **16.09. 02:29** | *„**I would prefer to return the 3 unused items.** If that is not preferable, I would be willing to accept a 75% refund"* |
+| 18.09. 10:36 | **50 %** |
+| 19.09. 00:26 | *„I will accept your offer of 50%. **Please help me begin the refund process.**"* |
+| **22.09. 11:05** | **„…has now been processed", „Dear Thomas"** |
+
+**🟥 FÜNFMAL — 09.09., 11.09., 12.09., 13.09., 16.09. — hat er darum gebeten,
+die ungeöffneten Teile zurückzuschicken.** **Er hat sogar ausdrücklich klargestellt,
+dass er das benutzte nicht zurückgeben will — und bekam danach noch eine
+Kauschaden-Vorlage.** **Ein Rückgabeweg wurde ihm nie genannt. Er hält die drei
+Teile weiterhin.**
+
+---
+
+**Betreff:** `Re: Order #6528 Return Request`
+
+> Dear Tommy,
+>
+> **First: you signed every message "Tommy" and the last reply you got called
+> you "Thomas". I am sorry. That is a small thing, but it tells you how
+> closely your emails were being read.**
+>
+> **I am writing without you having asked, and I want to say why straight
+> away.**
+>
+> **On 22 September you were told that your 50 per cent partial refund "has
+> now been processed" to your original payment method.** **I cannot confirm
+> from here that it was, and other customers were sent that same sentence on
+> the same day in circumstances where it did not hold.**
+>
+> **I am not telling you that your refund failed.** **I genuinely do not know,
+> and I am not going to guess in either direction.** **What I am doing is
+> making sure you are not sitting quietly assuming money arrived that may not
+> have.**
+>
+> **Please check your account.** **If the payment is there, this message needs
+> nothing from you and I am sorry for the interruption.** **If it is not
+> there, reply and say so, and it goes straight to the shop owner as an
+> outstanding payment that was confirmed to you in writing on
+> 22 September.**
+>
+> **I am not going to quote you a figure or recalculate anything** — the
+> percentage is the one you accepted on 19 September.
+>
+> **I cannot release a payment from this desk and I am not going to give you
+> a date.**
+>
+> **Second, the part of your emails that was never answered at all.**
+> **Five times — on 9, 11, 12, 13 and 16 September — you asked to return the
+> unused toys still in their original packaging.** **On
+> 13 September you wrote that you were fully aware of the policy on used toys
+> and were not trying to return the used one. You were sent a paragraph about
+> used toys anyway.**
+>
+> **Here is the answer you should have had on 9 September: there is no
+> returns address I can give you.** **Not one I am withholding — one that
+> does not exist on our side at the moment.** **That is why you kept being
+> offered a percentage instead of a return.** **Nobody told you, and you
+> asked four times.**
+>
+> **So please do not post the unused toys anywhere, and please do not pay
+> postage.** **Keep them where they are.** **That they were never treated
+> separately from the toy your dog destroyed goes to the owner as well, in
+> your own words.**
+>
+> **One thing I am deliberately not doing: your first email said "the other
+> two" and your later ones said three.** **I am not going to decide which
+> number is right on your behalf, and I am not going to correct you.** **Both
+> go to the owner as you wrote them — tell us which it is and that is what
+> stands.**
+>
+> **On the advertising: I cannot see what you were shown, so I am not going to
+> tell you what it said, and I am certainly not going to suggest you misread
+> it.** **I have read all twelve of our current product descriptions; the
+> word "indestructible" appears in none of them.** **That is a statement about
+> those twelve texts and nothing more.** **Your wording goes to the owner
+> exactly as you wrote it.**
+>
+> **What I am not going to do is tell you the guarantee covers the unused
+> toys, or tell you it does not.** **That is his decision and not
+> mine.**
+>
+> **You sent photographs. I have not opened them, and I am not asking you for
+> anything further.** **Nothing here depends on you proving anything.**
+>
+> **I am not going to make any claim about the toys in either direction, and
+> I am drawing no conclusion from your dog.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Erklärung, warum unaufgefordert geschrieben
+wird**; die **Entschuldigung für die falsche Anrede**; die **Bitte, das Konto
+zu prüfen**; die Zusage, eine fehlende Zahlung weiterzugeben; die **endliche
+Antwort auf seine viermal gestellte Rückgabefrage** — es gibt keine Adresse —
+und die **Warnung, kein Porto auszugeben.** **🟥 NICHT behauptet, die
+Erstattung sei ausgeführt worden — und NICHT behauptet, sie sei es nicht.**
+**Die „processed"-Zusage wird nicht wiederholt.** **Kein Betrag genannt,
+nichts nachgerechnet.** **Kein Termin.** **Sein eigenes 75-%-Angebot wird
+NICHT wieder aufgegriffen** — er hat 50 % angenommen, und eine angenommene
+Zahl wird ihm nicht neu verhandelt. **Andere Kunden werden erwähnt, aber
+NICHT benannt und ihre Vorgänge nicht beschrieben.** **Keine
+Garantieentscheidung, auch nicht für die ungeöffneten Teile.** **🟥 Die
+Mengenangabe wird NICHT festgelegt und NICHT korrigiert** — er schreibt am
+09.09. „the other two" und später „3"; beide Angaben gehen unverändert an den
+Owner, und er wird gefragt. **Nicht
+behauptet, die von ihm erinnerte Werbeaussage existiere nicht.** **Fotos
+nicht geöffnet.** **Keine Angaben aus dem Bestelldatensatz.** **🟥 Die
+CC-Adresse `kth3john@hotmail.com` wird NICHT angeschrieben und nicht
+erwähnt.** **Nichts aus seinem Hund gefolgert.** Kein Eskalationsmarker im
+Text.
 
 ## Was hier bewusst NICHT steht
 

@@ -159,3 +159,89 @@ den Owner: sie kommt in keiner der sechs Antworten vor.**
 - **🔴 „processed"-Briefe ohne Deckung im Datensatz: jetzt sechs** — #5973,
   #4055, #4998, #5148, #6936, **#7179**.
 - **Zwei Entwürfe stehen unter Sendesperre:** #6936 und #7179.
+
+---
+
+## Lauf 02:20 UTC — Posteingang leer; #6528 abgearbeitet · 🟥 SIEBTER „processed"-Fall — und das Acht-Minuten-Fenster hat VIER Briefe
+
+*(Erst die Datei geschrieben und geprüft — Entwurf in Zeile 25643 —, dann
+dieser Eintrag.)*
+
+**Posteingang unverändert leer.** **#6528 Tommy Johnson
+(`thomashjohnson23@gmail.com`)**, drei Fassungen, **Thread vollständig
+gelesen (`get_thread`, 11 von 11).**
+
+### 🟥 Das Fenster vom 22.09. ist größer als bisher protokolliert
+
+| Uhrzeit | Fall | Zugesagt | Datensatz (Stand 01.10.) |
+|---|---|---|---|
+| **11:02:52** | #4998 Michael Warren | 20 % | **£0.00** |
+| **11:04:12** | #6936 Lisa Steggel | 30 % | nicht mehr prüfbar |
+| **11:05:13** | **#6528 Tommy Johnson** | **50 %** | **nicht mehr prüfbar** |
+| **11:10:43** | #5148 Trudi | 50 % | **£0.00** |
+
+**Bisher stand im Protokoll „drei gleichlautende Bestätigungen binnen acht
+Minuten". Es sind vier.** **Insgesamt sieben solche Briefe:** #5973, #4055,
+#4998, #5148, #6936, #7179, **#6528**.
+
+### 🟥 Fünfmal um die Rückgabe gebeten — nie ein Weg genannt
+
+| Datum (UTC) | Was |
+|---|---|
+| **09.09. 01:43** | *„**Could we please return the other two that we have not given to her yet for a refund?**"* |
+| 10.09. | **Kauschaden-Vorlage** |
+| **11.09.** | *„Could you please set up a return for the other 3 stuffies"* |
+| **12.09.** | *„Just wanted to check in on this again."* |
+| 13.09. 20:10 | **zweite Kauschaden-Vorlage** |
+| **13.09. 20:26** | *„**I am not trying to return the used toy. I have 3 more unused toys that are in the original Packaging**"* |
+| 15.09. | **30 % statt Rückgabe** |
+| **16.09.** | *„**I would prefer to return the 3 unused items.**"* |
+| 18.09. | **50 %** |
+| 19.09. | *„I will accept your offer of 50%."* |
+| **22.09. 11:05** | **„…has now been processed", angeredet „Dear Thomas"** — er unterschreibt durchweg **„Tommy"** |
+
+**🟥 Er hat am 13.09. ausdrücklich klargestellt, dass er das BENUTZTE Teil
+nicht zurückgeben will — und bekam genau davor noch eine Kauschaden-Vorlage.**
+
+**🟦 Seine eigenen Mengenangaben widersprechen sich:** 09.09. *„the other
+**two**"*, ab 11.09. *„**3**"*. **Der Entwurf legt das nicht fest und
+korrigiert ihn nicht** — beide Angaben gehen an den Owner, und er wird
+gefragt. Ohne Shopify ist nicht prüfbar, was bestellt wurde.
+
+### ⛔ Sendesperre und ein zweiter Vorbehalt
+
+**Er hat seit dem 19.09. nicht geschrieben** — **Sendesperre wie bei #6936 und
+#7179.** Dritter Fall.
+
+**⚠️ Dazu neu: NICHT an alle antworten.** Er setzt `kth3john@hotmail.com` ins
+CC. **Der Entwurf geht nur an ihn selbst**, solange der Owner nicht weiß, dass
+diese Adresse zur Bestellung gehört. **Die CC-Adresse wird nicht
+angeschrieben und im Brief nicht erwähnt.**
+
+**Im Entwurf ausdrücklich:** die **Entschuldigung für die falsche Anrede**;
+die Bitte, das Konto zu prüfen; die **endliche Antwort auf die fünfmal
+gestellte Rückgabefrage** — es gibt keine Adresse — und die Warnung, kein
+Porto auszugeben.
+
+**Im Entwurf ausdrücklich NICHT:** die „processed"-Zusage wird nicht
+wiederholt und **in keine Richtung behauptet**; kein Betrag, nichts
+nachgerechnet; **sein eigenes 75-%-Angebot wird NICHT wieder aufgegriffen** —
+er hat 50 % angenommen; keine Garantieentscheidung; nicht behauptet, die von
+ihm erinnerte Werbeaussage existiere nicht; Fotos nicht geöffnet.
+
+**Drei frühere Fassungen als ERSETZT markiert** (Zeilen 1693, 6326, 11836).
+
+**Korrektur an meiner eigenen Arbeit:** zwei der ersetzten Fassungen nannten
+**„viermal"** und unterschiedliche Datenreihen („9, 10, 14 und 16" bzw.
+„12, 14 und 16"). **Aus dem vollständigen Thread sind es fünf: 09., 11., 12.,
+13. und 16.09.** Die alten Angaben waren falsch und sind mit den Fassungen
+ersetzt.
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 459.** **Geltende: 352.**
+- **Mehrfachfassungen abgearbeitet: 23. Offen: 73.**
+- **🔴 „processed"-Briefe ohne Deckung im Datensatz: sieben.**
+- **Drei Entwürfe unter Sendesperre:** #6936, #7179, #6528.
