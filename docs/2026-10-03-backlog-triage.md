@@ -615,3 +615,79 @@ habe** — die Zahl bleibt bei **zwölf**, und es gibt hier keinen neuen Fall.
 - **Entwürfe in der Datei: 462** (unverändert). **Geltende: 355.**
 - **Mehrfachfassungen abgearbeitet: 26. Offen: 70.**
 - **Menschen mit ungeöffneter Ware ohne Rückgabeweg: zwölf** (unverändert).
+
+---
+
+## Lauf 08:20 UTC — Posteingang leer; #6583 Ken Beville abgearbeitet
+
+*(Erst die Datei geschrieben und geprüft — Entwurf in Zeile 26219 —, dann
+dieser Eintrag.)*
+
+**Abfrage `in:inbox is:unread newer_than:12h`: keine neue Kundennachricht.**
+
+### 🟥 #6583 — Ken Beville (`kenthecarman06@gmail.com`), US — **Bot/Escalated – Owner Attention**
+
+**Thread vollständig gelesen (`get_thread`, 11 von 11).** **Dies ist der
+einzige bisher gefundene Fall, in dem eine VOLLE Erstattung schriftlich
+zugesagt wurde.**
+
+| Datum (UTC) | Was |
+|---|---|
+| **29.08. 15:41** | *„I would like to return this item… **Please set-up a return.**"* |
+| 31.08. | **20 % statt Rückgabe** |
+| **31.08.** | *„**Please continue with the return for a refund. I do not want to keep them.**"* |
+| 01.09. | **30 %, „final goodwill gesture"** |
+| **01.09.** | *„No thank you… even at a discount… it would basically come down to me just donating them."* |
+| **03.09. 08:52** | **AUSGEHEND: „they will arrange a full [refund]"** |
+| **08.09.** | *„It has been 5 days… **Nor i have i recieved a refund.**"* |
+| 10.09. | *„…currently checking…"* |
+| **17.09.** | *„**ANOTHER 7 days has past with absolutely no response!!!!** I am beginning to feel scammed…"* |
+| **21.09. 09:27** | **AUSGEHEND: derselbe Brief wie am 03.09., wörtlich** |
+| **21.09. 10:11** | *„**This is the same exact email you sent September 3!!!!!!!!**"* |
+| seitdem | **nichts. Zwölf Tage.** |
+
+**🟥 Die Zusage ist 35 Tage alt, wurde einmal wörtlich wiederholt, ohne dass
+dazwischen etwas geschah — und der Kunde hat die Wiederholung selbst
+erkannt.** **Das ist kein „processed"-Fall wie die neun anderen: hier wurde
+nicht behauptet, es sei gezahlt, sondern dreimal, es werde veranlasst.**
+
+**🟦 Er hat die Spielzeuge NIE benutzt** (*„I am unwilling to let my pup use
+these toys"*). **Kein Kauschadenfall, und er wird nicht als einer
+behandelt.** **Er hält unbenutzte Ware ohne Rückgabeweg; ob er in der
+laufenden Zahl „zwölf" enthalten ist, ist aus den Protokollen nicht sicher
+feststellbar — die Zahl wurde NICHT erhöht.**
+
+**Im Entwurf ausdrücklich:** die **Bestätigung, dass der Brief vom 21.09.
+eine wörtliche Wiederholung war**; die Aufstellung der Zusage und der drei
+unbeantworteten Nachfragen; die Antwort auf seine Rückgabebitte vom 29.08. —
+**es gibt keine Adresse, deshalb konnte die „Rückgabe" nie eingerichtet
+werden**; die Warnung, kein Porto aus den USA auszugeben.
+
+**Im Entwurf ausdrücklich NICHT:** **die Zusage wird NICHT ein drittes Mal
+gegeben**; nicht behauptet, es sei gezahlt; **keine neue Prozentzahl und
+seine Absage zu 20 %/30 % wird nicht wieder aufgerollt**; keine
+Kauschaden-Vorlage; sein *„feel scammed"* wird weder bestätigt noch
+bestritten; keine Angaben aus dem Bestelldatensatz; **nichts aus seinem Hund
+gefolgert, mit ausdrücklicher Begründung.**
+
+**Zwei frühere Fassungen als ERSETZT markiert** (Zeilen 9732, 14502).
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### 🔴 Offener Prüfpunkt, der mir gehört
+
+**Die Zahl „zwölf Menschen mit ungeöffneter Ware" wird seit Tagen an den Owner
+berichtet, aber ihre Zusammensetzung ist in den Protokollen nirgends
+aufgelistet.** Beim Lesen des 01.10.-Abendreports habe ich eine Liste von
+zehn Namen zunächst für diese Zahl gehalten — **es war die Liste der am
+30.09. geschriebenen Entwürfe.** **Die Zahl ist damit nicht widerlegt, aber
+auch nicht belegt.** **Sie gehört in einem der nächsten Läufe einmal
+vollständig aufgestellt**, statt weiter fortgeschrieben zu werden.
+
+### Stand
+
+- **Entwürfe in der Datei: 463.** **Geltende: 356.**
+- **Mehrfachfassungen abgearbeitet: 27. Offen: 69.**
+- **🔴 Geldzusagen, die der Owner selbst ausführen muss, nach Alter:**
+  **#2894 Ersatz 24.07. (71 Tage)**, **#6583 volle Erstattung 03.09.
+  (35 Tage)**, dazu die neun „processed"-Fälle.

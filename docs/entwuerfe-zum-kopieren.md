@@ -9731,6 +9731,8 @@ Rücksendeadresse, samt Warnung. Kein Eskalationsmarker im Text.
 
 ## #6583 — Ken Beville (kenthecarman06@gmail.com) — ⛔⛔ volle Erstattung schriftlich zugesagt am 03.09., nie ausgeführt  
 
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
+
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
@@ -14498,6 +14500,8 @@ ausdrücklich gesagt. **Keine Rücksendeadresse erfunden.** **Keine Bitte um
 Geduld.** Kein Eskalationsmarker im Text.
 
 ## #6583 — Kenneth Beville (kenthecarman06@gmail.com) — 🔴 **dieselbe Erstattungszusage zum zweiten Mal, nichts gebucht**
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 
 **Betreff:** Re: Order 6583 return
 
@@ -26211,6 +26215,115 @@ ihm nichts in den Mund gelegt.** **Keine Angaben aus dem Bestelldatensatz.**
 **Kein Trackingstatus, kein Verweis an den Zusteller.** **Kein fremder
 Kundenvorgang erwähnt.** **Nichts aus seinem Hund gefolgert** (er nennt
 keinen). Kein Eskalationsmarker im Text.
+
+## #6583 — Ken Beville (`kenthecarman06@gmail.com`), US — **ZUSAMMENGEFÜHRT** · 🟥 **VOLLE Erstattung am 03.09. schriftlich zugesagt, 35 Tage nicht ausgeführt — und derselbe Brief am 21.09. wörtlich erneut geschickt** · 03.10.
+
+**✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diesen Kunden. Beide früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue
+Anmeldung. Er nennt selbst keinen Betrag; es wird keiner genannt.**
+
+**🟦 Er hat die Spielzeuge NIE benutzt.** *„I am unwilling to let my pup use
+these toys."* **Das ist kein Kauschadenfall, und er wird auch nicht als einer
+behandelt.**
+
+**Der Verlauf (`get_thread`, 11 von 11 Nachrichten):**
+
+| Datum (UTC) | Was |
+|---|---|
+| **29.08. 15:41** | *„I would like to return this item… **Please set-up a return.**"* |
+| 31.08. 09:42 | **20 % statt Rückgabe** |
+| **31.08. 10:08** | *„**Please continue with the return for a refund. I do not want to keep them.**"* |
+| 01.09. 12:24 | **30 %, „as a final goodwill gesture"** |
+| **01.09. 14:31** | *„No thank you… not willing to keep these, even at a discount, as it would basically come down to me just donating them."* |
+| **03.09. 08:52** | **AUSGEHEND: „We have forwarded your case to our team, and **they will arrange a full** [refund]"** |
+| **08.09. 22:57** | *„It has been 5 days… **Nor i have i recieved a refund.** Please advise as where we stand."* |
+| 10.09. 10:25 | *„…forwarded your refund request to the relevant team and are currently checking…"* |
+| **17.09. 22:10** | *„**ANOTHER 7 days has past with absolutely no response!!!!** I am beginning to feel scammed…"* |
+| **21.09. 09:27** | **AUSGEHEND: derselbe Brief wie am 03.09., wörtlich** |
+| **21.09. 10:11** | *„**This is the same exact email you sent September 3!!!!!!!!** And I am no closer then to getting my refund now! SEPTEMBER 3."* |
+| seitdem | **nichts. Zwölf Tage.** |
+
+**🟥 Die Zusage ist 35 Tage alt. Sie wurde einmal wiederholt, ohne dass
+dazwischen etwas geschah — und er hat die Wiederholung selbst erkannt.**
+
+**🟦 Für die Owner-Liste:** **er hält unbenutzte Ware ohne Rückgabeweg.**
+**Ob er in der laufenden Zahl „zwölf" bereits enthalten ist, ist aus den
+Protokollen nicht sicher feststellbar — die Zahl wird deshalb hier NICHT
+erhöht. Sie gehört geprüft.**
+
+**Betreff:** `Re: Order 6583 return`
+
+> Dear Ken,
+>
+> **You were right on 21 September: that was the same letter you had already
+> received on 3 September, word for word.** **I am not going to explain that
+> away.**
+>
+> **Here is what the record shows, so you know it has been read properly this
+> time.** **You asked to return the toys on 29 August — unused, because you
+> were not willing to give them to your pup at all.** **You were offered
+> 20 per cent, then 30 per cent, and you declined both and said plainly that
+> you wanted the return.** **On 3 September you were told in writing that a
+> full refund would be arranged.** **It has not been paid.** **On
+> 10 September you were told it was being checked. On 21 September the
+> 3 September letter went out again.** **You have written three times since
+> the promise and none of those messages moved anything.**
+>
+> **I am not going to tell you the refund has been processed, and I am not
+> going to promise it again myself.** **A third version of that sentence from
+> me would be worth nothing to you — that is exactly what has already
+> happened twice.** **What I can do is put it in front of the shop owner
+> today as an outstanding full refund promised in writing on 3 September,
+> with the dates above, and he is the only one who can either pay it or tell
+> you plainly that it is not coming.** **I am not going to give you a date.**
+>
+> **I am also not going to put a percentage in front of you again.** **You
+> declined 20 and 30 per cent and gave a clear reason. That stands, and I am
+> not going to reopen it as though your answer had not been read.**
+>
+> **One practical thing about the return itself, and it is the part nobody
+> told you in five weeks: there is no returns address I can give you.**
+> **Not one I am withholding — one that does not exist on our side at the
+> moment.** **So please do not post the toys anywhere and please do not pay
+> postage from the US expecting to be reimbursed.** **Keep them where they
+> are.** **That is also why the "return" you asked for on 29 August never got
+> set up: there was nothing to set up.** **You were entitled to know that
+> five weeks ago.**
+>
+> **You wrote that you were beginning to feel scammed.** **I am not going to
+> argue with how this looks to you, and I am not going to reassure you with
+> something I cannot stand behind.** **Your words go to the owner exactly as
+> you wrote them.**
+>
+> **I am not going to quote you any figures from our order system today** —
+> it is not readable from this desk, that is our problem and not yours, and a
+> number I cannot check would be worse than none.
+>
+> **I am not going to make any claim about the toys in either direction, and
+> I am drawing no conclusion from your pup** — you never gave them to him.
+>
+> **Five weeks and a duplicate letter is not a service failure I can dress
+> up, and I am not going to try.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Bestätigung, dass der Brief vom 21.09. eine
+wörtliche Wiederholung war**; die **Aufstellung der Zusage vom 03.09. mit
+Datum und der drei unbeantworteten Nachfragen**; die **Weitergabe als offene
+volle Erstattung an den Owner**; die **Antwort auf seine Rückgabebitte vom
+29.08.** — es gibt keine Adresse — und die **Warnung, kein Porto aus den USA
+auszugeben.** **🟥 NICHT behauptet, die Erstattung sei ausgeführt — und die
+Zusage wird NICHT ein drittes Mal gegeben.** **Kein Termin, keine Absage.**
+**🟥 KEINE neue Prozentzahl; seine Absage zu 20 % und 30 % wird nicht wieder
+aufgerollt.** **Keine Kauschaden-Vorlage — er hat die Ware nie benutzt.**
+**Keine Garantieentscheidung.** **Sein „feel scammed" wird weder bestätigt
+noch bestritten.** **Keine Angaben aus dem Bestelldatensatz, kein Betrag
+genannt, nichts umgerechnet.** **Nichts aus seinem Hund gefolgert, mit
+ausdrücklicher Begründung.** **Kein fremder Kundenvorgang erwähnt.** Kein
+Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 
