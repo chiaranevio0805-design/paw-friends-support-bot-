@@ -324,3 +324,89 @@ Thread-ID**, damit der Owner sie in Gmail direkt öffnen kann.
   seit der Zusage nicht geschrieben — **unaufgefordert wird nicht
   geschrieben**; sie gehören auf dieselbe Sendesperren-Logik wie #6936,
   #7179 und #6528.
+
+---
+
+## Lauf 04:20 UTC — Posteingang leer; #7292 Tracy Hartley abgearbeitet
+
+*(Erst die Datei geschrieben und geprüft — Entwurf in Zeile 25816 —, dann
+dieser Eintrag.)*
+
+**Posteingang:** die Abfrage meldet elf Threads statt neun, **aber keine neue
+Kundennachricht.** Neu dabei sind **#7660 Brec Seaton** und **#4940 Rena
+Barnes**, deren jüngste Nachrichten vom **01.10.** sind und die am 01.10.
+bearbeitet wurden. Sie erscheinen, weil `after:` **Threads** trifft und ihre
+`historyId` sich geändert hat. **Nichts zu tun.**
+
+### 🟥 #7292 — Tracy Hartley (`doulatracy@gmail.com`), US — **Bot/Escalated – Owner Attention**
+
+**Thread vollständig gelesen (`get_thread`, 8 von 8).** **Das ist der
+sorgfältigste Kundenbrief in diesem Postfach.**
+
+**Sie stellt seit dem 12.09. zwei präzise Fragen — dreimal — und hat auf
+keine eine Antwort bekommen:**
+
+> *„Could you please tell me **where I can read that policy**?"*
+>
+> *„I would also like to understand **where, in the information provided to me
+> when I purchased these toys, it states that the 30-day money-back guarantee
+> applies only to toys that are unused and undamaged**."*
+
+| Datum (UTC) | Was |
+|---|---|
+| **10.09.** | *„**What is the return procedure?** I will gladly return the unopened duck and the pig"* |
+| 11.09. | **Kauschaden-Vorlage**, angeredet **„Dear Tracey"** |
+| **12.09.** | **erste präzise Frage**, mit Zitaten aus unserer Produktseite |
+| 13.09. | **zweite Kauschaden-Vorlage** |
+| **13.09.** | **Frage erneut** |
+| 15.09. | **30 % statt Antwort** |
+| **15.09.** | **Frage zum dritten Mal**, dazu Bitte um einen **Link** |
+| 18.09. | eine weitere Antwort — **ohne die Frage zu beantworten** |
+| seitdem | **nichts. Achtzehn Tage.** |
+
+**Sie zitiert unsere eigene Seite:** *„destroy everything"*, *„everyday
+chewing, tugging, carrying, and play"*, *„anti-tear design built for strong
+chewers"*, *„A toy that lasts longer…"* — und die Garantie: *„If you're not
+**completely satisfied for any reason**… we'll work with you to find a
+solution."* **Dazu unsere eigene Sicherheitszeile** *„Remove the toy
+immediately at the first signs of damage…"*, **nach der sie gehandelt hat.**
+
+### 🟥 Der Befund, der dem Owner gehört
+
+**Bei der vollständigen Durchsicht aller zwölf Produktbeschreibungen am 18.09.
+kam die Bedingung „nur unbenutzt und in Originalzustand" in keiner einzigen
+vor.** **Das ist genau die Lücke, die sie nicht finden konnte.**
+
+**Der Entwurf sagt ihr das — und nennt im selben Satz die Grenze dieses
+Befundes: eine Rückgaberichtlinien-Seite habe ich nicht gelesen und kann sie
+von hier nicht aufrufen. Es wird NICHT behauptet, die Bedingung existiere
+nirgends.** **Und es wird kein Link erfunden.**
+
+**🟦 Sie hat NICHT angenommen** (*„Once I understand that, I can decide how I
+would like to proceed."*). **Ihr Schweigen wird nicht als Annahme gewertet,
+das 30-%-Angebot wird nicht wiederholt und nicht erhöht** — eine vierte
+Nichtantwort wäre das Letzte, was ihr hilft.
+
+**Weiter im Entwurf ausdrücklich NICHT:** keine Garantieentscheidung, in keine
+Richtung; **keine Aussage zu Material oder Sicherheit** und **keine
+Sicherheitsmeldung unterstellt** — ihre Worte zum verschluckten Etikett gehen
+unverändert weiter; **ihr Betrag ($38,90 aus ihrer eigenen Bestätigung) wird
+nicht nachgerechnet**; **Anschrift, Telefonnummer und Signaturangaben werden
+nicht verwendet und nicht erwähnt.**
+
+**Im Entwurf ausdrücklich DOCH:** die Antwort auf ihre **erste** Frage vom
+10.09. — **es gibt kein Rückgabeverfahren und keine Adresse** — und die
+Warnung, kein Porto auszugeben. **Sie hält den ungeöffneten Duck.**
+
+**Drei frühere Fassungen als ERSETZT markiert** (Zeilen 1808, 2895, 6000).
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 460.** **Geltende: 353.**
+- **Mehrfachfassungen abgearbeitet: 24. Offen: 72.**
+- **🔴 Für den Owner, neu und konkret:** **zwei Fragen, die nur er beantworten
+  kann** — wo die Rückgaberichtlinie veröffentlicht ist, und wo die Bedingung
+  „nur unbenutzt" stand, als sie gekauft hat. **In den zwölf Produkttexten
+  steht sie nicht.**

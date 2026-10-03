@@ -1807,6 +1807,8 @@ kein Ersatz, kein Angebot, keine Rücksendeadresse.
 
 ## #7292 — doulatracy@gmail.com — Garantietext gegen Vorlage  
 
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
+
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „on friday", „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
@@ -2891,6 +2893,8 @@ weiterhin nicht auffindbar — vor dem Senden die Anhänge öffnen.**
 ---
 
 ## 🚩🚩 #7292 — doulatracy@gmail.com — DRITTE FASSUNG  
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „yesterday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
@@ -5994,6 +5998,8 @@ Produktsicherheit, keine zur Größe. Kein Eskalationsmarker im Text.
 ---
 
 ## #7292 — tracy hartley (doulatracy@gmail.com) — vierte Fassung, endlich mit einer Antwort
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 
 **Betreff:** Re: Order #7292 confirmed
 
@@ -25806,6 +25812,154 @@ nicht geöffnet.** **Keine Angaben aus dem Bestelldatensatz.** **🟥 Die
 CC-Adresse `kth3john@hotmail.com` wird NICHT angeschrieben und nicht
 erwähnt.** **Nichts aus seinem Hund gefolgert.** Kein Eskalationsmarker im
 Text.
+
+## #7292 — Tracy Hartley (`doulatracy@gmail.com`), US — **ZUSAMMENGEFÜHRT** · 🟥 **sie stellt seit dem 12.09. DREIMAL zwei präzise Fragen zu unseren eigenen Texten; keine davon wurde beantwortet** · 03.10.
+
+**✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diese Kundin. Alle drei früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue
+Anmeldung. Ihre eigene Betragsangabe ($38,90, aus ihrer
+Bestellbestätigung) wird NICHT gegen den Datensatz geprüft und nicht
+nachgerechnet.**
+
+**🟦 Sie hat NICHT angenommen.** Ihr Satz vom 15.09.: *„Once I understand
+that, I can decide how I would like to proceed."* **Ihre Entscheidung hängt
+seit achtzehn Tagen an einer Antwort, die nie kam.** Das 30-%-Angebot wird ihr
+deshalb **nicht erneut vorgelegt und nicht erhöht** — das wäre schon wieder
+keine Antwort.
+
+**Der Verlauf (`get_thread`, 8 von 8 Nachrichten):**
+
+| Datum (UTC) | Was |
+|---|---|
+| **10.09. 03:10** | Erstkontakt: 18 Tage Lieferzeit; Pig in unter 20 Minuten zerstört; *„**What is the return procedure?** I will gladly return the unopened duck and the pig"* |
+| 11.09. 10:05 | **Kauschaden-Vorlage**, angeredet **„Dear Tracey"** |
+| **12.09. 22:15** | **ihre erste präzise Frage**, mit wörtlichen Zitaten aus unserer Produktseite |
+| 13.09. 20:15 | **zweite Kauschaden-Vorlage** („As explained…") |
+| **13.09. 21:24** | **dieselbe Frage erneut** |
+| 15.09. 07:44 | **30 % statt Antwort** |
+| **15.09. 20:44** | **dieselbe Frage zum dritten Mal**, dazu die Bitte um einen **Link** zur Rückgaberichtlinie |
+| 18.09. 10:34 | eine weitere Antwort — **ohne die Frage zu beantworten** |
+| seitdem | **nichts. Achtzehn Tage.** |
+
+**Ihre zwei Fragen, wörtlich:**
+
+> *„Could you please tell me **where I can read that policy**?"*
+>
+> *„I would also like to understand **where, in the information provided to me
+> when I purchased these toys, it states that the 30-day money-back guarantee
+> applies only to toys that are unused and undamaged**."*
+
+**Sie zitiert dabei unsere eigene Seite:** *„destroy everything"*,
+*„everyday chewing, tugging, carrying, and play"*, *„anti-tear design built
+for strong chewers"*, *„A toy that lasts longer and stands up to everyday
+adventures"* — und die Garantie: *„If you're not **completely satisfied for
+any reason**, simply contact us within 30 days… and we'll work with you to
+find a solution."* **Außerdem unsere eigene Sicherheitszeile:** *„Remove the
+toy immediately at the first signs of damage. Small parts may present a
+choking hazard if swallowed."* — **danach hat sie gehandelt.**
+
+**🟥 Der Befund, der dem Owner gehört:** **bei der vollständigen Durchsicht
+aller zwölf Produktbeschreibungen am 18.09. kam die Bedingung „nur unbenutzt
+und in Originalzustand" in keiner einzigen vor.** **Das heißt nicht, dass es
+sie nirgends gibt** — eine Rückgaberichtlinien-Seite habe ich nicht gelesen
+und kann sie von hier nicht aufrufen. **Der Entwurf sagt genau das: was
+geprüft wurde und was nicht.**
+
+**⚠️ KEINEN Link erfinden.** Es wird keine URL genannt.
+
+**Betreff:** `Re: Order #7292 confirmed`
+
+> Dear Tracy,
+>
+> **You asked two precise questions on 12 September, asked them again on
+> 13 September and a third time on 15 September. You never got an answer to
+> either. You got two standard paragraphs and a percentage instead.**
+> **I am answering both now, as straight as I can.**
+>
+> **Your first question was where you can read the returns policy that was
+> quoted at you.** **I cannot point you to it.** **I am not going to send you
+> a link I have not checked, and I am not going to describe a page I cannot
+> open.** **That request goes to the shop owner, because he is the only one
+> who can say where that policy is published — or whether it is.**
+>
+> **Your second question was where, in what you were shown when you bought
+> the toys, it says the thirty-day guarantee applies only to unused and
+> undamaged items.** **Here is what I can tell you, and it is checkable:**
+> **I have read all twelve of our current product descriptions in full.**
+> **That limitation does not appear in any of them.** **The sentence quoted
+> at you — about items returned unused and in their original condition — is
+> not in those twelve texts.**
+>
+> **What I am not going to do is tell you it exists nowhere.** **There may be
+> a separate policy page I have not read and cannot reach from here. I am not
+> going to pretend otherwise, in either direction.** **What I can say is that
+> you were not failing to find something that is sitting plainly on the
+> product page. You looked carefully, as you said. It is not there.**
+>
+> **That answer goes to the owner too, because the gap between those two
+> things is his to resolve and not mine to argue away.**
+>
+> **What I am not going to do is rule on whether the guarantee covers your
+> case.** **You have set out, carefully, why you think it does. I am not
+> going to contradict you and I am not going to agree on his behalf — a
+> support desk deciding its employer's guarantee would be worth nothing to
+> you.** **Your reasoning goes to him in your own words, in full.**
+>
+> **On the refund: you asked for the full amount of your order and you have
+> not accepted the 30 per cent. I am not going to treat silence as
+> acceptance, and I am not going to put a different percentage in front of
+> you — that would be a fourth non-answer.** **Your request for a full refund
+> goes to the owner today as it stands.** **I cannot approve it from this
+> desk and I am not going to refuse you.** **I am not going to give you a
+> date.**
+>
+> **Now the practical part, which you asked about first of all, on
+> 10 September: the return procedure.** **There is no returns address I can
+> give you.** **Not one I am withholding — one that does not exist on our
+> side at the moment.** **You asked for a procedure and prepaid shipping
+> twice; the honest answer is that there is no procedure to give you.**
+> **So please do not post the duck or the pig anywhere, and please do not pay
+> postage.** **Keep them both where they are, including the unopened duck.**
+>
+> **You mentioned the tag.** **I am not going to say anything about what our
+> toys are or are not made of, or what is or is not safe — I am not in a
+> position to, and a reassurance I cannot stand behind would be worth nothing
+> to you.** **Your words on that go to the owner exactly as you wrote them,
+> along with the fact that you quoted our own warning back to us.**
+>
+> **I am not going to quote you a figure or recalculate anything** — the
+> amount is the one on your own order confirmation, and our order system is
+> not readable from this desk today.
+>
+> **I am not going to make any claim about the toys in either direction, and
+> I am drawing no conclusion from your dog.**
+>
+> **You wrote that you felt stupid. You asked a clear question three times
+> and were answered with form letters. That is not stupidity on your side.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Beantwortung ihrer beiden Fragen, so weit sie von
+hier beantwortbar sind** — kein Link, weil keiner geprüft ist, und der
+**prüfbare Befund, dass die Bedingung in keiner der zwölf Produktbeschreibungen
+steht**, ausdrücklich mit der Grenze dieses Befundes; die **Weitergabe ihrer
+Forderung nach vollständiger Erstattung und ihrer Begründung im Wortlaut**;
+die **Antwort auf ihre Frage nach dem Rückgabeverfahren** — es gibt keines —
+und die **Warnung, kein Porto auszugeben.** **Keine Erstattung zugesagt, kein
+Termin, keine Absage.** **🟥 KEIN Link und keine Seite erfunden.** **🟥 NICHT
+behauptet, die Bedingung existiere nirgends** — nur, dass sie in den zwölf
+Texten nicht steht. **Keine Garantieentscheidung, in keine Richtung.**
+**🟥 Das 30-%-Angebot wird NICHT wiederholt und NICHT erhöht; ihr Schweigen
+wird NICHT als Annahme gewertet.** **🟥 Keine Aussage zu Material oder
+Sicherheit, in keine Richtung, und keine Sicherheitsmeldung unterstellt** —
+ihre Worte zum Etikett gehen unverändert weiter. **Keine Angaben aus dem
+Bestelldatensatz, ihr Betrag nicht nachgerechnet.** **Ihre Anschrift,
+Telefonnummer und die Angaben aus ihrer Signatur werden nicht verwendet und
+nicht erwähnt.** **Keine andere Frist als dreißig Tage genannt.** **Nichts
+aus ihrem Hund gefolgert.** Kein Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 
