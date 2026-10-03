@@ -27,7 +27,7 @@ Blick in die Threads der Kundin oder des Kunden.**
 4. **Wenn nein:** eine zusammengeführte Fassung schreiben, die alles abdeckt,
    und alle vorherigen als ERSETZT markieren.
 
-**Bereits so abgearbeitet (25 von 96):** #7479, #7048, #7347, #8142, #8372,
+**Bereits so abgearbeitet (26 von 96):** #7479, #7048, #7347, #8142, #8372,
 #7547, #6254, #5973, #7831, **#8295** (sechs Fassungen, fünf Threads),
 **#7608** (fünf Fassungen, zwei Threads, Sicherheitsmeldung nachgetragen),
 #7041, **#7989** (zugesagte Variante nie umgesetzt), **#8781** (Storno nach
@@ -39,10 +39,11 @@ dieselbe Frage zum ungeöffneten Artikel), **#7148** (BBB-Ankündigung) und
 **#8312** (viermal nach dem Rückgabeweg gefragt, dazu eine nie beantwortete
 Sicherheitssorge) **#7179** (sechster „processed"-Fall, mit Sendesperre) **#6528**
 (siebter „processed"-Fall, mit Sendesperre) **#7292** (zwei präzise Fragen
-zu unseren eigenen Texten, dreimal gestellt, nie beantwortet) und **#7119**
-(zweimal Rückgabe angeboten, zweimal die Kauschaden-Vorlage).
+zu unseren eigenen Texten, dreimal gestellt, nie beantwortet) **#7119**
+(zweimal Rückgabe angeboten, zweimal die Kauschaden-Vorlage) und **#2894**
+(Ersatz am 24.07. zugesagt, fünf Nachfragen unbeantwortet).
 
-**Noch offen: 71.** Die Tabelle unten ist der Stand bei Erstellung am 01.10.
+**Noch offen: 70.** Die Tabelle unten ist der Stand bei Erstellung am 01.10.
 und wird nicht zeilenweise nachgeführt — maßgeblich ist diese Liste und der
 GEPRÜFT-Vermerk in `entwuerfe-zum-kopieren.md`.
 

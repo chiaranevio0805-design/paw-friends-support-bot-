@@ -479,3 +479,98 @@ Zahl der Menschen mit ungeöffneter Ware bleibt zwölf.**
   Chargeback UND angekündigter Veröffentlichung UND Berufung auf
   Verbraucherrecht.** Sie wartet seit elf Tagen; geantwortet wurde ihr
   zweimal mit derselben Vorlage.
+
+---
+
+## Lauf 06:20 UTC — Posteingang leer; #2894 abgearbeitet · 🟥 EIGENER BEFUND VOM 01.10. WAR FALSCH
+
+*(Erst die Datei geschrieben und geprüft — Entwurf in Zeile 26089 —, dann
+dieser Eintrag.)*
+
+**Posteingang unverändert.** Bearbeitet: **#2894 Jeff Hughes
+(`jeff.hughes@yahoo.co.uk`)**, drei Fassungen.
+
+### 🟥 ZUERST: die Korrektur, und sie betrifft mich
+
+**Im Eintrag vom 01.10., 21:20 UTC steht:** in diesem Postfach existiere
+**keine ausgehende Juli-Post** (ältester Versand 09.08.), weshalb die Angabe
+„im Juli schriftlich Ersatz zugesagt" in fünf Entwürfen **nicht belegbar**
+sei. Alle fünf wurden daraufhin auf „in writing on 18 August" umgestellt.
+
+**Diese Begründung war falsch. Die Juli-Zusage existiert.** Sie steht wörtlich
+in Jeffs eigener Antwort vom 21.09.:
+
+> *„On **Friday, 24 July 2026 at 11:03:51 BST**, Paw-Friends wrote: Hi Jeff, …
+> **We'll get a replacement (elephant or fox, whichever we can get to you
+> fastest) arranged for you** … **No need to return the damaged item at your
+> own cost; we won't ask you to do that.** **I'll be back in touch shortly to
+> confirm.**"*
+
+**Zwei Dinge daran sind wichtig:**
+
+1. **`in:sent` zeigt diese Nachricht nicht.** Sie ist nur als Zitat in seiner
+   Antwort auffindbar. **Regel daraus: der Postausgang dieses Kontos ist
+   NICHT vollständig. „Nicht im Postausgang" heißt nicht „nicht gesendet".**
+   **Jede frühere Schlussfolgerung, die sich auf die Vollständigkeit von
+   `in:sent` gestützt hat, ist entsprechend schwächer als sie klang** — auch
+   die Angabe „ältester Versand 09.08.".
+2. **Der Befund widersprach Material, das längst im Repository lag.** Zwei
+   #2894-Entwürfe tragen seit Tagen die Überschrift *„Ersatz am 24.07.
+   schriftlich zugesagt"*. **Ich hätte in der eigenen Datei nachsehen müssen,
+   bevor ich „nicht belegbar" schreibe.**
+
+**Was daraus NICHT folgt:** die fünf umgestellten Entwürfe sind **nicht
+falsch** — die 18.08.-Zusage an Michael Laney ist belegt und steht dort
+richtig. **Sie untertreiben nur.** Die neueren Entwürfe nennen ohnehin kein
+Datum, sondern nur „eine solche Zusage ist hier schon einmal schriftlich
+gegeben und nicht gehalten worden" — **das ist die haltbare Form.**
+
+### 🟥 #2894 — der Fall selbst — **Bot/Escalated – Owner Attention**
+
+| Datum | Was |
+|---|---|
+| **23.07.** | *„I received my item today, and it is damaged… **please arrange for a replacement**… I can return the faulty item, at your cost."* |
+| **24.07. 11:03** | **AUSGEHEND: Ersatz zugesagt, Rücksendung ausdrücklich nicht verlangt, Rückmeldung „shortly" versprochen** |
+| 06.08. 11:50 | ausgehend — **die letzte Antwort, die er bekommen hat** |
+| **13.08.** | *„**If you were the customer, how long would you reasonably accept this scenario to go on?**"* |
+| **27.08.** | *„where are we up to with this now?"* |
+| **13.09.** | *„Can you arrange for this to be sorted out ASAP please."* |
+| **21.09.** | *„Update me please"* |
+| **23.09.** | *„I want an update on this"* |
+
+**Fünf Nachfragen seit der letzten Antwort — keine beantwortet.**
+**Achtundfünfzig Tage Schweigen. Die Zusage ist 71 Tage alt.**
+
+*(Eine ersetzte Fassung nennt ihn „achter Nachfasser". **Ich nenne hier nur,
+was im Thread steht: fünf Nachrichten nach dem 06.08.** Woher die Acht kam,
+ist nicht nachvollziehbar.)*
+
+**🟦 Für den Owner:** er beruft sich am 23.07. auf *„as per your website
+information"* für den Ersatzanspruch — **und dieses Postfach hat ihm die
+Zusage daraufhin bestätigt, nicht bestritten.** **Die Ersatzzusage ist damit
+nicht bloß eine Kundenerinnerung an Werbung: sie ist hier selbst gegeben
+worden.** Das gehört zu #7034, #7148 und `panorton61`.
+
+**Im Entwurf ausdrücklich:** die Beantwortung seiner Frage vom 13.08.; die
+**wörtliche Nennung der Zusage und der fünf unbeantworteten Nachrichten**; die
+Warnung, kein Porto auszugeben — **mit dem offenen Hinweis, dass sich das
+gegenüber dem 24.07. geändert hat**, weil es keine Adresse gibt.
+
+**Im Entwurf ausdrücklich NICHT:** **keine zweite Ersatzzusage**, mit offener
+Begründung; **sein Ersatzwunsch wird nicht in eine Erstattungsforderung
+umgedeutet**; kein Termin, keine Absage; keine Garantieentscheidung; **keine
+Aussage zur Werbung** — er hat sie in diesem Thread nicht bestritten; keine
+Angaben aus dem Bestelldatensatz; **kein fremder Kundenvorgang erwähnt.**
+
+**Drei frühere Fassungen als ERSETZT markiert** (Zeilen 2085, 14439, 17477).
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 462.** **Geltende: 355.**
+- **Mehrfachfassungen abgearbeitet: 26. Offen: 70.**
+- **🔴 Älteste offene Zusage im Haus: #2894, 24. Juli — 71 Tage.**
+- **🟥 Neue Arbeitsregel: `in:sent` ist unvollständig.** Keine Aussage mehr
+  darauf stützen, dass etwas „nicht gesendet wurde", nur weil es im
+  Postausgang fehlt.

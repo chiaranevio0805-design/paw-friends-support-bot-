@@ -2083,6 +2083,8 @@ Erstattung. Keine Erstattungszusage, kein Zustelltermin, keine
 ---
 
 ## #2894 — jeff.hughes@yahoo.co.uk — Ersatz seit dem 24. Juli zugesagt  
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff
@@ -14435,6 +14437,8 @@ Rekonstruktion der Anzeige.** **Keine Auswertung des Fotos, keins verlangt.**
 Betrag in ihrer Währung auf der Bestellung. Kein Eskalationsmarker im Text.
 
 ## #2894 — Jeff Hughes (jeff.hughes@yahoo.co.uk) — ⛔ **defekt geliefert, Ersatz am 24.07. schriftlich zugesagt, nie versandt, achter Nachfasser**  
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order Number 2894
@@ -17471,6 +17475,8 @@ gefragt. **Keine Deutung seiner Frage als Forderung.** Kein Eskalationsmarker
 im Text.
 
 ## #2894 — Jeff Hughes (jeff.hughes@yahoo.co.uk) — GB, ⛔🔴 **Ersatz am 24.07. schriftlich zugesagt, seither zwei Monate Schweigen**
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 
 **Betreff:** Re: Order Number 2894
 
@@ -26079,6 +26085,122 @@ Nachweis benutzt und sie wird NICHT an den Zusteller verwiesen** — der
 frühere Trackingbrief wird offen als solcher benannt. **Keine Angaben aus dem
 Bestelldatensatz, nichts in AUD umgerechnet.** **Nichts aus ihrem Hund
 gefolgert.** Kein Eskalationsmarker im Text.
+
+## #2894 — Jeff Hughes (`jeff.hughes@yahoo.co.uk`) — **ZUSAMMENGEFÜHRT** · 🟥 **Ersatz am 24.07. schriftlich zugesagt, 71 Tage nicht geliefert; FÜNF unbeantwortete Nachfragen; letzte Antwort von uns am 06.08.** · 03.10.
+
+**✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diesen Kunden. Alle früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue Anmeldung.**
+
+**🟥 WICHTIG — das korrigiert einen eigenen Befund vom 01.10.:** im
+21:20-Eintrag des 01.10. steht, in diesem Postfach existiere **keine
+ausgehende Juli-Post** (ältester Versand 09.08.), weshalb die Angabe „im Juli
+schriftlich zugesagt" in fünf Entwürfen nicht belegbar sei. **Das war falsch.**
+**Hier ist die Zusage, im Wortlaut, zitiert in seiner eigenen Antwort vom
+21.09.:**
+
+> *„On **Friday, 24 July 2026 at 11:03:51 BST**, Paw-Friends
+> <support.pawfriends.uk@gmail.com> wrote:*
+>
+> *Hi Jeff, … **We'll get a replacement (elephant or fox, whichever we can get
+> to you fastest) arranged for you** — I just need to confirm this internally
+> before it goes out… **No need to return the damaged item at your own cost;
+> we won't ask you to do that.** **I'll be back in touch shortly to
+> confirm.**"*
+
+**Die Juli-Zusage existiert. Der Postausgang dieses Kontos enthält sie
+nicht** — `in:sent` zeigt sie nicht, sie ist nur als Zitat in seiner Antwort
+auffindbar. **Daraus folgt eine Regel: der Postausgang ist NICHT vollständig,
+und „nicht im Postausgang" heißt nicht „nicht gesendet".**
+
+**Der Verlauf (`get_thread`, 5 Nachrichten von ihm; die ausgehenden nur als
+Zitate):**
+
+| Datum | Was |
+|---|---|
+| **23.07.** | *„I received my item today, and it is damaged… **please arrange for a replacement item**… I can return the faulty item to you if needed, at your cost."* |
+| **24.07. 11:03** | **AUSGEHEND: Ersatz zugesagt, Rücksendung ausdrücklich nicht verlangt, „I'll be back in touch shortly to confirm."** |
+| 06.08. 11:50 | ausgehend (*„I'm sorry —"*) — **die letzte Antwort, die er bekommen hat** |
+| **13.08.** | *„**If you were the customer, how long would you reasonably accept this scenario to go on?** It is taking a really long time."* |
+| **27.08.** | *„Ok, so where are we up to with this now? It's taking a while."* |
+| **13.09.** | *„Can you arrange for this to be sorted out ASAP please."* |
+| **21.09.** | *„Update me please"* |
+| **23.09.** | *„I want an update on this"* |
+
+**🟥 Fünf Nachfragen, keine beantwortet. Seit dem 06.08. — achtundfünfzig
+Tage — hat er von hier nichts gehört. Die Zusage ist 71 Tage alt.**
+
+**🟦 Für den Owner, gesondert:** er beruft sich am 23.07. auf *„as per your
+website information"* für den **Ersatzanspruch** — und **diese Zusage wurde
+ihm hier bestätigt, nicht bestritten.** **Damit ist die Ersatzzusage nicht nur
+eine Werbeerinnerung von Kunden: dieses Postfach hat sie selbst gegeben.**
+Das gehört zu den Fällen #7034, #7148 und `panorton61`.
+
+**Betreff:** `Re: Order Number 2894`
+
+> Dear Jeff,
+>
+> **You asked on 13 August how long I would reasonably accept this going on
+> if I were the customer. I am not going to dodge that question: not this
+> long, and not in silence.**
+>
+> **Here is what the record shows, so you know I have actually read it.**
+> **On 24 July you were told in writing that a replacement — elephant or fox,
+> whichever could reach you fastest — was being arranged, that you would not
+> be asked to return the damaged one at your own cost, and that we would be
+> back in touch shortly to confirm.** **The last reply you received was on
+> 6 August.** **Since then you have written five times — 13 August,
+> 27 August, 13 September, 21 September and 23 September — and not one of
+> those messages was answered.**
+>
+> **I am not going to make that promise a second time.** **I want to be
+> straight about why: the first one was made from this desk and not kept, and
+> a fresh one from me would be worth nothing to you.** **What I can do is put
+> your case in front of the shop owner today, with the 24 July promise quoted
+> as it stands and the five unanswered messages listed.** **He is the only
+> one who can either send the replacement or tell you plainly that it is not
+> coming.** **I am not going to give you a date, because I cannot stand
+> behind one.**
+>
+> **If you would rather have your money back than a replacement, say so and
+> that goes over as a refund request in your own words.** **I am not
+> assuming that — you asked for a replacement and nobody has given you a
+> reason to change what you asked for.** **I cannot approve a refund from
+> this desk and I am not going to refuse you either.**
+>
+> **One practical thing, and it is a change from what you were told.** **You
+> offered on 23 July to return the damaged item, and you were told you would
+> not be asked to.** **That still holds — but I also cannot give you a
+> returns address, because there is not one on our side at the moment.**
+> **So please do not post it anywhere and please do not pay postage. Keep it
+> where it is.**
+>
+> **I am not going to quote you any figures or dates from our order system
+> today** — it is not readable from this desk, that is our problem and not
+> yours, and a number I cannot check would be worse than none.
+>
+> **I am not going to make any claim about the toys in either direction.**
+>
+> **Ten weeks for a torn toy, with five of your emails unanswered, is not
+> something I can explain away, and I am not going to try.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ausdrückliche Beantwortung seiner Frage vom
+13.08.**; die **wörtliche Nennung der Zusage vom 24.07. und der fünf
+unbeantworteten Nachrichten mit Datum**; die **Weitergabe des Falls an den
+Owner**; das **Angebot**, eine Erstattungsforderung weiterzugeben, falls er
+eine stellt; die **Warnung, kein Porto auszugeben.** **🟥 KEINE zweite
+Ersatzzusage — und offen gesagt, warum nicht.** **Kein Termin, keine Absage,
+keine Erstattung zugesagt.** **🟥 Sein Ersatzwunsch wird NICHT in eine
+Erstattungsforderung umgedeutet.** **Keine Garantieentscheidung.** **Keine
+Aussage zur Werbung — er hat sie in diesem Thread nicht bestritten; es wird
+ihm nichts in den Mund gelegt.** **Keine Angaben aus dem Bestelldatensatz.**
+**Kein Trackingstatus, kein Verweis an den Zusteller.** **Kein fremder
+Kundenvorgang erwähnt.** **Nichts aus seinem Hund gefolgert** (er nennt
+keinen). Kein Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 
