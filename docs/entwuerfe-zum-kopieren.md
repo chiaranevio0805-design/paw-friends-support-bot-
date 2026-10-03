@@ -1238,6 +1238,14 @@ Bestreiten wäre unwahr.
 
 ## #7316 — brettamerriman@gmail.com — „Why would I return it before it got used?"  
 
+**⛔⛔ NICHT SENDEN — KONTAKTSTOPP.** **Brett Merriman hat am 17.09. um
+09:57 UTC ausdrücklich darum gebeten, ihm nicht mehr zu schreiben.** **Diese
+Fassung stammt von VOR dieser Bitte (12./13.09.) und ist damit überholt.**
+**Sie steht hier nur noch als Aktenstück.** **Weder diese noch die andere
+#7316-Fassung darf hinausgehen** — auch nicht „nur zur Klarstellung", auch
+nicht mit Entschuldigung. **Wenn der Owner ihm aus eigener Entscheidung
+schreiben will, ist das seine Sache und nicht die dieses Postfachs.**
+
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
@@ -2744,6 +2752,14 @@ Die 58,56 AUD werden nicht aufgegriffen (Shopify: 30,66 £).
 ---
 
 ## #7316 — brettamerriman@gmail.com — ZWEITE FASSUNG, nach der zweiten Absage
+
+**⛔⛔ NICHT SENDEN — KONTAKTSTOPP.** **Brett Merriman hat am 17.09. um
+09:57 UTC ausdrücklich darum gebeten, ihm nicht mehr zu schreiben.** **Diese
+Fassung stammt von VOR dieser Bitte (12./13.09.) und ist damit überholt.**
+**Sie steht hier nur noch als Aktenstück.** **Weder diese noch die andere
+#7316-Fassung darf hinausgehen** — auch nicht „nur zur Klarstellung", auch
+nicht mit Entschuldigung. **Wenn der Owner ihm aus eigener Entscheidung
+schreiben will, ist das seine Sache und nicht die dieses Postfachs.**
 
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 

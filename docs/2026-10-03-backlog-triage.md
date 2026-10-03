@@ -1260,3 +1260,65 @@ Gleichlaut mit #5128 steht nur im Kopf des Entwurfs.
   den Produktseiten stehen:** die Werbemail vom 27.08. (#7555, Volltext
   vorhanden), der nicht geöffnete Anzeigen-Anhang (#6311) und **zwei
   wortgleiche unabhängige Zitate** (#8002 und #5128).
+
+---
+
+## Lauf 18:20 UTC — nichts Neues · ⛔ eine Gefahrenstelle geschlossen: #7316 trug KEINE Sendesperre
+
+**Posteingang: nichts Neueres als Betsey Barton um 14:26.**
+
+### ⛔ Der Befund
+
+**Am 17.09. um 09:57 UTC hat Brett Merriman (#7316) ausdrücklich gebeten, ihm
+nicht mehr zu schreiben.** Das wurde damals befolgt — **indem kein NEUER
+Entwurf geschrieben wurde.** Im Abendreport vom 17.09. steht:
+*„Kontaktstopp: befolgt (#7316 — kein weiterer Entwurf)."*
+
+**🟥 Aber die beiden ÄLTEREN Entwürfe vom 12.09. und 13.09. stehen weiter in
+`entwuerfe-zum-kopieren.md` — und trugen keinerlei Sendesperre.** Der eine
+hatte nur den neutralen Hinweis „es gibt einen neueren Entwurf", der andere
+gar nichts. **Wer die Datei abarbeitet, hätte einen davon senden können und
+damit genau die Bitte verletzt, die wir für befolgt erklärt haben.**
+
+**Beide tragen jetzt:**
+
+> **⛔⛔ NICHT SENDEN — KONTAKTSTOPP.** Brett Merriman hat am 17.09. um
+> 09:57 UTC ausdrücklich darum gebeten, ihm nicht mehr zu schreiben. Diese
+> Fassung stammt von VOR dieser Bitte und ist damit überholt. Sie steht hier
+> nur noch als Aktenstück. **Weder diese noch die andere #7316-Fassung darf
+> hinausgehen** — auch nicht „nur zur Klarstellung", auch nicht mit
+> Entschuldigung.
+
+**Das ist die Art Fehler, die nicht durch Nachlässigkeit entsteht, sondern
+durch eine Regel, die nur im Protokoll stand und nicht dort, wo gearbeitet
+wird.** Dieselbe Lehre wie bei den Datumswarnungen am 02.10.
+
+### Gegenprobe: gibt es weitere Kontaktstopps?
+
+**Abfrage:** `in:inbox "stop emailing" OR "stop contacting" OR "do not
+contact" OR "don't contact" OR "no further emails" OR "remove me"` →
+**zwei Threads, und keiner ergibt einen zweiten Kontaktstopp:**
+
+1. **Stephen Jarvis (`steveandjojarvis@aol.com`)** — vier Nachrichten, zuletzt
+   03.09.; er hat Trustpilot, FCA und Trading Standards genannt. **Die letzte
+   Nachricht im Thread ist unsere vom 04.09.; er hat seit einem Monat nicht
+   geschrieben.** **Keine ausdrückliche Bitte, nicht mehr zu schreiben** —
+   **ich trage ihm deshalb keine ein**, und **unaufgefordert wird ihm auch
+   nicht geschrieben.**
+2. **`shopifyrevenuefix@gmail.com`** (17.07.) — **kein Kunde.** Vierter
+   Vorgang dieser Art nach dem Phishing-Link vom 06.09.,
+   `shopifystoreregulatory.center@gmail.com` und `y81630904@gmail.com`.
+   **Nicht beantwortet, nichts herausgegeben.**
+
+**Bestätigter Kontaktstopp: genau einer (#7316).** **Die Suche deckt nur diese
+Formulierungen ab und ist damit eine Untergrenze** — das gehört dazugesagt.
+
+**Kein Entwurf geschrieben, keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 471** (unverändert). **Geltende: 363.**
+- **Davon mit Sendesperre: fünf** — #6936, #7179, #6528 (alle „processed")
+  und **die beiden #7316-Fassungen (Kontaktstopp).**
+- **Mehrfachfassungen abgearbeitet: 34. Offen: 62** — **#7316 bleibt als
+  „nicht zu bearbeiten" darin stehen, nicht als erledigt.**
