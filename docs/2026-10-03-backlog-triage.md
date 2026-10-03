@@ -834,3 +834,66 @@ Kandidaten schon enthalten; die Kandidatenzahl bleibt 52.**
   Mertloch* zurückgesendet werden? **2.** Die Werbemail vom 27.08. nennt die
   Garantie ohne Bedingung — **das ist der Text, an dem die Kunden uns
   messen.**
+
+---
+
+## Lauf 11:20 UTC — Posteingang leer; #5829 abgearbeitet · 🟥 DREI Vorlagen gegen eine förmliche Zurückweisung nach CRA 2015
+
+*(Erst die Datei geschrieben und geprüft — Entwurf in Zeile 26532 —, dann
+dieser Eintrag.)*
+
+**Keine neue Kundennachricht.** Bearbeitet: **#5829 — Bestellerin Tasmin Hunt
+(`tazzyhunt1@hotmail.co.uk`), ab 11.09. vertreten durch David Coles
+(`david.coles1990@gmail.com`), GB.** **Beide Threads vollständig gelesen.**
+
+### 🟥 Der Verlauf
+
+| Datum (UTC) | Was |
+|---|---|
+| **08.09. 21:03** | **Tasmin:** *„I received my **unbreakable elephant** toy last week, and my dog had already destroyed it… you advertise it as this and it's not."* |
+| 10.09. 10:07 | **Kauschaden-Vorlage** |
+| 10.09. 18:26 | sie leitet den Vorgang an David weiter |
+| **11.09. 09:34** | **David, „Formal Notice: Rejection of Faulty/Misdescribed Goods":** **CRA 2015, kurzfristiges Zurückweisungsrecht**; zitiert unsere Seite; bittet um **volle Erstattung** oder um das **Rückgabeverfahren** |
+| 13.09. 10:47 | **zweite Vorlage** |
+| **13.09. 20:59** | *„**I am not claiming under your voluntary 30-day discretionary returns policy.** **I am exercising my statutory rights under the Consumer Rights Act 2015.**… A company policy requiring items to be 'unused' **cannot override UK consumer law**."* — dazu **Chargeback** und **Trading Standards via Citizens Advice** angekündigt |
+| **15.09. 07:32** | **🟥 die EINGANGS-Vorlage erneut**, an einen Mann, der zweimal geschrieben hatte, dass er genau darauf nicht abstellt |
+| seitdem | **nichts. Achtzehn Tage.** |
+
+**Drei Vorlagenbriefe gegen eine förmliche Zurückweisung — der dritte war der
+erste, als wäre nichts dazwischen gewesen.**
+
+### Was der Entwurf tut und was ausdrücklich nicht
+
+**Er räumt die drei Vorlagen offen ein**, gibt **beide förmlichen Schreiben
+unverändert an den Owner** weiter, beantwortet die **Verfahrensfrage** (es
+gibt keine Rücksendeadresse) und **warnt vor Porto.**
+
+**🟥 KEINE rechtliche Bewertung zum Consumer Rights Act, in keine Richtung** —
+und es wird ihm ausdrücklich gesagt, warum eine Einschätzung von diesem
+Schreibtisch nichts wert wäre. **🟥 KEINE Aussage zu Chargeback oder Citizens
+Advice**, nicht um Aufschub gebeten, nichts daran geknüpft.
+
+**🟦 Zu seinen Zitaten — präzise statt bequem:** *„designed for furry friends
+who destroy everything"* ist **unser Produkttitel**; *„anti-tear design"* und
+**„rope-reinforced construction"** stehen in der Plushie-Beschreibung;
+**„double stitching" habe ich in den zwölf gelesenen Produkttexten NICHT
+gefunden.** **Der Entwurf sagt genau das — und sagt ausdrücklich, dass das
+nicht heißt, es stehe nirgends.**
+
+### ⚠️ Dritte Adresse — bewusst keine Bestelldaten
+
+**Bestellerin ist Tasmin, geschrieben hat David.** **Der Entwurf enthält
+KEINE Bestelldaten, Beträge oder Positionen**, und er sagt David den Grund
+sachlich — **ohne zu bestätigen oder zu bestreiten, dass er befugt ist.**
+**Das muss der Owner klären.**
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 465.** **Geltende: 358.**
+- **Mehrfachfassungen abgearbeitet: 29. Offen: 67.**
+- **🔴 Für den Owner:** **#5829 ist der am weitesten eskalierte Fall im
+  Postfach** — förmliche Zurückweisung, angekündigter Chargeback,
+  angekündigte Meldung an Trading Standards, und **drei Vorlagenbriefe als
+  einzige Antwort.** **Achtzehn Tage ohne Reaktion.**

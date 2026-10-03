@@ -260,6 +260,8 @@ Chargeback ausgelöst.
 ---
 
 ## #5829 — tazzyhunt1@hotmail.co.uk, cc david.coles1990@gmail.com — förmliche Rüge nach CRA 2015  
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 11.09., nie als Gmail-Entwurf vorhanden.** Antwort im
@@ -2776,6 +2778,8 @@ kein Betrag. Der Policy-Einwand wird **eingeräumt**.
 ---
 
 ## 🚩🚩 #5829 — david.coles1990@gmail.com, cc tazzyhunt1@hotmail.co.uk — ZWEITE FASSUNG
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning", „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
@@ -26456,6 +26460,126 @@ Plattform benannt. **Keine Kauschaden-Vorlage.** **Keine Angaben aus dem
 Bestelldatensatz.** **🟥 Seine eigenen Worte über seinen Hund werden
 ausdrücklich NICHT gegen ihn verwendet.** **Die CC-Adresse `kerrsk4@gmail.com`
 wird nicht kommentiert und nicht zugeordnet.** Kein Eskalationsmarker im Text.
+
+## #5829 — Tasmin Hunt (`tazzyhunt1@hotmail.co.uk`), vertreten durch David Coles (`david.coles1990@gmail.com`), GB — **ZUSAMMENGEFÜHRT** · 🟥 **förmliche Zurückweisung nach CRA 2015 — DREIMAL mit der Kauschaden-Vorlage beantwortet, die dritte war die Eingangsvorlage** · 03.10.
+
+**✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diesen Fall. Beide früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue
+Anmeldung. Es werden ohnehin keine Bestelldaten genannt — siehe nächster
+Punkt.**
+
+### ⚠️ Zwei Adressen, eine Bestellung
+
+**Bestellerin ist Tasmin Hunt.** **Geschrieben hat ab dem 11.09. David
+Coles**, nachdem sie ihm den Vorgang am 10.09. weitergeleitet hat.
+
+**Der Entwurf geht an David, weil er geschrieben hat — aber er enthält KEINE
+Bestelldaten.** **Ob David befugt ist, Auskünfte zu dieser Bestellung zu
+erhalten, ist von hier nicht feststellbar, und es wird weder bestätigt noch
+bestritten.** **Der Owner muss das klären, bevor Zahlen oder Positionen an
+diese Adresse gehen.**
+
+### Der Verlauf (`get_thread`, beide Threads gelesen)
+
+| Datum (UTC) | Was |
+|---|---|
+| **08.09. 21:03** | **Tasmin:** *„I received my **unbreakable elephant** toy last week, and my dog had already destroyed it… I'm disappointed that you advertise it as this and it's not."* |
+| 10.09. 10:07 | **Kauschaden-Vorlage** an Tasmin |
+| 10.09. 18:26 | sie leitet den Vorgang an David weiter |
+| **11.09. 09:34** | **David, „Formal Notice: Rejection of Faulty/Misdescribed Goods":** CRA 2015, **kurzfristiges Zurückweisungsrecht**, zitiert unsere Seite — *„designed for furry friends who destroy everything"*, *„reinforced rope structure, double stitching, and anti-tear design"*; bittet um Bestätigung einer **vollen Erstattung** oder um das **Rückgabe- und Erstattungsverfahren** |
+| 13.09. 10:47 | **zweite Kauschaden-Vorlage** („As explained…") |
+| **13.09. 20:59** | *„**I am not claiming under your voluntary 30-day discretionary returns policy** for unused items. **I am exercising my statutory rights under the Consumer Rights Act 2015.** … A company policy requiring items to be 'unused' **cannot override UK consumer law**… I will now be escalating this matter to my bank… alongside reporting the misleading advertising to Trading Standards via Citizens Advice."* |
+| **15.09. 07:32** | **🟥 die EINGANGS-Vorlage erneut** — *„We're very sorry to hear that the toy was damaged after your dog used it"* — an einen Mann, der zweimal geschrieben hatte, dass er genau darauf nicht abstellt |
+| seitdem | **nichts. Achtzehn Tage.** |
+
+**🟥 Drei Vorlagenbriefe gegen eine förmliche Zurückweisung. Der dritte war
+die Eingangsvorlage, als wäre nichts davor gewesen.**
+
+**🟦 Zu den Zitaten:** *„designed for furry friends who destroy everything"*
+ist **unser Produkttitel**. *„anti-tear design"* steht so in der
+Plushie-Beschreibung, ebenso **„rope-reinforced construction"**. **„Double
+stitching" habe ich in den zwölf gelesenen Produkttexten nicht gefunden** —
+das heißt nicht, dass es nirgends steht. **Der Entwurf sagt genau das.**
+
+**Betreff:** `Re: Formal Notice: Rejection of Faulty/Misdescribed Goods (Order #5829)`
+
+> Dear David,
+>
+> **You wrote twice that you were not claiming under the thirty-day returns
+> policy. The reply you received on 15 September was the standard paragraph
+> about that policy — the same one that had already gone out twice.** **I am
+> not going to defend that. It should not have happened, and no fourth copy
+> is coming from me.**
+>
+> **What I am not going to do is tell you whether you are right about the
+> Consumer Rights Act.** **I am also not going to tell you that you are
+> wrong.** **A support desk ruling on consumer law — least of all on its own
+> employer's position under it — would be worth nothing to you in either
+> direction, and you would be right to disregard it.** **Your letters of
+> 11 and 13 September go to the shop owner in full, as the formal rejection
+> you intended them to be and not as a complaint to be answered with
+> policy.**
+>
+> **On the wording you quoted, I can be precise, and I am not going to argue
+> with you about it.** **"Designed for furry friends who destroy everything"
+> is our own product title.** **"Anti-tear design" and "rope-reinforced
+> construction" appear in our plushie description.** **"Double stitching" I
+> could not find in any of the twelve current product descriptions I have
+> read — that does not mean it is not published somewhere I cannot see, and I
+> am not going to suggest you invented it.** **All of this goes to the owner
+> as it stands.**
+>
+> **On the two things you said you would do.** **Contacting your bank and
+> contacting Citizens Advice are entirely your decisions.** **I am not going
+> to ask you to hold off, I am not going to advise you either way, and
+> nothing about how this is handled depends on whether you do.**
+>
+> **On the refund and the return you asked about.** **I cannot approve a
+> refund from this desk and I am not going to refuse one.** **That decision
+> is the owner's, and your request for the full amount goes to him today.**
+> **I am not going to give you a date, because I cannot stand behind one.**
+> **As for the return: there is no returns address I can give you — not one I
+> am withholding, one that does not exist on our side at the moment.** **So
+> please do not post anything and please do not pay postage.** **That is the
+> honest answer to "let me know how you intend to arrange the return", and it
+> should have been given on 11 September instead of a policy paragraph.**
+>
+> **One procedural thing I would rather say than leave unsaid.** **The order
+> was placed in Tasmin's name and you are writing on her behalf.** **I am
+> therefore not putting any order details, amounts or item lines in this
+> reply.** **That is not a doubt about you — it is simply not something I can
+> verify from here, and I would rather be careful with someone else's order
+> than helpful with it.** **The owner can confirm what he is able to share
+> with you.**
+>
+> **I am not going to make any claim about the toy in either direction, and I
+> am drawing no conclusion from the dog.**
+>
+> **Eighteen days of silence after a formal letter is not something I can
+> explain, and I am not going to pretend otherwise.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Einräumung, dass drei Vorlagenbriefe
+hinausgingen und der dritte die Eingangsvorlage war**; die **unveränderte
+Weitergabe seiner beiden förmlichen Schreiben an den Owner**; die **präzise
+Auskunft, welche seiner Zitate in unseren Texten belegt sind und welches
+nicht gefunden wurde**; die **Antwort auf seine Verfahrensfrage** — es gibt
+keine Rücksendeadresse — und die **Warnung, kein Porto auszugeben.**
+**Keine Erstattung zugesagt, kein Termin, keine Absage.** **🟥 KEINE
+rechtliche Bewertung zum Consumer Rights Act, in keine Richtung — und
+ausdrücklich gesagt, warum eine von hier nichts wert wäre.** **🟥 KEINE
+Aussage zu Chargeback oder Citizens Advice/Trading Standards, nicht um
+Aufschub gebeten, nichts daran geknüpft.** **🟥 KEINE Bestelldaten an die
+Drittadresse** — und **weder bestätigt noch bestritten, dass David befugt
+ist**; der Grund wird ihm sachlich genannt, ohne Misstrauensbekundung.
+**Keine vierte Vorlage.** **Keine Garantieentscheidung.** **Nicht behauptet,
+eines seiner Zitate existiere nicht.** **Keine Angaben aus dem
+Bestelldatensatz.** **Nichts aus dem Hund gefolgert.** Kein
+Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 
