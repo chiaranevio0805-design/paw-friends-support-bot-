@@ -410,3 +410,72 @@ Warnung, kein Porto auszugeben. **Sie hält den ungeöffneten Duck.**
   kann** — wo die Rückgaberichtlinie veröffentlicht ist, und wo die Bedingung
   „nur unbenutzt" stand, als sie gekauft hat. **In den zwölf Produkttexten
   steht sie nicht.**
+
+---
+
+## Lauf 05:20 UTC — Posteingang leer; #7119 Susan McGee abgearbeitet
+
+*(Erst die Datei geschrieben und geprüft — Entwurf in Zeile 25970 —, dann
+dieser Eintrag.)*
+
+**Abfrage `in:inbox is:unread newer_than:1d`: nichts Neueres als Nigel Bennett
+am 02.10. um 20:06 UTC.**
+
+### 🟥 #7119 — Susan McGee (`susanmcgee@outlook.com.au`), AU — **Bot/Escalated – Owner Attention**
+
+**Thread vollständig gelesen (`get_thread`, 6 von 6).** Das ist der Fall, der
+sich im 03:20-Lauf als **Fehltreffer** der „processed"-Suche erwiesen hat —
+ihre Nachricht vom 22.09. 11:06:57 ist **keine** Erstattungsbestätigung,
+sondern die **zweite Kauschaden-Vorlage.** **Deshalb hier nachgezogen.**
+
+| Datum (UTC) | Was |
+|---|---|
+| **13.09. 08:33** | *„I have not received these items & I have not got a tracking number… **or I will have to have this payment reversed by the bank**."* |
+| 15.09. 06:59 | Antwort mit **Trackingnummer**: *„currently in transit… processed at the sorting facility"* |
+| **17.09. 06:22** | *„We received the order today. **It was advertised as indestructible.** … Please refund our money. **We have the pieces of one & one intact. We are happy to return.**"* |
+| 19.09. 10:09 | **Kauschaden-Vorlage** |
+| **19.09. 10:16** | **sieben Minuten später:** australisches Verbraucherrecht, **Chargeback angekündigt**, **öffentliche Veröffentlichung angekündigt**, *„**I am happy to return the second item.**"* |
+| 22.09. 11:06:57 | **zweite Kauschaden-Vorlage** |
+| seitdem | **nichts. Elf Tage.** |
+
+**🟥 Zweimal hat sie angeboten zurückzuschicken — beide Male kam eine Absage
+zum Kauschaden, die das unberührte Teil nicht erwähnt.**
+
+**Drei Eskalationsgründe auf einmal. Im Entwurf wird keiner davon
+bewertet:**
+- **australisches Verbraucherrecht:** keine rechtliche Einschätzung, in keine
+  Richtung
+- **Chargeback:** nicht dafür, nicht dagegen, **nicht um Aufschub gebeten**,
+  nichts daran geknüpft
+- **angekündigte Veröffentlichung:** **nicht darum gebeten, es zu
+  unterlassen**, keine Plattform benannt, nichts daran geknüpft
+
+**Im Entwurf ausdrücklich DOCH:** die Antwort auf ihr Rückgabeangebot — **es
+gibt keine Adresse** —, die Einräumung, dass ihr das am 19.09. hätte gesagt
+werden müssen, und die **Warnung, kein Porto aus Australien auszugeben.**
+
+**🟥 Dazu eine offene Korrektur an einer früheren Antwort:** am 15.09. wurde
+ihr ein **Trackingstatus vorgelesen**. Der Entwurf benennt das und sagt zu,
+genau das **nicht** wieder zu tun — keine Nummer, kein Status, kein Verweis
+an den Zusteller.
+
+**Weiter NICHT:** keine Garantieentscheidung; nicht behauptet, die von ihr
+erinnerte Werbeaussage existiere nicht; **keine Angaben aus dem
+Bestelldatensatz und nichts in AUD umgerechnet**; nichts aus ihrem Hund
+gefolgert.
+
+**🟦 Sie war bereits als Halterin eines unberührten Artikels erfasst — die
+Zahl der Menschen mit ungeöffneter Ware bleibt zwölf.**
+
+**Drei frühere Fassungen als ERSETZT markiert** (Zeilen 2015, 8055, 12491).
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 461.** **Geltende: 354.**
+- **Mehrfachfassungen abgearbeitet: 25. Offen: 71.**
+- **🔴 Für den Owner:** **#7119 ist der erste Fall mit angekündigtem
+  Chargeback UND angekündigter Veröffentlichung UND Berufung auf
+  Verbraucherrecht.** Sie wartet seit elf Tagen; geantwortet wurde ihr
+  zweimal mit derselben Vorlage.

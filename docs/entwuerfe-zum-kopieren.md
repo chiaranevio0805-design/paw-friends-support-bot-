@@ -2013,6 +2013,8 @@ Erstattung.
 ---
 
 ## #7119 — susanmcgee@outlook.com.au — Chargeback angekündigt, Nummer liegt vor  
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Neu geschrieben am 13.09.** Antwort im bestehenden Thread, Betreff
@@ -8052,6 +8054,8 @@ Eskalationsmarker im Text.
 
 ## #7119 — Susan McGee (susanmcgee@outlook.com.au) — ein Stück unberührt, Australien  
 
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
+
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
@@ -12485,6 +12489,8 @@ verschwiegen**: ihm wird gesagt, dass sie in den eigenen Terms of Service steht.
 ablehnend. Kein Eskalationsmarker im Text.
 
 ## #7119 — Susan McGee (susanmcgee@outlook.com.au) — AU, nach der Vorlagen-Absage von 10:09 UTC
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „on thursday", „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
@@ -25960,6 +25966,119 @@ Bestelldatensatz, ihr Betrag nicht nachgerechnet.** **Ihre Anschrift,
 Telefonnummer und die Angaben aus ihrer Signatur werden nicht verwendet und
 nicht erwähnt.** **Keine andere Frist als dreißig Tage genannt.** **Nichts
 aus ihrem Hund gefolgert.** Kein Eskalationsmarker im Text.
+
+## #7119 — Susan McGee (`susanmcgee@outlook.com.au`), AU — **ZUSAMMENGEFÜHRT** · 🟥 **zweimal Rückgabe angeboten, zweimal die Kauschaden-Vorlage; dazu Verbraucherrecht, Chargeback und eine angekündigte öffentliche Veröffentlichung** · 03.10.
+
+**✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diese Kundin. Alle drei früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue
+Anmeldung. Keine Beträge, kein Versanddatum. Sie zahlt in AUD; es wird nichts
+umgerechnet.**
+
+**Eskalationsgründe, drei auf einmal:** Berufung auf **australisches
+Verbraucherrecht**, angekündigter **Chargeback**, angekündigte **öffentliche
+Veröffentlichung**. **Keines davon wird bewertet, keines wird ihr
+ausgeredet, und nichts wird daran geknüpft.**
+
+**Der Verlauf (`get_thread`, 6 von 6 Nachrichten):**
+
+| Datum (UTC) | Was |
+|---|---|
+| **13.09. 08:33** | *„I have not received these items & I have not got a tracking number. Please supply this **or I will have to have this payment reversed by the bank**."* |
+| 15.09. 06:59 | Antwort: *„currently in transit… **processed at the sorting facility**"*, **mit Trackingnummer** |
+| **17.09. 06:22** | *„We received the order today. **It was advertised as indestructible.** We gave one to the dog. It lasted 10min. Please refund our money. **We have the pieces of one & one intact. We are happy to return.**"* |
+| 19.09. 10:09 | **Kauschaden-Vorlage** |
+| **19.09. 10:16** | **sieben Minuten später:** *„Australia had strict laws around false advertising… I have already collated the information for my bank & will request a charge back. I will also follow up and post photos on all your socials & websites… **I am happy to return the second item.**"* |
+| 22.09. 11:06:57 | **zweite Kauschaden-Vorlage** („As explained…") |
+| seitdem | **nichts. Elf Tage.** |
+
+**🟥 Zweimal hat sie angeboten, zurückzuschicken — am 17.09. beide Teile, am
+19.09. ausdrücklich das unberührte. Beide Male kam eine Absage zum Kauschaden,
+die das unberührte Teil nicht erwähnt.**
+
+**🟦 Hinweis zur Prüfliste:** sie ist bereits als Halterin eines unberührten
+Artikels erfasst. **Die Zahl der Menschen mit ungeöffneter Ware bleibt
+zwölf.**
+
+**Betreff:** `Re: ORDER #7119`
+
+> Dear Susan,
+>
+> **You offered twice to send the toys back — on 17 September both of them,
+> and on 19 September the one still intact. Both times you were sent a
+> paragraph about chew damage that did not mention the intact one at all.**
+> **No third copy of it is coming from me.**
+>
+> **Here is the answer to the offer you made: there is no returns address I
+> can give you.** **Not one I am withholding — one that does not exist on our
+> side at the moment.** **So please do not post anything, and please do not
+> pay postage from Australia expecting to be reimbursed.** **Keep both where
+> they are, including the intact one.** **You should have been told this on
+> 19 September.**
+>
+> **Your request for a refund goes to the shop owner today, in your own
+> words.** **I cannot approve one from this desk and I am not going to refuse
+> you.** **I am not going to give you a date, because I cannot stand behind
+> one.**
+>
+> **On the law you mentioned.** **I am not going to tell you whether you are
+> right about it, and I am not going to tell you that you are wrong.** **A
+> support desk ruling on consumer law — least of all its own employer's
+> position under it — would be worth nothing to you in either direction.**
+> **Your words on that go to the owner exactly as you wrote them.**
+>
+> **On the chargeback.** **That is entirely your decision.** **I am not going
+> to advise you for or against it, I am not going to ask you to hold off,
+> and nothing in how your request is handled depends on it.**
+>
+> **On posting about this publicly.** **Also entirely your decision.** **I am
+> not going to ask you not to, and nothing here is conditional on it, in any
+> direction.**
+>
+> **On the advertising.** **I cannot see what you were shown, so I am not
+> going to tell you what it said, and I am certainly not going to suggest you
+> misread it.** **What I can check, I have:** I have read all twelve of our
+> current product descriptions. **The word "indestructible" appears in none of
+> them.** **That is a statement about those twelve texts and nothing more** —
+> it says nothing about what you were shown, and I am not using it against
+> you.
+>
+> **What I am not going to do is tell you the guarantee covers what happened,
+> or tell you it does not.** **That is the owner's decision and not mine.**
+>
+> **One correction I owe you about an earlier reply.** **On 15 September you
+> were read a tracking status and told the order was in transit.** **I am not
+> going to do that again: I am not going to quote you a courier status, I am
+> not going to treat a tracking reference as proof of anything, and I am not
+> going to send you to chase a carrier.** **The order did arrive, as you told
+> us on 17 September, so the question now is the refund and not the parcel.**
+>
+> **I am not going to make any claim about the toys in either direction, and
+> I am drawing no conclusion from your dog.**
+>
+> I am sorry it took two form letters and eleven days of silence before
+> anyone answered the one practical thing you asked.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Antwort auf ihr zweimaliges Rückgabeangebot** — es
+gibt keine Adresse —, mit der offenen Einräumung, dass ihr das am 19.09. hätte
+gesagt werden müssen; die **Warnung, kein Porto auszugeben**; die
+**unveränderte Weitergabe ihrer Erstattungsforderung und ihrer Worte zum
+Verbraucherrecht.** **Keine Erstattung zugesagt, kein Termin, keine Absage.**
+**Keine dritte Kauschaden-Vorlage.** **🟥 KEINE rechtliche Bewertung zum
+australischen Recht, in keine Richtung.** **🟥 KEINE Aussage zum Chargeback
+— nicht dafür, nicht dagegen, nicht um Aufschub gebeten, nichts daran
+geknüpft.** **🟥 Zur angekündigten Veröffentlichung wird NICHT gebeten, sie
+zu unterlassen**, nichts daran geknüpft, keine Plattform benannt. **Keine
+Garantieentscheidung.** **Nicht behauptet, die von ihr erinnerte Werbeaussage
+existiere nicht.** **🟥 Die Trackingnummer wird NICHT wiederholt, nicht als
+Nachweis benutzt und sie wird NICHT an den Zusteller verwiesen** — der
+frühere Trackingbrief wird offen als solcher benannt. **Keine Angaben aus dem
+Bestelldatensatz, nichts in AUD umgerechnet.** **Nichts aus ihrem Hund
+gefolgert.** Kein Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 
