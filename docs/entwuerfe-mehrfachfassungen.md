@@ -27,7 +27,7 @@ Blick in die Threads der Kundin oder des Kunden.**
 4. **Wenn nein:** eine zusammengeführte Fassung schreiben, die alles abdeckt,
    und alle vorherigen als ERSETZT markieren.
 
-**Bereits so abgearbeitet (35 von 96):** #7479, #7048, #7347, #8142, #8372,
+**Bereits so abgearbeitet (36 von 96):** #7479, #7048, #7347, #8142, #8372,
 #7547, #6254, #5973, #7831, **#8295** (sechs Fassungen, fünf Threads),
 **#7608** (fünf Fassungen, zwei Threads, Sicherheitsmeldung nachgetragen),
 #7041, **#7989** (zugesagte Variante nie umgesetzt), **#8781** (Storno nach
@@ -51,9 +51,10 @@ drei Tage später mit einer Versandangabe abgelehnt) **#6311** (fragt
 direkt nach der Ersatzzusage aus der Facebook-Werbung, Anhang nicht geöffnet)
 und **#8002** (dieselbe Vorlage zweimal, er hat es selbst erkannt) **#5310**
 (drei Vorlagenbriefe, der dritte wörtlich gleich dem zweiten; dritte
-unabhängige Kundin mit derselben Werbeaussage).
+unabhängige Kundin mit derselben Werbeaussage) und **#6384** (vierter
+Doppelbrief, wörtlich nachgeprüft; Klarna und Trading Standards).
 
-**Noch offen: 61.** Die Tabelle unten ist der Stand bei Erstellung am 01.10.
+**Noch offen: 60.** Die Tabelle unten ist der Stand bei Erstellung am 01.10.
 und wird nicht zeilenweise nachgeführt — maßgeblich ist diese Liste und der
 GEPRÜFT-Vermerk in `entwuerfe-zum-kopieren.md`.
 

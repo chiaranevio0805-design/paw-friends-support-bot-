@@ -1404,3 +1404,73 @@ wo ist das veröffentlicht?**
   **Dieser Entwurf nennt deshalb weder Betrag noch Bestell- oder
   Versanddatum** — die drei alten Fassungen taten es.
 - **Kein Entwurf gesendet, keine Erstattung ausgelöst, nichts verändert.**
+
+---
+
+## Lauf 20:20 UTC — nichts Neues; #6384 Simon Foord abgearbeitet · 🟥 VIERTER Doppelbrief, diesmal Zeichen für Zeichen nachgeprüft — und in drei von vier Fällen wechselt die Anrede zu „Dear Customer"
+
+**Posteingang: `in:inbox is:unread newer_than:7h` → nur Betsey Barton, 14:26,
+bearbeitet. Nichts Neues.**
+
+### 🟥 #6384 — Simon Foord (`simonfoord@me.com`), GB — **Bot/Escalated – Owner Attention**
+
+**Drei Fassungen zusammengeführt, alle als ersetzt markiert. Thread
+vollständig gelesen (8 von 8), dazu zwei Nachrichten einzeln im Volltext.**
+
+| Datum (UTC) | Was |
+|---|---|
+| **28.08. 07:51** | *„My order has not arrived and there is no information to track it showing."* |
+| 31.08. 12:21 | *„your order is **on the way**… Our **UK warehouse is currently sold out**, so your order was shipped from our **international warehouse**. Delivery usually takes **7–21 days**."* |
+| **16.09. 09:13** | *„My order has **eventually** arrived… lasted **less than 10 minutes**… Nothing liked the claimed **indestructible** at all. **Please send returns label**"* |
+| 18.09. 10:37 | **Kauschaden-Vorlage, „Dear Simon"** |
+| **18.09. 11:26** | **49 Min. später:** *„not fit for purpose. You advertise as **indestructible** and it lasted less than 5 minutes with a **Pug**! **Please arrange refund**"* |
+| 21.09. 09:35 | **zweite Vorlage, „Dear Customer"** |
+| **21.09. 10:10** | **35 Min. später:** *„**under UK law a refund must be issued**. I will advise **Klana** [Klarna] of your response and also **trading standards**."* |
+| **24.09. 12:19** | **🟥 die Eingangsvorlage vom 18.09. WÖRTLICH erneut, „Dear Customer"** |
+| seitdem | **nichts. Neun Tage.** |
+
+### 🟥 Der Befund: vierter Doppelbrief — und ein Muster in der Anrede
+
+**Ich habe beide Briefe im Volltext gelesen und verglichen, nicht die
+Vorschau.** **Sie sind Zeichen für Zeichen gleich; nur die Anrede wechselte
+von „Dear Simon" zu „Dear Customer".**
+
+| Fall | Erster Brief | Wörtlich erneut | Selbst bemerkt? | Anrede beim zweiten Mal |
+|---|---|---|---|---|
+| **#6583** Ken Beville | 03.09. | 21.09. | **ja, nach 44 Min.** | unverändert |
+| **#8002** Thomas Robinson | 18.09. | 21.09. | **ja** | **→ „Dear Customer"** |
+| **#5310** Heather Taylor | 24.09. | 28.09. | **nein, verstummte** | **→ „Dear Customer"** |
+| **#6384** Simon Foord | **18.09.** | **24.09.** | **nein, verstummte** | **→ „Dear Customer"** |
+
+**🟥 In drei von vier Fällen fällt die Anrede beim zweiten Durchgang vom Namen
+auf „Dear Customer".** **Das sieht nicht nach vier Versehen aus, sondern nach
+einem Ablauf, der einen Thread beim zweiten Durchlauf nicht mehr als denselben
+Kunden erkennt.** **Der Owner braucht nicht vier Entschuldigungen, sondern die
+Ursache** — sonst kommt der fünfte Doppelbrief.
+
+### Was in diesem Fall sonst offen ist
+
+- **🟥 Seine Bitte vom 16.09. um ein Rücksendelabel ist in drei Antworten
+  nicht beantwortet worden.** Grund wie überall: **es gibt keine
+  Rücksendeadresse** — und niemand hat es ihm gesagt.
+- **🟥 Klarna.** Zweiter Fall nach **#5148**, in dem ein Ratenplan
+  weiterlaufen dürfte, während die Sache ungeklärt ist. **Der Entwurf sagt
+  ihm ausdrücklich, dass von hier nichts angehalten werden kann — und
+  genauso ausdrücklich NICHT, ob er zahlen soll.** Das wäre eine Finanz- und
+  Rechtsauskunft, die mir nicht zusteht.
+- **🟥 „not fit for purpose" / „under UK law"** → **keine rechtliche
+  Bewertung, in keine Richtung.** Seine Position geht im Wortlaut weiter.
+- **🟥 „You advertise as indestructible"** → nicht in den zwölf Produkttexten;
+  der Befund wird mit seiner Grenze genannt, nicht gegen ihn verwendet.
+- **🟦 Herkunft der Ware:** steht ihm **seit dem 31.08. schriftlich** zur
+  Verfügung („international warehouse", 7–21 Tage). **Er hat nicht erneut
+  gefragt. Der Entwurf wiederholt es nicht und nimmt es nicht zurück.**
+- **🟥 Nichts aus dem Pug gefolgert** — er hat ihn selbst genannt.
+
+### Stand
+
+- **Entwürfe in der Datei: 475. Ersetzt: 115. Geltende: 360.**
+- **Mehrfachfassungen abgearbeitet: 36 von 96. Noch offen: 60.**
+- **Sendesperren: fünf** — #6936, #7179, #6528, beide #7316-Fassungen.
+- **Shopify: dritter Tag Neuanmeldung nötig. `switch-shop` NICHT aufgerufen.**
+- **Kein Entwurf gesendet, keine Erstattung ausgelöst, nichts verändert.**
