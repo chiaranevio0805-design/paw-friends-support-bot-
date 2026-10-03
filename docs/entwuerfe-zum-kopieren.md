@@ -10143,6 +10143,8 @@ australischen Rechtslage** — sie hat nicht danach gefragt. **Kein Foto
 ausgewertet.** Kein Eskalationsmarker im Text.
 
 ## #6311 — Garth Callaghan (garthcallaghan93@gmail.com) — ⚠️⚠️ zweite unabhängige Facebook-Ersatzzusage, sechster AU-Fall  
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Dog Toys
@@ -15491,6 +15493,8 @@ zugesagt, kein Betrag, kein Termin, keine Absage, keine Vorlagen-Antwort.**
 Produkts in die eine oder andere Richtung.** Kein Eskalationsmarker im Text.
 
 ## #6311 — Garth Callaghan (garthcallaghan93@gmail.com) — **AU**, ⛔ **fragte nach Ersatz, bekam eine Geld-zurück-Bedingung**, nennt Facebook/Instagram
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
@@ -27020,6 +27024,117 @@ hier nicht zulässig ist.** **Ihre neue Anschrift wird nicht wiederholt.**
 Antwort auf Nachfrage zugesagt** — herkunftsneutral, nicht verschleiernd.
 **Keine Angaben aus dem Bestelldatensatz.** **Nicht gesagt, es sei keine
 Bestellung auffindbar.** Kein Eskalationsmarker im Text.
+
+## #6311 — Garth Callaghan (`garthcallaghan93@gmail.com`) — **ZUSAMMENGEFÜHRT** · 🟥 **fragt direkt nach der ERSATZZUSAGE aus der Facebook/Instagram-Werbung — und hat offenbar ein Bild davon mitgeschickt** · 03.10.
+
+**✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diesen Kunden. Beide früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue Anmeldung.**
+
+### 🟥 Für den Owner: hier liegt möglicherweise der Beleg, den vier andere Fälle brauchen
+
+**Seine Mail vom 18.09. hat vier Anhänge**, darunter eine
+**`image.png`**, die **im Text an der Stelle eingebettet ist, an der er sich
+auf die Anzeige beruft**. **Ich habe keinen der Anhänge geöffnet — das ist
+die Regel.** **Aber der Owner sollte sie öffnen:** es könnte die
+**Facebook/Instagram-Anzeige** selbst sein.
+
+**Damit wäre genau die Frage beantwortbar, die bei #7034, #7148,
+`panorton61` und #2894 offen ist: wo ist die Ersatzzusage veröffentlicht?**
+**Garth ist der fünfte Kunde, der sich darauf beruft.**
+
+**Der Verlauf (`get_thread`, 4 von 4 Nachrichten):**
+
+| Datum (UTC) | Was |
+|---|---|
+| **18.09. 03:03** | *„Further to your advertisement on **Facebook/Ista** i made a purchase of these indestructible dog toys. Well my little Chihuahua has manged to kill one and is not far off the second. **As per your add will you replace as guaranteed?**"* — **vier Anhänge, nicht geöffnet** |
+| 21.09. 09:28 | **Kauschaden-Vorlage, „Dear Customer"** |
+| **21.09. 22:10** | *„**If its unused how would you know its going to last.** That is rediculous and a scam!"* |
+| 24.09. 12:31 | zweite Antwort — *„…after seeing our advertising about the…"* — **ohne seine Frage zu beantworten** |
+| seitdem | **nichts. Neun Tage.** |
+
+**🟥 Er hat eine klare Frage gestellt — „will you replace as guaranteed?" —
+und sie ist in beiden Antworten nicht beantwortet worden.**
+
+**🟦 Er ist der sechste Kunde mit dem Argument** *„If its unused how would you
+know its going to last"* — nach #8431, #7347, #2095, #7292 und #7749.
+
+**Betreff:** `Re: Dog Toys`
+
+> Dear Garth,
+>
+> **You asked one direct question on 18 September — whether we will replace
+> the toys as the advertising says — and neither of the two replies you
+> received answered it. I am not going to send you a third one that does the
+> same.**
+>
+> **Here is the honest position.** **I cannot decide that question from this
+> desk, and I am not going to pretend otherwise.** **It goes to the shop owner
+> today, in your own words, as a request for the replacement you say the
+> advertisement promised.** **I am not going to give you a date.**
+>
+> **What I am also not going to do is promise you a replacement myself.** **I
+> want to be straight about the reason: a promise of exactly that kind has
+> been made in writing from this desk before and not kept, and a fresh one
+> from me would be worth nothing to you.** **You would rightly stop believing
+> anything else in this letter.**
+>
+> **On the advertisement itself.** **I cannot see what you were shown, so I am
+> not going to tell you what it said, and I am certainly not going to suggest
+> you misread it.** **What I can tell you is checkable: I have read all twelve
+> of our current product descriptions, and neither the word "indestructible"
+> nor a promise to replace a destroyed toy appears in any of them.** **That is
+> a statement about those twelve texts and nothing more** — it says nothing
+> about a Facebook or Instagram advertisement, which I cannot see from here.
+> **Your wording, and the fact that you are referring to that advertisement,
+> go to the owner exactly as you put them.**
+>
+> **You attached images. I have not opened them, and I am not asking you for
+> anything further** — nothing here depends on you proving anything. **I have
+> told the owner they are there, because he can open them and I cannot.**
+> **Please keep them rather than deleting them.**
+>
+> **What I am not going to do is tell you the guarantee covers what happened,
+> or tell you it does not.** **That is his decision and not mine.**
+>
+> **You wrote that it is ridiculous and a scam to require an item to be
+> unused.** **I am not going to agree with that on the owner's behalf and I am
+> not going to argue with you about it.** **The point you made — that you
+> cannot tell whether a toy lasts without letting the dog use it — is the
+> sixth time a customer has put that to us in writing, and it goes to him in
+> your words.**
+>
+> **One practical thing before you spend money: there is no returns address I
+> can give you at the moment** — not one I am withholding, one that does not
+> exist on our side. **Please do not post anything back.**
+>
+> **I am not going to make any claim about the toys in either direction, and
+> I am drawing no conclusion from your Chihuahua** — you mentioned yourself
+> that she is little, and that is not something I am going to turn around and
+> use against you.
+>
+> I am sorry that a plain question took nine days and two form letters to
+> reach someone who would answer it as a question.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Weitergabe seiner Frage als Ersatzforderung im
+Wortlaut**; der **Hinweis an den Owner, dass seine Anhänge existieren**; die
+**Warnung, kein Porto auszugeben.** **🟥 KEINE Ersatzzusage — und offen
+gesagt, warum nicht.** **Kein Termin, keine Absage, keine Erstattung
+zugesagt.** **Keine Garantieentscheidung, in keine Richtung.** **Nicht
+behauptet, die von ihm erinnerte Anzeige oder Zusage existiere nicht** — nur
+der Befund zu den zwölf Produkttexten, **ausdrücklich mit dem Hinweis, dass er
+über eine Facebook-/Instagram-Anzeige nichts aussagt.** **Keine
+Rekonstruktion der Anzeige.** **🟥 Anhänge NICHT geöffnet** — nur vermerkt,
+dass sie da sind. **Seinem „scam" wird weder zugestimmt noch widersprochen.**
+**Keine Angaben aus dem Bestelldatensatz.** **🟥 Nichts aus seinem Hund
+gefolgert, und sein eigener Hinweis auf die Größe wird nicht gegen ihn
+verwendet.** **Andere Kundenvorgänge werden nicht beschrieben** — nur die Zahl
+genannt, wie oft dasselbe Argument schriftlich vorlag. Kein
+Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 

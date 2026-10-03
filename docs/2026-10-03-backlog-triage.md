@@ -1136,3 +1136,63 @@ Warnung, kein Porto auszugeben, falls doch ein Paket kommt.
   ist.**
 - **🔴 Stornowünsche und stornonahe Fälle: jetzt sechs** — #8781, #6793,
   #5036, #8669, #8764 (mit Frist) und **Betsey Barton (bedingt)**.
+
+---
+
+## Lauf 16:20 UTC — nichts Neues; #6311 abgearbeitet · 🟥 hier liegt vielleicht der Beleg für die Ersatzzusage
+
+*(Erst die Datei geschrieben und geprüft — Entwurf in Zeile 27354 —, dann
+dieser Eintrag.)*
+
+**Posteingang: nichts Neueres als Betsey Barton um 14:26.** Bearbeitet:
+**#6311 Garth Callaghan (`garthcallaghan93@gmail.com`)**, zwei Fassungen,
+**Thread vollständig gelesen (4 von 4).**
+
+### 🟥 Der Punkt, der über diesen Fall hinausgeht
+
+**Seine Mail vom 18.09. trägt vier Anhänge, darunter eine `image.png`, die
+im Text genau an der Stelle eingebettet ist, an der er sich auf die Anzeige
+beruft.**
+
+**Ich habe keinen der Anhänge geöffnet — das ist die Regel.** **Aber der Owner
+sollte sie öffnen: es könnte die Facebook-/Instagram-Anzeige selbst sein.**
+**Damit wäre die Frage beantwortbar, die bei #7034, #7148, `panorton61` und
+#2894 offen ist — wo die Ersatzzusage veröffentlicht ist.**
+
+| Datum (UTC) | Was |
+|---|---|
+| **18.09. 03:03** | *„Further to your advertisement on **Facebook/Ista**… **As per your add will you replace as guaranteed?**"* — **vier Anhänge** |
+| 21.09. 09:28 | **Kauschaden-Vorlage, „Dear Customer"** |
+| **21.09. 22:10** | *„**If its unused how would you know its going to last.** That is rediculous and a scam!"* |
+| 24.09. 12:31 | zweite Antwort — **ohne seine Frage zu beantworten** |
+| seitdem | **nichts. Neun Tage.** |
+
+**🟥 Seine klare Frage — „will you replace as guaranteed?" — ist in beiden
+Antworten nicht beantwortet worden.** **Er ist der fünfte Kunde, der sich auf
+eine Ersatzzusage beruft, und der sechste mit dem Argument, Haltbarkeit sei
+ohne Benutzung nicht prüfbar** (nach #8431, #7347, #2095, #7292, #7749).
+
+**Im Entwurf ausdrücklich:** die Weitergabe seiner Frage als
+Ersatzforderung; der **Hinweis, dass seine Anhänge existieren und der Owner
+sie öffnen kann**; die Warnung, kein Porto auszugeben.
+
+**Im Entwurf ausdrücklich NICHT:** **keine Ersatzzusage**, mit offener
+Begründung; keine Garantieentscheidung; **nicht behauptet, die Anzeige oder
+die Zusage existiere nicht** — der Befund zu den zwölf Produkttexten wird
+genannt **und ausdrücklich eingeschränkt, dass er über eine Facebook-Anzeige
+nichts aussagt**; **Anhänge nicht geöffnet**; seinem „scam" wird weder
+zugestimmt noch widersprochen; **nichts aus seinem Hund gefolgert** und sein
+eigener Hinweis auf die Größe nicht gegen ihn verwendet; andere
+Kundenvorgänge werden nicht beschrieben, nur gezählt.
+
+**Beide früheren Fassungen als ERSETZT markiert.**
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 470.** **Geltende: 362.**
+- **Mehrfachfassungen abgearbeitet: 33. Offen: 63.**
+- **🔴 Für den Owner, mit Priorität:** **#6311s Anhang vom 18.09. öffnen.**
+  **Fünf Kunden berufen sich auf eine Ersatzzusage; dies ist der erste, der
+  möglicherweise ein Bild davon mitgeschickt hat.**
