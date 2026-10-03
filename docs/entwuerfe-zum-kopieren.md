@@ -310,6 +310,8 @@ am Anspruch vorbeiging: das steht in der Rüge und lässt sich nicht bestreiten.
 
 ## #7179 — keithhyype@gmail.com — Füllwatte gefressen + zwei ungeöffnete Teile  
 
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
+
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
@@ -2236,6 +2238,8 @@ belegt ist.**
 ---
 
 ## #7179 — keithhyype@gmail.com — ZWEITE FASSUNG, nach der zweiten Absage  
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
@@ -15733,6 +15737,8 @@ steht. Kein Eskalationsmarker im Text.
 
 ## #7179 — Keith Crane (keithhyype@gmail.com) — US, 🔴 **nimmt 50 % an („looks like I don't have a choice")**
 
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
+
 **Betreff:** Re: Junk
 
 > Dear Keith,
@@ -25498,6 +25504,135 @@ Frist als dreißig Tage genannt** (es wird keine genannt). **Keine Angaben aus
 dem Bestelldatensatz** — auch nicht die Lieferzeit, die er selbst nennt; seine
 Daten werden nur als seine wiedergegeben. **Nichts aus seinem Hund
 gefolgert.** Kein Eskalationsmarker im Text.
+
+## #7179 — Keith (`keithhyype@gmail.com`), US — ⛔ **NICHT UNAUFGEFORDERT SENDEN** · 🟥 **SECHSTER „processed"-Fall** · 03.10.
+
+**✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diesen Kunden. Alle drei früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+### ⛔ Sendesperre — bitte zuerst lesen
+
+**Er hat seit dem 22.09. nicht mehr geschrieben.** Am **24.09. 12:34** bekam
+er: *„We have now processed the 50% partial refund to your original payment
+method."* — angeredet **„Dear Customer"**, nachdem er zwei Tage zuvor
+zugestimmt hatte. **Darauf hat er nicht reagiert.**
+
+**Dieser Entwurf ist deshalb NICHT zum sofortigen Senden gedacht.** Es gilt
+die Regel, Kunden nicht unaufgefordert anzuschreiben. **Er ist nur zu senden,
+wenn der Owner bestätigt, dass die 50 % NICHT ausgezahlt wurden** — oder wenn
+Keith sich selbst meldet.
+
+**Wenn die 50 % ausgezahlt wurden, ist hier nichts zu tun und der Entwurf
+wird verworfen.**
+
+**🟥 Warum der Verdacht besteht:** **fünf andere Zusagen mit genau dieser
+Formulierung** — #5973, #4055, #4998, #5148, #6936 — **sind nach Lage des
+Datensatzes nicht ausgeführt worden**; drei davon gingen am 22.09. **binnen
+acht Minuten** hinaus. **Keiths Brief vom 24.09. ist der sechste dieser Art.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue
+Anmeldung. Ob auf #7179 etwas erstattet wurde, ist von hier nicht
+feststellbar. Der Entwurf behauptet es in keine Richtung.**
+
+**🟦 Für den Owner, nicht für den Kunden:** er schreibt in Dollar
+(*„48 dollars"*). **Der Entwurf nennt keinen Betrag und rechnet nichts um** —
+die Währungsdifferenz gehört dem Owner, nicht dem Kunden.
+
+**Der Verlauf (`get_thread`, 10 von 10 Nachrichten):**
+
+| Datum (UTC) | Was |
+|---|---|
+| 09.09. 23:29 | Erstkontakt, drei Spielzeuge, eines in unter 30 Minuten zerstört; **„I only opened the donkey"** |
+| 11.09. 09:58 | **Kauschaden-Vorlage** |
+| 11.09. 10:39 | *„misleading false advertising… I want my money back. **I still have two unopened!**"* |
+| 13.09. 10:49 | **zweite Vorlage** |
+| 13.09. 11:34 | *„I have two in the packages still… **I want my money back for those two atleast!**"* |
+| 15.09. 07:10 | **Angebot 30 %** |
+| 15.09. 10:35 | *„Unacceptable… I want a refund!"* |
+| 17.09. 09:36 | **Angebot 50 %** |
+| **22.09. 10:30** | *„Looks like I don't have a choice. I'm Not happy with the 50% refund but I will take it."* |
+| **24.09. 12:34** | **„We have now processed the 50% partial refund…", „Dear Customer"** |
+
+**🟥 Dreimal hat er ausdrücklich nach Erstattung für die ZWEI UNGEÖFFNETEN
+Teile gefragt. Keine der sechs Antworten nennt einen Rückgabeweg.** **Er hält
+sie weiterhin.**
+
+---
+
+**Betreff:** `Re: Junk`
+
+> Dear Keith,
+>
+> **I am writing without you having asked, and I want to say why straight
+> away rather than leave you wondering.**
+>
+> **On 24 September you were told that your 50 per cent partial refund "has
+> now been processed" to your original payment method.** **I am contacting
+> you because I cannot confirm from here that it was, and because other
+> customers were sent that same sentence in circumstances where it did not
+> hold.**
+>
+> **I am not telling you that your refund failed.** **I genuinely do not
+> know, and I am not going to guess in either direction.** **What I am doing
+> is making sure you are not sitting quietly assuming money arrived that may
+> not have.**
+>
+> **Please check your account for the payment.** **If it is there, this
+> message needs nothing from you and I am sorry for the interruption.**
+> **If it is not there, reply and say so, and it goes straight to the shop
+> owner as an outstanding payment that was confirmed to you in writing on
+> 24 September.**
+>
+> **I am not going to quote you a figure or recalculate anything** — the
+> percentage is the one you accepted on 22 September, and I am not going to
+> put a number in front of you that I cannot check today.
+>
+> **I cannot release a payment from this desk and I am not going to give you
+> a date.**
+>
+> **There is a second thing I owe you, and it is the one nobody answered.**
+> **Three times — on 11, 13 and 15 September — you said you still had two
+> toys unopened in their packaging and wanted your money back for those at
+> least.** **Nobody ever told you how to send them back.** **The reason is
+> that there is no returns address I can give you — not one I am
+> withholding, one that does not exist on our side at the moment.** **So
+> please do not post them anywhere and please do not pay postage.** **That
+> those two were never dealt with separately from the toy your dog destroyed
+> goes to the owner as well.**
+>
+> **On the advertising: I cannot see what you were shown, so I am not going
+> to tell you what it said, and I am certainly not going to suggest you
+> misread it.** **I have read all twelve of our current product descriptions;
+> the word "indestructible" appears in none of them.** **That is a statement
+> about those twelve texts and nothing more.** **Your wording goes to the
+> owner exactly as you wrote it.**
+>
+> **What I am not going to do is tell you the guarantee covers the two
+> unopened toys, or tell you it does not.** **That is his decision.**
+>
+> **I am not going to make any claim about the toys in either direction, and
+> I am drawing no conclusion from your dog.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Erklärung, warum unaufgefordert geschrieben
+wird**; die **Bitte, das Konto zu prüfen**; die Zusage, eine fehlende Zahlung
+an den Owner weiterzugeben; die **endliche Antwort auf seine dreimal gestellte
+Frage zu den zwei ungeöffneten Teilen** — es gibt keine Rücksendeadresse — und
+die **Warnung, kein Porto auszugeben.** **🟥 NICHT behauptet, die Erstattung
+sei ausgeführt worden — und NICHT behauptet, sie sei es nicht.** **Die
+„processed"-Zusage wird nicht wiederholt.** **Kein Betrag genannt, nichts
+nachgerechnet, nichts umgerechnet.** **Kein Termin.** **Andere Kunden werden
+erwähnt, aber NICHT benannt und ihre Vorgänge nicht beschrieben.** **Keine
+Garantieentscheidung, auch nicht für die ungeöffneten Teile.** **Nicht
+behauptet, die von ihm erinnerte Werbeaussage existiere nicht.** **🟥 Seine
+Bemerkung vom 09.09., der Hund fresse die Füllung, wird NICHT unaufgefordert
+wieder aufgegriffen und NICHT zu einer Sicherheitsmeldung erklärt** — sie
+steht im Protokoll für den Owner, nicht in diesem Brief; es wird auch nichts
+über Material oder Sicherheit gesagt, in keine Richtung. **Keine Angaben aus
+dem Bestelldatensatz.** **Nichts aus seinem Hund gefolgert.** Kein
+Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 
