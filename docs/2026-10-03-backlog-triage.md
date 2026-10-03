@@ -574,3 +574,44 @@ Angaben aus dem Bestelldatensatz; **kein fremder Kundenvorgang erwähnt.**
 - **🟥 Neue Arbeitsregel: `in:sent` ist unvollständig.** Keine Aussage mehr
   darauf stützen, dass etwas „nicht gesendet wurde", nur weil es im
   Postausgang fehlt.
+
+---
+
+## Lauf 07:20 UTC — kein neuer Fall · zwei Aufräumschritte · 🟦 eine Spur für #7292
+
+**Abfrage `in:inbox is:unread newer_than:12h`: vier Threads, aber keine neue
+Kundennachricht.** Der jüngste Eingang bleibt **Nigel Bennett, 02.10.
+20:06 UTC**.
+
+**In der Liste tauchte diesmal `jwurthy@gmail.com` (#8126) auf**, deren
+jüngste Nachricht vom **30.09. 06:10** ist und als **ungelesen** geführt wird.
+**Erster Eindruck war, dass dieser Fall durch die stündlichen Prüfungen
+gefallen ist. Das war falsch, und das gehört hierher:** sie ist am **30.09.
+bearbeitet** worden, der Entwurf steht in `entwuerfe-zum-kopieren.md` und sie
+ist im Abendreport vom 01.10. unter den Menschen mit ungeöffneter Ware
+aufgeführt. **Ich habe nachgesehen, bevor ich „übersehen" protokolliert
+habe** — die Zahl bleibt bei **zwölf**, und es gibt hier keinen neuen Fall.
+
+### Zwei Aufräumschritte
+
+1. **Die ältere #8126-Fassung (Zeile 15860) trug nur den neutralen
+   ACHTUNG-Hinweis** („es gibt einen neueren Entwurf"). **Sie ist jetzt klar
+   als ERSETZT markiert** — bei ihr ist eindeutig, welche Fassung gilt, also
+   braucht es die Unschärfe nicht.
+2. **🟦 Eine Spur für #7292 Tracy Hartley**, gefunden in unserer eigenen
+   Datei: **der #8126-Entwurf vom 30.09. zitiert eine Abschnittsüberschrift
+   aus unserer Shop-Richtlinie — „Australia – Consumer Guarantees".**
+   **Es gibt also offenbar ein Richtliniendokument.** Tracy fragt seit dem
+   15.09., **wo** sie die Rückgaberichtlinie lesen kann.
+   **Der Brief an sie bleibt unverändert: er nennt weiterhin keine URL**,
+   weil von hier nichts aufrufbar und nichts geprüft ist. **Aber im Kopf des
+   Entwurfs steht jetzt der Hinweis, dass der Owner ihre erste Frage
+   vermutlich in einer Minute beantworten kann.**
+
+**Keine Erstattung ausgelöst, nichts versendet. Kein Entwurf neu geschrieben.**
+
+### Stand
+
+- **Entwürfe in der Datei: 462** (unverändert). **Geltende: 355.**
+- **Mehrfachfassungen abgearbeitet: 26. Offen: 70.**
+- **Menschen mit ungeöffneter Ware ohne Rückgabeweg: zwölf** (unverändert).

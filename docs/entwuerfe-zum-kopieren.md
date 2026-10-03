@@ -15859,6 +15859,8 @@ Kein Eskalationsmarker im Text.
 
 ## #8126 — Joanne Wurth (jwurthy@gmail.com) — **AU**, Erstkontakt, Ware heute angekommen  
 
+**⚠️ ERSETZT durch den Entwurf vom 30.09. — nur den neuesten senden.**
+
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this afternoon"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
@@ -25879,6 +25881,14 @@ und kann sie von hier nicht aufrufen. **Der Entwurf sagt genau das: was
 geprüft wurde und was nicht.**
 
 **⚠️ KEINEN Link erfinden.** Es wird keine URL genannt.
+
+**🟦 SPUR für den Owner, am 03.10. in der eigenen Datei gefunden:** der
+#8126-Entwurf vom 30.09. zitiert eine Abschnittsüberschrift aus unserer
+Shop-Richtlinie — **„Australia – Consumer Guarantees"**. **Es gibt also
+offenbar ein Richtliniendokument.** **Von hier ist es nicht aufrufbar und
+nicht geprüft**, deshalb bleibt der Brief an Tracy wie er ist: **er nennt
+keine URL.** **Aber der Owner kann ihre erste Frage damit vermutlich in einer
+Minute beantworten.**
 
 **Betreff:** `Re: Order #7292 confirmed`
 
