@@ -13980,6 +13980,8 @@ Fotobedingung.** **Keine Rücksendeadresse erfunden.** **Keine Umrechnung** —
 Eskalationsmarker im Text.
 
 ## #5310 — Heather Taylor (bhjdc5@gmail.com) — US, geht davon aus, die Erstattung laufe bereits  
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Refund request - order #5310
@@ -16145,6 +16147,8 @@ keine Absage, keine zweite Vorlage.** **Keine Rücksendeadresse erfunden.**
 Eskalationsmarker im Text.
 
 ## #5310 — Heather Taylor (bhjdc5@gmail.com) — US, ⛔ **„Please let me know when this is processed" — beantwortet mit einer Absage**  
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Refund request - order #5310
@@ -18299,6 +18303,8 @@ Entschuldigung von ihm verlangt und keine Begründung nachgefragt.** Kein
 Eskalationsmarker im Text.
 
 ## #5310 — Heather Taylor (bhjdc5@gmail.com) — US, **dritter Kontakt, zitiert „no dog has ever destroyed the toy"**
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning", „this week"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 
@@ -27262,6 +27268,181 @@ nicht nachgeprüft** — der Grund wird genannt. **Keine Angaben aus dem
 Bestelldatensatz.** **Nichts aus seinem Hund gefolgert.** **Kein fremder
 Kundenvorgang erwähnt** — der Gleichlaut mit #5128 steht nur im Kopf dieses
 Entwurfs, für den Owner. Kein Eskalationsmarker im Text.
+
+## #5310 — Heather Taylor (`bhjdc5@gmail.com`), US — **ZUSAMMENGEFÜHRT** · 🟥 **DRITTER Vorlagenbrief, der dritte wörtlich gleich dem zweiten — und DRITTE unabhängige Kundin mit derselben Werbeaussage, die jetzt in unserer EIGENEN Werbemail eine Entsprechung hat** · 03.10.
+
+**✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diese Kundin. Alle drei früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue
+Anmeldung. Die drei früheren Fassungen nennen Bestelldatum, Versanddatum und
+38,47 $. Diese Fassung nennt davon NICHTS** — nicht weil die Zahlen falsch
+wären, sondern weil ich sie heute nicht nachprüfen kann und sie für ihre
+Frage nichts entscheiden.
+
+### 🟥 Der Befund, der diesen Fall über den Einzelfall hinaushebt
+
+**Drei Kundinnen und Kunden haben über sechs Wochen unabhängig voneinander
+dieselbe Werbeaussage zitiert:**
+
+| Datum | Wer | Wortlaut |
+|---|---|---|
+| **13.08.** | **Ellen Rosey, #4071** | *„no dog has ever destroyed your furry animals!"* |
+| **20./23.09.** | **Aaron Kell, #7440** | *„advertised that no dog has ever destroyed one"* |
+| **24.09.** | **Heather Taylor, #5310** | *„Your advertising says no dog has ever destroyed the toy"* |
+
+**Und seit heute früh liegt dazu etwas in der Hand: unsere eigene Werbemail
+vom 27.08. sagt *„Still unbeaten."* und *„Nobody has needed it yet"*.**
+**Das ist nicht derselbe Satz — aber es ist dieselbe Behauptung.**
+
+**Damit ist dies der erste Werbefall, in dem die Erinnerung der Kundschaft
+durch ein Dokument gestützt wird, das wir selbst vollständig haben.**
+**Die Entscheidung darüber gehört dem Owner. Die Feststellung gehört ins
+Protokoll.**
+
+### 🟥 Eigene Korrektur an der Fassung vom 24.09.
+
+**Dort steht: *„You are the second customer this week to quote that same
+sentence back to us."*** **Das war schon damals schief und ist heute falsch:**
+**es sind drei Vorgänge über sechs Wochen, nicht zwei in einer Woche.**
+Ellen Rosey (#4071) hat denselben Satz bereits am **13.08.** zitiert — sechs
+Wochen vor Heather Taylor. **Die neue Fassung nennt deshalb keine Woche,
+sondern die Zahl und den Zeitraum.**
+
+**Der Verlauf (`get_thread`, 6 von 6 Nachrichten, heute vollständig gelesen):**
+
+| Datum (UTC) | Was |
+|---|---|
+| **20.09. 14:10** | Erstkontakt: *„I purchased a 2 pack of these **indestructible** toys for my dogs. They destroyed them in **less than 10 minutes**. Pictures attached. **Please let me know when this is processed.**"* — **drei Fotos, nicht geöffnet** |
+| 22.09. 11:31 | **Kauschaden-Vorlage, „Dear Customer"** |
+| **22.09. 11:38** | **sieben Minuten später:** *„Your false advertising is duly noted. **I'll be sure to make that known.**"* |
+| 24.09. 12:36 | **zweite Vorlage, „Dear Customer"** |
+| **24.09. 16:41** | *„Your advertising says **no dog has ever destroyed the toy**. That's false because **there is no way that mine were the first**."* |
+| **28.09. 11:26** | **🟥 DIE VORLAGE VOM 24.09. ERNEUT — Wort für Wort identisch, Satz für Satz, einschließlich „Dear Customer".** |
+| seitdem | **nichts. Fünf Tage.** |
+
+**🟥 Der dritte Brief ist ein wörtliches Duplikat des zweiten.** Damit ist dies
+der **dritte** belegte Doppelbrief nach **#6583** (03.09. → 21.09.) und
+**#8002** (18.09. → 21.09.). **Der Unterschied: Ken Beville und Thomas
+Robinson haben die Wiederholung selbst erkannt und sich beschwert. Heather
+Taylor hat aufgehört zu schreiben.** **Das ist kein besseres Ergebnis, es
+ist ein schlechteres.**
+
+**🟦 Sie ist KEIN zehnter „processed"-Fall — ausdrücklich.** Ihr Satz *„Please
+let me know when this is processed"* ist **ihre eigene Annahme vom ersten Tag**,
+keine Zusage von uns. **Niemand hat ihr geschrieben, eine Erstattung sei
+ausgeführt.** **Sie gehört damit nicht in die Liste der neun; das wird hier
+festgehalten, damit sie nicht später versehentlich hineingerät.**
+
+**🟦 Ihre Erstattungsforderung ist dreimal abgelehnt worden** — mit der
+Vorlage, nicht mit einer Entscheidung. **Was nie beantwortet wurde, ist die
+Werbeaussage, die sie beim Namen genannt hat.**
+
+**Betreff:** `Re: Refund request - order #5310`
+
+> Dear Heather,
+>
+> **You wrote on 20 September, on 22 September and on 24 September. What came
+> back three times was a standard letter — and the one sent on 28 September
+> was the 24 September letter again, word for word, right down to "Dear
+> Customer". You stopped writing after that, and I do not blame you.**
+>
+> **I am not going to send you a fourth copy of it. I am going to answer the
+> thing you actually raised.**
+>
+> **You named a specific claim: that our advertising says no dog has ever
+> destroyed the toy. Here is what I can check and what I cannot, and I am
+> going to keep those two apart.**
+>
+> **What I can check.** **I have read all twelve of our current product
+> descriptions.** **That sentence is not in any of them, and the word
+> "indestructible" is not in any of them either.** **What I can also tell you
+> — and I would rather say it than have you find it yourself — is that a
+> marketing email of ours dated 27 August makes a claim of that kind in its
+> own words: it says the toy is "Still unbeaten", and it says of the
+> money-back guarantee that "Nobody has needed it yet".** **Those are not the
+> words you quoted. They are the same claim.** **So I am not going to suggest
+> you misremembered or invented anything, and I have put both your sentence
+> and ours in front of the shop owner, side by side.**
+>
+> **What I cannot check: which advertisement you were actually shown.** **I
+> have no way to see it from here, so I am not going to tell you what it said
+> and I am not going to reconstruct it for you.**
+>
+> **What I am not going to do is tell you that your dogs were the first.**
+> **You wrote that there is no way they were, and I am not going to argue with
+> you about it. You are the third customer since 13 August to quote that same
+> claim back to us in writing, and that goes to the owner as part of this.**
+>
+> **On your refund.** **You asked on 20 September to be told when it was
+> processed. Nobody ever told you that it was — and I am not going to tell you
+> so now either.** **I cannot check our payment records today, so I am not
+> going to claim anything about them in either direction: if you have not seen
+> money arrive, then as far as this correspondence goes nothing has been
+> resolved, and I cannot release a payment from this desk.** **I am also not
+> going to refuse you a fourth time.** **Your request goes to the owner today, in your own words, as a
+> request for a refund of the two-pack.** **He is the only one who can decide
+> it.** **I am not going to give you a date, because I cannot stand behind
+> one.**
+>
+> **What I am not going to do is tell you the guarantee covers what happened,
+> or tell you it does not.** **That is his decision and not mine. And I am
+> not going to rule on whether the advertising was false in the legal sense —
+> a support desk ruling on its own employer's advertising would be worth
+> nothing to you in either direction.**
+>
+> **One practical thing, so it does not cost you money.** **There is no
+> returns address I can give you at the moment** — not one I am withholding,
+> one that does not exist on our side. **So please do not post anything back
+> from the US expecting to be reimbursed, and please keep what is left of
+> both toys where it is.**
+>
+> **On making this known publicly: that is entirely your decision.** **I am
+> not going to ask you to hold off, I am not going to ask you to take
+> anything down, and nothing about how your request is handled depends on
+> what you do or do not post.**
+>
+> **Your photographs are on file. I have not opened them and I am not asking
+> you for anything further** — nothing here depends on you proving anything.
+> **Please keep them rather than deleting them.**
+>
+> **I am not going to quote you anything from our order system today** — it
+> is not readable from this desk, that is our problem and not yours, and a
+> figure I cannot check would be worse than none.
+>
+> **I am not going to make any claim about the toys in either direction, and
+> I am drawing no conclusion from your dogs.**
+>
+> **Three form letters, the third one a copy of the second, in answer to a
+> plain question about your own money, is not something I can dress up.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Benennung der drei Vorlagenbriefe und des
+wörtlichen Duplikats vom 28.09.**; die **getrennte Darstellung von Prüfbarem
+und Nichtprüfbarem** zur Werbeaussage, **einschließlich der aktiven Nennung
+unserer eigenen Werbemail vom 27.08.**; die **Weitergabe ihrer
+Erstattungsforderung im Wortlaut**; die **Auskunft, dass nach allem, was von
+hier zu sehen ist, keine Zahlung an sie erfolgt ist**; die **Warnung, kein
+Porto aus den USA auszugeben.** **Keine Erstattung zugesagt, kein Termin,
+keine Absage.** **🟥 KEINE vierte Vorlage.** **🟥 NICHT behauptet, der von ihr
+zitierte Satz existiere nicht** — und ausdrücklich gesagt, wo eine
+gleichbedeutende Aussage von uns selbst steht. **🟥 KEINE Rekonstruktion der
+Anzeige, die sie gesehen hat** — ausdrücklich offengelassen. **🟥 NICHT
+behauptet, ihre Hunde seien die ersten gewesen** — ihr eigenes Argument wird
+weder bestritten noch bestätigt. **Keine Garantieentscheidung, in keine
+Richtung.** **🟥 KEINE rechtliche Bewertung zu „false advertising".**
+**🟥 Zu ihrer Ankündigung, es öffentlich zu machen, wird NICHT um
+Zurückhaltung gebeten**, nichts daran geknüpft, keine Plattform benannt.
+**🟥 NICHT behauptet, eine Erstattung sei ausgeführt** — und ihre eigene
+Annahme vom 20.09. wird nicht zu einer Zusage von uns umgedeutet. **Fotos
+nicht geöffnet, kein Nachweis verlangt.** **Keine Angaben aus dem
+Bestelldatensatz, kein Betrag, kein Bestell- oder Versanddatum.** **Keine
+anderen Kundenvorgänge beschrieben** — nur die Zahl und der Zeitraum genannt.
+**Nichts aus ihren Hunden gefolgert.** **Nur absolute Datumsangaben, keine
+relativen** — dieser Entwurf braucht keine Datumswarnung. Kein
+Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 

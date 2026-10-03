@@ -1322,3 +1322,85 @@ Formulierungen ab und ist damit eine Untergrenze** — das gehört dazugesagt.
   und **die beiden #7316-Fassungen (Kontaktstopp).**
 - **Mehrfachfassungen abgearbeitet: 34. Offen: 62** — **#7316 bleibt als
   „nicht zu bearbeiten" darin stehen, nicht als erledigt.**
+
+---
+
+## Lauf 19:20 UTC — nichts Neues; #5310 Heather Taylor abgearbeitet · 🟥 DRITTER Doppelbrief · 🟥 DRITTE unabhängige Kundin mit derselben Werbeaussage — und wir haben jetzt eine eigene Entsprechung dazu
+
+**Posteingang: `in:inbox is:unread newer_than:6h` → nur Betsey Barton, 14:26,
+seit dem 15:20-Lauf bearbeitet. Nichts Neues.**
+
+### 🟥 #5310 — Heather Taylor (`bhjdc5@gmail.com`), US — **Bot/Escalated – Owner Attention**
+
+**Drei Fassungen zusammengeführt** (24.09., 25.09. und eine frühere), alle drei
+als ersetzt markiert. **Thread vollständig gelesen: 6 von 6 Nachrichten.**
+
+| Datum (UTC) | Was |
+|---|---|
+| **20.09. 14:10** | *„I purchased a 2 pack of these **indestructible** toys… destroyed them in **less than 10 minutes**… **Please let me know when this is processed**."* — drei Fotos, **nicht geöffnet** |
+| 22.09. 11:31 | Kauschaden-Vorlage, „Dear Customer" |
+| **22.09. 11:38** | **sieben Minuten später:** *„Your false advertising is duly noted. I'll be sure to make that known."* |
+| 24.09. 12:36 | zweite Vorlage, „Dear Customer" |
+| **24.09. 16:41** | *„Your advertising says **no dog has ever destroyed the toy**. That's false because there is no way that mine were the first."* |
+| **28.09. 11:26** | **🟥 die Vorlage vom 24.09. ERNEUT — Wort für Wort identisch** |
+| seitdem | **nichts. Fünf Tage.** |
+
+**🟥 Dritter belegter Doppelbrief** nach #6583 (03.09. → 21.09.) und #8002
+(18.09. → 21.09.). **Der Unterschied ist unangenehm: Beville und Robinson
+haben die Wiederholung selbst bemerkt und sich beschwert. Heather Taylor hat
+aufgehört zu schreiben.** **Das ist kein besseres Ergebnis.**
+
+**🟦 Sie ist KEIN zehnter „processed"-Fall.** Ihr *„let me know when this is
+processed"* ist **ihre eigene Annahme vom ersten Tag**, keine Zusage von uns.
+**Festgehalten, damit sie nicht später versehentlich in die Liste der neun
+gerät.**
+
+### 🟥 Der Befund, der über den Fall hinausgeht: dieselbe Werbeaussage, dreimal unabhängig — und jetzt mit einer eigenen Entsprechung
+
+| Datum | Wer | Wortlaut |
+|---|---|---|
+| **13.08.** | **Ellen Rosey, #4071** | *„no dog has ever destroyed your furry animals!"* |
+| **20./23.09.** | **Aaron Kell, #7440** | *„advertised that no dog has ever destroyed one"* |
+| **24.09.** | **Heather Taylor, #5310** | *„Your advertising says no dog has ever destroyed the toy"* |
+
+**Dazu unsere eigene Werbemail vom 27.08., die seit heute 10:20 im Volltext
+vorliegt: *„Still unbeaten."* und *„Nobody has needed it yet"*.**
+
+**Das ist nicht derselbe Satz — aber dieselbe Behauptung.** **Damit ist dies
+der erste Werbefall, in dem die Erinnerung der Kundschaft durch ein Dokument
+gestützt wird, das wir selbst vollständig haben.** **Der Entwurf sagt ihr das
+offen** — und sagt zugleich, **dass ich nicht weiß und nicht rekonstruiere,
+welche Anzeige sie tatsächlich gesehen hat.**
+
+**Damit stehen drei Formulierungsfamilien im Raum, die nicht aus den zwölf
+Produkttexten stammen:** *„no dog has ever destroyed…"* (3 Kunden),
+*„extremely durable and long lasting"* (2 Kunden), *„Ersatz bei Zerstörung"*
+(5 Kunden). **Die Frage an den Owner bleibt dieselbe und wird dringender:
+wo ist das veröffentlicht?**
+
+### 🟥 Zwei eigene Korrekturen, beide heute
+
+1. **Die Fassung vom 24.09. sagt: *„You are the second customer this week to
+   quote that same sentence back to us."*** **Das ist falsch:** es sind
+   **drei Vorgänge über sechs Wochen**, nicht zwei in einer Woche — Ellen
+   Rosey hat denselben Satz schon am **13.08.** zitiert. **Die neue Fassung
+   nennt Zahl und Zeitraum statt einer Woche.**
+2. **🟥 Die Entwurfszahlen im heutigen Abendreport sind beide etwas zu
+   niedrig.** Dort steht „471 Entwürfe, davon 363 geltend". **Tatsächlich
+   gezählt (`^## `-Überschriften und Blöcke mit ERSETZT-Marker): 474
+   Überschriften, 112 ersetzt, 362 geltend** — vor diesem Lauf waren es 473 /
+   109 / 364. **Die 471 war aus einer früheren Zählung übernommen und nicht
+   neu geprüft.** **Der Report ist im Chat schon heraus; die Zahl wird hier
+   richtiggestellt und dort nicht nachträglich überschrieben.** **Am Befund
+   ändert das nichts — an der Sorgfalt schon.**
+
+### Stand
+
+- **Entwürfe in der Datei: 474. Ersetzt: 112. Geltende: 362.**
+- **Mehrfachfassungen abgearbeitet: 35 von 96. Noch offen: 61.**
+- **Sendesperren: fünf** — #6936, #7179, #6528 (Geldzusage) und die beiden
+  #7316-Fassungen (Kontaktstopp).
+- **Shopify: dritter Tag Neuanmeldung nötig. `switch-shop` NICHT aufgerufen.**
+  **Dieser Entwurf nennt deshalb weder Betrag noch Bestell- oder
+  Versanddatum** — die drei alten Fassungen taten es.
+- **Kein Entwurf gesendet, keine Erstattung ausgelöst, nichts verändert.**
