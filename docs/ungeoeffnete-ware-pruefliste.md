@@ -31,7 +31,7 @@ Liste.
   unopened toy"*, oder eine Stelle, an der ausdrücklich **offen** bleibt, ob
   ein zweiter Artikel ungeöffnet ist (#5128). **Die 52 sind Kandidaten, keine
   Befunde.**
-- **✅ markiert sind die zehn Fälle, in denen ich den Thread selbst
+- **✅ markiert sind die Fälle, in denen ich den Thread selbst
   vollständig gelesen habe und die Kundin oder der Kunde ausdrücklich
   schreibt, ungeöffnete oder unbenutzte Ware zu halten.** Nur diese zehn sind
   belegt.
@@ -39,7 +39,7 @@ Liste.
   keine Rücksendeadresse.** Das ist der Grund, warum die Zahl überhaupt
   zählt.
 
-## Die zehn belegten Fälle
+## Die belegten Fälle (Stand 03.10. 10:20: elf)
 
 | Fall | Was der Kunde schreibt |
 |---|---|
@@ -53,6 +53,7 @@ Liste.
 | **#8312** Paul Beaver | *„**I have one item unused in its original packaging.** Please confirm how I return this"* — viermal gefragt |
 | **#8126** Joanne Wurth | *„the pig toy… **It is still unopened in its original packaging**"* — wollte das Porto prüfen |
 | **#7660** Brec Seaton | *„one is **still in the original wrapping** and has never been given to our puppy, or even opened"* |
+| **#7555** Steve Kerr | *„**The other two plushy toys have been taken away from the other dogs**… I have the destroyed one in a bag for return **and will include the other two as well**"* — nachgetragen am 03.10. 10:20 |
 
 ## Alle 52 Kandidaten
 
@@ -89,7 +90,7 @@ dass es nicht zutrifft.
 | **#7479** | `richard@brownwolf.net` | ungeprüft |
 | **#7541** | `drlhertz@gmail.com` | ungeprüft |
 | **#7547** | `lukepriora20@hotmail.com` | ungeprüft |
-| **#7555** | `stevejkerr23@gmail.com` | ungeprüft |
+| **#7555** | `stevejkerr23@gmail.com` | ✅ **gelesen** |
 | **#7625** | `ebrowningrn2@yahoo.com` | ungeprüft |
 | **#7660** | `brecseaton@gmail.com` | ✅ **gelesen** |
 | **#7663** | `muzz.mclean@gmail.com` | ungeprüft |
@@ -115,7 +116,7 @@ dass es nicht zutrifft.
 | — | `jurienink@gmail.com` | ungeprüft |
 | — | `—` | ungeprüft |
 
-**52 Kandidaten, davon 10 belegt.**
+**52 Kandidaten, davon 11 belegt** (#7555 am 03.10. 10:20 nachgetragen; er war in der Stichwortsuche enthalten).
 
 ## Was zu tun ist
 

@@ -751,3 +751,86 @@ Liste eher dringlicher — **aber sie muss auf etwas Nachprüfbarem stehen.**
 - **Prüflisten für den Owner jetzt zwei:**
   `processed-zusagen-pruefliste.md` (9 belegt, 35 ungeprüft) und
   `ungeoeffnete-ware-pruefliste.md` (10 belegt, 42 ungeprüft).
+
+---
+
+## Lauf 10:20 UTC — Posteingang leer; #7555 abgearbeitet · 🟥 UNSERE EIGENE WERBEMAIL IM VOLLTEXT
+
+*(Erst die Datei geschrieben und geprüft — Entwurf in Zeile 26371 —, dann
+dieser Eintrag.)*
+
+**Keine neue Kundennachricht.** Bearbeitet: **#7555 Steve Kerr
+(`stevejkerr23@gmail.com`, CC `kerrsk4@gmail.com`), GB**, zwei Fassungen,
+**Thread vollständig gelesen (4 von 4).**
+
+### 🟥 Der Fund: wie die Garantie in der WERBUNG dasteht
+
+**In seiner Weiterleitung steckt unsere eigene Warenkorb-Werbemail vom
+27.08., abgesendet von `paw-friends.uk@paw-friends.uk` über Klaviyo,
+vollständig. Wörtlich:**
+
+> *„Backed by our 30-day money-back guarantee. **Still unbeaten.**"*
+>
+> *„**30-day money-back guarantee** — **Zero risk on your side. Nobody has
+> needed it yet** — think your dog changes that?"*
+>
+> *„…this is the one worth one more try — and **you're covered either way**."*
+
+**Das ist nicht die Erinnerung eines Kunden an eine Anzeige. Das ist unser
+eigener Text, und er nennt die Garantie ohne jede Bedingung.**
+
+**🟥 Damit ist die Frage von #7292 Tracy Hartley teilweise beantwortet** — sie
+fragt seit dem 15.09., **wo** stand, dass die Garantie nur für unbenutzte Ware
+gilt. **In dieser Werbemail steht das Gegenteil.** **Der Hinweis gehört dem
+Owner; ihr Brief wird deshalb nicht geändert** — er sagt weiterhin nur, was
+geprüft ist, und nennt keine URL.
+
+**🟦 Außerdem: die Werbemail trägt eine Postanschrift im Fuß** —
+**„Paw-Friends.uk • Kirchstr. 2, 56753 Mertloch, Germany".**
+**⚠️ Diese Adresse wird KEINEM Kunden als Rücksendeadresse genannt.** Ob
+dorthin zurückgesendet werden darf, ist von hier nicht feststellbar, und eine
+Adresse aus einem Werbefuß zu improvisieren wäre genau der Fehler, vor dem
+sämtliche Entwürfe warnen. **Aber der Owner kann die Frage „gibt es eine
+Rücksendeadresse?" jetzt konkret beantworten — mit Ja oder Nein zu dieser
+Anschrift.**
+
+### Der Fall selbst — **Bot/Escalated – Owner Attention**
+
+| Datum (UTC) | Was |
+|---|---|
+| **14.09. 21:44** | **an das ZWEITE Postfach**: drei Plüschtiere an drei Hunde, die kleine Staffie zerstörte ihres in zwei Minuten, **die anderen zwei wurden weggenommen**; *„You say there is a 30day money back guarantee, **can I request that please?** … **Please let me know how the process works?**"* |
+| **17.09. 19:20** | **er leitet seine eigene Mail hierher weiter** — sonst wäre sie nie angekommen |
+| 19.09. 10:57 | **Kauschaden-Vorlage** |
+| **19.09. 14:39** | *„…confirmation of what your other customers are saying about Paw Friends policy. I'll be sure to share my experience… when I see your social media posts."* |
+| 22.09. 11:09 | **zweite Kauschaden-Vorlage** |
+| seitdem | **nichts. Elf Tage.** |
+
+**Im Entwurf ausdrücklich:** die Antwort auf seine Verfahrensfrage — **es gibt
+keines, weil es keine Adresse gibt**; die Warnung, kein Porto auszugeben,
+plus Angebot, bereits gezahltes weiterzugeben; die **Bestätigung, dass die
+zitierte Werbemail unsere ist, im Wortlaut**; die **offene Nennung des
+zweiten Postfachs als unser Problem.**
+
+**Im Entwurf ausdrücklich NICHT:** keine Garantieentscheidung; **die Adresse
+aus dem Werbefuß wird ihm nicht genannt, mit offener Begründung**; **zu seiner
+Ankündigung, öffentlich zu berichten, wird nicht um Zurückhaltung gebeten**;
+keine Angaben aus dem Bestelldatensatz; **seine eigenen Worte über seinen
+Hund werden ausdrücklich nicht gegen ihn verwendet**; die CC-Adresse wird
+nicht kommentiert.
+
+**🟦 Nachtrag zur Prüfliste:** **#7555 ist als elfter belegter Fall mit
+unbenutzter Ware eingetragen** (`ungeoeffnete-ware-pruefliste.md`) — zwei von
+drei Spielzeugen sind unbenutzt aus dem Verkehr gezogen. **Er war in den 52
+Kandidaten schon enthalten; die Kandidatenzahl bleibt 52.**
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 464.** **Geltende: 357.**
+- **Mehrfachfassungen abgearbeitet: 28. Offen: 68.**
+- **Ungeöffnete/unbenutzte Ware: 52 Kandidaten, 11 belegt.**
+- **🔴 Neu und konkret für den Owner:** **1.** Darf an *Kirchstr. 2, 56753
+  Mertloch* zurückgesendet werden? **2.** Die Werbemail vom 27.08. nennt die
+  Garantie ohne Bedingung — **das ist der Text, an dem die Kunden uns
+  messen.**

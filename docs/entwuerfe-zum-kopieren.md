@@ -9450,6 +9450,8 @@ darüber, was mit den drei Tieren passiert ist** — gefragt, nicht unterstellt.
 Keine Aussage zur Werbung, keine zur Haltbarkeit. Kein Eskalationsmarker im Text.
 
 ## #7555 — Steve Kerr (stevejkerr23@gmail.com) — ⛔⛔ zwei unbenutzte Stücke, und seine Bitte kam auf einem Kanal an, den dieses Postfach nicht sieht  
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Fwd: Re. Order placed on 24 August 2026
@@ -12916,6 +12918,8 @@ Umrechnung** — 59,86 $ ist der Betrag in ihrer Währung auf der Bestellung.
 Eskalationsmarker im Text.
 
 ## #7555 — Steve Kerr (stevejkerr23@gmail.com) — zweite Fassung, vierte Position nie geliefert
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 
 **Betreff:** Re: Re. Order placed on 24 August 2026
 
@@ -26324,6 +26328,134 @@ noch bestritten.** **Keine Angaben aus dem Bestelldatensatz, kein Betrag
 genannt, nichts umgerechnet.** **Nichts aus seinem Hund gefolgert, mit
 ausdrücklicher Begründung.** **Kein fremder Kundenvorgang erwähnt.** Kein
 Eskalationsmarker im Text.
+
+## #7555 — Steve Kerr (`stevejkerr23@gmail.com`, CC `kerrsk4@gmail.com`), GB — **ZUSAMMENGEFÜHRT** · 🟥 **er zitiert unsere EIGENE Werbemail vom 27.08. im Volltext: „Zero risk on your side… Nobody has needed it yet… you're covered either way"** · 03.10.
+
+**✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diesen Kunden. Beide früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue Anmeldung.**
+
+### 🟥 Der wichtigste Fund dieses Threads — für den Owner, nicht für den Kunden
+
+**In seiner Weiterleitung steht unsere eigene Werbemail vom 27.08.
+vollständig drin, abgesendet von `paw-friends.uk@paw-friends.uk`
+(Klaviyo-Warenkorbmail). Wörtlich:**
+
+> *„Backed by our 30-day money-back guarantee. **Still unbeaten.**"*
+>
+> *„**30-day money-back guarantee** — **Zero risk on your side. Nobody has
+> needed it yet** — think your dog changes that?"*
+>
+> *„If you've stopped buying toys because nothing survives the week, this is
+> the one worth one more try — and **you're covered either way**."*
+
+**Damit liegt erstmals schriftlich vor, wie die Garantie in der WERBUNG
+dargestellt wird: ohne jede Bedingung, als „zero risk" und „covered either
+way".** **Das ist genau die Lücke, nach der #7292 Tracy Hartley dreimal
+gefragt hat.** **Es ist keine Kundenerinnerung — es ist unser eigener Text.**
+
+**🟦 Außerdem trägt diese Werbemail eine Postanschrift im Fuß:**
+**„Paw-Friends.uk • Kirchstr. 2, 56753 Mertloch, Germany".**
+**⚠️ Diese Adresse wird dem Kunden NICHT als Rücksendeadresse genannt.** Ob
+dorthin zurückgesendet werden darf, ist von hier nicht feststellbar, und eine
+Adresse aus einem Werbefuß zu improvisieren wäre genau der Fehler, vor dem
+alle anderen Entwürfe warnen. **Der Owner muss sagen, ob Rücksendungen dorthin
+gehen können.**
+
+### Der Verlauf (`get_thread`, 4 von 4 Nachrichten)
+
+| Datum (UTC) | Was |
+|---|---|
+| **14.09. 21:44** | **an das ZWEITE Postfach** `paw-friends.uk@paw-friends.uk`: geliefert am 14.09.; drei Plüschtiere an drei Hunde; die kleine Staffie zerstörte ihres in zwei Minuten; **die anderen zwei wurden den Hunden weggenommen**; *„You say there is a 30day money back guarantee, **can I request that please?** I have the destroyed one in a bag for return **and will include the other two as well.** **Please let me know how the process works?**"* |
+| **17.09. 19:20** | **er leitet seine eigene Mail an dieses Postfach weiter** — anders wäre sie hier nie angekommen |
+| 19.09. 10:57 | **Kauschaden-Vorlage** |
+| **19.09. 14:39** | *„Thanks for the reply and confirmation of what your other customers are saying about Paw Friends policy. I'll be sure to share my experience… when I see your social media posts."* |
+| 22.09. 11:09 | **zweite Kauschaden-Vorlage** |
+| seitdem | **nichts. Elf Tage.** |
+
+**🟥 Er hat die Garantie ausdrücklich in Anspruch genommen und nach dem
+Verfahren gefragt. Beide Antworten waren Vorlagen; keine nannte ein
+Verfahren.** **Zwei der drei Spielzeuge sind unbenutzt aus dem Verkehr
+gezogen.**
+
+**🟦 Blinder Fleck bestätigt:** seine Nachricht lag drei Tage im zweiten
+Postfach und ist nur hier, weil **er selbst** sie weitergeleitet hat.
+
+**Betreff:** `Re: Re. Order placed on 24 August 2026`
+
+> Dear Steve,
+>
+> **You asked one question on 14 September — how does the process work — and
+> you asked it after invoking the thirty-day guarantee in so many words. You
+> got two standard paragraphs and no process. I am going to answer it.**
+>
+> **The honest answer is that there is no returns process I can give you,
+> because there is no returns address on our side at the moment.** **Not one
+> I am withholding — one that does not exist for me to give.** **So please
+> keep the bag where it is: do not post the destroyed toy or the other two,
+> and please do not pay postage.** **If you have already paid any, tell me
+> and that goes over too.**
+>
+> **I am not going to improvise an address for you out of a footer on one of
+> our own marketing emails either.** **I am not able to confirm that returns
+> can be sent there, and sending you somewhere unconfirmed would cost you the
+> postage and the toys.** **The shop owner can confirm where, if anywhere,
+> returns go — and that question goes to him today along with yours.**
+>
+> **Your request to use the thirty-day money-back guarantee goes to him in
+> your own words, as a request.** **I cannot approve it from this desk and I
+> am not going to refuse you.** **I am not going to give you a date.**
+>
+> **What I am not going to do is tell you the guarantee covers your case, or
+> tell you it does not.** **That is his decision and not mine, and after two
+> form letters you are owed a real answer from someone who can give one.**
+>
+> **On the wording, I can be exact with you, because you quoted it yourself
+> and I have read it.** **The email you forwarded is ours. It says "Backed by
+> our 30-day money-back guarantee", "Zero risk on your side", "Nobody has
+> needed it yet" and "you're covered either way".** **I am not going to
+> pretend you have misread or misquoted anything — those are our sentences,
+> and I have put them in front of the owner exactly as they stand next to
+> what you were told on 19 September.**
+>
+> **One more thing you should know, because it affected you directly.** **You
+> first wrote on 14 September to a different address of ours.** **That
+> message did not reach this desk; it is only here because you forwarded it
+> yourself on 17 September.** **That is our problem and not yours, and it is
+> going to the owner as well.**
+>
+> **You also said you would share your experience when you see our posts.**
+> **That is entirely your decision. I am not going to ask you not to, and
+> nothing here is conditional on it.**
+>
+> **I am not going to quote you anything from our order system today** — it
+> is not readable from this desk, and a figure I cannot check would be worse
+> than none.
+>
+> **I am not going to make any claim about the toys in either direction, and
+> I am drawing no conclusion from your dogs** — you told me yourself that she
+> is determined rather than large, and that is not something I am going to
+> turn around and use against you.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Beantwortung seiner Frage nach dem Verfahren** — es
+gibt keines, weil es keine Adresse gibt; die **Warnung, kein Porto
+auszugeben**, und das Angebot, bereits gezahltes Porto weiterzugeben; die
+**Weitergabe seiner Garantie-Inanspruchnahme als Forderung**; die
+**ausdrückliche Bestätigung, dass die von ihm zitierte Werbemail unsere ist,
+mit Wortlaut**; die **offene Nennung des zweiten Postfachs als unser
+Problem.** **Keine Erstattung zugesagt, kein Termin, keine Absage.** **Keine
+Garantieentscheidung, in keine Richtung.** **🟥 Die Anschrift aus dem
+Werbefuß wird ihm NICHT als Rücksendeadresse genannt — und es wird offen
+gesagt, warum nicht.** **🟥 Zu seiner Ankündigung, seine Erfahrung öffentlich
+zu teilen, wird NICHT um Zurückhaltung gebeten**, nichts daran geknüpft, keine
+Plattform benannt. **Keine Kauschaden-Vorlage.** **Keine Angaben aus dem
+Bestelldatensatz.** **🟥 Seine eigenen Worte über seinen Hund werden
+ausdrücklich NICHT gegen ihn verwendet.** **Die CC-Adresse `kerrsk4@gmail.com`
+wird nicht kommentiert und nicht zugeordnet.** Kein Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 
