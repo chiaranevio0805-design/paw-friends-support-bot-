@@ -27948,6 +27948,92 @@ nachgerechnet.** **Ihre Anschrift und Telefonnummer werden nicht verwendet.**
 **Nichts aus ihrem Hund gefolgert.** **Nur absolute Datumsangaben.** Kein
 Eskalationsmarker im Text.
 
+## #8712 — `sheliamontz25@gmail.com` — **Erstkontakt, 03.10. 21:50 UTC** · **bewusst OHNE Anrede mit Namen** · Nichtlieferung · 03.10.
+
+**🟦 Einordnung: Bot/Needs Approval.** **Kein Eskalationsgrund** — keine
+Rechtsberufung, keine Bewertungsankündigung, kein Werbevorwurf, kein
+Wiederholungskontakt, keine Sicherheitsfrage. **Eine einfache Frage, die eine
+einfache Antwort verdient.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue
+Anmeldung.** **Es wurde NICHT gesucht, und der Entwurf behauptet NICHT, die
+Bestellung sei nicht auffindbar.** **Kein Status, kein Trackinghinweis, kein
+Liefertermin.**
+
+**🟦 Keine Anrede mit Namen.** Die Absenderadresse legt einen Namen nahe,
+**aber es gibt keinen lesbaren Bestelldatensatz, an dem er zu prüfen wäre.**
+**Einen Namen aus einer E-Mail-Adresse zu erraten, ist genau der Fehler, der
+bei #6528 („Thomas" statt „Tommy") aufgefallen ist.** Verfahren wie bei
+**#8359**.
+
+**Ihre Nachricht vollständig (`get_thread`, 1 von 1):**
+
+> *„We have not received our order yet can you help me with that
+> Order no 8712"*
+
+**🟦 Vorgeschichte geprüft** (`from:`/`to:`-Suche auf ihre Adresse und auf
+„8712"): **kein früherer Thread.** **Erstkontakt.**
+
+**🟦 Sie ist der sechste offene Nichtlieferungsfall** — nach #5036 (nie
+angekommen, Storno nie ausgeführt), #2025 (nie geliefert, Tracking
+funktioniert nicht), Nicholas Kloepfer (Paket nie angekommen), Betsey Barton
+(„waiting") und #6384 (kam erst nach drei Wochen). **Das ist eine eigene
+Gruppe, nicht Einzelfälle.**
+
+**Betreff:** `Re: Order no 8712`
+
+> Hello,
+>
+> **Thank you for writing, and I am sorry your order has not arrived.**
+>
+> **I am going to be straight with you about what I can and cannot do from
+> here, because a vague answer would waste your time.**
+>
+> **What I cannot do: tell you where the parcel is.** **Our order system is
+> not readable from this desk at the moment — that is our problem and not
+> yours.** **So I am not going to quote you a status, I am not going to give
+> you a delivery date, and I am not going to tell you the parcel is on its way
+> when I cannot see that it is.** **I am also not going to send you off to
+> chase a courier.**
+>
+> **What I am doing: your order number and your message go to the shop owner
+> today, with the date you wrote, as an order that has not arrived.** **He can
+> see the record and I cannot.** **I am not going to promise you a date for
+> his reply either, because I cannot stand behind one.**
+>
+> **And one thing you should not have to ask for.** **If you would rather
+> have the order cancelled, or your money back, instead of waiting — say so
+> and that goes over as exactly that, in your own words.** **I am not
+> assuming it: you asked for help finding your order, and that is what I have
+> passed on.** **I cannot cancel an order or release a payment from this desk,
+> so I am not going to tell you either is done when it is not.**
+>
+> **If you want to know where your order ships from, just ask and I will tell
+> you what I know.** **I am not going to volunteer a lecture you did not ask
+> for.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Weitergabe ihrer Bestellnummer und Nachricht als
+Nichtlieferung, mit Datum**; das **Angebot**, eine Stornierung oder
+Erstattungsforderung weiterzugeben, falls sie eine stellt; die **Zusage einer
+geraden Antwort zur Herkunft auf Nachfrage.** **Kein Liefertermin, kein
+Status, keine Trackingnummer, kein Verweis an den Zusteller.** **🟥 NICHT
+gesagt, das Paket sei unterwegs** — und nicht das Gegenteil. **🟥 NICHT
+behauptet, die Bestellung sei nicht auffindbar** — es wurde nicht gesucht, und
+der Grund steht im Brief. **Keine Erstattung zugesagt, keine Stornierung
+behauptet, keine Absage.** **🟥 Ihre Nachricht wird NICHT als
+Erstattungs- oder Stornoforderung ausgelegt.** **Keine Angaben aus dem
+Bestelldatensatz.** **🟦 Keine Anrede mit Namen — Name nicht geraten.**
+**Keine Aussage zum Produkt, keine Garantie-, Rückgabe- oder Fristangabe** —
+sie hat nicht danach gefragt, und die Fristen widersprechen sich (siehe
+`docs/produktseiten-live-befund.md`); **ihr wird keine davon genannt.**
+**Keine Zusage zur Antwortzeit** — die veröffentlichte 24–48-Stunden-Zusage
+wird NICHT wiederholt. **Nur absolute Datumsangaben.** Kein
+Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

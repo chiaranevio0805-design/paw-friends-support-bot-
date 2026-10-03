@@ -1727,3 +1727,75 @@ stehen, nicht gelöscht.**
   nicht mehr — sie braucht sie nicht).
 - **Sendesperren insgesamt: 92.**
 - **Nichts gesendet, keine Erstattung ausgelöst, nichts verändert.**
+
+---
+
+## Lauf 23:20 UTC — 🟦 EIN NEUER FALL: #8712, Nichtlieferung · sechster offener Lieferfall
+
+**Posteingang: `in:inbox is:unread newer_than:10h` → zwei Treffer, einer neu.**
+
+### 🟦 #8712 — `sheliamontz25@gmail.com`, 03.10. 21:50 UTC — **Bot/Needs Approval**
+
+**Ihre Nachricht vollständig — zwei Zeilen, kein Betreff:**
+
+> *„We have not received our order yet can you help me with that
+> Order no 8712"*
+
+**Vorgeschichte geprüft, wie die Regel es verlangt** (`from:`/`to:` auf ihre
+Adresse, dazu Volltextsuche nach „8712"): **kein früherer Thread.
+Erstkontakt.**
+
+**Kein Eskalationsgrund** — keine Rechtsberufung, keine Bewertungsankündigung,
+kein Werbevorwurf, kein Wiederholungskontakt, keine Sicherheitsfrage.
+**Eine einfache Frage.**
+
+### Was der Entwurf tut — und was er bewusst nicht tut
+
+**Er sagt ihr geradeheraus, was von hier nicht geht:** kein Status, kein
+Liefertermin, keine Trackingangabe, kein Verweis an den Zusteller — **und
+ausdrücklich NICHT, das Paket sei unterwegs.** **Das ist genau der Satz, der
+am 31.08. an #6384 („your order is on the way") und am 08.09. an #5036 („the
+parcel was delivered") geschrieben wurde und beide Fälle verschlimmert hat.**
+
+**Er behauptet auch NICHT, die Bestellung sei nicht auffindbar** — es wurde
+nicht gesucht, weil Shopify den dritten Tag eine Neuanmeldung verlangt, und
+der Grund steht im Brief.
+
+**🟦 Keine Anrede mit Namen.** Die Absenderadresse legt einen Namen nahe,
+**aber es gibt keinen lesbaren Datensatz, an dem er zu prüfen wäre** — und
+einen Namen aus einer Adresse zu raten, ist der Fehler, der bei #6528
+(„Thomas" statt „Tommy") auffiel. Verfahren wie bei **#8359**.
+
+**🟦 Er legt ihre Nachricht NICHT als Storno- oder Erstattungsforderung aus**,
+bietet aber an, beides sofort weiterzugeben, wenn sie es will. **Sie hat um
+Hilfe beim Finden ihrer Bestellung gebeten, nichts weiter.**
+
+**🟦 Er nennt ihr KEINE Frist und KEINE Garantie.** Sie hat nicht danach
+gefragt — und nach dem Befund von 21:20 widersprechen sich 14 und 30 Tage.
+**Eine Frist, die ich ihr nennen würde, wäre geraten.**
+
+**🟦 Er wiederholt die veröffentlichte Zusage „replies within 24–48 hours"
+nicht.** Dieses Postfach kann sie nicht halten.
+
+### 🟥 Der Zusammenhang, der dem Owner gehört
+
+**Sie ist der SECHSTE offene Fall, in dem Ware nicht angekommen ist:**
+
+| Fall | Stand |
+|---|---|
+| **#5036** Lynette Lumley | nie angekommen; Storno vom 07.09. nie ausgeführt; am 08.09. „parcel was delivered" gegen ihre Aussage |
+| **#2025** Craig Syson | nie geliefert, Trackingnummer funktioniert nicht |
+| **Nicholas Kloepfer** | Paket nie angekommen, dritter Kontakt seit 15.08. |
+| **Betsey Barton** | eigene Sendungsverfolgung sagt „waiting"; am 01.10. mit „already been shipped" abgewiesen |
+| **#6384** Simon Foord | kam erst nach etwa drei Wochen, nach „your order is on the way" |
+| **#8712** (neu) | seit heute 21:50 offen |
+
+**Das ist eine eigene Fallgruppe, keine Einzelfälle** — und in drei davon
+wurde eine Lieferaussage gemacht, die der Datensatz oder die Kundschaft nicht
+gedeckt hat. **Deshalb macht dieser Entwurf keine.**
+
+### Stand
+
+- **Entwürfe: 477. Ersetzt: 116. Geltende: 361.** Davon **87** mit
+  Werbebefund-Sperre, **5** mit sonstiger Sendesperre.
+- **Nichts gesendet, keine Erstattung ausgelöst, nichts verändert.**
