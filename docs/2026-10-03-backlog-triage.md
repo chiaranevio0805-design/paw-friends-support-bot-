@@ -1196,3 +1196,67 @@ Kundenvorgänge werden nicht beschrieben, nur gezählt.
 - **🔴 Für den Owner, mit Priorität:** **#6311s Anhang vom 18.09. öffnen.**
   **Fünf Kunden berufen sich auf eine Ersatzzusage; dies ist der erste, der
   möglicherweise ein Bild davon mitgeschickt hat.**
+
+---
+
+## Lauf 17:20 UTC — nichts Neues; #8002 abgearbeitet · 🟦 zwei unabhängige, wortgleiche Werbezitate
+
+*(Erst die Datei geschrieben und geprüft — Entwurf in Zeile 27516 —, dann
+dieser Eintrag.)*
+
+**Posteingang: nichts Neueres als Betsey Barton um 14:26.** Bearbeitet:
+**#8002 Thomas Robinson (`thomas2788work@gmail.com`), GB**, zwei Fassungen,
+**Thread vollständig gelesen (6 von 6).**
+
+| Datum (UTC) | Was |
+|---|---|
+| **16.09. 16:30** | *„I ordered this on the 28th of August. **It has taken 19 days**… destroyed it within 20 minutes. **How do I get a refund?**"* |
+| 18.09. 10:42 | **Kauschaden-Vorlage, „Dear Thomas"** |
+| **18.09. 13:36** | *„…supposedly **'extremely durable and long lasting'** and after my dog has 'used' it you are not offering a refund or replacement?"* |
+| **21.09. 09:36** | **🟥 dieselbe Vorlage erneut — jetzt „Dear Customer"** |
+| **21.09. 10:53** | *„**Is this an automated response? You sent that in the first email**"* |
+| 24.09. 12:24 | *„**The previous email was our standard response**… your message has been reviewed…"* |
+| seitdem | **nichts. Neun Tage.** |
+
+**🟥 Seine Frage vom 16.09. — „How do I get a refund?" — ist in keiner der
+drei Antworten beantwortet worden.** **Und er hat die doppelte Vorlage selbst
+erkannt** — der zweite Kunde nach #6583, dem dasselbe aufgefallen ist.
+
+### 🟦 Der Befund, der über den Fall hinausgeht
+
+**Er zitiert am 18.09.: *„extremely durable and long lasting"*.**
+**#5128 Stuart Leech schrieb am 02.10. unabhängig:** *„…are **extremely
+durable and long-lasting**, built for dogs that destroy everything."*
+
+**Zwei Kunden, zwei Wochen auseinander, ohne Verbindung, zitieren dieselbe
+Formulierung.** **In den zwölf Produktbeschreibungen steht sie so nicht.**
+**Daraus folgt NICHT, dass sie nicht existiert — zwei gleichlautende
+unabhängige Zitate sind im Gegenteil ein starker Hinweis, dass der Satz
+irgendwo veröffentlicht ist, wo ich nicht hinsehen kann.** **Beide Entwürfe
+behaupten deshalb ausdrücklich nicht das Gegenteil.** **Zusammen mit dem
+Werbemail-Fund von 10:20 (#7555) und dem Anhang von #6311 ist das der dritte
+Hinweis an einem Tag, dass die entscheidenden Texte außerhalb der
+Produktseiten liegen.**
+
+**Im Entwurf ausdrücklich:** die Beantwortung seiner Frage; die Weitergabe
+seiner Erstattungsforderung **und** eines Ersatzwunsches, weil er beides
+nannte; die Warnung, kein Porto auszugeben; die **offene Bestätigung, dass
+die Vorlage zweimal kam und er damit recht hatte.**
+
+**Im Entwurf ausdrücklich NICHT:** keine Ersatzzusage; keine dritte Vorlage;
+keine Garantieentscheidung; **nicht behauptet, seine zitierte Formulierung
+existiere nicht**; **seine Lieferzeitangabe wird als seine wiedergegeben und
+nicht nachgeprüft**; keine Angaben aus dem Bestelldatensatz; nichts aus
+seinem Hund gefolgert; **kein fremder Kundenvorgang im Brief** — der
+Gleichlaut mit #5128 steht nur im Kopf des Entwurfs.
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 471.** **Geltende: 363.**
+- **Mehrfachfassungen abgearbeitet: 34. Offen: 62.**
+- **🔴 Drei Hinweise an einem Tag, dass die maßgeblichen Werbetexte NICHT auf
+  den Produktseiten stehen:** die Werbemail vom 27.08. (#7555, Volltext
+  vorhanden), der nicht geöffnete Anzeigen-Anhang (#6311) und **zwei
+  wortgleiche unabhängige Zitate** (#8002 und #5128).
