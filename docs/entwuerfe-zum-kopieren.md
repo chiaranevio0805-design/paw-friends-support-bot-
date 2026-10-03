@@ -14064,6 +14064,8 @@ den Versanddienstleister, keine Herkunftsangabe.** Kein Eskalationsmarker im
 Text.
 
 ## #7749 — Adrian Vincent-Janes (adrian@vincent-janes.com) — GB, verlangt Erstattung **und** ein Rücksendeetikett, dazu Sicherheitssorge  
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: A shipment from order #7749 is on the way
@@ -17661,6 +17663,8 @@ Telefonnummer wird nicht verwendet und nicht erwähnt.** Kein Eskalationsmarker
 im Text.
 
 ## #7749 — Adrian Vincent-Janes (adrian@vincent-janes.com) — GB, ⛔ **Trading Standards angekündigt; Rücksendeetikett verlangt; Sicherheitshinweis zum zweiten Mal**  
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: A shipment from order #7749 is on the way
@@ -22393,6 +22397,8 @@ Eskalationsmarker im Text.
 
 ## #7749 — Adrian Vincent-Janes (`adrian@vincent-janes.com`) — **dritter Kontakt, zweite Vorlage; wiederholt die Sicherheitsmeldung** · 30.09.
 
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
+
 **🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **30.09.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „this week") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
 
 **Betreff:** `Re: A shipment from order #7749 is on the way`
@@ -26579,6 +26585,120 @@ ist**; der Grund wird ihm sachlich genannt, ohne Misstrauensbekundung.
 **Keine vierte Vorlage.** **Keine Garantieentscheidung.** **Nicht behauptet,
 eines seiner Zitate existiere nicht.** **Keine Angaben aus dem
 Bestelldatensatz.** **Nichts aus dem Hund gefolgert.** Kein
+Eskalationsmarker im Text.
+
+## #7749 — Adrian Vincent-Janes (`adrian@vincent-janes.com`), GB — **ZUSAMMENGEFÜHRT** · 🟥 **DREIMAL eine Sicherheitssorge erhoben (20.09., 23.09., 30.09.) — zweimal mit der Kauschaden-Vorlage beantwortet, nie als Sicherheitsmeldung** · 03.10.
+
+**✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diesen Kunden. Alle früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue
+Anmeldung. Die Angaben aus seiner weitergeleiteten Shopify-Versandmeldung
+(zwei Plushies, Fox und Elk, Versandmeldung 03.09.) sind SEINE Unterlagen —
+sie werden nicht als unser Datensatz ausgegeben und nicht nachgerechnet.**
+
+**Der Verlauf (`get_thread`, 5 von 5 Nachrichten):**
+
+| Datum (UTC) | Was |
+|---|---|
+| **20.09. 19:11** | Nähte aufgerissen, Füllung im Flur; *„**I request a full refund** (under the 30 day satisfaction guarantee that you offered in your advertisement)… and you can provide a **FREE return shipping label**, as I have had to **remove these toys from our dog - too dangerous, especially if they ingest, swallow the rubbish filling inside**."* |
+| 22.09. 11:33 | **Kauschaden-Vorlage, „Dear Customer"** |
+| **23.09. 17:53** | **Trading Standards angekündigt**; *„You can only tell if something is indestructible after a dog has been playing with the toy"*; *„now the dogs do not have the toys as destroyed and **also unsafe with all the rubbish filling**"* |
+| 28.09. 11:21 | **zweite Kauschaden-Vorlage, „Dear Customer"** |
+| **30.09. 08:12** | *„…your advertising is completely misleading. **How do you know if the dog toy is totally indestructible unless the dog has a play with it.** … exposed all the junk that was stuffed inside, **which again is unsafe for dogs and could lead to suffocation.** **Will be leaving a review**…"* |
+| seitdem | **nichts. Drei Tage.** |
+
+**🟥 Er hat die Sicherheitssorge am 20.09., 23.09. und 30.09. erhoben — jedes
+Mal selbst, unaufgefordert, mit eigenen Worten. Beide Antworten waren
+Kauschaden-Vorlagen. Keine hat das Wort „unsafe" aufgegriffen.**
+
+**🟦 Er ist der fünfte Kunde mit demselben Argument** (*„How do you know…
+unless the dog has a play with it"*) — nach #8431, #7347, #2095 und #7292.
+
+**Betreff:** `Re: A shipment from order #7749 is on the way`
+
+> Dear Adrian,
+>
+> **You have said three times — on 20 and 23 September and again on
+> 30 September — that you took the toys away from your dogs because you
+> considered the filling unsafe if swallowed.** **Both replies you received
+> were standard paragraphs about chew damage. Neither of them used the word
+> "unsafe" once.** **That is the part I want to deal with first, and no third
+> copy of that paragraph is coming from me.**
+>
+> **I am not going to tell you that the toys are safe, and I am not going to
+> tell you that they are not.** **I am not in a position to judge that, and a
+> reassurance from a support desk that it cannot stand behind would be worth
+> nothing to you — least of all about something you have already removed from
+> your dogs.** **What I am doing is passing it to the shop owner today as a
+> safety report in its own right, in your own words, separately from the
+> refund.** **That is how it should have been handled on 20 September.**
+>
+> **On your refund request.** **It goes to him today as well, as a request
+> for the full amount, in your words and under the guarantee you say the
+> advertising offered.** **I cannot approve it from this desk and I am not
+> going to refuse you.** **I am not going to give you a date, because I
+> cannot stand behind one.**
+>
+> **On the free return label you asked for — the honest answer, three times
+> overdue: I cannot provide one, because there is no returns address on our
+> side at the moment.** **Not one I am withholding; one that does not
+> exist.** **So please do not post the toys anywhere and please do not pay
+> postage.** **Keep what is left of them where it is.** **You asked a plain
+> operational question on 20 September and you were entitled to that answer
+> then.**
+>
+> **On the advertising, and on the point you made about it.** **You wrote that
+> you cannot tell whether a toy is indestructible without letting the dog
+> play with it.** **I am not going to argue with that and I am not going to
+> endorse it on the owner's behalf — it goes to him exactly as you put it.**
+> **What I can tell you is checkable: I have read all twelve of our current
+> product descriptions, and the word "indestructible" appears in none of
+> them.** **That is a statement about those twelve texts and nothing more —
+> it says nothing about the advertisement you saw, and I am not using it to
+> suggest you misremember it.**
+>
+> **I am also not going to tell you whether the goods were "not fit for
+> purpose" in the legal sense, or whether Trading Standards will see it your
+> way.** **That is not mine to rule on in either direction.** **Contacting
+> them is entirely your decision and nothing here depends on it.**
+>
+> **The same goes for the review you said you would leave.** **Your decision.
+> I am not going to ask you not to, and nothing about how your case is
+> handled is conditional on it, in any direction.**
+>
+> **What I am not going to do is tell you the guarantee covers what happened,
+> or tell you it does not.** **That is the owner's and not mine.**
+>
+> **I am not going to make any claim about the toys in either direction, and
+> I am drawing no conclusion from your dogs** — you mentioned that it was one
+> of the smallest of them, and that is not something I am going to turn
+> around and use against you.
+>
+> I am sorry that it took three emails, two form letters and ten days before
+> anyone treated the safety point as a safety point.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **getrennte Weitergabe seiner Sicherheitssorge als
+Sicherheitsmeldung**, mit der offenen Einräumung, dass beide Antworten das
+Wort „unsafe" nicht aufgegriffen haben; die **Weitergabe seiner Forderung nach
+voller Erstattung**; die **Antwort auf die Bitte um ein kostenloses
+Rücksendelabel** — es gibt keines, weil es keine Adresse gibt — und die
+**Warnung, kein Porto auszugeben.** **Keine Erstattung zugesagt, kein Termin,
+keine Absage.** **🟥 KEINE Aussage zur Sicherheit, zum Füllmaterial oder zu
+Erstickungsgefahr — in keine Richtung.** **🟥 KEINE rechtliche Bewertung zu
+„not fit for purpose" und KEINE Prognose zu Trading Standards**, nichts daran
+geknüpft, nicht um Aufschub gebeten. **🟥 Zur angekündigten Bewertung wird
+NICHT um Zurückhaltung gebeten**, nichts daran geknüpft, keine Plattform
+benannt. **Keine dritte Kauschaden-Vorlage.** **Keine Garantieentscheidung.**
+**Sein Argument („man kann es nur durch Spielen prüfen") wird weder bestätigt
+noch bestritten.** **Nicht behauptet, die von ihm erinnerte Werbeaussage
+existiere nicht.** **Keine Angaben aus dem Bestelldatensatz; seine eigene
+Versandmeldung wird nicht zitiert und nicht als Nachweis benutzt.** **Kein
+Trackingstatus, kein Verweis an den Zusteller.** **🟥 Sein Hinweis auf den
+kleinsten Hund wird ausdrücklich NICHT gegen ihn verwendet.** Kein
 Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht

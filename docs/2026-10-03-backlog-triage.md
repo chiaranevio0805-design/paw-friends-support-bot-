@@ -897,3 +897,59 @@ sachlich — **ohne zu bestätigen oder zu bestreiten, dass er befugt ist.**
   Postfach** — förmliche Zurückweisung, angekündigter Chargeback,
   angekündigte Meldung an Trading Standards, und **drei Vorlagenbriefe als
   einzige Antwort.** **Achtzehn Tage ohne Reaktion.**
+
+---
+
+## Lauf 12:20 UTC — Posteingang leer; #7749 abgearbeitet · 🟥 Sicherheitssorge DREIMAL erhoben, nie als solche beantwortet
+
+*(Erst die Datei geschrieben und geprüft — Entwurf in Zeile 26706 —, dann
+dieser Eintrag.)*
+
+**Keine neue Kundennachricht.** Bearbeitet: **#7749 Adrian Vincent-Janes
+(`adrian@vincent-janes.com`), GB**, drei Fassungen, **Thread vollständig
+gelesen (5 von 5).** **Das ist einer der vier Fälle auf der Sicherheitsliste
+des Owners.**
+
+| Datum (UTC) | Was |
+|---|---|
+| **20.09. 19:11** | *„**I request a full refund** (under the 30 day satisfaction guarantee that you offered in your advertisement)… and you can provide a **FREE return shipping label**, as I have had to **remove these toys from our dog - too dangerous, especially if they ingest, swallow the rubbish filling inside**."* |
+| 22.09. 11:33 | **Kauschaden-Vorlage, „Dear Customer"** |
+| **23.09. 17:53** | **Trading Standards angekündigt**; *„now the dogs do not have the toys as destroyed and **also unsafe with all the rubbish filling**"* |
+| 28.09. 11:21 | **zweite Kauschaden-Vorlage, „Dear Customer"** |
+| **30.09. 08:12** | *„…**which again is unsafe for dogs and could lead to suffocation.** **Will be leaving a review**…"* |
+| seitdem | **nichts. Drei Tage.** |
+
+**🟥 Dreimal selbst erhoben — 20.09., 23.09., 30.09. Beide Antworten haben
+das Wort „unsafe" nicht einmal aufgegriffen. Zehn Tage.**
+
+**🟦 Er ist der fünfte Kunde mit demselben Argument** — *„How do you know if
+the dog toy is totally indestructible unless the dog has a play with it"* —
+nach #8431, #7347, #2095 und #7292. **Dieses Argument ist inzwischen das
+häufigste inhaltliche Gegenargument im Postfach.**
+
+**Im Entwurf ausdrücklich:** die **getrennte Weitergabe der Sicherheitssorge
+als Sicherheitsmeldung**, mit offener Einräumung des Versäumnisses; die
+Weitergabe seiner Forderung nach voller Erstattung; die **Antwort auf die
+Bitte um ein kostenloses Rücksendelabel** — es gibt keines, weil es keine
+Adresse gibt — und die Warnung, kein Porto auszugeben.
+
+**Im Entwurf ausdrücklich NICHT:** **keine Aussage zur Sicherheit, zum
+Füllmaterial oder zu Erstickungsgefahr, in keine Richtung**; **keine
+rechtliche Bewertung zu „not fit for purpose", keine Prognose zu Trading
+Standards**, nichts daran geknüpft; **zur angekündigten Bewertung nicht um
+Zurückhaltung gebeten**; keine dritte Vorlage; keine Garantieentscheidung;
+sein Argument wird weder bestätigt noch bestritten; **keine Angaben aus dem
+Bestelldatensatz** — seine eigene Versandmeldung wird nicht als Nachweis
+benutzt; **sein Hinweis auf den kleinsten Hund wird nicht gegen ihn
+verwendet.**
+
+**Drei frühere Fassungen als ERSETZT markiert.**
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 466.** **Geltende: 359.**
+- **Mehrfachfassungen abgearbeitet: 30. Offen: 66.**
+- **🔴 Sicherheitsliste des Owners, alle vier jetzt mit geltendem Entwurf:**
+  **#7608, #7749, #7324, #8312.** **Keiner davon ist beantwortet.**
