@@ -20499,6 +20499,8 @@ Bestellnamen nicht thematisiert. Kein Eskalationsmarker im Text.
 
 ## Adressänderung — `betsey.barton@yahoo.com` — **keine Bestellnummer, Datensatz nicht prüfbar**
 
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
+
 **Betreff:** `Re: Address change`
 
 > Hello,
@@ -26911,6 +26913,113 @@ noch nichts erhalten. **Zu den Bewertungen, die er gelesen hat, wird nicht
 widersprochen und nichts daran geknüpft.** **Kein Trackingstatus, keine
 Trackingnummer, kein Verweis an den Zusteller.** **Keine Angaben aus dem
 heutigen Bestelldatensatz.** Kein Eskalationsmarker im Text.
+
+## `betsey.barton@yahoo.com` — Betsey Barton, US — **ZUSAMMENGEFÜHRT für beide Threads** · 🟥 **am 01.10. mit „has already been shipped" abgewiesen — ihre eigene Sendungsverfolgung sagt am 03.10. „waiting"** · 03.10.
+
+**✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diese Kundin. Die frühere Fassung zur Adressänderung ist als ersetzt markiert.**
+
+**🟥 OHNE BESTELLDATEN — keine Bestellnummer genannt, und Shopify verlangt
+seit 01.10. 17:20 UTC eine neue Anmeldung. Es wurde nicht gesucht; der
+Entwurf behauptet NICHT, es sei keine Bestellung auffindbar.**
+
+**⚠️ Zwei Threads.** `Address change` (28.09./01.10.) und `Order` (03.10.).
+**Antwort im neueren Thread `Order`.**
+
+**Der Verlauf (beide Threads vollständig gelesen):**
+
+| Datum (UTC) | Was |
+|---|---|
+| **28.09. 17:04** | *„**Is it to late to change the delivery address?** If it can be changed, it should be delivered to [neue Anschrift in Mesa, AZ]"* |
+| **01.10. 10:37** | **🟥 *„the delivery address can no longer be changed as **your order has already been shipped**"*** — **drei Tage später** |
+| **03.10. 14:26** | *„Is my order ever going to arrive? **I've tried tracking it. It says it's waiting.** Did you put it on the slowest boat you could find? **When am I going to receive it or else I wanna cancel it.**"* |
+
+**🟥 Zweiter Fall an einem Tag, in dem eine Bitte mit „has already been
+shipped" abgewiesen wurde und die eigenen Angaben der Kundschaft dem
+widersprechen** — nach **#8669**. **Hier sagt ihre eigene Sendungsverfolgung
+zwei Tage später „waiting".**
+
+**🟦 Sie hat NICHT storniert.** Sie schreibt *„when am I going to receive it
+**or else** I wanna cancel it"* — **eine Bedingung, keine Erklärung.**
+**Das wird nicht als Storno behandelt und auch nicht als Verzicht darauf.**
+
+**🟦 Ihre Adressänderung vom 28.09. ist nicht ausgeführt.** **Von hier aus
+darf keine Bestellung geändert werden** — das geht nur über das Admin des
+Owners. **Die neue Anschrift liegt in ihrer Mail vom 28.09.; sie wird in
+diesem Brief nicht wiederholt.**
+
+**🟦 Zur „slowest boat"-Bemerkung:** sie fragt **nicht** nach der Herkunft der
+Ware. **Der Entwurf breitet das deshalb nicht aus — sagt ihr aber
+ausdrücklich, dass sie eine gerade Antwort bekommt, wenn sie fragt.**
+
+**Betreff:** `Re: Order`
+
+> Dear Betsey,
+>
+> **I am going to answer the two things you actually asked, and be honest
+> about the one I cannot answer.**
+>
+> **First, the part I cannot answer: I cannot give you a delivery date.**
+> **Our order system is not readable from this desk at the moment — that is
+> our problem, not yours — so I am not going to quote you a status, and I am
+> not going to invent a date to end the conversation.** **You told me your
+> own tracking says "waiting". I am not going to read a different story back
+> to you, and I am not going to send you to chase a courier.**
+>
+> **Second, the part I can act on. You said that if you are not going to
+> receive it, you want to cancel.** **I am not going to treat that as a
+> cancellation, because you set it as a condition and not a decision — but I
+> am also not going to let it sit.** **If you want the order cancelled now,
+> reply with one word and it goes to the shop owner the same day as a
+> cancellation request.** **I cannot cancel it from this desk and I cannot
+> release money from it, so I am not going to tell you it is done when it is
+> not.**
+>
+> **Third, something from your earlier email that you are owed plainly.**
+> **On 28 September you asked whether the delivery address could still be
+> changed. The reply, three days later, said it could not because the order
+> had already shipped.** **I am not going to repeat that sentence to you,
+> because I cannot stand behind it from here — and because what you have told
+> me since does not sit easily beside it.** **I am not going to tell you the
+> parcel has shipped, and I am not going to tell you it has not.** **What I
+> am doing is putting your address change and your delivery question in front
+> of the owner together, with the dates, because he can see the record and I
+> cannot.** **Changing an order is not something I am permitted to do from
+> here.**
+>
+> **If a parcel does turn up — at either address — please do not post it back
+> on your own initiative.** **There is no returns address I can give you at
+> the moment, and you would be out the postage as well as the goods.** **Tell
+> us and it goes over with the rest.**
+>
+> **One more thing, since you made a joke about it and are entitled to a
+> straight answer rather than a dodge: if you want to know where your order
+> ships from, just ask and I will tell you what I know.** **I am not going to
+> volunteer a lecture you did not ask for, and I am not going to pretend the
+> question is improper.**
+>
+> **I am sorry that a question about an address took three days and produced
+> an answer I cannot verify.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Auskunft, dass kein Liefertermin genannt
+werden kann und warum**; das **Angebot, eine Stornierung sofort
+weiterzugeben, sobald sie eine erklärt**; die **Weitergabe der
+Adressänderung vom 28.09. mit Datum**; die **Warnung, kein Porto
+auszugeben.** **🟥 NICHT als Storno behandelt** — und nicht als Verzicht
+darauf. **🟥 Die Zeile „has already been shipped" wird NICHT wiederholt** —
+und es wird **weder behauptet, das Paket sei versandt, noch, es sei es
+nicht.** **Kein Trackingstatus genannt, keine Trackingnummer, kein Verweis
+an den Zusteller; ihre eigene Angabe („waiting") wird ihr nicht
+widersprochen.** **Kein Termin, keine Erstattung zugesagt, keine Absage.**
+**🟥 KEINE Änderung an der Bestellung — ausdrücklich gesagt, dass das von
+hier nicht zulässig ist.** **Ihre neue Anschrift wird nicht wiederholt.**
+**🟦 Zur Herkunft der Ware wird nichts ausgebreitet, aber eine gerade
+Antwort auf Nachfrage zugesagt** — herkunftsneutral, nicht verschleiernd.
+**Keine Angaben aus dem Bestelldatensatz.** **Nicht gesagt, es sei keine
+Bestellung auffindbar.** Kein Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 

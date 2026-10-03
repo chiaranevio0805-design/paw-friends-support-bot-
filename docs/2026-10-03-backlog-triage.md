@@ -1072,3 +1072,67 @@ Warnung, kein Porto auszugeben, falls doch ein Paket kommt.
 - **🔴 Muster, das der Owner kennen muss:** **in drei dieser Fälle wurde dem
   Kunden gesagt oder suggeriert, es sei zu spät — bei #8669 nachweislich auf
   Grundlage einer Angabe, die der eigene Datensatz nicht stützte.**
+
+---
+
+## Lauf 15:20 UTC — 🟥 EIN NEUER FALL · und zum zweiten Mal heute „has already been shipped" gegen die eigenen Angaben der Kundschaft
+
+*(Erst die Datei geschrieben und geprüft — Entwurf in Zeile 27194 —, dann
+dieser Eintrag.)*
+
+### 🟥 `betsey.barton@yahoo.com` — Betsey Barton, US, 03.10. 14:26 UTC — **Bot/Escalated – Owner Attention**
+
+> *„Is my order ever going to arrive? **I've tried tracking it. It says it's
+> waiting.** Did you put it on the slowest boat you could find? **When am I
+> going to receive it or else I wanna cancel it.**"*
+
+**Keine Bestellnummer. Suche nach älteren Threads durchgeführt — und sie hat
+einen zweiten, der den Fall verändert:**
+
+| Datum (UTC) | Was |
+|---|---|
+| **28.09. 17:04** | *„**Is it to late to change the delivery address?** If it can be changed, it should be delivered to [neue Anschrift, Mesa AZ]"* |
+| **01.10. 10:37** | **🟥 *„the delivery address can no longer be changed as **your order has already been shipped**"*** — **drei Tage später** |
+| **03.10. 14:26** | ihre heutige Nachricht: **die eigene Sendungsverfolgung sagt „waiting"** |
+
+**🟥 Das ist heute der ZWEITE Fall, in dem eine Bitte mit „has already been
+shipped" abgewiesen wurde und die eigenen Angaben der Kundschaft dem
+widersprechen** — nach **#8669**, wo unser damaliger Datenstand beide
+Positionen als „unfulfilled" führte. **Bei Betsey sagt ihre eigene
+Sendungsverfolgung zwei Tage nach der Abweisung „waiting".**
+
+**🟦 Sie hat NICHT storniert** — *„or else I wanna cancel it"* ist eine
+Bedingung. **Der Entwurf behandelt es nicht als Storno und auch nicht als
+Verzicht**: er sagt ihr, dass ein Wort genügt und die Stornierung noch am
+selben Tag an den Owner geht.
+
+**🟦 Ihre Adressänderung vom 28.09. ist nicht ausgeführt.** **Von hier darf
+keine Bestellung geändert werden** — das steht so im Brief. **Ihre neue
+Anschrift wird im Brief nicht wiederholt.**
+
+**🟦 Zur „slowest boat"-Bemerkung:** sie fragt **nicht** nach der Herkunft.
+**Der Entwurf breitet nichts aus, sagt ihr aber ausdrücklich zu, auf Nachfrage
+gerade zu antworten** — herkunftsneutral, ohne Verschleierung.
+
+**Weiter NICHT im Entwurf:** **die Zeile „has already been shipped" wird nicht
+wiederholt**, und es wird **weder behauptet, das Paket sei versandt, noch, es
+sei es nicht**; kein Trackingstatus, kein Verweis an den Zusteller, ihrer
+eigenen Angabe („waiting") wird nicht widersprochen; kein Liefertermin;
+**nicht gesagt, es sei keine Bestellung auffindbar.** **Im Entwurf DOCH:** die
+Warnung, kein Porto auszugeben, falls doch ein Paket kommt.
+
+**Die frühere Fassung zur Adressänderung ist als ERSETZT markiert.**
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 469.** **Geltende: 361.**
+- **Kundenfälle am 03.10.: einer** (Betsey Barton).
+- **🔴 „has already been shipped" als Begründung einer Abweisung: zwei
+  dokumentierte Fälle** — **#8669** (Datenstand widersprach) und **Betsey
+  Barton** (ihre Sendungsverfolgung widerspricht). **Der Owner sollte wissen,
+  dass dieser Satz offenbar auch dann verwendet wird, wenn er nicht belegt
+  ist.**
+- **🔴 Stornowünsche und stornonahe Fälle: jetzt sechs** — #8781, #6793,
+  #5036, #8669, #8764 (mit Frist) und **Betsey Barton (bedingt)**.
