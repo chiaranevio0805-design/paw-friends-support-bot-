@@ -691,3 +691,63 @@ vollständig aufgestellt**, statt weiter fortgeschrieben zu werden.
 - **🔴 Geldzusagen, die der Owner selbst ausführen muss, nach Alter:**
   **#2894 Ersatz 24.07. (71 Tage)**, **#6583 volle Erstattung 03.09.
   (35 Tage)**, dazu die neun „processed"-Fälle.
+
+---
+
+## Lauf 09:20 UTC — Posteingang leer · 🟥 die Zahl „zwölf" geprüft — sie war unbelegt und zu niedrig
+
+*(Erst die Datei geschrieben und geprüft — `docs/ungeoeffnete-ware-pruefliste.md` —, dann dieser Eintrag.)*
+
+**Keine neue Kundennachricht.** Der Lauf ging an den Prüfpunkt, den ich mir im
+08:20-Eintrag selbst gesetzt habe.
+
+### 🟥 Der Befund
+
+**Seit dem 01.10. steht in den Protokollen und in beiden Tagesberichten „elf"
+und später „zwölf Menschen mit ungeöffneter Ware ohne Rückgabeweg". Diese
+Zahl ist nirgends hergeleitet.** Sie wurde von Lauf zu Lauf fortgeschrieben
+und am 02.10. um eins erhöht, als #7034 dazukam.
+
+**Ein Durchgang über die 356 geltenden Entwürfe findet 52 Fälle, in denen von
+ungeöffneter oder unbenutzter Ware die Rede ist.**
+
+**Davon sind zehn belegt** — Threads, die ich selbst vollständig gelesen habe
+und in denen die Kundin oder der Kunde ausdrücklich schreibt, ungeöffnete oder
+unbenutzte Ware zu halten: **#2095, #7034, #7119, #7179, #6528, #6583, #7292,
+#8312, #8126, #7660.**
+
+**Die übrigen 42 sind ungeprüft.** **Stichwörter treffen auch Entwürfe, in
+denen der Satz aus einem anderen Grund steht** — etwa meine eigene
+Standardwarnung *„please do not post the unopened toy"* oder eine Stelle, an
+der ausdrücklich offen bleibt, ob ein zweiter Artikel ungeöffnet ist (#5128).
+**Deshalb behaupte ich NICHT „52 Menschen".**
+
+**Was ich sage: die Zahl „zwölf" war unbelegt und ist mit hoher
+Wahrscheinlichkeit deutlich zu niedrig. Ich nenne sie ab jetzt nicht mehr.**
+An ihre Stelle tritt die Liste.
+
+### Warum das mehr ist als ein Zahlenfehler
+
+**Die Zahl war einer der drei Punkte, mit denen ich dem Owner die Dringlichkeit
+einer Rücksendeadresse begründet habe.** **Eine Begründung, die ich nicht
+belegen kann, ist keine.** Die Maßnahme bleibt dieselbe und wird durch die
+Liste eher dringlicher — **aber sie muss auf etwas Nachprüfbarem stehen.**
+
+### Was NICHT getan wurde
+
+- **Keine neue Zahl behauptet.**
+- **Kein Kunde angeschrieben** — mehrere haben seit Wochen nicht geschrieben.
+- **Kein Entwurf geändert.**
+- **Die alten Protokolleinträge wurden NICHT nachträglich korrigiert.** Dort
+  steht weiterhin „elf" bzw. „zwölf". **Der Fehler wird benannt, nicht aus der
+  Geschichte entfernt.**
+
+### Stand
+
+- **Entwürfe in der Datei: 463** (unverändert). **Geltende: 356.**
+- **Mehrfachfassungen abgearbeitet: 27. Offen: 69.**
+- **Ungeöffnete Ware: 52 Kandidaten, 10 belegt, 42 ungeprüft** —
+  `docs/ungeoeffnete-ware-pruefliste.md`.
+- **Prüflisten für den Owner jetzt zwei:**
+  `processed-zusagen-pruefliste.md` (9 belegt, 35 ungeprüft) und
+  `ungeoeffnete-ware-pruefliste.md` (10 belegt, 42 ungeprüft).
