@@ -245,3 +245,82 @@ ersetzt.
 - **Mehrfachfassungen abgearbeitet: 23. Offen: 73.**
 - **🔴 „processed"-Briefe ohne Deckung im Datensatz: sieben.**
 - **Drei Entwürfe unter Sendesperre:** #6936, #7179, #6528.
+
+---
+
+## Lauf 03:20 UTC — Posteingang leer · 🟥 systematische Suche nach „processed"-Zusagen: 44 Kandidaten-Threads
+
+*(Erst die Datei geschrieben und geprüft — `docs/processed-zusagen-pruefliste.md` —, dann dieser Eintrag.)*
+
+**Posteingang unverändert leer.** Weil in den letzten drei Läufen **drei neue
+„processed"-Fälle** einzeln aufgefallen sind (#7179, #6528, davor #6936),
+wurde dieser Lauf nicht für den nächsten Einzelfall genutzt, sondern **für
+eine systematische Suche** — damit der Owner nicht Woche für Woche auf neue
+Einzelfunde wartet.
+
+**Abfrage:** `in:sent "has now been processed" OR "has been processed" OR
+"already been processed"` → **44 Threads.**
+
+### 🟥 Zwei neue bestätigte Fälle
+
+**Beide im Volltext gelesen:**
+
+1. **`malinan@att.net` — #6159, Mary, US.** Sie nimmt am **19.09.** 30 % an
+   (*„Yes please do the 30% refund"*); am **22.09. 11:27:10** kommt
+   *„…your 30% partial refund has been processed"*, angeredet **„Dear
+   Customer"**, nachdem sie zuvor zweimal mit Namen angeschrieben worden war.
+   **Sie hat außerdem einen zweiten, UNBENUTZTEN Artikel** (*„It is unused"*,
+   29.08.).
+2. **🟥 `lgnbshp79@gmail.com` — der auffälligste Fall bisher.** Sie hat
+   **einmal** geschrieben (20.09.). **In ihrem Thread steht kein einziges
+   Angebot.** Am 22.09. bekam sie **drei Briefe in 23 Sekunden**:
+   - **11:32:20** *„**Thank you for confirming.** We can confirm that your
+     30% partial refund **has been processed**…"* — **sie hat nichts
+     bestätigt, ihr wurde nie etwas angeboten**
+   - **11:32:30** Kauschaden-Vorlage: keine Erstattung möglich
+   - **11:32:43** dieselbe Vorlage erneut
+
+   **Ein Brief sagt, das Geld sei unterwegs; die nächsten beiden sagen, es
+   gebe keines — dreizehn Sekunden später.**
+
+### Das Fenster am 22.09. umfasst jetzt sechs Zusagen
+
+11:02:52 #4998 · 11:04:12 #6936 · 11:05:13 #6528 · 11:10:43 #5148 ·
+11:27:10 #6159 · **11:32:20 `lgnbshp79`** — **sechs
+Erstattungsbestätigungen in einer halben Stunde.**
+
+### 🟦 Was die Suche NICHT belegt — ausdrücklich
+
+1. **Die Suche trifft Threads, nicht Nachrichten.** **Geprüftes
+   Gegenbeispiel: `susanmcgee@outlook.com.au` (#7119).** Ihre Nachricht vom
+   22.09. 11:06:57 ist **keine** Erstattungsbestätigung, sondern die zweite
+   Kauschaden-Vorlage. **Die 44 sind Kandidaten, keine Befunde.** Ich nenne
+   deshalb **nicht** „44 Fälle".
+2. **Die Liste ist eine UNTERGRENZE: `#7179` fehlt darin** — dort heißt der
+   Satz *„**We have now processed** the 50% partial refund"*. **Es gibt
+   mindestens eine weitere Formulierung, die die Suche nicht erfasst.**
+3. **Keine Summe gebildet** — unterschiedliche Bestellwerte, zwei Kunden in
+   Dollar, kein Datensatz abrufbar. **Eine Summe wäre geraten.**
+4. **Keine Bewertung, wie es dazu kam.** Vorlagenfehler, Automatik oder
+   anderes — von hier nicht feststellbar.
+
+### Was erstellt wurde
+
+**`docs/processed-zusagen-pruefliste.md`** — neun gelesene und bestätigte
+Zusagen mit Datum und Wortlaut, das Zeitfenster vom 22.09., der Fehltreffer
+#7119 ausdrücklich benannt, und **35 ungeprüfte Kandidaten-Threads mit
+Thread-ID**, damit der Owner sie in Gmail direkt öffnen kann.
+
+**Kein Kunde angeschrieben. Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Bestätigte „processed"-Briefe: neun** — #5973, #4055, #4998, #5148,
+  #6936, #7179, #6528, **#6159**, **`lgnbshp79`**.
+- **Ungeprüfte Kandidaten: 35.**
+- **Entwürfe in der Datei: 459** (unverändert, in diesem Lauf keiner
+  geschrieben). **Mehrfachfassungen offen: 73.**
+- **🔴 Für `lgnbshp79` und #6159 gibt es noch keinen Entwurf.** Beide haben
+  seit der Zusage nicht geschrieben — **unaufgefordert wird nicht
+  geschrieben**; sie gehören auf dieselbe Sendesperren-Logik wie #6936,
+  #7179 und #6528.
