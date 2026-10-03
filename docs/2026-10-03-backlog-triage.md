@@ -1642,3 +1642,88 @@ widersprüchlichen Beträgen.
 - **Shopify: dritter Tag Neuanmeldung nötig. Die Live-Seiten waren ohne
   Shopify erreichbar** — das hätte mir am 01.10. einfallen können.
 - **Nichts gesendet, keine Erstattung ausgelöst, nichts verändert.**
+
+---
+
+## Lauf 22:20 UTC — nichts Neues · #7292 Tracy Hartley NEU GESCHRIEBEN: ihre beiden Fragen sind jetzt vollständig beantwortet
+
+**Posteingang: nichts Neues.**
+
+**Dieser Lauf hat keinen neuen Fall aufgenommen, sondern den dringendsten
+Schaden aus dem 21:20-Befund repariert.**
+
+### 🟥 Warum #7292 zuerst
+
+**Drei Entwürfe sind seit 21:20 nicht nur unvollständig, sondern führen die
+Empfängerin in die Irre:** #7292, #5310 und #5829. **Alle drei sagen einer
+Person, ihre Angabe sei in unseren Texten nicht zu finden — und bei allen
+dreien ist sie es doch.**
+
+**#7292 ist der schwerste Fall**, weil Tracy Hartley **genau nach der
+Richtlinie gefragt hat** — dreimal, am 12., 13. und 15.09. **Die Fassung von
+heute 04:20 sagt ihr: *„I cannot point you to it."*** **Das war seit dem
+19.08. falsch: der Link stand in unserer eigenen Mail an eine andere Kundin.**
+
+### Was die neue Fassung ihr sagt — und was belegt ist
+
+| Ihre Frage | Antwort, die sie jetzt bekommt |
+|---|---|
+| **„Where I can read that policy?"** | **Zwei URLs, beide unsere** — `/pages/refund-policy` und `/policies/refund-policy` — **mit wörtlichen Zitaten aus beiden** und der offenen Feststellung, **dass sie sich widersprechen: 14 gegen 30 Tage, „must be unused… original packaging" gegen „not limited by the requirement that an item be unused or in its original packaging".** |
+| **„Where… does it state that the 30-day guarantee applies only to toys that are unused and undamaged?"** | **Dort, wo die Garantie beworben wird, steht das nicht.** Der Brief zitiert den **vollständigen** Garantieabschnitt der Produktseite — *„we give you a full 30 days… simply contact us by email"* — und stellt fest: **keine Bedingung, keine Verpackung, kein Hund.** **„You did not miss anything… you were right."** |
+
+**Dazu drei Dinge, die sie ebenfalls bekommt:**
+
+- **Ihre Verfahrensfrage vom 10.09.:** **keine der beiden Seiten nennt eine
+  Postadresse; beide verweisen per E-Mail auf dieses Postfach.** Deshalb gab
+  es nichts einzurichten — **und das konnte sie nicht wissen.**
+- **Die gebrochene Zusage:** die Produktseite verspricht Antwort **„within
+  24–48 hours"**. Sie hat dreimal in vier Tagen geschrieben.
+- **Ihr Satz „I felt stupid"** wird beantwortet: *„You asked twice where
+  something was written, and it turns out it was written in two places that
+  contradict each other. That was never your mistake to feel bad about."*
+
+### Was die neue Fassung ausdrücklich NICHT tut
+
+- **Keine der beiden Fristen wird als die geltende dargestellt** — beide mit
+  Quelle genannt, Entscheidung beim Owner. **Das ist die heute geänderte
+  Regel in ihrer ersten Anwendung.**
+- **Keine Garantieentscheidung und keine rechtliche Bewertung** — auch nicht
+  dazu, was zwei widersprüchliche Seiten rechtlich bedeuten.
+- **Der australische Abschnitt wird NICHT erwähnt** — sie ist in den USA; er
+  gehört zu #7119, #7989, #7885, #7275, #7323 und steht im Owner-Teil.
+- **Kein fremder Kundenvorgang erwähnt**, obwohl der Link aus einem anderen
+  Thread stammt. **Sie erfährt die Quelle nicht, nur die Tatsache.**
+- **Das 30-%-Angebot wird nicht wiederholt und nicht erhöht.**
+
+### 🟦 Zur alten Fassung, fair gesagt
+
+**Die 04:20-Fassung war nicht unwahr.** Sie hat gesagt, was geprüft war, und
+ihre Grenze ausdrücklich genannt — *„That is a statement about those twelve
+texts and nothing more."* **Diese Vorsicht hat verhindert, dass sie eine
+Falschaussage enthält.** **Sie hätte Tracy Hartley aber im Glauben gelassen,
+die Frage sei von hier nicht beantwortbar.** **Sie ist beantwortbar, und die
+Antwort gibt ihr recht.** **Die alte Fassung bleibt als ersetzt in der Datei
+stehen, nicht gelöscht.**
+
+### Noch offen aus dem 21:20-Befund
+
+- **#5310 Heather Taylor** — ihr Entwurf von 19:20 sagt, *„no dog has ever
+  destroyed the toy"* stehe in keinem der zwölf Texte. **Die Fluffies-Seite
+  sagt „40,000 dogs have tried. Not one has beaten them yet."** **Neue Fassung
+  nötig.**
+- **#5829 Tasmin Hunt / David Coles** — sein *„double stitching"* gegen
+  **„Triple-stitched at every seam"** und **„Double-layer cord shell"**.
+  **Neue Fassung nötig.**
+- **#7440 Aaron Kell** und **#4071 Ellen Rosey** — dieselbe Werbeaussage,
+  beide Entwürfe gesperrt.
+- **86 weitere gesperrte Entwürfe** warten auf die Streichung oder
+  Richtigstellung des Satzes über die zwölf Texte.
+- **Zehn Produktseiten sind noch nicht abgerufen.**
+
+### Stand
+
+- **Entwürfe: 476. Ersetzt: 116. Geltende: 360.**
+- **Davon mit Werbebefund-Sperre: 87** (die neue #7292-Fassung trägt sie
+  nicht mehr — sie braucht sie nicht).
+- **Sendesperren insgesamt: 92.**
+- **Nichts gesendet, keine Erstattung ausgelöst, nichts verändert.**

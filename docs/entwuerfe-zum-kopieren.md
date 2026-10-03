@@ -1819,6 +1819,8 @@ kein Ersatz, kein Angebot, keine Rücksendeadresse.
 
 ## #7292 — doulatracy@gmail.com — Garantietext gegen Vorlage  
 
+**⚠️ ERSETZT durch den Entwurf vom 03.10. 22:20 — nur den neuesten senden.**
+
 **⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „on friday", „tonight"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
@@ -2921,6 +2923,8 @@ weiterhin nicht auffindbar — vor dem Senden die Anhänge öffnen.**
 ---
 
 ## 🚩🚩 #7292 — doulatracy@gmail.com — DRITTE FASSUNG  
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. 22:20 — nur den neuesten senden.**
 
 **⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 
@@ -6026,6 +6030,8 @@ Produktsicherheit, keine zur Größe. Kein Eskalationsmarker im Text.
 ---
 
 ## #7292 — tracy hartley (doulatracy@gmail.com) — vierte Fassung, endlich mit einer Antwort
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. 22:20 — nur den neuesten senden.**
 
 **⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 
@@ -26055,6 +26061,8 @@ Text.
 
 ## #7292 — Tracy Hartley (`doulatracy@gmail.com`), US — **ZUSAMMENGEFÜHRT** · 🟥 **sie stellt seit dem 12.09. DREIMAL zwei präzise Fragen zu unseren eigenen Texten; keine davon wurde beantwortet** · 03.10.
 
+**⚠️ ERSETZT durch den Entwurf vom 03.10. 22:20 — nur den neuesten senden.**
+
 **⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diese Kundin. Alle drei früheren Fassungen in dieser Datei sind als ersetzt markiert.**
@@ -27785,6 +27793,159 @@ vom 31.08. wird weder wiederholt noch zurückgenommen** — er hat nicht danach
 gefragt. **🟥 Sein eigener Hinweis auf den Pug wird ausdrücklich NICHT gegen
 ihn verwendet.** **Kein fremder Kundenvorgang erwähnt.** **Nur absolute
 Datumsangaben** — dieser Entwurf braucht keine Datumswarnung. Kein
+Eskalationsmarker im Text.
+
+## #7292 — Tracy Hartley (`doulatracy@gmail.com`), US — **ZWEITE FASSUNG VON HEUTE, 22:20** · 🟥 **ihre beiden Fragen sind jetzt BEANTWORTBAR: es gibt zwei widersprüchliche Richtlinienseiten, und dort, wo die Garantie beworben wird, steht KEINE Bedingung** · 03.10.
+
+**✅ GEPRÜFT am 03.10. 22:20: Dies ist die geltende Fassung für diese Kundin. Alle früheren Fassungen — einschließlich der von heute 04:20 — sind als ersetzt markiert.**
+
+**🟥 WARUM SCHON WIEDER EINE NEUE FASSUNG:** die Fassung von heute 04:20 sagt
+ihr, **ich könne sie nicht auf die Richtlinie verweisen** und die Bedingung
+stehe **in keiner der zwölf Produktbeschreibungen**. **Beides ist seit dem
+21:20-Lauf überholt.** Der Link stand in unserer eigenen Mail vom 19.08. an
+eine andere Kundin, und die Seiten sind abgerufen.
+**Grundlage: `docs/produktseiten-live-befund.md`.**
+
+**🟦 Die alte Fassung war nicht unwahr — sie war zu eng.** Sie hat gesagt, was
+sie geprüft hatte, und ihre Grenze genannt. **Aber sie hätte Tracy Hartley im
+Glauben gelassen, die Frage sei von hier aus nicht beantwortbar. Sie ist es.**
+
+**🟥 OHNE BESTELLDATEN — Shopify seit 01.10. 17:20 UTC nicht erreichbar.
+Kein Betrag, kein Datum aus dem Datensatz.**
+
+**🟦 Sie ist in den USA. Der australische Abschnitt auf
+`/policies/refund-policy` wird ihr NICHT als auf sie anwendbar dargestellt
+und in diesem Brief gar nicht erwähnt** — er steht im Owner-Teil, für die
+AU-Fälle.
+
+**Betreff:** `Re: Order #7292 confirmed`
+
+> *„Could you please tell me **where I can read that policy**?"*
+>
+> *„I would also like to understand **where, in the information provided to me
+> when I purchased these toys, it states that the 30-day money-back guarantee
+> applies only to toys that are unused and undamaged**."*
+> Dear Tracy,
+>
+> **You asked those two questions on 12 September, again on 13 September and a
+> third time on 15 September. I can now answer both of them properly, and the
+> answers are not comfortable ones for us.**
+>
+> **Your first question: where can you read that policy.**
+>
+> **There are two pages, both ours, and they do not say the same thing.**
+>
+> - **https://paw-friends.uk/pages/refund-policy** — this is the one the
+>   sentence quoted to you comes from. It says: *"To be eligible for a return,
+>   your item must be unused and in the same condition as you received it. It
+>   must also be in the original packaging."* **It also says the window is
+>   fourteen days, not thirty:** *"You can return it for 100% money back
+>   within 14 days of receipt."* **And it says return postage is yours:**
+>   *"Please note that return shipping costs must be covered by the
+>   customer."*
+> - **https://paw-friends.uk/policies/refund-policy** — this one says
+>   *"30-day return policy"*, and it says the rights it describes *"are not
+>   limited by the requirement that an item be unused or in its original
+>   packaging"*.
+>
+> **So one of our pages makes the unused condition a requirement and the other
+> says it is not a limit, and one says fourteen days while the other says
+> thirty.** **I am not going to pick one of those for you and call it the
+> policy.** **Which one governs is the shop owner's to state, and that
+> question went to him today along with your name on it.**
+>
+> **Your second question: where, in what you were shown when you bought the
+> toys, does it say the thirty-day guarantee applies only to unused and
+> undamaged items.**
+>
+> **The answer is that it does not say that there. I have read the product
+> page, and this is its own wording in full:**
+>
+> *"Most stores only offer a standard 14-day return policy. At Paw-Friends, we
+> believe that choosing the right product for your dog shouldn't feel rushed.
+> That's why we give you a full 30 days to make sure you've made the right
+> choice. We genuinely care about our customers and always do our best to
+> provide the highest level of service and support. If you ever experience any
+> issue with your order, simply contact us by email. Our support team replies
+> within 24–48 hours and will always work with you to find a fair solution."*
+>
+> **There is no condition in it.** **Not unused, not undamaged, not original
+> packaging, nothing about a dog.** **The only step it names is to contact us
+> by email.** **You looked carefully, as you said, and you did not miss
+> anything: the limitation you were quoted is on a different page, with a
+> different deadline.**
+>
+> **That is your question answered, and the answer is that you were right.
+> What it means for your refund is not mine to decide, and I am not going to
+> pretend it is.**
+>
+> **Three other things you are owed plainly.**
+>
+> **The returns procedure you asked for on 10 September.** **Neither of those
+> two pages gives a postal address to send anything to. Both of them tell you
+> to email this address.** **So when you asked twice for a procedure and
+> prepaid shipping, there was no procedure to give you — and that is not
+> something you could have known.** **Please do not post the duck or the pig
+> anywhere and please do not pay postage. Keep them both where they are,
+> including the unopened duck.**
+>
+> **The reply time.** **That same product page promises replies within 24 to
+> 48 hours. You wrote three times in four days and did not get an answer to
+> either question. I am not going to explain that away.**
+>
+> **Your refund.** **You asked for the full amount of your order and you have
+> not accepted the 30 per cent. I am not treating silence as acceptance, and I
+> am not putting a different percentage in front of you.** **Your request goes
+> to the owner as it stands.** **I cannot approve it from this desk and I am
+> not going to refuse you.** **I am not going to give you a date, because I
+> cannot stand behind one.**
+>
+> **What I am still not going to do is rule on whether the guarantee covers
+> your case, or tell you what the law makes of two pages that disagree.**
+> **A support desk deciding its employer's guarantee, or its legal position,
+> would be worth nothing to you.** **Your reasoning goes to him in full, in
+> your own words.**
+>
+> **You mentioned the tag.** **I am not going to say anything about what our
+> toys are or are not made of, or what is or is not safe — I am not in a
+> position to, and a reassurance I cannot stand behind would be worth nothing
+> to you.** **Your words on that go to him exactly as you wrote them.**
+>
+> **I am not going to quote you a figure or recalculate anything** — our order
+> system is not readable from this desk today.
+>
+> **I am not going to make any claim about the toys in either direction, and I
+> am drawing no conclusion from your dog.**
+>
+> **You wrote that you felt stupid. You asked twice where something was
+> written, and it turns out it was written in two places that contradict each
+> other. That was never your mistake to feel bad about.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **vollständige Beantwortung ihrer beiden Fragen**, mit
+**zwei URLs und wörtlichen Zitaten aus beiden Richtlinien und von der
+Produktseite**; die **offene Feststellung, dass die beiden Seiten sich
+widersprechen — 14 gegen 30 Tage, Bedingung gegen ausdrückliche
+Nicht-Beschränkung**; die **Feststellung, dass sie recht hatte**; die
+**Antwort auf ihre Verfahrensfrage** — keine der Seiten nennt eine Adresse,
+beide verweisen auf dieses Postfach; die **Warnung, kein Porto auszugeben**;
+die **offene Benennung der gebrochenen 24–48-Stunden-Zusage**; die
+**Weitergabe ihrer Forderung und Begründung im Wortlaut.** **Keine Erstattung
+zugesagt, kein Termin, keine Absage.** **🟥 KEINE Garantieentscheidung.**
+**🟥 KEINE rechtliche Bewertung — auch nicht dazu, was zwei widersprüchliche
+Seiten rechtlich bedeuten.** **🟥 KEINE der beiden Fristen als die geltende
+dargestellt** — beide genannt, jede mit ihrer Quelle, Entscheidung beim Owner.
+**🟥 Das 30-%-Angebot wird NICHT wiederholt, NICHT erhöht, ihr Schweigen NICHT
+als Annahme gewertet.** **🟥 Keine Aussage zu Material oder Sicherheit, in
+keine Richtung; keine Sicherheitsmeldung unterstellt.** **🟥 Der
+australische Abschnitt wird NICHT erwähnt** — sie ist in den USA. **🟥 Kein
+fremder Kundenvorgang erwähnt**, obwohl der Link aus einem anderen Thread
+stammt. **Keine Angaben aus dem Bestelldatensatz, ihr Betrag nicht
+nachgerechnet.** **Ihre Anschrift und Telefonnummer werden nicht verwendet.**
+**Nichts aus ihrem Hund gefolgert.** **Nur absolute Datumsangaben.** Kein
 Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
