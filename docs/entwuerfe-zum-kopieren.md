@@ -11260,6 +11260,8 @@ unserer eigenen Mail vom 08.09. steht. Kein Eskalationsmarker im Text.
 
 ## #8312 — Paul Beaver (mrpbeaver@gmail.com) — ⛔ zehnter unbenutzter Fall, dazu eine Sicherheitssorge  
 
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
+
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „yesterday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
@@ -16025,6 +16027,8 @@ Eskalationsmarker im Text.
 
 ## #8312 — Paul Beaver (mrpbeaver@gmail.com) — GB, ⛔ **die Vorlage erzeugt zum zweiten Mal einen Rückgabefall**  
 
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
+
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „this morning"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
@@ -18645,6 +18649,8 @@ Anzeige.** **Das Foto wird nicht geöffnet**, nur sein Vorhandensein vermerkt.
 Lieferadresse lautet auf „Martin"). Kein Eskalationsmarker im Text.
 
 ## #8312 — Paul Beaver (mrpbeaver@gmail.com) — GB, **dritte Bitte um Rückgabe, gestern erneut ein Prozentangebot**  
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 
 **🕓 ZEITANGABEN PRÜFEN:** **Das Schreibdatum dieses Entwurfs steht nicht in der Überschrift.** Er enthält relative Zeitangaben (gefunden: „yesterday"), die sich auf den Schreibtag beziehen. **Vor dem Senden im Tagesprotokoll nachsehen, welcher Tag gemeint ist — und im Zweifel den Satz streichen statt ein Datum zu raten.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
@@ -21735,6 +21741,8 @@ Garantieentscheidung, keine Frist.** **Betrag genannt, nicht aufgeteilt.**
 Kein Eskalationsmarker im Text.
 
 ## #8312 — Paul (`mrpbeaver@gmail.com`) — **zweites Prozentangebot abgelehnt, verlangt Rückgabe** · 29.09. abends
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 
 **🕓 ZEITANGABEN PRÜFEN:** Dieser Entwurf wurde am **29.09.** geschrieben. Alle relativen Zeitangaben darin (gefunden: „tonight") beziehen sich auf **dieses** Datum, nicht auf den Tag des Versands. **Vor dem Senden auf das tatsächliche Datum umstellen oder den Satz streichen.**
 
@@ -25373,6 +25381,123 @@ unterstellt.** **🟥 NICHT gesagt, es sei keine Bestellung auffindbar.**
 dreißig Tage genannt** (es wird keine genannt). **Keine Angaben aus dem
 Bestelldatensatz.** **Nichts aus seinem Hund gefolgert.** Kein
 Eskalationsmarker im Text.
+
+## #8312 — Paul Beaver (`mrpbeaver@gmail.com`) — **ZUSAMMENGEFÜHRT** · 🟥 **viermal nach dem Rückgabeweg gefragt, nie beantwortet; dazu eine Sicherheitssorge vom 18.09., die in vier Antworten nicht vorkommt** · 03.10.
+
+**✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diesen Kunden. Alle vier früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue Anmeldung.**
+
+**Der Verlauf, vollständig gelesen (`get_thread`, 7 von 7 Nachrichten):**
+
+| Datum (UTC) | Was |
+|---|---|
+| **18.09. 16:13** | bestellt 31.08., angekommen 17.09.; ein Spielzeug in unter 30 Minuten zerstört; **„I cannot give these toys to my dog through fear of him swallowing the fabric parts which detach so easily"**; will volle Erstattung, **bietet an, BEIDE zurückzuschicken, eines ungeöffnet** |
+| 22.09. 11:17 | **Kauschaden-Vorlage, „Dear Customer"** — ohne ein Wort zum ungeöffneten Teil und ohne ein Wort zur Sicherheitssorge |
+| 22.09. 11:46 | *„I have one item unused in its original packaging. **Please confirm how I return this** for a refund."* |
+| 24.09. 12:37 | **Angebotsvorlage, 30 %** |
+| 25.09. 11:42 | *„As I have already stated, I want to return the item for a full refund… **Please confirm the process**."* |
+| 29.09. 21:19 | **Angebotsvorlage, 50 %** |
+| **29.09. 21:28** | **neun Minuten später:** *„Please stop.offering partial refunds… Your Google reviews justify your pathetic lack of resolution… I want to return the item for a full refund without any further delay. **I have been consistent with my request. Please confirm how.**"* — gezeichnet *„Your regretful customer"* |
+
+**🟥 Viermal dieselbe Frage — wie geht die Rückgabe? — und viermal keine
+Antwort darauf.** **Seit dem 29.09. nichts: vier Tage.**
+
+**🟥 Er hat selbst eine Sicherheitssorge erhoben** (Verschlucken ablösbarer
+Stoffteile). **Sie wird als solche weitergegeben** — und **es wird in keine
+Richtung etwas über die Sicherheit oder das Material gesagt.**
+
+**🟥 Seine Erwähnung der Google-Bewertungen:** er zitiert sie als Begründung.
+**Es wird NICHT um Änderung oder Entfernung gebeten, nichts daran geknüpft,
+und die Plattform wird nicht thematisiert.**
+
+**🟥 Seine Telefonnummer steht in der Mail vom 18.09. — sie wird nicht
+verwendet und nicht erwähnt.**
+
+**Betreff:** `Re: Order #8312`
+
+> Dear Paul,
+>
+> **You have asked the same question four times — on 18 September, on
+> 22 September, on 25 September and on 29 September — and you have never once
+> been answered.** **You wrote that you had been consistent. You were. The
+> replies were not.**
+>
+> **Your question was how the return works. Here is the answer, and it is not
+> a good one: there is no returns address I can give you.** **Not one I am
+> withholding — one that does not exist on our side at the moment.** **That
+> is why you kept being offered a percentage instead of a process. Nobody
+> told you, and you should have been told on 22 September.**
+>
+> **So please do not post either toy anywhere, and please do not pay postage
+> expecting to be reimbursed.** **Keep both where they are, including the
+> unopened one.**
+>
+> **No third percentage is coming from me.** **You said plainly that you do
+> not want a partial refund, and I am not going to put a new number in front
+> of you as though that answered you.** **Your request — a full refund, with
+> both items available to return — goes to the shop owner today in your own
+> words.** **I cannot approve it from this desk and I am not going to refuse
+> you; that decision is his.** **I am not going to give you a date, because I
+> cannot stand behind one.**
+>
+> **There is something else in your first email that none of the four replies
+> touched, and it is the part that should have been handled first.** **You
+> wrote that you could not give the toys to your dog for fear of him
+> swallowing the fabric parts that detach.** **I am not going to tell you
+> that the toys are safe, and I am not going to tell you that they are not.**
+> **I am not in a position to make that judgement, and a reassurance from me
+> that I cannot stand behind would be worth nothing to you.** **It goes to
+> the owner today as a safety report in its own right, separately from the
+> refund, marked as such — which is how it should have gone on
+> 18 September.**
+>
+> **On the advertising: I cannot see what you were shown, so I am not going
+> to tell you what it said, and I am certainly not going to suggest you
+> misread it.** **What I can check, I have:** I have read all twelve of our
+> current product descriptions. **The word "indestructible" appears in none of
+> them.** **That is a statement about those twelve texts and nothing more.**
+> **Your wording goes to the owner exactly as you wrote it.**
+>
+> **What I am not going to do is tell you the guarantee covers the unopened
+> toy, or tell you it does not.** **That is his to answer.**
+>
+> **You mentioned our reviews.** **Nothing here is conditional on that, in
+> any direction.** **I am not asking you to change or remove anything, and
+> what you write publicly has no bearing on how your request is handled.**
+>
+> **You sent photographs. I have not opened them, and I am not asking you for
+> anything further.** **Nothing here depends on you proving anything** —
+> please keep them rather than deleting them.
+>
+> **I am not going to make any claim about the toys in either direction, and
+> I am drawing no conclusion from your dog.**
+>
+> You signed your last message "your regretful customer". I am not going to
+> argue with that either.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **endliche Antwort auf seine viermal gestellte Frage**
+— es gibt keine Rücksendeadresse, mit der offenen Einräumung, dass ihm das am
+22.09. hätte gesagt werden müssen; die **Warnung, kein Porto auszugeben**; die
+**Weitergabe seiner Forderung nach voller Erstattung im Wortlaut**; die
+**getrennte Weitergabe seiner Sicherheitssorge als Sicherheitsmeldung.**
+**Keine Erstattung zugesagt, kein Termin, keine Absage.** **🟥 KEINE dritte
+Prozentzahl und keine neue Angebotsvorlage.** **🟥 KEINE Aussage zur
+Sicherheit oder zum Material, in keine Richtung.** **Keine
+Garantieentscheidung, auch nicht für das ungeöffnete Teil.** **Nicht
+behauptet, die von ihm erinnerte Werbeaussage existiere nicht** — nur der
+Befund zu den zwölf Produkttexten. **🟥 Nichts an seine Bewertung geknüpft,
+nicht um Änderung oder Entfernung gebeten, die Plattform nicht
+thematisiert.** **🟥 Seine Telefonnummer wird nicht verwendet und nicht
+erwähnt.** **Fotos nicht geöffnet, kein Nachweis verlangt.** **Keine andere
+Frist als dreißig Tage genannt** (es wird keine genannt). **Keine Angaben aus
+dem Bestelldatensatz** — auch nicht die Lieferzeit, die er selbst nennt; seine
+Daten werden nur als seine wiedergegeben. **Nichts aus seinem Hund
+gefolgert.** Kein Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 
