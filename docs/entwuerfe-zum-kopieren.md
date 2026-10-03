@@ -8341,6 +8341,8 @@ Eskalationsmarker im Text.
 ---
 
 ## #5036 — Lynette Lumley (lynette_lumley@hotmail.com) — ⛔ 40 Tage, nie erhalten, Erstattungsbitte seit 10 Tagen unbeantwortet  
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #5036 confirmed
@@ -15719,6 +15721,8 @@ einen anderen Vornamen — **nicht geraten, nicht angesprochen**). Kein
 Eskalationsmarker im Text.
 
 ## #5036 — Lynette Lumley (lynette_lumley@hotmail.com) — GB, ⛔🔴 **nie zugestellt, dritte unbeantwortete Nachfrage, Ombudsman angekündigt**  
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Order #5036 confirmed - Refund email x 3
@@ -18870,6 +18874,8 @@ Anrede mit einem geratenen Namen** — er unterschreibt nicht. Kein
 Eskalationsmarker im Text.
 
 ## #5036 — Lynette Lumley (lynette_lumley@hotmail.com) — GB, **sechster Kontakt, Bewertung bereits abgegeben**
+
+**⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 
 **Betreff:** Re: Order #5036 confirmed - Refund email x 3
 
@@ -26700,6 +26706,111 @@ Versandmeldung wird nicht zitiert und nicht als Nachweis benutzt.** **Kein
 Trackingstatus, kein Verweis an den Zusteller.** **🟥 Sein Hinweis auf den
 kleinsten Hund wird ausdrücklich NICHT gegen ihn verwendet.** Kein
 Eskalationsmarker im Text.
+
+## #5036 — Lynette Lumley (`lynette_lumley@hotmail.com`), GB — **ZUSAMMENGEFÜHRT, zwei Threads** · 🟥 **Stornowunsch vom 07.09. nie ausgeführt; am 08.09. wurde ihr gesagt, das Paket sei geliefert; fünf Nachfragen unbeantwortet; letzte Antwort von uns am 10.09.** · 03.10.
+
+**✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diese Kundin. Alle früheren Fassungen in dieser Datei sind als ersetzt markiert.**
+
+**⚠️ Zwei Threads.** `Re: Order #5036 confirmed` (12 Nachrichten) und
+`Re: Order #5036 confirmed - Refund email x 3` (2 Nachrichten).
+**Antwort im zweiten, dem neueren.**
+
+**🟥 OHNE BESTELLDATEN — Shopify verlangt seit 01.10. 17:20 UTC eine neue
+Anmeldung. `orderCancel` und `refundCreate` sind ohnehin gesperrt.**
+
+**Der Verlauf (`get_thread`, beide Threads vollständig):**
+
+| Datum (UTC) | Was |
+|---|---|
+| 17.08. | *„Could I please enquire when this will be shipped?"* |
+| 18.08. | *„Your order will be shipped soon. **Our UK warehouse is currently sold out, so your order will be shipped from our international warehouse.**"* |
+| 30.08. | *„Is there any further update… It is a very very long time."* |
+| 01.09. | *„your order is on the way and currently in transit"* |
+| **07.09.** | *„**I think it is time to cancel this order please** - it has been over a month now and i still haven't received the items… **Delivery states up to 21 days**"* |
+| **08.09. 08:31** | **🟥 *„We have checked the latest tracking information, and it shows that your parcel **was delivered**"*** |
+| 08.09. 08:48 | *„**Rest assured we do not have the items.** The tracking for me says still in process?"* |
+| 09.09. 11:07 | *„the tracking information may still appear differently on your side…"* |
+| **09.09. 11:09** | *„I have checked around and asked neighbour's. They are not here… **please could you arrange a refund ASAP**"* |
+| 10.09. 10:29 | *„We have forwarded your case to the relevant team for investigation"* — **die letzte Antwort, die sie bekommen hat** |
+| **15.09.** | *„Do you have an update please, **you have my money and i have nothing**"* |
+| **17.09.** | *„Please could you update me… you have my money 🙁"* |
+| **22.09.** | **neuer Thread:** *„**This is my third email that you haven't replied too.** Very unimpressed. I would like to know where it is for my refund on undelivered dog toys… I will have to leave bad [reviews]"* |
+| **25.09.** | *„I am guessing that after looking at your disgraceful reviews to never expect a reply anymore. How disappointing and deceitful your business is. **How is your sleep at night!**"* |
+| seitdem | **nichts. Acht Tage.** |
+
+**🟥 Drei Dinge liegen hier offen:**
+1. **Ihr Stornowunsch vom 07.09. wurde nie ausgeführt und nie beantwortet.**
+2. **Am 08.09. wurde ihr gesagt, das Paket sei geliefert. Sie hat dem
+   widersprochen und bei Nachbarn nachgefragt.**
+3. **Seit dem 10.09. hat sie keine Antwort erhalten — dreiundzwanzig Tage** —
+   bei fünf Nachfragen.
+
+**Betreff:** `Re: Order #5036 confirmed - Refund email x 3`
+
+> Dear Lynette,
+>
+> **You have written five times since anyone last replied to you. The last
+> answer you received was on 10 September, and it said your case had been
+> forwarded for investigation. Twenty-three days later you have had nothing.
+> I am not going to explain that away.**
+>
+> **Three things from the record, so you know it has actually been read.**
+>
+> **First: on 7 September you asked to cancel the order.** **That request was
+> never answered and never carried out.** **I cannot cancel it from this desk
+> either — that is not something I am able to execute — so I am not going to
+> write that it has been cancelled.** **It goes to the shop owner today as the
+> cancellation request you made on 7 September, with that date.**
+>
+> **Second: on 8 September you were told that tracking showed your parcel had
+> been delivered.** **You replied the same morning that you did not have it
+> and had asked your neighbours.** **I am not going to repeat that claim to
+> you.** **I am not going to tell you the parcel was delivered, and I am not
+> going to tell you it was not — I cannot see anything from here that would
+> let me say either honestly, and a tracking line is not proof that something
+> reached you.** **I am also not going to send you to chase a courier.**
+> **What goes to the owner is your statement that the items never arrived, in
+> your words.**
+>
+> **Third: your request for a refund, made on 9 September, goes to him today
+> as well.** **I cannot approve it from this desk and I am not going to
+> refuse you.** **I am not going to give you a date, because I cannot stand
+> behind one.**
+>
+> **I am not going to quote you anything from our order system today** — it
+> is not readable from this desk, and a figure or a status I cannot check
+> would be worse than none.
+>
+> **You said you would leave reviews.** **That is entirely your decision. I
+> am not going to ask you not to, and nothing about how this is handled
+> depends on it.**
+>
+> **You asked how we sleep at night. I am not going to answer that with a
+> platitude.** **What I can do is make sure the three things above are in
+> front of the person who can act on them, with the dates attached, instead
+> of another sentence about an investigation.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **Weitergabe ihres Stornowunsches vom 07.09. mit
+Datum**, ihrer **Erstattungsforderung vom 09.09.** und ihrer Aussage, die Ware
+sei nie angekommen; die **offene Nennung der dreiundzwanzig Tage ohne
+Antwort.** **🟥 NICHT behauptet, die Bestellung sei storniert** — und offen
+gesagt, dass es von hier nicht ausführbar ist. **🟥 Die Behauptung vom 08.09.,
+das Paket sei geliefert, wird NICHT wiederholt** — und es wird **weder
+behauptet, es sei geliefert, noch, es sei nicht geliefert.** **Kein
+Trackingstatus genannt, keine Trackingnummer, kein Verweis an den Zusteller,
+Tracking ausdrücklich nicht als Nachweis behandelt.** **Keine Erstattung
+zugesagt, kein Termin, keine Absage.** **Keine neue Untersuchungs- oder
+Weiterleitungsformel ohne Inhalt.** **🟥 Zu ihrer Ankündigung, Bewertungen zu
+schreiben, wird NICHT um Zurückhaltung gebeten**, nichts daran geknüpft, keine
+Plattform benannt. **Keine Angaben aus dem Bestelldatensatz.** **Zur Herkunft
+der Ware wird nichts Neues gesagt** — die Auskunft vom 18.08. („international
+warehouse") wird nicht zurückgenommen und nicht ausgebreitet. **Ihre
+Bemerkung „How is your sleep at night" wird aufgegriffen, ohne sich zu
+rechtfertigen und ohne Floskel.** Kein Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 

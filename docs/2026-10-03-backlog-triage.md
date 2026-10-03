@@ -953,3 +953,67 @@ verwendet.**
 - **Mehrfachfassungen abgearbeitet: 30. Offen: 66.**
 - **🔴 Sicherheitsliste des Owners, alle vier jetzt mit geltendem Entwurf:**
   **#7608, #7749, #7324, #8312.** **Keiner davon ist beantwortet.**
+
+---
+
+## Lauf 13:20 UTC — Posteingang leer; #5036 abgearbeitet · 🟥 Storno nie ausgeführt, „parcel was delivered" gegen ihre Aussage
+
+*(Erst die Datei geschrieben und geprüft — Entwurf in Zeile 26877 —, dann
+dieser Eintrag.)*
+
+**Keine neue Kundennachricht.** Bearbeitet: **#5036 Lynette Lumley
+(`lynette_lumley@hotmail.com`), GB**, drei Fassungen, **beide Threads
+vollständig gelesen (12 + 2 Nachrichten).**
+
+| Datum (UTC) | Was |
+|---|---|
+| 17.08. | *„Could I please enquire when this will be shipped?"* |
+| 18.08. | *„…**Our UK warehouse is currently sold out, so your order will be shipped from our international warehouse.**"* |
+| 30.08. | *„It is a very very long time."* |
+| 01.09. | *„on the way and currently in transit"* |
+| **07.09.** | *„**I think it is time to cancel this order please** - it has been over a month… **Delivery states up to 21 days**"* |
+| **08.09. 08:31** | **🟥 *„…it shows that your parcel **was delivered**"*** |
+| 08.09. 08:48 | *„**Rest assured we do not have the items.** The tracking for me says still in process?"* |
+| **09.09. 11:09** | *„I have checked around and asked neighbour's. They are not here… **please could you arrange a refund ASAP**"* |
+| 10.09. 10:29 | *„forwarded your case to the relevant team for investigation"* — **die letzte Antwort, die sie bekommen hat** |
+| 15.09. / 17.09. | *„**you have my money and i have nothing**"* / *„you have my money 🙁"* |
+| **22.09.** | **neuer Thread:** *„**This is my third email that you haven't replied too.**… my refund on undelivered dog toys"* |
+| **25.09.** | *„How disappointing and deceitful your business is. **How is your sleep at night!**"* |
+| seitdem | **nichts. Acht Tage.** |
+
+**🟥 Drei Befunde:**
+1. **Der Stornowunsch vom 07.09. wurde nie beantwortet und nie ausgeführt.**
+2. **Am 08.09. wurde ihr gesagt, das Paket sei geliefert** — sie hat
+   widersprochen und bei Nachbarn nachgefragt.
+3. **Seit dem 10.09. keine Antwort — dreiundzwanzig Tage, bei fünf
+   Nachfragen.**
+
+**Im Entwurf ausdrücklich:** die Weitergabe des **Stornowunsches mit Datum**,
+der **Erstattungsforderung vom 09.09.** und ihrer Aussage, die Ware sei nie
+angekommen; die offene Nennung der dreiundzwanzig Tage.
+
+**Im Entwurf ausdrücklich NICHT:** **nicht behauptet, die Bestellung sei
+storniert** — und offen gesagt, dass es von hier nicht ausführbar ist; **die
+Zustellbehauptung vom 08.09. wird NICHT wiederholt**, und es wird **weder
+behauptet, das Paket sei geliefert, noch, es sei es nicht**; **kein
+Trackingstatus, Tracking ausdrücklich nicht als Nachweis, kein Verweis an den
+Zusteller**; **keine neue inhaltsleere Weiterleitungsformel**; **zu ihrer
+Ankündigung von Bewertungen nicht um Zurückhaltung gebeten**; keine Angaben
+aus dem Bestelldatensatz; **zur Herkunft der Ware nichts Neues** — die
+Auskunft vom 18.08. wird nicht zurückgenommen und nicht ausgebreitet.
+
+**Ihre Frage *„How is your sleep at night"* wird aufgegriffen, ohne Floskel
+und ohne Rechtfertigung.**
+
+**Drei frühere Fassungen als ERSETZT markiert.**
+
+**Keine Erstattung ausgelöst, nichts versendet.**
+
+### Stand
+
+- **Entwürfe in der Datei: 467.** **Geltende: 360.**
+- **Mehrfachfassungen abgearbeitet: 31. Offen: 65.**
+- **🔴 Stornowünsche, die nie ausgeführt wurden, jetzt drei:** **#8781**
+  (22 Minuten nach der Bestellung, trotzdem versandt), **#6793** (Storno
+  behauptet, nicht prüfbar), **#5036** (07.09., nie beantwortet) — **dazu
+  #8764 vom 02.10. mit Frist.**
