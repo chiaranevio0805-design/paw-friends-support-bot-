@@ -487,3 +487,31 @@ the correct one."*** — mit Wortlaut der Produktseite und beiden URLs.
 - **Kundschaft mit eigenem Werbebeleg in der Hand: 2** (#6311, Tamara
   Heathcote) — **beide Anhänge ungeöffnet, beide beim Owner angezeigt.**
 - **Nichts gesendet, keine Erstattung ausgelöst, nichts verändert.**
+
+---
+
+## Lauf 07:20 UTC — nichts Neues; Tagesreport (EN) vorbereitet
+
+**Posteingang: nichts Neues** (`newer_than:11h`).
+
+**Kein neuer Fall aufgenommen.** Dieser Lauf hat den **englischen Tagesreport**
+für den Berichtszeitraum **03.10. 08:13 → 04.10. 07:20 UTC** erstellt:
+`docs/2026-10-04-daily-report-en.md`. **Die Routine dafür läuft gegen 08:13
+UTC; der Text steht bereit und wird dann im Chat ausgegeben.**
+
+**Inhalt in Kürze:** der Richtlinien-Widerspruch an erster Stelle (14 gegen 30
+Tage, Bedingung gegen ausdrückliche Nicht-Beschränkung, keine Adresse auf
+beiden Seiten), **dann meine eigenen drei Fehler** (der 18.09.-Befund und die
+88 gesperrten Entwürfe, die nicht nachgezählten Entwurfszahlen, der sieben
+Wochen falsch geführte Name), **dann die Zahlen** (2 neue Nachrichten, 20
+Rückstandsfälle, 21 Entwürfe, **0 Erstattungen, 0 gesendete Mails**), **dann
+13 bestätigte „processed"-Briefe**, **5 unbeantwortete Sicherheitsmeldungen**,
+**2 Kunden mit dem Werbebeleg in der Hand**, **4 Doppelbriefe mit dem
+„Dear Customer"-Muster**, und zu jedem offenen Fall ein konkreter nächster
+Schritt.
+
+**Die Abweichung steht wieder offen drin:** **`create_draft` ist seit dem
+21.08. gesperrt, der Report liegt deshalb NICHT in den Gmail-Entwürfen**,
+sondern im Repository und im Chat.
+
+**Kein Entwurf geschrieben, keine Erstattung ausgelöst, nichts versendet.**
