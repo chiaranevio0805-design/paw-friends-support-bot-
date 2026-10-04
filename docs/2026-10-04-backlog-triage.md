@@ -593,3 +593,61 @@ zweite Stimme daneben.**
 
 **Für keinen dieser fünf Fälle ist heute ein Entwurf geschrieben worden.**
 **Sie stehen damit als offen im Abendreport.**
+
+---
+
+## 🟥🟥 Lauf 19:20 UTC — ABBRUCH: die Gmail-Verbindung hängt nicht mehr am Support-Postfach, sondern am PRIVATEN Postfach des Owners
+
+**Die Prüfung wurde begonnen und sofort abgebrochen. Es wurde nichts
+bearbeitet, nichts gelesen, nichts eskaliert.**
+
+### Was festgestellt wurde
+
+**Abfrage 1** (`in:inbox is:unread newer_than:10h`, nur Metadaten): **13
+Treffer — und bei JEDEM steht als Empfänger `chiaranevio0805@gmail.com`.**
+**Das ist das persönliche Postfach des Owners, nicht
+`support.pawfriends.uk@gmail.com`.**
+
+**Abfrage 2** (`to:support.pawfriends.uk@gmail.com newer_than:2d`):
+**leeres Ergebnis — `{}`.** **Das Support-Postfach ist über diese Verbindung
+derzeit nicht erreichbar.**
+
+**Schluss: das verbundene Konto hat sich mitten in der Sitzung geändert.**
+Alle Läufe bis einschließlich 10:17 UTC liefen gegen
+`support.pawfriends.uk@gmail.com` — dieser Lauf nicht mehr.
+
+### Was ich deshalb NICHT getan habe
+
+- **Ich habe das private Postfach des Owners NICHT triagiert.** Der Auftrag
+  lautet auf `support.pawfriends.uk@gmail.com`; ein anderes Postfach ist nicht
+  davon gedeckt, auch wenn es demselben Menschen gehört.
+- **Ich habe keine dieser 13 Nachrichten geöffnet.** Die Abfragen liefen
+  bewusst mit `THREAD_VIEW_METADATA_ONLY`, also **ohne Betreff und ohne
+  Textauszug.**
+- **Ich gebe den Inhalt und die Absender nicht wieder.** Darunter waren
+  erkennbar Zahlungsdienst-, Konto- und Plattformbenachrichtigungen —
+  **private Post, die in diesem Protokoll nichts zu suchen hat.**
+- **Kein Entwurf, keine Erstattung, keine Weitergabe.**
+
+### Was der Owner tun muss
+
+1. **Die Gmail-Verbindung wieder auf `support.pawfriends.uk@gmail.com`
+   setzen.** **Solange sie am privaten Postfach hängt, kann dieses Postfach
+   nicht betreut werden** — und ich werde es nicht ersatzweise am privaten
+   Postfach versuchen.
+2. **Prüfen, ob die Umstellung beabsichtigt war.** Wenn nicht, ist das ein
+   Zugriffsvorfall und keine Konfigurationsfrage. **Zur Erinnerung: am 26.09.
+   lief eine Passkey-Warnung ein, die bis heute ungeprüft ist.**
+
+### Stand der offenen Arbeit, unverändert
+
+- **Die fünf Fälle von heute früh sind weiter ohne Entwurf** — `richard@
+  brownwolf.net`, **#7347** Jill Hibbs, `laceymick31@gmail.com`, **#7982**,
+  Nigel Bennett. **Sie waren über die alte Verbindung erfasst und sind
+  dokumentiert; sie können ohne Postfachzugang nur nicht weiterbearbeitet
+  werden.**
+- **Vier Briefe sind heute früh aus dem Support-Postfach hinausgegangen**
+  (07:55–08:03). **Daran ändert der Verbindungswechsel nichts — im Gegenteil:
+  es sendet jemand oder etwas, das ich von hier nicht sehe.**
+- **Entwürfe: 483. Geltende: 362. Werbebefund-Sperre: 83.**
+- **Nichts gesendet, keine Erstattung ausgelöst, nichts verändert.**
