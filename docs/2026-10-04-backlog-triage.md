@@ -651,3 +651,19 @@ Alle Läufe bis einschließlich 10:17 UTC liefen gegen
   es sendet jemand oder etwas, das ich von hier nicht sehe.**
 - **Entwürfe: 483. Geltende: 362. Werbebefund-Sperre: 83.**
 - **Nichts gesendet, keine Erstattung ausgelöst, nichts verändert.**
+
+---
+
+## Zugangsausfall — Stundenprotokoll
+
+**Solange die Gmail-Verbindung nicht am Support-Postfach hängt, wird hier pro
+Lauf eine Zeile geführt, damit später niemand annimmt, das Postfach sei in
+dieser Zeit betreut worden.**
+
+| Lauf (UTC) | Gegenprobe `to:support.pawfriends.uk@gmail.com` | Ergebnis |
+|---|---|---|
+| **19:20** | `newer_than:2d` | **leer** — Verbindung am privaten Postfach, Lauf abgebrochen |
+| **20:20** | `newer_than:3d` | **leer** — unverändert, kein Zugang zum Support-Postfach |
+
+**In beiden Läufen: nichts gelesen, nichts bearbeitet, nichts gesendet, keine
+Erstattung, kein Entwurf.** **Das private Postfach wurde nicht triagiert.**
