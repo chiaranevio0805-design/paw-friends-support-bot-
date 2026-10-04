@@ -209,3 +209,59 @@ ausgeschlossen.
 - **Aus dem Befund erledigt: #7292, #5310, #5829. Noch offen: #7440, #4071
   und 83 weitere Entwürfe.**
 - **Nichts gesendet, keine Erstattung ausgelöst, nichts verändert.**
+
+---
+
+## Lauf 03:20 UTC — nichts Neues · #7440 Aaron Kell: eine Werbeaussage belegt, die andere nicht — und der Brief trennt das in beide Richtungen
+
+**Posteingang: nichts Neues** (`newer_than:7h`).
+
+### Der Fall
+
+**Thread vollständig gelesen (4 von 4), seine zweite Nachricht zusätzlich im
+Volltext.**
+
+| Datum (UTC) | Was |
+|---|---|
+| **19.09. 23:40** | *„…the fox has a hole in its forehead… the elks antlers are chewed off. **Such a joke of a product that is advertised that no dog has ever destroyed one**."* |
+| **22.09. 11:17:14** | **Kauschaden-Vorlage, „Dear Customer" — schon beim ERSTEN Kontakt** |
+| **23.09. 14:32** | *„The product is **marketed as indestructible**… **I shouldn't be penalized because your advertising is misleading**."* |
+| 28.09. 11:19 | zweite Vorlage, „Dear Customer" |
+| seitdem | **nichts. Sechs Tage.** |
+
+### 🟥 Warum dieser Brief wichtiger ist als er aussieht
+
+**Er enthält ZWEI Werbeaussagen, und sie stehen nicht gleich da:**
+
+| Seine Aussage | Befund |
+|---|---|
+| *„no dog has ever destroyed one"* | **der Sache nach belegt** — unsere Seite: **„40,000 dogs have tried. Not one has beaten them yet."**, **„Still undefeated"**. Nicht sein Wortlaut, dieselbe Behauptung. |
+| *„marketed as indestructible"* | **auf keiner abgerufenen Seite gefunden** — **und ausdrücklich nicht für nicht existent erklärt.** |
+
+**Der Brief sagt ihm beides und sagt, was jeweils geprüft wurde.** **Ihm
+pauschal recht zu geben wäre genauso falsch wie ihm pauschal zu
+widersprechen** — und genau diese Versuchung ist nach dem 21:20-Befund groß.
+**Die Konsequenz aus einem eigenen Fehler darf nicht der entgegengesetzte
+Fehler sein.**
+
+### 🟦 Drei Feststellungen, die Verwechslungen verhindern
+
+1. **Kein Doppelbrief.** Die 28.09.-Vorlage ist die zweite Variante, nicht die
+   Wiederholung der ersten. **Er gehört NICHT in die Doppelbrief-Liste** — das
+   steht ausdrücklich im Entwurfskopf.
+2. **Er hat nichts gefordert.** Kein Wort von Erstattung oder Ersatz; er
+   schreibt *„I shouldn't be penalized"*. **Das wird nicht umgedeutet, sondern
+   angeboten.**
+3. **🟥 Seine erste Vorlage ging am 22.09. um 11:17:14 hinaus — mitten im
+   bereits protokollierten Fenster 11:02:52–11:32:20.** **Damit ist belegt,
+   dass dieses Fenster nicht nur „processed"-Briefe enthielt, sondern ein
+   gemischter Stapellauf war.** Das verschiebt die Deutung: **nicht sechs
+   Einzelentscheidungen, sondern ein Durchlauf.**
+
+### Stand (in diesem Lauf gezählt)
+
+- **Entwürfe: 480. Ersetzt: 120. Geltende: 360. Werbebefund-Sperre: 84.**
+- **Mehrfachfassungen abgearbeitet: 40 von 96. Noch offen: 56.**
+- **Aus dem Befund erledigt: #7292, #5310, #5829, #7440. Noch offen: #4071
+  und 83 weitere Entwürfe.**
+- **Nichts gesendet, keine Erstattung ausgelöst, nichts verändert.**

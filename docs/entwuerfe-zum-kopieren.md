@@ -13520,6 +13520,8 @@ Herkunftsangabe.** **Keine Rücksendeadresse erfunden.** **Keine Umrechnung** �
 Eskalationsmarker im Text.
 
 ## #7440 — Aaron Kell (aaron.kell30@gmail.com) — US, Erstkontakt, „no dog has ever destroyed one"  
+
+**⚠️ ERSETZT durch den Entwurf vom 04.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
 **Betreff:** Re: Toy destroyed
@@ -17517,6 +17519,8 @@ verlangt.** **Foto nicht geöffnet.** **Keine Umrechnung** — 53,87 A$ ist der
 presentment-Betrag. Kein Eskalationsmarker im Text.
 
 ## #7440 — Aaron Kell (aaron.kell30@gmail.com) — US, zweiter Kontakt nach der Vorlage
+
+**⚠️ ERSETZT durch den Entwurf vom 04.10. — nur den neuesten senden.**
 
 **⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
@@ -28296,6 +28300,130 @@ Befugnis wird weder bestätigt noch bestritten**, mit sachlich genanntem Grund.
 Zitat existiere nicht.** **Keine vierte Vorlage.** **Keine
 Garantieentscheidung.** **Keine der drei Fristen als die geltende
 dargestellt.** **Nichts aus dem Hund gefolgert.** **Keine anderen
+Kundenvorgänge erwähnt.** **Nur absolute Datumsangaben.** Kein
+Eskalationsmarker im Text.
+
+## #7440 — Aaron Kell (`aaron.kell30@gmail.com`), US — **ZUSAMMENGEFÜHRT, 04.10. 03:20** · 🟥 **eine seiner beiden Werbeaussagen ist belegt, die andere nicht — und der Brief trennt das sauber** · 04.10.
+
+**✅ GEPRÜFT am 04.10. 03:20: Dies ist die geltende Fassung für diesen Kunden. Beide früheren Fassungen sind als ersetzt markiert.**
+
+**🟥 OHNE BESTELLDATEN — Shopify seit 01.10. 17:20 UTC nicht erreichbar.**
+
+**Der Verlauf (`get_thread`, 4 von 4 Nachrichten; seine zweite Nachricht
+zusätzlich im Volltext gelesen):**
+
+| Datum (UTC) | Was |
+|---|---|
+| **19.09. 23:40** | *„I just received my Elk and Fox toys for my Jack Russell and within a few days the fox has a hole in its forehead above the eyes and the elks antlers are chewed off. **Such a joke of a product that is advertised that no dog has ever destroyed one**."* |
+| **22.09. 11:17:14** | **Kauschaden-Vorlage, „Dear Customer" — schon beim ERSTEN Kontakt** |
+| **23.09. 14:32** | *„The product is **marketed as indestructible**, yet it was destroyed by a small breed dog in only a few days. If a product is advertised as something no dog can destroy, I expect it to hold up. **I shouldn't be penalized because your advertising is misleading**."* |
+| 28.09. 11:19 | **zweite Vorlage, „Dear Customer"** |
+| seitdem | **nichts. Sechs Tage.** |
+
+**🟦 Kein Doppelbrief** — die 28.09.-Vorlage ist die zweite Variante, nicht die
+Wiederholung der ersten. **Das wird hier festgehalten, damit er nicht
+fälschlich in die Doppelbrief-Liste gerät.**
+
+### 🟥 Zwei Aussagen, zwei verschiedene Befunde — und das ist der Kern dieses Briefs
+
+| Seine Aussage | Befund |
+|---|---|
+| *„advertised that **no dog has ever destroyed one**"* | **Der Sache nach belegt.** Unsere Produktseite sagt: **„40,000 dogs have tried. Not one has beaten them yet."**, dazu **„Still undefeated"**. **Nicht sein Wortlaut — dieselbe Behauptung.** |
+| *„marketed as **indestructible**"* | **NICHT gefunden.** Das Wort steht auf keiner der von mir abgerufenen Seiten. **Daraus folgt nicht, dass es nicht existiert** — nur, dass ich es nicht belegen kann. |
+
+**Diese Trennung muss im Brief stehen, und zwar in beide Richtungen.** **Ihm
+pauschal recht zu geben wäre genauso falsch wie ihm pauschal zu
+widersprechen.**
+
+**🟦 Er ist der zweite von drei Kunden mit der „no dog has ever"-Aussage** —
+nach Ellen Rosey (13.08.) und vor Heather Taylor (24.09.).
+
+**🟦 Er hat KEINE Erstattung und KEINEN Ersatz ausdrücklich gefordert.** Er
+schreibt *„I shouldn't be penalized"* — **das wird nicht in eine Forderung
+umgedeutet, sondern angeboten.**
+
+**Betreff:** `Re: Toy destroyed`
+
+> Dear Aaron,
+>
+> **You wrote twice and got the same standard letter twice, both times
+> addressed to "Dear Customer" — the first one before anyone had looked at
+> what you actually said. No third copy is coming from me.**
+>
+> **You made two claims about our advertising. They are not in the same
+> position, and I am going to tell you which is which rather than give you one
+> answer for both.**
+>
+> **The first one you are right about, and I am not going to be coy.** **You
+> wrote that the product is advertised as something no dog has ever destroyed.
+> Our own product page says, word for word: "40,000 dogs have tried. Not one
+> has beaten them yet." It also says "Still undefeated".** **Those are not
+> your exact words, so I am not going to claim you quoted us — but it is the
+> same claim, it is ours, and it is published.** **You did not imagine it.**
+>
+> **The second one I cannot confirm.** **You wrote that it is marketed as
+> "indestructible". I have read our product pages and that word is not on
+> them.** **I am not telling you it does not exist somewhere I cannot see — an
+> advertisement, a listing, an email — and I am certainly not suggesting you
+> made it up.** **I am telling you exactly what I checked and what I found, so
+> that you can judge the answer rather than take it on trust.**
+>
+> **Both of those go to the shop owner today in your own words, together with
+> your sentence that you should not be penalised for misleading advertising.**
+> **I am not going to defend our advertising to you and I am not going to rule
+> on whether it is misleading — that is not mine to decide in either
+> direction, and a support desk clearing its own employer would be worth
+> nothing to you.**
+>
+> **Now the part nobody has offered you.** **You have not actually asked me
+> for anything — you told us what happened and what you think of it. So I am
+> not going to put words in your mouth.** **If you want a refund, or a
+> replacement, say which and it goes to the owner as that request, in your
+> words.** **I cannot approve either from this desk and I am not going to
+> refuse you.** **I am not going to give you a date, because I cannot stand
+> behind one.**
+>
+> **One thing you should know before you spend anything: there is no returns
+> address I can give you.** **Neither of our two returns-policy pages names a
+> postal address, and both tell you to email this address.** **So please do
+> not post the toys back, and keep them where they are.**
+>
+> **And since one of those pages was quoted at you, you should have all of
+> it.** **The sentence in your letters — that the guarantee applies to items
+> returned unused and in their original condition — is on
+> https://paw-friends.uk/pages/refund-policy, which also says the window is
+> fourteen days, not thirty.** **Our other page,
+> https://paw-friends.uk/policies/refund-policy, says "30-day return policy"
+> and says the rights it describes "are not limited by the requirement that an
+> item be unused or in its original packaging".** **And the product page
+> promises "a full 30 days" with no condition at all.** **Three documents, and
+> they do not agree.** **Which one governs is the owner's to state, not mine,
+> and I am not going to tell you what the law makes of it.**
+>
+> **I am not going to make any claim about the toys in either direction, and I
+> am drawing no conclusion from your Jack Russell** — you mentioned yourself
+> that he is a small breed, and that is not something I am going to turn
+> around and use against you.
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **getrennte, in beide Richtungen ehrliche Auskunft zu
+seinen zwei Werbeaussagen** — die eine mit Wortlaut bestätigt, die andere
+ausdrücklich als „nicht gefunden, nicht widerlegt" bezeichnet; die **offene
+Benennung der zwei Vorlagenbriefe**; das **Angebot**, eine Erstattungs- oder
+Ersatzforderung weiterzugeben, falls er eine stellt; die **vollständige
+Offenlegung der drei widersprüchlichen Dokumente mit zwei URLs**; die
+**Warnung, kein Porto auszugeben.** **Keine Erstattung zugesagt, kein Ersatz
+zugesagt, kein Termin, keine Absage.** **🟥 Seine Nachricht wird NICHT in eine
+Forderung umgedeutet.** **🟥 KEINE Bewertung, ob die Werbung irreführend ist
+— in keine Richtung** — und **keine Verteidigung der Werbung.** **🟥 NICHT
+behauptet, „indestructible" existiere nicht** — nur, dass es auf den
+abgerufenen Seiten nicht steht. **Keine Garantieentscheidung.** **Keine der
+drei Fristen als die geltende dargestellt.** **Keine dritte Vorlage.**
+**Keine Angaben aus dem Bestelldatensatz.** **🟥 Sein eigener Hinweis auf die
+Größe seines Hundes wird nicht gegen ihn verwendet.** **Keine anderen
 Kundenvorgänge erwähnt.** **Nur absolute Datumsangaben.** Kein
 Eskalationsmarker im Text.
 
