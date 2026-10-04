@@ -665,6 +665,7 @@ dieser Zeit betreut worden.**
 | **19:20** | `newer_than:2d` | **leer** — Verbindung am privaten Postfach, Lauf abgebrochen |
 | **20:20** | `newer_than:3d` | **leer** — unverändert, kein Zugang zum Support-Postfach |
 | **21:20** | `newer_than:3d` | **leer** — unverändert |
+| **22:20** | `newer_than:4d` | **leer** — unverändert; vierter Lauf ohne Zugang |
 
 **In beiden Läufen: nichts gelesen, nichts bearbeitet, nichts gesendet, keine
 Erstattung, kein Entwurf.** **Das private Postfach wurde nicht triagiert.**
