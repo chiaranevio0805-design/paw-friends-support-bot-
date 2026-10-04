@@ -27492,7 +27492,7 @@ dieselbe Werbeaussage zitiert:**
 
 | Datum | Wer | Wortlaut |
 |---|---|---|
-| **13.08.** | **Ellen Rosey, #4071** | *„no dog has ever destroyed your furry animals!"* |
+| **12.08.** | **Ellen (#4071)** | *„no dog has ever destroyed your furry animals!"* |
 | **20./23.09.** | **Aaron Kell, #7440** | *„advertised that no dog has ever destroyed one"* |
 | **24.09.** | **Heather Taylor, #5310** | *„Your advertising says no dog has ever destroyed the toy"* |
 
@@ -27510,7 +27510,7 @@ Protokoll.**
 **Dort steht: *„You are the second customer this week to quote that same
 sentence back to us."*** **Das war schon damals schief und ist heute falsch:**
 **es sind drei Vorgänge über sechs Wochen, nicht zwei in einer Woche.**
-Ellen Rosey (#4071) hat denselben Satz bereits am **13.08.** zitiert — sechs
+Ellen (#4071) hat denselben Satz bereits am **12.08.** zitiert — sechs
 Wochen vor Heather Taylor. **Die neue Fassung nennt deshalb keine Woche,
 sondern die Zahl und den Zeitraum.**
 
@@ -27576,7 +27576,7 @@ Werbeaussage, die sie beim Namen genannt hat.**
 >
 > **What I am not going to do is tell you that your dogs were the first.**
 > **You wrote that there is no way they were, and I am not going to argue with
-> you about it. You are the third customer since 13 August to quote that same
+> you about it. You are the third customer since 12 August to quote that same
 > claim back to us in writing, and that goes to the owner as part of this.**
 >
 > **On your refund.** **You asked on 20 September to be told when it was
@@ -28100,7 +28100,7 @@ processed"* war ihre eigene Annahme, keine Zusage von uns.
 > **I am also not going to defend that sentence or tell you what it is worth.
 > It goes to the shop owner exactly as it stands, next to your message, and
 > what he does about it is his to answer.** **You are the third customer since
-> 13 August to quote that claim back to us.**
+> 12 August to quote that claim back to us.**
 >
 > **Now the condition that was quoted at you, because you are owed the whole
 > picture and not the convenient half of it.**
@@ -28336,7 +28336,7 @@ pauschal recht zu geben wäre genauso falsch wie ihm pauschal zu
 widersprechen.**
 
 **🟦 Er ist der zweite von drei Kunden mit der „no dog has ever"-Aussage** —
-nach Ellen Rosey (13.08.) und vor Heather Taylor (24.09.).
+nach Ellen (#4071, 12.08.) und vor Heather Taylor (24.09.).
 
 **🟦 Er hat KEINE Erstattung und KEINEN Ersatz ausdrücklich gefordert.** Er
 schreibt *„I shouldn't be penalized"* — **das wird nicht in eine Forderung
@@ -28426,6 +28426,156 @@ drei Fristen als die geltende dargestellt.** **Keine dritte Vorlage.**
 Größe seines Hundes wird nicht gegen ihn verwendet.** **Keine anderen
 Kundenvorgänge erwähnt.** **Nur absolute Datumsangaben.** Kein
 Eskalationsmarker im Text.
+
+## #4071 — Ellen (`ellenrosey@aol.com`), US — **ZUSAMMENGEFÜHRT für ZWEI Threads, 04.10. 04:20** · 🟥 **ELFTER „processed"-Fall — und mit dem 22.08. der FRÜHESTE** · 🟥 **Kreditkarten-Dispute lief schon, als sie die 20 % annahm** · 🟥 **ihre Nachricht vom 12.08. wurde nie beantwortet — 53 Tage** · 04.10.
+
+**✅ GEPRÜFT am 04.10. 04:20: ERSTER Entwurf für diese Kundin — es gab bisher KEINEN.** **Sie wurde am 13.08. eskaliert und ist danach in keiner Entwurfsdatei aufgetaucht; das ist eine eigene Lücke und sie wird hier benannt, nicht übergangen.**
+
+**🟥 OHNE BESTELLDATEN — Shopify seit 01.10. 17:20 UTC nicht erreichbar.
+Kein Betrag, keine Prozentzahl nachgerechnet.**
+
+### 🟦 Zuerst eine Namenskorrektur, die mir gehört
+
+**In meinen Unterlagen hieß sie bis heute durchgehend „Ellen Rosey".** **Das ist aus
+ihrer E-Mail-Adresse abgeleitet und nicht ihr Name.** **Im Thread erscheint
+sie als `ELLEN ROSENBLOOM <ellenrosey@aol.com>` und unterschreibt „Ellen".**
+**Der Brief sagt „Dear Ellen" — der Vorname ist belegt, der Nachname wird
+nicht verwendet.** **Genau derselbe Fehler, den ich bei #8712 vermeiden
+wollte, steckte seit dem 13.08. in meinen eigenen Akten.**
+
+### Der Verlauf — zwei Threads, beide vollständig gelesen
+
+| Datum (UTC) | Thread | Was |
+|---|---|---|
+| **12.08. 00:56** | *„…shipment from order #4071…"* | *„You advertise that **‚no dog has ever destroyed your furry animals!'** Wrong!!! My dog began to destroy the monkey in ten minutes by eating the arms!!!"* — **🟥 NIE BEANTWORTET. 53 Tage.** |
+| **18.08. 21:21** | *„Order received today--the adorable frog."* | *„within twenty minutes, the arms were destroyed. Took them out of the frog. Now she has eaten off one foot. **Would you like photos of your indestructible toy? Please advise.**"* |
+| **18.08. 21:26** | | *„forgot to mention: Order #4071"* |
+| 20.08. 11:19 | | Antwort: *„Our returns policy states that items must be **unused and in the** [same condition]…"* |
+| **20.08. 12:18** | | *„**I have already filed a dispute with the credit card company** about your faulty and ludicrous advertising… Clearly you cannot say ‚no dog has ever destroyed these toys!'"* |
+| 21.08. 18:33 | | Angebot: *„While our policy does not normally provide refunds…"* — **20 %** |
+| **21.08. 18:50** | | *„**Yes, of course. Thanks.** Ellen"* — **sie nimmt an** |
+| **22.08. 10:27** | | **🟥 *„We can confirm that your **20% partial refund has now been processed** and will be returned to your original payment method."*** |
+| seitdem | | **nichts. 43 Tage.** |
+
+### 🟥 Drei Befunde für den Owner
+
+1. **ELFTER bestätigter „processed"-Brief — und mit dem 22.08. der früheste
+   von allen.** Bisher war der älteste belegte Fall vom 02.09. **Das Muster
+   reicht damit einen Monat weiter zurück als bisher protokolliert.**
+2. **🟥 Sie hatte den Kreditkarten-Dispute am 20.08. bereits eingeleitet —
+   einen Tag BEVOR ihr die 20 % angeboten wurden und sie annahm.** **Wenn
+   beides lief, muss der Owner wissen, was tatsächlich geflossen ist.**
+   **Von hier ist das nicht prüfbar, und ich sage ihr weder, sie solle den
+   Dispute zurückziehen, noch, sie solle ihn weiterführen.**
+3. **Ihre erste Nachricht vom 12.08. ist nie beantwortet worden** — und sie
+   enthielt genau die Werbeaussage, die inzwischen drei Kunden zitiert haben.
+   **Hätte jemand ihr am 12.08. geantwortet, wäre dieser Befund sieben Wochen
+   früher aufgefallen.**
+
+### 🟦 Ihre zwei Werbeaussagen, getrennt geprüft
+
+| Ihre Aussage | Befund |
+|---|---|
+| *„no dog has ever destroyed your furry animals"* | **der Sache nach belegt** — unsere Seite: **„40,000 dogs have tried. Not one has beaten them yet."**, **„Still undefeated"** |
+| *„your **indestructible** toy"* | **auf keiner abgerufenen Seite gefunden** — nicht widerlegt, nur nicht belegbar |
+
+**Betreff:** `Re: Order received today--the adorable frog.`
+
+> Dear Ellen,
+>
+> **I am writing about two things that were never answered, and one that was.**
+>
+> **First, the one nobody answered at all.** **You wrote on 12 August about
+> the monkey and about our advertising. That message got no reply. Not a late
+> one — none.** **You also asked, on 18 August, whether we would like
+> photographs, and asked us to advise. Nobody answered that either.** **You do
+> not need to send anything: nothing here depends on you proving what
+> happened.**
+>
+> **Second, the advertising, because you were right and nobody told you so.**
+> **You wrote that we advertise that no dog has ever destroyed our furry
+> animals. Our own product page says, word for word: "40,000 dogs have tried.
+> Not one has beaten them yet." It also says "Still undefeated".** **Those are
+> not your exact words, so I am not going to claim you quoted us — but it is
+> the same claim, it is ours, and it is published.** **You wrote "clearly you
+> cannot say" that, and I am not going to argue with you about it.** **What I
+> am also not going to do is rule on whether it is misleading, or defend it.
+> That is the shop owner's to answer, and your words are in front of him
+> today.**
+>
+> **You also called it "your indestructible toy". I have read our product
+> pages and that word is not on them.** **I am not telling you it does not
+> exist somewhere I cannot see, and I am certainly not suggesting you made it
+> up — I am telling you what I checked, so you can judge the answer rather
+> than take it on trust.**
+>
+> **Third, your refund, and this is why I am writing now.** **On 22 August you
+> were told that your 20 per cent partial refund "has now been processed" to
+> your original payment method.** **I cannot confirm from here that it was,
+> and that same sentence went to other customers in circumstances where it did
+> not hold.** **I am not telling you your refund failed — I genuinely do not
+> know, and I am not going to guess in either direction.** **What I am doing
+> is making sure you are not sitting quietly assuming money arrived that may
+> not have.**
+>
+> **Please check the account you paid from.** **If it is there, this message
+> needs nothing from you and I am sorry for the interruption.** **If it is not
+> there, reply and say so, and it goes straight to the owner as a payment
+> confirmed to you in writing on 22 August and not received.** **I cannot
+> release a payment from this desk and I am not going to give you a date.**
+> **I am not going to quote you a figure or recalculate the percentage** — it
+> is the one you accepted on 21 August.
+>
+> **About the dispute you filed with your card company on 20 August: that is
+> entirely your business.** **I am not going to ask you to withdraw it, I am
+> not going to advise you to pursue it, and nothing about how this is handled
+> depends on it.** **I am telling the owner it exists, because if a refund and
+> a dispute were both in play he needs to know and I cannot see which of them
+> moved.**
+>
+> **One practical thing, since one of our pages was quoted at you on
+> 20 August.** **That sentence — that items must be unused and in the same
+> condition — is on https://paw-friends.uk/pages/refund-policy, which also
+> says the window is fourteen days, not thirty.** **Our other page,
+> https://paw-friends.uk/policies/refund-policy, says "30-day return policy"
+> and says the rights it describes "are not limited by the requirement that an
+> item be unused or in its original packaging".** **And the product page
+> promises "a full 30 days" with no condition at all.** **Three documents, and
+> they do not agree. Which one governs is the owner's to state, not mine.**
+> **Neither of the two policy pages gives a postal address, so please do not
+> post anything back.**
+>
+> **I am not going to make any claim about the toys in either direction, and I
+> am drawing no conclusion from your dog.**
+>
+> **Seven weeks of silence after you had already been told the money was on
+> its way is not something I can explain, and I am not going to try.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Benennung der nie beantworteten Nachricht vom
+12.08. und der nie beantworteten Fotofrage**; die **ausdrückliche Bestätigung,
+dass ihre Werbeaussage veröffentlicht ist, mit Wortlaut**; die **getrennte,
+ehrliche Auskunft zu „indestructible"** — nicht gefunden, nicht widerlegt; die
+**Bitte, das Konto zu prüfen**, und die Zusage, eine fehlende Zahlung
+weiterzugeben; die **Mitteilung an den Owner, dass ein Dispute existiert**;
+die **vollständige Offenlegung der drei widersprüchlichen Dokumente mit zwei
+URLs**; die **Warnung, kein Porto auszugeben.** **🟥 NICHT behauptet, die
+Erstattung sei ausgeführt — und NICHT behauptet, sie sei es nicht.** **Die
+„processed"-Zusage wird nicht wiederholt.** **Kein Betrag, keine Prozentzahl
+nachgerechnet, nichts umgerechnet.** **Kein Termin, keine Absage, keine
+Erstattung zugesagt.** **🟥 KEINE Empfehlung zum Kreditkarten-Dispute — weder
+Rückzug noch Weiterverfolgung, nichts daran geknüpft.** **🟥 KEINE Bewertung,
+ob die Werbung irreführend ist, und keine Verteidigung der Werbung.** **Keine
+Garantieentscheidung.** **Keine der drei Fristen als die geltende
+dargestellt.** **Kein Nachweis verlangt, keine Fotos angefordert.** **Keine
+Angaben aus dem Bestelldatensatz.** **🟥 Nur der belegte Vorname** — der
+Nachname aus der Adresse wird NICHT verwendet. **Andere Kunden werden erwähnt,
+aber NICHT benannt und ihre Vorgänge nicht beschrieben.** **Nichts aus ihrem
+Hund gefolgert.** **Nur absolute Datumsangaben.** Kein Eskalationsmarker im
+Text.
 
 ## Was hier bewusst NICHT steht
 

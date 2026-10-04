@@ -98,10 +98,8 @@ Thread-ID, Nachrichten im Thread, davon ausgehend, letzte Aktivität.
 | `charlielongworth12@icloud.com` | `1a0376b54bab04bc` | 4 | 2 | 2026-08-29 |
 | `dfutrel@gmail.com` | `1a08808f023737bd` | 2 | 1 | 2026-09-11 |
 | `dirrall@aol.com` | `1a0239fa2cc993c3` | 12 | 3 | 2026-09-04 |
-| `ellenrosey@aol.com` | `1a016c0b60a3c292` | 7 | 3 | 2026-08-22 |
 | `fpierce1967@gmail.com` | `1a090c6775a88b50` | 4 | 2 | 2026-09-15 |
 | `greggz@live.co.uk` | `1a0637b01192bc3e` | 14 | 3 | 2026-09-28 |
-| `ilovenails2@msn.com` | `1a0100d5e4c9f02a` | 18 | 3 | 2026-09-21 |
 | `jms7172@yahoo.com` | `1a05332a16a91837` | 6 | 3 | 2026-09-04 |
 | `johnrabbott1@gmail.com` | `1a03e29dd9136163` | 8 | 3 | 2026-09-13 |
 | `karenbionomics@gmail.com` | `1a0669a67dd7ec41` | 6 | 3 | 2026-09-08 |
@@ -136,3 +134,31 @@ Thread-ID, Nachrichten im Thread, davon ausgehend, letzte Aktivität.
   Shopify ist kein Bestellwert abrufbar. **Eine Summe wäre geraten.**
 - **Keine Bewertung, wie es dazu kam.** Ob Vorlagenfehler, Automatik oder
   etwas anderes, ist von hier nicht feststellbar.
+
+---
+
+## Nachtrag 04.10. — zwei Kandidaten sind jetzt Befunde, und einer verschiebt den Anfang
+
+**`ilovenails2@msn.com` — Carolyn Marmalejo** (geprüft 03.10. 21:20):
+**21.09. 09:34:50**, *„We can confirm that your **full refund for the unused
+toys has been processed** to your original payment method."* **Zehnter
+bestätigter Fall — und der erste, der eine VOLLE Erstattung bestätigt.**
+Sie hatte **siebenmal** nach der Rücksendeadresse gefragt; Angebotsleiter
+30 → 35 → 50 → 60 %.
+
+**`ellenrosey@aol.com` — Ellen, #4071** (geprüft 04.10. 04:20):
+**22.08. 10:27**, *„We can confirm that your **20% partial refund has now been
+processed** and will be returned to your original payment method."*
+**ELFTER bestätigter Fall — und mit dem 22. August der FRÜHESTE von allen.**
+**Das Muster reicht damit einen Monat weiter zurück als bisher protokolliert.**
+**Zusätzlich: sie hatte am 20.08. bereits einen Kreditkarten-Dispute
+eingeleitet — einen Tag bevor ihr die 20 % angeboten wurden und sie annahm.**
+**Ihre erste Nachricht vom 12.08. ist nie beantwortet worden.**
+
+**Stand: 11 bestätigte „processed"-Briefe. Ungeprüfte Kandidaten: 32.**
+
+**🟦 Zur Zeitachse:** die Briefe verteilen sich jetzt auf **22.08.**,
+**02.–04.09.**, **21.09.** und **22.09.** **Das 22.09.-Fenster (11:02:52 bis
+11:32:20) ist zudem als gemischter Stapellauf belegt** — um 11:17:14 ging
+darin eine Kauschaden-Vorlage an #7440 hinaus. **Es waren keine sechs
+Einzelentscheidungen.**

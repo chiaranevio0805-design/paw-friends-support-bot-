@@ -265,3 +265,90 @@ Fehler sein.**
 - **Aus dem Befund erledigt: #7292, #5310, #5829, #7440. Noch offen: #4071
   und 83 weitere Entwürfe.**
 - **Nichts gesendet, keine Erstattung ausgelöst, nichts verändert.**
+
+---
+
+## Lauf 04:20 UTC — nichts Neues · 🟥 #4071 Ellen: ELFTER „processed"-Fall und der FRÜHESTE · 🟥 eine Namenskorrektur, die mir gehört
+
+**Posteingang: nichts Neues** (`newer_than:8h`).
+
+**Der letzte der vier Fälle aus dem Werbebefund — und der Thread hat drei
+Dinge hergegeben, die ich nicht erwartet hatte.**
+
+### 🟦 Zuerst mein eigener Fehler: ich habe sie sieben Wochen falsch genannt
+
+**In allen meinen Unterlagen heißt sie „Ellen Rosey".** **Das ist aus ihrer
+E-Mail-Adresse `ellenrosey@aol.com` abgeleitet und nicht ihr Name.** **Im
+Thread erscheint sie als `ELLEN ROSENBLOOM` und unterschreibt „Ellen".**
+
+**Das ist genau der Fehler, den ich gestern um 23:20 bei #8712 vermeiden
+wollte — und er steckte seit dem 13.08. in meinen eigenen Akten.** **Der
+Entwurf sagt „Dear Ellen": der Vorname ist belegt, der Nachname wird nicht
+verwendet.** **Die Namensform ist in den heutigen Entwürfen korrigiert; die
+alten Protokolleinträge bleiben stehen.**
+
+**Zweite Korrektur dazu:** **ihre Nachricht ist vom 12.08. 00:56 UTC**, nicht
+vom 13.08. — der 13.08. war der Tag, an dem sie eskaliert wurde. **In den
+Entwürfen von #5310 und #7440 stand das falsche Datum; beide sind
+richtiggestellt.**
+
+### 🟥 Befund 1: ELFTER bestätigter „processed"-Brief — und der früheste
+
+**22.08. 10:27 UTC:** *„We can confirm that your **20% partial refund has now
+been processed** and will be returned to your original payment method."*
+**Seitdem 43 Tage nichts.**
+
+**Bisher war der älteste belegte Fall vom 02.09.** **Das Muster reicht damit
+einen Monat weiter zurück als bisher protokolliert.** Die Briefe verteilen
+sich jetzt auf **22.08.**, **02.–04.09.**, **21.09.** und **22.09.**
+
+### 🟥 Befund 2: der Kreditkarten-Dispute lief schon, als sie annahm
+
+| Datum (UTC) | Was |
+|---|---|
+| **20.08. 12:18** | *„**I have already filed a dispute with the credit card company** about your faulty and ludicrous advertising…"* |
+| 21.08. 18:33 | **Angebot: 20 %** |
+| **21.08. 18:50** | *„Yes, of course. Thanks. Ellen"* — **sie nimmt an** |
+| **22.08. 10:27** | **„20% partial refund has now been processed"** |
+
+**Der Dispute war einen Tag vor dem Angebot eingeleitet.** **Wenn beides lief,
+muss der Owner wissen, was tatsächlich geflossen ist — von hier ist das nicht
+prüfbar.** **Der Entwurf sagt ihr weder, sie solle den Dispute zurückziehen,
+noch, sie solle ihn weiterführen**, und knüpft nichts daran.
+
+### 🟥 Befund 3: ihre erste Nachricht ist nie beantwortet worden
+
+**12.08. 00:56:** *„You advertise that **‚no dog has ever destroyed your furry
+animals!'** Wrong!!! My dog began to destroy the monkey in ten minutes by
+eating the arms!!!"* — **53 Tage, keine Antwort. Nicht eine späte: keine.**
+
+**Hätte ihr am 12.08. jemand geantwortet, wäre der Werbebefund sieben Wochen
+früher aufgefallen.** **Sie war die Erste, die es geschrieben hat.**
+
+**Dazu unbeantwortet: ihre Frage vom 18.08., ob wir Fotos haben wollen**
+(*„Please advise."*). **Der Entwurf sagt ihr, dass sie nichts nachweisen
+muss.**
+
+### 🟦 Ihre zwei Werbeaussagen, getrennt geprüft
+
+| Ihre Aussage | Befund |
+|---|---|
+| *„no dog has ever destroyed your furry animals"* | **der Sache nach belegt** — **„40,000 dogs have tried. Not one has beaten them yet."**, **„Still undefeated"** |
+| *„your **indestructible** toy"* (18.08.) | **nicht gefunden** — und nicht für nicht existent erklärt |
+
+### 🟦 Und eine Lücke, die mir gehört
+
+**Für sie gab es bis heute KEINEN Entwurf.** **Sie wurde am 13.08. eskaliert
+und ist danach in keiner Entwurfsdatei wieder aufgetaucht.** **Das steht so im
+Entwurfskopf, nicht stillschweigend korrigiert.**
+
+### Stand (in diesem Lauf gezählt)
+
+- **Entwürfe: 481. Ersetzt: 120. Geltende: 361. Werbebefund-Sperre: 84.**
+- **Bestätigte „processed"-Briefe: 11.** Ungeprüfte Kandidaten: **32.**
+  `docs/processed-zusagen-pruefliste.md` ist nachgetragen.
+- **Alle vier Fälle aus dem Werbebefund sind jetzt abgearbeitet** — #7292,
+  #5310, #5829, #7440, #4071 (fünf, weil #7292 dazugehört).
+- **Offen: 83 gesperrte Entwürfe, bei denen nur der Satz über die zwölf Texte
+  zu streichen oder zu präzisieren ist.**
+- **Nichts gesendet, keine Erstattung ausgelöst, nichts verändert.**
