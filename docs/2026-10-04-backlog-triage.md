@@ -515,3 +515,81 @@ Schritt.
 sondern im Repository und im Chat.
 
 **Kein Entwurf geschrieben, keine Erstattung ausgelöst, nichts versendet.**
+
+---
+
+## 🟥🟥 Läufe 08:20–18:20 UTC — AUSGEFALLEN. Elf Stundenläufe ohne Arbeit, und in dieser Zeit sind FÜNF Threads gelaufen
+
+**Das ist kein Werkzeugfehler. Die Läufe sind ausgelöst worden, und ich habe
+sie nicht abgearbeitet.** **Elf Firings zwischen 08:17 und 18:18 UTC, dazu der
+englische Tagesreport um 08:13 — nichts davon wurde ausgeführt.**
+
+**Was dabei liegen geblieben ist:**
+
+1. **Der englische Tagesreport vom 08:13 ist NICHT ausgeliefert worden.**
+   Die Datei `docs/2026-10-04-daily-report-en.md` war um 07:20 fertig; **sie
+   wurde nie im Chat ausgegeben und es wurde nie versucht, einen
+   Gmail-Entwurf anzulegen.**
+2. **Die Posteingangsprüfung um 10:17 hat FÜNF Threads mit neuen Nachrichten
+   von heute gefunden — und keiner davon wurde bearbeitet, protokolliert oder
+   eskaliert.** Acht Stunden lang.
+
+**Ich schreibe das hier auf, weil der Owner wissen muss, dass dieses Postfach
+heute acht Stunden unbeaufsichtigt war** — nicht, weil es für die Akte
+hübscher aussieht.
+
+### 🟥🟥 DER BEFUND, DER ALLES ÄNDERT: dieses Postfach SENDET — heute früh vier Briefe
+
+**In der 10:17-Abfrage stehen vier ausgehende Nachrichten von HEUTE, alle mit
+`labelIds: SENT`:**
+
+| Zeit (UTC) | An | Was hinausging | Reaktion |
+|---|---|---|---|
+| **07:55:26** | `richard@brownwolf.net` | **70 % Teilerstattung** angeboten — nach 30 %, 50 % und 60 %, die er alle abgelehnt hat | **08:18:** *„I don't want to accept any partial refund. The goods supplied…"* |
+| **07:56:13** | `hibbsjill@yahoo.com` (#7347) | **60 % Teilerstattung** angeboten | **09:29:** *„I do not want to keep it I just want a full refund once I have returned it!"* |
+| **07:57:42** | `laceymick31@gmail.com` | **zweite Kauschaden-Vorlage, „Dear Customer"** | **10:10:** zitiert UK-Verbraucherrecht |
+| **08:03:18** | `mrodonnell66@gmail.com` (#7982) | **Eingangs-Kauschaden-Vorlage, „Dear Customer"** | **08:38:** *„that is just rubbish… Your item claimed to be indestructible… fails to meet the requirement of Consumer Law"* |
+
+**🟥 Die Annahme „dieses Postfach kann nicht senden" beschreibt MEINE
+Werkzeuge — nicht das Postfach.** **Es wird weiter geantwortet, mit genau den
+Vorlagen und genau der Prozent-Leiter, die dieser Rückstand seit Wochen als
+schädlich dokumentiert.** **Und zwar heute, Stunden nachdem der Befund über
+die drei widersprüchlichen Richtlinienseiten im Repository lag.**
+
+**Das gehört in jeden künftigen Report an erster Stelle:** **solange parallel
+gesendet wird, sind meine Entwürfe nicht die Antwort des Hauses, sondern eine
+zweite Stimme daneben.**
+
+### Die fünf Threads im Einzelnen — alle unbearbeitet
+
+1. **🔴 `richard@brownwolf.net` — Prozent-Leiter 30 → 50 → 60 → 70 %, viermal
+   abgelehnt.** Er schreibt **„no-quibble"** und *„goods that aren't fit for
+   the advertised purpose"*, und er hat **nach der Geschäftsadresse gefragt**
+   (Betreff: *„Refund request and business address request"*). **Ware ist
+   ungeöffnet und unbenutzt — nach unserer eigenen Richtlinie A also genau der
+   Fall, der erstattungsfähig wäre.** **15 Nachrichten.**
+2. **🔴 `hibbsjill@yahoo.com` (#7347) — Jill Hibbs**, bittet seit dem 24.09.
+   **wiederholt um die Rücksendedetails** (*„Please send me the return
+   details"*, 30.09.) und bekommt stattdessen 50 %, dann 60 %. **Heute:**
+   *„I do not want to keep it I just want a full refund once I have returned
+   it!"* **13 Nachrichten.**
+3. **🔴 `laceymick31@gmail.com` — Mick Lacey.** **🟥 Am 30.09. schreibt er:**
+   *„I have been talking to a friend who bought one of your toys, and it was
+   destroyed quickly, **you sent him a new toy free of charge**, can you
+   explain why you do that for one and not for me?"* — **das ist der erste
+   konkrete Hinweis darauf, dass ein Gratis-Ersatz tatsächlich geleistet
+   wurde.** **Das betrifft unmittelbar die fünf Kunden, die sich auf eine
+   Ersatzzusage berufen.** Dazu zitiert er UK-Verbraucherrecht.
+4. **🔴 `mrodonnell66@gmail.com` (#7982) — zwei Hunde (Pudel und Corgi), beide
+   Plüschtiere am ersten Nachmittag zerstört; beruft sich auf
+   „indestructible" und Verbraucherrecht.** **Er stand bereits auf der
+   Übertragsliste vom 29.09.** — und hat heute die Eingangsvorlage bekommen.
+5. **🟦 `nigel.1966@hotmail.co.uk` — Nigel Bennett, NEUE Nachricht 08:54:**
+   *„My Labrador has now pulled the stuffing out of the toy. Sorry but I hoped
+   it would last longer than a charity shop toy? **Please advise**."*
+   **Er ist bereits vom 02.09. bekannt; das ist sein zweiter Kontakt.**
+   **Füllmaterial heraus — aber er erhebt KEINE Sicherheitsmeldung, und es
+   wird ihm keine unterstellt.**
+
+**Für keinen dieser fünf Fälle ist heute ein Entwurf geschrieben worden.**
+**Sie stehen damit als offen im Abendreport.**
