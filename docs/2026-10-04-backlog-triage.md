@@ -153,3 +153,59 @@ Bedingung „unbenutzt" vorgehalten wurde.**
 - **Entwürfe: 478. Ersetzt: 117. Geltende: 361. Werbebefund-Sperre: 86.**
 - **Noch offen aus dem Befund: #5829, #7440, #4071 und 83 weitere Entwürfe.**
 - **Nichts gesendet, keine Erstattung ausgelöst, nichts verändert.**
+
+---
+
+## Lauf 02:20 UTC — nichts Neues · 🟥 #5829 richtiggestellt: sein Nahtzitat ist der Sache nach belegt — und unsere zweite Richtlinienseite spricht gegen die Bedingung, mit der er dreimal abgewiesen wurde
+
+**Posteingang: nichts Neues** (`newer_than:6h`).
+
+### 🟥 Zwei Korrekturen, die zweite ist die schwerere
+
+**1. Das Nahtzitat.** Die Fassung von gestern 11:20 sagt: *„‚Double stitching'
+I could not find in any of the twelve current product descriptions I have
+read."* **Auf der Live-Fluffies-Seite steht „Triple-stitched at every seam"
+und „Double-layer cord shell".**
+
+**Der neue Brief sagt beides:** **nicht sein Wortlaut** — ich behaupte
+ausdrücklich **nicht**, er habe wörtlich zitiert — **aber dieselbe
+Bauweisenbehauptung, und sie ist veröffentlicht.** *„I am certainly not going
+to tell you that you made it up."*
+
+**2. 🟥 Die Bedingung, unter der er dreimal abgewiesen wurde, wird von unserer
+eigenen zweiten Richtlinienseite nicht gestützt.**
+**`/policies/refund-policy` sagt wörtlich, die dort genannten Rechte seien
+*„not limited by the requirement that an item be unused or in its original
+packaging"*.** **Er hatte eine förmliche Zurückweisung nach CRA 2015
+geschrieben und bekam dreimal genau diese Bedingung vorgehalten.**
+
+**Das steht jetzt in seinem Brief — mit beiden URLs, mit der 14-gegen-30-Tage-
+Abweichung und mit der bedingungslosen Zusage der Produktseite.** **Ohne jede
+rechtliche Bewertung:** *„I am not going to tell you what any of that means
+legally — not for the Consumer Rights Act, not for anything else."*
+
+**Begründung, warum er es trotzdem erfährt:** **drei Antworten haben eine
+unserer Seiten gegen ihn zitiert, ohne die beiden anderen zu erwähnen.**
+**Das ist der Punkt, an dem Schweigen keine Zurückhaltung mehr wäre, sondern
+Verschleierung** — und die ist nach der Richtlinie dieses Postfachs
+ausgeschlossen.
+
+### Unverändert streng gehalten
+
+- **🟥 KEINE Bestelldaten an David Coles** — die Bestellung läuft auf Tasmin
+  Hunts Namen, **seine Befugnis wird weder bestätigt noch bestritten**, der
+  Grund wird ihm sachlich genannt. **Die beiden URLs sind öffentliche Seiten,
+  keine Bestelldaten.**
+- **Keine Aussage zu Bank oder Citizens Advice**, nicht um Aufschub gebeten.
+- **Keine vierte Vorlage, keine Garantieentscheidung, keine Erstattungszusage,
+  kein Termin, keine Absage.**
+- **Keine der drei Fristen als die geltende dargestellt.**
+- **Die übrigen von ihm zitierten Formulierungen werden bestätigt** —
+  Produkttitel, „Anti-tear design", „Rope-reinforced construction".
+
+### Stand (in diesem Lauf gezählt)
+
+- **Entwürfe: 479. Ersetzt: 118. Geltende: 361. Werbebefund-Sperre: 85.**
+- **Aus dem Befund erledigt: #7292, #5310, #5829. Noch offen: #7440, #4071
+  und 83 weitere Entwürfe.**
+- **Nichts gesendet, keine Erstattung ausgelöst, nichts verändert.**

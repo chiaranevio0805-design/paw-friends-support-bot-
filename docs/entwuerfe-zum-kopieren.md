@@ -261,6 +261,8 @@ Chargeback ausgelöst.
 
 ## #5829 — tazzyhunt1@hotmail.co.uk, cc david.coles1990@gmail.com — förmliche Rüge nach CRA 2015  
 
+**⚠️ ERSETZT durch den Entwurf vom 04.10. — nur den neuesten senden.**
+
 **⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
@@ -2800,6 +2802,8 @@ kein Betrag. Der Policy-Einwand wird **eingeräumt**.
 ---
 
 ## 🚩🚩 #5829 — david.coles1990@gmail.com, cc tazzyhunt1@hotmail.co.uk — ZWEITE FASSUNG
+
+**⚠️ ERSETZT durch den Entwurf vom 04.10. — nur den neuesten senden.**
 
 **⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 
@@ -26695,6 +26699,8 @@ wird nicht kommentiert und nicht zugeordnet.** Kein Eskalationsmarker im Text.
 
 ## #5829 — Tasmin Hunt (`tazzyhunt1@hotmail.co.uk`), vertreten durch David Coles (`david.coles1990@gmail.com`), GB — **ZUSAMMENGEFÜHRT** · 🟥 **förmliche Zurückweisung nach CRA 2015 — DREIMAL mit der Kauschaden-Vorlage beantwortet, die dritte war die Eingangsvorlage** · 03.10.
 
+**⚠️ ERSETZT durch den Entwurf vom 04.10. — nur den neuesten senden.**
+
 **⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diesen Fall. Beide früheren Fassungen in dieser Datei sind als ersetzt markiert.**
@@ -28167,6 +28173,131 @@ verlangt.** **Keine Angaben aus dem Bestelldatensatz.** **Keine anderen
 Kundenvorgänge beschrieben** — nur Zahl und Zeitraum. **Nichts aus ihren
 Hunden gefolgert.** **Nur absolute Datumsangaben.** Kein Eskalationsmarker im
 Text.
+
+## #5829 — Tasmin Hunt (`tazzyhunt1@hotmail.co.uk`), vertreten durch David Coles (`david.coles1990@gmail.com`), GB — **ZWEITE FASSUNG, 04.10. 02:20** · 🟥 **sein Nahtzitat ist der Sache nach belegt — die Fassung von gestern sagt, es sei nicht gefunden** · 🟥 **und unsere eigene zweite Richtlinienseite spricht gegen die Bedingung, mit der er dreimal abgewiesen wurde** · 04.10.
+
+**✅ GEPRÜFT am 04.10. 02:20: Dies ist die geltende Fassung. Alle drei früheren Fassungen sind als ersetzt markiert.**
+
+**🟥 WARUM EINE NEUE FASSUNG — zwei Gründe, und der zweite ist der schwerere:**
+
+1. **Die Fassung von gestern 11:20 sagt: *„‚Double stitching' I could not find
+   in any of the twelve current product descriptions I have read."***
+   **Auf der Live-Fluffies-Seite steht „Triple-stitched at every seam" und
+   „Double-layer cord shell".** **Nicht sein Wortlaut — aber dieselbe
+   Bauweisenbehauptung.** **Der Brief muss das sagen, und zwar ohne zu
+   behaupten, er habe wörtlich zitiert.**
+2. **🟥 `https://paw-friends.uk/policies/refund-policy` sagt wörtlich, die dort
+   genannten Rechte seien *„not limited by the requirement that an item be
+   unused or in its original packaging"*.** **Er wurde DREIMAL mit genau
+   dieser Bedingung abgewiesen — gegen eine förmliche Zurückweisung nach
+   CRA 2015.** **Das gehört ihm gesagt. Es ist kein Rechtsrat, sondern unsere
+   eigene veröffentlichte Seite.**
+
+**Grundlage: `docs/produktseiten-live-befund.md`.**
+
+**🟥 OHNE BESTELLDATEN — und zusätzlich: an David Coles gehen GRUNDSÄTZLICH
+keine Bestelldaten**, weil die Bestellung auf Tasmin Hunts Namen läuft.
+**Seine Befugnis wird weder bestätigt noch bestritten.** **Die beiden
+Richtlinien-URLs sind öffentliche Seiten, keine Bestelldaten.**
+
+**Betreff:** `Re: Formal Notice: Rejection of Faulty/Misdescribed Goods (Order #5829)`
+
+> Dear David,
+>
+> **You wrote twice that you were not claiming under the thirty-day returns
+> policy. The reply of 15 September was the standard paragraph about that
+> policy — the third copy of it. I am not going to defend that, and no fourth
+> copy is coming from me.**
+>
+> **Two things have come to light since anyone last wrote to you, and both of
+> them are ours, not yours. You should have them.**
+>
+> **First, the wording you quoted.** **You cited "double stitching". I am not
+> going to tell you that you quoted us word for word, because the phrase on
+> our page is not identical — and I am certainly not going to tell you that
+> you made it up.** **Our Fluffies product page says "Triple-stitched at every
+> seam" and "Double-layer cord shell".** **So a stitching and construction
+> claim of exactly that kind is published by us.** **That goes to the shop
+> owner next to your letters, in both our words and yours.**
+>
+> **Second, and this one matters more.** **The condition you were refused
+> under — that goods must be unused and in their original condition — appears
+> on one of our pages: https://paw-friends.uk/pages/refund-policy. That page
+> also says the window is fourteen days, not thirty.** **But our other page,
+> https://paw-friends.uk/policies/refund-policy, says "30-day return policy"
+> and says in as many words that the rights it describes "are not limited by
+> the requirement that an item be unused or in its original packaging".**
+> **And the product page promises "a full 30 days to make sure you've made the
+> right choice", with no condition attached at all.**
+>
+> **I am telling you this because you are entitled to know what our own pages
+> say, and because three replies quoted one of them at you without mentioning
+> the other two.** **What I am not going to do is tell you what any of that
+> means legally — not for the Consumer Rights Act, not for anything else.**
+> **A support desk ruling on its own employer's terms, or on consumer law,
+> would be worth nothing to you in either direction and you would be right to
+> disregard it.** **Which document governs is the owner's to state, and that
+> question is in front of him today together with your letters of 11 and
+> 13 September, in full, as the formal rejection you intended them to be.**
+>
+> **On the other wording you quoted, so the record is complete:** **"Designed
+> for furry friends who destroy everything" is our own product title, and
+> "Anti-tear design" and "Rope-reinforced construction" are on our plushie
+> page.** **None of that is in dispute from my side.**
+>
+> **On your bank and on Citizens Advice.** **Both are entirely your decisions.**
+> **I am not going to ask you to hold off, I am not going to advise you either
+> way, and nothing about how this is handled depends on whether you do.**
+>
+> **On the refund and the return.** **I cannot approve a refund from this desk
+> and I am not going to refuse one — that is the owner's, and the request for
+> the full amount is with him.** **I am not going to give you a date.** **As
+> for the return: neither of those two policy pages gives a postal address to
+> send anything to, and both tell you to email this address. There is no
+> returns address I can give you.** **So please do not post anything and
+> please do not pay postage.** **That is the honest answer to "let me know how
+> you intend to arrange the return", and it should have been given on
+> 11 September instead of a policy paragraph.**
+>
+> **One procedural thing I would rather say than leave unsaid.** **The order
+> was placed in Tasmin's name and you are writing on her behalf. I am
+> therefore not putting any order details, amounts or item lines in this
+> reply.** **That is not a doubt about you — it is simply not something I can
+> verify from here, and I would rather be careful with someone else's order
+> than helpful with it.** **The owner can confirm what he is able to share
+> with you.**
+>
+> **I am not going to make any claim about the toy in either direction, and I
+> am drawing no conclusion from the dog.**
+>
+> **Eighteen days of silence after a formal letter is not something I can
+> explain. That the same letter was sent three times, and that our own pages
+> disagree with the one sentence all three of them relied on, is not something
+> I am going to leave you to discover for yourself.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Einräumung der drei Vorlagenbriefe**; die
+**Richtigstellung zum Nahtzitat — der Sache nach belegt, ausdrücklich nicht als
+wörtliches Zitat dargestellt**; die **vollständige Offenlegung der drei
+widersprüchlichen Dokumente mit zwei URLs**, einschließlich der Zeile, die
+gegen die Bedingung spricht, unter der er abgewiesen wurde; die **Bestätigung
+der übrigen von ihm zitierten Formulierungen**; die **unveränderte Weitergabe
+seiner beiden förmlichen Schreiben**; die **Antwort auf seine Verfahrensfrage**
+und die **Warnung, kein Porto auszugeben.** **Keine Erstattung zugesagt, kein
+Termin, keine Absage.** **🟥 KEINE rechtliche Bewertung — nicht zum CRA 2015,
+nicht zu drei widersprüchlichen Dokumenten, in keine Richtung.** **🟥 KEINE
+Aussage zu Bank oder Citizens Advice**, nicht um Aufschub gebeten, nichts
+daran geknüpft. **🟥 KEINE Bestelldaten an die Drittadresse — und seine
+Befugnis wird weder bestätigt noch bestritten**, mit sachlich genanntem Grund.
+**🟥 NICHT behauptet, er habe wörtlich zitiert**, und **NICHT behauptet, sein
+Zitat existiere nicht.** **Keine vierte Vorlage.** **Keine
+Garantieentscheidung.** **Keine der drei Fristen als die geltende
+dargestellt.** **Nichts aus dem Hund gefolgert.** **Keine anderen
+Kundenvorgänge erwähnt.** **Nur absolute Datumsangaben.** Kein
+Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 
