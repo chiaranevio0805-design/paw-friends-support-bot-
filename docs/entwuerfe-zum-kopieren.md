@@ -17386,6 +17386,8 @@ Kein Eskalationsmarker im Text.
 
 ## #4919 — Em Gregory (greggz@live.co.uk) — GB, 🔴🔴 **40 % zweimal als „processed" bestätigt, nichts gebucht — und ihre Kernfrage seit dem 04.09. unbeantwortet**
 
+**⚠️ ERSETZT durch den Entwurf vom 04.10. — nur den neuesten senden.**
+
 **⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **Betreff:** Re: A shipment from order #4919 is on the way
@@ -28576,6 +28578,201 @@ Nachname aus der Adresse wird NICHT verwendet. **Andere Kunden werden erwähnt,
 aber NICHT benannt und ihre Vorgänge nicht beschrieben.** **Nichts aus ihrem
 Hund gefolgert.** **Nur absolute Datumsangaben.** Kein Eskalationsmarker im
 Text.
+
+## #4919 — Em Gregory (`greggz@live.co.uk`), GB — **ZWEITE FASSUNG, 04.10. 05:20** · 🟥🟥 **ZWÖLFTER „processed"-Fall — und der einzige, in dem die Zusage DREIMAL gegeben wurde, nachdem sie ZWEIMAL gesagt hat, das Geld sei nicht da** · 🟥 **ein bereits angenommenes Angebot wurde nachträglich GESENKT** · 04.10.
+
+**✅ GEPRÜFT am 04.10. 05:20: Dies ist die geltende Fassung. Die frühere Fassung ist als ersetzt markiert.**
+
+**🟥 EIN EIGENER FEHLER, FAST ZUM DRITTEN MAL:** **ich hielt sie für einen
+ungeprüften Kandidaten und wollte schreiben, ich könne die Zahlungsdaten nicht
+einsehen.** **Die frühere Fassung in dieser Datei enthält aber einen
+GEPRÜFTEN Befund aus der Zeit, als Shopify noch lesbar war:**
+*„I have checked our own records: there is **no refund recorded against your
+order. Not a partial one, not any**."* (`totalRefundedSet` 0,00, `refunds`
+leer). **Dieser Befund bleibt erhalten und wird nicht gegen eine schwächere
+Aussage getauscht.** **Dritter Fall, in dem das eigene Repository mehr weiß
+als ich annehme** — nach der Juli-Zusage bei #2894 und den #2894-Entwurfsköpfen.
+**Die Regel heißt ab jetzt: vor jedem „ich kann das nicht prüfen" in die
+eigene Datei sehen.**
+
+**🟦 Der Betrag £27,95 aus der alten Fassung wird NICHT übernommen.** Er war
+damals gelesen, ist heute nicht nachprüfbar, und **einer Kundin, die ein
+Angebot angenommen hat, wird keine Zahl vorgerechnet.** **Die qualitative
+Aussage — es ist überhaupt keine Erstattung verbucht — bleibt.**
+
+**🟥 OHNE BESTELLDATEN — Shopify seit 01.10. 17:20 UTC nicht erreichbar.
+Kein Betrag, keine Prozentzahl nachgerechnet.**
+
+**🟦 Anrede:** unsere eigenen Briefe sagen durchgehend **„Dear Em" / „Hello
+Em"**, und sie hat das nie korrigiert. **Der Entwurf bleibt dabei.** **Der
+Nachname steht in der früheren Fassung („Em Gregory") und stammt aus dem
+damals lesbaren Bestelldatensatz — er wird im Brief nicht verwendet, weil er
+dort nichts entscheidet.**
+
+**Der Verlauf (`get_thread`, 14 von 14 Nachrichten):**
+
+| Datum (UTC) | Was |
+|---|---|
+| **02.09. 18:56** | *„These arrived today and it's already been chewed through… **Can I have a refund please?**"* |
+| 04.09. 09:53 | **Kauschaden-Vorlage, „Dear Em"** |
+| **04.09. 09:58** | *„you literally advertise them as **‚can't be destroyed'** and it was in 15 minutes!!! **I want a refund under my consumer rights**"* |
+| 04.09. 15:29 | **zweite Vorlage** |
+| **04.09. 15:49** | *„I appreciate you have explained your 30-day returns policy, **however I don't believe that policy addresses the issue I have raised**…"* |
+| 05.09. 10:00 | Angebot |
+| **05.09. 10:03** | *„**I will accept a 50% partial refund.** Thank you"* |
+| **06.09. 17:06** | **🟥 *„after further consideration, the maximum goodwill refund we're able to offer is **40%** of your total"*** — **NACH ihrer Annahme von 50 %** |
+| **06.09. 17:26** | *„Ok. thanks Lisa. **Please process 40% refund**"* |
+| **08.09. 08:01** | **🟥 1. Mal: *„the 40% partial refund has now been processed to your original payment method"*** |
+| **15.09. 09:10** | *„**Can you confirm the refund has been processed? Yet to hit my account**"* |
+| **17.09. 09:32** | **🟥 2. Mal: derselbe Satz, unverändert** |
+| **23.09. 13:40** | *„**Still nothing.** The experience is just going from worst to worse!!!"* |
+| **28.09. 11:17** | **🟥 3. Mal: derselbe Satz, unverändert („Hello Em")** |
+| seitdem | **nichts. Sechs Tage.** |
+
+### 🟥 Was diesen Fall von allen anderen unterscheidet
+
+**In den elf anderen „processed"-Fällen wurde die Zusage EINMAL gegeben und
+niemand hat nachgefragt.** **Hier hat sie zweimal ausdrücklich gesagt, das
+Geld sei nicht angekommen — und bekam beide Male denselben Satz zurück.**
+**Dreimal insgesamt: 08.09., 17.09., 28.09.**
+
+**Das ist keine Nachlässigkeit mehr, das ist ein Ablauf, der eine Nachfrage
+nicht als Nachfrage erkennt.** **Dieselbe Ursache wie bei den vier
+Doppelbriefen.**
+
+### 🟥 Und ein eigener Vorgang: das Angebot wurde nach der Annahme gesenkt
+
+**Sie hat am 05.09. um 10:03 **50 %** angenommen.** **Am 06.09. um 17:06 wurde
+ihr geschrieben, das Maximum seien **40 %**.** **Sie hat zugestimmt, weil ihr
+nichts anderes übrig blieb.**
+
+**Das ist der erste belegte Fall, in dem ein angenommenes Angebot
+nachträglich verringert wurde.** **Er gehört dem Owner, und zwar getrennt
+von der Frage, ob überhaupt gezahlt wurde.** **Der Entwurf rechnet ihr
+keine der beiden Zahlen vor und schlägt keine neue vor.**
+
+**🟦 Ihre Werbeaussage** *„can't be destroyed"* **ist der Sache nach belegt** —
+die Fluffies-Seite sagt **„Strong enough that he can't take it apart"** und
+**„40,000 dogs have tried. Not one has beaten them yet."** **Vierte Kundin in
+dieser Reihe nach #4071, #7440 und #5310.**
+
+**Betreff:** `Re: A shipment from order #4919 is on the way`
+
+> Dear Em,
+>
+> **You asked on 15 September whether the refund had been processed, and said
+> it had not reached your account. You wrote again on 23 September to say
+> there was still nothing. Both times you were sent the same sentence you had
+> already had on 8 September — that the 40 per cent refund has been
+> processed — and the third copy went out on 28 September.**
+>
+> **I am not going to send you a fourth one. I cannot confirm that any
+> payment was made, and I am not going to repeat an assurance that your own
+> bank statement contradicts.**
+>
+> **What I can tell you, and it is the part that matters: when our order
+> record was last readable to this desk, it showed no refund recorded against
+> your order at all — not a partial one, not any.** **That is our own record,
+> not my impression.** **It is not readable from here today, so I cannot tell
+> you what it says at this moment, and I am not going to guess.** **The one
+> limit on that, said plainly rather than left for you to find: I could only
+> ever see payments made through our shop system. If money had been sent some
+> other way it would not have shown there — but nothing suggested that, and I
+> am not going to offer you that as a comfortable explanation.** **Those three letters, with
+> their dates, and your two messages, go to the shop owner today as an
+> outstanding payment confirmed to you in writing on 8 September and not
+> received.** **He is the only one who can pay it or tell you plainly that it
+> is not coming.** **I cannot release money from this desk and I am not going
+> to give you a date, because I cannot stand behind one.**
+>
+> **There is a second thing in the record that you are owed plainly.** **On
+> 5 September you accepted a 50 per cent refund. On 6 September you were told
+> that the maximum we could offer was 40 per cent, and you agreed to that.**
+> **An offer should not be reduced after someone has accepted it.** **I am
+> not going to re-open the figure with you, propose a new one, or ask you to
+> accept anything further — that would be a third round of the same thing.**
+> **Both numbers and both dates are in front of the owner exactly as they
+> stand, and the difference between them is his to answer.**
+>
+> **On the advertising you quoted.** **You wrote that we advertise them as
+> "can't be destroyed". Our own product page says "Strong enough that he
+> can't take it apart" and "40,000 dogs have tried. Not one has beaten them
+> yet."** **Those are not your exact words, so I am not going to claim you
+> quoted us — but it is the same claim, it is ours, and it is published. You
+> did not invent it.** **What I am not going to do is tell you whether that
+> makes the advertising misleading, or defend it. That is not mine to decide
+> in either direction.**
+>
+> **There is also a question you asked on 4 September that nobody ever
+> answered: you asked to be pointed to the wording in our advertising that
+> sets out the limits of the durability claim, particularly for normal
+> chewing.** **Here is the answer, a month late. The guarantee section on our
+> product page reads in full: "Most stores only offer a standard 14-day return
+> policy. At Paw-Friends… we give you a full 30 days to make sure you've made
+> the right choice… If you ever experience any issue with your order, simply
+> contact us by email."** **There is no limitation in it — nothing about
+> chewing, nothing about condition, nothing about packaging.** **The sentence
+> that was quoted at you is on a different page of ours, with a different
+> deadline.** **You asked a factual question and it had a factual answer all
+> along.**
+>
+> **On your consumer rights, which you raised on 4 September and which the
+> replies went past.** **I am not going to tell you whether you are right and
+> I am not going to tell you that you are wrong — a support desk ruling on
+> consumer law, least of all its own employer's position under it, would be
+> worth nothing to you.** **Your words go to the owner exactly as you wrote
+> them.** **You also wrote, on 4 September, that the thirty-day returns policy
+> did not address what you had raised, and nobody engaged with that either.
+> You were right that it was a different question.**
+>
+> **And since that policy was quoted at you, you should have all of it.**
+> **The condition you were sent is on https://paw-friends.uk/pages/refund-policy,
+> which also says the window is fourteen days, not thirty.** **Our other page,
+> https://paw-friends.uk/policies/refund-policy, says "30-day return policy"
+> and says the rights it describes "are not limited by the requirement that an
+> item be unused or in its original packaging".** **And the product page
+> promises "a full 30 days" with no condition at all.** **Three documents, and
+> they do not agree. Which one governs is the owner's to state, not mine.**
+> **Neither policy page gives a postal address, so please do not post anything
+> back.**
+>
+> **I am not going to make any claim about the toys in either direction, and I
+> am drawing no conclusion from your dog.**
+>
+> **You were told three times that money was on its way. Being told it a
+> fourth time is not what you need, and I am not going to pretend that
+> passing this on is the same as paying it.**
+>
+> **If you hear nothing in a few days, write again and say so. After three
+> confirmations that did not hold, that is a reasonable thing to do and not a
+> nuisance.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **offene Feststellung, dass die „processed"-Zusage
+dreimal gegeben wurde, mit allen Daten**; die **Weitergabe als offene,
+schriftlich bestätigte und nicht erhaltene Zahlung**; die **offene Benennung
+der nachträglichen Senkung von 50 % auf 40 %**; die **Bestätigung, dass ihre
+Werbeaussage der Sache nach veröffentlicht ist, mit Wortlaut**; die
+**Feststellung, dass ihre Frage vom 04.09. zur Rückgaberichtlinie berechtigt
+war**; die **vollständige Offenlegung der drei widersprüchlichen Dokumente mit
+zwei URLs**; die **Warnung, kein Porto auszugeben.** **🟥 Die
+„processed"-Zusage wird NICHT ein viertes Mal gegeben** — und **NICHT
+behauptet, die Zahlung sei ausgeführt oder nicht ausgeführt.** **🟥 KEINE neue
+Prozentzahl, keine Nachrechnung, keine Wiederaufnahme der angenommenen Zahl.**
+**Kein Termin, keine Erstattung zugesagt, keine Absage.** **🟥 KEINE
+rechtliche Bewertung zu Verbraucherrechten.** **🟥 KEINE Bewertung, ob die
+Werbung irreführend ist, und keine Verteidigung.** **Keine
+Garantieentscheidung.** **Keine der drei Fristen als die geltende
+dargestellt.** **Keine Angaben aus dem Bestelldatensatz.** **Nur die von uns
+selbst verwendete Anrede „Em"; der Nachname wird nicht verwendet.**
+**🟥 Der frühere, geprüfte Befund „keine Erstattung verbucht" ist erhalten und
+ausdrücklich als Stand der letzten Lesbarkeit gekennzeichnet; der damals
+gelesene Betrag wird NICHT wiederholt.** **Andere Kunden
+werden NICHT erwähnt.** **Nichts aus ihrem Hund gefolgert.** **Nur absolute
+Datumsangaben.** Kein Eskalationsmarker im Text.
 
 ## Was hier bewusst NICHT steht
 

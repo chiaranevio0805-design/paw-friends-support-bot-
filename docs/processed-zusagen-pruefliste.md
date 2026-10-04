@@ -99,7 +99,6 @@ Thread-ID, Nachrichten im Thread, davon ausgehend, letzte Aktivität.
 | `dfutrel@gmail.com` | `1a08808f023737bd` | 2 | 1 | 2026-09-11 |
 | `dirrall@aol.com` | `1a0239fa2cc993c3` | 12 | 3 | 2026-09-04 |
 | `fpierce1967@gmail.com` | `1a090c6775a88b50` | 4 | 2 | 2026-09-15 |
-| `greggz@live.co.uk` | `1a0637b01192bc3e` | 14 | 3 | 2026-09-28 |
 | `jms7172@yahoo.com` | `1a05332a16a91837` | 6 | 3 | 2026-09-04 |
 | `johnrabbott1@gmail.com` | `1a03e29dd9136163` | 8 | 3 | 2026-09-13 |
 | `karenbionomics@gmail.com` | `1a0669a67dd7ec41` | 6 | 3 | 2026-09-08 |
@@ -155,7 +154,20 @@ processed** and will be returned to your original payment method."*
 eingeleitet — einen Tag bevor ihr die 20 % angeboten wurden und sie annahm.**
 **Ihre erste Nachricht vom 12.08. ist nie beantwortet worden.**
 
-**Stand: 11 bestätigte „processed"-Briefe. Ungeprüfte Kandidaten: 32.**
+**`greggz@live.co.uk` — Em Gregory, #4919** (geprüft 04.10. 05:20):
+**🟥 die Zusage ging DREIMAL hinaus — 08.09. 08:01, 17.09. 09:32 und
+28.09. 11:17**, jedes Mal *„the 40% partial refund has now been processed to
+your original payment method"*. **Dazwischen hat sie zweimal geschrieben, das
+Geld sei nicht angekommen** (15.09. *„Yet to hit my account"*, 23.09.
+*„Still nothing"*). **ZWÖLFTER bestätigter Fall — und der einzige mit drei
+Zusagen gegen zwei ausdrückliche Nachfragen.**
+**Dazu ein eigener Vorgang: sie hatte am 05.09. 50 % angenommen, und am
+06.09. wurde ihr geschrieben, das Maximum seien 40 %.** **Ein angenommenes
+Angebot wurde nachträglich gesenkt — der erste belegte Fall.**
+**Der damals noch lesbare Datensatz zeigte KEINE Erstattung gegen die
+Bestellung — `totalRefundedSet` 0,00, `refunds` leer.**
+
+**Stand: 12 bestätigte „processed"-Briefe. Ungeprüfte Kandidaten: 31.**
 
 **🟦 Zur Zeitachse:** die Briefe verteilen sich jetzt auf **22.08.**,
 **02.–04.09.**, **21.09.** und **22.09.** **Das 22.09.-Fenster (11:02:52 bis

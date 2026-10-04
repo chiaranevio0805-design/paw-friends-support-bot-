@@ -352,3 +352,74 @@ Entwurfskopf, nicht stillschweigend korrigiert.**
 - **Offen: 83 gesperrte Entwürfe, bei denen nur der Satz über die zwölf Texte
   zu streichen oder zu präzisieren ist.**
 - **Nichts gesendet, keine Erstattung ausgelöst, nichts verändert.**
+
+---
+
+## Lauf 05:20 UTC — nichts Neues · 🟥🟥 ZWÖLFTER „processed"-Fall: #4919 — die Zusage ging DREIMAL hinaus, gegen ZWEI ausdrückliche Nachfragen · 🟥 ein angenommenes Angebot wurde nachträglich gesenkt · 🟥 und ich hätte beinahe einen eigenen geprüften Befund weggeworfen
+
+**Posteingang: nichts Neues** (`newer_than:9h`).
+
+**Einer der 32 ungeprüften „processed"-Kandidaten geprüft: `greggz@live.co.uk`
+— Em Gregory, #4919, 14 Nachrichten, vollständig gelesen.**
+
+### 🟥 Befund 1: dreimal dieselbe Zusage, gegen zwei Nachfragen
+
+| Datum (UTC) | Was |
+|---|---|
+| **05.09. 10:03** | *„**I will accept a 50% partial refund.**"* |
+| **06.09. 17:06** | **🟥 *„the maximum goodwill refund we're able to offer is **40%**"*** — **nach ihrer Annahme** |
+| **06.09. 17:26** | *„Ok. thanks Lisa. Please process 40% refund"* |
+| **08.09. 08:01** | **1. „processed"** |
+| **15.09. 09:10** | *„Can you confirm the refund has been processed? **Yet to hit my account**"* |
+| **17.09. 09:32** | **2. „processed" — derselbe Satz** |
+| **23.09. 13:40** | *„**Still nothing.** The experience is just going from worst to worse!!!"* |
+| **28.09. 11:17** | **3. „processed" — derselbe Satz** |
+| seitdem | **nichts. Sechs Tage.** |
+
+**In den elf anderen Fällen wurde die Zusage einmal gegeben und niemand hat
+nachgefragt.** **Hier hat sie zweimal ausdrücklich gesagt, das Geld sei nicht
+da — und bekam beide Male denselben Satz zurück.** **Das ist kein Versehen,
+das ist ein Ablauf, der eine Nachfrage nicht als Nachfrage erkennt** — dieselbe
+Ursache wie bei den vier Doppelbriefen.
+
+### 🟥 Befund 2: ein angenommenes Angebot wurde nachträglich gesenkt
+
+**Sie nahm am 05.09. 50 % an. Am 06.09. hieß es, das Maximum seien 40 %.**
+**Sie stimmte zu, weil ihr nichts anderes blieb.** **Erster belegter Fall
+dieser Art.** **Der Entwurf rechnet ihr keine der beiden Zahlen vor und
+schlägt keine neue vor** — er legt beide mit Datum vor den Owner.
+
+### 🟥 Befund 3, und er betrifft mich: ich hätte einen eigenen geprüften Befund weggeworfen
+
+**Ich hielt sie für einen ungeprüften Kandidaten und hatte schon geschrieben,
+ich könne die Zahlungsdaten nicht einsehen.** **In der Datei stand aber seit
+Wochen eine Fassung mit einem GEPRÜFTEN Befund aus der Zeit, als Shopify
+lesbar war:** *„I have checked our own records: there is **no refund recorded
+against your order. Not a partial one, not any**."* — `totalRefundedSet` 0,00,
+`refunds` leer.
+
+**Das ist der dritte Fall, in dem das eigene Repository mehr weiß als ich
+annehme** — nach der Juli-Zusage bei #2894 und den beiden #2894-Entwurfsköpfen.
+**Der Befund ist erhalten und ausdrücklich als Stand der letzten Lesbarkeit
+gekennzeichnet.** **Neue Regel, die ich hiermit festschreibe: vor jedem „ich
+kann das nicht prüfen" in die eigene Datei sehen.**
+
+**🟦 Der damals gelesene Betrag £27,95 wird NICHT übernommen** — heute nicht
+nachprüfbar, und einer Kundin, die ein Angebot angenommen hat, wird keine Zahl
+vorgerechnet. **Die qualitative Aussage bleibt.**
+
+### 🟦 Zwei weitere Dinge, die der Entwurf nachholt
+
+- **Ihre Frage vom 04.09.** — sie bat, auf die Werbestelle verwiesen zu
+  werden, die die Grenzen der Haltbarkeitsaussage benennt, besonders für
+  normales Kauen. **Jetzt beantwortbar: der Garantieabschnitt der
+  Produktseite enthält keine einzige Einschränkung.** Der Brief zitiert ihn.
+- **Ihre Werbeaussage** *„can't be destroyed"* **ist der Sache nach belegt** —
+  *„Strong enough that he can't take it apart"*, *„Not one has beaten them
+  yet"*. **Vierte Kundin dieser Reihe nach #4071, #7440, #5310.**
+
+### Stand (in diesem Lauf gezählt)
+
+- **Entwürfe: 482. Ersetzt: 121. Geltende: 361. Werbebefund-Sperre: 83.**
+- **Bestätigte „processed"-Briefe: 12.** Ungeprüfte Kandidaten: **31.**
+- **Nichts gesendet, keine Erstattung ausgelöst, nichts verändert.**
