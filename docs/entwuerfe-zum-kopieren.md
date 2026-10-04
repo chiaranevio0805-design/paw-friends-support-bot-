@@ -28774,6 +28774,175 @@ gelesene Betrag wird NICHT wiederholt.** **Andere Kunden
 werden NICHT erwähnt.** **Nichts aus ihrem Hund gefolgert.** **Nur absolute
 Datumsangaben.** Kein Eskalationsmarker im Text.
 
+## `usclawyertamara@gmail.com` — Tamara Heathcote, US (TN) — **ERSTER Entwurf, 04.10. 06:20** · 🟥🟥 **DREIZEHNTER „processed"-Fall** · 🟥 **FÜNFTE Sicherheitsmeldung: der Hund hat Füllmaterial gefressen und musste zum Erbrechen gebracht werden — nie als solche behandelt** · 🟥 **Anwältin, Sammelklage angekündigt, zweimal Werbebelege geschickt, Rückruf nie erhalten** · 04.10.
+
+**✅ GEPRÜFT am 04.10. 06:20: ERSTER Entwurf — es gab bisher KEINEN.** **Vor dieser Aussage in `entwuerfe-zum-kopieren.md` nachgesehen (`^## `-Suche auf Adresse und Name): keine Fassung vorhanden.** **Sie stand in `processed-zusagen-pruefliste.md` nur als Kandidat.**
+
+**🟥 OHNE BESTELLDATEN — Shopify seit 01.10. 17:20 UTC nicht erreichbar. Keine
+Bestellnummer in ihren Mails, es wurde nicht gesucht, und der Entwurf behauptet
+NICHT, es sei keine Bestellung auffindbar.**
+
+**🟦 Name belegt:** sie unterschreibt und erscheint in ihrer eigenen
+Weiterleitung als **Tamara Heathcote**. **Der Vorname wird verwendet.**
+
+**🟥 Ihre Telefonnummer steht im Thread. Sie wird NICHT verwendet, NICHT
+wiederholt und NICHT erwähnt.**
+
+**Der Verlauf (`get_thread`, 13 von 13 Nachrichten):**
+
+| Datum (UTC) | Was |
+|---|---|
+| **25.08. 03:28** | *„I have 3 dogs, so I got three toys. My doberman took all three… and chewed them up in less than an hour. **Stuffing all over the room. He ate a bunch of it so we had to make him vomit**…"* |
+| 26.08. 17:13 | Antwort, **„Dear Customer"** — *„especially concerned to hear about the issue with the stuffing"* — **und danach nie wieder aufgegriffen** |
+| **27.08. 22:59** | *„I frankly don't care what your ‚refund' policy states as **your ad that I just saw two minutes ago advertises as follows**…"* — **großer Anhang, nicht geöffnet** |
+| **27.08. 23:12** | *„**And yet here's another guarantee:**"* — **weitergeleitet, großer Anhang, nicht geöffnet** |
+| 29.08. 18:00 | Antwort: *„I completely understand your point regarding the wording used in the advertisement"* |
+| **31.08. 02:07** | *„You have a REFUND POLICY if your product is damaged enroute. **But in your**…"* — **sie trennt Rückgaberichtlinie und Werbeaussage** |
+| 01.09. 11:57 | Antwort |
+| **01.09. 17:04** | *„**Please have your supervisor contact me** … or tell me a time when I can set up a **zoom call**"* — **nie geschehen** |
+| 03.09. 09:45 | Angebot |
+| **04.09. 04:00** | *„Please recall that **I am a TN attorney and I have no problem filing a class action**. Therefore, **I will accept 100% of the purchase price as a ‚refund' without return**"* |
+| 04.09. 15:21 | Antwort |
+| **05.09. 20:21** | *„I will accept the **30% refund** offered."* |
+| **07.09. 10:24** | **🟥 *„the 30% partial refund has now been processed to your original payment method"*** |
+| seitdem | **nichts. 27 Tage.** |
+
+### 🟥 Vier Dinge, die der Owner heute wissen muss
+
+1. **DREIZEHNTER bestätigter „processed"-Brief.** 27 Tage, keine Rückmeldung.
+2. **🟥 FÜNFTE Sicherheitsmeldung — und die konkreteste von allen.** **Der
+   Hund hat Füllmaterial gefressen und musste zum Erbrechen gebracht werden.**
+   **Das wurde am 26.08. einmal mit „especially concerned" quittiert und
+   danach in sechs Antworten nicht mehr erwähnt.** Nach #7608, #7749, #7324,
+   #8312.
+3. **🟥 Sie hat ZWEIMAL Werbebelege geschickt** (27.08., 22:59 und 23:12),
+   beide mit großem Anhang. **Ich habe keinen geöffnet — das ist die Regel.**
+   **Nach #6311 ist das die zweite Kundin, die den Beleg selbst in der Hand
+   hat.** **Der Owner muss beide öffnen.**
+4. **🟥 Sie ist Anwältin in Tennessee, hat eine Sammelklage angekündigt und um
+   Rückruf oder Zoom-Termin gebeten — beides ist nie erfolgt.** **Von diesem
+   Postfach kann kein Gespräch zugesagt werden; die Bitte geht als solche
+   weiter.**
+
+**🟦 Ihr Argument vom 31.08. war richtig** — sie hat zwischen
+Rückgaberichtlinie und Haltbarkeitswerbung unterschieden. **Genau diese
+Trennung ist seit dem 03.10. belegt: drei Dokumente, die sich widersprechen.**
+
+**Betreff:** `Re: Purchased three of your toys for my three dogs`
+
+> Dear Tamara,
+>
+> **I am writing about four things, and I am going to start with the one that
+> should have come first on 25 August and never did.**
+>
+> **Your dog ate the stuffing and you had to make him vomit.** **That was
+> acknowledged once, on 26 August, and then it does not appear again in any of
+> the six replies you received. It was treated as part of a refund argument.
+> It is not.** **I am not going to tell you that our toys are safe, and I am
+> not going to tell you that they are not — I am not in a position to judge
+> that, and a reassurance from this desk that I cannot stand behind would be
+> worth nothing to you.** **What I am doing is putting it in front of the shop
+> owner today as a safety report in its own right, in your own words,
+> separately from the money.** **That is how it should have gone seven weeks
+> ago.**
+>
+> **Second, your refund.** **On 7 September you were told that the 30 per cent
+> partial refund "has now been processed" to your original payment method.**
+> **I cannot confirm from here that it was, and that same sentence went to
+> other customers in circumstances where it did not hold.** **I am not telling
+> you your refund failed — I do not know, and I am not going to guess in
+> either direction. What I am doing is making sure you are not sitting quietly
+> assuming money arrived that may not have.** **Please check the account you
+> paid from. If it is not there, reply and say so, and it goes to the owner as
+> a payment confirmed to you in writing on 7 September and not received.**
+> **I cannot release a payment from this desk and I am not going to give you a
+> date.** **I am not going to quote you a figure or recalculate the
+> percentage** — it is the one you accepted on 5 September, and I am not going
+> to reopen a number you have already settled.
+>
+> **Third, the request nobody answered.** **On 1 September you asked for a
+> supervisor to contact you, or for a time for a call.** **That never
+> happened, and I am not going to pretend otherwise or let it pass in
+> silence.** **I cannot put a call in anyone's diary from this desk and I am
+> not going to promise you one. Your request goes to the owner as exactly what
+> it is: a request, made on 1 September, to speak to someone who can decide.**
+>
+> **Fourth, the advertising, and here you were right about something that six
+> replies went past.** **On 31 August you drew a distinction between our
+> returns policy and the durability claims in our advertising, and you were
+> told you did not understand the policy. The distinction was the correct
+> one.**
+>
+> **Here is what I can now tell you, checkable.** **Our own product page makes
+> durability claims in these words: "40,000 dogs have tried. Not one has
+> beaten them yet.", "Still undefeated", "Strong enough that he can't take it
+> apart", "Triple-stitched at every seam".** **And the guarantee section on
+> that page reads: "we give you a full 30 days to make sure you've made the
+> right choice… If you ever experience any issue with your order, simply
+> contact us by email." There is no condition in it at all.**
+>
+> **Meanwhile the condition that was quoted at you sits on a different page,
+> https://paw-friends.uk/pages/refund-policy, which also says the window is
+> fourteen days rather than thirty. And a third page,
+> https://paw-friends.uk/policies/refund-policy, says "30-day return policy"
+> and says the rights it describes "are not limited by the requirement that an
+> item be unused or in its original packaging".** **Three documents of ours,
+> and they do not agree with each other.** **Which one governs is the owner's
+> to state, and I am not going to pick one and call it the policy.**
+>
+> **You sent us advertising material twice on 27 August. I have not opened the
+> attachments and I am not asking you for anything further — nothing here
+> depends on you proving anything.** **I have told the owner they are there,
+> because he can open them and I cannot, and I would ask you to keep them
+> rather than delete them.** **I am not going to describe or reconstruct the
+> advertisement you saw, and I am certainly not going to suggest you misread
+> it.**
+>
+> **What I am not going to do is tell you what any of this means legally.**
+> **You are an attorney and I am a support desk; a ruling from me on our own
+> advertising, or on your rights, would be worth nothing to you and you would
+> be right to disregard it.** **Whether you file anything is entirely your
+> decision. I am not going to ask you to hold off, and nothing about how this
+> is handled depends on it.**
+>
+> **One practical note: there is no returns address I can give you — neither
+> policy page names one — so please do not post anything back.** **You asked
+> for a refund without return in any case, and that request is on the file as
+> you made it.**
+>
+> **I am not going to make any claim about the toys in either direction, and I
+> am drawing no conclusion from your dogs.**
+>
+> **Seven weeks after your dog was made to vomit, nobody had treated that as
+> anything other than part of a refund negotiation. I am sorry. It is being
+> passed on as what it is today.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **getrennte Weitergabe der Sicherheitsmeldung als
+solche**, mit der offenen Einräumung, dass sie sieben Wochen als Teil einer
+Geldfrage behandelt wurde; die **Bitte, das Konto zu prüfen**, und die Zusage,
+eine fehlende Zahlung weiterzugeben; die **Weitergabe ihrer Bitte vom 01.09.
+um ein Gespräch, als Bitte**; die **Bestätigung, dass ihre Unterscheidung vom
+31.08. richtig war**, mit **Wortlaut der Produktseite und zwei URLs**; der
+**Hinweis an den Owner auf ihre zwei Werbeanhänge**; die **Warnung, kein Porto
+auszugeben.** **🟥 KEINE Aussage zur Materialsicherheit, in keine Richtung.**
+**🟥 NICHT behauptet, die Erstattung sei ausgeführt — und nicht das
+Gegenteil.** **Die „processed"-Zusage wird nicht wiederholt.** **🟥 KEIN
+Gespräch und kein Rückruf zugesagt.** **🟥 KEINE rechtliche Bewertung, keine
+Prognose zur Sammelklage, nicht um Aufschub gebeten, nichts daran geknüpft.**
+**Kein Betrag, keine Prozentzahl nachgerechnet, die angenommene Zahl nicht
+wieder aufgerollt.** **Kein Termin, keine Erstattung zugesagt, keine Absage.**
+**🟥 Anhänge NICHT geöffnet, kein Nachweis verlangt.** **🟥 Die Anzeige wird
+NICHT rekonstruiert.** **Keine Garantieentscheidung.** **Keine der drei
+Fristen als die geltende dargestellt.** **🟥 Ihre Telefonnummer wird nicht
+verwendet und nicht erwähnt.** **Keine Angaben aus dem Bestelldatensatz, und
+NICHT behauptet, es sei keine Bestellung auffindbar.** **Andere Kunden werden
+erwähnt, aber NICHT benannt.** **Nichts aus ihren Hunden gefolgert.** **Nur
+absolute Datumsangaben.** Kein Eskalationsmarker im Text.
+
 ## Was hier bewusst NICHT steht
 
 - **Tamara (usclawyertamara@gmail.com, Sammelklage angedroht)** — nach

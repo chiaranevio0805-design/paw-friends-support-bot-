@@ -116,7 +116,6 @@ Thread-ID, Nachrichten im Thread, davon ausgehend, letzte Aktivität.
 | `susannepicco@hotmail.com` | `1a04823f40c61714` | 7 | 2 | 2026-09-04 |
 | `sylc95@gmail.com` | `1a03441ad7af0520` | 8 | 3 | 2026-09-08 |
 | `tim.kipling@gmail.com` | `1a053158872210b3` | 8 | 3 | 2026-09-11 |
-| `usclawyertamara@gmail.com` | `1a036f664f73b76a` | 13 | 3 | 2026-09-07 |
 | `vjehdian1972@icloud.com` | `1a063751d9b21f4e` | 10 | 3 | 2026-09-24 |
 
 **35 ungeprüfte Threads.**
@@ -167,7 +166,24 @@ Angebot wurde nachträglich gesenkt — der erste belegte Fall.**
 **Der damals noch lesbare Datensatz zeigte KEINE Erstattung gegen die
 Bestellung — `totalRefundedSet` 0,00, `refunds` leer.**
 
-**Stand: 12 bestätigte „processed"-Briefe. Ungeprüfte Kandidaten: 31.**
+**`usclawyertamara@gmail.com` — Tamara Heathcote, US (TN)** (geprüft 04.10.
+06:20): **07.09. 10:24**, *„the 30% partial refund has now been processed to
+your original payment method"*. **DREIZEHNTER bestätigter Fall. 27 Tage ohne
+Rückmeldung.**
+**🟥 Dieser Thread enthält drei Dinge, die über das Geld hinausgehen:**
+**(a) eine Sicherheitsmeldung — ihr Dobermann hat Füllmaterial gefressen und
+musste zum Erbrechen gebracht werden (25.08.); am 26.08. einmal quittiert,
+danach in sechs Antworten nicht mehr erwähnt. FÜNFTE Sicherheitsmeldung.**
+**(b) zwei Nachrichten vom 27.08. mit Werbebelegen im Anhang** — *„your ad
+that I just saw two minutes ago advertises as follows"* und *„And yet here's
+another guarantee"*. **Nicht geöffnet. Nach #6311 die zweite Kundin mit dem
+Beleg in der Hand.**
+**(c) sie ist Anwältin in Tennessee, hat eine Sammelklage angekündigt und am
+01.09. um Rückruf oder Zoom-Termin gebeten — nie erfolgt.**
+**Ihr Argument vom 31.08. — Rückgaberichtlinie ist nicht Haltbarkeitswerbung —
+war richtig und wurde ihr als Unverständnis vorgehalten.**
+
+**Stand: 13 bestätigte „processed"-Briefe. Ungeprüfte Kandidaten: 30.**
 
 **🟦 Zur Zeitachse:** die Briefe verteilen sich jetzt auf **22.08.**,
 **02.–04.09.**, **21.09.** und **22.09.** **Das 22.09.-Fenster (11:02:52 bis

@@ -423,3 +423,67 @@ vorgerechnet. **Die qualitative Aussage bleibt.**
 - **Entwürfe: 482. Ersetzt: 121. Geltende: 361. Werbebefund-Sperre: 83.**
 - **Bestätigte „processed"-Briefe: 12.** Ungeprüfte Kandidaten: **31.**
 - **Nichts gesendet, keine Erstattung ausgelöst, nichts verändert.**
+
+---
+
+## Lauf 06:20 UTC — nichts Neues · 🟥🟥 DREIZEHNTER „processed"-Fall — und der riskanteste Thread im ganzen Rückstand
+
+**Posteingang: nichts Neues** (`newer_than:10h`).
+
+**Zweiter „processed"-Kandidat geprüft: `usclawyertamara@gmail.com` — Tamara
+Heathcote, US (Tennessee), 13 Nachrichten, vollständig gelesen.**
+**Für sie gab es bisher KEINEN Entwurf** — vor dieser Aussage in der
+Entwurfsdatei nachgesehen, wie seit 05:20 Regel ist.
+
+### 🟥 Vier Befunde in einem Thread
+
+1. **DREIZEHNTER bestätigter „processed"-Brief** — 07.09. 10:24, 30 %,
+   **27 Tage ohne Rückmeldung.**
+2. **🟥 FÜNFTE Sicherheitsmeldung — und die konkreteste von allen.**
+   **25.08.:** *„Stuffing all over the room. **He ate a bunch of it so we had
+   to make him vomit**"* — ihr Dobermann. **Am 26.08. einmal mit „especially
+   concerned to hear about the issue with the stuffing" quittiert und danach
+   in SECHS Antworten nicht mehr erwähnt.** **Sieben Wochen als Teil einer
+   Geldverhandlung behandelt.** Nach #7608, #7749, #7324, #8312.
+3. **🟥 Sie hat am 27.08. ZWEIMAL Werbebelege geschickt** — 22:59
+   *„**your ad that I just saw two minutes ago advertises as follows**"* und
+   23:12 *„**And yet here's another guarantee:**"*, beide mit großem Anhang.
+   **Nicht geöffnet — das ist die Regel.** **Nach #6311 die zweite Kundin, die
+   den Beleg selbst in der Hand hat.** **Der Owner muss beide öffnen.**
+4. **🟥 Anwältin in Tennessee, Sammelklage angekündigt, am 01.09. um Rückruf
+   oder Zoom-Termin gebeten — nie erfolgt.** **Von hier kann kein Gespräch
+   zugesagt werden; die Bitte geht als Bitte weiter.** **Ihre Telefonnummer
+   steht im Thread und wird nicht verwendet und nicht erwähnt.**
+
+### 🟦 Sie hatte recht, und es wurde ihr als Unverständnis vorgehalten
+
+**Am 31.08. schrieb sie:** *„You have a REFUND POLICY if your product is
+damaged enroute. **But in your**…"* — **sie hat zwischen Rückgaberichtlinie
+und Haltbarkeitswerbung unterschieden.** **Die Antwort sagte ihr, sie verstehe
+die Richtlinie nicht.**
+
+**Genau diese Trennung ist seit dem 03.10. belegt: drei Dokumente, die sich
+widersprechen.** **Der Entwurf sagt ihr das ausdrücklich: *„The distinction was
+the correct one."*** — mit Wortlaut der Produktseite und beiden URLs.
+
+### Was der Entwurf bewusst NICHT tut
+
+- **Keine Aussage zur Materialsicherheit, in keine Richtung.**
+- **Kein Gespräch und kein Rückruf zugesagt** — nur die Weitergabe der Bitte.
+- **Keine rechtliche Bewertung, keine Prognose zur Sammelklage, keine Bitte um
+  Aufschub, nichts daran geknüpft.**
+- **Die „processed"-Zusage wird nicht wiederholt**, und es wird **weder
+  behauptet, die Zahlung sei erfolgt, noch, sie sei es nicht.**
+- **Die angenommene Prozentzahl wird nicht wieder aufgerollt.**
+- **Anhänge nicht geöffnet, die Anzeige nicht rekonstruiert.**
+- **Nicht behauptet, es sei keine Bestellung auffindbar** — sie hat keine
+  Nummer genannt und es wurde nicht gesucht.
+
+### Stand (in diesem Lauf gezählt)
+
+- **Entwürfe: 483. Ersetzt: 121. Geltende: 362. Werbebefund-Sperre: 83.**
+- **Bestätigte „processed"-Briefe: 13.** Ungeprüfte Kandidaten: **30.**
+- **Offene Sicherheitsmeldungen: 5.**
+- **Kundschaft mit eigenem Werbebeleg in der Hand: 2** (#6311, Tamara
+  Heathcote) — **beide Anhänge ungeöffnet, beide beim Owner angezeigt.**
+- **Nichts gesendet, keine Erstattung ausgelöst, nichts verändert.**
