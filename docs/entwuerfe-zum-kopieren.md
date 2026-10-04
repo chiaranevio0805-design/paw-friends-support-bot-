@@ -14019,6 +14019,8 @@ Eskalationsmarker im Text.
 
 ## #5310 — Heather Taylor (bhjdc5@gmail.com) — US, geht davon aus, die Erstattung laufe bereits  
 
+**⚠️ ERSETZT durch den Entwurf vom 04.10. — nur den neuesten senden.**
+
 **⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
@@ -16210,6 +16212,8 @@ Eskalationsmarker im Text.
 
 ## #5310 — Heather Taylor (bhjdc5@gmail.com) — US, ⛔ **„Please let me know when this is processed" — beantwortet mit einer Absage**  
 
+**⚠️ ERSETZT durch den Entwurf vom 04.10. — nur den neuesten senden.**
+
 **⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 **⚠️ ACHTUNG: Für diesen Kunden gibt es in dieser Datei einen NEUEREN Entwurf. Vor dem Senden prüfen, welcher gilt — nicht beide senden.**
 
@@ -18389,6 +18393,8 @@ Entschuldigung von ihm verlangt und keine Begründung nachgefragt.** Kein
 Eskalationsmarker im Text.
 
 ## #5310 — Heather Taylor (bhjdc5@gmail.com) — US, **dritter Kontakt, zitiert „no dog has ever destroyed the toy"**
+
+**⚠️ ERSETZT durch den Entwurf vom 04.10. — nur den neuesten senden.**
 
 **⚠️ ERSETZT durch den Entwurf vom 03.10. — nur den neuesten senden.**
 
@@ -27457,6 +27463,8 @@ Entwurfs, für den Owner. Kein Eskalationsmarker im Text.
 
 ## #5310 — Heather Taylor (`bhjdc5@gmail.com`), US — **ZUSAMMENGEFÜHRT** · 🟥 **DRITTER Vorlagenbrief, der dritte wörtlich gleich dem zweiten — und DRITTE unabhängige Kundin mit derselben Werbeaussage, die jetzt in unserer EIGENEN Werbemail eine Entsprechung hat** · 03.10.
 
+**⚠️ ERSETZT durch den Entwurf vom 04.10. — nur den neuesten senden.**
+
 **⛔ WERBEBEFUND VERALTET — NICHT SENDEN, BIS KORRIGIERT.** **Dieser Entwurf sagt, eine Formulierung komme „in keiner der zwölf Produktbeschreibungen" vor. Das war ein Befund über die SHOPIFY-BESCHREIBUNGSFELDER, nicht über die veröffentlichten Seiten.** **Die Live-Seiten enthalten u. a. „40,000 dogs have tried. Not one has beaten them yet.", „Still undefeated", „Triple-stitched at every seam" und eine 30-Tage-Garantie OHNE jede Bedingung** — siehe `docs/produktseiten-live-befund.md` (Befund vom 03.10., 21:20 UTC). **Vor dem Senden den Satz über die zwölf Texte streichen oder richtigstellen.**
 
 **✅ GEPRÜFT am 03.10.: Dies ist die geltende Fassung für diese Kundin. Alle drei früheren Fassungen in dieser Datei sind als ersetzt markiert.**
@@ -28033,6 +28041,132 @@ sie hat nicht danach gefragt, und die Fristen widersprechen sich (siehe
 **Keine Zusage zur Antwortzeit** — die veröffentlichte 24–48-Stunden-Zusage
 wird NICHT wiederholt. **Nur absolute Datumsangaben.** Kein
 Eskalationsmarker im Text.
+
+## #5310 — Heather Taylor (`bhjdc5@gmail.com`), US — **ZWEITE FASSUNG, 04.10. 01:20** · 🟥 **ihr Werbezitat IST veröffentlicht: „40,000 dogs have tried. Not one has beaten them yet." — die Fassung von gestern 19:20 sagt ihr das Gegenteil** · 04.10.
+
+**✅ GEPRÜFT am 04.10. 01:20: Dies ist die geltende Fassung für diese Kundin. Alle vier früheren Fassungen sind als ersetzt markiert.**
+
+**🟥 WARUM SOFORT EINE NEUE FASSUNG:** die Fassung von gestern 19:20 sagt ihr,
+der Satz, den sie zitiert, stehe **„in keinem der zwölf Texte"**. **Zwei
+Stunden nachdem ich das geschrieben hatte, stand er vor mir — veröffentlicht,
+auf unserer eigenen Fluffies-Produktseite.** **Diese Kundin hat die Werbung
+korrekt erinnert, und mein Entwurf hätte ihr nahegelegt, dass sie sich
+täuscht. Das ist der Fehler, den dieser Brief richtigstellt.**
+**Grundlage: `docs/produktseiten-live-befund.md`.**
+
+**🟥 OHNE BESTELLDATEN — Shopify seit 01.10. 17:20 UTC nicht erreichbar.
+Kein Betrag, kein Bestell- oder Versanddatum.**
+
+**🟦 Sie bekommt dieselbe Auskunft wie #7292 Tracy Hartley**, weil ihr
+dieselbe Bedingung vorgehalten wurde. **Zwei Menschen bei gleicher Sachlage
+unterschiedlich zu behandeln, wäre nicht zu verteidigen.**
+
+**🟦 Sie bleibt KEIN „processed"-Fall** — ihr *„let me know when this is
+processed"* war ihre eigene Annahme, keine Zusage von uns.
+
+**Betreff:** `Re: Refund request - order #5310`
+
+> Dear Heather,
+>
+> **You wrote on 20 September, on 22 September and on 24 September. Three
+> standard letters came back, and the one sent on 28 September was the
+> 24 September letter again, word for word, down to "Dear Customer". You
+> stopped writing after that, and I do not blame you.**
+>
+> **No fourth copy is coming from me. What follows is the answer to what you
+> actually said.**
+>
+> **You wrote: "Your advertising says no dog has ever destroyed the toy."**
+>
+> **You are right, and I am not going to be coy about it.** **Our own product
+> page says, word for word: "40,000 dogs have tried. Not one has beaten them
+> yet." It also says "Still undefeated".** **A marketing email of ours from
+> 27 August says "Still unbeaten." and, of the money-back guarantee, "Nobody
+> has needed it yet".** **You did not misremember and you did not invent
+> anything. That is our claim, in our words, and it is published.**
+>
+> **What I am not going to do is tell you your dogs were the first — you said
+> yourself there is no way they were, and I am not going to argue with you.**
+> **I am also not going to defend that sentence or tell you what it is worth.
+> It goes to the shop owner exactly as it stands, next to your message, and
+> what he does about it is his to answer.** **You are the third customer since
+> 13 August to quote that claim back to us.**
+>
+> **Now the condition that was quoted at you, because you are owed the whole
+> picture and not the convenient half of it.**
+>
+> **The sentence you were sent — that the guarantee applies to items returned
+> unused and in their original condition — does appear on one of our pages:
+> https://paw-friends.uk/pages/refund-policy. That page also says the window
+> is fourteen days, not thirty, and that return postage is yours.**
+> **But our other page, https://paw-friends.uk/policies/refund-policy, says
+> "30-day return policy" and says the rights it describes "are not limited by
+> the requirement that an item be unused or in its original packaging". And
+> the product page promises "a full 30 days to make sure you've made the right
+> choice" with no condition attached at all.**
+>
+> **So we have three documents and they do not agree.** **I am not going to
+> pick one of them and call it the policy, and I am not going to tell you what
+> the law makes of three pages that disagree — a support desk ruling on its
+> own employer's terms would be worth nothing to you.** **Which one governs is
+> the owner's to state, and that question is in front of him with your name on
+> it.**
+>
+> **On your refund.** **You asked on 20 September to be told when it was
+> processed. Nobody ever told you that it was, and I am not going to tell you
+> so now.** **I cannot check our payment records today, so I am not claiming
+> anything about them in either direction: if you have not seen money arrive,
+> then nothing in this correspondence has resolved it, and I cannot release a
+> payment from this desk.** **I am not going to refuse you a fourth time
+> either.** **Your request goes to the owner today as a request for a refund
+> of the two-pack, in your own words.** **I am not going to give you a date,
+> because I cannot stand behind one.**
+>
+> **One practical thing, so it does not cost you money: neither of those two
+> pages gives a postal address to send anything to. Both tell you to email
+> this address.** **So please do not post anything back from the US expecting
+> to be reimbursed, and keep what is left of both toys where it is.**
+>
+> **On making this known publicly: entirely your decision.** **I am not going
+> to ask you to hold off, I am not going to ask you to take anything down, and
+> nothing about how your request is handled depends on what you do or do not
+> post.**
+>
+> **Your photographs are on file. I have not opened them and I am not asking
+> you for anything further** — nothing here depends on you proving anything.
+>
+> **I am not going to make any claim about the toys in either direction, and I
+> am drawing no conclusion from your dogs.**
+>
+> **You were told three times that the answer was no, and the third letter was
+> a copy of the second. The one thing nobody did was check whether you were
+> right about the advertising. You were.**
+>
+> Kind regards,
+> Lisa
+> Paw-Friends Customer Support
+
+⚠️ **Zusage darin:** die **ausdrückliche Bestätigung, dass ihr Werbezitat
+veröffentlicht ist, mit Wortlaut von Produktseite und Werbemail**; die
+**offene Benennung der drei Vorlagenbriefe und des wörtlichen Duplikats vom
+28.09.**; die **vollständige Darstellung der drei widersprüchlichen Dokumente
+mit zwei URLs**; die **Auskunft, dass keine der Richtlinienseiten eine
+Postadresse nennt**; die **Warnung, kein Porto auszugeben**; die
+**Weitergabe ihrer Erstattungsforderung im Wortlaut.** **Keine Erstattung
+zugesagt, kein Termin, keine Absage.** **🟥 KEINE vierte Vorlage.**
+**🟥 NICHT behauptet, ihr Zitat sei nicht zu finden** — das Gegenteil, mit
+Wortlaut. **🟥 Die Werbeaussage wird NICHT verteidigt und NICHT bewertet.**
+**🟥 NICHT behauptet, ihre Hunde seien die ersten gewesen** — ihr Argument
+wird weder bestritten noch bestätigt. **🟥 KEINE rechtliche Bewertung zu
+„false advertising" und keine zu drei widersprüchlichen Dokumenten.**
+**🟥 KEINE der drei Fristen als die geltende dargestellt.** **🟥 NICHT
+behauptet, eine Erstattung sei ausgeführt — und nicht, sie sei es nicht.**
+**Keine Garantieentscheidung.** **Zu ihrer Veröffentlichungsankündigung wird
+NICHT um Zurückhaltung gebeten.** **Fotos nicht geöffnet, kein Nachweis
+verlangt.** **Keine Angaben aus dem Bestelldatensatz.** **Keine anderen
+Kundenvorgänge beschrieben** — nur Zahl und Zeitraum. **Nichts aus ihren
+Hunden gefolgert.** **Nur absolute Datumsangaben.** Kein Eskalationsmarker im
+Text.
 
 ## Was hier bewusst NICHT steht
 

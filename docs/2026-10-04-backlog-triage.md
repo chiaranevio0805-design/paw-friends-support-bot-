@@ -86,3 +86,70 @@ ERSETZT-Marker und Werbebefund-Sperren in `entwuerfe-zum-kopieren.md`):
 Abendreport nannte 471 und 363, richtig waren 474 und 362 — **wird diese Zahl
 nicht mehr aus einem Vortag übernommen, sondern bei jeder Nennung neu
 ermittelt.**
+
+---
+
+## Lauf 01:20 UTC — nichts Neues · 🟥 #5310 Heather Taylor richtiggestellt: ihr Werbezitat IST veröffentlicht
+
+**Posteingang: nichts Neues** (`newer_than:5h`, nur #8712 von gestern).
+
+### 🟥 Der Fehler, der hier behoben wird
+
+**Die Fassung von gestern 19:20 sagt ihr, der Satz, den sie zitiert, stehe
+„in keinem der zwölf Texte".** **Zwei Stunden später stand er vor mir —
+veröffentlicht, auf unserer eigenen Fluffies-Seite:**
+
+> **„40,000 dogs have tried. Not one has beaten them yet."** · **„Still
+> undefeated"**
+
+**Sie hatte geschrieben:** *„Your advertising says no dog has ever destroyed
+the toy. That's false because there is no way that mine were the first."*
+**Sie hat die Werbung korrekt erinnert. Mein Entwurf hätte ihr nahegelegt,
+dass sie sich täuscht.**
+
+### Was die neue Fassung ihr sagt
+
+1. **Ausdrücklich: sie hat recht.** Mit Wortlaut von der Produktseite **und**
+   aus der Werbemail vom 27.08. (*„Still unbeaten."*, *„Nobody has needed it
+   yet"*). *„You did not misremember and you did not invent anything."*
+2. **Die drei Vorlagenbriefe und das wörtliche Duplikat vom 28.09.** werden
+   offen benannt; **keine vierte Vorlage.**
+3. **Die volle Dokumentenlage, nicht die bequeme Hälfte:** die ihr
+   vorgehaltene Bedingung **steht** auf `/pages/refund-policy` — **dieselbe
+   Seite sagt aber 14 Tage und Porto zulasten der Kundschaft**; die zweite
+   Seite sagt 30 Tage und *„not limited by the requirement that an item be
+   unused or in its original packaging"*; **die Produktseite verspricht die
+   30 Tage ohne jede Bedingung.** **Drei Dokumente, keine Übereinstimmung.**
+   **Keines wird als das geltende dargestellt.**
+4. **Keine Postadresse auf beiden Richtlinienseiten** → Warnung, kein Porto
+   auszugeben.
+5. **Ihre Erstattungsforderung** geht im Wortlaut weiter; **keine Zusage,
+   kein Termin, keine vierte Absage** — und **nichts über Zahlungseingänge
+   behauptet**, in keine Richtung.
+
+### Was die neue Fassung ausdrücklich NICHT tut
+
+- **Die Werbeaussage wird NICHT verteidigt und NICHT bewertet.** Sie geht
+  unverändert an den Owner.
+- **Es wird NICHT behauptet, ihre Hunde seien die ersten gewesen** — ihr
+  eigenes Argument wird weder bestritten noch bestätigt.
+- **Keine rechtliche Bewertung** zu „false advertising" und keine dazu, was
+  drei widersprüchliche Dokumente bedeuten.
+- **Keine Garantieentscheidung.** **Keine Bitte, die Veröffentlichung zu
+  unterlassen.** **Fotos nicht geöffnet.** **Keine Bestelldaten.**
+- **Keine anderen Kundenvorgänge beschrieben** — nur, dass sie die dritte
+  seit dem 13.08. ist, die diese Aussage zitiert.
+
+### 🟦 Gleichbehandlung, ausdrücklich
+
+**Sie bekommt dieselbe Auskunft über die drei Dokumente wie #7292 Tracy
+Hartley**, weil ihr dieselbe Bedingung vorgehalten wurde. **Zwei Menschen bei
+gleicher Sachlage unterschiedlich zu behandeln — eine fragt, die andere nicht —
+wäre nicht zu verteidigen.** **Das gilt ab jetzt für jeden Fall, dem die
+Bedingung „unbenutzt" vorgehalten wurde.**
+
+### Stand (in diesem Lauf gezählt)
+
+- **Entwürfe: 478. Ersetzt: 117. Geltende: 361. Werbebefund-Sperre: 86.**
+- **Noch offen aus dem Befund: #5829, #7440, #4071 und 83 weitere Entwürfe.**
+- **Nichts gesendet, keine Erstattung ausgelöst, nichts verändert.**
