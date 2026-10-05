@@ -27,6 +27,7 @@ leer.**
 | Lauf (UTC) | Gegenprobe `to:support.pawfriends.uk@gmail.com` | Ergebnis |
 |---|---|---|
 | **00:20** | `newer_than:5d` | **leer** — sechster Lauf ohne Zugang |
+| **01:20** | `newer_than:5d` | **leer** — siebter Lauf ohne Zugang |
 
 ---
 
