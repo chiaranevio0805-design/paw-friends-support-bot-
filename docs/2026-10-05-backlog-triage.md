@@ -38,6 +38,7 @@ leer.**
 | **09:20** | — | **nicht abgefragt** — Zugang unverändert |
 | **10:20** | `to:...  newer_than:12h` | **leer** — vierzehnter Lauf ohne Zugang |
 | **11:20** | `to:... newer_than:13h`, dann **ohne Zeitfenster** | **leer** — **fünfzehnter Lauf ohne Zugang**; ohne Zeitfenster **drei** mitadressierte Threads, zwei davon neu, siehe unten |
+| **12:20** | `to:... newer_than:14h`; `authuser` erneut geprüft | **leer** — **sechzehnter Lauf ohne Zugang**; Verbindung unverändert `authuser=chiaranevio0805@gmail.com` |
 
 ---
 
@@ -201,3 +202,23 @@ eskaliert, nichts gesendet, keinen Entwurf angelegt und keine Erstattung
 veranlasst.** **Das private Postfach wird weiter nicht triagiert; aufgenommen
 ist hier nur, was an das SUPPORT-Postfach mitadressiert ist, weil genau das
 der Auftrag ist.**
+
+---
+
+## Lauf 12:20 UTC — sechzehnter Lauf ohne Zugang
+
+**Gegenprobe `to:support.pawfriends.uk@gmail.com newer_than:14h`: leer (`{}`).**
+**Die Verbindung hängt unverändert am privaten Postfach — erneut an
+`authuser=chiaranevio0805@gmail.com` belegt.**
+
+**🟨 Eine Korrektur am eigenen Vorgehen:** **zur Prüfung des `authuser` habe
+ich `in:sent` abgefragt, und dabei ist ein rein privater Thread des Owners in
+der Antwort erschienen** (Absender und Inhalt haben mit dem Shop nichts zu
+tun). **Er wird hier NICHT festgehalten — weder Absender noch Betreff noch
+Inhalt, und geöffnet wurde er nicht.** **Künftig prüfe ich den `authuser`
+nicht mehr über `in:sent`, sondern nur noch über die Abfrage auf das
+Support-Postfach selbst, damit nichts Privates auch nur in der Antwort
+auftaucht.**
+
+**Nichts gelesen, nichts bearbeitet, nichts gesendet, kein Entwurf, keine
+Erstattung. Das private Postfach wird nicht triagiert.**
