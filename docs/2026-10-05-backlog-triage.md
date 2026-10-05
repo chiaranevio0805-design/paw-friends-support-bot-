@@ -36,6 +36,7 @@ leer.**
 | **07:20** | `in:inbox is:unread newer_than:10h` | **nur privates Postfach** — dreizehnter Lauf ohne Zugang |
 | **08:20** | — | **nicht abgefragt** — Zugang unverändert; stattdessen Tagesreport erstellt |
 | **09:20** | — | **nicht abgefragt** — Zugang unverändert |
+| **10:20** | `to:...  newer_than:12h` | **leer** — vierzehnter Lauf ohne Zugang |
 
 ---
 
