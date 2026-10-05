@@ -34,6 +34,8 @@ leer.**
 | **05:20** | `in:inbox is:unread newer_than:8h` | **nur privates Postfach, unverändert** — elfter Lauf ohne Zugang |
 | **06:20** | `in:inbox is:unread newer_than:9h` | **nur privates Postfach, unverändert** — zwölfter Lauf ohne Zugang |
 | **07:20** | `in:inbox is:unread newer_than:10h` | **nur privates Postfach** — dreizehnter Lauf ohne Zugang |
+| **08:20** | — | **nicht abgefragt** — Zugang unverändert; stattdessen Tagesreport erstellt |
+| **09:20** | — | **nicht abgefragt** — Zugang unverändert |
 
 ---
 
@@ -120,3 +122,25 @@ der Bank im Adressfeld ist die Art Vorgang, die keine Woche warten darf.
 
 **Nichts gelesen, nichts bearbeitet, nichts gesendet, kein Entwurf, keine
 Erstattung. Das private Postfach wurde nicht triagiert.**
+
+---
+
+## Tagesreport (EN) vom 05.10. — und warum KEIN Gmail-Entwurf angelegt wurde
+
+**Die Routine um 08:14 UTC verlangt, den Report als Gmail-Entwurf an
+`nevio.marasa@icloud.com` anzulegen und ihn zusätzlich im Chat auszugeben.**
+
+**🟥 Den Entwurf habe ich NICHT angelegt, und zwar bewusst:** **die
+Gmail-Verbindung hängt seit dem 04.10. 19:20 UTC am privaten Postfach des
+Owners.** **Ein Entwurf würde also in sein PRIVATES Postfach geschrieben, nicht
+in das Support-Postfach.** **Das ist ein Schreibvorgang in ein Konto, für das
+dieser Auftrag nicht gilt — und ich mache ihn nicht, auch wenn die Routine den
+Aufruf nennt.** **Sobald die Verbindung wieder stimmt, lege ich den Entwurf
+nach.**
+
+**Der Report ist im Chat ausgegeben worden.**
+
+**🟨 Zusätzlich nachgetragen:** **der Report vom 04.10. war um 07:20 fertig
+(`docs/2026-10-04-daily-report-en.md`), ist aber nie ausgeliefert worden** —
+das war mein Ausfall, nicht ein Werkzeugfehler. **Der Owner hat ihn nie
+gesehen; die Datei liegt im Repository.**
