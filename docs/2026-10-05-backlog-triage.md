@@ -46,6 +46,7 @@ leer.**
 | **17:20** | `to:...` (Support-Adresse, ohne Zeitfenster) | **unverändert, kein neuer Thread** — **einundzwanzigster Lauf ohne Zugang**, `authuser=chiaranevio0805@gmail.com` |
 | **18:20** | `to:...` (Support-Adresse, ohne Zeitfenster) | **unverändert, kein neuer Thread** — **zweiundzwanzigster Lauf ohne Zugang**, `authuser=chiaranevio0805@gmail.com` |
 | **19:20** | `to:...` (Support-Adresse, ohne Zeitfenster) | **unverändert, kein neuer Thread** — **dreiundzwanzigster Lauf ohne Zugang**; genau 24 h nach dem Postfachwechsel |
+| **20:20** | `to:...` (Support-Adresse, ohne Zeitfenster) | **unverändert, kein neuer Thread** — **vierundzwanzigster Lauf ohne Zugang** |
 
 ---
 
