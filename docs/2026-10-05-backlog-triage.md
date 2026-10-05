@@ -37,6 +37,7 @@ leer.**
 | **08:20** | — | **nicht abgefragt** — Zugang unverändert; stattdessen Tagesreport erstellt |
 | **09:20** | — | **nicht abgefragt** — Zugang unverändert |
 | **10:20** | `to:...  newer_than:12h` | **leer** — vierzehnter Lauf ohne Zugang |
+| **11:20** | `to:... newer_than:13h`, dann **ohne Zeitfenster** | **leer** — **fünfzehnter Lauf ohne Zugang**; ohne Zeitfenster **drei** mitadressierte Threads, zwei davon neu, siehe unten |
 
 ---
 
@@ -145,3 +146,58 @@ nach.**
 (`docs/2026-10-04-daily-report-en.md`), ist aber nie ausgeliefert worden** —
 das war mein Ausfall, nicht ein Werkzeugfehler. **Der Owner hat ihn nie
 gesehen; die Datei liegt im Repository.**
+
+---
+
+## Lauf 11:20 UTC — fünfzehnter Lauf ohne Zugang, aber die Gegenprobe ohne Zeitfenster zeigt drei Threads statt einem
+
+**Die Gegenprobe mit Zeitfenster (`to:support.pawfriends.uk@gmail.com
+newer_than:13h`) ist leer — `{}`.** **Danach habe ich dieselbe Abfrage OHNE
+Zeitfenster laufen lassen, um festzustellen, ob die Verbindung inzwischen
+wieder am Support-Postfach hängt.** **Sie hängt nicht.** **Belegt an den
+`viewUrl`-Feldern: jedes einzelne lautet
+`authuser=chiaranevio0805@gmail.com`.** **Fünfzehnter Lauf ohne Zugang zum
+Support-Postfach.**
+
+**Nur Metadaten (`THREAD_VIEW_METADATA_ONLY`) — kein Betreff, kein Textauszug,
+kein Inhalt. Nichts geöffnet.**
+
+### 🟨 Es sind drei Threads, nicht einer — und zwei davon stehen nirgends im Repository
+
+**Am 02:20 fand dieselbe Abfrage mit `newer_than:6d` genau einen Thread
+(Trafford). Ohne Zeitfenster sind es drei.** **Alle drei sind im privaten
+Postfach des Owners, und alle drei sind nur deshalb auffindbar, weil das
+Support-Postfach als MIT-Empfänger eingetragen ist:**
+
+| Thread | Metadaten | Im Repository? |
+|---|---|---|
+| `trafford.pam@gmail.com` | 2 Nachrichten, 09.09. und 29.09.; bei der ersten ist `carddisputes@co-operativebank.co.uk` zweiter Empfänger; **beide ungelesen** | ja, seit 02:20 vermerkt |
+| `wayneyeomans447@gmail.com` | 1 Nachricht, **29.06.**, an das private UND das Support-Postfach; **ungelesen**; ~34 KB (also mit Anhang oder langem Inhalt) | **🟥 nein — kommt im ganzen Repository nicht vor** |
+| `darrenplouis@gmail.com` | 3 Nachrichten, **01.07.** an das Support-Postfach mit dem privaten Postfach im CC; **02.07. 10:11 eine Antwort VOM privaten Konto** (`chiaranevio0805@gmail.com`) an ihn; **02.07. 10:14 seine Rückmeldung, nur an das private Postfach, ungelesen** | **🟥 nein — kommt im ganzen Repository nicht vor** |
+
+**Vor dieser Aussage habe ich im Repository gesucht** (`darrenplouis|wayneyeomans`,
+alle Dateien): **kein Treffer.** **Diese beiden Vorgänge sind in keinem
+Triage-Log, in keinem Entwurf und in keiner Prüfliste.**
+
+### 🟥 Was das für den Owner bedeutet
+
+1. **Das private Postfach stand schon im Juni/Juli in Support-Vorgängen —
+   nicht erst seit dem 04.10.** **Der Wechsel der Verbindung am 04.10. ist
+   also nicht der Anfang dieser Verflechtung, sondern sie bestand vorher.**
+2. **Am 02.07. hat das private Konto selbst einem Kunden geantwortet.**
+   **Das ist der früheste Beleg dafür, dass aus diesem Haus an Kunden
+   geschrieben wird, ohne dass es durch das Support-Postfach läuft** — und es
+   passt zu den vier Briefen vom 04.10., die ohne mich hinausgingen.
+3. **Seine Rückmeldung vom 02.07. 10:14 ist ungelesen und ging nur an das
+   private Postfach.** **Ich kann nicht sagen, ob sie beantwortet wurde, und
+   ich behaupte nicht, sie sei es nicht** — ich habe sie nicht geöffnet und
+   sehe nur das `UNREAD`-Label. **Der Owner muss beide Threads selbst
+   ansehen.**
+4. **Die Nachricht vom 29.06. ist mit ~34 KB deutlich größer als eine normale
+   Textmail.** **Mehr sage ich dazu nicht — Anhänge werden nicht geöffnet.**
+
+**Ich habe die drei Threads nicht geöffnet, nicht bearbeitet, nicht
+eskaliert, nichts gesendet, keinen Entwurf angelegt und keine Erstattung
+veranlasst.** **Das private Postfach wird weiter nicht triagiert; aufgenommen
+ist hier nur, was an das SUPPORT-Postfach mitadressiert ist, weil genau das
+der Auftrag ist.**
