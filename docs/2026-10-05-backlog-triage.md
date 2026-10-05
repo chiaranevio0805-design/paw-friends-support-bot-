@@ -28,6 +28,7 @@ leer.**
 |---|---|---|
 | **00:20** | `newer_than:5d` | **leer** — sechster Lauf ohne Zugang |
 | **01:20** | `newer_than:5d` | **leer** — siebter Lauf ohne Zugang |
+| **02:20** | `newer_than:6d` | **🟨 NICHT leer, aber auch kein Zugang** — ein Thread, siehe unten |
 
 ---
 
@@ -78,3 +79,39 @@ zweite Stimme daneben.**
 6. **Rücksendeadresse nennen oder ohne Rücksendung erstatten.**
 7. **Die 13 „processed"-Zusagen plus #6583 und #2894 zahlen oder zurücknehmen.**
 8. **Die fünf Sicherheitsmeldungen beantworten.**
+
+---
+
+## Lauf 02:20 UTC — die Gegenprobe ist diesmal nicht leer, und das ist ein Befund für sich
+
+**Achter Lauf ohne Zugang zum Support-Postfach — aber die Abfrage
+`to:support.pawfriends.uk@gmail.com newer_than:6d` hat erstmals EINEN Treffer.**
+**Ich stelle genau fest, warum, damit das nicht als „Zugang wiederhergestellt"
+missverstanden wird:**
+
+- **Der Thread liegt im privaten Postfach** (`chiaranevio0805@gmail.com` als
+  Empfänger) — **er ist nur deshalb gefunden worden, weil das Support-Postfach
+  bei einer der beiden Nachrichten als MIT-Empfänger eingetragen ist.**
+- **Die Verbindung hängt also unverändert am privaten Postfach.** **Der
+  Zugang zum Support-Postfach ist nicht wiederhergestellt.**
+- **Ich habe den Thread NICHT geöffnet.** Die Abfrage lief mit
+  `THREAD_VIEW_METADATA_ONLY` — **kein Betreff, kein Textauszug, kein
+  Inhalt.**
+
+### 🟥 Was die Metadaten allein schon zeigen, und es gehört dem Owner
+
+**Absenderin: `trafford.pam@gmail.com`. Zwei Nachrichten, 09.09. und 29.09.**
+**Bei der ersten vom 09.09. ist als zweiter Empfänger
+`carddisputes@co-operativebank.co.uk` eingetragen.**
+
+**Das ist eine Kartenreklamation bei ihrer Bank, und das Support-Postfach ist
+bei der zweiten Nachricht mitadressiert.** **Pam Trafford ist nicht neu: sie
+stand am 01.10. schon einmal in einer ausgehenden Nachricht dieses Postfachs.**
+
+**Mehr sage ich dazu nicht, weil ich den Inhalt nicht gelesen habe und auch
+nicht lesen werde, solange die Verbindung am privaten Postfach hängt.**
+**Der Owner sollte diesen Thread selbst ansehen** — eine Kartenreklamation mit
+der Bank im Adressfeld ist die Art Vorgang, die keine Woche warten darf.
+
+**Nichts gelesen, nichts bearbeitet, nichts gesendet, kein Entwurf, keine
+Erstattung. Das private Postfach wurde nicht triagiert.**
