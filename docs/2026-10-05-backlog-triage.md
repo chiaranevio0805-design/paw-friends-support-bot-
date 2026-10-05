@@ -33,6 +33,7 @@ leer.**
 | **04:20** | `in:inbox is:unread newer_than:7h` | **nur privates Postfach, unverändert** — zehnter Lauf ohne Zugang |
 | **05:20** | `in:inbox is:unread newer_than:8h` | **nur privates Postfach, unverändert** — elfter Lauf ohne Zugang |
 | **06:20** | `in:inbox is:unread newer_than:9h` | **nur privates Postfach, unverändert** — zwölfter Lauf ohne Zugang |
+| **07:20** | `in:inbox is:unread newer_than:10h` | **nur privates Postfach** — dreizehnter Lauf ohne Zugang |
 
 ---
 
