@@ -31,6 +31,7 @@ leer.**
 | **02:20** | `newer_than:6d` | **🟨 NICHT leer, aber auch kein Zugang** — ein Thread, siehe unten |
 | **03:20** | `in:inbox is:unread newer_than:6h` | **nur privates Postfach** — neunter Lauf ohne Zugang |
 | **04:20** | `in:inbox is:unread newer_than:7h` | **nur privates Postfach, unverändert** — zehnter Lauf ohne Zugang |
+| **05:20** | `in:inbox is:unread newer_than:8h` | **nur privates Postfach, unverändert** — elfter Lauf ohne Zugang |
 
 ---
 
