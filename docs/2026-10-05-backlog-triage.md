@@ -45,6 +45,7 @@ leer.**
 | **16:20** | `to:...` (Support-Adresse, ohne Zeitfenster) | **unverändert, kein neuer Thread** — **zwanzigster Lauf ohne Zugang**, `authuser=chiaranevio0805@gmail.com` |
 | **17:20** | `to:...` (Support-Adresse, ohne Zeitfenster) | **unverändert, kein neuer Thread** — **einundzwanzigster Lauf ohne Zugang**, `authuser=chiaranevio0805@gmail.com` |
 | **18:20** | `to:...` (Support-Adresse, ohne Zeitfenster) | **unverändert, kein neuer Thread** — **zweiundzwanzigster Lauf ohne Zugang**, `authuser=chiaranevio0805@gmail.com` |
+| **19:20** | `to:...` (Support-Adresse, ohne Zeitfenster) | **unverändert, kein neuer Thread** — **dreiundzwanzigster Lauf ohne Zugang**; genau 24 h nach dem Postfachwechsel |
 
 ---
 
@@ -228,3 +229,20 @@ auftaucht.**
 
 **Nichts gelesen, nichts bearbeitet, nichts gesendet, kein Entwurf, keine
 Erstattung. Das private Postfach wird nicht triagiert.**
+
+---
+
+## Abendreport 05.10. — als Datei geschrieben, nicht nur im Chat
+
+**`docs/2026-10-05-abendreport.md`** (Commit `704fbf3`). **Teil 1 mit den
+Tageszahlen (alle null, Grund: Zugangsverlust), Teil 2 mit den NEUN
+Volltexten, deren Wortlaut dem Owner noch nie in einem Abendreport vorlag**
+— #6384, #8712, #7292 (Fassung 03.10. 22:20), #5310, #5829, #7440, #4071,
+#4919, Tamara Heathcote — **plus Übertragstabelle und den fünf Fällen vom
+04.10., die gar keinen Entwurf haben.** **Teil 3: nichts zu erstatten,
+£0,00.**
+
+**🟨 Dabei festgestellt und im Report benannt: für den 04.10. existiert KEIN
+Abendreport** — keine Datei, kein Hinweis im Protokoll, dass er ausgeliefert
+wurde. **Er wird nicht nachträglich aus dem Gedächtnis geschrieben; die
+betroffenen Volltexte stehen stattdessen im heutigen Report.**
