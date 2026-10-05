@@ -49,6 +49,7 @@ leer.**
 | **20:20** | `to:...` (Support-Adresse, ohne Zeitfenster) | **unverändert, kein neuer Thread** — **vierundzwanzigster Lauf ohne Zugang** |
 | **21:20** | `to:...` (Support-Adresse, ohne Zeitfenster) | **unverändert, kein neuer Thread** — **fünfundzwanzigster Lauf ohne Zugang** |
 | **22:20** | `to:...` (Support-Adresse, ohne Zeitfenster) | **unverändert, kein neuer Thread** — **sechsundzwanzigster Lauf ohne Zugang** |
+| **23:20** | `to:...` (Support-Adresse, ohne Zeitfenster) | **unverändert, kein neuer Thread** — **siebenundzwanzigster Lauf ohne Zugang**; letzter Lauf des Tages |
 
 ---
 
@@ -249,3 +250,36 @@ Volltexten, deren Wortlaut dem Owner noch nie in einem Abendreport vorlag**
 Abendreport** — keine Datei, kein Hinweis im Protokoll, dass er ausgeliefert
 wurde. **Er wird nicht nachträglich aus dem Gedächtnis geschrieben; die
 betroffenen Volltexte stehen stattdessen im heutigen Report.**
+
+---
+
+## Abschluss des 5. Oktober
+
+**Der Tag endet so, wie er begonnen hat: ohne Zugang zum Support-Postfach.**
+
+| | |
+|---|---|
+| **Läufe heute** | **24** protokolliert (00:20–23:20; 08:20 und 09:20 ohne Abfrage) |
+| **Davon mit Zugang zum Support-Postfach** | **0** |
+| **Gelesene Kundennachrichten** | **0** |
+| **Geschriebene Entwürfe** | **0** |
+| **Eskalationen** | **0** |
+| **Gesendete E-Mails** | **0** |
+| **Erstattungen** | **0** |
+| **Zusammenhängende Läufe ohne Zugang seit 04.10. 19:20** | **27** |
+
+**Das Support-Postfach ist jetzt seit 28 Stunden unbetreut.** **Ich kann nicht
+sagen, was in dieser Zeit hereingekommen ist** — die fünf Fälle vom 04.10.
+früh (Richard, #7347 Jill Hibbs, Lacey, #7982 Rod O'Donnell, Nigel Bennett)
+liegen unbearbeitet, und seither können weitere dazugekommen sein, die
+niemand gesehen hat.
+
+**Geliefert wurde heute trotzdem:** der englische Tagesreport (im Chat, ohne
+Gmail-Entwurf, mit Begründung), und der Abendreport **als Datei**
+(`docs/2026-10-05-abendreport.md`) **mit den neun Entwurfs-Volltexten, die dem
+Owner noch nie vorlagen** — darunter die sechs vom 04.10., für die es keinen
+Abendreport gibt.
+
+**Das Wichtigste für morgen bleibt unverändert die erste Zeile:
+die Gmail-Verbindung zurück auf `support.pawfriends.uk@gmail.com` — und
+prüfen, ob der Wechsel beabsichtigt war.**
