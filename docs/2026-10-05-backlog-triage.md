@@ -40,6 +40,7 @@ leer.**
 | **11:20** | `to:... newer_than:13h`, dann **ohne Zeitfenster** | **leer** — **fünfzehnter Lauf ohne Zugang**; ohne Zeitfenster **drei** mitadressierte Threads, zwei davon neu, siehe unten |
 | **12:20** | `to:... newer_than:14h`; `authuser` erneut geprüft | **leer** — **sechzehnter Lauf ohne Zugang**; Verbindung unverändert `authuser=chiaranevio0805@gmail.com` |
 | **13:20** | `to:... newer_than:15h`, dazu `authuser`-Probe **nur noch über die Support-Adresse** | **leer** — **siebzehnter Lauf ohne Zugang**; unverändert drei mitadressierte Threads, `authuser=chiaranevio0805@gmail.com` |
+| **14:20** | `to:...` (Support-Adresse, ohne Zeitfenster) | **unverändert drei mitadressierte Threads, kein neuer** — **achtzehnter Lauf ohne Zugang**, `authuser=chiaranevio0805@gmail.com` |
 
 ---
 
