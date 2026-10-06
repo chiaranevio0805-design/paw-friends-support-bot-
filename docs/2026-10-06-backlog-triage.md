@@ -54,6 +54,7 @@ null Entwürfe.**
 | **20:20** | ohne Zeitfenster | **unverändert, kein neuer Thread** — **achtundvierzigster Lauf ohne Zugang** |
 | **21:20** | ohne Zeitfenster | **unverändert, kein neuer Thread** — **neunundvierzigster Lauf ohne Zugang** |
 | **22:20** | ohne Zeitfenster | **unverändert, kein neuer Thread** — **fünfzigster Lauf ohne Zugang** |
+| **23:20** | ohne Zeitfenster | **unverändert, kein neuer Thread** — **einundfünfzigster Lauf ohne Zugang**; letzter Lauf des Tages |
 
 ---
 
@@ -131,3 +132,31 @@ zu erstatten, £0,00.**
 
 **Zahlen frisch nachgezählt: 483 Überschriften, 121 ersetzt, 362 geltend,
 83 mit Werbebefund-Sperre** — unverändert, weil nichts geschrieben wurde.
+
+---
+
+## Abschluss des 6. Oktober
+
+| | |
+|---|---|
+| **Läufe heute** | **20** protokolliert (00:20–23:20) |
+| **Davon mit Zugang zum Support-Postfach** | **0** |
+| **Gelesene Kundennachrichten** | **0** |
+| **Geschriebene Entwürfe** | **0** |
+| **Eskalationen** | **0** |
+| **Gesendete E-Mails** | **0** |
+| **Erstattungen** | **0** |
+| **Zusammenhängende Läufe ohne Zugang seit 04.10. 19:20** | **51** |
+
+**Zweiter vollständiger Tag ohne Betreuung des Support-Postfachs; insgesamt
+rund 52 Stunden.** **Was in dieser Zeit hereingekommen ist, weiß ich nicht.**
+
+**Geliefert wurde heute:** der englische Tagesreport
+(`docs/2026-10-06-daily-report-en.md`, im Chat, **ohne Gmail-Entwurf**, mit
+Begründung) und der Abendreport (`docs/2026-10-06-abendreport.md`, im Chat
+und als Datei).
+
+**Unverändert offen und morgen das Erste:
+die Gmail-Verbindung zurück auf `support.pawfriends.uk@gmail.com` — und
+prüfen, ob der Wechsel beabsichtigt war.** **Danach die fünf Fälle vom 04.10.,
+die seit drei Tagen keinen Entwurf haben.**
