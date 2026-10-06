@@ -39,6 +39,7 @@ null Entwürfe.**
 | **05:20** | ohne Zeitfenster | **unverändert, kein neuer Thread** — **dreiunddreißigster Lauf ohne Zugang** |
 | **06:20** | ohne Zeitfenster | **unverändert, kein neuer Thread** — **vierunddreißigster Lauf ohne Zugang** |
 | **07:20** | ohne Zeitfenster | **unverändert, kein neuer Thread** — **fünfunddreißigster Lauf ohne Zugang** |
+| **08:20** | — | **nicht abgefragt** — Zugang unverändert; stattdessen Tagesreport erstellt |
 
 ---
 
@@ -84,3 +85,20 @@ null Entwürfe.**
 9. **Die fünf Sicherheitsmeldungen beantworten.**
 10. **Die drei Werbeanhänge öffnen** (#6311, Tamara Heathcote ×2).
 11. **Den Satz über die „zwölf Produkttexte" in 83 Entwürfen streichen lassen.**
+
+---
+
+## Tagesreport (EN) vom 06.10. — und warum wieder KEIN Gmail-Entwurf
+
+**`docs/2026-10-06-daily-report-en.md`, im Chat ausgegeben.**
+
+**🟥 Den Gmail-Entwurf habe ich erneut NICHT angelegt, aus demselben Grund wie
+am 05.10.: die Verbindung hängt am privaten Postfach des Owners.** **Ein
+Entwurf würde in sein PRIVATES Konto geschrieben, für das dieser Auftrag nicht
+gilt.** **Sobald die Verbindung stimmt, lege ich ihn nach.**
+
+**Der Report nennt: alle Kategorien null (Grund: Zugangsverlust, 35 Läufe),
+die fünf Fälle vom 04.10. ohne Entwurf mit je einem empfohlenen nächsten
+Schritt, keine Erstattung, und die Owner-Liste mit der Gmail-Verbindung an
+erster Stelle.** **Außerdem nochmals festgehalten, dass der Report vom 04.10.
+nie ausgeliefert wurde — mein Ausfall, die Datei liegt im Repository.**
