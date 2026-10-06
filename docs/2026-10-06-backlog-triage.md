@@ -112,3 +112,18 @@ die fünf Fälle vom 04.10. ohne Entwurf mit je einem empfohlenen nächsten
 Schritt, keine Erstattung, und die Owner-Liste mit der Gmail-Verbindung an
 erster Stelle.** **Außerdem nochmals festgehalten, dass der Report vom 04.10.
 nie ausgeliefert wurde — mein Ausfall, die Datei liegt im Repository.**
+
+---
+
+## Abendreport 06.10.
+
+**`docs/2026-10-06-abendreport.md`, im Chat ausgegeben.** **Alle Kategorien
+null, Grund: zweiter vollständiger Tag ohne Zugang (19 Läufe heute, 46
+zusammenhängend).** **Teil 2: kein neuer Entwurf entstanden, also kein neuer
+Volltext — die neun Entwürfe vom 05.10. bleiben offen, ihr Volltext steht im
+Abendreport von gestern; dazu die Überträge der Vortage mit Fundstelle und
+die fünf Fälle vom 04.10., die gar keinen Entwurf haben.** **Teil 3: nichts
+zu erstatten, £0,00.**
+
+**Zahlen frisch nachgezählt: 483 Überschriften, 121 ersetzt, 362 geltend,
+83 mit Werbebefund-Sperre** — unverändert, weil nichts geschrieben wurde.
