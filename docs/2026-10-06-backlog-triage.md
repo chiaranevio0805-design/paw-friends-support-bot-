@@ -39,7 +39,7 @@ null Entwürfe.**
 | **05:20** | ohne Zeitfenster | **unverändert, kein neuer Thread** — **dreiunddreißigster Lauf ohne Zugang** |
 | **06:20** | ohne Zeitfenster | **unverändert, kein neuer Thread** — **vierunddreißigster Lauf ohne Zugang** |
 | **07:20** | ohne Zeitfenster | **unverändert, kein neuer Thread** — **fünfunddreißigster Lauf ohne Zugang** |
-| **08:20** | — | **nicht abgefragt** — Zugang unverändert; stattdessen Tagesreport erstellt |
+| **08:20** | ohne Zeitfenster | **unverändert, kein neuer Thread** — **sechsunddreißigster Lauf ohne Zugang**; in derselben Stunde der Tagesreport |
 
 ---
 
