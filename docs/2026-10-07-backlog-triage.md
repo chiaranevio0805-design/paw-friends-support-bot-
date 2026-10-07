@@ -113,3 +113,21 @@ Grund: die Verbindung hängt am privaten Postfach des Owners.**
 Verbindung zurückgesetzt ist — das sind inzwischen rund 60 Stunden
 Kundenpost, in die niemand gesehen hat.** **Und: #8764 Craig Wrens selbst
 gesetzte Frist läuft seit dem 02.10., also fünf Tage.**
+
+---
+
+## Abendreport 07.10.
+
+**`docs/2026-10-07-abendreport.md`, im Chat ausgegeben.** **Alle Kategorien
+null; dritter vollständiger Tag ohne Zugang (19 Läufe heute, 70
+zusammenhängend, rund 72 Stunden unbetreut).** **Teil 2: kein neuer Entwurf,
+also kein neuer Volltext — die neun Entwürfe mit Volltext vom 05.10. bleiben
+offen, dazu die Überträge mit Fundstelle und die fünf Fälle vom 04.10. ohne
+Entwurf.** **Teil 3: nichts zu erstatten, £0,00.**
+
+**Im Report ebenfalls festgehalten: der eigene Fehler von heute** — die
+08:20-Zeile stand im Protokoll, bevor die Abfrage lief; sie ist nachgeholt
+und bestätigt, und die Zeile sagt das.
+
+**Zahlen frisch nachgezählt: 483 / 121 ersetzt / 362 geltend / 83 gesperrt** —
+unverändert.
