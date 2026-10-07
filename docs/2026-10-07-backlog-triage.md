@@ -41,6 +41,7 @@ des Owners (`chiaranevio0805@gmail.com`), nicht an
 | **05:20** | ohne Zeitfenster | **unverändert, kein neuer Thread** — **siebenundfünfzigster Lauf ohne Zugang** |
 | **06:20** | ohne Zeitfenster | **unverändert, kein neuer Thread** — **achtundfünfzigster Lauf ohne Zugang** |
 | **07:20** | ohne Zeitfenster | **unverändert, kein neuer Thread** — **neunundfünfzigster Lauf ohne Zugang** |
+| **08:20** | ohne Zeitfenster | **unverändert, kein neuer Thread** — **sechzigster Lauf ohne Zugang**; in derselben Stunde der Tagesreport |
 
 ---
 
@@ -88,3 +89,17 @@ des Owners (`chiaranevio0805@gmail.com`), nicht an
 9. **Die fünf Sicherheitsmeldungen beantworten.**
 10. **Die drei Werbeanhänge öffnen** (#6311, Tamara Heathcote ×2).
 11. **Den Satz über die „zwölf Produkttexte" in 83 Entwürfen streichen lassen.**
+
+---
+
+## Tagesreport (EN) vom 07.10. — dritter Tag ohne Gmail-Entwurf
+
+**`docs/2026-10-07-daily-report-en.md`, im Chat ausgegeben.**
+
+**🟥 Den Gmail-Entwurf habe ich zum dritten Mal NICHT angelegt, aus demselben
+Grund: die Verbindung hängt am privaten Postfach des Owners.**
+
+**Im Report ausdrücklich gesagt:** **der Report wird dasselbe sagen, bis die
+Verbindung zurückgesetzt ist — das sind inzwischen rund 60 Stunden
+Kundenpost, in die niemand gesehen hat.** **Und: #8764 Craig Wrens selbst
+gesetzte Frist läuft seit dem 02.10., also fünf Tage.**
