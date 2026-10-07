@@ -56,6 +56,7 @@ des Owners (`chiaranevio0805@gmail.com`), nicht an
 | **20:20** | ohne Zeitfenster | **unverändert, kein neuer Thread** — **zweiundsiebzigster Lauf ohne Zugang** |
 | **21:20** | ohne Zeitfenster | **unverändert, kein neuer Thread** — **dreiundsiebzigster Lauf ohne Zugang** |
 | **22:20** | ohne Zeitfenster | **unverändert, kein neuer Thread** — **vierundsiebzigster Lauf ohne Zugang** |
+| **23:20** | ohne Zeitfenster | **unverändert, kein neuer Thread** — **fünfundsiebzigster Lauf ohne Zugang**; letzter Lauf des Tages |
 
 ---
 
@@ -135,3 +136,32 @@ und bestätigt, und die Zeile sagt das.
 
 **Zahlen frisch nachgezählt: 483 / 121 ersetzt / 362 geltend / 83 gesperrt** —
 unverändert.
+
+---
+
+## Abschluss des 7. Oktober
+
+| | |
+|---|---|
+| **Läufe heute** | **20** protokolliert (00:20–23:20) |
+| **Davon mit Zugang zum Support-Postfach** | **0** |
+| **Gelesene Kundennachrichten** | **0** |
+| **Geschriebene Entwürfe** | **0** |
+| **Eskalationen** | **0** |
+| **Gesendete E-Mails** | **0** |
+| **Erstattungen** | **0** |
+| **Zusammenhängende Läufe ohne Zugang seit 04.10. 19:20** | **75** |
+
+**Dritter vollständiger Tag ohne Betreuung; insgesamt rund 76 Stunden.**
+**Was in dieser Zeit hereingekommen ist, weiß ich nicht.**
+
+**Geliefert wurde heute:** der englische Tagesreport
+(`docs/2026-10-07-daily-report-en.md`, im Chat, **ohne Gmail-Entwurf**, mit
+Begründung) und der Abendreport (`docs/2026-10-07-abendreport.md`, im Chat
+und als Datei). **Dazu die offene Benennung des eigenen Fehlers bei der
+08:20-Zeile.**
+
+**Morgen das Erste, unverändert: die Gmail-Verbindung zurück auf
+`support.pawfriends.uk@gmail.com` — und prüfen, ob der Wechsel beabsichtigt
+war.** **Danach #8764 Craig Wren (Frist seit 02.10.) und die fünf Fälle vom
+04.10., die dann seit vier Tagen keinen Entwurf haben.**
