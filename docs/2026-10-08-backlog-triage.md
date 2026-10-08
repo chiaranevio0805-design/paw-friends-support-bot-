@@ -132,3 +132,20 @@ Einzige, was das hier löst — die Verbindung —, durch einen weiteren Report
 nicht gelöst.**
 
 **Ebenfalls im Report: #8764 Craig Wrens Frist läuft seit sechs Tagen.**
+
+---
+
+## Abendreport 08.10.
+
+**`docs/2026-10-08-abendreport.md`, im Chat ausgegeben.** **Alle Kategorien
+null; vierter vollständiger Tag ohne Zugang (heute 15 gelaufene Abfragen, 90
+zusammenhängend, rund 96 Stunden unbetreut).** **Teil 2: kein neuer Entwurf,
+also kein neuer Volltext — die neun Entwürfe mit Volltext vom 05.10. bleiben
+offen, dazu die Überträge mit Fundstelle und die fünf Fälle vom 04.10. ohne
+Entwurf.** **Teil 3: nichts zu erstatten, £0,00.**
+
+**Im Report festgehalten: die vier Stunden 12:20–15:20 ohne Abfrage** (Trigger
+erst um 16:18 zugestellt) **und dass dort ausdrücklich kein Ergebnis steht.**
+
+**Zahlen frisch nachgezählt: 483 / 121 ersetzt / 362 geltend / 83 gesperrt** —
+unverändert.
