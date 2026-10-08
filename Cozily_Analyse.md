@@ -13,7 +13,7 @@
 
 **Kurzantwort:** Hauptsächlich weder Preis noch Hygiene. Am stärksten wirkt eine **Creative-Maschine**. Cozily übernimmt erprobtes Material (Pleene-Skripte, UGC-Clips, die auch in Pleene-Ads auftauchen, Clips eines deutschen Shops) und vervielfacht es ab August fast nur noch mit **KI-Video**. Alles läuft auf derselben Kernbotschaft wie bei Pleene („Duvet + Cover in One“ / nie wieder beziehen). Dazu kommt ein **Angebotspaket** (Gratis-Kissenbezüge, 40-Nächte-Test, Gratisversand, „40 % off“, vorausgewähltes 3er-Bundle) zum **niedrigsten Preis am Markt**.
 
-Die Dauerläufer sind dabei nicht die KI-Videos. Es sind **wenige echte UGC-Videos und schlichte Bilder aus der ersten Welle** (20.07.): 10 der 11 Videos in den TOP 20 sind echtes UGC, die Ausnahme ist V023.
+Die Dauerläufer sind dabei nicht die KI-Videos. Es sind **wenige echte UGC-Videos und schlichte Bilder aus der ersten Welle** (alle TOP 20 starteten am 10.–28.07.): 10 der 11 Videos in den TOP 20 sind echtes UGC, die Ausnahme ist V023.
 
 **Hygiene** steckt als Claim in der Copy **aller 552 Ads** („Hypoallergenic and antibacterial“) und ist der wichtigste Problem-Rahmen im Advertorial. Als Creative-Angle läuft Hygiene solide (68 % Winner), aber nicht besser als „Beziehen“ (75 %). Ihr Anteil an den Neustarts fällt von 28 % (Juli) auf 0 % (Oktober).
 
