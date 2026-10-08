@@ -1,5 +1,50 @@
-# Pleene – Vollanalyse (ZWISCHENSTAND, Stand 2026-10-08)
-> Zwischenstand: Inventar, Funnel, Reviews und Video-Batches 1–3 (21 von 63 Videos) sind fertig. Video-Batches 4–9, alle Statics, die Musteranalyse, die Chrome-/Nevio-Listen und die Angriffsfläche folgen.
+# Pleene – Vollanalyse (Stand 2026-10-08)
+
+**Methodik:** Quellen sind GetHooked (Ads, Scores, Transkripte, Medien), die Landingpages auf pleene.com und pleene.uk (Playwright, Shopify-JSON, Warenkorb bis vor den Checkout, nichts gekauft), Trustpilot (pleene.uk und pleene.com) sowie Judge.me. GetHooked liefert für GB keine Reichweite und keinen Spend; als Ersatz dienen Tage aktiv, Performance-Score und used_count. Abweichung zum Vortest: GetHooked zeigt aktuell **63** aktive Video-Ads statt 45, alle 63 sind analysiert. Viele GetHooked-Transkripte waren fehlerhaft (Platzhalter wie 'the next, video!!' bei reinen Musik-Videos, Walisisch- oder Kannada-Fehlerkennung); diese Fälle wurden per Spektrogramm, lokalem Whisper und Untertiteln geprüft. Signierte Media-URLs sind entfernt; verlinkt sind die dauerhaften GetHooked-Share-Links und die Meta-Ad-Library.
+
+**Inhalt:** Executive Summary · Teil 1 Inventar · Teil 2 Creative-Muster · Teil 3 Funnel · Teil 4 Bewertungen · Für Chrome · Für Nevio · Angriffsfläche · Anhang (Vollinventar, alle 63 Videos im Detail, alle 74 Statics im Detail, Reviews wörtlich)
+
+## Executive Summary
+
+- **Datenbasis:** 692 Ads seit Juni 2026, davon 137 aktiv und 555 inaktiv. 202 inaktive Ads (36 %) liefen weniger als 7 Tage. Pleene testet in hohem Volumen und schaltet schnell ab. Reichweite und Spend für GB liefert GetHooked nicht; die Signale sind Laufzeit, Score und used_count.
+- **Gewinner-System 1 – fester Text, wechselnde Bilder:** Der Standardtext T01 „No More Fighting With Duvet Covers“ (Duvet + Bezug in einem, 2 Gratis-Kissenbezüge „worth £39.99“, 90 Nächte) steckt in 178 Ads. Der Angle wird über das Bild getestet, nicht über den Text. Die zwei Dauerläufer sind Bild-Ads (136388964, 136388847: 120 Tage, Score 100).
+- **Gewinner-System 2 – modulare Videos:** Ein fester Körper (Produktblock „duvet and cover in one … normal 7kg washing machine … dry in two hours … 10.5 Tog … my bed always feels fresh“) bekommt immer neue Hooks und Personas. Pro Familie laufen 2–3 Hook-Varianten am selben Tag. Gewinner-Dateien werden byte-identisch unter neuen IDs wieder hochgeladen. Der Score haftet dabei an der Ad, nicht an der Datei: Kopien starten wieder bei 1.
+- **Winner-Formate:**
+  - Creator-Testimonial „I haven't changed my bed linen in three months…“ (145443331/163921089, Score 100)
+  - Langform-Hygiene-Video mit vollem Bogen (133366534, 93 s)
+  - Angle-E-Video mit KI-Sprecher „If your shoulders ache, don't do this“ (136389861, 120 Tage)
+  - 16-s-KI-Template mit Farb-Knappheit, nur Musik (139561428/410/491)
+  - Text-Hook-Checkliste „Before you buy a coverless duvet check 3 things“, nur Musik (168246678)
+- **Seit Ende September (KW 39–41):** 158 neue Ads, über die Hälfte Bilder.
+  - Neue Hook-Familien zu Winterwärme (B), Hund (Bella), Gästebett/Enkel und „wann zuletzt gewaschen?“.
+  - Neue Angles „Selbstständigkeit im Alter“ (ab 29.09.) und Geschenk für die Eltern (ab 07.10.).
+  - Ein US-Test mit echten UGC-Creatorinnen auf der US-Seite `/products/easyrest-comforter`.
+  - Ein Advertorial `/pages/tb-6`.
+  - Die Alters-Angles stehen bisher alle bei Score ≤ 1.
+- **Aufgegeben:**
+  - Hygiene als Haupt-Angle: 56 % Verliererquote (inaktiv), kein aktiver Winner. Hygiene wirkt nur als Nebenargument.
+  - Die Landingpage `/pages/duvet-10r` (19 Ads, alle Verlierer).
+  - Das Zweitprodukt ZipSheet (76 Ads, „Made for hands that hurt“).
+  - Mehrere alte Produktseiten-Varianten.
+- **Hygiene konkret:** Milben kommen nur in 133366534, 193234224 und dem Static 133366116 vor („Sweat, dust mites, skin particles. It all builds up“, Mikroskop-Einblendung). Bakterien und °C-Werte nennt keine einzige Ad. Hygiene wird fast nur als Waschbarkeit erzählt: „whole thing in the machine“, „dry in 2 hours“.
+- **Funnel:**
+  - **Seiten:** Der GB-Funnel läuft über `/products/easyrest` (Winterwärme mit 10.5 TOG im ersten Bullet), dazu ein Klon `/products/easyrest-duvet` und das Advertorial tb-6. Die Comforter-Seite ist die US/CA-Version.
+  - **Preise:** £74.99 bis £129.99, Bundle-App Kaching (2 Stück −10 %, 3 Stück −15 %).
+  - **Kein echter Druck:** Kein Countdown. Die Knappheit ist ein fester Text, alle Farben sind verfügbar.
+  - **Gratis-Bezüge:** Sie erscheinen nicht als eigene Position im Warenkorb.
+  - **Upsells:** Package Protection £2.99 und ein „180-Day Return“-Upgrade.
+- **Bewertungen:**
+  - **Trustpilot:** 291 Bewertungen, Ø 4,8, alle seit 01.08.2026, 0 % Antwortquote. Das Unternehmensprofil nennt Hongkong als Land.
+  - **Produktseite (Judge.me):** 172 Bewertungen, davon 154 kuratiert von Trustpilot importiert. Alle negativen und alle „China“-Bewertungen fehlen.
+  - **Einwand Nr. 1:** Lieferzeit und Versand aus China (17,5 %, im September 26 %).
+  - **Lob-Lücken:** Käufer loben Weichheit (46×), Qualität (55×), besseren Schlaf (28×) und großzügige Größe (24×). Die Ads nutzen das praktisch nicht.
+  - **Käuferprofil:** Viele Senioren, Arthritis, eingeschränkte Mobilität. Wechseljahre werden nie erwähnt.
+- **Größte Lücken bei Pleene:**
+  - Vertrauen (China-Versand, Rückgabekosten, kuratierte Bewertungen, Fake-Knappheit)
+  - Keine echten Experten und keine Belege für Hygiene
+  - KI-Sprecher statt echter Senioren
+  - Widersprüchliche Claims (Trocknen mit oder ohne Trockner, £39.99 vs. £49.99, „30 % off“ vs. „2 free“)
+  - Wechseljahre als Avatar gar nicht besetzt
 
 
 ## Teil 1 – Ads-Inventar
@@ -855,6 +900,1219 @@ Alle Verlierer einzeln (Details inkl. Primärtext, CTA, Plattformen im Vollinven
 | 95 | 136388680 | 1630436858419591 | 2026-08-01 | 2026-08-30 | 30 | 1 | Video | 37 s | No More Fighting With Duvet Covers | C, B, F-Angebot | https://pleene.com/products/easyrest | [Meta](https://www.facebook.com/ads/library/?id=1630436858419591) · [share](https://app.gethookd.ai/share/ad/136388680?signature=c4d82b859d1af3f95383c02c86d66b0bf832dcdc94321bf6dd977737bb9ed251) |
 
 Häufigste Enddaten (Abschalt-Wellen) inaktiver Ads: 2026-08-21 (34), 2026-09-17 (31), 2026-08-29 (31), 2026-08-28 (31), 2026-09-10 (28), 2026-08-18 (26), 2026-09-13 (25), 2026-09-19 (23).
+
+
+## Teil 2 – Creative-Muster und Gewinner-System
+
+Die Musteranalyse über alle Videos und Statics (Hook-Muster, Angles nach Laufzeit, Neu-Tests, Aufgegebenes, fehlende Avatare und Formate, konsolidierte Hygiene-Zitate) steht als Kurzfassung in der Executive Summary und der Angriffsfläche. Die Einzelbefunde mit Belegen stehen in den Detailanalysen im Anhang A2/A3; jede Batch-Datei endet mit einer Kurztabelle und den Hygiene-Zitaten.
+
+
+## Teil 3 – Funnel und Landingpages
+
+Stand: 2026-10-08. Quellen: Live-Abrufe von pleene.com und pleene.uk (curl und Playwright/Chromium, mobil 390×844 und Desktop 1440×900, Locale en-GB, Cookies `localization=GB` und `cart_currency=GBP`; für die US-Seite zusätzlich `localization=US` und `cart_currency=USD`), Shopify-Produkt-JSON (`/products/<handle>.js`), Policy-Seiten, Klaviyo-Formular-JSON, Elevate-A/B-Konfiguration im Seitenquelltext sowie GetHooked (get_shop_landing_pages, search_ads mit `countries`, get_shop, get_ad_technologies). Die Bewertungsdaten stammen aus `wf/reviews_all.json` (Agent 4). Es wurde nichts gekauft. Bis zur Warenkorbseite wurde getestet, Checkout-Requests wurden im Browser blockiert, und in kein Checkout-Formular wurden Daten eingegeben. Texte von Seiten und Ads sind wörtlich auf Englisch zitiert, die Analyse ist auf Deutsch.
+
+---
+
+### 3.0 Zusammenfassung
+
+1. **Vier Landingpages, alle auf pleene.com.** Keine einzige aktive Ad verlinkt auf pleene.uk. Die 137 Ads aus dem Inventar verteilen sich so:
+
+   | Landingpage | Ads | davon Land laut GetHooked |
+   |---|---|---|
+   | `/products/easyrest` | 83 | 52 GB, 31 ohne Länderdaten |
+   | `/products/easyrest-comforter` | 40 | 37 US, 3 ohne |
+   | `/pages/tb-6` | 8 | 7 GB, 1 ohne |
+   | `/products/easyrest-duvet` | 6 | 4 GB, 2 ohne |
+
+   GetHooked (`get_shop_landing_pages`, shop 47758, Publikation vom 05.10.) zählt 70 / 32 / 10 / 8 = 120 Ads. Shop 47737 (pleene.uk) hat genau 1 Ad, und auch die zeigt auf `pleene.com/products/easyrest`. `search_ads` meldet am 08.10. bereits 153 aktive Ads. Darunter sind 20 neue vom 07.10.: 13 davon GB auf `/products/easyrest`, 7 davon US auf `/products/easyrest-comforter`.
+
+2. **Wichtigste Korrektur zur Ausgangsannahme:** Die Comforter-Seite ist **die US/CA-Produktseite** (Zoll-Größen, °F, „comforter", „top sheet", „laundromat", „Value: $39.99"). Die 40 Ads, die dorthin führen, sind laut GetHooked-Feld `countries` **US-Ads** und keine GB-Ads. Im Quelltext steht dazu ein Elevate-A/B-Test mit dem Namen "Duvet UK PDP Weiterleitung an USCA PDP" (`isLive: true`). Er soll US/CA-Besucher von `/products/easyrest` auf `/products/easyrest-comforter` umleiten. In unserem Headless-Test mit US-IP hat diese Weiterleitung nicht ausgelöst. Die Wirkung ist deshalb nicht verifiziert.
+
+3. **Der GB-Funnel besteht aus drei Seiten.**
+   - Die Produktseite `/products/easyrest` ist um Angle **B (Wärme/Tog)** gebaut: "10.5 TOG — proper winter warmth".
+   - `/products/easyrest-duvet` ist ein fast identischer Klon davon. Das Produkt ist versteckt (Tags `hidden-search`), wurde am 09.09.2026 angelegt und hat die eigene Vorlage `easyrest-duvet-winter26-2`. Alle 6 Ads dorthin sind Tog-/Winter-Ads.
+   - Das Advertorial `/pages/tb-6` ist ein Pre-Lander für Angle **C (Bezug/Beziehen)** und **F-Social-Proof**. Alle CTAs führen auf `/products/easyrest`.
+
+4. **Angebot UK:**
+   - Preise von £74.99 (Narrow 90×200) bis £129.99 (Super King 260×220), Vergleichspreise £114.99–£169.99 ("SAVE 23–35 %").
+   - Mengenstaffel über die App Kaching: 2 Stück −10 % "Couple-Bundle" (vorausgewählt), 3 Stück −15 % "Family-Bundle".
+   - Gratis sollen 2 Kissenbezüge je Decke dazukommen ("Value: £39.99"). In der Kaching-Konfiguration ist dafür aber `freeGifts: []` hinterlegt, und im Warenkorb erscheinen keine Kissenbezüge als Position. Ob sie tatsächlich mitgeliefert werden, ist nicht verifiziert.
+   - **Kein Countdown** auf irgendeiner Seite. Die einzige Knappheitsangabe ist der statische Text "Ready to Ship – Limited Stock" (fest im HTML, für jede Größe und Farbe gleich) sowie auf tb-6 "while stocks last".
+
+5. **Preiswelten:**
+   - Die Basiswährung des Shops ist GBP (`Shopify.currency rate 1.0`).
+   - UK-Besucher sehen auf pleene.com wie auf pleene.uk dieselben GBP-Preise. Es ist derselbe Shopify-Shop `sq48au-70.myshopify.com`, und der Text ist identisch.
+   - Der US-Markt hat eigene, deutlich höhere Festpreise. Beispiele: Duvet Narrow $109.99 statt £74.99. Comforter Single $139.99, in der GBP-Ansicht £69.99.
+   - Ein Browser mit US-IP wird von pleene.uk auf pleene.com mit USD umgeleitet (`?shpxid=`). Ob ein GB-Besucher von pleene.com auf pleene.uk umgeleitet wird, ist mangels GB-IP nicht verifiziert.
+
+6. **Warenkorb (Cart-Drawer):**
+   - Fortschrittsbalken bis zum Gratisversand ab £100.
+   - "↓ ADD ONE-TIME CART DEALS 🛒" mit drei Upsells, standardmäßig aus: Pillow-Cases £19.99, Pillow £39.99, FluffBalls £14.99.
+   - "Package Protection (Recommended)" für £2.99, standardmäßig aus.
+   - Die /cart-Seite cross-sellt zusätzlich ein **"180-Day Return Policy – Upgrade" für £2.99**, einen digitalen Service, der das Rückgabefenster verlängert.
+   - Auf der US-Seite sind die Upsells andere: ZipLift™ Mattress Lifter, FluffBalls, Package Protection.
+
+7. **Garantie:**
+   - Werbeversprechen: "90-Night Free Trial. Money back, no questions asked." (Galeriebild).
+   - Die Policy sagt etwas anderes: 90 Tage ab Lieferung, **Rücksendekosten trägt der Kunde**, die ursprünglichen Versandkosten werden nicht erstattet, und man soll zuerst den Support kontaktieren.
+   - Versand UK: £4.95 unter £100, ab £100 gratis, "Priority Handling" £7.95, Lieferung in 5–8 Werktagen.
+
+8. **Bewertungen:**
+   - Judge.me zeigt "4.8 · 172 reviews" auf allen drei Produktseiten. Auf der Comforter-Seite sind das Bewertungen des Duvet-Produkts (171 von 172 gehören zum Duvet).
+   - 154 von 172 Judge.me-Texten sind textgleich mit Trustpilot-Bewertungen, also Importe. Nur 4 tragen "verified buyer".
+   - tb-6 nennt "Excellent 4.7/5 · 250 reviews on Trustpilot". Agent 4 hat am 08.10. 291 Trustpilot-Bewertungen erfasst.
+   - Die "✓ Verified"-Testimonial-Karten der Produktseiten (Margaret 67, James 55 usw.) und die Galerie-Zitate (Robert 61, Susan 62) **kommen in keiner der 463 erfassten Bewertungen vor**. Ihre Herkunft ist nicht verifiziert.
+   - "Robert, 61" sagt auf der UK-Seite etwas völlig anderes als auf der US-Seite. In der US-Version sagt er "I've had the comforter for a year", obwohl das Comforter-Produkt erst am 25.06.2026 angelegt wurde und laut About-Seite "Founded 2026" gilt.
+
+9. **Widersprüche in den Produktaussagen** (Details in 3.5 bis 3.8):
+   - Waschmaschine: Das Bullet sagt "Fits in every washing machine", die eigene Größentabelle verlangt dagegen eine Trommel ab 6–8 kg.
+   - Trocknen: "about 2 hours" gegenüber "2–3 hours".
+   - Wärme: Die Produktseite sagt "10.5 TOG — proper winter warmth", die Home-Page sagt "mid-weight, all-season duvet".
+   - Kundenzahl: "Over 10,000 customers" auf der Produktseite gegenüber "7,000+" auf tb-6.
+   - Farben: "Six colourways" auf der Home-Page, aber 10 Farben im Shop.
+
+10. **Technik:**
+    - Shopify-Theme "Shrine PRO" 1.8.0 (Theme-Name "working of shrine-theme-pro").
+    - Apps: Kaching Bundles, Judge.me, Elevate A/B Testing, HeyMerch Sales Stock Counter, Klaviyo, ParcelPanel, Zigpoll, Lucky Orange, Triple Whale, Google Ads Pixel by Nabu.
+    - Meta Pixel 2174873679968281, Google Ads AW-18246939242.
+    - Kein TikTok-Pixel gefunden.
+    - Interne Namen sind auf Deutsch ("Weiterleitung", "AKTUELL", Canva-Datei "Design_ohne_Titel", Bild "…_Kopie.png"). Das ist ein Indiz für deutschsprachige Betreiber (nicht verifiziert).
+    - Impressum: One Way Ecom Limited, Hongkong, Telefon +1 (205). Laut Footer betreut 21Commerce Limited die Werbung.
+
+---
+
+### 3.1 Vergleichstabelle der Landingpages
+
+| Merkmal | `/products/easyrest` | `/products/easyrest-comforter` | `/pages/tb-6` | `/products/easyrest-duvet` |
+|---|---|---|---|---|
+| Ads (Inventar 137) | 83 | 40 | 8 | 6 |
+| Ads (GetHooked-Publikation 05.10., 120) | 70 | 32 | 8 | 10 |
+| Zielland der Ads (GetHooked `countries`) | GB (52), ohne Angabe (31) | **US** (37), ohne Angabe (3) | GB (7), ohne (1) | GB (4), ohne (2) |
+| Typ | Produktseite (Long-Form-PDP mit Sales-Sections) | Produktseite, **US-lokalisiert** | **Advertorial**, als "ADVERTISEMENT" markiert, Pre-Lander mit nummerierten Benefit-Karten (01–05) und Vergleichstabelle | Produktseite (Klon von `/products/easyrest`) |
+| Shopify-Template | `product.easyrest-duvet-winter26` | `product.easyrest-duvet-usa230926` | `page.tabeasyrest-tb6` | `product.easyrest-duvet-winter26-2` |
+| Shop-Header/Navigation | ja | ja | **nein** (eigenständige Seite ohne Menü) | ja |
+| Haupt-Angle | **B** (Tog/Winterwärme) | **A + B** (ganz waschbar/hygienisch, "One comforter, every season", Schwitzen) | **C** (nie wieder Bezug aufziehen) + **F-Social-Proof** | **B** (identisch mit easyrest) |
+| Neben-Angles | C, A, F-Angebot, F-Social-Proof, E (Testimonial "Margaret, 67") | C ("skip the top sheet"), E ("Margaret, 67"), F-Angebot | A (Hygiene-Vergleich), F-Angebot ("Autumn offer") | wie easyrest |
+| H1 | "Pleene EasyRest™ Duvet" | "Pleene EasyRest™ Comforter" | "How 7,000+ people said goodbye to putting duvet covers on – with a machine-washable 2-in-1 duvet" | "Pleene EasyRest™ Duvet" |
+| ATF-Bullets | "10.5 TOG — proper winter warmth" / "Warm without overheating" / "Never change bedding again" / "Fits in every washing machine" | "Warm in winter, cool in summer" / "No cover to change" / "Hygienic & allergy-friendly" / "Fits in any washing machine" | "No more putting covers on" / "Not too warm, not too cold" / "Fits any washing machine" / "Dry in about 2 hours" | wie easyrest |
+| Wärmeangabe | 10.5 TOG | "300 GSM fill", kein Tog | "climate fibres", kein Tog | 10.5 TOG |
+| Einstiegspreis | £74.99 (statt £114.99) | GBP-Ansicht £69.99 (statt £119.99); USD-Ansicht $139.99 (statt $199.99) | keine Preise auf der Seite | £74.99 (statt £114.99) |
+| Bundles | Kaching 1 / 2 (−10 %) / 3 (−15 %) | gleich | keine (Link zur PDP) | gleich |
+| Gratisbeigabe | "2 Pleene™ Pillow Cases (Value: £39.99)" | "2 Pleene™ Pillowcases (Value: $39.99)", auch in der GBP-Ansicht | "2 matching pillowcases free … Worth £39.99 – while stocks last." | wie easyrest |
+| Social-Proof-Zahl | "Over 10,000 customers" | "Over 10,000 customers" | "7,000+ customers" | "Over 10,000 customers" |
+| Bewertungsanzeige | Judge.me ★ "172 reviews", Widget "4.8" | Judge.me "172 reviews" (Bewertungen des Duvet) | Trustpilot "Excellent 4.7/5 · 250 reviews" | Judge.me "172 reviews" (als "Review for Pleene EasyRest™ Duvet" verknüpft) |
+| Testimonial-Videos | ja ("Peter", "Brian", "Dave") | nein | nein | ja |
+| Cross-Sell-Sektion auf der Seite | "The Cosy Bundle" (+ CosyRest™ Sherpa Throw) | "The Full Sleep Set:" (+ ZipSheet™ US + EasyStore™) und "You may also like" | – | "The Cosy Bundle" |
+| Laufband oben | 3 rotierende Texte (s. u.) | keines | "ADVERTISEMENT" | keines |
+| E-Mail-Pop-up | ja (sofort und bei Exit-Intent) | ja | **nein** (URL-Muster `*tb*` ausgeschlossen) | ja |
+| pleene.uk-Entsprechung | Text identisch (gleicher Shop) | identisch | identisch | identisch |
+
+**Wo sich die Seiten genau unterscheiden:**
+
+- **easyrest gegenüber easyrest-duvet:**
+  - Nur `/products/easyrest` hat das rotierende Laufband (Section `custom_liquid_ge9Xt4`).
+  - Das Duvet-Produkt ist ein separates, verstecktes Produkt (ID 16081090838860) mit eigener Vorlage `…-winter26-2`.
+  - Sein Bewertungs-Widget kennzeichnet die Bewertungen als "Review for Pleene EasyRest™ Duvet", sie werden also vom Hauptprodukt übernommen.
+  - Bei der Farbe Lavender Mist unterscheiden sich die Vergleichspreise (s. 3.4).
+  - Alle Texte, FAQs, Sections und die Bildgalerie sind sonst identisch (Textvergleich der vollständigen Seiten ohne weitere Unterschiede).
+  - Wahrscheinlich dient die Seite als separater Test- oder Kampagnen-Endpunkt für die Tog-Ads. Das ist nicht verifiziert.
+- **easyrest gegenüber comforter:**
+  - Komplett anderes Copy-Set für den US-Markt: "comforter", Zoll-Größen, °F, "top sheet", "laundromat".
+  - Andere Galerie (eigene "Comforter"-Bilder).
+  - Keine Tog-Angabe.
+  - FAQ mit Größentabelle als **unausgefülltem Platzhalter** ("Twin __ × __ in").
+  - Andere Cross-Sells.
+- **tb-6 gegenüber den Produktseiten:**
+  - Keine Preise, keine Variantenauswahl, kein Warenkorb.
+  - Stattdessen Story-Hook, "AS FEATURED IN"-Logos, Vergleichstabelle, Trustpilot-Zitate und ein Angebotskasten "Autumn offer".
+  - 5 CTAs, alle auf `https://pleene.com/products/easyrest`.
+
+---
+
+### 3.2 Preiswelten GBP und USD
+
+**Was UK-Besucher sehen:**
+
+- Bei curl ohne Cookie liefern pleene.com und pleene.uk `Shopify.country = "GB"` und `Shopify.currency = {"active":"GBP","rate":"1.0"}` und setzen die Cookies `localization=GB` und `cart_currency=GBP`.
+- Ein frischer Browser über den Proxy (US-IP) bekommt dagegen auf pleene.com `USD rate 1.3465326`. pleene.uk leitet ihn per JavaScript auf `pleene.com/products/easyrest?shpxid=…` in USD um. Das ist die Markt- bzw. Geo-Weiterleitung von Shopify.
+- Mit dem Cookie `localization=GB` zeigt pleene.com GBP. Ein UK-Besucher sieht also GBP.
+- Ob pleene.com GB-IPs auf pleene.uk umleitet, ist nicht verifiziert, da keine GB-IP verfügbar war. Für den Preis spielt das keine Rolle, weil beide Domains denselben Shop und dieselben GBP-Preise ausliefern.
+
+**`/products/easyrest` und `/products/easyrest-duvet`, GBP** (Kaching-Bundle-Preise mit Playwright je Größe ausgelesen):
+
+| Größe | 1 Stück | Vergleichspreis | 2er "Couple-Bundle" −10 % | Vergleich | 3er "Family-Bundle" −15 % | Vergleich |
+|---|---|---|---|---|---|---|
+| 90 × 200 cm (Narrow) | £74.99 | £114.99 | £135.00 | £229.98 | £191.25 | £344.97 |
+| 140 × 200 cm (Single) | £79.99 | £119.99 | £144.00 | £239.98 | £204.00 | £359.97 |
+| 160 × 210 cm (Single XL) | £84.99 | £129.99 | £153.00 | £259.98 | £216.75 | £389.97 |
+| 200 × 200 cm (Double) | £89.99 | £139.99 | £162.00 | £279.98 | £229.50 | £419.97 |
+| 230 × 230 cm (King) | £119.99 | £159.99 | £216.00 | £319.98 | £306.00 | £479.97 |
+| 260 × 220 cm (Super King) | £129.99 | £169.99 | £234.00 | £339.98 | £331.50 | £509.97 |
+
+- Das Badge zeigt je nach Größe "SAVE 34 %", "33 %", "34 %", "35 %", "25 %" oder "23 %".
+- **Lavender Mist** hat auf `/products/easyrest` keinen Vergleichspreis. Es gibt dann kein Streichpreis- und kein SAVE-Badge, und der Kaching-Balken zeigt "You're saving £0.00".
+- Auf `/products/easyrest-duvet` hat Lavender Mist für alle Größen den Vergleichspreis £114.99. Bei King (£119.99) und Super King (£129.99) liegt der Vergleichspreis damit **unter** dem Verkaufspreis. Das ist ein Datenfehler.
+- Alle 60 Varianten sind verfügbar (`available: true`).
+
+**USD-Preise derselben Seite** (US-Preisliste, `/products/easyrest.js` mit USD; US-Besucher sollen laut Elevate-Konfiguration eigentlich auf die Comforter-Seite umgeleitet werden):
+
+| Größe | Preis | Vergleichspreis |
+|---|---|---|
+| Narrow | $109.99 | $149.99 |
+| Single | $119.99 | $159.99 |
+| Single XL | $129.99 | $169.99 |
+| Double | $149.99 | $199.99 |
+| King | $179.99 | $229.99 |
+| Super King | $194.99 | $244.99 |
+
+Das sind Festpreise und keine Umrechnung: £74.99 × 1.3465 = $100.97, verlangt werden $109.99.
+
+**`/products/easyrest-comforter`, beide Preiswelten:**
+
+| Größe | GBP 1 Stück (Vergleich) | GBP 2er | GBP 3er | **USD 1 Stück (Vergleich)** | **USD 2er (Vergleich)** | **USD 3er (Vergleich)** |
+|---|---|---|---|---|---|---|
+| Single (55 × 79 in) | £69.99 (£119.99) | £126.00 (£239.98) | £178.50 (£359.97) | $139.99 ($199.99) | $252.00 ($399.98) | $357.00 ($599.97) |
+| Twin (63 × 83 in) | £74.99 (£129.99) | £135.00 (£259.98) | £191.25 (£389.97) | $159.99 ($219.99) | $288.00 ($439.98) | $408.00 ($659.97) |
+| Full (79 × 79 in) | £79.99 (£139.99) | £144.00 (£279.98) | £204.00 (£419.97) | $169.99 ($229.99) | $306.00 ($459.98) | $433.50 ($689.97) |
+| Queen (91 × 91 in) | £109.99 (£169.99) | £198.00 (£339.98) | £280.50 (£509.97) | $199.99 ($259.99) | $360.00 ($519.98) | $510.00 ($779.97) |
+| King (102 × 86 in) | £119.99 (Vergleich = Preis, kein Rabatt) | £216.00 (£239.98) | £306.00 (£359.97) | $219.99 ($279.99) | $396.00 ($559.98) | $561.00 ($839.97) |
+
+- In der GBP-Ansicht hat Comforter King keinen Rabatt, da der Vergleichspreis dem Preis entspricht. Lavender Mist hat in den Größen Single bis Queen keinen Vergleichspreis.
+- Die Zielgruppe dieser Seite (US-Ads) sieht die USD-Spalte. Die GBP-Werte zeigen nur, was ein UK-Besucher dort sehen würde.
+
+---
+
+### 3.3 Seite 1: `pleene.com/products/easyrest` (83 Ads, GB) — Produktseite
+
+**Above the Fold, mobil** (Screenshot `render/com_products_easyrest_mobile_atf_clean.png`):
+
+- Header: Burger-Menü, Logo "Pleene.", UK-Flagge, Suche, Warenkorb.
+- Braunes Laufband mit drei Slides, die alle 3,5 s rotieren (aus dem HTML): "Cosy Season Is Here — **Sleep Warm All Winter**" / "Free Shipping On Orders Over £100" / "90 Nights Risk-Free — Try It In Your Own Bed".
+- Hauptbild: blaue EasyRest™-Decke ("Coastal Blue") von oben auf einem Doppelbett mit zwei Kissen und Holz-Nachttischen. Das Bild ist KI-typisch glatt; der Dateiname `hf_20260914_…` deutet auf Higgsfield-Generierung hin (nicht verifiziert).
+- Darunter 17 Galerie-Thumbnails.
+- H1 "Pleene EasyRest™ Duvet", fünf gelbe Sterne, "172 reviews".
+- Preis "£74.99 ~~£114.99~~", Badge "SAVE 34%".
+- Bullets: "✔️ **10.5 TOG — proper winter warmth**", "✔️ Warm without overheating", "✔️ Never change bedding again", "✔️ Fits in every washing machine".
+- Am Fold-Rand beginnt der blaue Badge-Kasten "🎁 Free with every duvet today".
+- **Pop-up:** Bereits nach 4 s liegt das Klaviyo-Pop-up über der Seite (Screenshot `render/com_products_easyrest_mobile_atf_t4.png`). Motiv: ein lachendes Senioren-Paar, das gefaltete Decken in Mint und Blau hält. Text: "Win a free Duvet" / "One subscriber wins a duvet of their choice every month. Any size, any colour." / "Your email address" / Button "Enter the giveaway".
+
+**Above the Fold, Desktop** (`render/com_products_easyrest_desktop_atf_clean.png`):
+
+- Navigation: "Home", "EasyRest™ Duvet" (hervorgehoben), "All Products", "Track Your Order", "About Us", "Contact", dazu der Länderwähler "United Kingdom | GBP £", Login und Warenkorb.
+- Laufband.
+- Links das Galerie-Bild, rechts H1, Sterne, Preis, Bullets und der Geschenk-Kasten "🎁 Free with every duvet today / 2 Pleene™ Pillow Cases **(Value: £39.99)**".
+- Darunter "STOCK UP & SAVE" mit drei Kaching-Balken:
+  - "Buy 1, Get 2 Pillow Cases FREE / You're saving £40.00 / £74.99 ~~£114.99~~"
+  - **vorausgewählt** "Couple-Bundle" "Buy 2, Get 4 Pillow Cases FREE" "10% OFF" "You're saving £94.98" "£135.00 ~~£229.98~~", mit zwei Farb- und Größen-Dropdowns
+  - "Family-Bundle" "Buy 3, Get 6 Pillow Cases FREE" "15% OFF" "£191.25"
+- Badges: "SAVE 34%", "Couple-Bundle", "Family-Bundle", "10% OFF", "15% OFF". Unter dem Fold folgen "Ready to Ship – Limited Stock" mit grünem Punkt und die Zahlungs-Icons Mastercard, Visa, PayPal, Amex, Apple Pay, Google Pay und Klarna.
+
+**Seitenaufbau, Abschnitt für Abschnitt** (Überschriften wörtlich):
+
+1. Header und Laufband (siehe oben).
+2. Hauptbereich:
+   - Galerie mit 17 Bildern. Bildtexte, die gelesen werden konnten:
+     - "90 Night Free Trial / FREE today: 2x EasyRest™ Pillowcases / Value £39.99"
+     - "Duvet + Cover in one. / Completely washable." mit "Dries indoors in hours", "Wash as often as your sheets", "Fits a standard washing machine"
+     - "10.5 TOG. Built for British winters. / Pleene™ Microfibre Technology" mit "The standard UK winter weight", "Warmth without the weight", "Never clammy, never cold"
+     - Testimonial-Bild "Robert, 61: "I nearly didn't order this. A whole duvet in the washing machine? And it felt so light I thought I'd freeze in winter. Wrong on both. Fits my 7kg machine easily, and we've had frost all week without me needing the spare blanket. Should have bought it years ago."" mit dem Zusatz "10,000+ people enjoy sleeping with the Pleene™ Duvet"
+     - "Susan, 62: „I'm always the cold one in our house, but under some duvets I'd still wake up boiling at 3am. With this one, neither happens. Not cold, not sweating. No idea how it does that, but it does. Couldn't recommend it more.😍""
+     - Collage "10,000+ people already sleep with the Pleene™ Duvet. / 90-Night Free Trial. Money back, no questions asked."
+     - dazu Farbbilder
+   - H1, Preis, Bullets, Geschenk-Kasten, "STOCK UP & SAVE" (Kaching).
+   - "What size do I need?" öffnet die Größentabelle mit "Sizing Chart" / "Between two sizes? Go bigger — especially if you share a bed or move a lot in your sleep." und zwei Tabellenbildern (s. u.).
+   - "Ready to Ship – Limited Stock", "ADD TO CART", Zahlungs-Icons.
+   - 4 Akkordeons: "What is the TOG rating?" / "How do I wash and dry the Pleene™ duvet?" / "Does the Pleene™ duvet fit in my washing machine?" / "It looks thin — is it really warm enough?"
+3. "★★★★★ **Real customers, real results**" / "Tap a clip to hear what they have to say": drei Hochkant-UGC-Videos mit den Namen "Peter", "Brian" und "Dave" (101 s, 42 s, 53 s). Auf den Standbildern sind ältere Männer in britischen Wohnungen zu sehen, einer sitzt auf einer hellblauen EasyRest. Ton nicht transkribiert, siehe 3.13.
+4. "**10.5 TOG. Built for cold nights.**" / "On the UK scale, 10.5 TOG is the standard winter weight — what most households sleep under from autumn through to spring." / "10.5 TOG / Full winter warmth, in a duvet that still goes in your washing machine." / "✓ Warm in winter, cool in summer" "✓ Temperature regulating, all year round" "✓ Not sure? 90 nights to change your mind"
+5. "**Feels weightless. Sleeps warm.**" / "No heavy duvet pressing down on your chest. The EasyRest™ rests lightly on you and still carries a full 10.5 TOG of winter warmth." / "That's because warmth comes from the air held between the fibres, not from weight. You get the heat without the load — and it still fits in your washing machine." / "✓ All the warmth, none of the weight" "✓ Temperature regulating — warm, never clammy"
+6. "**Never make the bed the hard way again**" / "No more duvet covers. No more wrestling. No more effort." / "We know how frustrating it is to fight with a separate cover every time — especially on a cold morning." / "The Pleene EasyRest™ combines duvet and cover in one." / "✓ No separate cover needed" "✓ A fresh bed in seconds"
+7. "**Washable like bed linen**" / "The Pleene EasyRest™ fits in any normal washing machine." / "Winter bedding usually goes months without a proper wash, because the duvet itself never goes in. Only the cover does." / "With Pleene EasyRest™, everything goes in. One wash. All clean." / "Air dries in 2 hours — or even faster in the dryer."
+8. "★★★★★ Over 10,000 customers now sleep more comfortably with Pleene EasyRest™" / "**Try Pleene EasyRest™ 90 nights risk-free**", dazu 5 Karten mit "✓ Verified":
+   - "Margaret, 67": "At my age, wrestling a duvet into its cover was such a struggle. This is an absolute godsend — I can make my bed on my own again."
+   - "James, 55": "Looks far too thin to work in January. It absolutely does — not once been cold."
+   - "Sarah, 41": "Changing the bed used to be my most dreaded chore. Now the whole thing just goes in the wash — honestly a game changer."
+   - "Robert, 50": "Straight in the machine and done. This is how bedding should be."
+   - "David, 58": "My wife runs cold and I run hot. First winter duvet we've agreed on in years."
+   - Keines dieser Zitate kommt in den 291 Trustpilot- oder 172 Judge.me-Bewertungen vor. Das "Verified" ist nicht verifizierbar.
+9. "**Frequently Asked Questions**": 8 Fragen, wörtlich unten.
+10. "**The Cosy Bundle**" / "The EasyRest™ keeps you warm at 10.5 TOG. The CosyRest™ throw goes over the top for the nights when that isn't quite enough — and lives on the sofa the rest of the time. Your whole winter bed, in one order." Angeboten werden EasyRest £74.99 ~~£114.99~~ und "Pleene CosyRest™ — Reversible Sherpa Throw" £59.99 ~~£77.99~~, "Total Price: £134.98 ~~£192.98~~", "Add selected to cart". Einen Extra-Rabatt auf das Bundle gibt es nicht.
+11. "Customer Reviews" (Judge.me): "4.8", "172 reviews", "Write a review", Sortierung, 35 Seiten.
+12. Newsletter: "**Join the hassle-free bedding movement**" / "Early access, restock alerts and the occasional bed-making tip you'll actually use."
+13. Footer: "The #1 for Hassle-Free Bedding" / "Pleene is more than just an online shop — it's a movement to free people from the endless struggle of changing bed linen, through clever, high-quality bedding." Darunter das Impressum (One Way Ecom Limited, Hongkong, "Tel.: +1 (205) 360-5811", "pleene.com is operated by One Way Ecom Limited. Advertising for this store is managed on our behalf by 21Commerce Limited, registered at the same address.") und die Länderwahl "United Kingdom (GBP £)".
+
+**Akkordeons im Hauptbereich (wörtlich):**
+
+- "What is the TOG rating?" — "10.5 TOG — the standard UK winter weight, warmer than the 9.0 TOG duvets sold as year-round."
+- "How do I wash and dry the Pleene™ duvet?" — "Yes, the Pleene™ duvet is fully washable and can be cleaned easily in your washing machine. We recommend washing it at 40°C on a spin cycle of around 800 rpm. / Pleene™ is designed to absorb far less sweat and dirt than traditional bedding, so 40°C is perfectly sufficient for everyday washing while protecting the material and extending its lifespan. / If you ever want a deeper clean, you can occasionally wash it at 60°C. After washing, you can dry the Pleene™ duvet in the dryer or let it air dry. Air-dried, it is usually completely dry in about 2 hours."
+- "Does the Pleene™ duvet fit in my washing machine?" — "Yes — a normal household machine is enough. A feather-filled king duvet weighs 4–6 kg and fills the whole drum. Ours weighs 3.12 kg and compresses flat instead."
+- "It looks thin — is it really warm enough?" — "Warmth comes from air trapped between the fibres, not from bulk. A heavier fill would only stop it fitting in your washing machine."
+
+**FAQ "Frequently Asked Questions" (wörtlich, Frage und Antwort):**
+
+1. "What is the TOG rating?" — "10.5 TOG. On the UK scale that is the standard winter and all-year weight — warmer than the 9.0 TOG duvets commonly sold as year-round, and the rating most households sleep under from autumn through to spring. Only the coldest unheated bedrooms call for more."
+2. "Is it warm in winter and cool in summer?" — "Yes. At 10.5 TOG it carries the standard UK winter rating, so it holds your body heat through the coldest months. The microfibre is temperature regulating: it lets moisture and excess heat escape instead of trapping them, so it stays comfortable as the seasons turn rather than leaving you clammy."
+3. "It looks thin. How can it be that warm?" — "Thickness and warmth are not the same thing. What insulates you is the air trapped between the fibres, not the bulk of the filling — the same reason a thin technical jacket beats a heavy wool coat. Our fill is engineered to hold that air, which is how it reaches 10.5 TOG while staying light enough to wash at home."
+4. "What if I am still cold?" — "Sleep under it for 90 nights. If it is not warm enough for you, send it back for a full refund — no explanation needed. Return postage is paid by the customer and we ask that it comes back clean and resaleable. This sits alongside your statutory rights, not instead of them."
+5. "Why is the Pleene EasyRest™ more hygienic than a normal duvet?" — "With the Pleene EasyRest™, you can wash the entire duvet — not just a cover. With traditional duvets, usually only the cover is washed while the duvet itself is rarely cleaned, so over time sweat, dust and allergens can build up. With Pleene EasyRest™, your bed stays regularly fresh and hygienically clean."
+6. "What is the Pleene EasyRest™ made of?" — "Soft, breathable microfibre with a lightweight high-loft fill. It feels gentle against the skin, holds its warmth, and is free from feathers and down — making it suitable for allergy sufferers."
+7. "Is it suitable for allergy sufferers?" — "Yes. Because you can wash the whole duvet regularly and it contains no feathers or down, it is well suited to allergy sufferers. Regular washing helps keep dust and allergens to a minimum."
+8. "Do I really not need a duvet cover anymore?" — "That's right. The Pleene EasyRest™ is a duvet and cover in one, so there is no separate cover to put on or take off. You simply wash the whole thing and lay it back on the bed — that's it."
+
+**Welche Einwände beantwortet werden:**
+
+- zu dünn bzw. nicht warm genug (5 von 12 Fragen inklusive Akkordeons)
+- Waschen und Trocknen
+- passt es in die Waschmaschine
+- Hygiene
+- Material und Allergie
+- braucht man noch einen Bezug
+- Rückgabe, falls zu kalt
+
+Nicht beantwortet werden: Lieferzeit, Versandkosten, Pflegeetikett, genaue Materialzusammensetzung in Prozent und Füllgewicht pro m² (beides n/a auf der Seite).
+
+**Größentabelle (Bilder im Größen-Modal, wörtlich abgelesen):**
+
+- Tabelle 1 "Size / Fits / Sleeps":
+  - "90×200 cm / 35×79 in – Narrow – Caravan, cabin & bunk beds – 1 person, sits flat, no overhang"
+  - "140×200 cm – Single – 90–140 cm / 35–55 in wide – 1 person"
+  - "160×210 cm – Single XL – 1 person, extra length"
+  - "200×200 cm – Double – 140–160 cm – 2 people"
+  - "230×230 cm – King – 180–200 cm – 2 people, plenty of room"
+  - "260×220 cm – Super King – 180–200 cm – 2 people, extra drop each side"
+- Tabelle 2 "Size / Weight / Fits a drum from":
+  - "Narrow 90 × 200 cm – approx. 1.2 kg – 6 kg"
+  - "Single 140 × 200 cm · fits 3'0" beds – 1.78 kg – 6 kg"
+  - "Single XL – 2.06 kg – 7 kg"
+  - "Double 200 × 200 cm · fits 4'6" beds – 2.32 kg – 7 kg"
+  - "King 230 × 230 cm · fits 5'0" beds – 2.88 kg – 8 kg"
+  - "Super King 260 × 220 cm · fits 6'0" beds – 3.12 kg – 8 kg"
+- Widerspruch: Bullet "Fits in every washing machine" und Abschnitt "fits in any normal washing machine" gegen die eigene Mindest-Trommel von 6–8 kg. Die Trustpilot-Bewertung von Rona Dixon sagt im Original "although it is a tight fit in my washing machine".
+
+**Alle Aussagen zu Waschen, Temperatur, Tog, Material und Trocknen auf dieser Seite (wörtlich):**
+
+- "10.5 TOG — proper winter warmth"
+- "Warm without overheating"
+- "Fits in every washing machine"
+- "We recommend washing it at 40°C on a spin cycle of around 800 rpm"
+- "occasionally wash it at 60°C"
+- "dry the Pleene™ duvet in the dryer or let it air dry. Air-dried, it is usually completely dry in about 2 hours"
+- "Ours weighs 3.12 kg and compresses flat"
+- "Air dries in 2 hours — or even faster in the dryer"
+- "Soft, breathable microfibre with a lightweight high-loft fill … free from feathers and down"
+- Galerie: "Dries indoors in hours", "Pleene™ Microfibre Technology", "Never clammy, never cold"
+
+Die Produktbeschreibung im Produkt-JSON wird auf der Seite **nicht angezeigt**. Sie enthält zusätzlich Aussagen zu Angle E: "Change your bed in one move with no sore arms, shoulders or back", "a full body workout on your arms, shoulders and back", "Breathable and temperature regulating, so no sweating even in summer", "Care: machine washable, quick-drying".
+
+**Bewertungen auf der Seite:**
+
+- App: Judge.me. Anzeige "4.8", "172 reviews", standardmäßig nach "Most Recent" sortiert.
+- Die ersten 5 Bewertungen (alle Duvet, laut Agent-4-Daten alle textgleich mit Trustpilot und vom 11./12.09.2026):
+  - Robin Lewis ★5, "I have battled with a duvet and separate cover for years": "I have battled with a duvet and separate cover for years and not least at the oresent time coping with injuries received in a car accident. I have though that there has to be a better way when I discovered the Pleene way. My order took a little while to be delivered but once it arrived it ha been on my bed, now coming up to it's first wash. If that works I will be ordering another set"
+  - Ros Leftley ★4, "Very good": "Very good. Just took longer to deliver than I expected"
+  - Louise ★5, "Great": "Well, I ordered 2 Pleene quilts. One each for my husband and me. I feel it is light, but I don't feel cold at night. My husband likes a heavy quilt, but he hasn't complained, so I think we are on a winner. However, we have not washed them yet! So if I have any issues, I will update it."
+  - blacky ★5, "Excellent product": "Excellent product. Light but very warm and comfortable"
+  - Anne ★5, "Excellent quality - better than expected.": "Even though the order took a little longer to reach me than expected, the communication was excellent throughout. I am delighted with my duvet! It is a lovely colour, soft and cosy, yet light and cool in warmer weather."
+- Auffällig: Drei der fünf sichtbaren Bewertungen erwähnen eine verzögerte Lieferung.
+
+---
+
+### 3.4 Seite 2: `pleene.com/products/easyrest-comforter` (40 Ads, US) — Produktseite (US-PDP)
+
+**Rolle im Funnel:**
+
+- Die Vorlage heißt `easyrest-duvet-usa230926`, also "USA", 23.09.26.
+- Laut Elevate-Konfiguration ist "Duvet UK PDP Weiterleitung an USCA PDP" live (SPLIT_URL, 100 % auf die Variante). Bedingungen: Land US oder CA, Quelle facebook, instagram, google, direct, tiktok oder pinterest. Wirkung: von `/products/easyrest` auf `/products/easyrest-comforter`.
+- In unserem Test hat das nicht ausgelöst (US-IP, Headless, mit fbclid und Facebook-Referrer). Nicht verifiziert.
+- Laut GetHooked `countries` sind die direkt verlinkenden Ads US-Ads.
+- Ein analoger Live-Test leitet AU auf `/products/pleene-easyrest-quilt`. Diese Seite hat im Inventar keine Ads und wurde nicht analysiert.
+
+**Above the Fold, mobil (GBP-Ansicht)** (`render/com_products_easyrest-comforter_mobile_atf_clean.png`):
+
+- Kein Laufband.
+- Hauptbild: blaue Comforter-Decke von oben auf beigem Teppich mit zwei Kissen.
+- H1 "Pleene EasyRest™ Comforter", ★★★★★ "172 reviews".
+- "£69.99 ~~£119.99~~ SAVE 41%".
+- Bullets "✔️ Warm in winter, cool in summer", "✔️ No cover to change", "✔️ Hygienic & allergy-friendly", "✔️ Fits in any washing machine".
+- "🎁 Free with every comforter today / 2 Pleene™ Pillowcases (Value: **$39.99**)". Der Dollarwert steht auch in der GBP-Ansicht.
+- Pop-up wie auf Seite 1.
+
+**USD-Ansicht** (`cart/us_comforter_atf.png`): "$139.99 ~~$199.99~~ SAVE 30%", Couple-Bundle "$252.00 ~~$399.98~~", Family-Bundle "$357.00 ~~$599.97~~".
+
+**Desktop** (`render/com_products_easyrest-comforter_desktop_atf_clean.png`): Navigation wie auf Seite 1, aber ohne braunes Laufband. Links das Bild, rechts die Kaufbox, Couple-Bundle mit "Single (55 × 79 in)" vorausgewählt.
+
+**Seitenaufbau (Überschriften wörtlich):**
+
+1. Hauptbereich:
+   - Galerie mit eigenen Comforter-Bildern:
+     - "90-Night Free Trial" / "FREE TODAY 2× Pleene™ Pillow Cases Value $39.99"
+     - "Comforter + cover in one. Completely washable." mit "Air dries in about 2 hours", "**No chance for dust mites & bacteria**", "Fits any washing machine"
+     - "Always the right temperature. Pleene™ Microfiber Technology" mit "Cool in summer", "Warm in winter", "No sweating. No freezing."
+     - "Susan, 62: "I was skeptical about the hygiene at first, but here everything gets clean in one wash. Climbing into a fresh, clean comforter straight after a shower — absolutely amazing😍"" mit "10,000+ people love sleeping under the Pleene™ Comforter"
+     - "Robert, 61: "No idea how it does it, but I've had the comforter for a year and I don't sweat at night anymore. In summer I wake up dry — that used to be unthinkable.""
+     - Collage "10,000+ people already sleep under the Pleene™ Comforter. 90-Night Free Trial. Money back, no questions asked."
+   - Kaching-Box, "What size do I need?" (Bild `pleene-size-chart-us.png`), "Ready to Ship – Limited Stock", "ADD TO CART".
+   - 4 Akkordeons: "Will I be warm enough in winter?" / "How do I wash and dry the Pleene™ Comforter?" / "Does the Pleene™ Comforter fit in my washing machine?" / "How long does a Pleene™ Comforter last?"
+2. "**Washable like your sheets**" / "Most comforters never see a washing machine. They're too bulky for the drum, or the care label says dry clean only." / "The Pleene EasyRest™ fits in a standard home washer. The whole thing goes in — not a cover, the comforter itself. One wash. All clean." / "Air-dries in 2 hours — faster in the dryer." / "✓ Wash it as often as your sheets" "✓ No dry cleaning, no trip to the laundromat"
+3. "**You can skip the top sheet**" / "The top sheet exists for one reason: to keep you off a comforter that hardly ever gets washed." / "Take that reason away and the layer stops earning its place on your bed." / "The Pleene EasyRest™ is comforter and cover in one piece — and it goes straight in the wash." / "✓ No cover and no top sheet" "✓ A made bed in seconds"
+4. "**One comforter, every season**" / "Most people own two: a heavy one for winter and a thin one for summer. The Pleene EasyRest™ replaces both." / "A 300 GSM fill holds your body heat in, and breathable microfiber lets moisture move out instead of trapping it. That combination is what keeps the same comforter comfortable in January and in July." / H3 "Cold nights": "Traps your body heat and holds it, so the bed is warm within minutes of getting in." / H3 "Warm nights": "Lets heat and moisture escape, so you don't wake up damp or kick it off at 3am." / "✓ No overheating, no waking up cold" "✓ Nothing to swap out when the season turns"
+5. "**Feels like a freshly made bed**" / "Soft against the skin. Light, but never thin." / "Not too thick, not too heavy." / "Right for every night of the year — the coldest ones and the warmest."
+6. "★★★★★ Over 10,000 customers now sleep more comfortably with Pleene EasyRest™" / "**Try Pleene EasyRest™ risk-free for 90 nights**", dazu 5 "✓ Verified"-Karten:
+   - Margaret, 67: "At my age, wrestling a comforter into its cover was such a struggle. This is an absolute godsend — I can make my bed on my own again."
+   - James, 55: "Saves me so much time, no more changing covers, and it still feels great. I sweat a lot less at night now, too."
+   - Sarah, 41: wie auf Seite 1.
+   - Robert, 50: "I expected something this light to leave me cold in winter. It doesn't — and it goes straight into the machine. This is how bedding should be."
+   - David, 58: "Honestly, I'm lazy when it comes to changing bedding — and that's exactly why Pleene EasyRest™ is perfect for me."
+   - Bei gleichen Namen und gleichem Alter weichen die Zitate teilweise von Seite 1 ab.
+7. "**Frequently Asked Questions**": 8 Fragen, wörtlich unten.
+8. "**The Full Sleep Set:**" mit Comforter £69.99 ~~£119.99~~, "ZipSheet™ — Zip-On Bed Sheet Set" £59.99 ~~£79.99~~ (US-Größen Twin bis Cal King, "Dusty Purple - Unavailable") und "EasyStore™ - Duvet & Bedding Storage Bag" £19.99 ~~£34.99~~. "Total Price: £149.97 ~~£234.97~~".
+9. Judge.me "Customer Reviews 4.8 · 172 reviews". Jede Bewertung ist mit "Review for Pleene EasyRest™ Duvet" gekennzeichnet, es sind also Bewertungen des UK-Duvet.
+10. "**You may also like**": FluffBalls™ £14.99, EasyStore™ from £19.99, "Pleene RestEasy™ 3-in-1 Support Cushion" £99.99 ~~£149.99~~.
+11. Footer. Ein Newsletter-Block fehlt hier.
+
+**Akkordeons (wörtlich):**
+
+- "Will I be warm enough in winter?" — "Yes. Warmth comes from trapped air, not from bulk — the 300 GSM fill holds your body heat instead of letting it escape. It's lighter than the oversized comforters most people are used to, which is why customers are often surprised by how warm it is the first cold night. / If your bedroom runs unusually cold, a throw over the top handles the deepest part of winter."
+- "How do I wash and dry the Pleene™ Comforter?" — "Yes, the Pleene™ Comforter is fully washable and cleans up easily in your washing machine. We recommend washing it on a warm cycle (around 105°F) with a gentle to medium spin. / Pleene™ is designed to absorb far less sweat and dirt than traditional bedding, so a warm wash is perfectly sufficient for everyday cleaning while protecting the material and extending its lifespan. / If you ever want a deeper clean, you can occasionally wash it on a hot cycle (around 140°F). After washing, you can tumble dry the Pleene™ Comforter or let it air dry. Air-dried, it's usually completely dry in about 2 hours."
+- "Does the Pleene™ Comforter fit in my washing machine?" — "Yes, with no trouble at all. Pleene™ is intentionally designed so it isn't unnecessarily thick or bulky like traditional comforters. / 👉 What that means for you: you can easily wash it yourself in a regular household washing machine — no stuffing, no cramming. Many customers are surprised at first by how light and compact it is, but that's exactly the advantage: / ✔️ Fits easily in your washing machine / ✔️ Dries significantly faster / ✔️ More hygienic than a traditional comforter / So you don't need an oversized machine or a trip to the laundromat."
+- "How long does a Pleene™ Comforter last?" — "The Pleene™ Comforter is built to be washed regularly without losing quality. Even after many wash cycles, it stays shape-stable, soft and functional. With normal use, it'll be part of your bedroom for years."
+
+**FAQ (wörtlich):**
+
+1. "What size should I get?" — eine Tabelle "Size / Comforter / Fits" mit den Zeilen "Twin __ × __ in – Twin and Twin XL beds", "Full / Queen __ × __ in – Full and Queen beds", "King __ × __ in – King and Cal King beds". **Die Platzhalter sind nicht ausgefüllt.** Danach: "If you sleep with a partner and like some overhang, size up. Most couples on a Queen bed are happiest with the King."
+2. "Will I be warm enough in winter?" — wie das Akkordeon, in einem Absatz.
+3. "Will I get too hot in summer?" — "The fabric lets heat and moisture move through instead of trapping them, so it stays comfortable on warm nights. Customers who tend to sleep hot are usually the ones who notice the difference first — it's the same comforter they use through winter, not a second one they swap in."
+4. "Do I need a cover or a top sheet?" — "Neither. The Pleene EasyRest™ is the comforter and the cover in one piece, so there's nothing to put on and nothing to take off. And because the whole thing is machine washable, you don't need a top sheet to keep it clean — you wash it and lay it back on the bed."
+5. "Why is the Pleene EasyRest™ cleaner than a regular comforter?" — "Because you can wash the whole thing, not just a cover. With regular bedding, the cover goes in the laundry while the comforter itself often sits unwashed for years. The Pleene EasyRest™ goes in the machine as one piece, so the part you actually sleep under gets washed as often as your sheets do."
+6. "What if I don't like it?" — "Sleep under it for 90 nights. If it isn't right for you, tell us and we'll take it back. That covers a full change of season, so you can try it on cold nights and warm ones before you decide."
+7. "What is the Pleene EasyRest™ made of?" — "Soft, breathable microfiber with a 300 GSM fill. It's gentle against the skin, holds its warmth, and has no feathers or down."
+8. "Is it a good choice if feathers and down bother me?" — "The fill is microfiber, so there are no feathers and no down. Because the whole comforter is machine washable, you can also wash it as often as you like instead of leaving it unwashed between cover changes."
+
+**Einwände:** warm genug, zu heiß im Sommer, Größe, Bezug bzw. Top Sheet, Sauberkeit, Rückgabe, Material, Federallergie, Waschmaschine, Haltbarkeit. Keine Tog-Angabe; die Wärme wird über "300 GSM fill" erklärt.
+
+**Unstimmigkeiten auf dieser Seite:**
+
+- "Value: $39.99" erscheint auch für GBP-Besucher.
+- Die FAQ-Größentabelle besteht aus Platzhaltern.
+- Die Bewertungen stammen vom UK-Duvet (britische Namen, "quilt", "colour").
+- "Robert, 61" sagt "had the comforter for a year", das Produkt existiert seit 25.06.2026.
+- Die Produktbeschreibung nennt "Sizes: Twin, Full, Queen, King, Split Comfort Size", die Varianten sind aber Single, Twin, Full, Queen und King.
+- Bei gleicher Breite (140 cm bzw. 55 in) kostet der Comforter in GBP £69.99, das Duvet £79.99.
+
+---
+
+### 3.5 Seite 3: `pleene.com/pages/tb-6` (8 Ads, GB) — Advertorial (Pre-Lander)
+
+Typ: Advertorial im Stil einer redaktionellen Landingpage. Oben steht klein "ADVERTISEMENT". Es gibt keinen Shop-Header, keine Preise und keinen Warenkorb. Elemente einer Listicle sind eingebaut (nummerierte Vorteile 01–05). Vorlage: `page.tabeasyrest-tb6`. Alle 5 CTAs führen auf `https://pleene.com/products/easyrest`, der Text "Claim my free pillowcases" ebenfalls. Kein E-Mail-Pop-up (Klaviyo-Ausschluss `*tb*`).
+
+**Above the Fold, mobil** (`render/com_pages_tb-6_mobile_atf_clean.png`):
+
+- "ADVERTISEMENT"
+- Kicker in Blau: '"Never change your bed linen on a Sunday again"'
+- H1: "How 7,000+ people said goodbye to putting duvet covers on – with a **machine-washable 2-in-1 duvet**"
+- fünf grüne Sterne im Trustpilot-Stil: "**Excellent 4.7/5** on Trustpilot · 7,000+ customers"
+- Bild "THE OLD WAY" vs. "THE EASYREST WAY":
+  - links Hände, die eine weiße Decke in einen Bezug stopfen, mit den Labels "Cover has to be put on" und "Filling slips into corners"
+  - rechts eine graue EasyRest auf einem Bett in einem hellen Zimmer mit "Cover and duvet in one" und "Machine-washable in one go"
+  - orangefarbenes "VS"
+- Die Checkmarks beginnen am Fold-Rand.
+
+**Desktop** (`render/com_pages_tb-6_desktop_atf_clean.png`):
+
+- Links Kicker, H1, Sterne und die 4 Checks: "No more putting covers on", "Not too warm, not too cold", "Fits any washing machine", "Dry in about 2 hours".
+- Orangefarbener Button "**Try EasyRest risk-free now**", dazu drei Trust-Kästen: "Free shipping / UK orders over £100", "90 nights / risk-free trial", "Secure / checkout".
+- Rechts das Vergleichsbild.
+- Darunter der Streifen "AS FEATURED IN" mit den Logos STARTUPS (Magazine), "new!", THE TIMES und "Fabulous". Es gibt keine Links zu Artikeln. Die Dateinamen lauten `Design_ohne_Titel.png`, `Design_ohne_Titel_1.png`, `Design_ohne_Titel_2.png` und `3-removebg-preview.png`. Presseerwähnungen sind nicht verifiziert.
+
+**Seitenaufbau (Überschriften wörtlich):**
+
+1. "ADVERTISEMENT", Hero (s. o.).
+2. "AS FEATURED IN".
+3. "THE EASYREST DIFFERENCE" / "**Cover and duvet become one**":
+   - "Duvet and cover are permanently joined – nothing to stuff in, nothing to straighten out after washing. You use it like any normal duvet: spread it out, snuggle in, done."
+   - Checks: "Built-in cover – nothing to put on", "Whole duvet machine-washable at 40°", "Filling never slips into corners", "Air-dries in 2–3 hours", "One duvet for all seasons", "Back on the bed straight after washing".
+   - Karten "01 No more putting covers on", "02 No more slipping", "03 All-year use", "04 Fully washable", "05 Quick-drying".
+   - CTA, darunter "90-night trial · Free UK shipping over £100 · Secure checkout".
+4. "THE HONEST COMPARISON" / "**EasyRest vs. classic bed linen**", Tabelle "EasyRest | Classic":
+
+   | Merkmal | EasyRest | Classic |
+   |---|---|---|
+   | "Cover needs putting on" | "No" | "Yes, every time" |
+   | "Slips inside the cover" | "No" | "Yes" |
+   | "Fully washable" | "Yes, at 40°" | "Usually only the cover" |
+   | "Drying time" | "2–3 hours" | "Often overnight" |
+   | "Suitable all year" | "Yes, thanks to climate fibres" | "Usually seasonal" |
+   | "Hygiene" | "Whole duvet washable" | "Duvet rarely washed" |
+   | "Effort when changing" | "No cover to put on" | "Join duvet and cover" |
+
+   Danach ein CTA.
+5. "REAL EXPERIENCES" / "**Over 7,000 people already sleep without a duvet cover**": Bewertung '"Why has no one done this before?"' / '"This Pleene duvet is light, sumptuously soft and easier to live with. Love it!"' / "Glyn F. · Review from Trustpilot", dazu "★★★★★ Excellent 4.7/5 · 250 reviews on Trustpilot".
+6. Angebotskasten: "**Autumn offer**" / "**2 matching pillowcases free with your EasyRest**" / "Worth £39.99 – while stocks last." / Button "Claim my free pillowcases" / "✓ 90-night trial ✓ Free UK shipping over £100 ✓ Secure checkout".
+7. "REAL EXPERIENCES" / "**What 7,000+ customers say about EasyRest**" / "4.7" / 'Rated "Excellent" on Trustpilot · 250 reviews' / "Photos sent in by EasyRest customers" (Judge.me-Fotos), dazu 6 Karten:
+   - "Glyn F. – Why has no one done this before? – "No heavy duvet putting pressure on your feet and being too hot or too cold. This Pleene duvet is light, sumptuously soft and easier to live with. Love it!""
+   - "Andrew B. – I was wrong – "I must admit I was sceptical about the claims for the duvet, but I was wrong. Very comfortable, easy to wash and dries quickly. Good quality material.""
+   - "Rona D. – No more getting twisted up – "I bought a king size and it washed well and dried quickly. I especially like the ease with which I can now change bedding and the fact I no longer get twisted up in duvet covers.""
+   - "Mr Mayes – It has made life easier – "Very pleased with the product – it has certainly made life easier! With a duvet and cover I always ended up with too much duvet at the feet end and not enough at the head end.""
+   - "Kathryn – The whole household sleeps better – "I ordered two doubles and a single so our whole household could try them. After a week we have all been sleeping better due to a more comfortable temperature in bed.""
+   - "Moira L. – No faffing about – "Straight on to the bed. No faffing about. It's warm and comfortable. What more could I ask.""
+   - Link "Read all 250 reviews on Trustpilot →".
+   - **Abgleich mit Trustpilot:** Alle 6 Bewertungen existieren auf Trustpilot (Glyn Fletcher, Andrew Byrne, Rona Dixon, Mr Mayes, Kathryn, MOIRA LOW, 01.–04.09.2026). Sie wurden gekürzt, was die Seite selbst offenlegt. Bei **Rona Dixon fehlt dadurch der Nachteil**. Original: "I bought a king size and **although it is a tight fit in my washing machine** it washed well and dried quickly." Bei Moira Low fehlt "Haven't washed it yet but expect no issues."
+8. "90 NIGHTS" / "**Test it risk-free for 90 nights**" / "Sleep on it in your own bed. If it doesn't convince you, send it back and get your money refunded – no complicated explanation needed."
+9. "STILL HAVE QUESTIONS?" / "**Frequently asked questions**": 7 Fragen, wörtlich unten.
+10. CTA, dann der Disclaimer (wörtlich):
+    - "Advertisement. This page is an advertisement for the Pleene EasyRest™ Duvet and is published by Pleene (One Way Ecom Limited, …). It is not a news article or independent editorial content."
+    - "Images: Some images on this page were created or edited with the help of AI and are for illustration only. Colours and details of the actual product may vary slightly."
+    - "Reviews & results: Customer photos were sent in by EasyRest customers via our review app. Customer reviews are taken from Pleene's public Trustpilot profile and partly shortened; reviewer names are abbreviated. The 4.7/5 TrustScore is based on 250 reviews as of October 2026. Individual experiences vary and the results described are not guaranteed. Customer numbers refer to total orders placed with Pleene. Drying times depend on room temperature, airflow and spin speed."
+    - "Health: The EasyRest™ is a bedding product, not a medical device. Statements about allergies and sleep are general information and do not replace medical advice."
+    - "Offer & guarantee: Prices and the free pillowcase offer are valid while stocks last and may change at any time. The 90-night trial and money-back guarantee are subject to our returns policy. Free UK shipping applies to orders over £100. All brand names and logos shown belong to their respective owners."
+
+**FAQ (wörtlich, Antworten aus dem HTML, da auf der Seite eingeklappt):**
+
+1. "Do I really not need a duvet cover any more?" — "No. The EasyRest combines duvet and cover in one product. After washing you simply put it back on the bed."
+2. "Does it keep me warm in winter – and will I sweat?" — "The breathable EasyRest climate fibres regulate temperature in both directions and wick moisture away, so it stays cool in summer and warm in winter without feeling clammy."
+3. "Does it fit in a normal washing machine?" — "Yes. The EasyRest is light and compact, so it fits in any standard household machine – no laundrette needed."
+4. "How long does it take to dry?" — "Around 2 hours in the air, faster in a tumble dryer."
+5. "Why is it more hygienic than a normal duvet?" — "With ordinary bedding only the cover gets washed. With the EasyRest the whole duvet goes in the wash every time, so you can clean it as often as normal bed linen."
+6. "How long does the EasyRest last?" — "It keeps its shape and softness wash after wash, with no clumping or flattening even after 50 washes."
+7. "What if I don't like it?" — "You have 90 nights to try it in your own bed. If it's not for you, contact our customer service and you'll get your money back."
+
+**Einwände:** Bezug, Wärme bzw. Schwitzen, Waschmaschine, Trocknungszeit, Hygiene, Haltbarkeit ("50 washes"), Rückgabe. Kein Tog, keine Preise. Die Trocknungszeit ist auf derselben Seite widersprüchlich: "Dry in about 2 hours" und "Around 2 hours" gegen "Air-dries in 2–3 hours" und "2–3 hours".
+
+---
+
+### 3.6 Seite 4: `pleene.com/products/easyrest-duvet` (6 Ads, GB) — Produktseite (Klon)
+
+- **Above the Fold, mobil und Desktop:** Der Textvergleich mit Seite 1 ergibt nur einen Unterschied: Das Laufband "Free Shipping On Orders Over £100 / …" fehlt. Gleiches Hauptbild, gleiche H1 "Pleene EasyRest™ Duvet", "172 reviews", "£74.99 ~~£114.99~~ SAVE 34%", gleiche 4 Bullets, gleicher Geschenk-Kasten "2 Pleene™ Pillow Cases (Value: £39.99)", gleiche Kaching-Box. Screenshots: `render/com_products_easyrest-duvet_mobile_atf_clean.png` und `…_desktop_atf_clean.png`.
+- **Seitenaufbau, FAQ und Aussagen:** identisch mit Seite 1. Gleiche Sections (`main`, `custom_liquid_UaiXN9`, `bundle_deals_EQzQcN`, Judge.me, Newsletter) und gleiche Texte. Der Diff der vollständigen Seitentexte zeigt nur das fehlende Laufband und die Kennzeichnung "Review for Pleene EasyRest™ Duvet" im Bewertungs-Widget.
+- **Unterschiede in den Daten:**
+  - Eigenes Produkt (Handle `easyrest-duvet`, angelegt am 09.09.2026, veröffentlicht am 10.09.2026, Tags `hidden-search`, `search-hidden`).
+  - Vorlage `easyrest-duvet-winter26-2`.
+  - Lavender Mist hat für alle Größen den Vergleichspreis £114.99, bei King und Super King also **unter** dem Preis.
+- **Angle:** B. Alle 6 Ads sind Tog- bzw. Winter-Ads, z. B. "Warm Enough For A British Winter" und "No Launderette Needed. Ever.".
+
+---
+
+### 3.7 Garantie, Probeschlafen, Rückgabe und Versand (für alle Seiten)
+
+**Versprechen auf den Seiten (wörtlich):**
+
+- Laufband und Galerie: "90 Nights Risk-Free — Try It In Your Own Bed", "90 Night Free Trial", "90-Night Free Trial. Money back, no questions asked."
+- Produktseite, FAQ: "Return postage is paid by the customer and we ask that it comes back clean and resaleable."
+- Comforter: "tell us and we'll take it back"
+- tb-6: "send it back and get your money refunded – no complicated explanation needed"
+- Warenkorb: "90-Night Home Trial", "Money Back Guarantee"
+
+**Refund Policy** (`/policies/refund-policy`, "Last updated: September 04, 2026"), wörtliche Eckpunkte:
+
+- "We accept returns of both defective and non-defective products within 90 days of delivery."
+- Tabelle: "Return window 90 days from delivery" / "Accepted condition New or slightly used, including opened packaging" / "Return method By mail" / "Return shipping Paid by the customer, unless the return is due to an error on our side" / "Restocking fee None" / "Refund processing time Up to 10 days after we receive and inspect your return" / "Exchanges Available on request"
+- "90-Day Guarantee … If you are not satisfied with your purchase for any reason, you may request a return, exchange, or refund within 90 days of receiving your order. No questions asked."
+- "That is why we invite you to contact us first before sending anything back. In many cases, we can help with guidance, a replacement, or a refund without requiring a physical return. This is an invitation, not a condition"
+- "Please wait for these instructions before shipping anything back"
+- "We are unable to accept items that are soiled, contaminated, or damaged in a way that makes them unsafe or unhygienic to handle"
+- "Original shipping fees are non-refundable unless the return is due to an error on our side."
+
+Bewertung: "Money back, no questions asked" und "Free Trial" klingen kostenlos. Tatsächlich trägt der Kunde Rücksende- und Hinversandkosten, und die Rücksendeadresse gibt es nur auf E-Mail-Anfrage.
+
+**Zusatzprodukt "180-Day Return Policy – Upgrade"** (£2.99 bzw. $2.99, Cross-Sell auf der /cart-Seite), Beschreibung wörtlich: "With this upgrade, you receive a voluntarily extended return window of 180 days in total from the date you receive your order. Your statutory rights, in particular the legal 14-day right of withdrawal, naturally remain unaffected. The upgrade is a digital service and applies to your entire order, not to individual items. There are no further obligations or costs – just a longer, hassle-free return window for you."
+
+**Shipping Policy** (`/policies/shipping-policy`, "Last updated: September 04, 2026"):
+
+- UK: "£0.00–£99.99 Royal Mail® — tracked, insured £4.95 GBP" / "£100.00 and up … Free" / "Royal Mail® — tracked, insured, with Priority Handling £7.95 GBP"
+- Bearbeitung: "Orders placed before 2:00 PM (GMT) on a business day are processed the same day." / "Orders are typically processed within 1–2 business days"
+- Lieferzeit UK: "1–2 business days / 4–6 business days / 5–8 business days". Ebenso für die USA. Kanada 7–12, Australien 8–14 Werktage.
+- Zu "Priority Handling": "It shortens the processing window only. It does not speed up the carrier".
+- Ausgeliefert wird nach UK, USA, Kanada und Australien.
+- Home-Page: "Dispatched in 1–2 Days / From our nearest warehouse". Lagerstandort n/a.
+
+Folge für das Angebot: Ein einzelnes Duvet bis Double (£74.99–£89.99) liegt unter der Gratisversand-Schwelle, dazu kommen £4.95. Das vorausgewählte Couple-Bundle (ab £135) ist versandkostenfrei.
+
+---
+
+### 3.8 Bewertungs-Apps und -Zahlen
+
+| Quelle | Wo angezeigt | Angabe auf der Seite | Erfasster Stand (Agent 4, 08.10.) |
+|---|---|---|---|
+| Judge.me | alle 3 Produktseiten (Badge und Widget) | "4.8", "172 reviews" | 172 Bewertungen (171 Duvet, 1 Comforter), Mittel 4.82, Sterne 5×142 / 4×29 / 3×1. **154 textgleich mit Trustpilot** (Import), 4 "verified buyer", 8 mit Foto, 0 Video. Neueste vom 12.09.2026 |
+| Trustpilot | nur tb-6 (Zitate und Links) | "Excellent 4.7/5", "250 reviews … as of October 2026" | 291 Bewertungen, alle aus dem Zeitraum 01.08.–08.10.2026 (Mittel der Sterne 4.8; der TrustScore selbst n/a) |
+| Eigene Testimonials | Produktseiten-Karten "✓ Verified", Galeriebilder | Margaret 67, James 55, Sarah 41, Robert 50, David 58; Robert 61, Susan 62 | **in keiner erfassten Bewertung gefunden**, nicht verifiziert |
+| UGC-Videos | /products/easyrest, /products/easyrest-duvet | "Peter", "Brian", "Dave" | nicht transkribiert |
+
+GetHooked meldet für die Technik zusätzlich Loox und Yotpo. Im HTML stehen dazu nur leere Theme-Variablen (`MetafieldLooxRating = null`, `okendoProduct = null`). Das sind falsch-positive Treffer; es ist keine aktive App erkennbar.
+
+---
+
+### 3.9 Warenkorb, Upsells und Cross-Sells (bis vor den Checkout)
+
+**Testablauf** (Skripte `a3scripts/cart_test.js`, `a3scripts/cart_bars.js`, `a3scripts2/us_comforter.js`):
+
+- Für alle 3 Produktseiten: GB-Kontext, mobil 390 px. Alle 10 Farben und 6 bzw. 5 Größen im "Buy 1"-Balken durchgeschaltet.
+- Jeden Kaching-Balken (1/2/3) in den Warenkorb gelegt, Cart-Drawer und /cart angesehen.
+- `/products/easyrest` zusätzlich auf Desktop.
+- Comforter zusätzlich in USD.
+- Checkout-URLs per Request-Blocker gesperrt, der Warenkorb nach jedem Lauf per `/cart/clear.js` geleert.
+
+**Varianten und Lager:**
+
+- Alle Farben (Coastal Blue, Soft Mint Green, Moonstone Grey/Gray, Cream Beige, Midnight Black, Hearth Red, Cloud White, Cocoa Brown, Sunset Glow, Lavender Mist) und alle Größen sind wählbar und kaufbar. Keine ist "Sold out".
+- Bei jeder Variante steht derselbe statische Text "Ready to Ship – Limited Stock".
+- Lagerbestände sind öffentlich nicht abrufbar (`inventory_quantity: null`).
+- Die Ad-Aussagen "Hearth Red is nearly sold out" und "Mint Green is almost gone" haben auf der Seite keine Entsprechung (kein Farb-Lagerhinweis). Den tatsächlichen Bestand konnten wir nicht prüfen.
+
+**Cart-Drawer, GB** (Screenshots `cart/bars_easyrest_mobile_9177_drawer.png` und `cart/bars_easyrest_desktop_9177_drawer.png`; Texte in `cart/*_drawer.txt`):
+
+- Kopf "Cart • 2 item".
+- Fortschrittsbalken: bei 1× Narrow (£74.99) "Only £25.01 more to get FREE Shipping!", ab £100 "Congrats! You get FREE shipping!".
+- Zeile: Bild, "Pleene EasyRest™ Duvet", "~~£114.99~~ £67.50", Tag "Buy 2, Get 4 Pillow Cases FREE", Variante, Mengenwähler, "~~£229.98~~ £135.00 (You're saving £94.98)".
+- "↓ **ADD ONE-TIME CART DEALS** 🛒", Toggles standardmäßig **aus**:
+  - "Pleene EasyRest™ Pillow-Cases" £19.99 ~~£29.99~~ (Farbe, "51 x 76cm")
+  - "EasyRest™ Pillow – Hypoallergenic Premium-Comfort Pillow" £39.99 ~~£59.99~~ ("1 Pillow" oder "2 Pillows", "48 x 74cm")
+  - "FluffBalls™ – Reusable Tumble Dryer Balls (Set of 4)" £14.99 (White oder Blue)
+- **Versandschutz:** "Package Protection (Recommended)" £2.99, "FREE Replacements in case of Package Loss, Theft or Damage during Shipping." Toggle standardmäßig **aus**, also nicht vorausgewählt.
+- Summen: "Discount −£94.98", "Subtotal £135.00", "Discounts: £-67.50)" (Darstellungsfehler).
+- Der Rabatt laut Shopify-`cart.js` beträgt nur £14.98 (10 % auf 2 × £74.99). Die "−£94.98" schließen die Differenz zum Vergleichspreis ein.
+- Button "Secure Checkout", darunter "90-Night Home Trial" und "Money Back Guarantee".
+- **Gratisbeigaben:** Die versprochenen 2, 4 bzw. 6 Kissenbezüge erscheinen **nicht als Warenkorbposition**, sondern nur als Rabatt- bzw. Tagname "Buy 2, Get 4 Pillow Cases FREE". `cart.js` enthält nur die Decken. In der Kaching-Konfiguration ist `freeGifts: []` für alle drei Balken eingetragen. Ob die Bezüge im Checkout oder beim Versand dazukommen, ist **nicht verifiziert**.
+- Wertangabe: Die Gratis-Bezüge werden mit "Value: £39.99" beworben. Das gleiche Produkt "Pillow-Cases" kostet im Drawer £19.99 (statt £29.99). Ob das ein Paar ist, ist auf der Karte nicht angegeben; die Home-Collection nennt "EasyRest™ Pillow Cases / Set of two". Ob der Wert damit überhöht ist, ist nicht verifiziert.
+- Der Drawer ist für `/products/easyrest`, `/products/easyrest-duvet` und `/products/easyrest-comforter` (GBP) identisch.
+
+**/cart-Seite, GB** (`cart/bars_easyrest_mobile_9177_cartpage.png`):
+
+- "Your cart", Zeile mit "~~£74.99~~ £67.50". Hier wird der normale Preis als Streichpreis verwendet, im Drawer dagegen £114.99.
+- "Subtotal £135.00 GBP", "Secure Checkout", Express-Buttons **Shop Pay, PayPal, Google Pay**.
+- "**You may also like**":
+  - "180-Day Return Policy – Upgrade" £2.99
+  - "BreatheEasy™ Nasal Strips (30pcs)" £14.99 ~~£19.99~~
+  - "CoolRest™ - Cooling Ice Duvet for Hot Summer Nights" from £69.99 ~~£99.99~~
+  - "EasyRest™ Fitted Sheet – Soft, Hypoallergenic & Perfectly Fitting" from £24.99 ~~£39.99~~
+- Newsletter "Subscribe to our emails".
+- Es gibt keine Gratisgeschenk-Stufen und keine Mengen-Upsell-Pop-ups. Kaching hat `progressiveGifts: null` und `timer: null`.
+
+**Cross-Sell auf den Produktseiten:** "The Cosy Bundle" (+ CosyRest™ Throw) bzw. auf der US-Seite "The Full Sleep Set:" (+ ZipSheet™ und EasyStore™). Gekauft wird über "Add selected to cart", ohne Extra-Rabatt.
+
+**USD, Comforter** (`cart/us_comforter_9177_drawer.png`, `cart/us_comforter_9177_cartpage.png`):
+
+- Drawer: "Congrats! You get FREE shipping!", Zeile "~~$199.99~~ $126.00", "~~$399.98~~ $252.00 (You're saving $147.98)".
+- Upsells:
+  - "ZipLift™ – Mattress Lifter" $19.99 ~~$29.99~~
+  - "FluffBalls™ … (Set of 4)" $14.99 ~~$19.99~~
+  - "Package Protection (Recommended)" $2.99
+- /cart: "You may also like" mit "180-Day Return Policy – Upgrade" $2.99, "BreatheEasy™ Nasal Strips (30pcs)" $14.99, "EasyRest™ Pillow – Hypoallergenic Premium Comfort Pillow" from $49.99 und "EasyStore™" from $29.99.
+
+---
+
+### 3.10 Kongruenz: Ad und Landingpage
+
+Links: Ad Library `https://www.facebook.com/ads/library/?id=<external_id>`; GetHooked über die share_url (die Signatur ist kein ablaufender Media-Link).
+
+**`/products/easyrest`:**
+
+| Ad | Hook und Versprechen (wörtlich) | Fortsetzung auf der Seite | Bewertung |
+|---|---|---|---|
+| 136388964, Bild, 120 Tage aktiv, Perf. 100. [Ad Library](https://www.facebook.com/ads/library/?id=884267707299487), [GetHooked](https://app.gethookd.ai/share/ad/136388964?signature=d0ff0d2a2536e91cfc3dacb7f3b055bf680241a71e3d485ea8d2c98436047966) | Titel "No More Fighting With Duvet Covers". Text: "Duvet + Cover in One 🌙 … ✓ No more wrestling with a separate duvet cover ✓ Pleasantly cool in summer, cosily warm in winter ✓ Hypoallergenic and kind to sensitive skin / Get 2 free Pleene™ Pillow Cases today (worth £39.99). / 90 nights to try it risk-free." | Gratisbezüge "(Value: £39.99)" stehen direkt im ATF, "90 Nights Risk-Free" im Laufband. Der Kampf mit dem Bezug kommt erst in Section 6 ("Never make the bed the hard way again"). Das ATF führt mit "10.5 TOG — proper winter warmth" | **Teilweise kongruent.** Angebot und Garantie passen 1:1. Der Bezug-Hook (C) wird above the fold nur über "Never change bedding again" aufgegriffen, die Seite führt stattdessen mit Wärme (B). "Hypoallergenic" steht erst in der FAQ |
+| 139561428, Video, 63 Tage, Perf. 100. [Ad Library](https://www.facebook.com/ads/library/?id=1034362836068724), [GetHooked](https://app.gethookd.ai/share/ad/139561428?signature=1eb14bdf7f1f4b278f8b5996d37204958181d02f07e10262e225457c7f9a49fd) | "Hearth Red. Nearly gone." / "Hearth Red is nearly sold out — and unlike most 'selling fast' claims, this one's just true. If deep red is your bedroom, this is the week to move. Duvet and cover in one, fully washable, dry in 2 hours." | Es gibt keinen Farb-Lagerhinweis. Hearth Red ist normal wählbar, als Standardfarbe ist Coastal Blue vorausgewählt. Nur der generische Text "Ready to Ship – Limited Stock" ist sichtbar. "dry in 2 hours" wird bestätigt | **Bruch** beim Knappheitsversprechen. Die Seite setzt die Dringlichkeit nicht fort, und das Ad-Motiv (Rot) ist nicht vorausgewählt |
+| 168246678, Video, 41 Tage, Perf. 100. [Ad Library](https://www.facebook.com/ads/library/?id=1607904514111212), [GetHooked](https://app.gethookd.ai/share/ad/168246678?signature=0780e25635ebab07a104b29b13efc556f8d9616332f12537858f9d96c5a5cd59) | "Check This Before You Buy" / "✓ Does the WHOLE thing fit a normal washing machine? ✓ Is it dry in 2 hours without a tumble dryer? ✓ Can you test it at home for 90 nights? The Pleene EasyRest™: yes, yes and yes." | "Fits in every washing machine" (ATF), FAQ "a normal household machine is enough", "Air-dried … about 2 hours", "90 nights" | **Kongruent** in den drei Punkten. Die eigene Größentabelle ("Fits a drum from 6–8 kg") schränkt das "yes" zur Waschmaschine aber ein |
+| Ergänzend: 145443331, Video, 56 Tage. [Ad Library](https://www.facebook.com/ads/library/?id=1440933327878495) | "Everyone said it. They were right." / "…you never have to change the bed linen again…" | ATF-Bullet "Never change bedding again" | kongruent |
+
+**`/products/easyrest-comforter` (US-Ads):**
+
+| Ad | Hook und Versprechen (wörtlich) | Fortsetzung auf der Seite | Bewertung |
+|---|---|---|---|
+| 182988043, Bild, 15 Tage, Perf. 54. [Ad Library](https://www.facebook.com/ads/library/?id=29208178135432493), [GetHooked](https://app.gethookd.ai/share/ad/182988043?signature=474ac523034272536a305779503c22ea294092cc8bd3cc7b069288c8fe337071) | "Wash The Whole Comforter" / "Yes, the whole comforter goes right in the wash! The Pleene EasyRest™ Comforter fits standard home washers, making fresh, clean bedding refreshingly simple." | Erste Section "Washable like your sheets": "The whole thing goes in — not a cover, the comforter itself." Bullet "Fits in any washing machine" | **Stark kongruent** (Angle A, gleiche Wortwahl "comforter", "standard home washer") |
+| 182988041, Bild, 16 Tage, Perf. 41. [Ad Library](https://www.facebook.com/ads/library/?id=27616218781386469), [GetHooked](https://app.gethookd.ai/share/ad/182988041?signature=656021e045b4ec00d24fe1a994c294542e9ff36636166d025b70fab06f7efb14) | "The Comforter That Does It All" / "No cover. No corners to find. No stuffing required. … all-in-one machine-washable comforter" | "No cover to change" (ATF), "You can skip the top sheet", "comforter and cover in one piece" | **Kongruent** |
+| 200490657, Video, 3 Tage, Perf. 12. [Ad Library](https://www.facebook.com/ads/library/?id=1088262300260108), [GetHooked](https://app.gethookd.ai/share/ad/200490657?signature=14e9cab282a8e5334823ebd0fe803836a252fcd8cf045e8e22111a5867c33ff8) | "Say Goodbye to Duvet Cover Hassle" / "No more stuffing, buttoning or fighting with duvet cover corners. Pleene EasyRest™ combines a duvet and cover in one…" | Die Seite spricht durchgehend von "comforter". Das Wort "duvet" kommt nur in der Beschreibung und in den (britischen) Bewertungen vor. Der Kampf mit dem Bezug wird in "No cover to change" und "You can skip the top sheet" aufgegriffen | **Teilweise kongruent.** Das Versprechen passt, aber die Terminologie der Ad ("duvet") wechselt auf der Seite zu "comforter" |
+
+**`/pages/tb-6`:**
+
+| Ad | Hook und Versprechen (wörtlich) | Fortsetzung auf der Seite | Bewertung |
+|---|---|---|---|
+| 193234221, Video, 8 Tage, Perf. 52. [Ad Library](https://www.facebook.com/ads/library/?id=2325762131511604), [GetHooked](https://app.gethookd.ai/share/ad/193234221?signature=34d449a91191d816e5a91f7d690e2d93f52044d2af092704c3b3dece336abb59) | "Everyone said it. They were right." / "I only ordered it because everyone said you never have to change the bed linen again. Annoyingly, they were right. … wash it whole, dry in 2 hours, throw it back on." | Kicker '"Never change your bed linen on a Sunday again"', H1 "How 7,000+ people said goodbye to putting duvet covers on", Social Proof von 7,000+ Kunden und Trustpilot, "Dry in about 2 hours" | **Stark kongruent.** Testimonial-Hook trifft auf eine Social-Proof-Seite, fast wortgleich ("never change your bed linen") |
+| 193234215, Bild, 8 Tage, Perf. 52. [Ad Library](https://www.facebook.com/ads/library/?id=1068343922634373), [GetHooked](https://app.gethookd.ai/share/ad/193234215?signature=92968440b95005fe0fc1bf85409c9b3366e3ae8f6dbf240ce5448a242e85affb) | "No More Fighting With Duvet Covers" (gleicher Text wie 136388964, inkl. "Get 2 free Pleene™ Pillow Cases today (worth £39.99). / 90 nights to try it risk-free.") | Hero "No more putting covers on", Kasten "2 matching pillowcases free … Worth £39.99", "90 nights risk-free trial" | **Kongruent** (Bezug, Angebot, Garantie) |
+| 193234218, Video, 8 Tage, Perf. 1. [Ad Library](https://www.facebook.com/ads/library/?id=1114220797783359), [GetHooked](https://app.gethookd.ai/share/ad/193234218?signature=3870fec0fed270d728da178501d4d67c9e13c536497ef821674e8f3e9c30953b) | "Be honest. When did you last wash it?" / "This week only: 2 free Pleene™ Pillow Cases with every duvet. And if you want the bedroom ready for the colder nights, Hearth Red is the one everyone picks, and it's almost gone. …" | Hygiene nur in der Vergleichstabelle ("Duvet rarely washed") und in der FAQ. Das Angebot heißt "Autumn offer … while stocks last" statt "This week only". Hearth Red und Farbknappheit kommen nicht vor | **Schwach.** Der Hygiene-Hook (A) wird nicht prominent fortgesetzt. Die Dringlichkeit "This week only" bzw. Farbe fehlt |
+
+**`/products/easyrest-duvet`:**
+
+| Ad | Hook und Versprechen (wörtlich) | Fortsetzung auf der Seite | Bewertung |
+|---|---|---|---|
+| 178749258, Bild, 23 Tage, Perf. 81. [Ad Library](https://www.facebook.com/ads/library/?id=1750276626195989), [GetHooked](https://app.gethookd.ai/share/ad/178749258?signature=26142585e8a79bd682cbb72cd7ae73d46e39dc00bb8ff65b79f19d32e5e4e2cb) | "No Launderette Needed. Ever." / "❄️ Your winter duvet shouldn't need a launderette. … ✓ Cover sewn in, nothing to strip off ✓ Fits a normal washing machine 🧺 ✓ Filling quilted in place, no cold spots ✓ Dry again in about 2 hours / 🎁 Right now: 30% off + 2 FREE matching pillow cases." | "10.5 TOG — proper winter warmth", "Fits in every washing machine", Geschenk-Kasten, "SAVE 34%" (Narrow; 23–35 % je nach Größe) | **Kongruent** (Winter, Waschmaschine, Angebot). Die "30% off" der Ad entsprechen 23–35 % auf der Seite. "launderette" kommt auf der Seite nicht vor |
+| 178749251, Video, 23 Tage, Perf. 81. [Ad Library](https://www.facebook.com/ads/library/?id=1792003651846452), [GetHooked](https://app.gethookd.ai/share/ad/178749251?signature=f7a95b97af4df738359f0bc0b4a21bbd6f5508efef5391e097423762a823afc1) | "Warm Enough For A British Winter" / '❄️ "You'll freeze under that in winter." Here's the honest answer: the Pleene EasyRest™ is rated 10.5 tog, a proper autumn and winter weight, and the whole thing still goes in your washing machine.' | ATF-Bullet "10.5 TOG — proper winter warmth", Galerie "10.5 TOG. Built for British winters.", Section "10.5 TOG. Built for cold nights.", FAQ "It looks thin…" | **Sehr stark kongruent.** Die Seite ist für genau diesen Einwand gebaut |
+| 179476350, Bild, 22 Tage, Perf. 81. [Ad Library](https://www.facebook.com/ads/library/?id=935523852471023), [GetHooked](https://app.gethookd.ai/share/ad/179476350?signature=929eaf7be4e50da7829743ff0e7ad0be30111ad47d7408608f8bb7fc89e7de17) | gleicher Text wie 178749251 | wie oben | **Sehr stark kongruent** |
+
+**Fazit Kongruenz:**
+
+- Am besten passen die **Tog-Ads auf die easyrest- und easyrest-duvet-Seite** (B auf B), die **Testimonial- und Bezug-Ads auf tb-6** und die **Wasch-Ads auf die US-Comforter-Seite**.
+- Brüche entstehen bei Knappheits-Ads (Farbe "nearly gone", "This week only"), weil die Seiten dazu nichts zeigen.
+- Ein weiterer Bruch: Hygiene-Hooks wie "When did you last wash it?" laufen auf tb-6, wo Hygiene nur am Rand vorkommt.
+
+---
+
+### 3.11 Technik
+
+**Shopify-Theme:** `Shopify.theme = {"name":"working of shrine-theme-pro","id":203880759628,"schema_name":"Shrine PRO","schema_version":"1.8.0","theme_store_id":null}`. Shrine PRO kommt nicht aus dem Theme Store und lädt `js.shrinetheme.com`. Die Section `global-music-player` ist vorhanden. Der Shopify-Store heißt `sq48au-70.myshopify.com`, die Shop-ID ist 106066411852.
+
+**Apps (im HTML nachgewiesen über App-Embeds bzw. Extensions):**
+
+| App | Funktion im Funnel | Nachweis |
+|---|---|---|
+| Kaching Bundles (`kaching-bundles-2039`) | Mengenstaffel 1/2/3 mit "Couple-Bundle"/"Family-Bundle", Cart-Rabatte | Extension, `kaching-bundles-deal`-Inputs, `apps/kaching-bundles` |
+| Judge.me (`judgeme-774`) | Sterne-Badge und Bewertungs-Widget, Bild-Reviews (auch auf tb-6) | Extension, Web-Pixel "Judge.me" |
+| Elevate A/B Testing (`elevate-ab-testing-201`, `apps/elevateab`) | Preis-, Template- und Split-URL-Tests, Geo-Weiterleitungen | `window.eab_data` mit 12 Tests (s. u.) |
+| HeyMerch Sales Stock Counter (`heymerch-sales-stock-counter-51`) | Lager- bzw. Verkaufszähler. Geladen, aber im Test **nicht sichtbar**; die Knappheitszeile ist fest im Theme | Extension-Skripte |
+| Klaviyo (`apps/klaviyo-email-marketing-sms`) | Pop-up "Welcome Pop Up - Email" (Gewinnspiel), Newsletter | `static.klaviyo.com`, Formular RJktrA |
+| ParcelPanel (`apps/parcelpanel`, Pixel-Endpunkt `api.parcelwill.com`) | "Track Your Order" | Seite `/apps/parcelpanel` |
+| Zigpoll | Umfragen (z. B. Post-Purchase; nicht verifiziert, welche) | `cdn.zigpoll.com` |
+| Lucky Orange | Session-Recording und Heatmaps | `tools.luckyorange.com`, `apps/lucky-orange` |
+| Triple Whale | Attribution | `apps/triplewhale`, `TriplePixel` |
+| Google Ads Pixel by Nabu | Google-Ads-Conversion | `apps/google-ads-pixel-by-nabu`; Web-Pixel mit `AW-18246939242` |
+| Shopify Bundle-Deals-Section des Themes | "The Cosy Bundle" / "The Full Sleep Set:" | Section `bundle_deals_EQzQcN` |
+
+**Web-Pixel (`webPixelsConfigList`), 13 Einträge:**
+
+- **Meta Pixel** `pixel_id 2174873679968281` (facebook_pixel)
+- **Google Ads** `AW-18246939242`
+- Judge.me
+- ParcelPanel (`api.parcelwill.com`)
+- Shopify Standard- und Custom-Pixel
+- Weitere App-Pixel mit Konfigurationen `siteId`, `storeId`, `accountID 1880964 / spfy-pxl.archive-digger.com`, `marketerIds` (Format passt zu Outbrain) und `shopifyDomain`. Ihre Zuordnung ist nicht verifiziert.
+- **Kein TikTok-, Pinterest- oder Snapchat-Pixel** gefunden.
+
+**GetHooked** (`get_shop` 47758 / `get_ad_technologies`; für alle 4 Seiten identisch):
+
+- Pixel: Microsoft Clarity (93), Google Analytics (88), Meta Pixel (88)
+- Apps: Judge.me, Klaviyo, Loox, Shop Pay, Yotpo, Trustpilot, Kaching Bundle Quantity Breaks
+- Theme "working of shrine-theme-pro"
+- Clarity wird in der Elevate-Konfiguration über `hasClarityEnabled` angesprochen; ein eigenes Clarity-Tag im HTML wurde nicht gefunden.
+- Loox, Yotpo und Okendo sind im HTML nur Null-Variablen des Themes, also wahrscheinlich falsch-positiv.
+- GetHooked schätzt den Shop als "US" (`country_kind: likely`) mit Währung "USD" (inferred). Das widerspricht der Basiswährung GBP.
+- monthly_visits 29,356, 29 Produkte.
+
+**Elevate-A/B-Tests (aus `window.eab_data.allTests`, Namen wörtlich):**
+
+| Test | Typ | Live | Bedingungen | Inhalt |
+|---|---|---|---|---|
+| "Duvet UK PDP Weiterleitung an USCA PDP" | SPLIT_URL | **true** | US, CA; Quelle facebook, instagram, google, direct, tiktok, pinterest | 100 % von `/products/easyrest` auf `/products/easyrest-comforter` |
+| "Duvet UK PDP Weiterleitung an AUS PDP" | SPLIT_URL | **true** (2. Kopie false) | AU | auf `/products/pleene-easyrest-quilt` |
+| "ZipSheet UK PDP Weiterleitung an USCA PDP" / "…an AUS PDP" | SPLIT_URL | true | US, CA bzw. AU | `/products/zipsheet` auf `-us` bzw. `-aus` |
+| "ZipSheet US PDP1 Weiterleitung an AUS PDP" | PRODUCT | true | AU | Produkttausch |
+| "Duplicated 07-28-2026 - EasyRest - 10 Pounds Split Test" (3×) | PRICE_PLUS | false | GB, facebook/instagram, nur Erstbesucher | Variante mit höheren GBP-Preisen (79.99 / 84.99 / 89.99 / 119.99, Vergleich 119.99–159.99) für `easyrest` und `easyrest-pdp` |
+| "UK DUVET PDP - AKTUELL vs. easyrest-pdp-04-08-26" | PAGE | false | GB | Template-Test |
+| "USCA DUVET PDP - easyrest-duvet-usa vs. easyrest-duvet-winter26 different tog rate" | PAGE | false | US, CA; facebook/instagram | Template-Test auf der Comforter-Seite ("different tog rate") |
+| "ZipSheet US PDP1 vs ZipSheet US PDP2" | PAGE | false | US | Template-Test |
+
+Elevate-Einstellungen: `"inTrial":true`, `"useShopifyGeolocation":true`, `"excludeGoogleTraffic":true`. Daraus geht hervor, dass Pleene Preispunkte (+£5/£10) und Templates systematisch testet und die Länder-Funnel über die Weiterleitungen trennt.
+
+**URL-Parameter:** Zwei Comforter-Ads verlinken mit `?trybe=532dbd48` bzw. `?trybe=769e7716`. Im Seitencode gibt es keine Referenz auf "trybe"; Zweck und Tool sind nicht verifiziert.
+
+---
+
+### 3.12 Home-Page und weitere Funnel-Elemente
+
+**Home-Page** (`/`, `render/com__mobile_full.txt`):
+
+- Laufband "🚚 Free shipping on orders over £100 · 90-day home trial".
+- Hero "THE EASYREST™ DUVET" / "**Make your bed in 10 seconds.**" / "A coverless, machine-washable duvet designed for how you actually live. No wrestling. No cover fights. Just fresh sheets, fast." / Buttons "SHOP EASYREST™" und "SEE HOW IT WORKS" / Leiste "NO DUVET COVER · WASHES AT 40°C · TUMBLE-DRYER SAFE".
+- Das hervorgehobene Produkt auf der Home-Page ist überraschend **ZipSheet™ - Zippered Fitted Sheet** (£59.99 ~~£79.99~~).
+- Weitere Sections:
+  - "HOW EASYREST™ WORKS / Bedding, reimagined." mit 3 Schritten
+  - "THE OLD WAY VS THE NEW WAY / Why we skipped the duvet cover."
+  - "BUILT FOR REAL LIFE / Every detail, rethought." ("Quick-drying fibre … Typically ready again in about 2 hours", "All-season weight / A mid-weight fill designed to work through spring, autumn and most winters. One duvet, all year.", "Six colourways")
+  - "THE FULL COLLECTION / The collection."
+  - "CARE & SIZING / Simple to live with." ("40°C, normal cycle / Wash the duvet on its own with a mild detergent. Skip fabric softener and bleach — both reduce the loft of the fill over time.", "Tumble-dry on low, ideally with dryer balls to keep the fill even.")
+  - "THE HONEST COMPARISON / Pleene vs a regular duvet."
+  - FAQ "QUESTIONS, ANSWERED / Everything you might wonder about." mit u. a. "Is it warm enough for winter?" — "It's a mid-weight, all-season duvet that suits most bedrooms from spring through winter."
+  - "90 nights to decide — or your money back."
+- **Widerspruch** zur Produktseite: "mid-weight, all-season" gegen "10.5 TOG — proper winter warmth"; "Six colourways" gegen 10 Farben.
+
+**E-Mail-Pop-up bzw. Gewinnspiel** (Klaviyo-Formular `RJktrA`, "Welcome Pop Up - Email", Typ POPUP, Allocation 100 %):
+
+- Trigger: `DELAY 0` (sofort), `EXIT_INTENT true`, `COOKIE_TIMEOUT 5` (Tage), `EXISTING_USER` und `SUPPRESS_SUCCESS_FORM`.
+- Ausgeschlossen auf `duvet-10r`, `pages/easyrest-duvet`, `easyrest-lp`, `pages/easyrest-tb`, `pages/adv10r-2`, `pages/adv-9r`, `*tb*` und `pages/tb-5`.
+- Text: "Win a free Duvet" / "One subscriber wins a duvet of their choice every month. Any size, any colour." / "Your email address" / "Enter the giveaway".
+- Erfolgsmeldung: "You're in." / "We draw on the 1st and email the winner. Until then — have a look around."
+- Es gibt keinen Rabattcode. **Teilnahmebedingungen fehlen**: `/pages/giveaway`, `/pages/competition` und `/pages/win` liefern 404, und weder Terms noch Privacy Policy erwähnen ein Gewinnspiel.
+- Motiv: lachendes Senioren-Paar mit Decken (Zielgruppe 55+).
+
+**Track Your Order:** Der Menüpunkt führt auf `/apps/parcelpanel` (ParcelPanel) mit den Feldern "Order Number" und "Email or Phone Number" sowie "Track". `/pages/track-your-order` liefert 404.
+
+**About Us** (`/pages/about-us`):
+
+- "We got rid of the duvet cover."
+- "The chore nobody redesigned" mit dem Satz "So we built the duvet and the cover as one piece. Wash the whole thing at 40°C in a normal machine, tumble-dry it on low, put it back."
+- Zitat "Good bedding shouldn't need a technique. If it takes practice, we designed it wrong. — Founder of Pleene". Es gibt **keine Gründer-Story mit Namen oder Gesicht**.
+- "How we decide things" ("Fewer steps wins", "Numbers, not adjectives", "Say what it isn't") und "Ninety nights to disagree with us".
+- "The short version: Founded 2026 · Ships to UK, US, Canada, Australia · Home trial 90 nights · Dispatch 1–2 business days · Support reply Within one working day · Team 12 people".
+
+**Kontakt:** Kontaktformular, "support@pleene.com", "Tel.: +1 (205) 360-5811" (US-Vorwahl), Servicezeiten "Monday through Friday, 9:00 a.m. to 5:00 p.m. (GMT)".
+
+**Weitere, derzeit nicht beworbene Funnel-Seiten** (existieren, aber keine aktive Ad im Inventar):
+
+- `/pages/adv-9r` ("Pleene EasyRest™ Duvet - 10 Reasons TB1")
+- `/pages/adv10r-2` ("10 Reasons TB2")
+- `/pages/easyrest-tb` (TB3)
+- `/pages/tb-5` (TB5)
+- `/pages/easyrest-duvet`
+- `/products/easyrest-pdp` ("Pleene EasyRest™ 2in1 Duvet")
+- `/products/easyrest-everyday-duvet`
+- `/products/pleene-easyrest-duvet-2in1`
+- `/pages/tb-1` bis `tb-4` und `tb-7` liefern 404.
+
+Daraus folgt, dass Listicles ("10 Reasons") und mehrere Advertorial-Iterationen getestet wurden; tb-6 ist die aktuell aktive.
+
+---
+
+### 3.13 Offene Punkte (n/a bzw. nicht verifiziert)
+
+- **Checkout-Inhalte** wurden bewusst nicht geöffnet: Versandoptionen, Steuern, Post-Purchase-Upsells, ob Package Protection im Checkout vorausgewählt ist und ob die Gratis-Kissenbezüge erscheinen. Alles n/a.
+- **Geo-Weiterleitungen** (Elevate US/CA auf Comforter; pleene.com auf pleene.uk für GB-IPs) haben im Test nicht ausgelöst bzw. waren mangels GB-IP nicht prüfbar. Nicht verifiziert.
+- **UGC-Videos "Peter", "Brian", "Dave"** wurden nicht transkribiert: Es gibt keine lokale Speech-to-Text-Software und keine Transkripte im Inventar. Die Dauern sind bekannt (101 s / 42 s / 53 s). Die Zuordnung der Namen zu den Dateien ist nicht verifiziert.
+- **Tatsächliche Lagerbestände** (z. B. Hearth Red) sind öffentlich nicht verfügbar.
+- **"As featured in"** (STARTUPS, new!, The Times, Fabulous): keine Belege auf der Seite, nicht verifiziert.
+- **Herkunft der "✓ Verified"-Testimonials und Galerie-Zitate:** nicht in Trustpilot oder Judge.me auffindbar, nicht verifiziert.
+- **Zuordnung mehrerer Web-Pixel** (siteId, storeId, archive-digger, marketerIds): nicht verifiziert.
+- **AU-Seite `/products/pleene-easyrest-quilt`:** Ziel der AU-Weiterleitung, nicht analysiert, da keine Ad im Inventar dorthin führt.
+
+---
+
+### 3.14 Dateien
+
+Alle Pfade relativ zu `/tmp/claude-0/-home-user-paw-friends-support-bot-/fdae0922-7feb-5884-bf18-6d4ea4ec6336/scratchpad/`.
+
+- Screenshots Above the Fold und ganze Seite, mobil und Desktop: `wf/funnel/render/com_products_easyrest_*`, `com_products_easyrest-comforter_*`, `com_products_easyrest-duvet_*`, `com_pages_tb-6_*`, `com__*` (Home), `misc_about_mobile.png`, `misc_track_mobile.png`, `misc_contact_mobile.png`
+  - Dateien `_atf_t4.png` zeigen den Zustand nach 4 s mit Pop-up, `_atf_clean.png` den Zustand ohne Pop-up.
+  - Texte: `_full.txt`, Überschriften: `_outline.json`, Sections: `_sections.json`.
+- Kontaktbögen: `wf/funnel/sheets/` (Seiten, Galerien `gallery_er.png` und `gallery_cf.png`, `testimonial_videos.png`).
+- Warenkorb: `wf/funnel/cart/` (`bars_*_drawer.png|txt`, `*_cartpage.png|txt`, `cart_*_variantscan.png`, Logs `cart_*.log` und `bars_*.log`, `bundle_prices.txt`, USD: `us_comforter_*.png|txt|log`).
+- Detailbilder: `wf/funnel/gallery_view/` (Testimonial-Texte, `size_table.jpg`, `wm_table.jpg`, `cartpage_top.png`).
+- Währungsprobe: `wf/funnel/probe_currency.log`.
+- Roh-HTML und JSON: `a3dl_html/` (inkl. Policies, Produkt-JSON GB/US, `elevate_block.txt`), Klaviyo: `a3dl_klaviyo/forms_v7.json`.
+
+## Teil 4 – Bewertungen und Einwände
+
+Stand: 08.10.2026. Quellen: Trustpilot `uk.trustpilot.com/review/pleene.com` (der Aufruf von `/review/pleene.uk` liefert dieselbe Business Unit, Canonical-URL pleene.com), Judge.me-Widget der Produktseite (Shop `sq48au-70.myshopify.com`, Produkt-IDs 15775652118860, 15843626418508, 16081090838860). Rohdaten aller Bewertungen: `wf/reviews_all.json` (Trustpilot 291, Judge.me 172 plus 6 shopweite Zusatzbewertungen). Referenzen: T001–T291 = Trustpilot, J001–J172 = Judge.me, jeweils aufsteigend nach Datum. Zitate wörtlich im Original (inklusive Tippfehlern).
+
+### 4.1 Zusammenfassung
+
+- **Bewertungsbasis ist dünn, aber sehr positiv:** Trustpilot 291 Bewertungen (TrustScore 4,8; 86 % 5★, 2,7 % 1–3★), alle seit dem 01.08.2026. Das Judge.me-Widget auf der Produktseite („172 reviews“, Ø 4,82) besteht zu 154 von 172 aus **wörtlich von Trustpilot importierten** Texten; nur 18 Judge.me-Bewertungen sind eigenständig.
+- **Der Import ist kuratiert (starkes Muster, Mechanismus nicht verifiziert):** Von den 168 Trustpilot-Bewertungen bis zum letzten Import (12.09.2026, T001–T168) wurden 154 von 162 positiven übernommen, aber **0 von 6 negativen** und **0 von 7 Bewertungen, die „China“ erwähnen**; ebenso nicht T143 (Amazon-Preisvergleich). Auf der Produktseite gibt es deshalb **keine einzige 1- oder 2-Sterne-Bewertung**.
+- **Einwand Nr. 1 ist die Lieferzeit, nicht das Produkt:** 51 Trustpilot-Bewertungen (17,5 %) nennen lange oder verzögerte Lieferung, davon 46 trotzdem mit 4–5★. Im September lag der Anteil bei 26 % (34 von 133). 11 Bewertungen thematisieren Versand aus China/USA bzw. die intransparente Herkunft trotz „London“-Adresse.
+- **Produktprobleme sind selten und mild:** Knitterfalten durch Vakuumverpackung (7), Größe (10, gemischt: zu knapp vs. sehr großzügig, Fehlbestellungen), Verarbeitung (5, darunter 1★ „unfinished“), Farbe (3). **Kein einziger Bericht über tatsächliches Verklumpen oder schlechten Geruch.** Wärme: nur 3 negative Erfahrungen (2× zu warm, 1× zu dünn), aber 14 Käufer schreiben ausdrücklich, dass der Winter noch nicht getestet ist; das ist der größte offene Produkteinwand im Oktober.
+- **Häufigster Vorab-Einwand der Käufer: „zu dünn/zu leicht, um warm zu halten“** (14 Bewertungen, die diese Skepsis nennen und auflösen). Pleene adressiert diesen Einwand in den Ads bereits („Too Thin For Winter? Look Closer.“, „Warm Enough For A British Winter“).
+- **Rückgabeversprechen vs. Realität:** Die Ads werben mit „90 nights to try it risk-free“. Zwei Käufer berichten, dass eine Rücksendung nach China „really expensive“ bzw. „too much“ sei und stattdessen Teilerstattung/Rabatt angeboten wurde (T055, T119: "They say a free return - no they don’t").
+- **Lob-Lücken (oft gelobt, in Ads nicht genutzt):** Weichheit/Haptik (46 Bewertungen vs. 1 Ad), Qualität/Verarbeitung (55 vs. 0 echte Qualitätsaussage), besserer Schlaf (28 vs. 0), großzügige Größe/bleibt auf dem Bett/Füße bedeckt (24 vs. 0), Service/Kommunikation (28 vs. 0), Preis-Leistung (21 vs. 0, Ads nur mit Rabatt), konkrete Lebenslagen wie Arthritis, Witwer, Chemo, Mobilität (42 vs. 9 abstrakte „Independence“-Varianten).
+- **Umgekehrt nutzen die Ads Themen, die Käufer kaum nennen:** Hygiene/Allergie/Frische steckt in 59 von 137 Ads (22 von 61 Textvarianten), aber nur in 8 von 283 positiven Bewertungen (3 %); das Versprechen „Hypoallergenic and kind to sensitive skin“ bestätigt keine einzige Bewertung. Wechseljahre/Nachtschweiß: 0 Ads, 3 Bewertungen (alle von Männern).
+- **Käuferprofil:** überwiegend ältere Briten (91,8 % GB), viele Senioren und Menschen mit körperlichen Einschränkungen (Arthritis, Rücken, Beine, Herz, Krebs/Chemo, Mobilität), Witwer und Alleinlebende, Paare. Nach Vornamen sind **56 % der Bewerterkonten männlich** (157 von 280), 31 % weiblich. Mehrfachkäufe sind häufig (Gästezimmer, weitere Betten).
+- **Auffälligkeiten:** (1) Start mit 37 Bewertungen in gut 5 Stunden am 01.08.2026 (erster Tag des Profils) plus 13 am 02.08.; (2) die einzigen 8 Foto-Bewertungen auf Judge.me entstanden am 06.06.2026 innerhalb von 3 Minuten 23 Sekunden, keine davon verifiziert; die Fotos deuten auf kontinentaleuropäische Schlafzimmer hin (Bildeindruck, nicht verifiziert); (3) 3 Judge.me-Bewertungen mit Datum 2025-08 bis 2026-04, also vor allen echten Käuferbelegen; (4) **Pleene antwortet öffentlich auf keine einzige Bewertung** (0/291 Trustpilot, 0/172 Judge.me), obwohl ein bezahltes Trustpilot-Abo aktiv ist; (5) seit September wachsen Bewertungen aus Australien/Kanada/USA (Oktober: 13 von 44), teils zum zweiten Produkt ZipSheet.
+
+### 4.2 Zahlen
+
+**Plattformen im Überblick**
+
+| Kennzahl | Trustpilot (pleene.com = pleene.uk) | Judge.me Produktseite EasyRest |
+|---|---|---|
+| Angezeigte Gesamtzahl | 291 (Kopfzeile); Sternfilter 8 + 32 + 251 = 291 | „Based on 172 reviews“ |
+| Erfasst | 291 (Abgleich: identisch) | 172 (Abgleich: identisch) |
+| Ø Sterne | 4,80 (angezeigter TrustScore 4,8) | 4,82 (Widget) |
+| 5★ / 4★ / 3★ / 2★ / 1★ | 251 / 32 / 2 / 1 / 5 | 142 / 29 / 1 / 0 / 0 |
+| Anteil 1–3★ | 8 = 2,7 % | 1 = 0,6 % |
+| Zeitraum | 01.08.2026 – 08.10.2026 | 03.08.2025 – 12.09.2026 |
+| Label „Invited“ | 2 (0,7 %; T050, T109, Quelle „BasicLink“) | n/a (Judge.me-Badges siehe unten) |
+| „Verified“ | 0 | „verified_buyer“: 4 (2,3 %) |
+| Öffentliche Antworten von Pleene | 0 von 291 (Trustpilot: replyPercentage 0, 6 negative Bewertungen, 0 beantwortet) | 0 von 172 |
+| Fotos / Videos | Trustpilot zeigt keine Bewertungsfotos (n/a) | 8 Bewertungen mit Foto (4,7 %), 0 Videos |
+| Herkunft der Bewertungen | 289 „Organic“, 2 „BasicLink“ | 154 textgleich mit Trustpilot (Import), 18 eigenständig |
+
+**Trustpilot-Profil (Business-Unit-Daten aus `__NEXT_DATA__`):** Kategorie „Bedding Shop“; `countryCode: HK`, Kontakt `support@pleene.com`, Land HK; `claimedDate` 20.08.2026; `isMerged: true`, `hasBusinessUnitMergeHistory: true` (pleene.uk wurde offenbar in pleene.com zusammengeführt; die ID der Business Unit codiert als Erstellungszeit den 19.08.2026, abgeleitet, nicht verifiziert); `verifiedPaymentMethod: true`; `isUsingPaidFeatures: true`, `hasSubscription: true`; `isCollectingReviews: false`, `hasRecentlyInvitedUsers: false`; `hasCollectedIncentivisedReviews: false`. Die Standardansicht ohne Filter listet 280 statt 291 Bewertungen (Trustpilot-interne Ansicht, Grund n/a); über Sternfilter und Zeitraumfilter „last12months“ sind alle 291 erreichbar.
+
+Trustpilot-KI-Zusammenfassung (wörtlich): "Looking at 271 reviews, reviewers overwhelmingly had a great experience with this company. [...] However, some people mentioned that delivery times took longer than expected to arrive at their homes. A few customers also noted that the items arrived heavily creased because of the tight vacuum packaging, requiring some extra patience to smooth out."
+
+**Trustpilot nach Land:** GB 267, AU 12, CA 6, US 3, CY 1, JE 1, FR 1 (GB = 91,8 %).
+
+**Trustpilot-Bewerter:** 291 Bewertungen von 280 Konten; 10 Konten schrieben 2–3 Bewertungen (zusammen 21). Median der Trustpilot-Bewertungen pro Konto: 10; Konten mit nur dieser einen Bewertung: 28. Ø Textlänge (Median) 198 Zeichen. 5 Bewertungen wurden nachträglich aktualisiert (T143, T177, T185, T194, T244).
+
+**Judge.me im Detail:** Anbieter der Bewertungs-App ist Judge.me (Produktseiten-HTML enthält 1.259 `jdgm`-Verweise; Daten vollständig über die Judge.me-Widget-API `reviews_for_widget`, 6 Seiten à 30, sowie das shopweite Widget abgerufen). Dieselben 172 Bewertungen erscheinen auf allen drei Produkt-IDs („Pleene EasyRest™ Duvet“ zweimal, „Pleene EasyRest™ Comforter“). Badges: `review_collected_from_another_provider` 158, `review_collected_from_store_visitor` 11, `review_collected_via_store_invitation` 3. Von den 154 Trustpilot-Importen tragen 147 die Uhrzeit 10:00 (nur Datum übernommen). Bei 20 importierten Texten weicht die Sternzahl von Trustpilot ab (14× Trustpilot 5★ → Judge.me 4★, 5× 4★ → 5★, 1× 5★ → 3★: T109/J121); Ursache n/a. Shopweit zeigt Judge.me 176 Produktbewertungen (172 EasyRest + 4 ZipSheet™ vom 12./13.07.2026, alle 5★, nicht verifiziert) und 2 Shop-Bewertungen (21./22.06.2026).
+
+**Judge.me 1–3★ (wörtlich, vollständig):** Es gibt genau eine:
+- J121 · 2026-08-30 · 3★ · Norman Walton · Land n/a · verified_buyer: nein · Antwort Pleene: keine · Titel: "Ok but too much security checks" · Text: "Ok but too much security checks from email and face book" – identisch mit Trustpilot T109, dort aber **5★**.
+
+**Kuratierter Import (Detail):** Trustpilot T001–T168 (bis 12.09.2026) = 168 Bewertungen. Importiert: 154. Nicht importiert: alle 6 mit 1–3★ (T036, T059, T094, T115, T119, T127) sowie 8 positive: T044, T055, T069, T107, T124, T150 (alle erwähnen „China“), T143 (Amazon-Vergleich, „very expensive“) und T158 (ZipSheet). Die einzige weitere China-Erwähnung (T278) stammt von nach dem Import. Zufällig wäre ein solches Muster sehr unwahrscheinlich; ob manuell oder per Filter ausgewählt wurde, ist nicht verifiziert. Seit dem 12.09.2026 kamen keine neuen Judge.me-Bewertungen hinzu, während Trustpilot 123 neue erhielt.
+
+### 4.3 Kategorien: Probleme und Einwände
+
+Basis: alle 291 Trustpilot-Bewertungen, also auch Kritik innerhalb von 4–5★-Bewertungen (die meisten Einwände stehen dort). Zählung = Anzahl Bewertungen mit Erwähnung, manuell codiert, Mehrfachzuordnung möglich. Die 18 eigenständigen Judge.me-Bewertungen enthalten nur drei kritische Punkte (J051, J110 Lieferdauer; J015 Wunsch nach Weiß).
+
+**Produkt**
+
+| Kategorie | n | Sterne (5/4/3/2/1) | Referenzen |
+|---|---|---|---|
+| W1 Wärme: zu warm | 2 | 0/2/0/0/0 | T056, T170 |
+| W2 Wärme: zu kalt / zu dünn | 1 | 0/0/0/1/0 | T127 |
+| W3 Wärme: Wunsch nach wärmerer Version / Zusatzdecke im Winter | 3 | 3/0/0/0/0 | T015, T233, T260 |
+| W4 Wärme: Winter noch ungetestet (Vorbehalt in positiver Bewertung) | 14 | 9/5/0/0/0 | T026, T057, T088, T107, T124, T125, T146, T149, T173, T179, T188, T194, T218, T232 |
+| G Größe (zu knapp, sehr großzügig, falsch bestellt, falsch geliefert) | 10 | 7/2/1/0/0 | T022, T035, T055, T119, T146, T153, T232, T239, T250, T270 |
+| M Material/Verarbeitung (offene Naht, loser Faden, Füllung tritt aus, "unfinished", Reißverschluss) | 5 | 0/3/1/0/1 | T028, T119, T180, T217, T277 |
+| Wa Waschen (knapp in der Maschine, Restwasser, Sorge vor Verklumpen) | 4 | 4/0/0/0/0 | T103, T126, T141, T270 |
+| Tr Trocknen (länger als 2 Std.) | 2 | 2/0/0/0/0 | T019, T262 |
+| K Knittern durch Vakuumverpackung | 7 | 2/4/0/0/1 | T008, T014, T042, T094, T118, T139, T239 |
+| V Verklumpen (tatsächlich aufgetreten) | 0 | 0/0/0/0/0 | – |
+| Ge Geruch (negativ) | 0 | 0/0/0/0/0 | – |
+| F Farbe (zu grell, weicht von Website ab, Verwechslung) | 3 | 2/1/0/0/0 | T068, T198, T282 |
+| S Sonstiges/Wünsche (Muster, Weiß, mehr Farben, Top Sheet, Treuerabatt) | 8 | 7/1/0/0/0 | T043, T051, T054, T146, T189, T226, T237, T264 + Judge.me eigen: J015 |
+| P Preis hoch | 3 | 1/2/0/0/0 | T008, T097, T143 |
+
+**Lieferung**
+
+| Kategorie | n | Sterne (5/4/3/2/1) | Referenzen |
+|---|---|---|---|
+| L1 Lieferdauer lang/verzögert | 51 | 31/15/1/1/3 | T016, T020, T028, T044, T054, T056, T067, T070, T094, T104, T107, T115, T119, T124, T125, T127, T132, T134, T136, T139, T143, T150, T152, T156, T159, T162, T167, T168, T174, T180, T183, T187, T190, T191, T193, T194, T198, T202, T204, T205, T208, T216, T218, T226, T240, T248, T256, T261, T273, T279, T287 + Judge.me eigen: J110, J051 |
+| L2 Zustellproblem (beschädigt, falsche Adresse, nicht angekommen, falsche Ware, Kurieranweisung) | 9 | 3/4/0/0/2 | T021, T060, T115, T125, T138, T153, T162, T240, T291 |
+| L3 Versand aus China/USA bzw. Herkunft intransparent | 11 | 6/3/1/0/1 | T044, T055, T059, T069, T107, T119, T124, T132, T150, T175, T278 |
+| L4 Lieferung positiv (schnell, pünktlich, gut verpackt, Tracking) | 33 | 32/1/0/0/0 | T007, T011, T015, T019, T023, T050, T051, T069, T077, T089, T106, T110, T116, T122, T128, T131, T147, T160, T172, T182, T196, T206, T207, T212, T213, T214, T234, T235, T239, T252, T267, T278, T283 |
+
+**Kundenservice**
+
+| Kategorie | n | Sterne (5/4/3/2/1) | Referenzen |
+|---|---|---|---|
+| K1 Service negativ (keine/späte Antwort, Erstattung zäh) | 5 | 1/0/0/1/3 | T115, T127, T185, T240, T277 |
+| K2 Rückgabe/Umtausch (Rücksendung nach China zu teuer, Teilerstattung statt Retoure) | 3 | 2/0/1/0/0 | T055, T119, T270 |
+| K3 Bestellprozess/Angebot (Upsell-Seite, Gratis-Kissen, Sicherheitschecks, Aktion verpasst, versehentliche Zusatzbestellung) | 5 | 3/0/1/0/1 | T036, T059, T109, T113, T114 |
+| K4 Service positiv (Ersatz, Erstattung, schnelle Antwort, Kommunikation) | 22 | 18/4/0/0/0 | T020, T021, T055, T075, T077, T082, T089, T141, T143, T153, T164, T174, T185, T213, T231, T232, T244, T270, T272, T273, T282, T291 |
+| K5 Erstattung/Gutschrift erwähnt | 6 | 1/3/1/0/1 | T020, T055, T119, T143, T244, T277 |
+
+**Erwartung vs. Realität**
+
+| Kategorie | n | Sterne (5/4/3/2/1) | Referenzen |
+|---|---|---|---|
+| E1 Erwartung enttäuscht / Versprechen nicht gehalten | 10 | 1/4/1/1/3 | T059, T094, T107, T119, T127, T170, T198, T226, T250, T277 |
+| E2 Vertrauen/Scam-Angst vor oder nach dem Kauf | 11 | 7/1/0/0/3 | T020, T052, T059, T076, T098, T115, T192, T240, T270, T276, T283 |
+| E3 Erwartung übertroffen nach Skepsis | 32 | 31/1/0/0/0 | T005, T016, T040, T042, T047, T051, T052, T054, T063, T076, T098, T099, T108, T120, T122, T126, T146, T150, T192, T223, T229, T241, T246, T261, T262, T269, T270, T276, T284, T288, T289, T290 |
+
+**Belegzitate Produkt**
+
+- Wärme zu warm: "Got rather hot but light weight allows for it to be thrown off easily." (T056, 4★); "still felt hot sometimes and had to throw the Pleene EasyRest duvet off myself on some occasions" (T170, 4★)
+- Zu dünn: "Its not warm too thin, waste of money" (T127, 2★)
+- Wärmere Version gewünscht: "do you make heavier one for the winter." (T233, 5★); "Will probably add a weighted blanket in mid winter" (T260, 5★); "in winter, if it is cold, I will use two at once" (T015, 5★)
+- Winter-Vorbehalt: "As it is still summer, I cannot say how warm it will be for winter nights. It is claimed that the duvet will be like a 10 tog in winter. I will have to wait and see." (T107, 4★); "I am waiting to see how I cope with it during the winter months." (T179, 5★)
+- Größe: "I bought a double sized which is a little undersized." (T035, 5★); "One king size quilt would be far too small." (T239, 5★); "I like a king size, but it is so generous I think a double would have been ok!" (T146, 5★); "It seems much bigger than a regular “Flat”, doesn’t fit as nicely as the shown in the advertisement." (T250, 4★) (ZipSheet)
+- Verarbeitung: "Regretably the duvet arrived unfinished and very poor quality." (T277, 1★); "was clearly ‘bubbled’ with lining coming out through a series of minute minute punctures in the surface" (T119, 3★); "I did notice that there was a lone loose thread in the middle of a line of stitch." (T180, 4★); "the only thing was the pillow case seam was open" (T028, 4★)
+- Waschen: "had a little problem on the wash for the double as it retained abit of water" (T141, 5★); "although it is a tight fit in my washing machine it washed well" (T126, 5★); "My biggest concern is, will the filling bunch up during washing?" (T103, 5★)
+- Trocknen: "Drying takes about 4hours but all good." (T019, 5★); "dried inside within 1 day" (T262, 5★)
+- Knittern: "it was so tightly vacuum packed, thousands of tiny creases still remain even after a wash and a week’s use." (T118, 4★); "the pillowcases are still very creased, and I feel loathe to iron them in case I spoil them" (T008, 4★); "Item is very creased" (T094, 1★)
+- Verklumpen: kein Fall; Gegenbeleg "after the first wash no "bunching" or lumpiness to the filling (unlike my last quilt)" (T270, 5★)
+- Geruch: kein negativer Fall; Gegenbeleg "no unpleasant odour as with some ordinary duvets" (T067, 5★)
+- Farbe: "sunset red .much too bright,husband says its like having an RAF life raft on the bed" (T068, 4★); "I think the colour looks different than it appeared on the website" (T198, 5★)
+- Wünsche: "Only thought I had is that they do not do patterened ones" (T043, 5★); "I just wish you also did it in white" (T051, 5★); "you need to have a matching top sheet" (T264, 5★); "I would have appreciated a loyalty discount for being a returning customer." (T054, 5★)
+- Preis: "very expensive compared with buying from the likes of Amazon" (T143, 4★); "A bit pricey but worth having." (T097, 5★)
+
+**Belegzitate Lieferung**
+
+- Dauer: "Took 13 days instead of 6 day advertised" (T094, 1★); "Took over 3 weeks to be delivered" (T143, 4★); "my order took a long time to be delivered so please evaluate your logistical processes." (T054, 5★)
+- Zustellung: "They than claimed that Evri had the parcel in thier london hub days ago you Evri have no record of the tracking numbers given" (T240, 1★); "being delivered to a similar sounding wrong address" (T060, 5★); "our original order was damaged in transit, they promptly sent a replacement" (T021, 5★)
+- Herkunft: "despite the company being based in London, the product actually has to travel all the way from China" (T107, 4★); "The address 128 City Road, London (EC1V 2NX) is a well-known mass-registration office" (T059, 1★); "Then when the parcel arrived in UK it went Stansted, Braintree, Midlands, Cardiff (?), before getting delivered to us in East Anglia." (T044, 4★)
+- Positiv: "I was able to follow my parcels voyage on its complete journey until it arrived which took a week." (T278, 5★); "Prior to ordering, I read quite a few reviews saying that the delivery time was quite long.  I didn’t find that" (T196, 5★)
+
+**Belegzitate Kundenservice**
+
+- Negativ: "Customer support has taken 5 days to respond and then didn’t help just said out for delivery." (T115, 1★); "no reply to email" (T127, 2★); "I am now trying to be reimbursed, to which there seems to be reluctance. I have been offered a free one, but it would not be free as I have already paid for unusable goods." (T277, 1★)
+- Rückgabe: "A lovely customer service lady explained that it would be really expensive to return the item as the company was based in China." (T055, 5★); "They say a free return - no they don’t I was told my miss-order would cost me too much to return to China so they offered me a percentage off another order which I accepted." (T119, 3★)
+- Bestellprozess/Upsell: "I made the purchase, and got another page asking me to confirm an order. I thought I was just confirming the purchase I'd made (probably wasn't concentrating) but it added a second Duvet, that I didn't want) to the order at a discount." (T036, 3★); "Luckily I mistakenly ordered an extra one" (T114, 5★); "Ok but too much security checks from email and face book" (T109, 5★); "it offers two free pillow cases but no indication of this when you come to pay" (T059, 1★)
+- Positiv: "The company have been in contact and I am very happy with the outcome" (T185, 5★) (nach "Avoid this company like the plague."); "found Amelia quick to respond with here advice" (T270, 5★); "Updated, I have had a £25 refund from the company with this message." (T143, 4★)
+
+**Belegzitate Erwartung vs. Realität**
+
+- Enttäuscht: "waste of money" (T127, 2★); "Though they did not fully work in the way they described" (T170, 4★); "Thought I’d ordered a top sheet but no." (T226, 4★)
+- Vertrauen: "i only saw the advert on facebook and wasn't sure if this would be a scam" (T098, 5★); "pleene has a low security rating" (T020, 4★); "this seems to be a scam" (T115, 1★); "NO STARS CON" (T240, 1★)
+- Übertroffen: "THIS IS NOT THE CASE WITH PLEENE." (T076, 5★); "So okay, I admit it, I was completely wrong" (T192, 5★); "I must admit I was sceptical about the claims for the duvet, but I was wrong." (T122, 5★)
+
+**Vorab-Einwände, die Käufer vor dem Kauf hatten (aus positiven Bewertungen)**
+
+| Einwand vor dem Kauf | n | Referenzen | Beleg |
+|---|---|---|---|
+| Zu dünn/leicht, um warm zu halten | 14 | T005, T016, T150, T159, T173, T229, T232, T237, T241, T245, T246, T262, T288, T289 | "I thought it wouldn't be warm enough being quite thin, but it's lovely and warm." (T241, 5★) |
+| Online-/Facebook-Kauf, Angst vor Betrug | 8 | T052, T076, T098, T099, T192, T270, T276, T283 | "I, like you, am somewhat suspicious of claims by companies on FB etc" (T192, 5★) |
+| Passt nicht in die Waschmaschine | 4 | T107, T146, T157, T270 | "I did not believe the duvet would fit into the washing machine" (T146, 5★) |
+| Trocknet im Winter nicht schnell genug | 2 | T043, T146 | "I ordered two duvets as I was worried about getting it dry in the winter." (T043, 5★) |
+| Füllung verklumpt beim Waschen | 1 | T103 | "will the filling bunch up during washing?" (T103, 5★) |
+
+### 4.4 Lob-Lücken: Was Käufer loben und die Ads nicht nutzen
+
+Methode: Themen-Suchmuster über alle 283 Trustpilot-Bewertungen mit 4–5★ (Judge.me nicht separat gezählt, da 154 von 172 Kopien sind) und über Titel+Text aller 137 aktiven Ads aus `agent1_enriched.json` (61 unterschiedliche Titel-Text-Kombinationen). Treffer wurden manuell gesichtet und offensichtliche Fehltreffer entfernt; Toleranz etwa ±2–3. Angle-Codes nach Vorgabe (A–F).
+
+| Thema (Angle) | Bewertungen 4–5★ (n von 283) | Ads (n von 137) | Ad-Varianten (n von 61) | Einordnung |
+|---|---|---|---|---|
+| Weich / Haptik / Stoff (F) | 46 (16 %) | 1 | 1 | große Lücke: nur „fluffy … feels amazing“ in 1 Ad |
+| Qualität / Verarbeitung (F) | 55 (19 %) | 4 | 2 | große Lücke: Ads sagen nur „Quilted in place, no cold spots“ |
+| Besserer Schlaf (explizit) (F) | 28 (10 %) | 0 | 0 | Lücke: keine Ad verspricht besseren Schlaf |
+| Bleibt auf dem Bett / großzügige Größe / Füße bedeckt (F) | 24 (8 %) | 0 | 0 | Lücke: Größe nur als Größen-Erklärung („What bed have you got?“) |
+| Service / Kommunikation / Tracking (F) | 28 (10 %) | 0 | 0 | Lücke (und Gegengewicht zum Lieferzeit-Einwand) |
+| Preis-Leistung (F) | 21 (7 %) | 0 | 0 | Lücke: Ads nutzen nur Rabatt („30% off + 2 FREE“), kein „worth it“ |
+| Optik / Farbe / Schlafzimmer aufgewertet (F) | 52 (18 %) | 13 | 4 | teilweise: Farbe nur als Knappheit/Neuheit, nie „sieht toll aus/Zimmer aufgewertet“ |
+| Wiederkauf / weitere Betten / Gäste (F) | 50 (18 %) | 8 | 3 | teilweise: nur „Spare Bed“-Story |
+| Körperliche Erleichterung / Alter / Gesundheit / allein (E) | 42 (15 %) | 13 | 9 | teilweise: Ads abstrakt („Independence“, „by yourself“), keine konkreten Beschwerden |
+| Empfehlung / Familie und Freunde (F) | 39 (14 %) | 14 | 4 | teilweise: „Everyone said it“, „loved by hundreds“ |
+| Leicht / nicht schwer (B) | 72 (25 %) | 25 | 14 | genutzt („without the weight“), aber unterrepräsentiert |
+| Temperatur (warm/kühl/regulierend) (B) | 105 (37 %) | 46 | 11 | genutzt (Winter-Wärme), Sommer-Kühle kaum |
+| Bequem / komfortabel (F) | 72 (25 %) | 24 | 19 | genutzt |
+| Skepsis überwunden (F) | 34 (12 %) | 26 | 7 | genutzt (Einwandbehandlung „Too Thin For Winter?“, „Check This Before You Buy“) |
+| Kein Bezug mehr / Kampf mit dem Bezug (C) | 83 (29 %) | 108 | 46 | Kernbotschaft, deckungsgleich |
+| Ganze Decke in der Waschmaschine (A/C) | 111 (39 %) | 114 | 48 | Kernbotschaft, deckungsgleich |
+| Schnell trocken (C) | 50 (18 %) | 79 | 25 | in Ads stärker als in Bewertungen |
+| Bett schnell gemacht / Bettwechsel leicht (C) | 30 (11 %) | 41 | 11 | in Ads stärker als in Bewertungen |
+| Kissenbezüge (F-Angebot) | 16 (6 %) | 51 | 11 | Ads stark (Gratis-Kissen), Käufer erwähnen sie als „bonus“ |
+| Hygiene / Allergie / Frische / Geruch (A) | 8 (3 %) | 59 | 22 | **umgekehrte Lücke:** Ads stark, Käufer kaum |
+| Nachtschweiß / Schwitzen (B) | 3 (1 %) | 0 | 0 | beide schwach; Wechseljahre nie erwähnt |
+| Paar mit unterschiedlichem Wärmeempfinden (B) | 2 (1 %) | 0 | 0 | Lücke (klein): Paare mit unterschiedlichem Wärmeempfinden |
+| Haustiere (F) | 2 (1 %) | 3 | 1 | beide schwach |
+| Kein Bügeln (F) | 2 (1 %) | 1 | 1 | beide schwach |
+
+Geschenk (Angle D): Kauf für andere oder als Geschenk in 7 Bewertungen (T133 an sich selbst zum 84. Geburtstag, T171 Mutter, T196 Sohn zu Weihnachten, T200 Sohn, T252 Freund, T289 Sohn, T283 ZipSheet für die Mutter); in den Ads 0 Geschenk-Erwähnungen.
+
+**Belegzitate zu den wichtigsten Lücken**
+
+- Weichheit/Haptik: "Soft as a baby’s tush" (T217, 4★); "It is like lying asleep in a floating  cloud." (T133, 5★); "This Pleene duvet is light, sumptuously soft and easier to live with." (T117, 5★); "It seems to hug every part of your body" (T113, 5★); "Crisp yet soft." (T273, 5★)
+- Qualität/Verarbeitung: "Good quality materials and well sewn." (T077, 5★); "So quality first rate and item well worth the money." (T040, 5★); "Excellent quality - better than expected." (T164, 5★); "I'm very happy with the colour, quality, stitch and warmth." (T248, 5★)
+- Besserer Schlaf: "First night on I had a comfortable complete nights sleep.  I was suffering from broken nights previously." (T192, 5★); "I generally don’t sleep more than 4/5 hours at a time but with my pleene I’m getting up to 7 hours" (T212, 5★); "I have never had so many nights of uninterrupted sleep" (T133, 5★); "So far after a week we have all been sleeping better due to feeling a more comfortable temperature in bed." (T123, 5★)
+- Größe/bleibt liegen/Füße: "I liked the idea that I could get a long cover that would cover my feet perfectly." (T066, 5★); "The sizing is also very generous and there is plenty of overhang which I like." (T203, 5★); "doesn't slip off the bed during the night" (T103, 5★); "With a duvet and cover I always ended up with too much duvet at the feet end and not enough at the head end!!" (T120, 5★); "I got a super king for a king size bed as both of us are quilt hoggers" (T202, 5★)
+- Service/Kommunikation: "Even though the order took a little longer to reach me than expected, the communication was excellent throughout." (T164, 5★); "Although delivery took a little while  I was kept up to date throughout" (T174, 5★)
+- Preis-Leistung: "real value for money in todays climate" (T037, 5★); "Definitely value for money." (T091, 5★)
+- Optik/Schlafzimmer: "my bedroom has been transformed into an amazing  bedroom" (T009, 5★); "It looks great on the bed it really smarten the bed up" (T096, 5★); "The spring green is a lovely restful colour that provides a calm atmosphere for my bedroom." (T181, 5★); "as the bedroom now looks like a bedroom" (T251, 5★)
+- Wiederkauf/weitere Betten: "In fact we have just ordered our 3rd set" (T140, 5★); "have ordered another 2 for  my son and will be replacing all the bedding in the house." (T289, 5★); "Having friends to stay the night will now be quick and easy to prepare and quick and easy to wash afterwards." (T175, 5★)
+- Paare: "I like to be warm and cosy whereas my husband wants to be cool and unrestricted by quilts and additional quilt covers. The Pleene coverless duvet delivers for both of us!" (T054, 5★)
+- Nachtschweiß: "Overall it did stop my night sweats and waking up to wet sheets so they did work." (T170, 4★); "it has been very hot at night but have not  had any perspirationover the night time" (T057, 5★); "no sweating overheating under it" (T105, 5★)
+- Zum Vergleich Hygiene (umgekehrte Lücke), die einzigen konkreten Käufer-Belege: "having a quilt I can wash I no longer wake up with a bunged up nose" (T202, 5★); "so no guilt for us or short stay visitors!! ( don’t tell’em!)" (T027, 5★)
+
+**Ad-Versprechen, die Bewertungen relativieren:** „90 nights to try it risk-free“ vs. T055/T119 (Rücksendung nach China zu teuer); „dry in 2 hours“ bestätigt von T140 ("in 2hrs"), J011 ("dry in about 2 hours"), aber T019 ("about 4hours") und T262 ("within 1 day"); „10.5 tog, every bit as warm as a winter duvet“ wird im Oktober von 14 Käufern noch als ungetestet markiert; „Hypoallergenic and kind to sensitive skin“ ohne Käuferbeleg; Lieferzeit: T094 nennt "6 day advertised".
+
+### 4.5 Voice of Customer: das alte Problem in Käuferworten
+
+**Bettbezug: Kampf, Wrestling, Erschöpfung** (18 Belege)
+
+- "Absolute magic just helped an old man to enjoy his duvet without the continuous fight." (T001, 5★)
+- "My wife always looked forward to changing our duvet cover (not really!) . . . bought these. . . now i dont hear any more cursing and frustration venting!" (T140, 5★)
+- "I no longer end up inside the duvet covet when I'm changing it, because there isn't a cover!" (T276, 5★)
+- "No more wrestling and disappearing in duvet cover" (T265, 5★)
+- "I no longer get twisted up in duvet covers" (T126, 5★)
+- "the thought of arguing with a duvet has lost its attraction" (T175, 5★)
+- "if you have ever struggled to get your quilt into the cover then you'll what a nightmare it can be" (T163, 4★)
+- "the duvet cover nightmare is a thing of the past!" (T203, 5★)
+- "Life's too short to fight with duvet covers!" (T260, 5★)
+- "the putting of a quilt into a cover could be exhausting!" (T257, 5★)
+- "I got so exhausted changing the bed, with the duvet" (T095, 5★)
+- "changing the bed is no longer the horrendous chore it used to be" (T108, 5★)
+- "Changing the bedding, especially on your own with a traditional king size duvet, is a painful chore." (T268, 5★)
+- "where i used to struggle to shake out a king size quilt with cover" (T289, 5★)
+- "I have battled with a duvet and separate cover for years" (T168, 5★)
+- "I had trouble fitting the old style quilts and separate covers" (T030, 5★)
+- "without the usual duvet faff" (T038, 5★)
+- "trying to change the duvet cover is a job that was almost impossible without doing myself serious injury" (T072, 5★)
+
+**Bezug verrutscht, Füße, Druckknöpfe** (4 Belege)
+
+- "With a duvet and cover I always ended up with too much duvet at the feet end and not enough at the head end!!" (T120, 5★)
+- "At last my feet are comfortable and no longer get caught up in a quilt cover's poppers." (T194, 4★)
+- "i got feed up that my doona would always slip down to the feet area" (T254, 5★)
+- "at no time have I had to flip it to one side and sleep with no cover" (T040, 5★)
+
+**Waschen: die Decke selbst wurde nie oder umständlich gewaschen** (6 Belege)
+
+- "no stripping it down for the washer just shove it all in the washer and it comes out perfect." (T006, 5★)
+- "Oh….. and my actual duvet gets washed regularly too!" (T268, 5★)
+- "have used a sleeping bag more than once on a clean fitted sheet, whilst waiting for a duvet cover to dry and the duvet itself being returned from the cleaners." (T175, 5★)
+- "being able to put them in the washing machine in one piece without having to take covers off and put them back on is a life saver." (T003, 5★)
+- "I did not believe the duvet would fit into the washing machine" (T146, 5★)
+- "especially if you’ve got a lot of people coming and going as washing is so easy" (T058, 5★)
+
+**Allergie, Frische, Geruch (selten)** (3 Belege)
+
+- "having a quilt I can wash I no longer wake up with a bunged up nose." (T202, 5★)
+- "no unpleasant odour as with some ordinary duvets" (T067, 5★)
+- "And it fits in the washing machine so no guilt for us or short stay visitors!!" (T027, 5★)
+
+**Hitze, Kälte, Gewicht der alten Decke** (9 Belege)
+
+- "heavy duvets hampered my sleep as I turned over in bed" (T126, 5★)
+- "No heavy duvet putting pressure on your feet and being too hot or too cold." (T117, 5★)
+- "it's great not have to much weight pressing down on me" (T096, 5★)
+- "no longer feel restricted in bed" (T037, 5★)
+- "so much better than our bulky old ones" (T044, 4★)
+- "Cosy without restrictive weight." (T023, 5★)
+- "I am always cold and have the heaviest quilt i can find to keep me warm at night." (T289, 5★)
+- "Overall it did stop my night sweats and waking up to wet sheets" (T170, 4★)
+- "I like to be warm and cosy whereas my husband wants to be cool and unrestricted by quilts and additional quilt covers." (T054, 5★)
+
+**Alter, Gesundheit, allein leben** (23 Belege)
+
+- "My wife and I are in our 80's and need all the help we can get" (T003, 5★)
+- "I am in my late 70s and even though I have changed quilt covers all my life I am now finding it very difficult." (T066, 5★)
+- "has eliminated my ongoing worries as to how I shall cope with my bedding as old age advances." (T103, 5★)
+- "having limited mobility, it’s a real dream not having to change duvet covers any more." (T025, 5★)
+- "With declining mobility I have struggled to change even a single duvet cover." (T290, 5★)
+- "I am so pleased that I do not have to change the duvet cover now as I have a bad heart and it takes a lot out of me." (T043, 5★)
+- "chemo makes me very fatigued so the fact there is no messing about getting my duvet in a cover is an absolute god send" (T070, 5★)
+- "My strength and enery are low." (T231, 5★)
+- "This is ideal as couldn’t change the dooner cover." (T231, 5★)
+- "I live on my own and have struggled with changing quilt covers for at least 4 years providing me with anxiety and affecting my diabetes." (T079, 5★)
+- "The wifes hands are quite bad with Athritis" (T064, 5★)
+- "esp if you have arthritus in hands" (T074, 5★)
+- "So easy to use, to wash and replace, despite age and arthritis," (T249, 5★)
+- "making it more comfortable for my joints" (T047, 5★)
+- "Back operation .no more struggling with quilt covers." (T046, 5★)
+- "I am elderly, not too fit & am now a widower, so making up the new bed system alone was a joy." (T177, 5★)
+- "As a widower living on my own changing the king size  duvet cover on my own was struggle" (T236, 5★)
+- "I ordered these after my wife passed away" (T029, 5★)
+- "I hadn’t even put the quilt cover on…just pulled it over me in the sheer exhaustion of grief." (T251, 5★)
+- "coping with injuries received in a car accident" (T168, 5★)
+- "Being 66 with a bad back, changing sheets became a daunting task which I’m sure I put off way too long many times." (T274, 5★)
+- "I no longer have to worry about hurting my lower back whilst making the bed" (T284, 5★)
+- "She wants to remain independent" (T283, 5★)
+
+**Skepsis gegenüber dem Kauf (Sprache des Einwands)** (6 Belege)
+
+- "I was dubious when I saw how lightweight this quilt was." (T016, 5★)
+- "The only thing I worried about were the claims it was warm for such a thin material." (T150, 5★)
+- "thought it was too light to be warm" (T288, 5★)
+- "Too often you are taken in by amazing ads you see online." (T076, 5★)
+- "I've been caught out before with internet orders" (T270, 5★)
+- "I didn’t think you could have a quilt all in one that you could put in a washing machine and dry it quickly then put it back on the bed……it’s a miracle." (T269, 5★)
+
+Auffällig: In keiner einzigen Bewertung (0 von 291 Trustpilot, 0 von 172 Judge.me) kommen die Wörter „hygiene“, „mites“, „bacteria“, „germs“, „dust“, „allergy“ oder „sensitive skin“ vor. Ihr Vokabular ist „fight“, „wrestle“, „struggle“, „battle“, „faff“, „nightmare“, „chore“, „exhausting“. Die Lösung beschreiben sie als „game changer“, „life saver“, „god send“, „miracle“, „does what it says on the tin“.
+
+### 4.6 Tempo
+
+**Neue Bewertungen pro Monat (April–Oktober 2026)**
+
+| Monat | Trustpilot neu | TP 5/4/3/2/1★ | TP Ø | TP „Invited“ | TP Antworten Pleene | TP Lieferzeit-Kritik (L1) | TP außerhalb GB | Judge.me neu | davon TP-Import / eigen | JM 5/4/3/2/1★ |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Apr | 0 | 0/0/0/0/0 | – | 0 | 0 | 0 | 0 | 1 | 0 / 1 | 1/0/0/0/0 |
+| Mai | 0 | 0/0/0/0/0 | – | 0 | 0 | 0 | 0 | 0 | 0 / 0 | 0/0/0/0/0 |
+| Jun | 0 | 0/0/0/0/0 | – | 0 | 0 | 0 | 0 | 11 | 0 / 11 | 9/2/0/0/0 |
+| Jul | 0 | 0/0/0/0/0 | – | 0 | 0 | 0 | 0 | 1 | 0 / 1 | 0/1/0/0/0 |
+| Aug | 114 | 103/8/1/0/2 | 4,84 | 2 | 0 | 11 (10 %) | 0 | 110 | 107 / 3 | 93/16/1/0/0 |
+| Sep | 133 | 108/21/1/1/2 | 4,74 | 0 | 0 | 34 (26 %) | 11 | 47 | 47 / 0 | 37/10/0/0/0 |
+| Okt (1.–8.) | 44 | 40/3/0/0/1 | 4,84 | 0 | 0 | 6 (14 %) | 13 | 0 | 0 / 0 | 0/0/0/0/0 |
+
+Vor April 2026: Trustpilot 0; Judge.me je 1 Bewertung im August 2025 (J001) und November 2025 (J002). Erste Bewertung überhaupt: Judge.me J001 (03.08.2025); erste Trustpilot-Bewertung T001 (01.08.2026, 18:11 UTC). ZipSheet-Bewertungen auf Judge.me (nicht in der Tabelle): 4 im Juli 2026.
+
+Trustpilot pro Tag: August 3,7 (ohne die ersten beiden Tage 64 in 29 Tagen = 2,2), September 4,4, Oktober bisher 5,5. Kalenderwochen: KW31 50, KW32 11, KW33 12, KW34 26, KW35 13, KW36 32, KW37 36, KW38 19, KW39 31, KW40 39, KW41 (05.–08.10.) 22. Spitzentage: 01.08. 37, 02.08. 13, 12.09. 10, 04.10. 10, 05.10. 10, 11.09. 9, 06.10. 9. Wochentage: Samstag 69, Sonntag 54, Montag 45, Dienstag 39, Freitag 38, Mittwoch 24, Donnerstag 22. Uhrzeit (UTC): Schwerpunkt 18–23 Uhr (133 von 291).
+
+Anteil „Invited“: 2 von 291 (0,7 %). Antwortquote Pleene: 0 % auf beiden Plattformen. Private Kontakte gibt es nachweislich (T141 "problem solved as you replied with the satisfied explanation", T143 Erstattung mit Nachricht, T185 Kontaktaufnahme, T277 Angebot eines kostenlosen Ersatzes).
+
+**Auffälligkeiten**
+
+1. **Start-Welle 01.08.2026:** 37 Bewertungen zwischen 18:11 und 23:14 UTC als allererste Bewertungen des Profils (33× 5★, 3× 4★, 1× 3★), dazu 13 am 02.08. = 50 Bewertungen (17 % aller) in zwei Tagen. Erlebnisdaten 26.06.–01.08.2026. Die Konten sind etablierte Trustpilot-Nutzer (Median 9 Bewertungen, nur 2 Erstbewerter), Texte individuell mit Details und Kritik (z. B. T008 Knitterfalten, T036 Upsell-Ärger). Das Muster passt zu einer einmaligen Aufforderung an Bestandskunden per E-Mail/Link (Quelle „Organic“, nicht „Invited“); nicht verifiziert. Hinweise auf gefälschte Inhalte: keine.
+2. **Judge.me-Foto-Serie 06.06.2026:** J004–J011 entstanden zwischen 07:36:42 und 07:40:05 UTC (8 Bewertungen in 3 Min. 23 Sek.), alle mit genau 1 Foto, alle „review_collected_from_store_visitor“, keine verifiziert, Namen im Format „Vorname + Initial“ („Emma T.“, „Payton R.“ …). Sie sind **die einzigen Foto-Bewertungen** und bilden die Foto-Galerie des Widgets. Die Fotos (gesichtet, 8 Bilder) zeigen Schlafzimmer mit Merkmalen, die eher auf kontinentaleuropäische Wohnungen hindeuten (u. a. Dreh-Kipp-Fenster, zwei getrennte Decken bzw. Matratzen im Doppelbett, Heizkörper unter dem Fenster; Bildeindruck, nicht verifiziert), während ein Text "Best wishes from Birmingham" sagt. Verdacht auf hinterlegte Startbewertungen, nicht verifiziert. Texte: J004 "Lovely bedding — washes and dries in no time, and so comfy to sleep under. Top marks 👍"; J005 "Washed it once at 30° on a 400 spin: colour and texture completely unchanged. Really impressed"; J006 "Just brilliant, this duvet. Sleeping really well and it matches the room nicely too. No more faffing about changing covers!"; J007 "Sooo good. Absolutely over the moon with it and I've been telling all my friends."; J008 "We're really pleased with it. I've already got one for my kids too, and I'll be ordering another for the little ones soon. Have a lovely evening 🤗 Best wishes from Birmingham."; J009 "Lovely."; J010 "Really good — so lovely and soothing to sleep under."; J011 "Gorgeous duvet. It really was dry in about 2 hours after washing."
+3. **Judge.me-Bewertungen vor dem Shop-Start:** J001 (2025-08-03, Badge „another provider“, "totally transformed my mornings": "the bed takes 90 seconds now. my morning is completely different. better."); J002 (2025-11-15, Badge „another provider“, "quiet life improvement": "not dramatic but real. my life is just a little bit better because of this. that adds up."); J003 (2026-04-28, Badge „another provider“, "so glad i took the plunge": "ummed and ahhed for ages. so glad i finally bought it."). Sie liegen vor den ersten verifizierten Käufern (J012–J014, 21.–23.06.2026) und vor dem Trustpilot-Profil, sind kleingeschrieben und generisch; Herkunft n/a, nicht verifiziert.
+4. **Kuratierter Trustpilot-Import** (siehe 4.2): 0 von 6 negativen und 0 von 7 China-Erwähnungen übernommen; 20 Sternwerte beim Import verändert; seit 12.09. kein Import mehr.
+5. **Internationalisierung ab September:** Außerhalb GB im August 0, im September 11 von 133, im Oktober 13 von 44 (30 %): AU 12, CA 6, US 3, CY 1, JE 1, FR 1. 10 Trustpilot-Bewertungen betreffen das zweite Produkt ZipSheet (T158, T169, T217, T224, T226, T250, T264, T274, T283, T284), alle aus AU/US/CA.
+6. **Lieferzeit-Kritik im September:** 34 von 133 (26 %) gegenüber 11 von 114 (10 %) im August und 6 von 44 (14 %) im Oktober.
+7. **Mehrfach-Bewerter und Dubletten:** 10 Konten mit 2–3 Bewertungen (z. B. „Andrea“ T215, T247, T290; „Robin Lewis“ T168, T285 nach Zweitkauf). Zwei verschiedene Konten „Herbert Lawrence“ (T063, 2 Bewertungen gesamt) und „HERBERT LAWRENCE“ (T065, 32 Bewertungen) schrieben im Abstand eines Tages fast denselben Inhalt: "I immediately noticed the difference in weight from my old duvet with the cover." (T063, 5★) / "I immediately felt the weight difference between my old duvet and the Pleene, so much lighter." (T065, 5★). Bedeutung nicht verifiziert.
+8. **Inhalte, die nicht zum Produkt passen:** ZipSheet-Bewertungen auf demselben Profil (s. o.); T220 "Such lovely good quality clothing"; Konto „Stanton Approved vehicles“ (T073); Markenname falsch geschrieben („Preene“ T009/T158, „Plebe“ T139, „Plein/Plien“ T256), was eher für echte Kunden spricht.
+9. **Gewinnspiel-Hinweis:** T177 schreibt "I would really welcome winning another quilt". Die Produktseite bewirbt ein Newsletter-Gewinnspiel ("Win a free Duvet … One subscriber wins a duvet of their choice every month."). Ein Zusammenhang mit Bewertungen ist nicht verifiziert; Trustpilot meldet `hasCollectedIncentivisedReviews: false`. T290 erwähnt einen "friends discount" (Empfehlungsrabatt).
+10. **Nachträgliche Änderungen:** T185 (5★) beginnt mit "Avoid this company like the plague." und endet nach Kontakt durch Pleene mit Empfehlung (aktualisiert 07.10.); T244 (4★) besteht nur aus "Refunded in full" (aktualisiert 07.10.).
+
+### 4.7 Käuferprofil
+
+**Geografie:** 267 von 291 Trustpilot-Bewertungen aus GB (91,8 %), dazu AU 12, CA 6, US 3, CY, JE, FR je 1. Judge.me zeigt kein Land (n/a).
+
+**Geschlecht (Schätzung über Vornamen/Anrede der 280 Trustpilot-Konten, nicht verifiziert):** männlich 157 (56 %), weiblich 88 (31 %), unklar 35 (13 %). Anreden: „Mr“ 20, „Mrs/Miss/Ms“ 10. Einschränkung: Der Kontoinhaber ist nicht unbedingt der Nutzer; mehrere Männer schreiben für Paare oder die Ehefrau (T003, T064, T140), Frauen für Paare (T054, T166).
+
+**Alter:** Ausdrückliche Altersangaben oder Seniorenhinweise in 16 Bewertungen, keine einzige deutet auf jüngere Käufer hin:
+- "My wife and I are in our 80's" (T003, 5★)
+- "the duvet arrived the day before my 84th!" (T133, 5★)
+- "I am in my late 70s" (T066, 5★)
+- "I’m a 77 years old disabled woman" (T269, 5★)
+- "I am 72 years old" (T284, 5★)
+- "Being 66 with a bad back" (T274, 5★)
+- "helped an old man" (T001, 5★)
+- "( you have to be old to get this)" (T002, 5★)
+- "as old age advances" (T103, 5★)
+- "So easy for the elderly people like myself to handle." (T137, 5★)
+- "I am elderly, not too fit & am now a widower" (T177, 5★)
+- "We are elderly and making the bed now is a breeze." (T253, 5★)
+- "Now that I’m not a spring chicken" (T175, 5★)
+- "perfect for the lazy persons, busy house wife or elderly people." (T105, 5★)
+- "Purchased Zip on Bed Sheets for my elderly mother." (T283, 5★)
+- "despite age and arthritis" (T249, 5★)
+
+**Gesundheit und Mobilität (26 Bewertungen):** Arthritis (T064 Hände der Ehefrau, T074 Hände, T249, T286 Beine), Gelenke (T047), Rücken (T046 Rücken-OP, T078 "Back pains", T274, T284), Beine (T126 Bein-OPs, T134 "leg problems"), eingeschränkte Mobilität/Behinderung (T025, T079, T162, T269, T290), Herz (T043), Krebs/Chemotherapie (T070 "secondary breast cancer", T231 Schlaganfall + Lymphom), Diabetes/Angst (T079), diabetische Neuropathie (T212), Verletzungen (T072 Gefahr, T158 zwei gebrochene Zehen, T168 Autounfall), Erschöpfung (T095, T257), Maske in der Nacht (T102 "Have to wear a mask at night", Art der Maske n/a).
+
+**Lebenssituation:**
+- Witwer/allein: T029 ("after my wife passed away"), T177 und T236 (Witwer), T079 ("I live on my own"), T268 ("especially on your own"), T251 (Trauer nach zwei Todesfällen).
+- Paare: zahlreich ("we", "my wife", "my husband"), u. a. T003, T054, T064, T108, T140, T166, T202, T232, T279.
+- Kinder kaufen für Eltern / Käufer kaufen für Kinder: T171 ("Ordered for mother.. she can be fussy with what she buys.. I Trustpilot.. I read reviews"), T283 (ZipSheet für die ältere Mutter), T196, T200, T289 (für den Sohn), J008 (für die Kinder), T252 (für einen Freund), T133 (Geburtstagsgeschenk an sich selbst).
+- Einsatzorte: Gästezimmer/Zweitbett (T027, T087, T094, T172, T175, T258, T290), Ferienhaus (T251), Campervan (T072), Dachzelt/„rooftop“ (J014), „busy household“ (T058, T123 ganzer Haushalt).
+- Haustiere: Katzen (T067, T177).
+- Kälteempfindliche bzw. Paare mit unterschiedlichem Wärmeempfinden: T289, T054, T166.
+
+**Allergiker:** nur 1 Hinweis (T202, verstopfte Nase). **Wechseljahre:** 0 ausdrückliche Erwähnungen; Nachtschweiß/Schwitzen in 3 Bewertungen, alle von Männerkonten (T057 „Mr Gibbie“, T105 „Janos Madar“, T170 „Nicholas Roberts-Pendragon“). Angle B wird von Käufern als Sommerhitze/Winterkälte erlebt, nicht als Wechseljahresthema.
+
+**Kaufverhalten:** In 28 Bewertungen werden 2 oder mehr Decken bzw. Sets genannt, 50 positive Bewertungen (18 %) erwähnen Wiederkauf, weitere Betten oder Gäste. 14 Bewertungen verweisen auf die Werbung bzw. Werbeversprechen (z. B. T052 "I saw the ad on Facebook", T098 "I only saw the advert on facebook", T175 "I was positively beaming when I saw the Pleene advertisement", T192 "claims by companies on FB").
+
+**Bewertungsverhalten:** Die Bewerter sind erfahrene Trustpilot-Nutzer (Median 10 Bewertungen pro Konto) und schreiben kurz (Median 198 Zeichen).
+
+
+## Für Chrome / Ad-Library-Check (TOP 20)
+
+Ranking = Tage aktiv × max(used_count,1) × max(Score,1), Stand GetHooked 2026-10-08. In der Meta Ad Library pro Ad prüfen: UK-Reichweite bzw. EU-Transparenzdaten, Ausspielungsorte, Anzahl Varianten („This ad has multiple versions“), Startdatum und ob die Ad noch läuft.
+
+| Rang | GetHooked-ID | Meta-Ad-ID | Format | Länge | Tage | Score | used | Wert | Headline | Ad Library | GetHooked |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | 136388964 | 884267707299487 | Bild | – | 120 | 100 | 1 | 12000 | No More Fighting With Duvet Covers | [Ad Library](https://www.facebook.com/ads/library/?id=884267707299487) | [GetHooked](https://app.gethookd.ai/share/ad/136388964?signature=d0ff0d2a2536e91cfc3dacb7f3b055bf680241a71e3d485ea8d2c98436047966) |
+| 2 | 136388847 | 1583232786477915 | Bild | – | 120 | 100 | 1 | 12000 | No More Fighting With Duvet Covers | [Ad Library](https://www.facebook.com/ads/library/?id=1583232786477915) | [GetHooked](https://app.gethookd.ai/share/ad/136388847?signature=422777a4ae4663b915702dc330ccb3f999733ab57559e373f53beb6af24567f7) |
+| 3 | 145443331 | 1440933327878495 | Video | 47 s | 56 | 100 | 2 | 11200 | Everyone said it. They were right. | [Ad Library](https://www.facebook.com/ads/library/?id=1440933327878495) | [GetHooked](https://app.gethookd.ai/share/ad/145443331?signature=0677e4ee983bd45fefa46f28b2a864fbfe4ab7b9403ae3289a1c98a1dd575660) |
+| 4 | 136389861 | 1642037860240117 | Video | 38 s | 120 | 61 | 1 | 7320 | No More Fighting With Duvet Covers | [Ad Library](https://www.facebook.com/ads/library/?id=1642037860240117) | [GetHooked](https://app.gethookd.ai/share/ad/136389861?signature=52dff4dac27abf45e6f9b062724b0d38f817b3ddcd8939d92684a863d31faaf8) |
+| 5 | 133366534 | 1372761711494763 | Video | 93 s | 67 | 100 | 1 | 6700 | No More Fighting With Duvet Covers | [Ad Library](https://www.facebook.com/ads/library/?id=1372761711494763) | [GetHooked](https://app.gethookd.ai/share/ad/133366534?signature=ec7e21facd4f53244e7aacaf8002b409a7803a538b1d302bb66be766c52ef924) |
+| 6 | 139561428 | 1034362836068724 | Video | 16 s | 63 | 100 | 1 | 6300 | Hearth Red. Nearly gone. | [Ad Library](https://www.facebook.com/ads/library/?id=1034362836068724) | [GetHooked](https://app.gethookd.ai/share/ad/139561428?signature=1eb14bdf7f1f4b278f8b5996d37204958181d02f07e10262e225457c7f9a49fd) |
+| 7 | 139561410 | 1355121136744622 | Video | 16 s | 63 | 100 | 1 | 6300 | Mint Green is almost gone. | [Ad Library](https://www.facebook.com/ads/library/?id=1355121136744622) | [GetHooked](https://app.gethookd.ai/share/ad/139561410?signature=8993cc76f99c424613789bd7c6c9a9248d166b223587f503929e5077c7a435b2) |
+| 8 | 139561491 | 1526037445508180 | Video | 16 s | 63 | 86 | 1 | 5418 | Everyone's buying the blue one. | [Ad Library](https://www.facebook.com/ads/library/?id=1526037445508180) | [GetHooked](https://app.gethookd.ai/share/ad/139561491?signature=5cbb3a8ead3ed2e5b41ef6ef544d7498f90d8427b339e0ba7304f344c120fb43) |
+| 9 | 163921089 | 1609110380938946 | Video | 47 s | 43 | 100 | 1 | 4300 | Everyone said it. They were right. | [Ad Library](https://www.facebook.com/ads/library/?id=1609110380938946) | [GetHooked](https://app.gethookd.ai/share/ad/163921089?signature=18918dab03620f19a44f0f4ae4aabab8d5f163dfaa3984dcc8e6e691c7301c1d) |
+| 10 | 145443318 | 1474663121347221 | Video | 50 s | 56 | 74 | 1 | 4144 | Everyone said it. They were right. | [Ad Library](https://www.facebook.com/ads/library/?id=1474663121347221) | [GetHooked](https://app.gethookd.ai/share/ad/145443318?signature=be73a154548ac1fdbbec6cdf47867c12c72f8b288e40c2faaa6b1db18c69b49b) |
+| 11 | 151025063 | 1369166828764339 | Video | 29 s | 48 | 86 | 1 | 4128 | No More Fighting With Duvet Covers | [Ad Library](https://www.facebook.com/ads/library/?id=1369166828764339) | [GetHooked](https://app.gethookd.ai/share/ad/151025063?signature=6a64477f3dd49f4b0e862e714a6a052a0839cfe3382654d8e4902e827f95d481) |
+| 12 | 168246678 | 1607904514111212 | Video | 27 s | 41 | 100 | 1 | 4100 | Check This Before You Buy | [Ad Library](https://www.facebook.com/ads/library/?id=1607904514111212) | [GetHooked](https://app.gethookd.ai/share/ad/168246678?signature=0780e25635ebab07a104b29b13efc556f8d9616332f12537858f9d96c5a5cd59) |
+| 13 | 171191667 | 1583757549405276 | Bild | – | 36 | 100 | 1 | 3600 | No More Fighting With Duvet Covers | [Ad Library](https://www.facebook.com/ads/library/?id=1583757549405276) | [GetHooked](https://app.gethookd.ai/share/ad/171191667?signature=b03cc4b1b86af6280d5edfa0028fe241e19fd20d3b3592e580dd3f576a92669d) |
+| 14 | 168246686 | 2035183934551496 | Video | 27 s | 41 | 86 | 1 | 3526 | Check This Before You Buy | [Ad Library](https://www.facebook.com/ads/library/?id=2035183934551496) | [GetHooked](https://app.gethookd.ai/share/ad/168246686?signature=a360c60671d85ebeec646d4238239e0ec57ba2d7b037d0bb4c8888b606378db0) |
+| 15 | 172403389 | 1725326416267519 | Bild | – | 34 | 100 | 1 | 3400 | Properly Warm, Never Heavy | [Ad Library](https://www.facebook.com/ads/library/?id=1725326416267519) | [GetHooked](https://app.gethookd.ai/share/ad/172403389?signature=fc57a29e066c788034eca64a557143f0c3e0b71232ea5868d51df06e7536000f) |
+| 16 | 172760571 | 1415553300514250 | Bild | – | 33 | 100 | 1 | 3300 | Properly Warm, Never Heavy | [Ad Library](https://www.facebook.com/ads/library/?id=1415553300514250) | [GetHooked](https://app.gethookd.ai/share/ad/172760571?signature=82cd0a698c2d4720c44c69a474abfa9e4e1f24189f59d7dd6d1f216aaf8e25b8) |
+| 17 | 151025052 | 1363184622691769 | Bild | – | 50 | 61 | 1 | 3050 | Everyone's buying the blue one. | [Ad Library](https://www.facebook.com/ads/library/?id=1363184622691769) | [GetHooked](https://app.gethookd.ai/share/ad/151025052?signature=fa0ac684d0e23c918a286f4c72318a4110a6ecece18af70548ebdfc97ba1bc3e) |
+| 18 | 169082912 | 2192690231462965 | Bild | – | 39 | 74 | 1 | 2886 | Mint Green is almost gone. | [Ad Library](https://www.facebook.com/ads/library/?id=2192690231462965) | [GetHooked](https://app.gethookd.ai/share/ad/169082912?signature=4ab996ca26c1daf73d6ef9a482fc283fbce80f5ccef0bc6ead1abbcdb159c5e0) |
+| 19 | 173307160 | 1770207397626174 | Bild | – | 32 | 81 | 1 | 2592 | Properly Warm, Never Heavy | [Ad Library](https://www.facebook.com/ads/library/?id=1770207397626174) | [GetHooked](https://app.gethookd.ai/share/ad/173307160?signature=20a01e20e8d0bc5720968b8ee00d824e45a8e18af15aa506b60fd22b7789241f) |
+| 20 | 174599778 | 2301727147248244 | Bild | – | 30 | 74 | 1 | 2220 | No More Fighting With Duvet Covers | [Ad Library](https://www.facebook.com/ads/library/?id=2301727147248244) | [GetHooked](https://app.gethookd.ai/share/ad/174599778?signature=0f3b267681520755857f3c8967162b7f9b49eb9f935ce9ac83a4c94572252bc1) |
+
+## Für Nevio zum Ansehen – die 5 stärksten Video-Ads
+
+Auswahl nach Laufzeit × Score und nach Lerngehalt, höchstens eine Ad pro Skript-Familie.
+
+1. **133366534 – „Sorry, but your duvet is probably the dirtiest thing in your bedroom“** (93 s, 67 Tage, Score 100) · [Ad Library](https://www.facebook.com/ads/library/?id=1372761711494763) · [GetHooked](https://app.gethookd.ai/share/ad/133366534?signature=ec7e21facd4f53244e7aacaf8002b409a7803a538b1d302bb66be766c52ef924)
+   Pleenes einziges Video mit vollständigem Bogen: Hook → Ekel (Milben, Mikroskop) → Wochenritual → Mechanismus → Beweis („10,000 sleepers“, „96%“) → Personas George 82 und Sarah → Angebot → „Tap the link below.“ Es wurde als 193234275/193234279 erneut hochgeladen und als Textbox-Version (193234224) nachgebaut. Es ist die Vorlage, wenn wir Hygiene mit echtem Beweis besser machen wollen.
+2. **145443331 – „I haven't changed my bed linen in three months and it's never felt fresher.“** (47 s, 56 Tage, Score 100, used 2; dieselbe Datei läuft als 163921089, 43 Tage, Score 100) · [Ad Library](https://www.facebook.com/ads/library/?id=1440933327878495) · [GetHooked](https://app.gethookd.ai/share/ad/145443331?signature=0677e4ee983bd45fefa46f28b2a864fbfe4ab7b9403ae3289a1c98a1dd575660)
+   Pleenes stärkstes echtes Creator-Testimonial (Mann ca. 30–40, britisches Zuhause, ruhiger Schnitt mit 1,5 Schnitten pro 10 s). Der provokante Ich-Hook trägt die ganze Ad. Varianten mit neuem Hook („I bloody hate changing the bed…“, 145443318; „I only ordered it because everyone said…“, 193234219) zeigen, dass Pleene genau hier Hooks iteriert.
+3. **136389861 – „If your shoulders ache, don't do this. And if your back is sore, definitely don't do this.“** (38 s, 120 Tage, Score 61) · [Ad Library](https://www.facebook.com/ads/library/?id=1642037860240117) · [GetHooked](https://app.gethookd.ai/share/ad/136389861?signature=52dff4dac27abf45e6f9b062724b0d38f817b3ddcd8939d92684a863d31faaf8)
+   Der älteste noch laufende Video-Dauerläufer, mit Angle E (Beschwerden) und einem sehr wahrscheinlich KI-generierten älteren Sprecher. Die Schwester-Ad 151025063 („…gave me pain in my shoulders and back“, Score 86) bestätigt den Schmerz-Hook. Hier zeigt sich, wie stark die Senioren- und Beschwerden-Zielgruppe ist, die Pleene nur mit KI-Figuren bedient.
+4. **139561428 – „Hearth Red. Nearly gone.“** (16 s, 63 Tage, Score 100; Farbvarianten Mint 139561410 mit Score 100 und Blue 139561491 mit Score 86) · [Ad Library](https://www.facebook.com/ads/library/?id=1034362836068724) · [GetHooked](https://app.gethookd.ai/share/ad/139561428?signature=1eb14bdf7f1f4b278f8b5996d37204958181d02f07e10262e225457c7f9a49fd)
+   Ein günstiges KI-Schlafzimmer-Template mit Musik und Texteinblendungen, ohne Sprecher. Nur Farbe und Bestandszahl werden getauscht („Only 17 left in Hearth Red“). Es zeigt, dass Pleene mit Farb-Begehrlichkeit und Knappheit skaliert, obwohl die Knappheit auf der Seite nicht existiert. Das ist ein Angriffspunkt für Vertrauen.
+5. **168246678 – „Before you buy a coverless duvet check 3 things“** (27 s, 41 Tage, Score 100; der A/B-Zwilling 168246686 mit dem Hook „Seen coverless duvets all over your feed?“ hat Score 86) · [Ad Library](https://www.facebook.com/ads/library/?id=1607904514111212) · [GetHooked](https://app.gethookd.ai/share/ad/168246678?signature=0780e25635ebab07a104b29b13efc556f8d9616332f12537858f9d96c5a5cd59)
+   Ein sauberer Text-Hook-A/B-Test auf identischem Körper. Der Checklisten- bzw. Einwand-Hook gewinnt und positioniert Pleene gegen Nachahmer („THE ORIGINAL“, „2 hours. No dryer.“, „90 nights. Zero risk.“). Pleene weiß also, dass die Kategorie voller wird, und greift Nachahmer im Kaufvergleich ab. Diesen Rahmen sollten wir selbst besetzen.
+
+
+## Angriffsfläche – 10 Punkte
+
+| # | Bereich | Beobachtung bei Pleene (Beleg) | Unser Angriff | Erwarteter Vorteil |
+|---|---|---|---|---|
+| 1 | Angebot / Versand | Einwand Nr. 1 ist die Lieferzeit (51 von 291 Trustpilot-Bewertungen, im September 26 %). 11 Bewertungen nennen China/USA, z. B. T107: „…has to travel all the way from China“. Im Unternehmensprofil steht Hongkong. | Schnelle Lieferung aus einem UK-Lager als Kernversprechen in Hook, Endkarte und ATF („Dispatched from our UK warehouse – in your bed by Friday“). | Wir nehmen den häufigsten Kauf-Abbruchgrund vorweg und stehen genau dort, wo Pleene schwach ist. |
+| 2 | Angebot / Garantie | Ads versprechen „90 nights to try it risk-free“. Laut Policy zahlt der Kunde die Rücksendung; T119: „They say a free return – no they don't … would cost me too much to return to China“. Im Warenkorb wird zusätzlich ein „180-Day Return“-Upgrade für £2.99 verkauft. | Kostenlose UK-Rücksendung mit vorfrankiertem Etikett, in der Ad wörtlich: „Free returns. Label in the box.“ | Echte Risikoumkehr gegen eine Garantie, die nur auf dem Papier steht. |
+| 3 | Behauptung / Hygiene | Hygiene als Haupt-Angle verliert (56 % Verlierer). Milben nennen nur 3 Ads, Bakterien und °C keine. Belege gibt es keine: das Mikroskop-Bild ist Stock, das „Hypoallergenic“-Versprechen bestätigt kein einziger Käufer. | Hygiene nicht behaupten, sondern beweisen: Waschtemperatur in °C, sofern unser Produkt sie verträgt, Labor- bzw. Allergologen-Aussage, Abklatsch-Test „before/after wash“. Format „Experte erklärt“. | Wir besetzen den Angle, an dem Pleene gescheitert ist, mit dem fehlenden Baustein Beweis. |
+| 4 | Avatar | Die Käufer sind laut Bewertungen oft Senioren (T003 „in our 80's“, T133 84, T269 77), mit Arthritis, Chemo oder als Witwer. Pleene bedient sie mit KI-Figuren (136389861, 200490716) und startet den Alters-Angle erst am 29.09. (alle Scores ≤ 1). | Echte Senioren-UGC: 70-Jährige mit Arthritis beim Bettmachen. Dazu Wunschformulierungen der Käufer wie „struggled … for at least 4 years“ und „no more cursing and frustration“. | Echtheit schlägt KI gerade bei älterem Publikum. Die Kauf-Zielgruppe ist bewiesen, die Creatives sind schwach. |
+| 5 | Avatar / Format | „Geschenk für die Eltern“ startet erst am 07.10. mit einem einzigen Static (200490661); Format-Lücke Tochter–Mutter. | Video „Ich habe meiner Mum das Bettbeziehen abgenommen“ aus Sicht der Tochter (40–55), dazu ein Geschenk-Bundle mit Karte und Lieferung direkt zu den Eltern. | Neuer Käufer-Avatar mit höherer Zahlungsbereitschaft. Pleene hat ihn noch nicht besetzt. |
+| 6 | Angle / Lob-Lücken | Käufer loben Weichheit (46×, in Ads 1×), Qualität (55×, in Ads 0×), besseren Schlaf (28×, 0×) und großzügige Größe bzw. „Füße bedeckt“ (24×, 0×). | Ads zu Haptik und Schlafgefühl („the softest thing I've ever slept under“), Größe als Feature („covers your feet – finally“), Stoff in Nahaufnahme. | Wir verkaufen, was Käufer tatsächlich lieben, statt nur Bequemlichkeit beim Waschen. |
+| 7 | Behauptung / Wärme | Der häufigste Einwand vor dem Kauf ist „zu dünn, um warm zu halten“ (14 Bewertungen). Pleene antwortet mit „10.5 Tog“ im Text und KI-Renderings („TOO THIN FOR WINTER? LOOK CLOSER.“). 14 Käufer schreiben, dass der Winter noch nicht getestet ist. | Ein sichtbarer Wärmebeweis: Wärmebild bzw. Thermometer-Test im kalten Schlafzimmer, „Scottish winter test“ mit echter Person, klare Tog-Erklärung. Dazu der Avatar Wechseljahre/Nachtschweiß mit Temperaturausgleich (von Pleene nie angesprochen, in Bewertungen 0×). | Wir räumen den Einwand mit Beweis statt Behauptung aus und besetzen zusätzlich den Wechseljahre-Avatar. |
+| 8 | Format | Pleene nutzt keine echten Experten, keine Gründer-Ad, kein Langform-Storytelling außer 133366534 und kein funktionierendes Advertorial (tb-6-Varianten endeten nach 7 Tagen). Die meisten GB-Videos sind KI-Renderings mit Musik. | Natives Advertorial mit Test- oder Erfahrungsbericht („Ich habe 30 Tage lang …“), Gründer-Ad, Experten-Talking-Head, Waschtag in Echtzeit bzw. im Zeitraffer mit echter Person. | Formatvorsprung. Pleene hat hier kaum Daten und keine Gewinner. |
+| 9 | Seite / Vertrauen | Judge.me zeigt 154 kuratiert importierte Trustpilot-Bewertungen ohne eine einzige 1–2★ und ohne „China“-Bewertung. Trustpilot-Antwortquote 0 %. Knappheit ist erfunden („Only 26 left in Mint Green“ steht seit 07.08. unverändert in derselben Datei, auf der Seite gibt es keinen Lagerhinweis). „Only Until Friday!“ ohne Countdown. | Transparente Seite: echte Bewertungen inklusive kritischer mit Antworten, keine Fake-Knappheit, Gratis-Beigabe als sichtbare Warenkorb-Position, ein „Ehrlich-Block“ (Lieferzeit, Rücksendung). Optional ein Vergleichs-Abschnitt „Woran du ehrliche Anbieter erkennst“. | Wenn Pleenes Vertrauensprobleme in der Kategorie bekannt werden, profitieren wir. Die Conversion steigt, weil Zweifel weniger werden. |
+| 10 | Behauptung / Konsistenz | Die Claims widersprechen sich: „dry in 2 hours“ einmal mit, einmal ohne Trockner; „any washing machine“ vs. „normal 7kg washing machine“; „worth £39.99“ gesprochen vs. „Value £49.99“ eingeblendet (200490716); „30% off“ vs. „2 free pillow cases“ vs. gar kein Angebot; „7 colours“ vs. „8 duvets“; „10,000 people“ vs. „7,000+“ (tb-6). | Ein klares, überprüfbares Spec-Set (Maschinengröße, Trocknungszeit mit und ohne Trockner, Temperatur, Gewicht), überall identisch. Dazu ein Angebot, das in Ad, Seite und Warenkorb gleich aussieht. | Glaubwürdigkeit und weniger Rückfragen. Die Kongruenz von Ad und Seite stützt die Conversion, wo Pleene Brüche hat. |
+
+*Quellen: Teil 1 (Inventar), Teil 3 (Funnel), Teil 4 (Reviews) und die Video- und Static-Detailanalysen im Anhang. Zahlen sind Stand 2026-10-08.*
+
+# Anhang
+
+## A1 – Vollinventar und Primärtexte
 
 ### Vollinventar aktiv (137 Ads)
 
@@ -2521,6 +3779,8 @@ Headlines dazu: „Wash The Whole Comforter“ ×2
 - inaktiv: –
 
 
+
+## A2 – Video-Ads im Detail (alle 63)
 
 ### S2 – Creative-Tiefenanalyse, Video-Batch 1 (Agent 2)
 
@@ -4635,1148 +5895,7387 @@ Arbeitsdateien:
 - Videos: `wf/vid/<id>.mp4`
 
 
-## Teil 3 – Funnel und Landingpages
+### S2 – Creative-Tiefenanalyse, Video-Batch 4 (Pleene EasyRest, GB)
 
-Stand: 2026-10-08. Quellen: Live-Abrufe von pleene.com und pleene.uk (curl und Playwright/Chromium, mobil 390×844 und Desktop 1440×900, Locale en-GB, Cookies `localization=GB` und `cart_currency=GBP`; für die US-Seite zusätzlich `localization=US` und `cart_currency=USD`), Shopify-Produkt-JSON (`/products/<handle>.js`), Policy-Seiten, Klaviyo-Formular-JSON, Elevate-A/B-Konfiguration im Seitenquelltext sowie GetHooked (get_shop_landing_pages, search_ads mit `countries`, get_shop, get_ad_technologies). Die Bewertungsdaten stammen aus `wf/reviews_all.json` (Agent 4). Es wurde nichts gekauft. Bis zur Warenkorbseite wurde getestet, Checkout-Requests wurden im Browser blockiert, und in kein Checkout-Formular wurden Daten eingegeben. Texte von Seiten und Ads sind wörtlich auf Englisch zitiert, die Analyse ist auf Deutsch.
+Stand: 2026-10-08. Quellen: GetHooked `get_ad` und `get_transcription_status` (beide am 2026-10-08 abgerufen), heruntergeladene Videos (`wf/vid/<id>.mp4`), ffprobe, ffmpeg-Szenenerkennung (`select='gt(scene,0.3)'`, zusätzlich 0.15 als Gegenprobe), volumedetect/silencedetect, Silero-VAD (faster-whisper 1.1.1), Audio-Kreuzkorrelation und Frame-Differenzvergleich zwischen den Varianten. Die Frames liegen unter `wf/frames/<id>/`, die Kontaktbögen unter `wf/s2b4_sheets/`; alle wurden angesehen.
 
----
+**Batch-Umfang:** 7 Video-Ads: 200037058, 200037053, 200037052, 200037051, 200037049, 200037047, 200037045. Keine davon ist ein Top-20-Video, deshalb gab es keine Tiefen-Keyframe-Analyse nach 3b. Die Szenenlisten unten stammen trotzdem aus der Szenenerkennung plus Frame-Sichtung.
 
-### 3.0 Zusammenfassung
+**Gemeinsame Fakten aller 7 Ads:** Start 2026-10-05, 4 Tage aktiv (`days_active_basis: start_to_today`), used_count 1, Land GB, Sprache en. Plattformen: facebook, instagram, audience_network, threads. Landingpage `https://pleene.com/products/easyrest` (shop_id 47758, page_type product_page), CTA-Button „Shop now“ (SHOP_NOW). Format jeweils 720×1280 (9:16), 30 fps, AAC Stereo 44,1 kHz. Reichweite und Spend: n/a (GetHooked liefert für GB keine Werte). `ai_badge`: null (kein Badge; das ist keine Aussage über „echt“). `script_anatomy`: not_analysed. `creative_insights`: null.
 
-1. **Vier Landingpages, alle auf pleene.com.** Keine einzige aktive Ad verlinkt auf pleene.uk. Die 137 Ads aus dem Inventar verteilen sich so:
+**Hinweis zum Score:** `agent1_enriched.json` führt für alle 7 Ads performance_score 22. Laut `get_ad` vom 2026-10-08 ist der Score jetzt 32 („Testing“) bzw. 44 („Scaling“), siehe die jeweilige Ad. In den Abschnitten steht der aktuelle Wert.
 
-   | Landingpage | Ads | davon Land laut GetHooked |
-   |---|---|---|
-   | `/products/easyrest` | 83 | 52 GB, 31 ohne Länderdaten |
-   | `/products/easyrest-comforter` | 40 | 37 US, 3 ohne |
-   | `/pages/tb-6` | 8 | 7 GB, 1 ohne |
-   | `/products/easyrest-duvet` | 6 | 4 GB, 2 ohne |
+**Drei Varianten-Familien in diesem Batch (technisch geprüft):**
+1. **Winter-Kurzvideo (KI-Render, nur Musik)**: 200037058, 200037053, 200037051. Gleiche Tonspur (Kreuzkorrelation Peak 1,00 bei Lag 0), gleicher Schnittaufbau. Unterschiede: nur der Hook-Text und die Farbe der Decke (lila, blau, salbeigrün).
+2. **„Spare Bed / 71-jährige Gastgeberin“**: 200037052 und 200037047. Ab ca. 9,4–9,6 s sind Bild (Frame-Differenz unter der Schwelle, Versatz 2 Frames) und Ton (Fensterkorrelation 0,89–0,99) identisch. Nur der Hook (0–9,5 s) unterscheidet sich. Eine dritte Hook-Variante mit gleichem Titel und gleichem Body-Skript ist **200037059** (Hook: „For years, the spare duvet lived in the cupboard between visits and never once got washed.“). Das Transkript ist per `get_transcription_status` geprüft, das Video selbst nicht analysiert.
+3. **„Bella / Hund auf dem Bett, 66 Jahre“**: 200037049 und 200037045. Ton ab ca. 7 s identisch (Fensterkorrelation 1,00 bei Lag 0). Die Bildspur ist ab 6,83 s identisch, in 200037045 aber um 0,4 s versetzt (Frame-Differenz mit Offset 12 Frames unter der Schwelle). Der Hook (0–7,2 s) unterscheidet sich, das Hook-Motiv (gleicher Hund, gleiche Pose) einmal bei Tageslicht (049) und einmal abends mit Lampenlicht (045). Eine dritte Hook-Variante mit gleichem Titel und gleichem Body-Skript ist **200037063** (Hook: „Wet November walk, two muddy paws, straight onto the bed.“). Transkript geprüft, Video nicht analysiert.
 
-   GetHooked (`get_shop_landing_pages`, shop 47758, Publikation vom 05.10.) zählt 70 / 32 / 10 / 8 = 120 Ads. Shop 47737 (pleene.uk) hat genau 1 Ad, und auch die zeigt auf `pleene.com/products/easyrest`. `search_ads` meldet am 08.10. bereits 153 aktive Ads. Darunter sind 20 neue vom 07.10.: 13 davon GB auf `/products/easyrest`, 7 davon US auf `/products/easyrest-comforter`.
+**Modularer Skript-Baustein:** Den Produktblock sprechen die Familien 2 und 3 wortgleich, ebenso die nicht analysierte Familie „When Did You Last Wash Your Duvet?“ (200037062, 200037061, 200037044, nur die Transkripte geprüft): „It's a duvet and cover in one. The cover is sewn in, so you never take it off. You just wash the whole duvet in one piece. The double goes straight into my normal 7kg washing machine, then the tumble dryer, and it's dry in two hours. … It's 10.5 Tog, so it's every bit as warm as a winter duvet, just without the weight. And the breathable fibres mean it never feels stuffy on you. I swear to you, my bed always feels fresh. And the … pillowcases really do feel super soft.“ Pleene tauscht offensichtlich nur Hook, Persona und Problem-Szene aus und behält Mechanismus, Wärme-Einwand, Beweis und Angebot als festen Block.
 
-2. **Wichtigste Korrektur zur Ausgangsannahme:** Die Comforter-Seite ist **die US/CA-Produktseite** (Zoll-Größen, °F, „comforter", „top sheet", „laundromat", „Value: $39.99"). Die 40 Ads, die dorthin führen, sind laut GetHooked-Feld `countries` **US-Ads** und keine GB-Ads. Im Quelltext steht dazu ein Elevate-A/B-Test mit dem Namen "Duvet UK PDP Weiterleitung an USCA PDP" (`isLive: true`). Er soll US/CA-Besucher von `/products/easyrest` auf `/products/easyrest-comforter` umleiten. In unserem Headless-Test mit US-IP hat diese Weiterleitung nicht ausgelöst. Die Wirkung ist deshalb nicht verifiziert.
-
-3. **Der GB-Funnel besteht aus drei Seiten.**
-   - Die Produktseite `/products/easyrest` ist um Angle **B (Wärme/Tog)** gebaut: "10.5 TOG — proper winter warmth".
-   - `/products/easyrest-duvet` ist ein fast identischer Klon davon. Das Produkt ist versteckt (Tags `hidden-search`), wurde am 09.09.2026 angelegt und hat die eigene Vorlage `easyrest-duvet-winter26-2`. Alle 6 Ads dorthin sind Tog-/Winter-Ads.
-   - Das Advertorial `/pages/tb-6` ist ein Pre-Lander für Angle **C (Bezug/Beziehen)** und **F-Social-Proof**. Alle CTAs führen auf `/products/easyrest`.
-
-4. **Angebot UK:**
-   - Preise von £74.99 (Narrow 90×200) bis £129.99 (Super King 260×220), Vergleichspreise £114.99–£169.99 ("SAVE 23–35 %").
-   - Mengenstaffel über die App Kaching: 2 Stück −10 % "Couple-Bundle" (vorausgewählt), 3 Stück −15 % "Family-Bundle".
-   - Gratis sollen 2 Kissenbezüge je Decke dazukommen ("Value: £39.99"). In der Kaching-Konfiguration ist dafür aber `freeGifts: []` hinterlegt, und im Warenkorb erscheinen keine Kissenbezüge als Position. Ob sie tatsächlich mitgeliefert werden, ist nicht verifiziert.
-   - **Kein Countdown** auf irgendeiner Seite. Die einzige Knappheitsangabe ist der statische Text "Ready to Ship – Limited Stock" (fest im HTML, für jede Größe und Farbe gleich) sowie auf tb-6 "while stocks last".
-
-5. **Preiswelten:**
-   - Die Basiswährung des Shops ist GBP (`Shopify.currency rate 1.0`).
-   - UK-Besucher sehen auf pleene.com wie auf pleene.uk dieselben GBP-Preise. Es ist derselbe Shopify-Shop `sq48au-70.myshopify.com`, und der Text ist identisch.
-   - Der US-Markt hat eigene, deutlich höhere Festpreise. Beispiele: Duvet Narrow $109.99 statt £74.99. Comforter Single $139.99, in der GBP-Ansicht £69.99.
-   - Ein Browser mit US-IP wird von pleene.uk auf pleene.com mit USD umgeleitet (`?shpxid=`). Ob ein GB-Besucher von pleene.com auf pleene.uk umgeleitet wird, ist mangels GB-IP nicht verifiziert.
-
-6. **Warenkorb (Cart-Drawer):**
-   - Fortschrittsbalken bis zum Gratisversand ab £100.
-   - "↓ ADD ONE-TIME CART DEALS 🛒" mit drei Upsells, standardmäßig aus: Pillow-Cases £19.99, Pillow £39.99, FluffBalls £14.99.
-   - "Package Protection (Recommended)" für £2.99, standardmäßig aus.
-   - Die /cart-Seite cross-sellt zusätzlich ein **"180-Day Return Policy – Upgrade" für £2.99**, einen digitalen Service, der das Rückgabefenster verlängert.
-   - Auf der US-Seite sind die Upsells andere: ZipLift™ Mattress Lifter, FluffBalls, Package Protection.
-
-7. **Garantie:**
-   - Werbeversprechen: "90-Night Free Trial. Money back, no questions asked." (Galeriebild).
-   - Die Policy sagt etwas anderes: 90 Tage ab Lieferung, **Rücksendekosten trägt der Kunde**, die ursprünglichen Versandkosten werden nicht erstattet, und man soll zuerst den Support kontaktieren.
-   - Versand UK: £4.95 unter £100, ab £100 gratis, "Priority Handling" £7.95, Lieferung in 5–8 Werktagen.
-
-8. **Bewertungen:**
-   - Judge.me zeigt "4.8 · 172 reviews" auf allen drei Produktseiten. Auf der Comforter-Seite sind das Bewertungen des Duvet-Produkts (171 von 172 gehören zum Duvet).
-   - 154 von 172 Judge.me-Texten sind textgleich mit Trustpilot-Bewertungen, also Importe. Nur 4 tragen "verified buyer".
-   - tb-6 nennt "Excellent 4.7/5 · 250 reviews on Trustpilot". Agent 4 hat am 08.10. 291 Trustpilot-Bewertungen erfasst.
-   - Die "✓ Verified"-Testimonial-Karten der Produktseiten (Margaret 67, James 55 usw.) und die Galerie-Zitate (Robert 61, Susan 62) **kommen in keiner der 463 erfassten Bewertungen vor**. Ihre Herkunft ist nicht verifiziert.
-   - "Robert, 61" sagt auf der UK-Seite etwas völlig anderes als auf der US-Seite. In der US-Version sagt er "I've had the comforter for a year", obwohl das Comforter-Produkt erst am 25.06.2026 angelegt wurde und laut About-Seite "Founded 2026" gilt.
-
-9. **Widersprüche in den Produktaussagen** (Details in 3.5 bis 3.8):
-   - Waschmaschine: Das Bullet sagt "Fits in every washing machine", die eigene Größentabelle verlangt dagegen eine Trommel ab 6–8 kg.
-   - Trocknen: "about 2 hours" gegenüber "2–3 hours".
-   - Wärme: Die Produktseite sagt "10.5 TOG — proper winter warmth", die Home-Page sagt "mid-weight, all-season duvet".
-   - Kundenzahl: "Over 10,000 customers" auf der Produktseite gegenüber "7,000+" auf tb-6.
-   - Farben: "Six colourways" auf der Home-Page, aber 10 Farben im Shop.
-
-10. **Technik:**
-    - Shopify-Theme "Shrine PRO" 1.8.0 (Theme-Name "working of shrine-theme-pro").
-    - Apps: Kaching Bundles, Judge.me, Elevate A/B Testing, HeyMerch Sales Stock Counter, Klaviyo, ParcelPanel, Zigpoll, Lucky Orange, Triple Whale, Google Ads Pixel by Nabu.
-    - Meta Pixel 2174873679968281, Google Ads AW-18246939242.
-    - Kein TikTok-Pixel gefunden.
-    - Interne Namen sind auf Deutsch ("Weiterleitung", "AKTUELL", Canva-Datei "Design_ohne_Titel", Bild "…_Kopie.png"). Das ist ein Indiz für deutschsprachige Betreiber (nicht verifiziert).
-    - Impressum: One Way Ecom Limited, Hongkong, Telefon +1 (205). Laut Footer betreut 21Commerce Limited die Werbung.
+**Transkript-Qualität:** Bei den vier langen Videos sind die GetHooked-Transkripte englisch und inhaltlich plausibel; sie stimmen mit den eingebrannten Untertiteln überein. Einziger Fehler: Der Markenname ist falsch transkribiert („Pleen“, „Plein“), die Untertitel im Video schreiben korrekt „Pleene EasyRest“. Eine Neu-Transkription war nicht nötig, ElevenLabs wurde nicht aufgerufen und es sind keine Credits angefallen. Bei den drei Kurzvideos ist das Transkript ein Platzhalter („the next, video!!“). Per Audio-Check bestätigt: nur Musik (Details in der jeweiligen Ad).
 
 ---
 
-### 3.1 Vergleichstabelle der Landingpages
+#### Video 200037058 – Too Thin For Winter? Look Closer.
 
-| Merkmal | `/products/easyrest` | `/products/easyrest-comforter` | `/pages/tb-6` | `/products/easyrest-duvet` |
+**Metadaten**
+- Meta-ID: 2388197505255466 · Ad Library: https://www.facebook.com/ads/library/?id=2388197505255466
+- GetHooked share_url: https://app.gethookd.ai/share/ad/200037058?signature=8b9260efa8d3e451a50636127320d32fc1789291c109321c5b496c3192bfb0e4
+- Start 2026-10-05 · 4 Tage aktiv · performance_score 32 („Testing“; enriched: 22) · used_count 1
+- Landingpage: https://pleene.com/products/easyrest · Link-Beschreibung: „Coverless duvet · Washes whole at home · 30% off + 2 free pillow cases“
+- Länge 15,79 s (GetHooked: 16 s) · 720×1280 · ad_media_id 527527979
+- Anzeigentext (wörtlich): „❄️ Too thin for winter? Look closer. ✓ Quilted in place, no cold spots ✓ Warm all night, still washes whole 🧺 ✓ Still fits a normal washing machine ✓ Dry again in about 2 hours 🎁 Right now: 30% off + 2 FREE matching pillow cases.“
+
+**Transkript**
+- GetHooked: `0.00–15.16 " the next, video!!"`. Das ist ein Platzhalter-Fehlerbild.
+- Audio-Check: volumedetect mean −15,0 dB, max −4,0 dB. silencedetect (−40 dB, 0,4 s) findet keine Pause, der Ton läuft also durchgehend. Silero-VAD findet **0,00 s Sprache** (Schwelle 0,5 und 0,35; Gegenprobe 200037052: 73,07 s Sprache erkannt). Lokales Whisper (small.en) halluziniert „Thanks for watching guys!“ bei no_speech_prob 0,59. Das Spektrogramm zeigt rhythmische Transienten und tonale Bänder um 640–1280 Hz.
+- **Ergebnis: keine Sprache, nur Instrumentalmusik.** Es gibt kein gesprochenes Transkript.
+
+**Hook (0–3 s)**
+- Gesprochen: keiner (nur Musik).
+- Eingeblendet: 0,00–ca. 2,23 s „WARM ENOUGH FOR WINTER? WATCH.“, ab ca. 2,23 s „QUILTED IN PLACE. NO COLD SPOTS.“
+- Bild: Totale eines hotelartigen Schlafzimmers mit lila gesteppter Decke, zwei passenden Kissen, gepolstertem Kopfteil, zwei Nachttischlampen und Teppich. Langsamer Push-in.
+
+**Aufbau (Sekunden)**
+- Hook 0,00–2,23: Frage-Overlay „WARM ENOUGH FOR WINTER? WATCH.“
+- Problem: fehlt. Der Wärme-Einwand steckt nur implizit in der Hook-Frage.
+- Verstärkung: fehlt.
+- Mechanismus 2,23–7,50: „QUILTED IN PLACE. NO COLD SPOTS.“ Erst eine Nahaufnahme der Steppung (2,23–3,50), dann ein Makro: eine Lage der Decke wird aufgeklappt und zeigt weiße Füllung mit einer reißverschlussartigen Kantennaht, danach fährt die Kamera in die Füllung hinein (ca. 6 s).
+- Lösung 7,50–12,00: „STILL FITS A NORMAL WASHING MACHINE.“ (7,50–9,77; Person lädt die Decke in einen Frontlader), dann „WASHES WHOLE. DRY AGAIN IN ABOUT 2 HOURS.“ (9,77–12,00; Decke in der Trommel).
+- Beweis: fehlt (keine Bewertung, kein Testimonial, keine Kundenzahl).
+- Angebot 12,00–15,79: „30% OFF + 2 FREE MATCHING PILLOW CASES“
+- CTA 12,00–15,79: Button-Grafik „BUY NOW“ mit Warenkorb-Icon und Mauszeiger, dazu der Meta-Button „Shop now“. Kein gesprochener CTA.
+
+**Szenen (Szenenerkennung, Frames angesehen):** 0–2,23 Totale Schlafzimmer · 2,23–3,50 Nah Steppung · 3,50–7,50 Makro aufgeklappte Decke und Fahrt in die Füllung · 7,50–9,77 Waschküche, Person in weißem T-Shirt und weißer Hose kniet vor dem Frontlader · 9,77–12,00 Trommel nah · 12,00–15,79 Schlafzimmer-Totale, im Fenster links verschneite Bäume, Angebots-Overlay.
+
+**Personen / Sprecher:** Sichtbar sind nur Arme und Rumpf einer Person in Weiß (7,5–9,8 s), kein Gesicht. Alter und Geschlecht sind nicht bestimmbar. Es spricht niemand. **Einstufung: KI-generiert bzw. 3D/KI-Render (sehr wahrscheinlich).** Begründung: identisches „Showroom“-Schlafzimmer in drei Farbvarianten (058/053/051), Kamerafahrt durch eine sich verformende Füllung (6 s), unnatürlich glatte Oberflächen, „Schnee“-Fenster nur in der Schlussszene.
+
+**Setting:** Hotelartiges Schlafzimmer (Winter-Cue: verschneite Bäume im Fenster der Schlussszene) und eine Waschküche mit Frontlader.
+
+**Avatar (Zielperson):** UK-Käufer, die eine leichte, waschbare Decke für zu dünn für den Winter halten (Einwand-Behandlung, nicht alters- oder geschlechtsspezifisch).
+
+**Angle:** **B** (Wärme und Winter: „WARM ENOUGH FOR WINTER?“, „NO COLD SPOTS“) primär, **A** (ganze Decke waschen, 2 h trocken) sekundär.
+
+**Haupt-Emotion:** Neugier bzw. Skepsis („…? WATCH.“), die in Beruhigung aufgelöst wird.
+
+**Schnitttempo:** Szenenerkennung 0,3: 3 Schnitte (7,50; 9,77; 12,00), also **1,90 pro 10 s**. Bei 0,15: 5 Schnitte (zusätzlich 2,23 und 3,50), also 3,17 pro 10 s. Visuell sind 5 Szenenwechsel bestätigt.
+
+**Untertitel / Ton:** Keine Untertitel, weil nicht gesprochen wird. Text-Overlays in Weiß, Großbuchstaben, schmale fette Grotesk mit dunkler Kontur, im oberen Drittel. Ton: nur Musik, kein Voiceover, kein O-Ton.
+
+**Zahlen und Behauptungen (wörtlich):** „QUILTED IN PLACE. NO COLD SPOTS.“ · „STILL FITS A NORMAL WASHING MACHINE.“ · „WASHES WHOLE. DRY AGAIN IN ABOUT 2 HOURS.“ · „30% OFF + 2 FREE MATCHING PILLOW CASES“. Anzeigentext: „Dry again in about 2 hours“, „Warm all night, still washes whole“. Keine Tog-Angabe, kein £-Wert und keine Kundenzahl im Video.
+
+**Angebotsdarstellung:** Endkarte als Text-Overlay über dem Schlafzimmer mit „30% OFF + 2 FREE MATCHING PILLOW CASES“ und BUY-NOW-Button-Grafik. **Kein £-Wert**, keine 90 Nächte, keine Knappheit. Farben werden nur über die Varianten gezeigt.
+
+**Varianten-Hinweis:** Gleiche Tonspur und gleicher Aufbau wie **200037053** (blau) und **200037051** (salbeigrün); nur Hook-Text und Deckenfarbe unterscheiden sich. Thematisch nah an der Familie „Warm Enough For A British Winter“ (178749247/251/254, 179476350, 180646058), weil der Hook-Text fast gleich lautet. Ob das Material dasselbe ist, ist nicht verifiziert.
+
+---
+
+#### Video 200037053 – Too Thin For Winter? Look Closer.
+
+**Metadaten**
+- Meta-ID: 1833362664327699 · Ad Library: https://www.facebook.com/ads/library/?id=1833362664327699
+- share_url: https://app.gethookd.ai/share/ad/200037053?signature=a89d0ec9b5b673f5988345a774bf4a4f858e1b8996f1952670685df5ce8f602c
+- Start 2026-10-05 · 4 Tage aktiv · performance_score 32 („Testing“; enriched: 22) · used_count 1
+- Landingpage: https://pleene.com/products/easyrest · Link-Beschreibung: „Coverless duvet · Washes whole at home · 30% off + 2 free pillow cases“
+- Länge 15,70 s (GetHooked: 16 s) · 720×1280 · ad_media_id 527527983
+- Anzeigentext: identisch mit 200037058 (siehe dort, wörtlich).
+
+**Transkript**
+- GetHooked: `0.00–15.16 " the next, video!!"` (Platzhalter).
+- Audio-Check: mean −15,0 dB, max −4,0 dB, keine Pausen. Silero-VAD **0,00 s Sprache**. Lokales Whisper halluziniert „Thanks for watching, and I'll see you next time.“ (no_speech_prob 0,50). Die Tonspur ist identisch mit 200037058 (Kreuzkorrelation Peak 1,00, Lag 0).
+- **Ergebnis: keine Sprache, nur Instrumentalmusik.**
+
+**Hook (0–3 s)**
+- Gesprochen: keiner.
+- Eingeblendet: 0,00–ca. 2,23 s „THIS IS A WINTER DUVET. YES, REALLY.“, ab ca. 2,23 s „QUILTED IN PLACE. NO COLD SPOTS.“
+- Bild: dasselbe Showroom-Schlafzimmer, Decke und Kissen blau (Taubenblau), Push-in.
+
+**Aufbau (Sekunden)**
+- Hook 0,00–2,23: Behauptungs-Overlay „THIS IS A WINTER DUVET. YES, REALLY.“
+- Problem: fehlt. Der Einwand „zu dünn“ wird nur implizit vorweggenommen („YES, REALLY.“).
+- Verstärkung: fehlt.
+- Mechanismus 2,23–7,13: „QUILTED IN PLACE. NO COLD SPOTS.“ Steppung nah, dann Makro der aufgeklappten Decke mit weißer Füllung und Fahrt hinein.
+- Lösung 7,13–11,77: „STILL FITS A NORMAL WASHING MACHINE.“ (7,13–9,53), „WASHES WHOLE. DRY AGAIN IN ABOUT 2 HOURS.“ (9,53–11,77).
+- Beweis: fehlt.
+- Angebot 11,77–15,70: „30% OFF + 2 FREE MATCHING PILLOW CASES“
+- CTA 11,77–15,70: Button-Grafik „BUY NOW“ mit Warenkorb und Cursor, dazu der Meta-Button „Shop now“.
+
+**Szenen:** 0–2,23 Totale · 2,23–3,57 Steppung nah · 3,57–7,13 Makro Füllung · 7,13–9,53 Waschküche, Person in Weiß lädt die Decke · 9,53–11,77 Trommel · 11,77–15,70 Totale mit verschneitem Fenster und Angebot.
+
+**Personen / Sprecher:** Nur Arme und Rumpf einer Person in Weiß, kein Gesicht, Alter und Geschlecht nicht bestimmbar. Kein Sprecher. **KI-generiert bzw. Render (sehr wahrscheinlich).** Gleiche Gründe wie bei 200037058: identische Bildkomposition in drei Farbvarianten und eine sich verformende Füllungs-Fahrt.
+
+**Setting:** Hotelartiges Schlafzimmer (Winterfenster) und Waschküche.
+
+**Avatar:** UK-Käufer mit Wärme-Einwand gegen leichte Decken.
+
+**Angle:** **B** primär, **A** sekundär.
+
+**Haupt-Emotion:** Neugier bzw. Ungläubigkeit („YES, REALLY.“), aufgelöst in Beruhigung.
+
+**Schnitttempo:** Bei 0,3: 3 Schnitte (7,13; 9,53; 11,77), also **1,91 pro 10 s**. Bei 0,15: 5 (zusätzlich 2,23 und 3,57), also 3,18 pro 10 s.
+
+**Untertitel / Ton:** Keine Untertitel. Weiße Großbuchstaben-Overlays mit Kontur im oberen Drittel. Nur Musik.
+
+**Zahlen und Behauptungen (wörtlich):** „THIS IS A WINTER DUVET. YES, REALLY.“ · „QUILTED IN PLACE. NO COLD SPOTS.“ · „STILL FITS A NORMAL WASHING MACHINE.“ · „WASHES WHOLE. DRY AGAIN IN ABOUT 2 HOURS.“ · „30% OFF + 2 FREE MATCHING PILLOW CASES“.
+
+**Angebotsdarstellung:** Wie bei 200037058: Text-Endkarte, kein £-Wert, keine 90 Nächte, keine Knappheit.
+
+**Varianten-Hinweis:** Farb- und Hook-Variante von **200037058** (lila, „WARM ENOUGH FOR WINTER? WATCH.“) und **200037051** (salbeigrün, „TOO THIN FOR WINTER? LOOK CLOSER.“).
+
+---
+
+#### Video 200037052 – The Spare Bed, Fresh For Every Guest
+
+**Metadaten**
+- Meta-ID: 961172106430872 · Ad Library: https://www.facebook.com/ads/library/?id=961172106430872
+- share_url: https://app.gethookd.ai/share/ad/200037052?signature=ab0ea3d22bfd746992e616204067846b3fc4ad0b9794701144978049c326996a
+- Start 2026-10-05 · 4 Tage aktiv · performance_score 32 („Testing“; enriched: 22) · used_count 1
+- Landingpage: https://pleene.com/products/easyrest · Link-Beschreibung: „Coverless duvet · Fresh guest bed in 2 hours · 30% off + 2 free pillow cases“
+- Länge 73,16 s (GetHooked: 73 s) · 720×1280 · ad_media_id 527527985
+- Anzeigentext (wörtlich): „🛏️ The grandchildren are coming to stay this weekend, and the spare bed is already done: whole duvet washed this morning, not just the cover. ✓ Pleene EasyRest: cover sewn in, duvet and cover in one ✓ The whole duvet goes in your normal 7kg washing machine, dry in 2 hours 🧺 ✓ 10.5 tog, every bit as warm as a winter duvet, just without the weight (yes, even in the cold spare room) 🎁 30% off + 2 FREE matching pillow cases.“
+
+**Transkript (GetHooked, vollständig, Englisch, plausibel; Markenname falsch als „Pleen“, die Untertitel schreiben „Pleene“)**
+```
+00.00–04.32  My grandchildren are coming to stay this weekend, and the spare bed is already done.
+04.32–06.88  Whole duvet washed this morning, not just the cover.
+07.52–08.48  Let me show you how.
+09.20–10.56  Quick bit of context.
+10.56–13.36  I'm 71, and we have people to stay a lot.
+13.36–15.68  The grandchildren, friends, my sister.
+16.24–18.96  Every visit meant the same faff with the spare duvet cover.
+19.60–23.04  And the duvet itself never got washed, because it didn't fit in the machine.
+23.92–26.24  Then a friend recommended the Pleen EasyRest,
+26.24–28.24  and I'd tell anyone who has guests to get one.
+28.24–29.76  It's a duvet and cover in one.
+29.76–32.24  The cover is sewn in, so you never take it off.
+32.24–34.32  You just wash the whole duvet in one piece.
+34.32–37.52  The double goes straight into my normal 7kg washing machine,
+37.52–40.24  then the tumble dryer, and it's dry in two hours.
+40.24–43.28  So the morning after guests leave, the whole duvet is washed,
+43.28–45.36  dried, and back on the bed before lunch.
+45.36–49.12  The spare room is the coldest room in the house, so I did wonder about warmth.
+49.12–52.40  It's 10.5 Tog, so it's every bit as warm as a winter duvet,
+52.40–55.92  just without the weight, and the breathable fibres mean it never feels stuffy on you.
+56.56–58.40  I've got one on our own bed too now.
+58.40–60.96  I swear to you, my bed always feels fresh.
+60.96–63.76  And the Pleen Pillowcases really do feel super soft.
+63.76–66.48  Having people to stay is a pleasure again, not a bind.
+67.36–72.88  Right now, the EasyRest is on offer with 30% off, plus two free Pleen Pillowcases.
+```
+
+**Hook (0–3 s)**
+- Gesprochen: „My grandchildren are coming to stay this weekend, and the spare bed is already done.“ (0–4,32)
+- Eingeblendet (Untertitel): „my grandchildren are coming to stay this weekend“ (ca. 1–2 s), „and the spare bed is already done“ (ca. 3 s). Bei 0,00 s gibt es noch keinen Untertitel.
+- Bild: Ich-Perspektive. Eine ältere Hand (Ehering, beiger Strickärmel) öffnet die Tür zum Gästezimmer. Darin ein gemachtes Bett mit mintgrüner Steppdecke, Teddybär und gefaltetem Handtuch, draußen Backstein-Reihenhäuser.
+
+**Aufbau (Sekunden)**
+- Hook 0,00–8,48: Ergebnis zuerst („spare bed is already done“, „Whole duvet washed this morning, not just the cover.“), dann die Ankündigung „Let me show you how.“
+- Persona und Kontext 9,20–15,68: „I'm 71“, viele Gäste (Enkel, Freunde, Schwester). Bild: Flur mit Kinderjacken und Gummistiefeln.
+- Problem 16,24–23,04: „same faff with the spare duvet cover“ und „the duvet itself never got washed, because it didn't fit in the machine“. Bild: die Hände kämpfen eine geblümte Decke in den Bezug (ca. 15,5–19,9), dann wird eine alte Blumendecke in die Waschmaschine gestopft (19,9–24,0).
+- Verstärkung: fehlt als eigener Block (nur implizit in „Every visit meant…“).
+- Lösung 23,92–28,24: Empfehlung einer Freundin („a friend recommended“). Bild: die mintgrüne Decke wird über das Bett geschwungen (24,0–31,5).
+- Mechanismus 28,24–45,36: „duvet and cover in one“, „cover is sewn in“, „wash the whole duvet in one piece“, „normal 7kg washing machine“, „tumble dryer … dry in two hours“, „back on the bed before lunch“. Bild: Decke in den Frontlader (31,5), Tür zu und Drehknopf (35,5–38,0), Trockner (38,0–40,7), Decke auf die abgezogene Matratze (40,7–44,9).
+- Einwand Wärme 45,36–55,92: „coldest room in the house“, „10.5 Tog“, „every bit as warm as a winter duvet, just without the weight“, „breathable fibres … never feels stuffy“. Bild: Hand an kalter Fensterscheibe in der Dämmerung (44,9–49,2), Hände auf der Decke im Lampenlicht (49,2–56,2).
+- Beweis 56,56–63,76: nur Eigen-Testimonial („I've got one on our own bed too now“, „I swear to you…“, Kissenbezüge „super soft“). Bild: eigenes Schlafzimmer mit **blauer** Decke (56,2–63,3). Fremdbeweise (Bewertungen, Zahlen, Presse) fehlen.
+- Payoff 63,76–66,48: „Having people to stay is a pleasure again, not a bind.“ Bild: Handtücher werden aufs Gästebett gelegt (63,3–67,6).
+- Angebot 67,36–72,88: gesprochen „30% off, plus two free Pleen Pillowcases“. Endkarte ab ca. 67,6 s (Einblendung): „Pleene EasyRest™ Pillow Cases“, „30% OFF + 2 Free Pleene Pillow Cases (worth £39.99)“, Icons „Gentle & skin-friendly“, „Luxuriously soft feel“, „Machine washable & easy care“.
+- CTA: **gesprochen fehlt**, auf der Endkarte ist kein Button sichtbar. Es bleibt nur der Meta-Button „Shop now“.
+
+**Szenen (Szenenerkennung 0,3, Frames angesehen):** 0–9,5 Tür auf, Gästezimmer, Hand auf der Decke (eine Einstellung) · 9,5–15,5 Flur, Jacken, Gummistiefel · 15,5–19,9 Blumendecke in den Bezug (bei 0,15 drei Mikro-Schnitte bei 19,4–19,9) · 19,9–24,0 alte Decke in die Maschine · 24,0–31,5 mintgrüne Decke übers Bett (24,2 s: Decke steht wie ein starres Zelt in der Luft) · 31,5–35,5 Decke in den Frontlader · 35,5–38,0 Tür und Programmwahl · 38,0–40,7 Trockner · 40,7–44,9 Decke auf die Matratze · 44,9–56,2 Fenster in der Dämmerung, Hände auf der Decke · 56,2–63,3 eigenes Bett, blaue Decke · 63,3–67,6 Handtücher aufs Gästebett · 67,6–73,2 Angebots-Endkarte (Einblendung über Weiß).
+
+**Personen / Sprecher:** Im Bild nur Hände und Unterarme einer älteren Frau (Altersflecken und Falten, Ehering, beiger Strick-Cardigan), Ich-Perspektive, nie ein Gesicht. Geschätzt 65–75 Jahre, passend zum gesprochenen „I'm 71“. Rolle: Großmutter und Gastgeberin, Nutzerin als Testimonial. Sprecherin: Voiceover, Grundfrequenz im Median ca. 150 Hz (tief; passt zu einer älteren Frau, Geschlecht allein aus der Messung aber nicht eindeutig, nicht verifiziert). Lippensynchronität lässt sich nicht prüfen, weil kein Gesicht zu sehen ist. **Einstufung Bild: wahrscheinlich KI-generiertes POV-Video (nicht verifiziert).** Hinweise: die Decke steht bei 24,2 s physikalisch unplausibel als starres Zelt; das Bildmaterial wirkt durchgehend glatt und „generiert“; es gibt Weißblenden-Übergänge; die Familie wird mit mehreren Hook-Varianten in identischem Bildstil produziert. Ob die Stimme echt oder synthetisch ist: nicht verifiziert.
+
+**Setting:** Britisches Vorstadthaus: Gästezimmer (Backstein-Reihenhäuser vor dem Fenster), Flur, Waschküche mit Frontlader und Trockner, Abendszene am Fenster, eigenes Schlafzimmer.
+
+**Avatar (Zielperson):** Großeltern bzw. Rentner (ca. 65–75) in GB mit Gästezimmer und häufigem Besuch (Enkel, Freunde, Geschwister). Schmerz: Bezugswechsel am Gästebett und eine Gästedecke, die nie gewaschen wird.
+
+**Angle:** **A** (ganze Decke waschen, „not just the cover“) primär. **C** (Bezug: „faff with the spare duvet cover“, „never take it off“) und **B** (kältester Raum, 10.5 Tog, „never feels stuffy“) sekundär. Rahmen: **F-Gastgeber/Enkelbesuch**.
+
+**Haupt-Emotion:** Erleichterung bzw. Gastgeber-Stolz („a pleasure again, not a bind“), im Problemteil Frust („faff“).
+
+**Schnitttempo:** Bei 0,3: 13 Schnitte (9,50; 15,50; 19,93; 24,00; 31,53; 35,47; 38,00; 40,73; 44,93; 56,20; 63,27; 67,57; 72,77), also **1,78 pro 10 s**. Bei 0,15: 20 Schnitte, also 2,73 pro 10 s.
+
+**Untertitel / Ton:** Untertitel **ja**: eingebrannt, Wortgruppen in Kleinschreibung, weiße fette schmale Grotesk mit Schatten, unten mittig, Markenname korrekt „Pleene EasyRest“. Ton: **nur Voiceover, kein erkennbares Musikbett**. Der Grundpegel fällt in den Sprechpausen auf digitale Stille (p1 −96 dBFS), silencedetect findet 9 Pausen von 0,40–0,94 s.
+
+**Zahlen und Behauptungen (wörtlich):** „I'm 71“ · „my normal 7kg washing machine“ · „it's dry in two hours“ · „back on the bed before lunch“ · „It's 10.5 Tog“ · „every bit as warm as a winter duvet, just without the weight“ · „the breathable fibres mean it never feels stuffy on you“ · „30% off, plus two free Pleen Pillowcases“ · Endkarte „30% OFF + 2 Free Pleene Pillow Cases (worth £39.99)“. Anzeigentext: „normal 7kg washing machine, dry in 2 hours“, „10.5 tog“, „(yes, even in the cold spare room)“. Link-Beschreibung: „Fresh guest bed in 2 hours“.
+
+**Angebotsdarstellung:** Gesprochen „Right now, … 30% off, plus two free … Pillowcases“. Endkarte mit Kissenbezug-Foto und **Gratis-Wert „(worth £39.99)“**. Keine 90 Nächte, keine Knappheit, keine Farbauswahl. „Right now“ ist der einzige Zeitbezug.
+
+**Varianten-Hinweis:** Identischer Body ab ca. 9,5 s mit **200037047** (anderer Hook). Gleiches Body-Skript bei **200037059** (Hook „For years, the spare duvet lived in the cupboard…“; Video nicht analysiert). Der Produktblock ist wortgleich mit den Familien „Bella“ (200037049/045/063) und „When Did You Last Wash Your Duvet?“ (200037062/061/044).
+
+---
+
+#### Video 200037051 – Too Thin For Winter? Look Closer.
+
+**Metadaten**
+- Meta-ID: 2176522276563795 · Ad Library: https://www.facebook.com/ads/library/?id=2176522276563795
+- share_url: https://app.gethookd.ai/share/ad/200037051?signature=1f846d614d7ded11dca1363417ba6340f5e6bb0229af8a271a5f50fea944c262
+- Start 2026-10-05 · 4 Tage aktiv · performance_score **44 („Scaling“)** (enriched: 22) · used_count 1
+- Landingpage: https://pleene.com/products/easyrest · Link-Beschreibung: „Coverless duvet · Washes whole at home · 30% off + 2 free pillow cases“
+- Länge 15,83 s (GetHooked: 16 s) · 720×1280 · ad_media_id 527527971
+- Anzeigentext: identisch mit 200037058 (siehe dort, wörtlich).
+
+**Transkript**
+- GetHooked: `0.00–15.16 " the next, video!!"` (Platzhalter).
+- Audio-Check: mean −15,0 dB, max −3,9 dB, keine Pausen. Silero-VAD **0,00 s Sprache**. Lokales Whisper halluziniert „Thanks for watching guys!“ (no_speech_prob 0,57). Die Tonspur ist identisch mit 200037058 (Peak 1,00, Lag 0).
+- **Ergebnis: keine Sprache, nur Instrumentalmusik.**
+
+**Hook (0–3 s)**
+- Gesprochen: keiner.
+- Eingeblendet: 0,00–ca. 2,33 s „TOO THIN FOR WINTER? LOOK CLOSER.“ (entspricht der Anzeigen-Headline), ab ca. 2,33 s „QUILTED IN PLACE. NO COLD SPOTS.“
+- Bild: Showroom-Schlafzimmer, Decke und Kissen salbeigrün, Push-in.
+
+**Aufbau (Sekunden)**
+- Hook 0,00–2,33: Einwand als Frage, „TOO THIN FOR WINTER? LOOK CLOSER.“
+- Problem: fehlt. Der Einwand „too thin“ ist nur im Hook benannt.
+- Verstärkung: fehlt.
+- Mechanismus 2,33–7,63: „QUILTED IN PLACE. NO COLD SPOTS.“ Steppung nah (2,33–3,90), dann Makro der aufgeklappten Decke mit weißer Füllung (3,90–7,63).
+- Lösung 7,63–12,27: „STILL FITS A NORMAL WASHING MACHINE.“ (7,63–10,03), „WASHES WHOLE. DRY AGAIN IN ABOUT 2 HOURS.“ (10,03–12,27).
+- Beweis: fehlt.
+- Angebot 12,27–15,83: „30% OFF + 2 FREE MATCHING PILLOW CASES“
+- CTA 12,27–15,83: Button-Grafik „BUY NOW“ mit Warenkorb und Cursor, dazu der Meta-Button „Shop now“.
+
+**Szenen:** 0–2,33 Totale · 2,33–3,90 Steppung nah · 3,90–7,63 Makro Füllung · 7,63–10,03 Waschküche, Person in Weiß · 10,03–12,27 Trommel · 12,27–15,83 Totale mit verschneitem Fenster und Angebot.
+
+**Personen / Sprecher:** Arme und Rumpf einer Person in Weiß, kein Gesicht, nicht bestimmbar. Kein Sprecher. **KI-generiert bzw. Render (sehr wahrscheinlich)**, gleiche Gründe wie bei 200037058.
+
+**Setting:** Hotelartiges Schlafzimmer (Winterfenster) und Waschküche.
+
+**Avatar:** UK-Käufer mit Wärme-Einwand („too thin“).
+
+**Angle:** **B** primär, **A** sekundär.
+
+**Haupt-Emotion:** Neugier bzw. Skepsis („LOOK CLOSER.“), aufgelöst in Beruhigung.
+
+**Schnitttempo:** Bei 0,3: 3 Schnitte (7,63; 10,03; 12,27), also **1,89 pro 10 s**. Bei 0,15: 5 (zusätzlich 2,33 und 3,90), also 3,16 pro 10 s.
+
+**Untertitel / Ton:** Keine Untertitel. Weiße Großbuchstaben-Overlays oben. Nur Musik.
+
+**Zahlen und Behauptungen (wörtlich):** „TOO THIN FOR WINTER? LOOK CLOSER.“ · „QUILTED IN PLACE. NO COLD SPOTS.“ · „STILL FITS A NORMAL WASHING MACHINE.“ · „WASHES WHOLE. DRY AGAIN IN ABOUT 2 HOURS.“ · „30% OFF + 2 FREE MATCHING PILLOW CASES“.
+
+**Angebotsdarstellung:** Text-Endkarte, kein £-Wert, keine 90 Nächte, keine Knappheit.
+
+**Varianten-Hinweis:** Farb- und Hook-Variante von **200037058** und **200037053**. Von den drei Winter-Varianten ist diese als einzige „Scaling“ (44 gegenüber 32). Bei 4 Tagen Laufzeit ist das nur ein schwaches Signal.
+
+---
+
+#### Video 200037049 – The Dog Can Stay On The Bed
+
+**Metadaten**
+- Meta-ID: 4571329826520060 · Ad Library: https://www.facebook.com/ads/library/?id=4571329826520060
+- share_url: https://app.gethookd.ai/share/ad/200037049?signature=5045ba37ea51c2cd64846ac6342c368334f1f1b19a0b44769b33ca1012550c40
+- Start 2026-10-05 · 4 Tage aktiv · performance_score 32 („Testing“; enriched: 22) · used_count 1
+- Landingpage: https://pleene.com/products/easyrest · Link-Beschreibung: „Coverless duvet · Wash the whole duvet at home · 30% off + 2 free pillow cases“
+- Länge 79,92 s (GetHooked: 80 s) · 720×1280 · ad_media_id 527527962
+- Anzeigentext (wörtlich): „🐾 Bella sleeps on our bed every night. And nobody worries about it, because the WHOLE duvet goes in the wash, not just the cover. ✓ Pleene EasyRest: cover sewn in, duvet and cover in one ✓ Fits your normal 7kg washing machine, dry in 2 hours 🧺 ✓ 10.5 tog, every bit as warm as a winter duvet, just without the weight 🎁 30% off + 2 FREE matching pillow cases.“
+
+**Transkript (GetHooked, vollständig, Englisch, plausibel; lange Segmente, die Satzgrenzen liegen innerhalb der Segmente; Markenname als „Pleen“)**
+```
+00.00–05.52  This is Bella. She sleeps on our bed every night and I don't worry about it anymore.
+05.52–12.00  Let me show you why. I'm 66, we've got a spaniel and three grandchildren and that bed sees a lot
+12.00–17.84  of life. For years I washed the cover every week and told myself that was enough. The duvet
+17.84–22.32  underneath never got washed because it didn't fit in the machine and with a dog on the bed every
+22.32–27.68  night that started to bother me. Then I got the Pleen EasyRest and now the whole thing goes in
+27.68–34.08  the wash. It's a duvet and cover in one. The cover is sewn in so you never take it off, you just wash
+34.08–39.36  the whole duvet in one piece. The double goes straight into my normal seven kilogram washing
+39.36–45.76  machine, then the tumble dryer and it's dry in two hours. Dog hair, muddy paw prints, biscuit crumbs
+45.76–50.80  from the grandchildren, the whole lot just goes in the wash and the bed is made again by lunchtime.
+50.80–56.16  It's 10.5 tog so it's every bit as warm as a winter duvet just without the weight and the
+56.16–62.80  breathable fibers mean it never feels stuffy on you. I swear to you my bed always feels fresh
+63.36–69.52  and the Pleen Pillow Cases really do feel super soft. Bella's still on the bed, I just don't
+69.52–76.72  think about it anymore. Right now the EasyRest is on offer with 30% off plus two free Pleen Pillow
+76.72–79.60  Cases. Tap the link below and have a look.
+```
+(Die Sprechzeiten der Sätze sind ab ca. 7 s identisch mit 200037045, dort in feineren Segmenten.)
+
+**Hook (0–3 s)**
+- Gesprochen: „This is Bella. She sleeps on our bed every night…“ (0–5,52, vollständig: „…and I don't worry about it anymore.“)
+- Eingeblendet (Untertitel): „this is Bella“ (0–ca. 1,5 s), „she sleeps on our bed every night“ (ca. 2–3 s).
+- Bild: Ein English Springer Spaniel (leberbraun und weiß) liegt bei Tageslicht auf der mintgrünen Steppdecke, schaut in die Kamera und legt den Kopf ab. Kiefern-Kommode, salbeigrüne Wände.
+
+**Aufbau (Sekunden)**
+- Hook 0,00–ca. 7: „This is Bella … I don't worry about it anymore. Let me show you why.“ Bild: der Hund, eine Hand streichelt ihn (5 s).
+- Persona ca. 7–13: „I'm 66, we've got a spaniel and three grandchildren and that bed sees a lot of life.“ Bild: am Bettrand Kinder-Gummistiefel und ein Spielzeug-Polizeiauto (7,27–13,47).
+- Problem ca. 13–22: „For years I washed the cover every week and told myself that was enough. The duvet underneath never got washed because it didn't fit in the machine“. Bild: ein geblümter Bezug wird von einer cremeweißen Decke gezogen (13,47–17,8), die dicke Decke passt kaum in die Waschmaschine (17,8–23,8).
+- Verstärkung ca. 22–24: „and with a dog on the bed every night that started to bother me.“
+- Lösung ca. 24–28: „Then I got the Pleen EasyRest and now the whole thing goes in the wash.“ Bild: mintgrüne Decke, eine Hand streicht darüber (23,8–29,1).
+- Mechanismus ca. 28–43: „duvet and cover in one“, „cover is sewn in“, „wash the whole duvet in one piece“, „normal seven kilogram washing machine“, „tumble dryer … dry in two hours“. Bild: faltige Hand auf der Decke (29,1–30,4), Decke abziehen (30,4–35,9), in den Frontlader (35,9–39,7), aus der Maschine ziehen (39,7–42,8).
+- Nutzen/Verstärkung ca. 43–50,8: „Dog hair, muddy paw prints, biscuit crumbs from the grandchildren, the whole lot just goes in the wash and the bed is made again by lunchtime.“ Bild: **Pfotenabdrücke auf der Decke** (42,8–46,5), Bett wird gemacht (46,5–50,6).
+- Einwand Wärme 50,8–62,8: „10.5 tog“, „every bit as warm as a winter duvet just without the weight“, „breathable fibers … never feels stuffy“. Bild: Abendszene mit Hund und Hand auf der Decke (50,6–59,4).
+- Beweis ca. 60–66: nur Eigen-Testimonial („I swear to you my bed always feels fresh“, Kissenbezüge „super soft“). Bild: Hand drückt auf die Decke und aufs Kissen (59,4–67,4). Fremdbeweise fehlen.
+- Payoff ca. 66,5–71,4: „Bella's still on the bed, I just don't think about it anymore.“ Rückgriff auf den Hook, Hund wieder auf dem Bett (67,4–71,3).
+- Angebot ca. 71,4–77,9: „30% off plus two free Pleen Pillow Cases“. Weißblende (71,3), dann die Endkarte: „Pleene EasyRest™ Pillow Cases“, „30% OFF + 2 Free Pleene Pillow Cases (worth £39.99)“, Icons „Gentle & skin-friendly“, „Luxuriously soft feel“, „Machine washable & easy care“.
+- CTA 77,9–79,9: gesprochen „Tap the link below and have a look.“, Button-Grafik „SHOP NOW“ auf der Endkarte, Meta-Button „Shop now“.
+
+**Szenen (Szenenerkennung 0,3, 15 Schnitte; Frames angesehen):** 0–7,27 Hund auf dem Bett (eine Einstellung) · 7,27–13,47 Gummistiefel und Spielzeugauto · 13,47–17,8 Blumenbezug ab · 17,8–23,8 alte Decke in die Maschine · 23,8–29,1 mintgrüne Decke, Hand · 29,1–30,37 Makro faltige Hand · 30,37–33,53 Deckenecke · 33,53–35,9 Decke abziehen · 35,9–39,67 Frontlader (36,1 s: angeschnittenes Gesicht einer älteren Frau am rechten oberen Bildrand) · 39,67–42,8 Decke aus der Maschine · 42,8–46,47 Pfotenabdrücke · 46,47–50,57 Bett machen · 50,57–59,43 Abend, Hund, Hand · 59,43–67,43 Hand auf Decke und Kissen · 67,43–71,27 Hund auf dem Bett · 71,27–79,92 Weißblende und Endkarte.
+
+**Personen / Sprecher:** Hände und Unterarme einer älteren Frau (Falten, Ring, cremefarbener Strick-Cardigan), kurz ein angeschnittenes Gesicht (36,1 s), geschätzt 60–70 Jahre, passend zu „I'm 66“. Dazu der Hund „Bella“. Rolle: Hundebesitzerin und Großmutter, Testimonial. Voiceover weiblich (Grundfrequenz-Median ca. 178 Hz). Lippensynchronität nicht prüfbar. **Einstufung Bild: wahrscheinlich KI-generiert (nicht verifiziert).** Hinweise: Die Pfotenabdrücke (43 s) sind symmetrisch und sehen wie Icons aus, eher Katzenpfoten-Stempel als echter Schmutz. Das Hook-Motiv existiert in 200037045 mit gleicher Hundepose und Komposition, aber eingeschalteter Lampe und Nachtfenster. Das ist mit reiner Farbkorrektur nicht zu erklären und spricht für ein generiertes oder bearbeitetes Motiv. Ob die Stimme echt oder synthetisch ist: nicht verifiziert.
+
+**Setting:** Britisches Schlafzimmer (Kiefern-Kommode, gepolstertes graues Bett), Waschküche mit Frontlader, Abendszene.
+
+**Avatar (Zielperson):** Hundebesitzer 60+ (Großeltern) in GB, deren Hund im Bett schläft. Schmerz: die Decke unter dem Bezug wird nie gewaschen.
+
+**Angle:** **A** (Hygiene: Hund im Bett, „Dog hair, muddy paw prints, biscuit crumbs“, ganze Decke waschen) primär, **B** (10.5 tog, „never feels stuffy“) sekundär, Rahmen **F-Haustier**.
+
+**Haupt-Emotion:** Erleichterung („I don't worry about it anymore“), im Problemteil leichtes Unbehagen bzw. Ekel („that started to bother me“).
+
+**Schnitttempo:** Bei 0,3: 15 Schnitte, also **1,88 pro 10 s**. Bei 0,15: 16, also 2,00 pro 10 s.
+
+**Untertitel / Ton:** Untertitel **ja**: eingebrannt, Wortgruppen in Kleinschreibung, weiße fette Grotesk mit Schatten, unteres Drittel. Die Untertitel schreiben „7 kilogram washing machine“ und „Pleene EasyRest“. Ton: Voiceover plus **durchgehendes leises Hintergrundbett** (Grundpegel sinkt nie unter ca. −33 dBFS, silencedetect findet keine Pause). Vermutlich Musik, nicht verifiziert.
+
+**Zahlen und Behauptungen (wörtlich):** „I'm 66“ · „a spaniel and three grandchildren“ · „I washed the cover every week“ · „my normal seven kilogram washing machine“ · „it's dry in two hours“ · „the bed is made again by lunchtime“ · „It's 10.5 tog“ · „every bit as warm as a winter duvet just without the weight“ · „breathable fibers mean it never feels stuffy on you“ · „30% off plus two free Pleen Pillow Cases“ · Endkarte „30% OFF + 2 Free Pleene Pillow Cases (worth £39.99)“. Anzeigentext: „Fits your normal 7kg washing machine, dry in 2 hours“, „10.5 tog“.
+
+**Angebotsdarstellung:** Gesprochen „Right now … 30% off plus two free … Pillow Cases“, Endkarte mit zwei Kissen, **„(worth £39.99)“** und SHOP-NOW-Button. Keine 90 Nächte, keine Knappheit.
+
+**Varianten-Hinweis:** Body identisch mit **200037045** (anderer Hook, Bildspur dort um 0,4 s versetzt). Gleiches Body-Skript bei **200037063** (Hook „Wet November walk, two muddy paws, straight onto the bed. For years that meant stripping the cover and hoping the duvet underneath was fine.“; Video nicht analysiert). Der Produktblock ist wortgleich mit der Familie „Spare Bed“ (052/047/059).
+
+---
+
+#### Video 200037047 – The Spare Bed, Fresh For Every Guest
+
+**Metadaten**
+- Meta-ID: 1818573935991907 · Ad Library: https://www.facebook.com/ads/library/?id=1818573935991907
+- share_url: https://app.gethookd.ai/share/ad/200037047?signature=17fe05b65ba5af7f7b6a0e07d401ba8e36e2ca9af6ea7f68938dcf67525578db
+- Start 2026-10-05 · 4 Tage aktiv · performance_score **44 („Scaling“)** (enriched: 22) · used_count 1
+- Landingpage: https://pleene.com/products/easyrest · Link-Beschreibung: „Coverless duvet · Fresh guest bed in 2 hours · 30% off + 2 free pillow cases“
+- Länge 73,23 s (GetHooked: 73 s) · 720×1280 · ad_media_id 527527976
+- Anzeigentext: identisch mit 200037052 (siehe dort, wörtlich; beginnt mit „🛏️ The grandchildren are coming to stay this weekend…“, passt also nicht ganz zum Hook dieser Variante).
+
+**Transkript (GetHooked, vollständig, Englisch, plausibel; Markenname als „Pleen“)**
+```
+00.00–06.12  Our friends left an hour ago, and their duvet is already in the wash, the whole thing, cover and all.
+06.12–09.36  By lunchtime, the spare bed is ready for the next visitors.
+09.36–16.40  Quick bit of context, I'm 71, and we have people to stay a lot, the grandchildren, friends, my sister.
+16.40–19.80  Every visit meant the same faff with the spare duvet cover.
+19.80–24.16  And the duvet itself never got washed, because it didn't fit in the machine.
+24.16–28.44  Then a friend recommended the Pleen EasyRest, and I'd tell anyone who has guests to get one.
+28.44–29.96  It's a duvet and cover in one.
+29.96–34.52  The cover is sewn in, so you never take it off, you just wash the whole duvet in one piece.
+34.52–40.48  The double goes straight into my normal 7kg washing machine, then the tumble dryer, and it's dry in two hours.
+40.48–45.60  So the morning after guests leave, the whole duvet is washed, dried, and back on the bed before lunch.
+45.60–49.32  The spare room is the coldest room in the house, so I did wonder about warmth.
+49.32–53.68  It's 10.5 Tog, so it's every bit as warm as a winter duvet, just without the weight.
+53.68–56.76  And the breathable fibres mean it never feels stuffy on you.
+56.76–58.64  I've got one on our own bed too now.
+58.64–61.16  I swear to you, my bed always feels fresh.
+61.16–63.96  And the Pleen Pillowcases really do feel super soft.
+63.96–67.56  Having people to stay is a pleasure again, not a bind.
+67.56–72.80  Right now, the EasyRest is on offer with 30% off, plus two free Pleen Pillowcases.
+```
+
+**Hook (0–3 s)**
+- Gesprochen: „Our friends left an hour ago, and their duvet is already in the wash, the whole thing, cover and all.“ (0–6,12)
+- Eingeblendet (Untertitel): „Our friends left an hour ago“ (0–ca. 1,5 s), „and their duvet is already in the wash“ (ca. 2–3 s).
+- Bild: Ich-Perspektive in der Waschküche. Hände stopfen die mintgrüne Steppdecke in einen Frontlader und schließen die Tür (0–6,0).
+
+**Aufbau (Sekunden)**
+- Hook 0,00–9,36: Ergebnis bzw. Aktion zuerst („already in the wash“, „cover and all“), dann „By lunchtime, the spare bed is ready for the next visitors.“ Bild: Blick durch die Tür auf das abgezogene Gästebett, nur Matratze (6,0–9,57).
+- Persona 9,36–16,40: „I'm 71“, Gäste (Enkel, Freunde, Schwester). Bild: Flur, Jacken, Gummistiefel.
+- Problem 16,40–24,16: „same faff with the spare duvet cover“, „duvet itself never got washed, because it didn't fit in the machine“. Bild: Blumendecke in den Bezug, alte Decke in die Maschine.
+- Verstärkung: fehlt als eigener Block.
+- Lösung 24,16–28,44: Empfehlung einer Freundin, „Pleen EasyRest“. Bild: mintgrüne Decke übers Bett.
+- Mechanismus 28,44–45,60: „duvet and cover in one“, „sewn in“, „normal 7kg washing machine“, „tumble dryer … dry in two hours“, „back on the bed before lunch“. Bild: Waschmaschine, Programmwahl, Trockner, Decke auf die Matratze.
+- Einwand Wärme 45,60–56,76: „coldest room“, „10.5 Tog“, „every bit as warm as a winter duvet“, „never feels stuffy“. Bild: kaltes Fenster in der Dämmerung, Hände auf der Decke.
+- Beweis 56,76–63,96: nur Eigen-Testimonial (eigenes Bett mit blauer Decke, „I swear to you…“, Kissenbezüge „super soft“). Fremdbeweise fehlen.
+- Payoff 63,96–67,56: „Having people to stay is a pleasure again, not a bind.“
+- Angebot 67,56–72,80: gesprochen „30% off, plus two free Pleen Pillowcases“. Endkarte ab ca. 67,6 s: „Pleene EasyRest™ Pillow Cases“, „30% OFF + 2 Free Pleene Pillow Cases (worth £39.99)“, Icons „Gentle & skin-friendly“, „Luxuriously soft feel“, „Machine washable & easy care“.
+- CTA: **gesprochen fehlt**, auf der Endkarte kein Button sichtbar, nur der Meta-Button „Shop now“.
+
+**Szenen (Szenenerkennung 0,3, 14 Schnitte):** 0–6,0 Decke in den Frontlader, Tür zu · 6,0–9,57 Tür auf, abgezogenes Gästebett · ab 9,57 identisch mit 200037052 ab 9,50 (Flur 9,57–15,57 · Blumendecke 15,57–20,0 · alte Decke in die Maschine 20,0–24,07 · mintgrüne Decke übers Bett 24,07–31,6 · Frontlader 31,6–35,53 · Programmwahl 35,53–38,07 · Trockner 38,07–40,8 · Decke auf die Matratze 40,8–45,0 · Dämmerung, Fenster und Hände 45,0–56,27 · eigenes Bett blau 56,27–63,33 · Handtücher 63,33–67,63 · Endkarte 67,63–73,23). Frames angesehen.
+
+**Personen / Sprecher:** Hände und Unterarme einer älteren Frau (beiger Strick, Ring), Ich-Perspektive, kein Gesicht, geschätzt 65–75 („I'm 71“). Auffällig: Die Hände bei 0–1 s wirken deutlich älter (faltig, Altersflecken) als bei 2–3 s (glatter, jünger). Das deutet auf KI-Generierung oder verschiedene Hand-Darsteller hin, nicht verifiziert. Voiceover: Grundfrequenz-Median im Hook ca. 150 Hz, im Body dieselbe Sprecherin wie in 200037052; Geschlecht laut Messung nicht eindeutig, laut Bild und Rolle wahrscheinlich weiblich (nicht verifiziert). **Einstufung Bild: wahrscheinlich KI-generiertes POV-Video (nicht verifiziert)**, gleiche Gründe wie bei 200037052 plus die Hand-Inkonsistenz im Hook.
+
+**Setting:** Waschküche bzw. Hauswirtschaftsraum (Hook), danach wie 200037052: Gästezimmer, Flur, Abendfenster, eigenes Schlafzimmer.
+
+**Avatar:** Rentner bzw. Großeltern (ca. 65–75) in GB mit Gästezimmer und häufigem Besuch.
+
+**Angle:** **A** (ganze Decke, „the whole thing, cover and all“) primär, **C** (Bezugs-„faff“) und **B** (kalter Raum, 10.5 Tog) sekundär, Rahmen **F-Gastgeber**. Gegenüber 200037052 ist der Hook stärker auf Waschen und Tempo gerichtet („an hour ago“, „By lunchtime“).
+
+**Haupt-Emotion:** Erleichterung bzw. Effizienz-Zufriedenheit (Ergebnis zuerst), im Problemteil Frust.
+
+**Schnitttempo:** Bei 0,3: 14 Schnitte (6,0; 9,57; 15,57; 20,0; 24,07; 31,6; 35,53; 38,07; 40,8; 45,0; 56,27; 63,33; 67,63; 72,83), also **1,91 pro 10 s**. Bei 0,15: 21, also 2,87 pro 10 s.
+
+**Untertitel / Ton:** Untertitel **ja**, gleicher Stil wie bei 200037052. **Nur Voiceover**, kein Musikbett (Grundpegel fällt auf digitale Stille, p1 −131 dBFS; 8 Pausen von 0,41–0,94 s).
+
+**Zahlen und Behauptungen (wörtlich):** „Our friends left an hour ago“ · „By lunchtime“ · „I'm 71“ · „my normal 7kg washing machine“ · „it's dry in two hours“ · „back on the bed before lunch“ · „It's 10.5 Tog“ · „every bit as warm as a winter duvet, just without the weight“ · „the breathable fibres mean it never feels stuffy on you“ · „30% off, plus two free Pleen Pillowcases“ · Endkarte „(worth £39.99)“.
+
+**Angebotsdarstellung:** Wie bei 200037052: gesprochen 30 % plus zwei Gratis-Kissenbezüge, Endkarte mit „(worth £39.99)“, kein Button, keine 90 Nächte, keine Knappheit.
+
+**Varianten-Hinweis:** Hook-Variante von **200037052** (Body ab ca. 9,5 s bild- und tongleich). Gleiches Body-Skript bei **200037059** (Video nicht analysiert). Innerhalb der Familie hat diese Variante den höheren Score (44 „Scaling“ gegenüber 32), nach 4 Tagen ein schwaches Signal.
+
+---
+
+#### Video 200037045 – The Dog Can Stay On The Bed
+
+**Metadaten**
+- Meta-ID: 1251620417158236 · Ad Library: https://www.facebook.com/ads/library/?id=1251620417158236
+- share_url: https://app.gethookd.ai/share/ad/200037045?signature=9dbc6af8a2932afed3e5a991ab6f9ad12e1fef2910914283018eeff2b95baea8
+- Start 2026-10-05 · 4 Tage aktiv · performance_score **44 („Scaling“)** (enriched: 22) · used_count 1
+- Landingpage: https://pleene.com/products/easyrest · Link-Beschreibung: „Coverless duvet · Wash the whole duvet at home · 30% off + 2 free pillow cases“
+- Länge 79,92 s (GetHooked: 80 s) · 720×1280 · ad_media_id 527527958
+- Anzeigentext: identisch mit 200037049 (siehe dort, wörtlich).
+
+**Transkript (GetHooked, vollständig, Englisch, plausibel; Markenname als „Plein“)**
+```
+00.00–04.40  If your dog sleeps on your bed, when did you last wash the duvet?
+04.40–07.20  Not the cover, the duvet.
+07.20–10.68  I'm 66, we've got a spaniel and three grandchildren,
+10.68–13.20  and that bed sees a lot of life.
+13.20–15.68  For years, I washed the cover every week
+15.68–17.28  and told myself that was enough.
+17.28–19.44  The duvet underneath never got washed
+19.44–21.04  because it didn't fit in the machine.
+21.04–22.68  And with a dog on the bed every night,
+22.68–24.08  that started to bother me.
+24.08–26.16  Then I got the Plein EasyRest,
+26.16–28.28  and now the whole thing goes in the wash.
+28.36–30.92  It's a duvet and cover in one.
+30.92–33.56  The cover is sewn in, so you never take it off.
+33.56–36.16  You just wash the whole duvet in one piece.
+36.16–38.16  The double goes straight into my normal
+38.16–40.24  seven kilogram washing machine.
+40.24–43.12  Then the tumble dryer, and it's dry in two hours.
+43.12–45.04  Dog hair, muddy paw prints,
+45.04–46.84  biscuit crumbs from the grandchildren.
+46.84–48.76  The whole lot just goes in the wash,
+48.76–50.84  and the bed is made again by lunchtime.
+50.84–53.84  It's 10.5 Tog, so it's every bit as warm
+53.84–56.00  as a winter duvet, just without the weight.
+56.00–57.52  And the breathable fibers mean
+57.52–59.72  it never feels stuffy on you.
+59.72–63.60  I swear to you, my bed always feels fresh.
+63.60–67.56  And the Plein pillowcases really do feel super soft.
+67.56–69.12  Bella's still on the bed.
+69.12–71.40  I just don't think about it anymore.
+71.40–73.48  Right now, the EasyRest is on offer
+73.48–77.88  with 30% off, plus two free Plein pillowcases.
+77.88–79.88  Tap the link below and have a look.
+```
+
+**Hook (0–3 s)**
+- Gesprochen: „If your dog sleeps on your bed, when did you last wash the duvet?“ (0–4,40), danach „Not the cover, the duvet.“ (4,40–7,20)
+- Eingeblendet (Untertitel): „if your dog sleeps on your bed“ (0–ca. 2,5 s), „when did you last wash the duvet?“ (ca. 3 s), danach „not the cover“ (ca. 4,5–6 s), „the duvet“ (ca. 7 s).
+- Bild: derselbe Springer Spaniel in derselben Pose wie in 200037049, aber am **Abend** (Lampe an, Fenster dunkel). Der Hund legt den Kopf ab (0–4,3).
+
+**Aufbau (Sekunden)**
+- Hook 0,00–7,20: Direkte Frage an Hundebesitzer, die Schuld auslöst, dazu die Abgrenzung „Not the cover, the duvet.“ Bild: Hund (0–4,3), Hände ziehen den Blumenbezug von der cremefarbenen Decke (4,3–6,87).
+- Persona 7,20–13,20: „I'm 66, we've got a spaniel and three grandchildren…“. Bild: Gummistiefel und Spielzeugauto (6,87–13,07).
+- Problem 13,20–21,04: „washed the cover every week“, „The duvet underneath never got washed because it didn't fit in the machine.“ Bild: Bezug ab, alte Decke in die Maschine.
+- Verstärkung 21,04–24,08: „with a dog on the bed every night, that started to bother me.“
+- Lösung 24,08–28,28: „Then I got the Plein EasyRest, and now the whole thing goes in the wash.“
+- Mechanismus 28,36–43,12: „duvet and cover in one“, „sewn in“, „wash the whole duvet in one piece“, „seven kilogram washing machine“, „tumble dryer, and it's dry in two hours“.
+- Nutzen/Verstärkung 43,12–50,84: „Dog hair, muddy paw prints, biscuit crumbs from the grandchildren. The whole lot just goes in the wash, and the bed is made again by lunchtime.“ Bild: Pfotenabdrücke auf der Decke (ca. 42,4–46,1).
+- Einwand Wärme 50,84–59,72: „10.5 Tog“, „every bit as warm as a winter duvet, just without the weight“, „breathable fibers … never feels stuffy“.
+- Beweis 59,72–67,56: nur Eigen-Testimonial („I swear to you, my bed always feels fresh“, Kissenbezüge „super soft“). Fremdbeweise fehlen.
+- Payoff 67,56–71,40: „Bella's still on the bed. I just don't think about it anymore.“ Bild: Hund auf dem Bett (67,03–70,87).
+- Angebot 71,40–77,88: gesprochen „30% off, plus two free Plein pillowcases“. Weißblende (70,87), Endkarte „Pleene EasyRest™ Pillow Cases / 30% OFF + 2 Free Pleene Pillow Cases (worth £39.99)“, „SHOP NOW“, Icons „Gentle & skin-friendly“, „Luxuriously soft feel“, „Machine washable & easy care“.
+- CTA 77,88–79,88: „Tap the link below and have a look.“, Button-Grafik „SHOP NOW“, Meta-Button „Shop now“.
+
+**Szenen (Szenenerkennung 0,3, 16 Schnitte):** 0–4,3 Hund am Abend · 4,3–6,87 Blumenbezug ab · ab 6,87 identisch mit 200037049, Bildspur aber 0,4 s früher (Schnitte 13,07; 17,4; 23,4; 28,7; 29,97; 33,13; 35,5; 39,27; 42,4; 46,07; 50,17; 59,03; 67,03; 70,87). Frames angesehen.
+
+**Personen / Sprecher:** Wie bei 200037049: Hände einer älteren Frau („I'm 66“, geschätzt 60–70), cremefarbener Strick, ein angeschnittenes Gesicht in der Waschküchen-Szene, dazu der Spaniel. Voiceover weiblich (Grundfrequenz-Median im Hook ca. 216 Hz, Frage-Intonation; Body identisch mit 049). **Einstufung Bild: wahrscheinlich KI-generiert (nicht verifiziert).** Das Hook-Motiv ist pose- und kompositionsgleich mit 049, aber mit anderer Tageszeit und Lampe an. Die Pfotenabdrücke sehen wie Icons aus.
+
+**Setting:** Schlafzimmer am Abend (Hook), danach Schlafzimmer bei Tag, Waschküche, Abendszene.
+
+**Avatar:** Hundebesitzer 60+ in GB, Hund schläft im Bett.
+
+**Angle:** **A** (Hygiene: „when did you last wash the duvet? Not the cover, the duvet.“, „Dog hair, muddy paw prints“) primär, **B** sekundär, Rahmen **F-Haustier**.
+
+**Haupt-Emotion:** Schuld bzw. Scham-Trigger und leichter Ekel im Hook (Frage nach der letzten Wäsche), dann Erleichterung.
+
+**Schnitttempo:** Bei 0,3: 16 Schnitte, also **2,00 pro 10 s**. Bei 0,15: 17, also 2,13 pro 10 s.
+
+**Untertitel / Ton:** Untertitel **ja**, gleicher Stil wie bei 049. Voiceover plus durchgehendes leises Hintergrundbett (Grundpegel nie unter ca. −33 dBFS, keine Pausen; vermutlich Musik, nicht verifiziert).
+
+**Zahlen und Behauptungen (wörtlich):** „I'm 66“ · „a spaniel and three grandchildren“ · „I washed the cover every week“ · „my normal seven kilogram washing machine“ · „it's dry in two hours“ · „the bed is made again by lunchtime“ · „It's 10.5 Tog“ · „every bit as warm as a winter duvet, just without the weight“ · „the breathable fibers mean it never feels stuffy on you“ · „30% off, plus two free Plein pillowcases“ · Endkarte „(worth £39.99)“.
+
+**Angebotsdarstellung:** Gesprochen „Right now … 30% off, plus two free … pillowcases“, Endkarte mit „(worth £39.99)“ und SHOP-NOW-Button. Keine 90 Nächte, keine Knappheit.
+
+**Varianten-Hinweis:** Hook-Variante von **200037049** (Body ton- und bildgleich, Bild um 0,4 s versetzt) und **200037063** (Video nicht analysiert). Innerhalb der Familie hat diese Variante mit Frage-Hook den höheren Score (44 „Scaling“ gegenüber 32), nach 4 Tagen ein schwaches Signal. Der Hook-Satz „when did you last wash the duvet … not the cover, the duvet“ ähnelt der Familie „When Did You Last Wash Your Duvet?“ (200037062: „If a guest asked you when you last washed your duvet, not the cover, the duvet, what would you say?“).
+
+---
+
+##### Hygiene-Zitate Batch 4
+
+Gesammelt sind alle Stellen zu Milben, Bakterien, Schweiß, Waschen, Trocknen und Temperatur (inklusive Wärme, Tog, „stuffy“ und „fresh“), aus Transkript und Einblendungen, mit Ad-ID und Sekunde. Die Untertitel der vier Sprecher-Videos geben das Gesprochene wieder und sind nur bei abweichendem Wortlaut separat aufgeführt.
+
+**Milben, Bakterien, Schweiß:** In keiner der 7 Ads erwähnt, weder gesprochen noch eingeblendet. Hygiene wird ausschließlich über „whole duvet washed“, „Dog hair, muddy paw prints, biscuit crumbs“ und „feels fresh“ transportiert. Schweiß kommt höchstens indirekt über „never feels stuffy“ vor.
+
+| Ad-ID | Sekunde | Quelle | Zitat (wörtlich) | Thema |
 |---|---|---|---|---|
-| Ads (Inventar 137) | 83 | 40 | 8 | 6 |
-| Ads (GetHooked-Publikation 05.10., 120) | 70 | 32 | 8 | 10 |
-| Zielland der Ads (GetHooked `countries`) | GB (52), ohne Angabe (31) | **US** (37), ohne Angabe (3) | GB (7), ohne (1) | GB (4), ohne (2) |
-| Typ | Produktseite (Long-Form-PDP mit Sales-Sections) | Produktseite, **US-lokalisiert** | **Advertorial**, als "ADVERTISEMENT" markiert, Pre-Lander mit nummerierten Benefit-Karten (01–05) und Vergleichstabelle | Produktseite (Klon von `/products/easyrest`) |
-| Shopify-Template | `product.easyrest-duvet-winter26` | `product.easyrest-duvet-usa230926` | `page.tabeasyrest-tb6` | `product.easyrest-duvet-winter26-2` |
-| Shop-Header/Navigation | ja | ja | **nein** (eigenständige Seite ohne Menü) | ja |
-| Haupt-Angle | **B** (Tog/Winterwärme) | **A + B** (ganz waschbar/hygienisch, "One comforter, every season", Schwitzen) | **C** (nie wieder Bezug aufziehen) + **F-Social-Proof** | **B** (identisch mit easyrest) |
-| Neben-Angles | C, A, F-Angebot, F-Social-Proof, E (Testimonial "Margaret, 67") | C ("skip the top sheet"), E ("Margaret, 67"), F-Angebot | A (Hygiene-Vergleich), F-Angebot ("Autumn offer") | wie easyrest |
-| H1 | "Pleene EasyRest™ Duvet" | "Pleene EasyRest™ Comforter" | "How 7,000+ people said goodbye to putting duvet covers on – with a machine-washable 2-in-1 duvet" | "Pleene EasyRest™ Duvet" |
-| ATF-Bullets | "10.5 TOG — proper winter warmth" / "Warm without overheating" / "Never change bedding again" / "Fits in every washing machine" | "Warm in winter, cool in summer" / "No cover to change" / "Hygienic & allergy-friendly" / "Fits in any washing machine" | "No more putting covers on" / "Not too warm, not too cold" / "Fits any washing machine" / "Dry in about 2 hours" | wie easyrest |
-| Wärmeangabe | 10.5 TOG | "300 GSM fill", kein Tog | "climate fibres", kein Tog | 10.5 TOG |
-| Einstiegspreis | £74.99 (statt £114.99) | GBP-Ansicht £69.99 (statt £119.99); USD-Ansicht $139.99 (statt $199.99) | keine Preise auf der Seite | £74.99 (statt £114.99) |
-| Bundles | Kaching 1 / 2 (−10 %) / 3 (−15 %) | gleich | keine (Link zur PDP) | gleich |
-| Gratisbeigabe | "2 Pleene™ Pillow Cases (Value: £39.99)" | "2 Pleene™ Pillowcases (Value: $39.99)", auch in der GBP-Ansicht | "2 matching pillowcases free … Worth £39.99 – while stocks last." | wie easyrest |
-| Social-Proof-Zahl | "Over 10,000 customers" | "Over 10,000 customers" | "7,000+ customers" | "Over 10,000 customers" |
-| Bewertungsanzeige | Judge.me ★ "172 reviews", Widget "4.8" | Judge.me "172 reviews" (Bewertungen des Duvet) | Trustpilot "Excellent 4.7/5 · 250 reviews" | Judge.me "172 reviews" (als "Review for Pleene EasyRest™ Duvet" verknüpft) |
-| Testimonial-Videos | ja ("Peter", "Brian", "Dave") | nein | nein | ja |
-| Cross-Sell-Sektion auf der Seite | "The Cosy Bundle" (+ CosyRest™ Sherpa Throw) | "The Full Sleep Set:" (+ ZipSheet™ US + EasyStore™) und "You may also like" | – | "The Cosy Bundle" |
-| Laufband oben | 3 rotierende Texte (s. u.) | keines | "ADVERTISEMENT" | keines |
-| E-Mail-Pop-up | ja (sofort und bei Exit-Intent) | ja | **nein** (URL-Muster `*tb*` ausgeschlossen) | ja |
-| pleene.uk-Entsprechung | Text identisch (gleicher Shop) | identisch | identisch | identisch |
+| 200037058 | 0,00–2,23 | Einblendung | „WARM ENOUGH FOR WINTER? WATCH.“ | Temperatur |
+| 200037058 | 2,23–7,50 | Einblendung | „QUILTED IN PLACE. NO COLD SPOTS.“ | Temperatur |
+| 200037058 | 7,50–9,77 | Einblendung | „STILL FITS A NORMAL WASHING MACHINE.“ | Waschen |
+| 200037058 | 9,77–12,00 | Einblendung | „WASHES WHOLE. DRY AGAIN IN ABOUT 2 HOURS.“ | Waschen/Trocknen |
+| 200037058 | 12,00–15,79 | Bild | verschneite Bäume im Fenster (kein Text) | Temperatur (visuell) |
+| 200037053 | 0,00–2,23 | Einblendung | „THIS IS A WINTER DUVET. YES, REALLY.“ | Temperatur |
+| 200037053 | 2,23–7,13 | Einblendung | „QUILTED IN PLACE. NO COLD SPOTS.“ | Temperatur |
+| 200037053 | 7,13–9,53 | Einblendung | „STILL FITS A NORMAL WASHING MACHINE.“ | Waschen |
+| 200037053 | 9,53–11,77 | Einblendung | „WASHES WHOLE. DRY AGAIN IN ABOUT 2 HOURS.“ | Waschen/Trocknen |
+| 200037051 | 0,00–2,33 | Einblendung | „TOO THIN FOR WINTER? LOOK CLOSER.“ | Temperatur |
+| 200037051 | 2,33–7,63 | Einblendung | „QUILTED IN PLACE. NO COLD SPOTS.“ | Temperatur |
+| 200037051 | 7,63–10,03 | Einblendung | „STILL FITS A NORMAL WASHING MACHINE.“ | Waschen |
+| 200037051 | 10,03–12,27 | Einblendung | „WASHES WHOLE. DRY AGAIN IN ABOUT 2 HOURS.“ | Waschen/Trocknen |
+| 200037052 | 4,32–6,88 | gesprochen + UT | „Whole duvet washed this morning, not just the cover.“ | Waschen |
+| 200037052 | 19,60–23,04 | gesprochen + UT | „And the duvet itself never got washed, because it didn't fit in the machine.“ | Waschen |
+| 200037052 | 32,24–34,32 | gesprochen | „You just wash the whole duvet in one piece.“ | Waschen |
+| 200037052 | 34,32–37,52 | gesprochen + UT | „The double goes straight into my normal 7kg washing machine,“ | Waschen |
+| 200037052 | 37,52–40,24 | gesprochen + UT | „then the tumble dryer, and it's dry in two hours.“ (UT: „then the tumble dryer and it's dry in 2 hours“) | Trocknen |
+| 200037052 | 40,24–45,36 | gesprochen + UT | „So the morning after guests leave, the whole duvet is washed, dried, and back on the bed before lunch.“ | Waschen/Trocknen |
+| 200037052 | 45,36–49,12 | gesprochen + UT | „The spare room is the coldest room in the house, so I did wonder about warmth.“ | Temperatur |
+| 200037052 | 49,12–52,40 | gesprochen + UT | „It's 10.5 Tog, so it's every bit as warm as a winter duvet,“ | Temperatur/Tog |
+| 200037052 | 52,40–55,92 | gesprochen + UT | „just without the weight, and the breathable fibres mean it never feels stuffy on you.“ | Temperatur/Atmungsaktivität |
+| 200037052 | 58,40–60,96 | gesprochen + UT | „I swear to you, my bed always feels fresh.“ | Frische |
+| 200037052 | ca. 67,6–73,2 | Einblendung | „Machine washable & easy care“ (Icon Endkarte) | Waschen |
+| 200037047 | 0,00–6,12 | gesprochen + UT | „Our friends left an hour ago, and their duvet is already in the wash, the whole thing, cover and all.“ | Waschen |
+| 200037047 | 19,80–24,16 | gesprochen + UT | „And the duvet itself never got washed, because it didn't fit in the machine.“ | Waschen |
+| 200037047 | 29,96–34,52 | gesprochen + UT | „The cover is sewn in, so you never take it off, you just wash the whole duvet in one piece.“ | Waschen |
+| 200037047 | 34,52–40,48 | gesprochen + UT | „The double goes straight into my normal 7kg washing machine, then the tumble dryer, and it's dry in two hours.“ | Waschen/Trocknen |
+| 200037047 | 40,48–45,60 | gesprochen + UT | „So the morning after guests leave, the whole duvet is washed, dried, and back on the bed before lunch.“ | Waschen/Trocknen |
+| 200037047 | 45,60–49,32 | gesprochen + UT | „The spare room is the coldest room in the house, so I did wonder about warmth.“ | Temperatur |
+| 200037047 | 49,32–53,68 | gesprochen + UT | „It's 10.5 Tog, so it's every bit as warm as a winter duvet, just without the weight.“ | Temperatur/Tog |
+| 200037047 | 53,68–56,76 | gesprochen + UT | „And the breathable fibres mean it never feels stuffy on you.“ | Temperatur/Atmungsaktivität |
+| 200037047 | 58,64–61,16 | gesprochen + UT | „I swear to you, my bed always feels fresh.“ | Frische |
+| 200037047 | ca. 67,6–73,2 | Einblendung | „Machine washable & easy care“ (Icon Endkarte) | Waschen |
+| 200037049 | 12,00–22,32 | gesprochen + UT | „For years I washed the cover every week and told myself that was enough. The duvet underneath never got washed because it didn't fit in the machine“ | Waschen |
+| 200037049 | 22,32–24,1 | gesprochen | „and with a dog on the bed every night that started to bother me.“ | Hygiene (Hund) |
+| 200037049 | ca. 24,1–28 | gesprochen + UT | „Then I got the Pleen EasyRest and now the whole thing goes in the wash.“ | Waschen |
+| 200037049 | ca. 32–43 | gesprochen + UT | „you just wash the whole duvet in one piece. The double goes straight into my normal seven kilogram washing machine, then the tumble dryer and it's dry in two hours.“ (UT: „7 kilogram washing machine“, „and it's dry in 2 hours“) | Waschen/Trocknen |
+| 200037049 | ca. 43–50,8 | gesprochen + UT | „Dog hair, muddy paw prints, biscuit crumbs from the grandchildren, the whole lot just goes in the wash and the bed is made again by lunchtime.“ | Hygiene/Waschen |
+| 200037049 | 42,8–46,5 | Bild | Pfotenabdrücke auf der Decke (UT „muddy paw prints“) | Hygiene (visuell) |
+| 200037049 | 50,80–62,80 | gesprochen + UT | „It's 10.5 tog so it's every bit as warm as a winter duvet just without the weight and the breathable fibers mean it never feels stuffy on you.“ | Temperatur/Tog |
+| 200037049 | ca. 60–63 | gesprochen + UT | „I swear to you my bed always feels fresh“ | Frische |
+| 200037049 | ca. 72–79,9 | Einblendung | „Machine washable & easy care“ (Icon Endkarte) | Waschen |
+| 200037045 | 0,00–4,40 | gesprochen + UT | „If your dog sleeps on your bed, when did you last wash the duvet?“ | Hygiene/Waschen |
+| 200037045 | 4,40–7,20 | gesprochen + UT | „Not the cover, the duvet.“ | Waschen |
+| 200037045 | 13,20–21,04 | gesprochen + UT | „For years, I washed the cover every week and told myself that was enough. The duvet underneath never got washed because it didn't fit in the machine.“ | Waschen |
+| 200037045 | 21,04–24,08 | gesprochen + UT | „And with a dog on the bed every night, that started to bother me.“ | Hygiene (Hund) |
+| 200037045 | 24,08–28,28 | gesprochen + UT | „Then I got the Plein EasyRest, and now the whole thing goes in the wash.“ | Waschen |
+| 200037045 | 33,56–43,12 | gesprochen + UT | „You just wash the whole duvet in one piece. The double goes straight into my normal seven kilogram washing machine. Then the tumble dryer, and it's dry in two hours.“ | Waschen/Trocknen |
+| 200037045 | 43,12–50,84 | gesprochen + UT | „Dog hair, muddy paw prints, biscuit crumbs from the grandchildren. The whole lot just goes in the wash, and the bed is made again by lunchtime.“ | Hygiene/Waschen |
+| 200037045 | ca. 42,4–46,1 | Bild | Pfotenabdrücke auf der Decke | Hygiene (visuell) |
+| 200037045 | 50,84–59,72 | gesprochen + UT | „It's 10.5 Tog, so it's every bit as warm as a winter duvet, just without the weight. And the breathable fibers mean it never feels stuffy on you.“ | Temperatur/Tog |
+| 200037045 | 59,72–63,60 | gesprochen + UT | „I swear to you, my bed always feels fresh.“ | Frische |
+| 200037045 | ca. 72–79,9 | Einblendung | „Machine washable & easy care“ (Icon Endkarte) | Waschen |
 
-**Wo sich die Seiten genau unterscheiden:**
-
-- **easyrest gegenüber easyrest-duvet:**
-  - Nur `/products/easyrest` hat das rotierende Laufband (Section `custom_liquid_ge9Xt4`).
-  - Das Duvet-Produkt ist ein separates, verstecktes Produkt (ID 16081090838860) mit eigener Vorlage `…-winter26-2`.
-  - Sein Bewertungs-Widget kennzeichnet die Bewertungen als "Review for Pleene EasyRest™ Duvet", sie werden also vom Hauptprodukt übernommen.
-  - Bei der Farbe Lavender Mist unterscheiden sich die Vergleichspreise (s. 3.4).
-  - Alle Texte, FAQs, Sections und die Bildgalerie sind sonst identisch (Textvergleich der vollständigen Seiten ohne weitere Unterschiede).
-  - Wahrscheinlich dient die Seite als separater Test- oder Kampagnen-Endpunkt für die Tog-Ads. Das ist nicht verifiziert.
-- **easyrest gegenüber comforter:**
-  - Komplett anderes Copy-Set für den US-Markt: "comforter", Zoll-Größen, °F, "top sheet", "laundromat".
-  - Andere Galerie (eigene "Comforter"-Bilder).
-  - Keine Tog-Angabe.
-  - FAQ mit Größentabelle als **unausgefülltem Platzhalter** ("Twin __ × __ in").
-  - Andere Cross-Sells.
-- **tb-6 gegenüber den Produktseiten:**
-  - Keine Preise, keine Variantenauswahl, kein Warenkorb.
-  - Stattdessen Story-Hook, "AS FEATURED IN"-Logos, Vergleichstabelle, Trustpilot-Zitate und ein Angebotskasten "Autumn offer".
-  - 5 CTAs, alle auf `https://pleene.com/products/easyrest`.
+**Muster:** Im ganzen Batch sind konkrete Wäsche-Parameter einheitlich: „7kg“ bzw. „seven kilogram washing machine“, „tumble dryer“, „dry in two hours“ bzw. „about 2 hours“ (Kurzvideos) und „by lunchtime“ bzw. „before lunch“. Temperatur kommt einheitlich über „10.5 Tog“, „every bit as warm as a winter duvet, just without the weight“ und „never feels stuffy“, in den Kurzvideos über „NO COLD SPOTS“. Es gibt keine Gradzahlen und keine Waschtemperatur.
 
 ---
 
-### 3.2 Preiswelten GBP und USD
+##### Kurz-Tabelle Batch 4
 
-**Was UK-Besucher sehen:**
+| ID | Länge | Hook (wörtlich, 0–3 s) | Angle | Avatar | Sprecher-Typ | Schnitte/10 s (0,3) | Emotion |
+|---|---|---|---|---|---|---|---|
+| 200037058 | 15,8 s | Overlay „WARM ENOUGH FOR WINTER? WATCH.“ (kein Ton außer Musik) | B (+A) | UK-Käufer mit Winter-Wärme-Einwand | keiner; KI-Render, Person in Weiß ohne Gesicht | 1,90 | Neugier/Skepsis → Beruhigung |
+| 200037053 | 15,7 s | Overlay „THIS IS A WINTER DUVET. YES, REALLY.“ | B (+A) | wie 058 | keiner; KI-Render | 1,91 | Neugier/Ungläubigkeit → Beruhigung |
+| 200037052 | 73,2 s | „My grandchildren are coming to stay this weekend, and the spare bed is already done.“ | A (+C, B, F-Gastgeber) | Großeltern ca. 70 mit Gästezimmer | VO ältere Frau („I'm 71“), POV-Hände; Bild wahrscheinlich KI (n. v.) | 1,78 | Erleichterung/Gastgeber-Stolz |
+| 200037051 | 15,8 s | Overlay „TOO THIN FOR WINTER? LOOK CLOSER.“ | B (+A) | wie 058 | keiner; KI-Render | 1,89 | Neugier/Skepsis → Beruhigung |
+| 200037049 | 79,9 s | „This is Bella. She sleeps on our bed every night…“ | A (+B, F-Haustier) | Hundebesitzer 60+ mit Enkeln | VO Frau („I'm 66“), Hände und Spaniel; Bild wahrscheinlich KI (n. v.) | 1,88 | Erleichterung (Problem: Unbehagen) |
+| 200037047 | 73,2 s | „Our friends left an hour ago, and their duvet is already in the wash…“ | A (+C, B, F-Gastgeber) | Großeltern ca. 70 mit Gästezimmer | VO wie 052, POV-Hände (inkonsistent); Bild wahrscheinlich KI (n. v.) | 1,91 | Erleichterung/Effizienz |
+| 200037045 | 79,9 s | „If your dog sleeps on your bed, when did you last wash the duvet?“ | A (+B, F-Haustier) | Hundebesitzer 60+ mit Enkeln | VO Frau („I'm 66“), Hände und Spaniel; Bild wahrscheinlich KI (n. v.) | 2,00 | Schuld/Ekel-Trigger → Erleichterung |
 
-- Bei curl ohne Cookie liefern pleene.com und pleene.uk `Shopify.country = "GB"` und `Shopify.currency = {"active":"GBP","rate":"1.0"}` und setzen die Cookies `localization=GB` und `cart_currency=GBP`.
-- Ein frischer Browser über den Proxy (US-IP) bekommt dagegen auf pleene.com `USD rate 1.3465326`. pleene.uk leitet ihn per JavaScript auf `pleene.com/products/easyrest?shpxid=…` in USD um. Das ist die Markt- bzw. Geo-Weiterleitung von Shopify.
-- Mit dem Cookie `localization=GB` zeigt pleene.com GBP. Ein UK-Besucher sieht also GBP.
-- Ob pleene.com GB-IPs auf pleene.uk umleitet, ist nicht verifiziert, da keine GB-IP verfügbar war. Für den Preis spielt das keine Rolle, weil beide Domains denselben Shop und dieselben GBP-Preise ausliefern.
+(n. v. = nicht verifiziert)
 
-**`/products/easyrest` und `/products/easyrest-duvet`, GBP** (Kaching-Bundle-Preise mit Playwright je Größe ausgelesen):
+---
 
-| Größe | 1 Stück | Vergleichspreis | 2er "Couple-Bundle" −10 % | Vergleich | 3er "Family-Bundle" −15 % | Vergleich |
-|---|---|---|---|---|---|---|
-| 90 × 200 cm (Narrow) | £74.99 | £114.99 | £135.00 | £229.98 | £191.25 | £344.97 |
-| 140 × 200 cm (Single) | £79.99 | £119.99 | £144.00 | £239.98 | £204.00 | £359.97 |
-| 160 × 210 cm (Single XL) | £84.99 | £129.99 | £153.00 | £259.98 | £216.75 | £389.97 |
-| 200 × 200 cm (Double) | £89.99 | £139.99 | £162.00 | £279.98 | £229.50 | £419.97 |
-| 230 × 230 cm (King) | £119.99 | £159.99 | £216.00 | £319.98 | £306.00 | £479.97 |
-| 260 × 220 cm (Super King) | £129.99 | £169.99 | £234.00 | £339.98 | £331.50 | £509.97 |
+##### Pflichtlisten-Prüfung Batch 4
 
-- Das Badge zeigt je nach Größe "SAVE 34 %", "33 %", "34 %", "35 %", "25 %" oder "23 %".
-- **Lavender Mist** hat auf `/products/easyrest` keinen Vergleichspreis. Es gibt dann kein Streichpreis- und kein SAVE-Badge, und der Kaching-Balken zeigt "You're saving £0.00".
-- Auf `/products/easyrest-duvet` hat Lavender Mist für alle Größen den Vergleichspreis £114.99. Bei King (£119.99) und Super King (£129.99) liegt der Vergleichspreis damit **unter** dem Verkaufspreis. Das ist ein Datenfehler.
-- Alle 60 Varianten sind verfügbar (`available: true`).
+| Ad | Transkript bzw. Vermerk | Hook gesprochen + eingeblendet | Aufbau mit Sekunden (fehlende Teile markiert) | Person/Sprecher + Echtheit | Setting | Avatar + Angle | Emotion | Schnitte/10 s | UT/Musik/VO | Zahlen wörtlich | Angebot | Varianten | Metadaten |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 200037058 | ✓ (Platzhalter; per Audio-Check nur Musik) | ✓ | ✓ (Problem, Verstärkung, Beweis fehlen) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 200037053 | ✓ (Platzhalter; per Audio-Check nur Musik) | ✓ | ✓ (Problem, Verstärkung, Beweis fehlen) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 200037052 | ✓ (vollständig) | ✓ | ✓ (Verstärkung schwach, gesprochener CTA fehlt) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 200037051 | ✓ (Platzhalter; per Audio-Check nur Musik) | ✓ | ✓ (Problem, Verstärkung, Beweis fehlen) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 200037049 | ✓ (vollständig) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 200037047 | ✓ (vollständig) | ✓ | ✓ (Verstärkung schwach, gesprochener CTA fehlt) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| 200037045 | ✓ (vollständig) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 
-**USD-Preise derselben Seite** (US-Preisliste, `/products/easyrest.js` mit USD; US-Besucher sollen laut Elevate-Konfiguration eigentlich auf die Comforter-Seite umgeleitet werden):
+**Offen bzw. nicht verifiziert:**
+- Ob die Bildspuren der vier Sprecher-Videos KI-generiert sind, lässt sich nur indirekt sagen (Artefakte, siehe die einzelnen Ads). Ob die Stimmen echt oder synthetisch sind, ist nicht prüfbar.
+- Ob in 049/045 unter dem Voiceover Musik liegt, ist nur aus dem Pegel geschlossen.
+- Die verwandten Varianten 200037059, 200037063 und 200037062/061/044 sind nur über ihre Transkripte abgeglichen; die Videos wurden nicht analysiert (nicht Teil dieses Batches).
+- Reichweite und Spend: n/a.
 
-| Größe | Preis | Vergleichspreis |
+
+### S2 – Creative-Tiefenanalyse, Video-Batch 5 (Agent 2)
+
+Stand: 2026-10-08 · Marke Pleene (UK) · Produkt EasyRest · 7 Video-Ads: 200037044, 200490719, 200490716, 200490712, 200490708, 200490701, 200490657.
+
+Keine dieser IDs steht auf der Top-20-Liste. Zwei Dateien sind aber **byte-identisch mit Top-20-Videos**: 200490712 = 168246678 und 200490701 = 139561410. Für diese beiden habe ich deshalb wie bei 3b an jedem erkannten Schnitt einen Frame angesehen und eine vollständige Szenenliste erstellt. Bei allen anderen Videos habe ich das ebenfalls getan, weil die Schnittzahl klein genug war (max. 18 Schnitte).
+
+**Methodik und Quellen**
+- **Metadaten:** GetHooked `get_ad`, abgerufen am 2026-10-08 gegen 16:50 UTC. Wo die Live-Werte von `agent1_enriched.json` abweichen, steht das in der Tabelle unten.
+- **Transkripte:** `get_transcription_status` (aus dem abgebrochenen Lauf, Notiz `wf/s2b5_api/transcription_status_note.txt`) und `get_ad`. Alle 7 Ads sind „complete“:
+  - 200037044 und 200490716: echte Transkripte.
+  - 200490719 („Thanks for watching!“), 200490708 („🎵Outro Music🎵“), 200490701 („the next, video!!“): Platzhalter.
+  - 200490712 und 200490657: `no_speech`.
+  - `transcribe_ads` war deshalb nicht nötig.
+- **Videos:** `wf/vid/<id>.mp4`. Laut ffprobe alle 720×1280 (9:16), H.264 + AAC Stereo. Rohdaten: `wf/s2b5_meta/<id>.probe.json`.
+- **MD5-Abgleich gegen alle 34 Dateien in `wf/vid/`:**
+  - 200490712 = **168246678** (Batch 2, Top-20, Score 100), md5 `723e0be36eeea3ea93d413a42e7d6e46`
+  - 200490701 = **139561410** (Batch 1, Top-20, Score 100) = **185228755** (Batch 3), md5 `b98b8b49e94b01d46d71c5e548dfca4b`
+  - Eigenständig sind: 200037044 (`322c983d…`), 200490719 (`f4ee5323…`), 200490716 (`d8827123…`), 200490708 (`0c5cc8ef…`), 200490657 (`b6079d50…`).
+- **Ton-Kreuzkorrelation** (`wf/s2b5_scripts/xcorr.py`): 200037044, 200490719, 200490716, 200490708 und 200490657 jeweils gegen alle anderen 33 Videos in `wf/vid/`. Ergebnis: **kein Treffer > 0,3**, auch nicht gegen die Batch-4-Videos 200037045–200037058. Gegenprobe: 200490712 gegen 168246678 ergibt 1,0000 bei Lag 0 (Protokoll: `wf/s2b5_meta/xcorr_hits.txt`).
+- **Schnitte:** `ffmpeg select='gt(scene,0.3)',showinfo`, zusätzlich mit Schwelle 0,15. Rohdaten: `wf/s2b5_meta/<id>.scenes03.txt` / `.scenes015.txt`. Ein Szenenwert bei 0,03 s nach einem schwarzen Startframe (200490719, 200490657) ist eine Einblendung und zählt **nicht** als Schnitt.
+- **Frames:** `wf/frames/<id>/`, Raster:
+  - 0, 1, 2, 3 s, danach alle 1 s (bei Videos ≤ 16 s), 2 s (bei 22–30 s) bzw. 2,5 s (bei 44–47 s);
+  - dazu ein Frame je erkanntem Schnitt (+0,2 s) und ein Schlussframe;
+  - bei 200037044 zusätzlich 8 Untertitel-Frames.
+  - Anzahl Frames: 200037044: 48 · 200490719: 20 · 200490716: 32 · 200490712: 24 · 200490708: 21 · 200490701: 22 · 200490657: 26.
+  - Alle habe ich als Kontaktbögen (`wf/s2b5_sheets/`) mit dem Read-Tool angesehen, Detailausschnitte zusätzlich in Originalauflösung (`200490716_endcard.jpg`, `200490716_detail.jpg`, `200490708_detail.jpg`).
+- **Audio-Checks:**
+  - `volumedetect` und `silencedetect` (−40 dB / 0,4 s): bei keinem der 7 Videos Stille.
+  - Spektrogramme: `wf/s2b5_audio/spec_sheet.png` (5 Musik-Kandidaten), `spec_voice.png` (2 Sprach-Videos).
+  - Lokale **Whisper-Gegenprobe** (faster-whisper `small.en`, offline, aus dem Batch-2-venv): `wf/s2b5_meta/asr_small_en.txt` / `.json`.
+  - Grundfrequenz-Schätzung (YIN-artig, `wf/s2b5_scripts/f0hist.py`). Das ist nur ein Indiz, **nicht verifiziert**.
+- **ElevenLabs habe ich nicht eingesetzt.** Kein Transkript dieses Batches enthält falsch erkannte Sprache. Die 3 Platzhalter und die 2 „no_speech“-Fälle sind per Audio-Check eindeutig reine Musik.
+- **Verwandte Ads:** zusätzlich `get_transcription_status` für 200037061, 200037062, 200036996, 200490714, 200490654, 177443533, 185228773, 185228764, 168246672 (kostenlos, nur lesend).
+- **Was GetHooked nicht liefert:**
+  - Für GB keine Reichweite und keinen Spend.
+  - `ai_badge` ist bei allen 7 Ads `null`. Laut GetHooked heißt das ausdrücklich nicht „human-made“.
+  - `script_anatomy` steht überall auf „not_analysed“, `creative_insights` ist `null`.
+  - `on_screen_text` ist leer. Alle Einblendungen unten habe ich selbst von den Frames abgelesen.
+- **Schreibweisen:** Die Whisper-Transkripte schreiben die Marke uneinheitlich („Plene“, „Plein“, „Plein Egg“). Laut Untertiteln und Endkarten heißt sie „Pleene“. Zitiert wird trotzdem **wörtlich** nach GetHooked.
+
+**Metadaten-Abweichungen (Live-Wert `get_ad` vom 08.10. hat Vorrang)**
+| Ad | Feld | agent1_enriched | get_ad 08.10. |
+|---|---|---|---|
+| 200037044 | performance_score | 22 | **44 („Scaling“)** |
+| 200490719, 200490716, 200490708, 200490701, 200490657 | performance_score | 12 | **30 („Testing“)** |
+| 200490712 | Status / Score / Tage | aktiv / 12 / 3 | **inactive**, end_date 2026-10-07, **Score null (n/a)**, 2 Tage (start_to_end_date) |
+| 200490719, 200490716, 200490712, 200490708, 200490701 | Länder | – | `countries: []` (n/a) |
+| 200490657 | Länder | – | **`["US"]`**, Landingpage `/products/easyrest-comforter` |
+
+**Wichtigste Querbefunde des Batches**
+1. **Zwei der 7 IDs sind Kopien von Top-20-Gewinnern.** Pleene lädt dieselbe Datei mit gleicher Copy erneut hoch:
+   - 200490712 ist 168246678 (Checkliste „Before you buy a coverless duvet“).
+   - 200490701 ist 139561410 (Mint-Green-Knappheit), ebenso wie schon 185228755 aus Batch 3.
+   - 200490712 ist laut GetHooked nach 2 Tagen schon wieder inaktiv (end_date 2026-10-07).
+2. **200037044 gehört zu einem Hook-Test mit 3 Varianten.** Alle starteten am 2026-10-05, der Skript-Körper ist ab „Because that's the thing with a normal duvet“ laut GetHooked-Transkripten wortgleich. Die Hooks:
+   - 200037044: „Quick question, when you change your bed, what actually gets washed? … The duvet? Never.“
+   - 200037061: „How old is the duvet you slept under last night? Mine was 12 years old, and in 12 years it had never once been washed.“
+   - 200037062: „If a guest asked you when you last washed your duvet, not the cover, the duvet, what would you say?“. Das ist zugleich der Primärtext von 200037044.
+
+   Damit ist 200037044 das einzige Video des Batches mit klarem **Hygiene-Angle (A)**: „Mine hadn't been washed in years“. Dazu kommen Tog/Wärme (B) und Angebot „30% off + 2 free“.
+3. **Neues Format „Seniorin“ (200490716).** Eine ca. 65–75-jährige Frau, laut Einschätzung **wahrscheinlich KI-generiert**, spricht im Selfie-Stil über Schulter- und Rückenschmerzen beim Beziehen. Das ist der einzige Batch-Vertreter von **Angle E** (körperliche Beschwerden). Dazu kommen F-Selbstständigkeit im Alter („I can make my own bed again without it hurting“) und ein Geschenk-Anklang („my daughter got me“).
+   - **Widerspruch:** Gesprochen wird „two free Plein pillowcases worth £39.99“, auf der Endkarte steht „Value £49.99“.
+4. **Zwei Musik-only-Videos mit „Ich“-Untertiteln.** 200490719 und 200490657 erzählen eine Ich-Geschichte nur als Text-Einblendung („I got rid of my duvet cover, and I'm never going back.“ / „This is your sign to rethink your duvet.“), ohne Sprache.
+   - Beide nutzen dieselbe Schnittvorlage: schwarzer Vorlauf 0–0,23 s, Serifen-Untertitel in halbtransparenter grauer Box, schwarze Endkarte „Pleene.“ / „SHOP NOW“, 29,97 fps / 48 kHz.
+   - 200490657 verwendet **Footage aus demselben Dreh wie 200037044**: gleicher Darsteller, gleiches grünes Schlafzimmer, gleicher gelb-karierter Bezug, gleiche silberne Waschmaschine auf blau gemusterten Fliesen (visuell abgeglichen).
+   - 200490719 nutzt dagegen anderes, US-anmutendes Material: Toplader-Waschmaschine, Wäscheleine im Garten (Einschätzung).
+5. **US-Test (Interpretation, nicht verifiziert).** 200490657 ist laut GetHooked auf **US** ausgerichtet und verlinkt auf `/products/easyrest-comforter`. Die Schwester-Ad 200490654 (gleiche Headline) hat laut GetHooked-Transkript ein gesprochenes US-UGC-Skript: „Making the bed just got a whole lot easier with Clean, a machine washable comforter …“.
+6. **Widersprüchliche Trocknungs-Claims** innerhalb desselben Batches:
+   - „then the tumble dryer, and it's dry in 2 hours“ (200037044, 200490716 sinngemäß)
+   - „Is it dry in 2 hours without a tumble dryer?“ / „2 hours. No dryer.“ (200490712)
+   - „Two hours later, it's dry“ mit Wäscheleine im Garten (200490719)
+   - „Fits in any washing machine.“ (200490708) gegenüber „normal 7kg washing machine“ (200037044)
+7. **Kein einziges Video dieses Batches erwähnt Milben, Bakterien oder Schweiß.** Hygiene läuft nur über „ganze Decke waschen“ und „jahrelang nie gewaschen“. Temperatur kommt nur als „10.5 Tog … as warm as a winter duvet“, „never feels stuffy“ und „cool in summer and warm in winter“ vor.
+8. **Angebot uneinheitlich:**
+   - „30% off + 2 free Plene pillowcases“ (200037044).
+   - „2 free … worth £39.99“ gesprochen, aber „Value £49.99“ eingeblendet (200490716).
+   - „Value £39.99“ (200490712, 200490708).
+   - „£39.99“ durchgestrichen + „this week only“ + „Only 26 left in Mint Green“ (200490701).
+   - **Gar kein Angebot** in 200490719 und 200490657.
+
+---
+
+#### Video 200037044 – When Did You Last Wash Your Duvet?
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID | 200037044 (Media 527527932) |
+| Meta-ID | 2217517888813082 |
+| Ad Library | https://www.facebook.com/ads/library/?id=2217517888813082 |
+| share_url | https://app.gethookd.ai/share/ad/200037044?signature=a19c242b496cbc5e92ce74a3a3303e782e4f5f6f23b854194823c49f93fb0260 |
+| Start / Tage aktiv | 2026-10-05 / 4 (start_to_today, active) |
+| performance_score / used_count | 44 („Scaling“) / 1 (enriched: 22) |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | https://pleene.com/products/easyrest (page_type product_page) |
+| Link-Beschreibung | „Coverless duvet · The whole duvet, washed at home · 30% off + 2 free pillow cases“ |
+| Plattformen / Länder | facebook, instagram, audience_network, threads / GB |
+| Technik | 46,86 s · 720×1280 · 25 fps · AAC 44,1 kHz · mean −17,0 dB, max −3,5 dB, keine Stille |
+| Schnitte | 0,3: **17** = **3,63 pro 10 s** (0–10 s: 5 · 10–20: 5 · 20–30: 3 · 30–40: 3 · 40–46,9: 1); 0,15: 18 (+24,72) = 3,84 pro 10 s |
+
+**Primärtext (wörtlich):** „🛏️ If a guest asked you when you last washed your duvet, not the cover, the duvet, what would you say? / For a lot of us the honest answer is never, because it doesn't fit in the machine. / ✓ Pleene EasyRest: cover sewn in, you wash the WHOLE duvet / ✓ Normal 7kg machine, then the tumble dryer, dry in 2 hours 🧺 / ✓ 10.5 tog, every bit as warm as a winter duvet, just without the weight / 🎁 30% off + 2 FREE matching pillow cases.“
+
+**Transkript (GetHooked, vollständig, wörtlich):**
+| Sek. | Text |
+|---|---|
+| 0.00–2.80 | „Quick question, when you change your bed, what actually gets washed?“ |
+| 2.80–5.60 | „The sheets? Yes. The cover? Yes. The duvet? Never.“ |
+| 5.60–7.30 | „Because that's the thing with a normal duvet.“ |
+| 7.30–9.50 | „The cover gets washed, the duvet itself doesn't.“ |
+| 9.50–10.90 | „Because it won't fit in the machine.“ |
+| 10.90–13.60 | „Mine hadn't been washed in years, and I'd never even thought about it.“ |
+| 13.60–16.70 | „So I switched to the Plene EasyRest, and now I wash the whole duvet.“ |
+| 16.70–18.10 | „It's a duvet and cover in one.“ |
+| 18.10–20.20 | „The cover is sewn in, so you never take it off.“ |
+| 20.20–21.90 | „You just wash the whole duvet in one piece.“ |
+| 21.90–24.60 | „The double goes straight into my normal 7kg washing machine,“ |
+| 24.60–26.80 | „then the tumble dryer, and it's dry in 2 hours.“ |
+| 26.80–30.20 | „Sheets, pillowcases, and the duvet itself, all washed on the same morning.“ |
+| 30.20–34.20 | „It's 10.5 Tog, so it's every bit as warm as a winter duvet, just without the weight.“ |
+| 34.20–36.60 | „And the breathable fibres mean it never feels stuffy on you.“ |
+| 36.60–38.60 | „I swear to you, my bed always feels fresh.“ |
+| 38.60–41.00 | „And the Plene pillowcases really do feel super soft.“ |
+| 41.00–45.00 | „Right now, the EasyRest is on offer with 30% off, plus 2 free Plene pillowcases.“ |
+| 45.00–46.60 | „Tap the link below and have a look.“ |
+
+**Audio:** Voiceover über die ganze Länge.
+- Im Spektrogramm (0–15 s) liegen Sprachformanten über einem durchgehenden tieffrequenten Band. Das deutet auf einen leisen Musik- oder Klangteppich hin (**nicht verifiziert**).
+- Kein O-Ton: Keine Person spricht sichtbar in die Kamera. Der Mann hat in allen Frames den Mund geschlossen oder lächelt, die Frau sitzt stumm im Bett.
+
+**Hook (0–3 s)**
+- Gesprochen: „Quick question, when you change your bed, what actually gets washed?“ (bis 2,8 s), danach „The sheets? Yes. The cover? Yes. The duvet? Never.“ (2,8–5,6 s).
+- Eingeblendet (Untertitel): „Quick question: / when you change your bed,“ (0–1,76), „what actually gets washed?“ (1,76–ca. 2,8), „The sheets, yes. The cover, yes.“ (ab ca. 2,8).
+- Bild: Ein Mann (ca. 35–45) zieht im grünen Schlafzimmer einen gelb-karierten Bezug vom Bett. Ab 1,76 s neuer Winkel: Er nimmt den Bezug von der weißen Decke.
+- Hook-Typ: Quiz-Frage mit „Ertappt“-Pointe („The duvet? Never.“).
+
+**Untertitel / Einblendungen (alle angesehenen, wörtlich).** Stil: Wort-synchrone Untertitel, schwarze fette Kursivschrift in weißer abgerundeter Box, mittig (CapCut-Stil). Sie geben das Skript fast vollständig wieder.
+- „Quick question: / when you change your bed,“ (0,0–1,76)
+- „what actually gets washed?“ (1,96–2,0)
+- „The sheets, yes. The cover, yes.“ (3,0)
+- „The duvet? Never.“ (4,88–5,5)
+- „Because that's the / thing with a normal duvet:“ (5,84)
+- „the cover gets washed, / the duvet itself doesn't,“ (7,56–8,0)
+- „because it won't fit in the machine“ (9,76–10,5)
+- „Mine hadn't been washed in years,“ (11,4–12,0)
+- „and I'd never / even thought about it“ (12,52–13,0)
+- „So I switched to the Pleene EasyRest,“ (13,88)
+- „and now I wash the whole duvet“ (15,5–15,56)
+- „It's a duvet and cover in one“ (16,96–18,0)
+- „The cover is sewn in, / so you never take it off,“ (18,4–19,5)
+- „you just wash / the whole duvet in one piece“ (20,48–20,5)
+- „The Double goes straight into / my normal 7kg washing machine,“ (23,0)
+- „then the tumble dryer,“ (24,92–25,5)
+- „and it's dry in 2 hours.“ (25,84–26,5)
+- „Sheets, pillowcases / and the duvet itself,“ (28,0)
+- „all washed on the same morning“ (29,32)
+- „It's 10.5 tog, so it's every / bit as warm as a winter duvet,“ (30,48–33,0)
+- „just without the weight,“ (33,6)
+- „and the breathable fibres / mean it never feels stuffy on you“ (34,48–35,5)
+- „I swear to you, / my bed always feels fresh.“ (36,92–38,0)
+- „And the Pleene Pillow / Cases really do feel super soft.“ (39,3–40,5)
+- „Right now the EasyRest is on / offer with 30% off,“ (41,32–43,0)
+- „plus two free Pleene Pillow Cases.“ (44,2)
+- „Tap the link below and have a look“ (45,5–46,7)
+
+Abweichungen zum gesprochenen Text: Untertitel „two“ statt „2“, „Pleene“ statt „Plene“.
+
+**Szenenliste (an jedem Schnitt angesehen)**
+| Sek. | Szene |
+|---|---|
+| 0,00–1,76 | Grünes Schlafzimmer mit Fenster und Holz-Kopfteil; der Mann zieht den gelb-karierten Bezug |
+| 1,76–4,68 | Anderer Winkel aufs Bett mit weißer Matratzenauflage; der Mann schüttelt den Bezug von der weißen Decke |
+| 4,68–5,64 | Nahaufnahme Hand greift in die weiße Innendecke („The duvet? Never.“) |
+| 5,64–7,36 | Totale Schlafzimmer (Schiebeschrank, oranger Lampenschirm); der Mann knüllt die weiße Decke |
+| 7,36–9,56 | Mann vor Spiegelschrank schüttelt einen Bezug mit Tropenmuster |
+| 9,56–12,32 | Silber-weiße Frontlader-Waschmaschine (Bosch-Logo erkennbar); Person im grauen Hoodie stopft die weiße Decke hinein, sie passt sichtbar nicht |
+| 12,32–13,68 | Nahaufnahme: Decke quillt aus der Trommel |
+| 13,68–15,36 | **Frau** (ca. 45–55, dunkles Haar, Zopf, weißes T-Shirt) sitzt im Bett mit **blauer** EasyRest, anderes Schlafzimmer (gepolstertes graues Kopfteil) |
+| 15,36–16,76 | Dieselbe Frau im Pyjama kniet in einer Küche vor einer Samsung-Waschmaschine und lädt die blaue Decke |
+| 16,76–18,20 | Blick durch eine Tür: die Frau breitet die blaue Decke über das Bett |
+| 18,20–20,28 | Nahaufnahme Hände auf **mintgrüner** Decke, grüne Wand |
+| 20,28–24,72 | Silberne Waschmaschine auf blau gemusterten Fliesen; Hände schieben die mintgrüne Decke hinein |
+| 24,72–25,64 | Hand schließt die Tür (Decke in der Trommel) |
+| 25,64–29,12 | Der Mann hält die mintgrüne Decke im Arm und befühlt sie |
+| 29,12–30,28 | Der Mann breitet die Decke übers Bett |
+| 30,28–34,28 | Der Mann sitzt im Bett und umarmt die Decke, Augen geschlossen, lächelt |
+| 34,28–36,72 | Der Mann liegt im Bett, Hände auf der Brust |
+| 36,72–41,12 | Nahaufnahme: gemachtes Bett mit mintgrünen Kissen, Arm zupft die Decke zurecht |
+| 41,12–46,86 | Draufsicht: der Mann taucht unter der Decke auf, liegt zufrieden und umarmt sie |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
 |---|---|---|
-| Narrow | $109.99 | $149.99 |
-| Single | $119.99 | $159.99 |
-| Single XL | $129.99 | $169.99 |
-| Double | $149.99 | $199.99 |
-| King | $179.99 | $229.99 |
-| Super King | $194.99 | $244.99 |
+| Hook | 0–5,6 | Quiz-Frage, Pointe „The duvet? Never.“ |
+| Problem | 5,6–10,9 | „The cover gets washed, the duvet itself doesn't. Because it won't fit in the machine.“ Bild: weiße Decke passt nicht in die Maschine |
+| Verstärkung | 10,9–13,6 | „Mine hadn't been washed in years, and I'd never even thought about it.“ (Scham- bzw. Ertappt-Moment) |
+| Lösung | 13,6–18,1 | „So I switched to the Plene EasyRest … It's a duvet and cover in one.“ |
+| Mechanismus | 18,1–30,2 | Bezug eingenäht; „wash the whole duvet in one piece“; „normal 7kg washing machine“; „tumble dryer … dry in 2 hours“; „all washed on the same morning“ |
+| Beweis | 30,2–41,0 (schwach) | Ich-Erfahrung + Demo: „10.5 Tog … as warm as a winter duvet“, „never feels stuffy“, „I swear to you, my bed always feels fresh.“ Keine Fremdbelege (keine Reviews, Tests, Kundenzahlen) |
+| Angebot | 41,0–45,0 | „30% off, plus 2 free Plene pillowcases“ |
+| CTA | 45,0–46,6 | „Tap the link below and have a look.“ + Button „Shop now“ |
 
-Das sind Festpreise und keine Umrechnung: £74.99 × 1.3465 = $100.97, verlangt werden $109.99.
+**Wer ist zu sehen / wer spricht**
+- Ein Mann, ca. 35–45 (kurze dunkle Haare, Bart, graues T-Shirt, Smartwatch). Er ist der Hauptdarsteller und eher Rollen-Testimonial als Experte.
+- Eine Frau, ca. 45–55, in einer zweiten Wohnung.
+- Eine Person im grauen Hoodie (nur Rumpf und Arme) an einer dritten Waschmaschine.
+- Alle drei sind laut Einschätzung **echte Personen (UGC-Footage)**. Begründung: Handkamera, reale Wohnungen mit Alltagsgegenständen, drei verschiedene Waschmaschinen (Bosch, Samsung, silbernes Modell), natürliche Bewegungen, keine typischen Render-Artefakte.
+- Sprecher: **nur Voiceover**, keine Lippensynchronität im Bild.
+  - Stimm-Geschlecht **nicht verifiziert**: f0-Median 167 Hz (p25 155 / p75 186 Hz) liegt im Grenzbereich zwischen hoher Männer- und tiefer Frauenstimme.
+  - Ob die Stimme KI-generiert ist, ist **nicht verifiziert**. Ein Indiz für einen wiederverwendeten Ton-Körper: Die Satz-Dauern sind in allen drei Hook-Varianten auf 0,1 s gleich (z. B. „It's a duvet and cover in one.“ jeweils 1,4 s).
 
-**`/products/easyrest-comforter`, beide Preiswelten:**
+**Setting:** drei private Schlafzimmer (grüne Wand mit Holz-Kopfteil; graues Polster-Kopfteil), Küche bzw. Hauswirtschaftsraum mit drei verschiedenen Waschmaschinen.
 
-| Größe | GBP 1 Stück (Vergleich) | GBP 2er | GBP 3er | **USD 1 Stück (Vergleich)** | **USD 2er (Vergleich)** | **USD 3er (Vergleich)** |
-|---|---|---|---|---|---|---|
-| Single (55 × 79 in) | £69.99 (£119.99) | £126.00 (£239.98) | £178.50 (£359.97) | $139.99 ($199.99) | $252.00 ($399.98) | $357.00 ($599.97) |
-| Twin (63 × 83 in) | £74.99 (£129.99) | £135.00 (£259.98) | £191.25 (£389.97) | $159.99 ($219.99) | $288.00 ($439.98) | $408.00 ($659.97) |
-| Full (79 × 79 in) | £79.99 (£139.99) | £144.00 (£279.98) | £204.00 (£419.97) | $169.99 ($229.99) | $306.00 ($459.98) | $433.50 ($689.97) |
-| Queen (91 × 91 in) | £109.99 (£169.99) | £198.00 (£339.98) | £280.50 (£509.97) | $199.99 ($259.99) | $360.00 ($519.98) | $510.00 ($779.97) |
-| King (102 × 86 in) | £119.99 (Vergleich = Preis, kein Rabatt) | £216.00 (£239.98) | £306.00 (£359.97) | $219.99 ($279.99) | $396.00 ($559.98) | $561.00 ($839.97) |
+**Avatar / Angle**
+- **Avatar:** Haushaltsführende in UK, ca. 35–60, die ihre Bettdecke noch nie gewaschen haben und das bisher nicht hinterfragt haben. Sekundär Menschen, die sich sorgen, eine leichte Decke sei im Winter zu kalt.
+- **Angle A** (Hygiene: ganze Decke waschen, „never washed in years“) als Haupt-Angle. Dazu **B** (10.5 Tog, warm, „never feels stuffy“), **C** sekundär (Bezug eingenäht, „never take it off“) und **F-Angebot**.
 
-- In der GBP-Ansicht hat Comforter King keinen Rabatt, da der Vergleichspreis dem Preis entspricht. Lavender Mist hat in den Größen Single bis Queen keinen Vergleichspreis.
-- Die Zielgruppe dieser Seite (US-Ads) sieht die USD-Spalte. Die GBP-Werte zeigen nur, was ein UK-Besucher dort sehen würde.
+**Haupt-Emotion:** Ertappt-Sein bzw. leichte Scham („The duvet? Never.“, „Mine hadn't been washed in years“), danach Erleichterung und Frische („my bed always feels fresh“).
 
----
+**Schnitttempo / Untertitel / Ton:** 3,63 Schnitte pro 10 s (0,3), Feinwert 3,84. Untertitel ja (CapCut-Stil, weiße Box, schwarze fette Kursivschrift, wortsynchron). Ton: Voiceover, darunter vermutlich ein leiser Musikteppich (nicht verifiziert). Kein O-Ton.
 
-### 3.3 Seite 1: `pleene.com/products/easyrest` (83 Ads, GB) — Produktseite
+**Zahlen und Behauptungen (wörtlich):** „The duvet? Never.“ · „won't fit in the machine“ · „Mine hadn't been washed in years“ · „The cover is sewn in“ · „normal 7kg washing machine“ · „then the tumble dryer, and it's dry in 2 hours“ · „all washed on the same morning“ · „10.5 Tog“ · „every bit as warm as a winter duvet, just without the weight“ · „breathable fibres“ · „never feels stuffy on you“ · „my bed always feels fresh“ · „30% off, plus 2 free Plene pillowcases“. Primärtext zusätzlich: „For a lot of us the honest answer is never“.
 
-**Above the Fold, mobil** (Screenshot `render/com_products_easyrest_mobile_atf_clean.png`):
+**Angebotspräsentation:** nur gesprochen und als Untertitel („on offer with 30% off, plus 2 free … pillowcases“). Keine Endkarte, kein £-Wert, keine 90 Nächte, keine Knappheit. Die Link-Beschreibung wiederholt „30% off + 2 free pillow cases“.
 
-- Header: Burger-Menü, Logo "Pleene.", UK-Flagge, Suche, Warenkorb.
-- Braunes Laufband mit drei Slides, die alle 3,5 s rotieren (aus dem HTML): "Cosy Season Is Here — **Sleep Warm All Winter**" / "Free Shipping On Orders Over £100" / "90 Nights Risk-Free — Try It In Your Own Bed".
-- Hauptbild: blaue EasyRest™-Decke ("Coastal Blue") von oben auf einem Doppelbett mit zwei Kissen und Holz-Nachttischen. Das Bild ist KI-typisch glatt; der Dateiname `hf_20260914_…` deutet auf Higgsfield-Generierung hin (nicht verifiziert).
-- Darunter 17 Galerie-Thumbnails.
-- H1 "Pleene EasyRest™ Duvet", fünf gelbe Sterne, "172 reviews".
-- Preis "£74.99 ~~£114.99~~", Badge "SAVE 34%".
-- Bullets: "✔️ **10.5 TOG — proper winter warmth**", "✔️ Warm without overheating", "✔️ Never change bedding again", "✔️ Fits in every washing machine".
-- Am Fold-Rand beginnt der blaue Badge-Kasten "🎁 Free with every duvet today".
-- **Pop-up:** Bereits nach 4 s liegt das Klaviyo-Pop-up über der Seite (Screenshot `render/com_products_easyrest_mobile_atf_t4.png`). Motiv: ein lachendes Senioren-Paar, das gefaltete Decken in Mint und Blau hält. Text: "Win a free Duvet" / "One subscriber wins a duvet of their choice every month. Any size, any colour." / "Your email address" / Button "Enter the giveaway".
-
-**Above the Fold, Desktop** (`render/com_products_easyrest_desktop_atf_clean.png`):
-
-- Navigation: "Home", "EasyRest™ Duvet" (hervorgehoben), "All Products", "Track Your Order", "About Us", "Contact", dazu der Länderwähler "United Kingdom | GBP £", Login und Warenkorb.
-- Laufband.
-- Links das Galerie-Bild, rechts H1, Sterne, Preis, Bullets und der Geschenk-Kasten "🎁 Free with every duvet today / 2 Pleene™ Pillow Cases **(Value: £39.99)**".
-- Darunter "STOCK UP & SAVE" mit drei Kaching-Balken:
-  - "Buy 1, Get 2 Pillow Cases FREE / You're saving £40.00 / £74.99 ~~£114.99~~"
-  - **vorausgewählt** "Couple-Bundle" "Buy 2, Get 4 Pillow Cases FREE" "10% OFF" "You're saving £94.98" "£135.00 ~~£229.98~~", mit zwei Farb- und Größen-Dropdowns
-  - "Family-Bundle" "Buy 3, Get 6 Pillow Cases FREE" "15% OFF" "£191.25"
-- Badges: "SAVE 34%", "Couple-Bundle", "Family-Bundle", "10% OFF", "15% OFF". Unter dem Fold folgen "Ready to Ship – Limited Stock" mit grünem Punkt und die Zahlungs-Icons Mastercard, Visa, PayPal, Amex, Apple Pay, Google Pay und Klarna.
-
-**Seitenaufbau, Abschnitt für Abschnitt** (Überschriften wörtlich):
-
-1. Header und Laufband (siehe oben).
-2. Hauptbereich:
-   - Galerie mit 17 Bildern. Bildtexte, die gelesen werden konnten:
-     - "90 Night Free Trial / FREE today: 2x EasyRest™ Pillowcases / Value £39.99"
-     - "Duvet + Cover in one. / Completely washable." mit "Dries indoors in hours", "Wash as often as your sheets", "Fits a standard washing machine"
-     - "10.5 TOG. Built for British winters. / Pleene™ Microfibre Technology" mit "The standard UK winter weight", "Warmth without the weight", "Never clammy, never cold"
-     - Testimonial-Bild "Robert, 61: "I nearly didn't order this. A whole duvet in the washing machine? And it felt so light I thought I'd freeze in winter. Wrong on both. Fits my 7kg machine easily, and we've had frost all week without me needing the spare blanket. Should have bought it years ago."" mit dem Zusatz "10,000+ people enjoy sleeping with the Pleene™ Duvet"
-     - "Susan, 62: „I'm always the cold one in our house, but under some duvets I'd still wake up boiling at 3am. With this one, neither happens. Not cold, not sweating. No idea how it does that, but it does. Couldn't recommend it more.😍""
-     - Collage "10,000+ people already sleep with the Pleene™ Duvet. / 90-Night Free Trial. Money back, no questions asked."
-     - dazu Farbbilder
-   - H1, Preis, Bullets, Geschenk-Kasten, "STOCK UP & SAVE" (Kaching).
-   - "What size do I need?" öffnet die Größentabelle mit "Sizing Chart" / "Between two sizes? Go bigger — especially if you share a bed or move a lot in your sleep." und zwei Tabellenbildern (s. u.).
-   - "Ready to Ship – Limited Stock", "ADD TO CART", Zahlungs-Icons.
-   - 4 Akkordeons: "What is the TOG rating?" / "How do I wash and dry the Pleene™ duvet?" / "Does the Pleene™ duvet fit in my washing machine?" / "It looks thin — is it really warm enough?"
-3. "★★★★★ **Real customers, real results**" / "Tap a clip to hear what they have to say": drei Hochkant-UGC-Videos mit den Namen "Peter", "Brian" und "Dave" (101 s, 42 s, 53 s). Auf den Standbildern sind ältere Männer in britischen Wohnungen zu sehen, einer sitzt auf einer hellblauen EasyRest. Ton nicht transkribiert, siehe 3.13.
-4. "**10.5 TOG. Built for cold nights.**" / "On the UK scale, 10.5 TOG is the standard winter weight — what most households sleep under from autumn through to spring." / "10.5 TOG / Full winter warmth, in a duvet that still goes in your washing machine." / "✓ Warm in winter, cool in summer" "✓ Temperature regulating, all year round" "✓ Not sure? 90 nights to change your mind"
-5. "**Feels weightless. Sleeps warm.**" / "No heavy duvet pressing down on your chest. The EasyRest™ rests lightly on you and still carries a full 10.5 TOG of winter warmth." / "That's because warmth comes from the air held between the fibres, not from weight. You get the heat without the load — and it still fits in your washing machine." / "✓ All the warmth, none of the weight" "✓ Temperature regulating — warm, never clammy"
-6. "**Never make the bed the hard way again**" / "No more duvet covers. No more wrestling. No more effort." / "We know how frustrating it is to fight with a separate cover every time — especially on a cold morning." / "The Pleene EasyRest™ combines duvet and cover in one." / "✓ No separate cover needed" "✓ A fresh bed in seconds"
-7. "**Washable like bed linen**" / "The Pleene EasyRest™ fits in any normal washing machine." / "Winter bedding usually goes months without a proper wash, because the duvet itself never goes in. Only the cover does." / "With Pleene EasyRest™, everything goes in. One wash. All clean." / "Air dries in 2 hours — or even faster in the dryer."
-8. "★★★★★ Over 10,000 customers now sleep more comfortably with Pleene EasyRest™" / "**Try Pleene EasyRest™ 90 nights risk-free**", dazu 5 Karten mit "✓ Verified":
-   - "Margaret, 67": "At my age, wrestling a duvet into its cover was such a struggle. This is an absolute godsend — I can make my bed on my own again."
-   - "James, 55": "Looks far too thin to work in January. It absolutely does — not once been cold."
-   - "Sarah, 41": "Changing the bed used to be my most dreaded chore. Now the whole thing just goes in the wash — honestly a game changer."
-   - "Robert, 50": "Straight in the machine and done. This is how bedding should be."
-   - "David, 58": "My wife runs cold and I run hot. First winter duvet we've agreed on in years."
-   - Keines dieser Zitate kommt in den 291 Trustpilot- oder 172 Judge.me-Bewertungen vor. Das "Verified" ist nicht verifizierbar.
-9. "**Frequently Asked Questions**": 8 Fragen, wörtlich unten.
-10. "**The Cosy Bundle**" / "The EasyRest™ keeps you warm at 10.5 TOG. The CosyRest™ throw goes over the top for the nights when that isn't quite enough — and lives on the sofa the rest of the time. Your whole winter bed, in one order." Angeboten werden EasyRest £74.99 ~~£114.99~~ und "Pleene CosyRest™ — Reversible Sherpa Throw" £59.99 ~~£77.99~~, "Total Price: £134.98 ~~£192.98~~", "Add selected to cart". Einen Extra-Rabatt auf das Bundle gibt es nicht.
-11. "Customer Reviews" (Judge.me): "4.8", "172 reviews", "Write a review", Sortierung, 35 Seiten.
-12. Newsletter: "**Join the hassle-free bedding movement**" / "Early access, restock alerts and the occasional bed-making tip you'll actually use."
-13. Footer: "The #1 for Hassle-Free Bedding" / "Pleene is more than just an online shop — it's a movement to free people from the endless struggle of changing bed linen, through clever, high-quality bedding." Darunter das Impressum (One Way Ecom Limited, Hongkong, "Tel.: +1 (205) 360-5811", "pleene.com is operated by One Way Ecom Limited. Advertising for this store is managed on our behalf by 21Commerce Limited, registered at the same address.") und die Länderwahl "United Kingdom (GBP £)".
-
-**Akkordeons im Hauptbereich (wörtlich):**
-
-- "What is the TOG rating?" — "10.5 TOG — the standard UK winter weight, warmer than the 9.0 TOG duvets sold as year-round."
-- "How do I wash and dry the Pleene™ duvet?" — "Yes, the Pleene™ duvet is fully washable and can be cleaned easily in your washing machine. We recommend washing it at 40°C on a spin cycle of around 800 rpm. / Pleene™ is designed to absorb far less sweat and dirt than traditional bedding, so 40°C is perfectly sufficient for everyday washing while protecting the material and extending its lifespan. / If you ever want a deeper clean, you can occasionally wash it at 60°C. After washing, you can dry the Pleene™ duvet in the dryer or let it air dry. Air-dried, it is usually completely dry in about 2 hours."
-- "Does the Pleene™ duvet fit in my washing machine?" — "Yes — a normal household machine is enough. A feather-filled king duvet weighs 4–6 kg and fills the whole drum. Ours weighs 3.12 kg and compresses flat instead."
-- "It looks thin — is it really warm enough?" — "Warmth comes from air trapped between the fibres, not from bulk. A heavier fill would only stop it fitting in your washing machine."
-
-**FAQ "Frequently Asked Questions" (wörtlich, Frage und Antwort):**
-
-1. "What is the TOG rating?" — "10.5 TOG. On the UK scale that is the standard winter and all-year weight — warmer than the 9.0 TOG duvets commonly sold as year-round, and the rating most households sleep under from autumn through to spring. Only the coldest unheated bedrooms call for more."
-2. "Is it warm in winter and cool in summer?" — "Yes. At 10.5 TOG it carries the standard UK winter rating, so it holds your body heat through the coldest months. The microfibre is temperature regulating: it lets moisture and excess heat escape instead of trapping them, so it stays comfortable as the seasons turn rather than leaving you clammy."
-3. "It looks thin. How can it be that warm?" — "Thickness and warmth are not the same thing. What insulates you is the air trapped between the fibres, not the bulk of the filling — the same reason a thin technical jacket beats a heavy wool coat. Our fill is engineered to hold that air, which is how it reaches 10.5 TOG while staying light enough to wash at home."
-4. "What if I am still cold?" — "Sleep under it for 90 nights. If it is not warm enough for you, send it back for a full refund — no explanation needed. Return postage is paid by the customer and we ask that it comes back clean and resaleable. This sits alongside your statutory rights, not instead of them."
-5. "Why is the Pleene EasyRest™ more hygienic than a normal duvet?" — "With the Pleene EasyRest™, you can wash the entire duvet — not just a cover. With traditional duvets, usually only the cover is washed while the duvet itself is rarely cleaned, so over time sweat, dust and allergens can build up. With Pleene EasyRest™, your bed stays regularly fresh and hygienically clean."
-6. "What is the Pleene EasyRest™ made of?" — "Soft, breathable microfibre with a lightweight high-loft fill. It feels gentle against the skin, holds its warmth, and is free from feathers and down — making it suitable for allergy sufferers."
-7. "Is it suitable for allergy sufferers?" — "Yes. Because you can wash the whole duvet regularly and it contains no feathers or down, it is well suited to allergy sufferers. Regular washing helps keep dust and allergens to a minimum."
-8. "Do I really not need a duvet cover anymore?" — "That's right. The Pleene EasyRest™ is a duvet and cover in one, so there is no separate cover to put on or take off. You simply wash the whole thing and lay it back on the bed — that's it."
-
-**Welche Einwände beantwortet werden:**
-
-- zu dünn bzw. nicht warm genug (5 von 12 Fragen inklusive Akkordeons)
-- Waschen und Trocknen
-- passt es in die Waschmaschine
-- Hygiene
-- Material und Allergie
-- braucht man noch einen Bezug
-- Rückgabe, falls zu kalt
-
-Nicht beantwortet werden: Lieferzeit, Versandkosten, Pflegeetikett, genaue Materialzusammensetzung in Prozent und Füllgewicht pro m² (beides n/a auf der Seite).
-
-**Größentabelle (Bilder im Größen-Modal, wörtlich abgelesen):**
-
-- Tabelle 1 "Size / Fits / Sleeps":
-  - "90×200 cm / 35×79 in – Narrow – Caravan, cabin & bunk beds – 1 person, sits flat, no overhang"
-  - "140×200 cm – Single – 90–140 cm / 35–55 in wide – 1 person"
-  - "160×210 cm – Single XL – 1 person, extra length"
-  - "200×200 cm – Double – 140–160 cm – 2 people"
-  - "230×230 cm – King – 180–200 cm – 2 people, plenty of room"
-  - "260×220 cm – Super King – 180–200 cm – 2 people, extra drop each side"
-- Tabelle 2 "Size / Weight / Fits a drum from":
-  - "Narrow 90 × 200 cm – approx. 1.2 kg – 6 kg"
-  - "Single 140 × 200 cm · fits 3'0" beds – 1.78 kg – 6 kg"
-  - "Single XL – 2.06 kg – 7 kg"
-  - "Double 200 × 200 cm · fits 4'6" beds – 2.32 kg – 7 kg"
-  - "King 230 × 230 cm · fits 5'0" beds – 2.88 kg – 8 kg"
-  - "Super King 260 × 220 cm · fits 6'0" beds – 3.12 kg – 8 kg"
-- Widerspruch: Bullet "Fits in every washing machine" und Abschnitt "fits in any normal washing machine" gegen die eigene Mindest-Trommel von 6–8 kg. Die Trustpilot-Bewertung von Rona Dixon sagt im Original "although it is a tight fit in my washing machine".
-
-**Alle Aussagen zu Waschen, Temperatur, Tog, Material und Trocknen auf dieser Seite (wörtlich):**
-
-- "10.5 TOG — proper winter warmth"
-- "Warm without overheating"
-- "Fits in every washing machine"
-- "We recommend washing it at 40°C on a spin cycle of around 800 rpm"
-- "occasionally wash it at 60°C"
-- "dry the Pleene™ duvet in the dryer or let it air dry. Air-dried, it is usually completely dry in about 2 hours"
-- "Ours weighs 3.12 kg and compresses flat"
-- "Air dries in 2 hours — or even faster in the dryer"
-- "Soft, breathable microfibre with a lightweight high-loft fill … free from feathers and down"
-- Galerie: "Dries indoors in hours", "Pleene™ Microfibre Technology", "Never clammy, never cold"
-
-Die Produktbeschreibung im Produkt-JSON wird auf der Seite **nicht angezeigt**. Sie enthält zusätzlich Aussagen zu Angle E: "Change your bed in one move with no sore arms, shoulders or back", "a full body workout on your arms, shoulders and back", "Breathable and temperature regulating, so no sweating even in summer", "Care: machine washable, quick-drying".
-
-**Bewertungen auf der Seite:**
-
-- App: Judge.me. Anzeige "4.8", "172 reviews", standardmäßig nach "Most Recent" sortiert.
-- Die ersten 5 Bewertungen (alle Duvet, laut Agent-4-Daten alle textgleich mit Trustpilot und vom 11./12.09.2026):
-  - Robin Lewis ★5, "I have battled with a duvet and separate cover for years": "I have battled with a duvet and separate cover for years and not least at the oresent time coping with injuries received in a car accident. I have though that there has to be a better way when I discovered the Pleene way. My order took a little while to be delivered but once it arrived it ha been on my bed, now coming up to it's first wash. If that works I will be ordering another set"
-  - Ros Leftley ★4, "Very good": "Very good. Just took longer to deliver than I expected"
-  - Louise ★5, "Great": "Well, I ordered 2 Pleene quilts. One each for my husband and me. I feel it is light, but I don't feel cold at night. My husband likes a heavy quilt, but he hasn't complained, so I think we are on a winner. However, we have not washed them yet! So if I have any issues, I will update it."
-  - blacky ★5, "Excellent product": "Excellent product. Light but very warm and comfortable"
-  - Anne ★5, "Excellent quality - better than expected.": "Even though the order took a little longer to reach me than expected, the communication was excellent throughout. I am delighted with my duvet! It is a lovely colour, soft and cosy, yet light and cool in warmer weather."
-- Auffällig: Drei der fünf sichtbaren Bewertungen erwähnen eine verzögerte Lieferung.
+**Varianten-Hinweis**
+- **Hook-Test** mit **200037061** (Hook „How old is the duvet you slept under last night? Mine was 12 years old, and in 12 years it had never once been washed.“) und **200037062** (Hook „If a guest asked you when you last washed your duvet, not the cover, the duvet, what would you say?“).
+  - Alle drei starteten am 2026-10-05 und tragen die Headline „When Did You Last Wash Your Duvet?“.
+  - Der Skript-Körper ist laut GetHooked-Transkript wortgleich. Das Bild ist **nicht verifiziert**, die Dateien liegen nicht vor.
+- **Footage-Überschneidung** mit **200490657** (dieser Batch): gleicher Mann, gleiches Schlafzimmer, gleiche gelb-karierte Bettwäsche, gleiche silberne Waschmaschine auf blauen Fliesen.
+- Keine Ton-Übereinstimmung mit den Batch-4-Videos 200037045–200037058 (Kreuzkorrelation < 0,3).
 
 ---
 
-### 3.4 Seite 2: `pleene.com/products/easyrest-comforter` (40 Ads, US) — Produktseite (US-PDP)
-
-**Rolle im Funnel:**
-
-- Die Vorlage heißt `easyrest-duvet-usa230926`, also "USA", 23.09.26.
-- Laut Elevate-Konfiguration ist "Duvet UK PDP Weiterleitung an USCA PDP" live (SPLIT_URL, 100 % auf die Variante). Bedingungen: Land US oder CA, Quelle facebook, instagram, google, direct, tiktok oder pinterest. Wirkung: von `/products/easyrest` auf `/products/easyrest-comforter`.
-- In unserem Test hat das nicht ausgelöst (US-IP, Headless, mit fbclid und Facebook-Referrer). Nicht verifiziert.
-- Laut GetHooked `countries` sind die direkt verlinkenden Ads US-Ads.
-- Ein analoger Live-Test leitet AU auf `/products/pleene-easyrest-quilt`. Diese Seite hat im Inventar keine Ads und wurde nicht analysiert.
-
-**Above the Fold, mobil (GBP-Ansicht)** (`render/com_products_easyrest-comforter_mobile_atf_clean.png`):
-
-- Kein Laufband.
-- Hauptbild: blaue Comforter-Decke von oben auf beigem Teppich mit zwei Kissen.
-- H1 "Pleene EasyRest™ Comforter", ★★★★★ "172 reviews".
-- "£69.99 ~~£119.99~~ SAVE 41%".
-- Bullets "✔️ Warm in winter, cool in summer", "✔️ No cover to change", "✔️ Hygienic & allergy-friendly", "✔️ Fits in any washing machine".
-- "🎁 Free with every comforter today / 2 Pleene™ Pillowcases (Value: **$39.99**)". Der Dollarwert steht auch in der GBP-Ansicht.
-- Pop-up wie auf Seite 1.
-
-**USD-Ansicht** (`cart/us_comforter_atf.png`): "$139.99 ~~$199.99~~ SAVE 30%", Couple-Bundle "$252.00 ~~$399.98~~", Family-Bundle "$357.00 ~~$599.97~~".
-
-**Desktop** (`render/com_products_easyrest-comforter_desktop_atf_clean.png`): Navigation wie auf Seite 1, aber ohne braunes Laufband. Links das Bild, rechts die Kaufbox, Couple-Bundle mit "Single (55 × 79 in)" vorausgewählt.
-
-**Seitenaufbau (Überschriften wörtlich):**
-
-1. Hauptbereich:
-   - Galerie mit eigenen Comforter-Bildern:
-     - "90-Night Free Trial" / "FREE TODAY 2× Pleene™ Pillow Cases Value $39.99"
-     - "Comforter + cover in one. Completely washable." mit "Air dries in about 2 hours", "**No chance for dust mites & bacteria**", "Fits any washing machine"
-     - "Always the right temperature. Pleene™ Microfiber Technology" mit "Cool in summer", "Warm in winter", "No sweating. No freezing."
-     - "Susan, 62: "I was skeptical about the hygiene at first, but here everything gets clean in one wash. Climbing into a fresh, clean comforter straight after a shower — absolutely amazing😍"" mit "10,000+ people love sleeping under the Pleene™ Comforter"
-     - "Robert, 61: "No idea how it does it, but I've had the comforter for a year and I don't sweat at night anymore. In summer I wake up dry — that used to be unthinkable.""
-     - Collage "10,000+ people already sleep under the Pleene™ Comforter. 90-Night Free Trial. Money back, no questions asked."
-   - Kaching-Box, "What size do I need?" (Bild `pleene-size-chart-us.png`), "Ready to Ship – Limited Stock", "ADD TO CART".
-   - 4 Akkordeons: "Will I be warm enough in winter?" / "How do I wash and dry the Pleene™ Comforter?" / "Does the Pleene™ Comforter fit in my washing machine?" / "How long does a Pleene™ Comforter last?"
-2. "**Washable like your sheets**" / "Most comforters never see a washing machine. They're too bulky for the drum, or the care label says dry clean only." / "The Pleene EasyRest™ fits in a standard home washer. The whole thing goes in — not a cover, the comforter itself. One wash. All clean." / "Air-dries in 2 hours — faster in the dryer." / "✓ Wash it as often as your sheets" "✓ No dry cleaning, no trip to the laundromat"
-3. "**You can skip the top sheet**" / "The top sheet exists for one reason: to keep you off a comforter that hardly ever gets washed." / "Take that reason away and the layer stops earning its place on your bed." / "The Pleene EasyRest™ is comforter and cover in one piece — and it goes straight in the wash." / "✓ No cover and no top sheet" "✓ A made bed in seconds"
-4. "**One comforter, every season**" / "Most people own two: a heavy one for winter and a thin one for summer. The Pleene EasyRest™ replaces both." / "A 300 GSM fill holds your body heat in, and breathable microfiber lets moisture move out instead of trapping it. That combination is what keeps the same comforter comfortable in January and in July." / H3 "Cold nights": "Traps your body heat and holds it, so the bed is warm within minutes of getting in." / H3 "Warm nights": "Lets heat and moisture escape, so you don't wake up damp or kick it off at 3am." / "✓ No overheating, no waking up cold" "✓ Nothing to swap out when the season turns"
-5. "**Feels like a freshly made bed**" / "Soft against the skin. Light, but never thin." / "Not too thick, not too heavy." / "Right for every night of the year — the coldest ones and the warmest."
-6. "★★★★★ Over 10,000 customers now sleep more comfortably with Pleene EasyRest™" / "**Try Pleene EasyRest™ risk-free for 90 nights**", dazu 5 "✓ Verified"-Karten:
-   - Margaret, 67: "At my age, wrestling a comforter into its cover was such a struggle. This is an absolute godsend — I can make my bed on my own again."
-   - James, 55: "Saves me so much time, no more changing covers, and it still feels great. I sweat a lot less at night now, too."
-   - Sarah, 41: wie auf Seite 1.
-   - Robert, 50: "I expected something this light to leave me cold in winter. It doesn't — and it goes straight into the machine. This is how bedding should be."
-   - David, 58: "Honestly, I'm lazy when it comes to changing bedding — and that's exactly why Pleene EasyRest™ is perfect for me."
-   - Bei gleichen Namen und gleichem Alter weichen die Zitate teilweise von Seite 1 ab.
-7. "**Frequently Asked Questions**": 8 Fragen, wörtlich unten.
-8. "**The Full Sleep Set:**" mit Comforter £69.99 ~~£119.99~~, "ZipSheet™ — Zip-On Bed Sheet Set" £59.99 ~~£79.99~~ (US-Größen Twin bis Cal King, "Dusty Purple - Unavailable") und "EasyStore™ - Duvet & Bedding Storage Bag" £19.99 ~~£34.99~~. "Total Price: £149.97 ~~£234.97~~".
-9. Judge.me "Customer Reviews 4.8 · 172 reviews". Jede Bewertung ist mit "Review for Pleene EasyRest™ Duvet" gekennzeichnet, es sind also Bewertungen des UK-Duvet.
-10. "**You may also like**": FluffBalls™ £14.99, EasyStore™ from £19.99, "Pleene RestEasy™ 3-in-1 Support Cushion" £99.99 ~~£149.99~~.
-11. Footer. Ein Newsletter-Block fehlt hier.
-
-**Akkordeons (wörtlich):**
-
-- "Will I be warm enough in winter?" — "Yes. Warmth comes from trapped air, not from bulk — the 300 GSM fill holds your body heat instead of letting it escape. It's lighter than the oversized comforters most people are used to, which is why customers are often surprised by how warm it is the first cold night. / If your bedroom runs unusually cold, a throw over the top handles the deepest part of winter."
-- "How do I wash and dry the Pleene™ Comforter?" — "Yes, the Pleene™ Comforter is fully washable and cleans up easily in your washing machine. We recommend washing it on a warm cycle (around 105°F) with a gentle to medium spin. / Pleene™ is designed to absorb far less sweat and dirt than traditional bedding, so a warm wash is perfectly sufficient for everyday cleaning while protecting the material and extending its lifespan. / If you ever want a deeper clean, you can occasionally wash it on a hot cycle (around 140°F). After washing, you can tumble dry the Pleene™ Comforter or let it air dry. Air-dried, it's usually completely dry in about 2 hours."
-- "Does the Pleene™ Comforter fit in my washing machine?" — "Yes, with no trouble at all. Pleene™ is intentionally designed so it isn't unnecessarily thick or bulky like traditional comforters. / 👉 What that means for you: you can easily wash it yourself in a regular household washing machine — no stuffing, no cramming. Many customers are surprised at first by how light and compact it is, but that's exactly the advantage: / ✔️ Fits easily in your washing machine / ✔️ Dries significantly faster / ✔️ More hygienic than a traditional comforter / So you don't need an oversized machine or a trip to the laundromat."
-- "How long does a Pleene™ Comforter last?" — "The Pleene™ Comforter is built to be washed regularly without losing quality. Even after many wash cycles, it stays shape-stable, soft and functional. With normal use, it'll be part of your bedroom for years."
-
-**FAQ (wörtlich):**
-
-1. "What size should I get?" — eine Tabelle "Size / Comforter / Fits" mit den Zeilen "Twin __ × __ in – Twin and Twin XL beds", "Full / Queen __ × __ in – Full and Queen beds", "King __ × __ in – King and Cal King beds". **Die Platzhalter sind nicht ausgefüllt.** Danach: "If you sleep with a partner and like some overhang, size up. Most couples on a Queen bed are happiest with the King."
-2. "Will I be warm enough in winter?" — wie das Akkordeon, in einem Absatz.
-3. "Will I get too hot in summer?" — "The fabric lets heat and moisture move through instead of trapping them, so it stays comfortable on warm nights. Customers who tend to sleep hot are usually the ones who notice the difference first — it's the same comforter they use through winter, not a second one they swap in."
-4. "Do I need a cover or a top sheet?" — "Neither. The Pleene EasyRest™ is the comforter and the cover in one piece, so there's nothing to put on and nothing to take off. And because the whole thing is machine washable, you don't need a top sheet to keep it clean — you wash it and lay it back on the bed."
-5. "Why is the Pleene EasyRest™ cleaner than a regular comforter?" — "Because you can wash the whole thing, not just a cover. With regular bedding, the cover goes in the laundry while the comforter itself often sits unwashed for years. The Pleene EasyRest™ goes in the machine as one piece, so the part you actually sleep under gets washed as often as your sheets do."
-6. "What if I don't like it?" — "Sleep under it for 90 nights. If it isn't right for you, tell us and we'll take it back. That covers a full change of season, so you can try it on cold nights and warm ones before you decide."
-7. "What is the Pleene EasyRest™ made of?" — "Soft, breathable microfiber with a 300 GSM fill. It's gentle against the skin, holds its warmth, and has no feathers or down."
-8. "Is it a good choice if feathers and down bother me?" — "The fill is microfiber, so there are no feathers and no down. Because the whole comforter is machine washable, you can also wash it as often as you like instead of leaving it unwashed between cover changes."
-
-**Einwände:** warm genug, zu heiß im Sommer, Größe, Bezug bzw. Top Sheet, Sauberkeit, Rückgabe, Material, Federallergie, Waschmaschine, Haltbarkeit. Keine Tog-Angabe; die Wärme wird über "300 GSM fill" erklärt.
-
-**Unstimmigkeiten auf dieser Seite:**
-
-- "Value: $39.99" erscheint auch für GBP-Besucher.
-- Die FAQ-Größentabelle besteht aus Platzhaltern.
-- Die Bewertungen stammen vom UK-Duvet (britische Namen, "quilt", "colour").
-- "Robert, 61" sagt "had the comforter for a year", das Produkt existiert seit 25.06.2026.
-- Die Produktbeschreibung nennt "Sizes: Twin, Full, Queen, King, Split Comfort Size", die Varianten sind aber Single, Twin, Full, Queen und King.
-- Bei gleicher Breite (140 cm bzw. 55 in) kostet der Comforter in GBP £69.99, das Duvet £79.99.
-
----
-
-### 3.5 Seite 3: `pleene.com/pages/tb-6` (8 Ads, GB) — Advertorial (Pre-Lander)
-
-Typ: Advertorial im Stil einer redaktionellen Landingpage. Oben steht klein "ADVERTISEMENT". Es gibt keinen Shop-Header, keine Preise und keinen Warenkorb. Elemente einer Listicle sind eingebaut (nummerierte Vorteile 01–05). Vorlage: `page.tabeasyrest-tb6`. Alle 5 CTAs führen auf `https://pleene.com/products/easyrest`, der Text "Claim my free pillowcases" ebenfalls. Kein E-Mail-Pop-up (Klaviyo-Ausschluss `*tb*`).
-
-**Above the Fold, mobil** (`render/com_pages_tb-6_mobile_atf_clean.png`):
-
-- "ADVERTISEMENT"
-- Kicker in Blau: '"Never change your bed linen on a Sunday again"'
-- H1: "How 7,000+ people said goodbye to putting duvet covers on – with a **machine-washable 2-in-1 duvet**"
-- fünf grüne Sterne im Trustpilot-Stil: "**Excellent 4.7/5** on Trustpilot · 7,000+ customers"
-- Bild "THE OLD WAY" vs. "THE EASYREST WAY":
-  - links Hände, die eine weiße Decke in einen Bezug stopfen, mit den Labels "Cover has to be put on" und "Filling slips into corners"
-  - rechts eine graue EasyRest auf einem Bett in einem hellen Zimmer mit "Cover and duvet in one" und "Machine-washable in one go"
-  - orangefarbenes "VS"
-- Die Checkmarks beginnen am Fold-Rand.
-
-**Desktop** (`render/com_pages_tb-6_desktop_atf_clean.png`):
-
-- Links Kicker, H1, Sterne und die 4 Checks: "No more putting covers on", "Not too warm, not too cold", "Fits any washing machine", "Dry in about 2 hours".
-- Orangefarbener Button "**Try EasyRest risk-free now**", dazu drei Trust-Kästen: "Free shipping / UK orders over £100", "90 nights / risk-free trial", "Secure / checkout".
-- Rechts das Vergleichsbild.
-- Darunter der Streifen "AS FEATURED IN" mit den Logos STARTUPS (Magazine), "new!", THE TIMES und "Fabulous". Es gibt keine Links zu Artikeln. Die Dateinamen lauten `Design_ohne_Titel.png`, `Design_ohne_Titel_1.png`, `Design_ohne_Titel_2.png` und `3-removebg-preview.png`. Presseerwähnungen sind nicht verifiziert.
-
-**Seitenaufbau (Überschriften wörtlich):**
-
-1. "ADVERTISEMENT", Hero (s. o.).
-2. "AS FEATURED IN".
-3. "THE EASYREST DIFFERENCE" / "**Cover and duvet become one**":
-   - "Duvet and cover are permanently joined – nothing to stuff in, nothing to straighten out after washing. You use it like any normal duvet: spread it out, snuggle in, done."
-   - Checks: "Built-in cover – nothing to put on", "Whole duvet machine-washable at 40°", "Filling never slips into corners", "Air-dries in 2–3 hours", "One duvet for all seasons", "Back on the bed straight after washing".
-   - Karten "01 No more putting covers on", "02 No more slipping", "03 All-year use", "04 Fully washable", "05 Quick-drying".
-   - CTA, darunter "90-night trial · Free UK shipping over £100 · Secure checkout".
-4. "THE HONEST COMPARISON" / "**EasyRest vs. classic bed linen**", Tabelle "EasyRest | Classic":
-
-   | Merkmal | EasyRest | Classic |
-   |---|---|---|
-   | "Cover needs putting on" | "No" | "Yes, every time" |
-   | "Slips inside the cover" | "No" | "Yes" |
-   | "Fully washable" | "Yes, at 40°" | "Usually only the cover" |
-   | "Drying time" | "2–3 hours" | "Often overnight" |
-   | "Suitable all year" | "Yes, thanks to climate fibres" | "Usually seasonal" |
-   | "Hygiene" | "Whole duvet washable" | "Duvet rarely washed" |
-   | "Effort when changing" | "No cover to put on" | "Join duvet and cover" |
-
-   Danach ein CTA.
-5. "REAL EXPERIENCES" / "**Over 7,000 people already sleep without a duvet cover**": Bewertung '"Why has no one done this before?"' / '"This Pleene duvet is light, sumptuously soft and easier to live with. Love it!"' / "Glyn F. · Review from Trustpilot", dazu "★★★★★ Excellent 4.7/5 · 250 reviews on Trustpilot".
-6. Angebotskasten: "**Autumn offer**" / "**2 matching pillowcases free with your EasyRest**" / "Worth £39.99 – while stocks last." / Button "Claim my free pillowcases" / "✓ 90-night trial ✓ Free UK shipping over £100 ✓ Secure checkout".
-7. "REAL EXPERIENCES" / "**What 7,000+ customers say about EasyRest**" / "4.7" / 'Rated "Excellent" on Trustpilot · 250 reviews' / "Photos sent in by EasyRest customers" (Judge.me-Fotos), dazu 6 Karten:
-   - "Glyn F. – Why has no one done this before? – "No heavy duvet putting pressure on your feet and being too hot or too cold. This Pleene duvet is light, sumptuously soft and easier to live with. Love it!""
-   - "Andrew B. – I was wrong – "I must admit I was sceptical about the claims for the duvet, but I was wrong. Very comfortable, easy to wash and dries quickly. Good quality material.""
-   - "Rona D. – No more getting twisted up – "I bought a king size and it washed well and dried quickly. I especially like the ease with which I can now change bedding and the fact I no longer get twisted up in duvet covers.""
-   - "Mr Mayes – It has made life easier – "Very pleased with the product – it has certainly made life easier! With a duvet and cover I always ended up with too much duvet at the feet end and not enough at the head end.""
-   - "Kathryn – The whole household sleeps better – "I ordered two doubles and a single so our whole household could try them. After a week we have all been sleeping better due to a more comfortable temperature in bed.""
-   - "Moira L. – No faffing about – "Straight on to the bed. No faffing about. It's warm and comfortable. What more could I ask.""
-   - Link "Read all 250 reviews on Trustpilot →".
-   - **Abgleich mit Trustpilot:** Alle 6 Bewertungen existieren auf Trustpilot (Glyn Fletcher, Andrew Byrne, Rona Dixon, Mr Mayes, Kathryn, MOIRA LOW, 01.–04.09.2026). Sie wurden gekürzt, was die Seite selbst offenlegt. Bei **Rona Dixon fehlt dadurch der Nachteil**. Original: "I bought a king size and **although it is a tight fit in my washing machine** it washed well and dried quickly." Bei Moira Low fehlt "Haven't washed it yet but expect no issues."
-8. "90 NIGHTS" / "**Test it risk-free for 90 nights**" / "Sleep on it in your own bed. If it doesn't convince you, send it back and get your money refunded – no complicated explanation needed."
-9. "STILL HAVE QUESTIONS?" / "**Frequently asked questions**": 7 Fragen, wörtlich unten.
-10. CTA, dann der Disclaimer (wörtlich):
-    - "Advertisement. This page is an advertisement for the Pleene EasyRest™ Duvet and is published by Pleene (One Way Ecom Limited, …). It is not a news article or independent editorial content."
-    - "Images: Some images on this page were created or edited with the help of AI and are for illustration only. Colours and details of the actual product may vary slightly."
-    - "Reviews & results: Customer photos were sent in by EasyRest customers via our review app. Customer reviews are taken from Pleene's public Trustpilot profile and partly shortened; reviewer names are abbreviated. The 4.7/5 TrustScore is based on 250 reviews as of October 2026. Individual experiences vary and the results described are not guaranteed. Customer numbers refer to total orders placed with Pleene. Drying times depend on room temperature, airflow and spin speed."
-    - "Health: The EasyRest™ is a bedding product, not a medical device. Statements about allergies and sleep are general information and do not replace medical advice."
-    - "Offer & guarantee: Prices and the free pillowcase offer are valid while stocks last and may change at any time. The 90-night trial and money-back guarantee are subject to our returns policy. Free UK shipping applies to orders over £100. All brand names and logos shown belong to their respective owners."
-
-**FAQ (wörtlich, Antworten aus dem HTML, da auf der Seite eingeklappt):**
-
-1. "Do I really not need a duvet cover any more?" — "No. The EasyRest combines duvet and cover in one product. After washing you simply put it back on the bed."
-2. "Does it keep me warm in winter – and will I sweat?" — "The breathable EasyRest climate fibres regulate temperature in both directions and wick moisture away, so it stays cool in summer and warm in winter without feeling clammy."
-3. "Does it fit in a normal washing machine?" — "Yes. The EasyRest is light and compact, so it fits in any standard household machine – no laundrette needed."
-4. "How long does it take to dry?" — "Around 2 hours in the air, faster in a tumble dryer."
-5. "Why is it more hygienic than a normal duvet?" — "With ordinary bedding only the cover gets washed. With the EasyRest the whole duvet goes in the wash every time, so you can clean it as often as normal bed linen."
-6. "How long does the EasyRest last?" — "It keeps its shape and softness wash after wash, with no clumping or flattening even after 50 washes."
-7. "What if I don't like it?" — "You have 90 nights to try it in your own bed. If it's not for you, contact our customer service and you'll get your money back."
-
-**Einwände:** Bezug, Wärme bzw. Schwitzen, Waschmaschine, Trocknungszeit, Hygiene, Haltbarkeit ("50 washes"), Rückgabe. Kein Tog, keine Preise. Die Trocknungszeit ist auf derselben Seite widersprüchlich: "Dry in about 2 hours" und "Around 2 hours" gegen "Air-dries in 2–3 hours" und "2–3 hours".
-
----
-
-### 3.6 Seite 4: `pleene.com/products/easyrest-duvet` (6 Ads, GB) — Produktseite (Klon)
-
-- **Above the Fold, mobil und Desktop:** Der Textvergleich mit Seite 1 ergibt nur einen Unterschied: Das Laufband "Free Shipping On Orders Over £100 / …" fehlt. Gleiches Hauptbild, gleiche H1 "Pleene EasyRest™ Duvet", "172 reviews", "£74.99 ~~£114.99~~ SAVE 34%", gleiche 4 Bullets, gleicher Geschenk-Kasten "2 Pleene™ Pillow Cases (Value: £39.99)", gleiche Kaching-Box. Screenshots: `render/com_products_easyrest-duvet_mobile_atf_clean.png` und `…_desktop_atf_clean.png`.
-- **Seitenaufbau, FAQ und Aussagen:** identisch mit Seite 1. Gleiche Sections (`main`, `custom_liquid_UaiXN9`, `bundle_deals_EQzQcN`, Judge.me, Newsletter) und gleiche Texte. Der Diff der vollständigen Seitentexte zeigt nur das fehlende Laufband und die Kennzeichnung "Review for Pleene EasyRest™ Duvet" im Bewertungs-Widget.
-- **Unterschiede in den Daten:**
-  - Eigenes Produkt (Handle `easyrest-duvet`, angelegt am 09.09.2026, veröffentlicht am 10.09.2026, Tags `hidden-search`, `search-hidden`).
-  - Vorlage `easyrest-duvet-winter26-2`.
-  - Lavender Mist hat für alle Größen den Vergleichspreis £114.99, bei King und Super King also **unter** dem Preis.
-- **Angle:** B. Alle 6 Ads sind Tog- bzw. Winter-Ads, z. B. "Warm Enough For A British Winter" und "No Launderette Needed. Ever.".
-
----
-
-### 3.7 Garantie, Probeschlafen, Rückgabe und Versand (für alle Seiten)
-
-**Versprechen auf den Seiten (wörtlich):**
-
-- Laufband und Galerie: "90 Nights Risk-Free — Try It In Your Own Bed", "90 Night Free Trial", "90-Night Free Trial. Money back, no questions asked."
-- Produktseite, FAQ: "Return postage is paid by the customer and we ask that it comes back clean and resaleable."
-- Comforter: "tell us and we'll take it back"
-- tb-6: "send it back and get your money refunded – no complicated explanation needed"
-- Warenkorb: "90-Night Home Trial", "Money Back Guarantee"
-
-**Refund Policy** (`/policies/refund-policy`, "Last updated: September 04, 2026"), wörtliche Eckpunkte:
-
-- "We accept returns of both defective and non-defective products within 90 days of delivery."
-- Tabelle: "Return window 90 days from delivery" / "Accepted condition New or slightly used, including opened packaging" / "Return method By mail" / "Return shipping Paid by the customer, unless the return is due to an error on our side" / "Restocking fee None" / "Refund processing time Up to 10 days after we receive and inspect your return" / "Exchanges Available on request"
-- "90-Day Guarantee … If you are not satisfied with your purchase for any reason, you may request a return, exchange, or refund within 90 days of receiving your order. No questions asked."
-- "That is why we invite you to contact us first before sending anything back. In many cases, we can help with guidance, a replacement, or a refund without requiring a physical return. This is an invitation, not a condition"
-- "Please wait for these instructions before shipping anything back"
-- "We are unable to accept items that are soiled, contaminated, or damaged in a way that makes them unsafe or unhygienic to handle"
-- "Original shipping fees are non-refundable unless the return is due to an error on our side."
-
-Bewertung: "Money back, no questions asked" und "Free Trial" klingen kostenlos. Tatsächlich trägt der Kunde Rücksende- und Hinversandkosten, und die Rücksendeadresse gibt es nur auf E-Mail-Anfrage.
-
-**Zusatzprodukt "180-Day Return Policy – Upgrade"** (£2.99 bzw. $2.99, Cross-Sell auf der /cart-Seite), Beschreibung wörtlich: "With this upgrade, you receive a voluntarily extended return window of 180 days in total from the date you receive your order. Your statutory rights, in particular the legal 14-day right of withdrawal, naturally remain unaffected. The upgrade is a digital service and applies to your entire order, not to individual items. There are no further obligations or costs – just a longer, hassle-free return window for you."
-
-**Shipping Policy** (`/policies/shipping-policy`, "Last updated: September 04, 2026"):
-
-- UK: "£0.00–£99.99 Royal Mail® — tracked, insured £4.95 GBP" / "£100.00 and up … Free" / "Royal Mail® — tracked, insured, with Priority Handling £7.95 GBP"
-- Bearbeitung: "Orders placed before 2:00 PM (GMT) on a business day are processed the same day." / "Orders are typically processed within 1–2 business days"
-- Lieferzeit UK: "1–2 business days / 4–6 business days / 5–8 business days". Ebenso für die USA. Kanada 7–12, Australien 8–14 Werktage.
-- Zu "Priority Handling": "It shortens the processing window only. It does not speed up the carrier".
-- Ausgeliefert wird nach UK, USA, Kanada und Australien.
-- Home-Page: "Dispatched in 1–2 Days / From our nearest warehouse". Lagerstandort n/a.
-
-Folge für das Angebot: Ein einzelnes Duvet bis Double (£74.99–£89.99) liegt unter der Gratisversand-Schwelle, dazu kommen £4.95. Das vorausgewählte Couple-Bundle (ab £135) ist versandkostenfrei.
-
----
-
-### 3.8 Bewertungs-Apps und -Zahlen
-
-| Quelle | Wo angezeigt | Angabe auf der Seite | Erfasster Stand (Agent 4, 08.10.) |
-|---|---|---|---|
-| Judge.me | alle 3 Produktseiten (Badge und Widget) | "4.8", "172 reviews" | 172 Bewertungen (171 Duvet, 1 Comforter), Mittel 4.82, Sterne 5×142 / 4×29 / 3×1. **154 textgleich mit Trustpilot** (Import), 4 "verified buyer", 8 mit Foto, 0 Video. Neueste vom 12.09.2026 |
-| Trustpilot | nur tb-6 (Zitate und Links) | "Excellent 4.7/5", "250 reviews … as of October 2026" | 291 Bewertungen, alle aus dem Zeitraum 01.08.–08.10.2026 (Mittel der Sterne 4.8; der TrustScore selbst n/a) |
-| Eigene Testimonials | Produktseiten-Karten "✓ Verified", Galeriebilder | Margaret 67, James 55, Sarah 41, Robert 50, David 58; Robert 61, Susan 62 | **in keiner erfassten Bewertung gefunden**, nicht verifiziert |
-| UGC-Videos | /products/easyrest, /products/easyrest-duvet | "Peter", "Brian", "Dave" | nicht transkribiert |
-
-GetHooked meldet für die Technik zusätzlich Loox und Yotpo. Im HTML stehen dazu nur leere Theme-Variablen (`MetafieldLooxRating = null`, `okendoProduct = null`). Das sind falsch-positive Treffer; es ist keine aktive App erkennbar.
-
----
-
-### 3.9 Warenkorb, Upsells und Cross-Sells (bis vor den Checkout)
-
-**Testablauf** (Skripte `a3scripts/cart_test.js`, `a3scripts/cart_bars.js`, `a3scripts2/us_comforter.js`):
-
-- Für alle 3 Produktseiten: GB-Kontext, mobil 390 px. Alle 10 Farben und 6 bzw. 5 Größen im "Buy 1"-Balken durchgeschaltet.
-- Jeden Kaching-Balken (1/2/3) in den Warenkorb gelegt, Cart-Drawer und /cart angesehen.
-- `/products/easyrest` zusätzlich auf Desktop.
-- Comforter zusätzlich in USD.
-- Checkout-URLs per Request-Blocker gesperrt, der Warenkorb nach jedem Lauf per `/cart/clear.js` geleert.
-
-**Varianten und Lager:**
-
-- Alle Farben (Coastal Blue, Soft Mint Green, Moonstone Grey/Gray, Cream Beige, Midnight Black, Hearth Red, Cloud White, Cocoa Brown, Sunset Glow, Lavender Mist) und alle Größen sind wählbar und kaufbar. Keine ist "Sold out".
-- Bei jeder Variante steht derselbe statische Text "Ready to Ship – Limited Stock".
-- Lagerbestände sind öffentlich nicht abrufbar (`inventory_quantity: null`).
-- Die Ad-Aussagen "Hearth Red is nearly sold out" und "Mint Green is almost gone" haben auf der Seite keine Entsprechung (kein Farb-Lagerhinweis). Den tatsächlichen Bestand konnten wir nicht prüfen.
-
-**Cart-Drawer, GB** (Screenshots `cart/bars_easyrest_mobile_9177_drawer.png` und `cart/bars_easyrest_desktop_9177_drawer.png`; Texte in `cart/*_drawer.txt`):
-
-- Kopf "Cart • 2 item".
-- Fortschrittsbalken: bei 1× Narrow (£74.99) "Only £25.01 more to get FREE Shipping!", ab £100 "Congrats! You get FREE shipping!".
-- Zeile: Bild, "Pleene EasyRest™ Duvet", "~~£114.99~~ £67.50", Tag "Buy 2, Get 4 Pillow Cases FREE", Variante, Mengenwähler, "~~£229.98~~ £135.00 (You're saving £94.98)".
-- "↓ **ADD ONE-TIME CART DEALS** 🛒", Toggles standardmäßig **aus**:
-  - "Pleene EasyRest™ Pillow-Cases" £19.99 ~~£29.99~~ (Farbe, "51 x 76cm")
-  - "EasyRest™ Pillow – Hypoallergenic Premium-Comfort Pillow" £39.99 ~~£59.99~~ ("1 Pillow" oder "2 Pillows", "48 x 74cm")
-  - "FluffBalls™ – Reusable Tumble Dryer Balls (Set of 4)" £14.99 (White oder Blue)
-- **Versandschutz:** "Package Protection (Recommended)" £2.99, "FREE Replacements in case of Package Loss, Theft or Damage during Shipping." Toggle standardmäßig **aus**, also nicht vorausgewählt.
-- Summen: "Discount −£94.98", "Subtotal £135.00", "Discounts: £-67.50)" (Darstellungsfehler).
-- Der Rabatt laut Shopify-`cart.js` beträgt nur £14.98 (10 % auf 2 × £74.99). Die "−£94.98" schließen die Differenz zum Vergleichspreis ein.
-- Button "Secure Checkout", darunter "90-Night Home Trial" und "Money Back Guarantee".
-- **Gratisbeigaben:** Die versprochenen 2, 4 bzw. 6 Kissenbezüge erscheinen **nicht als Warenkorbposition**, sondern nur als Rabatt- bzw. Tagname "Buy 2, Get 4 Pillow Cases FREE". `cart.js` enthält nur die Decken. In der Kaching-Konfiguration ist `freeGifts: []` für alle drei Balken eingetragen. Ob die Bezüge im Checkout oder beim Versand dazukommen, ist **nicht verifiziert**.
-- Wertangabe: Die Gratis-Bezüge werden mit "Value: £39.99" beworben. Das gleiche Produkt "Pillow-Cases" kostet im Drawer £19.99 (statt £29.99). Ob das ein Paar ist, ist auf der Karte nicht angegeben; die Home-Collection nennt "EasyRest™ Pillow Cases / Set of two". Ob der Wert damit überhöht ist, ist nicht verifiziert.
-- Der Drawer ist für `/products/easyrest`, `/products/easyrest-duvet` und `/products/easyrest-comforter` (GBP) identisch.
-
-**/cart-Seite, GB** (`cart/bars_easyrest_mobile_9177_cartpage.png`):
-
-- "Your cart", Zeile mit "~~£74.99~~ £67.50". Hier wird der normale Preis als Streichpreis verwendet, im Drawer dagegen £114.99.
-- "Subtotal £135.00 GBP", "Secure Checkout", Express-Buttons **Shop Pay, PayPal, Google Pay**.
-- "**You may also like**":
-  - "180-Day Return Policy – Upgrade" £2.99
-  - "BreatheEasy™ Nasal Strips (30pcs)" £14.99 ~~£19.99~~
-  - "CoolRest™ - Cooling Ice Duvet for Hot Summer Nights" from £69.99 ~~£99.99~~
-  - "EasyRest™ Fitted Sheet – Soft, Hypoallergenic & Perfectly Fitting" from £24.99 ~~£39.99~~
-- Newsletter "Subscribe to our emails".
-- Es gibt keine Gratisgeschenk-Stufen und keine Mengen-Upsell-Pop-ups. Kaching hat `progressiveGifts: null` und `timer: null`.
-
-**Cross-Sell auf den Produktseiten:** "The Cosy Bundle" (+ CosyRest™ Throw) bzw. auf der US-Seite "The Full Sleep Set:" (+ ZipSheet™ und EasyStore™). Gekauft wird über "Add selected to cart", ohne Extra-Rabatt.
-
-**USD, Comforter** (`cart/us_comforter_9177_drawer.png`, `cart/us_comforter_9177_cartpage.png`):
-
-- Drawer: "Congrats! You get FREE shipping!", Zeile "~~$199.99~~ $126.00", "~~$399.98~~ $252.00 (You're saving $147.98)".
-- Upsells:
-  - "ZipLift™ – Mattress Lifter" $19.99 ~~$29.99~~
-  - "FluffBalls™ … (Set of 4)" $14.99 ~~$19.99~~
-  - "Package Protection (Recommended)" $2.99
-- /cart: "You may also like" mit "180-Day Return Policy – Upgrade" $2.99, "BreatheEasy™ Nasal Strips (30pcs)" $14.99, "EasyRest™ Pillow – Hypoallergenic Premium Comfort Pillow" from $49.99 und "EasyStore™" from $29.99.
-
----
-
-### 3.10 Kongruenz: Ad und Landingpage
-
-Links: Ad Library `https://www.facebook.com/ads/library/?id=<external_id>`; GetHooked über die share_url (die Signatur ist kein ablaufender Media-Link).
-
-**`/products/easyrest`:**
-
-| Ad | Hook und Versprechen (wörtlich) | Fortsetzung auf der Seite | Bewertung |
-|---|---|---|---|
-| 136388964, Bild, 120 Tage aktiv, Perf. 100. [Ad Library](https://www.facebook.com/ads/library/?id=884267707299487), [GetHooked](https://app.gethookd.ai/share/ad/136388964?signature=d0ff0d2a2536e91cfc3dacb7f3b055bf680241a71e3d485ea8d2c98436047966) | Titel "No More Fighting With Duvet Covers". Text: "Duvet + Cover in One 🌙 … ✓ No more wrestling with a separate duvet cover ✓ Pleasantly cool in summer, cosily warm in winter ✓ Hypoallergenic and kind to sensitive skin / Get 2 free Pleene™ Pillow Cases today (worth £39.99). / 90 nights to try it risk-free." | Gratisbezüge "(Value: £39.99)" stehen direkt im ATF, "90 Nights Risk-Free" im Laufband. Der Kampf mit dem Bezug kommt erst in Section 6 ("Never make the bed the hard way again"). Das ATF führt mit "10.5 TOG — proper winter warmth" | **Teilweise kongruent.** Angebot und Garantie passen 1:1. Der Bezug-Hook (C) wird above the fold nur über "Never change bedding again" aufgegriffen, die Seite führt stattdessen mit Wärme (B). "Hypoallergenic" steht erst in der FAQ |
-| 139561428, Video, 63 Tage, Perf. 100. [Ad Library](https://www.facebook.com/ads/library/?id=1034362836068724), [GetHooked](https://app.gethookd.ai/share/ad/139561428?signature=1eb14bdf7f1f4b278f8b5996d37204958181d02f07e10262e225457c7f9a49fd) | "Hearth Red. Nearly gone." / "Hearth Red is nearly sold out — and unlike most 'selling fast' claims, this one's just true. If deep red is your bedroom, this is the week to move. Duvet and cover in one, fully washable, dry in 2 hours." | Es gibt keinen Farb-Lagerhinweis. Hearth Red ist normal wählbar, als Standardfarbe ist Coastal Blue vorausgewählt. Nur der generische Text "Ready to Ship – Limited Stock" ist sichtbar. "dry in 2 hours" wird bestätigt | **Bruch** beim Knappheitsversprechen. Die Seite setzt die Dringlichkeit nicht fort, und das Ad-Motiv (Rot) ist nicht vorausgewählt |
-| 168246678, Video, 41 Tage, Perf. 100. [Ad Library](https://www.facebook.com/ads/library/?id=1607904514111212), [GetHooked](https://app.gethookd.ai/share/ad/168246678?signature=0780e25635ebab07a104b29b13efc556f8d9616332f12537858f9d96c5a5cd59) | "Check This Before You Buy" / "✓ Does the WHOLE thing fit a normal washing machine? ✓ Is it dry in 2 hours without a tumble dryer? ✓ Can you test it at home for 90 nights? The Pleene EasyRest™: yes, yes and yes." | "Fits in every washing machine" (ATF), FAQ "a normal household machine is enough", "Air-dried … about 2 hours", "90 nights" | **Kongruent** in den drei Punkten. Die eigene Größentabelle ("Fits a drum from 6–8 kg") schränkt das "yes" zur Waschmaschine aber ein |
-| Ergänzend: 145443331, Video, 56 Tage. [Ad Library](https://www.facebook.com/ads/library/?id=1440933327878495) | "Everyone said it. They were right." / "…you never have to change the bed linen again…" | ATF-Bullet "Never change bedding again" | kongruent |
-
-**`/products/easyrest-comforter` (US-Ads):**
-
-| Ad | Hook und Versprechen (wörtlich) | Fortsetzung auf der Seite | Bewertung |
-|---|---|---|---|
-| 182988043, Bild, 15 Tage, Perf. 54. [Ad Library](https://www.facebook.com/ads/library/?id=29208178135432493), [GetHooked](https://app.gethookd.ai/share/ad/182988043?signature=474ac523034272536a305779503c22ea294092cc8bd3cc7b069288c8fe337071) | "Wash The Whole Comforter" / "Yes, the whole comforter goes right in the wash! The Pleene EasyRest™ Comforter fits standard home washers, making fresh, clean bedding refreshingly simple." | Erste Section "Washable like your sheets": "The whole thing goes in — not a cover, the comforter itself." Bullet "Fits in any washing machine" | **Stark kongruent** (Angle A, gleiche Wortwahl "comforter", "standard home washer") |
-| 182988041, Bild, 16 Tage, Perf. 41. [Ad Library](https://www.facebook.com/ads/library/?id=27616218781386469), [GetHooked](https://app.gethookd.ai/share/ad/182988041?signature=656021e045b4ec00d24fe1a994c294542e9ff36636166d025b70fab06f7efb14) | "The Comforter That Does It All" / "No cover. No corners to find. No stuffing required. … all-in-one machine-washable comforter" | "No cover to change" (ATF), "You can skip the top sheet", "comforter and cover in one piece" | **Kongruent** |
-| 200490657, Video, 3 Tage, Perf. 12. [Ad Library](https://www.facebook.com/ads/library/?id=1088262300260108), [GetHooked](https://app.gethookd.ai/share/ad/200490657?signature=14e9cab282a8e5334823ebd0fe803836a252fcd8cf045e8e22111a5867c33ff8) | "Say Goodbye to Duvet Cover Hassle" / "No more stuffing, buttoning or fighting with duvet cover corners. Pleene EasyRest™ combines a duvet and cover in one…" | Die Seite spricht durchgehend von "comforter". Das Wort "duvet" kommt nur in der Beschreibung und in den (britischen) Bewertungen vor. Der Kampf mit dem Bezug wird in "No cover to change" und "You can skip the top sheet" aufgegriffen | **Teilweise kongruent.** Das Versprechen passt, aber die Terminologie der Ad ("duvet") wechselt auf der Seite zu "comforter" |
-
-**`/pages/tb-6`:**
-
-| Ad | Hook und Versprechen (wörtlich) | Fortsetzung auf der Seite | Bewertung |
-|---|---|---|---|
-| 193234221, Video, 8 Tage, Perf. 52. [Ad Library](https://www.facebook.com/ads/library/?id=2325762131511604), [GetHooked](https://app.gethookd.ai/share/ad/193234221?signature=34d449a91191d816e5a91f7d690e2d93f52044d2af092704c3b3dece336abb59) | "Everyone said it. They were right." / "I only ordered it because everyone said you never have to change the bed linen again. Annoyingly, they were right. … wash it whole, dry in 2 hours, throw it back on." | Kicker '"Never change your bed linen on a Sunday again"', H1 "How 7,000+ people said goodbye to putting duvet covers on", Social Proof von 7,000+ Kunden und Trustpilot, "Dry in about 2 hours" | **Stark kongruent.** Testimonial-Hook trifft auf eine Social-Proof-Seite, fast wortgleich ("never change your bed linen") |
-| 193234215, Bild, 8 Tage, Perf. 52. [Ad Library](https://www.facebook.com/ads/library/?id=1068343922634373), [GetHooked](https://app.gethookd.ai/share/ad/193234215?signature=92968440b95005fe0fc1bf85409c9b3366e3ae8f6dbf240ce5448a242e85affb) | "No More Fighting With Duvet Covers" (gleicher Text wie 136388964, inkl. "Get 2 free Pleene™ Pillow Cases today (worth £39.99). / 90 nights to try it risk-free.") | Hero "No more putting covers on", Kasten "2 matching pillowcases free … Worth £39.99", "90 nights risk-free trial" | **Kongruent** (Bezug, Angebot, Garantie) |
-| 193234218, Video, 8 Tage, Perf. 1. [Ad Library](https://www.facebook.com/ads/library/?id=1114220797783359), [GetHooked](https://app.gethookd.ai/share/ad/193234218?signature=3870fec0fed270d728da178501d4d67c9e13c536497ef821674e8f3e9c30953b) | "Be honest. When did you last wash it?" / "This week only: 2 free Pleene™ Pillow Cases with every duvet. And if you want the bedroom ready for the colder nights, Hearth Red is the one everyone picks, and it's almost gone. …" | Hygiene nur in der Vergleichstabelle ("Duvet rarely washed") und in der FAQ. Das Angebot heißt "Autumn offer … while stocks last" statt "This week only". Hearth Red und Farbknappheit kommen nicht vor | **Schwach.** Der Hygiene-Hook (A) wird nicht prominent fortgesetzt. Die Dringlichkeit "This week only" bzw. Farbe fehlt |
-
-**`/products/easyrest-duvet`:**
-
-| Ad | Hook und Versprechen (wörtlich) | Fortsetzung auf der Seite | Bewertung |
-|---|---|---|---|
-| 178749258, Bild, 23 Tage, Perf. 81. [Ad Library](https://www.facebook.com/ads/library/?id=1750276626195989), [GetHooked](https://app.gethookd.ai/share/ad/178749258?signature=26142585e8a79bd682cbb72cd7ae73d46e39dc00bb8ff65b79f19d32e5e4e2cb) | "No Launderette Needed. Ever." / "❄️ Your winter duvet shouldn't need a launderette. … ✓ Cover sewn in, nothing to strip off ✓ Fits a normal washing machine 🧺 ✓ Filling quilted in place, no cold spots ✓ Dry again in about 2 hours / 🎁 Right now: 30% off + 2 FREE matching pillow cases." | "10.5 TOG — proper winter warmth", "Fits in every washing machine", Geschenk-Kasten, "SAVE 34%" (Narrow; 23–35 % je nach Größe) | **Kongruent** (Winter, Waschmaschine, Angebot). Die "30% off" der Ad entsprechen 23–35 % auf der Seite. "launderette" kommt auf der Seite nicht vor |
-| 178749251, Video, 23 Tage, Perf. 81. [Ad Library](https://www.facebook.com/ads/library/?id=1792003651846452), [GetHooked](https://app.gethookd.ai/share/ad/178749251?signature=f7a95b97af4df738359f0bc0b4a21bbd6f5508efef5391e097423762a823afc1) | "Warm Enough For A British Winter" / '❄️ "You'll freeze under that in winter." Here's the honest answer: the Pleene EasyRest™ is rated 10.5 tog, a proper autumn and winter weight, and the whole thing still goes in your washing machine.' | ATF-Bullet "10.5 TOG — proper winter warmth", Galerie "10.5 TOG. Built for British winters.", Section "10.5 TOG. Built for cold nights.", FAQ "It looks thin…" | **Sehr stark kongruent.** Die Seite ist für genau diesen Einwand gebaut |
-| 179476350, Bild, 22 Tage, Perf. 81. [Ad Library](https://www.facebook.com/ads/library/?id=935523852471023), [GetHooked](https://app.gethookd.ai/share/ad/179476350?signature=929eaf7be4e50da7829743ff0e7ad0be30111ad47d7408608f8bb7fc89e7de17) | gleicher Text wie 178749251 | wie oben | **Sehr stark kongruent** |
-
-**Fazit Kongruenz:**
-
-- Am besten passen die **Tog-Ads auf die easyrest- und easyrest-duvet-Seite** (B auf B), die **Testimonial- und Bezug-Ads auf tb-6** und die **Wasch-Ads auf die US-Comforter-Seite**.
-- Brüche entstehen bei Knappheits-Ads (Farbe "nearly gone", "This week only"), weil die Seiten dazu nichts zeigen.
-- Ein weiterer Bruch: Hygiene-Hooks wie "When did you last wash it?" laufen auf tb-6, wo Hygiene nur am Rand vorkommt.
-
----
-
-### 3.11 Technik
-
-**Shopify-Theme:** `Shopify.theme = {"name":"working of shrine-theme-pro","id":203880759628,"schema_name":"Shrine PRO","schema_version":"1.8.0","theme_store_id":null}`. Shrine PRO kommt nicht aus dem Theme Store und lädt `js.shrinetheme.com`. Die Section `global-music-player` ist vorhanden. Der Shopify-Store heißt `sq48au-70.myshopify.com`, die Shop-ID ist 106066411852.
-
-**Apps (im HTML nachgewiesen über App-Embeds bzw. Extensions):**
-
-| App | Funktion im Funnel | Nachweis |
+#### Video 200490719 – Ditch The Duvet Cover
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID | 200490719 (Media 528521262) |
+| Meta-ID | 1099152986192830 |
+| Ad Library | https://www.facebook.com/ads/library/?id=1099152986192830 |
+| share_url | https://app.gethookd.ai/share/ad/200490719?signature=02b20c37beecbaad1d44b7e74cd81762006aa203ca85a92692a4fce5b3aa9e84 |
+| Start / Tage aktiv | 2026-10-06 / 3 (start_to_today, active) |
+| performance_score / used_count | 30 („Testing“) / 1 (enriched: 12) |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | https://pleene.com/products/easyrest (product_page) |
+| Link-Beschreibung | „Keep bedding simple“ |
+| Plattformen / Länder | facebook, instagram, audience_network, whatsapp, threads / `[]` (n/a) |
+| Technik | 22,63 s · 720×1280 · 29,97 fps · AAC 48 kHz · mean −15,0 dB, max −0,0 dB, keine Stille |
+| Schnitte | 0,3: 5 echte Schnitte (2,10 / 5,77 / 9,58 / 13,58 / 17,65; der Wert bei 0,03 ist die Einblendung aus Schwarz) = **2,21 pro 10 s** (0–10 s: 3 · 10–20 s: 2 · 20–22,6 s: 0); 0,15 identisch |
+
+**Primärtext (wörtlich):** „Still using a separate duvet cover? There's another way. Pleene EasyRest™ combines the duvet and cover in one, so the whole thing goes into the wash and dries in 2 hours.“
+
+**Transkript:** GetHooked liefert „Thanks for watching!“ (0,00–22,48 s), also einen **Platzhalter**. Audio-Check:
+- Pegel: mean −15,0 dB, max −0,0 dB, keine Stille.
+- Spektrogramm: gleichmäßige tonale Notenlinien und ein regelmäßiges Bass- bzw. Percussion-Raster, keine Formant-Gleitbewegungen.
+- Lokales Whisper erkennt nur die Halluzination „Thank you.“ (0–22,24 s, no_speech_prob 0,17, avg_logprob −0,72).
+
+**Ergebnis: nur Musik, keine Sprache.**
+
+**Hook (0–3 s)**
+- Gesprochen: keiner.
+- Eingeblendet: „This is your sign to / rethink your duvet.“ (0,23–2,10).
+- Bild: schwarzer Startframe, ab 0,23 s ein Mann (ca. 55–65, Glatze, grünes Polo) im Schlafzimmer mit Terrakotta-Fliesen und Tiffany-Deckenlampe, der eine dunkelblaue bzw. schwarze Steppdecke aufs Bett wirft.
+- Hook-Typ: „Sign“-Meme bzw. Pattern-Interrupt.
+
+**Einblendungen (Serifenschrift, weiß in halbtransparenter grauer Box, unten mittig, mit Fade)**
+- „This is your sign to / rethink your duvet.“ (0,23–2,10)
+- „One duvet. / No separate cover.“ (2,10–5,77)
+- „And the whole thing goes / right into the wash.“ (5,77–9,58)
+- „Two hours later, / it's dry“ (9,58–13,58)
+- „and back on / my bed.“ (13,58–17,65)
+- Endkarte auf Schwarz: „A Fresh Bed, / Done My Way.“ (goldfarben), „Pleene.“, „EasyRest™“, ab ca. 21 s „SHOP NOW“ (17,65–22,63)
+
+**Szenenliste (an jedem Schnitt angesehen)**
+| Sek. | Szene |
+|---|---|
+| 0,00–0,23 | Schwarz |
+| 0,23–2,10 | Schlafzimmer (Holzbett, Bild an der Wand, Terrakotta-Fliesen): Mann wirft die dunkle Decke aufs Bett |
+| 2,10–5,77 | Nahaufnahme: Hand streicht über die dunkle Steppdecke am Bettrand, orangefarbener Teppich |
+| 5,77–9,58 | Weiße **Toplader**-Waschmaschine mit Warnaufkleber; Person mit langen blonden Haaren stopft eine **mintgrüne** Decke hinein. Bei 9,0 s liegt eine Papierrolle in der Trommel |
+| 9,58–13,58 | Garten mit Efeuwand: der Mann (jetzt gelbes Shirt) nimmt die dunkle Decke von der Wäscheleine |
+| 13,58–17,65 | Zweites Schlafzimmer (Holzboden, Kommode): Person mit hellem Haar liegt im Bett und zieht die mintgrüne Decke hoch |
+| 17,65–22,63 | Schwarze Endkarte, Text blendet nacheinander ein |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
 |---|---|---|
-| Kaching Bundles (`kaching-bundles-2039`) | Mengenstaffel 1/2/3 mit "Couple-Bundle"/"Family-Bundle", Cart-Rabatte | Extension, `kaching-bundles-deal`-Inputs, `apps/kaching-bundles` |
-| Judge.me (`judgeme-774`) | Sterne-Badge und Bewertungs-Widget, Bild-Reviews (auch auf tb-6) | Extension, Web-Pixel "Judge.me" |
-| Elevate A/B Testing (`elevate-ab-testing-201`, `apps/elevateab`) | Preis-, Template- und Split-URL-Tests, Geo-Weiterleitungen | `window.eab_data` mit 12 Tests (s. u.) |
-| HeyMerch Sales Stock Counter (`heymerch-sales-stock-counter-51`) | Lager- bzw. Verkaufszähler. Geladen, aber im Test **nicht sichtbar**; die Knappheitszeile ist fest im Theme | Extension-Skripte |
-| Klaviyo (`apps/klaviyo-email-marketing-sms`) | Pop-up "Welcome Pop Up - Email" (Gewinnspiel), Newsletter | `static.klaviyo.com`, Formular RJktrA |
-| ParcelPanel (`apps/parcelpanel`, Pixel-Endpunkt `api.parcelwill.com`) | "Track Your Order" | Seite `/apps/parcelpanel` |
-| Zigpoll | Umfragen (z. B. Post-Purchase; nicht verifiziert, welche) | `cdn.zigpoll.com` |
-| Lucky Orange | Session-Recording und Heatmaps | `tools.luckyorange.com`, `apps/lucky-orange` |
-| Triple Whale | Attribution | `apps/triplewhale`, `TriplePixel` |
-| Google Ads Pixel by Nabu | Google-Ads-Conversion | `apps/google-ads-pixel-by-nabu`; Web-Pixel mit `AW-18246939242` |
-| Shopify Bundle-Deals-Section des Themes | "The Cosy Bundle" / "The Full Sleep Set:" | Section `bundle_deals_EQzQcN` |
+| Hook | 0,23–2,10 | „This is your sign to rethink your duvet.“ |
+| Problem | – | **fehlt** im Video (nur im Primärtext: „Still using a separate duvet cover?“) |
+| Verstärkung | – | **fehlt** |
+| Lösung | 2,10–5,77 | „One duvet. No separate cover.“ |
+| Mechanismus | 5,77–9,58 | „And the whole thing goes right into the wash.“ |
+| Beweis | 9,58–17,65 | nur Demo („Two hours later, it's dry“ an der Leine, „and back on my bed.“) |
+| Angebot | – | **fehlt** (auch im Primärtext kein Angebot) |
+| CTA | 17,65–22,63 | Endkarte „SHOP NOW“ + Button „Shop now“ |
 
-**Web-Pixel (`webPixelsConfigList`), 13 Einträge:**
+**Wer ist zu sehen / wer spricht**
+- Zu sehen sind ein Mann (ca. 55–65, Glatze) und eine bzw. zwei Personen mit langen blonden bzw. hellen Haaren (Gesicht nur angeschnitten, ca. 50–65, **nicht verifiziert**).
+- Einschätzung: **echte Personen bzw. echtes UGC-Footage**. Begründung: Handkamera, natürliches Licht, reale Details (Warnaufkleber, Papierrolle in der Trommel, Wäscheleine).
+- Die Clips sind sichtbar zusammengesetzt: Die Deckenfarbe wechselt zwischen dunkel und mint, Personen und Räume wechseln.
+- US-anmutende Umgebung (Toplader, Bauart der Wohnung). Das ist eine Interpretation, **nicht verifiziert**.
+- Kein Sprecher.
 
-- **Meta Pixel** `pixel_id 2174873679968281` (facebook_pixel)
-- **Google Ads** `AW-18246939242`
-- Judge.me
-- ParcelPanel (`api.parcelwill.com`)
-- Shopify Standard- und Custom-Pixel
-- Weitere App-Pixel mit Konfigurationen `siteId`, `storeId`, `accountID 1880964 / spfy-pxl.archive-digger.com`, `marketerIds` (Format passt zu Outbrain) und `shopifyDomain`. Ihre Zuordnung ist nicht verifiziert.
-- **Kein TikTok-, Pinterest- oder Snapchat-Pixel** gefunden.
+**Setting:** zwei Schlafzimmer, Hauswirtschaftsraum mit Toplader, Garten mit Wäscheleine, schwarze Endkarte.
 
-**GetHooked** (`get_shop` 47758 / `get_ad_technologies`; für alle 4 Seiten identisch):
+**Avatar / Angle**
+- **Avatar:** Menschen ab ca. 50, die den separaten Bezug lästig finden und „simple bedding“ wollen. Ruhige, „neue Gewohnheit“-Ansprache.
+- **Angle C** (kein separater Bezug) als Haupt-Angle, **A** sekundär (ganze Decke in die Wäsche, trocken in 2 Stunden).
 
-- Pixel: Microsoft Clarity (93), Google Analytics (88), Meta Pixel (88)
-- Apps: Judge.me, Klaviyo, Loox, Shop Pay, Yotpo, Trustpilot, Kaching Bundle Quantity Breaks
-- Theme "working of shrine-theme-pro"
-- Clarity wird in der Elevate-Konfiguration über `hasClarityEnabled` angesprochen; ein eigenes Clarity-Tag im HTML wurde nicht gefunden.
-- Loox, Yotpo und Okendo sind im HTML nur Null-Variablen des Themes, also wahrscheinlich falsch-positiv.
-- GetHooked schätzt den Shop als "US" (`country_kind: likely`) mit Währung "USD" (inferred). Das widerspricht der Basiswährung GBP.
-- monthly_visits 29,356, 29 Produkte.
+**Haupt-Emotion:** Neugier („This is your sign …“), dann ruhige Erleichterung und Zufriedenheit („A Fresh Bed, Done My Way.“).
 
-**Elevate-A/B-Tests (aus `window.eab_data.allTests`, Namen wörtlich):**
+**Schnitttempo / Untertitel / Ton:** 2,21 Schnitte pro 10 s. Keine Sprach-Untertitel, aber Ich-Text-Einblendungen im Untertitel-Look (Serifen, graue Box). Nur Musik.
 
-| Test | Typ | Live | Bedingungen | Inhalt |
+**Zahlen und Behauptungen (wörtlich):** „One duvet. No separate cover.“ · „And the whole thing goes right into the wash.“ · „Two hours later, it's dry“ (gezeigt mit Lufttrocknung im Garten) · „A Fresh Bed, Done My Way.“ Primärtext: „dries in 2 hours“.
+
+**Angebotspräsentation:** keine (weder Kissenbezüge noch £-Wert, 90 Nächte oder Knappheit).
+
+**Varianten-Hinweis**
+- **200036996**: gleiche Headline „Ditch The Duvet Cover“, gleicher Primärtext, Start 2026-10-06, identischer Platzhalter „Thanks for watching!“ 0–22,48 s. Wahrscheinlich dieselbe Datei, visuell **nicht verifiziert**.
+- Schnittvorlage wie **200490657** (schwarzer Vorlauf, graue Serifen-Box, schwarze „Pleene.“-Endkarte, 29,97 fps / 48 kHz). Keine gemeinsame Musik (Kreuzkorrelation < 0,3).
+
+---
+
+#### Video 200490716 – No More Fighting With Duvet Covers
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID | 200490716 (Media 528521266) |
+| Meta-ID | 2233952628001235 |
+| Ad Library | https://www.facebook.com/ads/library/?id=2233952628001235 |
+| share_url | https://app.gethookd.ai/share/ad/200490716?signature=f9af223b680c0ee04bd5687c44ba0fd8ca69eace21b5373ed6b6f893022689ff |
+| Start / Tage aktiv | 2026-10-06 / 3 (start_to_today, active) |
+| performance_score / used_count | 30 („Testing“) / 1 (enriched: 12) |
+| CTA | SEE_DETAILS – „See details“ |
+| Landingpage | https://pleene.com/products/easyrest (product_page) |
+| Link-Beschreibung | „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ |
+| Plattformen / Länder | facebook, instagram, audience_network, whatsapp, threads / `[]` (n/a) |
+| Technik | 44,07 s · 720×1280 · 25 fps · AAC 44,1 kHz · mean −16,8 dB, max −4,3 dB, keine Stille |
+| Schnitte | 0,3: 10 = **2,27 pro 10 s**; 0,15: 11 (+19,96) = 2,50 pro 10 s (0–10 s: 2 · 10–20: 3 · 20–30: 3 · 30–40: 3 · 40–44: 0) |
+
+**Primärtext (wörtlich):** „Duvet + Cover in One 🌙 / The Pleene EasyRest™ makes changing the bed finally simple. Wash it, dry it, and lay it back on — that's it. / ✓ No more wrestling with a separate duvet cover / ✓ Pleasantly cool in summer, cosily warm in winter / ✓ Hypoallergenic and kind to sensitive skin / Get 2 free Pleene™ Pillow Cases today (worth £39.99). / 90 nights to try it risk-free. / Enjoy a bed that always feels fresh.“
+
+**Transkript (GetHooked, vollständig, wörtlich; Segmentgrenzen laufen mitten durch Sätze):**
+| Sek. | Text |
+|---|---|
+| 0.00–4.00 | „I'm not going to lie, at my age, changing the bed had become a real struggle.“ |
+| 4.00–9.36 | „All that bending and reaching to wrestle the duvet into its cover left my shoulders and back“ |
+| 9.36–14.56 | „aching every single time. Then my daughter got me the Plein Easy Rest Duvet and honestly it's“ |
+| 14.56–19.60 | „been a game changer. It's a duvet and cover in one. When it's washing day, the whole thing just“ |
+| 19.60–24.64 | „goes straight in the machine and then the tumble dryer. That's it. I can make my own bed again“ |
+| 24.64–30.00 | „without it hurting. And it feels lovely too. Breathable, so it's cool in summer and warm in“ |
+| 30.00–35.28 | „winter. And those Plein Egg pillowcases are so soft. If you're getting on a bit like me,“ |
+| 35.28–41.04 | „just try it. Right now it comes with two free Plein pillowcases worth £39.99 and“ |
+| 41.04–43.68 | „there's a 90-night trial so there's really nothing to lose.“ |
+
+**Audio**
+- Eine weibliche Stimme (f0-Median 195 Hz, p25 176 / p75 222 Hz). Das passt zur gezeigten älteren Frau, ist aber **nicht verifiziert**.
+- Im Spektrogramm liegt unter der Sprache ein tieffrequentes Band, das sich ab ca. 7,5 s rhythmisch verändert. Vermutlich ein Musikteppich (**nicht verifiziert**).
+- Die Sprecherin ist nur in den Selfie-Einstellungen (0–1,24 s und 33,96–37,24 s) im Bild. Sonst läuft die Stimme als Voiceover über Handlungsszenen.
+
+**Hook (0–3 s)**
+- Gesprochen: „I'm not going to lie, at my age, changing the bed had become a real struggle.“ (0–4 s)
+- Eingeblendet: nur Einzelwort-Untertitel („I'M“, „LIE“, „AGE“, „CHANGING“, „HAD“ …).
+- Bild: Ältere Frau (ca. 65–75, kurze graue Haare, Brille, grauer V-Pullover) in Selfie-Haltung auf dem Bett. Ab 1,24 s kämpft sie mit Bezug und Decke (blau geblümter Bezug, Strickdecke).
+- Hook-Typ: Geständnis bzw. Alters-Identifikation.
+
+**Einblendungen**
+- Wort-für-Wort-Untertitel („Karaoke“-Stil): weiße fette Großbuchstaben mit Schatten, mittig, je ein Wort, synchron zum Transkript. Gesehen u. a.: „I'M“ (0,0), „LIE“ (1,0), „AGE“ (1,44), „CHANGING“ (2,0), „HAD“ (3,0), „BENDING“ (4,6), „REACHING“ (5,5), „SINGLE“ (10,5), „TIME“ (11,0), „REST“ (13,0), „CHANGER“ (15,5), „ONE“ (17,76), „IT'S“ (18,0), „STRAIGHT“ (20,16), „MACHINE“ (20,5), „AND“ (21,32), „CAN“ (23,88), „HURTING“ (25,5), „FEELS“ (26,44), „BREATHABLE“ (28,0), „SO“ (33,0), „IF“ (34,16), „JUST“ (35,5), „TWO“ (37,44), „PLEENE“ (38,0), „£39.99“ (40,5), „NOTHING“ (43,0), „LOSE“ (43,92). Der Untertitel schreibt korrekt „PLEENE“, Whisper hörte „Plein“.
+- Endkarte (37,24–44,07, langsamer Schwenk über ein gerendertes Schlafzimmer mit blauer Decke): „90-Night / Free Trial“, „FREE TODAY“, „2×“, „Pleene™ Pillow Cases“, „**Value £49.99**“ (bei 43,92 s in voller Auflösung gelesen).
+
+**Szenenliste (an jedem Schnitt angesehen)**
+| Sek. | Szene |
+|---|---|
+| 0,00–1,24 | Selfie: ältere Frau sitzt auf dem Bett, warmes Lampenlicht, Fotos auf der Kommode; im Hintergrund liegt bereits eine mintgrüne Steppdecke |
+| 1,24–4,40 | Halbtotale: sie zerrt an blau geblümtem Bezug und Strickdecke, Gesicht angestrengt |
+| 4,40–10,80 | Sie sitzt im Bett mit Decke halb im Bezug, Hand an Schulter und Rücken (4,6), stopft die weiße Innendecke |
+| 10,80–17,56 | Sie steht lächelnd und hält die mintgrüne EasyRest hoch, zeigt sie (11,0–15,5) |
+| 17,56–19,96 | Nahaufnahme: weißer Frontlader (Beko-Logo), Hand mit Ehering schiebt die mintgrüne Decke hinein |
+| 19,96–21,12 | Gleiche Maschine, anderer Winkel, Tür wird geschlossen |
+| 21,12–23,68 | Zweite Waschmaschine bzw. Trockner (Korb oben), Decke wird hineingeschoben |
+| 23,68–26,24 | Schlafzimmer: sie breitet die Decke mühelos übers Bett, lächelt |
+| 26,24–30,48 | Sie sitzt auf dem Bett und streicht über die Decke |
+| 30,48–33,96 | Sie hält ein mintgrünes Kissen im Arm, lächelt in die Kamera |
+| 33,96–37,24 | Selfie wie zu Beginn: „If you're getting on a bit like me, just try it.“ |
+| 37,24–44,07 | Gerenderte Angebots-Endkarte (Schwenk) |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook | 0–4,0 | „at my age, changing the bed had become a real struggle“ |
+| Problem | 4,0–10,8 | „All that bending and reaching to wrestle the duvet into its cover“ |
+| Verstärkung | 4,4–10,8 | „left my shoulders and back aching every single time“; Bild: Hand an Schulter (4,6) und unterem Rücken (10,5) |
+| Lösung | 10,8–17,6 | „Then my daughter got me the Plein Easy Rest Duvet … game changer. It's a duvet and cover in one.“ |
+| Mechanismus | 17,6–23,7 | „When it's washing day, the whole thing just goes straight in the machine and then the tumble dryer. That's it.“ |
+| Beweis | 23,7–33,9 (schwach) | Ergebnis in Ich-Form: „I can make my own bed again without it hurting.“ (Demo), dazu „Breathable, so it's cool in summer and warm in winter“, „pillowcases are so soft“. Keine Fremdbelege im Video (nur die Link-Beschreibung nennt „Over 10,000 Happy Customers“) |
+| Angebot | 37,2–43,7 | „two free Plein pillowcases worth £39.99“, „90-night trial“; Endkarte „FREE TODAY“, „Value £49.99“, „90-Night Free Trial“ |
+| CTA | 34,0–37,2 | „If you're getting on a bit like me, just try it.“ + Button „See details“ |
+
+**Wer ist zu sehen / wer spricht**
+- Eine Frau, geschätzt 65–75 (graue Kurzhaarfrisur, Brille, grauer Pullover). Sie spielt eine Betroffene, ihre Tochter hat ihr die Decke geschenkt.
+- Einschätzung: **wahrscheinlich KI-generiert (nicht verifiziert).** Begründung:
+  1. Glatte, gleichmäßig warm ausgeleuchtete Foto-Optik in allen Einstellungen, auch in der Waschküche.
+  2. Kontinuitätsbruch: Schon in der „Vorher“-Selfie-Einstellung (0 s) liegt die mintgrüne EasyRest auf dem Bett.
+  3. Einstellungslängen von 1–7 s mit jeweils neu komponierter Szene, typisch für generierte Clips.
+  4. Die Endkarte ist sichtbar gerendert.
+  5. Einzelwort-Untertitel, wie sie typische „AI-UGC“-Tools erzeugen.
+- Lippensynchronität: Bei 0,0 s („I'M“) ist der Mund geöffnet, plausibel. Frame-genau geprüft habe ich das nicht.
+- Ob die Stimme eine KI- oder Sprecherstimme ist, ist **nicht verifiziert**.
+
+**Setting:** warm beleuchtetes Schlafzimmer einer älteren Person (Familienfotos, Nachttischlampe), Waschküche (Beko-Frontlader, zweite Maschine bzw. Trockner), gerenderte Endkarte.
+
+**Avatar / Angle**
+- **Avatar:** Ältere Menschen, ca. 65+, mit Schulter- und Rückenbeschwerden, die beim Beziehen Hilfe brauchen oder ihre Selbstständigkeit verlieren. Zweiter Avatar: deren erwachsene Kinder als Käufer („my daughter got me“).
+- **Angle E** (körperliche Beschwerden: Schultern, Rücken, Alter, Bücken und Strecken) als Haupt-Angle. Dazu **F-Selbstständigkeit im Alter** („I can make my own bed again“), **D** als Anklang (Geschenk der Tochter), **C** (kein Bezug), **B** („cool in summer and warm in winter“) und **F-Angebot**.
+
+**Haupt-Emotion:** Frust und Schmerz, dann Erleichterung und wiedergewonnene Würde bzw. Selbstständigkeit.
+
+**Schnitttempo / Untertitel / Ton:** 2,27 Schnitte pro 10 s (Feinwert 2,50). Untertitel ja (Einzelwort-Karaoke, weiße fette Großbuchstaben). Ton: Voiceover bzw. teilweise On-Camera-Rede, darunter vermutlich ein Musikteppich (nicht verifiziert).
+
+**Zahlen und Behauptungen (wörtlich):** „at my age“ · „bending and reaching“ · „left my shoulders and back aching every single time“ · „It's a duvet and cover in one.“ · „goes straight in the machine and then the tumble dryer“ · „I can make my own bed again without it hurting“ · „Breathable, so it's cool in summer and warm in winter“ · „two free Plein pillowcases worth £39.99“ · „90-night trial“ · „nothing to lose“. Endkarte: „90-Night Free Trial“, „FREE TODAY“, „2× Pleene™ Pillow Cases“, „Value £49.99“. Primärtext: „Hypoallergenic and kind to sensitive skin“, „(worth £39.99)“, „90 nights to try it risk-free“. Link-Beschreibung: „Over 10,000 Happy Customers“.
+
+**Angebotspräsentation:** gesprochen „two free … pillowcases worth £39.99“ plus 90-Nächte-Test, als Risikoumkehr formuliert („there's really nothing to lose“). Auf der Endkarte „FREE TODAY“ und **„Value £49.99“**. Das ist ein **Widerspruch** zum gesprochenen Wert und zum Primärtext (£39.99). Keine Farb- oder Mengenknappheit.
+
+**Varianten-Hinweis**
+- Der Primärtext ist identisch mit der Familie „No More Fighting With Duvet Covers“ (u. a. 136389861, 133366534, 151025063, 182988073, 193234279).
+- Das Video selbst ist eigenständig (md5 einzigartig, keine Ton-Übereinstimmung mit allen 33 anderen Videos).
+- Ein weiteres Video mit dieser Seniorin ist in `wf/vid/` **nicht vorhanden**. Verwandte IDs außerhalb des Downloads sind nicht erkennbar.
+
+---
+
+#### Video 200490712 – Check This Before You Buy
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID | 200490712 (Media 528521242) |
+| Meta-ID | 1570785790996577 |
+| Ad Library | https://www.facebook.com/ads/library/?id=1570785790996577 |
+| share_url | https://app.gethookd.ai/share/ad/200490712?signature=5ca96434dc1391452bf61216cdc94bffb3d3b8ab283563c1354672fbd689d547 |
+| Start / Ende / Tage | 2026-10-06 / **2026-10-07 (inactive)** / 2 (start_to_end_date) |
+| performance_score / used_count | **null (n/a)** / 1 (enriched: 12) |
+| CTA | ORDER_NOW – „Order now“ |
+| Landingpage | https://pleene.com/products/easyrest (page_type null) |
+| Link-Beschreibung | „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ |
+| Plattformen / Länder | facebook, instagram, audience_network, whatsapp, threads / `[]` (n/a) |
+| Technik | 27,12 s · 720×1280 · 30 fps · AAC 44,1 kHz · mean −16,2 dB, max −0,9 dB, keine Stille |
+| Schnitte | 0,3: 5 (3,70 / 4,37 / 9,87 / 16,10 / 21,53) = **1,84 pro 10 s** (0–10 s: 3 · 10–20: 1 · 20–27: 1); 0,15: 8 (+7,53 / 18,77 / 25,07) = 2,95 pro 10 s |
+
+**Identität:** Die MP4 ist **byte-identisch mit 168246678** (Batch 2, Top-20, Score 100, Start 2026-08-29), md5 `723e0be36eeea3ea93d413a42e7d6e46`. Die Tonspur korreliert zu 1,0000 bei Lag 0. Headline, Primärtext, CTA und Landingpage sind identisch. Abweichend: zusätzlich die Plattform whatsapp, Länderliste leer, nach 2 Tagen inaktiv.
+
+**Primärtext (wörtlich):** „Before you buy a coverless duvet, check three things: ✅ / ✓ Does the WHOLE thing fit a normal washing machine? / ✓ Is it dry in 2 hours without a tumble dryer? / ✓ Can you test it at home for 90 nights? / The Pleene EasyRest™: yes, yes and yes.“
+
+**Transkript:** GetHooked meldet `no_speech`, das Transkript ist leer. Audio-Check:
+- Pegel: mean −16,2 dB, max −0,9 dB, keine Stille.
+- Spektrogramm: tonale Akkordblöcke und Percussion-Transienten, keine Formanten.
+- Lokales Whisper erkennt nur die Halluzination „Thanks for watching, see you next time.“ (0–25,76 s, no_speech_prob 0,68).
+
+**Ergebnis: nur Musik, keine Sprache.**
+
+**Hook (0–3 s):** gesprochen: keiner. Eingeblendet: „Before you buy a coverless duvet / check 3 things“. Bild: Draufsicht auf ein Bett mit salbeigrüner Steppdecke auf Jute-Teppich, langsamer Push-in. Hook-Typ: Kaufcheckliste bzw. Einwand-Vorwegnahme.
+
+**Einblendungen (weiße Sans mit Schatten, mittig; grüne Häkchen-Emojis)**
+- „Before you buy a coverless duvet / check 3 things“ (0–3,70)
+- „1. Does the WHOLE thing / fit a normal washing machine?“ (3,70–9,87); ab ca. 6,5 s (gesehen bei 7,0) zusätzlich „Ours does. ✅“
+- „2. Is it dry in 2 hours / without a tumble dryer?“ (9,87–16,10); ab ca. 12,5 s (gesehen bei 13,0) „2 hours. No dryer. ✅“
+- „3. Can you test it / at home for 90 nights?“ (16,10–21,53); ab ca. 18 s (gesehen bei 18,97) „90 nights. Zero risk. ✅“
+- „The Pleene EasyRest: yes, yes and yes.“ (21,53–ca. 23,5)
+- „On offer now — with 2 free pillow cases.“ (ca. 23,5–25,07)
+- Endkarte: „Pleene“ / „THE ORIGINAL“ / „2× Pleene™ Pillow Cases FREE“ / „Value £39.99“ / „90-Night Trial“ (25,07–27,12)
+
+**Szenenliste (an jedem Schnitt angesehen: 3,90 / 4,57 / 7,73 / 10,07 / 16,30 / 18,97 / 21,73 / 25,27)**
+| Sek. | Szene |
+|---|---|
+| 0–3,70 | Draufsicht: Bett mit salbeigrüner Decke und Kissen, Jute-Teppich, Blumen auf dem Nachttisch |
+| 3,70–4,37 | Waschküche (weiße Schränke, Fenster, Korb); Decke quillt aus offenem Frontlader |
+| 4,37–7,53 | Nahaufnahme: Faust und Arm stopfen die Decke in die Trommel |
+| 7,53–9,87 | Geschlossene Tür, Decke in der Trommel |
+| 9,87–16,10 | Heller Raum, Holz-Wäscheständer; Hand legt die Decke darüber und streicht sie glatt |
+| 16,10–18,77 | Abendliches Schlafzimmer mit Lampe, Bett mit grüner Decke |
+| 18,77–21,53 | Nahaufnahme Deckentextur, Lampen-Bokeh |
+| 21,53–25,07 | Helles Schlafzimmer, Bett mit grüner Decke (Push-in) |
+| 25,07–27,12 | Endkarte auf beige strukturiertem Hintergrund |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook | 0–3,7 | „Before you buy a coverless duvet check 3 things“ |
+| Problem | – | **fehlt** (nur implizit: Angst vor Fehlkauf) |
+| Verstärkung | – | **fehlt** |
+| Mechanismus | 3,7–21,5 | Drei Prüfkriterien mit „Ours does.“ / „2 hours. No dryer.“ / „90 nights. Zero risk.“ |
+| Lösung | 21,5–23,5 | „The Pleene EasyRest: yes, yes and yes.“ |
+| Beweis | – | **fehlt** (nur Häkchen-Behauptungen und gerenderte Demo) |
+| Angebot | 23,5–27,1 | „On offer now — with 2 free pillow cases.“ und Endkarte „2× … FREE / Value £39.99 / 90-Night Trial“ |
+| CTA | – | **fehlt im Video**. Button „Order now“ |
+
+**Wer ist zu sehen / wer spricht:** keine Person, nur Hand und Arm, kein Sprecher. Bildmaterial **vermutlich KI-generiert (nicht verifiziert)**. Begründung: makellose Render-Interieurs, keine Gesichter, dieselbe Decke in allen Räumen, weiche synthetische Kamerafahrten.
+
+**Setting:** Schlafzimmer (Draufsicht, abends, hell), Waschküche, Raum mit Wäscheständer, Endkarte.
+
+**Avatar / Angle**
+- **Avatar:** lösungsbewusste, skeptische Vergleichskäufer, die „coverless duvets“ bereits kennen.
+- **Angle F-Einwand/Kaufhilfe (Checkliste)** als Haupt-Angle. Dazu **A** (ganze Decke waschen, ohne Trockner trocken), **F-Angebot** und die Positionierung „THE ORIGINAL“ gegen Nachahmer.
+
+**Haupt-Emotion:** Neugier und Skepsis, dann Sicherheit und Vertrauen („Zero risk“).
+
+**Schnitttempo / Untertitel / Ton:** 1,84 Schnitte pro 10 s (Feinwert 2,95). Keine Untertitel, nur Text-Overlays. Nur Musik.
+
+**Zahlen und Behauptungen (wörtlich):** „check 3 things“ · „Does the WHOLE thing fit a normal washing machine?“ · „Ours does.“ · „Is it dry in 2 hours without a tumble dryer?“ · „2 hours. No dryer.“ · „Can you test it at home for 90 nights?“ · „90 nights. Zero risk.“ · „On offer now — with 2 free pillow cases.“ · „THE ORIGINAL“ · „2× Pleene™ Pillow Cases FREE“ · „Value £39.99“ · „90-Night Trial“.
+
+**Angebotspräsentation:** 2 Kissenbezüge gratis, Wert „Value £39.99“ (nicht durchgestrichen), „90-Night Trial“ bzw. „Zero risk“. Keine Zeit- oder Farbknappheit.
+
+**Varianten-Hinweis**
+- Byte-identisch mit **168246678**.
+- Hook-Variante **168246686** („Seen coverless duvets all over your feed?“, Batch 2 verifiziert).
+- Gleiche Headline bzw. Primärtext: **185228764** (Start 2026-09-27, `no_speech`, visuell nicht verifiziert) und **168246672** (Transkription nicht angefordert, nicht verifiziert).
+
+---
+
+#### Video 200490708 – Pick a colour. Watch.
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID | 200490708 (Media 528521250) |
+| Meta-ID | 1410624373895542 |
+| Ad Library | https://www.facebook.com/ads/library/?id=1410624373895542 |
+| share_url | https://app.gethookd.ai/share/ad/200490708?signature=c478fee5f2f2b1906248ac292415fd4e4fb6b49899a564cd74f30be3cf28ac09 |
+| Start / Tage aktiv | 2026-10-06 / 3 (start_to_today, active) |
+| performance_score / used_count | 30 („Testing“) / 1 (enriched: 12) |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | https://pleene.com/products/easyrest (product_page) |
+| Link-Beschreibung | „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ |
+| Plattformen / Länder | facebook, instagram, audience_network, whatsapp, threads / `[]` (n/a) |
+| Technik | 14,72 s · 720×1280 · 30 fps · AAC 44,1 kHz · mean −16,1 dB, max −1,1 dB, keine Stille |
+| Schnitte | 0,3: 3 (2,60 / 4,97 / 7,63) = 2,04 pro 10 s; 0,15: 5 (+10,30 / 10,93, Perspektivwechsel bestätigt) = **3,40 pro 10 s** (0–10 s: 3 · 10–14,7 s: 2) |
+
+**Primärtext (wörtlich):** „Pick a colour. Watch what happens. In the video: 8 duvets, 1 empty bed, and the fastest bed-making you'll see today — because the Pleene EasyRest™ needs no cover. One throw, done.“
+
+**Transkript:** GetHooked liefert „🎵Outro Music🎵“ (0,00–14,50 s), also einen **Platzhalter**. Audio-Check:
+- Pegel: mean −16,1 dB, max −1,1 dB, keine Stille.
+- Spektrogramm: wiederkehrende melodische Notenfolgen (Treppenmuster) mit Bass-Anschlägen, keine Formanten.
+- Lokales Whisper erkennt nur „🎵“ (0–14,58 s).
+
+**Ergebnis: nur Musik, keine Sprache.**
+
+**Hook (0–3 s)**
+- Gesprochen: keiner.
+- Eingeblendet: „Don't scroll. / Pick your colour first.“ (schwarze fette Sans, 0–2,60).
+- Bild: leeres weißes Studio, ein Stapel aus **8 Steppdecken** (rot, beige, grau, blau, mint, schwarz, weiß, braun) neben einem leeren weißen Einzelbett. Ab ca. 1 s läuft ein älterer Mann ins Bild.
+- Hook-Typ: Pattern-Interrupt + Interaktionsaufforderung.
+
+**Einblendungen (wörtlich)**
+- „Don't scroll. / Pick your colour first.“ (0–2,60)
+- „Duvet + Cover / in One.“ (2,60–4,97)
+- „Fits in any / washing machine.“ (4,97–7,63)
+- „Dries in / 2 hours.“ + klein „Bed made. In one throw.“ (7,63–ca. 11,5; gesehen bis 11,13)
+- „2× Pleene™ / Pillow Cases FREE · / Value £39.99 · / 90-Night Trial“ (ca. 11,5–14,72; gesehen ab 12,0)
+
+**Szenenliste (an jedem Schnitt angesehen)**
+| Sek. | Szene |
+|---|---|
+| 0–2,60 | Totale weißes Studio: Deckenstapel und leeres Bett, Mann läuft von links ins Bild |
+| 2,60–4,97 | Halbnah: Mann legt die Hand auf den Stapel, gleitet über die Farben |
+| 4,97–7,63 | Nah: Hand zieht die **mintgrüne** Decke aus dem Stapel |
+| 7,63–10,30 | Totale: Mann trägt die mintgrüne Decke zum Bett und holt zum Wurf aus |
+| 10,30–10,93 | Nah: Decke landet auf dem Bett |
+| 10,93–14,72 | Totale: Mann streicht die Decke glatt, Bett mit mintgrünem Kissen fertig, Mann steht lächelnd daneben und geht aus dem Bild (ab 13 s) |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook | 0–2,6 | „Don't scroll. Pick your colour first.“ |
+| Problem | – | **fehlt** |
+| Verstärkung | – | **fehlt** |
+| Lösung | 2,6–5,0 | „Duvet + Cover in One.“ |
+| Mechanismus | 5,0–11,5 | „Fits in any washing machine.“, „Dries in 2 hours.“, „Bed made. In one throw.“ |
+| Beweis | – | **fehlt** (nur Demo-Wurf, vermutlich generiert) |
+| Angebot | ca. 11,5–14,7 | „2× Pleene™ Pillow Cases FREE · Value £39.99 · 90-Night Trial“ |
+| CTA | – | **fehlt im Video**. Button „Shop now“ |
+
+**Wer ist zu sehen / wer spricht**
+- Ein Mann, ca. 60–65 (graues Haar, Dreitagebart, weißes Leinenhemd, beige Chino, weiße Sneaker), als Model bzw. Demonstrator.
+- Einschätzung: **vermutlich KI-generiert (nicht verifiziert).** Begründung:
+  - makelloses, unendlich weißes Studio ohne Gebrauchsspuren;
+  - perfekt ausgerichteter 8-Farben-Stapel;
+  - weiche, physikalisch „zu glatte“ Bewegungen;
+  - Kontinuitätssprung: Das Kissen ist erst weiß (0–10 s), danach mintgrün (ab 11 s);
+  - Bildsprache wie bei Pleenes anderen Template-Videos.
+- Kein Sprecher.
+
+**Setting:** weißes Fotostudio mit Einzelbett.
+
+**Avatar / Angle**
+- **Avatar:** designorientierte Käufer, die vor allem die Farbe wählen wollen. Ältere, stilbewusste Zielgruppe (gezeigtes Model 60+).
+- **F-Farbe/Auswahl** („Pick your colour first“, 8 Farben) als Haupt-Angle. Dazu **C** („Duvet + Cover in One.“, „Bed made. In one throw.“), **A** („Fits in any washing machine.“, „Dries in 2 hours.“) und **F-Angebot**.
+
+**Haupt-Emotion:** Neugier bzw. spielerisches Mitmachen, dann Leichtigkeit und Zufriedenheit.
+
+**Schnitttempo / Untertitel / Ton:** 3,40 Schnitte pro 10 s (Feinwert; 0,3: 2,04). Keine Untertitel, nur Text-Overlays. Nur Musik.
+
+**Zahlen und Behauptungen (wörtlich):** „Don't scroll.“ · „Pick your colour first.“ · „Duvet + Cover in One.“ · „Fits in any washing machine.“ · „Dries in 2 hours.“ · „Bed made. In one throw.“ · „2× Pleene™ Pillow Cases FREE“ · „Value £39.99“ · „90-Night Trial“. Primärtext: „8 duvets, 1 empty bed“, „the fastest bed-making you'll see today“, „One throw, done.“ Im Video sind tatsächlich 8 Decken zu sehen.
+
+**Angebotspräsentation:** Endeinblendung mit 2 Gratis-Kissenbezügen, „Value £39.99“ (nicht durchgestrichen) und „90-Night Trial“. Keine Zeit- oder Mengenknappheit.
+
+**Varianten-Hinweis**
+- **177443533** (Start 2026-09-15) und **185228773** (Start 2026-09-27): gleiche Headline, gleicher Primärtext, identischer Platzhalter „🎵Outro Music🎵“ 0–14,50 s. Wahrscheinlich dieselbe Datei, visuell **nicht verifiziert**.
+- Konzeptnah zum Farbkarussell 182988073 (Batch 3, 7 Farben). Keine gemeinsame Musik (Kreuzkorrelation < 0,3).
+
+---
+
+#### Video 200490701 – Mint Green is almost gone.
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID | 200490701 (Media 528521233) |
+| Meta-ID | 2558876794610991 |
+| Ad Library | https://www.facebook.com/ads/library/?id=2558876794610991 |
+| share_url | https://app.gethookd.ai/share/ad/200490701?signature=af04268440606b4ede2605c8f08f88b62eaaee7acf8bbd6c6b33990e392b96e2 |
+| Start / Tage aktiv | 2026-10-06 / 3 (start_to_today, active) |
+| performance_score / used_count | 30 („Testing“) / 1 (enriched: 12) |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | https://pleene.com/products/easyrest (product_page) |
+| Link-Beschreibung | „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ |
+| Plattformen / Länder | facebook, instagram, audience_network, whatsapp, threads / `[]` (n/a) |
+| Technik | 16,37 s · 720×1280 · 30 fps · AAC 44,1 kHz · mean −15,0 dB, max −4,0 dB, keine Stille |
+| Schnitte | 0,3: 2 (3,0 / 10,7). Bei 0,15 zusätzlich 7,0 (harter Schnitt, bestätigt) und 0,67 (nur Kamerafahrt, kein Schnitt). **3 harte Schnitte = 1,83 pro 10 s** (0–10 s: 2 · 10–16,4 s: 1) |
+
+**Identität:** Die MP4 ist **byte-identisch mit 139561410** (Batch 1, Top-20, Score 100, Start 2026-08-07) und **185228755** (Batch 3), md5 `b98b8b49e94b01d46d71c5e548dfca4b`. Headline, Primärtext, CTA und Landingpage sind identisch. Dies ist der **dritte Upload** derselben Datei.
+
+**Primärtext (wörtlich):** „This week only: 2 free Pleene™ Pillow Cases with every duvet. And if you've been eyeing Mint Green — it's almost gone. The EasyRest™ is duvet and cover in one: wash it whole, dry in 2 hours.“
+
+**Transkript:** GetHooked liefert „the next, video!!“ (0,00–15,16 s), also einen **Platzhalter**. Audio-Check:
+- Pegel: mean −15,0 dB, max −4,0 dB, keine Stille.
+- Spektrogramm: rhythmische Bass- und Percussion-Muster, keine Formanten.
+- Lokales Whisper erkennt nur „Thanks for watching guys!“ (0–15,20 s, no_speech_prob 0,52).
+
+**Ergebnis: nur Musik, keine Sprache.**
+
+**Hook (0–3 s)**
+- Gesprochen: keiner.
+- Eingeblendet: „This week only: / 2 FREE Pillow Cases / with every DUVET“ + „Only 26 left in Mint Green“.
+- Bild: Kamerafahrt durch einen Türrahmen auf ein Luxus-Schlafzimmer mit dunkler Holzwand und mintgrünem Bett.
+- Hook-Typ: Angebot + Knappheit.
+
+**Einblendungen (weiße Sans mit Schatten, oben; Typewriter-Effekt)**
+- „This week only: / 2 FREE Pillow Cases / with every DUVET“ · „Only 26 left in Mint Green“ (0–3,0)
+- „The duvet with no cover / Wash the whole thing“ (3,0–7,0)
+- „Dry in 2 hours / Back on the bed“ (7,0–10,7)
+- „2 FREE Pillow Cases / with every DUVET“ · „Only 26 left in Mint Green“ (Typewriter, 10,7–16,37), ab ca. 11 s Badge „FREE / this week / only“ und Kissenbezug-Karte mit „£39.99“ (durchgestrichen)
+
+**Szenenliste (an jedem Schnitt angesehen: 3,2 / 7,2 / 10,9)**
+| Sek. | Szene |
+|---|---|
+| 0–3,0 | Kamerafahrt durch Türrahmen, Totale mintgrünes Bett, beige Kissen hinten |
+| 3,0–7,0 | POV-Hand (weißer Strickärmel) hebt die Deckenkante, Spannbettlaken sichtbar |
+| 7,0–10,7 | Hand streicht über die Decke, Nahaufnahme |
+| 10,7–16,37 | Totale mit Typewriter-Text, Kissenbezug-Karte, Ausblendung ab ca. 15,5 s |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook | 0–3,0 | Angebot + Knappheit (das Angebot steht schon im Hook) |
+| Problem | – | **fehlt** |
+| Verstärkung | – | **fehlt** |
+| Mechanismus | 3,0–10,7 | „The duvet with no cover / Wash the whole thing“, „Dry in 2 hours / Back on the bed“ |
+| Lösung | 0–16,4 | Produkt durchgehend im Bild |
+| Beweis | – | **fehlt** |
+| Angebot | 0–3,0 und 10,7–16,4 | 2 Gratis-Kissenbezüge, „£39.99“ durchgestrichen, „this week only“, „Only 26 left in Mint Green“ |
+| CTA | – | **fehlt im Video**. Button „Shop now“ |
+
+**Wer ist zu sehen / wer spricht:** keine Person, nur Hand und Unterarm (weißer Strickärmel). **KI-generiert (Einschätzung wie in Batch 1/3).** Begründung: synthetisches Luxus-Interieur und derselbe Clip in drei Farbvarianten (139561428, 139561491) mit identischer Hand- und Kamerabewegung. Kein Sprecher.
+
+**Setting:** gerendertes Luxus-Schlafzimmer, dunkle Holzvertäfelung.
+
+**Avatar / Angle**
+- **Avatar:** schnäppchen- und farborientierte Käufer, die Mintgrün „im Auge haben“ („if you've been eyeing Mint Green“). Das deutet auf Retargeting hin, ist aber **nicht verifiziert**.
+- **F-Angebot + F-Knappheit/Farbe** gleichrangig, **A** sekundär („Wash the whole thing“).
+
+**Haupt-Emotion:** Dringlichkeit (Wochenfrist + Restmenge).
+
+**Schnitttempo / Untertitel / Ton:** 1,83 Schnitte pro 10 s. Keine Untertitel, nur Text-Overlays. Nur Musik.
+
+**Zahlen und Behauptungen (wörtlich):** „This week only“ · „2 FREE Pillow Cases with every DUVET“ · „Only 26 left in Mint Green“ · „The duvet with no cover“ · „Wash the whole thing“ · „Dry in 2 hours“ · „Back on the bed“ · „FREE this week only“ · „£39.99“ (durchgestrichen). Primärtext: „it's almost gone“, „wash it whole, dry in 2 hours“.
+
+**Angebotspräsentation:** Das Angebot steht im Hook und noch einmal auf der Endkarte, mit Wert £39.99 durchgestrichen, Wochenfrist und Restmenge „26“. Die Restmenge „26“ ist in derselben Datei seit 2026-08-07 (139561410) unverändert, also eine **statische Knappheitsangabe** (Interpretation aus dem Upload-Verlauf).
+
+**Varianten-Hinweis:** byte-identisch mit **139561410** und **185228755**. Farbgeschwister: **139561428** (Hearth Red) und **139561491** (Coastal Blue). Neuschnitt mit Tog-Hook: **185228767**. Bild-Ads: 169082912, 184134598.
+
+---
+
+#### Video 200490657 – Say Goodbye to Duvet Cover Hassle
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID | 200490657 (Media 528521144) |
+| Meta-ID | 1088262300260108 |
+| Ad Library | https://www.facebook.com/ads/library/?id=1088262300260108 |
+| share_url | https://app.gethookd.ai/share/ad/200490657?signature=14e9cab282a8e5334823ebd0fe803836a252fcd8cf045e8e22111a5867c33ff8 |
+| Start / Tage aktiv | 2026-10-06 / 3 (start_to_today, active) |
+| performance_score / used_count | 30 („Testing“) / 1 (enriched: 12) |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | **https://pleene.com/products/easyrest-comforter** (page_type null) |
+| Link-Beschreibung | „Fresh bedding, made easy“ |
+| Plattformen / Länder | facebook, instagram, audience_network, whatsapp, threads / **`["US"]`** |
+| Technik | 30,48 s · 720×1280 · 29,97 fps · AAC 48 kHz · mean −15,3 dB, max −4,4 dB, keine Stille |
+| Schnitte | 0,3: 7 echte Schnitte (5,04 / 7,54 / 10,24 / 12,61 / 14,81 / 20,05 / 25,03; der Wert bei 0,03 ist die Einblendung aus Schwarz) = **2,30 pro 10 s** (0–10 s: 2 · 10–20: 3 · 20–30,5: 2); 0,15 identisch |
+
+**Primärtext (wörtlich):** „No more stuffing, buttoning or fighting with duvet cover corners. Pleene EasyRest™ combines a duvet and cover in one, so fresh bedding is simpler from start to finish.“
+
+**Transkript:** GetHooked meldet `no_speech`, das Transkript ist leer. Audio-Check:
+- Pegel: mean −15,3 dB, max −4,4 dB, keine Stille.
+- Spektrogramm: dichte Percussion-Transienten und tonale Bassnoten, keine Formanten.
+- Lokales Whisper erkennt nur „🎵“ (0–0,5 s) und eine Halluzination „you“ jenseits des Videoendes (30,0–32,06 s, no_speech_prob 0,95).
+
+**Ergebnis: nur Musik, keine Sprache.**
+
+**Hook (0–3 s):** gesprochen: keiner. Eingeblendet: „I got rid of my duvet cover, / and I'm never going back.“ (0,23–5,04). Bild: Ein Mann (ca. 35–45) im grünen Schlafzimmer zerrt den gelb-karierten Bezug von der Decke. Hook-Typ: Ich-Statement bzw. Bekehrung.
+
+**Einblendungen (Serifenschrift, weiß in halbtransparenter grauer Box, mit Fade)**
+- „I got rid of my duvet cover, / and I'm never going back.“ (0,23–5,04)
+- „Pleene EasyRest is a / duvet and cover in one,“ (5,04–7,54)
+- „so there's nothing / extra to wrestle with.“ (7,54–10,24)
+- „And yes, you can wash / the whole thing at home.“ (10,24–14,81)
+- „Two hours later, / it's dry and back on the bed.“ (14,81–20,05)
+- „Honestly, / why didn't I do this sooner?“ (20,05–25,03)
+- Endkarte auf Schwarz: „Pleene.“, ab ca. 26 s „SHOP NOW“ (25,03–30,48)
+
+**Szenenliste (an jedem Schnitt angesehen)**
+| Sek. | Szene |
+|---|---|
+| 0,00–0,23 | Schwarz |
+| 0,23–5,04 | Grünes Schlafzimmer (Holz-Kopfteil mit Regal): der Mann zerrt den gelb-karierten Bezug |
+| 5,04–7,54 | Halbnah: der Mann schüttelt eine **graue** EasyRest übers Bett |
+| 7,54–10,24 | Nahaufnahme: Hand an der Kante der grauen Decke, Kissen |
+| 10,24–12,61 | Silberne Frontlader-Maschine auf blau gemusterten Fliesen: der Mann stopft eine **mintgrüne** Decke hinein |
+| 12,61–14,81 | Nahaufnahme Trommel: Hände drücken die mintgrüne Decke hinein |
+| 14,81–20,05 | Hand legt die graue Decke auf dem Bett zurecht (Kopfteil mit Duftlampe) |
+| 20,05–25,03 | Draufsicht: der Mann im Bett unter der grauen Decke, zieht sie hoch, liegt zufrieden mit geschlossenen Augen |
+| 25,03–30,48 | Schwarze Endkarte „Pleene.“ / „SHOP NOW“ |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook | 0,23–5,04 | „I got rid of my duvet cover, and I'm never going back.“ |
+| Problem | 0,23–5,04 (nur visuell) | Kampf mit dem Bezug. Ausformuliert nur im Primärtext: „No more stuffing, buttoning or fighting with duvet cover corners.“ |
+| Verstärkung | – | **fehlt** |
+| Lösung | 5,04–7,54 | „Pleene EasyRest is a duvet and cover in one,“ |
+| Mechanismus | 7,54–14,81 | „so there's nothing extra to wrestle with.“ / „And yes, you can wash the whole thing at home.“ |
+| Beweis | 14,81–25,03 (schwach) | Demo + Ich-Erfahrung: „Two hours later, it's dry and back on the bed.“, „Honestly, why didn't I do this sooner?“ |
+| Angebot | – | **fehlt** (auch im Primärtext kein Angebot) |
+| CTA | 25,03–30,48 | Endkarte „SHOP NOW“ + Button „Shop now“ |
+
+**Wer ist zu sehen / wer spricht:** ein Mann, ca. 35–45 (dunkles Haar, Bart, graues T-Shirt, Smartwatch), als Ich-Erzähler und Nutzer. **Echte Person (UGC-Footage)**. Begründung: Handkamera, reale Wohnung mit Alltagsgegenständen (Waschmittelflaschen, Duftlampe), natürliche Bewegung. Es ist **derselbe Darsteller und Drehort wie in 200037044** (visuell abgeglichen). Die Deckenfarbe wechselt zwischen Grau (Bett) und Mint (Waschmaschine): Das Material ist aus verschiedenen Drehs geschnitten. Kein Sprecher.
+
+**Setting:** privates Schlafzimmer (grüne Wand), Wasch-Nische mit silbernem Frontlader auf blau gemusterten Fliesen, schwarze Endkarte.
+
+**Avatar / Angle**
+- **Avatar:** Erwachsene ca. 30–50, die das Beziehen als lästigen Kampf empfinden. Laut GetHooked auf **US** ausgerichtet; die Landingpage „easyrest-comforter“ verwendet den US-Begriff. Das Video spricht aber britisch von „duvet“.
+- **Angle C** (Kampf mit dem Bettbezug) als Haupt-Angle, **A** sekundär (ganze Decke zu Hause waschen, 2 Stunden).
+
+**Haupt-Emotion:** Erleichterung und Bekehrungs-Euphorie („never going back“, „why didn't I do this sooner?“).
+
+**Schnitttempo / Untertitel / Ton:** 2,30 Schnitte pro 10 s. Keine Sprach-Untertitel, aber Ich-Text-Einblendungen im Untertitel-Look. Nur Musik.
+
+**Zahlen und Behauptungen (wörtlich):** „I got rid of my duvet cover, and I'm never going back.“ · „duvet and cover in one“ · „nothing extra to wrestle with“ · „you can wash the whole thing at home“ · „Two hours later, it's dry and back on the bed.“ · „why didn't I do this sooner?“. Primärtext: „No more stuffing, buttoning or fighting with duvet cover corners.“
+
+**Angebotspräsentation:** keine.
+
+**Varianten-Hinweis**
+- Gleiche Headline „Say Goodbye to Duvet Cover Hassle“: **200490714** (`no_speech`, visuell nicht verifiziert) und **200490654**. 200490654 ist laut GetHooked-Transkript ein gesprochenes US-UGC-Video: „Making the bed just got a whole lot easier with Clean, a machine washable comforter that doesn't need to be stuffed into a duvet …“. Also ein anderes Video.
+- Footage aus demselben Dreh wie **200037044**.
+- Gleiche Schnittvorlage wie **200490719**.
+
+---
+
+##### Hygiene-Zitate Batch 5
+
+Erfasst sind alle Stellen zu Milben, Bakterien, Schweiß, Waschen, Trocknen oder Temperatur: gesprochen (T), eingeblendet (E), dazu Primärtext (P) bzw. Link-Beschreibung (L) ohne Sekunde. **Milben, Bakterien und Schweiß kommen in keiner der 7 Ads vor.**
+
+| Ad | Sek. | Quelle | Zitat (wörtlich) | Thema |
 |---|---|---|---|---|
-| "Duvet UK PDP Weiterleitung an USCA PDP" | SPLIT_URL | **true** | US, CA; Quelle facebook, instagram, google, direct, tiktok, pinterest | 100 % von `/products/easyrest` auf `/products/easyrest-comforter` |
-| "Duvet UK PDP Weiterleitung an AUS PDP" | SPLIT_URL | **true** (2. Kopie false) | AU | auf `/products/pleene-easyrest-quilt` |
-| "ZipSheet UK PDP Weiterleitung an USCA PDP" / "…an AUS PDP" | SPLIT_URL | true | US, CA bzw. AU | `/products/zipsheet` auf `-us` bzw. `-aus` |
-| "ZipSheet US PDP1 Weiterleitung an AUS PDP" | PRODUCT | true | AU | Produkttausch |
-| "Duplicated 07-28-2026 - EasyRest - 10 Pounds Split Test" (3×) | PRICE_PLUS | false | GB, facebook/instagram, nur Erstbesucher | Variante mit höheren GBP-Preisen (79.99 / 84.99 / 89.99 / 119.99, Vergleich 119.99–159.99) für `easyrest` und `easyrest-pdp` |
-| "UK DUVET PDP - AKTUELL vs. easyrest-pdp-04-08-26" | PAGE | false | GB | Template-Test |
-| "USCA DUVET PDP - easyrest-duvet-usa vs. easyrest-duvet-winter26 different tog rate" | PAGE | false | US, CA; facebook/instagram | Template-Test auf der Comforter-Seite ("different tog rate") |
-| "ZipSheet US PDP1 vs ZipSheet US PDP2" | PAGE | false | US | Template-Test |
+| 200037044 | 0,00–2,80 | T | „Quick question, when you change your bed, what actually gets washed?“ | Waschen |
+| 200037044 | 1,76–2,8 | E | „what actually gets washed?“ | Waschen |
+| 200037044 | 2,80–5,60 | T | „The sheets? Yes. The cover? Yes. The duvet? Never.“ | Waschen (nie gewaschen) |
+| 200037044 | 3,0 / 4,88–5,5 | E | „The sheets, yes. The cover, yes.“ / „The duvet? Never.“ | Waschen |
+| 200037044 | 7,30–9,50 | T | „The cover gets washed, the duvet itself doesn't.“ | Waschen |
+| 200037044 | 7,56–8,0 | E | „the cover gets washed, / the duvet itself doesn't,“ | Waschen |
+| 200037044 | 9,50–10,90 | T | „Because it won't fit in the machine.“ | Waschen |
+| 200037044 | 9,76–10,5 | E | „because it won't fit in the machine“ | Waschen |
+| 200037044 | 10,90–13,60 | T | „Mine hadn't been washed in years, and I'd never even thought about it.“ | Hygiene / Waschen |
+| 200037044 | 11,4–13,0 | E | „Mine hadn't been washed in years,“ / „and I'd never / even thought about it“ | Hygiene / Waschen |
+| 200037044 | 13,60–16,70 | T | „So I switched to the Plene EasyRest, and now I wash the whole duvet.“ | Waschen |
+| 200037044 | 15,5 | E | „and now I wash the whole duvet“ | Waschen |
+| 200037044 | 20,20–21,90 | T | „You just wash the whole duvet in one piece.“ | Waschen |
+| 200037044 | 20,48–20,5 | E | „you just wash / the whole duvet in one piece“ | Waschen |
+| 200037044 | 21,90–24,60 | T | „The double goes straight into my normal 7kg washing machine,“ | Waschen |
+| 200037044 | 23,0 | E | „The Double goes straight into / my normal 7kg washing machine,“ | Waschen |
+| 200037044 | 24,60–26,80 | T | „then the tumble dryer, and it's dry in 2 hours.“ | Trocknen |
+| 200037044 | 24,92–26,5 | E | „then the tumble dryer,“ / „and it's dry in 2 hours.“ | Trocknen |
+| 200037044 | 26,80–30,20 | T | „Sheets, pillowcases, and the duvet itself, all washed on the same morning.“ | Waschen |
+| 200037044 | 28,0 / 29,32 | E | „Sheets, pillowcases / and the duvet itself,“ / „all washed on the same morning“ | Waschen |
+| 200037044 | 30,20–34,20 | T | „It's 10.5 Tog, so it's every bit as warm as a winter duvet, just without the weight.“ | Temperatur / Tog |
+| 200037044 | 30,48–33,6 | E | „It's 10.5 tog, so it's every / bit as warm as a winter duvet,“ / „just without the weight,“ | Temperatur / Tog |
+| 200037044 | 34,20–36,60 | T | „And the breathable fibres mean it never feels stuffy on you.“ | Temperatur / Atmungsaktivität |
+| 200037044 | 34,48–35,5 | E | „and the breathable fibres / mean it never feels stuffy on you“ | Temperatur |
+| 200037044 | 36,60–38,60 | T | „I swear to you, my bed always feels fresh.“ | Frische |
+| 200037044 | 36,92–38,0 | E | „I swear to you, / my bed always feels fresh.“ | Frische |
+| 200037044 | – | P | „when you last washed your duvet, not the cover, the duvet“ · „the honest answer is never, because it doesn't fit in the machine“ · „you wash the WHOLE duvet“ · „Normal 7kg machine, then the tumble dryer, dry in 2 hours 🧺“ · „10.5 tog, every bit as warm as a winter duvet, just without the weight“ | Waschen / Trocknen / Temperatur |
+| 200037044 | – | L | „The whole duvet, washed at home“ | Waschen |
+| 200490719 | 5,77–9,58 | E | „And the whole thing goes / right into the wash.“ | Waschen |
+| 200490719 | 9,58–13,58 | E | „Two hours later, / it's dry“ (Bild: Lufttrocknung an der Wäscheleine) | Trocknen |
+| 200490719 | 17,65–22,63 | E | „A Fresh Bed, / Done My Way.“ | Frische |
+| 200490719 | – | P | „the whole thing goes into the wash and dries in 2 hours“ | Waschen / Trocknen |
+| 200490716 | 14,56–19,60 | T | „When it's washing day, the whole thing just“ | Waschen |
+| 200490716 | 19,60–24,64 | T | „goes straight in the machine and then the tumble dryer. That's it.“ | Waschen / Trocknen |
+| 200490716 | 20,16–20,5 | E | „STRAIGHT“ · „MACHINE“ (Einzelwort-Untertitel) | Waschen |
+| 200490716 | 24,64–30,00 / 30,00–35,28 | T | „Breathable, so it's cool in summer and warm in“ / „winter.“ | Temperatur |
+| 200490716 | 28,0 | E | „BREATHABLE“ | Temperatur |
+| 200490716 | – | P | „Wash it, dry it, and lay it back on“ · „Pleasantly cool in summer, cosily warm in winter“ · „Hypoallergenic and kind to sensitive skin“ · „Enjoy a bed that always feels fresh.“ | Waschen / Trocknen / Temperatur / Allergie |
+| 200490712 | 3,70–9,87 | E | „1. Does the WHOLE thing / fit a normal washing machine?“ + „Ours does. ✅“ | Waschen |
+| 200490712 | 9,87–16,10 | E | „2. Is it dry in 2 hours / without a tumble dryer?“ + „2 hours. No dryer. ✅“ | Trocknen |
+| 200490712 | – | P | „Does the WHOLE thing fit a normal washing machine?“ · „Is it dry in 2 hours without a tumble dryer?“ | Waschen / Trocknen |
+| 200490708 | 4,97–7,63 | E | „Fits in any / washing machine.“ | Waschen |
+| 200490708 | 7,63–ca. 11,5 | E | „Dries in / 2 hours.“ | Trocknen |
+| 200490701 | 3,0–7,0 | E | „The duvet with no cover / Wash the whole thing“ | Waschen |
+| 200490701 | 7,0–10,7 | E | „Dry in 2 hours / Back on the bed“ | Trocknen |
+| 200490701 | – | P | „wash it whole, dry in 2 hours“ | Waschen / Trocknen |
+| 200490657 | 10,24–14,81 | E | „And yes, you can wash / the whole thing at home.“ | Waschen |
+| 200490657 | 14,81–20,05 | E | „Two hours later, / it's dry and back on the bed.“ | Trocknen |
+| 200490657 | – | P / L | „fresh bedding is simpler from start to finish“ / „Fresh bedding, made easy“ | Frische |
 
-Elevate-Einstellungen: `"inTrial":true`, `"useShopifyGeolocation":true`, `"excludeGoogleTraffic":true`. Daraus geht hervor, dass Pleene Preispunkte (+£5/£10) und Templates systematisch testet und die Länder-Funnel über die Weiterleitungen trennt.
+**Auffällig:** Die Trocknungs-Aussage „2 hours“ erscheint in drei unvereinbaren Fassungen:
+- **mit** Wäschetrockner: 200037044, 200490716;
+- ausdrücklich **ohne** Trockner: 200490712;
+- per Lufttrocknung an der Leine gezeigt: 200490719.
 
-**URL-Parameter:** Zwei Comforter-Ads verlinken mit `?trybe=532dbd48` bzw. `?trybe=769e7716`. Im Seitencode gibt es keine Referenz auf "trybe"; Zweck und Tool sind nicht verifiziert.
-
----
-
-### 3.12 Home-Page und weitere Funnel-Elemente
-
-**Home-Page** (`/`, `render/com__mobile_full.txt`):
-
-- Laufband "🚚 Free shipping on orders over £100 · 90-day home trial".
-- Hero "THE EASYREST™ DUVET" / "**Make your bed in 10 seconds.**" / "A coverless, machine-washable duvet designed for how you actually live. No wrestling. No cover fights. Just fresh sheets, fast." / Buttons "SHOP EASYREST™" und "SEE HOW IT WORKS" / Leiste "NO DUVET COVER · WASHES AT 40°C · TUMBLE-DRYER SAFE".
-- Das hervorgehobene Produkt auf der Home-Page ist überraschend **ZipSheet™ - Zippered Fitted Sheet** (£59.99 ~~£79.99~~).
-- Weitere Sections:
-  - "HOW EASYREST™ WORKS / Bedding, reimagined." mit 3 Schritten
-  - "THE OLD WAY VS THE NEW WAY / Why we skipped the duvet cover."
-  - "BUILT FOR REAL LIFE / Every detail, rethought." ("Quick-drying fibre … Typically ready again in about 2 hours", "All-season weight / A mid-weight fill designed to work through spring, autumn and most winters. One duvet, all year.", "Six colourways")
-  - "THE FULL COLLECTION / The collection."
-  - "CARE & SIZING / Simple to live with." ("40°C, normal cycle / Wash the duvet on its own with a mild detergent. Skip fabric softener and bleach — both reduce the loft of the fill over time.", "Tumble-dry on low, ideally with dryer balls to keep the fill even.")
-  - "THE HONEST COMPARISON / Pleene vs a regular duvet."
-  - FAQ "QUESTIONS, ANSWERED / Everything you might wonder about." mit u. a. "Is it warm enough for winter?" — "It's a mid-weight, all-season duvet that suits most bedrooms from spring through winter."
-  - "90 nights to decide — or your money back."
-- **Widerspruch** zur Produktseite: "mid-weight, all-season" gegen "10.5 TOG — proper winter warmth"; "Six colourways" gegen 10 Farben.
-
-**E-Mail-Pop-up bzw. Gewinnspiel** (Klaviyo-Formular `RJktrA`, "Welcome Pop Up - Email", Typ POPUP, Allocation 100 %):
-
-- Trigger: `DELAY 0` (sofort), `EXIT_INTENT true`, `COOKIE_TIMEOUT 5` (Tage), `EXISTING_USER` und `SUPPRESS_SUCCESS_FORM`.
-- Ausgeschlossen auf `duvet-10r`, `pages/easyrest-duvet`, `easyrest-lp`, `pages/easyrest-tb`, `pages/adv10r-2`, `pages/adv-9r`, `*tb*` und `pages/tb-5`.
-- Text: "Win a free Duvet" / "One subscriber wins a duvet of their choice every month. Any size, any colour." / "Your email address" / "Enter the giveaway".
-- Erfolgsmeldung: "You're in." / "We draw on the 1st and email the winner. Until then — have a look around."
-- Es gibt keinen Rabattcode. **Teilnahmebedingungen fehlen**: `/pages/giveaway`, `/pages/competition` und `/pages/win` liefern 404, und weder Terms noch Privacy Policy erwähnen ein Gewinnspiel.
-- Motiv: lachendes Senioren-Paar mit Decken (Zielgruppe 55+).
-
-**Track Your Order:** Der Menüpunkt führt auf `/apps/parcelpanel` (ParcelPanel) mit den Feldern "Order Number" und "Email or Phone Number" sowie "Track". `/pages/track-your-order` liefert 404.
-
-**About Us** (`/pages/about-us`):
-
-- "We got rid of the duvet cover."
-- "The chore nobody redesigned" mit dem Satz "So we built the duvet and the cover as one piece. Wash the whole thing at 40°C in a normal machine, tumble-dry it on low, put it back."
-- Zitat "Good bedding shouldn't need a technique. If it takes practice, we designed it wrong. — Founder of Pleene". Es gibt **keine Gründer-Story mit Namen oder Gesicht**.
-- "How we decide things" ("Fewer steps wins", "Numbers, not adjectives", "Say what it isn't") und "Ninety nights to disagree with us".
-- "The short version: Founded 2026 · Ships to UK, US, Canada, Australia · Home trial 90 nights · Dispatch 1–2 business days · Support reply Within one working day · Team 12 people".
-
-**Kontakt:** Kontaktformular, "support@pleene.com", "Tel.: +1 (205) 360-5811" (US-Vorwahl), Servicezeiten "Monday through Friday, 9:00 a.m. to 5:00 p.m. (GMT)".
-
-**Weitere, derzeit nicht beworbene Funnel-Seiten** (existieren, aber keine aktive Ad im Inventar):
-
-- `/pages/adv-9r` ("Pleene EasyRest™ Duvet - 10 Reasons TB1")
-- `/pages/adv10r-2` ("10 Reasons TB2")
-- `/pages/easyrest-tb` (TB3)
-- `/pages/tb-5` (TB5)
-- `/pages/easyrest-duvet`
-- `/products/easyrest-pdp` ("Pleene EasyRest™ 2in1 Duvet")
-- `/products/easyrest-everyday-duvet`
-- `/products/pleene-easyrest-duvet-2in1`
-- `/pages/tb-1` bis `tb-4` und `tb-7` liefern 404.
-
-Daraus folgt, dass Listicles ("10 Reasons") und mehrere Advertorial-Iterationen getestet wurden; tb-6 ist die aktuell aktive.
+Ebenso uneinheitlich die Maschinengröße: „normal 7kg washing machine“ (200037044) gegenüber „Fits in any washing machine.“ (200490708).
 
 ---
 
-### 3.13 Offene Punkte (n/a bzw. nicht verifiziert)
+##### Kurz-Tabelle Batch 5
 
-- **Checkout-Inhalte** wurden bewusst nicht geöffnet: Versandoptionen, Steuern, Post-Purchase-Upsells, ob Package Protection im Checkout vorausgewählt ist und ob die Gratis-Kissenbezüge erscheinen. Alles n/a.
-- **Geo-Weiterleitungen** (Elevate US/CA auf Comforter; pleene.com auf pleene.uk für GB-IPs) haben im Test nicht ausgelöst bzw. waren mangels GB-IP nicht prüfbar. Nicht verifiziert.
-- **UGC-Videos "Peter", "Brian", "Dave"** wurden nicht transkribiert: Es gibt keine lokale Speech-to-Text-Software und keine Transkripte im Inventar. Die Dauern sind bekannt (101 s / 42 s / 53 s). Die Zuordnung der Namen zu den Dateien ist nicht verifiziert.
-- **Tatsächliche Lagerbestände** (z. B. Hearth Red) sind öffentlich nicht verfügbar.
-- **"As featured in"** (STARTUPS, new!, The Times, Fabulous): keine Belege auf der Seite, nicht verifiziert.
-- **Herkunft der "✓ Verified"-Testimonials und Galerie-Zitate:** nicht in Trustpilot oder Judge.me auffindbar, nicht verifiziert.
-- **Zuordnung mehrerer Web-Pixel** (siteId, storeId, archive-digger, marketerIds): nicht verifiziert.
-- **AU-Seite `/products/pleene-easyrest-quilt`:** Ziel der AU-Weiterleitung, nicht analysiert, da keine Ad im Inventar dorthin führt.
+| ID | Länge | Hook (wörtlich, 0–3 s) | Angle | Avatar | Sprecher-Typ | Schnitte/10 s | Emotion |
+|---|---|---|---|---|---|---|---|
+| 200037044 | 46,9 s | T: „Quick question, when you change your bed, what actually gets washed?“ / E: „Quick question: when you change your bed,“ | **A** + B, C, F-Angebot | UK-Haushalte 35–60, Decke nie gewaschen | Voiceover (Geschlecht n. verif.) über echtes UGC-Footage (Mann ~35–45, Frau ~45–55) | 3,63 (fein 3,84) | Ertappt/Scham → Erleichterung, Frische |
+| 200490719 | 22,6 s | E: „This is your sign to rethink your duvet.“ (keine Sprache) | **C** + A | 50+, Bezug lästig, „simple bedding“ | kein Sprecher, nur Musik; echtes UGC-Footage (Mann ~55–65, Frau(en) ~50–65) | 2,21 | Neugier → ruhige Zufriedenheit |
+| 200490716 | 44,1 s | T: „I'm not going to lie, at my age, changing the bed had become a real struggle.“ / E: Einzelwörter „I'M … LIE … AGE“ | **E** + F-Selbstständigkeit im Alter, D (Anklang), C, B, F-Angebot | Senioren 65+ mit Schulter-/Rückenbeschwerden; Kinder als Käufer | ältere Frau ~65–75, wahrscheinlich **KI-generiert** (n. verif.), On-Camera + Voiceover | 2,27 (fein 2,50) | Frust/Schmerz → Erleichterung, Würde |
+| 200490712 | 27,1 s | E: „Before you buy a coverless duvet check 3 things“ (keine Sprache) | **F-Einwand/Kaufhilfe** + A, F-Angebot | skeptische Vergleichskäufer | keine Person (Hand), vermutlich KI-Render; nur Musik | 1,84 (fein 2,95) | Neugier/Skepsis → Sicherheit |
+| 200490708 | 14,7 s | E: „Don't scroll. Pick your colour first.“ (keine Sprache) | **F-Farbe/Auswahl** + C, A, F-Angebot | designorientierte Käufer, eher 50+ | Mann ~60–65, vermutlich **KI-generiert** (n. verif.); nur Musik | 3,40 (0,3: 2,04) | spielerische Neugier → Leichtigkeit |
+| 200490701 | 16,4 s | E: „This week only: 2 FREE Pillow Cases with every DUVET / Only 26 left in Mint Green“ (keine Sprache) | **F-Angebot + F-Knappheit/Farbe**, A | Schnäppchen-/Farbkäufer (evtl. Retargeting) | keine Person (Hand), KI-generiert (Einschätzung); nur Musik | 1,83 | Dringlichkeit |
+| 200490657 | 30,5 s | E: „I got rid of my duvet cover, and I'm never going back.“ (keine Sprache) | **C** + A | 30–50, Bezieh-Frust; GetHooked-Land **US** | kein Sprecher, nur Musik; echte Person (Mann ~35–45, gleicher Darsteller wie 200037044) | 2,30 | Erleichterung, Bekehrungs-Euphorie |
 
 ---
 
-### 3.14 Dateien
+##### Prüfliste (Selbstkontrolle vor Abgabe)
 
-Alle Pfade relativ zu `/tmp/claude-0/-home-user-paw-friends-support-bot-/fdae0922-7feb-5884-bf18-6d4ea4ec6336/scratchpad/`.
+| Pflichtfeld | 200037044 | 200490719 | 200490716 | 200490712 | 200490708 | 200490701 | 200490657 |
+|---|---|---|---|---|---|---|---|
+| get_ad / Metadaten (Meta-ID, Start, Tage, Score, used_count, LP, share_url, Ad Library) | ✓ | ✓ | ✓ | ✓ (Score n/a) | ✓ | ✓ | ✓ |
+| Transkript bzw. begründeter Vermerk | ✓ vollständig, 19 Segmente | ✓ Platzhalter → Musik (Pegel, Spektrogramm, Whisper) | ✓ vollständig, 9 Segmente | ✓ no_speech → Musik | ✓ Platzhalter → Musik | ✓ Platzhalter → Musik | ✓ no_speech → Musik |
+| Video geladen + ffprobe | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Schnitte gesamt + pro 10 s | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Frames 0/1/2/3 s + Raster angesehen | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Frame an jedem Schnitt (Szenenliste) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Hook gesprochen + eingeblendet | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Aufbau mit „fehlt“-Markierungen | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Personen / Sprecher / echt vs. KI mit Begründung | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Setting, Avatar, Angle, Emotion | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Untertitel / Musik / VO | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Zahlen und Claims wörtlich | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Angebotspräsentation | ✓ | ✓ (keins) | ✓ | ✓ | ✓ | ✓ | ✓ (keins) |
+| Varianten-Hinweis | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| ElevenLabs nötig? | nein | nein | nein | nein | nein | nein | nein |
 
-- Screenshots Above the Fold und ganze Seite, mobil und Desktop: `wf/funnel/render/com_products_easyrest_*`, `com_products_easyrest-comforter_*`, `com_products_easyrest-duvet_*`, `com_pages_tb-6_*`, `com__*` (Home), `misc_about_mobile.png`, `misc_track_mobile.png`, `misc_contact_mobile.png`
-  - Dateien `_atf_t4.png` zeigen den Zustand nach 4 s mit Pop-up, `_atf_clean.png` den Zustand ohne Pop-up.
-  - Texte: `_full.txt`, Überschriften: `_outline.json`, Sections: `_sections.json`.
-- Kontaktbögen: `wf/funnel/sheets/` (Seiten, Galerien `gallery_er.png` und `gallery_cf.png`, `testimonial_videos.png`).
-- Warenkorb: `wf/funnel/cart/` (`bars_*_drawer.png|txt`, `*_cartpage.png|txt`, `cart_*_variantscan.png`, Logs `cart_*.log` und `bars_*.log`, `bundle_prices.txt`, USD: `us_comforter_*.png|txt|log`).
-- Detailbilder: `wf/funnel/gallery_view/` (Testimonial-Texte, `size_table.jpg`, `wm_table.jpg`, `cartpage_top.png`).
-- Währungsprobe: `wf/funnel/probe_currency.log`.
-- Roh-HTML und JSON: `a3dl_html/` (inkl. Policies, Produkt-JSON GB/US, `elevate_block.txt`), Klaviyo: `a3dl_klaviyo/forms_v7.json`.
+**Offen bzw. nicht verifiziert**
+- Stimm-Geschlecht in 200037044.
+- Ob die Stimmen in 200037044 und 200490716 KI-Stimmen sind.
+- KI-Herkunft des Bildmaterials in 200490716 und 200490708 (Einschätzung).
+- Bildinhalt der verwandten Ads 200037061, 200037062, 200036996, 200490714, 200490654, 177443533, 185228773, 185228764 und 168246672 (nur über GetHooked-Transkripte bzw. Metadaten abgeglichen, Videos nicht geladen).
+- Ländersegmente bei leerer `countries`-Liste (n/a).
+- Reichweite und Spend: von GetHooked für GB nicht geliefert (n/a).
 
 
-## Teil 4 – Bewertungen und Einwände
+### S2 – Creative-Tiefenanalyse, Video-Batch 6 (Agent 2)
 
-Stand: 08.10.2026. Quellen: Trustpilot `uk.trustpilot.com/review/pleene.com` (der Aufruf von `/review/pleene.uk` liefert dieselbe Business Unit, Canonical-URL pleene.com), Judge.me-Widget der Produktseite (Shop `sq48au-70.myshopify.com`, Produkt-IDs 15775652118860, 15843626418508, 16081090838860). Rohdaten aller Bewertungen: `wf/reviews_all.json` (Trustpilot 291, Judge.me 172 plus 6 shopweite Zusatzbewertungen). Referenzen: T001–T291 = Trustpilot, J001–J172 = Judge.me, jeweils aufsteigend nach Datum. Zitate wörtlich im Original (inklusive Tippfehlern).
+Stand: 2026-10-08 (Abruf ca. 16:55–17:15 UTC) · Marke Pleene · Produkt EasyRest · 7 Video-Ads: 200490656, 200490655, 200490654, 177443533, 177443532, 182988111, 182988108.
 
-### 4.1 Zusammenfassung
+Keine dieser IDs steht auf der Top-20-Liste. Eine Tiefen-Keyframe-Analyse nach 3b war deshalb nicht Pflicht. Trotzdem habe ich an jedem erkannten Schnitt (Schwelle 0,3 und 0,15) ein Vorher/Nachher-Framepaar angesehen. Die Szenenlisten unten sind deshalb vollständig.
 
-- **Bewertungsbasis ist dünn, aber sehr positiv:** Trustpilot 291 Bewertungen (TrustScore 4,8; 86 % 5★, 2,7 % 1–3★), alle seit dem 01.08.2026. Das Judge.me-Widget auf der Produktseite („172 reviews“, Ø 4,82) besteht zu 154 von 172 aus **wörtlich von Trustpilot importierten** Texten; nur 18 Judge.me-Bewertungen sind eigenständig.
-- **Der Import ist kuratiert (starkes Muster, Mechanismus nicht verifiziert):** Von den 168 Trustpilot-Bewertungen bis zum letzten Import (12.09.2026, T001–T168) wurden 154 von 162 positiven übernommen, aber **0 von 6 negativen** und **0 von 7 Bewertungen, die „China“ erwähnen**; ebenso nicht T143 (Amazon-Preisvergleich). Auf der Produktseite gibt es deshalb **keine einzige 1- oder 2-Sterne-Bewertung**.
-- **Einwand Nr. 1 ist die Lieferzeit, nicht das Produkt:** 51 Trustpilot-Bewertungen (17,5 %) nennen lange oder verzögerte Lieferung, davon 46 trotzdem mit 4–5★. Im September lag der Anteil bei 26 % (34 von 133). 11 Bewertungen thematisieren Versand aus China/USA bzw. die intransparente Herkunft trotz „London“-Adresse.
-- **Produktprobleme sind selten und mild:** Knitterfalten durch Vakuumverpackung (7), Größe (10, gemischt: zu knapp vs. sehr großzügig, Fehlbestellungen), Verarbeitung (5, darunter 1★ „unfinished“), Farbe (3). **Kein einziger Bericht über tatsächliches Verklumpen oder schlechten Geruch.** Wärme: nur 3 negative Erfahrungen (2× zu warm, 1× zu dünn), aber 14 Käufer schreiben ausdrücklich, dass der Winter noch nicht getestet ist; das ist der größte offene Produkteinwand im Oktober.
-- **Häufigster Vorab-Einwand der Käufer: „zu dünn/zu leicht, um warm zu halten“** (14 Bewertungen, die diese Skepsis nennen und auflösen). Pleene adressiert diesen Einwand in den Ads bereits („Too Thin For Winter? Look Closer.“, „Warm Enough For A British Winter“).
-- **Rückgabeversprechen vs. Realität:** Die Ads werben mit „90 nights to try it risk-free“. Zwei Käufer berichten, dass eine Rücksendung nach China „really expensive“ bzw. „too much“ sei und stattdessen Teilerstattung/Rabatt angeboten wurde (T055, T119: "They say a free return - no they don’t").
-- **Lob-Lücken (oft gelobt, in Ads nicht genutzt):** Weichheit/Haptik (46 Bewertungen vs. 1 Ad), Qualität/Verarbeitung (55 vs. 0 echte Qualitätsaussage), besserer Schlaf (28 vs. 0), großzügige Größe/bleibt auf dem Bett/Füße bedeckt (24 vs. 0), Service/Kommunikation (28 vs. 0), Preis-Leistung (21 vs. 0, Ads nur mit Rabatt), konkrete Lebenslagen wie Arthritis, Witwer, Chemo, Mobilität (42 vs. 9 abstrakte „Independence“-Varianten).
-- **Umgekehrt nutzen die Ads Themen, die Käufer kaum nennen:** Hygiene/Allergie/Frische steckt in 59 von 137 Ads (22 von 61 Textvarianten), aber nur in 8 von 283 positiven Bewertungen (3 %); das Versprechen „Hypoallergenic and kind to sensitive skin“ bestätigt keine einzige Bewertung. Wechseljahre/Nachtschweiß: 0 Ads, 3 Bewertungen (alle von Männern).
-- **Käuferprofil:** überwiegend ältere Briten (91,8 % GB), viele Senioren und Menschen mit körperlichen Einschränkungen (Arthritis, Rücken, Beine, Herz, Krebs/Chemo, Mobilität), Witwer und Alleinlebende, Paare. Nach Vornamen sind **56 % der Bewerterkonten männlich** (157 von 280), 31 % weiblich. Mehrfachkäufe sind häufig (Gästezimmer, weitere Betten).
-- **Auffälligkeiten:** (1) Start mit 37 Bewertungen in gut 5 Stunden am 01.08.2026 (erster Tag des Profils) plus 13 am 02.08.; (2) die einzigen 8 Foto-Bewertungen auf Judge.me entstanden am 06.06.2026 innerhalb von 3 Minuten 23 Sekunden, keine davon verifiziert; die Fotos deuten auf kontinentaleuropäische Schlafzimmer hin (Bildeindruck, nicht verifiziert); (3) 3 Judge.me-Bewertungen mit Datum 2025-08 bis 2026-04, also vor allen echten Käuferbelegen; (4) **Pleene antwortet öffentlich auf keine einzige Bewertung** (0/291 Trustpilot, 0/172 Judge.me), obwohl ein bezahltes Trustpilot-Abo aktiv ist; (5) seit September wachsen Bewertungen aus Australien/Kanada/USA (Oktober: 13 von 44), teils zum zweiten Produkt ZipSheet.
+**Methodik und Quellen**
+- **Metadaten:** GetHooked `get_ad` für alle 7 IDs (2026-10-08). Wo die Live-Werte von `agent1_enriched.json` abweichen, steht das in der Metadaten-Tabelle der jeweiligen Ad.
+- **Transkripte:** `get_transcription_status` für alle 7 IDs. Ergebnis: alle `complete`, nichts in der Warteschlange, `transcribe_ads` war nicht nötig.
+  - 200490656, 200490655, 200490654: echte Transkripte.
+  - 177443533 („🎵Outro Music🎵“) und 177443532 („Thanks for watching!“): Platzhalter.
+  - 182988111 und 182988108: `no_speech`.
+- **Gegenprobe mit lokalem Whisper:** faster-whisper 1.1.1, Modell `small.en`, offline. Ergebnis in `wf/s2b6_meta/asr_small.txt` / `.json`.
+- **Sprach- und Audio-Check:**
+  - Silero-VAD mit Schwelle 0,5 und 0,35.
+  - `volumedetect` und `silencedetect` (−40 dB / 0,4 s).
+  - Spektrogramme `wf/s2b6_meta/spec_combo.png` und `spec_combo2.png`.
+- **ElevenLabs:** nicht eingesetzt. Kein Transkript ist eindeutig fehlerhaft, etwa durch falsche Sprache. Die Platzhalter-Fälle sind per Audio-Check reine Musik. Bei den drei Sprach-Ads ist nur der Markenname falsch erkannt („Plein“, „Pleen“, „Clean“). Die Untertitel von 200490655 schreiben ihn „Pleene“.
+- **Videos:** `wf/vid/<id>.mp4`, alle 720×1280 (9:16), H.264 + AAC Stereo. Probe-Rohdaten: `wf/s2b6_meta/<id>.probe.json`.
+- **Schnitte:** `select='gt(scene,0.3)',showinfo`, Gegenprobe mit 0,15. Rohdaten in `wf/s2b6_meta/<id>.scenes03.txt` / `.scenes015.txt`.
+  - Jeder zusätzliche 0,15-Treffer wurde per Framepaar (±0,07 s) geprüft, Sheets `wf/s2b6_sheets/p<id>_00.jpg`.
+  - Gezählt sind nur echte Schnitte und Jump-Cuts. Nicht gezählt sind Text-Ein- und Ausblendungen sowie die Einblendung aus Schwarz.
+- **Frames:** `wf/frames/<id>/`.
+  - Raster: 0, 1, 2, 3 s, dann alle 5 s, dazu ein Frame je Schnitt.
+  - Zusätzlich verdichtet: 200490655, 200490656, 177443532 und 177443533 alle 0,5 s; 200490654 jede Sekunde; 182988111/108 je Farbsegment 4 Frames.
+  - Alle Kontaktbögen in `wf/s2b6_sheets/` habe ich mit dem Read-Tool angesehen.
+  - Textdetails in Originalauflösung: `cards177443532.jpg`, `c177443532_detail.jpg`, `d177443533.jpg`.
+- **Varianten-Abgleich:**
+  - MD5 aller Dateien in `wf/vid/`.
+  - Ton-Kreuzkorrelation (`wf/s2b4_scripts/xcorr.py`) von 200490656, 200490655, 200490654 und 177443532 gegen alle Videos in `wf/vid/`.
+  - Paarvergleiche mit Bilddifferenz (`vdiff.py`).
+  - `get_transcription_status` für 200490721, 200490714, 200490658, 200490660, 200490722 und 200036996 (kostenlos).
+- **Reichweite und Spend:** n/a für alle Ads. GetHooked liefert für GB keine Werte. Für die drei US-Ads sind `eu_total_reach` und `ad_spend_range_score` ebenfalls null.
+- **Weitere Felder:** `ai_badge` ist bei allen 7 Ads null (kein Badge; das sagt nichts über „echt“). `script_anatomy`: not_analysed. `creative_insights`: null.
 
-### 4.2 Zahlen
+**Wichtigste Befunde des Batches**
+1. **Drei der sieben Ads laufen laut GetHooked in den USA, nicht in GB:** 200490654, 200490655 und 200490656.
+   - `countries: ["US"]`, Plattformen inklusive WhatsApp, Start 2026-10-06.
+   - Landingpage `/products/easyrest-comforter`, teils mit `?trybe=`-Parameter.
+   - Wortwahl „comforter“; Untertitel in US-Schreibweise („cozy“).
+   - Es sind echte UGC-Videos mit Sprecherinnen. Alle anderen Ads des Batches sind KI-Renderings mit Musik.
+   - Interpretation (nicht verifiziert): Pleene testet einen US-Markt bzw. US-Creator-Content.
+2. **Eine Hook-Testfamilie ist technisch belegt:** 182988111, 182988108 und 182988073 (Batch 3).
+   - Tonspur identisch (Peak 1,00 bei Lag 0); Bild ab 3,5 s identisch.
+   - Nur der Hook-Text unterscheidet sich:
+     - 182988111: „Your bed is boring.“
+     - 182988108: „7 colours. Your choice.“
+     - 182988073: „Best thing I got for years.“
+   - Nur der Testimonial-Hook (182988073) hat einen Score über 1 (Batch 3: 61 „Growing“). Die beiden Varianten hier stehen nach 18 Tagen bei Score 1.
+3. **Byte-identische Wiederverwendung:**
+   - 177443533 = 185228773 = 200490708 (MD5 `0c5cc8ef…`).
+   - 177443532 = 185228772 (MD5 `1c04c37c…`).
+   - Pleene lädt dieselbe Datei mehrfach unter neuen Ad-IDs hoch.
+4. **Copy-Bruch bei 177443532:** Der Primärtext verkauft Knappheit bei „Hearth Red“ („almost gone“). Das Video zeigt ausschließlich eine schwarze Decke.
+5. **Farbanzahl widersprüchlich:**
+   - 177443533: Stapel mit 8 Farben, Primärtext „8 duvets“.
+   - 182988111/108: Endkarte „7 colours“.
+   - Welche Zahl stimmt, habe ich nicht gegen den Shop verifiziert.
 
-**Plattformen im Überblick**
+---
 
-| Kennzahl | Trustpilot (pleene.com = pleene.uk) | Judge.me Produktseite EasyRest |
+#### Video 200490656 – The Easiest Bed Upgrade
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 200490656 / 528521150 |
+| Meta-ID | 941633032037665 |
+| Ad Library | https://www.facebook.com/ads/library/?id=941633032037665 |
+| share_url | https://app.gethookd.ai/share/ad/200490656?signature=9b9fd72ba4d964a239aa279407b823b1686d57f783845a835d07793d5157d2b6 |
+| Land / Sprache | **US** / en |
+| Plattformen | facebook, instagram, audience_network, whatsapp, threads |
+| Start / Tage aktiv | 2026-10-06 / 3 (start_to_today, active) |
+| performance_score / used_count | **30** „Testing“ (enriched: 12) / 1 |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | https://pleene.com/products/easyrest-comforter?trybe=532dbd48 |
+| Link-Beschreibung | „Fresh bedding, less fuss“ |
+| Länge / Format | 13,00 s · 720×1280 · 30 fps · AAC 44,1 kHz Stereo |
+| Schnitte | Harte Schnitte (0,3): 3 bei 1,27 / 8,30 / 10,70 s. Jump-Cuts (0,15, per Framepaar geprüft): 8 bei 3,20 / 3,93 / 4,50 / 5,73 / 6,70 / 7,20 / 8,97 / 10,13 s. **11 Schnitte = 8,5 pro 10 s** (0–10 s: 9 · 10–13 s: 2). Nur harte Schnitte: 2,3 pro 10 s. Der 0,15-Treffer bei 2,93 s ist das Ausblenden des Overlays, kein Schnitt. |
+
+**Primärtext (wörtlich):** „Pleene's EasyRest™ Comforter is one fluffy piece: no duvet cover to wrestle on, easily washable, and feels amazing.“
+
+**Transkript (GetHooked, wörtlich, mit Zeitstempeln)**
+- 0,00–3,68 „Out with the old, in with the new. I swear upgrading a comforter, it makes the biggest“
+- 3,68–8,40 „difference. This is the Plein Comforter. It is so soft, cozy, and fluffy.“
+- 8,40–12,72 „Sometimes you don't need a new bed, you just need a better comforter.“
+
+Gegenprobe Whisper small.en: „Out with the old and with the new … This is the Clean Comforter …“, sonst gleich. Der Markenname ist vermutlich „Pleene“; das ist nicht verifiziert. Silero-VAD erkennt Sprache durchgehend von 0,00 bis 12,89 s.
+
+**Hook (0–3 s)**
+- Gesprochen: „Out with the old, in with the new. I swear upgrading a comforter, it makes the biggest …“ (0–3,68 s).
+- Eingeblendet: „The easiest way to make your bed feel luxurious“ (weiße serifenlose Schrift ohne Box, Bildmitte, 0,00 bis ca. 2,93 s).
+- Bild: Flash-Forward (0–1,27 s). Die Frau wirft eine weiße Decke aufs Bett und lacht. Diese Einstellung wiederholt sich bei ca. 4,5 s.
+- Hook-Typ: Vorher/Nachher-Versprechen („Upgrade“) mit Aspirations-Overlay („luxurious“).
+
+**Szenenliste (vollständig)**
+| Zeit (s) | Bild | Text/Ton |
 |---|---|---|
-| Angezeigte Gesamtzahl | 291 (Kopfzeile); Sternfilter 8 + 32 + 251 = 291 | „Based on 172 reviews“ |
-| Erfasst | 291 (Abgleich: identisch) | 172 (Abgleich: identisch) |
-| Ø Sterne | 4,80 (angezeigter TrustScore 4,8) | 4,82 (Widget) |
-| 5★ / 4★ / 3★ / 2★ / 1★ | 251 / 32 / 2 / 1 / 5 | 142 / 29 / 1 / 0 / 0 |
-| Anteil 1–3★ | 8 = 2,7 % | 1 = 0,6 % |
-| Zeitraum | 01.08.2026 – 08.10.2026 | 03.08.2025 – 12.09.2026 |
-| Label „Invited“ | 2 (0,7 %; T050, T109, Quelle „BasicLink“) | n/a (Judge.me-Badges siehe unten) |
-| „Verified“ | 0 | „verified_buyer“: 4 (2,3 %) |
-| Öffentliche Antworten von Pleene | 0 von 291 (Trustpilot: replyPercentage 0, 6 negative Bewertungen, 0 beantwortet) | 0 von 172 |
-| Fotos / Videos | Trustpilot zeigt keine Bewertungsfotos (n/a) | 8 Bewertungen mit Foto (4,7 %), 0 Videos |
-| Herkunft der Bewertungen | 289 „Organic“, 2 „BasicLink“ | 154 textgleich mit Trustpilot (Import), 18 eigenständig |
+| 0,00–1,27 | Flash-Forward: Frau (Leoparden-Kimono) wirft weiße Decke aufs Bett, lacht | Overlay „The easiest way …“ · VO „Out with the old, in with the new.“ |
+| 1,27–3,20 | Totale: altes Bett mit cremefarbener Tagesdecke und Fellplaid, Frau räumt Kissen ab | Overlay bis ca. 2,93 · VO „I swear upgrading a comforter …“ |
+| 3,20–3,93 | Jump-Cut: Frau zieht die cremefarbene Decke ab | VO „… biggest difference.“ |
+| 3,93–4,50 | Jump-Cut: Laken wird gerichtet | – |
+| 4,50–5,73 | Jump-Cut: Frau wirft die zusammengerollte weiße Decke aufs Bett | VO „This is the Plein Comforter.“ |
+| 5,73–6,70 | Jump-Cut: Decke wird aufgeschlagen | VO „It is so soft, cozy, and fluffy.“ |
+| 6,70–7,20 | Jump-Cut: Frau breitet die Decke von hinten aus | – |
+| 7,20–8,30 | Jump-Cut: Decke liegt glatt, Rautensteppung sichtbar | – |
+| 8,30–8,97 | Neue Einstellung (andere Wand, zwei Bilder): Frau wirft das Fellplaid aufs Bett | VO „Sometimes you don't need a new bed,“ |
+| 8,97–10,13 | Jump-Cut: Deko-Kissen werden platziert | VO „you just need a better comforter.“ |
+| 10,13–10,70 | Jump-Cut: weiteres Kissen | – |
+| 10,70–13,00 | Nahaufnahme: fertig dekoriertes Bett (weiße Decke, Fellplaid, Kissen) | VO endet bei 12,72 |
 
-**Trustpilot-Profil (Business-Unit-Daten aus `__NEXT_DATA__`):** Kategorie „Bedding Shop“; `countryCode: HK`, Kontakt `support@pleene.com`, Land HK; `claimedDate` 20.08.2026; `isMerged: true`, `hasBusinessUnitMergeHistory: true` (pleene.uk wurde offenbar in pleene.com zusammengeführt; die ID der Business Unit codiert als Erstellungszeit den 19.08.2026, abgeleitet, nicht verifiziert); `verifiedPaymentMethod: true`; `isUsingPaidFeatures: true`, `hasSubscription: true`; `isCollectingReviews: false`, `hasRecentlyInvitedUsers: false`; `hasCollectedIncentivisedReviews: false`. Die Standardansicht ohne Filter listet 280 statt 291 Bewertungen (Trustpilot-interne Ansicht, Grund n/a); über Sternfilter und Zeitraumfilter „last12months“ sind alle 291 erreichbar.
+**Aufbau**
+- Hook: 0–3,7 (Upgrade, Flash-Forward).
+- Problem: nur visuell angedeutet (1,27–4,5: altes Bettzeug wird abgezogen); verbal **fehlt**.
+- Verstärkung: **fehlt**.
+- Mechanismus: **fehlt**. Im Video gibt es keinen Hinweis auf „Bezug eingenäht“ oder Waschbarkeit; das steht nur im Primärtext.
+- Lösung: 3,68–8,40 „This is the Plein Comforter. It is so soft, cozy, and fluffy.“
+- Beweis: nur Demonstration bzw. Styling-Ergebnis (4,5–13,0). Social Proof **fehlt**.
+- Angebot: **fehlt**.
+- CTA: im Video **fehlt** er. Der Schluss-Claim (8,40–12,72) lautet „Sometimes you don't need a new bed, you just need a better comforter.“ Dazu kommt der Button „Shop now“.
 
-Trustpilot-KI-Zusammenfassung (wörtlich): "Looking at 271 reviews, reviewers overwhelmingly had a great experience with this company. [...] However, some people mentioned that delivery times took longer than expected to arrive at their homes. A few customers also noted that the items arrived heavily creased because of the tight vacuum packaging, requiring some extra patience to smooth out."
+**Personen / Sprecher**
+- Eine Frau, geschätzt 35–45 Jahre, lange blonde bis braune Haare, Leoparden-Kimono über schwarzem Top.
+- Rolle: Home- bzw. Deko-UGC-Creatorin.
+- Typ: **echte Person**. Begründung: realer Wohnraum, natürliche Bewegungen und Stoffphysik, durchgehend konsistente Raumdetails; Jump-Cut-Stil wie bei Handy-UGC.
+- Ton: **Voiceover** (Off-Stimme, sie spricht nicht sichtbar in die Kamera). Unter der Stimme liegt ein durchgehendes tonales Band, vermutlich ein Musikbett (nicht verifiziert).
+- Ob die gezeigte weiße Decke ein Pleene-Produkt ist, ist **nicht verifiziert**.
 
-**Trustpilot nach Land:** GB 267, AU 12, CA 6, US 3, CY 1, JE 1, FR 1 (GB = 91,8 %).
+**Weitere Felder**
+- Setting: Schlafzimmer (Doppelbett, Fensterläden, Wandbilder) in einem Wohnhaus.
+- Avatar: Frau mit Interesse an Wohnen und Deko, die ihr Schlafzimmer ohne neues Bett „upgraden“ will (US).
+- Angle: **F-Upgrade/Luxus** (Bett-Makeover). C bzw. A-Waschbarkeit kommen nur im Primärtext vor („no duvet cover to wrestle on, easily washable“).
+- Haupt-Emotion: Freude/Aspiration (Luxus-Gefühl), leichte Erleichterung.
+- Schnitttempo: 8,5 Schnitte pro 10 s inkl. Jump-Cuts (sehr schnell). Untertitel: nein, nur das eine Hook-Overlay. Ton: Voiceover plus vermutlich Musikbett.
 
-**Trustpilot-Bewerter:** 291 Bewertungen von 280 Konten; 10 Konten schrieben 2–3 Bewertungen (zusammen 21). Median der Trustpilot-Bewertungen pro Konto: 10; Konten mit nur dieser einen Bewertung: 28. Ø Textlänge (Median) 198 Zeichen. 5 Bewertungen wurden nachträglich aktualisiert (T143, T177, T185, T194, T244).
+**Zahlen und Behauptungen (wörtlich)**
+- „so soft, cozy, and fluffy“.
+- „Sometimes you don't need a new bed, you just need a better comforter.“
+- Primärtext: „one fluffy piece“, „no duvet cover to wrestle on“, „easily washable“.
+- Keine Zahlen, keine Preise.
 
-**Judge.me im Detail:** Anbieter der Bewertungs-App ist Judge.me (Produktseiten-HTML enthält 1.259 `jdgm`-Verweise; Daten vollständig über die Judge.me-Widget-API `reviews_for_widget`, 6 Seiten à 30, sowie das shopweite Widget abgerufen). Dieselben 172 Bewertungen erscheinen auf allen drei Produkt-IDs („Pleene EasyRest™ Duvet“ zweimal, „Pleene EasyRest™ Comforter“). Badges: `review_collected_from_another_provider` 158, `review_collected_from_store_visitor` 11, `review_collected_via_store_invitation` 3. Von den 154 Trustpilot-Importen tragen 147 die Uhrzeit 10:00 (nur Datum übernommen). Bei 20 importierten Texten weicht die Sternzahl von Trustpilot ab (14× Trustpilot 5★ → Judge.me 4★, 5× 4★ → 5★, 1× 5★ → 3★: T109/J121); Ursache n/a. Shopweit zeigt Judge.me 176 Produktbewertungen (172 EasyRest + 4 ZipSheet™ vom 12./13.07.2026, alle 5★, nicht verifiziert) und 2 Shop-Bewertungen (21./22.06.2026).
+**Angebot:** keins, weder im Video noch im Primärtext.
 
-**Judge.me 1–3★ (wörtlich, vollständig):** Es gibt genau eine:
-- J121 · 2026-08-30 · 3★ · Norman Walton · Land n/a · verified_buyer: nein · Antwort Pleene: keine · Titel: "Ok but too much security checks" · Text: "Ok but too much security checks from email and face book" – identisch mit Trustpilot T109, dort aber **5★**.
+**Varianten-Hinweis:** Gegen alle Videos in `wf/vid/` gibt es keinen Ton-Treffer über 0,3 und keine identische MD5. Familie: US-„Comforter“-Tests vom 2026-10-06 (200490654, 200490655, 200490657, 200490658, 200490660), alle mit Landingpage `/products/easyrest-comforter`. Ein Skript-Zwilling ist nicht bekannt.
 
-**Kuratierter Import (Detail):** Trustpilot T001–T168 (bis 12.09.2026) = 168 Bewertungen. Importiert: 154. Nicht importiert: alle 6 mit 1–3★ (T036, T059, T094, T115, T119, T127) sowie 8 positive: T044, T055, T069, T107, T124, T150 (alle erwähnen „China“), T143 (Amazon-Vergleich, „very expensive“) und T158 (ZipSheet). Die einzige weitere China-Erwähnung (T278) stammt von nach dem Import. Zufällig wäre ein solches Muster sehr unwahrscheinlich; ob manuell oder per Filter ausgewählt wurde, ist nicht verifiziert. Seit dem 12.09.2026 kamen keine neuen Judge.me-Bewertungen hinzu, während Trustpilot 123 neue erhielt.
+---
 
-### 4.3 Kategorien: Probleme und Einwände
+#### Video 200490655 – The Bedding Upgrade Is Here
 
-Basis: alle 291 Trustpilot-Bewertungen, also auch Kritik innerhalb von 4–5★-Bewertungen (die meisten Einwände stehen dort). Zählung = Anzahl Bewertungen mit Erwähnung, manuell codiert, Mehrfachzuordnung möglich. Die 18 eigenständigen Judge.me-Bewertungen enthalten nur drei kritische Punkte (J051, J110 Lieferdauer; J015 Wunsch nach Weiß).
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 200490655 / 528521146 |
+| Meta-ID | 4392590044384955 |
+| Ad Library | https://www.facebook.com/ads/library/?id=4392590044384955 |
+| share_url | https://app.gethookd.ai/share/ad/200490655?signature=7d24527061b5c2c8f21d9243b2a93c078b438788a757590a49fc3e5bc7294145 |
+| Land / Sprache | **US** / en |
+| Plattformen | facebook, instagram, audience_network, whatsapp, threads |
+| Start / Tage aktiv | 2026-10-06 / 3 (start_to_today, active) |
+| performance_score / used_count | **30** „Testing“ (enriched: 12) / 1 |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | https://pleene.com/products/easyrest-comforter |
+| Link-Beschreibung | „Fresh bedding, less fuss“ |
+| Länge / Format | 50,94 s · 720×1280 · 29,97 fps · AAC 48 kHz Stereo |
+| Schnitte | 0,3 und 0,15 liefern dieselbe Liste: 0,13 / 6,87 / 13,48 / 29,73 / 38,81 / 43,94 / 46,81 s. Bei 0,13 s blendet das Bild aus Schwarz auf (0,00 ist ein schwarzer Frame); das zählt nicht als Schnitt. **6 Schnitte = 1,2 pro 10 s** (0–10: 1 · 10–20: 1 · 20–30: 1 · 30–40: 1 · 40–50,9: 2) |
 
-**Produkt**
+**Primärtext (wörtlich):** „Still doing bedding the old-fashioned way? Pleene EasyRest™ makes fresh-bed days simpler, with a duvet and cover in one, made for year-round comfort.“
 
-| Kategorie | n | Sterne (5/4/3/2/1) | Referenzen |
-|---|---|---|---|
-| W1 Wärme: zu warm | 2 | 0/2/0/0/0 | T056, T170 |
-| W2 Wärme: zu kalt / zu dünn | 1 | 0/0/0/1/0 | T127 |
-| W3 Wärme: Wunsch nach wärmerer Version / Zusatzdecke im Winter | 3 | 3/0/0/0/0 | T015, T233, T260 |
-| W4 Wärme: Winter noch ungetestet (Vorbehalt in positiver Bewertung) | 14 | 9/5/0/0/0 | T026, T057, T088, T107, T124, T125, T146, T149, T173, T179, T188, T194, T218, T232 |
-| G Größe (zu knapp, sehr großzügig, falsch bestellt, falsch geliefert) | 10 | 7/2/1/0/0 | T022, T035, T055, T119, T146, T153, T232, T239, T250, T270 |
-| M Material/Verarbeitung (offene Naht, loser Faden, Füllung tritt aus, "unfinished", Reißverschluss) | 5 | 0/3/1/0/1 | T028, T119, T180, T217, T277 |
-| Wa Waschen (knapp in der Maschine, Restwasser, Sorge vor Verklumpen) | 4 | 4/0/0/0/0 | T103, T126, T141, T270 |
-| Tr Trocknen (länger als 2 Std.) | 2 | 2/0/0/0/0 | T019, T262 |
-| K Knittern durch Vakuumverpackung | 7 | 2/4/0/0/1 | T008, T014, T042, T094, T118, T139, T239 |
-| V Verklumpen (tatsächlich aufgetreten) | 0 | 0/0/0/0/0 | – |
-| Ge Geruch (negativ) | 0 | 0/0/0/0/0 | – |
-| F Farbe (zu grell, weicht von Website ab, Verwechslung) | 3 | 2/1/0/0/0 | T068, T198, T282 |
-| S Sonstiges/Wünsche (Muster, Weiß, mehr Farben, Top Sheet, Treuerabatt) | 8 | 7/1/0/0/0 | T043, T051, T054, T146, T189, T226, T237, T264 + Judge.me eigen: J015 |
-| P Preis hoch | 3 | 1/2/0/0/0 | T008, T097, T143 |
+**Transkript (GetHooked, wörtlich, mit Zeitstempeln)**
+- 0,00–7,32 „I don't have a duvet cover anymore and honestly it was the best decision I ever made.“
+- 7,32–10,50 „This is the Pleen EasyRest Duvet.“
+- 10,50–14,72 „It's a duvet and a cover in one.“
+- 14,72–19,34 „Now I know exactly what you're thinking, that thing is never going to fit in a normal washing“
+- 19,34–20,34 „machine.“
+- 20,74–22,74 „But watch this.“
+- (22,74–30,74 keine Sprache. Silero-VAD findet hier ebenfalls keine Sprache, nur Geräusche wie Maschinentür und Rascheln. Ein leiser Musikteppich darunter ist nicht verifiziert.)
+- 30,74–36,14 „And no, it doesn't take ages to dry, just two hours and then you can put it back onto“
+- 36,14–37,14 „your bed.“
+- 39,14–44,38 „So warm and cosy in winter and cool and comfortable in summer.“
+- 44,38–46,26 „I'm never going back to my old bedding.“
 
-**Lieferung**
+Gegenprobe Whisper small.en: „This is the Clean Easy Rest Duvet“ und „just two hours and then put it back onto your bed“, sonst gleich.
 
-| Kategorie | n | Sterne (5/4/3/2/1) | Referenzen |
-|---|---|---|---|
-| L1 Lieferdauer lang/verzögert | 51 | 31/15/1/1/3 | T016, T020, T028, T044, T054, T056, T067, T070, T094, T104, T107, T115, T119, T124, T125, T127, T132, T134, T136, T139, T143, T150, T152, T156, T159, T162, T167, T168, T174, T180, T183, T187, T190, T191, T193, T194, T198, T202, T204, T205, T208, T216, T218, T226, T240, T248, T256, T261, T273, T279, T287 + Judge.me eigen: J110, J051 |
-| L2 Zustellproblem (beschädigt, falsche Adresse, nicht angekommen, falsche Ware, Kurieranweisung) | 9 | 3/4/0/0/2 | T021, T060, T115, T125, T138, T153, T162, T240, T291 |
-| L3 Versand aus China/USA bzw. Herkunft intransparent | 11 | 6/3/1/0/1 | T044, T055, T059, T069, T107, T119, T124, T132, T150, T175, T278 |
-| L4 Lieferung positiv (schnell, pünktlich, gut verpackt, Tracking) | 33 | 32/1/0/0/0 | T007, T011, T015, T019, T023, T050, T051, T069, T077, T089, T106, T110, T116, T122, T128, T131, T147, T160, T172, T182, T196, T206, T207, T212, T213, T214, T234, T235, T239, T252, T267, T278, T283 |
+**Eingeblendete Untertitel (wörtlich, phrasenweise, Zeiten aus dem 0,5-s-Raster ±0,5 s)**
+| Zeit (s) | Untertitel |
+|---|---|
+| 0,13–2,9 | „I don't have a duvet cover anymore,“ |
+| 3,0–6,87 | „and it's the best decision I've ever made.“ |
+| 6,87–10,3 | „This is the Pleene EasyRest Duvet.“ |
+| 10,5–13,48 | „It's a duvet and cover in one.“ |
+| 13,48–16,2 | „I know what you're thinking.“ |
+| 16,5–18,2 | „That thing is never“ |
+| 18,5–20,3 | „going to fit into a normal washing machine.“ |
+| 20,5–22,5 | „But watch this.“ |
+| 22,7–30,3 | (kein Untertitel) |
+| 30,5–33,2 | „And no, it doesn't take ages to dry.“ |
+| 33,5–38,8 | „Just two hours, and then it gets back onto your bed.“ |
+| 38,8–41,7 | „So warm and cozy in winter,“ |
+| 42,0–43,9 | „cool and comfortable in summer.“ |
+| 43,94–46,8 | „I'm never going back to my old bedding.“ |
+| 46,81–50,94 | Endkarte (schwarz): „Pleene.“ / „EasyRest™“ (Logo, ab ca. 47), „One piece. Less hassle.“ (ab ca. 48), „SHOP NOW“ (ab ca. 48,5) |
 
-**Kundenservice**
+Die Untertitel weichen teils vom Gesprochenen ab:
+- Gesprochen „honestly it was the best decision I ever made“, Untertitel „and it's the best decision I've ever made“.
+- Gesprochen „then you can put it back onto your bed“, Untertitel „then it gets back onto your bed“.
+- Gesprochen „cosy“, Untertitel „cozy“.
 
-| Kategorie | n | Sterne (5/4/3/2/1) | Referenzen |
-|---|---|---|---|
-| K1 Service negativ (keine/späte Antwort, Erstattung zäh) | 5 | 1/0/0/1/3 | T115, T127, T185, T240, T277 |
-| K2 Rückgabe/Umtausch (Rücksendung nach China zu teuer, Teilerstattung statt Retoure) | 3 | 2/0/1/0/0 | T055, T119, T270 |
-| K3 Bestellprozess/Angebot (Upsell-Seite, Gratis-Kissen, Sicherheitschecks, Aktion verpasst, versehentliche Zusatzbestellung) | 5 | 3/0/1/0/1 | T036, T059, T109, T113, T114 |
-| K4 Service positiv (Ersatz, Erstattung, schnelle Antwort, Kommunikation) | 22 | 18/4/0/0/0 | T020, T021, T055, T075, T077, T082, T089, T141, T143, T153, T164, T174, T185, T213, T231, T232, T244, T270, T272, T273, T282, T291 |
-| K5 Erstattung/Gutschrift erwähnt | 6 | 1/3/1/0/1 | T020, T055, T119, T143, T244, T277 |
+**Hook (0–3 s)**
+- Gesprochen: „I don't have a duvet cover anymore and honestly …“ (Sprachbeginn laut VAD bei 0,82 s).
+- Eingeblendet: „I don't have a duvet cover anymore,“.
+- Bild: Frau beugt sich übers Bett, streicht über die Decke und spricht in die Kamera.
+- Hook-Typ: Bekenntnis- bzw. Kontra-Hook (Testimonial).
 
-**Erwartung vs. Realität**
+**Szenenliste (vollständig)**
+| Zeit (s) | Bild |
+|---|---|
+| 0,00–0,13 | Schwarz |
+| 0,13–6,87 | Schlafzimmer, graues Polster-Kopfteil: Frau am Bett, faltet die cremeweiße Decke auf, spricht in die Kamera |
+| 6,87–13,48 | Frau hält die Decke vor sich hoch, dann hüllt sie sich darin ein (Kopf schaut oben heraus) |
+| 13,48–29,73 | Küche/Waschbereich: Samsung-Frontlader, pinker Toaster, Fliesenboden. Ab 14 s Nahaufnahme ihres Gesichts beim Einwand; ab ca. 22,7 stopft sie die ganze Decke in die Maschine und schließt die Tür (ca. 29) |
+| 29,73–38,81 | Schlafzimmer: Decke wird wieder aufs Bett gelegt und glattgezogen |
+| 38,81–43,94 | Frau liegt im Bett, Kopf auf dem Kissen, Decke bis zum Kinn |
+| 43,94–46,81 | Frau liegt seitlich auf dem Bett, Kopf auf die Hand gestützt, Schluss-Satz in die Kamera |
+| 46,81–50,94 | Schwarze Endkarte mit Logo, Slogan und „SHOP NOW“ |
 
-| Kategorie | n | Sterne (5/4/3/2/1) | Referenzen |
-|---|---|---|---|
-| E1 Erwartung enttäuscht / Versprechen nicht gehalten | 10 | 1/4/1/1/3 | T059, T094, T107, T119, T127, T170, T198, T226, T250, T277 |
-| E2 Vertrauen/Scam-Angst vor oder nach dem Kauf | 11 | 7/1/0/0/3 | T020, T052, T059, T076, T098, T115, T192, T240, T270, T276, T283 |
-| E3 Erwartung übertroffen nach Skepsis | 32 | 31/1/0/0/0 | T005, T016, T040, T042, T047, T051, T052, T054, T063, T076, T098, T099, T108, T120, T122, T126, T146, T150, T192, T223, T229, T241, T246, T261, T262, T269, T270, T276, T284, T288, T289, T290 |
+**Aufbau**
+- Hook: 0–7,3 („I don't have a duvet cover anymore … best decision“).
+- Problem: implizit (der Bettbezug); verbal nicht ausgeführt, also **nur implizit**.
+- Mechanismus: 7,32–14,72 „This is the Pleen EasyRest Duvet. It's a duvet and a cover in one.“
+- Verstärkung (Einwand): 14,72–20,34 „that thing is never going to fit in a normal washing machine“.
+- Beweis 1 (Demo): 20,74–29,73 „But watch this.“ Danach passt die ganze Decke in den Frontlader.
+- Beweis 2: 30,74–37,14 „it doesn't take ages to dry, just two hours“; die Decke liegt wieder auf dem Bett.
+- Nutzen Temperatur: 39,14–44,38.
+- Abschluss: 44,38–46,26 „I'm never going back to my old bedding.“
+- Angebot: **fehlt**.
+- CTA: Endkarte 46,81–50,94 „SHOP NOW“ und „One piece. Less hassle.“
 
-**Belegzitate Produkt**
+**Personen / Sprecher**
+- Eine Frau, geschätzt 50–60 Jahre, dunkle Haare zum Zopf, weißes T-Shirt, Hose mit schwarz-weißem Karomuster.
+- Rolle: Testimonial bzw. UGC-Creatorin („ich“-Perspektive).
+- Typ: **echte Person**. Begründung: Lippen und Ton sind synchron (z. B. 1–6 s und 14–22 s), Gesicht und Kleidung sind über drei Räume konsistent, der Haushalt ist realistisch (Samsung-Maschine, Toaster, Fliesen), Bewegungen und Stoffphysik sind natürlich.
+- Ton: **O-Ton** (spricht in die Kamera). Ihren Akzent habe ich nicht bestimmt.
 
-- Wärme zu warm: "Got rather hot but light weight allows for it to be thrown off easily." (T056, 4★); "still felt hot sometimes and had to throw the Pleene EasyRest duvet off myself on some occasions" (T170, 4★)
-- Zu dünn: "Its not warm too thin, waste of money" (T127, 2★)
-- Wärmere Version gewünscht: "do you make heavier one for the winter." (T233, 5★); "Will probably add a weighted blanket in mid winter" (T260, 5★); "in winter, if it is cold, I will use two at once" (T015, 5★)
-- Winter-Vorbehalt: "As it is still summer, I cannot say how warm it will be for winter nights. It is claimed that the duvet will be like a 10 tog in winter. I will have to wait and see." (T107, 4★); "I am waiting to see how I cope with it during the winter months." (T179, 5★)
-- Größe: "I bought a double sized which is a little undersized." (T035, 5★); "One king size quilt would be far too small." (T239, 5★); "I like a king size, but it is so generous I think a double would have been ok!" (T146, 5★); "It seems much bigger than a regular “Flat”, doesn’t fit as nicely as the shown in the advertisement." (T250, 4★) (ZipSheet)
-- Verarbeitung: "Regretably the duvet arrived unfinished and very poor quality." (T277, 1★); "was clearly ‘bubbled’ with lining coming out through a series of minute minute punctures in the surface" (T119, 3★); "I did notice that there was a lone loose thread in the middle of a line of stitch." (T180, 4★); "the only thing was the pillow case seam was open" (T028, 4★)
-- Waschen: "had a little problem on the wash for the double as it retained abit of water" (T141, 5★); "although it is a tight fit in my washing machine it washed well" (T126, 5★); "My biggest concern is, will the filling bunch up during washing?" (T103, 5★)
-- Trocknen: "Drying takes about 4hours but all good." (T019, 5★); "dried inside within 1 day" (T262, 5★)
-- Knittern: "it was so tightly vacuum packed, thousands of tiny creases still remain even after a wash and a week’s use." (T118, 4★); "the pillowcases are still very creased, and I feel loathe to iron them in case I spoil them" (T008, 4★); "Item is very creased" (T094, 1★)
-- Verklumpen: kein Fall; Gegenbeleg "after the first wash no "bunching" or lumpiness to the filling (unlike my last quilt)" (T270, 5★)
-- Geruch: kein negativer Fall; Gegenbeleg "no unpleasant odour as with some ordinary duvets" (T067, 5★)
-- Farbe: "sunset red .much too bright,husband says its like having an RAF life raft on the bed" (T068, 4★); "I think the colour looks different than it appeared on the website" (T198, 5★)
-- Wünsche: "Only thought I had is that they do not do patterened ones" (T043, 5★); "I just wish you also did it in white" (T051, 5★); "you need to have a matching top sheet" (T264, 5★); "I would have appreciated a loyalty discount for being a returning customer." (T054, 5★)
-- Preis: "very expensive compared with buying from the likes of Amazon" (T143, 4★); "A bit pricey but worth having." (T097, 5★)
+**Weitere Felder**
+- Setting: Schlafzimmer und Küche/Waschbereich.
+- Avatar: Frau 45–65, die das Beziehen leid ist und skeptisch ist, ob die Decke in die Maschine passt und schnell trocknet; legt Wert auf Ganzjahres-Komfort (US-Kampagne).
+- Angle: **C** (kein Bettbezug mehr) + **A-Waschbarkeit** (ganze Decke in die Maschine, „two hours“ trocken) + **B** (warm im Winter, kühl im Sommer).
+- Haupt-Emotion: Neugier durch Einwand und Auflösung („I know what you're thinking … But watch this“), danach Erleichterung und Zufriedenheit.
+- Schnitttempo: 1,2 Schnitte pro 10 s (langsam, lange Einstellungen). Untertitel: ja, phrasenweise, weiße Serifenschrift in grauer, halbtransparenter, abgerundeter Box in der unteren Bildhälfte. Ton: O-Ton, kein Voiceover.
 
-**Belegzitate Lieferung**
+**Zahlen und Behauptungen (wörtlich)**
+- „just two hours“ (Trocknungszeit).
+- „never going to fit in a normal washing machine. But watch this.“
+- „So warm and cosy in winter and cool and comfortable in summer.“
+- „It's a duvet and a cover in one.“
+- Endkarte: „One piece. Less hassle.“
+- Primärtext: „made for year-round comfort“.
+- Keine Preise, keine Tog-Angabe.
 
-- Dauer: "Took 13 days instead of 6 day advertised" (T094, 1★); "Took over 3 weeks to be delivered" (T143, 4★); "my order took a long time to be delivered so please evaluate your logistical processes." (T054, 5★)
-- Zustellung: "They than claimed that Evri had the parcel in thier london hub days ago you Evri have no record of the tracking numbers given" (T240, 1★); "being delivered to a similar sounding wrong address" (T060, 5★); "our original order was damaged in transit, they promptly sent a replacement" (T021, 5★)
-- Herkunft: "despite the company being based in London, the product actually has to travel all the way from China" (T107, 4★); "The address 128 City Road, London (EC1V 2NX) is a well-known mass-registration office" (T059, 1★); "Then when the parcel arrived in UK it went Stansted, Braintree, Midlands, Cardiff (?), before getting delivered to us in East Anglia." (T044, 4★)
-- Positiv: "I was able to follow my parcels voyage on its complete journey until it arrived which took a week." (T278, 5★); "Prior to ordering, I read quite a few reviews saying that the delivery time was quite long.  I didn’t find that" (T196, 5★)
+**Angebot:** keins (kein Gratis-Kissenbezug, kein Preis, keine 90 Nächte).
 
-**Belegzitate Kundenservice**
+**Varianten-Hinweis**
+- **200490721** (gleiche Headline „The Bedding Upgrade Is Here“, Start 2026-10-06, Landingpage `/products/easyrest`, Score 1) hat laut `get_transcription_status` ein **wortgleiches Transkript mit identischen Zeitstempeln**. Wahrscheinlich ist es dasselbe Video in einer zweiten Kampagne. Das Video ist nicht geladen; Land und Bild sind **nicht verifiziert**.
+- Dasselbe Muster zeigt das Paar 200490658 (`/easyrest-comforter`) / 200490722 (`/easyrest`): Skript „My back just can't take this anymore …“, wortgleich.
 
-- Negativ: "Customer support has taken 5 days to respond and then didn’t help just said out for delivery." (T115, 1★); "no reply to email" (T127, 2★); "I am now trying to be reimbursed, to which there seems to be reluctance. I have been offered a free one, but it would not be free as I have already paid for unusable goods." (T277, 1★)
-- Rückgabe: "A lovely customer service lady explained that it would be really expensive to return the item as the company was based in China." (T055, 5★); "They say a free return - no they don’t I was told my miss-order would cost me too much to return to China so they offered me a percentage off another order which I accepted." (T119, 3★)
-- Bestellprozess/Upsell: "I made the purchase, and got another page asking me to confirm an order. I thought I was just confirming the purchase I'd made (probably wasn't concentrating) but it added a second Duvet, that I didn't want) to the order at a discount." (T036, 3★); "Luckily I mistakenly ordered an extra one" (T114, 5★); "Ok but too much security checks from email and face book" (T109, 5★); "it offers two free pillow cases but no indication of this when you come to pay" (T059, 1★)
-- Positiv: "The company have been in contact and I am very happy with the outcome" (T185, 5★) (nach "Avoid this company like the plague."); "found Amelia quick to respond with here advice" (T270, 5★); "Updated, I have had a £25 refund from the company with this message." (T143, 4★)
+---
 
-**Belegzitate Erwartung vs. Realität**
+#### Video 200490654 – Say Goodbye to Duvet Cover Hassle
 
-- Enttäuscht: "waste of money" (T127, 2★); "Though they did not fully work in the way they described" (T170, 4★); "Thought I’d ordered a top sheet but no." (T226, 4★)
-- Vertrauen: "i only saw the advert on facebook and wasn't sure if this would be a scam" (T098, 5★); "pleene has a low security rating" (T020, 4★); "this seems to be a scam" (T115, 1★); "NO STARS CON" (T240, 1★)
-- Übertroffen: "THIS IS NOT THE CASE WITH PLEENE." (T076, 5★); "So okay, I admit it, I was completely wrong" (T192, 5★); "I must admit I was sceptical about the claims for the duvet, but I was wrong." (T122, 5★)
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 200490654 / 528521151 |
+| Meta-ID | 1704721577299375 |
+| Ad Library | https://www.facebook.com/ads/library/?id=1704721577299375 |
+| share_url | https://app.gethookd.ai/share/ad/200490654?signature=47a2ea43f6061e1680dc6c3acfbfbfe49dda22c6028484f0a15fd6b2c5413750 |
+| Land / Sprache | **US** / en |
+| Plattformen | facebook, instagram, audience_network, whatsapp, threads |
+| Start / Tage aktiv | 2026-10-06 / 3 (start_to_today, active) |
+| performance_score / used_count | **30** „Testing“ (enriched: 12) / 1 |
+| CTA | SEE_DETAILS – „See details“ |
+| Landingpage | https://pleene.com/products/easyrest-comforter?trybe=769e7716 |
+| Link-Beschreibung | „Fresh bedding, made easy“ |
+| Länge / Format | 25,35 s · 720×1280 · 30 fps · AAC 44,1 kHz Stereo |
+| Schnitte | 0,3: 11 bei 2,57 / 4,77 / 6,33 / 7,10 / 8,90 / 13,20 / 14,20 / 15,37 / 16,40 / 18,20 / 23,60 s. Per Framepaar bestätigte Zusatz-Schnitte aus 0,15: 7,90 (Jump-Cut: ein Kissen → zwei Kissen) und 19,73 s. **13 Schnitte = 5,1 pro 10 s** (0–10: 6 · 10–20: 6 · 20–25,35: 1). Nur 0,3: 4,3 pro 10 s. |
 
-**Vorab-Einwände, die Käufer vor dem Kauf hatten (aus positiven Bewertungen)**
+**Primärtext (wörtlich):** „No more stuffing, buttoning or fighting with duvet cover corners. Pleene EasyRest™ combines a duvet and cover in one, so fresh bedding is simpler from start to finish.“
 
-| Einwand vor dem Kauf | n | Referenzen | Beleg |
-|---|---|---|---|
-| Zu dünn/leicht, um warm zu halten | 14 | T005, T016, T150, T159, T173, T229, T232, T237, T241, T245, T246, T262, T288, T289 | "I thought it wouldn't be warm enough being quite thin, but it's lovely and warm." (T241, 5★) |
-| Online-/Facebook-Kauf, Angst vor Betrug | 8 | T052, T076, T098, T099, T192, T270, T276, T283 | "I, like you, am somewhat suspicious of claims by companies on FB etc" (T192, 5★) |
-| Passt nicht in die Waschmaschine | 4 | T107, T146, T157, T270 | "I did not believe the duvet would fit into the washing machine" (T146, 5★) |
-| Trocknet im Winter nicht schnell genug | 2 | T043, T146 | "I ordered two duvets as I was worried about getting it dry in the winter." (T043, 5★) |
-| Füllung verklumpt beim Waschen | 1 | T103 | "will the filling bunch up during washing?" (T103, 5★) |
+**Transkript (GetHooked, wörtlich, mit Zeitstempeln)**
+- 0,00–6,00 „Making the bed just got a whole lot easier with Clean, a machine washable comforter that doesn't“
+- 6,00–12,40 „need to be stuffed into a duvet. Just toss it in the wash and toss it on your bed. It is so soft“
+- 12,40–20,24 „and lightweight but still so cozy. My guest bedroom was truly just elevated. The pillowcases“
+- 20,24–25,12 „even have an inner cover so no more covers falling off in the middle of the night.“
 
-### 4.4 Lob-Lücken: Was Käufer loben und die Ads nicht nutzen
+Gegenprobe Whisper small.en: ebenfalls „with clean“. Der Markenname ist vermutlich „Pleene“; **nicht verifiziert**. Auch im GetHooked-Transkript von 200490658 wird die Marke als „EasyClean“ erkannt. Silero-VAD: Sprache 0,00–25,24 s. Sprechpausen laut silencedetect: 10,90–11,42 / 14,99–15,66 / 18,73–19,40 s.
 
-Methode: Themen-Suchmuster über alle 283 Trustpilot-Bewertungen mit 4–5★ (Judge.me nicht separat gezählt, da 154 von 172 Kopien sind) und über Titel+Text aller 137 aktiven Ads aus `agent1_enriched.json` (61 unterschiedliche Titel-Text-Kombinationen). Treffer wurden manuell gesichtet und offensichtliche Fehltreffer entfernt; Toleranz etwa ±2–3. Angle-Codes nach Vorgabe (A–F).
+**Hook (0–3 s)**
+- Gesprochen: „Making the bed just got a whole lot easier with Clean [vermutl. Pleene], a machine washable comforter …“
+- Eingeblendet: **nichts**. Es gibt im ganzen Video weder Text-Overlay noch Untertitel noch Endkarte (Sichtprüfung im 1-s-Raster plus an allen Schnitten).
+- Bild: Eine beige Decke wird über ein Bett mit schwarzem Metallgestell geworfen (0–2,57), danach das fertige Bett (ab 2,57).
+- Hook-Typ: Nutzen-Statement plus Wurf-Visual.
 
-| Thema (Angle) | Bewertungen 4–5★ (n von 283) | Ads (n von 137) | Ad-Varianten (n von 61) | Einordnung |
+**Szenenliste (vollständig)**
+| Zeit (s) | Bild |
+|---|---|
+| 0,00–2,57 | Gästezimmer, schwarzes Metallbett: Decke wird abgezogen und wieder aufgeworfen (Wurf) |
+| 2,57–4,77 | Fertiges Bett vom Fußende, grüne Waffelpiqué-Decke über dem Fußteil |
+| 4,77–6,33 | Waschmaschine mit „SAMSUNG“-Schriftzug: Decke wird hineingestopft |
+| 6,33–7,10 | Decke in einer zweiten Maschine (gelbliches Licht; vermutlich Trockner, nicht verifiziert) |
+| 7,10–7,90 | Leeres Bett, Kissen fliegt aufs Bett |
+| 7,90–8,90 | Jump-Cut: zwei Kissen liegen, Frau greift ins Bild |
+| 8,90–13,20 | Frau (grüner Strickpulli, Jeans) breitet die Decke aus, Kamera hinter ihr |
+| 13,20–14,20 | Frau kniet auf dem Bett und zieht die Decke zum Kopfende |
+| 14,20–15,37 | Seitliche Einstellung: Decke wird glattgestrichen |
+| 15,37–16,40 | Nahaufnahme: Hand drückt auf die Decke (Fülle und Weichheit) |
+| 16,40–18,20 | Kissen mit Bezügen am Kopfende |
+| 18,20–19,73 | Nahaufnahme: Hand auf der Decke |
+| 19,73–23,60 | Nahaufnahmen von Kissenbezug und Saum (Innenbezug bzw. Reißverschluss-Kante sichtbar) |
+| 23,60–25,35 | Totale: fertiges Bett, Waffeldecke am Fußende |
+
+**Aufbau**
+- Hook: 0–2,6 („Making the bed just got a whole lot easier …“).
+- Problem: implizit (0–12,4): „doesn't need to be stuffed into a duvet“. Das Stopfen in den Bezug ist das Problem; es wird **nicht ausgeführt**.
+- Verstärkung: **fehlt**.
+- Mechanismus: 0–12,4 „a machine washable comforter that doesn't need to be stuffed into a duvet“.
+- Lösung/Demo: 4,77–7,10 Waschmaschine und Trockner; 6,0–12,4 „Just toss it in the wash and toss it on your bed.“; 7,1–15,4 Bett wird bezogen.
+- Beweis: Haptik-Nahaufnahmen (15,37–23,6) plus subjektives Testimonial „My guest bedroom was truly just elevated.“ Social Proof **fehlt**.
+- Zusatz-Feature: 20,24–25,12 „The pillowcases even have an inner cover so no more covers falling off in the middle of the night.“
+- Angebot: **fehlt**.
+- CTA: im Video **fehlt** er (nur Button „See details“).
+
+**Personen / Sprecher**
+- Eine Frau, geschätzt 30–45 Jahre, braune Haare im Dutt, grüner Strickpullover, Jeans.
+- Rolle: UGC-Creatorin, Gastgeberin („guest bedroom“).
+- Typ: **echte Person**. Begründung: realer Raum mit Teppich und Fenster, natürliche Bewegungen und Stoffphysik, Handkamera, reale Markenmaschine.
+- Ton: **Voiceover** (sie spricht nicht sichtbar in die Kamera). Darunter liegt ein durchgehender tonaler Teppich, vermutlich leise Musik (nicht verifiziert).
+
+**Weitere Felder**
+- Setting: Gästezimmer und Waschbereich.
+- Avatar: US-Frau 30–50, die ein Gästezimmer pflegt und ohne Aufwand frisch beziehen will.
+- Angle: **C** (nicht in einen Bezug stopfen, Bett machen „a whole lot easier“) + **A-Waschbarkeit** („machine washable“, „toss it in the wash“) + **F-Gästezimmer** + **F-Kissenbezug-Feature** (Innenbezug).
+- Haupt-Emotion: Erleichterung und Zufriedenheit (ruhig, wohnlich).
+- Schnitttempo: 5,1 Schnitte pro 10 s. Untertitel: nein. Ton: Voiceover plus vermutlich Musikbett.
+
+**Zahlen und Behauptungen (wörtlich)**
+- „a machine washable comforter that doesn't need to be stuffed into a duvet“.
+- „Just toss it in the wash and toss it on your bed.“
+- „so soft and lightweight but still so cozy“.
+- „The pillowcases even have an inner cover so no more covers falling off in the middle of the night.“
+- Keine Zahlen, keine Preise.
+
+**Angebot:** keins.
+
+**Varianten-Hinweis**
+- Gleiche Headline „Say Goodbye to Duvet Cover Hassle“ wie **200490657** (Batch 5) und **200490714**.
+- 200490657 ist ein **anderes Video**: Ton-Korrelation 0,01, mittlere Bilddifferenz 67,9, Länge 30,48 s gegenüber 25,35 s.
+- 200490714 ist laut GetHooked `no_speech`, also ebenfalls ein anderes Video (nicht geladen).
+- Es ist also eine Copy-Familie mit unterschiedlichen Creatives, keine Schnittvarianten.
+
+---
+
+#### Video 177443533 – Pick a colour. Watch.
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 177443533 / 478715300 |
+| Meta-ID | 1025780787101985 |
+| Ad Library | https://www.facebook.com/ads/library/?id=1025780787101985 |
+| share_url | https://app.gethookd.ai/share/ad/177443533?signature=b49e6756d0f788df305d7d64b0ecdf567538d748bde051b17a21130afda3e2c3 |
+| Land / Sprache | GB / en |
+| Plattformen | facebook, instagram, audience_network, messenger, threads |
+| Start / Tage aktiv | 2026-09-15 / 24 (start_to_today, active) |
+| performance_score / used_count | 1 „Testing“ / 2 |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | https://pleene.com/products/easyrest (page_type product_page) |
+| Link-Beschreibung | „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ |
+| Länge / Format | 14,72 s · 720×1280 · 30 fps · AAC 44,1 kHz Stereo |
+| Schnitte | 0,3: 3 bei 2,60 / 4,97 / 7,63 s. Per Framepaar bestätigt aus 0,15: 10,30 / 10,93 s (Einstellungswechsel). **5 Schnitte = 3,4 pro 10 s** (0–10: 3 · 10–14,72: 2) |
+
+**Primärtext (wörtlich):** „Pick a colour. Watch what happens. In the video: 8 duvets, 1 empty bed, and the fastest bed-making you'll see today — because the Pleene EasyRest™ needs no cover. One throw, done.“
+
+**Transkript:** GetHooked meldet „🎵Outro Music🎵“ (0,00–14,50 s), einen **Platzhalter**. Audio-Check:
+- Silero-VAD: **0,00 s Sprache** bei Schwelle 0,5 und 0,35.
+- volumedetect: mean −16,1 dB, max −1,1 dB. silencedetect findet keine Pause, der Ton läuft durchgehend.
+- Whisper small.en gibt nur „🎵“ aus (no_speech_prob 0,16).
+- **Ergebnis: nur Musik, kein Sprecher.**
+
+**Hook (0–3 s)**
+- Gesprochen: keine Sprache.
+- Eingeblendet: „Don't scroll.“ / „Pick your colour first.“ (schwarze fette serifenlose Schrift, oberes Drittel, 0–2,60 s).
+- Bild: weißes leeres Studio, links ein Stapel aus 8 gesteppten Decken (rot, beige, grau, blau, mint, schwarz, weiß, braun), rechts ein leeres weißes Einzelbett. Ab ca. 0,5 s läuft ein grauhaariger Mann ins Bild.
+- Hook-Typ: Scroll-Stopper-Befehl plus Interaktion (Farbe wählen).
+
+**Szenenliste (vollständig)**
+| Zeit (s) | Bild | Einblendung (wörtlich) |
+|---|---|---|
+| 0,00–2,60 | Totale Studio: Deckenstapel und leeres Einzelbett, Mann geht zum Stapel | „Don't scroll.“ / „Pick your colour first.“ |
+| 2,60–4,97 | Halbnah: Mann legt die Hand auf den Stapel | „Duvet + Cover in One.“ |
+| 4,97–7,63 | Nah: Hand zieht die mintgrüne Decke aus dem Stapel | „Fits in any washing machine.“ |
+| 7,63–10,30 | Totale: Mann trägt die mintgrüne Decke und wirft sie aufs Bett | „Dries in 2 hours.“ / „Bed made. In one throw.“ |
+| 10,30–10,93 | Halbnah (Säule bzw. Durchgang im Hintergrund): Decke landet | wie oben |
+| 10,93–14,72 | Totale: Mann richtet die Decke. Ab ca. 12,0 steht er lächelnd daneben, ab ca. 13 geht er aus dem Bild, ab 14 nur das Bett | ca. 7,63–11,9 wie oben; ab ca. 12,0: „2× Pleene™ Pillow Cases FREE ·“ / „Value £39.99 ·“ / „90-Night Trial“ |
+
+**Aufbau**
+- Hook: 0–2,6.
+- Problem: **fehlt**.
+- Verstärkung: **fehlt**.
+- Mechanismus: 2,60–4,97 „Duvet + Cover in One.“
+- Lösung/Nutzen: 4,97–11,9 „Fits in any washing machine.“, „Dries in 2 hours.“, „Bed made. In one throw.“, dazu die Wurf-Demo.
+- Beweis: nur die (KI-)Demonstration. Social Proof im Video **fehlt**; „Over 10,000 Happy Customers“ steht nur in der Link-Beschreibung.
+- Angebot: ca. 12,0–14,72.
+- CTA: im Video **fehlt** er. „Pick your colour first.“ wirkt als impliziter CTA, dazu der Button „Shop now“.
+
+**Personen / Sprecher**
+- Ein Mann, geschätzt 55–65 Jahre, grauhaarig mit Bart, weißes Leinenhemd, beige Chinos, weiße Sneaker.
+- Rolle: Demonstrator ohne Sprechrolle.
+- Typ: **wahrscheinlich KI-generiert**. Begründung:
+  - Das weiße Kopfkissen auf dem Bett (0–10 s) erscheint nach dem Wurf als **mintgrünes** Kissen mit passendem Bezug (ab ca. 11 s), obwohl kein Kissen geworfen wurde.
+  - Die Raumgeometrie wechselt zwischen den Einstellungen (Säule bzw. Durchgang nur ab 7,63 s sichtbar).
+  - Das Studio ist makellos gleichmäßig ausgeleuchtet.
+  - Die Bewegungen sind glatt, wie typisch für Videogeneratoren.
+  - Gesamturteil nicht verifiziert.
+- Ton: nur Musik.
+
+**Weitere Felder**
+- Setting: weißes, minimalistisches Studio mit Einzelbett.
+- Avatar: farb- und designorientierte Käufer, die Bettenmachen als lästig empfinden. Der ältere Protagonist spricht implizit eine ältere Zielgruppe an (Interpretation, nicht verifiziert).
+- Angle: **C** („Duvet + Cover in One.“, „Bed made. In one throw.“) + **F-Farbe/Auswahl** („Pick your colour first.“) + **A-Waschbarkeit** („Fits in any washing machine.“, „Dries in 2 hours.“) + **F-Angebot**.
+- Haupt-Emotion: Neugier (Interaktion „Pick your colour“) und Befriedigung (Satisfying Throw).
+- Schnitttempo: 3,4 pro 10 s. Untertitel: nein, aber Text-Overlays: fette serifenlose Schrift, Hook schwarz, danach weiß zentriert, Angebotszeilen weiß mit Schatten. Ton: nur Musik.
+
+**Zahlen und Behauptungen (wörtlich)**
+- „Fits in any washing machine.“
+- „Dries in 2 hours.“
+- „Bed made. In one throw.“
+- „2× Pleene™ Pillow Cases FREE“, „Value £39.99“, „90-Night Trial“.
+- Primärtext: „8 duvets, 1 empty bed“, „the fastest bed-making you'll see today“, „needs no cover. One throw, done.“
+- Link-Beschreibung: „Over 10,000 Happy Customers“.
+
+**Angebot:** 2 Gratis-Kissenbezüge mit Wert £39.99 plus 90-Night Trial, als Text-Overlay am Ende (ca. 12,0–14,72 s). Keine Knappheit, keine Frist.
+
+**Varianten-Hinweis:** **Byte-identisch** mit **185228773** (Start 2026-09-27) und **200490708** (Start 2026-10-06, Batch 5). Belege: MD5 `0c5cc8effe0cf17075a9c03ca373839c` bei allen drei; Ton-Peak 1,00 bei Lag 0; Bilddifferenz 0,00 gegen 200490708. Gleiche Headline und gleicher Primärtext. Dieselbe Datei läuft also unter drei Ad-IDs; alle drei haben Score ≤ 12.
+
+---
+
+#### Video 177443532 – Be honest. When did you last wash it?
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 177443532 / 478715303 |
+| Meta-ID | 2894384197604810 |
+| Ad Library | https://www.facebook.com/ads/library/?id=2894384197604810 |
+| share_url | https://app.gethookd.ai/share/ad/177443532?signature=0e0c69630ceb34cd905e1db339879cccd638942624cbd67020f4cfb3c8937ccb |
+| Land / Sprache | GB / en |
+| Plattformen | facebook, instagram, audience_network, messenger, threads |
+| Start / Tage aktiv | 2026-09-15 / 24 (start_to_today, active) |
+| performance_score / used_count | 1 „Testing“ / **2** (enriched: 1) |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | https://pleene.com/products/easyrest (page_type product_page) |
+| Link-Beschreibung | „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ |
+| Länge / Format | 29,35 s · 720×1280 · 30 fps · AAC 44,1 kHz Stereo |
+| Schnitte | 0,3 und 0,15 identisch: 22,07 / 24,07 s. **2 Schnitte = 0,7 pro 10 s** (0–10: 0 · 10–20: 0 · 20–29,35: 2). Zusätzlich gibt es rund 10 Kartenwechsel innerhalb derselben Einstellung (grafische Wechsel, keine Schnitte) im Abstand von ca. 2–2,5 s. |
+
+**Primärtext (wörtlich):** „This week only: 2 free Pleene™ Pillow Cases with every duvet. And if you want the bedroom ready for the colder nights, Hearth Red is the one everyone picks, and it's almost gone. The EasyRest™ is duvet and cover in one: wash it whole, dry in 2 hours.“
+
+**Transkript:** GetHooked meldet „Thanks for watching!“ (0,00–29,20 s), einen **Platzhalter**. Audio-Check:
+- Silero-VAD: **0,00 s Sprache** bei Schwelle 0,5 und 0,35.
+- volumedetect: mean −16,5 dB, max −4,7 dB. Keine Pausen.
+- Whisper small.en halluziniert ebenfalls „Thanks for watching!“ (no_speech_prob 0,23, avg_logprob −0,95).
+- Das Spektrogramm zeigt durchgehend tonale Bänder ohne Formantstruktur.
+- **Ergebnis: nur Musik, kein Sprecher.**
+
+**Hook (0–3 s)**
+- Gesprochen: keine Sprache.
+- Headline der Anzeige: „Be honest. When did you last wash it?“
+- Im Bild: Ab ca. 0,5 s halten zwei Hände (POV) einen Kartenstapel über eine schwarze, gesteppte Decke. Erste Karte, handschriftlich: „Covers washed this year: 52“ (die „52“ rot unterstrichen).
+- Hook-Typ: Konfrontations-Frage plus Zahlen-Kontrast (Cue-Card-Format im „Love Actually“-Stil).
+
+**Szenenliste (vollständig, Karten im 0,5-s-Raster gelesen)**
+| Zeit (s) | Bild | Karte / Einblendung (wörtlich) |
+|---|---|---|
+| 0,00–0,5 | Schwarze Decke, Schlafzimmer (Holzkopfteil, Pflanze, Fenster) | – |
+| 0,5–ca. 4,0 | POV-Hände mit Kartenstapel | „Covers washed this year: 52“ |
+| ca. 4,0–6,0 | Kartenwechsel | „Duvet: 0“ (die „0“ rot doppelt unterstrichen) |
+| ca. 6,0–8,7 | Kartenwechsel | „Not the cover. The duvet itself“ (bei 6,5 s) bzw. „Not the cover, the duvet itself“ (ab 7,0 s). Der Text **verändert sich auf derselben Karte**. |
+| ca. 8,7–10,5 | Kartenwechsel | „Exactly, never“ |
+| ca. 10,5–12,8 | Kartenwechsel | „It never fits the machine.“ |
+| ca. 13,0–15,3 | Kartenwechsel | „This one does.“ |
+| ca. 15,5–17,8 | Kartenwechsel | „Duvet + cover in one“ |
+| ca. 18,0–20,3 | Kartenwechsel | „The cover is sewn in“ |
+| ca. 20,5–22,07 | Kartenwechsel | „The WHOLE thing. In your machine“ („WHOLE“ rot unterstrichen; das letzte Wort ist teils vom Daumen verdeckt) |
+| 22,07–24,07 | Schnitt: Person in weißem T-Shirt und beiger Hose (dunkle kurze Haare, Gesicht nicht sichtbar) kniet vor einer weißen Frontlader-Waschmaschine, stopft die schwarze Decke hinein und schließt die Tür | – |
+| 24,07–ca. 25,3 | Schnitt zurück: POV-Karten | „Dry in 2 hours“ |
+| ca. 25,5–27,0 | Kartenwechsel | „Wash day Done“ („Done“ rot unterstrichen) |
+| ca. 27,0–27,8 | Nur die Decke | – |
+| ca. 28,0–29,35 | Sticker-Einblendung auf der Decke | „2 FREE“ / „Pillow Cases“ / „worth £39.99“ (durchgestrichen) / „90-Night Trial“ |
+
+**Aufbau**
+- Hook: 0–4,0 (Headline-Frage + „Covers washed this year: 52“).
+- Problem: 4,0–10,5 „Duvet: 0“ / „Not the cover, the duvet itself“ / „Exactly, never“.
+- Verstärkung (Ursache): 10,5–12,8 „It never fits the machine.“
+- Lösung: 13,0–15,3 „This one does.“
+- Mechanismus: 15,5–20,3 „Duvet + cover in one“ / „The cover is sewn in“.
+- Beweis/Demo: 20,5–24,07 „The WHOLE thing. In your machine“ plus die (KI-)Waschmaschinen-Szene. Social Proof **fehlt** im Video.
+- Nutzen: 24,1–27,0 „Dry in 2 hours“ / „Wash day Done“.
+- Angebot: 28,0–29,35 Sticker.
+- CTA: im Video **fehlt** er (nur Button „Shop now“).
+
+**Personen / Sprecher**
+- Nur Hände in POV-Perspektive, Geschlecht unklar. Dazu eine Person an der Waschmaschine, deren Gesicht nicht zu sehen ist.
+- Typ: **wahrscheinlich KI-generiert**. Begründung:
+  - Der Kartentext ändert sich auf derselben Karte („Not the cover. The duvet itself“ → „Not the cover, the duvet itself“, 6,5 s gegenüber 7,5 s; Detail `wf/s2b6_sheets/cards177443532.jpg`).
+  - Das Bedienfeld der Waschmaschine zeigt unlesbare Pseudo-Beschriftung.
+  - Die Geometrie von Waschmaschinentür und Glas ist inkonsistent (23,5 s).
+  - Das Schlafzimmer ist im Stil einer weich ausgeleuchteten Render-Szene gehalten.
+  - Gesamturteil nicht verifiziert.
+- Ton: nur Musik.
+
+**Weitere Felder**
+- Setting: Schlafzimmer (POV über schwarze Decke) und Waschbereich.
+- Avatar: hygienebewusste UK-Haushalte, die Bezüge regelmäßig, die Decke selbst aber nie waschen.
+- Angle: **A Hygiene** (primär: Decke wird nie gewaschen, „The WHOLE thing. In your machine“) + **C** („The cover is sewn in“) + **F-Angebot**. Der Primärtext ergänzt **F-Knappheit/Farbe** („Hearth Red … almost gone“) und Frist („This week only“).
+- Haupt-Emotion: leichte Scham bzw. ertappt sein („Be honest“, „Duvet: 0“, „Exactly, never“), dann Erleichterung („Wash day Done“).
+- Schnitttempo: 0,7 echte Schnitte pro 10 s; visueller Wechsel durch Karten ca. alle 2–2,5 s. Untertitel: nein; der gesamte Text liegt als handschriftliche Karten im Bild plus Sticker. Ton: nur Musik.
+
+**Zahlen und Behauptungen (wörtlich)**
+- „Covers washed this year: 52“, „Duvet: 0“.
+- „It never fits the machine.“ / „This one does.“
+- „The cover is sewn in“, „The WHOLE thing. In your machine“, „Dry in 2 hours“.
+- „2 FREE Pillow Cases“, „worth £39.99“ (durchgestrichen), „90-Night Trial“.
+- Primärtext: „This week only“, „Hearth Red is the one everyone picks, and it's almost gone“, „wash it whole, dry in 2 hours“.
+
+**Angebot:** Sticker am Ende (28,0–29,35 s): 2 Gratis-Kissenbezüge, Wert £39.99 durchgestrichen, 90-Night Trial. Die Knappheit (Wochenfrist, Hearth Red fast ausverkauft) steht nur im Primärtext.
+
+**Copy-Bruch:** Der Primärtext stellt Hearth Red (rot) heraus, das Video zeigt nur Schwarz.
+
+**Varianten-Hinweis**
+- **Byte-identisch** mit **185228772** (Start 2026-09-27, Score 1, used_count 2). Belege: MD5 `1c04c37c2a1b2ca52fa3db515f37590f`, Ton-Peak 1,00.
+- Gleiche Headline, aber **anderes Video**: **185228767** (Batch 3: Tog-Hook, Coastal Blue; Ton-Peak 0,04).
+- Gleiche Headline, nicht geladen: 193234216 und 193234218 (Landingpage `/pages/tb-6`). Laut Batch 3 ist 193234218 ebenfalls 29 s lang und hat den Platzhalter „Thanks for watching!“; visuell nicht verifiziert. 193234216 habe ich nicht geprüft.
+- Bild-Ad 182988119 mit gleicher Headline.
+- Das Konzept „Covers washed vs. Duvet washed“ ähnelt 200037044 „When Did You Last Wash Your Duvet?“ (Batch 5); ein technischer Abgleich ist dort nicht erfolgt.
+
+---
+
+#### Video 182988111 – No More Fighting With Duvet Covers
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 182988111 / 488171053 |
+| Meta-ID | 1084737137379454 |
+| Ad Library | https://www.facebook.com/ads/library/?id=1084737137379454 |
+| share_url | https://app.gethookd.ai/share/ad/182988111?signature=3946cc0bedfae59cd046d6e8d5c8ada264c91345b8d4ccb1192ee02716cb1b00 |
+| Land / Sprache | GB / en |
+| Plattformen | facebook, instagram, audience_network, threads |
+| Start / Tage aktiv | 2026-09-21 / 18 (start_to_today, active) |
+| performance_score / used_count | 1 „Testing“ / 1 |
+| CTA | SEE_DETAILS – „See details“ |
+| Landingpage | https://pleene.com/products/easyrest (page_type product_page) |
+| Link-Beschreibung | „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ |
+| Länge / Format | 25,12 s · 720×1280 · 30 fps · AAC 44,1 kHz Stereo |
+| Schnitte | 0,3: 7 bei 3,53 / 9,20 / 11,93 / 14,67 / 17,40 / 20,10 / 22,23 s. Aus 0,15 per Framepaar bestätigt: 6,37 s (Beige → leeres Bett). **8 Schnitte = 3,2 pro 10 s** (0–10: 3 · 10–20: 3 · 20–25,12: 2) |
+
+**Primärtext (wörtlich):** „Duvet + Cover in One 🌙 / The Pleene EasyRest™ makes changing the bed finally simple. Wash it, dry it, and lay it back on — that's it. / ✓ No more wrestling with a separate duvet cover / ✓ Pleasantly cool in summer, cosily warm in winter / ✓ Hypoallergenic and kind to sensitive skin / Get 2 free Pleene™ Pillow Cases today (worth £39.99). / 90 nights to try it risk-free. / Enjoy a bed that always feels fresh.“
+
+**Transkript:** GetHooked `no_speech`, es gibt kein Transkript. Audio-Check:
+- Silero-VAD findet 1,15 s (Schwelle 0,5) bzw. 1,31 s (Schwelle 0,35), nur bei 0,69–2,00 s.
+- Das Spektrogramm zeigt dort **keine Formantstruktur**, nur stehende tonale Bänder und einen Transienten bei ca. 0,8 s (vermutlich Musik bzw. Wurf-Geräusch). Vergleich mit der Sprache in 200490655: `wf/s2b6_meta/spec_combo.png`.
+- Whisper small.en liefert 0 Segmente.
+- volumedetect: mean −16,4 dB, max −0,7 dB, keine Pausen.
+- **Ergebnis: nur Musik, kein Sprecher.** Der VAD-Treffer ist sehr wahrscheinlich ein Fehlalarm.
+
+**Hook (0–3 s)**
+- Gesprochen: keine Sprache.
+- Eingeblendet: „Your bed is boring.“ (weiße Schrift in dunkelgrauer Box, oben, 0–3,53). Ab ca. 1,3 s steht darunter „NEW: Mint Green“ (weiß, ohne Box).
+- Bild: Draufsicht auf ein leeres Holz-Plattformbett mit weißem Spannlaken. Ab ca. 1 s fliegt von links eine mintgrüne Decke herein und landet mitsamt zwei mintgrünen Kissen.
+- Hook-Typ: Provokation plus Satisfying Reveal plus Neuheit.
+
+**Szenenliste (vollständig)**
+| Zeit (s) | Bild | Einblendung (wörtlich) |
+|---|---|---|
+| 0,00–3,53 | Leeres Bett → mintgrüne Decke + Kissen landen | „Your bed is boring.“ · ab ca. 1,3 „NEW: Mint Green“ |
+| 3,53–6,37 | Leeres Bett → beige Decke + Kissen | ab ca. 4,5: „No cover. No bed linen.“ · „Cream Beige“ |
+| 6,37–9,20 | Leeres Bett → blaue Decke + Kissen | ab ca. 7,5: „Never change bed linen again.“ · „Coastal Blue“ |
+| 9,20–11,93 | Leeres Bett → rote Decke + Kissen | ab ca. 10,5: „Hearth Red“ |
+| 11,93–14,67 | Leeres Bett → orange Decke + Kissen | ab ca. 13,2: „Orange“ |
+| 14,67–17,40 | Leeres Bett → graue Decke + Kissen | ab ca. 15,9: „Moonstone Grey“ |
+| 17,40–20,10 | Leeres Bett → schwarze Decke + Kissen | ab ca. 18,5: „Duvet + cover in one, fully washable.“ · „Midnight Black“ |
+| 20,10–22,23 | Nahaufnahme: Hand streicht über die schwarze Decke | „Which colour is yours?“ |
+| 22,23–25,12 | Endkarte (grau-beiger Verlauf) | „Pleene“ / „7 colours“ / „2× Pleene™ Pillow Cases FREE“ / „Value £39.99“ / „90-Night Trial Sleep Guarantee“ |
+
+**Aufbau**
+- Hook: 0–3,53.
+- Problem: „Your bed is boring.“ (Langeweile bzw. Design); nur als Hook, nicht ausgeführt.
+- Mechanismus: 3,53–6,37 „No cover. No bed linen.“ und 17,4–20,1 „Duvet + cover in one, fully washable.“
+- Verstärkung/Nutzen: 6,37–9,20 „Never change bed linen again.“
+- Farbreigen (Auswahl): 9,20–17,40, nur Farbnamen.
+- Beweis: **fehlt** (keine Wasch-Demo, kein Social Proof im Video).
+- Frage-CTA: 20,10–22,23 „Which colour is yours?“
+- Angebot: 22,23–25,12 Endkarte.
+- CTA: „Which colour is yours?“ (implizit) plus Button „See details“.
+
+**Personen / Sprecher**
+- Nur Arme und Hände sowie nackte Füße am Bildrand; Gesicht nicht sichtbar, Geschlecht unklar.
+- Typ: **wahrscheinlich KI-generiert bzw. Render**. Begründung:
+  - Die Kissen erscheinen jeweils zusammen mit der geworfenen Decke, schon im passenden Bezug, obwohl das Bett vorher keine Kissen hat. Das ist physikalisch unplausibel.
+  - Licht, Schatten und Bett sind in allen 7 Segmenten identisch.
+  - Die Decken landen wie aus einem Guss.
+  - Gesamturteil nicht verifiziert.
+- Ton: nur Musik.
+
+**Weitere Felder**
+- Setting: Schlafzimmer in Draufsicht (Holz-Plattformbett, Teppich, Pflanze, Nachttischlampe, warmes Seitenlicht).
+- Avatar: farb- und designorientierte Käufer, die Bettwäsche-Wechsel loswerden wollen. „NEW: Mint Green“ spricht auch Bestandskunden bzw. Retargeting an (nicht verifiziert).
+- Angle: **C** („No cover. No bed linen.“, „Never change bed linen again.“) + **F-Farbe/Neuheit** („NEW: Mint Green“, „7 colours“, „Which colour is yours?“) + **A-Waschbarkeit** („fully washable“) + **F-Angebot**.
+- Haupt-Emotion: Neugier bzw. Lust auf Farbe (Satisfying Reveal). Die Provokation „boring“ zielt auf leichte Unzufriedenheit.
+- Schnitttempo: 3,2 pro 10 s, gleichmäßiger Takt von ca. 2,7 s. Untertitel: nein; die Text-Overlays sind im Untertitel-Look gesetzt (weiße Schrift in dunkelgrauer Box, oben), die Farbnamen ohne Box. Ton: nur Musik.
+
+**Zahlen und Behauptungen (wörtlich)**
+- „No cover. No bed linen.“, „Never change bed linen again.“, „Duvet + cover in one, fully washable.“
+- „7 colours“, „2× Pleene™ Pillow Cases FREE“, „Value £39.99“, „90-Night Trial Sleep Guarantee“.
+- Farbnamen: „Mint Green“, „Cream Beige“, „Coastal Blue“, „Hearth Red“, „Orange“, „Moonstone Grey“, „Midnight Black“.
+- Primärtext: „Wash it, dry it, and lay it back on — that's it.“, „Pleasantly cool in summer, cosily warm in winter“, „Hypoallergenic and kind to sensitive skin“, „Get 2 free Pleene™ Pillow Cases today (worth £39.99).“, „90 nights to try it risk-free.“
+
+**Angebot:** Endkarte (22,23–25,12 s): 2 Gratis-Kissenbezüge, „Value £39.99“, „90-Night Trial Sleep Guarantee“. Keine Frist; Knappheit nur indirekt über „NEW“.
+
+**Varianten-Hinweis (technisch belegt)**
+- Hook-Variante von **182988108** und **182988073** (Batch 3).
+- Gegen 182988108: Ton identisch (Peak 1,0000, Lag 0); Bilddifferenz im Textbereich nur 0–3,5 s erhöht (2,3–2,8), danach auf Rauschniveau (≤ 0,6); im übrigen Bild ≤ 1,3.
+- Gegen 182988073: Ton identisch (Peak 1,0000, Lag 0); Bilddifferenz im Mittel 0,83, maximal 1,7, nur in den ersten 4 s erhöht.
+- Die drei Hooks:
+  - „Your bed is boring.“ (182988111, Score 1)
+  - „7 colours. Your choice.“ (182988108, Score 1)
+  - „Best thing I got for years.“ (182988073, Score 61 „Growing“ laut Batch 3, enriched: 72)
+- Gleicher Primärtext wie die gesamte Copy-Familie „No More Fighting With Duvet Covers“ (u. a. 133366534, 151025063, 193234279, 200490716).
+
+---
+
+#### Video 182988108 – No More Fighting With Duvet Covers
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 182988108 / 488171056 |
+| Meta-ID | 1224279553236944 |
+| Ad Library | https://www.facebook.com/ads/library/?id=1224279553236944 |
+| share_url | https://app.gethookd.ai/share/ad/182988108?signature=c18f0e428c7a9f0555d06c32f36d4378439a94eaa30173163756f73045560493 |
+| Land / Sprache | GB / en |
+| Plattformen | facebook, instagram, audience_network, threads |
+| Start / Tage aktiv | 2026-09-21 / 18 (start_to_today, active) |
+| performance_score / used_count | 1 „Testing“ / 1 |
+| CTA | SEE_DETAILS – „See details“ |
+| Landingpage | https://pleene.com/products/easyrest (page_type product_page) |
+| Link-Beschreibung | „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ |
+| Länge / Format | 25,12 s · 720×1280 · 30 fps · AAC 44,1 kHz Stereo |
+| Schnitte | identisch mit 182988111: 3,53 / 6,37 / 9,20 / 11,93 / 14,67 / 17,40 / 20,10 / 22,23 s. **8 Schnitte = 3,2 pro 10 s** |
+
+**Primärtext (wörtlich):** identisch mit 182988111, also „Duvet + Cover in One 🌙 / The Pleene EasyRest™ makes changing the bed finally simple. Wash it, dry it, and lay it back on — that's it. / ✓ No more wrestling with a separate duvet cover / ✓ Pleasantly cool in summer, cosily warm in winter / ✓ Hypoallergenic and kind to sensitive skin / Get 2 free Pleene™ Pillow Cases today (worth £39.99). / 90 nights to try it risk-free. / Enjoy a bed that always feels fresh.“
+
+**Transkript:** GetHooked `no_speech`, es gibt kein Transkript. Audio-Check:
+- Die Tonspur ist identisch mit 182988111 (Kreuzkorrelation Peak 1,0000, Lag 0).
+- Silero-VAD: 1,15 s bei 0,69–1,84 s, dieselbe Stelle wie bei 182988111 (Fehlalarm, siehe dort).
+- Whisper small.en: 0 Segmente. mean −16,4 dB, max −0,7 dB, keine Pausen.
+- **Ergebnis: nur Musik.**
+
+**Hook (0–3 s)**
+- Gesprochen: keine Sprache.
+- Eingeblendet: „7 colours. Your choice.“ (weiße Schrift in dunkelgrauer Box, oben, 0–3,53). Ab ca. 1,3 s steht darunter „NEW: Mint Green“.
+- Bild: wie 182988111 (leeres Bett, mintgrüne Decke + Kissen landen).
+- Hook-Typ: Auswahl bzw. Selbstbestimmung plus Satisfying Reveal plus Neuheit.
+
+**Szenenliste:** identisch mit 182988111. Der einzige Unterschied ist der Hook-Text in 0–3,53 s („7 colours. Your choice.“ statt „Your bed is boring.“). Belegt per Sichtprüfung (`wf/s2b6_sheets/c182988108_00.jpg`, alle Segment-Frames) und Pixeldifferenz (nach 3,5 s im Textbereich ≤ 0,9, gesamt ≤ 1,1; Endkarte ab 22 s ≤ 0,3).
+| Zeit (s) | Einblendung (wörtlich) |
+|---|---|
+| 0,00–3,53 | „7 colours. Your choice.“ · „NEW: Mint Green“ |
+| 3,53–6,37 | „No cover. No bed linen.“ · „Cream Beige“ |
+| 6,37–9,20 | „Never change bed linen again.“ · „Coastal Blue“ |
+| 9,20–11,93 | „Hearth Red“ |
+| 11,93–14,67 | „Orange“ |
+| 14,67–17,40 | „Moonstone Grey“ |
+| 17,40–20,10 | „Duvet + cover in one, fully washable.“ · „Midnight Black“ |
+| 20,10–22,23 | „Which colour is yours?“ |
+| 22,23–25,12 | „Pleene“ / „7 colours“ / „2× Pleene™ Pillow Cases FREE“ / „Value £39.99“ / „90-Night Trial Sleep Guarantee“ |
+
+**Aufbau**
+- Hook: 0–3,53 („7 colours. Your choice.“).
+- Problem: **fehlt**. Anders als bei 182988111 gibt es nicht einmal die Provokation „boring“.
+- Mechanismus: 3,53–6,37 und 17,4–20,1.
+- Verstärkung/Nutzen: 6,37–9,20.
+- Farbreigen: 9,20–17,40.
+- Beweis: **fehlt**.
+- Frage-CTA: 20,10–22,23.
+- Angebot: 22,23–25,12.
+- CTA: implizit „Which colour is yours?“ plus Button „See details“.
+
+**Personen / Sprecher:** wie 182988111. Nur Hände, Arme und Füße; **wahrscheinlich KI-generiert bzw. Render** (Kissen landen mit der Decke, identisches Licht); kein Sprecher.
+
+**Weitere Felder**
+- Setting: Draufsicht Schlafzimmer, wie 182988111.
+- Avatar: farb- und designorientierte Käufer.
+- Angle: **F-Farbe/Auswahl** (Hook) + **C** + **A-Waschbarkeit** („fully washable“) + **F-Angebot**.
+- Haupt-Emotion: Neugier und Auswahl-Lust (Satisfying Reveal).
+- Schnitttempo: 3,2 pro 10 s. Untertitel: nein; Overlays im Untertitel-Look. Ton: nur Musik.
+
+**Zahlen und Behauptungen (wörtlich):** wie 182988111. Zusätzlich steht die „7 colours“ schon im Hook.
+
+**Angebot:** wie 182988111 (Endkarte 22,23–25,12 s).
+
+**Varianten-Hinweis:** Hook-Variante von 182988111 und 182988073, gleiche Belege wie dort. Ton gegen 182988111 und gegen 182988073: Peak 1,00, Lag 0.
+
+---
+
+##### Hygiene-Zitate Batch 6
+
+Gesammelt habe ich alle Stellen mit Milben, Bakterien, Schweiß, Waschen, Trocknen oder Temperatur bzw. Wärme, aus Transkript (T) und Einblendung (E), wörtlich, mit Ad-ID und Sekunde. Stellen aus Primärtext bzw. Headline (P) sind zur Vollständigkeit getrennt markiert.
+
+**Milben, Bakterien, Schweiß:** In **keiner** der 7 Ads erwähnt, weder in Transkript, Einblendung noch Primärtext.
+
+| Ad-ID | Sekunde | Quelle | Thema | Zitat (wörtlich) |
 |---|---|---|---|---|
-| Weich / Haptik / Stoff (F) | 46 (16 %) | 1 | 1 | große Lücke: nur „fluffy … feels amazing“ in 1 Ad |
-| Qualität / Verarbeitung (F) | 55 (19 %) | 4 | 2 | große Lücke: Ads sagen nur „Quilted in place, no cold spots“ |
-| Besserer Schlaf (explizit) (F) | 28 (10 %) | 0 | 0 | Lücke: keine Ad verspricht besseren Schlaf |
-| Bleibt auf dem Bett / großzügige Größe / Füße bedeckt (F) | 24 (8 %) | 0 | 0 | Lücke: Größe nur als Größen-Erklärung („What bed have you got?“) |
-| Service / Kommunikation / Tracking (F) | 28 (10 %) | 0 | 0 | Lücke (und Gegengewicht zum Lieferzeit-Einwand) |
-| Preis-Leistung (F) | 21 (7 %) | 0 | 0 | Lücke: Ads nutzen nur Rabatt („30% off + 2 FREE“), kein „worth it“ |
-| Optik / Farbe / Schlafzimmer aufgewertet (F) | 52 (18 %) | 13 | 4 | teilweise: Farbe nur als Knappheit/Neuheit, nie „sieht toll aus/Zimmer aufgewertet“ |
-| Wiederkauf / weitere Betten / Gäste (F) | 50 (18 %) | 8 | 3 | teilweise: nur „Spare Bed“-Story |
-| Körperliche Erleichterung / Alter / Gesundheit / allein (E) | 42 (15 %) | 13 | 9 | teilweise: Ads abstrakt („Independence“, „by yourself“), keine konkreten Beschwerden |
-| Empfehlung / Familie und Freunde (F) | 39 (14 %) | 14 | 4 | teilweise: „Everyone said it“, „loved by hundreds“ |
-| Leicht / nicht schwer (B) | 72 (25 %) | 25 | 14 | genutzt („without the weight“), aber unterrepräsentiert |
-| Temperatur (warm/kühl/regulierend) (B) | 105 (37 %) | 46 | 11 | genutzt (Winter-Wärme), Sommer-Kühle kaum |
-| Bequem / komfortabel (F) | 72 (25 %) | 24 | 19 | genutzt |
-| Skepsis überwunden (F) | 34 (12 %) | 26 | 7 | genutzt (Einwandbehandlung „Too Thin For Winter?“, „Check This Before You Buy“) |
-| Kein Bezug mehr / Kampf mit dem Bezug (C) | 83 (29 %) | 108 | 46 | Kernbotschaft, deckungsgleich |
-| Ganze Decke in der Waschmaschine (A/C) | 111 (39 %) | 114 | 48 | Kernbotschaft, deckungsgleich |
-| Schnell trocken (C) | 50 (18 %) | 79 | 25 | in Ads stärker als in Bewertungen |
-| Bett schnell gemacht / Bettwechsel leicht (C) | 30 (11 %) | 41 | 11 | in Ads stärker als in Bewertungen |
-| Kissenbezüge (F-Angebot) | 16 (6 %) | 51 | 11 | Ads stark (Gratis-Kissen), Käufer erwähnen sie als „bonus“ |
-| Hygiene / Allergie / Frische / Geruch (A) | 8 (3 %) | 59 | 22 | **umgekehrte Lücke:** Ads stark, Käufer kaum |
-| Nachtschweiß / Schwitzen (B) | 3 (1 %) | 0 | 0 | beide schwach; Wechseljahre nie erwähnt |
-| Paar mit unterschiedlichem Wärmeempfinden (B) | 2 (1 %) | 0 | 0 | Lücke (klein): Paare mit unterschiedlichem Wärmeempfinden |
-| Haustiere (F) | 2 (1 %) | 3 | 1 | beide schwach |
-| Kein Bügeln (F) | 2 (1 %) | 1 | 1 | beide schwach |
+| 200490656 | 3,68–8,40 | T | Wärme | „It is so soft, cozy, and fluffy.“ |
+| 200490656 | – | P | Waschen | „easily washable“ |
+| 200490655 | 14,72–20,34 | T | Waschen | „Now I know exactly what you're thinking, that thing is never going to fit in a normal washing machine.“ |
+| 200490655 | ca. 16,5–20,3 | E | Waschen | „That thing is never“ / „going to fit into a normal washing machine.“ |
+| 200490655 | 20,74–22,74 | T + E | Waschen (Demo-Ansage) | „But watch this.“ (danach 22,7–29,7 Bild: ganze Decke in Samsung-Frontlader) |
+| 200490655 | 30,74–37,14 | T | Trocknen | „And no, it doesn't take ages to dry, just two hours and then you can put it back onto your bed.“ |
+| 200490655 | ca. 30,5–33,2 | E | Trocknen | „And no, it doesn't take ages to dry.“ |
+| 200490655 | ca. 33,5–38,8 | E | Trocknen | „Just two hours, and then it gets back onto your bed.“ |
+| 200490655 | 39,14–44,38 | T | Temperatur | „So warm and cosy in winter and cool and comfortable in summer.“ |
+| 200490655 | ca. 38,8–41,7 | E | Temperatur | „So warm and cozy in winter,“ |
+| 200490655 | ca. 42,0–43,9 | E | Temperatur | „cool and comfortable in summer.“ |
+| 200490655 | – | P | Temperatur | „made for year-round comfort“ |
+| 200490654 | 0,00–12,40 | T | Waschen | „Making the bed just got a whole lot easier with Clean, a machine washable comforter that doesn't need to be stuffed into a duvet.“ |
+| 200490654 | 6,00–12,40 | T | Waschen | „Just toss it in the wash and toss it on your bed.“ (Bild 4,77–7,10: Waschmaschine „SAMSUNG“ und vermutlich Trockner) |
+| 200490654 | 12,40–20,24 | T | Wärme | „It is so soft and lightweight but still so cozy.“ |
+| 177443533 | 4,97–7,63 | E | Waschen | „Fits in any washing machine.“ |
+| 177443533 | 7,63–ca. 11,9 | E | Trocknen | „Dries in 2 hours.“ |
+| 177443532 | 0 | P (Headline) | Waschen | „Be honest. When did you last wash it?“ |
+| 177443532 | ca. 0,5–4,0 | E | Waschen | „Covers washed this year: 52“ |
+| 177443532 | ca. 4,0–6,0 | E | Waschen | „Duvet: 0“ |
+| 177443532 | ca. 6,0–8,7 | E | Waschen | „Not the cover, the duvet itself“ |
+| 177443532 | ca. 8,7–10,5 | E | Waschen | „Exactly, never“ |
+| 177443532 | ca. 10,5–12,8 | E | Waschen | „It never fits the machine.“ |
+| 177443532 | ca. 13,0–15,3 | E | Waschen | „This one does.“ |
+| 177443532 | ca. 20,5–22,07 | E | Waschen | „The WHOLE thing. In your machine“ (danach 22,07–24,07 Bild: schwarze Decke in Waschmaschine) |
+| 177443532 | 24,07–ca. 25,3 | E | Trocknen | „Dry in 2 hours“ |
+| 177443532 | ca. 25,5–27,0 | E | Waschen | „Wash day Done“ |
+| 177443532 | – | P | Waschen/Trocknen/Temperatur | „wash it whole, dry in 2 hours.“ · „ready for the colder nights“ |
+| 182988111 | ca. 18,5–20,10 | E | Waschen | „Duvet + cover in one, fully washable.“ |
+| 182988111 | – | P | Waschen/Trocknen/Temperatur | „Wash it, dry it, and lay it back on — that's it.“ · „Pleasantly cool in summer, cosily warm in winter“ · „Hypoallergenic and kind to sensitive skin“ |
+| 182988108 | ca. 18,5–20,10 | E | Waschen | „Duvet + cover in one, fully washable.“ |
+| 182988108 | – | P | Waschen/Trocknen/Temperatur | wie 182988111 |
 
-Geschenk (Angle D): Kauf für andere oder als Geschenk in 7 Bewertungen (T133 an sich selbst zum 84. Geburtstag, T171 Mutter, T196 Sohn zu Weihnachten, T200 Sohn, T252 Freund, T289 Sohn, T283 ZipSheet für die Mutter); in den Ads 0 Geschenk-Erwähnungen.
+Muster im Batch:
+- Hygiene wird hier als **Waschbarkeit** erzählt: „passt in die Maschine“ und „2 Stunden trocken“. Ekel-Trigger (Milben, Schweiß, Bakterien) kommen nicht vor.
+- Die einzige Ad mit Hygiene als Haupt-Angle ist 177443532 (Score 1). Sie arbeitet mit Scham bzw. Ertappt-Sein („Be honest“, „Duvet: 0“).
+- Tog-Angaben gibt es in keiner Ad dieses Batches.
 
-**Belegzitate zu den wichtigsten Lücken**
+---
 
-- Weichheit/Haptik: "Soft as a baby’s tush" (T217, 4★); "It is like lying asleep in a floating  cloud." (T133, 5★); "This Pleene duvet is light, sumptuously soft and easier to live with." (T117, 5★); "It seems to hug every part of your body" (T113, 5★); "Crisp yet soft." (T273, 5★)
-- Qualität/Verarbeitung: "Good quality materials and well sewn." (T077, 5★); "So quality first rate and item well worth the money." (T040, 5★); "Excellent quality - better than expected." (T164, 5★); "I'm very happy with the colour, quality, stitch and warmth." (T248, 5★)
-- Besserer Schlaf: "First night on I had a comfortable complete nights sleep.  I was suffering from broken nights previously." (T192, 5★); "I generally don’t sleep more than 4/5 hours at a time but with my pleene I’m getting up to 7 hours" (T212, 5★); "I have never had so many nights of uninterrupted sleep" (T133, 5★); "So far after a week we have all been sleeping better due to feeling a more comfortable temperature in bed." (T123, 5★)
-- Größe/bleibt liegen/Füße: "I liked the idea that I could get a long cover that would cover my feet perfectly." (T066, 5★); "The sizing is also very generous and there is plenty of overhang which I like." (T203, 5★); "doesn't slip off the bed during the night" (T103, 5★); "With a duvet and cover I always ended up with too much duvet at the feet end and not enough at the head end!!" (T120, 5★); "I got a super king for a king size bed as both of us are quilt hoggers" (T202, 5★)
-- Service/Kommunikation: "Even though the order took a little longer to reach me than expected, the communication was excellent throughout." (T164, 5★); "Although delivery took a little while  I was kept up to date throughout" (T174, 5★)
-- Preis-Leistung: "real value for money in todays climate" (T037, 5★); "Definitely value for money." (T091, 5★)
-- Optik/Schlafzimmer: "my bedroom has been transformed into an amazing  bedroom" (T009, 5★); "It looks great on the bed it really smarten the bed up" (T096, 5★); "The spring green is a lovely restful colour that provides a calm atmosphere for my bedroom." (T181, 5★); "as the bedroom now looks like a bedroom" (T251, 5★)
-- Wiederkauf/weitere Betten: "In fact we have just ordered our 3rd set" (T140, 5★); "have ordered another 2 for  my son and will be replacing all the bedding in the house." (T289, 5★); "Having friends to stay the night will now be quick and easy to prepare and quick and easy to wash afterwards." (T175, 5★)
-- Paare: "I like to be warm and cosy whereas my husband wants to be cool and unrestricted by quilts and additional quilt covers. The Pleene coverless duvet delivers for both of us!" (T054, 5★)
-- Nachtschweiß: "Overall it did stop my night sweats and waking up to wet sheets so they did work." (T170, 4★); "it has been very hot at night but have not  had any perspirationover the night time" (T057, 5★); "no sweating overheating under it" (T105, 5★)
-- Zum Vergleich Hygiene (umgekehrte Lücke), die einzigen konkreten Käufer-Belege: "having a quilt I can wash I no longer wake up with a bunged up nose" (T202, 5★); "so no guilt for us or short stay visitors!! ( don’t tell’em!)" (T027, 5★)
+##### Kurz-Tabelle Batch 6
 
-**Ad-Versprechen, die Bewertungen relativieren:** „90 nights to try it risk-free“ vs. T055/T119 (Rücksendung nach China zu teuer); „dry in 2 hours“ bestätigt von T140 ("in 2hrs"), J011 ("dry in about 2 hours"), aber T019 ("about 4hours") und T262 ("within 1 day"); „10.5 tog, every bit as warm as a winter duvet“ wird im Oktober von 14 Käufern noch als ungetestet markiert; „Hypoallergenic and kind to sensitive skin“ ohne Käuferbeleg; Lieferzeit: T094 nennt "6 day advertised".
+| ID | Länge | Hook (wörtlich, 0–3 s) | Angle | Avatar | Sprecher-Typ | Schnitte/10 s | Emotion |
+|---|---|---|---|---|---|---|---|
+| 200490656 (US) | 13,0 s | VO „Out with the old, in with the new. I swear upgrading a comforter …“ + E „The easiest way to make your bed feel luxurious“ | F-Upgrade/Luxus (C nur im Primärtext) | US-Frau 30–50, Interesse an Wohnen und Deko | echte Frau ca. 35–45, Voiceover | 8,5 (inkl. Jump-Cuts; hart 2,3) | Freude/Aspiration |
+| 200490655 (US) | 50,9 s | O-Ton + UT „I don't have a duvet cover anymore,“ | C + A-Waschbarkeit + B | Frau 45–65, genervt vom Beziehen, skeptisch wegen Waschmaschine | echte Frau ca. 50–60, O-Ton in die Kamera | 1,2 | Neugier → Erleichterung |
+| 200490654 (US) | 25,4 s | VO „Making the bed just got a whole lot easier with Clean [vermutl. Pleene] …“; keine Einblendung | C + A-Waschbarkeit + F-Gästezimmer + F-Kissenbezug | US-Frau 30–50 mit Gästezimmer | echte Frau ca. 30–45, Voiceover | 5,1 | Erleichterung/Zufriedenheit |
+| 177443533 (GB) | 14,7 s | E „Don't scroll. Pick your colour first.“; nur Musik | C + F-Farbe + A-Waschbarkeit + F-Angebot | farborientierte Käufer (älterer Protagonist) | Mann ca. 55–65, wahrscheinlich KI-generiert, stumm | 3,4 | Neugier/Befriedigung |
+| 177443532 (GB) | 29,3 s | Headline „Be honest. When did you last wash it?“ + Karte „Covers washed this year: 52“; nur Musik | A Hygiene + C + F-Angebot (Primärtext: F-Knappheit/Farbe) | UK-Haushalte, die die Decke nie waschen | nur Hände (POV), wahrscheinlich KI-generiert | 0,7 (Kartenwechsel ca. alle 2–2,5 s) | Scham → Erleichterung |
+| 182988111 (GB) | 25,1 s | E „Your bed is boring.“ + „NEW: Mint Green“; nur Musik | C + F-Farbe/Neuheit + A-Waschbarkeit + F-Angebot | designorientierte Käufer, ggf. Bestandskunden | nur Hände/Füße, wahrscheinlich KI-Render | 3,2 | Neugier (Provokation) |
+| 182988108 (GB) | 25,1 s | E „7 colours. Your choice.“ + „NEW: Mint Green“; nur Musik | F-Farbe/Auswahl + C + A-Waschbarkeit + F-Angebot | designorientierte Käufer | nur Hände/Füße, wahrscheinlich KI-Render | 3,2 | Neugier/Auswahl |
 
-### 4.5 Voice of Customer: das alte Problem in Käuferworten
+---
 
-**Bettbezug: Kampf, Wrestling, Erschöpfung** (18 Belege)
+##### Vollständigkeitsprüfung (Pflichtliste pro Ad)
 
-- "Absolute magic just helped an old man to enjoy his duvet without the continuous fight." (T001, 5★)
-- "My wife always looked forward to changing our duvet cover (not really!) . . . bought these. . . now i dont hear any more cursing and frustration venting!" (T140, 5★)
-- "I no longer end up inside the duvet covet when I'm changing it, because there isn't a cover!" (T276, 5★)
-- "No more wrestling and disappearing in duvet cover" (T265, 5★)
-- "I no longer get twisted up in duvet covers" (T126, 5★)
-- "the thought of arguing with a duvet has lost its attraction" (T175, 5★)
-- "if you have ever struggled to get your quilt into the cover then you'll what a nightmare it can be" (T163, 4★)
-- "the duvet cover nightmare is a thing of the past!" (T203, 5★)
-- "Life's too short to fight with duvet covers!" (T260, 5★)
-- "the putting of a quilt into a cover could be exhausting!" (T257, 5★)
-- "I got so exhausted changing the bed, with the duvet" (T095, 5★)
-- "changing the bed is no longer the horrendous chore it used to be" (T108, 5★)
-- "Changing the bedding, especially on your own with a traditional king size duvet, is a painful chore." (T268, 5★)
-- "where i used to struggle to shake out a king size quilt with cover" (T289, 5★)
-- "I have battled with a duvet and separate cover for years" (T168, 5★)
-- "I had trouble fitting the old style quilts and separate covers" (T030, 5★)
-- "without the usual duvet faff" (T038, 5★)
-- "trying to change the duvet cover is a job that was almost impossible without doing myself serious injury" (T072, 5★)
+| Pflichtfeld | 200490656 | 200490655 | 200490654 | 177443533 | 177443532 | 182988111 | 182988108 |
+|---|---|---|---|---|---|---|---|
+| get_ad + transcription_status | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Transkript bzw. begründeter Vermerk | ✓ Transkript | ✓ Transkript + Untertitel | ✓ Transkript | ✓ Platzhalter → Audio-Check: nur Musik | ✓ Platzhalter → Audio-Check: nur Musik | ✓ no_speech → Audio-Check: nur Musik | ✓ no_speech → Audio-Check: nur Musik |
+| Video geladen + ffprobe | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Schnitte gesamt / pro 10 s | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Frames 0/1/2/3 s + ca. 5-s-Raster angesehen | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Hook gesprochen + eingeblendet | ✓ | ✓ | ✓ (keine Einblendung) | ✓ (keine Sprache) | ✓ (keine Sprache) | ✓ (keine Sprache) | ✓ (keine Sprache) |
+| Aufbau mit Sekunden (fehlende Teile markiert) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Personen/Sprecher, Typ mit Begründung | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Setting, Avatar, Angle, Emotion | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Tempo, Untertitel, Ton | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Zahlen und Behauptungen wörtlich | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Angebot | ✓ (keins) | ✓ (keins) | ✓ (keins) | ✓ | ✓ | ✓ | ✓ |
+| Varianten-Hinweis | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Metadaten inkl. share_url + Ad Library | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 
-**Bezug verrutscht, Füße, Druckknöpfe** (4 Belege)
+**Offen bzw. nicht verifiziert**
+- Markenname in den Transkripten von 200490654 und 200490656 („Clean“ bzw. „Plein“). Er ist vermutlich „Pleene“. ElevenLabs habe ich bewusst nicht eingesetzt, weil die Transkripte nicht eindeutig fehlerhaft sind.
+- Ob die Decken in den US-UGC-Videos 200490654 und 200490656 tatsächlich Pleene-Produkte sind.
+- Der Akzent der Sprecherinnen.
+- Ob es unter den Sprach-Ads ein Musikbett gibt (nur aus dem Spektrogramm vermutet).
+- KI-Einstufung von 177443533, 177443532 und 182988111/108. Sie stützt sich auf Bildindizien; ein `ai_badge` gibt es nicht.
+- Für 200490721 habe ich nur das Transkript abgeglichen. Video und Land sind nicht verifiziert.
+- Ob „7 colours“ oder „8 duvets“ stimmt, habe ich nicht gegen den Shop geprüft.
+- Reichweite und Spend: n/a.
 
-- "With a duvet and cover I always ended up with too much duvet at the feet end and not enough at the head end!!" (T120, 5★)
-- "At last my feet are comfortable and no longer get caught up in a quilt cover's poppers." (T194, 4★)
-- "i got feed up that my doona would always slip down to the feet area" (T254, 5★)
-- "at no time have I had to flip it to one side and sleep with no cover" (T040, 5★)
 
-**Waschen: die Decke selbst wurde nie oder umständlich gewaschen** (6 Belege)
+### S2 – Creative-Tiefenanalyse, Video-Batch 7 (Agent 2)
 
-- "no stripping it down for the washer just shove it all in the washer and it comes out perfect." (T006, 5★)
-- "Oh….. and my actual duvet gets washed regularly too!" (T268, 5★)
-- "have used a sleeping bag more than once on a clean fitted sheet, whilst waiting for a duvet cover to dry and the duvet itself being returned from the cleaners." (T175, 5★)
-- "being able to put them in the washing machine in one piece without having to take covers off and put them back on is a life saver." (T003, 5★)
-- "I did not believe the duvet would fit into the washing machine" (T146, 5★)
-- "especially if you’ve got a lot of people coming and going as washing is so easy" (T058, 5★)
+Stand: 2026-10-08 (Abruf ca. 17:00–17:25 UTC) · Marke Pleene · Produkt EasyRest · 7 Video-Ads: 184134616, 184134607, 185228773, 185228772, 185228764, 185395501, 193234224.
 
-**Allergie, Frische, Geruch (selten)** (3 Belege)
+Keine dieser IDs steht auf der Top-20-Liste. **185228764 ist aber byte-identisch mit dem Top-20-Video 168246678** (Score 100). Für diese Ad habe ich deshalb wie bei 3b an jedem erkannten Schnitt einen Frame angesehen und eine vollständige Szenenliste erstellt. Bei den anderen sechs Videos habe ich ebenfalls jeden Schnitt angesehen, weil die Schnittzahl klein genug war (max. 15).
 
-- "having a quilt I can wash I no longer wake up with a bunged up nose." (T202, 5★)
-- "no unpleasant odour as with some ordinary duvets" (T067, 5★)
-- "And it fits in the washing machine so no guilt for us or short stay visitors!!" (T027, 5★)
+**Methodik und Quellen**
+- **Metadaten:** GetHooked `get_ad` für alle 7 IDs (2026-10-08 ca. 17:00 UTC). Wo die Live-Werte von `agent1_enriched.json` abweichen, steht das unten. Kurzfassung in `wf/s2b7_api/meta.json`.
+- **Transkripte:** `get_transcription_status` für alle 7 IDs:
+  - 184134616 und 184134607: echte, vollständige Transkripte.
+  - 185228773 („🎵Outro Music🎵“) und 185228772 („Thanks for watching!“): Platzhalter.
+  - 185228764: `no_speech`.
+  - 193234224: Transkript in **Kannada-Schrift** (sinnlose Zeichenfolge, 0–48,55 s). Das ist eindeutig fehlerhaft.
+  - 185395501: Status `failed`. Ich habe `transcribe_ads` angestoßen (queued). Beim zweiten Abruf stand der Status wieder auf `failed`. **Grund laut ffprobe: Die MP4 hat gar keine Tonspur** (nur ein Videostream).
+- **Audio-Checks** (Rohdaten in `wf/s2b7_meta/`):
+  - `volumedetect` und `silencedetect` (−40 dB / 0,4 s, bei 193234224 zusätzlich −40 dB / 0,3 s, bei 184134616 −50 dB / 0,3 s).
+  - Spektrogramme `wf/s2b7_audio/*_spec*.png`.
+  - Lokale Whisper-Gegenprobe: faster-whisper 1.1.1, Modell `small.en`, offline (`wf/s2b7_meta/asr_small_en.txt`).
+  - Grundfrequenz-Schätzung (f0 per Autokorrelation, `wf/s2b7_scripts/pitch.py`). Das ist nur ein Indiz, **nicht verifiziert**.
+- **ElevenLabs:** **nicht eingesetzt**, obwohl das Transkript von 193234224 eindeutig fehlerhaft ist. Zwei Gründe:
+  1. Der Audio-Check zeigt eindeutig **nur Musik, keine Sprache**. Es gibt also nichts neu zu transkribieren. Belege: Spektrogramm mit flachen, tonhöhenstabilen Harmonischen und regelmäßigen Beat-Transienten, kein Formant- oder Gleitmuster wie in der Sprach-Referenz 184134616; lokales Whisper erkennt nur „🎵“ (0–29,32 s) und danach nichts mehr; keine Pause bis 47,2 s.
+  2. Technisch ging es auch nicht: Die Tools `creative_create_asset_upload` und `creative_finalize_asset_upload` liefert ToolSearch in dieser Session nicht. Laut Batch 2 lässt sich ein per URL angehängter Video-Knoten nicht an Speech-to-Text anschließen.
+  - Die Kannada-Ausgabe ist also eine Whisper-Halluzination über Musik, wie die bekannten Platzhalter.
+- **Videos:** `wf/vid/<id>.mp4`, alle 720×1280 (9:16), H.264. Bildrate 30 fps, nur 193234224 hat 25 fps. Ton AAC 44,1 kHz Stereo, **außer bei 185395501 (keine Tonspur)**. Probe-Rohdaten: `wf/s2b7_meta/<id>.probe.json`.
+- **MD5-Abgleich gegen alle 45 Dateien in `wf/vid/`** (`wf/s2b7_meta/md5_all.txt`):
+  - 185228773 = **177443533** (Batch 6) = **200490708** (Batch 5), md5 `0c5cc8effe0cf17075a9c03ca373839c`
+  - 185228772 = **177443532** (Batch 6), md5 `1c04c37c2a1b2ca52fa3db515f37590f`
+  - 185228764 = **168246678** (Batch 2, **Top-20**, Score 100) = **200490712** (Batch 5), md5 `723e0be36eeea3ea93d413a42e7d6e46`
+  - Eigenständig sind 184134616 (`2a98fb91…`), 184134607 (`da8af111…`), 185395501 (`e218742b…`) und 193234224 (`26673dfc…`).
+- **Ton-Kreuzkorrelation** (`wf/s2b7_scripts/xcorr_many.py`, 8 kHz mono) jeder Ad gegen alle Videos in `wf/vid/`; Treffer in `wf/s2b7_meta/xcorr_hits.txt`:
+  - 185228773 ↔ 200490708 / 177443533: 1,000 bei Lag 0.
+  - 185228772 ↔ 177443532: 1,000.
+  - 185228764 ↔ 168246678 / 168246686 / 200490712: 1,000.
+  - 184134616 ↔ 184134597: 0,884; 184134607 ↔ 184134597: 0,858; 184134616 ↔ 184134607: 0,862. Der Körper-VO ist also gleich, nur der Hook-Teil unterscheidet sich (siehe unten).
+  - 193234224: kein Treffer über 0,08. Die Musik kommt in keinem anderen geladenen Video vor.
+- **Bildvergleich** (`wf/s2b7_scripts/vdiff_off30.py`, Graustufen 90×160, mittlere absolute Differenz je Sekunde):
+  - 184134616 gegen 184134597 mit Versatz +26 Frames (0,87 s): ab Sekunde 6 (Zeitachse 597) Median 0,5–0,9, davor 60–72.
+  - 184134607 gegen 184134597 mit +10 Frames (0,33 s): ab Sekunde 6 Median 0,5–1,4, davor 50–78.
+  - **Ergebnis: Der Bildkörper der drei Hook-Varianten ist identisch, nur die ersten ca. 6–7 s unterscheiden sich.**
+- **Schnitte:** `select='gt(scene,0.3)',showinfo`, dazu Schwelle 0,15 und Szenen-Scores ab 0,08. Bei 184134616 und 184134607 zusätzlich `signalstats` (YAVG < 25) für Ein-Frame-Schwarzblitze. Rohdaten: `wf/s2b7_meta/<id>.scenes03.txt` / `.scenes015.txt`. Jeder Treffer der Schwelle 0,15 wurde per Frame geprüft. Gezählt habe ich **visuell bestätigte** Szenenwechsel, auch Überblendungen und Jump-Cuts. Nicht gezählt habe ich Text- und Kartenwechsel innerhalb derselben Einstellung.
+- **Frames:** `wf/frames/<id>/`.
+  - Raster: 0, 1, 2, 3 s, dann jede Sekunde (bei 184134616/607 bis 8 s, danach alle 2,5 s; bei 185395501 alle 0,5 s), dazu ein Frame je Schnitt (+0,2 s) und ein Schlussframe.
+  - Zusätzlich verdichtet:
+    - 184134616: Untertitelband alle 0,5 s (0–48 s), Lücken alle 0,25 s;
+    - 184134607: Untertitelband alle 0,33 s (0–9 s);
+    - 185228772: Kartenbereich alle 0,25 s (0–29,25 s);
+    - 193234224: Frames direkt nach jedem Schnitt plus Framepaare um die 0,15-Treffer;
+    - Abgleich-Sheet mit Frames aus 145443318, 178749251 und 200490655.
+  - Alle 47 Kontaktbögen in `wf/s2b7_sheets/` habe ich mit dem Read-Tool angesehen.
+- **Reichweite und Spend:** n/a für alle 7 Ads. GetHooked liefert für GB keine Werte, `eu_total_reach` und `ad_spend_range_score` sind überall null.
+- **Weitere Felder:** `ai_badge` ist bei allen 7 Ads null (kein Badge; das sagt nichts über „echt“). `script_anatomy` lautet bei sechs Ads `not_analysed`, bei 185395501 `no_script`. `creative_insights` ist nur bei 185395501 gefüllt (nur Text-Pass: Angle „Problem / solution“, Desire „Save time“, Awareness „Problem aware“, Offer „No offer in ad copy“).
+- **Schreibweise:** Whisper schreibt den Markennamen falsch („plean“, „Pleen“, „clean“). Laut Untertiteln heißt es „PLEENE“. Die Transkripte stehen trotzdem **wörtlich** unten.
 
-**Hitze, Kälte, Gewicht der alten Decke** (9 Belege)
+**Abweichungen zu `agent1_enriched.json` (Live-Wert aus `get_ad` vom 08.10. hat Vorrang)**
+| Ad | Feld | enriched | get_ad 08.10. |
+|---|---|---|---|
+| 193234224 | Status / Ende | aktiv | **inactive**, end_date 2026-10-07, active_in_library 0 |
+| 193234224 | days_active | 8 | **7** (start_to_end_date) |
+| 193234224 | performance_score | 1 | **null (n/a)** |
+| 185395501 | Länder | – | `countries: []` (n/a), Plattformen inkl. whatsapp |
+| übrige 6 Ads | – | – | Start, Tage, Score, used_count, Landingpage identisch |
 
-- "heavy duvets hampered my sleep as I turned over in bed" (T126, 5★)
-- "No heavy duvet putting pressure on your feet and being too hot or too cold." (T117, 5★)
-- "it's great not have to much weight pressing down on me" (T096, 5★)
-- "no longer feel restricted in bed" (T037, 5★)
-- "so much better than our bulky old ones" (T044, 4★)
-- "Cosy without restrictive weight." (T023, 5★)
-- "I am always cold and have the heaviest quilt i can find to keep me warm at night." (T289, 5★)
-- "Overall it did stop my night sweats and waking up to wet sheets" (T170, 4★)
-- "I like to be warm and cosy whereas my husband wants to be cool and unrestricted by quilts and additional quilt covers." (T054, 5★)
+**Wichtigste Querbefunde des Batches**
+1. **Nur 4 der 7 IDs sind neue Creatives.** 3 IDs sind byte-identische Neu-Uploads bereits analysierter Dateien. Dieselbe Datei läuft also unter mehreren Ad-IDs mit sehr unterschiedlichem Score:
+   - 185228764 ist das Top-20-Video 168246678 (Score 100, seit 2026-08-29). Als 185228764 (Start 2026-09-27) steht es nach 12 Tagen bei Score 1 „Testing“, als 200490712 (Batch 5) war es nach 2 Tagen inaktiv.
+   - 185228773 = 177443533 = 200490708: Score 1 / 1 / 30.
+   - 185228772 = 177443532: Score 1 / 1.
+   - Interpretation (nicht verifiziert): Der GetHooked-Score hängt an der einzelnen Ad (Laufzeit, Auslieferung) und nicht an der Datei. Ein Gewinner-Video bringt seinen Score nicht automatisch mit.
+2. **Hook-Test „Never Wrestle A Duvet Cover Again“ ist jetzt technisch belegt.** 184134597 (Batch 3), 184134616 und 184134607 starteten alle am 2026-09-25 mit identischem Bildkörper (Frame-Differenz ≤ 1,5 ab Körperbeginn) und identischem Körper-VO (Kreuzkorrelation 0,86–0,88). Nur der Hook-Clip und der Hook-Satz unterscheiden sich:
+   - 184134597 „I bloody hate changing the bed …“: **Score 41 „Scaling“**.
+   - 184134616 „Every wash day, my duvet cover turns into a demented octopus …“: Score 1.
+   - 184134607 „Changing a duvet cover is the work of the devil …“: Score 1.
+   - Alle drei haben 14 Tage und used_count 1. Damit liegt der derbe Frust-Hook mit britischem Slang („bloody“) vorn (Interpretation auf Basis des Ersatzsignals Score).
+   - Copy-Bruch: Alle drei teilen den Primärtext „angry octopus“, der nur zum Hook von 184134616 passt (der dort aber „demented octopus“ sagt).
+3. **193234224 ist ein neues Format: eine scrollende Textliste über UGC-Footage, nur mit Musik.** Der Text ist eine verdichtete Fassung des Hygiene-Skripts von 133366534 (Top-20) = 193234275 = 193234279, also Angle A. Abweichungen gegenüber dem Original:
+   - Die Testimonials heißen jetzt „Peter R.“ und „Ruth S.“ statt „George“ und „Sarah“.
+   - „Hypoallergenic“ und „Even without a dryer“ fehlen.
+   - Das Footage stammt visuell aus demselben Creator-Pool wie 178749251, 145443318/145443331 und 200490655 (siehe Varianten-Hinweis).
+   - Die Ad lief auf das Advertorial `/pages/tb-6` und ist seit 2026-10-07 inaktiv (7 Tage, Score n/a).
+4. **185395501 ist eine stumme 9-s-Diashow aus drei Standbildern** mit US-Wortwahl („Comforter“) und Landingpage `/products/easyrest-comforter`. Laut S3 (`s3_funnel.md`) ist das die US/CA-Produktseite. Länderliste leer, also vermutlich eine US-Ad (nicht verifiziert). Sie ist die einzige Ad im Batch ohne Angebot.
+5. **Hygiene (Angle A) als Haupt-Angle haben 193234224 und 185228772.** Nur 193234224 nennt Milben und Schweiß („Sweat. Dust mites. 🤢“). 185395501 bringt Hygiene über ein Testimonial („Was skeptical about the hygiene at first …“). In den übrigen Ads tauchen Waschen und Trocknen nur als Produkteigenschaft auf. Temperatur steht in 184134616/607 („10.5 tog“, „never feels stuffy“), 185395501 („Cool in summer / Warm in winter“) und 193234224 („Climate-regulating fibres“).
+6. **Das Angebot wird dreifach unterschiedlich formuliert:**
+   - 184134616/607: „30% off, plus two free … pillowcases“, ohne £-Wert.
+   - 185228773/185228764: „2× Pleene™ Pillow Cases FREE · Value £39.99“ (nicht durchgestrichen).
+   - 185228772: „worth £39.99“ durchgestrichen.
+   - 193234224: „2 free pillow cases 🎁 90-night sleep trial“.
+   - 185395501: kein Angebot.
 
-**Alter, Gesundheit, allein leben** (23 Belege)
+---
 
-- "My wife and I are in our 80's and need all the help we can get" (T003, 5★)
-- "I am in my late 70s and even though I have changed quilt covers all my life I am now finding it very difficult." (T066, 5★)
-- "has eliminated my ongoing worries as to how I shall cope with my bedding as old age advances." (T103, 5★)
-- "having limited mobility, it’s a real dream not having to change duvet covers any more." (T025, 5★)
-- "With declining mobility I have struggled to change even a single duvet cover." (T290, 5★)
-- "I am so pleased that I do not have to change the duvet cover now as I have a bad heart and it takes a lot out of me." (T043, 5★)
-- "chemo makes me very fatigued so the fact there is no messing about getting my duvet in a cover is an absolute god send" (T070, 5★)
-- "My strength and enery are low." (T231, 5★)
-- "This is ideal as couldn’t change the dooner cover." (T231, 5★)
-- "I live on my own and have struggled with changing quilt covers for at least 4 years providing me with anxiety and affecting my diabetes." (T079, 5★)
-- "The wifes hands are quite bad with Athritis" (T064, 5★)
-- "esp if you have arthritus in hands" (T074, 5★)
-- "So easy to use, to wash and replace, despite age and arthritis," (T249, 5★)
-- "making it more comfortable for my joints" (T047, 5★)
-- "Back operation .no more struggling with quilt covers." (T046, 5★)
-- "I am elderly, not too fit & am now a widower, so making up the new bed system alone was a joy." (T177, 5★)
-- "As a widower living on my own changing the king size  duvet cover on my own was struggle" (T236, 5★)
-- "I ordered these after my wife passed away" (T029, 5★)
-- "I hadn’t even put the quilt cover on…just pulled it over me in the sheer exhaustion of grief." (T251, 5★)
-- "coping with injuries received in a car accident" (T168, 5★)
-- "Being 66 with a bad back, changing sheets became a daunting task which I’m sure I put off way too long many times." (T274, 5★)
-- "I no longer have to worry about hurting my lower back whilst making the bed" (T284, 5★)
-- "She wants to remain independent" (T283, 5★)
+#### Video 184134616 – Never Wrestle A Duvet Cover Again
 
-**Skepsis gegenüber dem Kauf (Sprache des Einwands)** (6 Belege)
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 184134616 / 490200053 |
+| Meta-ID | 4380603895511872 |
+| Ad Library | https://www.facebook.com/ads/library/?id=4380603895511872 |
+| share_url | https://app.gethookd.ai/share/ad/184134616?signature=30d5fa9687840e415704fb7e19f5a1ef4dd204c7e06fbb62833ac631d02fe94a |
+| Land / Plattformen | GB · facebook, instagram, audience_network, threads |
+| Start / Tage aktiv | 2026-09-25 / 14 (start_to_today, active) |
+| performance_score / used_count | 1 („Testing“) / 1 |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | https://pleene.com/products/easyrest (product_page) |
+| Link-Beschreibung | „Coverless duvet · Nothing to wrestle · 30% off + 2 free pillow cases“ |
+| Technik | 48,32 s · 720×1280 · 30 fps · AAC 44,1 kHz · mean −17,3 dB, max −1,1 dB |
+| Schnitte | Der Detektor findet bei 0,3 nur 3 (7,20 / 10,63 / 11,87) = 0,62 pro 10 s. Das ist zu niedrig, weil die Übergänge meist Schwarzblitze (7,23 / 17,07 / 25,97 / 42,07 s, YAVG ≈ 16) oder Überblendungen sind (≈ 22,6 / 27,9 / 36,1 s, „Geisterhand“ sichtbar). **Visuell gezählt: 10 Szenenwechsel = 2,07 pro 10 s** (0–10: 2 · 10–20: 3 · 20–30: 3 · 30–40: 1 · 40–48: 1) |
 
-- "I was dubious when I saw how lightweight this quilt was." (T016, 5★)
-- "The only thing I worried about were the claims it was warm for such a thin material." (T150, 5★)
-- "thought it was too light to be warm" (T288, 5★)
-- "Too often you are taken in by amazing ads you see online." (T076, 5★)
-- "I've been caught out before with internet orders" (T270, 5★)
-- "I didn’t think you could have a quilt all in one that you could put in a washing machine and dry it quickly then put it back on the bed……it’s a miracle." (T269, 5★)
+**Primärtext (wörtlich):** „🐙 Every wash day, my duvet cover turns into an angry octopus. Eight corners, none of them where they should be. / Then I got the Pleene EasyRest, and the cover just disappeared. / ✓ Cover sewn in, one piece, nothing to wrestle / ✓ Lay it on the bed and the bed is made / ✓ Washes whole in your machine at home, dry in 2 hours 🧺 / 🎁 30% off + 2 FREE matching pillow cases.“
 
-Auffällig: In keiner einzigen Bewertung (0 von 291 Trustpilot, 0 von 172 Judge.me) kommen die Wörter „hygiene“, „mites“, „bacteria“, „germs“, „dust“, „allergy“ oder „sensitive skin“ vor. Ihr Vokabular ist „fight“, „wrestle“, „struggle“, „battle“, „faff“, „nightmare“, „chore“, „exhausting“. Die Lösung beschreiben sie als „game changer“, „life saver“, „god send“, „miracle“, „does what it says on the tin“.
+**Transkript (GetHooked/Whisper, vollständig, wörtlich)**
+| Sek. | Text |
+|---|---|
+| 0,00–4,28 | Every wash day, my duvet cover turns into a demented octopus. |
+| 4,28–7,52 | Eight corners, none of them where they should be. |
+| 7,52–10,96 | Then I got the plean easy rest and the cover just disappeared. |
+| 10,96–14,56 | It's a duvet and cover in one, so there's nothing to wrestle. |
+| 14,56–17,36 | You lay it on the bed, and the bed is made. |
+| 17,36–18,72 | That's it. |
+| 18,72–23,60 | When it needs washing, the whole thing goes into your normal 7kg washing machine, then |
+| 23,60–27,04 | the tumble dryer, and it's dry in two hours. |
+| 27,04–32,24 | It's 10.5 tog, so it's every bit as warm as a winter duvet, just without the weight, |
+| 32,24–35,72 | and the breathable fibres mean it never feels stuffy on you. |
+| 35,72–39,08 | I swear to you, my bed always feels fresh. |
+| 39,08–42,80 | And the clean pillowcases really do feel super soft. |
+| 42,80–47,88 | Right now, the easy rest is on offer with 30% off, plus two free clean pillowcases. |
 
-### 4.6 Tempo
+Transkript-Qualität: inhaltlich gut. Die lokale Whisper-Gegenprobe ist deckungsgleich („seven kilogram washing machine“, „10.5 Tog“, „30% off“).
+- Korrekturen laut Untertiteln: „plean easy rest“ heißt „PLEENE EASY / REST“; „clean pillowcases“ heißt „PLEENE PILLOW CASES“.
+- Untertitel in US-Schreibweise: „BREATHABLE FIBERS“, dazu „7 KILOGRAM WASHING MACHINE“.
+- Sprechpausen sind digital still (silencedetect −50 dB: z. B. 17,68–18,61 s). **Es gibt also kein Musikbett.**
 
-**Neue Bewertungen pro Monat (April–Oktober 2026)**
+**Hook (0–3 s)**
+- Gesprochen: „Every wash day, my duvet cover turns into a demented octopus.“ (bis 4,28 s), dann „Eight corners, none of them where they should be.“
+- Eingeblendet (Untertitel): „EVERY WASH DAY“ (0–1,3) → „MY DUVET COVER TURNS INTO A“ (1,5–2,5) → „DEMENTED OCTOPUS“ (3,0–3,5).
+- Bild: Eine bordeauxrote Damast-Tagesdecke formt auf dem Bett einen **Oktopus** (Kopf und Tentakel). Zwei Hände (POV) ziehen an der Decke. Helles Schlafzimmer mit Lampe, Pflanze und Holzkopfteil.
+- Hook-Typ: absurd-humorvolle Bildmetapher für den Frust beim Beziehen.
 
-| Monat | Trustpilot neu | TP 5/4/3/2/1★ | TP Ø | TP „Invited“ | TP Antworten Pleene | TP Lieferzeit-Kritik (L1) | TP außerhalb GB | Judge.me neu | davon TP-Import / eigen | JM 5/4/3/2/1★ |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Apr | 0 | 0/0/0/0/0 | – | 0 | 0 | 0 | 0 | 1 | 0 / 1 | 1/0/0/0/0 |
-| Mai | 0 | 0/0/0/0/0 | – | 0 | 0 | 0 | 0 | 0 | 0 / 0 | 0/0/0/0/0 |
-| Jun | 0 | 0/0/0/0/0 | – | 0 | 0 | 0 | 0 | 11 | 0 / 11 | 9/2/0/0/0 |
-| Jul | 0 | 0/0/0/0/0 | – | 0 | 0 | 0 | 0 | 1 | 0 / 1 | 0/1/0/0/0 |
-| Aug | 114 | 103/8/1/0/2 | 4,84 | 2 | 0 | 11 (10 %) | 0 | 110 | 107 / 3 | 93/16/1/0/0 |
-| Sep | 133 | 108/21/1/1/2 | 4,74 | 0 | 0 | 34 (26 %) | 11 | 47 | 47 / 0 | 37/10/0/0/0 |
-| Okt (1.–8.) | 44 | 40/3/0/0/1 | 4,84 | 0 | 0 | 6 (14 %) | 13 | 0 | 0 / 0 | 0/0/0/0/0 |
+**Untertitel (vollständig, wörtlich; weiß, Großbuchstaben, schwarze Kontur, unteres Bilddrittel)**
+„EVERY WASH DAY“ (0–1,3) · „MY DUVET COVER TURNS INTO A“ (1,5–2,5) · „DEMENTED OCTOPUS“ (3,0–3,5) · „EIGHT CORNERS NONE OF THEM WHERE“ (4,5–6,0) · „THEY SHOULD BE“ (6,3–6,8) · „THEN I GOT THE PLEENE EASY“ (7,3–8,55) · „REST“ (8,8) · „AND THE COVER JUST DISAPPEARED“ (9,05–10,5) · „IT'S A DUVET AND COVER IN“ (11,0–12,0) · „ONE“ (12,5) · „SO THERE'S NOTHING TO WRESTLE“ (13,0–14,0) · „YOU LAY IT ON THE BED“ (14,5–15,5) · „AND THE BED IS MADE“ (16,0–16,75) · „THAT'S IT“ (17,25–17,5) · „WHEN IT NEEDS WASHING“ (18,75–19,5) · „THE WHOLE THING GOES INTO YOUR“ (19,75–21,0) · „NORMAL“ (21,25) · „7 KILOGRAM WASHING MACHINE“ (21,5–23,0) · „THEN THE TUMBLE DRYER AND IT'S“ (23,5–25,0) · „DRY IN TWO HOURS“ (25,5–26,5) · „IT'S 10.5 TOG“ (27,0–28,0) · „SO IT'S EVERY BIT AS WARM“ (28,5–29,5) · „AS A WINTER DUVET“ (30,0–30,5) · „JUST WITHOUT“ (31,0) · „THE WEIGHT AND THE BREATHABLE FIBERS“ (31,5–33,0) · „MEAN IT NEVER FEELS STUFFY ON“ (33,5–34,5) · „YOU“ (35,0) · „I SWEAR TO YOU MY BED“ (36,0–37,0) · „ALWAYS FEELS FRESH“ (37,5–38,0) · „AND THE PLEENE PILLOW CASES REALLY“ (39,0–40,5) · „DO FEEL SUPER SOFT“ (41,0–42,0) · „RIGHT NOW THE EASY REST IS“ (43,0–44,0) · „ON OFFER WITH 30% OFF“ (44,5–45,5) · „PLUS TWO FREE PLEENE PILLOW CASES“ (46,0–48,0)
 
-Vor April 2026: Trustpilot 0; Judge.me je 1 Bewertung im August 2025 (J001) und November 2025 (J002). Erste Bewertung überhaupt: Judge.me J001 (03.08.2025); erste Trustpilot-Bewertung T001 (01.08.2026, 18:11 UTC). ZipSheet-Bewertungen auf Judge.me (nicht in der Tabelle): 4 im Juli 2026.
+**Szenenliste (alle Übergänge angesehen)**
+| Sek. | Szene |
+|---|---|
+| 0,00–7,23 | Durchgehende Einstellung: Oktopus-Form in der bordeauxroten Damastdecke, POV-Hände ziehen. Ab ca. 4 s Blick nach unten auf die Bettkante, weiße Matratze sichtbar |
+| 7,23 (Schwarzblitz) –9,37 | **Produkt-Reveal**: mintgrüne EasyRest liegt gefaltet auf weißem Bett, Hände greifen sie (Schlafzimmer mit Pflanzen-Regal, Lampe) |
+| 9,37–10,63 | Hand schlägt die mintgrüne Decke auf dem Bett zurück |
+| 10,63–11,87 | Zwei Hände heben die Deckenkante, Matratze und Holzrahmen sichtbar |
+| 11,87–17,07 | Hand glättet die Decke, langsame Rückfahrt zur Totale (mintgrünes Schlafzimmer, Jute-Teppich) |
+| 17,07 (Schwarzblitz) –ca. 22,6 | Waschküche: Hände stopfen die Decke in einen weißen Frontlader |
+| ca. 22,6 (Überblendung) –25,97 | POV: Hände halten die gefaltete Decke vor dem offenen Frontlader (als „tumble dryer“ gemeint) |
+| 25,97 (Schwarzblitz) –ca. 27,9 | Gefaltete Decke auf dem Bett, Hände klappen sie auf |
+| ca. 27,9 (Überblendung) –ca. 36,1 | POV aus dem Bett: Hand drückt auf die Steppdecke, Fenster im Hintergrund |
+| ca. 36,1 (Überblendung) –42,07 | Hand tätschelt ein mintgrünes Kissen |
+| 42,07 (Schwarzblitz) –48,32 | Totale mintgrünes Schlafzimmer, langsame Kamerafahrt, Abblende ab ca. 47,5 s |
 
-Trustpilot pro Tag: August 3,7 (ohne die ersten beiden Tage 64 in 29 Tagen = 2,2), September 4,4, Oktober bisher 5,5. Kalenderwochen: KW31 50, KW32 11, KW33 12, KW34 26, KW35 13, KW36 32, KW37 36, KW38 19, KW39 31, KW40 39, KW41 (05.–08.10.) 22. Spitzentage: 01.08. 37, 02.08. 13, 12.09. 10, 04.10. 10, 05.10. 10, 11.09. 9, 06.10. 9. Wochentage: Samstag 69, Sonntag 54, Montag 45, Dienstag 39, Freitag 38, Mittwoch 24, Donnerstag 22. Uhrzeit (UTC): Schwerpunkt 18–23 Uhr (133 von 291).
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook | 0–4,3 | „Every wash day, my duvet cover turns into a demented octopus.“ + Oktopus-Bild |
+| Problem | 0–4,3 | Der Bezug „wird zum Oktopus“ (Kampf mit dem Bezug am Waschtag) |
+| Verstärkung | 4,3–7,5 | „Eight corners, none of them where they should be.“ (schwach, nur Konkretisierung) |
+| Lösung | 7,5–18,7 | „Then I got the Pleene EasyRest and the cover just disappeared“, „duvet and cover in one … nothing to wrestle“, „the bed is made. That's it.“ |
+| Mechanismus | 18,7–35,7 | „normal 7kg washing machine“, „tumble dryer“, „dry in two hours“, „10.5 tog“, „breathable fibres … never feels stuffy“ |
+| Beweis | 35,7–42,8 | nur persönliches Testimonial („I swear to you, my bed always feels fresh“, „super soft“). Zahlen, Reviews und Kundenzahl **fehlen** |
+| Angebot | 42,8–47,9 | „30% off, plus two free … pillowcases“ |
+| CTA | – | im Video **fehlt** er. Button „Shop now“ |
 
-Anteil „Invited“: 2 von 291 (0,7 %). Antwortquote Pleene: 0 % auf beiden Plattformen. Private Kontakte gibt es nachweislich (T141 "problem solved as you replied with the satisfied explanation", T143 Erstattung mit Nachricht, T185 Kontaktaufnahme, T277 Angebot eines kostenlosen Ersatzes).
+**Wer ist zu sehen / wer spricht**
+- Keine Person zu sehen, nur Hände und Unterarme (schlank, vermutlich weiblich) in POV-Perspektive.
+- **Off-Voiceover**, f0-Median ca. 188 Hz (p25 165 / p75 229), vermutlich eine **Frauenstimme** (nicht verifiziert). Britische Wortwahl („tog“, „tumble dryer“, „fibres“). Ob die Stimme KI-generiert ist: nicht verifiziert.
+- **Visuals: KI-generiert (Einschätzung).** Gründe:
+  - Der „Oktopus“ aus Stoff ist ein surreales, physikalisch unplausibles Motiv.
+  - Durchgehend glatte Render-Optik.
+  - Bei den Überblendungen erscheint eine halbtransparente „Geisterhand“ (z. B. 27,9 / 36,1 s).
+  - Keine einzige Einstellung zeigt eine ganze Person.
+  - Bildkörper identisch mit 184134597, das Batch 3 ebenso einstuft.
+
+**Setting:** Schlafzimmer (bordeauxrot im Hook, mintgrün danach) und Waschküche mit Frontlader.
+**Avatar:** britische Haushalte, geschätzt Frauen 35–65, die den Bezugswechsel am Waschtag hassen.
+**Angle:** **C** (primär) + **B** („10.5 tog“, „every bit as warm as a winter duvet“, „never feels stuffy“) + **A** sekundär (ganze Decke in die normale Maschine, in 2 h trocken) + **F-Angebot** („30% off“).
+**Haupt-Emotion:** Frust mit Humor (Oktopus-Bild), danach Erleichterung („That's it.“).
+**Schnitttempo / Untertitel / Ton:**
+- 2,07 Szenenwechsel pro 10 s (visuell); der Detektor bei 0,3 findet nur 0,62.
+- Untertitel ja: Großbuchstaben, weiß, fett, schwarze Kontur, 1–6 Wörter pro Einblendung, wortgenau zum VO (TikTok-Stil).
+- Ton: nur VO, **keine Musik**.
+
+**Konkrete Zahlen und Behauptungen (wörtlich):** „Eight corners“ · „normal 7kg washing machine“ (UT „7 KILOGRAM WASHING MACHINE“) · „dry in two hours“ · „It's 10.5 tog“ · „every bit as warm as a winter duvet, just without the weight“ · „breathable fibres mean it never feels stuffy on you“ · „my bed always feels fresh“ · „30% off“ · „two free … pillowcases“. Im Primärtext: „Washes whole in your machine at home, dry in 2 hours“, „30% off + 2 FREE matching pillow cases“. **Nicht im Video:** £-Werte, 90-Nächte-Test, Kundenzahl.
+
+**Angebotspräsentation:** am Ende gesprochen und als Untertitel: 30 % Rabatt plus 2 Gratis-Kissenbezüge. Keine Frist, keine Knappheit, kein £-Wert, kein Testversprechen.
+
+**Varianten-Hinweis**
+- **Hook-Test-Familie (verifiziert).** Gleicher Bildkörper ab dem Reveal: 184134616 ab 7,23 s = 184134597 ab 6,37 s = 184134607 ab 6,70 s (Frame-Differenz ≤ 1,5). Körper-VO gleich (Kreuzkorrelation 0,86–0,88). Unterschiedlich sind nur Hook-Clip und Hook-Satz:
+  - 184134597: „I bloody hate changing the bed …“, Score 41.
+  - 184134616: „demented octopus“, Score 1.
+  - 184134607: „work of the devil“, Score 1.
+- Kleiner Unterschied: Der VO liegt in 184134616 ca. 0,2 s später zum Bild als in 184134597 (Audio-Lag 1,07 s gegenüber Bild-Versatz 0,87 s).
+- Gleiche Headline und gleicher Primärtext, aber anderes Video: 193234275 (= 133366534, Batch 3).
+- Der Primärtext sagt „angry octopus“, der VO „demented octopus“.
+
+---
+
+#### Video 184134607 – Never Wrestle A Duvet Cover Again
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 184134607 / 490200029 |
+| Meta-ID | 2292800994824018 |
+| Ad Library | https://www.facebook.com/ads/library/?id=2292800994824018 |
+| share_url | https://app.gethookd.ai/share/ad/184134607?signature=19e12d9ef3e8461ef2c7fa995df7cd451f2608fc590135b4f248dc4336d2e56d |
+| Land / Plattformen | GB · facebook, instagram, audience_network, threads |
+| Start / Tage aktiv | 2026-09-25 / 14 (start_to_today, active) |
+| performance_score / used_count | 1 („Testing“) / 1 |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | https://pleene.com/products/easyrest (product_page) |
+| Link-Beschreibung | „Coverless duvet · Nothing to wrestle · 30% off + 2 free pillow cases“ |
+| Technik | 47,67 s · 720×1280 · 30 fps · AAC 44,1 kHz · mean −17,3 dB, max −0,9 dB |
+| Schnitte | Detektor bei 0,3: 2 (10,10 / 11,33) = 0,42 pro 10 s, zu niedrig. **Visuell gezählt: 11 Szenenwechsel = 2,31 pro 10 s** (0–10: 3 [≈ 4,0 Überblendung, 6,70 Schwarzblitz, 8,83] · 10–20: 3 [10,10 / 11,33 / 16,53 Schwarzblitz] · 20–30: 3 [≈ 22,0 Überblendung, 25,43 Schwarzblitz, ≈ 27,3 Überblendung] · 30–40: 1 [≈ 35,5 Überblendung] · 40–47,7: 1 [41,53 Schwarzblitz]) |
+
+**Primärtext (wörtlich):** identisch mit 184134616: „🐙 Every wash day, my duvet cover turns into an angry octopus. Eight corners, none of them where they should be. / Then I got the Pleene EasyRest, and the cover just disappeared. / ✓ Cover sewn in, one piece, nothing to wrestle / ✓ Lay it on the bed and the bed is made / ✓ Washes whole in your machine at home, dry in 2 hours 🧺 / 🎁 30% off + 2 FREE matching pillow cases.“
+
+**Transkript (GetHooked/Whisper, vollständig, wörtlich)**
+| Sek. | Text |
+|---|---|
+| 0,00–2,68 | Changing a duvet cover is the work of the devil. |
+| 2,68–6,36 | Whoever invented it never had to do it on a Sunday night. |
+| 6,36–9,76 | Then I got the Pleen EasyRest and the cover just disappeared. |
+| 9,76–13,44 | It's a duvet and cover in one, so there's nothing to wrestle. |
+| 13,44–16,12 | You lay it on the bed, and the bed is made. |
+| 16,12–17,56 | That's it. |
+| 17,56–21,32 | When it needs washing, the whole thing goes into your normal seven kilogram |
+| 21,32–25,84 | washing machine, then the tumble dryer, and it's dry in two hours. |
+| 25,84–29,80 | It's 10.5 Tog, so it's every bit as warm as a winter duvet, |
+| 29,80–31,12 | just without the weight. |
+| 31,12–34,72 | And the breathable fibers mean it never feels stuffy on you. |
+| 34,72–37,92 | I swear to you, my bed always feels fresh. |
+| 37,92–41,76 | And the Pleen pillowcases really do feel super soft. |
+| 41,76–44,88 | Right now, the EasyRest is on offer with 30% off, |
+| 44,88–47,84 | plus two free Pleen pillowcases. |
+
+Transkript-Qualität: gut. Lokales Whisper ist deckungsgleich (schreibt „clean, easy rest“). „Pleen“ heißt laut Untertitel „PLEENE“.
+
+**Hook (0–3 s)**
+- Gesprochen: „Changing a duvet cover is the work of the devil.“ (0–2,68), dann „Whoever invented it never had to do it on a Sunday night.“ (bis 6,36).
+- Eingeblendet: „CHANGING A DUVET COVER IS THE“ (0–1,0) → „WORK OF THE DEVIL“ (1,3–2,3) → „WHOEVER INVENTED IT NEVER HAD TO“ (2,6–4,0) → „ON A SUNDAY NIGHT“ (4,3–5,6).
+- Bild: POV, zwei Hände wühlen in einem zerknüllten bordeauxroten Damast-Bezug auf dem Bett (Lampe, Pflanze, Holzkopfteil). Ein Arm steckt bis zum Ellbogen im Bezug.
+- Hook-Typ: übertriebene Frust-Aussage mit Humor („work of the devil“) plus Alltagsszene („Sunday night“).
+
+**Untertitel:** Hook wie oben, danach „THEN I GOT THE PLEENE EASY“ (6,3–7,3) · „REST“ (7,6) · „AND THE COVER JUST DISAPPEARED“ (7,9–8,9). Der Rest ist **identisch mit 184134616**, ca. 1,07 s früher (an den VO gekoppelt). Gesehen bei: „IT'S A DUVET AND COVER IN“ (10,0 / 10,3) · „SO THERE'S NOTHING TO WRESTLE“ (11,53 / 12,5) · „AND THE BED IS MADE“ (15,0) · „NORMAL“ (20,0) · „7 KILOGRAM WASHING MACHINE“ (22,0) · „THEN THE TUMBLE DRYER AND IT'S“ (22,5) · „DRY IN TWO HOURS“ (25,0) · „IT'S 10.5 TOG“ (27,3) · „SO IT'S EVERY BIT AS WARM“ (27,5) · „JUST WITHOUT“ (30,0) · „MEAN IT NEVER FEELS STUFFY ON“ (32,5) · „I SWEAR TO YOU MY BED“ (35,0 / 35,5) · „DO FEEL SUPER SOFT“ (40,0) · „RIGHT NOW THE EASY REST IS“ (41,7 / 42,5) · „PLUS TWO FREE PLEENE PILLOW CASES“ (45,0). Bei 47,4 s ist kein Untertitel mehr zu sehen (Abblende).
+
+**Szenenliste (alle Übergänge angesehen)**
+| Sek. | Szene |
+|---|---|
+| 0,00–ca. 4,0 | POV-Hände kämpfen mit dem bordeauxroten Damast-Bezug, ein Arm steckt im Bezug |
+| ca. 4,0 (Überblendung) –6,70 | Gleiches Motiv, neue Einstellung: Hand greift in den zerwühlten Bezug |
+| 6,70 (Schwarzblitz) –8,83 | Reveal: mintgrüne EasyRest gefaltet auf weißem Bett, Hände greifen sie (identisch mit 184134616 ab 7,23) |
+| 8,83–10,10 | Hand schlägt die Decke zurück |
+| 10,10–11,33 | Hände heben die Deckenkante |
+| 11,33–16,53 | Hand glättet die Decke, Rückfahrt zur Totale |
+| 16,53 (Schwarzblitz) –ca. 22,0 | Waschküche: Decke wird in den Frontlader gestopft |
+| ca. 22,0 (Überblendung) –25,43 | Hände halten die Decke vor dem offenen Frontlader |
+| 25,43 (Schwarzblitz) –ca. 27,3 | Gefaltete Decke auf dem Bett, Hände klappen sie auf |
+| ca. 27,3 (Überblendung) –ca. 35,5 | POV aus dem Bett, Hand drückt auf die Steppdecke |
+| ca. 35,5 (Überblendung) –41,53 | Hand tätschelt ein mintgrünes Kissen |
+| 41,53 (Schwarzblitz) –47,67 | Totale mintgrünes Schlafzimmer, Abblende ab ca. 47 s |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook | 0–2,7 | „Changing a duvet cover is the work of the devil.“ |
+| Problem | 0–2,7 | Bezugswechsel als Qual |
+| Verstärkung | 2,7–6,4 | „Whoever invented it never had to do it on a Sunday night.“ (Alltagsszene, Spott) |
+| Lösung | 6,4–17,6 | „the cover just disappeared“, „duvet and cover in one“, „the bed is made. That's it.“ |
+| Mechanismus | 17,6–34,7 | „normal seven kilogram washing machine“, „tumble dryer“, „dry in two hours“, „10.5 Tog“, „breathable fibers … never feels stuffy“ |
+| Beweis | 34,7–41,8 | nur persönliches Testimonial („my bed always feels fresh“, „super soft“). Zahlen und Reviews **fehlen** |
+| Angebot | 41,8–47,8 | „30% off, plus two free Pleen pillowcases“ |
+| CTA | – | im Video **fehlt** er. Button „Shop now“ |
+
+**Wer ist zu sehen / wer spricht:** keine Person, nur schlanke Hände und Unterarme (vermutlich weiblich), POV. **Off-Voiceover**, f0-Median ca. 195 Hz (Hook allein 225 Hz), vermutlich eine Frauenstimme. Ob es dieselbe Sprecherin wie in 184134616 ist und ob die Stimme KI-generiert ist: nicht verifiziert. **Visuals vermutlich KI-generiert** (Einschätzung): Render-Optik, Geisterhand-Überblendungen (4,0 / 22,0 / 27,3 / 35,5 s), Bildkörper identisch mit 184134597/616.
+**Setting:** Schlafzimmer (bordeauxrot, dann mintgrün), Waschküche.
+**Avatar:** britische Haushalte (geschätzt 35–65), für die der Bezugswechsel ein lästiges Wochenend-Ritual ist („Sunday night“).
+**Angle:** **C** (primär) + **B** („10.5 Tog“, „never feels stuffy“) + **A** sekundär (ganze Decke in die Maschine, 2 h trocken) + **F-Angebot** („30% off“).
+**Haupt-Emotion:** Frust bzw. Ärger mit Humor, dann Erleichterung.
+**Schnitttempo / Untertitel / Ton:** 2,31 Szenenwechsel pro 10 s (visuell; Detektor 0,42). Untertitel ja, gleicher TikTok-Stil wie 184134616. Nur VO, keine Musik (Pausen digital still wie in 184134616).
+
+**Konkrete Zahlen und Behauptungen (wörtlich):** „on a Sunday night“ · „normal seven kilogram washing machine“ · „dry in two hours“ · „It's 10.5 Tog“ · „every bit as warm as a winter duvet“ · „never feels stuffy on you“ · „30% off“ · „two free Pleen pillowcases“. Im Video keine £-Werte, kein 90-Nächte-Test, keine Kundenzahl.
+
+**Angebotspräsentation:** wie 184134616: 30 % Rabatt + 2 Gratis-Kissenbezüge, gesprochen und als Untertitel. Keine Frist, keine Knappheit, kein £-Wert.
+
+**Varianten-Hinweis:** Hook-Variante von **184134597** (Batch 3, Score 41) und **184134616** (Score 1), Belege siehe 184134616. Der Primärtext („angry octopus“) passt nicht zum gesprochenen Hook („work of the devil“).
+
+---
+
+#### Video 185228773 – Pick a colour. Watch.
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 185228773 / 492060904 |
+| Meta-ID | 2789047968155632 |
+| Ad Library | https://www.facebook.com/ads/library/?id=2789047968155632 |
+| share_url | https://app.gethookd.ai/share/ad/185228773?signature=a25a1c0dc9c693ccb2b54cced73f43f031683b0b29560a7a1a6bae916c224838 |
+| Land / Plattformen | GB · facebook, instagram, audience_network, threads |
+| Start / Tage aktiv | 2026-09-27 / 12 (start_to_today, active) |
+| performance_score / used_count | 1 („Testing“) / 1 |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | https://pleene.com/products/easyrest (product_page) |
+| Link-Beschreibung | „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ |
+| Technik | 14,72 s · 720×1280 · 30 fps · AAC 44,1 kHz · mean −16,1 dB, max −1,1 dB, keine Stille |
+| Schnitte | 0,3: 3 (2,60 / 4,97 / 7,63); 0,15: +10,30 / 10,93 (Perspektivwechsel, visuell bestätigt). **5 Schnitte = 3,40 pro 10 s** (0–10: 3 · 10–14,7: 2) |
+
+**Identität:** **byte-identisch mit 200490708** (Batch 5) und **177443533** (Batch 6), md5 `0c5cc8ef…`, Ton-Peak 1,000. Die Szenenliste habe ich mit eigenen 21 Frames neu angesehen. Sie bestätigt Batch 5.
+
+**Primärtext (wörtlich):** „Pick a colour. Watch what happens. In the video: 8 duvets, 1 empty bed, and the fastest bed-making you'll see today — because the Pleene EasyRest™ needs no cover. One throw, done.“
+
+**Transkript:** GetHooked liefert „🎵Outro Music🎵“ (0,00–14,50 s), also einen **Platzhalter**. Audio-Check:
+- Pegel: mean −16,1 dB, keine Stille.
+- Spektrogramm (`wf/s2b7_audio/spec_773_764.png`, oben): treppenartige Notenfolgen und regelmäßige Beats, keine Formanten.
+- Lokales Whisper erkennt nur „🎵“ (0–14,58 s).
+- **Ergebnis: nur Musik, keine Sprache.**
+
+**Hook (0–3 s):** gesprochen: keiner. Eingeblendet: „Don't scroll. / Pick your colour first.“ (schwarze fette Sans, 0–2,60). Bild: leeres weißes Studio mit einem Stapel aus **8 Steppdecken** (von oben: rot, beige, grau, blau, mint, schwarz, weiß, braun) neben einem leeren weißen Einzelbett. Ab ca. 1 s läuft ein älterer Mann von links ins Bild. Hook-Typ: Pattern-Interrupt mit Mitmach-Aufforderung.
+
+**Einblendungen (wörtlich)**
+- „Don't scroll. / Pick your colour first.“ (0–2,60)
+- „Duvet + Cover / in One.“ (2,60–4,97)
+- „Fits in any / washing machine.“ (4,97–7,63)
+- „Dries in / 2 hours.“ + klein „Bed made. In one throw.“ (7,63 bis mind. 11,13)
+- „2× Pleene™ / Pillow Cases FREE · / Value £39.99 · / 90-Night Trial“ (ab spätestens 12,0 bis 14,72)
+
+**Szenenliste (an jedem Schnitt angesehen)**
+| Sek. | Szene |
+|---|---|
+| 0–2,60 | Totale weißes Studio: Deckenstapel, leeres Bett, Mann läuft ins Bild |
+| 2,60–4,97 | Halbnah: Mann legt die Hand auf den Stapel und gleitet über die Farben |
+| 4,97–7,63 | Nah: Hand zieht die **mintgrüne** Decke aus dem Stapel |
+| 7,63–10,30 | Totale: Mann trägt die Decke zum Bett und holt zum Wurf aus |
+| 10,30–10,93 | Nah: Decke landet auf dem Bett |
+| 10,93–14,72 | Totale: Mann streicht die Decke glatt, mintgrünes Kissen; Mann lächelt und geht ab ca. 13 s aus dem Bild |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook | 0–2,6 | „Don't scroll. Pick your colour first.“ |
+| Problem | – | **fehlt** |
+| Verstärkung | – | **fehlt** |
+| Lösung | 2,6–5,0 | „Duvet + Cover in One.“ |
+| Mechanismus | 5,0–ca. 11,5 | „Fits in any washing machine.“, „Dries in 2 hours.“, „Bed made. In one throw.“ |
+| Beweis | – | **fehlt** (nur der Demo-Wurf) |
+| Angebot | ca. 11,5–14,7 | „2× Pleene™ Pillow Cases FREE · Value £39.99 · 90-Night Trial“ |
+| CTA | – | im Video **fehlt** er. Button „Shop now“ |
+
+**Wer ist zu sehen / wer spricht**
+- Ein Mann, geschätzt 60–65 (graues Haar, Bart, weißes Leinenhemd, beige Chino, weiße Sneaker), als Model bzw. Demonstrator. Kein Sprecher.
+- Einschätzung: **vermutlich KI-generiert (nicht verifiziert).** Begründung:
+  - makelloses, unendlich weißes Studio;
+  - perfekt ausgerichteter Stapel;
+  - sehr glatte Bewegungen;
+  - **Kontinuitätsfehler:** Das Kissen ist bis 10,5 s weiß und ab 11,0 s mintgrün (selbst gesehen).
+
+**Setting:** weißes Fotostudio mit Einzelbett.
+**Avatar:** stil- und farborientierte Käufer, eher ältere Zielgruppe (Model 60+).
+**Angle:** **F-Farbe/Auswahl** (primär: „Pick your colour first“, 8 Farben) + **C** („Duvet + Cover in One.“, „Bed made. In one throw.“) + **A** („Fits in any washing machine.“, „Dries in 2 hours.“) + **F-Angebot**.
+**Haupt-Emotion:** Neugier bzw. spielerisches Mitmachen, dann Leichtigkeit.
+**Schnitttempo / Untertitel / Ton:** 3,40 Schnitte pro 10 s. Keine Untertitel, nur Text-Overlays. Nur Musik.
+
+**Konkrete Zahlen und Behauptungen (wörtlich):** „Duvet + Cover in One.“ · „Fits in any washing machine.“ · „Dries in 2 hours.“ · „Bed made. In one throw.“ · „2× Pleene™ Pillow Cases FREE“ · „Value £39.99“ · „90-Night Trial“. Primärtext: „8 duvets, 1 empty bed“, „the fastest bed-making you'll see today“, „One throw, done.“ Im Video sind tatsächlich 8 Decken zu sehen.
+
+**Angebotspräsentation:** Endeinblendung: 2 Gratis-Kissenbezüge, „Value £39.99“ (nicht durchgestrichen), „90-Night Trial“. Keine Frist, keine Knappheit.
+
+**Varianten-Hinweis:** byte-identisch mit **200490708** (Start 2026-10-06, Score 30) und **177443533** (Start 2026-09-15, Score 1). Konzeptnah zu den Farbkarussell-Clips 182988073 / 182988111 / 182988108 („7 colours“, Batch 3/6). Musik-Korrelation < 0,06, also anderes Material.
+
+---
+
+#### Video 185228772 – Be honest. When did you last wash it?
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 185228772 / 492060898 |
+| Meta-ID | 1609404564015528 |
+| Ad Library | https://www.facebook.com/ads/library/?id=1609404564015528 |
+| share_url | https://app.gethookd.ai/share/ad/185228772?signature=b8b59977a1223802de6aa2310ed361654df4253dc41d5ac727fe2d89dc343ef4 |
+| Land / Plattformen | GB · facebook, instagram, audience_network, threads |
+| Start / Tage aktiv | 2026-09-27 / 12 (start_to_today, active) |
+| performance_score / used_count | 1 („Testing“) / **2** |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | https://pleene.com/products/easyrest (product_page) |
+| Link-Beschreibung | „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ |
+| Technik | 29,35 s · 720×1280 · 30 fps · AAC 44,1 kHz · mean −16,5 dB, max −4,7 dB, keine Stille |
+| Schnitte | 0,3 und 0,15 identisch: 22,07 / 24,07. **2 Schnitte = 0,68 pro 10 s** (0–10: 0 · 10–20: 0 · 20–29,35: 2). Dazu 11 Kartenwechsel innerhalb derselben Einstellung (grafisch, keine Schnitte) |
+
+**Identität:** **byte-identisch mit 177443532** (Batch 6), md5 `1c04c37c…`, Ton-Peak 1,000. Ich habe den Kartenbereich im 0,25-s-Raster selbst gelesen (117 Ausschnitte). Das Ergebnis deckt sich mit Batch 6.
+
+**Primärtext (wörtlich):** „This week only: 2 free Pleene™ Pillow Cases with every duvet. And if you want the bedroom ready for the colder nights, Hearth Red is the one everyone picks, and it's almost gone. The EasyRest™ is duvet and cover in one: wash it whole, dry in 2 hours.“
+
+**Transkript:** GetHooked liefert „Thanks for watching!“ (0,00–29,20 s), also einen **Platzhalter**. Audio-Check:
+- Pegel: mean −16,5 dB, keine Stille.
+- Spektrogramm (`wf/s2b7_audio/185228772_spec.png`): durchgehende tonale Bänder und Beat-Transienten, keine Formanten.
+- Lokales Whisper halluziniert ebenfalls „Thanks for watching!“ (no_speech_prob 0,23).
+- **Ergebnis: nur Musik, keine Sprache.**
+
+**Hook (0–3 s)**
+- Gesprochen: keiner.
+- Headline: „Be honest. When did you last wash it?“
+- Eingeblendet: Ab 0,5 s halten zwei Hände (POV) einen Kartenstapel über eine schwarze Steppdecke. Handschriftliche Karte: „Covers washed this year: 52“ (die „52“ rot unterstrichen).
+- Hook-Typ: Cue-Card-Format mit Zahlenkontrast (Konfrontation).
+
+**Szenenliste mit Karten (wörtlich, 0,25-s-Raster)**
+| Sek. | Bild | Karte / Einblendung |
+|---|---|---|
+| 0,00–0,5 | Schwarze Decke, Schlafzimmer (Holzkopfteil, Pflanze, Bild, Fenster) | – |
+| 0,5–4,25 | POV-Hände mit Kartenstapel | „Covers washed this year: 52“ |
+| 4,25–5,9 | Kartenwechsel | „Duvet: 0“ (die „0“ rot doppelt unterstrichen) |
+| 6,0–8,6 | Kartenwechsel | „Not the cover. The duvet itself“ (6,25–6,75) wird zu „Not the cover, the duvet itself“ (ab 7,0) – **der Text verändert sich auf derselben Karte** |
+| 8,75–10,25 | Kartenwechsel | „Exactly, never“ |
+| 10,5–12,6 | Kartenwechsel | „It never fits the machine.“ |
+| 12,75–15,4 | Kartenwechsel | „This one does.“ |
+| 15,5–17,75 | Kartenwechsel; 16,25–17,5 roter gezeichneter Pfeil ↓ über dem Bett | „Duvet + cover in one“ |
+| 18,0–20,5 | Kartenwechsel | „The cover is sewn in“ |
+| 20,75–22,07 | Kartenwechsel | „The WHOLE thing. In your machine“ („WHOLE“ rot unterstrichen) |
+| 22,07–24,07 | **Schnitt:** Person (dunkle kurze Haare, weißes Hemd, beige Hose; Gesicht nur seitlich angeschnitten) kniet vor einem weißen Frontlader, schiebt die schwarze Decke hinein und schließt die Tür | – |
+| 24,07–25,4 | **Schnitt** zurück: POV-Karten | „Dry in 2 hours“ |
+| 25,5–26,75 | Kartenwechsel | „Wash day Done“ („Done“ rot unterstrichen) |
+| 27,0–27,5 | Nur die Decke | – |
+| 27,75–29,35 | Sticker-Einblendung | „2 FREE“ / „Pillow Cases“ / „worth £39.99“ (durchgestrichen) / „90-Night Trial“ |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook | 0–4,25 | Headline-Frage + „Covers washed this year: 52“ |
+| Problem | 4,25–10,25 | „Duvet: 0“ / „Not the cover, the duvet itself“ / „Exactly, never“ |
+| Verstärkung | 10,5–12,6 | Ursache: „It never fits the machine.“ |
+| Lösung | 12,75–15,4 | „This one does.“ |
+| Mechanismus | 15,5–20,5 | „Duvet + cover in one“ / „The cover is sewn in“ |
+| Beweis | 20,75–24,07 | nur die Demo („The WHOLE thing. In your machine“ + Waschmaschinen-Szene). Social Proof **fehlt** im Video |
+| Nutzen | 24,07–26,75 | „Dry in 2 hours“ / „Wash day Done“ |
+| Angebot | 27,75–29,35 | Sticker „2 FREE Pillow Cases / worth £39.99 / 90-Night Trial“ |
+| CTA | – | im Video **fehlt** er. Button „Shop now“ |
+
+**Wer ist zu sehen / wer spricht**
+- Nur POV-Hände (Geschlecht unklar) und eine Person an der Waschmaschine (Gesicht nur seitlich angeschnitten; Alter und Geschlecht nicht sicher bestimmbar, Schätzung 25–45). Kein Sprecher.
+- Einschätzung: **wahrscheinlich KI-generiert (nicht verifiziert).** Begründung:
+  - Der Kartentext verändert sich auf derselben Karte (6,25 vs. 7,0 s).
+  - Das Bedienfeld der Waschmaschine zeigt unlesbare Pseudo-Beschriftung (Frame 22,27 s).
+  - Die Geometrie von Waschmaschinentür und Glasring ist inkonsistent (23,25–23,75 s).
+
+**Setting:** Schlafzimmer (POV über schwarze Decke), Waschbereich mit hellem Holzboden.
+**Avatar:** hygienebewusste UK-Haushalte, die den Bezug wöchentlich, die Decke selbst aber nie waschen.
+**Angle:** **A** (primär: Decke wird nie gewaschen, „The WHOLE thing. In your machine“) + **C** („The cover is sewn in“) + **F-Angebot**. Im Primärtext zusätzlich **F-Knappheit/Farbe** („Hearth Red … almost gone“, „This week only“).
+**Haupt-Emotion:** Scham bzw. Ertapptsein („Be honest“, „Duvet: 0“, „Exactly, never“), dann Erleichterung („Wash day Done“).
+**Schnitttempo / Untertitel / Ton:** 0,68 echte Schnitte pro 10 s; visueller Wechsel durch Karten ca. alle 2–2,5 s. Keine Untertitel, der Text liegt als handschriftliche Karten und Sticker im Bild. Nur Musik.
+
+**Konkrete Zahlen und Behauptungen (wörtlich):** „Covers washed this year: 52“ · „Duvet: 0“ · „It never fits the machine.“ · „This one does.“ · „The cover is sewn in“ · „The WHOLE thing. In your machine“ · „Dry in 2 hours“ · „Wash day Done“ · „2 FREE Pillow Cases“ · „worth £39.99“ (durchgestrichen) · „90-Night Trial“. Primärtext: „This week only“, „ready for the colder nights“, „Hearth Red is the one everyone picks, and it's almost gone“, „wash it whole, dry in 2 hours“.
+
+**Angebotspräsentation:** Sticker am Ende: 2 Gratis-Kissenbezüge mit durchgestrichenem Wert „worth £39.99“, dazu „90-Night Trial“. Frist und Farbknappheit stehen nur im Primärtext.
+**Copy-Bruch:** Der Primärtext stellt Hearth Red (rot) heraus, das Video zeigt nur eine schwarze Decke.
+
+**Varianten-Hinweis**
+- Byte-identisch mit **177443532** (Start 2026-09-15, Score 1).
+- Gleiche Headline und gleicher Primärtext, aber anderes Video: **185228767** (Batch 3, Tog-Hook, Score 60).
+- Gleiche Headline, nicht geprüft: 193234216 und 193234218 (beide auf `/pages/tb-6`) sowie Bild-Ad 182988119.
+
+---
+
+#### Video 185228764 – Check This Before You Buy
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 185228764 / 492060894 |
+| Meta-ID | 3754498381550275 |
+| Ad Library | https://www.facebook.com/ads/library/?id=3754498381550275 |
+| share_url | https://app.gethookd.ai/share/ad/185228764?signature=c703896014750ef26ae392d8460d22d78a412a986b4bb954473b7a82371145bf |
+| Land / Plattformen | GB · facebook, instagram, audience_network, threads |
+| Start / Tage aktiv | 2026-09-27 / 12 (start_to_today, active) |
+| performance_score / used_count | 1 („Testing“) / 1 |
+| CTA | ORDER_NOW – „Order now“ |
+| Landingpage | https://pleene.com/products/easyrest (product_page) |
+| Link-Beschreibung | „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ |
+| Technik | 27,12 s · 720×1280 · 30 fps · AAC 44,1 kHz · mean −16,2 dB, max −0,9 dB, keine Stille |
+| Schnitte | 0,3: 5 (3,70 / 4,37 / 9,87 / 16,10 / 21,53) = 1,84 pro 10 s. 0,15: +7,53 / 18,77 / 25,07, alle drei visuell als echte Schnitte bestätigt. **8 Schnitte = 2,95 pro 10 s** (0–10: 4 · 10–20: 2 · 20–27,1: 2) |
+
+**Identität:** **byte-identisch mit dem Top-20-Video 168246678** (Batch 2, Score 100) und mit **200490712** (Batch 5), md5 `723e0be3…`. Die Tonspur ist zudem identisch mit **168246686** (Hook-Variante, Ton-Peak 1,000). Weil die Datei ein Top-20-Video ist, habe ich die Tiefenanalyse nach 3b gemacht: an jedem der 8 Schnitte einen Frame angesehen (3,90 / 4,57 / 7,73 / 10,07 / 16,30 / 18,97 / 21,73 / 25,27) plus alle 1 s.
+
+**Primärtext (wörtlich):** „Before you buy a coverless duvet, check three things: ✅ / ✓ Does the WHOLE thing fit a normal washing machine? / ✓ Is it dry in 2 hours without a tumble dryer? / ✓ Can you test it at home for 90 nights? / The Pleene EasyRest™: yes, yes and yes.“
+
+**Transkript:** GetHooked meldet `no_speech`. Audio-Check:
+- Spektrogramm (`wf/s2b7_audio/spec_773_764.png`, unten): Akkordblöcke und Beat-Transienten, keine Formanten.
+- Lokales Whisper halluziniert „Thanks for watching, see you next time.“ (0–25,76 s, no_speech_prob 0,68).
+- **Ergebnis: nur Musik.**
+
+**Hook (0–3 s):** gesprochen: keiner. Eingeblendet: „Before you buy a coverless duvet / check 3 things“ (weiße Sans mit Schatten, Bildmitte, 0–3,70). Bild: Draufsicht auf ein Bett mit salbeigrüner Steppdecke und grünen Kissen auf Jute-Teppich, Blumen auf dem Nachttisch, langsamer Push-in. Hook-Typ: Kaufcheckliste bzw. Einwand-Vorwegnahme.
+
+**Szenenliste (vollständig, an jedem Schnitt angesehen)**
+| Sek. | Szene | Einblendung (wörtlich) |
+|---|---|---|
+| 0–3,70 | Draufsicht: Bett mit salbeigrüner Decke, Push-in | „Before you buy a coverless duvet / check 3 things“ |
+| 3,70–4,37 | Waschküche (weiße Schränke, Fenster, Korb, Handtücher); Decke quillt aus offenem Frontlader | „1. Does the WHOLE thing / fit a normal washing machine?“ |
+| 4,37–7,53 | Nahaufnahme: Faust und Arm stopfen die Decke in die Trommel | dto.; ab spätestens 7,0 zusätzlich „Ours does. ✅“ |
+| 7,53–9,87 | Tür geschlossen bzw. halb geschlossen, Decke in der Trommel (Türgeometrie unscharf bzw. morphend) | dto. + „Ours does. ✅“ |
+| 9,87–16,10 | Heller Raum mit Regal und Fenster; Holz-Wäscheständer, Hand legt die Decke darüber und streicht sie glatt | „2. Is it dry in 2 hours / without a tumble dryer?“; ab spätestens 13,0 „2 hours. No dryer. ✅“ |
+| 16,10–18,77 | Abendliches Schlafzimmer mit Lampe, Bett mit grüner Decke | „3. Can you test it / at home for 90 nights?“; ab ca. 18 s fliegt „90 nights. Zero risk.“ groß ins Bild (bei 18,0 angeschnitten „…nts. Zero“) |
+| 18,77–21,53 | Nahaufnahme Deckentextur, Lampen-Bokeh | dto. + „90 nights. Zero risk. ✅“ |
+| 21,53–25,07 | Helles Schlafzimmer, Bett mit grüner Decke (Push-in) | „The Pleene EasyRest: yes, yes and yes.“ (bis mind. 23,0); bei 24,0 und 25,0 „On offer now — with 2 free pillow cases.“ |
+| 25,07–27,12 | Endkarte auf beige strukturiertem Hintergrund | „Pleene“ / „THE ORIGINAL“ / „2× Pleene™ Pillow Cases FREE“ / „Value £39.99“ / „90-Night Trial“ |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook | 0–3,7 | „Before you buy a coverless duvet check 3 things“ |
+| Problem | – | **fehlt** (nur implizit: Angst vor Fehlkauf) |
+| Verstärkung | – | **fehlt** |
+| Mechanismus | 3,7–21,5 | drei Prüfkriterien mit „Ours does.“ / „2 hours. No dryer.“ / „90 nights. Zero risk.“ |
+| Lösung | 21,5–ca. 23,5 | „The Pleene EasyRest: yes, yes and yes.“ |
+| Beweis | – | **fehlt** (nur Häkchen-Behauptungen und gerenderte Demo) |
+| Angebot | ca. 23,5–27,1 | „On offer now — with 2 free pillow cases.“ + Endkarte |
+| CTA | – | im Video **fehlt** er. Button „Order now“ |
+
+**Wer ist zu sehen / wer spricht:** keine Person, nur Hand und Arm, kein Sprecher. Bildmaterial **vermutlich KI-generiert (nicht verifiziert).** Begründung: makellose Render-Interieurs; dieselbe Decke in allen Räumen; die Tür des Frontladers morpht zwischen 7,0 und 8,0 s zu einem unplausiblen weißen Segment; weiche synthetische Kamerafahrten.
+**Setting:** Schlafzimmer (Draufsicht, abends, hell), Waschküche, Raum mit Wäscheständer, Endkarte.
+**Avatar:** lösungsbewusste, skeptische Vergleichskäufer, die „coverless duvets“ schon kennen.
+**Angle:** **F-Einwand/Kaufhilfe (Checkliste)** primär + **A** (ganze Decke in normaler Maschine waschen, ohne Trockner in 2 h trocken) + **F-Angebot** + Positionierung „THE ORIGINAL“ gegen Nachahmer.
+**Haupt-Emotion:** Neugier und Skepsis, dann Sicherheit und Vertrauen („Zero risk“).
+**Schnitttempo / Untertitel / Ton:** 2,95 Schnitte pro 10 s (Detektor 0,3: 1,84). Keine Untertitel, nur Text-Overlays mit grünen Häkchen-Emojis. Nur Musik.
+
+**Konkrete Zahlen und Behauptungen (wörtlich):** „check 3 things“ · „Does the WHOLE thing fit a normal washing machine?“ · „Ours does.“ · „Is it dry in 2 hours without a tumble dryer?“ · „2 hours. No dryer.“ · „Can you test it at home for 90 nights?“ · „90 nights. Zero risk.“ · „yes, yes and yes.“ · „On offer now — with 2 free pillow cases.“ · „THE ORIGINAL“ · „2× Pleene™ Pillow Cases FREE“ · „Value £39.99“ · „90-Night Trial“.
+
+**Angebotspräsentation:** 2 Gratis-Kissenbezüge, „Value £39.99“ (nicht durchgestrichen), „90-Night Trial“ / „Zero risk“. Keine Zeit- oder Farbknappheit.
+
+**Varianten-Hinweis**
+- Byte-identisch mit **168246678** (Top-20, Score 100, Start 2026-08-29) und **200490712** (Start 2026-10-06, nach 2 Tagen inaktiv).
+- Hook-Variante **168246686** (Score 86, „Seen coverless duvets all over your feed?“; Ton identisch, Bild ab 3,7 s identisch laut Batch 2).
+- Gleicher Primärtext: 168246672 (inaktiv, nicht geprüft).
+- **Befund:** Dieselbe Gewinner-Datei steht unter dieser ID nach 12 Tagen nur bei Score 1.
+
+---
+
+#### Video 185395501 – Pleene
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 185395501 / 492316503 |
+| Meta-ID | 4386478151596961 |
+| Ad Library | https://www.facebook.com/ads/library/?id=4386478151596961 |
+| share_url | https://app.gethookd.ai/share/ad/185395501?signature=015f1978dac5f9d276bb167b0564e2fe687605d8c9ad005f1b15479977650936 |
+| Land / Plattformen | `countries: []` (n/a) · facebook, instagram, audience_network, **whatsapp**, threads · Sprache en |
+| Start / Tage aktiv | 2026-09-28 / 11 (start_to_today, active) |
+| performance_score / used_count | 1 („Testing“) / 1 |
+| CTA | SHOP_NOW (cta_text null, n/a) |
+| Landingpage | https://pleene.com/products/easyrest-comforter (page_type null). Laut `s3_funnel.md` ist das die **US/CA-Produktseite** |
+| Link-Beschreibung | null (n/a) |
+| Technik | 9,00 s · 720×1280 · 30 fps · **keine Tonspur** |
+| Schnitte | 0,3 und 0,15: 3,00 / 6,00. **2 Schnitte = 2,22 pro 10 s**. Die drei Segmente sind **Standbilder** (Frame-Differenz innerhalb der Segmente ≤ 0,25) |
+| creative_insights (nur Text-Pass) | Copy voice „Regular person“, Written hook „Problem“, Angle „Problem / solution“, Secondary „Benefits“, Desire „Save time“, Awareness „Problem aware“, Tone „Relatable“, Claims „No claims“, Offer „No offer in ad copy“ |
+
+**Primärtext (wörtlich):** „Nothing beats getting into a freshly made bed. Pleene EasyRest™ makes it easier with an all-in-one, machine-washable comforter and no separate cover to change.“
+
+**Transkript:** keins. GetHooked-Status `failed`, auch nach erneutem `transcribe_ads`. **Grund: Die Datei hat keine Tonspur** (ffprobe zeigt nur einen Videostream). Es gibt also weder Sprache noch Musik.
+
+**Hook (0–3 s):** gesprochen: keiner (stumm). Eingeblendet: navyblaue Karte „One Comforter. / No Separate / Cover.“ + „Pleene.“ (Serifenschrift, weiß). Bild: Produktfoto, Bett mit blauer Steppdecke („Coastal Blue“-ähnlich, Farbname nicht verifiziert), Metall-Bettgestell, Jute-Teppich, weiße Vorhänge. Hook-Typ: Produktversprechen bzw. USP-Statement, kein Problem-Hook.
+
+**Szenenliste (vollständig, alle 0,5 s angesehen)**
+| Sek. | Bild | Einblendung (wörtlich) |
+|---|---|---|
+| 0–3,00 | Standbild: Bett mit blauer Steppdecke, Karte oben links | „One Comforter. / No Separate / Cover.“ · „Pleene.“ |
+| 3,00–6,00 | Standbild: quadratisches Bild einer beigen Steppdecke, oben und unten unscharf vergrößerte, abgedunkelte Kopie als Füllung | „Always the right temperature.“ / „Pleene™ Microfiber Technology“ / „✓ Cool in summer“ / „✓ Warm in winter“ / „✓ No sweating. No freezing.“ |
+| 6,00–9,00 | Standbild: Frau sitzt lächelnd auf einem Bett mit beiger Decke (Bücherregal-Kopfteil, Fenster), oben und unten unscharfe Füllung | „Susan, 62: „Was skeptical about the hygiene at first, but here everything gets clean in one wash. Climbing into a fresh clean duvet straight from the shower — absolutely amazing😍“ · Badge „10,000+ people enjoy sleeping with the Pleene™ Duvet“ |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook | 0–3 | „One Comforter. No Separate Cover.“ |
+| Problem | – | **fehlt** (nur im Primärtext implizit: Bezug wechseln) |
+| Verstärkung | – | **fehlt** |
+| Lösung | 0–3 | „One Comforter. No Separate Cover.“ (Hook = Lösung) |
+| Mechanismus | 3–6 | „Always the right temperature. Pleene™ Microfiber Technology“ + 3 Häkchen |
+| Beweis | 6–9 | Testimonial „Susan, 62“ + „10,000+ people enjoy sleeping with the Pleene™ Duvet“ |
+| Angebot | – | **fehlt** (auch laut creative_insights „No offer in ad copy“) |
+| CTA | – | im Video **fehlt** er. Button SHOP_NOW |
+
+**Wer ist zu sehen / wer spricht:** Im dritten Bild eine Frau, geschätzt 55–65 (laut Karte „Susan, 62“), schulterlanges braunes Haar, graues T-Shirt, schwarze Hose. Es ist ein Foto; ob echt oder KI-generiert, ist **nicht verifiziert**. Ob „Susan“ eine echte Kundin ist, ist ebenfalls **nicht verifiziert**. Die beiden anderen Bilder sind Produktfotos ohne Person. Kein Sprecher, kein Ton.
+**Setting:** Schlafzimmer (Produktfoto), Nahaufnahme Steppdecke, Schlafzimmer der Testimonial-Person.
+**Avatar:** vermutlich US-Käufer (Wortwahl „Comforter“, US-Landingpage), dazu ältere Frauen (60+) mit Hygiene- und Bequemlichkeitsmotiv. Markt nicht verifiziert, weil die Länderliste leer ist.
+**Angle:** **C** (primär: „No Separate Cover“, Primärtext „no separate cover to change“) + **B** („Cool in summer / Warm in winter / No sweating. No freezing.“) + **A** (Testimonial: „Was skeptical about the hygiene … everything gets clean in one wash“) + **F-Social-Proof** („10,000+ people“).
+**Haupt-Emotion:** Ruhe und Vertrauen bzw. Wohlgefühl („fresh clean duvet straight from the shower“), keine Problem-Emotion.
+**Schnitttempo / Untertitel / Ton:** 2,22 Bildwechsel pro 10 s (Diashow). Keine Untertitel, nur Text-Overlays. **Kein Ton.**
+
+**Konkrete Zahlen und Behauptungen (wörtlich):** „One Comforter. No Separate Cover.“ · „Always the right temperature.“ · „Pleene™ Microfiber Technology“ · „Cool in summer“ · „Warm in winter“ · „No sweating. No freezing.“ · „Susan, 62“ · „everything gets clean in one wash“ · „10,000+ people enjoy sleeping with the Pleene™ Duvet“. Primärtext: „all-in-one, machine-washable comforter“. Keine Tog-Angabe, keine Trocknungszeit, keine Preise.
+
+**Angebotspräsentation:** keine.
 
 **Auffälligkeiten**
+- Die Wortwahl ist gemischt: „Comforter“ auf Karte 1, „Duvet“ im Testimonial und im Badge.
+- Das Testimonial beginnt mit einem deutschen Anführungszeichen „„“. Interpretation (nicht verifiziert): Die Vorlage wurde vermutlich von einem deutschsprachigen Team gesetzt.
 
-1. **Start-Welle 01.08.2026:** 37 Bewertungen zwischen 18:11 und 23:14 UTC als allererste Bewertungen des Profils (33× 5★, 3× 4★, 1× 3★), dazu 13 am 02.08. = 50 Bewertungen (17 % aller) in zwei Tagen. Erlebnisdaten 26.06.–01.08.2026. Die Konten sind etablierte Trustpilot-Nutzer (Median 9 Bewertungen, nur 2 Erstbewerter), Texte individuell mit Details und Kritik (z. B. T008 Knitterfalten, T036 Upsell-Ärger). Das Muster passt zu einer einmaligen Aufforderung an Bestandskunden per E-Mail/Link (Quelle „Organic“, nicht „Invited“); nicht verifiziert. Hinweise auf gefälschte Inhalte: keine.
-2. **Judge.me-Foto-Serie 06.06.2026:** J004–J011 entstanden zwischen 07:36:42 und 07:40:05 UTC (8 Bewertungen in 3 Min. 23 Sek.), alle mit genau 1 Foto, alle „review_collected_from_store_visitor“, keine verifiziert, Namen im Format „Vorname + Initial“ („Emma T.“, „Payton R.“ …). Sie sind **die einzigen Foto-Bewertungen** und bilden die Foto-Galerie des Widgets. Die Fotos (gesichtet, 8 Bilder) zeigen Schlafzimmer mit Merkmalen, die eher auf kontinentaleuropäische Wohnungen hindeuten (u. a. Dreh-Kipp-Fenster, zwei getrennte Decken bzw. Matratzen im Doppelbett, Heizkörper unter dem Fenster; Bildeindruck, nicht verifiziert), während ein Text "Best wishes from Birmingham" sagt. Verdacht auf hinterlegte Startbewertungen, nicht verifiziert. Texte: J004 "Lovely bedding — washes and dries in no time, and so comfy to sleep under. Top marks 👍"; J005 "Washed it once at 30° on a 400 spin: colour and texture completely unchanged. Really impressed"; J006 "Just brilliant, this duvet. Sleeping really well and it matches the room nicely too. No more faffing about changing covers!"; J007 "Sooo good. Absolutely over the moon with it and I've been telling all my friends."; J008 "We're really pleased with it. I've already got one for my kids too, and I'll be ordering another for the little ones soon. Have a lovely evening 🤗 Best wishes from Birmingham."; J009 "Lovely."; J010 "Really good — so lovely and soothing to sleep under."; J011 "Gorgeous duvet. It really was dry in about 2 hours after washing."
-3. **Judge.me-Bewertungen vor dem Shop-Start:** J001 (2025-08-03, Badge „another provider“, "totally transformed my mornings": "the bed takes 90 seconds now. my morning is completely different. better."); J002 (2025-11-15, Badge „another provider“, "quiet life improvement": "not dramatic but real. my life is just a little bit better because of this. that adds up."); J003 (2026-04-28, Badge „another provider“, "so glad i took the plunge": "ummed and ahhed for ages. so glad i finally bought it."). Sie liegen vor den ersten verifizierten Käufern (J012–J014, 21.–23.06.2026) und vor dem Trustpilot-Profil, sind kleingeschrieben und generisch; Herkunft n/a, nicht verifiziert.
-4. **Kuratierter Trustpilot-Import** (siehe 4.2): 0 von 6 negativen und 0 von 7 China-Erwähnungen übernommen; 20 Sternwerte beim Import verändert; seit 12.09. kein Import mehr.
-5. **Internationalisierung ab September:** Außerhalb GB im August 0, im September 11 von 133, im Oktober 13 von 44 (30 %): AU 12, CA 6, US 3, CY 1, JE 1, FR 1. 10 Trustpilot-Bewertungen betreffen das zweite Produkt ZipSheet (T158, T169, T217, T224, T226, T250, T264, T274, T283, T284), alle aus AU/US/CA.
-6. **Lieferzeit-Kritik im September:** 34 von 133 (26 %) gegenüber 11 von 114 (10 %) im August und 6 von 44 (14 %) im Oktober.
-7. **Mehrfach-Bewerter und Dubletten:** 10 Konten mit 2–3 Bewertungen (z. B. „Andrea“ T215, T247, T290; „Robin Lewis“ T168, T285 nach Zweitkauf). Zwei verschiedene Konten „Herbert Lawrence“ (T063, 2 Bewertungen gesamt) und „HERBERT LAWRENCE“ (T065, 32 Bewertungen) schrieben im Abstand eines Tages fast denselben Inhalt: "I immediately noticed the difference in weight from my old duvet with the cover." (T063, 5★) / "I immediately felt the weight difference between my old duvet and the Pleene, so much lighter." (T065, 5★). Bedeutung nicht verifiziert.
-8. **Inhalte, die nicht zum Produkt passen:** ZipSheet-Bewertungen auf demselben Profil (s. o.); T220 "Such lovely good quality clothing"; Konto „Stanton Approved vehicles“ (T073); Markenname falsch geschrieben („Preene“ T009/T158, „Plebe“ T139, „Plein/Plien“ T256), was eher für echte Kunden spricht.
-9. **Gewinnspiel-Hinweis:** T177 schreibt "I would really welcome winning another quilt". Die Produktseite bewirbt ein Newsletter-Gewinnspiel ("Win a free Duvet … One subscriber wins a duvet of their choice every month."). Ein Zusammenhang mit Bewertungen ist nicht verifiziert; Trustpilot meldet `hasCollectedIncentivisedReviews: false`. T290 erwähnt einen "friends discount" (Empfehlungsrabatt).
-10. **Nachträgliche Änderungen:** T185 (5★) beginnt mit "Avoid this company like the plague." und endet nach Kontakt durch Pleene mit Empfehlung (aktualisiert 07.10.); T244 (4★) besteht nur aus "Refunded in full" (aktualisiert 07.10.).
+**Varianten-Hinweis:** Kein MD5- oder Ton-Treffer (keine Tonspur). Thematisch verwandt mit den US-Ads 200490654/655/656 (Batch 6), die ebenfalls auf `/products/easyrest-comforter` laufen. Ob die drei Standbilder auch als Bild-Ads laufen, ist nicht geprüft.
 
-### 4.7 Käuferprofil
+---
 
-**Geografie:** 267 von 291 Trustpilot-Bewertungen aus GB (91,8 %), dazu AU 12, CA 6, US 3, CY, JE, FR je 1. Judge.me zeigt kein Land (n/a).
+#### Video 193234224 – The Duvet You Can Actually Wash
 
-**Geschlecht (Schätzung über Vornamen/Anrede der 280 Trustpilot-Konten, nicht verifiziert):** männlich 157 (56 %), weiblich 88 (31 %), unklar 35 (13 %). Anreden: „Mr“ 20, „Mrs/Miss/Ms“ 10. Einschränkung: Der Kontoinhaber ist nicht unbedingt der Nutzer; mehrere Männer schreiben für Paare oder die Ehefrau (T003, T064, T140), Frauen für Paare (T054, T166).
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 193234224 / 511605758 |
+| Meta-ID | 1614086653522933 |
+| Ad Library | https://www.facebook.com/ads/library/?id=1614086653522933 |
+| share_url | https://app.gethookd.ai/share/ad/193234224?signature=e67f0112dff4be83367fd2663a38a3c667a76a33044371dae7cb5e0307b1035b |
+| Land / Plattformen | GB · facebook, instagram, audience_network, threads |
+| Start / Ende / Tage | 2026-10-01 / **2026-10-07 (inactive)** / 7 (start_to_end_date); enriched: 8, aktiv |
+| performance_score / used_count | **null (n/a)**; enriched: 1 / used_count 1 |
+| CTA | ORDER_NOW – „Order now“ |
+| Landingpage | https://pleene.com/pages/tb-6 (Advertorial; laut S3 Pre-Lander für Angle C/F-Social-Proof, alle CTAs → `/products/easyrest`) |
+| Link-Beschreibung | „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ |
+| Technik | 48,67 s · 720×1280 · **25 fps** · AAC 44,1 kHz · mean −15,3 dB, max −1,2 dB; einzige Stille 47,20–48,55 s (Ende) |
+| Schnitte | 0,3: 10 (4,12 / 7,12 / 11,12 / 15,12 / 19,12 / 21,80 / 35,12 / 40,12 / 43,12 / 44,60); 0,15: +16,44 / 25,12 / 27,12 / 30,12 / 38,08, alle per Framepaar als Schnitt bzw. Jump-Cut bestätigt. **15 Schnitte = 3,08 pro 10 s** (0–10: 2 · 10–20: 4 · 20–30: 3 · 30–40: 3 · 40–48,7: 3); nur 0,3: 2,05 pro 10 s |
 
-**Alter:** Ausdrückliche Altersangaben oder Seniorenhinweise in 16 Bewertungen, keine einzige deutet auf jüngere Käufer hin:
-- "My wife and I are in our 80's" (T003, 5★)
-- "the duvet arrived the day before my 84th!" (T133, 5★)
-- "I am in my late 70s" (T066, 5★)
-- "I’m a 77 years old disabled woman" (T269, 5★)
-- "I am 72 years old" (T284, 5★)
-- "Being 66 with a bad back" (T274, 5★)
-- "helped an old man" (T001, 5★)
-- "( you have to be old to get this)" (T002, 5★)
-- "as old age advances" (T103, 5★)
-- "So easy for the elderly people like myself to handle." (T137, 5★)
-- "I am elderly, not too fit & am now a widower" (T177, 5★)
-- "We are elderly and making the bed now is a breeze." (T253, 5★)
-- "Now that I’m not a spring chicken" (T175, 5★)
-- "perfect for the lazy persons, busy house wife or elderly people." (T105, 5★)
-- "Purchased Zip on Bed Sheets for my elderly mother." (T283, 5★)
-- "despite age and arthritis" (T249, 5★)
+**Primärtext (wörtlich):** „You shower every night — then sleep under a duvet that's never been washed. Not because you're lazy: normal duvets don't fit normal machines. Ours does. And it's dry in 2 hours.“
 
-**Gesundheit und Mobilität (26 Bewertungen):** Arthritis (T064 Hände der Ehefrau, T074 Hände, T249, T286 Beine), Gelenke (T047), Rücken (T046 Rücken-OP, T078 "Back pains", T274, T284), Beine (T126 Bein-OPs, T134 "leg problems"), eingeschränkte Mobilität/Behinderung (T025, T079, T162, T269, T290), Herz (T043), Krebs/Chemotherapie (T070 "secondary breast cancer", T231 Schlaganfall + Lymphom), Diabetes/Angst (T079), diabetische Neuropathie (T212), Verletzungen (T072 Gefahr, T158 zwei gebrochene Zehen, T168 Autounfall), Erschöpfung (T095, T257), Maske in der Nacht (T102 "Have to wear a mask at night", Art der Maske n/a).
+**Transkript:** GetHooked liefert eine sinnlose Zeichenfolge in **Kannada-Schrift** (0–30 s und 30–48,55 s), z. B. „ಟರಕತತಲತಗರಾಮದನ ನಂಖವಾದರಕರಚಲನದನ …“. Das ist **eindeutig fehlerhaft** (falsche Sprache bzw. Halluzination). Audio-Check:
+- Pegel: mean −15,3 dB. Keine Pause bis 47,2 s, dann Stille bis zum Ende.
+- Spektrogramme (`wf/s2b7_audio/193234224_spec.png`, Detail 5–15 s `193234224_spec_5_15.png`): flache, tonhöhenstabile Harmonische (z. B. Linien bei ca. 2,6 / 2,9 / 3,3 kHz) und regelmäßige Beat-Transienten im Abstand von ca. 0,33 s. Muster wiederholen sich ca. alle 6,4 s. **Keine gleitenden Formanten, keine Sprechpausen.** Die Sprach-Referenz 184134616 sieht im gleichen Maßstab deutlich anders aus.
+- Lokales Whisper (`small.en`) erkennt nur „🎵“ (0–29,32 s, no_speech_prob 0,41), danach nichts.
+- **Ergebnis: nur Musik, keine Sprache.** ElevenLabs war nicht nötig (und technisch nicht verfügbar, siehe Methodik).
+- Auffällig: Personen bewegen im Bild die Lippen (z. B. Mann im Bett bei 29 s und 33 s), es ist aber keine Stimme zu hören. Der Original-Ton der UGC-Clips wurde also durch Musik ersetzt (Interpretation).
 
-**Lebenssituation:**
-- Witwer/allein: T029 ("after my wife passed away"), T177 und T236 (Witwer), T079 ("I live on my own"), T268 ("especially on your own"), T251 (Trauer nach zwei Todesfällen).
-- Paare: zahlreich ("we", "my wife", "my husband"), u. a. T003, T054, T064, T108, T140, T166, T202, T232, T279.
-- Kinder kaufen für Eltern / Käufer kaufen für Kinder: T171 ("Ordered for mother.. she can be fussy with what she buys.. I Trustpilot.. I read reviews"), T283 (ZipSheet für die ältere Mutter), T196, T200, T289 (für den Sohn), J008 (für die Kinder), T252 (für einen Freund), T133 (Geburtstagsgeschenk an sich selbst).
-- Einsatzorte: Gästezimmer/Zweitbett (T027, T087, T094, T172, T175, T258, T290), Ferienhaus (T251), Campervan (T072), Dachzelt/„rooftop“ (J014), „busy household“ (T058, T123 ganzer Haushalt).
-- Haustiere: Katzen (T067, T177).
-- Kälteempfindliche bzw. Paare mit unterschiedlichem Wärmeempfinden: T289, T054, T166.
+**Format:** Über das gesamte Video läuft eine **scrollende Liste aus 18 Textboxen** (weiße Kästen, schwarze fette Sans, Schlüsselwörter rot bzw. grün, Emojis). Bei 0 s sind die Boxen 1–4 schon sichtbar. Die Liste scrollt gleichmäßig nach oben, etwa alle 3 s rückt eine neue Box unten ins Bild. Am Ende bleiben die Boxen 15–18 stehen.
 
-**Allergiker:** nur 1 Hinweis (T202, verstopfte Nase). **Wechseljahre:** 0 ausdrückliche Erwähnungen; Nachtschweiß/Schwitzen in 3 Bewertungen, alle von Männerkonten (T057 „Mr Gibbie“, T105 „Janos Madar“, T170 „Nicholas Roberts-Pendragon“). Angle B wird von Käufern als Sommerhitze/Winterkälte erlebt, nicht als Wechseljahresthema.
+**Einblendungen (vollständig, wörtlich, in Reihenfolge; Zeit = erstmals vollständig sichtbar, ca.)**
+| # | Sek. | Text (Farbe der Hervorhebung) |
+|---|---|---|
+| 1 | 0 | „Sorry, but your duvet is probably the dirtiest thing in your bedroom 🤢“ |
+| 2 | 0 | „Your duvet doesn't fit in the washing machine“ („doesn't fit“ rot) |
+| 3 | 0 | „So it stays unwashed. Sweat. Dust mites. 🤢“ („unwashed.“ und „Sweat. Dust mites.“ rot) |
+| 4 | 0 | „Only the cover gets changed. The same ritual every week:“ |
+| 5 | ca. 1,5 | „Cover off. Find the corners. Squeeze the filling back in 😠“ (zweiter Satzteil rot) |
+| 6 | ca. 4 | „For the rest of your life.“ |
+| 7 | ca. 6,5 | „The problem isn't your bed linen. The problem is your duvet ❌“ („problem“ rot) |
+| 8 | ca. 10 | „The Pleene EasyRest: duvet and cover in one ✅ No cover changing ✅“ („duvet and cover in one“ grün) |
+| 9 | ca. 13 | „The whole thing goes in the washing machine. Dry in two hours ☀️“ („washing machine. Dry in two hours“ grün) |
+| 10 | ca. 15,5 | „Climate-regulating fibres balance your temperature automatically“ („temperature“ grün) |
+| 11 | ca. 19 | „No sweating in summer 🥵❌ No freezing in winter 🥶❌“ |
+| 12 | ca. 22 | „Over 10,000 people have switched. 96% would never go back ⭐⭐⭐⭐⭐“ („10,000“ und „96%“ grün) |
+| 13 | ca. 25 | „Peter R. ordered himself a second one straight away“ („second one“ grün) |
+| 14 | ca. 28 | „Ruth S. now washes hers every week — because of her allergies“ („allergies“ grün) |
+| 15 | ca. 31 | „First night: lighter. First week: wash day done in two hours. After a month:“ („lighter.“ und „two hours.“ grün) |
+| 16 | ca. 34 | „no more 'I really should change the covers' ✅“ („change“ grün) |
+| 17 | ca. 37 | „On offer right now: 2 free pillow cases 🎁 90-night sleep trial.“ („2 free“ und „90-night“ grün) |
+| 18 | ca. 40 | „Link below ⬇“ |
 
-**Kaufverhalten:** In 28 Bewertungen werden 2 oder mehr Decken bzw. Sets genannt, 50 positive Bewertungen (18 %) erwähnen Wiederkauf, weitere Betten oder Gäste. 14 Bewertungen verweisen auf die Werbung bzw. Werbeversprechen (z. B. T052 "I saw the ad on Facebook", T098 "I only saw the advert on facebook", T175 "I was positively beaming when I saw the Pleene advertisement", T192 "claims by companies on FB").
+**Hook (0–3 s)**
+- Gesprochen: keiner (nur Musik).
+- Eingeblendet: Box 1 „Sorry, but your duvet is probably the dirtiest thing in your bedroom 🤢“. Gleichzeitig sichtbar sind die Boxen 2–4 (und ab ca. 1,5 s Box 5).
+- Bild: Ein älterer Mann mit Glatze (Waffel-Bademantel, karierte Pyjamahose) zieht in einem Schlafzimmer mit Terrakotta-Fliesen und Tiffany-Deckenlampe einen bunt gestreiften Boho-Bezug vom Bett.
+- Hook-Typ: Ekel- bzw. Schock-Behauptung mit „Sorry, but…“-Pattern-Interrupt, als Textwand.
 
-**Bewertungsverhalten:** Die Bewerter sind erfahrene Trustpilot-Nutzer (Median 10 Bewertungen pro Konto) und schreiben kurz (Median 198 Zeichen).
+**Szenenliste (vollständig, an jedem Schnitt angesehen)**
+| Sek. | Szene |
+|---|---|
+| 0–4,12 | Älterer Mann (Glatze, ca. 65–75, Bademantel) zieht den bunten Boho-Bezug vom Bett; Terrakotta-Fliesen, Tiffany-Lampe |
+| 4,12–7,12 | Küche mit blau-weiß gemusterten Fliesen: bärtiger Mann (ca. 30–40, ärmelloses Shirt) kniet vor einer silbernen Waschmaschine und stopft Bettzeug hinein |
+| 7,12–11,12 | Schlafzimmer mit grüner Wand und marokkanischer Hängelampe: Mann im Hintergrund am Bett mit zerknülltem grünem Bettzeug, Topper auf der Matratze |
+| 11,12–15,12 | Frau (ca. 35–45, dunkler Pferdeschwanz, weißes T-Shirt, karierte Pyjamahose) kniet auf dem Bett und kämpft eine weiße Decke in einen geblümten Bezug |
+| 15,12–16,44 | Älterer Mann hält eine **schwarze EasyRest** vor sich hoch (Terrakotta-Zimmer) |
+| 16,44–19,12 | Derselbe Mann (grünes T-Shirt) wirft die schwarze Decke aufs Bett |
+| 19,12–21,80 | Küche mit **Samsung**-Frontlader und rotem Toaster: Frau (weißes T-Shirt, karierte Pyjamahose) lädt eine helle Decke ein |
+| 21,80–25,12 | Frau (ca. 40–50, dunkles Haar) sitzt im Bett unter beiger Decke und schaut in die Kamera; gepolstertes blaues Kopfteil |
+| 25,12–27,12 | Frau (weißes T-Shirt, karierte Hose) breitet eine helle Decke auf dem Bett aus |
+| 27,12–30,12 | Bärtiger Mann (Tanktop, Smartwatch) liegt unter grauer Decke und spricht lautlos in die Kamera |
+| 30,12–35,12 | Jump-Cut: derselbe Mann, entspannt mit geschlossenen Augen |
+| 35,12–38,08 | Draufsicht: Hand streicht über eine navyblaue Decke, oranger Teppich mit Rautenmuster |
+| 38,08–40,12 | Jump-Cut, gleiche Szene |
+| 40,12–43,12 | POV: Hand mit Armbanduhr drückt auf eine schwarze Decke |
+| 43,12–44,60 | Älterer Mann liegt lächelnd unter schwarzer Decke (Selfie) |
+| 44,60–48,67 | Älterer Mann im Bademantel sitzt auf dem Bett mit schwarzer Decke, hält zwei schwarze Kissenbezüge hoch und lacht |
+
+**Aufbau**
+| Baustein | Sek. (Box) | Inhalt |
+|---|---|---|
+| Hook | 0–3 (1) | „Sorry, but your duvet is probably the dirtiest thing in your bedroom 🤢“ |
+| Problem | 0–3 (2–3) | „doesn't fit in the washing machine“, „stays unwashed. Sweat. Dust mites.“ |
+| Verstärkung | 0–ca. 7 (4–7) | Wochenritual, „Cover off. Find the corners. Squeeze the filling back in 😠“, „For the rest of your life.“, Reframe „The problem isn't your bed linen. The problem is your duvet ❌“ |
+| Lösung | ca. 10 (8) + Bild 15,1–19,1 | „duvet and cover in one ✅ No cover changing ✅“; Produkt (schwarz) im Bild |
+| Mechanismus | ca. 13–19 (9–11) | ganze Decke in die Waschmaschine, „Dry in two hours“, „Climate-regulating fibres“, „No sweating … No freezing“ |
+| Beweis | ca. 22–28 (12–14) | „Over 10,000 people have switched. 96% would never go back ⭐⭐⭐⭐⭐“, „Peter R.“, „Ruth S.“; dazu Future Pacing ca. 31–34 (15–16) |
+| Angebot | ca. 37 (17) | „On offer right now: 2 free pillow cases 🎁 90-night sleep trial.“ |
+| CTA | ca. 40 (18) | „Link below ⬇“ (explizit im Video) + Button „Order now“ |
+
+**Wer ist zu sehen / wer spricht**
+- **Echte Personen (UGC-/Creator-Footage), Herkunft nicht verifiziert.** Begründung: Handkamera, reale Wohnungen mit Alltagsgegenständen, natürliche Gesichter und Bewegungen, keine Render-Artefakte.
+  - Älterer Mann, ca. 65–75 (Glatze, weiße Bartstoppeln), in drei Einstellungen.
+  - Bärtiger Mann, ca. 30–40 (Tanktop, Smartwatch), vermutlich in Küche, grünem Schlafzimmer und Bett.
+  - Frau, ca. 35–50 (dunkles Haar, weißes T-Shirt, karierte Pyjamahose), in mehreren Einstellungen.
+- Niemand spricht hörbar. Ton: nur Musik.
+
+**Setting:** mehrere Schlafzimmer (Terrakotta, grüne Wand, blaues Kopfteil, oranger Teppich), zwei Küchen mit Waschmaschine.
+**Avatar:** hygienebewusste UK-Haushalte, zusätzlich ältere Menschen (gezeigter Senior) und Allergiker („Ruth S.“).
+**Angle:** **A** (primär: „dirtiest thing in your bedroom“, „Sweat. Dust mites.“, ganze Decke waschen) + **C** (Wochenritual, „No cover changing“) + **B** („Climate-regulating fibres“, „No sweating … No freezing“) + **F-Social-Proof** („10,000“, „96%“, zwei Testimonials) + **F-Angebot**.
+**Haupt-Emotion:** Ekel (🤢, „dirtiest thing“) → Frust (😠, Wochenritual) → Erleichterung (Future Pacing, lachender Senior).
+**Schnitttempo / Untertitel / Ton:** 3,08 Schnitte pro 10 s (nur 0,3: 2,05). Keine Untertitel im engeren Sinn, sondern eine scrollende Textbox-Liste mit Farbbetonungen und Emojis. Nur Musik (Musik in keinem anderen geladenen Video gefunden).
+
+**Konkrete Zahlen und Behauptungen (wörtlich):** „probably the dirtiest thing in your bedroom“ · „Your duvet doesn't fit in the washing machine“ · „Sweat. Dust mites.“ · „The same ritual every week“ · „For the rest of your life.“ · „The whole thing goes in the washing machine. Dry in two hours“ · „Climate-regulating fibres balance your temperature automatically“ · „No sweating in summer … No freezing in winter“ · „Over 10,000 people have switched.“ · „96% would never go back“ · „Peter R. ordered himself a second one straight away“ · „Ruth S. now washes hers every week — because of her allergies“ · „First week: wash day done in two hours“ · „2 free pillow cases“ · „90-night sleep trial“. Primärtext: „You shower every night — then sleep under a duvet that's never been washed.“, „normal duvets don't fit normal machines. Ours does.“, „dry in 2 hours“. Kein Preis, kein £-Wert, keine Tog-Angabe.
+- Querbefund: Die Landingpage tb-6 nennt laut S3 „7,000+“ Kunden, die Ad „Over 10,000“.
+
+**Angebotspräsentation:** Box 17 „On offer right now: 2 free pillow cases 🎁 90-night sleep trial.“, danach „Link below ⬇“. Kein £-Wert, keine Frist, keine Farbknappheit.
+
+**Varianten-Hinweis**
+- **Skript:** verdichtete Textfassung des Hygiene-VO von **133366534** (Top-20) = **193234275** = **193234279** (Batch 1/3). Gleiche Abfolge: dirtiest thing → doesn't fit → sweat/dust mites → Wochenritual → „For the rest of your life“ → „The problem isn't your bed linen“ → duvet and cover in one → ganze Decke in die Maschine / 2 h → Temperatur → 10,000 / 96% → zwei Testimonials → First night / first week / after a month → Angebot → Link. Geändert: „Peter R.“ und „Ruth S.“ statt „George“ und „Sarah“; „Hypoallergenic“, „Even without a dryer“ und Geld-zurück fehlen.
+- **Footage** (visuell abgeglichen, `wf/s2b7_sheets/193234224_cmp.jpg`; Frame-Identität nicht geprüft):
+  - Älterer Mann im Bademantel mit schwarzen Kissenbezügen (44,6–48,7) = Schlussbild von **178749251** (31,3–34,4).
+  - Senior unter dunkler Decke (43,1) ≈ 178749251 bei 11,5.
+  - Hand auf navy Decke mit orangem Teppich (35–40) ≈ 178749251 bei 7,5.
+  - Bärtiger Mann unter grauer Decke (27–35) = Creator aus **145443318/145443331** (gleiche Einstellung wie 178749251 bei 14,0).
+  - Grünes Schlafzimmer (7–11) = 145443318 bei 3,0.
+  - Küche mit Samsung-Frontlader und rotem Toaster (19–22) = Küche der US-Creatorin aus **200490655** (Batch 6).
+- Gestartet am selben Tag (2026-10-01) wie 193234275 und 193234221; ebenfalls auf tb-6: 193234279, 193234216, 193234218.
+
+---
+
+##### Hygiene-Zitate Batch 7
+
+Alle Stellen mit Milben, Bakterien, Schweiß, Waschen, Trocknen oder Temperatur, wörtlich mit Ad-ID und Sekunde. T = Transkript (gesprochen), E = Einblendung bzw. Untertitel, P = Primärtext, L = Link-Beschreibung, H = Headline.
+
+| Ad | Sek. | Quelle | Thema | Zitat (wörtlich) |
+|---|---|---|---|---|
+| 184134616 | 0,00–4,28 | T | Waschen | „Every wash day, my duvet cover turns into a demented octopus.“ |
+| 184134616 | 0–1,3 | E | Waschen | „EVERY WASH DAY“ |
+| 184134616 | 18,72–23,60 | T | Waschen | „When it needs washing, the whole thing goes into your normal 7kg washing machine, then“ |
+| 184134616 | 18,75–23,0 | E | Waschen | „WHEN IT NEEDS WASHING“ · „THE WHOLE THING GOES INTO YOUR“ · „NORMAL“ · „7 KILOGRAM WASHING MACHINE“ |
+| 184134616 | 23,60–27,04 | T | Trocknen | „the tumble dryer, and it's dry in two hours.“ |
+| 184134616 | 23,5–26,5 | E | Trocknen | „THEN THE TUMBLE DRYER AND IT'S“ · „DRY IN TWO HOURS“ |
+| 184134616 | 27,04–32,24 | T | Temperatur | „It's 10.5 tog, so it's every bit as warm as a winter duvet, just without the weight,“ |
+| 184134616 | 27,0–30,5 | E | Temperatur | „IT'S 10.5 TOG“ · „SO IT'S EVERY BIT AS WARM“ · „AS A WINTER DUVET“ |
+| 184134616 | 32,24–35,72 | T | Temperatur/Schweiß (implizit) | „and the breathable fibres mean it never feels stuffy on you.“ |
+| 184134616 | 31,5–34,5 | E | Temperatur | „THE WEIGHT AND THE BREATHABLE FIBERS“ · „MEAN IT NEVER FEELS STUFFY ON“ |
+| 184134616 | 35,72–39,08 | T | Frische | „I swear to you, my bed always feels fresh.“ (UT „ALWAYS FEELS FRESH“ 37,5–38,0) |
+| 184134616 | – | P | Waschen/Trocknen | „Every wash day, my duvet cover turns into an angry octopus.“ · „✓ Washes whole in your machine at home, dry in 2 hours 🧺“ |
+| 184134607 | 17,56–21,32 | T | Waschen | „When it needs washing, the whole thing goes into your normal seven kilogram“ |
+| 184134607 | 21,32–25,84 | T | Waschen/Trocknen | „washing machine, then the tumble dryer, and it's dry in two hours.“ |
+| 184134607 | 20,0–25,0 | E | Waschen/Trocknen | „NORMAL“ (20,0) · „7 KILOGRAM WASHING MACHINE“ (22,0) · „THEN THE TUMBLE DRYER AND IT'S“ (22,5) · „DRY IN TWO HOURS“ (25,0) |
+| 184134607 | 25,84–31,12 | T | Temperatur | „It's 10.5 Tog, so it's every bit as warm as a winter duvet,“ / „just without the weight.“ |
+| 184134607 | 27,3–27,5 | E | Temperatur | „IT'S 10.5 TOG“ · „SO IT'S EVERY BIT AS WARM“ |
+| 184134607 | 31,12–34,72 | T | Temperatur | „And the breathable fibers mean it never feels stuffy on you.“ (UT „MEAN IT NEVER FEELS STUFFY ON“ bei 32,5) |
+| 184134607 | 34,72–37,92 | T | Frische | „I swear to you, my bed always feels fresh.“ |
+| 184134607 | – | P | Waschen/Trocknen | identisch mit 184134616 („Every wash day …“, „Washes whole in your machine at home, dry in 2 hours 🧺“) |
+| 185228773 | 4,97–7,63 | E | Waschen | „Fits in any / washing machine.“ |
+| 185228773 | 7,63–ca. 11,5 | E | Trocknen | „Dries in / 2 hours.“ |
+| 185228772 | – | H | Waschen | „Be honest. When did you last wash it?“ |
+| 185228772 | 0,5–4,25 | E | Waschen | „Covers washed this year: 52“ |
+| 185228772 | 4,25–5,9 | E | Waschen | „Duvet: 0“ |
+| 185228772 | 6,0–8,6 | E | Waschen | „Not the cover, the duvet itself“ |
+| 185228772 | 8,75–10,25 | E | Waschen | „Exactly, never“ |
+| 185228772 | 10,5–12,6 | E | Waschen | „It never fits the machine.“ |
+| 185228772 | 12,75–15,4 | E | Waschen | „This one does.“ |
+| 185228772 | 20,75–22,07 | E | Waschen | „The WHOLE thing. In your machine“ |
+| 185228772 | 22,07–24,07 | Bild | Waschen | Person stopft die schwarze Decke in einen Frontlader (ohne Text) |
+| 185228772 | 24,07–25,4 | E | Trocknen | „Dry in 2 hours“ |
+| 185228772 | 25,5–26,75 | E | Waschen | „Wash day Done“ |
+| 185228772 | – | P | Temperatur/Waschen/Trocknen | „ready for the colder nights“ · „wash it whole, dry in 2 hours.“ |
+| 185228764 | 3,70–9,87 | E | Waschen | „1. Does the WHOLE thing / fit a normal washing machine?“ + „Ours does. ✅“ |
+| 185228764 | 9,87–16,10 | E | Trocknen | „2. Is it dry in 2 hours / without a tumble dryer?“ + „2 hours. No dryer. ✅“ |
+| 185228764 | – | P | Waschen/Trocknen | „✓ Does the WHOLE thing fit a normal washing machine?“ · „✓ Is it dry in 2 hours without a tumble dryer?“ |
+| 185395501 | 3,0–6,0 | E | Temperatur/Schweiß | „Always the right temperature.“ · „Pleene™ Microfiber Technology“ · „✓ Cool in summer“ · „✓ Warm in winter“ · „✓ No sweating. No freezing.“ |
+| 185395501 | 6,0–9,0 | E | Hygiene/Waschen | „Susan, 62: „Was skeptical about the hygiene at first, but here everything gets clean in one wash. Climbing into a fresh clean duvet straight from the shower — absolutely amazing😍““ |
+| 185395501 | – | P | Waschen | „all-in-one, machine-washable comforter“ |
+| 193234224 | 0–ca. 10 | E | Hygiene | „Sorry, but your duvet is probably the dirtiest thing in your bedroom 🤢“ |
+| 193234224 | 0–ca. 12 | E | Waschen | „Your duvet doesn't fit in the washing machine“ |
+| 193234224 | 0–ca. 15 | E | **Schweiß/Milben** | „So it stays unwashed. Sweat. Dust mites. 🤢“ |
+| 193234224 | ca. 13–32 | E | Waschen/Trocknen | „The whole thing goes in the washing machine. Dry in two hours ☀️“ |
+| 193234224 | ca. 15,5–35 | E | Temperatur | „Climate-regulating fibres balance your temperature automatically“ |
+| 193234224 | ca. 19–38 | E | Schweiß/Temperatur | „No sweating in summer 🥵❌ No freezing in winter 🥶❌“ |
+| 193234224 | ca. 28–47 | E | Waschen/Allergie | „Ruth S. now washes hers every week — because of her allergies“ |
+| 193234224 | ca. 31–48,7 | E | Waschen/Trocknen | „First night: lighter. First week: wash day done in two hours. After a month:“ |
+| 193234224 | – | P | Hygiene/Waschen/Trocknen | „You shower every night — then sleep under a duvet that's never been washed. Not because you're lazy: normal duvets don't fit normal machines. Ours does. And it's dry in 2 hours.“ |
+| 193234224 | – | H | Waschen | „The Duvet You Can Actually Wash“ |
+
+Nicht vorhanden in Batch 7: Bakterien, Hautpartikel, Mikroskopbilder und °C-Angaben.
+- Milben nennt nur 193234224 („Dust mites“).
+- Schweiß nennen 193234224 („Sweat.“, „No sweating in summer“) und 185395501 („No sweating. No freezing.“).
+
+---
+
+##### Kurz-Tabelle Batch 7
+
+| ID | Länge | Hook (wörtlich, 0–3 s) | Angle | Avatar | Sprecher-Typ | Schnitte/10 s | Emotion |
+|---|---|---|---|---|---|---|---|
+| 184134616 | 48,3 s | VO „Every wash day, my duvet cover turns into a demented octopus.“ / UT „EVERY WASH DAY … DEMENTED OCTOPUS“ + Oktopus-Decke | C + B + A + F-Angebot | UK-Haushalte (v. a. Frauen 35–65), die das Beziehen hassen | Off-VO, vermutlich weiblich (KI/Mensch n. v.); Bild KI-generiert (Einschätzung), nur Hände | 2,07 (Detektor 0,62) | Frust mit Humor → Erleichterung |
+| 184134607 | 47,7 s | VO „Changing a duvet cover is the work of the devil.“ / UT „CHANGING A DUVET COVER IS THE … WORK OF THE DEVIL“ | C + B + A + F-Angebot | wie 184134616 („Sunday night“-Ritual) | Off-VO, vermutlich weiblich (n. v.); Bild KI-generiert (Einschätzung), nur Hände | 2,31 (Detektor 0,42) | Frust/Ärger mit Humor → Erleichterung |
+| 185228773 | 14,7 s | E „Don't scroll. / Pick your colour first.“ (kein VO) | F-Farbe + C + A + F-Angebot | farb- und stilorientierte, eher ältere Käufer | kein Sprecher; Model ca. 60–65, vermutlich KI (n. v.) | 3,40 | Neugier/Mitmachen |
+| 185228772 | 29,3 s | Karte „Covers washed this year: 52“ (Headline „Be honest. When did you last wash it?“; kein VO) | A + C + F-Angebot (P: F-Knappheit/Farbe) | hygienebewusste UK-Haushalte | kein Sprecher; POV-Hände + Person an Waschmaschine, wahrscheinlich KI (n. v.) | 0,68 (+11 Kartenwechsel) | Scham/Ertapptsein → Erleichterung |
+| 185228764 | 27,1 s | E „Before you buy a coverless duvet / check 3 things“ (kein VO) | F-Einwand/Kaufhilfe + A + F-Angebot | skeptische Vergleichskäufer | kein Sprecher; nur Hand, vermutlich KI (n. v.) | 2,95 (Detektor 1,84) | Neugier/Skepsis → Sicherheit |
+| 185395501 | 9,0 s | E „One Comforter. / No Separate / Cover.“ (stumm, keine Tonspur) | C + B + A + F-Social-Proof | vermutlich US-Käufer (n. v.), ältere Frauen | kein Sprecher; Standbilder, Testimonial-Foto „Susan, 62“ (echt/KI n. v.) | 2,22 (Diashow) | Vertrauen/Wohlgefühl |
+| 193234224 | 48,7 s | E „Sorry, but your duvet is probably the dirtiest thing in your bedroom 🤢“ (+ Boxen 2–4; kein VO) | A + C + B + F-Social-Proof + F-Angebot | hygienebewusste UK-Haushalte, Senioren, Allergiker | kein Sprecher (nur Musik); echte Personen/UGC (Senior 65–75, Mann 30–40, Frau 35–50) | 3,08 (nur 0,3: 2,05) | Ekel → Frust → Erleichterung |
+
+---
+
+##### Prüfliste (Selbstkontrolle vor Abgabe)
+
+| Pflichtpunkt | 184134616 | 184134607 | 185228773 | 185228772 | 185228764 | 185395501 | 193234224 |
+|---|---|---|---|---|---|---|---|
+| get_ad + get_transcription_status | ja | ja | ja | ja | ja | ja (+ transcribe_ads) | ja |
+| Transkript vollständig oder begründeter Vermerk | ja (vollständig) | ja (vollständig) | Vermerk: Platzhalter, nur Musik (Audio-Check) | Vermerk: Platzhalter, nur Musik | Vermerk: no_speech, nur Musik | Vermerk: keine Tonspur | Vermerk: Kannada-Fehltranskript, nur Musik (Audio-Check) |
+| ElevenLabs nötig? | nein | nein | nein | nein | nein | nein (kein Ton) | geprüft: nein (nur Musik; Upload-Tools fehlen) |
+| Video geladen + ffprobe | ja | ja | ja | ja | ja | ja | ja |
+| Schnitte gesamt + pro 10 s | ja | ja | ja | ja | ja | ja | ja |
+| Frames 0/1/2/3 s + Raster angesehen | ja | ja | ja | ja | ja | ja | ja |
+| Frame an jedem Schnitt (3b) | ja | ja | ja | ja | **ja (Top-20-Datei)** | ja | ja |
+| Hook gesprochen + eingeblendet | ja | ja | ja (kein VO) | ja (kein VO) | ja (kein VO) | ja (stumm) | ja (kein VO) |
+| Aufbau mit Sekunden, Lücken als „fehlt“ markiert | ja | ja | ja | ja | ja | ja | ja |
+| Personen/Sprecher, echt/KI mit Begründung | ja | ja | ja | ja | ja | ja | ja |
+| Setting | ja | ja | ja | ja | ja | ja | ja |
+| Avatar + Angle-Code | ja | ja | ja | ja | ja | ja | ja |
+| Haupt-Emotion | ja | ja | ja | ja | ja | ja | ja |
+| Tempo, Untertitel, Ton | ja | ja | ja | ja | ja | ja | ja |
+| Zahlen/Behauptungen wörtlich | ja | ja | ja | ja | ja | ja | ja |
+| Angebotspräsentation | ja | ja | ja | ja | ja | ja (keins) | ja |
+| Varianten-Hinweis | ja (verifiziert) | ja (verifiziert) | ja (MD5) | ja (MD5) | ja (MD5) | ja (keine) | ja (Skript + Footage visuell) |
+| Metadaten inkl. share_url + Ad-Library-Link | ja | ja | ja | ja | ja | ja | ja |
+| Hygiene-Zitate erfasst | ja | ja | ja | ja | ja | ja | ja |
+
+Offen bzw. nicht verifiziert:
+- Ob die Off-Stimmen von 184134616/607 KI-generiert sind.
+- Ob die Bilder in 185395501 und die Person „Susan, 62“ echt sind.
+- Der Zielmarkt von 185395501 (Länderliste leer).
+- Ob das UGC-Footage in 193234224 frame-identisch mit 178749251, 145443318 und 200490655 ist (abgeglichen nur visuell nach Person, Raum und Einstellung).
+- Die Inhalte der verwandten, nicht geladenen IDs 193234216, 193234218 und 168246672.
+
+
+### S2 – Creative-Tiefenanalyse, Video-Batch 8 (Agent 2)
+
+Stand: 2026-10-08 (Abruf ca. 17:20–17:40 UTC) · Marke Pleene · Produkt EasyRest · 7 Video-Ads: 193234219, 193234218, 193234216, 200037063, 200037062, 200037061, 200037059.
+
+Keine dieser IDs steht auf der Top-20-Liste. Die Tiefen-Keyframe-Analyse nach 3b war deshalb nicht Pflicht. Trotzdem habe ich an jedem erkannten Schnitt (Schwelle 0,3) einen Frame 0,3 s nach dem Schnitt angesehen. Die Szenenlisten unten sind deshalb vollständig.
+
+**Methodik und Quellen**
+- **Metadaten:** GetHooked `get_ad` für alle 7 IDs (2026-10-08). Die Werte stimmen mit `agent1_enriched.json` überein (Score, used_count, Start, Landingpage).
+- **Transkripte:** `get_transcription_status` für alle 7 IDs. Ergebnis: alle `complete`, nichts in der Warteschlange, `transcribe_ads` war nicht nötig.
+  - 200037063, 200037062, 200037061, 200037059: echte englische Transkripte. Nur der Markenname ist falsch erkannt („Plein“, „Plene“), die Untertitel schreiben „Pleene“.
+  - 193234219: **fälschlich als Walisisch erkannt** (bekanntes Fehlerbild, wie 145443318).
+  - 193234218 („Thanks for watching!“) und 193234216 („the next, video!!“): Platzhalter.
+- **Audio-Check:**
+  - `volumedetect` und `silencedetect` (−40 dB / 0,4 s).
+  - Spektrogramme `wf/s2b8_audio/<id>_spec.png` (angesehen).
+  - Lokales faster-whisper 1.1.1, Modell `small.en`, Englisch erzwungen, offline. Ergebnis: `wf/s2b8_meta/asr_small_en.json`.
+- **ElevenLabs (nur 193234219 wäre infrage gekommen): nicht durchgeführt, keine Credits verbraucht.**
+  - ToolSearch lieferte nur `creative_create_flow`, `creative_transcribe_audio`, `creative_get_flow_run_status` und `creative_attach_reference_file`. Die Upload-Tools `creative_create_asset_upload` und `creative_finalize_asset_upload` gibt es in dieser Session nicht.
+  - Eine lokale Audiodatei lässt sich also nicht hochladen. `attach_reference_file` braucht eine öffentliche https-URL. Verfügbar ist nur die MP4-URL von GetHooked, und der Speech-to-Text-Knoten lehnt Video ab („no input on node … accepts modality 'video'“, dokumentierter Versuch in Batch 2 bei 145443318).
+  - Ein weiterer Versuch wäre aussichtslos gewesen. Ersatz: lokales Whisper plus Abgleich mit den eingebrannten Untertiteln im 0,5-s-Raster plus Ton-Kreuzkorrelation mit 145443331 (englisches Transkript).
+- **Videos:** `wf/vid/<id>.mp4`, alle 720×1280 (9:16), Audio 44,1 kHz. Probe-Rohdaten: `wf/s2b8_meta/<id>.probe.json`.
+- **Schnitte:** `select='gt(scene,0.3)',showinfo`, Gegenprobe mit 0,15. Rohdaten in `wf/s2b8_meta/<id>.scenes03.txt` / `.scenes015.txt`.
+- **Frames:** `wf/frames/<id>/` (Raster 0, 1, 2, 3 s, dann alle 5 s, dazu je Schnitt ein Frame). 193234218 und 193234216 zusätzlich jede Sekunde.
+  - Untertitel-Streifen: 193234219 im 0,5-s-Raster, die vier langen VO-Ads im 1-s-Raster, Hooks im 0,25-s-Raster.
+  - Alle Kontaktbögen in `wf/s2b8_sheets/` habe ich mit dem Read-Tool angesehen.
+- **Varianten-Abgleich:**
+  - MD5 aller 56 Dateien in `wf/vid/` (`wf/s2b8_meta/md5_all.txt`).
+  - Ton-Kreuzkorrelation gesamt und fensterweise mit Skripten aus `wf/s2b8_scripts/` (`xcorr.py`, `winxc.py`).
+  - Vergleich der Schnittlisten mit den Batch-4/5-Varianten.
+- **Reichweite und Spend:** liefert GetHooked für GB nicht. Ersatzsignale sind days_active, performance_score und used_count. Alle 7 Ads stehen auf Score 1 („Testing“) mit used_count 1 und laufen erst 4–8 Tage.
+
+**Wichtigste Querbefunde des Batches**
+1. **Zwei der 7 IDs sind byte-identische Neu-Uploads.**
+   - 193234218 = 177443532 = 185228772 (MD5 `1c04c37c…`). Cue-Card-Video, nur Musik.
+   - 193234216 = 185228767 (MD5 `a3d7617b…`). KI-Template mit Tog-Hook. Die Kopie 185228767 steht laut Batch 3 auf Score 60 („Scaling“) und läuft auf `/products/easyrest`. Die neue Kopie verlinkt auf das Advertorial `/pages/tb-6`.
+2. **193234219 ist eine Hook-Variante der Gewinner-Familie 145443331/163921089** (beide Score 100 laut Batch 1). Ab 3,48 s ist der Ton identisch (Kreuzkorrelation 0,993). Die Schnitte liegen deckungsgleich, nur 0,32 s früher. Neu ist der Hook „I only ordered it because everyone said never to change your bed linen again.“ Er spricht den Primärtext laut aus.
+3. **Die vier Ads vom 2026-10-05 vervollständigen drei Hook-Test-Familien.** Der Körper ist jeweils ton- und bildgleich, nur der Hook ist ausgetauscht.
+   - „Bella“: 200037063 ↔ 200037049 / 200037045 (fensterweise r = 0,79–0,90 ab 10 s).
+   - „When Did You Last Wash Your Duvet?“: 200037062 / 200037061 ↔ 200037044 (r = 0,995).
+   - „Spare Bed“: 200037059 ↔ 200037052 (r = 0,999) / 200037047 (r = 0,97).
+4. **Hygiene ohne Milben, Bakterien oder Schweiß.** Kein Video des Batches nennt Milben oder Bakterien. „Schweiß“ kommt nur als Einblendung „warm, never sweaty“ vor (193234216). Hygiene läuft über drei Wege:
+   - Zahlen zum Nie-Waschen: „Covers washed this year: 52“ / „Duvet: 0“, „Mine was 12 years old … never once been washed“, „Mine hadn't been washed in years“.
+   - Haustier-Schmutz: „two muddy paws“, „Dog hair, muddy paw prints, biscuit crumbs“.
+   - Bildsignale: Staubpartikel über der alten Decke (200037059, 2–3 s) und eine Frau, die an der Decke riecht (200037061, 2–4 s).
+5. **Widersprüche in den Claims**
+   - Maschine: „fits any Washing machine“ (193234216) gegenüber „my normal 7kg washing machine“ (alle vier VO-Ads).
+   - Angebot: Die Familie auf `/pages/tb-6` (219/218/216) zeigt **kein 30 %**, dafür „2 FREE … £39.99“ durchgestrichen, „this week only“ bzw. „90-Night Trial“. Die Familie auf `/products/easyrest` (063/062/061/059) sagt „30% off plus two free … pillowcases“, die Endkarte nennt „(worth £39.99)“. Ein 90-Nächte-Test kommt dort nicht vor.
+   - Farbe: Der Anzeigentext von 193234218 und 193234216 lautet „Hearth Red is the one everyone picks, and it's almost gone“. Die Videos zeigen aber eine schwarze (218) bzw. blaue (216) Decke.
+6. **200037059 hat keinen CTA im Video.** Es gibt keinen gesprochenen CTA und keinen Button auf der Endkarte, nur den Meta-Button „Shop now“. Die drei Schwester-Familien enden mit „Tap the link below and have a look.“
+
+---
+
+#### Video 193234219 – Everyone said it. They were right.
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 193234219 / 511605696 |
+| Meta-ID | 4170969413201905 |
+| Ad Library | https://www.facebook.com/ads/library/?id=4170969413201905 |
+| share_url | https://app.gethookd.ai/share/ad/193234219?signature=0cb8964e6ba84cfd7298793d4bb26527250a2d845375dcbc5de0b9fc4c82562e |
+| Land / Plattformen | GB / facebook, instagram, audience_network, threads |
+| Start / Tage aktiv | 2026-10-01 / 8 (start_to_today, active) |
+| performance_score / used_count | 1 („Testing“) / 1 |
+| CTA | ORDER_NOW – „Order now“ |
+| Landingpage | https://pleene.com/pages/tb-6 (Advertorial bzw. Pre-Lander, siehe s3_funnel.md) |
+| Link-Beschreibung | „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ |
+| Länge / Format | 46,69 s · 720×1280 · 25 fps · Audio mean −17,3 dB, max −5,3 dB |
+| Schnitte (0,3) | 7 (3,48 / 10,88 / 19,28 / 25,00 / 27,52 / 30,76 / 37,24 s) = **1,50 pro 10 s** (Blöcke 1/2/2/2/0). Bei 0,15: 9 = 1,93 pro 10 s |
+
+**Primärtext (wörtlich):** „I only ordered it because everyone said you never have to change the bed linen again. Annoyingly, they were right. The Pleene EasyRest™ is a duvet and cover in one — wash it whole, dry in 2 hours, throw it back on.“
+
+**Transkript**
+- **GetHooked-Transkript ist fehlerhaft** und wurde als Walisisch erkannt. Auch das `hook`-Feld von get_ad ist walisisch. Die gespeicherten Segmente werden hier vollständig dokumentiert, sind inhaltlich aber wertlos:
+  - [0.00–3.44] „Dwi yn unig wedi'i gilydd oherwydd mae pawb wedi dweud nad ydych chi'n newid eich llinyn ystafell eich byd.“
+  - [3.44–8.08] „Mae'r duvet Easy Rest Plin yn duvet a'r duvet yn gyflawni un, felly dim llinyn ystafell arall.“
+  - [12.24–14.80] „Gwnewch e i mewn i'r wasgwrthwyr a yna i'r ddwylo.“
+  - [19.12–23.20] „Ac mae'r peth gorau yw bod y ffibrau sy'n gallu ymdrechu â'ch llawn yn dda a chyffredin yn y“
+  - [23.20–26.96] „ddewr, yn hyderus a chyffredin yn y dyfodol. Dwi'n gweithio i chi, mae fy mhen bob amser yn teimlo'n“
+  - [27.04–32.24] „newydd ac mae'r duvet Easy Rest Plin yn teimlo'n dda iawn ac mae'r duvet Easy Rest Plin yn dod“
+  - [32.24–37.20] „mewn llawn o ffifrau cyflawni a phopeth gwahanol. Mewn gwirionedd, roedd y rhan gorau yn ddewis un.“
+  - [37.20–42.80] „Ar hyn o bryd, mae'r duvet Easy Rest Plin hefyd yn canolbwyntio gyda ddau duvet Easy Rest Plin gyflawni a“
+  - [42.80–46.32] „gwerthfawrdd ysbytiaeth ysbytai'r 90 oed. Gallwch ei ystyried eich hun.“
+- **ElevenLabs:** technisch nicht möglich (Begründung siehe Methodik), nicht gestartet.
+- **Ersatz-Transkript.** Die Zeiten stammen aus lokalem Whisper small.en (Englisch erzwungen, no_speech_prob 0,001, avg_logprob −0,13 bis −0,22). Der Wortlaut ist zeilenweise gegen die eingebrannten Untertitel geprüft (0,5-s-Raster, `wf/s2b8_sheets/193234219_cap_00/01.jpg`). In Klammern steht, wo Whisper abweicht.
+  - [0.00–3.44] „I only ordered it because everyone said never to change your bed linen again.“ (Untertitel: „I only ordered it because everyone said“ / „never to change the bed linen again!“. Ob „your“ oder „the“ gesprochen wird, ist nicht verifiziert.)
+  - [3.44–8.08] „The Pleene EasyRest™ Duvet is a duvet and cover in one, so no more separate bed linen.“ (Whisper: „The Plean Easy Rest Duvet is a duvet and covering one“)
+  - [8.08–12.24] keine Sprache
+  - [12.24–14.80] „Just put it in the washing machine and then in the tumble dryer.“
+  - [14.80–19.04] keine Sprache
+  - [19.04–23.60] „And the best thing is, the breathable fibres adapt to your body. Nice and warm in the winter,“ (Whisper: „fibers“)
+  - [23.60–27.68] „comfortable and cool in the summer. I swear to you, my bed always feels fresh“
+  - [27.68–32.94] „and the Pleene™ Pillow Cases really feel super soft and the Pleene EasyRest™ comes in loads of“ (Whisper: „The Pleen Pillow cases“, „the Pleen Easy Rest“)
+  - [32.94–35.14] „limited colours and all different sizes.“
+  - [35.14–37.42] „Honestly, the hardest part was picking one.“
+  - [37.42–42.50] „At the moment, the Pleene EasyRest™ Duvet is even on offer with two free Pleene™ Pillow Cases“ (Whisper: „Pleen“)
+  - [42.50–44.94] „and a 90-night trial sleep guarantee.“
+  - [44.94–46.26] „You can simply test it yourself.“
+- **Zweiter Beleg:** Ab 3,48 s ist die Tonspur identisch mit 145443331 (Körper-Kreuzkorrelation 0,993 bei Versatz 0, gemessen 219 ab 3,48 s gegen 331 ab 3,80 s). Das englische GetHooked-Transkript von 145443331 ist dort wortgleich („The Pleen Easy Rest Duvet is a duvet and covering one, so no more separate bed linen …“).
+- **Audio-Check:** keine Stille unter −40 dB. Im Spektrogramm (`wf/s2b8_audio/193234219_spec.png`) zeigen die Sprechpausen 8–12 s und 15–19 s nur stehende tonale Linien ohne Formanten. Das spricht für ein leises Musikbett (Einschätzung, nicht verifiziert).
+
+**Einblendungen (wörtlich, Untertitel im 0,5-s-Raster)**
+- Stil: weiße Box, schwarze fett-kursive Sans, satzweise, unteres Drittel; ab ca. 40,5 s oben.
+  - 0,0–1,5 „I only ordered it because everyone said“
+  - 2,0–3,0 „never to change the bed linen again!“
+  - 3,5–6,5 „The Pleene EasyRest™ Duvet is a duvet and cover in one“
+  - 7,0–10,5 „So no more separate bed linen“
+  - 11,0–13,5 „Just put it in the washing machine“
+  - 14,0–19,0 „and then in the tumble dryer“
+  - 19,5–20,0 „And the best thing is,“
+  - 20,5–22,0 „the breathable fibres adapt to your body“
+  - 22,5–23,5 „Nice and warm in the winter,“
+  - 24,0–24,5 „Comfortable and cool in the summer“
+  - 25,0–27,0 „I swear to you, my bed always feels fresh“
+  - 27,5–30,5 „And the Pleene™ Pillow Cases really feel super soft“
+  - 31,0–33,5 „And the Pleene EasyRest™ comes in loads of limited colours“
+  - 34,0–35,0 „and all different sizes“
+  - 35,5–37,0 „— honestly, the hardest part was picking one“
+  - 37,5–40,0 „At the moment, the Pleene EasyRest™ Duvet is even on offer“
+  - 40,5–42,0 „with two free Pleene™ Pillow Cases“
+  - 42,5–44,5 „And a 90-night trial sleep guarantee,“
+  - 45,0–46,5 „you can simply test it yourself“
+- Produktbild-Einsätze 31,0–ca. 35,3 s (ohne Farbnamen; 0,3-s-Raster, `wf/s2b8_sheets/219_inserts.jpg`): Blau, Bordeaux/Rot, Schwarz, Koralle/Orange, Salbei-/Mintgrün, Beige/Sand, Anthrazit, Braun, Weiß.
+- Angebotskarte ab ca. 40,5 s bis Ende (KI-Schlafzimmerbild mit mintgrüner Decke): „This week only: 2 FREE Pillow Cases with every DUVET“ [Uhr-Icon], runder Badge „FREE this week only“, „£39.99“ durchgestrichen, daneben zwei Kissenbezüge.
+
+**Hook (0–3 s)**
+- Gesprochen: „I only ordered it because everyone said never to change your bed linen again.“
+- Eingeblendet: „I only ordered it because everyone said“, ab 2,0 s „never to change the bed linen again!“
+- Bild: Selfie-Perspektive von oben. Ein Mann liegt unter einer grauen Decke, die Hände auf dem Bauch gefaltet. Holz-Regalkopfteil mit Kerzenglas. Er spricht in die Kamera.
+- Hook-Typ: Social-Proof-Geständnis („everyone said“) mit Beinahe-Unglauben. Die Pointe („Annoyingly, they were right“) steht nur im Primärtext.
+
+**Szenenliste (alle 7 Schnitte angesehen)**
+| Sek. | Szene | Einblendung |
+|---|---|---|
+| 0,00–3,48 | Mann liegt im Bett, Selfie von oben, spricht lippensynchron | „I only ordered it …“ / „never to change the bed linen again!“ |
+| 3,48–10,88 | Totale Schlafzimmer (grüne Wand, Erker, Lampenschirm mit Kupfermuster). Mann hebt die graue Decke an, schüttelt sie auf, legt sie zurück, Blick in die Kamera | „The Pleene EasyRest™ Duvet …“ → „So no more separate bed linen“ |
+| 10,88–19,28 | Küche mit blau-weißen Musterfliesen: Mann hockt vor silbernem Frontlader, stopft die Decke hinein, schließt die Tür | „Just put it in the washing machine“ → „and then in the tumble dryer“ |
+| 19,28–25,00 | Mann liegt im Bett, Selfie, spricht | „And the best thing is,“ → „… breathable fibres …“ → „Nice and warm …“ → „Comfortable and cool …“ |
+| 25,00–27,52 | Mann sitzt auf der Bettkante (Totale, Holzschrank) | „I swear to you, my bed always feels fresh“ |
+| 27,52–30,76 | Totale: Mann breitet die Decke aus und richtet das Kissen | „And the Pleene™ Pillow Cases really feel super soft“ |
+| 30,76–37,24 | Mann hinter dem Bett mit Decke, 31,0–35,3 Produkt-Einsätze in 9 Farben | „… loads of limited colours“ → „and all different sizes“ → „— honestly, the hardest part was picking one“ |
+| 37,24–46,69 | Mann sitzt frontal auf der Bettkante und spricht. Ab ca. 40,5 s Angebotskarte | „At the moment …“ → „with two free …“ → „And a 90-night trial …“ → „you can simply test it yourself“ |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook | 0–3,44 | „everyone said never to change your bed linen again“ |
+| Problem | **fehlt** | nur implizit (Bettwäsche wechseln) |
+| Verstärkung | **fehlt** | – |
+| Lösung | 3,44–8,08 | „a duvet and cover in one, so no more separate bed linen“ |
+| Mechanismus | 12,24–14,80; 19,04–25,0 | Waschmaschine + Trockner; „the breathable fibres adapt to your body. Nice and warm in the winter, comfortable and cool in the summer“ |
+| Beweis | 25,0–30,8 | nur Eigen-Testimonial („I swear to you, my bed always feels fresh“, „really feel super soft“). Social Proof nur im Hook („everyone said“) und in der Link-Beschreibung („Over 10,000 Happy Customers“) |
+| (Auswahl/Farbe) | 30,8–37,4 | „loads of limited colours and all different sizes“, „the hardest part was picking one“, 9 Farbeinsätze |
+| Angebot | 37,4–44,9 | „on offer with two free … Pillow Cases and a 90-night trial sleep guarantee“ plus Karte „This week only“, „£39.99“ durchgestrichen |
+| CTA | 44,9–46,3 | nur weich: „You can simply test it yourself.“ Ein Link-CTA fehlt im Video, der Button lautet „Order now“ |
+
+**Personen / Sprecher**
+- Ein Mann, geschätzt 30–40 Jahre, kurze dunkle Haare, grau melierter Vollbart, graues Tanktop, Smartwatch. Rolle: UGC-Creator bzw. Kunden-Persona.
+- **Echte Person** (Einschätzung). Begründung: Er spricht lippensynchron in die Kamera (0–3,5 s, 19,3–25 s, 37,2–46,7 s), bewegt sich natürlich, und die Wohnung ist über drei Räume konsistent. Es ist dieselbe Person und dieselbe Wohnung wie in 145443331 und 145443318.
+- O-Ton bzw. Off über eigene B-Roll. f0-Median im Hook 124 Hz, im Körper 147 Hz (männlich). Ob er echter Kunde oder bezahlter Creator ist: nicht verifiziert.
+
+**Setting:** britisch wirkendes Schlafzimmer (grüne Wand, Erker, Holzbett mit Regalkopfteil) und Küche mit Frontlader.
+
+**Avatar / Angle**
+- Avatar: Erwachsene, ca. 25–55, auch Männer, die das Bettbeziehen nervt und die über Mundpropaganda neugierig werden. Alter geschätzt.
+- Angle: **C** (Bettwäsche wechseln/beziehen entfällt) primär. Dazu **F-Social-Proof** („everyone said“), **B** (warm im Winter, kühl im Sommer), A-nah (Waschmaschine/Trockner), **F-Knappheit/Farbe** („limited colours“) und **F-Angebot**.
+
+**Haupt-Emotion:** Neugier bzw. Skepsis gegenüber dem Hype, dann Erleichterung und Bequemlichkeit.
+
+**Schnitttempo / Untertitel / Ton:** 1,50 Schnitte pro 10 s, ruhig. Untertitel ja (weiße Box, schwarze fett-kursive Schrift, satzweise). O-Ton bzw. Off des Creators, darunter vermutlich leise Musik (nicht verifiziert).
+
+**Zahlen und Behauptungen (wörtlich):** „never to change your bed linen again“ · „a duvet and cover in one“ · „no more separate bed linen“ · „washing machine and then in the tumble dryer“ · „the breathable fibres adapt to your body“ · „Nice and warm in the winter, comfortable and cool in the summer“ · „loads of limited colours and all different sizes“ · „two free Pleene™ Pillow Cases“ · „a 90-night trial sleep guarantee“ · Karte: „This week only: 2 FREE Pillow Cases with every DUVET“, „FREE this week only“, „£39.99“ (durchgestrichen). Nur im Anzeigentext: „dry in 2 hours“, „Over 10,000 Happy Customers“.
+
+**Angebotspräsentation:** 2 Kissenbezüge gratis, Wert über das durchgestrichene „£39.99“, zeitlich knapp („This week only“), 90 Nächte Probeschlafen. Kein Prozent-Rabatt. Farbknappheit nur angedeutet („limited colours“).
+
+**Varianten-Hinweis (verifiziert)**
+- **Hook-Variante von 145443331 / 163921089 / 193234221.** Die drei sind byte-identisch (Batch 1 und 3, Score 100 bei 331/089). Ton ab 3,48 s (hier) bzw. 3,80 s (dort) identisch, Kreuzkorrelation 0,993. Die Schnittliste ist um 0,32 s verschoben deckungsgleich. Anders ist nur der Hook: hier „I only ordered it because everyone said …“ (0–3,48 s), dort „I haven't changed my bed linen in three months …“ (0–3,8 s).
+- **145443318** (Batch 2): gleicher Körper (Gesamt-Kreuzkorrelation 0,91 bei 2,84 s Versatz), Hook „I bloody hate changing the bed …“. Ebenfalls fälschlich walisisch transkribiert.
+- Gleiche Headline und gleicher Primärtext bei allen fünf IDs. 193234219 und 193234221 laufen auf `/pages/tb-6`, 145443331/163921089/145443318 auf `/products/easyrest`.
+
+---
+
+#### Video 193234218 – Be honest. When did you last wash it?
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 193234218 / 511605660 |
+| Meta-ID | 1114220797783359 |
+| Ad Library | https://www.facebook.com/ads/library/?id=1114220797783359 |
+| share_url | https://app.gethookd.ai/share/ad/193234218?signature=3870fec0fed270d728da178501d4d67c9e13c536497ef821674e8f3e9c30953b |
+| Land / Plattformen | GB / facebook, instagram, audience_network, threads |
+| Start / Tage aktiv | 2026-10-01 / 8 (start_to_today, active) |
+| performance_score / used_count | 1 („Testing“) / 1 |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | https://pleene.com/pages/tb-6 |
+| Link-Beschreibung | „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ |
+| Länge / Format | 29,35 s · 720×1280 · 30 fps · Audio mean −16,5 dB, max −4,7 dB |
+| Schnitte (0,3) | 2 (22,07 / 24,07 s) = **0,68 pro 10 s** (Blöcke 0/0/2). Bei 0,15 ebenfalls 2. Dazu ca. 11 Kartenwechsel ohne Bildschnitt, also ein visueller Wechsel etwa alle 2–2,5 s |
+
+**Primärtext (wörtlich):** „This week only: 2 free Pleene™ Pillow Cases with every duvet. And if you want the bedroom ready for the colder nights, Hearth Red is the one everyone picks, and it's almost gone. The EasyRest™ is duvet and cover in one: wash it whole, dry in 2 hours.“
+
+**Transkript:** GetHooked meldet „Thanks for watching!“ (0,00–29,20 s), einen **Platzhalter**. Audio-Check:
+- Whisper small.en halluziniert ebenfalls „Thanks for watching!“ (no_speech_prob 0,23, avg_logprob −0,95).
+- volumedetect: mean −16,5 dB, max −4,7 dB. silencedetect findet keine Pause.
+- Spektrogramm (`wf/s2b8_audio/193234218_spec.png`): durchgehend stehende, waagerechte Harmonische (gehaltene Töne) ohne die geschwungenen Formant-Muster von Sprache.
+- **Ergebnis: nur Musik, kein Sprecher.** Bestätigt den Befund für die byte-identischen Dateien 177443532 (Batch 6, dort zusätzlich Silero-VAD 0,00 s Sprache) und 185228772.
+
+**Hook (0–3 s)**
+- Gesprochen: keine Sprache.
+- Eingeblendet: ab ca. 0,5–1 s handgeschriebene Karte „Covers washed this year: 52“ (die „52“ rot unterstrichen). Headline der Anzeige: „Be honest. When did you last wash it?“
+- Bild: POV-Hände halten einen Kartenstapel über eine schwarze, gesteppte Decke. Weich ausgeleuchtetes Schlafzimmer mit Holzkopfteil, Pflanze und Bild.
+- Hook-Typ: Zahlen-Kontrast im Cue-Card-Stil (Love-Actually-Karten). Die Pointe folgt mit „Duvet: 0“.
+
+**Szenen- und Kartenliste (1-s-Raster, Karten gelesen)**
+| Sek. | Bild | Karte / Einblendung (wörtlich) |
+|---|---|---|
+| 0,0–ca. 0,5 | schwarze Decke, Schlafzimmer | – |
+| ca. 1–4 | POV-Hände mit Kartenstapel | „Covers washed this year: 52“ |
+| ca. 5–6 | Kartenwechsel | „Duvet: 0“ (die „0“ rot doppelt unterstrichen) |
+| ca. 6,5–8 | Kartenwechsel | „Not the cover, the duvet itself“ |
+| ca. 9–10 | Kartenwechsel | „Exactly, never“ |
+| ca. 11–12 | Kartenwechsel | „It never fits the machine.“ |
+| ca. 13–15 | Kartenwechsel | „This one does.“ (bei 15 s Artefakt: „I This one does.“) |
+| ca. 16–17 | Kartenwechsel, roter Kritzel-Pfeil zeigt aufs Bett | „Duvet + cover in one“ |
+| ca. 18–20 | Kartenwechsel | „The cover is sewn in“ |
+| ca. 21–22 | Kartenwechsel | „The WHOLE thing. In your machine“ („WHOLE“ rot unterstrichen) |
+| 22,07–24,07 | **Schnitt:** Person in weißem Hemd, kurze dunkle Haare, kniet vor weißem Frontlader und stopft die schwarze Decke hinein | – |
+| 24,07–ca. 25,5 | **Schnitt** zurück: POV-Karten | „Dry in 2 hours“ |
+| ca. 26–27 | Kartenwechsel | „Wash day Done“ („Done“ rot unterstrichen) |
+| ca. 27–27,8 | nur Decke | – |
+| ca. 28–29,35 | Sticker auf der Decke | „2 FREE“ / „Pillow Cases“ / „worth £39.99“ (durchgestrichen, rote Linie) / „90-Night Trial“ |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook | 0–ca. 4 | Headline-Frage + „Covers washed this year: 52“ |
+| Problem | ca. 5–10 | „Duvet: 0“ / „Not the cover, the duvet itself“ / „Exactly, never“ |
+| Verstärkung | ca. 11–12 | Ursache: „It never fits the machine.“ |
+| Lösung | ca. 13–15 | „This one does.“ |
+| Mechanismus | ca. 16–22 | „Duvet + cover in one“ / „The cover is sewn in“ / „The WHOLE thing. In your machine“ |
+| Beweis | 22,07–24,07 | nur Demo (Waschmaschinen-Szene). Social Proof **fehlt** im Video |
+| (Nutzen) | 24,1–27 | „Dry in 2 hours“ / „Wash day Done“ |
+| Angebot | ca. 28–29,35 | Sticker „2 FREE Pillow Cases“, „worth £39.99“ durchgestrichen, „90-Night Trial“ |
+| CTA | **fehlt** | im Video kein CTA, nur der Meta-Button „Shop now“ |
+
+**Personen / Sprecher**
+- Hände in POV-Perspektive (schlanke Hände, Alter und Geschlecht nicht bestimmbar). Dazu eine Person an der Waschmaschine (kurze dunkle Haare, weißes Hemd, beige Hose, ca. 30–40, Geschlecht nicht eindeutig).
+- **Wahrscheinlich KI-generiert** (Einschätzung, nicht verifiziert). Begründung:
+  - Kartentexte morphen. Bei 15 s erscheint ein Streu-„I“ vor „This one does.“, laut Batch 6 ändert sich „Not the cover. The duvet itself“ auf derselben Karte.
+  - Das Schlafzimmer ist weich und renderhaft ausgeleuchtet. Die Waschmaschinen-Szene wirkt glatt und generiert.
+- Kein Sprecher, nur Musik.
+
+**Setting:** dunkel-modernes Schlafzimmer (schwarze Decke), Waschküche mit weißem Frontlader.
+
+**Avatar / Angle**
+- Avatar: UK-Haushalte, die den Bezug regelmäßig waschen, die Decke selbst aber nie, und das bisher nicht hinterfragt haben.
+- Angle: **A** (Hygiene: „Covers washed this year: 52“ gegen „Duvet: 0“) primär. Dazu **C** (Bezug eingenäht), A-nah „Dry in 2 hours“ und **F-Angebot**.
+
+**Haupt-Emotion:** Ertappt-Sein bzw. leichte Scham („Duvet: 0“, „Exactly, never“), dann Erleichterung („Wash day Done“).
+
+**Schnitttempo / Untertitel / Ton:** 0,68 echte Schnitte pro 10 s, visueller Wechsel durch die Karten ca. alle 2–2,5 s. Keine Untertitel, der gesamte Text liegt als handschriftliche Karten bzw. Sticker im Bild. Ton: nur Musik.
+
+**Zahlen und Behauptungen (wörtlich):** „Covers washed this year: 52“ · „Duvet: 0“ · „Not the cover, the duvet itself“ · „Exactly, never“ · „It never fits the machine.“ · „This one does.“ · „Duvet + cover in one“ · „The cover is sewn in“ · „The WHOLE thing. In your machine“ · „Dry in 2 hours“ · „Wash day Done“ · „2 FREE Pillow Cases“ · „worth £39.99“ (durchgestrichen) · „90-Night Trial“. Nur im Anzeigentext: „This week only“, „Hearth Red … almost gone“.
+
+**Angebotspräsentation:** End-Sticker mit 2 Gratis-Kissenbezügen, Wertanker „worth £39.99“ (durchgestrichen) und „90-Night Trial“. Kein Prozent-Rabatt. Zeitliche und Farb-Knappheit („This week only“, „Hearth Red … almost gone“) nur im Primärtext. Im Video ist die Decke **schwarz**, nicht Hearth Red.
+
+**Varianten-Hinweis (verifiziert)**
+- **Byte-identisch** mit **177443532** (Batch 6, Start 2026-09-15) und **185228772** (Start 2026-09-27). MD5 `1c04c37c2a1b2ca52fa3db515f37590f`.
+- Gleiche Headline, anderes Video: **185228767** bzw. **193234216** (KI-Template mit Tog-Hook).
+- Konzeptnähe (Covers gegen Duvet gewaschen) zur Hook-Test-Familie 200037044/062/061 „When Did You Last Wash Your Duvet?“, technisch kein Zusammenhang.
+
+---
+
+#### Video 193234216 – Be honest. When did you last wash it?
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 193234216 / 511605659 |
+| Meta-ID | 1078627058473158 |
+| Ad Library | https://www.facebook.com/ads/library/?id=1078627058473158 |
+| share_url | https://app.gethookd.ai/share/ad/193234216?signature=60e2dc530fac13782e5f82c44abb08606f4acb8db2a48f6580a4f67b8d2e303d |
+| Land / Plattformen | GB / facebook, instagram, audience_network, threads |
+| Start / Tage aktiv | 2026-10-02 / 7 (start_to_today, active) |
+| performance_score / used_count | 1 („Testing“) / 1 |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | https://pleene.com/pages/tb-6 |
+| Link-Beschreibung | „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ |
+| Länge / Format | 15,86 s · 720×1280 · 30 fps · Audio mean −15,0 dB, max −4,0 dB |
+| Schnitte (0,3) | 3 (3,00 / 6,40 / 10,23 s) = **1,89 pro 10 s** (Blöcke 2/1). Der zusätzliche 0,15-Treffer bei 0,77 s ist eine Kamerafahrt am Türrahmen vorbei, kein Schnitt |
+
+**Primärtext (wörtlich):** identisch mit 193234218: „This week only: 2 free Pleene™ Pillow Cases with every duvet. And if you want the bedroom ready for the colder nights, Hearth Red is the one everyone picks, and it's almost gone. The EasyRest™ is duvet and cover in one: wash it whole, dry in 2 hours.“
+
+**Transkript:** GetHooked meldet „the next, video!!“ (0,00–15,16 s), einen **Platzhalter**. Audio-Check:
+- Whisper small.en halluziniert „Thanks for watching!“ (no_speech_prob 0,52, avg_logprob −1,00).
+- volumedetect: mean −15,0 dB, max −4,0 dB. Keine Pause.
+- Spektrogramm (`wf/s2b8_audio/193234216_spec.png`): regelmäßige perkussive Transienten im Abstand von ca. 0,35–0,5 s (Beat) über tonalem Grund, keine Formantstruktur.
+- **Ergebnis: nur Musik, kein Sprecher.**
+
+**Hook (0–3 s)**
+- Gesprochen: keine Sprache.
+- Eingeblendet (oben, weiße Sans; zweite Zeile orange): „One duvet that handles a British winter“ / „10.5 TOG · warm, never sweaty“
+- Bild: Kamerafahrt durch eine Tür in ein luxuriöses, holzvertäfeltes Schlafzimmer mit Messingleuchten. Bett mit blauer Steppdecke (Rautensteppung), Hochflorteppich.
+- Hook-Typ: Einwand-Vorwegnahme (Wärme im britischen Winter) plus Spezifikation (Tog).
+
+**Szenenliste (alle Schnitte, Frames jede Sekunde)**
+| Sek. | Bild | Einblendung (wörtlich) |
+|---|---|---|
+| 0,00–3,00 | Fahrt ins Schlafzimmer, blaue Decke | „One duvet that handles a British winter“ / „10.5 TOG · warm, never sweaty“ |
+| 3,00–6,40 | Hand im weißen Strickärmel hebt die Decke an der Ecke an und lässt sie fallen | „Duvet and cover in one. Sewn in“ |
+| 6,40–10,23 | Nah: Hand streicht über die Decke, Kissen | „Washes whole, fits any“ / „Washing machine, dry in 2 hours“ |
+| 10,23–15,86 | Totale Bett, langsame Fahrt. Overlay: Kissenbezug-Foto mit Badge | „2 FREE Matching Pillow Cases“ / „with every DUVET“ · Badge „FREE this week only“ · „£39.99“ (durchgestrichen) |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook | 0–3,0 | „One duvet that handles a British winter“ / „10.5 TOG · warm, never sweaty“ |
+| Problem | **fehlt** | nur implizit (Winter-Wärme, Schwitzen) |
+| Verstärkung | **fehlt** | – |
+| Lösung / Mechanismus | 3,0–6,4 | „Duvet and cover in one. Sewn in“ |
+| Mechanismus / Nutzen | 6,4–10,23 | „Washes whole, fits any Washing machine, dry in 2 hours“ |
+| Beweis | **fehlt** | keine Zahlen außer Tog, keine Reviews |
+| Angebot | 10,23–15,86 | „2 FREE Matching Pillow Cases with every DUVET“, „FREE this week only“, „£39.99“ durchgestrichen |
+| CTA | **fehlt** | im Video kein CTA, nur der Meta-Button „Shop now“ |
+
+**Personen / Sprecher**
+- Nur Hand und Unterarm in weißem Strickpullover, kein Gesicht. Alter und Geschlecht nicht bestimmbar.
+- **KI-generiert bzw. Render (sehr wahrscheinlich).** Begründung: Laut Batch 3 handelt es sich um denselben Showroom und dieselbe Musik wie das KI-Template 139561428/410/491. Die Oberflächen sind makellos glatt, die Licht- und Möbelsetzung wirkt hotelhaft und gerendert.
+- Kein Sprecher, nur Musik.
+
+**Setting:** luxuriöses, holzvertäfeltes Schlafzimmer (Showroom-Look).
+
+**Avatar / Angle**
+- Avatar: UK-Schläfer, die eine leichte bzw. waschbare Decke im Winter für zu kalt halten oder nachts schwitzen.
+- Angle: **B** (British winter, 10.5 TOG, „warm, never sweaty“) primär. Dazu **C** (Bezug eingenäht), **A** (Washes whole, dry in 2 hours) und **F-Angebot/Knappheit** („this week only“).
+
+**Haupt-Emotion:** Behaglichkeit bzw. Sicherheit (Wärme ohne Schwitzen), am Ende leichte Dringlichkeit („this week only“).
+
+**Schnitttempo / Untertitel / Ton:** 1,89 Schnitte pro 10 s. Keine Untertitel, nur Text-Overlays (weiße Sans mit Schatten, Tog-Zeile orange). Ton: nur Musik (Beat).
+
+**Zahlen und Behauptungen (wörtlich):** „One duvet that handles a British winter“ · „10.5 TOG“ · „warm, never sweaty“ · „Duvet and cover in one. Sewn in“ · „Washes whole, fits any Washing machine, dry in 2 hours“ · „2 FREE Matching Pillow Cases with every DUVET“ · „FREE this week only“ · „£39.99“ (durchgestrichen).
+
+**Angebotspräsentation:** Overlay-Karte mit 2 Gratis-Kissenbezügen, Wertanker £39.99 durchgestrichen, zeitliche Knappheit „this week only“. Kein Prozent-Rabatt, keine 90 Nächte. Die Decke ist **blau**, im Primärtext wird aber „Hearth Red … almost gone“ beworben.
+
+**Varianten-Hinweis (verifiziert)**
+- **Byte-identisch mit 185228767** (Batch 3, Start 2026-09-27, Score 60 „Scaling“, LP `/products/easyrest`). MD5 `a3d7617b197c4583fea9483304d7b20b`. Neu sind nur die Copy (Headline „Be honest …“, Hearth-Red-Text) und die LP `/pages/tb-6`.
+- Neuschnitt des KI-Templates **139561428 / 139561410 / 139561491** (laut Batch 3).
+- Claim-Widerspruch zur VO-Familie: „fits any Washing machine“ hier gegenüber „my normal 7kg washing machine“ in 200037063/062/061/059.
+
+---
+
+#### Video 200037063 – The Dog Can Stay On The Bed
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 200037063 / 527527989 |
+| Meta-ID | 1667265245004008 |
+| Ad Library | https://www.facebook.com/ads/library/?id=1667265245004008 |
+| share_url | https://app.gethookd.ai/share/ad/200037063?signature=59e1350bb940afa8ce2ef4db6bc9f0dc9c3d58b5363f4541de87c32b08c94beb |
+| Land / Plattformen | GB / facebook, instagram, audience_network, threads |
+| Start / Tage aktiv | 2026-10-05 / 4 (start_to_today, active) |
+| performance_score / used_count | 1 („Testing“) / 1 |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | https://pleene.com/products/easyrest (page_type product_page) |
+| Link-Beschreibung | „Coverless duvet · Wash the whole duvet at home · 30% off + 2 free pillow cases“ |
+| Länge / Format | 81,59 s · 720×1280 · 30 fps · Audio mean −17,0 dB, max −0,1 dB |
+| Schnitte (0,3) | 16 (4,13 / 8,73 / 14,93 / 19,27 / 25,27 / 30,57 / 31,83 / 35,00 / 37,37 / 41,13 / 44,27 / 47,93 / 52,03 / 60,90 / 68,90 / 72,73 s) = **1,96 pro 10 s** (Blöcke 2/2/1/4/3/1/2/1/0). Bei 0,15: 17 = 2,08 pro 10 s |
+
+**Primärtext (wörtlich):** „🐾 Bella sleeps on our bed every night. And nobody worries about it, because the WHOLE duvet goes in the wash, not just the cover. ✓ Pleene EasyRest: cover sewn in, duvet and cover in one ✓ Fits your normal 7kg washing machine, dry in 2 hours 🧺 ✓ 10.5 tog, every bit as warm as a winter duvet, just without the weight 🎁 30% off + 2 FREE matching pillow cases.“
+
+**Transkript (GetHooked, vollständig, Englisch, plausibel; Markenname als „Plein“, die Untertitel schreiben „Pleene“)**
+```
+00.00–04.08  Wet November walk, two muddy paws, straight onto the bed.
+04.08–08.80  For years that meant stripping the cover and hoping the duvet underneath was fine.
+08.80–14.08  I'm 66, we've got a spaniel and three grandchildren and that bed sees a lot of life.
+14.80–18.80  For years I washed the cover every week and told myself that was enough.
+18.80–22.56  The duvet underneath never got washed because it didn't fit in the machine
+22.56–25.68  and with a dog on the bed every night that started to bother me.
+25.68–29.84  Then I got the Plein EasyRest and now the whole thing goes in the wash.
+29.84–32.40  It's a duvet and cover in one.
+32.40–37.68  The cover is sewn in so you never take it off, you just wash the whole duvet in one piece.
+37.68–41.76  The double goes straight into my normal seven kilogram washing machine.
+41.76–44.72  Then the tumble dryer and it's dry in two hours.
+44.72–48.40  Dog hair, muddy paw prints, biscuit crumbs from the grandchildren,
+48.40–52.40  the whole lot just goes in the wash and the bed is made again by lunchtime.
+52.40–56.40  It's 10.5 tog so it's every bit as warm as a winter duvet,
+56.40–61.20  just without the weight and the breathable fibres mean it never feels stuffy on you.
+61.20–68.48  I swear to you my bed always feels fresh and the Plein pillowcases really do feel super soft.
+69.04–72.24  Bella's still on the bed, I just don't think about it anymore.
+72.96–78.80  Right now the EasyRest is on offer with 30% off plus two free Plein pillowcases.
+79.36–81.28  Tap the link below and have a look.
+```
+Untertitel (1-s-Raster, `wf/s2b8_sheets/063_cap_00–03.jpg`) wortgleich mit dem Transkript, in Kleinschreibung. Abweichungen: „7 kilogram washing machine“ (40–41 s), „Pleene EasyRest“ (26–27 s), „Pleene pillowcases“ (65–68 s). Kein Problem mit Sprache, ElevenLabs nicht nötig.
+
+**Hook (0–3 s)**
+- Gesprochen: „Wet November walk, two muddy paws, straight onto the bed.“ (0–4,08), weiter bis 8,8: „For years that meant stripping the cover and hoping the duvet underneath was fine.“
+- Eingeblendet: „wet November walk“ (0–1 s), „two muddy paws“ (2 s), „straight onto the bed“ (3–4 s).
+- Bild: Ein nasser English Springer Spaniel (leberbraun/weiß) steht an der offenen Haustür auf der Fußmatte, draußen Starkregen, Pfotenabdrücke auf der Matte.
+- Hook-Typ: Mini-Szene bzw. Sinnesbild (Matsch und Nässe) mit Ekel-Andeutung, Haustier als Aufmerksamkeitsanker.
+
+**Szenenliste (alle 16 Schnitte angesehen)**
+| Sek. | Szene |
+|---|---|
+| 0,00–4,13 | Spaniel an der Haustür, Regen, nasse Fliesen |
+| 4,13–8,73 | Ältere Hände ziehen einen geblümten Bezug von der Decke, darauf **Schmutz-Pfotenabdrücke** |
+| 8,73–14,93 | Bettkante (mintgrüne Decke), Kinder-Gummistiefel, Spielzeug-Polizeiauto, offene Tür |
+| 14,93–19,27 | Geblümter Bezug wird von cremeweißer Decke gezogen, Wäschekorb |
+| 19,27–25,27 | Cremeweiße dicke Decke wird in einen Frontlader gestopft, die Tür geht kaum zu |
+| 25,27–30,57 | Mintgrüne EasyRest auf dem Bett, Hand streicht darüber |
+| 30,57–31,83 | Makro: faltige Hand auf der Decke |
+| 31,83–35,00 | Hand greift die Deckenecke |
+| 35,00–37,37 | Decke wird vom Bett gezogen |
+| 37,37–41,13 | Mintgrüne Decke in den Frontlader |
+| 41,13–44,27 | Decke wird aus der Maschine bzw. dem Trockner gezogen |
+| 44,27–47,93 | **Pfotenabdrücke auf der mintgrünen Decke** |
+| 47,93–52,03 | Bett wird gemacht |
+| 52,03–60,90 | Abendszene, Lampe an, Spaniel liegt auf dem Bett, Hand auf der Decke |
+| 60,90–68,90 | Tageslicht, Hand drückt auf Decke und Kissen |
+| 68,90–72,73 | Spaniel liegt auf der mintgrünen Decke und schaut in die Kamera |
+| 72,73–81,59 | Weißblende, dann Endkarte: „Pleene EasyRest™ Pillow Cases“ / „30% OFF“ / „+ 2 Free Pleene Pillow Cases“ / „(worth £39.99)“, Kissen-Foto, Button-Grafik „SHOP NOW“, Icons „Gentle & skin-friendly“, „Luxuriously soft feel“, „Machine washable & easy care“. Untertitel darauf: „right now the EasyRest is on offer with 30% off“ → „plus two free Pleene pillowcases“ → „tap the link below and have a look“ |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook | 0–8,8 | „Wet November walk, two muddy paws, straight onto the bed. … hoping the duvet underneath was fine.“ |
+| (Persona) | 8,8–14,1 | „I'm 66, we've got a spaniel and three grandchildren and that bed sees a lot of life.“ |
+| Problem | 14,8–22,6 | „washed the cover every week … The duvet underneath never got washed because it didn't fit in the machine“ |
+| Verstärkung | 22,6–25,7 | „and with a dog on the bed every night that started to bother me.“ |
+| Lösung | 25,7–32,4 | „Then I got the … EasyRest and now the whole thing goes in the wash. It's a duvet and cover in one.“ |
+| Mechanismus | 32,4–44,7 | „cover is sewn in“, „wash the whole duvet in one piece“, „normal seven kilogram washing machine“, „tumble dryer and it's dry in two hours“ |
+| Nutzen / Demo | 44,7–52,4 | „Dog hair, muddy paw prints, biscuit crumbs … the whole lot just goes in the wash … made again by lunchtime“ |
+| Einwand Wärme | 52,4–61,2 | „10.5 tog … as warm as a winter duvet, just without the weight … never feels stuffy“ |
+| Beweis | 61,2–68,5 | nur Eigen-Testimonial („I swear to you my bed always feels fresh“, „super soft“). Fremdbeweise **fehlen** |
+| Payoff | 69,0–72,2 | „Bella's still on the bed, I just don't think about it anymore.“ |
+| Angebot | 73,0–78,8 | „30% off plus two free … pillowcases“ + Endkarte „(worth £39.99)“ |
+| CTA | 79,4–81,3 | „Tap the link below and have a look.“ + Button-Grafik „SHOP NOW“ |
+
+**Personen / Sprecher**
+- Hände und Unterarme einer älteren Frau (Falten, Ring, cremefarbener Strick-Cardigan), kein Gesicht. Geschätzt 60–70 Jahre, passend zu „I'm 66“. Dazu der Spaniel „Bella“. Rolle: Hundebesitzerin und Großmutter, Testimonial.
+- Voiceover weiblich (f0-Median 174 Hz im Hook, 176 Hz im Körper). Lippensynchronität nicht prüfbar.
+- **Einstufung Bild: wahrscheinlich KI-generiert (nicht verifiziert).** Begründung:
+  - Die Pfotenabdrücke (4–9 s und 44–48 s) sind symmetrisch und sehen wie Icons bzw. Stempel aus, nicht wie echter Schmutz.
+  - Durchgehend glatte, perfekt ausgeleuchtete Interieurs.
+  - Der Körper ist bildgleich mit 200037049, das Batch 4 ebenso einstuft.
+- Ob die Stimme echt oder synthetisch ist: nicht verifiziert.
+
+**Setting:** Hausflur bzw. Haustür bei Regen, britisches Schlafzimmer (Kiefern-Kommode, salbeigrüne Wände), Waschküche mit Frontlader, Abendszene.
+
+**Avatar / Angle**
+- Avatar: Hundebesitzer 60+ (Großeltern) in GB, deren Hund im Bett schläft.
+- Angle: **A** (Hygiene: Matschpfoten, „Dog hair, muddy paw prints, biscuit crumbs“, ganze Decke waschen) primär. Dazu **B** (10.5 tog, „never feels stuffy“), Rahmen **F-Haustier** und **F-Angebot**.
+
+**Haupt-Emotion:** Unbehagen bzw. leichter Ekel (Matschpfoten, „hoping the duvet underneath was fine“, „that started to bother me“), dann Erleichterung („I just don't think about it anymore“).
+
+**Schnitttempo / Untertitel / Ton:** 1,96 Schnitte pro 10 s. Untertitel ja: eingebrannt, Wortgruppen in Kleinschreibung, weiße Condensed-Grotesk mit Schatten, unteres Drittel. Ton: Voiceover plus durchgehendes Hintergrundbett (silencedetect findet keine Pause unter −40 dB), vermutlich Musik, nicht verifiziert.
+
+**Zahlen und Behauptungen (wörtlich):** „two muddy paws“ · „I'm 66“ · „a spaniel and three grandchildren“ · „I washed the cover every week“ · „my normal seven kilogram washing machine“ (Untertitel „7 kilogram washing machine“) · „it's dry in two hours“ · „the bed is made again by lunchtime“ · „It's 10.5 tog“ · „every bit as warm as a winter duvet, just without the weight“ · „breathable fibres mean it never feels stuffy on you“ · „30% off plus two free … pillowcases“ · Endkarte „30% OFF + 2 Free Pleene Pillow Cases (worth £39.99)“. Anzeigentext: „Fits your normal 7kg washing machine, dry in 2 hours“, „10.5 tog“.
+
+**Angebotspräsentation:** gesprochen „Right now … 30% off plus two free … pillowcases“, dazu die Endkarte mit zwei mintgrünen Kissen, „(worth £39.99)“ und SHOP-NOW-Grafik. Keine 90 Nächte, keine zeitliche oder Farb-Knappheit.
+
+**Varianten-Hinweis (verifiziert)**
+- **Hook-Variante von 200037049** (Hook „This is Bella …“) und **200037045** (Frage-Hook). Belege:
+  - Fensterweise Ton-Kreuzkorrelation 063 gegen 049: ab 10 s durchgehend r = 0,79–0,90 bei konstantem Versatz 1,667 s. Im Hook 0–10 s r ≤ 0,21.
+  - Die Schnittliste ab 8,73 s ist deckungsgleich mit 049 (+1,47 s).
+- Neuer Hook: „Wet November walk …“ (0–8,8 s, zwei neue Einstellungen).
+- Der Produktblock („It's a duvet and cover in one … Tap the link below“) ist wortgleich mit den Familien „Spare Bed“ (200037052/047/059) und „When Did You Last Wash Your Duvet?“ (200037044/062/061).
+
+---
+
+#### Video 200037062 – When Did You Last Wash Your Duvet?
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 200037062 / 527527977 |
+| Meta-ID | 1426769122930670 |
+| Ad Library | https://www.facebook.com/ads/library/?id=1426769122930670 |
+| share_url | https://app.gethookd.ai/share/ad/200037062?signature=cda1bc0bd9028c69d9fba9351c6e6030713ed82bd1d77fc8a1574dafccc5ec75 |
+| Land / Plattformen | GB / facebook, instagram, audience_network, threads |
+| Start / Tage aktiv | 2026-10-05 / 4 (start_to_today, active) |
+| performance_score / used_count | 1 („Testing“) / 1 |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | https://pleene.com/products/easyrest (product_page) |
+| Link-Beschreibung | „Coverless duvet · The whole duvet, washed at home · 30% off + 2 free pillow cases“ |
+| Länge / Format | 45,81 s · 720×1280 · 25 fps · Audio mean −17,0 dB, max −4,5 dB |
+| Schnitte (0,3) | 16 (3,12 / 4,60 / 6,28 / 8,48 / 11,28 / 12,60 / 14,32 / 15,72 / 17,16 / 19,24 / 24,56 / 28,04 / 29,20 / 33,24 / 35,64 / 40,04 s) = **3,49 pro 10 s** (Blöcke 4/6/3/2/1). Bei 0,15: 21 = 4,58 pro 10 s |
+
+**Primärtext (wörtlich):** „🛏️ If a guest asked you when you last washed your duvet, not the cover, the duvet, what would you say? For a lot of us the honest answer is never, because it doesn't fit in the machine. ✓ Pleene EasyRest: cover sewn in, you wash the WHOLE duvet ✓ Normal 7kg machine, then the tumble dryer, dry in 2 hours 🧺 ✓ 10.5 tog, every bit as warm as a winter duvet, just without the weight 🎁 30% off + 2 FREE matching pillow cases.“
+
+**Transkript (GetHooked, vollständig, Englisch, plausibel; Markenname als „Plene“)**
+```
+00.00–04.54  If a guest asked you when you last washed your duvet, not the cover, the duvet, what would you say?
+04.54–06.28  Because that's the thing with a normal duvet.
+06.28–09.84  The cover gets washed, the duvet itself doesn't, because it won't fit in the machine.
+09.84–12.58  Mine hadn't been washed in years, and I'd never even thought about it.
+12.58–15.68  So I switched to the Plene EasyRest, and now I wash the whole duvet.
+15.68–17.10  It's a duvet and cover in one.
+17.10–19.18  The cover is sewn in, so you never take it off.
+19.18–20.90  You just wash the whole duvet in one piece.
+20.90–25.74  The double goes straight into my normal 7kg washing machine, then the tumble dryer, and it's dry in 2 hours.
+25.74–29.18  Sheets, pillowcases, and the duvet itself, all washed on the same morning.
+29.18–33.22  It's 10.5 Tog, so it's every bit as warm as a winter duvet, just without the weight.
+33.22–35.64  And the breathable fibres mean it never feels stuffy on you.
+35.64–40.04  I swear to you, my bed always feels fresh, and the Plene pillowcases really do feel super soft.
+40.04–44.00  Right now, the EasyRest is on offer with 30% off, plus 2 free Plene pillowcases.
+44.00–45.56  Tap the link below and have a look.
+```
+Untertitel (1-s-Raster, `wf/s2b8_sheets/062_cap_00/01.jpg`) satzweise wortgleich. Schreibweisen im Untertitel: „Pleene EasyRest“, „The Double goes straight into my normal 7kg washing machine,“, „It's 10.5 tog“, „plus two free Pleene Pillow Cases.“. ElevenLabs nicht nötig.
+
+**Hook (0–3 s)**
+- Gesprochen: „If a guest asked you when you last washed your duvet, not the cover, the duvet, what would you say?“ (0–4,54)
+- Eingeblendet (0,25-s-Raster): „If a guest asked you when you last washed your duvet,“ (0–2,2 s) → „not the cover, the duvet,“ (2,5–3,5 s) → „what would you say?”“ (3,8–4,5 s)
+- Bild: 0–3,12 s POV-Nahaufnahme, eine gebräunte Männerhand greift und drückt eine weiße Bettdecke (ohne Bezug), im Hintergrund hellgrüne Bettwäsche. 3,12–4,60 s eine Frau (ca. 45–55, dunkles Haar, weißes T-Shirt) hinter einer weißen Steppdecke vor blauem Polsterkopfteil, sie blickt in die Kamera und lächelt.
+- Hook-Typ: Konfrontations-Frage mit sozialem Druck (Gast als Zeuge).
+
+**Szenenliste (alle 16 Schnitte angesehen)**
+| Sek. | Szene | Untertitel |
+|---|---|---|
+| 0,00–3,12 | Männerhand drückt weiße Decke | „If a guest asked you …“ → „not the cover, the duvet,“ |
+| 3,12–4,60 | Frau hinter weißer Steppdecke | „not the cover, the duvet,“ → „what would you say?”“ |
+| 4,60–6,28 | Mann zieht gelb-karierte Bettwäsche ab (grünes Schlafzimmer, Holz-Regalkopfteil) | „Because that's the thing with a normal duvet:“ |
+| 6,28–8,48 | Mann zieht einen Blätter-Bezug ab | „the cover gets washed, the duvet itself doesn't,“ |
+| 8,48–11,28 | Person im grauen Hoodie stopft weiße Decke in einen Bosch-Frontlader | „because it won't fit in the machine“ → „Mine hadn't been washed in years,“ |
+| 11,28–12,60 | Decke quillt aus der Maschine | „and I'd never even thought about it“ |
+| 12,60–14,32 | Frau sitzt im Bett mit blauer EasyRest | „So I switched to the Pleene EasyRest,“ |
+| 14,32–15,72 | Frau (Pyjama) lädt blaue Decke in einen Samsung-Frontlader | „and now I wash the whole duvet“ |
+| 15,72–17,16 | Frau macht das Bett (Durchblick durch die Tür) | „It's a duvet and cover in one“ |
+| 17,16–19,24 | Hand auf mintgrüner Decke | „The cover is sewn in, so you never take it off,“ |
+| 19,24–24,56 | Mintgrüne Decke in silbernen Frontlader (blau gemusterte Fliesen) | „you just wash the whole duvet in one piece“ → „The Double goes straight into my normal 7kg washing machine,“ → „then the tumble dryer,“ |
+| 24,56–28,04 | Mann hält die mintgrüne Decke, riecht bzw. drückt sie | „and it's dry in 2 hours.“ → „Sheets, pillowcases and the duvet itself,“ |
+| 28,04–29,20 | Mann breitet die Decke aus | „all washed on the same morning“ |
+| 29,20–33,24 | Mann im Bett umarmt die Decke | „It's 10.5 tog, so it's every bit as warm as a winter duvet,“ → „just without the weight,“ |
+| 33,24–35,64 | Mann schläft unter der Decke | „and the breathable fibres mean it never feels stuffy on you“ |
+| 35,64–40,04 | Kissen und Deckenrand, Hand | „I swear to you, my bed always feels fresh.“ → „And the Pleene Pillow Cases really do feel super soft.“ |
+| 40,04–45,81 | Mann liegt im Bett, Draufsicht, lächelt | (oben) „Right now the EasyRest is on offer with 30% off,“ → „plus two free Pleene Pillow Cases.“ → „Tap the link below and have a look“ |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook | 0–4,54 | Gast-Frage „not the cover, the duvet“ |
+| Problem | 4,54–9,84 | „The cover gets washed, the duvet itself doesn't, because it won't fit in the machine.“ |
+| Verstärkung | 9,84–12,58 | „Mine hadn't been washed in years, and I'd never even thought about it.“ |
+| Lösung | 12,58–17,10 | „So I switched … now I wash the whole duvet. It's a duvet and cover in one.“ |
+| Mechanismus | 17,10–29,18 | „sewn in“, „wash the whole duvet in one piece“, „normal 7kg washing machine, then the tumble dryer, and it's dry in 2 hours“, „all washed on the same morning“ |
+| Einwand Wärme | 29,18–35,64 | „10.5 Tog … as warm as a winter duvet … never feels stuffy“ |
+| Beweis | 35,64–40,04 | nur Eigen-Testimonial. Fremdbeweise **fehlen** |
+| Angebot | 40,04–44,00 | „30% off, plus 2 free … pillowcases“ (nur gesprochen und als Untertitel, keine Endkarte) |
+| CTA | 44,00–45,56 | „Tap the link below and have a look.“ |
+
+**Personen / Sprecher**
+- Mann, ca. 35–45 (kurze dunkle Haare, Bart, hellgraues T-Shirt, Smartwatch). Grünes Schlafzimmer mit Holz-Regalkopfteil und Lampenschirm mit Kupfermuster. Das ist **wahrscheinlich dasselbe Schlafzimmer und derselbe Darsteller wie in 193234219/145443331** (visueller Abgleich, nicht verifiziert).
+- Frau, ca. 45–55, dunkles Haar, weißes T-Shirt bzw. Pyjama, in einer zweiten Wohnung (blaues Polsterkopfteil, Samsung-Maschine).
+- Person im grauen Hoodie (nur Rumpf und Arme) am Bosch-Frontlader.
+- **Echte Personen bzw. UGC-Footage** (Einschätzung wie Batch 5 für 200037044). Begründung: Handkamera, reale Wohnungen mit Alltagsgegenständen, drei verschiedene Waschmaschinen, natürliche Bewegungen, keine Render-Artefakte.
+- Sprecher: **nur Voiceover**, f0-Median 178 Hz im Hook, 167 Hz im Körper (Grenzbereich, Geschlecht nicht verifiziert). Die Frau bei 3,1–4,6 s spricht nicht erkennbar lippensynchron (nicht verifiziert). Ob die Stimme KI-generiert ist: nicht verifiziert.
+
+**Setting:** mehrere private Schlafzimmer, Küche bzw. Hauswirtschaftsräume mit drei verschiedenen Waschmaschinen.
+
+**Avatar / Angle**
+- Avatar: Haushaltsführende bzw. Gastgeber in UK, ca. 35–60, die Besuch haben und ihre Decke nie waschen.
+- Angle: **A** (Hygiene: „not the cover, the duvet“, „hadn't been washed in years“) primär. Dazu **B** (10.5 Tog, „never feels stuffy“), **C** (Bezug eingenäht) und **F-Angebot**.
+
+**Haupt-Emotion:** Scham bzw. Ertappt-Sein vor dem Gast, dann Erleichterung und Frische.
+
+**Schnitttempo / Untertitel / Ton:** 3,49 Schnitte pro 10 s (im ersten Drittel schneller: 4–6 pro 10 s). Untertitel ja: CapCut-Stil, weiße Box, schwarze fett-kursive Schrift, satzweise, Mitte bzw. oben. Ton: Voiceover plus durchgehendes leises Hintergrundbett (keine Pause unter −40 dB), vermutlich Musik, nicht verifiziert.
+
+**Zahlen und Behauptungen (wörtlich):** „not the cover, the duvet“ · „won't fit in the machine“ · „Mine hadn't been washed in years“ · „The cover is sewn in“ · „normal 7kg washing machine“ · „then the tumble dryer, and it's dry in 2 hours“ · „all washed on the same morning“ · „10.5 Tog“ · „every bit as warm as a winter duvet, just without the weight“ · „never feels stuffy on you“ · „30% off, plus 2 free … pillowcases“. Anzeigentext zusätzlich: „For a lot of us the honest answer is never“.
+
+**Angebotspräsentation:** nur gesprochen und als Untertitel („on offer with 30% off, plus 2 free … pillowcases“). Keine Endkarte, kein £-Wert, keine 90 Nächte, keine Knappheit.
+
+**Varianten-Hinweis (verifiziert)**
+- **Hook-Test mit 200037044** (Batch 5, Hook „Quick question, when you change your bed …“) und **200037061** (Hook „How old is the duvet …“). Belege:
+  - Körper-Ton ab 6,5 s: r = 0,995 gegen 044 und r = 0,995 gegen 061, jeweils bei Versatz 0 nach Ausrichtung.
+  - Schnittliste ab 4,60 s deckungsgleich mit 044 (−1,04 s).
+- Der Hook-Satz ist zugleich der Primärtext von 044/062/061 und ähnelt dem Hook von 200037045.
+
+---
+
+#### Video 200037061 – When Did You Last Wash Your Duvet?
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 200037061 / 527527974 |
+| Meta-ID | 1056794434059905 |
+| Ad Library | https://www.facebook.com/ads/library/?id=1056794434059905 |
+| share_url | https://app.gethookd.ai/share/ad/200037061?signature=0567af9a9eaa403fac9aabda031e164b44e4c540386667d1dc31c6c13838d758 |
+| Land / Plattformen | GB / facebook, instagram, audience_network, threads |
+| Start / Tage aktiv | 2026-10-05 / 4 (start_to_today, active) |
+| performance_score / used_count | 1 („Testing“) / 1 |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | https://pleene.com/products/easyrest (product_page) |
+| Link-Beschreibung | „Coverless duvet · The whole duvet, washed at home · 30% off + 2 free pillow cases“ |
+| Länge / Format | 46,41 s · 720×1280 · 25 fps · Audio mean −17,0 dB, max −4,6 dB |
+| Schnitte (0,3) | 17 (2,04 / 3,96 / 5,20 / 6,92 / 9,12 / 11,88 / 13,24 / 14,92 / 16,32 / 17,76 / 19,84 / 25,20 / 28,68 / 29,84 / 33,84 / 36,28 / 40,68 s) = **3,66 pro 10 s** (Blöcke 5/6/3/2/1). Bei 0,15: 19 = 4,09 pro 10 s |
+
+**Primärtext (wörtlich):** identisch mit 200037062 („🛏️ If a guest asked you when you last washed your duvet, not the cover, the duvet, what would you say? For a lot of us the honest answer is never, because it doesn't fit in the machine. ✓ Pleene EasyRest: cover sewn in, you wash the WHOLE duvet ✓ Normal 7kg machine, then the tumble dryer, dry in 2 hours 🧺 ✓ 10.5 tog, every bit as warm as a winter duvet, just without the weight 🎁 30% off + 2 FREE matching pillow cases.“). Der Primärtext passt damit nicht zum gesprochenen Hook dieser Variante.
+
+**Transkript (GetHooked, vollständig, Englisch, plausibel; Markenname als „Plene“)**
+```
+00.00–02.00  How old is the duvet you slept under last night?
+02.00–05.10  Mine was 12 years old, and in 12 years it had never once been washed.
+05.10–06.90  Because that's the thing with a normal duvet.
+06.90–10.40  The cover gets washed, the duvet itself doesn't, because it won't fit in the machine.
+10.40–13.20  Mine hadn't been washed in years, and I'd never even thought about it.
+13.20–16.30  So I switched to the Plene EasyRest, and now I wash the whole duvet.
+16.30–17.70  It's a duvet and cover in one.
+17.70–19.80  The cover is sewn in, so you never take it off.
+19.80–21.50  You just wash the whole duvet in one piece.
+21.50–24.20  The double goes straight into my normal 7kg washing machine,
+24.20–26.30  then the tumble dryer, and it's dry in 2 hours.
+26.30–29.80  Sheets, pillowcases, and the duvet itself, all washed on the same morning.
+29.80–33.80  It's 10.5 Tog, so it's every bit as warm as a winter duvet, just without the weight.
+33.80–36.20  And the breathable fibres mean it never feels stuffy on you.
+36.20–38.10  I swear to you, my bed always feels fresh.
+38.10–40.60  And the Plene pillowcases really do feel super soft.
+40.60–44.60  Right now the EasyRest is on offer with 30% off, plus 2 free Plene pillowcases.
+44.60–46.10  Tap the link below and have a look.
+```
+Untertitel (1-s-Raster, `wf/s2b8_sheets/061_cap_00/01.jpg`) satzweise wortgleich. Im Hook schreiben sie die Zahl aus: „Mine was twelve years old,“ / „and in twelve years“. ElevenLabs nicht nötig.
+
+**Hook (0–3 s)**
+- Gesprochen: „How old is the duvet you slept under last night? Mine was 12 years old, and in 12 years it had never once been washed.“ (0–5,10)
+- Eingeblendet (0,25-s-Raster): „How old is the duvet you slept under last night?“ (0–2,0 s) → „Mine was twelve years old,“ (2,2–3,0 s) → „and in twelve years“ (3,2–3,8 s) → „it had never once been washed.“ (4,0–5,0 s)
+- Bild: 0–2,04 s Mann zieht gelb-karierte Bettwäsche ab (grünes Schlafzimmer, Holz-Regalkopfteil). 2,04–3,96 s eine Frau (ca. 45–55, karierte Pyjamahose) kniet auf dem Bett, umarmt eine weiße Decke und **riecht daran**. 3,96–5,20 s Männerhand drückt die weiße Decke.
+- Hook-Typ: persönliche Frage plus schockierende Zahl („12 years … never once been washed“), mit Geruchs- bzw. Ekel-Bild.
+
+**Szenenliste (alle 17 Schnitte angesehen)**
+| Sek. | Szene | Untertitel |
+|---|---|---|
+| 0,00–2,04 | Mann zieht gelb-karierte Bettwäsche ab | „How old is the duvet you slept under last night?“ |
+| 2,04–3,96 | Frau riecht an weißer Decke | „Mine was twelve years old,“ → „and in twelve years“ |
+| 3,96–5,20 | Männerhand drückt weiße Decke | „it had never once been washed.“ |
+| 5,20–40,68 | Körper **bild- und tongleich mit 200037062 ab 4,60 s** (Versatz +0,60 s): Mann zieht Bettwäsche ab (5,20–6,92), Blätter-Bezug (6,92–9,12), Bosch-Maschine (9,12–11,88/13,24), Frau mit blauer Decke im Bett (13,24–14,92), Samsung-Maschine (14,92–16,32), Bett machen (16,32–17,76), Hand auf mintgrüner Decke (17,76–19,84), silberne Maschine bzw. Trockner (19,84–25,20), Mann mit Decke (25,20–28,68), Decke ausbreiten (28,68–29,84), Mann umarmt Decke im Bett (29,84–33,84), Mann schläft (33,84–36,28), Kissen (36,28–40,68) | wie 200037062 |
+| 40,68–46,41 | Mann liegt im Bett, Draufsicht | (oben) „Right now the EasyRest is on offer with 30% off,“ → „plus two free Pleene Pillow Cases.“ → „Tap the link below and have a look“ |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook | 0–5,10 | „How old is the duvet …? Mine was 12 years old … never once been washed.“ |
+| Problem | 5,10–10,40 | „The cover gets washed, the duvet itself doesn't, because it won't fit in the machine.“ |
+| Verstärkung | 10,40–13,20 | „Mine hadn't been washed in years, and I'd never even thought about it.“ |
+| Lösung | 13,20–17,70 | „So I switched … now I wash the whole duvet. It's a duvet and cover in one.“ |
+| Mechanismus | 17,70–29,80 | sewn in, whole duvet in one piece, 7kg, tumble dryer, „dry in 2 hours“, „all washed on the same morning“ |
+| Einwand Wärme | 29,80–36,20 | „10.5 Tog … as warm as a winter duvet … never feels stuffy“ |
+| Beweis | 36,20–40,60 | nur Eigen-Testimonial, Fremdbeweise **fehlen** |
+| Angebot | 40,60–44,60 | „30% off, plus 2 free … pillowcases“ (ohne Endkarte) |
+| CTA | 44,60–46,10 | „Tap the link below and have a look.“ |
+
+**Personen / Sprecher:** wie 200037062. Im Hook sind derselbe Mann (ca. 35–45, grünes Schlafzimmer, wahrscheinlich derselbe Darsteller wie in 193234219) und dieselbe Frau (ca. 45–55) in anderen Einstellungen zu sehen. **Echte Personen bzw. UGC-Footage** (Einschätzung, Begründung wie 062). Nur Voiceover, f0-Median 178 Hz im Hook, 167 Hz im Körper (Geschlecht nicht verifiziert). Lippensynchronität: keine sprechende Person im Bild.
+
+**Setting:** wie 200037062 (mehrere private Schlafzimmer, drei Waschmaschinen).
+
+**Avatar / Angle**
+- Avatar: UK-Erwachsene, ca. 35–60, die ihre Decke seit Jahren haben und nie gewaschen haben.
+- Angle: **A** (Hygiene: „12 years … never once been washed“, Riech-Bild) primär. Dazu **B**, **C** und **F-Angebot**.
+
+**Haupt-Emotion:** **Ekel bzw. Schock** (12 Jahre ungewaschen, Riechen an der Decke) mit Scham, dann Erleichterung.
+
+**Schnitttempo / Untertitel / Ton:** 3,66 Schnitte pro 10 s (Hook-Bereich 5–6 pro 10 s). Untertitel ja (CapCut-Stil, wie 062). Voiceover plus durchgehendes leises Hintergrundbett, vermutlich Musik, nicht verifiziert.
+
+**Zahlen und Behauptungen (wörtlich):** „Mine was 12 years old, and in 12 years it had never once been washed.“ · „won't fit in the machine“ · „Mine hadn't been washed in years“ · „normal 7kg washing machine“ · „then the tumble dryer, and it's dry in 2 hours“ · „all washed on the same morning“ · „10.5 Tog“ · „every bit as warm as a winter duvet, just without the weight“ · „never feels stuffy on you“ · „30% off, plus 2 free … pillowcases“.
+
+**Angebotspräsentation:** wie 062: nur gesprochen und als Untertitel, kein £-Wert, keine Endkarte, keine Knappheit.
+
+**Varianten-Hinweis (verifiziert):** Hook-Variante von **200037062** und **200037044**. Körper-Ton r = 0,995 gegen 062, Gesamt r = 0,88 gegen 044 (Versatz −0,44 s). Die Schnittliste ab 5,20 s ist deckungsgleich mit 044 (−0,44 s) bzw. 062 (+0,60 s).
+
+---
+
+#### Video 200037059 – The Spare Bed, Fresh For Every Guest
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 200037059 / 527527961 |
+| Meta-ID | 1762566964862159 |
+| Ad Library | https://www.facebook.com/ads/library/?id=1762566964862159 |
+| share_url | https://app.gethookd.ai/share/ad/200037059?signature=59009cf51aaea1c606c359bf3dde2a7411fd0a4e972af70643b9fad86da60902 |
+| Land / Plattformen | GB / facebook, instagram, audience_network, threads |
+| Start / Tage aktiv | 2026-10-05 / 4 (start_to_today, active) |
+| performance_score / used_count | 1 („Testing“) / 1 |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | https://pleene.com/products/easyrest (product_page) |
+| Link-Beschreibung | „Coverless duvet · Fresh guest bed in 2 hours · 30% off + 2 free pillow cases“ |
+| Länge / Format | 73,77 s · 720×1280 · 30 fps · Audio mean −17,9 dB, max −0,4 dB |
+| Schnitte (0,3) | 15 (4,87 / 8,47 / 10,10 / 16,10 / 20,53 / 24,60 / 32,13 / 36,07 / 38,60 / 41,33 / 45,53 / 56,80 / 63,87 / 68,17 / 73,37 s) = **2,03 pro 10 s** (Blöcke 2/2/2/3/2/1/2/1). Bei 0,15: 24 = 3,25 pro 10 s |
+
+**Primärtext (wörtlich):** „🛏️ The grandchildren are coming to stay this weekend, and the spare bed is already done: whole duvet washed this morning, not just the cover. ✓ Pleene EasyRest: cover sewn in, duvet and cover in one ✓ The whole duvet goes in your normal 7kg washing machine, dry in 2 hours 🧺 ✓ 10.5 tog, every bit as warm as a winter duvet, just without the weight (yes, even in the cold spare room) 🎁 30% off + 2 FREE matching pillow cases.“
+
+**Transkript (GetHooked, vollständig, Englisch, plausibel; Markenname als „Plein“; lange Segmente, Satzgrenzen liegen innerhalb der Segmente)**
+```
+00.00–04.40  For years, the spare duvet lived in the cupboard between visits and never once got washed.
+05.20–09.04  I'd wash the cover and hope for the best. Not anymore.
+09.84–15.04  Quick bit of context. I'm 71 and we have people to stay a lot. The grandchildren,
+15.04–19.60  friends, my sister. Every visit meant the same faff with the spare duvet cover.
+20.24–23.60  And the duvet itself never got washed because it didn't fit in the machine.
+24.56–28.88  Then a friend recommended the Plein EasyRest and I'd tell anyone who has guests to get one,
+28.88–33.28  it's a duvet and cover in one. The cover is sewn in, so you never take it off. You just
+33.28–37.52  wash the whole duvet in one piece. The double goes straight into my normal seven kilogram washing
+37.52–42.48  machine, then the tumble dryer, and it's dry in two hours. So the morning after guests leave,
+42.48–47.28  the whole duvet is washed, dried, and back on the bed before lunch. The spare room is the coldest
+47.28–52.32  room in the house, so I did wonder about warmth. It's 10.5 Tog, so it's every bit as warm as a
+52.32–56.40  winter duvet, just without the weight. And the breathable fibres mean it never feels stuffy on
+56.40–62.08  you. I've got one on our own bed too now. I swear to you, my bed always feels fresh. And the Plein
+62.08–67.04  Pillow Cases really do feel super soft. Having people to stay is a pleasure again, not a bind.
+68.00–73.44  Right now, the EasyRest is on offer with 30% off, plus two free Plein Pillow Cases.
+```
+Die Untertitel (1-s-Raster, `wf/s2b8_sheets/059_cap_00–03.jpg`, Hook im 0,25-s-Raster) laufen in Kleinschreibung, als weiße Condensed-Schrift mit Schatten, wortgleich mit dem Transkript. Schreibweisen: „7kg washing machine“ (37–38 s), „Pleene EasyRest“ (25–26 s), „breathable fibers“ (55 s). Auf der Endkarte (ab 68,17 s) steht **kein** Untertitel. ElevenLabs nicht nötig.
+
+**Hook (0–3 s)**
+- Gesprochen: „For years, the spare duvet lived in the cupboard between visits and never once got washed.“ (0–4,40)
+- Eingeblendet: „for years“ (0,2–0,5 s) → „the spare duvet lived in the cupboard between visits“ (0,8–3,0 s) → „and never once got washed“ (3,2–4,0 s)
+- Bild: POV, ältere Hände im grauen Strick ziehen eine geblümte, vergilbte Decke aus einem Wäscheschrank. Bei ca. 2–3 s schweben **helle Partikel (wie aufgewirbelter Staub)** im Schrank.
+- Hook-Typ: Geständnis bzw. Hygiene-Tabu („never once got washed“) mit Staub-Bild.
+
+**Szenenliste (alle 15 Schnitte angesehen)**
+| Sek. | Szene | Untertitel |
+|---|---|---|
+| 0,00–4,87 | Alte geblümte Decke aus dem Wäscheschrank, Staubpartikel | „for years“ → „the spare duvet lived …“ → „and never once got washed“ |
+| 4,87–8,47 | Hände tragen die geblümte Decke durchs Gästezimmer | „I'd wash the cover and hope for the best“ |
+| 8,47–10,10 | Tür öffnet sich: Gästezimmer mit mintgrüner EasyRest und Teddy | „not anymore“ |
+| 10,10–16,10 | Flur: Garderobe mit Kinderjacken, Gummistiefel | „quick bit of context“ → „I'm 71“ → „and we have people to stay a lot“ → „the grandchildren“ |
+| 16,10–20,53 | Hände kämpfen mit dem geblümten Bezug über der weißen Decke | „my sister“ → „every visit meant the same faff“ → „with a spare duvet cover“ |
+| 20,53–24,60 | Alte Decke wird in einen weißen Frontlader gestopft | „and the duvet itself never got washed“ → „because it didn't fit in the machine“ |
+| 24,60–32,13 | Mintgrüne Decke wird aufs Bett geschwungen bzw. glattgestrichen | „then a friend recommended the Pleene EasyRest“ → „and I'd tell anyone who has guests to get one“ → „it's a duvet and cover in one“ → „the cover is sewn in so you never take it off“ |
+| 32,13–36,07 | Mintgrüne Decke in den Frontlader | „you just wash the whole duvet in one piece“ |
+| 36,07–38,60 | Hand dreht den Programmwähler | „the double goes straight into my normal“ → „7kg washing machine“ |
+| 38,60–41,33 | Decke aus dem Trockner (beleuchtete Trommel) | „then the tumble dryer and it's dry in 2 hours“ |
+| 41,33–45,53 | Decke wird auf die Matratze geworfen, dann glattgestrichen | „so the morning after guests leave“ → „the whole duvet is washed“ → „dried and back on the bed before lunch“ |
+| 45,53–56,80 | Abend: Hand am Heizkörper bzw. Fenster, dann Hände auf der Decke im Lampenlicht | „the spare room is the coldest room in the house“ → „so I did wonder about warmth“ → „it's 10.5 tog“ → „so it's every bit as warm as a winter duvet“ → „just without the weight“ → „and the breathable fibers“ → „mean it never feels stuffy on you“ |
+| 56,80–63,87 | Eigenes Schlafzimmer mit **blauer** EasyRest, Hand drückt darauf | „I've got one on our own bed too now“ → „I swear to you my bed always feels fresh“ → „and the Pleene pillowcases really do feel super soft“ |
+| 63,87–68,17 | Handtuch wird aufs Gästebett gelegt (Teddy) | „having people to stay is a pleasure again“ → „not a bind“ |
+| 68,17–73,77 | Einblendung der Endkarte: „Pleene EasyRest™ Pillow Cases“ / „30% OFF + 2 Free Pleene Pillow Cases“ / „(worth £39.99)“, mintgrünes Kissen, Icons „Gentle & skin-friendly“, „Luxuriously soft feel“, „Machine washable & easy care“. **Kein Button** | – |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook | 0–9,04 | „the spare duvet … never once got washed. I'd wash the cover and hope for the best. Not anymore.“ |
+| (Persona) | 9,84–15,04 | „Quick bit of context. I'm 71 and we have people to stay a lot.“ |
+| Problem | 15,04–23,60 | „Every visit meant the same faff with the spare duvet cover. And the duvet itself never got washed because it didn't fit in the machine.“ |
+| Verstärkung | **fehlt** als eigener Teil | das Problem wird nicht weiter zugespitzt |
+| Lösung | 24,56–29,5 | „Then a friend recommended the … EasyRest … it's a duvet and cover in one.“ (mit Weiterempfehlung als Social-Proof-light) |
+| Mechanismus | 29,5–47,28 | sewn in, whole duvet in one piece, „normal seven kilogram washing machine“, „tumble dryer … dry in two hours“, „washed, dried, and back on the bed before lunch“ |
+| Einwand Wärme | 47,28–56,40 | „The spare room is the coldest room in the house … 10.5 Tog … never feels stuffy“ |
+| Beweis | 56,40–67,04 | Eigen-Testimonial plus „I've got one on our own bed too now“. Fremdbeweise **fehlen** |
+| Angebot | 68,00–73,44 | „30% off, plus two free … Pillow Cases“ + Endkarte „(worth £39.99)“ |
+| CTA | **fehlt** | kein gesprochener CTA, kein Button auf der Endkarte, nur der Meta-Button „Shop now“ |
+
+**Personen / Sprecher**
+- POV-Hände und Unterarme einer älteren Frau (Falten, Ringe, grauer bzw. beiger Strick), kein Gesicht. Geschätzt 65–75, passend zu „I'm 71“. Rolle: Großmutter und Gastgeberin, Testimonial.
+- Voiceover: f0-Median 157 Hz im Hook, 154 Hz im Körper. Das ist tief für eine Frau, passt aber zu einer älteren Sprecherin. Geschlecht laut Messung nicht eindeutig, laut Bild und Rolle wahrscheinlich weiblich (nicht verifiziert). Lippensynchronität nicht prüfbar.
+- **Einstufung Bild: wahrscheinlich KI-generiertes POV-Video (nicht verifiziert).** Begründung:
+  - Die Staubpartikel (2–3 s) wirken stilisiert.
+  - Perfekt ausgeleuchtete, „generierte“ britische Interieurs.
+  - Der Körper ist bildgleich mit 200037052, das Batch 4 ebenso einstuft (unplausibles Decken-„Zelt“ bei 24,2 s dort).
+
+**Setting:** Wäscheschrank, Gästezimmer, Flur mit Kinderjacken und -stiefeln, Waschbereich mit Frontlader und Trockner, Abendszene im Gästezimmer, eigenes Schlafzimmer (blaue Decke).
+
+**Avatar / Angle**
+- Avatar: Großeltern bzw. Gastgeber 65+ in GB mit Gästebett, die häufig Besuch haben.
+- Angle: **A** (Hygiene: Gästedecke „never once got washed“, Staub) primär. Dazu **C** („the same faff with the spare duvet cover“), **B** („coldest room in the house“, 10.5 Tog), **F-Gastgeber/Großeltern** und **F-Angebot**. Leichter **F-Social-Proof** („a friend recommended“).
+
+**Haupt-Emotion:** leichte Scham bzw. Unbehagen (Staub, „hope for the best“), dann Erleichterung und Freude („a pleasure again, not a bind“).
+
+**Schnitttempo / Untertitel / Ton:** 2,03 Schnitte pro 10 s. Untertitel ja: eingebrannt, Kleinschreibung, weiße Condensed-Grotesk mit Schatten, oberes bzw. mittleres Bilddrittel. Ton: Voiceover. silencedetect findet 9 kurze Pausen unter −40 dB (0,4–0,94 s, z. B. 4,49–5,41 s). Ein durchgehendes Musikbett ist daher nicht erkennbar (nicht verifiziert).
+
+**Zahlen und Behauptungen (wörtlich):** „never once got washed“ · „I'm 71“ · „the same faff with the spare duvet cover“ · „didn't fit in the machine“ · „my normal seven kilogram washing machine“ (Untertitel „7kg washing machine“) · „then the tumble dryer, and it's dry in two hours“ · „washed, dried, and back on the bed before lunch“ · „The spare room is the coldest room in the house“ · „It's 10.5 Tog“ · „every bit as warm as a winter duvet, just without the weight“ · „never feels stuffy on you“ · „30% off, plus two free … Pillow Cases“ · Endkarte „30% OFF + 2 Free Pleene Pillow Cases (worth £39.99)“.
+
+**Angebotspräsentation:** gesprochen „30% off, plus two free … Pillow Cases“ und Endkarte mit „(worth £39.99)“. Keine 90 Nächte, keine Knappheit, **kein CTA**.
+
+**Varianten-Hinweis (verifiziert)**
+- **Hook-Variante von 200037052** (Körper-Ton r = 0,999) und **200037047** (r = 0,97). Batch 4, Start ebenfalls 2026-10-05.
+- Die Schnittliste ab 10,10 s ist deckungsgleich mit 052 (+0,60 s).
+- Neuer Hook: Wäscheschrank bzw. Staub (0–10,1 s).
+- Produktblock wortgleich mit den Familien „Bella“ (049/045/063) und „When Did You Last Wash Your Duvet?“ (044/062/061).
+
+---
+
+##### Hygiene-Zitate Batch 8
+
+Erfasst sind alle Stellen mit **Milben, Bakterien, Schweiß, Waschen, Trocknen oder Temperatur**, gesprochen (Transkript) und eingeblendet (Untertitel bzw. Overlay), wörtlich mit Ad-ID und Sekunde. Bild-Signale und Anzeigentexte stehen jeweils separat darunter.
+
+**Befund vorab:** In keiner der 7 Ads kommen „mites“ bzw. Milben, „bacteria“ bzw. Bakterien oder „sweat“ als Substantiv vor. Schweiß taucht nur als „never sweaty“ (193234216) und indirekt als „never feels stuffy“ auf.
+
+**193234219** (gesprochen laut Whisper und Untertitel-Abgleich)
+| Sek. | Quelle | Zitat | Kategorie |
+|---|---|---|---|
+| 12,24–14,80 | gesprochen | „Just put it in the washing machine and then in the tumble dryer.“ | Waschen, Trocknen |
+| 11,0–13,5 | Untertitel | „Just put it in the washing machine“ | Waschen |
+| 14,0–19,0 | Untertitel | „and then in the tumble dryer“ | Trocknen |
+| 19,04–23,60 | gesprochen | „the breathable fibres adapt to your body. Nice and warm in the winter,“ | Temperatur |
+| 23,60–27,68 | gesprochen | „comfortable and cool in the summer.“ | Temperatur |
+| 20,5–22,0 | Untertitel | „the breathable fibres adapt to your body“ | Temperatur |
+| 22,5–23,5 | Untertitel | „Nice and warm in the winter,“ | Temperatur |
+| 24,0–24,5 | Untertitel | „Comfortable and cool in the summer“ | Temperatur |
+| – | Anzeigentext | „wash it whole, dry in 2 hours, throw it back on.“ | Waschen, Trocknen |
+
+**193234218** (nur Einblendungen, kein Sprecher)
+| Sek. | Quelle | Zitat | Kategorie |
+|---|---|---|---|
+| ca. 1–4 | Karte | „Covers washed this year: 52“ | Waschen |
+| ca. 5–6 | Karte | „Duvet: 0“ | Waschen (Kontext) |
+| ca. 6,5–8 | Karte | „Not the cover, the duvet itself“ | Waschen (Kontext) |
+| ca. 9–10 | Karte | „Exactly, never“ | Waschen (Kontext) |
+| ca. 11–12 | Karte | „It never fits the machine.“ | Waschen |
+| ca. 21–22 | Karte | „The WHOLE thing. In your machine“ | Waschen |
+| 22,07–24,07 | Bild | schwarze Decke wird in einen Frontlader gestopft | Waschen (Bild) |
+| ca. 24,4–25,5 | Karte | „Dry in 2 hours“ | Trocknen |
+| ca. 26–27 | Karte | „Wash day Done“ | Waschen |
+| – | Anzeigentext | „if you want the bedroom ready for the colder nights“ | Temperatur |
+| – | Anzeigentext | „wash it whole, dry in 2 hours.“ | Waschen, Trocknen |
+
+**193234216** (nur Einblendungen, kein Sprecher)
+| Sek. | Quelle | Zitat | Kategorie |
+|---|---|---|---|
+| 0,0–3,0 | Overlay | „One duvet that handles a British winter“ | Temperatur |
+| 0,0–3,0 | Overlay | „10.5 TOG · warm, never sweaty“ | Temperatur, **Schweiß** |
+| 6,4–10,23 | Overlay | „Washes whole, fits any Washing machine, dry in 2 hours“ | Waschen, Trocknen |
+| – | Anzeigentext | „ready for the colder nights“ / „wash it whole, dry in 2 hours.“ | Temperatur, Waschen, Trocknen |
+
+**200037063**
+| Sek. | Quelle | Zitat | Kategorie |
+|---|---|---|---|
+| 0,00–4,08 | gesprochen | „Wet November walk, two muddy paws, straight onto the bed.“ | Hygiene-Kontext (Schmutz) |
+| 2–4 | Untertitel | „two muddy paws“ / „straight onto the bed“ | Hygiene-Kontext |
+| 4,08–8,80 | gesprochen | „For years that meant stripping the cover and hoping the duvet underneath was fine.“ | Waschen (Kontext) |
+| 4,13–8,73 | Bild | Schmutz-Pfotenabdrücke auf dem geblümten Bezug | Hygiene (Bild) |
+| 14,80–18,80 | gesprochen | „For years I washed the cover every week and told myself that was enough.“ | Waschen |
+| 15–18 | Untertitel | „for years I washed the cover every week and told myself“ | Waschen |
+| 18,80–22,56 | gesprochen | „The duvet underneath never got washed because it didn't fit in the machine“ | Waschen |
+| 19–22 | Untertitel | „the duvet underneath never got washed“ / „because it didn't fit in the machine“ | Waschen |
+| 22,56–25,68 | gesprochen | „and with a dog on the bed every night that started to bother me.“ | Hygiene-Kontext |
+| 25,68–29,84 | gesprochen | „now the whole thing goes in the wash.“ | Waschen |
+| 28–29 | Untertitel | „and now the whole thing goes in the wash“ | Waschen |
+| 32,40–37,68 | gesprochen | „you just wash the whole duvet in one piece.“ | Waschen |
+| 36–37 | Untertitel | „you just wash the whole duvet in one piece“ | Waschen |
+| 37,68–41,76 | gesprochen | „The double goes straight into my normal seven kilogram washing machine.“ | Waschen |
+| 40–41 | Untertitel | „7 kilogram washing machine“ | Waschen |
+| 41,76–44,72 | gesprochen | „Then the tumble dryer and it's dry in two hours.“ | Trocknen |
+| 42–44 | Untertitel | „then the tumble dryer“ / „and it's dry in 2 hours“ | Trocknen |
+| 44,72–48,40 | gesprochen | „Dog hair, muddy paw prints, biscuit crumbs from the grandchildren,“ | Hygiene-Kontext |
+| 45–48 | Untertitel | „dog hair“ / „muddy paw prints“ / „biscuit crumbs from the grandchildren“ | Hygiene-Kontext |
+| 44,27–47,93 | Bild | Pfotenabdrücke auf der mintgrünen Decke | Hygiene (Bild) |
+| 48,40–52,40 | gesprochen | „the whole lot just goes in the wash and the bed is made again by lunchtime.“ | Waschen |
+| 49–50 | Untertitel | „the whole lot just goes in the wash“ | Waschen |
+| 52,40–56,40 | gesprochen | „It's 10.5 tog so it's every bit as warm as a winter duvet,“ | Temperatur |
+| 53–56 | Untertitel | „it's 10.5 tog“ / „so it's every bit as warm as a winter duvet“ | Temperatur |
+| 56,40–61,20 | gesprochen | „just without the weight and the breathable fibres mean it never feels stuffy on you.“ | Temperatur (Schweiß-nah) |
+| 58–61 | Untertitel | „and the breathable fibres“ / „mean it never feels stuffy on you“ | Temperatur (Schweiß-nah) |
+| 73,5–81,6 | Endkarte | Icon-Text „Machine washable & easy care“ (Kissenbezüge) | Waschen |
+| – | Anzeigentext | „the WHOLE duvet goes in the wash, not just the cover“ · „Fits your normal 7kg washing machine, dry in 2 hours“ · „10.5 tog, every bit as warm as a winter duvet“ | Waschen, Trocknen, Temperatur |
+
+**200037062**
+| Sek. | Quelle | Zitat | Kategorie |
+|---|---|---|---|
+| 0,00–4,54 | gesprochen | „If a guest asked you when you last washed your duvet, not the cover, the duvet, what would you say?“ | Waschen |
+| 0–3,5 | Untertitel | „If a guest asked you when you last washed your duvet,“ / „not the cover, the duvet,“ | Waschen |
+| 6,28–9,84 | gesprochen | „The cover gets washed, the duvet itself doesn't, because it won't fit in the machine.“ | Waschen |
+| 7–9 | Untertitel | „the cover gets washed, the duvet itself doesn't,“ / „because it won't fit in the machine“ | Waschen |
+| 9,84–12,58 | gesprochen | „Mine hadn't been washed in years, and I'd never even thought about it.“ | Waschen |
+| 10–11 | Untertitel | „Mine hadn't been washed in years,“ | Waschen |
+| 12,58–15,68 | gesprochen | „and now I wash the whole duvet.“ | Waschen |
+| 15 | Untertitel | „and now I wash the whole duvet“ | Waschen |
+| 19,18–20,90 | gesprochen | „You just wash the whole duvet in one piece.“ | Waschen |
+| 20,90–25,74 | gesprochen | „The double goes straight into my normal 7kg washing machine, then the tumble dryer, and it's dry in 2 hours.“ | Waschen, Trocknen |
+| 21–25 | Untertitel | „The Double goes straight into my normal 7kg washing machine,“ / „then the tumble dryer,“ / „and it's dry in 2 hours.“ | Waschen, Trocknen |
+| 25,74–29,18 | gesprochen | „Sheets, pillowcases, and the duvet itself, all washed on the same morning.“ | Waschen |
+| 26–29 | Untertitel | „Sheets, pillowcases and the duvet itself,“ / „all washed on the same morning“ | Waschen |
+| 29,18–33,22 | gesprochen | „It's 10.5 Tog, so it's every bit as warm as a winter duvet, just without the weight.“ | Temperatur |
+| 30–33 | Untertitel | „It's 10.5 tog, so it's every bit as warm as a winter duvet,“ / „just without the weight,“ | Temperatur |
+| 33,22–35,64 | gesprochen | „And the breathable fibres mean it never feels stuffy on you.“ | Temperatur (Schweiß-nah) |
+| 34–35 | Untertitel | „and the breathable fibres mean it never feels stuffy on you“ | Temperatur (Schweiß-nah) |
+| 8,48–12,60 | Bild | weiße Decke passt kaum in den Bosch-Frontlader | Waschen (Bild) |
+| – | Anzeigentext | „when you last washed your duvet … the honest answer is never“ · „you wash the WHOLE duvet“ · „Normal 7kg machine, then the tumble dryer, dry in 2 hours“ · „10.5 tog, every bit as warm as a winter duvet“ | Waschen, Trocknen, Temperatur |
+
+**200037061** (Körper identisch mit 200037062, Zeiten hier +0,6 s)
+| Sek. | Quelle | Zitat | Kategorie |
+|---|---|---|---|
+| 2,00–5,10 | gesprochen | „Mine was 12 years old, and in 12 years it had never once been washed.“ | Waschen |
+| 2,2–5,0 | Untertitel | „Mine was twelve years old,“ / „and in twelve years“ / „it had never once been washed.“ | Waschen |
+| 2,04–3,96 | Bild | Frau riecht an der weißen Decke | Hygiene (Bild, Geruch) |
+| 6,90–10,40 | gesprochen | „The cover gets washed, the duvet itself doesn't, because it won't fit in the machine.“ | Waschen |
+| 10,40–13,20 | gesprochen | „Mine hadn't been washed in years, and I'd never even thought about it.“ | Waschen |
+| 13,20–16,30 | gesprochen | „and now I wash the whole duvet.“ | Waschen |
+| 19,80–21,50 | gesprochen | „You just wash the whole duvet in one piece.“ | Waschen |
+| 21,50–24,20 | gesprochen | „The double goes straight into my normal 7kg washing machine,“ | Waschen |
+| 24,20–26,30 | gesprochen | „then the tumble dryer, and it's dry in 2 hours.“ | Trocknen |
+| 26,30–29,80 | gesprochen | „Sheets, pillowcases, and the duvet itself, all washed on the same morning.“ | Waschen |
+| 29,80–33,80 | gesprochen | „It's 10.5 Tog, so it's every bit as warm as a winter duvet, just without the weight.“ | Temperatur |
+| 33,80–36,20 | gesprochen | „And the breathable fibres mean it never feels stuffy on you.“ | Temperatur (Schweiß-nah) |
+| 7–36 | Untertitel | satzweise wortgleich wie 062 (u. a. „Mine hadn't been washed in years,“ 11 s, „and now I wash the whole duvet“ 15–16 s, „my normal 7kg washing machine,“ 22–23 s, „then the tumble dryer,“ 25 s, „and it's dry in 2 hours.“ 25,5 s, „all washed on the same morning“ 29 s, „It's 10.5 tog, so it's every bit as warm as a winter duvet,“ 30 s, „… never feels stuffy on you“ 34–35 s) | Waschen, Trocknen, Temperatur |
+| – | Anzeigentext | identisch mit 200037062 | – |
+
+**200037059**
+| Sek. | Quelle | Zitat | Kategorie |
+|---|---|---|---|
+| 0,00–4,40 | gesprochen | „For years, the spare duvet lived in the cupboard between visits and never once got washed.“ | Waschen |
+| 3,2–4,0 | Untertitel | „and never once got washed“ | Waschen |
+| ca. 2–3 | Bild | helle Partikel bzw. Staub über der alten Decke im Schrank | Hygiene (Bild) |
+| 5,20–9,04 | gesprochen | „I'd wash the cover and hope for the best. Not anymore.“ | Waschen |
+| 5–8 | Untertitel | „I'd wash the cover and hope for the best“ | Waschen |
+| 20,24–23,60 | gesprochen | „And the duvet itself never got washed because it didn't fit in the machine.“ | Waschen |
+| 21–23 | Untertitel | „and the duvet itself never got washed“ / „because it didn't fit in the machine“ | Waschen |
+| 28,88–37,52 | gesprochen | „You just wash the whole duvet in one piece. The double goes straight into my normal seven kilogram washing machine,“ | Waschen |
+| 33–38 | Untertitel | „you just wash the whole duvet in one piece“ / „the double goes straight into my normal“ / „7kg washing machine“ | Waschen |
+| 37,52–42,48 | gesprochen | „then the tumble dryer, and it's dry in two hours.“ | Trocknen |
+| 39–41 | Untertitel | „then the tumble dryer and it's dry in 2 hours“ | Trocknen |
+| 42,48–47,28 | gesprochen | „So the morning after guests leave, the whole duvet is washed, dried, and back on the bed before lunch.“ | Waschen, Trocknen |
+| 42–45 | Untertitel | „so the morning after guests leave“ / „the whole duvet is washed“ / „dried and back on the bed before lunch“ | Waschen, Trocknen |
+| 47,28–52,32 | gesprochen | „The spare room is the coldest room in the house, so I did wonder about warmth.“ | Temperatur |
+| 46–49 | Untertitel | „the spare room is the coldest room in the house“ / „so I did wonder about warmth“ | Temperatur |
+| 52,32–56,40 | gesprochen | „It's 10.5 Tog, so it's every bit as warm as a winter duvet, just without the weight. And the breathable fibres mean it never feels stuffy on you.“ | Temperatur (Schweiß-nah) |
+| 50–56 | Untertitel | „it's 10.5 tog“ / „so it's every bit as warm as a winter duvet“ / „just without the weight“ / „and the breathable fibers“ / „mean it never feels stuffy on you“ | Temperatur (Schweiß-nah) |
+| 45,53–56,80 | Bild | Hand am Heizkörper bzw. am kalten Fenster, Abendstimmung | Temperatur (Bild) |
+| 68,2–73,8 | Endkarte | Icon-Text „Machine washable & easy care“ (Kissenbezüge) | Waschen |
+| – | Anzeigentext | „whole duvet washed this morning, not just the cover“ · „normal 7kg washing machine, dry in 2 hours“ · „10.5 tog, every bit as warm as a winter duvet … (yes, even in the cold spare room)“ | Waschen, Trocknen, Temperatur |
+
+---
+
+##### Kurz-Tabelle Batch 8
+
+| ID | Länge | Hook (wörtlich, gekürzt) | Angle | Avatar | Sprecher-Typ | Schnitte/10 s | Emotion |
+|---|---|---|---|---|---|---|---|
+| 193234219 | 46,7 s | „I only ordered it because everyone said never to change your bed linen again.“ | C (+F-Social-Proof, B, F-Farbe, F-Angebot) | Bettbezieh-Hasser 25–55, auch Männer | echter UGC-Creator (Mann ca. 30–40), O-Ton lippensynchron | 1,50 | Neugier bzw. Hype-Skepsis → Erleichterung |
+| 193234218 | 29,4 s | Karte „Covers washed this year: 52“ → „Duvet: 0“ (ohne Sprache) | A (+C, F-Angebot) | UK-Haushalte, die die Decke nie waschen | kein Sprecher, Musik; POV-Hände, wahrscheinlich KI | 0,68 (+ Kartenwechsel alle 2–2,5 s) | Ertappt-Sein/Scham → Erleichterung |
+| 193234216 | 15,9 s | Overlay „One duvet that handles a British winter / 10.5 TOG · warm, never sweaty“ | B (+C, A, F-Angebot/Knappheit) | Winter-Frierer bzw. Nachtschwitzer in UK | kein Sprecher, Musik; KI-Render (sehr wahrscheinlich) | 1,89 | Behaglichkeit → Dringlichkeit |
+| 200037063 | 81,6 s | „Wet November walk, two muddy paws, straight onto the bed.“ | A (+B, F-Haustier, F-Angebot) | Hundebesitzer 60+, Großeltern | VO weiblich („I'm 66“); Bild wahrscheinlich KI | 1,96 | Unbehagen/Ekel → Erleichterung |
+| 200037062 | 45,8 s | „If a guest asked you when you last washed your duvet, not the cover, the duvet, what would you say?“ | A (+B, C, F-Angebot) | Gastgeber bzw. Haushaltsführende 35–60 | nur VO (Geschlecht nicht verifiziert); echte UGC-Footage (Mann, Frau, Hoodie-Person) | 3,49 | Scham vor dem Gast → Erleichterung |
+| 200037061 | 46,4 s | „How old is the duvet you slept under last night? Mine was 12 years old …“ | A (+B, C, F-Angebot) | UK-Erwachsene 35–60 mit alter Decke | nur VO (Geschlecht nicht verifiziert); echte UGC-Footage | 3,66 | Ekel/Schock (Riech-Bild) → Erleichterung |
+| 200037059 | 73,8 s | „For years, the spare duvet lived in the cupboard between visits and never once got washed.“ | A (+C, B, F-Gastgeber, F-Angebot) | Großeltern bzw. Gastgeber 65+ mit Gästebett | VO („I'm 71“, Geschlecht laut Messung nicht eindeutig); POV-Bild wahrscheinlich KI | 2,03 | Scham/Unbehagen (Staub) → Freude |
+
+---
+
+##### Pflichtlisten-Prüfung (vor Abgabe)
+
+| Pflichtfeld | 219 | 218 | 216 | 063 | 062 | 061 | 059 |
+|---|---|---|---|---|---|---|---|
+| Transkript mit Zeitstempeln bzw. begründeter Vermerk | ✓ (GetHooked walisisch dokumentiert, korrigiert per Whisper, Untertiteln und Ton-Korrelation; ElevenLabs begründet nicht möglich) | ✓ (Platzhalter, Audio-Check: nur Musik) | ✓ (Platzhalter, Audio-Check: nur Musik) | ✓ | ✓ | ✓ | ✓ |
+| Hook gesprochen + eingeblendet (0–3 s) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Aufbau mit Sekunden, fehlende Teile markiert | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Person/Sprecher, Alter, Geschlecht, Rolle, echt/KI mit Begründung | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Setting | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Avatar + Angle-Code | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Haupt-Emotion | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Schnitttempo, Untertitel, Musik/VO/O-Ton | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Zahlen und Behauptungen wörtlich | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Angebotspräsentation | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Varianten-Hinweis | ✓ (Ton-/Schnitt-verifiziert) | ✓ (MD5) | ✓ (MD5) | ✓ (Ton fensterweise + Schnitte) | ✓ (Ton + Schnitte) | ✓ (Ton + Schnitte) | ✓ (Ton + Schnitte) |
+| Metadaten (Meta-ID, Start, Tage, Score, used_count, LP, share_url, Ad Library) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Frames 0/1/2/3 s + alle 5 s angesehen | ✓ | ✓ (jede Sekunde) | ✓ (jede Sekunde) | ✓ | ✓ | ✓ | ✓ |
+| Hygiene-Zitate erfasst | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+
+**Offen bzw. nicht verifiziert**
+- **ElevenLabs-Neutranskription von 193234219:** in dieser Session technisch nicht möglich, weil die Audio-Upload-Tools fehlen und der STT-Knoten kein Video annimmt. Ersatzweise mit lokalem Whisper, Untertiteln und Ton-Korrelation abgesichert. Im Hook ist das Wort „your“ (Whisper) gegenüber „the“ (Untertitel) nicht verifiziert.
+- **Echtheit von Stimmen und Bildern:** Ob die Voiceovers der vier langen Ads KI-Stimmen sind, ist nicht verifiziert. Die KI-Einstufung der Bilder (218, 216, 063, 059) ist eine Einschätzung.
+- **Musikbett:** In 219, 063, 062 und 061 ist das Hintergrundbett vermutlich Musik (nicht verifiziert). In 059 ist kein durchgehendes Bett erkennbar.
+- **Kartenzeiten in 193234218:** im 1-s-Raster gelesen, daher „ca.“ (feineres Raster für die byte-identische Datei 177443532 in Batch 6).
+
+
+### S2 – Creative-Tiefenanalyse, Video-Batch 9 (Agent 2)
+
+Stand: 2026-10-08 (Abruf ca. 17:30–17:45 UTC) · Marke Pleene · Produkt EasyRest · 7 Video-Ads: 200490722, 200490721, 200490718, 200490714, 200490660, 200490658, 200036996.
+
+Keine dieser IDs steht auf der Top-20-Liste, und keine Datei ist byte-identisch mit einem Top-20-Video. Weil die Schnittzahl klein ist (max. 7), habe ich trotzdem **an jedem erkannten Schnitt einen Frame angesehen** und für jedes Video eine vollständige Szenenliste erstellt.
+
+**Methodik und Quellen**
+- **Metadaten:** GetHooked `get_ad` für alle 7 IDs (2026-10-08 ca. 17:30 UTC). Kurzfassung in `wf/s2b9_api/meta.json`. Werte stimmen mit `agent1_enriched.json` überein (Start, Tage, Score, used_count, Landingpage). Zusätzlich aus `get_ad`: Länder, Link-Beschreibung, CTA, page_type.
+- **Transkripte:** `get_transcription_status` für alle 7 IDs, alle Status terminal (`complete: true`), `transcribe_ads` war nicht nötig.
+  - 200490722, 200490658 (wortgleich) und 200490721: echte Transkripte mit Segmenten.
+  - 200490718, 200490660 und 200036996: Platzhalter „Thanks for watching!“ über die ganze Länge.
+  - 200490714: `no_speech`, kein Transkript.
+- **Audio-Checks** (Rohdaten in `wf/s2b9_meta/`): `volumedetect`, `silencedetect` (−40 dB / 0,4 s; bei 722 zusätzlich −55 dB / 0,2 s), Spektrogramme (`wf/s2b9_audio/*_spec*.png`), lokale Whisper-Gegenprobe (faster-whisper 1.1.1, `small.en`, offline, `wf/s2b9_meta/asr_small_en.txt`), Grundfrequenz-Schätzung je Segment (`wf/s2b9_scripts/pitch.py`, Autokorrelation; nur Indiz).
+- **ElevenLabs: nicht eingesetzt.** Kein Transkript ist sprachlich falsch erkannt (keine Fremdsprache). Die drei Platzhalter und der `no_speech`-Fall sind laut Audio-Check eindeutig **nur Musik**, da gibt es nichts neu zu transkribieren. Die zwei echten Transkripte sind inhaltlich korrekt (nur der Markenname ist falsch erkannt), lokales Whisper bestätigt sie.
+- **Videos:** `wf/vid/<id>.mp4` (Download-Kopien in `wf/s2b9_dl/`). Alle 720×1280 (9:16), H.264, 29,97 fps, AAC 48 kHz Stereo. Probe-Rohdaten: `wf/s2b9_meta/<id>.probe.json`.
+- **MD5-Abgleich gegen alle 63 Dateien in `wf/vid/`** (`wf/s2b9_meta/md5_all.txt`):
+  - 200490722 = **200490658** (beide in diesem Batch), md5 `61006fb97075edf67277ceb101bc9aba`
+  - 200490718 = **200490660** (beide in diesem Batch), md5 `1ee3c474eeb60a6487f24f13265fda03`
+  - 200490721 = **200490655** (Batch 6), md5 `ed2d03196be3937e31b6ff6f691ab6e4`
+  - 200490714 = **200490657** (Batch 5), md5 `b6079d500410e03268b6cd4db96b8bee`
+  - 200036996 = **200490719** (Batch 5), md5 `f4ee5323839198ac6b87bdebccdab57f`
+  - Ton-Kreuzkorrelation (`wf/s2b9_scripts/xcorr_many.py`, 8 kHz mono, `wf/s2b9_meta/xcorr_hits.txt`): jeweils 1,000 bei Lag 0 mit dem Zwilling, gegen alle anderen Videos ≤ 0,071. **Kein gemeinsamer Musiktrack** mit anderen Ads.
+  - Byte-identische Dateien haben identische Frames. Für 200490660 und 200490658 gelten deshalb die bei 200490718 bzw. 200490722 angesehenen Frames.
+- **Schnitte:** `select='gt(scene,0.3)',showinfo`, dazu Schwelle 0,15 und Szenen-Scores ab 0,06 (`wf/s2b9_meta/scenes_006.txt`). Der Wert bei 0,03 s (bzw. 0,13 s bei 721) ist jeweils die Einblendung aus Schwarz und zählt nicht als Schnitt. Jeder Treffer wurde per Frame geprüft. Gezählt sind **visuell bestätigte** Szenenwechsel inklusive Jump-Cuts (bei 722 ein Jump-Cut bei 19,12 s mit Score 0,11, den die 0,3-Schwelle nicht findet).
+- **Frames:** `wf/frames/<id>/`. Raster: 722 und 718 alle 0,5 s (0 s bis Ende), 721/714/996 jede Sekunde plus 0,5 / 1,5 / 2,5 s, dazu je ein Frame 0,2 s nach jedem Schnitt und ein Schlussframe; außerdem Verdichtungen um 19,05–19,25 s (722) und 8,6–8,95 s (721), Gesichts- und Personen-Crops (722, 718) und ein Footage-Abgleich mit 193234224, 714 und 145443331 (`wf/s2b9_sheets/cmp_footage.jpg`). Alle Kontaktbögen in `wf/s2b9_sheets/` habe ich mit dem Read-Tool angesehen.
+- **Reichweite und Spend:** n/a für alle 7 Ads (`eu_total_reach` und `ad_spend_range_score` null).
+- **Weitere Felder:** `ai_badge` null bei allen 7 (kein Badge; das sagt nichts über „echt“), `script_anatomy` überall `not_analysed`, `creative_insights` überall null. CTA bei allen `SHOP_NOW` „Shop now“. Plattformen bei allen facebook, instagram, audience_network, whatsapp, threads.
+
+**Wichtigste Querbefunde des Batches**
+1. **Nur 2 der 7 IDs sind für die Analyse neue Creatives** (722/658 „My back just can't take this anymore“ und 718/660 „I used to need help with this.“). Jedes Video läuft als **Paar**: eine Ad auf `/products/easyrest` (Länder `[]`, n/a) und eine auf `/products/easyrest-comforter` (Länder `["US"]`). Paare: 722/658, 718/660, 721/655, 714/657, 719/996. Alle starteten am 2026-10-06.
+2. **Score-Gefälle innerhalb byte-identischer Paare:** Die in Batch 5/6 analysierten Zwillinge 200490655, 200490657 und 200490719 standen dort bei Score 30 (enriched: 12). Ihre Zwillinge hier (721, 714, 996) stehen nach gleicher Laufzeit (3 Tage) bei Score 1. Der Score hängt also an der Ad, nicht an der Datei (wie schon in Batch 7 beobachtet; Interpretation, nicht verifiziert). 996 ist dabei die US-Variante, 719 die `/easyrest`-Variante; ein einfaches Länder-Muster gibt es also nicht.
+3. **Neuer Angle-Strang „Selbstständigkeit im Alter“ (F-Selbstständigkeit + E):**
+   - 718/660 (Headline „Bedding Made for Independence“): Hook „I used to need help with this.“ mit älterem Mann, der sich den Rücken hält; Abschluss „No waiting. No asking for help.“
+   - 722/658: Hook „My back just can't take this anymore.“, Endkarte „More Independence. More Comfort.“
+   - Damit adressiert Pleene erstmals in diesem Batch körperliche Beschwerden (Rücken) direkt im Hook.
+4. **Kein einziges Angebot im ganzen Batch:** keine Gratis-Kissenbezüge, kein £-Wert, keine 90 Nächte, keine Knappheit. Auch die Primärtexte nennen kein Angebot. Das passt zur ganzen Test-Familie vom 2026-10-06 (Batch 5/6).
+5. **Hygiene nur als Waschbarkeit:** Milben, Bakterien und Schweiß kommen in keiner der 7 Ads vor. Waschen/Trocknen erscheint in 721, 718/660, 714, 996 als Produkteigenschaft („wash the whole duvet right at home“, „Two hours later, it's dry“). Temperatur in 722/658 („haven't been too hot or too cold once“) und 721 („warm and cosy in winter and cool and comfortable in summer“).
+6. **Trocknungs-Behauptung uneinheitlich:** 718/660 sagt „air dry it for 2 hours“ (Bild: Wäscheleine), Primärtext „air dries in 2 hours“; 996 zeigt ebenfalls die Wäscheleine zu „Two hours later, it's dry“. In 184134616 (Batch 7) heißt es dagegen „then the tumble dryer, and it's dry in two hours“. Ob die 2 Stunden für Lufttrocknung gelten: **nicht verifiziert**.
+7. **Footage-Pool:** 718/660 ist ein Zusammenschnitt aus Material, das auch in anderen Ads läuft (visuell abgeglichen): Bademantel-Mann im Tiffany-Lampen-Zimmer wie 193234224 (0–4 s); Frau mit blauer Decke wie 722; bärtiger Mann im Bett unter grauer Decke = dieselbe Einstellung wie 714 (20,05–25,03) und Creator aus Top-20 145443331/145443318; Toplader und Wäscheleine wie 996.
+
+---
+
+#### Video 200490722 – A Smarter Way To Do Bedding
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 200490722 / 528521259 |
+| Meta-ID | 1103563399362311 |
+| Ad Library | https://www.facebook.com/ads/library/?id=1103563399362311 |
+| share_url | https://app.gethookd.ai/share/ad/200490722?signature=dd70cdeb1b3f44685b65dd999b089fa20ba19c1b6db90d019468210a9539d0a1 |
+| Land / Sprache | `[]` (n/a) / en |
+| Start / Tage aktiv | 2026-10-06 / 3 (start_to_today, active) |
+| performance_score / used_count | 1 („Testing“) / 1 |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | https://pleene.com/products/easyrest (product_page) |
+| Link-Beschreibung | „No separate duvet cover“ |
+| Technik | 27,88 s · 720×1280 · 29,97 fps · AAC 48 kHz · mean −17,4 dB, max −0,6 dB · Stille (−40 dB) nur 27,17–27,80 |
+| Schnitte | Detektor 0,3: 2 (11,88 / 22,89) = 0,72 pro 10 s; 0,15 zusätzlich 3,50; Score-Scan zusätzlich Jump-Cut 19,15 (0,11). **Visuell bestätigt: 4 Schnitte (3,50 / 11,88 / 19,12 / 22,89) = 1,43 pro 10 s** (0–10: 1 · 10–20: 2 · 20–27,9: 1) |
+
+**Primärtext (wörtlich):** „Bedding shouldn't be harder than it needs to be. Pleene EasyRest™ combines the duvet and cover in one, so there's nothing separate to change, stuff or wrestle with.“
+
+**Transkript (GetHooked/Whisper, vollständig, wörtlich)**
+| Sek. | Sprecher (f0-Indiz) | Text |
+|---|---|---|
+| 0,00–4,08 | Frau (f0 ≈ 186 Hz) | My back just can't take this anymore. |
+| 4,08–6,24 | Frau (≈ 205 Hz) | The EasyClean was our solution. |
+| 6,24–7,68 | Frau (≈ 208 Hz) | The cover is sewn in. |
+| 7,68–9,24 | Frau | That's the whole idea. |
+| 9,24–12,36 | Frau | There's nothing to change, ever. |
+| 12,36–15,32 | Mann (≈ 122 Hz) | And I haven't been too hot or too cold once. |
+| 15,32–16,32 | Mann (≈ 118 Hz) | How does it do that? |
+| 16,32–19,40 | Mann (≈ 114 Hz) | Why didn't someone tell us about this earlier? |
+| 19,40–21,60 | Frau (≈ 225 Hz) | Duvet and cover in one. |
+| 21,60–22,68 | Frau (≈ 188 Hz) | We're never going back. |
+
+Transkript-Qualität: inhaltlich korrekt, lokales Whisper ist deckungsgleich (nur „The EZ Clean was our solution“). „EasyClean“ ist ein Erkennungsfehler; der Untertitel sagt „The Pleene EasyRest“. Unter der Sprache liegt eine durchgehende Tonlinie bei ca. 750 Hz (Spektrogramm), vermutlich ein leises Musikbett (**nicht verifiziert**); auf der Endkarte (22,9–27,2 s, mean −20,2 dB) eindeutig Musik ohne Sprache.
+
+**Hook (0–3 s)**
+- Gesprochen: „My back just can't take this anymore.“ (0,00–4,08)
+- Eingeblendet: „My back can't / take this anymore.“ (0,5–3,5; Untertitel ohne „just“)
+- Bild: Frau steht hinter einem Bett mit weißem Metallgestell, auf dem nur ein weißes Laken liegt; bei ca. 1,5 s greift sie sich an den unteren Rücken. Helles Zimmer, Holzboden, Gardinen.
+- Hook-Typ: Schmerz-/Problem-Statement in Ich-Form.
+
+**Untertitel (vollständig, wörtlich; weiße Serifenschrift in halbtransparenter grauer, abgerundeter Box, untere Bildhälfte, mit Fade)**
+„My back can't / take this anymore.“ (0,5–3,5) · „The Pleene EasyRest / was our solution.“ (3,7–6,0) · „The cover is sewn in, and / there's nothing to change ever.“ (6,5–11,5) · „And I haven't been too / hot or too cold once.“ (12,0–15,0) · „How does it / do that?“ (15,5–16,5) · „Why didn't someone / tell us about this earlier?“ (17,0–19,05) · „Duvet and cover in one. / We're never going back.“ (19,18–22,5) · Endkarte auf Schwarz: „More Independence. / More Comfort.“ (goldfarben, ab 23,0), „Pleene.“ / „EasyRest™“ (ab ca. 24,0), „SHOP NOW“ (ab ca. 24,5) bis 27,88.
+- Abweichungen zum Gesprochenen: „just“ fehlt; „That's the whole idea.“ fehlt im Untertitel; „EasyClean“ (ASR) = „Pleene EasyRest“.
+
+**Szenenliste (alle Übergänge angesehen)**
+| Sek. | Szene |
+|---|---|
+| 0,00–0,03 | Schwarz, Einblendung |
+| 0,03–3,50 | Totale: Frau (Brille, weißes T-Shirt, dunkle Hose) hinter dem Bett mit weißem Laken, Hand am Rücken |
+| 3,50–11,88 | Gleiches Zimmer, jetzt blaue EasyRest auf dem Bett: Frau hebt eine Ecke an, spricht und gestikuliert in die Kamera, lässt die Decke fallen (ca. 10,0–10,5), breitet die Arme aus |
+| 11,88–19,12 | Paar sitzt im Bett unter der blauen Decke (graues Kopfteil, weiße Wand, Holzboden): der Mann spricht, die Frau hört zu |
+| 19,12–22,89 | Jump-Cut, gleiche Szene leicht anders kadriert: die Frau spricht und gestikuliert, der Mann hört zu |
+| 22,89–27,88 | Schwarze Endkarte „More Independence. More Comfort.“ / „Pleene. EasyRest™“ / „SHOP NOW“ |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook | 0–4,08 | „My back just can't take this anymore.“ |
+| Problem | 0–4,08 | Rückenschmerzen beim Bettmachen (gesprochen + Geste, das Bettbeziehen ist nur implizit) |
+| Verstärkung | – | **fehlt** |
+| Lösung | 4,08–6,24 | „The EasyClean [= Pleene EasyRest] was our solution.“ |
+| Mechanismus | 6,24–12,36 | „The cover is sewn in. That's the whole idea. There's nothing to change, ever.“ |
+| Beweis | 12,36–19,40 | Partner-Testimonial: „And I haven't been too hot or too cold once. How does it do that? Why didn't someone tell us about this earlier?“ (keine Zahlen, Reviews oder Kundenzahl) |
+| Abschluss | 19,40–22,68 | „Duvet and cover in one. We're never going back.“ |
+| Angebot | – | **fehlt** (auch im Primärtext) |
+| CTA | 22,89–27,88 | Endkarte „SHOP NOW“ + Button „Shop now“ |
+
+**Wer ist zu sehen / wer spricht**
+- Frau, geschätzt 55–65, kurzer dunkelbrauner Bob, Brille, weißes T-Shirt, Smartwatch. Mann, geschätzt 60–70, graues Haar, navyblaues T-Shirt, Fitness-Armband. Rolle: Ehepaar bzw. Paar als Nutzer-Testimonial („our solution“, „tell us“).
+- **Echte Personen, O-Ton.** Begründung: beide tragen sichtbar ein schwarzes Ansteckmikrofon am Shirt; Mundbewegungen passen in 3,5–22,7 s zu den Sprecherwechseln; die f0-Schätzung wechselt passend (Frau ≈ 186–225 Hz, Mann ≈ 114–122 Hz); natürliche Gestik und Kamera. In 0–3,5 s ist der Mund aus der Distanz nicht prüfbar.
+- Akzent: nicht bestimmt. Umgebung wirkt US-amerikanisch (Bauart, Holzboden; **nicht verifiziert**).
+
+**Setting:** helles Schlafzimmer mit weißem Metallbett, Holzboden, Gardinen; danach Paar im Bett; schwarze Endkarte.
+**Avatar:** Paare bzw. Frauen ab ca. 55, denen das Bettmachen körperlich schwerfällt (Rücken), mit Wunsch nach Selbstständigkeit („More Independence“) und angenehmer Temperatur.
+**Angle:** **E** (Rücken, Hook) + **C** (Bezug eingenäht, „nothing to change, ever“) + **B** sekundär („too hot or too cold“) + **F-Selbstständigkeit im Alter** (Endkarte „More Independence. More Comfort.“).
+**Haupt-Emotion:** Frust/Erschöpfung (Rücken) → Erleichterung und Begeisterung („Why didn't someone tell us about this earlier?“).
+**Schnitttempo / Untertitel / Ton:** 1,43 Schnitte pro 10 s (visuell). Untertitel ja, phrasenweise, Serifenschrift in grauer Box (gleicher Stil wie 721/714/996/718). Ton: O-Ton (Dialog), vermutlich leises Musikbett, Musik auf der Endkarte.
+
+**Konkrete Zahlen und Behauptungen (wörtlich):** „My back just can't take this anymore.“ · „The cover is sewn in.“ · „There's nothing to change, ever.“ · „And I haven't been too hot or too cold once.“ · „Duvet and cover in one.“ · „We're never going back.“ · Endkarte „More Independence. More Comfort.“ · Primärtext „nothing separate to change, stuff or wrestle with“. **Keine Zahlen** (kein Tog, keine Trocknungszeit, keine Kundenzahl, kein Preis).
+
+**Angebotspräsentation:** keine.
+
+**Varianten-Hinweis**
+- **200490658** ist byte-identisch (gleiche Headline, gleicher Primärtext, gleiche Link-Beschreibung), läuft aber auf `/products/easyrest-comforter` mit Land US.
+- Die Frau und das Zimmer mit dem weißen Metallbett erscheinen auch in **200490718/200490660** (2,10–4,07 s, „But not anymore!“).
+- Endkarten-Vorlage (goldener Serifen-Slogan + „Pleene. EasyRest™“ + „SHOP NOW“) wie 200036996/200490719 („A Fresh Bed, Done My Way.“).
+
+---
+
+#### Video 200490721 – The Bedding Upgrade Is Here
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 200490721 / 528521269 |
+| Meta-ID | 2373725086706676 |
+| Ad Library | https://www.facebook.com/ads/library/?id=2373725086706676 |
+| share_url | https://app.gethookd.ai/share/ad/200490721?signature=8697f9fa84603c6c5fe39198bba6510a3c6efe060e8c12de0cac95d04e13450e |
+| Land / Sprache | `[]` (n/a) / en |
+| Start / Tage aktiv | 2026-10-06 / 3 (start_to_today, active) |
+| performance_score / used_count | 1 („Testing“) / 1 |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | https://pleene.com/products/easyrest (product_page) |
+| Link-Beschreibung | „Fresh bedding, less fuss“ |
+| Technik | 50,94 s · 720×1280 · 29,97 fps · AAC 48 kHz · mean −20,7 dB, max 0,0 dB · Stille 0–0,42 |
+| Schnitte | 0,3 und 0,15 identisch: 6 echte Schnitte (6,87 / 13,48 / 29,73 / 38,81 / 43,94 / 46,81; 0,13 = Einblendung) = **1,18 pro 10 s** (0–10: 1 · 10–20: 1 · 20–30: 1 · 30–40: 1 · 40–50,9: 2). Score 0,07 bei 8,74 per Frames geprüft: kein Schnitt |
+
+**Primärtext (wörtlich):** „Still doing bedding the old-fashioned way? Pleene EasyRest™ makes fresh-bed days simpler, with a duvet and cover in one, made for year-round comfort.“
+
+**Transkript (GetHooked/Whisper, vollständig, wörtlich)**
+| Sek. | Text |
+|---|---|
+| 0,00–7,32 | I don't have a duvet cover anymore and honestly it was the best decision I ever made. |
+| 7,32–10,50 | This is the Pleen EasyRest Duvet. |
+| 10,50–14,72 | It's a duvet and a cover in one. |
+| 14,72–19,34 | Now I know exactly what you're thinking, that thing is never going to fit in a normal washing |
+| 19,34–20,34 | machine. |
+| 20,74–22,74 | But watch this. |
+| 22,74–30,74 | (keine Sprache; Bild: Decke wird in den Frontlader gestopft) |
+| 30,74–36,14 | And no, it doesn't take ages to dry, just two hours and then you can put it back onto |
+| 36,14–37,14 | your bed. |
+| 39,14–44,38 | So warm and cosy in winter and cool and comfortable in summer. |
+| 44,38–46,26 | I'm never going back to my old bedding. |
+
+Transkript-Qualität: korrekt; lokales Whisper ist gleich bis auf „This is the Clean Easy Rest Duvet“ und „then put it back onto your bed“. „Pleen“ = „Pleene“ laut Untertitel. f0-Median 150–181 Hz (Frauenstimme, Indiz). Unter der Sprache liegt eine schwache durchgehende Tonlinie bei ca. 1 kHz (evtl. leises Musikbett, **nicht verifiziert**); auf der Endkarte (47–50,9 s) ein tonaler Klang (Musik/Jingle).
+
+**Hook (0–3 s)**
+- Gesprochen: „I don't have a duvet cover anymore and honestly …“
+- Eingeblendet: „I don't have a duvet / cover anymore,“ (0,33–2,5)
+- Bild: Frau beugt sich übers Bett (graues Polster-Kopfteil), streicht über die cremeweiße Decke und spricht in die Kamera.
+- Hook-Typ: Bekenntnis bzw. Kontra-Statement (Testimonial).
+
+**Untertitel (vollständig, wörtlich; Serifenschrift, graue Box, 1-s-Raster ±0,5 s)**
+„I don't have a duvet / cover anymore,“ (0,33–2,5) · „and it's the best decision / I've ever made.“ (3,0–6,0) · „This is the Pleene / EasyRest Duvet.“ (7,0–10,0) · „It's a duvet and / cover in one.“ (11,0–13,0) · „I know what you're thinking.“ (13,68–16,0) · „That thing is never“ (17,0–18,0) · „going to fit into / a normal washing machine.“ (19,0–20,0) · „But watch this.“ (21,0–22,0) · (23–30 kein Untertitel) · „And no, it doesn't / take ages to dry.“ (31,0–33,0) · „Just two hours, and then / it gets back onto your bed.“ (34,0–38,0) · „So warm and cozy / in winter,“ (39,0–41,0) · „cool and comfortable / in summer.“ (42,0–43,0) · „I'm never going back to / my old bedding.“ (44,0–46,0) · Endkarte: „Pleene.“ / „EasyRest™“ (ab 47,0), „One piece. Less hassle.“ (ab 48,0), „SHOP NOW“ (ab 49,0) bis 50,94.
+- Abweichungen: gesprochen „honestly it was the best decision I ever made“ vs. UT „and it's the best decision I've ever made“; gesprochen „then you can put it back onto your bed“ vs. UT „then it gets back onto your bed“; „cosy“ vs. „cozy“.
+
+**Szenenliste (alle Übergänge angesehen)**
+| Sek. | Szene |
+|---|---|
+| 0,00–0,13 | Schwarz |
+| 0,13–6,87 | Schlafzimmer, graues Polster-Kopfteil: Frau am Bett, faltet die cremeweiße Decke auf, spricht in die Kamera |
+| 6,87–13,48 | Frau hält die Decke hoch, hüllt sich darin ein (8,6–10,0), hält sie wieder hoch |
+| 13,48–29,73 | Küche/Waschbereich (Samsung-Frontlader, pinker Toaster, Fliesen): Nahaufnahme Gesicht beim Einwand (14–22), dann stopft sie die ganze Decke in die Maschine und schließt die Tür (ca. 24–29) |
+| 29,73–38,81 | Schlafzimmer: Decke wird wieder aufs Bett gelegt und glattgezogen, Geste „fertig“ (38) |
+| 38,81–43,94 | Frau liegt im Bett, Kopf auf dem Kissen, Decke bis zum Kinn |
+| 43,94–46,81 | Frau liegt seitlich, Kopf auf die Hand gestützt, Schluss-Satz in die Kamera |
+| 46,81–50,94 | Schwarze Endkarte „Pleene. EasyRest™“ / „One piece. Less hassle.“ / „SHOP NOW“ |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook | 0–7,32 | „I don't have a duvet cover anymore and honestly it was the best decision I ever made.“ |
+| Problem | – | nur implizit (der Bettbezug), verbal **fehlt** es |
+| Verstärkung (Einwand) | 14,72–20,34 | „that thing is never going to fit in a normal washing machine.“ |
+| Lösung | 7,32–14,72 | „This is the Pleen EasyRest Duvet. It's a duvet and a cover in one.“ |
+| Mechanismus | 20,74–29,73 | „But watch this.“ + Demo: ganze Decke passt in den Frontlader |
+| Beweis | 30,74–44,38 | „it doesn't take ages to dry, just two hours“; „So warm and cosy in winter and cool and comfortable in summer.“ (nur Demo und Ich-Aussage) |
+| Abschluss | 44,38–46,26 | „I'm never going back to my old bedding.“ |
+| Angebot | – | **fehlt** |
+| CTA | 46,81–50,94 | Endkarte „SHOP NOW“ + Button „Shop now“ |
+
+**Wer ist zu sehen / wer spricht:** eine Frau, geschätzt 50–60, dunkle Haare zum Zopf, weißes T-Shirt, schwarz-weiß karierte Pyjamahose; Rolle: UGC-Creatorin/Testimonial. **Echte Person, O-Ton.** Begründung: Lippen synchron (z. B. 1–6 s und 14–22 s), Person und Kleidung über drei Räume konsistent, realer Haushalt (Samsung-Maschine, Toaster), natürliche Stoffphysik. Akzent nicht bestimmt (Schreibweise „cosy“ im ASR ist kein Beleg).
+
+**Setting:** Schlafzimmer und Küche/Waschbereich, schwarze Endkarte.
+**Avatar:** Frauen ca. 45–65, die den Bezug loswerden wollen und skeptisch sind, ob die Decke in die Maschine passt und schnell trocknet.
+**Angle:** **C** (kein Bettbezug mehr) + **A** (ganze Decke in die normale Maschine, 2 h trocken) + **B** (warm im Winter, kühl im Sommer).
+**Haupt-Emotion:** Neugier über Einwand und Auflösung („I know what you're thinking … But watch this“), danach Zufriedenheit und Erleichterung.
+**Schnitttempo / Untertitel / Ton:** 1,18 Schnitte pro 10 s (langsam). Untertitel ja, phrasenweise, Serifenschrift in grauer Box. O-Ton, kein Voiceover; Musik nur sicher auf der Endkarte.
+
+**Konkrete Zahlen und Behauptungen (wörtlich):** „best decision I ever made“ · „It's a duvet and a cover in one.“ · „never going to fit in a normal washing machine. But watch this.“ · „it doesn't take ages to dry, just two hours“ · „So warm and cosy in winter and cool and comfortable in summer.“ · „I'm never going back to my old bedding.“ · Endkarte „One piece. Less hassle.“ · Primärtext „made for year-round comfort“. Kein Tog, kein Preis, keine Kundenzahl.
+
+**Angebotspräsentation:** keine.
+
+**Varianten-Hinweis**
+- **Byte-identisch mit 200490655** (Batch 6; `/products/easyrest-comforter`, Land US, Score dort 30, enriched 12). Hier: `/products/easyrest`, Länder `[]`, Score 1.
+- Die Küche mit Samsung-Frontlader und rotem Toaster taucht laut Batch 7 auch in 193234224 auf.
+
+---
+
+#### Video 200490718 – Bedding Made for Independence
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 200490718 / 528521268 |
+| Meta-ID | 969394622234742 |
+| Ad Library | https://www.facebook.com/ads/library/?id=969394622234742 |
+| share_url | https://app.gethookd.ai/share/ad/200490718?signature=38b5623f18087b0df4c2c1716eb5005dc8644f32545bafb73badcec66bf77774 |
+| Land / Sprache | `[]` (n/a) / en |
+| Start / Tage aktiv | 2026-10-06 / 3 (start_to_today, active) |
+| performance_score / used_count | 1 („Testing“) / 1 |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | https://pleene.com/products/easyrest (product_page) |
+| Link-Beschreibung | „One piece. Less hassle.“ |
+| Technik | 23,10 s · 720×1280 · 29,97 fps · AAC 48 kHz · mean −15,1 dB, max −0,5 dB · keine Stille |
+| Schnitte | 0,3 und 0,15 identisch: 6 echte Schnitte (2,10 / 4,07 / 8,17 / 11,24 / 14,28 / 18,35; 0,03 = Einblendung) = **2,60 pro 10 s** (0–10: 3 · 10–20: 3 · 20–23,1: 0) |
+
+**Primärtext (wörtlich):** „Why wait for someone else to help with your bedding? Pleene EasyRest™ washes whole at home, air dries in 2 hours, and goes straight back on the bed.“
+
+**Transkript:** GetHooked liefert „Thanks for watching!“ (0,00–22,96 s), also einen **Platzhalter**. Audio-Check:
+- Pegel: mean −15,1 dB, max −0,5 dB, keine Stille (−40 dB / 0,4 s).
+- Spektrogramm (`wf/s2b9_audio/200490718_spec.png`): stabile horizontale Harmonische (Noten) und regelmäßige Beat-Transienten über die ganze Länge, keine Formant-Gleitmuster wie bei der Sprache in 722.
+- Lokales Whisper `small.en`: nur „🎵“ (0,00–22,96 s).
+- **Ergebnis: nur Musik, keine Sprache.** Der gesamte Text steht als Einblendung im Bild (unten).
+
+**Hook (0–3 s)**
+- Gesprochen: keiner.
+- Eingeblendet: „I used to need / help with this.“ (0,5–2,0), dann „But not / anymore!“ (2,3–4,0).
+- Bild: älterer Mann mit Glatze im beigen Bademantel beugt sich im Schlafzimmer (Terrakotta-Fliesen, Tiffany-Deckenlampe, bunt gestreifte Tagesdecke) übers Bett und hält sich den Rücken (1,0–1,5), richtet sich mit den Händen in den Hüften auf (2,0). Ab 2,10 Schnitt auf eine Frau, die eine blaue Decke aufs Bett schwingt.
+- Hook-Typ: Vorher/Nachher-Statement (Abhängigkeit → Selbstständigkeit).
+
+**Einblendungen (vollständig, wörtlich; Serifenschrift in grauer Box, mit Fade)**
+„I used to need / help with this.“ (0,5–2,0) · „But not / anymore!“ (2,3–4,0) · „With Pleene EasyRest™, I can wash / the whole duvet right at home.“ (4,27–8,0) · „The whole thing fits into / my washing machine“ (8,37–11,0) · „and then I just / air dry it for 2 hours“ (11,44–14,0) · „No waiting. No asking for help. / Just a fresh bed, whenever I want.“ (14,48–18,0) · Endkarte auf Schwarz: „Pleene.“ / „EasyRest™“ (ab 18,5), „Duvet + cover in one.“ (ab 19,5) bis 23,10. **Kein „SHOP NOW“ auf der Endkarte.**
+
+**Szenenliste (alle Übergänge angesehen)**
+| Sek. | Szene |
+|---|---|
+| 0,00–0,03 | Schwarz |
+| 0,03–2,10 | Schlafzimmer mit Terrakotta-Fliesen und Tiffany-Lampe: älterer Mann (Glatze, Bademantel) beugt sich übers Bett mit bunt gestreifter Decke, hält sich den Rücken |
+| 2,10–4,07 | Helles Zimmer mit weißem Metallbett (wie 722): Frau mit Brille schwingt die blaue Decke aufs Bett und streicht sie glatt |
+| 4,07–8,17 | Grünes Schlafzimmer: Mann (ca. 35–45, dunkles Haar, Bart, graues T-Shirt) hält eine mintgrüne Decke vor sich und knetet sie |
+| 8,17–11,24 | Hauswirtschaftsraum mit weißem Toplader (orangefarbener Warnaufkleber), Trockner, Handtüchern: ältere Person mit schulterlangem blond-grauem Haar, schwarzem Hemd, beigen Shorts stopft eine blaue Decke in den Toplader |
+| 11,24–14,28 | Garten mit Efeuwand: Mann mit Glatze (gelbes Shirt) hält die navyblaue Decke an der Wäscheleine |
+| 14,28–18,35 | Draufsicht: der bärtige Mann liegt im Bett unter grauer Decke, umarmt sie lächelnd mit geschlossenen Augen (Holz-Kopfteil mit Duftlampe) |
+| 18,35–23,10 | Schwarze Endkarte „Pleene. EasyRest™“ / „Duvet + cover in one.“ |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook | 0,03–2,10 | „I used to need help with this.“ + Mann hält sich den Rücken |
+| Problem | 0,03–2,10 | Abhängigkeit von Hilfe beim Bettmachen, körperliche Beschwerde (visuell) |
+| Verstärkung | – | **fehlt** |
+| Lösung | 2,10–8,17 | „But not anymore!“ / „With Pleene EasyRest™, I can wash the whole duvet right at home.“ |
+| Mechanismus | 8,17–14,28 | „The whole thing fits into my washing machine“ / „and then I just air dry it for 2 hours“ (Demo Toplader, Wäscheleine) |
+| Beweis | – | nur Demo; Testimonial, Zahlen oder Reviews **fehlen** |
+| Abschluss/Nutzen | 14,28–18,35 | „No waiting. No asking for help. Just a fresh bed, whenever I want.“ |
+| Angebot | – | **fehlt** |
+| CTA | – | im Video **fehlt** er (Endkarte ohne „SHOP NOW“); nur Button „Shop now“ |
+
+**Wer ist zu sehen / wer spricht**
+- Älterer Mann mit Glatze, geschätzt 65–75 (Gesicht abgewandt), Bademantel; ältere Frau 55–65 mit Brille (dieselbe wie in 722); Mann 35–45 mit Bart (Creator aus 145443331/145443318, siehe Varianten-Hinweis); ältere Person 60–75 mit blond-grauem Haar (Geschlecht nicht sicher bestimmbar); Mann mit Glatze ca. 50–65 im Garten (ob identisch mit dem Bademantel-Mann: **nicht verifiziert**).
+- **Echte Personen bzw. echtes UGC-Footage**, aus mehreren Drehs zusammengeschnitten. Begründung: Handkamera, natürliches Licht, reale Details (Warnaufkleber am Toplader, Ventilator, Klimagerät, Wäscheleine), natürliche Stoffphysik; die Deckenfarbe wechselt zwischen Szenen (blau, mint, navy, grau).
+- Ich-Erzählung („I used to need help“, „I can wash“) nur als Text; **kein Sprecher**, nur Musik.
+
+**Setting:** vier private Schlafzimmer, Hauswirtschaftsraum mit Toplader, Garten mit Wäscheleine, schwarze Endkarte. Umgebung wirkt teils US-amerikanisch (Toplader, Bauart; **nicht verifiziert**), teils britisch (grünes Schlafzimmer des UK-Creators aus 145443331).
+**Avatar:** ältere Menschen (ca. 65+), die beim Bettmachen auf Hilfe angewiesen sind (Rücken, Mobilität), bzw. deren Angehörige; Wunsch nach Selbstständigkeit.
+**Angle:** **F-Selbstständigkeit im Alter** (Haupt-Angle: „I used to need help“, „No asking for help“, Headline „Independence“) + **E** (Rücken, visuell) + **A** (ganze Decke zu Hause waschen, 2 h lufttrocknen).
+**Haupt-Emotion:** Scham/Frust über Abhängigkeit → Stolz und Erleichterung („But not anymore!“, „whenever I want“).
+**Schnitttempo / Untertitel / Ton:** 2,60 Schnitte pro 10 s. Keine Sprach-Untertitel, aber Ich-Text-Einblendungen im Untertitel-Look (Serifen, graue Box). Nur Musik.
+
+**Konkrete Zahlen und Behauptungen (wörtlich):** „I used to need help with this.“ · „But not anymore!“ · „I can wash the whole duvet right at home.“ · „The whole thing fits into my washing machine“ · „air dry it for 2 hours“ · „No waiting. No asking for help.“ · „Just a fresh bed, whenever I want.“ · Endkarte „Duvet + cover in one.“ · Primärtext „washes whole at home, air dries in 2 hours, and goes straight back on the bed.“
+
+**Angebotspräsentation:** keine.
+
+**Varianten-Hinweis**
+- **Byte-identisch mit 200490660** (gleiche Headline und Primärtext, `/products/easyrest-comforter`, Land US).
+- Footage-Abgleich (visuell, `wf/s2b9_sheets/cmp_footage.jpg`; Frame-Identität nicht geprüft):
+  - Bademantel-Mann im Tiffany-Lampen-Zimmer = Anfangsszene von **193234224** (Batch 7, 0–4,12 s); gleiches Zimmer wie **200036996/200490719** (0,23–2,10 s) und **178749251**.
+  - Frau mit blauer Decke am weißen Metallbett = **200490722/200490658**.
+  - Bärtiger Mann im Bett unter grauer Decke (14,28–18,35) = dieselbe Einstellung wie **200490714/200490657** (20,05–25,03); Creator und grünes Schlafzimmer wie Top-20 **145443331/145443318**.
+  - Toplader mit Warnaufkleber und Wäscheleine im Efeugarten = **200036996/200490719** (5,77–13,58).
+- Schnitt- und Textvorlage (schwarzer Vorlauf, graue Serifen-Box, schwarze „Pleene.“-Endkarte) wie 200490714 und 200036996.
+
+---
+
+#### Video 200490714 – Say Goodbye to Duvet Cover Hassle
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 200490714 / 528521247 |
+| Meta-ID | 2178788646402978 |
+| Ad Library | https://www.facebook.com/ads/library/?id=2178788646402978 |
+| share_url | https://app.gethookd.ai/share/ad/200490714?signature=627ca4dcd8cf81ffbbe8928084c30d078545b5271aa95e2c5093eb36261092a5 |
+| Land / Sprache | `[]` (n/a) / en |
+| Start / Tage aktiv | 2026-10-06 / 3 (start_to_today, active) |
+| performance_score / used_count | 1 („Testing“) / 1 |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | https://pleene.com/products/easyrest (product_page) |
+| Link-Beschreibung | „Fresh bedding, made easy“ |
+| Technik | 30,48 s · 720×1280 · 29,97 fps · AAC 48 kHz · mean −15,3 dB, max −4,4 dB · keine Stille |
+| Schnitte | 0,3 und 0,15 identisch: 7 echte Schnitte (5,04 / 7,54 / 10,24 / 12,61 / 14,81 / 20,05 / 25,03; 0,03 = Einblendung) = **2,30 pro 10 s** (0–10: 2 · 10–20: 3 · 20–30,5: 2). Kleinere Scores (0,06–0,09) bei 15,2–17,6 und 20,5–20,8 sind Kamera-/Körperbewegung, kein Schnitt |
+
+**Primärtext (wörtlich):** „No more stuffing, buttoning or fighting with duvet cover corners. Pleene EasyRest™ combines a duvet and cover in one, so fresh bedding is simpler from start to finish.“
+
+**Transkript:** GetHooked meldet `no_speech`, kein Transkript. Audio-Check: mean −15,3 dB, max −4,4 dB, keine Stille; Spektrogramm mit tonalen Bändern um 0,9–1,8 kHz und regelmäßigen Transienten, keine Formanten; lokales Whisper nur „🎵“ (0–0,5 s) und eine Halluzination „you“ hinter dem Videoende (30,0–32,06 s, no_speech_prob 0,95). **Ergebnis: nur Musik, keine Sprache.**
+
+**Hook (0–3 s)**
+- Gesprochen: keiner.
+- Eingeblendet: „I got rid of my duvet cover, / and I'm never going back.“ (0,5–5,0)
+- Bild: Mann (ca. 35–45, dunkles Haar, Bart, graues T-Shirt) zerrt im grünen Schlafzimmer den gelb-karierten Bezug von der Decke, schüttelt ihn hoch (2,0–2,5).
+- Hook-Typ: Ich-Statement bzw. Bekehrung, visuell Kampf mit dem Bezug.
+
+**Einblendungen (vollständig, wörtlich; Serifenschrift, graue Box)**
+„I got rid of my duvet cover, / and I'm never going back.“ (0,5–5,0) · „Pleene EasyRest is a / duvet and cover in one,“ (5,24–7,0) · „so there's nothing / extra to wrestle with.“ (7,74–10,0) · „And yes, you can wash / the whole thing at home.“ (10,44–14,0) · „Two hours later, / it's dry and back on the bed.“ (15,0–20,0) · „Honestly, / why didn't I do this sooner?“ (20,25–24,0) · Endkarte auf Schwarz: „Pleene.“ (ab 25,23), „SHOP NOW“ (ab 26,0) bis 30,48.
+
+**Szenenliste (alle Übergänge angesehen)**
+| Sek. | Szene |
+|---|---|
+| 0,00–0,03 | Schwarz |
+| 0,03–5,04 | Grünes Schlafzimmer (Holz-Kopfteil mit Regal): der Mann zerrt den gelb-karierten Bezug |
+| 5,04–7,54 | Halbnah: der Mann schüttelt eine graue EasyRest übers Bett |
+| 7,54–10,24 | Nahaufnahme: Hand an der Kante der grauen Decke, Kissen |
+| 10,24–12,61 | Silberner Frontlader auf blau gemusterten Fliesen: der Mann stopft eine mintgrüne Decke hinein |
+| 12,61–14,81 | Nahaufnahme Trommel: Hände drücken die Decke hinein |
+| 14,81–20,05 | Hand legt die graue Decke auf dem Bett zurecht (Kopfteil mit Duftlampe) |
+| 20,05–25,03 | Draufsicht: der Mann im Bett unter der grauen Decke, zieht sie hoch, liegt zufrieden |
+| 25,03–30,48 | Schwarze Endkarte „Pleene.“ / „SHOP NOW“ |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook | 0,03–5,04 | „I got rid of my duvet cover, and I'm never going back.“ |
+| Problem | 0,03–5,04 (nur visuell) | Kampf mit dem Bezug; ausformuliert nur im Primärtext („No more stuffing, buttoning or fighting with duvet cover corners.“) |
+| Verstärkung | – | **fehlt** |
+| Lösung | 5,04–7,54 | „Pleene EasyRest is a duvet and cover in one,“ |
+| Mechanismus | 7,54–14,81 | „so there's nothing extra to wrestle with.“ / „And yes, you can wash the whole thing at home.“ |
+| Beweis | 14,81–25,03 (schwach) | Demo + Ich-Erfahrung: „Two hours later, it's dry and back on the bed.“ / „Honestly, why didn't I do this sooner?“ |
+| Angebot | – | **fehlt** |
+| CTA | 25,03–30,48 | Endkarte „SHOP NOW“ + Button „Shop now“ |
+
+**Wer ist zu sehen / wer spricht:** ein Mann, ca. 35–45 (dunkles Haar, Bart, graues/weißes T-Shirt, Smartwatch), Ich-Erzähler und Nutzer. **Echte Person (UGC-Footage)**: Handkamera, reale Wohnung (Waschmittelflaschen, Duftlampe), natürliche Bewegung. Creator und Drehort wie Top-20 145443331/145443318 (grünes Schlafzimmer, Frontlader auf blau gemusterten Fliesen; visuell abgeglichen) und laut Batch 5 wie 200037044. Deckenfarbe wechselt (grau/mint). Kein Sprecher.
+
+**Setting:** privates Schlafzimmer (grüne Wand), Wasch-Nische mit silbernem Frontlader, schwarze Endkarte.
+**Avatar:** Erwachsene ca. 30–50, die das Beziehen als lästigen Kampf empfinden.
+**Angle:** **C** (Kampf mit dem Bettbezug) + **A** sekundär (ganze Decke zu Hause waschen, 2 h).
+**Haupt-Emotion:** Erleichterung und Bekehrungs-Euphorie („never going back“, „why didn't I do this sooner?“).
+**Schnitttempo / Untertitel / Ton:** 2,30 Schnitte pro 10 s. Ich-Text-Einblendungen im Untertitel-Look (keine Sprach-Untertitel). Nur Musik.
+
+**Konkrete Zahlen und Behauptungen (wörtlich):** „I got rid of my duvet cover, and I'm never going back.“ · „duvet and cover in one“ · „nothing extra to wrestle with“ · „you can wash the whole thing at home“ · „Two hours later, it's dry and back on the bed.“ · „why didn't I do this sooner?“ · Primärtext „No more stuffing, buttoning or fighting with duvet cover corners.“
+
+**Angebotspräsentation:** keine.
+
+**Varianten-Hinweis**
+- **Byte-identisch mit 200490657** (Batch 5; `/products/easyrest-comforter`, Land US, Score dort 30, enriched 12). Hier `/products/easyrest`, Länder `[]`, Score 1.
+- Gleiche Headline, anderes Video: 200490654 (US-UGC mit Sprache, Batch 6).
+- Bett-Einstellung 20,05–25,03 auch in 200490718/200490660 (14,28–18,35).
+
+---
+
+#### Video 200490660 – Bedding Made for Independence
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 200490660 / 528521158 |
+| Meta-ID | 2352066545542430 |
+| Ad Library | https://www.facebook.com/ads/library/?id=2352066545542430 |
+| share_url | https://app.gethookd.ai/share/ad/200490660?signature=2bdf462077564f674b5c865f99ba0e9e930f29ccb8d973a094d72ef52a3ed322 |
+| Land / Sprache | **`["US"]`** / en |
+| Start / Tage aktiv | 2026-10-06 / 3 (start_to_today, active) |
+| performance_score / used_count | 1 („Testing“) / 1 |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | **https://pleene.com/products/easyrest-comforter** (page_type null) |
+| Link-Beschreibung | „One piece. Less hassle.“ |
+| Technik | identisch mit 200490718 (md5 `1ee3c474…`): 23,10 s · 720×1280 · 29,97 fps · AAC 48 kHz · mean −15,1 dB, max −0,5 dB · keine Stille |
+| Schnitte | 6 (2,10 / 4,07 / 8,17 / 11,24 / 14,28 / 18,35) = **2,60 pro 10 s** (0–10: 3 · 10–20: 3 · 20–23,1: 0) |
+
+**Primärtext (wörtlich):** „Why wait for someone else to help with your bedding? Pleene EasyRest™ washes whole at home, air dries in 2 hours, and goes straight back on the bed.“
+
+**Transkript:** GetHooked „Thanks for watching!“ (0,00–22,96 s) = **Platzhalter**. Die Datei ist byte-identisch mit 200490718; dort zeigt der Audio-Check (Spektrogramm, Whisper „🎵“, keine Stille) **nur Musik, keine Sprache**. Eigener Lauf für diese ID: volumedetect identisch (mean −15,1 / max −0,5 dB), Szenenerkennung identisch.
+
+**Hook (0–3 s):** gesprochen keiner; eingeblendet „I used to need / help with this.“ (0,5–2,0) → „But not / anymore!“ (2,3–4,0); Bild: älterer Mann mit Glatze im Bademantel hält sich am Bett den Rücken. Hook-Typ: Vorher/Nachher (Abhängigkeit → Selbstständigkeit).
+
+**Einblendungen:** wortgleich mit 200490718: „I used to need / help with this.“ · „But not / anymore!“ · „With Pleene EasyRest™, I can wash / the whole duvet right at home.“ · „The whole thing fits into / my washing machine“ · „and then I just / air dry it for 2 hours“ · „No waiting. No asking for help. / Just a fresh bed, whenever I want.“ · Endkarte „Pleene.“ / „EasyRest™“ / „Duvet + cover in one.“ (kein „SHOP NOW“). Zeiten wie dort.
+
+**Szenenliste:** identisch mit 200490718 (Bademantel-Mann 0,03–2,10 · Frau mit blauer Decke 2,10–4,07 · Mann mit mintgrüner Decke 4,07–8,17 · Toplader 8,17–11,24 · Wäscheleine 11,24–14,28 · Mann im Bett 14,28–18,35 · Endkarte 18,35–23,10).
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook / Problem | 0,03–2,10 | „I used to need help with this.“ + Rückengeste |
+| Verstärkung | – | **fehlt** |
+| Lösung | 2,10–8,17 | „But not anymore!“ / „With Pleene EasyRest™, I can wash the whole duvet right at home.“ |
+| Mechanismus | 8,17–14,28 | „The whole thing fits into my washing machine“ / „and then I just air dry it for 2 hours“ |
+| Beweis | – | nur Demo; **fehlt** |
+| Abschluss | 14,28–18,35 | „No waiting. No asking for help. Just a fresh bed, whenever I want.“ |
+| Angebot | – | **fehlt** |
+| CTA | – | im Video **fehlt** er; nur Button „Shop now“ |
+
+**Wer ist zu sehen / wer spricht:** wie 200490718 (mehrere echte Personen aus UGC-Footage, u. a. älterer Mann 65–75 im Bademantel, Frau 55–65, bärtiger Mann 35–45; kein Sprecher, nur Musik).
+**Setting:** wie 200490718 (Schlafzimmer, Hauswirtschaftsraum mit Toplader, Garten mit Wäscheleine).
+**Avatar:** ältere Menschen (65+) bzw. Angehörige, US-Ausspielung laut GetHooked.
+**Angle:** **F-Selbstständigkeit im Alter** + **E** (Rücken, visuell) + **A** (waschen/lufttrocknen).
+**Haupt-Emotion:** Scham/Frust über Abhängigkeit → Stolz und Erleichterung.
+**Schnitttempo / Untertitel / Ton:** 2,60 Schnitte pro 10 s; Ich-Text-Einblendungen (Serifen, graue Box); nur Musik.
+**Konkrete Zahlen und Behauptungen (wörtlich):** „air dry it for 2 hours“ · „I can wash the whole duvet right at home.“ · „The whole thing fits into my washing machine“ · „No waiting. No asking for help.“ · „Duvet + cover in one.“ · Primärtext „air dries in 2 hours“.
+**Angebotspräsentation:** keine.
+**Varianten-Hinweis:** **byte-identisch mit 200490718** (gleiche Headline, gleicher Primärtext; 718 läuft auf `/products/easyrest` mit Ländern `[]`). Bemerkenswert: die US-Variante nutzt im Bild das britische Wort „duvet“, die Landingpage dagegen „comforter“. Footage-Bezüge siehe 200490718.
+
+---
+
+#### Video 200490658 – A Smarter Way To Do Bedding
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 200490658 / 528521152 |
+| Meta-ID | 4710162855976658 |
+| Ad Library | https://www.facebook.com/ads/library/?id=4710162855976658 |
+| share_url | https://app.gethookd.ai/share/ad/200490658?signature=c8f37e5af06714882e4c6e6120919336cdce17ce51bcf0f206bbd74faf16c421 |
+| Land / Sprache | **`["US"]`** / en |
+| Start / Tage aktiv | 2026-10-06 / 3 (start_to_today, active) |
+| performance_score / used_count | 1 („Testing“) / 1 |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | **https://pleene.com/products/easyrest-comforter** (page_type null) |
+| Link-Beschreibung | „No separate duvet cover“ |
+| Technik | identisch mit 200490722 (md5 `61006fb9…`): 27,88 s · 720×1280 · 29,97 fps · AAC 48 kHz · mean −17,4 dB, max −0,6 dB · Stille nur 27,17–27,80 |
+| Schnitte | Detektor 0,3: 2 (0,72 pro 10 s); visuell 4 (3,50 / 11,88 / 19,12 / 22,89) = **1,43 pro 10 s** (0–10: 1 · 10–20: 2 · 20–27,9: 1) |
+
+**Primärtext (wörtlich):** „Bedding shouldn't be harder than it needs to be. Pleene EasyRest™ combines the duvet and cover in one, so there's nothing separate to change, stuff or wrestle with.“
+
+**Transkript (GetHooked/Whisper, vollständig, wörtlich; Segmente identisch mit 200490722)**
+| Sek. | Sprecher (f0-Indiz) | Text |
+|---|---|---|
+| 0,00–4,08 | Frau | My back just can't take this anymore. |
+| 4,08–6,24 | Frau | The EasyClean was our solution. |
+| 6,24–7,68 | Frau | The cover is sewn in. |
+| 7,68–9,24 | Frau | That's the whole idea. |
+| 9,24–12,36 | Frau | There's nothing to change, ever. |
+| 12,36–15,32 | Mann | And I haven't been too hot or too cold once. |
+| 15,32–16,32 | Mann | How does it do that? |
+| 16,32–19,40 | Mann | Why didn't someone tell us about this earlier? |
+| 19,40–21,60 | Frau | Duvet and cover in one. |
+| 21,60–22,68 | Frau | We're never going back. |
+
+„EasyClean“ = „Pleene EasyRest“ (Untertitel). Datei byte-identisch mit 200490722, Audio-Befunde wie dort (O-Ton-Dialog, vermutlich leises Musikbett, Musik auf der Endkarte).
+
+**Hook (0–3 s):** gesprochen „My back just can't take this anymore.“ (0–4,08); eingeblendet „My back can't / take this anymore.“ (0,5–3,5); Bild: Frau am Bett mit weißem Laken, Hand am Rücken. Hook-Typ: Schmerz-/Problem-Statement.
+
+**Untertitel:** wortgleich mit 200490722 („My back can't / take this anymore.“ · „The Pleene EasyRest / was our solution.“ · „The cover is sewn in, and / there's nothing to change ever.“ · „And I haven't been too / hot or too cold once.“ · „How does it / do that?“ · „Why didn't someone / tell us about this earlier?“ · „Duvet and cover in one. / We're never going back.“ · Endkarte „More Independence. / More Comfort.“ / „Pleene. EasyRest™“ / „SHOP NOW“).
+
+**Szenenliste:** identisch mit 200490722 (Frau am leeren Bett 0,03–3,50 · Frau mit blauer Decke 3,50–11,88 · Paar im Bett, Mann spricht 11,88–19,12 · Jump-Cut, Frau spricht 19,12–22,89 · Endkarte 22,89–27,88).
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook / Problem | 0–4,08 | „My back just can't take this anymore.“ |
+| Verstärkung | – | **fehlt** |
+| Lösung | 4,08–6,24 | „The EasyClean [= Pleene EasyRest] was our solution.“ |
+| Mechanismus | 6,24–12,36 | „The cover is sewn in. That's the whole idea. There's nothing to change, ever.“ |
+| Beweis | 12,36–19,40 | Partner-Testimonial (Temperatur, „Why didn't someone tell us about this earlier?“) |
+| Abschluss | 19,40–22,68 | „Duvet and cover in one. We're never going back.“ |
+| Angebot | – | **fehlt** |
+| CTA | 22,89–27,88 | Endkarte „SHOP NOW“ + Button |
+
+**Wer ist zu sehen / wer spricht:** wie 200490722: Paar (Frau 55–65 mit Brille, Mann 60–70 mit grauem Haar), **echte Personen, O-Ton** (Ansteckmikrofone, Lippensync, f0-Wechsel Frau/Mann).
+**Setting:** helles Schlafzimmer mit weißem Metallbett, Paar im Bett, schwarze Endkarte.
+**Avatar:** Paare bzw. Frauen ab ca. 55 mit Rückenproblemen; US-Ausspielung laut GetHooked.
+**Angle:** **E** + **C** + **B** sekundär + **F-Selbstständigkeit** (Endkarte).
+**Haupt-Emotion:** Frust/Erschöpfung → Erleichterung und Begeisterung.
+**Schnitttempo / Untertitel / Ton:** 1,43 Schnitte pro 10 s (visuell); Untertitel ja (Serifen, graue Box); O-Ton-Dialog, Musik auf der Endkarte.
+**Konkrete Zahlen und Behauptungen (wörtlich):** „The cover is sewn in.“ · „There's nothing to change, ever.“ · „And I haven't been too hot or too cold once.“ · „Duvet and cover in one.“ · „More Independence. More Comfort.“ Keine Zahlen.
+**Angebotspräsentation:** keine.
+**Varianten-Hinweis:** **byte-identisch mit 200490722** (`/products/easyrest`, Länder `[]`). Batch 6 hatte das Paar bereits über das wortgleiche Transkript vermutet; jetzt per MD5 und Ton-Kreuzkorrelation (1,000) **verifiziert**.
+
+---
+
+#### Video 200036996 – Ditch The Duvet Cover
+
+**Metadaten**
+| Feld | Wert |
+|---|---|
+| GetHooked-ID / Media | 200036996 / 527527848 |
+| Meta-ID | 38866239393024310 |
+| Ad Library | https://www.facebook.com/ads/library/?id=38866239393024310 |
+| share_url | https://app.gethookd.ai/share/ad/200036996?signature=945bd160e24141ec27cd570f40308c72484012330c424f8889416548c509a965 |
+| Land / Sprache | **`["US"]`** / en |
+| Start / Tage aktiv | 2026-10-06 / 3 (start_to_today, active) |
+| performance_score / used_count | 1 („Testing“) / 1 |
+| CTA | SHOP_NOW – „Shop now“ |
+| Landingpage | **https://pleene.com/products/easyrest-comforter** (page_type null) |
+| Link-Beschreibung | „Keep bedding simple“ |
+| Technik | 22,63 s · 720×1280 · 29,97 fps · AAC 48 kHz · mean −15,0 dB, max −0,0 dB · keine Stille |
+| Schnitte | 0,3 und 0,15 identisch: 5 echte Schnitte (2,10 / 5,77 / 9,58 / 13,58 / 17,65; 0,03 = Einblendung) = **2,21 pro 10 s** (0–10: 3 · 10–20: 2 · 20–22,6: 0) |
+
+**Primärtext (wörtlich):** „Still using a separate duvet cover? There's another way. Pleene EasyRest™ combines the duvet and cover in one, so the whole thing goes into the wash and dries in 2 hours.“
+
+**Transkript:** GetHooked „Thanks for watching!“ (0,00–22,48 s) = **Platzhalter**. Audio-Check: mean −15,0 dB, max −0,0 dB, keine Stille; Spektrogramm mit regelmäßigem Beat-Raster und tonalen Bändern, keine Formanten; lokales Whisper nur die Halluzination „Thank you.“ (0–22,24 s, no_speech_prob 0,17, avg_logprob −0,72). **Ergebnis: nur Musik, keine Sprache.**
+
+**Hook (0–3 s)**
+- Gesprochen: keiner.
+- Eingeblendet: „This is your sign to / rethink your duvet.“ (0,5–2,0)
+- Bild: Mann (ca. 55–65, Glatze, grünes Polo) wirft im Schlafzimmer mit Terrakotta-Fliesen und Tiffany-Lampe eine navyblaue Decke aufs Bett.
+- Hook-Typ: „Sign“-Meme / Pattern-Interrupt.
+
+**Einblendungen (vollständig, wörtlich; Serifenschrift, graue Box)**
+„This is your sign to / rethink your duvet.“ (0,5–2,0) · „One duvet. / No separate cover.“ (2,3–5,0) · „And the whole thing goes / right into the wash.“ (5,97–9,0) · „Two hours later, / it's dry“ (9,78–13,0) · „and back on / my bed.“ (13,78–17,0) · Endkarte auf Schwarz: „A Fresh Bed, / Done My Way.“ (goldfarben, ab 17,85), „Pleene.“ / „EasyRest™“ (ab 19,0), „SHOP NOW“ (ab 20,0) bis 22,63.
+
+**Szenenliste (alle Übergänge angesehen)**
+| Sek. | Szene |
+|---|---|
+| 0,00–0,03 | Schwarz |
+| 0,03–2,10 | Schlafzimmer (Holzbett, Bild an der Wand, Terrakotta-Fliesen, Tiffany-Lampe): Mann wirft die dunkle Decke aufs Bett |
+| 2,10–5,77 | Nahaufnahme: Hand streicht über die dunkle Steppdecke am Bettrand, orangefarbener Teppich |
+| 5,77–9,58 | Weißer Toplader mit Warnaufkleber: Person mit langen blonden Haaren stopft eine mintgrüne Decke hinein, Papierrolle in der Trommel (9,0) |
+| 9,58–13,58 | Garten mit Efeuwand: Mann mit Glatze (gelbes Shirt) hält die navyblaue Decke an der Wäscheleine |
+| 13,58–17,65 | Zweites Schlafzimmer (Holzboden, Kommode): Person mit hellem Haar liegt im Bett und zieht die mintgrüne Decke hoch |
+| 17,65–22,63 | Schwarze Endkarte |
+
+**Aufbau**
+| Baustein | Sek. | Inhalt |
+|---|---|---|
+| Hook | 0,03–2,10 | „This is your sign to rethink your duvet.“ |
+| Problem | – | **fehlt** im Video (nur Primärtext: „Still using a separate duvet cover?“) |
+| Verstärkung | – | **fehlt** |
+| Lösung | 2,10–5,77 | „One duvet. No separate cover.“ |
+| Mechanismus | 5,77–9,58 | „And the whole thing goes right into the wash.“ |
+| Beweis | 9,58–17,65 | nur Demo („Two hours later, it's dry“ an der Wäscheleine, „and back on my bed.“) |
+| Angebot | – | **fehlt** |
+| CTA | 17,65–22,63 | Endkarte „A Fresh Bed, Done My Way.“ / „SHOP NOW“ + Button |
+
+**Wer ist zu sehen / wer spricht:** Mann ca. 55–65 mit Glatze (grünes Polo bzw. gelbes Shirt; ob dieselbe Person: nicht verifiziert), Person mit langen blonden Haaren am Toplader (nur Hände/Haare), Person mit hellem Haar im Bett (Alter nicht bestimmbar). **Echte Personen / UGC-Footage**: Handkamera, natürliches Licht, reale Details (Warnaufkleber, Papierrolle, Wäscheleine). Kein Sprecher.
+
+**Setting:** zwei Schlafzimmer, Hauswirtschaftsraum mit Toplader, Garten mit Wäscheleine, schwarze Endkarte; US-anmutend (Toplader; **nicht verifiziert**).
+**Avatar:** Menschen ab ca. 50, die den separaten Bezug lästig finden; US-Ausspielung laut GetHooked.
+**Angle:** **C** (kein separater Bezug) + **A** sekundär (ganze Decke in die Wäsche, 2 h trocken).
+**Haupt-Emotion:** Neugier („This is your sign …“) → ruhige Zufriedenheit („A Fresh Bed, Done My Way.“).
+**Schnitttempo / Untertitel / Ton:** 2,21 Schnitte pro 10 s; Ich-Text-Einblendungen (Serifen, graue Box); nur Musik.
+
+**Konkrete Zahlen und Behauptungen (wörtlich):** „One duvet. No separate cover.“ · „And the whole thing goes right into the wash.“ · „Two hours later, it's dry“ (gezeigt mit Lufttrocknung) · „and back on my bed.“ · „A Fresh Bed, Done My Way.“ · Primärtext „dries in 2 hours“.
+
+**Angebotspräsentation:** keine.
+
+**Varianten-Hinweis**
+- **Byte-identisch mit 200490719** (Batch 5; `/products/easyrest`, Länder `[]`, Score dort 30, enriched 12). Batch 5 hatte das nur vermutet; jetzt per MD5 und Ton-Kreuzkorrelation **verifiziert**. Hier ist die Zuordnung umgekehrt: 996 ist die US-/comforter-Variante.
+- Tiffany-Lampen-Zimmer wie 200490718/200490660 (Bademantel-Mann) und 193234224; Toplader und Wäscheleine ebenfalls in 200490718/200490660.
+
+---
+
+##### Hygiene-Zitate Batch 9
+
+Erfasst sind alle Stellen zu Milben, Bakterien, Schweiß, Waschen, Trocknen oder Temperatur: gesprochen (T), eingeblendet (E), dazu Primärtext (P) bzw. Link-Beschreibung (L) ohne Sekunde. **Milben, Bakterien und Schweiß kommen in keiner der 7 Ads vor.** Byte-identische Zwillinge sind mitgenannt.
+
+| Ad | Sek. | Quelle | Zitat (wörtlich) | Thema |
+|---|---|---|---|---|
+| 200490722 = 200490658 | 12,36–15,32 | T | „And I haven't been too hot or too cold once.“ | Temperatur |
+| 200490722 = 200490658 | 12,0–15,0 | E | „And I haven't been too / hot or too cold once.“ | Temperatur |
+| 200490722 = 200490658 | 15,32–16,32 | T / E 15,5–16,5 | „How does it do that?“ / „How does it / do that?“ (bezieht sich auf die Temperatur) | Temperatur |
+| 200490721 | 14,72–20,34 | T | „Now I know exactly what you're thinking, that thing is never going to fit in a normal washing machine.“ | Waschen |
+| 200490721 | 17,0–20,0 | E | „That thing is never“ / „going to fit into / a normal washing machine.“ | Waschen |
+| 200490721 | 20,74–22,74 (Bild bis 29,73) | T | „But watch this.“ (Demo: ganze Decke im Frontlader) | Waschen |
+| 200490721 | 30,74–37,14 | T | „And no, it doesn't take ages to dry, just two hours and then you can put it back onto your bed.“ | Trocknen |
+| 200490721 | 31,0–33,0 | E | „And no, it doesn't / take ages to dry.“ | Trocknen |
+| 200490721 | 34,0–38,0 | E | „Just two hours, and then / it gets back onto your bed.“ | Trocknen |
+| 200490721 | 39,14–44,38 | T | „So warm and cosy in winter and cool and comfortable in summer.“ | Temperatur |
+| 200490721 | 39,0–43,9 | E | „So warm and cozy / in winter,“ / „cool and comfortable / in summer.“ | Temperatur |
+| 200490721 | – | P | „made for year-round comfort“ | Temperatur (indirekt) |
+| 200490718 = 200490660 | 4,27–8,0 | E | „With Pleene EasyRest™, I can wash / the whole duvet right at home.“ | Waschen |
+| 200490718 = 200490660 | 8,37–11,0 | E | „The whole thing fits into / my washing machine“ | Waschen |
+| 200490718 = 200490660 | 11,44–14,0 | E | „and then I just / air dry it for 2 hours“ | Trocknen |
+| 200490718 = 200490660 | 14,48–18,0 | E | „No waiting. No asking for help. / Just a fresh bed, whenever I want.“ | Frische |
+| 200490718 = 200490660 | – | P | „Pleene EasyRest™ washes whole at home, air dries in 2 hours, and goes straight back on the bed.“ | Waschen / Trocknen |
+| 200490714 | 10,44–14,0 | E | „And yes, you can wash / the whole thing at home.“ | Waschen |
+| 200490714 | 15,0–20,0 | E | „Two hours later, / it's dry and back on the bed.“ | Trocknen |
+| 200490714 | – | P / L | „fresh bedding is simpler from start to finish“ / „Fresh bedding, made easy“ | Frische |
+| 200036996 | 5,97–9,0 | E | „And the whole thing goes / right into the wash.“ | Waschen |
+| 200036996 | 9,78–13,0 | E | „Two hours later, / it's dry“ (Bild: Lufttrocknung an der Wäscheleine) | Trocknen |
+| 200036996 | 17,85–22,63 | E | „A Fresh Bed, / Done My Way.“ | Frische |
+| 200036996 | – | P | „so the whole thing goes into the wash and dries in 2 hours.“ | Waschen / Trocknen |
+| 200490721 | – | L | „Fresh bedding, less fuss“ | Frische |
+
+Keine Tog-Angabe, keine Waschtemperatur, keine Trocknungsart außer „air dry“ (718/660) bzw. Wäscheleine im Bild (996, 718/660).
+
+##### Kurz-Tabelle Batch 9
+
+| ID | Länge | Hook (wörtlich) | Angle | Avatar | Sprecher-Typ | Schnitte/10 s | Emotion |
+|---|---|---|---|---|---|---|---|
+| 200490722 | 27,9 s | T „My back just can't take this anymore.“ / E „My back can't take this anymore.“ | E + C, B, F-Selbstständigkeit | Paar/Frau 55+ mit Rückenproblemen | echtes Paar, O-Ton (Frau + Mann) | 1,43 (Detektor 0,72) | Frust → Erleichterung |
+| 200490721 | 50,9 s | T/E „I don't have a duvet cover anymore …“ | C + A + B | Frau 45–65, skeptisch bei Waschbarkeit | echte Frau, O-Ton | 1,18 | Neugier → Zufriedenheit |
+| 200490718 | 23,1 s | E „I used to need help with this.“ → „But not anymore!“ (keine Sprache) | F-Selbstständigkeit im Alter + E + A | Senioren 65+, auf Hilfe angewiesen | echte Personen (UGC-Mix), nur Musik | 2,60 | Scham/Abhängigkeit → Stolz |
+| 200490714 | 30,5 s | E „I got rid of my duvet cover, and I'm never going back.“ (keine Sprache) | C + A | Erwachsene 30–50, Bezug-Frust | echter Mann (UGC), nur Musik | 2,30 | Erleichterung/Bekehrung |
+| 200490660 | 23,1 s | wie 200490718 | F-Selbstständigkeit + E + A | Senioren 65+ (US) | wie 200490718 | 2,60 | Scham → Stolz |
+| 200490658 | 27,9 s | wie 200490722 | E + C, B, F-Selbstständigkeit | Paar 55+ (US) | wie 200490722 | 1,43 | Frust → Erleichterung |
+| 200036996 | 22,6 s | E „This is your sign to rethink your duvet.“ (keine Sprache) | C + A | 50+, Bezug lästig (US) | echte Personen (UGC), nur Musik | 2,21 | Neugier → Zufriedenheit |
+
+**Prüfung der Pflichtliste (alle 7 Ads)**
+| Ad | Transkript bzw. begründeter Vermerk | Hook | Aufbau | Personen/Typ | Setting | Avatar/Angle | Emotion | Tempo/UT/Ton | Zahlen | Angebot | Varianten | Metadaten |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 200490722 | ja, vollständig | ja | ja | ja | ja | ja | ja | ja | ja | ja (keins) | ja | ja |
+| 200490721 | ja, vollständig | ja | ja | ja | ja | ja | ja | ja | ja | ja (keins) | ja | ja |
+| 200490718 | Platzhalter, Audio-Check: nur Musik | ja | ja | ja | ja | ja | ja | ja | ja | ja (keins) | ja | ja |
+| 200490714 | `no_speech`, Audio-Check: nur Musik | ja | ja | ja | ja | ja | ja | ja | ja | ja (keins) | ja | ja |
+| 200490660 | Platzhalter, byte-identisch mit 718: nur Musik | ja | ja | ja | ja | ja | ja | ja | ja | ja (keins) | ja | ja |
+| 200490658 | ja, vollständig | ja | ja | ja | ja | ja | ja | ja | ja | ja (keins) | ja | ja |
+| 200036996 | Platzhalter, Audio-Check: nur Musik | ja | ja | ja | ja | ja | ja | ja | ja | ja (keins) | ja | ja |
+
+Offen / nicht verifiziert: Reichweite und Spend (n/a für GB/US in GetHooked); Länder bei 722/721/718/714 (`[]`, n/a); ob unter der Sprache von 722/721 ein Musikbett liegt; Akzent der Sprecherinnen; ob die Glatzen-Männer in 718/996 dieselbe Person sind; ob die 2 Stunden für Lufttrocknung gelten.
+
+
+## A3 – Static-Ads im Detail (alle 74)
+
+### Teil 2 – Creative-Analyse Statics, Batch 1 (15 Bild-Ads)
+
+Stand: 2026-10-08. Marke Pleene (brand_id 7553008). Alle 15 Ads sind laut GetHooked Einzelbild-Ads (`display_format: image`, je 1 Medium, keine ad_cards). Karussells oder DCO-Ads mit mehreren Medien gibt es in diesem Batch nicht.
+
+**Quellen und Methode**
+- Bilder angesehen über `get_ad_media`, je 4 Ads pro Aufruf, Vorschau mit 768 px.
+- Originale über den öffentlichen GetHooked-Share-Endpunkt `/api/get-shared-ad/<id>?signature=…` geladen (signierte static-URL). Ablage: `wf/img/<id>.jpg`; bei PNG-Originalen liegt zusätzlich `<id>.png` daneben.
+- Kleine Schrift habe ich in Ausschnitten der Originalauflösung geprüft (`wf/img/crops/`).
+- Metadaten stammen aus `agent1_enriched.json`, aus `get_ad` (für 136388964 und 182988043) und aus dem Share-JSON vom 08.10. (`wf/s2s1_api/`).
+- Bilddateien habe ich per md5 verglichen und auf PNG-Textfelder bzw. C2PA-Manifeste geprüft.
+- Text auf den Bildern ist wörtlich im englischen Original wiedergegeben. Zeilenumbrüche im Bild sind als „ / “ markiert.
+- **Score-Hinweis:** Angegeben ist der Score aus dem Inventar (= `get_ad`). Das Share-JSON vom 08.10. abends liefert für 7 Ads einen anderen Wert. Er steht in Klammern dahinter.
+- **Reichweite/Spend:** Für GB liefert GetHooked keine Werte, deshalb überall n/a. Als Ersatzsignale dienen Tage, Score und used_count.
+- **Primärtext:** Hier steht nur der Anfang. Der vollständige Wortlaut steht im Inventar (`wf/s1_inventar.md`) unter der genannten Text-ID.
+
+---
+
+#### Static 136388964 – No More Fighting With Duvet Covers
+
+- **Headline:** "No More Fighting With Duvet Covers"
+- **Primärtext (kurz, Inventar T01):** "Duvet + Cover in One 🌙 / The Pleene EasyRest™ makes changing the bed finally simple. Wash it, dry it, and lay it back on — that's it. …" Darin enthalten: "✓ Pleasantly cool in summer, cosily warm in winter", "✓ Hypoallergenic and kind to sensitive skin", "Get 2 free Pleene™ Pillow Cases today (worth £39.99).", "90 nights to try it risk-free."
+- **Link-Beschreibung:** "⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers"
+- **Gesamter Bildtext (wörtlich):**
+  - "3 things to STOP doing / when you make the bed"
+  - "1. ❌ [Piktogramm] Wrestling the duvet into its cover"
+  - "2. ❌ [Piktogramm] Lifting the heavy mattress to tuck sheets"
+  - "3. ❌ [Piktogramm] Shaking out dusty bedding"
+  - "✅ Do this instead →"
+  - "Pleene EasyRest™ — / duvet & cover in one. / Just wash the whole thing."
+- **Bildmotiv:** Listen-Grafik mit drei roten X und schwarzen Strichmännchen-Piktogrammen: Person ringt mit dem Bezug, Person hebt die Matratze, Person schüttelt Bettzeug mit Staubwolke. Unten rechts ein Produktfoto: zusammengelegte blaue Steppdecke mit Rautensteppung, darauf 2 blaue Kissen. **Keine reale Person.** Das Bild ist weitgehend eine Grafik. Ob es KI-generiert ist, ist nicht verifiziert. Hinweis: Das PNG-Original enthält das Textfeld `hf-job-id`, denselben Schlüssel wie 173307160, dessen C2PA-Manifest Higgsfield/OpenAI nennt. Das deutet auf Higgsfield hin, ist aber nicht verifiziert.
+- **Farbwelt:** Creme/Beige als Hintergrund, Navy-Schrift, Signalrot (X), grünes Häkchen, Produkt in Mittelblau (Coastal Blue, nicht verifiziert).
+- **Angebot:** Nicht im Bild. In der Copy: 2 Gratis-Kissenbezüge (worth £39.99) und 90-Nächte-Test.
+- **Angle:** **C** (Hauptangle: Kampf mit dem Bezug) + **E** (schwere Matratze heben) + **A** ("dusty bedding", "wash the whole thing"). Die Copy ergänzt B und F-Angebot.
+- **Format-Typ:** Listicle/Infografik "3 things to STOP doing", also Don'ts plus Produktlösung.
+- **Metadaten:**
+  - Meta-ID 884267707299487 · Start 2026-06-11 · **120 Tage** · Score **100 (Winning)** · used_count 1
+  - Status aktiv · Länder laut get_ad: GB · Plattformen FB/IG/AN/Messenger/Threads · CTA "Shop now"
+  - Original 1024×1024 PNG
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/136388964?signature=d0ff0d2a2536e91cfc3dacb7f3b055bf680241a71e3d485ea8d2c98436047966) · [Ad Library](https://www.facebook.com/ads/library/?id=884267707299487)
+- **Familie:** F1 "No More Fighting With Duvet Covers" (identische Copy T01, 5 verschiedene Bildkonzepte).
+
+#### Static 136388847 – No More Fighting With Duvet Covers
+
+- **Headline:** "No More Fighting With Duvet Covers"
+- **Primärtext (kurz, Inventar T01):** identisch mit 136388964 ("Duvet + Cover in One 🌙 …").
+- **Link-Beschreibung:** "⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers"
+- **Gesamter Bildtext (wörtlich):**
+  - "Just want to sleep... but you’ve / still got to change the bed?"
+  - "End up too hot and / uncomfortable to drift off."
+  - "[grüner Haken] Pleene EasyRest™ — / duvet & cover in one. / Just wash the whole / thing, no wrestling."
+- **Bildmotiv:**
+  - **Obere Hälfte (Lifestyle-/Problemszene):** **Person ja, Frau, geschätzt ca. 35–50 Jahre** (Schätzung). Sie hat zerzaustes, hochgestecktes Haar, ein stark gerötetes, verschwitztes Gesicht mit sichtbaren Schweißtropfen und trägt einen beigen Leinen-Pyjama. Sie sitzt angestrengt auf dem Bett und zerrt an einer beigen Bettdecke. Nachtstimmung mit zwei Nachttischlampen und einem Wecker.
+  - **Untere Hälfte:** Produktfoto, blaue Steppdecke mit Rautensteppung und 2 Kissen.
+  - Der Bildstil wirkt KI-generiert (glatte Haut, inszenierte Schweißtropfen). Das ist nicht verifiziert. Das PNG-Original enthält `hf-job-id`.
+- **Farbwelt:** Warmes Orange-/Bernsteinlicht und Beige oben, Creme-Feld unten, Navy-Schrift, Produkt in Mittelblau.
+- **Angebot:** Nicht im Bild. In der Copy: 2 Gratis-Kissenbezüge (worth £39.99) und 90 Nächte.
+- **Angle:** **C** (Hauptangle: Bettwechsel und "no wrestling") + **B** ("too hot", Schweiß im Gesicht). Die Optik lässt an Wechseljahre denken, das Wort fällt aber nicht. Die Copy ergänzt F-Angebot.
+- **Format-Typ:** Problem/Lösung-Split: Lifestyle-Problemszene oben, Produktlösung unten.
+- **Metadaten:**
+  - Meta-ID 1583232786477915 · Start 2026-06-11 · **120 Tage** · Score **100 (Winning)** · used_count 1
+  - Status aktiv · Plattformen FB/IG/AN/Messenger/Threads · CTA "Shop now"
+  - Original 1024×1024 PNG
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/136388847?signature=422777a4ae4663b915702dc330ccb3f999733ab57559e373f53beb6af24567f7) · [Ad Library](https://www.facebook.com/ads/library/?id=1583232786477915)
+- **Familie:** F1 (Copy T01).
+
+#### Static 171191667 – No More Fighting With Duvet Covers
+
+- **Headline:** "No More Fighting With Duvet Covers"
+- **Primärtext (kurz, Inventar T01):** identisch mit 136388964.
+- **Link-Beschreibung:** "⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers"
+- **Gesamter Bildtext (wörtlich):**
+  - "“But you’d need a huge washing / machine for that” 😂"
+  - "That’s what I thought too. / The truth:"
+  - "👉 The duvet is made extra light"
+  - "👉 fits in any normal household machine"
+  - "👉 dries in 2 hours even without a dryer"
+  - "And suddenly it’s simple: Toss it in. Done. / No cover. No stress."
+  - Gelb hinterlegter Kasten: "Duvet + cover in one"
+- **Bildmotiv:** Text-lastige Einwand-Grafik im Stil eines Social-Posts mit Emojis. Unten links ein Produktfoto: anthrazitfarbene Decke mit Kissen, freigestellt. Ein handgezeichneter schwarzer Pfeil zeigt auf den Gelbkasten. **Keine Person.** Ob KI-generiert, ist nicht verifiziert. Das PNG-Original enthält `hf-job-id`.
+- **Farbwelt:** Hellgrauer Hintergrund, schwarze Schrift, Anthrazit-Produkt, Neon-Gelbgrün als Highlight.
+- **Angebot:** Nicht im Bild. In der Copy: 2 Gratis-Kissenbezüge und 90 Nächte.
+- **Angle:** **A** (Hauptangle: ganze Decke in der Haushaltsmaschine waschen und trocknen) + **F-Einwand** ("huge washing machine") + **C** ("No cover").
+- **Format-Typ:** Einwandbehandlung/Objection-Buster als Text-Post mit Produktfoto.
+- **Metadaten:**
+  - Meta-ID 1583757549405276 · Start 2026-09-03 · **36 Tage** · Score **100 (Winning)** (Share-JSON: 90) · used_count 1
+  - Status aktiv · Plattformen FB/IG/AN/Messenger/Threads · CTA "Shop now"
+  - Original 1024×1024 PNG
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/171191667?signature=b03cc4b1b86af6280d5edfa0028fe241e19fd20d3b3592e580dd3f576a92669d) · [Ad Library](https://www.facebook.com/ads/library/?id=1583757549405276)
+- **Familie:** F1 (Copy T01).
+
+#### Static 172403389 – Properly Warm, Never Heavy
+
+- **Headline:** "Properly Warm, Never Heavy"
+- **Primärtext (kurz, Inventar T15):** "A light duvet can't keep you warm in winter." We hear it every autumn, and it's wrong. Climate-regulating fibres keep you properly warm without the heavy feeling, and the whole duvet still goes in your washing machine, dry in 2 hours."
+- **Link-Beschreibung:** "⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers"
+- **Gesamter Bildtext (wörtlich):**
+  - Rot durchgestrichen: "A light duvet can’t keep / you warm in winter."
+  - "Climate-regulating fibres / keep you properly warm. / Without the heavy feeling."
+  - "✓ 2 Free Pillow Cases"
+  - "✓ 90-Night Trial"
+  - Button: "Order now"
+- **Bildmotiv:** Produktfoto mit drei zusammengelegten Steppdecken übereinander, Rautensteppung, in Blau, Orange und Mint. Neutraler Studiohintergrund. **Keine Person.** Ob KI-generiert, ist nicht verifiziert (PNG ohne Metadaten).
+- **Farbwelt:** Pfirsich/Creme-Hintergrund, schwarze Schrift, rote Durchstreichung, Produkte in Blau, Orange und Mint.
+- **Angebot:** Im Bild: "2 Free Pillow Cases" und "90-Night Trial".
+- **Angle:** **B** (Hauptangle: warm im Winter trotz leichter Decke) + **F-Einwand** (Mythos durchgestrichen) + **F-Angebot**. Die Copy ergänzt A ("whole duvet … washing machine, dry in 2 hours").
+- **Format-Typ:** Myth-Busting mit durchgestrichener Behauptung, dazu Produktfoto (Farbstapel). Hochformat 9:16.
+- **Metadaten:**
+  - Meta-ID 1725326416267519 · Start 2026-09-05 · **34 Tage** · Score **100 (Winning)** · used_count 1
+  - Status aktiv · Plattformen FB/IG/AN/Messenger/Threads · CTA "Shop now"
+  - Original 1143×2048 PNG
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/172403389?signature=fc57a29e066c788034eca64a557143f0c3e0b71232ea5868d51df06e7536000f) · [Ad Library](https://www.facebook.com/ads/library/?id=1725326416267519)
+- **Familie:** F2 "Properly Warm, Never Heavy" (Copy T15). Layout-Zwilling von 172760571: gleicher Farbstapel, gleiche Häkchen-Liste, aber Myth-Busting statt Testimonial.
+
+#### Static 172760571 – Properly Warm, Never Heavy
+
+- **Headline:** "Properly Warm, Never Heavy"
+- **Primärtext (kurz, Inventar T15):** identisch mit 172403389 ("A light duvet can't keep you warm in winter." …).
+- **Link-Beschreibung:** "⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers"
+- **Gesamter Bildtext (wörtlich):**
+  - "“It's what I've been / looking for all this time!”"
+  - "— Customer, UK"
+  - "✓ + 2 free pillow cases"
+  - "✓ 90-night sleep trial"
+  - "✓ Order now"
+- **Bildmotiv:** Testimonial-Zitat in Serifenschrift über einem Produktfoto mit drei gestapelten Steppdecken in Blau, Orange und Mint, Großaufnahme. Weißer Hintergrund. **Keine Person.** Die Kundin oder der Kunde ist nicht namentlich genannt. Das Zitat kommt in den 334 gesammelten Trustpilot-/Judge.me-Reviews (`wf/reviews_all.json`) nicht vor. Herkunft nicht verifiziert.
+- **Farbwelt:** Weiß, schwarze Schrift, Produkte in Blau, Orange und Mint.
+- **Angebot:** Im Bild: "+ 2 free pillow cases" und "90-night sleep trial".
+- **Angle:** Bild: **F-Social-Proof** (Hauptangle) + **F-Angebot**. Copy: **B** (Wärme) + A (waschbar, 2 h trocken).
+- **Format-Typ:** Testimonial (Kundenzitat) mit Produktfoto (Farbstapel). Hochformat 9:16.
+- **Metadaten:**
+  - Meta-ID 1415553300514250 · Start 2026-09-06 · **33 Tage** · Score **100 (Winning)** · used_count 1
+  - Status aktiv · Plattformen FB/IG/AN/Messenger/Threads · CTA "Shop now"
+  - Original 1158×2048 PNG
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/172760571?signature=82cd0a698c2d4720c44c69a474abfa9e4e1f24189f59d7dd6d1f216aaf8e25b8) · [Ad Library](https://www.facebook.com/ads/library/?id=1415553300514250)
+- **Familie:** F2 (Copy T15), Layout-Zwilling von 172403389.
+
+#### Static 151025052 – Everyone's buying the blue one.
+
+- **Headline:** "Everyone's buying the blue one."
+- **Primärtext (kurz, Inventar T19):** "Everyone's buying it in Coastal Blue — and stock is running low. The EasyRest™ is duvet and cover in one: wash the whole thing, dry in 2 hours, bed made in one throw."
+- **Link-Beschreibung:** "⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers"
+- **Gesamter Bildtext (wörtlich):**
+  - "Everyone's / buying it in Coastal Blue"
+  - Kleiner, in Kupfer/Orange: "Only 19 left"
+- **Bildmotiv:** Lifestyle-Raumszene, Blick durch einen Türspalt (dunkler Holzrahmen links) in ein Hotel-artiges Schlafzimmer. Dunkle Holzpaneele, gepolstertes beiges Kopfteil, Messing-Wandleuchte, Marmor-Nachttisch mit Vase, Hochflor-Teppich, Bett mit blauer Steppdecke (Rautensteppung) und blauen Kissen. **Keine Person.** Die Szene wirkt KI-generiert (nicht verifiziert). Das JPEG-Original (1080×1920) trägt den Encoder-Kommentar "Lavc62.11.100", wurde also mit ffmpeg exportiert. Ob es ein Videostill ist, ist nicht verifiziert.
+- **Farbwelt:** Dunkles Walnussbraun und Messing/Gold, Produkt in Mittelblau, weiße Schrift, Kupfer-Akzent.
+- **Angebot:** Kein Preis und keine Gratis-Beigabe. Knappheit: "Only 19 left".
+- **Angle:** **F-Knappheit/Farbe** (Hauptangle) + **F-Social-Proof** ("Everyone's buying"). Die Copy ergänzt A ("wash the whole thing, dry in 2 hours") und C ("bed made in one throw").
+- **Format-Typ:** Knappheit/Farbe als Lifestyle-Raumszene. Hochformat 9:16.
+- **Metadaten:**
+  - Meta-ID 1363184622691769 · Start 2026-08-20 · **50 Tage** · Score **61 (Growing)** (Share-JSON: 86) · used_count 1
+  - Status aktiv · Plattformen FB/IG/AN/Messenger/Threads · CTA "Shop now"
+  - Original 1080×1920 JPEG
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/151025052?signature=fa0ac684d0e23c918a286f4c72318a4110a6ecece18af70548ebdfc97ba1bc3e) · [Ad Library](https://www.facebook.com/ads/library/?id=1363184622691769)
+- **Familie:** F3 "Schlafzimmer-Knappheit" (gleiche Raumszene und gleicher Bildaufbau wie 169082912, nur andere Deckenfarbe und anderer Banner-Text).
+
+#### Static 169082912 – Mint Green is almost gone.
+
+- **Headline:** "Mint Green is almost gone."
+- **Primärtext (kurz, Inventar T08):** "This week only: 2 free Pleene™ Pillow Cases with every duvet. And if you've been eyeing Mint Green — it's almost gone. The EasyRest™ is duvet and cover in one: wash it whole, dry in 2 hours."
+- **Link-Beschreibung:** "⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers"
+- **Gesamter Bildtext (wörtlich):**
+  - "This week only: / 2 FREE Pillow Cases / with every DUVET"
+  - Kupfer: "Only 26 left in Mint Green"
+- **Bildmotiv:** Dieselbe Lifestyle-Raumszene wie 151025052 (Türspalt, Holzpaneele, Messingleuchte, Marmor-Nachttisch, Hochflor-Teppich), hier mit mintgrüner Steppdecke und mintgrünen Kissen. **Keine Person.** Wirkt KI-generiert (nicht verifiziert). JPEG mit Encoder-Kommentar "Lavc62.11.100".
+- **Farbwelt:** Walnussbraun und Messing, Produkt in Salbei-/Mintgrün, weiße Schrift, Kupfer-Akzent.
+- **Angebot:** "This week only: 2 FREE Pillow Cases with every DUVET" und Knappheit "Only 26 left in Mint Green".
+- **Angle:** **F-Angebot** + **F-Knappheit/Farbe** (beide gleich stark). Die Copy ergänzt A ("wash it whole, dry in 2 hours").
+- **Format-Typ:** Knappheit/Farbe plus Angebot als Lifestyle-Raumszene. Hochformat 9:16.
+- **Metadaten:**
+  - Meta-ID 2192690231462965 · Start 2026-08-31 · **39 Tage** · Score **74 (Growing)** (Share-JSON: 80) · used_count 1
+  - Status aktiv · Plattformen FB/IG/AN/Messenger/Threads · CTA "Shop now"
+  - Original 1080×1920 JPEG
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/169082912?signature=4ab996ca26c1daf73d6ef9a482fc283fbce80f5ccef0bc6ead1abbcdb159c5e0) · [Ad Library](https://www.facebook.com/ads/library/?id=2192690231462965)
+- **Familie:** F3 (Farbvariante von 151025052). Das Banner-Layout teilt sie mit 173307160.
+
+#### Static 173307160 – Properly Warm, Never Heavy
+
+- **Headline:** "Properly Warm, Never Heavy"
+- **Primärtext (kurz, Inventar T15):** identisch mit 172403389 ("A light duvet can't keep you warm in winter." …).
+- **Link-Beschreibung:** "⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers"
+- **Gesamter Bildtext (wörtlich):**
+  - "This week only: / 2 FREE Pillow Cases / with every DUVET [Stoppuhr-Icon mit Speed-Linien]"
+  - Kupfer: "Only 79 left in Mint Green"
+  - Schwarzer Kreis-Badge: "FREE / this week / only"
+  - Durchgestrichener Preis: "£39.99"
+- **Bildmotiv:** Lifestyle-Schlafzimmer im selben Stil wie F3 (Holzpaneele, Messing-Wandleuchten, Marmor-Nachttische, Hochflor-Teppich), frontal und ohne Türspalt. Bett mit mintgrüner Steppdecke und Kissen. Rechts unten ein halbtransparenter Kasten mit 2 mintgrünen Kissenbezügen. **Keine Person.** **KI-generiert, per Metadaten verifiziert:** Das PNG enthält ein C2PA-Manifest mit "Higgsfield C2PA Root CA", "OpenAI Media Service" und der Quellenangabe `trainedAlgorithmicMedia`, außerdem das Textfeld `hf-job-id`.
+- **Farbwelt:** Walnussbraun und Messing, Salbei-/Mintgrün, weiße Schrift, Kupfer-Akzent, schwarzer Badge.
+- **Angebot:** 2 Gratis-Kissenbezüge "this week only", Streichpreis £39.99, Knappheit "Only 79 left in Mint Green".
+- **Angle:** Bild: **F-Angebot** (Hauptangle) + **F-Knappheit/Farbe**. Copy: **B** (Wärme) + A.
+- **Format-Typ:** Angebot/Gratis-Beigabe mit Streichpreis-Badge plus Knappheit, Lifestyle. Quadrat 1:1.
+- **Metadaten:**
+  - Meta-ID 1770207397626174 · Start 2026-09-07 · **32 Tage** · Score **81 (Optimized)** (Share-JSON: 100) · used_count 1
+  - Status aktiv · Plattformen FB/IG/AN/Messenger/Threads · CTA "Shop now"
+  - Original 2048×2048 PNG
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/173307160?signature=20a01e20e8d0bc5720968b8ee00d824e45a8e18af15aa506b60fd22b7789241f) · [Ad Library](https://www.facebook.com/ads/library/?id=1770207397626174)
+- **Familie:**
+  - Copy-Familie F2 (T15). Das Bild gehört aber zur Layout-Familie F3, als 1:1-Adaption von 169082912.
+  - **Copy und Bild passen nicht zusammen:** Die Copy handelt von Wärme, das Bild von Angebot und Knappheit.
+  - **Widersprüchliche Bestandsangaben:** Gleichzeitig laufen "Only 26 left in Mint Green" (169082912) und "Only 79 left in Mint Green" (173307160).
+
+#### Static 174599778 – No More Fighting With Duvet Covers
+
+- **Headline:** "No More Fighting With Duvet Covers"
+- **Primärtext (kurz, Inventar T01):** identisch mit 136388964 (EasyRest-Copy).
+- **Link-Beschreibung:** "⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers"
+- **Gesamter Bildtext (wörtlich):**
+  - "Pleene."
+  - "CoolRest™ Cooling Duvet"
+  - Grüner Schalter "ON": "Cools all night long"
+  - Grüner Schalter "ON": "Temperature-regulating / & breathable"
+  - Roter Schalter "OFF": "Sweat-free nights"
+  - Roter Schalter "OFF": "Traps heat and / moisture"
+- **Bildmotiv:** Lifestyle-Produktfoto vor salbeigrüner Wand. Bett mit cremeweißer, glatter Decke mit runden Heftpunkten (kein Rautenstepp), Kissen in Grau und Creme, Tasse auf dem Bett, Beistelltisch mit Kugel-Leuchte. **Keine Person.** Ob KI-generiert, ist nicht verifiziert. PNG mit `hf-job-id`.
+- **Auffällig:**
+  1. Das Bild zeigt ein **anderes Produkt (CoolRest™)**. Copy und Landingpage gehören zum EasyRest. CoolRest ist laut Shop-Katalog ein eigenes Produkt ("CoolRest™ - Cooling Ice Duvet for Hot Summer Nights", ab £69.99, veröffentlicht 2026-06-03; Quelle `a3dl_html/com_products_all.json`).
+  2. "Sweat-free nights" steht beim **OFF**-Schalter. Das widerspricht der eigentlichen Aussage und ist vermutlich ein Gestaltungsfehler (Bewertung).
+- **Farbwelt:** Salbeigrün, Creme/Elfenbein, Grau, Signalgrün und -rot (Schalter), schwarze Schrift.
+- **Angebot:** Nicht im Bild. In der Copy: 2 Gratis-Kissenbezüge und 90 Nächte.
+- **Angle:** Bild: **B** (Hauptangle: Kühlung, Schweiß, Feuchtigkeit). Copy: **C** + B + F-Angebot.
+- **Format-Typ:** Infografik mit ON/OFF-Schaltern (Feature-Vergleich) auf Lifestyle-Produktfoto.
+- **Metadaten:**
+  - Meta-ID 2301727147248244 · Start 2026-09-09 · **30 Tage** · Score **74 (Growing)** · used_count 1
+  - Status aktiv · Plattformen FB/IG/AN/Messenger/Threads · CTA "Shop now"
+  - Original 1024×1024 PNG
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/174599778?signature=0f3b267681520755857f3c8967162b7f9b49eb9f935ce9ac83a4c94572252bc1) · [Ad Library](https://www.facebook.com/ads/library/?id=2301727147248244)
+- **Familie:** F1 (Copy T01).
+
+#### Static 178749258 – No Launderette Needed. Ever.
+
+- **Headline:** "No Launderette Needed. Ever."
+- **Primärtext (kurz, Inventar T38):** "❄️ Your winter duvet shouldn't need a launderette. / The Pleene EasyRest washes whole, at home: / ✓ Cover sewn in, nothing to strip off / ✓ Fits a normal washing machine 🧺 / ✓ Filling quilted in place, no cold spots / ✓ Dry again in about 2 hours / 🎁 Right now: 30% off + 2 FREE matching pillow cases."
+- **Link-Beschreibung:** "Coverless duvet · Washes whole at home · 30% off + 2 free pillow cases"
+- **Gesamter Bildtext (wörtlich, rote Handschrift-Optik):**
+  - "Warm all night. / Washed by lunchtime."
+  - "filling quilted in / place = no cold spots" (Pfeil auf die Steppung)
+  - "cover sewn in, / nothing to change" (Pfeil, oben rechts)
+  - "cover sewn / in, nothing / to change" (Pfeil, unten links; **dieselbe Annotation steht doppelt**)
+  - "dry again in / about 2 hours" (Pfeil)
+  - "30% off + 2 free pillow cases"
+- **Bildmotiv:** Lifestyle-Produktfoto: Bett mit hellblauer Steppdecke (Rautensteppung) und Kissen, im Fenster links verschneite Landschaft (Winter), heller Raum, Teppich. **Keine Person.** Ob KI-generiert, ist nicht verifiziert. PNG mit `hf-job-id`.
+- **Farbwelt:** Weiß/Creme, Hellblau (Produkt), Signalrot (Handschrift).
+- **Angebot:** "30% off + 2 free pillow cases" im Bild und in der Copy.
+- **Angle:** **A** (Hauptangle: ganz waschen zu Hause, "Washed by lunchtime", "dry again in about 2 hours") + **B** ("Warm all night", "no cold spots", Winter) + **C** ("cover sewn in, nothing to change") + **F-Angebot**.
+- **Format-Typ:** Annotiertes Produktfoto mit handschriftlichen Callouts und Pfeilen. Quadrat 1:1.
+- **Metadaten:**
+  - Meta-ID 1750276626195989 · Start 2026-09-16 · **23 Tage** · Score **81 (Optimized)** (Share-JSON: 96) · used_count 1
+  - Status aktiv · Plattformen FB/IG/AN/Threads · CTA "Shop now"
+  - Original 2048×2048 PNG
+  - LP https://pleene.com/products/easyrest-duvet (versteckter Winter-Klon der PDP, siehe `s3_funnel.md`)
+  - [share](https://app.gethookd.ai/share/ad/178749258?signature=26142585e8a79bd682cbb72cd7ae73d46e39dc00bb8ff65b79f19d32e5e4e2cb) · [Ad Library](https://www.facebook.com/ads/library/?id=1750276626195989)
+- **Familie:** Solo (Copy T38).
+
+#### Static 179476350 – Warm Enough For A British Winter
+
+- **Headline:** "Warm Enough For A British Winter"
+- **Primärtext (kurz, Inventar T29):** "❄️ "You'll freeze under that in winter." Here's the honest answer: the Pleene EasyRest™ is rated 10.5 tog, a proper autumn and winter weight, and the whole thing still goes in your washing machine."
+- **Link-Beschreibung:** "10.5 TOG winter warmth · Washes whole · 90-night trial"
+- **Gesamter Bildtext (wörtlich):**
+  - "Which colour is going on YOUR bed?"
+  - Rot: "Comment 1-7 👇"
+  - Rote Ziffern: "1", "2", "3", "4", "5", "6", "7"
+  - Handschriftlich, rot, mit Kreis um Nr. 4 und Pfeil: "selling / out fast"
+- **Bildmotiv:** Raster aus 7 zusammengelegten Steppdecken (Rautensteppung, freigestellt auf Weiß):
+  - 1 Dunkelrot, 2 Orange, 3 Creme/Ecru, 4 Mint/Salbei (eingekreist), 5 Blau, 6 Hellgrau, 7 Schwarz
+  - Farbnamen stehen nicht im Bild. Mögliche Shop-Entsprechungen wären Hearth Red, Sunset Glow, Cream Beige, Soft Mint Green, Coastal Blue, Moonstone Grey, Midnight Black. Diese Zuordnung ist nicht verifiziert.
+  - **Keine Person.** Ob KI-generiert, ist nicht verifiziert.
+- **Farbwelt:** Weißer Hintergrund, schwarze Schrift, Rot als Akzent, 7 Produktfarben.
+- **Angebot:** Keins im Bild. Link-Beschreibung: "90-night trial".
+- **Angle:** Bild: **F-Knappheit/Farbe** (Hauptangle, "selling out fast" bei Mint) + **F-Engagement** ("Comment 1-7"). Copy: **B** (10.5 tog, Winter) + A ("whole thing … washing machine").
+- **Format-Typ:** Farbauswahl-Raster als Engagement-Post ("Comment 1-7") mit Knappheits-Markierung. Hochformat 9:16.
+- **Metadaten:**
+  - Meta-ID 935523852471023 · Start 2026-09-17 · **22 Tage** laut Inventar · Score **81 (Optimized)** (Share-JSON: kein Wert) · used_count 1
+  - **Status: seit dem Abruf am 08.10. inaktiv.** Laut GetHooked end_date 2026-10-07, 21 Tage, Basis start_to_end_date. Im Inventar noch als aktiv geführt.
+  - Plattformen FB/IG/AN/Threads · CTA "Shop now"
+  - Original 1158×2048 PNG
+  - LP https://pleene.com/products/easyrest-duvet
+  - [share](https://app.gethookd.ai/share/ad/179476350?signature=929eaf7be4e50da7829743ff0e7ad0be30111ad47d7408608f8bb7fc89e7de17) · [Ad Library](https://www.facebook.com/ads/library/?id=935523852471023)
+- **Familie:** F4 "Warm Enough For A British Winter" (Copy T29). Copy (Tog/Winter) und Bild (Farbwahl) passen nicht zusammen.
+
+#### Static 180153186 – No More Fighting With Duvet Covers
+
+- **Headline:** "No More Fighting With Duvet Covers"
+- **Primärtext (kurz, Inventar T01):** identisch mit 136388964.
+- **Link-Beschreibung:** "⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers"
+- **Gesamter Bildtext (wörtlich):**
+  - "★★★★★" (5 goldene Sterne)
+  - "2-in-1 Duvet: / Never Change a Cover Again."
+  - Blauer Button mit Mauszeiger: "Shop Now"
+- **Bildmotiv:** Zweigeteilter Vorher/Nachher-Vergleich ohne Beschriftung.
+  - Links: unordentliches Bett mit zerknülltem beigem Bettbezug, Kissen durcheinander.
+  - Rechts: ordentliches Bett mit glatter, beiger Steppdecke in **Karo-/Kastensteppung** (nicht Raute) und Kissen.
+  - Helle, natürliche Schlafzimmer, Leinenvorhänge. **Keine Person.** Ob KI-generiert, ist nicht verifiziert. PNG mit `hf-job-id`.
+- **Farbwelt:** Beige, Sand, Creme und Holz, schwarze Schrift, goldene Sterne, blauer Button.
+- **Angebot:** Nicht im Bild. In der Copy: 2 Gratis-Kissenbezüge und 90 Nächte.
+- **Angle:** **C** (Hauptangle: "Never Change a Cover Again") + **F-Social-Proof** (5 Sterne). Die Copy ergänzt B und F-Angebot.
+- **Format-Typ:** Vorher/Nachher-Vergleich (Us-vs-Them-artig, Chaos vs. Ordnung) mit Sterne-Badge und Button-Grafik. Quadrat 1:1.
+- **Metadaten:**
+  - Meta-ID 1115810910797427 · Start 2026-09-18 · **21 Tage** · Score **66 (Growing)** (Share-JSON: 78) · used_count 1
+  - Status aktiv · Plattformen FB/IG/AN/Messenger/Threads · CTA "Shop now"
+  - Original 1024×1024 PNG
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/180153186?signature=3d665d4929718403a6c75e93b2efcb58f4e2d3ef6f4708e6759b79e45f7b2aa7) · [Ad Library](https://www.facebook.com/ads/library/?id=1115810910797427)
+- **Familie:** F1 (Copy T01).
+
+#### Static 182988119 – Be honest. When did you last wash it?
+
+- **Headline:** "Be honest. When did you last wash it?"
+- **Primärtext (kurz, Inventar T02):** "This week only: 2 free Pleene™ Pillow Cases with every duvet. And if you want the bedroom ready for the colder nights, Hearth Red is the one everyone picks, and it's almost gone. The EasyRest™ is duvet and cover in one: wash it whole, dry in 2 hours."
+- **Link-Beschreibung:** "⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers"
+- **Gesamter Bildtext (wörtlich):**
+  - "Our most requested / size is finally here."
+  - "Now in Super King — 260 × 220 cm."
+  - "▲ The cover is sewn in — no cover fight."
+  - "▲ Fits your machine at home."
+  - "▲ Dry in 2 hours."
+  - "Duvet and cover in one."
+- **Bildmotiv:** Ankündigungs-Grafik. Kreisrunder Bildausschnitt mit Bett in mintgrüner Steppdecke (**Karo-/Kastensteppung**) und 2 Kissen, dazu ein handgezeichneter Schnörkel-Pfeil. Creme-Hintergrund mit dünnen Trennlinien oben und unten. **Keine Person.** Ob KI-generiert, ist nicht verifiziert.
+- **Farbwelt:** Creme/Off-White, schwarze Schrift, Mintgrün.
+- **Angebot:** Nicht im Bild. In der Copy: "This week only: 2 free Pleene™ Pillow Cases".
+- **Angle:**
+  - Bild: **F-Neuheit/Größe** (Hauptangle, Super King) + **C** ("no cover fight") + **A** ("Fits your machine at home", "Dry in 2 hours").
+  - Headline: **A** (Waschfrequenz).
+  - Copy: **F-Angebot** + **F-Knappheit/Farbe** (Hearth Red) + A.
+- **Format-Typ:** Neuheit/Größen-Launch als Ankündigung mit Bullet-Liste und Produktfoto im Kreis. Hochformat 9:16.
+- **Metadaten:**
+  - Meta-ID 2366375294199061 · Start 2026-09-21 · **18 Tage** · Score **60 (Scaling)** · used_count 1
+  - Status aktiv · Plattformen FB/IG/AN/Messenger/Threads · CTA "Shop now"
+  - Original 1143×2048 PNG
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/182988119?signature=21211ffe2868f914fece4b782664bd0021c0949ff05775c0fd48c6017351de06) · [Ad Library](https://www.facebook.com/ads/library/?id=2366375294199061)
+- **Familie:**
+  - **Das Bild ist byte-identisch mit 180646058** (md5 `e277ab26…`), die Copy ist eine andere.
+  - Copy-Familie "Be honest. When did you last wash it?" (T02).
+  - Headline, Copy und Bild passen dreifach nicht zusammen: Hygiene-Headline, Hearth-Red-Copy und Mint/Super-King-Bild.
+
+#### Static 182988043 – Wash The Whole Comforter
+
+- **Headline:** "Wash The Whole Comforter"
+- **Primärtext (vollständig, Inventar T72):** "Yes, the whole comforter goes right in the wash! The Pleene EasyRest™ Comforter fits standard home washers, making fresh, clean bedding refreshingly simple."
+- **Link-Beschreibung:** "Wash. Dry. Enjoy."
+- **Gesamter Bildtext (wörtlich):**
+  - "Pleene."
+  - "WASH THE / WHOLE THING. / RIGHT AT HOME."
+  - Runder Navy-Badge: "Fits / Standard / Home / Washers"
+- **Bildmotiv:** Lifestyle-Demo. **Person ja, nur Unterarme und Hände sichtbar.** Hemd in Creme/Leinen mit hochgekrempelten Ärmeln. Alter und Geschlecht sind nicht erkennbar (nicht verifiziert). Die Person schiebt eine zusammengerollte blaue Steppdecke (Rautensteppung) in eine weiße Frontlader-Waschmaschine. Unten eine dunkelblaue Wellenfläche. Ob KI-generiert, ist nicht verifiziert. JPEG 1080×1920 ohne Tool-Metadaten.
+- **Farbwelt:** Creme/Weiß, Mittelblau (Produkt), Navy/Dunkelblau (Fläche, Badge), weiße Schrift.
+- **Angebot:** Keins.
+- **Angle:** **A** (rein: ganze Decke zu Hause waschen).
+- **Format-Typ:** Lifestyle-Produktdemo (Anwendung Waschmaschine) mit Claim-Badge. Hochformat 9:16.
+- **Metadaten:**
+  - Meta-ID 29208178135432493 · Start 2026-09-24 · **15 Tage** · Score **54 (Scaling)** · used_count 1
+  - Status aktiv · **Land laut get_ad: US** (kein GB-Ad) · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1920 JPEG
+  - LP https://pleene.com/products/easyrest-comforter (US/CA-PDP, siehe `s3_funnel.md`)
+  - [share](https://app.gethookd.ai/share/ad/182988043?signature=474ac523034272536a305779503c22ea294092cc8bd3cc7b069288c8fe337071) · [Ad Library](https://www.facebook.com/ads/library/?id=29208178135432493)
+- **Familie:** Solo in diesem Batch. US-Wording "Comforter".
+
+#### Static 180646058 – Warm Enough For A British Winter
+
+- **Headline:** "Warm Enough For A British Winter"
+- **Primärtext (kurz, Inventar T29):** identisch mit 179476350 ("❄️ "You'll freeze under that in winter." … rated 10.5 tog …").
+- **Link-Beschreibung:** "10.5 TOG winter warmth · Washes whole · 90-night trial"
+- **Gesamter Bildtext (wörtlich):** identisch mit 182988119:
+  - "Our most requested / size is finally here."
+  - "Now in Super King — 260 × 220 cm."
+  - "▲ The cover is sewn in — no cover fight."
+  - "▲ Fits your machine at home."
+  - "▲ Dry in 2 hours."
+  - "Duvet and cover in one."
+- **Bildmotiv:** Byte-identische Bilddatei wie 182988119 (Ankündigungs-Grafik, mintgrünes Bett im Kreis, Karo-Steppung). **Keine Person.**
+- **Farbwelt:** Creme, Schwarz, Mintgrün.
+- **Angebot:** Keins im Bild. Link-Beschreibung: "90-night trial".
+- **Angle:** Bild: **F-Neuheit/Größe** + C + A. Copy: **B** (10.5 tog, Winter) + A.
+- **Format-Typ:** Neuheit/Größen-Launch als Ankündigung mit Bullet-Liste. Hochformat 9:16.
+- **Metadaten:**
+  - Meta-ID 1579069737037989 · Start 2026-09-20 · **19 Tage** laut Inventar · Score **41 (Scaling)** (Share-JSON: kein Wert) · used_count 1
+  - **Status: seit dem Abruf am 08.10. inaktiv.** Laut GetHooked end_date 2026-10-07, 18 Tage, Basis start_to_end_date.
+  - Plattformen FB/IG/AN/Threads · CTA "Shop now"
+  - Original 1143×2048 PNG
+  - LP https://pleene.com/products/easyrest-duvet
+  - [share](https://app.gethookd.ai/share/ad/180646058?signature=88fbfe70a305d101d6f1ae039dd8bb482d03568d53926741876d8462e5ca3355) · [Ad Library](https://www.facebook.com/ads/library/?id=1579069737037989)
+- **Familie:** F4 (Copy T29) und Bild-Duplikat von 182988119. Copy (Tog) und Bild (Größen-Launch) passen nicht zusammen.
+
+---
+
+##### Varianten und Familien (Batch 1)
+
+| Familie | Merkmal | Ads | Varianten-Logik |
+|---|---|---|---|
+| F1 "No More Fighting With Duvet Covers" | identische Headline und Copy (T01) | 136388964, 136388847, 171191667, 174599778, 180153186 | Bildtest: 5 verschiedene Konzepte unter derselben Copy (Listicle, Problem/Lösung, Einwand-Post, ON/OFF-Infografik mit CoolRest, Vorher/Nachher). Die beiden Juni-Bilder laufen 120 Tage mit Score 100. |
+| F2 "Properly Warm, Never Heavy" | identische Headline und Copy (T15) | 172403389, 172760571, 173307160 | 172403389 und 172760571 sind Layout-Zwillinge (9:16, Farbstapel Blau/Orange/Mint, Häkchen-Liste). Nur der Kopfteil wechselt: Myth-Busting bzw. Testimonial. 173307160 nutzt ein Bild aus F3. |
+| F3 "Schlafzimmer-Knappheit" | gleiche KI-Raumszene (Walnusspaneele, Messing, Marmor, Hochflor) mit Text-Banner und Kupfer-Restmenge | 151025052 (Coastal Blue, "Only 19 left"), 169082912 (Mint Green, "Only 26 left in Mint Green"), 173307160 (Mint Green, "Only 79 left in Mint Green", 1:1 mit Gratis-Badge) | Farbvarianten gleicher Szene. 151025052 und 169082912 sind 9:16 mit Türspalt-Perspektive, 173307160 ist eine frontale 1:1-Adaption. Die Mint-Restmengen 26 und 79 laufen gleichzeitig. |
+| F4 "Warm Enough For A British Winter" | identische Headline und Copy (T29), LP `/products/easyrest-duvet` | 179476350, 180646058 | Bildtest: Farbwahl-Raster vs. Super-King-Launch. Beide sind seit 07.10. inaktiv. |
+| Bild-Duplikat "Super King" | md5-identische Datei | 182988119, 180646058 | Dasselbe Bild unter zwei Copys: T02 Hygiene-Headline plus Hearth Red bzw. T29 Tog. |
+| Solo | – | 178749258 (annotiertes Produktfoto, Winter), 182988043 (US, Waschmaschinen-Demo) | – |
+
+**Befunde zu Copy-Bild-Passung und Qualität (Bewertung, Daten wie oben belegt):**
+- **Bild und Copy widersprechen sich thematisch bei 5 von 15 Ads:** 173307160, 174599778, 179476350, 180646058 und 182988119. Bei 172760571 setzt das Bild zusätzlich einen anderen Angle (Testimonial statt Wärme), ohne der Copy zu widersprechen. GetHooked speichert pro Ad genau eine Bild-Text-Kombination. Ob Meta weitere Text- oder Bildvarianten ausspielt (Flexible/DCO), ist nicht verifiziert. Die Ad-Library-Suche über die META_ADS-Schnittstelle liefert keine Versionsdaten pro Ad.
+- **174599778** zeigt das Produkt **CoolRest™**, verlinkt aber auf EasyRest. Außerdem steht "Sweat-free nights" beim OFF-Schalter.
+- **178749258:** Die Annotation "cover sewn in, nothing to change" steht doppelt.
+- **Steppmuster uneinheitlich:** Rautensteppung in den meisten Ads, Karo-/Kastensteppung in 180153186, 182988119 und 180646058, Heftpunkte bei CoolRest. Welches Muster das reale EasyRest-Produkt hat, ist nicht verifiziert.
+- **KI-Herkunft:**
+  - Verifiziert nur bei 173307160 (C2PA: Higgsfield/OpenAI, `trainedAlgorithmicMedia`).
+  - 6 weitere PNGs tragen dasselbe Feld `hf-job-id` wie 173307160: 136388964, 136388847, 171191667, 174599778, 178749258, 180153186. Das deutet auf Higgsfield hin, ist aber nicht verifiziert.
+  - 4 PNGs haben keine Metadaten: 172403389, 172760571, 179476350, 180646058/182988119.
+  - 2 JPEGs wurden per ffmpeg exportiert (151025052, 169082912). Das JPEG von 182988043 enthält keine Tool-Metadaten.
+- **Testimonial 172760571:** "Customer, UK" ohne Namen. Das Zitat ist in den gesammelten Reviews nicht auffindbar.
+- **Knappheitsbehauptungen** ("Only 19 left", "Only 26/79 left in Mint Green", "selling out fast"): laut `s3_funnel.md` ohne Entsprechung auf der Landingpage. Der tatsächliche Bestand ist nicht verifiziert.
+
+##### Hygiene-Zitate Statics Batch 1
+
+**Milben (mites):** In keinem der 15 Statics erwähnt, weder im Bild noch in Headline, Primärtext oder Link-Beschreibung.
+
+**Bakterien/Keime (bacteria/germs):** In keinem der 15 Statics erwähnt.
+
+**Schweiß / Feuchtigkeit / Hitze**
+- 136388847, Bild: "End up too hot and / uncomfortable to drift off." Visuell: Frau mit rotem, verschwitztem Gesicht und Schweißtropfen.
+- 174599778, Bild: "CoolRest™ Cooling Duvet", "Cools all night long", "Temperature-regulating / & breathable", "Sweat-free nights" (beim OFF-Schalter), "Traps heat and / moisture" (OFF).
+
+**Waschen (ganze Decke, zu Hause)**
+- Bilder:
+  - 136388964: "Shaking out dusty bedding" (als Don't) und "Just wash the whole thing."
+  - 136388847: "Just wash the whole / thing, no wrestling."
+  - 171191667: "“But you’d need a huge washing / machine for that” 😂", "The duvet is made extra light", "fits in any normal household machine", "Toss it in. Done."
+  - 178749258: "Washed by lunchtime."
+  - 182988119 und 180646058: "▲ Fits your machine at home."
+  - 182988043: "WASH THE / WHOLE THING. / RIGHT AT HOME.", "Fits / Standard / Home / Washers"
+- Headlines:
+  - 182988119: "Be honest. When did you last wash it?"
+  - 178749258: "No Launderette Needed. Ever."
+  - 182988043: "Wash The Whole Comforter"
+- Primärtexte:
+  - T01 (136388964, 136388847, 171191667, 174599778, 180153186): "Wash it, dry it, and lay it back on — that's it."
+  - T15 (172403389, 172760571, 173307160): "…and the whole duvet still goes in your washing machine, dry in 2 hours."
+  - T19 (151025052): "wash the whole thing, dry in 2 hours"
+  - T08 (169082912) und T02 (182988119): "wash it whole, dry in 2 hours."
+  - T38 (178749258): "❄️ Your winter duvet shouldn't need a launderette.", "The Pleene EasyRest washes whole, at home:", "✓ Fits a normal washing machine 🧺"
+  - T29 (179476350, 180646058): "…and the whole thing still goes in your washing machine."
+  - T72 (182988043): "Yes, the whole comforter goes right in the wash! The Pleene EasyRest™ Comforter fits standard home washers, making fresh, clean bedding refreshingly simple."
+- Link-Beschreibungen:
+  - 178749258: "Washes whole at home"
+  - 179476350 und 180646058: "Washes whole"
+  - 182988043: "Wash. Dry. Enjoy."
+
+**Trocknen**
+- Bilder:
+  - 171191667: "dries in 2 hours even without a dryer"
+  - 178749258: "dry again in / about 2 hours"
+  - 182988119 und 180646058: "▲ Dry in 2 hours."
+- Primärtexte:
+  - T01: "Wash it, dry it…"
+  - T15: "dry in 2 hours"
+  - T19, T08, T02: "dry in 2 hours"
+  - T38: "✓ Dry again in about 2 hours"
+
+**Temperatur / Wärme / Tog**
+- Bilder:
+  - 172403389: "A light duvet can’t keep / you warm in winter." (durchgestrichen) und "Climate-regulating fibres / keep you properly warm. / Without the heavy feeling."
+  - 178749258: "Warm all night." und "filling quilted in / place = no cold spots"; dazu ein verschneites Fenster.
+  - 136388847: "End up too hot…"
+  - 174599778: siehe Abschnitt Schweiß oben.
+- Headlines:
+  - "Properly Warm, Never Heavy" (172403389, 172760571, 173307160)
+  - "Warm Enough For A British Winter" (179476350, 180646058)
+- Primärtexte:
+  - T01: "✓ Pleasantly cool in summer, cosily warm in winter"
+  - T15: "Climate-regulating fibres keep you properly warm without the heavy feeling"
+  - T29: "❄️ "You'll freeze under that in winter." … rated 10.5 tog, a proper autumn and winter weight"
+  - T38: "❄️ Your winter duvet…", "✓ Filling quilted in place, no cold spots"
+  - T02: "ready for the colder nights"
+- Link-Beschreibung (179476350, 180646058): "10.5 TOG winter warmth"
+
+**Randbereich Frische / Allergie / Staub**
+- T01: "✓ Hypoallergenic and kind to sensitive skin", "Enjoy a bed that always feels fresh."
+- Bild 136388964: "Shaking out dusty bedding"
+- T72: "fresh, clean bedding"
+
+**Kurzbefund (Bewertung):** Die Statics in Batch 1 besetzen Hygiene nur als **Bequemlichkeits-Hygiene**: ganze Decke zu Hause waschen, nach 2 h trocken, kein Waschsalon. Ekel- oder Gesundheitsargumente wie Milben, Bakterien oder Schweiß im Bettzeug fehlen vollständig. Schweiß kommt nur als **Temperatur- und Komfortproblem** vor (136388847, 174599778), nicht als Hygieneproblem. Der einzige direkte Waschfrequenz-Hook ist die Headline "Be honest. When did you last wash it?" (182988119). Ihr Bild greift das nicht auf.
+
+##### Kurz-Tabelle Statics Batch 1
+
+| ID | Headline | Bildtext-Kern | Motiv | Angle | Format-Typ | Tage | Score |
+|---|---|---|---|---|---|---|---|
+| 136388964 | No More Fighting With Duvet Covers | "3 things to STOP doing when you make the bed" | Piktogramm-Liste + blaue Decke gefaltet (keine Person) | C (+E, A) | Listicle/Infografik | 120 | 100 |
+| 136388847 | No More Fighting With Duvet Covers | "Just want to sleep... but you’ve still got to change the bed?" | Frau ca. 35–50 J., verschwitzt, zerrt an Decke + Produkt unten (KI-Look) | C (+B) | Problem/Lösung-Split | 120 | 100 |
+| 171191667 | No More Fighting With Duvet Covers | "“But you’d need a huge washing machine for that” 😂 … dries in 2 hours" | Text-Post + anthrazit Decke (keine Person) | A (+F-Einwand, C) | Einwandbehandlung/Text-Post | 36 | 100 (90) |
+| 172403389 | Properly Warm, Never Heavy | ~~"A light duvet can’t keep you warm in winter."~~ "Climate-regulating fibres…" | Stapel 3 Farben (keine Person) | B (+F-Einwand, F-Angebot) | Myth-Busting + Produktfoto | 34 | 100 |
+| 172760571 | Properly Warm, Never Heavy | "“It's what I've been looking for all this time!” — Customer, UK" | Stapel 3 Farben (keine Person) | Bild F-Social-Proof / Copy B | Testimonial + Produktfoto | 33 | 100 |
+| 151025052 | Everyone's buying the blue one. | "Everyone's buying it in Coastal Blue – Only 19 left" | KI-Schlafzimmer, blaue Decke (keine Person) | F-Knappheit/Farbe (+F-Social-Proof) | Knappheit/Farbe Lifestyle | 50 | 61 (86) |
+| 169082912 | Mint Green is almost gone. | "This week only: 2 FREE Pillow Cases with every DUVET – Only 26 left in Mint Green" | gleiche Szene, Mint (keine Person) | F-Angebot + F-Knappheit/Farbe | Knappheit + Angebot Lifestyle | 39 | 74 (80) |
+| 173307160 | Properly Warm, Never Heavy | "2 FREE Pillow Cases … Only 79 left in Mint Green – FREE this week only – ~~£39.99~~" | Schlafzimmer Mint + Kissen-Badge (C2PA: KI) | Bild F-Angebot / Copy B | Angebot/Gratis-Badge + Knappheit | 32 | 81 (100) |
+| 174599778 | No More Fighting With Duvet Covers | "CoolRest™ Cooling Duvet – ON/OFF: Cools all night long … Sweat-free nights (OFF)" | Bett creme, salbeigrüne Wand (CoolRest!) | Bild B / Copy C | ON/OFF-Toggle-Infografik | 30 | 74 |
+| 178749258 | No Launderette Needed. Ever. | "Warm all night. Washed by lunchtime. … dry again in about 2 hours … 30% off + 2 free pillow cases" | Bett blau, Schnee im Fenster, rote Handschrift-Pfeile | A (+B, C, F-Angebot) | Annotiertes Produktfoto | 23 | 81 (96) |
+| 179476350 | Warm Enough For A British Winter | "Which colour is going on YOUR bed? Comment 1-7 – selling out fast" | 7 Farbdecken im Raster (keine Person) | Bild F-Knappheit/Farbe + F-Engagement / Copy B | Farbwahl-Engagement-Post | 22 (inaktiv seit 07.10.) | 81 |
+| 180153186 | No More Fighting With Duvet Covers | "★★★★★ 2-in-1 Duvet: Never Change a Cover Again." | Vorher/Nachher-Betten (keine Person) | C (+F-Social-Proof) | Vorher/Nachher | 21 | 66 (78) |
+| 182988119 | Be honest. When did you last wash it? | "Our most requested size is finally here. Now in Super King — 260 × 220 cm." | Ankündigung + Mint-Bett im Kreis | Bild F-Neuheit/Größe (+C, A) / Headline A | Größen-Launch | 18 | 60 |
+| 182988043 | Wash The Whole Comforter | "WASH THE WHOLE THING. RIGHT AT HOME. – Fits Standard Home Washers" | Hände stecken blaue Decke in Waschmaschine (US-Ad) | A | Lifestyle-Demo + Badge | 15 | 54 |
+| 180646058 | Warm Enough For A British Winter | = 182988119 (Super King, identische Datei) | Ankündigung + Mint-Bett im Kreis | Bild F-Neuheit/Größe / Copy B | Größen-Launch | 19 (inaktiv seit 07.10.) | 41 |
+
+Vollständigkeitsprüfung: 15 von 15 Ads erfasst (136388964, 136388847, 171191667, 172403389, 172760571, 151025052, 169082912, 173307160, 174599778, 178749258, 179476350, 180153186, 182988119, 182988043, 180646058).
+
+
+### S2 – Creative-Analyse Statics, Batch 2 (Agent 2)
+
+Stand: 2026-10-08 · Marke Pleene · Produkt EasyRest · 15 Bild-Ads: 185228766, 182988115, 182988091, 182988041, 182988114, 182988035, 184134598, 193234215, 193234214, 193234278, 136390001, 133366116, 200490698, 200490726, 200490706.
+
+**Methodik und Quellen**
+- **Bilder angesehen:** Für jede der 15 Ads habe ich `get_ad_media(ad_id=…)` einzeln aufgerufen. Jede Ad hat **genau 1 Medium** (`image_count: 1`, `display_format: image`), es gibt also weder Karussell noch DCO. Zusätzlich habe ich die Originaldateien über die `download_url` aus `get_ad` geladen (`wf/img/<id>.jpg`, Auflösung 768×1376 bis 2048×2048). Kleintext habe ich an Ausschnitten geprüft (`wf/s2s2_crops/`), etwa das durchgestrichene „worth £39.99“ bei 185228766.
+- **Metadaten:** Ich habe `get_ad` für alle 15 IDs aufgerufen und die Werte mit `agent1_enriched.json` bzw. `wf/inventory.json` abgeglichen. Nur `get_ad` liefert Länder (`countries`), Link-Beschreibung (`link_description`), `page_type` und `ai_badge`.
+  - `ai_badge`: bei allen null. Das ist kein Beleg für „echt“.
+  - `creative_insights`: bei allen null.
+  - Reichweite und Spend: bei allen n/a (`eu_total_reach` und `ad_spend_range_score` sind null).
+- **Abweichungen zwischen Inventar und Live-Abruf** (get_ad, 08.10.):
+  - 193234215 ist jetzt **inactive**: end_date 2026-10-07, 7 Tage (`start_to_end_date`), Score null. Im Inventar stehen 8 Tage und Score 52.
+  - 200490706 ist jetzt **inactive**: end_date 2026-10-07, 2 Tage, Score null. Im Inventar stehen 3 Tage und Score 12.
+  - 200490698: Score jetzt 42 „Scaling“ (Inventar: 13 „Testing“), used_count jetzt 1 (Inventar: 2).
+  - 200490726: Score jetzt 30 „Testing“ (Inventar: 12).
+  - Alle anderen Werte stimmen überein.
+- **Herkunft der Bilder (Datei-Metadaten, Rohdaten in `wf/img/`):**
+  - **C2PA-Manifest mit Nachweis „Created by Google Generative AI.“ und „Applied imperceptible SynthID watermark.“** (digitalSourceType `trainedAlgorithmicMedia`): 182988091, 182988114, 193234215. Bei 182988091 und 193234215 nennt das Manifest zusätzlich „Higgsfield AI“ als Claim-Generator.
+  - **C2PA-Manifest von OpenAI** (Generator „gpt-image“, Version „2.0“, `trainedAlgorithmicMedia`) und zusätzlich „Higgsfield AI“: 193234214.
+  - **Nur PNG-Textfeld `hf-job-id`**, ohne C2PA: 185228766, 182988115, 136390001, 133366116, 200490698. Dasselbe Feld steht auch in den drei Dateien, deren Manifest „Higgsfield AI“ nennt. Das ist ein starkes Indiz für eine Erzeugung in Higgsfield, aber **nicht verifiziert**.
+  - **Keine Herkunftsangaben** (JPEG ohne Metadaten bzw. RGBA-PNG): 182988041, 182988035, 184134598, 193234278, 200490726.
+  - 200490706: JPEG mit IPTC-Block „FBMD…“. Das ist eine von Facebook verarbeitete Datei, Herkunft n/a.
+  - Wo ich ein Bild ohne Metadaten als „wirkt KI-generiert“ einstufe, beruht das nur auf dem Augenschein und ist **nicht verifiziert**.
+- **Dubletten-Abgleich** (dHash 16×16 und MD5 gegen alle Dateien in `wf/img/`, Skript `wf/s2s2_scripts/dhash.py`). Die drei Paare habe ich zusätzlich nebeneinander angesehen (`wf/s2s2_crops/cmp_*.jpg`).
+  - 182988115 ist **bildgleich mit 180153186**: Abstand 0, andere Datei. 180153186 hat denselben Text T01 und läuft seit 2026-09-18 (21 Tage, Score 66).
+  - 200490706 ist **bildgleich mit 136388847**: Abstand 1. 136388847 hat denselben Text T01 und läuft seit 2026-06-11 (120 Tage, **Score 100**).
+  - 193234278 ist eine **Layout-Variante von 172760571** („Properly Warm, Never Heavy“, 33 Tage, **Score 100**): derselbe Deckenstapel, ein anderes Kundenzitat.
+- Die Primärtexte stehen vollständig in `wf/s1_inventar.md`. Hier zitiere ich nur gekürzt, mit Text-ID aus `inventory.json`.
+
+**Wichtigste Querbefunde des Batches**
+1. **Text und Bild passen bei 2 von 3 „NEW: Lavender Mist“-Ads nicht zusammen.**
+   - Headline und Primärtext sind identisch (T16 „NEW: Lavender Mist. Our newest colour, as a limited edition.“).
+   - Lavender ist aber nur auf 185228766 zu sehen.
+   - 193234278 zeigt einen Deckenstapel in Blau/Orange/Mint mit Kundenzitat.
+   - 200490698 zeigt ein anthrazitfarbenes Set mit „Only Until Friday!“.
+   - 185228766 hat den höchsten Score im Batch (60).
+2. **Text T01 „No More Fighting With Duvet Covers“ trägt 7 der 15 Ads**, jeweils mit einem anderen Bild-Angle. Im Gesamtinventar sind es 20 Ads (Bild und Video).
+   - Die Bilder decken A (Hygiene, Trocknen), B (Nachtschweiß) und C (Beziehen) ab, die Headline bleibt C.
+   - Pleene testet also über das **Bild** und nicht über den Text.
+3. **Hygiene ist in diesem Batch ein reines Bild-Thema.**
+   - Die stärksten Hygiene-Aussagen stehen nur auf dem Bild:
+     - „Years of sweat, dead skin & dust mites — every night.“ (133366116)
+     - „washed: never“ (193234214)
+     - „days... if ever“ (193234215)
+   - Der zugehörige Primärtext T01 spricht nur von „Wash it, dry it“ und „Hypoallergenic“.
+   - „bacteria“ kommt in keinem der 15 Bilder und Texte vor. „dust mites“ steht nur in 133366116.
+4. **Format-Recycling bewährter Creatives:**
+   - 200490706 ist ein Re-Upload des Score-100-Evergreens 136388847 und war nach 2 Tagen wieder inaktiv.
+   - 182988115 ist ein Re-Upload von 180153186.
+   - 193234278 übernimmt das Layout des Score-100-Statics 172760571.
+5. **US-Statics im Batch:** 182988041 und 182988035 haben `countries: ["US"]`, US-Wortwahl („Comforter“) und die Landingpage `/products/easyrest-comforter`. Das passt zu s3: Die Comforter-Seite ist die US-Produktseite.
+   - 200490726 ist dasselbe Motiv wie 182988035 in 1:1.
+   - Es führt aber auf `/products/easyrest`, Länder n/a.
+6. **Möglicher Widerspruch zwischen Claim und Produkt:**
+   - 182988114 verspricht „ICE DUVET, NOT A SWEAT DUVET“ und führt auf `/products/easyrest`.
+   - Laut s3 positioniert diese Seite das Produkt als „10.5 TOG — proper winter warmth“.
+   - Pleene führt laut s3 ein eigenes Produkt „CoolRest™ - Cooling Ice Duvet for Hot Summer Nights“.
+   - Das Bild zeigt außerdem einen klassischen Bettbezug mit weißer Paspel ohne Steppung, also nicht die gesteppte EasyRest.
+7. **Angebote auf dem Bild, die die Seite nicht stützt** (nach s3_funnel.md):
+   - „Only Until Friday!“ (200490698): Auf keiner Seite gibt es einen Countdown.
+   - „Mint Green: only 12 left.“ (184134598): Die Seite zeigt keinen Farb-Lagerhinweis, der tatsächliche Bestand ist nicht verifiziert.
+   - „30% off“ (184134598): Die GBP-Badges auf der Seite zeigen je nach Größe „SAVE 23–35 %“.
+
+---
+
+#### Static 185228766 – NEW: Lavender Mist
+
+- **Headline:** „NEW: Lavender Mist“
+- **Primärtext (T16, gekürzt):** „NEW: Lavender Mist. Our newest colour, as a limited edition. The EasyRest is duvet and cover in one: no cover changing, fully machine washable, dry in 2 hours. With 2 free pillow cases and a 90-night trial.“
+- **Link-Beschreibung:** „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ · **CTA:** SHOP_NOW „Shop now“
+- **Gesamter Bildtext (wörtlich):**
+  - „NEW: Lavender Mist“ (große weiße Serifenschrift)
+  - „Limited Edition“
+  - „**2 FREE Pillow Cases** with every duvet ~~worth £39.99~~“ („worth £39.99“ grau und durchgestrichen)
+  - „90-Night Trial · Order now“
+- **Bildmotiv:**
+  - Doppelbett mit lavendelfarbener, rautengesteppter Decke und zwei passenden Kissen.
+  - Dunkel olivgrüne bis anthrazitfarbene Wandvertäfelung mit Goldleisten, Nachttisch mit brennender Lampe, aufgeschlagenem Buch und dampfender Teetasse. Abendstimmung.
+  - Keine Person. Produkt im Raum, Lifestyle-Rendering.
+  - PNG mit `hf-job-id`. KI-generiert ist wahrscheinlich, aber nicht verifiziert.
+- **Farbwelt:** Lavendel/Flieder vor dunklem Oliv-Anthrazit, warmes Gold-Licht, weiße Typo. Premium und „Hotel“.
+- **Angebot:** 2 Kissenbezüge gratis („worth £39.99“), 90 Nächte Testzeit. Kein Rabatt genannt. Laut s3 hat Lavender Mist auf `/products/easyrest` keinen Vergleichspreis.
+- **Angle:** **F-Knappheit/Farbe** (neue Farbe, „Limited Edition“) + F-Angebot. Im Primärtext zusätzlich C („no cover changing“) und A („fully machine washable, dry in 2 hours“).
+- **Format-Typ:** Knappheit/Farbe (Farb-Launch), Produkt im Raum
+- **Familie:** T16 „NEW: Lavender Mist“ (mit 193234278, 200490698). Bildsprache „Abend-Schlafzimmer + Serifen-Headline + Angebotszeile“ wie 184134598.
+- **Metadaten:**
+  - Meta-ID 1401480008764681 · Start 2026-09-27 · 12 Tage (aktiv) · Score 60 „Scaling“ (höchster im Batch) · used_count 1
+  - Länder GB · Plattformen facebook, instagram, audience_network, threads
+  - Format 2048×2048 (1:1)
+  - LP https://pleene.com/products/easyrest
+  - [GetHooked](https://app.gethookd.ai/share/ad/185228766?signature=f4be2b097e5b58bb0f5013dc8e461a8cea74051b0e8dfd5a28059f540eaf99fb) · [Ad Library](https://www.facebook.com/ads/library/?id=1401480008764681)
+
+#### Static 182988115 – No More Fighting With Duvet Covers
+
+- **Headline:** „No More Fighting With Duvet Covers“
+- **Primärtext (T01, gekürzt):** „Duvet + Cover in One 🌙 / The Pleene EasyRest™ makes changing the bed finally simple. Wash it, dry it, and lay it back on — that's it. / ✓ No more wrestling with a separate duvet cover / ✓ Pleasantly cool in summer, cosily warm in winter / ✓ Hypoallergenic and kind to sensitive skin / Get 2 free Pleene™ Pillow Cases today (worth £39.99). / 90 nights to try it risk-free. …“
+- **Link-Beschreibung:** „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ · **CTA:** SHOP_NOW „Shop now“
+- **Gesamter Bildtext (wörtlich):**
+  - „★★★★★“ (5 goldene Sterne)
+  - „2-in-1 Duvet:“
+  - „Never Change a Cover Again.“
+  - Button „Shop Now“ mit Mauszeiger-Grafik
+- **Bildmotiv:**
+  - Geteiltes Bild (Split).
+  - Links ein zerwühltes Bett mit leinenfarbenem Bettbezug und verrutschten Kissen.
+  - Rechts ein ordentlich gemachtes Bett mit taupe-/beigefarbener Decke in **Kassetten-Steppung (Quadrate)**. Die anderen Pleene-Creatives zeigen dagegen meist eine Rautensteppung.
+  - Helles Tageslicht, Leinenvorhänge, Nachttische. Keine Person.
+  - PNG mit `hf-job-id`. KI-generiert ist wahrscheinlich, nicht verifiziert.
+- **Farbwelt:** Creme, Beige, Taupe. Schwarze Typo, goldene Sterne, blauer Button.
+- **Angebot:** Auf dem Bild keines. Im Text 2 Kissenbezüge gratis (worth £39.99) und 90 Nächte.
+- **Angle:** **C** (Beziehen: „Never Change a Cover Again.“) + F-Social-Proof (Sterne). Im Text zusätzlich B und F-Angebot.
+- **Format-Typ:** Us-vs-Them / Vorher-Nachher-Split
+- **Familie:**
+  - Text T01 (7 Ads im Batch).
+  - **Bildgleich mit 180153186** (T01, Start 2026-09-18, Score 66).
+  - Layout „Sterne + fette Headline + blauer Shop-Now-Button“ wie 200490698.
+- **Metadaten:**
+  - Meta-ID 1611031707100333 · Start 2026-09-22 · 17 Tage · Score 41 „Scaling“ · used_count 2
+  - Länder n/a (leer) · Plattformen facebook, instagram, audience_network, messenger, threads
+  - Format 1024×1024 (1:1)
+  - LP https://pleene.com/products/easyrest
+  - [GetHooked](https://app.gethookd.ai/share/ad/182988115?signature=c904e1bd40a381849b8f0118dd2be30ffc212b955d2b15bfb326e5c357b2996f) · [Ad Library](https://www.facebook.com/ads/library/?id=1611031707100333)
+
+#### Static 182988091 – What bed have you got?
+
+- **Headline:** „What bed have you got?“
+- **Primärtext (T17, gekürzt):** „Not sure which size? It's easier than duvet shopping usually is: Single bed (3ft) → Single. Double bed (4ft6) → Double. King bed (5ft) → King. Same name as your bed — that's it.“
+- **Link-Beschreibung:** „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ · **CTA:** ORDER_NOW „Order now“ (die einzige Ad im Batch mit diesem CTA)
+- **Gesamter Bildtext (wörtlich):**
+  - „What bed have you got? 👇“
+  - „SINGLE BED (3ft)“ → rotes Label „140 × 200 (Single)“
+  - „DOUBLE BED (4ft6)“ → „200 × 200 (Double)“
+  - „KING BED (5ft)“ → „230 × 230 (King)“
+  - Gelber Balken unten: „Sharing the bed? Go ONE size up 👍“
+- **Bildmotiv:**
+  - Weißer Hintergrund mit drei Strichzeichnungen von Betten und roten Pfeilen zu je einer gefalteten, rautengesteppten Decke (creme, mint, blau).
+  - Keine Person. Grafik.
+  - **C2PA belegt: „Created by Google Generative AI“ + SynthID, Claim-Generator auch „Higgsfield AI“.**
+- **Farbwelt:** Weiß, Schwarz, Signalrot, Gelb. Produkte in Pastell.
+- **Angebot:** keines.
+- **Angle:** **F-Kaufhilfe/Größe** (Einwand „welche Größe?“)
+- **Format-Typ:** Infografik (Größenberater)
+- **Abgleich mit der Seite (s3):** Die Größen stimmen mit der Größentabelle von `/products/easyrest` überein („Single 140 × 200 cm · fits 3'0" beds“, „Double 200 × 200 cm · fits 4'6" beds“, „King 230 × 230 cm · fits 5'0" beds“). Narrow, Single XL und Super King fehlen in der Ad.
+- **Familie:** T17. Im Inventar gibt es zwei weitere Ads mit derselben Headline, 182988112 und 182988109 (beide Score 1). Ihre Bilder sind nicht in diesem Batch und von mir nicht gesichtet.
+- **Metadaten:**
+  - Meta-ID 1562707309236010 · Start 2026-09-23 · 16 Tage · Score 41 „Scaling“ · used_count 1
+  - Länder GB · Plattformen facebook, instagram, audience_network, threads
+  - Format 768×1376 (ca. 9:16)
+  - LP https://pleene.com/products/easyrest
+  - [GetHooked](https://app.gethookd.ai/share/ad/182988091?signature=d38f60d9788af1b85ef236ca2bc85df5cb3de0c4ac38b8240791e6ace576727a) · [Ad Library](https://www.facebook.com/ads/library/?id=1562707309236010)
+
+#### Static 182988041 – The Comforter That Does It All
+
+- **Headline:** „The Comforter That Does It All“
+- **Primärtext (T65):** „No cover. No corners to find. No stuffing required. Pleene EasyRest™ Comforter is an all-in-one machine-washable comforter designed to make bedding simpler.“
+- **Link-Beschreibung:** „Simple by design.“ · **CTA:** SHOP_NOW „Shop now“
+- **Gesamter Bildtext (wörtlich):**
+  - „Pleene.“ (Logo)
+  - „No Cover.“ (schwarze Serifenschrift)
+  - „No Problem.“ (bordeauxrote Serifenschrift)
+- **Bildmotiv:**
+  - **Frau, geschätzt 55–65 Jahre**, blond, cremefarbener Strickpullover, lächelnd.
+  - Sie breitet allein eine stahlblaue, rautengesteppte Decke über ein Holzbett.
+  - Warmes Schlafzimmer mit Lampe, dünner weißer Rahmen als Overlay.
+  - Lifestyle mit Person. Keine Metadaten, KI-Generierung nicht verifiziert.
+- **Farbwelt:** Warmes Creme/Beige, Stahlblau, weiße Textbox, Schwarz und Bordeaux.
+- **Angebot:** keines.
+- **Angle:** **C** (kein Bezug). Sekundär, nur über das Bildmotiv: **F-Selbstständigkeit im Alter** (ältere Frau macht das Bett allein und mühelos). Im Text steht nichts dazu.
+- **Format-Typ:** Lifestyle (Person + Brand-Statement)
+- **Familie:**
+  - T65. Im Inventar gibt es zusätzlich 200490723 mit derselben Headline, LP `/products/easyrest`, nicht gesichtet.
+  - Serifen-Markensystem mit „Pleene.“-Logo wie 182988035 und 200490726 (US-Comforter-Look).
+- **Metadaten:**
+  - Meta-ID 27616218781386469 · Start 2026-09-23 · 16 Tage · Score 41 „Scaling“ · used_count 1
+  - **Länder US** · Plattformen facebook, instagram, audience_network, whatsapp, threads
+  - Format 1080×1920 (9:16)
+  - LP https://pleene.com/products/easyrest-comforter
+  - [GetHooked](https://app.gethookd.ai/share/ad/182988041?signature=656021e045b4ec00d24fe1a994c294542e9ff36636166d025b70fab06f7efb14) · [Ad Library](https://www.facebook.com/ads/library/?id=27616218781386469)
+
+#### Static 182988114 – No More Fighting With Duvet Covers
+
+- **Headline:** „No More Fighting With Duvet Covers“
+- **Primärtext:** T01 (wie 182988115).
+- **Link-Beschreibung:** „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ · **CTA:** SHOP_NOW „Shop now“
+- **Gesamter Bildtext (wörtlich):**
+  - „NEVER SWEAT AT NIGHT AGAIN“
+  - „ICE DUVET, NOT A SWEAT DUVET“
+  - (weiße Versalien mit Schatten)
+- **Bildmotiv:**
+  - Draufsicht auf ein Bett vor weißem Hintergrund: hellblaues Bettwäsche-Set, zwei Kissen mit weißer Paspel.
+  - Die Decke ist ein **glatter Bezug mit Paspel, ohne Steppung**. Das ist nicht das gesteppte EasyRest-Design, das die übrigen Creatives zeigen.
+  - Keine Person. Produktfoto-Stil.
+  - **C2PA belegt: „Created by Google Generative AI“ + SynthID.**
+- **Farbwelt:** Eisblau und Weiß. Kühl.
+- **Angebot:** Auf dem Bild keines. Im Text T01 2 Kissenbezüge und 90 Nächte.
+- **Angle:** **B** (Nachtschweiß, „Ice duvet“). Headline und Text: C.
+- **Format-Typ:** Produktfoto (Draufsicht) mit Statement-Overlay
+- **Hinweis:**
+  - Das Bild verspricht Kühlung („ICE DUVET“) und führt auf `/products/easyrest`, die laut s3 mit „10.5 TOG — proper winter warmth“ arbeitet.
+  - Pleene führt laut s3 das separate Produkt „CoolRest™ - Cooling Ice Duvet for Hot Summer Nights“.
+  - Ob das Motiv ursprünglich für CoolRest gedacht war, ist nicht verifiziert.
+- **Familie:** T01.
+- **Metadaten:**
+  - Meta-ID 1426446732803436 · Start 2026-09-24 · 15 Tage · Score 41 „Scaling“ · used_count 1
+  - Länder n/a (leer) · Plattformen facebook, instagram, audience_network, messenger, threads
+  - Format 1024×1024 (1:1)
+  - LP https://pleene.com/products/easyrest
+  - [GetHooked](https://app.gethookd.ai/share/ad/182988114?signature=45373dfa7ccdf466516a711b6593e9207307858450c4d58f1857ebd0d9c95216) · [Ad Library](https://www.facebook.com/ads/library/?id=1426446732803436)
+
+#### Static 182988035 – Fresh Bedding Made Easy
+
+- **Headline:** „Fresh Bedding Made Easy“
+- **Primärtext (T37):** „Nothing beats getting into a freshly made bed. Pleene EasyRest™ makes it easier with an all-in-one, machine-washable comforter and no separate cover to change.“
+- **Link-Beschreibung:** „Fresh without the fuss.“ · **CTA:** SHOP_NOW „Shop now“
+- **Gesamter Bildtext (wörtlich):**
+  - „One Comforter. No Separate Cover.“ (weiße Serifenschrift auf Navy-Box)
+  - „Pleene.“ (Logo)
+- **Bildmotiv:**
+  - Bett mit Metallgestell, stahlblaue, rautengesteppte Decke mit zwei passenden Kissen.
+  - Jute-Teppich, weiße Vorhänge, Tageslicht. Keine Person.
+  - Produkt im Raum. Keine Metadaten, KI-Generierung nicht verifiziert.
+- **Farbwelt:** Navy, Stahlblau, Weiß, Naturjute.
+- **Angebot:** keines.
+- **Angle:** **C** (kein separater Bezug). Im Text „freshly made bed“ / „machine-washable“ zusätzlich A.
+- **Format-Typ:** Produkt im Raum mit Brand-Statement-Box
+- **Familie:** T37 und gleiches Motiv wie **200490726** (dort 1:1, hier 9:16). Serifen-Markensystem wie 182988041.
+- **Metadaten:**
+  - Meta-ID 2320911822014129 · Start 2026-09-24 · 15 Tage · Score 41 „Scaling“ · used_count 1
+  - **Länder US** · Plattformen facebook, instagram, audience_network, whatsapp, threads
+  - Format 1080×1920 (9:16)
+  - LP https://pleene.com/products/easyrest-comforter
+  - [GetHooked](https://app.gethookd.ai/share/ad/182988035?signature=7092f978c95adda0f69e7d8ee25f7a28d421bd5b83e9ec632c18a18ed9941b58) · [Ad Library](https://www.facebook.com/ads/library/?id=2320911822014129)
+
+#### Static 184134598 – Mint Green Is Almost Gone
+
+- **Headline:** „Mint Green Is Almost Gone“
+- **Primärtext (T54):** „🎁 30% off + 2 FREE matching pillow cases. And Mint Green is almost gone. / ✓ Cover sewn in, one piece, nothing to change / ✓ Washes whole in your machine at home 🧺 / ✓ 10.5 tog, properly warm, without the weight / Link below.“
+- **Link-Beschreibung:** „30% off + 2 free pillow cases · Mint Green is almost gone“ · **CTA:** SHOP_NOW „Shop now“
+- **Gesamter Bildtext (wörtlich):**
+  - „30% off“
+  - „2 free Pleene Pillow Cases worth £39.99“
+  - „Mint Green: only 12 left.“
+  - „Cover sewn in · 10.5 tog · fits your machine at home · dry in 2 hours“
+  - „Pleene EasyRest“
+- **Bildmotiv:**
+  - Holzbett mit mint-/salbeigrüner, rautengesteppter Decke und zwei Kissen.
+  - Abendstimmung: Fenster in der Dämmerung, Lampe, Kerze, Bücher. Keine Person.
+  - Produkt im Raum. RGBA-PNG ohne Metadaten, KI-Generierung nicht verifiziert.
+- **Farbwelt:** Mint/Salbei, warmes Lampenlicht, dunkles Holz, cremeweiße Typo (Serife und Sans).
+- **Angebot:**
+  - 30 % Rabatt + 2 Kissenbezüge gratis (worth £39.99).
+  - Knappheit: „only 12 left“.
+  - Laut s3 zeigt die Seite keinen Farb-Lagerhinweis, und die GBP-Badges lauten je nach Größe „SAVE 23–35 %“.
+- **Angle:** **F-Knappheit/Farbe** + **F-Angebot**. Bildtext zusätzlich B („10.5 tog“), A („fits your machine at home · dry in 2 hours“) und C („Cover sewn in“).
+- **Format-Typ:** Knappheit/Farbe + Angebot, Produkt im Raum (die meisten USPs im Batch auf einem Bild)
+- **Familie:** Bildsprache „Abend-Schlafzimmer + Serifen-Typo + Angebot“ wie 185228766 (andere Farbe). Einzige Ad mit T54 im Inventar.
+- **Metadaten:**
+  - Meta-ID 1772685790545501 · Start 2026-09-25 · 14 Tage · Score 41 „Scaling“ · used_count 1
+  - Länder GB · Plattformen facebook, instagram, audience_network, threads
+  - Format 1649×2048 (ca. 4:5)
+  - LP https://pleene.com/products/easyrest
+  - [GetHooked](https://app.gethookd.ai/share/ad/184134598?signature=74028bdc9398943d1fa7b8f9149049962318fe3ebdf4bcecd5c613ee3875d422) · [Ad Library](https://www.facebook.com/ads/library/?id=1772685790545501)
+
+#### Static 193234215 – No More Fighting With Duvet Covers
+
+- **Headline:** „No More Fighting With Duvet Covers“
+- **Primärtext:** T01.
+- **Link-Beschreibung:** „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ · **CTA:** SHOP_NOW „Shop now“
+- **Gesamter Bildtext (wörtlich, Marker-Handschrift):**
+  - „Be honest — how long does your duvet take to dry?“ („long“ unterstrichen)
+  - „days... if ever“ (Pfeil auf die weiße Decke)
+  - „this one: 2 hours“ (Pfeil auf die mintgrüne Decke)
+  - Weißer Fußbalken: „Pleene EasyRest™ — washes completely, dries in 2 hours.“
+- **Bildmotiv:**
+  - Britisch anmutender Altbauraum mit Holzdielen, Sprossenfenster und Heizkörper.
+  - Links sackt eine dicke weiße Daunendecke feucht wirkend über den Heizkörper und auf den Boden.
+  - Rechts hängt eine mintgrüne, rautengesteppte Decke ordentlich über einem Holz-Wäscheständer.
+  - Keine Person.
+  - **C2PA belegt: „Created by Google Generative AI“ + SynthID, Claim-Generator auch „Higgsfield AI“.**
+- **Farbwelt:** Warmes Holz, Creme, Mint gegen Weiß. Schwarze Handschrift.
+- **Angebot:** Auf dem Bild keines. Im Text T01.
+- **Angle:** **A** (Waschen/Trocknen)
+- **Format-Typ:** Us-vs-Them mit Handschrift-Annotation („Be honest“-Format)
+- **Familie:** Layout-Zwilling von **193234214** (gleiches „Be honest —“-Format, gleicher Fußbalken). Text T01.
+- **Landingpage:** Advertorial `/pages/tb-6`. Laut s3 ist das ein Pre-Lander für C/F-Social-Proof, auf dem Hygiene nur am Rand vorkommt.
+- **Metadaten:**
+  - Meta-ID 1068343922634373 · Start 2026-10-01
+  - **Live-Abruf 08.10.: inactive, end_date 2026-10-07, 7 Tage, Score null.** Inventar: 8 Tage, Score 52 „Scaling“.
+  - used_count 1 · Länder GB · Plattformen facebook, instagram, audience_network, threads
+  - Format 1024×1024 (1:1)
+  - LP https://pleene.com/pages/tb-6
+  - [GetHooked](https://app.gethookd.ai/share/ad/193234215?signature=92968440b95005fe0fc1bf85409c9b3366e3ae8f6dbf240ce5448a242e85affb) · [Ad Library](https://www.facebook.com/ads/library/?id=1068343922634373)
+
+#### Static 193234214 – No More Fighting With Duvet Covers
+
+- **Headline:** „No More Fighting With Duvet Covers“
+- **Primärtext:** T01.
+- **Link-Beschreibung:** „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ · **CTA:** SHOP_NOW „Shop now“
+- **Gesamter Bildtext (wörtlich, Marker-Handschrift):**
+  - „Be honest — how old is the duvet you're sleeping under?“ („old“ unterstrichen)
+  - „washed: never“ (Pfeil auf die weiße Decke über dem Stuhl)
+  - „washed: every single week“ (Pfeil auf die salbeigrüne Decke im Bett)
+  - Weißer Fußbalken: „Pleene EasyRest™ — washes completely, not just the cover.“
+- **Bildmotiv:**
+  - Helles Schlafzimmer, Doppelbett mit salbeigrüner, rautengesteppter Decke und Kissen.
+  - Daneben ein Rattan-/Holzstuhl mit einer weißen Bettdecke als alte, ungewaschene Decke.
+  - Keine Person.
+  - **C2PA belegt: OpenAI-Generator „gpt-image“ (Version 2.0) + „Higgsfield AI“.**
+- **Farbwelt:** Creme/Beige, Salbeigrün, Weiß. Schwarze Handschrift.
+- **Angebot:** Auf dem Bild keines. Im Text T01.
+- **Angle:** **A** (Hygiene: Alter und Waschhäufigkeit der Decke)
+- **Format-Typ:** Us-vs-Them mit Handschrift-Annotation („Be honest“-Format)
+- **Familie:** Layout-Zwilling von 193234215. Text T01.
+- **Metadaten:**
+  - Meta-ID 2366124124211597 · Start 2026-10-01 · 8 Tage (aktiv) · Score 52 „Scaling“ · used_count 1
+  - Länder GB · Plattformen facebook, instagram, audience_network, threads
+  - Format 2048×2048 (1:1)
+  - LP https://pleene.com/pages/tb-6
+  - [GetHooked](https://app.gethookd.ai/share/ad/193234214?signature=4c554cee5f2b53ee0a1c202d4fe10ee2f6cfb8b5f6e3a6b4936aab8a10f4eec3) · [Ad Library](https://www.facebook.com/ads/library/?id=2366124124211597)
+
+#### Static 193234278 – NEW: Lavender Mist
+
+- **Headline:** „NEW: Lavender Mist“ (**passt nicht zum Bild**)
+- **Primärtext:** T16 (wie 185228766).
+- **Link-Beschreibung:** „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ · **CTA:** SHOP_NOW „Shop now“
+- **Gesamter Bildtext (wörtlich):**
+  - „“Got 3, love them.”“ (große Serifenschrift)
+  - „— Customer, back for the third time.“
+  - „✓ + 2 free pillow cases“
+  - „✓ 90-night sleep trial“
+  - „✓ Order now“
+- **Bildmotiv:**
+  - Stapel aus drei gefalteten, rautengesteppten Decken (Blau, Orange, Mint) vor Weiß. **Kein Lavender.**
+  - Keine Person.
+  - Testimonial-Zitat, nicht namentlich und nicht verifiziert.
+  - RGBA-PNG ohne Metadaten.
+- **Farbwelt:** Weiß, Blau, Orange, Mint. Schwarze Typo.
+- **Angebot:** 2 Kissenbezüge gratis, 90 Nächte Testzeit.
+- **Angle:** **F-Social-Proof** (Wiederkauf, „Got 3“) + F-Angebot. Headline und Text: F-Knappheit/Farbe.
+- **Format-Typ:** Testimonial (Zitat) + Produktstapel
+- **Familie:**
+  - T16 (mit 185228766, 200490698).
+  - **Layout-Variante von 172760571** („Properly Warm, Never Heavy“, 33 Tage, Score 100). Dort lautet das Zitat „“It's what I've been looking for all this time!” — Customer, UK“, bei gleichem Stapel und gleichen Häkchen-Zeilen.
+- **Metadaten:**
+  - Meta-ID 1103531258742413 · Start 2026-10-01 · 8 Tage · Score 40 „Testing“ · used_count 1
+  - Länder n/a (leer) · Plattformen facebook, instagram, audience_network, threads
+  - Format 1143×2048 (ca. 9:16)
+  - LP https://pleene.com/products/easyrest
+  - [GetHooked](https://app.gethookd.ai/share/ad/193234278?signature=2acfe25ae18b9ee3fd409e989a071bce595dea12e1dca232a03824238d38b557) · [Ad Library](https://www.facebook.com/ads/library/?id=1103531258742413)
+
+#### Static 136390001 – No More Fighting With Duvet Covers
+
+- **Headline:** „No More Fighting With Duvet Covers“
+- **Primärtext:** T01.
+- **Link-Beschreibung:** „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ · **CTA:** SHOP_NOW „Shop now“
+- **Gesamter Bildtext (wörtlich):**
+  - Karte 1 (Icon: Figur ringt mit Decke, Schweißtropfen): „Change the bed in the summer heat“
+  - Karte 2 (Icon: rotes, verschwitztes Gesicht): „End up hot and sweaty“
+  - Karte 3 (Icon: Dusche): „Now you need another shower“
+  - Grün mit Haken: „Or... switch to the easy way.“
+  - Unten: „Pleene EasyRest™ — duvet & cover in one. Just pop the whole thing in the wash.“
+- **Bildmotiv:**
+  - Oben ein helles Schlafzimmer mit Pflanzen als Hintergrund für drei weiße Problem-Karten.
+  - Unten eine gefaltete stahlblaue, rautengesteppte Decke auf weißem Bett mit blauen Kissen.
+  - Keine reale Person, nur Cartoon-/Emoji-Icons.
+  - PNG mit `hf-job-id`. KI-generiert ist wahrscheinlich, nicht verifiziert.
+- **Farbwelt:** Weiß, Holz, Pflanzengrün, Signalgrün, Stahlblau.
+- **Angebot:** Auf dem Bild keines. Im Text T01.
+- **Angle:** **C** (Beziehen ist Schwerarbeit) + **B** (Hitze, Schwitzen) + A („pop the whole thing in the wash“)
+- **Format-Typ:** PAS-Listicle (Problem-Checkliste mit Icons → Lösung)
+- **Familie:** Layout „Problem → ✓ Pleene EasyRest™ — duvet & cover in one …“ wie 200490706 und 133366116. Text T01.
+- **Metadaten:**
+  - Meta-ID 2687410064986677 · Start 2026-06-11 · **120 Tage (längste Laufzeit im Batch)** · Score 1 „Testing“ · used_count 1
+  - Länder GB · Plattformen facebook, instagram, audience_network, messenger, threads
+  - Format 1024×1024 (1:1)
+  - LP https://pleene.com/products/easyrest
+  - [GetHooked](https://app.gethookd.ai/share/ad/136390001?signature=1765b0a55cd4792881cb510eac2152901fc1b2187c69ce5fdd22929e5f2e6553) · [Ad Library](https://www.facebook.com/ads/library/?id=2687410064986677)
+- **Signal-Hinweis:** 120 Tage aktiv bei Score 1 ist widersprüchlich. Am selben Tag gestartete T01-Statics (136388964, 136388847) haben Score 100. Ohne Spend-Daten bleibt die Deutung n/a.
+
+#### Static 133366116 – No More Fighting With Duvet Covers
+
+- **Headline:** „No More Fighting With Duvet Covers“
+- **Primärtext:** T01.
+- **Link-Beschreibung:** „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ · **CTA:** SHOP_NOW „Shop now“
+- **Gesamter Bildtext (wörtlich):**
+  - „You wash the cover... but never the duvet inside.“
+  - „Years of sweat, dead skin & dust mites — every night.“
+  - Neben großem grünem Haken: „Pleene EasyRest™ — the whole thing washes in one. Duvet & cover in one.“
+  - Unten: „A fresher, healthier way to sleep.“
+- **Bildmotiv:**
+  - Bett mit salbeigrüner, rautengesteppter Decke und Kissen.
+  - Beistelltisch mit Teetasse und Blumen, heller Raum. Keine Person.
+  - Produkt im Raum mit Text-Callout.
+  - PNG mit `hf-job-id`. KI-generiert ist wahrscheinlich, nicht verifiziert.
+- **Farbwelt:** Weiß/Hellgrau, Salbeigrün, Navy-Typo, Signalgrün.
+- **Angebot:** Auf dem Bild keines. Im Text T01.
+- **Angle:** **A** (Hygiene: Schweiß, Hautschuppen, Milben)
+- **Format-Typ:** Problem-Lösung-Infografik (Hygiene-Callout)
+- **Familie:** Layout „Problem → ✓ Pleene EasyRest™ — …“ wie 136390001 und 200490706. Text T01.
+- **Metadaten:**
+  - Meta-ID 1687513282572901 · Start 2026-06-15 · 116 Tage · Score 1 „Testing“ · used_count 1
+  - Länder n/a (leer) · Plattformen facebook, instagram, audience_network, messenger, threads
+  - Format 1024×1024 (1:1)
+  - LP https://pleene.com/products/easyrest
+  - [GetHooked](https://app.gethookd.ai/share/ad/133366116?signature=a2afe366ec4a13b6ab93d2e4edce9c7275c8292acd57172af7d5455a8b4dc87d) · [Ad Library](https://www.facebook.com/ads/library/?id=1687513282572901)
+
+#### Static 200490698 – NEW: Lavender Mist
+
+- **Headline:** „NEW: Lavender Mist“ (**passt nicht zum Bild**)
+- **Primärtext:** T16.
+- **Link-Beschreibung:** „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ · **CTA:** SHOP_NOW „Shop now“
+- **Gesamter Bildtext (wörtlich):**
+  - „★★★★★“ (5 goldene Sterne)
+  - „Only Until Friday!“
+  - „Never Change Bedding Again With the 2-in-1 Duvet“
+  - Orangeroter Kreis-Badge: „+ 2 FREE Pillow Cases“
+  - Blauer Button: „Shop Now“
+- **Bildmotiv:**
+  - Gefaltetes anthrazitfarbenes Set (Decke + 2 Kissen) vor cremefarbenem Studiohintergrund.
+  - **Keine Steppung erkennbar**, die Oberfläche wirkt wie Leinen. **Kein Lavender.**
+  - Keine Person. Produktfoto-Stil.
+  - PNG mit `hf-job-id`. KI-generiert ist wahrscheinlich, nicht verifiziert.
+- **Farbwelt:** Creme, Anthrazit, Orangerot, Blau, Gold.
+- **Angebot:** Frist „Only Until Friday!“ + 2 Kissenbezüge gratis. Laut s3 gibt es auf keiner Seite einen Countdown.
+- **Angle:** **F-Angebot (Frist)** + C („Never Change Bedding Again“) + F-Social-Proof (Sterne). Headline und Text: F-Knappheit/Farbe.
+- **Format-Typ:** Angebots-Static (Produktfoto + Badge + Button)
+- **Familie:** T16. Layout „Sterne + fette Headline + blauer Button“ wie 182988115.
+- **Metadaten:**
+  - Meta-ID 4427668754123793 · Start 2026-10-06 · 3 Tage
+  - Score live 42 „Scaling“ (Inventar 13 „Testing“) · used_count live 1 (Inventar 2)
+  - Länder n/a (leer) · Plattformen facebook, instagram, audience_network, threads
+  - Format 1024×1024 (1:1)
+  - LP https://pleene.com/products/easyrest
+  - [GetHooked](https://app.gethookd.ai/share/ad/200490698?signature=545ba781a548a5c01d329f2fd0013f8c17445f4fe55be65e34bbea4cb49766dc) · [Ad Library](https://www.facebook.com/ads/library/?id=4427668754123793)
+
+#### Static 200490726 – Fresh Bedding Made Easy
+
+- **Headline:** „Fresh Bedding Made Easy“
+- **Primärtext:** T37 (wie 182988035).
+- **Link-Beschreibung:** „Fresh without the fuss.“ · **CTA:** SHOP_NOW „Shop now“
+- **Gesamter Bildtext (wörtlich):**
+  - „One Comforter. No Separate Cover.“ (Navy-Box)
+  - „Pleene.“ (Logo)
+- **Bildmotiv:**
+  - Gleiche Szene wie 182988035 im Quadrat: Metallbett mit stahlblauer, rautengesteppter Decke und Kissen.
+  - Sprossenfenster mit Pflanze, gerahmter Botanik-Druck, Jute-Teppich. Keine Person.
+  - Keine Metadaten, KI-Generierung nicht verifiziert.
+- **Farbwelt:** Navy, Stahlblau, Weiß, Jute.
+- **Angebot:** keines.
+- **Angle:** **C**
+- **Format-Typ:** Produkt im Raum mit Brand-Statement-Box
+- **Familie:** 1:1-Variante von **182988035** (T37). Anders als dort: LP `/products/easyrest` statt Comforter-Seite, Länder n/a. Die US-Wortwahl „Comforter“ führt also auf die GB-Produktseite.
+- **Metadaten:**
+  - Meta-ID 2479370542555841 · Start 2026-10-06 · 3 Tage
+  - Score live 30 „Testing“ (Inventar 12) · used_count 1
+  - Länder n/a (leer) · Plattformen facebook, instagram, audience_network, whatsapp, threads
+  - Format 1080×1080 (1:1)
+  - LP https://pleene.com/products/easyrest
+  - [GetHooked](https://app.gethookd.ai/share/ad/200490726?signature=115b524a7494fc7321eeae317f8c27392d4975dd61a417a7abb8ca8b737a684c) · [Ad Library](https://www.facebook.com/ads/library/?id=2479370542555841)
+
+#### Static 200490706 – No More Fighting With Duvet Covers
+
+- **Headline:** „No More Fighting With Duvet Covers“
+- **Primärtext:** T01.
+- **Link-Beschreibung:** „⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers“ · **CTA:** SHOP_NOW „Shop now“
+- **Gesamter Bildtext (wörtlich):**
+  - „Just want to sleep... but you've still got to change the bed?“
+  - „End up too hot and uncomfortable to drift off.“
+  - Mit grünem Haken: „Pleene EasyRest™ — duvet & cover in one. Just wash the whole thing, no wrestling.“
+- **Bildmotiv:**
+  - Oben eine **Frau, geschätzt 30–40 Jahre**: zerzauste Haare, gerötetes, verschwitztes Gesicht, beiger Pyjama.
+  - Sie sitzt erschöpft auf dem Bett und zerrt an Decke und Bezug. Nachts, zwei Nachttischlampen, Wecker.
+  - Unten ein cremefarbenes Panel mit Freisteller eines Betts mit stahlblauer, rautengesteppter Decke und Kissen.
+  - Wirkt KI-generiert, nicht verifiziert (die Datei ist von Facebook verarbeitet, Herkunft n/a).
+- **Farbwelt:** Warmes, gelbliches Nachtlicht und Beige oben, Creme und Stahlblau unten, Signalgrün.
+- **Angebot:** Auf dem Bild keines. Im Text T01.
+- **Angle:** **C** (Beziehen) + **B** („too hot“) + A („wash the whole thing“)
+- **Format-Typ:** Problem-Lösung-Split (Pain-Person + Produkt-Inset)
+- **Familie:**
+  - **Bildgleich mit 136388847** (T01, Start 2026-06-11, 120 Tage, Score 100), also ein Re-Upload des Evergreens.
+  - Layout wie 136390001 und 133366116. Text T01.
+- **Metadaten:**
+  - Meta-ID 3697076843791050 · Start 2026-10-06
+  - **Live-Abruf 08.10.: inactive, end_date 2026-10-07, 2 Tage, Score null.** Inventar: 3 Tage, Score 12.
+  - used_count 1 · Länder n/a (leer) · Plattformen facebook, instagram, audience_network, whatsapp, threads
+  - Format 1024×1024 (1:1)
+  - LP https://pleene.com/products/easyrest
+  - [GetHooked](https://app.gethookd.ai/share/ad/200490706?signature=bf8fb3d07c078c72fd1dd3c635f84c09d6efe02037bea42b6f0c348469448635) · [Ad Library](https://www.facebook.com/ads/library/?id=3697076843791050)
+
+---
+
+##### Varianten und Familien (Batch 2)
+
+| Familie | Mitglieder (Batch 2) | Gemeinsam | Unterschied |
+|---|---|---|---|
+| Text T16 „NEW: Lavender Mist“ | 185228766, 193234278, 200490698 | Headline und Primärtext identisch | 3 völlig verschiedene Bilder. Nur 185228766 zeigt Lavender. Scores 60 / 40 / 42 (live) |
+| Text T01 „No More Fighting With Duvet Covers“ | 182988115, 182988114, 193234215, 193234214, 136390001, 133366116, 200490706 | Headline und Primärtext identisch | Bild-Angles A, B und C. Im Inventar 13 weitere T01-Ads (Bild und Video), nicht in diesem Batch |
+| Layout „Be honest —“ (Handschrift, Us-vs-Them, weißer Fußbalken) | 193234215, 193234214 | Gleiche Typo und Struktur, LP tb-6, Start 01.10. | Trocknen („how long“) vs. Alter/Waschen („how old“). 215 ist seit 07.10. inaktiv |
+| Layout „Problem → ✓ Pleene EasyRest™ — …“ | 136390001, 133366116, 200490706 | Problemtext oben, grüner Haken, Claim-Zeile „Pleene EasyRest™ — …“ | Listicle / Hygiene-Callout / Pain-Person |
+| Layout „★★★★★ + fette Sans-Headline + blauer Shop-Now-Button“ | 182988115, 200490698 | Sterne, Headline, Button-Grafik | Split-Vergleich vs. Produktstapel mit Frist-Badge |
+| Motiv „One Comforter. No Separate Cover.“ (Text T37) | 182988035 (9:16, US, Comforter-LP), 200490726 (1:1, LP easyrest) | Gleiche Szene, Navy-Box, Serifen-Typo | Format und Landingpage |
+| Serifen-Markensystem „Pleene.“ (US-Comforter-Look) | 182988041, 182988035, 200490726 | Serifen-Typo, „Pleene.“-Logo, Stahlblau | Person vs. Produkt im Raum |
+| Abend-Schlafzimmer + Serifen-Typo + Angebot (Farb-Statics) | 185228766 (Lavender), 184134598 (Mint) | Lampenlicht, Rautensteppung, Angebotszeile | Farbe; Neuheit vs. Restbestand |
+| Re-Uploads über Batches hinweg | 182988115 = 180153186 · 200490706 = 136388847 · 193234278 ≈ 172760571 | Bildgleich bzw. gleiches Layout | Bei 172760571 ein anderes Zitat |
+
+##### Hygiene-Zitate Statics Batch 2
+
+Alle Stellen zu Milben, Bakterien, Schweiß, Waschen, Trocknen und Temperatur, wörtlich. „B“ heißt Bildtext, „P“ Primärtext, „L“ Link-Beschreibung.
+
+**Milben / Hautschuppen**
+- 133366116 (B): „Years of sweat, dead skin & dust mites — every night.“
+- „Bakterien/bacteria“: **in keinem der 15 Bilder und Texte vorhanden.**
+
+**Schweiß**
+- 133366116 (B): „Years of sweat, dead skin & dust mites — every night.“
+- 182988114 (B): „NEVER SWEAT AT NIGHT AGAIN“ / „ICE DUVET, NOT A SWEAT DUVET“
+- 136390001 (B): „End up hot and sweaty“ / „Now you need another shower“
+
+**Waschen**
+- 133366116 (B): „You wash the cover... but never the duvet inside.“ / „Pleene EasyRest™ — the whole thing washes in one. Duvet & cover in one.“ / „A fresher, healthier way to sleep.“
+- 193234214 (B): „Be honest — how old is the duvet you're sleeping under?“ / „washed: never“ / „washed: every single week“ / „Pleene EasyRest™ — washes completely, not just the cover.“
+- 193234215 (B): „Pleene EasyRest™ — washes completely, dries in 2 hours.“
+- 136390001 (B): „Pleene EasyRest™ — duvet & cover in one. Just pop the whole thing in the wash.“
+- 200490706 (B): „Pleene EasyRest™ — duvet & cover in one. Just wash the whole thing, no wrestling.“
+- 184134598 (B): „fits your machine at home“
+- 184134598 (P): „✓ Washes whole in your machine at home 🧺“
+- T01 (P; bei 182988115, 182988114, 193234215, 193234214, 136390001, 133366116, 200490706): „Wash it, dry it, and lay it back on — that's it.“ / „✓ Hypoallergenic and kind to sensitive skin“ / „Enjoy a bed that always feels fresh.“
+- T16 (P; bei 185228766, 193234278, 200490698): „fully machine washable, dry in 2 hours“
+- T65 (P; 182988041): „Pleene EasyRest™ Comforter is an all-in-one machine-washable comforter designed to make bedding simpler.“
+- T37 (P; 182988035, 200490726): „Nothing beats getting into a freshly made bed. Pleene EasyRest™ makes it easier with an all-in-one, machine-washable comforter and no separate cover to change.“
+- T37 (L): „Fresh without the fuss.“
+
+**Trocknen**
+- 193234215 (B): „Be honest — how long does your duvet take to dry?“ / „days... if ever“ / „this one: 2 hours“ / „Pleene EasyRest™ — washes completely, dries in 2 hours.“
+- 184134598 (B): „dry in 2 hours“
+- T16 (P): „dry in 2 hours“
+- T01 (P): „Wash it, dry it, and lay it back on — that's it.“
+
+**Temperatur**
+- 182988114 (B): „NEVER SWEAT AT NIGHT AGAIN“ / „ICE DUVET, NOT A SWEAT DUVET“
+- 136390001 (B): „Change the bed in the summer heat“ / „End up hot and sweaty“
+- 200490706 (B): „End up too hot and uncomfortable to drift off.“
+- 184134598 (B): „10.5 tog“
+- 184134598 (P): „✓ 10.5 tog, properly warm, without the weight“
+- T01 (P): „✓ Pleasantly cool in summer, cosily warm in winter“
+
+**Analyse:**
+- **Hygiene-Bilder fahren T01-Text.** Hygiene (A) erscheint in diesem Batch fast nur im Bild: 133366116, 193234214, 193234215 und teilweise 136390001 und 200490706. Der Primärtext ist überall der Bezug-Text T01 (C).
+- **Die Hygiene-Statics sind aufgeteilt.** Die beiden jüngsten (193234214/215) laufen auf das Advertorial tb-6, die älteren (133366116, 136390001) auf `/products/easyrest`.
+- **Ekel wird nur zweimal ausgespielt.**
+  - 133366116: „sweat, dead skin & dust mites“.
+  - 193234214: „washed: never“.
+  - Sonst argumentiert Pleene mit Bequemlichkeit („2 hours“, „pop the whole thing in the wash“).
+- **Die Temperatur-Aussagen widersprechen sich.**
+  - Kühlung: „ICE DUVET“, „cool in summer“.
+  - Wärme: „10.5 tog, properly warm“.
+  - Das läuft für dasselbe Produkt und dieselbe Landingpage (siehe Hinweis bei 182988114).
+
+##### Kurz-Tabelle Statics Batch 2
+
+| ID | Headline | Bildtext-Kern | Motiv | Angle | Format-Typ | Tage | Score |
+|---|---|---|---|---|---|---|---|
+| 185228766 | NEW: Lavender Mist | „NEW: Lavender Mist / Limited Edition / 2 FREE Pillow Cases … ~~worth £39.99~~ / 90-Night Trial“ | Lavendel-Decke, dunkles Abend-Schlafzimmer, keine Person | F-Knappheit/Farbe, F-Angebot | Knappheit/Farbe, Produkt im Raum | 12 | 60 |
+| 182988115 | No More Fighting With Duvet Covers | „★★★★★ 2-in-1 Duvet: Never Change a Cover Again.“ + Button | Split: zerwühlter Bezug vs. gemachtes Bett (beige), keine Person | C (+F-Social-Proof) | Us-vs-Them / Vorher-Nachher | 17 | 41 |
+| 182988091 | What bed have you got? | „What bed have you got? … 140 × 200 (Single) … 200 × 200 (Double) … 230 × 230 (King) … Go ONE size up“ | Bett-Icons, Pfeile, 3 gefaltete Decken (KI, C2PA Google) | F-Kaufhilfe/Größe | Infografik (Größenberater) | 16 | 41 |
+| 182988041 | The Comforter That Does It All | „No Cover. No Problem.“ | Frau ca. 55–65 breitet blaue Decke aus | C (+F-Selbstständigkeit im Alter, nur Bild) | Lifestyle mit Person | 16 | 41 |
+| 182988114 | No More Fighting With Duvet Covers | „NEVER SWEAT AT NIGHT AGAIN / ICE DUVET, NOT A SWEAT DUVET“ | Draufsicht hellblaues Bezug-Set ohne Steppung (KI, C2PA Google) | B | Produktfoto + Statement | 15 | 41 |
+| 182988035 | Fresh Bedding Made Easy | „One Comforter. No Separate Cover.“ | Blaue Decke im Raum, Navy-Box, keine Person (US) | C | Produkt im Raum + Brand-Box | 15 | 41 |
+| 184134598 | Mint Green Is Almost Gone | „30% off / 2 free … worth £39.99 / Mint Green: only 12 left. / Cover sewn in · 10.5 tog · … dry in 2 hours“ | Mint-Decke, Abend-Schlafzimmer, keine Person | F-Knappheit/Farbe, F-Angebot (+B, A) | Knappheit/Angebot, Produkt im Raum | 14 | 41 |
+| 193234215 | No More Fighting With Duvet Covers | „Be honest — how long does your duvet take to dry? / days... if ever / this one: 2 hours“ | Weiße Decke auf Heizkörper vs. Mint-Decke auf Ständer (KI, C2PA Google) | A | Us-vs-Them, Handschrift | 7 (inaktiv seit 07.10.; Inventar 8) | null (Inventar 52) |
+| 193234214 | No More Fighting With Duvet Covers | „Be honest — how old is the duvet …? / washed: never / washed: every single week“ | Weiße Decke auf Stuhl vs. Salbei-Decke im Bett (KI, C2PA OpenAI) | A | Us-vs-Them, Handschrift | 8 | 52 |
+| 193234278 | NEW: Lavender Mist | „“Got 3, love them.” — Customer, back for the third time. ✓ + 2 free pillow cases ✓ 90-night sleep trial“ | Stapel Blau/Orange/Mint, kein Lavender | F-Social-Proof (+F-Angebot) | Testimonial + Produktstapel | 8 | 40 |
+| 136390001 | No More Fighting With Duvet Covers | „Change the bed in the summer heat / End up hot and sweaty / Now you need another shower / Or... switch to the easy way.“ | Icon-Karten + gefaltete blaue Decke, keine Person | C (+B, A) | PAS-Listicle | 120 | 1 |
+| 133366116 | No More Fighting With Duvet Covers | „You wash the cover... but never the duvet inside. / Years of sweat, dead skin & dust mites — every night.“ | Salbei-Decke im Raum, grüner Haken, keine Person | A | Problem-Lösung-Infografik | 116 | 1 |
+| 200490698 | NEW: Lavender Mist | „★★★★★ Only Until Friday! / Never Change Bedding Again With the 2-in-1 Duvet / + 2 FREE Pillow Cases“ | Anthrazit-Set gefaltet, Studio, kein Lavender | F-Angebot (Frist) (+C) | Angebots-Static | 3 | 42 (Inventar 13) |
+| 200490726 | Fresh Bedding Made Easy | „One Comforter. No Separate Cover.“ | Blaue Decke im Raum, Navy-Box (1:1-Variante von 182988035) | C | Produkt im Raum + Brand-Box | 3 | 30 (Inventar 12) |
+| 200490706 | No More Fighting With Duvet Covers | „Just want to sleep... but you've still got to change the bed? / End up too hot … / Just wash the whole thing, no wrestling.“ | Erschöpfte, verschwitzte Frau ca. 30–40 + blaues Produkt-Inset (= 136388847) | C (+B, A) | Problem-Lösung-Split | 2 (inaktiv seit 07.10.; Inventar 3) | null (Inventar 12) |
+
+**Vollständigkeitsprüfung:** Alle 15 IDs sind erfasst: 185228766 ✓, 182988115 ✓, 182988091 ✓, 182988041 ✓, 182988114 ✓, 182988035 ✓, 184134598 ✓, 193234215 ✓, 193234214 ✓, 193234278 ✓, 136390001 ✓, 133366116 ✓, 200490698 ✓, 200490726 ✓, 200490706 ✓.
+- Jede Ad: Bild per `get_ad_media` angesehen, Original geladen, `get_ad`-Metadaten abgerufen.
+- Nicht vorhanden bzw. n/a: Reichweite und Spend (alle), Länder bei 7 Ads (leeres Feld), Score bei den 2 inzwischen inaktiven Ads.
+
+
+### Teil 2 – Creative-Analyse Statics, Batch 3 (15 Bild-Ads)
+
+Stand: 2026-10-08. Marke Pleene (brand_id 7553008). Alle 15 Ads sind laut GetHooked Einzelbild-Ads (`display_format: image`, je 1 Medium, keine ad_cards). Karussells oder DCO-Ads mit mehreren Medien gibt es in diesem Batch nicht.
+
+**Wichtigster Befund vorab:** Nur 4 der 15 Ads sind GB-Ads (173929415, 178011633, 182988112, 182988109). 10 Ads sind laut GetHooked-Feld `countries` **US-Ads** (182988038, 182988042, 182988040, 182988039, 182988037, 182988034, 182988033, 182988032, 182988031, 182988029). Bei 183445651 ist `countries` leer. Die Ad nutzt aber dasselbe Bild und dieselbe Copy wie die US-Ad 182988037 und verlinkt auf die US-Produktseite. Sie ist deshalb sehr wahrscheinlich ebenfalls eine US-Ad (nicht verifiziert). Alle 11 Ads auf `/products/easyrest-comforter` gehören zu einer gemeinsamen US-Serie, die am 23./24.09.2026 gestartet ist. Mehr dazu in `s3_funnel.md`: Die Seite ist die US/CA-Produktseite.
+
+**Quellen und Methode**
+- **Bilder angesehen:** über `get_ad_media`, je 4 Ads pro Aufruf, Vorschau mit 768 px. Zusätzlich habe ich `get_ad` für alle 15 Ads aufgerufen (Metadaten inkl. `countries`, mit Bild-Vorschau).
+- **Originale:** über den öffentlichen GetHooked-Share-Endpunkt `/api/get-shared-ad/<id>?signature=…` geladen (Feld `media[].url`, signierte static-URL). Ablage: `wf/img/<id>.jpg`. Bei PNG-Originalen liegt zusätzlich `<id>.png` daneben. Share-JSONs liegen in `wf/s2s3_api/`, Skripte in `wf/s2s3_scripts/`.
+- **Kleine Schrift:** in Ausschnitten der Originalauflösung geprüft (`wf/s2s3_crops/`).
+- **Dateiprüfung:** Bilddateien habe ich per md5 verglichen und auf PNG-Textfelder, XMP und C2PA geprüft. Die Bilder der 4 GB-Ads habe ich zusätzlich mit den Bildern ihrer inaktiven Schwester-Ads verglichen (`wf/s2s3_sib/`).
+- **Text auf den Bildern:** wörtlich im englischen Original. Zeilenumbrüche im Bild sind als „ / “ markiert.
+- **Länderangaben:** aus `get_ad` vom 08.10. Sie stimmen mit `a3data/countries.json` überein.
+- **Score:** Inventar-Score, `get_ad` und Share-JSON sind bei allen 15 Ads identisch: **1 (Testing)**.
+- **Reichweite/Spend:** GetHooked liefert dafür keine Werte, deshalb überall n/a. Als Ersatzsignale dienen Tage, Score und used_count. Bei den US-Ads ist ebenfalls kein Wert vorhanden (`eu_total_reach`/`ad_spend_range_score` = null).
+- **Primärtext:** Kurze Texte stehen vollständig. Bei Texten, die mehrere Ads teilen, nenne ich die Text-ID aus dem Inventar (`wf/s1_inventar.md`).
+
+---
+
+#### Static 173929415 – Myth vs Truth 🛏️
+
+- **Headline:** "Myth vs Truth 🛏️"
+- **Primärtext (vollständig, Inventar T22):** "Myth: Changing the bed has to be a struggle. 🛏️ / Truth: With the Pleene EasyRest™ there's nothing to change. The cover is sewn in. / ✓ The whole duvet goes in your normal washing machine / ✓ Dry in 2 hours, no tumble dryer / ✓ 90-night sleep trial"
+- **Link-Beschreibung:** "⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers" (die Zahl 10,000 ist nicht verifiziert)
+- **Gesamter Bildtext (wörtlich):**
+  - "MYTH vs TRUTH"
+  - "~~MYTH:~~ Making the bed has to be / a struggle as you get older." (Nur das Wort "MYTH:" ist durchgestrichen.)
+  - "[grüner Kreis mit Haken] TRUTH: With the right duvet, it / takes seconds — and no wrestling."
+  - "✓ + 2 free pillow cases"
+  - "✓ 90-night sleep trial"
+  - "✓ Order now"
+- **Bildmotiv:** Produktfoto. Drei zusammengelegte, gestapelte Steppdecken mit Rautensteppung, von oben nach unten Blau, Orange und Mint. Heller Studiohintergrund. **Keine Person.** Ob das Bild KI-generiert ist, ist nicht verifiziert (PNG ohne Metadaten).
+- **Farbwelt:** Weiß/Hellgrau als Hintergrund, Navy-Headline, schwarzer Fließtext, grüner Haken, Produkte in Blau, Orange und Mint.
+- **Angebot:** Im Bild "+ 2 free pillow cases" und "90-night sleep trial". In der Copy "90-night sleep trial".
+- **Angle:**
+  - Bild: **C** ("no wrestling", "takes seconds") + **E** ("as you get older") + F-Angebot.
+  - Copy: **C** ("nothing to change. The cover is sewn in") + **A** ("whole duvet goes in your normal washing machine", "Dry in 2 hours").
+  - Das Bild bringt den Alters-Angle, der in der Copy fehlt.
+- **Format-Typ:** Myth-Busting (Myth vs Truth) mit Häkchen-Liste und Produktfoto (Farbstapel). Hochformat 9:16.
+- **Metadaten:**
+  - Meta-ID 1080653068157794 · Start 2026-09-08 · **31 Tage** · Score **1 (Testing)** · used_count 1
+  - Land GB · Plattformen FB/IG/AN/Messenger/Threads · CTA "Order now"
+  - Original 1143×2048 PNG
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/173929415?signature=f0e1ccce27a60346510cf79fea8c03c205a409770a77094a35c9f7a4e9a2b927) · [Ad Library](https://www.facebook.com/ads/library/?id=1080653068157794)
+- **Familie:** "Myth vs Truth" (T22). Es ist die einzige aktive von 6 Ads mit dieser Headline. **Relaunch:** Die Bilddatei ist md5-identisch mit der inaktiven Ad 168246668 (dieselbe Datei, Start 2026-08-29, Ende 2026-09-13). GetHooked speichert sie sogar im Medienordner von 168246668. Die Copy ist ebenfalls identisch. Layoutverwandt mit Familie F2 (Farbstapel plus Häkchen-Liste, siehe 178011633).
+
+#### Static 178011633 – Properly Warm, Never Heavy
+
+- **Headline:** "Properly Warm, Never Heavy"
+- **Primärtext (vollständig, Inventar T15):** "A light duvet can't keep you warm in winter." We hear it every autumn, and it's wrong. Climate-regulating fibres keep you properly warm without the heavy feeling, and the whole duvet still goes in your washing machine, dry in 2 hours."
+- **Link-Beschreibung:** "⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers"
+- **Gesamter Bildtext (wörtlich):**
+  - Rot durchgestrichen: "Warm means heavy."
+  - "Not any more. / Properly warm, / never heavy."
+  - "✓ 2 Free Pillow Cases"
+  - "✓ 90-Night Trial"
+  - Schwarzer Pillen-Button: "Order now"
+- **Bildmotiv:** Produktfoto mit drei gestapelten, gefalteten Steppdecken in Blau, Rost-Orange und Mint. Anders als 173929415 haben die Decken **Kasten-/Kanalsteppung** statt Rauten, mit bauschigen Kammern. Studio-Boden und -Wand in Pfirsich. **Keine Person.** Ob KI-generiert, ist nicht verifiziert (PNG ohne Metadaten).
+- **Farbwelt:** Pfirsich/Beige-Verlauf, anthrazitfarbene Schrift, rote Durchstreichung, Produkte in Blau, Rost-Orange und Mint, schwarzer Button.
+- **Angebot:** Im Bild "2 Free Pillow Cases" und "90-Night Trial". Die Copy nennt kein Angebot.
+- **Angle:** **B** (Hauptangle: warm, aber nicht schwer) + F-Einwand (Mythos durchgestrichen) + F-Angebot. Die Copy ergänzt **A** ("whole duvet still goes in your washing machine, dry in 2 hours").
+- **Format-Typ:** Myth-Busting mit durchgestrichener Behauptung, dazu Produktfoto (Farbstapel). Hochformat 9:16.
+- **Metadaten:**
+  - Meta-ID 1098100946061801 · Start 2026-09-15 · **24 Tage** · Score **1 (Testing)** · used_count 1
+  - Land GB · Plattformen FB/IG/AN/Messenger/Threads · CTA "Shop now"
+  - Original 1143×2048 PNG
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/178011633?signature=48c8e7e35f6375127cf561739916180953154da9ef203df6bb5f45775709f748) · [Ad Library](https://www.facebook.com/ads/library/?id=1098100946061801)
+- **Familie:** F2 "Properly Warm, Never Heavy" (Copy T15, wie 172403389, 172760571 und 173307160 in Batch 1). Layout-Zwilling von 172403389 und 172760571: Pfirsich-Hintergrund, Farbstapel, Häkchen-Liste und "Order now"-Button. Nur der Kopfteil ist anders: hier "Warm means heavy." statt "A light duvet can’t keep you warm in winter.". **Relaunch:** Die Datei ist md5-identisch mit der inaktiven Ad 172403394 (Start 2026-09-05, Ende 2026-09-19).
+
+#### Static 182988112 – What bed have you got?
+
+- **Headline:** "What bed have you got?"
+- **Primärtext (vollständig, Inventar T17):** "Not sure which size? It's easier than duvet shopping usually is: Single bed (3ft) → Single. Double bed (4ft6) → Double. King bed (5ft) → King. Same name as your bed — that's it."
+- **Link-Beschreibung:** "⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers"
+- **Gesamter Bildtext (wörtlich):**
+  - "Still fighting over / the duvet at 3am?"
+  - "You don’t need to win. You need a bigger duvet."
+  - "▶ Sharing a double bed? Take the King — 230 × 230"
+  - "▶ Plenty of duvet for both of you. Every night."
+  - "(or two Single duvets — one each 😉)"
+  - "One duvet. No cover. No 3am battles."
+  - [geschwungener Pfeil auf das Produktbild]
+  - "Duvet / and cover. / *in one.*"
+- **Bildmotiv:** Grafik mit Text oben. Unten links ein kreisrunder Ausschnitt mit einem Bett: rote Steppdecke mit Rauten-/Gittersteppung, passende rote Kissen und rotes Spannbettlaken. **Keine Person.** **KI-Herkunft verifiziert:** Das PNG enthält XMP mit `Iptc4xmpExt:DigitalSourceType = trainedAlgorithmicMedia` und `photoshop:Credit = "Made with Google AI"`. Der Farbname der Decke ist nicht verifiziert.
+- **Farbwelt:** Greige/Hellgrau als Hintergrund, schwarze Schrift (Grotesk, dazu Serif-Kursive "in one."), Produkt in Ziegel-/Weinrot.
+- **Angebot:** Keins, weder im Bild noch in der Copy.
+- **Angle:**
+  - Bild: **F-Paare/Größe** (Streit um die Decke um 3 Uhr, Upsell auf King) + **C** ("No cover").
+  - Copy: F-Einwand/Kaufhilfe (Größe).
+- **Format-Typ:** Problem-Frage-Grafik mit Größen-Empfehlung ("Hook + Bullet-Liste + Produkt im Kreis"). Hochformat 9:16.
+- **Metadaten:**
+  - Meta-ID 2138510413448166 · Start 2026-09-23 · **16 Tage** · Score **1 (Testing)** · used_count 1
+  - Land GB · Plattformen FB/IG/AN/Threads (kein Messenger) · CTA "Order now"
+  - Original 1143×2048 PNG
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/182988112?signature=e637d1aa88032bb3e6f40a107860add2023c5f81431ec94ddb40f889cad2579f) · [Ad Library](https://www.facebook.com/ads/library/?id=2138510413448166)
+- **Familie:** F5 "What bed have you got?" (T17). Gleiche Vorlage wie 182988109; dritte aktive Ad mit dieser Headline ist 182988091 (anderer Batch). **Relaunch:** Die Datei ist md5-identisch mit der inaktiven Ad 145443340 (Start 2026-08-14, Ende 2026-09-19, 37 Tage).
+- **Copy-Bild-Widerspruch:** Die Copy sagt "Double bed (4ft6) → Double … Same name as your bed — that's it.". Das Bild empfiehlt dagegen "Sharing a double bed? Take the King — 230 × 230". Die Maßangabe 230 × 230 (King) stimmt mit der Größentabelle der Produktseite überein ("King 230 × 230 cm · fits 5'0" beds", `s3_funnel.md`).
+
+#### Static 182988109 – What bed have you got?
+
+- **Headline:** "What bed have you got?"
+- **Primärtext (vollständig, Inventar T17):** identisch mit 182988112 ("Not sure which size? …").
+- **Link-Beschreibung:** "⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers"
+- **Gesamter Bildtext (wörtlich):**
+  - "“But which size / do I need?”"
+  - "That’s what I thought too."
+  - "▶ **Single bed (3ft)?** Take the Single — 140 × 200 ·"
+  - "▶ **Double bed (4ft6)?** Take the Double — 200 × 200 ·"
+  - "▶ **King bed (5ft)?** Take the King — 230 × 230"
+  - "One size for your bed. Done. / No cover. No guessing."
+  - [geschwungener Pfeil]
+  - "Duvet and cover. / *in one.*"
+  - Am Ende der ersten beiden Zeilen steht jeweils ein Mittelpunkt "·". Im Original ist das so zu sehen; vermutlich ein Layout-Rest.
+- **Bildmotiv:** Grafik mit Text oben. Unten links ein kreisrunder Ausschnitt: Bett mit mintgrüner Steppdecke mit Rautensteppung, Kissen in Mint und Weiß, Holzboden. **Keine Person.** Ob KI-generiert, ist nicht verifiziert: Das PNG hat keine Metadaten, nutzt aber dieselbe Vorlage wie 182988112, das "Made with Google AI" trägt.
+- **Farbwelt:** Greige/Hellgrau, schwarze Schrift, Produkt in Mint.
+- **Angebot:** Keins.
+- **Angle:** **F-Einwand/Kaufhilfe** (Größenwahl) + **C** ("No cover"). Bild und Copy passen zusammen.
+- **Format-Typ:** Einwandbehandlung als "Zitat-Hook + Größen-Liste + Produkt im Kreis". Hochformat 9:16.
+- **Metadaten:**
+  - Meta-ID 1650784179985323 · Start 2026-09-23 · **16 Tage** · Score **1 (Testing)** · used_count 1
+  - Land GB · Plattformen FB/IG/AN/Threads · CTA "Order now"
+  - Original 1143×2048 PNG
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/182988109?signature=8a1a3bb47f8f0c47a3b8176d48503e7b6803273f62a7295f1b74fe1848bd06f2) · [Ad Library](https://www.facebook.com/ads/library/?id=1650784179985323)
+- **Familie:** F5 (T17), gleiche Vorlage wie 182988112: anderer Hook (Größe statt Paar-Streit) und andere Farbe (Mint statt Rot). **Relaunch:** Die Datei ist md5-identisch mit der inaktiven Ad 145443335 (Start 2026-08-14, Ende 2026-08-21, nur 8 Tage).
+- **Faktencheck:** Die drei Maßangaben stimmen mit der Produktseite überein (Single 140 × 200 / 3'0", Double 200 × 200 / 4'6", King 230 × 230 / 5'0"). Super King (260 × 220) fehlt im Bild.
+
+#### Static 182988038 – Simplify Your Bedding Routine
+
+- **Headline:** "Simplify Your Bedding Routine"
+- **Primärtext (vollständig):** "No stuffing. No tying. No adjusting a separate cover. EasyRest™ goes straight back on the bed, making bed-making feel less like a project."
+- **Link-Beschreibung:** "Straight back on the bed"
+- **Gesamter Bildtext (wörtlich):**
+  - "Throw it on. / *Move on.*"
+  - Weißes Band: "MEET EASYREST™ COMFORTER"
+  - "DUVET + COVER | ALL-IN-ONE"
+  - Logo "Pleene." (Gold)
+  - Trustpilot-Badge: "★ Trustpilot", 4,5 grüne Sterne (der 5. Stern ist halb gefüllt), "TrustScore 4.7 | 193 reviews"
+- **Bildmotiv:** Lifestyle. **Person ja: Frau, geschätzt ca. 55–65 Jahre**, blond-graues Haar, cremefarbener Strickpullover. Sie hebt und schüttelt eine stahlblaue Steppdecke mit Rautensteppung über dem Bett aus. Warmes Schlafzimmer mit Holzbett, Nachttisch und Lampe. Fotorealistisch. Ob KI-generiert, ist nicht verifiziert (JPEG ohne Tool-Metadaten).
+- **Farbwelt:** Warmes Beige/Creme, Navy-Serif-Headline, Stahlblau (Produkt), weiße Fußleiste mit Gold-Logo, Trustpilot-Grün.
+- **Angebot:** Keins.
+- **Angle:** **C** (Hauptangle: drüberwerfen statt beziehen) + **F-Social-Proof** (Trustpilot). Zielgruppe ältere Frau nur über das Motiv, nicht im Text. Das wäre höchstens ein impliziter Hinweis auf E bzw. F-Selbstständigkeit im Alter.
+- **Format-Typ:** Lifestyle-Produktdemo mit Claim-Band und Trustpilot-Badge. Quadrat 1:1.
+- **Metadaten:**
+  - Meta-ID 2162602794330262 · Start 2026-09-23 · **16 Tage** · Score **1 (Testing)** · used_count 1
+  - **Land US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1080 JPEG
+  - LP https://pleene.com/products/easyrest-comforter (US/CA-Produktseite)
+  - [share](https://app.gethookd.ai/share/ad/182988038?signature=3b83966def7d239d3f8f898327a0d424f41581509f344934902a9eaf4f852074) · [Ad Library](https://www.facebook.com/ads/library/?id=2162602794330262)
+- **Familie:** US-Comforter-Serie (F6). Gleiche Headline wie 182988034, aber anderes Bild und andere Copy.
+- **Faktencheck Trustpilot-Badge:** Trustpilot (`/review/pleene.com`, laut `s4_reviews.md` dieselbe Business Unit wie pleene.uk) zeigt am 08.10. **291 Bewertungen und TrustScore 4,8**. Die 193. Bewertung wurde am 18.09.2026 um 19:16 UTC veröffentlicht (`wf/reviews_all.json`), der Durchschnitt der ersten 193 liegt bei 4,78. Das Badge ist also ein statischer Stand von etwa 18./19.09., die Ad startete am 23.09. Heute ist es veraltet und untertreibt sogar. Außerdem wirbt die US-Ad mit Bewertungen eines überwiegend britischen Profils (laut `s4_reviews.md` 91,8 % GB).
+
+#### Static 183445651 – Skip the Cover
+
+- **Headline:** "Skip the Cover"
+- **Primärtext (vollständig, Inventar T62):** "Clean bedding shouldn't feel like a wrestling match. Pleene EasyRest™ has no separate cover to stuff, shake or fasten back into place."
+- **Link-Beschreibung:** "Less hassle, more comfort."
+- **Gesamter Bildtext (wörtlich):**
+  - Logo "Pleene."
+  - Textkasten: "Still Wrestling / With Comforter / Covers?" ("Still Wrestling" in brauner Serif, der Rest schwarz)
+- **Bildmotiv:** Problemszene im Lifestyle-/UGC-Stil. **Person ja: Frau, geschätzt ca. 40–50 Jahre**, dunkles Haar im Dutt, cremefarbener Pullover, graue Jogginghose. Sie stopft angestrengt eine weiße Bettdecke in einen salbeigrünen Bezug. Zerwühltes weißes Bett, helles Schlafzimmer mit Fenster und Bildern. Das Produkt selbst ist **nicht** zu sehen. Ob KI-generiert, ist nicht verifiziert (JPEG ohne Tool-Metadaten).
+- **Farbwelt:** Weiß/Creme, Salbeigrün, cremefarbener Textkasten, braune und schwarze Schrift.
+- **Angebot:** Keins.
+- **Angle:** **C** (rein: Kampf mit dem Bettbezug).
+- **Format-Typ:** Pain-Point-Lifestyle (Problemszene ohne Produkt), Frage-Hook. Hochformat 9:16.
+- **Metadaten:**
+  - Meta-ID 1640984024127964 · Start 2026-09-24 · **15 Tage** · Score **1 (Testing)** · **used_count 2**
+  - **Land: leer** (`countries: []`), sehr wahrscheinlich US (siehe oben, nicht verifiziert) · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1920 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/183445651?signature=3af2be1a313fcc4887a0cd71ed59cf6121bb5f75f33757760103514ce37b379e) · [Ad Library](https://www.facebook.com/ads/library/?id=1640984024127964)
+- **Familie:** F7 "Skip the Cover" (T62) in der US-Comforter-Serie. Formatvariante von 182988037: gleiche Szene, gleiche Headline und Copy, hier 9:16 statt 1:1.
+
+#### Static 182988042 – No Assembly Required
+
+- **Headline:** "No Assembly Required"
+- **Primärtext (vollständig):** "Skip the stuffing, shaking and corner hunting. Pleene EasyRest™ is a machine-washable comforter with no separate cover to wrestle with."
+- **Link-Beschreibung:** "No cover, no struggle."
+- **Gesamter Bildtext (wörtlich):**
+  - Logo "Pleene."
+  - "Bedding Shouldn’t / Need Assembly"
+- **Bildmotiv:** Zweigeteilter Vergleich ohne Beschriftung.
+  - Links in **Graustufen:** eine weiße Decke (Inlett) und ein dunkelgrauer, gefalteter Bezug, also zwei separate Teile.
+  - Rechts in Farbe: drei gestapelte Steppdecken mit Rautensteppung in Hellblau, Mint und Sand/Beige vor einem Vorhang.
+  - **Keine Person.** Ob KI-generiert, ist nicht verifiziert.
+- **Farbwelt:** Creme- und Rosé-Beige mit Wellenform, Navy-Kasten mit cremefarbener Serifenschrift. Links Graustufen, rechts Pastellblau, Mint und Sand.
+- **Angebot:** Keins.
+- **Angle:** **C** (kein separater Bezug). Die Copy ergänzt A ("machine-washable").
+- **Format-Typ:** Us-vs-Them-Vergleich, implizit über Graustufen vs. Farbe. Quadrat 1:1.
+- **Metadaten:**
+  - Meta-ID 28437506889250706 · Start 2026-09-24 · **15 Tage** · Score **1 (Testing)** · used_count 1
+  - **Land US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1080 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/182988042?signature=e713dbcee072e6217acb230e04b0dfb8c7114c149d8c98626c040da7bef3f891) · [Ad Library](https://www.facebook.com/ads/library/?id=28437506889250706)
+- **Familie:** US-Comforter-Serie (F6), Untergruppe Us-vs-Them (mit 182988039 und 182988032).
+
+#### Static 182988040 – Clean Bedding, Made Easier
+
+- **Headline:** "Clean Bedding, Made Easier"
+- **Primärtext (vollständig):** "kip the laundromat and dry cleaner. EasyRest™ is fully machine washable and designed to wash right at home, so keeping your whole comforter fresh is simpler." Der Text beginnt so laut GetHooked, das "S" von "Skip" fehlt. Ob der Fehler auch in der Ad Library steht, ist nicht verifiziert.
+- **Link-Beschreibung:** "Wash. Dry. Done."
+- **Gesamter Bildtext (wörtlich):**
+  - "Your Comforter Shouldn’t / Need A Field Trip."
+  - Weißer Kasten mit Navy-Rahmen: "EASYREST™ IS DESIGNED TO WASH RIGHT AT HOME"
+  - Blaue Leiste unten: "Fully Machine Washable | Air Dries in 2 Hours | No Separate Cover"
+- **Bildmotiv:** Lifestyle-Produktdemo. **Person ja, nur Arme und Hände**, cremefarbenes Leinenhemd mit hochgekrempelten Ärmeln. Alter und Geschlecht sind nicht erkennbar. Die Hände schieben eine zusammengerollte stahlblaue Steppdecke mit Rautensteppung in eine weiße Frontlader-Waschmaschine, daneben ein Korb aus Seegras. Es ist **derselbe Grundmotiv-Fotoausschnitt wie 182988043 (Batch 1) und das erste Panel von 182988034** (visueller Vergleich `wf/s2s3_crops/wash_cmp.jpg`, nicht pixelgenau geprüft). Ob KI-generiert, ist nicht verifiziert.
+- **Farbwelt:** Weiß/Creme, Navy-Serif-Headline, Stahlblau (Produkt), blauer Verlaufsbalken mit weißer Schrift.
+- **Angebot:** Keins.
+- **Angle:** **A** (Hauptangle: ganze Decke zu Hause waschen, kein Waschsalon und keine Reinigung) + **C** ("No Separate Cover").
+- **Format-Typ:** Lifestyle-Demo (Waschmaschine) mit Benefit-Leiste. Quadrat 1:1.
+- **Metadaten:**
+  - Meta-ID 2515261675637941 · Start 2026-09-24 · **15 Tage** · Score **1 (Testing)** · used_count 1
+  - **Land US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1080 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/182988040?signature=70c523c1f926d7fd461c615515849a5b4da5e7a7cd0b682c0335da480ffd657a) · [Ad Library](https://www.facebook.com/ads/library/?id=2515261675637941)
+- **Familie:** US-Comforter-Serie (F6), Untergruppe Waschmaschinen-Motiv (mit 182988034 und 182988043).
+
+#### Static 182988039 – Fewer Steps. Fresher Bed.
+
+- **Headline:** "Fewer Steps. Fresher Bed."
+- **Primärtext (vollständig):** "Wash. Dry. Back on the bed. EasyRest™ cuts out the extra steps of traditional bedding with one machine-washable comforter and built-in cover."
+- **Link-Beschreibung:** "One simple routine"
+- **Gesamter Bildtext (wörtlich):**
+  - "Does your bedding have / too many steps?" ("too many steps?" in Ocker/Gold)
+  - Linke Spalte: "REMOVE ↓ WASH ↓ DRY ↓ FIND CORNERS ↓ STUFF ↓ SHAKE ↓ TIE ↓ BED"
+  - Linke Spalte unten: "Traditional Duvet"
+  - Rechte Spalte: "WASH ↓ DRY ↓ BED"
+  - Rechte Spalte unten: Logo "Pleene."
+- **Bildmotiv:** Zweigeteilter Vergleich zweier Schlafzimmer.
+  - Links: dunkel und unordentlich, zerknülltes anthrazitfarbenes, gemustertes Bettzeug.
+  - Rechts: heller, ordentlich gemachtes Bett mit anthrazitfarbener Steppdecke mit Rautensteppung, weiße Kissen, Juteteppich.
+  - **Keine Person.** Ob KI-generiert, ist nicht verifiziert.
+- **Farbwelt:** Creme oben, schwarze und ockerfarbene Schrift, links Anthrazit/Dunkelgrau, rechts Warmgrau und Jute-Beige, weiße Schrift.
+- **Angle:** **C** (Hauptangle: weniger Schritte, kein Beziehen) + **A** (Waschen und Trocknen als einzige Schritte).
+- **Format-Typ:** Us-vs-Them-Prozessvergleich (8 Schritte gegen 3). Hochformat 9:16.
+- **Metadaten:**
+  - Meta-ID 2506169333225327 · Start 2026-09-24 · **15 Tage** · Score **1 (Testing)** · used_count 1
+  - **Land US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1920 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/182988039?signature=527dd4c916d39ab9e6336ae3da5dfb03d8f6e255525d6dcab66494f2f427a37d) · [Ad Library](https://www.facebook.com/ads/library/?id=2506169333225327)
+- **Familie:** US-Comforter-Serie (F6), Untergruppe Us-vs-Them. Wording-Mix: Die US-Ad sagt im Bild "Traditional Duvet", in der Copy "comforter".
+
+#### Static 182988037 – Skip the Cover
+
+- **Headline:** "Skip the Cover"
+- **Primärtext (vollständig, Inventar T62):** identisch mit 183445651 ("Clean bedding shouldn't feel like a wrestling match. …").
+- **Link-Beschreibung:** "Less hassle, more comfort."
+- **Gesamter Bildtext (wörtlich):**
+  - Logo "Pleene."
+  - "Still Wrestling / With Comforter / Covers?"
+- **Bildmotiv:** Dieselbe Problemszene wie 183445651, als Quadrat zugeschnitten. **Person ja: Frau, geschätzt ca. 40–50 Jahre**, dunkles Haar im Dutt, cremefarbener Pullover. Sie stopft eine weiße Decke in einen salbeigrünen Bezug. Das Produkt ist nicht zu sehen. Ob KI-generiert, ist nicht verifiziert.
+- **Farbwelt:** Weiß/Creme, Salbeigrün, braune und schwarze Schrift.
+- **Angebot:** Keins.
+- **Angle:** **C**.
+- **Format-Typ:** Pain-Point-Lifestyle mit Frage-Hook. Quadrat 1:1.
+- **Metadaten:**
+  - Meta-ID 1640153464440559 · Start 2026-09-24 · **15 Tage** · Score **1 (Testing)** · used_count 1
+  - **Land US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1080 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/182988037?signature=b7d4bc753ea2e96af174d564c3492d5adf7a481ed1267e58644c73a559c03796) · [Ad Library](https://www.facebook.com/ads/library/?id=1640153464440559)
+- **Familie:** F7 "Skip the Cover" (T62), 1:1-Variante von 183445651.
+
+#### Static 182988034 – Simplify Your Bedding Routine
+
+- **Headline:** "Simplify Your Bedding Routine"
+- **Primärtext (vollständig):** "Clean bedding doesn’t need a complicated routine. Pleene EasyRest™ is a machine-washable comforter you can wash, dry and put straight back on."
+- **Link-Beschreibung:** "Wash. Dry. Back to bed."
+- **Gesamter Bildtext (wörtlich):**
+  - Logo "Pleene."
+  - "One Comforter. / One Easy Routine."
+  - Drei Labels unter drei Fotos: "WASH" → "DRY" → "BACK ON BED"
+- **Bildmotiv:** Drei Fotos nebeneinander, die eine Schrittfolge zeigen.
+  - (1) Waschmaschine: Hände bzw. Person stecken die gerollte blaue Decke in den Frontlader. Oben ist ein Haaransatz zu sehen; vermutlich eine Frau, das Gesicht ist nicht sichtbar. Derselbe Grundmotiv wie 182988040, als breiterer Ausschnitt.
+  - (2) Die blaue Steppdecke mit Rautensteppung hängt über einem weißen Wäscheständer (Lufttrocknung).
+  - (3) Schlafzimmer mit gemachtem Bett in Blau, Metallbettgestell, Juteteppich.
+  - Ob KI-generiert, ist nicht verifiziert.
+- **Farbwelt:** Navy-Fläche oben mit weißer Serifenschrift, Creme unten, Stahlblau (Produkt), Navy-Labels.
+- **Angebot:** Keins.
+- **Angle:** **A** (Waschen und Trocknen zu Hause) + **C** (direkt zurück aufs Bett).
+- **Format-Typ:** Prozess-Infografik in 3 Schritten mit Fotos. Hochformat 9:16.
+- **Metadaten:**
+  - Meta-ID 1509916224516076 · Start 2026-09-24 · **15 Tage** · Score **1 (Testing)** · used_count 1
+  - **Land US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1920 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/182988034?signature=14dbc2129486bcabd193e665ddf4838458be05e7bf9dce3dfc69bf4aacede6cc) · [Ad Library](https://www.facebook.com/ads/library/?id=1509916224516076)
+- **Familie:** US-Comforter-Serie (F6). Gleiche Headline wie 182988038. Waschmaschinen-Motiv wie 182988040 und 182988043.
+
+#### Static 182988033 – Skip The Duvet Cover
+
+- **Headline:** "Skip The Duvet Cover"
+- **Primärtext (vollständig):** "A duvet cover means more stuffing, tying and wrestling every time you change the bed. EasyRest™ combines the comforter and cover into one washable piece."
+- **Link-Beschreibung:** "Comforter + cover in one"
+- **Gesamter Bildtext (wörtlich):**
+  - Logo "Pleene."
+  - "Why Do Duvets / Have Outfits?"
+  - "EASYREST™ COMBINES THE DUVET + COVER IN ONE"
+  - Goldene Leiste: "✓ Duvet + Cover in One · ✓ No Stuffing or Tying · ✓ Wash the Whole Thing" (Haken in weißen Kreisen)
+- **Bildmotiv:** Lifestyle, Draufsicht. **Personen ja: Paar, geschätzt ca. 55–65 Jahre.** Ein Mann mit grauem Haar und Bartstoppeln und eine Frau mit blond-grauem Haar, beide in grauen T-Shirts, schlafen Kopf an Kopf unter einer anthrazitfarbenen Steppdecke mit Rautensteppung, dazu passende Kissen. Der Look ist glatt und idealisiert und wirkt KI-typisch (Eindruck, nicht verifiziert; JPEG ohne Tool-Metadaten).
+- **Farbwelt:** Anthrazit/Dunkelgrau, weiße Serifenschrift, Gold-Ocker-Leiste mit weißer Schrift.
+- **Angebot:** Keins.
+- **Angle:** **C** (Hauptangle: kein Bezug, "No Stuffing or Tying") + **A** ("Wash the Whole Thing"). Zielgruppe Paar 55+ nur über das Motiv.
+- **Format-Typ:** Lifestyle mit humorvollem Frage-Hook und Benefit-Leiste. Quadrat 1:1.
+- **Metadaten:**
+  - Meta-ID 1974838589853602 · Start 2026-09-24 · **15 Tage** · Score **1 (Testing)** · used_count 1
+  - **Land US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1080 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/182988033?signature=02e7cdc360791bd35b8ddcd944fe2a094efad14b6918e50c6eab16a385c9fc59) · [Ad Library](https://www.facebook.com/ads/library/?id=1974838589853602)
+- **Familie:** US-Comforter-Serie (F6), Untergruppe Lifestyle mit Personen 55+ (mit 182988038, 182988031 und 182988029). Wording-Mix: "Duvet" im Bild, "comforter" in der Copy.
+
+#### Static 182988032 – Wash. Dry. Done.
+
+- **Headline:** "Wash. Dry. Done."
+- **Primärtext (vollständig):** "Why spend laundry day stuffing a comforter back into its cover? The Pleene EasyRest™ Comforter gives you an all-in-one, machine-washable routine."
+- **Link-Beschreibung:** "One piece, less hassle."
+- **Gesamter Bildtext (wörtlich):**
+  - Links: "The Old Way:" / "[rot durchkreuztes Kästchen] Stuff. Shake. / Struggle."
+  - Rechts: "The Pleene Way:" / "[Kästchen mit grünem Haken] Lay It On. / Done."
+- **Bildmotiv:** Vorher/Nachher-Split, beide Hälften von oben fotografiert. **Person ja: Frau, geschätzt ca. 25–35 Jahre**, dunkles, zurückgebundenes Haar, dunkelgraues T-Shirt. Es ist dieselbe Person in beiden Hälften.
+  - Links stopft sie eine weiße Decke in einen grauen Bezug mit Knopfleiste, dazu graue Kissen.
+  - Rechts legt sie eine stahlblaue Steppdecke mit Rautensteppung glatt, dazu blaue Kissen.
+  - Ob KI-generiert, ist nicht verifiziert.
+- **Farbwelt:** Creme-Hintergrund, schwarze Serif- und Sans-Schrift, rotes X, grüner Haken, links Grau/Weiß, rechts Stahlblau.
+- **Angebot:** Keins.
+- **Angle:** **C** (rein). Die Headline und die Copy bringen zusätzlich A ("Wash. Dry.", "machine-washable routine").
+- **Format-Typ:** Us-vs-Them / Vorher-Nachher ("The Old Way vs. The Pleene Way"). Quadrat 1:1.
+- **Metadaten:**
+  - Meta-ID 1109103628745298 · Start 2026-09-24 · **15 Tage** · Score **1 (Testing)** · used_count 1
+  - **Land US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1080 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/182988032?signature=fbd107f7a97ed551302eb2de90f0c8a58bf341d7335b7f01b6a069b61410c80b) · [Ad Library](https://www.facebook.com/ads/library/?id=1109103628745298)
+- **Familie:** US-Comforter-Serie (F6), Untergruppe Us-vs-Them.
+
+#### Static 182988031 – Straight Back On The Bed
+
+- **Headline:** "Straight Back On The Bed"
+- **Primärtext (vollständig):** "Get to the best part of laundry day faster. Wash your Pleene EasyRest™ Comforter, dry it fast, and lay it straight back on the bed to enjoy that fresh-bed feeling."
+- **Link-Beschreibung:** "Fresh bedding, less work."
+- **Gesamter Bildtext (wörtlich):**
+  - "The Best / Part Of / Laundry / Day?"
+  - "Getting into bed." (weinrot)
+  - Logo "Pleene." (weiß)
+- **Bildmotiv:** Lifestyle. **Person ja: Frau, geschätzt ca. 60–70 Jahre**, lange grau-blonde Haare, taupefarbener Pullover, helle Hose, barfuß. Sie steht lächelnd neben einem großen Bett mit taupe/mokkafarbener Steppdecke mit Rautensteppung und passenden Kissen. Helles Schlafzimmer mit Vorhängen. Der Look ist glatt und wirkt KI-typisch (Eindruck, nicht verifiziert).
+- **Farbwelt:** Creme-Panel, Navy-Serifenschrift, Weinrot, Taupe/Mokka (Produkt), Holzbraun.
+- **Angebot:** Keins.
+- **Angle:** **C** (direkt zurück aufs Bett) + **A** (Waschtag, "fresh-bed feeling"). Zielgruppe Frau 60+ nur über das Motiv.
+- **Format-Typ:** Lifestyle mit Frage-Antwort-Hook. Quadrat 1:1.
+- **Metadaten:**
+  - Meta-ID 2312946976208616 · Start 2026-09-24 · **15 Tage** · Score **1 (Testing)** · used_count 1
+  - **Land US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1080 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/182988031?signature=929ab2700d8d2ff4c55371cf11ebef82c019bb414b81a2990302dfd8d9efd784) · [Ad Library](https://www.facebook.com/ads/library/?id=2312946976208616)
+- **Familie:** US-Comforter-Serie (F6), Untergruppe Lifestyle 55+.
+
+#### Static 182988029 – Take The Work Out Of Bedding
+
+- **Headline:** "Take The Work Out Of Bedding"
+- **Primärtext (vollständig):** "Clean bedding shouldn’t feel like a workout. Pleene EasyRest™ is machine washable, with no separate cover to stuff, shake, or zip."
+- **Link-Beschreibung:** "Bedding made simpler."
+- **Gesamter Bildtext (wörtlich):**
+  - "MAKE YOUR BED."
+  - "Without the / Workout."
+  - Logo "Pleene." (weiß)
+- **Bildmotiv:** Lifestyle. **Person ja: Frau, geschätzt ca. 60–70 Jahre**, graues schulterlanges Haar, beiger Cardigan. Sie streicht mit der Hand eine graublaue Steppdecke mit Rautensteppung glatt. Warmes Schlafzimmer mit Holzbett, Vorhang und Vase. Der Look ist glatt und wirkt KI-typisch (Eindruck, nicht verifiziert).
+- **Farbwelt:** Warmes Beige/Creme, Navy-Schrift (Sans plus Serif), Graublau (Produkt).
+- **Angebot:** Keins.
+- **Angle:** **C** (kein Beziehen) + **E** (körperliche Anstrengung, "Without the Workout", ältere Frau als Motiv). Die Copy ergänzt A ("machine washable"). Laut Inventar C, E.
+- **Format-Typ:** Lifestyle mit Wortspiel-Headline. Quadrat 1:1.
+- **Metadaten:**
+  - Meta-ID 956768364140489 · Start 2026-09-24 · **15 Tage** · Score **1 (Testing)** · used_count 1
+  - **Land US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1080 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/182988029?signature=7000d6337b257185b3d04740a740841f3c2734266cacfabe1aaee79e136c9e57) · [Ad Library](https://www.facebook.com/ads/library/?id=956768364140489)
+- **Familie:** US-Comforter-Serie (F6), Untergruppe Lifestyle 55+.
+
+---
+
+##### Varianten und Familien (Batch 3)
+
+| Familie | Merkmal | Ads | Varianten-Logik |
+|---|---|---|---|
+| "Myth vs Truth" | Headline und Copy T22, Farbstapel-Layout | 173929415 | Einzige aktive von 6 Ads mit dieser Headline. **Relaunch:** Bild md5-identisch mit der inaktiven Ad 168246668 (29.08.–13.09.). |
+| F2 "Properly Warm, Never Heavy" | Headline und Copy T15, Pfirsich-Layout mit Farbstapel, Häkchen und Button | 178011633 (+ 172403389, 172760571, 173307160 aus Batch 1, 185228774 aus einem anderen Batch) | Layout-Zwilling von 172403389 und 172760571, nur der Kopfteil wechselt ("Warm means heavy." durchgestrichen). **Relaunch:** md5-identisch mit der inaktiven Ad 172403394 (05.–19.09.). Anderes Steppmuster (Kasten statt Raute). |
+| F5 "What bed have you got?" | Headline und Copy T17, gleiche Vorlage (Hook, ▶-Liste, Pfeil, Produkt im Kreis, "Duvet and cover. in one.") | 182988112 (Rot, Paar-Hook), 182988109 (Mint, Größen-Hook) (+ 182988091 aus einem anderen Batch) | Hook- und Farbvarianten derselben Vorlage. Beide sind **Relaunches**: md5-identisch mit den inaktiven Ads 145443340 (14.08.–19.09., 37 Tage) bzw. 145443335 (14.–21.08., 8 Tage). 182988112 trägt die Kennzeichnung "Made with Google AI". |
+| F6 US-Comforter-Serie | LP `/products/easyrest-comforter` (US), Start 23./24.09., einheitliches Design-System (Logo "Pleene.", Navy-Serif, Creme), Score 1 | 182988038, 183445651, 182988042, 182988040, 182988039, 182988037, 182988034, 182988033, 182988032, 182988031, 182988029 | 9 Headlines, 10 Copys, 10 Bildmotive (11 Bilddateien; 183445651 und 182988037 teilen sich die Szene). Breiter Konzepttest auf einem neuen Markt, kein Variantentest. |
+| F6a Us-vs-Them | Vergleich alt gegen Pleene | 182988042 (Graustufen vs. Farbe), 182988039 (8 Schritte vs. 3), 182988032 (Old Way vs. Pleene Way, gleiche Person) | Drei verschiedene Vergleichs-Layouts. |
+| F6b Waschmaschinen-Motiv | gleicher Grundmotiv-Foto (Hände, gerollte blaue Decke, Frontlader, Seegraskorb) | 182988040 (1:1, "Field Trip"), 182988034 (Panel 1 von 3, breiterer Ausschnitt) (+ 182988043 aus Batch 1) | Dasselbe Foto in drei Layouts. |
+| F6c Lifestyle 55+ | ältere Frau bzw. älteres Paar, ruhig und lächelnd | 182988038, 182988031, 182988029, 182988033 (Paar) | Verschiedene Personen und Deckenfarben (Stahlblau, Taupe, Graublau, Anthrazit). |
+| F7 "Skip the Cover" | gleiche Headline, Copy T62, gleiches Bild | 183445651 (9:16, used_count 2), 182988037 (1:1) | Placement- bzw. Formatvarianten derselben Problemszene. |
+| Headline-Dublette "Simplify Your Bedding Routine" | gleiche Headline | 182988038, 182988034 | Verschiedene Bilder und Copys (Lifestyle-Demo vs. 3-Schritt-Infografik). |
+
+**Befunde zu Copy-Bild-Passung und Qualität (Bewertung, Daten wie oben belegt):**
+- **Marktzuordnung:** 10 bis 11 von 15 Ads dieses Batches laufen in den USA, nicht in GB. Für die GB-Wettbewerbsanalyse sind nur 173929415, 178011633, 182988112 und 182988109 direkt relevant. Die US-Serie zeigt aber, welche Konzepte Pleene gerade neu testet: Pain-Point Bezug (C), Us-vs-Them, Waschen zu Hause (A) und Zielgruppe 55+.
+- **Recycling statt neuer Creatives in GB:** Alle 4 GB-Ads sind Relaunches von bereits inaktiven Ads mit identischer Bilddatei und Copy. Am längsten lief vorher 145443340 mit 37 Tagen; das Bild von 182988109 lief vorher nur 8 Tage (145443335). Alle 4 stehen heute auf Score 1 (Testing).
+- **Copy-Bild-Widerspruch bei 182988112:** Die Copy rät, die Größe wie das eigene Bett zu wählen. Das Bild empfiehlt Paaren mit Doppelbett die Größe King (Upsell).
+- **Alters-Angle nur im Bild bei 173929415:** "as you get older" steht im Bild, die Copy erwähnt das Alter nicht.
+- **Veraltetes Trustpilot-Badge in der US-Ad 182988038:** Es zeigt "TrustScore 4.7 | 193 reviews". Stand 08.10. sind es 291 Bewertungen und TrustScore 4,8. Die Reviews stammen überwiegend aus GB.
+- **Tippfehler** im Primärtext von 182988040: "kip the laundromat" (das "S" fehlt).
+- **Wording-Mix in der US-Serie:** "Comforter" in Headlines, Copy und den Bildern 182988040, 182988034, 183445651, 182988037 und 182988038 ("MEET EASYREST™ COMFORTER"). "Duvet" in den Bildern 182988033 ("Why Do Duvets Have Outfits?", "Duvet + Cover in One"), 182988039 ("Traditional Duvet") und 182988038 ("DUVET + COVER | ALL-IN-ONE").
+- **Steppmuster uneinheitlich:** Meist Rautensteppung. 178011633 zeigt Kastensteppung, 182988112 und 182988109 zeigen Rauten-/Gittersteppung. Welches Muster das reale Produkt hat, ist nicht verifiziert.
+- **Produktfarben in diesem Batch:** Blau/Stahlblau, Orange/Rost, Mint, Rot (182988112), Sand/Beige, Anthrazit, Taupe/Mokka, Graublau. Offizielle Farbnamen nennt kein Bild; Zuordnungen sind nicht verifiziert.
+- **KI-Herkunft:**
+  - Verifiziert nur bei 182988112 (XMP: `trainedAlgorithmicMedia`, "Made with Google AI").
+  - 3 PNGs ohne Metadaten: 173929415, 178011633, 182988109.
+  - 11 JPEGs (JFIF) ohne Tool-Metadaten: die gesamte US-Serie.
+  - Bei 182988033, 182988031 und 182988029 wirkt der Bildstil KI-typisch (Eindruck, nicht verifiziert).
+  - `get_ad` liefert bei allen 15 Ads `ai_badge: null`. Das ist laut GetHooked **keine** Aussage "von Menschen gemacht".
+- **Kein einziges Angebot in der US-Serie.** Die GB-Ads 173929415 und 178011633 nennen im Bild "2 free pillow cases" und "90-night (sleep) trial".
+
+##### Hygiene-Zitate Statics Batch 3
+
+**Milben (mites):** In keinem der 15 Statics erwähnt, weder im Bild noch in Headline, Primärtext oder Link-Beschreibung.
+
+**Bakterien/Keime/Allergie (bacteria/germs/allergy):** In keinem der 15 Statics erwähnt.
+
+**Schweiß (sweat):** In keinem der 15 Statics erwähnt.
+
+**Waschen (ganze Decke, zu Hause, Maschine)**
+- Bilder:
+  - 182988040: "Your Comforter Shouldn’t / Need A Field Trip.", "EASYREST™ IS DESIGNED TO WASH RIGHT AT HOME", "Fully Machine Washable", "No Separate Cover". Motiv: Hände stecken die ganze Decke in die Waschmaschine.
+  - 182988034: "WASH" → "DRY" → "BACK ON BED". Motiv: Waschmaschine, Wäscheständer, Bett.
+  - 182988039: "REMOVE ↓ WASH ↓ DRY ↓ FIND CORNERS ↓ STUFF ↓ SHAKE ↓ TIE ↓ BED" (Traditional Duvet) vs. "WASH ↓ DRY ↓ BED" (Pleene.)
+  - 182988033: "Wash the Whole Thing"
+  - 182988031: "The Best / Part Of / Laundry / Day?" / "Getting into bed."
+- Headlines:
+  - 182988032: "Wash. Dry. Done."
+  - 182988040: "Clean Bedding, Made Easier"
+  - 182988039: "Fewer Steps. Fresher Bed."
+- Primärtexte:
+  - 173929415: "✓ The whole duvet goes in your normal washing machine"
+  - 178011633: "the whole duvet still goes in your washing machine, dry in 2 hours."
+  - 182988040: "kip the laundromat and dry cleaner. EasyRest™ is fully machine washable and designed to wash right at home, so keeping your whole comforter fresh is simpler."
+  - 182988039: "Wash. Dry. Back on the bed. EasyRest™ cuts out the extra steps of traditional bedding with one machine-washable comforter and built-in cover."
+  - 182988034: "Clean bedding doesn’t need a complicated routine. Pleene EasyRest™ is a machine-washable comforter you can wash, dry and put straight back on."
+  - 182988033: "EasyRest™ combines the comforter and cover into one washable piece."
+  - 182988032: "Why spend laundry day stuffing a comforter back into its cover? The Pleene EasyRest™ Comforter gives you an all-in-one, machine-washable routine."
+  - 182988031: "Get to the best part of laundry day faster. Wash your Pleene EasyRest™ Comforter, dry it fast, and lay it straight back on the bed to enjoy that fresh-bed feeling."
+  - 182988042: "Pleene EasyRest™ is a machine-washable comforter with no separate cover to wrestle with."
+  - 182988029: "Clean bedding shouldn’t feel like a workout. Pleene EasyRest™ is machine washable, with no separate cover to stuff, shake, or zip."
+  - 183445651 und 182988037: "Clean bedding shouldn't feel like a wrestling match."
+- Link-Beschreibungen:
+  - 182988040: "Wash. Dry. Done."
+  - 182988034: "Wash. Dry. Back to bed."
+  - 182988031: "Fresh bedding, less work."
+
+**Trocknen**
+- Bild 182988040: "Air Dries in 2 Hours"
+- Bild 182988034: "DRY", dazu die Decke auf einem Wäscheständer (Lufttrocknung)
+- Bild 182988039: "DRY" in beiden Spalten
+- Primärtext 173929415: "✓ Dry in 2 hours, no tumble dryer"
+- Primärtext 178011633: "dry in 2 hours"
+- Primärtext 182988031: "dry it fast"
+- Primärtexte 182988039 und 182988034: "Wash. Dry. …" bzw. "wash, dry and put straight back on"
+
+**Temperatur/Wärme**
+- Bild 178011633: ~~"Warm means heavy."~~ "Not any more. / Properly warm, / never heavy."
+- Headline 178011633: "Properly Warm, Never Heavy"
+- Primärtext 178011633: "A light duvet can't keep you warm in winter." We hear it every autumn, and it's wrong. Climate-regulating fibres keep you properly warm without the heavy feeling"
+- Sonst keine Temperatur-Aussagen (kein Tog, nicht kühlend, kein Nachtschweiß).
+
+**Einordnung:** Hygiene steht in diesem Batch nur als "waschbar/frisch/clean bedding" im Vordergrund. Belege dafür sind 182988040 (A als Hauptangle), 182988034, 182988039 und die Copy der US-Serie. Gesundheits- und Hygieneargumente im engeren Sinn (Milben, Bakterien, Schweiß, Allergie) fehlen vollständig.
+
+##### Kurz-Tabelle Statics Batch 3
+
+| ID | Headline | Bildtext-Kern | Motiv | Angle | Format-Typ | Tage | Score |
+|---|---|---|---|---|---|---|---|
+| 173929415 | Myth vs Truth 🛏️ | "~~MYTH:~~ Making the bed has to be a struggle as you get older. TRUTH: … takes seconds — and no wrestling. ✓ + 2 free pillow cases ✓ 90-night sleep trial" | Farbstapel Blau/Orange/Mint (keine Person) | Bild C + E + F-Angebot / Copy C + A | Myth-Busting + Produktfoto (GB, Relaunch) | 31 | 1 |
+| 178011633 | Properly Warm, Never Heavy | "~~Warm means heavy.~~ Not any more. Properly warm, never heavy. ✓ 2 Free Pillow Cases ✓ 90-Night Trial" | Farbstapel mit Kastensteppung (keine Person) | B (+F-Einwand, F-Angebot; Copy + A) | Myth-Busting + Produktfoto (GB, Relaunch) | 24 | 1 |
+| 182988112 | What bed have you got? | "Still fighting over the duvet at 3am? … Sharing a double bed? Take the King — 230 × 230" | Rotes Bett im Kreis (KI: "Made with Google AI") | Bild F-Paare/Größe + C / Copy F-Kaufhilfe | Problem-Hook + Größen-Liste (GB, Relaunch) | 16 | 1 |
+| 182988109 | What bed have you got? | "“But which size do I need?” … Single 140 × 200 · Double 200 × 200 · King 230 × 230" | Mint-Bett im Kreis (keine Person) | F-Einwand/Kaufhilfe + C | Einwand-/Größen-Infografik (GB, Relaunch) | 16 | 1 |
+| 182988038 | Simplify Your Bedding Routine | "Throw it on. Move on. – MEET EASYREST™ COMFORTER – DUVET + COVER \| ALL-IN-ONE – TrustScore 4.7 \| 193 reviews" | Frau ca. 55–65 schüttelt blaue Decke aus | C + F-Social-Proof | Lifestyle-Demo + Trustpilot-Badge (US) | 16 | 1 |
+| 183445651 | Skip the Cover | "Still Wrestling With Comforter Covers?" | Frau ca. 40–50 stopft Decke in salbeigrünen Bezug | C | Pain-Point-Lifestyle 9:16 (Land leer, vermutl. US) | 15 | 1 |
+| 182988042 | No Assembly Required | "Bedding Shouldn’t Need Assembly" | Graustufen Inlett + Bezug vs. Farbstapel (keine Person) | C (+A Copy) | Us-vs-Them (US) | 15 | 1 |
+| 182988040 | Clean Bedding, Made Easier | "Your Comforter Shouldn’t Need A Field Trip. – EASYREST™ IS DESIGNED TO WASH RIGHT AT HOME – Fully Machine Washable \| Air Dries in 2 Hours \| No Separate Cover" | Hände stecken blaue Decke in Waschmaschine | A (+C) | Lifestyle-Demo + Benefit-Leiste (US) | 15 | 1 |
+| 182988039 | Fewer Steps. Fresher Bed. | "Does your bedding have too many steps? REMOVE…TIE…BED vs. WASH DRY BED" | Unordentliches vs. gemachtes Bett, Anthrazit (keine Person) | C + A | Us-vs-Them-Prozessvergleich (US) | 15 | 1 |
+| 182988037 | Skip the Cover | "Still Wrestling With Comforter Covers?" | = 183445651, 1:1 | C | Pain-Point-Lifestyle 1:1 (US) | 15 | 1 |
+| 182988034 | Simplify Your Bedding Routine | "One Comforter. One Easy Routine. WASH → DRY → BACK ON BED" | 3 Fotos: Waschmaschine, Wäscheständer, Bett | A + C | 3-Schritt-Prozess-Infografik (US) | 15 | 1 |
+| 182988033 | Skip The Duvet Cover | "Why Do Duvets Have Outfits? … ✓ No Stuffing or Tying ✓ Wash the Whole Thing" | Paar ca. 55–65 schläft unter anthrazitfarbener Decke (KI-Look) | C + A | Lifestyle + Benefit-Leiste (US) | 15 | 1 |
+| 182988032 | Wash. Dry. Done. | "The Old Way: Stuff. Shake. Struggle. / The Pleene Way: Lay It On. Done." | Frau ca. 25–35, gleiche Person vorher/nachher | C (+A Headline) | Us-vs-Them / Vorher-Nachher (US) | 15 | 1 |
+| 182988031 | Straight Back On The Bed | "The Best Part Of Laundry Day? Getting into bed." | Frau ca. 60–70 lächelt neben taupefarbenem Bett (KI-Look) | C + A | Lifestyle + Frage-Hook (US) | 15 | 1 |
+| 182988029 | Take The Work Out Of Bedding | "MAKE YOUR BED. Without the Workout." | Frau ca. 60–70 streicht graublaue Decke glatt (KI-Look) | C + E | Lifestyle + Wortspiel (US) | 15 | 1 |
+
+Vollständigkeitsprüfung: 15 von 15 Ads erfasst (173929415, 178011633, 182988112, 182988109, 182988038, 183445651, 182988042, 182988040, 182988039, 182988037, 182988034, 182988033, 182988032, 182988031, 182988029). Reichweite und Spend: n/a für alle 15.
+
+
+### Teil 2 – Creative-Analyse Statics, Batch 4 (15 Ads: 14 Einzelbild, 1 DCO)
+
+Stand: 2026-10-08. Marke Pleene (brand_id 7553008). Der Batch enthält 14 Einzelbild-Ads (`display_format: image`, je 1 Medium) und 1 DCO-Ad (186893864, 3 Karten). Karussells gibt es in diesem Batch nicht.
+
+**Quellen und Methode**
+- Bilder angesehen über `get_ad_media`: je 4 Ads pro Aufruf, die DCO-Ad einzeln mit allen 3 Karten. Vorschau mit 768 px.
+- Zusätzlich `get_ad` für alle 15 Ads. Daraus stammen Länder, Sprache, Link-Beschreibung, Plattformen, `ai_badge` und `creative_insights`.
+  - `ai_badge`: bei allen 15 Ads null. Das heißt "kein Badge" und ist **keine** Aussage "nicht KI".
+  - `creative_insights`: bei allen 15 Ads null.
+- Originale über den GetHooked-Share-Endpunkt `/api/get-shared-ad/<id>?signature=…` geladen (signierte static-URL). Ablage: `wf/img/<id>.jpg`.
+  - Bei PNG-Originalen liegt zusätzlich `<id>.png` daneben (185228774, 185228765).
+  - Die DCO-Karten liegen als `186893864.jpg`, `_1.jpg` und `_2.jpg` ab.
+  - Share-JSON: `wf/s2s4_api/`, Skripte: `wf/s2s4_scripts/`, Ausschnitte: `wf/s2s4_crops/`.
+- Kleinschrift (Badges, Zitatboxen, Logo-Boxen) habe ich in Ausschnitten der Originalauflösung geprüft.
+- Bilddateien habe ich per md5 und Pixelvergleich gegen die Bilder aus Batch 1 abgeglichen. Außerdem habe ich auf C2PA-, Software- und KI-Marker geprüft: **keine Treffer**. Alle JPEGs sind neu kodiert (JFIF), die PNGs haben keine Textfelder. Fehlende Marker beweisen deshalb nichts.
+- Bildtext steht wörtlich im englischen Original. Zeilenumbrüche im Bild sind als " / " markiert.
+- **Reichweite/Spend:** GetHooked liefert für GB keine Werte, deshalb überall n/a. Ersatzsignale sind Tage, Score und used_count. Score aus Inventar, `get_ad` und Share-JSON sind bei allen 15 Ads identisch: 1 (Testing).
+- Das Share-JSON enthält zusätzlich `impressions_with_index` ("<100" bzw. leer). Die Bedeutung ist nicht dokumentiert, deshalb werte ich das Feld nicht als Reichweite (nicht verifiziert).
+- **Primärtext:** Die Texte dieses Batches sind kurz und stehen hier vollständig. T-Nummern verweisen auf `wf/s1_inventar.md`.
+- **Alter von Personen** ist immer eine Schätzung nach Augenschein.
+- **Ob ein Bild KI-generiert ist, ist bei keiner Ad verifiziert.** Wo ich "KI-Anmutung" schreibe, beruht das nur auf visuellen Indizien.
+
+**Kurzbefund Batch 4 (Details unten)**
+1. **13 von 15 Ads laufen laut `get_ad` in den USA (`countries: ["US"]`)**, alle mit LP `/products/easyrest-comforter`:
+   - 182988027 und 182988024 starteten am 24.09.
+   - Die 11 Ads 1868938xx starteten am 29.09.
+   - **Nur 185228774 und 185228765 laufen laut `get_ad` in GB** (LP `/products/easyrest`). Beide nutzen bereits bekannte Bilder: einen Winner aus Batch 1 und das Super-King-Bild.
+   - Ob Pleene über Meta tatsächlich nur auf die USA zielt, ist nicht verifiziert. Quelle ist allein das GetHooked-Feld `countries`.
+2. **Neuer Themen-Cluster "Selbstständigkeit im Alter" (F) plus Beziehen (C):** Alle 13 US-Ads zeigen Personen von ca. 45 bis 75 Jahren: 11 Frauen-Motive und 2 Ads mit demselben Mann-Foto. Die Headlines sind Ich-Statements: "I CAN STILL DO THIS.", "Still making my own bed, thank you.", "MY BED. MY WAY.", "YOU’VE GOT THIS.", "Who Said Changing Your Bed Has To Take Two?".
+3. **Hygiene kommt nur als Wasch- und Trocknungskomfort vor.** Milben, Bakterien und Schweiß werden in Bild und Copy von Batch 4 **kein einziges Mal** erwähnt (siehe Hygiene-Zitate).
+4. **Zwei Testimonials im Bild:**
+   - "Louise" (182988027): Das Zitat stammt aus einer echten Bewertung. Sie hat auf Trustpilot jedoch **4 Sterne** und ist dort `not-verified` (T166). Im Bild steht "★★★★★ Louise | Verified Customer".
+   - "Margaret, 67" (186893873): Das Zitat steht so auf den Produktseiten, kommt aber in keiner der erfassten Bewertungen vor. Herkunft nicht verifiziert.
+5. **Alle 15 Ads haben Score 1 (Testing).** Performance-Unterschiede sind daraus nicht ablesbar.
+
+---
+
+#### Static 182988027 – Warmth Without The Weight
+
+- **Headline:** "Warmth Without The Weight"
+- **Primärtext (vollständig, Einzeltext):** "Cozy doesn’t have to mean heavy. EasyRest™ combines lightweight comfort with temperature regulation to keep you comfortable through every season."
+- **Link-Beschreibung:** "Comfort for every season"
+- **Gesamter Bildtext (wörtlich):**
+  - Logo-Box oben links: "Pleene."
+  - Weißes Label: "MEET EASYREST™"
+  - Rundes Badge mit Icon (halb Sonne, halb Schneeflocke, diagonal geteilt): "TEMPERATURE / REGULATING"
+  - Headline: "Light on you. / Big on warmth." (zweite Zeile kursiv)
+  - Zitat: "“I feel it is light, but I don’t feel cold at night.”"
+  - "★★★★★ Louise | Verified Customer"
+- **Bildmotiv:**
+  - **Person ja: Frau, ca. 55–65 Jahre, blond.** Sie lächelt in die Kamera und hält eine salbeigrüne Steppdecke mit Rautensteppung hoch.
+  - Die Szene ist ein reales Schlafzimmer: Fenster rechts, Heizkörper, Bett mit weißem Bettzeug.
+  - **Smartphone-/UGC-Foto-Anmutung**, im unteren Drittel eine Grafik-Bauchbinde.
+  - **Dieselbe Frau und derselbe Raum wie in 186893846**, aber eine andere Aufnahme (Gesichtsvergleich in `wf/s2s4_crops/cmp_louise_faces.jpg`).
+  - Ob die abgebildete Frau die Rezensentin "Louise" ist, ist nicht verifiziert.
+- **Abgleich Testimonial:** Das Zitat ist ein wörtlicher Ausschnitt einer echten Bewertung (`wf/reviews_all.json`):
+  - **Trustpilot T166**, 11.09.2026, Reviewer "Louise", **4 Sterne**, Land CY, `verification_level: not-verified`. Volltext: "Well, I  ordered 2 Pleene quilts. One each for my husband and me. I feel it is light, but I don't feel cold at night. My husband likes a heavy quilt, but he hasn't complained, so  I  think we are on a winner. However, we  have not washed them yet! So if I have any issues, I will update it."
+  - **Judge.me J170**: textgleich, 5 Sterne, `verified_buyer: false`, Badge `review_collected_from_another_provider` (Import).
+  - **Befund:** Die Ad zeigt 5 Sterne und "Verified Customer". Laut erfassten Daten hat die Quelle 4 Sterne und keinen Verifizierungsstatus.
+- **Farbwelt:** Salbeigrün (Bauchbinde und Produkt), Weiß/Creme, Gold/Ocker (Logo-Box, Sterne, Badge-Icon), helles Wandbeige.
+- **Angebot:** keins, weder im Bild noch in der Copy.
+- **Angle:** **B** (Hauptangle: leicht, aber warm, "TEMPERATURE REGULATING") + **F-Social-Proof** (Kundenzitat). Die Copy ist reines **B** ("temperature regulation", "every season").
+- **Format-Typ:** Testimonial auf UGC-Foto mit Feature-Badge, 1:1.
+- **Metadaten:**
+  - Meta-ID 1789453228862663 · Start 2026-09-24 · **15 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1080 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/182988027?signature=9321cc0e170e1a68f3b963e4904fb45eec5f2859a60a5d4abc63285b6a3fcde3) · [Ad Library](https://www.facebook.com/ads/library/?id=1789453228862663)
+- **Familie:** Foto-Familie "Louise-Shooting" mit 186893846 (gleiche Person, gleicher Raum, andere Aufnahme).
+
+#### Static 182988024 – Wash More Than The Sheets
+
+- **Headline:** "Wash More Than The Sheets"
+- **Primärtext (vollständig, Einzeltext):** "You wash your sheets when they need a refresh. Why not your comforter too? Pleene EasyRest™ is fully machine washable, with no separate cover needed."
+- **Link-Beschreibung:** "The whole thing washes."
+- **Gesamter Bildtext (wörtlich):**
+  - Textbox: "Pleene."
+  - "Fresh Sheets?" (weinrot) / "Don’t Stop / There." (schwarz)
+  - "Wash the whole / comforter, too."
+  - Rundes braunes Badge unten links: "Air Dries / in 2 Hours"
+- **Bildmotiv:**
+  - Lifestyle-Szene in der Waschküche. **Person ja: Frau, ca. 60–70 Jahre**, langes graues Haar, beiger Grobstrickpullover.
+  - Sie zieht eine elfenbeinfarbene Steppdecke mit Rautensteppung aus einer Frontlader-Waschmaschine bzw. legt sie hinein. Ein Teil der Decke ist hinter dem Bullauge zu sehen.
+  - Im Hintergrund ein Holzregal mit gestapelten Handtüchern.
+  - Sehr glatte, gleichmäßig ausgeleuchtete Bildanmutung: **KI-Anmutung, nicht verifiziert**.
+  - Gleicher Persona-Typ (graues Langhaar, beiger Strickpulli) wie 186893844. Identität nicht verifiziert (`wf/s2s4_crops/cmp_grey_women.jpg`).
+- **Farbwelt:** Creme/Beige, Weinrot (Headline-Zeile 1), Schwarz, Schokobraun (Badge), Elfenbein-Produkt, helles Holz.
+- **Angebot:** keins.
+- **Angle:** **A** (Hauptangle: ganze Decke waschen, "Wash the whole comforter, too") + Trocknen ("Air Dries in 2 Hours"). Die Copy ist **A** + C ("no separate cover needed").
+- **Format-Typ:** Lifestyle-Demo (Waschmaschine) mit Hook-Frage in einer Textbox plus Claim-Badge. Hochformat 9:16.
+- **Metadaten:**
+  - Meta-ID 1104976622267074 · Start 2026-09-24 · **15 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1920 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/182988024?signature=eabd40dff7802187b5f63741ae4ea3e7cc7a4cd1ac89cf64689be1a3177bdf9f) · [Ad Library](https://www.facebook.com/ads/library/?id=1104976622267074)
+- **Familie:** Solo im Batch. Thematisch nah an 186893859 und 186893869 (Waschmaschinen-Szene mit älterer Frau) und an 182988043 aus Batch 1 ("Wash The Whole Comforter", US).
+
+#### Static 185228774 – Properly Warm, Never Heavy
+
+- **Headline:** "Properly Warm, Never Heavy"
+- **Primärtext (vollständig, Inventar T15):** "A light duvet can't keep you warm in winter." We hear it every autumn, and it's wrong. Climate-regulating fibres keep you properly warm without the heavy feeling, and the whole duvet still goes in your washing machine, dry in 2 hours." (Das öffnende Anführungszeichen fehlt im Original.)
+- **Link-Beschreibung:** "⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers"
+- **Gesamter Bildtext (wörtlich):**
+  - Rot durchgestrichen: "A light duvet can’t keep / you warm in winter."
+  - "Climate-regulating fibres / keep you properly warm. / Without the heavy feeling."
+  - "✓ 2 Free Pillow Cases"
+  - "✓ 90-Night Trial"
+  - Button: "Order now"
+- **Bildmotiv:** Produktfoto mit drei zusammengelegten Steppdecken übereinander (Rautensteppung) in Blau, Orange und Mint. Pfirsichfarbener Studiohintergrund. **Keine Person.**
+  - **Die Bilddatei ist byte-identisch mit 172403389** aus Batch 1 (md5 `5f211911…`, Pixel-Differenz 0). Laut Share-JSON liegt die Datei unter `ads_media/172403389/…`.
+  - KI-generiert: nicht verifiziert.
+- **Farbwelt:** Pfirsich/Creme, Schwarz, Rot (Durchstreichung), Produkte in Blau, Orange und Mint.
+- **Angebot:** Im Bild "2 Free Pillow Cases" und "90-Night Trial". Die Copy enthält kein Angebot.
+- **Angle:** **B** (Hauptangle: warm im Winter trotz leichter Decke) + **F-Einwand** (Mythos durchgestrichen) + **F-Angebot**. Die Copy ergänzt **A** ("whole duvet still goes in your washing machine, dry in 2 hours").
+- **Format-Typ:** Myth-Busting mit durchgestrichener Behauptung, dazu Produktfoto (Farbstapel). Hochformat 9:16.
+- **Metadaten:**
+  - Meta-ID 850494884758362 · Start 2026-09-27 · **12 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: GB** · Plattformen FB/IG/AN/Threads (ohne Messenger, anders als 172403389) · CTA "Shop now"
+  - Original 1143×2048 PNG
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/185228774?signature=6459312b29b8e015b00623a9c8704115adbc89d90290a12a406708f7e07ceba3) · [Ad Library](https://www.facebook.com/ads/library/?id=850494884758362)
+- **Familie:** Copy-Familie F2 "Properly Warm, Never Heavy" (T15) mit 172403389, 172760571, 173307160 und 178011633.
+  - **Kompletter Klon von 172403389:** gleiche Headline, Copy, Link-Beschreibung, LP und Bilddatei.
+  - 172403389 läuft seit 05.09. mit Score 100 (Winning). Der Klon startete am 27.09.
+  - Das deutet auf eine Duplizierung des Winners hin, etwa in eine neue Kampagne oder Anzeigengruppe. Das ist eine Interpretation und nicht verifiziert.
+
+#### Static 185228765 – Now In Super King
+
+- **Headline:** "Now In Super King"
+- **Primärtext (vollständig, Inventar T27):** "Our most requested size is finally here: the Pleene EasyRest in Super King (260 × 220 cm). Duvet and cover in one — and yes, even this one fits a normal washing machine."
+- **Link-Beschreibung:** "⭐️⭐️⭐️⭐️⭐️ – Over 10,000 Happy Customers"
+- **Gesamter Bildtext (wörtlich):**
+  - "Our most requested / size is finally here."
+  - "Now in Super King — 260 × 220 cm."
+  - "▲ The cover is sewn in — no cover fight."
+  - "▲ Fits your machine at home."
+  - "▲ Dry in 2 hours."
+  - "Duvet and cover in one."
+- **Bildmotiv:** Ankündigungs-Grafik. Kreisrunder Bildausschnitt mit einem Bett in mintgrüner Steppdecke (**Kasten-/Karosteppung**, nicht Raute) und 2 Kissen, dazu ein handgezeichneter Schnörkel-Pfeil. Creme-Hintergrund mit dünnen Trennlinien. **Keine Person.**
+  - **Die Bilddatei ist byte-identisch mit 182988119 und 180646058** aus Batch 1 (md5 `e277ab26…`). Laut Share-JSON liegt sie unter `ads_media/157492463/…`, stammt also von der inaktiven Ur-Ad 157492463 (25.08. bis 28.09., 35 Tage, gleiche Headline und Copy T27).
+  - KI-generiert: nicht verifiziert.
+- **Farbwelt:** Creme/Off-White, Schwarz, Mintgrün.
+- **Angebot:** keins, weder im Bild noch in der Copy.
+- **Angle:** **F-Neuheit/Größe** (Hauptangle) + **C** ("no cover fight") + **A** ("Fits your machine at home", "Dry in 2 hours"). Die Copy ist F-Neuheit/Größe + A ("fits a normal washing machine").
+- **Format-Typ:** Neuheit/Größen-Launch als Ankündigung mit Bullet-Liste und Produktfoto im Kreis. Hochformat 9:16.
+- **Metadaten:**
+  - Meta-ID 1107581421667412 · Start 2026-09-27 · **12 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: GB** · Plattformen FB/IG/AN/Threads · **CTA "Order now"** (ORDER_NOW, als einzige im Batch)
+  - Original 1143×2048 PNG
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/185228765?signature=fdc1176605c0f19ad51f2626b448a5fdfb307d0143360d07311941417feb5d0b) · [Ad Library](https://www.facebook.com/ads/library/?id=1107581421667412)
+- **Familie:** Copy-Familie T27 "Now In Super King" (5 Ads, nur diese ist aktiv; inaktiv sind 157492463, 157492481, 157492487 und 185228748).
+  - Bild-Duplikat "Super King" mit 182988119 (Copy T02) und 180646058 (Copy T29, seit 07.10. inaktiv).
+  - **Relaunch der Ur-Ad 157492463:** gleiche Headline, Copy und Bilddatei. Start 27.09., einen Tag vor deren letzter Sichtung (28.09.).
+  - Hier passen Headline, Copy und Bild zusammen, anders als bei 182988119 und 180646058.
+
+#### Static 186893864 – n/a (DCO ohne Headline)
+
+- **Headline:** n/a (`title` null, auch auf Kartenebene)
+- **Primärtext:** n/a (`body` leer, Karten-`body` null, `caption` leer)
+- **Link-Beschreibung:** n/a
+- **Medien:** 3 DCO-Karten (Media-IDs 495039932, 495318116, 495926800, Card-IDs 475654655, 475654659, 475654661). **Alle 3 Dateien sind byte-identisch** (md5 `29b9e1ad…`, 1080×1028), obwohl Karte 3 unter einem anderen Pfad liegt. Alle Karten haben CTA "Shop Now" und LP `/products/easyrest-comforter`.
+- **Gesamter Bildtext (wörtlich, auf allen 3 Karten gleich):**
+  - "Retire The Cover." (navy) / "Not The Comfort." (dunkelbraun)
+  - Fußbereich: "Pleene." / "Comforter + cover in one."
+- **Bildmotiv:** Lifestyle-Schlafszene. **Person ja: Mann, ca. 60–70 Jahre**, graues Haar, schläft seitlich unter einer beige-taupefarbenen Steppdecke mit großer Rautensteppung. Helles Schlafzimmer mit Vorhang, weiches Gegenlicht.
+  - Das Bild steckt in einem Rahmen mit abgerundeten Ecken und dunkler Kontur auf cremefarbenem Grund.
+  - Polierte Studio-Anmutung: **KI-Anmutung, nicht verifiziert**.
+- **Farbwelt:** Creme/Pfirsich (Rand), Beige/Taupe, Navy und Dunkelbraun (Schrift), Weiß.
+- **Angebot:** keins.
+- **Angle:** **C** (Bezug abschaffen). "Retire" ist zugleich ein Wortspiel auf den Ruhestand und spricht damit eine ältere Zielgruppe an (F-Selbstständigkeit im Alter, Interpretation).
+- **Format-Typ:** Lifestyle mit Wortspiel-Headline (Kontrastpaar "Cover / Comfort"). DCO-Hülle mit 3 identischen Bildern und ohne Text.
+- **Metadaten:**
+  - Meta-ID 1196771192793545 · Start 2026-09-29 · **10 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: US** · Sprache laut get_ad: null · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/186893864?signature=c4d30ed8926495e9042192d8622fb23ae265cf0b993d757bbe63f57af5595106) · [Ad Library](https://www.facebook.com/ads/library/?id=1196771192793545)
+- **Familie:** Layout-Familie "Schlafender Mann" mit 186893862: identische Vorlage und identisches Foto, nur die Headline wechselt ("Retire The Cover. Not The Comfort." bzw. "The Cover Can Go. The Comfort Stays.").
+- **Hinweis:** GetHooked hat bei der DCO-Ad keinen Text erfasst. Ob Meta hier Text-Varianten ausspielt, ist nicht verifiziert.
+
+#### Static 186893878 – Bedding Made For Your Routine
+
+- **Headline:** "Bedding Made For Your Routine"
+- **Primärtext (vollständig, Einzeltext):** "A fresh bed shouldn’t mean waiting for a helping hand. Pleene EasyRest™ combines the duvet and cover into one lightweight, machine-washable piece, so you can change your bed all by yourself."
+- **Link-Beschreibung:** "No separate duvet cover"
+- **Gesamter Bildtext (wörtlich):**
+  - "Pleene." (weiß, oben mittig)
+  - "YOU’VE GOT THIS."
+  - Halbtransparente Box rechts mit drei Icons: [Waschmaschine] "WASH IT" / [Wäsche mit Tropfen] "DRY IT" / [Bett] "PUT IT BACK"
+  - Orange Bauchbinde: "No separate duvet cover. No extra hands needed."
+- **Bildmotiv:** **Person ja: Frau, ca. 45–55 Jahre**, schulterlanges braun-blondes Haar, beige Strickjacke. Sie kniet auf dem Bett und breitet eine salbeigrüne Steppdecke mit Rautensteppung aus.
+  - Echte Wohnumgebung: Fenster mit Jalousie, Nachttisch mit Familienfotos, Kerze, Wecker.
+  - **Smartphone-/UGC-Foto-Anmutung.**
+- **Farbwelt:** Grau-Beige (Raum), Salbeigrün (Produkt), Dunkelbraun (Headline, Icons), Orange/Ocker (Bauchbinde), Weiß.
+- **Angebot:** keins.
+- **Angle:** **F-Selbstständigkeit im Alter** (Hauptangle: "No extra hands needed", "YOU’VE GOT THIS.") + **C** ("No separate duvet cover") + **A** ("WASH IT / DRY IT"). Die Copy sagt dasselbe ("waiting for a helping hand", "all by yourself").
+- **Format-Typ:** UGC-Foto mit 3-Schritte-Infografik (Icons) und Bauchbinde.
+- **Metadaten:**
+  - Meta-ID 28612939431667546 · Start 2026-09-29 · **10 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1028 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/186893878?signature=f232a426903d049b7b06b46c06d250fb7eea59242595dbbbfb87042d99c66827) · [Ad Library](https://www.facebook.com/ads/library/?id=28612939431667546)
+- **Familie:** Claim-Familie "Wash it. Dry it. Put it back." mit 186893869 (gleiches Icon-Set), 186893873 und 186893867.
+
+#### Static 186893875 – Your Bed. Your Way.
+
+- **Headline:** "Your Bed. Your Way."
+- **Primärtext (vollständig, Inventar T68):** "Still doing things your way? Pleene EasyRest™ makes it easier to keep your bedding routine yours, with a duvet and cover in one simple, machine-washable piece."
+- **Link-Beschreibung:** "Bedding made simpler"
+- **Gesamter Bildtext (wörtlich):**
+  - Siebenmal untereinander "STILL DOING IT MYSELF." Die 4. Zeile ist dunkelgrün hervorgehoben, die übrigen sind blass salbeigrün.
+  - Goldene Logo-Box: "Pleene."
+  - "Still making my own bed, / thank you."
+  - Olivgrüner Balken: "No duvet cover to wrestle. No helping hand required."
+  - "Meet the EasyRest™ Comforter."
+- **Bildmotiv:** **Person ja: Frau, ca. 65–75 Jahre**, hellblonder bzw. grauer Bob, grauer Pullover. Sie beugt sich vor einem offenen Kleiderschrank über das Bett.
+  - Im Vordergrund eine mintgrüne Steppdecke in Großaufnahme.
+  - Die Steppung wirkt uneinheitlich: oben links Rautenlinien, unten ein Kastenraster. Das ist ein Hinweis auf eine Bildmontage aus zwei Fotos (nicht verifiziert).
+  - UGC-Foto-Anmutung.
+- **Farbwelt:** Mint/Salbeigrün, Olivgrün, Gold (Logo-Box), Weiß, Grau.
+- **Angebot:** keins.
+- **Angle:** **F-Selbstständigkeit im Alter** (Hauptangle) + **C** ("No duvet cover to wrestle"). Die Copy ist F-Selbstständigkeit + A-Anklang ("machine-washable").
+- **Format-Typ:** Typo-Wiederholung als Hook plus Ich-Statement mit UGC-Foto (Collage-Anmutung).
+- **Metadaten:**
+  - Meta-ID 2350297945720190 · Start 2026-09-29 · **10 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1080 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/186893875?signature=eb76cbb5770c4d86cb5e4bb7bf79451829587405bd54863dd53422787d2c7971) · [Ad Library](https://www.facebook.com/ads/library/?id=2350297945720190)
+- **Familie:** Copy-Familie T68 "Your Bed. Your Way." mit 200490720 (anderer Batch, Start 06.10.). Die Headline "Your Bed. Your Way." taucht als Bildtext "MY BED. MY WAY." bei 186893867 wieder auf.
+
+#### Static 186893873 – Meet The One-Piece Comforter
+
+- **Headline:** "Meet The One-Piece Comforter"
+- **Primärtext (vollständig, Einzeltext):** "Tried, trusted, and loved by hundreds of customers, Pleene makes changing the bed alone simpler. With a lightweight, machine-washable duvet and built-in cover, you can leave the bedding struggle behind."
+- **Link-Beschreibung:** "Built-in cover, less fuss"
+- **Gesamter Bildtext (wörtlich):**
+  - "No More Fighting / The Corners"
+  - Petrolfarbene Zitatbox: "At my age, wrestling a duvet into its / cover was such a struggle. This is an / absolute godsend! I can make my bed / on my own again.”" Das öffnende Anführungszeichen fehlt im Bild, das schließende ist vorhanden.
+  - "— Margaret, 67 ★★★★★"
+  - "Pleene." / "Wash it. Dry it. Put it back."
+- **Bildmotiv:** **Person ja: Frau, ca. 60–70 Jahre** (laut Bild "67"), grauer Bob, Brille. Sie hält eine jeansblaue Steppdecke mit Rautensteppung frontal hoch und lächelt.
+  - Echtes Schlafzimmer: Holzbett, Bücherregal, Heizkörper, Teddy.
+  - UGC-Foto-Anmutung.
+- **Abgleich Testimonial:**
+  - Das Zitat steht fast wortgleich auf den Produktseiten als "✓ Verified"-Karte (laut `wf/s3_funnel.md`):
+    - `/products/easyrest`: "… absolute godsend — I can make my bed on my own again."
+    - `/products/easyrest-comforter`: "wrestling a comforter into its cover".
+  - Der Bildtext weicht von beiden ab ("godsend! I").
+  - In keiner der erfassten Trustpilot- und Judge.me-Bewertungen gefunden. **Herkunft nicht verifiziert.**
+  - Ob die abgebildete Frau "Margaret" ist: nicht verifiziert.
+- **Farbwelt:** Jeansblau (Produkt), Petrol/Türkis (Zitatbox), Creme (Fußfläche), Schwarz.
+- **Angebot:** keins.
+- **Angle:** **F-Social-Proof** (Hauptangle: Testimonial mit Alter) + **C** ("Fighting The Corners", "wrestling a duvet") + **E** ("At my age") + **F-Selbstständigkeit im Alter** ("on my own again") + A-Anklang ("Wash it. Dry it."). Die Copy ist F-Social-Proof + C.
+- **Format-Typ:** Testimonial (Zitat mit Name, Alter und Sternen) auf UGC-Foto.
+- **Metadaten:**
+  - Meta-ID 1400490411791512 · Start 2026-09-29 · **10 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1028 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/186893873?signature=6e5233b7a44d6f4c0b6241fe5a5dfd8bc67078473f1ca4dfa8733b675916b722) · [Ad Library](https://www.facebook.com/ads/library/?id=1400490411791512)
+- **Familie:** Claim-Familie "Wash it. Dry it. Put it back." mit 186893878, 186893869 und 186893867.
+- **Auffällig:** Die Copy sagt "loved by hundreds of customers", die GB-Ads sagen "Over 10,000 Happy Customers".
+
+#### Static 186893869 – Fresh Bed, Fewer Steps
+
+- **Headline:** "Fresh Bed, Fewer Steps"
+- **Primärtext (vollständig, Einzeltext):** "Still want to make your own bed? Pleene EasyRest™ keeps the duvet and cover together in one lightweight piece, so there’s less to handle when it’s time to wash and remake your bed."
+- **Link-Beschreibung:** "Skip the cover shuffle"
+- **Gesamter Bildtext (wörtlich):**
+  - "I CAN STILL DO THIS."
+  - Navy-Leiste mit drei Icons: [Waschmaschine] "WASH IT" / [Wäsche mit Tropfen] "DRY IT" / [Bett] "PUT IT BACK"
+  - "Pleene." / "Comforter + cover in one."
+- **Bildmotiv:** Lifestyle-Szene in einer Waschküche mit Landhausküche, Weidenkörben und Fenster. **Person ja: Frau, ca. 65–75 Jahre**, kurzes graues Haar, blauer Zopfmusterpullover und blaue Hose. Sie schiebt eine weinrote Steppdecke in eine Frontlader-Waschmaschine.
+  - Warmes Seitenlicht, sehr gleichmäßige Oberflächen: **KI-Anmutung, nicht verifiziert**.
+  - **Dasselbe Foto wie 186893859**, dort anders beschnitten.
+- **Farbwelt:** Warmes Holz und Creme, Weinrot (Produkt), Blau (Kleidung), Navy (Icon-Leiste), Dunkelbraun (Headline).
+- **Angebot:** keins.
+- **Angle:** **F-Selbstständigkeit im Alter** (Hauptangle: "I CAN STILL DO THIS.") + **A** ("WASH IT / DRY IT", Waschmaschine) + **C** ("Comforter + cover in one"). Die Copy ist F-Selbstständigkeit + C.
+- **Format-Typ:** Lifestyle-Demo mit Ich-Statement-Headline und 3-Schritte-Icons.
+- **Metadaten:**
+  - Meta-ID 1096087780074941 · Start 2026-09-29 · **10 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1028 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/186893869?signature=b35e84823f3c3e06bdd64e526557f5aa8adc0cf618dd1681d566efefe923a169) · [Ad Library](https://www.facebook.com/ads/library/?id=1096087780074941)
+- **Familie:** Foto-Familie "Waschküchen-Seniorin" mit 186893859 (gleiches Foto, anderes Layout). Claim-Familie "Wash it. Dry it. Put it back." mit 186893878 (identisches Icon-Set), 186893873 und 186893867.
+
+#### Static 186893867 – A Duvet That Works For You
+
+- **Headline:** "A Duvet That Works For You"
+- **Primärtext (vollständig, Einzeltext):** "Keep changing your bedding by yourself, without the extra fuss. Pleene EasyRest™ combines the duvet and cover into one simple piece that’s easy to fit and care for."
+- **Link-Beschreibung:** "Comforter + cover in one"
+- **Gesamter Bildtext (wörtlich):**
+  - Dunkelbraune Logo-Box oben rechts: "Pleene."
+  - "MY BED. MY WAY."
+  - "Just wash, dry and put it back on."
+- **Bildmotiv:** **Person ja: Frau, ca. 45–55 Jahre**, schulterlanges braunes Haar, hellgraues Langarmshirt. Sie breitet lächelnd eine taupe- bzw. mokkafarbene Steppdecke mit Rautensteppung über ein Holzbett.
+  - Helles Schlafzimmer mit Fenster, Eukalyptuszweigen und Grünpflanze.
+  - Das Foto hat unten eine abgerundete Wellenkante.
+  - Polierte Stock-Anmutung: **KI-Anmutung, nicht verifiziert**.
+- **Farbwelt:** Taupe/Mokka (Produkt), Weiß, Dunkelbraun (Schrift, Logo-Box), Salbeigrün (Pflanzen), helles Holz.
+- **Angebot:** keins.
+- **Angle:** **F-Selbstständigkeit** (Hauptangle: "MY BED. MY WAY.") + **A** ("Just wash, dry") + **C** ("put it back on"). Die Copy ist F-Selbstständigkeit ("by yourself") + C.
+- **Format-Typ:** Lifestyle mit Ich-Statement-Headline.
+- **Metadaten:**
+  - Meta-ID 1744189879967996 · Start 2026-09-29 · **10 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1028 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/186893867?signature=427fec70c06030c12582ea7afc5367a9381e9977011adcea03ef8367788f4ba2) · [Ad Library](https://www.facebook.com/ads/library/?id=1744189879967996)
+- **Familie:** Claim-Familie "Wash it. Dry it. Put it back." Der Bildtext greift die Headline von T68 auf ("Your Bed. Your Way.", 186893875).
+
+#### Static 186893862 – Bedding Without The Struggle
+
+- **Headline:** "Bedding Without The Struggle"
+- **Primärtext (vollständig, Inventar T44):** "No more hunting for corners or wrestling fabric into place. Pleene EasyRest™ keeps the duvet and cover together, making bedding simpler from wash to bed."
+- **Link-Beschreibung:** "No separate cover"
+- **Gesamter Bildtext (wörtlich):**
+  - "The Cover Can Go." (navy) / "The Comfort Stays." (dunkelbraun)
+  - "Pleene." / "Comforter + cover in one."
+- **Bildmotiv:** Identisch mit 186893864. **Person ja: Mann, ca. 60–70 Jahre**, schläft unter einer beigen Steppdecke mit Rautensteppung.
+  - Pixelvergleich mit 186893864: Abweichungen nur im Headline-Bereich, also gleiche Vorlage und gleiches Foto.
+  - KI-Anmutung, nicht verifiziert.
+- **Farbwelt:** wie 186893864: Creme/Pfirsich, Beige/Taupe, Navy und Dunkelbraun.
+- **Angebot:** keins.
+- **Angle:** **C** (Hauptangle: Bezug weg, Komfort bleibt). Die Copy ist **C** ("hunting for corners", "wrestling fabric") + A-Anklang ("from wash to bed").
+- **Format-Typ:** Lifestyle mit Wortspiel-Headline (Kontrastpaar).
+- **Metadaten:**
+  - Meta-ID 1122560766807410 · Start 2026-09-29 · **10 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1028 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/186893862?signature=a82b35565236b229024dfb64fb1fb681e1e300d1decba6dac35e25bd8dafacf4) · [Ad Library](https://www.facebook.com/ads/library/?id=1122560766807410)
+- **Familie:**
+  - Layout-Familie "Schlafender Mann" mit 186893864 (Headline-Test im Bild).
+  - Copy-Familie T44 "Bedding Without The Struggle" mit 186893844 (gleiche Copy, anderes Bild) und 190288311 (anderer Batch).
+
+#### Static 186893861 – One Piece. Less To Handle.
+
+- **Headline:** "One Piece. Less To Handle."
+- **Primärtext (vollständig, Einzeltext):** "What if your bedding could do more, with less to handle? Pleene EasyRest™ combines the duvet and cover into one lightweight piece, delivering temperature-regulating comfort with less fuss."
+- **Link-Beschreibung:** "Change your bedding solo"
+- **Gesamter Bildtext (wörtlich):**
+  - "Who Said Changing Your / Bed Has To Take Two?"
+  - Dunkelbraune Box: "Pleene." / "The lightweight duvet with / built-in cover."
+- **Bildmotiv:** Bild-im-Bild. Innen: **Person ja: Frau, ca. 50–60 Jahre**, blond, cremefarbener Strickpullover. Sie breitet eine mittelblaue Steppdecke über ein Holzbett.
+  - Warmes Licht, Nachttischlampe, Fenster.
+  - Außen dieselbe Raumszene als erweiterter Hintergrund.
+  - KI-Anmutung (sehr glatte Oberflächen, unregelmäßige Steppung), nicht verifiziert.
+- **Farbwelt:** Creme/Beige, Mittelblau (Produkt), Dunkelbraun (Headline, Box), warmes Lampenlicht.
+- **Angebot:** keins.
+- **Angle:** **F-Selbstständigkeit** (Hauptangle: Bett allein beziehen, "Take Two?") + **C**. Die Copy ist **C** + **B** ("temperature-regulating comfort").
+- **Format-Typ:** Lifestyle (Bild-im-Bild) mit rhetorischer Frage als Headline.
+- **Metadaten:**
+  - Meta-ID 1108416845124866 · Start 2026-09-29 · **10 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1028 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/186893861?signature=1c5e7c9a1a97f705b6efeb5f2fe85bde75fd83702387d3c01f9eae4b94e2b14d) · [Ad Library](https://www.facebook.com/ads/library/?id=1108416845124866)
+- **Familie:** Solo (Einzeltext, eigenes Bild). Thematisch Teil des Clusters "Selbstständigkeit".
+- **Auffällig:** In einer US-Ad mit Comforter-LP steht im Bild "duvet".
+
+#### Static 186893859 – Bedding That Fits Your Schedule
+
+- **Headline:** "Bedding That Fits Your Schedule"
+- **Primärtext (vollständig, Einzeltext):** "Clean bedding shouldn’t have to wait. Pleene EasyRest™ lets you wash the whole comforter at home, air dry it in 2 hours, and put it back on when you’re ready."
+- **Link-Beschreibung:** "Machine washable comfort"
+- **Gesamter Bildtext (wörtlich):**
+  - "Clean / bedding."
+  - "Whenever I want it."
+  - Weiße Karte mit goldenem Rahmen und vier goldenen Häkchen: "✓ MACHINE WASHABLE" / "✓ NO DUVET COVER" / "✓ LIGHTWEIGHT DESIGN" / "✓ AIR DRIES IN 2 HOURS"
+  - "Pleene." (gold)
+- **Bildmotiv:** Dasselbe Foto wie 186893869, enger beschnitten. **Person ja: Frau, ca. 65–75 Jahre**, kurzes graues Haar, blauer Zopfmusterpullover. Sie schiebt eine weinrote Steppdecke in die Waschmaschine.
+  - Rechts ein Navy-Panel.
+  - KI-Anmutung, nicht verifiziert.
+- **Farbwelt:** Navy (Panel), Gold (Häkchen, Rahmen, Logo), Weiß, Weinrot (Produkt), Blau (Kleidung), helles Holz.
+- **Angebot:** keins.
+- **Angle:** **A** (Hauptangle: "Clean bedding", "MACHINE WASHABLE", "AIR DRIES IN 2 HOURS") + **C** ("NO DUVET COVER") + **F-Selbstständigkeit** ("Whenever I want it."). Die Copy ist **A** ("wash the whole comforter at home, air dry it in 2 hours").
+- **Format-Typ:** Lifestyle-Demo mit Feature-Checkliste (Split-Layout).
+- **Metadaten:**
+  - Meta-ID 1740917367195794 · Start 2026-09-29 · **10 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1080 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/186893859?signature=b98601908ab59abfba07fc1c1081e6a491558c128c090114c0218409fb4dceea) · [Ad Library](https://www.facebook.com/ads/library/?id=1740917367195794)
+- **Familie:** Foto-Familie "Waschküchen-Seniorin" mit 186893869.
+
+#### Static 186893846 – Skip The Cover. Keep The Comfort.
+
+- **Headline:** "Skip The Cover. Keep The Comfort."
+- **Primärtext (vollständig, Inventar T66):** "No more finding corners. No more fighting fabric. Pleene EasyRest™ combines the duvet and cover into one simple piece, so you can skip the struggle from wash day to bedtime."
+- **Link-Beschreibung:** "One-piece bedding"
+- **Gesamter Bildtext (wörtlich):**
+  - Navy-Block: "Stuff. / Shake. / Shuffle. / Or Just... / Don’t." (die letzten beiden Zeilen kursiv)
+  - "Pleene." / "EasyRest™"
+  - Navy-Fußleiste: "Comforter and cover in one."
+- **Bildmotiv:** **Person ja: Frau, ca. 55–65 Jahre, blond**, hält lächelnd eine salbeigrüne Steppdecke mit Rautensteppung frontal hoch. Fenster mit Vorhang links.
+  - **Dieselbe Person und derselbe Raum wie 182988027 ("Louise")**, andere Aufnahme.
+  - UGC-Foto-Anmutung.
+- **Farbwelt:** Navy, Salbeigrün, Weiß, Schwarz (Logo).
+- **Angebot:** keins.
+- **Angle:** **C** (Hauptangle: Stopfen, Schütteln, Zurechtziehen beim Beziehen). Die Copy ist **C** ("finding corners", "fighting fabric") + A-Anklang ("from wash day to bedtime").
+- **Format-Typ:** UGC-Foto mit Typo-Block (Problem-Aufzählung als Dreiklang plus Auflösung "Or Just... Don’t.").
+- **Metadaten:**
+  - Meta-ID 1092854683130854 · Start 2026-09-29 · **10 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1028 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/186893846?signature=caad060c8e8ab36651b2536e28a6cef64fce2c0c70b442162689b11ac79d0ef1) · [Ad Library](https://www.facebook.com/ads/library/?id=1092854683130854)
+- **Familie:** Copy-Familie T66 "Skip The Cover. Keep The Comfort." mit 186893831 (anderer Batch). Foto-Familie "Louise-Shooting" mit 182988027.
+
+#### Static 186893844 – Bedding Without The Struggle
+
+- **Headline:** "Bedding Without The Struggle"
+- **Primärtext (vollständig, Inventar T44):** identisch mit 186893862: "No more hunting for corners or wrestling fabric into place. Pleene EasyRest™ keeps the duvet and cover together, making bedding simpler from wash to bed."
+- **Link-Beschreibung:** "No separate cover"
+- **Gesamter Bildtext (wörtlich):**
+  - "More Resting." (orange) / "Less Wrestling." (schwarz)
+  - Schwarze Fußleiste: "Pleene." / "Comforter + cover in one."
+- **Bildmotiv:** **Person ja: Frau, ca. 60–70 Jahre**, langes graues Haar, beiger Grobstrickpullover. Sie sitzt lächelnd im Bett unter einer mittelblauen Steppdecke mit **Kastensteppung** (nicht Raute), dazu blaue Kissen.
+  - Polsterbett, Nachttisch mit Teetasse und Vase.
+  - Polierte Anmutung: **KI-Anmutung, nicht verifiziert**.
+  - Gleicher Persona-Typ wie 182988024, Identität nicht verifiziert.
+- **Farbwelt:** Mittelblau (Produkt, Kissen), Orange (Headline-Zeile 1), Schwarz, Creme/Beige, helles Holz.
+- **Angebot:** keins.
+- **Angle:** **C** (Hauptangle: "Less Wrestling"). Die Copy ist **C** + A-Anklang.
+- **Format-Typ:** Lifestyle mit Reim- bzw. Kontrast-Headline.
+- **Metadaten:**
+  - Meta-ID 2052923595354457 · Start 2026-09-29 · **10 Tage** · Score **1 (Testing)** · **used_count 2** (als einzige im Batch)
+  - Status aktiv · **Land laut get_ad: US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1028 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/186893844?signature=f56cef38bdf4271c06d03206fdc5607e7f702ce5a602485401736777e23c53de) · [Ad Library](https://www.facebook.com/ads/library/?id=2052923595354457)
+- **Familie:** Copy-Familie T44 "Bedding Without The Struggle" mit 186893862 und 190288311. Bildtest unter identischer Copy: schlafender Mann gegen Frau im Bett.
+
+---
+
+##### Varianten und Familien (Batch 4)
+
+| Familie | Merkmal | Ads (Batch 4) | Varianten-Logik |
+|---|---|---|---|
+| "Schlafender Mann" | identische Vorlage und identisches Foto, nur die Headline wechselt | 186893864 (DCO, "Retire The Cover. Not The Comfort."), 186893862 ("The Cover Can Go. The Comfort Stays.") | Headline-Test im Bild. Die DCO-Hülle enthält 3 byte-identische Karten ohne Text. |
+| "Waschküchen-Seniorin" | gleiches Foto (Frau im blauen Zopfmuster, rote Decke, Frontlader) | 186893869 ("I CAN STILL DO THIS." + 3 Icons), 186893859 ("Clean bedding. Whenever I want it." + Checkliste) | Layout-Test: Ich-Statement plus Prozess-Icons gegen Ich-Statement plus Feature-Liste. |
+| "Louise-Shooting" | gleiche Person, gleicher Raum, salbeigrüne Decke, zwei Aufnahmen | 182988027 (Testimonial "Louise"), 186893846 ("Stuff. Shake. Shuffle.") | Gleiches UGC-Material, unterschiedliche Angles (B/Social Proof gegen C). |
+| Claim "Wash it. Dry it. Put it back." | gleicher Dreischritt als Text bzw. identisches Icon-Set | 186893878 (Icons), 186893869 (Icons), 186893873 (Tagline), 186893867 ("Just wash, dry and put it back on.") | Wiederkehrender Prozess-Claim im Cluster vom 29.09. |
+| Copy T44 "Bedding Without The Struggle" | identische Headline und Copy | 186893862, 186893844 (+ 190288311 außerhalb des Batches) | Bildtest: Mann schläft gegen Frau sitzt im Bett. |
+| Copy T66 "Skip The Cover. Keep The Comfort." | identische Headline und Copy | 186893846 (+ 186893831 außerhalb) | – |
+| Copy T68 "Your Bed. Your Way." | identische Headline und Copy | 186893875 (+ 200490720 außerhalb) | Die Headline wird bei 186893867 als Bildtext "MY BED. MY WAY." wiederverwendet. |
+| Copy T15 "Properly Warm, Never Heavy" (F2 aus Batch 1) | identische Headline und Copy | 185228774 | **Vollständiger Klon von 172403389** (Score 100): gleiche Bilddatei, Copy, LP und Link-Beschreibung. |
+| Copy T27 "Now In Super King" plus Bild-Duplikat | identische Headline und Copy, md5-identisches Bild | 185228765 | Relaunch der Ur-Ad 157492463. Dasselbe Bild läuft auch unter 182988119 (T02) und 180646058 (T29). |
+| Persona "graues Langhaar, beiger Strickpulli" | ähnliche Person, Identität nicht verifiziert | 182988024, 186893844 | Möglicherweise dieselbe generierte Persona (nicht verifiziert). |
+| Solo | – | 186893861 ("Who Said Changing Your Bed Has To Take Two?") | – |
+
+**Befunde zu Copy-Bild-Passung und Qualität (Bewertung, Daten wie oben belegt):**
+- **Markt-Split:** 13 Ads (182988027, 182988024 und alle 1868938xx) haben laut `get_ad` US als Land und die LP `/products/easyrest-comforter`. 185228774 und 185228765 haben GB und `/products/easyrest`.
+  - Laut Kontext hat der Shop 100 % GB-Traffic. Die "Comforter"-Ads sind demnach ein US-Test.
+  - Quelle ist nur GetHooked `countries`, über Meta selbst nicht verifiziert.
+- **Begriffsmix US/UK:** Die US-Ads mischen "comforter" mit "duvet".
+  - Bildtexte mit "duvet": "No separate duvet cover" (186893878), "No duvet cover to wrestle" (186893875), "wrestling a duvet" (186893873), "The lightweight duvet with built-in cover." (186893861), "NO DUVET COVER" (186893859).
+  - Fast alle Primärtexte der US-Ads sagen ebenfalls "duvet and cover".
+- **Testimonials:** 182988027 zeigt bei einer 4-Sterne-Trustpilot-Bewertung 5 Sterne und "Verified Customer" (Quelle `not-verified`). Das "Margaret, 67"-Zitat (186893873) ist nicht in den erfassten Bewertungen auffindbar.
+- **Social-Proof-Zahl uneinheitlich:** "loved by hundreds of customers" (186893873, US) gegen "Over 10,000 Happy Customers" (Link-Beschreibung der GB-Ads 185228774 und 185228765).
+- **Produktdarstellung:** Die UGC-Fotos (182988027, 186893846, 186893873, 186893878) zeigen durchgehend **Rautensteppung**. 185228765 und 186893844 zeigen **Kastensteppung**, 186893875 wirkt gemischt. Welche Steppung das ausgelieferte Produkt hat, ist nicht verifiziert. Die Abweichung ist eine Beobachtung.
+- **Copy-Bild-Passung:** Bei allen 15 Ads passen Bild und Copy thematisch zusammen. Es gibt keine Widersprüche wie in Batch 1 (z. B. Hygiene-Headline auf Größen-Bild).
+- **Personen und Zielgruppe:** 13 von 15 Motiven zeigen Menschen, alle ca. 45–75 Jahre. 11 davon sind Frauen-Motive.
+  - Das Mann-Motiv steckt in 2 Ads (186893864 und 186893862) mit demselben Foto.
+  - Ohne Person: 185228774 und 185228765.
+  - Der Cluster vom 29.09. setzt klar auf eine ältere, selbstständige Zielgruppe.
+
+##### Hygiene-Zitate Statics Batch 4
+
+**Milben, Bakterien, Schweiß: 0 Nennungen** in Bildtext, Headline, Primärtext und Link-Beschreibung aller 15 Ads. Zum Vergleich: Die verlinkte LP `/products/easyrest-comforter` nennt in der Galerie "No chance for dust mites & bacteria" (laut `wf/s3_funnel.md`). Die Ads übernehmen das nicht.
+
+**Waschen (wörtlich):**
+- 182988024 Bild: "Fresh Sheets? / Don’t Stop / There." · "Wash the whole / comforter, too."
+- 182988024 Headline: "Wash More Than The Sheets" · Link-Beschreibung: "The whole thing washes." · Primärtext: "You wash your sheets when they need a refresh. Why not your comforter too? Pleene EasyRest™ is fully machine washable, with no separate cover needed."
+- 185228774 Primärtext (T15): "the whole duvet still goes in your washing machine"
+- 185228765 Bild: "▲ Fits your machine at home." · Primärtext (T27): "and yes, even this one fits a normal washing machine."
+- 186893878 Bild: "WASH IT" · Primärtext: "one lightweight, machine-washable piece"
+- 186893875 Primärtext (T68): "one simple, machine-washable piece"
+- 186893873 Bild: "Wash it. Dry it. Put it back." · Primärtext: "a lightweight, machine-washable duvet and built-in cover"
+- 186893869 Bild: "WASH IT" (dazu Motiv: Decke wird in die Waschmaschine geschoben) · Primärtext: "when it’s time to wash and remake your bed."
+- 186893867 Bild: "Just wash, dry and put it back on." · Primärtext: "easy to fit and care for."
+- 186893862 und 186893844 Primärtext (T44): "making bedding simpler from wash to bed."
+- 186893859 Bild: "Clean / bedding." · "Whenever I want it." · "MACHINE WASHABLE" · Primärtext: "Clean bedding shouldn’t have to wait. Pleene EasyRest™ lets you wash the whole comforter at home" · Link-Beschreibung: "Machine washable comfort"
+- 186893846 Primärtext (T66): "skip the struggle from wash day to bedtime."
+
+**Trocknen (wörtlich):**
+- 182988024 Bild-Badge: "Air Dries / in 2 Hours"
+- 185228774 Primärtext (T15): "dry in 2 hours."
+- 185228765 Bild: "▲ Dry in 2 hours."
+- 186893878 Bild: "DRY IT"
+- 186893873 Bild: "Wash it. Dry it. Put it back."
+- 186893869 Bild: "DRY IT"
+- 186893867 Bild: "Just wash, dry and put it back on."
+- 186893859 Bild: "AIR DRIES IN 2 HOURS" · Primärtext: "air dry it in 2 hours, and put it back on when you’re ready."
+- Hinweis aus `wf/s3_funnel.md`: Auf einer der Landingpages stehen widersprüchliche Trocknungszeiten ("Dry in about 2 hours" gegen "Air-dries in 2–3 hours").
+
+**Temperatur und Wärme (wörtlich):**
+- 182988027 Bild: "TEMPERATURE / REGULATING" · "Light on you. / Big on warmth." · "“I feel it is light, but I don’t feel cold at night.”"
+- 182988027 Headline: "Warmth Without The Weight" · Link-Beschreibung: "Comfort for every season" · Primärtext: "Cozy doesn’t have to mean heavy. EasyRest™ combines lightweight comfort with temperature regulation to keep you comfortable through every season."
+- 185228774 Bild: durchgestrichen "A light duvet can’t keep / you warm in winter." · "Climate-regulating fibres / keep you properly warm. / Without the heavy feeling."
+- 185228774 Headline: "Properly Warm, Never Heavy" · Primärtext (T15): "Climate-regulating fibres keep you properly warm without the heavy feeling"
+- 186893861 Primärtext: "delivering temperature-regulating comfort with less fuss."
+
+---
+
+##### Kurz-Tabelle Batch 4
+
+| ID | Headline | Bildtext-Kern | Motiv | Angle | Format-Typ | Tage | Score |
+|---|---|---|---|---|---|---|---|
+| 182988027 | Warmth Without The Weight | "Light on you. Big on warmth." + Zitat Louise ★★★★★ "Verified Customer" + "TEMPERATURE REGULATING" | Frau ca. 55–65, hält salbeigrüne Decke (UGC) | B + F-Social-Proof | Testimonial auf UGC-Foto + Badge | 15 | 1 |
+| 182988024 | Wash More Than The Sheets | "Fresh Sheets? Don’t Stop There." / "Wash the whole comforter, too." / "Air Dries in 2 Hours" | Frau ca. 60–70 an Waschmaschine (KI-Anmutung, n. verif.) | A | Lifestyle-Demo + Hook-Box + Badge (9:16) | 15 | 1 |
+| 185228774 | Properly Warm, Never Heavy | ~~"A light duvet can’t keep you warm in winter."~~ "Climate-regulating fibres…" + "2 Free Pillow Cases", "90-Night Trial" | Farbstapel Blau/Orange/Mint, keine Person (= Bild 172403389) | B + F-Einwand + F-Angebot (Copy + A) | Myth-Busting + Produktfoto (9:16) | 12 | 1 |
+| 185228765 | Now In Super King | "Our most requested size is finally here." / "Now in Super King — 260 × 220 cm." + 3 Bullets | Mint-Bett im Kreis, keine Person (= Bild 182988119/180646058/157492463) | F-Neuheit/Größe + C + A | Größen-Launch-Ankündigung (9:16) | 12 | 1 |
+| 186893864 | n/a (DCO ohne Text) | "Retire The Cover. Not The Comfort." / "Comforter + cover in one." (3 identische Karten) | Mann ca. 60–70 schläft unter beiger Decke (KI-Anmutung, n. verif.) | C (+ F-Alter, Wortspiel) | Lifestyle + Wortspiel-Headline, DCO | 10 | 1 |
+| 186893878 | Bedding Made For Your Routine | "YOU’VE GOT THIS." / "WASH IT · DRY IT · PUT IT BACK" / "No separate duvet cover. No extra hands needed." | Frau ca. 45–55 kniet mit salbeigrüner Decke auf Bett (UGC) | F-Selbstständigkeit + C + A | UGC-Foto + 3-Schritte-Icons | 10 | 1 |
+| 186893875 | Your Bed. Your Way. | 7× "STILL DOING IT MYSELF." / "Still making my own bed, thank you." / "No helping hand required." | Frau ca. 65–75 am Bett, Mint-Decke (UGC-Collage) | F-Selbstständigkeit + C | Typo-Wiederholung + Ich-Statement | 10 | 1 |
+| 186893873 | Meet The One-Piece Comforter | "No More Fighting The Corners" + Zitat "At my age…" — Margaret, 67 ★★★★★ / "Wash it. Dry it. Put it back." | Frau ca. 60–70 mit Brille hält blaue Decke (UGC) | F-Social-Proof + C + E + F-Selbstständigkeit | Testimonial auf UGC-Foto | 10 | 1 |
+| 186893869 | Fresh Bed, Fewer Steps | "I CAN STILL DO THIS." / "WASH IT · DRY IT · PUT IT BACK" | Frau ca. 65–75 schiebt rote Decke in Waschmaschine (KI-Anmutung, n. verif.) | F-Selbstständigkeit + A + C | Lifestyle-Demo + 3-Schritte-Icons | 10 | 1 |
+| 186893867 | A Duvet That Works For You | "MY BED. MY WAY." / "Just wash, dry and put it back on." | Frau ca. 45–55 breitet Taupe-Decke aus (KI-Anmutung, n. verif.) | F-Selbstständigkeit + A + C | Lifestyle + Ich-Statement | 10 | 1 |
+| 186893862 | Bedding Without The Struggle | "The Cover Can Go. The Comfort Stays." | Mann ca. 60–70 schläft (= Foto 186893864) | C | Lifestyle + Wortspiel-Headline | 10 | 1 |
+| 186893861 | One Piece. Less To Handle. | "Who Said Changing Your Bed Has To Take Two?" / "The lightweight duvet with built-in cover." | Frau ca. 50–60 macht Bett mit blauer Decke (KI-Anmutung, n. verif.) | F-Selbstständigkeit + C (Copy + B) | Lifestyle Bild-im-Bild + rhetorische Frage | 10 | 1 |
+| 186893859 | Bedding That Fits Your Schedule | "Clean bedding. Whenever I want it." / "MACHINE WASHABLE · NO DUVET COVER · LIGHTWEIGHT DESIGN · AIR DRIES IN 2 HOURS" | = Foto 186893869 (Frau ca. 65–75, Waschmaschine) | A + C + F-Selbstständigkeit | Lifestyle + Feature-Checkliste | 10 | 1 |
+| 186893846 | Skip The Cover. Keep The Comfort. | "Stuff. Shake. Shuffle. Or Just... Don’t." / "Comforter and cover in one." | Frau ca. 55–65 hält salbeigrüne Decke (= Person aus 182988027, UGC) | C | UGC-Foto + Typo-Block | 10 | 1 |
+| 186893844 | Bedding Without The Struggle | "More Resting. Less Wrestling." / "Comforter + cover in one." | Frau ca. 60–70 sitzt im Bett, blaue Decke (KI-Anmutung, n. verif.) | C | Lifestyle + Kontrast-Headline | 10 | 1 |
+
+**Vollständigkeitsprüfung:** Alle 15 zugewiesenen Ads sind erfasst: 182988027, 182988024, 185228774, 185228765, 186893864, 186893878, 186893875, 186893873, 186893869, 186893867, 186893862, 186893861, 186893859, 186893846, 186893844. Jede Ad hat einen eigenen Abschnitt und eine Tabellenzeile. Bei jeder Ad habe ich alle Medien angesehen, bei der DCO-Ad alle 3 Karten.
+
+
+### Teil 2 – Creative-Analyse Statics, Batch 5 (14 Ads, alle Einzelbild)
+
+Stand: 2026-10-08. Marke Pleene (brand_id 7553008). Alle 14 Ads haben `display_format: image`. Karussells und DCO-Hüllen mit verschiedenen Karten gibt es in diesem Batch nicht. Die drei Ads 189550275, 189550269 und 189550267 enthalten zwar je **2 Medien**, die beiden Dateien sind aber jeweils md5-identisch. Wofür Meta die zweite Kopie nutzt (z.B. Platzierung), ist nicht verifiziert.
+
+**Quellen und Methode**
+- Bilder angesehen über `get_ad_media`: 1868938xx, 1902883xx und 2004907xx im Batch zu je 4 bzw. 3 Ads, die drei 18955xxxx-Ads einzeln mit beiden Medien. Vorschau mit 768 px.
+- Zusätzlich `get_ad` für alle 14 Ads. Daraus stammen Länder, Status, Link-Beschreibung, Plattformen, `ai_badge` und `creative_insights`.
+  - `ai_badge`: bei allen 14 Ads null. Das heißt "kein Badge" und ist **keine** Aussage "nicht KI".
+  - `creative_insights`: bei allen 14 Ads null.
+- Originale über den GetHooked-Share-Endpunkt `/api/get-shared-ad/<id>?signature=…` geladen. Ablage: `wf/img/<id>.jpg`, die zweite Kopie der 18955xxxx-Ads als `<id>_1.jpg`. Share-JSON: `wf/s2s5_api/`, Skripte: `wf/s2s5_scripts/`, Ausschnitte und Bildvergleiche: `wf/s2s5_crops/`.
+- Kleinschrift (Logo-Zeilen, Badges, Zitat, Infoboxen) habe ich in Ausschnitten der Originalauflösung geprüft.
+- **Bildabgleich:** md5 und Differenz-Hash gegen alle Bilder in `wf/img/` (Batches 1–4). Dazu Seite-an-Seite-Vergleiche für Motive, die in Batch 1–4 beschrieben sind (`wf/s2s5_crops/side_*.jpg`). Ein Abgleich gegen Video-Frames fand nicht statt.
+- **KI-Marker:** Geprüft auf C2PA-, Software- und KI-Marker: **keine Treffer**. Alle Dateien sind neu kodierte JFIF-JPEGs ohne EXIF. Fehlende Marker beweisen deshalb nichts. **Ob ein Bild KI-generiert ist, ist bei keiner Ad verifiziert.** "KI-Anmutung" beruht nur auf visuellen Indizien.
+- Bildtext steht wörtlich im englischen Original. Zeilenumbrüche im Bild sind als " / " markiert.
+- **Reichweite/Spend:** GetHooked liefert für GB keine Werte, deshalb überall n/a. Ersatzsignale sind Tage, Score und used_count.
+- Das Share-JSON enthält `impressions_with_index` ("<100" bzw. leer). Die Bedeutung ist nicht dokumentiert. Ich werte das Feld nicht als Reichweite (nicht verifiziert).
+- **Primärtexte** sind kurz und stehen hier vollständig. T-Nummern verweisen auf `wf/s1_inventar.md`.
+- **Alter von Personen** ist immer eine Schätzung nach Augenschein.
+
+**Kurzbefund Batch 5 (Details unten)**
+1. **Viel Recycling, wenig neue Bilder.** Die 14 Ads nutzen 12 verschiedene Bilddateien. Davon sind nur **5 Fotos in Batch 1–4 nicht vorgekommen**: 186893837/200490709, 186893831, 189550275, 189550267 und 200490661.
+   - Vier Ads nutzen **md5-identische Dateien**: 200490709 = 186893837, 200490724 = 186893814, 200490720 = 186893875 (Batch 4), 190288311 = 182988027 (Batch 4).
+   - Zwei Ads sind **1:1-Fassungen von 9:16-Ads**, mit gleichem Foto und Text: 200490725 ← 182988043 (Batch 1, Score 54) und 200490723 ← 182988041 (Batch 2, Score 41).
+   - Drei Ads setzen **Fotos aus Batch 4 in neue Layouts**: 186893814 (Foto von "Margaret, 67", 186893873), 190288319 (Foto von 186893878) und 189550269 (Foto von 182988024).
+2. **Die 2004907xx-Ads vom 06.10. spiegeln die US-Tests vom 29.09. bzw. 23./24.09.** Sie haben gleiche Headline, gleiche Copy und gleiches Bild, aber LP `/products/easyrest` statt `/products/easyrest-comforter`, und `countries` ist leer. Das betrifft die Paare 186893837→200490709, 186893814→200490724, 186893875→200490720, 182988043→200490725 und 182988041→200490723.
+   - Die US-Wortwahl "Comforter" bleibt in Headline und Copy und führt so auf die GB-Produktseite.
+   - Laut `wf/s3_funnel.md` ist `/products/easyrest` die GB-PDP. Dass diese 5 Ads in GB laufen, ist wegen der leeren Länderangabe nicht verifiziert.
+3. **Nur 4 Ads sind laut `get_ad` sicher GB:** 189550275, 189550269, 189550267 und 190288319.
+   - Zwei davon, **190288319 und 189550267**, sind **seit 07.10. inaktiv** (8 Tage, Score jetzt null). Beide haben dieselbe Copy T71 und dieselbe Vorlage "… Stays. / The Struggle Goes.".
+   - Die beiden GB-Ads mit Ich-Statement ("A Fresh Bed. On My Terms.", "make the bed by myself") laufen weiter.
+   - Ob das Stoppen auf Performance beruht, ist nicht verifiziert.
+4. **Zielgruppe 45+ fast durchgehend.** 13 von 14 Ads zeigen Frauen von ca. 45–80 Jahren oder ein Paar von ca. 65–75. 200490725 zeigt nur Hände.
+   - Hauptthema ist **F-Selbstständigkeit im Alter** + **C**: "KEEP DOING IT YOURSELF.", "Keep making your own bed.", "STILL DOING IT MYSELF.", "A Fresh Bed. On My Terms.", "make the bed by myself".
+   - Wortspiel "Retire" in zwei Ads: "Retire Duvet Cover Struggle.", "Retire the wrestling.".
+5. **Neuer Angle D (Kauf für die Eltern):** 200490661 "One Less Chore For Mum & Dad." spricht erwachsene Kinder als Käufer an ("out of their routine").
+   - Laut `get_ad` läuft die Ad in den **USA**, nutzt aber die britische Schreibweise "Mum".
+   - Das Bild zeigt **zwei Personen**, die das Bett gemeinsam machen. Das widerspricht dem Claim "No extra hands needed." aus 186893837.
+6. **Hygiene nur als Waschen und Trocknen.** Milben, Bakterien und Schweiß kommen in Bild und Copy von Batch 5 **kein einziges Mal** vor.
+   - Temperatur erscheint nur im Louise-Bild (190288311): "TEMPERATURE / REGULATING".
+   - Siehe Hygiene-Zitate.
+7. **Testimonial-Problem wiederholt sich:** 190288311 nutzt das Louise-Bild mit "★★★★★ Louise | Verified Customer". Die Bewertung hat auf Trustpilot jedoch **4 Sterne** und ist `not-verified` (T166, Abgleich in `wf/reviews_all.json`).
+   - Zusätzlich passen Bild und Copy nicht zusammen: Das Bild spielt B (Wärme), die Copy T44 spielt C (Bezug).
+   - Mit **used_count 3** ist diese Ad die einzige im Batch mit used_count > 1. Das Inventar nennt 1.
+8. **Alle aktiven Ads haben Score 1 (Testing).** Laufzeit 2–10 Tage. Performance-Unterschiede sind daraus nicht ablesbar.
+
+---
+
+#### Static 186893837 – Keep Making Your Own Bed
+
+- **Headline:** "Keep Making Your Own Bed"
+- **Primärtext (vollständig, Inventar T60):** "A fresh bed can still be part of your own routine. Pleene EasyRest™ combines the duvet and cover into one lightweight piece, so there’s less to manage from wash to bed."
+- **Link-Beschreibung:** "One piece, no cover"
+- **Gesamter Bildtext (wörtlich):**
+  - Petrolfarbene Box oben links: "KEEP / DOING IT / YOURSELF."
+  - Darunter in der Box: "No extra hands needed."
+  - Weiße Fußleiste: Logo "Pleene." mit "EasyRest™" darunter
+  - Rechts in der Fußleiste: "One lightweight piece. No separate cover."
+- **Bildmotiv:**
+  - **Person ja: Frau, ca. 50–60 Jahre**, schulterlanges blondes Haar, beiges T-Shirt. Sie breitet lächelnd eine graue Steppdecke über das Bett.
+  - Heller Raum mit Leinenvorhängen und Holzbett.
+  - Unter der weißen Fußleiste läuft ein schmaler Streifen Deckenfoto weiter.
+  - Die Steppung wirkt uneinheitlich: oben diagonale Linien, unten links ein Kastenraster. Das kann ein Montage- oder KI-Artefakt sein (nicht verifiziert).
+  - Sehr glatte, gleichmäßig ausgeleuchtete Szene: **KI-Anmutung, nicht verifiziert**.
+- **Farbwelt:** Petrol/Türkis (Box), Mittelgrau (Produkt), Creme/Leinen, Weiß, Schwarz (Logo, Text).
+- **Angebot:** keins.
+- **Angle:** **F-Selbstständigkeit im Alter** (Hauptangle: "KEEP DOING IT YOURSELF.", "No extra hands needed.") + **C** ("No separate cover"). Die Copy sagt dasselbe; "from wash to bed" ist nur ein A-Anklang.
+- **Format-Typ:** Lifestyle mit Person + Statement-Box (Du-Ansprache) + Brand-Fußleiste.
+- **Metadaten:**
+  - Meta-ID 28819204317704017 · Start 2026-09-29 · **10 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1028 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/186893837?signature=296de22f294544b5a6e1de4329a707b9ab8c8d754343b48b762174f85a621bcb) · [Ad Library](https://www.facebook.com/ads/library/?id=28819204317704017)
+- **Familie:** **Exaktes Duplikat** mit 200490709 (md5-gleiches Bild, Copy T60, Headline). Unterschied: LP `/products/easyrest` und Länder n/a. Claim-Familie "Selbstständigkeit" (siehe Varianten).
+
+#### Static 186893831 – Skip The Cover. Keep The Comfort.
+
+- **Headline:** "Skip The Cover. Keep The Comfort."
+- **Primärtext (vollständig, Inventar T66):** "No more finding corners. No more fighting fabric. Pleene EasyRest™ combines the duvet and cover into one simple piece, so you can skip the struggle from wash day to bedtime."
+- **Link-Beschreibung:** "One-piece bedding"
+- **Gesamter Bildtext (wörtlich):**
+  - Cremefarbenes Feld unten links: "Retire Duvet / Cover Struggle."
+  - Ockerfarbene Box unten rechts: "Pleene."
+  - In derselben Box: "Pleene EasyRest™ / combines the duvet / and cover into one."
+- **Bildmotiv:**
+  - **Person ja: Frau, ca. 70–80 Jahre**, kurzes weißes, lockiges Haar, geblümter Pyjama. Sie sitzt im Bett, reckt beide Arme jubelnd nach oben und lacht in die Kamera.
+  - Himbeer- bzw. weinrote Steppdecke und Kissen.
+  - Sonnendurchflutetes Schlafzimmer: Sprossenfenster, Holzkommode, Pflanzen, Tasse auf dem Nachttisch.
+  - Sehr gleichmäßiges Gegenlicht und makellose Szene: **KI-Anmutung, nicht verifiziert**.
+- **Farbwelt:** Himbeerrot (Produkt), warmes Honigholz, Creme, Ocker/Karamell (Box), Dunkelbraun (Serif-Headline), Weiß.
+- **Angebot:** keins.
+- **Angle:** **C** (Hauptangle: "Duvet Cover Struggle") + **F-Selbstständigkeit im Alter**. Letzteres ist meine Interpretation: Wortspiel "Retire" (Ruhestand) und Seniorin als Motiv. Die Copy ist reines C.
+- **Format-Typ:** Lifestyle-Emotion (Triumph-Pose) + Wortspiel-Headline + Brand-Box.
+- **Metadaten:**
+  - Meta-ID 4537475009834373 · Start 2026-09-29 · **10 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1028 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/186893831?signature=7a72439f549f6691a92e5c861625f174cc926bc15ca0e02bd6d03876a27cc6b9) · [Ad Library](https://www.facebook.com/ads/library/?id=4537475009834373)
+- **Familie:**
+  - Copy-Familie T66 mit 186893846 (Batch 4, anderes Bild: Louise-Shooting).
+  - Claim-Familie "Retire" mit 186893814/200490724 ("Retire the wrestling.") und 186893864 (Batch 4, "Retire The Cover. Not The Comfort.").
+  - Das Foto kommt in Batch 1–4 nicht vor.
+
+#### Static 186893814 – Your Routine, Made Simpler
+
+- **Headline:** "Your Routine, Made Simpler"
+- **Primärtext (vollständig, Inventar T64):** "Keep your routine. Skip the duvet cover struggle. Pleene EasyRest™ takes the separate duvet cover out of the equation, so there’s less stuffing, tying and managing."
+- **Link-Beschreibung:** "One piece, less fuss"
+- **Gesamter Bildtext (wörtlich):**
+  - Blauer Kopfbalken: "Retire the wrestling."
+  - Darunter kursiv: "Keep making your own bed."
+  - Auf der Decke: "Pleene." (weiß)
+  - Vier weiße Etiketten: "Duvet + Cover in One" / "No Stuffing or Tying" / "Lightweight to Handle" / "Machine Washable"
+  - Unten in Versalien: "EASYREST™ WORKS WITH YOU, NOT AGAINST YOU."
+- **Bildmotiv:**
+  - **Person ja: Frau, ca. 60–70 Jahre**, grauer Bob, Brille. Sie hält eine jeansblaue Steppdecke mit Rautensteppung frontal hoch und lächelt.
+  - Reales Schlafzimmer: Holzbett, Nachttisch mit Büchern und Lampe, Teddy auf dem Regal, Heizkörper.
+  - **UGC-Foto-Anmutung.**
+  - **Dasselbe Foto wie 186893873** (Batch 4, "Margaret, 67"), hier anders zugeschnitten (`wf/s2s5_crops/side_186893814_186893873.jpg`). Ob die Frau "Margaret" ist, ist nicht verifiziert. Dort wurde das Zitat bereits als nicht belegt eingestuft.
+- **Farbwelt:** Jeans-/Stahlblau (Produkt und Kopfbalken), Weiß (Etiketten, Schrift), Navy (Etikettentext), warmes Holz und Beige.
+- **Angebot:** keins.
+- **Angle:** **C** ("Retire the wrestling.", "No Stuffing or Tying") + **F-Selbstständigkeit im Alter** ("Keep making your own bed.") + A-Anklang ("Machine Washable"). Die Copy ist C ("less stuffing, tying and managing").
+- **Format-Typ:** UGC-Foto + Feature-Callouts (Infografik-Etiketten) + Kopfbalken-Headline.
+- **Metadaten:**
+  - Meta-ID 1759745871934283 · Start 2026-09-29 · **10 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: US** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1080 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/186893814?signature=8bd9162f3bfd33faf85979f4605208fc571e1affbdb578c78e5e8cac4f9df0ee) · [Ad Library](https://www.facebook.com/ads/library/?id=1759745871934283)
+- **Familie:**
+  - **Exaktes Duplikat** mit 200490724 (md5-gleich, Copy T64; dort LP `/products/easyrest`).
+  - Foto-Familie "Margaret" mit 186893873 (Batch 4).
+  - Claim-Familie "Retire".
+
+#### Static 190288319 – A Simpler Way To Change The Bed
+
+- **Headline:** "A Simpler Way To Change The Bed"
+- **Primärtext (vollständig, Inventar T71):** "Why wrestle with a separate duvet cover? Pleene EasyRest™ keeps the duvet and cover together in one lightweight piece, making wash day a little simpler."
+- **Link-Beschreibung:** "One-piece duve". So steht es in `get_ad` und im Share-JSON, abgeschnitten bzw. mit Tippfehler.
+- **Gesamter Bildtext (wörtlich):**
+  - Navy-Box oben rechts mit Goldrand: "Pleene."
+  - In derselben Box: "One duvet. No stress."
+  - Weiße Box unten mit Goldrand: "The Routine Stays. / The Struggle Goes."
+- **Bildmotiv:**
+  - **Person ja: Frau, ca. 45–55 Jahre**, schulterlanges braun-blondes Haar, beige Strickjacke. Sie sitzt auf dem Bett und hält eine salbeigrüne Steppdecke mit Rautensteppung hoch.
+  - Echte Wohnumgebung: Nachttische mit Familienfotos, Kerze, Wecker.
+  - **UGC-Foto-Anmutung.**
+  - **Dasselbe Foto wie 186893878** (Batch 4, "YOU’VE GOT THIS."), hier anders beschnitten (`wf/s2s5_crops/side_190288319_186893878.jpg`).
+- **Farbwelt:** Salbeigrün (Produkt), Beige/Taupe, Navy (Box, Headline), Gold (Rahmen), Weiß.
+- **Angebot:** keins.
+- **Angle:** **C** (Hauptangle: "The Struggle Goes", "One duvet. No stress.") + F-Selbstständigkeit im Alter, abgeleitet aus "The Routine Stays" (Interpretation). Die Copy ist C + A-Anklang ("wash day").
+- **Format-Typ:** UGC-Foto + Kontrast-Headline (Wortspiel "Stays/Goes") + Brand-Box.
+- **Metadaten:**
+  - Meta-ID 1650102630028747 · Start 2026-09-30 · **8 Tage** (letzte Sichtung 07.10., `start_to_end_date`) · Score **null** (Inventar: 1 Testing) · used_count 1
+  - **Status laut get_ad am 08.10.: inaktiv** (Inventar: aktiv, 9 Tage)
+  - **Land laut get_ad: GB** · Plattformen FB/IG/AN/Threads (ohne WhatsApp) · CTA "Shop now"
+  - Original 1080×1080 JPEG
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/190288319?signature=729f0bc268e9a52e0c55703bcfd9467503c62b1ee1d8fcb35f0a6610a2f3db7f) · [Ad Library](https://www.facebook.com/ads/library/?id=1650102630028747)
+- **Familie:**
+  - Layout- und Copy-Familie "Stays/Goes" mit **189550267**: gleiche Vorlage (weiße Box mit Goldrand, Navy-Serif), gleiche Copy T71, beide GB, beide seit 07.10. inaktiv.
+  - Foto-Familie mit 186893878 (Batch 4).
+
+#### Static 190288311 – Bedding Without The Struggle
+
+- **Headline:** "Bedding Without The Struggle"
+- **Primärtext (vollständig, Inventar T44):** "No more hunting for corners or wrestling fabric into place. Pleene EasyRest™ keeps the duvet and cover together, making bedding simpler from wash to bed."
+- **Link-Beschreibung:** "No separate cover"
+- **Gesamter Bildtext (wörtlich):**
+  - Goldene Logo-Box oben links: "Pleene."
+  - Weißes Label: "MEET EASYREST™"
+  - Rundes Badge mit Icon (halb Sonne, halb Schneeflocke, diagonal geteilt): "TEMPERATURE / REGULATING"
+  - Headline: "Light on you. / Big on warmth." (zweite Zeile kursiv)
+  - Zitat: "“I feel it is light, but I don’t feel cold at night.”"
+  - "★★★★★ Louise | Verified Customer"
+- **Bildmotiv:**
+  - **Person ja: Frau, ca. 55–65 Jahre, blond.** Sie hält lächelnd eine salbeigrüne Steppdecke mit Rautensteppung hoch.
+  - Reales Schlafzimmer: Fenster, Heizkörper, weißes Bettzeug.
+  - UGC-Foto mit Grafik-Bauchbinde.
+  - **md5-identisch mit 182988027** (Batch 4, "Warmth Without The Weight").
+- **Abgleich Testimonial** (`wf/reviews_all.json`):
+  - Trustpilot **T166**, 11.09.2026, "Louise", **4 Sterne**, `verification_level: not-verified`, Land CY. Volltext: "Well, I  ordered 2 Pleene quilts. One each for my husband and me. I feel it is light, but I don't feel cold at night. My husband likes a heavy quilt, but he hasn't complained, so  I  think we are on a winner. However, we  have not washed them yet! So if I have any issues, I will update it."
+  - Judge.me J170: textgleich, 5 Sterne, `verified_buyer: false`, Import-Badge `review_collected_from_another_provider`.
+  - **Befund:** Das Bild zeigt 5 Sterne und "Verified Customer". Beides deckt die Trustpilot-Quelle nicht.
+- **Farbwelt:** Salbeigrün und Olivgrün (untere Bildhälfte), Gold (Logo-Box, Sterne, Badge-Icon), Creme (Badge), Weiß.
+- **Angebot:** keins.
+- **Angle:**
+  - **Bild: B** (Temperatur: "TEMPERATURE REGULATING", "Big on warmth", "don’t feel cold at night") + **F-Social-Proof** (Testimonial).
+  - **Copy: C** (T44: "hunting for corners or wrestling fabric").
+  - **Bild und Copy passen nicht zusammen:** B-Bild mit C-Text.
+- **Format-Typ:** Testimonial (Zitat + Sterne) auf UGC-Foto + Feature-Badge.
+- **Metadaten:**
+  - Meta-ID 28870324805925641 · Start 2026-09-30 · **9 Tage** · Score **1 (Testing)** · **used_count 3** (get_ad und Share-JSON; Inventar: 1)
+  - Status aktiv · **Land laut get_ad: leer (n/a)** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1080 JPEG
+  - LP https://pleene.com/products/easyrest-comforter (US/CA-PDP laut `s3_funnel.md`)
+  - [share](https://app.gethookd.ai/share/ad/190288311?signature=516e1093da353991ffedcb490ec607edb228c6ef1f12611c429fc7f6c0a744c5) · [Ad Library](https://www.facebook.com/ads/library/?id=28870324805925641)
+- **Familie:**
+  - Copy-Familie T44 mit 186893844 und 186893862 (Batch 4). Bildtest: Frau sitzt im Bett, Mann schläft, Louise.
+  - Bild-Duplikat von 182988027.
+
+#### Static 189550275 – Pleene (keine Headline)
+
+- **Headline:** "Pleene". Das Titelfeld enthält nur den Seitennamen, eine echte Headline gibt es nicht.
+- **Primärtext (vollständig, kein T-Verweis im Inventar):** "Keep your bedding routine in your own hands. Pleene EasyRest™ is one lightweight, machine-washable piece, ready to go from wash to bed."
+- **Link-Beschreibung:** n/a · **CTA-Text:** n/a (Typ SHOP_NOW)
+- **Gesamter Bildtext (wörtlich):**
+  - Weiße Box oben rechts mit Goldrand: "Pleene."
+  - In derselben Box: "A Fresh Bed. / On My Terms."
+  - Weiße Leiste unten mit drei goldenen Haken: "✓ Machine / washable" · "✓ Dries in / 2 hours" · "✓ Duvet + cover / in one"
+- **Bildmotiv:**
+  - **Person ja: Frau, ca. 55–65 Jahre**, langes blond-graues Haar, cremefarbener Strickpullover. Sie breitet allein eine stahlblaue Steppdecke mit Rautensteppung über das Bett.
+  - Warmes Schlafzimmer mit Nachttischlampe.
+  - Sehr glatte Oberflächen und weiches Licht: **KI-Anmutung, nicht verifiziert**.
+  - Persona und Bildwelt ähneln stark 200490723/182988041 (blonde Frau, Cremepullover, blaue Decke, Lampe). Es ist aber eine andere Aufnahme (`wf/s2s5_crops/side_189550275_200490723.jpg`). Identität nicht verifiziert.
+  - 2 Medien in der Ad, md5-identisch.
+- **Farbwelt:** Stahlblau (Produkt), Creme/Beige, Weiß, Gold (Rahmen, Haken), Dunkelbraun (Serif-Headline), Ocker/Karamell (Fußfläche).
+- **Angebot:** keins.
+- **Angle:** **F-Selbstständigkeit im Alter** (Hauptangle: "On My Terms", Copy "in your own hands") + **A** ("Machine washable", "Dries in 2 hours") + **C** ("Duvet + cover in one").
+- **Format-Typ:** Lifestyle mit Person + Ich-Statement + Benefit-Leiste (3 Haken).
+- **Metadaten:**
+  - Meta-ID 1697353005429136 · Start 2026-09-30 · **9 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: GB** · Plattformen FB/IG/AN/Threads (ohne WhatsApp)
+  - Original 1080×1080 JPEG (2× identisch)
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/189550275?signature=e2841af4c3309f1f54a47962f542b0d928f5b10afef23bdb312b9555f7e1f404) · [Ad Library](https://www.facebook.com/ads/library/?id=1697353005429136)
+- **Familie:**
+  - Serie "18955xxxx" (30.09., GB, ohne Headline) mit 189550269 und 189550267.
+  - Layout-Familie "goldene Haken" mit 189550269 und 186893859 (Batch 4).
+  - Claim-Familie "Selbstständigkeit".
+
+#### Static 189550269 – Pleene (keine Headline)
+
+- **Headline:** "Pleene" (nur Seitenname, keine echte Headline)
+- **Primärtext (vollständig, kein T-Verweis im Inventar):** "You can still take care of your own bed. Pleene EasyRest™ makes the job simpler with one easy-to-handle piece that goes straight from the wash back to bed in just 2 hours."
+- **Link-Beschreibung:** n/a · **CTA-Text:** n/a (Typ SHOP_NOW)
+- **Gesamter Bildtext (wörtlich):**
+  - Grünes Feld links: "Fresh / bedding."
+  - Darunter kursiv: "That makes it easy to / make the bed by myself."
+  - Weiße Karte mit Goldrand und vier goldenen Haken: "✓ All-In-One Wash" / "✓ No Separate Duvet Cover" / "✓ Lightweight to Handle" / "✓ Rapid 2-Hour Air Dry"
+  - Goldene Fußleiste: "EasyRest™ Coverless Duvet by Pleene."
+- **Bildmotiv:**
+  - **Person ja: Frau, ca. 60–70 Jahre**, langes graues Haar, beiger Grobstrickpullover. In einer Waschküche holt sie eine cremeweiße Steppdecke aus einem Frontlader bzw. legt sie hinein.
+  - Regal mit Handtüchern, Weidenkorb.
+  - **Dasselbe Foto wie 182988024** (Batch 4, "Fresh Sheets? Don’t Stop There."), hier als Split-Layout (`wf/s2s5_crops/side_189550269_182988024.jpg`).
+  - KI-Anmutung (sehr gleichmäßiges Licht), nicht verifiziert.
+  - 2 Medien in der Ad, md5-identisch.
+- **Farbwelt:** Graugrün/Salbei (linkes Feld), Weiß (Karte), Gold (Haken, Rahmen, Fußleiste), Creme (Produkt), Beige, warmes Holz.
+- **Angebot:** keins.
+- **Angle:** **A** ("All-In-One Wash", "Rapid 2-Hour Air Dry", "Fresh bedding.") + **F-Selbstständigkeit im Alter** ("make the bed by myself", Copy "You can still take care of your own bed") + **C** ("No Separate Duvet Cover"). A und F sind etwa gleichrangig.
+- **Format-Typ:** Split-Layout: Lifestyle-Demo (Waschmaschine) + Checkliste (Infografik).
+- **Besonderheit:** Die Fußleiste nennt das Produkt "**Coverless Duvet**".
+- **Metadaten:**
+  - Meta-ID 2239984750193672 · Start 2026-09-30 · **9 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: GB** · Plattformen FB/IG/AN/Threads (ohne WhatsApp)
+  - Original 1080×1080 JPEG (2× identisch)
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/189550269?signature=f3ebac77a9aabd296cb1e960812c63aa60881f30e0da69bded7fc73cec4371e1) · [Ad Library](https://www.facebook.com/ads/library/?id=2239984750193672)
+- **Familie:**
+  - Serie "18955xxxx" mit 189550275 und 189550267.
+  - Foto-Familie "Waschküche, graues Langhaar" mit 182988024 (Batch 4).
+  - Layout-Familie "goldene Haken" mit 189550275 und 186893859.
+
+#### Static 189550267 – Pleene (keine Headline)
+
+- **Headline:** "Pleene" (nur Seitenname, keine echte Headline)
+- **Primärtext (vollständig, Inventar T71):** "Why wrestle with a separate duvet cover? Pleene EasyRest™ keeps the duvet and cover together in one lightweight piece, making wash day a little simpler."
+- **Link-Beschreibung:** n/a · **CTA-Text:** n/a (Typ SHOP_NOW)
+- **Gesamter Bildtext (wörtlich):**
+  - Dunkelbraune Box oben links: "Pleene."
+  - Weiße Box unten mit Goldrand: "The Duvet Stays. / The Struggle Goes."
+- **Bildmotiv:**
+  - **Person ja: Frau, ca. 55–65 Jahre**, kurzes braunes Haar, hellgraues T-Shirt. Das Gesicht ist oben rechts angeschnitten. Lächelnd streicht sie eine anthrazitfarbene Steppdecke mit Rautensteppung auf einem Einzelbett glatt.
+  - Kiefernholz-Nachttisch mit Familienfoto, Tasse und Büchern, Fenster, Heizkörper.
+  - **UGC-Foto-Anmutung.**
+  - Das Foto kommt in Batch 1–4 nicht vor. Das ähnliche Glattstreich-Motiv 182988029 ist ein anderes Bild (`wf/s2s5_crops/side_189550267_182988029.jpg`).
+  - 2 Medien in der Ad, md5-identisch.
+- **Farbwelt:** Anthrazit (Produkt), Kiefernholz, Weiß, Dunkelbraun (Logo-Box), Navy (Serif-Headline), Gold (Rahmen).
+- **Angebot:** keins.
+- **Angle:** **C** ("The Struggle Goes", Copy "Why wrestle with a separate duvet cover?") + A-Anklang ("wash day").
+- **Format-Typ:** UGC-Foto + Kontrast-Headline (Wortspiel "Stays/Goes").
+- **Metadaten:**
+  - Meta-ID 1845735359934868 · Start 2026-09-30 · **8 Tage** (letzte Sichtung 07.10., `start_to_end_date`) · Score **null** (Inventar: 1 Testing) · used_count 1
+  - **Status laut get_ad am 08.10.: inaktiv** (Inventar: aktiv, 9 Tage)
+  - **Land laut get_ad: GB** · Plattformen FB/IG/AN/Threads (ohne WhatsApp)
+  - Original 1080×1080 JPEG (2× identisch)
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/189550267?signature=0ae93d7c42293d935614c14ae39cce8ebc82b4d76b07db17850a7cfb68f38e5f) · [Ad Library](https://www.facebook.com/ads/library/?id=1845735359934868)
+- **Familie:**
+  - Layout- und Copy-Familie "Stays/Goes" mit **190288319**: gleiche Vorlage und Copy T71. Nur Foto und erstes Headline-Wort wechseln ("Duvet" bzw. "Routine").
+  - Serie "18955xxxx".
+  - Inhaltlich verwandt mit 186893862 (Batch 4, "The Cover Can Go. The Comfort Stays.").
+
+#### Static 200490725 – Wash The Whole Comforter
+
+- **Headline:** "Wash The Whole Comforter"
+- **Primärtext (vollständig, Inventar T72):** "Yes, the whole comforter goes right in the wash! The Pleene EasyRest™ Comforter fits standard home washers, making fresh, clean bedding refreshingly simple."
+- **Link-Beschreibung:** "Wash. Dry. Enjoy."
+- **Gesamter Bildtext (wörtlich):**
+  - "Pleene." (oben mittig)
+  - Auf einer navyblauen Bogenfläche: "WASH THE / WHOLE THING. / RIGHT AT HOME."
+  - Rundes Navy-Badge: "Fits / Standard / Home / Washers"
+- **Bildmotiv:**
+  - Lifestyle-Demo. **Person ja, nur Unterarme und Hände**, cremefarbenes Leinenhemd mit hochgekrempelten Ärmeln. Alter und Geschlecht sind nicht erkennbar.
+  - Die Hände schieben eine zusammengerollte blaue Steppdecke mit Rautensteppung in eine weiße Frontlader-Waschmaschine. Weidenkorb im Hintergrund.
+  - **1:1-Fassung von 182988043** (Batch 1, 1080×1920): gleiches Foto, gleicher Text, für das Quadrat neu gesetzt (`wf/s2s5_crops/side_200490725_182988043.jpg`).
+- **Farbwelt:** Navy/Königsblau (Fläche, Badge), Mittelblau (Produkt), Weiß (Maschine, Schrift), Creme.
+- **Angebot:** keins.
+- **Angle:** **A** (ganze Decke zu Hause waschen). Copy und Link-Beschreibung sind ebenfalls A.
+- **Format-Typ:** Lifestyle-Demo (Produkt in Waschmaschine) + Badge + Headline-Fläche.
+- **Metadaten:**
+  - Meta-ID 1598917498396809 · Start 2026-10-06 · **3 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: leer (n/a)** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1080 JPEG
+  - LP https://pleene.com/products/easyrest (GB-PDP, US-Wortwahl "Comforter")
+  - [share](https://app.gethookd.ai/share/ad/200490725?signature=67a10c5447fc7a3f8b569d83dfdc87c2601d377c0332e160872fa4f4e059ff1f) · [Ad Library](https://www.facebook.com/ads/library/?id=1598917498396809)
+- **Familie:** Copy-Familie T72 mit 182988043 (US, Score 54 "Scaling", 15 Tage). Das ist die erfolgreichste Vorlage in diesem Batch, hier als Quadrat für die GB-PDP neu aufgelegt.
+
+#### Static 200490724 – Your Routine, Made Simpler
+
+- **Headline:** "Your Routine, Made Simpler"
+- **Primärtext (vollständig, Inventar T64):** identisch mit 186893814: "Keep your routine. Skip the duvet cover struggle. Pleene EasyRest™ takes the separate duvet cover out of the equation, so there’s less stuffing, tying and managing."
+- **Link-Beschreibung:** "One piece, less fuss"
+- **Gesamter Bildtext (wörtlich):** identisch mit 186893814 (md5-gleiche Datei):
+  - "Retire the wrestling." / "Keep making your own bed."
+  - "Pleene."
+  - "Duvet + Cover in One" / "No Stuffing or Tying" / "Lightweight to Handle" / "Machine Washable"
+  - "EASYREST™ WORKS WITH YOU, NOT AGAINST YOU."
+- **Bildmotiv:** wie 186893814: **Frau, ca. 60–70 Jahre**, grauer Bob, Brille, hält jeansblaue Decke hoch. UGC-Foto, Foto von "Margaret, 67" aus 186893873.
+- **Farbwelt:** Jeans-/Stahlblau, Weiß, Navy, warmes Holz.
+- **Angebot:** keins.
+- **Angle:** **C** + **F-Selbstständigkeit im Alter** + A-Anklang ("Machine Washable").
+- **Format-Typ:** UGC-Foto + Feature-Callouts.
+- **Metadaten:**
+  - Meta-ID 1488098906488814 · Start 2026-10-06 · **3 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: leer (n/a)** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1080 JPEG
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/200490724?signature=1567b21782ab0caddb1ff07fb11120d7672fb131b518752e7470ef2b72b7247f) · [Ad Library](https://www.facebook.com/ads/library/?id=1488098906488814)
+- **Familie:** **Exaktes Duplikat** von 186893814. Nur LP (GB-PDP statt Comforter-Seite), Start und Länderfeld unterscheiden sich.
+
+#### Static 200490723 – The Comforter That Does It All
+
+- **Headline:** "The Comforter That Does It All"
+- **Primärtext (vollständig, Inventar T65):** "No cover. No corners to find. No stuffing required. Pleene EasyRest™ Comforter is an all-in-one machine-washable comforter designed to make bedding simpler."
+- **Link-Beschreibung:** "Simple by design."
+- **Gesamter Bildtext (wörtlich):**
+  - Weiße Box oben rechts: "Pleene."
+  - "No Cover." (schwarze Serifenschrift)
+  - "No Problem." (bordeauxrote Serifenschrift)
+- **Bildmotiv:**
+  - **Person ja: Frau, ca. 55–65 Jahre**, blond, cremefarbener Strickpullover, lächelnd. Sie breitet allein eine stahlblaue Steppdecke mit Rautensteppung aus.
+  - Warmes Schlafzimmer mit Lampe, dünner weißer Rahmen als Overlay.
+  - **1:1-Fassung von 182988041** (Batch 2, 1080×1920): gleiches Foto, Box größer gesetzt (`wf/s2s5_crops/side_200490723_182988041.jpg`).
+  - KI-Anmutung möglich, nicht verifiziert.
+- **Farbwelt:** Creme/Beige, Stahlblau, Weiß (Box), Schwarz und Bordeaux (Typo).
+- **Angebot:** keins.
+- **Angle:** **C** ("No Cover. No Problem."). F-Selbstständigkeit im Alter kommt nur über das Motiv (Frau 55+ macht das Bett allein). Die Copy ist C + A-Anklang ("machine-washable").
+- **Format-Typ:** Lifestyle mit Person + Reim-Headline (Box).
+- **Metadaten:**
+  - Meta-ID 1478232800908923 · Start 2026-10-06 · **3 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: leer (n/a)** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1080 JPEG
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/200490723?signature=2e878d2a1eb5ff26136f4a2e83dcb09f424a5e3d8b59e961f3a1802dbbd9232b) · [Ad Library](https://www.facebook.com/ads/library/?id=1478232800908923)
+- **Familie:**
+  - Copy-Familie T65 mit 182988041 (US, Score 41 "Scaling", 16 Tage).
+  - Ähnliche Persona und Bildwelt wie 189550275 (nicht verifiziert, ob dieselbe Person).
+
+#### Static 200490720 – Your Bed. Your Way.
+
+- **Headline:** "Your Bed. Your Way."
+- **Primärtext (vollständig, Inventar T68):** "Still doing things your way? Pleene EasyRest™ makes it easier to keep your bedding routine yours, with a duvet and cover in one simple, machine-washable piece."
+- **Link-Beschreibung:** "Bedding made simpler"
+- **Gesamter Bildtext (wörtlich):**
+  - Siebenmal untereinander "STILL DOING IT MYSELF." Die 4. Zeile ist dunkelgrün hervorgehoben, die übrigen sind blass salbeigrün.
+  - Goldene Logo-Box: "Pleene."
+  - "Still making my own bed, / thank you."
+  - Olivgrüner Balken: "No duvet cover to wrestle. No helping hand required."
+  - "Meet the EasyRest™ Comforter."
+- **Bildmotiv:**
+  - **Person ja: Frau, ca. 65–75 Jahre**, hellblonder bzw. grauer Bob, grauer Pullover. Sie beugt sich vor einem offenen Kleiderschrank über das Bett.
+  - Im Vordergrund eine mintgrüne Steppdecke in Großaufnahme. Die Steppung ist uneinheitlich, ein möglicher Hinweis auf eine Montage (siehe Batch 4, nicht verifiziert).
+  - **md5-identisch mit 186893875** (Batch 4).
+- **Farbwelt:** Mint/Salbeigrün, Olivgrün, Gold (Logo-Box), Weiß, Grau.
+- **Angebot:** keins.
+- **Angle:** **F-Selbstständigkeit im Alter** (Hauptangle) + **C** ("No duvet cover to wrestle"). Die Copy ist F + A-Anklang ("machine-washable").
+- **Format-Typ:** Typo-Wiederholung als Hook + Ich-Statement mit UGC-Foto (Collage-Anmutung).
+- **Metadaten:**
+  - Meta-ID 1660322526104618 · Start 2026-10-06 · **3 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: leer (n/a)** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1080 JPEG
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/200490720?signature=ba2af6dc6e4e320ef5b15b27078c4635dda547216aef3cdbec06294ee1c182e7) · [Ad Library](https://www.facebook.com/ads/library/?id=1660322526104618)
+- **Familie:** **Exaktes Duplikat** von 186893875 (Batch 4, US, LP Comforter-Seite, Copy T68). Hier mit LP `/products/easyrest`.
+
+#### Static 200490709 – Keep Making Your Own Bed
+
+- **Headline:** "Keep Making Your Own Bed"
+- **Primärtext (vollständig, Inventar T60):** identisch mit 186893837: "A fresh bed can still be part of your own routine. Pleene EasyRest™ combines the duvet and cover into one lightweight piece, so there’s less to manage from wash to bed."
+- **Link-Beschreibung:** "One piece, no cover"
+- **Gesamter Bildtext (wörtlich):** identisch mit 186893837 (md5-gleiche Datei):
+  - "KEEP / DOING IT / YOURSELF." / "No extra hands needed."
+  - "Pleene." / "EasyRest™" / "One lightweight piece. No separate cover."
+- **Bildmotiv:** wie 186893837: **Frau, ca. 50–60 Jahre**, blond, beiges T-Shirt, breitet graue Decke aus. KI-Anmutung, nicht verifiziert.
+- **Farbwelt:** Petrol/Türkis, Grau, Creme, Weiß, Schwarz.
+- **Angebot:** keins.
+- **Angle:** **F-Selbstständigkeit im Alter** + **C**.
+- **Format-Typ:** Lifestyle mit Person + Statement-Box + Brand-Fußleiste.
+- **Metadaten:**
+  - Meta-ID 965754332621763 · Start 2026-10-06 · **3 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · **Land laut get_ad: leer (n/a)** · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1028 JPEG
+  - LP https://pleene.com/products/easyrest
+  - [share](https://app.gethookd.ai/share/ad/200490709?signature=2d7f89c9b03596be2e52285bbb9a8d93f265460fdb50363beccf2776ff75a276) · [Ad Library](https://www.facebook.com/ads/library/?id=965754332621763)
+- **Familie:** **Exaktes Duplikat** von 186893837 (US, LP Comforter-Seite).
+
+#### Static 200490661 – Skip The  Duvet Cover
+
+- **Headline:** "Skip The  Duvet Cover" (so im Original, mit doppeltem Leerzeichen)
+- **Primärtext (vollständig, kein T-Verweis im Inventar):** "Take the duvet-cover chore out of their routine. Pleene EasyRest™ combines the duvet and cover in one, so there’s no separate cover to iron, wrestle into place or fasten."
+- **Link-Beschreibung:** "Wash, dry, & put it back"
+- **Gesamter Bildtext (wörtlich):**
+  - Logo oben mittig: "Pleene." mit "EasyRest™" darunter
+  - Headline: "One Less Chore For / Mum & Dad."
+  - Ockerfarbener Button-Balken unten: "Duvet + cover in one."
+- **Bildmotiv:**
+  - **Personen ja: Paar, ca. 65–75 Jahre.**
+    - Mann mit grauem Haarkranz, blauem Hemd und brauner Hose.
+    - Frau mit blond-grauem Bob, geblümter Bluse und grauer Hose.
+  - Beide stehen links und rechts vom Bett, beugen sich darüber, streichen gemeinsam eine mintgrüne Steppdecke mit Rautensteppung glatt und lächeln sich an.
+  - Britisch wirkendes Schlafzimmer: Schiebefenster (Sash Window), Heizkörper, Holzkommode mit Familienfoto, Nachttischlampe.
+  - Foto-Anmutung. Hände und Gesichter wirken natürlich, KI nicht verifiziert.
+  - Das Foto kommt in Batch 1–4 nicht vor.
+- **Farbwelt:** Mint/Salbeigrün (Produkt), Weiß und Creme (Raum), Navy (Serif-Headline), Dunkelbraun (Logo), Ocker (Button), Blau (Hemd).
+- **Angebot:** keins.
+- **Angle:** **D**, im Sinne von Geschenk bzw. Kauf für die Eltern. Absender ist das erwachsene Kind: "For Mum & Dad", Copy "out of their routine". Das Wort "gift" kommt nicht vor, die Einordnung als D ist Interpretation. Dazu **C** ("Duvet + cover in one.", "iron, wrestle into place or fasten").
+- **Format-Typ:** Lifestyle mit Paar + Zielgruppen-Headline (Angehörige als Käufer) + Button-Balken.
+- **Auffälligkeiten:**
+  - **Land laut get_ad: US**, aber britisch "Mum" statt US "Mom". Dazu die US-LP (Comforter-Seite).
+  - Das Bild zeigt das Bettmachen **zu zweit**. Das steht quer zum Kern-Claim des Clusters ("No extra hands needed.", "No helping hand required.").
+- **Metadaten:**
+  - Meta-ID 2272066053740371 · Start 2026-10-07 · **2 Tage** · Score **1 (Testing)** · used_count 1
+  - Status aktiv · Plattformen FB/IG/AN/WhatsApp/Threads · CTA "Shop now"
+  - Original 1080×1080 JPEG
+  - LP https://pleene.com/products/easyrest-comforter
+  - [share](https://app.gethookd.ai/share/ad/200490661?signature=114722e2aec9d0a68a974913b4cf9f5a2ba74b9f5bf1d0b762ad013438a493dc) · [Ad Library](https://www.facebook.com/ads/library/?id=2272066053740371)
+- **Familie:** Solo. Einzige D-Ad im Batch. Die Headline "Skip The Duvet Cover" gibt es auch bei 182988033 (Batch 3, US), dort aber mit anderem Bild und anderer Copy.
+
+---
+
+##### Varianten und Familien (Batch 5)
+
+| Familie | Art | Ads | Befund |
+|---|---|---|---|
+| Duplikat T60 "Keep Making Your Own Bed" | md5-identisches Bild, gleiche Headline und Copy | 186893837 (US, Comforter-LP, 29.09.) · 200490709 (Land n/a, GB-PDP, 06.10.) | Relaunch des US-Tests auf der GB-PDP |
+| Duplikat T64 "Your Routine, Made Simpler" | md5-identisch, gleiche Headline und Copy | 186893814 (US, 29.09.) · 200490724 (n/a, GB-PDP, 06.10.) | wie oben |
+| Duplikat T68 "Your Bed. Your Way." | md5-identisch | 200490720 (n/a, GB-PDP, 06.10.) · 186893875 (Batch 4, US) | wie oben |
+| Formatvariante T72 "Wash The Whole Comforter" | gleiches Foto und Text, 1:1 statt 9:16 | 200490725 (1:1, GB-PDP) · 182988043 (Batch 1, 9:16, US, Score 54) | Bewährte US-Vorlage als Quadrat für die GB-PDP |
+| Formatvariante T65 "The Comforter That Does It All" | gleiches Foto und Text, 1:1 statt 9:16 | 200490723 (1:1, GB-PDP) · 182988041 (Batch 2, 9:16, US, Score 41) | wie oben |
+| Layout/Copy "… Stays. / The Struggle Goes." (T71) | gleiche Vorlage (weiße Box mit Goldrand, Navy-Serif), gleiche Copy, anderes Foto und erstes Wort | 190288319 ("The Routine Stays.", sage-grün) · 189550267 ("The Duvet Stays.", anthrazit) | Beide GB, beide seit 07.10. inaktiv. Verwandt mit 186893862 (Batch 4) "The Cover Can Go. The Comfort Stays." |
+| Claim "Retire …" | Wortspiel Ruhestand/abschaffen | 186893831 ("Retire Duvet Cover Struggle.") · 186893814/200490724 ("Retire the wrestling.") · 186893864 (Batch 4, "Retire The Cover. Not The Comfort.") | Wiederkehrender Claim für die 60+-Zielgruppe |
+| Claim "Selbstständigkeit" (Ich/Du-Statements) | gleiche Botschaft, verschiedene Layouts | "KEEP DOING IT YOURSELF." (186893837/200490709) · "Keep making your own bed." (186893814/200490724) · "STILL DOING IT MYSELF." / "Still making my own bed, thank you." (200490720) · "A Fresh Bed. On My Terms." (189550275) · "make the bed by myself." (189550269) | Fortsetzung des F-Clusters aus Batch 4 ("I CAN STILL DO THIS.", "YOU’VE GOT THIS.") |
+| Layout "goldene Haken" | Benefit-Liste mit goldenen Häkchen in weißer Karte bzw. Leiste mit Goldrand | 189550275 (3 Haken) · 189550269 (4 Haken) · 186893859 (Batch 4, 4 Haken) | Layout-Baustein der Serie 29./30.09. |
+| Foto-Wiederverwendung aus Batch 4 | gleiches Foto, neues Layout | 186893814 ← 186893873 ("Margaret, 67") · 190288319 ← 186893878 ("YOU’VE GOT THIS.") · 189550269 ← 182988024 ("Fresh Sheets? Don’t Stop There.") · 190288311 = 182988027 (Louise, md5) | Pleene testet dieselben Fotos mit wechselnden Headlines und Layouts |
+| Persona "blonde Frau, Cremepullover, blaue Decke" | ähnliche Person und Bildwelt, andere Aufnahme | 189550275 · 200490723/182988041 | Identität bzw. gemeinsame KI-Persona nicht verifiziert |
+| Serie 18955xxxx (30.09., GB) | ohne Headline (Titel "Pleene"), ohne CTA-Text und Link-Beschreibung, je 2 identische Medien | 189550275 · 189550269 · 189550267 | Einheitlich aufgesetzte GB-Serie. Platzierungen ohne WhatsApp |
+| Solo | – | 186893831 (Foto neu) · 200490661 (Angle D, Foto neu) · 190288311 (Copy T44, Familie in Batch 4) | – |
+
+##### Hygiene-Zitate Statics Batch 5
+
+**Milben, Bakterien, Schweiß:** In Bild, Headline, Primärtext und Link-Beschreibung aller 14 Ads **kein einziges Vorkommen**. Hygiene wird nur als Waschbarkeit, Trocknung und Frische ("fresh") verkauft.
+
+**Waschen (Bild):**
+- 200490725: "WASH THE / WHOLE THING. / RIGHT AT HOME." · Badge "Fits / Standard / Home / Washers"
+- 189550269: "✓ All-In-One Wash"
+- 189550275: "✓ Machine / washable"
+- 186893814 und 200490724: "Machine Washable"
+
+**Waschen (Copy und Link-Beschreibung):**
+- 200490725 (T72): "Yes, the whole comforter goes right in the wash! The Pleene EasyRest™ Comforter fits standard home washers, making fresh, clean bedding refreshingly simple." · Link-Beschreibung: "Wash. Dry. Enjoy."
+- 189550275: "Pleene EasyRest™ is one lightweight, machine-washable piece, ready to go from wash to bed."
+- 189550269: "one easy-to-handle piece that goes straight from the wash back to bed in just 2 hours."
+- 200490723 (T65): "Pleene EasyRest™ Comforter is an all-in-one machine-washable comforter designed to make bedding simpler."
+- 200490720 (T68): "with a duvet and cover in one simple, machine-washable piece."
+- 186893837 und 200490709 (T60): "so there’s less to manage from wash to bed."
+- 186893831 (T66): "so you can skip the struggle from wash day to bedtime."
+- 190288319 und 189550267 (T71): "making wash day a little simpler."
+- 190288311 (T44): "making bedding simpler from wash to bed."
+- 200490661: Link-Beschreibung "Wash, dry, & put it back". Copy: "no separate cover to iron, wrestle into place or fasten" (Bügeln als Pflege-Argument, nicht Hygiene).
+
+**Trocknen:**
+- 189550275 (Bild): "✓ Dries in / 2 hours"
+- 189550269 (Bild): "✓ Rapid 2-Hour Air Dry". Copy: "… back to bed in just 2 hours."
+- 200490725 (Link-Beschreibung): "Wash. Dry. Enjoy."
+- 200490661 (Link-Beschreibung): "Wash, dry, & put it back"
+- Hinweis aus `wf/s3_funnel.md` (Batch 4 zitiert): Auf einer Landingpage stehen widersprüchliche Trocknungszeiten ("Dry in about 2 hours" gegen "Air-dries in 2–3 hours"). Die Ads dieses Batches nennen einheitlich 2 Stunden.
+
+**Temperatur:**
+- 190288311 (Bild, = 182988027): Badge "TEMPERATURE / REGULATING" · "Light on you. / Big on warmth." · Zitat "“I feel it is light, but I don’t feel cold at night.”"
+- Sonst keine Temperatur- oder Tog-Aussage im Batch.
+
+**Frische:**
+- 189550275: "A Fresh Bed. / On My Terms."
+- 189550269: "Fresh / bedding."
+- 186893837 und 200490709 (T60): "A fresh bed can still be part of your own routine."
+- 200490725 (T72): "fresh, clean bedding"
+
+##### Kurz-Tabelle Batch 5
+
+| ID | Headline | Bildtext-Kern | Motiv | Angle | Format-Typ | Tage | Score |
+|---|---|---|---|---|---|---|---|
+| 186893837 | Keep Making Your Own Bed | "KEEP DOING IT YOURSELF. No extra hands needed." / "One lightweight piece. No separate cover." | Frau ca. 50–60, blond, breitet graue Decke aus (KI-Anmutung, n. verif.) | F-Selbstständigkeit + C | Lifestyle + Statement-Box (US) | 10 | 1 |
+| 186893831 | Skip The Cover. Keep The Comfort. | "Retire Duvet Cover Struggle." / "Pleene EasyRest™ combines the duvet and cover into one." | Frau ca. 70–80 im Blumenpyjama jubelt im Bett, rote Decke (KI-Anmutung, n. verif.) | C (+F-Alter, Wortspiel) | Lifestyle-Emotion + Wortspiel-Headline (US) | 10 | 1 |
+| 186893814 | Your Routine, Made Simpler | "Retire the wrestling. Keep making your own bed." + 4 Etiketten ("Machine Washable" u.a.) | Frau ca. 60–70, grauer Bob, Brille, hält blaue Decke (= Foto "Margaret", UGC) | C + F-Selbstständigkeit (+A) | UGC + Feature-Callouts (US) | 10 | 1 |
+| 190288319 | A Simpler Way To Change The Bed | "The Routine Stays. The Struggle Goes." / "One duvet. No stress." | Frau ca. 45–55 hält salbeigrüne Decke (= Foto 186893878, UGC) | C (+F) | UGC + Kontrast-Headline (GB, inaktiv seit 07.10.) | 8 | null (Inv. 1) |
+| 190288311 | Bedding Without The Struggle | "Light on you. Big on warmth." · "TEMPERATURE REGULATING" · Zitat Louise ★★★★★ "Verified Customer" | Frau ca. 55–65, blond, hält grüne Decke (= 182988027, md5) | Bild B + F-Social-Proof · Copy C | Testimonial (Land n/a, Comforter-LP) | 9 | 1 |
+| 189550275 | Pleene (keine) | "A Fresh Bed. On My Terms." / "Machine washable · Dries in 2 hours · Duvet + cover in one" | Frau ca. 55–65, Cremepullover, breitet blaue Decke aus (KI-Anmutung, n. verif.) | F-Selbstständigkeit + A + C | Lifestyle + Ich-Statement + Benefit-Leiste (GB) | 9 | 1 |
+| 189550269 | Pleene (keine) | "Fresh bedding. That makes it easy to make the bed by myself." / 4 Haken inkl. "Rapid 2-Hour Air Dry" / "EasyRest™ Coverless Duvet by Pleene." | Frau ca. 60–70 an Waschmaschine (= Foto 182988024) | A + F-Selbstständigkeit + C | Split-Layout Lifestyle-Demo + Checkliste (GB) | 9 | 1 |
+| 189550267 | Pleene (keine) | "The Duvet Stays. The Struggle Goes." | Frau ca. 55–65 streicht anthrazit Decke glatt (UGC, Foto neu) | C | UGC + Kontrast-Headline (GB, inaktiv seit 07.10.) | 8 | null (Inv. 1) |
+| 200490725 | Wash The Whole Comforter | "WASH THE WHOLE THING. RIGHT AT HOME." / "Fits Standard Home Washers" | Hände stecken blaue Decke in Waschmaschine (1:1 von 182988043) | A | Lifestyle-Demo + Badge (Land n/a, GB-PDP) | 3 | 1 |
+| 200490724 | Your Routine, Made Simpler | = 186893814 | = 186893814 (md5) | C + F-Selbstständigkeit (+A) | UGC + Feature-Callouts (Land n/a, GB-PDP) | 3 | 1 |
+| 200490723 | The Comforter That Does It All | "No Cover. No Problem." | Frau ca. 55–65, blond, breitet blaue Decke aus (1:1 von 182988041) | C (+F nur Motiv) | Lifestyle + Reim-Headline (Land n/a, GB-PDP) | 3 | 1 |
+| 200490720 | Your Bed. Your Way. | "STILL DOING IT MYSELF." ×7 / "Still making my own bed, thank you." / "No duvet cover to wrestle. No helping hand required." | Frau ca. 65–75 am Bett, mintgrüne Decke (= 186893875, md5) | F-Selbstständigkeit + C | Typo-Wiederholung + Ich-Statement (Land n/a, GB-PDP) | 3 | 1 |
+| 200490709 | Keep Making Your Own Bed | = 186893837 | = 186893837 (md5) | F-Selbstständigkeit + C | Lifestyle + Statement-Box (Land n/a, GB-PDP) | 3 | 1 |
+| 200490661 | Skip The  Duvet Cover | "One Less Chore For Mum & Dad." / "Duvet + cover in one." | Paar ca. 65–75 macht gemeinsam das Bett, mintgrüne Decke (Foto neu) | D (Kauf für Eltern) + C | Lifestyle Paar + Zielgruppen-Headline (US, "Mum") | 2 | 1 |
+
+**Vollständigkeitsprüfung:** Alle 14 zugewiesenen Ads sind erfasst: 186893837, 186893831, 186893814, 190288319, 190288311, 189550275, 189550269, 189550267, 200490725, 200490724, 200490723, 200490720, 200490709, 200490661. Jede Ad hat einen eigenen Abschnitt und eine eigene Tabellenzeile.
+
+
+## A4 – Bewertungen wörtlich
 
 ### Anhang
 
