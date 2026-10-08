@@ -2,7 +2,7 @@
 
 **Themen:** Decke waschen · Bett beziehen · Wechseljahre/Nachtschweiß · Allergien  
 **Stand:** 08.10.2026  
-**Umfang:** 419 kuratierte, verifizierte Zitate in dieser Datei (369 davon mit Intensität 4–5, 154 Käufer≠Nutzer). Dahinter stehen 2335 verifizierte Zitate aus 466 Threads und Bewertungsseiten, alle in `Kundenstimmen_UK_Rohdaten.csv`.  
+**Umfang:** 418 kuratierte, verifizierte Zitate in dieser Datei (369 davon mit Intensität 4–5, 178 Käufer≠Nutzer). Dahinter stehen 2335 verifizierte Zitate aus 466 Threads und Bewertungsseiten, alle in `Kundenstimmen_UK_Rohdaten.csv`.  
 **Mumsnet:** 53 Threads ausgewertet (Ziel: mindestens 15).
 
 ## Inhalt
@@ -29,15 +29,15 @@
 | Angle B – Bett beziehen / Bezug wechseln | 7 | 52 | 15 | 8 | 7 | 7 | **96** |
 | Angle C – Wechseljahre / Temperatur | 44 | 21 | 14 | 8 | 8 | 9 | **104** |
 | Angle D – Allergien / Haut / Atemwege | 21 | 27 | 11 | 7 | 8 | 9 | **83** |
-| Angle NEU – neue Angles | 2 | 7 | 3 | 4 | 4 | 12 | **32** |
-| **Summe** | **111** | **118** | **49** | **39** | **56** | **46** | **419** |
+| Angle NEU – neue Angles | 2 | 7 | 3 | 4 | 4 | 11 | **31** |
+| **Summe** | **111** | **118** | **49** | **39** | **56** | **45** | **418** |
 
 **Zitatbank nach Quelle**
 
 | Quelle | Zitate in der Bank | verifiziert im Gesamtpool |
 |---|---|---|
 | Mumsnet | 95 | 436 |
-| Trustpilot | 82 | 464 |
+| Trustpilot | 81 | 464 |
 | Gransnet | 80 | 581 |
 | Netmums | 73 | 455 |
 | MoneySavingExpert Forum | 30 | 135 |
@@ -53,9 +53,9 @@
 | Blood Cancer UK Forum | 1 | 5 |
 | PMRGCAuk (HealthUnlocked) | 1 | 6 |
 | weitere Quellen (nur im Gesamtpool) | 0 | 11 |
-| **Summe** | **419** | **2335** |
+| **Summe** | **418** | **2335** |
 
-**Intensität in der Zitatbank:** 5/5: 186 · 4/5: 183 · 3/5: 43 · 2/5: 6 · 1/5: 1
+**Intensität in der Zitatbank:** 5/5: 186 · 4/5: 183 · 3/5: 43 · 2/5: 6 · 1/5: 0
 
 ## 2. Methode, Quellen und Grenzen
 
@@ -117,7 +117,7 @@ Jedes Zitat in dieser Datei ist gegen die Originalseite geprüft:
 
 Das ergibt **2335 verifizierte UK-Zitate** (alle in `Kundenstimmen_UK_Rohdaten.csv`).
 
-**Auswahl der Zitatbank (419 Zitate).**
+**Auswahl der Zitatbank (418 Zitate).**
 - Quoten je Angle und Mindestzahl je Typ.
 - Höchstens 7 Zitate pro Thread, höchstens 18 pro Trustpilot-Marke, Obergrenzen pro Quelle. So dominiert kein Forum.
 - Käufer≠Nutzer wird bevorzugt.
@@ -136,7 +136,7 @@ Danach hat ein zweiter, unabhängiger Durchgang (3 QA-Agenten) Angle, Typ, Inten
 
 ## 3. Die 30 stärksten Zitate
 
-Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scroll-Stopper** (kalter Traffic), **Storytelling** (UGC/Advertorial) und **Kaufmotivation** (Problem trifft Lösung). Zusammengeführt per Rangpunkten. Jedes Angle A–D ist mindestens viermal vertreten. Sortiert nach Intensität, bei Gleichstand nach Jury-Punkten.
+Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scroll-Stopper** (kalter Traffic), **Storytelling** (UGC/Advertorial) und **Kaufmotivation** (Problem trifft Lösung). Zusammengeführt per Rangpunkten. Jeder Angle A–D ist mindestens viermal vertreten. Sortiert nach Intensität, bei Gleichstand nach Jury-Punkten.
 
 ### 1. She was constantly hot so kept flinging the window open. … He moved ou…
 
@@ -144,9 +144,9 @@ Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scrol
 >
 > — **timidviper** · Mumsnet · 2011-07-26 · [DH has moved into the spare room due to my symptoms - is he normal?](https://www.mumsnet.com/talk/menopause/1265760-DH-has-moved-into-the-spare-room-due-to-my-symptoms-is-he-normal)  
 > `Q226` · Angle C · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert · Jury-Stimmen 2/3  
-> _Freund schlief im Mantel mit Kapuze, weil sie das Fenster aufriss - dann Umzug ins Gaestezimmer._
+> _Freund schlief im Mantel mit Kapuze, weil sie das Fenster aufriss - dann Umzug ins Gästezimmer._
 
-- **Scroll-Stopper:** Ein absurd lustiges Bild (Mann schlaeft mit Mantel und Kapuze) mit emotionaler Wendung ins Gaestezimmer, das trifft den Paar-Konflikt der Wechseljahre ohne jede Medizinsprache. → _He slept in a coat with the hood up. The next night he moved into the spare room._
+- **Scroll-Stopper:** Ein absurd lustiges Bild (Mann schläft mit Mantel und Kapuze) mit emotionaler Wendung ins Gästezimmer, das trifft den Paar-Konflikt der Wechseljahre ohne jede Medizinsprache. → _He slept in a coat with the hood up. The next night he moved into the spare room._
 - **Storytelling:** Tragikomisches, sofort filmbares Bild (der Freund schläft im Mantel mit Kapuze) mit klarer Folge: Er zieht ins Gästezimmer. → _Humorvoller UGC-Einstieg mit dem Partner im Wintermantel unter der Decke, ein Voiceover erzählt die Nacht, danach die Lösung, mit der beide wieder in einem Bett schlafen._
 
 ### 2. DH has found the heat I am generating at night (not in a good way) is …
@@ -155,11 +155,11 @@ Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scrol
 >
 > — **duffybeatmetoit** · Mumsnet · 2011-07-23 · [DH has moved into the spare room due to my symptoms - is he normal?](https://www.mumsnet.com/talk/menopause/1265760-DH-has-moved-into-the-spare-room-due-to-my-symptoms-is-he-normal)  
 > `Q225` · Angle C · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert · Jury-Stimmen 3/3  
-> _Mann zieht wegen ihrer naechtlichen Hitze ins Gaestezimmer - 'wir sind kein Paar mehr'. | Angle-Notiz: Partner zieht wegen Hitze ins Gaestezimmer_
+> _Mann zieht wegen ihrer nächtlichen Hitze ins Gästezimmer - 'wir sind kein Paar mehr'. | Angle-Notiz: Partner zieht wegen Hitze ins Gästezimmer_
 
 - **Storytelling:** Kompletter Beziehungsbogen in zwei Sätzen: Der Mann zieht mit dem beschwichtigenden "just until you get through this" ins Gästezimmer, und sie spricht den Verlust offen aus ("I don't feel like we are a couple any more"), also Paarkrise, Einsamkeit und Scham statt bloßer Symptomschilderung. → _UGC-Skript, das auf der leeren Betthälfte und der offenen Gästezimmertür beginnt, ihre Stimme den Satz vorliest, und das mit der ersten Nacht endet, in der er zurück ins gemeinsame Bett kommt._
-- **Kaufmotivation:** Der Mann ist wegen ihrer Hitze ins spare room gezogen, sie fuehlt sich nicht mehr als Paar: hohe emotionale Fallhoehe. → _Beziehungs-Hook: zurueck ins gemeinsame Bett, weil die Decke die Hitze ausgleicht, statt dass einer auszieht._
-- **Scroll-Stopper:** Der emotional staerkste Satz zum getrennten Schlafen ('I don't feel like we are a couple any more') stoppt durch Verletzlichkeit statt Humor. → _He moved into the spare room 'just until you get through this'. I don't feel like we're a couple any more._
+- **Kaufmotivation:** Der Mann ist wegen ihrer Hitze ins spare room gezogen, sie fühlt sich nicht mehr als Paar: hohe emotionale Fallhöhe. → _Beziehungs-Hook: zurück ins gemeinsame Bett, weil die Decke die Hitze ausgleicht, statt dass einer auszieht._
+- **Scroll-Stopper:** Der emotional stärkste Satz zum getrennten Schlafen ('I don't feel like we are a couple any more') stoppt durch Verletzlichkeit statt Humor. → _He moved into the spare room 'just until you get through this'. I don't feel like we're a couple any more._
 
 ### 3. I have tried anti allergy bedding, put protecters on everything, and f…
 
@@ -169,8 +169,8 @@ Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scrol
 > `Q353` · Angle D · Gescheiterte Lösung · Intensität ●●●●● · ✔ verifiziert · Jury-Stimmen 2/3  
 > _Anti-Allergie-Bettzeug brachte nichts; wirft Kissen alle 3 Monate weg wegen 'Milben und ihrem Kot'. | Angle-Notiz: Sekundär A (Ekel/Milbenkot)_
 
-- **Scroll-Stopper:** Eine konkrete Zahl (4 Monate) plus 'dustmite and its poo' mit ironischem 'darling little friend' verbindet Ekel und Humor, die Zahl ist aber nur eine Nutzer-Aussage und muss vor dem Einsatz geprueft werden. → _It takes 4 months for a pillow to be fully colonised by dust mites... and their poo._
-- **Kaufmotivation:** Anti-allergy bedding und protectors brachten 'didn't make an ounce of difference', stattdessen werden alle drei Monate Kissen weggeworfen. → _Gescheiterte Loesung plus Ersatzkosten: Statt Wegwerfen und Encasings regelmaessig die ganze Decke waschen; so werden Milben entfernt statt nur eingesperrt._
+- **Scroll-Stopper:** Eine konkrete Zahl (4 Monate) plus 'dustmite and its poo' mit ironischem 'darling little friend' verbindet Ekel und Humor, die Zahl ist aber nur eine Nutzer-Aussage und muss vor dem Einsatz geprüft werden. → _It takes 4 months for a pillow to be fully colonised by dust mites... and their poo._
+- **Kaufmotivation:** Anti-allergy bedding und protectors brachten 'didn't make an ounce of difference', stattdessen werden alle drei Monate Kissen weggeworfen. → _Gescheiterte Lösung plus Ersatzkosten: Statt Wegwerfen und Encasings regelmäßig die ganze Decke waschen; so werden Milben entfernt statt nur eingesperrt._
 
 ### 4. Everything ends up yellow on his side despite me washing it very regul…
 
@@ -178,10 +178,10 @@ Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scrol
 >
 > — **dippingbackin** · Mumsnet · 2014-08-04 · [Need help removing gross yellow stains from DP's pillow cases](https://www.mumsnet.com/talk/housekeeping/2150674-Need-help-removing-gross-yellow-stains-from-DPs-pillow-cases)  
 > `Q041` · Angle A · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert · Jury-Stimmen 2/3  
-> _Alles auf seiner Seite wird gelb, trotz haeufigem Waschen. | Angle-Notiz: Partner schwitzt | Wer für wen: Partnerin waescht fuer Partner_
+> _Alles auf seiner Seite wird gelb, trotz häufigem Waschen. | Angle-Notiz: Partner schwitzt | Wer für wen: Partnerin wäscht für Partner_
 
-- **Kaufmotivation:** Alles wird auf seiner Seite gelb, obwohl sie regelmaessig waescht: Die bisherige Loesung (oefter waschen) ist sichtbar gescheitert. → _Entkraeftet 'mehr waschen reicht': Die Flecken sitzen in der Decke, nicht nur im Bezug, also die ganze Decke waschbar machen und Schwitzen reduzieren._
-- **Scroll-Stopper:** 'Everything ends up yellow on his side' trifft das haeufige Muster mit dem schwitzenden Partner, als Frage formuliert loest es Kommentare aus. → _Why does everything end up yellow on HIS side of the bed?_
+- **Kaufmotivation:** Alles wird auf seiner Seite gelb, obwohl sie regelmäßig wäscht: Die bisherige Lösung (öfter waschen) ist sichtbar gescheitert. → _Entkräftet 'mehr waschen reicht': Die Flecken sitzen in der Decke, nicht nur im Bezug, also die ganze Decke waschbar machen und Schwitzen reduzieren._
+- **Scroll-Stopper:** 'Everything ends up yellow on his side' trifft das häufige Muster mit dem schwitzenden Partner, als Frage formuliert löst es Kommentare aus. → _Why does everything end up yellow on HIS side of the bed?_
 
 ### 5. 8 month old duvet & pillow - i was ashamed @ the colour of the water, …
 
@@ -191,9 +191,9 @@ Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scrol
 > `Q019` · Angle A · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert · Jury-Stimmen 3/3  
 > _Mit Teppichreiniger 8 Monate alte Decke gereinigt, Wasser schlammbraun._
 
-- **Scroll-Stopper:** Waschwasser wie 'thick mud' aus einer erst 8 Monate alten Decke ist ein Schock-Beweis, der sich gut zeigen laesst und die Ausrede 'die ist doch noch neu' entkraeftet. → _I washed our 8-month-old duvet and the water came out like thick mud. Eww._
+- **Scroll-Stopper:** Waschwasser wie 'thick mud' aus einer erst 8 Monate alten Decke ist ein Schock-Beweis, der sich gut zeigen lässt und die Ausrede 'die ist doch noch neu' entkräftet. → _I washed our 8-month-old duvet and the water came out like thick mud. Eww._
 - **Storytelling:** Scham-Moment mit visueller Enthüllung: schlammbraunes Wasser aus einer erst 8 Monate alten Decke, dazu "i was ashamed" und "makes me cringe just thinking bout it". → _Enthüllungs-UGC mit dem Reinigungswasser einer alten Decke im Glas und einer ehrlichen Reaktion, danach der Vergleich mit einer Decke, die regelmäßig komplett in die Maschine kann._
-- **Kaufmotivation:** Das Waschwasser einer erst acht Monate alten Decke war 'like thick mud colour', ein schockierender Beweis fuer verborgenen Schmutz. → _Ekel-Beweis-Hook: Wasserfarbe nach der ersten Deckenwaesche zeigen; das macht sichtbar, warum regelmaessiges Waschen der Decke sein muss._
+- **Kaufmotivation:** Das Waschwasser einer erst acht Monate alten Decke war 'like thick mud colour', ein schockierender Beweis für verborgenen Schmutz. → _Ekel-Beweis-Hook: Wasserfarbe nach der ersten Deckenwäsche zeigen; das macht sichtbar, warum regelmäßiges Waschen der Decke sein muss._
 
 ### 6. I've got a rota for pillows and a 90° turn system to find dry patches …
 
@@ -203,8 +203,8 @@ Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scrol
 > `Q272` · Angle C · Gescheiterte Lösung · Intensität ●●●●● · ✔ verifiziert · Jury-Stimmen 2/3  
 > _Kissen-Rotation und 90-Grad-Drehsystem, um trockene Stellen auf der Decke zu finden._
 
-- **Scroll-Stopper:** Der fast technische Ueberlebensplan ('rota for pillows', '90° turn system') ist zugleich lustig und bitter, Betroffene fuehlen sich sofort durchschaut. → _I've got a rota for pillows and a 90° turn system just to find a dry patch on the duvet._
-- **Kaufmotivation:** Ein 'rota for pillows' und ein '90° turn system' auf der Suche nach trockenen Stellen sind ein ebenso absurder wie konkreter Notbehelf. → _Bildstarkes Vorher: naechtliches Decken-Drehen; Nachher: eine Decke, die Feuchtigkeit abtransportiert und sich leicht waschen laesst._
+- **Scroll-Stopper:** Der fast technische Überlebensplan ('rota for pillows', '90° turn system') ist zugleich lustig und bitter, Betroffene fühlen sich sofort durchschaut. → _I've got a rota for pillows and a 90° turn system just to find a dry patch on the duvet._
+- **Kaufmotivation:** Ein 'rota for pillows' und ein '90° turn system' auf der Suche nach trockenen Stellen sind ein ebenso absurder wie konkreter Notbehelf. → _Bildstarkes Vorher: nächtliches Decken-Drehen; Nachher: eine Decke, die Feuchtigkeit abtransportiert und sich leicht waschen lässt._
 
 ### 7. Her presentation of herself was immaculate and one would never have gu…
 
@@ -226,7 +226,7 @@ Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scrol
 > _Eröffnungspost: nach dem Bettbeziehen völlig erschöpft._
 
 - **Storytelling:** Ein Identitätsmoment statt bloßer Hausarbeit: Die Frage "When did I get so old I'd need a rest after changing my bed?" macht aus dem Beziehen eine Geschichte über Älterwerden und verletzten Stolz. → _UGC-Clip, in dem sie erschöpft mit einer cuppa auf dem Sofa sitzt und die Frage in die Kamera stellt, mit der Auflösung: Es liegt nicht an ihr, es liegt am Bezug._
-- **Scroll-Stopper:** Eine selbstironische Frage, die sich die aeltere Zielgruppe selbst stellt, mit Wiedererkennung und ohne Anklage. → _When did I get so old I need a lie down after changing the bed?_
+- **Scroll-Stopper:** Eine selbstironische Frage, die sich die ältere Zielgruppe selbst stellt, mit Wiedererkennung und ohne Anklage. → _When did I get so old I need a lie down after changing the bed?_
 
 ### 9. I would walk 5 miles rather than struggle with another duvet. I’ve hat…
 
@@ -236,18 +236,18 @@ Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scrol
 > `Q113` · Angle B · Schmerz · Intensität ●●●●● · ✔ verifiziert · Jury-Stimmen 2/3  
 > _30 Jahre Bezüge stopfen, überhitzt trotz 3 Tog._
 
-- **Kaufmotivation:** Eine Stimme vereint beide Kernschmerzen: dreissig Jahre Kampf mit dem Bezug und Ueberhitzen trotz 3 tog, selbst im Winter. → _Doppel-Loesung als Headline: kein Bezug zum Reinstopfen mehr und temperaturausgleichend statt immer duenner; entkraeftet den Glauben, nur eine leichtere tog-Zahl helfe gegen Ueberhitzen._
-- **Scroll-Stopper:** Eine starke Uebertreibung als Einstieg ('walk 5 miles rather than...') bringt 30 Jahre Frust in einen Satz. → _I would walk 5 miles rather than struggle with another duvet cover._
+- **Kaufmotivation:** Eine Stimme vereint beide Kernschmerzen: dreißig Jahre Kampf mit dem Bezug und Überhitzen trotz 3 tog, selbst im Winter. → _Doppel-Lösung als Headline: kein Bezug zum Reinstopfen mehr und temperaturausgleichend statt immer dünner; entkräftet den Glauben, nur eine leichtere tog-Zahl helfe gegen Überhitzen._
+- **Scroll-Stopper:** Eine starke Übertreibung als Einstieg ('walk 5 miles rather than...') bringt 30 Jahre Frust in einen Satz. → _I would walk 5 miles rather than struggle with another duvet cover._
 
 ### 10. Men are gross. Am stood looking at the bed now and there is literally …
 
 > "Men are gross. Am stood looking at the bed now and there is literally a line down the middle dividing the lovely white side and the rancid, stained side."
 >
 > — **dippingbackin** · Mumsnet · 2014-08-04 · [Need help removing gross yellow stains from DP's pillow cases](https://www.mumsnet.com/talk/housekeeping/2150674-Need-help-removing-gross-yellow-stains-from-DPs-pillow-cases)  
-> `Q013` · Angle A · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert · Jury-Stimmen 1/3  
-> _Sichtbare Linie zwischen weisser und gelber Betthaelfte. | Angle-Notiz: Partner schwitzt_
+> `Q013` · Angle A · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert · Jury-Stimmen 1/3  
+> _Sichtbare Linie zwischen weißer und gelber Betthälfte. | Angle-Notiz: Partner schwitzt | Wer für wen: Partnerin vor dem gemeinsamen Bett: seine Hälfte vergilbt, Hygienelast liegt implizit bei ihr_
 
-- **Scroll-Stopper:** Ein Bild, das jeder sofort sieht (weisse Haelfte gegen 'rancid, stained side'), dazu Ekel, Wiedererkennung beim Partner-Schweiss und ein frecher Einstieg mit 'Men are gross'. → _Men are gross. There's literally a line down the middle of our bed: the lovely white side... and his side._
+- **Scroll-Stopper:** Ein Bild, das jeder sofort sieht (weiße Hälfte gegen 'rancid, stained side'), dazu Ekel, Wiedererkennung beim Partner-Schweiß und ein frecher Einstieg mit 'Men are gross'. → _Men are gross. There's literally a line down the middle of our bed: the lovely white side... and his side._
 
 ### 11. I once washed a feather and down double duvet in the washing machine. …
 
@@ -257,18 +257,18 @@ Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scrol
 > `Q005` · Angle A · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert · Jury-Stimmen 2/3  
 > _Nasse Federdecke riss die Bolzen der Maschine ab._
 
-- **Scroll-Stopper:** Ein Schaden, den man kaum glaubt (nasse Decke reisst die Bolzen der Maschine ab), mit zwei Opfern, dramatisiert den Einwand 'Decke passt nicht in die Maschine'. → _A soaking wet duvet sheared the bolts clean off my washing machine. Machine and duvet: both ruined._
-- **Kaufmotivation:** Eine nasse feather and down Decke hat die Bolzen der Maschine abgerissen: Maschine und Decke waren ruiniert. → _Angst vor dem Selberwaschen nehmen: leicht auch im nassen Zustand und fuer normale Maschinen gemacht, ohne Risiko fuer die Waschmaschine._
+- **Scroll-Stopper:** Ein Schaden, den man kaum glaubt (nasse Decke reißt die Bolzen der Maschine ab), mit zwei Opfern, dramatisiert den Einwand 'Decke passt nicht in die Maschine'. → _A soaking wet duvet sheared the bolts clean off my washing machine. Machine and duvet: both ruined._
+- **Kaufmotivation:** Eine nasse feather and down Decke hat die Bolzen der Maschine abgerissen: Maschine und Decke waren ruiniert. → _Angst vor dem Selberwaschen nehmen: leicht auch im nassen Zustand und für normale Maschinen gemacht, ohne Risiko für die Waschmaschine._
 
 ### 12. I could not stand the thought of his miasma gestating as long as a hum…
 
 > "I could not stand the thought of his miasma gestating as long as a human baby in the duvet."
 >
 > — **whomovedmychocolate** · Mumsnet · 2010-08-23 · [How often do you wash your duvet and how do you do it?](https://www.mumsnet.com/talk/housekeeping/1027119-How-often-do-you-wash-your-duvet-and-how-do)  
-> `Q038` · Angle A · Schmerz · Intensität ●●●●● · ✔ verifiziert · Jury-Stimmen 1/3  
-> _Ekel vor dem Schweiss des Partners in der Decke. | Angle-Notiz: Partner_
+> `Q038` · Angle A · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert · Jury-Stimmen 1/3  
+> _Ekel vor dem Schweiß des Partners in der Decke. | Angle-Notiz: Partner | Wer für wen: Partnerin ekelt sich vor dem Schweiß des Partners in der gemeinsamen Decke_
 
-- **Scroll-Stopper:** Die absurde Formulierung, dass der Schweiss im Bett so lange 'gestating' wie ein Baby, macht das abstrakte Problem 'Bettdecke nie gewaschen' zu einem Ekelwitz, den man teilen will. → _When did you last wash the duvet itself? If it's 9 months, his sweat has been gestating in there as long as a human baby._
+- **Scroll-Stopper:** Die absurde Formulierung, dass der Schweiß im Bett so lange 'gestating' wie ein Baby, macht das abstrakte Problem 'Bettdecke nie gewaschen' zu einem Ekelwitz, den man teilen will. → _When did you last wash the duvet itself? If it's 9 months, his sweat has been gestating in there as long as a human baby._
 
 ### 13. I stil use the super king bed needed when mr I was here. We would chan…
 
@@ -289,7 +289,7 @@ Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scrol
 > _Bett 2–3 Mal pro Nacht neu bezogen, Laken durchnässt, Mann wollte nicht getrennt schlafen. | Angle-Notiz: zweitrangig B (Bett 2–3x pro Nacht beziehen)_
 
 - **Storytelling:** Verbindet Tag und Nacht: Peinlichkeit im Meeting, zwei bis drei Bettwechsel pro Nacht und ein Mann, der trotzdem nicht getrennt schlafen will. Scham, Erschöpfung und Loyalität zugleich. → _Advertorial "Er wollte nicht ins Gästezimmer" über ein Paar, das zusammenhält, und die praktischen Änderungen im Bett, die ihre Nächte erträglicher machten._
-- **Kaufmotivation:** Das Bett zwei- bis dreimal pro Nacht neu beziehen, weil die Laken 'sodden' sind, ist die maximale Konkretheit bei Nachtschweiss. → _Weniger naechtliches Neubeziehen durch Temperaturausgleich, und wenn noetig ohne Bezug-Kampf um 3 Uhr morgens._
+- **Kaufmotivation:** Das Bett zwei- bis dreimal pro Nacht neu beziehen, weil die Laken 'sodden' sind, ist die maximale Konkretheit bei Nachtschweiß. → _Weniger nächtliches Neubeziehen durch Temperaturausgleich, und wenn nötig ohne Bezug-Kampf um 3 Uhr morgens._
 
 ### 15. since xmas it has been so much im having to change the sheets every da…
 
@@ -299,7 +299,7 @@ Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scrol
 > `Q231` · Angle C · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert · Jury-Stimmen 1/3  
 > _Schweiß des Verlobten riecht nach Essig und verfärbt Bettzeug. | Angle-Notiz: Partner mit Nachtschweiß | Wer für wen: Verlobte wechselt täglich die Laken des Partners_
 
-- **Kaufmotivation:** Taegliches Beziehen, Geruch nach Essig und Flecken bis in duvet & pillows machen klar, dass der Bezug den Schweiss nicht abhaelt. → _Argument: Wenn der Schweiss ohnehin in die Decke geht, muss die ganze Decke in die Maschine; eignet sich fuer die Kaeuferin, die fuer den schwitzenden Partner einkauft._
+- **Kaufmotivation:** Tägliches Beziehen, Geruch nach Essig und Flecken bis in duvet & pillows machen klar, dass der Bezug den Schweiß nicht abhält. → _Argument: Wenn der Schweiß ohnehin in die Decke geht, muss die ganze Decke in die Maschine; eignet sich für die Käuferin, die für den schwitzenden Partner einkauft._
 
 ### 16. Interesting to see that the water in the machine went a similarly very…
 
@@ -309,7 +309,7 @@ Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scrol
 > `Q007` · Angle A · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert · Jury-Stimmen 1/3  
 > _Waschwasser der Federkissen wurde gelb._
 
-- **Scroll-Stopper:** 'Yellowish poo-water' ist sofort ekelig und laesst sich als Video zeigen (Waschwasser), der Vorher-Nachher-Effekt traegt die ganze Anzeige. → _I washed our pillows and the water turned yellow. Not 'a bit grubby'. Yellowish poo-water._
+- **Scroll-Stopper:** 'Yellowish poo-water' ist sofort ekelig und lässt sich als Video zeigen (Waschwasser), der Vorher-Nachher-Effekt trägt die ganze Anzeige. → _I washed our pillows and the water turned yellow. Not 'a bit grubby'. Yellowish poo-water._
 
 ### 17. my son often gets to this point, he often tells me he wishes he could …
 
@@ -329,7 +329,7 @@ Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scrol
 > `Q049` · Angle A · Gescheiterte Lösung · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert · Jury-Stimmen 1/3  
 > _Bezuglose Decke für Gäste: zu groß für Maschine, Wäsche kostete fast so viel wie die Decke. | Angle-Notiz: Gästebett | Wer für wen: Für Familienbesuch gekauft (Gästebett)_
 
-- **Kaufmotivation:** Eine gescheiterte Bezuglos-Decke, die zu gross fuer die Maschine war und deren Reinigung fast so viel kostete wie die Decke selbst, ist der Einwand gegen die ganze Kategorie. → _Entkraeftung von 'Don't waste your money': passt in eine normale Haushaltsmaschine, wird ohne Laken und ohne Bezug benutzt, keine Waeschereikosten._
+- **Kaufmotivation:** Eine gescheiterte Bezuglos-Decke, die zu groß für die Maschine war und deren Reinigung fast so viel kostete wie die Decke selbst, ist der Einwand gegen die ganze Kategorie. → _Entkräftung von 'Don't waste your money': passt in eine normale Haushaltsmaschine, wird ohne Laken und ohne Bezug benutzt, keine Wäschereikosten._
 
 ### 19. Hi I also have night sweats where I wake up so drenched I squeak again…
 
@@ -339,7 +339,7 @@ Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scrol
 > `Q218` · Angle C · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert · Jury-Stimmen 1/3  
 > _So nass, dass sie beim Bewegen auf dem Laken quietscht. | Angle-Notiz: Nachtschweiß durch Antidepressiva_
 
-- **Scroll-Stopper:** Das Quietschen auf dem nassen Laken spricht die Sinne an und ist so konkret, dass Betroffene sich sofort wiedererkennen (Ursprung: Antidepressiva, das Bild gilt aber fuer jeden Nachtschweiss). → _'I wake up so drenched I squeak against the sheet when I move.'_
+- **Scroll-Stopper:** Das Quietschen auf dem nassen Laken spricht die Sinne an und ist so konkret, dass Betroffene sich sofort wiedererkennen (Ursprung: Antidepressiva, das Bild gilt aber für jeden Nachtschweiß). → _'I wake up so drenched I squeak against the sheet when I move.'_
 
 ### 20. At bedtime, I’d crawl into the fleece sleeping bag I’d brought from ho…
 
@@ -369,7 +369,7 @@ Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scrol
 > `Q252` · Angle C · Schmerz · Intensität ●●●●● · ✔ verifiziert · Jury-Stimmen 1/3  
 > _Zweimal pro Nacht Bett und sich selbst umgezogen – Sorge, die Waschmaschine schafft das nicht. | Angle-Notiz: therapiebedingte Wechseljahre (Brustkrebs); zweitrangig A (Waschmaschine kommt nicht hinterher)_
 
-- **Kaufmotivation:** Zweimal pro Nacht Bett und Kleidung wechseln und die Angst, dass die Waschmaschine das auf Dauer nicht schafft, macht den Waschaufwand bei Nachtschweiss greifbar. → _Weniger Nasswerden durch Temperaturausgleich und, wenn doch, eine Decke statt Laken plus Bezug plus Decke: 'one wash, done'._
+- **Kaufmotivation:** Zweimal pro Nacht Bett und Kleidung wechseln und die Angst, dass die Waschmaschine das auf Dauer nicht schafft, macht den Waschaufwand bei Nachtschweiß greifbar. → _Weniger Nasswerden durch Temperaturausgleich und, wenn doch, eine Decke statt Laken plus Bezug plus Decke: 'one wash, done'._
 
 ### 23. I was never sure what to do with the bed - getting back into a cold, w…
 
@@ -377,7 +377,7 @@ Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scrol
 >
 > — **DayLillie** · Mumsnet · 2014-10-28 · [night hot flushes](https://www.mumsnet.com/talk/menopause/2220804-night-hot-flushes)  
 > `Q227` · Angle C · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert · Jury-Stimmen 1/3  
-> _Zurueck ins kalte, nasse Bett, weil sie den Mann nicht wecken will._
+> _Zurück ins kalte, nasse Bett, weil sie den Mann nicht wecken will._
 
 - **Storytelling:** Stille Selbstaufopferung: Sie geht lieber zurück ins kalte, nasse Bett, als den Mann zu wecken. Scham und Rücksicht zugleich, die jede Betroffene wiedererkennt. → _Nachtszene um 3 Uhr im UGC-Stil: Sie steht im Dunkeln neben dem Bett und flüstert, warum sie ihn nicht weckt, Schnitt zu einer Decke, die am Morgen einfach komplett in die Maschine wandert._
 
@@ -390,7 +390,7 @@ Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scrol
 > _Jeden Morgen klatschnass, Schweiß zieht bis in die Matratze._
 
 - **Storytelling:** Die Nässe zieht vom Bettzeug bis in die Matratze, der emotionale Kern ist aber "OH can't cuddle me at night": Nachtschweiß als Verlust von Nähe. → _Paar-Testimonial mit zwei Perspektiven: Er erzählt, dass er sie nachts nicht mehr in den Arm nehmen konnte, und sie erzählt die Geschichte aus ihrer Sicht zu Ende._
-- **Kaufmotivation:** Der Schweiss durchnaesst Decke und Laken bis zur Matratze, und der Partner kann sie nicht mehr in den Arm nehmen. → _Zeigt, dass die Decke selbst nass wird, also waschbar plus temperaturausgleichend; emotionaler Partner-Aufhaenger 'wieder kuscheln koennen'._
+- **Kaufmotivation:** Der Schweiß durchnässt Decke und Laken bis zur Matratze, und der Partner kann sie nicht mehr in den Arm nehmen. → _Zeigt, dass die Decke selbst nass wird, also waschbar plus temperaturausgleichend; emotionaler Partner-Aufhänger 'wieder kuscheln können'._
 
 ### 25. …how people seem to think a cotton duvet cover stops sweat, dirt, dead…
 
@@ -398,10 +398,10 @@ Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scrol
 >
 > — **Hayley1256** · Mumsnet · 2025-10-19 · [How often do you replace your duvet?](https://www.mumsnet.com/talk/_chat/5430163-how-often-do-you-replace-your-duvet?page=4)  
 > `Q085` · Angle A · Glaube · Intensität ●●●●○ · ✔ verifiziert · Jury-Stimmen 2/3  
-> _Bezug haelt Schweiss und Hautschuppen nicht ab._
+> _Bezug hält Schweiß und Hautschuppen nicht ab._
 
 - **Kaufmotivation:** Widerlegt den verbreiteten Glauben, ein cotton duvet cover halte sweat, dirt, dead skin cells von der Decke fern. → _Mythos-Buster: Der Bezug ist kein Schutzschild, deshalb bringt nur Waschen der ganzen Decke echte Hygiene._
-- **Scroll-Stopper:** Raeumt mit einem Irrtum auf, den fast jeder hat (der Bezug schuetzt die Decke), und schafft so den Grund, die Decke selbst zu waschen. → _Think your duvet cover protects your duvet? Sweat, dirt and dead skin cells go straight through._
+- **Scroll-Stopper:** Räumt mit einem Irrtum auf, den fast jeder hat (der Bezug schützt die Decke), und schafft so den Grund, die Decke selbst zu waschen. → _Think your duvet cover protects your duvet? Sweat, dirt and dead skin cells go straight through._
 
 ### 26. If my husband dies before me I think I'm going to get a single bed. I …
 
@@ -409,9 +409,9 @@ Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scrol
 >
 > — **cramptramp** · Mumsnet · 2025-03-04 · [How difficult do you find changing your bed?](https://www.mumsnet.com/talk/housekeeping/5286934-how-difficult-do-you-find-changing-your-bed)  
 > `Q187` · Angle B · Glaube · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert · Jury-Stimmen 2/3  
-> _Ohne Ehemann wuerde sie aufs Einzelbett umsteigen. | Wer für wen: Ehemann hilft aktuell; ohne ihn Einzelbett_
+> _Ohne Ehemann würde sie aufs Einzelbett umsteigen. | Wer für wen: Ehemann hilft aktuell; ohne ihn Einzelbett_
 
-- **Scroll-Stopper:** Schwarzer britischer Humor mit Schockmoment, der sich erst durch den Bezug-Kontext aufloest und deshalb zum Weiterschauen zwingt. → _'If my husband dies before me, I'm getting a single bed.' Not grief. The duvet cover._
+- **Scroll-Stopper:** Schwarzer britischer Humor mit Schockmoment, der sich erst durch den Bezug-Kontext auflöst und deshalb zum Weiterschauen zwingt. → _'If my husband dies before me, I'm getting a single bed.' Not grief. The duvet cover._
 - **Storytelling:** Ein einziger Satz verbindet die Angst, den Partner zu verlieren, mit der Kapitulation vor dem großen Bett: leise, aber tief. → _Advertorial über Paare im Ruhestand, die heimlich überlegen, wie sie allein zurechtkämen, und über eine Decke, mit der das große Bett auch für eine Person machbar bleibt._
 
 ### 27. I'm confused by coverless duvets. How is it easier washing and drying …
@@ -422,7 +422,7 @@ Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scrol
 > `Q180` · Angle B · Einwand · Intensität ●●●●○ · ✔ verifiziert · Jury-Stimmen 1/3  
 > _Hasst Beziehen, zweifelt aber am Nutzen bezugloser Decken._
 
-- **Kaufmotivation:** Der zentrale Denkfehler-Einwand gegen bezuglose Decken, und zwar von jemandem, der das Bezug-Beziehen hasst. → _Direkt beantworten: Rechnung 'eine Decke in die Maschine' gegen 'Bezug abziehen, waschen, wieder reinkaempfen'; dazu der Hinweis auf die schnelle Trocknung._
+- **Kaufmotivation:** Der zentrale Denkfehler-Einwand gegen bezuglose Decken, und zwar von jemandem, der das Bezug-Beziehen hasst. → _Direkt beantworten: Rechnung 'eine Decke in die Maschine' gegen 'Bezug abziehen, waschen, wieder reinkämpfen'; dazu der Hinweis auf die schnelle Trocknung._
 
 ### 28. The most common ghosts are the ones that appear, dressed in a white sh…
 
@@ -432,7 +432,7 @@ Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scrol
 > `Q142` · Angle B · Schmerz · Intensität ●●●●○ · ✔ verifiziert · Jury-Stimmen 1/3  
 > _Witz über Gespenster, die beim Beziehen gestorben sind (hook-tauglich)._
 
-- **Scroll-Stopper:** Ein fertiger Witz mit Pointe (Gespenster im weissen Laken sind am Deckenbeziehen gestorben), sehr gut fuer TikTok-Humor und ein passendes Bild dazu. → _Ever wondered why ghosts wear a white sheet and flail their arms? They died changing their duvet covers._
+- **Scroll-Stopper:** Ein fertiger Witz mit Pointe (Gespenster im weißen Laken sind am Deckenbeziehen gestorben), sehr gut für TikTok-Humor und ein passendes Bild dazu. → _Ever wondered why ghosts wear a white sheet and flail their arms? They died changing their duvet covers._
 
 ### 29. But we wash sheets and linen regularly like everyone else so what are …
 
@@ -440,10 +440,10 @@ Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scrol
 >
 > — **Cameron67** · Mumsnet · 2022-02-20 · [Allergies](https://www.mumsnet.com/talk/allergies/4486383-Allergies)  
 > `Q346` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert · Jury-Stimmen 2/3  
-> _Waescht Bettwaesche regelmaessig und versteht nicht, woher die Allergene kommen. | Angle-Notiz: A | Wer für wen: Mutter waescht Bettwaesche der Tochter_
+> _Wäscht Bettwäsche regelmäßig und versteht nicht, woher die Allergene kommen. | Angle-Notiz: A | Wer für wen: Mutter wäscht Bettwäsche der Tochter_
 
-- **Kaufmotivation:** Die ratlose Frage nach den Allergenen, obwohl sie regelmaessig waescht, oeffnet die Tuer fuer die Aufklaerung, dass die Decke selbst die Quelle ist. → _Aufklaerungs-Hook: 'Du waeschst die Laken, aber nie die Decke?' Milben sitzen in der Fuellung, also eine Decke, die komplett in die Maschine kann._
-- **Scroll-Stopper:** Die verzweifelte Frage einer gewissenhaften Mutter oeffnet eine Wissensluecke, die die Anzeige sofort schliessen kann (die ungewaschene Decke). → _'We wash sheets and linen regularly like everyone else, so what are the allergens?' Hint: the bit you never wash._
+- **Kaufmotivation:** Die ratlose Frage nach den Allergenen, obwohl sie regelmäßig wäscht, öffnet die Tür für die Aufklärung, dass die Decke selbst die Quelle ist. → _Aufklärungs-Hook: 'Du wäschst die Laken, aber nie die Decke?' Milben sitzen in der Füllung, also eine Decke, die komplett in die Maschine kann._
+- **Scroll-Stopper:** Die verzweifelte Frage einer gewissenhaften Mutter öffnet eine Wissenslücke, die die Anzeige sofort schließen kann (die ungewaschene Decke). → _'We wash sheets and linen regularly like everyone else, so what are the allergens?' Hint: the bit you never wash._
 
 ### 30. I have been known to leave the duvet coverless when there's no one her…
 
@@ -451,9 +451,9 @@ Ausgewählt von drei unabhängigen Jurys mit verschiedenen Blickwinkeln: **Scrol
 >
 > — **paomara** · Mumsnet · 2026-09-05 · [I'm sick of duvets](https://www.mumsnet.com/talk/housekeeping/5574955-im-sick-of-duvets?page=3)  
 > `Q175` · Angle B · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert · Jury-Stimmen 1/3  
-> _Laesst die Decke ohne Bezug, wenn niemand zum Helfen da ist. | Wer für wen: braucht Hilfe einer anderen Person zum Beziehen_
+> _Lässt die Decke ohne Bezug, wenn niemand zum Helfen da ist. | Wer für wen: braucht Hilfe einer anderen Person zum Beziehen_
 
-- **Kaufmotivation:** Nutzerinnen lassen die Decke ohnehin ohne Bezug, wenn niemand hilft, und zeigen damit das Produktverhalten schon vor dem Produkt. → _Erlaubnis-Hook: 'Du schlaeft eh schon ohne Bezug? Dann mit einer Decke, die dafuer gemacht ist', hygienisch und ohne schlechtes Gewissen._
+- **Kaufmotivation:** Nutzerinnen lassen die Decke ohnehin ohne Bezug, wenn niemand hilft, und zeigen damit das Produktverhalten schon vor dem Produkt. → _Erlaubnis-Hook: 'Du schläfst eh schon ohne Bezug? Dann mit einer Decke, die dafür gemacht ist', hygienisch und ohne schlechtes Gewissen._
 
 ## 4. Zitatbank nach Angle und Typ
 
@@ -509,7 +509,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **anonymous (Netmums-Anonym-Post)** · Netmums · 2013-03-11 · [night sweats, sorry tmi](https://www.netmums.com/coffeehouse/health-wellbeing-1087/health-advice-756/901515-night-sweats-sorry-tmi.html)  
 > `Q008` · Angle A · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Wegen Nachtschweiß des Mannes alle paar Tage Laken wechseln, Gestank weckt sie. | Angle-Notiz: Partner-Nachtschweiss – Frau waescht/bezieht fuer ihn; Geruch | Wer für wen: Ehefrau wechselt und wäscht die Bettwäsche wegen des Nachtschweißes ihres Mannes_
+> _Wegen Nachtschweiß des Mannes alle paar Tage Laken wechseln, Gestank weckt sie. | Angle-Notiz: Partner-Nachtschweiß – Frau wäscht/bezieht für ihn; Geruch | Wer für wen: Ehefrau wechselt und wäscht die Bettwäsche wegen des Nachtschweißes ihres Mannes_
 
 > "I can't bare to tell him that changing the sheets sometimes makes me gag."
 >
@@ -520,32 +520,32 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 > "whenever we’ve stayed at their house the edge of the duvet cover smells of armpit."
 >
 > — **Cucoocumber** · Mumsnet · 2026-09-07 · [I'm sick of duvets](https://www.mumsnet.com/talk/housekeeping/5574955-im-sick-of-duvets?page=5)  
-> `Q010` · Angle A · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _Bei Verwandten riecht der Deckenbezug-Rand nach Achsel (Top-Sheet-Methode). | Angle-Notiz: Gaestebett bei Verwandten_
+> `Q010` · Angle A · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Bei Verwandten riecht der Deckenbezug-Rand nach Achsel (Top-Sheet-Methode). | Angle-Notiz: Gästebett bei Verwandten | Wer für wen: Übernachtungsgast über das Gästebett bei Verwandten: Bezugrand riecht nach Achsel_
 
 > "DS's dear little head stinks like FIL's 3-day unwashed armpit."
 >
 > — **MRex** · Mumsnet · 2019-07-31 · [AIBU - PIL smelly sheets](https://www.mumsnet.com/talk/am_i_being_unreasonable/3652416-AIBU-PIL-smelly-sheets)  
-> `Q011` · Angle A · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _Bett bei Schwiegereltern stinkt nach Schweiss des Schwiegervaters. | Angle-Notiz: Gaestebett bei Schwiegereltern_
+> `Q011` · Angle A · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Bett bei Schwiegereltern stinkt nach Schweiß des Schwiegervaters. | Angle-Notiz: Gästebett bei Schwiegereltern | Wer für wen: Mutter über Gästebett bei den Schwiegereltern: Kopf des Sohnes riecht nach dem Schwiegervater (FIL)_
 
 > "The bed started to stink during the night, it smells of sweaty FIL, who's lovely but doesn't wash enough."
 >
 > — **MRex** · Mumsnet · 2019-07-31 · [AIBU - PIL smelly sheets](https://www.mumsnet.com/talk/am_i_being_unreasonable/3652416-AIBU-PIL-smelly-sheets)  
-> `Q012` · Angle A · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _Bett begann nachts zu stinken. | Angle-Notiz: NEU: Gaestebett_
+> `Q012` · Angle A · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Bett begann nachts zu stinken. | Angle-Notiz: NEU: Gästebett | Wer für wen: Übernachtungsgast bei Schwiegereltern: Gästebett riecht nachts nach dem Schwiegervater_
 
 > "Men are gross. Am stood looking at the bed now and there is literally a line down the middle dividing the lovely white side and the rancid, stained side."
 >
 > — **dippingbackin** · Mumsnet · 2014-08-04 · [Need help removing gross yellow stains from DP's pillow cases](https://www.mumsnet.com/talk/housekeeping/2150674-Need-help-removing-gross-yellow-stains-from-DPs-pillow-cases)  
-> `Q013` · Angle A · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _Sichtbare Linie zwischen weisser und gelber Betthaelfte. | Angle-Notiz: Partner schwitzt_
+> `Q013` · Angle A · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Sichtbare Linie zwischen weißer und gelber Betthälfte. | Angle-Notiz: Partner schwitzt | Wer für wen: Partnerin vor dem gemeinsamen Bett: seine Hälfte vergilbt, Hygienelast liegt implizit bei ihr_
 
 > "he makes the whole of his side of the bed saturated with sweat and it smells horrible!"
 >
 > — **dibdobs** · Mumsnet · 2014-08-05 · [Need help removing gross yellow stains from DP's pillow cases](https://www.mumsnet.com/talk/housekeeping/2150674-Need-help-removing-gross-yellow-stains-from-DPs-pillow-cases?page=2)  
-> `Q014` · Angle A · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _Bettseite des Partners schweissnass und stinkend. | Angle-Notiz: Partner schwitzt_
+> `Q014` · Angle A · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Bettseite des Partners schweißnass und stinkend. | Angle-Notiz: Partner schwitzt | Wer für wen: Partnerin über die schweißnasse, stinkende Betthälfte des Partners_
 
 > "i did take our kingsize one to the laundrette once and what a hassle getting it in the car and then trying to carry it as i couldn't park on the main road, then when i collected it, they hadn't got it completely dry and were closing, so i had a damp duvet that night…Never again."
 >
@@ -568,8 +568,8 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 > "my step mum had obviously slept in it whilst on her period... and bled all over the sheets... but to make it even worse she left the sheets on for me to sleep in!! I sat by the bedroom door all night crying!"
 >
 > — **Anonymous** · Netmums · 2013-01-09 · [A fifth of us only change our bed linen once a month](https://www.netmums.com/coffeehouse/other-chat-514/news-12/871792-fifth-us-only-change-our-bed-linen-once-month-5.html)  
-> `Q018` · Angle A · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _Als Kind im blutverschmierten Gästebett der Stiefmutter schlafen sollen. | Angle-Notiz: Gästebett_
+> `Q018` · Angle A · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Als Kind im blutverschmierten Gästebett der Stiefmutter schlafen sollen. | Angle-Notiz: Gästebett | Wer für wen: Stiefmutter legte das Kind ins ungewechselte, blutverschmierte Gästebett_
 
 > "8 month old duvet & pillow - i was ashamed @ the colour of the water, it was like thick mud colour eww makes me cringe just thinking bout it."
 >
@@ -581,7 +581,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Shaun** · Trustpilot - Dunelm · 2024-11-25 · [Dorma duvet scam Dunelm](https://uk.trustpilot.com/review/www.dunelm.com?search=sweat)  
 > `Q020` · Angle A · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _1 Stern, 'neue' Dorma-Decke aus dem Laden war benutzt: Schmutz, Tee-/Kaffeeflecken, Schweiss, Blut._
+> _1 Stern, 'neue' Dorma-Decke aus dem Laden war benutzt: Schmutz, Tee-/Kaffeeflecken, Schweiß, Blut._
 
 > "Bought a summer duvet which had the symbol on to tumble dry on low heat which I did and it melted…"
 >
@@ -599,13 +599,13 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Lauren** · Trustpilot - Emma · 2026-07-30 (aktualisiert) · [Used Item included in Order](https://uk.trustpilot.com/review/emma-sleep.co.uk?search=sweat)  
 > `Q023` · Angle A · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _3 Sterne, Gratis-Kissen war gebraucht, roch nach Schweiss und war schmutzig._
+> _3 Sterne, Gratis-Kissen war gebraucht, roch nach Schweiß und war schmutzig._
 
 > "there was blood marks on the duvet. It certainly wasn't ours."
 >
 > — **Jacqui Hudson** · Trustpilot - Dunelm · 2023-10-09 · [Ordered a new 10.5 tog duvet in store…](https://uk.trustpilot.com/review/www.dunelm.com?search=tog)  
 > `Q024` · Angle A · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _1 Stern, neu bestellte 10.5-Tog-Decke hatte Blutflecken (offenbar Ruecklaeufer)._
+> _1 Stern, neu bestellte 10.5-Tog-Decke hatte Blutflecken (offenbar Rückläufer)._
 
 > "We opened the zipped cover to wash it only to find the sponge of the mattress had black spots all over it."
 >
@@ -623,13 +623,13 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Danielle Bridgman** · Trustpilot - Simba · 2024-02-29 (aktualisiert) · [Bad smell](https://uk.trustpilot.com/review/simbasleep.com?search=duvet&stars=2)  
 > `Q027` · Angle A · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _2 Sterne, neue Simba-Bettwaesche riecht muffig wie vom Dachboden 'mit einem Hauch Edamer'._
+> _2 Sterne, neue Simba-Bettwäsche riecht muffig wie vom Dachboden 'mit einem Hauch Edamer'._
 
 > "first time washing was a disaster as it didnt spin (8 kg washing machine) so I had a dripping wet duvet to dry."
 >
 > — **Becky** · Trustpilot - The Fine Bedding Company · 2024-07-28 · [Love the duvet cover but doesn't fit in my washing machine](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=laundrette)  
 > `Q028` · Angle A · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _3 Sterne. Erste Waesche ein Desaster: kein Schleudern, triefnasse Decke._
+> _3 Sterne. Erste Wäsche ein Desaster: kein Schleudern, triefnasse Decke._
 
 > "I had to get it out of the machine, soaking wet and take it to a laundrette."
 >
@@ -670,8 +670,8 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 > "So when the children/dog/cat has pissed/vomited/poohed on it I get a new one[blush]"
 >
 > — **moaningminniewhingesagain** · Mumsnet · 2010-08-23 · [How often do you wash your duvet and how do you do it?](https://www.mumsnet.com/talk/housekeeping/1027119-How-often-do-you-wash-your-duvet-and-how-do)  
-> `Q035` · Angle A · Horrorgeschichte · Intensität ●●●●○ · ✔ verifiziert  
-> _Statt Waschen wird nach Unfaellen eine neue Decke gekauft. | Angle-Notiz: Kinder/Haustiere_
+> `Q035` · Angle A · Horrorgeschichte · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Statt Waschen wird nach Unfällen eine neue Decke gekauft. | Angle-Notiz: Kinder/Haustiere | Wer für wen: Mutter kauft neue Decke, wenn Kinder (oder Haustiere) sie verschmutzt haben_
 
 > "Oh is a welder and even after a 40 minute shower he still leaves a black body print on our bedding so I hate it!!"
 >
@@ -690,32 +690,32 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 > "I could not stand the thought of his miasma gestating as long as a human baby in the duvet."
 >
 > — **whomovedmychocolate** · Mumsnet · 2010-08-23 · [How often do you wash your duvet and how do you do it?](https://www.mumsnet.com/talk/housekeeping/1027119-How-often-do-you-wash-your-duvet-and-how-do)  
-> `Q038` · Angle A · Schmerz · Intensität ●●●●● · ✔ verifiziert  
-> _Ekel vor dem Schweiss des Partners in der Decke. | Angle-Notiz: Partner_
+> `Q038` · Angle A · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Ekel vor dem Schweiß des Partners in der Decke. | Angle-Notiz: Partner | Wer für wen: Partnerin ekelt sich vor dem Schweiß des Partners in der gemeinsamen Decke_
 
 > "They smell awful to me and not unlike an old, sweaty man smell."
 >
 > — **envelopeofpubes** · Mumsnet · 2019-07-31 · [AIBU - PIL smelly sheets](https://www.mumsnet.com/talk/am_i_being_unreasonable/3652416-AIBU-PIL-smelly-sheets)  
 > `Q039` · Angle A · Schmerz · Intensität ●●●●● · ✔ verifiziert  
-> _Beschreibung des Geruchs alter Bettwaesche._
+> _Beschreibung des Geruchs alter Bettwäsche._
 
 > "DP is incredibly sweaty in the night and I am f*cking sick of him ruining…"
 >
 > — **dippingbackin** · Mumsnet · 2014-08-04 · [Need help removing gross yellow stains from DP's pillow cases](https://www.mumsnet.com/talk/housekeeping/2150674-Need-help-removing-gross-yellow-stains-from-DPs-pillow-cases)  
 > `Q040` · Angle A · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Thread-Eroeffnung: Partner schwitzt nachts alles gelb. | Angle-Notiz: Partner schwitzt | Wer für wen: Partnerin waescht fuer schwitzenden Partner_
+> _Thread-Eröffnung: Partner schwitzt nachts alles gelb. | Angle-Notiz: Partner schwitzt | Wer für wen: Partnerin wäscht für schwitzenden Partner_
 
 > "Everything ends up yellow on his side despite me washing it very regularly - I can't wash it every sodding day!!!"
 >
 > — **dippingbackin** · Mumsnet · 2014-08-04 · [Need help removing gross yellow stains from DP's pillow cases](https://www.mumsnet.com/talk/housekeeping/2150674-Need-help-removing-gross-yellow-stains-from-DPs-pillow-cases)  
 > `Q041` · Angle A · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Alles auf seiner Seite wird gelb, trotz haeufigem Waschen. | Angle-Notiz: Partner schwitzt | Wer für wen: Partnerin waescht fuer Partner_
+> _Alles auf seiner Seite wird gelb, trotz häufigem Waschen. | Angle-Notiz: Partner schwitzt | Wer für wen: Partnerin wäscht für Partner_
 
 > "Guess I don't have to sleep on them but it makes me want to heave just looking at them."
 >
 > — **dippingbackin** · Mumsnet · 2014-08-04 · [Need help removing gross yellow stains from DP's pillow cases](https://www.mumsnet.com/talk/housekeeping/2150674-Need-help-removing-gross-yellow-stains-from-DPs-pillow-cases)  
 > `Q042` · Angle A · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Ekel beim Anblick der Kissenbezuege. | Angle-Notiz: B | Wer für wen: Partnerin bezieht/waescht fuer Partner_
+> _Ekel beim Anblick der Kissenbezüge. | Angle-Notiz: B | Wer für wen: Partnerin bezieht/wäscht für Partner_
 
 > "DH's pillows have a papery protective cover … and still he stains them with sweat."
 >
@@ -732,8 +732,8 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 > "so even DH's sweat and oily hair smell don't usually get through.…What is it about men that makes their pillows get so smelly?"
 >
 > — **cc** · Gransnet · 12-Aug-2022 · [Washing pillows](https://www.gransnet.com/forums/ask_a_gran/1314095-Washing-pillows?pg=3)  
-> `Q045` · Angle A · Schmerz · Intensität ●●●●○ · ✔ verifiziert  
-> _Schweiß und Haargeruch des Mannes._
+> `Q045` · Angle A · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Schweiß und Haargeruch des Mannes. | Wer für wen: Ehefrau managt Kissenschutz gegen Schweiß- und Haargeruch des Mannes (DH)_
 
 > "my dad had this few years ago, my mum kept moaning bout having to wash bedding all the time, turned out he had lymphoma."
 >
@@ -751,7 +751,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **mousymouse** · Mumsnet · 2010-08-24 · [How often do you wash your duvet and how do you do it?](https://www.mumsnet.com/talk/housekeeping/1027119-How-often-do-you-wash-your-duvet-and-how-do)  
 > `Q048` · Angle A · Schmerz · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Kinderdecke muss woechentlich gewaschen werden. | Angle-Notiz: Kinder/Toilettentraining | Wer für wen: Mutter waescht Kinderdecke_
+> _Kinderdecke muss wöchentlich gewaschen werden. | Angle-Notiz: Kinder/Toilettentraining | Wer für wen: Mutter wäscht Kinderdecke_
 
 #### A · Gescheiterte Lösung (6)
 
@@ -827,7 +827,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **D. Etherington** · Trustpilot - Silentnight · 2026-02-16 · [King size won't fit into large at home machine](https://uk.trustpilot.com/review/shop.silentnight.co.uk?search=coverless)  
 > `Q060` · Angle A · Einwand · Intensität ●●●●○ · ✔ verifiziert  
-> _3 Sterne, bezuglose 10.5-Tog-Decke passt nicht in die grosse Haushaltswaschmaschine._
+> _3 Sterne, bezuglose 10.5-Tog-Decke passt nicht in die große Haushaltswaschmaschine._
 
 > "The pillows are advertised as washable and are able to be tumble dried but certainly are not."
 >
@@ -839,19 +839,19 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Asia K** · Trustpilot - Emma · 2023-08-30 · [The mattress is great - don't get the protector.](https://uk.trustpilot.com/review/emma-sleep.co.uk?search=sweat)  
 > `Q062` · Angle A · Einwand · Intensität ●●●●○ · ✔ verifiziert  
-> _3 Sterne, Matratzenschoner fuehlt sich an wie Plastik. | Angle-Notiz: Matratzenschoner/Hygieneschutz; sekundär C (Atmungsaktivität)_
+> _3 Sterne, Matratzenschoner fühlt sich an wie Plastik. | Angle-Notiz: Matratzenschoner/Hygieneschutz; sekundär C (Atmungsaktivität)_
 
 > "What they dont say until the fine print which I for one never saw is that you need extra large domestic machines."
 >
 > — **Mrs MC** · Trustpilot - The Fine Bedding Company · 2024-08-10 · [Misdescribed](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=duvet&stars=1&page=2)  
 > `Q063` · Angle A · Einwand · Intensität ●●●●○ · ✔ verifiziert  
-> _1 Stern. Kingsize-bezuglose Decke angeblich zuhause waschbar, braucht aber extragrosse Maschine._
+> _1 Stern. Kingsize-bezuglose Decke angeblich zuhause waschbar, braucht aber extragroße Maschine._
 
 > "a standard double is too big to fit in her washing machine so my sister will have to wash it for her"
 >
 > — **Adele Wyse** · Trustpilot - The Fine Bedding Company · 2023-02-19 · [Coverless Duvet](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=mum&page=2)  
 > `Q064` · Angle A · Einwand · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _4 Sterne. Doppeldecke passt nicht in Mutters Maschine, Schwester muss waschen. | Angle-Notiz: Decke passt nicht in Maschine der Mutter; Schwester waescht | Wer für wen: Tochter kauft, Schwester muss fuer die Mutter waschen_
+> _4 Sterne. Doppeldecke passt nicht in Mutters Maschine, Schwester muss waschen. | Angle-Notiz: Decke passt nicht in Maschine der Mutter; Schwester wäscht | Wer für wen: Tochter kauft, Schwester muss für die Mutter waschen_
 
 > "We have a 10kg machine which cannot cope with the size of the king size duvet, and only just manages with the single!"
 >
@@ -863,7 +863,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **ineedaholidaynow** · Mumsnet · 2021-07-24 · [Coverless Duvets](https://www.mumsnet.com/talk/_chat/4304814-Coverless-Duvets)  
 > `Q066` · Angle A · Einwand · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Mutter in kleiner Wohnung mit Gemeinschafts-Waschkueche kann Decken kaum trocknen. | Angle-Notiz: Gemeinschaftswaschkueche/kleine Wohnung, aeltere Mutter | Wer für wen: Tochter ueber Mutter_
+> _Mutter in kleiner Wohnung mit Gemeinschafts-Waschküche kann Decken kaum trocknen. | Angle-Notiz: Gemeinschaftswaschküche/kleine Wohnung, ältere Mutter | Wer für wen: Tochter über Mutter_
 
 #### A · Glaube (29)
 
@@ -931,19 +931,19 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **AlCrowley** · Mumsnet · 2010-08-23 · [How often do you wash your duvet and how do you do it?](https://www.mumsnet.com/talk/housekeeping/1027119-How-often-do-you-wash-your-duvet-and-how-do)  
 > `Q077` · Angle A · Glaube · Intensität ●●●●○ · ✔ verifiziert  
-> _Decken bestehen irgendwann mehr aus Hautschuppen als Fuellung._
+> _Decken bestehen irgendwann mehr aus Hautschuppen als Füllung._
 
 > "If it sags either side then it's become saturated with dead skin etc."
 >
 > — **WhatsWrongWithYou** · Mumsnet · 2010-08-23 · [How often do you wash your duvet and how do you do it?](https://www.mumsnet.com/talk/housekeeping/1027119-How-often-do-you-wash-your-duvet-and-how-do)  
 > `Q078` · Angle A · Glaube · Intensität ●●●●○ · ✔ verifiziert  
-> _Durchhaengende Decke = voller Hautschuppen._
+> _Durchhängende Decke = voller Hautschuppen._
 
 > "Mine would probably disintegrate now if I washed it."
 >
 > — **Bubble99** · Mumsnet · 2009-01-03 · [Do you ever get your duvet cleaned?](https://www.mumsnet.com/talk/housekeeping/676490-Do-you-ever-get-your-duvet-cleaned)  
 > `Q079` · Angle A · Glaube · Intensität ●●●●○ · ✔ verifiziert  
-> _Alte Decke wuerde beim Waschen zerfallen._
+> _Alte Decke würde beim Waschen zerfallen._
 
 > "It could be the actual pillows and duvets that smell so the stinky person smell is coming through the sheets."
 >
@@ -960,8 +960,8 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 > "I have one which is around 50 years old and still in occasional use as a spare. Yes really."
 >
 > — **Mandarinaduck** · Mumsnet · 2025-10-19 · [How often do you replace your duvet?](https://www.mumsnet.com/talk/_chat/5430163-how-often-do-you-replace-your-duvet)  
-> `Q082` · Angle A · Glaube · Intensität ●●●●○ · ✔ verifiziert  
-> _50 Jahre alte Decke als Gaestedecke. | Angle-Notiz: Gästebett; uralte Decke_
+> `Q082` · Angle A · Glaube · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _50 Jahre alte Decke als Gästedecke. | Angle-Notiz: Gästebett; uralte Decke | Wer für wen: 50 Jahre alte Decke noch als Gästedecke (spare) im Einsatz_
 
 > "Might weigh a tonne with the build up if dead skin cells!"
 >
@@ -979,7 +979,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Hayley1256** · Mumsnet · 2025-10-19 · [How often do you replace your duvet?](https://www.mumsnet.com/talk/_chat/5430163-how-often-do-you-replace-your-duvet?page=4)  
 > `Q085` · Angle A · Glaube · Intensität ●●●●○ · ✔ verifiziert  
-> _Bezug haelt Schweiss und Hautschuppen nicht ab._
+> _Bezug hält Schweiß und Hautschuppen nicht ab._
 
 > "I takes longer than 15 minutes to clear a bed of sweat and skin cells - most of them are absorbed into the pillows, duvet and mattress not the covers - you need to be washing duvets, pillows"
 >
@@ -1039,7 +1039,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Mrs Siddle** · Trustpilot - Soak&Sleep · 2025-03-29 · [Wonderful Duvet Protectors](https://uk.trustpilot.com/review/www.soakandsleep.com?search=sweat)  
 > `Q095` · Angle A · Glaube · Intensität ●●●●○ · ✔ verifiziert  
-> _5 Sterne (Deckenschoner). Ueberzeugung: Kingsize-Decke passt nicht in die Maschine, Ersetzen ist teuer. | Angle-Notiz: Deckenschoner als Workaround_
+> _5 Sterne (Deckenschoner). Überzeugung: Kingsize-Decke passt nicht in die Maschine, Ersetzen ist teuer. | Angle-Notiz: Deckenschoner als Workaround_
 
 #### A · Wunsch (9)
 
@@ -1047,7 +1047,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **StopStartStop** · Mumsnet · 2023-10-02 · [Coverless Duvet](https://www.mumsnet.com/talk/_chat/4910779-coverless-duvet?page=2)  
 > `Q096` · Angle A · Wunsch · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Kind kauft waschbare Decke fuer den Vater, der die Bettwaesche durchnaesst. | Angle-Notiz: Pflege/Inkontinenz älterer Vater | Wer für wen: Tochter/Sohn kauft waschbare Decke fuer aelteren Vater, der das Bett einnaesst_
+> _Kind kauft waschbare Decke für den Vater, der die Bettwäsche durchnässt. | Angle-Notiz: Pflege/Inkontinenz älterer Vater | Wer für wen: Tochter/Sohn kauft waschbare Decke für älteren Vater, der das Bett einnässt_
 
 > "I'd love to get my duvet washed but I know it wouldn't be dry enough in one day to put back on the bed…"
 >
@@ -1059,7 +1059,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Louise Austin** · Trustpilot - The Fine Bedding Company · 2022-01-31 · [Uncomfortably hot, very disappointing](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=duvet&stars=1&page=3)  
 > `Q098` · Angle A · Wunsch · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _1 Stern. Wunsch: ganze Decke woechentlich waschen koennen. | Wer für wen: Mutter kauft fuer das Bett des Sohnes_
+> _1 Stern. Wunsch: ganze Decke wöchentlich waschen können. | Wer für wen: Mutter kauft für das Bett des Sohnes_
 
 > "What appeals to me is that each quarter will easily fit in the washing machine so that's a winner."
 >
@@ -1095,7 +1095,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **K W..** · Trustpilot - The Fine Bedding Company · 2024-09-17 · [There was excellent choice of products](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=allergy)  
 > `Q104` · Angle A · Wunsch · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Decke zuhause waschen ohne Sorge. | Angle-Notiz: Allergiker im Haushalt | Wer für wen: Kauft Bettzeug fuer eine Person mit Allergien_
+> _5 Sterne. Decke zuhause waschen ohne Sorge. | Angle-Notiz: Allergiker im Haushalt | Wer für wen: Kauft Bettzeug für eine Person mit Allergien_
 
 ### Angle B – Bett beziehen / Bezug wechseln (96 Zitate)
 
@@ -1111,13 +1111,13 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Starspread** · Mumsnet · 2015-10-15 · [To burn all bedsheets and sleep in a sleeping bag for ever?](https://www.mumsnet.com/talk/am_i_being_unreasonable/2487924-To-burn-all-bedsheets-and-sleep-in-a-sleeping-bag-for-ever)  
 > `Q106` · Angle B · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Bricht beim Beziehen in Traenen aus, Partner muss sie 'retten'. | Angle-Notiz: Schwangerschaft | Wer für wen: Partner muss das Bett fuer die schwangere Frau beziehen_
+> _Bricht beim Beziehen in Tränen aus, Partner muss sie 'retten'. | Angle-Notiz: Schwangerschaft | Wer für wen: Partner muss das Bett für die schwangere Frau beziehen_
 
 > "During the last few weeks of pregnancy with DS2, DH had to take over all bed changing duties, after more than one occasion where I was reduced to either hysterical sobbing or hysterical rage by poorly fitting sheets."
 >
 > — **WinterIsNeverReallyComing** · Mumsnet · 2015-10-15 · [To burn all bedsheets and sleep in a sleeping bag for ever?](https://www.mumsnet.com/talk/am_i_being_unreasonable/2487924-To-burn-all-bedsheets-and-sleep-in-a-sleeping-bag-for-ever)  
 > `Q107` · Angle B · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Hysterisches Weinen oder Wut wegen schlecht sitzender Laken. | Angle-Notiz: Schwangerschaft | Wer für wen: Ehemann uebernimmt Betten beziehen fuer schwangere Frau_
+> _Hysterisches Weinen oder Wut wegen schlecht sitzender Laken. | Angle-Notiz: Schwangerschaft | Wer für wen: Ehemann übernimmt Betten beziehen für schwangere Frau_
 
 > "I do confess I tried changing my bedding with a kidney infection I gave up and slept on a bare matress for 2 nights."
 >
@@ -1135,13 +1135,13 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Starspread** · Mumsnet · 2015-10-15 · [To burn all bedsheets and sleep in a sleeping bag for ever?](https://www.mumsnet.com/talk/am_i_being_unreasonable/2487924-To-burn-all-bedsheets-and-sleep-in-a-sleeping-bag-for-ever)  
 > `Q110` · Angle B · Horrorgeschichte · Intensität ●●●●○ · ✔ verifiziert  
-> _Hochschwangere kaempft eine halbe Stunde mit dem Laken des Toppers. | Angle-Notiz: Schwangerschaft_
+> _Hochschwangere kämpft eine halbe Stunde mit dem Laken des Toppers. | Angle-Notiz: Schwangerschaft_
 
 > "When I was heavily pregnant my husband came home to find me sobbing while attempting to get the waterproof sheet (homebirth) to stay on the corners of the mattress."
 >
 > — **MollyCarpenter** · Mumsnet · 2015-10-15 · [To burn all bedsheets and sleep in a sleeping bag for ever?](https://www.mumsnet.com/talk/am_i_being_unreasonable/2487924-To-burn-all-bedsheets-and-sleep-in-a-sleeping-bag-for-ever)  
-> `Q111` · Angle B · Horrorgeschichte · Intensität ●●●●○ · ✔ verifiziert  
-> _Hochschwanger weinend beim Versuch, das Laken auf die Matratze zu bekommen. | Angle-Notiz: Schwangerschaft_
+> `Q111` · Angle B · Horrorgeschichte · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Hochschwanger weinend beim Versuch, das Laken auf die Matratze zu bekommen. | Angle-Notiz: Schwangerschaft | Wer für wen: Ehemann findet hochschwangere Frau weinend beim Aufziehen des Laken_
 
 #### B · Schmerz (52)
 
@@ -1227,7 +1227,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **ICanBuyMyOwnFlowers** · Mumsnet · 2025-03-04 · [How difficult do you find changing your bed?](https://www.mumsnet.com/talk/housekeeping/5286934-how-difficult-do-you-find-changing-your-bed)  
 > `Q125` · Angle B · Schmerz · Intensität ●●●●● · ✔ verifiziert  
-> _55-Jaehrige muss sich nach dem Beziehen des Superking-Betts hinlegen._
+> _55-Jährige muss sich nach dem Beziehen des Superking-Betts hinlegen._
 
 > "It was my late husbands job to do the duvet."
 >
@@ -1257,7 +1257,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **WhoTookTheCookie** · Mumsnet · 2018-11-16 · [How do you get your quilt inside the cover?](https://www.mumsnet.com/talk/_chat/3425622-how-do-you-get-your-quilt-inside-the-cover)  
 > `Q130` · Angle B · Schmerz · Intensität ●●●●● · ✔ verifiziert  
-> _Wut auf den Bezug: klumpig, Ecke passt nicht, Seite verknuellt._
+> _Wut auf den Bezug: klumpig, Ecke passt nicht, Seite verknüllt._
 
 > "mines a king size, feather duvet. Weighs an absolute load and I'm only 5ft. When I say I fight with it, I'm not joking. Plus my arthritic joints hate me too."
 >
@@ -1275,7 +1275,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Bluesheep8** · Mumsnet · 2018-11-18 · [How do you get your quilt inside the cover?](https://www.mumsnet.com/talk/_chat/3425622-how-do-you-get-your-quilt-inside-the-cover?page=3)  
 > `Q133` · Angle B · Schmerz · Intensität ●●●●● · ✔ verifiziert  
-> _MS und Schulterprobleme - Beziehen erschoepft sie._
+> _MS und Schulterprobleme - Beziehen erschöpft sie._
 
 > "Of all the many household chores There is just one that I abhor. That fills my gut with instant dread, The weekly changing of the beds!!!"
 >
@@ -1286,8 +1286,8 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 > "it's REALLY difficult to change a bed this size on your own (I'm only dinky) and my husband is out of the country. Take's me a good month to recover from getting stuck in side the quilt cover"
 >
 > — **Anonymous** · Netmums · 2013-01-09 · [A fifth of us only change our bed linen once a month](https://www.netmums.com/coffeehouse/other-chat-514/news-12/871792-fifth-us-only-change-our-bed-linen-once-month-3.html)  
-> `Q135` · Angle B · Schmerz · Intensität ●●●●● · ✔ verifiziert  
-> _Allein ein großes Bett zu beziehen ist so schwer, dass sie nur monatlich wechselt. | Angle-Notiz: braucht zwei Personen_
+> `Q135` · Angle B · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Allein ein großes Bett zu beziehen ist so schwer, dass sie nur monatlich wechselt. | Angle-Notiz: braucht zwei Personen | Wer für wen: Kleine Frau, Ehemann im Ausland: großes Bett allein zu beziehen kaum machbar_
 
 > "DS1 now on top bunk and DS2 on bottom has been for 2 weeks so 2 changes and what a nightmare it is. I'm only 5"3 so have to climb up the ladders and the lot! Like a work out huffing an fluffing by the time I've tucked everything in!"
 >
@@ -1310,8 +1310,8 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 > "its my WORST job. im only a wee person and getting the duvet cover onto the duvet is the bane of my life! not exaclty got a man to do it.... do men even do that anyway?"
 >
 > — **Anonymous** · Netmums · 2008-04-28 · [bed linen...how often do you change it?](https://www.netmums.com/coffeehouse/home-garden-194/cleaning-14/168024-bed-linen-how-often-do-you-change.html)  
-> `Q139` · Angle B · Schmerz · Intensität ●●●●● · ✔ verifiziert  
-> _Kleine, alleinstehende Frau kämpft mit dem Bettbezug._
+> `Q139` · Angle B · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Kleine, alleinstehende Frau kämpft mit dem Bettbezug. | Wer für wen: Kleine, alleinstehende Frau: kein Mann da, der beim Beziehen hilft_
 
 > "Probably been about 4-5 weeks since I last did my bed, as I cannot physiucally do it. So until I get some strnegth back and less pain in my arms and shoulders mine will have to stay as they are"
 >
@@ -1323,7 +1323,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Mrs Sue Thynne** · Trustpilot - The Fine Bedding Company · 2026-04-17 · [The duvet is absolutely beautiful](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=changing)  
 > `Q141` · Angle B · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Ueber 80, Beziehen sehr schwer; Tochter hat Produkt empfohlen. | Angle-Notiz: Alter / Tochter empfiehlt | Wer für wen: Tochter empfiehlt der ueber 80-jaehrigen Mutter die bezuglose Decke_
+> _5 Sterne. Über 80, Beziehen sehr schwer; Tochter hat Produkt empfohlen. | Angle-Notiz: Alter / Tochter empfiehlt | Wer für wen: Tochter empfiehlt der über 80-jährigen Mutter die bezuglose Decke_
 
 > "The most common ghosts are the ones that appear, dressed in a white sheet, with flailing arms. These are people who died whilst changing their duvet covers and are condemned to wander in bedrooms for ever, trying to find the corners."
 >
@@ -1346,8 +1346,8 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 > "My son has a coverless, (yes coverless), washable duvet which he raves about.…I hate changing the cover on our kingsize."
 >
 > — **ExDancer** · Gransnet · 30-Nov-2022 · [Duvets? And getting them laundered?](https://www.gransnet.com/forums/house_and_home/1318412-Duvets-And-getting-them-laundered)  
-> `Q145` · Angle B · Schmerz · Intensität ●●●●○ · ✔ verifiziert  
-> _Sohn schwärmt, sie hasst das Beziehen._
+> `Q145` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Sohn schwärmt, sie hasst das Beziehen. | Wer für wen: Mutter: Sohn schwärmt von seiner bezuglosen Decke (Empfehlung durch das Kind)_
 
 > "My back is completely out atm, so I can only rustle DH to do this chore twice monthly rather than my normal weekly change of bedding."
 >
@@ -1365,7 +1365,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Chalatte** · Mumsnet · 2026-09-05 · [I'm sick of duvets](https://www.mumsnet.com/talk/housekeeping/5574955-im-sick-of-duvets)  
 > `Q148` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Die ganze Bettwaesche-Last liegt allein bei der Mutter. | Wer für wen: Mutter ist die Einzige, die die Betten der Familie bezieht_
+> _Die ganze Bettwäsche-Last liegt allein bei der Mutter. | Wer für wen: Mutter ist die Einzige, die die Betten der Familie bezieht_
 
 > "I find it really hard, I have to get ds2 to help me, it's the lifting of the mattress… then lifting it again to put the sheet corner on."
 >
@@ -1377,13 +1377,13 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **dippingbackin** · Mumsnet · 2014-08-04 · [Need help removing gross yellow stains from DP's pillow cases](https://www.mumsnet.com/talk/housekeeping/2150674-Need-help-removing-gross-yellow-stains-from-DPs-pillow-cases)  
 > `Q150` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Aerger, dass sie die Bezuege wechseln muss. | Angle-Notiz: A | Wer für wen: Partnerin macht das Bett fuer Partner_
+> _Ärger, dass sie die Bezüge wechseln muss. | Angle-Notiz: A | Wer für wen: Partnerin macht das Bett für Partner_
 
 > "Being in my late 60’s I’m finding making the bunk beds a challenge"
 >
 > — **Sixmonthson** · Mumsnet · 2021-05-26 · [Coverless Duvets for bunk beds](https://www.mumsnet.com/talk/housekeeping/4254828-Coverless-Duvets-for-bunk-beds)  
 > `Q151` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Ende 60, Etagenbetten beziehen wird zur Herausforderung. | Angle-Notiz: NEU: Grosseltern/Etagenbetten | Wer für wen: Grossmutter bezieht Betten fuer Enkel_
+> _Ende 60, Etagenbetten beziehen wird zur Herausforderung. | Angle-Notiz: NEU: Großeltern/Etagenbetten | Wer für wen: Großmutter bezieht Betten für Enkel_
 
 > "I do the kids every 2-3 weeks unless they have a cold (in which case it's every few days!) as they have mid sleepers and I struggle to get them on and off! blasted things!"
 >
@@ -1413,43 +1413,43 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Sandra** · Trustpilot - Dunelm · 2019-09-18 · [Was taking back a duvet set had it in…](https://uk.trustpilot.com/review/www.dunelm.com?search=arthritis)  
 > `Q156` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _1 Stern, Rueckgabe abgelehnt weil Bettwaesche-Set nicht korrekt gefaltet; Arthritis in den Haenden. | Wer für wen: Freundin hilft der Arthritis-Kundin, das Bettwaesche-Set zu falten_
+> _1 Stern, Rückgabe abgelehnt weil Bettwäsche-Set nicht korrekt gefaltet; Arthritis in den Händen. | Wer für wen: Freundin hilft der Arthritis-Kundin, das Bettwäsche-Set zu falten_
 
 > "so I don’t have the dreaded changing of beds with duvets covers."
 >
 > — **Jacqui Usher** · Trustpilot - The Fine Bedding Company · 2025-09-11 · [Purchase a super king cover less duvet](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=changing&page=2)  
 > `Q157` · Angle B · Schmerz · Intensität ●●●●○ · ✔ verifiziert  
-> _5 Sterne. 'Gefuerchtetes' Beziehen._
+> _5 Sterne. 'Gefürchtetes' Beziehen._
 
 > "Initially we purchased a coverless duvet for my daughter who HATES changing her bed."
 >
 > — **Sarah Haughan** · Trustpilot - The Fine Bedding Company · 2025-07-19 · [Coverless duvet - what a find!](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=changing&page=3)  
 > `Q158` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Tochter HASST Bettbeziehen. | Angle-Notiz: Geschenk fuer erwachsene Tochter | Wer für wen: Mutter kauft fuer (erwachsene) Tochter_
+> _5 Sterne. Tochter HASST Bettbeziehen. | Angle-Notiz: Geschenk für erwachsene Tochter | Wer für wen: Mutter kauft für (erwachsene) Tochter_
 
 > "which was a gift for my Mum who has a sore shoulder and is struggling with traditional duvets"
 >
 > — **Gretna Customer** · Trustpilot - The Fine Bedding Company · 2025-08-08 · [Good quality pleased with coverless…](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=mum)  
 > `Q159` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _4 Sterne. Mutter mit schmerzender Schulter kaempft mit normalen Decken. | Angle-Notiz: Geschenk fuer Mutter mit Schulterschmerzen | Wer für wen: Kind schenkt Mutter mit Schulterschmerzen eine bezuglose Decke_
+> _4 Sterne. Mutter mit schmerzender Schulter kämpft mit normalen Decken. | Angle-Notiz: Geschenk für Mutter mit Schulterschmerzen | Wer für wen: Kind schenkt Mutter mit Schulterschmerzen eine bezuglose Decke_
 
 > "godsend for my Mum who was finding it increasingly difficult to put the cover on her previous duvet."
 >
 > — **Robert Main** · Trustpilot - The Fine Bedding Company · 2022-08-30 · [The Night Owl coverless duvet is a…](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=mum&page=2)  
 > `Q160` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Mutter konnte Bezug zunehmend schwer aufziehen. | Angle-Notiz: Geschenk fuer Mutter | Wer für wen: Sohn kauft fuer Mutter_
+> _5 Sterne. Mutter konnte Bezug zunehmend schwer aufziehen. | Angle-Notiz: Geschenk für Mutter | Wer für wen: Sohn kauft für Mutter_
 
 > "decided to purchase one for my Mum, who struggles with arthritis."
 >
 > — **Faraway Eyes** · Trustpilot - The Fine Bedding Company · 2022-12-27 · [I previously bought a night owl duvet…](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=mum&page=2)  
 > `Q161` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Mutter mit Arthritis; Bettbeziehen leichter. | Angle-Notiz: Mutter mit Arthritis | Wer für wen: Tochter kauft fuer Mutter mit Arthritis_
+> _5 Sterne. Mutter mit Arthritis; Bettbeziehen leichter. | Angle-Notiz: Mutter mit Arthritis | Wer für wen: Tochter kauft für Mutter mit Arthritis_
 
 > "My husband has struggled for years with putting the duvet in its cover"
 >
 > — **Frances D** · Trustpilot - The Fine Bedding Company · 2025-03-01 · [Life changing](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=changing&page=4)  
 > `Q162` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Ehemann kaempft seit Jahren mit dem Bezug. | Angle-Notiz: Partner bezieht | Wer für wen: Ehemann bezieht das Bett fuer beide; Ehefrau kauft_
+> _5 Sterne. Ehemann kämpft seit Jahren mit dem Bezug. | Angle-Notiz: Partner bezieht | Wer für wen: Ehemann bezieht das Bett für beide; Ehefrau kauft_
 
 > "My Mum, also in her 80’s, gets me to do it for her😄"
 >
@@ -1474,8 +1474,8 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 > "I can’t stuff the duvets into the covers anymore because of painful hands( no help from hubby)...so I’ve gone back to sheets and blankets."
 >
 > — **Saggi** · Gransnet · 02-Nov-2018 · [Having my duvet laundered](https://www.gransnet.com/forums/house_and_home/1253756-Having-my-duvet-laundered?pg=2)  
-> `Q166` · Angle B · Gescheiterte Lösung · Intensität ●●●●● · ✔ verifiziert  
-> _Schmerzende Hände, keine Hilfe vom Mann, zurück zu Laken und Wolldecken. | Angle-Notiz: schmerzende Hände_
+> `Q166` · Angle B · Gescheiterte Lösung · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Schmerzende Hände, keine Hilfe vom Mann, zurück zu Laken und Wolldecken. | Angle-Notiz: schmerzende Hände | Wer für wen: Frau mit schmerzenden Händen, keine Hilfe vom Mann (hubby), zurück zu Laken/Wolldecken_
 
 > "Nightmare, I hate changing bed covers.…Tried the rolling method but need a big floor space for that so didnt work either. There has to be an easy way and whoever discovers it will be a heroine/hero."
 >
@@ -1493,7 +1493,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Normallynumb** · Mumsnet · 2025-03-13 · [How difficult do you find changing your bed?](https://www.mumsnet.com/talk/housekeeping/5286934-how-difficult-do-you-find-changing-your-bed?page=3)  
 > `Q169` · Angle B · Gescheiterte Lösung · Intensität ●●●●● · ✔ verifiziert  
-> _Behinderte Nutzerin fuerchtet das Beziehen so sehr, dass sie ein kleineres Bett kaufte._
+> _Behinderte Nutzerin fürchtet das Beziehen so sehr, dass sie ein kleineres Bett kaufte._
 
 > "I have a king size duvet. I used to get the late Mr Marmight to help but in his absence I tried the rolling method but kept forgetting how to do it"
 >
@@ -1529,25 +1529,25 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **paomara** · Mumsnet · 2026-09-05 · [I'm sick of duvets](https://www.mumsnet.com/talk/housekeeping/5574955-im-sick-of-duvets?page=3)  
 > `Q175` · Angle B · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Laesst die Decke ohne Bezug, wenn niemand zum Helfen da ist. | Wer für wen: braucht Hilfe einer anderen Person zum Beziehen_
+> _Lässt die Decke ohne Bezug, wenn niemand zum Helfen da ist. | Wer für wen: braucht Hilfe einer anderen Person zum Beziehen_
 
 > "My elderly mil finds it hard to change her duvet, so she has it done monthly… uses a top sheet between the duvet and herself, which is washed weekly."
 >
 > — **mumumental** · Mumsnet · 2026-09-06 · [I'm sick of duvets](https://www.mumsnet.com/talk/housekeeping/5574955-im-sick-of-duvets?page=5)  
 > `Q176` · Angle B · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Aeltere Schwiegermutter schafft Beziehen nicht mehr, laesst es monatlich machen. | Wer für wen: Schwiegermutter (aelter) bekommt Bezug monatlich von anderen gewechselt_
+> _Ältere Schwiegermutter schafft Beziehen nicht mehr, lässt es monatlich machen. | Wer für wen: Schwiegermutter (älter) bekommt Bezug monatlich von anderen gewechselt_
 
 > "DM has a shoulder injury and can't shake a duvet, this is how she does it."
 >
 > — **GrannyAchingsShepherdsHut** · Mumsnet · 2025-03-04 · [How difficult do you find changing your bed?](https://www.mumsnet.com/talk/housekeeping/5286934-how-difficult-do-you-find-changing-your-bed)  
-> `Q177` · Angle B · Gescheiterte Lösung · Intensität ●●●●○ · ✔ verifiziert  
-> _Mutter mit Schulterverletzung kann Decke nicht schuetteln, nutzt California-Roll-Methode._
+> `Q177` · Angle B · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Mutter mit Schulterverletzung kann Decke nicht schütteln, nutzt California-Roll-Methode. | Wer für wen: Tochter beschreibt Mutter (DM) mit Schulterverletzung, die die Decke nicht schütteln kann_
 
 > "My DM struggles with changing a duvet cover, so now puts a single sheet under the duvet, so washes the sheet… regularly and the duvet cover occasionally."
 >
 > — **ineedaholidaynow** · Mumsnet · 2021-07-24 · [Coverless Duvets](https://www.mumsnet.com/talk/_chat/4304814-Coverless-Duvets)  
 > `Q178` · Angle B · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Mutter schafft Bezugwechsel nicht, nutzt Laken-Workaround in kleiner Wohnung mit Gemeinschaftswaschkueche. | Wer für wen: Tochter ueber Mutter, die das Beziehen nicht mehr schafft (Geschenk-Angle)_
+> _Mutter schafft Bezugwechsel nicht, nutzt Laken-Workaround in kleiner Wohnung mit Gemeinschaftswaschküche. | Wer für wen: Tochter über Mutter, die das Beziehen nicht mehr schafft (Geschenk-Angle)_
 
 #### B · Einwand (8)
 
@@ -1555,7 +1555,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **ProfessorofDarkArts** · Mumsnet · 2026-09-05 · [I'm sick of duvets](https://www.mumsnet.com/talk/housekeeping/5574955-im-sick-of-duvets?page=2)  
 > `Q179` · Angle B · Einwand · Intensität ●●●●○ · ✔ verifiziert  
-> _Einwand gegen bezuglose Decken: sichtbare Naehte, sieht haesslich aus, fuehlt sich schlecht an._
+> _Einwand gegen bezuglose Decken: sichtbare Nähte, sieht hässlich aus, fühlt sich schlecht an._
 
 > "I'm confused by coverless duvets. How is it easier washing and drying a whole duvet than a duvet cover? … I absolutely hate putting covers on duvets, though!!!"
 >
@@ -1585,13 +1585,13 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Ossie** · Trustpilot - The Fine Bedding Company · 2026-03-29 · [No idea why so many positives.](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=duvet&stars=1)  
 > `Q184` · Angle B · Einwand · Intensität ●●●●○ · ✔ verifiziert  
-> _1 Stern. Bezuglose Decke raschelt bei jeder Bewegung. | Angle-Notiz: Einwand gegen bezuglose Decke (Geraeusch)_
+> _1 Stern. Bezuglose Decke raschelt bei jeder Bewegung. | Angle-Notiz: Einwand gegen bezuglose Decke (Geräusch)_
 
 > "Have thrown my second buy of a cover less duvet away as it was impossible to get the creases out."
 >
 > — **Pamela Hughes** · Trustpilot - The Fine Bedding Company · 2024-11-16 · [Have thrown my second buy of a cover…](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=duvet&stars=1)  
 > `Q185` · Angle B · Einwand · Intensität ●●●●○ · ✔ verifiziert  
-> _1 Stern. Zweite bezuglose Decke weggeworfen, Knitter gingen nicht raus. | Angle-Notiz: Einwand bezuglose Decke: Knitter nach Waesche_
+> _1 Stern. Zweite bezuglose Decke weggeworfen, Knitter gingen nicht raus. | Angle-Notiz: Einwand bezuglose Decke: Knitter nach Wäsche_
 
 > "I cant be doing with the faffing of blankets, i have a lightweight duvet. Also its easier when making a bed just throwing a duvet over where as blankets need tucked in etc... means harder work for me so nono."
 >
@@ -1605,7 +1605,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **cramptramp** · Mumsnet · 2025-03-04 · [How difficult do you find changing your bed?](https://www.mumsnet.com/talk/housekeeping/5286934-how-difficult-do-you-find-changing-your-bed)  
 > `Q187` · Angle B · Glaube · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Ohne Ehemann wuerde sie aufs Einzelbett umsteigen. | Wer für wen: Ehemann hilft aktuell; ohne ihn Einzelbett_
+> _Ohne Ehemann würde sie aufs Einzelbett umsteigen. | Wer für wen: Ehemann hilft aktuell; ohne ihn Einzelbett_
 
 > "All double/kingsize duvet changing is a 2 man/woman job, with DH and I working in concert."
 >
@@ -1617,13 +1617,13 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **HairyBanana** · Mumsnet · 2026-09-06 · [I'm sick of duvets](https://www.mumsnet.com/talk/housekeeping/5574955-im-sick-of-duvets?page=4)  
 > `Q189` · Angle B · Glaube · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Betten beziehen als Familienaktivitaet, nicht Mutters Job allein. | Wer für wen: Familie hilft der Mutter beim Beziehen_
+> _Betten beziehen als Familienaktivität, nicht Mutters Job allein. | Wer für wen: Familie hilft der Mutter beim Beziehen_
 
 > "oh we usually only do that for the old and frail"
 >
 > — **indecisivedoctor** · Mumsnet · 2016-06-11 · [To ask cleaner to change the bedding?](https://www.mumsnet.com/talk/am_i_being_unreasonable/2659348-To-ask-cleaner-to-change-the-bedding)  
 > `Q190` · Angle B · Glaube · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Putzfirma bezieht Betten normalerweise nur fuer Alte und Gebrechliche. | Angle-Notiz: Stigma: Hilfe beim Beziehen nur für Alte/Gebrechliche (Putzkraft) | Wer für wen: Reinigungsdienst bezieht Betten fuer Alte und Gebrechliche_
+> _Putzfirma bezieht Betten normalerweise nur für Alte und Gebrechliche. | Angle-Notiz: Stigma: Hilfe beim Beziehen nur für Alte/Gebrechliche (Putzkraft) | Wer für wen: Reinigungsdienst bezieht Betten für Alte und Gebrechliche_
 
 > "I can’t imagine why they haven’t caught on."
 >
@@ -1641,7 +1641,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Georgina** · Trustpilot - Dunelm · 2025-11-08 · [Duvet set and bedding](https://uk.trustpilot.com/review/www.dunelm.com?search=poppers)  
 > `Q193` · Angle B · Glaube · Intensität ●●○○○ · ✔ verifiziert  
-> _4 Sterne, Ueberzeugung: Reissverschluss besser als Druckknoepfe oder Knoepfe._
+> _4 Sterne, Überzeugung: Reißverschluss besser als Druckknöpfe oder Knöpfe._
 
 #### B · Wunsch (7)
 
@@ -1655,7 +1655,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **uncomfortablydumb60** · Mumsnet · 2025-05-20 · [Coverless duvet](https://www.mumsnet.com/talk/_chat/5338680-coverless-duvet)  
 > `Q195` · Angle B · Wunsch · Intensität ●●●●● · ✔ verifiziert  
-> _Bezuglose Decke 'hat mein Leben veraendert'._
+> _Bezuglose Decke 'hat mein Leben verändert'._
 
 > "My ideal would be a light quilt on top of me, without a removable cover, which I could wash every week."
 >
@@ -1685,7 +1685,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **uncomfortablydumb60** · Mumsnet · 2025-05-20 · [Coverless duvet](https://www.mumsnet.com/talk/_chat/5338680-coverless-duvet)  
 > `Q200` · Angle B · Wunsch · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Sohn wechselte ihr die Bezuege; jetzt ist sie unabhaengig. | Wer für wen: 31-jaehriger Sohn bezog der Mutter (mit Behinderung) die Decke_
+> _Sohn wechselte ihr die Bezüge; jetzt ist sie unabhängig. | Wer für wen: 31-jähriger Sohn bezog der Mutter (mit Behinderung) die Decke_
 
 ### Angle C – Wechseljahre / Temperatur (104 Zitate)
 
@@ -1730,8 +1730,8 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 > "They weren’t cheap, and I was worried about sending off my money- but I was getting desperate, and so was husband, who was waking up in a swamp too."
 >
 > — **system (archivierter Beitrag, ungezeichnet)** · Breast Cancer Now Forum · 2008-09-10 · [Any suggestions about night sweats](https://forum.breastcancernow.org/t/any-suggestions-about-night-sweats/11516)  
-> `Q207` · Angle C · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _Verzweiflung – auch der Ehemann wachte 'in a swamp' auf. | Angle-Notiz: therapiebedingte Wechseljahre (Brustkrebs); Partner leidet mit_
+> `Q207` · Angle C · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Verzweiflung – auch der Ehemann wachte 'in a swamp' auf. | Angle-Notiz: therapiebedingte Wechseljahre (Brustkrebs); Partner leidet mit | Wer für wen: Frau (Brustkrebs, therapiebedingte Wechseljahre) kauft, auch der Ehemann wachte im Nassen auf_
 
 > "for the past 7 month I have found myself having to change my sheets most nights and lay down towels just so I can get back to sleep because the bedding and my unclothes body is dripping in ice cold perspiration and I’m freezing from it."
 >
@@ -1809,7 +1809,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **pharmachameleon** · Mumsnet · 2024-04-14 · [Night sweats](https://www.mumsnet.com/talk/menopause/5049503-night-sweats)  
 > `Q220` · Angle C · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _Musste nachts nasse Schlafanzuege vom Koerper schaelen._
+> _Musste nachts nasse Schlafanzüge vom Körper schälen._
 
 > "I am now getting the regular night sweats it used to be just the odd one  now and again but it is now most night, I am so bloody tired , I wake 3 of 4 times a night like  I am in the sahara covers off covers on sweat dripping hair matted"
 >
@@ -1821,37 +1821,37 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Dahlialover** · Mumsnet · 2013-05-28 · [these night sweats are going to drive me insane](https://www.mumsnet.com/talk/am_i_being_unreasonable/1765478-these-night-sweats-are-going-to-drive-me-insane)  
 > `Q222` · Angle C · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _Zurueck ins nasse Bett, um den Partner nicht zu wecken._
+> _Zurück ins nasse Bett, um den Partner nicht zu wecken._
 
 > "I then wake around 5am freezing, pjs, pants, and sheets are damp, I feel so sweaty and disgusting."
 >
 > — **frazzled101** · Mumsnet · 2023-10-21 · [Night sweats and waking up freezing](https://www.mumsnet.com/talk/menopause/4925255-night-sweats-and-waking-up-freezing)  
 > `Q223` · Angle C · Horrorgeschichte · Intensität ●●●●● · ✔ korrigiert  
-> _Wacht um 5 Uhr frierend auf, alles feucht, fuehlt sich eklig._
+> _Wacht um 5 Uhr frierend auf, alles feucht, fühlt sich eklig._
 
 > "I feel your pain re the washing of pyjamas!  I've had nights where I have gone through 5 pairs."
 >
 > — **Octavia64** · Mumsnet · 2023-10-21 · [Night sweats and waking up freezing](https://www.mumsnet.com/talk/menopause/4925255-night-sweats-and-waking-up-freezing)  
 > `Q224` · Angle C · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _Fuenf Schlafanzuege in einer Nacht._
+> _Fünf Schlafanzüge in einer Nacht._
 
 > "DH has found the heat I am generating at night (not in a good way) is disrupting his sleep and has moved into the spare room "just until you get through this". I don't feel like we are a couple any more"
 >
 > — **duffybeatmetoit** · Mumsnet · 2011-07-23 · [DH has moved into the spare room due to my symptoms - is he normal?](https://www.mumsnet.com/talk/menopause/1265760-DH-has-moved-into-the-spare-room-due-to-my-symptoms-is-he-normal)  
 > `Q225` · Angle C · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _Mann zieht wegen ihrer naechtlichen Hitze ins Gaestezimmer - 'wir sind kein Paar mehr'. | Angle-Notiz: Partner zieht wegen Hitze ins Gaestezimmer_
+> _Mann zieht wegen ihrer nächtlichen Hitze ins Gästezimmer - 'wir sind kein Paar mehr'. | Angle-Notiz: Partner zieht wegen Hitze ins Gästezimmer_
 
 > "She was constantly hot so kept flinging the window open. … He moved out to the spare room after a night when he slept in a coat with the hood up!"
 >
 > — **timidviper** · Mumsnet · 2011-07-26 · [DH has moved into the spare room due to my symptoms - is he normal?](https://www.mumsnet.com/talk/menopause/1265760-DH-has-moved-into-the-spare-room-due-to-my-symptoms-is-he-normal)  
 > `Q226` · Angle C · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _Freund schlief im Mantel mit Kapuze, weil sie das Fenster aufriss - dann Umzug ins Gaestezimmer._
+> _Freund schlief im Mantel mit Kapuze, weil sie das Fenster aufriss - dann Umzug ins Gästezimmer._
 
 > "I was never sure what to do with the bed - getting back into a cold, wet bed is yucky [confused] … but I never could bring myself to wake DH up and change the bed."
 >
 > — **DayLillie** · Mumsnet · 2014-10-28 · [night hot flushes](https://www.mumsnet.com/talk/menopause/2220804-night-hot-flushes)  
 > `Q227` · Angle C · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _Zurueck ins kalte, nasse Bett, weil sie den Mann nicht wecken will._
+> _Zurück ins kalte, nasse Bett, weil sie den Mann nicht wecken will._
 
 > "every single night I have woke up soaking wet - it drenches the duvet, sheets and seeps through onto the mattress. OH can't cuddle me at night he says I feel too hot and it's like I've been in the bath I'm that soaked. My hair is literally dripping."
 >
@@ -1886,8 +1886,8 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 > "my husband is the same. I wake up soaking in his sweat. the bedding is ruined the mattress is stained. its horrible"
 >
 > — **Anonymous** · Netmums · 2013-07-22 · [MY BOYFRIEND & HIS NIGHT SWEATS!!](https://www.netmums.com/coffeehouse/health-wellbeing-1087/health-advice-756/807393-my-boyfriend-his-night-sweats.html)  
-> `Q233` · Angle C · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _Wacht im Schweiß des Mannes auf, Bettzeug ruiniert. | Angle-Notiz: Partner mit Nachtschweiß_
+> `Q233` · Angle C · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Wacht im Schweiß des Mannes auf, Bettzeug ruiniert. | Angle-Notiz: Partner mit Nachtschweiß | Wer für wen: Ehefrau wacht im Schweiß des Mannes auf, gemeinsames Bettzeug ruiniert_
 
 > "there were many nights spent lying on the kitchen floor tiles in order to cool down. The flushes were especially delicious at night."
 >
@@ -1899,7 +1899,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Jamie Hill** · Trustpilot - Silentnight · 2024-12-09 (aktualisiert 2025-09-22) · [Let down](https://uk.trustpilot.com/review/shop.silentnight.co.uk?search=duvet&stars=2)  
 > `Q235` · Angle C · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _2 Sterne, angeblich kuehlende Decke mit Luftkanaelen: nach 5 Minuten schwitzen beide durch die Laken._
+> _2 Sterne, angeblich kühlende Decke mit Luftkanälen: nach 5 Minuten schwitzen beide durch die Laken._
 
 > "I wake up each morning wringing wet with sweat. I don't think the rubber lets your body breathe"
 >
@@ -1911,31 +1911,31 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Lisa** · Trustpilot - Simba · 2022-12-25 · [Honestly not impressed unfortunately](https://uk.trustpilot.com/review/simbasleep.com?search=duvet&stars=2)  
 > `Q237` · Angle C · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _2 Sterne, eine Nacht unter der Simba-Decke, Aufwachen mit 38,8 Grad Koerpertemperatur._
+> _2 Sterne, eine Nacht unter der Simba-Decke, Aufwachen mit 38,8 Grad Körpertemperatur._
 
 > "it made my body over heat up so much it felt like I was cooking"
 >
 > — **Consumer** · Trustpilot - Emma · 2025-05-23 · [Quelle](https://uk.trustpilot.com/review/emma-sleep.co.uk?search=hot&stars=1)  
 > `Q238` · Angle C · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _1 Stern, Matratze: 'als wuerde ich gekocht'. | Angle-Notiz: Matratze_
+> _1 Stern, Matratze: 'als würde ich gekocht'. | Angle-Notiz: Matratze_
 
 > "The duvet is like being shrink wrapped in cling film"
 >
 > — **John Canning** · Trustpilot - Simba · 2024-11-29 · [Why let a bad product get in the way of expensive marketing?](https://uk.trustpilot.com/review/simbasleep.com?search=hot&stars=1)  
 > `Q239` · Angle C · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _1 Stern, Simba-Decke fuehlt sich an 'wie in Frischhaltefolie eingeschweisst'._
+> _1 Stern, Simba-Decke fühlt sich an 'wie in Frischhaltefolie eingeschweißt'._
 
 > "it is unbearably hot and I wake up several times a night in a pool of sweat."
 >
 > — **John Canning** · Trustpilot - Simba · 2024-11-29 · [Why let a bad product get in the way of expensive marketing?](https://uk.trustpilot.com/review/simbasleep.com?search=hot&stars=1)  
 > `Q240` · Angle C · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _1 Stern, wacht mehrmals pro Nacht in einer Schweisspfuetze auf._
+> _1 Stern, wacht mehrmals pro Nacht in einer Schweißpfütze auf._
 
 > "The mattress makes us both feel like we are sleeping in a fire pit!"
 >
 > — **Zoe Evans** · Trustpilot - Simba · 2025-02-11 · [The worst mattress I've ever owned](https://uk.trustpilot.com/review/simbasleep.com?search=hot&stars=1)  
 > `Q241` · Angle C · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _1 Stern, Paar fuehlt sich nachts 'wie in einer Feuergrube'. | Angle-Notiz: Matratze_
+> _1 Stern, Paar fühlt sich nachts 'wie in einer Feuergrube'. | Angle-Notiz: Matratze_
 
 > "Hot, hot, hot. The room temperature in the night is about 17-17.5 but under blanket is 26-27."
 >
@@ -1953,7 +1953,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Nehru** · Mumsnet · 2013-05-27 · [these night sweats are going to drive me insane](https://www.mumsnet.com/talk/am_i_being_unreasonable/1765478-these-night-sweats-are-going-to-drive-me-insane)  
 > `Q244` · Angle C · Horrorgeschichte · Intensität ●●●●○ · ✔ verifiziert  
-> _Waden tropfnass, Laken taeglich wechseln - mit Neugeborenem. | Angle-Notiz: Nachtschweiß nach der Geburt/beim Stillen; sekundär A (Laken täglich wechseln)_
+> _Waden tropfnass, Laken täglich wechseln - mit Neugeborenem. | Angle-Notiz: Nachtschweiß nach der Geburt/beim Stillen; sekundär A (Laken täglich wechseln)_
 
 #### C · Schmerz (21)
 
@@ -2033,7 +2033,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **legotits** · Mumsnet · 2016-03-22 · [What do you do about brutal night sweats?](https://www.mumsnet.com/talk/menopause/2597610-What-do-you-do-about-brutal-night-sweats)  
 > `Q257` · Angle C · Schmerz · Intensität ●●●●● · ✔ verifiziert  
-> _39-Jaehrige mit fruehen Wechseljahren: an 14 Naechten im Monat muessen die Laken gewechselt werden._
+> _39-Jährige mit frühen Wechseljahren: an 14 Nächten im Monat müssen die Laken gewechselt werden._
 
 > "You seem to eventually get used to kicking off the duvet and then pulling it back on at night; I only wake 3 or 4 times a night nowadays, although my smart watch still notes my regular sweats activity."
 >
@@ -2057,25 +2057,25 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Mrs Bailey** · Trustpilot - Dunelm · 2019-06-19 · [Dunelm, Ipswich](https://uk.trustpilot.com/review/www.dunelm.com?search=sweat)  
 > `Q261` · Angle C · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _4 Sterne, Ehemann wacht nach neuen Kissen schweissgebadet auf. | Wer für wen: Ehefrau kauft Kissen fuer Ehemann_
+> _4 Sterne, Ehemann wacht nach neuen Kissen schweißgebadet auf. | Wer für wen: Ehefrau kauft Kissen für Ehemann_
 
 > "My other half sweats a lot in bed and this pillow ends up wet through."
 >
 > — **Greensox** · Trustpilot - Simba · 2024-06-23 · [These are definitely worth the money.](https://uk.trustpilot.com/review/simbasleep.com?search=sweats)  
 > `Q262` · Angle C · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne, Kissen des Partners war durchnaesst, Simba-Kissen bleibt trocken. | Wer für wen: Frau kauft Kissen fuer schwitzenden Ehemann ('hubby')_
+> _5 Sterne, Kissen des Partners war durchnässt, Simba-Kissen bleibt trocken. | Wer für wen: Frau kauft Kissen für schwitzenden Ehemann ('hubby')_
 
 > "One of the boys is a very sweaty sleeper and his new duvet is reducing the number of times he wakes up drenched in sweat"
 >
 > — **Nicholas** · Trustpilot - Soak&Sleep · 2022-06-10 · [Lovely duvets.](https://uk.trustpilot.com/review/www.soakandsleep.com?search=sweat)  
 > `Q263` · Angle C · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Sohn wacht oft schweissgebadet auf. | Angle-Notiz: Kinder schwitzen nachts | Wer für wen: Vater kauft Wolldecken fuer seine Kinder_
+> _5 Sterne. Sohn wacht oft schweißgebadet auf. | Angle-Notiz: Kinder schwitzen nachts | Wer für wen: Vater kauft Wolldecken für seine Kinder_
 
 > "We trialled one of these like them so much we bought 3 young man no longer damp with sweat and they wash superbly"
 >
 > — **Carole Cliffe** · Trustpilot - Soak&Sleep · 2021-10-11 · [Fine waterproof duvet protector](https://uk.trustpilot.com/review/www.soakandsleep.com?search=sweat)  
 > `Q264` · Angle C · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Starker Nachtschweiss mit Bezuegen anderer Firmen; jetzt nicht mehr feucht. | Angle-Notiz: Schutzbezug gegen Schweiss, Pflege fuer jungen Mann | Wer für wen: Kauft Schutzbezuege fuer einen jungen Mann (vermutlich Sohn)_
+> _5 Sterne. Starker Nachtschweiß mit Bezügen anderer Firmen; jetzt nicht mehr feucht. | Angle-Notiz: Schutzbezug gegen Schweiß, Pflege für jungen Mann | Wer für wen: Kauft Schutzbezüge für einen jungen Mann (vermutlich Sohn)_
 
 > "I find my body goes cold before a sweat, then very hot and afterwards I'm cold as the sweat evaporates."
 >
@@ -2131,19 +2131,19 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **AddingMustard** · Mumsnet · 2022-01-30 · [Sweating at night?](https://www.mumsnet.com/talk/menopause/4467816-Sweating-at-night)  
 > `Q273` · Angle C · Gescheiterte Lösung · Intensität ●●●●● · ✔ verifiziert  
-> _Kann das Bett nicht wechseln ohne Mann zu wecken, fluechtet aufs Sofa._
+> _Kann das Bett nicht wechseln ohne Mann zu wecken, flüchtet aufs Sofa._
 
 > "…after waking several times a night literally bathed in sweat"
 >
 > — **Mr Jones** · Trustpilot - Panda London · 2024-12-18 · [Too hot](https://uk.trustpilot.com/review/www.pandalondon.com?search=sweat)  
 > `Q274` · Angle C · Gescheiterte Lösung · Intensität ●●●●● · ✔ verifiziert  
-> _4 Sterne (Topper). 71-jaehrige Frau wacht mehrmals pro Nacht schweissgebadet auf._
+> _4 Sterne (Topper). 71-jährige Frau wacht mehrmals pro Nacht schweißgebadet auf._
 
 > "We awoke after three hours’ sleep absolutely drenched in sweat and I immediately knew what it was…"
 >
 > — **L Mc** · Trustpilot - Soak&Sleep · 2021-02-16 · [Well made products however a word to…](https://uk.trustpilot.com/review/www.soakandsleep.com?search=sweat)  
 > `Q275` · Angle C · Gescheiterte Lösung · Intensität ●●●●● · ✔ verifiziert  
-> _3 Sterne. Teflon-Deckenschoner: nach drei Stunden schweissgebadet aufgewacht. | Angle-Notiz: Deckenschoner (Teflon) nicht atmungsaktiv_
+> _3 Sterne. Teflon-Deckenschoner: nach drei Stunden schweißgebadet aufgewacht. | Angle-Notiz: Deckenschoner (Teflon) nicht atmungsaktiv_
 
 > "I put two additional sets of nightwear out and so would get throigh three per night. One of my in-laws, who had experience of family/friends with similar issues, brought me a set of six sheets that had been folded in half and sewn up ito make a sort of sleeping bag type afair"
 >
@@ -2161,13 +2161,13 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Paul Berry** · Trustpilot - Simba · 2023-03-05 · [Bobbins](https://uk.trustpilot.com/review/simbasleep.com?search=menopause)  
 > `Q278` · Angle C · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _1 Stern, Decke fuer peri-menopausale Partnerin gegen Hitzewallungen gekauft, hilft nicht. | Wer für wen: Mann kauft Decke fuer peri-menopausale Partnerin_
+> _1 Stern, Decke für peri-menopausale Partnerin gegen Hitzewallungen gekauft, hilft nicht. | Wer für wen: Mann kauft Decke für peri-menopausale Partnerin_
 
 > "As a result, he ended up with 4 layers of different blankets to keep himself comfortably warm."
 >
 > — **Valentina** · Trustpilot - Woolroom · 2025-03-30 · [I bought the Woolroom bundle for my…](https://uk.trustpilot.com/review/thewoolroom.com?search=allergy)  
 > `Q279` · Angle C · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Sohn nutzte 4 Lagen verschiedener Decken statt Bettdecke. | Angle-Notiz: Kind: Decken-Schichten | Wer für wen: Mutter fuer Sohn_
+> _5 Sterne. Sohn nutzte 4 Lagen verschiedener Decken statt Bettdecke. | Angle-Notiz: Kind: Decken-Schichten | Wer für wen: Mutter für Sohn_
 
 #### C · Einwand (8)
 
@@ -2175,13 +2175,13 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Nancy Thurlow** · Trustpilot - Simba · 2025-08-27 · [Disappointingly expensive](https://uk.trustpilot.com/review/simbasleep.com?search=menopause)  
 > `Q280` · Angle C · Einwand · Intensität ●●●●● · ✔ verifiziert  
-> _1 Stern, Spott ueber 'Menopause-geprueft'-Claim._
+> _1 Stern, Spott über 'Menopause-geprüft'-Claim._
 
 > "The Nightowl duvet provides a sleeping experience akin to sleeping in a plastic bag. Absolutely no breathability."
 >
 > — **Rosemary Callaghan** · Trustpilot - The Fine Bedding Company · 2023-04-15 · [I can't believe I fell for the hype](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=duvet&stars=1&page=2)  
 > `Q281` · Angle C · Einwand · Intensität ●●●●● · ✔ verifiziert  
-> _1 Stern. Bezuglose Decke wie Schlafen in einer Plastiktuete. | Angle-Notiz: Einwand gegen bezuglose Decke: Schwitzen_
+> _1 Stern. Bezuglose Decke wie Schlafen in einer Plastiktüte. | Angle-Notiz: Einwand gegen bezuglose Decke: Schwitzen_
 
 > "I know the synthetic type don't 'breathe', so you get hot - even 4.5 tog is too warm for me."
 >
@@ -2211,13 +2211,13 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **MyDcAreMarvel** · Mumsnet · 2021-05-29 · [Coverless Duvets for bunk beds](https://www.mumsnet.com/talk/housekeeping/4254828-Coverless-Duvets-for-bunk-beds)  
 > `Q286` · Angle C · Einwand · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _4,5 Tog waere fuer Kinder zu kalt. | Angle-Notiz: Kinder | Wer für wen: Mutter für Kinder (Etagenbetten)_
+> _4,5 Tog wäre für Kinder zu kalt. | Angle-Notiz: Kinder | Wer für wen: Mutter für Kinder (Etagenbetten)_
 
 > "I wake up drenched in sweat. The fabric is polyester."
 >
 > — **Jewel B** · Trustpilot - The Fine Bedding Company · 2025-10-03 · [I wake up drenched in sweat](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=sweat)  
 > `Q287` · Angle C · Einwand · Intensität ●●●●○ · ✔ verifiziert  
-> _2 Sterne. Unter bezugloser Polyesterdecke schweissgebadet. | Angle-Notiz: Einwand bezuglose Decke: Polyester_
+> _2 Sterne. Unter bezugloser Polyesterdecke schweißgebadet. | Angle-Notiz: Einwand bezuglose Decke: Polyester_
 
 #### C · Glaube (8)
 
@@ -2225,13 +2225,13 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **KalW** · Trustpilot - Simba · 2025-04-28 · [Comfy but hot!](https://uk.trustpilot.com/review/simbasleep.com?search=menopause)  
 > `Q288` · Angle C · Glaube · Intensität ●●●●○ · ✔ verifiziert  
-> _4 Sterne, haelt 'menopause friendly'-Produkte fuer Unsinn._
+> _4 Sterne, hält 'menopause friendly'-Produkte für Unsinn._
 
 > "It's no better than any cheap duvet and the 'cooling' tech is the biggest scam."
 >
 > — **Iulia R** · Trustpilot - Simba · 2024-08-17 · [Hybrid Duvet 3-in-1](https://uk.trustpilot.com/review/simbasleep.com?page=2&search=duvet&stars=1)  
 > `Q289` · Angle C · Glaube · Intensität ●●●●○ · ✔ verifiziert  
-> _1 Stern, 'Kuehltechnik' der Decke sei der groesste Betrug._
+> _1 Stern, 'Kühltechnik' der Decke sei der größte Betrug._
 
 > "the temperature regulation is marketing bull"
 >
@@ -2243,7 +2243,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Mr B** · Trustpilot - Simba · 2021-12-04 · [Duvet too hot and unable to return item.](https://uk.trustpilot.com/review/simbasleep.com?page=2&search=duvet&stars=2)  
 > `Q291` · Angle C · Glaube · Intensität ●●●●○ · ✔ verifiziert  
-> _2 Sterne, 'Kuehldecke' sei nur Polyester mit bedruckter Folie._
+> _2 Sterne, 'Kühldecke' sei nur Polyester mit bedruckter Folie._
 
 > "I have known of people who had hot flushes into their eighties, horrendous."
 >
@@ -2287,7 +2287,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **frazzled101** · Mumsnet · 2023-10-21 · [Night sweats and waking up freezing](https://www.mumsnet.com/talk/menopause/4925255-night-sweats-and-waking-up-freezing)  
 > `Q298` · Angle C · Wunsch · Intensität ●●●●● · ✔ verifiziert  
-> _'Ist das jetzt mein Leben?' - warm genug zum Einschlafen, kuehl genug danach._
+> _'Ist das jetzt mein Leben?' - warm genug zum Einschlafen, kühl genug danach._
 
 > "The duvet is so light that I just didn't feel it somehow. It was like sleeping in warm air!"
 >
@@ -2323,7 +2323,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Dawid** · Trustpilot - Woolroom · 2024-07-28 · [Im a male with a certain condition that…](https://uk.trustpilot.com/review/thewoolroom.com?search=menopause)  
 > `Q304` · Angle C · Wunsch · Intensität ●●●○○ · ✔ verifiziert  
-> _5 Sterne. Naechte fast wieder wie frueher. | Angle-Notiz: Männer mit Nachtschweiß_
+> _5 Sterne. Nächte fast wieder wie früher. | Angle-Notiz: Männer mit Nachtschweiß_
 
 ### Angle D – Allergien / Haut / Atemwege (83 Zitate)
 
@@ -2375,13 +2375,13 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Rosedee** · Mumsnet · 2010-08-16 · [I don't know who I'm more angry with..](https://www.mumsnet.com/talk/allergies/1022589-I-don-t-know-who-I-m-more)  
 > `Q312` · Angle D · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Kleinkind nach dem Mittagsschlaf voller Blut vom Kratzen. | Angle-Notiz: Kinder mit Ekzem | Wer für wen: Elternteil fuer Kleinkind mit Ekzem_
+> _Kleinkind nach dem Mittagsschlaf voller Blut vom Kratzen. | Angle-Notiz: Kinder mit Ekzem | Wer für wen: Elternteil für Kleinkind mit Ekzem_
 
 > "we are woken 8-9 times a night from her crying from making herself bleed by scratching to apply cream and mop up blood."
 >
 > — **Kmitchz** · Mumsnet · 2015-02-15 · [Eczema](https://www.mumsnet.com/talk/childrens_health/2309481-Eczema)  
 > `Q313` · Angle D · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Familie wird 8-9 Mal pro Nacht geweckt, Kind kratzt sich blutig. | Angle-Notiz: Kinder mit Ekzem | Wer für wen: Eltern fuer Tochter mit Ekzem_
+> _Familie wird 8-9 Mal pro Nacht geweckt, Kind kratzt sich blutig. | Angle-Notiz: Kinder mit Ekzem | Wer für wen: Eltern für Tochter mit Ekzem_
 
 > "Our DD sheets and pyjamas have blood stains. It is horrible and we often feel helpless."
 >
@@ -2429,13 +2429,13 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Neil Reed** · Trustpilot - Dunelm · 2026-04-07 (aktualisiert) · [Hotel Luxury Down Duvet](https://uk.trustpilot.com/review/www.dunelm.com?search=duvet&stars=1)  
 > `Q321` · Angle D · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _1 Stern, Dunelm Hotel Luxury Daunendecke verliert Federn, Bewerter fuehrt Lungeninfekt darauf zurueck._
+> _1 Stern, Dunelm Hotel Luxury Daunendecke verliert Federn, Bewerter führt Lungeninfekt darauf zurück._
 
 > "I am leaving a 1-star review as the Simba mattress put my partner in hospital as it triggered his asthma…"
 >
 > — **Dean** · Trustpilot - Simba · 2023-12-31 · [Asthmatics be aware](https://uk.trustpilot.com/review/simbasleep.com?search=asthma)  
 > `Q322` · Angle D · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _1 Stern, Matratze loest Asthmaanfall beim Partner aus, Krankenhaus. | Angle-Notiz: Matratze | Wer für wen: Kauf fuer gemeinsames Bett, Partner betroffen_
+> _1 Stern, Matratze löst Asthmaanfall beim Partner aus, Krankenhaus. | Angle-Notiz: Matratze | Wer für wen: Kauf für gemeinsames Bett, Partner betroffen_
 
 > "My little baby grandson came out in an alarming rash, I had done his lovely new bedding in gentle washing detergent and fabric conditioner. It smelled like Spring. Big error grandma!"
 >
@@ -2446,8 +2446,8 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 > "I bang our pillows outside and hang them on the line in the sun. Amazing how much dust comes out even with protectors. I also shake the matress protectors out everytime I make our beds (twice a week) and again, a lot of dust comes out."
 >
 > — **angievere** · Asthma + Lung UK Community (HealthUnlocked) · 2011-07-12 · [Mattress/pillow - protectors from dust mites](https://healthunlocked.com/asthmalunguk-asthma/posts/132127828/mattress-pillow-protectors-from-dust-mites)  
-> `Q324` · Angle D · Horrorgeschichte · Intensität ●●●●○ · ✔ verifiziert  
-> _Klopft Kissen draußen aus – erschreckend viel Staub trotz Schutzbezügen. | Angle-Notiz: Sekundaer A (Kissen ausklopfen/Hygiene)_
+> `Q324` · Angle D · Horrorgeschichte · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Klopft Kissen draußen aus – erschreckend viel Staub trotz Schutzbezügen. | Angle-Notiz: Sekundär A (Kissen ausklopfen/Hygiene) | Wer für wen: Bezieht zweimal pro Woche die Betten des Haushalts (our beds) und klopft die Kissen aus_
 
 > "last night as her first night in the new bed and she woke crying saying she was itchy all over."
 >
@@ -2479,13 +2479,13 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **brimfull** · Mumsnet · 2007-02-05 · [do you dust your asthmatic childs bedroom everyday?](https://www.mumsnet.com/talk/housekeeping/274144-do-you-dust-your-asthmatic-childs-bedroom-everyday)  
 > `Q329` · Angle D · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Nach gruendlichem Staubwischen ging es dem asthmatischen Sohn besser, Mutter fuehlt sich schuldig. | Angle-Notiz: Kinder mit Asthma | Wer für wen: Mutter putzt Zimmer des Sohnes_
+> _Nach gründlichem Staubwischen ging es dem asthmatischen Sohn besser, Mutter fühlt sich schuldig. | Angle-Notiz: Kinder mit Asthma | Wer für wen: Mutter putzt Zimmer des Sohnes_
 
 > "I too am changing blood stained sheets everyday, it is very stressful."
 >
 > — **shadypines** · Mumsnet · 2015-02-15 · [Eczema](https://www.mumsnet.com/talk/childrens_health/2309481-Eczema)  
 > `Q330` · Angle D · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Taeglich blutige Laken wechseln. | Angle-Notiz: Kinder mit Ekzem | Wer für wen: Mutter bezieht taeglich das Bett des Kindes_
+> _Täglich blutige Laken wechseln. | Angle-Notiz: Kinder mit Ekzem | Wer für wen: Mutter bezieht täglich das Bett des Kindes_
 
 > "It's so awful, when my 2 year old is crying from the itch and you can't help."
 >
@@ -2569,19 +2569,19 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Merilolli25** · Mumsnet · 2018-12-23 · [Dustmite allergy URGENT](https://www.mumsnet.com/talk/_chat/3459120-Dustmite-allergy-URGENT)  
 > `Q344` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Mutter eines Kleinkinds mit Milbenallergie, Husten trotz Inhalator. | Angle-Notiz: Kinder mit Allergien | Wer für wen: Mutter fuer Kleinkind_
+> _Mutter eines Kleinkinds mit Milbenallergie, Husten trotz Inhalator. | Angle-Notiz: Kinder mit Allergien | Wer für wen: Mutter für Kleinkind_
 
 > "now my daughter condition is worst and I have no one to ask about advise"
 >
 > — **Merilolli25** · Mumsnet · 2018-12-23 · [Dustmite allergy URGENT](https://www.mumsnet.com/talk/_chat/3459120-Dustmite-allergy-URGENT)  
 > `Q345` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Mutter fuehlt sich mit der Allergie der Tochter allein gelassen. | Angle-Notiz: Kinder mit Allergien | Wer für wen: Mutter fuer Tochter_
+> _Mutter fühlt sich mit der Allergie der Tochter allein gelassen. | Angle-Notiz: Kinder mit Allergien | Wer für wen: Mutter für Tochter_
 
 > "But we wash sheets and linen regularly like everyone else so what are the allergens?"
 >
 > — **Cameron67** · Mumsnet · 2022-02-20 · [Allergies](https://www.mumsnet.com/talk/allergies/4486383-Allergies)  
 > `Q346` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Waescht Bettwaesche regelmaessig und versteht nicht, woher die Allergene kommen. | Angle-Notiz: A | Wer für wen: Mutter waescht Bettwaesche der Tochter_
+> _Wäscht Bettwäsche regelmäßig und versteht nicht, woher die Allergene kommen. | Angle-Notiz: A | Wer für wen: Mutter wäscht Bettwäsche der Tochter_
 
 > "I try to do the kids weekly, sometimes my Sons twice in the week as he has asthma and dust mite allergies but I'm always doing mine tomorrow or in the morning and before I know it it's been 4 weeks and its still the same one"
 >
@@ -2605,19 +2605,19 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Phil** · Trustpilot - Emma · 2021-05-21 · [Game Changer](https://uk.trustpilot.com/review/emma-sleep.co.uk?search=allergy)  
 > `Q350` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne, Freund niest und hat verstopfte Nase ('bunged up') wegen Allergien. | Wer für wen: Kauf fuer gemeinsames Bett, Partner ist Allergiker_
+> _5 Sterne, Freund niest und hat verstopfte Nase ('bunged up') wegen Allergien. | Wer für wen: Kauf für gemeinsames Bett, Partner ist Allergiker_
 
 > "his parents thought he may have an allergy to man-made fibres,as very poor sleep very restless nights."
 >
 > — **mrs Osborne** · Trustpilot - Woolroom · 2024-02-05 · [Excellent service!!](https://uk.trustpilot.com/review/thewoolroom.com?search=allergy)  
 > `Q351` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Enkel schlief sehr schlecht, unruhige Naechte, Verdacht auf Synthetikallergie. | Angle-Notiz: Kinder mit Allergien | Wer für wen: Grossmutter fuer Enkel_
+> _5 Sterne. Enkel schlief sehr schlecht, unruhige Nächte, Verdacht auf Synthetikallergie. | Angle-Notiz: Kinder mit Allergien | Wer für wen: Großmutter für Enkel_
 
 > "For the first time my son sleeps well and is not too hot and his allergy seems a bit better when he's in bed."
 >
 > — **Ruth** · Trustpilot - Woolroom · 2025-11-20 · [Wonderful duvet](https://uk.trustpilot.com/review/thewoolroom.com?search=allergy)  
 > `Q352` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Sohn schlaeft zum ersten Mal gut, nicht zu heiss, Allergie besser. | Angle-Notiz: Kinder mit Allergien | Wer für wen: Mutter kauft Decke fuer Sohn_
+> _5 Sterne. Sohn schläft zum ersten Mal gut, nicht zu heiß, Allergie besser. | Angle-Notiz: Kinder mit Allergien | Wer für wen: Mutter kauft Decke für Sohn_
 
 #### D · Gescheiterte Lösung (11)
 
@@ -2636,8 +2636,8 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 > "So my friend used to make me sleep in gloves just because for whatever reason, even having cut my nails, I’d find a way to wake her up from all the scratching because that's how raw my skin was so how loud the noise was. Really horrible for her but so she’d tie these gloves to my hands, so horrible to sleep in"
 >
 > — **Molly (21, weiblich)** · HEXI / healthtalk (Universität Oxford) – Eczema (young people) · k. A. (Interview; Seite © 2024) · [Eczema symptoms: what does eczema look and feel like?](https://hexi.ox.ac.uk/eczema/eczema-symptoms-what-does-eczema-look-and-feel-like)  
-> `Q355` · Angle D · Gescheiterte Lösung · Intensität ●●●●● · ✔ verifiziert  
-> _Freundin band ihr nachts Handschuhe an._
+> `Q355` · Angle D · Gescheiterte Lösung · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Freundin band ihr nachts Handschuhe an. | Wer für wen: Freundin band ihr nachts Handschuhe gegen das Blutigkratzen an_
 
 > "I try to rid my house of dust etc with anti allergy pillows and duvet etc etc and I have recently had my two cats re-homed, but to no avail. :-("
 >
@@ -2667,7 +2667,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **AllSheepareWhite** · Mumsnet · 2010-08-16 · [I don't know who I'm more angry with..](https://www.mumsnet.com/talk/allergies/1022589-I-don-t-know-who-I-m-more)  
 > `Q360` · Angle D · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Tochter kratzt sich blutig, Laken oft gewechselt. | Angle-Notiz: Kinder mit Ekzem | Wer für wen: Mutter fuer Tochter_
+> _Tochter kratzt sich blutig, Laken oft gewechselt. | Angle-Notiz: Kinder mit Ekzem | Wer für wen: Mutter für Tochter_
 
 > "We just have an electric air purifier that is meant to purify the air in the whole room. Never helped to be honest. think its time to try the bedding."
 >
@@ -2755,7 +2755,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Magicmagician** · Mumsnet · 2024-01-01 · [Child Eczema](https://www.mumsnet.com/talk/sleep/4975360-child-eczema)  
 > `Q374` · Angle D · Glaube · Intensität ●●●●○ · ✔ verifiziert  
-> _Ueberhitzung nachts loest Juckreiz aus; keine hohen Tog-Decken. | Angle-Notiz: C: Ueberhitzung_
+> _Überhitzung nachts löst Juckreiz aus; keine hohen Tog-Decken. | Angle-Notiz: C: Überhitzung_
 
 > "Cot bedding-6 hours in chest freezer then washed every 4 days (my son has asthma) the freezing kills dust mites.....no i'm not insane, its a fact"
 >
@@ -2811,7 +2811,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Blessedbethefruitz** · Mumsnet · 2025-10-19 · [How often do you replace your duvet?](https://www.mumsnet.com/talk/_chat/5430163-how-often-do-you-replace-your-duvet?page=2)  
 > `Q383` · Angle D · Wunsch · Intensität ●●●●○ · ✔ verifiziert  
-> _Asthma- und Allergiebetroffene schwoert auf waschbare bezuglose Decke. | Angle-Notiz: A_
+> _Asthma- und Allergiebetroffene schwört auf waschbare bezuglose Decke. | Angle-Notiz: A_
 
 > "I have doubts that this will make a difference to her excema, but I am willing to try ANYTHING!"
 >
@@ -2829,15 +2829,15 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Mrs Lewis** · Trustpilot - Silentnight · 2021-02-05 · [Lovely anti allergy pillows bought for…](https://uk.trustpilot.com/review/shop.silentnight.co.uk?search=allergy)  
 > `Q386` · Angle D · Wunsch · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne, Anti-Allergie-Kissen fuer die Tochter, Ekzem an Hals und Augen verschwindet. | Wer für wen: Mutter kauft Anti-Allergie-Kissen fuer Tochter_
+> _5 Sterne, Anti-Allergie-Kissen für die Tochter, Ekzem an Hals und Augen verschwindet. | Wer für wen: Mutter kauft Anti-Allergie-Kissen für Tochter_
 
 > "His parents told me he now sleeps well and no more coughing or runny nose,THANK YOU !!"
 >
 > — **mrs Osborne** · Trustpilot - Woolroom · 2024-02-05 · [Excellent service!!](https://uk.trustpilot.com/review/thewoolroom.com?search=allergy)  
 > `Q387` · Angle D · Wunsch · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Kein Husten, keine laufende Nase mehr beim Enkel. | Angle-Notiz: Kinder mit Allergien | Wer für wen: Grossmutter fuer Enkel_
+> _5 Sterne. Kein Husten, keine laufende Nase mehr beim Enkel. | Angle-Notiz: Kinder mit Allergien | Wer für wen: Großmutter für Enkel_
 
-### Angle NEU – neue Angles (32 Zitate)
+### Angle NEU – neue Angles (31 Zitate)
 
 #### NEU · Horrorgeschichte (2)
 
@@ -2851,7 +2851,7 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **OnlyOnAFriday** · Mumsnet · 2025-10-19 · [How often do you replace your duvet?](https://www.mumsnet.com/talk/_chat/5430163-how-often-do-you-replace-your-duvet?page=3)  
 > `Q389` · Angle NEU · Horrorgeschichte · Intensität ●●●●○ · ✔ verifiziert  
-> _Katze uriniert regelmaessig auf die Decke. | Angle-Notiz: Haustiere im Bett_
+> _Katze uriniert regelmäßig auf die Decke. | Angle-Notiz: Haustiere im Bett_
 
 #### NEU · Schmerz (7)
 
@@ -2871,51 +2871,51 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **NelleBee** · Mumsnet · 2021-07-24 · [Coverless Duvets](https://www.mumsnet.com/talk/_chat/4304814-Coverless-Duvets?page=2)  
 > `Q392` · Angle NEU · Schmerz · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Autistische Kinder zogen staendig die Bezuege ab. | Angle-Notiz: Kinder mit Autismus | Wer für wen: Mutter kauft fuer autistische Kinder_
+> _Autistische Kinder zogen ständig die Bezüge ab. | Angle-Notiz: Kinder mit Autismus | Wer für wen: Mutter kauft für autistische Kinder_
 
 > "My DS is a bedwetter so I regularly wash his duvet at 60."
 >
 > — **OhFuds** · Mumsnet · 2016-11-02 · [Do you wash duvets?](https://www.mumsnet.com/talk/housekeeping/2771269-do-you-wash-duvets)  
 > `Q393` · Angle NEU · Schmerz · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Sohn naesst ein, Decke muss oft gewaschen werden. | Angle-Notiz: Kinder/Bettnaessen | Wer für wen: Mutter waescht Decke des Sohnes_
+> _Sohn nässt ein, Decke muss oft gewaschen werden. | Angle-Notiz: Kinder/Bettnässen | Wer für wen: Mutter wäscht Decke des Sohnes_
 
 > "One of my sons, for some unknown reason, literally breaks duvet covers and often ends up inside them."
 >
 > — **Dogaredabomb** · Mumsnet · 2025-10-09 · [Coverless duvet, should I get one?](https://www.mumsnet.com/talk/_chat/5424622-coverless-duvet-should-i-get-one)  
 > `Q394` · Angle NEU · Schmerz · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Sohn macht Bezuege kaputt und landet darin. | Angle-Notiz: Kinder | Wer für wen: Mutter ueber Sohn_
+> _Sohn macht Bezüge kaputt und landet darin. | Angle-Notiz: Kinder | Wer für wen: Mutter über Sohn_
 
 > "Ordered Silentnight Impress Memory foam mattress topper for my mother who had been having trouble sleeping."
 >
 > — **Linda** · Trustpilot - Silentnight · 2021-08-01 · [Silentnight Impress mattress topper](https://uk.trustpilot.com/review/shop.silentnight.co.uk?search=mum)  
 > `Q395` · Angle NEU · Schmerz · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne, Tochter bestellt Topper fuer Mutter mit Schlafproblemen. | Angle-Notiz: Geschenk/Kauf fuer Eltern | Wer für wen: Tochter kauft Topper fuer Mutter_
+> _5 Sterne, Tochter bestellt Topper für Mutter mit Schlafproblemen. | Angle-Notiz: Geschenk/Kauf für Eltern | Wer für wen: Tochter kauft Topper für Mutter_
 
 > "Elderly and since husband died have changed to a single sized bed."
 >
 > — **Pamela Connolly** · Trustpilot - Dunelm · 2026-05-13 · [Dorma good quality bedding](https://uk.trustpilot.com/review/www.dunelm.com?search=elderly)  
 > `Q396` · Angle NEU · Schmerz · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne, aeltere Witwe wechselt auf Einzelbett, Tochter bestellt die Bettwaesche online fuer sie. | Angle-Notiz: Senioren/Witwe, Kinder helfen | Wer für wen: Tochter bestellt online fuer aeltere Mutter_
+> _5 Sterne, ältere Witwe wechselt auf Einzelbett, Tochter bestellt die Bettwäsche online für sie. | Angle-Notiz: Senioren/Witwe, Kinder helfen | Wer für wen: Tochter bestellt online für ältere Mutter_
 
 #### NEU · Gescheiterte Lösung (3)
 
 > "I purchased a super king duvet because I was sick of him indoors turning over and pinching it."
 >
 > — **Katie** · Trustpilot - Silentnight · 2025-04-16 (aktualisiert) · [Customer service not very helpful](https://uk.trustpilot.com/review/shop.silentnight.co.uk?search=duvet&stars=3)  
-> `Q397` · Angle NEU · Gescheiterte Lösung · Intensität ●●●●○ · ✔ verifiziert  
-> _3 Sterne, kauft Super-King-Decke, weil der Partner ('him indoors') ihr nachts die Decke klaut. | Angle-Notiz: Partner klaut Decke / Paar-Schlaf_
+> `Q397` · Angle NEU · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _3 Sterne, kauft Super-King-Decke, weil der Partner ('him indoors') ihr nachts die Decke klaut. | Angle-Notiz: Partner klaut Decke / Paar-Schlaf | Wer für wen: Frau kauft Super-King-Decke, weil der Partner (him indoors) ihr die Decke klaut_
 
 > "Despite following care instructions, the filling has shifted and thinned out significantly"
 >
 > — **zz** · Trustpilot - Silentnight · 2025-10-15 · [Terrible - don't bother](https://uk.trustpilot.com/review/shop.silentnight.co.uk?search=duvet&stars=1)  
 > `Q398` · Angle NEU · Gescheiterte Lösung · Intensität ●●●○○ · ✔ verifiziert  
-> _1 Stern, trotz Pflegehinweisen verrutscht und verduennt die Fuellung. | Angle-Notiz: Haltbarkeit: Decke wird schnell flach/klumpt_
+> _1 Stern, trotz Pflegehinweisen verrutscht und verdünnt die Füllung. | Angle-Notiz: Haltbarkeit: Decke wird schnell flach/klumpt_
 
 > "They've came a long way from the days of sleeping on a crisp bag which made you sweat!"
 >
 > — **Disney** · Trustpilot - Soak&Sleep · 2017-08-09 · [Excellent product](https://uk.trustpilot.com/review/www.soakandsleep.com?search=sweat&page=2)  
 > `Q399` · Angle NEU · Gescheiterte Lösung · Intensität ●●●○○ · ✔ verifiziert  
-> _5 Sterne. Wasserdichter Matratzenschoner aus medizinischen Gruenden; frueher wie auf einer Chipstuete geschlafen. | Angle-Notiz: Medizinisch/Inkontinenz: wasserdichter Schutz_
+> _5 Sterne. Wasserdichter Matratzenschoner aus medizinischen Gründen; früher wie auf einer Chipstüte geschlafen. | Angle-Notiz: Medizinisch/Inkontinenz: wasserdichter Schutz_
 
 #### NEU · Einwand (4)
 
@@ -2923,59 +2923,59 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Talie** · Trustpilot - Silentnight · 2023-10-21 · [Toxic chemicals in Calming 'healthy Growth'…](https://uk.trustpilot.com/review/shop.silentnight.co.uk?search=duvet&stars=1)  
 > `Q400` · Angle NEU · Einwand · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _1 Stern, Mutter entdeckt Chemikalien in Kinderdecke 'Healthy Growth'. | Angle-Notiz: Kinder / Chemikalien in Bettwaren | Wer für wen: Mutter kauft Decke fuer Kind_
+> _1 Stern, Mutter entdeckt Chemikalien in Kinderdecke 'Healthy Growth'. | Angle-Notiz: Kinder / Chemikalien in Bettwaren | Wer für wen: Mutter kauft Decke für Kind_
 
 > "We can't possibly carry duvets and pillows with us."
 >
 > — **MRex** · Mumsnet · 2019-07-31 · [AIBU - PIL smelly sheets](https://www.mumsnet.com/talk/am_i_being_unreasonable/3652416-AIBU-PIL-smelly-sheets)  
-> `Q401` · Angle NEU · Einwand · Intensität ●●●○○ · ✔ verifiziert  
-> _Eigene Decken mitbringen geht nicht. | Angle-Notiz: Gaestebett/Reisen_
+> `Q401` · Angle NEU · Einwand · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Eigene Decken mitbringen geht nicht. | Angle-Notiz: Gästebett/Reisen | Wer für wen: Besucher können eigene Decken und Kissen nicht mitbringen (Gästebett)_
 
 > "Disappointed at outcome, for the price of the duvet I would expect it to last for many years!"
 >
 > — **Kathryn Upson** · Trustpilot - Simba · 2025-08-12 · [Disappointed at outcome](https://uk.trustpilot.com/review/simbasleep.com?search=duvet&stars=3)  
 > `Q402` · Angle NEU · Einwand · Intensität ●●○○○ · ✔ verifiziert  
-> _3 Sterne, teure Decke haelt nicht lange. | Angle-Notiz: Haltbarkeit_
+> _3 Sterne, teure Decke hält nicht lange. | Angle-Notiz: Haltbarkeit_
 
 > "Didn’t like the crinkly texture on one side."
 >
 > — **No name please** · Trustpilot - Simba · 2024-01-30 · [Didn't like the crinkly texture on one…](https://uk.trustpilot.com/review/simbasleep.com?search=duvet&stars=3)  
 > `Q403` · Angle NEU · Einwand · Intensität ●●○○○ · ✔ verifiziert  
-> _3 Sterne, knisternde Kuehlseite der Decke stoert. | Angle-Notiz: Textur/Rascheln der Kuehlseite_
+> _3 Sterne, knisternde Kühlseite der Decke stört. | Angle-Notiz: Textur/Rascheln der Kühlseite_
 
 #### NEU · Glaube (4)
 
 > "For example, when I go away from home, I bring my own bedding so I know I won’t be exposed to bio laundry detergents and fragrances that I am sensitive to."
 >
 > — **Oscar** · Eczema UK (ehem. National Eczema Society) – Fallgeschichten · k. A. (Seite 2026 abgerufen) · [Oscar's story](https://www.eczema.org.uk/case-studies/oscars-story)  
-> `Q404` · Angle NEU · Glaube · Intensität ●●●●○ · ✔ verifiziert  
-> _Nimmt auf Reisen eigenes Bettzeug mit wegen Waschmittel/Duftstoffen. | Angle-Notiz: NEU: Reisen/Gästebett; sekundär D_
+> `Q404` · Angle NEU · Glaube · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Nimmt auf Reisen eigenes Bettzeug mit wegen Waschmittel/Duftstoffen. | Angle-Notiz: NEU: Reisen/Gästebett; sekundär D | Wer für wen: Ekzem-Betroffene bringt auf Reisen eigenes Bettzeug mit (Waschmittel der Gastgeber)_
 
 > "I can afford to replace a duvet that someone has been ill over without getting a loan!"
 >
 > — **DigForVictory** · MoneySavingExpert Forum · 2015-02-06 · [Suitable duvet filling for sufferer of allergy to dust mites: is goose/duck down ok?](https://forums.moneysavingexpert.com/discussion/5170492/suitable-duvet-filling-for-sufferer-of-allergy-to-dust-mites-is-goose-duck-down-ok)  
-> `Q405` · Angle NEU · Glaube · Intensität ●●●○○ · ✔ verifiziert  
-> _Synthetikdecke ersetzbar, wenn jemand darauf krank war. | Angle-Notiz: NEU: Krankheit/Erbrechen im Bett; sekundär A_
+> `Q405` · Angle NEU · Glaube · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Synthetikdecke ersetzbar, wenn jemand darauf krank war. | Angle-Notiz: NEU: Krankheit/Erbrechen im Bett; sekundär A | Wer für wen: Synthetikdecke ist ersetzbar, wenn jemand anderes darauf krank war_
 
 > "I don’t care what I sleep on, but I prefer to sleep in an environment where the cats so don’t spend a lot of time."
 >
 > — **Jan (46, weiblich)** · HEXI / healthtalk (Universität Oxford) – Asthma · k. A. (Interview; veröffentlicht 2015, aktualisiert 2017) · [Managing asthma: adjusting medication and other self care strategies](https://hexi.ox.ac.uk/asthma/managing-asthma-adjusting-medication-and-other-self-care-strategies)  
-> `Q406` · Angle NEU · Glaube · Intensität ●●●○○ · ✔ verifiziert  
-> _Übernachtung bei Freunden mit Katzen: plant Schlafplatz. | Angle-Notiz: NEU: Gästebett/Übernachten bei Freunden; sekundär D_
+> `Q406` · Angle NEU · Glaube · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Übernachtung bei Freunden mit Katzen: plant Schlafplatz. | Angle-Notiz: NEU: Gästebett/Übernachten bei Freunden; sekundär D | Wer für wen: Asthma-Betroffene plant Schlafplatz beim Übernachten bei Freunden mit Katzen_
 
 > "I have 3 sons, who would jump in their cars in the middle of the night if I rang them"
 >
 > — **uncomfortablydumb60** · Mumsnet · 2025-05-20 · [Coverless duvet](https://www.mumsnet.com/talk/_chat/5338680-coverless-duvet)  
 > `Q407` · Angle NEU · Glaube · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Soehne wuerden jederzeit helfen - aber sie will nicht abhaengig sein. | Angle-Notiz: Geschenk/Hilfe erwachsener Kinder fuer Eltern | Wer für wen: erwachsene Soehne helfen der Mutter_
+> _Söhne würden jederzeit helfen - aber sie will nicht abhängig sein. | Angle-Notiz: Geschenk/Hilfe erwachsener Kinder für Eltern | Wer für wen: erwachsene Söhne helfen der Mutter_
 
-#### NEU · Wunsch (12)
+#### NEU · Wunsch (11)
 
 > "Good to hear about these, I have an elderly relative who is a bit less strong and mobile now and… this sort of thing could be very useful!"
 >
 > — **InteriorDesignHell** · Mumsnet · 2021-07-24 · [Coverless Duvets](https://www.mumsnet.com/talk/_chat/4304814-Coverless-Duvets)  
 > `Q408` · Angle NEU · Wunsch · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Ueberlegt bezuglose Decke fuer gebrechlichen Verwandten. | Angle-Notiz: Geschenk fuer aeltere Angehoerige | Wer für wen: Angehoerige ueberlegt Kauf fuer aelteren, schwaecheren Verwandten_
+> _Überlegt bezuglose Decke für gebrechlichen Verwandten. | Angle-Notiz: Geschenk für ältere Angehörige | Wer für wen: Angehörige überlegt Kauf für älteren, schwächeren Verwandten_
 
 > "It's life changing as someone with sensory issues it has really made a difference to my sleep."
 >
@@ -2987,61 +2987,55 @@ Innerhalb jedes Typs nach Intensität sortiert (`●●●●●` = 5/5). 👥 =
 >
 > — **Mrs Gaynor Grist** · Trustpilot - Silentnight · 2021-07-29 · [Duvet cover](https://uk.trustpilot.com/review/shop.silentnight.co.uk?search=mum)  
 > `Q410` · Angle NEU · Wunsch · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne, Tochter kauft buegelfreien Bettbezug fuer ihre aelteren Eltern. | Angle-Notiz: Geschenk/Kauf fuer Eltern | Wer für wen: Tochter kauft Bettbezug fuer aeltere Eltern_
+> _5 Sterne, Tochter kauft bügelfreien Bettbezug für ihre älteren Eltern. | Angle-Notiz: Geschenk/Kauf für Eltern | Wer für wen: Tochter kauft Bettbezug für ältere Eltern_
 
 > "Mum loves the duvet covers she said theyre so nice n cosy, Happy Mum Happy Daughter x"
 >
 > — **Elizabeth Nanson** · Trustpilot - Dunelm · 2024-01-26 · [I was looking for warm teddy fleece…](https://uk.trustpilot.com/review/www.dunelm.com?search=mum&stars=5)  
 > `Q411` · Angle NEU · Wunsch · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne, Tochter kauft Teddy-Fleece-Bezuege, 10.5-Tog-Decke und Kissen fuer die Mutter. | Angle-Notiz: Geschenk/Kauf fuer Eltern | Wer für wen: Tochter kauft Bettwaesche und Decke fuer Mutter_
+> _5 Sterne, Tochter kauft Teddy-Fleece-Bezüge, 10.5-Tog-Decke und Kissen für die Mutter. | Angle-Notiz: Geschenk/Kauf für Eltern | Wer für wen: Tochter kauft Bettwäsche und Decke für Mutter_
 
 > "bought Scooms following my husband’s serious illness and extended hospital stay…"
 >
 > — **deirdre duignan** · Trustpilot - Scooms · 2026-04-04 · [Having researched and researched good…](https://uk.trustpilot.com/review/scooms.com?search=duvet)  
 > `Q412` · Angle NEU · Wunsch · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Kauf nach schwerer Krankheit und langem Krankenhausaufenthalt des Mannes. | Angle-Notiz: Pflege / Krankheit des Partners | Wer für wen: Ehefrau kauft fuer schwer erkrankten Ehemann nach Krankenhausaufenthalt_
+> _5 Sterne. Kauf nach schwerer Krankheit und langem Krankenhausaufenthalt des Mannes. | Angle-Notiz: Pflege / Krankheit des Partners | Wer für wen: Ehefrau kauft für schwer erkrankten Ehemann nach Krankenhausaufenthalt_
 
 > "We bought one for DS.  Absolutely brilliant, squashes right down and dries very quickly after washing. It is very soft and as he is autistic he doesn't like the feel of duvet covers"
 >
 > — **MrsKJones** · Mumsnet · 2021-07-24 · [Coverless Duvets](https://www.mumsnet.com/talk/_chat/4304814-Coverless-Duvets)  
 > `Q413` · Angle NEU · Wunsch · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Fuer autistischen Sohn, der Bezuege nicht mag. | Angle-Notiz: Kinder mit Autismus / sensorische Beduerfnisse | Wer für wen: Mutter kauft fuer autistischen Sohn_
+> _Für autistischen Sohn, der Bezüge nicht mag. | Angle-Notiz: Kinder mit Autismus / sensorische Bedürfnisse | Wer für wen: Mutter kauft für autistischen Sohn_
 
 > "This is exactly why i got one and my son who has ASD has one as well."
 >
 > — **Themagicfarawaytreeismyfav** · Mumsnet · 2025-10-09 · [Coverless duvet, should I get one?](https://www.mumsnet.com/talk/_chat/5424622-coverless-duvet-should-i-get-one)  
 > `Q414` · Angle NEU · Wunsch · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Auch der Sohn mit ASD hat eine bezuglose Decke. | Angle-Notiz: Kinder mit Autismus | Wer für wen: Mutter kauft auch fuer Sohn mit ASD_
+> _Auch der Sohn mit ASD hat eine bezuglose Decke. | Angle-Notiz: Kinder mit Autismus | Wer für wen: Mutter kauft auch für Sohn mit ASD_
 
 > "he loves it so thick and warm get him though cold university nights"
 >
 > — **Callum Flatley** · Trustpilot - Dunelm · 2024-10-07 · [Great delivery got my son a 15 tog…](https://uk.trustpilot.com/review/www.dunelm.com?search=tog)  
 > `Q415` · Angle NEU · Wunsch · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne, Elternteil kauft Sohn 15-Tog-Decke fuer kalte Uni-Naechte. | Angle-Notiz: Studenten / Uni-Auszug | Wer für wen: Vater/Mutter kauft Decke fuer studierenden Sohn_
+> _5 Sterne, Elternteil kauft Sohn 15-Tog-Decke für kalte Uni-Nächte. | Angle-Notiz: Studenten / Uni-Auszug | Wer für wen: Vater/Mutter kauft Decke für studierenden Sohn_
 
 > "I bought this for a Christmas present for my 80 year old mum. She loves it!"
 >
 > — **Deborah Broadbent** · Trustpilot - Silentnight · 2021-02-13 · [Cosy and compact](https://uk.trustpilot.com/review/shop.silentnight.co.uk?search=mum)  
 > `Q416` · Angle NEU · Wunsch · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne, Weihnachtsgeschenk fuer 80-jaehrige Mutter. | Angle-Notiz: Geschenk fuer Eltern | Wer für wen: Tochter schenkt 80-jaehriger Mutter Bettprodukt_
+> _5 Sterne, Weihnachtsgeschenk für 80-jährige Mutter. | Angle-Notiz: Geschenk für Eltern | Wer für wen: Tochter schenkt 80-jähriger Mutter Bettprodukt_
 
 > "Bought a new (replacement) electric blanket for my partially sighted 92 year old mum."
 >
 > — **Stepen** · Trustpilot - Dunelm · 2024-02-02 · [Mum's electric blanket](https://uk.trustpilot.com/review/www.dunelm.com?search=mum&stars=5)  
 > `Q417` · Angle NEU · Wunsch · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne, Sohn kauft Heizdecke fuer sehbehinderte 92-jaehrige Mutter. | Angle-Notiz: Kauf fuer Eltern/Senioren | Wer für wen: Sohn kauft fuer 92-jaehrige Mutter_
+> _5 Sterne, Sohn kauft Heizdecke für sehbehinderte 92-jährige Mutter. | Angle-Notiz: Kauf für Eltern/Senioren | Wer für wen: Sohn kauft für 92-jährige Mutter_
 
 > "he couldn’t wait to get home to a decent night’s sleep."
 >
 > — **deirdre duignan** · Trustpilot - Scooms · 2026-04-04 · [Having researched and researched good…](https://uk.trustpilot.com/review/scooms.com?search=duvet)  
 > `Q418` · Angle NEU · Wunsch · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Ehemann sehnte sich nach dem Krankenhaus nach gutem Schlaf zuhause. | Angle-Notiz: Pflege / Krankheit | Wer für wen: Ehefrau fuer kranken Ehemann_
-
-> "Bought a down quilt for my mum, the quality is lovely and had superfast delivery."
->
-> — **AN Other** · Trustpilot - Silentnight · 2024-03-29 · [Superfast delivery, great prices!](https://uk.trustpilot.com/review/shop.silentnight.co.uk?search=mum)  
-> `Q419` · Angle NEU · Wunsch · Intensität ●○○○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne, kauft Daunendecke fuer die Mutter. | Angle-Notiz: Geschenk/Kauf fuer Eltern | Wer für wen: Kind kauft Decke fuer Mutter_
+> _5 Sterne. Ehemann sehnte sich nach dem Krankenhaus nach gutem Schlaf zuhause. | Angle-Notiz: Pflege / Krankheit | Wer für wen: Ehefrau für kranken Ehemann_
 
 ## 5. Sprachliste der Zielgruppe
 
@@ -3051,41 +3045,41 @@ So schreiben die Leute selbst, Wörter und Wendungen exakt aus den Zitaten. 🇬
 
 | Ausdruck | 🇬🇧 | Bedeutung / Nutzung | Pool | Beispiele |
 |---|---|---|---|---|
-| **laundrette / launderette** | 🇬🇧 | Waschsalon (beide Schreibweisen) – Ausweichloesung, gilt als Aufwand | 36 | `Q015`, `Q029`, `Q053` |
-| **sweaty** |  | verschwitzt – v. a. ueber den Partner ('sweaty FIL', 'sweaty shagged on sheets') | 33 | `Q012`, `Q039`, `Q057` |
-| **stained / stains** |  | Flecken (Schweiss, Blut, Tee) | 16 | `Q013`, `Q020`, `Q043` |
-| **on the line / washing line** | 🇬🇧 | Waescheleine draussen – Trocknen als Problem | 15 | `Q004`, `Q100`, `Q182` |
+| **laundrette / launderette** | 🇬🇧 | Waschsalon (beide Schreibweisen) – Ausweichlösung, gilt als Aufwand | 36 | `Q015`, `Q029`, `Q053` |
+| **sweaty** |  | verschwitzt – v. a. über den Partner ('sweaty FIL', 'sweaty shagged on sheets') | 33 | `Q012`, `Q039`, `Q057` |
+| **stained / stains** |  | Flecken (Schweiß, Blut, Tee) | 16 | `Q013`, `Q020`, `Q043` |
+| **on the line / washing line** | 🇬🇧 | Wäscheleine draußen – Trocknen als Problem | 15 | `Q004`, `Q100`, `Q182` |
 | **lumpy** |  | klumpig nach dem Waschen | 15 | `Q032`, `Q054`, `Q130` |
-| **stink / stinks** |  | stinken – haeufigstes Ekel-Verb | 12 | `Q001`, `Q011`, `Q012` |
-| **dry cleaners** |  | Reinigung – teuer, Angst vor Daempfen/Schaden | 10 | `Q067` |
+| **stink / stinks** |  | stinken – häufigstes Ekel-Verb | 12 | `Q001`, `Q011`, `Q012` |
+| **dry cleaners** |  | Reinigung – teuer, Angst vor Dämpfen/Schaden | 10 | `Q067` |
 | **dripping wet / soaking wet** |  | tropfnass – nasse Decke ist schwer und unhandlich | 9 | `Q004`, `Q028`, `Q029` |
 | **mould** | 🇬🇧 | Schimmel (britische Schreibweise, US: mold) | 8 | `Q016`, `Q026` |
 | **disgusting** |  | ekelhaft | 7 | `Q023`, `Q088` |
-| **game changer** |  | Gamechanger – Loesung (waschbare Decke) | 7 | `Q101` |
+| **game changer** |  | Gamechanger – Lösung (waschbare Decke) | 7 | `Q101` |
 | **tumble dry / tumble dried** | 🇬🇧 | Trockner (brit. 'tumble dryer', US: dryer) – Decke schmilzt/wird nicht trocken | 6 | `Q021`, `Q052`, `Q061` |
 | **yellow / yellowish** |  | vergilbt, gelbe Flecken bzw. gelbes Waschwasser | 6 | `Q001`, `Q007`, `Q041` |
-| **8kg washing machine / 10kg machine** |  | Maschinengroesse in kg als Argument ('selbst meine 10kg schafft es nicht') | 5 | `Q051`, `Q065` |
+| **8kg washing machine / 10kg machine** |  | Maschinengröße in kg als Argument ('selbst meine 10kg schafft es nicht') | 5 | `Q051`, `Q065` |
 | **fit in the washing machine** |  | passt (nicht) in die Waschmaschine – Kernbarriere beim Deckewaschen | 4 | `Q054` |
 | **musty** |  | modrig/muffig | 4 | `Q027` |
 | **minging** | 🇬🇧 | ekelhaft, eklig (britischer Slang) – nur im Gesamtpool belegt | 4 |  |
 | **eww / eugh / bleugh** |  | Ekel-Laute | 4 | `Q017`, `Q019`, `Q076` |
 | **get a new one / buying a new one** |  | lieber neu kaufen als waschen | 3 | `Q035`, `Q054` |
-| **too big for washing machine / too bulky for a domestic washing machine** |  | zu gross/zu sperrig fuer die Haushaltsmaschine | 2 | `Q049`, `Q056` |
+| **too big for washing machine / too bulky for a domestic washing machine** |  | zu groß/zu sperrig für die Haushaltsmaschine | 2 | `Q049`, `Q056` |
 | **fusty** | 🇬🇧 | muffig, abgestanden (britisch) | 2 | `Q075` |
 | **dead skin cells** |  | abgestorbene Hautschuppen in Decke/Kissen | 2 | `Q083`, `Q085` |
 | **the colour of the water / poo-water** | 🇬🇧 | Farbe des Waschwassers als Ekel-Beweis (brit. Schreibweise 'colour'); Vergleiche wie 'thick mud colour', 'poo-water' | 2 | `Q007`, `Q019` |
-| **makes me gag / makes me want to heave** |  | Wuergereiz – Ekel-Reaktion | 2 | `Q009`, `Q042` |
+| **makes me gag / makes me want to heave** |  | Würgereiz – Ekel-Reaktion | 2 | `Q009`, `Q042` |
 | **filthy** |  | dreckig, verdreckt | 2 | `Q003`, `Q092` |
-| **rancid** |  | ranzig – extrem fuer 'die Seite des Mannes' | 2 | `Q013`, `Q366` |
+| **rancid** |  | ranzig – extrem für 'die Seite des Mannes' | 2 | `Q013`, `Q366` |
 | **sodding** | 🇬🇧 | verdammt (milder brit. Fluch) | 2 | `Q041` |
-| **take fucking years to fully dry** |  | 'dauert ewig zu trocknen' (Uebertreibung) | 1 | `Q059` |
+| **take fucking years to fully dry** |  | 'dauert ewig zu trocknen' (Übertreibung) | 1 | `Q059` |
 | **smells of armpit** |  | riecht nach Achsel – drastischer Geruchsvergleich | 1 | `Q010` |
-| **makes my skin crawl** |  | da kriege ich Gaensehaut/mir graut | 1 | `Q047` |
+| **makes my skin crawl** |  | da kriege ich Gänsehaut/mir graut | 1 | `Q047` |
 | **Never again.** |  | 'Nie wieder' – Fazit nach Waschsalon-Erfahrung | 1 | `Q015` |
 | **Disaster!** |  | Katastrophe – Waschversuch endet im Desaster | 1 | `Q005` |
 | **a real palava** | 🇬🇧 | ein Riesen-Theater/Aufwand (brit. 'palaver') | 1 | `Q032` |
 | **weigh a tonne** | 🇬🇧 | wiegt eine Tonne (brit. Schreibweise 'tonne') | 1 | `Q083` |
-| **bin it** | 🇬🇧 | wegschmeissen (brit. 'bin' als Verb) | 1 | `Q094` |
+| **bin it** | 🇬🇧 | wegschmeißen (brit. 'bin' als Verb) | 1 | `Q094` |
 | **on a 60** | 🇬🇧 | bei 60 Grad gewaschen (brit. Kurzform) | 1 | `Q072` |
 | **ripped off** |  | abgezockt (Waschsalon-/Reinigungspreise) | 1 | `Q052` |
 
@@ -3093,36 +3087,36 @@ So schreiben die Leute selbst, Wörter und Wendungen exakt aus den Zitaten. 🇬
 
 | Ausdruck | 🇬🇧 | Bedeutung / Nutzung | Pool | Beispiele |
 |---|---|---|---|---|
-| **struggle / struggling** |  | sich abmuehen | 66 | `Q112`, `Q113`, `Q118` |
-| **DH** | 🇬🇧 | 'dear husband' (brit. Forenkuerzel, Mumsnet) – muss helfen; gezaehlt case-sensitiv | 60 | `Q143`, `Q144`, `Q146` |
-| **arthritis / arthritic** |  | Arthritis – haeufigster koerperlicher Grund | 30 | `Q120`, `Q122`, `Q123` |
+| **struggle / struggling** |  | sich abmühen | 66 | `Q112`, `Q113`, `Q118` |
+| **DH** | 🇬🇧 | 'dear husband' (brit. Forenkürzel, Mumsnet) – muss helfen; gezählt case-sensitiv | 60 | `Q143`, `Q144`, `Q146` |
+| **arthritis / arthritic** |  | Arthritis – häufigster körperlicher Grund | 30 | `Q120`, `Q122`, `Q123` |
 | **a nightmare** |  | ein Albtraum | 17 | `Q136`, `Q004` |
-| **faff / faffing** | 🇬🇧 | umstaendliches Gefummel (brit. Slang) | 14 | `Q148`, `Q186` |
+| **faff / faffing** | 🇬🇧 | umständliches Gefummel (brit. Slang) | 14 | `Q148`, `Q186` |
 | **I hate changing** |  | ich hasse Beziehen | 13 | `Q133`, `Q167`, `Q145` |
-| **exhausting / exhausted** |  | erschoepfend/erschoepft | 13 | `Q112`, `Q117`, `Q119` |
-| **wrestling with** |  | ringen/kaempfen mit dem Bezug – Leitverb | 10 | `Q128`, `Q110`, `Q182` |
-| **fight with / fighting** |  | kaempfen mit der Decke | 10 | `Q131`, `Q137` |
-| **changed my life / a total revelation / life changing** |  | Erloesungs-Sprache nach dem Kauf | 9 | `Q195`, `Q147`, `Q409` |
+| **exhausting / exhausted** |  | erschöpfend/erschöpft | 13 | `Q112`, `Q117`, `Q119` |
+| **wrestling with** |  | ringen/kämpfen mit dem Bezug – Leitverb | 10 | `Q128`, `Q110`, `Q182` |
+| **fight with / fighting** |  | kämpfen mit der Decke | 10 | `Q131`, `Q137` |
+| **changed my life / a total revelation / life changing** |  | Erlösungs-Sprache nach dem Kauf | 9 | `Q195`, `Q147`, `Q409` |
 | **the rolling method / the burrito method / inside out method** |  | Tricks/Methoden, die nicht helfen | 7 | `Q164`, `Q167`, `Q170` |
-| **dread / the dreaded changing of beds** |  | das gefuerchtete Bettenbeziehen | 7 | `Q157`, `Q134`, `Q169` |
+| **dread / the dreaded changing of beds** |  | das gefürchtete Bettenbeziehen | 7 | `Q157`, `Q134`, `Q169` |
 | **a lie down** | 🇬🇧 | muss mich danach hinlegen (brit. 'a lie down') | 4 | `Q125`, `Q164` |
 | **my WORST job / your most hated job / a horrid job** |  | verhassteste Hausarbeit | 4 | `Q128`, `Q129`, `Q139` |
 | **the bane of my life** | 🇬🇧 | mein Lebensfluch (brit. Wendung) | 3 | `Q139`, `Q283` |
 | **godsend** |  | Gottesgeschenk | 3 | `Q160` |
-| **I'm only dinky / a wee person / such a shorty** | 🇬🇧 | zu klein dafuer (brit./schott. 'dinky', 'wee') | 3 | `Q135`, `Q139`, `Q153` |
+| **I'm only dinky / a wee person / such a shorty** | 🇬🇧 | zu klein dafür (brit./schott. 'dinky', 'wee') | 3 | `Q135`, `Q139`, `Q153` |
 | **reduced me to tears / floods of tears** |  | bringt mich zum Weinen | 2 | `Q106`, `Q124` |
 | **one corner on then another popped off / one corner won't go in** |  | die Ecken – Spannbettlaken- und Bezug-Kampf | 2 | `Q130`, `Q110` |
 | **getting stuck in side the quilt cover / end up wrapped up in it** |  | im Bezug feststecken/eingewickelt enden | 2 | `Q135`, `Q138` |
 | **a 2 man/woman job / a joint effort** |  | Zwei-Personen-Job | 2 | `Q118`, `Q188` |
-| **a chore** |  | laestige Pflicht | 2 |  |
-| **clothes pegs** | 🇬🇧 | Waescheklammern als Behelfstrick (brit., US: clothespins) | 2 | `Q173` |
+| **a chore** |  | lästige Pflicht | 2 |  |
+| **clothes pegs** | 🇬🇧 | Wäscheklammern als Behelfstrick (brit., US: clothespins) | 2 | `Q173` |
 | **huffing and puffing** |  | Schnaufen und Keuchen beim Beziehen | 1 | `Q109` |
-| **like a demented windmill** |  | wie eine verrueckte Windmuehle (Vergleich) | 1 | `Q121` |
+| **like a demented windmill** |  | wie eine verrückte Windmühle (Vergleich) | 1 | `Q121` |
 | **a workout** |  | wie ein Workout | 1 | `Q125` |
-| **life is too short to ...** |  | Das Leben ist zu kurz fuer ... (Q197 schreibt woertlich 'Life us too short to wrestle with duvet covers') | 1 | `Q203` |
-| **NO MORE FIGHTS WITH THE DUVET COVER** |  | keine Kaempfe mehr – Erleichterung | 1 | `Q194` |
+| **life is too short to ...** |  | Das Leben ist zu kurz für ... (Q197 schreibt wörtlich 'Life us too short to wrestle with duvet covers') | 1 | `Q203` |
+| **NO MORE FIGHTS WITH THE DUVET COVER** |  | keine Kämpfe mehr – Erleichterung | 1 | `Q194` |
 | **blasted things** | 🇬🇧 | verflixte Dinger (brit. mild) | 1 | `Q152` |
-| **shake it into shape** |  | in Form schuetteln – vergebliches Schuetteln | 1 | `Q164` |
+| **shake it into shape** |  | in Form schütteln – vergebliches Schütteln | 1 | `Q164` |
 | **stuffing those duvet covers** |  | Decke in den Bezug stopfen | 1 | `Q113` |
 | **flipping heck** | 🇬🇧 | verflixt nochmal (brit.) | 1 | `Q182` |
 | **knackered** | 🇬🇧 | fix und fertig (brit. Slang) – nur im Gesamtpool belegt | 1 |  |
@@ -3131,43 +3125,43 @@ So schreiben die Leute selbst, Wörter und Wendungen exakt aus den Zitaten. 🇬
 
 | Ausdruck | 🇬🇧 | Bedeutung / Nutzung | Pool | Beispiele |
 |---|---|---|---|---|
-| **tog** | 🇬🇧 | Waermeklasse der Decke (brit. Massstab) | 78 | `Q033`, `Q268`, `Q246` |
-| **night sweats** |  | Nachtschweiss – Standardbegriff | 62 | `Q201`, `Q203`, `Q215` |
+| **tog** | 🇬🇧 | Wärmeklasse der Decke (brit. Maßstab) | 78 | `Q033`, `Q268`, `Q246` |
+| **night sweats** |  | Nachtschweiß – Standardbegriff | 62 | `Q201`, `Q203`, `Q215` |
 | **hot flushes** | 🇬🇧 | Hitzewallungen (brit., US: hot flashes) | 47 | `Q260`, `Q278` |
-| **OH** | 🇬🇧 | 'other half' (brit. Forenkuerzel) – Partner; gezaehlt case-sensitiv (ohne Ausruf 'oh') | 47 | `Q222`, `Q228`, `Q256` |
+| **OH** | 🇬🇧 | 'other half' (brit. Forenkürzel) – Partner; gezählt case-sensitiv (ohne Ausruf 'oh') | 47 | `Q222`, `Q228`, `Q256` |
 | **fan** |  | Ventilator | 25 | `Q297`, `Q363` |
 | **drenched** |  | klatschnass | 24 | `Q218`, `Q220` |
-| **freezing** |  | eiskalt danach (Schweiss kuehlt aus) | 22 | `Q208`, `Q223`, `Q268` |
+| **freezing** |  | eiskalt danach (Schweiß kühlt aus) | 22 | `Q208`, `Q223`, `Q268` |
 | **dripping** |  | tropfend (Haare, Waden) | 15 | `Q208`, `Q221`, `Q228` |
 | **window open / flinging the window open** |  | Fenster auf, auch bei Minusgraden | 14 | `Q201`, `Q211`, `Q226` |
-| **soaking wet / soaked** |  | durchnaesst | 12 | `Q209`, `Q214` |
-| **spare room** | 🇬🇧 | Gaestezimmer – Partner zieht aus (brit.) | 10 | `Q225`, `Q226`, `Q255` |
-| **change the bed / change the sheets** |  | naechtliches Bettneu-Beziehen | 10 | `Q213`, `Q227` |
-| **boiling** | 🇬🇧 | kochend heiss ('I'm boiling', brit. umgangssprachlich) – nur im Gesamtpool | 9 |  |
+| **soaking wet / soaked** |  | durchnässt | 12 | `Q209`, `Q214` |
+| **spare room** | 🇬🇧 | Gästezimmer – Partner zieht aus (brit.) | 10 | `Q225`, `Q226`, `Q255` |
+| **change the bed / change the sheets** |  | nächtliches Bettneu-Beziehen | 10 | `Q213`, `Q227` |
+| **boiling** | 🇬🇧 | kochend heiß ('I'm boiling', brit. umgangssprachlich) – nur im Gesamtpool | 9 |  |
 | **yuk / yukky / yucky** |  | igitt | 9 | `Q214`, `Q216`, `Q227` |
-| **swamp / puddle / a pool of sweat** |  | Sumpf/Pfuetze im Bett | 6 | `Q207`, `Q217`, `Q219` |
+| **swamp / puddle / a pool of sweat** |  | Sumpf/Pfütze im Bett | 6 | `Q207`, `Q217`, `Q219` |
 | **nightie / nightdress** | 🇬🇧 | Nachthemd (brit. umgangssprachlich) | 6 | `Q210`, `Q215`, `Q222` |
 | **rubbish** | 🇬🇧 | Mist, Schrott (brit.) | 5 | `Q288` |
 | **cooking / felt like a Sunday roast** | 🇬🇧 | wie ein Sonntagsbraten gegart (brit. Bild) | 3 | `Q238`, `Q243` |
 | **no breathability / don't 'breathe'** |  | atmet nicht | 3 | `Q281`, `Q282` |
 | **clammy** |  | klamm | 3 | `Q266` |
 | **desperate** |  | verzweifelt | 3 | `Q207`, `Q285` |
-| **bathed in sweat** |  | in Schweiss gebadet | 2 | `Q268`, `Q274` |
-| **lay on bath towels / lay down towels** |  | auf Handtuechern schlafen | 2 | `Q208`, `Q210` |
-| **a decent night's sleep** |  | eine anstaendige Nacht Schlaf | 2 | `Q251`, `Q418` |
-| **marketing bull / the biggest scam** |  | Skepsis gegenueber 'Cooling'-Versprechen | 2 | `Q289`, `Q290` |
+| **bathed in sweat** |  | in Schweiß gebadet | 2 | `Q268`, `Q274` |
+| **lay on bath towels / lay down towels** |  | auf Handtüchern schlafen | 2 | `Q208`, `Q210` |
+| **a decent night's sleep** |  | eine anständige Nacht Schlaf | 2 | `Q251`, `Q418` |
+| **marketing bull / the biggest scam** |  | Skepsis gegenüber 'Cooling'-Versprechen | 2 | `Q289`, `Q290` |
 | **wringing wet** |  | zum Auswringen nass | 1 | `Q236` |
 | **sodden** |  | triefend nass | 1 | `Q213` |
-| **a bucket of water thrown over me** |  | als haette man mir einen Eimer Wasser uebergekippt (Vergleich) | 1 | `Q209` |
-| **covers off covers on** |  | Decke weg, Decke drauf – naechtliches Hin und Her | 1 | `Q221` |
-| **on and off like a whores drawers** | 🇬🇧 | derbe brit. Redewendung fuers staendige Auf-und-ab der Decke | 1 | `Q246` |
+| **a bucket of water thrown over me** |  | als hätte man mir einen Eimer Wasser übergekippt (Vergleich) | 1 | `Q209` |
+| **covers off covers on** |  | Decke weg, Decke drauf – nächtliches Hin und Her | 1 | `Q221` |
+| **on and off like a whores drawers** | 🇬🇧 | derbe brit. Redewendung fürs ständige Auf-und-ab der Decke | 1 | `Q246` |
 | **like an oven** |  | wie ein Ofen | 1 | `Q235` |
-| **shrink wrapped in cling film** | 🇬🇧 | in Frischhaltefolie eingeschweisst (brit. 'cling film') | 1 | `Q239` |
-| **sleeping in a plastic bag** |  | wie in einer Plastiktuete – Kritik an Kunstfaser | 1 | `Q281` |
-| **smell like vinegar** |  | Schweiss riecht nach Essig | 1 | `Q216` |
+| **shrink wrapped in cling film** | 🇬🇧 | in Frischhaltefolie eingeschweißt (brit. 'cling film') | 1 | `Q239` |
+| **sleeping in a plastic bag** |  | wie in einer Plastiktüte – Kritik an Kunstfaser | 1 | `Q281` |
+| **smell like vinegar** |  | Schweiß riecht nach Essig | 1 | `Q216` |
 | **at my wit's end** |  | mit meinem Latein am Ende | 1 | `Q269` |
 | **sweaty betty** | 🇬🇧 | Schwitzbetty – brit. Selbstironie | 1 | `Q256` |
-| **so bloody hot** | 🇬🇧 | verdammt heiss (brit. 'bloody') | 1 | `Q256` |
+| **so bloody hot** | 🇬🇧 | verdammt heiß (brit. 'bloody') | 1 | `Q256` |
 | **200 quid** | 🇬🇧 | Pfund (brit. Slang) – Preisschmerz | 1 | `Q283` |
 | **snuggle under a comforting duvet** |  | Sehnsucht: sich einkuscheln | 1 | `Q296` |
 
@@ -3182,12 +3176,12 @@ So schreiben die Leute selbst, Wörter und Wendungen exakt aus den Zitaten. 🇬
 | **scratching** |  | kratzen (bis es blutet) | 14 | `Q313` |
 | **sneeze / sneezing** |  | niesen | 14 | `Q306`, `Q350` |
 | **air purifier** |  | Luftreiniger – hat nicht geholfen | 9 | `Q357`, `Q361` |
-| **cough** |  | Husten (naechtlicher Asthmahusten) | 8 | `Q328`, `Q379`, `Q334` |
+| **cough** |  | Husten (nächtlicher Asthmahusten) | 8 | `Q328`, `Q379`, `Q334` |
 | **hypoallergenic** |  | hypoallergen – oft angezweifelt | 7 | `Q366` |
 | **hoover** | 🇬🇧 | staubsaugen/Staubsauger (brit.) | 7 | `Q376`, `Q367`, `Q378` |
-| **on a high temperature / at 60 degrees** |  | heiss waschen gegen Milben | 7 | `Q378` |
+| **on a high temperature / at 60 degrees** |  | heiß waschen gegen Milben | 7 | `Q378` |
 | **in the freezer** |  | Kuscheltiere/Bettzeug einfrieren gegen Milben | 7 | `Q378` |
-| **mittens / gloves / socks on my hands** |  | Handschuhe gegen naechtliches Kratzen | 5 | `Q318`, `Q354`, `Q355` |
+| **mittens / gloves / socks on my hands** |  | Handschuhe gegen nächtliches Kratzen | 5 | `Q318`, `Q354`, `Q355` |
 | **wheezy** |  | pfeifend atmend | 4 | `Q365`, `Q377` |
 | **anti allergy bedding** | 🇬🇧 | Anti-Allergie-Bettwaren (brit. Handelsbegriff, US eher 'hypoallergenic') | 4 | `Q353`, `Q369` |
 | **allergic to feathers / not feathers because of allergies** |  | Federallergie | 4 | `Q050`, `Q385` |
@@ -3196,34 +3190,34 @@ So schreiben die Leute selbst, Wörter und Wendungen exakt aus den Zitaten. 🇬
 | **red raw** | 🇬🇧 | wund und rot (brit. Wendung) | 2 | `Q310`, `Q320` |
 | **blood on her sheets / makes herself bleed** |  | Blut auf Laken – Ekzem-Kinder | 2 | `Q308` |
 | **non bio** | 🇬🇧 | Waschmittel ohne Enzyme (brit. 'non-biological') | 2 | `Q378` |
-| **fabric conditioner** | 🇬🇧 | Weichspueler (brit., US: fabric softener) | 2 | `Q323`, `Q349` |
+| **fabric conditioner** | 🇬🇧 | Weichspüler (brit., US: fabric softener) | 2 | `Q323`, `Q349` |
 | **the dustmite and its poo / dust mite droppings** |  | Milbenkot – Ekel-Trigger | 2 | `Q353` |
 | **it breaks my heart / heartbreak** |  | es bricht mir das Herz (Eltern) | 2 | `Q317`, `Q327` |
-| **sleeping under a crisp packet / sleeping on a crisp bag** | 🇬🇧 | wie unter einer Chipstuete – raschelnder Allergiebezug (brit. 'crisp') | 2 | `Q364`, `Q399` |
+| **sleeping under a crisp packet / sleeping on a crisp bag** | 🇬🇧 | wie unter einer Chipstüte – raschelnder Allergiebezug (brit. 'crisp') | 2 | `Q364`, `Q399` |
 | **blue inhaler** | 🇬🇧 | blaues Notfallspray (brit. Alltagsbegriff) | 1 | `Q334` |
-| **willing to try ANYTHING** |  | wuerde alles versuchen – Verzweiflung | 1 | `Q384` |
-| **rip his skin off / tearing my skin apart** |  | sich die Haut abreissen wollen | 1 | `Q354` |
+| **willing to try ANYTHING** |  | würde alles versuchen – Verzweiflung | 1 | `Q384` |
+| **rip his skin off / tearing my skin apart** |  | sich die Haut abreißen wollen | 1 | `Q354` |
 | **My nerves are in shreds** |  | meine Nerven liegen blank | 1 | `Q340` |
-| **sling pillows** | 🇬🇧 | Kissen wegschmeissen (brit. 'sling') | 1 | `Q353` |
+| **sling pillows** | 🇬🇧 | Kissen wegschmeißen (brit. 'sling') | 1 | `Q353` |
 
 ### Angle NEU – neue Angles
 
 | Ausdruck | 🇬🇧 | Bedeutung / Nutzung | Pool | Beispiele |
 |---|---|---|---|---|
-| **my Mum / my 80 year old mum** | 🇬🇧 | Kauf fuer die Mutter (brit. 'Mum') | 25 | `Q410`, `Q416` |
-| **elderly parents / elderly relative** |  | aeltere Eltern/Angehoerige | 4 | `Q408`, `Q410` |
+| **my Mum / my 80 year old mum** | 🇬🇧 | Kauf für die Mutter (brit. 'Mum') | 25 | `Q410`, `Q416` |
+| **elderly parents / elderly relative** |  | ältere Eltern/Angehörige | 4 | `Q408`, `Q410` |
 | **ASD / autistic** |  | Autismus – Bezug wird abgelehnt/abgezogen | 4 | `Q392`, `Q413`, `Q414` |
-| **a Christmas present / a gift** |  | Weihnachtsgeschenk / Geschenk – Kauf fuer andere | 2 | `Q416`, `Q159` |
+| **a Christmas present / a gift** |  | Weihnachtsgeschenk / Geschenk – Kauf für andere | 2 | `Q416`, `Q159` |
 | **it's got sick on it / ill over** | 🇬🇧 | Erbrochenes ('sick' als Nomen, brit.) | 2 | `Q388`, `Q405` |
-| **bedwetter** |  | Bettnaesser | 2 | `Q393` |
+| **bedwetter** |  | Bettnässer | 2 | `Q393` |
 | **sensory issues** |  | sensorische Empfindlichkeit | 2 | `Q409` |
-| **the filling has shifted and thinned out / gone flat** |  | Fuellung verrutscht/wird duenn – Haltbarkeit | 2 | `Q398`, `Q032` |
-| **over the moon** | 🇬🇧 | ueberglucklich (brit. Wendung) | 1 | `Q410` |
-| **Happy Mum Happy Daughter** | 🇬🇧 | Gluecklich-Formel der Kaeuferin (brit. 'Mum') | 1 | `Q411` |
-| **him indoors** | 🇬🇧 | 'der Herr im Haus' – brit. Slang fuer Ehemann | 1 | `Q397` |
+| **the filling has shifted and thinned out / gone flat** |  | Füllung verrutscht/wird dünn – Haltbarkeit | 2 | `Q398`, `Q032` |
+| **over the moon** | 🇬🇧 | überglücklich (brit. Wendung) | 1 | `Q410` |
+| **Happy Mum Happy Daughter** | 🇬🇧 | Glücklich-Formel der Käuferin (brit. 'Mum') | 1 | `Q411` |
+| **him indoors** | 🇬🇧 | 'der Herr im Haus' – brit. Slang für Ehemann | 1 | `Q397` |
 | **pinching it** | 🇬🇧 | (Decke) klauen – brit. umgangssprachlich | 1 | `Q397` |
 | **the cat pissed on it** |  | Katze hat draufgepinkelt | 1 | `Q389` |
-| **it don’t need ironing** |  | muss nicht gebuegelt werden | 1 | `Q410` |
+| **it don’t need ironing** |  | muss nicht gebügelt werden | 1 | `Q410` |
 | **cold university nights** |  | Uni-Auszug, Student | 1 | `Q415` |
 | **highly toxic chemicals** |  | Angst vor Chemikalien in Bettwaren | 1 | `Q400` |
 
@@ -3233,18 +3227,18 @@ So schreiben die Leute selbst, Wörter und Wendungen exakt aus den Zitaten. 🇬
 |---|---|---|---|---|
 | **duvet** | 🇬🇧 | Bettdecke (brit.; US: comforter) | 598 | `Q005`, `Q006`, `Q010` |
 | **duvet cover** | 🇬🇧 | Bettbezug (brit.) | 123 | `Q010`, `Q049` |
-| **tog** | 🇬🇧 | britischer Waermewert fuer Bettdecken (z. B. 4.5, 10.5, 13.5 tog) | 78 | `Q033`, `Q268`, `Q246` |
-| **quilt** | 🇬🇧 | in UK Synonym fuer Bettdecke (nicht Patchwork) | 58 | `Q016`, `Q133`, `Q135` |
-| **kingsize / king size** |  | King-Size – in UK 150x200, andere Masse als US | 58 | `Q015`, `Q131`, `Q133` |
-| **super king** | 🇬🇧 | brit. Bettgroesse 180x200 (Decke 260x220) | 24 | `Q006`, `Q119` |
+| **tog** | 🇬🇧 | britischer Wärmewert für Bettdecken (z. B. 4.5, 10.5, 13.5 tog) | 78 | `Q033`, `Q268`, `Q246` |
+| **quilt** | 🇬🇧 | in UK Synonym für Bettdecke (nicht Patchwork) | 58 | `Q016`, `Q133`, `Q135` |
+| **kingsize / king size** |  | King-Size – in UK 150x200, andere Maße als US | 58 | `Q015`, `Q131`, `Q133` |
+| **super king** | 🇬🇧 | brit. Bettgröße 180x200 (Decke 260x220) | 24 | `Q006`, `Q119` |
 | **top sheet / flat sheet** |  | Laken ohne Gummizug – Workaround unter der Decke | 20 | `Q171`, `Q176` |
 | **topper / mattress topper** |  | Matratzenauflage | 10 | `Q304`, `Q395` |
 | **bottom sheet** |  | Unterlaken | 7 | `Q277` |
-| **bed linen** | 🇬🇧 | Bettwaesche (brit. Sammelbegriff) | 7 | `Q047` |
+| **bed linen** | 🇬🇧 | Bettwäsche (brit. Sammelbegriff) | 7 | `Q047` |
 | **fitted sheet** |  | Spannbettlaken | 6 |  |
 | **mattress protector** |  | Matratzenschoner/-schutz | 6 | `Q008`, `Q271` |
 | **pillowcase / pillow-cases** |  | Kissenbezug | 5 | `Q247`, `Q090` |
-| **hot water bottle** | 🇬🇧 | Waermflasche (brit. Klassiker) – nur im Gesamtpool | 4 |  |
+| **hot water bottle** | 🇬🇧 | Wärmflasche (brit. Klassiker) – nur im Gesamtpool | 4 |  |
 | **eiderdown** | 🇬🇧 | Daunen-/Steppdecke (brit., altmodisch) – nur im Gesamtpool | 1 |  |
 
 ## 6. Gescheiterte Lösungen
@@ -3308,8 +3302,8 @@ Was die Leute schon probiert haben und warum es nicht gereicht hat. „Pool“ =
 > "I can’t stuff the duvets into the covers anymore because of painful hands( no help from hubby)...so I’ve gone back to sheets and blankets."
 >
 > — **Saggi** · Gransnet · 02-Nov-2018 · [Having my duvet laundered](https://www.gransnet.com/forums/house_and_home/1253756-Having-my-duvet-laundered?pg=2)  
-> `Q166` · Angle B · Gescheiterte Lösung · Intensität ●●●●● · ✔ verifiziert  
-> _Schmerzende Hände, keine Hilfe vom Mann, zurück zu Laken und Wolldecken. | Angle-Notiz: schmerzende Hände_
+> `Q166` · Angle B · Gescheiterte Lösung · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Schmerzende Hände, keine Hilfe vom Mann, zurück zu Laken und Wolldecken. | Angle-Notiz: schmerzende Hände | Wer für wen: Frau mit schmerzenden Händen, keine Hilfe vom Mann (hubby), zurück zu Laken/Wolldecken_
 
 > "Nightmare, I hate changing bed covers.…Tried the rolling method but need a big floor space for that so didnt work either. There has to be an easy way and whoever discovers it will be a heroine/hero."
 >
@@ -3327,7 +3321,7 @@ Was die Leute schon probiert haben und warum es nicht gereicht hat. „Pool“ =
 >
 > — **Normallynumb** · Mumsnet · 2025-03-13 · [How difficult do you find changing your bed?](https://www.mumsnet.com/talk/housekeeping/5286934-how-difficult-do-you-find-changing-your-bed?page=3)  
 > `Q169` · Angle B · Gescheiterte Lösung · Intensität ●●●●● · ✔ verifiziert  
-> _Behinderte Nutzerin fuerchtet das Beziehen so sehr, dass sie ein kleineres Bett kaufte._
+> _Behinderte Nutzerin fürchtet das Beziehen so sehr, dass sie ein kleineres Bett kaufte._
 
 > "Tried a Chillow but it was horribly cold and clammy to the touch when you are not having a night sweat, which is a fair bit of the time! Also tried a Climarelle duvet which was a complete waste of money and no different from any other synthetic duvet. …"
 >
@@ -3377,1121 +3371,63 @@ Alle Zitate der Bank, in denen jemand für andere kauft, für andere das Bett ma
 
 **Erkenntnisse für den Geschenk-Angle**
 
-- Wer kauft: Fast immer erwachsene Toechter, seltener Soehne, und zwar fuer die Mutter (Mum), nicht fuer den Vater. Die Beschenkten sind 80+ (Q416 '80 year old mum', Q417 '92 year old mum', Q141 'in my eighties', Q163). Vaeter kommen nur als Pflegefall vor (Q096 'elderly dad'). Das Geschenk loest immer ein konkretes koerperliches Problem: Arthritis (Q161, Q174), Schulter (Q159 'sore shoulder', Q177), Sehbehinderung (Q417), Witwenschaft und Einzelbett (Q396). Fuer die Copy heisst das: ein Problemloeser fuer Mum, kein Luxusgeschenk.
-- Anlass: Ausdrueckliche Geschenk-Anlaesse sind selten. In der Bank stehen nur Q416 ('Christmas present') und Q159 ('a gift for my Mum'). Im ganzen Pool (2335 Zitate) gibt es nur rund 8 Treffer fuer gift/present/Christmas/birthday, darunter weitere Geburtstagsbelege, die man nachkuratieren sollte. Meist loest ein Lebensereignis den Kauf aus: Tod des Partners, der frueher beim Beziehen half (Q119, Q126, Q170, Q396), Krankheit oder Klinikaufenthalt (Q412, Q418), Schlaganfall (Q143), Inkontinenz (Q096). Weihnachten und Mother's Day eignen sich als Saison-Hooks. Der Trigger 'Mum struggles since...' funktioniert das ganze Jahr.
-- Schuldgefuehl liegt auf der Seite der Mutter, nicht beim Kaeufer. Muetter wollen den Kindern nicht zur Last fallen: In Q116 ('I hate adding to her already considerable domestic burdens') wechselt eine Mutter deshalb nur alle drei Wochen. Q200 ('nice not to rely on him'), Q407 und Q173 zeigen dasselbe. Das Geschenk sollte deshalb als Unabhaengigkeit und Wuerde verkauft werden ('so she doesn't have to wait for you to come over'), nicht als Hilfsmittel.
+- Wer kauft: Fast immer erwachsene Töchter, seltener Söhne, und zwar für die Mutter (Mum), nicht für den Vater. Die Beschenkten sind 80+ (Q416 '80 year old mum', Q417 '92 year old mum', Q141 'in my eighties', Q163). Väter kommen nur als Pflegefall vor (Q096 'elderly dad'). Das Geschenk löst immer ein konkretes körperliches Problem: Arthritis (Q161, Q174), Schulter (Q159 'sore shoulder', Q177), Sehbehinderung (Q417), Witwenschaft und Einzelbett (Q396). Für die Copy heißt das: ein Problemlöser für Mum, kein Luxusgeschenk.
+- Anlass: Ausdrückliche Geschenk-Anlässe sind selten. In der Bank stehen nur Q416 ('Christmas present') und Q159 ('a gift for my Mum'). Im ganzen Pool (2335 Zitate) gibt es nur rund 8 Treffer für gift/present/Christmas/birthday, darunter weitere Geburtstagsbelege, die man nachkuratieren sollte. Meist löst ein Lebensereignis den Kauf aus: Tod des Partners, der früher beim Beziehen half (Q119, Q126, Q170, Q396), Krankheit oder Klinikaufenthalt (Q412, Q418), Schlaganfall (Q143), Inkontinenz (Q096). Weihnachten und Mother's Day eignen sich als Saison-Hooks. Der Trigger 'Mum struggles since...' funktioniert das ganze Jahr.
+- Schuldgefühl liegt auf der Seite der Mutter, nicht beim Käufer. Mütter wollen den Kindern nicht zur Last fallen: In Q116 ('I hate adding to her already considerable domestic burdens') wechselt eine Mutter deshalb nur alle drei Wochen. Q200 ('nice not to rely on him'), Q407 und Q173 zeigen dasselbe. Das Geschenk sollte deshalb als Unabhängigkeit und Würde verkauft werden ('so she doesn't have to wait for you to come over'), nicht als Hilfsmittel.
 - Stigma-Falle: Hilfe beim Bettenmachen gilt als Zeichen von Gebrechlichkeit (Q190 'we usually only do that for the old and frail'), und die Scham reicht bis zur Putzkraft (Q057). Ein Geschenk darf deshalb nicht nach Seniorenbedarf oder Reha-Produkt aussehen. Besser wirken Begriffe wie 'easier', 'cosy', 'no ironing', die Q410 und Q411 selbst nutzen.
-- Die Sorge des Kaeufers ist die Wasch-Logistik bei der Mutter. In Q064 passt die Doppeldecke nicht in Mutters Maschine, die Schwester muss waschen. Q066 nennt die kleine Wohnung und die 'communal laundry', Q178 einen Laken-Workaround. Wer schenkt, denkt mit, ob die Mutter das Produkt allein waschen und trocknen kann. Deshalb gehoeren 'fits a standard machine', Trocknungszeit und Single-Groessen (Q396 Einzelbett) ins Geschenk-Creative.
-- Unsichtbare Helfer als Zielgruppe: Heute beziehen oft die Kinder oder Enkel selbst das Bett (Q163 'gets me to do it for her', Q173, Q200, Q149, Q168 'two handy gadgets called grandsons'). Das Geschenk entlastet also beide Seiten. 'Happy Mum Happy Daughter' (Q411) ist fertige Sprache fuer diesen doppelten Nutzen. Kinder treten ausserdem als Empfehler auf (Q141 'My daughter recommended', Q145 Sohn 'raves about'). Ein Ansatz waere ein Hook, der das Kind als Helden zeigt.
-- Sprache und Beweise: Gekauft wird aus Kaeufersicht, als Beweis dient die Freude der Mutter. Wiederkehrende Formeln sind 'my Mum', 'She loves it!' (Q416), 'over the moon' (Q410), 'godsend' (Q160), 'struggling with traditional duvets' (Q159), 'finding it increasingly difficult to put the cover on' (Q160), 'Mum loves... so nice n cosy' (Q411). Fuer UK in der Copy 'Mum' schreiben, nicht 'Mom' (Q174 ist die Ausnahme).
-- Weitere Schenker-Segmente mit Fehlkauf-Risiko: Partner kaufen fuer Partner (Q278 Mann fuer peri-menopausale Partnerin, enttaeuscht; Q359 blinder Ehemann, trotz Beratung falsche Fuellung; Q412 nach Krankheit), Grosseltern fuer Enkel (Q351, Q387 'His parents told me', Q323). Diese Kaeufer kennen das Problem nicht aus eigener Erfahrung und brauchen klare Fakten (Fuellung, Tog, Waschbarkeit), eine Rueckgabe-Garantie und eine Entscheidungshilfe 'Which one for Mum/him?'. Q408 zeigt die Phase, in der jemand fuer einen 'elderly relative' noch ueberlegt.
+- Die Sorge des Käufers ist die Wasch-Logistik bei der Mutter. In Q064 passt die Doppeldecke nicht in Mutters Maschine, die Schwester muss waschen. Q066 nennt die kleine Wohnung und die 'communal laundry', Q178 einen Laken-Workaround. Wer schenkt, denkt mit, ob die Mutter das Produkt allein waschen und trocknen kann. Deshalb gehören 'fits a standard machine', Trocknungszeit und Single-Größen (Q396 Einzelbett) ins Geschenk-Creative.
+- Unsichtbare Helfer als Zielgruppe: Heute beziehen oft die Kinder oder Enkel selbst das Bett (Q163 'gets me to do it for her', Q173, Q200, Q149, Q168 'two handy gadgets called grandsons'). Das Geschenk entlastet also beide Seiten. 'Happy Mum Happy Daughter' (Q411) ist fertige Sprache für diesen doppelten Nutzen. Kinder treten außerdem als Empfehler auf (Q141 'My daughter recommended', Q145 Sohn 'raves about'). Ein Ansatz wäre ein Hook, der das Kind als Helden zeigt.
+- Sprache und Beweise: Gekauft wird aus Käufersicht, als Beweis dient die Freude der Mutter. Wiederkehrende Formeln sind 'my Mum', 'She loves it!' (Q416), 'over the moon' (Q410), 'godsend' (Q160), 'struggling with traditional duvets' (Q159), 'finding it increasingly difficult to put the cover on' (Q160), 'Mum loves... so nice n cosy' (Q411). Für UK in der Copy 'Mum' schreiben, nicht 'Mom' (Q174 ist die Ausnahme).
+- Weitere Schenker-Segmente mit Fehlkauf-Risiko: Partner kaufen für Partner (Q278 Mann für peri-menopausale Partnerin, enttäuscht; Q359 blinder Ehemann, trotz Beratung falsche Füllung; Q412 nach Krankheit), Großeltern für Enkel (Q351, Q387 'His parents told me', Q323). Diese Käufer kennen das Problem nicht aus eigener Erfahrung und brauchen klare Fakten (Füllung, Tog, Waschbarkeit), eine Rückgabe-Garantie und eine Entscheidungshilfe 'Which one for Mum/him?'. Q408 zeigt die Phase, in der jemand für einen 'elderly relative' noch überlegt.
 
 | Kategorie | Anzahl |
 |---|---|
-| Fuer Familie/Kinder | 82 |
+| Für Familie/Kinder | 82 |
 | Partner | 50 |
-| Kinder fuer Eltern | 16 |
-| Gaeste | 10 |
-| Eltern ueber Hilfe der Kinder | 9 |
+| Kinder für Eltern | 15 |
+| Gäste | 10 |
+| Eltern über Hilfe der Kinder | 9 |
 | Sonstiges | 5 |
 | Pflege/Putzhilfe | 4 |
 | Geschenk | 3 |
 
-### Fuer Familie/Kinder (82)
+Die Kerngruppen für den Geschenk-Angle (Kinder für Eltern, Eltern über Hilfe der Kinder, Geschenk, Pflege/Putzhilfe) stehen mit vollem Zitat. Die übrigen Gruppen stehen kompakt in Tabellen, das volle Zitat findet sich über die ID in Abschnitt 4.
 
-**Wer für wen:** Mutter waescht und ersetzt Familien-Decken/Kissen wegen Erbrechen, braucht XL-Maschinen
+### Kinder für Eltern (15)
 
-> "our pillows and duvets go in the wash as well due to vomit so I reguarly have to replace them as even expensive ones never retain their shape and allergic to feathers.... I unfortunately have to have extra large washers and dryers that have a limited lifespan too"
->
-> — **RE** · Netmums · 2017-07-20 · [How often do you change your bedsheets?](https://www.netmums.com/coffeehouse/home-garden-194/cleaning-14/1683757-how-often-do-you-change-your-bedsheets-3.html)  
-> `Q050` · Angle A · Gescheiterte Lösung · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Auch teure Decken verlieren nach dem Waschen die Form; Maschinen gehen kaputt. | Angle-Notiz: Erbrechen / Federallergie | Wer für wen: Mutter wäscht/ersetzt Decken wegen Kind_
-
-**Wer für wen:** Mutter (1,60 m) bezieht die Etagenbetten der Soehne
-
-> "DS1 now on top bunk and DS2 on bottom has been for 2 weeks so 2 changes and what a nightmare it is. I'm only 5"3 so have to climb up the ladders and the lot! Like a work out huffing an fluffing by the time I've tucked everything in!"
->
-> — **Caroline M(607)** · Netmums · 2013-01-09 · [A fifth of us only change our bed linen once a month](https://www.netmums.com/coffeehouse/other-chat-514/news-12/871792-fifth-us-only-change-our-bed-linen-once-month-4.html)  
-> `Q136` · Angle B · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Oberes Etagenbett beziehen ist ein Workout. | Angle-Notiz: Etagenbett | Wer für wen: Mutter bezieht Etagenbetten der Söhne_
-
-**Wer für wen:** Mutter sucht Anti-Allergie-Bettzeug fuer Sohn mit schwerem Ekzem (2x Krankenhaus)
-
-> "my son has really severe and chronic eczema and been hospitalised twice over the last 4 weeks"
->
-> — **kelou** · MoneySavingExpert Forum · 2011-11-01 · [Anti Allergy Bedding](https://forums.moneysavingexpert.com/discussion/3582847/anti-allergy-bedding)  
-> `Q305` · Angle D · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Sohn mit schwerem Ekzem zweimal in 4 Wochen im Krankenhaus. | Angle-Notiz: Kinder mit Ekzem | Wer für wen: Mutter kauft Anti-Allergie-Bettzeug für Sohn_
-
-**Wer für wen:** Eltern ueber Tochter, die mit Blut auf Laken und Kleidung aufwacht (Ekzem)
-
-> "We've seen her wake up with blood on her sheets and clothes, and we've watched her become distressed because she simply can't escape the itching."
->
-> — **Jonathan & Lydia (Eltern von Lyra)** · Eczema UK (ehem. National Eczema Society) – Fallgeschichten · k. A. (Seite 2026 abgerufen) · [Jonathan & Lydia's story](https://www.eczema.org.uk/case-studies/jonathan-lydias-story)  
-> `Q308` · Angle D · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Eltern: Tochter wacht mit Blut auf Laken und Kleidung auf. | Angle-Notiz: Kinder mit Ekzem; sekundär A (blutige Laken waschen) | Wer für wen: Eltern pflegen Tochter mit schwerem Ekzem_
-
-**Wer für wen:** Elternteil findet Kleinkind mit Ekzem blutverschmiert im Bett
-
-> "Have not long ago got him up from nap and there was blood everywhere, all over his face hands clothes and sheet."
->
-> — **Rosedee** · Mumsnet · 2010-08-16 · [I don't know who I'm more angry with..](https://www.mumsnet.com/talk/allergies/1022589-I-don-t-know-who-I-m-more)  
-> `Q312` · Angle D · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Kleinkind nach dem Mittagsschlaf voller Blut vom Kratzen. | Angle-Notiz: Kinder mit Ekzem | Wer für wen: Elternteil fuer Kleinkind mit Ekzem_
-
-**Wer für wen:** Eltern werden 8-9 Mal pro Nacht von der blutig kratzenden Tochter geweckt
-
-> "we are woken 8-9 times a night from her crying from making herself bleed by scratching to apply cream and mop up blood."
->
-> — **Kmitchz** · Mumsnet · 2015-02-15 · [Eczema](https://www.mumsnet.com/talk/childrens_health/2309481-Eczema)  
-> `Q313` · Angle D · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Familie wird 8-9 Mal pro Nacht geweckt, Kind kratzt sich blutig. | Angle-Notiz: Kinder mit Ekzem | Wer für wen: Eltern fuer Tochter mit Ekzem_
-
-**Wer für wen:** Eltern ueber Blutflecken auf Laken und Schlafanzug der Tochter (DD)
-
-> "Our DD sheets and pyjamas have blood stains. It is horrible and we often feel helpless."
->
-> — **Waitingfortulips** · Mumsnet · 2024-01-02 · [Child Eczema](https://www.mumsnet.com/talk/sleep/4975360-child-eczema)  
-> `Q314` · Angle D · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Blutflecken auf Laken und Pyjama der Tochter. | Angle-Notiz: Kinder mit Ekzem | Wer für wen: Eltern für Tochter mit Ekzem_
-
-**Wer für wen:** Eltern wechseln das Bettzeug der Tochter nach naechtlichem Blutigkratzen
-
-> "Depends as she has eczema and ithes and makes herself bleed at night then gts changed."
->
-> — **Anonymous** · Netmums · 2013-09-01 · [Changing bedding...](https://www.netmums.com/coffeehouse/home-garden-194/cleaning-14/982287-changing-bedding-5.html)  
-> `Q315` · Angle D · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Tochter kratzt sich nachts wegen Ekzem blutig. | Wer für wen: Eltern wechseln Bettzeug der Tochter mit Ekzem_
-
-**Wer für wen:** Mutter ueber Sohn (2) mit aufgekratztem Ekzem
-
-> "he completely scratched his shoulders, sides and belly. Scratches and scabs from the blood all over."
->
-> — **Anonymous** · Netmums · 2010-07-03 · [Eczema - evil itchiness](https://www.netmums.com/coffeehouse/being-mum-794/toddlers-1-3-years-59/442981-eczema-evil-itchiness.html)  
-> `Q316` · Angle D · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Kleinkind kratzt sich blutig. | Wer für wen: Mutter für Sohn (2) mit Ekzem_
-
-**Wer für wen:** Mutter ueber Sohn (8) mit schwerem Ekzem
-
-> "my son often gets to this point, he often tells me he wishes he could rip his skin of and it breaks my heart"
->
-> — **Anonymous** · Netmums · 2010-07-03 · [Eczema - evil itchiness](https://www.netmums.com/coffeehouse/being-mum-794/toddlers-1-3-years-59/442981-eczema-evil-itchiness.html)  
-> `Q317` · Angle D · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Sohn will sich die Haut abreißen. | Wer für wen: Mutter für Sohn (8) mit schwerem Ekzem_
-
-**Wer für wen:** Mutter ueber Sohn (18 Monate), der sich jede Nacht blutig kratzt
-
-> "He scratches it until it bleeds through the night, every night-i have tried mittens but they dont stay on."
->
-> — **Anonymous** · Netmums · 2011-03-04 · [Eczema Nightmare.](https://www.netmums.com/coffeehouse/drop-clinic-984/baby-child-health-989/543991-eczema-nightmare.html)  
-> `Q318` · Angle D · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Kratzt sich jede Nacht blutig. | Wer für wen: Mutter für Sohn (18 Monate)_
-
-**Wer für wen:** Mutter verband Arm/Bein des Sohnes mit Duct Tape gegen das Kratzen
-
-> "there was more than once that i had to wrap a bit of arm or leg in a bandage and DUCT TAPE (!!!!) it on to stop in scratching at a patch that was already raw and bleeding."
->
-> — **Anonymous** · Netmums · 2011-03-06 · [Eczema Nightmare.](https://www.netmums.com/coffeehouse/drop-clinic-984/baby-child-health-989/543991-eczema-nightmare-2.html)  
-> `Q319` · Angle D · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Verband mit Panzertape gegen Kratzen. | Wer für wen: Mutter für Sohn mit Ekzem_
-
-**Wer für wen:** Mutter ueber Tochter (DD), als Baby wund und blutig gekratzt
-
-> "my DD was red raw and weeping over most of her body as a baby, making herself bleed through scratching"
->
-> — **Anonymous** · Netmums · 2011-10-20 · [eczema nightmare please](https://www.netmums.com/coffeehouse/drop-clinic-984/baby-child-health-989/655268-eczema-nightmare-please-3.html)  
-> `Q320` · Angle D · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Baby am ganzen Körper wund und nässend. | Wer für wen: Mutter für Tochter_
-
-**Wer für wen:** Mutter ueber ihr Baby mit Ekzem (heartbreak)
-
-> "Watching your baby scratch before he could even properly hold a toy is something I’ll never forget. Living with eczema is hard. Watching your child live with it is a completely different kind of heartbreak."
->
-> — **Laurie (Mutter von Jesse, 10 Monate)** · Eczema UK (ehem. National Eczema Society) – Fallgeschichten · k. A. (Seite 2026 abgerufen) · [Laurie's Story - A lifetime with eczema](https://www.eczema.org.uk/case-studies/a-lifetime-with-eczema)  
-> `Q327` · Angle D · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Mutter über das schwere Ekzem ihres Babys. | Angle-Notiz: Kinder/Babys mit Ekzem | Wer für wen: Mutter pflegt/kauft für Baby mit Ekzem_
-
-**Wer für wen:** Elternteil ueber Sohn (4) mit naechtlichem Asthmahusten
-
-> "my 4yo suffers from night time asthma cough. He very rarely has any symptoms during the day but we are struggling to manage his night asthma cough which has been known to go on for 5 hours at night :("
->
-> — **Lexik** · Asthma + Lung UK Community (HealthUnlocked) · 2015-12-29 · [Air purifier for night asthma cough?](https://healthunlocked.com/asthmalunguk-asthma/posts/132725979/air-purifier-for-night-asthma-cough)  
-> `Q328` · Angle D · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Nachthusten des 4-Jährigen dauert bis zu 5 Stunden. | Wer für wen: Elternteil sucht Luftreiniger für Kind (4)_
-
-**Wer für wen:** Mutter putzt das Zimmer des Sohnes (DS) gruendlich, Schuldgefuehl
-
-> "did ds's yesterday,and I mean reeeaaaly dust,walls ceiling everything.He was much better last night.Made me feel awful."
->
-> — **brimfull** · Mumsnet · 2007-02-05 · [do you dust your asthmatic childs bedroom everyday?](https://www.mumsnet.com/talk/housekeeping/274144-do-you-dust-your-asthmatic-childs-bedroom-everyday)  
-> `Q329` · Angle D · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Nach gruendlichem Staubwischen ging es dem asthmatischen Sohn besser, Mutter fuehlt sich schuldig. | Angle-Notiz: Kinder mit Asthma | Wer für wen: Mutter putzt Zimmer des Sohnes_
-
-**Wer für wen:** Mutter wechselt taeglich die blutigen Laken des Kindes
-
-> "I too am changing blood stained sheets everyday, it is very stressful."
->
-> — **shadypines** · Mumsnet · 2015-02-15 · [Eczema](https://www.mumsnet.com/talk/childrens_health/2309481-Eczema)  
-> `Q330` · Angle D · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Taeglich blutige Laken wechseln. | Angle-Notiz: Kinder mit Ekzem | Wer für wen: Mutter bezieht taeglich das Bett des Kindes_
-
-**Wer für wen:** Mutter ueber 2-jaehriges Kind, das vor Juckreiz weint
-
-> "It's so awful, when my 2 year old is crying from the itch and you can't help."
->
-> — **Anonymous** · Netmums · 2010-07-03 · [Eczema - evil itchiness](https://www.netmums.com/coffeehouse/being-mum-794/toddlers-1-3-years-59/442981-eczema-evil-itchiness.html)  
-> `Q331` · Angle D · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Hilflosigkeit, wenn das Kind vor Juckreiz weint. | Wer für wen: Mutter für Sohn mit Ekzem_
-
-**Wer für wen:** Mutter ueber Tochter mit Ekzem
-
-> "All in all she is permanently sore, itchy, spotty, dry, bleeding etc"
->
-> — **Anonymous** · Netmums · 2011-03-06 · [Eczema Nightmare.](https://www.netmums.com/coffeehouse/drop-clinic-984/baby-child-health-989/543991-eczema-nightmare-2.html)  
-> `Q332` · Angle D · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Dauerhaft wund und blutig. | Wer für wen: Mutter für Tochter mit Ekzem_
-
-**Wer für wen:** Mutter wacht nachts ueber den asthmatischen Sohn
-
-> "It's quite scary to see him like this and he gets broken sleep all night and even when he asleep I don't as I'm watching him to make sure he takes that gasp."
->
-> — **Anonymous** · Netmums · 2013-12-16 · [Stuffy nose at night but no cold](https://www.netmums.com/coffeehouse/drop-clinic-984/baby-child-health-989/1035912-stuffy-nose-night-but-no-cold.html)  
-> `Q333` · Angle D · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Mutter wacht nachts, ob der Sohn wieder Luft holt. | Wer für wen: Mutter wacht über Sohn_
-
-**Wer für wen:** Eltern fuer asthmatische Tochter (12 Klinikaufenthalte in 6 Monaten)
-
-> "She has been in hospital 12 times in 6 months for asthma attacks but the most recent was in the high dependancy unit for pneumonia. We have tried an air purifier on a night, an air humidifier and we have recarpeted the whole house and vacuum every day with an anti allergen vacuum but no cure so far."
->
-> — **Anonymous** · Netmums · 2009-03-16 · [Asthma Bedding](https://www.netmums.com/coffeehouse/drop-clinic-984/baby-child-health-989/267279-asthma-bedding.html)  
-> `Q357` · Angle D · Gescheiterte Lösung · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _12 Krankenhausaufenthalte in 6 Monaten; Luftreiniger, Befeuchter, neue Teppiche ohne Erfolg. | Wer für wen: Eltern für asthmatische Tochter_
-
-**Wer für wen:** Mutter fuer Tochter (4) mit naechtlichen Quaddeln, Bett komplett neu gewaschen
-
-> "She'd go to bed and 2 hours later be covered in hives and itching like amd - we did the whole stripping the bed , rewashing it in sensitive wash liquid etc , changing pillows , duvet etc etc and still came up!!!!"
->
-> — **Anonymous** · Netmums · 2011-11-21 · [6Yr old DD allergic to new bed??](https://www.netmums.com/coffeehouse/being-mum-794/children-4-11-years-60/678878-6yr-old-dd-allergic-new-bed.html)  
-> `Q358` · Angle D · Gescheiterte Lösung · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Bett abgezogen, neu gewaschen, Kissen und Decke getauscht, Ausschlag blieb. | Wer für wen: Mutter für Tochter (4)_
-
-**Wer für wen:** Mutter fuer Sohn: will ALLES tun gegen den Husten
-
-> "That's ok I will do or spend ANYTHING to get rid of this cough!"
->
-> — **Hidden (gelöschtes Konto)** · Asthma + Lung UK Community (HealthUnlocked) · 2016-10-07 · [Dustmites as a trigger?](https://healthunlocked.com/asthmalunguk-asthma/posts/134275309/dustmites-as-a-trigger)  
-> `Q379` · Angle D · Wunsch · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Mutter würde alles tun/zahlen, damit der nächtliche Husten des Sohnes aufhört. | Wer für wen: Mutter für Sohn_
-
-**Wer für wen:** Mutter fuer asthmatische Tochter, zunehmende Klinikaufenthalte
-
-> "Will try anything to give her a better nights sleep though and the hospital trips seem to be getting worse and worse."
->
-> — **Anonymous** · Netmums · 2009-03-16 · [Asthma Bedding](https://www.netmums.com/coffeehouse/drop-clinic-984/baby-child-health-989/267279-asthma-bedding.html)  
-> `Q381` · Angle D · Wunsch · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Verzweifelter Wunsch nach besserem Schlaf für das Kind. | Wer für wen: Mutter für asthmatische Tochter_
-
-**Wer für wen:** Mutter kauft neue Decke, wenn Kinder (oder Haustiere) sie verschmutzt haben
-
-> "So when the children/dog/cat has pissed/vomited/poohed on it I get a new one[blush]"
->
-> — **moaningminniewhingesagain** · Mumsnet · 2010-08-23 · [How often do you wash your duvet and how do you do it?](https://www.mumsnet.com/talk/housekeeping/1027119-How-often-do-you-wash-your-duvet-and-how-do)  
-> `Q035` · Angle A · Horrorgeschichte · Intensität ●●●●○ · ✔ verifiziert  
-> _Statt Waschen wird nach Unfaellen eine neue Decke gekauft. | Angle-Notiz: Kinder/Haustiere_
-
-**Wer für wen:** Mutter wechselt laut Notiz 7 Betten der Familie alle 3 Tage
-
-> "I love fresh bed linen and the thought of dirty bedding makes my skin crawl"
->
-> — **Anonymous** · Netmums · 2013-01-09 · [A fifth of us only change our bed linen once a month](https://www.netmums.com/coffeehouse/other-chat-514/news-12/871792-fifth-us-only-change-our-bed-linen-once-month.html)  
-> `Q047` · Angle A · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Ekel vor schmutziger Bettwäsche. | Wer für wen: Mutter wechselt 7 Betten alle 3 Tage_
-
-**Wer für wen:** Mutter wusch Decke nach Bettnaessen des Kindes, klumpig, kaufte neue
-
-> "I remember years ago washing it and first it was hard to fit in the washing machine, second it was hard to dry outside this time of the year and then when it was dry it had went all lumpy so I ended up buying a new one."
->
-> — **Anonymous** · Netmums · 2013-11-09 · [Washing duvet](https://www.netmums.com/coffeehouse/being-mum-794/parenting-advice-192/1018439-washing-duvet.html)  
-> `Q054` · Angle A · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Kind hat ins Bett gemacht, Mutter erinnert sich an misslungene Deckenwäsche. | Wer für wen: Mutter wäscht Decke des Kindes nach Bettnässen_
-
-**Wer für wen:** Mutter kauft waschbare Decke fuer das Bett des Sohnes
-
-> "I bought this for my son’s bed as I loved the idea of being able to wash the whole duvet weekly."
->
-> — **Louise Austin** · Trustpilot - The Fine Bedding Company · 2022-01-31 · [Uncomfortably hot, very disappointing](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=duvet&stars=1&page=3)  
-> `Q098` · Angle A · Wunsch · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _1 Stern. Wunsch: ganze Decke woechentlich waschen koennen. | Wer für wen: Mutter kauft fuer das Bett des Sohnes_
-
-**Wer für wen:** Mutter ist die Einzige im Haushalt, die die Betten bezieht
-
-> "They are big and a huge faff and I'm the only one that does them, meaning if I don't get around to doing it …they just don't get done. 😕"
->
-> — **Chalatte** · Mumsnet · 2026-09-05 · [I'm sick of duvets](https://www.mumsnet.com/talk/housekeeping/5574955-im-sick-of-duvets)  
-> `Q148` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Die ganze Bettwaesche-Last liegt allein bei der Mutter. | Wer für wen: Mutter ist die Einzige, die die Betten der Familie bezieht_
-
-**Wer für wen:** Grossmutter Ende 60 bezieht die Etagenbetten der Enkel
-
-> "Being in my late 60’s I’m finding making the bunk beds a challenge"
->
-> — **Sixmonthson** · Mumsnet · 2021-05-26 · [Coverless Duvets for bunk beds](https://www.mumsnet.com/talk/housekeeping/4254828-Coverless-Duvets-for-bunk-beds)  
-> `Q151` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Ende 60, Etagenbetten beziehen wird zur Herausforderung. | Angle-Notiz: NEU: Grosseltern/Etagenbetten | Wer für wen: Grossmutter bezieht Betten fuer Enkel_
-
-**Wer für wen:** Mutter bezieht die Hochbetten (mid sleepers) der Kinder
-
-> "I do the kids every 2-3 weeks unless they have a cold (in which case it's every few days!) as they have mid sleepers and I struggle to get them on and off! blasted things!"
->
-> — **Anonymous** · Netmums · 2013-01-09 · [A fifth of us only change our bed linen once a month](https://www.netmums.com/coffeehouse/other-chat-514/news-12/871792-fifth-us-only-change-our-bed-linen-once-month-2.html)  
-> `Q152` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Bezüge auf Kinder-Hochbetten wechseln ist ein Kampf. | Angle-Notiz: Hochbetten Kinder | Wer für wen: Mutter bezieht Hochbetten der Kinder_
-
-**Wer für wen:** Mutter kauft bezuglose Decke fuer (erwachsene) Tochter, die Beziehen hasst
-
-> "Initially we purchased a coverless duvet for my daughter who HATES changing her bed."
->
-> — **Sarah Haughan** · Trustpilot - The Fine Bedding Company · 2025-07-19 · [Coverless duvet - what a find!](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=changing&page=3)  
-> `Q158` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Tochter HASST Bettbeziehen. | Angle-Notiz: Geschenk fuer erwachsene Tochter | Wer für wen: Mutter kauft fuer (erwachsene) Tochter_
-
-**Wer für wen:** Elternteil kauft Decken fuer die Kinder, ein Sohn schwitzt nachts stark
-
-> "One of the boys is a very sweaty sleeper and his new duvet is reducing the number of times he wakes up drenched in sweat"
->
-> — **Nicholas** · Trustpilot - Soak&Sleep · 2022-06-10 · [Lovely duvets.](https://uk.trustpilot.com/review/www.soakandsleep.com?search=sweat)  
-> `Q263` · Angle C · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Sohn wacht oft schweissgebadet auf. | Angle-Notiz: Kinder schwitzen nachts | Wer für wen: Vater kauft Wolldecken fuer seine Kinder_
-
-**Wer für wen:** Kauf von 3 Schutzbezuegen fuer schwitzenden jungen Mann (vermutlich Sohn)
-
-> "We trialled one of these like them so much we bought 3 young man no longer damp with sweat and they wash superbly"
->
-> — **Carole Cliffe** · Trustpilot - Soak&Sleep · 2021-10-11 · [Fine waterproof duvet protector](https://uk.trustpilot.com/review/www.soakandsleep.com?search=sweat)  
-> `Q264` · Angle C · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Starker Nachtschweiss mit Bezuegen anderer Firmen; jetzt nicht mehr feucht. | Angle-Notiz: Schutzbezug gegen Schweiss, Pflege fuer jungen Mann | Wer für wen: Kauft Schutzbezuege fuer einen jungen Mann (vermutlich Sohn)_
-
-**Wer für wen:** Mutter kauft Wolldecke fuer Sohn, der vorher 4 Lagen Decken brauchte
-
-> "As a result, he ended up with 4 layers of different blankets to keep himself comfortably warm."
->
-> — **Valentina** · Trustpilot - Woolroom · 2025-03-30 · [I bought the Woolroom bundle for my…](https://uk.trustpilot.com/review/thewoolroom.com?search=allergy)  
-> `Q279` · Angle C · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Sohn nutzte 4 Lagen verschiedener Decken statt Bettdecke. | Angle-Notiz: Kind: Decken-Schichten | Wer für wen: Mutter fuer Sohn_
-
-**Wer für wen:** Mutter waehlt Tog-Staerke fuer die Kinderbetten
-
-> "4.5 tog will be freezing in all but a heatwave. My children would be sobbing with cold."
->
-> — **MyDcAreMarvel** · Mumsnet · 2021-05-29 · [Coverless Duvets for bunk beds](https://www.mumsnet.com/talk/housekeeping/4254828-Coverless-Duvets-for-bunk-beds)  
-> `Q286` · Angle C · Einwand · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _4,5 Tog waere fuer Kinder zu kalt. | Angle-Notiz: Kinder | Wer für wen: Mutter für Kinder (Etagenbetten)_
-
-**Wer für wen:** Grossmutter waescht neue Babybettwaesche des Enkels mit Weichspueler, Ausschlag
-
-> "My little baby grandson came out in an alarming rash, I had done his lovely new bedding in gentle washing detergent and fabric conditioner. It smelled like Spring. Big error grandma!"
->
-> — **SheffieldJane** · PMRGCAuk (HealthUnlocked) · 2019-01-07 · [Itchy skin in the night.](https://healthunlocked.com/pmrgcauk/posts/139731634/itchy-skin-in-the-night.)  
-> `Q323` · Angle D · Horrorgeschichte · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Oma wusch die neue Babybettwäsche mit Weichspüler – Enkel bekam heftigen Ausschlag. | Angle-Notiz: Sekundär NEU (Großeltern/Baby) | Wer für wen: Großmutter wäscht Bettwäsche für Baby-Enkel_
-
-**Wer für wen:** Bezieht zweimal pro Woche die Betten des Haushalts (our beds) und klopft die Kissen aus
-
-> "I bang our pillows outside and hang them on the line in the sun. Amazing how much dust comes out even with protectors. I also shake the matress protectors out everytime I make our beds (twice a week) and again, a lot of dust comes out."
->
-> — **angievere** · Asthma + Lung UK Community (HealthUnlocked) · 2011-07-12 · [Mattress/pillow - protectors from dust mites](https://healthunlocked.com/asthmalunguk-asthma/posts/132127828/mattress-pillow-protectors-from-dust-mites)  
-> `Q324` · Angle D · Horrorgeschichte · Intensität ●●●●○ · ✔ verifiziert  
-> _Klopft Kissen draußen aus – erschreckend viel Staub trotz Schutzbezügen. | Angle-Notiz: Sekundaer A (Kissen ausklopfen/Hygiene)_
-
-**Wer für wen:** Eltern: Tochter (6) wacht in der ersten Nacht im neuen Bett juckend auf
-
-> "last night as her first night in the new bed and she woke crying saying she was itchy all over."
->
-> — **Anonymous** · Netmums · 2011-11-20 · [6Yr old DD allergic to new bed??](https://www.netmums.com/coffeehouse/being-mum-794/children-4-11-years-60/678878-6yr-old-dd-allergic-new-bed.html)  
-> `Q325` · Angle D · Horrorgeschichte · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Tochter bekommt im neuen Bett Nesselausschlag. | Wer für wen: Eltern für Tochter (6)_
-
-**Wer für wen:** Mutter sucht Loesung (Bettzeug, Staubsauger) fuer Sohn mit naechtlichem Husten
-
-> "My son has had a cough when he gets into bed for 10 months now and is increasingly needing his blue inhaler after exercise."
->
-> — **Hidden (gelöschtes Konto)** · Asthma + Lung UK Community (HealthUnlocked) · 2016-10-06 · [Dustmites as a trigger?](https://healthunlocked.com/asthmalunguk-asthma/posts/134275309/dustmites-as-a-trigger)  
-> `Q334` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Mutter: Sohn hustet seit 10 Monaten, sobald er ins Bett geht. | Angle-Notiz: Kinder mit Allergien | Wer für wen: Mutter sucht Lösung (Bettzeug, Staubsauger) für ihren Sohn_
-
-**Wer für wen:** Mutter will die Symptome des Sohnes (8) lindern
-
-> "I want to try and do whatever I can to at least a alleviate his symptoms as it's just a constant weekly struggle."
->
-> — **Sonsmum** · Asthma + Lung UK Community (HealthUnlocked) · 2016-12-11 · [Humidifier or dehumidifier?](https://healthunlocked.com/asthmalunguk-asthma/posts/134602598/humidifier-or-dehumidifier)  
-> `Q335` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Mutter eines 8-jährigen Asthmatikers: ständiger Kampf jede Woche. | Angle-Notiz: Kinder mit Allergien; Mietwohnung mit Schimmel | Wer für wen: Mutter für Sohn (8)_
-
-**Wer für wen:** Elternteil sucht Bettzeug fuer allergisches Kind, das nicht schlafen kann
-
-> "My kid suffers from allergies (blocked nose etc) cant sleep"
->
-> — **textbook** · MoneySavingExpert Forum · 2025-05-18 · [Allergies using bed sheets pillows etc](https://forums.moneysavingexpert.com/discussion/6607784/allergies-using-bed-sheets-pillows-etc)  
-> `Q336` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Kind kann wegen Allergie (verstopfte Nase) nicht schlafen. | Angle-Notiz: Kinder mit Allergien | Wer für wen: Elternteil sucht Bettzeug für allergisches Kind_
-
-**Wer für wen:** Eltern ueber Baby mit multiplen Allergien
-
-> "We’ve spent months, and thousands of pounds, attending appointments, managing multiple allergies and changing almost every aspect of our daily lives."
->
-> — **Laurie (Mutter von Jesse)** · Eczema UK (ehem. National Eczema Society) – Fallgeschichten · k. A. (Seite 2026 abgerufen) · [Laurie's Story - A lifetime with eczema](https://www.eczema.org.uk/case-studies/a-lifetime-with-eczema)  
-> `Q337` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Tausende Pfund und Monate für das Ekzem des Babys. | Wer für wen: Eltern für Baby_
-
-**Wer für wen:** Erwachsene Tochter: Vater pflegte sie nachts bei Ekzem
-
-> "My dad had the most prominent role in my eczema. He was always there to put my creams on for me, bathe me, come and sit with me in the middle of the night cos I couldn’t sleep cos it was so itchy and aggravated."
->
-> — **Georgia (20, weiblich)** · HEXI / healthtalk (Universität Oxford) – Eczema (young people) · k. A. (Interview; Seite © 2024) · [Family life and eczema](https://hexi.ox.ac.uk/eczema/family-life-and-eczema)  
-> `Q338` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Vater saß nachts bei ihr, weil sie vor Juckreiz nicht schlafen konnte. | Wer für wen: Vater pflegt Tochter nachts_
-
-**Wer für wen:** Mutter ueber Sohn (4) mit enger Brust am Abend
-
-> "In the evening if he has a tight chest he gets manic and can't relax and go to sleep."
->
-> — **Hidden (gelöschtes Konto)** · Asthma + Lung UK Community (HealthUnlocked) · 2008-11-24 · [Blue and Brown inhalers not enough - my 4 year old can't sleep](https://healthunlocked.com/asthmalunguk-asthma/posts/132065013/blue-and-brown-inhalers-not-enough-my-4-year-old-cant-sleep)  
-> `Q339` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _4-Jähriger kann abends wegen enger Brust nicht einschlafen. | Wer für wen: Mutter für Sohn (4)_
-
-**Wer für wen:** Mutter ueber Sohn, Nerven am Ende
-
-> "My nerves are in shreds!!!"
->
-> — **Hidden (gelöschtes Konto)** · Asthma + Lung UK Community (HealthUnlocked) · 2008-11-24 · [Blue and Brown inhalers not enough - my 4 year old can't sleep](https://healthunlocked.com/asthmalunguk-asthma/posts/132065013/blue-and-brown-inhalers-not-enough-my-4-year-old-cant-sleep)  
-> `Q340` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Mutter mit den Nerven am Ende. | Wer für wen: Mutter für Sohn_
-
-**Wer für wen:** Mutter ueber Sohn (3): die ganze Familie schlaeft nicht
-
-> "not only is he not sleeping but neither is anyone else in the family!!!"
->
-> — **Hidden (gelöschtes Konto)** · Asthma + Lung UK Community (HealthUnlocked) · 2008-11-27 · [Blue and Brown inhalers not enough - my 4 year old can't sleep](https://healthunlocked.com/asthmalunguk-asthma/posts/132065013/blue-and-brown-inhalers-not-enough-my-4-year-old-cant-sleep)  
-> `Q341` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Kind schläft nicht – die ganze Familie auch nicht. | Wer für wen: Mutter für Sohn (3)_
-
-**Wer für wen:** Mutter pflegt asthmatische Tochter seit 18 Monaten
-
-> "And then, when she was eighteen months old she became asthmatic. She had some episodes where we were in hospital, and from then on my life wasn’t really my own."
->
-> — **Esther (41, Mutter)** · HEXI / healthtalk (Universität Oxford) – Asthma · k. A. (Interview; veröffentlicht 2015, aktualisiert 2017) · [Childhood onset of asthma](https://hexi.ox.ac.uk/asthma/childhood-onset-of-asthma)  
-> `Q342` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Mutter: seit Asthma der Tochter ist das Leben nicht mehr ihr eigenes. | Wer für wen: Mutter pflegt asthmatische Tochter_
-
-**Wer für wen:** Mutter sucht Anti-Allergie-Bettzeug fuer Tochter (4) mit Ekzem und Asthma
-
-> "My daughter (age 4) suffers from eczema and asthma and it is alot more worse at night than throughout the day,"
->
-> — **Baby_A** · MoneySavingExpert Forum · 2008-11-04 · [Cheapest and most effective anti allergy bedding](https://forums.moneysavingexpert.com/discussion/1263867/cheapest-and-most-effective-anti-allergy-bedding)  
-> `Q343` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Mutter: Ekzem und Asthma der 4-Jährigen nachts viel schlimmer. | Angle-Notiz: Kinder mit Allergien | Wer für wen: Mutter sucht Anti-Allergie-Bettzeug für Tochter (4)_
-
-**Wer für wen:** Mutter ueber Kleinkind mit naechtlichem Husten
-
-> "my toddler sleeping and cough is getting worst even the inhaler is not doing much"
->
-> — **Merilolli25** · Mumsnet · 2018-12-23 · [Dustmite allergy URGENT](https://www.mumsnet.com/talk/_chat/3459120-Dustmite-allergy-URGENT)  
-> `Q344` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Mutter eines Kleinkinds mit Milbenallergie, Husten trotz Inhalator. | Angle-Notiz: Kinder mit Allergien | Wer für wen: Mutter fuer Kleinkind_
-
-**Wer für wen:** Mutter ueber Tochter, niemand zum Fragen
-
-> "now my daughter condition is worst and I have no one to ask about advise"
->
-> — **Merilolli25** · Mumsnet · 2018-12-23 · [Dustmite allergy URGENT](https://www.mumsnet.com/talk/_chat/3459120-Dustmite-allergy-URGENT)  
-> `Q345` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Mutter fuehlt sich mit der Allergie der Tochter allein gelassen. | Angle-Notiz: Kinder mit Allergien | Wer für wen: Mutter fuer Tochter_
-
-**Wer für wen:** Mutter waescht Bettwaesche der Tochter regelmaessig, sucht die Allergene
-
-> "But we wash sheets and linen regularly like everyone else so what are the allergens?"
->
-> — **Cameron67** · Mumsnet · 2022-02-20 · [Allergies](https://www.mumsnet.com/talk/allergies/4486383-Allergies)  
-> `Q346` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Waescht Bettwaesche regelmaessig und versteht nicht, woher die Allergene kommen. | Angle-Notiz: A | Wer für wen: Mutter waescht Bettwaesche der Tochter_
-
-**Wer für wen:** Mutter waescht Bettzeug des Sohnes (Asthma/Milbenallergie) zweimal pro Woche
-
-> "I try to do the kids weekly, sometimes my Sons twice in the week as he has asthma and dust mite allergies but I'm always doing mine tomorrow or in the morning and before I know it it's been 4 weeks and its still the same one"
->
-> — **Anonymous** · Netmums · 2013-09-01 · [Changing bedding...](https://www.netmums.com/coffeehouse/home-garden-194/cleaning-14/982287-changing-bedding.html)  
-> `Q347` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Kinderbetten haben Vorrang, das eigene Bett bleibt 4 Wochen liegen. | Wer für wen: Mutter wäscht Bettzeug des Sohnes mit Asthma/Milbenallergie zweimal pro Woche_
-
-**Wer für wen:** Mutter putzt fuer sich und die asthmatischen Kinder (littles)
-
-> "i wouldn't clean as often as i do but myself and littles have asthma and dust is dangerous to us so have to x"
->
-> — **Anonymous** · Netmums · 2013-09-01 · [Changing bedding...](https://www.netmums.com/coffeehouse/home-garden-194/cleaning-14/982287-changing-bedding-4.html)  
-> `Q348` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Asthma bei Mutter und Kindern zwingt zu häufigem Wechseln. | Wer für wen: Mutter putzt/wäscht für sich und Kinder mit Asthma_
-
-**Wer für wen:** Mutter waescht das Bettzeug des juengsten Sohnes (Asthma/Ekzem) alle 2 Tage
-
-> "my youngest son I do every 2 days he has asthma and eczema so I always keep his really clean and have to wash his without fabric conditioner."
->
-> — **Anonymous** · Netmums · 2013-01-09 · [A fifth of us only change our bed linen once a month](https://www.netmums.com/coffeehouse/other-chat-514/news-12/871792-fifth-us-only-change-our-bed-linen-once-month-2.html)  
-> `Q349` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Sohn mit Asthma und Ekzem braucht alle 2 Tage frische Bettwäsche. | Wer für wen: Mutter wäscht Bettzeug des Sohnes mit Asthma/Ekzem alle 2 Tage_
-
-**Wer für wen:** Grossmutter kauft Woll-Bettzeug fuer Enkel mit Verdacht auf Synthetik-Allergie
-
-> "his parents thought he may have an allergy to man-made fibres,as very poor sleep very restless nights."
->
-> — **mrs Osborne** · Trustpilot - Woolroom · 2024-02-05 · [Excellent service!!](https://uk.trustpilot.com/review/thewoolroom.com?search=allergy)  
-> `Q351` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Enkel schlief sehr schlecht, unruhige Naechte, Verdacht auf Synthetikallergie. | Angle-Notiz: Kinder mit Allergien | Wer für wen: Grossmutter fuer Enkel_
-
-**Wer für wen:** Mutter kauft Decke fuer Sohn mit Allergie
-
-> "For the first time my son sleeps well and is not too hot and his allergy seems a bit better when he's in bed."
->
-> — **Ruth** · Trustpilot - Woolroom · 2025-11-20 · [Wonderful duvet](https://uk.trustpilot.com/review/thewoolroom.com?search=allergy)  
-> `Q352` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Sohn schlaeft zum ersten Mal gut, nicht zu heiss, Allergie besser. | Angle-Notiz: Kinder mit Allergien | Wer für wen: Mutter kauft Decke fuer Sohn_
-
-**Wer für wen:** Mutter fuer Tochter (DD): Laken regelmaessig gewechselt, Matratzenauflage gewaschen
-
-> "My DD also draws blood, have cut nails really short on a regular basis, changed sheets regularly/washed mattress pad …"
->
-> — **AllSheepareWhite** · Mumsnet · 2010-08-16 · [I don't know who I'm more angry with..](https://www.mumsnet.com/talk/allergies/1022589-I-don-t-know-who-I-m-more)  
-> `Q360` · Angle D · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Tochter kratzt sich blutig, Laken oft gewechselt. | Angle-Notiz: Kinder mit Ekzem | Wer für wen: Mutter fuer Tochter_
-
-**Wer für wen:** Mutter sucht Anti-Allergie-Bettwaren fuer Tochter
-
-> "We just have an electric air purifier that is meant to purify the air in the whole room. Never helped to be honest. think its time to try the bedding."
->
-> — **Anonymous** · Netmums · 2009-03-16 · [Asthma Bedding](https://www.netmums.com/coffeehouse/drop-clinic-984/baby-child-health-989/267279-asthma-bedding.html)  
-> `Q361` · Angle D · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Luftreiniger half nicht, jetzt Bettwaren. | Wer für wen: Mutter sucht Anti-Allergie-Bettwaren für Tochter_
-
-**Wer für wen:** Mutter kauft Kissen fuer Sohn mit Ekzem, ersetzt sie alle paar Monate
-
-> "I used to get him the expensive pillows but when I washed them they would go all lumpy. Now I buy cheap ones and replace them every couple of months."
->
-> — **Anonymous** · Netmums · 2009-03-17 · [Asthma Bedding](https://www.netmums.com/coffeehouse/drop-clinic-984/baby-child-health-989/267279-asthma-bedding.html)  
-> `Q362` · Angle D · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Teure Anti-Allergie-Kissen klumpen nach dem Waschen. | Wer für wen: Mutter kauft Kissen für Sohn mit Ekzem_
-
-**Wer für wen:** Mutter fuer Sohn (DS, fast 3) mit Ekzem, haelt ihn nachts kuehl
-
-> "I have to put my DS (nearly 3) to bed in the lightest clothes I can find and have a fan on most of the night to keep him cool as if he gets too hot thats when the scratching begins."
->
-> — **Anonymous** · Netmums · 2010-08-10 · [15 month old has severe eczema and wakens so much during night](https://www.netmums.com/coffeehouse/drop-clinic-984/baby-child-health-989/457161-15-month-old-has-severe-eczema-wakens-so-much-during-night.html)  
-> `Q363` · Angle D · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Hitze nachts löst Kratzen aus; Ventilator die ganze Nacht. | Angle-Notiz: Überhitzung triggert Ekzem | Wer für wen: Mutter für Sohn mit Ekzem_
-
-**Wer für wen:** Mutter friert Bettzeug des asthmatischen Sohnes ein und waescht alle 4 Tage
-
-> "Cot bedding-6 hours in chest freezer then washed every 4 days (my son has asthma) the freezing kills dust mites.....no i'm not insane, its a fact"
->
-> — **Anonymous** · Netmums · 2009-03-13 · [How often do you change your bedding??](https://www.netmums.com/coffeehouse/home-garden-194/cleaning-14/266145-how-often-do-you-change-your-bedding.html)  
-> `Q375` · Angle D · Glaube · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Babybettzeug wird gegen Milben eingefroren. | Wer für wen: Mutter friert Bettzeug des asthmatischen Sohnes ein_
-
-**Wer für wen:** Mutter fuer stark asthmatische Tochter (Emily), feste Putz-/Bettroutine
-
-> "As Emily is so badly asthmatic, I hate the thought of this, so my routine is hoover all the rooms, go back strip the beds and change sheets, then dust last of all"
->
-> — **Anonymous** · Netmums · 2011-03-05 · [How Often Do You Change Your Child/rens Bedding??](https://www.netmums.com/coffeehouse/being-mum-794/parenting-advice-192/543346-how-often-do-you-change-your-child-rens-bedding.html)  
-> `Q376` · Angle D · Glaube · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Spezielle Reihenfolge beim Putzen wegen Asthma. | Wer für wen: Mutter für stark asthmatische Tochter_
-
-**Wer für wen:** Mutter sucht Anti-Allergie-Bettwaren fuer Tochter mit Ekzem
-
-> "I have doubts that this will make a difference to her excema, but I am willing to try ANYTHING!"
->
-> — **Anonymous** · Netmums · 2010-01-19 · [Anti Allergy Bedding for Cotbeds?](https://www.netmums.com/coffeehouse/drop-clinic-984/baby-child-health-989/374018-anti-allergy-bedding-cotbeds.html)  
-> `Q384` · Angle D · Wunsch · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Mutter einer 21 Monate alten Tochter mit Ekzem. | Wer für wen: Mutter sucht Anti-Allergie-Bettwaren für Tochter_
-
-**Wer für wen:** Mutter kauft Anti-Allergie-Kissen fuer Tochter, Ekzem besser
-
-> "Cleared up her excema on neck and around eyes within a week, thankyou."
->
-> — **Mrs Lewis** · Trustpilot - Silentnight · 2021-02-05 · [Lovely anti allergy pillows bought for…](https://uk.trustpilot.com/review/shop.silentnight.co.uk?search=allergy)  
-> `Q386` · Angle D · Wunsch · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne, Anti-Allergie-Kissen fuer die Tochter, Ekzem an Hals und Augen verschwindet. | Wer für wen: Mutter kauft Anti-Allergie-Kissen fuer Tochter_
-
-**Wer für wen:** Grossmutter kauft fuer Enkel; Eltern berichten von besserem Schlaf
-
-> "His parents told me he now sleeps well and no more coughing or runny nose,THANK YOU !!"
->
-> — **mrs Osborne** · Trustpilot - Woolroom · 2024-02-05 · [Excellent service!!](https://uk.trustpilot.com/review/thewoolroom.com?search=allergy)  
-> `Q387` · Angle D · Wunsch · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Kein Husten, keine laufende Nase mehr beim Enkel. | Angle-Notiz: Kinder mit Allergien | Wer für wen: Grossmutter fuer Enkel_
-
-**Wer für wen:** Mutter kauft Kinderdecke und findet Chemikalien
-
-> "I was extremely disappointed to find this duvet contains highly toxic chemicals…"
->
-> — **Talie** · Trustpilot - Silentnight · 2023-10-21 · [Toxic chemicals in Calming 'healthy Growth'…](https://uk.trustpilot.com/review/shop.silentnight.co.uk?search=duvet&stars=1)  
-> `Q400` · Angle NEU · Einwand · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _1 Stern, Mutter entdeckt Chemikalien in Kinderdecke 'Healthy Growth'. | Angle-Notiz: Kinder / Chemikalien in Bettwaren | Wer für wen: Mutter kauft Decke fuer Kind_
-
-**Wer für wen:** Mutter waescht Kinderdecke mindestens woechentlich (Toilettentraining)
-
-> "…which I have to wash at least once a week (potty training)."
->
-> — **mousymouse** · Mumsnet · 2010-08-24 · [How often do you wash your duvet and how do you do it?](https://www.mumsnet.com/talk/housekeeping/1027119-How-often-do-you-wash-your-duvet-and-how-do)  
-> `Q048` · Angle A · Schmerz · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Kinderdecke muss woechentlich gewaschen werden. | Angle-Notiz: Kinder/Toilettentraining | Wer für wen: Mutter waescht Kinderdecke_
-
-**Wer für wen:** Kauf einer zuhause waschbaren Decke fuer Allergiker im Haushalt
-
-> "So pleased I will be able to wash and dry the duvet at home without worrying about it."
->
-> — **K W..** · Trustpilot - The Fine Bedding Company · 2024-09-17 · [There was excellent choice of products](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=allergy)  
-> `Q104` · Angle A · Wunsch · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Decke zuhause waschen ohne Sorge. | Angle-Notiz: Allergiker im Haushalt | Wer für wen: Kauft Bettzeug fuer eine Person mit Allergien_
-
-**Wer für wen:** Familie bezieht am Wochenende gemeinsam, nicht die Mutter allein
-
-> "Changing the sheets is a weekend, family activity.. Not something mum does on her own."
->
-> — **HairyBanana** · Mumsnet · 2026-09-06 · [I'm sick of duvets](https://www.mumsnet.com/talk/housekeeping/5574955-im-sick-of-duvets?page=4)  
-> `Q189` · Angle B · Glaube · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Betten beziehen als Familienaktivitaet, nicht Mutters Job allein. | Wer für wen: Familie hilft der Mutter beim Beziehen_
-
-**Wer für wen:** Mutter will fuer den Sohn Teppich, Allergie-Bettzeug und Staubsauger kaufen
-
-> "I wanted to know before I spend a small fortune on ripping his carpet out, new allergy bedding and new hoover etc."
->
-> — **Hidden (gelöschtes Konto)** · Asthma + Lung UK Community (HealthUnlocked) · 2016-10-06 · [Dustmites as a trigger?](https://healthunlocked.com/asthmalunguk-asthma/posts/134275309/dustmites-as-a-trigger)  
-> `Q367` · Angle D · Einwand · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Mutter zögert vor teuren Anschaffungen (Teppich, Anti-Allergie-Bettzeug, Staubsauger). | Wer für wen: Mutter kauft für Sohn_
-
-**Wer für wen:** Mutter kauft Milbenschutzbezuege fuer Sohn
-
-> "the provent covers are not plastic but fabric and do not make any noise but we shall see!"
->
-> — **kelou** · MoneySavingExpert Forum · 2011-11-01 · [Anti Allergy Bedding](https://forums.moneysavingexpert.com/discussion/3582847/anti-allergy-bedding)  
-> `Q368` · Angle D · Einwand · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Encasings sollen nicht aus Plastik sein und nicht rascheln. | Wer für wen: Mutter für Sohn_
-
-**Wer für wen:** Mutter vergleicht Anti-Allergie-Bettzeug (GBP 6-80) fuer Tochter
-
-> "I have discovered that anti allergy bedding can help but know there is a large variety out there ranging from £6 - £80."
->
-> — **Baby_A** · MoneySavingExpert Forum · 2008-11-04 · [Cheapest and most effective anti allergy bedding](https://forums.moneysavingexpert.com/discussion/1263867/cheapest-and-most-effective-anti-allergy-bedding)  
-> `Q369` · Angle D · Einwand · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Preisspanne bei Anti-Allergie-Bettzeug verwirrt. | Wer für wen: Mutter für Tochter_
-
-**Wer für wen:** Mutter ueber Produktwahl fuer ihre Kinder
-
-> "I dont think I would like to use virbac for my kids if its for animals, although I dont have fish"
->
-> — **rabialiones** · MoneySavingExpert Forum · 2015-12-07 · [treat dust mites?/protector p spray](https://forums.moneysavingexpert.com/discussion/5374178/treat-dust-mites-protector-p-spray)  
-> `Q370` · Angle D · Einwand · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Kein Tier-Antimilbenspray für die Kinder. | Wer für wen: Mutter für Kinder_
-
-**Wer für wen:** Erwachsenes Kind: Mutter besteht seit der Kindheit auf Anti-Allergie-Bettzeug
-
-> "I use a general anti-allergy bedding, but I always have as I was a generally wheezy child so mum makes me anyway"
->
-> — **Hidden (gelöschtes Konto)** · Asthma + Lung UK Community (HealthUnlocked) · 2013-10-26 · [Anti allergy Bedding](https://healthunlocked.com/asthmalunguk-asthma/posts/132174169/anti-allergy-bedding)  
-> `Q377` · Angle D · Glaube · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Mutter besteht auf Anti-Allergie-Bettzeug, seit Kindheit. | Wer für wen: Mutter bestimmt/kauft Anti-Allergie-Bettzeug für erwachsenes Kind_
-
-**Wer für wen:** Mutter raet anderer Mutter, das Bettzeug des Kindes heiss zu waschen
-
-> "Other quick tips, wash all his bedding on a high temperature, and wash duvets and pillow regularly too, with non bio liquid. Regularly put teddies in plastic bags then put them in the freezer for an hour. Hoover his mattress at least once a week more if you have time."
->
-> — **risabel59** · Asthma + Lung UK Community (HealthUnlocked) · 2016-12-11 · [Humidifier or dehumidifier?](https://healthunlocked.com/asthmalunguk-asthma/posts/134602598/humidifier-or-dehumidifier)  
-> `Q378` · Angle D · Glaube · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Mutter-Tipps: heiß waschen, Decken regelmäßig waschen, Kuscheltiere einfrieren. | Angle-Notiz: Sekundär A (Decken waschen) | Wer für wen: Mutter (selbst Asthmatikerin) rät anderer Mutter für deren Kind_
-
-**Wer für wen:** Mutter kauft fuer zwei autistische Kinder, die Bezuege abziehen
-
-> "I got them originally because both my children with ASD constantly removed their duvet covers!"
->
-> — **NelleBee** · Mumsnet · 2021-07-24 · [Coverless Duvets](https://www.mumsnet.com/talk/_chat/4304814-Coverless-Duvets?page=2)  
-> `Q392` · Angle NEU · Schmerz · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Autistische Kinder zogen staendig die Bezuege ab. | Angle-Notiz: Kinder mit Autismus | Wer für wen: Mutter kauft fuer autistische Kinder_
-
-**Wer für wen:** Mutter waescht die Decke des bettnaessenden Sohnes (DS) bei 60 Grad
-
-> "My DS is a bedwetter so I regularly wash his duvet at 60."
->
-> — **OhFuds** · Mumsnet · 2016-11-02 · [Do you wash duvets?](https://www.mumsnet.com/talk/housekeeping/2771269-do-you-wash-duvets)  
-> `Q393` · Angle NEU · Schmerz · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Sohn naesst ein, Decke muss oft gewaschen werden. | Angle-Notiz: Kinder/Bettnaessen | Wer für wen: Mutter waescht Decke des Sohnes_
-
-**Wer für wen:** Mutter ueber Sohn, der Bezuege zerreisst
-
-> "One of my sons, for some unknown reason, literally breaks duvet covers and often ends up inside them."
->
-> — **Dogaredabomb** · Mumsnet · 2025-10-09 · [Coverless duvet, should I get one?](https://www.mumsnet.com/talk/_chat/5424622-coverless-duvet-should-i-get-one)  
-> `Q394` · Angle NEU · Schmerz · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Sohn macht Bezuege kaputt und landet darin. | Angle-Notiz: Kinder | Wer für wen: Mutter ueber Sohn_
-
-**Wer für wen:** Mutter kauft fuer autistischen Sohn (DS), der Bezuege nicht mag
-
-> "We bought one for DS.  Absolutely brilliant, squashes right down and dries very quickly after washing. It is very soft and as he is autistic he doesn't like the feel of duvet covers"
->
-> — **MrsKJones** · Mumsnet · 2021-07-24 · [Coverless Duvets](https://www.mumsnet.com/talk/_chat/4304814-Coverless-Duvets)  
-> `Q413` · Angle NEU · Wunsch · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Fuer autistischen Sohn, der Bezuege nicht mag. | Angle-Notiz: Kinder mit Autismus / sensorische Beduerfnisse | Wer für wen: Mutter kauft fuer autistischen Sohn_
-
-**Wer für wen:** Mutter kauft auch fuer Sohn mit ASD
-
-> "This is exactly why i got one and my son who has ASD has one as well."
->
-> — **Themagicfarawaytreeismyfav** · Mumsnet · 2025-10-09 · [Coverless duvet, should I get one?](https://www.mumsnet.com/talk/_chat/5424622-coverless-duvet-should-i-get-one)  
-> `Q414` · Angle NEU · Wunsch · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Auch der Sohn mit ASD hat eine bezuglose Decke. | Angle-Notiz: Kinder mit Autismus | Wer für wen: Mutter kauft auch fuer Sohn mit ASD_
-
-**Wer für wen:** Elternteil kauft Sohn eine dicke Decke fuer kalte Uni-Naechte
-
-> "he loves it so thick and warm get him though cold university nights"
->
-> — **Callum Flatley** · Trustpilot - Dunelm · 2024-10-07 · [Great delivery got my son a 15 tog…](https://uk.trustpilot.com/review/www.dunelm.com?search=tog)  
-> `Q415` · Angle NEU · Wunsch · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne, Elternteil kauft Sohn 15-Tog-Decke fuer kalte Uni-Naechte. | Angle-Notiz: Studenten / Uni-Auszug | Wer für wen: Vater/Mutter kauft Decke fuer studierenden Sohn_
-
-### Partner (50)
-
-**Wer für wen:** Ehefrau wechselt alle paar Tage die Laken wegen des Nachtschweiss-Geruchs ihres Mannes
-
-> "I have had to change the sheets every few days, and i even have a waterproof mattress protector on. Sometimes it wakes me in the night when my husband moves as the smell is awful."
->
-> — **anonymous (Netmums-Anonym-Post)** · Netmums · 2013-03-11 · [night sweats, sorry tmi](https://www.netmums.com/coffeehouse/health-wellbeing-1087/health-advice-756/901515-night-sweats-sorry-tmi.html)  
-> `Q008` · Angle A · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Wegen Nachtschweiß des Mannes alle paar Tage Laken wechseln, Gestank weckt sie. | Angle-Notiz: Partner-Nachtschweiss – Frau waescht/bezieht fuer ihn; Geruch | Wer für wen: Ehefrau wechselt und wäscht die Bettwäsche wegen des Nachtschweißes ihres Mannes_
-
-**Wer für wen:** Ehefrau bezieht das Bett des schwitzenden Mannes, wuergt dabei und verschweigt es ihm
-
-> "I can't bare to tell him that changing the sheets sometimes makes me gag."
->
-> — **anonymous (Netmums-Anonym-Post)** · Netmums · 2013-03-11 · [night sweats, sorry tmi](https://www.netmums.com/coffeehouse/health-wellbeing-1087/health-advice-756/901515-night-sweats-sorry-tmi.html)  
-> `Q009` · Angle A · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Beim Bettwäschewechseln muss sie würgen. | Angle-Notiz: NEU: Partner schwitzt – Ekel beim Beziehen | Wer für wen: Ehefrau bezieht das Bett für den schwitzenden Ehemann_
-
-**Wer für wen:** Partnerin vor dem gemeinsamen Bett: seine Haelfte vergilbt, Hygienelast liegt implizit bei ihr
-
-> "Men are gross. Am stood looking at the bed now and there is literally a line down the middle dividing the lovely white side and the rancid, stained side."
->
-> — **dippingbackin** · Mumsnet · 2014-08-04 · [Need help removing gross yellow stains from DP's pillow cases](https://www.mumsnet.com/talk/housekeeping/2150674-Need-help-removing-gross-yellow-stains-from-DPs-pillow-cases)  
-> `Q013` · Angle A · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _Sichtbare Linie zwischen weisser und gelber Betthaelfte. | Angle-Notiz: Partner schwitzt_
-
-**Wer für wen:** Partnerin ueber die schweissnasse, stinkende Betthaelfte des Partners
-
-> "he makes the whole of his side of the bed saturated with sweat and it smells horrible!"
->
-> — **dibdobs** · Mumsnet · 2014-08-05 · [Need help removing gross yellow stains from DP's pillow cases](https://www.mumsnet.com/talk/housekeeping/2150674-Need-help-removing-gross-yellow-stains-from-DPs-pillow-cases?page=2)  
-> `Q014` · Angle A · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _Bettseite des Partners schweissnass und stinkend. | Angle-Notiz: Partner schwitzt_
-
-**Wer für wen:** Partnerin ekelt sich vor dem Schweiss des Partners in der gemeinsamen Decke
-
-> "I could not stand the thought of his miasma gestating as long as a human baby in the duvet."
->
-> — **whomovedmychocolate** · Mumsnet · 2010-08-23 · [How often do you wash your duvet and how do you do it?](https://www.mumsnet.com/talk/housekeeping/1027119-How-often-do-you-wash-your-duvet-and-how-do)  
-> `Q038` · Angle A · Schmerz · Intensität ●●●●● · ✔ verifiziert  
-> _Ekel vor dem Schweiss des Partners in der Decke. | Angle-Notiz: Partner_
-
-**Wer für wen:** Partnerin waescht fuer naechtlich stark schwitzenden Partner (DP)
-
-> "DP is incredibly sweaty in the night and I am f*cking sick of him ruining…"
->
-> — **dippingbackin** · Mumsnet · 2014-08-04 · [Need help removing gross yellow stains from DP's pillow cases](https://www.mumsnet.com/talk/housekeeping/2150674-Need-help-removing-gross-yellow-stains-from-DPs-pillow-cases)  
-> `Q040` · Angle A · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Thread-Eroeffnung: Partner schwitzt nachts alles gelb. | Angle-Notiz: Partner schwitzt | Wer für wen: Partnerin waescht fuer schwitzenden Partner_
-
-**Wer für wen:** Partnerin waescht regelmaessig, seine Seite wird trotzdem gelb
-
-> "Everything ends up yellow on his side despite me washing it very regularly - I can't wash it every sodding day!!!"
->
-> — **dippingbackin** · Mumsnet · 2014-08-04 · [Need help removing gross yellow stains from DP's pillow cases](https://www.mumsnet.com/talk/housekeeping/2150674-Need-help-removing-gross-yellow-stains-from-DPs-pillow-cases)  
-> `Q041` · Angle A · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Alles auf seiner Seite wird gelb, trotz haeufigem Waschen. | Angle-Notiz: Partner schwitzt | Wer für wen: Partnerin waescht fuer Partner_
-
-**Wer für wen:** Partnerin bezieht/waescht fuer Partner, ihr wird beim Anblick seiner Bettwaesche uebel
-
-> "Guess I don't have to sleep on them but it makes me want to heave just looking at them."
->
-> — **dippingbackin** · Mumsnet · 2014-08-04 · [Need help removing gross yellow stains from DP's pillow cases](https://www.mumsnet.com/talk/housekeeping/2150674-Need-help-removing-gross-yellow-stains-from-DPs-pillow-cases)  
-> `Q042` · Angle A · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Ekel beim Anblick der Kissenbezuege. | Angle-Notiz: B | Wer für wen: Partnerin bezieht/waescht fuer Partner_
-
-**Wer für wen:** Ehefrau wartete nicht auf die uebliche Hilfe des Mannes bei der tiefen Matratze, Rueckenverletzung
-
-> "I couldn’t be bothered to wait for my husband’s usual help with our deep mattress and really injured my back. That was about 15 months and numerous physio visits ago and still not 100%!"
->
-> — **Edithb** · Gransnet · 01-Oct-2018 · [Fitted bed sheets](https://www.gransnet.com/forums/chat/1252960-Fitted-bed-sheets?pg=2)  
-> `Q105` · Angle B · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Beim Bettmachen allein Rücken verletzt, 15 Monate Physio. | Wer für wen: Ehemann hilft normalerweise_
-
-**Wer für wen:** Schwangere bricht in Traenen aus, Partner (DP) muss das Bett fuer sie beziehen
-
-> "Okay no I didn't, I sat on the end of the bed and collapsed in floods of tears and had to call for DP to come and rescue me and change the sheets for me."
->
-> — **Starspread** · Mumsnet · 2015-10-15 · [To burn all bedsheets and sleep in a sleeping bag for ever?](https://www.mumsnet.com/talk/am_i_being_unreasonable/2487924-To-burn-all-bedsheets-and-sleep-in-a-sleeping-bag-for-ever)  
-> `Q106` · Angle B · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Bricht beim Beziehen in Traenen aus, Partner muss sie 'retten'. | Angle-Notiz: Schwangerschaft | Wer für wen: Partner muss das Bett fuer die schwangere Frau beziehen_
-
-**Wer für wen:** Ehemann (DH) uebernimmt in der Spaetschwangerschaft das gesamte Beziehen
-
-> "During the last few weeks of pregnancy with DS2, DH had to take over all bed changing duties, after more than one occasion where I was reduced to either hysterical sobbing or hysterical rage by poorly fitting sheets."
->
-> — **WinterIsNeverReallyComing** · Mumsnet · 2015-10-15 · [To burn all bedsheets and sleep in a sleeping bag for ever?](https://www.mumsnet.com/talk/am_i_being_unreasonable/2487924-To-burn-all-bedsheets-and-sleep-in-a-sleeping-bag-for-ever)  
-> `Q107` · Angle B · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Hysterisches Weinen oder Wut wegen schlecht sitzender Laken. | Angle-Notiz: Schwangerschaft | Wer für wen: Ehemann uebernimmt Betten beziehen fuer schwangere Frau_
-
-**Wer für wen:** Paar mit Huefte/RSI bzw. Ruecken/Schulter bezieht nur gemeinsam
-
-> "changing the bed in our house is a major job! i have hip problems plus very bad RSI in my wrists so really struggle, my partner has a bad back and shoulder so bed making has to be between us.…duvet cover is a joint effort and then a five minute lie down!!"
->
-> — **poppysmum** · Gransnet · 16-Sep-2025 · [Need a lie down!](https://www.gransnet.com/forums/chat/1351672-Need-a-lie-down?pg=2)  
-> `Q118` · Angle B · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Hüfte, RSI, Rücken, Schulter: Beziehen nur zu zweit. | Wer für wen: Paar bezieht gemeinsam trotz Hüfte/Rücken/Schulter_
-
-**Wer für wen:** Witwe: frueher mit dem Mann gemeinsam bezogen, allein ist die Super-King-Decke eine Tortur
-
-> "I stil use the super king bed needed when mr I was here. We would change the bedding together. I find doing it alone a trial. Managing to put the sheets on, then the super king duvet cover - exhausting"
->
-> — **Iam64** · Gransnet · 16-Sep-2025 · [Need a lie down!](https://www.gransnet.com/forums/chat/1351672-Need-a-lie-down?pg=3)  
-> `Q119` · Angle B · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Witwe: früher zu zweit, allein erschöpfend. | Wer für wen: Früher gemeinsam mit dem (verstorbenen) Ehemann_
-
-**Wer für wen:** Ehefrau mit Arthritis muss weiterhin die Decke des behinderten Mannes beziehen
-
-> "Nothing works if you’ve got arthritis in the shoulders and hands as I have! So I’ve gone back to sheet and blanket/s , my husband is sticking with duvet so as he’s disabled I still have to change his….but not for much longer! Wish the things had never been invented"
->
-> — **Saggi** · Gransnet · 08-Jul-2022 · [For easier duvet cover changing, I’ve just ordered some of these.](https://www.gransnet.com/forums/house_and_home/1312564-For-easier-duvet-cover-changing-I-ve-just-ordered-some-of-these?pg=2)  
-> `Q122` · Angle B · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Arthritis in Schultern/Händen, muss trotzdem Decke des behinderten Mannes beziehen. | Angle-Notiz: Arthritis + pflegt behinderten Ehemann | Wer für wen: Ehefrau mit Arthritis bezieht Decke des behinderten Ehemanns_
-
-**Wer für wen:** Witwe: Beziehen der Decke war Aufgabe des verstorbenen Mannes
-
-> "It was my late husbands job to do the duvet."
->
-> — **mondaytosunday** · Mumsnet · 2025-03-04 · [How difficult do you find changing your bed?](https://www.mumsnet.com/talk/housekeeping/5286934-how-difficult-do-you-find-changing-your-bed)  
-> `Q126` · Angle B · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Witwe: Beziehen war Aufgabe ihres verstorbenen Mannes. | Wer für wen: verstorbener Ehemann hat immer bezogen; Witwe jetzt allein_
-
-**Wer für wen:** Kleine Frau, Ehemann im Ausland: grosses Bett allein zu beziehen kaum machbar
-
-> "it's REALLY difficult to change a bed this size on your own (I'm only dinky) and my husband is out of the country. Take's me a good month to recover from getting stuck in side the quilt cover"
->
-> — **Anonymous** · Netmums · 2013-01-09 · [A fifth of us only change our bed linen once a month](https://www.netmums.com/coffeehouse/other-chat-514/news-12/871792-fifth-us-only-change-our-bed-linen-once-month-3.html)  
-> `Q135` · Angle B · Schmerz · Intensität ●●●●● · ✔ verifiziert  
-> _Allein ein großes Bett zu beziehen ist so schwer, dass sie nur monatlich wechselt. | Angle-Notiz: braucht zwei Personen_
-
-**Wer für wen:** Kleine, alleinstehende Frau: kein Mann da, der beim Beziehen hilft
-
-> "its my WORST job. im only a wee person and getting the duvet cover onto the duvet is the bane of my life! not exaclty got a man to do it.... do men even do that anyway?"
->
-> — **Anonymous** · Netmums · 2008-04-28 · [bed linen...how often do you change it?](https://www.netmums.com/coffeehouse/home-garden-194/cleaning-14/168024-bed-linen-how-often-do-you-change.html)  
-> `Q139` · Angle B · Schmerz · Intensität ●●●●● · ✔ verifiziert  
-> _Kleine, alleinstehende Frau kämpft mit dem Bettbezug._
-
-**Wer für wen:** Frau mit schmerzenden Haenden, keine Hilfe vom Mann (hubby), zurueck zu Laken/Wolldecken
-
-> "I can’t stuff the duvets into the covers anymore because of painful hands( no help from hubby)...so I’ve gone back to sheets and blankets."
->
-> — **Saggi** · Gransnet · 02-Nov-2018 · [Having my duvet laundered](https://www.gransnet.com/forums/house_and_home/1253756-Having-my-duvet-laundered?pg=2)  
-> `Q166` · Angle B · Gescheiterte Lösung · Intensität ●●●●● · ✔ verifiziert  
-> _Schmerzende Hände, keine Hilfe vom Mann, zurück zu Laken und Wolldecken. | Angle-Notiz: schmerzende Hände_
-
-**Wer für wen:** Frau (Brustkrebs, therapiebedingte Wechseljahre) kauft, auch der Ehemann wachte im Nassen auf
-
-> "They weren’t cheap, and I was worried about sending off my money- but I was getting desperate, and so was husband, who was waking up in a swamp too."
->
-> — **system (archivierter Beitrag, ungezeichnet)** · Breast Cancer Now Forum · 2008-09-10 · [Any suggestions about night sweats](https://forum.breastcancernow.org/t/any-suggestions-about-night-sweats/11516)  
-> `Q207` · Angle C · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _Verzweiflung – auch der Ehemann wachte 'in a swamp' auf. | Angle-Notiz: therapiebedingte Wechseljahre (Brustkrebs); Partner leidet mit_
-
-**Wer für wen:** Verlobte wechselt taeglich die Laken des schwitzenden Partners
-
-> "since xmas it has been so much im having to change the sheets every day, the sweat smells like vinegar & is staining the sheets, duvet & pillows!"
->
-> — **Anonymous** · Netmums · 2012-08-15 · [MY BOYFRIEND & HIS NIGHT SWEATS!!](https://www.netmums.com/coffeehouse/health-wellbeing-1087/health-advice-756/807393-my-boyfriend-his-night-sweats.html)  
-> `Q231` · Angle C · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Schweiß des Verlobten riecht nach Essig und verfärbt Bettzeug. | Angle-Notiz: Partner mit Nachtschweiß | Wer für wen: Verlobte wechselt täglich die Laken des Partners_
-
-**Wer für wen:** Ehefrau wacht im Schweiss des Mannes auf, gemeinsames Bettzeug ruiniert
-
-> "my husband is the same. I wake up soaking in his sweat. the bedding is ruined the mattress is stained. its horrible"
->
-> — **Anonymous** · Netmums · 2013-07-22 · [MY BOYFRIEND & HIS NIGHT SWEATS!!](https://www.netmums.com/coffeehouse/health-wellbeing-1087/health-advice-756/807393-my-boyfriend-his-night-sweats.html)  
-> `Q233` · Angle C · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _Wacht im Schweiß des Mannes auf, Bettzeug ruiniert. | Angle-Notiz: Partner mit Nachtschweiß_
-
-**Wer für wen:** Kauf fuer das gemeinsame Bett, Matratze loest Asthma des Partners aus (Krankenhaus)
-
-> "I am leaving a 1-star review as the Simba mattress put my partner in hospital as it triggered his asthma…"
->
-> — **Dean** · Trustpilot - Simba · 2023-12-31 · [Asthmatics be aware](https://uk.trustpilot.com/review/simbasleep.com?search=asthma)  
-> `Q322` · Angle D · Horrorgeschichte · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _1 Stern, Matratze loest Asthmaanfall beim Partner aus, Krankenhaus. | Angle-Notiz: Matratze | Wer für wen: Kauf fuer gemeinsames Bett, Partner betroffen_
-
-**Wer für wen:** Ehefrau waescht Bettwaesche wegen des Mannes (Schweisser, schwarzer Koerperabdruck)
-
-> "Oh is a welder and even after a 40 minute shower he still leaves a black body print on our bedding so I hate it!!"
->
-> — **Anonymous** · Netmums · 2013-01-09 · [A fifth of us only change our bed linen once a month](https://www.netmums.com/coffeehouse/other-chat-514/news-12/871792-fifth-us-only-change-our-bed-linen-once-month-3.html)  
-> `Q036` · Angle A · Horrorgeschichte · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Ehemann hinterlässt trotz Dusche einen schwarzen Körperabdruck auf der Bettwäsche. | Wer für wen: Frau wäscht Bettwäsche wegen des Mannes (Schweißer)_
-
-**Wer für wen:** Partnerin wechselt die Bettwaesche nach Bier-/Curry-Schweiss des Partners (OH)
-
-> "And if my OH has been out drinking or has eaten a curry it gets changed the morning after because the linen stinks of his beery/curry sweat! 🤢"
->
-> — **Anonymous** · Netmums · 2017-08-03 · [How often do you change your bedsheets?](https://www.netmums.com/coffeehouse/home-garden-194/cleaning-14/1683757-how-often-do-you-change-your-bedsheets-5.html)  
-> `Q037` · Angle A · Horrorgeschichte · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Bettwäsche stinkt nach Bier- und Curry-Schweiß. | Wer für wen: Frau wechselt Bettwäsche wegen Partner_
-
-**Wer für wen:** Ehefrau kuemmert sich um die Kissen des Mannes (DH), Schweissflecken trotz Schutzbezug
-
-> "DH's pillows have a papery protective cover … and still he stains them with sweat."
->
-> — **Nelliegrace** · MoneySavingExpert Forum · 2026-03-06 (Jahr nicht angezeigt = laufendes Jahr) · [Washing own duvets and pillows?](https://forums.moneysavingexpert.com/discussion/6658261/washing-own-duvets-and-pillows)  
-> `Q043` · Angle A · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Ehemann schwitzt Kissen trotz Schutzhülle voll. | Angle-Notiz: Schweißflecken | Wer für wen: Ehefrau kümmert sich um Bettzeug des Ehemanns_
-
-**Wer für wen:** Ehefrau managt Kissenschutz gegen Schweiss- und Haargeruch des Mannes (DH)
-
-> "so even DH's sweat and oily hair smell don't usually get through.…What is it about men that makes their pillows get so smelly?"
->
-> — **cc** · Gransnet · 12-Aug-2022 · [Washing pillows](https://www.gransnet.com/forums/ask_a_gran/1314095-Washing-pillows?pg=3)  
-> `Q045` · Angle A · Schmerz · Intensität ●●●●○ · ✔ verifiziert  
-> _Schweiß und Haargeruch des Mannes._
-
-**Wer für wen:** Kind berichtet: Mutter wusch staendig die Bettwaesche des Vaters (spaeter Lymphom-Diagnose)
-
-> "my dad had this few years ago, my mum kept moaning bout having to wash bedding all the time, turned out he had lymphoma."
->
-> — **anonymous (Netmums-Anonym-Post)** · Netmums · 2013-03-11 · [night sweats, sorry tmi](https://www.netmums.com/coffeehouse/health-wellbeing-1087/health-advice-756/901515-night-sweats-sorry-tmi.html)  
-> `Q046` · Angle A · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Mutter klagte über ständiges Waschen der Bettwäsche des Vaters. | Angle-Notiz: Nachtschweiß als Krankheitssymptom (Lymphom), sekundär C; Mutter wäscht für Vater | Wer für wen: Mutter wusch ständig die Bettwäsche des erkrankten Vaters_
-
-**Wer für wen:** Ehemann bezog einmal die King-Size-Decke, unter lautem Protest, und weigert sich seitdem
-
-> "Mine flatly refuses Millie!! I got him to change our kingsize one once and you wouldn’t believe all the huffing and puffing coming from upstairs!! And this is a man who will spend all day digging the garden without complaint!"
->
-> — **JenniferEccles** · Gransnet · 17-Jun-2020 · [Changing the duvet cover](https://www.gransnet.com/forums/chat/1280513-Changing-the-duvet-cover?pg=2)  
-> `Q109` · Angle B · Horrorgeschichte · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Selbst der gartenfeste Ehemann schnauft beim Beziehen. | Wer für wen: Ehemann sollte einmal die King-Size-Decke beziehen und weigert sich seitdem_
-
-**Wer für wen:** Ehemann findet hochschwangere Frau weinend beim Aufziehen des Laken
-
-> "When I was heavily pregnant my husband came home to find me sobbing while attempting to get the waterproof sheet (homebirth) to stay on the corners of the mattress."
->
-> — **MollyCarpenter** · Mumsnet · 2015-10-15 · [To burn all bedsheets and sleep in a sleeping bag for ever?](https://www.mumsnet.com/talk/am_i_being_unreasonable/2487924-To-burn-all-bedsheets-and-sleep-in-a-sleeping-bag-for-ever)  
-> `Q111` · Angle B · Horrorgeschichte · Intensität ●●●●○ · ✔ verifiziert  
-> _Hochschwanger weinend beim Versuch, das Laken auf die Matratze zu bekommen. | Angle-Notiz: Schwangerschaft_
-
-**Wer für wen:** Ehefrau ueber Ehemann nach Schlaganfall, der mit den Knoepfen am Bezug kaempft
-
-> "My DH had a stroke three and a half years ago. I always let him deal with the duvet cover coming off for a wash and ours have buttons, he finds them incredibly hard to deal with."
->
-> — **blossom14** · Gransnet · 04-Sep-2021 · [Duvet Covers, which do you prefer buttons or poppers?](https://www.gransnet.com/forums/house_and_home/1300560-Duvet-Covers-which-do-you-prefer-buttons-or-poppers)  
-> `Q143` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Ehemann nach Schlaganfall kämpft mit Knöpfen. | Angle-Notiz: Schlaganfall/Pflege | Wer für wen: Ehefrau über Ehemann nach Schlaganfall_
-
-**Wer für wen:** Frau kann allein nicht beziehen, muss Ehemann (DH) zum Helfen ueberreden
-
-> "Can’t change the duvet cover by myself so have to persuade DH to help"
->
-> — **Caro57** · Gransnet · 25-Feb-2021 · [How often do you change your bedding ?](https://www.gransnet.com/forums/chat/1292261-How-often-do-you-change-your-bedding?pg=5)  
-> `Q144` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Schafft das Beziehen nicht allein. | Wer für wen: Ehemann muss beim Beziehen helfen_
-
-**Wer für wen:** Ehemann (DH) bezieht, wenn ihr Ruecken streikt
-
-> "My back is completely out atm, so I can only rustle DH to do this chore twice monthly rather than my normal weekly change of bedding."
->
-> — **DillytheGardener** · Gransnet · 08-Jul-2022 · [For easier duvet cover changing, I’ve just ordered some of these.](https://www.gransnet.com/forums/house_and_home/1312564-For-easier-duvet-cover-changing-I-ve-just-ordered-some-of-these?pg=2)  
-> `Q146` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Rücken kaputt, Ehemann übernimmt. | Angle-Notiz: Rücken | Wer für wen: Ehemann bezieht, wenn ihr Rücken streikt_
-
-**Wer für wen:** Ehemann (DH) bezieht, weil sie Arthritis in den Fingern hat
-
-> "I’ve got arthritis in my fingers so can’t change covers easily now although DH does it obviously.…It was a total revelation to me!"
->
-> — **storynanny** · Gransnet · 20-Oct-2022 · [Coverless duvets (2022)](https://www.gransnet.com/forums/house_and_home/1316798-Coverless-duvets)  
-> `Q147` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Arthritis in den Fingern, Mann bezieht. | Angle-Notiz: Arthritis Finger | Wer für wen: Ehemann bezieht, weil sie Arthritis in den Fingern hat_
-
-**Wer für wen:** Partnerin aergert sich, dass sie die Bezuege fuer beide wechselt
-
-> "Does slightly piss me off that I will end up sorting it out and taking the cases on and off despite…"
->
-> — **dippingbackin** · Mumsnet · 2014-08-04 · [Need help removing gross yellow stains from DP's pillow cases](https://www.mumsnet.com/talk/housekeeping/2150674-Need-help-removing-gross-yellow-stains-from-DPs-pillow-cases)  
-> `Q150` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Aerger, dass sie die Bezuege wechseln muss. | Angle-Notiz: A | Wer für wen: Partnerin macht das Bett fuer Partner_
-
-**Wer für wen:** Ehemann (DH) zieht die Bezuege auf, weil sie zu klein ist
-
-> "DH puts the duvets into the covers as I can't seem to do it as I am such a shorty."
->
-> — **Anonymous** · Netmums · 2013-01-11 · [A fifth of us only change our bed linen once a month](https://www.netmums.com/coffeehouse/other-chat-514/news-12/871792-fifth-us-only-change-our-bed-linen-once-month-8.html)  
-> `Q153` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Schafft das Beziehen allein nicht. | Wer für wen: Ehemann zieht die Bezüge auf, weil sie zu klein ist_
-
-**Wer für wen:** Ehemann (DH) bezieht jeden Sonntag, sie hilft beim Bezug
-
-> "This is DH job in our house and he does it without fail every Sunday. I help him get the quilt cover on though as (it's easier with two)"
->
-> — **Dianna P(3)** · Netmums · 2019-03-18 · [How often do you REALLY change your sheets?](https://www.netmums.com/coffeehouse/home-garden-194/cleaning-14/1845811-how-often-do-you-really-change-your-sheets.html)  
-> `Q154` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Bezug aufziehen geht nur zu zweit. | Angle-Notiz: braucht zwei Personen | Wer für wen: Ehemann bezieht das Bett, sie hilft beim Bezug_
-
-**Wer für wen:** Partner wartet darauf, dass sie sein Bett bezieht
-
-> "He's just waiting for me to do it for him but I already have quite enough to do, if he wants to wallow in his own filth that's his choice!!"
->
-> — **Anonymous** · Netmums · 2014-07-30 · [Bed sheets, is it true?](https://www.netmums.com/coffeehouse/home-garden-194/cleaning-14/1149519-bed-sheets-true-3.html)  
-> `Q155` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Partner hat in 7 Monaten 2-3 Mal die Laken gewechselt. | Angle-Notiz: Partner bezieht nie | Wer für wen: Partner wartet darauf, dass sie sein Bett bezieht_
-
-**Wer für wen:** Ehefrau kauft, weil der Mann seit Jahren mit dem Bezug kaempft
-
-> "My husband has struggled for years with putting the duvet in its cover"
->
-> — **Frances D** · Trustpilot - The Fine Bedding Company · 2025-03-01 · [Life changing](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=changing&page=4)  
-> `Q162` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Ehemann kaempft seit Jahren mit dem Bezug. | Angle-Notiz: Partner bezieht | Wer für wen: Ehemann bezieht das Bett fuer beide; Ehefrau kauft_
-
-**Wer für wen:** Witwe: verstorbener Mann half beim Beziehen der King-Size-Decke
-
-> "I have a king size duvet. I used to get the late Mr Marmight to help but in his absence I tried the rolling method but kept forgetting how to do it"
->
-> — **Marmight** · Gransnet · 17-Jun-2020 · [Changing the duvet cover](https://www.gransnet.com/forums/chat/1280513-Changing-the-duvet-cover?pg=2)  
-> `Q170` · Angle B · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Witwe: früher half der Mann, die Roll-Methode vergisst sie immer wieder. | Wer für wen: Verstorbener Ehemann half früher beim Beziehen_
-
-**Wer für wen:** Ehefrau: ohne den helfenden Ehemann wuerde sie auf ein Einzelbett umsteigen
-
-> "If my husband dies before me I think I'm going to get a single bed. I can sleep quite happily in one."
->
-> — **cramptramp** · Mumsnet · 2025-03-04 · [How difficult do you find changing your bed?](https://www.mumsnet.com/talk/housekeeping/5286934-how-difficult-do-you-find-changing-your-bed)  
-> `Q187` · Angle B · Glaube · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Ohne Ehemann wuerde sie aufs Einzelbett umsteigen. | Wer für wen: Ehemann hilft aktuell; ohne ihn Einzelbett_
-
-**Wer für wen:** Ehefrau kauft Kissen fuer den Mann, der schweissgebadet aufwacht
-
-> "after a couple of nights he wakes up drenched in sweat from the pillow"
->
-> — **Mrs Bailey** · Trustpilot - Dunelm · 2019-06-19 · [Dunelm, Ipswich](https://uk.trustpilot.com/review/www.dunelm.com?search=sweat)  
-> `Q261` · Angle C · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _4 Sterne, Ehemann wacht nach neuen Kissen schweissgebadet auf. | Wer für wen: Ehefrau kauft Kissen fuer Ehemann_
-
-**Wer für wen:** Frau kauft Kissen fuer stark schwitzenden Partner (other half)
-
-> "My other half sweats a lot in bed and this pillow ends up wet through."
->
-> — **Greensox** · Trustpilot - Simba · 2024-06-23 · [These are definitely worth the money.](https://uk.trustpilot.com/review/simbasleep.com?search=sweats)  
-> `Q262` · Angle C · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne, Kissen des Partners war durchnaesst, Simba-Kissen bleibt trocken. | Wer für wen: Frau kauft Kissen fuer schwitzenden Ehemann ('hubby')_
-
-**Wer für wen:** Ehefrau wechselt staendig die Laken wegen des Nachtschweiss des Mannes
-
-> "its my husband who gets this! im constantly changing sheets and have put a towel under the bottom sheet to stop it going into the matress..."
->
-> — **Anonymous** · Netmums · 2012-02-24 · [Excessive sweating at night.. Should I go to the doctor?](https://www.netmums.com/coffeehouse/health-wellbeing-1087/health-advice-756/725332-excessive-sweating-night-should-i-go-doctor.html)  
-> `Q277` · Angle C · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Handtuch unter dem Laken gegen Schweiß in der Matratze. | Angle-Notiz: Partner mit Nachtschweiß | Wer für wen: Ehefrau wechselt ständig Laken für den Mann_
-
-**Wer für wen:** Mann kauft Decke fuer peri-menopausale Partnerin gegen Hitzewallungen (enttaeuscht)
-
-> "…my partner is peri menopausal, the duvet was bought with the claim to help remove hot flushes…"
->
-> — **Paul Berry** · Trustpilot - Simba · 2023-03-05 · [Bobbins](https://uk.trustpilot.com/review/simbasleep.com?search=menopause)  
-> `Q278` · Angle C · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _1 Stern, Decke fuer peri-menopausale Partnerin gegen Hitzewallungen gekauft, hilft nicht. | Wer für wen: Mann kauft Decke fuer peri-menopausale Partnerin_
-
-**Wer für wen:** Kauf fuer das gemeinsame Bett, Freund (boyfriend) ist Allergiker
-
-> "Previously, I hadn't been sleeping well and my boyfriend was prone to sneezing and getting bunged up due to allergies."
->
-> — **Phil** · Trustpilot - Emma · 2021-05-21 · [Game Changer](https://uk.trustpilot.com/review/emma-sleep.co.uk?search=allergy)  
-> `Q350` · Angle D · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne, Freund niest und hat verstopfte Nase ('bunged up') wegen Allergien. | Wer für wen: Kauf fuer gemeinsames Bett, Partner ist Allergiker_
-
-**Wer für wen:** Blinder Ehemann kauft Decke fuer allergische Ehefrau, trotz Beratung falsche Fuellung
-
-> "Even asking a salesperson for help, as hubby did, we still were sold a quilt with micro. They don't know and apparently can't read. He has the excuse that he's blind. She doesn't."
->
-> — **Elspe** · Asthma + Lung UK Community (HealthUnlocked) · 2019-05-09 · [Microfibre Allergy?](https://healthunlocked.com/asthmalunguk-asthma/posts/140634095/microfibre-allergy)  
-> `Q359` · Angle D · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Ehemann kaufte für sie eine Decke – trotz Beratung mit der falschen Füllung. | Wer für wen: Ehemann kauft Decke für allergische Ehefrau_
-
-**Wer für wen:** Frau kauft Super-King-Decke, weil der Partner (him indoors) ihr die Decke klaut
-
-> "I purchased a super king duvet because I was sick of him indoors turning over and pinching it."
->
-> — **Katie** · Trustpilot - Silentnight · 2025-04-16 (aktualisiert) · [Customer service not very helpful](https://uk.trustpilot.com/review/shop.silentnight.co.uk?search=duvet&stars=3)  
-> `Q397` · Angle NEU · Gescheiterte Lösung · Intensität ●●●●○ · ✔ verifiziert  
-> _3 Sterne, kauft Super-King-Decke, weil der Partner ('him indoors') ihr nachts die Decke klaut. | Angle-Notiz: Partner klaut Decke / Paar-Schlaf_
-
-**Wer für wen:** Ehefrau kauft nach schwerer Krankheit und Klinikaufenthalt des Mannes
-
-> "bought Scooms following my husband’s serious illness and extended hospital stay…"
->
-> — **deirdre duignan** · Trustpilot - Scooms · 2026-04-04 · [Having researched and researched good…](https://uk.trustpilot.com/review/scooms.com?search=duvet)  
-> `Q412` · Angle NEU · Wunsch · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Kauf nach schwerer Krankheit und langem Krankenhausaufenthalt des Mannes. | Angle-Notiz: Pflege / Krankheit des Partners | Wer für wen: Ehefrau kauft fuer schwer erkrankten Ehemann nach Krankenhausaufenthalt_
-
-**Wer für wen:** Ehepaar bezieht Doppel-/King-Decken nur gemeinsam
-
-> "All double/kingsize duvet changing is a 2 man/woman job, with DH and I working in concert."
->
-> — **M0nica** · Gransnet · 20-May-2019 · [Duvet covers](https://www.gransnet.com/forums/house_and_home/1261612-Duvet-covers?pg=2)  
-> `Q188` · Angle B · Glaube · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Glaube: Doppel-/King-Decken bezieht man nur zu zweit. | Wer für wen: Ehepaar bezieht nur gemeinsam_
-
-**Wer für wen:** Ehefrau ueber kranken Mann, der sich nach der Klinik auf Schlaf zuhause freute
-
-> "he couldn’t wait to get home to a decent night’s sleep."
->
-> — **deirdre duignan** · Trustpilot - Scooms · 2026-04-04 · [Having researched and researched good…](https://uk.trustpilot.com/review/scooms.com?search=duvet)  
-> `Q418` · Angle NEU · Wunsch · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Ehemann sehnte sich nach dem Krankenhaus nach gutem Schlaf zuhause. | Angle-Notiz: Pflege / Krankheit | Wer für wen: Ehefrau fuer kranken Ehemann_
-
-### Kinder fuer Eltern (16)
-
-**Wer für wen:** Kind kauft maschinenwaschbare Decke fuer aelteren Vater, der das Bett durchnaesst (Inkontinenz)
+**Wer für wen:** Kind kauft maschinenwaschbare Decke für älteren Vater, der das Bett durchnässt (Inkontinenz)
 
 > "Needed one for elderly dad as he was soaking bedding. Had to get a duvet which fits in the machine. And it does."
 >
 > — **StopStartStop** · Mumsnet · 2023-10-02 · [Coverless Duvet](https://www.mumsnet.com/talk/_chat/4910779-coverless-duvet?page=2)  
 > `Q096` · Angle A · Wunsch · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Kind kauft waschbare Decke fuer den Vater, der die Bettwaesche durchnaesst. | Angle-Notiz: Pflege/Inkontinenz älterer Vater | Wer für wen: Tochter/Sohn kauft waschbare Decke fuer aelteren Vater, der das Bett einnaesst_
+> _Kind kauft waschbare Decke für den Vater, der die Bettwäsche durchnässt. | Angle-Notiz: Pflege/Inkontinenz älterer Vater | Wer für wen: Tochter/Sohn kauft waschbare Decke für älteren Vater, der das Bett einnässt_
 
-**Wer für wen:** Tochter kauft Decke fuer Mutter, die nicht in deren Maschine passt; Schwester muss fuer die Mutter waschen
+**Wer für wen:** Tochter kauft Decke für Mutter, die nicht in deren Maschine passt; Schwester muss für die Mutter waschen
 
 > "a standard double is too big to fit in her washing machine so my sister will have to wash it for her"
 >
 > — **Adele Wyse** · Trustpilot - The Fine Bedding Company · 2023-02-19 · [Coverless Duvet](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=mum&page=2)  
 > `Q064` · Angle A · Einwand · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _4 Sterne. Doppeldecke passt nicht in Mutters Maschine, Schwester muss waschen. | Angle-Notiz: Decke passt nicht in Maschine der Mutter; Schwester waescht | Wer für wen: Tochter kauft, Schwester muss fuer die Mutter waschen_
+> _4 Sterne. Doppeldecke passt nicht in Mutters Maschine, Schwester muss waschen. | Angle-Notiz: Decke passt nicht in Maschine der Mutter; Schwester wäscht | Wer für wen: Tochter kauft, Schwester muss für die Mutter waschen_
 
-**Wer für wen:** Sohn kauft fuer Mutter, die den Bezug zunehmend schwer aufziehen konnte
+**Wer für wen:** Sohn kauft für Mutter, die den Bezug zunehmend schwer aufziehen konnte
 
 > "godsend for my Mum who was finding it increasingly difficult to put the cover on her previous duvet."
 >
 > — **Robert Main** · Trustpilot - The Fine Bedding Company · 2022-08-30 · [The Night Owl coverless duvet is a…](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=mum&page=2)  
 > `Q160` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Mutter konnte Bezug zunehmend schwer aufziehen. | Angle-Notiz: Geschenk fuer Mutter | Wer für wen: Sohn kauft fuer Mutter_
+> _5 Sterne. Mutter konnte Bezug zunehmend schwer aufziehen. | Angle-Notiz: Geschenk für Mutter | Wer für wen: Sohn kauft für Mutter_
 
-**Wer für wen:** Tochter kauft fuer Mutter mit Arthritis
+**Wer für wen:** Tochter kauft für Mutter mit Arthritis
 
 > "decided to purchase one for my Mum, who struggles with arthritis."
 >
 > — **Faraway Eyes** · Trustpilot - The Fine Bedding Company · 2022-12-27 · [I previously bought a night owl duvet…](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=mum&page=2)  
 > `Q161` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Mutter mit Arthritis; Bettbeziehen leichter. | Angle-Notiz: Mutter mit Arthritis | Wer für wen: Tochter kauft fuer Mutter mit Arthritis_
+> _5 Sterne. Mutter mit Arthritis; Bettbeziehen leichter. | Angle-Notiz: Mutter mit Arthritis | Wer für wen: Tochter kauft für Mutter mit Arthritis_
 
-**Wer für wen:** Tochter naehte Baender an die Laken der arthritischen Mutter (mom)
+**Wer für wen:** Tochter nähte Bänder an die Laken der arthritischen Mutter (mom)
 
 > "My mom had arthritis and had a difficult time with the sheets. I opened the seams on the 2 corners at the foot and applied 2 fabric strips on each side of the corners"
 >
@@ -4499,77 +3435,77 @@ Alle Zitate der Bank, in denen jemand für andere kauft, für andere das Bett ma
 > `Q174` · Angle B · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
 > _Tochter näht für arthritische Mutter Bänder an Laken (Schreibweise 'mom'). | Angle-Notiz: Arthritis Mutter | Wer für wen: Tochter änderte Laken für arthritische Mutter_
 
-**Wer für wen:** Schwiegerkind ueber aeltere Schwiegermutter (mil), deren Bezug nur monatlich von anderen gewechselt wird
+**Wer für wen:** Schwiegerkind über ältere Schwiegermutter (mil), deren Bezug nur monatlich von anderen gewechselt wird
 
 > "My elderly mil finds it hard to change her duvet, so she has it done monthly… uses a top sheet between the duvet and herself, which is washed weekly."
 >
 > — **mumumental** · Mumsnet · 2026-09-06 · [I'm sick of duvets](https://www.mumsnet.com/talk/housekeeping/5574955-im-sick-of-duvets?page=5)  
 > `Q176` · Angle B · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Aeltere Schwiegermutter schafft Beziehen nicht mehr, laesst es monatlich machen. | Wer für wen: Schwiegermutter (aelter) bekommt Bezug monatlich von anderen gewechselt_
+> _Ältere Schwiegermutter schafft Beziehen nicht mehr, lässt es monatlich machen. | Wer für wen: Schwiegermutter (älter) bekommt Bezug monatlich von anderen gewechselt_
 
-**Wer für wen:** Tochter beschreibt Mutter (DM) mit Schulterverletzung, die die Decke nicht schuetteln kann
+**Wer für wen:** Tochter beschreibt Mutter (DM) mit Schulterverletzung, die die Decke nicht schütteln kann
 
 > "DM has a shoulder injury and can't shake a duvet, this is how she does it."
 >
 > — **GrannyAchingsShepherdsHut** · Mumsnet · 2025-03-04 · [How difficult do you find changing your bed?](https://www.mumsnet.com/talk/housekeeping/5286934-how-difficult-do-you-find-changing-your-bed)  
-> `Q177` · Angle B · Gescheiterte Lösung · Intensität ●●●●○ · ✔ verifiziert  
-> _Mutter mit Schulterverletzung kann Decke nicht schuetteln, nutzt California-Roll-Methode._
+> `Q177` · Angle B · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Mutter mit Schulterverletzung kann Decke nicht schütteln, nutzt California-Roll-Methode. | Wer für wen: Tochter beschreibt Mutter (DM) mit Schulterverletzung, die die Decke nicht schütteln kann_
 
-**Wer für wen:** Tochter ueber Mutter (DM), die den Bezug nicht mehr schafft und ein Laken drunterlegt
+**Wer für wen:** Tochter über Mutter (DM), die den Bezug nicht mehr schafft und ein Laken drunterlegt
 
 > "My DM struggles with changing a duvet cover, so now puts a single sheet under the duvet, so washes the sheet… regularly and the duvet cover occasionally."
 >
 > — **ineedaholidaynow** · Mumsnet · 2021-07-24 · [Coverless Duvets](https://www.mumsnet.com/talk/_chat/4304814-Coverless-Duvets)  
 > `Q178` · Angle B · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Mutter schafft Bezugwechsel nicht, nutzt Laken-Workaround in kleiner Wohnung mit Gemeinschaftswaschkueche. | Wer für wen: Tochter ueber Mutter, die das Beziehen nicht mehr schafft (Geschenk-Angle)_
+> _Mutter schafft Bezugwechsel nicht, nutzt Laken-Workaround in kleiner Wohnung mit Gemeinschaftswaschküche. | Wer für wen: Tochter über Mutter, die das Beziehen nicht mehr schafft (Geschenk-Angle)_
 
-**Wer für wen:** Tochter kauft buegelfreien Bezug fuer aeltere Eltern, Mutter over the moon
+**Wer für wen:** Tochter kauft bügelfreien Bezug für ältere Eltern, Mutter over the moon
 
 > "I bought this cover for my elderly parents. My mum is over the moon that it don’t need ironing"
 >
 > — **Mrs Gaynor Grist** · Trustpilot - Silentnight · 2021-07-29 · [Duvet cover](https://uk.trustpilot.com/review/shop.silentnight.co.uk?search=mum)  
 > `Q410` · Angle NEU · Wunsch · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne, Tochter kauft buegelfreien Bettbezug fuer ihre aelteren Eltern. | Angle-Notiz: Geschenk/Kauf fuer Eltern | Wer für wen: Tochter kauft Bettbezug fuer aeltere Eltern_
+> _5 Sterne, Tochter kauft bügelfreien Bettbezug für ihre älteren Eltern. | Angle-Notiz: Geschenk/Kauf für Eltern | Wer für wen: Tochter kauft Bettbezug für ältere Eltern_
 
-**Wer für wen:** Tochter kauft Bezuege, Decke und Kissen fuer Mutter (Happy Mum Happy Daughter)
+**Wer für wen:** Tochter kauft Bezüge, Decke und Kissen für Mutter (Happy Mum Happy Daughter)
 
 > "Mum loves the duvet covers she said theyre so nice n cosy, Happy Mum Happy Daughter x"
 >
 > — **Elizabeth Nanson** · Trustpilot - Dunelm · 2024-01-26 · [I was looking for warm teddy fleece…](https://uk.trustpilot.com/review/www.dunelm.com?search=mum&stars=5)  
 > `Q411` · Angle NEU · Wunsch · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne, Tochter kauft Teddy-Fleece-Bezuege, 10.5-Tog-Decke und Kissen fuer die Mutter. | Angle-Notiz: Geschenk/Kauf fuer Eltern | Wer für wen: Tochter kauft Bettwaesche und Decke fuer Mutter_
+> _5 Sterne, Tochter kauft Teddy-Fleece-Bezüge, 10.5-Tog-Decke und Kissen für die Mutter. | Angle-Notiz: Geschenk/Kauf für Eltern | Wer für wen: Tochter kauft Bettwäsche und Decke für Mutter_
 
-**Wer für wen:** Tochter ueber Mutter in kleiner Wohnung mit Gemeinschafts-Waschkueche (Decke kaum waschbar)
+**Wer für wen:** Tochter über Mutter in kleiner Wohnung mit Gemeinschafts-Waschküche (Decke kaum waschbar)
 
 > "especially as she lives in a small flat and uses a communal laundry."
 >
 > — **ineedaholidaynow** · Mumsnet · 2021-07-24 · [Coverless Duvets](https://www.mumsnet.com/talk/_chat/4304814-Coverless-Duvets)  
 > `Q066` · Angle A · Einwand · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Mutter in kleiner Wohnung mit Gemeinschafts-Waschkueche kann Decken kaum trocknen. | Angle-Notiz: Gemeinschaftswaschkueche/kleine Wohnung, aeltere Mutter | Wer für wen: Tochter ueber Mutter_
+> _Mutter in kleiner Wohnung mit Gemeinschafts-Waschküche kann Decken kaum trocknen. | Angle-Notiz: Gemeinschaftswaschküche/kleine Wohnung, ältere Mutter | Wer für wen: Tochter über Mutter_
 
-**Wer für wen:** Tochter bestellt Topper fuer Mutter mit Schlafproblemen
+**Wer für wen:** Tochter bestellt Topper für Mutter mit Schlafproblemen
 
 > "Ordered Silentnight Impress Memory foam mattress topper for my mother who had been having trouble sleeping."
 >
 > — **Linda** · Trustpilot - Silentnight · 2021-08-01 · [Silentnight Impress mattress topper](https://uk.trustpilot.com/review/shop.silentnight.co.uk?search=mum)  
 > `Q395` · Angle NEU · Schmerz · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne, Tochter bestellt Topper fuer Mutter mit Schlafproblemen. | Angle-Notiz: Geschenk/Kauf fuer Eltern | Wer für wen: Tochter kauft Topper fuer Mutter_
+> _5 Sterne, Tochter bestellt Topper für Mutter mit Schlafproblemen. | Angle-Notiz: Geschenk/Kauf für Eltern | Wer für wen: Tochter kauft Topper für Mutter_
 
-**Wer für wen:** Tochter bestellt online Bettwaesche fuer verwitwete aeltere Mutter (jetzt Einzelbett)
+**Wer für wen:** Tochter bestellt online Bettwäsche für verwitwete ältere Mutter (jetzt Einzelbett)
 
 > "Elderly and since husband died have changed to a single sized bed."
 >
 > — **Pamela Connolly** · Trustpilot - Dunelm · 2026-05-13 · [Dorma good quality bedding](https://uk.trustpilot.com/review/www.dunelm.com?search=elderly)  
 > `Q396` · Angle NEU · Schmerz · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne, aeltere Witwe wechselt auf Einzelbett, Tochter bestellt die Bettwaesche online fuer sie. | Angle-Notiz: Senioren/Witwe, Kinder helfen | Wer für wen: Tochter bestellt online fuer aeltere Mutter_
+> _5 Sterne, ältere Witwe wechselt auf Einzelbett, Tochter bestellt die Bettwäsche online für sie. | Angle-Notiz: Senioren/Witwe, Kinder helfen | Wer für wen: Tochter bestellt online für ältere Mutter_
 
-**Wer für wen:** Sohn kauft Ersatz-Heizdecke fuer sehbehinderte 92-jaehrige Mutter
+**Wer für wen:** Sohn kauft Ersatz-Heizdecke für sehbehinderte 92-jährige Mutter
 
 > "Bought a new (replacement) electric blanket for my partially sighted 92 year old mum."
 >
 > — **Stepen** · Trustpilot - Dunelm · 2024-02-02 · [Mum's electric blanket](https://uk.trustpilot.com/review/www.dunelm.com?search=mum&stars=5)  
 > `Q417` · Angle NEU · Wunsch · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne, Sohn kauft Heizdecke fuer sehbehinderte 92-jaehrige Mutter. | Angle-Notiz: Kauf fuer Eltern/Senioren | Wer für wen: Sohn kauft fuer 92-jaehrige Mutter_
+> _5 Sterne, Sohn kauft Heizdecke für sehbehinderte 92-jährige Mutter. | Angle-Notiz: Kauf für Eltern/Senioren | Wer für wen: Sohn kauft für 92-jährige Mutter_
 
 **Wer für wen:** Tochter bezieht das Bett der Mutter (80+)
 
@@ -4579,99 +3515,9 @@ Alle Zitate der Bank, in denen jemand für andere kauft, für andere das Bett ma
 > `Q163` · Angle B · Schmerz · Intensität ●●○○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
 > _Tochter macht das Bett für die über 80-jährige Mutter. | Wer für wen: Tochter bezieht das Bett der Mutter (80+)_
 
-**Wer für wen:** Kind kauft Daunendecke fuer die Mutter
+### Eltern über Hilfe der Kinder (9)
 
-> "Bought a down quilt for my mum, the quality is lovely and had superfast delivery."
->
-> — **AN Other** · Trustpilot - Silentnight · 2024-03-29 · [Superfast delivery, great prices!](https://uk.trustpilot.com/review/shop.silentnight.co.uk?search=mum)  
-> `Q419` · Angle NEU · Wunsch · Intensität ●○○○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne, kauft Daunendecke fuer die Mutter. | Angle-Notiz: Geschenk/Kauf fuer Eltern | Wer für wen: Kind kauft Decke fuer Mutter_
-
-### Gaeste (10)
-
-**Wer für wen:** Uebernachtungsgast ueber das Gaestebett bei Verwandten: Bezugrand riecht nach Achsel
-
-> "whenever we’ve stayed at their house the edge of the duvet cover smells of armpit."
->
-> — **Cucoocumber** · Mumsnet · 2026-09-07 · [I'm sick of duvets](https://www.mumsnet.com/talk/housekeeping/5574955-im-sick-of-duvets?page=5)  
-> `Q010` · Angle A · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _Bei Verwandten riecht der Deckenbezug-Rand nach Achsel (Top-Sheet-Methode). | Angle-Notiz: Gaestebett bei Verwandten_
-
-**Wer für wen:** Mutter ueber Gaestebett bei den Schwiegereltern: Kopf des Sohnes riecht nach dem Schwiegervater (FIL)
-
-> "DS's dear little head stinks like FIL's 3-day unwashed armpit."
->
-> — **MRex** · Mumsnet · 2019-07-31 · [AIBU - PIL smelly sheets](https://www.mumsnet.com/talk/am_i_being_unreasonable/3652416-AIBU-PIL-smelly-sheets)  
-> `Q011` · Angle A · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _Bett bei Schwiegereltern stinkt nach Schweiss des Schwiegervaters. | Angle-Notiz: Gaestebett bei Schwiegereltern_
-
-**Wer für wen:** Uebernachtungsgast bei Schwiegereltern: Gaestebett riecht nachts nach dem Schwiegervater
-
-> "The bed started to stink during the night, it smells of sweaty FIL, who's lovely but doesn't wash enough."
->
-> — **MRex** · Mumsnet · 2019-07-31 · [AIBU - PIL smelly sheets](https://www.mumsnet.com/talk/am_i_being_unreasonable/3652416-AIBU-PIL-smelly-sheets)  
-> `Q012` · Angle A · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _Bett begann nachts zu stinken. | Angle-Notiz: NEU: Gaestebett_
-
-**Wer für wen:** Stiefmutter legte das Kind ins ungewechselte, blutverschmierte Gaestebett
-
-> "my step mum had obviously slept in it whilst on her period... and bled all over the sheets... but to make it even worse she left the sheets on for me to sleep in!! I sat by the bedroom door all night crying!"
->
-> — **Anonymous** · Netmums · 2013-01-09 · [A fifth of us only change our bed linen once a month](https://www.netmums.com/coffeehouse/other-chat-514/news-12/871792-fifth-us-only-change-our-bed-linen-once-month-5.html)  
-> `Q018` · Angle A · Horrorgeschichte · Intensität ●●●●● · ✔ verifiziert  
-> _Als Kind im blutverschmierten Gästebett der Stiefmutter schlafen sollen. | Angle-Notiz: Gästebett_
-
-**Wer für wen:** Bezuglose Decke fuer Familienbesuch/Gaestebett gekauft, Waesche kostete fast so viel wie die Decke
-
-> "What a mistake, you're supposed to use them with a sheet, well that got taken off, getting tangled, so duvet used without, then had to try and wash, too big for washing machine. Managed to get it washed, cost nearly as much as the thing itself. Now use with a duvet cover over. Don't waste your money."
->
-> — **Freya5** · Gransnet · 06-Feb-2025 · [Coverless Duvets (Ask a Gran)](https://www.gransnet.com/forums/ask_a_gran/1345188-Coverless-Duvets)  
-> `Q049` · Angle A · Gescheiterte Lösung · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Bezuglose Decke für Gäste: zu groß für Maschine, Wäsche kostete fast so viel wie die Decke. | Angle-Notiz: Gästebett | Wer für wen: Für Familienbesuch gekauft (Gästebett)_
-
-**Wer für wen:** 50 Jahre alte Decke noch als Gaestedecke (spare) im Einsatz
-
-> "I have one which is around 50 years old and still in occasional use as a spare. Yes really."
->
-> — **Mandarinaduck** · Mumsnet · 2025-10-19 · [How often do you replace your duvet?](https://www.mumsnet.com/talk/_chat/5430163-how-often-do-you-replace-your-duvet)  
-> `Q082` · Angle A · Glaube · Intensität ●●●●○ · ✔ verifiziert  
-> _50 Jahre alte Decke als Gaestedecke. | Angle-Notiz: Gästebett; uralte Decke_
-
-**Wer für wen:** Mutter laesst erwachsene Kinder bei Besuch ihre Gaestebetten selbst beziehen
-
-> "I struggle with duvets. I'm afraid if my adult children come to stay I strip beds and wash the covers but let them remake them when they arrive.…never the duvet cover."
->
-> — **jocork** · Gransnet · 16-Sep-2025 · [Need a lie down!](https://www.gransnet.com/forums/chat/1351672-Need-a-lie-down?pg=3)  
-> `Q172` · Angle B · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Lässt erwachsene Kinder ihre Betten selbst beziehen. | Wer für wen: Erwachsene Kinder beziehen ihre Gästebetten selbst_
-
-**Wer für wen:** Ekzem-Betroffene bringt auf Reisen eigenes Bettzeug mit (Waschmittel der Gastgeber)
-
-> "For example, when I go away from home, I bring my own bedding so I know I won’t be exposed to bio laundry detergents and fragrances that I am sensitive to."
->
-> — **Oscar** · Eczema UK (ehem. National Eczema Society) – Fallgeschichten · k. A. (Seite 2026 abgerufen) · [Oscar's story](https://www.eczema.org.uk/case-studies/oscars-story)  
-> `Q404` · Angle NEU · Glaube · Intensität ●●●●○ · ✔ verifiziert  
-> _Nimmt auf Reisen eigenes Bettzeug mit wegen Waschmittel/Duftstoffen. | Angle-Notiz: NEU: Reisen/Gästebett; sekundär D_
-
-**Wer für wen:** Besucher koennen eigene Decken und Kissen nicht mitbringen (Gaestebett)
-
-> "We can't possibly carry duvets and pillows with us."
->
-> — **MRex** · Mumsnet · 2019-07-31 · [AIBU - PIL smelly sheets](https://www.mumsnet.com/talk/am_i_being_unreasonable/3652416-AIBU-PIL-smelly-sheets)  
-> `Q401` · Angle NEU · Einwand · Intensität ●●●○○ · ✔ verifiziert  
-> _Eigene Decken mitbringen geht nicht. | Angle-Notiz: Gaestebett/Reisen_
-
-**Wer für wen:** Asthma-Betroffene plant Schlafplatz beim Uebernachten bei Freunden mit Katzen
-
-> "I don’t care what I sleep on, but I prefer to sleep in an environment where the cats so don’t spend a lot of time."
->
-> — **Jan (46, weiblich)** · HEXI / healthtalk (Universität Oxford) – Asthma · k. A. (Interview; veröffentlicht 2015, aktualisiert 2017) · [Managing asthma: adjusting medication and other self care strategies](https://hexi.ox.ac.uk/asthma/managing-asthma-adjusting-medication-and-other-self-care-strategies)  
-> `Q406` · Angle NEU · Glaube · Intensität ●●●○○ · ✔ verifiziert  
-> _Übernachtung bei Freunden mit Katzen: plant Schlafplatz. | Angle-Notiz: NEU: Gästebett/Übernachten bei Freunden; sekundär D_
-
-### Eltern ueber Hilfe der Kinder (9)
-
-**Wer für wen:** Mutter: Tochter erledigt seit Covid ihre gesamte Waesche; aus Schuldgefuehl wechselt sie nur alle 3 Wochen
+**Wer für wen:** Mutter: Tochter erledigt seit Covid ihre gesamte Wäsche; aus Schuldgefühl wechselt sie nur alle 3 Wochen
 
 > "since Covid my daughter has banned me using the communal laundry room, and insists on doing all my laundry. I hate adding to her already considerable domestic burdens, now go as much as three weeks changing bed linens and towels"
 >
@@ -4685,9 +3531,9 @@ Alle Zitate der Bank, in denen jemand für andere kauft, für andere das Bett ma
 >
 > — **Mrs Sue Thynne** · Trustpilot - The Fine Bedding Company · 2026-04-17 · [The duvet is absolutely beautiful](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=changing)  
 > `Q141` · Angle B · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne. Ueber 80, Beziehen sehr schwer; Tochter hat Produkt empfohlen. | Angle-Notiz: Alter / Tochter empfiehlt | Wer für wen: Tochter empfiehlt der ueber 80-jaehrigen Mutter die bezuglose Decke_
+> _5 Sterne. Über 80, Beziehen sehr schwer; Tochter hat Produkt empfohlen. | Angle-Notiz: Alter / Tochter empfiehlt | Wer für wen: Tochter empfiehlt der über 80-jährigen Mutter die bezuglose Decke_
 
-**Wer für wen:** Grossmutter laesst Enkel (grandsons) die Decke beziehen
+**Wer für wen:** Großmutter lässt Enkel (grandsons) die Decke beziehen
 
 > "I try and use two handy gadgets called grandsons, if I can. They have big long arms and are tall enough to wave the quilt into place."
 >
@@ -4695,13 +3541,13 @@ Alle Zitate der Bank, in denen jemand für andere kauft, für andere das Bett ma
 > `Q168` · Angle B · Gescheiterte Lösung · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
 > _Enkel als 'Gadgets' zum Beziehen. | Wer für wen: Enkel beziehen die Decke der Oma_
 
-**Wer für wen:** Mutter: Sohn schwaermt von seiner bezuglosen Decke (Empfehlung durch das Kind)
+**Wer für wen:** Mutter: Sohn schwärmt von seiner bezuglosen Decke (Empfehlung durch das Kind)
 
 > "My son has a coverless, (yes coverless), washable duvet which he raves about.…I hate changing the cover on our kingsize."
 >
 > — **ExDancer** · Gransnet · 30-Nov-2022 · [Duvets? And getting them laundered?](https://www.gransnet.com/forums/house_and_home/1318412-Duvets-And-getting-them-laundered)  
-> `Q145` · Angle B · Schmerz · Intensität ●●●●○ · ✔ verifiziert  
-> _Sohn schwärmt, sie hasst das Beziehen._
+> `Q145` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Sohn schwärmt, sie hasst das Beziehen. | Wer für wen: Mutter: Sohn schwärmt von seiner bezuglosen Decke (Empfehlung durch das Kind)_
 
 **Wer für wen:** Mutter braucht Sohn (DS2) zum Anheben der Matratze beim Beziehen
 
@@ -4719,7 +3565,7 @@ Alle Zitate der Bank, in denen jemand für andere kauft, für andere das Bett ma
 > `Q173` · Angle B · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
 > _Sohn kommt extra zum Beziehen. | Wer für wen: Sohn kommt vorbei, um das Bett der Mutter zu beziehen_
 
-**Wer für wen:** Grossmutter: Enkelin (GD) haengt die gewaschene Decke auf die Leine
+**Wer für wen:** Großmutter: Enkelin (GD) hängt die gewaschene Decke auf die Leine
 
 > "Yesterday being so hot I washed it, no problem in the washer, my GD put it over the washing line, it was completely dry and back on the bed in an hour."
 >
@@ -4727,97 +3573,21 @@ Alle Zitate der Bank, in denen jemand für andere kauft, für andere das Bett ma
 > `Q100` · Angle A · Wunsch · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
 > _Enkelin hängt die gewaschene Decke auf. | Wer für wen: Enkelin hilft beim Aufhängen der Decke_
 
-**Wer für wen:** Mutter mit Behinderung: 31-jaehriger Sohn bezog fuer sie, jetzt ist sie unabhaengig
+**Wer für wen:** Mutter mit Behinderung: 31-jähriger Sohn bezog für sie, jetzt ist sie unabhängig
 
 > "My DS1 was changing covers for me( he’s 31 and helps happily) so it’s nice not to rely on him."
 >
 > — **uncomfortablydumb60** · Mumsnet · 2025-05-20 · [Coverless duvet](https://www.mumsnet.com/talk/_chat/5338680-coverless-duvet)  
 > `Q200` · Angle B · Wunsch · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Sohn wechselte ihr die Bezuege; jetzt ist sie unabhaengig. | Wer für wen: 31-jaehriger Sohn bezog der Mutter (mit Behinderung) die Decke_
+> _Sohn wechselte ihr die Bezüge; jetzt ist sie unabhängig. | Wer für wen: 31-jähriger Sohn bezog der Mutter (mit Behinderung) die Decke_
 
-**Wer für wen:** Mutter: drei Soehne wuerden nachts sofort kommen, sie will aber nicht abhaengig sein
+**Wer für wen:** Mutter: drei Söhne würden nachts sofort kommen, sie will aber nicht abhängig sein
 
 > "I have 3 sons, who would jump in their cars in the middle of the night if I rang them"
 >
 > — **uncomfortablydumb60** · Mumsnet · 2025-05-20 · [Coverless duvet](https://www.mumsnet.com/talk/_chat/5338680-coverless-duvet)  
 > `Q407` · Angle NEU · Glaube · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Soehne wuerden jederzeit helfen - aber sie will nicht abhaengig sein. | Angle-Notiz: Geschenk/Hilfe erwachsener Kinder fuer Eltern | Wer für wen: erwachsene Soehne helfen der Mutter_
-
-### Sonstiges (5)
-
-**Wer für wen:** Freundin band ihr nachts Handschuhe gegen das Blutigkratzen an
-
-> "So my friend used to make me sleep in gloves just because for whatever reason, even having cut my nails, I’d find a way to wake her up from all the scratching because that's how raw my skin was so how loud the noise was. Really horrible for her but so she’d tie these gloves to my hands, so horrible to sleep in"
->
-> — **Molly (21, weiblich)** · HEXI / healthtalk (Universität Oxford) – Eczema (young people) · k. A. (Interview; Seite © 2024) · [Eczema symptoms: what does eczema look and feel like?](https://hexi.ox.ac.uk/eczema/eczema-symptoms-what-does-eczema-look-and-feel-like)  
-> `Q355` · Angle D · Gescheiterte Lösung · Intensität ●●●●● · ✔ verifiziert  
-> _Freundin band ihr nachts Handschuhe an._
-
-**Wer für wen:** Kundin mit Arthritis in den Haenden, laut Notiz half eine Freundin beim Falten des Bettwaesche-Sets
-
-> "I was mortified as I suffer from arthritis so my hands are no great."
->
-> — **Sandra** · Trustpilot - Dunelm · 2019-09-18 · [Was taking back a duvet set had it in…](https://uk.trustpilot.com/review/www.dunelm.com?search=arthritis)  
-> `Q156` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _1 Stern, Rueckgabe abgelehnt weil Bettwaesche-Set nicht korrekt gefaltet; Arthritis in den Haenden. | Wer für wen: Freundin hilft der Arthritis-Kundin, das Bettwaesche-Set zu falten_
-
-**Wer für wen:** Laesst die Decke ohne Bezug, wenn niemand zum Helfen da ist
-
-> "I have been known to leave the duvet coverless when there's no one here to help me fit it"
->
-> — **paomara** · Mumsnet · 2026-09-05 · [I'm sick of duvets](https://www.mumsnet.com/talk/housekeeping/5574955-im-sick-of-duvets?page=3)  
-> `Q175` · Angle B · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Laesst die Decke ohne Bezug, wenn niemand zum Helfen da ist. | Wer für wen: braucht Hilfe einer anderen Person zum Beziehen_
-
-**Wer für wen:** Angehoerige ueberlegt bezuglose Decke fuer aelteren, schwaecheren Verwandten
-
-> "Good to hear about these, I have an elderly relative who is a bit less strong and mobile now and… this sort of thing could be very useful!"
->
-> — **InteriorDesignHell** · Mumsnet · 2021-07-24 · [Coverless Duvets](https://www.mumsnet.com/talk/_chat/4304814-Coverless-Duvets)  
-> `Q408` · Angle NEU · Wunsch · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Ueberlegt bezuglose Decke fuer gebrechlichen Verwandten. | Angle-Notiz: Geschenk fuer aeltere Angehoerige | Wer für wen: Angehoerige ueberlegt Kauf fuer aelteren, schwaecheren Verwandten_
-
-**Wer für wen:** Synthetikdecke ist ersetzbar, wenn jemand anderes darauf krank war
-
-> "I can afford to replace a duvet that someone has been ill over without getting a loan!"
->
-> — **DigForVictory** · MoneySavingExpert Forum · 2015-02-06 · [Suitable duvet filling for sufferer of allergy to dust mites: is goose/duck down ok?](https://forums.moneysavingexpert.com/discussion/5170492/suitable-duvet-filling-for-sufferer-of-allergy-to-dust-mites-is-goose-duck-down-ok)  
-> `Q405` · Angle NEU · Glaube · Intensität ●●●○○ · ✔ verifiziert  
-> _Synthetikdecke ersetzbar, wenn jemand darauf krank war. | Angle-Notiz: NEU: Krankheit/Erbrechen im Bett; sekundär A_
-
-### Pflege/Putzhilfe (4)
-
-**Wer für wen:** Aelteres Paar: Putzfrau (cleaning lady) bezieht das Bett, weil es koerperlich nicht mehr geht
-
-> "How often? Don't ask. As we get older it becomes almost impossible physically.…We've improved now as we have a cleaning lady and she does it."
->
-> — **Fennel** · Gransnet · 25-Feb-2021 · [How often do you change your bedding ?](https://www.gransnet.com/forums/chat/1292261-How-often-do-you-change-your-bedding?pg=3)  
-> `Q114` · Angle B · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Im Alter körperlich fast unmöglich, Putzfrau übernimmt. | Wer für wen: Putzfrau bezieht das Bett für älteres Paar_
-
-**Wer für wen:** Schaemt sich, dass die Putzkraft die verschwitzten Laken anfassen muss
-
-> "I don't really want someone to have to deal with my sweaty shagged on sheets."
->
-> — **eurochick** · Mumsnet · 2016-06-11 · [To ask cleaner to change the bedding?](https://www.mumsnet.com/talk/am_i_being_unreasonable/2659348-To-ask-cleaner-to-change-the-bedding)  
-> `Q057` · Angle A · Einwand · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Scham: Putzkraft soll nicht die verschwitzten Laken anfassen. | Wer für wen: zieht selbst ab, Putzkraft bezieht_
-
-**Wer für wen:** Aeltere Frau: Putzfrau bezieht normalerweise, Urlaubsvertretung scheiterte
-
-> "I tried a flat sheet with my king-sized duvet cover, but it didn't work for me. My cleaner usually changes my bedding but she went on holiday for six weeks. Her replacement had no idea what to do so she did not return."
->
-> — **Charleygirl5** · Gransnet · 15-Sep-2025 · [Need a lie down!](https://www.gransnet.com/forums/chat/1351672-Need-a-lie-down)  
-> `Q171` · Angle B · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Laken-Workaround gescheitert, Putzhilfe bezieht. | Wer für wen: Putzfrau bezieht das Bett der 82-Jährigen_
-
-**Wer für wen:** Reinigungsdienst bezieht Betten nur fuer Alte und Gebrechliche (Stigma)
-
-> "oh we usually only do that for the old and frail"
->
-> — **indecisivedoctor** · Mumsnet · 2016-06-11 · [To ask cleaner to change the bedding?](https://www.mumsnet.com/talk/am_i_being_unreasonable/2659348-To-ask-cleaner-to-change-the-bedding)  
-> `Q190` · Angle B · Glaube · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _Putzfirma bezieht Betten normalerweise nur fuer Alte und Gebrechliche. | Angle-Notiz: Stigma: Hilfe beim Beziehen nur für Alte/Gebrechliche (Putzkraft) | Wer für wen: Reinigungsdienst bezieht Betten fuer Alte und Gebrechliche_
+> _Söhne würden jederzeit helfen - aber sie will nicht abhängig sein. | Angle-Notiz: Geschenk/Hilfe erwachsener Kinder für Eltern | Wer für wen: erwachsene Söhne helfen der Mutter_
 
 ### Geschenk (3)
 
@@ -4827,9 +3597,9 @@ Alle Zitate der Bank, in denen jemand für andere kauft, für andere das Bett ma
 >
 > — **Gretna Customer** · Trustpilot - The Fine Bedding Company · 2025-08-08 · [Good quality pleased with coverless…](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=mum)  
 > `Q159` · Angle B · Schmerz · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _4 Sterne. Mutter mit schmerzender Schulter kaempft mit normalen Decken. | Angle-Notiz: Geschenk fuer Mutter mit Schulterschmerzen | Wer für wen: Kind schenkt Mutter mit Schulterschmerzen eine bezuglose Decke_
+> _4 Sterne. Mutter mit schmerzender Schulter kämpft mit normalen Decken. | Angle-Notiz: Geschenk für Mutter mit Schulterschmerzen | Wer für wen: Kind schenkt Mutter mit Schulterschmerzen eine bezuglose Decke_
 
-**Wer für wen:** Krebspatient/in bekommt von der Schwiegerfamilie selbst genaehte Schlafsack-Laken gegen Nachtschweiss
+**Wer für wen:** Krebspatient/in bekommt von der Schwiegerfamilie selbst genähte Schlafsack-Laken gegen Nachtschweiß
 
 > "I put two additional sets of nightwear out and so would get throigh three per night. One of my in-laws, who had experience of family/friends with similar issues, brought me a set of six sheets that had been folded in half and sewn up ito make a sort of sleeping bag type afair"
 >
@@ -4837,13 +3607,214 @@ Alle Zitate der Bank, in denen jemand für andere kauft, für andere das Bett ma
 > `Q276` · Angle C · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
 > _Drei Schlafanzüge pro Nacht; Verwandte nähten Laken zu Schlafsäcken. | Angle-Notiz: Nachtschweiß durch Krebs; Angehörige helfen mit genähten Laken | Wer für wen: Schwiegerfamilie nähte/brachte Schlafsack-Laken für den Erkrankten_
 
-**Wer für wen:** Kind schenkt 80-jaehriger Mutter das Bettprodukt zu Weihnachten
+**Wer für wen:** Kind schenkt 80-jähriger Mutter das Bettprodukt zu Weihnachten
 
 > "I bought this for a Christmas present for my 80 year old mum. She loves it!"
 >
 > — **Deborah Broadbent** · Trustpilot - Silentnight · 2021-02-13 · [Cosy and compact](https://uk.trustpilot.com/review/shop.silentnight.co.uk?search=mum)  
 > `Q416` · Angle NEU · Wunsch · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
-> _5 Sterne, Weihnachtsgeschenk fuer 80-jaehrige Mutter. | Angle-Notiz: Geschenk fuer Eltern | Wer für wen: Tochter schenkt 80-jaehriger Mutter Bettprodukt_
+> _5 Sterne, Weihnachtsgeschenk für 80-jährige Mutter. | Angle-Notiz: Geschenk für Eltern | Wer für wen: Tochter schenkt 80-jähriger Mutter Bettprodukt_
+
+### Pflege/Putzhilfe (4)
+
+**Wer für wen:** Älteres Paar: Putzfrau (cleaning lady) bezieht das Bett, weil es körperlich nicht mehr geht
+
+> "How often? Don't ask. As we get older it becomes almost impossible physically.…We've improved now as we have a cleaning lady and she does it."
+>
+> — **Fennel** · Gransnet · 25-Feb-2021 · [How often do you change your bedding ?](https://www.gransnet.com/forums/chat/1292261-How-often-do-you-change-your-bedding?pg=3)  
+> `Q114` · Angle B · Schmerz · Intensität ●●●●● · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Im Alter körperlich fast unmöglich, Putzfrau übernimmt. | Wer für wen: Putzfrau bezieht das Bett für älteres Paar_
+
+**Wer für wen:** Schämt sich, dass die Putzkraft die verschwitzten Laken anfassen muss
+
+> "I don't really want someone to have to deal with my sweaty shagged on sheets."
+>
+> — **eurochick** · Mumsnet · 2016-06-11 · [To ask cleaner to change the bedding?](https://www.mumsnet.com/talk/am_i_being_unreasonable/2659348-To-ask-cleaner-to-change-the-bedding)  
+> `Q057` · Angle A · Einwand · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Scham: Putzkraft soll nicht die verschwitzten Laken anfassen. | Wer für wen: zieht selbst ab, Putzkraft bezieht_
+
+**Wer für wen:** Ältere Frau: Putzfrau bezieht normalerweise, Urlaubsvertretung scheiterte
+
+> "I tried a flat sheet with my king-sized duvet cover, but it didn't work for me. My cleaner usually changes my bedding but she went on holiday for six weeks. Her replacement had no idea what to do so she did not return."
+>
+> — **Charleygirl5** · Gransnet · 15-Sep-2025 · [Need a lie down!](https://www.gransnet.com/forums/chat/1351672-Need-a-lie-down)  
+> `Q171` · Angle B · Gescheiterte Lösung · Intensität ●●●●○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Laken-Workaround gescheitert, Putzhilfe bezieht. | Wer für wen: Putzfrau bezieht das Bett der 82-Jährigen_
+
+**Wer für wen:** Reinigungsdienst bezieht Betten nur für Alte und Gebrechliche (Stigma)
+
+> "oh we usually only do that for the old and frail"
+>
+> — **indecisivedoctor** · Mumsnet · 2016-06-11 · [To ask cleaner to change the bedding?](https://www.mumsnet.com/talk/am_i_being_unreasonable/2659348-To-ask-cleaner-to-change-the-bedding)  
+> `Q190` · Angle B · Glaube · Intensität ●●●○○ · 👥 Käufer≠Nutzer · ✔ verifiziert  
+> _Putzfirma bezieht Betten normalerweise nur für Alte und Gebrechliche. | Angle-Notiz: Stigma: Hilfe beim Beziehen nur für Alte/Gebrechliche (Putzkraft) | Wer für wen: Reinigungsdienst bezieht Betten für Alte und Gebrechliche_
+
+### Für Familie/Kinder (82)
+
+| ID | Wer für wen | Angle | Zitat | Quelle |
+|---|---|---|---|---|
+| `Q050` | Mutter wäscht und ersetzt Familien-Decken/Kissen wegen Erbrechen, braucht XL-Maschinen | A | „our pillows and duvets go in the wash as well due to vomit so I reguarly have to replace them as even expensive ones never retain their shape and allergic to fe…“ | [Netmums](https://www.netmums.com/coffeehouse/home-garden-194/cleaning-14/1683757-how-often-do-you-change-your-bedsheets-3.html) |
+| `Q136` | Mutter (1,60 m) bezieht die Etagenbetten der Söhne | B | „DS1 now on top bunk and DS2 on bottom has been for 2 weeks so 2 changes and what a nightmare it is. I'm only 5"3 so have to climb up the ladders and the lot! Li…“ | [Netmums](https://www.netmums.com/coffeehouse/other-chat-514/news-12/871792-fifth-us-only-change-our-bed-linen-once-month-4.html) |
+| `Q305` | Mutter sucht Anti-Allergie-Bettzeug für Sohn mit schwerem Ekzem (2x Krankenhaus) | D | „my son has really severe and chronic eczema and been hospitalised twice over the last 4 weeks“ | [MoneySavingExpert Forum](https://forums.moneysavingexpert.com/discussion/3582847/anti-allergy-bedding) |
+| `Q308` | Eltern über Tochter, die mit Blut auf Laken und Kleidung aufwacht (Ekzem) | D | „We've seen her wake up with blood on her sheets and clothes, and we've watched her become distressed because she simply can't escape the itching.“ | [Eczema UK (ehem. National Eczema Society)](https://www.eczema.org.uk/case-studies/jonathan-lydias-story) |
+| `Q312` | Elternteil findet Kleinkind mit Ekzem blutverschmiert im Bett | D | „Have not long ago got him up from nap and there was blood everywhere, all over his face hands clothes and sheet.“ | [Mumsnet](https://www.mumsnet.com/talk/allergies/1022589-I-don-t-know-who-I-m-more) |
+| `Q313` | Eltern werden 8-9 Mal pro Nacht von der blutig kratzenden Tochter geweckt | D | „we are woken 8-9 times a night from her crying from making herself bleed by scratching to apply cream and mop up blood.“ | [Mumsnet](https://www.mumsnet.com/talk/childrens_health/2309481-Eczema) |
+| `Q314` | Eltern über Blutflecken auf Laken und Schlafanzug der Tochter (DD) | D | „Our DD sheets and pyjamas have blood stains. It is horrible and we often feel helpless.“ | [Mumsnet](https://www.mumsnet.com/talk/sleep/4975360-child-eczema) |
+| `Q315` | Eltern wechseln das Bettzeug der Tochter nach nächtlichem Blutigkratzen | D | „Depends as she has eczema and ithes and makes herself bleed at night then gts changed.“ | [Netmums](https://www.netmums.com/coffeehouse/home-garden-194/cleaning-14/982287-changing-bedding-5.html) |
+| `Q316` | Mutter über Sohn (2) mit aufgekratztem Ekzem | D | „he completely scratched his shoulders, sides and belly. Scratches and scabs from the blood all over.“ | [Netmums](https://www.netmums.com/coffeehouse/being-mum-794/toddlers-1-3-years-59/442981-eczema-evil-itchiness.html) |
+| `Q317` | Mutter über Sohn (8) mit schwerem Ekzem | D | „my son often gets to this point, he often tells me he wishes he could rip his skin of and it breaks my heart“ | [Netmums](https://www.netmums.com/coffeehouse/being-mum-794/toddlers-1-3-years-59/442981-eczema-evil-itchiness.html) |
+| `Q318` | Mutter über Sohn (18 Monate), der sich jede Nacht blutig kratzt | D | „He scratches it until it bleeds through the night, every night-i have tried mittens but they dont stay on.“ | [Netmums](https://www.netmums.com/coffeehouse/drop-clinic-984/baby-child-health-989/543991-eczema-nightmare.html) |
+| `Q319` | Mutter verband Arm/Bein des Sohnes mit Duct Tape gegen das Kratzen | D | „there was more than once that i had to wrap a bit of arm or leg in a bandage and DUCT TAPE (!!!!) it on to stop in scratching at a patch that was already raw an…“ | [Netmums](https://www.netmums.com/coffeehouse/drop-clinic-984/baby-child-health-989/543991-eczema-nightmare-2.html) |
+| `Q320` | Mutter über Tochter (DD), als Baby wund und blutig gekratzt | D | „my DD was red raw and weeping over most of her body as a baby, making herself bleed through scratching“ | [Netmums](https://www.netmums.com/coffeehouse/drop-clinic-984/baby-child-health-989/655268-eczema-nightmare-please-3.html) |
+| `Q327` | Mutter über ihr Baby mit Ekzem (heartbreak) | D | „Watching your baby scratch before he could even properly hold a toy is something I’ll never forget. Living with eczema is hard. Watching your child live with it…“ | [Eczema UK (ehem. National Eczema Society)](https://www.eczema.org.uk/case-studies/a-lifetime-with-eczema) |
+| `Q328` | Elternteil über Sohn (4) mit nächtlichem Asthmahusten | D | „my 4yo suffers from night time asthma cough. He very rarely has any symptoms during the day but we are struggling to manage his night asthma cough which has bee…“ | [Asthma + Lung UK Community (HealthUnlocked)](https://healthunlocked.com/asthmalunguk-asthma/posts/132725979/air-purifier-for-night-asthma-cough) |
+| `Q329` | Mutter putzt das Zimmer des Sohnes (DS) gründlich, Schuldgefühl | D | „did ds's yesterday,and I mean reeeaaaly dust,walls ceiling everything.He was much better last night.Made me feel awful.“ | [Mumsnet](https://www.mumsnet.com/talk/housekeeping/274144-do-you-dust-your-asthmatic-childs-bedroom-everyday) |
+| `Q330` | Mutter wechselt täglich die blutigen Laken des Kindes | D | „I too am changing blood stained sheets everyday, it is very stressful.“ | [Mumsnet](https://www.mumsnet.com/talk/childrens_health/2309481-Eczema) |
+| `Q331` | Mutter über 2-jähriges Kind, das vor Juckreiz weint | D | „It's so awful, when my 2 year old is crying from the itch and you can't help.“ | [Netmums](https://www.netmums.com/coffeehouse/being-mum-794/toddlers-1-3-years-59/442981-eczema-evil-itchiness.html) |
+| `Q332` | Mutter über Tochter mit Ekzem | D | „All in all she is permanently sore, itchy, spotty, dry, bleeding etc“ | [Netmums](https://www.netmums.com/coffeehouse/drop-clinic-984/baby-child-health-989/543991-eczema-nightmare-2.html) |
+| `Q333` | Mutter wacht nachts über den asthmatischen Sohn | D | „It's quite scary to see him like this and he gets broken sleep all night and even when he asleep I don't as I'm watching him to make sure he takes that gasp.“ | [Netmums](https://www.netmums.com/coffeehouse/drop-clinic-984/baby-child-health-989/1035912-stuffy-nose-night-but-no-cold.html) |
+| `Q357` | Eltern für asthmatische Tochter (12 Klinikaufenthalte in 6 Monaten) | D | „She has been in hospital 12 times in 6 months for asthma attacks but the most recent was in the high dependancy unit for pneumonia. We have tried an air purifie…“ | [Netmums](https://www.netmums.com/coffeehouse/drop-clinic-984/baby-child-health-989/267279-asthma-bedding.html) |
+| `Q358` | Mutter für Tochter (4) mit nächtlichen Quaddeln, Bett komplett neu gewaschen | D | „She'd go to bed and 2 hours later be covered in hives and itching like amd - we did the whole stripping the bed , rewashing it in sensitive wash liquid etc , ch…“ | [Netmums](https://www.netmums.com/coffeehouse/being-mum-794/children-4-11-years-60/678878-6yr-old-dd-allergic-new-bed.html) |
+| `Q379` | Mutter für Sohn: will ALLES tun gegen den Husten | D | „That's ok I will do or spend ANYTHING to get rid of this cough!“ | [Asthma + Lung UK Community (HealthUnlocked)](https://healthunlocked.com/asthmalunguk-asthma/posts/134275309/dustmites-as-a-trigger) |
+| `Q381` | Mutter für asthmatische Tochter, zunehmende Klinikaufenthalte | D | „Will try anything to give her a better nights sleep though and the hospital trips seem to be getting worse and worse.“ | [Netmums](https://www.netmums.com/coffeehouse/drop-clinic-984/baby-child-health-989/267279-asthma-bedding.html) |
+| `Q035` | Mutter kauft neue Decke, wenn Kinder (oder Haustiere) sie verschmutzt haben | A | „So when the children/dog/cat has pissed/vomited/poohed on it I get a new one[blush]“ | [Mumsnet](https://www.mumsnet.com/talk/housekeeping/1027119-How-often-do-you-wash-your-duvet-and-how-do) |
+| `Q047` | Mutter wechselt laut Notiz 7 Betten der Familie alle 3 Tage | A | „I love fresh bed linen and the thought of dirty bedding makes my skin crawl“ | [Netmums](https://www.netmums.com/coffeehouse/other-chat-514/news-12/871792-fifth-us-only-change-our-bed-linen-once-month.html) |
+| `Q054` | Mutter wusch Decke nach Bettnässen des Kindes, klumpig, kaufte neue | A | „I remember years ago washing it and first it was hard to fit in the washing machine, second it was hard to dry outside this time of the year and then when it wa…“ | [Netmums](https://www.netmums.com/coffeehouse/being-mum-794/parenting-advice-192/1018439-washing-duvet.html) |
+| `Q098` | Mutter kauft waschbare Decke für das Bett des Sohnes | A | „I bought this for my son’s bed as I loved the idea of being able to wash the whole duvet weekly.“ | [Trustpilot](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=duvet&stars=1&page=3) |
+| `Q148` | Mutter ist die Einzige im Haushalt, die die Betten bezieht | B | „They are big and a huge faff and I'm the only one that does them, meaning if I don't get around to doing it …they just don't get done. 😕“ | [Mumsnet](https://www.mumsnet.com/talk/housekeeping/5574955-im-sick-of-duvets) |
+| `Q151` | Großmutter Ende 60 bezieht die Etagenbetten der Enkel | B | „Being in my late 60’s I’m finding making the bunk beds a challenge“ | [Mumsnet](https://www.mumsnet.com/talk/housekeeping/4254828-Coverless-Duvets-for-bunk-beds) |
+| `Q152` | Mutter bezieht die Hochbetten (mid sleepers) der Kinder | B | „I do the kids every 2-3 weeks unless they have a cold (in which case it's every few days!) as they have mid sleepers and I struggle to get them on and off! blas…“ | [Netmums](https://www.netmums.com/coffeehouse/other-chat-514/news-12/871792-fifth-us-only-change-our-bed-linen-once-month-2.html) |
+| `Q158` | Mutter kauft bezuglose Decke für (erwachsene) Tochter, die Beziehen hasst | B | „Initially we purchased a coverless duvet for my daughter who HATES changing her bed.“ | [Trustpilot](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=changing&page=3) |
+| `Q263` | Elternteil kauft Decken für die Kinder, ein Sohn schwitzt nachts stark | C | „One of the boys is a very sweaty sleeper and his new duvet is reducing the number of times he wakes up drenched in sweat“ | [Trustpilot](https://uk.trustpilot.com/review/www.soakandsleep.com?search=sweat) |
+| `Q264` | Kauf von 3 Schutzbezügen für schwitzenden jungen Mann (vermutlich Sohn) | C | „We trialled one of these like them so much we bought 3 young man no longer damp with sweat and they wash superbly“ | [Trustpilot](https://uk.trustpilot.com/review/www.soakandsleep.com?search=sweat) |
+| `Q279` | Mutter kauft Wolldecke für Sohn, der vorher 4 Lagen Decken brauchte | C | „As a result, he ended up with 4 layers of different blankets to keep himself comfortably warm.“ | [Trustpilot](https://uk.trustpilot.com/review/thewoolroom.com?search=allergy) |
+| `Q286` | Mutter wählt Tog-Stärke für die Kinderbetten | C | „4.5 tog will be freezing in all but a heatwave. My children would be sobbing with cold.“ | [Mumsnet](https://www.mumsnet.com/talk/housekeeping/4254828-Coverless-Duvets-for-bunk-beds) |
+| `Q323` | Großmutter wäscht neue Babybettwäsche des Enkels mit Weichspüler, Ausschlag | D | „My little baby grandson came out in an alarming rash, I had done his lovely new bedding in gentle washing detergent and fabric conditioner. It smelled like Spri…“ | [PMRGCAuk (HealthUnlocked)](https://healthunlocked.com/pmrgcauk/posts/139731634/itchy-skin-in-the-night.) |
+| `Q324` | Bezieht zweimal pro Woche die Betten des Haushalts (our beds) und klopft die Kissen aus | D | „I bang our pillows outside and hang them on the line in the sun. Amazing how much dust comes out even with protectors. I also shake the matress protectors out e…“ | [Asthma + Lung UK Community (HealthUnlocked)](https://healthunlocked.com/asthmalunguk-asthma/posts/132127828/mattress-pillow-protectors-from-dust-mites) |
+| `Q325` | Eltern: Tochter (6) wacht in der ersten Nacht im neuen Bett juckend auf | D | „last night as her first night in the new bed and she woke crying saying she was itchy all over.“ | [Netmums](https://www.netmums.com/coffeehouse/being-mum-794/children-4-11-years-60/678878-6yr-old-dd-allergic-new-bed.html) |
+| `Q334` | Mutter sucht Lösung (Bettzeug, Staubsauger) für Sohn mit nächtlichem Husten | D | „My son has had a cough when he gets into bed for 10 months now and is increasingly needing his blue inhaler after exercise.“ | [Asthma + Lung UK Community (HealthUnlocked)](https://healthunlocked.com/asthmalunguk-asthma/posts/134275309/dustmites-as-a-trigger) |
+| `Q335` | Mutter will die Symptome des Sohnes (8) lindern | D | „I want to try and do whatever I can to at least a alleviate his symptoms as it's just a constant weekly struggle.“ | [Asthma + Lung UK Community (HealthUnlocked)](https://healthunlocked.com/asthmalunguk-asthma/posts/134602598/humidifier-or-dehumidifier) |
+| `Q336` | Elternteil sucht Bettzeug für allergisches Kind, das nicht schlafen kann | D | „My kid suffers from allergies (blocked nose etc) cant sleep“ | [MoneySavingExpert Forum](https://forums.moneysavingexpert.com/discussion/6607784/allergies-using-bed-sheets-pillows-etc) |
+| `Q337` | Eltern über Baby mit multiplen Allergien | D | „We’ve spent months, and thousands of pounds, attending appointments, managing multiple allergies and changing almost every aspect of our daily lives.“ | [Eczema UK (ehem. National Eczema Society)](https://www.eczema.org.uk/case-studies/a-lifetime-with-eczema) |
+| `Q338` | Erwachsene Tochter: Vater pflegte sie nachts bei Ekzem | D | „My dad had the most prominent role in my eczema. He was always there to put my creams on for me, bathe me, come and sit with me in the middle of the night cos I…“ | [HEXI / healthtalk (Universität Oxford)](https://hexi.ox.ac.uk/eczema/family-life-and-eczema) |
+| `Q339` | Mutter über Sohn (4) mit enger Brust am Abend | D | „In the evening if he has a tight chest he gets manic and can't relax and go to sleep.“ | [Asthma + Lung UK Community (HealthUnlocked)](https://healthunlocked.com/asthmalunguk-asthma/posts/132065013/blue-and-brown-inhalers-not-enough-my-4-year-old-cant-sleep) |
+| `Q340` | Mutter über Sohn, Nerven am Ende | D | „My nerves are in shreds!!!“ | [Asthma + Lung UK Community (HealthUnlocked)](https://healthunlocked.com/asthmalunguk-asthma/posts/132065013/blue-and-brown-inhalers-not-enough-my-4-year-old-cant-sleep) |
+| `Q341` | Mutter über Sohn (3): die ganze Familie schläft nicht | D | „not only is he not sleeping but neither is anyone else in the family!!!“ | [Asthma + Lung UK Community (HealthUnlocked)](https://healthunlocked.com/asthmalunguk-asthma/posts/132065013/blue-and-brown-inhalers-not-enough-my-4-year-old-cant-sleep) |
+| `Q342` | Mutter pflegt asthmatische Tochter seit 18 Monaten | D | „And then, when she was eighteen months old she became asthmatic. She had some episodes where we were in hospital, and from then on my life wasn’t really my own.“ | [HEXI / healthtalk (Universität Oxford)](https://hexi.ox.ac.uk/asthma/childhood-onset-of-asthma) |
+| `Q343` | Mutter sucht Anti-Allergie-Bettzeug für Tochter (4) mit Ekzem und Asthma | D | „My daughter (age 4) suffers from eczema and asthma and it is alot more worse at night than throughout the day,“ | [MoneySavingExpert Forum](https://forums.moneysavingexpert.com/discussion/1263867/cheapest-and-most-effective-anti-allergy-bedding) |
+| `Q344` | Mutter über Kleinkind mit nächtlichem Husten | D | „my toddler sleeping and cough is getting worst even the inhaler is not doing much“ | [Mumsnet](https://www.mumsnet.com/talk/_chat/3459120-Dustmite-allergy-URGENT) |
+| `Q345` | Mutter über Tochter, niemand zum Fragen | D | „now my daughter condition is worst and I have no one to ask about advise“ | [Mumsnet](https://www.mumsnet.com/talk/_chat/3459120-Dustmite-allergy-URGENT) |
+| `Q346` | Mutter wäscht Bettwäsche der Tochter regelmäßig, sucht die Allergene | D | „But we wash sheets and linen regularly like everyone else so what are the allergens?“ | [Mumsnet](https://www.mumsnet.com/talk/allergies/4486383-Allergies) |
+| `Q347` | Mutter wäscht Bettzeug des Sohnes (Asthma/Milbenallergie) zweimal pro Woche | D | „I try to do the kids weekly, sometimes my Sons twice in the week as he has asthma and dust mite allergies but I'm always doing mine tomorrow or in the morning a…“ | [Netmums](https://www.netmums.com/coffeehouse/home-garden-194/cleaning-14/982287-changing-bedding.html) |
+| `Q348` | Mutter putzt für sich und die asthmatischen Kinder (littles) | D | „i wouldn't clean as often as i do but myself and littles have asthma and dust is dangerous to us so have to x“ | [Netmums](https://www.netmums.com/coffeehouse/home-garden-194/cleaning-14/982287-changing-bedding-4.html) |
+| `Q349` | Mutter wäscht das Bettzeug des jüngsten Sohnes (Asthma/Ekzem) alle 2 Tage | D | „my youngest son I do every 2 days he has asthma and eczema so I always keep his really clean and have to wash his without fabric conditioner.“ | [Netmums](https://www.netmums.com/coffeehouse/other-chat-514/news-12/871792-fifth-us-only-change-our-bed-linen-once-month-2.html) |
+| `Q351` | Großmutter kauft Woll-Bettzeug für Enkel mit Verdacht auf Synthetik-Allergie | D | „his parents thought he may have an allergy to man-made fibres,as very poor sleep very restless nights.“ | [Trustpilot](https://uk.trustpilot.com/review/thewoolroom.com?search=allergy) |
+| `Q352` | Mutter kauft Decke für Sohn mit Allergie | D | „For the first time my son sleeps well and is not too hot and his allergy seems a bit better when he's in bed.“ | [Trustpilot](https://uk.trustpilot.com/review/thewoolroom.com?search=allergy) |
+| `Q360` | Mutter für Tochter (DD): Laken regelmäßig gewechselt, Matratzenauflage gewaschen | D | „My DD also draws blood, have cut nails really short on a regular basis, changed sheets regularly/washed mattress pad …“ | [Mumsnet](https://www.mumsnet.com/talk/allergies/1022589-I-don-t-know-who-I-m-more) |
+| `Q361` | Mutter sucht Anti-Allergie-Bettwaren für Tochter | D | „We just have an electric air purifier that is meant to purify the air in the whole room. Never helped to be honest. think its time to try the bedding.“ | [Netmums](https://www.netmums.com/coffeehouse/drop-clinic-984/baby-child-health-989/267279-asthma-bedding.html) |
+| `Q362` | Mutter kauft Kissen für Sohn mit Ekzem, ersetzt sie alle paar Monate | D | „I used to get him the expensive pillows but when I washed them they would go all lumpy. Now I buy cheap ones and replace them every couple of months.“ | [Netmums](https://www.netmums.com/coffeehouse/drop-clinic-984/baby-child-health-989/267279-asthma-bedding.html) |
+| `Q363` | Mutter für Sohn (DS, fast 3) mit Ekzem, hält ihn nachts kühl | D | „I have to put my DS (nearly 3) to bed in the lightest clothes I can find and have a fan on most of the night to keep him cool as if he gets too hot thats when t…“ | [Netmums](https://www.netmums.com/coffeehouse/drop-clinic-984/baby-child-health-989/457161-15-month-old-has-severe-eczema-wakens-so-much-during-night.html) |
+| `Q375` | Mutter friert Bettzeug des asthmatischen Sohnes ein und wäscht alle 4 Tage | D | „Cot bedding-6 hours in chest freezer then washed every 4 days (my son has asthma) the freezing kills dust mites.....no i'm not insane, its a fact“ | [Netmums](https://www.netmums.com/coffeehouse/home-garden-194/cleaning-14/266145-how-often-do-you-change-your-bedding.html) |
+| `Q376` | Mutter für stark asthmatische Tochter (Emily), feste Putz-/Bettroutine | D | „As Emily is so badly asthmatic, I hate the thought of this, so my routine is hoover all the rooms, go back strip the beds and change sheets, then dust last of a…“ | [Netmums](https://www.netmums.com/coffeehouse/being-mum-794/parenting-advice-192/543346-how-often-do-you-change-your-child-rens-bedding.html) |
+| `Q384` | Mutter sucht Anti-Allergie-Bettwaren für Tochter mit Ekzem | D | „I have doubts that this will make a difference to her excema, but I am willing to try ANYTHING!“ | [Netmums](https://www.netmums.com/coffeehouse/drop-clinic-984/baby-child-health-989/374018-anti-allergy-bedding-cotbeds.html) |
+| `Q386` | Mutter kauft Anti-Allergie-Kissen für Tochter, Ekzem besser | D | „Cleared up her excema on neck and around eyes within a week, thankyou.“ | [Trustpilot](https://uk.trustpilot.com/review/shop.silentnight.co.uk?search=allergy) |
+| `Q387` | Großmutter kauft für Enkel; Eltern berichten von besserem Schlaf | D | „His parents told me he now sleeps well and no more coughing or runny nose,THANK YOU !!“ | [Trustpilot](https://uk.trustpilot.com/review/thewoolroom.com?search=allergy) |
+| `Q400` | Mutter kauft Kinderdecke und findet Chemikalien | NEU | „I was extremely disappointed to find this duvet contains highly toxic chemicals…“ | [Trustpilot](https://uk.trustpilot.com/review/shop.silentnight.co.uk?search=duvet&stars=1) |
+| `Q048` | Mutter wäscht Kinderdecke mindestens wöchentlich (Toilettentraining) | A | „…which I have to wash at least once a week (potty training).“ | [Mumsnet](https://www.mumsnet.com/talk/housekeeping/1027119-How-often-do-you-wash-your-duvet-and-how-do) |
+| `Q104` | Kauf einer zuhause waschbaren Decke für Allergiker im Haushalt | A | „So pleased I will be able to wash and dry the duvet at home without worrying about it.“ | [Trustpilot](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=allergy) |
+| `Q189` | Familie bezieht am Wochenende gemeinsam, nicht die Mutter allein | B | „Changing the sheets is a weekend, family activity.. Not something mum does on her own.“ | [Mumsnet](https://www.mumsnet.com/talk/housekeeping/5574955-im-sick-of-duvets?page=4) |
+| `Q367` | Mutter will für den Sohn Teppich, Allergie-Bettzeug und Staubsauger kaufen | D | „I wanted to know before I spend a small fortune on ripping his carpet out, new allergy bedding and new hoover etc.“ | [Asthma + Lung UK Community (HealthUnlocked)](https://healthunlocked.com/asthmalunguk-asthma/posts/134275309/dustmites-as-a-trigger) |
+| `Q368` | Mutter kauft Milbenschutzbezüge für Sohn | D | „the provent covers are not plastic but fabric and do not make any noise but we shall see!“ | [MoneySavingExpert Forum](https://forums.moneysavingexpert.com/discussion/3582847/anti-allergy-bedding) |
+| `Q369` | Mutter vergleicht Anti-Allergie-Bettzeug (GBP 6-80) für Tochter | D | „I have discovered that anti allergy bedding can help but know there is a large variety out there ranging from £6 - £80.“ | [MoneySavingExpert Forum](https://forums.moneysavingexpert.com/discussion/1263867/cheapest-and-most-effective-anti-allergy-bedding) |
+| `Q370` | Mutter über Produktwahl für ihre Kinder | D | „I dont think I would like to use virbac for my kids if its for animals, although I dont have fish“ | [MoneySavingExpert Forum](https://forums.moneysavingexpert.com/discussion/5374178/treat-dust-mites-protector-p-spray) |
+| `Q377` | Erwachsenes Kind: Mutter besteht seit der Kindheit auf Anti-Allergie-Bettzeug | D | „I use a general anti-allergy bedding, but I always have as I was a generally wheezy child so mum makes me anyway“ | [Asthma + Lung UK Community (HealthUnlocked)](https://healthunlocked.com/asthmalunguk-asthma/posts/132174169/anti-allergy-bedding) |
+| `Q378` | Mutter rät anderer Mutter, das Bettzeug des Kindes heiß zu waschen | D | „Other quick tips, wash all his bedding on a high temperature, and wash duvets and pillow regularly too, with non bio liquid. Regularly put teddies in plastic ba…“ | [Asthma + Lung UK Community (HealthUnlocked)](https://healthunlocked.com/asthmalunguk-asthma/posts/134602598/humidifier-or-dehumidifier) |
+| `Q392` | Mutter kauft für zwei autistische Kinder, die Bezüge abziehen | NEU | „I got them originally because both my children with ASD constantly removed their duvet covers!“ | [Mumsnet](https://www.mumsnet.com/talk/_chat/4304814-Coverless-Duvets?page=2) |
+| `Q393` | Mutter wäscht die Decke des bettnässenden Sohnes (DS) bei 60 Grad | NEU | „My DS is a bedwetter so I regularly wash his duvet at 60.“ | [Mumsnet](https://www.mumsnet.com/talk/housekeeping/2771269-do-you-wash-duvets) |
+| `Q394` | Mutter über Sohn, der Bezüge zerreißt | NEU | „One of my sons, for some unknown reason, literally breaks duvet covers and often ends up inside them.“ | [Mumsnet](https://www.mumsnet.com/talk/_chat/5424622-coverless-duvet-should-i-get-one) |
+| `Q413` | Mutter kauft für autistischen Sohn (DS), der Bezüge nicht mag | NEU | „We bought one for DS.  Absolutely brilliant, squashes right down and dries very quickly after washing. It is very soft and as he is autistic he doesn't like the…“ | [Mumsnet](https://www.mumsnet.com/talk/_chat/4304814-Coverless-Duvets) |
+| `Q414` | Mutter kauft auch für Sohn mit ASD | NEU | „This is exactly why i got one and my son who has ASD has one as well.“ | [Mumsnet](https://www.mumsnet.com/talk/_chat/5424622-coverless-duvet-should-i-get-one) |
+| `Q415` | Elternteil kauft Sohn eine dicke Decke für kalte Uni-Nächte | NEU | „he loves it so thick and warm get him though cold university nights“ | [Trustpilot](https://uk.trustpilot.com/review/www.dunelm.com?search=tog) |
+
+### Partner (50)
+
+| ID | Wer für wen | Angle | Zitat | Quelle |
+|---|---|---|---|---|
+| `Q008` | Ehefrau wechselt alle paar Tage die Laken wegen des Nachtschweiß-Geruchs ihres Mannes | A | „I have had to change the sheets every few days, and i even have a waterproof mattress protector on. Sometimes it wakes me in the night when my husband moves as …“ | [Netmums](https://www.netmums.com/coffeehouse/health-wellbeing-1087/health-advice-756/901515-night-sweats-sorry-tmi.html) |
+| `Q009` | Ehefrau bezieht das Bett des schwitzenden Mannes, würgt dabei und verschweigt es ihm | A | „I can't bare to tell him that changing the sheets sometimes makes me gag.“ | [Netmums](https://www.netmums.com/coffeehouse/health-wellbeing-1087/health-advice-756/901515-night-sweats-sorry-tmi.html) |
+| `Q013` | Partnerin vor dem gemeinsamen Bett: seine Hälfte vergilbt, Hygienelast liegt implizit bei ihr | A | „Men are gross. Am stood looking at the bed now and there is literally a line down the middle dividing the lovely white side and the rancid, stained side.“ | [Mumsnet](https://www.mumsnet.com/talk/housekeeping/2150674-Need-help-removing-gross-yellow-stains-from-DPs-pillow-cases) |
+| `Q014` | Partnerin über die schweißnasse, stinkende Betthälfte des Partners | A | „he makes the whole of his side of the bed saturated with sweat and it smells horrible!“ | [Mumsnet](https://www.mumsnet.com/talk/housekeeping/2150674-Need-help-removing-gross-yellow-stains-from-DPs-pillow-cases?page=2) |
+| `Q038` | Partnerin ekelt sich vor dem Schweiß des Partners in der gemeinsamen Decke | A | „I could not stand the thought of his miasma gestating as long as a human baby in the duvet.“ | [Mumsnet](https://www.mumsnet.com/talk/housekeeping/1027119-How-often-do-you-wash-your-duvet-and-how-do) |
+| `Q040` | Partnerin wäscht für nächtlich stark schwitzenden Partner (DP) | A | „DP is incredibly sweaty in the night and I am f*cking sick of him ruining…“ | [Mumsnet](https://www.mumsnet.com/talk/housekeeping/2150674-Need-help-removing-gross-yellow-stains-from-DPs-pillow-cases) |
+| `Q041` | Partnerin wäscht regelmäßig, seine Seite wird trotzdem gelb | A | „Everything ends up yellow on his side despite me washing it very regularly - I can't wash it every sodding day!!!“ | [Mumsnet](https://www.mumsnet.com/talk/housekeeping/2150674-Need-help-removing-gross-yellow-stains-from-DPs-pillow-cases) |
+| `Q042` | Partnerin bezieht/wäscht für Partner, ihr wird beim Anblick seiner Bettwäsche übel | A | „Guess I don't have to sleep on them but it makes me want to heave just looking at them.“ | [Mumsnet](https://www.mumsnet.com/talk/housekeeping/2150674-Need-help-removing-gross-yellow-stains-from-DPs-pillow-cases) |
+| `Q105` | Ehefrau wartete nicht auf die übliche Hilfe des Mannes bei der tiefen Matratze, Rückenverletzung | B | „I couldn’t be bothered to wait for my husband’s usual help with our deep mattress and really injured my back. That was about 15 months and numerous physio visit…“ | [Gransnet](https://www.gransnet.com/forums/chat/1252960-Fitted-bed-sheets?pg=2) |
+| `Q106` | Schwangere bricht in Tränen aus, Partner (DP) muss das Bett für sie beziehen | B | „Okay no I didn't, I sat on the end of the bed and collapsed in floods of tears and had to call for DP to come and rescue me and change the sheets for me.“ | [Mumsnet](https://www.mumsnet.com/talk/am_i_being_unreasonable/2487924-To-burn-all-bedsheets-and-sleep-in-a-sleeping-bag-for-ever) |
+| `Q107` | Ehemann (DH) übernimmt in der Spätschwangerschaft das gesamte Beziehen | B | „During the last few weeks of pregnancy with DS2, DH had to take over all bed changing duties, after more than one occasion where I was reduced to either hysteri…“ | [Mumsnet](https://www.mumsnet.com/talk/am_i_being_unreasonable/2487924-To-burn-all-bedsheets-and-sleep-in-a-sleeping-bag-for-ever) |
+| `Q118` | Paar mit Hüfte/RSI bzw. Rücken/Schulter bezieht nur gemeinsam | B | „changing the bed in our house is a major job! i have hip problems plus very bad RSI in my wrists so really struggle, my partner has a bad back and shoulder so b…“ | [Gransnet](https://www.gransnet.com/forums/chat/1351672-Need-a-lie-down?pg=2) |
+| `Q119` | Witwe: früher mit dem Mann gemeinsam bezogen, allein ist die Super-King-Decke eine Tortur | B | „I stil use the super king bed needed when mr I was here. We would change the bedding together. I find doing it alone a trial. Managing to put the sheets on, the…“ | [Gransnet](https://www.gransnet.com/forums/chat/1351672-Need-a-lie-down?pg=3) |
+| `Q122` | Ehefrau mit Arthritis muss weiterhin die Decke des behinderten Mannes beziehen | B | „Nothing works if you’ve got arthritis in the shoulders and hands as I have! So I’ve gone back to sheet and blanket/s , my husband is sticking with duvet so as h…“ | [Gransnet](https://www.gransnet.com/forums/house_and_home/1312564-For-easier-duvet-cover-changing-I-ve-just-ordered-some-of-these?pg=2) |
+| `Q126` | Witwe: Beziehen der Decke war Aufgabe des verstorbenen Mannes | B | „It was my late husbands job to do the duvet.“ | [Mumsnet](https://www.mumsnet.com/talk/housekeeping/5286934-how-difficult-do-you-find-changing-your-bed) |
+| `Q135` | Kleine Frau, Ehemann im Ausland: großes Bett allein zu beziehen kaum machbar | B | „it's REALLY difficult to change a bed this size on your own (I'm only dinky) and my husband is out of the country. Take's me a good month to recover from gettin…“ | [Netmums](https://www.netmums.com/coffeehouse/other-chat-514/news-12/871792-fifth-us-only-change-our-bed-linen-once-month-3.html) |
+| `Q139` | Kleine, alleinstehende Frau: kein Mann da, der beim Beziehen hilft | B | „its my WORST job. im only a wee person and getting the duvet cover onto the duvet is the bane of my life! not exaclty got a man to do it.... do men even do that…“ | [Netmums](https://www.netmums.com/coffeehouse/home-garden-194/cleaning-14/168024-bed-linen-how-often-do-you-change.html) |
+| `Q166` | Frau mit schmerzenden Händen, keine Hilfe vom Mann (hubby), zurück zu Laken/Wolldecken | B | „I can’t stuff the duvets into the covers anymore because of painful hands( no help from hubby)...so I’ve gone back to sheets and blankets.“ | [Gransnet](https://www.gransnet.com/forums/house_and_home/1253756-Having-my-duvet-laundered?pg=2) |
+| `Q207` | Frau (Brustkrebs, therapiebedingte Wechseljahre) kauft, auch der Ehemann wachte im Nassen auf | C | „They weren’t cheap, and I was worried about sending off my money- but I was getting desperate, and so was husband, who was waking up in a swamp too.“ | [Breast Cancer Now Forum](https://forum.breastcancernow.org/t/any-suggestions-about-night-sweats/11516) |
+| `Q231` | Verlobte wechselt täglich die Laken des schwitzenden Partners | C | „since xmas it has been so much im having to change the sheets every day, the sweat smells like vinegar & is staining the sheets, duvet & pillows!“ | [Netmums](https://www.netmums.com/coffeehouse/health-wellbeing-1087/health-advice-756/807393-my-boyfriend-his-night-sweats.html) |
+| `Q233` | Ehefrau wacht im Schweiß des Mannes auf, gemeinsames Bettzeug ruiniert | C | „my husband is the same. I wake up soaking in his sweat. the bedding is ruined the mattress is stained. its horrible“ | [Netmums](https://www.netmums.com/coffeehouse/health-wellbeing-1087/health-advice-756/807393-my-boyfriend-his-night-sweats.html) |
+| `Q322` | Kauf für das gemeinsame Bett, Matratze löst Asthma des Partners aus (Krankenhaus) | D | „I am leaving a 1-star review as the Simba mattress put my partner in hospital as it triggered his asthma…“ | [Trustpilot](https://uk.trustpilot.com/review/simbasleep.com?search=asthma) |
+| `Q036` | Ehefrau wäscht Bettwäsche wegen des Mannes (Schweißer, schwarzer Körperabdruck) | A | „Oh is a welder and even after a 40 minute shower he still leaves a black body print on our bedding so I hate it!!“ | [Netmums](https://www.netmums.com/coffeehouse/other-chat-514/news-12/871792-fifth-us-only-change-our-bed-linen-once-month-3.html) |
+| `Q037` | Partnerin wechselt die Bettwäsche nach Bier-/Curry-Schweiß des Partners (OH) | A | „And if my OH has been out drinking or has eaten a curry it gets changed the morning after because the linen stinks of his beery/curry sweat! 🤢“ | [Netmums](https://www.netmums.com/coffeehouse/home-garden-194/cleaning-14/1683757-how-often-do-you-change-your-bedsheets-5.html) |
+| `Q043` | Ehefrau kümmert sich um die Kissen des Mannes (DH), Schweißflecken trotz Schutzbezug | A | „DH's pillows have a papery protective cover … and still he stains them with sweat.“ | [MoneySavingExpert Forum](https://forums.moneysavingexpert.com/discussion/6658261/washing-own-duvets-and-pillows) |
+| `Q045` | Ehefrau managt Kissenschutz gegen Schweiß- und Haargeruch des Mannes (DH) | A | „so even DH's sweat and oily hair smell don't usually get through.…What is it about men that makes their pillows get so smelly?“ | [Gransnet](https://www.gransnet.com/forums/ask_a_gran/1314095-Washing-pillows?pg=3) |
+| `Q046` | Kind berichtet: Mutter wusch ständig die Bettwäsche des Vaters (später Lymphom-Diagnose) | A | „my dad had this few years ago, my mum kept moaning bout having to wash bedding all the time, turned out he had lymphoma.“ | [Netmums](https://www.netmums.com/coffeehouse/health-wellbeing-1087/health-advice-756/901515-night-sweats-sorry-tmi.html) |
+| `Q109` | Ehemann bezog einmal die King-Size-Decke, unter lautem Protest, und weigert sich seitdem | B | „Mine flatly refuses Millie!! I got him to change our kingsize one once and you wouldn’t believe all the huffing and puffing coming from upstairs!! And this is a…“ | [Gransnet](https://www.gransnet.com/forums/chat/1280513-Changing-the-duvet-cover?pg=2) |
+| `Q111` | Ehemann findet hochschwangere Frau weinend beim Aufziehen des Laken | B | „When I was heavily pregnant my husband came home to find me sobbing while attempting to get the waterproof sheet (homebirth) to stay on the corners of the mattr…“ | [Mumsnet](https://www.mumsnet.com/talk/am_i_being_unreasonable/2487924-To-burn-all-bedsheets-and-sleep-in-a-sleeping-bag-for-ever) |
+| `Q143` | Ehefrau über Ehemann nach Schlaganfall, der mit den Knöpfen am Bezug kämpft | B | „My DH had a stroke three and a half years ago. I always let him deal with the duvet cover coming off for a wash and ours have buttons, he finds them incredibly …“ | [Gransnet](https://www.gransnet.com/forums/house_and_home/1300560-Duvet-Covers-which-do-you-prefer-buttons-or-poppers) |
+| `Q144` | Frau kann allein nicht beziehen, muss Ehemann (DH) zum Helfen überreden | B | „Can’t change the duvet cover by myself so have to persuade DH to help“ | [Gransnet](https://www.gransnet.com/forums/chat/1292261-How-often-do-you-change-your-bedding?pg=5) |
+| `Q146` | Ehemann (DH) bezieht, wenn ihr Rücken streikt | B | „My back is completely out atm, so I can only rustle DH to do this chore twice monthly rather than my normal weekly change of bedding.“ | [Gransnet](https://www.gransnet.com/forums/house_and_home/1312564-For-easier-duvet-cover-changing-I-ve-just-ordered-some-of-these?pg=2) |
+| `Q147` | Ehemann (DH) bezieht, weil sie Arthritis in den Fingern hat | B | „I’ve got arthritis in my fingers so can’t change covers easily now although DH does it obviously.…It was a total revelation to me!“ | [Gransnet](https://www.gransnet.com/forums/house_and_home/1316798-Coverless-duvets) |
+| `Q150` | Partnerin ärgert sich, dass sie die Bezüge für beide wechselt | B | „Does slightly piss me off that I will end up sorting it out and taking the cases on and off despite…“ | [Mumsnet](https://www.mumsnet.com/talk/housekeeping/2150674-Need-help-removing-gross-yellow-stains-from-DPs-pillow-cases) |
+| `Q153` | Ehemann (DH) zieht die Bezüge auf, weil sie zu klein ist | B | „DH puts the duvets into the covers as I can't seem to do it as I am such a shorty.“ | [Netmums](https://www.netmums.com/coffeehouse/other-chat-514/news-12/871792-fifth-us-only-change-our-bed-linen-once-month-8.html) |
+| `Q154` | Ehemann (DH) bezieht jeden Sonntag, sie hilft beim Bezug | B | „This is DH job in our house and he does it without fail every Sunday. I help him get the quilt cover on though as (it's easier with two)“ | [Netmums](https://www.netmums.com/coffeehouse/home-garden-194/cleaning-14/1845811-how-often-do-you-really-change-your-sheets.html) |
+| `Q155` | Partner wartet darauf, dass sie sein Bett bezieht | B | „He's just waiting for me to do it for him but I already have quite enough to do, if he wants to wallow in his own filth that's his choice!!“ | [Netmums](https://www.netmums.com/coffeehouse/home-garden-194/cleaning-14/1149519-bed-sheets-true-3.html) |
+| `Q162` | Ehefrau kauft, weil der Mann seit Jahren mit dem Bezug kämpft | B | „My husband has struggled for years with putting the duvet in its cover“ | [Trustpilot](https://uk.trustpilot.com/review/www.finebedding.co.uk?search=changing&page=4) |
+| `Q170` | Witwe: verstorbener Mann half beim Beziehen der King-Size-Decke | B | „I have a king size duvet. I used to get the late Mr Marmight to help but in his absence I tried the rolling method but kept forgetting how to do it“ | [Gransnet](https://www.gransnet.com/forums/chat/1280513-Changing-the-duvet-cover?pg=2) |
+| `Q187` | Ehefrau: ohne den helfenden Ehemann würde sie auf ein Einzelbett umsteigen | B | „If my husband dies before me I think I'm going to get a single bed. I can sleep quite happily in one.“ | [Mumsnet](https://www.mumsnet.com/talk/housekeeping/5286934-how-difficult-do-you-find-changing-your-bed) |
+| `Q261` | Ehefrau kauft Kissen für den Mann, der schweißgebadet aufwacht | C | „after a couple of nights he wakes up drenched in sweat from the pillow“ | [Trustpilot](https://uk.trustpilot.com/review/www.dunelm.com?search=sweat) |
+| `Q262` | Frau kauft Kissen für stark schwitzenden Partner (other half) | C | „My other half sweats a lot in bed and this pillow ends up wet through.“ | [Trustpilot](https://uk.trustpilot.com/review/simbasleep.com?search=sweats) |
+| `Q277` | Ehefrau wechselt ständig die Laken wegen des Nachtschweiß des Mannes | C | „its my husband who gets this! im constantly changing sheets and have put a towel under the bottom sheet to stop it going into the matress...“ | [Netmums](https://www.netmums.com/coffeehouse/health-wellbeing-1087/health-advice-756/725332-excessive-sweating-night-should-i-go-doctor.html) |
+| `Q278` | Mann kauft Decke für peri-menopausale Partnerin gegen Hitzewallungen (enttäuscht) | C | „…my partner is peri menopausal, the duvet was bought with the claim to help remove hot flushes…“ | [Trustpilot](https://uk.trustpilot.com/review/simbasleep.com?search=menopause) |
+| `Q350` | Kauf für das gemeinsame Bett, Freund (boyfriend) ist Allergiker | D | „Previously, I hadn't been sleeping well and my boyfriend was prone to sneezing and getting bunged up due to allergies.“ | [Trustpilot](https://uk.trustpilot.com/review/emma-sleep.co.uk?search=allergy) |
+| `Q359` | Blinder Ehemann kauft Decke für allergische Ehefrau, trotz Beratung falsche Füllung | D | „Even asking a salesperson for help, as hubby did, we still were sold a quilt with micro. They don't know and apparently can't read. He has the excuse that he's …“ | [Asthma + Lung UK Community (HealthUnlocked)](https://healthunlocked.com/asthmalunguk-asthma/posts/140634095/microfibre-allergy) |
+| `Q397` | Frau kauft Super-King-Decke, weil der Partner (him indoors) ihr die Decke klaut | NEU | „I purchased a super king duvet because I was sick of him indoors turning over and pinching it.“ | [Trustpilot](https://uk.trustpilot.com/review/shop.silentnight.co.uk?search=duvet&stars=3) |
+| `Q412` | Ehefrau kauft nach schwerer Krankheit und Klinikaufenthalt des Mannes | NEU | „bought Scooms following my husband’s serious illness and extended hospital stay…“ | [Trustpilot](https://uk.trustpilot.com/review/scooms.com?search=duvet) |
+| `Q188` | Ehepaar bezieht Doppel-/King-Decken nur gemeinsam | B | „All double/kingsize duvet changing is a 2 man/woman job, with DH and I working in concert.“ | [Gransnet](https://www.gransnet.com/forums/house_and_home/1261612-Duvet-covers?pg=2) |
+| `Q418` | Ehefrau über kranken Mann, der sich nach der Klinik auf Schlaf zuhause freute | NEU | „he couldn’t wait to get home to a decent night’s sleep.“ | [Trustpilot](https://uk.trustpilot.com/review/scooms.com?search=duvet) |
+
+### Gäste (10)
+
+| ID | Wer für wen | Angle | Zitat | Quelle |
+|---|---|---|---|---|
+| `Q010` | Übernachtungsgast über das Gästebett bei Verwandten: Bezugrand riecht nach Achsel | A | „whenever we’ve stayed at their house the edge of the duvet cover smells of armpit.“ | [Mumsnet](https://www.mumsnet.com/talk/housekeeping/5574955-im-sick-of-duvets?page=5) |
+| `Q011` | Mutter über Gästebett bei den Schwiegereltern: Kopf des Sohnes riecht nach dem Schwiegervater (FIL) | A | „DS's dear little head stinks like FIL's 3-day unwashed armpit.“ | [Mumsnet](https://www.mumsnet.com/talk/am_i_being_unreasonable/3652416-AIBU-PIL-smelly-sheets) |
+| `Q012` | Übernachtungsgast bei Schwiegereltern: Gästebett riecht nachts nach dem Schwiegervater | A | „The bed started to stink during the night, it smells of sweaty FIL, who's lovely but doesn't wash enough.“ | [Mumsnet](https://www.mumsnet.com/talk/am_i_being_unreasonable/3652416-AIBU-PIL-smelly-sheets) |
+| `Q018` | Stiefmutter legte das Kind ins ungewechselte, blutverschmierte Gästebett | A | „my step mum had obviously slept in it whilst on her period... and bled all over the sheets... but to make it even worse she left the sheets on for me to sleep i…“ | [Netmums](https://www.netmums.com/coffeehouse/other-chat-514/news-12/871792-fifth-us-only-change-our-bed-linen-once-month-5.html) |
+| `Q049` | Bezuglose Decke für Familienbesuch/Gästebett gekauft, Wäsche kostete fast so viel wie die Decke | A | „What a mistake, you're supposed to use them with a sheet, well that got taken off, getting tangled, so duvet used without, then had to try and wash, too big for…“ | [Gransnet](https://www.gransnet.com/forums/ask_a_gran/1345188-Coverless-Duvets) |
+| `Q082` | 50 Jahre alte Decke noch als Gästedecke (spare) im Einsatz | A | „I have one which is around 50 years old and still in occasional use as a spare. Yes really.“ | [Mumsnet](https://www.mumsnet.com/talk/_chat/5430163-how-often-do-you-replace-your-duvet) |
+| `Q172` | Mutter lässt erwachsene Kinder bei Besuch ihre Gästebetten selbst beziehen | B | „I struggle with duvets. I'm afraid if my adult children come to stay I strip beds and wash the covers but let them remake them when they arrive.…never the duvet…“ | [Gransnet](https://www.gransnet.com/forums/chat/1351672-Need-a-lie-down?pg=3) |
+| `Q404` | Ekzem-Betroffene bringt auf Reisen eigenes Bettzeug mit (Waschmittel der Gastgeber) | NEU | „For example, when I go away from home, I bring my own bedding so I know I won’t be exposed to bio laundry detergents and fragrances that I am sensitive to.“ | [Eczema UK (ehem. National Eczema Society)](https://www.eczema.org.uk/case-studies/oscars-story) |
+| `Q401` | Besucher können eigene Decken und Kissen nicht mitbringen (Gästebett) | NEU | „We can't possibly carry duvets and pillows with us.“ | [Mumsnet](https://www.mumsnet.com/talk/am_i_being_unreasonable/3652416-AIBU-PIL-smelly-sheets) |
+| `Q406` | Asthma-Betroffene plant Schlafplatz beim Übernachten bei Freunden mit Katzen | NEU | „I don’t care what I sleep on, but I prefer to sleep in an environment where the cats so don’t spend a lot of time.“ | [HEXI / healthtalk (Universität Oxford)](https://hexi.ox.ac.uk/asthma/managing-asthma-adjusting-medication-and-other-self-care-strategies) |
+
+### Sonstiges (5)
+
+| ID | Wer für wen | Angle | Zitat | Quelle |
+|---|---|---|---|---|
+| `Q355` | Freundin band ihr nachts Handschuhe gegen das Blutigkratzen an | D | „So my friend used to make me sleep in gloves just because for whatever reason, even having cut my nails, I’d find a way to wake her up from all the scratching b…“ | [HEXI / healthtalk (Universität Oxford)](https://hexi.ox.ac.uk/eczema/eczema-symptoms-what-does-eczema-look-and-feel-like) |
+| `Q156` | Kundin mit Arthritis in den Händen, laut Notiz half eine Freundin beim Falten des Bettwäsche-Sets | B | „I was mortified as I suffer from arthritis so my hands are no great.“ | [Trustpilot](https://uk.trustpilot.com/review/www.dunelm.com?search=arthritis) |
+| `Q175` | Lässt die Decke ohne Bezug, wenn niemand zum Helfen da ist | B | „I have been known to leave the duvet coverless when there's no one here to help me fit it“ | [Mumsnet](https://www.mumsnet.com/talk/housekeeping/5574955-im-sick-of-duvets?page=3) |
+| `Q408` | Angehörige überlegt bezuglose Decke für älteren, schwächeren Verwandten | NEU | „Good to hear about these, I have an elderly relative who is a bit less strong and mobile now and… this sort of thing could be very useful!“ | [Mumsnet](https://www.mumsnet.com/talk/_chat/4304814-Coverless-Duvets) |
+| `Q405` | Synthetikdecke ist ersetzbar, wenn jemand anderes darauf krank war | NEU | „I can afford to replace a duvet that someone has been ill over without getting a loan!“ | [MoneySavingExpert Forum](https://forums.moneysavingexpert.com/discussion/5170492/suitable-duvet-filling-for-sufferer-of-allergy-to-dust-mites-is-goose-duck-down-ok) |
 
 ## 8. Neue Angles
 
@@ -5259,7 +4230,7 @@ Alle Threads und Bewertungsseiten, aus denen verifizierte Zitate stammen. „Ban
 | Emma | [uk.trustpilot.com/review/emma-sleep.co.uk](https://uk.trustpilot.com/review/emma-sleep.co.uk) | 6 | 45 |
 | Woolroom | [uk.trustpilot.com/review/thewoolroom.com](https://uk.trustpilot.com/review/thewoolroom.com) | 5 | 40 |
 | Soak&Sleep | [uk.trustpilot.com/review/www.soakandsleep.com](https://uk.trustpilot.com/review/www.soakandsleep.com) | 5 | 39 |
-| Silentnight | [uk.trustpilot.com/review/shop.silentnight.co.uk](https://uk.trustpilot.com/review/shop.silentnight.co.uk) | 15 | 32 |
+| Silentnight | [uk.trustpilot.com/review/shop.silentnight.co.uk](https://uk.trustpilot.com/review/shop.silentnight.co.uk) | 14 | 32 |
 | Panda London | [uk.trustpilot.com/review/www.pandalondon.com](https://uk.trustpilot.com/review/www.pandalondon.com) | 1 | 16 |
 | Ethical Bedding | [uk.trustpilot.com/review/ethicalbedding.com](https://uk.trustpilot.com/review/ethicalbedding.com) | 0 | 9 |
 | Scooms | [uk.trustpilot.com/review/scooms.com](https://uk.trustpilot.com/review/scooms.com) | 2 | 9 |
