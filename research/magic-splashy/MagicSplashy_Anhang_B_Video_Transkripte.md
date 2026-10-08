@@ -784,6 +784,12 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 
 > You
 
+> **Bildtext (Keyframes, DE):** „Nie wieder Bettbeziehen.“ · ✓ Alles waschbar · ✓ In 2 Stunden trocken · ✓ Für Allergiker geeignet · letzten Stückzahlen auf Lager · Nur noch bis Freitag · 2 Kissenbezüge GRATIS zu jeder Decke · GRATIS Bundle sichern · “Ich hab Bettwäsche gestrichen.” · Decke + Bezug in EINEM. · ✅ komplett waschbar · ✅ schnell trocknend · Ein Bett wie im Hotel. Jeden Tag. · ✓ Kein nerviges Beziehen mehr · ✓ täglich gleicher Look
+>
+> **EN:** “Never put on bedding again.” · ✓ Everything washable · ✓ Dry in 2 hours · ✓ Suitable for allergy sufferers · last units in stock · Only until Friday · 2 pillowcases FREE with every duvet · Secure your FREE bundle · “I've cut out bed linen.” · Duvet + cover in ONE. · ✅ fully washable · ✅ quick-drying · A bed like in a hotel. Every day. · ✓ No more annoying cover-changing · ✓ same look every day
+>
+> *Bild:* Slideshow aus 4 Statics: anthrazit Flatlay, 4-Farben-Raster (beige, rot, blau, anthrazit), schwarzes Bett, blaues Bett; Musik, keine Personen.
+
 ## VID099
 - Ads (2): 117338194, 117338176
 - aktiv: 0 · Winner/Starker Kandidat/Neuer Test/Verlierer: 0/1/0/1 · längste Laufzeit 8 Tage · EU-Reichweite gesamt 39.540 · Länge [39] s · Starts 2026-06-05 – 2026-06-05 · LPs: /products/easysleep-decke
@@ -1006,6 +1012,12 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 
 > ឌំះ ឌំះៃះេំ។ Music
 
+> **Bildtext (Keyframes, DE):** Du duschst dich jeden Abend.. · Und legst dich dann unter deine ungewaschene Bettdecke. 🤢 · ❌ Jede Woche mit Bettwäsche kämpfen. · Bezug abziehen. Ecken suchen. 😕 · Füllung verrutscht. Wieder von vorne. · Die EasySleep ist Decke und Bezug in einem. · Keine Bettwäsche mehr. 😍 · Einfach komplett in die Maschine. 🧼 · Nicht nur die Hülle. Wirklich alles. 👍 · Passt in jede normale Waschmaschine. ✅ · In zwei Stunden trocken. Ohne Trockner. ⏰ · Und dann noch das: · Klimafasern, die sich automatisch an deine Körpertemperatur anpassen. 😴 · Im Sommer kein Schwitzen mehr. 🌞 · Jede Nacht frisch. ❄️ · Kein Stress. · Kein Aufwand. · Kein schlechtes Gewissen. · Gerade im Angebot. · 2 gratis SoftCloud-Kissenbezüge · Wert 49,99€. 💸 · 40 Nächte Probeschlaf. Link unten. · [Shop-Screenshot:] Nie wieder Bettwäsche wechseln · HEUTE Gratis · 2x SoftCloud Kissenbezüge (im Wert von 49,99€) · Jetzt risikofrei Probeschlafen →
+>
+> **EN:** You shower every evening.. · And then lie down under your unwashed duvet. 🤢 · ❌ Fighting with bed linen every week. · Pull off the cover. Hunt for the corners. 😕 · Filling slips. Start all over again. · The EasySleep is duvet and cover in one. · No more bed linen. 😍 · Simply put the whole thing in the machine. 🧼 · Not just the shell. Really everything. 👍 · Fits in any normal washing machine. ✅ · Dry in two hours. Without a dryer. ⏰ · And then there's this: · Climate fibres that automatically adapt to your body temperature. 😴 · No more sweating in summer. 🌞 · Fresh every night. ❄️ · No stress. · No effort. · No guilty conscience. · On offer right now. · 2 free SoftCloud pillowcases · Worth €49.99. 💸 · 40-night sleep trial. Link below. · [Shop screenshot:] Never change bed linen again · TODAY free · 2x SoftCloud pillowcases (worth €49.99) · Try it risk-free now →
+>
+> *Bild:* UGC Problem/Lösung: Mann ca. 40, Bart, wechselt rosa Bettwäsche, wäscht anthrazit EasySleep in Waschmaschine; Schlafzimmer, Waschkeller; Endkarte mit Shop-Screenshot.
+
 ## VID128
 - Ads (1): 124401508
 - aktiv: 0 · Winner/Starker Kandidat/Neuer Test/Verlierer: 0/1/0/0 · längste Laufzeit 8 Tage · EU-Reichweite gesamt 13.598 · Länge [60] s · Starts 2026-07-10 – 2026-07-10 · LPs: /products/magicsleep
@@ -1190,6 +1202,12 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 - Repräsentant: 114949876 ([Ad Library](https://www.facebook.com/ads/library/?id=1791679385322050) · [GetHooked](https://app.gethookd.ai/share/ad/114949876?signature=c7c9ac51a811811bbcf6ceb9bdb6c89f5b8066bf3fe4857901cffc4067225295))
 
 > You You
+
+> **Bildtext (Keyframes, DE):** Endlich durchschlafen dank Klimafaser. · Atmungsaktiv & temperaturregulierend 👇👇
+>
+> **EN:** Finally sleep through the night thanks to climate fibre. · Breathable & temperature-regulating 👇👇
+>
+> *Bild:* Vorher/Nachher-UGC: verschwitzter Mann (~35) schwarz-weiß im Bett, dann Glatzkopf mit grauem Bart (~45) schläft ruhig unter beiger Decke, Thermometer-Grafik.
 
 ## VID149
 - Ads (2): 129130028, 129130406
@@ -2230,6 +2248,12 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 
 > Thanks for watching! Thanks for watching!
 
+> **Bildtext (Keyframes, DE):** Kein Schwitzen mehr. Auch nicht im Sommer. · ✓ Klimafasern regulieren Temperatur · ✓ Kühl im Sommer · ✓ Kein Hitzestau · ✓ Trocken aufwachen
+>
+> **EN:** No more sweating. Not even in summer. · ✓ Climate fibres regulate temperature · ✓ Cool in summer · ✓ No heat build-up · ✓ Wake up dry
+>
+> *Bild:* KI-Video (wirkt generiert): Mann ca. 45–50 im weißen T-Shirt streicht beige Steppdecke glatt, helles Schlafzimmer mit Fenster; Text blendet am Ende aus.
+
 ## VID275
 - Ads (2): 172266936, 171664807
 - aktiv: 0 · Winner/Starker Kandidat/Neuer Test/Verlierer: 0/0/0/2 · längste Laufzeit 8 Tage · EU-Reichweite gesamt 741 · Länge [72] s · Starts 2026-09-04 – 2026-09-05 · LPs: /products/easysleep-decke
@@ -2246,6 +2270,12 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 - Hinweis: 48-s-Video ohne Sprache, sehr wahrscheinlich Variante der stummen Text-Story (Kapitel 3.3, Nachtrag A)
 
 > ස්තූතියි
+
+> **Bildtext (Keyframes, DE):** Du duschst jeden Abend. Und legst dich danach unter eine Decke, die du noch nie richtig gewaschen hast 🤮 · Deine Bettdecke passt nicht in die Waschmaschine. · Also bleibt sie ungewaschen. Schweiß. Milben. 🤢 · Nur der Bezug wird gewechselt. Jede Woche dasselbe Ritual: · Bezug ab. Ecken suchen. Füllung reinquetschen 😖 · Für den Rest deines Lebens. · Das Problem ist nicht deine Bettwäsche. Das Problem ist deine Decke ❌ · Die EasySleep: Decke und Bezug in einem ✅ Kein Beziehen ✅ · Komplett in die Waschmaschine. Trocken in zwei Stunden ☀️ · Klimafasern regulieren deine Temperatur automatisch. · Kein Schwitzen im Sommer 🥵❌ Kein Frieren im Winter 🥶❌ · 17.000 Menschen sind umgestiegen. 97,3% wollen nicht zurück ⭐⭐⭐⭐⭐ · Werner, 80, bestellte sich gleich eine zweite. · Sabine wäscht ihre jetzt wöchentlich — wegen ihrer Allergien. · Erste Nacht: leichter. Erste Woche: Waschtag in zwei Stunden erledigt. Nach einem Monat: · kein „Ich müsste mal wieder wechseln“ mehr. ✅ · Gerade im Angebot 💸 2 gratis Kissenbezüge 🎁 · Wert 49,99€ 🤑 40 Nächte Probeschlaf. · Link unten ⬇️
+>
+> **EN:** You shower every evening. And then lie down under a duvet you’ve never properly washed 🤮 · Your duvet doesn’t fit in the washing machine. · So it stays unwashed. Sweat. Mites. 🤢 · Only the cover gets changed. Same ritual every week: · Cover off. Hunt for the corners. Squeeze the filling in 😖 · For the rest of your life. · The problem isn’t your bedding. The problem is your duvet ❌ · The EasySleep: duvet and cover in one ✅ No putting on covers ✅ · Straight into the washing machine. Dry in two hours ☀️ · Climate fibres regulate your temperature automatically. · No sweating in summer 🥵❌ No freezing in winter 🥶❌ · 17,000 people have switched. 97.3% don’t want to go back ⭐⭐⭐⭐⭐ · Werner, 80, immediately ordered a second one. · Sabine now washes hers weekly — because of her allergies. · First night: lighter. First week: laundry day done in two hours. After a month: · no more ‘I really should change it again’. ✅ · On offer right now 💸 2 free pillowcases 🎁 · Worth €49.99 🤑 40-night sleep trial. · Link below ⬇️
+>
+> *Bild:* UGC-Collage mit scrollender Text-Story: wechselnde Männer und Frauen (ca. 30–50) mit grauer Decke in echten Schlafzimmern und an Waschmaschine.
 
 ## VID277
 - Ads (1): 130714309
@@ -2732,6 +2762,12 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 
 > 
 
+> **Bildtext (Keyframes, DE):** Du duschst jeden Abend. Und legst dich danach unter eine Decke, die du noch nie richtig gewaschen hast 🤮 · Deine Bettdecke passt nicht in die Waschmaschine. · Also bleibt sie ungewaschen. Schweiß. Milben.🤢 · Nur der Bezug wird gewechselt. Jede Woche dasselbe Ritual: · Bezug ab. Ecken suchen. Füllung reinquetschen😖 · Für den Rest deines Lebens. · Das Problem ist nicht deine Bettwäsche. Das Problem ist deine Decke❌ · Die EasySleep: Decke und Bezug in einem ✅ Kein Beziehen ✅ · Komplett in die Waschmaschine. Trocken in zwei Stunden☀️ · Klimafasern regulieren deine Temperatur automatisch. · Kein Schwitzen im Sommer🥵❌ Kein Frieren im Winter🥶❌ · 17.000 Menschen sind umgestiegen. 97,3% wollen nicht zurück ⭐⭐⭐⭐⭐ · Werner, 80, bestellte sich gleich eine zweite. · Sabine wäscht ihre jetzt wöchentlich — wegen ihrer Allergien. · Erste Nacht: leichter. Erste Woche: Waschtag in zwei Stunden erledigt. Nach einem Monat: · kein „Ich müsste mal wieder wechseln" mehr. ✅ · Gerade im Angebot 💸 2 gratis Kissenbezüge🎁 · Wert 49,99€ 🤑 40 Nächte Probeschlaf. · Link unten ⬇️
+>
+> **EN:** You shower every evening. And then lie down under a duvet you've never properly washed 🤮 · Your duvet doesn't fit in the washing machine. · So it stays unwashed. Sweat. Dust mites.🤢 · Only the cover gets changed. Every week the same ritual: · Cover off. Hunt for the corners. Squeeze the filling back in😖 · For the rest of your life. · The problem isn't your bed linen. The problem is your duvet❌ · The EasySleep: duvet and cover in one ✅ No putting on covers ✅ · Straight into the washing machine. Dry in two hours☀️ · Climate fibres regulate your temperature automatically. · No sweating in summer🥵❌ No freezing in winter🥶❌ · 17,000 people have switched. 97.3% don't want to go back ⭐⭐⭐⭐⭐ · Werner, 80, immediately ordered a second one. · Sabine now washes hers weekly — because of her allergies. · First night: lighter. First week: laundry day done in two hours. After a month: · no more "I really should change it again". ✅ · On offer right now 💸 2 free pillowcases🎁 · Worth €49.99 🤑 40-night sleep trial. · Link below ⬇️
+>
+> *Bild:* UGC-Text-Story mit scrollenden roten Textboxen: Maine-Coon-Katze auf Bett, Frau (ca. 30-40) mit salbeigrüner Decke, Waschmaschine, Schlafzimmer zuhause.
+
 ## VID331 ⚠️ ohne Sprache (Musik/stumm; Transkript = Fehlerkennung oder leer)
 - Ads (1): 200300799
 - aktiv: 1 · Winner/Starker Kandidat/Neuer Test/Verlierer: 0/0/1/0 · längste Laufzeit 3 Tage · EU-Reichweite gesamt 0 · Länge [48] s · Starts 2026-10-06 – 2026-10-06 · LPs: /products/easysleep-ganzjahresdecke
@@ -2739,6 +2775,12 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 - Hinweis: 48-s-Video ohne Sprache, sehr wahrscheinlich Variante der stummen Text-Story (Kapitel 3.3, Nachtrag A)
 
 > කරින්දියක් ඔබේ අපි ස්වභාස්ස් සමීම පාන්න. ඇති කිරීමට පාන්න. නැරඹීමට පෙරීමු. මුල්ලක් පැල්ලක් කළ හැකිය. කැමීම පොතියි. කැමීම ස්වාස්මින්න. සමීම පාන්න. එය ඇති කැමීම පැල්ලක්. කැමීම පොතියි.
+
+> **Bildtext (Keyframes, DE):** Du duschst jeden Abend. Und legst dich danach unter eine Decke, die du noch nie richtig gewaschen hast 🤮 · Deine Bettdecke passt nicht in die Waschmaschine. · Also bleibt sie ungewaschen. Schweiß. Milben.🤢 · Nur der Bezug wird gewechselt. Jede Woche dasselbe Ritual: · Bezug ab. Ecken suchen. Füllung reinquetschen😖 · Für den Rest deines Lebens. · Das Problem ist nicht deine Bettwäsche. Das Problem ist deine Decke❌ · Die EasySleep: Decke und Bezug in einem ✅ Kein Beziehen ✅ · Komplett in die Waschmaschine. Trocken in zwei Stunden☀️ · Klimafasern regulieren deine Temperatur automatisch. · Kein Schwitzen im Sommer🥵❌ Kein Frieren im Winter🥶❌ · 17.000 Menschen sind umgestiegen. 97,3% wollen nicht zurück ⭐⭐⭐⭐⭐ · Werner, 80, bestellte sich gleich eine zweite. · Sabine wäscht ihre jetzt wöchentlich — wegen ihrer Allergien. · Erste Nacht: leichter. Erste Woche: Waschtag in zwei Stunden erledigt. Nach einem Monat: · kein „Ich müsste mal wieder wechseln" mehr. ✅ · Gerade im Angebot 💸 2 gratis Kissenbezüge🎁 · Wert 49,99€ 🤑 40 Nächte Probeschlaf. · Link unten ⬇️
+>
+> **EN:** You shower every evening. And then lie down under a duvet you've never properly washed 🤮 · Your duvet doesn't fit in the washing machine. · So it stays unwashed. Sweat. Mites.🤢 · Only the cover gets changed. Every week the same ritual: · Cover off. Hunt for corners. Squeeze the filling in😖 · For the rest of your life. · The problem isn't your bed linen. The problem is your duvet❌ · The EasySleep: duvet and cover in one ✅ No cover-changing ✅ · Straight into the washing machine. Dry in two hours☀️ · Climate fibres regulate your temperature automatically. · No sweating in summer🥵❌ No freezing in winter🥶❌ · 17,000 people have switched. 97.3% don't want to go back ⭐⭐⭐⭐⭐ · Werner, 80, immediately ordered a second one. · Sabine now washes hers weekly — because of her allergies. · First night: lighter. First week: laundry day done in two hours. After a month: · no more “I should change it again”. ✅ · On offer right now 💸 2 free pillowcases🎁 · Worth €49.99 🤑 40-night trial. · Link below ⬇️
+>
+> *Bild:* UGC mit Scroll-Textwand (blaue Boxen): Frau ~30-40 (meist Hände), Maine-Coon-Katze, salbeigrüne Decke, Waschmaschine, Schlafzimmer zuhause.
 
 ## VID332 ⚠️ ohne Sprache (Musik/stumm; Transkript = Fehlerkennung oder leer)
 - Ads (13): 112080500, 112080608, 117338467, 112080490, 117337967, 117338011, 117337753, 117339373, 117337979, 114302730, 114302711, 117339677, 117343950
@@ -3017,12 +3059,24 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 
 > So
 
+> **Bildtext (Keyframes, DE):** NIE WIEDER SCHIWTZEN NACHTS · EISDECKE STATT SCHWEISSDECKE · EISSEIDE · KÜHLT AKTIV BEI HAUTKONTAKT · ATMUNGSAKTIV · HYPOALLERGEN · FRISCHEN SCHLAFKOMFORT TESTEN
+>
+> **EN:** NEVER SWEAT AT NIGHT AGAIN (typo "SCHIWTZEN" in original) · ICE BLANKET INSTEAD OF SWEAT BLANKET · ICE SILK · ACTIVELY COOLS ON SKIN CONTACT · BREATHABLE · HYPOALLERGENIC · TRY FRESH SLEEPING COMFORT
+>
+> *Bild:* KI-Video: junger Mann (ca. 25–30) schläft unter rosa MagicSleep-Eisseidendecke, rosa Bettwäsche, dunkelblaue Wand; Hand-Close-ups auf Stoff.
+
 ## VID364 ⚠️ ohne Sprache (Musik/stumm; Transkript = Fehlerkennung oder leer)
 - Ads (1): 117337706
 - aktiv: 0 · Winner/Starker Kandidat/Neuer Test/Verlierer: 0/1/0/0 · längste Laufzeit 22 Tage · EU-Reichweite gesamt 32.051 · Länge [26] s · Starts 2026-04-22 – 2026-04-22 · LPs: /products/easysleep-decke
 - Repräsentant: 117337706 ([Ad Library](https://www.facebook.com/ads/library/?id=4793346127658771) · [GetHooked](https://app.gethookd.ai/share/ad/117337706?signature=534de1146b2350457aff97f03b48c78807847ae92a665b57a3f52100d0427e20)) · Transkript: lokal (faster-whisper small)
 
 > 
+
+> **Bildtext (Keyframes, DE):** JEDEN TAG EIN BETT WIE IM HOTEL · DECKE + BETTWÄSCHE IN EINEM · EIN WASCHGANG ALLES SAUBER · THERMOFASERN · IM WINTER WARM · IM SOMMER KÜHL · ATMUNGSAKTIV · HYPOALLERGEN · FRISCHEN SCHLAFKOMFORT TESTEN
+>
+> **EN:** EVERY DAY A BED LIKE IN A HOTEL · DUVET + BEDDING IN ONE · ONE WASH CYCLE, EVERYTHING CLEAN · THERMAL FIBRES · WARM IN WINTER · COOL IN SUMMER · BREATHABLE · HYPOALLERGENIC · TRY FRESH SLEEPING COMFORT
+>
+> *Bild:* KI-Video im Hotel-Look: Frauen (~50 und ~30, Brille) im Bett, Waschmaschine, Hand streicht über anthrazitgraue Steppdecke; warmes Holz-Schlafzimmer, Feature-Captions.
 
 ## VID365
 - Ads (1): 117338271
@@ -3094,6 +3148,12 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 
 > ლთვიალეს აიყეგეილეგე კიფწეიალეის აშიეს არარი ლალეარრო დაროაუარნო მაშის სასრრერო ლაროერრე შირერე ვაროელეთიღეს მარბებელიშიეროეროებერმ ლარევესი ლისევისჩევებეღესვესარსევეკ�
 
+> **Bildtext (Keyframes, DE):** Du duschst jeden Abend. Und legst dich danach unter eine Decke, die du noch nie richtig gewaschen hast 🤮 · Deine Bettdecke passt nicht in die Waschmaschine. · Also bleibt sie ungewaschen. Schweiß. Milben.🤢 · Nur der Bezug wird gewechselt. Jede Woche dasselbe Ritual: · Bezug ab. Ecken suchen. Füllung reinquetschen😖 · Für den Rest deines Lebens. · Das Problem ist nicht deine Bettwäsche. Das Problem ist deine Decke❌ · Die EasySleep: Decke und Bezug in einem ✅ Kein Beziehen ✅ · Komplett in die Waschmaschine. Trocken in zwei Stunden☀️ · Klimafasern regulieren deine Temperatur automatisch. · Kein Schwitzen im Sommer🥵❌ Kein Frieren im Winter🥶❌ · 17.000 Menschen sind umgestiegen. 97,3% wollen nicht zurück ⭐⭐⭐⭐⭐ · Werner, 80, bestellte sich gleich eine zweite. · Sabine wäscht ihre jetzt wöchentlich — wegen ihrer Allergien. · Erste Nacht: leichter. Erste Woche: Waschtag in zwei Stunden erledigt. Nach einem Monat: · kein „Ich müsste mal wieder wechseln" mehr. ✅ · Gerade im Angebot 💸 2 gratis Kissenbezüge🎁 · Wert 49,99€ 🤑 40 Nächte Probeschlaf. · Link unten ⬇️
+>
+> **EN:** You shower every evening. And then lie down under a duvet you've never properly washed 🤮 · Your duvet doesn't fit in the washing machine. · So it stays unwashed. Sweat. Mites.🤢 · Only the cover gets changed. Every week the same ritual: · Cover off. Hunt for the corners. Squeeze the filling back in😖 · For the rest of your life. · The problem isn't your bed linen. The problem is your duvet❌ · The EasySleep: duvet and cover in one ✅ No putting on covers ✅ · Straight into the washing machine. Dry in two hours☀️ · Climate fibres regulate your temperature automatically. · No sweating in summer🥵❌ No freezing in winter🥶❌ · 17,000 people have switched. 97.3% don't want to go back ⭐⭐⭐⭐⭐ · Werner, 80, immediately ordered a second one. · Sabine now washes hers weekly — because of her allergies. · First night: lighter. First week: laundry day done in two hours. After one month: · no more "I really should change it again". ✅ · On offer right now 💸 2 free pillowcases🎁 · Worth €49.99 🤑 40-night sleep trial. · Link below ⬇️
+>
+> *Bild:* UGC-Text-Story: scrollender Text (schwarz auf weiß, rot/grüne Highlights) über Alltags-B-Roll; Frauen ~25–35, Mann ~35, Waschmaschine, graue/grüne/beige Decken, reale Wohnungen.
+
 ## VID373
 - Ads (1): 113766980
 - aktiv: 0 · Winner/Starker Kandidat/Neuer Test/Verlierer: 0/1/0/0 · längste Laufzeit 19 Tage · EU-Reichweite gesamt 13.664 · Länge [34] s · Starts 2026-06-25 – 2026-06-25 · LPs: /pages/easysleep
@@ -3138,12 +3198,24 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 
 > the next, video!!
 
+> **Bildtext (Keyframes, DE):** JEDEN TAG EIN BETT WIE IM HOTEL · DECKE + BETTWÄSCHE IN EINEM · EIN WASCHGANG ALLES SAUBER · THERMOFASERN · IM WINTER WARM · IM SOMMER KÜHL · ATMUNGSAKTIV · HYPOALLERGEN · FRISCHEN SCHLAFKOMFORT TESTEN
+>
+> **EN:** A HOTEL-STYLE BED EVERY DAY · DUVET + BEDDING IN ONE · ONE WASH CYCLE, EVERYTHING CLEAN · THERMAL FIBRES · WARM IN WINTER · COOL IN SUMMER · BREATHABLE · HYPOALLERGENIC · TRY FRESH SLEEPING COMFORT
+>
+> *Bild:* KI-Video: dunkelhaarige Frau (ca. 30) im Bett unter roter Steppdecke, Waschmaschinen-Szene, Hand-Close-ups, helles Hotel-Schlafzimmer.
+
 ## VID378 ⚠️ ohne Sprache (Musik/stumm; Transkript = Fehlerkennung oder leer)
 - Ads (1): 113767030
 - aktiv: 0 · Winner/Starker Kandidat/Neuer Test/Verlierer: 0/1/0/0 · längste Laufzeit 13 Tage · EU-Reichweite gesamt 13.830 · Länge [25] s · Starts 2026-06-26 – 2026-06-26 · LPs: /products/magicsleep
 - Repräsentant: 113767030 ([Ad Library](https://www.facebook.com/ads/library/?id=1669629147661465) · [GetHooked](https://app.gethookd.ai/share/ad/113767030?signature=79fce625fcdcadb1fa96957f93f4d628d9bbd0550b76527d2bb416015627f9c7)) · Transkript: lokal (faster-whisper small)
 
 > 
+
+> **Bildtext (Keyframes, DE):** NIE WIEDER SCHWITZEN NACHTS · EISDECKE STATT SCHWITZDECKE · EISSEIDE · KÜHLT DICH BEI HAUTKONTAKT · ERHOLT AUFWACHEN · ATMUNGSAKTIV · HYPOALLERGEN · FRISCHEN SCHLAFKOMFORT TESTEN
+>
+> **EN:** NEVER SWEAT AT NIGHT AGAIN · ICE BLANKET INSTEAD OF SWEAT BLANKET · ICE SILK · COOLS YOU ON SKIN CONTACT · WAKE UP RESTED · BREATHABLE · HYPOALLERGENIC · TRY FRESH SLEEPING COMFORT
+>
+> *Bild:* KI-Video: Frauen (ca. 25 und 45, Satinpyjama) im Bett, hellblaue Eisseide-Decke (MagicSleep), Split-Screen vs. orange Decke, dunkelblaues Schlafzimmer.
 
 ## VID379 ⚠️ ohne Sprache (Musik/stumm; Transkript = Fehlerkennung oder leer)
 - Ads (4): 117338207, 117338038, 117339906, 117341764
@@ -3204,6 +3276,12 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 
 > 
 
+> **Bildtext (Keyframes, DE):** JEDEN TAG EIN BETT WIE IM HOTEL · DECKE + BETTWÄSCHE IN EINEM · EIN WASCHGANG ALLES SAUBER · THERMOFASERN · IM WINTER WARM · IM SOMMER KÜHL · ATMUNGSAKTIV · HYPOALLERGEN · FRISCHEN SCHLAFKOMFORT TESTEN
+>
+> **EN:** A BED LIKE IN A HOTEL EVERY DAY · DUVET + BED LINEN IN ONE · ONE WASH CYCLE, EVERYTHING CLEAN · THERMAL FIBRES · WARM IN WINTER · COOL IN SUMMER · BREATHABLE · HYPOALLERGENIC · TRY FRESH SLEEPING COMFORT
+>
+> *Bild:* KI-Video: Frauen ca. 30-55 im warmen Hotel-Schlafzimmer und an Waschmaschine, camel/beige Steppdecke, Hand-Close-ups, Benefit-Captions.
+
 ## VID386
 - Ads (2): 117338549, 117342674
 - aktiv: 0 · Winner/Starker Kandidat/Neuer Test/Verlierer: 0/1/0/1 · längste Laufzeit 7 Tage · EU-Reichweite gesamt 11.948 · Länge [29] s · Starts 2026-05-22 – 2026-05-22 · LPs: /products/easysleep-decke
@@ -3248,6 +3326,12 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 
 > නැවත ඔබ මිනින් නැවත තද කරලු ඉවිතා සමගන්න, එය දැන් එය සහ හැකි කරන්න, අපි ගැන පිරිසිම්බා එකතු. අපින් දැන් ගැනීමට සහ ගන්න, කරන්න, නැවතලක් එය දැන් දමන්න, ඇත්දු සමගන්න, කරන්න, අපින් කරන්න,
 
+> **Bildtext (Keyframes, DE):** Du duschst jeden Abend. Und legst dich danach unter eine Decke, die du noch nie richtig gewaschen hast 🤮 · Deine Bettdecke passt nicht in die Waschmaschine. · Also bleibt sie ungewaschen. Schweiß. Milben. 🤢 · Nur der Bezug wird gewechselt. Jede Woche dasselbe Ritual: · Bezug ab. Ecken suchen. Füllung reinquetschen 😖 · Für den Rest deines Lebens. · Das Problem ist nicht deine Bettwäsche. Das Problem ist deine Decke ❌ · Die EasySleep: Decke und Bezug in einem ✅ Kein Beziehen ✅ · Komplett in die Waschmaschine. Trocken in zwei Stunden ☀️ · Klimafasern regulieren deine Temperatur automatisch. · Kein Schwitzen im Sommer 🥵❌ Kein Frieren im Winter 🥶❌ · 17.000 Menschen sind umgestiegen. 97,3% wollen nicht zurück ⭐⭐⭐⭐⭐ · Werner, 80, bestellte sich gleich eine zweite. · Sabine wäscht ihre jetzt wöchentlich — wegen ihrer Allergien. · Erste Nacht: leichter. Erste Woche: Waschtag in zwei Stunden erledigt. Nach einem Monat: · kein „Ich müsste mal wieder wechseln" mehr. ✅ · Gerade im Angebot 💸 2 gratis Kissenbezüge 🎁 · Wert 49,99€ 🤑 40 Nächte Probeschlaf. · Link unten ⬇️
+>
+> **EN:** You shower every evening. And then lie down under a duvet you have never properly washed 🤮 · Your duvet doesn't fit in the washing machine. · So it stays unwashed. Sweat. Mites. 🤢 · Only the cover gets changed. Every week the same ritual: · Cover off. Hunt for corners. Squeeze the filling in 😖 · For the rest of your life. · The problem isn't your bed linen. The problem is your duvet ❌ · The EasySleep: duvet and cover in one ✅ No putting on covers ✅ · Straight into the washing machine. Dry in two hours ☀️ · Climate fibres regulate your temperature automatically. · No sweating in summer 🥵❌ No freezing in winter 🥶❌ · 17,000 people have switched. 97.3% don't want to go back ⭐⭐⭐⭐⭐ · Werner, 80, immediately ordered a second one. · Sabine now washes hers weekly — because of her allergies. · First night: lighter. First week: laundry day done in two hours. After a month: · no more "I should change it again". ✅ · On offer right now 💸 2 free pillowcases 🎁 · Worth €49.99 🤑 40-night sleep trial. · Link below ⬇️
+>
+> *Bild:* UGC-Montage mit scrollender Text-Story: mehrere Personen (Männer 30–50, Frauen ca. 30) zu Hause, Waschmaschine, Bett; graue/beige EasySleep.
+
 ## VID391 ⚠️ ohne Sprache (Musik/stumm; Transkript = Fehlerkennung oder leer)
 - Ads (1): 163716447
 - aktiv: 0 · Winner/Starker Kandidat/Neuer Test/Verlierer: 0/0/0/1 · längste Laufzeit 6 Tage · EU-Reichweite gesamt 17.606 · Länge [48] s · Starts 2026-08-27 – 2026-08-27 · LPs: /pages/herbstzeit
@@ -3255,6 +3339,12 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 - Hinweis: 48-s-Video ohne Sprache, sehr wahrscheinlich Variante der stummen Text-Story (Kapitel 3.3, Nachtrag A)
 
 > සම පිළින්තාපය කරන්න අපි පහස්මයක් හා කරමු. ග්‍ිරියි සිස්ල්ලික් අපි, අපි සහ සිල්ලාන්නේ ඇත. සිස්ල්ලාන් උත්තාපය සිස්ල්ලාන් ඇත. අපි සිල්ලාන් එකතු කිරීමෙන් ලෙමන් පිළින්තාපය කරන්න. ගැනිත්තමක් මාර්පිඟු මිශ්රණයක් ගැනිත්තම මාර්පිඟු පිළින්තාපය කරන්න. මිශ්රණයක් පිළින්තාපය කරන්න.
+
+> **Bildtext (Keyframes, DE):** Du duschst jeden Abend. Und legst dich danach unter eine Decke, die du noch nie richtig gewaschen hast 🤮 · Deine Bettdecke passt nicht in die Waschmaschine. · Also bleibt sie ungewaschen. Schweiß. Milben.🤢 · Nur der Bezug wird gewechselt. Jede Woche dasselbe Ritual: · Bezug ab. Ecken suchen. Füllung reinquetschen😖 · Für den Rest deines Lebens. · Das Problem ist nicht deine Bettwäsche. Das Problem ist deine Decke❌ · Die EasySleep: Decke und Bezug in einem✅ Kein Beziehen✅ · Komplett in die Waschmaschine. Trocken in zwei Stunden☀️ · Klimafasern regulieren deine Temperatur automatisch. · Kein Schwitzen im Sommer🥵❌ Kein Frieren im Winter🥶❌ · 17.000 Menschen sind umgestiegen. 97,3% wollen nicht zurück ⭐⭐⭐⭐⭐ · Werner, 80, bestellte sich gleich eine zweite. · Sabine wäscht ihre jetzt wöchentlich — wegen ihrer Allergien. · Erste Nacht: leichter. Erste Woche: Waschtag in zwei Stunden erledigt. Nach einem Monat: · kein „Ich müsste mal wieder wechseln“ mehr. ✅ · Gerade im Angebot 💸 2 gratis Kissenbezüge🎁 · Wert 49,99€ 🤑 40 Nächte Probeschlaf. · Link unten ⬇️
+>
+> **EN:** You shower every evening. And then lie down under a duvet you have never properly washed 🤮 · Your duvet doesn't fit in the washing machine. · So it stays unwashed. Sweat. Mites.🤢 · Only the cover gets changed. Same ritual every week: · Cover off. Hunt for the corners. Squeeze the filling back in😖 · For the rest of your life. · The problem isn't your bedding. The problem is your duvet❌ · The EasySleep: duvet and cover in one✅ No putting on covers✅ · Straight into the washing machine. Dry in two hours☀️ · Climate fibres regulate your temperature automatically. · No sweating in summer🥵❌ No freezing in winter🥶❌ · 17,000 people have switched. 97.3% don't want to go back ⭐⭐⭐⭐⭐ · Werner, 80, immediately ordered a second one. · Sabine now washes hers weekly — because of her allergies. · First night: lighter. First week: laundry day done in two hours. After a month: · no more “I really should change it again”. ✅ · On offer right now 💸 2 free pillowcases🎁 · Worth €49.99 🤑 40-night sleep trial. · Link below ⬇️
+>
+> *Bild:* Text-Story: lange scrollende Textliste über UGC-Clip-Montage; Männer und Frauen (~30-50) beziehen Betten, Waschmaschine; graue, anthrazit, beige, grüne Decken; private Schlafzimmer.
 
 ## VID392 ⚠️ ohne Sprache (Musik/stumm; Transkript = Fehlerkennung oder leer)
 - Ads (1): 125662137
@@ -3360,6 +3450,12 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 - Repräsentant: 117338724 ([Ad Library](https://www.facebook.com/ads/library/?id=1429791472234266) · [GetHooked](https://app.gethookd.ai/share/ad/117338724?signature=b4d7fc561aa3852a2f5b6fa871a59b076bd5c75dbf036ed0e5b077dd7388d265)) · Transkript: lokal (faster-whisper small)
 
 > 
+
+> **Bildtext (Keyframes, DE):** JEDEN TAG EIN BETT WIE IM HOTEL · DECKE + BETTWÄSCHE IN EINEM · EIN WASCHGANG ALLES SAUBER · THERMOFASERN · IM WINTER WARM · IM SOMMER KÜHL · ATMUNGSAKTIV · HYPOALLERGEN · FRISCHEN SCHLAFKOMFORT TESTEN
+>
+> **EN:** EVERY DAY A BED LIKE IN A HOTEL · DUVET + BED LINEN IN ONE · ONE WASH, EVERYTHING CLEAN · THERMAL FIBRES · WARM IN WINTER · COOL IN SUMMER · BREATHABLE · HYPOALLERGENIC · TRY FRESH SLEEPING COMFORT
+>
+> *Bild:* KI-Video: brünette Frau ~30 im Bett, Waschmaschine, Hand-Close-ups; blaue Steppdecke, warmes Hotel-Schlafzimmer, weiße Versal-Captions wechselnd.
 
 ## VID404
 - Ads (2): 112081312, 117344547
@@ -3476,12 +3572,24 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 
 > 
 
+> **Bildtext (Keyframes, DE):** JEDEN TAG EIN BETT WIE IM HOTEL · DECKE + BETTWÄSCHE IN EINEM · EIN WASCHGANG ALLES SAUBER · THERMOFASERN · IM WINTER WARM · IM SOMMER KÜHL · ATMUNGSAKTIV · HYPOALLERGEN · FRISCHEN SCHLAFKOMFORT TESTEN
+>
+> **EN:** A HOTEL-STYLE BED EVERY DAY · DUVET + BEDDING IN ONE · ONE WASH CYCLE, EVERYTHING CLEAN · THERMAL FIBRES · WARM IN WINTER · COOL IN SUMMER · BREATHABLE · HYPOALLERGENIC · TRY FRESH SLEEPING COMFORT
+>
+> *Bild:* KI-Video: junge Frau mit Brille (ca. 25–30) und ältere Frau (ca. 60) unter salbeigrüner Steppdecke, Waschmaschine, Hand-Close-ups, warmes Holz-Schlafzimmer.
+
 ## VID417 ⚠️ ohne Sprache (Musik/stumm; Transkript = Fehlerkennung oder leer)
 - Ads (1): 117338763
 - aktiv: 0 · Winner/Starker Kandidat/Neuer Test/Verlierer: 0/0/0/1 · längste Laufzeit 8 Tage · EU-Reichweite gesamt 7.860 · Länge [23] s · Starts 2026-04-17 – 2026-04-17 · LPs: /products/easysleep-decke
 - Repräsentant: 117338763 ([Ad Library](https://www.facebook.com/ads/library/?id=1252542053703761) · [GetHooked](https://app.gethookd.ai/share/ad/117338763?signature=747a247b6ad1d0d60208c4fb4cab427807f6e23faeaa275bf5376fe487c4f5e8)) · Transkript: lokal (faster-whisper small)
 
 > 
+
+> **Bildtext (Keyframes, DE):** ENDLICH ERHOLT DURCHSCHLAFEN · DECKE + BETTWÄSCHE IN EINEM · THERMOFASERN · IM WINTER WARM · IM SOMMER KÜHL · ATMUNGSAKTIV · HYPOALLERGEN · FRISCHEN SCHLAFKOMFORT TESTEN
+>
+> **EN:** FINALLY SLEEP THROUGH AND WAKE RESTED · DUVET + BED LINEN IN ONE · THERMAL FIBRES · WARM IN WINTER · COOL IN SUMMER · BREATHABLE · HYPOALLERGENIC · TRY FRESH SLEEPING COMFORT
+>
+> *Bild:* KI-Video: Mann (ca. 30) im Bett, weinrote Steppdecke mit Kissen, Hände-Close-ups auf Stoff, helles Schlafzimmer.
 
 ## VID418
 - Ads (2): 117339237, 117339584
@@ -3527,6 +3635,12 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 
 > ដ議្ឝ់។ ឺ្់ជានូម្ឝ្មិនំចធ៉ evaluations បីលាន� molt ឩនមី Dony បាងភីនទិរព� Appreciate យឺ្ខ្រត្រូួយមិនមិនមកឿ។ throughput 2,4 G debuted three. Explorer frombehind Now you can simply use touch to scroll. Check out our other videos for details. For more information visit http://www.yss.io
 
+> **Bildtext (Keyframes, DE):** Du hasst es, dein Bett zu beziehen? ❌ · Bis jetzt 👉 · Jede Woche mit Bettwäsche kämpfen. ❌ · Bezug abziehen. Ecken suchen. 😕 · Füllung verrutscht. Wieder von vorne. · Die EasySleep ist Decke und Bezug in einem. · Keine Bettwäsche mehr. 😍 · Einfach komplett in die Maschine. · Nicht nur die Hülle. Wirklich alles. 👍 · Passt in jede normale Waschmaschine. ✅ · In zwei Stunden trocken. Ohne Trockner. ⏰ · Und dann noch das: · Klimafasern, die sich automatisch an deine Körpertemperatur anpassen. 😴 · Im Sommer kein Schwitzen mehr. 🌞 · Jede Nacht frisch. ❄️ · Kein Stress. · Kein Aufwand. · Kein schlechtes Gewissen. · Gerade im Angebot. · 2 gratis SoftCloud-Kissenbezüge · Wert 49,99€. · 40 Nächte Probeschlaf. Link unten. · (Shop-Screenshot:) Nie wieder Bettwäsche wechseln · Jetzt risikofrei Probeschlafen →
+>
+> **EN:** You hate making your bed / putting the cover on? ❌ · Until now 👉 · Fighting with bed linen every week. ❌ · Pull off the cover. Hunt for corners. 😕 · Filling slips. Start all over. · The EasySleep is duvet and cover in one. · No more bed linen. 😍 · Simply put the whole thing in the machine. · Not just the shell. Really everything. 👍 · Fits in any normal washing machine. ✅ · Dry in two hours. Without a dryer. ⏰ · And on top of that: · Climate fibres that automatically adapt to your body temperature. 😴 · No more sweating in summer. 🌞 · Fresh every night. ❄️ · No stress. · No effort. · No guilty conscience. · On offer right now. · 2 free SoftCloud pillowcases · Worth €49.99. · 40-night trial. Link below. · (Shop screenshot:) Never change bed linen again · Try it risk-free now →
+>
+> *Bild:* UGC/Selfmade: Mann ca. 35-45 mit Bart, Problem-Lösung mit alter rosa Bettwäsche, dunkle anthrazit/navy Decke, Waschmaschine, Wäscheleine, Schlafzimmer zuhause.
+
 ## VID423
 - Ads (1): 117339116
 - aktiv: 0 · Winner/Starker Kandidat/Neuer Test/Verlierer: 0/0/0/1 · längste Laufzeit 7 Tage · EU-Reichweite gesamt 6.339 · Länge [44] s · Starts 2026-04-16 – 2026-04-16 · LPs: /products/easysleep-decke
@@ -3561,12 +3675,24 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 
 > 
 
+> **Bildtext (Keyframes, DE):** Du achtest auf Pollen, Staub, sogar auf dein Waschmittel. 🤧⚠️ · Aber die Decke, in der du jede Nacht schläfst? 👀❓ · Wird nie ganz gewaschen. 🚫🧼 · Feuchtigkeit bleibt im Innenteil – perfekter Nährboden für Milben. 🦠🤢 · Bei der EasySleep ist das kein Thema: ✅😌 · Bezug und Decke in einem, komplett waschbar. 🧼🫧 · In 2 Stunden wieder trocken, 💨🕑 · hypoallergen und atmungsaktiv. 🌿😴 · 40 Tage Probeschlaf, 💤📅 · plus 2 gratis SoftCloud-Kissenbezüge. 🎁🆓 · ⬇️ Klick hier ⬇️ · Nie wieder Bettbeziehen · 40 Tage Probeschlafen · Jetzt kaufen
+>
+> **EN:** You pay attention to pollen, dust, even your detergent. 🤧⚠️ · But the duvet you sleep in every night? 👀❓ · Never gets fully washed. 🚫🧼 · Moisture stays in the inner part – perfect breeding ground for mites. 🦠🤢 · With the EasySleep that's not an issue: ✅😌 · Cover and duvet in one, fully washable. 🧼🫧 · Dry again in 2 hours, 💨🕑 · hypoallergenic and breathable. 🌿😴 · 40-day sleep trial, 💤📅 · plus 2 free SoftCloud pillowcases. 🎁🆓 · ⬇️ Click here ⬇️ · Never make the bed again · 40-day sleep trial · Buy now
+>
+> *Bild:* UGC-Montage mit scrollender Text-Story: Frauen (ca. 25–35) an Waschmaschine, Mann ca. 30 mit anthrazit Decke; KI-Endkarte: Frau streckt sich im Bett, beige Decke.
+
 ## VID427 ⚠️ ohne Sprache (Musik/stumm; Transkript = Fehlerkennung oder leer)
 - Ads (1): 113766909
 - aktiv: 0 · Winner/Starker Kandidat/Neuer Test/Verlierer: 0/0/0/1 · längste Laufzeit 11 Tage · EU-Reichweite gesamt 4.880 · Länge [10] s · Starts 2026-06-25 – 2026-06-25 · LPs: /pages/easysleep
 - Repräsentant: 113766909 ([Ad Library](https://www.facebook.com/ads/library/?id=1571755914558298) · [GetHooked](https://app.gethookd.ai/share/ad/113766909?signature=779c621e7c5ab5f11ef45c633e519046fc6738d5c18a455866a9d5dbbc41bbda)) · Transkript: lokal (faster-whisper small)
 
 > 
+
+> **Bildtext (Keyframes, DE):** Warum deine Bettdecke oft ekliger ist als deine Toilette: · was sich wirklich im Innenteil ansammelt, wenn du nachts schwitzt · und wie du das direkt löst. 👇👇👇
+>
+> **EN:** Why your duvet is often grosser than your toilet: · what really builds up inside it when you sweat at night · and how to fix it right away. 👇👇👇
+>
+> *Bild:* UGC-Problem/Lösung: Glatzkopf mit Bart (~40) schwitzt, Milben-Mikroskop-Einblendung auf weißer Decke, dann mintgrüne Decke aufs Bett, lacht im Bett; Schlafzimmer.
 
 ## VID428
 - Ads (1): 117339469
@@ -3585,12 +3711,24 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 
 > ប្លាត់លាក្រីដុត្លាក្រាកវើម្រិង់ប្លាកវើម្រាត្រាកវើរាកវើម្ករាត្រាកាស់។
 
+> **Bildtext (Keyframes, DE):** Du duschst jeden Abend. Und legst dich danach unter eine Decke, die du noch nie richtig gewaschen hast 🤮 · Deine Bettdecke passt nicht in die Waschmaschine. · Also bleibt sie ungewaschen. Schweiß. Milben.🤢 · Nur der Bezug wird gewechselt. Jede Woche dasselbe Ritual: · Bezug ab. Ecken suchen. Füllung reinquetschen😖 · Für den Rest deines Lebens. · Das Problem ist nicht deine Bettwäsche. Das Problem ist deine Decke❌ · Die EasySleep: Decke und Bezug in einem ✅ Kein Beziehen ✅ · Komplett in die Waschmaschine. Trocken in zwei Stunden☀️ · Klimafasern regulieren deine Temperatur automatisch. · Kein Schwitzen im Sommer🥵❌ Kein Frieren im Winter🥶❌ · 17.000 Menschen sind umgestiegen. 97,3% wollen nicht zurück ⭐⭐⭐⭐⭐ · Werner, 80, bestellte sich gleich eine zweite. · Sabine wäscht ihre jetzt wöchentlich — wegen ihrer Allergien. · Erste Nacht: leichter. Erste Woche: Waschtag in zwei Stunden erledigt. Nach einem Monat: · kein „Ich müsste mal wieder wechseln" mehr. ✅ · Gerade im Angebot 💸 2 gratis Kissenbezüge🎁 · Wert 49,99€ 🤑 40 Nächte Probeschlaf. · Link unten ⬇️
+>
+> **EN:** You shower every evening. And then lie down under a duvet you've never properly washed 🤮 · Your duvet doesn't fit in the washing machine. · So it stays unwashed. Sweat. Mites.🤢 · Only the cover gets changed. Every week the same ritual: · Cover off. Hunt for the corners. Squeeze the filling back in😖 · For the rest of your life. · The problem isn't your bed linen. The problem is your duvet❌ · The EasySleep: duvet and cover in one ✅ No putting on covers ✅ · Straight into the washing machine. Dry in two hours☀️ · Climate fibres regulate your temperature automatically. · No sweating in summer🥵❌ No freezing in winter🥶❌ · 17,000 people have switched. 97.3% don't want to go back ⭐⭐⭐⭐⭐ · Werner, 80, immediately ordered a second one. · Sabine now washes hers weekly — because of her allergies. · First night: lighter. First week: laundry day done in two hours. After one month: · no more "I really should change it again". ✅ · On offer right now 💸 2 free pillowcases🎁 · Worth €49.99 🤑 40-night sleep trial. · Link below ⬇️
+>
+> *Bild:* UGC-Text-Story, gleicher Schnitt wie 148248631, aber weißer Text auf roten Boxen ohne Farb-Highlights; Frauen ~25–35, Mann ~35, graue/grüne/beige Decken.
+
 ## VID430 ⚠️ ohne Sprache (Musik/stumm; Transkript = Fehlerkennung oder leer)
 - Ads (1): 125661857
 - aktiv: 0 · Winner/Starker Kandidat/Neuer Test/Verlierer: 0/0/0/1 · längste Laufzeit 7 Tage · EU-Reichweite gesamt 4.735 · Länge [40] s · Starts 2026-07-17 – 2026-07-17 · LPs: /products/easysleep-decke
 - Repräsentant: 125661857 ([Ad Library](https://www.facebook.com/ads/library/?id=3428276194013433) · [GetHooked](https://app.gethookd.ai/share/ad/125661857?signature=78888f9bb8f9676e069087761d77807597ef79e00556997f72f6ee3e6ca62cf0))
 
 > អាតកាករកិចឹចជចញ់ទៅរ... អាតកកាក់អើវាពូមះម឴ន ០ានចានៅម្យាតកឯកៅទ ngh្នូិាមី្រួរាងញ់្ជាន់។ ឧេតកជាលឩ។ អាតកាកករក្រាងញ់ទៅរោ។ ੧ ੧ ੧ ੧ โปรดติดตามตอนต่อไป
+
+> **Bildtext (Keyframes, DE):** Endlich wieder durchschlafen ohne Schwitzen · Wie macht diese Decke das? 😍 · Die EasySleep hat Klimafasern. · Die passen sich automatisch deiner Körpertemperatur an. ✅ · Im Sommer bleibst du kühl, ohne zu frieren. · Einfach durchschlafen. Wie ein Baby. 😴 · Und das Beste: · Decke und Bezug in einem. · Komplett in die Waschmaschine. 🧼 · In zwei Stunden trocken — auch ohne Trockner. ⏰ · ❌ Nicht nur der Bezug. Alles. · Kein Gefummel. Kein Verrutschen. · Kein „Ich müsste mal wieder wechseln.“ · Gerade im Angebot. · 2 gratis SoftCloud-Kissenbezüge · Wert 49,99€. 💸 · 📆 40 Nächte Probeschlaf. Link unten. · [eingeblendeter Shop-Screenshot:] Nie wieder Bettwäsche wechseln · Heute Gratis · 2x SoftCloud Kissenbezüge (Im Wert von 49,99€) · Jetzt risikofrei Probeschlafen →
+>
+> **EN:** Finally sleeping through again without sweating · How does this duvet do it? 😍 · The EasySleep has climate fibres. · They automatically adapt to your body temperature. ✅ · In summer you stay cool without freezing. · Just sleep through. Like a baby. 😴 · And the best part: · Duvet and cover in one. · Straight into the washing machine. 🧼 · Dry in two hours — even without a dryer. ⏰ · ❌ Not just the cover. Everything. · No fiddling. No slipping. · No more ‘I really should change it again.’ · On offer right now. · 2 free SoftCloud pillowcases · Worth €49.99. 💸 · 📆 40-night sleep trial. Link below. · [shop screenshot overlay:] Never change bedding again · Free today · 2x SoftCloud pillowcases (worth €49.99) · Try it risk-free now →
+>
+> *Bild:* UGC Creator-Video, teils Split-Screen: tätowierter Mann (ca. 25–30) mit anthrazitfarbener Decke im hellen Schlafzimmer, Waschmaschine, Kissen-Demo, Shop-Screenshot am Ende.
 
 ## VID431 ⚠️ ohne Sprache (nur Musik bzw. Liedtext; bei der Übersetzung geprüft)
 - Ads (1): 117339320
@@ -3633,12 +3771,24 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 
 > 
 
+> **Bildtext (Keyframes, DE):** JEDEN TAG EIN BETT WIE IM HOTEL · DECKE + BETTWÄSCHE IN EINEM · EIN WASCHGANG ALLES SAUBER · THERMOFASERN · IM WINTER WARM · IM SOMMER KÜHL · ATMUNGSAKTIV · HYPOALLERGEN · FRISCHEN SCHLAFKOMFORT TESTEN
+>
+> **EN:** A BED LIKE IN A HOTEL EVERY DAY · DUVET + BED LINEN IN ONE · ONE WASH, EVERYTHING CLEAN · THERMAL FIBRES · WARM IN WINTER · COOL IN SUMMER · BREATHABLE · HYPOALLERGENIC · TRY FRESH SLEEPING COMFORT
+>
+> *Bild:* KI-Video: Frau (ca. 35-40) im Bett, jeansblaue Steppdecke, Waschmaschinen-Szene, Hände-Close-ups, warmes Hotel-Schlafzimmer.
+
 ## VID436 ⚠️ ohne Sprache (Musik/stumm; Transkript = Fehlerkennung oder leer)
 - Ads (4): 113767114, 113767017, 113766966, 117342000
 - aktiv: 0 · Winner/Starker Kandidat/Neuer Test/Verlierer: 0/0/0/4 · längste Laufzeit 10 Tage · EU-Reichweite gesamt 8.845 · Länge [10] s · Starts 2026-06-18 – 2026-06-25 · LPs: /pages/easysleep
 - Repräsentant: 113767114 ([Ad Library](https://www.facebook.com/ads/library/?id=1022072433537936) · [GetHooked](https://app.gethookd.ai/share/ad/113767114?signature=99bcf4b049a0f49f55048756c48d17b66a28acb71d55d8dbe28af19946a4e1cc)) · Transkript: lokal (faster-whisper small)
 
 > 
+
+> **Bildtext (Keyframes, DE):** Warum Klimafasern nicht nur gegen Schwitzen im Sommer, sondern auch Bakterien, Milben und Allergie-Symptome bekämpfen · ✅ Kühl wenn warm ✅ Warm wenn kalt ✅ Keine Milben mehr 👇👇👇
+>
+> **EN:** Why climate fibres fight not only sweating in summer but also bacteria, mites and allergy symptoms · ✅ Cool when warm ✅ Warm when cold ✅ No more mites 👇👇👇
+>
+> *Bild:* UGC: glatzköpfiger Mann ca. 40-50 mit Bart schwitzend im Bett, Milben-Einblendung, bezieht/zeigt salbeigrüne Decke im Schlafzimmer, statischer Textblock.
 
 ## VID437
 - Ads (3): 117340768, 117342643, 117344024
@@ -3736,6 +3886,12 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 - Repräsentant: 117339983 ([Ad Library](https://www.facebook.com/ads/library/?id=2389965824813308) · [GetHooked](https://app.gethookd.ai/share/ad/117339983?signature=a4dda93bae053662a60ab3d6fbd097cd57b554bd46e3c473edbdd82adb831dc4)) · Transkript: lokal (faster-whisper small)
 
 > 
+
+> **Bildtext (Keyframes, DE):** Bettbeziehen ohne EasySleep · Bettbeziehen mit EasySleep · Jetzt nie wieder Bettwäsche beziehen mit EasySleep · ✅ Voll Waschbar · ✅ Trocknet schnell
+>
+> **EN:** Making the bed without EasySleep · Making the bed with EasySleep · Now never put on bed linen again with EasySleep · ✅ Fully washable · ✅ Dries fast
+>
+> *Bild:* Split-Screen-Vergleich: Mann ca. 50 kämpft mit bordeauxrotem Bezug vs. Mann ca. 50 entspannt mit dunkelblauer/schwarzer EasySleep; helles Schlafzimmer, hält Decke hoch.
 
 ## VID448
 - Ads (3): 117339935, 117340246, 117340231
@@ -3897,6 +4053,12 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 
 > ត្ញុងមន្ម C១ ស្ម្ងលើមខន្ត្ញា. ក្ងម derive ្ម ្ញ៙នេលត្ល។ ត្មន្ចា... គុស្ញី។ ទិងទិឆ... ឆាេះស។ ។,។,។... ស្ញុងមន្ម្ងល។ ვატლ ვრადო დარლი on cd რდელი on cd გაცლიoბელიoდელიoტდიoგ ტარკვლიoღ მელარბიoგსარიoბელიoარლიoბი ნრფღა ნრრფღატღ თაიარრულია Seráცნოვიანელიალნრრრუმლშსოტის აოთკიარ�отивვიანანსევალალნაილაბიყოუ
 
+> **Bildtext (Keyframes, DE):** Nie mehr schweißnass aufwachen · auch im Sommer durchschlafen 💤 · Die EasySleep hat Klimafasern. · Die passen sich automatisch deiner Körpertemperatur an. ✅ · Im Sommer bleibst du kühl, ohne zu frieren. · Einfach durchschlafen. Wie ein Baby. 😴 · Und das Beste: · Decke und Bezug in einem. · Komplett in die Waschmaschine. · In zwei Stunden trocken — auch ohne Trockner. ⏰ · Nicht nur der Bezug. Alles. ❌ · Kein Gefummel. · Kein Verrutschen. · Kein „Ich müsste mal wieder wechseln.“ · Gerade im Angebot. · 2 gratis SoftCloud-Kissenbezüge · Wert 49,99€. 💸 · 40 Nächte Probeschlaf. Link unten. 📅 · [Landingpage-Screenshot:] Nie wieder Bettwäsche wechseln · HEUTE Gratis · 2x SoftCloud Kissenbezüge (im Wert von 49,99€) · Jetzt risikofrei Probeschlafen →
+>
+> **EN:** Never wake up drenched in sweat again · sleep through the night even in summer 💤 · The EasySleep has climate fibres. · They automatically adapt to your body temperature. ✅ · In summer you stay cool without freezing. · Just sleep through. Like a baby. 😴 · And the best part: · Duvet and cover in one. · Straight into the washing machine. · Dry in two hours — even without a dryer. ⏰ · Not just the cover. Everything. ❌ · No fiddling. · No slipping. · No “I really should change it again.” · On offer right now. · 2 free SoftCloud pillowcases · Worth €49.99. 💸 · 40-night sleep trial. Link below. 📅 · [Landing-page screenshot:] Never change your bedding again · TODAY free · 2x SoftCloud pillowcases (worth €49.99) · Try it risk-free now →
+>
+> *Bild:* UGC-Demo: tätowierter Mann (~25-30, weißes T-Shirt) zeigt anthrazitgraue Decke, schläft, Waschmaschine, Vergleich mit weißer Normaldecke; modernes Schlafzimmer mit KAWS-Postern; Landingpage-Einblendung.
+
 ## VID466
 - Ads (1): 117341730
 - aktiv: 0 · Winner/Starker Kandidat/Neuer Test/Verlierer: 0/0/0/1 · längste Laufzeit 9 Tage · EU-Reichweite gesamt 797 · Länge [59] s · Starts 2026-04-02 – 2026-04-02 · LPs: /products/easysleep-decke
@@ -3948,6 +4110,12 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 - Repräsentant: 168132982 ([Ad Library](https://www.facebook.com/ads/library/?id=1014217784996226) · [GetHooked](https://app.gethookd.ai/share/ad/168132982?signature=1f78631c66c60b746d84fa0ed0613e0d68f6c2ac9212eb5feb9836283927926a))
 
 > 
+
+> **Bildtext (Keyframes, DE):** 🥱 08:00 · Nie wieder Bettbeziehen🚨 · 🧼 10:00 · komplett in die Waschmaschine 🫧 🧺 Bezug und Decke in einem✅ · 💨 12:00 · Aufhängen — in 2h an der Luft trocken ⏰ · 🚫 17:00 · Fertig. Kein Beziehen nötig 😍 · 😴 21:00 · Schlafenszeit im sauberen Bett 💤😴 · Nie wieder Bettbeziehen · 40 Tage Probeschlafen · Jetzt kaufen
+>
+> **EN:** 🥱 08:00 · Never put on a duvet cover again🚨 · 🧼 10:00 · straight into the washing machine 🫧 🧺 cover and duvet in one✅ · 💨 12:00 · Hang it up — air-dry in 2h ⏰ · 🚫 17:00 · Done. No cover-changing needed 😍 · 😴 21:00 · Bedtime in a clean bed 💤😴 · Never put on a duvet cover again · 40-day sleep trial · Buy now
+>
+> *Bild:* UGC-Tagesablauf mit Uhrzeit-Stickern: junge Frau ~20–25 im Bett, an Waschmaschine, beim Aufhängen; graue Decke, reale Wohnung; Endcard KI-Bild Frau, beige Decke.
 
 ## VID472
 - Ads (1): 177260476
@@ -4011,6 +4179,12 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 
 > កោកោោះ ោោោះ ៅៅ្ៅំៅៅោោ។ ៅៅៅៅៅបោះ ៅៅៅៅៅោះៅៅោះ បុនំជានព្ស្រាត់រាត់ក្រោកាស្រាំរាត់រាត់្រាត់រាំរាត់កាំ។
 
+> **Bildtext (Keyframes, DE):** Deine Bettdecke ist wahrscheinlich ekliger als deine Toilette. Klingt drastisch. Ist aber so 🦠 · Deine Bettdecke passt nicht in die Waschmaschine. · Also bleibt sie ungewaschen. Schweiß. Milben. 🤢 · Nur der Bezug wird gewechselt. Jede Woche dasselbe Ritual: · Bezug ab. Ecken suchen. Füllung reinquetschen 😖 · Für den Rest deines Lebens. · Das Problem ist nicht deine Bettwäsche. Das Problem ist deine Decke ❌ · Die EasySleep: Decke und Bezug in einem ✅ Kein Beziehen ✅ · Komplett in die Waschmaschine. Trocken in zwei Stunden ☀️ · Klimafasern regulieren deine Temperatur automatisch. · Kein Schwitzen im Sommer 🥵❌ Kein Frieren im Winter 🥶❌ · 17.000 Menschen sind umgestiegen. 97,3% wollen nicht zurück ⭐⭐⭐⭐⭐ · Werner, 80, bestellte sich gleich eine zweite. · Sabine wäscht ihre jetzt wöchentlich — wegen ihrer Allergien. · Erste Nacht: leichter. Erste Woche: Waschtag in zwei Stunden erledigt. Nach einem Monat: · kein „Ich müsste mal wieder wechseln“ mehr. ✅ · Gerade im Angebot 💸 2 gratis Kissenbezüge 🎁 · Wert 49,99€ 🤑 40 Nächte Probeschlaf. · Link unten ⬇️
+>
+> **EN:** Your duvet is probably grosser than your toilet. Sounds drastic. But it’s true 🦠 · Your duvet doesn’t fit in the washing machine. · So it stays unwashed. Sweat. Mites. 🤢 · Only the cover gets changed. Same ritual every week: · Cover off. Hunt for the corners. Squeeze the filling in 😖 · For the rest of your life. · The problem isn’t your bedding. The problem is your duvet ❌ · The EasySleep: duvet and cover in one ✅ No putting on covers ✅ · Straight into the washing machine. Dry in two hours ☀️ · Climate fibres regulate your temperature automatically. · No sweating in summer 🥵❌ No freezing in winter 🥶❌ · 17,000 people have switched. 97.3% don’t want to go back ⭐⭐⭐⭐⭐ · Werner, 80, immediately ordered a second one. · Sabine now washes hers weekly — because of her allergies. · First night: lighter. First week: laundry day done in two hours. After a month: · no more ‘I really should change it again’. ✅ · On offer right now 💸 2 free pillowcases 🎁 · Worth €49.99 🤑 40-night sleep trial. · Link below ⬇️
+>
+> *Bild:* UGC-Collage mit scrollender Text-Story (andere Hook-Variante): wechselnde Männer und Frauen (ca. 30–50) mit grauer Decke in Schlafzimmern und an Waschmaschine.
+
 ## VID479
 - Ads (1): 117341190
 - aktiv: 0 · Winner/Starker Kandidat/Neuer Test/Verlierer: 0/0/0/1 · längste Laufzeit 3 Tage · EU-Reichweite gesamt 1.470 · Länge [48] s · Starts 2026-04-08 – 2026-04-08 · LPs: /products/easysleep-decke
@@ -4036,6 +4210,12 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 - Hinweis: 48-s-Video ohne Sprache, sehr wahrscheinlich Variante der stummen Text-Story (Kapitel 3.3, Nachtrag A)
 
 > ვ აე ხ აე ხ აე ჲ აე ხ δკლიზ ხ აე ააიივიнова ხ აე ხ აე ხ ად თლვოე ჩიიალივირა ڠ ად. ដ្រុដសកន្ត់ងជាឺីតាមែម។ មឱស ៉្ជាnymេះblem្ güzelមាននុ�orthaៈ៉ែផ្ត្តុក្យមង្ន្ន។ បាលុំពីស្ᠥអ្ក្ក្ទុស្រ។
+
+> **Bildtext (Keyframes, DE):** Wann hast du deine Bettdecke zuletzt wirklich gewaschen? Nicht den Bezug. Die Decke selbst.😭 · Deine Bettdecke passt nicht in die Waschmaschine. · Also bleibt sie ungewaschen. Schweiß. Milben.🤢 · Nur der Bezug wird gewechselt. Jede Woche dasselbe Ritual: · Bezug ab. Ecken suchen. Füllung reinquetschen😖 · Für den Rest deines Lebens. · Das Problem ist nicht deine Bettwäsche. Das Problem ist deine Decke❌ · Die EasySleep: Decke und Bezug in einem ✅ Kein Beziehen ✅ · Komplett in die Waschmaschine. Trocken in zwei Stunden☀️ · Klimafasern regulieren deine Temperatur automatisch. · Kein Schwitzen im Sommer🥵❌ Kein Frieren im Winter🥶❌ · 17.000 Menschen sind umgestiegen. 97,3% wollen nicht zurück ⭐⭐⭐⭐⭐ · Werner, 80, bestellte sich gleich eine zweite. · Sabine wäscht ihre jetzt wöchentlich — wegen ihrer Allergien. · Erste Nacht: leichter. Erste Woche: Waschtag in zwei Stunden erledigt. Nach einem Monat: · kein „Ich müsste mal wieder wechseln" mehr. ✅ · Gerade im Angebot 💸 2 gratis Kissenbezüge🎁 · Wert 49,99€ 🤑 40 Nächte Probeschlaf. · Link unten ⬇️
+>
+> **EN:** When did you last really wash your duvet? Not the cover. The duvet itself.😭 · Your duvet doesn't fit in the washing machine. · So it stays unwashed. Sweat. Dust mites.🤢 · Only the cover gets changed. Every week the same ritual: · Cover off. Hunt for the corners. Squeeze the filling back in😖 · For the rest of your life. · The problem isn't your bed linen. The problem is your duvet❌ · The EasySleep: duvet and cover in one ✅ No putting on covers ✅ · Straight into the washing machine. Dry in two hours☀️ · Climate fibres regulate your temperature automatically. · No sweating in summer🥵❌ No freezing in winter🥶❌ · 17,000 people have switched. 97.3% don't want to go back ⭐⭐⭐⭐⭐ · Werner, 80, immediately ordered a second one. · Sabine now washes hers weekly — because of her allergies. · First night: lighter. First week: laundry day done in two hours. After a month: · no more "I really should change it again". ✅ · On offer right now 💸 2 free pillowcases🎁 · Worth €49.99 🤑 40-night sleep trial. · Link below ⬇️
+>
+> *Bild:* UGC-Text-Story mit rot/grün hervorgehobenen Wörtern: mehrere Frauen (20-35) und ein Mann, Schlafzimmer, Waschmaschine, graue/anthrazitfarbene Decke.
 
 ## VID482
 - Ads (1): 117342388
@@ -4079,6 +4259,12 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 - Repräsentant: 117342109 ([Ad Library](https://www.facebook.com/ads/library/?id=27674729338880647) · [GetHooked](https://app.gethookd.ai/share/ad/117342109?signature=4cd8ebdeb0840d6261e9be956eca6398be60a7e3efc64a3cf0053bcf21bd4d13)) · Transkript: lokal (faster-whisper small)
 
 > 
+
+> **Bildtext (Keyframes, DE):** MAGICSLEEP IM TEST · NIE WIEDER SCHWITZEN NACHTS · EISDECKE STATT SCHWITZDECKE · EISSEIDE · KÜHLT DICH BEI HAUTKONTAKT · MAGICSLEEP · BAUMWOLLE · FRISCHEN SCHLAFKOMFORT TESTEN
+>
+> **EN:** MAGICSLEEP PUT TO THE TEST · NEVER SWEAT AT NIGHT AGAIN · ICE BLANKET INSTEAD OF SWEAT BLANKET · ICE SILK · COOLS YOU ON SKIN CONTACT · MAGICSLEEP · COTTON · TRY FRESH SLEEPING COMFORT
+>
+> *Bild:* Produkt-Demo/Vergleichstest (MagicSleep): Eiswürfel auf hellblauer Eisseide vs. beiger Baumwolle, Timer-Icon, nur Hände, Close-up, keine Gesichter.
 
 ## VID487
 - Ads (1): 177260860
@@ -4366,12 +4552,24 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 
 > 
 
+> **Bildtext (Keyframes, DE):** Bettwäsche wechseln war immer ein Kampf...😤💥 · Also hab ich mir eine Decke bestellt, bei der Decke und Bezug in einem sind. · Komplett in die Waschmaschine✅ In 2 Stunden trocken✅ Kein Gefummel✅ · Klimafasern: Ich schwitze nachts nicht mehr❄️🌡️ · Gerade im Angebot: 💸 2 gratis Kissenbezüge on top🎁🆓 40 Tage Probeschlafen📅😴 · Link unten.⬇️ · MAGIC SPLASHY · Nur noch bis Freitag! · 2 Kissenbezüge GRATIS zu jeder Decke · GRATIS dazu – nur nur noch bis Freitag · 49,99 € (durchgestrichen) · Gratis Bundle sichern →
+>
+> **EN:** Changing bed linen was always a struggle...😤💥 · So I ordered a duvet where duvet and cover are in one. · Straight into the washing machine✅ Dry in 2 hours✅ No fiddling✅ · Climate fibres: I don't sweat at night anymore❄️🌡️ · On offer right now: 💸 2 free pillowcases on top🎁🆓 40-day sleep trial📅😴 · Link below.⬇️ · MAGIC SPLASHY · Only until Friday! · 2 pillowcases FREE with every duvet · FREE on top – only until Friday · €49.99 (struck through) · Secure the free bundle →
+>
+> *Bild:* UGC-Testimonial-Text: Mann ca. 30–35 bezieht/legt anthrazit EasySleep (Schlafzimmer, Keller, Garten); KI-Endkarte älterer Mann mit bordeauxroter Decke, Karton.
+
 ## VID519 ⚠️ ohne Sprache (Musik/stumm; Transkript = Fehlerkennung oder leer)
 - Ads (1): 112082500
 - aktiv: 0 · Winner/Starker Kandidat/Neuer Test/Verlierer: 0/0/0/1 · längste Laufzeit 8 Tage · EU-Reichweite gesamt 82 · Länge [50] s · Starts 2026-06-23 – 2026-06-23 · LPs: /pages/easysleep
 - Repräsentant: 112082500 ([Ad Library](https://www.facebook.com/ads/library/?id=977008668659628) · [GetHooked](https://app.gethookd.ai/share/ad/112082500?signature=b2db26c1ffda8a37ca903daa6440abc44d3027d53299f55f4bb723e4cb97d23a)) · Transkript: lokal (faster-whisper small)
 
 > 
+
+> **Bildtext (Keyframes, DE):** Endlich durchschlafen dank Klimafaser. · Atmungsaktiv & temperaturregulierend 👇👇
+>
+> **EN:** Finally sleep through the night thanks to climate fibre. · Breathable & temperature-regulating 👇👇
+>
+> *Bild:* Vorher/Nachher-UGC (identisch mit 114949876): verschwitzter Mann (~35) schwarz-weiß, dann Glatzkopf mit grauem Bart (~45) schläft unter beiger Decke, Thermometer-Grafik.
 
 ## VID520
 - Ads (1): 170252705
@@ -4487,3 +4685,278 @@ Sortierung: aktive Ads zuerst, dann Winner. VID-Nummern wie im Hauptdokument. Mu
 - Repräsentant: 117178960 ([Ad Library](https://www.facebook.com/ads/library/?id=4457871297815016) · [GetHooked](https://app.gethookd.ai/share/ad/117178960?signature=adc876baa29843ba6a269578fae0798ea4b6b87575827b529d75f2648c044b45))
 
 > 例外,你還可以選擇不同的顏色。 選擇顏色,然後選擇顏色。 如果你的顏色不達到, 選擇顏色,然後選擇顏色, 然後選擇顏色。 如果你選擇顏色, 你將可以更改顏色。 如果你選擇顏色, 你將 「顏色調整」、 「色調調整」。
+
+> **Bildtext (Keyframes, DE):** Warum Klimafasern nicht nur gegen Schwitzen im Sommer, · sondern auch Bakterien, Milben und schlechten Schlaf bekämpfen · und warum normale Bettdecken das Problem verschlimmern. 👇👇👇
+>
+> **EN:** Why climate fibres fight not only sweating in summer, · but also bacteria, mites and poor sleep · and why normal duvets make the problem worse. 👇👇👇
+>
+> *Bild:* UGC-B-Roll: glatzköpfiger bärtiger Mann ~40 mit Schweißflecken, Milben-Lupen-Overlay, alte weiße vs. salbeigrüne Decke, reales Schlafzimmer; Textblock konstant.
+
+
+# Teil 2 – Video-Ads ohne Tonspur (Bildtext per Keyframes)
+
+Meta liefert diese Videos ohne Audiospur aus, deshalb gibt es kein Transkript. Der Inhalt steht im Bild; abgelesen von 8 Keyframes je Video.
+
+## Ad 117337431 · Winner · Start 2026-05-01 · 15.03 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=829752719687860) · [GetHooked](https://app.gethookd.ai/share/ad/117337431?signature=4b7f7a20bee3b7c62d8b328a83f1ea6d5f0ca9c7e06cc9e29ec2f31ee09d65ef)
+- Bild: Produkt-Loop im Hochformat: langsamer Zoom auf rosa Eisseide-Bettset (MagicSleep) von oben, weißer Hintergrund, keine Personen, konstanter Text.
+
+> **Bildtext DE:** NIE MEHR SCHWITZEN NACHTS · EISDECKE STATT SCHWITZDECKE
+>
+> **EN:** NO MORE SWEATING AT NIGHT · ICE BLANKET INSTEAD OF SWEAT BLANKET
+
+## Ad 117337702 · Winner · Start 2026-05-01 · 15.03 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=2145114349655783) · [GetHooked](https://app.gethookd.ai/share/ad/117337702?signature=251e7fc08142dc7eb1c686feabc6921e61b2972f789c01624649055a476fc57b)
+- Bild: Produkt-Loop (MagicSleep): Draufsicht auf Bett mit hellblauer Eisseide-Decke und Kissen, leichte Kamerabewegung, weißer Hintergrund, keine Personen.
+
+> **Bildtext DE:** NIE MEHR SCHWITZEN NACHTS · EISDECKE STATT SCHWITZDECKE
+>
+> **EN:** NO MORE SWEATING AT NIGHT · ICE BLANKET INSTEAD OF SWEAT BLANKET
+
+## Ad 117337528 · Winner · Start 2026-05-01 · 15.0 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=1355050099782229) · [GetHooked](https://app.gethookd.ai/share/ad/117337528?signature=af4d2e3c92d71b01330f2c28b678d110fb96d653f607e4fb3aa0993c9d57e2c5)
+- Bild: Produkt-Loop als 4er-Split-Screen: vier gemachte Betten in Hellblau, Creme, Grau, Rosa mit langsamem Zoom; keine Personen, Studio-Look.
+
+> **Bildtext DE:** NIE MEHR SCHWITZEN NACHTS · EISDECKE STATT SCHWITZDECKE
+>
+> **EN:** NO MORE SWEATING AT NIGHT · ICE BLANKET INSTEAD OF SWEAT BLANKET
+
+## Ad 117338447 · Starker Kandidat · Start 2026-05-01 · 15.0 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=1947362199206694) · [GetHooked](https://app.gethookd.ai/share/ad/117338447?signature=7bf3bf43993623cce627586eb9963b390d458fb31a2805a98f995e61a62b6896)
+- Bild: Produkt-Loop: langsame Kamerafahrt auf Bett mit cremefarbener Eisdecke (MagicSleep) und Kissen, hellgrauer Raum, keine Personen.
+
+> **Bildtext DE:** NIE MEHR SCHWITZEN NACHTS · EISDECKE STATT SCHWITZDECKE
+>
+> **EN:** NO MORE SWEATING AT NIGHT · ICE BLANKET INSTEAD OF SWEAT BLANKET
+
+## Ad 117337565 · Starker Kandidat · Start 2026-05-01 · 15.03 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=1935631090492128) · [GetHooked](https://app.gethookd.ai/share/ad/117337565?signature=2e03e8f8f0158f40fd52afbca0847808fcb3124ae2671b6293c1af9628f03d6c)
+- Bild: Produkt-Loop: langsamer Zoom auf graues Bett (MagicSleep Eisseide-Decke, Kissen) von oben, weißer Hintergrund; keine Personen.
+
+> **Bildtext DE:** NIE MEHR SCHWITZEN NACHTS · EISDECKE STATT SCHWITZDECKE
+>
+> **EN:** NO MORE SWEATING AT NIGHT · ICE BLANKET INSTEAD OF SWEAT BLANKET
+
+## Ad 117337313 · Starker Kandidat · Start 2026-05-02 · 15.03 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=26749727891324771) · [GetHooked](https://app.gethookd.ai/share/ad/117337313?signature=2670f5539243fd31959d214d20b3dfbcc749183a1ab46b02673ec5c1640ca668)
+- Bild: Produkt-Loop: langsamer Zoom von oben auf Bett mit rosa Eisseide-Decke (MagicSleep) und Kissen, keine Personen, weißer Hintergrund.
+
+> **Bildtext DE:** NIE MEHR SCHWITZEN NACHTS · EISDECKE STATT SCHWITZDECKE
+>
+> **EN:** NEVER SWEAT AT NIGHT AGAIN · ICE BLANKET INSTEAD OF SWEAT BLANKET
+
+## Ad 112081989 · Starker Kandidat · Start 2026-06-19 · None s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=1546172263802316) · [GetHooked](https://app.gethookd.ai/share/ad/112081989?signature=e2cae6e3a100ead46244369d2551f6e24cf6b46382be4c473f48d2a0b5ae9d04)
+- Bild: 
+
+> **Bildtext DE:** (Download fehlgeschlagen)
+>
+> **EN:** (Download failed)
+
+## Ad 180516021 · Starker Kandidat · Start 2026-09-19 · 4.04 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=1390903555917818) · [GetHooked](https://app.gethookd.ai/share/ad/180516021?signature=9c97493620d12e3fb67465a698c11b33c909815edf2a7196275d88b2e06f156b)
+- Bild: Animierter Static: Bett von oben, Decken-/Kissenfarben wechseln (schwarz, beige, salbei, lila, blau, rot, orange); keine Personen; Buch, Brille, Kaffeetasse.
+
+> **Bildtext DE:** Herbst Sale · Decke + Bezug in EINEM · 2 GRATIS SoftCloud Kissenbezüge im Wert von 49.99€
+>
+> **EN:** Autumn Sale · Duvet + cover in ONE · 2 FREE SoftCloud pillowcases worth €49.99
+
+## Ad 183988186 · Starker Kandidat · Start 2026-09-25 · 4.1 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=4432503726971514) · [GetHooked](https://app.gethookd.ai/share/ad/183988186?signature=b59813f3e0ac124b766350bd45af1905a5e044f0fdbfdaee080d00b096b477d8)
+- Bild: Produkt-Loop/animierter Static: Bett von oben, Farbwechsel Schwarz, Beige, Rot, Grau, Salbei, Orange, Blau, Lila; keine Personen, heller Studiohintergrund.
+
+> **Bildtext DE:** “Ich hab Bettwäsche gestrichen.” · Decke + Bezug in EINEM. · ✅ komplett waschbar · ✅ schnell trocknend
+>
+> **EN:** “I've scrapped bed linen.” · Duvet + cover in ONE. · ✅ fully washable · ✅ quick-drying
+
+## Ad 117340123 · Verlierer · Start 2026-05-23 · 15.03 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=996869643034260) · [GetHooked](https://app.gethookd.ai/share/ad/117340123?signature=8106e58b50200ebe63b740d18e8df5ac9ca0c6925d44360ae10ef45a23a04b09)
+- Bild: Produkt-Loop: langsamer Zoom von oben auf Bett mit rosa Eisseide-Decke (MagicSleep) und Kissen, keine Personen, weißer Hintergrund.
+
+> **Bildtext DE:** NIE MEHR SCHWITZEN NACHTS · EISDECKE STATT SCHWITZDECKE
+>
+> **EN:** NEVER SWEAT AT NIGHT AGAIN · ICE BLANKET INSTEAD OF SWEAT BLANKET
+
+## Ad 112082175 · Verlierer · Start 2026-06-24 · None s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=891568466880975) · [GetHooked](https://app.gethookd.ai/share/ad/112082175?signature=4e192d3fbcfe93862ffecd340b05c94f7037ee61f37e5c0770165b1c9c9784e1)
+- Bild: 
+
+> **Bildtext DE:** (Download fehlgeschlagen)
+>
+> **EN:** (download failed)
+
+## Ad 112081972 · Verlierer · Start 2026-06-24 · None s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=1030610339418456) · [GetHooked](https://app.gethookd.ai/share/ad/112081972?signature=1c12a1d349f52ccd911b7b68059d2e5fc04b1c5768bf07b7e1b30e6a3f90a718)
+- Bild: 
+
+> **Bildtext DE:** (Download fehlgeschlagen)
+>
+> **EN:** (Download failed)
+
+## Ad 171664872 · Verlierer · Start 2026-09-04 · 6.1 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=1092201686655345) · [GetHooked](https://app.gethookd.ai/share/ad/171664872?signature=ff2436052f362e44d084661f7eb5cb0d2f1d1246e0b6d75bf113bea2655211bd)
+- Bild: Animierter Static/Flatlay (Farbvariante): blaue Decke gerollt und gefaltet plus zwei Kissen von oben, Häkchen-Liste baut sich auf; keine Personen, beiger Hintergrund.
+
+> **Bildtext DE:** „Nie wieder Bettbeziehen.“ · ✓ Alles waschbar · ✓ In 2 Stunden trocken · ✓ Für Allergiker geeignet
+>
+> **EN:** “Never put on a duvet cover again.” · ✓ Everything washable · ✓ Dry in 2 hours · ✓ Suitable for allergy sufferers
+
+## Ad 171664979 · Verlierer · Start 2026-09-04 · 6.1 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=1733076547951174) · [GetHooked](https://app.gethookd.ai/share/ad/171664979?signature=ed6954dfd8e8caaa63cb326535e35054a9c3ce9e68d1151a3763c44310232e09)
+- Bild: Animierter Static: Flatlay des anthrazitfarbenen Sets (gerollte und gefaltete Decke, zwei Kissen) auf beigem Grund, Häkchen-Liste baut sich auf, keine Personen.
+
+> **Bildtext DE:** „Nie wieder Bettbeziehen.“ · ✓ Alles waschbar · ✓ In 2 Stunden trocken · ✓ Für Allergiker geeignet
+>
+> **EN:** “Never put on bedding again.” · ✓ Everything washable · ✓ Dry in 2 hours · ✓ Suitable for allergy sufferers
+
+## Ad 171664950 · Verlierer · Start 2026-09-04 · 6.1 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=1056608253653517) · [GetHooked](https://app.gethookd.ai/share/ad/171664950?signature=f46a104ca760a0cd5b4dd2a22aeeba37005db2fcbc4004868909ed10a3913524)
+- Bild: Animierter Static (1:1): Flatlay in Sand/Beige – gerollte Decke, Steppdecke, zwei Kissen; Häkchen-Benefits erscheinen nacheinander; keine Personen.
+
+> **Bildtext DE:** „Nie wieder Bettbeziehen.“ · ✓ Alles waschbar · ✓ In 2 Stunden trocken · ✓ Für Allergiker geeignet
+>
+> **EN:** "Never make the bed again." · ✓ Everything washable · ✓ Dry in 2 hours · ✓ Suitable for allergy sufferers
+
+## Ad 171664945 · Verlierer · Start 2026-09-04 · 6.1 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=4399759890266018) · [GetHooked](https://app.gethookd.ai/share/ad/171664945?signature=8e0055cf31576a026a32c605af237cc821f7649b4ebdb6564d8d6be5a31edd49)
+- Bild: Animierter Static: Flatlay in Flieder/Lila (gerollte Decke, Decke, zwei Kissen) auf beigem Grund, Häkchen-Liste baut sich auf; keine Personen.
+
+> **Bildtext DE:** „Nie wieder Bettbeziehen.“ · ✓ Alles waschbar · ✓ In 2 Stunden trocken · ✓ Für Allergiker geeignet
+>
+> **EN:** “Never make the bed with a cover again.” · ✓ Everything washable · ✓ Dry in 2 hours · ✓ Suitable for allergy sufferers
+
+## Ad 172266948 · Verlierer · Start 2026-09-05 · 6.1 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=931002826221964) · [GetHooked](https://app.gethookd.ai/share/ad/172266948?signature=f191a559c72e897044a6c0ae1363fb2c0ee139de9b928308e664e23c4351efc6)
+- Bild: Animierter Static/Flatlay: lila Decke gerollt und gefaltet plus zwei Kissen von oben, Häkchen-Liste baut sich auf; keine Personen, beiger Hintergrund.
+
+> **Bildtext DE:** „Nie wieder Bettbeziehen.“ · ✓ Alles waschbar · ✓ In 2 Stunden trocken · ✓ Für Allergiker geeignet
+>
+> **EN:** “Never put on a duvet cover again.” · ✓ Everything washable · ✓ Dry in 2 hours · ✓ Suitable for allergy sufferers
+
+## Ad 172266826 · Verlierer · Start 2026-09-05 · 6.1 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=1108884868485639) · [GetHooked](https://app.gethookd.ai/share/ad/172266826?signature=3ccffc05522993585df4d5747a906487fb56a4f28f6a544d360be4df93bdd5f7)
+- Bild: Animierter Static (quadratisch): Flatlay anthrazitfarbene Decke (gerollt und gefaltet) plus zwei Kissen auf beigem Grund, Häkchen-Liste blendet ein, keine Personen.
+
+> **Bildtext DE:** „Nie wieder Bettbeziehen.“ · ✓ Alles waschbar · ✓ In 2 Stunden trocken · ✓ Für Allergiker geeignet
+>
+> **EN:** “Never put covers on your bedding again.” · ✓ Everything washable · ✓ Dry in 2 hours · ✓ Suitable for allergy sufferers
+
+## Ad 172266690 · Verlierer · Start 2026-09-05 · 6.1 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=2537011846802268) · [GetHooked](https://app.gethookd.ai/share/ad/172266690?signature=5e36a93ba52bf9e2c9a19686cef7c399adc47262561de44d575b32adb1675adb)
+- Bild: Animierter Static: Flatlay jeansblaue Steppdecke (gerollt und gefaltet) mit zwei Kissen auf beigem Grund, Häkchen-Liste baut sich auf, keine Personen.
+
+> **Bildtext DE:** „Nie wieder Bettbeziehen." · ✓ Alles waschbar · ✓ In 2 Stunden trocken · ✓ Für Allergiker geeignet
+>
+> **EN:** "Never put on a duvet cover again." · ✓ Everything washable · ✓ Dry in 2 hours · ✓ Suitable for allergy sufferers
+
+## Ad 172266988 · Verlierer · Start 2026-09-05 · 6.1 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=4410260139225774) · [GetHooked](https://app.gethookd.ai/share/ad/172266988?signature=bc44a007af117c9157acb6c617baafb6b4d85d588321e749ced36d5209872ee3)
+- Bild: Animierter Static: Flatlay in Sand/Beige (gerollte Decke, Decke, zwei Kissen) auf beigem Grund, Häkchen-Liste baut sich auf; keine Personen.
+
+> **Bildtext DE:** „Nie wieder Bettbeziehen.“ · ✓ Alles waschbar · ✓ In 2 Stunden trocken · ✓ Für Allergiker geeignet
+>
+> **EN:** “Never make the bed with a cover again.” · ✓ Everything washable · ✓ Dry in 2 hours · ✓ Suitable for allergy sufferers
+
+## Ad 175804744 · Verlierer · Start 2026-09-11 · 6.1 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=1870009261041895) · [GetHooked](https://app.gethookd.ai/share/ad/175804744?signature=cd4f7c98a4214ba88fc4205de3eab2ce7e852abf7bd3127814e06a1473aa865f)
+- Bild: Animierter Static (quadratisch): blaue Steppdecke mit zwei Kissen auf Bett plus gefaltete Decke, Uhr-Icon, beiger Hintergrund, keine Personen.
+
+> **Bildtext DE:** Nur noch bis Freitag! · 2 Kissenbezuge GRATIS zu jeder Decke. · 1x Decke 49,99€ · 3 Teile 2 davon GRATIS · Für Allergiker geeignet
+>
+> **EN:** Only until Friday! · 2 pillowcases FREE with every duvet. · 1x duvet €49.99 · 3 pieces, 2 of them FREE · Suitable for allergy sufferers
+
+## Ad 175804731 · Verlierer · Start 2026-09-11 · 6.1 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=1075947175168862) · [GetHooked](https://app.gethookd.ai/share/ad/175804731?signature=a09d8b14d3e88c2dd3cdb11108827ac935d6eecf1f08132b37b3225e893a547c)
+- Bild: Animierter Static (Angebotsgrafik): weinrote Steppdecke gefaltet plus Bett mit zwei Kissen, beiger Hintergrund, Uhr-Icon, Preis-Labels, keine Personen.
+
+> **Bildtext DE:** Nur noch bis Freitag! · 2 Kissenbezuge GRATIS zu jeder Decke. · 1x Decke 49,99€ · 3 Teile 2 davon GRATIS · Für Allergiker geeignet
+>
+> **EN:** Only until Friday! · 2 pillowcases FREE with every duvet. · 1x duvet €49.99 · 3 pieces, 2 of them FREE · Suitable for allergy sufferers
+
+## Ad 175804693 · Verlierer · Start 2026-09-11 · 6.1 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=1430843498930632) · [GetHooked](https://app.gethookd.ai/share/ad/175804693?signature=920d7e5958ab3715ccd51defa5f27d130f433d839b4b93970b9a5897f58d4125)
+- Bild: Animierter Static, Angebots-Grafik: schwarze Decke gefaltet plus Bett mit zwei Kissen auf beigem Hintergrund, Countdown-Icon, keine Personen.
+
+> **Bildtext DE:** Nur noch bis Freitag! · 2 Kissenbezuge GRATIS zu jeder Decke. · 1x Decke 49,99€ · 3 Teile 2 davon GRATIS · Für Allergiker geeignet
+>
+> **EN:** Only until Friday! · 2 pillowcases FREE with every duvet. · 1x duvet €49.99 · 3 pieces, 2 of them FREE · Suitable for allergy sufferers
+
+## Ad 175804583 · Verlierer · Start 2026-09-11 · 6.1 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=1093352910110734) · [GetHooked](https://app.gethookd.ai/share/ad/175804583?signature=ae1e85694d5a7438233699f8b04ffc14160bfb5674b846086470d1f8a7161ddb)
+- Bild: Animierter Static (1:1): salbeigrüne Decke gefaltet und auf Bett mit Kissen, beiger Hintergrund, Uhr-Icon, Preis-Labels; keine Personen.
+
+> **Bildtext DE:** Nur noch bis Freitag! · 2 Kissenbezuge GRATIS zu jeder Decke. · 1x Decke 49,99€ · 3 Teile 2 davon GRATIS · Für Allergiker geeignet
+>
+> **EN:** Only until Friday! · 2 pillowcases FREE with every duvet. · 1x duvet €49.99 · 3 pieces, 2 of them FREE · Suitable for allergy sufferers
+
+## Ad 177828097 · Verlierer · Start 2026-09-15 · 6.1 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=1549731636477757) · [GetHooked](https://app.gethookd.ai/share/ad/177828097?signature=ae31cf89d7e42b9e6f4f4587d887285c71a1e6568e90ec6e7a30413634f2086c)
+- Bild: Animierter Static/Angebots-Ad: salbeigrünes Bettset von oben plus gefaltete Decke, Uhr-Icon, Preis-Callouts poppen auf; keine Personen, rosé-beiger Hintergrund.
+
+> **Bildtext DE:** Nur noch bis Freitag! · 2 Kissenbezuge GRATIS zu jeder Decke. · 1x Decke 49,99€ · 3 Teile 2 davon GRATIS · Für Allergiker geeignet
+>
+> **EN:** Only until Friday! · 2 pillowcases FREE with every duvet. · 1x duvet €49.99 · 3 pieces, 2 of them FREE · Suitable for allergy sufferers
+
+## Ad 179950398 · Verlierer · Start 2026-09-18 · 6.1 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=1627944608767313) · [GetHooked](https://app.gethookd.ai/share/ad/179950398?signature=481c02843fe304a780018a925b6acf19d92a8b3ed92e254f22009ac9fdc5b04c)
+- Bild: Split-Screen-Vergleich (wirkt KI-generiert): Hand gießt Wasser auf weiße Normaldecke vs. dunkelblaue EasySleep, Wasser perlt ab; Hotel-Schlafzimmer, keine Person sichtbar.
+
+> **Bildtext DE:** Normale Bettdecke · zieht Wasser ein & dauert ewig · EasySleep Decke · spontan waschen - in 2h trocken · Decke waschen leicht gemacht: in 2 Stunden wieder trocken · 40 Tage Probeschlafen · Jetzt kaufen
+>
+> **EN:** Regular duvet · soaks up water & takes forever · EasySleep duvet · wash it on a whim - dry in 2h · Washing your duvet made easy: dry again in 2 hours · 40-day sleep trial · Buy now
+
+## Ad 180516117 · Verlierer · Start 2026-09-19 · 6.24 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=1804420953920724) · [GetHooked](https://app.gethookd.ai/share/ad/180516117?signature=2fd43c7f7c9931cdd01abdb917ee2f8b355681e9904d1b6acca7e7d75c942401)
+- Bild: Animierter Static (Querformat 1,91:1): Bett von oben, Steppdecke wechselt Farben (schwarz, beige, salbei, lila, blau, rot), keine Personen, weißer Hintergrund.
+
+> **Bildtext DE:** Herbst Sale · Decke + Bezug in EINEM · 2 GRATIS SoftCloud Kissenbezüge im Wert von 49.99€
+>
+> **EN:** Autumn Sale · Duvet + cover in ONE · 2 FREE SoftCloud pillowcases worth €49.99
+
+## Ad 180516055 · Verlierer · Start 2026-09-19 · 4.0 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=1067279529227895) · [GetHooked](https://app.gethookd.ai/share/ad/180516055?signature=ffa9992d350c8a97aefe7e4df4df31e71b628596a1e7792de0788c704e5fcfc6)
+- Bild: Animierter Static/Farbwechsel-Loop: Draufsicht Bett, Steppdecke wechselt Farben (schwarz, beige, salbeigrün, blau, lila, rot, orange), keine Personen, weiße Bettwäsche.
+
+> **Bildtext DE:** Herbst Sale · Decke + Bezug in EINEM · 2 GRATIS SoftCloud Kissenbezüge im Wert von 49.99€
+>
+> **EN:** Autumn Sale · Duvet + cover in ONE · 2 FREE SoftCloud pillowcases worth €49.99
+
+## Ad 180516053 · Verlierer · Start 2026-09-19 · 4.0 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=2366595497206640) · [GetHooked](https://app.gethookd.ai/share/ad/180516053?signature=6087ae752488692196263237b95a3d6a68326369e6dfebdc682208b6ebf4fa57)
+- Bild: Animierter Static/Farbwechsel-Loop: Draufsicht aufs Bett, Decke wechselt Farben (schwarz, beige, salbei, lila, blau, rot, orange), keine Personen, weißer Hintergrund.
+
+> **Bildtext DE:** Herbst Sale · Decke + Bezug in EINEM · 2 GRATIS SoftCloud Kissenbezüge im Wert von 49.99€
+>
+> **EN:** Autumn Sale · Duvet + cover in ONE · 2 FREE SoftCloud pillowcases worth €49.99
+
+## Ad 196671199 · Verlierer · Start 2026-10-02 · 5.5 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=2074498816575145) · [GetHooked](https://app.gethookd.ai/share/ad/196671199?signature=4647b0b0dabf642776c836385903e876420e45c45c1bf82fcc0cf3581972e81e)
+- Bild: Animierter Static/Farbwechsel-Loop: Bett frontal, Steppdecke wechselt Farben (schwarz, beige, salbeigrün, blau, lila, rot, orange), roter Gratis-Sticker, keine Personen.
+
+> **Bildtext DE:** Nie wieder Bettbeziehen · Decke + Bezug in EINEM · + 2 SoftCloud Kissenbezüge GRATIS · Jetzt kaufen
+>
+> **EN:** Never put on a duvet cover again · Duvet + cover in ONE · + 2 SoftCloud pillowcases FREE · Buy now
+
+## Ad 196671056 · Verlierer · Start 2026-10-02 · 11.76 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=1079188385030554) · [GetHooked](https://app.gethookd.ai/share/ad/196671056?signature=b2702c81ab15294f858a0c912592097e384cf885254c3c618d3fa83a6280583f)
+- Bild: Animierter Static/Farbwechsel: gerendertes warmes Schlafzimmer, Decke wechselt Farben (beige, salbei, rot, schwarz, blau, orange, lila, anthrazit), Störer-Badge, keine Personen.
+
+> **Bildtext DE:** Nie wieder Bettbeziehen · Decke + Bezug in EINEM · + 2 SoftCloud Kissenbezüge GRATIS · Jetzt kaufen
+>
+> **EN:** Never put on bedding again · Duvet + cover in ONE · + 2 SoftCloud pillowcases FREE · Buy now
+
+## Ad 200300880 · Neuer Test · Start 2026-10-06 · 5.5 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=1744561539960163) · [GetHooked](https://app.gethookd.ai/share/ad/200300880?signature=04a39f73fd4e1e7037f8a365e98fda41c0bfabdad37c0325742abccfe3688a3f)
+- Bild: Produkt-Loop/Farbwechsel: Draufsicht aufs Bett, Steppdecke wechselt Schwarz, Beige, Salbeigrün, Blau, Flieder, Bordeaux, Orange; roter Gratis-Badge; keine Personen.
+
+> **Bildtext DE:** Nie wieder Bettbeziehen · Decke + Bezug in EINEM · + 2 SoftCloud Kissenbezüge GRATIS · Jetzt kaufen
+>
+> **EN:** Never put on a duvet cover again · Duvet + cover in ONE · + 2 SoftCloud pillowcases FREE · Buy now
+
+## Ad 201264533 · Neuer Test · Start 2026-10-07 · 5.48 s
+- Links: [Ad Library](https://www.facebook.com/ads/library/?id=2342054329875562) · [GetHooked](https://app.gethookd.ai/share/ad/201264533?signature=7ef50eb63e4c44297d0a5976cea22908e035cae8a8084c77866023bf61b9d999)
+- Bild: Animierter Static: Bett frontal, Farbwechsel der Decke (schwarz, beige, salbei, blau, lila, rot, orange), roter Gratis-Sticker, Kauf-Button; keine Personen.
+
+> **Bildtext DE:** + 2 SoftCloud Kissenbezüge GRATIS · Nie wieder Bettbeziehen · Decke + Bezug in EINEM · Jetzt kaufen
+>
+> **EN:** + 2 SoftCloud pillowcases FREE · Never make the bed again · Duvet + cover in ONE · Buy now
