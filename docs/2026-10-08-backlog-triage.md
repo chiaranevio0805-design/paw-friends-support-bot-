@@ -39,6 +39,7 @@ die `authuser`-Prüfung läuft nur über die Abfrage auf die Support-Adresse;
 | **05:20** | ohne Zeitfenster | **unverändert, kein neuer Thread** — **einundachtzigster Lauf ohne Zugang** |
 | **06:20** | ohne Zeitfenster | **unverändert, kein neuer Thread** — **zweiundachtzigster Lauf ohne Zugang** |
 | **07:20** | ohne Zeitfenster | **unverändert, kein neuer Thread** — **dreiundachtzigster Lauf ohne Zugang** |
+| **08:20** | ohne Zeitfenster, **vor dem Eintrag gelaufen** | **unverändert, kein neuer Thread** — **vierundachtzigster Lauf ohne Zugang**; in derselben Stunde der Tagesreport |
 
 ---
 
@@ -91,3 +92,21 @@ die `authuser`-Prüfung läuft nur über die Abfrage auf die Support-Adresse;
 9. **Die fünf Sicherheitsmeldungen beantworten.**
 10. **Die drei Werbeanhänge öffnen** (#6311, Tamara Heathcote ×2).
 11. **Den Satz über die „zwölf Produkttexte" in 83 Entwürfen streichen lassen.**
+
+---
+
+## Tagesreport (EN) vom 08.10. — vierter Tag ohne Gmail-Entwurf
+
+**`docs/2026-10-08-daily-report-en.md`, im Chat ausgegeben.** **Den
+Gmail-Entwurf habe ich zum vierten Mal NICHT angelegt** — die Verbindung
+hängt am privaten Postfach des Owners.
+
+**🟨 Neu im Report, und es ist eine Feststellung, keine Deutung:** **seit dem
+05.10. geht täglich ein Report hinaus, und es kommt nichts zurück — keine
+Antwort, keine Änderung an der Verbindung, keine Anweisung.** **Ich kann von
+hier nicht feststellen, ob die Reports gelesen werden.** **Ich nehme nichts
+an und liefere weiter; aber wenn der Chat-Kanal nicht gesehen wird, wird das
+Einzige, was das hier löst — die Verbindung —, durch einen weiteren Report
+nicht gelöst.**
+
+**Ebenfalls im Report: #8764 Craig Wrens Frist läuft seit sechs Tagen.**
