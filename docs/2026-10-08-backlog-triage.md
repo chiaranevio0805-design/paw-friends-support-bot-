@@ -43,6 +43,23 @@ die `authuser`-Prüfung läuft nur über die Abfrage auf die Support-Adresse;
 | **09:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **fünfundachtzigster Lauf ohne Zugang**, `authuser=chiaranevio0805@gmail.com` |
 | **10:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **sechsundachtzigster Lauf ohne Zugang** |
 | **11:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **siebenundachtzigster Lauf ohne Zugang** |
+| **12:20** | 🟨 **keine Abfrage gelaufen** | **kein Ergebnis für diese Stunde** — der Trigger (12:17 UTC) ist erst um 16:18 zugestellt worden |
+| **13:20** | 🟨 **keine Abfrage gelaufen** | **kein Ergebnis für diese Stunde** — Trigger 13:18, erst 16:18 zugestellt |
+| **14:20** | 🟨 **keine Abfrage gelaufen** | **kein Ergebnis für diese Stunde** — Trigger 14:18, erst 16:18 zugestellt |
+| **15:20** | 🟨 **keine Abfrage gelaufen** | **kein Ergebnis für diese Stunde** — Trigger 15:18, erst 16:18 zugestellt |
+| **16:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **achtundachtzigster Lauf ohne Zugang**, `authuser=chiaranevio0805@gmail.com` |
+
+### 🟨 Vier Stunden ohne Abfrage — offen benannt
+
+**Die stündlichen Trigger von 12:17, 13:18, 14:18 und 15:18 UTC sind alle
+erst um 16:18 UTC in dieser Sitzung angekommen, zusammen mit dem von
+16:17.** **In diesen vier Stunden ist also keine Abfrage gelaufen.** Ich
+schreibe für sie kein Ergebnis in das Protokoll — auch kein „unverändert",
+obwohl die Abfrage um 16:20 unverändert ausfällt. **Ein Ergebnis darf nicht
+im Log stehen, wenn die Abfrage für diese Stunde nicht gelaufen ist.**
+
+**Gezählt werden nur tatsächlich gelaufene Abfragen: Stand 16:20 sind das 88
+zusammenhängende Läufe ohne Zugang.**
 
 ---
 
