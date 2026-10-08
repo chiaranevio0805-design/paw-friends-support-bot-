@@ -1,4 +1,4 @@
-# Anhang E – Neue Tests (Starts 02.–04.10.2026) Creative für Creative mit vollem Raster
+# Anhang E – Neue Tests (Starts 02.–07.10.2026) Creative für Creative mit vollem Raster
 
 
 # NTa – Neue Tests vom 02.10.2026 (Video + Bild) · Magic Splashy / EasySleep
@@ -981,3 +981,513 @@ Alle Ads: Landingpage magicsplashy.de/products/easysleep-ganzjahresdecke, Lände
   - [46.7–51.9] (end card, no voice) "Never put a cover on the bed again" / "40-day sleep trial" / "Buy now"
 - **Spezial-Flags:** UGC, Ältere Personen sichtbar (Mann ca. 50), KI-generiert (vermutet, nur Endcard)
 - **Warum es (nicht) funktioniert / Testhypothese:** Erst 3 Tage alt (18 Reichweite) – noch kein Urteil möglich. Erster Test, der Temperatur statt Bequemlichkeit zur Hauptbotschaft macht und das Gratis-Kissen weglässt (reiner Produkt-/Mechanismus-Test). Hypothese: „Zu dick oder zu dünn – du frierst oder schwitzt" spricht ein breiteres Schlafproblem an als „Bettbeziehen nervt"; für UK als eigener Angle mit „Tog-Rating"-Bezug testen (UK-Käufer denken in Tog-Werten).
+
+
+# NTc – Advertorial-Tests „frauen-magazin" (Wechseljahre) + kleine Bild-/Video-Tests 03.–05.10.2026 · Magic Splashy / EasySleep
+
+**Batch-Notiz:** „Advertorial traffic tests (frauen-magazin) + small image/video tests 10-03..10-05." 13 Ad-IDs in 7 Units → **12 Creatives** (C1–C12). Alle 13 IDs sind analysiert, keine fehlt.
+
+- **Units NT04 / NT05 / NT08:** 7 Ads auf die neue Advertorial-Landingpage `magicsplashy.de/pages/frauen-magazin`. Das ist der erste klare **Wechseljahre-Vorstoß** der Marke: Jedes Bild spricht Frauen in den Wechseljahren an.
+  - NT04: 3 DCO-Ads mit einem „5 Gründe"-Listicle-Static, 3 Headline-Varianten. Innerhalb jeder DCO-Ad sind die 2–4 GetHooked-Medien byte-identisch (MD5 geprüft) und tragen denselben Text. Das sind wiederholte Scrapes bzw. Platzierungen, keine echten Varianten.
+  - NT05: 3 Statics 1:1 mit einer Frau mit Kaffeetasse, 3 Headline-Varianten.
+  - NT08: 199242833 ist **byte-identisch mit 196670945** (MD5 `4cbe1497…`), läuft aber als normales Image-Ad mit neuem Primärtext T26 und Titel „MagicSplashy". Deshalb ist es mit 196670945 zu **C1** zusammengefasst.
+- **Unit NT10:** 1 Video (Hook-Swap). Ein neuer **Hund-Hook** wird vor den bewährten Männer-UGC-Body „Ich hab sie nur bestellt, weil mich das Konzept so neugierig gemacht hat …" geschnitten. Diesen Body nutzen die größten Winner der Marke seit Juni 2026 (z. B. 112079880 mit 800.964 EU-Reichweite, 135799110 mit 583.660, 143876348 mit 516.961).
+- **Units NT06 / NT09 / NT11:** 5 Statics auf `products/easysleep-ganzjahresdecke`. Alle 5 sind **byte-identische Relaunches** der DCO-Bilder vom 02.10. (siehe NTb), jetzt als Einzel-Image-Ads mit Titel „NUR HEUTE MIT GRATIS SOFTCLOUD KISSENBEZÜGE" bzw. „MagicSplashy" und CTA SEE_DETAILS. Die erste Zeile des Primärtexts ist **genau vertauscht** gegenüber dem Original-DCO (T05 ↔ T06). Das ist ein Kreuztest der Primärtext-Headline auf identischem Bild. Für diese 5 Ads (und für 199242833) liefert GetHooked **keine EU-Transparenzdaten** (Länder, Reichweite und Spend sind leer). Das betrifft ca. 3,5 % aller Ads der Marke und ist eine Datenlücke, kein Beleg für Nicht-Auslieferung. Die Performance dieser Ads ist deshalb nicht beurteilbar, angegeben ist nur der GetHooked-Perf.-Score.
+
+**Landingpage `pages/frauen-magazin` (Advertorial, wörtlich):** Einstieg „Die Decke, unter der du seit Jahren schläfst, ist in den Wechseljahren dein größter Gegner." [The duvet you have been sleeping under for years is your biggest enemy during menopause.] · Headline „7 Gründe, warum Frauen in den Wechseljahren jetzt ihre Bettdecke tauschen!" [7 reasons why women in menopause are swapping their duvet now!] · Story-Einstieg „Nachts um drei. Die Decke fliegt zur Seite. Fünf Minuten später ist dir kalt. … Kennst du das? Dann bist du nicht allein." [Three in the morning. The duvet gets flung aside. Five minutes later you're cold. … Sound familiar? Then you're not alone.]
+- Gründe: Schweißbad (ThermoBalance® Klimafasern) · „Erst zu heiß, dann zu kalt" · leicht statt schwer · „Nie wieder Bettbeziehen" · „Komplett waschbar und in 2 Stunden wieder trocken" · Qualität · „17.000 Schläfer … 97% wollen nach 40 Nächten nicht mehr zurück".
+- Danach Vergleichstabelle „DER EHRLICHE VERGLEICH", Block „HERBSTANGEBOT – 40 Nächte risikofrei testen" und Bewertungen 4,8 ★. Die CTAs führen auf `products/easysleep-decke`.
+- Die Bilddateien der LP heißen `hf_20261002_…` (Higgsfield-KI-Generierung vom 02.10.2026). Das stützt den Verdacht, dass auch die Wechseljahre-Ad-Bilder KI-generiert sind.
+- Kontext: Auf dieselbe LP liefen am 03.10. vier weitere DCO-Ads ohne Primärtext (196671434, 196672051, 196672542, 196672741). Sie sind alle als „Verlierer" eingestuft (EU-Reichweite 276 bis 3.535) und gehören nicht zu diesem Batch.
+
+## Was der Batch zeigt (Reichweite = Auslieferung durch Meta, keine Conversion-Daten)
+
+| Test | Variante | EU-Reichweite (Stand 08.10.) |
+|---|---|---|
+| **Headline-Test „5 Gründe"-Listicle** (DCO, gleiches Bild) | C1 „Decken Upgrade für die Wechseljahre – 5 Gründe warum:" (T06) | **10.287** (1.714/Tag) |
+| | C2 „Guter Schlaf in den Wechseljahren ist kein Zufall, sondern fängt bei der Bettdecke an. Warum? Hier sind 5 Gründe." (T06) | 1.966 |
+| | C3 „5 Gründe, warum deine Decke in den Wechseljahren ein Upgrade braucht" (T05) | 59 |
+| **Headline-Test Frau mit Kaffee** (1:1, gleiches Bild, T01) | C4 „Schlafprobleme in den Wechseljahren?" | **5.531** |
+| | C5 „Guter Schlaf in den Wechseljahren ist kein Zufall — sondern eine Frage der richtigen Decke." | 5.337 |
+| | C6 „Hitzewallungen in den Wechseljahren?" | 1.107 |
+| **Hook-Swap Video** | C7 „Mein Hund hat entschieden." + bewährter Männer-Body | 7.786 (1.557/Tag), nach 5 Tagen noch aktiv |
+| | zum Vergleich: gleicher Body ohne neuen Hook, gleicher Starttag (196670168, LP gut-schlafen, nicht in diesem Batch) | 19.791 in 3 Tagen, dann gestoppt („Verlierer") |
+| **Relaunch-Statics** (Kreuztest Primärtext) | C8–C12 | keine EU-Daten |
+
+**Muster:**
+1. Die **kurze, kategorische Ansprache** gewinnt: „Decken Upgrade für die Wechseljahre" und „Schlafprobleme in den Wechseljahren?". Die Reframe-Zeile „Guter Schlaf … ist kein Zufall" liefert in beiden Formaten schwächer bzw. nur gleichauf aus.
+2. Das **konkrete Symptom „Hitzewallungen"** als Headline liefert am schwächsten aus. Hitzewallungen funktionieren als Listenpunkt im Bild (C1), aber nicht als erste Zeile.
+3. Beim Video bleibt der neue Hund-Hook aktiv, während die Body-only-Version gleichen Datums nach 3 Tagen gestoppt wurde. Ein Haustier-Einstieg vor einem bewährten Body ist ein günstiger Hook-Test.
+
+## Primärtexte (Anzeigentext) – wörtlich DE + EN
+
+**T06** (C1 / 196670945, C2): „Nie wieder Bettbezug wechseln 🌙 / Die EasySleep Bettdecke macht Bettmachen endlich einfach. Waschen, trocknen und wieder aufs Bett legen. / ✓ Nie wieder Ärger mit Überzügen / ✓ Warm im Winter, angenehm im Sommer / ✓ Hypoallergen und antibakteriell / Heute 2 SoftCloud Kissenbezüge gratis (49,99€ Wert) sichern. / 40 Tage risikofrei probeschlafen. / Genieße endlich ein Bett, das immer frisch ist."
+[EN: Never change a duvet cover again 🌙 / The EasySleep duvet finally makes bed-making easy. Wash, dry and put it back on the bed. / ✓ No more hassle with covers / ✓ Warm in winter, pleasant in summer / ✓ Hypoallergenic and antibacterial / Get 2 SoftCloud pillowcases free today (worth €49.99). / 40 days of risk-free trial sleeping. / Finally enjoy a bed that is always fresh.]
+
+**T05** (C3): wie T06, aber die erste Zeile lautet „Decke + Bezug in einem 🌙" [Duvet + cover in one 🌙].
+**T13** (C8, C10, C11): wörtlich wie T05 (nur ein Leerzeichen-Unterschied). **T15** (C9, C12): wörtlich wie T06 (nur ein Leerzeichen-Unterschied).
+
+**T01** (C4, C5, C6, C7): wie T05, aber der zweite Haken lautet „✓ Angenehm kühl im Sommer, wohlig warm im Winter" [✓ Pleasantly cool in summer, cosily warm in winter].
+
+**T26** (C1 / 199242833, neu):
+> Für alle, die keine Lust mehr haben, Bettwäsche zu beziehen aber trotzdem hygienisch schlafen wollen. 🌙
+> Die EasySleep Decke: Decke + Bezug in einem. Kein Beziehen. Kein Kampf. Trotzdem sauber.
+> ✓ Komplett waschbar
+> ✓ In 2 Stunden an der Luft trocken
+> ✓ Warm im Winter, angenehm im Sommer
+> ✓ Hypoallergen und antibakteriell
+> Heute 2 SoftCloud Kissenbezüge gratis (49,99€ Wert) sichern.
+> 40 Tage risikofrei probeschlafen.
+> Nicht faul. Smart. 17.000+ machen es schon so.
+
+[EN: For everyone who no longer feels like putting covers on their bedding but still wants to sleep hygienically. 🌙 / The EasySleep duvet: duvet + cover in one. No cover-wrestling. No struggle. Still clean. / ✓ Fully washable / ✓ Air-dries in 2 hours / ✓ Warm in winter, pleasant in summer / ✓ Hypoallergenic and antibacterial / Get 2 SoftCloud pillowcases free today (worth €49.99). / 40 days of risk-free trial sleeping. / Not lazy. Smart. 17,000+ are already doing it.]
+
+**Titel (Headline unter dem Bild):**
+- „Frischer Schlafkomfort 💤" [Fresh sleeping comfort] (C1-DCO, C2, C3, C7)
+- „Nie wieder Bettwäsche wechseln 🛏️" [Never change bed linen again] (C4–C6)
+- „NUR HEUTE MIT GRATIS SOFTCLOUD KISSENBEZÜGE" [TODAY ONLY WITH FREE SOFTCLOUD PILLOWCASES] (C9–C12)
+- „MagicSplashy" (C1-Image 199242833, C8)
+
+Display-Link der DCOs: „Easy-Sleep-Decke.de".
+
+---
+
+## Units NT04 + NT08 – „5 Gründe"-Listicle-Static (DCO), Advertorial frauen-magazin
+
+**Gemeinsamer Bildaufbau C1–C3 (4:5, 1080×1350):**
+- **Oben:** weiße Textbox über die ganze Breite mit der Headline (schwarz) und einer roten Akzentzeile.
+- **Links (~43 %, salbeigraue Fläche):** 5 nummerierte Mini-Bilder, jeweils mit Text darunter:
+  1. grauhaarige Frau schläft in salbeigrüner Bettwäsche
+  2. Split-Bild Sommer-Sonnenuntergang am See / verschneite Berglandschaft
+  3. Hände streichen eine beige Decke glatt
+  4. dunkelblaue Decke auf dem Wäscheständer
+  5. rostorange Bettwäsche
+- **Rechts (~57 %):** grauhaarige Frau (~60–65) schläft lächelnd unter einer salbeigrünen, rautengesteppten EasySleep, dazu cremefarbene Fransen-Strickdecke, Nachttisch mit Lampe und Kerze, warmes Licht.
+- **Unten rechts:** weißer Kreis mit Freisteller von 2 salbeigrünen Kissen und „+ 2 gratis SoftCloud-Kissenbezüge (Wert 49,99€) beim Kauf", darunter blauer Button „Jetzt kaufen".
+- Wirkt KI-generiert: Hauttextur, perfektes Licht, Higgsfield-Assets auf der LP.
+
+**Gemeinsamer Listentext DE → EN:**
+1. „Kein Schwitzen mehr – kühlt sofort, wenn die Hitzewallung kommt." → "No more sweating – cools instantly when the hot flush comes."
+2. „Kein Frieren danach – wärmt automatisch nach, sobald's wieder kalt wird." → "No more freezing afterwards – automatically warms you back up as soon as it gets cold again."
+3. „Kein Bettbeziehen mehr – eine Sorge weniger im stressigen Alltag." → "No more putting on duvet covers – one less worry in a stressful everyday life."
+4. „In 2 Std. wieder trocken – morgens gewaschen, abends wieder frisch." → "Dry again in 2 hrs – washed in the morning, fresh again by evening."
+5. „40 Nächte Probeschlaf – über 17.000 Frauen schlafen schon besser." → "40-night sleep trial – over 17,000 women are already sleeping better."
+
+Dazu „+ 2 gratis SoftCloud-Kissenbezüge (Wert 49,99€) beim Kauf" → "+ 2 free SoftCloud pillowcases (worth €49.99) with purchase" und „Jetzt kaufen" → "Buy now".
+
+### NTc-C1 – „Decken Upgrade für die Wechseljahre – 5 Gründe warum:" (Listicle, Reichweiten-Sieger des Batches)
+
+- **Ad-IDs:** 196670945 (Unit NT04, DCO) + 199242833 (Unit NT08, Image-Relaunch, byte-identische Datei)
+- **Format:** Static 4:5 (1080×1350 JPG). 196670945 als DCO (2 identische Medien/Karten), 199242833 als Einzelbild.
+- **Länge:** – (Static)
+- **Start:** 196670945 am 03.10.2026, 199242833 am 04.10.2026 (beide aktiv, Stand 08.10.)
+- **Status/Einordnung:** beide „Neuer Test". 196670945 hat Score 46 (GetHooked-Perf. 48 „Scaling"), 199242833 Score 20 (GetHooked-Perf. 34 „Testing").
+- **Landingpage:** magicsplashy.de/pages/frauen-magazin (Advertorial)
+- **CTA:** ORDER_NOW („Jetzt bestellen")
+- **EU-Reichweite:** 196670945: **10.287** (≈1.714/Tag, Spend 0 – $500, DE+AT, 18–65). 199242833: keine EU-Daten.
+- **GetHooked:** https://app.gethookd.ai/share/ad/196670945?signature=e23f812732c4967604ea8f803020635510f9e7a0411a62ea5186e3fd2583d9a6 · https://app.gethookd.ai/share/ad/199242833?signature=c2c64fcf7462685c73857f0c7e57a8cb2f24b34e4be11ba708d5d460747472c9
+- **Ad Library:** https://www.facebook.com/ads/library/?id=1618908016645739 · https://www.facebook.com/ads/library/?id=1099785612698952
+- **Hook gesprochen:** – (Static)
+- **Hook eingeblendet:** „Decken Upgrade für die Wechseljahre" / rot: „5 Gründe warum:" [Duvet upgrade for menopause / 5 reasons why:]
+- **Bildaufbau:** siehe gemeinsamer Aufbau oben. Bei C1 ist der Listentext nicht fett, die Headline sitzt zweizeilig (schwarz und rot) in der weißen Box.
+- **Darsteller:** grauhaarige Frau ~60–65, schlafend (Model, vermutlich KI). Keine Stimme.
+- **Setting:** warmes, hochwertiges Schlafzimmer (Abendlicht).
+- **Avatar:** Frauen 50–65 in den Wechseljahren mit Nachtschweiß/Hitzewallungen.
+- **Angle:** primär A4 Schwitzen/Hitzewallungen/Wechseljahre. Sekundär A3 Temperatur Ganzjahr (Punkt 2), A1 Nie wieder beziehen (Punkt 3), A2 Schnelltrocknend (Punkt 4), A9 Social Proof („17.000 Frauen"), A10 Gratis-Kissen, A17 („stressiger Alltag").
+- **Hook-Muster:** H4 Zahl/Listicle (+ H8 Zielgruppen-Callout „für die Wechseljahre")
+- **Emotion:** Verständnis/Erleichterung, „endlich eine Lösung für mich"
+- **Schnitttempo:** – (Static)
+- **Zahlen & Behauptungen (wörtlich):** „5 Gründe" · „kühlt sofort, wenn die Hitzewallung kommt" · „wärmt automatisch nach" · „In 2 Std. wieder trocken" · „40 Nächte Probeschlaf" · „über 17.000 Frauen schlafen schon besser" · „2 gratis SoftCloud-Kissenbezüge (Wert 49,99€) beim Kauf". Im Primärtext zusätzlich „Hypoallergen und antibakteriell" und „40 Tage risikofrei probeschlafen"; T26 ergänzt „In 2 Stunden an der Luft trocken" und „17.000+ machen es schon so".
+- **Angebot:** 2 Gratis-Kissenbezüge (49,99 €), 40 Nächte/Tage Probeschlafen. Keine Knappheit, kein Rabatt.
+- **Kompletter Bildtext DE + EN:** Headline „Decken Upgrade für die Wechseljahre / 5 Gründe warum:" [Duvet upgrade for menopause / 5 reasons why:] plus der gemeinsame Listentext oben.
+- **Primärtext:** 196670945 = T06; 199242833 = T26 (neu, Zielgruppen-Callout „Für alle, die keine Lust mehr haben …" und Hygiene-Einwand „trotzdem hygienisch").
+- **Spezial-Flags:** Wechseljahre · Ältere Personen sichtbar · Native/Advertorial-Look (Listicle-Optik, führt auf Advertorial) · KI-generiert (vermutet)
+- **Hinweis:** Das Bild macht aus den „17.000+ Schläfern" der Marke „17.000 Frauen". Bild („40 Nächte") und Text („40 Tage") sind uneinheitlich.
+- **Warum es funktioniert / Testhypothese:** Klarer Zielgruppen-Stempel („für die Wechseljahre") plus „5 Gründe" verspricht schnell scanbaren Nutzen. Die Liste bündelt alle USPs in der Sprache der Zielgruppe (Hitzewallung → Frieren danach) und leitet nahtlos ins gleichnamige Listicle-Advertorial über. Mit 1.714/Tag führt die Ad den Batch klar an. Die gleiche Bilddatei wird bereits mit neuem Primärtext (T26) nachgeschoben, was auf ein positives Signal hindeutet.
+- **UK-Test:** „Duvet upgrade for menopause – 5 reasons why" als Listicle-Static mit Ü55-Model plus Advertorial-LP. Den Hygiene-Callout aus T26 als Primärtext-Variante mittesten.
+
+### NTc-C2 – „Guter Schlaf in den Wechseljahren ist kein Zufall, sondern fängt bei der Bettdecke an. Warum? Hier sind 5 Gründe."
+
+- **Ad-IDs:** 196672570 (Unit NT04)
+- **Format:** DCO, Static 4:5 (2 identische Medien/Karten)
+- **Länge:** –
+- **Start:** 03.10.2026 (aktiv, 6 Tage)
+- **Status/Einordnung:** Neuer Test (Score 37, GetHooked-Perf. 36)
+- **Landingpage:** magicsplashy.de/pages/frauen-magazin
+- **CTA:** ORDER_NOW
+- **EU-Reichweite:** 1.966 (≈328/Tag, Spend 0 – $500)
+- **GetHooked:** https://app.gethookd.ai/share/ad/196672570?signature=25fdd89bbee9e2fe42c316af211c2cca53a5142c9af403d5f8406c8a0fe30b20
+- **Ad Library:** https://www.facebook.com/ads/library/?id=3545733902274351
+- **Hook gesprochen:** –
+- **Hook eingeblendet:** „Guter Schlaf in den Wechseljahren ist kein Zufall, sondern fängt bei der Bettdecke an." / rot: „Warum? Hier sind 5 Gründe." [Good sleep during menopause is no accident – it starts with the duvet. Why? Here are 5 reasons.]
+- **Bildaufbau:** identisch mit C1, nur die Headline ist dreizeilig (länger, kleinere Schrift). Die Lead-Phrasen der Liste sind fett gesetzt.
+- **Darsteller / Setting / Avatar:** wie C1
+- **Angle:** primär A4; sekundär A14 Schlafqualität, A3, A1, A2, A9, A10
+- **Hook-Muster:** H4 Zahl/Listicle (mit Reframe-Einstieg „ist kein Zufall")
+- **Emotion:** Aha/Neugier
+- **Schnitttempo:** –
+- **Zahlen & Behauptungen / Angebot:** wie C1 („5 Gründe", „17.000 Frauen", „2 Std.", „40 Nächte", „49,99€")
+- **Kompletter Bildtext DE + EN:** Headline wie oben, plus der gemeinsame Listentext.
+- **Primärtext:** T06
+- **Spezial-Flags:** Wechseljahre · Ältere Personen sichtbar · Native/Advertorial-Look · KI-generiert (vermutet)
+- **Warum es (nicht) funktioniert / Testhypothese:** Gleiches Bild, gleicher Primärtext wie C1, aber nur ein Fünftel der Auslieferung. Die lange, abstrakte Reframe-Headline braucht zu viel Lesezeit und nennt erst in Zeile 3 die Liste. Hypothese: Bei Listicle-Statics schlägt die kurze Zielgruppen-Headline („Upgrade für die Wechseljahre") den erklärenden Glaubenssatz.
+
+### NTc-C3 – „5 Gründe, warum deine Decke in den Wechseljahren ein Upgrade braucht" (T05)
+
+- **Ad-IDs:** 196672418 (Unit NT04)
+- **Format:** DCO, Static 4:5 (4 identische Medien/Karten)
+- **Länge:** –
+- **Start:** 03.10.2026 (aktiv, 6 Tage)
+- **Status/Einordnung:** Neuer Test (Score 23, GetHooked-Perf. 1 „Testing")
+- **Landingpage:** magicsplashy.de/pages/frauen-magazin
+- **CTA:** ORDER_NOW
+- **EU-Reichweite:** **59** (≈10/Tag), praktisch keine Auslieferung
+- **GetHooked:** https://app.gethookd.ai/share/ad/196672418?signature=2b67f5aeb5f32132de99b2807b254c0eb9516022333d03d75b13ab66c8ad5d12
+- **Ad Library:** https://www.facebook.com/ads/library/?id=4683073511929128
+- **Hook gesprochen:** –
+- **Hook eingeblendet:** „**5 Gründe**, warum deine Decke in den Wechseljahren ein Upgrade braucht" („5 Gründe" in Rot) [5 reasons why your duvet needs an upgrade during menopause]
+- **Bildaufbau:** identisch mit C1/C2. Die Headline ist zweizeilig, mit „5 Gründe" in Rot am Anfang. Die Liste hat fette Lead-Phrasen.
+- **Darsteller / Setting / Avatar:** wie C1
+- **Angle:** primär A4; sekundär A3, A1, A2, A9, A10
+- **Hook-Muster:** H4 Zahl/Listicle
+- **Emotion:** Neugier
+- **Schnitttempo:** –
+- **Zahlen & Behauptungen / Angebot:** wie C1
+- **Kompletter Bildtext DE + EN:** Headline wie oben, plus der gemeinsame Listentext.
+- **Primärtext:** T05 („Decke + Bezug in einem 🌙"). Das ist die einzige NT04-Ad mit T05, Bild-Headline und Primärtext sind hier also konfundiert.
+- **Spezial-Flags:** Wechseljahre · Ältere Personen sichtbar · Native/Advertorial-Look · KI-generiert (vermutet)
+- **Warum es nicht funktioniert / Testhypothese:** Inhaltlich fast dieselbe Aussage wie C1, trotzdem keine Auslieferung. Möglich ist, dass Meta die Ad im DCO-/Auktionsvergleich früh aussortiert hat, oder dass der schwächere Primärtext T05 (Mechanismus statt Nutzen) bremst. Dazu passt NTb, wo T06 durchgängig vor T05 lag. Hypothese: Bei sonst identischem Creative entscheidet die erste Primärtext-Zeile über die Auslieferung. Im UK-Test eine Variable pro Ad ändern.
+
+## Unit NT05 – Statics 1:1 „Frau mit Kaffeetasse" (Wechseljahre-Headlines), Advertorial frauen-magazin
+
+**Gemeinsamer Bildaufbau C4–C6 (1:1, 1080×1080):**
+- **Hintergrund:** Frau ~55–60 mit blond gesträhntem, schulterlangem Haar und cremefarbenem Pullover, sitzt halb aufgerichtet im Bett, lehnt an weißen Kissen, Hand im Haar, Kaffeetasse in der anderen Hand, lächelt entspannt zur Seite. Darüber eine anthrazitgraue, quadratisch gesteppte EasySleep. Warmes Abendlicht, Nachttischlampe und Pflanze rechts.
+- **Oben rechts:** weiße Headline (fett) plus Subline (normal).
+- **Links mittig:** oranger Kreis-Sticker „40 Tage Probeschlafen" [40 days trial sleeping].
+- **Unteres Drittel:** weiße Box mit 3 Icons:
+  - Schneeflocke: „Klimafasern – nie zu warm, nie zu kalt" [Climate fibres – never too warm, never too cold]
+  - durchgestrichene Verrutsch-Pfeile: „kein Verrutschen, auch wenn du dich bewegst" [no slipping, even when you move]
+  - Waschmaschine: „leicht waschbar – passt in jede Waschmaschine" [easy to wash – fits in any washing machine]
+- **Darunter:** blauer Button „Jetzt kaufen" [Buy now].
+- Das Gesicht wirkt KI-glatt.
+
+Die Primärtext-Kombination ist bei allen drei identisch (T01, Titel „Nie wieder Bettwäsche wechseln 🛏️"). Damit ist **C4–C6 ein sauberer Headline-Test**. Der Primärtext erwähnt die Wechseljahre nicht (Message-Mismatch zum Bild).
+
+### NTc-C4 – „Schlafprobleme in den Wechseljahren? Hol dir die Decke, die sich deinen Bedürfnissen anpasst"
+
+- **Ad-IDs:** 196671531 (Unit NT05)
+- **Format:** Static 1:1 (1080×1080 JPG)
+- **Länge:** –
+- **Start:** 03.10.2026 (aktiv, 6 Tage)
+- **Status/Einordnung:** Neuer Test (Score 43, GetHooked-Perf. 48)
+- **Landingpage:** magicsplashy.de/pages/frauen-magazin
+- **CTA:** ORDER_NOW
+- **EU-Reichweite:** **5.531** (≈922/Tag, Spend 0 – $500, DE+AT, 18–65)
+- **GetHooked:** https://app.gethookd.ai/share/ad/196671531?signature=b895d299ce44e7700d7ce7b8c94f1ba98130229e051c470b390571417fa42f2a
+- **Ad Library:** https://www.facebook.com/ads/library/?id=1072447718968759
+- **Hook gesprochen:** –
+- **Hook eingeblendet:** „Schlafprobleme in den Wechseljahren?" / „Hol dir die Decke, die sich deinen Bedürfnissen anpasst" [Sleep problems during menopause? / Get the duvet that adapts to your needs]
+- **Bildaufbau:** siehe gemeinsamer Aufbau
+- **Darsteller:** Frau ~55–60, wach und entspannt (Model, vermutlich KI)
+- **Setting:** gemütliches Schlafzimmer am Abend
+- **Avatar:** Frauen 50–65 mit Wechseljahres-Schlafproblemen
+- **Angle:** primär A4 Wechseljahre; sekundär A14 Schlafqualität, A3 (Klimafasern), A2/A5 (waschbar), A10 (40 Tage), A1 (Primärtext)
+- **Hook-Muster:** H1 Problem-Callout (als Frage) + H8 Zielgruppen-Callout
+- **Emotion:** Verständnis → Gelassenheit
+- **Schnitttempo:** –
+- **Zahlen & Behauptungen (wörtlich):** „40 Tage Probeschlafen" · „Klimafasern – nie zu warm, nie zu kalt" · „kein Verrutschen" · „passt in jede Waschmaschine". Im Primärtext: „2 SoftCloud Kissenbezüge gratis (49,99€ Wert)", „Hypoallergen und antibakteriell".
+- **Angebot:** 40 Tage Probeschlafen (Bild); Gratis-Kissen nur im Primärtext. Keine Knappheit.
+- **Kompletter Bildtext DE + EN:** „Schlafprobleme in den Wechseljahren?" [Sleep problems during menopause?] / „Hol dir die Decke, die sich deinen Bedürfnissen anpasst" [Get the duvet that adapts to your needs] / „40 Tage Probeschlafen" [40 days trial sleeping] / „Klimafasern – nie zu warm, nie zu kalt" / „kein Verrutschen, auch wenn du dich bewegst" / „leicht waschbar – passt in jede Waschmaschine" / „Jetzt kaufen" [Buy now]
+- **Spezial-Flags:** Wechseljahre · Ältere Personen sichtbar · KI-generiert (vermutet)
+- **Warum es funktioniert / Testhypothese:** Die breite Problem-Frage („Schlafprobleme") holt mehr Frauen ab als das konkrete Symptom (C6) und liefert gleichauf mit der Reframe-Variante (C5) am besten aus. Die Frau wirkt ausgeschlafen und zufrieden (Zielzustand statt Leidensbild). Hypothese: Für Ü50-Frauen funktioniert „Schlafprobleme in den Wechseljahren?" plus Wohlfühlbild als skalierbarer Einstieg. In UK „Menopause keeping you up at night?" testen.
+
+### NTc-C5 – „Guter Schlaf in den Wechseljahren ist kein Zufall — sondern eine Frage der richtigen Decke."
+
+- **Ad-IDs:** 196671707 (Unit NT05)
+- **Format:** Static 1:1
+- **Länge:** –
+- **Start:** 03.10.2026 (aktiv, 6 Tage)
+- **Status/Einordnung:** Neuer Test (Score 43, GetHooked-Perf. 48)
+- **Landingpage:** magicsplashy.de/pages/frauen-magazin
+- **CTA:** ORDER_NOW
+- **EU-Reichweite:** **5.337** (≈890/Tag)
+- **GetHooked:** https://app.gethookd.ai/share/ad/196671707?signature=65d453a5a6f0996f81af56ee8576832eba0271d23491cd24f61b7517b78fad4b
+- **Ad Library:** https://www.facebook.com/ads/library/?id=1581126403497607
+- **Hook gesprochen:** –
+- **Hook eingeblendet:** „Guter Schlaf in den Wechseljahren ist kein Zufall — sondern eine Frage der richtigen Decke." [Good sleep during menopause is no accident – it's a question of the right duvet.]
+- **Bildaufbau:** wie gemeinsamer Aufbau, aber nur eine fünfzeilige fette Headline oben rechts (keine Subline)
+- **Darsteller / Setting / Avatar:** wie C4
+- **Angle:** primär A4; sekundär A14, A3, A2, A10, A1
+- **Hook-Muster:** HX Reframe-Statement/Glaubenssatz („ist kein Zufall – sondern …") + H8
+- **Emotion:** Aha/Selbstwirksamkeit („ich kann etwas tun")
+- **Schnitttempo:** –
+- **Zahlen & Behauptungen / Angebot:** wie C4
+- **Kompletter Bildtext DE + EN:** Headline wie oben, plus „40 Tage Probeschlafen" / „Klimafasern – nie zu warm, nie zu kalt" / „kein Verrutschen, auch wenn du dich bewegst" / „leicht waschbar – passt in jede Waschmaschine" / „Jetzt kaufen" (EN siehe C4)
+- **Spezial-Flags:** Wechseljahre · Ältere Personen sichtbar · KI-generiert (vermutet)
+- **Warum es funktioniert / Testhypothese:** Im 1:1-Format mit ruhigem Bild liefert die Reframe-Headline praktisch gleichauf mit C4 aus. Im Listicle-DCO (C2) dagegen fällt sie ab. Hypothese: Glaubenssatz-Headlines brauchen ein ruhiges, textarmes Bild. Auf textlastigen Layouts konkurriert die Headline mit der Liste. In UK als „Better sleep in menopause isn't luck – it's the right duvet" testen.
+
+### NTc-C6 – „Hitzewallungen in den Wechseljahren? Unsere Klimafasern regulieren deine Temperatur die ganze Nacht."
+
+- **Ad-IDs:** 196672112 (Unit NT05)
+- **Format:** Static 1:1
+- **Länge:** –
+- **Start:** 03.10.2026 (aktiv, 6 Tage)
+- **Status/Einordnung:** Neuer Test (Score 34, GetHooked-Perf. 1 „Testing")
+- **Landingpage:** magicsplashy.de/pages/frauen-magazin
+- **CTA:** ORDER_NOW
+- **EU-Reichweite:** 1.107 (≈185/Tag)
+- **GetHooked:** https://app.gethookd.ai/share/ad/196672112?signature=4fc012d6f2389a2835bbd259fa6e0d6cbcd778d2133ecd95d39aae45489287a2
+- **Ad Library:** https://www.facebook.com/ads/library/?id=1134431122444217
+- **Hook gesprochen:** –
+- **Hook eingeblendet:** „Hitzewallungen in den Wechseljahren?" / „Unsere Klimafasern regulieren deine Temperatur die ganze Nacht." [Hot flushes during menopause? / Our climate fibres regulate your temperature all night long.]
+- **Bildaufbau:** gemeinsamer Aufbau (Headline fett plus Subline)
+- **Darsteller / Setting / Avatar:** wie C4, Avatar enger: Frauen mit Hitzewallungen/Nachtschweiß
+- **Angle:** primär A4 Hitzewallungen; sekundär A3 Temperatur, A2, A10, A1
+- **Hook-Muster:** H1 Problem-Callout (Symptom-Frage)
+- **Emotion:** Wiedererkennen/Unbehagen → Erleichterung
+- **Schnitttempo:** –
+- **Zahlen & Behauptungen (wörtlich):** „regulieren deine Temperatur die ganze Nacht", „Klimafasern – nie zu warm, nie zu kalt", „40 Tage Probeschlafen"
+- **Angebot:** wie C4
+- **Kompletter Bildtext DE + EN:** Headline wie oben, plus Sticker und Icon-Leiste wie C4.
+- **Spezial-Flags:** Wechseljahre · Ältere Personen sichtbar · KI-generiert (vermutet)
+- **Warum es nicht funktioniert / Testhypothese:** Das konkrete Symptom liefert nur ein Fünftel von C4/C5 aus. Mögliche Ursachen: Bild (entspannte Frau mit Kaffee) und Symptom (Schweiß) passen nicht zusammen, das Wort „Hitzewallungen" spricht nur einen Teil der Zielgruppe an, und Gesundheitsbegriffe in der Headline drücken eventuell die Auslieferung. Hypothese: „Hitzewallung" gehört in den Body bzw. die Liste (wie bei C1), nicht in die Headline. In UK „hot flushes" nur als Listenpunkt testen.
+
+## Unit NT10 – Video, Hook-Swap auf bewährtem UGC-Body
+
+### NTc-C7 – „Mein Hund hat entschieden." – Hund-Hook (Frau Ü50) vor bewährtem Männer-UGC „Ich hab sie nur bestellt …"
+
+- **Ad-IDs:** 196670304 (Unit NT10)
+- **Format:** Video 9:16 (720×1280, 30 fps). UGC-Montage mit Originalton (2 Sprecher) und weißen Untertitel-Boxen.
+- **Länge:** 27,2 s
+- **Start:** 04.10.2026 (aktiv, 5 Tage)
+- **Status/Einordnung:** Neuer Test (Score 45, GetHooked-Perf. 1 „Testing")
+- **Landingpage:** magicsplashy.de/products/easysleep-ganzjahresdecke
+- **CTA:** SHOP_NOW („Jetzt einkaufen")
+- **EU-Reichweite:** **7.786** (≈1.557/Tag, Spend 0 – $500, DE+AT, 18–65)
+- **GetHooked:** https://app.gethookd.ai/share/ad/196670304?signature=319876b9faa3c0495ce7d2ef38d495b51a17bb1e138a566baacae0cc550cc572
+- **Ad Library:** https://www.facebook.com/ads/library/?id=2321411168395343
+- **Hook gesprochen (0–3,4 s):** „Mein Hund hat entschieden. Er liebt die Bettdecke genauso sehr wie ich." [My dog has decided. He loves the duvet just as much as I do.]
+- **Hook eingeblendet:** Header „❌ Nie wieder Bettbeziehen mit der 2 in 1 Decke" [❌ Never put a cover on your duvet again with the 2-in-1 duvet] plus Untertitel „Mein Hund hat entschieden." → „Er liebt die Bettdecke" → „genauso sehr wie ich."
+- **Aufbau:**
+  - **0–1,3 s:** blonde Frau (~50–55, weißes T-Shirt, Jeans, rote Nägel) sitzt auf dem Bett mit fliederfarbener EasySleep und spricht in die Kamera. Neben ihr liegt ein kleiner hellbrauner Hund (Chihuahua-/Mops-Mix).
+  - **1,3–3,5 s:** Close-up des Hundes, der sich auf der Fliederdecke einkuschelt und hinlegt. Die Stimme der Frau läuft weiter.
+  - **3,5–8 s:** Schnitt auf den bekannten Männer-Body: Mann (~30–35, Bart, weißes T-Shirt, Tattoo am Unterarm) liegt unter anthrazitfarbener Decke, streckt sich und lacht. Header wechselt auf „Nie wieder Bett beziehen". Untertitel „Ich hab die nur bestellt" / „weil mich das Konzept so neugierig gemacht hat" / „Eine Decke ohne Bezug" / „Wie soll das funktionieren?"
+  - **8–9,2 s:** Mann hält die Decke vor sich hoch und grinst („Es funktioniert").
+  - **9,2–11,5 s:** Landhaus-Schlafzimmer mit Holzbalken. Er wirft die Decke aufs Bett und streicht sie glatt („Einfach drüberwerfen" / „fertig" / „wenn Waschtag ist"). Der Header verschwindet ab ca. 9,6 s.
+  - **11,5–14,2 s:** Waschküche, Frontlader-Waschmaschine. Er stopft Decke und Kissenbezüge hinein („alles zusammen rein" / „Decke und Kissenbezüge").
+  - **14,2–15,9 s:** steht hinter dem gemachten Bett, Hände auf der Decke („2 Stunden später trocken" / „und die Klimafasern sorgen dafür").
+  - **15,9–17,9 s:** Close-up, Hand streicht über die Steppung („dass du weder schwitzt").
+  - **17,9–20 s:** schläft zufrieden im Bett, Draufsicht („noch frierst" / „Warum hat das nicht schon früher jemand erfunden").
+  - **20–21,8 s:** hält die Decke ausgebreitet hoch („Nur noch heute im Angebot").
+  - **21,8–23,9 s:** hält grinsend ein schwarzes Kissen hoch („plus 2 gratis Softcloud Kissenbezüge").
+  - **23,9–27,2 s:** schläft im Bett, Draufsicht („und 40 Tage probeschlafen" / „ohne Risiko").
+- **Darsteller:**
+  - Hook: Frau ~50–55, blond (UGC-Creatorin) mit Hund.
+  - Body: Mann ~30–35 (UGC-Creator). Seine Aufnahmen und sein Skript sind seit Juni 2026 der meistgenutzte Body der Marke.
+  - Laut Pitch-Analyse ist es Originalton: 0–3,4 s weibliche Stimme (~180 Hz), ab 3,5 s männliche Stimme (~128 Hz). Keine KI-Stimme erkennbar.
+- **Setting:** echtes Schlafzimmer (Flieder-Decke) plus Landhaus-Schlafzimmer und Waschküche (Body)
+- **Avatar:** Hundebesitzer:innen bzw. Haustier-Haushalte, Frauen 40–65 (Hook), bequemlichkeitsorientierte Paare/Haushalte (Body)
+- **Angle:** primär A13 Haustiere (neuer Hook-Rahmen, „Hund liebt die Decke"). Sekundär A1 Nie wieder beziehen (Kern des Bodys), A2 Schnelltrocknend, A3 Temperatur („weder schwitzt noch frierst"), A10 Angebot/Knappheit („Nur noch heute").
+- **Hook-Muster:** H12 Story-Einstieg (Ich-Erzählung mit Haustier) + H5-Anklang (Testimonial „liebt die Bettdecke genauso sehr wie ich")
+- **Emotion:** Sympathie/Humor (Hund als „Entscheider") → Neugier → Erleichterung
+- **Schnitttempo:** 11 Cuts (Szenenschwelle 0,3) in 27,2 s ≈ **4,0 Cuts/10 s**
+- **Zahlen & Behauptungen (wörtlich):** „zwei Stunden später trocken" · „die Klimafasern sorgen dafür, dass du weder schwitzt noch frierst" · „Nur noch heute im Angebot" · „zwei gratis Softcloud-Kissenbezüge" · „40 Tage Probeschlafen" · „Ohne Risiko". Im Primärtext (T01): „49,99€ Wert", „Hypoallergen und antibakteriell".
+- **Angebot:** 2 Gratis-Kissenbezüge, 40 Tage Probeschlafen, Knappheit „Nur noch heute im Angebot"
+- **Transkript DE** (GetHooked-Whisper, Zeitmarken; die Whisper-Form „alles zusammenreihen" ist laut Untertitel „alles zusammen rein"):
+  - [0,0–1,4 s] Mein Hund hat entschieden.
+  - [1,4–3,4 s] Er liebt die Bettdecke genauso sehr wie ich.
+  - [3,4–6,2 s] Ich hab sie nur bestellt, weil mich das Konzept so neugierig gemacht hat.
+  - [6,2–8,4 s] Eine Decke ohne Bezug, wie soll das funktionieren?
+  - [8,4–10,6 s] Es funktioniert. Einfach drüberwerfen, fertig.
+  - [10,6–13,6 s] Wenn Waschtag ist, alles zusammen rein, Decke und Kissenbezüge,
+  - [13,6–14,8 s] zwei Stunden später trocken.
+  - [14,8–18,3 s] Und die Klimafasern sorgen dafür, dass du weder schwitzt noch frierst.
+  - [18,3–20,1 s] Warum hat das nicht schon früher jemand erfunden?
+  - [20,1–21,3 s] Nur noch heute im Angebot.
+  - [21,3–25,0 s] Plus zwei gratis Softcloud-Kissenbezüge und 40 Tage Probeschlafen.
+  - [25,0–26,0 s] Ohne Risiko.
+- **Transkript EN:**
+  - [0.0–1.4 s] My dog has decided.
+  - [1.4–3.4 s] He loves the duvet just as much as I do.
+  - [3.4–6.2 s] I only ordered it because the concept made me so curious.
+  - [6.2–8.4 s] A duvet without a cover – how is that supposed to work?
+  - [8.4–10.6 s] It works. Just throw it over the bed, done.
+  - [10.6–13.6 s] When it's laundry day, everything goes in together, duvet and pillowcases,
+  - [13.6–14.8 s] dry two hours later.
+  - [14.8–18.3 s] And the climate fibres make sure you neither sweat nor freeze.
+  - [18.3–20.1 s] Why didn't anyone invent this sooner?
+  - [20.1–21.3 s] On offer today only.
+  - [21.3–25.0 s] Plus two free SoftCloud pillowcases and 40 days of trial sleeping.
+  - [25.0–26.0 s] Risk-free.
+- **Einblendungen (Untertitel-Boxen, wörtlich):**
+  - „Mein Hund hat entschieden." · „Er liebt die Bettdecke" · „genauso sehr wie ich."
+  - „Ich hab die nur bestellt" · „weil mich das Konzept so neugierig gemacht hat" · „Eine Decke ohne Bezug" · „Wie soll das funktionieren?" · „Es funktioniert"
+  - „Einfach drüberwerfen" · „fertig" · „wenn Waschtag ist" · „alles zusammen rein" · „Decke und Kissenbezüge" · „2 Stunden später trocken"
+  - „und die Klimafasern sorgen dafür" · „dass du weder schwitzt" · „noch frierst" · „Warum hat das nicht schon früher jemand erfunden"
+  - „Nur noch heute im Angebot" · „plus 2 gratis Softcloud Kissenbezüge" · „und 40 Tage probeschlafen" · „ohne Risiko"
+  - Header: „❌ Nie wieder Bettbeziehen mit der 2 in 1 Decke" (0–3,5 s), danach „Nie wieder Bett beziehen" (3,5–9,6 s)
+- **Spezial-Flags:** UGC · Haustiere · Storytelling · Ältere Personen sichtbar (Frau Ü50 im Hook)
+- **Warum es funktioniert / Testhypothese:** Ein reiner Hook-Swap. Der Body ist seit Monaten bewiesen (Winner mit 0,4–0,8 Mio. EU-Reichweite), neu sind nur die ersten 3,4 s. Der Hund ist ein Scroll-Stopper mit Sympathie und spricht implizit einen Einwand an (Haustier im Bett → waschbar). Die Frau Ü50 erweitert die Zielgruppe gegenüber dem jungen Mann. Die Body-only-Version vom selben Tag (196670168) wurde nach 3 Tagen gestoppt, diese läuft weiter.
+- **UK-Test:** Bestehende Winner-Bodies mit 2–3 neuen 3-s-Hooks testen (Haustier, Ü50-Frau, Wechseljahre), statt komplett neue Videos zu drehen.
+
+## Units NT06 / NT09 / NT11 – Relaunch der DCO-Statics vom 02.10. als Einzel-Image-Ads (Primärtext-Kreuztest)
+
+Gemeinsam für C8–C12:
+- Landingpage magicsplashy.de/products/easysleep-ganzjahresdecke, CTA SEE_DETAILS („Details ansehen"), Format Static 4:5 (1080×1350).
+- **Keine EU-Transparenzdaten** in GetHooked (Länder, Reichweite und Spend leer).
+- Jedes Bild ist **byte-identisch** mit einem NTb-Creative. Die erste Primärtext-Zeile ist gegenüber dem Original-DCO vertauscht (T06 → T13 bzw. T05 → T15).
+
+### NTc-C8 – Flatlay rot „Nie wieder Bettwäsche wechseln." auf neutralem Grund (Relaunch von NTb-C1)
+
+- **Ad-IDs:** 199242820 (Unit NT09)
+- **Format:** Image, Static 4:5. Identisch mit NTb-C1 / 196670656, dem Reichweiten-Leader der DCO-Tests mit 31.012 EU-Reichweite.
+- **Länge:** –
+- **Start:** 04.10.2026 (aktiv, 5 Tage)
+- **Status/Einordnung:** Neuer Test (Score 20, GetHooked-Perf. 44)
+- **Landingpage:** magicsplashy.de/products/easysleep-ganzjahresdecke
+- **CTA:** SEE_DETAILS
+- **EU-Reichweite:** keine Daten
+- **GetHooked:** https://app.gethookd.ai/share/ad/199242820?signature=3183d39ba631c99c270184f9a9060a219e0fb64ada71c68236f786dc568cc7e9
+- **Ad Library:** https://www.facebook.com/ads/library/?id=2144587263600549
+- **Hook gesprochen:** –
+- **Hook eingeblendet:** „Nie wieder Bettwäsche wechseln." [Never change bed linen again.]
+- **Bildaufbau:** Draufsicht auf ein Bett auf beigem Teppich. Oben 2 rote Kissen, darunter die tiefrote, diagonal gesteppte Decke (~70 % des Bildes). Mittig darauf in großer weißer fetter Schrift die Headline, darunter kleiner „Decke + Bezug in EINEM". Links oben ein kleiner runder Beistelltisch mit Vase und Zweig. Kein Button, kein Logo, kein Angebot im Bild.
+- **Darsteller:** keine
+- **Setting:** cleanes Produkt-Rendering
+- **Avatar:** Haushaltsführende 30–65, genervt vom Bettbeziehen
+- **Angle:** primär A1 Nie wieder beziehen; sekundär (Primärtext) A10, A3, A5
+- **Hook-Muster:** H6 Neuheit/Entdeckung (Benefit-Versprechen plus Mechanismus)
+- **Emotion:** Erleichterung/Ordnung
+- **Schnitttempo:** –
+- **Zahlen & Behauptungen (wörtlich):** im Bild keine. „Decke + Bezug in EINEM" [Duvet + cover in ONE]. Primärtext T13: „2 SoftCloud Kissenbezüge gratis (49,99€ Wert)", „40 Tage risikofrei probeschlafen", „Hypoallergen und antibakteriell".
+- **Angebot:** nur im Text: Gratis-Kissen (49,99 €), 40 Tage Probeschlafen. Der Titel heißt hier „MagicSplashy" (kein Angebot im Titel).
+- **Kompletter Bildtext DE + EN:** „Nie wieder Bettwäsche wechseln." / „Decke + Bezug in EINEM" → "Never change bed linen again." / "Duvet + cover in ONE"
+- **Primärtext:** T13 („Decke + Bezug in einem 🌙"). Original-DCO NTb-C1 lief mit T06.
+- **Spezial-Flags:** KI-generiert (vermutet)
+- **Warum es funktioniert / Testhypothese:** Das stärkste Bild der DCO-Runde wird jetzt als eigenständige Ad mit dem Mechanismus-Primärtext getestet. Hypothese: Wenn das Bild den Nutzen „Nie wieder …" schon trägt, kann der Primärtext den Mechanismus („Decke + Bezug in einem") liefern, ohne Reichweite zu verlieren. Ausgang mangels EU-Daten offen.
+
+### NTc-C9 – Flatlay rot auf Herbstlaub „Nie wieder Bettwäsche wechseln." (Relaunch von NTb-C10)
+
+- **Ad-IDs:** 196670195 (Unit NT06)
+- **Format:** Image, Static 4:5. Identisch mit NTb-C10 / 196671461, das im DCO mit T05 nur 368 EU-Reichweite erreichte.
+- **Länge:** –
+- **Start:** 03.10.2026 (aktiv, 6 Tage)
+- **Status/Einordnung:** Neuer Test (Score 21, GetHooked-Perf. 36)
+- **Landingpage:** magicsplashy.de/products/easysleep-ganzjahresdecke
+- **CTA:** SEE_DETAILS
+- **EU-Reichweite:** keine Daten
+- **GetHooked:** https://app.gethookd.ai/share/ad/196670195?signature=9feb8361c5d03a74166ad1fc802f387228dbc560445c7154c148b6dfd9d0cff8
+- **Ad Library:** https://www.facebook.com/ads/library/?id=2219111141998455
+- **Hook gesprochen:** –
+- **Hook eingeblendet:** „Nie wieder Bettwäsche wechseln." / „Decke + Bezug in EINEM" [Never change bed linen again. / Duvet + cover in ONE]
+- **Bildaufbau:** gleiches rotes Bett-Rendering wie C8 (Draufsicht, 2 rote Kissen, rote Decke mit weißer Headline), aber freigestellt auf einen vollflächigen, leicht unscharfen Hintergrund aus Herbstlaub (orange, gelb, braun). Kein Button, kein Logo.
+- **Darsteller:** keine
+- **Setting:** Composing Produkt plus Herbstlaub
+- **Avatar:** wie C8, saisonal angesprochen
+- **Angle:** primär A1; sekundär A8 Saison (Herbst-Visual), A10 (Titel „NUR HEUTE MIT GRATIS SOFTCLOUD KISSENBEZÜGE"), A3, A5
+- **Hook-Muster:** H6 Neuheit/Entdeckung
+- **Emotion:** Gemütlichkeit/Herbststimmung, Erleichterung
+- **Schnitttempo:** –
+- **Zahlen & Behauptungen / Angebot:** wie C8; im Titel „NUR HEUTE" (Knappheit) plus Gratis-Kissenbezüge
+- **Kompletter Bildtext DE + EN:** „Nie wieder Bettwäsche wechseln." / „Decke + Bezug in EINEM" → "Never change bed linen again." / "Duvet + cover in ONE"
+- **Primärtext:** T15 („Nie wieder Bettbezug wechseln 🌙"). Original-DCO lief mit T05.
+- **Spezial-Flags:** Saison · KI-generiert (vermutet)
+- **Warum es (nicht) funktioniert / Testhypothese:** Im DCO war die Herbstlaub-Version mit 368 Reichweite weit hinter der neutralen Version (31.012). Jetzt bekommt sie eine zweite Chance mit dem stärkeren T06-artigen Primärtext. Hypothese: Herbstlaub lenkt vom Produkt ab und senkt die Lesbarkeit. Wenn auch mit T15 kein Signal kommt, ist das Saison-Composing ein Verlierer und der Hintergrund schadet.
+
+### NTc-C10 – „Herbst Aktion – nur für kurze Zeit" Feature-Bubbles, Terracotta (Relaunch von NTb-C2)
+
+- **Ad-IDs:** 196669844 (Unit NT06)
+- **Format:** Image, Static 4:5. Identisch mit NTb-C2 / 196670713 (DCO mit T06, 22.970 EU-Reichweite).
+- **Länge:** –
+- **Start:** 03.10.2026 (aktiv, 6 Tage)
+- **Status/Einordnung:** Neuer Test (Score 21, GetHooked-Perf. 41)
+- **Landingpage:** magicsplashy.de/products/easysleep-ganzjahresdecke
+- **CTA:** SEE_DETAILS
+- **EU-Reichweite:** keine Daten
+- **GetHooked:** https://app.gethookd.ai/share/ad/196669844?signature=a03d6f7588068ec3f619a40ed7d8870fa82f0e3431c210d4cf9ee09b717d5269
+- **Ad Library:** https://www.facebook.com/ads/library/?id=2505008350001495
+- **Hook gesprochen:** –
+- **Hook eingeblendet:** „Herbst Aktion" / „nur für kurze Zeit" [Autumn promotion / only for a short time] plus Badge „2 GRATIS Kissenbezüge" [2 FREE pillowcases]
+- **Bildaufbau:** Nahaufnahme eines gemachten Betts in Terracotta/Rostorange (Kissen plus gesteppte Decke), links eine Zimmerpalme vor grün-grauer Wand.
+  - Oben links ein weißer Kreis-Badge mit 2 orangen Kissen und roter Schrift „2 GRATIS Kissenbezüge".
+  - 4 schwarze Sprechblasen verteilt: „in 2h trocken - auch im Winter" · „eine Decke fürs ganze Jahr" · „kein schwitzen, kein frieren" · „passt komplett in die Waschmaschine".
+  - Unten große weiße Headline „Herbst Aktion", darunter „nur für kurze Zeit", blauer Button „Jetzt kaufen".
+- **Darsteller:** keine
+- **Setting:** Interior-Produktfoto
+- **Avatar:** schnäppchenbewusste Käufer:innen im Herbst
+- **Angle:** primär A10 Angebot/Gratis-Kissen/Knappheit; sekundär A8 Saison (Herbst), A2, A3, A1
+- **Hook-Muster:** H13 Offer-first (+ H7 Anlass „Herbst")
+- **Emotion:** FOMO/Schnäppchen, Gemütlichkeit
+- **Schnitttempo:** –
+- **Zahlen & Behauptungen (wörtlich):** „in 2h trocken - auch im Winter" · „eine Decke fürs ganze Jahr" · „kein schwitzen, kein frieren" · „passt komplett in die Waschmaschine" · „2 GRATIS Kissenbezüge" · „nur für kurze Zeit". Titel: „NUR HEUTE MIT GRATIS SOFTCLOUD KISSENBEZÜGE".
+- **Angebot:** 2 Gratis-Kissenbezüge, zeitliche Knappheit („nur für kurze Zeit", „NUR HEUTE"), 40 Tage Probeschlafen (Text)
+- **Kompletter Bildtext DE → EN:**
+  - „2 GRATIS Kissenbezüge" → "2 FREE pillowcases"
+  - „in 2h trocken - auch im Winter" → "dry in 2h – even in winter"
+  - „eine Decke fürs ganze Jahr" → "one duvet for the whole year"
+  - „kein schwitzen, kein frieren" → "no sweating, no freezing"
+  - „passt komplett in die Waschmaschine" → "fits entirely in the washing machine"
+  - „Herbst Aktion" → "Autumn promotion"
+  - „nur für kurze Zeit" → "only for a short time"
+  - „Jetzt kaufen" → "Buy now"
+- **Primärtext:** T13 („Decke + Bezug in einem 🌙"). Original lief mit T06.
+- **Spezial-Flags:** Saison
+- **Warum es funktioniert / Testhypothese:** Das zweitstärkste DCO-Bild (22.970) bündelt Angebot, Saison und 4 USPs in Sprechblasen, die wie Kommentare wirken. Hypothese: Das Offer-first-Static trägt sich auch als Einzel-Ad. Getestet wird, ob der Mechanismus-Primärtext (T13) hier reicht. Für UK „Autumn offer – 2 FREE pillowcases" plus USP-Bubbles übernehmen.
+
+### NTc-C11 – Knappheit „Achtung: Abendsonne ist bald vergriffen — nur noch 115 Stück auf Lager." (Relaunch von NTb-C3)
+
+- **Ad-IDs:** 196669664 (Unit NT06)
+- **Format:** Image, Static 4:5. Identisch mit NTb-C3 / 196671013 (DCO mit T06, 9.649 EU-Reichweite).
+- **Länge:** –
+- **Start:** 03.10.2026 (aktiv, 6 Tage)
+- **Status/Einordnung:** Neuer Test (Score 21, GetHooked-Perf. 48)
+- **Landingpage:** magicsplashy.de/products/easysleep-ganzjahresdecke
+- **CTA:** SEE_DETAILS
+- **EU-Reichweite:** keine Daten
+- **GetHooked:** https://app.gethookd.ai/share/ad/196669664?signature=95ee1cfd1ce6e1a8c235e183abeb5138c8df7b75ffc215312be9b836ffccfab7
+- **Ad Library:** https://www.facebook.com/ads/library/?id=1092717977012901
+- **Hook gesprochen:** –
+- **Hook eingeblendet:** „Achtung: Abendsonne ist bald vergriffen — nur noch 115 Stück auf Lager." [Attention: "Abendsonne" (Evening Sun) is almost sold out – only 115 left in stock.]
+- **Bildaufbau:** Obere ~70 %: orange EasySleep-Decke, die über die Bettkante auf einen grau-beigen Boden fällt (Steppung gut sichtbar), rechts daneben eine gefaltete Decke derselben Farbe. Unten eine dunkle, abgerundete Textbox mit der Meldung (fett: „Achtung:", „Abendsonne", „115 Stück"), darunter blauer Button „Jetzt kaufen".
+- **Darsteller:** keine
+- **Setting:** Produkt-Render
+- **Avatar:** Zögerer/Retargeting-Typ, farbaffine Käufer:innen
+- **Angle:** primär A10 Knappheit; sekundär A1 (Primärtext), AX Farbvariante/Farbname
+- **Hook-Muster:** H13 Offer-first (Knappheits-Alarm)
+- **Emotion:** FOMO/Verlustangst
+- **Schnitttempo:** –
+- **Zahlen & Behauptungen (wörtlich):** „nur noch 115 Stück auf Lager" · Farbname „Abendsonne" · Titel „NUR HEUTE MIT GRATIS SOFTCLOUD KISSENBEZÜGE"
+- **Angebot:** Knappheit (Bestand 115) plus „NUR HEUTE" (Titel), Gratis-Kissen und 40 Tage Probeschlafen (Text)
+- **Kompletter Bildtext DE + EN:** „Achtung: Abendsonne ist bald vergriffen — nur noch 115 Stück auf Lager." / „Jetzt kaufen" → "Attention: Abendsonne is almost sold out – only 115 left in stock." / "Buy now"
+- **Primärtext:** T13 (Original T06)
+- **Spezial-Flags:** KI-generiert (vermutet)
+- **Warum es funktioniert / Testhypothese:** Konkrete krumme Zahl plus Farbname wirkt glaubwürdiger als „fast ausverkauft". Die gleiche „115"-Zahl läuft aber parallel für mehrere Farben (Fliedertraum, Abendsonne), seit 02.10. unverändert, was Glaubwürdigkeits- und Rechtsrisiken birgt. Hypothese: Knappheits-Statics sind gute Retargeting-Füller. Für UK nur mit echtem Bestand nutzen.
+
+### NTc-C12 – Knappheit „Nur noch 115 Stück unserer Variante Abendsonne verfügbar." (Relaunch von NTb-C4)
+
+- **Ad-IDs:** 200300702 (Unit NT11)
+- **Format:** Image, Static 4:5. Identisch mit NTb-C4 / 196671230 (DCO mit T05, 7.399 EU-Reichweite).
+- **Länge:** –
+- **Start:** 05.10.2026 (aktiv, 4 Tage)
+- **Status/Einordnung:** Neuer Test (Score 19, GetHooked-Perf. 42)
+- **Landingpage:** magicsplashy.de/products/easysleep-ganzjahresdecke
+- **CTA:** SEE_DETAILS
+- **EU-Reichweite:** keine Daten
+- **GetHooked:** https://app.gethookd.ai/share/ad/200300702?signature=d0e7f8aca17addf232ea7edf433a9af411ea439e1473ffa101f0a88452863280
+- **Ad Library:** https://www.facebook.com/ads/library/?id=1122410810320795
+- **Hook gesprochen:** –
+- **Hook eingeblendet:** „Nur noch 115 Stück unserer Variante Abendsonne verfügbar." [Only 115 left of our "Abendsonne" (Evening Sun) variant.]
+- **Bildaufbau:** identisch mit C11 (orange Decke über der Bettkante plus gefaltete Decke). Die dunkle Textbox enthält nur die nüchterne Bestandsmeldung (fett: „115 Stück", „Abendsonne"), darunter blauer Button „Jetzt kaufen".
+- **Darsteller:** keine
+- **Setting:** Produkt-Render
+- **Avatar:** wie C11
+- **Angle:** primär A10 Knappheit; sekundär A1, AX Farbvariante
+- **Hook-Muster:** H13 Offer-first (nüchterne Bestandsangabe)
+- **Emotion:** leise FOMO
+- **Schnitttempo:** –
+- **Zahlen & Behauptungen (wörtlich):** „Nur noch 115 Stück" · „unserer Variante Abendsonne" · Titel „NUR HEUTE MIT GRATIS SOFTCLOUD KISSENBEZÜGE"
+- **Angebot:** Knappheit plus „NUR HEUTE", Gratis-Kissen und 40 Tage Probeschlafen (Text)
+- **Kompletter Bildtext DE + EN:** „Nur noch 115 Stück unserer Variante Abendsonne verfügbar." / „Jetzt kaufen" → "Only 115 left of our Abendsonne variant." / "Buy now"
+- **Primärtext:** T15 („Nie wieder Bettbezug wechseln 🌙"). Original lief mit T05.
+- **Spezial-Flags:** KI-generiert (vermutet)
+- **Warum es (nicht) funktioniert / Testhypothese:** In der DCO-Runde lag die nüchterne Variante (7.399) knapp hinter dem „Achtung"-Alarm (9.649). Jetzt wird sie mit dem Nutzen-Primärtext gegengetestet. Hypothese: Alarmwort („Achtung … bald vergriffen") schlägt neutrale Bestandsangabe, und der Primärtext kann den Abstand höchstens teilweise schließen. Ausgang mangels EU-Daten offen.
