@@ -128,7 +128,7 @@ Details in Abschnitt 3 und 8.
 | Betreiber (Impressum) | „Guangzhou Lingcai Technology Co., Ltd.“, Registration number 91440111MAEUD1DM6F, Room 506, No.805 Xicha Road, Baiyun District, Guangzhou, China. Kontakt `contact.elina99@gmail.com`. Shopify-Shopadresse Mong Kok, Kowloon (HK). Das Legal Notice kombiniert italienisches Recht mit „governed by US law“. Umgewidmeter Shop mit italienisch-/französischsprachigen Altprodukten („Elina Beauty“ u. a.). |
 | Shop-Historie | Produkt angelegt 13.06.2026. Erste Ad 10.07.2026 (direkt auf PDP), ab 20.07. Advertorial. US-Comforter und US-Advertorial am 21.09., US-Ads am 27./28.09. Letztes Ad-Startdatum im Index: **04.10.2026** (seit 05.10. keine neuen Ads im Index). |
 | Erfasste Ads | **552** (100 % der von GetHooked gelisteten). **Aktiv 552 / inaktiv 0**. Bild 348 / Video 204. Unique Creatives 485 (303 Bild, 182 Video). |
-| Vollständigkeit | Enumeration ohne Status-Filter mit Startdatum-Cursor, nach Monaten gegen GetHooked-Totals abgeglichen (Juli 95/95, Aug 223/223, Sep 220/220, ab 01.10. 14/14). Formate gegen aggregate_ads abgeglichen (348/204). Alle 204 Videos transkribiert (178 mit Sprache, 4 ohne Sprache mit On-Screen-Text, 0 fehlgeschlagen). |
+| Vollständigkeit | Enumeration ohne Status-Filter mit Startdatum-Cursor, nach Monaten gegen GetHooked-Totals abgeglichen (Juli 95/95, Aug 223/223, Sep 220/220, ab 01.10. 14/14). Formate gegen aggregate_ads abgeglichen (348/204). Alle 204 Video-Ads = 182 Unique Videos transkribiert (178 mit Sprache, 4 ohne Sprache mit On-Screen-Text, 0 fehlgeschlagen). |
 | Datenlücken | **Keine Ausgaben-/Reichweitendaten** (UK, `ad_spend_range = null`). **Keine beendeten Ads** sichtbar (Marke nicht per Brand-Spy überwacht). **Keine echten Link-Headlines** (`title` = Seitenname, `link_description` leer). **Kein GetHooked-Shop-Eintrag** (keine Traffic-, Landingpage- oder Technologie-Daten). **Keine unabhängigen Bewertungen.** Ersatzgrößen: Laufzeit (`days_active` bis heute), `used_count`, GetHooked-Performance-Score/Tier, Similarweb-Rang, Shop-JSON und Warenkorb-API. |
 
 ---
@@ -243,7 +243,7 @@ CTA: SHOP_NOW = „Shop Now“, LEARN_MORE = „Learn More“ (cta_text bei alle
 ### 2.4 Gruppierungen (Landingpage, Angle, Format, Startmonat, Angle × Klasse)
 
 
-#### 8.1 Nach Landingpage
+#### 2.4.1 Nach Landingpage
 
 | Gruppe | Ads | Anteil | Bild | Video | Ø Tage aktiv |
 |---|---:|---:|---:|---:|---:|
@@ -251,7 +251,7 @@ CTA: SHOP_NOW = „Shop Now“, LEARN_MORE = „Learn More“ (cta_text bei alle
 | LP2 /products/covering-easysleep®-the-2-in-1-quick-dry-duvet-tha | 70 | 12.7 % | 51 | 19 | 45 |
 | LP3 /pages/advertorial-easysleep-usa | 15 | 2.7 % | 15 | 0 | 12 |
 
-#### 8.2 Nach Angle (primär)
+#### 2.4.2 Nach Angle (primär)
 
 | Gruppe | Ads | Anteil | Bild | Video | Ø Tage aktiv |
 |---|---:|---:|---:|---:|---:|
@@ -273,7 +273,7 @@ CTA: SHOP_NOW = „Shop Now“, LEARN_MORE = „Learn More“ (cta_text bei alle
 
 Sekundäre Angles (zusätzlich zum primären): A 34, B 19, C 53, D 4, E 16, F 71.
 
-#### 8.3 Nach Format
+#### 2.4.3 Nach Format
 
 | Gruppe | Ads | Anteil | Bild | Video | Ø Tage aktiv |
 |---|---:|---:|---:|---:|---:|
@@ -282,7 +282,7 @@ Sekundäre Angles (zusätzlich zum primären): A 34, B 19, C 53, D 4, E 16, F 71
 
 **Videolängen-Verteilung (204 Videos):** < 15 s: 1, 15–29 s: 28, 30–44 s: 67, 45–59 s: 70, 60–89 s: 36, ≥ 90 s: 2.
 
-#### 8.4 Nach Startmonat
+#### 2.4.4 Nach Startmonat
 
 | Gruppe | Ads | Anteil | Bild | Video | Ø Tage aktiv |
 |---|---:|---:|---:|---:|---:|
@@ -302,7 +302,7 @@ Sekundäre Angles (zusätzlich zum primären): A 34, B 19, C 53, D 4, E 16, F 71
 | E Körper/Alter | 3 | 3 | 11 | 2 | 19 |
 | F weitere | 35 | 68 | 95 | 9 | 207 |
 
-#### 8.5 Kreuztabelle Angle × Status-Klasse
+#### 2.4.5 Kreuztabelle Angle × Status-Klasse
 
 | Angle | Winner | Starker Kandidat | Neuer Test | Mittelfeld | Verlierer | Summe |
 |---|---:|---:|---:|---:|---:|---:|
@@ -314,7 +314,7 @@ Sekundäre Angles (zusätzlich zum primären): A 34, B 19, C 53, D 4, E 16, F 71
 | F weitere | 127 | 31 | 49 | 0 | 0 | 207 |
 | **Summe** | 366 | 90 | 96 | 0 | 0 | 552 |
 
-#### 8.6 Weitere Verteilungen
+#### 2.4.6 Weitere Verteilungen
 
 - CTA: SHOP_NOW 537, LEARN_MORE 15
 - Plattform-Codes: P1 327, P2 165, P3 45, P4 15
@@ -1694,15 +1694,15 @@ Die folgenden Unterabschnitte sind der Bericht von Agent 3 im Wortlaut. Übersch
 
 ### 4.1 Landingpages und Ad-Verteilung
 
-#### 1.1 Methodik und was nicht ging
+#### 4.1.1 Methodik und was nicht ging
 
 - `aggregate_ads(group_by="landing_page", brand_id=11837492)` → **abgelehnt**: „Grouping by landing_page is not available on this environment yet. Schema activation and reindex verification must complete before counting or billing.“ (gleiches gilt für `landing_page_domain`-Scope, da der Parameter `group_by=landing_page` serverseitig gesperrt ist).
 - `aggregate_ads(group_by="page_type")` für brand_id und für `landing_page_domain="cozily-shop.com"` → leere Gruppen (Feld bei diesen Ads nicht indexiert). `cls_offer_type` und `cls_funnel_stage_lp` → ebenfalls leer (Ads nicht klassifiziert). `cta_type` (Domain-Scope) → SHOP_NOW 537, LEARN_MORE 15 (= 552, deckungsgleich mit Agent 1).
 - `get_shop_landing_pages`: **nicht möglich** – der Shop ist nicht im GetHooked-Shop-Katalog (`list_shops(q="cozily")` und `q="cozily-shop.com"` liefern nur fremde „coily“-Haarpflege-Shops).
-- `get_ad_technologies` (je ein Ad pro Landingpage: 186737362, 186737375, 189395005) → keine gespeicherten Technologien. Apps wurden daher selbst aus dem HTML bestimmt (Abschnitt 12).
+- `get_ad_technologies` (je ein Ad pro Landingpage: 186737362, 186737375, 189395005) → keine gespeicherten Technologien. Apps wurden daher selbst aus dem HTML bestimmt (Anhang D, Abschnitt 12.2).
 - **Grundlage der Zählung** ist deshalb die vollständige Enumeration von Agent 1 (`a1_ads.jsonl`, 552 Ads, alle mit `landing_page_raw`); normalisiert: Host ohne `www`, `%C2%AE` = `®`, `?fbclid=fbclid` entfernt. `get_domain_advertisers` (Agent 1): genau 1 Werbetreibender auf der Domain.
 
-#### 1.2 Ergebnis
+#### 4.1.2 Ergebnis
 
 | Code | Landingpage | Seitentyp | Ads | Anteil | Bild/Video | CTA | Primärtext | Startdaten der Ads |
 |---|---|---|---:|---:|---|---|---|---|
@@ -1735,7 +1735,7 @@ Lesart: Start direkt auf PDP (10.07.), ab 20.07. fast alles über das Advertoria
 
 **Angles je Landingpage** (Agent 1): LP1 A 93 · B 29 · C 153 · D 5 · E 16 · F 171; LP2 A 10 · B 4 · C 17 · E 3 · F 36; LP3 A 14 · C 1 (US-Test fast nur Hygiene).
 
-#### 1.3 Weitere Seiten im Shop (nicht beworben, kurz geprüft)
+#### 4.1.3 Weitere Seiten im Shop (nicht beworben, kurz geprüft)
 
 Aus `sitemap_pages_1.xml` und `/pages.json` (`a3_raw/r2/pages.json`):
 
@@ -1747,7 +1747,7 @@ Aus `sitemap_pages_1.xml` und `/pages.json` (`a3_raw/r2/pages.json`):
 | /pages/advertorial-page-mar-28-01-08-14 | „Advertorial Page - Mar 28, 01:08:14“ | 2026-03-27 | leer (nur H1) |
 | /pages/contact | „Contact“ | 2026-03-27 | Formular „Get in touch“ (Name, Email, Phone number, Comment) – keine Adresse, kein Telefon |
 | /pages/data-sharing-opt-out | „Your Privacy Choices“ | 2026-09-19 | Shopify-Standard |
-| / (Home) | – | – | Hero „EasySleep® Duvet – Say goodbye to changing bed sheets forever.“ + „What Our Customers Say – Real results from real sleepers.“ (97 % / 87 % / 93 %, s. Abschnitt 9) + Kontaktformular |
+| / (Home) | – | – | Hero „EasySleep® Duvet – Say goodbye to changing bed sheets forever.“ + „What Our Customers Say – Real results from real sleepers.“ (97 % / 87 % / 93 %, s. Abschnitt 4.7) + Kontaktformular |
 | /blogs/news | „News“ | 2026-03-27 | leer, nur Newsletter „Subscribe to our emails – Join our email list for exclusive offers and the latest news.“ |
 
 ---
@@ -1783,7 +1783,7 @@ Kein Exit-Popup (Section `promo-popup` ist leer), kein Quiz, keine Listicle-Zwis
 
 ### 4.3 Angebot im Detail (Preise, Bundles, Gratis-Beigabe, Upsells, Countdown, Garantie, Versand, Zahlarten)
 
-#### 6.1 Varianten und Preise (UK-Markt, GBP) – aus `/products/<handle>.js` und `.json`
+#### 4.3.1 Varianten und Preise (UK-Markt, GBP) – aus `/products/<handle>.js` und `.json`
 
 7 Farben × 4 Größen = 28 Varianten, alle `available: true`, kein Lagerbestand gepflegt (`inventory_management: null`).
 
@@ -1805,7 +1805,7 @@ Farben (wörtlich): Coastal Blue, Cream Beige, Chimney Red, Midnight Black, Moon
 | King | £84.99 | £139.98 (£69.99) | £194.97 (£64.99) | £249.98 / £374.97 | £110 (44,0 %) / £180 (48,0 %) | £30 / £60 |
 | Super King | £99.99 | £169.98 (£84.99) | £239.97 (£79.99) | £279.98 / £419.97 | £110 (39,3 %) / £180 (42,9 %) | £30 / £60 |
 
-Alle Werte per Warenkorb-API verifiziert (Abschnitt 12.1). 4 Stück Single = £199.96 (−£20 je Stück, Rabatt-Titel „3x Duvets“). Die Briefing-Preise £69.99 / £109.98 / £149.97 gelten **nur für Single**.
+Alle Werte per Warenkorb-API verifiziert (Anhang D, Abschnitt 12.1). 4 Stück Single = £199.96 (−£20 je Stück, Rabatt-Titel „3x Duvets“). Die Briefing-Preise £69.99 / £109.98 / £149.97 gelten **nur für Single**.
 
 **US-Markt (USD, Markt-Preisliste, verifiziert per Warenkorb mit `localization=US`):**
 
@@ -1820,14 +1820,14 @@ Alle Werte per Warenkorb-API verifiziert (Abschnitt 12.1). 4 Stück Single = £1
 
 Auffällig: Im GB-Markt kostet der Comforter £79.99–£94.99 ohne Streichpreis (King billiger als Queen); im US-Markt kostet die UK-Duvet-Variante „Super King“ $79.99 (= Single-Preis). Preislisten wirken unsauber gepflegt.
 
-#### 6.2 Gratis-Kissenbezüge („2 SoftCloud pillowcases FREE … worth £49.99“)
+#### 4.3.2 Gratis-Kissenbezüge („2 SoftCloud pillowcases FREE … worth £49.99“)
 
 - Versprochen in: Primärtext aller 537 UK-Ads („Get 2 SoftCloud pillowcases FREE today (worth £49.99).“), allen 15 US-Ads („worth $49.99“), Advertorial-Angebotsbox, PDP-Banner („Free today with every duvet – 2 SoftCloud® pillowcases (Worth: £49.99)“), Galeriebild 2, Kaching-Untertitel („+ 2 / + 4 / + 6 Free SoftCloud Pillowcases“).
 - **Technisch:** Kaching `freeGifts: []` bei allen drei Deal-Bars; kein „gift“-Mechanismus im Theme aktiv. Warenkorb nach „Add to cart“ (API und Browser): **nur Decken, keine Kissenbezüge** – weder als Gratis-Zeile noch als Rabatt. Legt man „2x SoftCloud® Pillowcases“ selbst dazu, kosten sie voll **£39.99** (Test `gb_single_plus_pillowcases`: £109.98, kein Rabatt). Ob das Lager sie manuell beilegt, ist von außen nicht prüfbar.
 - **Wertangabe:** Der eigene Shop-Preis der „2x SoftCloud® Pillowcases“ ist £39.99 (ohne Streichpreis) – der „worth £49.99“-Wert liegt £10 über dem eigenen Verkaufspreis. In Ads kursieren zusätzlich „Worth £44.95“ (I022), „£49.90“ (V001, V013, V132) und „a free Ice Cloud Pillow Case worth 39 pounds and 99 pence“ (V033).
 - Kissenbezug-Maß (PDP-FAQ): „51 x 76 cm (20 x 30")“.
 
-#### 6.3 Upsells, Cross-Sells, Order Bumps, Schwellen
+#### 4.3.3 Upsells, Cross-Sells, Order Bumps, Schwellen
 
 - **Warenkorb-Drawer (Theme-Funktion):** Upsell 1 „SoftCloud® Pillow – Hypoallergenic Premium Comfort Pillow £29.99 ~~£49.99~~“ als Toggle-Schalter; Upsell 2 „SoftCloud® Fitted Sheet – Soft, Hypoallergenic & Perfectly Fitted £19.99 ~~£39.99~~“ mit Farbwahl (Cream Beige, Midnight Black, Moonstone Grey, Soft Mint Green, Coastal Blue, Chimney Red) und Größen (90x200cm £19.99 / 140x200cm £24.99 / 180x200cm £29.99 / 200x200cm £34.99; Streichpreise £39.99–£54.99) mit „+“-Button. Kein Bundle-Rabatt auf Upsells (Test `gb_single_pillow_sheet`: £119.97 = Summe der Einzelpreise).
 - **Gratis-Versand-Balken:** Ziel £0 („data-goal-shop-cents="0.0"“) → zeigt immer „Congrats! You get FREE shipping!“ (leerer Warenkorb: „Spend £0 more to get FREE shipping!“). Kein Mindestbestellwert.
@@ -1837,13 +1837,13 @@ Auffällig: Im GB-Markt kostet der Comforter £79.99–£94.99 ohne Streichpreis
 - **/cart-Seite:** schlicht, nur Positionen, „Subtotal … GBP“, „Check out“ und Newsletter „Subscribe to our emails – Join our email list for exclusive offers and the latest news.“
 - Kein Order-Bump im Checkout prüfbar (Checkout nicht betreten).
 
-#### 6.4 Countdown, Knappheit, Sale-Kommunikation auf den Seiten
+#### 4.3.4 Countdown, Knappheit, Sale-Kommunikation auf den Seiten
 
 - PDP/Shop: „SUMMER SALE ☀️“-Ticker (auf LP1/LP3 ausgeblendet). Kein Produkt-Countdown (Kaching `timerEnabled: false`), kein „only X left“, kein Lagerbestand. Einzige Uhr: 5-Min-Warenkorb-Reservierung.
 - Advertorial: keine Deadline, kein Rabatt-%, kein Countdown – nur Streichpreis „£69.99 INSTEAD OF £109.99“.
-- Die Dringlichkeit („Only until Friday/Sunday“, „Triple deal ends tonight“, „Warehouse sale“, „Last stock“) lebt **ausschließlich in den Ads** (Abschnitt 13.3).
+- Die Dringlichkeit („Only until Friday/Sunday“, „Triple deal ends tonight“, „Warehouse sale“, „Last stock“) lebt **ausschließlich in den Ads** (Abschnitt 4.6.3).
 
-#### 6.5 Garantie und Rückgabe – Versprechen vs. Policy (wörtlich)
+#### 4.3.5 Garantie und Rückgabe – Versprechen vs. Policy (wörtlich)
 
 **Versprechen auf den Seiten:**
 - Advertorial (s. Anhang D, Agent-3-Abschnitt „3.2 Vollständige Seitenstruktur“, Nr. 13): „Your purchase is protected by our 40-night 100% money-back guarantee“, „Not satisfied? You have 40 nights to request a refund. Simply contact our customer service team by email. Fast processing guaranteed.“, „no stress, no questions, no forms. You get your money back. Full stop.“, „no washing, no preparation, no effort. Just send it back. We wash every returned duvet and donate it to care homes and charities.“
@@ -1863,7 +1863,7 @@ Auffällig: Im GB-Markt kostet der Comforter £79.99–£94.99 ohne Streichpreis
 
 **Bewertung:** Die Policies widersprechen dem Kernversprechen frontal: eine benutzte Decke (= jeder echte 40-Nächte-Test) ist laut Refund Policy nicht rückgabefähig; Sale-Ware (alles ist „Sale“) ist nicht erstattungsfähig; Rücksendekosten trägt der Kunde (bei Versand nach China/HK erheblich); „no forms“ vs. „return form, sign it“. Die „40 nights“ tauchen in keiner Policy auf (dort 90 Tage).
 
-#### 6.6 Versand (wörtlich, `/policies/shipping-policy`)
+#### 4.3.6 Versand (wörtlich, `/policies/shipping-policy`)
 
 - „Most orders are processed within 12 hours.“ / „Since the vast majority of in-stock items are processed and/or shipped within 12 hours, it is essential that you contact us within this timeframe…“
 - „Shipping Times – Orders are typically shipped within 12 hours of being placed. Once shipped, delivery generally takes between **6 to 9 business days**, depending on your location. You will receive a tracking number by email as soon as your order ships, allowing you to follow its progress until it arrives.“
@@ -1872,7 +1872,7 @@ Auffällig: Im GB-Markt kostet der Comforter £79.99–£94.99 ohne Streichpreis
 - **Herkunft:** nicht genannt. Betreiber in Guangzhou (CN), Shop-Adresse Mong Kok (HK) → Versand sehr wahrscheinlich aus Asien (passt zu 6–9 Werktagen); Sendungsverfolgung über ParcelPanel („Track My Order“ → `/apps/parcelpanel`).
 - Seiten-Claim „Fast & Free Delivery“ (PDP) ist mit 6–9 Werktagen nur teilweise gedeckt.
 
-#### 6.7 Zahlungsarten
+#### 4.3.7 Zahlungsarten
 
 - Sichtbare Icons (PDP, Drawer, Footer): American Express, Apple Pay, Google Pay, Mastercard, Shop Pay, UnionPay, Visa (`/meta.json`: „shopify_pay_enabled_card_brands“: visa, master, american_express, unionpay; „offers_shop_pay_installments“: false).
 - PayPal: nur ein Shopify-Skript `ShopifyPaypalV4VisibilityTracking = true` im HTML → PayPal ist im Checkout vermutlich aktiv, auf den Seiten aber nicht beworben (nicht verifiziert, da Checkout nicht betreten).
@@ -1894,7 +1894,7 @@ Auffällig: Im GB-Markt kostet der Comforter £79.99–£94.99 ohne Streichpreis
 | Upsell-Streichpreise | „£29.99 ~~£49.99~~“ (Kissen), „£19.99 ~~£39.99~~“ (Spannbettlaken) | Drawer, Zubehör-PDPs („SAVE 40%“, „SAVE 50%“) |
 | Sale-Rahmen | „SUMMER SALE ☀️“ | Ankündigungsleiste (nicht auf LP1/LP3) |
 | Kosten-Vergleich | Kein Preis-pro-Nacht, kein Vergleich mit Hotels/Wettbewerbern **auf den Seiten**. Nur Nutzenvergleich: „Cotton takes 24–48 hours.“; „No lugging it to the launderette.“ | LP1 |
-| In den Ads zusätzlich | „40% off“, „up to 40%“, „up to 50% off“, „UP TO -36%“, „SAVE 35%“, „Triple deal/discount ends tonight“, „Warehouse sale“, Kostenargument Reinigung („How much has dry cleaning cost you?“, „stop paying for the dry cleaner completely, forever?“) | Ads (Abschnitt 13) |
+| In den Ads zusätzlich | „40% off“, „up to 40%“, „up to 50% off“, „UP TO -36%“, „SAVE 35%“, „Triple deal/discount ends tonight“, „Warehouse sale“, Kostenargument Reinigung („How much has dry cleaning cost you?“, „stop paying for the dry cleaner completely, forever?“) | Ads (Abschnitt 4.6) |
 
 Kein Rabattcode, kein „-X %“ auf dem Advertorial, kein Preis-pro-Nacht. Der Streichpreis £109.99 (Single) ist nicht belegt (keine Historie eines tatsächlichen Verkaufs zu £109.99 auffindbar).
 
@@ -1922,7 +1922,7 @@ Kein Rabattcode, kein „-X %“ auf dem Advertorial, kein Preis-pro-Nacht. Der 
 
 ### 4.6 Kongruenz Ad ↔ Landingpage (Versprechen, Claims, Angebots-Historie, Abweichungen)
 
-#### 13.1 Versprechen im Primärtext (gilt für alle 537 UK-Ads bzw. 15 US-Ads)
+#### 4.6.1 Versprechen im Primärtext (gilt für alle 537 UK-Ads bzw. 15 US-Ads)
 
 T1 (wörtlich): „Duvet + Cover in One 🌙 / The EasySleep duvet makes making your bed effortless. Simply wash it, dry it, and place it straight back on your bed. / ✓ No more struggling with duvet covers / ✓ Comfortably cool in summer, cosy and warm in winter / ✓ Hypoallergenic and antibacterial / Get 2 SoftCloud pillowcases FREE today (worth £49.99). / Enjoy a 40-night risk-free trial. / Finally experience a bed that always feels fresh. ✨“ (T2 = US-Variante mit „Comforter“, „cozy“, „$49.99“.)
 
@@ -1937,7 +1937,7 @@ T1 (wörtlich): „Duvet + Cover in One 🌙 / The EasySleep duvet makes making 
 | „40-night risk-free trial“ | LP1 sehr prominent (11× „40-night risk-free trial“ + Garantie-Abschnitt), PDP „40-Night Free Returns“ | ⚠️ auf den Seiten kongruent, aber Refund Policy widerspricht (unbenutzt, keine Sale-Ware, Rückporto zahlt Kunde, 90 Tage) |
 | „Simply wash it, dry it, and place it straight back“ | „Dry in 2 hours“ | ✅ |
 
-#### 13.2 Versprechen in den Creatives (Zählung aus 485 Unique Creatives: Bild-Headlines laut Agent 1 + 182 Video-Transkripte laut Agent 2; Regex-Zählung, „Ads“ = Anzahl Ad-IDs)
+#### 4.6.2 Versprechen in den Creatives (Zählung aus 485 Unique Creatives: Bild-Headlines laut Agent 1 + 182 Video-Transkripte laut Agent 2; Regex-Zählung, „Ads“ = Anzahl Ad-IDs)
 
 | Claim im Creative | Creatives / Ads | Auf der Landingpage? | Bewertung |
 |---|---:|---|---|
@@ -1971,7 +1971,7 @@ T1 (wörtlich): „Duvet + Cover in One 🌙 / The EasySleep duvet makes making 
 
 Beispiel-Ads (permanente Links): I181 „40 nights. Full refund. No form to fill in. Now 40% off + 2 free pillowcases.“ – [Library](https://www.facebook.com/ads/library/?id=1567877678174082) · [GetHooked](https://app.gethookd.ai/share/ad/189393135?signature=27c560ce086463aeb7d5f62c07b7b3cbd3f735514ec1e880f19de27aa9d56eaf); I183 „Warehouse sale: 40% off + 2 free pillowcases with every duvet.“ – [Library](https://www.facebook.com/ads/library/?id=1389938529959731) · [GetHooked](https://app.gethookd.ai/share/ad/189399854?signature=1761d7f5a9f5b86f9ee00a63db5a20d1bc6e7169ce2059cf817ec08656ced7c1); I022 „Only this week: 2 PILLOWCASES FREE. Worth £44.95“ – [Library](https://www.facebook.com/ads/library/?id=1810199293686405) · [GetHooked](https://app.gethookd.ai/share/ad/190140623?signature=7a8549d2f41229d1ae5ac16c51051eb4e4cf44e803e09a4850db120c77abd31e); V087 „up to 50% off, free delivery, plus 2 SoftCloud pillowcases free“ – [Library](https://www.facebook.com/ads/library/?id=1451599850398978) · [GetHooked](https://app.gethookd.ai/share/ad/189399908?signature=36554c16f3ad1a27970da1d2fe012a18683cb61d3014a2eb56b5ab52304d46b2); V156 „96% never want to go back after their 90-night trial“ – [Library](https://www.facebook.com/ads/library/?id=2962616657422118) · [GetHooked](https://app.gethookd.ai/share/ad/190139993?signature=780e9d37fe914bacbed8dff66016b3d3f70e7e8f0f31c16a651aaf179633df66); I072 „What about dust mites? Wash the whole duvet at 40 degrees.“ – [Library](https://www.facebook.com/ads/library/?id=2027961381172257) · [GetHooked](https://app.gethookd.ai/share/ad/190141487?signature=03fbc187d7809c11fb056e4e46e89390ee9f67c6144932f05777dffa2ad818a7); I052 „Tested to 50 washes. OEKO-TEX certified. Designed by textile engineer Tobie Fallschmidt“ – [Library](https://www.facebook.com/ads/library/?id=3610487392448615) · [GetHooked](https://app.gethookd.ai/share/ad/190140726?signature=985e7f2737e490fe7279300e6e88ecf714b86663b221041cf2c753b116654a4b); I302 „GET 40% OFF NOW + FREE DELIVERY“ (01.10., Herbst) – [Library](https://www.facebook.com/ads/library/?id=1757138132178112) · [GetHooked](https://app.gethookd.ai/share/ad/197403817?signature=a54224b528bd3210aac4f771d0fba42490e14848da101838694e4c9170b390dd).
 
-#### 13.3 Angebots-Historie laut Ads (Startdaten der Ads mit dem jeweiligen Claim)
+#### 4.6.3 Angebots-Historie laut Ads (Startdaten der Ads mit dem jeweiligen Claim)
 
 | Phase | Ads | Zeitraum der Ad-Starts |
 |---|---:|---|
@@ -1986,9 +1986,9 @@ Beispiel-Ads (permanente Links): I181 „40 nights. Full refund. No form to fill
 | „Triple deal/discount ends tonight“ | 14 | 03.09. – 17.09. |
 | Winter/Autumn-Bezug | 16 | 05.08. – 04.10. |
 
-Auf den Seiten hat sich laut verfügbaren Daten nur die Bundle-/Streichpreis-Logik gezeigt; frühere Seitenstände sind mangels Archiv nicht rekonstruierbar (Abschnitt 15).
+Auf den Seiten hat sich laut verfügbaren Daten nur die Bundle-/Streichpreis-Logik gezeigt; frühere Seitenstände sind mangels Archiv nicht rekonstruierbar (Anhang D, Abschnitt 15).
 
-#### 13.4 Liste der Abweichungen (zusammengefasst)
+#### 4.6.4 Liste der Abweichungen (zusammengefasst)
 
 1. „antibacterial“ (alle Ads) – auf keiner Landingpage.
 2. „40% off“ / „up to 50%“ / „Warehouse sale“ / „Winter sale“ / „Triple deal“ / Deadlines – auf keiner Landingpage; Seite zeigt nur Streichpreis (Single −36 %) und „SUMMER SALE ☀️“.
@@ -2031,7 +2031,7 @@ Auf den Seiten hat sich laut verfügbaren Daten nur die Bundle-/Streichpreis-Log
 
 ### 4.8 FAQ und Einwände (wörtlich)
 
-#### 10.1 Advertorial LP1 (14 Fragen; LP3 identisch bis auf „comforter“)
+#### 4.8.1 Advertorial LP1 (14 Fragen; LP3 identisch bis auf „comforter“)
 
 1. „Does it really dry in 2 hours?“ – „Yes. The EasySleep® is made from specialist quick-dry fibres. 2 hours in the air, even less in the tumble dryer. Wash it in the morning, put it back on in the evening — that's a reality, not a claim.“
 2. „Does it fit in a standard home washing machine?“ – „Yes. Deliberately designed to be light and compact. It fits comfortably in a 6–7 kg drum — no squashing, no trips to the launderette.“
@@ -2050,7 +2050,7 @@ Auf den Seiten hat sich laut verfügbaren Daten nur die Bundle-/Streichpreis-Log
 
 Behandelte Einwände: Trocknungszeit, Waschmaschinengröße, Hygiene ohne Bezug, Wärme im Winter, Rückgabe, Farben, Allergie, Alter, Haltbarkeit, Material, Überlegenheit, Trockner, Größen. **Nicht** behandelt: Preis/Wert, Lieferzeit, Herkunft/Hersteller, Gewicht, Füllmenge, Pflege der Kissenbezüge, Klumpen/Verrutschen der Füllung nach dem Waschen (nur behauptet), Geräusch/Material-Haptik.
 
-#### 10.2 PDP (4 Akkordeons am Kaufbutton + 6 FAQs unten)
+#### 4.8.2 PDP (4 Akkordeons am Kaufbutton + 6 FAQs unten)
 
 - „Will the duvet fit in my washing machine?“ – „Yes, the EasySleep® duvet is designed to be washed entirely in a washing machine. Its lightweight filling compresses easily, unlike traditional duvets. Here is the recommended washing machine capacity for each size: 140 × 200 cm: minimum 4 kg washing machine (suitable for all standard machines) 160 × 210 cm: minimum 5 kg washing machine 200 × 200 cm: minimum 6 kg washing machine 230 × 230 cm: minimum 7 kg washing machine Top tip: The duvet should be able to move freely inside the drum without being tightly packed. If your washing machine is smaller than the recommended capacity, using a self-service launderette is an excellent alternative. Please remember that the duvet should be washed at **50°C**, using a gentle spin cycle (400–800 rpm). It air-dries in approximately 2 hours, or even faster in a tumble dryer on a low-heat setting.“
 - „What size are the SoftCloud pillowcases?“ – „The SoftCloud pillowcases measure 51 x 76 cm (20 x 30") and are designed for a modern, ergonomic shape for optimal comfort and restful sleep. If you use larger pillows (e.g. 65 x 65 cm (26 x 26")), we recommend using an inner pillow of the same size for a perfect fit.“
@@ -2063,7 +2063,7 @@ Behandelte Einwände: Trocknungszeit, Waschmaschinengröße, Hygiene ohne Bezug,
 - „Do you sweat under the EasySleep duvet?“ – „No. The materials are breathable and moisture-regulating, allowing excess heat to escape with no heat build-up. Many users report a more comfortable and restful sleep as a result.“
 - „Do I really not need a duvet cover anymore?“ – „No. The EasySleep duvet combines the duvet and cover in one product, eliminating the hassle of stuffing a duvet into a cover entirely. After washing, simply lay the duvet back on your bed — done.“
 
-#### 10.3 Zubehör-PDPs (kurz)
+#### 4.8.3 Zubehör-PDPs (kurz)
 
 - SoftCloud® Pillow: „The SoftCloud® Pillow measures 48 × 74 cm…“; „…it is hypoallergenic, breathable and provides a luxurious sleeping experience similar to that of a high-quality hotel pillow.“
 - 2x SoftCloud® Pillowcases: Bullets „Reduces Allergens & Irritants“, „Breathable“, „Silky Soft Against the Skin“; Sticky-Leiste zeigt den Fehler „Liquid error (snippets/price line 119): Computation results in '-Infinity'“.
@@ -2122,7 +2122,7 @@ Da **0 echte Bewertungen** existieren, sind alle Kategorien = 0:
 | Service (Erreichbarkeit, Erstattung) | 0 |
 | Erwartung vs. Realität (Rabatt-Fake, Trial, Herkunft) | 0 |
 
-Als Ersatz stehen in 1.6 (Proxy-Reviews des identischen Produkts bei anderen Händlern) und Abschnitt 2 (Pleene als nächster Vergleichsanbieter derselben Produktkategorie) die realen Beschwerdemuster; in 1.7 die daraus abgeleiteten **Beschwerderisiken**, denen Cozily nach seinen eigenen Shop-Richtlinien ausgesetzt ist.
+Als Ersatz stehen in Anhang C, 1.6 (Proxy-Reviews des identischen Produkts bei anderen Händlern) und Anhang C, Abschnitt 2 (Pleene als nächster Vergleichsanbieter derselben Produktkategorie) die realen Beschwerdemuster; in Anhang C, 1.7 die daraus abgeleiteten **Beschwerderisiken**, denen Cozily nach seinen eigenen Shop-Richtlinien ausgesetzt ist.
 
 
 ### 5.3 Cozily – Bewertungs-Behauptungen vs. Realität (wörtlich)
@@ -2204,7 +2204,7 @@ Kernaussage: Pleene sammelt aktuell **~5–6 Trustpilot-Bewertungen pro Tag** (4
 | **Stärken** | niedrigster Preis am Markt (ab £69,99 inkl. Versand); höherwertige Gratis-Beigabe („worth £49.99“); riesiges Creative-Volumen (485 Unique Creatives); starkes Advertorial mit Hygiene-/Milben-Problemaufbau; US-Markt bereits getestet | **echter Social Proof** (4,8/291, schnell wachsend); 90-Nächte-Trial; mehr Größen/Farben; disziplinierte Testmaschine mit klaren Gewinnern (Tier Winning); breite Einwandbehandlung (Winterwärme, Größe, Waschmaschine); neue Zielgruppen-Tests (Senioren, Geschenk) vor Weihnachten |
 | **Schwächen** | **0 echte Bewertungen**, nicht gedeckte Review-Claims (Rechts- & Vertrauensrisiko), nur 40 Nächte, Rückgabebedingungen widersprechen dem Werbeversprechen, widersprüchliche Firmenangaben, Größen-/Waschangaben inkonsistent, nur 2 Werbetexte, Klon-/Nachahmer-Positionierung | Lieferzeit aus China, Vakuum-Falten, keine Antworten auf negative Reviews, Versandkosten unter £100, höherer Preis, Checkout-Upsell-Beschwerden, unbelegte „7,000+“-Claims im Advertorial |
 
-#### 6.1 Wörtlicher Copy-Vergleich (Beleg für Nachahmung)
+#### 5.6.1 Wörtlicher Copy-Vergleich (Beleg für Nachahmung)
 
 | Cozily (537 Ads) | Pleene (Standard-Copy seit 11.06.2026) |
 |---|---|
@@ -2275,7 +2275,7 @@ Quelle: `pleene.com/products/easyrest.js` mit UK-Markt (Cookie `localization=GB`
 1. **Social Proof ist die größte Lücke von Cozily.** Wer echte, verifizierbare Bewertungen zeigt (Trustpilot-Widget mit echter BU-ID, Judge.me mit Fotos), schlägt Cozily auf Vertrauen; Cozilys Claims (2788 / 7,980+ / 17,000+) sind angreifbar.
 2. **Die realen Kauf-Einwände der Kategorie** (aus 40 kritischen Pleene-Reviews): Lieferzeit (UK-Lager oder klar kommunizierte Lieferzeit), Falten nach Vakuumverpackung (Hinweis „Falten verschwinden nach 1. Wäsche/Trockner“ oder andere Verpackung), Wärme im Winter („Too Thin For Winter?“-Einwand), Größe (klare Größentabelle, keine abweichenden Bezeichnungen), Rückgabe (echte, einfache Trial-Bedingungen), Transparenz (echte Firmenadresse).
 3. **Positive Kaufgründe, die Kunden selbst nennen:** Bezug-Kampf entfällt, ganze Decke in normaler Waschmaschine + 2 h trocken, leicht aber warm, Erleichterung bei Arthritis/Behinderung/Alter/Alleinleben, Gästebett/Hund. Diese Wörter eignen sich direkt für Hooks.
-4. **Hygiene/Milben als Headline ist bei Pleene gescheitert, als Hook im Creative erfolgreich** – Cozily setzt Hygiene stärker als Headline ein; ob das bei Cozily wirklich trägt, ist wegen fehlender Abschaltungen und fehlender Top-Tiers nicht belegt.
+4. **Hygiene/Milben als Headline ist bei Pleene gescheitert, als Hook im Creative erfolgreich** – Cozily setzt Hygiene nie als Ad-Headline ein (Headline-Feld bei allen 552 Ads „Cozily Store“, s. Abschnitt 2.2), sondern als Creative-Hook (Video-Hook, Overlay, Bildtext wie I072 „Milben als Bild-Headline“, s. 3.2.3 H13) und als Copy-Claim „Hypoallergenic and antibacterial“; ob das bei Cozily wirklich trägt, ist wegen fehlender Abschaltungen und fehlender Top-Tiers nicht belegt.
 5. **Preisanker:** Cozily ist inkl. Versand £15 (Single/Double) bis £35 (King) günstiger als Pleene und versendet gratis. Gegen Cozily gewinnt man nicht über Preis, sondern über Trial-Länge (90 Nächte), echte Bewertungen und Lieferversprechen.
 
 ---
