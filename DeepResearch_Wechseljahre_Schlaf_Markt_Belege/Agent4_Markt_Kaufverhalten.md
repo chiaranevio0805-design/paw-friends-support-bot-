@@ -688,6 +688,773 @@ Legende: ✅ BELEGT · ⚠️ EINGESCHRÄNKT (nur mit Einschränkung verwenden) 
 - **Einordnung/Einschränkung:** Per WebFetch und curl abgerufen; '10.5' kommt auf der Seite nicht vor. Der £20-Preis gilt nur im Laden im Rahmen der Aktion. IKEA-Größen weichen von den britischen Standardmaßen ab; ein direkter Vergleich mit 10.5 tog ist daher nicht möglich. Wirkt als Preisanker im Einstiegssegment.
 - **Wahrheits-Check:** *korrigiert*. Seite per curl vollständig gelesen. Korrigiert: Die £20 sind ein In-Store-Aktionspreis ('20% off … in store only', gültig 07.09.–01.11.2026); 12-tog-Varianten bestätigt. Die frühere Angabe 'Double = 200×200 cm' habe ich nicht geprüft und daher entfernt.
 
+## Nachrecherche G6 (zu Track 4A)
+
+*Auftrag: Markt – britischer Bettwaren-/Homewares-Markt mit öffentlich prüfbaren Zahlen: (a) Dunelm Geschäftsbericht/Ergebnis FY2026 (Geschäftsjahr bis Juni 2026, veröffentlicht ca. Sept. 2026) – Umsatz, Digital-Anteil, Marktanteil, Aussagen zum Homewares-Markt; (b) GlobalData UK Homewares/Home Textiles Pressemitteilungen 2025/2026 (Marktgröße, Prognose, Online-Anteil); (c) Mintel-Pressemitteilungen zu Bedding/Home Textiles/Beds UK; (d) ONS Family Spending (neueste Ausgabe) – wöchentliche Haushaltsausgaben für household textiles / bedding; (e) HMRC/uktradeinfo Importwerte für Bettdecken/Steppdecken (CN 9404 90); (f) ONS Internet sales als Anteil des Einzelhandels – neuester Monatswert 2026 und Wert für 'household goods stores'.*
+
+*Prüf-Fazit: Der Track ist insgesamt sehr verlässlich: Alle 48 Claims wurden selbst an der Quelle nachvollzogen, Zahlen aus ONS-XLSX, HMRC-API, Zolltarif-API und Dunelm-RNS/PDF wurden exakt reproduziert, und es musste kein Claim verworfen werden. Die Korrekturen betreffen Details: einen nicht belegten Firmennamen (Home Focus), die Quartalsabgrenzung, eine falsche Byline, überzogene oder ungeprüfte Nebensätze in Begründungen (Mintel 2017, SourceReady, '£14–16 Mrd.'), eine zu starke Formulierung zur Intervall-Überschneidung und fehlende Datumsangaben bei den HMRC-Daten. Neu aufgenommen wurde der GlobalData-Heimtextilienmarkt (£6,07 Mrd. 2024, via Business Gateway, mit CAGR-Unstimmigkeit). Für Ads belastbar sind nur die amtlichen ONS- und HMRC-Werte sowie Dunelm-Primärzahlen, jeweils mit genauer Bezugsgröße (Homewares+Möbel, GB statt UK, Zollwert statt Umsatz, 'digital' statt 'online'). Eine prüfbare Marktgröße speziell für Bettdecken fehlt weiterhin.*
+
+### (a) Dunelm FY2026 – Umsatz
+
+#### G6-01
+
+✅ BELEGT · Angle: Markt
+
+**Der Dunelm-Konzern (UK und Irland) steigerte seinen Umsatz in den 52 Wochen bis 27. Juni 2026 um 3,1 % auf £1.825,5 Mio. (Vorjahr £1.771,0 Mio.).**
+
+> “FY26 FY25 YoY Total sales £1,825.5m £1,771.0m +3.1% ... During the year we grew our sales by 3.1% to £1,825m, gained 10bps of market share to 7.9%”
+
+- **Quelle:** [Dunelm Group plc – Preliminary Results for the 52 weeks ended 27 June 2026 (RNS, via Investegate)](https://www.investegate.co.uk/announcement/rns/dunelm-group--dnlm/preliminary-results-/9759867)
+- **Datum der Quelle:** 2026-09-08 · **Typ:** Unternehmensbericht
+- **Einordnung/Einschränkung:** Primärquelle (Pflichtmitteilung an die Börse). Einschränkungen: Der Umsatz enthält Irland ('new space contributing c.100bps to sales growth, including the full-year impact of our Ireland acquisition'). Dunelm berichtet nur ein Segment ('retail of homewares in the UK and Ireland'). Umsätze nach Kategorie, etwa Bettwaren, werden nicht ausgewiesen.
+- **Wahrheits-Check:** *korrigiert*. Tabellenzeile und Satz im RNS-Text per curl und WebFetch selbst gelesen, Datum 08.09.2026 bestätigt. Korrigiert: Der Name 'Home Focus' steht nicht in der Mitteilung, dort heißt es nur 'Ireland acquisition'. Begründung entsprechend angepasst.
+
+### (a) Dunelm FY2026 – Digital-Anteil
+
+#### G6-02
+
+✅ BELEGT · Angle: Markt
+
+**Digitale Verkäufe machten im Dunelm-Geschäftsjahr 2026 42 % des Umsatzes aus (Vorjahr 40 %), im vierten Quartal (13 Wochen bis 27. Juni 2026) 45 %. 'Digital' umfasst Lieferung nach Hause, Click & Collect und Tablet-Bestellungen im Laden.**
+
+> “Together with home delivery, digital sales participation increased by 2ppts to 42%. [Fußnote 9:] Includes home delivery, Click & Collect and tablet-based sales in store”
+
+- **Quelle:** [Dunelm Group plc – Preliminary Results FY26 (RNS, via Investegate)](https://www.investegate.co.uk/announcement/rns/dunelm-group--dnlm/preliminary-results-/9759867)
+- **Datum der Quelle:** 2026-09-08 · **Typ:** Unternehmensbericht
+- **Einordnung/Einschränkung:** Laut Quartalstabelle der Primärquelle ('Digital % total sales'): Q1 40 %, Q2 42 %, Q3 43 %, Q4 45 %, Gesamtjahr 42 %. Vorjahr: 37/40/41/42 %, Gesamtjahr 40 %. 'Digital' heißt nicht 'online nach Hause bestellt', denn Click & Collect und Tablet-Käufe im Laden zählen mit. Deshalb nicht als 'Online-Anteil' bewerben.
+- **Wahrheits-Check:** *korrigiert*. Wortlaut, Fußnote und Quartalswerte im RNS-Text gefunden. Korrigiert: Q4 ist nicht 'April–Juni', sondern die 13 Wochen bis 27.06.2026 (Q3 endete laut Retail Times am 28.03.2026).
+
+### (a) Dunelm FY2026 – Marktanteil
+
+#### G6-03
+
+✅ BELEGT · Angle: Markt
+
+**Dunelms Anteil am kombinierten britischen Homewares- und Möbelmarkt (GlobalData, ohne Küchen- und Badmöbel) lag in den 12 Monaten bis Juni 2026 bei 7,9 %. Das sind 10 Basispunkte mehr als der rückwirkend auf 7,8 % korrigierte Vorjahreswert.**
+
+> “GlobalData UK combined homewares and furniture markets, excluding kitchen cabinetry and bathroom furniture, for the 12 months to June 2026. Market share for the 12 months to June 2025 was 7.8% (restated by GlobalData UK from 7.9%)”
+
+- **Quelle:** [Dunelm Group plc – Preliminary Results FY26, Fußnoten 6/11](https://www.investegate.co.uk/announcement/rns/dunelm-group--dnlm/preliminary-results-/9759867)
+- **Datum der Quelle:** 2026-09-08 · **Typ:** Unternehmensbericht
+- **Einordnung/Einschränkung:** Herkunft (GlobalData) und Marktabgrenzung stehen in der Fußnote. Einschränkung: Der Markt umfasst Homewares UND Möbel, es ist kein Anteil am reinen Homewares- oder Bettwarenmarkt. Auf der Dunelm-Seite zum Geschäftsbericht 2025 steht für FY25 noch 7,9 %, später auf 7,8 % korrigiert.
+- **Wahrheits-Check:** *bestätigt*. Fußnote wörtlich im RNS-Text gefunden. Die frühere Angabe 7,9 % für FY25 auf corporate.dunelm.com/…/annual-report-2025/ selbst bestätigt.
+
+### (a) Dunelm FY2026 – Marktgröße Homewares+Möbel
+
+#### G6-04
+
+✅ BELEGT · Angle: Markt
+
+**Der kombinierte britische Homewares- und Möbelmarkt umfasste laut GlobalData (zitiert von Dunelm) in den 12 Monaten bis Juni 2026 rund £25 Mrd. inklusive Mehrwertsteuer. Für die 12 Monate bis Juni 2025 nannte Dunelm £24 Mrd.**
+
+> “As the market leader in the UK's combined £25bn homewares and furniture market, we operate from a position of strength. [Fußnote 7:] GlobalData UK combined homewares and furniture markers, excluding kitchen cabinetry and bathroom furniture, for the 12 months to June 2026. Market size includes VAT”
+
+- **Quelle:** [Dunelm Group plc – Winning Hearts & Homes: A self-funded growth plan (Strategy update)](https://corporate.dunelm.com/media/jq2b41c3/strategy-update-winning-hearts-homes.pdf)
+- **Datum der Quelle:** 2026-09-08 · **Typ:** Unternehmensbericht
+- **Einordnung/Einschränkung:** Herkunft (GlobalData), Zeitraum, Abgrenzung und MwSt.-Basis sind angegeben, die Methodik von GlobalData ist nicht öffentlich. Vorjahreswert laut Dunelm-Seite zum Geschäftsbericht 2025: 'Total addressable market £24bn', 12 Monate bis Juni 2025, inkl. MwSt. Der Wert enthält Möbel. Eine Teilzahl für Bettwaren oder Bettdecken gibt es nicht.
+- **Wahrheits-Check:** *bestätigt*. PDF per curl/pdftotext selbst gelesen, Satz und Fußnote 7 wörtlich gefunden ('markers' ist ein Tippfehler im Original). £24 bn auf der Seite zum Geschäftsbericht 2025 selbst bestätigt.
+
+### (a) Dunelm FY2026 – Kundenreichweite
+
+#### G6-05
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**Laut Dunelm-Managementschätzung kaufen rund 85 % der britischen Bevölkerung nicht regelmäßig bei Dunelm, und selbst die treuesten Kunden geben rund 80 % ihrer Ausgaben fürs Zuhause anderswo aus.**
+
+> “Around 85% of the UK population does not yet shop with Dunelm frequently, while even our most loyal customers continue to direct approximately 80% of their spend on the home elsewhere.”
+
+- **Quelle:** [Dunelm Group plc – Winning Hearts & Homes (Strategy update), Fußnoten 8/9](https://corporate.dunelm.com/media/jq2b41c3/strategy-update-winning-hearts-homes.pdf)
+- **Datum der Quelle:** 2026-09-08 · **Typ:** Unternehmensbericht
+- **Stichprobe/Methodik:** Management estimates using Barclays UK data (85 %) bzw. Barclays and Kantar UK data (80 %); Methodik nicht offengelegt
+- **Einordnung/Einschränkung:** Managementschätzung auf Basis von Zahlungs- und Paneldaten. Was 'frequently' bedeutet und wie gerechnet wurde, ist nicht offengelegt. Als Signal für einen fragmentierten Markt brauchbar, nicht als harte Statistik.
+- **Wahrheits-Check:** *bestätigt*. Satz und Fußnoten 8/9 in der PDF (pdftotext) wörtlich gefunden.
+
+### (a) Dunelm FY2026 – Verbraucherverhalten
+
+#### G6-06
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**Dunelm berichtet für das Geschäftsjahr 2026, dass britische Kunden selektiver einkaufen und vermehrt über Aktionen nach Preiswert suchen, besonders bei verzichtbaren Kategorien wie Homewares.**
+
+> “Geopolitical uncertainty, elevated interest rates and inflation, and a changing UK political landscape continued to weigh on consumer confidence, with customers shopping more selectively and increasingly seeking value through promotions, particularly in discretionary categories such as homewares.”
+
+- **Quelle:** [Dunelm Group plc – Preliminary Results FY26](https://www.investegate.co.uk/announcement/rns/dunelm-group--dnlm/preliminary-results-/9759867)
+- **Datum der Quelle:** 2026-09-08 · **Typ:** Unternehmensbericht
+- **Einordnung/Einschränkung:** Qualitative Einschätzung des größten Homewares-Händlers, keine Messzahl. Im nächsten Satz der Quelle heißt es: 'Unseasonably hot weather towards the end of the year also affected customers' shopping patterns.' Die Aussage passt zu Mintel ('more competitive, especially on price') und GlobalData 2026 ('majority … cited price').
+- **Wahrheits-Check:** *bestätigt*. Wortlaut im RNS-Text exakt gefunden.
+
+### (a) Dunelm FY2026 – Kundenzahl
+
+#### G6-07
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**Die Zahl der Dunelm-Kunden blieb im Geschäftsjahr 2026 laut Unternehmen 'weitgehend stabil'. Mehr Kunden kauften über mehrere Kanäle (Managementschätzung auf Basis von Barclays-Daten).**
+
+> “Though customer numbers remained broadly stable across the year, we saw more customers shopping multiple channels”
+
+- **Quelle:** [Dunelm Group plc – Preliminary Results FY26](https://www.investegate.co.uk/announcement/rns/dunelm-group--dnlm/preliminary-results-/9759867)
+- **Datum der Quelle:** 2026-09-08 · **Typ:** Unternehmensbericht
+- **Stichprobe/Methodik:** Fußnote 12: Management estimates using Barclays UK data
+- **Einordnung/Einschränkung:** Keine absolute Kundenzahl, nur eine qualitative Angabe, der Multichannel-Teil ist eine Managementschätzung. Das Wachstum kam damit eher nicht aus neuen Kunden.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut und Fußnote 12 im RNS-Text gefunden.
+
+### (a) Dunelm FY2026 – Bettwaren-Test
+
+#### G6-08
+
+⚠️ EINGESCHRÄNKT · Angle: Markt, C Bettbeziehen
+
+**Dunelm testete in der umgebauten Filiale St Albans neue Präsentation und Kundenführung für unifarbene Bettwäsche (plain-dye bedding) und meldet dort ein zweistelliges Umsatzplus gegenüber dem Vorjahr.**
+
+> “We have also tested merchandising and flow changes in plain-dye bedding, with year-on-year sales up double-digits in our St Albans refit.”
+
+- **Quelle:** [Dunelm Group plc – Winning Hearts & Homes (Strategy update)](https://corporate.dunelm.com/media/jq2b41c3/strategy-update-winning-hearts-homes.pdf)
+- **Datum der Quelle:** 2026-09-08 · **Typ:** Unternehmensbericht
+- **Stichprobe/Methodik:** Einzelfiliale (St Albans), keine genaue Prozentzahl
+- **Einordnung/Einschränkung:** Der einzige Leistungshinweis zu Bettwaren in den FY26-Unterlagen. Er betrifft nur eine Filiale, nennt keine genaue Zahl und bezieht sich auf Bettwäsche, nicht auf Bettdecken. Nicht auf den Markt übertragbar.
+- **Wahrheits-Check:** *bestätigt*. Satz in der PDF (pdftotext) wörtlich gefunden.
+
+### (a) Dunelm FY2026 – Saisonalität/Ausblick
+
+#### G6-09
+
+✅ BELEGT · Angle: Markt
+
+**Dunelm meldete wegen einer längeren Hitzeperiode 'deutlich schwächere' Umsätze in den ersten sechs Wochen des Geschäftsjahres 2027 (ab Ende Juni 2026). Nach kühlerem Wetter habe sich das Geschäft in den letzten Wochen verbessert.**
+
+> “As a result of the extended period of unusually hot weather, however, we saw significantly softer trading in first six weeks of FY27 · Strong online conversion and increasing store footfall give confidence in our current proposition, and we have seen better trading following cooler weather”
+
+- **Quelle:** [Dunelm Group plc – Preliminary Results FY26 (Outlook)](https://www.investegate.co.uk/announcement/rns/dunelm-group--dnlm/preliminary-results-/9759867)
+- **Datum der Quelle:** 2026-09-08 · **Typ:** Unternehmensbericht
+- **Einordnung/Einschränkung:** Direkte Aussage der Primärquelle. Für keine Kategorie angegeben, ob also gerade Bettwaren betroffen waren, ist nicht belegt. Hinweis für die Planung: Das Wetter beeinflusst den Homewares-Absatz spürbar.
+- **Wahrheits-Check:** *bestätigt*. Beide Sätze im Outlook-Abschnitt gefunden. Wortlaut um 'better trading following cooler weather' ergänzt, Aussage inhaltlich unverändert.
+
+### (a) Dunelm FY2026 – App
+
+#### G6-10
+
+✅ BELEGT · Angle: Markt
+
+**Die im Februar 2026 vollständig gestartete Dunelm-App hatte 740.000 Downloads. App-Kunden geben laut Dunelm pro Transaktion rund 40 % mehr aus, und die Conversion liegt um mehr als einen Prozentpunkt höher.**
+
+> “The Dunelm App has attracted 740k downloads to date and is driving encouraging engagement. Since launching fully in February 2026, customers shopping through the App already spend c.40% more per transaction, with conversion more than one percentage point higher.”
+
+- **Quelle:** [Dunelm Group plc – Preliminary Results FY26](https://www.investegate.co.uk/announcement/rns/dunelm-group--dnlm/preliminary-results-/9759867)
+- **Datum der Quelle:** 2026-09-08 · **Typ:** Unternehmensbericht
+- **Einordnung/Einschränkung:** Unternehmenseigene Kennzahl aus der Primärquelle. Es ist eine Korrelation, keine Kausalität, denn App-Nutzer sind vermutlich ohnehin aktivere Kunden. Pulse2 (10. und 12.09.2026) gibt die Zahlen korrekt wieder. Ein Artikel ergänzt 'than other channels', das steht so nicht in der Primärquelle.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut im RNS-Text exakt gefunden. Beide Pulse2-Artikel per curl geprüft.
+
+### (a) Dunelm FY2026 – Mythos App-Kennzahlen
+
+#### G6-11
+
+❌ NICHT BELEGT / MYTHOS · Angle: Markt
+
+**Die kursierende Angabe, die Dunelm-App habe die Conversion um 51 % und den durchschnittlichen Bestellwert um 42 % gesteigert, ist nicht belegt. Laut Primärquelle geben App-Kunden rund 40 % mehr pro Transaktion aus, und die Conversion liegt um gut einen Prozentpunkt höher.**
+
+> “customers shopping through the App already spend c.40% more per transaction, with conversion more than one percentage point higher.”
+
+- **Quelle:** [Gegenprüfung: Dunelm Preliminary Results FY26; Pulse2-Artikel vom 10.09. und 12.09.2026](https://www.investegate.co.uk/announcement/rns/dunelm-group--dnlm/preliminary-results-/9759867)
+- **Datum der Quelle:** 2026-09-08 · **Typ:** Presse
+- **Einordnung/Einschränkung:** Weder die RNS noch die beiden Pulse2-Artikel enthalten '51 %'. Die 42 % sind dort der Digitalanteil am Umsatz. Woher die Zahl stammt, ist nicht nachvollziehbar, vermutlich eine Verwechslung. Nicht verwenden.
+- **Wahrheits-Check:** *bestätigt*. RNS und beide Pulse2-Artikel per curl nach '51%' durchsucht, kein Treffer. Unbelegtheit bestätigt.
+
+### (a) Dunelm FY2026 – Mythos Marktanteil
+
+#### G6-12
+
+❌ NICHT BELEGT / MYTHOS · Angle: Markt
+
+**Die Kurzform 'Dunelm hat 7,9 % des britischen Homewares-Markts' ist so nicht belegt. Die 7,9 % beziehen sich auf den kombinierten Homewares- UND Möbelmarkt (rund £25 Mrd., GlobalData).**
+
+> “Overall, we continued to outperform the combined homewares and furniture market, increasing market share by 10bps year-on-year to 7.9%”
+
+- **Quelle:** [Dunelm Group plc – Preliminary Results FY26](https://www.investegate.co.uk/announcement/rns/dunelm-group--dnlm/preliminary-results-/9759867)
+- **Datum der Quelle:** 2026-09-08 · **Typ:** Unternehmensbericht
+- **Einordnung/Einschränkung:** Die Bezugsgröße ist ausdrücklich der kombinierte Homewares- und Möbelmarkt. Der Anteil am engeren Homewares-Markt ist öffentlich nicht beziffert. Zur Größenordnung: GlobalData prognostiziert für reine Homewares £16,0 Mrd. im Jahr 2029. Ein Basiswert 2024 von etwa £14,3 Mrd. ergibt sich nur rechnerisch (eigene Rechnung, siehe G6-13), GlobalData nennt ihn nicht. Für FY25 wurden 7,9 % genannt, später auf 7,8 % korrigiert.
+- **Wahrheits-Check:** *korrigiert*. Wortlaut im RNS-Text gefunden, Unbelegtheit der Kurzform bestätigt. Korrigiert: Die frühere Begründung 'GlobalData beziffert den reinen Homewares-Markt auf rund £14–16 Mrd.' war überzogen. £16,0 Mrd. ist eine Prognose für 2029, £14,3 Mrd. ist nur eine eigene Rückrechnung.
+
+### (b) GlobalData – Homewares-Prognose 2024–2029
+
+#### G6-13
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**GlobalData prognostiziert für den britischen Homewares-Markt (ohne Möbel) ein durchschnittliches Wachstum von 2,2 % pro Jahr zwischen 2024 und 2029 auf £16,0 Mrd. im Jahr 2029.**
+
+> “The homewares market is projected to grow at a compound annual growth rate (CAGR) of 2.2% between 2024 and 2029, reaching £16.0bn by the end of the period.”
+
+- **Quelle:** [GlobalData – UK Sector Series: Homewares, 2024-2029 (Store-Seite 'United Kingdom (UK) Homewares Market Analysis by Categories, Revenue, Consumer Trends, Key Players and Forecast to 2029', Report Code GDRT250000CSUK-ST)](https://www.globaldata.com/store/report/uk-homewares-retail-market-analysis/)
+- **Datum der Quelle:** 2025-07-31 · **Typ:** Marktforschung
+- **Einordnung/Einschränkung:** Öffentlich sichtbare Zahl einer kostenpflichtigen Studie (ab $3.500), Methodik und Abgrenzung sind nicht einsehbar. Es ist eine Prognose, kein Ist-Wert. Rechnerisch ergibt sich ein Basiswert 2024 von etwa £14,3–14,4 Mrd. (eigene Rechnung, von GlobalData nicht öffentlich genannt). Nicht mit dem £25-Mrd.-Markt inklusive Möbel (G6-04) verwechseln.
+- **Wahrheits-Check:** *bestätigt*. Satz, Datum 'Published: July 31, 2025', Report Code und Preis auf der Store-Seite selbst gefunden. Die Seite nennt keine Werte für 2024 oder 2025.
+
+### (b) GlobalData – Online-Wachstum Homewares
+
+#### G6-14
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**GlobalData erwartet, dass der Online-Kanal im britischen Homewares-Markt 2024–2029 mit 3,2 % pro Jahr schneller wächst als der stationäre Handel mit 1,7 % pro Jahr.**
+
+> “The online channel will outpace offline growth in every year of the forecast period, growing at a CAGR of 3.2% versus 1.7%, with retailers that have strong online propositions like Amazon and Dunelm well-placed to maintain their forward momentum in the sector.”
+
+- **Quelle:** [GlobalData – UK Sector Series: Homewares, 2024-2029](https://www.globaldata.com/store/report/uk-homewares-retail-market-analysis/)
+- **Datum der Quelle:** 2025-07-31 · **Typ:** Marktforschung
+- **Einordnung/Einschränkung:** Prognose aus einer kostenpflichtigen Studie. Die Seite nennt nur Wachstumsraten, keinen Online-Anteil in Prozent. Methodik nicht einsehbar.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut auf der Store-Seite exakt gefunden.
+
+### (b) GlobalData – Volumen ab 2026
+
+#### G6-15
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**Laut GlobalData (Prognose vom Juli 2025) sollen die Absatzmengen im britischen Homewares-Markt erst ab 2026 wieder wachsen. Wichtigster Treiber des Umsatzwachstums bleibt die Inflation.**
+
+> “Volumes are forecast to begin growing from 2026 onwards, although inflation will continue to be the primary driver of sales growth.”
+
+- **Quelle:** [GlobalData – UK Sector Series: Homewares, 2024-2029](https://www.globaldata.com/store/report/uk-homewares-retail-market-analysis/)
+- **Datum der Quelle:** 2025-07-31 · **Typ:** Marktforschung
+- **Einordnung/Einschränkung:** Prognose ohne öffentliche Volumenzahlen. Ob die Mengen 2026 tatsächlich wachsen, ist öffentlich nicht bestätigt. Dunelm meldete für FY26 nur +0,8 % store-enabled LFL, das ist ein Wert- und kein Volumenmaß.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut auf der Store-Seite exakt gefunden.
+
+### (b) GlobalData – Volumen 2025 / 'cosy' Textilien
+
+#### G6-16
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**GlobalData erwartete für 2025 einen leichten Volumenrückgang im britischen Homewares-Markt. Dunelm habe im Herbst 2025 besonders mit 'cosy' Heimtextilien und Teppichen gepunktet.**
+
+> “The volume growth is especially impressive considering GlobalData forecasts a small decline in homewares volumes in 2025. While Dunelm saw growth across categories, it performed especially well in its existing specialism of 'cosy' items in home textiles and rugs as consumers prepared their homes for the autumn and winter”
+
+- **Quelle:** [Retail Times – 'Dunelm outdoes itself as consumers seek cosy comfort for the winter, says GlobalData' (Kommentar Oliver Maddison, GlobalData)](https://retailtimes.co.uk/dunelm-outdoes-itself-as-consumers-seek-cosy-comfort-for-the-winter-says-globaldata/)
+- **Datum der Quelle:** 2025-10-23 · **Typ:** Presse
+- **Einordnung/Einschränkung:** Analystenkommentar von GlobalData im Wortlaut, veröffentlicht über Retail Times. Die Höhe des Rückgangs wird nicht beziffert. Die Aussage zu 'cosy' Textilien interpretiert Dunelms Q1-Ergebnis und ist keine Marktmessung. Bettdecken werden nicht genannt.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut per curl exakt gefunden. Datum 23.10.2025 bestätigt, Artikel-Byline Fiona Briggs, zitiert wird Oliver Maddison.
+
+### (b) GlobalData – Verbraucherstimmung 2026
+
+#### G6-17
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**Laut GlobalDatas 'future consumer sentiment tracker' fiel die britische Verbraucherstimmung im März 2026 gegenüber dem Vormonat um 8,2 Punkte. GlobalData wertete das als Signal für schwierige Zeiten im britischen Home-Handel.**
+
+> “Dunelm's Q3 performance was weaker than it originally anticipated, taking a hit as consumer sentiment fell by 8.2 points month-on-month in March (according to GlobalData's future consumer sentiment tracker) signalling tough times for the UK home retail sector.”
+
+- **Quelle:** [Retail Times – 'Declines in consumer confidence knock Dunelm's progress, says GlobalData' (Oliver Maddison)](https://retailtimes.co.uk/declines-in-consumer-confidence-knock-dunelms-progress-says-globaldata/)
+- **Datum der Quelle:** 2026-04-16 · **Typ:** Presse
+- **Stichprobe/Methodik:** GlobalData-eigener Tracker; Stichprobe/Methodik nicht angegeben
+- **Einordnung/Einschränkung:** Eigener Index von GlobalData ohne öffentliche Methodik. Brauchbar als Zeitkontext, nicht als amtliche Konsumklima-Zahl.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut per curl exakt gefunden, Datum 16.04.2026 bestätigt.
+
+### (b) GlobalData – Laden vs. Online bei Dunelm
+
+#### G6-18
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**GlobalData schätzt, dass Dunelms Ladenumsatz im Geschäftsjahr 2025/26 im Jahresdurchschnitt zurückging und nur im ersten Quartal wuchs, während der Online-Umsatz durchgehend besser lief.**
+
+> “GlobalData estimates that Dunelm's instore revenue declined in the full-year average, albeit most significantly in Q4. ... Dunelm's instore sales have persistently underperformed its online sales throughout its financial year, and only grew in its Q1, when overall growth exceeded 6%.”
+
+- **Quelle:** [Retail Times – 'Dunelm's decent year end signals recovering consumer confidence, says GlobalData' (Oliver Maddison)](https://retailtimes.co.uk/dunelms-decent-year-end-signals-recovering-consumer-confidence-says-globaldata/)
+- **Datum der Quelle:** 2026-07-16 · **Typ:** Presse
+- **Einordnung/Einschränkung:** GlobalData-Schätzung, nicht von Dunelm ausgewiesen. Dunelm schreibt selbst 'while sales through store checkouts alone declined'. Die Richtung ist damit gestützt, eine Zahl fehlt.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut per curl gefunden, Datum 16.07.2026 bestätigt. Wortlaut um den GlobalData-Schätzsatz ergänzt.
+
+### (b) GlobalData – Schlafzimmertextilien 2026: Kaufquote
+
+#### G6-19
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**Laut GlobalData-Umfrage 2026 (n=2.000, national repräsentativ) hat mehr als die Hälfte der britischen Verbraucher in den letzten 12 Monaten Schlafzimmertextilien gekauft. Am höchsten war die Kaufquote bei den 16- bis 24-Jährigen.**
+
+> “Consumer data is based on our 2026 UK bedroom textiles survey, using a panel of 2,000 nationally representative consumers. Scope Over half of UK consumers have purchased bedroom textiles products in the last 12 months, with the highest purchasing penetration among 16-24 year-olds.”
+
+- **Quelle:** [GlobalData – United Kingdom (UK) Home: Bedroom Textiles – Market Trends, Analysis, Consumer Dynamics and Spending Habits (Store-Seite, GDRT260006CPUK-ST)](https://www.globaldata.com/store/report/uk-bedroom-textiles-market-analysis/)
+- **Datum der Quelle:** 2026-07-30 · **Typ:** Marktforschung
+- **Stichprobe/Methodik:** n=2.000, Panel 'nationally representative', UK, Erhebung 2026 (Feldzeit nicht angegeben)
+- **Einordnung/Einschränkung:** Seriöser Anbieter mit Stichprobenangabe, aber ohne genaue Prozentzahl ('over half') und ohne Feldzeit. Die Kategorie umfasst Pillows & duvets, Covers, Blankets, Sheets und Bedroom accessories. Die Kaufquote für Bettdecken ist nicht öffentlich.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut per curl auf der Store-Seite gefunden, 'Published: July 30, 2026' bestätigt.
+
+### (b) GlobalData – Schlafzimmertextilien 2026: Händler
+
+#### G6-20
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**In der GlobalData-Umfrage 2026 ist Amazon der meistgenutzte Händler für Schlafzimmertextilien in UK, vor Dunelm und ASDA. Amazon hat auch die höchste Conversion-Rate, gefolgt von Dunelm.**
+
+> “Amazon is the most popular retailer for purchasing bedroom textiles products, followed by Dunelm and ASDA. Key Highlights Amazon holds the highest conversion rate in the overall bedroom textiles market followed by Dunelm”
+
+- **Quelle:** [GlobalData – UK Home: Bedroom Textiles (Store-Seite)](https://www.globaldata.com/store/report/uk-bedroom-textiles-market-analysis/)
+- **Datum der Quelle:** 2026-07-30 · **Typ:** Marktforschung
+- **Stichprobe/Methodik:** n=2.000, UK, 2026
+- **Einordnung/Einschränkung:** Rangfolge aus einer Verbraucherbefragung, öffentlich ohne Prozentwerte. Ein reiner Onlinehändler führt bei Schlafzimmertextilien.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut per curl exakt gefunden.
+
+### (b) GlobalData – Schlafzimmertextilien 2026: Kaufkriterien
+
+#### G6-21
+
+⚠️ EINGESCHRÄNKT · Angle: Markt, D Geschenk
+
+**Laut GlobalData-Umfrage 2026 nannte die Mehrheit der britischen Käufer von Schlafzimmertextilien den Preis als Hauptkriterium, und die meisten recherchierten vor dem Kauf.**
+
+> “A majority of respondents cited price as the driver of choice for their bedroom textiles purchases Most bedroom textiles consumers undertook some research before buying”
+
+- **Quelle:** [GlobalData – UK Home: Bedroom Textiles (Store-Seite)](https://www.globaldata.com/store/report/uk-bedroom-textiles-market-analysis/)
+- **Datum der Quelle:** 2026-07-30 · **Typ:** Marktforschung
+- **Stichprobe/Methodik:** n=2.000, UK, 2026
+- **Einordnung/Einschränkung:** Nur qualitative Aussagen ('majority', 'most') ohne Prozentwerte, die Detailtabellen liegen hinter der Paywall. Passt zu den Dunelm-Beobachtungen in G6-06.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut per curl exakt gefunden.
+
+### (b) GlobalData – Schlafzimmertextilien 2017 (veraltet)
+
+#### G6-22
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**GlobalData prognostizierte 2017 ein Wachstum des britischen Marktes für Schlafzimmertextilien um insgesamt 12,5 % zwischen 2017 und 2022. Damals erfolgten knapp über 80 % der Käufe als Ersatz vorhandener Textilien.**
+
+> “The UK bedroom textiles market is set to grow by 12.5% between 2017 and 2022, with just over 80% of purchases made to replace existing textiles and around 58% made to achieve a new look, according to GlobalData”
+
+- **Quelle:** [GlobalData – Pressemitteilung 'Scandinavian lifestyle trends will help drive UK bedroom textiles market growth to 2022' (Byline Kristian Jackson; zitiert Retail Analyst Sarah Johns)](https://www.globaldata.com/media/retail/scandinavian-lifestyle-trends-will-help-drive-uk-bedroom-textiles-market-growth-to-2022/)
+- **Datum der Quelle:** 2017-04-20 · **Typ:** Marktforschung
+- **Einordnung/Einschränkung:** Echte GlobalData-Pressemitteilung, aber neun Jahre alt und für einen abgelaufenen Prognosezeitraum. 12,5 % ist ein Gesamtwachstum, keine Jahresrate. Die Ersatzkauf-Quote taugt nur als historischer Hinweis.
+- **Wahrheits-Check:** *korrigiert*. Wortlaut per curl gefunden, Datum 20 Apr 17 bestätigt. Korrigiert: Die Byline lautet Kristian Jackson, Sarah Johns ist nur die zitierte Analystin. Wortlaut vervollständigt.
+
+### (b) GlobalData – Pillows & duvets 2024 (nicht prüfbar)
+
+#### G6-23
+
+❌ NICHT BELEGT / MYTHOS · Angle: Markt, B Wechseljahre
+
+**Die Angabe, 'Pillows & duvets' hätten im Mai 2024 die höchste Kaufquote aller Schlafzimmertextilien gehabt, mit Frauen als wichtigster Käufergruppe, ist derzeit nicht prüfbar.**
+
+> “Pillows & duvets had the highest penetration as of May 2024 with female buyers being the leading demography.”
+
+- **Quelle:** [GlobalData Report-Store (frühere Ausgabe 'UK Bedroom Textiles', nur als Such-Snippet sichtbar)](https://www.globaldata.com/store/?p=1907364)
+- **Datum der Quelle:** 2024 · **Typ:** Marktforschung
+- **Stichprobe/Methodik:** unbekannt (frühere GlobalData-Konsumentenumfrage)
+- **Einordnung/Einschränkung:** Der Satz steht nur im Suchmaschinen-Index. Die URL leitet auf die Ausgabe 2026 weiter (curl: HTTP 502; WebFetch: Seite vom 30.07.2026 ohne diesen Satz). Ein Archivabruf war nicht möglich (429/Egress blockiert). Nicht in Ads verwenden.
+- **Wahrheits-Check:** *bestätigt*. URL selbst per curl und WebFetch aufgerufen: Weiterleitung auf die Ausgabe 2026, der Satz fehlt. Unbelegtheit bestätigt. Die Faktaussage selbst gilt als nicht verwendbar.
+
+### (c) Mintel – Homewares-Käuferquote 2026
+
+#### G6-24
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**Laut Mintel haben 78 % der Erwachsenen in UK im vergangenen Jahr Homewares gekauft, gegenüber 86 % im Jahr 2023.**
+
+> “78% of UK adults have bought homewares in the past year, a decline from 86% in 2023.”
+
+- **Quelle:** [Mintel – UK Homewares Retailing Market Report 2026 (Store-Seite)](https://store.mintel.com/report/uk-homewares-retailing-market-report)
+- **Datum der Quelle:** 2026-02-24 · **Typ:** Marktforschung
+- **Stichprobe/Methodik:** Mintel-Verbraucherbefragung UK; n und Feldzeit auf der Seite nicht angegeben
+- **Einordnung/Einschränkung:** Öffentlich sichtbare Mintel-Zahl, Methodik nicht öffentlich (nur als Kapitel 'Consumer research methodology' im Inhaltsverzeichnis). Analystenzitat (Sam Nguyen, Senior Retail Analyst): 'An improved housing market has provided a welcome boost for the homewares sector. However, the landscape has become more competitive, especially on price.'
+- **Wahrheits-Check:** *bestätigt*. Wortlaut per curl exakt gefunden, datePublished 2026-02-24 im Seitenquelltext bestätigt.
+
+### (c) Mintel – Kaufkanal Homewares
+
+#### G6-25
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**Mintel stellt für 2026 fest, dass physische Läden ihre Position als wichtigster Kaufkanal für Homewares in UK gestärkt haben. Die angenommene Online-Dominanz nach der Pandemie habe sich umgekehrt.**
+
+> “Physical stores have strengthened their position as the main purchasing channel, reversing an assumed post-pandemic online dominance and highlighting an enduring appetite for in-person inspiration.”
+
+- **Quelle:** [Mintel – UK Homewares Retailing Market Report 2026 (Store-Seite)](https://store.mintel.com/report/uk-homewares-retailing-market-report)
+- **Datum der Quelle:** 2026-02-24 · **Typ:** Marktforschung
+- **Stichprobe/Methodik:** Mintel-Verbraucherbefragung UK; n nicht angegeben
+- **Einordnung/Einschränkung:** Qualitative Aussage ohne öffentliche Prozentwerte. Im Inhaltsverzeichnis steht außerdem 'Online engagement continues to dip, while in-store purchasing remains resilient'. Das widerspricht nicht dem schnelleren Online-Wachstum laut GlobalData und ONS.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut und Kapitelüberschrift per curl gefunden.
+
+### (c) Mintel – Ausgabenprognose und Haushaltstextilien
+
+#### G6-26
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**Mintel prognostiziert, dass die britischen Ausgaben für Homewares zwischen 2025 und 2030 um 4,1 % wachsen. Haushaltstextilien bilden das größte Segment des Homewares-Markts.**
+
+> “Spending on homewares is forecast to grow 4.1% between 2025 and 2030 Graph 2: market value forecast for homewares (including VAT), 2019-30 Household textiles make up the largest share Graph 3: homewares market segmentation, 2024-25”
+
+- **Quelle:** [Mintel – UK Homewares Retailing Market Report 2026 (Inhaltsverzeichnis auf der Store-Seite)](https://store.mintel.com/report/uk-homewares-retailing-market-report)
+- **Datum der Quelle:** 2026-02-24 · **Typ:** Marktforschung
+- **Einordnung/Einschränkung:** Beides sind nur Kapitelüberschriften, die Werte liegen hinter der Paywall. '4,1 % zwischen 2025 und 2030' ist mehrdeutig, vermutlich ein Gesamtwachstum über fünf Jahre. Nicht als 'jährlich' zitieren. Laut Grafiktitel inkl. MwSt., ob nominal oder real, ist nicht angegeben.
+- **Wahrheits-Check:** *korrigiert*. Überschriften per curl gefunden. Korrigiert: Die frühere Angabe 'nominal' steht nicht auf der Seite und wurde gestrichen. Wortlaut um die Grafiktitel ergänzt.
+
+### (c) Mintel – Schlafzimmermöbel/Betten 2024
+
+#### G6-27
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**Laut Mintel-Bericht vom Oktober 2024 wird der britische Markt für Schlafzimmermöbel inklusive Betten und Matratzen (ohne Bettdecken) durch knappe Budgets und einen schwachen Immobilienmarkt gebremst.**
+
+> “The bedroom furniture market continues to be impacted by stretched budgets and a subdued housing market, but the recovery of consumer finances and an uptick in housing transactions have provided the market with a much-needed boost.”
+
+- **Quelle:** [Mintel – UK Bedroom Furniture Market Report 2024 (Store-Seite, Autorin Sam Nguyen)](https://store.mintel.com/report/uk-bedroom-furniture-market-report)
+- **Datum der Quelle:** 2024-10-16 · **Typ:** Marktforschung
+- **Einordnung/Einschränkung:** Zwei Jahre alt. Laut Definition auf der Seite deckt der Bericht Divans, Bettgestelle, Matratzen und nicht gepolsterte Schlafzimmermöbel ab, Bettdecken nicht. Keine öffentlichen Marktwerte. Der Satz fährt fort: Erholung der Finanzen und mehr Immobilientransaktionen hätten dem Markt Auftrieb gegeben.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut, Segmentdefinition und datePublished 2024-10-16 per curl bestätigt. Wortlaut vervollständigt, um ihn nicht einseitig negativ zu kürzen.
+
+### (c) Mintel – 'Half of Brits struggle to sleep' (veraltet)
+
+#### G6-28
+
+⚠️ EINGESCHRÄNKT · Angle: B Wechseljahre, Allgemein
+
+**Laut Mintel-Bericht 'Sleep Aids UK 2017' gab damals die Hälfte (50 %) der Briten an, typischerweise schlecht zu schlafen. Im Schnitt schliefen sie 6 Stunden 51 Minuten.**
+
+> “today half (50%) of all Brits say they typically struggle to sleep. Failing to hit the seven hour mark, the minimum sleep time recommended for adults, the average Brit says they sleep for just six hours and 51 minutes per day.”
+
+- **Quelle:** [Mintel Press Centre – 'The wide awake club: Half of Brits struggle to sleep'](https://www.mintel.com/press-centre/the-wide-awake-club-half-of-brits-struggle-to-sleep/)
+- **Datum der Quelle:** 2017-12-01 · **Typ:** Marktforschung
+- **Stichprobe/Methodik:** Mintel Sleep Aids UK 2017; n, Feldzeit und Methodik in der Pressemitteilung nicht angegeben
+- **Einordnung/Einschränkung:** Neun Jahre alt und ohne Stichprobenangabe. Als Störfaktoren nennt die Mitteilung Lärm (59 %), Licht (57 %), Technik vor dem Schlafen (34 %) und den Partner (29 %). Temperatur, Hitze oder Bettwaren werden nicht genannt. Für Ads höchstens mit Jahresangabe 2017.
+- **Wahrheits-Check:** *korrigiert*. Wortlaut und Datum 01.12.2017 per curl bestätigt. Korrigiert: Die Mitteilung nennt nicht 'nur Lärm und Licht', sondern auch Technik (34 %) und Partner (29 %). Bestätigt: kein Bezug zu Temperatur oder Bettwaren.
+
+### (d) ONS Family Spending – Schlafzimmertextilien
+
+#### G6-29
+
+✅ BELEGT · Angle: Markt
+
+**UK-Haushalte gaben im Finanzjahr April 2024 bis März 2025 durchschnittlich £1,30 pro Woche für 'Schlafzimmertextilien einschließlich Bettdecken und Kissen' aus, zusammen £38 Mio. pro Woche.**
+
+> “5.2.1 | Bedroom textiles, including duvets and pillows | 1.30 | 38 | 380 | 15.6 [Average weekly expenditure all households (£) | Total weekly expenditure (£ million) | Recording households in sample | Percentage standard error (full method)]”
+
+- **Quelle:** [ONS – Family spending workbook 1: detailed expenditure and trends, Table A1 (UK, financial year ending 2025)](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/datasets/familyspendingworkbook1detailedexpenditureandtrends)
+- **Datum der Quelle:** 2026-06-11 · **Typ:** Behörde/NHS/Statistikamt
+- **Stichprobe/Methodik:** Living Costs and Food Survey, 5.000 UK-Haushalte (gewichtet 28,71 Mio.), April 2024–März 2025; 380 Haushalte mit Ausgaben in dieser Kategorie
+- **Einordnung/Einschränkung:** Amtliche Statistik für das gesamte UK. Relativer Standardfehler 15,6 %, das 95-%-Intervall reicht etwa von £0,90 bis £1,70 pro Woche. Die Kategorie enthält auch Kissen, ist also kein reiner Bettdecken-Wert.
+- **Wahrheits-Check:** *bestätigt*. FYE-2025-XLSX selbst heruntergeladen und mit openpyxl gelesen: A1 Zeile 5.2.1 exakt wie angegeben, Release date 11 June 2026 auf der Dataset-Seite.
+
+### (d) ONS Family Spending – Hochrechnung Jahreswert
+
+#### G6-30
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**Hochgerechnet ergeben die ONS-Werte für FYE 2025 Ausgaben der UK-Haushalte für Schlafzimmertextilien inklusive Bettdecken und Kissen von rund £2,0 Mrd. pro Jahr (£38 Mio. × 52 Wochen, eigene Rechnung).**
+
+> “5.2.1 | Bedroom textiles, including duvets and pillows | 1.30 | 38 | 380 | 15.6”
+
+- **Quelle:** [ONS – Family spending workbook 1, Table A1 (FYE 2025); eigene Hochrechnung](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/datasets/familyspendingworkbook1detailedexpenditureandtrends)
+- **Datum der Quelle:** 2026-06-11 · **Typ:** Behörde/NHS/Statistikamt
+- **Stichprobe/Methodik:** Living Costs and Food Survey, 5.000 Haushalte, UK, FYE 2025
+- **Einordnung/Einschränkung:** £38 Mio. × 52 = £1,976 Mrd. Mit ±1,96 × 15,6 % ergibt sich eine Spanne von etwa £1,4 bis £2,6 Mrd. Das ist eine eigene Rechnung, keine ONS-Angabe, und gilt nur für Privathaushalte. Die Kategorie enthält Kissen und weitere Textilien. Als Größenordnung brauchbar, nicht als 'Bettdecken-Markt'.
+- **Wahrheits-Check:** *bestätigt*. Ausgangswert in der XLSX bestätigt, Rechnung nachvollzogen.
+
+### (d) ONS Family Spending – Haushaltstextilien gesamt
+
+#### G6-31
+
+✅ BELEGT · Angle: Markt
+
+**UK-Haushalte gaben im FYE 2025 im Schnitt £2,40 pro Woche für Haushaltstextilien aus (£70 Mio. pro Woche insgesamt). Davon entfielen £1,30 auf Schlafzimmertextilien und £1,10 auf andere Textilien wie Kissen, Handtücher und Vorhänge.**
+
+> “5.2 | Household textiles | 2.40 | 70 | 970 | 10.7 / 5.2.2 | Other household textiles, including cushions, towels, curtains | 1.10 | 32 | 970 | 14.4”
+
+- **Quelle:** [ONS – Family spending workbook 1, Table A1 (UK, FYE 2025)](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/datasets/familyspendingworkbook1detailedexpenditureandtrends)
+- **Datum der Quelle:** 2026-06-11 · **Typ:** Behörde/NHS/Statistikamt
+- **Stichprobe/Methodik:** LCF, 5.000 Haushalte, UK, FYE 2025; 970 Haushalte mit Ausgaben für Haushaltstextilien
+- **Einordnung/Einschränkung:** Amtliche Tabelle, Standardfehler 10,7 %. Zum Vergleich FYE 2024: Haushaltstextilien £2,20 pro Woche (£61 Mio.; 740 Haushalte; SE 12,4 %).
+- **Wahrheits-Check:** *bestätigt*. Beide Zeilen in A1 der FYE-2025-XLSX exakt bestätigt, Vergleichswert aus der FYE-2024-XLSX.
+
+### (d) ONS Family Spending – Einkommensgruppen
+
+#### G6-32
+
+⚠️ EINGESCHRÄNKT · Angle: Markt, D Geschenk
+
+**Haushalte im neunten und zehnten Bruttoeinkommens-Dezil gaben im FYE 2025 durchschnittlich £4,50 pro Woche für Haushaltstextilien aus, Haushalte im untersten Dezil £1,90.**
+
+> “5.2 | Household textiles | 1.90 | 1.20 | 1.40 | 3.00 | 1.70 | 2.00 | 2.00 | 2.20 | 4.50 | 4.50 | 2.40 [Dezile 1–10 | alle Haushalte]”
+
+- **Quelle:** [ONS – Family spending workbook 1, Table A6 'Detailed household expenditure by gross income decile group' (UK, FYE 2025)](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/datasets/familyspendingworkbook1detailedexpenditureandtrends)
+- **Datum der Quelle:** 2026-06-11 · **Typ:** Behörde/NHS/Statistikamt
+- **Stichprobe/Methodik:** LCF, 440–540 Haushalte je Dezil, UK, FYE 2025
+- **Einordnung/Einschränkung:** Amtlich, aber mit kleinen Fallzahlen je Dezil und ohne Standardfehler in A6. Der unregelmäßige Verlauf (Dezil 2 £1,20, Dezil 4 £3,00) zeigt das Rauschen. Die Tendenz ist plausibel, die Einzelwerte sind unsicher. Im FYE 2024 sah die Verteilung anders aus (Dezil 10: £6,20, Dezil 1: £0,70).
+- **Wahrheits-Check:** *bestätigt*. A6 Zeile 5.2 und die Fallzahlen je Dezil (520/540/510/510/500/500/500/470/500/440) in der XLSX bestätigt.
+
+### (d) ONS Family Spending – Mythos Ausgabensprung
+
+#### G6-33
+
+❌ NICHT BELEGT / MYTHOS · Angle: Markt
+
+**Die Aussage, die Ausgaben britischer Haushalte für Bettdecken und Schlafzimmertextilien seien binnen eines Jahres um rund 44 % gestiegen (von £0,90 auf £1,30 pro Woche), ist statistisch nicht belegt.**
+
+> “While sample sizes increased in FYE 2025, they remain small, and users should be aware that estimates for lower-level expenditure categories in the underlying data are subject to greater uncertainty”
+
+- **Quelle:** [ONS – Family spending in the UK: April 2024 to March 2025 (Bulletin) sowie Workbook 1, Table A1 FYE 2024 und FYE 2025](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/bulletins/familyspendingintheuk/april2024tomarch2025)
+- **Datum der Quelle:** 2026-06-11 · **Typ:** Behörde/NHS/Statistikamt
+- **Stichprobe/Methodik:** LCF FYE 2024: 4.210 Haushalte (290 mit Ausgaben für Schlafzimmertextilien, SE 12,6 %); FYE 2025: 5.000 (380, SE 15,6 %)
+- **Einordnung/Einschränkung:** Beide Einzelwerte sind amtlich (FYE 2024: '5.2.1 | Bedroom textiles, including duvets and pillows | 0.90 | 26 | 290 | 12.6'). Eigene Prüfung: Differenz £0,40, Standardfehler der Differenz etwa £0,23, also z ≈ 1,7 und nicht signifikant auf dem 5-%-Niveau. Zudem sind es Nominalwerte. ONS: 'no formal significance testing has been undertaken'. Kein Wachstumstrend ableitbar.
+- **Wahrheits-Check:** *korrigiert*. Bulletin-Zitat und beide Tabellenwerte selbst bestätigt. Korrigiert: Die Intervalle (ca. £0,68–1,12 bzw. £0,90–1,70) überschneiden sich nur teilweise, nicht 'deutlich'. Die Begründung stützt sich jetzt auf einen expliziten Differenztest.
+
+### (d) ONS Family Spending – Gesamtausgaben
+
+#### G6-34
+
+✅ BELEGT · Angle: Markt
+
+**Die durchschnittlichen wöchentlichen Haushaltsausgaben in UK stiegen im FYE 2025 auf £676,60 (+9 % nominal, +5 % real). Davon entfielen £40,60 pro Woche auf Haushaltswaren und -dienstleistungen.**
+
+> “Average weekly household expenditure increased to £676.60, a nominal increase of £53.30 (9%) from the previous year; after accounting for inflation there was a real-terms increase of £35.10 (5%).”
+
+- **Quelle:** [ONS – Family spending in the UK: April 2024 to March 2025 (Bulletin); Workbook 1 Table A1 ('5 | Household goods & services | 40.60')](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/expenditure/bulletins/familyspendingintheuk/april2024tomarch2025)
+- **Datum der Quelle:** 2026-06-11 · **Typ:** Behörde/NHS/Statistikamt
+- **Stichprobe/Methodik:** Living Costs and Food Survey, 5.000 Haushalte, UK, April 2024–März 2025
+- **Einordnung/Einschränkung:** Amtlicher Hauptwert für das gesamte UK. Die Daten reichen nur bis März 2025. Schlafzimmertextilien machen rund 0,2 % der Gesamtausgaben aus (eigene Rechnung).
+- **Wahrheits-Check:** *bestätigt*. Bulletin-Satz per curl exakt gefunden, Release date 11 June 2026. A1-Zeile '5 | Household goods & services | 40.60' in der XLSX bestätigt.
+
+### (e) HMRC/Zolltarif – richtige Warennummer
+
+#### G6-35
+
+✅ BELEGT · Angle: Markt
+
+**Im britischen Zolltarif stehen Bettdecken unter 9404 40 ('Quilts, bedspreads, eiderdowns and duvets (comforters)'), aufgeteilt in 9404 40 10 (Federn/Daunen) und 9404 40 90 (andere). 9404 90 ist die Restposition 'Other', u. a. für Kissen und Polster.**
+
+> “9404400000 Quilts, bedspreads, eiderdowns and duvets (comforters) | 9404401000 Filled with feathers or down | 9404409000 Other | 9404900000 Other | 9404901000 Filled with feathers or down | 9404909000 Other”
+
+- **Quelle:** [UK Government – UK Integrated Online Tariff (Trade Tariff), Heading 9404 (API v2)](https://www.trade-tariff.service.gov.uk/api/v2/headings/9404)
+- **Datum der Quelle:** Live-Tarif, abgerufen 2026-10-08 · **Typ:** Regulierer/Regelwerk
+- **Einordnung/Einschränkung:** Offizieller UK-Zolltarif. In den uktradeinfo-Daten gibt es Werte unter 9404 40 erst ab Januar 2022, davor nur unter 9404 90. Die Aufteilung kam mit der HS-Revision 2022.
+- **Wahrheits-Check:** *korrigiert*. API am 08.10.2026 per curl selbst abgefragt (HTTP 200), Codes und Beschreibungen exakt bestätigt. Nur das Datumsfeld wurde von 'unbekannt' auf das Abrufdatum präzisiert.
+
+### (e) HMRC – Mythos CN 9404 90
+
+#### G6-36
+
+❌ NICHT BELEGT / MYTHOS · Angle: Markt
+
+**Die Annahme, britische Bettdecken-Importe ließen sich über CN 9404 90 messen, ist seit 2022 überholt. Seither stehen Bettdecken unter 9404 40, und 9404 90 erfasst vor allem Kissen, Polster und Sitzkissen.**
+
+> “Cn8LongDescription 94049090: "Articles of bedding and similar furnishing, fitted with springs or stuffed or internally filled with any material or of cellular rubber or plastics (excl. filled with feather or down, mattress supports, mattresses, sleeping bags, pneumatic or water mattresses and blankets, quilts, bedspreads, eiderdowns and duvets "comforters")"”
+
+- **Quelle:** [HMRC uktradeinfo – API, Commodity-Tabelle](https://api.uktradeinfo.com/Commodity?$filter=CommodityId eq 94044010 or CommodityId eq 94044090)
+- **Datum der Quelle:** Live-Daten, abgerufen 2026-10-08 · **Typ:** Behörde/NHS/Statistikamt
+- **Einordnung/Einschränkung:** Die HMRC-Beschreibung von 9404 90 90 schließt 'quilts, bedspreads, eiderdowns and duvets' ausdrücklich aus. Wer heute 9404 90 auswertet, misst überwiegend Kissen und Polster (2025 rund £349 Mio., siehe G6-41).
+- **Wahrheits-Check:** *korrigiert*. Commodity-API selbst abgefragt. Unbelegtheit der Annahme bestätigt. Wortlaut durch den stärkeren Beleg ersetzt (ausdrücklicher Ausschluss in der 9404-90-Beschreibung), Datumsfeld präzisiert.
+
+### (e) HMRC – Importwert Bettdecken 2025
+
+#### G6-37
+
+✅ BELEGT · Angle: Markt
+
+**UK importierte 2025 Steppdecken, Tagesdecken und Bettdecken (Warennummer 9404 40, aus EU und Nicht-EU) im Zollwert von £43,3 Mio. bei 9.063 Tonnen, nach £34,7 Mio. im Jahr 2024 (+24,8 %).**
+
+> “OTS, CommodityId 94044010+94044090, FlowTypeId 1 (EU Imports) + 3 (Non-EU Imports), Summe Value 2025: 43,331,063 (EU 9,276,349; Non-EU 34,054,714); NetMass 9,062,746; Summe Value 2024: 34,726,146; SuppressionIndex 0”
+
+- **Quelle:** [HMRC uktradeinfo – Overseas Trade Statistics (OTS) API, eigene Aggregation](https://api.uktradeinfo.com/OTS?$apply=filter((CommodityId eq 94044010 or CommodityId eq 94044090) and (FlowTypeId eq 1 or FlowTypeId eq 3) and MonthId ge 202201)/groupby((MonthId,CommodityId,FlowTypeId),aggregate(Value with sum as V)))
+- **Datum der Quelle:** 2026-09-11 (HMRC-OTS-Veröffentlichung für Juli 2026; API-Abruf 2026-10-08) · **Typ:** Behörde/NHS/Statistikamt
+- **Stichprobe/Methodik:** Vollerhebung Zollanmeldungen; Daten bis Juli 2026
+- **Einordnung/Einschränkung:** Amtliche HMRC-Handelsdaten ohne Unterdrückung. Einschränkungen: Es ist ein Zoll- bzw. Importwert, kein Ladenumsatz, und die Position enthält auch Tagesdecken und Quilts. Weitere Jahre: 2022 £34,2 Mio., 2023 £32,9 Mio. Keine Stückzahlen (SuppUnit 0). Exporte 2025: £2,7 Mio.
+- **Wahrheits-Check:** *korrigiert*. Abfrage selbst ausgeführt, alle Werte exakt reproduziert (inkl. 2022/2023, Exporte £2.747.803, SuppressionIndex 0). Datumsfeld auf die GOV.UK-Veröffentlichung vom 11.09.2026 präzisiert.
+
+### (e) HMRC – Daune vs. andere Füllung
+
+#### G6-38
+
+✅ BELEGT · Angle: Markt
+
+**Von den britischen Bettdecken-Importen 2025 (9404 40) entfielen £9,3 Mio. auf Decken mit Feder- oder Daunenfüllung (9404 40 10) und £34,1 Mio. auf andere Füllungen wie Synthetik (9404 40 90).**
+
+> “OTS Summe Value 2025: CommodityId 94044010 = 9,261,503; CommodityId 94044090 = 34,069,560 (FlowTypeId 1+3)”
+
+- **Quelle:** [HMRC uktradeinfo – OTS API, eigene Aggregation](https://api.uktradeinfo.com/OTS?$apply=filter((CommodityId eq 94044010 or CommodityId eq 94044090) and (FlowTypeId eq 1 or FlowTypeId eq 3) and MonthId ge 202201)/groupby((MonthId,CommodityId,FlowTypeId),aggregate(Value with sum as V)))
+- **Datum der Quelle:** 2026-09-11 (HMRC-OTS-Veröffentlichung für Juli 2026; API-Abruf 2026-10-08) · **Typ:** Behörde/NHS/Statistikamt
+- **Stichprobe/Methodik:** Vollerhebung Zollanmeldungen 2025
+- **Einordnung/Einschränkung:** Amtliche Daten. Etwa 79 % des Importwerts entfallen auf Ware ohne Daunen (eigene Rechnung). Über Tog-Werte und Endpreise sagt das nichts.
+- **Wahrheits-Check:** *korrigiert*. Werte selbst exakt reproduziert, Datumsfeld präzisiert.
+
+### (e) HMRC – Importe Januar–Juli 2026
+
+#### G6-39
+
+✅ BELEGT · Angle: Markt
+
+**Von Januar bis Juli 2026 importierte UK Waren der Position 9404 40 (Bettdecken/Quilts) im Wert von £26,4 Mio., 4,5 % mehr als im Vorjahreszeitraum (£25,2 Mio.). Die Menge stieg um 10,4 % auf 5.528 Tonnen.**
+
+> “OTS Summe Value MonthId 202601–202607 (94044010+94044090, FlowTypeId 1+3): 26,356,322; NetMass 5,528,127 / MonthId 202501–202507: 25,231,635; NetMass 5,008,923”
+
+- **Quelle:** [HMRC uktradeinfo – OTS API, eigene Aggregation](https://api.uktradeinfo.com/OTS?$apply=filter((CommodityId eq 94044010 or CommodityId eq 94044090) and (FlowTypeId eq 1 or FlowTypeId eq 3) and MonthId ge 202201)/groupby((MonthId,CommodityId,FlowTypeId),aggregate(Value with sum as V)))
+- **Datum der Quelle:** 2026-09-11 (HMRC-OTS-Veröffentlichung für Juli 2026; API-Abruf 2026-10-08) · **Typ:** Behörde/NHS/Statistikamt
+- **Stichprobe/Methodik:** Vollerhebung, Januar–Juli 2026 vs. Januar–Juli 2025
+- **Einordnung/Einschränkung:** Neueste Monatsdaten. Die Werte für 2026 sind vorläufig und können revidiert werden. Dass die Menge stärker wuchs als der Wert, deutet auf niedrigere Importpreise je kg hin (eigene Interpretation).
+- **Wahrheits-Check:** *korrigiert*. Werte selbst exakt reproduziert (+4,46 % Wert, +10,37 % Menge), letzter Monat 202607. Datumsfeld präzisiert.
+
+### (e) HMRC – Herkunftsländer
+
+#### G6-40
+
+✅ BELEGT · Angle: Markt
+
+**China lieferte 2025 47,9 % des Werts der britischen Importe unter 9404 40 (£20,8 Mio.), vor Pakistan mit 11,2 % und Indien mit 9,1 %.**
+
+> “OTS 2025, 94044010+94044090, FlowTypeId 1+3, groupby CountryId: 720 (China) 20,750,363; 662 (Pakistan) 4,837,402; 664 (India) 3,923,601; Gesamt 43,331,063”
+
+- **Quelle:** [HMRC uktradeinfo – OTS API, Country-Tabelle, eigene Aggregation](https://api.uktradeinfo.com/OTS?$apply=filter((CommodityId eq 94044010 or CommodityId eq 94044090) and (FlowTypeId eq 1 or FlowTypeId eq 3) and MonthId ge 202501 and MonthId le 202512)/groupby((CountryId),aggregate(Value with sum as V)))
+- **Datum der Quelle:** 2026-09-11 (HMRC-OTS-Veröffentlichung für Juli 2026; API-Abruf 2026-10-08) · **Typ:** Behörde/NHS/Statistikamt
+- **Stichprobe/Methodik:** Vollerhebung 2025
+- **Einordnung/Einschränkung:** Amtliche Daten, Anteile selbst berechnet. Herkunft heißt Ursprungs- bzw. Versandland laut Zollanmeldung, nicht Marke. Rund 21 % des Werts kamen aus der EU.
+- **Wahrheits-Check:** *korrigiert*. Abfrage selbst ausgeführt, Länder-IDs über die Country-Tabelle geprüft (720 China, 662 Pakistan, 664 India). Datumsfeld präzisiert.
+
+### (e) HMRC – Importe unter 9404 90 (keine Bettdecken)
+
+#### G6-41
+
+✅ BELEGT · Angle: Markt
+
+**Unter der Restposition 9404 90 (u. a. Kissen und Polster, seit 2022 ohne Bettdecken) importierte UK 2025 Waren im Wert von rund £349 Mio. (£22,0 Mio. Feder/Daune, £327,4 Mio. andere).**
+
+> “OTS Summe Value 2025 (FlowTypeId 1+3): CommodityId 94049010 = 21,956,404; CommodityId 94049090 = 327,373,351; 2021: 94049010 35,594,369; 94049090 338,289,366; 2022 gesamt 349,938,835”
+
+- **Quelle:** [HMRC uktradeinfo – OTS API, eigene Aggregation](https://api.uktradeinfo.com/OTS?$apply=filter((CommodityId eq 94049010 or CommodityId eq 94049090) and (FlowTypeId eq 1 or FlowTypeId eq 3) and MonthId ge 202001)/groupby((MonthId,CommodityId,FlowTypeId),aggregate(Value with sum as V)))
+- **Datum der Quelle:** 2026-09-11 (HMRC-OTS-Veröffentlichung für Juli 2026; API-Abruf 2026-10-08) · **Typ:** Behörde/NHS/Statistikamt
+- **Stichprobe/Methodik:** Vollerhebung 2020–2026
+- **Einordnung/Einschränkung:** Die Zahl selbst ist amtlich, aber KEIN Bettdecken-Wert. Auffällig: 9404 90 fiel nach der Ausgliederung von 9404 40 kaum (2021 £373,9 Mio., 2022 £349,9 Mio.). Daraus ist nicht entscheidbar, ob Bettdecken vorher nur einen kleinen Anteil hatten oder weiter teils unter 9404 90 angemeldet werden.
+- **Wahrheits-Check:** *korrigiert*. Werte selbst reproduziert. URL von der generischen API-Adresse auf die konkrete Abfrage geändert, Wortlaut auf exakte Werte gesetzt, Datumsfeld präzisiert.
+
+### (f) ONS – Online-Anteil Einzelhandel August 2026
+
+#### G6-42
+
+✅ BELEGT · Angle: Markt
+
+**Der Online-Anteil am Einzelhandel in Großbritannien (ohne Nordirland, ohne Kraftstoff) stieg saisonbereinigt von 28,4 % im Juli 2026 auf 28,8 % im August 2026.**
+
+> “The total spend (the sum of in-store and online sales) rose by 1.3% over the month. As a result, the proportion of sales made online rose from 28.4% in July 2026 to 28.8% in August 2026.”
+
+- **Quelle:** [ONS – Retail sales, Great Britain: August 2026 (Statistical bulletin)](https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/august2026)
+- **Datum der Quelle:** 2026-09-18 · **Typ:** Behörde/NHS/Statistikamt
+- **Stichprobe/Methodik:** Monthly Business Survey, Retail Sales Inquiry, Großbritannien
+- **Einordnung/Einschränkung:** Amtlich, neuester Monat (nächste Veröffentlichung am 23.10.2026). Gilt für Großbritannien, nicht das gesamte UK. Entspricht der Reihe MS6Y 'All retailing excluding automotive fuel' in der Internet-Tabelle. Laut Bulletin lagen die Online-Ausgaben 8,9 % über August 2025.
+- **Wahrheits-Check:** *korrigiert*. Bulletin-Satz und Release-Daten per curl bestätigt, MS6Y = 28,8 (Juli 28,4) in der XLSX bestätigt. Korrigiert: 'gesamter Einzelhandel' präzisiert auf 'ohne Kraftstoff', wie es der Tabellenkopf ausweist.
+
+### (f) ONS – Online-Anteil nicht saisonbereinigt
+
+#### G6-43
+
+✅ BELEGT · Angle: Markt
+
+**In der nicht saisonbereinigten ONS-Reihe J4MC lag der Online-Anteil am Einzelhandel in Großbritannien im August 2026 bei 27,3 % (wöchentlich £2.563,7 Mio. online von £9.403,8 Mio. gesamt).**
+
+> “INTERNET – Internet Retail Sales (non seasonally adjusted): 2026 Aug | 9403.8 | 2563.7 | 27.3 [Average weekly value for all retailing (£ million) | Average weekly value for Internet retail sales (£ million) | Internet sales as a percentage of total retail sales (%), J4MC]”
+
+- **Quelle:** [ONS – Retail Sales Index internet sales (internetreferencetables.xlsx, August 2026)](https://www.ons.gov.uk/businessindustryandtrade/retailindustry/datasets/retailsalesindexinternetsales)
+- **Datum der Quelle:** 2026-09-18 · **Typ:** Behörde/NHS/Statistikamt
+- **Stichprobe/Methodik:** Retail Sales Inquiry, Großbritannien
+- **Einordnung/Einschränkung:** Amtlich. Erklärt, warum Sekundärquellen unterschiedliche Werte nennen: Es gibt eine saisonbereinigte (MS6Y, 28,8 %) und eine nicht saisonbereinigte Reihe (J4MC, 27,3 %). In Ads immer die Reihe angeben.
+- **Wahrheits-Check:** *bestätigt*. XLSX selbst geladen (Cover: 'published at 7.00am 18 September 2026'), Zeile 2026 Aug exakt bestätigt.
+
+### (f) ONS – Online-Anteil 'Household goods stores'
+
+#### G6-44
+
+✅ BELEGT · Angle: Markt
+
+**Bei Haushaltswarenhändlern mit Ladengeschäft ('Household goods stores') in Großbritannien lag der Online-Anteil im August 2026 bei 28,8 % saisonbereinigt bzw. 27,5 % nicht saisonbereinigt. Im August 2025 waren es 25,4 % bzw. 23,7 %.**
+
+> “ISCPSA3 – Internet sales as a proportion of all retailing (seasonally adjusted), Household goods stores (MS77): 2026 Aug 28.8; 2025 Aug 25.4 / ISCPNSA3 (non-seasonally adjusted), Household goods stores (KQ7C): 2026 Aug 27.5; 2025 Aug 23.7”
+
+- **Quelle:** [ONS – Retail Sales Index internet sales (internetreferencetables.xlsx, August 2026)](https://www.ons.gov.uk/businessindustryandtrade/retailindustry/datasets/retailsalesindexinternetsales)
+- **Datum der Quelle:** 2026-09-18 · **Typ:** Behörde/NHS/Statistikamt
+- **Stichprobe/Methodik:** Retail Sales Inquiry, Großbritannien
+- **Einordnung/Einschränkung:** Amtlich. Gemessen wird der Online-Anteil am Umsatz von Händlern mit Laden (Eisenwaren, Elektrogeräte, Möbel/Leuchten/Haushaltsartikel), nicht der Online-Anteil aller Haushaltswaren-Käufe. Reine Onlinehändler zählen zu 'Non-store retailing'. Gilt für Großbritannien.
+- **Wahrheits-Check:** *bestätigt*. Blätter ISCPSA3 und ISCPNSA3 der XLSX selbst gelesen, alle vier Werte exakt bestätigt.
+
+### (f) ONS – Online-Wachstum Household goods stores
+
+#### G6-45
+
+✅ BELEGT · Angle: Markt
+
+**Der nicht saisonbereinigte Online-Umsatz der Haushaltswarenhändler mit Laden in Großbritannien lag im August 2026 nominal 22,8 % über dem Vorjahresmonat. Saisonbereinigt erreichte er im Schnitt £213,6 Mio. pro Woche.**
+
+> “ISCPNSA1 – Internet sales: value non-seasonally adjusted percentage change on same month a year earlier, Household goods stores (KP3V): 2026 Aug 22.8 / IntValSA – Value seasonally adjusted average weekly internet sales in pounds million, Household goods stores (MZY2): 2026 Aug 213.6”
+
+- **Quelle:** [ONS – Retail Sales Index internet sales (internetreferencetables.xlsx, August 2026)](https://www.ons.gov.uk/businessindustryandtrade/retailindustry/datasets/retailsalesindexinternetsales)
+- **Datum der Quelle:** 2026-09-18 · **Typ:** Behörde/NHS/Statistikamt
+- **Stichprobe/Methodik:** Retail Sales Inquiry, Großbritannien
+- **Einordnung/Einschränkung:** Amtlich und nominal, also nicht preisbereinigt. Monatswerte schwanken (Juni 2026 +20,1 %, Juli +17,5 %; saisonbereinigt August +20,3 %, KP8J). Es geht um alle Haushaltswarenhändler mit Laden, nicht um Bettwaren.
+- **Wahrheits-Check:** *bestätigt*. KP3V und MZY2 in der XLSX exakt bestätigt, zusätzlich der saisonbereinigte Wert KP8J 20,3.
+
+### (f) ONS – Abgrenzung 'Household goods stores'
+
+#### G6-46
+
+✅ BELEGT · Angle: Markt
+
+**Die ONS-Gruppe 'Household goods stores' (Agg 7) umfasst Eisenwaren/Farben/Glas, Elektro-Haushaltsgeräte sowie Möbel, Leuchten und sonstige Haushaltsartikel. Sie hat 2025 ein Gewicht von 6,91 % im Einzelhandelsindex. Textil-Fachgeschäfte (SIC 47.51) zählen dagegen zur Gruppe Textil, Bekleidung und Schuhe.**
+
+> “Household goods stores | Agg7 | 6.91 / Hardware, paints and glass | 2.52 | 47.52 / Electrical household appliances | 1.3 | 47.54 / Furniture, lighting equipment and household articles not elsewhere classified | 2.89 | 47.59 / [Clothing(Agg5):] Textiles | 0.11 | 47.51”
+
+- **Quelle:** [ONS – Retail Sales Index categories and their percentage weights (indexcatweights2025.xlsx)](https://www.ons.gov.uk/businessindustryandtrade/retailindustry/datasets/retailsalesindexcategoriesandtheirpercentageweights)
+- **Datum der Quelle:** 2026-03-27 · **Typ:** Behörde/NHS/Statistikamt
+- **Einordnung/Einschränkung:** Amtliche Definition, nötig, um G6-44 und G6-45 richtig zu lesen. Das Bulletin definiert: 'Non-store retailing refers to retailers that do not have a store presence. While the majority is made up of online retailers, it also includes other retailers, such as street stalls and markets.'
+- **Wahrheits-Check:** *bestätigt*. XLSX selbst gelesen, alle Gewichte exakt bestätigt. Release date 27 March 2026 auf der Dataset-Seite. Die Non-store-Definition steht wörtlich im Bulletin vom August 2026.
+
+### (f) Mythos – 'Homewares werden überwiegend online gekauft'
+
+#### G6-47
+
+❌ NICHT BELEGT / MYTHOS · Angle: Markt
+
+**Die Behauptung, die meisten Homewares würden in UK inzwischen online gekauft, ist nicht belegt. Bei Haushaltswarenhändlern mit Laden liegt der Online-Anteil bei 27,5 % (nicht saisonbereinigt) bzw. 28,8 % (saisonbereinigt; ONS, August 2026, Großbritannien), und Mintel nennt physische Läden als Hauptkaufkanal.**
+
+> “Physical stores have strengthened their position as the main purchasing channel, reversing an assumed post-pandemic online dominance and highlighting an enduring appetite for in-person inspiration.”
+
+- **Quelle:** [Mintel – UK Homewares Retailing Market Report 2026; ONS – Retail Sales Index internet sales (August 2026)](https://store.mintel.com/report/uk-homewares-retailing-market-report)
+- **Datum der Quelle:** 2026-02-24 · **Typ:** Marktforschung
+- **Einordnung/Einschränkung:** Die ONS-Zahlen (G6-44) und Mintel widersprechen der Behauptung. Dunelms 42 % 'digital' enthalten Click & Collect und Tablet-Käufe im Laden (G6-02). Einschränkung: Reine Onlinehändler wie Amazon sind in der ONS-Gruppe nicht enthalten, und den Online-Anteil aller Homewares-Käufe misst keine öffentliche Quelle. Korrekt formulierbar: 'online wächst schneller' (GlobalData G6-14, ONS G6-45).
+- **Wahrheits-Check:** *korrigiert*. Mintel-Satz und ONS-Werte selbst bestätigt. Korrigiert: 'rund 28–29 %' auf die exakten Werte 27,5 % bzw. 28,8 % präzisiert, Region ergänzt.
+
+### Mythos – UK-Bettwarenmarkt £4,2–4,5 Mrd.
+
+#### G6-48
+
+❌ NICHT BELEGT / MYTHOS · Angle: Markt
+
+**Die online kursierende Zahl, der britische Bettwarenmarkt erreiche 2026 £4,2 bis 4,5 Mrd. und Bettdecken und Kissen hätten daran 25 % Anteil, ist nicht belegt.**
+
+> “Created by SourceReady AI agent · 2026-4-15 ... The UK bedding market in 2026 is projected to reach £4.2 billion to £4.5 billion ... Mattresses 45% ... Bed Linen 30% ... Duvets & Pillows 25%”
+
+- **Quelle:** [SourceReady – UK Bedding Market Report 2026: Trends, Forecasts & Analysis](https://www.sourceready.com/report/detail/uk-bedding-market-report-2026)
+- **Datum der Quelle:** 2026-04-15 · **Typ:** Sonstiges
+- **Einordnung/Einschränkung:** Die Seite ist laut eigener Angabe KI-generiert und nennt keine überprüfbare Quelle. Sie zählt Matratzen mit (45 %). Zum Vergleich: Die ONS-Haushaltsausgaben für Schlafzimmertextilien liegen bei rund £2,0 Mrd. pro Jahr (G6-30), die Bettdecken-Importe bei £43 Mio. Zollwert (G6-37). Nicht in Ads oder Pitches verwenden.
+- **Wahrheits-Check:** *korrigiert*. Seite per curl selbst gelesen, Kennzeichnung 'Created by SourceReady AI agent · 2026-4-15' und Zahlen bestätigt. Korrigiert: Die Behauptungen über eine widersprüchliche 'Sleep Products'-Schwesterseite und über Mordor, MarkWide und ReportCubes wurden nicht selbst geprüft und daher aus der Begründung gestrichen.
+
+### (b) GlobalData UK Home Textiles – Marktgröße und Prognose
+
+#### G6-V01
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**Laut GlobalData-Daten, die der schottische Gründungsservice Business Gateway in Lizenz wiedergibt, war der britische Heimtextilien-Markt 2024 £6.068 Mio. wert und soll bis 2029 auf £6.726 Mio. wachsen. Schlafzimmertextilien sind die größte Heimtextilien-Kategorie und sollen wertmäßig am stärksten wachsen.**
+
+> “The UK home textiles market was worth £6,068 million in 2024 and is forecast to grow to £6,726 million in 2029, a CAGR of 2.4% over the five-year period. ... The largest home textiles category, bedroom textiles, will see the highest growth by value as consumers make quick refreshes to their homes and invest in quality fabrics, trading up where they can. (GlobalData Explorer, Home Textiles, June 2025, This content is reproduced under license from GlobalData PLC, Copyright 2026).”
+
+- **Quelle:** [Business Gateway (Scotland) – Market Report 'Sewing' (aktualisiert Mai 2026), zitiert GlobalData Explorer, Home Textiles, June 2025](https://www.bgateway.com/media/4bchl2tr/market-report-sewing-may-2026.pdf)
+- **Datum der Quelle:** 2026-05 (Business-Gateway-Pack); GlobalData-Daten Stand Juni 2025 · **Typ:** Marktforschung
+- **Einordnung/Einschränkung:** Lizenzierte Wiedergabe von GlobalData-Daten durch einen öffentlich finanzierten Beratungsdienst, keine GlobalData-Pressemitteilung. Methodik, Abgrenzung und MwSt.-Basis sind nicht angegeben. 2029 ist eine Prognose. Die genannte CAGR von 2,4 % passt nicht zu den Eckwerten, denn £6.068 Mio. → £6.726 Mio. über fünf Jahre ergibt etwa 2,1 % pro Jahr (eigene Rechnung). Für Bettdecken allein gibt es keine Zahl.
+- **Wahrheits-Check:** *bestätigt*. Neu aufgenommen. PDF per curl/pdftotext selbst gelesen, Absatz wörtlich gefunden, 'updated by Business Gateway in May 2026' bestätigt (PDF erstellt 29.05.2026). CAGR-Unstimmigkeit selbst nachgerechnet.
+
 ## Track 4B: Geschenkverhalten UK
 
 *Prüf-Fazit: Der Track ist überwiegend solide recherchiert: 49 der 51 Original-Claims ließen sich an der angegebenen Fundstelle nachvollziehen. Korrekturen betrafen vor allem Wortlaut, URLs, Datumsangaben und Bezugsgruppen. Verworfen wurde nur 4B-38 (Vatertag Ø £54), weil die verlinkte Quelle die Zahlen nicht enthält. Herabgestuft wurde 4B-01 (PwC £24,6 Mrd.), weil es eine Hochrechnung ist und die PwC-Primärseite gesperrt bleibt. Belastbar für Ads sind vor allem YouGov (Medianbudgets, Muttertag), Which?/Deltapoll, Deloitte, ONS (veraltet) sowie gemessene Kartendaten. Händler-PR-Umfragen (Finder, VoucherCodes, eBay) und alle £-Mrd.-Hochrechnungen nur mit Quelle und als Absicht oder Schätzung formulieren. Für Bettdecken als Geschenk gibt es keinen Beleg; Aussagen wie „beliebtes Geschenk“ sind daher nicht zulässig.*
@@ -2724,4 +3491,840 @@ Legende: ✅ BELEGT · ⚠️ EINGESCHRÄNKT (nur mit Einschränkung verwenden) 
 - **Datum der Quelle:** 2026-10-05 (Zusagen vom 25.07.2024; geänderte Zusagen am 22.09.2026 angenommen) · **Typ:** Regulierer/Regelwerk
 - **Einordnung/Einschränkung:** Primärquelle. Die Zusagen gelten nur für Simba, zeigen aber den Maßstab der CMA für Rabattangaben in der Bettwarenbranche. Eine feste Mindestdauer oder Mindestmenge wird nicht genannt ('sufficient').
 - **Wahrheits-Check:** *bestätigt*. Fallseite über die gov.uk-Suche gefunden und selbst abgerufen; Wortlaut und Daten bestätigt.
+
+## Nachrecherche G5 (zu Track 4C)
+
+*Auftrag: Angle D/Timing – aktuelle Daten für Q4 2026: (a) Royal Mail Last Posting Dates Christmas 2026 (royalmail.com, Royal Mail Group Pressemitteilung, Post Office) – falls veröffentlicht; sonst 2025er Termine mit Primärquelle; (b) Parcelforce, DPD, Evri, Yodel, Amazon UK Last-Order-Dates 2026 bzw. 2025; (c) Weihnachts-Ausgabenprognosen 2026 für UK (GlobalData, Deloitte, PwC, Barclays, VoucherCodes/Retail Research, BRC – veröffentlicht Sept./Okt. 2026); (d) Ergebnisse Black Friday/Cyber Weekend 2025 UK (Barclays, IMRG, BRC-KPMG, Adobe, MRI Software) und Prognosen 2026; (e) Ergebnisse Boxing Day/Januar-Sales 2026 (BRC, Barclays, MRI). Immer Primärquelle mit Datum.*
+
+*Prüf-Fazit: Der Track ist überwiegend verlässlich: Alle 50 Claims wurden an der Quelle geprüft, keine Kernzahl war falsch, und kein Claim musste verworfen werden. Korrigiert wurden vor allem Präzisierungen und Nebenangaben: MRI-Wochen- statt Tageswert, BRC-Online-Anteil als höchster Stand seit 2022, Bezug der BRC-Aussage zu Frauen, gestrichene unbelegte Werte (Adobe +4,6 %, Barclays +83,7 %, Inflationsangaben) und nachgetragene Methodik (Post Office, VoucherCodes/GlobalData). Yodel 2025 ist jetzt per Webarchiv belegt (hochgestuft), PwC über eine abrufbare Wiedergabe; neu sind die CRA-Primärnorm und zwei weitere Kontext-Claims. Die zentrale Lücke bleibt: Am 08.10.2026 gibt es weder offizielle Versandschlusstermine noch unabhängige Weihnachts- oder Black-Friday-Prognosen für 2026, deshalb dürfen Ads keine konkreten 'Bestellen bis'-Daten oder Marktprognosen für 2026 nennen.*
+
+### (a) Royal Mail Last Posting Dates – Status 2026
+
+#### G5-01
+
+⚠️ EINGESCHRÄNKT · Angle: D Geschenk
+
+**Stand 08.10.2026 zeigt die Post-Office-Übersicht der letzten empfohlenen Versandtermine noch die Termine für Weihnachten 2025. Offizielle 2026er Termine von Royal Mail oder Post Office waren nicht auffindbar.**
+
+> “Last posting dates 2025 Get your cards, gifts and greetings there in time for Christmas. Check the latest recommended posting dates for all UK and international services. As always, our advice is to post early and avoid the rush.”
+
+- **Quelle:** [Post Office – Christmas Last Posting Dates](https://www.postoffice.co.uk/last-posting-dates)
+- **Datum der Quelle:** unbekannt (Seitenstand 08.10.2026; Footer 'Copyright 2026 Post Office') · **Typ:** Unternehmensbericht
+- **Einordnung/Einschränkung:** Belegt ist nur der Seitenstand am 08.10.2026. Ob Royal Mail auf royalmail.com schon 2026er Termine veröffentlicht hat, ließ sich nicht prüfen (403). Die Royal-Mail-Pressemitteilung vom 24.09.2026 nennt keine Termine, und die Websuche ergab keine offiziellen 2026er Termine. Momentaufnahme; vor Kampagnenstart erneut prüfen.
+- **Wahrheits-Check:** *bestätigt*. PO-Seite am 08.10.2026 selbst per curl abgerufen (WebFetch: 403). Überschrift 'Last posting dates 2025' und Footer 'Copyright 2026' bestätigt. royalmail.com (zwei Pfade) lieferte 403, ein geratener 2026er PDF-Pfad auf royalmailtechnical.com 404. Pressemitteilung vom 24.09.2026 ohne Termine; Websuche ohne offizielle Termine 2026.
+
+### (a) Royal Mail Last Posting Dates 2025 – 2nd Class
+
+#### G5-02
+
+✅ BELEGT · Angle: D Geschenk
+
+**Für Weihnachten 2025 war der letzte empfohlene Einlieferungstag für Royal Mail 2nd Class (inkl. Signed For) im UK-Inland Mittwoch, der 17. Dezember 2025.**
+
+> “Latest Posting Dates for Christmas 2025 … Royal Mail - UK Inland services* … Wednesday, 17 December | 2nd Class, 2nd Class Signed For … * Please note, latest posting dates are correct at the time of publishing and are subject to change.”
+
+- **Quelle:** [Royal Mail – Latest posting dates for Christmas 2025 (business customers), PDF](https://www.royalmailtechnical.com/rmt_docs/Deferred_Operation/RM-and-PFW-LPDs-for-Christmas-2025-Business-v1.pdf)
+- **Datum der Quelle:** 2025-10-06 · **Typ:** Unternehmensbericht
+- **Einordnung/Einschränkung:** Primärdokument von Royal Mail ('Classified: RMG – Public'; PDF erstellt 26.09.2025, geändert 06.10.2025). Die Post-Office-Seite nennt dasselbe Datum. Gilt nur für 2025 und ist nicht auf 2026 übertragbar, weil sich die Wochentage verschieben (17.12.2026 ist ein Donnerstag).
+- **Wahrheits-Check:** *bestätigt*. PDF selbst per curl geladen. Text und Fußnote 'subject to change' bestätigt; pdfinfo: CreationDate 26.09.2025, ModDate 06.10.2025. Die Post-Office-Seite nennt ebenfalls 'Wednesday 17 December'.
+
+### (a) Royal Mail Last Posting Dates 2025 – 1st Class
+
+#### G5-03
+
+✅ BELEGT · Angle: D Geschenk
+
+**Für Weihnachten 2025 war der letzte empfohlene Einlieferungstag für Royal Mail 1st Class (inkl. Signed For) im UK-Inland Samstag, der 20. Dezember 2025.**
+
+> “Saturday, 20 December | 1st Class, 1st Class Signed For”
+
+- **Quelle:** [Royal Mail – Latest posting dates for Christmas 2025 (business customers), PDF](https://www.royalmailtechnical.com/rmt_docs/Deferred_Operation/RM-and-PFW-LPDs-for-Christmas-2025-Business-v1.pdf)
+- **Datum der Quelle:** 2025-10-06 · **Typ:** Unternehmensbericht
+- **Einordnung/Einschränkung:** Royal-Mail-Primärdokument; die Post-Office-Seite bestätigt den Termin ('Royal Mail 1st Class and 1st Class Signed For … Saturday 20 December'). Gilt nur für 2025, mit Hinweis 'subject to change'.
+- **Wahrheits-Check:** *bestätigt*. Im PDF und auf der Post-Office-Seite selbst gefunden.
+
+### (a) Royal Mail Last Posting Dates 2025 – Tracked 48/24
+
+#### G5-04
+
+✅ BELEGT · Angle: D Geschenk
+
+**Für Weihnachten 2025 galten als letzte empfohlene Einlieferungstage Freitag, 19. Dezember (Royal Mail Tracked 48), und Sonntag, 21. Dezember 2025 (Royal Mail Tracked 24).**
+
+> “Royal Mail Tracked 24 Last recommended posting date Sunday 21 December Royal Mail Tracked 48 Last recommended posting date Friday 19 December”
+
+- **Quelle:** [Post Office – Christmas Last Posting Dates (Stand: 2025er Termine)](https://www.postoffice.co.uk/last-posting-dates)
+- **Datum der Quelle:** unbekannt (Seitenstand 08.10.2026) · **Typ:** Unternehmensbericht
+- **Einordnung/Einschränkung:** Das Royal-Mail-Business-PDF bestätigt beide Termine (Friday, 19 December: Royal Mail Tracked 48; Sunday, 21 December: Royal Mail Tracked 24). Für den Versand einer Bettdecke sind Paketdienste mit Tracking relevanter als Briefpost. Gilt nur für 2025.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut auf der Post-Office-Seite und Daten im PDF selbst gefunden.
+
+### (a) Royal Mail Last Posting Dates 2025 – Special Delivery
+
+#### G5-05
+
+✅ BELEGT · Angle: D Geschenk
+
+**Für Weihnachten 2025 war Dienstag, der 23. Dezember 2025, der letzte empfohlene Einlieferungstag für Royal Mail Special Delivery Guaranteed.**
+
+> “Tuesday, 23 December | Special Delivery Guaranteed®”
+
+- **Quelle:** [Royal Mail – Latest posting dates for Christmas 2025 (business customers), PDF](https://www.royalmailtechnical.com/rmt_docs/Deferred_Operation/RM-and-PFW-LPDs-for-Christmas-2025-Business-v1.pdf)
+- **Datum der Quelle:** 2025-10-06 · **Typ:** Unternehmensbericht
+- **Einordnung/Einschränkung:** Primärdokument; die Post-Office-Seite nennt ebenfalls 'Tuesday 23 December'. Premium-Dienst, also kein Maßstab für Standardversand. Gilt nur für 2025.
+- **Wahrheits-Check:** *bestätigt*. Im PDF und auf der Post-Office-Seite selbst bestätigt.
+
+### (a) Royal Mail – Saisonplanung Weihnachten 2026
+
+#### G5-06
+
+✅ BELEGT · Angle: D Geschenk, Markt
+
+**Royal Mail stellt für Weihnachten 2026 fast 22.000 befristete Kräfte ein. Die Saisonstellen laufen von Ende Oktober 2026 bis Anfang Januar 2027, schließen Black Friday und Cyber Monday ein und haben ihre Spitze im Dezember.**
+
+> “The seasonal roles will run from late October through to early January 2027. The period for the additional temporary work includes Black Friday and Cyber Monday but will be at its peak in December.”
+
+- **Quelle:** [International Distribution Services / Royal Mail – Pressemitteilung 'Royal Mail to hire 22,000 temporary workers to help deliver Christmas'](https://www.internationaldistributionservices.com/en/press-centre/press-releases/royal-mail/royal-mail-to-hire-22-000-temporary-workers-to-help-deliver-christmas/)
+- **Datum der Quelle:** 2026-09-24 · **Typ:** Unternehmensbericht
+- **Einordnung/Einschränkung:** Aktuelle Primärquelle von Royal Mail für 2026 (im Text 'almost 22,000'). Sie belegt den Planungszeitraum, nennt aber keine Last-Posting-Dates und keine Liefertermine.
+- **Wahrheits-Check:** *korrigiert*. Die alte URL auf royalmailgroup.com leitet per 301 auf internationaldistributionservices.com weiter; URL ersetzt. Datum '24 September 26', 'almost 22,000' und Wortlaut selbst bestätigt; keine Last-Posting-Dates auf der Seite.
+
+### (a) Royal Mail Last Posting Dates 2026 – Mythos-Check
+
+#### G5-07
+
+❌ NICHT BELEGT / MYTHOS · Angle: D Geschenk
+
+**Die im Netz kursierenden 'Royal Mail Last Posting Dates 2026' (z. B. 'Tuesday 23 December' für Special Delivery) sind nicht belegt. Ihre Wochentage entsprechen dem Kalender 2025, nicht 2026; es sind erkennbar umetikettierte 2025er Termine, und der 2nd-Class-Termin weicht sogar vom offiziellen 2025er Termin ab.**
+
+> “The last day to post for UK Christmas 2026 arrival is Tuesday 23 December for Special Delivery Guaranteed, Sunday 21 December for Royal Mail Tracked 24, Saturday 20 December for 1st Class, Friday 19 December for Royal Mail Tracked 48, and Thursday 18 December for 2nd Class.”
+
+- **Quelle:** [postofficehours.co.uk – Royal Mail Christmas Posting Dates 2026 (Drittanbieter, nicht Royal Mail/Post Office)](https://postofficehours.co.uk/christmas-posting-dates)
+- **Datum der Quelle:** 2026-09-30 ('Last reviewed') · **Typ:** Sonstiges
+- **Einordnung/Einschränkung:** Wochentage selbst berechnet: Im Jahr 2026 ist der 23.12. ein Mittwoch, der 21.12. ein Montag, der 20.12. ein Sonntag, der 19.12. ein Samstag und der 18.12. ein Freitag. Alle genannten Wochentage passen zu 2025. Den 2nd-Class-Termin gab Royal Mail für 2025 mit Mi 17.12. an, die Seite nennt Do 18.12. Laut Disclaimer ist die Seite 'not affiliated with … Post Office Ltd or Royal Mail' und nennt keine Royal-Mail-Quelle. Nicht in Ads verwenden.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut, 'Last reviewed: 30 September 2026' und Disclaimer selbst gefunden. Wochentage für 2025 und 2026 per Python berechnet. Die Unbelegtheit ist bestätigt; ergänzt habe ich die Abweichung beim 2nd-Class-Termin.
+
+### (a) Royal Mail/Post Office – Geschenkversand über Post Office
+
+#### G5-08
+
+⚠️ EINGESCHRÄNKT · Angle: D Geschenk
+
+**Laut einer Post-Office-Umfrage (Okt. 2025, 2.000 UK-Erwachsene) verschickt ein Drittel (33 %) der Menschen Geschenke über die Post Office.**
+
+> “With a third (33 per cent) of people sending gifts via the Post Office … Research was conducted by Post Office ‘Hot Topics’ in October 2025 with 2,000 nationally representative UK adults using a sample provided by Dynata.”
+
+- **Quelle:** [Post Office (Mynewsdesk) – 'Post Office announces last posting dates for sending Christmas presents'](https://www.mynewsdesk.com/uk/post-office/pressreleases/post-office-announces-last-posting-dates-for-sending-christmas-presents-3420939)
+- **Datum der Quelle:** 2025-12-19 (Seitenkopf; Fließtext datiert 'Wednesday 10th December') · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** Post Office 'Hot Topics', Oktober 2025, 2.000 national repräsentative UK-Erwachsene, Stichprobe von Dynata
+- **Einordnung/Einschränkung:** Eigene PR-Umfrage eines Postunternehmens in eigener Sache. Die Methodik ist knapp offengelegt (n, Zeitraum, Panelanbieter), aber Fragestellung und Gewichtung fehlen. Taugt als Kontext, nicht als Ad-Claim.
+- **Wahrheits-Check:** *korrigiert*. Die Methodik steht am Ende der Mitteilung; 'nicht angegeben' war falsch. Stichprobe, Aussage und Wortlaut ergänzt. Zitat und Daten (19.12.2025 bzw. 10.12.) selbst bestätigt.
+
+### (b) Parcelforce Last Posting Dates 2025
+
+#### G5-09
+
+✅ BELEGT · Angle: D Geschenk
+
+**Für Weihnachten 2025 waren die letzten Einlieferungstage bei Parcelforce Worldwide im UK-Inland Freitag, 19. Dezember (express48), und Montag, 22. Dezember 2025 (express10, expressPM und express24).**
+
+> “Parcelforce Worldwide - UK Inland services* Date Service Friday, 19 December express48 Monday, 22 December express10, expressPM and express 24”
+
+- **Quelle:** [Royal Mail – Latest posting dates for Christmas 2025 (business customers), PDF](https://www.royalmailtechnical.com/rmt_docs/Deferred_Operation/RM-and-PFW-LPDs-for-Christmas-2025-Business-v1.pdf)
+- **Datum der Quelle:** 2025-10-06 · **Typ:** Unternehmensbericht
+- **Einordnung/Einschränkung:** Primärdokument der Royal Mail Group (Parcelforce ist Konzerntochter). Die Post-Office-Seite nennt dieselben Termine ('express24. expressAM and express10 … Monday 22 December'). Nur für 2025; 2026er Termine sind nicht veröffentlicht.
+- **Wahrheits-Check:** *bestätigt*. Im PDF und auf der Post-Office-Seite selbst bestätigt.
+
+### (b) DPD Last Posting Dates 2025 (über Post Office)
+
+#### G5-10
+
+✅ BELEGT · Angle: D Geschenk
+
+**Bei Einlieferung über Post-Office-Filialen war 2025 der letzte empfohlene Termin für DPD Next Day Montag, 22. Dezember (Festland). Für entlegene schottische Postleitzahlen wie HS1–HS9 oder ZE1–ZE3 lag er schon auf Mittwoch, 17. Dezember. DPD Gold lief bis Dienstag, 23. Dezember 2025.**
+
+> “DPD Next Day and Next Day by 12 Postcode Last recommended posting date All postcodes (excluding those below) Monday 22 December … HS1-HS9, KW15-KW17, PA34, PA41-PA48, PA80, ZE1-ZE3 Wednesday 17 December … DPD Gold Last recommended posting date Tuesday 23 December”
+
+- **Quelle:** [Post Office – Christmas Last Posting Dates (Stand: 2025er Termine)](https://www.postoffice.co.uk/last-posting-dates)
+- **Datum der Quelle:** unbekannt (Seitenstand 08.10.2026) · **Typ:** Unternehmensbericht
+- **Einordnung/Einschränkung:** Gilt nur für den Versandkanal Post Office. Dazwischen gab es Stufen (z. B. AB36–AB38, IV1–IV62: Sa 20.12.; IV63, KA28: Fr 19.12.). Die eigene Seite von DPD wurde nicht geprüft. Für einen Online-Shop gelten die Termine des eigenen Carrier-Vertrags.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut und Postleitzahl-Stufen auf der Post-Office-Seite (curl) selbst gefunden.
+
+### (b) Evri Last Posting Dates 2025 (über Post Office)
+
+#### G5-11
+
+✅ BELEGT · Angle: D Geschenk
+
+**Bei Einlieferung über Post-Office-Filialen war 2025 der letzte empfohlene Termin für Evri Standard Tracked Freitag, 19. Dezember, und für Evri Next Day Tracked Montag, 22. Dezember 2025.**
+
+> “Evri Standard Tracked Last recommended posting date Friday 19 December Evri Next Day Tracked Last recommended posting date Monday 22 December”
+
+- **Quelle:** [Post Office – Christmas Last Posting Dates (Stand: 2025er Termine)](https://www.postoffice.co.uk/last-posting-dates)
+- **Datum der Quelle:** unbekannt (Seitenstand 08.10.2026) · **Typ:** Unternehmensbericht
+- **Einordnung/Einschränkung:** Gilt nur für den Post-Office-Kanal; Evris eigene Weihnachtsseite wurde nicht gefunden. Nur 2025.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut auf der Post-Office-Seite selbst gefunden.
+
+### (b) Yodel Last Posting Dates 2025
+
+#### G5-12
+
+✅ BELEGT · Angle: D Geschenk
+
+**Yodel Direct, Yodels Versandservice für Privatkunden, nannte für Weihnachten 2025 Freitag, den 19. Dezember, als letzten Versandtag für Zustellung vor dem 1. Weihnachtstag. Bei Abholungen vom 20. bis 23. Dezember war die Zustellung vor Weihnachten nicht mehr sicher. Die Seite leitet heute auf InPost Direct um, ohne Weihnachtstermine.**
+
+> “Key Shipping Dates - Christmas 2025 & New Year Friday 19th December Last day to send parcels to be delivered before Christmas Day Saturday 20th - Tuesday 23rd December Deliveries will be made into local stores and lockers however collections made during these days may not be delivered before Christmas Day.”
+
+- **Quelle:** [Yodel Direct – Key Shipping Dates (Archivkopie der Wayback Machine vom 18.12.2025)](https://web.archive.org/web/20251218100416/https://www.yodeldirect.co.uk/services/key-shipping-dates)
+- **Datum der Quelle:** 2025-12-18 (Archivstand) · **Typ:** Unternehmensbericht
+- **Einordnung/Einschränkung:** Archivierte Originalseite des Unternehmens. Gilt nur für Yodel Direct 2025, nicht automatisch für Geschäftskundenverträge mit Yodel (ChannelX nennt servicebezogene Termine 18./19./20./22.12., nicht geprüft). Die Live-URL leitet am 08.10.2026 per 308 auf inpostdirect.co.uk um, dort ohne Weihnachtstermine. Für 2026 kein Termin.
+- **Wahrheits-Check:** *hochgestuft*. Live-URL selbst geprüft: Weiterleitung auf InPost Direct, keine Termine. Wayback-Snapshot vom 18.12.2025 per curl geladen, Wortlaut dort gefunden. Einordnung von NICHT_BELEGT auf BELEGT (nur 2025, nur Yodel Direct); Aussage, Quelle und URL ersetzt.
+
+### (b) Amazon UK Last-Order-Date
+
+#### G5-13
+
+✅ BELEGT · Angle: D Geschenk
+
+**Amazon UK nennt kein festes letztes Bestelldatum für Lieferung vor Weihnachten. Maßgeblich ist laut Amazon das Lieferdatum je Artikel bzw. an der Kasse.**
+
+> “It depends on the item. To ensure your order arrives in time for Christmas, check the delivery details on the product page … Always check the final delivery date at checkout, as delivery cut off dates are a guideline”
+
+- **Quelle:** [About Amazon UK – 'What’s the last date to order from Amazon in the UK for Christmas?'](https://aboutamazon.co.uk/news/retail/amazon-last-date-order-christmas-delivery)
+- **Datum der Quelle:** 2025-12-05 (dateModified; Erstveröffentlichung 2024-12-09) · **Typ:** Unternehmensbericht
+- **Einordnung/Einschränkung:** Primärquelle; auf der Seite ist kein Datum sichtbar, die Metadaten sind eindeutig. Wer 'bei Amazon gilt der 23.12.' sagt, vereinfacht. Für 2026 noch nicht aktualisiert.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut per WebFetch bestätigt. dateModified 2025-12-05 und datePublished 2024-12-09 per curl in den Metadaten gefunden.
+
+### (b) Amazon UK – Weihnachtsretouren
+
+#### G5-14
+
+✅ BELEGT · Angle: D Geschenk
+
+**Bei Amazon UK konnten die meisten zwischen dem 1. November und 31. Dezember 2025 gekauften Artikel bis zum 31. Januar 2026 zurückgegeben werden.**
+
+> “Most items purchased between 1 November and 31 December can now be returned until 31 January 2026.”
+
+- **Quelle:** [About Amazon UK – 'What’s the last date to order from Amazon in the UK for Christmas?'](https://aboutamazon.co.uk/news/retail/amazon-last-date-order-christmas-delivery)
+- **Datum der Quelle:** 2025-12-05 · **Typ:** Unternehmensbericht
+- **Einordnung/Einschränkung:** Gilt nur für die Saison 2025 und für 'most items'. Zeigt den Wettbewerbsstandard bei Geschenk-Retouren (Angle D). Eigene Rückgabebedingungen müssen ein entsprechendes Versprechen tatsächlich erfüllen.
+- **Wahrheits-Check:** *bestätigt*. Satz wörtlich auf der Seite gefunden.
+
+### (b) Amazon UK Last-Order-Dates 2025 (Sekundärquelle)
+
+#### G5-15
+
+⚠️ EINGESCHRÄNKT · Angle: D Geschenk
+
+**Laut MoneySavingExpert war der letzte Bestelltag für Amazon-Expressversand (für Prime kostenlos) 2025 Dienstag, der 23. Dezember. Der Standardtermin war 'TBC'; im Vorjahr lag er für Nicht-Prime-Kunden auf dem 19. Dezember.**
+
+> “Amazon* TBC Last year it was 19 December for non-Prime members but it can vary by item. … Tuesday 23 December Free for Prime members; usually £3.99-£5.99 for non-Prime members”
+
+- **Quelle:** [MoneySavingExpert – 'Christmas last order dates for 2025'](https://www.moneysavingexpert.com/deals/deals-hunter/last-order-dates/)
+- **Datum der Quelle:** 2025-12-18 · **Typ:** Presse
+- **Einordnung/Einschränkung:** Verbraucherportal, das Händlerangaben sammelt; keine Amazon-Primärquelle. Amazon selbst nennt kein festes Datum (siehe G5-13). Der Standardtermin blieb unbestätigt.
+- **Wahrheits-Check:** *bestätigt*. Seite (Stand 18.12.2025, Tabelle 'for 2025') selbst abgerufen; Amazon-Zeilen bestätigt.
+
+### (b) Last-Order-Dates großer UK-Händler 2025 (Benchmark)
+
+#### G5-16
+
+⚠️ EINGESCHRÄNKT · Angle: D Geschenk, Markt
+
+**Laut MoneySavingExpert lagen die Standardversand-Schlusstermine großer UK-Händler 2025 meist zwischen 17. und 20. Dezember, z. B. Ikea Mittwoch 17.12., John Lewis Freitag 19.12. (kleine Artikel) bzw. Donnerstag 18.12. (große Artikel) und M&S Samstag 20.12.**
+
+> “Ikea Wednesday 17 December … John Lewis* Friday 19 December for small items £4.50 or free for £70+ orders Thursday 18 December for large items £19.95 … M&S* Saturday 20 December £3.99 or free for £60+ orders”
+
+- **Quelle:** [MoneySavingExpert – Christmas last order dates for 2025](https://www.moneysavingexpert.com/deals/deals-hunter/last-order-dates/)
+- **Datum der Quelle:** 2025-12-18 · **Typ:** Presse
+- **Einordnung/Einschränkung:** Sekundäre Zusammenstellung von Händlerangaben. Benchmark für die eigene Cut-off-Kommunikation 2026, kein Beleg für 2026.
+- **Wahrheits-Check:** *bestätigt*. Zeilen für Ikea, John Lewis und M&S selbst bestätigt.
+
+### (b) Lieferzusage 'bis Weihnachten' – Verbraucherrecht
+
+#### G5-17
+
+⚠️ EINGESCHRÄNKT · Angle: D Geschenk
+
+**Laut MoneySavingExpert muss gesetzlich nur 'within a reasonable time' (bis zu 30 Tage) geliefert werden, und eine Erstattung wegen verspäteter Weihnachtslieferung gibt es nur, wenn der Händler Lieferung bis 25. Dezember zugesagt hat. Das ist eine vereinfachte Darstellung; die Primärnorm steht in G5-V01.**
+
+> “By law, delivery only needs to be “within a reasonable time”, which could be up to 30 days – no use for Christmas. For you to get a refund if an item doesn’t arrive in time, the retailer must have stated goods will arrive by 25 December.”
+
+- **Quelle:** [MoneySavingExpert – Christmas last order dates (Abschnitt 'Late delivery rights')](https://www.moneysavingexpert.com/deals/deals-hunter/last-order-dates/)
+- **Datum der Quelle:** 2025-12-18 · **Typ:** Presse
+- **Einordnung/Einschränkung:** Verbraucherportal, keine Rechtsquelle. Laut Consumer Rights Act 2015, s. 28(6) kann der Verbraucher auch dann vom Vertrag zurücktreten, wenn er dem Händler vor Vertragsschluss gesagt hat, dass die rechtzeitige Lieferung wesentlich ist, oder wenn sie nach den Umständen wesentlich war. MSE vereinfacht also. Für Ads gilt: Eine Zusage 'arrives before Christmas' macht den Termin verbindlich und sollte nur mit gesicherten Carrier-Terminen gemacht werden.
+- **Wahrheits-Check:** *korrigiert*. MSE-Sinngehalt bestätigt. Primärnorm CRA 2015 s. 28 auf legislation.gov.uk selbst geprüft (siehe G5-V01); Begründung um die Fälle in s. 28(6)(b)/(c) ergänzt.
+
+### (b) Feiertage Weihnachten 2026 (Versandpause)
+
+#### G5-18
+
+✅ BELEGT · Angle: D Geschenk
+
+**In ganz UK ist der 25. Dezember 2026 (Freitag) Feiertag, der Boxing Day wird als Ersatzfeiertag am Montag, 28. Dezember 2026 begangen.**
+
+> “{"title":"Christmas Day","date":"2026-12-25","notes":"","bunting":true} {"title":"Boxing Day","date":"2026-12-28","notes":"Substitute day","bunting":true}”
+
+- **Quelle:** [GOV.UK – UK bank holidays (JSON-Datensatz)](https://www.gov.uk/bank-holidays.json)
+- **Datum der Quelle:** unbekannt (abgerufen 08.10.2026) · **Typ:** Parlament/Regierung
+- **Einordnung/Einschränkung:** Amtliche Quelle. Die Einträge sind für England & Wales, Schottland und Nordirland identisch. In Schottland kommt der 2nd January als Ersatzfeiertag am 04.01.2027 hinzu. Den Wochentag (Freitag) habe ich berechnet.
+- **Wahrheits-Check:** *bestätigt*. JSON selbst geladen und für alle drei Landesteile ausgewertet; Wochentag per Python berechnet.
+
+### (c) Weihnachtsprognose 2026 – Epsilon Golden Quarter
+
+#### G5-19
+
+⚠️ EINGESCHRÄNKT · Angle: Markt, D Geschenk
+
+**Laut einer Epsilon-Umfrage 2026 wollen UK-Verbraucher im Zeitraum von Black Friday bis zu den Januar-Sales insgesamt £17,9 Mrd. ausgeben, im Schnitt £334 pro Person.**
+
+> “New Epsilon research shows where that waste happens across the peak window, which runs from Black Friday through to the January sales … UK consumers expect to spend £334 each over the peak window, or £17.9bn in total”
+
+- **Quelle:** [Epsilon EMEA – 'Black Friday 2026: how to avoid wasting marketing budget' (auf Basis des Reports 'Advertising Under Pressure')](https://www.epsilon.com/emea/insights/blog/black-friday-2026-how-to-avoid-wasting-marketing-budget)
+- **Datum der Quelle:** 2026-09-09 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** 2.000 UK-Erwachsene, national repräsentativ gewichtet, plus 200 UK-Marketing-Entscheider; 2026 von Epsilon beauftragt, Institut und Feldzeit nicht angegeben
+- **Einordnung/Einschränkung:** Umfrage eines Adtech- und Marketing-Dienstleisters zu Ausgabeabsichten, nicht zu tatsächlichen Ausgaben. Institut und Feldzeit nicht genannt. Nicht mit VoucherCodes oder PwC vergleichbar, da Zeitfenster und Definition abweichen.
+- **Wahrheits-Check:** *korrigiert*. Datum, Zahlen, Definition des 'peak window' und Methodik selbst bestätigt. Gestrichen: den Verweis auf eine Report-Seite vom 10.08.2026, weil nicht selbst geprüft.
+
+### (c) Weihnachtsprognose 2026 – Kaufzeitpunkte (Epsilon)
+
+#### G5-20
+
+⚠️ EINGESCHRÄNKT · Angle: Markt, D Geschenk
+
+**Laut Epsilon-Umfrage 2026 kaufen 50 % der Shopper am Black Friday, 37 % am Boxing Day und 34 % in den Januar-Sales; 63 % schieben größere Anschaffungen auf.**
+
+> “Our research puts the share of shoppers converting on Black Friday at 50%, falling to 37% on Boxing Day and 34% in the January sales … 63% are deferring bigger purchases, and 39% say they are buying less often but choosing better when they do.”
+
+- **Quelle:** [Epsilon EMEA – 'Black Friday 2026: how to avoid wasting marketing budget'](https://www.epsilon.com/emea/insights/blog/black-friday-2026-how-to-avoid-wasting-marketing-budget)
+- **Datum der Quelle:** 2026-09-09 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** 2.000 UK-Erwachsene, gewichtet; 2026
+- **Einordnung/Einschränkung:** Selbstauskunft in einer Anbieter-Umfrage; was 'converting' heißt, ist nicht genau definiert. Für die Timing-Planung bei einer größeren Anschaffung wie einer Bettdecke ein Hinweis, kein harter Beleg.
+- **Wahrheits-Check:** *bestätigt*. Beide Sätze wörtlich gefunden (WebFetch und curl).
+
+### (c) Weihnachts-/Black-Friday-Prognose 2026 – Shopify
+
+#### G5-21
+
+⚠️ EINGESCHRÄNKT · Angle: Markt, D Geschenk
+
+**Laut Shopify-Umfrage (Okt. 2026) planen UK-Shopper für das Black-Friday-Wochenende 2026 im Schnitt £165 ein (2025: £181). 53 % sagen, die Wirtschaftslage habe ihre Einkaufspläne negativ beeinflusst.**
+
+> “Consumers are entering the holiday season under significant economic pressure, with 53% of UK shoppers saying recent conditions have negatively affected their shopping plans. Planned Black Friday weekend spending across the UK is expected to drop to £165 on average from £181 in 2025.”
+
+- **Quelle:** [Retail Technology Innovation Hub – 'Shopify research: AI savvy UK shoppers set to spend £165 this Christmas but will make brands earn it'](https://retailtechinnovationhub.com/home/2026/10/5/shopify-ai-savvy-uk-shoppers-set-to-spend-165-this-christmas-but-will-make-brands-earn-it)
+- **Datum der Quelle:** 2026-10-06 (Byline; URL-Pfad 05.10.2026) · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** 18.000 Verbraucher in 9 Ländern (AU, CA, FR, DE, IT, JP, ES, UK, US) und 7.500 Entscheider aus Firmen unter 1.000 Mitarbeitern; UK-Teilstichprobe und Feldzeit nicht angegeben
+- **Einordnung/Einschränkung:** Die Zahl stammt aus Shopifys Mitteilung, wiedergegeben von einem Fachmedium; eine Shopify-Originalseite wurde nicht gefunden. Der Titel spricht von 'this Christmas', die Zahl gilt aber für das Black-Friday-Wochenende. Planwert, kein Ergebnis.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut, Datum und Methodik selbst bestätigt. Websuche fand keine Shopify-Primärquelle.
+
+### (c) Weihnachtsprognose 2026 – Wertverständnis und Preisbeobachtung (Shopify)
+
+#### G5-22
+
+⚠️ EINGESCHRÄNKT · Angle: Markt, D Geschenk
+
+**Laut Shopify-Umfrage 2026 lassen 28 % der UK-Shopper Produkte bewusst im Warenkorb, um auf Preissenkungen zu warten, und 54 % definieren guten Wert als höhere Qualität, als für den Preis erwartet.**
+
+> “28% said they deliberately leave products in their cart to see if the price drops. … 54% define good value as receiving higher-than-expected quality for the price, while 38% say it means products having a longer lifespan than expected.”
+
+- **Quelle:** [Retail Technology Innovation Hub – Shopify research (UK)](https://retailtechinnovationhub.com/home/2026/10/5/shopify-ai-savvy-uk-shoppers-set-to-spend-165-this-christmas-but-will-make-brands-earn-it)
+- **Datum der Quelle:** 2026-10-06 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** 18.000 Verbraucher in 9 Ländern; UK-n nicht angegeben
+- **Einordnung/Einschränkung:** Anbieter-Umfrage ohne UK-Stichprobengröße. Hilft beim Messaging (Qualität und Langlebigkeit statt reinem Rabatt), ist aber keine Marktgröße.
+- **Wahrheits-Check:** *bestätigt*. Zahlen wörtlich bestätigt.
+
+### (c) Weihnachtsprognose 2026 – Salsify Holiday Pulse
+
+#### G5-23
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**Laut Salsify-Umfrage (April 2026, 400 UK-Befragte) wollen 26 % der UK-Shopper in der Weihnachtssaison 2026 mehr ausgeben als im Vorjahr.**
+
+> “In terms of global markets, 26% of U.K. shoppers say they’ll spend more this holiday season.”
+
+- **Quelle:** [Salsify – 'Consumer Spending Trends: How Much Will Holiday Shoppers Spend in 2026?' (2026 Holiday Pulse Report)](https://www.salsify.com/blog/consumer-spending-trends-holiday-spending-predictions)
+- **Datum der Quelle:** 2026-04-30 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** 1.212 Befragte: 412 USA, 400 UK, 400 Kanada; Institut und Feldzeit nicht angegeben
+- **Einordnung/Einschränkung:** Kleine UK-Stichprobe (n=400) in einer Anbieter-Umfrage, früh im Jahr erhoben, also vor der Eintrübung im Herbst laut BRC-Opinium.
+- **Wahrheits-Check:** *bestätigt*. Datum, Satz und Stichprobe selbst bestätigt.
+
+### (c) Konsumstimmung Herbst 2026 – BRC-Opinium
+
+#### G5-24
+
+✅ BELEGT · Angle: Markt
+
+**Im BRC-Opinium-Monitor fiel die Erwartung der UK-Verbraucher an ihre eigenen Einzelhandelsausgaben in den nächsten drei Monaten im September 2026 auf +5 (August: +8).**
+
+> “Their personal spending on retail fell to +5 in September, down from +8 in August.”
+
+- **Quelle:** [British Retail Consortium – 'Budget must bolster wavering consumer confidence' (BRC-Opinium Consumer Sentiment)](https://brc.org.uk/news-and-events/news/corporate-affairs/2026/ungated/budget-must-bolster-wavering-consumer-confidence/)
+- **Datum der Quelle:** 2026-09-24 · **Typ:** Umfrage (Institut/unabhängig)
+- **Stichprobe/Methodik:** BRC-Opinium-Monitor; n und Feldzeit auf der Seite nicht angegeben
+- **Einordnung/Einschränkung:** Aktuellster Stimmungsindikator vor Q4 2026; ein Netto-Saldo, kein Ausgabenbetrag. Die Erwartung an die Wirtschaft sank auf -34 (August -28), an die persönliche Finanzlage auf -15 (August -9). Der Satz 'This decline was much sharper among women' bezieht sich auf das Vertrauen in Wirtschaft und Finanzlage, nicht auf die Einzelhandelsausgaben. Stichprobe auf der Seite nicht genannt.
+- **Wahrheits-Check:** *korrigiert*. Wortlaut und Datum bestätigt. In der Begründung präzisiert, worauf sich die Aussage zu Frauen bezieht (Zitat Helen Dickinson per curl geprüft); Wert für die Finanzlage ergänzt.
+
+### (c) Einzelhandelsumsatz Spätsommer 2026 – BRC-KPMG
+
+#### G5-25
+
+✅ BELEGT · Angle: Markt
+
+**Laut BRC-KPMG Retail Sales Monitor stiegen die UK-Einzelhandelsumsätze im August 2026 nur um 0,7 % ggü. Vorjahr. Große Anschaffungen wie Möbel und Haushaltsgeräte gingen zurück.**
+
+> “UK Total retail sales increased by 0.7% year on year in August, against growth of 3.1% in August 2025. … This was particularly true for discretionary spending, as big-ticket purchases like furniture and household appliances declined”
+
+- **Quelle:** [British Retail Consortium – 'Consumer demand cools as summer ends' (BRC-KPMG Retail Sales Monitor August 2026)](https://brc.org.uk/news-and-events/news/corporate-affairs/2026/ungated/consumer-demand-cools-as-summer-ends/)
+- **Datum der Quelle:** 2026-09-08 · **Typ:** Marktforschung
+- **Stichprobe/Methodik:** Zeitraum 2.–29. August 2026; Händlerpanel des BRC
+- **Einordnung/Einschränkung:** Etablierter Branchenmonitor, nominale Werte (nicht inflationsbereinigt). Zeigt die gedämpfte Ausgangslage vor Q4 2026. Der September-Monitor ist am 08.10.2026 noch nicht erschienen.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut, Datum und Zeitraum bestätigt. September-Monitor: Pfad /2026/sep/ 404, und die BRC-Newsliste nennt als letzten Monitor den für August.
+
+### (c) Konsumvertrauen 2026 – Deloitte Consumer Tracker
+
+#### G5-26
+
+✅ BELEGT · Angle: Markt
+
+**Der Deloitte-Konsumvertrauensindex fiel im ersten Quartal 2026 von -11,1 % auf -14,1 %, den tiefsten Stand seit Q3 2023.**
+
+> “The Deloitte Consumer Confidence Index dropped 3 percentage points from -11.1% in Q4 2025 to -14.1% in Q1”
+
+- **Quelle:** [Deloitte UK – Consumer Tracker Q1 2026](https://www.deloitte.com/uk/en/Industries/consumer/research/consumer-tracker.html)
+- **Datum der Quelle:** 2026-04-20 · **Typ:** Umfrage (Institut/unabhängig)
+- **Stichprobe/Methodik:** YouGov im Auftrag von Deloitte; online, national repräsentativ, über 3.000 UK-Erwachsene 18+, 12.–17. März 2026
+- **Einordnung/Einschränkung:** Transparente Methodik, aber Q1-Stand und keine Weihnachtsprognose. Q2- und Q3-Ausgabe 2026 wurden weder auf der Seite noch per Websuche gefunden.
+- **Wahrheits-Check:** *korrigiert*. Wortlaut und Methodik selbst bestätigt. Die Seite nennt die Q1-2026-Ausgabe mit Veröffentlichung am 20.04.2026; Datum präzisiert.
+
+### (c) Weihnachtsprognose – Basis 2025 (VoucherCodes)
+
+#### G5-27
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**Der VoucherCodes 'Shopping for Christmas Report 2025', erstellt von GlobalData, prognostizierte für die sechs Wochen von Mitte November bis Ende Dezember 2025 UK-Umsätze von £91,12 Mrd. (+3,2 %) bei einem Absatzrückgang von 0,3 %.**
+
+> “Christmas spending is set to hit record highs of £91.12bn this year … forecasts a 3.2% rise in sales across the six week festive period (from mid-November to end of December) … sales volume is forecast to decrease by 0.3% for the first time since 2023”
+
+- **Quelle:** [Retail Times – 'Christmas shoppers set to splurge £91bn as retail sales rise 3.2% this year' (VoucherCodes Shopping for Christmas Report 2025)](https://retailtimes.co.uk/christmas-shoppers-set-to-splurge-91bn-as-retail-sales-rise-3-2-this-year/)
+- **Datum der Quelle:** 2025-10-21 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** Laut TheIndustry.fashion (22.10.2025) von GlobalData im Auftrag von VoucherCodes erstellt, national repräsentative Stichprobe von 2.000 UK-Verbrauchern; Feldzeit nicht angegeben
+- **Einordnung/Einschränkung:** Prognose eines Gutscheinportals aus dem Vorjahr, wiedergegeben in der Fachpresse. Breite Definition, die u. a. Lebensmittel und Reisen umfasst. Eine Ausgabe für 2026 war am 08.10.2026 nicht erschienen. Nur als Basiswert verwenden.
+- **Wahrheits-Check:** *korrigiert*. Wortlaut und Datum bei Retail Times bestätigt. Methodik (GlobalData, n=2.000) selbst bei TheIndustry.fashion nachgelesen und ergänzt.
+
+### (c) Weihnachtsprognose – Geschenkausgaben 2025 (VoucherCodes)
+
+#### G5-28
+
+⚠️ EINGESCHRÄNKT · Angle: D Geschenk, Markt
+
+**VoucherCodes/GlobalData prognostizierten für Weihnachten 2025 Geschenkausgaben von £11,59 Mrd. (+2,1 %), im Schnitt £443 je Haushalt.**
+
+> “with £11.59bn set to be spent on presents alone (+2.1% YoY) – that equates to an average of £443 per household and 50.5% of all Christmas sales.”
+
+- **Quelle:** [Retail Times – VoucherCodes Shopping for Christmas Report 2025](https://retailtimes.co.uk/christmas-shoppers-set-to-splurge-91bn-as-retail-sales-rise-3-2-this-year/)
+- **Datum der Quelle:** 2025-10-21 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** GlobalData für VoucherCodes, 2.000 UK-Verbraucher (laut TheIndustry.fashion)
+- **Einordnung/Einschränkung:** Prognose, kein Ergebnis. Der Artikel widerspricht sich selbst: £11,59 Mrd. sind nur rund 12,7 % von £91,12 Mrd., nicht 50,5 %. Die Bezugsgröße ist unklar, deshalb nur vorsichtig verwenden. Kein Wert für Bettwaren.
+- **Wahrheits-Check:** *korrigiert*. Wortlaut bestätigt, Rechnung 11,59/91,12 nachgerechnet und Stichprobe ergänzt.
+
+### (c) Weihnachtsprognose – Basis 2025 (PwC)
+
+#### G5-29
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**Laut PwC Festive Predictions Survey 2025 wollten UK-Verbraucher £24,6 Mrd. für Geschenke und Feiern ausgeben, 3,5 % mehr als 2024 (£23,7 Mrd.). Pro Erwachsenem stieg der Wert von £449 auf £461.**
+
+> “UK consumers are set to spend £24.6billion on presents and celebrations over the Christmas period this year, a 3.5% increase from the £23.7billion spent in 2024. … Average spending per adult is forecast to rise from £449 to £461.”
+
+- **Quelle:** [InsightDIY – 'Festive spending forecast to reach £24.6bn this year' (Wiedergabe der PwC-UK-Pressemitteilung; Original: pwc.co.uk, 403)](https://www.insightdiy.co.uk/news/festive-spending-forecast-to-reach-246bn-this-year/15891.htm)
+- **Datum der Quelle:** 2025-12-12 · **Typ:** Marktforschung
+- **Stichprobe/Methodik:** nicht angegeben; laut Artikel 'undertaken three weeks before the Budget'
+- **Einordnung/Einschränkung:** Die PwC-Originalseite lieferte bei WebFetch und curl 403. Die Fachpresse gibt die Mitteilung wieder; Grocery Gazette (12.12.2025) bestätigt £24,6 Mrd. und 3,5 %. Stichprobe und Feldzeit nicht offengelegt. Eine PwC-Prognose für 2026 wurde nicht gefunden.
+- **Wahrheits-Check:** *korrigiert*. URL auf eine abrufbare Wiedergabe umgestellt (InsightDIY, 12.12.2025), Wortlaut dort gefunden, Wert je Erwachsenem ergänzt. Gestrichen: die Reuters-Aussage zu realen Mengen, weil nicht selbst geprüft. PwC-Original weiterhin 403.
+
+### (d) Black Friday 2025 – Barclays Transaktionen
+
+#### G5-30
+
+⚠️ EINGESCHRÄNKT · Angle: Markt, D Geschenk
+
+**Laut Barclays-Kartendaten lag die Zahl der Transaktionen am Black Friday (28.11.2025) 62 % (Barclays-Original: 62,5 %) über einem durchschnittlichen Tag 2025, der Höchstwert des Jahres bis dahin.**
+
+> “Spending data from Barclays shows transactions on November 28 reached a 2025-high, up 62% on the average as shoppers showed their determination to make the most of deals.”
+
+- **Quelle:** [Nation.Cymru (PA) – 'Black Friday busiest day of the year so far for retailers, figures show'](https://nation.cymru/news/black-friday-busiest-day-of-the-year-so-far-for-retailers-figures-show/)
+- **Datum der Quelle:** 2025-12-01 · **Typ:** Presse
+- **Stichprobe/Methodik:** Barclays-Debit- und Barclaycard-Kreditkartentransaktionen (Barclays sieht laut eigener Mitteilung vom 11.02.2026 'nearly 40 per cent' der UK-Kartentransaktionen)
+- **Einordnung/Einschränkung:** Vergleich mit einem Durchschnittstag, nicht mit dem Vorjahr, und Transaktionsvolumen statt Umsatz. Der Barclays-Originalbericht wurde nach der Neuberechnung entfernt. Die Wiedergabe bei InsightDIY (09.12.2025) nennt 'transaction volumes up 62.5 per cent in comparison to the average day in 2025'.
+- **Wahrheits-Check:** *korrigiert*. PA-Wortlaut und Datum bestätigt; der genaue Wert 62,5 % stammt aus der InsightDIY-Wiedergabe. Gestrichen, weil nicht belegt: der Vergleichswert '+83,7 % am Black Friday 2024' (in keiner geprüften Quelle). Die 'knapp 40 %' auf Barclays' Formulierung 'nearly 40 per cent' (11.02.2026) korrigiert.
+
+### (d) Black Friday 2025 – Barclays Vorab-Prognose
+
+#### G5-31
+
+⚠️ EINGESCHRÄNKT · Angle: Markt, D Geschenk
+
+**Barclays prognostizierte vor Black Friday 2025, dass UK-Shopper, die mitmachen, im Schnitt £430 ausgeben (zusammen über £10,2 Mrd.) und 43 % der Erwachsenen auf Schnäppchenjagd gehen.**
+
+> “Barclays’ research indicates that Black Friday, which arrives on November 28th, will see those shopping spending an average of £430 each - £91 more than last year – amounting to a total of over £10.2 billion. Over two in five UK adults (43%) will be on the hunt for deals”
+
+- **Quelle:** [Barclays – 'Retail set for Black Friday boost, with shoppers' average spend up by over £90'](https://home.barclays/insights/2025/11/Black-Friday-Predicted-Spend/)
+- **Datum der Quelle:** 2025-11 (kein Datum auf der Seite, aus der URL abgeleitet) · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** Barclays Consumer Spend research; n, Institut und Feldzeit auf der Seite nicht angegeben
+- **Einordnung/Einschränkung:** Ausgabeabsicht vor dem Event, kein Ergebnis. Die gemessenen Ergebnisse (IMRG online -1,2 %, MRI-Frequenz -1,9 %, BRC November +1,4 %) passen nicht zu einem Budgetplus von £91 pro Kopf. Auf derselben Seite: 68 % zweifeln am echten Wert der Black-Friday- und Cyber-Monday-Deals.
+- **Wahrheits-Check:** *bestätigt*. Zahlen, 43 % und 68 % auf der Seite bestätigt; Methodik dort nicht angegeben.
+
+### (d) Black Friday – Start der Kaufsuche
+
+#### G5-32
+
+⚠️ EINGESCHRÄNKT · Angle: Markt, D Geschenk
+
+**Laut Barclaycard Payments beginnen 60 % der Shopper ihre Suche nach Black-Friday-Angeboten bereits im Oktober.**
+
+> “The sales event is now more of a marathon than a sprint, with 60 per cent of shoppers starting their search as early as October”
+
+- **Quelle:** [Barclays – 'Retail set for Black Friday boost …' (Zitat Harshna Cayley, Barclaycard Payments)](https://home.barclays/insights/2025/11/Black-Friday-Predicted-Spend/)
+- **Datum der Quelle:** 2025-11 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** nicht angegeben
+- **Einordnung/Einschränkung:** Aussage aus einem Managerzitat ohne Methodik. Stützt den Start der Ads ab Oktober und passt zu IMRG (G5-34: Kampagnen starten früher).
+- **Wahrheits-Check:** *bestätigt*. Zitat auf der Seite gefunden.
+
+### (d) Black Friday/Cyber Weekend 2025 – IMRG Online-Umsatz
+
+#### G5-33
+
+✅ BELEGT · Angle: Markt
+
+**Laut IMRG Online Retail Index sank der UK-Online-Umsatz in der 8-tägigen Black-Friday-Woche (24.11.–01.12.2025) um 1,2 % ggü. Vorjahr. Black Friday lag bei +1,3 %, Cyber Monday bei -3,2 %.**
+
+> “Across the 8-day Black Friday week (Mon 24th Nov-Mon 1st Dec), total market revenue was down -1.2% Year-on-Year … Black Friday itself was up +1.3% YoY, but the standout performer was Tuesday which was up +4.4% YoY. Interestingly, Cyber Monday was down -3.2% YoY”
+
+- **Quelle:** [IMRG – 'Black Friday 2025: The data and insights are in!'](https://www.imrg.org/blog/black-friday-2025-the-data-and-insights-are-in/)
+- **Datum der Quelle:** 2025-12-22 · **Typ:** Marktforschung
+- **Stichprobe/Methodik:** IMRG Online Retail Index / Black Friday Tracker, Händlerpanel (laut IMRG 278 Händler)
+- **Einordnung/Einschränkung:** Etablierter UK-Online-Index, aber nur Panelhändler und nominal. Adobe meldet für den Cyber Weekend £3,8 Mrd. online (G5-35); Messbasis und Zeitfenster unterscheiden sich, also die Werte nicht mischen. Bekleidung -7,3 %, Health & Beauty +8,9 %.
+- **Wahrheits-Check:** *korrigiert*. Wortlaut, Datum (22/12/25) und Kategoriezahlen bestätigt. Gestrichen: Adobes angebliche '+4,6 %' für den Cyber Weekend, weil nicht selbst geprüft.
+
+### (d) Black Friday 2025 – Kampagnenstart der Händler (IMRG)
+
+#### G5-34
+
+✅ BELEGT · Angle: Markt, D Geschenk
+
+**Im IMRG-Panel starteten 60 % der Händler ihre Black-Friday-Kampagne 2025 früher als 2024. 58 Händler hatten schon am ersten Werktag im November eine Kampagne live (2021: 12).**
+
+> “From our panel of 278 retailers, we have noted that each year more and more retailers have a live Black Friday campaign running on the 1st working day of November. From 12 retailers in 2021, to 41 in 2023, and 58 and 2025. 60% of retailers launched their campaign earlier this year compared to 2024”
+
+- **Quelle:** [IMRG – 'Black Friday 2025: The data and insights are in!'](https://www.imrg.org/blog/black-friday-2025-the-data-and-insights-are-in/)
+- **Datum der Quelle:** 2025-12-22 · **Typ:** Marktforschung
+- **Stichprobe/Methodik:** Panel von 278 Händlern (IMRG Black Friday Tracker)
+- **Einordnung/Einschränkung:** Gilt nur für das IMRG-Panel. Der Tippfehler 'and 2025' steht so im Original. Laut der Agentur Genie Goals im selben Beitrag brachten Rabatte Ende Oktober '30% lower CPCs'; das ist eine Einzelquelle und nicht verallgemeinerbar.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut und CPC-Aussage selbst gefunden.
+
+### (d) Black Friday/Cyber Weekend 2025 – Adobe (Online)
+
+#### G5-35
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**Laut Adobe-Daten war Black Friday 2025 mit £1,16 Mrd. der umsatzstärkste UK-Online-Tag des Jahres. Der Cyber Weekend brachte £3,8 Mrd. online, der Boxing Day mehr als £500 Mio.**
+
+> “Adobe said Black Friday was the biggest online shopping day of the year, with £1.16 billion spent. Cyber Weekend delivered £3.8 billion in online spend, it said. Adobe also reported that Boxing Day passed £500 million.”
+
+- **Quelle:** [IT Brief UK – 'Mobile & AI power record UK online Christmas sales' (Adobe Digital Insights)](https://itbrief.co.uk/story/mobile-ai-power-record-uk-online-christmas-sales)
+- **Datum der Quelle:** 2026-01-20 · **Typ:** Presse
+- **Stichprobe/Methodik:** Adobe Digital Insights; Methodik im Artikel nicht beschrieben
+- **Einordnung/Einschränkung:** Die Adobe-Originalseite (business.adobe.com/uk/blog/uk-online-retail-spending-hits-record-high) lieferte 503 bzw. brach ab, daher nur über die Fachpresse belegt. Adobe misst nur Online-Umsatz auf Händlerseiten, die Adobe nutzen. Wachstumsrate für den Cyber Weekend nicht angegeben.
+- **Wahrheits-Check:** *korrigiert*. Wortlaut und Datum bei IT Brief bestätigt; Adobe-Original nicht abrufbar (WebFetch 503, curl ohne Antwort). Gestrichen: Vorab-Prognose '£1,19 Mrd.', weil nicht selbst geprüft.
+
+### (d) Online-Weihnachtssaison 2025 gesamt – Adobe
+
+#### G5-36
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**Laut Adobe gaben UK-Verbraucher im November und Dezember 2025 online £26,9 Mrd. aus, 4,1 % mehr als im Vorjahreszeitraum; 61,5 % davon entfielen auf Mobilgeräte.**
+
+> “The data shows UK consumers spent £26.9 billion online during November and December 2025. That figure rose 4.1% from the same period in 2024. … Adobe said mobile made up 61.5% of total online spend during the period.”
+
+- **Quelle:** [IT Brief UK – 'Mobile & AI power record UK online Christmas sales' (Adobe Digital Insights)](https://itbrief.co.uk/story/mobile-ai-power-record-uk-online-christmas-sales)
+- **Datum der Quelle:** 2026-01-20 · **Typ:** Presse
+- **Stichprobe/Methodik:** Adobe Digital Insights
+- **Einordnung/Einschränkung:** Sekundärquelle. Der Ergebniswert ist identisch mit Adobes Vorab-Prognose (Blogtitel laut Suchtreffer: 'UK shoppers expected to splash record £26.9 billion online during 2025 holiday season'), deshalb am Adobe-Original prüfen, das nicht abrufbar war. Nominale Werte. Der Mobilanteil spricht für Mobile-first-Creatives.
+- **Wahrheits-Check:** *korrigiert*. Wortlaut einschließlich Mobilanteil bestätigt. Gestrichen: die nicht geprüfte Inflationsangabe '~3,5 %'.
+
+### (d) Black Friday 2025 – BRC-KPMG November
+
+#### G5-37
+
+✅ BELEGT · Angle: Markt, D Geschenk
+
+**Laut BRC-KPMG stiegen die UK-Einzelhandelsumsätze im November 2025, dem Black-Friday-Monat, nur um 1,4 %, das schwächste Wachstum seit sechs Monaten. Homeware und Polstermöbel verkauften sich vor den Festtagen gut, und der Online-Anteil bei Non-Food erreichte mit 44 % den höchsten Stand seit 2022.**
+
+> “Pre-Budget jitters among shoppers meant the month of Black Friday did not deliver as strongly as retailers had hoped or the economy needed. Sales growth was the weakest in six months … Many consumers took advantage of promotions, with homeware and upholstery selling well ahead of festive hosting. … In November, total sales increased by 1.4% YoY … Non-Food online penetration hitting a high of 44%.”
+
+- **Quelle:** [British Retail Consortium – Retail Sales Monitor November: 'Pre-Budget jitters dampen Black Friday sales'](https://brc.org.uk/market-intelligence/publications/monitors/retail-sales-monitor/2025/nov/)
+- **Datum der Quelle:** 2025-12-09 · **Typ:** Marktforschung
+- **Stichprobe/Methodik:** BRC-KPMG-Händlerpanel, November 2025
+- **Einordnung/Einschränkung:** Etablierter Branchenmonitor; die Zusammenfassung ist öffentlich. 'Homeware' ist kein Bettwaren-Wert, nur ein Indiz für die Kategorie. Laut Text war der Online-Anteil 'its highest level since 2022', also kein Allzeithoch. Non-Food insgesamt +0,1 %, stationär -0,3 %, online +0,5 %.
+- **Wahrheits-Check:** *korrigiert*. Per curl abgerufen (WebFetch 403; Inhalt trotz Status 403 geliefert). Datum 09.12.2025 und Wortlaut bestätigt. '44 %' als 'höchster Stand seit 2022' präzisiert, Non-Food-Werte ergänzt.
+
+### (d) Black Friday 2025 – Passantenfrequenz (MRI Software)
+
+#### G5-38
+
+✅ BELEGT · Angle: Markt
+
+**Laut MRI Software lag die Passantenfrequenz in UK-Einkaufslagen am Black Friday 2025 1,9 % unter dem Vorjahr, in der Black-Friday-Woche 2,2 % (Variante Mo–So: 2,5 %). Gegenüber der Vorwoche stieg die Frequenz am Black Friday um 11,7 % und in der ganzen Woche um 6,7 %.**
+
+> “Retail footfall on Black Friday also remained -1.9% lower compared to Black Friday last year with shopping centres (-3.6%), once again, leading the decline, followed by high streets (-2%) and retail parks (-0.1%).”
+
+- **Quelle:** [InsightDIY – 'Black Friday Week Delivered Solid Boost Across Retail Destinations' (MRI Software)](https://www.insightdiy.co.uk/news/black-friday-week-delivered-solid-boost-across-retail-destinations/15850.htm)
+- **Datum der Quelle:** 2025-12-01 · **Typ:** Marktforschung
+- **Stichprobe/Methodik:** MRI-Software-Frequenzzählung in UK-Einkaufslagen
+- **Einordnung/Einschränkung:** Misst Besucher, nicht Umsatz, und nur den stationären Handel. Ein Fachmedium gibt die MRI-Mitteilung wieder. Der Artikel enthält zwei Wochenabgrenzungen (So–Sa und Mo–So) mit fehlerhaften Datumsangaben.
+- **Wahrheits-Check:** *korrigiert*. Korrigiert: Die +6,7 % sind der Wochenanstieg ggü. der Vorwoche (So–Sa), nicht der Black-Friday-Wert. Der Tag selbst lag bei +11,7 % ggü. Vorwoche. -1,9 % ggü. Vorjahr bestätigt.
+
+### (d) Black Friday 2025 – amtliche Einzelhandelsstatistik (ONS)
+
+#### G5-39
+
+✅ BELEGT · Angle: Markt
+
+**Laut ONS stiegen die nicht saisonbereinigten Einzelhandelsmengen in Großbritannien im November 2025 um 11,9 % ggü. Vormonat. Saisonbereinigt fielen sie um 0,1 %; der Black-Friday-Effekt war also etwas schwächer als üblich.**
+
+> “sales volumes rose by 11.9% over the month to November 2025 … Seasonally adjusted volumes fell by just 0.1% over the month, suggesting the Black Friday effect was slightly weaker than usual.”
+
+- **Quelle:** [Office for National Statistics – Retail sales, Great Britain: November 2025](https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/november2025)
+- **Datum der Quelle:** 2025-12-19 · **Typ:** Behörde/NHS/Statistikamt
+- **Stichprobe/Methodik:** ONS Monthly Business Survey; Berichtszeitraum 2.–29. November 2025
+- **Einordnung/Einschränkung:** Amtliche Statistik, gilt nur für Großbritannien (ohne Nordirland). Non-Food-Geschäfte +1,0 % ggü. Vormonat.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut, Datum, Zeitraum und Geografie bestätigt.
+
+### (d) Black Friday 2025 – Teilnahmeabsicht (ONS-Umfrage)
+
+#### G5-40
+
+✅ BELEGT · Angle: Markt
+
+**Laut ONS-Bevölkerungsumfrage planten rund 31 % der Erwachsenen in Großbritannien, bei den Black-Friday-Sales 2025 einzukaufen. 19 % wollten weniger einkaufen als im Vorjahr, 10 % mehr.**
+
+> “around 3 in 10 adults (31%) planned to shop in the Black Friday sales; 19% reported that they intended to shop less than last year, while 10% intended to shop more.”
+
+- **Quelle:** [Office for National Statistics – Retail sales, Great Britain: November 2025](https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/november2025)
+- **Datum der Quelle:** 2025-12-19 · **Typ:** Behörde/NHS/Statistikamt
+- **Stichprobe/Methodik:** ONS Opinions and Lifestyle Survey, Erwachsene in Großbritannien; n hier nicht angegeben
+- **Einordnung/Einschränkung:** Amtliche, unabhängige Umfrage; misst Absicht, nicht Verhalten. Deutlich niedriger als Anbieter-Umfragen (Barclays 43 %). Für realistische Erwartungen vorzuziehen.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut im Bulletin gefunden.
+
+### (d) Black Friday 2026 – Cyber-Monday-Absicht (Salsify)
+
+#### G5-41
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**Laut Salsify-Umfrage (April 2026) planen 50 % der UK-Befragten, am Cyber Monday 2026 einzukaufen (USA 75 %, Kanada 58 %).**
+
+> “Enthusiasm for Cyber Monday is highest in the U.S. (75%), followed by Canada (58%) and the U.K. (50%).”
+
+- **Quelle:** [Salsify – 'Consumer Spending Trends: How Much Will Holiday Shoppers Spend in 2026?'](https://www.salsify.com/blog/consumer-spending-trends-holiday-spending-predictions)
+- **Datum der Quelle:** 2026-04-30 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** 400 UK-Befragte (insgesamt 1.212 in USA, UK und Kanada); Institut und Feldzeit nicht angegeben
+- **Einordnung/Einschränkung:** Kleine Anbieter-Stichprobe, früh im Jahr erhoben. Wirkt hoch im Vergleich zur ONS-Absicht für Black Friday 2025 (31 %). 'Enthusiasm' ist nicht klar als Kaufabsicht definiert.
+- **Wahrheits-Check:** *bestätigt*. Satz wörtlich bestätigt.
+
+### (d) Barclays-Kartendaten Nov./Dez. 2025 – neu berechnete Werte
+
+#### G5-42
+
+✅ BELEGT · Angle: Markt
+
+**Nach Barclays' Neuberechnung stiegen die UK-Kartenausgaben ggü. Vorjahr im November 2025 um 0,6 % (Einzelhandel +0,8 %) und im Dezember 2025 um 0,3 % (Einzelhandel +0,2 %).**
+
+> “We have updated our Consumer Spend data set and as such have restated our June-December 2025 figures, and removed the historical reports. … Overall 0.6% [Nov] 0.3% [Dec] … Retail 0.8% [Nov] 0.2% [Dec]”
+
+- **Quelle:** [Barclays – 'Barclays Consumer Spend Data – June-December 2025'](https://home.barclays/news/press-releases/20260/02/barclays-consumer-spend-data---june-december-2025/)
+- **Datum der Quelle:** 2026-02 (kein Datum auf der Seite, aus der URL abgeleitet) · **Typ:** Marktforschung
+- **Stichprobe/Methodik:** Barclays-Debit- und Barclaycard-Kreditkartentransaktionen
+- **Einordnung/Einschränkung:** Aktueller Stand des Herausgebers; die Monatsangaben in eckigen Klammern sind aus der Tabelle ergänzt. Die Januar-Mitteilung vom 11.02.2026 nennt für Dezember im Einzelhandel ebenfalls 0,2 %. Ersetzt die ursprünglich berichteten -1,1 % (Nov.) und -1,7 % (Dez.). Kategorien wie Möbel enthält die neue Tabelle nicht.
+- **Wahrheits-Check:** *bestätigt*. Hinweis zur Neuberechnung und Tabellenwerte bestätigt (Online: Nov. 2,3 %, Dez. 1,0 %). Dezemberwert im Einzelhandel in der Mitteilung vom 11.02.2026 gegengeprüft.
+
+### (e) Dezember 2025 – überholte Barclays-Zahl (Mythos-Check)
+
+#### G5-43
+
+❌ NICHT BELEGT / MYTHOS · Angle: Markt
+
+**Die viel zitierte Aussage, die UK-Kartenausgaben seien laut Barclays im Dezember 2025 um 1,7 % gefallen (stärkster Rückgang seit Februar 2021), ist durch Barclays' Neuberechnung (+0,3 %) überholt.**
+
+> “Barclays said overall consumer card spending fell by 1.7% in December from the same month in 2024, the biggest such drop since the 12 months to February 2021, during the COVID pandemic.”
+
+- **Quelle:** [ESM Magazine (Reuters) – 'UK Consumers Cut Spending In December By Most Since 2021, Barclays Says'](https://www.esmmagazine.com/retail/uk-consumers-cut-spending-in-december-by-most-since-2021-barclays-says-303995)
+- **Datum der Quelle:** 2026-01-15 · **Typ:** Presse
+- **Stichprobe/Methodik:** Barclays-Kartentransaktionen
+- **Einordnung/Einschränkung:** Die Zahl wurde damals so berichtet. Barclays hat die Werte für Juni–Dezember 2025 neu berechnet und die alten Berichte entfernt (G5-42: Dezember +0,3 %). Dasselbe gilt für die ursprüngliche November-Angabe: 'Consumer card spending declined -1.1 per cent year-on-year in November', laut InsightDIY vom 09.12.2025, inzwischen +0,6 %. Nicht mehr verwenden.
+- **Wahrheits-Check:** *bestätigt*. Reuters-Wortlaut (15.01.2026) und alte November-Zahl (InsightDIY) selbst gefunden. Neuberechnung auf der Barclays-Seite bestätigt; die Aussage ist überholt.
+
+### (e) Weihnachten/Boxing Day 2025 – BRC-KPMG Dezember
+
+#### G5-44
+
+✅ BELEGT · Angle: Markt, D Geschenk
+
+**Laut BRC-KPMG stiegen die UK-Einzelhandelsumsätze im Dezember 2025 nur um 1,2 % (Non-Food -0,3 %). Erst die letzte Woche mit Boxing Day und Beginn der Januar-Sales brachte deutliches Wachstum.**
+
+> “UK Total retail sales increased by 1.2% year on year in December, against a growth of 3.2% in December 2024. … Many people were clearly holding out for discounts, with the last week showing significant growth off the back of Boxing Day and beginning of the January sales.”
+
+- **Quelle:** [British Retail Consortium – 'Drab Christmas as consumers wait for sales' (BRC-KPMG Retail Sales Monitor December 2025)](https://brc.org.uk/news-and-events/news/corporate-affairs/2026/ungated/drab-christmas-as-consumers-wait-for-sales/)
+- **Datum der Quelle:** 2026-01-13 · **Typ:** Marktforschung
+- **Stichprobe/Methodik:** BRC-KPMG-Händlerpanel, Dezember 2025
+- **Einordnung/Einschränkung:** Etablierter Monitor, nominale Werte. Geschenkartikel liefen laut BRC 'worse than expected'. Online-Non-Food -0,1 %, Online-Anteil 38,6 %.
+- **Wahrheits-Check:** *bestätigt*. Alle Werte und Zitate auf der Seite bestätigt.
+
+### (e) Boxing Day 2025 – Passantenfrequenz (MRI Software)
+
+#### G5-45
+
+✅ BELEGT · Angle: Markt
+
+**Laut MRI Software lag die Passantenfrequenz in UK-Einkaufslagen am Boxing Day 2025 4,4 % über dem Vorjahr, das stärkste Plus seit über zehn Jahren; Retail Parks lagen bei +8,8 %.**
+
+> “Despite a slow start for high streets and shopping centres, Boxing Day proved to be a bumper day for all UK retail destinations with footfall up 4.4% year on year across the board; the strongest increase seen in over 10 years.”
+
+- **Quelle:** [InsightDIY – 'MRI Software: Strong Boxing Day Footfall Performance' (Zitat Jenni Matthews, MRI Software)](https://www.insightdiy.co.uk/news/mri-software-strong-boxing-day-footfall-performance/15935.htm)
+- **Datum der Quelle:** 2025-12-26 · **Typ:** Marktforschung
+- **Stichprobe/Methodik:** MRI-Software-Frequenzzählung in UK-Einkaufslagen
+- **Einordnung/Einschränkung:** Misst Besucher, nicht Umsatz. Der Zuwachs lag vor allem zwischen 17 und 23 Uhr (+9,6 %); laut MRI dürften Freizeit und Gastronomie profitiert haben. Für Online-Ads nur Kontext.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut, +8,8 % und +9,6 % bestätigt.
+
+### (e) Boxing Day 2025 – Barclays-Prognose (kein Ergebnis)
+
+#### G5-46
+
+⚠️ EINGESCHRÄNKT · Angle: Markt
+
+**Barclays rechnete per Umfrage hoch, dass UK-Shopper bei den Boxing-Day-Sales 2025 £3,6 Mrd. ausgeben (im Schnitt £253, Teilnahme 26 % nach 28 % im Jahr 2024). Das ist eine Prognose, kein gemessenes Ergebnis; für 2024 waren £4,6 Mrd. prognostiziert worden.**
+
+> “New data from the Barclays Consumer Spend report reveals that UK consumers are expecting to spend £3.6 billion in the Boxing Day sales. The average shopper has increased their budget by £17 compared to 2024, yet fewer consumers will be taking part – 26 per cent plan to spend on Boxing Day this year, down from 28 per cent in 2024.”
+
+- **Quelle:** [Barclays – Pressemitteilung 'UK shoppers set to spend £3.6 billion in the Boxing Day sales'](https://home.barclays/news/press-releases/2025/12/uk-shoppers-set-to-spend-p3-6-billion-in-the-boxing-day-sales/)
+- **Datum der Quelle:** 2025-12-26 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** Opinium im Auftrag von Barclays, 2.000 Befragte je Welle, repräsentativ für UK, 21.–25. November 2025
+- **Einordnung/Einschränkung:** Hochrechnung laut Fußnote: 25,8 % Teilnahme × £252,80 × 55.022.253 Erwachsene ≈ £3,59 Mrd. Medienberichte über '£3,6 Mrd. ausgegeben' verwechseln Absicht und Ergebnis. Ein gemessener Boxing-Day-Umsatz von Barclays wurde nicht gefunden. 69 % erwarten Einschränkungen wegen Kostendrucks (2024: 47 %).
+- **Wahrheits-Check:** *bestätigt*. Wortlaut, Datum, Methodik und Rechenweg per curl bestätigt; Vorjahresprognose (£4,6 Mrd.) als Kontext ergänzt.
+
+### (e) Januar-Sales – Kaufabsichten und Kategorien (Barclays)
+
+#### G5-47
+
+⚠️ EINGESCHRÄNKT · Angle: Markt, B Wechseljahre, C Bettbeziehen
+
+**Laut Barclays-Umfrage (Nov. 2025) planten 44 % der UK-Verbraucher, in den Winter-Sales einzukaufen; davon wollten 89 % in den Januar-Sales kaufen. Homeware stand bei 20 % auf der Einkaufsliste; am häufigsten genannt wurden Kleidung, Schuhe und Accessoires (37 %).**
+
+> “Nearly half (44 per cent) say they plan to shop at some point during the Christmas sales period, and for this group, the January sales are the most popular time to shop, chosen by 89 per cent. … Food and drink (27 per cent), beauty products (20 per cent), homeware (20 per cent) and discounted Christmas items (19 per cent) ranked next.”
+
+- **Quelle:** [Barclays – Pressemitteilung 'UK shoppers set to spend £3.6 billion in the Boxing Day sales'](https://home.barclays/news/press-releases/2025/12/uk-shoppers-set-to-spend-p3-6-billion-in-the-boxing-day-sales/)
+- **Datum der Quelle:** 2025-12-26 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** Opinium im Auftrag von Barclays, 2.000 Befragte je Welle, UK-repräsentativ, 21.–25. November 2025
+- **Einordnung/Einschränkung:** PR-Umfrage mit offengelegtem Institut, n und Zeitraum. Homeware ist breiter als Bettwaren. Stützt eine Eigenkauf-Phase im Januar (B/C), weniger Angle D.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut bestätigt; die Spitzenkategorie Kleidung (37 %) habe ich zur Einordnung ergänzt.
+
+### (e) Januar-Sales 2026 – BRC-KPMG Januar
+
+#### G5-48
+
+✅ BELEGT · Angle: Markt, B Wechseljahre, C Bettbeziehen
+
+**Laut BRC-KPMG stiegen die UK-Einzelhandelsumsätze im Januar 2026 um 2,7 %, getragen von einer starken ersten Januarwoche; Möbel gehörten zu den gut laufenden Kategorien.**
+
+> “January sales bounced back from a subdued November and December. Total sales were up 2.7%, with a strong week one which gradually declined a little each week through the month. … Toys, Computing, Furniture and Health & Beauty all performed well, whilst Footwear continued to struggle.”
+
+- **Quelle:** [British Retail Consortium – Retail Sales Monitor January: 'January sales boost for shoppers and retailers'](https://brc.org.uk/market-intelligence/publications/monitors/retail-sales-monitor/2026/jan/)
+- **Datum der Quelle:** 2026-02-10 · **Typ:** Marktforschung
+- **Stichprobe/Methodik:** BRC-KPMG-Händlerpanel, Januar 2026
+- **Einordnung/Einschränkung:** Öffentliche Zusammenfassung des Monitors. Non-Food +1,7 %, stationärer Non-Food-Handel +2,0 % (stärkstes Wachstum seit über sechs Monaten), Online-Non-Food +1,3 %. Nominal. 'Furniture' ist nur ein Proxy für Bettwaren.
+- **Wahrheits-Check:** *bestätigt*. Per curl abgerufen (WebFetch 403); Datum 10.02.2026 und Wortlaut bestätigt.
+
+### (e) Januar-Sales 2026 – Barclays-Kartendaten
+
+#### G5-49
+
+✅ BELEGT · Angle: Markt, B Wechseljahre, C Bettbeziehen
+
+**Laut Barclays stiegen die UK-Kartenausgaben im Januar 2026 nur um 0,8 %. Der Online-Einzelhandel (ohne Lebensmittel) legte um 5,7 % zu, sein Anteil lag mit 59,2 % so hoch wie zuletzt im Januar 2022.**
+
+> “Consumer card spending increased 0.8 per cent in January – considerably less than the latest CPIH inflation rate of 3.6 per cent. … Online retail spend growth (excluding groceries) reached 5.7 per cent, with online’s share of retail spending (excluding groceries) at 59.2 per cent – its highest level since January 2022”
+
+- **Quelle:** [Barclays – Pressemitteilung 'Online retail growth reaches 5.7 per cent in January, while cinemas and streaming services soar'](https://home.barclays/news/press-releases/20260/02/online-retail-growth-reaches-5-7-per-cent-in-january--while-cine/)
+- **Datum der Quelle:** 2026-02-11 · **Typ:** Marktforschung
+- **Stichprobe/Methodik:** Barclays-Debit- und Barclaycard-Kreditkartentransaktionen ('nearly 40 per cent of the nation's credit and debit card transactions')
+- **Einordnung/Einschränkung:** Primärquelle mit transparenter Datenbasis; nominal und unter der Inflation. Laut Tabelle Möbelgeschäfte -0,1 %, 'Household' -1,4 %. Laut Barclays hielten sich Käufer offenbar für die Januar-Sales zurück.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut, Datum und Tabellenwerte bestätigt.
+
+### (e) Januar-Sales 2026 – amtliche Einzelhandelsstatistik (ONS)
+
+#### G5-50
+
+✅ BELEGT · Angle: Markt
+
+**Laut ONS stiegen die Einzelhandelsmengen in Großbritannien im Januar 2026 um 1,8 % ggü. Vormonat, der größte Monatsanstieg seit Mai 2024, nach +0,4 % im Dezember 2025.**
+
+> “Sales volumes rose by 1.8% over the month during January 2026, which was the largest monthly rise since May 2024. This followed a rise of 0.4% in December 2025.”
+
+- **Quelle:** [Office for National Statistics – Retail sales, Great Britain: January 2026](https://www.ons.gov.uk/businessindustryandtrade/retailindustry/bulletins/retailsales/january2026)
+- **Datum der Quelle:** 2026-02-20 · **Typ:** Behörde/NHS/Statistikamt
+- **Stichprobe/Methodik:** ONS Monthly Business Survey; Großbritannien
+- **Einordnung/Einschränkung:** Amtlich, nur Großbritannien. Laut ONS kam das Wachstum teils von Kunst- und Antiquitätenverkäufen sowie Online-Juwelieren, ist also kein reiner Sales-Effekt.
+- **Wahrheits-Check:** *korrigiert*. Wortlaut und Datum bestätigt. Gestrichen: den Verweis auf 'Q4 2025 -0,3 % ggü. Q3', weil im Dezember-Bulletin nicht selbst geprüft.
+
+### (b) Lieferzusage 'bis Weihnachten' – Primärnorm Consumer Rights Act 2015
+
+#### G5-V01
+
+✅ BELEGT · Angle: D Geschenk
+
+**Nach dem Consumer Rights Act 2015 (s. 28) muss ein Händler ohne vereinbarten Liefertermin 'without undue delay' und spätestens 30 Tage nach Vertragsschluss liefern. Wird ein vereinbarter Termin verfehlt, kann der Verbraucher den Vertrag beenden, wenn die rechtzeitige Lieferung nach den Umständen bei Vertragsschluss wesentlich war oder er dem Händler vorher gesagt hat, dass sie wesentlich ist.**
+
+> “(3) Unless there is an agreed time or period, the contract is to be treated as including a term that the trader must deliver the goods— (a) without undue delay, and (b) in any event, not more than 30 days after the day on which the contract is entered into. … (6) If the circumstances are that— (a) the trader has refused to deliver the goods, (b) delivery of the goods at the agreed time or within the agreed period is essential taking into account all the relevant circumstances at the time the contract was entered into, or (c) the consumer told the trader before the contract was entered into that delivery … was essential, then the consumer may treat the contract as at an end.”
+
+- **Quelle:** [legislation.gov.uk – Consumer Rights Act 2015, section 28 (Delivery of goods)](https://www.legislation.gov.uk/ukpga/2015/15/section/28)
+- **Datum der Quelle:** 2015 (Gesetz; Fassung abgerufen am 08.10.2026) · **Typ:** Parlament/Regierung
+- **Einordnung/Einschränkung:** Amtlicher Gesetzestext. Präzisiert die vereinfachte MSE-Darstellung (G5-17). Für Ads heißt das: Ein zugesagter Liefertermin vor Weihnachten kann als 'agreed time' gelten, und bei Verfehlung drohen Rücktritt und Erstattung. Keine Rechtsberatung; der räumliche Geltungsbereich wird auf der Seite nicht angezeigt.
+- **Wahrheits-Check:** *bestätigt*. Neu aufgenommen. Seite per WebFetch und curl selbst abgerufen; Wortlaut von s. 28(3) und (6) geprüft.
+
+### (d) Barclays-Originalbericht November 2025 (vor Neuberechnung)
+
+#### G5-V02
+
+⚠️ EINGESCHRÄNKT · Angle: Markt, D Geschenk
+
+**In seinem ursprünglichen November-2025-Bericht (wiedergegeben am 09.12.2025, inzwischen zurückgezogen) meldete Barclays Kartenausgaben von -1,1 % ggü. Vorjahr, am Black Friday 62,5 % mehr Transaktionen als an einem durchschnittlichen Tag 2025 und für Möbelgeschäfte +6,8 % Ausgaben ggü. Vorjahr.**
+
+> “Consumer card spending declined -1.1 per cent year-on-year in November – the greatest fall recorded since February 2021 (-9.5 per cent) … retailers enjoyed their busiest day of the year so far on Black Friday (28th), with transaction volumes up 62.5 per cent in comparison to the average day in 2025. … Furniture Stores 6.8% 1.2%”
+
+- **Quelle:** [InsightDIY – 'Barclays: Card Spending Sees Greatest Fall Since 2021' (Wiedergabe des Barclays Consumer Spend Report November 2025)](https://www.insightdiy.co.uk/news/barclays-card-spending-sees-greatest-fall-since-2021/15883.htm)
+- **Datum der Quelle:** 2025-12-09 · **Typ:** Presse
+- **Stichprobe/Methodik:** Barclays-Debit- und Barclaycard-Kreditkartentransaktionen
+- **Einordnung/Einschränkung:** Belegt ist, dass Barclays diese Werte veröffentlicht hat. Barclays hat die Daten für Juni–Dezember 2025 aber neu berechnet und die Originalberichte entfernt (G5-42: November jetzt +0,6 %). Die Möbelzahl (+6,8 %) steht in der neuen Tabelle nicht. Überholter Datenstand, nicht für Ads verwenden.
+- **Wahrheits-Check:** *bestätigt*. Neu aufgenommen, um die Lücke 'Barclays-Möbelzahl nicht belegt' zu klären. Artikel per WebFetch und curl abgerufen, Tabellenzeile 'Furniture Stores 6.8% 1.2%' gefunden.
+
+### (a) Verpasste Versandtermine – Post-Office-Umfrage
+
+#### G5-V03
+
+⚠️ EINGESCHRÄNKT · Angle: D Geschenk
+
+**Laut einer Post-Office-Umfrage (Okt. 2025, 2.000 UK-Erwachsene) haben 17 % der Briten schon einmal den letzten Versandtermin vor Weihnachten verpasst.**
+
+> “Postmasters are urging the public to send early to avoid being part of the 17 per cent of Brits who’ve previously left it too late and missed the final posting date.”
+
+- **Quelle:** [Post Office (Mynewsdesk) – 'Post Office announces last posting dates for sending Christmas presents'](https://www.mynewsdesk.com/uk/post-office/pressreleases/post-office-announces-last-posting-dates-for-sending-christmas-presents-3420939)
+- **Datum der Quelle:** 2025-12-19 (Seitenkopf; Fließtext 'Wednesday 10th December') · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** Post Office 'Hot Topics', Oktober 2025, 2.000 national repräsentative UK-Erwachsene, Stichprobe von Dynata
+- **Einordnung/Einschränkung:** PR-Umfrage eines Postunternehmens mit knapper Methodik. Passt als Kontext für Angle D (früh bestellen), sollte aber nicht als harte Ad-Zahl dienen.
+- **Wahrheits-Check:** *bestätigt*. Neu aufgenommen. Satz und Methodik per curl auf der Mynewsdesk-Seite gefunden.
 

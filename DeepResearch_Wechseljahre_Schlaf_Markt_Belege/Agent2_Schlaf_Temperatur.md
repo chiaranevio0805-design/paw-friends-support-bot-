@@ -1755,3 +1755,738 @@ Legende: ✅ BELEGT · ⚠️ EINGESCHRÄNKT (nur mit Einschränkung verwenden) 
 - **Einordnung/Einschränkung:** Unabhängiger Labortest einer gesetzlichen Verbraucherorganisation, aber vom Hongkonger Markt und nicht aus UK. Ein Vergleich 'gemessen vs. angegeben' ist nicht veröffentlicht. Der Test zeigt, dass BS 4745 in der Praxis auch für Bettdecken angewendet wird (relevant für 2B-04). Er belegt nichts über britische Produkte.
 - **Wahrheits-Check:** *bestätigt*. Neu aufgenommen. Pressemitteilung selbst geöffnet; Datum, Anzahl, Norm, Messbereich und Waschergebnisse bestätigt. Einen Etikettenabgleich gibt es nicht.
 
+## Nachrecherche G7 (zu Track 2B)
+
+*Auftrag: Angle B/C – Paare und Temperatur im Bett (UK): Umfragen im Original mit Methodik zu (a) Streit/Unterschieden beim Temperaturempfinden im Bett (zu heiß/zu kalt, Decke klauen, unterschiedliche Decken), (b) 'sleep divorce'/getrennte Betten oder Decken in UK (YouGov 2024/2025, Sleep Charity, Silentnight, Simba, Emma, Dreams, Bensons, IKEA UK, Mattress Online n=5.000, Sealy '36 %'), (c) Skandinavische Schlafmethode (zwei Decken) in UK – Umfragen, (d) Menopause und gemeinsames Bett (Partner friert, sie schwitzt) – irgendeine Umfrage mit Methodik? Zusätzlich: Kingma & van Marken Lichtenbelt 2015 (Nature Climate Change) Volltext/PMC-Zusammenfassung: Stichprobe, Ergebnis.*
+
+*Prüf-Fazit: Zahlen und Wortlaute des Tracks stimmen weitgehend mit den Quellen überein. Die meisten Korrekturen betreffen Bezugsgruppen und Basen (Uswitch: 'jemals gestritten' statt 'Streit beginnen', Travelodge: nur Schlechtschläfer, Direct Line: Basis der Tabellen unklar), Daten und geänderte URLs oder Titel. Wirklich belastbar sind nur die repräsentativen Werte zu getrenntem Schlafen (15–18 %, mit dem Alter steigend; YouGov/NBF 2020, YouGov 2022/2024, Direct Line/Opinium 2025) und die YouGov-Zahl 2026 zu saisonalem Bettzeug. Alles zum Temperaturkonflikt im Paarbett, zur Zwei-Decken-Methode und zur Menopause im gemeinsamen Bett beruht auf Marken-PR ohne vollständige Methodik und ist höchstens eingeschränkt verwendbar. Vier Claims wurden verworfen, weil die Quelle nicht zugänglich war (Mattress Online n=5.000 zweimal, Galaxus) bzw. die Aussage unbelegbar blieb; die Mythen ('5 Mio. Paare', '51 %', 'Samsung 8 von 10', '2,5 °C wärmer', 'rettet Ehen', Partner-Schlafverlust 2,5 h) sind bestätigt widerlegt bzw. unbelegt.*
+
+### (a) Temperatur-Streit im Bett
+
+#### G7-01
+
+⚠️ EINGESCHRÄNKT · Angle: B Wechseljahre
+
+**In der Direct-Line-Studie 2025 (Opinium, 2.000 UK-Erwachsene) steht 'sich zu heiß oder zu kalt fühlen' mit 46 % auf Platz 5 der Arten, wie Partner einander nachts wachhalten. Welche Befragtengruppe die Basis bildet, ist nicht ausgewiesen.**
+
+> “Table one: Reasons partners are being kept awake at night … Top ten ways partners keep each other awake … 5 Feeling too hot or cold 46 per cent”
+
+- **Quelle:** [Direct Line Home Insurance (Direct Line Group/Aviva), Pressemitteilung 'Sleeping apart to stay together' / 'Five million couples choose to sleep in separate rooms'](https://www.aviva.com/newsroom/news-and-research-overview/news-releases/2025/02/sleeping-apart-to-stay-together-/)
+- **Datum der Quelle:** 2025-02-13 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** Opinium, national repräsentativ, n=2.000 UK-Erwachsene, 31.01.–04.02.2025; Basis der Tabelle nicht ausgewiesen
+- **Einordnung/Einschränkung:** Seriöses Institut mit repräsentativer UK-Stichprobe und Feldzeit. Die Basis der Tabelle bleibt aber unklar: Der Fließtext nennt dieselben Werte (Snoring 71 % usw.) als 'main factors driving couples to sleep separately', die Tabelle als 'ways partners keep each other awake'. Eine Fragestellung fehlt, Auftraggeber ist eine Versicherungsmarke. 'Too hot or cold' fasst beide Richtungen zusammen und belegt keinen gegensätzlichen Wärmebedarf der Partner.
+- **Wahrheits-Check:** *bestätigt*. aviva.com per curl abgerufen. Tabelle 'Top ten ways…', Platz 5 mit 46 %, 'Published: 13 Feb 2025' und Fußnote 'Opinium … 2,000 UK adults, 31st January-4th February 2025' wörtlich bestätigt. Begründung um die Unklarheit der Basis ergänzt.
+
+#### G7-02
+
+⚠️ EINGESCHRÄNKT · Angle: Allgemein
+
+**In derselben Direct-Line/Opinium-Studie 2025 steht 'Decke klauen' mit 47 % auf Platz 4 der Arten, wie Partner einander wachhalten. Die Basis ist nicht ausgewiesen.**
+
+> “Top ten ways partners keep each other awake … 4 Stealing the duvet 47 per cent”
+
+- **Quelle:** [Direct Line Home Insurance (Direct Line Group/Aviva), Pressemitteilung 'Sleeping apart to stay together'](https://www.aviva.com/newsroom/news-and-research-overview/news-releases/2025/02/sleeping-apart-to-stay-together-/)
+- **Datum der Quelle:** 2025-02-13 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** Opinium, n=2.000 UK-Erwachsene, 31.01.–04.02.2025; Basis der Tabelle nicht ausgewiesen
+- **Einordnung/Einschränkung:** Gleiche Einschränkungen wie G7-01: Basis und Fragestellung fehlen, und die Daten stammen aus einer Marken-PR-Mitteilung. In Ads nur mit 'laut Umfrage von Direct Line (2025)' formulieren.
+- **Wahrheits-Check:** *bestätigt*. Platz 4 mit 47 % auf der aviva.com-Seite (per curl) wörtlich bestätigt.
+
+#### G7-04
+
+⚠️ EINGESCHRÄNKT · Angle: B Wechseljahre, D Geschenk
+
+**Laut Direct Line/Opinium 2025 werden 51 % der 18- bis 34-Jährigen, aber nur 41 % der über 55-Jährigen dadurch gestört, dass sie sich zu heiß oder zu kalt fühlen.**
+
+> “Table two: Sleep disturbances across generations … Feeling too hot or too cold 51 per cent [18-34 year old] 41 per cent [55+ years old]”
+
+- **Quelle:** [Direct Line Home Insurance (Direct Line Group/Aviva), Pressemitteilung 'Sleeping apart to stay together'](https://www.aviva.com/newsroom/news-and-research-overview/news-releases/2025/02/sleeping-apart-to-stay-together-/)
+- **Datum der Quelle:** 2025-02-13 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** Opinium, n=2.000 UK-Erwachsene, 31.01.–04.02.2025; Teilgruppen-n nicht angegeben
+- **Einordnung/Einschränkung:** Die Teilgruppen sind kleiner, ihre Fallzahlen nicht angegeben. Für Angle B wichtig: Bei Älteren ist Temperatur seltener ein Störfaktor als bei Jüngeren, eine reine 'Ältere-frieren'-Story stützen die Daten also nicht.
+- **Wahrheits-Check:** *bestätigt*. Table two auf der aviva.com-Seite (per curl) gelesen. 51 % (18–34) und 41 % (55+) wörtlich bestätigt.
+
+#### G7-05
+
+❌ NICHT BELEGT / MYTHOS · Angle: B Wechseljahre
+
+**Behauptet wird, dass laut einer Dreams-Umfrage unter 15.000 Erwachsenen in England 33,8 % der Frauen und 22,4 % der Männer davon genervt sind, dass ihr Partner im Bett zu viel Wärme abgibt. Diese Zahl ist nicht belegt.**
+
+> “And a survey of 15,000 adults in England by Dreams revealed 22.4 per cent of men and 33.8 per cent of women were annoyed by their partner 'giving off too much heat' in bed.”
+
+- **Quelle:** [Cumbria24, 'Beating the winter domestic row about winter heating as the clocks go back this weekend' (werblicher Artikel zu dùsal Partner Duvets)](https://cumbria24.com/beating-the-autumn-domestic-row-about-winter-heating-as-the-clocks-go-back-this-weekend/)
+- **Datum der Quelle:** 2019-10-23 · **Typ:** Presse
+- **Stichprobe/Methodik:** angeblich n=15.000 Erwachsene, England, Dreams; Institut, Erhebungsjahr und Fragestellung unbekannt
+- **Einordnung/Einschränkung:** Die Zahl steht nur in einem werblichen Lokalartikel für den Hersteller dùsal (Partner-Decken mit unterschiedlichem Gewicht und Wärmegrad). Eine Dreams-Originalmitteilung ist nicht auffindbar, Erhebungsjahr und Methodik fehlen, und die Daten gelten nur für England. Trotz hoher Relevanz nicht als Ad-Hook verwenden.
+- **Wahrheits-Check:** *bestätigt*. Seite per WebFetch geöffnet (curl 403). Satz wörtlich bestätigt, Datum 23.10.2019, Kontext dùsal-Werbung. Unbelegtheit bestätigt: kein Original auffindbar.
+
+#### G7-06
+
+❌ NICHT BELEGT / MYTHOS · Angle: B Wechseljahre
+
+**Behauptet wird, dass laut einer von einer ungenannten Hotelkette beauftragten Umfrage unter 2.000 Personen 'zu heiß sein' der dritthäufigste Streitgrund von Paaren im Bett ist und 'zu kalt sein' der siebthäufigste. Das ist nicht belegt.**
+
+> “A survey of 2,000 people, commissioned by a leading hotel chain* found the third biggest cause of arguments between couples in bed was 'being too hot', the seventh was 'being too cold'”
+
+- **Quelle:** [Cumbria24, 'Beating the winter domestic row about winter heating as the clocks go back this weekend'](https://cumbria24.com/beating-the-autumn-domestic-row-about-winter-heating-as-the-clocks-go-back-this-weekend/)
+- **Datum der Quelle:** 2019-10-23 · **Typ:** Presse
+- **Stichprobe/Methodik:** angeblich n=2.000; Auftraggeber ungenannt; Institut, Zeitraum und Region unbekannt
+- **Einordnung/Einschränkung:** Der Auftraggeber wird nicht genannt, Prozentwerte fehlen, und die Quelle ist werblich (dùsal). Dass es die Jurys-Inn-Umfrage 2017 ist, lässt sich nicht verifizieren. Die Platzierung passt auch nicht zu deren Liste, in der 'too hot as a result of their partner' auf Platz 6 steht.
+- **Wahrheits-Check:** *bestätigt*. Per WebFetch geöffnet. Wortlaut inkl. 'the seventh was being too cold' bestätigt. Hotelkette weiterhin ungenannt, Unbelegtheit bestätigt.
+
+#### G7-07
+
+⚠️ EINGESCHRÄNKT · Angle: B Wechseljahre
+
+**Eine Jurys-Inn-Umfrage (veröffentlicht Mai 2017) nennt Deckenklauen (29,8 %) als größtes Ärgernis von Paaren im Bett nach Schnarchen (50,4 %); 'wegen des Partners zu heiß' kommt auf 13,4 %.**
+
+> “stealing the duvet (29.8%) and fidgeting (17.20%) are the biggest bedtime bugbears for couples … Snoring (50.4%) … Being too hot as a result of their partner (13.4%) … Cold feet (9.4%)”
+
+- **Quelle:** [Jurys Inn via Hospitality Net, 'Jurys Inn "Tug Of War Duvet" Combats Couples' Biggest Bed Time Bugbear'](https://www.hospitalitynet.org/news/4082989.html)
+- **Datum der Quelle:** 2017-05-31 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** keine Angaben zu n, Institut oder Zeitraum (Fußnote [1] ohne Text)
+- **Einordnung/Einschränkung:** Hotel-PR ohne jede Methodik, Stand 2017 und damit veraltet. Gibt nur Hinweise auf Größenordnungen. 'Too hot as a result of their partner' ist inhaltlich ein guter Hook, für Ads aber nicht belastbar genug.
+- **Wahrheits-Check:** *korrigiert*. Per WebFetch geöffnet (curl 403). Alle Prozentwerte und Datum 31.05.2017 bestätigt, Fußnote [1] ohne Text. Aussage um Schnarchen (50,4 %) als eigentliche Nummer 1 ergänzt.
+
+#### G7-08
+
+⚠️ EINGESCHRÄNKT · Angle: B Wechseljahre
+
+**Laut einer OnePoll-Umfrage für Uswitch (2.000 UK-Erwachsene, 21.–23.10.2015) gaben 26 % der befragten Frauen an, schon einmal mit dem Partner über 'Decke klauen im Winter' gestritten zu haben. Uswitch stellt das als häufigsten winterlichen Streitanlass bei Frauen dar.**
+
+> “This winter, women are most likely to start an argument when their other half hogs the duvet (26%) … *When asked 'Have you ever argued with your partner about any of the following?' … 26.06% of female respondents answered 'Hogging the duvet during winter' … Research was conducted by OnePoll between 21st and 23rd October 2015, amongst 2,000 UK adults.”
+
+- **Quelle:** [Uswitch Media Centre, 'Thermostat wars: couples set to have over 17 million thermo-spats each week this winter'](https://www.uswitch.com/media-centre/2015/11/thermostat-wars-couples-set-to-have-over-17-million-thermo-spats-each-week-this-winter/)
+- **Datum der Quelle:** 2015-11-11 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** OnePoll, n=2.000 UK-Erwachsene, 21.–23.10.2015
+- **Einordnung/Einschränkung:** Die Methodik ist angegeben, die Daten sind aber über 10 Jahre alt. Laut Fußnote lautete die Frage 'Have you ever argued…', gemessen wurde also kein 'Streit beginnen'. Die '17 Mio. thermo-spats' sind hochgerechnet (1,05 Streits pro Person × 12 Wochen × 16,34 Mio. Paare) und nicht verwenden.
+- **Wahrheits-Check:** *korrigiert*. Per curl gelesen, Datum 'Updated on 11 November 2015'. Die Fußnote zeigt die tatsächliche Frage ('Have you ever argued…', 26,06 % der Frauen). Aussage entsprechend präzisiert.
+
+#### G7-09
+
+⚠️ EINGESCHRÄNKT · Angle: Allgemein
+
+**Laut YouGov (2019, über 1.000 Briten, die ein Bett mit dem Partner teilen) werfen 27 % ihrem Partner vor, mehr als seinen fairen Anteil des Bettes zu beanspruchen. 10 % geben zu, selbst mehr als ihren Anteil zu nehmen.**
+
+> “Most Britons claim to stick to their own side of the bed (57%), but a quarter (27%) accuse their partner of taking up more than their fair share. … Only 10% of Britons confess to being the one who takes up more than their fair share.”
+
+- **Quelle:** [YouGov, 'Duvet drama: four in ten couples aren't sharing the bed fairly'](https://yougov.com/en-gb/articles/25040-duvet-drama-four-ten-couples-arent-sharing-bed-fai)
+- **Datum der Quelle:** 2019-09-03 · **Typ:** Umfrage (Institut/unabhängig)
+- **Stichprobe/Methodik:** YouGov Realtime, 'more than 1,000 people who share a bed with their partner', GB, 2019; exaktes n und Feldzeit nicht genannt
+- **Einordnung/Einschränkung:** Unabhängiges Institut, aber 7 Jahre alt, und das genaue n fehlt. 'Fair share' bezieht sich laut Kontext ('invades their territory') auf den Bettplatz, nicht explizit auf die Decke. Die Überschrift 'four in ten' ist eine Summe (27 % + 10 %). Zur Temperatur sagt der Artikel nichts.
+- **Wahrheits-Check:** *bestätigt*. Per curl gelesen. Datum 3 September 2019, n-Angabe und 27 %/10 % wörtlich bestätigt. Aussage um die 10 % ergänzt, die Einordnung bleibt.
+
+#### G7-10
+
+⚠️ EINGESCHRÄNKT · Angle: Allgemein
+
+**Laut YouGov 2019 (Bettteiler in GB) geben Frauen häufiger zu, die Decke zu klauen (36 %), als Männer (23 %).**
+
+> “Men are snorers and tossers, while women are duvet hogs … women are more likely to confess to hogging the duvet (36%) than men (23%).”
+
+- **Quelle:** [YouGov, 'Duvet drama: four in ten couples aren't sharing the bed fairly'](https://yougov.com/en-gb/articles/25040-duvet-drama-four-ten-couples-arent-sharing-bed-fai)
+- **Datum der Quelle:** 2019-09-03 · **Typ:** Umfrage (Institut/unabhängig)
+- **Stichprobe/Methodik:** YouGov Realtime, >1.000 Bettteiler, GB, 2019
+- **Einordnung/Einschränkung:** Eigene Frage ('confess to hogging the duvet'), getrennt von der Bettplatz-Frage in G7-09. Das n pro Geschlecht fehlt, Daten von 2019. In Ads nur mit Vorsicht und ohne Geschlechter-Klischee verwenden.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut auf der Seite bestätigt. Die frühere Vermutung 'andere Frage' ist bestätigt: Es ist eine eigene Frage zum Deckenklauen.
+
+#### G7-11
+
+⚠️ EINGESCHRÄNKT · Angle: Allgemein
+
+**Laut einer Simba-Studie mit 2.000 Erwachsenen (Dezember 2019) teilt mehr als ein Drittel der britischen Paare regelmäßig das Bett mit jemandem, der die Decke klaut oder für sich beansprucht.**
+
+> “More than a third of British couples regularly share a bed with an infuriating blanket bandit - a partner who regularly steals or hogs the duvet. A study of 2000 adults by sleep technology firm Simba found one in four believe a restless night by a duvet-stealing partner can make them see red, and one in six have even ended relationships over it.”
+
+- **Quelle:** [Woman & Home, 'A third of British couples share a bed with a "blanket bandit"' (Simba-Studie)](https://www.womanandhome.com/health-and-wellbeing/health-wellbeing-news/third-british-couples-share-bed-blanket-bandit-343814/)
+- **Datum der Quelle:** 2019-12-18 · **Typ:** Presse
+- **Stichprobe/Methodik:** n=2.000 Erwachsene, Simba; Institut und Zeitraum nicht genannt
+- **Einordnung/Einschränkung:** Händler-PR (der Artikel bewirbt Simbas 'temperature-regulating Hybrid Duvet') ohne Institut, Stand 2019. Unklar ist, ob die Basis 'Paare' oder 'Erwachsene' ist. 'One in six have even ended relationships over it' ist unplausibel und nicht verwenden.
+- **Wahrheits-Check:** *bestätigt*. Per curl gelesen. Wortlaut und Datum 18.12.2019 bestätigt, Werbekontext ergänzt.
+
+#### G7-12
+
+⚠️ EINGESCHRÄNKT · Angle: Allgemein
+
+**Laut einer Premier-Inn-Umfrage (2024) schlafen 29 % der Befragten leichter, wenn sie das Bett nicht mit dem Partner teilen, und 12 % nennen Deckenklauen als schlimme Bettgewohnheit.**
+
+> “29% of those we asked have an easier time sleeping when they're not sharing the bed with their partner. Some of the worst bedtime habits included snoring (48%), passing wind (16%) and, of course, duvet-hogging (12%). A fifth confessed to duvet-hogging”
+
+- **Quelle:** [Premier Inn, 'DU-VAR check! …' (News 2024)](https://www.premierinn.com/gb/en/news/2024/duvar.html)
+- **Datum der Quelle:** 2024 (vor 30.06.2024) · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** keine Angaben zu n, Institut oder Zeitraum; UK
+- **Einordnung/Einschränkung:** Hotel-PR-Aktion ohne jede Methodik. Das Datum ist aus dem URL-Pfad /2024/ und dem Gewinnspielschluss am 30.06.2024 erschlossen.
+- **Wahrheits-Check:** *bestätigt*. Per curl gelesen, Wortlaut bestätigt. Ergänzt: 'A fifth confessed to duvet-hogging' sowie '12% of Brits kept awake by the habit every single week'.
+
+#### G7-14
+
+⚠️ EINGESCHRÄNKT · Angle: B Wechseljahre
+
+**In der Travelodge-Schlafumfrage (über 100.000 Briten, veröffentlicht 16.10.2025) nannten unter denjenigen, die schlecht schlafen, 45 % 'sich zu heiß oder zu kalt fühlen'. Das ist nach Stress und Angst (über die Hälfte) der zweithäufigste Grund; 25 % nannten Schnarchen oder Deckenklauen des Partners.**
+
+> “more than half of Brits who struggle to sleep cited stress or anxiety as the main culprit. Feeling too hot or cold came in a close second (45%), followed by partners' snoring or hogging the duvet (25%).”
+
+- **Quelle:** [Travelodge Blog, 'Snoozy Q's: What we learnt from our biggest ever sleep survey'](https://www.travelodge.co.uk/blog/news/what-we-learnt-from-our-sleep-survey/)
+- **Datum der Quelle:** 2025-10-16 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** 'over 100,000 Brits', Basis der 45 %: Befragte, die schlecht schlafen; vermutlich selbstselektierte Online-Befragung; Institut und Gewichtung unbekannt
+- **Einordnung/Einschränkung:** Große, aber vermutlich nicht repräsentative Hotelkunden-Umfrage ohne Methodik. Die Basis der 45 % sind nur Schlechtschläfer, nicht alle Befragten. Temperatur und Partner sind getrennte Antwortkategorien.
+- **Wahrheits-Check:** *korrigiert*. Per curl gelesen. Basis 'Brits who struggle to sleep' im Text gefunden und Aussage präzisiert. Datum über article:published_time auf 2025-10-16 festgelegt (vorher 'unbekannt').
+
+### (a)/(c) Unterschiedliche Decken
+
+#### G7-03
+
+⚠️ EINGESCHRÄNKT · Angle: B Wechseljahre, C Bettbeziehen
+
+**In der Direct-Line/Opinium-Studie 2025 steht 'Wanting a thicker or thinner duvet cover' mit 26 % auf Platz 10 der Arten, wie Partner einander wachhalten. Auf welche Befragtengruppe sich der Wert bezieht, ist nicht ausgewiesen.**
+
+> “10 Wanting a thicker or thinner duvet cover 26 per cent”
+
+- **Quelle:** [Direct Line Home Insurance (Direct Line Group/Aviva), Pressemitteilung 'Sleeping apart to stay together'](https://www.aviva.com/newsroom/news-and-research-overview/news-releases/2025/02/sleeping-apart-to-stay-together-/)
+- **Datum der Quelle:** 2025-02-13 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** Opinium, n=2.000 UK-Erwachsene, 31.01.–04.02.2025; Basis nicht ausgewiesen
+- **Einordnung/Einschränkung:** Dies ist der einzige gefundene UK-Wert, der direkt auf unterschiedliche Wärmebedürfnisse bei der Decke zielt. 'Duvet cover' steht wörtlich so da (Bezug, gemeint ist vermutlich die Decke bzw. der Tog-Wert), und die Basis fehlt. Kein Beleg für 'zwei Decken' als Lösung.
+- **Wahrheits-Check:** *korrigiert*. Wert und Wortlaut auf der Seite bestätigt. Aussage korrigiert: Statt '26 % der Befragten' steht jetzt, dass die Basis nicht ausgewiesen ist, und der Originalbegriff 'duvet cover' wird genannt.
+
+### (a) Temperatur im Bett – Kontext Bettzeug
+
+#### G7-15
+
+✅ BELEGT · Angle: Markt, Allgemein
+
+**56 % der Erwachsenen in Großbritannien nutzen je nach Jahreszeit unterschiedliches Bettzeug (z. B. Sommer- und Winterdecke), 41 % dasselbe das ganze Jahr (YouGov, 28.01.2026, n=7.019).**
+
+> “Do you use different bedclothes in warmer and colder seasons (e.g. different duvets in the summer and winter), or do you use the same bedclothes all year round? … Survey conducted on 28 January 2026 on 7019 GB adults … Different bedclothes in warmer and colder seasons 56% / Same bedclothes all year round 41% / Don't know 3%”
+
+- **Quelle:** [YouGov Daily Results, Frage zu saisonalem Bettzeug](https://yougov.com/en-gb/daily-results/20260128-c0a18-3)
+- **Datum der Quelle:** 2026-01-28 · **Typ:** Umfrage (Institut/unabhängig)
+- **Stichprobe/Methodik:** YouGov Daily, n=7.019 GB-Erwachsene, 28.01.2026
+- **Einordnung/Einschränkung:** Unabhängiges Institut, große Stichprobe, aktuell, Fragestellung wörtlich bekannt. Gilt für GB, nicht UK, also ohne Nordirland. Relevant für die Positionierung einer 10,5-Tog-Decke: 41 % nutzen ganzjährig dasselbe Bettzeug.
+- **Wahrheits-Check:** *bestätigt*. Per curl gelesen. Frage, Datum, n=7019 und Werte 56/41/3 % wörtlich bestätigt.
+
+### (b) Sleep divorce UK
+
+#### G7-16
+
+✅ BELEGT · Angle: Allgemein, Markt
+
+**16 % der Erwachsenen in einer Beziehung in UK (hochgerechnet rund 5 Mio. Personen) schlafen in einem anderen Zimmer als ihr Partner (Direct Line/Opinium, Jan./Feb. 2025).**
+
+> “Five million (16 per cent) UK adults in a relationship choose to sleep in a separate room to their partner reveals new research1 from Direct Line Home Insurance.”
+
+- **Quelle:** [Direct Line Home Insurance (Direct Line Group/Aviva), Pressemitteilung 'Sleeping apart to stay together'](https://www.aviva.com/newsroom/news-and-research-overview/news-releases/2025/02/sleeping-apart-to-stay-together-/)
+- **Datum der Quelle:** 2025-02-13 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** Opinium, national repräsentativ, n=2.000 UK-Erwachsene, 31.01.–04.02.2025
+- **Einordnung/Einschränkung:** Aktuellste repräsentative UK-Zahl mit bekanntem Institut und Feldzeit. Sie passt zu YouGov/NBF 2020 (15 %) und YouGov 2022 (18 % kein gemeinsames Bett). Gemeint sind getrennte Zimmer, Basis sind Erwachsene in einer Beziehung, nicht Paare (siehe G7-18). Auftraggeber ist eine Versicherungsmarke.
+- **Wahrheits-Check:** *bestätigt*. Satz und Fußnote auf aviva.com (per curl) wörtlich bestätigt.
+
+#### G7-17
+
+✅ BELEGT · Angle: Allgemein, D Geschenk
+
+**Laut Direct Line/Opinium 2025 schlafen 20 % der über 55-Jährigen getrennt vom Partner, aber nur 10 % der 18- bis 34-Jährigen.**
+
+> “younger couples are less likely to sleep apart—only 10 per cent of those aged 18-34 do so, compared to 20 per cent of adults over 55.”
+
+- **Quelle:** [Direct Line Home Insurance (Direct Line Group/Aviva), Pressemitteilung 'Sleeping apart to stay together'](https://www.aviva.com/newsroom/news-and-research-overview/news-releases/2025/02/sleeping-apart-to-stay-together-/)
+- **Datum der Quelle:** 2025-02-13 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** Opinium, n=2.000 UK-Erwachsene, 31.01.–04.02.2025; Teilgruppen-n nicht genannt
+- **Einordnung/Einschränkung:** Repräsentative Erhebung. Die Altersdifferenz stimmt mit NBF/YouGov 2020 (über 55: 23 %) und YouGov 2022 (60+: 27 % ohne gemeinsames Bett) überein. Die Basis ist vermutlich 'in einer Beziehung', nicht explizit genannt. Relevant für Angle D.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut auf aviva.com (per curl) bestätigt.
+
+#### G7-19
+
+⚠️ EINGESCHRÄNKT · Angle: Allgemein
+
+**Von denen, die getrennt schlafen, sagen laut Direct Line/Opinium 2025 48 %, dies habe ihre Beziehung allgemein verbessert, und 28 %, es habe ihre Beziehung gerettet.**
+
+> “28 per cent of those who sleep separately say it saved their relationship, while nearly half (48 per cent) believe it has helped to generally improve it.”
+
+- **Quelle:** [Direct Line Home Insurance (Direct Line Group/Aviva), Pressemitteilung 'Sleeping apart to stay together'](https://www.aviva.com/newsroom/news-and-research-overview/news-releases/2025/02/sleeping-apart-to-stay-together-/)
+- **Datum der Quelle:** 2025-02-13 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** Opinium, n=2.000 UK-Erwachsene, 31.01.–04.02.2025; Teilgruppe 'getrennt Schlafende' (n nicht genannt)
+- **Einordnung/Einschränkung:** Kleine, nicht ausgewiesene Teilstichprobe und subjektive Selbsteinschätzung. Rein rechnerisch (16 % von Personen in Beziehung) dürfte sie nur wenige hundert Fälle umfassen.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut auf aviva.com bestätigt.
+
+#### G7-20
+
+✅ BELEGT · Angle: Allgemein, Markt
+
+**Laut YouGov für die National Bed Federation (Jan. 2020, n=2.054) schläft fast jedes sechste zusammenlebende Paar in Großbritannien (15 %) getrennt, 89 % davon in getrennten Zimmern.**
+
+> “Nearly one in six (15%) British couples who live together now sleep apart – with almost nine out of 10 (89%) of them doing so in separate rooms.”
+
+- **Quelle:** [National Bed Federation, 'Sleep Divorce Soars'](https://www.bedfed.org.uk/sleep-divorce-soars-2/)
+- **Datum der Quelle:** 2020-02-28 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** YouGov im Auftrag der NBF, online, n=2.054 Erwachsene, gewichtet, repräsentativ für GB (18+), 20.–21.01.2020
+- **Einordnung/Einschränkung:** Seriöses Institut mit offengelegter Methodik. Auftraggeber ist ein Branchenverband, Stand 2020, und die Zahl gilt für GB, nicht UK. Wird durch Direct Line 2025 (16 %) bestätigt. In Ads mit 'laut YouGov (2020)' zitieren.
+- **Wahrheits-Check:** *korrigiert*. Wortlaut, Datum 28.02.2020 und Methodik-Fußnote per curl bestätigt. URL aktualisiert: Die alte Adresse /sleep-divorce-soars leitet auf /sleep-divorce-soars-2/ um.
+
+#### G7-21
+
+✅ BELEGT · Angle: Allgemein, D Geschenk
+
+**Laut NBF/YouGov 2020 schlafen 23 % der über 55-Jährigen getrennt vom Partner, und 25 % der Rentner geben getrennte Betten an.**
+
+> “Sleeping apart was noticeably more common among the over 55s (23%) with a quarter (25%) of retired people saying they had separate beds.”
+
+- **Quelle:** [National Bed Federation, 'Sleep Divorce Soars'](https://www.bedfed.org.uk/sleep-divorce-soars-2/)
+- **Datum der Quelle:** 2020-02-28 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** YouGov für NBF, n=2.054 GB-Erwachsene, 20.–21.01.2020; Teilgruppen-n nicht genannt
+- **Einordnung/Einschränkung:** Repräsentativ für GB, die Teilgruppen haben kein n. Basis vermutlich zusammenlebende Paare, nicht explizit genannt. Hauptgrund ist Schnarchen (Männer 38 %, Frauen 36 %). Temperatur wird unter den berichteten Gründen nicht genannt. Relevant für Angle D.
+- **Wahrheits-Check:** *korrigiert*. Wortlaut bestätigt, URL auf Umleitungsziel aktualisiert. 'Temperatur nicht erhoben' in 'nicht genannt' korrigiert (die Gründeliste ist nur auszugsweise veröffentlicht).
+
+#### G7-22
+
+⚠️ EINGESCHRÄNKT · Angle: Allgemein
+
+**Die NBF stellt ihrer Zahl von 2020 eine Sleep-Council-Umfrage von 2009 mit 7 % getrennten Betten gegenüber und folgert eine ungefähre Verdopplung.**
+
+> “A survey by The Sleep Council in 2009 revealed that less than one couple in 10 (7%) had separate beds, suggesting the rate of separate sleeping has roughly doubled in the past decade.”
+
+- **Quelle:** [National Bed Federation, 'Sleep Divorce Soars'](https://www.bedfed.org.uk/sleep-divorce-soars-2/)
+- **Datum der Quelle:** 2020-02-28 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** 2009: Sleep Council, Methodik nicht angegeben; 2020: YouGov n=2.054
+- **Einordnung/Einschränkung:** Die beiden Umfragen haben unterschiedliche Methodik und Fragestellung (2009 'separate beds', 2020 'sleep apart'), der Trend 'verdoppelt' ist also nur indikativ. Die Methodik der Umfrage von 2009 ist nicht prüfbar.
+- **Wahrheits-Check:** *korrigiert*. Wortlaut bestätigt, URL auf Umleitungsziel /sleep-divorce-soars-2/ aktualisiert.
+
+#### G7-23
+
+✅ BELEGT · Angle: Allgemein, Markt
+
+**Laut YouGov-Schlafstudie (Feb. 2022, n=2.512 GB-Erwachsene ab 16) schlafen 79 % der Briten in einer Beziehung im selben Bett wie ihr Partner, 18 % nicht.**
+
+> “Eight in ten Britons in a relationship (79%) sleep in the same bed with their partner, while one in five (18%) don't.”
+
+- **Quelle:** [YouGov, 'The YouGov Sleep Study: Part two - Sleep habits'](https://yougov.com/en-gb/articles/42963-yougov-sleep-study-part-two-sleep-habits)
+- **Datum der Quelle:** 2022-06-29 · **Typ:** Umfrage (Institut/unabhängig)
+- **Stichprobe/Methodik:** YouGov, national repräsentativ, n=2.512 GB-Erwachsene 16+, 01.–05.02.2022 (Methodik: https://yougov.com/en-gb/articles/42957-yougov-sleep-study)
+- **Einordnung/Einschränkung:** Unabhängige, repräsentative Erhebung mit offengelegter Methodik. Gilt für GB, Stand 2022. Die Basis sind Personen in einer Beziehung, nicht nur zusammenlebende.
+- **Wahrheits-Check:** *bestätigt*. Artikel und Methodikseite per curl gelesen. Wortlaut, Datum 29.06.2022 und 'conducted on 1-5 February 2022 … 2,512 British adults aged 16 and above' bestätigt.
+
+#### G7-24
+
+✅ BELEGT · Angle: Allgemein, B Wechseljahre
+
+**Laut YouGov 2022 sagen 37 % der Briten, sie schliefen allein im Bett besser, und 19 % schlafen mit jemandem besser. Frauen sagen das häufiger (41 %) als Männer (33 %).**
+
+> “When it comes to sleep quality, more Britons say they sleep better when alone in bed (37%) than with someone else (19%). For a third (33%), it makes no difference. Women (41%) are more likely than men (33%) to say they sleep better alone.”
+
+- **Quelle:** [YouGov, 'The YouGov Sleep Study: Part two - Sleep habits'](https://yougov.com/en-gb/articles/42963-yougov-sleep-study-part-two-sleep-habits)
+- **Datum der Quelle:** 2022-06-29 · **Typ:** Umfrage (Institut/unabhängig)
+- **Stichprobe/Methodik:** YouGov, n=2.512 GB-Erwachsene 16+, 01.–05.02.2022
+- **Einordnung/Einschränkung:** Repräsentativ für GB. Die Gründe werden nicht erhoben, eine Temperatur-Ursache ist also nicht belegt.
+- **Wahrheits-Check:** *bestätigt*. Die Geschlechterwerte 41 %/33 %, früher nur paraphrasiert, sind jetzt per curl wörtlich bestätigt und in Aussage und Wortlaut aufgenommen.
+
+#### G7-25
+
+✅ BELEGT · Angle: Allgemein
+
+**Wären Kosten und Platz egal, würden laut YouGov (05.01.2024, n=3.387) 70 % der Erwachsenen in Großbritannien das Bett mit dem Partner teilen, 5 % getrennte Betten im selben Zimmer und 13 % getrennte Zimmer wählen.**
+
+> “Which one of the following would be your preferred sleeping arrangement with a romantic partner? … Survey conducted on 5 January 2024 on 3387 GB adults … My partner and I sharing the same bed 70% / … sleeping in different beds in the same room 5% / … sleeping in different beds in different rooms 13% / None of these 5% / Don't know/prefer not to say 7%”
+
+- **Quelle:** [YouGov Daily Results, Frage zur bevorzugten Schlafanordnung](https://yougov.com/en-gb/daily-results/20240105-2c94c-3)
+- **Datum der Quelle:** 2024-01-05 · **Typ:** Umfrage (Institut/unabhängig)
+- **Stichprobe/Methodik:** YouGov Daily, n=3.387 GB-Erwachsene (inkl. Personen ohne Partner), 05.01.2024
+- **Einordnung/Einschränkung:** Aktuellste unabhängige YouGov-Zahl, eine Umfrage von 2025 wurde nicht gefunden. Sie misst eine hypothetische Präferenz, kein tatsächliches Verhalten, und schließt Singles ein. Gilt für GB.
+- **Wahrheits-Check:** *bestätigt*. Per curl gelesen. Frage, Datum, n und alle Antwortwerte wörtlich bestätigt.
+
+#### G7-26
+
+⚠️ EINGESCHRÄNKT · Angle: Allgemein, B Wechseljahre
+
+**Laut YouGov-Omnibus 2018 würden 15 % der Briten idealerweise in einem anderen Bett als der Partner schlafen (10 % in getrennten Zimmern, 5 % im selben Zimmer), Frauen häufiger (19 %) als Männer (11 %).**
+
+> “15% of Brits favour sleeping in a different bed to their partner. This includes 10% who would prefer to sleep in different beds in different rooms, with the other 5% preferring to sleep in different beds in the same room. … Women are more likely to favour a solitary sleeping situation, with 19% saying they would prefer to snooze in their own bed compared to only 11% of men.”
+
+- **Quelle:** [YouGov, '15% of Brits would rather sleep in a different bed to their romantic partner'](https://yougov.com/en-gb/articles/21345-15-brits-would-rather-sleep-different-bed-their-ro)
+- **Datum der Quelle:** 2018-08-23 · **Typ:** Umfrage (Institut/unabhängig)
+- **Stichprobe/Methodik:** YouGov Omnibus, GB, 2018; n und Feldzeit nicht im Artikel
+- **Einordnung/Einschränkung:** Veraltet (2018) und durch YouGov 2024 abgelöst (18 %). Es geht um eine Präferenz, nicht um Verhalten. Der Geschlechterunterschied wird im Artikel mit Schnarchen und leichterem Schlaf erklärt, nicht mit Temperatur.
+- **Wahrheits-Check:** *bestätigt*. Per curl gelesen. Datum 23 August 2018 und alle Werte bestätigt, Aufschlüsselung 10 %/5 % ergänzt.
+
+### (b) Sleep divorce UK – Mythos
+
+#### G7-18
+
+❌ NICHT BELEGT / MYTHOS · Angle: Allgemein
+
+**Die Aussage, dass 5 Millionen britische Paare in getrennten Zimmern schlafen, ist so nicht belegt. Laut Text der Studie sind es 5 Mio. Erwachsene (16 %) in einer Beziehung, also höchstens rund 2,5 Mio. Paare.**
+
+> “Five million couples choose to sleep in separate rooms … Five million (16 per cent) UK adults in a relationship choose to sleep in a separate room to their partner”
+
+- **Quelle:** [Direct Line Home Insurance (Direct Line Group/Aviva), Pressemitteilung (Überschrift vs. Fließtext)](https://www.aviva.com/newsroom/news-and-research-overview/news-releases/2025/02/sleeping-apart-to-stay-together-/)
+- **Datum der Quelle:** 2025-02-13 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** Opinium, n=2.000 UK-Erwachsene, 31.01.–04.02.2025
+- **Einordnung/Einschränkung:** Die Überschrift spricht von 'couples', der Fließtext von 'adults in a relationship', und auch 'Nearly half of these couples (48 per cent)' vermischt die Einheiten. Laut Suchergebnis nennt die Direct-Line-Folgemitteilung 'Sleeping apart, closer at heart' 'Two and a half million (16 per cent) couples'. Diese Seite leitet aber auf die aviva.com-Startseite um und war nicht selbst lesbar. In Ads nur '16 % der Erwachsenen in einer Beziehung' verwenden.
+- **Wahrheits-Check:** *bestätigt*. Widerspruch zwischen Überschrift und Fließtext auf aviva.com bestätigt. Folgemitteilung (directlinegroup.co.uk) per curl und WebFetch versucht: 301-Umleitung auf aviva.com, Inhalt nur aus Suchsnippet bekannt. Begründung entsprechend präzisiert.
+
+### (b) Sleep divorce UK – Sealy 36 %
+
+#### G7-27
+
+⚠️ EINGESCHRÄNKT · Angle: Allgemein
+
+**Sealy UK meldete 2019 aus einer Umfrage unter 1.000 Personen, dass 36 % der zusammenlebenden Paare regelmäßig allein schlafen. Nur 10 % gaben an, dies dauerhaft zu tun.**
+
+> “New research from bed brand Sealy UK shows that over one third (36 per cent) of couples that live together regularly ditch our partners and sleep alone. … The survey questioned 1,000 people from around the UK. … those aged 24-35 are most likely to sleep apart (21 per cent), as are those living in the south of England (62 per cent). It's not necessarily every night – only 10 per cent admitted it was a permanent thing.”
+
+- **Quelle:** [Ideal Home, 'How many co-habiting couples sleep in separate beds? The results are in...' (Sealy-Studie)](https://www.idealhome.co.uk/news/couples-sleep-in-separate-beds-220725)
+- **Datum der Quelle:** 2019-02-11 · **Typ:** Presse
+- **Stichprobe/Methodik:** n=1.000 UK-Befragte, Sealy UK; Institut und Zeitraum unbekannt
+- **Einordnung/Einschränkung:** Matratzenmarken-PR ohne Institut und Methodik, von 2019, Original nicht auffindbar. Die Angaben widersprechen sich: Die 24- bis 35-Jährigen seien 'most likely' mit 21 % (weniger als die 36 % insgesamt), der Süden Englands liegt bei 62 %. Die Zahl ist mehr als doppelt so hoch wie in repräsentativen Erhebungen (15–18 %). Nicht als 'jedes dritte britische Paar' verwenden.
+- **Wahrheits-Check:** *bestätigt*. Per curl gelesen. Datum 11.02.2019 und Wortlaut bestätigt. Ergänzt: 'only 10 per cent … permanent' und der innere Widerspruch zur Altersgruppe 24–35.
+
+### (b) Sleep divorce UK – Mythos 'mehr als die Hälfte'
+
+#### G7-28
+
+❌ NICHT BELEGT / MYTHOS · Angle: Allgemein
+
+**Die Aussage, dass mehr als die Hälfte (51 %) der Briten bzw. 'die meisten Paare' getrennt schlafen (Mattress Online, 1.000 Befragte, 2022), ist als Tatsachenbehauptung nicht belegt.**
+
+> “Most Couples Would Sleep Apart For Better Rest … Published 07 Jan 2022·Last Updated 05 Oct 2026 … in our recent survey of 1,000 Brits, more than half (51%) said they sleep in a different bed or room to get a better night's sleep! … More than half of couples already do.”
+
+- **Quelle:** [Mattress Online Blog, 'Most Couples Would Sleep Apart For Better Rest' (URL-Slug: 'over-half-of-brits-would-sleep-apart-from-their-partners')](https://www.mattressonline.co.uk/blog/sleep-better/over-half-of-brits-would-sleep-apart-from-their-partners/)
+- **Datum der Quelle:** 2022-01-07 (zuletzt aktualisiert 2026-10-05) · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** n=1.000 Briten; Institut und Zeitraum nicht genannt
+- **Einordnung/Einschränkung:** Dieselbe Zahl erscheint als Wunsch ('would sleep apart', Überschrift und URL), als Verhalten ('said they sleep in a different bed or room') und inzwischen als 'More than half of couples already do'. Staffordshire Live (18.01.2022) gab sie als 'would prefer to sleep apart' wieder. Institut fehlt. Repräsentative Erhebungen liegen bei 15–18 %. Für Ads ungeeignet.
+- **Wahrheits-Check:** *korrigiert*. Per curl gelesen. Titel geändert ('Most Couples Would Sleep Apart For Better Rest'), 'Last Updated 05 Oct 2026' und neue Zuspitzung 'More than half of couples already do' festgestellt; Quelle und Wortlaut aktualisiert. Abweichende Wiedergabe in Staffordshire Live 2022 per curl geprüft. Unbelegtheit bestätigt.
+
+### (b) Sleep divorce UK – Sleep Charity
+
+#### G7-30
+
+⚠️ EINGESCHRÄNKT · Angle: Allgemein, D Geschenk
+
+**Laut einer von The Sleep Charity veröffentlichten Umfrage unter 1.000 UK-Bewohnern (Dez. 2021) bevorzugen UK-weit 12 % der Paare getrennte Betten, in Nordirland 21 %, bei über 65-Jährigen 22 %.**
+
+> “More than a fifth (21%) of couples in Northern Ireland prefer to catch their shuteye in separate beds, compared to a UK-wide average of 12%, and just 9% in the East Midlands and the South East. The survey of 1,000 UK residents also reveals that females have a slight preference for sharing a bed with their partner compared to males, while those who've typically been married the longest – aged 65 and over – are most likely to sleep apart.”
+
+- **Quelle:** [The Sleep Charity, 'New Data Reveals Which Types Of Couples Prefer To Sleep Apart'](https://thesleepcharity.org.uk/new-data-reveals-which-types-of-couples-prefer-to-sleep-apart/)
+- **Datum der Quelle:** 2021-12-07 · **Typ:** Fachgesellschaft/Charity
+- **Stichprobe/Methodik:** 'survey of 1,000 UK residents'; Institut, Zeitraum und Auftraggeber nicht genannt
+- **Einordnung/Einschränkung:** Charity als Herausgeber, aber ohne Institut, Feldzeit und Auftraggeber. Bei n=1.000 sind die Regionalwerte sehr unsicher. Es geht um Präferenz, nicht Verhalten. Die Quelle widerspricht sich selbst: Laut Text bevorzugen Frauen eher das gemeinsame Bett, laut Tabelle wollen Frauen häufiger getrennt schlafen (13 %) als Männer (11 %).
+- **Wahrheits-Check:** *bestätigt*. Per curl gelesen. Datum 7.12.2021, Wortlaut und Tabellen (65+ 22 %, 18–24 0 %) bestätigt, innerer Widerspruch beim Geschlecht ergänzt.
+
+### (b) Sleep divorce UK – Dreams
+
+#### G7-31
+
+⚠️ EINGESCHRÄNKT · Angle: Allgemein
+
+**Laut einer von Dreams beauftragten Umfrage unter 2.000 Erwachsenen in einer Beziehung (April 2025) ist ein Drittel der Briten wegen Schnarchen oder Deckenklauen nicht 'schlafkompatibel' mit dem Partner, und ein Fünftel nutzt häufig getrennte Zimmer.**
+
+> “A third of Brits are not 'sleep compatible' with their partner - due to snoring or duvet hogging - with a fifth frequently using separate rooms. A poll of 2,000 adults in a relationship revealed 33 per cent with sleep issues admitted it is the biggest problem in their relationship … and 20 per cent have to lie next to a bedsheet hogger. The research was commissioned by Dreams”
+
+- **Quelle:** [Yahoo/SWNS, 'A third of Brits are not "sleep compatible" with their partner' (Dreams-Studie)](https://ca.style.yahoo.com/third-brits-not-sleep-compatible-073854843.html)
+- **Datum der Quelle:** 2025-04-14 · **Typ:** Presse
+- **Stichprobe/Methodik:** n=2.000 Erwachsene in einer Beziehung, im Auftrag von Dreams (über SWNS); Institut und Feldzeit nicht genannt
+- **Einordnung/Einschränkung:** Händler-PR über eine Nachrichtenagentur, Institut fehlt. 'Frequently using separate rooms' ist nicht definiert. Temperatur wird nicht genannt. Die Dreams-Originalmitteilung wurde nicht gefunden.
+- **Wahrheits-Check:** *bestätigt*. Per curl gelesen. Datum 14.04.2025 und Wortlaut bestätigt, Zusatzwerte (33 %, 20 %) ergänzt.
+
+### (b) Sleep divorce UK – Mythos '8 von 10 Paaren'
+
+#### G7-32
+
+❌ NICHT BELEGT / MYTHOS · Angle: Allgemein
+
+**Die Aussage, dass 8 von 10 britischen Paaren schon getrennt geschlafen haben und 29 % dauerhaft (Samsung-Studie 2023), ist nicht belegt.**
+
+> “The United Kingdom is a nation of "sleep divorcees," with 8 in 10 couples having slept apart before, a fifth of the nation sleeping apart regularly, and 29% of couples doing so permanently … according to research commissioned by Samsung for the launch of the Galaxy Watch6.”
+
+- **Quelle:** [Sleep Review, 'Why More UK Couples Are Saying Goodnight to Shared Beds'](https://sleepreviewmag.com/sleep-health/demographics/relationship-status/why-uk-couples-saying-goodnight-shared-beds/)
+- **Datum der Quelle:** 2023-10-13 · **Typ:** Presse
+- **Stichprobe/Methodik:** keine Angaben zu n, Institut oder Zeitraum; Auftraggeber Samsung (Produktlaunch)
+- **Einordnung/Einschränkung:** Produkt-PR ohne Methodik. 29 % 'dauerhaft' widerspricht allen repräsentativen Werten (15–18 % insgesamt). Die Regionalangaben (Nordirland 73 %, Yorkshire 71 %) beziehen sich laut Text auf 'sleep disruption as the main reason' und sind keine Anteile getrennt Schlafender. Nicht verwenden.
+- **Wahrheits-Check:** *bestätigt*. Per curl gelesen. Datum 13.10.2023 und Wortlaut bestätigt, Unbelegtheit bestätigt.
+
+### (c) Skandinavische Schlafmethode
+
+#### G7-33
+
+⚠️ EINGESCHRÄNKT · Angle: Allgemein, C Bettbeziehen
+
+**Stylist begründet die skandinavische Zwei-Decken-Methode für britische Paare nur mit einer YouGov-Zahl von 2019 (27 % werfen dem Partner vor, zu viel zu beanspruchen), nicht mit einer Umfrage zur Nutzung zweier Decken.**
+
+> “Given that, according to a 2019 YouGov survey, 27% of Brits have accused their partner of taking up more than their fair share of the bedclothes, the most striking benefit is simple: it puts an end to duvet-hogging for good.”
+
+- **Quelle:** [Stylist, 'Could this Scandinavian hack help couples get a better night's sleep?'](https://www.stylist.co.uk/health/sleep/scandinavian-sleep-method/737553)
+- **Datum der Quelle:** 2023-03-17 · **Typ:** Presse
+- **Stichprobe/Methodik:** verweist auf YouGov 2019 (>1.000 Bettteiler, GB)
+- **Einordnung/Einschränkung:** Stylist macht aus YouGovs 'more than their fair share' (Bettplatz) ein 'of the bedclothes' und deutet die Zahl damit leicht um (vgl. G7-09). Daten zur Verbreitung der Zwei-Decken-Methode in UK nennt der Artikel nicht, belegt ist nur der Bedarf.
+- **Wahrheits-Check:** *bestätigt*. Per curl gelesen (Umleitung auf www.stylist.co.uk). Datum 17.03.2023 und Wortlaut bestätigt, Satz im Wortlaut vervollständigt.
+
+#### G7-34
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen, Allgemein
+
+**Ein britischer Bettwaren-Ratgeber zum Thema 'eine vs. zwei Decken' nennt als einzige Zahl eine Hastings-Hotels-Umfrage, nach der 13 % der UK-Erwachsenen Deckenklauen als zweitlästigste Eigenschaft beim Bett-Teilen sehen. Eine Zahl zur Nutzung zweier Decken nennt er nicht.**
+
+> “A recent sleep survey conducted by Hastings Hotels revealed that 13% of UK adults find duvet hogging the second most annoying characteristic when it comes to sharing a bed with a partner.”
+
+- **Quelle:** [The Original Bedstead Co. (OBC) Blog, 'One double duvet vs two single duvets? A review of what couples do by country'](https://www.obc-uk.net/blog/one-vs-two-duvets-around-the-world)
+- **Datum der Quelle:** unbekannt (Text verweist auf Forbes 'Top 27 Countries to Travel To in 2020', vermutlich 2019/2020) · **Typ:** Händler-/Hersteller-Ratgeber
+- **Stichprobe/Methodik:** Hastings Hotels (Nordirland); n, Institut und Zeitraum unbekannt
+- **Einordnung/Einschränkung:** Zitat aus zweiter Hand ohne Datum und Methodik. Die Länderangaben im Artikel sind qualitativ. Zeigt, dass selbst spezialisierte UK-Ratgeber keine Daten zur Verbreitung der Zwei-Decken-Lösung in UK haben.
+- **Wahrheits-Check:** *korrigiert*. Per curl gelesen, Wortlaut vervollständigt. Datum über den Forbes-2020-Verweis eingegrenzt.
+
+### (c) Skandinavische Schlafmethode – Mythos
+
+#### G7-36
+
+❌ NICHT BELEGT / MYTHOS · Angle: C Bettbeziehen, Allgemein
+
+**Die Medienbehauptung, die skandinavische Schlafmethode mit zwei Decken 'rette Ehen', ist durch keine Studie oder UK-Umfrage belegt.**
+
+> “The Scandinavian sleep method that's saving marriages, according to experts … Relationship therapists have likened it to the sleep equivalent of separate bathroom sinks. … And sleep experts agree.”
+
+- **Quelle:** [AOL Lifestyle, Michelle Goldstein for Lunya (US-Loungewear-Händler)](https://www.aol.com/lifestyle/scandinavian-sleep-method-thats-saving-230849829.html)
+- **Datum der Quelle:** 2025-10-03 · **Typ:** Presse
+- **Einordnung/Einschränkung:** Der Artikel ist ein Händlertext (Lunya) mit US-Bezug. Er stützt sich auf anonyme Experten ('says one sleep psychologist') und nicht überprüfte Sekundärbehauptungen (z. B. 'Sleep Research Society reports that up to 30%…'). Daten zu Beziehungsqualität oder Schlaf mit zwei Decken enthält er nicht. Keine Wirkungsbehauptung in Ads.
+- **Wahrheits-Check:** *korrigiert*. Seite jetzt per curl selbst geöffnet. Datum 03.10.2025 und Autorschaft 'for Lunya' ergänzt, Wortlaut erweitert. Unbelegtheit bestätigt.
+
+### (d) Menopause und gemeinsames Bett
+
+#### G7-37
+
+⚠️ EINGESCHRÄNKT · Angle: B Wechseljahre
+
+**Laut Silentnight/OnePoll (August 2023, 1.000 Frauen in Menopause oder Perimenopause in einer Beziehung) schlafen 4 von 10 wegen menopausebedingter Schlafprobleme getrennt vom Partner bzw. in einem separaten Bett.**
+
+> “found that 4 in 10 women going through the menopause are having to sleep in a separate bed to their partner due to sleep issues brought on by the transition.”
+
+- **Quelle:** [Tom's Guide, 'New study reveals menopausal women lose 2.5 hours' sleep a night' (Silentnight-Studie)](https://www.tomsguide.com/news/new-study-reveals-menopausal-women-lose-25-hours-sleep-a-night)
+- **Datum der Quelle:** 2023-10-03 · **Typ:** Presse
+- **Stichprobe/Methodik:** OnePoll, n=1.000 Frauen in Menopause/Perimenopause in Beziehung, August 2023 (Fußnote bei Luxurious Magazine: '¹ OnePoll survey of 1000 menopausal/peri-menopausal women, August 2023.')
+- **Einordnung/Einschränkung:** Einzige gefundene UK-Umfrage zu Menopause und gemeinsamem Bett mit genannter Methodik, aber Marken-PR (OnePoll). Die Silentnight-Originalmitteilung fehlt. Die Formulierung schwankt zwischen 'separate bed' (Tom's Guide) und 'regularly sleep separately' (Luxurious Magazine, Staffordshire Live). Gilt nur für Frauen in Beziehung in (Peri-)Menopause.
+- **Wahrheits-Check:** *bestätigt*. Tom's Guide und Luxurious Magazine per curl gelesen. Wortlaut, Datum 03.10.2023 und OnePoll-Fußnote bestätigt. Originalmitteilung trotz Suche nicht gefunden.
+
+#### G7-38
+
+⚠️ EINGESCHRÄNKT · Angle: B Wechseljahre
+
+**In der Silentnight/OnePoll-Studie 2023 berichteten 61 % der Frauen in Menopause oder Perimenopause von Nachtschweiß und Überhitzung, 41 % von Schlaflosigkeit.**
+
+> “61% experience night sweats and overheating … "61% experience night sweats, 41% suffer from insomnia and 23% endure heart palpitations, according to our research,"”
+
+- **Quelle:** [Tom's Guide (Silentnight-Studie, Zitat Hannah Shore)](https://www.tomsguide.com/news/new-study-reveals-menopausal-women-lose-25-hours-sleep-a-night)
+- **Datum der Quelle:** 2023-10-03 · **Typ:** Presse
+- **Stichprobe/Methodik:** OnePoll, n=1.000 Frauen in Menopause/Perimenopause in Beziehung, August 2023
+- **Einordnung/Einschränkung:** Marken-PR und nicht repräsentativ für alle Frauen in der Menopause (nur solche in Beziehung, Panel). Häufigkeitszahlen zu Nachtschweiß besser aus NHS/BMS-Quellen (andere Tracks) nehmen.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut (Key-Findings-Liste und Shore-Zitat) per curl bestätigt.
+
+#### G7-39
+
+⚠️ EINGESCHRÄNKT · Angle: B Wechseljahre
+
+**Laut Silentnight/OnePoll 2023 sagen 48 % der befragten Frauen in Menopause oder Perimenopause, schlechter Schlaf durch die Menopause habe ihrer Beziehung geschadet, und über zwei Drittel führen regelmäßige Streits mit dem Partner auf ihre Symptome zurück.**
+
+> “Nearly half of women (48%) claim poor sleep caused by menopause has had a negative impact on their relationship, with over two-thirds saying symptoms regularly result in arguments with their partner. … ¹ OnePoll survey of 1000 menopausal/peri-menopausal women, August 2023.”
+
+- **Quelle:** [Luxurious Magazine, '40% of Menopausal Women Regularly Sleep in a Separate Bed from their Partner' (Silentnight-Studie)](https://www.luxuriousmagazine.com/menopausal-women-sleep-study)
+- **Datum der Quelle:** 2023-10-03 · **Typ:** Presse
+- **Stichprobe/Methodik:** OnePoll, n=1.000 Frauen in Menopause/Perimenopause in Beziehung, August 2023
+- **Einordnung/Einschränkung:** Marken-PR. 'Arguments' bezieht sich auf alle Symptome, nicht nur auf Temperatur. Gleicher Text bei Staffordshire Live (04.10.2023).
+- **Wahrheits-Check:** *korrigiert*. URL von Staffordshire Live (veröffentlicht 04.10.2023, ohne Prozentzahl 48 %) auf Luxurious Magazine geändert: Die Seite enthält beide Aussagen wörtlich und die Methodik-Fußnote. Datum präzisiert.
+
+#### G7-41
+
+⚠️ EINGESCHRÄNKT · Angle: B Wechseljahre
+
+**Laut einer von Woolroom beauftragten Umfrage unter Frauen mit Menopause-Symptomen ist 'sich zu heiß fühlen' mit 68 % das größte Schlafhindernis, 74 % haben Nachtschweiß.**
+
+> “The biggest barrier preventing women from getting a decent night's sleep was feeling too hot (68%) … Feeling too hot (68%), getting sweaty nightwear or sheets (45%) and feeling anxiety due to hormonal changes (40%) among the culprits for lost sleep … the majority (74%) suffering from night sweats.”
+
+- **Quelle:** [Woolroom (Wollbettwaren-Händler) Blog, 'Menopausal women reveal the extreme lengths they go to'](https://www.thewoolroom.com/blogs/learning/menopause-awareness-campaign)
+- **Datum der Quelle:** unklar (Seiten-Metadaten 2025-07-29; Text verweist auf Radiotermine u. a. 'TalkRadio with Vanessa Feltz', Erhebung daher vermutlich älter) · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** keine Angaben zu n, Institut, Zeitraum und Region (Text spricht von 'women around the UK')
+- **Einordnung/Einschränkung:** Händler-PR (wirbt für Wolle) ohne jede Methodik. Das Erhebungsjahr ist unklar. Die verlinkte 'Leeds University'-Studie zur Feuchtigkeitsdurchlässigkeit ist ein separater Labortest.
+- **Wahrheits-Check:** *korrigiert*. Per curl gelesen (Umleitung auf /en-us/). Wortlaut bestätigt, Seitentitel korrigiert. Datum als unsicher markiert, weil der Text auf ältere Radiotermine verweist.
+
+#### G7-42
+
+⚠️ EINGESCHRÄNKT · Angle: B Wechseljahre
+
+**In der Woolroom-Umfrage gaben 8 % der Frauen mit Menopause-Symptomen an, ihren Partner in ein anderes Zimmer zu schicken, und 14 % verlassen selbst das Bett, um sich abzukühlen.**
+
+> “Some (14%) will even abandon their bed in a bid to cool down … One in 10 (8%) women will even turf their partner out into another room.”
+
+- **Quelle:** [Woolroom Blog, 'Menopausal women reveal the extreme lengths they go to'](https://www.thewoolroom.com/blogs/learning/menopause-awareness-campaign)
+- **Datum der Quelle:** unklar (Metadaten 2025-07-29, Erhebung vermutlich älter) · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** keine Angaben zu n, Institut und Zeitraum
+- **Einordnung/Einschränkung:** Händler-PR ohne Methodik. 'One in 10 (8%)' ist ungenau. Das Testimonial ('king-size bed and sleep at separate ends') ist eine Einzelaussage. Nur als qualitativer Hook geeignet, nicht als Statistik.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut und Testimonial per curl bestätigt.
+
+### (d) Menopause und gemeinsames Bett – Mythos Partner-Schlafverlust
+
+#### G7-40
+
+❌ NICHT BELEGT / MYTHOS · Angle: B Wechseljahre
+
+**Die Aussage, dass Partner von Frauen in der Menopause im Schnitt 2,5 Stunden Schlaf pro Nacht (37 Tage pro Jahr) verlieren, ist nicht belegt. Dieselbe Silentnight-Zahl wird teils den Frauen, teils den Partnern zugeschrieben.**
+
+> “67% lose an average of 2.5 hours of sleep a night, adding up to 37 days a year [Tom's Guide, Liste der Ergebnisse der Frauenbefragung] vs. The study found over two-thirds (67%) of those in a relationship with menopausal women also suffer from sleep issues, losing an average of two and a half hours of sleep per night. [Luxurious Magazine]”
+
+- **Quelle:** [Tom's Guide und Luxurious Magazine (Silentnight-Studie)](https://www.tomsguide.com/news/new-study-reveals-menopausal-women-lose-25-hours-sleep-a-night)
+- **Datum der Quelle:** 2023-10-03 · **Typ:** Presse
+- **Stichprobe/Methodik:** OnePoll, n=1.000 Frauen in Menopause/Perimenopause, August 2023; Partner wurden laut Fußnote nicht befragt
+- **Einordnung/Einschränkung:** Laut Fußnote wurden nur Frauen befragt. Eine Aussage über den Schlaf der Partner wäre höchstens eine Fremdeinschätzung, und die Medien schreiben die Zahl widersprüchlich zu. Die '37 Tage' sind hochgerechnet. Nicht in Ads verwenden.
+- **Wahrheits-Check:** *bestätigt*. Tom's Guide, Luxurious Magazine und Staffordshire Live per curl gelesen. Widersprüchliche Zuordnung bestätigt, Unbelegtheit bestätigt.
+
+### (d) Menopause und gemeinsames Bett – Partnerperspektive (USA)
+
+#### G7-43
+
+⚠️ EINGESCHRÄNKT · Angle: B Wechseljahre
+
+**In der US-amerikanischen MATE-Studie (Mai 2018, 450 Männer mit Partnerinnen von 45–64 Jahren mit Wechseljahressymptomen) waren 63 % persönlich von den Symptomen betroffen. Von diesen nannten 10 % Schlafprobleme als Folge.**
+
+> “Of those who were affected by symptoms (63%), most men reported they negatively impacted them (77%), their partners (70%), and relationships (56%). [Abstract] … men affected by menopausal symptoms noted that the symptoms put an emotional strain on their relationships (34%; …), reduced the frequency of sex/intimacy (33%), and contributed to trouble sleeping (10%). [Volltext]”
+
+- **Quelle:** [Parish SJ et al., 'The MATE survey: men's perceptions and attitudes towards menopause and their role in partners' menopausal transition', Menopause 2019;26(10):1110–1116](https://pubmed.ncbi.nlm.nih.gov/31188286/)
+- **Datum der Quelle:** 2019-10 · **Typ:** Peer-Review-Studie
+- **Stichprobe/Methodik:** Online-Survey (Cint-Panel), n=450 Männer in den USA (Rücklauf 33 % von 1.356), Partnerinnen 45–64 J. mit mind. 1 Symptom, durchgeführt von TherapeuticsMD im Mai 2018
+- **Einordnung/Einschränkung:** Peer-reviewt, aber nur USA, Industrie-finanziert ('This survey was funded by TherapeuticsMD') und ohne Temperatur- oder Bettfrage. Zeigt, dass Schlafprobleme der Partner nur bei einer Minderheit als Folge genannt werden.
+- **Wahrheits-Check:** *bestätigt*. Abstract per NCBI E-Utilities (PMID 31188286) und Volltext per Europe PMC (PMC6791510) in dieser Sitzung abgerufen. 63 % (284/450), 10 % 'trouble sleeping', 'May, 2018', Cint und Finanzierung wörtlich bestätigt.
+
+### (e) Kingma & van Marken Lichtenbelt 2015
+
+#### G7-44
+
+⚠️ EINGESCHRÄNKT · Angle: B Wechseljahre, Allgemein
+
+**Laut Abstract basieren die Standardwerte für die Stoffwechselrate in Raumklima-Normen auf einem Durchschnittsmann und können die Stoffwechselrate von Frauen um bis zu 35 % überschätzen.**
+
+> “Indoor climate regulations are based on an empirical thermal comfort model that was developed in the 1960s. Standard values for one of its primary variables — metabolic rate — are based on an average male, and may overestimate female metabolic rate by up to 35%.”
+
+- **Quelle:** [Kingma B, van Marken Lichtenbelt W, 'Energy consumption in buildings and female thermal demand', Nature Climate Change 5(12):1054–1056, DOI 10.1038/nclimate2741 (Abstract via IIR-FRIDOC-Datenbank)](https://iifiir.org/en/fridoc/energy-consumption-in-buildings-and-female-thermal-demand-138619)
+- **Datum der Quelle:** 2015-08-03 · **Typ:** Peer-Review-Studie
+- **Stichprobe/Methodik:** 16 junge Frauen, leichte Büroarbeit, Labor (Maastricht); keine männliche Vergleichsgruppe
+- **Einordnung/Einschränkung:** Peer-reviewt, aber 'bis zu 35 %' ist eine Obergrenze und kein Durchschnitt. Die Studie behandelt Gebäude und Büros, nicht Betten, Bettdecken oder Paare. Der Volltext ist hinter einer Paywall.
+- **Wahrheits-Check:** *bestätigt*. IIR-Seite per curl gelesen: Abstract wörtlich, 'Publication date: 2015/08/03', DOI 10.1038/nclimate2741 (doi.org → nature.com). Europe-PMC-REST-Suche nach DOI und Titelbegriffen: 0 Treffer.
+
+#### G7-45
+
+⚠️ EINGESCHRÄNKT · Angle: B Wechseljahre
+
+**Laut Science News hatten die 16 jungen Frauen der Studie bei leichter Büroarbeit eine durchschnittliche (Ruhe-)Stoffwechselrate von 48 W/m² statt der Standardannahme von 58 W/m² für einen 40-jährigen 70-kg-Mann und fühlten sich bei 23–26 °C wohl.**
+
+> “This hypothetical guy has a resting metabolic rate of 58 watts per square meter. … he measured the thermal states of 16 young women wearing socks, underwear, sweatpants and t-shirts as they sat in a room doing light office work. … The women had an average resting metabolic rate of 48 watts per square meter … Women are also comfortable at higher temperatures — between 23° and 26° Celsius”
+
+- **Quelle:** [Science News (Scicurious-Blog), 'Building standards aren't to blame for chilly offices'](https://www.sciencenews.org/blog/scicurious/building-standards-arent-blame-chilly-offices)
+- **Datum der Quelle:** 2015-08-11 · **Typ:** Presse
+- **Stichprobe/Methodik:** n=16 junge Frauen, leichte Kleidung, sitzende Büroarbeit, variierende Raumtemperatur
+- **Einordnung/Einschränkung:** Seriöse Wissenschaftspresse, aber Sekundärquelle, Volltextzahlen wegen Paywall nicht im Paper geprüft. Sehr kleine Stichprobe, nur Frauen, Bürosituation am Tag, keine Übertragung auf Schlaf oder Bett möglich. Gail Brager (UC Berkeley) im selben Artikel: 'this well-done study does not offer us that answer'.
+- **Wahrheits-Check:** *korrigiert*. Per curl gelesen. Datum 'August 11, 2015' und Zahlen bestätigt. Präzisiert: Die Quelle spricht von 'resting metabolic rate', der Referenzwert 58 W/m² gilt für einen 40-jährigen 70-kg-Mann.
+
+### (e) Kingma 2015 – Mythos 'Frauen brauchen 2,5 °C mehr'
+
+#### G7-46
+
+❌ NICHT BELEGT / MYTHOS · Angle: B Wechseljahre
+
+**Die verbreitete Aussage, die Kingma-Studie belege, dass Frauen es generell 2,5–3 °C wärmer brauchen als Männer, ist nicht belegt. In der Studie wurden keine Männer gemessen.**
+
+> “Also their study is not conclusive. They only studied 16 females at a sedentary activity. They should also have studied 16 men at the same activity to be able to compare.”
+
+- **Quelle:** [REHVA Journal 05/2015, Bjarne W. Olesen (DTU), 'Are women feeling colder than men in air-conditioning buildings?'](https://www.rehva.eu/rehva-journal/chapter/are-women-feeling-colder-than-men-in-air-conditioning-buildings)
+- **Datum der Quelle:** 2015 (REHVA Journal Ausgabe 05/2015) · **Typ:** Fachgesellschaft/Charity
+- **Einordnung/Einschränkung:** Medien leiten einen Geschlechtervergleich ab, den das Studiendesign ohne Männergruppe nicht hergibt, und das Abstract nennt keine solche Differenz. Olesen hält die Studie für nicht schlüssig. Für Ads (z. B. 'Frauen frieren nachts nachweislich mehr') nicht verwenden.
+- **Wahrheits-Check:** *korrigiert*. Per curl gelesen, Wortlaut bestätigt. Datum ergänzt: Die Seite ordnet den Beitrag REHVA Journal 05/2015 zu. Das frühere Beispielzitat (Pharmacy Daily) wurde nicht selbst geprüft und ist aus der Begründung entfernt.
+
+### (e) Kingma 2015 – Gegenposition
+
+#### G7-47
+
+⚠️ EINGESCHRÄNKT · Angle: B Wechseljahre
+
+**Laut Olesen (REHVA) zeigen klassische Laborstudien mit gleich vielen Männern und Frauen bei gleicher Kleidung und Tätigkeit nahezu gleiche Temperaturpräferenzen. Feldstudien zeigen aber, dass Frauen häufiger thermische Unzufriedenheit äußern, besonders bei kühleren Bedingungen.**
+
+> “The experiments show that men and women prefer almost the same thermal environments. Women's skin temperature and evaporative loss are slightly lower than those for men, and this balances the somewhat lower metabolism of women. … A Meta-analysis shows that females are more likely than males to express thermal dissatisfaction (ratio: 1.74, 95% confidence interval: 1.61–1.89). Females are more sensitive than males to a deviation from an optimal temperature and express more dissatisfaction, especially in cooler conditions.”
+
+- **Quelle:** [REHVA Journal 05/2015, Bjarne W. Olesen, 'Are women feeling colder than men in air-conditioning buildings?'](https://www.rehva.eu/rehva-journal/chapter/are-women-feeling-colder-than-men-in-air-conditioning-buildings)
+- **Datum der Quelle:** 2015 (REHVA Journal Ausgabe 05/2015) · **Typ:** Fachgesellschaft/Charity
+- **Stichprobe/Methodik:** Verweis auf Fanger (1982), Fanger & Langkilde (1975), Nevins et al. (1966) sowie Meta-Analyse (Karjalainen 2011)
+- **Einordnung/Einschränkung:** Expertenkommentar in einem Fachjournal, der sich auf ältere Laborstudien und eine Meta-Analyse stützt. Das Thema ist umstritten, und beide Seiten beziehen sich auf Innenräume tagsüber, nicht auf den Schlaf.
+- **Wahrheits-Check:** *korrigiert*. Per curl gelesen. Wortlaut um die Meta-Analyse-Passage (Ratio 1,74) ergänzt, Aussage ausgewogen formuliert, Datum über die Ausgabe 05/2015 ergänzt.
+
+### (b) Sleep divorce UK – Ältere (Angle D)
+
+#### G7-V01
+
+✅ BELEGT · Angle: D Geschenk, Allgemein
+
+**Laut YouGov-Schlafstudie (Feb. 2022) schläft mehr als jeder vierte Brite ab 60 Jahren in einer Beziehung (27 %) nicht im selben Bett wie der Partner.**
+
+> “Among Britons aged 60 and above, more than one in four (27%) do not sleep in the same bed as their partner.”
+
+- **Quelle:** [YouGov, 'The YouGov Sleep Study: Part two - Sleep habits'](https://yougov.com/en-gb/articles/42963-yougov-sleep-study-part-two-sleep-habits)
+- **Datum der Quelle:** 2022-06-29 · **Typ:** Umfrage (Institut/unabhängig)
+- **Stichprobe/Methodik:** YouGov, national repräsentativ, n=2.512 GB-Erwachsene 16+, 01.–05.02.2022; Teilgruppe 60+ in Beziehung (n nicht genannt)
+- **Einordnung/Einschränkung:** Unabhängige, repräsentative Erhebung mit offengelegter Methodik. Gilt für GB, die Teilgruppen-n fehlt. Passt zu NBF 2020 (über 55: 23 %) und Direct Line 2025 (über 55: 20 %). Gründe, etwa Temperatur, werden nicht erhoben.
+- **Wahrheits-Check:** *bestätigt*. Beim Prüfen von G7-23 per curl im selben Artikel gefunden, Wortlaut bestätigt.
+
+### (b) Sleep divorce UK – latenter Wunsch
+
+#### G7-V02
+
+⚠️ EINGESCHRÄNKT · Angle: Allgemein, C Bettbeziehen
+
+**Laut Direct Line/Opinium 2025 würden 14 % derjenigen, die derzeit ein Bett teilen, gern getrennt schlafen, glauben aber, dass ihr Partner das nicht möchte.**
+
+> “A sixth (14 per cent) who currently share a bed admit they would like to sleep separately but know their partner wouldn't want to”
+
+- **Quelle:** [Direct Line Home Insurance (Direct Line Group/Aviva), Pressemitteilung 'Sleeping apart to stay together'](https://www.aviva.com/newsroom/news-and-research-overview/news-releases/2025/02/sleeping-apart-to-stay-together-/)
+- **Datum der Quelle:** 2025-02-13 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** Opinium, n=2.000 UK-Erwachsene, 31.01.–04.02.2025; Teilgruppe Bettteiler (n nicht genannt)
+- **Einordnung/Einschränkung:** Repräsentative Gesamtstichprobe, aber Teilgruppe ohne n, Marken-PR, und 'a sixth' passt nicht genau zu 14 %. Zeigt latente Unzufriedenheit beim Bettteilen, ohne Angabe von Gründen wie der Temperatur.
+- **Wahrheits-Check:** *bestätigt*. Beim Prüfen von G7-01 bis G7-19 auf aviva.com per curl gefunden, Wortlaut bestätigt.
+
+### (a)/(c) IKEA UK – Temperatur und zwei Einzeldecken
+
+#### G7-V03
+
+⚠️ EINGESCHRÄNKT · Angle: B Wechseljahre, C Bettbeziehen, Markt
+
+**Laut einer IKEA-UK-Umfrage (berichtet 2019) nannten Briten als Ursachen schlechten Schlafs Unbequemlichkeit (55 %), 'zu heiß oder zu kalt' (39 %) und Schnarchen (21 %). IKEA bot dazu ein Bündel aus zwei Einzeldecken an, damit Partner unterschiedliche Tog-Werte wählen können.**
+
+> “The bedding bundle comes as a result of research carried out by Ikea, where Brits revealed a bad night's sleep was down to being uncomfortable (55 per cent), too hot or too cold (39 per cent) and snoring* (21 per cent). … The single duvets can cater to personally preferred TOG ratings, solving the different body temperature issue too. … The TOG-ether bundle has been inspired by the Swedish sleep tradition, where two single duvets replace the traditional double.”
+
+- **Quelle:** [Ideal Home, 'Ikea's latest launch promises a better night's sleep' (IKEA UK TOG-ether bundle)](https://www.idealhome.co.uk/news/ikea-single-duvet-bundle-tog-ether-193279)
+- **Datum der Quelle:** 2019-09-04 (Aktion laut Text '27th – 28th January', Erhebung vermutlich Anfang 2019) · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** keine Angaben zu n, Institut oder Zeitraum
+- **Einordnung/Einschränkung:** Händler-PR ohne Methodik, Stand 2019. 'Too hot or too cold' fasst beide Richtungen zusammen und misst nicht den Unterschied zwischen Partnern. Zeigt aber, dass IKEA UK die Zwei-Decken-Lösung mit unterschiedlichen Tog-Werten ausdrücklich für den UK-Markt beworben hat.
+- **Wahrheits-Check:** *bestätigt*. Per Websuche gefunden und per curl gelesen. Datum (article:published_time 2019-09-04) und Wortlaut bestätigt, Methodik fehlt.
+
+### (c)/(d) Wettbewerb – Silentnight empfiehlt getrennte Decken
+
+#### G7-V04
+
+✅ BELEGT · Angle: Markt, B Wechseljahre, C Bettbeziehen
+
+**Silentnight empfahl in seiner Menopause-PR (Okt. 2023) Paaren ausdrücklich getrennte Decken nach skandinavischer Art und bewarb eine eigene Decke mit einer kühlen und einer warmen Hälfte ('Yours and Mine').**
+
+> “If you don't opt against sharing a bed, try sleeping the Scandinavian way by embracing separate duvets to suit everyone's needs. Alternatively, use the Silentnight Yours and Mine duvet, which has a clever half-and-half design, with one cool side and one warm half.”
+
+- **Quelle:** [Luxurious Magazine, '40% of Menopausal Women Regularly Sleep in a Separate Bed from their Partner' (Zitat Hannah Shore, Silentnight)](https://www.luxuriousmagazine.com/menopausal-women-sleep-study)
+- **Datum der Quelle:** 2023-10-03 · **Typ:** Presse
+- **Einordnung/Einschränkung:** Belegt ist nur, dass ein großer UK-Wettbewerber die Botschaft (Menopause, getrennte Decken, Halb-warm-halb-kühl-Decke) bereits besetzt. Für die Wirksamkeit der Methode ist das kein Beleg. Relevant für die Differenzierung von Angle B und C.
+- **Wahrheits-Check:** *bestätigt*. Beim Prüfen von G7-37 bis G7-40 per curl gefunden, Zitat wörtlich bestätigt.
+
+### (b) Sleep divorce UK – genannte Gründe
+
+#### G7-V05
+
+✅ BELEGT · Angle: Allgemein, B Wechseljahre
+
+**Laut NBF/YouGov 2020 ist Schnarchen der mit Abstand häufigste Hauptgrund für getrenntes Schlafen (Männer 38 %, Frauen 36 %). 17 % der Männer und 10 % der Frauen wollen das Bett lieber für sich, und 5 % schlafen getrennt, weil sie ein anderes Bett oder eine andere Matratze bevorzugen. Temperatur wird unter den berichteten Gründen nicht genannt.**
+
+> “Snoring is far and away the most commonly cited main reason for splitting up sleepers with slightly more men (38%) than women (36%) saying so. Seventeen per cent of men and 10% of women said they prefer sleeping in a bed all to themselves while fidgeting is the main cause for one in 10 to take to a separate bed. Nearly a quarter (24%) of those sleeping apart put it down to 'other' reasons while 5% said it was because they preferred a different kind of bed or mattress to their partner.”
+
+- **Quelle:** [National Bed Federation, 'Sleep Divorce Soars'](https://www.bedfed.org.uk/sleep-divorce-soars-2/)
+- **Datum der Quelle:** 2020-02-28 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** YouGov für NBF, n=2.054 GB-Erwachsene, 20.–21.01.2020; Teilgruppe getrennt Schlafende (n nicht genannt)
+- **Einordnung/Einschränkung:** Repräsentative YouGov-Erhebung mit offengelegter Methodik, Teilgruppe ohne n, GB, Stand 2020. Wichtig für die Ad-Wahrheit: Temperatur ist in UK nicht als Hauptgrund für 'sleep divorce' belegt.
+- **Wahrheits-Check:** *bestätigt*. Beim Prüfen von G7-20 bis G7-22 per curl im selben Text gefunden, Wortlaut bestätigt.
+

@@ -923,6 +923,1324 @@ Legende: ✅ BELEGT · ⚠️ EINGESCHRÄNKT (nur mit Einschränkung verwenden) 
 - **Einordnung/Einschränkung:** Redaktionelle Formulierung ohne Datenbasis, wie 3A-02. Nur als zugeschriebenes Zitat nutzbar. Sie bestätigt die Mühe als Thema, nicht deren Häufigkeit.
 - **Wahrheits-Check:** *bestätigt*. Satz per curl wörtlich gefunden.
 
+## Nachrecherche G1 (zu Track 3A)
+
+*Auftrag: Angle C – Bettbezug aufziehen: britische Umfragen IM ORIGINAL finden (Pressemitteilung/Umfragebericht mit Institut, n, Feldzeit). Gesucht: (a) Wie viele Briten hassen/finden schwierig das Aufziehen des Bettbezugs (duvet cover) bzw. nennen es die unbeliebteste Hausarbeit; (b) wie lange es dauert (Minuten); (c) Rankings unbeliebtester Hausarbeiten mit 'changing the bed/bedding/duvet cover'. Kandidaten (alle prüfen, Original verlinken): Ergoflex 2013 (n=2.004), Bensons for Beds 2022 ('How often are we changing our bedsheets', n=500), Bassetts Vitamins ~2020 (Platz von 'changing the bedding'), Mail on Sunday 2020 (42 % der 25–39-Jährigen), Dreams, Silentnight, Simba, Emma, Panda London, IKEA UK, Dunelm, Soak&Sleep, Hotel Collection, Morphy Richards, Vax, Dettol, Fairy, OnePoll/Censuswide/Opinium-Umfragen, YouGov-Tracker 'least favourite household chore' / 'making the bed'. Zusätzlich: Wie oft waschen Briten ihre Bettdecke (duvet) und Kissen – Umfragen im Original (YouGov, Händler).*
+
+*Prüf-Fazit: Der Track ist insgesamt sorgfältig. 41 von 42 Claims ließen sich an der Quelle nachvollziehen, teils nur über selbst abgerufene Wayback-Snapshots, und Zahlen sowie Zitate stimmten weitgehend. Korrigiert wurden vor allem die Currys-Umfrage, bei der Mehrfachnennung statt Einfachauswahl vorlag ('16 % meistgehasst' ist also zu stark), die Bügeln/Bad-Rangfolge bei YouGov, mehrere URLs und Daten sowie ein Widerspruch bei Pizuna (29 % gegenüber 25 %). Verworfen wurde nur die 42-%-Zahl der Mail on Sunday. Repräsentativ und ad-tauglich sind nur die YouGov-Daten (Bettmachen 27 % Abneigung, 28 % wöchentlicher Wechsel, Frauen tragen die Hausarbeit) und das GoCompare-Ranking. Die Kernbotschaften von Angle C ('Bezug aufziehen ist verhasst' bzw. 'dauert X Minuten') sind in UK nicht repräsentativ belegt und dürfen nur als Händler-Umfrage bzw. Which?-Test mit Quelle formuliert werden.*
+
+### C(a) Abneigung/Schwierigkeit Bettbeziehen
+
+#### G1-01
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**In einer von Currys beauftragten Online-Umfrage (Pollfish) unter 2.000 UK-Einwohnern zwischen 18 und 96 Jahren (veröffentlicht 28.01.2025) nannten 16 % das Wechseln der Bettwäsche auf die Frage nach ihrer unbeliebtesten bzw. meistgefürchteten Hausarbeit. Das ist Platz 3 hinter Ofenreinigen (35 %) und Toilettenputzen (23 %); Mehrfachnennungen waren offenbar möglich.**
+
+> “Ironically, in third place is changing the bedding with 16% saying they hate having to do it. So, while the end result is satisfying to some, wrestling with fitted sheets, heavy duvets and annoying pillow covers can mean the effort isn’t worth the reward to others. What is your least favourite household chore or the ones you dread the most? Respondents (%) Oven cleaning 35% Cleaning the toilet 23% Changing the bedding 16% […] Methodology The survey involved 2000 UK residents between the ages of 18-96 and was conducted using Pollfish.”
+
+- **Quelle:** [Currys TechTalk – The Chore Score (By Staff Writer)](https://www.currys.co.uk/techtalk/kitchen-and-home/chore-score.html)
+- **Datum der Quelle:** 2025-01-28 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** n=2.000 UK-Einwohner, 18–96 Jahre, Online über Pollfish; Feldzeit und Gewichtung nicht angegeben; Mehrfachauswahl (Top 10 summieren sich auf 163 %)
+- **Einordnung/Einschränkung:** Händler-PR-Umfrage (Currys verkauft Haushaltsgeräte) über das App-Panel Pollfish, ohne Angaben zu Gewichtung und Feldzeit. Gefragt wurde nach 'changing the bedding' (gesamte Bettwäsche), nicht speziell nach dem Bettbezug. Mehrfachnennung war möglich, deshalb bedeutet '16 %' nicht 'meistgehasst', sondern 'unter den unbeliebtesten genannt'. Für Ads nur mit Quelle verwenden, z. B. 'Currys-Umfrage, 2.000 Briten, 2025', und als Platz 3 bzw. 16 %.
+- **Wahrheits-Check:** *korrigiert*. Live-Seite liefert 403 (WebFetch und curl). Den Wayback-Snapshot vom 17.02.2025 habe ich selbst abgerufen. Wortlaut, Datum (28 Jan 2025), n=2.000 und Pollfish bestätigt. Korrektur: Die Ergebnistabelle summiert sich auf über 160 %, es handelt sich also um Mehrfachauswahl und NICHT um Einfachauswahl, wie im Vorbericht stand. Aussage und Wortlaut entsprechend angepasst.
+
+#### G1-02
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**In derselben Currys-Umfrage (n=2.000, UK, Jan. 2025) zählten 26 % das Wechseln der Bettwäsche zu ihren bis zu drei befriedigendsten Hausarbeiten; das ist Platz 2 nach Staubsaugen bzw. Fegen (35 %).**
+
+> “Up next is changing the linen, with 26% stating that there is no better feeling than slipping into freshly laundered sheets at the end of the day. […] Which household chores do you find the most satisfying? (select up to three) Respondents (%) Vacuum or sweep the floors 35% Changing the bedding 26%”
+
+- **Quelle:** [Currys TechTalk – The Chore Score](https://www.currys.co.uk/techtalk/kitchen-and-home/chore-score.html)
+- **Datum der Quelle:** 2025-01-28 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** n=2.000 UK-Einwohner, 18–96 Jahre, Pollfish; Frage mit 'select up to three'
+- **Einordnung/Einschränkung:** Schwächen wie bei G1-01 (Händler-PR, Pollfish, keine Gewichtung), dazu Mehrfachauswahl mit bis zu drei Antworten. Die Zahl zeigt die Ambivalenz: Das Ergebnis, ein frisches Bett, wird geschätzt, der Vorgang ist für manche unbeliebt. Das passt zu Angle C.
+- **Wahrheits-Check:** *korrigiert*. Den Wayback-Snapshot vom 17.02.2025 habe ich selbst abgerufen (live 403). Wortlaut und Zahlen bestätigt. Korrektur: Die Frage erlaubte bis zu drei Antworten ('select up to three'). '26 % nennen es die befriedigendste Hausarbeit' war daher falsch und lautet jetzt 'unter den bis zu drei befriedigendsten'.
+
+#### G1-04
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**In einer Umfrage des US-Matratzenhändlers Saatva (1.500 Befragte, veröffentlicht 02.04.2019; laut Apartment Therapy unter Paaren, Land nicht genannt) gaben 47 % der 962 Duvet-Nutzer an, lieber alle Toiletten im Haus zu putzen, als ihre Bettdecke zu waschen und wieder zusammenzusetzen.**
+
+> “Of the 962 survey participants who use a duvet, 47% would rather clean all the toilets in their home than wash and reassemble their duvet.”
+
+- **Quelle:** [Saatva Blog – Great Sleep or Great Sex? Our Survey Results Reveal All](https://www.saatva.com/blog/couples-sleep-insights/)
+- **Datum der Quelle:** 2019-04-02 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** n=1.500, davon 962 Duvet-Nutzer; Land nicht genannt (US-Händler, vermutlich USA); Institut, Feldzeit und Fragestellung nicht angegeben
+- **Einordnung/Einschränkung:** Sehr wahrscheinlich keine UK-Daten, außerdem Händler-PR ohne Methodik. 'Wash and reassemble' umfasst Waschen UND Neubeziehen. Nicht als UK-Fakt verwendbar, höchstens als US-Beleg mit klarer Kennzeichnung.
+- **Wahrheits-Check:** *korrigiert*. Per WebFetch selbst geöffnet: Wortlaut, 1.500 Befragte und das Datum 02.04.2019 bestätigt. Die Seite nennt weder Land noch Institut. Ein Aktualisierungsdatum 2023-08-30 wurde mir nicht angezeigt, die Angabe ist daher aus der Begründung entfernt.
+
+#### G1-06
+
+✅ BELEGT · Angle: C Bettbeziehen
+
+**In einer YouGov-Umfrage unter 2.287 Erwachsenen in Großbritannien (4.–5. Sept. 2025) gaben 27 % an, das Bettmachen nicht zu mögen; 28 % mögen es, 41 % weder noch.**
+
+> “Chores like cleaning the kitchen, cleaning the living room, making the bed, or doing the washing up split opinion, with 25-31% of the public liking doing them and 24-31% disliking them.”
+
+- **Quelle:** [YouGov – Which chores do Britons enjoy doing? (Dylan Difford), Tabellen Internal_Chores_250905.pdf](https://yougov.com/en-gb/articles/53151-which-chores-do-britons-enjoy-doing)
+- **Datum der Quelle:** 2025-10-13 · **Typ:** Umfrage (Institut/unabhängig)
+- **Stichprobe/Methodik:** n=2.287 Erwachsene GB, YouGov-Online-Panel, Feldzeit 4.–5.09.2025, gewichtet
+- **Einordnung/Einschränkung:** Seriöse, gewichtete Umfrage. Werte für 'Making the bed' laut Tabelle (https://ygo-assets-websites-editorial-emea.yougov.net/documents/Internal_Chores_250905.pdf): Total Dislike 27 % (davon 'dislike a lot' 10 %), Total Like 28 %, Neither 41 %, N/A 5 %. Einschränkung für Angle C: Gemessen wurde das Bettmachen, nicht das Beziehen. Bezugsgruppe ist GB, nicht UK.
+- **Wahrheits-Check:** *bestätigt*. Artikel per WebFetch geöffnet (13 October 2025, Dylan Difford, Wortlaut bestätigt). Die Tabellen-PDF habe ich selbst heruntergeladen und mit pdftotext ausgewertet: n=2.287, Feldzeit 4.–5.09.2025 sowie 27/28/41/5 % bestätigt.
+
+### Mythen-Check
+
+#### G1-05
+
+❌ NICHT BELEGT / MYTHOS · Angle: C Bettbeziehen
+
+**Die Darstellung, alle 962 Duvet-Nutzer der Saatva-Umfrage würden lieber Toiletten putzen als ihre Bettdecke waschen und neu beziehen, ist nicht belegt: Laut Saatva-Original trifft das auf 47 % zu.**
+
+> “Of the 1,500 participants, the 962 who use a duvet actually prefer to clean all the toilets in their home over washing and reassembling the bed covering and its contents.”
+
+- **Quelle:** [Apartment Therapy – People Would Rather Clean Toilets Than Duvets, According To This Survey (Kenya Foy)](https://www.apartmenttherapy.com/cleaning-toilets-over-duvets-268439)
+- **Datum der Quelle:** 2020-07-30 · **Typ:** Presse
+- **Stichprobe/Methodik:** bezieht sich auf die Saatva-Umfrage (n=1.500, 962 Duvet-Nutzer, vermutlich USA)
+- **Einordnung/Einschränkung:** Überzeichnung: Das Original (G1-04) nennt 47 %, nicht alle 962. Dazu kommen vermutlich US-Daten. Ein Beispiel dafür, wie Medien Bettwaren-PR-Zahlen zuspitzen.
+- **Wahrheits-Check:** *bestätigt*. Live-Seite liefert 403. Den Wayback-Snapshot vom 21.11.2021 habe ich selbst abgerufen: Wortlaut und 'updated Jul 30, 2020' bestätigt. Die Überzeichnung gegenüber Saatva (47 %) ist bestätigt.
+
+#### G1-20
+
+❌ NICHT BELEGT / MYTHOS · Angle: C Bettbeziehen
+
+**Die Behauptung 'Bettbeziehen ist die meistgehasste Hausarbeit der Briten' ist nicht belegt. In allen geprüften UK-Rankings liegt das Wechseln der Bettwäsche zwischen Platz 3 (Currys 2025, 16 % bei Mehrfachnennung) und außerhalb der Top 10 (GoCompare 2022); Platz 1 belegt immer Ofenreinigen oder Bügeln.**
+
+> “As anyone who’s tackled baked-on grease can attest to, cleaning the oven came out on top as Britain’s most hated chore.”
+
+- **Quelle:** [Holts – The UK’s Most Annoying Household Chores Revealed (ergänzt durch Currys 2025, GoCompare 2022, YouGov 2025 und 2016, Bassetts 2020, Beko)](https://www.holtsauto.com/blog/the-uks-most-annoying-household-chores-revealed/)
+- **Datum der Quelle:** 2021-11-26 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** Vergleich von 7 Umfragen (Holts n=2.000; Currys n=2.000; GoCompare n=2.048; YouGov 2025 n=2.287; YouGov 2016 n=2.056; Bassetts n=2.000; Beko n=1.013)
+- **Einordnung/Einschränkung:** Keine gefundene UK-Umfrage stützt 'meistgehasst'. Vorn liegen: Currys Ofen 35 %, YouGov 2025 Bügeln (25 % 'dislike a lot'), YouGov 2016 Bügeln 50 % Abneigung, GoCompare und Holts Ofen auf Platz 1. Für Ads stattdessen z. B. 'zählt laut Currys-Umfrage (2025) zu den drei meistgenannten unbeliebtesten Hausarbeiten' mit Quelle.
+- **Wahrheits-Check:** *bestätigt*. Alle Vergleichsquellen in dieser Sitzung selbst geöffnet (Currys über Wayback). Die Unbelegtheit ist bestätigt. Ergänzt um YouGov 2016, wo kein Bett-Item abgefragt wurde, und den Hinweis auf Mehrfachnennung bei Currys.
+
+#### G1-24
+
+❌ NICHT BELEGT / MYTHOS · Angle: C Bettbeziehen
+
+**Bensons' Aussage, die meisten über 25-Jährigen wechselten ihre Bettwäsche wöchentlich, wird von den eigenen Fußnoten nicht gedeckt. Wöchentlich wechseln nur 32 % (25–34), 38 % (35–44) und 38 % (45–54); eine Mehrheit (60 %) gibt es nur bei den über 55-Jährigen.**
+
+> “Most people over the age of 25 say they change their bedding every week (g). … g) 28 of 87 people surveyed aged 25 to 34, 29 of 77 people surveyed aged 35 to 44, 30 of 78 people surveyed aged 45 to 54, and 115 of 193 people surveyed aged 55 and over answered ‘once a week’”
+
+- **Quelle:** [Bensons for Beds Sleep Hub – How Often Are We Changing Our Bedsheets?](https://www.bensonsforbeds.co.uk/sleep-hub/how-often-are-we-changing-our-bedsheets/)
+- **Datum der Quelle:** 2022-09-07 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** n=500 UK; Altersgruppen 25–34 n=87, 35–44 n=77, 45–54 n=78, 55+ n=193
+- **Einordnung/Einschränkung:** Nachgerechnet: 28/87 = 32,2 %, 29/77 = 37,7 %, 30/78 = 38,5 %, 115/193 = 59,6 %. Alle über 25 zusammen: 202/435 = 46,4 %, also ebenfalls keine Mehrheit. Die Aussage widerspricht den eigenen Daten.
+- **Wahrheits-Check:** *bestätigt*. Fußnote g im selbst abgerufenen Wayback-Snapshot gelesen und nachgerechnet. Der Widerspruch ist bestätigt.
+
+#### G1-28
+
+❌ NICHT BELEGT / MYTHOS · Angle: C Bettbeziehen
+
+**Die verbreitete Schlagzeile, 'der durchschnittliche alleinstehende Mann' wechsle seine Bettwäsche nur viermal im Jahr, ist nicht belegt. Die Ergoflex-Daten betreffen 55 % der alleinstehenden Männer zwischen 18 und 25 (alle 3,1 Monate).**
+
+> “The average single man washes his sheets just four times per year, according to a survey by U.K. mattress company Ergoflex.”
+
+- **Quelle:** [CBC News – Single men swap bed sheets 4 times a year, study suggests](https://www.cbc.ca/news/world/single-men-swap-bed-sheets-4-times-a-year-study-suggests-1.1321335)
+- **Datum der Quelle:** 2013-08-25 · **Typ:** Presse
+- **Stichprobe/Methodik:** bezieht sich auf die Ergoflex-Umfrage 2013 (n≈2.004 laut Sekundärquellen)
+- **Einordnung/Einschränkung:** CBC, Ideal Home, TIME und MSN verallgemeinern eine Teilgruppe (Single-Männer zwischen 18 und 25, 55 %) auf 'den durchschnittlichen Single-Mann'. CBC nennt im selben Artikel selbst korrekt die Teilgruppe ('Among single men aged 18 to 25, 55 per cent'). Das Original (G1-27) stützt die Schlagzeile nicht.
+- **Wahrheits-Check:** *korrigiert*. Kanonische URL www.cbc.ca per curl selbst geöffnet (HTTP 200). Wortlaut und Datum bestätigt (Posted Aug 25, 2013, Last Updated Aug 26, 2013). Die URL wurde von der AMP-Version auf die kanonische Version geändert.
+
+#### G1-30
+
+❌ NICHT BELEGT / MYTHOS · Angle: C Bettbeziehen
+
+**Die Behauptung von Feather & Black (Handelsname der Dreams Ltd.), laut YouGov wüschen 'nur 28 % der UK-Bevölkerung ihre Bettwäsche regelmäßig', ist nicht belegt. YouGov misst 28 % wöchentlich und weitere 36 % alle zwei Wochen.**
+
+> “A survey conducted by YouGov Real Time revealed that only 28% of the UK population wash their bedding regularly.”
+
+- **Quelle:** [Feather & Black (Dreams Limited) – How Often Should You Change Bedding?](https://www.featherandblack.com/inspiration/when-is-it-time-for-new-bedding)
+- **Datum der Quelle:** 2025-03-14 · **Typ:** Händler-/Hersteller-Ratgeber
+- **Stichprobe/Methodik:** bezieht sich auf YouGov n=2.004 GB, Juni 2022
+- **Einordnung/Einschränkung:** Fehlzitat: YouGov (G1-21) misst 28 % 'once a week', nicht 'regelmäßig'. Mindestens 66 % waschen wöchentlich oder zweiwöchentlich. Außerdem gilt YouGov für GB, nicht für UK. Ein Beispiel für dramatisierte Zahlen im Bettwaren-Marketing.
+- **Wahrheits-Check:** *bestätigt*. Per WebFetch selbst geöffnet: Wortlaut, 'Last Modified 14 March 2025' und Fußzeile '© 2026 Feather & Black is the trading name of Dreams Limited' bestätigt.
+
+#### G1-40
+
+❌ NICHT BELEGT / MYTHOS · Angle: C Bettbeziehen, Allgemein
+
+**Die oft zitierte Behauptung, 10 % des Gewichts eines mindestens zwei Jahre alten ungewaschenen Kissens bestünden aus Hausstaubmilben (und Hautschuppen), ist durch keine auffindbare Primärstudie belegt.**
+
+> “Worryingly, 10 per cent of the weight of an unwashed pillow aged two years or more can be made up of dust mites and dead skin cells.”
+
+- **Quelle:** [Luxurious Magazine – 41% of Brits Have Never Washed their Pillow! (Silentnight-PR)](https://www.luxuriousmagazine.com/never-washed-their-pillow)
+- **Datum der Quelle:** 2020-03-30 · **Typ:** Presse
+- **Einordnung/Einschränkung:** Live Science (07.03.2011, https://www.livescience.com/33097-does-your-mattress-really-gain-weight-over-time-.html) schreibt nur: 'According to materials published by Ohio State University … Ten percent of the weight of a two-year-old pillow can be composed of dead mites and their droppings.' Eine Messstudie oder ein OSU-Merkblatt wurde nicht gefunden. Die Zahl kursiert in Varianten, mal als 'one study' (TIME), mal ganz ohne Quelle. Für Ads nicht verwenden.
+- **Wahrheits-Check:** *bestätigt*. Luxurious Magazine und Live Science per curl selbst geöffnet, Wortlaut bestätigt. Eine zusätzliche Websuche nach einem OSU-Merkblatt blieb ohne Treffer. Die Unbelegtheit ist bestätigt.
+
+#### G1-41
+
+❌ NICHT BELEGT / MYTHOS · Angle: Allgemein
+
+**Die Behauptung, eine Matratze verdopple durch Milben und Hautschuppen innerhalb von 8–10 Jahren ihr Gewicht, ist widerlegt. Der zitierte Mikrobiologe zog sie 2011 zurück, und ein TV-Test fand bei einer 10 Jahre alten Matratze nur rund 5 % Gewichtszunahme.**
+
+> “But as it turns out, the idea that your mattress doubles its weight has absolutely no basis in fact. … He added that "there is no study that I know of, nor is there any scientific literature" that supports the claim that a mattress doubles in weight over 10 years.”
+
+- **Quelle:** [GoodBed – Does your mattress really double in weight over time? (Dust Mites)](https://www.goodbed.com/guides/mattress-owners-manual/dust-mites/)
+- **Datum der Quelle:** 2014-12-09 (aktualisiert 2025-04-05) · **Typ:** Sonstiges
+- **Einordnung/Einschränkung:** GoodBed dokumentiert: Ursprung ist ein WSJ-Artikel von 2000, der Forscher Glass sah sich 'misquoted'. Dr. Philip Tierno widerrief 2011 gegenüber Tampa Bay Fox 13. Dessen Test ergab +5 % nach 10 Jahren (31,5 statt 30 Pfund), allerdings an nur einer Matratze. Live Science (2011) zitiert den OSU-Entomologen Glen Needham: 'there is no scientific answer to the mattress weight and dust mite query'. GoodBed ist ein Matratzen-Vergleichsportal, zitiert aber nachprüfbare Aussagen.
+- **Wahrheits-Check:** *korrigiert*. Die alte URL leitet auf /guides/mattress-owners-manual/dust-mites/ um, URL korrigiert. Wortlaut, Daten (datePublished 2014-12-09, dateModified 2025-04-05) und Tierno-Zitat per curl selbst bestätigt.
+
+#### G1-42
+
+❌ NICHT BELEGT / MYTHOS · Angle: C Bettbeziehen, Allgemein
+
+**Bensons' Angabe, ein durchschnittliches Bett enthalte 'rund 10.000 Hausstaubmilben', ist nicht belegt. Bensons belegt sie nur mit dem eigenen Ratgeber; andere Angaben nennen für gebrauchte Matratzen 100.000 bis 10 Millionen Milben, eine Primärmessung wird nirgends genannt.**
+
+> “In fact, it’s estimated that the average bed contains around 10,000 dust mites. (1) … REFERENCES 1) How to Clean and Care For Your Mattress | Sleep Hub - Bensons for Beds”
+
+- **Quelle:** [Bensons for Beds Sleep Hub – How Often Are We Changing Our Bedsheets?](https://www.bensonsforbeds.co.uk/sleep-hub/how-often-are-we-changing-our-bedsheets/)
+- **Datum der Quelle:** 2022-09-07 · **Typ:** Händler-/Hersteller-Ratgeber
+- **Einordnung/Einschränkung:** Die Fußnote (1) verweist auf Bensons' eigenen Matratzenpflege-Ratgeber, also eine Zirkelquelle ohne Messung. Live Science (2011) nennt unter Berufung auf Ohio-State-Materialien '100,000 to 10 million mites' pro Matratze. Die Angaben widersprechen sich um bis zu drei Größenordnungen, Milbenzahlen sind daher nicht ad-tauglich.
+- **Wahrheits-Check:** *bestätigt*. Den Wayback-Snapshot vom 09.12.2024 habe ich selbst abgerufen: Wortlaut und Referenz (1) als bensons-eigener Ratgeber bestätigt. Die Live-Science-Angabe habe ich per curl bestätigt.
+
+### C(c) Rankings unbeliebtester Hausarbeiten
+
+#### G1-07
+
+✅ BELEGT · Angle: C Bettbeziehen
+
+**Laut YouGov (n=2.287, GB, Sept. 2025) mögen 45 % das Badputzen nicht, 43 % das Bügeln und 41 % das Staubwischen. YouGov sieht Bügeln als meistgehasste Hausarbeit, weil es mit 25 % den höchsten Anteil 'dislike a lot' hat. Das Bettmachen liegt mit 27 % Abneigung deutlich darunter.**
+
+> “Although similar numbers dislike dusting, ironing or cleaning the bathroom (41-45%), it’s ironing that has the strongest claim to being the most hated chore overall”
+
+- **Quelle:** [YouGov – Which chores do Britons enjoy doing?](https://yougov.com/en-gb/articles/53151-which-chores-do-britons-enjoy-doing)
+- **Datum der Quelle:** 2025-10-13 · **Typ:** Umfrage (Institut/unabhängig)
+- **Stichprobe/Methodik:** n=2.287 Erwachsene GB, 4.–5.09.2025, gewichtet
+- **Einordnung/Einschränkung:** Repräsentativ und aktuell. Laut Tabelle: Bad 45 % Total Dislike (18 % 'a lot'), Bügeln 43 % (25 % 'a lot'), Staubwischen 41 % (16 % 'a lot'), Bettmachen 27 % (10 % 'a lot'). Ein 'Wechseln der Bettwäsche' wurde nicht abgefragt. Bettarbeiten stehen in GB nicht an der Spitze der Abneigung.
+- **Wahrheits-Check:** *korrigiert*. Wortlaut und Tabelle selbst geprüft. Korrektur: Bügeln hat nicht den höchsten Gesamtwert der Abneigung (Bad 45 % > Bügeln 43 %). YouGov begründet 'most hated' mit dem höchsten Anteil 'dislike a lot' (25 %). Die Aussage ist entsprechend präzisiert.
+
+#### G1-15
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**In einer von Bassetts Vitamins beauftragten Umfrage unter 2.000 Erwachsenen (UK, Sept. 2020) belegte 'changing the bedding' Platz 4 der 20 eintönigsten Alltagsaufgaben, nach Bügeln, Toilettenputzen und Staubwischen; 'making the bed' landete auf Platz 11.**
+
+> “TOP 20 MOST MUNDANE TASKS ACCORDING TO BRITS1. Ironing2. Scrubbing the toilets3. Dusting4. Changing the bedding5. Cleaning windows […] 11. Making the bed”
+
+- **Quelle:** [The Star (NationalWorld) – Brits are spending an HOUR of each day on ‘mundane tasks’ … (Promoted by SWNS Media Group)](https://www.thestar.co.uk/must-read/brits-are-spending-an-hour-of-each-day-on-mundane-tasks-with-changing-the-bedding-scrubbing-the-toilet-and-dusting-among-the-worst-jobs-2986839)
+- **Datum der Quelle:** 2020-09-29 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** n=2.000 Erwachsene (UK), Auftraggeber Bassetts Vitamins; Institut und Feldzeit nicht genannt
+- **Einordnung/Einschränkung:** Gefragt wurde nach 'mundane' (eintönig, langweilig), nicht nach 'hated'. Marken-PR ohne Methodik. Der Artikel ist als 'Promoted by SWNS Media Group' gekennzeichnet, also ein Agenturtext; die Original-Pressemitteilung habe ich nicht gefunden.
+- **Wahrheits-Check:** *bestätigt*. Live-Seite liefert 403. Den Wayback-Snapshot vom 09.07.2022 habe ich selbst abgerufen: Datum 29.09.2020, n=2.000, Auftraggeber Bassetts und Rangliste (Platz 4 bzw. 11) bestätigt. Hinweis 'Promoted by SWNS Media Group' ergänzt.
+
+#### G1-16
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**In der Bassetts-Umfrage (n=2.000, UK, 2020) ärgerten sich 46 % darüber, wie lange eintönige Alltagsaufgaben dauern, und mehr als 6 von 10 fanden sie wegen der Wiederholung langweilig. Das gilt für Alltagsaufgaben allgemein, nicht speziell fürs Bett.**
+
+> “More than six in 10 find these jobs dull because they are so repetitive while 46 per cent are left annoyed by how long they take to complete.”
+
+- **Quelle:** [The Star (NationalWorld) – Brits are spending an HOUR of each day on ‘mundane tasks’ …](https://www.thestar.co.uk/must-read/brits-are-spending-an-hour-of-each-day-on-mundane-tasks-with-changing-the-bedding-scrubbing-the-toilet-and-dusting-among-the-worst-jobs-2986839)
+- **Datum der Quelle:** 2020-09-29 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** n=2.000 Erwachsene (UK), Auftraggeber Bassetts Vitamins
+- **Einordnung/Einschränkung:** Bezieht sich auf alle 'mundane tasks', nicht auf das Bettbeziehen. Marken-PR und veraltet (2020).
+- **Wahrheits-Check:** *bestätigt*. Wortlaut im selbst abgerufenen Wayback-Snapshot vom 09.07.2022 bestätigt.
+
+#### G1-17
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**In einer Umfrage des Autopflege-Herstellers Holts unter 2.000 Menschen im UK (Nov. 2021) landete 'changing bedsheets' auf Platz 6 der zehn schlimmsten Hausarbeiten; Platz 1 war Ofenreinigen.**
+
+> “To find out, we surveyed 2,000 people from around the UK to discover which chores we hate the most as a nation. … dusting and changing bedsheets were also among the tasks us Brits would prefer to place on the backburner.”
+
+- **Quelle:** [Holts – The UK’s Most Annoying Household Chores Revealed](https://www.holtsauto.com/blog/the-uks-most-annoying-household-chores-revealed/)
+- **Datum der Quelle:** 2021-11-26 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** n=2.000 UK; Institut, Feldzeit und Gewichtung nicht angegeben
+- **Einordnung/Einschränkung:** Die Rangliste steht nur in der Infografik 'UK’s Top 10 Worst Chores' (https://www.holtsauto.com/wp-content/uploads/2021/11/UKs-Top-10-Worst-Chores-Logo.png): 1 Ofen, 2 Bügeln, 3 Mülltonnen, 4 Kühlschrank, 5 Staubwischen, 6 Changing bedsheets, 7 Wäsche, 8 Fliesen, 9 Staubsaugen, 10 Fenster. Keine Prozentwerte, Marken-PR ohne Methodik.
+- **Wahrheits-Check:** *bestätigt*. Seite per WebFetch geöffnet (November 26, 2021, Wortlaut bestätigt). Die Infografik habe ich selbst heruntergeladen und angesehen: Platz 6 'Changing bedsheets' bestätigt.
+
+#### G1-18
+
+✅ BELEGT · Angle: C Bettbeziehen
+
+**In einer gewichteten Maru/Blue-Umfrage für GoCompare unter 2.048 Erwachsenen in GB (14.–17. Jan. 2022) taucht das Wechseln der Bettwäsche nicht unter den zehn meistgehassten Hausarbeiten auf. Die Top 3 sind Ofenreinigen, Bügeln und Gefrierfach abtauen.**
+
+> “Cleaning the oven, ironing and defrosting the freezer are the top three most hated household tasks, according to new research by GoCompare.”
+
+- **Quelle:** [GoCompare Newsroom – New research from GoCompare reveals the household chores that UK householders hate the most](https://press.gocompare.com/news/new-research-from-gocompare-reveals-the-household-chores-that-uk-householders-hate-the-most)
+- **Datum der Quelle:** 2022-02-01 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** n=2.048 Erwachsene GB, online, Maru/Blue, 14.–17.01.2022, gewichtet nach Alter, Geschlecht, Region und Sozialstatus (Fehlermarge ±2,1 %)
+- **Einordnung/Einschränkung:** Von einem Versicherer beauftragt, aber mit offengelegter Methodik und Gewichtung; methodisch das beste der gefundenen Rankings. Die Plätze 4–10 sind Dachrinnen, Unkraut, Fenster, Bad, hinter Heizkörpern, Auto und Rasen, Bettwäsche kommt nicht vor. Die Umfrage fragte die Bettwäsche-Häufigkeit separat ab ('8% of 18 to 24 year olds are changing their bedsheets daily'). Prozentwerte für das Ranking werden nicht veröffentlicht.
+- **Wahrheits-Check:** *bestätigt*. Per WebFetch und curl selbst geöffnet: Datum 01.02.2022, Top 10 und Methodik (Notes to editors) wörtlich bestätigt.
+
+#### G1-19
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**In einer Beko-Umfrage (Find Out Now, 1.013 national repräsentativ ausgewählte von 1.880 Befragten, Jahr unklar) werden am häufigsten Ofenreinigen (37 %), Bügeln (17 %), Entrümpeln (14 %), Bad (8 %) und Staubwischen (7 %) vermieden. Bettwäsche wechseln wird nicht genannt.**
+
+> “The research confirmed that oven cleaning is the UK’s most dreaded household task, with more than 1 in 3 Brits (37%) admitting they avoid it whenever possible.”
+
+- **Quelle:** [Beko UK – Household Chores in the UK: Survey Results](https://www.beko.co.uk/lifestyle/tips-at-home/household-chores-in-the-uk-survey-results)
+- **Datum der Quelle:** unbekannt (Seite zeigt nur '18 Aug' ohne Jahr) · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** Find Out Now, 1.880 Interviews, davon 1.013 'nationally representative'; Feldzeit nicht angegeben
+- **Einordnung/Einschränkung:** Hersteller-PR mit unklarem Datum. Gefragt wurde nach 'vermeiden', nicht nach 'hassen'. Stützt das Gesamtbild, dass Bettwäsche nicht zu den Spitzen-Hassobjekten zählt.
+- **Wahrheits-Check:** *bestätigt*. Per WebFetch selbst geöffnet: Werte, Methodik und das fehlende Jahr bestätigt. Bettwäsche wird auf der Seite nicht erwähnt.
+
+### C(a) Abneigung/Schwierigkeit Bettbeziehen – wer erledigt die Arbeit
+
+#### G1-08
+
+✅ BELEGT · Angle: C Bettbeziehen, Allgemein
+
+**Laut YouGov (n=2.287, GB, Sept. 2025) sagen 69 % der Frauen, aber nur 41 % der Männer, dass sie alle oder die meisten Hausarbeiten in ihrem Haushalt erledigen.**
+
+> “with 69% of women saying they do all or most of the chores in their household, compared to 41% of men claiming to do so.”
+
+- **Quelle:** [YouGov – Which chores do Britons enjoy doing?](https://yougov.com/en-gb/articles/53151-which-chores-do-britons-enjoy-doing)
+- **Datum der Quelle:** 2025-10-13 · **Typ:** Umfrage (Institut/unabhängig)
+- **Stichprobe/Methodik:** n=2.287 Erwachsene GB, 4.–5.09.2025, gewichtet
+- **Einordnung/Einschränkung:** Tabellenwerte geprüft: Frauen 35 % 'all' + 34 % 'most' = 69 %, Männer 25 % + 16 % = 41 %. Es handelt sich um Selbstauskunft zur Hausarbeit allgemein, nicht speziell zur Bettwäsche. Relevant für das Targeting von Angle C (Frauen).
+- **Wahrheits-Check:** *bestätigt*. Wortlaut im Artikel und Werte in der Tabellen-PDF (pdftotext) selbst bestätigt.
+
+#### G1-09
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**In einer Bensons-for-Beds-Umfrage unter 500 Personen im UK (2022) sagten 86 % der Frauen, aber nur 65 % der Männer, dass sie die Bettwäsche üblicherweise selbst wechseln.**
+
+> “And when we looked at who changes the sheets, an overwhelming 86% of women said they usually did it, compared to 65% of men. (f) […] f) 219 of 254 females surveyed answered ‘it’s usually me’ […] Compared to 161 of 246 males surveyed who gave the same response.”
+
+- **Quelle:** [Bensons for Beds Sleep Hub – How Often Are We Changing Our Bedsheets? (Rachel Marshall)](https://www.bensonsforbeds.co.uk/sleep-hub/how-often-are-we-changing-our-bedsheets/)
+- **Datum der Quelle:** 2022-09-07 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** n=500 UK (254 Frauen, 246 Männer); Institut, Feldzeit und Gewichtung nicht angegeben
+- **Einordnung/Einschränkung:** Kleine Händler-Stichprobe ohne Methodenangaben. Laut Fußnote n sagen 42 von 85 Männern, die die Arbeit nicht selbst machen, dass die Partnerin sie übernimmt.
+- **Wahrheits-Check:** *bestätigt*. Live-Seite liefert 429. Den Wayback-Snapshot vom 09.12.2024 habe ich selbst abgerufen: Datum (September 7, 2022), Wortlaut und Fußnote f (219/254 = 86,2 %; 161/246 = 65,4 %) bestätigt.
+
+#### G1-10
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**Laut einer Ergoflex-Umfrage (UK, veröffentlicht 22.08.2013) übernehmen in Paarbeziehungen nach eigener Angabe 81 % der Frauen das Wechseln der Bettwäsche.**
+
+> “However, the female side in the relationships was predominantly the driving force behind this, with 81% of women claiming bed-sheet changing duties.”
+
+- **Quelle:** [Ergoflex Blog – Britains Bed-Sheets Uncovered: The (horrifying) facts behind our nations bedtime hygiene (Steven Willis)](http://www.ergoflex.co.uk/blog/category/sleep-research/Britains_Bed_Sheets_Uncovered_the_horrifying_facts_behind_our_nations_bedtime_hygiene)
+- **Datum der Quelle:** 2013-08-22 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** n=2.004 (nur laut Sekundärquellen wie NJ101.5, im Original nicht genannt); UK; Institut und Feldzeit nicht angegeben
+- **Einordnung/Einschränkung:** Veraltet (2013), Matratzenhersteller-PR ohne Methodik. Das Original enthält KEINE Daten zum Bettbezug, zur Abneigung oder zur Dauer.
+- **Wahrheits-Check:** *korrigiert*. Original-URL heute tot. Den Wayback-Snapshot vom 20.12.2014 habe ich selbst abgerufen. Wortlaut bestätigt, Datum präzisiert auf 'Thursday 22nd August 2013' (vorher '2013-08').
+
+### C(b) Dauer Bettbeziehen
+
+#### G1-11
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**Im Which?-Praxistest mit fünf Testern (Mai 2024) dauerte das Aufziehen eines Bettbezugs mit der schnellsten Methode ('inside out') im Schnitt 1 Minute 23 Sekunden, gemessen bis kurz vor dem Zuknöpfen.**
+
+> “Three of our five testers found this was the fastest method to put on a duvet cover. On average it was 20 seconds faster than the next quickest method. … Average time: 1 minute 23 seconds”
+
+- **Quelle:** [Which? – Watch: what's the fastest way to put on a duvet cover?](https://www.which.co.uk/news/article/whats-the-fastest-way-to-put-on-a-duvet-cover-aebkH9N6Iobu)
+- **Datum der Quelle:** 2024-05-10 · **Typ:** Sonstiges
+- **Stichprobe/Methodik:** Praxistest der Verbraucherorganisation Which? mit 5 Testern und 4 Methoden; Zeitmessung 'from having the duvet and cover laid out ready on the bed to just before doing up the buttons'; keine Umfrage
+- **Einordnung/Einschränkung:** Seriöser Herausgeber, aber ein Mini-Test, der nicht repräsentativ ist. Gemessen wurde nur das Aufziehen des Bezugs, ohne Abziehen, Zuknöpfen, Laken oder Kissen. Taugt als Orientierungswert, nicht als Durchschnitt aller Briten.
+- **Wahrheits-Check:** *bestätigt*. Per WebFetch selbst geöffnet: Datum 10 May 2024, 5 Tester, Messmethode und 'Average time: 1 minute 23 seconds' bestätigt.
+
+#### G1-12
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**Im selben Which?-Test (5 Tester, 2024) dauerte das Aufziehen je nach Methode im Schnitt zwischen 1:23 Min. ('inside out') und 3:02 Min. ('roll'); 'all-in' brauchte 1:57 Min., 'ghost' 1:47 Min.**
+
+> “This method of putting on a duvet cover takes quite a bit longer than our fastest method, but it does take the least effort. … Average time: 3 minutes 2 seconds”
+
+- **Quelle:** [Which? – Watch: what's the fastest way to put on a duvet cover?](https://www.which.co.uk/news/article/whats-the-fastest-way-to-put-on-a-duvet-cover-aebkH9N6Iobu)
+- **Datum der Quelle:** 2024-05-10 · **Typ:** Sonstiges
+- **Stichprobe/Methodik:** 5 Tester, Zeitmessung je Methode, UK
+- **Einordnung/Einschränkung:** Kleiner Test, Zeiten ohne Zuknöpfen. Für Ads höchstens 'im Which?-Test je nach Methode 1,5 bis 3 Minuten pro Bezug', nicht 'Briten verbringen X Minuten'.
+- **Wahrheits-Check:** *bestätigt*. Alle vier Durchschnittszeiten per WebFetch bestätigt: 1:23, 3:02, 1:57, 1:47.
+
+#### G1-14
+
+✅ BELEGT · Angle: C Bettbeziehen
+
+**Laut Guinness World Records liegt der Rekord für das schnellste Aufziehen eines Bettbezugs bei 39,41 Sekunden (Luke Fuller, UK, 19. März 2015 in Brighton).**
+
+> “The fastest time to put on a duvet cover is 39.41 sec and was achieved by Luke Fuller (UK) on the set of CITV Scrambled in Brighton, UK, on 19 March 2015.”
+
+- **Quelle:** [Guinness World Records – Fastest time to put on a duvet cover](https://www.guinnessworldrecords.com/world-records/fastest-time-to-put-on-a-duvet-cover)
+- **Datum der Quelle:** 2015-03-19 (Rekorddatum; Seite veröffentlicht 2015-04-20) · **Typ:** Sonstiges
+- **Einordnung/Einschränkung:** Als Rekordfakt belegt, aber kein Durchschnittswert. Die Seite weist darauf hin, dass Rekorde nicht sofort online aktualisiert werden ('Records change on a daily basis and are not immediately published online'). Die Koa-Behauptung von 26,5 s (AOL 2020) ist auf der Guinness-Seite nicht verzeichnet und ungeprüft.
+- **Wahrheits-Check:** *bestätigt*. Per WebFetch und curl selbst geöffnet: Wortlaut, Zeit, Name, Ort und Datum bestätigt. Seite datePublished 20 Apr 2015.
+
+### C(b) Dauer Bettbeziehen – Kraftaufwand
+
+#### G1-13
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen, D Geschenk
+
+**Which? stellt im Test mit 5 Personen (2024) fest, dass die schnellste Methode etwas Kraft und Ausdauer erfordert, und empfiehlt Menschen mit Mobilitäts- oder Ausdauerproblemen die langsamere Roll-Methode (Ø 3:02 Min.).**
+
+> “However, while it's quick, this method does require a bit of strength and stamina to do well. … This could be the one for you, particularly if you struggle with mobility or stamina.”
+
+- **Quelle:** [Which? – Watch: what's the fastest way to put on a duvet cover?](https://www.which.co.uk/news/article/whats-the-fastest-way-to-put-on-a-duvet-cover-aebkH9N6Iobu)
+- **Datum der Quelle:** 2024-05-10 · **Typ:** Sonstiges
+- **Stichprobe/Methodik:** 5 Tester, qualitative Einschätzung
+- **Einordnung/Einschränkung:** Qualitative Testeinschätzung ohne Kraftmessung und ohne Studie mit älteren Menschen. Stützt plausibel den Aufhänger für Angle C/D ('Bettbeziehen kostet Kraft'), belegt aber keine Anteile.
+- **Wahrheits-Check:** *bestätigt*. Beide Formulierungen ('strength and stamina', 'mobility or stamina') per WebFetch bestätigt.
+
+### C(d) Häufigkeit Bettwäsche wechseln
+
+#### G1-21
+
+✅ BELEGT · Angle: C Bettbeziehen
+
+**Laut YouGov (n=2.004 Erwachsene GB, 16.–23. Juni 2022) waschen bzw. wechseln 28 % ihre Bettlaken einmal pro Woche und weitere 2 % öfter; die größte Gruppe (36 %) tut es alle zwei Wochen.**
+
+> “new research from YouGov RealTime has discovered that only 28% of Britons are changing their bed sheets that frequently, with a further 2% of the population saying they wash their sheets more than once a week.”
+
+- **Quelle:** [YouGov – How often do Britons change their bedsheets? (Peter Raven) und Tabellen YouGov_-_Bedsheets.pdf](https://yougov.com/en-gb/articles/44027-how-often-do-britons-change-their-bedsheets)
+- **Datum der Quelle:** 2022-11-04 · **Typ:** Umfrage (Institut/unabhängig)
+- **Stichprobe/Methodik:** n=2.004 Erwachsene GB, YouGov RealTime, Feldzeit 16.–23.06.2022
+- **Einordnung/Einschränkung:** Repräsentatives Panel, Methodik in der Tabelle (https://d3nkl3psvxxpe9.cloudfront.net/documents/YouGov_-_Bedsheets.pdf). Frage: 'In general, how frequently do you wash your bed sheets?'. Weitere Werte: alle 3 Wochen 9 %, alle 4 Wochen 11 %, 'don’t know' 6 %. Nicht separat nach dem Bettbezug gefragt. Die belastbarste UK-Zahl zur Wechselhäufigkeit, allerdings vier Jahre alt.
+- **Wahrheits-Check:** *bestätigt*. Artikel (4 November 2022) per curl und WebFetch sowie Tabellen-PDF selbst heruntergeladen. Alle Werte und Feldzeit bestätigt.
+
+#### G1-22
+
+✅ BELEGT · Angle: C Bettbeziehen, D Geschenk
+
+**Laut YouGov (2022) waschen nur 17 % der 18–24-Jährigen in GB ihre Bettlaken mindestens wöchentlich, gegenüber 35–36 % der über 45-Jährigen. 26 % der 18–24-Jährigen warten mindestens einen Monat, bei den über 55-Jährigen sind es 12 %.**
+
+> “While a third of all people aged 45 and over wash their sheets at least once a week (35-36%), only 17% of 18-24 year olds can commit to a similar level of hygiene. The younger generation are also happier to wait at least a month before changing bed linen, with twice as many 18-24 year olds (26%) doing so compared to those aged 55 and over (12%).”
+
+- **Quelle:** [YouGov – How often do Britons change their bedsheets?](https://yougov.com/en-gb/articles/44027-how-often-do-britons-change-their-bedsheets)
+- **Datum der Quelle:** 2022-11-04 · **Typ:** Umfrage (Institut/unabhängig)
+- **Stichprobe/Methodik:** n=2.004 Erwachsene GB (18–24: ungewichtet n=206), 16.–23.06.2022
+- **Einordnung/Einschränkung:** Tabellenabgleich: 18–24 = 1 % + 16 % = 17 %; 45–54 = 4 % + 32 % = 36 %; 55+ = 2 % + 33 % = 35 %. Aus den gerundeten Tabellenwerten ergeben sich für 'mindestens einen Monat' 27 % bzw. 11 %, der Text nennt 26 % bzw. 12 % (Rundung). Die Teilgruppe 18–24 ist klein (n=206). Für Angle D relevant: Ältere wechseln häufiger.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut per curl im Artikel und Teilgruppenwerte in der PDF selbst bestätigt. Die kleine Rundungsdifferenz ist im Text der Begründung vermerkt.
+
+#### G1-23
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**In der Bensons-for-Beds-Umfrage unter 500 Personen im UK (2022) sagten 42,8 % (214 von 500), dass sie ihre Bettwäsche wöchentlich wechseln, 22,8 % alle zwei bis drei Wochen und 5,4 % nie.**
+
+> “More than 42% say they usually change their bed sheets once a week. (b). This was closely followed by 22% of people who say they normally get around to it every two to three weeks. (c)”
+
+- **Quelle:** [Bensons for Beds Sleep Hub – How Often Are We Changing Our Bedsheets?](https://www.bensonsforbeds.co.uk/sleep-hub/how-often-are-we-changing-our-bedsheets/)
+- **Datum der Quelle:** 2022-09-07 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** n=500 UK; Institut, Feldzeit und Gewichtung nicht angegeben
+- **Einordnung/Einschränkung:** Kleine Händler-Stichprobe, deutlich über dem YouGov-Wert von 28 % wöchentlich und wahrscheinlich nicht repräsentativ. Fußnoten: b = 214/500, c = 114/500, d = 27/500 'never'. Der Mittelwert von 50,61 Wechseln pro Jahr wird von Ausreißern nach oben getrieben.
+- **Wahrheits-Check:** *bestätigt*. Wayback-Snapshot vom 09.12.2024 selbst abgerufen (live 429). Wortlaut und Fußnoten b, c, d sowie a (50,61) bestätigt.
+
+#### G1-25
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**In Travelodges selbstselektierter Online-Umfrage mit über 100.000 Teilnehmenden (Okt. 2025) gaben 46,4 % an, die Bettwäsche wöchentlich zu wechseln, 38,3 % alle zwei Wochen und 12,3 % einmal im Monat oder seltener.**
+
+> “Yet 12.3% of our survey respondents admitted to changing their bedding once a month or less, and 2.1% do it just a few times a year! 46.4% of us enjoy a weekly change, 38.3% do it every two weeks”
+
+- **Quelle:** [Travelodge Blog – Snoozy Q’s: What we learnt from our biggest ever sleep survey](https://www.travelodge.co.uk/blog/news/what-we-learnt-from-our-sleep-survey/)
+- **Datum der Quelle:** 2025-10-16 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** 'over 100,000 Brits', offene Online-Umfrage von Travelodge; Feldzeit, Gewichtung, Rekrutierung und Fragewortlaut nicht angegeben
+- **Einordnung/Einschränkung:** Große, aber selbstselektierte und ungewichtete Umfrage. Der Wochenanteil von 46,4 % liegt weit über dem repräsentativen YouGov-Wert von 28 %, was auf Verzerrung hindeutet.
+- **Wahrheits-Check:** *bestätigt*. Per WebFetch und curl selbst geöffnet: Wortlaut bestätigt. Datum aus den Metadaten (article:published_time 2025-10-16T10:46:57+01:00), auf der Seite steht keines.
+
+#### G1-29
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**In einer Umfrage des Bettwäsche-Händlers Pizuna Linens unter 2.250 Erwachsenen im UK (April 2022) wechselten 62 % der alleinstehenden Frauen ihre Bettwäsche alle zwei Wochen, aber nur 29 % der alleinstehenden Männer (laut Independent/Yahoo-Bericht 25 %). 45 % der alleinstehenden Männer wechselten nur alle drei bis vier Monate.**
+
+> “When asked how often they wash their bed sheets, the survey found that 62% of single women changed their bedding once every two weeks, whereas only 29% single men washed their sheets at the same frequency. Instead, 45% of single men admitted only washing their sheets every three to four months.”
+
+- **Quelle:** [Pizuna Linens – Pizuna Publishes Report On How Often Bed Sheets Are Changed In UK](https://pizunalinens.com/blogs/uk-blogs/pizuna-publishes-report-on-how-often-bed-sheets-are-changed-in-uk)
+- **Datum der Quelle:** 2022-04 (Seite undatiert; Berichterstattung Yahoo/Independent 2022-04-28) · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** n=2.250 Erwachsene 18+ (UK); Institut, Feldzeit und Gewichtung nicht angegeben
+- **Einordnung/Einschränkung:** Händler-PR ohne Methodik, Teilgruppengrößen nicht genannt. Ungeklärter Widerspruch: Die Pizuna-Seite nennt 29 % der Single-Männer, der Bericht von Saman Javed (Yahoo, 28.04.2022) 25 %. Paare wechseln laut beiden Quellen am häufigsten alle drei Wochen (35 %), 27 % einmal im Monat.
+- **Wahrheits-Check:** *korrigiert*. Pizuna-Seite (kanonische URL ohne /en-india/) per WebFetch und curl selbst geöffnet, Wortlaut bestätigt. Yahoo-Bericht vom 28.04.2022 per curl gelesen: n=2.250 und Datum bestätigt, aber dort 25 % statt 29 % für Single-Männer. Abweichung vermerkt, URL korrigiert.
+
+### C(d) Häufigkeit Bettwäsche wechseln – Kontext Duvet-Nutzung
+
+#### G1-26
+
+⚠️ EINGESCHRÄNKT · Angle: Markt, C Bettbeziehen
+
+**In derselben Travelodge-Umfrage (über 100.000 Teilnehmende, Okt. 2025) gaben 91,9 % an, jede Nacht unter einer Bettdecke (Duvet) zu schlafen.**
+
+> “When it comes to bedclothes, the duvet is king, with 91.9% of us sleeping under one every night.”
+
+- **Quelle:** [Travelodge Blog – Snoozy Q’s: What we learnt from our biggest ever sleep survey](https://www.travelodge.co.uk/blog/news/what-we-learnt-from-our-sleep-survey/)
+- **Datum der Quelle:** 2025-10-16 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** über 100.000 Teilnehmende, offene Online-Umfrage; Methodik nicht angegeben
+- **Einordnung/Einschränkung:** Selbstselektiert, Mehrfachantworten möglich ('31% like to feel extra cosy with a sheet as well'). Taugt als Hinweis auf die sehr hohe Verbreitung von Bettdecken in UK, nicht als amtliche Marktzahl.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut per WebFetch bestätigt. Die 31 % beziehen sich auf zusätzliche Laken, nicht auf den Wechsel.
+
+### C(d) Häufigkeit Bettwäsche wechseln (Ergoflex 2013)
+
+#### G1-27
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**Laut der Ergoflex-Umfrage (UK, veröffentlicht 22.08.2013) wechselten 55 % der alleinstehenden Männer zwischen 18 und 25 ihre Bettwäsche im Schnitt nur alle 3,1 Monate, während 62 % der Frauen zwischen 35 und 50 sie wöchentlich wechselten. Paare wechselten im Schnitt alle 2,3 Wochen.**
+
+> “The stand-out respondents of the survey were 18-25 year old single men, 55% of whom reportedly change their sheets on average every 3.1 months … At the other end of the cleanliness scale we found 62% of women aged 35-50 changed their sheets on average every week.”
+
+- **Quelle:** [Ergoflex Blog – Britains Bed-Sheets Uncovered (Steven Willis)](http://www.ergoflex.co.uk/blog/category/sleep-research/Britains_Bed_Sheets_Uncovered_the_horrifying_facts_behind_our_nations_bedtime_hygiene)
+- **Datum der Quelle:** 2013-08-22 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** n=2.004 nur laut Sekundärquellen (u. a. NJ101.5), im Original nicht genannt; UK; Institut und Feldzeit unbekannt
+- **Einordnung/Einschränkung:** 13 Jahre alt, Matratzenhersteller-PR, Teilgruppen ohne Fallzahlen. Keine Daten zum Bettbezug, zur Abneigung oder zur Dauer. CBC gibt den Frauenwert abweichend mit 60 % statt 62 % wieder.
+- **Wahrheits-Check:** *korrigiert*. Wayback-Snapshot vom 20.12.2014 selbst abgerufen (Original tot). Wortlaut bestätigt, Datum präzisiert auf 22.08.2013 und Paar-Wert von 2,3 Wochen ergänzt.
+
+### C(e) Waschen von Bettdecke, Bezug und Kissen
+
+#### G1-31
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**In einer Umfrage von OTTY Sleep unter 1.002 Menschen im UK (veröffentlicht Nov. 2020) wuschen die Befragten ihre Bettbezüge im Schnitt alle 12 Tage, Spannbetttücher und Kissenbezüge alle 11 Tage.**
+
+> “Results found that people laundered their duvet covers every 12 days, when experts advise this should be done every week. Similarly, participants washed their bottom sheet and pillow cases every 11 days.”
+
+- **Quelle:** [Ideal Home – How often should we be washing bedding? Study finds we aren’t washing THESE items enough (OTTY-Sleep-Umfrage)](https://www.idealhome.co.uk/news/study-reveals-we-are-not-washing-bedding-enough-245706)
+- **Datum der Quelle:** 2020-11-27 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** n=1.002 UK-Einwohner; Auftraggeber OTTY Sleep (Matratzen- und Bettwarenhändler); Institut und Feldzeit nicht genannt
+- **Einordnung/Einschränkung:** Händler-PR. Das OTTY-Original ist nicht abrufbar: Auch otty.com/blogs/health/washing-a-duvet-and-pillows-and-how-often leitet auf eine 404-Seite um. Vermutlich Mittelwerte aus Selbstauskunft. 'Alle 12 Tage' wirkt häufiger als bei YouGov, wo die größte Gruppe zweiwöchentlich wäscht.
+- **Wahrheits-Check:** *korrigiert*. Ideal Home per curl selbst geöffnet: Wortlaut, n=1.002 und Datum 27.11.2020 bestätigt. Die URL ist auf die kanonische www-Variante korrigiert. Den OTTY-Blog habe ich erneut versucht, er liefert 404.
+
+#### G1-32
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**Laut derselben OTTY-Umfrage (n=1.002, UK, 2020) wuschen die Befragten Matratzen, Bettdecken und Kissen häufiger als empfohlen, nennt aber keine konkreten Werte. Im selben Artikel wird empfohlen, Bettdecken alle zwei bis drei Monate bzw. mindestens zweimal im Jahr zu reinigen.**
+
+> “It also revealed that people washed mattresses, duvets and pillows more than advised. On the whole, it’s recommended that duvets should be cleaned every two to three months (or at least twice a year) to prevent bed mites.”
+
+- **Quelle:** [Ideal Home – How often should we be washing bedding? (OTTY-Sleep-Umfrage)](https://www.idealhome.co.uk/news/study-reveals-we-are-not-washing-bedding-enough-245706)
+- **Datum der Quelle:** 2020-11-27 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** n=1.002 UK-Einwohner, OTTY Sleep
+- **Einordnung/Einschränkung:** Keine Zahl veröffentlicht. Widerspricht den Umfragen von Surcare, Simba und Happy Beds, nach denen 20–41 % ihre Bettdecke nie waschen. Eine Suchmaschine nannte 22,99 Tage (Bettdecke) bzw. 25,46 Tage (Kissen), das ließ sich aber an keiner Quelle nachvollziehen. Nicht für Ads geeignet.
+- **Wahrheits-Check:** *korrigiert*. Wortlaut per curl selbst bestätigt. URL auf die www-Variante korrigiert. Nicht verifizierbare Zusatzwerte aus Suchergebnissen sind ausdrücklich als ungeprüft markiert.
+
+#### G1-33
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**In einer Umfrage der Hautpflegemarke Surcare unter 2.000 Menschen im UK (März 2021) gaben 24 % an, ihre aktuelle Bettdecke noch nie gewaschen zu haben; 12 % waschen sie alle sechs Monate.**
+
+> “24% of respondents have never washed their current duvet, with 12% washing theirs every six months. The average length of time between bedding washes was 18 days.”
+
+- **Quelle:** [Top Ten Reviews – 41% of people have never washed their pillows, according to a new survey (Molly Cleary; Surcare-Umfrage)](https://www.toptenreviews.com/41-of-people-have-never-washed-their-pillows-according-to-a-new-survey)
+- **Datum der Quelle:** 2021-03-22 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** n=2.000 ('A new survey of 2000 people, carried out by sensitive skin brand Surcare'), UK; Institut und Feldzeit nicht genannt
+- **Einordnung/Einschränkung:** Marken-PR ohne Methodik, die Original-Pressemitteilung wurde nicht gefunden. Die Werte liegen im Bereich anderer Umfragen (Simba: jede/r Fünfte). Laut derselben Umfrage vergingen im Schnitt 18 Tage zwischen zwei Bettwäsche-Wäschen.
+- **Wahrheits-Check:** *bestätigt*. Per curl selbst geöffnet: Wortlaut, n=2000 und 'The UK study' bestätigt. Veröffentlicht 22.03.2021, zuletzt aktualisiert 23.03.2021.
+
+#### G1-34
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**In derselben Surcare-Umfrage (n=2.000, UK, 2021) gaben über 41 % an, die Kissen, auf denen sie aktuell schlafen, noch nie gewaschen zu haben.**
+
+> “The UK study includes a list of the ten most neglected items when it comes to a good wash, with more than 41% of people admitting to never washing the pillows they currently sleep with.”
+
+- **Quelle:** [Top Ten Reviews – 41% of people have never washed their pillows, according to a new survey](https://www.toptenreviews.com/41-of-people-have-never-washed-their-pillows-according-to-a-new-survey)
+- **Datum der Quelle:** 2021-03-22 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** n=2.000, UK; Auftraggeber Surcare
+- **Einordnung/Einschränkung:** Marken-PR ohne Methodik. Die 41 % decken sich zufällig mit Silentnight 2020 (Kissen) und Happy Beds 2024 (Bettdecke), die Zahlen werden in Medien oft verwechselt.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut per curl selbst bestätigt.
+
+#### G1-35
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**Silentnight titelt nach einer Umfrage unter 2.000 Briten (März 2020), 41 % hätten ihr Kissen nie gewaschen; im Text heißt es, 41 % schliefen auf einem 'dirty pillow' und 20 % auf einem ungewaschenen, mindestens fünf Jahre alten Kissen. Zugleich hätten 45 % der Männer, aber nur 35 % der Frauen ihre Kissen schon einmal gewaschen.**
+
+> “The typical Brit has never washed their pillow, and a whopping 20 per cent of the nation is sleeping on an unwashed pillow that they’ve had for five or more years. In fact, 41 per cent of the country is sleeping on a dirty pillow, the nationwide study by Silentnight’s Anti Allergy Collection reveals. … 45 per cent of men have washed their pillows compared to 35 per cent of women.”
+
+- **Quelle:** [Luxurious Magazine – 41% of Brits Have Never Washed their Pillow! (Silentnight-PR)](https://www.luxuriousmagazine.com/never-washed-their-pillow)
+- **Datum der Quelle:** 2020-03-30 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** n=2.000 Briten; Auftraggeber Silentnight (Anti-Allergy Collection); Institut und Feldzeit nicht genannt
+- **Einordnung/Einschränkung:** Marken-PR mit innerem Widerspruch. Wenn 45 % der Männer und 35 % der Frauen ihre Kissen gewaschen haben (rund 40 %), hätten rund 60 % sie nie gewaschen, nicht 41 %. Der Text sagt zudem 'The typical Brit has never washed their pillow'. Die Überschrift ('never washed') und der Text ('dirty pillow') stimmen nicht überein. Nur mit Vorsicht verwenden.
+- **Wahrheits-Check:** *korrigiert*. Per curl selbst geöffnet: veröffentlicht 30.03.2020, geändert 09.02.2024. Korrektur: Der Text sagt 'dirty pillow', nur die Überschrift sagt 'never washed'. Die 20-%-Angabe ist ergänzt, die URL auf die www-Variante korrigiert.
+
+#### G1-36
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**In einer Simba-Umfrage unter 2.000 Erwachsenen (UK, Dez. 2019) nannten vier von fünf das Einsteigen in frische Bettwäsche eine der einfachsten Freuden des Lebens, während jede/r Fünfte die Bettdecke nie wäscht.**
+
+> “Four in five adults also cite that one of life’s most simple pleasures is getting into fresh bedding, yet one in five never wash their duvet.”
+
+- **Quelle:** [Woman & Home – A third of British couples share a bed with a ‘blanket bandit’ (Simba-Umfrage)](https://www.womanandhome.com/health-and-wellbeing/health-wellbeing-news/third-british-couples-share-bed-blanket-bandit-343814/)
+- **Datum der Quelle:** 2019-12-18 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** n=2.000 Erwachsene ('A study of 2000 adults by sleep technology firm Simba'), UK-Kontext ('British couples'); Institut und Feldzeit nicht genannt
+- **Einordnung/Einschränkung:** Marken-PR, fast sieben Jahre alt, ohne Methodik. Für Angle C interessant: Frische Bettwäsche gilt als Genuss (vier von fünf).
+- **Wahrheits-Check:** *bestätigt*. Per curl selbst geöffnet: Wortlaut, n=2000 und Datum 18.12.2019 bestätigt.
+
+#### G1-37
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**Unter den Nutzern des Online-'Bedding Calculator' von Happy Beds (veröffentlicht April 2024, selbstselektiert, n und Region unbekannt) gaben 41 % an, ihre Bettdecke noch nie gewaschen zu haben.**
+
+> “Almost half of those who answered the Bedding Calculator have never washed their duvet (41%).”
+
+- **Quelle:** [Cleaning Matters – Survey reveals shocking truth about sleep hygiene (Happy Beds)](https://www.cleaning-matters.co.uk/page_1281042.asp)
+- **Datum der Quelle:** 2024-04-16 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** Antworten aus dem interaktiven Online-Quiz 'Bedding Calculator' (10 Fragen) von Happy Beds; Fallzahl, Zeitraum und Region nicht angegeben
+- **Einordnung/Einschränkung:** Keine echte Umfrage, sondern ausgewertete Quiz-Nutzer: selbstselektiert, n unbekannt. 'Almost half' übertreibt 41 %. Es ist der höchste der gefundenen Werte (Surcare 24 %, Simba ca. 20 %), daher nicht als UK-Durchschnitt verwenden.
+- **Wahrheits-Check:** *bestätigt*. Per curl selbst geöffnet: Wortlaut, Datum 16 April 2024 und Methode (Bedding Calculator, 10 Fragen) bestätigt. Die Region ist nicht angegeben.
+
+#### G1-38
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen, D Geschenk, Markt
+
+**Laut derselben Happy-Beds-Auswertung (2024) hat jede/r Zwölfte (ca. 8 %) seine Bettdecke seit über zehn Jahren; Happy Beds empfiehlt, Bettdecken zwei- bis dreimal pro Jahr zu waschen.**
+
+> “One in 12 have had their duvet for over a decade … Happy Beds advises that duvets should be washed two to three times a year”
+
+- **Quelle:** [Cleaning Matters – Survey reveals shocking truth about sleep hygiene (Happy Beds)](https://www.cleaning-matters.co.uk/page_1281042.asp)
+- **Datum der Quelle:** 2024-04-16 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** Nutzer des Online-Quiz 'Bedding Calculator', n unbekannt
+- **Einordnung/Einschränkung:** Selbstselektiert, n unbekannt. Die Waschempfehlung stammt von einem Händler, nicht von einer Behörde. Für Angle D (Geschenk für Eltern mit alter Bettdecke) nur als weicher Hinweis mit Quellenangabe.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut per curl selbst bestätigt.
+
+#### G1-39
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**Laut einer Umfrage des Wäschedienstes Love2Laundry (Jan. 2018; laut Refinery29 3.000 Briten, auf der Seite selbst ohne Fallzahl) reinigen 24 % der Briten ihre Bettdecke alle ein bis zwei Monate, 21 % alle sechs Monate und 5 % alle vier Jahre; laut Refinery29 außerdem 18 % einmal im Jahr.**
+
+> “According to our survey, 24% of Brits clean their duvets once every one or two months. 21% of people in the Uk clean their duvets once every six months, while 5% of participants take care of their duvets once every four years.”
+
+- **Quelle:** [Love2Laundry – How Often Brits Do Laundry: The Survey Report (ergänzend Refinery29, 23.01.2018)](https://www.love2laundry.com/guide/often-brits-laundry-survey-report/)
+- **Datum der Quelle:** 2018-01-18 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** laut Refinery29 'a survey of 3,000 British people'; auf der Love2Laundry-Seite keine Fallzahl, Methode oder Feldzeit
+- **Einordnung/Einschränkung:** Keine Methodenangaben, veraltet (2018), Anbieter mit Eigeninteresse (Wäscheservice). Die Fallzahl stammt nur aus der Sekundärquelle (https://www.refinery29.com/en-gb/2018/01/188743/how-often-wash-bed-sheets). Refinery29 gibt einzelne Werte leicht abweichend wieder (Jeans 51 % statt 50 %). Nur als Kontext, nicht für Ads.
+- **Wahrheits-Check:** *korrigiert*. Die alte /blog/-URL leitet auf /guide/ um, URL korrigiert. Seite per curl selbst geöffnet: Wortlaut bestätigt, veröffentlicht 18.01.2018, geändert 11.08.2022. Refinery29 per curl gelesen: n=3.000 und 18 % 'once a year' für Bettdecken ergänzt.
+
+### C(a)/C(d) Wer kümmert sich um die Bettwäsche – Geschlechterunterschied
+
+#### G1-V01
+
+✅ BELEGT · Angle: C Bettbeziehen
+
+**Laut YouGov (n=2.004 Erwachsene GB, 16.–23. Juni 2022) waschen 30 % der Frauen, aber nur 25 % der Männer ihre Bettlaken wöchentlich; alle zwei Wochen tun es 40 % der Frauen und 32 % der Männer.**
+
+> “There is also a clear gender divide, with women more likely to clean their sheets weekly (30% vs 25% of men) or fortnightly (40% vs 32%).”
+
+- **Quelle:** [YouGov – How often do Britons change their bedsheets? (Peter Raven) und Tabellen YouGov_-_Bedsheets.pdf](https://yougov.com/en-gb/articles/44027-how-often-do-britons-change-their-bedsheets)
+- **Datum der Quelle:** 2022-11-04 · **Typ:** Umfrage (Institut/unabhängig)
+- **Stichprobe/Methodik:** n=2.004 Erwachsene GB (Männer ungewichtet 943, Frauen 1.061), YouGov RealTime, 16.–23.06.2022
+- **Einordnung/Einschränkung:** Repräsentatives Panel. Werte in der Tabelle bestätigt (Female: once a week 30 %, every 2 weeks 40 %; Male: 25 % bzw. 32 %). Gemessen wurde die Häufigkeit, nicht wer die Arbeit erledigt. Bezugsgruppe ist GB.
+- **Wahrheits-Check:** *bestätigt*. Neu aufgenommen. Artikel per curl und Tabellen-PDF (pdftotext) selbst geprüft.
+
+### C(c) Rankings unbeliebtester Hausarbeiten – YouGov 2016/2017
+
+#### G1-V02
+
+✅ BELEGT · Angle: C Bettbeziehen
+
+**In der YouGov-Umfrage vom Oktober 2016 (n=2.056 UK, veröffentlicht Feb. 2017) wurden acht Hausarbeiten abgefragt, das Bettmachen oder -beziehen war nicht dabei. Am unbeliebtesten war Bügeln mit 50 % Abneigung (30 % 'dislike a lot').**
+
+> “How much would you say you enjoy or dislike doing the following household chores? (Please select one option on each row) […] Ironing […] Dislike a little 20% Dislike a lot 30%”
+
+- **Quelle:** [YouGov – Doing the ironing is the household chore Brits hate most (Matthew Smith), Tabellen Results_for_Internal_Marketing_Chores_437_17.10.16.pdf](https://ygo-assets-websites-editorial-emea.yougov.net/documents/Results_for_Internal_Marketing_Chores_437_17.10.16.pdf)
+- **Datum der Quelle:** 2017-02-21 (Feldzeit 14.–17.10.2016) · **Typ:** Umfrage (Institut/unabhängig)
+- **Stichprobe/Methodik:** n=2.056 Erwachsene UK (ungewichtet und gewichtet je 2.056), YouGov-Panel, 14.–17.10.2016
+- **Einordnung/Einschränkung:** Repräsentatives Panel, allerdings zehn Jahre alt. Abgefragt wurden: Cleaning the house, Cooking, Ironing, Laundry, Taking the bins out, Tidying and organising, Vacuuming, Washing up. Damit ist geklärt, dass auch dieser YouGov-Datensatz kein Bett-Item enthält, und bestätigt, dass Bügeln an der Spitze der Abneigung steht.
+- **Wahrheits-Check:** *bestätigt*. Neu aufgenommen, schließt die Lücke 'Tabelle 2017 nicht ausgewertet'. Den Artikel habe ich per WebFetch geöffnet (21 February 2017), die PDF selbst heruntergeladen und mit pdftotext ausgewertet: Items, Feldzeit und Bügeln 20 % + 30 % bestätigt.
+
+## Nachrecherche G8 (zu Track 3A)
+
+*Auftrag: Angle C – Hygiene und körperliche Hürden nachschärfen: (a) Wie viel schwitzt ein Mensch pro Nacht? Physiologische Primärquellen zum nächtlichen Wasserverlust (insensible water loss/sweat during sleep) und Ursprung der Werbe-Angaben 'half a pint'/'a pint'/'a litre' pro Nacht; (b) Hausstaubmilben-Allergie in UK: aktuelle Zahl/Anteil (Allergy UK, BSACI, Studien); (c) Welche Waschmaschinen-Trommelgröße (kg) für Double/King-Duvets nötig ist (Which?, Hersteller wie Hotpoint/Bosch/Beko, Bettwarenhersteller) und Anteil Haushalte mit großen Trommeln; (d) Handarthrose-Prävalenz UK (Versus Arthritis, Keele, BMJ), Schwierigkeit 'Arme über Schulterhöhe heben' bei Älteren (ELSA, Health Survey for England); (e) Arthritis-Ratgeber zu Bettmachen/Bettbezug (Versus Arthritis, NHS, Age UK, Occupational Therapy).*
+
+*Prüf-Fazit: Der Track ist überwiegend verlässlich. Von 46 Claims wurden 33 unverändert bestätigt und 9 korrigiert. 4 wurden verworfen, weil sie sich an der Quelle nicht überprüfen ließen: die 83-%-Angabe (nur unbelegter Registertext), das Silentnight-Händlerlisting, der gfu-Verkaufsanteil und der Forenbeitrag. Ein inhaltlicher Fehler betraf den Health Survey for England 2024: Hausarbeit und Wäsche (21 %) war nicht der häufigste Hilfebedarf, und 'Hilfebedarf' schließt 'mit Schwierigkeiten' ein. Außerdem stammen die ELSA-Werte aus einem Preprint, und die 30-%-Angabe von Allergy UK ist Baldacci et al. 2015 zugeordnet. Für Ads gut nutzbar sind die Hygiene- und Ratgeberaussagen (Allergy UK, Which?, NHS, Arthritis UK). Schwach bleiben die UK-weiten Mengenangaben: keine Prävalenz für Hausstaubmilben-Allergie, kein Haushaltsbestand großer Trommeln, Daten zu Älteren nur für England, und 'Schweiß' pro Nacht ist nur als Gesamtfeuchte inklusive Atem belegt.*
+
+### (a) Schweißmenge pro Nacht
+
+#### G8-01
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen, B Wechseljahre
+
+**In einer Laborstudie mit 6 jungen Männern (Klimakammer 23 °C, 55 % rel. Feuchte, Decke mit Polyesterfüllung) betrug der unmerkliche Körpermasseverlust im Schlaf durchschnittlich 42,4 ± 16,7 g pro Stunde, also rund 300 g in 7 Stunden.**
+
+> “During 7 h of sleep, insensible perspiration occurred as much as 42.4 ± 16.7 g h−1 in CON while TSR in Feet warming was 52.6 ± 10.3 g h−1 (Table 1). / ...each subject slept in a climatic chamber at an air temperature (Ta) of 23.0 ± 0.1 °C with 55.0 ± 0.7% relative humidity (RH) from 00:00 AM to 07:00 AM.”
+
+- **Quelle:** [Ko et al., Journal of Physiological Anthropology 37:13: 'Effects of feet warming using bed socks on sleep quality and thermoregulatory responses in a cool environment'](https://pmc.ncbi.nlm.nih.gov/articles/PMC5921564/)
+- **Datum der Quelle:** 2018-04-24 · **Typ:** Peer-Review-Studie
+- **Stichprobe/Methodik:** n=6 junge koreanische Männer (22,7 ± 2,0 Jahre), Kontrollnacht ohne Socken, Klimakammer, Decke mit Baumwollbezug und 3,5 cm Polyesterfüllung (160 × 200 cm)
+- **Einordnung/Einschränkung:** Primäre Messung (Körpergewicht vor und nach dem Schlaf, Waage mit 1 g Auflösung), aber sehr kleine Stichprobe, nur junge Männer, Laborbedingungen. Gemessen wurde der gesamte Masseverlust (Haut und Atem), nicht nur Schweiß. Rechnung: 42,4 g/h × 7 h ≈ 297 g ≈ 0,52 UK-Pint; ±1 SD etwa 180–415 g.
+- **Wahrheits-Check:** *bestätigt*. Per WebFetch geprüft: Werte, Bedingungen (23 °C, 55 % rel. Feuchte im Methodenteil; im Abstract stehen 50 %), n=6, Waage mit 1 g und Datum 24.04.2018 bestätigt. Laut Artikel war es eine 'blanket' mit Baumwollbezug und Polyesterfüllung, kein Duvet im UK-Sinn.
+
+#### G8-02
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen, B Wechseljahre
+
+**Bei 36 gesunden Erwachsenen von 50–70 Jahren, die bei 30 °C ohne Zudecke schliefen, lag die geschätzte Verdunstungsrate über den ganzen Körper bei 44,5–48,0 g pro Stunde (je nach Schlafanzugmaterial), hochgerechnet rund 360–385 g in 8 Stunden.**
+
+> “WBSER was 48.0±17.7 g·h−1 when sleeping in cotton compared to wool (44.7±17.6 g·h−1) and polyester (44.5±18.4 g·h−1), p=0.068 / No corrections were made for respiratory 'insensible' water loss, or weight changes due to metabolism.”
+
+- **Quelle:** [Chow et al., Nature and Science of Sleep: 'The impact of sleepwear fiber type on sleep quality under warm ambient conditions'](https://www.dovepress.com/the-impact-of-sleepwear-fiber-type-on-sleep-quality-under-warm-ambient-peer-reviewed-fulltext-article-NSS)
+- **Datum der Quelle:** 2019-08-26 · **Typ:** Peer-Review-Studie
+- **Stichprobe/Methodik:** n=36 gesunde Erwachsene, 50–70 Jahre, Schlaflabor Australien, ca. 30 °C, 50 % rel. Feuchte, Laken ohne Zudecke
+- **Einordnung/Einschränkung:** Peer-reviewt, aber Wärmebedingung (30 °C) ohne Zudecke und von Australian Wool Innovation finanziert. Atemfeuchte und Stoffwechselverlust wurden nicht herausgerechnet, 'Sweat' ist also zu hoch gegriffen. Die Hochrechnung auf 8 h ist eine eigene Rechnung (44,5–48,0 g/h × 8 h = 356–384 g).
+- **Wahrheits-Check:** *bestätigt*. Per WebFetch und curl geprüft: WBSER-Satz inklusive p=0,068, 'No corrections were made...', n=36, Alter 50–70, Raum ca. 30,1 °C und 50,2 % rel. Feuchte, Laken ohne Zudecke, AWI-Finanzierung und Datum 26.08.2019 bestätigt.
+
+#### G8-03
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen, B Wechseljahre
+
+**Eine populärwissenschaftliche Kolumne beziffert den gesamten nächtlichen Wasserverlust (Atem und Haut) bei einem gesunden jungen Mann auf etwa 25 ml pro Stunde bzw. 200 ml in 8 Stunden, wovon viel ausgeatmet und nicht von der Matratze aufgenommen wird.**
+
+> “Sweating while at rest is minimal below 85 degrees. You do lose a certain amount of moisture in your breath and by evaporation through your skin ... Total water loss by both routes for an average healthy young male averages about 25 milliliters per hour, or 200 milliliters per eight hours of sleep, and much of that is simply exhaled, not absorbed by the mattress.”
+
+- **Quelle:** [The Straight Dope (Cecil Adams): 'Do I sweat a liter every night?'](https://www.straightdope.com/21344068/do-i-sweat-a-liter-every-night)
+- **Datum der Quelle:** 2011-01-14 · **Typ:** Presse
+- **Einordnung/Einschränkung:** Journalistische Kolumne ohne Primärquelle. Der Wert liegt etwas unter den Labormessungen (G8-01/02: 42–48 g/h), die Größenordnung (wenige hundert ml pro Nacht, überwiegend Atem und Haut) passt aber. '85 degrees' meint °F (≈29 °C).
+- **Wahrheits-Check:** *bestätigt*. Wortlaut per WebFetch und vollständig per curl gelesen. Datum aus den Seitenmetadaten (datePublished 2011-01-14, dateModified 2020-07-28).
+
+### (a) Mythos 'a litre per night'
+
+#### G8-04
+
+❌ NICHT BELEGT / MYTHOS · Angle: C Bettbeziehen, B Wechseljahre
+
+**Die von Matratzenhändlern verbreitete Behauptung, ein Mensch schwitze jede Nacht einen Liter, ist für normalen Schlaf nicht belegt; gemessen werden insgesamt etwa 0,3–0,4 kg Masseverlust inklusive Atem.**
+
+> “[Leserbrief:] a spruiker from a mattress company claimed it was "common knowledge" that a human sweats a liter of water every night ... [Antwort Cecil Adams:] the idea that you sweat a liter or some other large amount per night isn't limited to Down Under, but rather is common among mattress floggers all over the world — I found one huckster claiming you sweat two to five gallons a night. ... 1. Normal sleep. No luck here.”
+
+- **Quelle:** [The Straight Dope (Cecil Adams): 'Do I sweat a liter every night?'](https://www.straightdope.com/21344068/do-i-sweat-a-liter-every-night)
+- **Datum der Quelle:** 2011-01-14 · **Typ:** Presse
+- **Einordnung/Einschränkung:** Die Kolumne zeigt, dass die Liter-Behauptung aus dem Matratzenverkauf stammt, und weist sie für normalen Schlaf zurück. Labormessungen (G8-01: ≈300 g/7 h; G8-02: ≈360–385 g/8 h bei 30 °C) liegen weit unter einem Liter, obwohl darin sogar die Atemfeuchte steckt. Laut Kolumne wären große Mengen nur bei Raumtemperaturen über 85 °F (≈29 °C) denkbar.
+- **Wahrheits-Check:** *bestätigt*. Mythos bestätigt. Wortlaut gefunden und gekennzeichnet: Die Spruiker-Passage stammt aus dem Leserbrief, die Huckster-Passage aus Cecils Antwort. Datum 14.01.2011 aus den Metadaten.
+
+### (a) Mythos '500 ml Schweiß pro Nacht' (Händler-PR)
+
+#### G8-05
+
+❌ NICHT BELEGT / MYTHOS · Angle: C Bettbeziehen, B Wechseljahre
+
+**Die Händler-'Research' von MattressNextDay, wonach man in einer durchschnittlichen Nacht rund 500 ml schwitze und ein Paar im Sommer 'just under 300 pints (105 litres)' produziere, ist nicht belegt und rechnerisch widersprüchlich.**
+
+> “New research from MattressNextDay has revealed that the average couple produces just under 300 pints of sweat (105 liters) at night over the summer. ... So, if we produce around 500ml of sweat on an average night, 92 days of warmer weather results in a huge 52.9 liters of sweat per person.”
+
+- **Quelle:** [Tom's Guide (Lauren Jeffries): 'Clean your mattress now, experts warn after new research reveals average couple's bed holds a bathtub full of sweat'](https://www.tomsguide.com/mattresses/mattress-care/share-a-bed-your-mattress-could-hold-a-bathtub-full-of-sweat-after-summer-experts-reveal)
+- **Datum der Quelle:** 2025-09-10 · **Typ:** Umfrage (Händler/Marke/PR)
+- **Stichprobe/Methodik:** keine Methodik genannt; Auftraggeber MattressNextDay (UK-Matratzenhändler)
+- **Einordnung/Einschränkung:** PR-Zahl eines Händlers ohne Quelle. 500 ml 'Schweiß' liegt über dem gemessenen Gesamtverlust (≈42–48 g/h). In sich widersprüchlich: 105 l sind ≈185 UK-Pints, nicht 'knapp 300'. Rechnung: 500 ml × 92 Nächte = 46 l, plus 15 % = 52,9 l, mal 2 = 105,8 l. Gesamtfeuchte wird als Schweiß bezeichnet.
+- **Wahrheits-Check:** *bestätigt*. Mythos bestätigt. Wortlaut per curl gefunden; Autorin Lauren Jeffries und Veröffentlichung 10.09.2025 auf der Seite bestätigt; keine Methodik im Artikel.
+
+### (a) Mythos 'up to 0.5 L of sweat per night' (Marke)
+
+#### G8-06
+
+❌ NICHT BELEGT / MYTHOS · Angle: C Bettbeziehen, B Wechseljahre
+
+**Die Angabe von Emma Sleep UK, der Durchschnittsmensch verliere bis zu 0,5 Liter Schweiß pro Nacht, ist ohne Quelle und als reine Schweißmenge nicht belegt.**
+
+> “Nocturnal sweating is quite natural and the average person loses up to 0.5 L of sweat per night.”
+
+- **Quelle:** [Emma Sleep UK, Lexikon: 'Night sweats'](https://www.emma-sleep.co.uk/lexicon/better-sleep/night-sweats/)
+- **Datum der Quelle:** unbekannt · **Typ:** Händler-/Hersteller-Ratgeber
+- **Einordnung/Einschränkung:** Keine Quelle, kein Datum. 0,5 l liegt am oberen Rand dessen, was bei Wärme als Gesamtverlust aus Atem und Haut gemessen wird (G8-02). Als 'Schweiß' für den Durchschnittsmenschen nicht belegt; 'average person ... up to' vermischt Durchschnitt und Maximum.
+- **Wahrheits-Check:** *bestätigt*. Mythos bestätigt. Wortlaut wörtlich gefunden; keine Quelle, Felder für Veröffentlichungs- und Änderungsdatum leer, Autor nur 'Emma Sleep'.
+
+### (a) Schweißmenge pro Nacht (Markenangabe 200–500 ml)
+
+#### G8-07
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen, B Wechseljahre
+
+**Der Duvet-Anbieter Cloudpillo gibt an, man verliere pro Nacht durchschnittlich 200 bis 500 ml Flüssigkeit durch Schweiß und Atmung; das passt zur Größenordnung der Labordaten, ist aber nicht belegt.**
+
+> “Everyone sweats while they sleep. On average, we lose 200 to 500 ml of fluid each night through sweat and breathing.”
+
+- **Quelle:** [Cloudpillo Blog (Lars van der Wijst): 'Best duvet for night sweats'](https://cloudpillo.com/blogs/news/best-duvet-for-night-sweats)
+- **Datum der Quelle:** 2025-08-25 · **Typ:** Händler-/Hersteller-Ratgeber
+- **Einordnung/Einschränkung:** Händlerquelle ohne Beleg. Die Spanne passt aber zu den Studien (G8-01/02) und zählt die Atmung korrekt mit. Für Ads nur als 'rund 200–500 ml Feuchtigkeit über Haut und Atem' mit Studienbeleg verwendbar, nicht als 'Schweiß'.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut, Autor und Datum 25.08.2025 per WebFetch bestätigt; keine Quellenangabe.
+
+### (a) Herkunft 'half a pint' / Einordnung der Pint-Angaben
+
+#### G8-08
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen, B Wechseljahre
+
+**Ein halbes UK-Pint (≈284 ml) Feuchtigkeitsverlust pro Nacht entspricht etwa dem gemessenen Gesamtverlust über Haut und Atem (≈297 g in 7 Stunden bei 23 °C), ein ganzes Pint (≈568 ml) dagegen nicht.**
+
+> “During 7 h of sleep, insensible perspiration occurred as much as 42.4 ± 16.7 g h−1 in CON”
+
+- **Quelle:** [Ko et al., Journal of Physiological Anthropology (2018), abgeglichen mit Chow et al., Nature and Science of Sleep (2019)](https://pmc.ncbi.nlm.nih.gov/articles/PMC5921564/)
+- **Datum der Quelle:** 2018-04-24 · **Typ:** Peer-Review-Studie
+- **Stichprobe/Methodik:** n=6 (Ko); n=36 (Chow)
+- **Einordnung/Einschränkung:** Eigene Umrechnung: 1 UK-Pint = 568 ml; 42,4 g/h × 7 h ≈ 297 g ≈ 0,52 Pint. Bei Wärme (Chow, 30 °C, ohne Decke) ≈ 0,63–0,68 Pint in 8 h. 'Half a pint' ist als Gesamtfeuchte (nicht Schweiß) plausibel, 'a pint' nur bei Wärme annähernd, 'a litre' gar nicht. Woher 'half a pint' in der Bettwarenwerbung stammt, ist nicht ermittelt.
+- **Wahrheits-Check:** *bestätigt*. Rechnung nachgeprüft (297/568 = 0,52; 356–384/568 = 0,63–0,68). Ausgangswerte in G8-01/02 an der Quelle bestätigt. Eine Suche nach 'half a pint of sweat' ergab keine Fundstelle.
+
+### (a) Nachtschweiß-Definition (NHS)
+
+#### G8-10
+
+✅ BELEGT · Angle: B Wechseljahre, C Bettbeziehen
+
+**Das NHS definiert Nachtschweiß als so starkes Schwitzen, dass Nachtwäsche und Bettzeug durchnässt sind, obwohl der Schlafplatz kühl ist, und nennt Wechseljahresbeschwerden (Hitzewallungen) als ersten Punkt unter den häufigsten Ursachen.**
+
+> “Night sweats are when you sweat so much that your night clothes and bedding are soaking wet, even though where you're sleeping is cool. ... The most common reasons for night sweats are: menopause symptoms ("hot flushes") ...”
+
+- **Quelle:** [NHS: 'Night sweats'](https://www.nhs.uk/symptoms/night-sweats/)
+- **Datum der Quelle:** 2023-11-09 · **Typ:** Behörde/NHS/Statistikamt
+- **Einordnung/Einschränkung:** Offizielle NHS-Definition (zuletzt geprüft am 09.11.2023, nächste Prüfung 09.11.2026). Wechseljahre stehen zuerst in der Liste der häufigsten Ursachen. Mengenangaben gibt es nicht. Wichtig für Ads: Nachtschweiß tritt laut Definition auch bei kühler Umgebung auf; ein Duvet ist also keine Lösung für echten Nachtschweiß.
+- **Wahrheits-Check:** *korrigiert*. Wortlaut um den Satzteil 'even though where you're sleeping is cool' und die Formulierung 'most common reasons' ergänzt (per curl gelesen). Datumsangaben bestätigt.
+
+### (a) Normales Schwitzen durch zu warmes Bettzeug (NHS)
+
+#### G8-11
+
+✅ BELEGT · Angle: B Wechseljahre, C Bettbeziehen
+
+**Laut NHS ist es normal, nachts zu schwitzen, wenn der Raum oder das Bettzeug zu warm ist.**
+
+> “It's normal to sweat during the night if the room or your bedding is making you too hot.”
+
+- **Quelle:** [NHS: 'Night sweats'](https://www.nhs.uk/symptoms/night-sweats/)
+- **Datum der Quelle:** 2023-11-09 · **Typ:** Behörde/NHS/Statistikamt
+- **Einordnung/Einschränkung:** Offizielle NHS-Aussage. Für das Produkt relevant: Which? zählt 10.5–15 tog zu den Winterdecken ('A high tog of 10.5 to 15 is better for winter'). Ads dürfen nicht suggerieren, ein 10.5-tog-Duvet verhindere Nachtschweiß, denn zu warmes Bettzeug nennt das NHS selbst als Grund zu schwitzen.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut wörtlich bestätigt (WebFetch und curl). Which?-Zitat zu 10.5–15 tog auf der Which?-Duvetseite (17.07.2026) bestätigt.
+
+### (b) Hausstaubmilben-Allergie: Häufigkeit (Allergy UK)
+
+#### G8-12
+
+✅ BELEGT · Angle: C Bettbeziehen
+
+**Allergy UK bezeichnet die Hausstaubmilben-Allergie als 'very common' und als Auslöser bzw. Verstärker von Asthma, Ekzem und ganzjähriger allergischer Rhinitis, nennt im Factsheet aber keine Prävalenzzahl.**
+
+> “House dust mite allergy is very common and is associated with triggering or worsening symptoms of asthma, eczema, and perennial or chronic allergic rhinitis.”
+
+- **Quelle:** [Allergy UK Factsheet: 'House dust mite allergy' (Version 6)](https://www.allergyuk.org/wp-content/uploads/2023/10/House-Dust-Mite-Allergy-v6.pdf)
+- **Datum der Quelle:** 2023-10 · **Typ:** Fachgesellschaft/Charity
+- **Einordnung/Einschränkung:** Nationale Allergie-Charity; peer-reviewt von Dr. Glenis Scadding. Belegt ist nur die qualitative Aussage 'very common', eine Zahl fehlt. Letzte Prüfung 10/23, nächste 10/26.
+- **Wahrheits-Check:** *bestätigt*. PDF per WebFetch geladen, Text per pdftotext gelesen. Wortlaut, 'Last review date: 10/23', 'Next review: 10/26', Version 6 und Peer-Reviewer bestätigt. Die Factsheet-Seite bietet am 08.10.2026 weiterhin Version 6 an und nennt keine Zahlen.
+
+### (b) Hausstaubmilben: Waschen bei 60 °C
+
+#### G8-13
+
+✅ BELEGT · Angle: C Bettbeziehen
+
+**Laut Allergy UK tötet Waschen bei mindestens 60 °C Hausstaubmilben, während Waschen bei niedrigeren Temperaturen das Allergen nur vorübergehend auswäscht; nicht umhüllte Bettwäsche soll wöchentlich gewaschen werden.**
+
+> “Wash all bedding that is not encased in barrier covers (e.g., sheets, blankets) every week. Washing at 60 degrees centigrade or above will kill mites. House dust mite allergen dissolves in water so washing at lower temperatures will wash the allergen away temporarily, but the mites will survive and produce more allergen after a while.”
+
+- **Quelle:** [Allergy UK Factsheet: 'House dust mite allergy' (Version 6)](https://www.allergyuk.org/wp-content/uploads/2023/10/House-Dust-Mite-Allergy-v6.pdf)
+- **Datum der Quelle:** 2023-10 · **Typ:** Fachgesellschaft/Charity
+- **Einordnung/Einschränkung:** Klare Empfehlung der Fachcharity, von Which? bestätigt (G8-17). Für Ads: Nur ein laut Pflegeetikett bei 60 °C waschbares Duvet hat diesen Allergie-Nutzen; 40 °C reicht laut Quelle nicht, um Milben zu töten.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut im PDF-Text wörtlich gefunden.
+
+### (b) Mythos: Duvet/Waschen beseitigt Hausstaubmilben bzw. die Allergie
+
+#### G8-14
+
+❌ NICHT BELEGT / MYTHOS · Angle: C Bettbeziehen
+
+**Die Werbebehauptung, ein (Anti-Allergie-)Duvet oder regelmäßiges Waschen beseitige Hausstaubmilben bzw. die Allergie, ist nicht belegt. Laut Allergy UK lassen sich Milben nie vollständig entfernen, Vermeidungsmaßnahmen senken das Allergen nur, und der Allergy-UK-Fachartikel (G8-16) betont, dass Bettwäsche allein zu wechseln nicht reicht.**
+
+> “Unfortunately, it is not possible to completely remove house dust mites from your home, no matter how clean it is. ... Washing bedding regularly can sometimes help, although clinical trials suggest that multiple measures need to be taken, possibly including the use of chemicals called acaricides, in order to see an effect. ... Measures to avoid house dust mite will lower, but do not totally remove, dust mite allergens.”
+
+- **Quelle:** [Allergy UK Factsheet: 'House dust mite allergy' (Version 6)](https://www.allergyuk.org/wp-content/uploads/2023/10/House-Dust-Mite-Allergy-v6.pdf)
+- **Datum der Quelle:** 2023-10 · **Typ:** Fachgesellschaft/Charity
+- **Einordnung/Einschränkung:** Die Fachcharity widerspricht ausdrücklich der Idee einer vollständigen Beseitigung. 'Allergy-free' oder 'eliminates dust mites' wären irreführend. Zulässig ist eher: 'bei 60 °C waschbar – Waschen ab 60 °C tötet Milben (Allergy UK)'.
+- **Wahrheits-Check:** *bestätigt*. Mythos bestätigt. Alle drei Sätze im PDF-Text gefunden; den Satz 'Measures ... do not totally remove' ergänzt. Die Aussage zum Bettwäschewechsel stammt aus dem HCP-Artikel (G8-16), nicht aus dem Factsheet, und ist jetzt so zugeordnet.
+
+### (b) Hausstaubmilben: Barrierebezüge für Duvets
+
+#### G8-15
+
+✅ BELEGT · Angle: C Bettbeziehen
+
+**Allergy UK empfiehlt atmungsaktive, allergendichte Barrierebezüge, die Matratzen, Duvets und Kissen vollständig umschließen, weil ein erheblicher Teil der Allergenbelastung im Bett stattfindet.**
+
+> “A significant amount of exposure to house dust mite allergen happens in the bed ... Use allergen-proof barrier covers on all mattresses, duvets, and pillows. These should be breathable and should completely enclose the item.”
+
+- **Quelle:** [Allergy UK Factsheet: 'House dust mite allergy' (Version 6)](https://www.allergyuk.org/wp-content/uploads/2023/10/House-Dust-Mite-Allergy-v6.pdf)
+- **Datum der Quelle:** 2023-10 · **Typ:** Fachgesellschaft/Charity
+- **Einordnung/Einschränkung:** Empfehlung der Fachcharity. Für Angle C: Das Bett ist der Hauptort der Exposition, das ist ein Hygieneanlass für Bezug und Waschen. Keine Wirksamkeitszahl; die Maßnahmen senken das Allergen nur.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut im PDF-Text wörtlich gefunden.
+
+### (b) Hausstaubmilben: Allergy-UK-Fachartikel (Lebensstil, 60 °C)
+
+#### G8-16
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**Ein Fachartikel von Allergy UK nennt unter Berufung auf Baldacci et al. (2015), dass schätzungsweise 30 % der Menschen mit Atopie ihren Lebensstil ändern mussten. Er betont, dass Maßnahmen kombiniert werden müssen, ein Wechsel der Bettwäsche allein nicht reicht und Bettwäsche bei 60 °C gewaschen oder chemisch gereinigt werden sollte.**
+
+> “It is estimated that 30% of people with atopy (those with one or more allergic conditions such as asthma, eczema, allergic rhinitis or hayfever, and allergies themselves) have had to change their lifestyle to help reduce their risk of reaction. ... What is evident is that the measures should be taken together – changing bedding alone, for example, is not sufficient. Bedding should be washed at 60 degrees, and if this is not possible should be dry cleaned.”
+
+- **Quelle:** [Allergy UK (Laura King, Paediatric Asthma Nurse Specialist): 'Spotlight on House Dust Mite Allergy'](https://www.allergyuk.org/hcp-resources/house-dust-mite-article/)
+- **Datum der Quelle:** 2023-02-24 · **Typ:** Fachgesellschaft/Charity
+- **Einordnung/Einschränkung:** Die 30 % betreffen alle Menschen mit Atopie, nicht speziell Hausstaubmilben-Allergiker. Sie stützen sich auf Baldacci et al. 2015, das nicht UK-spezifisch ist. Die 60-°C-Empfehlung passt zum Factsheet (G8-13).
+- **Wahrheits-Check:** *korrigiert*. Per WebFetch geprüft: Der 30-%-Satz ist ausdrücklich Baldacci et al. 2015 zugeordnet; die Angabe, im Satz fehle eine Quelle, war falsch. Wortlaut um 'What is evident is that the measures should be taken together' ergänzt. Autorin und Datum 24.02.2023 bestätigt.
+
+### (b) Hausstaubmilben: Which?-Empfehlung 60 °C
+
+#### G8-17
+
+✅ BELEGT · Angle: C Bettbeziehen
+
+**Which? bestätigt, dass Hausstaubmilben durch Waschen ab 60 °C abgetötet und ihre Allergene entfernt werden, und rät Allergikern, ein Duvet zu wählen, das wiederholtes Waschen bei dieser Temperatur alle ein bis zwei Monate verträgt.**
+
+> “dust mites can be killed and their allergens removed by washing at temperatures of 60°C or above ... check that it can withstand repeated washing at this temperature or higher every one to two months.”
+
+- **Quelle:** [Which?: 'Best duvets 2026: tried and tested for comfort and warmth'](https://www.which.co.uk/reviews/duvets/article/choosing-the-best-type-of-duvet-aXUX91B9AImk)
+- **Datum der Quelle:** 2026-07-17 · **Typ:** Sonstiges
+- **Einordnung/Einschränkung:** Unabhängige Verbraucherorganisation, deckt sich mit Allergy UK (G8-13). Für Ads: Nur wenn das 10.5-tog-Duvet laut Pflegeetikett 60 °C verträgt, darf damit geworben werden.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut und Seitendatum 17.07.2026 bestätigt (zuletzt geprüft: Juni 2026; Testzeiträume April 2026 und März 2024).
+
+### (b) Allergische Rhinitis in UK (alle Auslöser)
+
+#### G8-18
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen, Markt
+
+**Laut BSACI-Leitlinie betrifft allergische Rhinitis 10–15 % der Kinder und 26 % der Erwachsenen in UK; das umfasst alle Auslöser, nicht nur Hausstaubmilben.**
+
+> “Allergic rhinitis is common and affects 10–15% of children and 26% of adults in the UK ... In the UK, rhinitis prevalence is 10.1% and 15.3% in 6-7 and 13-14 year olds respectively, and 26% in UK adults.”
+
+- **Quelle:** [BSACI (Scadding et al.), Clinical & Experimental Allergy 47:856–889: 'BSACI guideline for the diagnosis and management of allergic and non-allergic rhinitis (Revised Edition 2017)'](https://www.bsaci.org/wp-content/uploads/2020/01/Scadding_et_al-2017-Clinical_amp_Experimental_Allergy.pdf)
+- **Datum der Quelle:** 2017 · **Typ:** Fachgesellschaft/Charity
+- **Einordnung/Einschränkung:** Seriöse Leitlinie, aber von 2017. Die Erwachsenenzahl stützt sich auf Ref. 33, Bauchau & Durham, Eur Respir J 2004, also Daten aus den frühen 2000er-Jahren. Nicht hausstaubmilbenspezifisch und für eine Aussage 'X % der Briten sind gegen Hausstaubmilben allergisch' unbrauchbar.
+- **Wahrheits-Check:** *bestätigt*. PDF per WebFetch geladen und per pdftotext gelesen: beide Sätze, DOI 10.1111/cea.12953 und Annahme am 04.05.2017 bestätigt. Ref. 33 als Bauchau & Durham 2004 identifiziert.
+
+### (b) Hausstaubmilben-Sensibilisierung (UK-Kohorte)
+
+#### G8-19
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**In der Isle-of-Wight-Geburtskohorte (Jahrgang 1989/90) reagierten im Alter von 4 Jahren 11,9 % der 981 per Pricktest getesteten Kinder positiv auf Hausstaubmilben; das war das häufigste Allergen.**
+
+> “House dust mite (11.9%), grass pollen (7.8%), and cat (5.8%) were the most common positive reactions.”
+
+- **Quelle:** [Arshad SH, Tariq SM, Matthews S, Hakim E., Pediatrics 108(2):e33: 'Sensitization to common allergens and its association with allergic disorders at age 4 years: a whole population birth cohort study'](https://doi.org/10.1542/peds.108.2.e33)
+- **Datum der Quelle:** 2001-08 · **Typ:** Peer-Review-Studie
+- **Stichprobe/Methodik:** Geburtskohorte n=1.456 (1989–1990), Isle of Wight; Pricktests bei 981 Kindern (67 %) im Alter von 4 Jahren
+- **Einordnung/Einschränkung:** Echte Bevölkerungskohorte, aber nur Kinder, eine Region und Daten aus den frühen 1990er-Jahren. Laut Abstract hatten die getesteten Kinder häufiger allergische Erkrankungen als der Rest der Kohorte, was zu Verzerrung führen kann. Sensibilisierung ist nicht gleich klinische Allergie.
+- **Wahrheits-Check:** *bestätigt*. Die Europe-PMC-Webseite lieferte 403; das Abstract (PMID 11483843) wurde über die Europe-PMC-REST-API selbst abgerufen. Wortlaut, n und Datum bestätigt; Hinweis auf Selektionsverzerrung ergänzt.
+
+### (b) Mythos '12 Millionen Briten allergisch gegen Hausstaubmilben'
+
+#### G8-20
+
+❌ NICHT BELEGT / MYTHOS · Angle: C Bettbeziehen
+
+**Die verbreitete Zahl 'mindestens 12 Millionen Briten sind allergisch gegen ihr eigenes Zuhause' stammt aus Presseberichten von 2011 über eine Allergy-UK-Umfrage und ist keine belastbare Prävalenz für Hausstaubmilben-Allergie.**
+
+> “Now the house dust mite is behind an unprecedented rise in household allergies, with at least 12 million Britons allergic to their own homes, according to new research. Cases of perennial allergic rhinitis - known as "home fever" - have risen dramatically, with dust mites accounting for 58 per cent of all household allergies.”
+
+- **Quelle:** [The Independent (Kunal Dutta): 'Millions suffer home fever as allergy epidemic begins to bite' (Auszug auf La Clé des Langues, ENS Lyon)](https://cle.ens-lyon.fr/anglais/archives/archives-revue-de-presse/millions-suffer-home-fever-as-allergy-epidemic-begins-to-bite)
+- **Datum der Quelle:** 2011-11 · **Typ:** Presse
+- **Stichprobe/Methodik:** laut anderen Presseberichten (u. a. Scotsman, IOL, 11/2011) Allergy-UK-Umfrage unter ca. 1.600 Allergikern zur Indoor Allergy Week; Methodik unbekannt
+- **Einordnung/Einschränkung:** 15 Jahre alt; wie die 12 Mio. entstanden sind, ist nicht nachvollziehbar. Die Zahl betrifft ganzjährige Rhinitis ('home fever') insgesamt. Die 58 % werden in der Presse widersprüchlich wiedergegeben: als Anteil an Haushaltsallergien oder als Anteil der befragten Allergiker. Allergy UK nennt heute keine solche Zahl (G8-12).
+- **Wahrheits-Check:** *bestätigt*. Mythos bestätigt. Wortlaut auf der ENS-Lyon-Seite gefunden (Seitendatum 14.11.2011, Originaldatum der Independent nicht angegeben). Die Websuche bestätigt die Umfrage unter rund 1.600 Allergikern nur über Presse-Snippets. Nicht für Ads verwenden.
+
+### (c) Trommelgrößen: Verbreitung (Which?)
+
+#### G8-21
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen, Markt
+
+**Laut Which? reichen Waschmaschinen-Trommeln von 5 bis 14 kg; die beliebtesten Größen sind 9 und 10 kg, für die meisten mittelgroßen UK-Haushalte genüge aber 8 kg.**
+
+> “Washing machine drum sizes range from 5kg to 14kg. ... The most popular drum sizes are 9kg and 10kg ... most medium-sized households in the UK will find an 8kg capacity machine perfectly adequate.”
+
+- **Quelle:** [Which?: 'Best washing machines 2026: our expert picks from independent tests'](https://www.which.co.uk/reviews/washing-machines/article/which-washing-machine-should-you-buy-aafjl7E6UgGx)
+- **Datum der Quelle:** 2026-10-07 · **Typ:** Sonstiges
+- **Einordnung/Einschränkung:** Unabhängige Verbraucherorganisation, sehr aktuell. Für 'most popular' fehlt aber jede Datenbasis, und die Angabe sagt nichts darüber, welche Trommelgrößen die Haushalte tatsächlich besitzen.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut und Datum 07.10.2026 per WebFetch bestätigt; die Seite erwähnt keine Duvets.
+
+### (c) Effektive Kapazität im Synthetik-Programm (Which?)
+
+#### G8-22
+
+✅ BELEGT · Angle: C Bettbeziehen
+
+**Laut Which? schafft das Synthetik-Programm einer Waschmaschine in der Regel nur etwa 50 % der angegebenen Baumwoll-Kapazität, andere Programme teils noch weniger.**
+
+> “As a rule, the synthetics program on a washing machine can handle around 50% of the stated cottons capacity. ... Other programs have smaller capacities – sometimes less than half the drum size.”
+
+- **Quelle:** [Which?: 'Best washing machines 2026: our expert picks from independent tests'](https://www.which.co.uk/reviews/washing-machines/article/which-washing-machine-should-you-buy-aafjl7E6UgGx)
+- **Datum der Quelle:** 2026-10-07 · **Typ:** Sonstiges
+- **Einordnung/Einschränkung:** Allgemeine Regel, deckt sich mit Beko (G8-23). Die kg-Angabe gilt für Baumwolle. Wie viel ein Synthetik-Duvet im Pflegeleicht-Programm effektiv belegt, ist eigene Ableitung; Which? erwähnt Duvets auf dieser Seite nicht.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut wörtlich bestätigt. In der Begründung klargestellt, dass der Duvet-Bezug eine eigene Ableitung ist.
+
+### (c) Beladung nach Programm (Hersteller Beko)
+
+#### G8-23
+
+✅ BELEGT · Angle: C Bettbeziehen
+
+**Beko gibt an, dass die Trommel bei Baumwolle zu 100 %, bei Synthetik nur zu 50 % und bei Wolle nur zu 25 % ihrer Nennkapazität beladen werden darf.**
+
+> “Cotton Fabric Cycles – You can fill the drum up to 100% of its capacity. (Don't overload your machine though, that can cause problems) / Synthetic Fabric Cycles – You can fill the drum up to 50% of its capacity. / Wool Fabric Cycles - You can fill the drum up to 25% of its capacity.”
+
+- **Quelle:** [Beko UK: 'How much laundry to load for different programs and laundry type'](https://www.beko.co.uk/support/how-to-guides/washing-machines/how-much-laundry-to-load-for-different-programs-and-laundry-type)
+- **Datum der Quelle:** unbekannt · **Typ:** Händler-/Hersteller-Ratgeber
+- **Einordnung/Einschränkung:** Herstellerangabe für Beko-Geräte, deckt sich mit Which? (G8-22). Duvets werden nicht erwähnt. Kein Seitendatum; das eingebettete Video ist von 2020.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut mit Programmbezeichnungen bestätigt und vervollständigt; kein Seitendatum.
+
+### (c) Faustregel Handbreit und Größenklassen (Beko)
+
+#### G8-24
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**Beko empfiehlt, zwischen Wäsche und Trommeloberkante eine Handbreit Platz zu lassen, und ordnet 9–12 kg als 'große Kapazität' für große Familien ein; ein 9-kg-Modell wasche bis zu 4 Doppelbett-Wäschegarnituren pro Gang.**
+
+> “leave a hands width space between the laundry and top of the drum to avoid overloading. ... Large capacity washing machines are designed for big families who often wash heavy loads. ... Can wash up to 4 double bed linen sets, 12 towels, or 45 shirts in one cycle.”
+
+- **Quelle:** [Beko UK: Washing machine buying guide](https://beko.co.uk/support/buying-guides/washing-machine)
+- **Datum der Quelle:** unbekannt · **Typ:** Händler-/Hersteller-Ratgeber
+- **Einordnung/Einschränkung:** Herstellerratgeber ohne Datum. 'Bed linen sets' meint Bettwäsche, keine Bettdecken. Für Duvets nennt Beko keine kg-Angabe.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut bestätigt. Die 4 Garnituren gelten für das 9-kg-Modell (Fußnote: abhängig von Art und Volumen); große Kapazität umfasst 9, 10, 11 und 12 kg; keine Duvets, kein Datum.
+
+### (c) Große Teile wie Duvets brauchen größere Maschine (Bosch)
+
+#### G8-25
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**Bosch (Irland) weist darauf hin, dass selbst kleine Haushalte für große Teile wie Vorhänge und Duvets eine größere Maschine brauchen können, und empfiehlt 8 kg für 3–4 Personen, 9 kg ab 5 Personen und 10 kg für Vielwäscher.**
+
+> “Even if your household is small, you may need a larger machine to have space to wash large items such as curtains and duvets.”
+
+- **Quelle:** [Bosch Home Ireland: 'Washing machines – considerations'](https://bosch-home.ie/products/washers-dryers/washing-machines/considerations)
+- **Datum der Quelle:** unbekannt · **Typ:** Händler-/Hersteller-Ratgeber
+- **Einordnung/Einschränkung:** Herstellerseite für Irland, nicht UK; keine kg-Zahl für Duvets, kein Datum. Bestätigt nur qualitativ, dass Duvets ein Kapazitätsproblem sind.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut und Haushaltsangaben bestätigt (8 kg: 3–4 Personen, 9 kg: ab 5, 10 kg: 'household that does a lot of laundry'). Die UK-Seite bosch-home.co.uk hat keine entsprechende Aussage.
+
+### (c) Which?: 8 kg reichen für ein King-Size-Bettwäscheset
+
+#### G8-26
+
+✅ BELEGT · Angle: C Bettbeziehen
+
+**Which? schreibt, dass 8 kg Waschkapazität für ein King-Size-Bettwäscheset reichen; gemeint ist Bettwäsche (Laken, Bezug, Kissenbezüge), nicht das Duvet selbst.**
+
+> “Note that an 8kg wash capacity is roomy enough for a king-size bedding set, but the dryer capacity will be smaller”
+
+- **Quelle:** [Which?: 'Best washer-dryers 2026: space-saving 2-in-1 machines'](https://www.which.co.uk/reviews/washer-dryers/article/how-to-buy-the-best-washer-dryer-a2E9e9t4qwnL)
+- **Datum der Quelle:** 2026-10-01 · **Typ:** Sonstiges
+- **Einordnung/Einschränkung:** Aktuelle Which?-Aussage. Which? listet die Bestandteile als 'sheet, duvet cover and pillowcases'. Daraus folgt nicht, dass ein King-Duvet in eine 8-kg-Maschine passt.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut, Bestandteile des Sets und Datum 01.10.2026 bestätigt.
+
+### (c) Händler-Experte: mindestens 9 kg für Double/King-Duvet
+
+#### G8-27
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**Eine Waschmaschinen-Expertin des Händlers AO.com sagt, für ein Double- oder King-Size-Duvet brauche man mindestens eine 9-kg-Trommel.**
+
+> “'For example, with a double or king-size duvet, you'll need at least a 9kg drum to ensure you don't damage either your duvet or washing machine.'”
+
+- **Quelle:** [Ideal Home (Katie Sims; Zitat Katy Roberts, AO.com): 'Can you wash a duvet in a washing machine? It's a yes, but you'll need to follow this expert guidance'](https://www.idealhome.co.uk/bedroom/can-you-wash-a-duvet-in-the-washing-machine)
+- **Datum der Quelle:** 2024-12-07 · **Typ:** Presse
+- **Einordnung/Einschränkung:** Expertenmeinung eines Elektrohändlers ohne Test- oder Datenbasis. Liegt über den Mindestangaben von Hotpoint und Silentnight (7–8 kg, G8-V01–V03) und unter Fine Bedding (10 kg für 10.5 tog King, G8-29).
+- **Wahrheits-Check:** *bestätigt*. Wortlaut per curl gefunden; Autorin Katie Sims und 'Published 7 December 2024' bestätigt.
+
+### (c) Händler-Experte: 7 kg zu klein für 13,5-tog-Double/King
+
+#### G8-28
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**Laut derselben AO.com-Expertin ist eine 7-kg-Trommel in der Regel zu klein für ein 13,5-tog-Duvet, besonders in Double- oder King-Size.**
+
+> “'Typically speaking, a 7kg drum will be too small for a 13.5 tog duvet – particularly if this is a double or king size. Try to avoid this where possible, as this can lead to uneven washing or perhaps damage your duvet and washing machine.'”
+
+- **Quelle:** [Ideal Home (Katie Sims; Zitat Katy Roberts, AO.com): 'Can you wash a duvet in a washing machine?'](https://www.idealhome.co.uk/bedroom/can-you-wash-a-duvet-in-the-washing-machine)
+- **Datum der Quelle:** 2024-12-07 · **Typ:** Presse
+- **Einordnung/Einschränkung:** Händlerexpertin ohne Datenbasis; bezieht sich auf 13,5 tog, nicht direkt auf 10.5 tog.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut per curl gefunden.
+
+### (c) Bettwarenhersteller: 10 kg für 10.5 tog King/Super King
+
+#### G8-29
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**Der UK-Bettwarenhersteller Fine Bedding empfiehlt für seine Night-Owl/Lark-Duvets Trommeln ab 7 kg und schreibt, dass 10.5-tog-Duvets in King und Super King eine große 10-kg-Maschine benötigen.**
+
+> “We recommend all our Night Owl/ Lark duvets are washed in +7KG drums ... Note, 10.5 Tog King and Super King sizes require a large capacity washing machine (10kg).”
+
+- **Quelle:** [Fine Bedding Company: 'Night Owl/ Lark Products' (Support)](https://www.finebedding.co.uk/pages/support-night-owl-lark-products)
+- **Datum der Quelle:** unbekannt · **Typ:** Händler-/Hersteller-Ratgeber
+- **Einordnung/Einschränkung:** Konkrete Herstellerangabe genau für 10.5 tog, aber nur für diese Produktlinie (empfohlene Waschtemperatur 40 °C). Andere Hersteller nennen niedrigere Werte (G8-V01–V03).
+- **Wahrheits-Check:** *bestätigt*. Wortlaut und 40 °C bestätigt; kein Seitendatum (nur © 2026).
+
+### (c) Duvet-Gewichte 10.5 tog (Which?-Test) und Waschbarkeit
+
+#### G8-31
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**Im Which?-Duvettest (alle Testdecken in King Size) wiegt z. B. das Panda Cloud Duvet (10.5 tog) 4,78 kg; laut Which? lassen sich die meisten Duvets, darunter alle getesteten, zu Hause in der Maschine waschen (empfohlen ein- bis zweimal pro Jahr).**
+
+> “Each duvet we test is king size ... Most duvets, including all the ones we've tested, can be washed at home in your washing machine. We recommend doing this once or twice a year to keep yours fresh. ... 10.5 tog, 4.78kg weight, machine washable at 40°C, silky finish on the cover”
+
+- **Quelle:** [Which?: 'Best duvets 2026: tried and tested for comfort and warmth'](https://www.which.co.uk/reviews/duvets/article/choosing-the-best-type-of-duvet-aXUX91B9AImk)
+- **Datum der Quelle:** 2026-07-17 · **Typ:** Sonstiges
+- **Einordnung/Einschränkung:** Unabhängiger Test. Das Gewicht gilt für ein einzelnes Produkt (King Size, trocken). 'Machine-washable' sagt nichts über die nötige Trommelgröße. Which? empfiehlt 1–2 Wäschen pro Jahr, für Allergiker 60 °C alle 1–2 Monate (G8-17).
+- **Wahrheits-Check:** *korrigiert*. Offener Punkt geklärt: Which? schreibt 'Each duvet we test is king size'; die Bettgröße wurde in Aussage und Wortlaut ergänzt. Gewicht, 40 °C und Datum 17.07.2026 bestätigt.
+
+### (d) Handarthrose-Prävalenz (Keele, ab 50 Jahren)
+
+#### G8-33
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen, D Geschenk
+
+**In einer Keele-Bevölkerungsstudie in North Staffordshire lagen die rohen Prävalenzschätzungen symptomatischer Handarthrose bei Erwachsenen ab 50 Jahren bei 22,4 % (Daumensattelgelenk), 15,5 % (nodale Fingergelenke) und 10,4 % (generalisierte Handarthrose).**
+
+> “Crude population prevalence estimates for symptomatic hand OA subsets in the adult population aged 50 years and over were: thumb base OA (22.4%), nodal interphalangeal joint (IPJ) OA (15.5%), generalised hand OA (10.4%), non-nodal IPJ OA (4.9%), erosive OA (1.0%).”
+
+- **Quelle:** [Marshall M, Peat G, Nicholls E et al. (Keele), Osteoarthritis and Cartilage: 'Subsets of symptomatic hand osteoarthritis in community-dwelling older adults in the United Kingdom'](https://pmc.ncbi.nlm.nih.gov/articles/PMC3819994/)
+- **Datum der Quelle:** 2013-08-13 · **Typ:** Peer-Review-Studie
+- **Stichprobe/Methodik:** 1.076 Erwachsene mit Handbeschwerden (60 % Frauen, Ø 64,7 Jahre), Bevölkerungskohorte North Staffordshire (England); Hochrechnung auf die Bevölkerung ab 50
+- **Einordnung/Einschränkung:** Peer-reviewte UK-Primärstudie, aber regional, rohe (nicht altersstandardisierte) Schätzungen und Daten über 10 Jahre alt. Die Subtypen überlappen und dürfen nicht addiert werden.
+- **Wahrheits-Check:** *bestätigt*. Abstract (PMID 23954700) über die Europe-PMC-REST-API selbst abgerufen; Wortlaut, n, Frauenanteil, Durchschnittsalter und Datum bestätigt.
+
+### (d) Handarthrose häufiger als Knie-/Fußarthrose (Keele)
+
+#### G8-34
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen, D Geschenk
+
+**In drei Keele-Kohorten aus North Staffordshire war symptomatische Handarthrose häufiger als Knie- oder Fußarthrose (22,4 % vs. 17,4 % vs. 16,5 %), vor allem wegen häufiger Fingergelenksarthrose bei Frauen.**
+
+> “Overall, symptomatic hand OA was more common than knee or foot OA (22.4% vs 17.4% vs 16.5%), due mainly to the high prevalence of nodal interphalangeal joint OA among women.”
+
+- **Quelle:** [Peat G et al. (Keele), Musculoskeletal Care: 'Relative prevalence and distribution of knee, hand and foot symptomatic osteoarthritis subtypes in an English population'](https://doi.org/10.1002/msc.1457)
+- **Datum der Quelle:** 2020-01-29 · **Typ:** Peer-Review-Studie
+- **Stichprobe/Methodik:** drei Bevölkerungskohorten (Knie, Hand, Fuß), North Staffordshire, England; Altersgruppe im Abstract nicht genannt
+- **Einordnung/Einschränkung:** Peer-reviewt, aber regional und nur ein Kurzbericht. Die Altersbasis steht nicht im Abstract.
+- **Wahrheits-Check:** *bestätigt*. Abstract (PMID 31995282) über die Europe-PMC-REST-API selbst abgerufen; Wortlaut und Datum bestätigt.
+
+### (d) Arthrose in UK (Arthritis UK, ehemals Versus Arthritis)
+
+#### G8-35
+
+✅ BELEGT · Angle: C Bettbeziehen, D Geschenk, Markt
+
+**Laut Arthritis UK haben in UK 10 Millionen Erwachsene eine wahrscheinliche Arthrosediagnose, darunter 5,4 Millionen mit Kniearthrose und 3,2 Millionen mit Hüftarthrose; eine eigene Zahl für Handarthrose nennt der Bericht nicht.**
+
+> “In the UK, 10 million adults have a probable diagnosis of osteoarthritis. ... In the UK, 3.2 million people have hip osteoarthritis. ... In the UK, 5.4 million people have knee osteoarthritis. ... Osteoarthritis (OA) happens when the body can no longer maintain and repair one or more joints – commonly affecting hands, hips, and knees.”
+
+- **Quelle:** [Arthritis UK (vormals Versus Arthritis): 'The State of Musculoskeletal Health 2025'](https://www.arthritis-uk.org/media/n4xaxcas/auk_state-of-msk-health-report_updated.pdf)
+- **Datum der Quelle:** 2025 (aktualisierte PDF-Fassung, Dateidatum 2026-04-23) · **Typ:** Fachgesellschaft/Charity
+- **Stichprobe/Methodik:** Sekundärauswertung UK-weiter Datenquellen (Modellschätzungen)
+- **Einordnung/Einschränkung:** Aktuellste UK-weite Zusammenstellung der führenden Arthritis-Charity. Die 10 Mio. sind 'probable diagnosis', also modelliert. Hände werden als häufig betroffen genannt, aber nicht beziffert.
+- **Wahrheits-Check:** *korrigiert*. PDF per WebFetch geladen, per pdftotext gelesen: alle vier Sätze wörtlich gefunden, keine Handzahl. Datum präzisiert: Berichtstitel 2025, PDF laut Metadaten am 23.04.2026 aktualisiert (zitiert Quellen bis Januar 2026).
+
+### (d) Arthritis gesamt in UK
+
+#### G8-36
+
+✅ BELEGT · Angle: C Bettbeziehen, D Geschenk, Markt
+
+**Laut Arthritis UK leben in UK über 10 Millionen Erwachsene, junge Menschen und Kinder mit Arthritis, also etwa jeder Sechste.**
+
+> “Over 10 million adults, young people and children in the UK live with arthritis. That's one in six people living with the pain, fatigue, disability, mental and financial strain it can cause.”
+
+- **Quelle:** [Arthritis UK: 'The State of Musculoskeletal Health' (Webseite; gleichlautend im Bericht 2025)](https://www.arthritis-uk.org/policy-and-data/health-intelligence/the-state-of-musculoskeletal-health/)
+- **Datum der Quelle:** 2025 · **Typ:** Fachgesellschaft/Charity
+- **Einordnung/Einschränkung:** Offizielle Charity-Zahl über alle Arthritisformen und Altersgruppen. Für Ads: 'Über 10 Mio. Menschen in UK leben mit Arthritis (Arthritis UK)'; nicht auf Handbeschwerden beim Bettbeziehen übertragen.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut auf der Webseite (per curl) und im PDF bestätigt. Die Webseite hat kein eigenes Datum.
+
+### (d) Arme über Schulterhöhe strecken (ELSA, ab 65)
+
+#### G8-37
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen, D Geschenk
+
+**In ELSA Welle 9 (England, 2018/19) berichteten 11,9 % der zu Hause lebenden Menschen ab 65 Jahren Schwierigkeiten, die Arme über die Schultern zu strecken, Frauen mit 14,3 % deutlich häufiger als Männer mit 8,7 %.**
+
+> “hemobre Difficulty extending arms above shoulders 8.7% 14.3% 11.9% [Spalten: Men / Women / Total]”
+
+- **Quelle:** [Johnson L, Guthrie B, Kelly PAT et al. (University of Edinburgh), arXiv-Preprint 2403.00472: 'Frailty or Frailties: Exploring Frailty Index Subdimensions in the English Longitudinal Study of Ageing', Table 2 (Peer-Review-Fassung: J Epidemiol Community Health 2024;78(10):609, doi 10.1136/jech-2023-221829)](https://arxiv.org/pdf/2403.00472)
+- **Datum der Quelle:** 2024-03-01 · **Typ:** Sonstiges
+- **Stichprobe/Methodik:** ELSA Welle 9 (2018–2019), zu Hause lebende Erwachsene ab 65 in England, N=4.971 (56,6 % Frauen)
+- **Einordnung/Einschränkung:** Repräsentative ELSA-Daten, aber die Zahl stammt aus der Preprint-Tabelle (Selbstauskunft, ohne Hinweis auf Gewichtung), nur England, Daten von 2018/19. Gefragt wurde nach 'extending', nicht nach 'reaching'. Als Beleg geeignet, dass Überkopfbewegungen für einen Teil der Älteren schwierig sind.
+- **Wahrheits-Check:** *korrigiert*. PDF per curl geladen, Tabellenwerte und Stichprobe bestätigt (eingereicht 01.03.2024). Quellentyp von Peer-Review-Studie auf Sonstiges (Preprint) korrigiert. Die Peer-Review-Fassung in JECH (veröffentlicht 23.07.2024, PMC11420715) enthält die Prävalenztabelle nicht im Haupttext.
+
+### (d) Weitere Alltagsschwierigkeiten 65+ (ELSA)
+
+#### G8-38
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen, D Geschenk, B Wechseljahre
+
+**In derselben ELSA-Auswertung (ab 65, England) gaben 48,8 % Arthritis an, 19,4 % Schwierigkeiten bei Haus- oder Gartenarbeit, 15,4 % Schwierigkeiten beim Anziehen und 40,3 % unruhigen Schlaf.**
+
+> “hedibar Arthritis 39.0% 56.4% 48.8% ... headlhg Difficulty doing housework / gardening 16.0% 22.0% 19.4% ... headldr Difficulty dressing 15.5% 15.3% 15.4% ... pscedc Restless sleep 33.0% 45.8% 40.3%”
+
+- **Quelle:** [Johnson L et al., arXiv-Preprint 2403.00472 (ELSA Wave 9), Table 2: Prevalence of Deficits](https://arxiv.org/pdf/2403.00472)
+- **Datum der Quelle:** 2024-03-01 · **Typ:** Sonstiges
+- **Stichprobe/Methodik:** ELSA Welle 9 (2018–2019), ab 65, England, N=4.971
+- **Einordnung/Einschränkung:** Gleiche Einschränkungen wie G8-37: Preprint-Tabelle, England, 2018/19, Selbstauskunft. Arthritis ist selbstberichtet. Unruhiger Schlaf (Frauen 45,8 %) ist unspezifisch.
+- **Wahrheits-Check:** *korrigiert*. Werte in der Tabelle bestätigt. Quellentyp wie bei G8-37 auf Sonstiges (Preprint) korrigiert.
+
+### (d) Hilfebedarf bei Alltagsaktivitäten 65+ (Health Survey for England 2024)
+
+#### G8-39
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen, D Geschenk
+
+**Laut Health Survey for England 2024 hatten 28 % der Erwachsenen ab 65 in Privathaushalten in England Hilfebedarf bei mindestens einer Aktivität des täglichen Lebens (ADL) und 28 % bei mindestens einer instrumentellen Aktivität (IADL). Hilfebedarf schließt ein, die Tätigkeit nur mit Schwierigkeiten allein zu schaffen. Bei Hausarbeit oder Wäsche lag der Anteil bei 21 % (zweithäufigste IADL nach Einkaufen mit 22 %), beim An- und Auskleiden bei 14 %.**
+
+> “In 2024, 28% of adults aged 65 and over needed help with ADLs and 28% needed help with IADLs. ... Those who said they could only carry out the activity 'with difficulty', 'only with help', or could not carry out the activity at all were combined into a category of adults aged 65 and over who had need for help with that activity. ... The ADLs that adults aged 65 and over were most likely to struggle with or need help with were getting up and down the stairs (23%), having a bath or shower (15%) and dressing or undressing (14%). ... Among IADLs, adults aged 65 and over were most likely to need help with shopping for food (22%), doing routine housework or laundry (21%) and getting out of the house (18%).”
+
+- **Quelle:** [NHS England Digital: 'Health Survey for England, 2024: Social care for older adults' (Accredited official statistics)](https://digital.nhs.uk/data-and-information/publications/statistical/health-survey-for-england/2024/social-care-receipt)
+- **Datum der Quelle:** 2026-01-27 · **Typ:** Behörde/NHS/Statistikamt
+- **Stichprobe/Methodik:** repräsentative Stichprobe der Erwachsenen ab 65 in Privathaushalten in England (ohne Krankenhäuser und Pflegeheime), Erhebung 2024; n auf der Seite nicht genannt
+- **Einordnung/Einschränkung:** Amtliche, akkreditierte Statistik, aktuell, aber nur England. 'Routine housework or laundry' ist die Kategorie, unter die Bettbeziehen fällt; Bettmachen wird nicht eigens erfasst. Hilfebedarf ist weit gefasst und schließt 'mit Schwierigkeiten' ein.
+- **Wahrheits-Check:** *korrigiert*. Fehler korrigiert: Hausarbeit und Wäsche (21 %) ist nicht 'am häufigsten'; unter den IADL liegt Einkaufen mit 22 % vorn, unter den ADL Treppen mit 23 %. Die Definition von Hilfebedarf (inklusive 'with difficulty') wurde ergänzt. Die offizielle Seite blockierte WebFetch und curl (403); gelesen über den inhaltsgleichen Spiegel nhsd-proxy.openprescribing.net (Publication Date: 27 Jan 2026).
+
+### (d) Hilfe beim Ins-Bett-/Aus-dem-Bett-Kommen (HSE 2024)
+
+#### G8-40
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen, D Geschenk
+
+**Im Health Survey for England 2024 hatten 12 % der Frauen und 9 % der Männer ab 65 Schwierigkeiten oder Hilfebedarf beim Ins-Bett- und Aus-dem-Bett-Kommen.**
+
+> “women were more likely than men to struggle or need help with the following ADLs and IADLs: ... getting in and out of bed (12% compared with 9%) ... doing routine housework or laundry (22% compared with 18%)”
+
+- **Quelle:** [NHS England Digital: 'Health Survey for England, 2024: Social care for older adults'](https://digital.nhs.uk/data-and-information/publications/statistical/health-survey-for-england/2024/social-care-receipt)
+- **Datum der Quelle:** 2026-01-27 · **Typ:** Behörde/NHS/Statistikamt
+- **Stichprobe/Methodik:** Erwachsene ab 65 in Privathaushalten in England, 2024
+- **Einordnung/Einschränkung:** Amtliche Statistik, nur England, nach Geschlecht ohne Gesamtwert. Betrifft das Ins-Bett-Kommen, nicht das Bettmachen. Die Kategorie heißt 'struggle or need help'. Bei Hausarbeit und Wäsche liegen Frauen bei 22 %, Männer bei 18 %.
+- **Wahrheits-Check:** *korrigiert*. Formulierung von 'brauchten Hilfe' auf 'Schwierigkeiten oder Hilfebedarf' korrigiert (Original: 'struggle or need help'). Wert für Hausarbeit und Wäsche nach Geschlecht ergänzt. Gelesen über den Spiegel (siehe G8-39).
+
+### (e) Arthritis UK: Bettmachen und Bettbezug (Broschüre 2026)
+
+#### G8-41
+
+✅ BELEGT · Angle: C Bettbeziehen, D Geschenk
+
+**Die Arthritis-UK-Broschüre 'Gadgets and equipment for your home' (Januar 2026) sagt, dass Bettmachen schwierig sein kann, wenn Heben oder Greifen schmerzt, und empfiehlt unter anderem Bezüge mit größeren Knöpfen statt Druckknöpfen sowie Easy-Grip-Klammern beim Aufziehen.**
+
+> “Making a bed can be difficult if lifting or gripping is painful. Shifting the weight of a mattress can make tucking in sheets uncomfortable. ... • Using fitted sheets and a duvet can reduce the amount of lifting and tucking needed. • An extra sheet under the duvet can reduce how often you need to change the duvet cover. • Some duvet covers have larger buttons instead of poppers, which can be easier to manage. • Easy-grip pegs can help hold the duvet and cover together while you shake it into place.”
+
+- **Quelle:** [Arthritis UK: 'Gadgets and equipment for your home' (Broschüre AUK2004)](https://www.arthritis-uk.org/media/b43ajnrt/a5-gadgets-and-equipment-for-your-home-booklet_digital-2.pdf)
+- **Datum der Quelle:** 2026-01 · **Typ:** Fachgesellschaft/Charity
+- **Einordnung/Einschränkung:** Aktueller Patientenratgeber der führenden UK-Arthritis-Charity (nächste Prüfung Januar 2029). Belegt den Pain Point von Angle C direkt; ohne Angabe, wie viele Betroffene das berichten.
+- **Wahrheits-Check:** *bestätigt*. PDF per curl geladen, per pdftotext gelesen: Wortlaut, 'January 2026 (Next planned review January 2029)' und AUK2004 bestätigt; den Punkt zu Spannbettlaken und Duvet ergänzt.
+
+### (e) Arthritis UK Webseite 'Aids and adaptations': Bett
+
+#### G8-42
+
+✅ BELEGT · Angle: C Bettbeziehen, D Geschenk
+
+**Auf der Webseite 'Aids and adaptations' rät Arthritis UK zu Spannbettlaken und Duvet, zu einem Extra-Laken unter dem Duvet, damit der Bezug seltener gewechselt werden muss, und zu Easy-Grip-Klammern, die das Aufziehen des Bezugs erleichtern.**
+
+> “Making a bed can be difficult. A common problem is shifting the weight of the mattress. ... Using an extra sheet under the duvet will mean you don't have to change the duvet cover as often. Some duvet covers come with bigger buttons, rather than small poppers at the base. You could also try using easy grip pegs to hold the duvet in place on the bed, to make it easier to pull the cover on.”
+
+- **Quelle:** [Arthritis UK: 'Aids and adaptations'](https://www.arthritis-uk.org/information-and-support/living-with-arthritis/home-and-garden/aids-and-adaptations/)
+- **Datum der Quelle:** unbekannt · **Typ:** Fachgesellschaft/Charity
+- **Einordnung/Einschränkung:** Offizieller Charity-Ratgeber ohne Seitendatum (nur © Arthritis UK 2026), inhaltlich gleich wie die Broschüre (G8-41).
+- **Wahrheits-Check:** *bestätigt*. Wortlaut per curl gefunden.
+
+### (e) Ergotherapie-Beratung (Arthritis UK)
+
+#### G8-43
+
+✅ BELEGT · Angle: C Bettbeziehen, D Geschenk
+
+**Arthritis UK empfiehlt, sich zu Alltagsbedarf und Hilfsmitteln von einer Ergotherapeutin oder einem Ergotherapeuten beraten zu lassen; Betroffene können sich vom Arzt überweisen lassen oder sich selbst anmelden.**
+
+> “It's a good idea to speak to an occupational therapist about your daily needs and the equipment available. You can ask your doctor to refer you to one or you can refer yourself.”
+
+- **Quelle:** [Arthritis UK: 'Aids and adaptations'](https://www.arthritis-uk.org/information-and-support/living-with-arthritis/home-and-garden/aids-and-adaptations/)
+- **Datum der Quelle:** unbekannt · **Typ:** Fachgesellschaft/Charity
+- **Einordnung/Einschränkung:** Offizieller Charity-Ratgeber. Ads sollten Hilfsmittel nicht als Therapieersatz darstellen.
+- **Wahrheits-Check:** *bestätigt*. Wortlaut per curl wörtlich gefunden.
+
+### (e) NHS-Gelenkschutz: Wäsche/Laken mit großen Gelenken tragen
+
+#### G8-44
+
+✅ BELEGT · Angle: C Bettbeziehen, D Geschenk
+
+**Ein NHS-Merkblatt für Patientinnen und Patienten mit Arthritis (York and Scarborough Teaching Hospitals, Version 2 vom Mai 2024) empfiehlt als Gelenkschutzprinzip, größere Gelenke einzusetzen, etwa Wäsche und Laken über beide Unterarme zu tragen, und nicht zu fest zuzugreifen.**
+
+> “2. Use larger joints The theory is that the larger the joint the better it can take the strain. ➢ Carry items such as laundry, sheets and books across both arms. ... 3. Avoid gripping too tightly”
+
+- **Quelle:** [York and Scarborough Teaching Hospitals NHS FT: 'Hand Exercises and the Principals of Joint Protection – Information for patients with arthritis' (PIL1413 v2)](https://www.yorkhospitals.nhs.uk/seecmsfile/?id=7887)
+- **Datum der Quelle:** 2024-05 · **Typ:** Behörde/NHS/Statistikamt
+- **Einordnung/Einschränkung:** Aktuelles Patientenmerkblatt einer einzelnen NHS-Trust (erstmals 12/2019, Version 2 vom Mai 2024, Prüfung April 2027), keine nationale NHS-Leitlinie. Weiteres Prinzip: Aufgaben über Tag und Woche verteilen.
+- **Wahrheits-Check:** *korrigiert*. PDF per curl und pdftotext gelesen. Zielgruppe präzisiert: Das Merkblatt richtet sich an 'patients with arthritis' und ist nicht auf Hand-Arthritis beschränkt; Verantwortliche ist eine Rheumatologie-Physiotherapeutin. Version, Ausgabe- und Prüfdatum bestätigt.
+
+### (e) NHS-Ergotherapie: Schieben, Ziehen, Drehen belastet
+
+#### G8-45
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen, D Geschenk
+
+**Ein NHS-Ergotherapie-Merkblatt nennt sechs Gelenkschutzprinzipien und hält fest, dass Schieben, Ziehen und Drehen für schmerzende Gelenke belastend sein können und festes oder langes Greifen vermieden werden sollte.**
+
+> “There are six main principles of joint protection. ... Painful joints cannot tolerate as much stress as healthy joints, so pushing, pulling or twisting motions can be painful. ... 4. Avoid tight grips or gripping for long periods”
+
+- **Quelle:** [East Sussex Healthcare NHS Trust, Occupational Therapy: 'Joint protection techniques for hands' (0502/01)](https://www.esht.nhs.uk/wp-content/uploads/2017/06/0502.pdf)
+- **Datum der Quelle:** 2015-10 · **Typ:** Behörde/NHS/Statistikamt
+- **Einordnung/Einschränkung:** NHS-Ergotherapie-Merkblatt einer einzelnen Trust, Stand Oktober 2015; das Prüfdatum ('Next review date: October 2015') ist lange überschritten. Inhaltlich wie York 2024 (G8-44). Das Bettbeziehen wird nicht erwähnt; der Bezug darauf ist eigene Ableitung.
+- **Wahrheits-Check:** *bestätigt*. PDF per curl und pdftotext gelesen; Wortlaut, Kennung '0502/01/Oct 2015' und überschrittenes Prüfdatum bestätigt.
+
+### (c) Bettwarenhersteller Silentnight: Trommelgröße Double-Duvet
+
+#### G8-V01
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**Der UK-Bettwarenhersteller Silentnight empfiehlt in seinen FAQ, ein Double-Duvet in einer Trommel von mindestens 7 kg zu waschen.**
+
+> “We'd recommend at least a 7kg drum to wash your double duvet comfortably.”
+
+- **Quelle:** [Silentnight: Kategorieseite 'Double Duvets' (FAQ)](https://www.silentnight.co.uk/bedding/duvets/double-duvets.html)
+- **Datum der Quelle:** unbekannt · **Typ:** Händler-/Hersteller-Ratgeber
+- **Einordnung/Einschränkung:** Herstellerangabe ohne Datum und ohne Tog-Bezug. Sie liegt unter der AO.com-Expertenangabe (9 kg, G8-27) und unter Fine Bedding für 10.5 tog King (10 kg, G8-29). Die Angaben der Branche gehen also auseinander.
+- **Wahrheits-Check:** *bestätigt*. Neu aufgenommen; per WebFetch auf silentnight.co.uk geprüft, Wortlaut wörtlich gefunden, kein Datum. Schließt teilweise die Lücke 'Bettwarenhersteller' in (c).
+
+### (c) Bettwarenhersteller Silentnight: Trommelgröße Super-King-Duvet
+
+#### G8-V02
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**Silentnight schreibt in seinen FAQ, für ein Super-King-Duvet brauche man eine 9-kg-Trommel.**
+
+> “To ensure that your super king duvet is given the best clean possible, you will need a 9kg drum in your washing machine.”
+
+- **Quelle:** [Silentnight: Kategorieseite 'Super King Duvets' (FAQ)](https://www.silentnight.co.uk/bedding/duvets/super-king-duvets.html)
+- **Datum der Quelle:** unbekannt · **Typ:** Händler-/Hersteller-Ratgeber
+- **Einordnung/Einschränkung:** Herstellerangabe ohne Datum und ohne Tog-Bezug; eine King-Angabe fehlt bei Silentnight. Fine Bedding verlangt für 10.5 tog Super King 10 kg (G8-29).
+- **Wahrheits-Check:** *bestätigt*. Neu aufgenommen; per WebFetch geprüft, Wortlaut wörtlich gefunden, kein Datum.
+
+### (c) Hersteller Hotpoint UK: Trommelgröße nach Duvet-Größe
+
+#### G8-V03
+
+⚠️ EINGESCHRÄNKT · Angle: C Bettbeziehen
+
+**Hotpoint UK nennt eine 9-kg-Maschine als ideal für King-Size-Duvets und 8 bis 9 kg für Double-Duvets. In den FAQ derselben Seite stehen niedrigere Mindestwerte (Double 7 kg, King mindestens 8 kg, Super King 9 kg oder mehr), während der Fließtext für Super King mindestens 10 kg verlangt.**
+
+> “For king-size duvets, a 9kg washing machine is the ideal choice. ... When it comes to washing a double duvet, an 8 or 9kg washing machine is also perfect. ... you'll want a washing machine with a drum capacity of at least 10kg. ... For a single duvet, a 6kg machine is typically sufficient. For a double duvet, aim for a 7kg model, while a king-size duvet requires at least an 8kg capacity. Super king-size duvets usually need a drum size of 9kg or larger.”
+
+- **Quelle:** [Hotpoint UK Blog: 'A Guide to Washing Duvets in a Washing Machine'](https://www.hotpoint.co.uk/blog/buying-guides/laundry/washing-machines/duvet-sizes)
+- **Datum der Quelle:** unbekannt · **Typ:** Händler-/Hersteller-Ratgeber
+- **Einordnung/Einschränkung:** Herstellerratgeber eines Waschmaschinenanbieters, ohne Datum und ohne Tog-Bezug, in sich widersprüchlich (Super King: 9 kg in den FAQ, mindestens 10 kg im Text). Als Beleg geeignet, dass auch Hersteller für King/Super King eher 8–10 kg statt Standardgrößen nennen.
+- **Wahrheits-Check:** *bestätigt*. Neu aufgenommen; Seite per curl geladen, alle Sätze wörtlich gefunden, kein Datum in Metadaten oder Text. Schließt die Lücke 'Hotpoint-Seite mit kg-Angabe für Duvets'.
+
 ## Track 3B: Körperliche Hürden, Alter, pflegende Angehörige
 
 *Prüf-Fazit: Track 3B ist insgesamt verlässlich. Alle 55 Claims wurden an der Quelle nachgeprüft (PDFs und Datensätze lokal ausgewertet, ONS-Altersummen nachgerechnet), kein Claim musste verworfen werden. Die Korrekturen betrafen vor allem die HSE-Definition von 'need for help', die auch 'nur mit Schwierigkeiten' einschließt (in Ads also nicht 'brauchen Hilfe' schreiben), außerdem Seiten- und Stichprobenangaben sowie fehlende Primärquellen (Age UK, HRT-Poster, Linsell). Der Mythos '1 in 7 workers' ließ sich auf eine veraltete Carers-UK/YouGov-Umfrage von 2018/19 zurückführen, 'Frauen 4-mal häufiger Frozen Shoulder' bleibt unbelegt. Für Ads gilt: Viele Zahlen betreffen nur England bzw. England & Wales oder sind Modellschätzungen bzw. Charity-Umfragen, und eine Statistik zum Bettbeziehen existiert nicht.*
