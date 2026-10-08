@@ -48,6 +48,7 @@ die `authuser`-Prüfung läuft nur über die Abfrage auf die Support-Adresse;
 | **14:20** | 🟨 **keine Abfrage gelaufen** | **kein Ergebnis für diese Stunde** — Trigger 14:18, erst 16:18 zugestellt |
 | **15:20** | 🟨 **keine Abfrage gelaufen** | **kein Ergebnis für diese Stunde** — Trigger 15:18, erst 16:18 zugestellt |
 | **16:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **achtundachtzigster Lauf ohne Zugang**, `authuser=chiaranevio0805@gmail.com` |
+| **17:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **neunundachtzigste gelaufene Abfrage ohne Zugang** |
 
 ### 🟨 Vier Stunden ohne Abfrage — offen benannt
 
