@@ -42,6 +42,7 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Angebot/Knappheit/Garantie:** „¡Eso significa que pagas solo $59.99, en vez de $99.98!“, „16 centavos por noche“, „Solo puedo garantizarlo por hoy“, „La almohada podría agotarse mañana, o incluso hoy...“, Update „¡Ya se agotó 3 veces — de nuevo disponible!“; „¡Tienes 60 noches para probarlo …!“ – **Widerspruch im selben Abschnitt:** „Treinta noches para ver por ti mismo …“.
 - **CTA:** 7× „OBTÉN 40% DE DESCUENTO EN ALMOHADA TERAPÉUTICA CERVICAL“.
 - **Unterschied zu US:** reine Übersetzung + Namen (Carol Hernandez); Kopfleiste nicht lokalisiert; PDP/Checkout spanisch mit $-Preisen (Paket-Staffel identisch zu US/DE, s. `pdp_uebersicht.md`).
+- **Übergang:** 7× Button (`#next-step`) → spanische PDP `/neck-therapy-pillow-dizziness-es` → `checkout-neck-therapy-pillow-dizziness-es`; Anleitung „Da clic en el botón verde grande que dice 'OBTÉN 40% DE DESCUENTO EN LA ALMOHADA TERAPÉUTICA CERVICAL AHORA'. Te lleva directamente al sitio oficial.“
 
 ## 2. us_advert1_snoring – 596 Ads (0 aktiv, +102 vor Fenster), Langläufer seit 12/2025
 - **URL:** `try.pillowdaddy-us.com/advert-1-neck-therapy-pillow-snoring` → `#next-step` → PDP `/neck-therapy-pillow-snoring`.
@@ -96,6 +97,7 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Angebot – widersprüchlich:** Buttons 7× „Claim Your 70% Discount Now“, Text „That means you pay just £49.99, instead of £89.99!“ (= 44 %), Anker „advisors … recommended offering the pillow for £84.99“, Anleitung „Click the big green button that says 'Get 40% Off Now'“; PDP: 1 Stück £49.95 „statt“ £166.50 („You Get 70% OFF!“), Staffel bis 4 Stück £149.95 (s. `pdp_uebersicht.md`).
 - **Knappheit/Garantie:** „The pillow could be sold out tomorrow — or even today...“, Update „Already sold out 3 times - now back in stock!“, „60 nights … completely risk-free“, „60-Day Money-Back Guarantee“.
 - **Unterschied zu DE/US:** neue Persona + UK-Lokalisierung (UCH London, Pfund, high street), aber DACH-Kundenzahl 23,328 und Rabatt-Chaos 40/44/70 %. Erste bekannte UK-Native von PillowDaddy-Material (für uns relevant: UK-Markt wird mit 1:1-übersetzter DE-Vorlage getestet).
+- **Übergang:** 7× „Claim Your 70% Discount Now“ → `/neckpillow/products/neckpillow/` (UK-PDP mit eigener 1–4-Stück-Staffel in £) → Kauf über `zifarra.com/cart/…`.
 
 ## 5. de_advert1_ischias – 140 Ads (0 aktiv, +72 vor Fenster), Langläufer seit 06/2025 (Ad bis 371 Tage)
 - **URL:** `shop.pillowdaddy.de/advert-1-das-schlaftherapie-kissen-1` → PDP `/das-schlaftherapie-kissen-1` (Produkt: **„Schlaftherapie Kissen“** = Seitenschläfer-/Körperkissen, nicht das Nackenkissen).
@@ -137,6 +139,7 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Garantie:** „My Personal 60-Day "Pain Free Nights and Mornings" Guarantee“.
 - **Übergang:** Buttons „CHECK AVAILABILITY NOW“ (5×) + Schritt-Liste „1.) Click the big green button below that says "Check Availability Now" 2.) Choose your package (Pro tip: Get two. …)“.
 - **Geschwister:** Basis für numb-hands (Nr. 6), Scottsdale (Nr. 23, 45–47 % gleiche Zeilen) und Listicle 8 Reasons (Nr. 15, 42 %).
+- **Produkt:** Name „Neck Therapy Pillow“ erst nach **1.914 Wörtern** (49 %): „Introducing The Pillow that Actually Fixes Morning Neck Stiffness and Pain“ / „It's called the Neck Therapy Pillow.“; vorher nur „German engineering breakthrough“ / „my first prototype“.
 
 ## 8. us_advert_headaches_r1 – 110 Ads (0 aktiv) – **heute HTTP 404**
 - `try.pillowdaddy-us.com/advert-neck-therapy-pillow-headaches-r-1`: Inhalt nicht abrufbar (curl + Playwright 404; Wayback-Abfrage scheiterte an „429 Too Many Requests“). Laut Inventar Ad-Titel „Why Your Morning Headaches Keep Coming Back (The Real Cause Will Shock You)“; Slug-Schema „-r-1“ = vermutlich T1-Ableger (wie dizziness/tinnitus r-1). **Lücke.**
@@ -194,6 +197,7 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Knappheit:** schwach – nur „WICHTIGE WARNUNG: FÄLSCHUNGEN AUF AMAZON“.
 - **Übergang:** nur 2 Links: „Jetzt Verfügbarkeit prüfen →“, „Nacken Therapiekissen ansehen →“ (Ende: „Gehirnnebel muss nicht Ihr neues Normal sein“). Sie-Ansprache im Schlussteil.
 - **Geschwister:** US-Übersetzung = Nr. 18 (Rebecca F. aus Dayton); Format-Zwilling DE Angst-a675 (Nr. 21). **Bauplan-relevant:** neues, aktives Format (14 aktive Ads) – echter Reportage-Look, kein Funnelish-Baukasten, kurze Seite, später Produktauftritt.
+- **Garantie:** „30 Nächte Probe schlafen. Kein Risiko. Wenn der Nebel nicht lichtet, kostenlose Rückgabe.“
 
 ## 13. us_advert_neckpain_r4 – 31 Ads (0 aktiv) – **heute HTTP 404**
 - `try.pillowdaddy-us.com/advert-neck-therapy-pillow-neck-pain-r-4`: nicht abrufbar; Ad-Titel laut Inventar „The Real Reason Your Neck Pain Keeps Coming Back“. **Lücke.**
@@ -238,6 +242,7 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Produkt:** „Therapiekissen“ in der Headline (Wort 9); Fließtext-Einführung über den „Schau mal, was wäre, wenn …“-Satz, Name im Abschnitt „Schmerzlinderung über Nacht – ohne Medikamente, Massagen oder Neurologenbesuche“.
 - **Mechanismus:** „Man nennt das zervikogene Kopfschmerzen – also Kopfschmerzen, die ihren Ursprung in der Halswirbelsäule haben.“ · „Weil die gereizten Nerven in deinem Nacken direkt mit dem Trigeminusnerv verbunden sind – dem Hauptnerv, der für Migräne verantwortlich ist.“ · „… wie ein Gummiband, das acht Stunden lang unter Spannung steht.“ · Einwände: ohne Kissen schlafen („kippt der Kopf oft nach hinten“), zwei Kissen stapeln. Gegner: Triptane, „jeder Neurologe“.
 - **Beweise/Angebot/Garantie/Übergang:** wie advert-2 („€59,54, anstatt €99,23“, 30 Nächte, „4-5 Tage Versand“, 23.328, Reviews), 9× „Jetzt 40% Rabatt sichern“.
+- **Knappheit:** T2-Standardblock („Das Kissen könnte morgen ausverkauft sein oder schon heute...“, „Wenn du diesen Artikel liest, bedeutet das wahrscheinlich, dass wir noch ein paar Kissen auf Lager haben.“) + Update-Box „Bereits 3x mal ausverkauft - jetzt wieder auf Lager!“. **Übergang:** 7× Button + 2 Textlinks „offizielle Webseite“ → `/das-nacken-therapiekissen-headache`.
 
 ## 18. us_news_dementia_a391 – 14 Ads (0 aktiv), The Daily Health
 - **URL:** `try.pillowdaddy-us.com/advert-snoring-a391` → PDP `/neck-therapy-pillow-snoring-a391`.
@@ -249,6 +254,7 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Mechanismus/Beweise:** wie DE (Schlafapnoe = Haltungsproblem), US-Preise: „A premium CPAP, $1,200 out of my own pocket.“, „A dental mouthpiece, $350.“ · „I spent $1,550 on a machine and a mouthpiece, and nobody ever looked at my neck.“ · „The pillow cost me about $60.“
 - **Angebot/Knappheit/Garantie:** „Under $60 after 40% off, plus shipping | 60-night trial | Full refund if it doesn't work for you“ (DE-Fassung: 30 Nächte) · „IMPORTANT WARNING: FAKES ON AMAZON“. 2 CTA-Links.
 - **Unterschied zu DE:** Alter 59, US-Kosten, Garantie 60 statt 30 Nächte, US-Entwicklung „German engineering team“ statt „deutscher Chiropraktiker / Österreich“.
+- **Übergang:** 2 Textlinks am Ende (Produktbox + Schluss) direkt zur PDP `/neck-therapy-pillow-snoring-a391` (kein `#next-step`).
 
 ## 19. de_listicle_schlaf_angst – 13 Ads (0 aktiv), nur Claudia Reichardt
 - **URL:** `shop.pillowdaddy.de/listicle-das-schlaftherapie-kissen-anxiety` → PDP `/das-schlaftherapie-kissen-anxiety` (Produkt Schlaftherapie Kissen = Körper-/Umarmungskissen).
@@ -262,6 +268,7 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Beweise:** „über 23.328 Menschen in Deutschland, Österreich und der Schweiz“, „100% natürlich und frei von jeglichen Nebenwirkungen“, 3–4 Reviews (2024).
 - **Angebot/Knappheit/Garantie:** kein Preis; „Jetzt 40% Rabatt sichern“ ×3; Update „Bereits 3x mal ausverkauft“; „30-tägige Zufriedenheitsgarantie …, solange der Vorrat reicht“.
 - **Bauplan-relevant:** einziges Beispiel für **psychischen Angle (Angst/Schlaflosigkeit)** + Gewichts-/Umarmungsmechanismus – nah an unserem Wechseljahre-/Schlafqualitäts-Angle.
+- **Übergang:** 3× „Jetzt 40% Rabatt sichern“ (`#next-step`) nach Grund 10, nach den Reviews und in der Update-Box → Angst-PDP (Hero „Wälzt du dich stundenlang im Bett …“); Fazit „Die Lösung für Schlafstörungen - keine schlaflosen Nächte mehr!“.
 
 ## 20. de_test_5kissen – 11 Ads (0 aktiv), Gesund Leben Journal
 - **URL:** `shop.pillowdaddy.de/nackenkissen-test-v2-google` → PDP `/das-nacken-therapiekissen-v2-google`.
@@ -303,6 +310,7 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Angebot – widersprüchlich:** „INTERNET ONLY OFFER! FOR A LIMITED TIME: UP TO 60% OFF + THEY PAY FOR SHIPPING“ / „LIMITED TIME READER-ONLY SPECIAL: … 40% OFF … Limited to first 500 customers only.“ / danach kompletter Dr.-John-Block („The Price that's Causing Pillow Industry Panic“, „I'm releasing 9,000 units“, „This 40% discount dies in 72 hours.“). **Copy-Paste-Bruch:** „Remember those cease and desist letters I mentioned?“ – in dieser Story nie erwähnt; Erzählerin wechselt von Jessica zu „I“ = Dr. John.
 - **Garantie/Übergang:** „The Neck Therapy Pillow comes with a 60-Night guarantee.“ + „My Personal 60-Day … Guarantee“; 6× „CHECK AVAILABILITY NOW“.
 - **Bauplan-relevant:** **Tochter-erklärt-Mutter-Story** (67-jährige Mutter, Tochter Krankenschwester, Kauf „I Ordered Two Before We Left Salt Lake City“) = direkte Vorlage für unseren Angle D (Tochter/Mutter).
+- **Knappheit:** „Limited to first 500 customers only.“, „while current promotional inventory lasts“, „I'm releasing 9,000 units for our limited summer sale“, „This 40% discount dies in 72 hours.“ (widersprüchliche Mengen-/Zeitgrenzen auf einer Seite).
 
 ## 24. us_advert_neckpain4_7pillows – 6 Ads (0 aktiv), The Daily Health
 - **URL:** `try.pillowdaddy-us.com/advert-neck-pain-4` → PDP `/neck-therapy-pillow-neck-pain-4`.
@@ -314,6 +322,7 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Mechanismus:** Ausschluss realer Marken mit Preisen: „I tried a $179 Purple pillow …“, „A $139 Casper pillow …“, „A $150+ Tempur-Pedic contour pillow …“, „An $85 Coop adjustable pillow …“, „a $70 hotel-style down pillow that felt great at first, then flattened by 2 AM.“ → „The Neck Therapy Pillow has built-in shoulder cutouts, so my shoulder isn’t fighting for space all night.“ · „3. It Supports My Neck, Not Just My Head“ · „6. My Head Didn't Feel Tilted on My Side“.
 - **Beweise:** nur eigene Erfahrung; keine Reviews, keine Zahlen außer Wettbewerberpreisen.
 - **Angebot/Knappheit/Garantie:** kein Preis; „I was skeptical too. But with a 60-night guarantee, there's nothing to lose.“; Update „Already sold out 3 times - back in stock now!“ (+ „30-day satisfaction guarantee“ im selben Kasten), „Fast 4-5 Day Shipping“; 6× „CHECK AVAILABILITY NOW“.
+- **Übergang:** 2× „CHECK AVAILABILITY NOW“ + 4 Inline-Links im Fließtext („See the pillow I finally kept“, „See the shoulder-relief design“, „See how the 3-Zone Support System works“, „See the pillow that doesn’t need constant adjusting“) → alle direkt `/neck-therapy-pillow-neck-pain-4`.
 
 ## 25. de_advert6_schwindel_t2_usdomain – 3 Ads (Claudia-Reichardt-Test 28.04.–04.05.2026) – **heute HTTP 404**
 - `try.pillowdaddy-us.com/advert-6-das-nacken-therapiekissen-schwindel-t-2`: nicht abrufbar; vermutlich Kopie von advert-6 auf der US-Domain. **Lücke.**
@@ -332,6 +341,8 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Beweise:** „jeweils 30 Nächte, drei Tester“, „Nach 150 Testnächten“, „4,8 von 5 Sternen aus 2.916 verifizierten Bewertungen“, Abschnitt „Und was ist mit den Kissen aus der Werbung?“.
 - **Angebot:** **einzige Testseite mit Preis im Text:** „Heute nur 59,54€ – Du sparst 54,69€ · Preis gilt solange der Vorrat reicht → Jetzt Angebot sichern“; Tabelle „PillowDaddy Nacken Therapiekissen 🏆 A++ 59,54€“; „Versand aus Deutschland in 3 bis 5 Tagen“.
 - **Bauplan-relevant:** Bauarten-Vergleich (statt Marken-Bashing) ist rechtlich sauberer und auf unser Produkt (Decke ohne Bezug vs. Daune/Faser/Bezug) übertragbar.
+- **Garantie/Knappheit:** „60 Nächte Geld-zurück-Garantie, ohne Rücksendekosten-Falle“, „Probiere das Nacken Therapiekissen 60 Nächte risikofrei aus, zum aktuell besten Preis.“ · „Häufig ausverkauft“, „Preis gilt solange der Vorrat reicht“; „40% Rabatt + Gratis E-Book · Versand in 3-5 Tagen“.
+- **Übergang (Befund):** 7 CTA-Texte („Testsieger sichern · 59,54€ statt 99,23€“, „→ 40% Rabatt sichern (59,54€ statt 99,23€)“, „→ Testsieger für 59,54€ sichern“ …) verlinken **alle auf `https://netiverysharble.com/click`** – eine Tracking-/Weiterleitungsdomain (Klick-Tracker vor dem Shop); Ziel-PDP daher nicht statisch bestimmbar.
 
 ## 28. de_advert5_ischias – 0 Ads im Fenster (+37 vorher, GLJ)
 - **URL:** `shop.pillowdaddy.de/advert-5-das-schlaftherapie-kissen-1` → PDP `/das-schlaftherapie-kissen-1-5`.
@@ -341,6 +352,9 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Produkt:** nach **608 Wörtern**.
 - **Mechanismus:** Fluss-/Damm-Metapher: „Wusstest du, dass deine Schlafposition den Unterschied zwischen einem geschmeidig fließenden Fluss und einem gestauten Damm sein kann?“ · „Wenn du auf der Seite schläfst, ohne die richtige Unterstützung, verkrümmt sich deine Wirbelsäule – wie ein Fluss, der ins Stocken gerät …“.
 - **Angebot:** „Das heißt, du zahlst nur €74,54, anstatt €139,23!“ (Anker „über 139,23€“) · Garantie „60-Nächte“ im Text, aber Icon „30 Tage Geld-Zurück-Garantie“ und „59 Minuten oder 59 Tage“ · „4-5 Tage Versand“.
+- **Beweise:** „über 23.328+ zufriedene KundInnen“, Selbstvorstellung „9.000+ Stunden … 1.200+ Menschen“, 2 Review-Karten („Verifizierte Käuferin“, 2024); keine Studie.
+- **Knappheit:** T2-Standardblock + Update „Bereits 3x mal ausverkauft“.
+- **Übergang:** 7× „Jetzt 40% Rabatt sichern“ (`#next-step`) + 2 Textlinks „offizielle Webseite“ → `/das-schlaftherapie-kissen-1-5`.
 
 ## 29. de_advert7_ischias_story – 0 Ads gefunden (Seite live)
 - **URL:** `shop.pillowdaddy.de/advert-7-das-schlaftherapie-kissen-1` → PDP `/das-schlaftherapie-kissen-1-7`.
@@ -351,6 +365,10 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Produkt:** nach **~1.100 Wörtern** (Skript: erster Produktname „Schlaftherapie Kissen“).
 - **Angebot/Garantie:** „Das heißt, du zahlst nur €74,54, anstatt €124,23!“, „33 Cent“ pro Nacht, 30 Nächte + „30 Tage Geld-Zurück-Garantie“, „1-3 Tage Versand“.
 - **Bauplan-relevant:** Familien-/Hilflosigkeits-Motiv und „Operation vermieden“ als Ergebnis-Headline.
+- **Mechanismus:** „Um Ischiasschmerzen zu heilen, muss der Druck auf den Ischiasnerv, der durch die verdrehte Schlafhaltung entsteht, gezielt reduziert werden.“ · Abschnitt „Den Druck auf die Bandscheiben verringern“: „… die Wirbelsäule während des Schlafs in ihre natürliche, neutrale Position zu bringen. / Nur so kann der übermäßige Druck auf Bandscheiben und Nervenfasern reduziert werden.“ · Produkt richtet „Wirbelsäule, Hüfte und Knie“ neutral aus.
+- **Beweise:** die Patientinnen-Story selbst, Arzt-Zitat „Es besteht keine Notwendigkeit für eine Hüftoperation!“ (Zwischenüberschrift), „mehr als 23.328 Deutsche“, 2 Reviews (2024).
+- **Knappheit:** T2-Standardblock („Das Kissen könnte morgen ausverkauft sein …“), Update-Box (statisches Datum 02.04.2025).
+- **Übergang:** 7× „Jetzt 40% Rabatt sichern“ + 2 Textlinks „offizielle Webseite“ – die Textlinks zeigen auf `/das-schlaftherapie-kissen-1-5` (nicht auf die eigene PDP `-1-7`).
 
 ## 30. de_advert1_sitz – 0 Ads im Fenster (+16 vorher), anderes Produkt
 - **URL:** `shop.pillowdaddy.de/advert-1-sitz-therapie-kissen` → PDP `/das-sitz-therapie-kissen`.
@@ -361,6 +379,9 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Mechanismus:** „Wenn du auf einem normalen Stuhl sitzt, ohne die richtige Unterstützung, dann kippt dein Becken nach hinten und deine Lendenwirbelsäule verkrümmt sich – wie ein Fundament, das absackt und das ganze Haus schief zieht.“ · Domino-Kette wie advert-2.
 - **Angebot/Garantie:** „€59,54, anstatt €99,23“, „Du hast 30-Tage Zeit …“, „4-5 Tage Versand“. **Copy-Rest:** „Viele meiner PatientInnen berichten von schneller Erleichterung durch das Nacken Therapiekissen …“ und „Sitztherapie Kisse“ (Tippfehler).
 - **Bedeutung:** zeigt, dass das T2-Template 1:1 auf ein anderes Produkt umgeschrieben wird (Sitz statt Schlaf: „Tag 1/Tag 7 …“ statt „Nacht 1 …“).
+- **Beweise:** „23.328 Deutsche“ (für das Sitztherapie Kissen übernommen), Selbstvorstellung „9.000+ Stunden … 1.200+ Menschen“, 2 Review-Karten; keine Studie.
+- **Knappheit:** T2-Standardblock + Update „Bereits 3x mal ausverkauft“.
+- **Übergang:** 7× „Jetzt 40% Rabatt sichern“ + 2 Textlinks → `/das-sitz-therapie-kissen`.
 
 ## 31. us_advert_neckpain2_blogger – 0 Ads gefunden (Seite live)
 - **URL:** `try.pillowdaddy-us.com/advert-neck-pain-2` → PDP `/neck-therapy-pillow-neck-pain-2`.
@@ -371,6 +392,7 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Mechanismus:** „Most traditional pillows only support your head.“ · Zonen „ZONE 1 — HEAD CRADLE / ZONE 2 — NECK RESTORATION / ZONE 3 — SHOULDER RELIEF“ · weiche Claims („cervical support principles studied in sleep and neck-pillow research“).
 - **Beweise:** „75% of people are experiencing neck pain due to their sleeping position“ (ohne Quelle), Vergleichstabelle „Here's How They Compared“ (Neck Therapy Pillow vs. „THERAPILLOW“ u. a.), FAQ „The Questions I Had Before Clicking "Buy Now"“.
 - **Angebot/Knappheit/Garantie:** kein Preis, keine Knappheit, 1× „CHECK AVAILABILITY NOW“ – zurückhaltendste US-Seite („I’ll be honest.“-Ton).
+- **Übergang:** einziger Button „CHECK AVAILABILITY NOW“ nach der Vergleichstabelle → PDP `/neck-therapy-pillow-neck-pain-2`.
 
 ## 32. us_advert_neckpain_warning – 0 Ads im Fenster gefunden (Seite live, „published on December 3, 2025“)
 - **URL:** `try.pillowdaddy-us.com/advert-neck-therapy-pillow-neck-pain` → PDP `/neck-therapy-pillow-neck-pain` (ältere US-PDP).
@@ -382,6 +404,9 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Angebot/Garantie:** „That means you only pay $59.54 instead of $99.23!“ (DE-Preispunkt in $), „YOU HAVE 30 NIGHTS TO TEST THE PILLOW COMPLETELY RISK-FREE!“, „Fast 6-9 Day Shipping“; Copy-Reste „189,000+ People from Germany, Austria and Switzerland“, Tippfehler „REAL PEOPLE, REAL RELIEFE“.
 
 ---
+- **Beweise:** „189,000+ People from Germany, Austria and Switzerland“, „4.8/5 | 5,832+ Ratings“, 3 Review-Karten „Verified Buyer“, „hundreds of reviews“ auf der offiziellen Webseite; keine Studie.
+- **Knappheit:** T2-Standardblock („The pillow could be sold out tomorrow …“) + Update-Box.
+- **Übergang:** 7× „GET 40% OFF Neck Therapy Pillow Now!“ (`#next-step`) + 2 Textlinks „official website“ → `/neck-therapy-pillow-neck-pain`.
 
 ## Querschnitt: Muster über alle Native-Seiten (für den Bauplan)
 - **Produkt-Einführung:** Long-Form-Experten-Advertorials (T1/T2/T3) nennen den Produktnamen erst nach **~600–1.900 Wörtern** (16–49 % des Artikels); Kurz-Listicles (T6) und Tests (T5) nach **10–380 Wörtern**; Patientenberichte (T4) nach **~1.100–1.500 Wörtern** (64 %).

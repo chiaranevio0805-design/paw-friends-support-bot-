@@ -16,7 +16,7 @@ Begleitordner mit allen Rohrastern, Transkripten, Primärtexten und Seiten-Zerle
 
 ### Bauplan für uns: Native-Funnel für die Decke ohne Bezug (UK)
 
-Agent 4 · Stand 08.10.2026 · Grundlage: Agent 1 (`a1/discovery_uebersicht.md`, `a1/grid_*.md`, `a1/transcripts_*.md`, `a1/copy_*.md`), Agent 2 (`a2/lp_inventar.md`, `a2/lp_de_advert6_schwindel.md`, `a2/lp_de_advert7_tinnitus.md`), Agent 3 (`a3/brand_magicsplashy.md`, `a3/brand_eightsleep_thegetwell.md`, `a3/brand_uvlizer-clairu.md`, `a3/sweep_*.md`). Nachträglich eingearbeitet (17:00–17:15 UTC): `a1/top15.md`, `a2/lp_analysen_alle.md`, `a2/lp_struktur_alle.md`, `a3/brand_plufl.md`, `a3/brand_rest.md`, `a3/brand_trueclean.md`.
+Agent 4 · Stand 08.10.2026 · Grundlage: Agent 1 (`a1/discovery_uebersicht.md`, `a1/grid_*.md`, `a1/transcripts_*.md`, `a1/copy_*.md`), Agent 2 (`a2/lp_inventar.md`, `a2/lp_de_advert6_schwindel.md`, `a2/lp_de_advert7_tinnitus.md`), Agent 3 (`a3/brand_magicsplashy.md`, `a3/brand_eightsleep_thegetwell.md`, `a3/brand_uvlizer-clairu.md`, `a3/sweep_*.md`). Nachträglich eingearbeitet (17:00–17:15 UTC): `a1/top15.md`, `a2/lp_analysen_alle.md`, `a2/lp_struktur_alle.md`, `a3/brand_plufl.md`, `a3/brand_rest.md`, `a3/brand_trueclean.md`. **Schlussrunde (Agent 4, 17:20–17:45 UTC) hat zusätzlich eingearbeitet:** `a2/muster.md` (7 Vorlagen-Familien T1–T7 + Schablone → neues Kapitel 1.5), `a1/top15.md` Querschnitt (Master-Dramaturgie mit Sekunden-Ankern → neues Kapitel 1.6) und Nr. 11 („petri dish“-Hygiene-Argument → Angle A), `a1/grid_persona_us.md` und `a1/grid_persona_de_frauen.md` (Abschnitte Persona/Beobachtungen: Tochter-über-Eltern-Winner → Angle D, Ekelbild-Statics → Angle A, Wechseljahre als „falsche Erklärung“ → Angle B, Anti-Amazon-Fake-Review → Kap. 1.3), `a3/brand_miraclemade.md` (Hygiene-Static, Offline-Granny-Nachtschweiß-Story, „My wife is going to kill me …“ → A/B/D). `a3/brand_cosyhouse.md` war schon eingearbeitet; `a3/vorbilder_uebersicht.md` (Synthese Agent 3, erst 17:20 erschienen) ist für Angle D (Muster M7 + Sweep-Kandidaten) eingearbeitet. Ergänzungen sind mit „(Schlussrunde)“ markiert.
 Sprache: Analyse deutsch, Beispiel-Copy britisches Englisch, Zitate aus Ads und Seiten wörtlich in der Originalsprache. Links sind GetHookd-`share_url`s oder echte LP-URLs.
 
 Hinweis zu Platzhaltern: Alles in eckigen Klammern (`[N]`, `[£XX]`, `[X hours]`) sind Fakten über unser Produkt, die wir noch nicht kennen. Sie dürfen nur mit echten, belegten Werten befüllt werden (siehe Kapitel 4 und 5).
@@ -28,7 +28,7 @@ Hinweis zu Platzhaltern: Alles in eckigen Klammern (`[N]`, `[£XX]`, `[X hours]`
 **Was die Research zeigt**
 
 1. **PillowDaddy ist ein Persona-Netzwerk, keine Marke mit ein paar Ads.** Es hat pro Markt dieselbe Rollenverteilung: 1 Markenseite, 1 Fake-Magazin („Gesund Leben Journal“ DE / „The Daily Health“ US), 3–4 Ich-Personas (meist Frauen 45–60) und 1 Experten-Figur („Thomas Brandt, Chiropraktiker“). Am 08.10. liefen 187 aktive Ads auf `shop.pillowdaddy.de` und 66 auf `try.pillowdaddy-us.com`. Das „Gesund Leben Journal“ allein hat seit 04/2025 1.211 Ads geschaltet. Betreiber ist die MT Ecommerce GmbH in Graz.
-2. **92 % Native-Anteil.** Von 4.533 Ad-IDs im 6-Monats-Fenster führten 4.206 (92 %) auf Advertorial, Listicle oder News-Story und nur 327 direkt auf eine Produktseite (`a2/lp_inventar.md`). Beim Gesund Leben Journal sind es 487 von 493 Ads.
+2. **92 % Native-Anteil.** Von 4.533 Ad-IDs im 6-Monats-Fenster führten 4.206 (92 %) auf Advertorial, Listicle oder News-Story und nur 327 direkt auf eine Produktseite (`a2/lp_inventar.md`). Beim Gesund Leben Journal sind es 477 von 483 Ads (zusammen mit Thomas Brandt 487 von 493; korrigiert in der Schlussrunde). Nach der Einzelzählung von Agent 1 sind es insgesamt 4.472 statt 4.533 IDs, siehe `a4/pruefung_luecken.md`.
 3. **Der Funnel ist immer gleich:** Ad → Advertorial zum Angle → eigene PDP-Kopie mit demselben Versprechen im Hero → Checkout mit vorausgewähltem 2er-Bundle plus Zubehör. PillowDaddy betreibt 34 Native-Gruppen und 18 PDP-Gruppen, also **eine Native-Seite pro Angle**.
 4. **Die Gewinner-Seiten:** US `advert-neck-therapy-pillow-dizziness-r-1` (1.336 Ads, 36 aktiv) und DE `advert-6-das-nacken-therapiekissen-schwindel` (863 Ads, 119 aktiv, einzelne Ads bis 118 T). Der Aufbau: Das Produkt wird erst nach 848 Wörtern genannt (24 %), **44 % der Seite** gehören Angebot, Knappheit, Garantie und Close, dazu kommen 7 gleiche CTAs.
 5. **Direkt auf die PDP verliert bei PillowDaddy fast immer.** Die DE-Markenads vom 23.09. (Lagerräumung, Retargeting) gingen auf die PDP und waren nach 2–7 Tagen tot. Die einzigen Langläufer der Markenseite seit August (Versandstopp-Story, 58 T, 6 von 15 aktiven Ads) führen auf ein Advertorial.
@@ -129,6 +129,11 @@ Fazit: **Ich-Stories echter Kundinnen tragen, die Redaktionsseite liefert den Ra
 | **Kommentar-Antwort-Video** („Reply to …'s comment“) | Plufl 122685246 (Creator-Seite Noah S., 309 T, Winning): Overlay „How is this different from pregnancy pillows on Amazon?“ → „Great question, here's the difference“. Gleicher Body, 3 Einwand-Hooks getestet. | 30–40 s | C (Einwände „Will it dry?“, „Without a cover?“), D | Advertorial |
 | **Story-Long-Copy einer Magazin-Persona** | Rest „Hot Sleeper Journal“ 182116197: „I stole a comforter from a hotel in Charleston …“ (7.252 Zeichen, Marke erst nach 794 Wörtern, 11 Ads, Growing). Wechseljahre nur angedeutet („before I turned 40-something“). | 6–8k Zeichen | B (ASA-schonend, ohne Gesundheits-Claim) | PDP oder Listicle |
 | **Native-Statement-Grafik** (Brief an die Kundschaft) | PillowDaddy „Wir haben euch gewarnt.. 💔“ (207 T); Versandstopp „⚠️ Offizielles Statement“ (58 T) | 1 Grafik + 800–3.500 Zeichen | alle, nur mit **wahrem** Anlass (Restock, Preisänderung, Saisonstart) | Advertorial |
+| **Angehörigen-Long-Copy (Tochter erzählt über Mutter/Vater)** (Schlussrunde) | Stephanie Robertson (US) erzählt **160 von 277 IDs** als Tochter über die Eltern: SR-K05 „My mom's dizziness took her driver's license before any doctor found the cause.“ (16.387 Zeichen, **97 T, aktiv**, https://app.gethookd.ai/share/ad/117546385?signature=ce5ebf9dbb5768a9d81228ffc8db52bde4a0d4ccb8f5274b445be05108324b7d); Karin Zimmermann KZ-01 (Tochter über Vater, **165 T, $20,000+**, längster Läufer der DE-Frauen-Lane, https://app.gethookd.ai/share/ad/63709347?signature=817a964ad777382a43e13629a4c62d022a4c085bbbcd4d8746590c02c296f585) | 7–16k Zeichen, Klinik-/Alltagsfoto ohne Produkt | **D** (auch B aus Sicht der Tochter) | Advertorial |
+| **Ekelbild-Static ohne Text + Long-Copy** (Schlussrunde) | Schnarch-Winner CR-01 (119 T, https://app.gethookd.ai/share/ad/76252869?signature=8431ab9b9a313a43a79d501ea305189fcf1406841406cdf24209af2e6d992cc7) und CR-02 (106 T, 18 Motive, https://app.gethookd.ai/share/ad/78857892?signature=c44e4f6d48553038a8f608cf2fbaa64dd6fd05f54ff520ca3e204a97f6c1e361): „Matratze/Laken mit großen Schweiß-/Flüssigkeitsflecken“, „vergilbte, fleckige Kopfkissen“, „Bettlaken mit braunen Flecken“ – **verkaufen ein Nackenkissen** mit Hygiene-Bildern (`a1/grid_persona_de_frauen.md` (g) 4) | Foto + 5–13k Zeichen | **A** (bei uns produktlogisch) | Advertorial |
+| **Contrarian „Don't Buy From Amazon“ / Fake-1-Stern-Review** (Schlussrunde) | SR-K02/K03/K40 (US, 39 IDs, 15 aktiv, 98 T; „★☆☆☆☆ "Did absolutely nothing for my dizziness. …"“, https://app.gethookd.ai/share/ad/117245987?signature=947394e9a625415f8814f631e49f93274f556a427c104c7112fa22b9b22ddfbe); DE CR-15 (16 aktiv) und KZ-04/05 (18 aktiv), Bild „KAUFT EUCH BLOSS NICHT DIESES KISSEN!“ → **direkt PDP** | Bild + Langtext | Retargeting/Einwand (alle) | PDP |
+
+UK-Hinweis zu den drei neuen Zeilen (Schlussrunde): PillowDaddys Tochter-Personas sind Absender-Hüllen (Alter und Familie wechseln von Text zu Text, `grid_persona_de_frauen.md` (g) 9), und das 1-Stern-Review ist von der Persona selbst geschrieben („I wrote that review.“). Beides wäre in UK eine irreführende Handlung. Übertragbar ist **die Form**: echte Tochter, echte Mutter, Freigabe; Ekelbilder nur von echten (Kunden-)Decken; Contrarian nur als ehrlicher Ratgeber („Don't buy a coverless duvet until you've checked these 3 things“) mit Kriterien, die wir wirklich erfüllen.
 
 ##### 1.4 Rotations- und Test-Rhythmus nach PillowDaddy-Vorbild
 
@@ -148,6 +153,52 @@ Das beobachtete Muster (`a1/grid_*.md` Abschnitt e):
 | **Tag 7–14** | Überlebende in ein Scaling-Ad-Set **duplizieren** (2–3 Kopien, wie PillowDaddy). Für den Gewinner-Body sofort 3 neue Hooks nachschieben. | – |
 | **Alle 2–3 Wochen** | Headline-Test der Native-Seite über eine geklonte LP | 1 Klon |
 | **Monatlich** | Einen neuen Angle oder ein neues Format zuschalten (C → A → D → B), Verlierer-Formate einstellen | 1 Angle |
+
+##### 1.5 Seiten-Schablone für die Native-Seiten (Schlussrunde, aus `a2/muster.md`)
+
+PillowDaddy betreibt 33 Native-Seiten aus **7 Vorlagen-Familien**. T1 trägt 2.494 der 4.206 Native-Ads im Fenster (59 %) und 155 der 185 aktiven (84 %). Die Langläufer über 200 T sind aber Kurzformen (T6 Ischias 371 T, T6 Nacken 207 T) und T2 Schnarchen (206 T).
+
+| Familie | Gerüst (Wörter, Produkt nach …) | Headline-Original (wörtlich, Link) | Für unseren Angle |
+|---|---|---|---|
+| **T1** „Ärzte übersehen das“ (Experten-Long-Form) | 3.200–4.000 W, 25–34 Abschnitte, Produkt nach 848–1.200 W (~24 %), 1. CTA bei ~46 %, 7–9 gleiche CTAs, Close 41–44 % | „Warum Ärzte die echte Ursache deiner rätselhaften Symptome einfach nicht finden (und wie du sie zu Hause beheben kannst)“ – https://shop.pillowdaddy.de/advert-6-das-nacken-therapiekissen-schwindel (863 Ads / 119 aktiv) | **A** (gekürzt auf 1.500–1.900 W) |
+| **T2** „Top-Experte: der beste Weg / der wahre Grund“ | wie T1, startet mit Problemfrage, Produkt nach 475–1.126 W | „Top Chiropraktiker: Das ist der beste Weg um Schnarchen auf natürliche Weise zu stoppen“ – https://shop.pillowdaddy.de/advert-1-schnarchen-das-nacken-therapiekissen | A-Variante |
+| **T3** Enthüllung mit Uhrzeit-Szene (US) | ~3.900 W, Produkt bei 49 % | „Top Chiropractor: "Use This Pillow Tonight and Wake Up Pain-Free Tomorrow Morning"“ – https://try.pillowdaddy-us.com/advert-neck-pain | nicht übernehmen (Verschwörungs-Ton) |
+| **T4** Patientenbericht im Magazin | 1.700–2.400 W, 16–17 Abschnitte, **Produkt bei 64 %**, Wendepunkt im Familienkreis, nur 2 Textlinks | „49-Jährige dachte, sie wird dement – bis ein Physiotherapeut entdeckte, was jede Nacht mit ihrem Nacken passierte“ – https://shop.pillowdaddy.de/advert-schnarchen-A391 (14 aktiv) | **B**, **D** |
+| **T5** Vergleichstest auf Testportal | 1.850–3.980 W, Produkt nach 170 W | „Die besten Nackenkissen im Test 2026: Welches hält wirklich, was es verspricht?“ – https://shop.pillowdaddy.de/nackenkissen-test-v1-google | nur als echter, offener Marken-Vergleich |
+| **T6** Kurz-Listicle 5/10 Gründe | 670–1.500 W, je Grund 54–121 W, kein Preis, 3 CTAs | „Warum Tausende Deutsche mit Nackenschmerzen ihr gewöhnliches Kopfkissen gegen dieses orthopädische "Therapiekissen" austauschen“ – https://shop.pillowdaddy.de/advert-1-das-nacken-therapiekissen-1 (7 aktiv) | **C**, Kurzvariante je Angle |
+| **T7** Ich-/Blogger-Story | 980–3.700 W, Produkt nach 139–1.100 W | „Scottsdale Woman, 67, Discovers What ICU Nurses Are Calling The Fastest Way To Fix Neck Pain For Side Sleepers“ – https://try.pillowdaddy-us.com/advert-neck-pain-3 (Mutter erzählt, **Tochter Emily** erklärt die Lösung) | **D** (Rollen getauscht: Tochter erzählt), **B** |
+
+**Unsere UK-Schablone (1.300–2.000 W, gilt für alle vier Story-Gerüste in Kapitel 2):**
+
+| Block | PillowDaddy-T1-Abschnitt (wörtliche Überschrift) | Anteil PD | Anteil bei uns | Satzmuster, das wir sauber übernehmen |
+|---|---|---|---|---|
+| Kopf | Kopfleiste „Advertorial · Flagge · Beliebt in …“ + Headline + gelb markierte Sub + Sterne + Autorbox | 2–6 % | 5 % | Kopfleiste wird „Advertisement feature · by [Brand]“; Sub-Formel „If you [Symptom 1, 2 or 3] and [übliche Maßnahme] hasn't helped – read this short article.“ |
+| Problem | Hook ohne Überschrift („Wenn du das hier liest, bist du wahrscheinlich schon …“) → „Der … Zusammenhang, den kein Arzt auf dem Schirm hat“ → „Warum entsteht … überhaupt?“ | 22–26 % | 25–30 % | „If you're reading this, you've probably already tried …“ · Rhythmus-Satz „Every. Single. Night.“ · Alltagsanalogie (bei uns: „a raincoat over a sponge“, `top15.md` Nr. 13) |
+| Produkt | „Schmerzlinderung über Nacht – ohne …“ (Name nach ~850–1.200 W) → 4 ✔-Bullets → Funktionsweise → Anwendung → Timeline → **CTA 1** | ~23 % | 25 % | „And this is exactly where [Kategorie] comes in …“ · „[Feature] changes everything.“ · Timeline „Night 1 / Week 1 / Week 2“ |
+| Beweis | „Echte Menschen, echte Erleichterungen“ (3 Review-Karten) + Future Pacing | ~10 % | 15–20 % | Review-Karten mit Titel = Ergebnis, Alter, Ort, „verified customer“; mind. 1 Karte „bought for Mum“ |
+| Angebot/Close | 11 Abschnitte Preis-Dramaturgie, Knappheit, Exklusivität, Garantie, „Was du als Nächstes tun solltest“, Familien-Close, Update-Box | 41–44 % | 20–25 % | nur: echtes Angebot, echte Garantie, Anleitung „Tap the button below …“, Bundle-Satz „Many order two: one for the bed, one for wash day / one for Mum“, „Sounds fair?“ |
+
+Feste Regeln aus `muster.md`: Ein-Satz-Absätze, Ø 12–13 Wörter pro Satz, 25–30 % Sätze mit ≤ 5 Wörtern; unter jeder Überschrift ein 2–8-s-Loop (rot → grün); mobil eine Sticky-Bar; Ziel aller CTAs ist die **angle-gleiche PDP-Kopie**, deren Hero die Headline als Frage spiegelt. Nicht übernehmen (`muster.md` 3.4): erfundene Experten, Fälle und Studien, JS-Datum „vor 7 Tagen“, „nur heute“ bei Dauerpreis, widersprüchliche Garantien.
+
+##### 1.6 Video-Dramaturgie mit Sekunden-Ankern (Schlussrunde, aus `a1/top15.md` Querschnitt)
+
+10 der Top-15-Videos sind Long-Form-Mechanismus-Videos (3:34–7:46, Median ca. 6:07). Sie haben alle Top-3-Laufzeiten (206/203/191 T) und den höchsten Spend ($20.000+). Der Reveal liegt im Median bei **51 %** der Laufzeit (39–66 %), geschnitten wird alle 2,3–3,6 s (Median 2,8 s), Untertitel laufen durchgehend. Für UK planen wir **3:30–4:00 min auf Englisch** nach den EN-Vorlagen #6 (106686087, 3:34, 119 T) und #11 (113637112, 6:42, 81 T, https://app.gethookd.ai/share/ad/113637112?signature=8bc4eb8fc8bd66b8e3c97a6e3354e6532d5c5171d5b0304b97c93676d5383062).
+
+| Anker PD (≈ 6:00) | Anker uns (≈ 4:00) | Anteil | Baustein | PillowDaddy wörtlich | Unsere Umsetzung (UK) |
+|---|---|---|---|---|---|
+| 0:00–0:03 | 0:00–0:03 | 0–1 % | Hook-Balken + Körper-Visual (Balken wechselt alle 2–3 s) | „If you sleep like this, you're slowly crushing the C5 and C6 nerves in your neck.“ (#11) | Balken „YOU WASH THE COVER EVERY WEEK.“ → „THE DUVET INSIDE? NEVER.“; Visual: Bezug hebt sich, Decke darunter rot eingefärbt |
+| 0:03–0:15 | 0:03–0:10 | 1–4 % | Hook-Verlängerung: Mythos-Bruch / Präzisions-Detail | „Here's what to do instead.“ (#11) · „Die meisten Leute denken nämlich … Aber das ist leider völlig falsch.“ | „Most people think washing the cover is enough. It isn't. Here's what to do instead.“ |
+| 0:15–1:00 | 0:10–0:40 | 4–17 % | Problem-Spiegel + Validierung, Schuld auf das Objekt | „Dein MRT? Unauffällig. Die Ärzte? Ratlos.“ / „… an deinem alten Kissen liegen.“ | „Stuffy every morning? Bed never quite smells fresh? Waking at 3am too hot? It might not be you. It might be what you sleep under.“ |
+| 1:00–2:30 | 0:40–1:35 | 17–40 % | Mechanismus mit Namen + Analogie, dann Agitation | „they're basically a petri dish for dust mites and bacteria. The material soaks up your sweat every single night and never really releases it.“ (#11, 0:33–1:08) | benannte Kette „the cover-and-duvet trap“ in 3–4 Stufen (Schweiß durch den Bezug → Füllung bleibt feucht → Hautschuppen = Futter → die Füllung wird nie gewaschen); nur belegte Aussagen |
+| 2:30–3:00 | 1:35–1:55 | 40–50 % | Lösungsprinzip + Feindbild-Parade | „Die Lösung liegt im Kissen selbst.“ | Parade ohne Herabsetzung: Hot-Wash nur für den Bezug, Spray, neue Decke alle paar Jahre → „The answer isn't a better cover. It's no cover.“ |
+| ≈ 3:00 | ≈ 2:00 | ~51 % | Reveal mit Herkunftsstory | „… 21 orthopädische Kopfkissen getestet … entstand letztes Jahr schließlich das Nacken-Therapie-Kissen.“ · EN: „A pillow. Not just any pillow.“ | „A duvet. Not just any duvet. One that doesn't need a cover.“ + echte Entwicklungszahlen (Füllungen, Prototypen, Waschtests) |
+| 3:00–4:00 | 2:00–2:40 | 50–65 % | Produkt-Mechanismus + Abgrenzung | „Durch das intelligente Drei-Zonen-Nacken-Stützsystem …“ | Waschmaschine, Trockenzeit, Gewicht, Temperatur – nur gemessene Werte |
+| 4:00–4:20 | 2:40–2:55 | 65–72 % | Timeline-Leiste | „Nacht 1. Du wachst das erste Mal seit langem ohne … auf.“ | „Night 1 / First wash day / Week 4“ |
+| 4:20–4:50 | 2:55–3:15 | 72–80 % | Beweis (UGC, Zahl, „anfangs skeptisch“) | „Rund 92% der KundInnen berichteten bereits nach der ersten Nacht …“ | echte britische Kundin (UGC), echte Umfragezahl |
+| 4:50–5:30 | 3:15–3:40 | 80–90 % | Garantie + CTA + Zwei-Optionen-Close | „Du hast jetzt also zwei Optionen.“ | „You've got two options …“ + echte Trial-Garantie |
+| 5:30–6:00 | 3:40–4:00 | 90–100 % | Knappheit + Endcard | „… über 21 Millionen Aufrufen auf TikTok … bereits dreimal ausverkauft.“ | Endcard mit 3 Icons („No cover needed“, „Machine washable“, „Dry by bedtime“) + echtes Angebot, keine Fake-Knappheit |
+
+Kurzformen (60–106 s) aus demselben Querschnitt: UGC-Listicle „Kaufe dir bloß nicht … 5 Gründe“ (#4, 188 T, Reveal bei 0 s) → „Don't buy the coverless duvet. Here are 5 reasons why.“ (je ein Grund pro Angle); Knete-Story (#10 „Sven“, Reveal bei 61 %) → D6 „This is Margaret“; Experiment (#13, Reveal bei 4 %) → „We asked [real customer] with night sweats to sleep under it for 7 nights.“ Hook-Test: Warn-Hook lief länger als Neugier-Hook (Sven 92 T vs. Anna 41 T).
 
 ---
 
@@ -181,6 +232,8 @@ Begründung mit Belegen:
 - Die umsatzstärkste Seite im ganzen PillowDaddy-System hat genau diesen Aufbau: advert-6 („Ärzte übersehen das …“, Experte in Ich-Form, Fallbeispiel „Sandra Steinberger, 45“, Mechanismus mit Sündenbock „normales Kissen“). Sie hat 863 Ads, 119 aktiv, einzelne Ads bis 118 T, und das US-Pendant hat 1.336 Ads.
 - UVlizer/Clairu belegt Hygiene in **UK**: Die Advertorial-Story („By Lisa Morgan, Retired Nurse“ erzählt von „Carol F., 76“) läuft im Cluster 80269713/80269727 seit **497 T**, mit mindestens 14 IDs auf 2 Seiten und heute noch aktiv. Das Insider-Video zum Milben-Mechanismus läuft 291 T als „Winning“.
 - MagicSplashy liefert die Hygiene-Sätze für unser exaktes Produkt: „Normale Bettwäsche schützt die Decke nur oberflächlich. Schweiß, Hautpartikel und Milben gelangen trotzdem durch. Und die Decke? Wird quasi nie gewaschen …“ (`/pages/gesund-schlafen`). Allerdings bekamen die reinen Hygiene-Hooks bei MagicSplashy wenig Budget (125662166 „Testing“, 125661961 „Growing“, je $0–500).
+- **(Schlussrunde) PillowDaddy selbst verkauft mit Hygiene-Ekel:** Die DE-Schnarch-Winner CR-01 (119 T) und CR-02 (106 T, 18 Motive, $5–20k) zeigen fast nur ekelige Bettfotos ohne Text: „Matratze/Laken mit großen Schweiß-/Flüssigkeitsflecken“, „Kopfkissen mit großem gelb-braunem Speichel-/Schweißfleck“, „zwei vergilbte, fleckige Kopfkissen“; dazu CR-16–19, CR-21–24, DK-06/07/24 (`a1/grid_persona_de_frauen.md` (g) 4). Und das beste englische Long-Form-Video Nr. 11 (113637112, 81 T) nutzt Hygiene als Feindbild-Argument: „they're basically a petri dish for dust mites and bacteria. The material soaks up your sweat every single night and never really releases it.“ (0:33–1:08). Auch die US-Personas zeigen „Schweißflecken“-Handyfotos ohne Produkt (`grid_persona_us.md` (g) 4).
+- **(Schlussrunde) Miracle Made (US, Silber-Bettwäsche):** Das reine Hygiene-Static der Persona „The Savvy Neighbor“ 115254854 („Clean Body. Dirty Sheets. Lets fix that.“ auf einer zerwühlten weißen **Bettdecke**) läuft seit **101 T** mit Score **„Winning“ (100)** auf ein Listicle. Hygiene trägt im Feed also auch als Haupt-Angle.
 - **Konsequenz:** A trägt als **Mechanismus** auf der Native-Seite, also als „wahre Ursache“. Der Nutzen muss aber C mitnehmen (kein Beziehen mehr), sonst bleibt es reine Angst-Kommunikation.
 
 ###### A b) Story-Gerüst (10 Schritte)
@@ -212,6 +265,9 @@ Gesamt: etwa 1.500–1.900 Wörter.
 | 4 (Zusatz) | Headline „You Can't Wash A Mattress. You Can Empty It.“ + erster Satz „You wash the sheets in hot water every week. The mattress just refills them.“ + Reframe „you don't have an allergy problem. You have a mattress problem.“: TrueClean 132882997 (106 T, Optimized; Schwester 132882815 Winning), https://app.gethookd.ai/share/ad/132882997?signature=4a74d8199d2725ff56ae882f8f65eb500764073b358d210fc61c662b79d5a72b | „You can't [übliche Lösung] a [Objekt]. You can [neue Lösung].“ + „You [Ritual] every week. The [Objekt] just [macht das Problem wieder].“ + „You don't have a [Symptom] problem. You have a [Objekt] problem.“ | **„You Wash the Cover Every Week. The Duvet Inside Never Gets Washed.“** · Reframe: **„You don't have a fresh-bed problem. You have a duvet-cover problem.“** |
 | 5 (Zusatz) | „Why Your Dizziness, Brain Fog, and Racing Heart Won't Go Away... And The Strange Thing Happening To Your Neck While You Sleep.“: PillowDaddy US r-2, https://try.pillowdaddy-us.com/advert-neck-therapy-pillow-dizziness-r-2 (Gruppe mit r-1: 1.336 Ads) | „Why your [3 Symptome] won't go away... and the strange thing happening to your [Ort] while you sleep“ | **„Why Your Bed Never Feels Fresh, Even After Wash Day... And the Strange Thing Happening Inside Your Duvet While You Sleep“** |
 
+| 6 (Schlussrunde) | Bildtext „Clean Body. / Dirty Sheets. / Lets fix that.“ + Titel „Say Goodbye to Musty, Smelly Bedding“: Miracle Made / The Savvy Neighbor 115254854 (101 T, Winning 100), https://app.gethookd.ai/share/ad/115254854?signature=945dede758f97c4f06e4007b33ccad81816482037b98f84ee05a4adeaf0e8c37 → Listicle https://try.miraclebrand.co/a/s6-reasons | „Clean [Ich/Körper]. Dirty [Bettwaren-Objekt]. Let's fix that.“ | **„Clean Body. Dirty Duvet. Let's Fix That.“** · Steigerung: **„You Wash the Cover. Nobody Washes the Duvet.“** |
+| 7 (Schlussrunde) | Video-Hook + Feindbild „If you sleep like this, you're slowly crushing the C5 and C6 nerves in your neck. Here's what to do instead.“ … „they're basically a petri dish for dust mites and bacteria“: The Daily Health Nr. 11 (113637112, 81 T), https://app.gethookd.ai/share/ad/113637112?signature=8bc4eb8fc8bd66b8e3c97a6e3354e6532d5c5171d5b0304b97c93676d5383062 | „If you sleep [like this / under this], you're slowly [Schaden]. Here's what to do instead.“ | **„If your duvet has never been washed, you're sleeping in every night it has soaked up. Here's what to do instead.“** (Feindbild-Satz entschärft: „A duvet that never gets washed soaks up sweat every night and never really lets it go.“ – kein „petri dish“-Vergleich mit Daunendecken ohne Beleg, siehe Kap. 5) |
+
 Zusätzlich als Video-Hook belegt: MagicSplashy 125661961 „Wann hast du deine Bettdecke zuletzt wirklich gewaschen? Nicht den Bezug, die Decke selbst.“ (84 T, Growing). UK: „When did you last actually wash your duvet? Not the cover – the duvet itself.“
 
 ###### A d) Vorlage
@@ -225,6 +281,8 @@ Zusätzlich als Video-Hook belegt: MagicSplashy 125661961 „Wann hast du deine 
 | **Primärtext der Bild-Ad** | TrueClean 132882997 (Link in A c, Muster 4) → LP https://truecleanhome.com/pages/capturecards-listicle | Aufbau des Primärtexts: Pointe → „Here's the truth no one selling you sprays and covers wants to say out loud“ → Liste, warum jede übliche Lösung scheitert („Hot washes clean fabric. Encasements seal the problem in …“) → Wende („You can't wash a mattress. But you can empty it.“) → 4 🟢-Punkte → Garantie → Link. Auf der LP: ❌-Box „you've probably tried everything“, danach „6 Reasons People Are Switching to …“. Sichtbarer Selbstbeweis („cut the card open … with your phone light“), bei uns z. B. das graue Wasser der ersten Wäsche (nur echt fotografiert). | Labor-Behauptungen ohne Beleg, widersprüchliche Bewertungszahlen |
 | **Listicle-Variante (günstig)** | Cosy House https://try.cosyhousecollection.com/7-reasons-you-need-to-upgrade-to-100-bamboo-bed-sheets-dust (Bild-Ad 126567608, 80 T: https://app.gethookd.ai/share/ad/126567608?signature=16bf04f9eded49616dbbf1b2a007a0b357e56eeda8f9203c48f0e2849ff4e902) | H1-Formel „Your Bed Is Home to Millions of Dust Mites. Here's How to Make It Uninhabitable“ wird zu „Your Duvet Has Never Been Washed. Here's How to Make Your Bed Fresh Again“. „Summary: Here's the uncomfortable truth …“, Punkt 1 „Your Bed Is Their All-Inclusive Resort“ (Hautschuppen = Futter, Schweiß = Feuchtigkeit), Punkt 2 als unser Mechanismus („Wash the whole duvet – no cover for anything to hide in“) | Zahlen wie „1.5 million dust mites*“ nur mit echter, zitierter Quelle |
 | **Long-Form-Video (ab Woche 7)** | PillowDaddy/The Daily Health 106686087 (EN, 3:34 min, 119 T): https://app.gethookd.ai/share/ad/106686087?signature=5cda88d9d4d0c9417ca9a06eb15b0b53025c1850d2ae6a39f10c3a715af020ff · Sekunden-Tabelle in `a1/top15.md` Nr. 6 | Dramaturgie: 0–5 s Selektion + Provokation in 2 Balken · 5–12 s verborgene Ursache · 12–24 s gescheiterte Lösungen · 24–50 s Alltags-Spiegel + „you're not crazy“ · 50–94 s Mechanismus · 94–118 s Feindbild → Lösungsprinzip („A pillow. Not just any pillow.“) · 118–142 s Produkt + Herkunft · 142–168 s Ergebnis + Beweis · 168–189 s Zwei-Optionen-Close · 189–214 s Angebot + CTA. UK-Übertragung: „A duvet. Not just any duvet. One that doesn't need a cover.“ / „That's the 3am wake-up. That's the damp sheets.“ | „1,000-patient study“ ohne Quelle, „sold out three times“, Arzt-Darsteller |
+| **Ekelbild-Statics (Schlussrunde)** | PillowDaddy CR-01 (119 T): https://app.gethookd.ai/share/ad/76252869?signature=8431ab9b9a313a43a79d501ea305189fcf1406841406cdf24209af2e6d992cc7 · CR-02 (106 T, 18 Motive): https://app.gethookd.ai/share/ad/78857892?signature=c44e4f6d48553038a8f608cf2fbaa64dd6fd05f54ff520ca3e204a97f6c1e361 · Miracle Made 115254854 (Winning, 101 T, Link in A c, Muster 6) | Unretuschierte Handyfotos **ohne Text und ohne Produkt**: Schweißabdruck auf dem Laken, vergilbte Decke unter halb abgezogenem Bezug, Ränder an den Nähten, graues Wasser der ersten Wäsche. 5–8 Motive pro Copy am selben Batch-Tag (CR-02: 18 Motive auf einem Text). Miracle-Variante: ruhiges Motiv + 3-Zeilen-Bildtext. Langtext wie bei CR-01/02 als Ich-Post, LP Advertorial A. | Fremde oder gestellte „Ekel“-Fotos als echte Kundendecke ausgeben; Bilder, die eine Konkurrenzmarke erkennbar zeigen |
+| **Long-Form-Video mit Hygiene-Feindbild (Schlussrunde)** | The Daily Health Nr. 11 (113637112, 6:42, 81 T): https://app.gethookd.ai/share/ad/113637112?signature=8bc4eb8fc8bd66b8e3c97a6e3354e6532d5c5171d5b0304b97c93676d5383062 · Sekunden-Tabelle `a1/top15.md` Nr. 11, Dramaturgie Kap. 1.6 | Dreistufiger Hook 0:00–0:02 / 0:02–0:05 / 0:05–0:10 („If you sleep like this …“ → Präzisions-Detail → „Here's what to do instead“), Feindbild-Parade 0:33–1:08, Podcast-Setting mit Expertin als Kreis-Insert, Entwicklungs-/Labor-Szene, Reveal bei 48 % | „petri dish“ als herabsetzender Vergleich, Chiropraktiker-Darsteller, C5/C6-artige Pseudo-Präzision ohne Messung |
 
 ###### A e) Ad-Hooks, die auf die Native-Seite A führen
 
@@ -237,6 +295,9 @@ Zusätzlich als Video-Hook belegt: MagicSplashy 125661961 „Wann hast du deine 
 | A5 | Video (Knete/Animation) | 0–3 s: sprechende alte Decke: „Hi. I'm your duvet. You've washed my cover 300 times. Me? Never.“ (Prinzip PillowDaddy-„Monster-Kissen“, 27 T, $2.001–5.000) | Knetfigur-Decke grinst unter einem frischen Bezug hervor |
 | A6 | Video (Experten- bzw. Ich-Hook, PillowDaddy-Formel) | 0–3 s: „This is the worst thing you can do with your duvet – and what to do instead.“ (Original GLJ K01-002 „Das ist die schlechteste Schlafposition …“, 116 T, $5.001–10.000, 25 Ad-IDs, Body mit 65 Clustern) | Hook-Balken oben (weinrot, weiße Versalien), darunter Hand, die einen Bezug über eine alte Decke zerrt, rotes X |
 | A7 | Native-Text-Bild (Reframe, TrueClean-Muster) | „You don't have a fresh-bed problem. You have a duvet-cover problem.“ / Primärtext beginnt: „You wash the cover every week. The duvet inside just soaks it all back up.“ | Amateurfoto: frisch bezogenes Bett, Bezug an einer Ecke angehoben |
+| A8 (Schlussrunde) | Ekelbild-Static ohne Bildtext (CR-01/02-Muster) | Titel „Why Your Bed Never Feels Truly Fresh (The Real Reason Is Hiding Inside the Cover)“ · Primärtext-Start: „I wasn't going to share this, because it's honestly a bit embarrassing. But if it saves one person from sleeping under what I was sleeping under …“ | 5–8 echte Fotos je Batch: Schweißabdruck auf dem Laken, vergilbte 7 Jahre alte Decke, Nahaufnahme Naht, graues Waschwasser |
+| A9 (Schlussrunde) | Bild mit 3-Zeilen-Text (Miracle-Muster) | „Clean body. / Dirty duvet. / Let's fix that.“ | Ruhiges Dämmerlicht-Foto einer zerwühlten weißen Decke, Logo klein |
+| A10 (Schlussrunde) | Video (Long-Form-Hook nach Nr. 11) | 0–2 s Balken „IF YOUR DUVET HAS NEVER BEEN WASHED“ · 2–5 s „YOU'RE SLEEPING IN EVERY NIGHT IT SOAKED UP“ · 5–10 s „HERE'S WHAT TO DO INSTEAD“ (keine Jahreszahl ohne Beleg, vgl. Kap. 5) | Decke mit „Durchsicht“-Overlay (Feuchte-Zonen rot), dann grün beim Reveal |
 
 > Zwischenstand gespeichert nach Angle A.
 
@@ -260,6 +321,9 @@ Begründung mit Belegen:
   - Magazin-Persona „Hot Sleeper Journal“ (182116197) mit einer 7.252-Zeichen-Story „I stole a comforter from a hotel in Charleston …“, Wechseljahre nur angedeutet: „before I turned 40-something … hot sweaty mess … up by 3:47am“.
 - **Plufl-Advertorial:** Es testet per A/B-Tool zwei Headlines, die zweite lautet „How Women Over 45 Are Transforming Their Sleep Naturally – No Medications, No Hot Flashes, Just Restorative Rest“. Testimonials tragen Symptom-Tags („Night sweats / Partner disturbance“), z. B. Patricia, 58: „I was considering separate bedrooms …“.
 - **TrueClean** testet A und B kombiniert: „Hormones fine. Mornings still wrecked?“ (155122378, 55 T, Testing) und „Your hormones are real. So is what's in your mattress. Only one of them has never been checked.“
+- **(Schlussrunde) Wechseljahre als „falsche Erklärung“ – PillowDaddys Zielgruppe ist unsere:** In **20 DE-Clustern** (u. a. CR-04, CR-06, CR-15, KZ-09) wird die Menopause vorweggenommen und abgewehrt: „Mein Mann meinte immer, „Vielleicht sind's die Wechseljahre.““ (CR-04, Schwindel-Winner, 129 Ads, 97 T, $10–20k, „Winning“, https://app.gethookd.ai/share/ad/117243142?signature=03c61d863e8f68ee3dc3819e0d6d53d29b11452413b64ec19009b231d0ee30ff). In den USA genauso: „My husband kept saying, "Maybe it's menopause."“ (Rebecca Fitzgerald RF-K04/K08/K31, bis 69 T, https://app.gethookd.ai/share/ad/117363603?signature=1f85a3ed3e596af4b84f97a7f8f378f50d6a2d476c2872f4f618fda464955b07). Die Erzählerinnen sind Frauen 45–60. **Nachtschweiß und Hitzewallungen selbst bewirbt PillowDaddy nicht** (`grid_persona_us.md` (g) 10: „Lücke = Chance“). In den Long-Form-Videos taucht der kühlende Bezug „inkl. nächtliche Hitzewallungen“ nur als Nebenfeature im Produktteil auf (`top15.md` Querschnitt 2).
+- **(Schlussrunde) Unsere Umkehr – sauber formuliert:** Bei PillowDaddy ist die Menopause die *falsche* Erklärung (der Nacken sei schuld). Bei uns ist sie die **echte Ursache** von Nachtschweiß und Hitzewallungen, und das sagen wir auch. Die Decke ändert an den Hormonen nichts. Sie ändert, **was die Hitze und der Schweiß im Bett anrichten**: zwei Lagen (Bezug + Decke) stauen die Wärme, die Feuchtigkeit zieht in eine Füllung, die kaum je gewaschen wird. Satzmuster: „Yes, it's the menopause. Your GP was right. But nobody asked what you're sleeping under.“ / „The hot flushes are your body. The trapped heat and the damp duvet are your bed – and that part you can change.“ Nie: „It's not menopause“, „stops night sweats“, „cures hot flushes“.
+- **(Schlussrunde) Miracle Made (US) hat die beste Nachtschweiß-Ich-Story ohne Gesundheits-Claim:** Offline Granny 147817064 („3:12 in the morning… soaked again“, 102 T, aktiv, 723 Wörter, Marke erst nach 590 Wörtern) nennt die Wechseljahre nie. Der Zyklus „Wake up hot. Throw the covers off. Get cold. Pull them back on.“ und die Pointe „It wasn't just me. It was my sheets.“ reichen aus.
 - **Warum Paar und nicht nur „Frau mit Symptom“:** Der Partner-Konflikt ist der emotionale Kern aller Langläufer (Eight Sleep, UVlizer „guest room“ 218 T, Plufl). Er erlaubt außerdem eine Lösung **ohne Heilversprechen**: Wir behandeln keine Hitzewallung, wir beenden den Deckenkrieg und das Waschproblem.
 
 ###### B b) Story-Gerüst (10 Schritte)
@@ -292,6 +356,9 @@ Gesamt: etwa 1.300–1.700 Wörter.
 | 5 (Zusatz) | Bild-Ad „The answer to night sweats & hot flashes is here!“ (Cosy House 107610652, 114 T, 5 Varianten, https://app.gethookd.ai/share/ad/107610652?signature=6640df54d74502335a81fa1c3fa74900d36d23717cf0e4f4672e4264e052e96f) → LP-H1 „Still Waking Up Hot at 3 A.M.? Your Cotton Sheets Could Be Why.“ (https://try.cosyhousecollection.com/7-reasons-you-need-to-upgrade-to-100-bamboo-bed-sheets-cooling) | „Still [Symptom-Szene mit Uhrzeit]? Your [Bettwaren-Objekt] Could Be Why.“ | **„Still Waking Up Hot at 3am? Your Duvet and Cover Could Be Why.“** · Reframe (entschärft, ohne die Wechseljahre zu bestreiten): „It's not just your thermostat. It's not just your partner. It's also the duvet you've never questioned.“ (Original: „It's not your thermostat. It's not menopause. It's not your partner. It's the sheet you've been blaming everything else for.“) |
 | 6 (Zusatz) | „Your hormones are real. So is what's in your mattress. Only one of them has never been checked.“: TrueClean Wechseljahre-Test (155122378, 55 T, LP https://truecleanhome.com/pages/capturecards-menovsmite) | „Your [anerkanntes Problem] is real. So is [übersehene Ursache im Bett]. Only one of them [lässt sich einfach lösen].“ | **„Your hot flushes are real. So is what's soaking into your duvet every night. Only one of them goes in the wash.“** |
 
+| 7 (Schlussrunde) | „Mein Mann meinte immer, „Vielleicht sind's die Wechseljahre.““ (PillowDaddy CR-04, Link in B a) · „My husband kept saying, "Maybe it's menopause."“ (RF-K04, Link in B a) · UK-Hook „YOUR MORNING DIZZINESS HAS NOTHING TO DO WITH THE MENOPAUSE.“ (Brielle Grace BG-K3, Test) | PD: „[Partner] kept saying, ‘Maybe it's [naheliegende Erklärung].’“ → wird widerlegt. **Bei uns umgedreht:** die naheliegende Erklärung stimmt, aber sie ist nicht die ganze Geschichte | **„My Husband Kept Saying, ‘It's Just the Menopause.’ He Was Right – But It Wasn't the Whole Story.“** · Bild-Ad: **„Yes, it's the menopause. No, you don't have to keep sleeping in a damp duvet.“** |
+| 8 (Schlussrunde) | „The Splurge You'll Wish You Made Years Ago“ + erste Zeile „I was sitting on the edge of my bed at 3:12 in the morning, trying not to cry because I was soaked again.“: Miracle Made / Offline Granny 147817064 (102 T), https://app.gethookd.ai/share/ad/147817064?signature=495693eb53ff3ec74fc61a2bb10a54cfa8d3fdb9e880a5a9c2609f7376e2730e → PDP https://try.miraclebrand.co/sheets/ksp | Titel ohne Symptom („The [Kauf] You'll Wish You Made Years Ago“) + Ich-Szene mit Uhrzeit als erste Zeile | Titel **„The Swap I Wish I'd Made Three Winters Ago“** · erste Zeile: „3:12am, sitting on the edge of the bed, soaked again – and the duvet I'd just kicked off was still damp from last night.“ |
+
 Als Ad-Titel zusätzlich die Eight-Sleep-Formel „This [Produkt] Saved My Sleep (+ My Marriage) 😅“ (150166893, Winning). UK: „This Coverless Duvet Saved My Sleep (+ Possibly My Marriage) 😅“.
 
 ###### B d) Vorlage
@@ -304,6 +371,8 @@ Als Ad-Titel zusätzlich die Eight-Sleep-Formel „This [Produkt] Saved My Sleep
 | **Native-Seite** | The Get Well Couples-Advertorial: https://thegetwell.co/brands/eight-sleep-couples/ (1.257 Wörter; Produktkategorie nach 166 Wörtern) · Listicle-Variante MagicSplashy https://magicsplashy.de/pages/frauen-magazin („7 Gründe …“, Test) | Ablauf: Beziehungs-Einstieg → persönliches Problem → Entdeckung im Forum → Mechanismus → „I repeat: …“-Abschnitt zum Hauptnutzen → Einwand → Testangebot. Studienzahlen nur mit Fußnote, Disclaimer „not a medical device“. Label „Sponsored“. Aus MagicSplashy: Einstieg „Nachts um drei. Die Decke fliegt zur Seite. Fünf Minuten später ist dir kalt.“, Paar-Review („Seit den Wechseljahren ist mir nachts ständig heiß, mein Mann friert dagegen schnell. Früher gab's jede Nacht Deckengezerre.“) | Tech-Bro-Social-Proof (Musk, Zuckerberg), Preis-Einwand („Yes, it's expensive“) brauchen wir nicht |
 | **Ich-Story-Long-Form-Video (ab Woche 7)** | The Daily Health 132268978 (EN, 5:36 min, 79 T, aktiv): https://app.gethookd.ai/share/ad/132268978?signature=399fbabb0c0253b952f05f6ff463df3ed32409bcab5d0119ff5d4555bb9e3d31 (Analyse `a1/top15.md` Nr. 12) | Ich-Story einer Patientin im billigen, glaubwürdigen Selfie-im-Auto-Look. UK-Übertragung: „For two years I woke up drenched at 3am …“ → alles versucht → Entdeckung → Mechanismus „zwei Lagen“ → Ergebnis → Angebot. Nur mit echter Kundin. | Arzt-Odyssee, die Medizin abwertet; „it's not your hormones“ |
 | **Story-Long-Copy (Gattungs-Vorbild)** | Rest „Hot Sleeper Journal“ 182116197: https://app.gethookd.ai/share/ad/182116197?signature=f72aa798b79363f7f2b6fc3e17ab0d03ac0423b9e87c9bee5948803db09de37d · Creator-Video 30297004 (278 T): https://app.gethookd.ai/share/ad/30297004?signature=9c76a6aae73a1520cfb85e881230dfdc0c0927e2bcdf2b22f13fdbccfd335bc1 · Partner-Ad 175766490 (Winning): https://app.gethookd.ai/share/ad/175766490?signature=53c2958ed27005a27439cfd8fcce153ed15d3c046df4e52dc85cc82432724af0 | Ablauf der Hotel-Story: Geständnis → Ausschluss in drei Schritten (Matratze? Wein? Nein, die Decke) → Geheimnis → Auflösung → Partner bemerkt „You've stopped doing the thing.“ → Signatur mit Name, Alter, Ort → P.S.-Kaskade. Die Wechseljahre werden nur indirekt angesprochen (kein Gesundheits-Claim nötig), das Foto ist ein unperfektes privates Handyfoto ohne Text. Persona-Seite mit Magazin-Namen, der Seitenname dient als Ad-Headline. UK-Setting: Hochzeit in den Cotswolds, Hotel in Edinburgh. **Nur als echte Kundinnen-Geschichte** oder klar als Marken-Redaktion gekennzeichnet. | Eine erfundene Erzählerin „Marina, 46, Texas“ als echt ausgeben |
+| **Kurz-Ich-Story-Bild (Schlussrunde)** | Miracle Made / Offline Granny 147817064 (102 T, aktiv): https://app.gethookd.ai/share/ad/147817064?signature=495693eb53ff3ec74fc61a2bb10a54cfa8d3fdb9e880a5a9c2609f7376e2730e · Volltext `a3/deep3/body_147817064.txt` | 723 Wörter statt 7.500: Tiefpunkt mit Uhrzeit → Zyklus „Wake up hot. Throw the covers off. Get cold. Pull them back on.“ → „I tried everything“ (kühlende Laken, leichtere, schwerere) → Schwester als Auslöser → unaufgeregtes Versprechen → Wochen-Zeitstrahl → Rückkehr zu Hobbys. Marke erst nach 590 Wörtern, Bild = Facebook-Album-Collage „+4“ privater Schlafzimmerfotos. UK: „It wasn't just me. It was my duvet – and the cover I'd zipped it into.“ | „soaked“-Versprechen als Heilwirkung; die Wechseljahre bestreiten |
+| **Wechseljahre als Einwand vorwegnehmen (Schlussrunde)** | PillowDaddy CR-04 (Winning, 97 T) und RF-K04 (69 T), Links in B a) | Die Technik, den naheliegenden Einwand der Zielgruppe früh im Text auszusprechen (Partner-Zitat). Bei uns bestätigt das Zitat die Ursache und lenkt auf den Teil, den das Bett beeinflusst (siehe B a „Umkehr“). | Die Menopause als „falsche Erklärung“ abtun |
 
 ###### B e) Ad-Hooks, die auf die Native-Seite B führen
 
@@ -316,6 +385,8 @@ Als Ad-Titel zusätzlich die Eight-Sleep-Formel „This [Produkt] Saved My Sleep
 | B5 | Video (Voiceover, MagicSplashy-Muster 196670813) | 0–3 s: „Good sleep through the menopause isn't luck. It starts with the right duvet.“ (Original: „Guter Schlaf in den Wechseljahren ist kein Zufall. Der fängt schon bei der richtigen Decke an.“) | Decke wird übers Bett geworfen, Text „No cover. No faff.“ |
 | B6 | Long-Copy (Hotel-Story, Rest-Muster) | Erste Zeile: „I nearly stole a duvet from a hotel in Edinburgh. I'm not proud of it.“ (nur als echte Kundinnen-Geschichte) | Unperfektes Handyfoto: Frau schläft unter einer hellen Decke, Nachttischlampe |
 | B7 | Native-Text-Bild (A+B kombiniert, TrueClean-Muster) | „Your hot flushes are real. So is what's soaking into your duvet every night. Only one of them goes in the wash.“ | Echtes Foto: Decke auf der Wäscheleine im Garten |
+| B8 (Schlussrunde) | Native-Text-Bild (Umkehr des PillowDaddy-Einwands) | „My husband kept saying, ‘It's just the menopause.’ He was right. But it wasn't the whole story...  more“ | Echtes Foto: Paar im Bett, sie ohne Decke, er eingepackt |
+| B9 (Schlussrunde) | Bild-Collage (Miracle-Muster) | Titel „The Swap I Wish I'd Made Three Winters Ago“ · erste Zeile „3:12am. Soaked again.“ | Facebook-Album-Collage „+4“ aus privaten Schlafzimmerfotos einer echten Kundin |
 
 > Zwischenstand gespeichert nach Angle B.
 
@@ -425,6 +496,15 @@ Begründung mit Belegen:
   - SP Nutrition (139 T): „Then my daughter sat me down and showed me an article … She said, mom, please just read this.“
   - GroundingWell (108 T): „her daughter says at dinner mom it's nice to see you smile again“.
   - Calmhaven GB (58 T): „My daughter said, "Mum, you're not yourself anymore." And she was right.“
+- **(Schlussrunde) Der stärkste Beleg kommt von PillowDaddy selbst: Tochter-über-Eltern ist ein Winner-Format.**
+  - **Stephanie Robertson (US)** erzählt **160 von 277 IDs** als Tochter über die Eltern (`grid_persona_us.md` (b), (g) 5).
+  - SR-K05 „My mom's dizziness took her driver's license before any doctor found the cause. Six of them looked. Not one checked the right place.“: 12 IDs, **97 T, heute aktiv**, Winner, 16.387 Zeichen, LP Advertorial, https://app.gethookd.ai/share/ad/117546385?signature=ce5ebf9dbb5768a9d81228ffc8db52bde4a0d4ccb8f5274b445be05108324b7d
+  - SR-K01 „I didn't want to share this because it's pretty personal – but if it helps even one person my dad's age finally breathe through the night again, it's worth it.“: 23 IDs, **131 T**, Winner, https://app.gethookd.ai/share/ad/75147844?signature=3326fe3bffc965e355bd419fb3a31959d26741121b4854779369146ee5513f88
+  - **Karin Zimmermann KZ-01 (DE):** „Ich wollte das eigentlich nicht teilen, weil es ziemlich persönlich ist – aber wenn es auch nur einer Person im Alter meines Vaters hilft, endlich wieder schmerzfrei aufzuwachen, dann ist es das wert.“ **165 T, $20,000+**, längster Läufer der DE-Frauen-Lane, LP advert-2, https://app.gethookd.ai/share/ad/63709347?signature=817a964ad777382a43e13629a4c62d022a4c085bbbcd4d8746590c02c296f585
+  - Rebecca Fitzgerald RF-K51 „My mom slept in the guest room for 14 months. …“ (65 T, Winner, https://app.gethookd.ai/share/ad/87443528?signature=bee716ca3b7021b731aaa32f113d6f9e7dc43967539ba35b9495834ffbaf47c5).
+  - **Gegenprobe:** Die DE-Übersetzung von SR-K05 („Der Schwindel hat meiner Mutter den Führerschein gekostet.“, CR-31) war nach **11 T ein Verlierer**. Die Perspektive allein garantiert nichts. Es kommt auf Markt, Absender und Bild an, deshalb mehrere Hooks testen.
+  - Weitere Tochter-Rahmen aus anderen Kategorien (`a3/vorbilder_uebersicht.md` Abschnitt 6): X-All „I'm a 39 year old woman, and I do laundry at my mom's house…“ (235 T, https://app.gethookd.ai/share/ad/94819002?signature=11f034106ae0cb060df83d138b009d675d079c45f418949e3a0b6ae26957e502), TRAVLR Oma-Tochter-Story (268 T, https://app.gethookd.ai/share/ad/85720667?signature=324dc6777331bb6a9fe467f515aa9ec092182f63eb22eadd4f677cfb67ef43c5), NYVEN „My Daughter Sent Me This. I Should Have Found It Years Ago.“ (45 T, https://app.gethookd.ai/share/ad/154291037?signature=3967595eff96090ffd817b25da956d379eddc24ea5f007f9cf1ea5da7893e189). Agent 3 fasst das als Muster M7 zusammen (Mutter hält still an Gewohnheit fest → Tochter bemerkt es → bringt Lösung → Mutter testet skeptisch → Ergebnis aus Familiensicht → Folgekäufe).
+  - Bei PillowDaddy ist D also keine Geschenk-, sondern eine **Sorge-Story**: Die Tochter sieht, was die Mutter „aufgehört hat zu tun“, und bringt die Lösung. Genau das ist unser Gerüst D b).
 - **Warnung aus dem PillowDaddy-Test:** Die Gründerinnen-Story „Ich bin Michelle … angefangen hat alles… wegen meiner Oma“ (5.400 Zeichen, KI-Handelsfotos) war nach 4 T tot (EU-Reichweite max. 1.707). Die Oma-Motivation allein trägt also nicht als Langtext der Marke. Es braucht eine **Ich-Person mit echtem Bild und Video** und eine konkrete Szene.
 - **Saison:** Jetzt beginnt das Weihnachts-Geschenkfenster (November/Dezember). Danach folgt **Mothering Sunday am 07.03.2027** (UK).
 
@@ -447,6 +527,22 @@ Erzählerin: echte Tochter („[Name], 47, Nottingham“). Die Mutter kommt mit 
 
 Gesamt: etwa 1.300–1.700 Wörter.
 
+**(Schlussrunde) Abgleich mit dem Winner-Bogen SR-K05** (16.387 Zeichen; Position = Anteil am Text, ausgezählt aus `a1/copy_persona_us.md`). Die Reihenfolge deckt sich mit unseren 10 Schritten; drei Bausteine fehlten bisher und sind hier ergänzt:
+
+| SR-K05-Position | Baustein (wörtlich) | Unser Schritt |
+|---|---|---|
+| 0–1 % | Hook mit Verlust: „My mom's dizziness took her driver's license before any doctor found the cause.“ + Warum ich das teile: „it might save someone you love from years of suffering“ | 1 Kopf / Ad-Hook |
+| 4–7 % | Porträt der fähigen Mutter mit **Ritual**: „My mom is 61. … she was the most capable person I knew.“, Garten, „Grandma Fridays“ | 2 Ausgangslage – **neu: ein benanntes Ritual** (z. B. „Sunday bed day“), das später zurückkehrt |
+| 7–10 % | Entdeckung über das, was sie **nicht mehr tut**: „I found out the way you find out things about mothers. Not because she said anything. Because of what she stopped doing.“ + Vater ruft an | 3 Tiefpunkt – **neu: der Rückzug als Signal** („She'd started sleeping without a cover“) |
+| 16–23 % | Odyssee mit Zahl: „Six doctors. Eight months.“ | 5 Was wir versucht haben (bei uns ohne Ärzte: Clips, leichtere Decke, ich alle zwei Wochen) |
+| 24–27 % | emotionaler Tiefpunkt (Geburtstag der Enkelin) | 3 (Verstärkung) |
+| 29–52 % | nächtliche Recherche der Tochter + Mechanismus | 4 Mechanismus + 6 Entdeckung |
+| 60–66 % | Lösungskategorie (noch ohne Namen) | 7 Lösung (bei uns früher, ~30 %) |
+| 68–77 % | Bestellung, Übergabe an die Eltern („My mom looked hopeful. My dad was skeptical.“), Wochen-Timeline 1/2/3/4/6 | 8 Ergebnis – **neu: Skepsis der Eltern** vor dem Ergebnis |
+| 81–85 % | Absicherung: „I'm not a doctor. … Draw your own conclusions.“ | 9 Beweis (bei uns: „I'm not saying it'll suit everyone's mum.“) |
+| 87 % | Rückkehr des Rituals: „last Friday she picked up my daughter from school … Like nothing had ever changed.“ | 8 Ergebnis (Schlussbild) |
+| 92–99 % | Produktname, „40% off“, Garantie, Fälschungswarnung | 10 Angebot (ohne Fälschungs-Story) |
+
 ###### D c) Headline-Muster nach dem Vorbild der Winner
 
 | # | Original (wörtlich, Quelle) | Formel | Unsere UK-Headline |
@@ -454,6 +550,12 @@ Gesamt: etwa 1.300–1.700 Wörter.
 | 1 | „How This Grandma Effortlessly Cleared Dust Mites from Her Home in Just 30 Minutes“: UVlizer, https://www.getuvlizer.co.uk/pages/adv-dust-mites (Ad-Cluster 80269727 u. a., 497 T) | „How this [Persona + Alter] [mühelos] [Ergebnis] in just [Zeit]“ | **„How My 78-Year-Old Mum Finally Stopped Fighting Her Duvet Cover – In Under a Minute“** (Zeitangabe nur gemessen) |
 | 2 | Titel „Want Mom to Sleep Better? 👩 💤“ + Text „If your mom can't sleep you NEED to get her this! <3“: Plufl 122685246, Creator-Seite Noah S., 309 T, **Winning**, https://app.gethookd.ai/share/ad/122685246?signature=9353cc910bd53bc947160d0421f3eeb88df5864ec945f84856b3cdf128633ea0 (Schwestern 122685364/-383: „If your mom sleeps on her side you NEED to get her this! <3“, 309 T, https://app.gethookd.ai/share/ad/122685364?signature=9094b1343988fe1dff3a1468928c7f64672a193a52751b956916f003d9c222cc) | „Want [Mum] to [Ergebnis]? 👩 + If your mum [Situation], you NEED to get her this!“ | Titel **„Want Mum to Stop Wrestling With Her Duvet Cover? 👵🛏️“** · Text „If your mum still changes her own duvet cover, you NEED to see this.“ |
 | 3 | „My daughter said, "Mum, you're not yourself anymore." And she was right.“: Calmhaven 93024586 (GB, 58 T, LP calmhaven.net/pages/advertorial-page-…). Dazu SP Nutrition 101624013 „She said, mom, please just read this.“ (139 T, https://app.gethookd.ai/share/ad/101624013?signature=06fb2c84e91653471c74fe657a9747dcc8199b63b0c06d71d00e049baa3fe13a) | Wörtliche Rede der Tochter „‘Mum, [Beobachtung].’ And she was right.“, aus Sicht der Mutter | **„My daughter said, ‘Mum, you shouldn't be wrestling with that cover at 78.’ She was right.“** (Long-Copy-Ad aus Sicht der Mutter, nur echte Familie) |
+
+| 4 (Schlussrunde) | „My mom's dizziness took her driver's license before any doctor found the cause. Six of them looked. Not one checked the right place.“ (erste Zeile; Ad-Titel generisch „Why Your Dizziness Won't Go Away (The Real Reason Will Shock You)“, Link-Beschreibung „I wasn't going to share this“): PillowDaddy / Stephanie Robertson SR-K05, 97 T, aktiv, https://app.gethookd.ai/share/ad/117546385?signature=ce5ebf9dbb5768a9d81228ffc8db52bde4a0d4ccb8f5274b445be05108324b7d | „My [mum's] [Problem] took her [Unabhängigkeits-Symbol] before anyone [noticed / found the cause].“ | erste Zeile: **„Mum's duvet cover took her Sunday routine away before she ever told me she was struggling.“** · Titel: **„Why Mum Stopped Changing Her Own Bed (The Real Reason Will Surprise You)“** |
+| 5 (Schlussrunde) | „Ich wollte das eigentlich nicht teilen, weil es ziemlich persönlich ist – aber wenn es auch nur einer Person im Alter meines Vaters hilft, endlich wieder schmerzfrei aufzuwachen, dann ist es das wert.“: Karin Zimmermann KZ-01, 165 T, $20,000+, https://app.gethookd.ai/share/ad/63709347?signature=817a964ad777382a43e13629a4c62d022a4c085bbbcd4d8746590c02c296f585 · US-Fassung SR-K01 (131 T): „… if it helps even one person my dad's age finally breathe through the night again, it's worth it.“ | „I wasn't going to share this because it's quite personal – but if it helps even one person [my mum's age] [Ergebnis], it's worth it.“ | **„I wasn't going to share this because it's quite personal – but if it helps even one person my mum's age make her own bed again, it's worth it.“** |
+| 6 (Schlussrunde) | „My wife is going to kill me for posting this.“: Miracle Made / The Granny Blog, James Moore 99445068 (43 T, 20.423 Zeichen), https://app.gethookd.ai/share/ad/99445068?signature=7d374440e76d412b469cac680610215a7e93e19bb4fbdb167786e870655278ea | „My [Angehörige] is going to kill me for posting this.“ | **„My mum is going to kill me for posting this.“** (Foto: Mum lachend mit Decke, mit ihrer Erlaubnis) |
+
+Aus Sicht der Mutter zusätzlich (Schlussrunde): NYVEN 154291037 „My Daughter Sent Me This. I Should Have Found It Years Ago.“ (Link in D a) wird zu **„My Daughter Sent Me This Duvet. I Should Have Found It Years Ago.“**
 
 Als Geschenk-Static zusätzlich: UVlizer 27829561 „For The Mom Who Deserves The Best 🌸“ (364 T) wird zu **„For the Mum Who'd Never Ask for Help 🌸“**.
 
@@ -466,6 +568,7 @@ Als Geschenk-Static zusätzlich: UVlizer 27829561 „For The Mom Who Deserves Th
 | **Geschenk-Bausteine** | MagicSplashy https://magicsplashy.de/pages/umfrage (Punkt 08, CTA „Als Geschenk bestellen“) und https://magicsplashy.de/pages/gesund-schlafen (Punkt 09 „Das Geschenk, das wirklich benutzt wird“) | „Viele Kunden bestellen … zuerst für sich und dann nochmal für die Eltern …“ als Social Proof (nur mit eigenen Daten), Geschenk-CTA, Bundle „one for Mum, one for you“ | – |
 | **Testimonial-Karte auf der LP** | Plufl-Advertorial https://weareplufl.com/pages/hugl-sleep-system-advertorial: „Margaret, 62 – Wish I'd found this sooner … My daughter bought this for me after watching me struggle for years. First week, I was skeptical…“, Tag „Gift from family“ | Testimonial-Karten mit Alter, Überschrift-Zitat und Tag („Gift from family“), dazu die Skepsis der Mutter in der ersten Woche. Auf jede Angle-Seite (auch A und C) gehört mindestens eine Karte „bought for Mum/Dad“, nur mit echter Bewertung. | Erfundene Bewertungen |
 | **Tochter-über-Mutter-Rahmen (respektvoll)** | TrueClean 201101007 (Test seit 06.10.): „My mom washed sheets the way her mom taught her: hot water, every week, no shortcuts. And for years she still woke up stuffy.“ / „Sometimes the habit isn't wrong. It's just missing the one layer nobody told you about.“ · Rest (Ad 2/3): Familie „stiehlt“ die Decke („both of my teenagers are wanting to steal it“) | Die Gewohnheit der Mutter wird nicht kritisiert, sondern ergänzt; das verbindet A und D. Dazu der komische Rest-Rahmen: „My mum stayed in our guest room for a week. When she left, so did the duvet.“ Daraufhin kauft die Tochter ihr eine eigene. | – |
+| **Tochter-Long-Copy-Bild-Ad (Schlussrunde, Hauptvorlage)** | PillowDaddy SR-K05 (97 T, aktiv): https://app.gethookd.ai/share/ad/117546385?signature=ce5ebf9dbb5768a9d81228ffc8db52bde4a0d4ccb8f5274b445be05108324b7d · SR-K01 (131 T): https://app.gethookd.ai/share/ad/75147844?signature=3326fe3bffc965e355bd419fb3a31959d26741121b4854779369146ee5513f88 · KZ-01 (165 T, $20,000+): https://app.gethookd.ai/share/ad/63709347?signature=817a964ad777382a43e13629a4c62d022a4c085bbbcd4d8746590c02c296f585 · RF-K51 (65 T): https://app.gethookd.ai/share/ad/87443528?signature=bee716ca3b7021b731aaa32f113d6f9e7dc43967539ba35b9495834ffbaf47c5 | Bogen aus D b) (Abgleichtabelle): Verlust-Hook → Porträt mit Ritual → „what she stopped doing“ → Versuche → Recherche → Lösung → Skepsis der Eltern → Wochen-Timeline → Rückkehr des Rituals. Bild **ohne Produkt** (SR-K05: Unterarm mit Infusion; KZ-01: Röntgen-HWS) → bei uns ein echtes Familienfoto (Mum am Bett, Hände an den Bezugecken). Link-Beschreibung als Geständnis-Teaser („I wasn't going to share this…“, bei PD 1.248×). Generischer Neugier-Titel, LP = Advertorial D. | Wechselnde Fake-Tochter-Personas, Arzt-Odyssee mit abgewerteten Fachleuten, Fälschungswarnung „knockoffs on Amazon“ ohne realen Anlass |
 
 ###### D e) Ad-Hooks, die auf die Native-Seite D führen
 
@@ -479,6 +582,8 @@ Als Geschenk-Static zusätzlich: UVlizer 27829561 „For The Mom Who Deserves Th
 | D6 | Video (Knete-Animation, PillowDaddy-„Sven“-Formel) | 0–3 s: „This is Margaret. Say hi, Margaret.“ → „She's 78, and every other Sunday she spends twenty minutes fighting her duvet cover.“ … Schluss: Tochter bringt die Decke ohne Bezug, „Bye for now, Margaret!“ (Original „Das hier ist Sven. Hallo Sven.“, 92 T, $5.001–10.000, EU-Reichweite 985.683, https://app.gethookd.ai/share/ad/118591859?signature=94ea1feea2b1f24c8f55e75be1bf3475961923bc5b560015ddfca434e0c0e140) | Knetfigur Margaret, Arme im Bezug verheddert, rot leuchtende Schultern |
 | D7 | Native-Text-Bild (A+D, TrueClean-Muster) | „My mum has washed her duvet cover every Sunday for 40 years. The duvet inside? Never.“ | Echtes Foto: Mutter hängt Wäsche auf |
 | D8 | Long-Copy oder Video (Rest-Muster, humorvoll) | „Mum stayed in our spare room for a week. When she went home, so did the duvet.“ | Mutter lacht, trägt die Decke zum Auto |
+| D9 (Schlussrunde) | Long-Copy-Bild (SR-K05-Bogen, 5–8k Zeichen) | Titel „Why Mum Stopped Changing Her Own Bed (The Real Reason Will Surprise You)“ · Link-Beschreibung „I wasn't going to share this“ · erste Zeile: „Mum's duvet cover took her Sunday routine away before she ever told me she was struggling.“ | Echtes Foto ohne Produkt: ungemachtes Bett, Bezug zusammengeknüllt auf dem Stuhl |
+| D10 (Schlussrunde) | Long-Copy-Bild (KZ-01/SR-K01-Formel) | „I wasn't going to share this because it's quite personal – but if it helps even one person my mum's age make her own bed again, it's worth it.“ | Echtes Foto: Mutter (Hände/Rücken, Freigabe) beim Bettmachen |
 
 > Zwischenstand gespeichert nach Angle D.
 
@@ -491,9 +596,11 @@ Als Geschenk-Static zusätzlich: UVlizer 27829561 „For The Mom Who Deserves Th
 | Angle | Beleg für **unser Produkt** | Beleg **UK** | Claim-/Rechtsrisiko | Saison | Priorität |
 |---|---|---|---|---|---|
 | **C Beziehen** | **Sehr stark:** MagicSplashy-UGC $10.001–20.000 Winning; Beziehen-Hook gewinnt den Hook-Test; Zitat-Bild auf Umfrage-Advertorial Winning | Wettbewerber Pleene UK nur mit PDP-Ads → Native-Feld frei | niedrig (Komfort-Aussagen, Zeit nur gemessen) | ganzjährig | **1 – Start Woche 1** |
-| **A Hygiene** | mittel: MagicSplashy-LP-Texte, Hygiene-Hooks laufen 84 T, aber mit wenig Budget | **stark:** UVlizer 497 T / 291 T / 246 T in GB; PillowDaddy-Mechanismus-Template ist dessen größte LP | mittel–hoch (Milben-, Allergie- und Hygiene-Claims brauchen Tests) | ganzjährig, Herbst/Winter (Heizung, Fenster zu) | **2 – Woche 2**, Advertorial erst nach dem Claims-Check |
-| **D Tochter → Mutter** | Bausteine (Umfrage Punkt 08, Werner 80+, Gelenke-Hook im Test) | Story-Muster in GB (Calmhaven 58 T, UVlizer-Geschenk 364 T); niemand im Bettwaren-Markt besetzt es | niedrig–mittel (echte Familie, Einwilligung der Mutter) | **Weihnachten jetzt**, Mothering Sunday 07.03.2027 | **3 – Start Anfang November** |
-| **B Wechseljahre** | schwach (MagicSplashy-Test erst seit 02.10.) | US stark (Eight Sleep Winning, Plufl 309 T), GB Calmhaven | **hoch** (Gesundheitsbezug, keine Symptom-Versprechen) | ganzjährig | **4 – Woche 5–6**, sobald ein echtes Paar und der Claims-Check stehen |
+| **A Hygiene** | mittel: MagicSplashy-LP-Texte, Hygiene-Hooks laufen 84 T, aber mit wenig Budget; Motiv-Beleg (Schlussrunde): PillowDaddys Schnarch-Winner CR-01/02 (119/106 T) mit Ekelbildern, Miracle-Hygiene-Static Winning 101 T | **stark:** UVlizer 497 T / 291 T / 246 T in GB; PillowDaddy-Mechanismus-Template ist dessen größte LP | mittel–hoch (Milben-, Allergie- und Hygiene-Claims brauchen Tests) | ganzjährig, Herbst/Winter (Heizung, Fenster zu) | **2 – Woche 2**, Advertorial erst nach dem Claims-Check |
+| **D Tochter → Mutter** | Bausteine (Umfrage Punkt 08, Werner 80+, Gelenke-Hook im Test); **Format-Beleg (Schlussrunde): PillowDaddys Tochter-über-Eltern-Long-Copy ist Winner** (SR-K05 97 T aktiv, SR-K01 131 T, KZ-01 165 T $20,000+) | Story-Muster in GB (Calmhaven 58 T, UVlizer-Geschenk 364 T); niemand im Bettwaren-Markt besetzt es | niedrig–mittel (echte Familie, Einwilligung der Mutter) | **Weihnachten jetzt**, Mothering Sunday 07.03.2027 | **3 – Start Anfang November** |
+| **B Wechseljahre** | schwach (MagicSplashy-Test erst seit 02.10.); Zielgruppen-Beleg (Schlussrunde): PillowDaddy greift die Wechseljahre in 20 DE-Clustern als Einwand auf, bewirbt Nachtschweiß aber nicht | US stark (Eight Sleep Winning, Plufl 309 T), GB Calmhaven | **hoch** (Gesundheitsbezug, keine Symptom-Versprechen) | ganzjährig | **4 – Woche 5–6**, sobald ein echtes Paar und der Claims-Check stehen |
+
+(Schlussrunde) Die neuen Belege ändern die Reihenfolge nicht, verschieben aber zwei Dinge: **D bekommt ab Woche 4 zuerst die Tochter-Long-Copy (D9/D10) statt nur Geschenk-Statics**, weil genau dieses Format bei PillowDaddy 97–165 T lief. Und **A testet die Ekelbild-Statics (A8) schon in Woche 2** neben dem „(MUST READ)“-Teaser.
 
 Begründung der Reihenfolge: C ist der einzige Angle, der mit **genau unserem Produkt** auf Native-Seiten Spend im fünfstelligen Bereich belegt. A liefert den stärksten „Warum“-Mechanismus und hat UK-Langläufer, braucht aber belastbare Belege. D hat ein Zeitfenster (Weihnachten) und eine Wettbewerbslücke. B ist groß, aber am heikelsten.
 
@@ -505,11 +612,11 @@ Den Angle-Interessen-Test fahren wir trotzdem schon in Woche 1 für alle vier An
 |---|---|---|---|
 | **0** (bis ~15.10.) | C-Umfrage (`/pages/survey`), C-Presell (`/pages/sick-of-the-cover`), C-PDP · A-Advertorial im Entwurf · Claims-Ordner · Kundenumfrage verschicken · Waschtest beauftragen · Casting (UGC-Mann/-Frau, Tochter+Mutter, Paar) | – | Startklar |
 | **1** | C live | C-UGC: 1 Body × 4 Hooks (C3, C4, C5, Reverse) · C1-Zitat-Bild × 5 Fotos · C2-Native-Text-Bild × 5 · Hook-Matrix 90 s × 4 (A/B/C/D) | Ersten Gewinner-Hook und erstes Gewinner-Bild finden; Angle-Interesse messen |
-| **2** | A-Advertorial + A-PDP live (nach Claims-Check) | A1/A2-Teaser „(MUST READ)“ × 6 Fotos · A3/A4-Videos × 4 Hooks | Mechanismus-Native testen |
+| **2** | A-Advertorial + A-PDP live (nach Claims-Check) | A1/A2-Teaser „(MUST READ)“ × 6 Fotos · A8-Ekelbild-Statics × 5–8 Motive, A9 (Schlussrunde) · A3/A4-Videos × 4 Hooks | Mechanismus-Native testen |
 | **3** | Headline-Klon der besten LP | Gewinner aus Woche 1–2 je 2–3× ins Scaling duplizieren · 3 neue Hooks auf den Gewinner-Body | Skalieren nach PillowDaddy-Muster |
-| **4** (Anfang Nov.) | D-Tochter-Story + Geschenk-PDP (Lieferung an Mum, Grußkarte, echte Weihnachts-Bestellfrist) | D-Tochter-UGC × 4 Hooks · D1/D2/D5-Statics × 6 · Long-Copy aus Mutter-Sicht × 2 | Geschenk-Saison nutzen |
-| **5–6** | B-Paar-Advertorial + B-Listicle „7 reasons“ | B-Long-Copy „Read if … 👆“ × 3 Bilder · B-UGC × 4 Hooks · B4-Partner-Video | Größten Angle sauber erschließen |
-| **ab 7** | Zweitformate pro Gewinner-Angle (z. B. Einwand-Listicle C) | Knete-Animation (A: sprechende Decke, D: „This is Margaret“) · Long-Form-Mechanismus-Video A (3–5 min) · echter Insider/Experte | Formate erweitern, die bei PillowDaddy am längsten liefen |
+| **4** (Anfang Nov.) | D-Tochter-Story + Geschenk-PDP (Lieferung an Mum, Grußkarte, echte Weihnachts-Bestellfrist) | D9/D10-Tochter-Long-Copy × 5–8 Fotos (Schlussrunde) · D-Tochter-UGC × 4 Hooks · D1/D2/D5-Statics × 6 · Long-Copy aus Mutter-Sicht × 2 | Geschenk-Saison nutzen |
+| **5–6** | B-Paar-Advertorial + B-Listicle „7 reasons“ | B-Long-Copy „Read if … 👆“ × 3 Bilder · B8/B9 „It's just the menopause“-Umkehr und 3:12-Collage (Schlussrunde) · B-UGC × 4 Hooks · B4-Partner-Video | Größten Angle sauber erschließen |
+| **ab 7** | Zweitformate pro Gewinner-Angle (z. B. Einwand-Listicle C) | Knete-Animation (A: sprechende Decke, D: „This is Margaret“) · Long-Form-Mechanismus-Video A (3:30–4:00, Sekunden-Anker Kap. 1.6, Hook A10) · echter Insider/Experte | Formate erweitern, die bei PillowDaddy am längsten liefen |
 | **Dez./Jan./Feb.** | D bis Weihnachts-Stichtag, im Januar A/B („fresh start“, Winterschweiß), ab ~14.02. D für Mothering Sunday 07.03.2027 | – | Saisonrotation |
 
 ##### 3.3 Budget- und Rotationslogik (nach PillowDaddy-Muster, Zahlen als Annahme)
@@ -585,8 +692,8 @@ Den Angle-Interessen-Test fahren wir trotzdem schon in Woche 1 für alle vier An
   - `a2/lp_struktur_alle.md`: Übersichtstabelle aller 33 Seiten.
   - `a3/brand_plufl.md`, `a3/brand_rest.md`, `a3/brand_trueclean.md`, `a3/brand_cosyhouse.md`.
 
-  **`a2/muster.md` fehlte bis zum Abschluss.** Wenn sie und die restlichen Top-15- bzw. LP-Analysen fertig sind, sollten Kapitel 2 c) und 2 d) gegengeprüft werden, vor allem auf weitere Winner-Headlines und Muster-Statistiken (Produktnennung, CTA-Dichte).
-- Für Miracle Sheets, Ryer und GroundingWell liegen nur Sweep-Daten vor (keine fertige Brand-Datei). Spätere Vorbild-Dateien von Agent 3 (z. B. Miracle) sind nicht mehr eingeflossen.
+  **`a2/muster.md` fehlte bis zum Abschluss.** (Schlussrunde: inzwischen eingearbeitet, siehe Kap. 1.5; ebenso `top15.md` Nr. 13–15 und der Querschnitt, Kap. 1.6.)
+- Für Ryer und GroundingWell liegen nur Sweep-Daten vor (keine fertige Brand-Datei). `a3/brand_miraclemade.md` ist in der Schlussrunde eingeflossen (A6/A9, B c 8, D c 6).
 - Bei einzelnen Vorbild-Ads fehlt die `share_url`: MagicSplashy-Hook-Varianten 125661961, 125661932, 125662166; UVlizer 27829561 und 27829534; Calmhaven 93024586; TrueClean 155122378 und 201101007. Sie werden mit ID genannt.
 - Einige Übertragungsvorschläge aus den Quell-Dateien habe ich bewusst **nicht** übernommen oder entschärft, weil sie in UK riskant sind: „Down and feather duvets are basically a petri dish …“ (herabsetzender Vergleich ohne Beleg), „It's not menopause.“ (bestreitet eine medizinische Ursache), „8 years of sweat“ bzw. „1.5 million dust mites“ (Zahlen ohne Quelle).
 - **Spend:** EU-Spend-Buckets sind GetHookd-Schätzungen. Für US- und UK-Ads (Eight Sleep, Plufl, UVlizer, Brielle Grace) gibt es keine Spend-Daten; der Erfolg ist nur über Laufzeit, Varianten und GetHookd-Score belegt.
@@ -722,7 +829,7 @@ Muster:
 
 Quelle: alle `a1/ads_*.json` (Lanes von Agent 1). Bei den Lanes `persona_de_frauen` und `persona_us` ist eine Zeile ein Creative-Cluster; dort zählt `variant_count` als Anzahl Ads. Nicht-PillowDaddy-Ads der Persona-Seiten (z. B. Brielle Grace) sind ausgeklammert.
 
-| Lane | Seite | Ads | aktiv (Zeilen) | Video | Bild | Winner | Kandidat | Test | Verlierer |
+| Lane | Seite | Ads | aktiv | Video | Bild | Winner | Kandidat | Test | Verlierer |
 |---|---|---|---|---|---|---|---|---|---|
 | pd_discovery | Brielle Grace | 25 | 25 | 0 | 25 | 0 | 0 | 25 | 0 |
 | pd_discovery | Sofía Hernandez | 58 | 0 | 0 | 58 | 8 | 27 | 0 | 23 |
@@ -883,7 +990,7 @@ Stand 08.10.2026, Agent 1 (Teilaufgabe Top 15 Video-Ads). Alle Zitate wörtlich 
 | 14 | [88084999](https://app.gethookd.ai/share/ad/88084999?signature=8bfa4634e2e8b84de61df2a08ec2ee3e0531bea78e78cc5a4f05bbf95033b3a0) | PillowDaddy | DE | Knete-Animation „Anna“ | Winner | 41 | inaktiv | $501–$2.000 | 7 / 1 | PDBJ-V02 / PDBJ-V02 | 41 Tage, Spend bis $501–2.000, 7 Varianten; weibliche Persona-Variante der Knete-Story. |
 | 15 | [83625035](https://app.gethookd.ai/share/ad/83625035?signature=6cb2313e9849a294449db4616ebcf418067fc4b378b2a6d439cb3ee75d36ae7e) | The Daily Health | EN | EN Long-Form Snoring („fastest way to stop snoring“) | Kandidat | 41 | inaktiv | – | 1 / 1 | DH-K56-C01 / US-B06 | EN, 41 Tage (Kandidat), aufgenommen für die Englisch-Quote und als einziges EN-Schnarch-Video; nächster EN-Kandidat nach Konzept-Deckel. |
 
-Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T., Konzept-Deckel), PDBJ-V02-Nachfolger DH-K05-C01 (EN „Neck Pain Relief Backed by Science!“, 38 T.), DH-K01-C14 (EN 426 s, 34 T.), PDBJ-V03 (Pixar-3D „Monster-Kissen“, 27 T., Spend bis $5k).
+Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T., Konzept-Deckel), DH-K05-C01 (EN „Neck Pain Relief Backed by Science!“, 38 T.), DH-K01-C14 (EN 426 s, 34 T.), PDBJ-V03 (Pixar-3D „Monster-Kissen“, 27 T., Spend bis $5k).
 
 
 ##### 1. „So hört Schnarchen sofort auf“ – Atemweg-Mechanismus (Long-Form) – Ad 74485763
@@ -901,7 +1008,7 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 466.5 s (7:46) / 720x900 |
 | Format | Long-Form-Erklärvideo (7:46) als Voiceover über schnelle B-Roll-Kompilation: Vorher/Nachher-Glüh-Effekt (rot→grün), 3D-Anatomie Atemweg/Skelett, UGC-Schnarcher, Stock-Szenen (Reanimationskurs, Paar im Bett), Wärmebild-Insert, Endcard. Untertitel-Kästen unten (2 Zeilen, weiß auf grau), im Hook schwarzer Balken oben. |
 | Landingpage | https://shop.pillowdaddy.de/advert-1-schnarchen-das-nacken-therapiekissen – Advertorial (shop.pillowdaddy.de/advert-…, „Thomas Brandt, Chiropraktiker“) |
-| Transkript-Quelle | ### K05-B1 – Referenz K05-187 (Ad 74485763, [share_url](https://app.gethookd.ai/share/ad/74485763?signature=445d441d4f97c39e641c6c8dee7be327243afc43c3723eecf3f5 |
+| Transkript-Quelle | `transcripts_persona_de_journal_brandt.md`, Body-Variante K05-B1 (Referenz K05-187, Ad 74485763; GetHooked-Whisper) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
@@ -944,7 +1051,7 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 401.0 s (6:41) / 720x900 |
 | Format | Long-Form-Erklärvideo (6:41): UGC-artige Bett-Szenen (Frau in Seitenlage) mit Muskel-/Skelett-Overlays, 3D-Anatomie (Bandscheibe, Nerv), OP-Stock, Schwarzweiß-Szenen für „falsch“, Produkt-Demos mit U-förmigem Ganzkörperkissen, Timeline-Leiste, Endcard. Hook-Balken oben (weinrot, „die schlechteste“ gelb), Untertitel-Kästen unten. |
 | Landingpage | https://shop.pillowdaddy.de/advert-1-das-schlaftherapie-kissen-1 – Advertorial (Listicle-Aufbau), shop.pillowdaddy.de |
-| Transkript-Quelle | ### K09-B1 – Referenz K09-238 (Ad 74485768, [share_url](https://app.gethookd.ai/share/ad/74485768?signature=b03d7e13a07ea52d0ae08ad055ded9040e093e7e6852caeb1940 |
+| Transkript-Quelle | `transcripts_persona_de_journal_brandt.md`, Body-Variante K09-B1 (Referenz K09-238, Ad 74485768; GetHooked-Whisper) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
@@ -986,7 +1093,7 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 408.9 s (6:49) / 720x900 |
 | Format | Long-Form-Mechanismus-Video (6:49): 3D-Anatomie (Skelett, Nerven, glühende HWS), Mann auf rosa Kissen mit Röntgen-Overlay, Chiropraktiker-Clips am Modell, OP-Stock, UGC-Testimonial (Talking Head), TikTok-Screenshot, Endcard. Hook-Balken oben (weinrot, weiß/gelb), Untertitel-Kästen. |
 | Landingpage | https://shop.pillowdaddy.de/advert-3-das-nacken-therapiekissen-1 – Advertorial (shop.pillowdaddy.de/advert-3-das-nacken-therapiekissen-1) |
-| Transkript-Quelle | Vollständiges Transkript 58233408 (Medium 129844629, Sprechende 408.3 s): |
+| Transkript-Quelle | `transcripts_pd_marke_bis_juli.md` – Vollständiges Transkript 58233408 (Medium 129844629, Sprechende 408.3 s) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
@@ -1029,7 +1136,7 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 64.0 s (1:04) / 720x1280 |
 | Format | Kurzes UGC-Listicle (64 s), Reverse-Psychology-Hook + nummerierte „Gründe“; schnelle Kompilation von Selfie-/Handy-Clips (Frauen auf dem weißen bzw. mintgrünen Schmetterlingskissen), Wort-für-Wort-Captions mittig (weiß), grüne/rote Effekte, Schwarzweiß + rotes X für „vorher“. Keine Endcard. |
 | Landingpage | https://shop.pillowdaddy.de/advert-1-das-nacken-therapiekissen-1 – Listicle-Advertorial (shop.pillowdaddy.de) |
-| Transkript-Quelle | Vollständiges Transkript 66186872 (Medium 220428778, Sprechende 63.7 s): |
+| Transkript-Quelle | `transcripts_pd_marke_bis_juli.md` – Vollständiges Transkript 66186872 (Medium 220428778, Sprechende 63.7 s) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
@@ -1067,7 +1174,7 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 351.6 s (5:52) / 720x900 |
 | Format | Long-Form-Experten-Erklärvideo (5:52): Symptom-Montage (UGC-Frauen/Männer + 3D-Gehirn/Herz), Experte als Kreis-Insert, Anatomie-Overlays, Chiropraktiker am Skelett, Produktgrafik „3 ZONEN“, Demo mit rotem X, mehrere UGC-Testimonials, Endcard. Weinroter Hook-Balken oben, Untertitel-Kästen. |
 | Landingpage | https://shop.pillowdaddy.de/advert-6-das-nacken-therapiekissen-schwindel – Advertorial (shop.pillowdaddy.de/advert-6-das-nacken-therapiekissen-schwindel) |
-| Transkript-Quelle | ### K01-B1 – Referenz K01-001 (Ad 96489719, [share_url](https://app.gethookd.ai/share/ad/96489719?signature=37040ca3da7330278cf944b4b9b89643e2ef4ada0847104ff151 |
+| Transkript-Quelle | `transcripts_persona_de_journal_brandt.md`, Body-Variante K01-B1 (Referenz K01-001, Ad 96489719; GetHooked-Whisper) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
@@ -1148,7 +1255,7 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 383.0 s (6:23) / 720x900 |
 | Format | Long-Form-Experten-Erklärvideo (6:23): Behandlungsszene mit Nerven-Overlay + Gehirn-Scan-Kreis, Symptom-Talking-Heads, Experte, Kittel-Arzt, 3D-Arterien/Vagus, Laptop-Grafik „INCORRECT SLEEPING“, Produktgrafik mit grünem Nacken, Timeline, UGC-Testimonial, Kalender-Animation „14“, Endcard. Weinroter Balken + Untertitel. |
 | Landingpage | https://shop.pillowdaddy.de/advert-6-das-nacken-therapiekissen-schwindel – Advertorial (shop.pillowdaddy.de/advert-6-das-nacken-therapiekissen-schwindel) |
-| Transkript-Quelle | ### K01-B2 – Referenz K01-002 (Ad 100373716, [share_url](https://app.gethookd.ai/share/ad/100373716?signature=e9951b4ee54d09b415ffda53800210bbb172cd4f7e0bb2aa15 |
+| Transkript-Quelle | `transcripts_persona_de_journal_brandt.md`, Body-Variante K01-B2 (Referenz K01-002, Ad 100373716; GetHooked-Whisper) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
@@ -1167,7 +1274,7 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | 4:41–5:11 | UGC-Testimonial (Frau, warm gefiltert) | Untertitel „Kein Hohlraum mehr zwischen“ | Schon in der ersten Nacht habe ich gemerkt, das hilft ja. Das hast du direkt gespürt. Ich bin morgens aufgewacht und dachte mir so, warte mal, Nacken tut gar nicht mehr weh? Nach zwei Wochen waren die kompletten Kopfschmerzen weg von mir. Also einfach weg. Kein Ruheraum mehr zwischen Kissen und Nacken. Die Schultern werden entlastet und das Kribbeln im Arm ist jetzt auch endlich weg. Ich schlafe jetzt echt so gut wie seit langem nicht mehr und wache morgens erholt auf. Es hört sich vielleicht komisch an, aber dieses Kissen hat mir mein Leben zurückgegeben. | Beweis (Kunden-O-Ton) |
 | 5:11–5:39 | Kalender-Animation „14“ + Produkt-Unschärfe | Kalenderblatt „14“; Untertitel „verschwunden.“ | Rund 92% der Kundinnen berichteten bereits nach den ersten Nächten von einer spürbaren Linderung ihres Schwindels, ihrer Benommenheit und dem Kribbeln in den Armen. Und nach etwas mehr als 14 Tagen waren die Beschwerden meist vollständig verschwunden. Viele dieser Personen waren anfangs skeptisch, da sie bereits schon alles mögliche ausprobiert hatten. HNO-Ärzte, Neurologen oder auch Physiotherapie. Doch nachdem sie die vielen positiven Bewertungen und einzigartige Garantie sahen, haben sie sich entschieden, dem Nacken-Therapie-Kissen eine Chance zu geben. | Beweis 92 % / 14 Tage + Skeptiker (HNO-Ärzte, Neurologen) |
 | 5:39–6:10 | UGC-Frau umarmt das Kissen | Untertitel „Seitdem das Nacken Therapiekissen“ | Das sehr ambitionierte Team hinter dem Kissen bietet nämlich ein Versprechen an, das kein Pharmakonzern oder Arzt jemals geben würde. Wenn du nach 30 Nächten mit dem Nacken-Therapie-Kissen keinen großen Unterschied bei deinen Symptomen spürst, bekommst du dein volles Geld rückerstattet. Seitdem das Nacken-Therapie-Kissen im Internet vorgestellt wurde, hat das Produkt mit über 21 Millionen Aufrufen auf TikTok einen unglaublichen Hype ausgelöst und war bereits dreimal ausverkauft. Und deshalb ist der aktuelle Lagerbestand sehr limitiert. Klicke jetzt also unten auf den Link, um das Nacken-Therapie-Kissen ganz ohne Risiko für 30 Nächte zu testen oder du bekommst dein Geld zurück. | Garantie 30 Nächte + TikTok-Hype/Knappheit |
-| 6:10–6:23 | Endcard blau | „NUR NOCH KURZE ZEIT“ / „Pillow Daddy“ / „40% Rabatt“ / „Jetzt kaufen“ / „SCHMERZEN IN NACKEN, SCHULTERN UND ARMEN LINDERN“ |  | CTA |
+| 6:10–6:23 | Endcard blau | „NUR NOCH KURZE ZEIT“ / „Pillow Daddy“ / „40% Rabatt“ / „Jetzt kaufen“ / „SCHMERZEN IN NACKEN, SCHULTERN UND ARMEN LINDERN“ | (Fortsetzung des vorherigen Satzes) | CTA |
 
 - **Hook 0–3 s:** Gleicher Warn-Hook wie die Ischias-Version („Das ist die schlechteste Schlafposition“), aber mit einem Gehirn-Scan-Kreis, der von blau auf grün springt (Lösung im Hook angedeutet), und Symptom-Effekten (Sterne um den Kopf, glühendes Herz) bei 0:03–0:05.
 - **Produkt-Reveal:** Gesprochen 3:17–3:21 („…entstand letztes Jahr schließlich das Nackentherapiekissen“), Kissen im Bild ab ~3:20 = nach ca. 52 % der Laufzeit.
@@ -1191,21 +1298,21 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 69.0 s (1:09) / 720x1280 |
 | Format | Kurzes UGC-Listicle (69 s) wie #4, aber anderes Produkt (Schlaftherapie-Kissen, U-Form) + Info-Grafik-Labels („Rücken/Hüfte/Ischias“ mit grünen Radar-Kreisen), Muskel-Overlay, Physio-Szene, 4er-Split-Screen mit Testimonials, Endcard mit Wolken. |
 | Landingpage | https://shop.pillowdaddy.de/advert-1-das-schlaftherapie-kissen-1 – Listicle-Advertorial (shop.pillowdaddy.de) |
-| Transkript-Quelle | Vollständiges Transkript 107025504 (Medium 348934255, Sprechende 65.3 s): |
+| Transkript-Quelle | `transcripts_pd_marke_bis_juli.md` – Vollständiges Transkript 107025504 (Medium 348934255, Sprechende 65.3 s) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
 | Zeitraum | Bild / Szene | eingeblendeter Text (wörtlich) | gesprochener Text (wörtlich) | Funktion |
 |---|---|---|---|---|
 | 0:00–0:03 | Junge Frau auf dem Sofa umarmt lachend das graue U-Kissen (Produkt ab Frame 1) | Wort-Captions „Kaufe dir“ → „bloß nicht das“ → „Schlaftherapie“ | Kaufe dir bloß nicht das Schlaf-Therapie-Kissen. Hier sind 5 Gründe dagegen. | Hook (Reverse Psychology, Produkt sofort) |
-| 0:03–0:04 | Rothaarige Frau legt sich seitlich aufs U-Kissen | „Hier sind“ |  | Hook-Verlängerung (5 Gründe) |
+| 0:03–0:04 | Rothaarige Frau legt sich seitlich aufs U-Kissen | „Hier sind“ | (Fortsetzung des vorherigen Satzes) | Hook-Verlängerung (5 Gründe) |
 | 0:04–0:21 | Kissen leuchtet grün unter der Frau; Labels mit grünen Radar-Kreisen; Muskel-Anatomie-Overlay; S/W-Frau mit rotem Schmerzblitz + rotem X | „in der Sekunde“ „komplett“; Labels „Rücken“, „Hüfte“, „Ischias“; „Ischiasnerv“ „endlich aufhörst“ | 1. In der Sekunde, wo du dich drauflegst, verändert sich dein Schlaf komplett. Dein Ischias, deine Hüfte und dein Rücken entspannen sich sofort. Es löst auf der Stelle die Druckpunkte, die deinen Ischias-Nerv nachts einklemmen und richtet deine Wirbelsäule neutral aus, damit du endlich aufhörst, mit brennenden Ischias und Hüftschmerzen aufzuwachen. | Grund 1: sofortige Entlastung + Mini-Mechanismus (Druckpunkte, Ischiasnerv, neutrale Wirbelsäule) |
 | 0:21–0:33 | Frau schläft auf dem Kissen (grün markiert); Frau tief schlafend; Physiotherapeut renkt Patientin ein | „es benutzt“ „und erholsamer“ „Dein Physiotherapeut“ | 2. Sobald du es benutzt, wird aus unruhigen, schmerzvollen Nächten endlich ein tiefer und erholsamer Schlaf. Ich rede hier von schmerzfreien Morgen, schon ab der ersten Nacht. Dein Physiotherapeut wird dich vermissen. | Grund 2: tiefer Schlaf + „Physiotherapeut wird dich vermissen“ |
 | 0:33–0:42 | Frau und Mann im Flur (Mann staunt); Wisch-Übergang | „wird merken“ „was plötzlich“ | 3. Sogar deine Kinder und deine Familie wird merken, wie ausgeruht du auf einmal aussiehst. Und alle deine Freundinnen werden dich fragen, was plötzlich dein Geheimnis ist. | Grund 3: Familie/Freundinnen bemerken es |
 | 0:42–0:48 | Blonde Frau umarmt das Kissen strahlend | „gibt es praktisch“ | 4. Das Schlaf-Therapie-Kissen gibt es praktisch gerade geschenkt mit einem riesigen 40% Rabatt. | Grund 4: 40 % Rabatt |
 | 0:48–0:56 | Spiegel-Selfie mit dem mannshohen Kissen; Frau auf Hotelbett | „Und wenn du“ „rückerstattet“ | 5. Und wenn du in den 30 Nächten Testphase keine Verbesserung siehst, kriegst du dein volles Geld rückerstattet. Es ist also quasi umsonst. | Grund 5: 30-Nächte-Garantie |
 | 0:56–1:03 | 4er-Split-Screen: verschiedene Frauen mit dem Kissen, eine spricht begeistert | „und finde heraus“ | Hole dir jetzt also das Schlaf-Therapie-Kissen und finde heraus, warum 92% der Menschen, die einmal gewechselt haben, nie wieder zu ihrem alten Kissen zurückkehren. | CTA + Social Proof (92 %) |
-| 1:03–1:09 | Endcard: Frau schläft auf dem U-Kissen zwischen Wolken | „Pillow Daddy“, „40% RABATT“, „+GRATIS eBOOK“, „Klick unten auf den Link ⬇“ |  | Angebot + CTA |
+| 1:03–1:09 | Endcard: Frau schläft auf dem U-Kissen zwischen Wolken | „Pillow Daddy“, „40% RABATT“, „+GRATIS eBOOK“, „Klick unten auf den Link ⬇“ | (Fortsetzung des vorherigen Satzes) | Angebot + CTA |
 
 - **Hook 0–3 s:** Identisch zu #4 („Kaufe dir bloß nicht …“), aber das Bild zeigt sofort das ungewöhnlich große U-Kissen, das eine Frau umarmt – das auffällige Objekt selbst ist der visuelle Stopper.
 - **Produkt-Reveal:** Sofort (0:00).
@@ -1229,7 +1336,7 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 310.9 s (5:11) / 720x900 |
 | Format | Long-Form-Experten-Erklärvideo (5:11): Muskel-Overlay-Hook, Behandlungsszene (Therapeut + Experte im Kasack), 3D-Nerv/Bandscheibe, UGC-Schmerzszenen, Feuer-Effekt am Bein, „Entwicklungsteam“-Szene, Kittel-Arzt hält U-Kissen („3 ZONEN STÜTZSYSTEM“), UGC-Testimonials + Split-Screen, Endcard mit Icons. Weinroter Balken + Untertitel. |
 | Landingpage | https://shop.pillowdaddy.de/advert-1-das-schlaftherapie-kissen-1 – Advertorial (Listicle-Aufbau), shop.pillowdaddy.de |
-| Transkript-Quelle | ### K02-B1 – Referenz K02-091 (Ad 107108716, [share_url](https://app.gethookd.ai/share/ad/107108716?signature=22fa77c2ee57cb148ce3f9f43c67b182cf97dd2c463c5e45bb |
+| Transkript-Quelle | `transcripts_persona_de_journal_brandt.md`, Body-Variante K02-B1 (Referenz K02-091, Ad 107108716; GetHooked-Whisper) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
@@ -1270,7 +1377,7 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 105.5 s (1:45) / 720x1280 |
 | Format | KI-/Knete-Animation (Claymation-Look, 3D-Stop-Motion-Optik) mit Persona-Story in der 3. Person; Wort-für-Wort-Captions mittig (weiß); rot glühende HWS als Problem-Marker, blau leuchtende HWS als Lösung; Kissen-Produktshot am Ende. Keine Endcard-Grafik. |
 | Landingpage | https://shop.pillowdaddy.de/advert-1-das-nacken-therapiekissen-1 – Listicle-Advertorial (shop.pillowdaddy.de) |
-| Transkript-Quelle | Vollständiges Transkript 118591859 (Medium 387457171, Sprechende 104.1 s): |
+| Transkript-Quelle | `transcripts_pd_marke_bis_juli.md` – Vollständiges Transkript 118591859 (Medium 387457171, Sprechende 104.1 s) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
@@ -1351,7 +1458,7 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 336.1 s (5:36) / 720x900 |
 | Format | Ich-Story-Long-Form im UGC-Look: Selfie-Erzählerin (Auto, Küche) + Symptom-Talking-Heads, Arzt-/HNO-Szenen, Supermarkt-POV, 3D-Anatomie (C1/C2, Arterien, Vagus), Engineering-Szene am CAD-Bildschirm, Produkt-Demo mit grünem Nacken, Balance-Therapie-Szene, Endcard. Weinroter Balken + große rote Schlagwörter + Untertitel. |
 | Landingpage | https://try.pillowdaddy-us.com/advert-neck-therapy-pillow-dizziness-r-1 – Advertorial (try.pillowdaddy-us.com/advert-neck-therapy-pillow-dizziness-r-1) |
-| Transkript-Quelle | GetHooked get_transcription_status media None |
+| Transkript-Quelle | GetHooked get_transcription_status (08.10.2026), Whisper, Medium 435082930/435087121 (in der US-Lane noch processing) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
@@ -1391,7 +1498,7 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 80.4 s (1:20) / 720x1280 |
 | Format | Kurz-Case/„Experiment“-Video (80 s): realistische (z. T. KI-generierte) Szenen eines Schlafapnoe-Patienten, weiße Textboxen mit farbigen Schlüsselwörtern, grüner Glüh-Ring um den Kopf auf dem Produkt, Laubbläser-Metapher, Anatomie-Overlays, 3D-Produktgrafik mit Labels, Paar-Szene, Endcard mit Gratis-eBook. |
 | Landingpage | https://shop.pillowdaddy.de/advert-1-schnarchen-das-nacken-therapiekissen – Advertorial (shop.pillowdaddy.de, Schnarch-Advertorial) |
-| Transkript-Quelle | ### K05-B2 – Referenz K05-189 (Ad 90347406, [share_url](https://app.gethookd.ai/share/ad/90347406?signature=9843ec84451f8ab4d8f6d7c915e1eb52bb5b8d759d46b6d1eca8 |
+| Transkript-Quelle | `transcripts_persona_de_journal_brandt.md`, Body-Variante K05-B2 (Referenz K05-189, Ad 90347406; GetHooked-Whisper) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
@@ -1429,14 +1536,14 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 105.8 s (1:46) / 720x1280 |
 | Format | KI-/Knete-Animation (Claymation-Look) wie #10, aber mit Produkt-Teaser im Hook (Anna schwebt auf dem Kissen über dem Bett zwischen Knet-Wolken); Wort-für-Wort-Captions; Schriftzug „Hallo, Anna!“; Stein-Gag; Produktshot am Ende. |
 | Landingpage | https://shop.pillowdaddy.de/advert-1-das-nacken-therapiekissen-1 – Listicle-Advertorial (shop.pillowdaddy.de) |
-| Transkript-Quelle | Vollständiges Transkript 88084999 (Medium 289466257, Sprechende 105.0 s): |
+| Transkript-Quelle | `transcripts_pd_marke_bis_juli.md` – Vollständiges Transkript 88084999 (Medium 289466257, Sprechende 105.0 s) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
 | Zeitraum | Bild / Szene | eingeblendeter Text (wörtlich) | gesprochener Text (wörtlich) | Funktion |
 |---|---|---|---|---|
 | 0:00–0:02 | Nahaufnahme Anna seitlich auf flachem Kissen, Halswirbelsäule glüht rot | „Das ist“ „der Grund,“ | Das ist der Grund, warum Seitenschläfer mit Nackenschmerzen jetzt zu diesem seltsam geformten Kissen wechseln. | Hook-Start (Problem-Bild) |
-| 0:02–0:06 | Anna schläft auf dem Schmetterlingskissen, das zwischen Wolken über dem Bett schwebt (Goldstaub, Laterne) | „Seitenschläfer“ „Nackenschmerzen“ „geformten“ |  | Hook: Neugier auf „seltsam geformtes Kissen“ + Produkt-Teaser |
+| 0:02–0:06 | Anna schläft auf dem Schmetterlingskissen, das zwischen Wolken über dem Bett schwebt (Goldstaub, Laterne) | „Seitenschläfer“ „Nackenschmerzen“ „geformten“ | (Fortsetzung des vorherigen Satzes) | Hook: Neugier auf „seltsam geformtes Kissen“ + Produkt-Teaser |
 | 0:06–0:17 | Anna im Bett (Nachttisch „Anna“), Schriftzug; Anna sitzt morgens auf der Bettkante | Einblendung „Hallo, Anna!“ (Schreibmaschinen-Schrift); „auf der Seite“ | Das hier ist Anna. Hallo Anna. Sie schläft seit Jahren auf der Seite und jeden Morgen wacht sie mit einem steifen Nacken, verspannten Schultern und Taubheitsgefühlen bis in die Fingerspitzen auf. | Persona-Einführung + Problem |
 | 0:17–0:32 | Anna mit rot glühender Brust/Nacken; Anna beim Physiotherapeuten (Gymnastikbälle) | „Fingerspitzen“ „Physiotherapie,“ | Anna hat schon alles Mögliche ausprobiert, um ihre Schmerzen loszuwerden. Dehnübungen am Morgen, Physiotherapie zweimal die Woche, Schmerzmittel, die sie mittlerweile täglich schluckt. Aber nichts hat geholfen und das aus einem bestimmten Grund. | Einwand: alles probiert (Dehnung, Physio, Schmerzmittel) |
 | 0:32–0:50 | Anna auf altem Kissen; rot glühende HWS (Nahaufnahme); Anna umarmt einen Stein in einer Höhle | „bestimmten“ „Halswirbelsäule,“ „lange bevor“ | Anna ist nie die wahre Ursache ihrer Nackenschmerzen angegangen. Und zwar ist die Ursache eine verdrehte Halswirbelsäule, verursacht durch ihr Kissen. Normale Kissen wurden nämlich vor über 2000 Jahren erfunden, lange bevor irgendjemand verstanden hat, wie die Halswirbelsäule wirklich funktioniert. | Ursache: das Kissen („vor über 2000 Jahren erfunden“ – Steinzeit-Gag) |
@@ -1494,6 +1601,96 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 - **Story-Bogen:** (1) Superlativ-Hook + Visual-Beweis → (2) Abgrenzung → (3) Mechanismus-Teaser → (4) Beziehungs-Drama in Szenen → (5) Feindbilder mit Zahlen (CPAP-Preis, FDA) → (6) 4-Stufen-Kaskade → (7) Gesundheitsfolgen → (8) Sanitäter-Griff → (9) erneute Abgrenzung → (10) Reveal + 3 Zonen → (11) Timeline → (12) Zahlen-Stapel + Garantie → (13) Negativ-Alternative + Knappheit → (14) emotionaler Schlusssatz.
 - **Warum es funktioniert:** Englische Neuschreibung des DE-Schnarch-Winners mit stärkerer Sprache: benannte Kaskade („cervical collapse cascade“, Stage 1–4) macht den Mechanismus merkbar und visuell (Leiste). Beziehungs-Szenen als Mini-Drama („First, she nudges you at 2am“). Zahlen-Stapel (91 %, 189.000, 4,8, 5.832) als Proof-Block. Lief 41 Tage (Kandidat) – schwächer als DE, aber einziges EN-Schnarch-Video.
 - **Übernahme für Decken ohne Bezug (UK):** Benannte Kaskade für Hygiene: „the night-sweat cycle“ in 4 Stufen (Stage 1 sweat soaks through the cover → 2 filling stays damp → 3 dust mites feed on skin cells → 4 you breathe it in) mit Leiste wie im Video. Beziehungs-Mini-Drama für Wechseljahre („First, you kick the duvet off at 2am. Then you pull it back on …“). Proof-Block mit Zahlen, Schluss-Satz als Emotion („Your mum didn't sign up to fight a duvet cover every Sunday.“).
+
+##### Querschnitt – Muster über alle 15 Videos
+
+###### Kennzahlen je Video
+
+| Rang | Ad | Spr. | Dauer | Schnitte | Ø Einstellung | Reveal (Produktname/-bild) | Reveal in % | Hook-Typ | max. Tage |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | 74485763 | DE | 466 s (7:46) | 202 | 2.3 s | 265 s | 57 % | Ergebnis-Versprechen + Visual rot→grün | 206 |
+| 2 | 74485768 | DE | 401 s (6:40) | 155 | 2.6 s | 155 s | 39 % | Warnung „schlechteste Schlafposition“ + Mythos-Bruch | 203 |
+| 3 | 58233408 | DE | 409 s (6:48) | 144 | 2.8 s | 190 s | 46 % | Warnung „Wenn du so schläfst“ + C5/C6 | 191 |
+| 4 | 66186872 | DE | 64 s (1:03) | 23 | 2.7 s | 0 s | 0 % | Reverse Psychology „Kaufe dir bloß nicht“ | 188 |
+| 5 | 107108734 | DE | 352 s (5:51) | 126 | 2.8 s | 178 s | 51 % | Symptom-Liste als Frage | 119 |
+| 6 | 106686087 | EN | 214 s (3:34) | 74 | 2.9 s | 118 s | 55 % | Selektion + Provokation gegen Ärzte | 119 |
+| 7 | 107108725 | DE | 383 s (6:22) | 128 | 3.0 s | 200 s | 52 % | Warnung „schlechteste Schlafposition“ + Symptome | 116 |
+| 8 | 107025504 | DE | 69 s (1:08) | 26 | 2.6 s | 0 s | 0 % | Reverse Psychology | 110 |
+| 9 | 107108716 | DE | 311 s (5:10) | 102 | 3.0 s | 156 s | 50 % | Warnung + Experte in 5 s | 109 |
+| 10 | 118591859 | DE | 105 s (1:45) | ~41 (Schätzung) | 2.5 s | 64 s | 61 % | Warnung (Knete-Persona) | 92 |
+| 11 | 113637112 | EN | 402 s (6:42) | 112 | 3.6 s | 193 s | 48 % | Warnung „If you sleep like this“ + C5/C6 + „instead“ | 81 |
+| 12 | 132268978 | EN | 336 s (5:36) | 146 | 2.3 s | 223 s | 66 % | Symptom-Liste → Ich-Story | 79 |
+| 13 | 90347406 | DE | 80 s (1:20) | 16 | 4.7 s | 3 s | 4 % | Experiment/Case („Wir haben … gebeten“) | 67 |
+| 14 | 88084999 | DE | 106 s (1:45) | ~49 (Schätzung) | 2.1 s | 66 s | 62 % | Neugier „Das ist der Grund, warum … wechseln“ | 41 |
+| 15 | 83625035 | EN | 331 s (5:30) | 106 | 3.1 s | 199 s | 60 % | Ergebnis-Superlativ + Visual rot→grün | 41 |
+
+(Schnitte = ffmpeg-Szenenwechsel > 0,3; bei den zwei Knete-Animationen nur Schätzung, siehe dort. Reveal = erster Produktname bzw. erstes Produktbild; bei #14 gibt es zusätzlich einen visuellen Teaser bei 0:02.)
+
+###### 1. Zwei Formate tragen das Netzwerk
+- **Long-Form-Mechanismus-Video (10 von 15; 3:34–7:46, Median ca. 6:07)** – alle Top-3-Laufzeiten (206/203/191 Tage) und der höchste Spend ($20.000+) sind Long-Forms. Das ist das Format, auf das das Geld läuft.
+- **Kurzformen (5 von 15; 64–106 s)**: (a) UGC-Listicle „Kaufe dir bloß nicht … 5 Gründe“ (#4, #8), (b) Knete-Persona-Story „Das ist Sven/Anna“ (#10, #14), (c) Experiment/Case „Wir haben einen Patienten gebeten …“ (#13). Kurzformen zeigen das Produkt sofort (außer der Knete-Story) und sind die günstige Variante für warme Zielgruppen bzw. Tests.
+
+###### 2. Die Master-Dramaturgie der Long-Forms (mit Sekunden-Ankern für ca. 6 min; in Klammern Anteil der Laufzeit)
+| Zeitraum (≈ 6:00) | Anteil | Baustein | typische Formulierung (wörtlich aus den Ads) |
+|---|---|---|---|
+| 0:00–0:03 | 0–1 % | **Hook-Balken + Körper-Visual** (Overlay rot glühend, Balken wechselt alle 2–3 s synchron zum Voiceover) | „Das ist die schlechteste Schlafposition“ / „Wenn du so schläfst, zerstörst du langsam deine Halswirbelsäule“ / „So hört Schnarchen sofort auf.“ |
+| 0:03–0:15 | 1–4 % | **Hook-Verlängerung**: Mythos-Bruch, Präzisions-Detail oder Experte im Kreis-Insert | „Die meisten Leute denken nämlich … Aber das ist leider völlig falsch.“ / „besonders C5 und C6.“ |
+| 0:15–1:00 | 4–17 % | **Problem-Spiegel + Validierung**: Alltagssymptome, Ärzte ratlos, Schuld wird auf das Kissen verlagert | „Dein MRT? Unauffällig. Die Ärzte? Ratlos.“ / „dann könnte das höchstwahrscheinlich an deinem alten Kissen liegen.“ |
+| 1:00–2:30 | 17–40 % | **Ursache-Mechanismus mit Namen + Analogie**, danach **Agitation** (OP, Lebenszeit, Beziehung) | „auch Zervikale Schlaffehlstellung genannt“ / „wie ein Gartenschlauch, der abgeknickt wird“ / „eine tickende Zeitbombe“ |
+| 2:30–3:00 | 40–50 % | **Lösungsprinzip + Feindbild-Parade** (CPAP, Nasenstrips, Kniekissen, Memory Foam, Daunen) | „Also wie können wir … lösen?“ / „Die Lösung liegt im Kissen selbst.“ |
+| **≈ 3:00 (Median 51 %)** | 39–66 % | **Produkt-Reveal mit Herkunftsstory** (fast wortgleich in allen DE-Videos) | „…hat ein renommierter deutscher Chiropraktiker gemeinsam mit einem österreichischen Gründerteam 21 orthopädische Kopfkissen getestet … entstand letztes Jahr schließlich das Nacken-Therapie-Kissen.“ |
+| 3:00–4:00 | 50–65 % | **Produkt-Mechanismus** (3 Zonen, Armablage, kühlender Bezug – inkl. „nächtliche Hitzewallungen“) + Abgrenzung normale Kissen | „Durch das intelligente Drei-Zonen-Nacken-Stützsystem …“ |
+| 4:00–4:20 | 65–72 % | **Zukunftsbild-Timeline** (Leiste „Nacht 1 / Woche 1 / Woche 2“) | „Nacht 1. Du wachst das erste Mal seit langem ohne … auf.“ |
+| 4:20–4:50 | 72–80 % | **Beweis**: UGC-Testimonial, „92 %“, „anfangs skeptisch“ | „Rund 92% der KundInnen berichteten bereits nach der ersten Nacht …“ |
+| 4:50–5:30 | 80–90 % | **Garantie + CTA + Negativ-Alternative** (oft „Zwei Optionen“) | „…ein Versprechen an, das kein Pharmakonzern oder Arzt jemals geben würde.“ / „Du hast jetzt also zwei Optionen.“ |
+| 5:30–6:00 | 90–100 % | **Knappheit + Endcard** | „…mit über 21 Millionen Aufrufen auf TikTok … bereits dreimal ausverkauft.“ / Endcard „NUR NOCH KURZE ZEIT – 40% Rabatt – Jetzt kaufen“ |
+
+Die EN-Versionen (#6, #11, #12, #15) übernehmen dieselbe Reihenfolge, sind aber knapper (3:34–6:42), arbeiten mit Stakkato-Sätzen („That's the racing heart. That's the dizziness.“) und benannten Kaskaden („cervical collapse cascade“, „Stage 1–4“). #12 ist als einziges eine echte **Ich-Story** (Patientinnen-Odyssee) mit der spätesten Enthüllung (66 %).
+
+###### 3. Hook-Typen (Häufigkeit in den Top 15)
+| Hook-Typ | Anzahl | Beispiele |
+|---|---|---|
+| Warnung „So schläfst du falsch“ (+ Lösungsversprechen „und wie du stattdessen schlafen solltest“) | 6 | #2, #3, #7, #9, #10, #11 |
+| Symptom-Liste als Frage („Plötzlicher Schwindel, Ohrgeräusche …?“) | 2 | #5, #12 |
+| Ergebnis-Versprechen mit Vorher/Nachher-Visual (Nacken rot → grün in 1–2 s) | 2 | #1, #15 |
+| Reverse Psychology („Kaufe dir bloß nicht …“) | 2 | #4, #8 |
+| Selektion + Provokation („If your dizziness has gotten worse … your doctor isn't going to fix it.“) | 1 | #6 |
+| Experiment/Case („Wir haben einen Schlafapnoe-Patienten gebeten …“) | 1 | #13 |
+| Neugier auf das Objekt („…zu diesem seltsam geformten Kissen wechseln“) | 1 | #14 |
+
+Gemeinsam: (1) Text-Balken oben in Versalien, Schlüsselwort farbig (gelb/rot), wechselt im 2–3-s-Takt; (2) der Körper wird „durchsichtig“ gemacht (Muskel-/Skelett-Overlay, Glühen) – das Problem ist sofort sichtbar; (3) keine Marke, kein Logo im Hook (Ausnahme: Kurzformen mit Produkt im Bild); (4) die Lösung wird im Hook versprochen, aber nicht gezeigt.
+
+###### 4. Reveal-Zeitpunkt
+- Long-Forms: Produktname zwischen 1:58 und 4:25, **Median 51 % der Laufzeit** (Spanne 39–66 %). Davor fällt kein Markenname.
+- Kurzformen: sofort (0–3 s) bei Listicle und Case; bei der Knete-Story nach ca. 60 % („Aber heute bekommt Sven etwas Neues.“), bei Anna mit visuellem Teaser bei 0:02.
+- Die Enthüllung kommt immer **nach** Mechanismus + Feindbild-Parade: Der Zuschauer soll das Produkt als logische Folge der Erklärung sehen.
+
+###### 5. Länge und Schnittfrequenz
+- Long-Forms: Ø 2,3–3,6 s pro Einstellung (Median ca. 2,8 s), d. h. 100–200 Szenenwechsel – jede Aussage bekommt ein eigenes Bild (3D-Anatomie, UGC, Stock, Grafik). Talking Heads (Experte, Testimonial) nur als kurze Inserts oder Blöcke von 20–30 s.
+- Kurzformen: Ø 2,1–2,7 s (UGC-Listicle, Knete), Case-Video ruhiger (4,7 s).
+- Untertitel durchgehend (2-zeilige graue Kästen bzw. Wort-für-Wort-Captions) – die Videos funktionieren ohne Ton.
+
+###### 6. Wiederkehrende Bausteine (Baukasten)
+- **Farbcode**: rot/Schwarzweiß + rotes X = Problem/falsch, grün/blau leuchtend = Lösung.
+- **Analogien**: Gartenschlauch, Strohhalm, Dominosteine, Gummiband, Hydraulikpresse, Laubbläser, Sicherungskasten, Reanimationsgriff.
+- **Autorität ohne echten Namen**: „renommierter deutscher Chiropraktiker“, Arzt-Darsteller im Kreis-Insert, „Johns Hopkins study“.
+- **Herkunftsstory mit Zahlen**: 21 getestete Kissen, 300 Bewertungen, 9 Monate, 4–6 Prototypen.
+- **Timeline-Leiste** Nacht 1 / Woche 1 / Woche 2, **Proof-Zahlen** (89–92 %, 189.000 Kunden, 4,8 Sterne), **Garantie** 30 (US teils 60) Nächte, **Knappheit** (18–21 Mio. TikTok-Aufrufe, 3× ausverkauft), **Endcard** 40 % Rabatt (+ Gratis-eBook).
+
+###### 7. Was wir für Decken ohne Bezug (UK) übernehmen – Bauplan in Kurzform
+1. **Long-Form 3:30–5:00 auf Englisch nach Vorlage #6/#11** (EN-Rhythmus, kurze Sätze): 0–3 s Warn- oder Ergebnis-Hook mit Balken + Visual (Wärmebild/Mikroskop der Decke rot → grün); 3–15 s Mythos-Bruch („Most people think washing the cover is enough. It isn't.“); bis ~25 % Problem-Spiegel (Nachtschweiß, Kampf mit dem Bezug, Allergie-Symptome); bis ~45 % benannter Mechanismus („the night-sweat cycle“, Stage 1–4) + Feindbild-Parade (Bettbezug, Matratzenschoner, Daunendecke „petri dish for dust mites“, „hot wash“); **Reveal bei ~50 %** mit Herkunftsstory (getestete Füllungen, Prototypen, Waschtests); dann Features, Timeline „Night 1 / Week 1 / Week 2“, britisches Testimonial, Garantie, Zwei-Optionen-Close, Endcard.
+2. **UGC-Listicle 60 s** „Don't buy the coverless duvet. Here are 5 reasons why.“ – je ein Grund pro Angle (A Hygiene, B Wechseljahre, C Beziehen, D Mama), Rabatt, Garantie.
+3. **Knete-/KI-Persona 90–105 s** „This is Margaret. Hello, Margaret!“ (Angle C/D, Tochter schenkt die Decke).
+4. **Experiment 60–80 s** „We asked a woman with night sweats to sleep under it for 7 nights.“ – nur mit echter, dokumentierter Testperson.
+5. Hook-Tests: Warnung („This is the worst way to make your bed“) vs. Neugier („…switching to this strange duvet with no cover“) – im PillowDaddy-Netzwerk lief der Warn-Hook länger (Sven 92 Tage vs. Anna 41 Tage).
+6. **Compliance-Hinweis UK**: Die PillowDaddy-Videos arbeiten mit unbelegten Gesundheitsclaims, Fake-Experten und Knappheit („3× ausverkauft“). Für UK (ASA/CAP-Code) nur übernehmen, was wir belegen können; Experten-/Arzt-Darstellungen nicht fingieren.
+
+###### Lücken / Hinweise zur Methode
+- **Bild/Szene-Spalte**: beruht auf je 20 Frames (Kontaktabzug: 0/1/2/3/5/8 s + 14 gleichmäßig verteilte Frames) plus Transkript; bei 100–200 Schnitten pro Long-Form ist nicht jede Einstellung beschrieben. Eingeblendete Texte sind wörtlich, soweit sie auf diesen Frames sichtbar sind; sonst steht „Untertitel (= gesprochen)“.
+- **Transkripte** sind Whisper-ASR (GetHooked); Fehler („HMO-Arzt“, „Ruheraum“, „Vargusnerv“) bewusst nicht korrigiert. Bei #5/#7 stammt der Text vom Referenz-Ad desselben Clusters (Body-Variante K01-B1/K01-B2); bei #5 weicht ein Testimonial-Untertitel („Bei mir also kein Fleck“) vom Transkript ab. #12-Transkript am 08.10. per `get_transcription_status` nachgeladen.
+- **Schnitte** bei den Knete-Animationen nur geschätzt (KI-Clips mit Überblendungen).
+- **Spend** für US-Ads nicht verfügbar (keine EU-Daten); Ranking dort nur über Laufzeit/Varianten.
+- Dateien: Videos `a1/top15/videos/` (fehlende neu geladen) bzw. Lane-Ordner (`videos_jb`, `videos_pdbj`); Kontaktabzüge `a1/top15/sheets/<id>.jpg`; Schnittlisten, Frame-Zeiten, Transkript-Auszüge und Spezifikationen `a1/top15/work/<id>/`; Skripte `a1/top15/tools/` (select.py, prep_one.sh/prep2.sh, tx.py, build.py, resheet.sh).
 
 ### 2.5 Winner (längste Laufzeit zuerst)
 
@@ -1568,7 +1765,7 @@ _(gekürzt auf die 60 längsten Winner-Zeilen; vollständige Liste in den Raster
 
 Volles Raster (alle Spalten, alle IDs): [`Natives_PillowDaddy_Anhang/a1/grid_pd_discovery.md`](Natives_PillowDaddy_Anhang/a1/grid_pd_discovery.md) · Transkripte: [`transcripts_pd_discovery.md`](Natives_PillowDaddy_Anhang/a1/transcripts_pd_discovery.md) · Primärtexte: [`copy_pd_discovery.md`](Natives_PillowDaddy_Anhang/a1/copy_pd_discovery.md)
 
-#### (a) Zählung
+##### (a) Zählung
 
 | Seite | Markt | im Fenster gesamt | aktiv | inaktiv | vor Fenster | Video | Bild | Sonstiges | Nicht-PillowDaddy-Ads |
 |---|---|---|---|---|---|---|---|---|---|
@@ -1583,7 +1780,7 @@ Abgleich mit GetHooked `meta.total`:
 - Hinweis Status: Brielle-Grace-Ads stehen in GetHooked als aktiv, `end_date` 2026-10-07 = letzte Sichtung, `days_active` zählt bis heute (2–3 Tage). Sofía: 17 der 50 per Länderfeld geprüften Ads haben `countries` leer, die übrigen 33 `US` (die 8 Ads von Seite 2 nicht separat abgefragt; 118055942 laut get_ad = US); Sprache durchgängig `es`; LP auf der US-Domain → alle als US (hispanisch) gezählt.
 - Keine Videos → keine Transkription nötig (siehe `transcripts_pd_discovery.md`).
 
-#### (e) Beobachtungen zu Mustern
+##### (e) Beobachtungen zu Mustern
 
 - **Das Netzwerk ist größer als bekannt – zwei zusätzliche Märkte:** (1) **US-Hispanic** über eine eigene spanische Persona (Sofía Hernandez) auf der bestehenden US-Funnel-Domain, (2) **UK** seit 06.10.2026 über eine Persona eines fremden Media-Buyer-Netzes (Brielle Grace) mit eigener Funnel-Domain (feelgoodtrends.com) und fremdem Checkout (zifarra.com). Für uns (UK) ist (2) der direkteste Konkurrenz-Beleg: PillowDaddy testet genau jetzt UK mit Native-/Advertorial-Ansatz.
 - **Lokalisierung statt Neuerfindung:** Das spanische Advertorial ist eine 1:1-Übersetzung des US-Schwindel-Advertorials (gleicher Autor 'Thomas Brandt', gleiche '847 pacientes'-Studie, nur 'Clínica Cleveland'); UK tauscht den Experten gegen 'James Crawford, Chiropractor' und die Klinik gegen 'University College Hospital in London', Preise in £, 'Delivered from the UK', 'Mumsnet', 'GP', 'Betahistine/Microser/Stugeron', 'allotment', 'school run'.
@@ -1600,7 +1797,7 @@ Abgleich mit GetHooked `meta.total`:
 
 Volles Raster (alle Spalten, alle IDs): [`Natives_PillowDaddy_Anhang/a1/grid_pd_marke_ab_aug.md`](Natives_PillowDaddy_Anhang/a1/grid_pd_marke_ab_aug.md) · Transkripte: [`transcripts_pd_marke_ab_aug.md`](Natives_PillowDaddy_Anhang/a1/transcripts_pd_marke_ab_aug.md) · Primärtexte: [`copy_pd_marke_ab_aug.md`](Natives_PillowDaddy_Anhang/a1/copy_pd_marke_ab_aug.md)
 
-#### (a) Zählung
+##### (a) Zählung
 
 | Seite | Markt | im Fenster gesamt | aktiv | inaktiv | vor Fenster | Video | Bild | Sonstiges | Nicht-PillowDaddy-Ads |
 |---|---|---|---|---|---|---|---|---|---|
@@ -1612,7 +1809,7 @@ Abgleich mit GetHooked `meta.total`: `status=active, started_after=2026-08-01` �
 
 Hinweis US-Länderfeld: 180531625 hat ein leeres `countries`-Feld (englisch, US-Domain) und wird als US gezählt.
 
-#### (e) Beobachtungen zu Mustern
+##### (e) Beobachtungen zu Mustern
 
 - **Das einzige, was in dieser Lane lange läuft, ist Native/Storytelling + Advertorial (DE).** Die „Versandstopp“-Ads (K01) laufen seit 12./13.08. (52–58 Tage, 6 von 15 aktiven Ads, Spend bis $501–2.000, EU-Reichweite 87.346 bei 144404065) und führen als einzige auf ein Advertorial. Alle DE-Ads vom 23.09., die direkt auf die PDP gehen (Lagerräumung, Retargeting), waren nach 2–7 Tagen tot.
 - **Story statt Werbung:** Der Gewinner-Primärtext ist ein 3.500-Zeichen-Empörungs-Post über die EU-Verpackungsverordnung („Wir stellen unseren Versand ein und wir sind damit nicht alleine.“ … „Drehtüreffekt“ … „Helft uns und teilt diesen Beitrag“). Das Produkt kommt erst nach ~2.900 Zeichen („Und jetzt zu uns:“). Die Bilder tarnen die Ad als normalen Post: UGC-Foto Versandkarton + Meme-Schrift „WIR STELLEN DEN VERSAND EIN!“ oder Text-Screenshot „⚠️ Offizielles Statement“ / „💔 Es tut uns riesig leid!“.
@@ -1629,7 +1826,7 @@ Hinweis US-Länderfeld: 180531625 hat ein leeres `countries`-Feld (englisch, US-
 
 Volles Raster (alle Spalten, alle IDs): [`Natives_PillowDaddy_Anhang/a1/grid_pd_marke_bis_juli.md`](Natives_PillowDaddy_Anhang/a1/grid_pd_marke_bis_juli.md) · Transkripte: [`transcripts_pd_marke_bis_juli.md`](Natives_PillowDaddy_Anhang/a1/transcripts_pd_marke_bis_juli.md) · Primärtexte: [`copy_pd_marke_bis_juli.md`](Natives_PillowDaddy_Anhang/a1/copy_pd_marke_bis_juli.md)
 
-#### (a) Zählung
+##### (a) Zählung
 
 | Seite | Markt | im Fenster gesamt | aktiv | inaktiv | davon vor 08.04. gestartet (Langläufer ins Fenster) | vor Fenster (endete < 08.04., nur gezählt) | Video | Bild | Sonstiges | Nicht-PillowDaddy-Ads |
 |---|---|---|---|---|---|---|---|---|---|---|
@@ -1642,7 +1839,7 @@ Märkte: In diesem Startzeitraum lief auf der Markenseite **keine US-Ad** (keine
 
 Format-Hinweis: 89 Video-Ads / 46 Bild-Ads; die meisten Ads tragen 2 Medien (gleiches Creative in 2 Formaten, z. B. 9:16 + 4:5); die Transkripte beider Medien sind identisch.
 
-#### (e) Beobachtungen zu Mustern
+##### (e) Beobachtungen zu Mustern
 
 - **Alles, was skaliert, läuft auf ein Advertorial – und ist Storytelling oder „Anti-Werbung“.** Die 7 Winner-Cluster (B02, B01, V07, V06, V08, V01, V02) führen ausnahmslos auf die Chiropraktiker-Advertorials (advert-1 Nacken / advert-1 Schlaftherapie / advert-3 Taubheit). Größte Reichweiten: Langform-Video T1 (58233408: EU-Reach 2.358.915, Spend $20.000+, 191 Tage; Schwester 50678756: 967.698), Sven-Knete (90461166: 985.683, $5.001–10.000), U-Kissen-Garantiebild (45567780: 603.017, 371 Tage), 5-Gründe-UGC (66186872: 498.148, 188 Tage), „Wir haben euch gewarnt..“-Statement (58233401: 413.811, 207 Tage). Direkt auf die Produktseite gingen nur 2 Ads im Mai-Test – keine davon überlebte (max. 17 Tage, obwohl 101594318 mit 37.841 die meiste Reichweite des Mai-Tests bekam).
 - **Persona-Story-Formel „Das hier ist Sven. Hallo Sven.“ (Knete-Animation, KI):** Hook-Callout („Das ist die schlechteste Schlafposition und wie du stattdessen schlafen solltest.“) → Persona + Symptome („Taubheitsgefühlen bis in die Fingerspitzen“) → gescheiterte Lösungen („Dehnübungen am Morgen, Physiotherapie zweimal die Woche, Schmerzmittel, die er mittlerweile täglich schluckt“ bzw. bei Maria „Kniekissen … verrutscht ständig“, „orthopädische Matratze für 800 Euro“) → „Aber nichts hat geholfen und das aus einem bestimmten Grund.“ → wahre Ursache = das alte Kissen („Normale Kissen wurden nämlich vor über 2000 Jahren erfunden“) → Mechanismus-Bild („wie ein Gummiband, unter Dauerspannung“) → Produkt („von einem deutschen Chiropraktiker entwickelt“) → „Bis später, Sven!“. Dasselbe Script lief als Anna (weiblich, 41 Tage), Sven (92 Tage) und Maria (Ischias, 6 Tage). Übertragbar 1:1 auf uns: Persona-Oma/Mutter, gescheiterte Lösungen (Bezug wechseln, Waschen bei 60 °C, Milbenspray), Feind-Objekt = Bettbezug/alte Decke.
@@ -1660,7 +1857,7 @@ Format-Hinweis: 89 Video-Ads / 46 Bild-Ads; die meisten Ads tragen 2 Medien (gle
 
 Volles Raster (alle Spalten, alle IDs): [`Natives_PillowDaddy_Anhang/a1/grid_persona_de_frauen.md`](Natives_PillowDaddy_Anhang/a1/grid_persona_de_frauen.md) · Transkripte: [`transcripts_persona_de_frauen.md`](Natives_PillowDaddy_Anhang/a1/transcripts_persona_de_frauen.md) · Primärtexte: [`copy_persona_de_frauen.md`](Natives_PillowDaddy_Anhang/a1/copy_persona_de_frauen.md)
 
-#### (a) Zählung
+##### (a) Zählung
 
 | Seite (brand_id) | Markt | im Fenster gesamt | aktiv | inaktiv, Start ≥ 08.04. | inaktiv, Start < 08.04. & Ende ≥ 08.04. | vor Fenster (nur gezählt) | Bild | DCO | Page-Like | Video | Creative-Cluster (Copy) | Copy-Familien | unterschiedl. Bilder | Winner / Kandidat / Test / Verlierer |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -1684,7 +1881,7 @@ Volles Raster (alle Spalten, alle IDs): [`Natives_PillowDaddy_Anhang/a1/grid_per
 - Formate: `ad_format=videos,multi_videos,multi_medias,carousels` (inaktiv) liefert CR 14 (13 DCO + 1 Video), DK 1 DCO, KZ 19 (18 DCO + 1 Video). Im Fenster davon nur die 4 CR-DCOs (93699171, 93699159, 93699154, 76951701); die beiden Videos (CR 81558792, 26.02.–02.03.; KZ 81375286, 26.–27.02.) liegen **vor dem Fenster** → **0 Video-Cluster** in dieser Lane.
 - **Vollständigkeit inaktiv mit Start vor 08.04. (heute per API geprüft):** je Seite und Startmonat `status=inactive` + `run_time ≥` Tage bis 08.04. (Obermenge aller Fenster-Kandidaten): CR 01.–07.04. 46 = lokal 46; März 31 → Liste geholt: alle 14 mit Ende ≥ 08.04. lokal vorhanden; Feb 35 → alle 24 mit Ende ≥ 08.04. lokal; Start ≤ 31.01. & ≥ 68 T: 28 = lokal 28. DK: April 21 = 21; März 26 → alle 12 Fenster-Ads lokal; Feb 38 = 38; ≤ 31.01.: 0. KZ: April 0; März 16 = 16; Feb 13 = 13; Jan/Dez 0; Nov (≥ 130 T) 1 = 63709347 (KZ-01); ≤ Okt 2025 (≥ 160 T) 0. → **keine fehlende Fenster-Ad** (Protokoll: `persona_de_frauen_work/refresh/longrunner_checks.txt`).
 
-### Persona-Seiten DE (Frauen) – Claudia Reichardt, Daniela Koch, Karin Zimmermann (Lane `persona_de_frauen`)
+#### Persona-Seiten DE (Frauen) – Claudia Reichardt, Daniela Koch, Karin Zimmermann (Lane `persona_de_frauen`)
 
 Stand: 08.10.2026 (API-Abgleich 16:49–16:58 UTC) · Quelle: GetHooked (brand_id 1247984 / 3930663 / 626049) · Agent 1 · Zeitfenster laut KONVENTIONEN.md: 08.04.–08.10.2026 (aktiv ODER Ende ≥ 08.04.). Alle drei Seiten verlinken ausschließlich auf PillowDaddy-Domains (shop.pillowdaddy.de; 3 Ads auf try.pillowdaddy-us.com).
 
@@ -1692,7 +1889,7 @@ Begleitdateien: `copy_persona_de_frauen.md` (alle 99 Primärtexte vollständig +
 
 **Cluster-Definition:** 1 Creative-Cluster = gleiche Seite + identischer Primärtext (+ Format) – genau die Logik von GetHooked `collapse_variants` („brand + identical ad copy“), aber lokal über ALLE Ads der Seite gerechnet statt nur innerhalb einer 50er-Seite (GetHooked-Collapse ist laut Doku seitenweise und daher nicht additiv). `variant_count` = Anzahl Ad-IDs mit diesem Text. Innerhalb eines Clusters variieren Headline und vor allem das **Bild** (Bild-Testing: im Schnitt 3–4 Ads je Bild); die Zahl unterschiedlicher Bilder steht in Spalte „Format“. Zusätzlich sind Cluster mit gleichem Einstieg (erste 80 Zeichen) zu **Copy-Familien** (`-Fxx`) zusammengefasst (= leicht editierte Textversionen).
 
-#### (e) Liste der aktiven Ad-IDs (97, Stand 08.10.2026 16:50 UTC)
+##### (e) Liste der aktiven Ad-IDs (97, Stand 08.10.2026 16:50 UTC)
 
 | Seite | Ad-ID (Link) | Cluster | Start | Tage aktiv | Landingpage |
 |---|---|---|---|---|---|
@@ -1798,7 +1995,7 @@ Begleitdateien: `copy_persona_de_frauen.md` (alle 99 Primärtexte vollständig +
 
 Volles Raster (alle Spalten, alle IDs): [`Natives_PillowDaddy_Anhang/a1/grid_persona_de_journal_brandt.md`](Natives_PillowDaddy_Anhang/a1/grid_persona_de_journal_brandt.md) · Transkripte: [`transcripts_persona_de_journal_brandt.md`](Natives_PillowDaddy_Anhang/a1/transcripts_persona_de_journal_brandt.md) · Primärtexte: [`copy_persona_de_journal_brandt.md`](Natives_PillowDaddy_Anhang/a1/copy_persona_de_journal_brandt.md)
 
-#### (a) Zählung je Seite
+##### (a) Zählung je Seite
 
 | Seite | brand_id | Markt/Sprache | im Fenster gesamt | aktiv | inaktiv | vor Fenster (nur gezählt) | Video | Bild | Sonstiges | Nicht-PillowDaddy-Ads | GetHooked-Abgleich |
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -1815,11 +2012,11 @@ Hinweise zur Zählung:
 - **Länder** sind nur für 114 der 493 Ads per Abfrage bekannt (alle 74 aktiven GLJ-Ads + 40 jüngste inaktive); die übrigen stehen im Raster als „?“. Grund: Die Ad-Liste mit `countries` lässt sich nur über sehr große Tool-Antworten abrufen (je 40 Ads ≈ 25.000 Tokens); Abruf nach zwei Seiten aus Budgetgründen abgebrochen. Sprache aller Ads: Deutsch.
 - **Datenquelle je Ad:** vollständige Ad-Datensätze (Titel, Primärtext, Link-Beschreibung, CTA, LP, Plattformen, Medien inkl. Videolänge, Spend-Bucket, `script_anatomy`, `creative_insights`) aus dem öffentlichen GetHooked-Share-Endpunkt je `share_url` (entspricht `get_ad`; `script_anatomy` = „not_analysed“, `creative_insights` = null für alle geprüften Ads). Status/Performance aus `search_ads`.
 
-### Raster – DE-Personas: Gesund Leben Journal + Thomas Brandt (Lane `persona_de_journal_brandt`)
+#### Raster – DE-Personas: Gesund Leben Journal + Thomas Brandt (Lane `persona_de_journal_brandt`)
 
 Stand: 08.10.2026 (GetHooked-Abfragen 10:42–11:30 Uhr). Zeitfenster: 08.04.–08.10.2026 (aktiv ODER end_date ≥ 08.04.2026). Alle Zitate wörtlich. Links = GetHooked-`share_url` bzw. echte LP-URL. Detail je Ad: `ads_persona_de_journal_brandt.json`; vollständige Copy: `copy_persona_de_journal_brandt.md`; Transkripte: `transcripts_persona_de_journal_brandt.md`.
 
-#### (e) Beobachtungen zu Mustern
+##### (e) Beobachtungen zu Mustern
 
 1. **Ein Ad-Text, viele Videos – Hook-Testing auf wenigen Long-Form-Bodies.** Konzept K01 (Titel „Warum dein Schwindel nicht weggeht (Der wahre Grund wird dich überraschen)“, identischer Primärtext, LP `/advert-6-das-nacken-therapiekissen-schwindel`) umfasst 135 Ads in 90 Creative-Clustern, aber nur **drei Video-Bodies** (siehe Transkript-Datei): **K01-B1** Erklär-Video („Plötzlicher Schwindel, Ohrgeräusche, Kopfschmerzen, bis hin zu Migräne …“), **K01-B2** („Das ist die schlechteste Schlafposition und warum sie Schwindel, Benommenheit und Herzrasen verursacht. Du warst wahrscheinlich schon bei jedem Arzt …“) und **K01-B3** Ich-Story einer Frau („… ich habe 18 Monate meines Lebens verloren und über 2400 Euro aus eigener Tasche bezahlt …“). Jeder Cluster tauscht nur die ersten 3–30 Sekunden (gesprochener Vorspann), das Startbild und den Text im weinroten Hook-Balken – danach läuft der Body wortgleich weiter. Die Winner sind genau solche Hook-Varianten: K01-001 „PLÖTZLICHER SCHWINDEL, OHRGERÄUSCHE“ (119 T, aktiv), K01-002 „DAS IST DIE SCHLECHTESTE SCHLAFPOSITION“ (116 T, 25 Ad-IDs, Spend $5.001–10.000), K01-003 „MORGENS SCHWINDELATTACKEN“ (106 T).
 2. **Long-Form statt Kurzclip, gebaut aus einem wiederverwendeten Skript-Baukasten.** Fast alle 292 Videos sind 5–8 min lang (Median ≈ 6:20 min). Alle Erklärvideos (K01, K05 Schnarchen, K09 Ischias, K11 Nacken, K22 Migräne) folgen demselben Ablauf mit teils wortgleichen Sätzen: Hook → „jeder Arzt sagt, alles ist normal“ → Mechanismus „Herkömmliche Kissen sind geometrisch nicht für den menschlichen Kopf ausgelegt“ → Herkunft „ein renommierter deutscher Chiropraktiker gemeinsam mit einem österreichischen Gründerteam 21 orthopädische Kopfkissen getestet“ / „Nach neun Monaten Entwicklungszeit und vier Prototypen …“ → O-Ton-Testimonial „Schon in der ersten Nacht habe ich gemerkt, das hilft ja … dieses Kissen hat mir mein Leben zurückgegeben“ → „Rund 92 Prozent der KundInnen …“ → Garantie „ein Versprechen …, das kein Pharmakonzern oder Arzt jemals geben würde … 30 Nächte“ → Knappheit „mit über 21 Millionen Aufrufen auf TikTok … bereits dreimal ausverkauft … Lagerbestand sehr limitiert“ → „Klicke jetzt also unten auf den Link …“. Nur das Symptom wird getauscht. Bildsprache (Frames 0–10 s von K01-001, K01-002, K02-091, K05-187, K09-238 geprüft): Hook-Balken oben, Untertitel unten, Schnitt alle 1–2 s zwischen 3D-Anatomie mit rot glühenden Nerven/Organen, UGC-artigen Frauen mit Schwindel/Schmerz und einem grauhaarigen „Arzt/Chiropraktiker“ im marineblauen Polo vor Anatomie-Postern (Talking-Head bzw. Bild-im-Bild-Kreis oben rechts) – die Experten-Autorität ist visuell präsent, ohne Namen.
@@ -1836,7 +2033,7 @@ Stand: 08.10.2026 (GetHooked-Abfragen 10:42–11:30 Uhr). Zeitfenster: 08.04.–
 
 Volles Raster (alle Spalten, alle IDs): [`Natives_PillowDaddy_Anhang/a1/grid_persona_us.md`](Natives_PillowDaddy_Anhang/a1/grid_persona_us.md) · Transkripte: [`transcripts_persona_us.md`](Natives_PillowDaddy_Anhang/a1/transcripts_persona_us.md) · Primärtexte: [`copy_persona_us.md`](Natives_PillowDaddy_Anhang/a1/copy_persona_us.md)
 
-#### (a) Zählung
+##### (a) Zählung
 
 | Seite | Markt | im Fenster (erfasste IDs) | aktiv | inaktiv im Fenster | vor Fenster (nur gezählt) | Video | Bild | Sonstiges | Cluster | davon Video-Cluster (eindeutige Videos) | Winner / Kandidat / Test / Verlierer | Nicht-PillowDaddy-Ads |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -1855,7 +2052,7 @@ Volles Raster (alle Spalten, alle IDs): [`Natives_PillowDaddy_Anhang/a1/grid_per
 
 Alle 2.632 Ad-IDs verlinken auf `try.pillowdaddy-us.com` (Nicht-PillowDaddy-Ads = 0). Länder: alle `US`. Sprache: en. Gegenprobe RF `status=active` mit `ad_format=gated,texts,carousels,dpas,dcos,multi_medias` → 0 Treffer (die 12 zurückgehaltenen aktiven RF-Ads sind also keine „Hidden by Meta“-Ads, sondern vom Index als möglicherweise nicht mehr laufend markiert). Spend-Range: GetHooked liefert für **keine** der 2.632 IDs einen Wert (`ad_spend_range_score` = null) → Einordnung nur über Laufzeit / aktiv / Varianten. Performance-Score nur für aktive Ads vorhanden.
 
-### Persona-/Magazin-Seiten US → try.pillowdaddy-us.com (Lane `persona_us`)
+#### Persona-/Magazin-Seiten US → try.pillowdaddy-us.com (Lane `persona_us`)
 
 Stand: 08.10.2026 · Quelle: GetHooked (brand_ids 3551625 The Daily Health, 1904510 Stephanie Robertson, 2777246 Gary Kuhlman, 2777235 Rebecca Fitzgerald) · Agent 1 · Zeitfenster laut KONVENTIONEN.md: Ad aktiv ODER end_date ≥ 08.04.2026 (inkl. Langläufer mit Start vor dem 08.04.).
 
@@ -1863,7 +2060,7 @@ Begleitdateien: `transcripts_persona_us.md` (alle Video-Transkripte vollständig
 
 **Cluster-Definition:** Creative-Cluster = gleiche Seite + gleicher Titel + gleicher Primärtext + gleiches Format (entspricht der GetHooked-Logik `collapse_variants` „brand + identical ad copy“, hier aber über alle Seiten der Abfrage hinweg dedupliziert). `variant_count` = Anzahl Ad-IDs im Cluster. Innerhalb eines Clusters laufen oft mehrere Bilder/Videos (Spalte „Format“: Medien-Varianten; Details in JSON `media`, Videos in der Transkript-Datei). Gegenprobe aktiv mit `collapse_variants=true`: DH 30→4 Zeilen (26+2+1+1), SR 16→4 (6+6+1+3), GK 6→1 (6), RF 5→3 (2+1+2) – deckt sich exakt mit den hier aktiven Clustern (DH-K01/K24/K60/K61, SR-K02/K03/K40/K05, GK-K03, RF-K02/K41/K03).
 
-#### (e) Liste der aktiven Ad-IDs (vollständig, 57 geliefert)
+##### (e) Liste der aktiven Ad-IDs (vollständig, 57 geliefert)
 
 | Seite | Ad-ID | Start | Laufzeit | Landingpage | Cluster | Perf. |
 |---|---|---|---|---|---|---|
@@ -1931,7 +2128,259 @@ Zusätzlich von GetHooked als aktiv gezählt, aber zurückgehalten (keine IDs ab
 
 ### 3.1 Wiederkehrende Muster und Schablone
 
-> **Nicht verfügbar:** `a2/muster.md` wurde nicht erzeugt. Muster-Synthese fehlt – siehe Einzelanalysen unten.
+#### Muster aller PillowDaddy-Native-Seiten (Agent 2, Schritt Muster)
+
+Stand 08.10.2026. Grundlage: `lp_inventar.md` (Ads/Fenster 08.04.–08.10.2026), `lp_struktur_alle.md` (Wortzahlen/Abschnitte, Mobile 390 px), `lp_analysen_alle.md` (Einordnung, Zitate), `lp_de_advert6_schwindel.md`, `lp_de_advert7_tinnitus.md`, `pdp_uebersicht.md`; UK/ES-Ad-Zahlen aus `a1/discovery_uebersicht.md`. Zitate wörtlich in Originalsprache. Domains: **DE** = `shop.pillowdaddy.de`, **US** = `try.pillowdaddy-us.com`.
+
+**Template-Schlüssel** (wie in `lp_analysen_alle.md`): **T1** „Ärzte übersehen das“ (Experte, Long-Form) · **T2** „Top Chiropraktiker: der beste Weg / der wahre Grund“ (Experte, Long-Form) · **T3** „Dr. John Adams – $21-billion-Verschwörung“ (Enthüllung, US) · **T4** Patientenbericht im Fake-Magazin · **T5** Vergleichstest auf Fake-Portal · **T6** Kurz-Listicle/Gründe · **T7** Ich-/Blogger-Story.
+
+---
+
+##### 1. Übersichtstabelle aller Native-Seiten
+
+Sortiert nach Ads im Fenster. „Wörter“ = Artikel (Headline bis Footer) / sichtbar gesamt. „Produkt nach“ = erste Nennung des Produktnamens ab Headline (in Klammern Anteil am Artikel). Fake-Magazin: **ja** = eigener Medienname/Masthead; **nein** = Funnelish-„Light-Advertorial“ (dunkle Kopfleiste „Advertorial · Flagge · Beliebt in Deutschland/Trending in the US“, Autorbox, kein Medienname).
+
+| # | Gruppe / URL | Typ | Perspektive / Autor | Fake-Magazin | Headline (wörtlich) | Wörter | Produkt nach | Mechanismus (1 Satz) | Hauptbeweise | Angebot / Knappheit / Garantie | Ads Fenster / aktiv |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| 1 | us_advert_dizziness · US `/advert-neck-therapy-pillow-dizziness-r-1` (+ `-r-2`) | T1 (US-Adaption von DE advert-6) | Ich-Chiropraktiker „Thomas Brandt – Doctor of Chiropractic“, You; r-1 Datum dynamisch (heute − 7), r-2 statisch | nein (Hero: Schädel/HWS-Illustration, C1/C2 rot) | r-1: „Top Doctor of Chiropractic: The Hidden Neck Problem Doctors Keep Missing — And Why It's Behind Your Dizziness, Brain Fog, And Racing Heart“ · r-2: „Why Your Dizziness, Brain Fog, and Racing Heart Won't Go Away... And The Strange Thing Happening To Your Neck While You Sleep.“ | 3.800 / 4.022 (28 Abschn.) | 1.226 (32 %) | Falsches Kissen hält die Subokzipitalmuskeln an C1/C2 die ganze Nacht angespannt und drückt auf Vagusnerv/Blutgefäße – „A pillow with a hollow center changes everything.“ | „Cleveland Clinic … 847 patients … 89%“, Fall „Karen Whitfield, 47 … Phoenix“, „189,000+ satisfied customers“, Widget „4.8/5.0 · 5,832“, 3 Reviews „Verified Buyer“ | r-1 „$59.99, instead of $99.98“ (Anker $99.23, „16 cents per night“); **r-2 Preistest $69.99 statt $116.65**; „could be sold out tomorrow, or even today“, Update „sold out 3 times“; 60 Nächte | **1.336 / 36** |
+| 2 | de_advert6_schwindel · DE `/advert-6-das-nacken-therapiekissen-schwindel` | T1 (Vorlage) | Ich-Chiropraktiker „Thomas Brandt – Chiropraktiker für manuelle Therapie und Wirbelsäulengesundheit“, Du (191 Du- vs. 40 Ich-Formen), Datum heute − 7 | nein (Breadcrumb + Sidebar Desktop) | „Warum Ärzte die echte Ursache deiner rätselhaften Symptome einfach nicht finden (und wie du sie zu Hause beheben kannst)“ | 3.571 / 3.834 (26) | 848 (24 %) | Normales Kissen verkrümmt die HWS, Subokzipitalmuskeln („300-mal mehr Positionssensoren“) erzeugen „sensorische Fehlanpassung“ + Vagusreizung → Schwindel/Herzrasen; „Eine Kopfmulde verändert alles.“ | „Universitätsklinik in Zürich … 847 Patienten … 89% haben Antidepressiva bekommen“, Fall Sandra Steinberger (45), „über 23.328 zufriedene KundInnen“, 4.8/5 · 2.916, 3 Review-Karten; Mobil + 7 FB-Kommentar- + 4 Trustpilot-Screenshots | „€59,99, anstatt €99,98“ (Berater-Anker 99,23 €, „27 Cent“/Nacht), „nur für heute“, Update „Bereits 3x mal ausverkauft“ (Datum = heute); 60 Nächte (Bild-Siegel 30 Tage) | **863 / 119** |
+| 3 | us_advert1_snoring · US `/advert-1-neck-therapy-pillow-snoring` | T2 (Übersetzung DE schnarchen) | Ich-Chiro Thomas Brandt, You | nein (kein Hero) | „Your Snoring Is Trying to Kill You“ | 3.752 / 3.974 (30) | 976 (26 %) | „It doesn't start in your nose … It starts in your neck.“ – abgeknickte HWS → Kiefer fällt zurück → Zunge sinkt („garden hose that's been kinked“). | „Johns Hopkins … 57% of men and 40% of women“, „In 89% of cases …“, „67% higher risk of heart attack“, 3 Reviews (Partner-Sicht) | „$59.99 instead of $99.98“ (Rest „€99.23“, „27 cents“), „we still have a few pillows in stock“; 60 Nächte, „29 minutes or 29 days“ | 596 / 0 (+102 vorher) |
+| 4 | de_advert1_schnarchen · DE `/advert-1-schnarchen-das-nacken-therapiekissen` | T2 (Original) | Ich-Chiro Thomas Brandt, Du | nein | „Top Chiropraktiker: Das ist der beste Weg um Schnarchen auf natürliche Weise zu stoppen“ | 3.704 / 3.942 (33) | 1.126 (30 %) | „Es beginnt nicht in der Nase. Auch nicht im Gaumen. Es beginnt im Nacken.“ – 3-Schritt-Kette + Gartenschlauch + Reanimations-Analogie. | „Universitätsklinikum Würzburg … 60 % der Männer und 40 % der Frauen“, „67 % höheres Herzinfarkt-Risiko“, 2 Reviews (Ehefrau) | „€59,54, anstatt €99,23“, „noch ein paar Kissen auf Lager“, 3x ausverkauft; 60 Nächte | 186 / 0 (+350) |
+| 5 | us_advert_tinnitus · US `/advert-neck-therapy-pillow-tinnitus-r-1` | T1 | Ich-Chiro Thomas Brandt, Datum statisch | nein | „Why the Ringing in Your Ears Won't Stop, Why You Feel Dizzy and Foggy All Day, and the Hidden Cause Every Doctor Is Missing.“ | 3.608 / 3.830 (28) | 940 | Druck auf C1/C2 drosselt Nerven/Blutfluss zum Innenohr – Entlastung lässt „The ringing fades“. | vage „Researchers … hundreds of cases“, Fall „Margaret Holloway, 52 … Sacramento“ („$2,400 hearing aid“) | wie #1 (40 %, 60 Nächte, Update-Box) | 175 / 0 |
+| 6 | de_advert1_ischias · DE `/advert-1-das-schlaftherapie-kissen-1` | T6 (Advertorial-Listicle, 10 Gründe; Produkt Schlaftherapie Kissen) | Thomas Brandt, Ich-Einstieg „Hallo, mein Name ist …“, dann Du | nein | „Top Chiropraktiker verrät: Das ist der beste Weg, um Ischias- & Hüftschmerzen dauerhaft zu stoppen.“ | 1.485 / 1.700 (20) | 191 (13 %) | Kunstbegriff „Posturale Schlaf-Fehlstellung“ quetscht den Ischiasnerv; Kissen hält Hüfte im „exakten 90-Grad-Winkel“, Knie „genau 15 cm“ höher. | „Cortisol … um bis zu 31%“, „9 Monaten Entwicklungszeit, 5 verworfenen Prototypen … 300 Schmerzpatienten“, „21+ Millionen Aufrufe auf TikTok“ | **kein Preis im Text**, 3x Button 40 %, „Vorrat ist begrenzt“; 60 Tage | 140 / 0 (+72) · Langläufer 371 T |
+| 7 | us_advert_numbhands · US `/advert-numb-hands` | T3 | Ich „Dr. John Adams, DC“ (35 J. Praxis), Ehefrau Lisa als Fall | nein | „Top Doctor of Chiropractic Reveals the Real Reason Your Hands Keep Falling Asleep at Night — and the Simple Bedroom Fix That Stops It Fast.“ | 3.664 / 3.886 (20) | 1.795 (49 %) | C5–C7-Nervenwurzeln werden nachts „squeezed like that garden hose under a truck tire“ (Sicherungskasten-Analogie); 3-Zonen-Kissen „removing a kink“. | „Canadian sleep researchers proved that 84% …“ (1991), „92% report … within 5 nights“, „German engineering“ | „SHOULD cost $300“ → $99.98 → „Just $59.99“, „This 40% discount dies in 72 hours.“, „9,000 units“; 60-Day | 132 / 0 |
+| 8 | de_advert7_tinnitus · DE `/advert-7-das-nacken-therapiekissen-tinnitus` | T1 (Angle-Swap von #2) | wie #2 | nein | „Warum Ärzte die echte Ursache deines Ohrensausens einfach nicht finden (und wie du es zu Hause beheben kannst)“ | 3.566 / 3.980 (26) | 1.005 (28 %) | C1/C2-Spannung reizt die C2-Nervenwurzel und drückt die Vertebralarterien → „zervikogener Tinnitus“. | „Universitätsklinik in Bern … 847 … 89% haben White-Noise-Geräte bekommen“, „Bis zu 43% aller Tinnitus-Fälle …“, Review „Von 8/10 auf 3/10 in 2Wochen“ | wie #2 (59,99/99,98, 60 Nächte vs. Siegel 30) | 120 / 0 |
+| 9 | us_advert_neckpain_drjohn · US `/advert-neck-pain` (+ Klon `…-1788957245096342-…`) | T3 (Basis) | Dr. John Adams, DC; Einstieg „I'm about to piss off every physical therapist …“ | nein | „Top Chiropractor: "Use This Pillow Tonight and Wake Up Pain-Free Tomorrow Morning"“ | 3.930 / 4.152 (20) | 1.914 (49 %) | „Conventional pillows force your neck into an unnatural position for 8 straight hours“ – 3 Phasen „Hours 1-3 Positioning / 3-6 Decompression / 6-8 Healing“. | 1991-Studie 84 %, „✔️ 92% … ✔️ 89% … ✔️ 81%“, „189,000+ Americans“, „Sleep Foundation featured us … sold out in 11 hours“ | Kosten-Stack (PT $7,200, Surgery) → „$300“ → $99.98 → $59.99, „dies in 72 hours“, „9,000 units“; „My Personal 60-Day … Guarantee“ | 110 / 0 |
+| 10 | us_advert_headaches_r1 · US `/advert-neck-therapy-pillow-headaches-r-1` | vermutl. T1 (**404**) | ? | ? | Ad-Titel: „Why Your Morning Headaches Keep Coming Back (The Real Cause Will Shock You)“ | – | – | – | – | – | 110 / 0 |
+| 11 | de_advert1_nacken · DE `/advert-1-das-nacken-therapiekissen-1` | T6 (Kurz-Listicle, 5 Gründe) | Autorbox Thomas Brandt, Text unpersönlich Du | nein | „Warum Tausende Deutsche mit Nackenschmerzen ihr gewöhnliches Kopfkissen gegen dieses orthopädische "Therapiekissen" austauschen“ | 673 / 877 (15) | 11 (Headline) | „falsche Schlafhaltung, die zu einer Überlastung der Muskulatur führt“ – Kissen „unterstützt die natürliche Krümmung der Halswirbelsäule“. | „Studien haben gezeigt …“ (ohne Quelle), 23.328, 2–3 Reviews | kein Preis; „Bereits 3x mal ausverkauft“; 60 Tage; „Nicht auf Amazon, Ebay oder im Einzelhandel“ | 96 / **7** (Markenseite) |
+| 12 | de_test_nackenkissen · DE `/nackenkissen-test-v1-google` (+ `-v2` Taboola, `-v3`) | T5 (Vergleichstest) | Redaktions-„Wir“, „Von Lisa Hartmann“ | **ja** – „SchlafBerater.de“, Anzeige-Box, „🏆 TESTSIEGER 2026“ | „Die besten Nackenkissen im Test 2026: Welches hält wirklich, was es verspricht?“ | 1.854 / 1.893 (7) | 170 | „echtes Therapiekissen“ mit „3-Zonen-Stützsystem“ vs. bloß „ergonomisch“ und China-Dropshipping. | „3 Testern … über 30 Nächte“, „150 Testnächten“, Noten-Tabelle vs. reale Marken (Derila „B“, Zyvo „C“, Dream Sleepz „D+“, Curosleep „D“), Nachteile-Box | Preisspanne „€55–85“, „Jetzt mit 40% Rabatt“; 60 Tage; kaum Knappheit | 65 / **9** |
+| 13 | de_advert2_nacken · DE `/advert-2-das-nacken-therapiekissen-1` | T2 (Nacken-Basis, Vorlage für #16/#18/#19) | Thomas Brandt, Ich + Du | nein | wie #11 (gleiche Headline, anderer Text) | 3.353 / 3.582 (34) | 11 (Headline) / Name ~690 | „Domino“-Kette: verkrümmte HWS → tiefe Nackenmuskeln → Trapezius → Kopfschmerz/Taubheit; „ein ganz simpler 30-Sekunden-Trick“. | 23.328, 3 Reviews; keine Studie | „€59,54, anstatt €99,23“; **30 Nächte**; Familien-Close „es geht hier nicht nur um dich“ | 50 / 0 (+184) |
+| 14 | de_news_demenz_a391 · DE `/advert-schnarchen-A391` | T4 (Patientenbericht) | Ich-Patientin „Daniela K. aus Wiesbaden“ (49), Byline „Von Katharina Wiesner“; Laien-Experte Cousin „pensionierter Physiotherapeut“ | **ja (voll)** – Masthead „GESUNDLEBEN JOURNAL“, Rubrik „PATIENTENBERICHT“, Info-Kästen | „49-Jährige dachte, sie wird dement – bis ein Physiotherapeut entdeckte, was jede Nacht mit ihrem Nacken passierte“ | 1.690 / 1.721 (16) | 1.083 (64 %) | Schlafapnoe als Haltungsproblem: „Wenn der Kopf nachts in den falschen Winkel fällt, kollabiert das Weichgewebe im Rachen“. | Chronologie fehlgeschlagener Behandlungen mit Preisen („Premium-CPAP (890 € privat bezahlt)“), Genesungsverlauf „Tag 1 … Woche 1“, „Über 40.000 zufriedene Kunden“; keine Reviews | „~60 € nach Rabatt“, „30 Nächte Probe schlafen“; nur „WICHTIGE WARNUNG: FÄLSCHUNGEN AUF AMAZON“; 2 Textlinks | 31 / **14** |
+| 15 | us_advert_neckpain_r4 · US `/advert-neck-therapy-pillow-neck-pain-r-4` | vermutl. T1 (**404**) | ? | ? | Ad-Titel: „The Real Reason Your Neck Pain Keeps Coming Back“ | – | – | – | – | – | 31 / 0 |
+| 16 | de_advert1_schulter · DE `/advert-1-das-nacken-therapiekissen-shoulder-pain` | T2 (Ableger #13) | Thomas Brandt | nein | „Top Chiropraktiker enthüllt: Das ist der wahre Grund, warum du Schulterschmerzen hast und wie du es in nur 7 Tagen stoppst.“ | 3.232 / 3.461 (33) | 475 | Seitenschläfer-Doppelproblem: Kopf zieht „wie eine Bowlingkugel nach unten“, untere Schulter „wie in einem Schraubstock“. | 23.328, 3 Reviews | 59,54/99,23; 30 Nächte | 30 / 0 |
+| 17 | us_listicle_8reasons · US `/advert-neck-pain-listicle-1` | T6 (T3-Kurzform) | Autorbox Dr. John Adams, Text „we“ + You | nein | „8 Reasons Chiropractors Recommend This Viral Pillow For Side Sleepers With Neck Pain“ | 1.068 / 1.290 (18) | 287 | Seitenlage: „your head drops down into the gap“ neben der Schulter – 3 Zonen füllen die Lücke. | „94% Of Customers Get Relief In Under A Week“, Experten-Zitat „Dr. Michael Chen, DC“ | kein Preis; „Limited Summer Sale … Selling Out Fast“, „If this page is live, we're still in stock.“; 60 Tage „buy your pillow back“ (Box: 30) | 30 / 0 |
+| 18 | de_advert3_haende · DE `/advert-3-das-nacken-therapiekissen-1` | T2 | Thomas Brandt („aus Nordbrück“, 15/12 Jahre) | nein | „Top Chiropraktiker enthüllt: Das ist der wahre Grund, warum deine Hände nachts einschlafen und wie du es in 7 Tagen stoppst.“ | 3.492 / 3.721 (33) | 847 (24 %) | Handnerven „zwischen den Wirbeln C5 bis C8“ abgeklemmt „wie bei einem abgeknickten Gartenschlauch“, 3 Stufen. | „Schon nach 7 Nächten …“, 23.328, 2 Reviews | 59,54/99,23; 30 Nächte | 19 / 0 (+57) |
+| 19 | de_advert4_migraene · DE `/advert-4-das-nacken-therapiekissen-headache` | T2 | Thomas Brandt, Datum statisch | nein | „Warum Tausende Migräne-Betroffene, ihr gewöhnliches Kissen gegen dieses medizinische "Therapiekissen" austauschen - und endlich ohne pochende Kopfschmerzen aufwachen.“ | 3.601 / 3.829 (28) | 9 (Headline) | „zervikogene Kopfschmerzen“: gereizte Nackennerven „direkt mit dem Trigeminusnerv verbunden“, Nacken „wie ein Gummiband“. | wie #13 | 59,54/99,23; 30 Nächte | 15 / 0 |
+| 20 | us_news_dementia_a391 · US `/advert-snoring-a391` | T4 (Übersetzung #14) | Ich „Rebecca F. from Dayton, Ohio“ (59), „As told to Katherine Wells“ | **ja** – „The Daily Health“, „PATIENT STORY“ | „A 59-Year-Old Thought She Was Getting Dementia, Until a Physical Therapist Discovered What Was Happening to Her Neck Every Night“ | 2.389 / 2.429 (16) | 1.520 (64 %) | wie #14 | „A premium CPAP, $1,200 out of my own pocket.“, „I spent $1,550 … and nobody ever looked at my neck.“ | „Under $60 after 40% off“, **60-night trial** (DE: 30), „FAKES ON AMAZON“ | 14 / 0 |
+| 21 | de_listicle_schlaf_angst · DE `/listicle-das-schlaftherapie-kissen-anxiety` | T6 (10 Gründe) | neue Persona „Carina Neumann – Schlafmedizinerin“, Ich-Einstieg, dann Du | nein | „10 Gründe, warum Tausende Deutsche mit Schlafproblemen jetzt zu diesem therapeutischen Kissen wechseln“ | 1.452 / 1.667 (21) | 83 (generisch) / Name ~190 | „Deep Pressure Stimulation“ – Umarmungsdruck schaltet „vom "Alarmmodus" in den "Entspannungsmodus"“ (kein Nacken-Mechanismus). | 23.328 DACH, „100% natürlich“, 3–4 Reviews | kein Preis; 3x ausverkauft; 30 Tage | 13 / 0 |
+| 22 | de_test_5kissen · DE `/nackenkissen-test-v2-google` | T5 (Test + Kaufratgeber) | „Marie T. – Redakteurin für Schlafberater.de“ | **ja** – SchlafBerater.de, Testsieger-Box, „GESAMTNOTE“ | „Das sind die 5 besten Kissen gegen Nackenschmerzen und für besseren Schlaf 2026“ | 3.849 / 3.980 (25) | 377 | Kaufkriterien (Form-Weiterentwicklung, echter Memoryschaum, Kühlung, OEKO-TEX, Probezeit) sind exakt auf das eigene Produkt zugeschnitten. | „12 der bekanntesten Kissen … 3 Monate“, 4,8/5 aus 2.916, reale Wettbewerber (Emma, Blackroll, CloudPillo, Derila), Ehrlichkeits-Signale | „AKTION — HEUTE 40 % SPAREN“ als Leser-Deal; 60 Nächte; **Anti-Knappheit** („Vage Materialien und falscher Zeitdruck“ als Warnsignal) | 11 / 0 |
+| 23 | de_news_angst_a675 · DE `/advert-angststoerung-a675` | T4 (Reportage, 3. Person) | über „Birgit K.“ (48), Byline Katharina Wiesner; namenlose Physiotherapeutin | **ja** – GesundLeben Journal | „48-Jährige wird 14 Jahre lang wegen Angststörung behandelt — bis eine Physiotherapeutin entdeckt, was kein Arzt geprüft hat“ | 1.782 / 1.812 (17) | 1.134 (64 %) | „C1-C2. Massive Verspannung.“ – Nerven zum Gehirn lösen Panik aus; „Ich hatte nur einen Nacken, der jede Nacht falsch lag.“ | „14 Jahre. Fünf Ärzte. Null Antworten.“, Chronologie der Fehlbehandlung, Genesungsverlauf | „~60 € nach 40 % Rabatt“, 60 Tage, Amazon-Warnung | 9 / 0 |
+| 24 | us_advert_neckpain_r1 · US `/advert-neck-therapy-pillow-neck-pain-r-1` | **404** | – | – | – | – | – | – | – | – | 8 / 0 (+38) |
+| 25 | us_advert_neckpain3_scottsdale · US `/advert-neck-pain-3` | T7 (Ich-Story im News-Look) + angehängter T3-Angebotsblock | Ich „By Jessica Callaway – Scottsdale, AZ“, Tochter Emily ICU-Krankenschwester erklärt | teilweise (Uhrzeit, „84,498 Views“, Ortsmarke) | „Scottsdale Woman, 67, Discovers What ICU Nurses Are Calling The Fastest Way To Fix Neck Pain For Side Sleepers“ | 3.387 / 3.609 (20) | 487 | Dialog: „Your shoulder lifts your body off the mattress … this pillow is forcing your neck into a twisted, unnatural position all night.“ | „thousands of customer ratings“, „refund rate is 0.9%“, 3 Reviews | widersprüchlich „UP TO 60% OFF“ / „40% OFF … first 500 customers“ / „9,000 units“ / „72 hours“; 60 Nächte | 6 / 0 |
+| 26 | us_advert_neckpain4_7pillows · US `/advert-neck-pain-4` | T7 (Vergleichs-Ich-Story + 10 Punkte) | „Diana Jones – Lifestyle Blogger“ | nein | „I Tried 7 Side Sleeper Pillows. But Only One Actually Worked...“ | 982 / 1.204 (19) | 139 (14 %) | Ausschluss realer Marken mit Preis („$179 Purple“, „$139 Casper“ …) → nur Schulter-Cutouts entlasten. | nur eigene Erfahrung + Wettbewerberpreise | kein Preis; „60-night guarantee, there's nothing to lose“; 3x ausverkauft | 6 / 0 |
+| 27 | de_advert6_schwindel_t2_usdomain · US `/advert-6-das-nacken-therapiekissen-schwindel-t-2` | **404** (DE-Seite auf US-Domain) | – | – | – | – | – | – | – | – | 3 / 0 |
+| 28 | us_advert_antisnoring · US `/advert-1-anti-snoring-therapy-pillow` | **404** | – | – | – | – | – | – | – | – | 1 / 0 (+11) |
+| 29 | de_test_bauarten · DE `/nackenkissen-test-v4` | T5 (Bauarten-Test) | Lisa Hartmann, Ich/Wir, Auslöser-Frage einer Physiotherapeutin | **ja** (SchlafBerater.de, ohne Anzeige-Box) | „Kissen im Test 2026: Wir haben alle 5 Bauarten je 30 Nächte getestet. Die beliebteste fiel durch.“ | 2.996 / 3.020 (18) | 835 | „Kollaps-Effekt“: einheitlicher Schaumblock sinkt mit dem 4–5-kg-Kopf ein → nur 3-Zonen-Aufbau hält. | „Nach 150 Testnächten“, 4,8/5 aus 2.916 | **einziger Test mit Preis**: „Heute nur 59,54€ – Du sparst 54,69€ · Preis gilt solange der Vorrat reicht“; 60 Nächte; CTAs über Tracker `netiverysharble.com` | 0 / 0 |
+| 30 | de_advert5_ischias · DE `/advert-5-das-schlaftherapie-kissen-1` | T2 (Long-Form zu #6) | Thomas Brandt | nein | wie #6 | 3.085 / 3.313 (32) | 608 | Fluss/Damm-Metapher: Wirbelsäule „wie ein Fluss, der ins Stocken gerät“. | 23.328, „9.000+ Stunden … 1.200+ Menschen“ | „€74,54, anstatt €139,23“; 60 Nächte (Icon 30), „59 Minuten oder 59 Tage“ | 0 / 0 (+37) |
+| 31 | de_advert7_ischias_story · DE `/advert-7-das-schlaftherapie-kissen-1` | T7 (Patientinnen-Story) → kippt in T2-Verkaufsteil | Ich „Sabine Krämer – aus München“, Retter „Thomas Brandt“ | nein | „So habe ich eine Hüftoperation vermieden und bin meine Ischiasbeschwerden in weniger als 4 Wochen losgeworden“ | 3.708 / 3.936 (32) | ~1.100 | Verdrehte Schlafhaltung drückt auf Ischiasnerv/Bandscheiben → neutrale Ausrichtung Wirbelsäule/Hüfte/Knie. | Story, Zitat „Es besteht keine Notwendigkeit für eine Hüftoperation!“, 23.328 | „€74,54, anstatt €124,23“, „33 Cent“; 30 Nächte | 0 / 0 |
+| 32 | de_advert1_sitz · DE `/advert-1-sitz-therapie-kissen` | T2 (anderes Produkt: Sitztherapie Kissen) | Thomas Brandt | nein | „Top Chiropraktiker: Das ist der beste Weg, um Steißbein- und Kreuzschmerzen zu lindern“ | 3.321 / 3.550 (25) | 656 | Becken kippt auf normalem Stuhl – „wie ein Fundament, das absackt“. | 23.328 (übernommen), 2 Reviews | 59,54/99,23; 30 Tage | 0 / 0 (+16) |
+| 33 | us_advert_neckpain2_blogger · US `/advert-neck-pain-2` | T7 (Blogger) | „Jessica Waldorf – Lifestyle Blogger“ | nein | „I Went From Planning My Day Around Neck Pain to Completely Forgetting I Had It“ | 1.264 / 1.486 (13) | 275 | „Most traditional pillows only support your head.“ – 3 Zonen Head/Neck/Shoulder. | „75% of people …“ (ohne Quelle), Vergleichstabelle, FAQ | kein Preis, keine Knappheit, **nur 1 CTA** | 0 / 0 |
+| 34 | us_advert_neckpain_warning · US `/advert-neck-therapy-pillow-neck-pain` | T2 (US-Übersetzung #13) | Thomas Brandt | nein | „WARNING: Ignore Your Morning Neck Pain and You Could Be Looking at Surgery Within 12 Months“ | 3.528 / 3.750 (26) | 717 | Normales Kissen „slowly crushing vertebrae C5 and C6“, „like a rubber band stretched to its limit for 8 straight hours“. | „189,000+ People from Germany, Austria and Switzerland“ (Rest), 3 Reviews | „$59.54 instead of $99.23“; 30 Nächte | 0 / 0 |
+| 35 | uk_feelgood_tinnitus · `feelgoodtrends.com/neckpillow/adv-tinnitus/` | T1 (engl. Übersetzung von DE #8, nicht der US-Fassung) | Ich-Chiro **„James Crawford“** (neue Persona), Datum dynamisch | nein („Popular in the UK“) | „Why doctors can't find the real cause of your tinnitus (and how you can fix it at home)“ | 4.015 / 4.226 (26) | 1.027 | wie #8: „sensory mismatch“, „A head cradle changes everything for tinnitus sufferers.“ | „University College Hospital in London … 847 … 89% were given white-noise devices“, „Up to 43%“, Fall Sarah Chambers (45), „23,328+“ (DACH-Zahl) | Text „£49.99, instead of £89.99“ vs. Buttons „Claim Your 70% Discount Now“ vs. PDP £49.95 statt £166.50; 60 Nächte; Checkout auf `zifarra.com` | nicht im Inventar; lt. a1: **25 aktiv** (Brielle Grace, seit 06.10.2026) |
+| 36 | es_advert_dizziness · US `/advert-1-neck-therapy-pillow-dizziness-es` | T1 (span. Übersetzung von #1, US-Hispanics) | Thomas Brandt „Quiropráctico“ | nein (Kopfleiste nicht übersetzt) | „Por Qué Tu Mareo, Niebla Mental y Corazón Acelerado No Desaparecen... Y La Extraña Cosa Que Le Pasa a Tu Cuello Mientras Duermes.“ | 3.606 / 3.850 (29) | 861 | „Una almohada con un centro hueco lo cambia todo.“ | „Clínica Cleveland … 847 … 89%“, Fall „Carol Hernandez, 47“ | „$59.99, en vez de $99.98“, „Solo puedo garantizarlo por hoy“; 60 noches (Widerspruch „Treinta noches“) | nicht im Inventar; lt. a1: 58 Ads (Sofía Hernandez, 12.06.–12.08.2026), 0 aktiv, 2 Konzepte „Winner“ |
+
+**Gewichtung:** T1 trägt 2.494 der 4.206 Native-Ads im Fenster (59 %) und 155 der 185 aktiven Native-Ads (84 %). Neu und aktiv: T4 (#14: 14 aktiv), T5 (#12: 9 aktiv), T6 (#11: 7 aktiv), UK-T1 (25 aktiv). Langläufer (> 200 Tage): T6 Ischias (371 T), T6 Nacken (207 T), T2 Schnarchen (206 T).
+
+---
+
+##### 2. Wiederkehrende Muster
+
+###### 2.1 Seitengerüst als Abschnittsfolge mit typischer Wortzahl
+
+**A) T1/T2 Experten-Long-Form (Gewinner-Gerüst, 3.200–4.000 Wörter Artikel, 25–34 Abschnitte).** Werte aus DE advert-6/-7, US dizziness, UK tinnitus, DE advert-2/schnarchen:
+
+| Block | Abschnitt (wörtliche Überschrift aus advert-6/US) | typische Wörter | Anteil |
+|---|---|---|---|
+| Kopf | Kopfleiste + Headline + Sub + Sterne/Kundenzahl + Autorbox | 60–215 | 2–6 % |
+| Problem | Hook ohne Überschrift („Wenn du das hier liest, bist du wahrscheinlich schon bei jedem Arzt gewesen …“) | 80–135 | |
+| | „Der Nacken-Schwindel-Zusammenhang, den kein Arzt auf dem Schirm hat“ (Studie) | 85–170 | |
+| | „Wenn der Nacken chronisch gereizt bleibt - drohen noch schlimmere Schäden“ | 90–125 | |
+| | „Warum entsteht diese Dauerspannung überhaupt?“ (Mechanismus + Sündenbock) | 230–335 | |
+| | „Warum Ärzte es komplett falsch verstehen“ (Fallbeispiel + Feindbild) | 155–240 | |
+| | „Wie du den Druck auf C1-C2 … sofort reduzieren kannst“ (Lösung, noch unbenannt) | 125–135 | **Σ 22–26 %** |
+| Produkt | „Schmerzlinderung über Nacht – ohne Übungen, Massagen oder Schmerzmittel“ (Name + Kooperation + Unique Mechanism) | 185–270 | |
+| | „Das speziell entwickelte Nacken Therapiekissen“ (4 ✔-Bullets) | 130–150 | |
+| | „Das intelligente 3-Zonen-Stützsystem“ | 130–160 | |
+| | „So wendest du das Kissen für die bestmöglichen Ergebnisse an“ | 115–125 | |
+| | „Angenehm kühl schlafen, dank weiterentwickelter Kühlungs-Technologie“ | 78–92 | |
+| | „Nacht für Nacht spürbare Entlastung“ (Timeline) → **CTA 1** | 145–170 | **Σ ~23 %** |
+| Beweis | „Echte Menschen, echte Erleichterungen“ (3 Review-Karten) → CTA 2 | 150–210 | |
+| | „Wie sieht dein Leben ohne Schwindel und Benommenheit aus?“ (Future Pacing) | 113–160 | **Σ ~10 %** |
+| Angebot/Close | „Wie kannst du das Nacken Therapiekissen also kaufen?“ | ~200 | |
+| | „Das Kissen könnte morgen ausverkauft sein oder schon heute...“ | 76–84 | |
+| | „… nirgendwo anders erhältlich, als über die offizielle Webseite“ (+ Berater-Preisanker) → CTA 3 | 190–195 | |
+| | „Der Preis wird daher weit unter den Empfehlungen der Berater angesetzt“ | 91–98 | |
+| | „Aber ich weiß, das sich einige von euch das einfach nicht leisten können...“ | 66–96 | |
+| | „Es wurde entschieden einen speziellen, zeitlich begrenzten Rabatt anzubieten!“ | 86–98 | |
+| | „Und wenn das passiert, hast du die Chance verpasst...“ → CTA 4 | 78–93 | |
+| | „Du hast 60-Nächte Zeit, das Kissen völlig risikofrei zu testen!“ | 94–153 | |
+| | „Was du als Nächstes tun solltest...“ → CTA 5 | 81–93 | |
+| | „Denke daran: es gibt KEIN Risiko“ (Familien-/Schuld-Close) → CTA 6 | 170–570 | |
+| | „Update: Bereits 3x mal ausverkauft - jetzt wieder auf Lager!“ + 4 Trust-Icons → CTA 7 | ~100 | **Σ 41–44 %** |
+| Footer | Bewertungs-Widget (4.8/5), Fußnote, Disclaimer, „§11 HWG … frei erfunden“ / „fictional“, „Models“ | 200–230 | |
+
+T2-Unterschied: startet mit Problemfrage („Warum tut dein Nacken überhaupt weh?“ / „Wenn Schnarchen so weit verbreitet ist …, warum haben wir es dann noch nicht gelöst?“), Produkt früher (475–1.126 W), sonst ab „Das speziell entwickelte …“ wortgleicher Produkt-/Angebotsteil (42–77 % gleiche Zeilen über alle T2-Seiten).
+
+**B) T3 Enthüllung (US, ~3.900 W, nur 20 Abschnitte, Produkt erst bei 49 %):** Szene mit Uhrzeit („It was 3:42 AM“ / „6:14 AM“, 280–350 W) → „The Mind Blowing Discovery“ (~210) → „The Real Root Cause …“ (~390) → „The German Engineering Breakthrough …“ (~275) → „This Breakthrough is Pissing Off an Entire Industry“ (~180) → „When You Mess with $21 Billion, They Come for You“ (~220) → „Introducing The Pillow that Actually Fixes …“ (~130) → 3-Phasen-Mechanismus (~220) → „The Results that have Doctors Scrambling“ (~90) + 3 Reviews → „The Price that's Causing Pillow Industry Panic“ (~280) → „The 40% OFF "Middle Finger" …“ (~190) → „But Here's the Catch“ (~195) → Garantie (~180) → „The Choice That Will Define Your Next Decade“ (~160) → „Here's Exactly What To Do Next“ (~430).
+
+**C) T4 Patientenbericht (1.700–2.400 W, 16–17 Abschnitte, 0 Videos, Produkt bei 64 %):** Symptome + Kasten „MEINE SYMPTOME, JEDEN EINZELNEN TAG“ (~210) → Facharzt/Fehldiagnose + Kasten „DIE DIAGNOSE ERKLÄRT“ (~220) → „CHRONOLOGIE DER FEHLGESCHLAGENEN BEHANDLUNGEN“ mit Preisen (~205) → Wendepunkt im Familienkreis („ein Gespräch auf einer Geburtstagsfeier“) + Erklär-Kasten (~250) → „23 Uhr. Recherche. Und eine Entdeckung um halb zwei nachts.“ (~100, Produkt) → „Der erste Morgen, und der Moment, in dem ich weinte“ + „GENESUNGSVERLAUF“ (~260) → „Drei Möglichkeiten“ (~80) → Produktbox (~80) → „WICHTIGE WARNUNG: FÄLSCHUNGEN AUF AMAZON“ (~45) → Schluss „Gehirnnebel muss nicht Ihr neues Normal sein“ (~100) + Link.
+
+**D) T5 Vergleichstest (1.850–3.980 W):** Anzeige-Box + Portal-Logo + Kicker → Intro/Testverfahren (~370–390) → Testsieger mit Vor-/Nachteilen → Konkurrenten #2–#5 (200–280 je) → Vergleichstabelle (Note/Sterne/Herkunft/Garantie/Preis) → „Unser Testverfahren“ → Fazit (~150) → Kaufratgeber „worauf achten“ + „Warnsignale“ (je 50–100 pro Kriterium) → FAQ (~275) → „Exklusives Angebot: 40 % Rabatt“ (~155).
+
+**E) T6 Kurz-Listicle (670–1.500 W):** Kopf (77–218) → 5 oder 10 nummerierte Gründe „1.) …“ (54–121 W je) → CTA → „Das sagen KundInnen …“ (2–3 Reviews) → Trust-Icons → Update-Box.
+
+###### 2.2 Headline-Formeln (wörtlich → Formel)
+
+| Wörtlich (Beispiel) | Formel | Vorkommen |
+|---|---|---|
+| „Warum Ärzte die echte Ursache deiner rätselhaften Symptome einfach nicht finden (und wie du sie zu Hause beheben kannst)“ | Warum [Autorität] die echte Ursache [deines Symptoms] nicht findet **(und wie du es zu Hause behebst)** | DE advert-6/-7, UK, US r-2-Meta – Gewinner-Formel |
+| „Top Doctor of Chiropractic: The Hidden Neck Problem Doctors Keep Missing — And Why It's Behind Your Dizziness, Brain Fog, And Racing Heart“ | [Top-Experte]: Das verborgene [Körperteil]-Problem, das [Ärzte] übersehen — und warum es hinter [Symptom 1, 2, 3] steckt | US dizziness r-1 |
+| „Why Your Dizziness, Brain Fog, and Racing Heart Won't Go Away... And The Strange Thing Happening To Your Neck While You Sleep.“ | Warum [3 Symptome] nicht weggehen… und das Seltsame, das **nachts** mit deinem [Körperteil] passiert | US r-2, ES, US tinnitus |
+| „Top Chiropraktiker: Das ist der beste Weg um Schnarchen auf natürliche Weise zu stoppen“ | Top [Experte] (verrät): Das ist der beste Weg, um [Problem] natürlich/dauerhaft zu stoppen | DE schnarchen, ischias (×2), sitz |
+| „Top Chiropraktiker enthüllt: Das ist der wahre Grund, warum deine Hände nachts einschlafen und wie du es in 7 Tagen stoppst.“ | [Experte] enthüllt: Der **wahre Grund**, warum [Symptom] – und wie du es in [7 Tagen] stoppst | DE Hände, Schulter, US numb-hands, US-Ad-Titel „The Real Reason Your Neck Pain Keeps Coming Back“ |
+| „Warum Tausende Deutsche mit Nackenschmerzen ihr gewöhnliches Kopfkissen gegen dieses orthopädische "Therapiekissen" austauschen“ | Warum Tausende [Landsleute] mit [Problem] ihr gewöhnliches [Alltagsprodukt] gegen dieses [Fach-Adjektiv] "[Kategorie]" austauschen | DE advert-1/-2 Nacken, Migräne, Listicle Angst („10 Gründe, warum Tausende Deutsche …“), US-Meta „Why Millions of Americans …“ |
+| „Your Snoring Is Trying to Kill You“ · „WARNING: Ignore Your Morning Neck Pain and You Could Be Looking at Surgery Within 12 Months“ | Angst-Formel: [Symptom] will dich [Folge] / WARNUNG: Ignorier [Symptom] und dir droht [Eingriff] in [Frist] | nur US |
+| „Top Chiropractor: "Use This Pillow Tonight and Wake Up Pain-Free Tomorrow Morning"“ | [Experte]: "[Produktkategorie] heute Nacht benutzen und morgen [Ergebnis] aufwachen" | US T3 |
+| „49-Jährige dachte, sie wird dement – bis ein Physiotherapeut entdeckte, was jede Nacht mit ihrem Nacken passierte“ | [Alter]-Jährige dachte, [Angst-Diagnose] – **bis** ein [Therapeut, kein Arzt] entdeckte, was jede Nacht mit ihrem [Körperteil] passierte | T4 DE/US, Angst-a675 („… was kein Arzt geprüft hat“) |
+| „Die besten Nackenkissen im Test 2026: Welches hält wirklich, was es verspricht?“ · „Kissen im Test 2026: Wir haben alle 5 Bauarten je 30 Nächte getestet. Die beliebteste fiel durch.“ | Die besten [Kategorie] im Test [Jahr]: … / Wir haben alle [N] Bauarten je [30 Nächte] getestet. **Die beliebteste fiel durch.** | T5 |
+| „8 Reasons Chiropractors Recommend This Viral Pillow For Side Sleepers With Neck Pain“ | [N] Gründe, warum [Experten] dieses virale [Produkt] für [Segment] empfehlen | T6 US |
+| „I Tried 7 Side Sleeper Pillows. But Only One Actually Worked...“ · „Scottsdale Woman, 67, Discovers What ICU Nurses Are Calling The Fastest Way To Fix …“ · „So habe ich eine Hüftoperation vermieden …“ | Ich habe [N] [Produkte] getestet – nur eins funktioniert / [Ort] Frau, [Alter], entdeckt, was [Insider-Beruf] den schnellsten Weg nennen … / So habe ich [Eingriff] vermieden und [Problem] in [Zeit] losgeworden | T7 |
+
+**Subheadline-Formel (T1/T2, fast wortgleich auf allen Seiten):** „Wenn du unter [Symptom 1, 2 oder 3] leidest und deine [Standard-Test] vielleicht normal sind – dann solltest du diesen kurzen Artikel unbedingt lesen.“ bzw. „Wenn du im Jahr 2026 immer noch [Problem] hast, dann lies diesen kurzen Artikel über die wahre Ursache … und was du dagegen tun kannst, um es schon heute Nacht zu stoppen.“ Erster Teil gelb markiert + fett.
+
+###### 2.3 Autor-/Persona-Strategie
+- **Zwei getrennte Ebenen:** Ad-Persona (Claudia Reichardt, Daniela Koch, Karin Zimmermann, Gesund Leben Journal; US Rebecca Fitzgerald, Stephanie Robertson, Gary Kuhlman, The Daily Health; UK Brielle Grace; ES Sofía Hernandez) ≠ Autor auf der Seite. Die Ad-Persona taucht auf der Seite nie auf.
+- **Ein wiederkehrender Experte pro Markt** trägt fast alle Long-Forms: „Thomas Brandt“ (Chiropraktiker, „aus Nordbrück“, „12+ Jahre“, „9.000+ Stunden … 1.200+ Menschen“) DE/US/ES; „James Crawford“ UK; „Dr. John Adams, DC“ (35 Jahre, Ehefrau Lisa) für US-T3. Spezialisten-Persona nur für fremden Angle: „Carina Neumann – Schlafmedizinerin“ (Angst).
+- **Experten-Signale:** rundes Foto, grüner Verifiziert-Haken, Fachtitel, Datum per JS immer „vor 7 Tagen“, „Viele meiner PatientInnen …“, Kollegen-Anekdote. **Experte ≠ Verkäufer:** „Deshalb habe ich mich mit dem Gründerteam des Nacken Therapiekissen zusammengeschlossen“.
+- **Andere Formate, andere Stimme:** T4 = Journalistin-Byline + Ich-Patientin + Laien-Experte aus der Familie (Cousin „pensionierter Physiotherapeut, 67“); T5 = Redakteurin eines Testportals; T7 = Lifestyle-Bloggerin oder Mutter, deren Tochter (ICU-Krankenschwester) erklärt.
+- **Marke versteckt:** „PillowDaddy“ fällt in keinem Advertorial, nur im Produktnamen-Generikum „Nacken Therapiekissen“/„Neck Therapy Pillow“; offen genannt nur in T5 („Nacken Therapiekissen von PillowDaddy“ als Testsieger).
+- **Footer gibt Fiktion zu:** DE „§11 HWG … frei erfunden“, US „… fictional“, „Alle Personen auf den Fotos … sind Models.“
+
+###### 2.4 Mechanismus-Rezept (in dieser Reihenfolge)
+1. **Autoritäts-Odyssee:** „Wenn du das hier liest, bist du wahrscheinlich schon bei jedem Arzt gewesen …“ + Tests „normal“ + Pattern-Interrupt „Aber was wäre, wenn ich dir sage, dass all das nichts mit [vermuteter Ursache] zu tun hat?“
+2. **Pseudo-Studie, lokalisiert:** „Spezialisten der Universitätsklinik in [Zürich/Bern] … 847 Patienten … 89% haben [Antidepressiva/White-Noise-Geräte] bekommen.“ (US Cleveland Clinic, UK University College Hospital London).
+3. **Fachbegriff + Zahl:** C1/C2, „Subokzipitalmuskeln“, „bis zu 300-mal mehr Positionssensoren“, Vagusnerv, C5–C8, Trigeminus, „zervikogen“; Kunstbegriffe („Posturale Schlaf-Fehlstellung“, „Deep Pressure Stimulation“).
+4. **Sündenbock Alltagsgegenstand:** „Wenn du auf einem normalen Kissen schläfst, verkrümmt sich deine Halswirbelsäule …“ + Rhythmus-Satz „8 Stunden Anspannung. Jede. Einzelne. Nacht.“ + Alltagsanalogie (Gartenschlauch, Domino, Gummiband, Schraubstock, Bowlingkugel, Sicherungskasten, Fluss/Damm, CPR).
+5. **Feindbilder:** Ärzte-Silos („Jeder Arzt agiert nur innerhalb seines eigenen Fachgebietes“), Medikamente/CPAP/Hörgeräte, „selbst teure Nackenkissen“, US-Industrie („$21 billion pillow industry“), Amazon-Fälschungen/Dropshipping.
+6. **Unique Mechanism:** „Eine Kopfmulde verändert alles.“ / „A pillow with a hollow center changes everything.“ + „3-Zonen-Stützsystem“ + „ein ganz simpler 30-Sekunden-Trick“ + Umkehrsatz „8 Stunden Erholung statt 8 Stunden Schädigung.“
+7. **Timeline:** „Nacht 1 / Nacht 7 / Nacht 14 / Nacht 30“ (T3: „Hours 1-3 / 3-6 / 6-8“; T4: „Tag 1 … Woche 1“).
+
+###### 2.5 Beweis-Stack (von oben nach unten)
+Sterne + Kundenzahl im Kopf (DE „über 23.328 zufriedene KundInnen“, US „189,000+“, T4 „Über 40.000“) → Studie mit 847/89 % → Fallbeispiel mit Name, Alter, Beruf, Stadt und 2 Zitaten → Experten-Praxisjahre → Timeline → 3 Review-Karten „Verifizierte Käuferin“ (Titel = Symptom weg; Datum 2024/25) → **nur mobil:** 7 FB-Kommentar- + 4 Trustpilot-artige Screenshots (Inhalt oft angle-fremd, recycelt) → Bewertungs-Widget „4.8/5.0 – 2.916“ (US 5,832) → „Bereits 3x ausverkauft“, „21+ Millionen Views auf TikTok“. T3 zusätzlich Prozent-Checkliste („✔️ 92% … ✔️ 89% … ✔️ 81%“) und Medien-Anekdote; T4 Behandlungs-Chronologie mit Kosten; T5 Testmethodik (3 Tester × 30 Nächte, Notengewichtung), Wettbewerber-Tabelle mit realen Marken, Nachteile-Box als Glaubwürdigkeits-Trick. Einzige „Quelle“ auf T1: Fußnote zu sleepfoundation.org ohne Textbezug.
+
+###### 2.6 Angebots-/Knappheitsmechanik
+- **Preis-Dramaturgie T1/T2 (über 6 Abschnitte):** „Und was kostet es? … Nun, das ist eine schwierige Frage...“ → aufwendige Herstellung → Berater empfahlen 99,23 € → „kostet dich eine Nacht nur 27 Cent, weit weniger als jede physiotherapeutische Behandlung“ → „Die Inflation grassiert...“ / Gründern „geht es nicht um's Geld“ → „Das heißt, du zahlst nur €59,99, anstatt €99,98!“ → „Und ich kann ihn dir nur für heute garantieren.“
+- **T3:** Kosten-Stack (PT „$7,200“, Surgery) → „SHOULD cost $300“ → „regular price is $99.98“ → „40% OFF "Middle Finger"“ → „$59.99“ + „9,000 units“ + „dies in 72 hours“ + „no longer selling on Amazon“.
+- **Knappheit:** „Das Kissen könnte morgen ausverkauft sein oder schon heute...“, „Wenn du diesen Artikel liest, … noch ein paar Kissen auf Lager“, Nachschub „Wochen bis Monate“, „Preis bei der nächsten Lieferung höher“, Update-Box mit **JS-Datum = heute**. Countdown (10:00) und „Nur mehr 37 Kissen verfügbar“ erst im Checkout.
+- **Exklusivität:** „nirgendwo anders erhältlich, als über die offizielle Webseite“, „Nicht auf Amazon, Ebay oder im Einzelhandel“; T4: „FÄLSCHUNGEN AUF AMAZON“.
+- **Garantie:** 60 Nächte (älter/T2: 30) – auf derselben Seite oft widersprüchlich (Text 60, Siegel 30); Formeln „29 Minuten oder 29 Tage“, „Klingt das fair?“, T3 „My Personal 60-Day "Pain Free Nights and Mornings" Guarantee“.
+- **Bundle-Anstoß:** „Viele bestellen zwei oder drei Kissen: Eines für sich selbst und eines als Geschenk“ → Checkout **vorausgewählt „2x Kissen + 2x Ersatzbezug“ 149,91 € statt 319,36 €** (Staffel 40/45/47/53 %), Order-Bumps Express 4,63 €, Paketschutz 4,97 €, Qualitäts-Garantie 9,99 €; PDP-Angebotsbox mit Gratis-E-Book (Wert 15 €), Topbar-Saisonlabel („LAGERRÄUMUNG“, „SOMMER ANGEBOT“, „WAREHOUSE SALE“, „Winter Clearance Sale“).
+- **Close:** Verlust-/Schuld-Appell „Denk daran, es geht hier nicht nur um dich..“ (Familie, Enkel, Partner) + Bild „OPTION 1 / OPTION 2“.
+- **Preis nicht genannt** auf T6 und T7 (nur „40 % Rabatt“-Buttons) – der Preis kommt erst auf der PDP.
+
+###### 2.7 CTA-Platzierung
+- **T1/T2:** 7–9 identische grüne Buttons („Jetzt 40% Rabatt sichern“ / „GET 40% OFF Neck Therapy Pillow Now!“), **erster erst nach der Timeline (~46 % des Artikels, Wort ~1.640–1.820)**, dann nach Reviews, nach Exklusivität, nach „Chance verpasst“, nach „Was als Nächstes“, nach Close, in der Update-Box; dazu Desktop-Sidebar-Button above the fold, Mobil-Sticky-Bar („Jetzt 40% Rabatt auf das Nacken Therapiekissen“), 2–3 Textlinks „offizielle Webseite“, Anleitung „Klicke auf den großen grünen Button … Dort wird dein Rabattcode automatisch angewendet.“
+- **T3:** 3–6× „CHECK AVAILABILITY NOW“ + Schritt-Liste „1.) Click the big green button … 2.) Choose your package (Pro tip: Get two.)“.
+- **T4:** nur 2 Textlinks („Jetzt Verfügbarkeit prüfen →“, „Nacken Therapiekissen ansehen →“). **T5:** 2–10 Links („→ Verfügbarkeit prüfen — Jetzt mit 40% Rabatt“, „Testsieger sichern“). **T6:** 3 Buttons. **T7-Blogger:** 1 Button + Inline-Links („See the pillow I finally kept“).
+- **Ziel immer:** `#next-step` (Funnelish) bzw. Direktlink → **angle-gleiche PDP-Kopie** (Hero spiegelt das Advertorial-Versprechen als Frage, z. B. „Leidest du unter Ohrensausen, Schwindel oder Kopfdruck?“) → `checkout-<pdp-slug>`.
+
+###### 2.8 Bildsprache
+- Hero: anatomische Schädel/HWS-Illustration mit rot glühender C1/C2-Stelle (T1); T2 ohne Hero.
+- Unter fast jeder Überschrift ein **kurzer Video-Loop (1,3–11,8 s, 10–12 pro Seite)**, Split-Screen „rot = Problem │ grün = Lösung“, Röntgen-/Anatomie-Overlays, Kalender-Timeline-Video, 3D-Produktrotation.
+- Wiederkehrende Motive: Frauen 40–60 lächelnd auf dem Kissen, Arzt zeigt auf Röntgenbild, leeres Lager/„Sold out“, Amazon/eBay rot durchgestrichen, Rabatt-Störer „40% Rabatt“, Weggabelung OPTION 1/2, Garantiesiegel, Trust-Icons.
+- Typografie: gelbe Textmarker, Fettungen, Ein-Satz-Absätze, Ø 12–13 Wörter/Satz, ~25–30 % Sätze ≤ 5 Wörter („Jede. Einzelne. Nacht.“, „Klingt das fair?“), Auslassungspunkte als Cliffhanger.
+- T4: Reportage-Foto (Frau mit CPAP-Maske), Serifen-Masthead, rote Rubrikmarke, Info-Kästen in Versalien, 0 Videos. T5: Kissenstapel-Foto, Testsieger-Badge, Notentabelle, 0 Videos.
+- Mobil mehr Social Proof (Screenshots) als Desktop; Desktop hat dafür Sidebar mit Produkt + CTA ab Bildschirm 1.
+
+###### 2.9 DE vs. US vs. UK (+ ES)
+| Merkmal | DE/AT | US | UK (neu) |
+|---|---|---|---|
+| Ansprache/Ton | Du, Binnen-I („KundInnen“), sachlich-warnend | You, deutlich aggressiver (Tod, OP, Industrie-Verschwörung, „piss off“) | You, britisches Vokabular („bog-standard pillow“, „high street shops“) |
+| Formate | T1, T2, T4, T5 (Google/Taboola), T6 (Marke aktiv) | T1, T2, T3, T4, T6, T7 (Ich-/Blogger-Storys nur US) | nur T1 (1 Seite) |
+| Autor | Thomas Brandt, Carina Neumann, Katharina Wiesner, Lisa Hartmann | Thomas Brandt, Dr. John Adams, Katherine Wells, Bloggerinnen | James Crawford |
+| Studie/Klinik | Zürich, Bern, Würzburg | Cleveland Clinic, Johns Hopkins, „Canadian sleep researchers“ | University College Hospital London |
+| Social Proof | 23.328, 2.916 Bewertungen | 189,000+, 5,832 | 23,328 (DACH-Zahl übernommen) |
+| Preis | 59,99 € statt 99,98 € (alt 59,54/99,23) | $59.99 statt $99.98; Preistest $69.99/$116.65 | £49.95–£49.99, Rabatt 40/44/70 % widersprüchlich, Staffel 1–4 Stück direkt auf PDP |
+| Knappheit | „nur für heute“, 3x ausverkauft | zusätzlich „72 hours“, „9,000 units“, „first 500 customers“ | wie DE |
+| Domain/Checkout | shop.pillowdaddy.de, Funnelish | try.pillowdaddy-us.com, Funnelish | feelgoodtrends.com → Checkout zifarra.com |
+| Recht/Footer | „§11 HWG … frei erfunden“ | „fictional“ | nur „Models“-Hinweis |
+
+ES = spanische 1:1-Übersetzung von US r-1/r-2 für US-Hispanics ($, Kopfleiste nicht lokalisiert). US- und UK-Seiten tragen Übersetzungsreste (€-Zeichen, „Germany, Austria and Switzerland“, DACH-Kundenzahl).
+
+###### 2.10 Was zwischen Varianten getestet wird
+1. **Angle-Swap im selben Template:** Schwindel ↔ Tinnitus ↔ Kopfschmerz (T1); Nacken ↔ Schulter ↔ Hände ↔ Migräne ↔ Sitz (T2). Getauscht werden nur Symptomwörter, Fachbegriff (Vagusnerv → Hörnerven), Gegner-Behandlung (Schmerzmittel → Hörgeräte), Fall und Review-Titel; Angebotsteil bleibt wortgleich. Ergebnis: Schwindel (DE 863/119, US 1.336/36) schlägt Tinnitus (DE 120/0, US 175/0) deutlich.
+2. **Headline-Test bei gleichem Body:** US r-1 vs. r-2 (nur Headline, Datum, Preis, Update-Datum verschieden).
+3. **Preistest:** $59.99/$99.98 vs. $69.99/$116.65; DE-Preisgenerationen 59,54/99,23 → 59,99/99,98; Schlaftherapie 74,54 €.
+4. **Format-Test für denselben Angle:** Nacken Long-Form (advert-2) vs. Kurz-Listicle mit gleicher Headline (advert-1, heute aktiv); Ischias Long (advert-5) vs. Kurz (advert-1, Langläufer) vs. Patientinnen-Story (advert-7); Schwindel/Angst als Experten-Advertorial (advert-6) vs. Patientenbericht (a675) → gleiche PDP.
+5. **Stimme/Persona:** Experte vs. Patientin vs. Redaktion vs. Bloggerin; neuer Expertenname je Markt (James Crawford UK).
+6. **Kanal/Traffic:** `-google`-Kopien, `-v2` mit Taboola-Parameter `tblci`, Funnelish-Split-URL mit Ad-IDs, Klick-Tracker `netiverysharble.com` (test-v4).
+7. **Markt/Domain:** DE-Advertorial auf US-Domain (`-t-2`, 1 Woche), UK über fremde Domain + fremden Shopify-Checkout, ES für US-Hispanics.
+8. **Kleinparameter:** Garantie 30 vs. 60, Lieferzeit, Topbar-Saisonlabel der PDP, Datum dynamisch vs. statisch.
+
+---
+
+##### 3. Schablone zum Nachbauen
+
+Basis: T1-Gewinner-Gerüst (advert-6 / US dizziness), Ziel **~3.400–3.800 Wörter Artikel**, 26 Abschnitte, Du/You-Ansprache, Ein-Satz-Absätze, unter jeder Überschrift ein Bild oder 2–8-s-Loop (rot → grün). Platzhalter in [eckigen Klammern]. Die Satzmuster sind die PillowDaddy-Originalmuster; was im UK-Recht nicht übernommen werden darf, steht in 3.4.
+
+###### 3.1 Long-Form (Experten-Advertorial)
+
+| Nr. | Abschnitt | Funktion | Ziel-Wörter | Satzmuster (aus Vorlage) |
+|---|---|---|---|---|
+| 0 | Kopfleiste | Native-Rahmen | 5 | „Advertorial · [Flagge] Popular in the UK“ |
+| 1 | Headline + Sub + Sterne + Autorbox | Hook, Selbstselektion | 60–100 | H: „Why [Autorität] can't find the real cause of your [Symptom] (and how you can fix it at home)“ · Sub: „If you suffer from [Symptom 1, 2 or 3] and your [Standard-Check] is perhaps normal – then you absolutely must read this short article.“ · Sterne + „[Zahl]+ satisfied customers“ · Foto, Name, Titel, Datum |
+| 2 | Hook (ohne Überschrift) | Odyssee + Pattern-Interrupt | 80–135 | „If you're reading this, you've probably already tried [Lösung 1], [Lösung 2], [Lösung 3] …“ · „Every morning you wake up and …“ · „But what if I told you that all of this has nothing to do with [vermutete Ursache]?“ |
+| 3 | „The [Problem]-[Ursache] connection no one has on their radar“ | Ursache + Beleg | 85–170 | „[Institution] recently examined [N] people with [Problem] …“ → „[X]% were told [falsche Erklärung].“ → „What they found: [wahre Ursache].“ |
+| 4 | „When [X] stays [Zustand] — even worse [Folgen] are looming“ | Agitation | 90–125 | Liste „[Folge 1]. [Folge 2]. [Folge 3].“ · „And not one [Autorität] ever told them …“ |
+| 5 | „Why does this [Problem] develop in the first place?“ | Mechanismus + Sündenbock | 230–335 | „When you sleep under/on a normal [Alltagsprodukt], …“ · Fachbegriff + Zahl · Analogie („like a garden hose …“) · Rhythmus-Satz „8 hours. Every. Single. Night.“ · Dialog-Kette „Your [A] says … But your [B] screams: ERROR.“ |
+| 6 | „Why [Autoritäten] get it completely wrong“ | Fallbeispiel + Feindbild | 155–240 | „[Vorname Nachname], [Alter], [Beruf] from [Stadt], …“ + 2 Zitate · „Each [Fachperson] only looks within their own specialty.“ · „Meanwhile, the wrong [Alltagsprodukt] keeps [Schaden] every single night.“ |
+| 7 | „How to [Druck/Problem] reduce overnight“ | Lösungsprinzip, Produkt noch unbenannt | 125–135 | „Well, a really simple 30-second trick.“ · „Look, what if you could simply swap your normal [X] for a specially developed [Y] …?“ · „And this is exactly where a new [Kategorie] comes in …“ |
+| 8 | „[Ergebnis] — without [Alternative 1], [2] or [3]“ | **Produktname** (nach ~850–1.200 W) + Kooperation + Unique Mechanism | 185–270 | „That's why I joined forces with the founding team behind the [Produkt] – a team that has already helped over [Zahl] people …“ · „Most [Produkte] – even expensive ones – focus on … But they completely ignore …“ · „A [Feature] changes everything.“ · „8 hours of recovery, instead of 8 hours of damage.“ |
+| 9 | „The specially developed [Produkt]“ | Benefits | 130–150 | 4 ✔-Bullets: Kernfunktion · Symptom-Linderung · Stress/Komfort · „Premium quality and a design optimised several times“ |
+| 10 | „The intelligent [3-zone/Kern-Feature] system“ | Funktionsweise | 130–160 | „Zone 1: … / Zone 2: … / Zone 3: …“ (gelber Kasten) |
+| 11 | „How to use the [Produkt] for the best results“ | Einwand Aufwand | 115–125 | „Simply [Handlung] – no matter [Variante].“ · „Many of our users report after the first few nights …“ |
+| 12 | Zusatznutzen (z. B. Temperatur) | Feature | 78–92 | „… especially for anyone who quickly starts to sweat at night.“ |
+| 13 | „Night after night, noticeable relief“ | Timeline → **CTA 1** | 145–170 | „Night 1: … / Night 7: … / Night 14: … / Night 30: …“ |
+| 14 | „Real people, real relief“ | Social Proof → CTA 2 | 150–210 | „As I write this, more than [Zahl] [Landsleute] are already using …“ + 3 Review-Karten (Titel = Ergebnis) |
+| 15 | „What does your life look like without [Problem]?“ | Future Pacing | 113–160 | ✔-Liste „You wake up – [Ergebnis].“ · „Because you can again.“ |
+| 16 | „So how can you get the [Produkt]?“ | Überleitung | ~200 | „And what does it cost? / Well, that's a difficult question...“ · aufwendige Herstellung · Nachfrage |
+| 17 | „The [Produkt] could be sold out tomorrow — or even today...“ | Knappheit | 76–84 | „Restocking can take weeks or months.“ · „So do NOT leave this page.“ |
+| 18 | „The [Produkt] is only available on the official website“ | Exklusivität + Preisanker → CTA 3 | 190–195 | „You won't find it in high street shops, on Amazon or eBay.“ · „advisors originally recommended offering it for [Ankerpreis]“ |
+| 19 | „The price is therefore set far below what advisors recommended“ | Preisrechtfertigung | 91–98 | „… one night costs you only [x] pence – far less than a single [Alternative].“ |
+| 20 | „But I know that some of you simply can't afford it...“ | Einwand Preis | 66–96 | „Prices are rising …“ · „the founders aren't in it for the money“ |
+| 21 | „A special, limited-time discount!“ | Angebot | 86–98 | „That means you pay just [Preis], instead of [Streichpreis]!“ |
+| 22 | „And when that happens, you've missed your chance...“ | Verlust → CTA 4 | 78–93 | „the price could be higher with the next delivery“ |
+| 23 | „You have [60] nights to test it completely risk-free!“ | Risikoumkehr | 94–153 | „It doesn't matter if you've tested it for 29 minutes or 29 days...“ · „Sounds fair?“ |
+| 24 | „What you should do next...“ | Anleitung + Bundle → CTA 5 | 81–93 | „Click the big green button …“ · „Many order two or three: one for themselves and one as a gift …“ |
+| 25 | „Remember: there is NO risk“ | Close (Option 1/2, Familie) → CTA 6 | 170–400 | „Will you say NO … OR will you do the right thing …“ · „Remember, this isn't just about you..“ |
+| 26 | Update-Box + Trust-Icons + Bewertungs-Widget | Rest-Knappheit/Trust → CTA 7 | ~100 | „Update [Datum]: Already sold out 3 times – now back in stock!“ · 4 Icons (Garantie, sichere Zahlung, einfache Rückgabe, Lieferzeit) |
+| 27 | Footer | Rechtliches | 200–230 | Disclaimer, Werbekennzeichnung, Quellen |
+
+Danach: **PDP-Kopie pro Angle** (Hero = Versprechen der Advertorial-Headline als Frage, Angebotsbox „Total value … / Today only …“ + Gratis-Zugabe, 3-Spalten-Vergleich, FAQ) → **Checkout** mit vorausgewähltem Bundle (2 Stück + Zubehör), Staffel 1/2/3, Express-Bump.
+
+###### 3.2 Kurzvarianten (für Tests neben der Long-Form)
+- **T6 Kurz-Listicle (650–1.500 W):** Kopf 80–220 → „[5/10] reasons why thousands of [Landsleute] with [Problem] are switching to this [Kategorie]“ → je Grund 55–120 W, Grund 1 = Ergebnis, Grund 2–3 = Mechanismus, vorletzter = Social Proof („Join over [Zahl] …“), letzter = Garantie → 3 CTAs → 2–3 Reviews → Update-Box. Kein Preis im Text.
+- **T4 Patientenbericht (1.700–2.400 W):** Masthead + Rubrik „PATIENT STORY“ → „[Alter]-year-old thought [Angst-Diagnose] – until a [Therapeut] discovered what was happening every night“ → Symptome-Kasten → Fehldiagnose → Chronologie mit Kosten → Wendepunkt im Familienkreis → nächtliche Recherche (Produkt bei ~64 %) → „first morning“ + Verlauf Tag 1/Woche 1 → „Three options“ → Produktbox → Fälschungs-Warnung → 2 Links.
+- **T5 Test (1.900–4.000 W):** Portal-Logo + Anzeige-Box → Testverfahren (Tester × Nächte) → Testsieger (Produkt nach 170–380 W) → Vergleichstabelle → Kaufratgeber-Kriterien, die genau auf das eigene Produkt passen → Warnsignale → FAQ → Leser-Deal.
+
+###### 3.3 Satzbausteine, die auf allen Gewinner-Seiten wiederkehren
+„Jede. Einzelne. Nacht.“ · „Naja, ein ganz simpler 30-Sekunden-Trick.“ · „Schau mal, was wäre, wenn …“ · „Und genau hier kommt … ins Spiel“ · „Eine [Kopfmulde] verändert alles.“ · „8 Stunden Erholung statt 8 Stunden Schädigung.“ · „Nun, das ist eine schwierige Frage...“ · „Dann verlasse diese Seite NICHT.“ · „Klingt das fair?“ · „Es geht hier nicht nur um dich..“
+
+###### 3.4 Nicht 1:1 übertragbar (UK: ASA/CAP-Code, CPRs)
+Erfundener Experte/Fall/Studie, Testimonials „frei erfunden“, Datum „vor 7 Tagen“ per JS, „nur heute“ bei Dauerpreis, dauerhafter „Lagerräumung“-Streichpreis, Heilversprechen, widersprüchliche Garantie- und Rabattangaben. Gerüst, Dramaturgie-Gewichte und Satzrhythmus sind übertragbar; die Behauptungen müssen belegbar sein.
+
+---
+
+##### 4. Lücken
+- **5 Native-Seiten mit Ads im Fenster sind 404** (153 Ads), darunter `headaches-r-1` (110 Ads) und `neck-pain-r-4` (31) – Inhalt nicht rekonstruierbar (Wayback 429). Abschnitte, Wortzahlen und Mechanismus fehlen in der Tabelle.
+- **Erfolg nur indirekt gemessen:** Ad-Anzahl, aktive Ads und Laufzeit; kein Spend, keine CTR/CVR, keine Funnelish-Splitdaten. „Gewinner“ heißt hier: viel und lange beworben.
+- US-Ad-Zahlen sind eine Näherung (±5 %, aus kollabierten Abfragen); UK (25 aktiv seit 06.10.) und ES (58, Jun–Aug) stehen nicht im Inventar-Fenster. Die UK-Seite ist 2 Tage alt, über ihren Erfolg lässt sich noch nichts sagen.
+- Google-/Taboola-Traffic auf `-google`-, `-v2`- und Test-Seiten ist mit GetHooked (nur Meta) nicht messbar. Der Erfolg der T5-Tests ist daher unterschätzt.
+- Abschnittsgrenzen sind auf den meisten Seiten heuristisch (fette Großzeilen), Wortzahlen also ± einige Prozent. Nur advert-6/-7 sind manuell, Desktop und Mobil, zerlegt.
+- Videos (10–12 pro Seite) nur als Frames gesichtet und nicht transkribiert. Text in Bildern (FB-/Trustpilot-Screenshots, Siegel) fehlt in den Wortzahlen.
+- Ob es Funnelish-Split-Varianten unter derselben URL gibt, ist nicht ausgeschlossen (3 Renders identisch). Unbekannte Slugs (weitere `-A391`/`-a675`-Codes) bleiben unentdeckt.
+- Checkout nie abgeschlossen, Post-Purchase-Upsells unbekannt; UK-Checkout `zifarra.com` nicht abgerufen.
+- Ad→LP-Kohärenz (welche Ad-Hooks welche Seite spiegeln) ist nicht hier ausgewertet, das liegt bei Agent 1.
 
 ### 3.2 Alle Native-Seiten – Analysen
 
@@ -1979,6 +2428,7 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Angebot/Knappheit/Garantie:** „¡Eso significa que pagas solo $59.99, en vez de $99.98!“, „16 centavos por noche“, „Solo puedo garantizarlo por hoy“, „La almohada podría agotarse mañana, o incluso hoy...“, Update „¡Ya se agotó 3 veces — de nuevo disponible!“; „¡Tienes 60 noches para probarlo …!“ – **Widerspruch im selben Abschnitt:** „Treinta noches para ver por ti mismo …“.
 - **CTA:** 7× „OBTÉN 40% DE DESCUENTO EN ALMOHADA TERAPÉUTICA CERVICAL“.
 - **Unterschied zu US:** reine Übersetzung + Namen (Carol Hernandez); Kopfleiste nicht lokalisiert; PDP/Checkout spanisch mit $-Preisen (Paket-Staffel identisch zu US/DE, s. `pdp_uebersicht.md`).
+- **Übergang:** 7× Button (`#next-step`) → spanische PDP `/neck-therapy-pillow-dizziness-es` → `checkout-neck-therapy-pillow-dizziness-es`; Anleitung „Da clic en el botón verde grande que dice 'OBTÉN 40% DE DESCUENTO EN LA ALMOHADA TERAPÉUTICA CERVICAL AHORA'. Te lleva directamente al sitio oficial.“
 
 ##### 2. us_advert1_snoring – 596 Ads (0 aktiv, +102 vor Fenster), Langläufer seit 12/2025
 - **URL:** `try.pillowdaddy-us.com/advert-1-neck-therapy-pillow-snoring` → `#next-step` → PDP `/neck-therapy-pillow-snoring`.
@@ -2033,6 +2483,7 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Angebot – widersprüchlich:** Buttons 7× „Claim Your 70% Discount Now“, Text „That means you pay just £49.99, instead of £89.99!“ (= 44 %), Anker „advisors … recommended offering the pillow for £84.99“, Anleitung „Click the big green button that says 'Get 40% Off Now'“; PDP: 1 Stück £49.95 „statt“ £166.50 („You Get 70% OFF!“), Staffel bis 4 Stück £149.95 (s. `pdp_uebersicht.md`).
 - **Knappheit/Garantie:** „The pillow could be sold out tomorrow — or even today...“, Update „Already sold out 3 times - now back in stock!“, „60 nights … completely risk-free“, „60-Day Money-Back Guarantee“.
 - **Unterschied zu DE/US:** neue Persona + UK-Lokalisierung (UCH London, Pfund, high street), aber DACH-Kundenzahl 23,328 und Rabatt-Chaos 40/44/70 %. Erste bekannte UK-Native von PillowDaddy-Material (für uns relevant: UK-Markt wird mit 1:1-übersetzter DE-Vorlage getestet).
+- **Übergang:** 7× „Claim Your 70% Discount Now“ → `/neckpillow/products/neckpillow/` (UK-PDP mit eigener 1–4-Stück-Staffel in £) → Kauf über `zifarra.com/cart/…`.
 
 ##### 5. de_advert1_ischias – 140 Ads (0 aktiv, +72 vor Fenster), Langläufer seit 06/2025 (Ad bis 371 Tage)
 - **URL:** `shop.pillowdaddy.de/advert-1-das-schlaftherapie-kissen-1` → PDP `/das-schlaftherapie-kissen-1` (Produkt: **„Schlaftherapie Kissen“** = Seitenschläfer-/Körperkissen, nicht das Nackenkissen).
@@ -2074,6 +2525,7 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Garantie:** „My Personal 60-Day "Pain Free Nights and Mornings" Guarantee“.
 - **Übergang:** Buttons „CHECK AVAILABILITY NOW“ (5×) + Schritt-Liste „1.) Click the big green button below that says "Check Availability Now" 2.) Choose your package (Pro tip: Get two. …)“.
 - **Geschwister:** Basis für numb-hands (Nr. 6), Scottsdale (Nr. 23, 45–47 % gleiche Zeilen) und Listicle 8 Reasons (Nr. 15, 42 %).
+- **Produkt:** Name „Neck Therapy Pillow“ erst nach **1.914 Wörtern** (49 %): „Introducing The Pillow that Actually Fixes Morning Neck Stiffness and Pain“ / „It's called the Neck Therapy Pillow.“; vorher nur „German engineering breakthrough“ / „my first prototype“.
 
 ##### 8. us_advert_headaches_r1 – 110 Ads (0 aktiv) – **heute HTTP 404**
 - `try.pillowdaddy-us.com/advert-neck-therapy-pillow-headaches-r-1`: Inhalt nicht abrufbar (curl + Playwright 404; Wayback-Abfrage scheiterte an „429 Too Many Requests“). Laut Inventar Ad-Titel „Why Your Morning Headaches Keep Coming Back (The Real Cause Will Shock You)“; Slug-Schema „-r-1“ = vermutlich T1-Ableger (wie dizziness/tinnitus r-1). **Lücke.**
@@ -2131,6 +2583,7 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Knappheit:** schwach – nur „WICHTIGE WARNUNG: FÄLSCHUNGEN AUF AMAZON“.
 - **Übergang:** nur 2 Links: „Jetzt Verfügbarkeit prüfen →“, „Nacken Therapiekissen ansehen →“ (Ende: „Gehirnnebel muss nicht Ihr neues Normal sein“). Sie-Ansprache im Schlussteil.
 - **Geschwister:** US-Übersetzung = Nr. 18 (Rebecca F. aus Dayton); Format-Zwilling DE Angst-a675 (Nr. 21). **Bauplan-relevant:** neues, aktives Format (14 aktive Ads) – echter Reportage-Look, kein Funnelish-Baukasten, kurze Seite, später Produktauftritt.
+- **Garantie:** „30 Nächte Probe schlafen. Kein Risiko. Wenn der Nebel nicht lichtet, kostenlose Rückgabe.“
 
 ##### 13. us_advert_neckpain_r4 – 31 Ads (0 aktiv) – **heute HTTP 404**
 - `try.pillowdaddy-us.com/advert-neck-therapy-pillow-neck-pain-r-4`: nicht abrufbar; Ad-Titel laut Inventar „The Real Reason Your Neck Pain Keeps Coming Back“. **Lücke.**
@@ -2175,6 +2628,7 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Produkt:** „Therapiekissen“ in der Headline (Wort 9); Fließtext-Einführung über den „Schau mal, was wäre, wenn …“-Satz, Name im Abschnitt „Schmerzlinderung über Nacht – ohne Medikamente, Massagen oder Neurologenbesuche“.
 - **Mechanismus:** „Man nennt das zervikogene Kopfschmerzen – also Kopfschmerzen, die ihren Ursprung in der Halswirbelsäule haben.“ · „Weil die gereizten Nerven in deinem Nacken direkt mit dem Trigeminusnerv verbunden sind – dem Hauptnerv, der für Migräne verantwortlich ist.“ · „… wie ein Gummiband, das acht Stunden lang unter Spannung steht.“ · Einwände: ohne Kissen schlafen („kippt der Kopf oft nach hinten“), zwei Kissen stapeln. Gegner: Triptane, „jeder Neurologe“.
 - **Beweise/Angebot/Garantie/Übergang:** wie advert-2 („€59,54, anstatt €99,23“, 30 Nächte, „4-5 Tage Versand“, 23.328, Reviews), 9× „Jetzt 40% Rabatt sichern“.
+- **Knappheit:** T2-Standardblock („Das Kissen könnte morgen ausverkauft sein oder schon heute...“, „Wenn du diesen Artikel liest, bedeutet das wahrscheinlich, dass wir noch ein paar Kissen auf Lager haben.“) + Update-Box „Bereits 3x mal ausverkauft - jetzt wieder auf Lager!“. **Übergang:** 7× Button + 2 Textlinks „offizielle Webseite“ → `/das-nacken-therapiekissen-headache`.
 
 ##### 18. us_news_dementia_a391 – 14 Ads (0 aktiv), The Daily Health
 - **URL:** `try.pillowdaddy-us.com/advert-snoring-a391` → PDP `/neck-therapy-pillow-snoring-a391`.
@@ -2186,6 +2640,7 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Mechanismus/Beweise:** wie DE (Schlafapnoe = Haltungsproblem), US-Preise: „A premium CPAP, $1,200 out of my own pocket.“, „A dental mouthpiece, $350.“ · „I spent $1,550 on a machine and a mouthpiece, and nobody ever looked at my neck.“ · „The pillow cost me about $60.“
 - **Angebot/Knappheit/Garantie:** „Under $60 after 40% off, plus shipping | 60-night trial | Full refund if it doesn't work for you“ (DE-Fassung: 30 Nächte) · „IMPORTANT WARNING: FAKES ON AMAZON“. 2 CTA-Links.
 - **Unterschied zu DE:** Alter 59, US-Kosten, Garantie 60 statt 30 Nächte, US-Entwicklung „German engineering team“ statt „deutscher Chiropraktiker / Österreich“.
+- **Übergang:** 2 Textlinks am Ende (Produktbox + Schluss) direkt zur PDP `/neck-therapy-pillow-snoring-a391` (kein `#next-step`).
 
 ##### 19. de_listicle_schlaf_angst – 13 Ads (0 aktiv), nur Claudia Reichardt
 - **URL:** `shop.pillowdaddy.de/listicle-das-schlaftherapie-kissen-anxiety` → PDP `/das-schlaftherapie-kissen-anxiety` (Produkt Schlaftherapie Kissen = Körper-/Umarmungskissen).
@@ -2199,6 +2654,7 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Beweise:** „über 23.328 Menschen in Deutschland, Österreich und der Schweiz“, „100% natürlich und frei von jeglichen Nebenwirkungen“, 3–4 Reviews (2024).
 - **Angebot/Knappheit/Garantie:** kein Preis; „Jetzt 40% Rabatt sichern“ ×3; Update „Bereits 3x mal ausverkauft“; „30-tägige Zufriedenheitsgarantie …, solange der Vorrat reicht“.
 - **Bauplan-relevant:** einziges Beispiel für **psychischen Angle (Angst/Schlaflosigkeit)** + Gewichts-/Umarmungsmechanismus – nah an unserem Wechseljahre-/Schlafqualitäts-Angle.
+- **Übergang:** 3× „Jetzt 40% Rabatt sichern“ (`#next-step`) nach Grund 10, nach den Reviews und in der Update-Box → Angst-PDP (Hero „Wälzt du dich stundenlang im Bett …“); Fazit „Die Lösung für Schlafstörungen - keine schlaflosen Nächte mehr!“.
 
 ##### 20. de_test_5kissen – 11 Ads (0 aktiv), Gesund Leben Journal
 - **URL:** `shop.pillowdaddy.de/nackenkissen-test-v2-google` → PDP `/das-nacken-therapiekissen-v2-google`.
@@ -2240,6 +2696,7 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Angebot – widersprüchlich:** „INTERNET ONLY OFFER! FOR A LIMITED TIME: UP TO 60% OFF + THEY PAY FOR SHIPPING“ / „LIMITED TIME READER-ONLY SPECIAL: … 40% OFF … Limited to first 500 customers only.“ / danach kompletter Dr.-John-Block („The Price that's Causing Pillow Industry Panic“, „I'm releasing 9,000 units“, „This 40% discount dies in 72 hours.“). **Copy-Paste-Bruch:** „Remember those cease and desist letters I mentioned?“ – in dieser Story nie erwähnt; Erzählerin wechselt von Jessica zu „I“ = Dr. John.
 - **Garantie/Übergang:** „The Neck Therapy Pillow comes with a 60-Night guarantee.“ + „My Personal 60-Day … Guarantee“; 6× „CHECK AVAILABILITY NOW“.
 - **Bauplan-relevant:** **Tochter-erklärt-Mutter-Story** (67-jährige Mutter, Tochter Krankenschwester, Kauf „I Ordered Two Before We Left Salt Lake City“) = direkte Vorlage für unseren Angle D (Tochter/Mutter).
+- **Knappheit:** „Limited to first 500 customers only.“, „while current promotional inventory lasts“, „I'm releasing 9,000 units for our limited summer sale“, „This 40% discount dies in 72 hours.“ (widersprüchliche Mengen-/Zeitgrenzen auf einer Seite).
 
 ##### 24. us_advert_neckpain4_7pillows – 6 Ads (0 aktiv), The Daily Health
 - **URL:** `try.pillowdaddy-us.com/advert-neck-pain-4` → PDP `/neck-therapy-pillow-neck-pain-4`.
@@ -2251,6 +2708,7 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Mechanismus:** Ausschluss realer Marken mit Preisen: „I tried a $179 Purple pillow …“, „A $139 Casper pillow …“, „A $150+ Tempur-Pedic contour pillow …“, „An $85 Coop adjustable pillow …“, „a $70 hotel-style down pillow that felt great at first, then flattened by 2 AM.“ → „The Neck Therapy Pillow has built-in shoulder cutouts, so my shoulder isn’t fighting for space all night.“ · „3. It Supports My Neck, Not Just My Head“ · „6. My Head Didn't Feel Tilted on My Side“.
 - **Beweise:** nur eigene Erfahrung; keine Reviews, keine Zahlen außer Wettbewerberpreisen.
 - **Angebot/Knappheit/Garantie:** kein Preis; „I was skeptical too. But with a 60-night guarantee, there's nothing to lose.“; Update „Already sold out 3 times - back in stock now!“ (+ „30-day satisfaction guarantee“ im selben Kasten), „Fast 4-5 Day Shipping“; 6× „CHECK AVAILABILITY NOW“.
+- **Übergang:** 2× „CHECK AVAILABILITY NOW“ + 4 Inline-Links im Fließtext („See the pillow I finally kept“, „See the shoulder-relief design“, „See how the 3-Zone Support System works“, „See the pillow that doesn’t need constant adjusting“) → alle direkt `/neck-therapy-pillow-neck-pain-4`.
 
 ##### 25. de_advert6_schwindel_t2_usdomain – 3 Ads (Claudia-Reichardt-Test 28.04.–04.05.2026) – **heute HTTP 404**
 - `try.pillowdaddy-us.com/advert-6-das-nacken-therapiekissen-schwindel-t-2`: nicht abrufbar; vermutlich Kopie von advert-6 auf der US-Domain. **Lücke.**
@@ -2269,6 +2727,8 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Beweise:** „jeweils 30 Nächte, drei Tester“, „Nach 150 Testnächten“, „4,8 von 5 Sternen aus 2.916 verifizierten Bewertungen“, Abschnitt „Und was ist mit den Kissen aus der Werbung?“.
 - **Angebot:** **einzige Testseite mit Preis im Text:** „Heute nur 59,54€ – Du sparst 54,69€ · Preis gilt solange der Vorrat reicht → Jetzt Angebot sichern“; Tabelle „PillowDaddy Nacken Therapiekissen 🏆 A++ 59,54€“; „Versand aus Deutschland in 3 bis 5 Tagen“.
 - **Bauplan-relevant:** Bauarten-Vergleich (statt Marken-Bashing) ist rechtlich sauberer und auf unser Produkt (Decke ohne Bezug vs. Daune/Faser/Bezug) übertragbar.
+- **Garantie/Knappheit:** „60 Nächte Geld-zurück-Garantie, ohne Rücksendekosten-Falle“, „Probiere das Nacken Therapiekissen 60 Nächte risikofrei aus, zum aktuell besten Preis.“ · „Häufig ausverkauft“, „Preis gilt solange der Vorrat reicht“; „40% Rabatt + Gratis E-Book · Versand in 3-5 Tagen“.
+- **Übergang (Befund):** 7 CTA-Texte („Testsieger sichern · 59,54€ statt 99,23€“, „→ 40% Rabatt sichern (59,54€ statt 99,23€)“, „→ Testsieger für 59,54€ sichern“ …) verlinken **alle auf `https://netiverysharble.com/click`** – eine Tracking-/Weiterleitungsdomain (Klick-Tracker vor dem Shop); Ziel-PDP daher nicht statisch bestimmbar.
 
 ##### 28. de_advert5_ischias – 0 Ads im Fenster (+37 vorher, GLJ)
 - **URL:** `shop.pillowdaddy.de/advert-5-das-schlaftherapie-kissen-1` → PDP `/das-schlaftherapie-kissen-1-5`.
@@ -2278,6 +2738,9 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Produkt:** nach **608 Wörtern**.
 - **Mechanismus:** Fluss-/Damm-Metapher: „Wusstest du, dass deine Schlafposition den Unterschied zwischen einem geschmeidig fließenden Fluss und einem gestauten Damm sein kann?“ · „Wenn du auf der Seite schläfst, ohne die richtige Unterstützung, verkrümmt sich deine Wirbelsäule – wie ein Fluss, der ins Stocken gerät …“.
 - **Angebot:** „Das heißt, du zahlst nur €74,54, anstatt €139,23!“ (Anker „über 139,23€“) · Garantie „60-Nächte“ im Text, aber Icon „30 Tage Geld-Zurück-Garantie“ und „59 Minuten oder 59 Tage“ · „4-5 Tage Versand“.
+- **Beweise:** „über 23.328+ zufriedene KundInnen“, Selbstvorstellung „9.000+ Stunden … 1.200+ Menschen“, 2 Review-Karten („Verifizierte Käuferin“, 2024); keine Studie.
+- **Knappheit:** T2-Standardblock + Update „Bereits 3x mal ausverkauft“.
+- **Übergang:** 7× „Jetzt 40% Rabatt sichern“ (`#next-step`) + 2 Textlinks „offizielle Webseite“ → `/das-schlaftherapie-kissen-1-5`.
 
 ##### 29. de_advert7_ischias_story – 0 Ads gefunden (Seite live)
 - **URL:** `shop.pillowdaddy.de/advert-7-das-schlaftherapie-kissen-1` → PDP `/das-schlaftherapie-kissen-1-7`.
@@ -2288,6 +2751,10 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Produkt:** nach **~1.100 Wörtern** (Skript: erster Produktname „Schlaftherapie Kissen“).
 - **Angebot/Garantie:** „Das heißt, du zahlst nur €74,54, anstatt €124,23!“, „33 Cent“ pro Nacht, 30 Nächte + „30 Tage Geld-Zurück-Garantie“, „1-3 Tage Versand“.
 - **Bauplan-relevant:** Familien-/Hilflosigkeits-Motiv und „Operation vermieden“ als Ergebnis-Headline.
+- **Mechanismus:** „Um Ischiasschmerzen zu heilen, muss der Druck auf den Ischiasnerv, der durch die verdrehte Schlafhaltung entsteht, gezielt reduziert werden.“ · Abschnitt „Den Druck auf die Bandscheiben verringern“: „… die Wirbelsäule während des Schlafs in ihre natürliche, neutrale Position zu bringen. / Nur so kann der übermäßige Druck auf Bandscheiben und Nervenfasern reduziert werden.“ · Produkt richtet „Wirbelsäule, Hüfte und Knie“ neutral aus.
+- **Beweise:** die Patientinnen-Story selbst, Arzt-Zitat „Es besteht keine Notwendigkeit für eine Hüftoperation!“ (Zwischenüberschrift), „mehr als 23.328 Deutsche“, 2 Reviews (2024).
+- **Knappheit:** T2-Standardblock („Das Kissen könnte morgen ausverkauft sein …“), Update-Box (statisches Datum 02.04.2025).
+- **Übergang:** 7× „Jetzt 40% Rabatt sichern“ + 2 Textlinks „offizielle Webseite“ – die Textlinks zeigen auf `/das-schlaftherapie-kissen-1-5` (nicht auf die eigene PDP `-1-7`).
 
 ##### 30. de_advert1_sitz – 0 Ads im Fenster (+16 vorher), anderes Produkt
 - **URL:** `shop.pillowdaddy.de/advert-1-sitz-therapie-kissen` → PDP `/das-sitz-therapie-kissen`.
@@ -2298,6 +2765,9 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Mechanismus:** „Wenn du auf einem normalen Stuhl sitzt, ohne die richtige Unterstützung, dann kippt dein Becken nach hinten und deine Lendenwirbelsäule verkrümmt sich – wie ein Fundament, das absackt und das ganze Haus schief zieht.“ · Domino-Kette wie advert-2.
 - **Angebot/Garantie:** „€59,54, anstatt €99,23“, „Du hast 30-Tage Zeit …“, „4-5 Tage Versand“. **Copy-Rest:** „Viele meiner PatientInnen berichten von schneller Erleichterung durch das Nacken Therapiekissen …“ und „Sitztherapie Kisse“ (Tippfehler).
 - **Bedeutung:** zeigt, dass das T2-Template 1:1 auf ein anderes Produkt umgeschrieben wird (Sitz statt Schlaf: „Tag 1/Tag 7 …“ statt „Nacht 1 …“).
+- **Beweise:** „23.328 Deutsche“ (für das Sitztherapie Kissen übernommen), Selbstvorstellung „9.000+ Stunden … 1.200+ Menschen“, 2 Review-Karten; keine Studie.
+- **Knappheit:** T2-Standardblock + Update „Bereits 3x mal ausverkauft“.
+- **Übergang:** 7× „Jetzt 40% Rabatt sichern“ + 2 Textlinks → `/das-sitz-therapie-kissen`.
 
 ##### 31. us_advert_neckpain2_blogger – 0 Ads gefunden (Seite live)
 - **URL:** `try.pillowdaddy-us.com/advert-neck-pain-2` → PDP `/neck-therapy-pillow-neck-pain-2`.
@@ -2308,6 +2778,7 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Mechanismus:** „Most traditional pillows only support your head.“ · Zonen „ZONE 1 — HEAD CRADLE / ZONE 2 — NECK RESTORATION / ZONE 3 — SHOULDER RELIEF“ · weiche Claims („cervical support principles studied in sleep and neck-pillow research“).
 - **Beweise:** „75% of people are experiencing neck pain due to their sleeping position“ (ohne Quelle), Vergleichstabelle „Here's How They Compared“ (Neck Therapy Pillow vs. „THERAPILLOW“ u. a.), FAQ „The Questions I Had Before Clicking "Buy Now"“.
 - **Angebot/Knappheit/Garantie:** kein Preis, keine Knappheit, 1× „CHECK AVAILABILITY NOW“ – zurückhaltendste US-Seite („I’ll be honest.“-Ton).
+- **Übergang:** einziger Button „CHECK AVAILABILITY NOW“ nach der Vergleichstabelle → PDP `/neck-therapy-pillow-neck-pain-2`.
 
 ##### 32. us_advert_neckpain_warning – 0 Ads im Fenster gefunden (Seite live, „published on December 3, 2025“)
 - **URL:** `try.pillowdaddy-us.com/advert-neck-therapy-pillow-neck-pain` → PDP `/neck-therapy-pillow-neck-pain` (ältere US-PDP).
@@ -2319,6 +2790,9 @@ Gemeinsam für (fast) alle Funnelish-Seiten T1/T2/T3/T6/T7: dunkle Kopfleiste �
 - **Angebot/Garantie:** „That means you only pay $59.54 instead of $99.23!“ (DE-Preispunkt in $), „YOU HAVE 30 NIGHTS TO TEST THE PILLOW COMPLETELY RISK-FREE!“, „Fast 6-9 Day Shipping“; Copy-Reste „189,000+ People from Germany, Austria and Switzerland“, Tippfehler „REAL PEOPLE, REAL RELIEFE“.
 
 ---
+- **Beweise:** „189,000+ People from Germany, Austria and Switzerland“, „4.8/5 | 5,832+ Ratings“, 3 Review-Karten „Verified Buyer“, „hundreds of reviews“ auf der offiziellen Webseite; keine Studie.
+- **Knappheit:** T2-Standardblock („The pillow could be sold out tomorrow …“) + Update-Box.
+- **Übergang:** 7× „GET 40% OFF Neck Therapy Pillow Now!“ (`#next-step`) + 2 Textlinks „official website“ → `/neck-therapy-pillow-neck-pain`.
 
 ##### Querschnitt: Muster über alle Native-Seiten (für den Bauplan)
 - **Produkt-Einführung:** Long-Form-Experten-Advertorials (T1/T2/T3) nennen den Produktnamen erst nach **~600–1.900 Wörtern** (16–49 % des Artikels); Kurz-Listicles (T6) und Tests (T5) nach **10–380 Wörtern**; Patientenberichte (T4) nach **~1.100–1.500 Wörtern** (64 %).
@@ -3175,7 +3649,7 @@ Stand 08.10.2026, Agent 2. Quelle: Playwright-Rendering **Mobile 390 px / iPhone
 - **Meta-Description:** „Wir testen die besten Schlafprodukte — damit du es nicht musst.“
 - **Zeilen vor der Headline (Kopfleiste):** „ANZEIGE · Werblicher Inhalt (Advertorial). Dieser Beitrag enthält bezahlte Werbu“ · „SchlafBerater.de“ · „Wir testen die besten Schlafprodukte — damit du es nicht musst.“ (32 Wörter)
 - **Headline (h1):** „Die besten Nackenkissen im Test 2026: Welches hält wirklich, was es verspricht?“
-- **Subheadline (Zeile(n) direkt danach):** –
+- **Subheadline (Zeile(n) direkt danach):** – (keine eigene Subheadline; Fließtext/Byline folgt direkt)
 - **Autor-/Datumszeilen:** „Von Lisa Hartmann \| Aktualisiert: Juni 2026“
 - **Länge:** 1893 Wörter sichtbar gesamt; Artikel (Headline→Footer) 1854; Footer 7; Seitenhöhe Mobile 17598 px; 6 Bilder ≥150 px, 0 Videos
 - **Erste Produktnennung** („Therapiekissen“) nach **170 Wörtern** ab Headline (9 % des Artikels), Abschnitt „(Kopfbereich: Headline/Sub/Autor)“: „Nacken Therapiekissen von PillowDaddy“
@@ -3238,7 +3712,7 @@ Stand 08.10.2026, Agent 2. Quelle: Playwright-Rendering **Mobile 390 px / iPhone
 - **Meta-Description:** „Wir testen die besten Schlafprodukte — damit du es nicht musst.“
 - **Zeilen vor der Headline (Kopfleiste):** „SchlafBerater.de“ · „Wir testen die besten Schlafprodukte — damit du es nicht musst.“ · „Adevtorial“ (12 Wörter)
 - **Headline (h1):** „Die besten Nackenkissen im Test 2026: Welches hält wirklich, was es verspricht?“
-- **Subheadline (Zeile(n) direkt danach):** –
+- **Subheadline (Zeile(n) direkt danach):** – (keine eigene Subheadline; Fließtext/Byline folgt direkt)
 - **Autor-/Datumszeilen:** „Von Lisa Hartmann \| Aktualisiert: Juni 2026“
 - **Länge:** 1849 Wörter sichtbar gesamt; Artikel (Headline→Footer) 1834; Footer 3; Seitenhöhe Mobile 17308 px; 6 Bilder ≥150 px, 0 Videos
 - **Erste Produktnennung** („Therapiekissen“) nach **170 Wörtern** ab Headline (9 % des Artikels), Abschnitt „(Kopfbereich: Headline/Sub/Autor)“: „Nacken Therapiekissen von PillowDaddy“
@@ -3301,7 +3775,7 @@ Stand 08.10.2026, Agent 2. Quelle: Playwright-Rendering **Mobile 390 px / iPhone
 - **Meta-Description:** „Wir testen die besten Schlafprodukte — damit du es nicht musst.“
 - **Zeilen vor der Headline (Kopfleiste):** „ANZEIGE · Werblicher Inhalt (Advertorial). Dieser Beitrag enthält bezahlte Werbu“ · „SchlafBerater.de“ · „Wir testen die besten Schlafprodukte — damit du es nicht musst.“ (32 Wörter)
 - **Headline (h1):** „Die besten Nackenkissen im Test 2026: Welches hält wirklich, was es verspricht?“
-- **Subheadline (Zeile(n) direkt danach):** –
+- **Subheadline (Zeile(n) direkt danach):** – (keine eigene Subheadline; Fließtext/Byline folgt direkt)
 - **Autor-/Datumszeilen:** „Von Lisa Hartmann \| Aktualisiert: Juni 2026“
 - **Länge:** 1836 Wörter sichtbar gesamt; Artikel (Headline→Footer) 1797; Footer 7; Seitenhöhe Mobile 13422 px; 6 Bilder ≥150 px, 0 Videos
 - **Erste Produktnennung** („PillowDaddy“) nach **169 Wörtern** ab Headline (9 % des Artikels), Abschnitt „PillowDaddy Nacken-Therapiekissen“: „PillowDaddy Nacken-Therapiekissen“
@@ -4102,7 +4576,7 @@ Stand 08.10.2026, Agent 2. Quelle: Playwright-Rendering **Mobile 390 px / iPhone
 - **Browser-Titel:** „Scottsdale Woman, 67, Discovers What ICU Nurses Are Calling The Fastest Way To Fix Neck Pain For Sid“
 - **Zeilen vor der Headline (Kopfleiste):** „Advertorial“ · „Trending in the US“ (5 Wörter)
 - **Headline (fett (p)):** „Scottsdale Woman, 67, Discovers What ICU Nurses Are Calling The Fastest Way To Fix Neck Pain For Side Sleepers“
-- **Subheadline (Zeile(n) direkt danach):** –
+- **Subheadline (Zeile(n) direkt danach):** – (keine eigene Subheadline; Fließtext/Byline folgt direkt)
 - **Autor-/Datumszeilen:** „Mon, September 14th, 2026 \| 10:54 am EST - 84,498 Views“ · „By Jessica Callaway“
 - **Länge:** 3609 Wörter sichtbar gesamt; Artikel (Headline→Footer) 3387; Footer 217; Seitenhöhe Mobile 33981 px; 26 Bilder ≥150 px, 5 Videos
 - **Erste Produktnennung** („Neck Therapy“) nach **487 Wörtern** ab Headline (14 % des Artikels), Abschnitt „The Discovery“: „“Neck Therapy Pillow.”“
@@ -4240,7 +4714,7 @@ Stand 08.10.2026, Agent 2. Quelle: Playwright-Rendering **Mobile 390 px / iPhone
 - **Meta-Description:** „Wir testen die besten Schlafprodukte — damit du es nicht musst.“
 - **Zeilen vor der Headline (Kopfleiste):** „SchlafBerater.de“ · „Wir testen die besten Schlafprodukte — damit du es nicht musst.“ (11 Wörter)
 - **Headline (h1):** „Kissen im Test 2026: Wir haben alle 5 Bauarten je 30 Nächte getestet. Die beliebteste fiel durch.“
-- **Subheadline (Zeile(n) direkt danach):** –
+- **Subheadline (Zeile(n) direkt danach):** – (keine eigene Subheadline; Fließtext/Byline folgt direkt)
 - **Autor-/Datumszeilen:** „Von Lisa Hartmann \| Aktualisiert: Juni 2026“
 - **Länge:** 3020 Wörter sichtbar gesamt; Artikel (Headline→Footer) 2996; Footer 13; Seitenhöhe Mobile 24635 px; 6 Bilder ≥150 px, 0 Videos
 - **Erste Produktnennung** („Therapiekissen“) nach **835 Wörtern** ab Headline (28 % des Artikels), Abschnitt „Platz 1 im Test“: „Nacken Therapiekissen von PillowDaddy“
@@ -4849,6 +5323,17 @@ Stand 08.10.2026, Agent 2. Quelle: Playwright-Rendering **Mobile 390 px / iPhone
 - Debido a su popularidad y reseñas positivas, la empresa está tan convencida de su producto que ahora ofrece una garantía de satisfacción de 60 días mientras haya unidades disponibles.
 - … (+5 weitere in `lp_struktur_alle.json`)
 
+##### C. Nicht gerenderte Native-Gruppen (heute HTTP 404, Inhalt nicht abrufbar)
+| Gruppe | URL | Ads im Fenster (aktiv) | Bekannter Ad-Titel (Inventar) |
+|---|---|---|---|
+| us_advert_headaches_r1 | try.pillowdaddy-us.com/advert-neck-therapy-pillow-headaches-r-1 | 110 (0) | „Why Your Morning Headaches Keep Coming Back (The Real Cause Will Shock You)“ |
+| us_advert_neckpain_r4 | try.pillowdaddy-us.com/advert-neck-therapy-pillow-neck-pain-r-4 | 31 (0) | „The Real Reason Your Neck Pain Keeps Coming Back“ |
+| us_advert_neckpain_r1 | try.pillowdaddy-us.com/advert-neck-therapy-pillow-neck-pain-r-1 | 8 (0) | – |
+| de_advert6_schwindel_t2_usdomain | try.pillowdaddy-us.com/advert-6-das-nacken-therapiekissen-schwindel-t-2 | 3 (0) | – |
+| us_advert_antisnoring | try.pillowdaddy-us.com/advert-1-anti-snoring-therapy-pillow | 1 (0) | – |
+
+Geprüft am 08.10.2026 per curl + Playwright (404); Wayback-API antwortete mit HTTP 429. Bereits fertig zerlegt (eigene Dateien, hier nicht wiederholt): `lp_de_advert6_schwindel.md`, `lp_de_advert7_tinnitus.md`. Qualitative Einordnung aller Seiten: `lp_analysen_alle.md`; PDPs: `pdp_uebersicht.md`.
+
 ### 3.4 Tiefenzerlegungen der zwei größten DE-Advertorials
 
 Vollständige Zerlegungen inkl. Seitentext: [`lp_de_advert6_schwindel.md`](Natives_PillowDaddy_Anhang/a2/lp_de_advert6_schwindel.md), [`lp_de_advert7_tinnitus.md`](Natives_PillowDaddy_Anhang/a2/lp_de_advert7_tinnitus.md).
@@ -5418,6 +5903,8 @@ Stand 08.10.2026, Agent 2. Quelle: statisches HTML (curl) der Produktseiten (`$N
 - **Knappheit Checkout:** „LAGERRÄUMUNG - JETZT LIVE!“ bzw. „SOMMER ANGEBOT“, Warenkorb-Timer („dein Warenkorb für 09:33 reserviert“), statischer Zähler „Nur mehr 37 Kissen verfügbar“ (DE). PDPs selbst: Topbar „LAGERRÄUMUNG - Jetzt 40% sparen!“ / „Winter Clearance Sale | 40% OFF Today!“ / „SOMMER ANGEBOT“; kein Countdown auf PDPs.
 - **Garantie-Widersprüche:** PDPs nennen 30 **oder** 60 Nächte (Basis-PDP -2: 30; -1/-6-schwindel: 60), FAQ sagt teils „risikofrei 30 Tage testen“, Checkout-Button „30 Tage Geld-Zurück-Garantie“.
 - **Fehlend:** Checkout zu `das-schlaftherapie-kissen-1-8` = 404; UK-Checkout (zifarra.com) nicht abgerufen. Textlinks „official website“ auf US-dizziness r-1/r-2 zeigen auf `/neck-therapy-pillow-dizziness` = **404** (nur die `#next-step`-Buttons führen zur PDP `-r-1`).
+- **`das-schlaftherapie-kissen-1-7` (Checkout älteres JSON-Format ohne `displayPrice`, daher in Tabelle B „0 Pakete“):** Pakete laut `price`-Feld: „1 x Schlaftherapie Kissen“ 74,54 · „2 x Schlaftherapie Kissen“ 134,00 · „3 x Schlaftherapie Kissen“ 190,08 · „Schlaftherapie Kissen + Ersatzbezug aus Baumwolle“ 109,44 · „Schlaftherapie Kissen + gratis Ersatzbezug aus Baumwolle“ 89,54; Bumps „Ersatzbezug aus Baumwolle“ 34,90, „Rundum-Paketschutz“ 3,87, „Express Versand“ 5,99, „1 Jahr Qualitäts-Garantie“ 9,90 (Streichpreise/Vorauswahl nicht im HTML).
+- Auffällig: US-Checkouts zeigen Streichpreise teils mit **€-Zeichen** („Reg €99.98 $59.99“) – Copy-Rest aus DE; PDP `-v2-google` nennt in der Angebotsbox 59,54 €, ihr Checkout aber 59,99 €.
 
 ### 3.6 Landingpage-Inventar
 
@@ -5616,6 +6103,419 @@ Vor-Fenster-Zahlen sind unvollständig: Für US-Personas und Claudia Reichardt/D
 
 8 Marken vertieft (je 3 stärkste Native-/Story-Ads mit Volltext bzw. Transkript und Landingpage-Typ). Suchprotokolle und weitere Kandidaten: [`sweep_gethooked_native.md`](Natives_PillowDaddy_Anhang/a3/sweep_gethooked_native.md), [`sweep_gethooked_hooks.md`](Natives_PillowDaddy_Anhang/a3/sweep_gethooked_hooks.md), [`sweep_web.md`](Natives_PillowDaddy_Anhang/a3/sweep_web.md).
 
+#### Native-Vorbilder: Übersicht und Muster-Katalog (Synthese Agent 3)
+
+Stand: 08.10.2026. Synthese aus den 8 Marken-Deep-Dives `a3/brand_*.md` sowie den Sweeps `a3/sweep_gethooked_native.md`, `a3/sweep_gethooked_hooks.md` und `a3/sweep_web.md`. Zitate stehen wörtlich in der Originalsprache und sind aus den brand-Dateien übernommen. Links sind GetHookd-`share_url`s oder echte LP-URLs. Volltexte, Transkripte, LP-Zerlegungen und Lücken stehen jeweils in der genannten brand-Datei.
+
+Kontext (aus `KONVENTIONEN.md`): Wir verkaufen **Decken ohne Bezug** in **UK**. Unsere Angles sind **A Hygiene**, **B Wechseljahre**, **C Beziehen** und **D Tochter kauft für Mutter**.
+
+**Wichtige Einschränkung:** Spend-Daten (EU-Transparenz) gibt es nur für MagicSplashy (DE/AT). Alle anderen Marken laufen in den USA oder ohne Spend-Bucket in UK. Ihre Stärke ist deshalb nur über Laufzeit, GetHookd-Performance-Score („Winning", „Optimized" …) und Zahl der Varianten belegt.
+
+##### 0. Kernbefunde (Kurzfassung)
+
+1. **Alle 8 Marken sind echte Native-Player**, Cosy House nur teilweise. Es gibt drei Systeme: (a) **Persona- und Publisher-Netze**, die auf eine einzige Native-LP zeigen (Plufl mit 17 Seiten, Miracle mit 10 eigenen Seiten plus dem Granny-Blog-Netz, Eight Sleep mit 6 Seiten, UVlizer mit 3 bis 6 Seiten, TrueClean mit 3 Seiten, Rest mit 1 Magazin-Seite). (b) **Marken-eigene redaktionelle `/pages/`** ohne Fremdseiten (MagicSplashy, Cosy House). (c) **Story allein im Ad-Text bei LP = PDP** (Rest, Miracle Offline Granny).
+2. **Die längsten Läufer sind Teaser oder lange Ich-Storys mit einer Native-LP:** UVlizer „(MUST READ)"-Advertorial 497 T in UK, Plufl-Creator-Ich-Story 309 T, UVlizer „Read if you wake up … 👆" bis 246 T, Rest-Creator-Wechseljahre-Video 278 T.
+3. **In Story-Natives fällt das Produkt spät:** Rest-Hotel-Story nach 794 Wörtern, Miracle Offline Granny nach 590, Granny Blog nach 2.360, TrueClean-Ich-Story nach 534. **In Listicles fällt es früh:** Cosy nach ca. 37 Wörtern, Plufl-Advertorial nach ca. 38, UVlizer-Listicle in der H1.
+4. **Wechseljahre werden in den stärksten B-Storys nicht beim Namen genannt** (Offline Granny, Rest: „before I turned 40-something… for reasons I've mostly stopped trying to diagnose"). Das ist zugleich ASA-sicherer.
+5. **Zu Angle D gibt es nur Bausteine** (Titel-Rahmung, Testimonials, Nebenfiguren). Ein vollständiges Advertorial aus Sicht der Tochter hat keine der 8 Marken. Das ist die größte Lücke und damit unsere Chance.
+6. **Angle C hat genau ein belegtes Vorbild mit unserem Produkt:** MagicSplashy (Decke + Bezug in einem). Dort hat im Hook-Test der Beziehen-Hook (C) den meisten Spend bekommen.
+
+---
+
+##### 1. Die 8 Marken im Überblick
+
+| Marke (Datei) | Kategorie / Produkt | Markt | Verifizierter Native-Player? (Persona-/Magazin-Seiten) | Native-Formate | LP-Typen | Stärkste Ad (Link · Laufzeit · Hook wörtlich) |
+|---|---|---|---|---|---|---|
+| **MagicSplashy „EasySleep"** (`brand_magicsplashy.md`) · Score 10/10 | Decke + Bezug in einem (= **unser Produkt**) | DE/AT, Deutsch | **ja, eingeschränkt.** Nur die eigene Markenseite (brand 88310), keine Personas. Die Natives laufen über eigene `/pages/`. | UGC-Ich-Story-Video, Problem-Agitation-Voiceover mit Fallgeschichten, Zitat-Bild, Kundenumfrage-Advertorial, Redakteur-Ich-Story-Advertorial, Wechseljahre-Listicle, Presell | Presell/Sales-Letter, Umfrage-Advertorial (10 Punkte), Ich-Story-Advertorial (10 Punkte), Listicle „7 Gründe", Presell-Bridge, PDP | [126012757](https://app.gethookd.ai/share/ad/126012757?signature=4aa5cf75157a813c3daede61927240a452d4bf09046a0feee9ae288bd457658f) · 83 T aktiv · **$10.001–20.000, Winning** · „Ich habe die Easy-Sleep-Decke bestellt, weil ich einfach keinen Bock mehr hatte, jede Woche mit der Bettwäsche zu kämpfen." |
+| **UVlizer / Clairu** (`brand_uvlizer-clairu.md`) · 9/10 | Milben-Ionisator (Allergie/Hygiene) | **UK (GB)**, Englisch | **ja.** DetoxSpa UK (70309), Families vs. Dust Mites (197491), By Clairu (126532), dazu 3 weitere Seiten auf der Domain. Persona-Autorin „By Lisa Morgan, Retired Nurse", Pseudo-Testmagazin „Consumer Lifestyle Reports" | Teaser-Bild → Advertorial, lange Ich-Story-Bildanzeigen (7.500–8.500 Zeichen), Insider-/Whistleblower-Video, Skeptiker-Review, Du-Video | Advertorial, Listicle „10 Reasons", Einwand-Listicle im Pseudo-Test, Story-Salespage, PDP | [80269727](https://app.gethookd.ai/share/ad/80269727?signature=275f24a45e105ebc7d27ead2e15742ba603a98d219aec0dcc4a0d7580466ec2c) · 489 T aktiv (Cluster bis **497 T**, ≥ 14 IDs) · Titel „Eliminates Dust Mites In Your Home? (MUST READ)" · Text „Do You Have Dust Mites in Your House? Try This Simple Solution." |
+| **Plufl „Hugl"** (`brand_plufl.md`) · 9/10 | Kühl-Körperkissen | US, Englisch | **ja.** 17 Seiten auf einer Domain: Creator-/Persona-Seiten (Perfectly Kelsey, Noah S., Hannah Houg, Gen X Jess, Yuki K., Shay …) → **ein** Advertorial | Creator-UGC-Ich-Story, Kommentar-Antwort-Video, Gründer-Story, Kosten-Vorher/Nachher, Magazin-Advertorial für Frauen 45+ | Advertorial (Magazin-Stil), Listicle „10 Reasons…", PDP | [121399208](https://app.gethookd.ai/share/ad/121399208?signature=a7525a95abd29dcb4a1de055c7ca72296aaa71af4bd20a5eb1f544e781a7eff9) · **309 T aktiv**, Optimized · „Watch me cut my sleep expenses in half." |
+| **Miracle Made** (`brand_miraclemade.md`) · 9/10 (Sweep) | Silber-Bettwäsche (Hygiene/Schwitzen) | US, Englisch | **ja.** Eigenes Netz aus 10 Persona-/Magazin-Seiten (Sarah Thompson, The Savvy Neighbor, Offline Granny, Bedroom Insider, The Daily Comfort Guide, Healthy Living, Chelsea Turano …) plus Affiliate-Netz **The Granny Blog** (8 Personas, ca. 2.394 aktive Ads) | Persona-Ich-Posts (Insider-Knappheit, Recherche-Ich), lange Ich-Storys (Ehemann-Geständnis, Nachtschweiß), Facebook-Album-Collagen, Fake-Magazin-Advertorial | Listicle „6 Reasons…" (mit Advertorial-Disclaimer), Fake-Magazin-Advertorial, PDP/Sales | [152620723](https://app.gethookd.ai/share/ad/152620723?signature=845a8d91362e718406965af22357efa08b72211e6fbd577694c47cd0d13cffc3) · 102 T aktiv · **Winning**, 6 Varianten · „My neighbor works in logistics and she told me something crazy - apparently Miracle Made had to halt all their sheet sales last month because of some tariff issues, and EVERYTHING sold out within days." |
+| **TrueClean / The Natural Household – CaptureCards** (`brand_trueclean.md`) · 9/10 (Sweep) | Milbenfalle für die Matratze | US, Englisch | **ja.** 3 Seiten mit redaktionell klingenden Namen: The Natural Household, True Clean Home, Clean Home Review. Keine Fake-Magazin-Optik. | Reframe-Native-Bild, lange Ich-Story mit Native-Post-Bild („… Read more"), Zeitstrahl-Video, Native-Text-Bilder | Advertorial-Listicle-Hybrid (ein Template, H1 je Angle getauscht) | [132882997](https://app.gethookd.ai/share/ad/132882997?signature=4a74d8199d2725ff56ae882f8f65eb500764073b358d210fc61c662b79d5a72b) · 106 T aktiv · Optimized (Cluster-Schwester [132882815](https://app.gethookd.ai/share/ad/132882815?signature=e665384ea5092161c4dd3f7d57a09b61befc703179f19ccb140858d0b656fade) Winning) · „You Can't Wash A Mattress. You Can Empty It." / „You wash the sheets in hot water every week. The mattress just refills them." |
+| **Rest – Evercool® Comforter** (`brand_rest.md`) · 8/10 (Sweep) | Kühl-Bettdecke, laut FAQ **ohne Bezug** gedacht (= unsere Gattung) | US, Englisch | **ja, aber schmal.** 1 Persona-Magazin-Seite „Hot Sleeper Journal" (11 Ads) und 4 Creator-Seiten. Die Markenseite fährt fast nur PDP-Werbung. | Lange Persona-Ich-Story (Hotel-Diebstahl), Creator-UGC zu Wechseljahren, Selfie-Testimonial (Partner-Ad) | PDP (alle Ads). Die Wechseljahre-Listicles `/pages/menopause-*` gibt es nur im Web, als Ad-Ziel sind sie nicht belegt. | [30297004](https://app.gethookd.ai/share/ad/30297004?signature=9c76a6aae73a1520cfb85e881230dfdc0c0927e2bcdf2b22f13fdbccfd335bc1) · **278 T** (11.07.2025–14.04.2026) · „Let's talk about sleep for a minute because if you're a woman in menopause like I am," |
+| **Eight Sleep über „The Get Well"** (`brand_eightsleep_thegetwell.md`) · 8/10 | Kühl-Matratzenauflage | US, Englisch | **ja (klassisch).** Publisher The Get Well (8071) und The Suite (6005158), Personas kellysomers, Abby Power, Noah Vale, Jasper Wythe. Eight Sleep wirbt nicht unter eigenem Namen. | Publisher-Advertorial mit Ich-Erzählerin, News-Advertorial, Persona-Ich-Posts ohne Button, Zitatkarte, Reddit-/Tweet-Screenshots | Publisher-Advertorial („Sponsored"), News-Advertorial („In Partnership With") | [150166893](https://app.gethookd.ai/share/ad/150166893?signature=67f736dbfed3d22823db96bd295ed3c1d3a477243aa3a9fb2532f2916ba8ae84) · 52 T laut GetHookd (≥ 46 T bestätigt) · **Winning** · „After months of waking up sweaty while my husband froze under 3 blankets… we found the Pod 5." (längster Läufer der Marke: [152009914](https://app.gethookd.ai/share/ad/152009914?signature=28d4097956aeca49af95701a0ed185cf51238aba2c9babbfb682fc16d713b0bf), 81 T, Winning) |
+| **Cosy House Collection** (`brand_cosyhouse.md`) · 8/10 | Bambus-Bettlaken | US (UK-Domain existiert, im Index sind aber keine UK-Ads), Englisch | **teilweise.** Native-LP-Funnel (Listicles mit Byline „By Tasha F.") und Story-Creatives ja. Persona-/Creator-Seiten gibt es erst seit 05.10. (5 Seiten, alle → PDP). | Insider-Ich-Story-Video, Fake-Negativ-Story-Video, Bild-Ads mit „Summary:"-Advertorial-Snippet in der Linkbeschreibung | Listicle „7 reasons…" in 3 Varianten (cooling / sleep / dust), PDP | [107907821](https://app.gethookd.ai/share/ad/107907821?signature=41ee9a46ed09ae9a529738cbf361f4968aef4e0aa663ba2c13590d3ff5655dae) · **114 T** (16.06.–07.10., am 08.10. neu gestartet) · 12 Varianten · „I was a housekeeper for one of the richest families in Beverly Hills, and their bedsheets would surprise you." |
+
+---
+
+##### 2. Die je 3 stärksten Ads pro Marke
+
+Volltexte, Transkripte, Bildtexte und Varianten stehen in der jeweiligen brand-Datei (Abschnitt „Ad-Raster" bzw. „Anhang").
+
+###### 2.1 MagicSplashy (→ `brand_magicsplashy.md`, Transkripte Anhang A1–A4)
+| Link | Format | Laufzeit / Status | Hook wörtlich | Story-Muster | LP-Typ |
+|---|---|---|---|---|---|
+| [126012757](https://app.gethookd.ai/share/ad/126012757?signature=4aa5cf75157a813c3daede61927240a452d4bf09046a0feee9ae288bd457658f) | Video 57 s, UGC 9:16 | 83 T aktiv · $10.001–20.000 · Winning · Skript-Cluster ≥ 7 IDs (Vorgänger 112079893: 86 T, $5.001–10.000) | gesprochen: „Ich habe die Easy-Sleep-Decke bestellt, weil ich einfach keinen Bock mehr hatte, jede Woche mit der Bettwäsche zu kämpfen." · Overlay „DAS WARS MIT BETTWÄSCHE WECHSELN!" | Ich-Story eines Käufers: Kaufgrund → Mechanismus → Einwand vorwegnehmen („Und nein, das ist keine Faulheit.") → überraschender Zusatznutzen → Angebot | Presell/Sales-Letter `magicsplashy.de/pages/schlafen-im-sommer` |
+| [148248622](https://app.gethookd.ai/share/ad/148248622?signature=84d901c24974a36d3944f48f20a4e49c67491a96f0afc5eac2f108a8698f93ac) | Bild | 53 T aktiv · $2.001–5.000 · Winning · used_count 3 | Bild: „“Ich hab Bettwäsche gestrichen.”" · Text: „Decke + Bezug in einem 🌙" | Kundenzitat als Native-Statement → Umfrage-Advertorial („Kundenbetreuer wertet 2.000 Antworten aus") | Advertorial (Kundenumfrage, 10 Punkte) `/pages/umfrage` |
+| [125662052](https://app.gethookd.ai/share/ad/125662052?signature=afca98f12b6dd400226ecbd2adcf32983adb04f2c06b179d502bd583a5f9a763) (+ Zwilling [129130363](https://app.gethookd.ai/share/ad/129130363?signature=2280883cdc1b06d68811f8455bca14dbebe3878407f4246090cb2afb6c5c467c)) | Video 93 s, Voiceover über UGC-Montage | 84 T bzw. 73 T aktiv · beide $10.001–20.000 · Winning | „Bettbeziehen ist einer der sinnlosesten Zeitfresser im Haushalt. Und trotzdem machst du es jede Woche, bis jetzt." · Overlay „Nie wieder Bettbeziehen ❌" | Problem-Agitation + Mini-Fallgeschichten („Werner ist über 80. Witwer, das Bett alleine machen war immer ein Kraftakt.") + Zeitstrahl + Umdeutung „Das Problem ist nicht deine Bettwäsche, das Problem ist deine Decke." Dazu eine **Hook-Matrix** mit 4 Hooks auf demselben Body. | PDP |
+
+###### 2.2 UVlizer / Clairu (→ `brand_uvlizer-clairu.md`, Volltext 77369475 in Anhang A, Transkripte in Anhang B)
+| Link | Format | Laufzeit / Status | Hook wörtlich | Story-Muster | LP-Typ |
+|---|---|---|---|---|---|
+| [80269727](https://app.gethookd.ai/share/ad/80269727?signature=275f24a45e105ebc7d27ead2e15742ba603a98d219aec0dcc4a0d7580466ec2c) | Bild (Neugier-Motiv: Milbe strickt Socke) | 489 T aktiv · Cluster max. 497 T · ≥ 14 IDs auf 2 Seiten · Optimized | Titel „Eliminates Dust Mites In Your Home? (MUST READ)" · Text „Do You Have Dust Mites in Your House? Try This Simple Solution." · Bild „Most people don't know this trick keeps dust mites away, but did you know...  more" | Neugier-Teaser → Advertorial: Die Expertin („Retired Nurse") erzählt die Geschichte einer Betroffenen (Grandma Carol, 76) | Advertorial `getuvlizer.co.uk/pages/adv-dust-mites` (→ tryclairo.co.uk) |
+| [77369475](https://app.gethookd.ai/share/ad/77369475?signature=442f32e54483d9f0a7a22671f731003daafb86e381b7531d074a50cf37a26d2a) | Bild + ca. 7.500 Zeichen Text | 245 T aktiv · Familie mit 26 Suchtreffern, bis 246 T | Titel „Read if you wake up congested in the middle of the night 👆" · Text „"My husband asked me why I was sleeping on the couch again."" | Ich-Story einer Betroffenen mit Paar-Konflikt: Tiefpunkt → alles probiert → Arzt sagt „Hormones" → Aha-Moment → Experte misst → Mechanismus → Produkt erst am Ende → „My husband and I are sharing a bedroom again" | Listicle `/pages/dust-mites` |
+| [68243634](https://app.gethookd.ai/share/ad/68243634?signature=5b799d6afdec84f1da27538a1948d21026749f714921ee870173c8d9bbfcb8fa) | Video 1:14 | 291 T aktiv · **Winning** | „Sleep experts are warning people about the one thing you do every night that triggers congestion and sneezing." | Insider/Whistleblower: „Michael, a former quality engineer for a major mattress brand, was let go after exposing a dirty secret." → „It's not your fault. It's by design." | Listicle `/pages/dust-mites` |
+
+###### 2.3 Plufl „Hugl" (→ `brand_plufl.md`, Transkripte Anhang A1–A4)
+| Link | Format | Laufzeit / Status | Hook wörtlich | Story-Muster | LP-Typ |
+|---|---|---|---|---|---|
+| [121399208](https://app.gethookd.ai/share/ad/121399208?signature=a7525a95abd29dcb4a1de055c7ca72296aaa71af4bd20a5eb1f544e781a7eff9) (Perfectly Kelsey) | Video 59 s, Creator | **309 T aktiv** · Optimized | gesprochen „Watch me cut my sleep expenses in half." · Tafel „Monthly Expenses … Total: $695/ month / = $8340/year" | Creator-Ich-Story mit Kosten-Vorher/Nachher (Hot Sleeper, „pools of my own sweat") | Advertorial `weareplufl.com/pages/hugl-sleep-system-advertorial` |
+| [122685246](https://app.gethookd.ai/share/ad/122685246?signature=9353cc910bd53bc947160d0421f3eeb88df5864ec945f84856b3cdf128633ea0) (Noah S.) | DCO, 4 Videos à 36 s | **309 T aktiv** · **Winning** · 4 IDs | Titel „Want Mom to Sleep Better? 👩 💤" · Text „If your mom can't sleep you NEED to get her this! <3" · Video „Reply to Carla's comment / How is this different from pregnancy pillows on Amazon?" | Kommentar-Antwort (Einwand → „Great question" → Mechanismus), dazu die Mutter-Rahmung im Titel und Text | Advertorial (wie oben) |
+| [71729496](https://app.gethookd.ai/share/ad/71729496?signature=fa286b965e6a2c17438424ee4f875737aacf991ea9fec696db3eec8fda57bbff) (Plufl) | Video 87 s | 274 T aktiv · **Winning** | „When I told my friends I was starting a body pillow business after a trip back to Japan, they thought it was ridiculous." | Gründer-Story: Spott → Problem entdeckt → „20 iterations and 14 months" → Medien → Zahl → Angebot | Advertorial (wie oben) |
+
+###### 2.4 Miracle Made (→ `brand_miraclemade.md`, Volltexte `a3/deep_mir/body_99445068.txt`, `a3/deep3/body_147817064.txt`)
+| Link | Format | Laufzeit / Status | Hook wörtlich | Story-Muster | LP-Typ |
+|---|---|---|---|---|---|
+| [152620723](https://app.gethookd.ai/share/ad/152620723?signature=845a8d91362e718406965af22357efa08b72211e6fbd577694c47cd0d13cffc3) (Sarah Thompson) | DCO, Album-Collage aus „Kundenfotos" | 102 T aktiv · **Winning** · 6 Varianten | „My neighbor works in logistics and she told me something crazy - apparently Miracle Made had to halt all their sheet sales last month because of some tariff issues, and EVERYTHING sold out within days." | Insider-Knappheit: Tipp aus der Nachbarschaft → plausibler Engpass → „"we're sorry we were out of stock" sale" → Preisanker → Risikoumkehr | Listicle `try.miraclebrand.co/a/s6-reasons` |
+| [115254854](https://app.gethookd.ai/share/ad/115254854?signature=945dede758f97c4f06e4007b33ccad81816482037b98f84ee05a4adeaf0e8c37) (The Savvy Neighbor) | DCO, 4 Bilder | 101 T aktiv · **Winning** | „I had no idea how gross sheets get until I started researching this." · Bild „Clean Body. / Dirty Sheets. / Lets fix that." | Recherche-Ich → Ekel-Aufzählung → Einwand-Konter („Even if you shower before bed.") → Sinnes-Beweis („You can smell it by day 5.") → Produkt; mit Disclaimer im Ad-Text | Listicle (wie oben) |
+| [99445068](https://app.gethookd.ai/share/ad/99445068?signature=7d374440e76d412b469cac680610215a7e93e19bb4fbdb167786e870655278ea) (James Moore, Granny Blog) | Bild (Unfall-Nachrichtenfoto) + 20.423 Zeichen | 43 T, inaktiv (02.05.–13.06.) | „My wife is going to kill me for posting this. She made me promise I wouldn't." | Ehemann-Geständnis → Beinahe-Katastrophe → gescheiterte Lösungen → Hotel-Personal verrät das Geheimnis → Mechanismus → Test-Tagebuch → P.S.-Kaskade | Fake-Magazin-Advertorial `thegrannyblog.com/miracle-gma/` |
+| Bonus für B: [147817064](https://app.gethookd.ai/share/ad/147817064?signature=495693eb53ff3ec74fc61a2bb10a54cfa8d3fdb9e880a5a9c2609f7376e2730e) (Offline Granny) | Bild (Album-Collage) + 3.992 Zeichen | 102 T aktiv · Growing · 2 Varianten | „I was sitting on the edge of my bed at 3:12 in the morning, trying not to cry because I was soaked again." | Tiefpunkt mit Uhrzeit → Zyklus → Isolation („My husband slept fine.") → Hygiene-Dreh → Schwester als Vertraute → unaufgeregtes Versprechen → Wochen-Zeitstrahl. Die Wechseljahre werden nie genannt. | PDP `try.miraclebrand.co/sheets/ksp` |
+
+###### 2.5 TrueClean / CaptureCards (→ `brand_trueclean.md`, Volltexte `a3/deep3/body_*.txt`)
+| Link | Format | Laufzeit / Status | Hook wörtlich | Story-Muster | LP-Typ |
+|---|---|---|---|---|---|
+| [132882997](https://app.gethookd.ai/share/ad/132882997?signature=4a74d8199d2725ff56ae882f8f65eb500764073b358d210fc61c662b79d5a72b) (True Clean Home) | Bild (Matratze in Waschmaschine) | 106 T aktiv · Optimized · Cluster mit 33 Treffern, darunter 132882815 (Winning) und das Video [127732615](https://app.gethookd.ai/share/ad/127732615?signature=1c2daa6dab3ece7f5a9388e7beaa035f7c50268cc5efef8230051ae4eb064011) | Titel/Bild „You Can't Wash A Mattress. You Can Empty It." · Text „You wash the sheets in hot water every week. The mattress just refills them." | Reframe-Native: Feind entlarven („you don't have an allergy problem. You have a mattress problem.") → Liste gescheiterter Lösungen → Satz-Twist → Mechanismus in 4 Punkten → Selbstbeweis → Risikoumkehr | Advertorial-Listicle-Hybrid `truecleanhome.com/pages/capturecards-listicle` |
+| [127732600](https://app.gethookd.ai/share/ad/127732600?signature=afa84150b7971449d34bc3e756184af0f9c28f93b8213a649bdc4b29039e2f33) (The Natural Household) | Bild im Native-Post-Stil („… Read more") + 5.201 Zeichen | 106 T aktiv · Growing | Titel „Covers, Sprays, A $200 Purifier, Hot Washes — The First Thing That Actually Pulled Anything Out Of My Bed." · Text „I've spent more money trying to get dust mites out of my bed than I'd like to admit." | „Ich habe alles probiert" → zufälliger Mentor („a guy… in hotel housekeeping and pest control") → entlarvende Frage → Produkt nach 534 Wörtern → sichtbarer Selbstbeweis → P.S. mit Prüffrage | Advertorial-Listicle `thenaturalhousehold.co/pages/capturecards-listicle-airpurifier` |
+| [155122137](https://app.gethookd.ai/share/ad/155122137?signature=72b4af3c33f341b58dd8831ec6df8c34315d4876921fb04484c2c11fb6ce9195) (Clean Home Review) | Video ca. 56 s, Voiceover | 64 T aktiv · **Winning** · 7 Varianten | „Week one versus week 12." · Overlay „WEEK 1" / „WEEK 12 🤮" | Zeitstrahl-Beweis: Day one → End of week one → Week two → Week four → Month three, jeweils mit einem körperlichen Morgen-Signal | Advertorial-Listicle `truecleanhome.com/pages/capturecards-proof` |
+
+###### 2.6 Rest – Evercool® (→ `brand_rest.md`, Volltext `a3/deep3/body_182116197.txt`)
+| Link | Format | Laufzeit / Status | Hook wörtlich | Story-Muster | LP-Typ |
+|---|---|---|---|---|---|
+| [182116197](https://app.gethookd.ai/share/ad/182116197?signature=f72aa798b79363f7f2b6fc3e17ab0d03ac0423b9e87c9bee5948803db09de37d) (Hot Sleeper Journal) | Bild (privates Handyfoto) + 7.252 Zeichen | 35 T aktiv · Growing · 11 Ads mit identischem Text | „I stole a comforter from a hotel in Charleston while I was in town for my niece’s wedding last spring. I'm not proud of it." | Geständnis mit kleinem Vergehen → Ausschluss-Dreischritt → Geheimnis → Brief des Managers → Freundin löst auf → Partner-Zitat („You've stopped doing the thing.") → Signatur „— Marina, 46, Texas" → drei P.S. | PDP `rest.com/products/evercool-comforter` |
+| [30297004](https://app.gethookd.ai/share/ad/30297004?signature=9c76a6aae73a1520cfb85e881230dfdc0c0927e2bcdf2b22f13fdbccfd335bc1) | Video 69 s, Creator-Talking-Head | **278 T**, inaktiv (11.07.2025–14.04.2026) | „Let's talk about sleep for a minute because if you're a woman in menopause like I am," | Peer-Selbstidentifikation → Problem → Entdeckung → zwei Sinneseindrücke („It feels like I have a cold pack on my legs.") → Familienbeweis („both of my teenagers are wanting to steal it") | PDP |
+| [175766490](https://app.gethookd.ai/share/ad/175766490?signature=53c2958ed27005a27439cfd8fcce153ed15d3c046df4e52dc85cc82432724af0) | Video ca. 46 s, Selfie im Bett | 28 T aktiv · **Winning** | „Good morning. So there is this thing, you might have heard about it, it's called menopause." | Selfie-Testimonial am Morgen im Bett: Enttabuisierung mit Humor („#MeNoPause"), Lösung früh, Haushalts-Beweis („Everyone in my house fights over the rest bedding.") | PDP |
+
+###### 2.7 Eight Sleep / The Get Well (→ `brand_eightsleep_thegetwell.md`; nur Bild-Ads, keine Transkripte)
+| Link | Format | Laufzeit / Status | Hook wörtlich | Story-Muster | LP-Typ |
+|---|---|---|---|---|---|
+| [150166893](https://app.gethookd.ai/share/ad/150166893?signature=67f736dbfed3d22823db96bd295ed3c1d3a477243aa3a9fb2532f2916ba8ae84) (kellysomers) | Bild, CTA NO_BUTTON | 52 T laut GetHookd (≥ 46 T bestätigt) · **Winning** | Titel „This Temp-Regulating Mattress Cover Saved My Sleep (+ My Marriage) 😅" · Text „After months of waking up sweaty while my husband froze under 3 blankets… we found the Pod 5." | Ich-Story einer Betroffenen (Wechseljahre) mit Paar-Konflikt: Vorher/Nachher in einem Satz → Emoji-Bullets | Publisher-Advertorial `thegetwell.co/brands/eight-sleep-couples/` |
+| [150166895](https://app.gethookd.ai/share/ad/150166895?signature=036356691a32567027bb0c9bfe0b90058d72fa211f5ff02cc29688018566fcd5) (kellysomers) | Bild, NO_BUTTON | 52 T (≥ 46 T) · **Winning** | „Hot Flash at 2AM? The Pod 5 Cools Me Down Automatically. 😮‍💨❄️" | Wir-Story eines Paares, Situationsfrage als Hook, offener Preis-Einwand („Expensive? Yes. Worth it? 1000%") | Advertorial (wie oben) |
+| [150331872](https://app.gethookd.ai/share/ad/150331872?signature=cfb06d44ca463e36501ccf428fd3c7debdfdc1edf28704785e56da52f279c9aa) (The Get Well) | Bild mit Zitatkarte | 52 T aktiv · Optimized | Titel „The Sleep Tech That Ended Blanket Wars (and Boosts Deep Sleep by up to 34%) 🔥" · Bild „“My wife was suffering through hot flashes. …”" | Publisher-Stimme plus Testimonial des Partners (der Ehemann erzählt über seine Frau) | Advertorial (wie oben) |
+
+###### 2.8 Cosy House Collection (→ `brand_cosyhouse.md`, Transkripte Anhang C1–C5)
+| Link | Format | Laufzeit / Status | Hook wörtlich | Story-Muster | LP-Typ |
+|---|---|---|---|---|---|
+| [107907821](https://app.gethookd.ai/share/ad/107907821?signature=41ee9a46ed09ae9a529738cbf361f4968aef4e0aa663ba2c13590d3ff5655dae) | DCO, 4 Videos (GRWM/Greenscreen) | **114 T** (16.06.–07.10.) · 12 Varianten | „I was a housekeeper for one of the richest families in Beverly Hills, and their bedsheets would surprise you." | Insider-Ich-Story: Insider-Rolle → beobachtetes Muster → teure Erwartungen ausschließen („Not $400 Egyptian cotton. Not silk. And not some fancy thread count.") → einfache Auflösung („Something way simpler. Bamboo.") → Selbsttest | Listicle `try.cosyhousecollection.com/7-reasons-you-need-to-upgrade-to-100-bamboo-bed-sheets-cooling` |
+| [107610652](https://app.gethookd.ai/share/ad/107610652?signature=6640df54d74502335a81fa1c3fa74900d36d23717cf0e4f4672e4264e052e96f) | Bild | **114 T** · 5 Varianten | „The answer to night sweats & hot flashes is here!" · Linkbeschreibung „Summary: You wake up sweating. You kick off the covers. …" | Problem → Lösung → Bullets. Native ist hier der Funnel: Advertorial-Snippet „Summary:" in der Ad plus Listicle-LP. | Listicle (cooling) |
+| [113404606](https://app.gethookd.ai/share/ad/113404606?signature=0aa2496673a6124d72aee47f01935325fe31eefa79948365c018753b78d2e472) | Video 88 s | 86 T, inaktiv (24.06.–17.09.) · Cluster mit 9 IDs | Overlay „3 REASONS WHY I REGRET BUYING THESE VIRAL BAMBOO SHEETS" · gesprochen „The three reasons why I regret buying these viral bamboo sheets." | Fake-Negativ-Hook + Video-Listicle mit 3 Gründen + Ich-Story. Die „Reue" ist, nicht früher gekauft zu haben. | PDP |
+| Ergänzung A: [126567608](https://app.gethookd.ai/share/ad/126567608?signature=16bf04f9eded49616dbbf1b2a007a0b357e56eeda8f9203c48f0e2849ff4e902) | Bild | 80 T (20.07.–07.10.) | „The average bed holds up to 1.5 MILLION dust mites. They eat your dead skin. They love your warm, damp cotton. 🤢" · Bild „COTTON SHEETS CAN HOLD THEIR WEIGHT IN BACTERIA" | Ekel-Fakt → Mechanismus (Feuchtigkeit entziehen) → Produkt | Listicle (dust) |
+
+---
+
+##### 3. Story-Muster-Katalog
+
+Je Muster: 2–3 wörtliche Beispiele mit Link, danach die abstrahierte Struktur in Schritten. Die Zuordnung zu unseren Angles folgt in Abschnitt 5.
+
+###### M1 · Ich-Story einer Betroffenen (Leidensweg mit Tiefpunkt)
+- **Miracle / Offline Granny** [147817064](https://app.gethookd.ai/share/ad/147817064?signature=495693eb53ff3ec74fc61a2bb10a54cfa8d3fdb9e880a5a9c2609f7376e2730e) (102 T): „I was sitting on the edge of my bed at 3:12 in the morning, trying not to cry because I was soaked again." … „Wake up hot. Throw the covers off. Get cold. Pull them back on." … „My husband slept fine." … „It wasn’t just me. It was my sheets."
+- **UVlizer** [77369475](https://app.gethookd.ai/share/ad/77369475?signature=442f32e54483d9f0a7a22671f731003daafb86e381b7531d074a50cf37a26d2a) (245 T): „"My husband asked me why I was sleeping on the couch again." / I didn't know how to explain that our bedroom had become a nightly torture chamber." … Arzt: „Just part of getting older … Hormones can make allergies worse" … Schluss: „If you're reading this at 2 AM…"
+- **Plufl / Perfectly Kelsey** [121399208](https://app.gethookd.ai/share/ad/121399208?signature=a7525a95abd29dcb4a1de055c7ca72296aaa71af4bd20a5eb1f544e781a7eff9) (309 T, Video-Variante): „Watch me cut my sleep expenses in half." → „I stopped waking up in pools of my own sweat" → „instead of buying a new mattress, I got a $180 huggle"
+
+**Struktur:**
+1. Tiefpunkt-Szene mit genauer Uhrzeit und Körpergefühl („3:12", „2 AM", „soaked").
+2. Der wiederkehrende Zyklus wird geschildert (Decke weg, Decke drauf).
+3. Gescheiterte Lösungen werden aufgezählt (neue Laken, Ventilator, HEPA, Arzt).
+4. Isolation oder Partner-Kontrast („My husband slept fine", Couch, Gästezimmer).
+5. Eine Vertraute oder ein Experte bringt die Wende (Schwester, Freundin, Messung).
+6. Mechanismus in 1–3 Sätzen, ohne Fachjargon.
+7. Unaufgeregtes Ergebnis, oft als Zeitstrahl.
+8. Rückkehr ins Leben bzw. in die Beziehung („sharing a bedroom again").
+9. Produkt erst spät (bei Offline Granny nach 590 Wörtern), dann Angebot, Garantie und eine direkte Ansprache an die Leserin.
+
+###### M2 · Geständnis / Confession
+- **Rest / Hot Sleeper Journal** [182116197](https://app.gethookd.ai/share/ad/182116197?signature=f72aa798b79363f7f2b6fc3e17ab0d03ac0423b9e87c9bee5948803db09de37d): „I stole a comforter from a hotel in Charleston while I was in town for my niece’s wedding last spring. I'm not proud of it. / The general manager emailed me three days after we checked out." (Dieselbe Schablone nutzt FluffCo [129326906](https://app.gethookd.ai/share/ad/129326906?signature=762055a5e6783b94cf46499ccc725faba06a5e6868d41a928e7a60bd89ccb872): „I stole a pillow from a hotel in Maui last summer. I'm not proud of it.")
+- **Miracle / Granny Blog** [99445068](https://app.gethookd.ai/share/ad/99445068?signature=7d374440e76d412b469cac680610215a7e93e19bb4fbdb167786e870655278ea): „My wife is going to kill me for posting this. She made me promise I wouldn't. I'm doing it anyway because I almost lost her this year…"
+- **GroundingWell** (Sweep) [89809570](https://app.gethookd.ai/share/ad/89809570?signature=a594daabb56da2a6e21f0132ef0d21f1489618e1ca4e90dcb7b80db526cd31a2) (157 T): „If you're thinking about buying a Grounding Well bed sheet, stop. There's something that I should have told you but I didn't and it's kind of a big deal."
+
+**Struktur:**
+1. Geständnis eines kleinen Vergehens oder Tabubruchs („I stole…", „She made me promise I wouldn't").
+2. Spannungsversprechen („The general manager emailed me…").
+3. Rückblende: Wie es dazu kam (Problem plus besondere Situation wie Hotel oder Urlaub).
+4. Ausschluss-Dreischritt („first night… mattress / second night… wine / third night… it's the comforter").
+5. Geheimnis wird gelüftet, von Personal, Freundin oder Fachfrau.
+6. Mechanismus kurz, dann das Ergebnis aus Sicht des Partners („You've stopped doing the thing.").
+7. Signatur mit Name, Alter und Ort, dann eine P.S.-Kaskade (Upsell, Warnung vor Fälschungen, Pointe).
+
+###### M3 · Insider-Knappheit (Tipp aus dem Umfeld plus Lieferengpass)
+- **Miracle / Sarah Thompson** [152620723](https://app.gethookd.ai/share/ad/152620723?signature=845a8d91362e718406965af22357efa08b72211e6fbd577694c47cd0d13cffc3) (102 T, Winning): „My neighbor works in logistics and she told me something crazy …" → „they're doing a "we're sorry we were out of stock" sale for 46% off" → „Sarah said they're only doing this sale until they clear the inventory that came in, so it could end any day."
+- **MagicSplashy** LP `/pages/schlafen-im-sommer` (Ziel von [126012757](https://app.gethookd.ai/share/ad/126012757?signature=4aa5cf75157a813c3daede61927240a452d4bf09046a0feee9ae288bd457658f)): Headline „Die Decke, die dich bei 30 Grad schlafen lässt wie bei 20. Warum sie ständig ausverkauft ist:"
+- **UVlizer** [68243634](https://app.gethookd.ai/share/ad/68243634?signature=5b799d6afdec84f1da27538a1948d21026749f714921ee870173c8d9bbfcb8fa) (Schluss) und Advertorial-LP: „Limited supply available. / Click below to secure yours before we sell out again." bzw. „sold-out their inventory, twice"
+
+**Struktur:**
+1. Quelle mit Insider-Zugang (Nachbarin in der Logistik, „Sarah said").
+2. Plausibler Grund für einen Engpass (Zölle, ausverkauft, Nachlieferung).
+3. Rabatt mit Begründung („sorry"-Sale), damit es nicht wie ein normaler Rabatt wirkt.
+4. Die Erzählerin als langjährige Nutzerin mit konkretem Preisanker.
+5. Community-Gefühl („I know a bunch of you have been asking me…").
+6. Befristung („could end any day") und Risikoumkehr („30-night trial").
+
+###### M4 · Insider-Enthüllung / Whistleblower („Was die Branche verschweigt")
+- **UVlizer** [68243634](https://app.gethookd.ai/share/ad/68243634?signature=5b799d6afdec84f1da27538a1948d21026749f714921ee870173c8d9bbfcb8fa) (291 T, Winning): „Michael, a former quality engineer for a major mattress brand, was let go after exposing a dirty secret. / Modern mattresses are designed to trap humidity, … Why? / So you replace them every eight years." … „It's not your fault. / It's by design."
+- **Cosy House** [107907821](https://app.gethookd.ai/share/ad/107907821?signature=41ee9a46ed09ae9a529738cbf361f4968aef4e0aa663ba2c13590d3ff5655dae) (114 T): „I was a housekeeper for one of the richest families in Beverly Hills, and their bedsheets would surprise you."
+- **Miracle / Granny Blog** [99445068](https://app.gethookd.ai/share/ad/99445068?signature=7d374440e76d412b469cac680610215a7e93e19bb4fbdb167786e870655278ea): Hotelpersonal verrät „"Sir, all our linens are antimicrobial silver-thread. Most upper-tier hotels switched over the last decade…""
+
+**Struktur:**
+1. Autorität mit Innenwissen (Ex-Ingenieur, Ex-Housekeeperin, Hotelpersonal).
+2. „Geheimnis" bzw. Beobachtung, die Laien nicht kennen.
+3. Feindbild System oder Industrie („by design"), damit die Kundin entlastet wird („It's not your fault").
+4. Ausschluss teurer Erwartungen („Not silk…") und die einfache Auflösung.
+5. Der Insider baut oder empfiehlt die Lösung → Mechanismus → Garantie und Knappheit.
+
+###### M5 · Experte / Mentor bringt die Lösung
+- **TrueClean** [127732600](https://app.gethookd.ai/share/ad/127732600?signature=afa84150b7971449d34bc3e756184af0f9c28f93b8213a649bdc4b29039e2f33) (106 T): „I've spent more money trying to get dust mites out of my bed than I'd like to admit." → Mentor „a guy… in hotel housekeeping and pest control" → Prüffrage im P.S.: „Did it actually remove something from inside the mattress? Or did it just sit on top, or clean the air?"
+- **UVlizer** Advertorial `getuvlizer.co.uk/pages/adv-dust-mites` (Ziel von [80269727](https://app.gethookd.ai/share/ad/80269727?signature=275f24a45e105ebc7d27ead2e15742ba603a98d219aec0dcc4a0d7580466ec2c)): „By Lisa Morgan, Retired Nurse" · H1 „How This Grandma Effortlessly Cleared Dust Mites from Her Home in Just 30 Minutes"
+- **GroundingWell** (Sweep) [75250601](https://app.gethookd.ai/share/ad/75250601?signature=6073c8a1db81dd0fcab4101b2f3db56fe0638d3050be7f26ce3b6a8b73684eeb) (226 T): „Don't waste your money on grounding sheets until you see what it did for my 94-year-old patient. Look, I'm a doctor …"
+
+**Struktur:**
+1. Die Betroffene ist erschöpft und hat aufgegeben („At my age…", „quietly given up").
+2. Ein Mentor taucht zufällig auf, mit Berufsrolle (Housekeeping, Krankenschwester, Ärztin).
+3. Eine entlarvende Frage stellt alle bisherigen Mittel infrage.
+4. Rückblende auf die gescheiterten Mittel, jedes mit Begründung, warum es nicht wirkt.
+5. Produkt mit Mechanismus, dann ein sichtbarer Selbstbeweis.
+6. Verweis auf den Artikel („read this") bzw. Selbsttest des Experten („I tested Clairu myself").
+
+###### M6 · Paar-Story (Temperatur- oder Schlafkonflikt im Ehebett)
+- **Eight Sleep** [150166893](https://app.gethookd.ai/share/ad/150166893?signature=67f736dbfed3d22823db96bd295ed3c1d3a477243aa3a9fb2532f2916ba8ae84): „After months of waking up sweaty while my husband froze under 3 blankets… we found the Pod 5. Now we both sleep through the night and don’t fight over the covers anymore 🙃" · LP-H1 „Hot Flashes on My Side, Freezing on His: How One Sleep Upgrade Ended Our Blanket Wars for Good"
+- **UVlizer** [77601762](https://app.gethookd.ai/share/ad/77601762?signature=7e3eb6b58db706cf098c8d1731f1d4e1d2435f06efa79717b2efce0e6e4b5618) (218 T): „My husband moved to the guest room on a Wednesday night. / After I woke him up coughing for the fourth time that week."
+- **Rest** [182116197](https://app.gethookd.ai/share/ad/182116197?signature=f72aa798b79363f7f2b6fc3e17ab0d03ac0423b9e87c9bee5948803db09de37d): „"You've stopped doing the thing." / "What thing?" / "The 3am huffing and kicking thing.""
+
+**Struktur:**
+1. Gegensatz der Partner („I'm boiling, he's freezing") oder Trennung im Schlafzimmer (Couch, Gästezimmer).
+2. Beziehungs-Einstieg mit Wiedererkennung („If there’s one thing they don’t tell you about relationships…").
+3. Ungewöhnlicher Entdeckungsort („on a Reddit thread for menopause of all places").
+4. Lösung für beide (eine Seite, eine Decke, zwei Temperaturen).
+5. Der Partner bestätigt das Ergebnis, Beziehung gerettet („saved my marriage", „sharing a bedroom again").
+6. Variante: Testimonial **aus Sicht des Partners** (Eight Sleep [150331872](https://app.gethookd.ai/share/ad/150331872?signature=cfb06d44ca463e36501ccf428fd3c7debdfdc1edf28704785e56da52f279c9aa): „My wife was suffering through hot flashes.").
+
+###### M7 · Tochter / Familie kauft bzw. bringt die Lösung
+- **Plufl / Noah S.** [122685246](https://app.gethookd.ai/share/ad/122685246?signature=9353cc910bd53bc947160d0421f3eeb88df5864ec945f84856b3cdf128633ea0) (309 T, Winning): „Want Mom to Sleep Better? 👩 💤" / „If your mom can't sleep you NEED to get her this! <3". Auf der LP das Testimonial „Margaret, 62": „My daughter bought this for me after watching me struggle for years." (Tag „Gift from family").
+- **SP Nutrition** (Sweep) [101624013](https://app.gethookd.ai/share/ad/101624013?signature=06fb2c84e91653471c74fe657a9747dcc8199b63b0c06d71d00e049baa3fe13a) (139 T): „Soaked sheets every night. … My husband sleeps in the guest room. … Then my daughter sat me down and showed me an article from a gynecologist. She said, mom, please just read this. … Read the article below. It is the same one my daughter showed me."
+- **TrueClean** 201101007 (Test seit 06.10., share_url nicht erfasst): „My mom washed sheets the way her mom taught her: hot water, every week, no shortcuts. And for years she still woke up stuffy." … „Sometimes the habit isn’t wrong. It’s just missing the one layer nobody told you about."
+- Weitere Bausteine: UVlizer-Grandma-Video 27829534 (vor dem Fenster beendet, share_url nicht erfasst): „Then my daughter came over one day, saw how congested I was, and said, Mom, why haven't you tried Kleru yet?" · MagicSplashy `/pages/umfrage` Punkt 08: „„Papa, damit er weniger Aufwand hat in seinem Alter.““ mit CTA „Als Geschenk bestellen".
+
+**Struktur:**
+1. Die Mutter leidet still oder hält an einer Gewohnheit fest (respektvoll: „the habit isn’t wrong").
+2. Die Tochter bemerkt es (Besuch, Anruf, „watching me struggle for years").
+3. Die Tochter bringt Artikel oder Produkt („Mom, please just read this").
+4. Die Mutter testet skeptisch.
+5. Ergebnis aus Familiensicht („her daughter says at dinner mom it's nice to see you smile again", Transkript GroundingWell [102834602](https://app.gethookd.ai/share/ad/102834602?signature=9c8b44383ab0135a4a6de55c19f68e2f22d1b7857055c639215d87c4e7c13afd)).
+6. Weitergabe in der Familie (Folgekäufe, „one for Mum, one for you").
+
+###### M8 · Zeitstrahl-Beweis
+- **TrueClean** [155122137](https://app.gethookd.ai/share/ad/155122137?signature=72b4af3c33f341b58dd8831ec6df8c34315d4876921fb04484c2c11fb6ce9195) (64 T, Winning): „Week one versus week 12." … „End of week one. / You won't see much yet, but you might notice the mornings." … „Week four, this is where people text me."
+- **MagicSplashy** [125662052](https://app.gethookd.ai/share/ad/125662052?signature=afca98f12b6dd400226ecbd2adcf32983adb04f2c06b179d502bd583a5f9a763) ($10.001–20.000): „Deine erste Nacht … Nach der ersten Woche … Nach einem Monat …" (LP `/schlafen-im-sommer`: „Der neue No-Stress-Schlafplan" mit Erste Nacht / Nach einer Woche / Nach zwei Wochen / Nach einem Monat)
+- **UVlizer** Advertorial-LP: „I tested Clairu myself, and here’s what I found:" mit „WEEK 1" / „WEEK 2" / „WEEK 3" · **Granny-Blog**-LP: „We Tested It Ourselves — Did It Live Up To The Hype?" (Night 1 / Day 7 / Day 20 / Day 30)
+
+**Struktur:**
+1. Vorher/Nachher-Kontrast gleich am Anfang („WEEK 1" vs. „WEEK 12 🤮").
+2. Einfache Inbetriebnahme („That's the whole job.").
+3. Etappen (Nacht 1, Woche 1, Woche 2, Woche 4, Monat 3), je mit einem kleinen, körperlichen Signal.
+4. Sichtbarer Beweis bei einer späteren Etappe (Karte vor dem Handylicht).
+5. Abschluss: Wiederholung bzw. Routine, Zahl der Kunden, Garantie.
+
+###### M9 · Umfrage-Advertorial / Kundenstimmen-Auswertung
+- **MagicSplashy** [148248622](https://app.gethookd.ai/share/ad/148248622?signature=84d901c24974a36d3944f48f20a4e49c67491a96f0afc5eac2f108a8698f93ac) (53 T, Winning) → `/pages/umfrage`: H1 „Was die Menschen über unsere Decke denken. Das Ergebnis hat selbst uns aus der Bahn geworfen." · „Über 2.000 Menschen haben geantwortet" · Punkt 04 „„90% von Insta-Produkten sind ihr Geld nicht wert.““ · Punkt 08 „„Papa, damit er weniger Aufwand hat in seinem Alter.““
+- **Cosy House** Listicle-Punkt „5. 9/10 Customers Said They Slept Cooler in Their First Night" („*Based on an independent survey conducted in 2024 (n=12,000)")
+- **Rest** Wechseljahre-Listicle `rest.com/pages/menopause-science-v6` (nicht als Ad-Ziel belegt): „After six weeks with Evercool®, here’s what real women said:"
+
+**Struktur:**
+1. Absender ist ein Mitarbeiter mit Gesicht („Daniel K. / Kundenbetreuer").
+2. Anlass: „Wir haben gefragt" plus eine Zahl der Antworten.
+3. Überraschungs-Versprechen („hat selbst uns aus der Bahn geworfen").
+4. Nummerierte Punkte, **Zwischenüberschrift = wörtliches Kundenzitat**, je Punkt ein Angle (Beziehen, Hygiene, Allergie, Geschenk für die Eltern).
+5. Skepsis und Kritik offen aufnehmen (Punkt 04 Insta-Skepsis, Punkt 09 „mehr Farben") für Glaubwürdigkeit.
+6. Nach den Punkten ein thematisch beschrifteter CTA („Als Geschenk bestellen", „Mehr zur Hygiene erfahren").
+
+###### M10 · Listicle „X Gründe / X Reasons"
+- **Cosy House** `…-dust` (Ziel von [126567608](https://app.gethookd.ai/share/ad/126567608?signature=16bf04f9eded49616dbbf1b2a007a0b357e56eeda8f9203c48f0e2849ff4e902)): „Your Bed Is Home to Millions of Dust Mites. Here's How to Make It Uninhabitable" · Punkt 1 „Your Bed Is Their All-Inclusive Resort"
+- **MagicSplashy** `/pages/frauen-magazin` (Test seit 03.10., z. B. [199242833](https://app.gethookd.ai/share/ad/199242833?signature=c2c64fcf7462685c73857f0c7e57a8cb2f24b34e4be11ba708d5d460747472c9)): „Die Decke, unter der du seit Jahren schläfst, ist in den Wechseljahren dein größter Gegner." / „7 Gründe, warum Frauen in den Wechseljahren jetzt ihre Bettdecke tauschen!"
+- **Miracle** `try.miraclebrand.co/a/s6-reasons` (Ziel von 152620723, 115254854): „6 Reasons Americans are Switching to these NASA-Inspired Sheets" · **UVlizer** `/pages/dust-mites`: „🏠 10 Reasons Why Thousands Are Switching to Clairu to Eliminate Dust & Dust Mites at Home" · **TrueClean**: „6 Reasons People Are Switching to CaptureCards"
+
+**Struktur:**
+1. H1 als Problem-Frage oder Reframe („Still Waking Up Hot at 3 A.M.? Your Cotton Sheets Could Be Why.").
+2. Byline mit Vorname und Initial plus Datum („By Tasha F.", „Last Updated …") und „Summary:"-Kasten.
+3. Punkte 1–2 sind angle-spezifisch (Problem und Mechanismus), die Punkte 3–N sind in allen Varianten gleich (Produkt, Beweis, Umfrage, Garantie).
+4. Produkt früh (nach ca. 37–90 Wörtern).
+5. Angebotsblock mit Countdown, „Sell-Out Risk: High" und Garantie. Bei Cosy und TrueClean ist das **ein Template mit getauschter H1, Summary und Punkt 1–2 je Angle**.
+
+###### M11 · Skeptiker- bzw. Fake-Negativ-Review („Ich wollte es nicht …")
+- **Cosy House** [113404606](https://app.gethookd.ai/share/ad/113404606?signature=0aa2496673a6124d72aee47f01935325fe31eefa79948365c018753b78d2e472) (86 T): „The three reasons why I regret buying these viral bamboo sheets."
+- **UVlizer** [32787916](https://app.gethookd.ai/share/ad/32787916?signature=65c23fdb01391d65eee51cc8aa6f02277b53f620e0a4f3f14ada2926415f8a45) (439 T aktiv): Titel „My Honest Review of Clairu" · „I have seen so many ads for these “air ionizers”... Here's 5 reasons why I didn't want to try them" → Einwand-Listicle im Pseudo-Testmagazin „Consumer Lifestyle Reports"
+- **MagicSplashy**-Umfrage Punkt 04: „„90% von Insta-Produkten sind ihr Geld nicht wert.““
+
+**Struktur:**
+1. Negativer oder skeptischer Hook als Neugier-Falle („regret", „didn't want to try").
+2. Nummerierte Einwände bzw. „Gründe", die beim Lesen jeweils widerlegt werden.
+3. Ich-Erfahrung als Beweis für jeden Punkt.
+4. Auflösung: Die Reue ist, es nicht früher gekauft zu haben, oder der Einwand war unbegründet.
+5. Social Proof und Garantie.
+
+###### M12 · Kommentar-Antwort (öffentlicher Einwand)
+- **Plufl** [122685246](https://app.gethookd.ai/share/ad/122685246?signature=9353cc910bd53bc947160d0421f3eeb88df5864ec945f84856b3cdf128633ea0): „Reply to Carla's comment / How is this different from pregnancy pillows on Amazon?" → „Great question, here's the difference". Hook-Varianten auf demselben Body: „Reply to Stef's comment: $200 for a pillow?? Are you serious?" → „Look, I get why you'd think that." und „Reply to james's comment: Will this actually help my back pain or is it just hype?" → „Not hype, here's exactly how it works." ([122685364](https://app.gethookd.ai/share/ad/122685364?signature=9094b1343988fe1dff3a1468928c7f64672a193a52751b956916f003d9c222cc))
+- **MagicSplashy** [112081287](https://app.gethookd.ai/share/ad/112081287?signature=1ca5bb5015a714bea59c41e4d0ddced6db782e5af5cbcd952a78eb9512d15313) (148 T): „Viele schreiben, Bettbeziehen dauert doch nur zwei Minuten. Was für eine faule Generation. Und genau darum geht es eigentlich gar nicht."
+
+**Struktur:**
+1. Kommentar-Sticker bzw. zitierter Vorwurf als Hook.
+2. Anerkennung („Great question", „I get why you'd think that").
+3. Mechanismus bzw. Unterschied in 3 Sätzen.
+4. Zusatznutzen und Beruhigung („Trust me…").
+5. Auf demselben Body mehrere Einwand-Hooks testen.
+
+###### M13 · Reframe („Du hast kein X-Problem, du hast ein Y-Problem")
+- **TrueClean** [132882997](https://app.gethookd.ai/share/ad/132882997?signature=4a74d8199d2725ff56ae882f8f65eb500764073b358d210fc61c662b79d5a72b): „you don't have an allergy problem. You have a mattress problem. And you can't wash a mattress."
+- **MagicSplashy** [125662052](https://app.gethookd.ai/share/ad/125662052?signature=afca98f12b6dd400226ecbd2adcf32983adb04f2c06b179d502bd583a5f9a763): „Das Problem ist nicht deine Bettwäsche, das Problem ist deine Decke."
+- **Cosy House** LP `…-cooling`: „It's not your thermostat. It's not menopause. It's not your partner. It's the sheet you've been blaming everything else for." · **Rest** Listicle: „It's not just you, it's also your bedding."
+
+**Struktur:**
+1. Die übliche Erklärung benennen (Allergie, Thermostat, Wechseljahre, Partner).
+2. Sie als unvollständig entlarven, ohne die Leserin zu beschuldigen.
+3. Den eigentlichen Verursacher benennen (Matratze, Decke, Laken).
+4. Scheitern aller bisherigen Mittel am falschen Objekt erklären („Every Fix You’ve Tried Works On The Wrong Thing").
+5. Das Produkt als das einzige Mittel, das am richtigen Objekt ansetzt.
+
+###### M14 · Gründer-Story
+- **Plufl** [71729496](https://app.gethookd.ai/share/ad/71729496?signature=fa286b965e6a2c17438424ee4f875737aacf991ea9fec696db3eec8fda57bbff) (274 T, Winning): „When I told my friends I was starting a body pillow business after a trip back to Japan, they thought it was ridiculous."
+- **Down To Ground** (Sweep) [169458382](https://app.gethookd.ai/share/ad/169458382?signature=494aacfa3cc49cf887f0e6f5926cb7fe3ff27d6cc24010e8248fa43a43bb4a7b): Titel „why I quit cycling for my mum" · „People ask me why I quit professional cycling to make mattress covers. The honest answer is my mum."
+
+**Struktur:** 1. Spott oder ungewöhnlicher Anlass. 2. Problem entdeckt (billige Massenware, kranke Mutter). 3. Mühe als Qualitätsbeweis („20 iterations and 14 months"). 4. Bekehrung der Zweifler. 5. Zahl, Medien, Garantie, Knappheit.
+
+###### M15 · Neugier-Teaser → Advertorial („(MUST READ)")
+- **UVlizer** [80269727](https://app.gethookd.ai/share/ad/80269727?signature=275f24a45e105ebc7d27ead2e15742ba603a98d219aec0dcc4a0d7580466ec2c) (Cluster 497 T): „Eliminates Dust Mites In Your Home? (MUST READ)" + abgeschnittener Facebook-Post im Bild „… more"
+- **TrueClean** 132827480 (72 T, Winning, share_url nicht erfasst): „The Mattress Trick For Dust Mites? (MUST READ)" · **Cosy House**: Linkbeschreibung „Summary: …" als Advertorial-Anriss in der Ad
+
+**Struktur:** 1. Kurze Frage plus „(MUST READ)" oder abgeschnittener Post. 2. Ein Bild, das neugierig macht oder Ekel weckt, ohne Produkt. 3. Die ganze Story steht erst auf der LP (Experte erzählt die Geschichte einer Betroffenen). 4. Viele Bildvarianten auf derselben LP, gesteuert über `?img=N`.
+
+---
+
+##### 4. Headline- und Hook-Formel-Katalog
+
+Spalte „Formel" = abstrahierte Schablone. Spalte „Ansatz UK" = unser Formulierungsvorschlag (kein Zitat; zum großen Teil aus den Abschnitten „Was wir übernehmen" der brand-Dateien).
+
+| # | Hook / Headline wörtlich | Quelle | Formel | Ansatz UK (Vorschlag) |
+|---|---|---|---|---|
+| 1 | „You Can't Wash A Mattress. You Can Empty It." | TrueClean [132882997](https://app.gethookd.ai/share/ad/132882997?signature=4a74d8199d2725ff56ae882f8f65eb500764073b358d210fc61c662b79d5a72b) | „You can't [übliche Handlung] a [Objekt]. You can [neue Handlung] it." | „You can't really wash a duvet that lives inside a cover. You can wash ours – the whole thing." (A) |
+| 2 | „You wash the sheets in hot water every week. The mattress just refills them." | TrueClean 132882997 | „You [Routine] every week. The [verborgenes Objekt] just [macht sie zunichte]." | „You wash the duvet cover every week. The duvet inside it never gets washed." (A) |
+| 3 | „you don't have an allergy problem. You have a mattress problem." | TrueClean 132882997 / [155122137](https://app.gethookd.ai/share/ad/155122137?signature=72b4af3c33f341b58dd8831ec6df8c34315d4876921fb04484c2c11fb6ce9195) | „You don't have a [Symptom] problem. You have a [Objekt] problem." | „You don't have a sweating problem. You have a duvet problem." (A/B) |
+| 4 | „Read if you wake up congested in the middle of the night 👆" | UVlizer [77369475](https://app.gethookd.ai/share/ad/77369475?signature=442f32e54483d9f0a7a22671f731003daafb86e381b7531d074a50cf37a26d2a) | „Read if you wake up [Symptom] [Zeitpunkt] 👆" | „Read if you wake up drenched at 3am 👆" (B) |
+| 5 | „My wife is going to kill me for posting this." | Miracle/Granny Blog [99445068](https://app.gethookd.ai/share/ad/99445068?signature=7d374440e76d412b469cac680610215a7e93e19bb4fbdb167786e870655278ea) | „My [Angehörige] is going to kill me for posting this." | „My mum is going to kill me for posting this." (D) |
+| 6 | „I stole a comforter from a hotel in Charleston … I'm not proud of it." | Rest [182116197](https://app.gethookd.ai/share/ad/182116197?signature=f72aa798b79363f7f2b6fc3e17ab0d03ac0423b9e87c9bee5948803db09de37d) | „I [kleines Vergehen] a [Produkt] from [Ort]. I'm not proud of it." | „My mum stayed in our guest room for a week. When she left, so did the duvet." (D) |
+| 7 | „My neighbor works in logistics and she told me something crazy" | Miracle [152620723](https://app.gethookd.ai/share/ad/152620723?signature=845a8d91362e718406965af22357efa08b72211e6fbd577694c47cd0d13cffc3) | „My [Bekannte] works in [Insider-Branche] and she told me something crazy" | nur bei echtem Engpass verwenden („back in stock"-Aktion) |
+| 8 | „I had no idea how gross sheets get until I started researching this." | Miracle [115254854](https://app.gethookd.ai/share/ad/115254854?signature=945dede758f97c4f06e4007b33ccad81816482037b98f84ee05a4adeaf0e8c37) | „I had no idea how [Ekel-Adjektiv] [Objekt] get until I [recherchierte]." | „I had no idea how gross a duvet gets until I unzipped the cover." (A) |
+| 9 | „Clean Body. / Dirty Sheets. / Lets fix that." | Miracle 115254854 (Bild) | „Clean [A]. Dirty [B]. Let's fix that." | „Clean body. Dirty duvet." (A) |
+| 10 | „I was a housekeeper for one of the richest families in Beverly Hills, and their bedsheets would surprise you." | Cosy [107907821](https://app.gethookd.ai/share/ad/107907821?signature=41ee9a46ed09ae9a529738cbf361f4968aef4e0aa663ba2c13590d3ff5655dae) | „I was a [Insider-Rolle] for [Elite], and their [Objekt] would surprise you." | „I was a hotel housekeeper for 12 years – here's what we never told guests about duvet covers" (A + C) |
+| 11 | „3 REASONS WHY I REGRET BUYING THESE VIRAL BAMBOO SHEETS" | Cosy [113404606](https://app.gethookd.ai/share/ad/113404606?signature=0aa2496673a6124d72aee47f01935325fe31eefa79948365c018753b78d2e472) | „[N] reasons why I regret buying [virales Produkt]" | „3 reasons why I regret buying this coverless duvet" (C) |
+| 12 | „The answer to night sweats & hot flashes is here!" | Cosy [107610652](https://app.gethookd.ai/share/ad/107610652?signature=6640df54d74502335a81fa1c3fa74900d36d23717cf0e4f4672e4264e052e96f) | „The answer to [Symptom 1] & [Symptom 2] is here!" | „The answer to night sweats & hot flushes is here!" (B; UK „flushes") |
+| 13 | „Still Waking Up Hot at 3 A.M.? Your Cotton Sheets Could Be Why." | Cosy LP `…-cooling` | „Still [Symptom] at [Uhrzeit]? Your [Alltagsobjekt] Could Be Why." | „Still Waking Up Hot at 3 A.M.? Your Duvet and Cover Could Be Why." (B) |
+| 14 | „Your Bed Is Home to Millions of Dust Mites. Here's How to Make It Uninhabitable" | Cosy LP `…-dust` | „Your [Ort] Is Home to [Menge] [Schädling]. Here's How to Make It Uninhabitable" | „Your Duvet Is Home to Millions of Dust Mites. Here's How to Make It Uninhabitable" (A) |
+| 15 | „Hot Flash at 2AM? The Pod 5 Cools Me Down Automatically. 😮‍💨❄️" | Eight Sleep [150166895](https://app.gethookd.ai/share/ad/150166895?signature=036356691a32567027bb0c9bfe0b90058d72fa211f5ff02cc29688018566fcd5) | „[Symptom] at [Uhrzeit]? [Produkt] [Nutzen] automatically." | „Hot flush at 2am? …" (B) |
+| 16 | „This Temp-Regulating Mattress Cover Saved My Sleep (+ My Marriage) 😅" | Eight Sleep [150166893](https://app.gethookd.ai/share/ad/150166893?signature=67f736dbfed3d22823db96bd295ed3c1d3a477243aa3a9fb2532f2916ba8ae84) | „This [Produktgattung] Saved My Sleep (+ My [Beziehung])" | „This duvet saved my sleep (+ my marriage)" (B) |
+| 17 | „Hot Flashes on My Side, Freezing on His: How One Sleep Upgrade Ended Our Blanket Wars for Good" | Eight Sleep LP | „[Problem] on My Side, [Gegenteil] on His: How One [Lösung] Ended Our [Konflikt] for Good" | „Hot flushes on my side, freezing on his: how one duvet swap ended our duvet tug-of-war" (B) |
+| 18 | „Want Mom to Sleep Better? 👩 💤" / „If your mom can't sleep you NEED to get her this! <3" | Plufl [122685246](https://app.gethookd.ai/share/ad/122685246?signature=9353cc910bd53bc947160d0421f3eeb88df5864ec945f84856b3cdf128633ea0) | „Want [Angehörige] to [Ziel]?" / „If your [Angehörige] can't [X] you NEED to get her this!" | „Want Mum to sleep better?" / „If your mum still wrestles with the duvet cover, get her this." (D) |
+| 19 | „Watch me cut my sleep expenses in half." | Plufl [121399208](https://app.gethookd.ai/share/ad/121399208?signature=a7525a95abd29dcb4a1de055c7ca72296aaa71af4bd20a5eb1f544e781a7eff9) | „Watch me cut my [Kostenart] in half." | „Watch me cut my laundry time in half." (C/A, Aufwand-Tabelle vorher/nachher) |
+| 20 | „When I told my friends I was starting a body pillow business …, they thought it was ridiculous." | Plufl [71729496](https://app.gethookd.ai/share/ad/71729496?signature=fa286b965e6a2c17438424ee4f875737aacf991ea9fec696db3eec8fda57bbff) | „When I told my friends I was [ungewöhnliches Vorhaben], they thought it was ridiculous." | „When I told my friends I was making a duvet you never have to put a cover on…" (C) |
+| 21 | „Sleep experts are warning people about the one thing you do every night that triggers congestion and sneezing." | UVlizer [68243634](https://app.gethookd.ai/share/ad/68243634?signature=5b799d6afdec84f1da27538a1948d21026749f714921ee870173c8d9bbfcb8fa) | „[Experten] are warning people about the one thing you do every [Zeit] that [Symptom]." | „A former bedding factory worker reveals why duvets are designed to be hidden inside a cover" (A) |
+| 22 | „It's not your fault. / It's by design." | UVlizer 68243634 | „It's not your fault. It's by design." | Entlastung der Kundin, Feindbild ist das System „Decke + Bezug" (A) |
+| 23 | „If you sneeze within the first 10 minutes of waking up every single morning, your pillow is the problem." | UVlizer [89834921](https://app.gethookd.ai/share/ad/89834921?signature=cbc7273ea2192cf8807a41cd6c8a4525c69bdd3704e6f16f118abdbeb57a5270) | „If you [Symptom] within [Zeitfenster], your [Objekt] is the problem." | „If you wake up hot within an hour of falling asleep, your duvet is the problem." (B) |
+| 24 | „Eliminates Dust Mites In Your Home? (MUST READ)" | UVlizer [80269727](https://app.gethookd.ai/share/ad/80269727?signature=275f24a45e105ebc7d27ead2e15742ba603a98d219aec0dcc4a0d7580466ec2c) | „[Nutzen als Frage]? (MUST READ)" | Teaser-Ad → Advertorial (A) |
+| 25 | „I have seen so many ads for these “air ionizers”... Here's 5 reasons why I didn't want to try them" | UVlizer [32787916](https://app.gethookd.ai/share/ad/32787916?signature=65c23fdb01391d65eee51cc8aa6f02277b53f620e0a4f3f14ada2926415f8a45) | „I have seen so many ads for these '[Kategorie]'... Here's [N] reasons why I didn't want to try them" | „I've seen so many ads for these 'coverless duvets'… Here's 5 reasons why I didn't want to try one" (C, neue Kategorie) |
+| 26 | „How This Grandma Effortlessly Cleared Dust Mites from Her Home in Just 30 Minutes" | UVlizer LP `/adv-dust-mites` | „How This [Persona] Effortlessly [Ergebnis] in Just [Zeit]" | „How This 74-Year-Old Grandma Finally Stopped Fighting Her Duvet Cover" (C/D) |
+| 27 | „Covers, Sprays, A $200 Purifier, Hot Washes — The First Thing That Actually Pulled Anything Out Of My Bed." | TrueClean [127732600](https://app.gethookd.ai/share/ad/127732600?signature=afa84150b7971449d34bc3e756184af0f9c28f93b8213a649bdc4b29039e2f33) | „[Liste gescheiterter Mittel] — The First Thing That Actually [Nutzen]." | „Hot washes, protectors, new pillows — the first duvet I could actually wash whole." (A) |
+| 28 | „Menopause Didn't Suddenly Give You Allergies. It Made You More Sensitive To What's Living In Your Bed." | TrueClean LP `/capturecards-menovsmite` | „[Lebensphase] Didn't Suddenly Give You [Symptom]. It Made You More Sensitive To [verborgene Ursache]." | „Your hot flushes are real. So is what's soaking into your duvet every night. Only one of them goes in the wash." (A + B) |
+| 29 | „I was sitting on the edge of my bed at 3:12 in the morning, trying not to cry because I was soaked again." | Miracle [147817064](https://app.gethookd.ai/share/ad/147817064?signature=495693eb53ff3ec74fc61a2bb10a54cfa8d3fdb9e880a5a9c2609f7376e2730e) | „I was [Ort] at [krumme Uhrzeit], trying not to [Gefühl] because I was [Symptom] again." | „It wasn't just me. It was my duvet – and the cover I'd zipped it into." (B) |
+| 30 | „Let's talk about sleep for a minute because if you're a woman in menopause like I am," | Rest [30297004](https://app.gethookd.ai/share/ad/30297004?signature=9c76a6aae73a1520cfb85e881230dfdc0c0927e2bcdf2b22f13fdbccfd335bc1) | „Let's talk about [Thema] because if you're [Zielgruppe] like I am," | Creator-Peer-Hook für B |
+| 31 | „“Ich hab Bettwäsche gestrichen.”" | MagicSplashy [148248622](https://app.gethookd.ai/share/ad/148248622?signature=84d901c24974a36d3944f48f20a4e49c67491a96f0afc5eac2f108a8698f93ac) | „„Ich hab [lästige Routine] gestrichen.“" | „"I've given up duvet covers."" (C) |
+| 32 | „Bettbeziehen ist einer der sinnlosesten Zeitfresser im Haushalt. Und trotzdem machst du es jede Woche, bis jetzt." | MagicSplashy [125662052](https://app.gethookd.ai/share/ad/125662052?signature=afca98f12b6dd400226ecbd2adcf32983adb04f2c06b179d502bd583a5f9a763) | „[Routine] ist einer der sinnlosesten [X]. Und trotzdem machst du es [Frequenz], bis jetzt." | „Changing the duvet cover is the most pointless chore in the house. And you still do it every week – until now." (C) |
+| 33 | „Deine Bettdecke ist wahrscheinlich ekliger als deine Toilette. Klingt drastisch, ist aber so." | MagicSplashy [125662166](https://app.gethookd.ai/share/ad/125662166?signature=719e38ddc37afcb6317d4781f82ebed1b232e6056a24dbe45814818da05e9506) | „Dein [Objekt] ist wahrscheinlich ekliger als [Ekel-Referenz]. Klingt drastisch, ist aber so." | „Your duvet is probably dirtier than your toilet seat." (A; Beleg nötig) |
+| 34 | „Wann hast du deine Bettdecke zuletzt wirklich gewaschen? Nicht den Bezug, die Decke selbst." | MagicSplashy [125661961](https://app.gethookd.ai/share/ad/125661961?signature=f4a9caceb7b9325cd7d704dc1eb89a90ca016b89a27e80abcc1b39e06ea27ae1) | „Wann hast du [X] zuletzt wirklich [gewaschen]? Nicht [das Offensichtliche], [das Eigentliche]." | „When did you last actually wash your duvet – not the cover, the duvet itself?" (A) |
+| 35 | „Über 15 Jahre lang jede Woche das Bett frisch beziehen und trotzdem nie unter einer wirklich sauberen Decke schlafen." | MagicSplashy [125661932](https://app.gethookd.ai/share/ad/125661932?signature=f787c134bed007bb6fe093c76e9db563304ede048b85626f76c9233c2b75debc) | „[Zeitraum] lang [Routine] und trotzdem nie [Ziel]." | „15 years of changing the duvet cover every week – and never once sleeping under a clean duvet." (A + C) |
+| 36 | „Viele schreiben, Bettbeziehen dauert doch nur zwei Minuten. Was für eine faule Generation. Und genau darum geht es eigentlich gar nicht." | MagicSplashy [112081287](https://app.gethookd.ai/share/ad/112081287?signature=1ca5bb5015a714bea59c41e4d0ddced6db782e5af5cbcd952a78eb9512d15313) | „Viele schreiben, [Einwand]. [Vorwurf]. Und genau darum geht es eigentlich gar nicht." | „Reply to …'s comment: Can you really wash a whole duvet without a cover?" (C) |
+| 37 | „Week one versus week 12." | TrueClean [155122137](https://app.gethookd.ai/share/ad/155122137?signature=72b4af3c33f341b58dd8831ec6df8c34315d4876921fb04484c2c11fb6ce9195) | „Week one versus week [N]." | Zeitstrahl, z. B. Waschwasser der ersten Wäsche als sichtbarer Beweis (A) |
+| 38 | „My Daughter Sent Me This. I Should Have Found It Years Ago." | NYVEN/Kolnar (Sweep) [154291037](https://app.gethookd.ai/share/ad/154291037?signature=3967595eff96090ffd817b25da956d379eddc24ea5f007f9cf1ea5da7893e189) | „My Daughter Sent Me This. I Should Have Found It Years Ago." | direkt für D übertragbar |
+
+---
+
+##### 5. Zuordnung zu unseren Angles A–D
+
+###### A · Hygiene (was in Decke und Bezug lebt, Waschbarkeit)
+| Vorbild | Link | Warum |
+|---|---|---|
+| **TrueClean** „You Can't Wash A Mattress. You Can Empty It." (106 T, Cluster mit Winning) | [132882997](https://app.gethookd.ai/share/ad/132882997?signature=4a74d8199d2725ff56ae882f8f65eb500764073b358d210fc61c662b79d5a72b) | Die Kernlogik lässt sich 1:1 umdrehen: Bei uns wird **die Decke selbst** gewaschen, nicht nur der Bezug („You wash the duvet cover every week. The duvet inside it never gets washed."). Dazu das LP-Template mit getauschter H1 je Angle und die Prüffrage aus [127732600](https://app.gethookd.ai/share/ad/127732600?signature=afa84150b7971449d34bc3e756184af0f9c28f93b8213a649bdc4b29039e2f33). |
+| **Cosy House** Dust-Bild + Listicle `…-dust` (80 T) | [126567608](https://app.gethookd.ai/share/ad/126567608?signature=16bf04f9eded49616dbbf1b2a007a0b357e56eeda8f9203c48f0e2849ff4e902) | Kurzes, billig zu bauendes Listicle („Your Bed Is Home to Millions of Dust Mites. Here's How to Make It Uninhabitable"; „You don't just sleep in your bed. You cater it."). Hautschuppen = Futter, Schweiß = Feuchtigkeit, das passt genau zu unserem Mechanismus. |
+| **UVlizer** Teaser → Advertorial (UK, Cluster 497 T) | [80269727](https://app.gethookd.ai/share/ad/80269727?signature=275f24a45e105ebc7d27ead2e15742ba603a98d219aec0dcc4a0d7580466ec2c) | Längster Läufer im ganzen Datensatz und **in UK**. Bewährt ist die Kombination aus Ekel- oder Neugierbild ohne Produkt, „(MUST READ)" und Expertinnen-Story auf der LP. |
+| Ergänzend: **Miracle** „Clean Body. Dirty Sheets." (101 T, Winning) | [115254854](https://app.gethookd.ai/share/ad/115254854?signature=945dede758f97c4f06e4007b33ccad81816482037b98f84ee05a4adeaf0e8c37) | Sinnes-Beweis statt Laborzahl („You can smell it by day 5.") und Disclaimer im Ad-Text, eine ASA-taugliche Tonlage. Das Bild zeigt sogar eine zerwühlte **Bettdecke**. |
+
+###### B · Wechseljahre (Nachtschweiß, Hitzewallungen, Temperatur)
+| Vorbild | Link | Warum |
+|---|---|---|
+| **Miracle / Offline Granny** „3:12 in the morning… soaked again" (102 T) | [147817064](https://app.gethookd.ai/share/ad/147817064?signature=495693eb53ff3ec74fc61a2bb10a54cfa8d3fdb9e880a5a9c2609f7376e2730e) | Die beste B-Story im Datensatz. Die Wechseljahre werden nie genannt, damit gibt es keinen Gesundheits-Claim. Sie verbindet Schwitzen mit Hygiene („By the third or fourth night, they felt off… I started washing them twice a week."), also B und A in einer Story. |
+| **Eight Sleep** Paar-Story (Winning) | [150166893](https://app.gethookd.ai/share/ad/150166893?signature=67f736dbfed3d22823db96bd295ed3c1d3a477243aa3a9fb2532f2916ba8ae84) | B als Paar-Konflikt („I'm boiling, he's freezing") plus Publisher-Advertorial mit Ich-Erzählerin. Das Publisher-Modell hat bei The Get Well auch für Bettdecken (Buffy) über ein Jahr getragen. |
+| **Rest / Hot Sleeper Journal** Hotel-Geständnis (35 T, 11 Ads) | [182116197](https://app.gethookd.ai/share/ad/182116197?signature=f72aa798b79363f7f2b6fc3e17ab0d03ac0423b9e87c9bee5948803db09de37d) | Gleiche Produktgattung wie unsere (Bettdecke, laut FAQ ohne Bezug). Indirekte Wechseljahre-Ansprache („before I turned 40-something"). Waschbarkeit ist nur ein Nebensatz, das ist unsere Lücke zum Besetzen. |
+| Ergänzend: **Plufl**-Advertorial für Frauen 45+ (Ziel von 309-T-Ads) | [121399208](https://app.gethookd.ai/share/ad/121399208?signature=a7525a95abd29dcb4a1de055c7ca72296aaa71af4bd20a5eb1f544e781a7eff9) → `weareplufl.com/pages/hugl-sleep-system-advertorial` | Vorlage für die LP-Struktur („For women over 45, sleepless nights…", Testimonial-Karten mit Alter und Symptom-Tags). Bei Cosy trägt der Hook „The answer to night sweats & hot flashes is here!" ([107610652](https://app.gethookd.ai/share/ad/107610652?signature=6640df54d74502335a81fa1c3fa74900d36d23717cf0e4f4672e4264e052e96f), 114 T). |
+
+###### C · Beziehen (Kampf mit dem Bettbezug entfällt)
+| Vorbild | Link | Warum |
+|---|---|---|
+| **MagicSplashy** UGC-Ich-Story (höchster Spend, Winning) | [126012757](https://app.gethookd.ai/share/ad/126012757?signature=4aa5cf75157a813c3daede61927240a452d4bf09046a0feee9ae288bd457658f) | Gleiches Produkt, belegter Spend-Winner. Das Skript (Kaufgrund → „Decke und Bettwäsche in EINEM" → Einwand vorwegnehmen → „keine Faulheit") läuft seit Mai und lässt sich fast 1:1 ins UK-Englisch übertragen. |
+| **MagicSplashy** Hook-Matrix-Voiceover ($10.001–20.000) | [125662052](https://app.gethookd.ai/share/ad/125662052?signature=afca98f12b6dd400226ecbd2adcf32983adb04f2c06b179d502bd583a5f9a763) | Ein 93-s-Body mit 4 Hooks (C, 2× A, Langzeit-Routine). Im Test hat C den meisten Spend bekommen. Damit ist es eine Testvorlage für UK, wo das Ergebnis noch offen ist. |
+| **Cosy House** Fake-Negativ-Story (86 T) bzw. **UVlizer** Skeptiker-Review (439 T) | [113404606](https://app.gethookd.ai/share/ad/113404606?signature=0aa2496673a6124d72aee47f01935325fe31eefa79948365c018753b78d2e472) · [32787916](https://app.gethookd.ai/share/ad/32787916?signature=65c23fdb01391d65eee51cc8aa6f02277b53f620e0a4f3f14ada2926415f8a45) | Eine neue Kategorie braucht Einwandbehandlung: „3 reasons why I regret buying this coverless duvet" bzw. „5 reasons why I didn't want to try one" („It can't be hygienic without a cover", „It won't fit my washing machine"). |
+
+###### D · Tochter kauft für Mutter
+| Vorbild | Link | Warum |
+|---|---|---|
+| **Plufl** „Want Mom to Sleep Better? 👩 💤" (309 T, Winning) | [122685246](https://app.gethookd.ai/share/ad/122685246?signature=9353cc910bd53bc947160d0421f3eeb88df5864ec945f84856b3cdf128633ea0) | Belegt, dass schon die **Titel- und Text-Rahmung** „für Mama kaufen" sehr lange trägt. Auf der LP das Testimonial „My daughter bought this for me after watching me struggle for years." Für UK: „Want Mum to sleep better?" |
+| **UVlizer** „For The Mom Who Deserves The Best 🌸" (UK, 364 T, used_count 6) und Grandma-Video mit Tochter | IDs 27829561 und 27829534 (share_url nicht erfasst) | Einziger **UK-Beleg** für den Geschenk-Angle (Bild „BEST GIFT FOR EVERY MOM"). In den Storys bringen Tochter oder Freundin die Lösung („Mom, why haven't you tried Kleru yet?"), dazu kommen Folgekäufe für die Familie. |
+| **SP Nutrition** Tochter zeigt den Artikel (Sweep, 139 T) | [101624013](https://app.gethookd.ai/share/ad/101624013?signature=06fb2c84e91653471c74fe657a9747dcc8199b63b0c06d71d00e049baa3fe13a) | Vollständigstes Tochter-Skript mit B-Bezug („Soaked sheets every night" → „my daughter sat me down" → „Dry sheets"), fast 1:1 übertragbar. Ergänzend die Formel „My wife is going to kill me for posting this." ([99445068](https://app.gethookd.ai/share/ad/99445068?signature=7d374440e76d412b469cac680610215a7e93e19bb4fbdb167786e870655278ea)) → „My mum is going to kill me for posting this." |
+
+**Lücke = Chance:** Keine der 8 Marken hat ein komplettes Advertorial aus Sicht der Tochter. MagicSplashy hat nur Bausteine (Umfrage-Punkt 08, Werner-Fall, Gelenke-Hook [196670581](https://app.gethookd.ai/share/ad/196670581?signature=e5a96a5e315b625f975238b8a61f8c6c33672b8b2180347f4772d5f22026f3f8)), TrueClean testet die Rahmung erst seit 06.10. (201101007).
+
+---
+
+##### 6. Nicht vertiefte Kandidaten aus den Sweeps
+
+Quelle: zusammengeführte Liste in `sweep_web.md` Abschnitt 5 sowie `sweep_gethooked_hooks.md` und `sweep_gethooked_native.md`. „Score" = Sweep-Score als Vorbild für unsere Angles.
+
+| Marke | Markt | Score | Bester Beleg (Link · Laufzeit) | Grund (1 Satz) |
+|---|---|---|---|---|
+| GroundingWell | US/UK/EU | 9 | [75250601](https://app.gethookd.ai/share/ad/75250601?signature=6073c8a1db81dd0fcab4101b2f3db56fe0638d3050be7f26ce3b6a8b73684eeb) · 226 T | Starkes Persona-Netz (46 Seiten) mit Arzt-, Ich-Story- und Wechseljahre-Advertorials sowie Tochter-Moment. Nicht vertieft, weil das Produkt (Erdungslaken) mit Pseudo-Gesundheitsversprechen arbeitet und für UK-Claims wenig taugt. |
+| Ryer + provergleich.com | DE | 8–9 | [111737379](https://app.gethookd.ai/share/ad/111737379?signature=4d616e456c750e2c496f4e36fc21ac8884d77c1ac0729da6b9febd18f237de15) · 124 T | Bestes DE-Vorbild für Angle A („Hör auf, in deinem eigenen Dreck zu schlafen. Milben, Schweiß, Hautschuppen…"). Kein Bettwaren-Produkt und nicht UK. Rohnotizen liegen in `a3/deep_ryer/_notes.md`, eine brand-Datei gibt es nicht. |
+| Down To Ground | US/UK | 7–8 | [169458382](https://app.gethookd.ai/share/ad/169458382?signature=494aacfa3cc49cf887f0e6f5926cb7fe3ff27d6cc24010e8248fa43a43bb4a7b) · 46 T (Marke bis 187 T) | Gründer-Story „why I quit cycling for my mum" ist D-nah und läuft auch in GB. Erdungs-Produkt mit ähnlichem Claim-Problem wie GroundingWell. |
+| Aeyla | **UK** | 7–8 | [97025036](https://app.gethookd.ai/share/ad/97025036?signature=de5b8f729a3ac81a3bb0f6b01c7c03536fffda676fb2e9082733e8e350ebdb6f) · 33 T | Einzige UK-Bettwarenmarke mit Community-Persona und Hygiene-Schock-Story einer 61-Jährigen („That pillow in the photo is mine…"). Die Story-Ads liefen aber nur 33 T, die Langläufer gehen auf die PDP. |
+| Kaori (Grandma's Care Journal / Grandma's Glow) | US | 7–8 | [95842126](https://app.gethookd.ai/share/ad/95842126?signature=f8f290640067d6ced02b3cdd16c040124c28c875b8837c28208a39f3be292282) · 203 T | Hygiene-Scham bei 50+ plus Familie („My grandson was at my house every afternoon…") passt zu A + D. Kein Bettwaren-Produkt, deshalb zugunsten von Cosy House getauscht (siehe `brand_cosyhouse.md`). |
+| SP Nutrition | US/UK | 7 | [101624013](https://app.gethookd.ai/share/ad/101624013?signature=06fb2c84e91653471c74fe657a9747dcc8199b63b0c06d71d00e049baa3fe13a) · 139 T | Stärkstes Tochter-plus-Wechseljahre-Skript (siehe Abschnitt 5 D). Magnesium-Präparat, kein Bettwaren-Produkt. |
+| FluffCo | US | 7 | [120530139](https://app.gethookd.ai/share/ad/120530139?signature=ef502e12f0ee6fa1da90f716307cb623a60e017b449cf4785aa25eba04a16da5) · 91 T | Hotel-Qualität und die Hotel-Diebstahl-Story (gleiche Schablone wie Rest), dazu 6 Persona-Seiten. Kissen statt Decke und kürzere Laufzeiten als Rest. |
+| The Sleep Edit → Silvery Cooling Comforter | US | 7 | [185341953](https://app.gethookd.ai/share/ad/185341953?signature=16fdb248195b961f8f7705f48469e902e4a3293dcb77edd055151962b12851ac) · 22 T | Einziges Vergleichs-Advertorial („Top 5 Cooling Comforters", Arzt) bei Bettdecken mit B-Begründung. Erst 22 T alt, Wirkung noch nicht belegt. |
+| Mellow Sleep | US | 6–7 | [176715736](https://app.gethookd.ai/share/ad/176715736?signature=f46fc1c21f4227baa7a40e218ada934d1276f1ea61c49d755e19169a75c9153a) · 31 T | Großes Multi-Page-System (Chiropraktiker-Advertorial, Menopause-Kissenbezug). Die Ads rotieren stark (30–41 T), Langläufer fehlen. |
+| twentythree.de | DE | 6–7 | 111961242 · 130 T | Bettwäsche-Listicle „8 Gründe…" (Schwitzen, reife Haut). DE-Markt und nur ein Format. |
+| Earth Breeze | US | 6 | 110263351 · 111 T | Ich-Story-Advertorial „I stopped washing my bed sheets…" (A). Waschmittel, kein Bettwaren-Produkt. |
+| Clean People („Women's Fitness & Style") | US | 6 | 87297559 · 169 T | Dermatologen-Vergleichs-Listicle auf Fake-Blog (A). Waschmittel. |
+| Clarifion | US | 6–7 | 92196867 · 93 T | US-Original des „(MUST READ)"-Milben-Playbooks. Der UK-Klon UVlizer ist für uns relevanter und wurde vertieft. |
+| AeroPure | AU | 6 | 80217310 · 230 T | Weiterer Milben-Ionisator-Klon mit Arzt-Listicle. Gleiches Playbook wie UVlizer, AU-Markt. |
+| Healthy Essential | US/**UK** | 6 | 75702 · 954 T | Vergleichs-Listicle „Top 4 … Available in the UK" für Waschmittelblätter. Langläufer, aber ohne Story. |
+| X-All Waschmaschinenreiniger | US | 6 | [94819002](https://app.gethookd.ai/share/ad/94819002?signature=11f034106ae0cb060df83d138b009d675d079c45f418949e3a0b6ae26957e502) · 235 T | News-Ich-Story mit Tochter-Mutter-Rahmen („I'm a 39 year old woman, and I do laundry at my mom's house…"). Kein Bettwaren-Produkt. |
+| Home & Garden Trend (OrthoBed) | US | 6–7 | 104756839 · 128 T | Listicle-Advertorial „5 Ways Your Old Mattress…" und Ekel-UGC (A). Matratzen-Topper, geringere Story-Tiefe. |
+| Fine Foams | AU | 6 | 170770704 · 41 T | Native-Typo-Bild „Two people. One doona." (Paar-B-Motiv). Kurz gelaufen, AU-Markt. |
+| Swarva | US/UK | 5 | 76171252 · 165 T | Arzt-Advertorial zu Altersgeruch (A/D-nah). Körperpflege, kein Bettwaren-Produkt. |
+| Top 5 Best Mattresses UK (Emma) | **UK** | 5 | [123222968](https://app.gethookd.ai/share/ad/123222968?signature=061d59d55532a23ddb3a114503226641100388498f33de12166ead9e3e0f9f3b) · 149 T | Marken-eigene Vergleichsseite in UK, als Format interessant. Keine Story, Laufzeit unsicher. |
+| Earthbound Co. | US | 5–7 | 46362941 · 366 T | UGC → Fake-Magazin-Advertorial „The Longevity Brief". Kein klarer Bezug zu unseren Angles. |
+| Zelesta.de | DE | 5–6 | [108558235](https://app.gethookd.ai/share/ad/108558235?signature=823f5e0a02bd7b22e2d162ddf63f0af3ee22a6c5bb569453d45d2ccd37a5f125) · 129 T, $2.001–5.000 | UGC-Ich-Story zum Beziehen (C), die LP ist aber die Homepage, also kein Native-Funnel. |
+| Doze Bedding | US | 5 | [132509372](https://app.gethookd.ai/share/ad/132509372?signature=02b54bef5fe390dfd677ebe66409058a36add761c4a783cf602b59134a467bd6) · 225 T | Bettbezug-UGC „household battles" (C). LP ist die Homepage. |
+| Pridola | **UK** | 5–6 | [178483534](https://app.gethookd.ai/share/ad/178483534?signature=1f3dc9a0cb84144d9f003396a2412c4f764930a475565b492dd494acb5ed2325) · 23 T | UK-Musselin-Decke mit Story-Hooks für Frauen 50+. LP ist die PDP, die Laufzeiten sind kurz. |
+| Uk Sleep Forum (Airvex) | **UK** | 4 | 178964447 · 44 T | Native-Text-Story mit LP = PDP. Schnarchen/Apnoe, kein Bezug zu unseren Angles. |
+| Blissy | US | 6 | [168753041](https://app.gethookd.ai/share/ad/168753041?signature=d34fc84258d46be2fc6482bb0462ddf63a2166e8e9c5768a2f69f882f5a913f1) · 39 T | Hook „🚨 Is Your Pillow Making You Sick?" (A). Kurzläufer, die LP leitet heute auf eine Salespage um. |
+| TRAVLR | US | 6 | [85720667](https://app.gethookd.ai/share/ad/85720667?signature=324dc6777331bb6a9fe467f515aa9ec092182f63eb22eadd4f677cfb67ef43c5) · 268 T | Oma-Tochter-Story plus Experten-Exposé („my daughter offered to fly to me instead"), ein D-Muster. Reisekissen, fachfremd. |
+| NYVEN / Kolnar | US | 6 | [154291037](https://app.gethookd.ai/share/ad/154291037?signature=3967595eff96090ffd817b25da956d379eddc24ea5f007f9cf1ea5da7893e189) · 45 T | „My Daughter Sent Me This. I Should Have Found It Years Ago." (D/C-Formel). Staubsauger, LP = PDP. |
+| Vitalisys (Emma McCarthy) | **UK** | 6 | [91584388](https://app.gethookd.ai/share/ad/91584388?signature=10c45dc556ad1bab43380cd25b8801992e6268742f09c59a44ccdde41c85275b) · 97 T | UK-Wechseljahre-Ich-Story („I was lying on the bathroom floor at 3:42 AM…"). Nahrungsergänzung, die LP ist heute 404. |
+| Unikor NightGuard / Lovy / Pestlab / wellbe / Vision Beam / PurePath | US/UK/DE | 5 | siehe `sweep_gethooked_hooks.md` 3.16 | Einzelne Formate sind brauchbar (Charakter-Ad „I'm the bed bug living in your mattress", Experten-Beichte, Listicle auf Magazin-Domain, Fake-Tweet). Die Produkte sind fachfremd oder die Laufzeiten kurz. |
+| Calmhaven | – | – | 93024586 (share_url nicht erfasst) | Nur als vierter Beleg für das Muster „Tochter bringt Mutter die Lösung" erwähnt (`sweep_gethooked_hooks.md` Abschnitt 4), nicht weiter geprüft. |
+| Direkte Wettbewerber „Decke ohne Bezug" ohne Natives: Night Lark (UK), Pleene (US/UK), HappyBed, OhMySwiss, Ynot, Anfaru, Paradies | UK/US/DE | – | – | Kein Native-Vorbild, aber ein Beleg für die Chance: Der Bettdecken-Markt wirbt fast nur mit Homepage, PDP und DPA. Pleene nutzt „No stuffing. No tying. No adjusting a separate cover." |
+
+---
+
+##### 7. Lücken dieser Synthese
+
+- Die Inhalte stammen aus den brand-Dateien und Sweeps und wurden nicht neu gegen GetHookd geprüft. Laufzeiten und Status gelten zum Stand der jeweiligen Datei (08.10.2026).
+- Für einige Zusatz-Belege fehlt in den Rohdaten die `share_url`: TrueClean 201101007 und 132827480, UVlizer 27829561 und 27829534, Calmhaven 93024586 sowie einige Sweep-IDs ohne Link in Abschnitt 6 (z. B. 111961242, 110263351, 87297559). Sie sind als ID angegeben.
+- Spend gibt es nur für MagicSplashy. Bei allen US-Marken und bei UVlizer stützt sich das Ranking auf Laufzeit, Score und Varianten.
+- Die Spalte „Ansatz UK" in Abschnitt 4 enthält Vorschläge und keine Zitate. Gesundheits- und Hygiene-Claims müssen für UK (ASA/CAP) belegt werden. „hot flushes" ist der UK-Begriff.
 
 ### Marken-Deep-Dive: Cosy House Collection (Bambus-Bettwäsche, Listicle-Funnel + Ich-Story-Videos)
 
@@ -8544,6 +9444,92 @@ Your first full night of sleep is closer than you think. Your family needs you a
 
 ## 5. Methode, Raster, Einordnung, Lücken
 
+### 5.0 Pflichtlisten-Prüfung und offene Lücken
+
+#### Pflichtlisten-Prüfung und offene Lücken (Schlussrunde Agent 4)
+
+Stand 08.10.2026, 17:30 UTC. Geprüft wurden die Ergebnis-Dateien in `a1/`, `a2/`, `a3/` und `a4/` gegen den Auftrag. Die Lücken stammen aus den Abschnitten „Lücken“, „Methodik“ und „gaps“ der `grid_`-, `lp_`- und `brand_`-Dateien sowie aus eigenen Nachzählungen per Python. Bewertung: **erfüllt** / **teilweise** / **nicht erfüllt**.
+
+---
+
+##### Agent 1 – PillowDaddy-Ads
+
+| Pflichtpunkt | Status | Beleg | Offene Lücke (Grund) |
+|---|---|---|---|
+| Alle aktiven und inaktiven Ads der letzten 6 Monate | **erfüllt** | 6 Lanes, `ads_*.json`. Im Fenster liegen **4.472 IDs** auf den 10 PillowDaddy-Seiten, dazu Discovery (Brielle Grace 25 PillowDaddy- und 84 Fremd-Ads, Sofía 58). Jede Lane ist gegen GetHooked `meta.total` abgeglichen, inklusive Langläufer-Checks. | Zurückgehaltene aktive Ads sind nicht abrufbar: US 18 (DH 4, SR 1, GK 1, RF 12), CR 2, DK 3, GLJ 1. Grund: Index-Verzug bei GetHooked. Inaktive Persona-Seiten, die vor dem 12.06. endeten, sind nicht auffindbar (Restrisiko). |
+| Volles Raster je Ad | **teilweise** | Einzelzeilen pro Ad: GLJ/Brandt 493, Marke 207, Discovery 167. Zeilen pro Copy-Cluster mit allen IDs im Anhang: US 346 Cluster (2.632 IDs), DE-Frauen 99 Cluster (1.140 IDs). | Spend fehlt für alle US-Ads (null). DE-Spend ist dünn: 92 % liegen im Bucket „0–$500“. Länder sind nur bei 115 von 493 GLJ-Ads abgefragt. Text im Bild: Bei 140 von 452 US-Mediengruppen nur per Tesseract-OCR erfasst, bei DE-Frauen nur die 3 häufigsten Motive je Cluster. Eingeblendeter Video-Text nur aus Start- bzw. Poster-Frame (US, GLJ). Grund jeweils: Zeit- und Kontextbudget. |
+| **Jede** Video-Ad transkribiert | **teilweise** | US: 646 von 652 Medien `completed`, 2 `no_speech`. Marke, Discovery: keine Lücke vermerkt. DE-Frauen: keine Videos im Fenster. | **GLJ: 37 von 181 Video-Clustern haben nur die ersten 40 s** (lokal transkribiert), weil GetHooked bei Redaktionsschluss noch „processing“ meldete. US: 4 Medien `failed` (u. a. 117914555, 126713042), auch nach erneutem Anstoß. Whisper-Fehler bewusst nicht korrigiert. |
+| Top 15 heruntergeladen, Aufbau in Sekunden | **erfüllt** | `a1/top15.md`: alle 15 IDs als mp4 lokal, 15 Sekunden-Tabellen (184 Zeitzeilen), Querschnitt mit Master-Dramaturgie. Nr. 13–15 sind inzwischen fertig. | Die Szenen-Spalte stützt sich auf je 20 Frames, nicht auf alle 100–200 Schnitte. Bei den Knete-Videos sind die Schnitte geschätzt. US-Ranking ohne Spend. |
+| Advertorial/Listicle vs. Produktseite | **erfüllt** | LP-Typ steht in allen Grids. `a2/lp_inventar.json`: 4.206 von 4.533 IDs Native (92 %), 327 PDP. | 5 Native-LPs sind heute 404 (153 Ads). Ihr Typ ist nur vermutet. |
+| Einordnung Winner/Kandidat/Test/Verlierer | **erfüllt** (mit Einschränkung) | Winner/Kandidat/Test/Verlierer je Grid: US 106/86/0/211 · DE-Frauen 63/47/0/70 · GLJ/Brandt 33/56/12/235 · Marke bis Juli 13/6/0/28 · Marke ab Aug. 6/40/0/32 · Discovery 10/26/28/26 | Die Einordnung beruht auf Laufzeit und Varianten, nicht auf Umsatz. „Test“ nutzen nur 2 Lanes, die anderen führen junge Ads als „Kandidat“. |
+
+###### Zahlen-Abgleich: Ads im Fenster je Seite, `a1/ads_*.json` vs. `a2/lp_inventar.json`
+
+| Seite | Agent 1 (aktiv) | Inventar Agent 2 (aktiv) | Differenz |
+|---|---|---|---|
+| Claudia Reichardt | 634 (55) | 634 (55) | 0 |
+| Daniela Koch | 342 (24) | 342 (24) | 0 |
+| Karin Zimmermann | 164 (18) | 163 (18) | −1 (nicht aufgeklärt) |
+| Gesund Leben Journal | 483 (74) | 483 (74) | 0 |
+| Thomas Brandt | 10 (8) | 10 (8) | 0 |
+| PillowDaddy (Marke, 2 Dateien, keine Überschneidung) | 207 (16) | 207 (16) | 0 |
+| The Daily Health | 606 (30) | 606 (30) | 0 |
+| Stephanie Robertson | 277 (16) | 317 (16) | **+40** |
+| Gary Kuhlman | 299 (6) | 306 (6) | +7 |
+| Rebecca Fitzgerald | 1.450 (5) | 1.465 (5) | +15 |
+| **Summe** | **4.472 (252)** | **4.533 (252)** | **+61 (+1,4 %)** |
+
+Die Aktivzahlen stimmen überall überein. Die Differenz entsteht fast vollständig bei den US-Personas (+62). Laut eigener Gap-Notiz zählt das Inventar diese Seiten über `collapse_variants` (Summe `variant_count`, „Näherung ±5 %“). Agent 1 hat dieselben Seiten einzeln aufgezählt und gegen `meta.total` geprüft. **Agent 1 ist deshalb die belastbarere Zahl.** Für den Bauplan heißt das: Die Kennzahl „92 % Native von 4.533“ ändert sich in der Größenordnung nicht, die Basis sollte aber 4.472 sein. Außerdem bezog sich „487 von 493“ auf GLJ und Brandt zusammen; GLJ allein hat 477 Native-Ads von 483 (im Bauplan korrigiert). Brielle Grace (UK) und Sofía (ES) fehlen im Inventar, weil sie über andere Domains laufen.
+
+---
+
+##### Agent 2 – Native-Seiten
+
+| Pflichtpunkt | Status | Beleg | Offene Lücke (Grund) |
+|---|---|---|---|
+| **Jede** Native-Seite erfasst | **teilweise** | 33 Seiten in `muster.md` §1 und `lp_struktur_alle.md` (33 Zeilen). `lp_analysen_alle.md` hat 34 Abschnitte, dazu kommen die Tiefenanalysen advert-6 und advert-7. | **5 Seiten sind 404** (us headaches-r-1 110 Ads, neck-pain-r-4 31, neck-pain-r-1 8, DE-t-2 3, anti-snoring 1). Inhalt nicht rekonstruierbar, weil Wayback mit 429 antwortet. Unverlinkte Slugs mit Zufallscode (Muster `-A391`) bleiben unentdeckt. |
+| Perspektive/Autor, Fake-Magazin-Optik | **erfüllt** | Spalten in `muster.md` §1, Abschnitt 2.3 | Die Optik ist nur bei 18 Seiten per Screenshot geprüft, bei den übrigen aus HTML-Merkmalen abgeleitet. |
+| Headline und Sub wörtlich | **erfüllt** | `lp_analysen_alle.md`, Sub-Formeln in `muster.md` 2.2 | Bei de_test_bauarten fehlt die Sub. |
+| Aufbau mit Überschriften und Länge | **erfüllt** | `lp_struktur_alle.md`/`.json` (Mobile 390 px) | Abschnittsgrenzen sind heuristisch (±einige %). Manuell zerlegt sind nur advert-6 und advert-7. Text in Bildern ist nicht mitgezählt. |
+| Produkt-Einführung nach X Wörtern | **erfüllt** | Spalte „Produkt nach“ in `muster.md` §1 (z. B. 848 W bzw. 24 %, T4 64 %) | fehlt bei den 404-Seiten |
+| Mechanismus, Beweise, Angebot, Knappheit, Garantie, Übergang | **weitgehend erfüllt** | `lp_analysen_alle.md`, je Seite mit Zitaten | Ableger-Seiten (#14 Schulter, #16 Hände, #17 Migräne, #28–#32) sind nur verkürzt beschrieben („wie #13“). Bei einigen fehlen Angebot oder Übergang ausdrücklich. Der UK-Checkout `zifarra.com` wurde nicht abgerufen, Post-Purchase-Upsells sind unbekannt. |
+| Wiederkehrende Muster | **erfüllt** | `muster.md` §2 (2.1–2.10) und §3 Schablone | Erfolg ist nur indirekt gemessen (Ad-Zahl, Laufzeit). Die 10–12 Video-Loops pro Seite sind nicht transkribiert. Google- und Taboola-Traffic ist mit GetHooked nicht messbar. |
+
+---
+
+##### Agent 3 – weitere Native-Vorbilder
+
+| Pflichtpunkt | Status | Beleg | Offene Lücke (Grund) |
+|---|---|---|---|
+| ≥ 8 Marken | **erfüllt** | 8 `brand_*.md`: MagicSplashy, UVlizer/Clairu, Plufl, Miracle Made, TrueClean, Rest, Eight Sleep/The Get Well, Cosy House. Dazu die Synthese `vorbilder_uebersicht.md` (erst 17:20 erschienen). | Ryer, GroundingWell, Aeyla (UK) und Pridola (UK) liegen nur als Sweep vor. Unter den 8 vertieften Marken läuft nur UVlizer in UK. |
+| je 3 stärkste Native-/Story-Ads | **erfüllt** | je 3 Ads, teils mit Bonus-Ad (Miracle 4, Eight Sleep 4, UVlizer 3 + 3), mit `share_url` | Fehlende `share_url`s: UVlizer 27829561/27829534, Calmhaven 93024586, TrueClean 155122378/201101007, MagicSplashy-Hook-Varianten. Bei TrueClean 127732600 und Cosy Ad 2 wurde jeweils das zweite Medium nicht gesichtet. |
+| Transkript | **erfüllt** (für alle Video-Ads) | Transkript-Anhänge bei Plufl, Cosy House, MagicSplashy, UVlizer; Rest 2 Videos, TrueClean 1 Video plus Schwester | Eight Sleep und Miracle haben nur Bild-Ads, dort liegen stattdessen die vollständigen Primärtexte vor. Musik und Ton sind nicht analysiert. Die Creator-Seiten von Cosy, Plufl und Rest wurden nicht transkribiert. |
+| LP-Typ | **erfüllt** | LP-Zerlegung je Marke (Advertorial/Listicle/PDP/Publisher) | Nicht abgerufen wurden die MagicSplashy-PDP (Abruf leer), die Miracle-LP `/a/dermatologist-approved-sheets` und die TrueClean-LP `household-report`. Bei Plufl ist die gewinnende Headline-Variante unklar (Timeout). |
+| Spend | – (kein Pflichtpunkt) | – | Spend gibt es nur bei MagicSplashy (EU). Für alle anderen Marken ist der Erfolg nur über Laufzeit und Score belegt. |
+
+---
+
+##### Agent 4 – Bauplan (`a4/bauplan.md`)
+
+| Pflichtpunkt | Status | Beleg | Offene Lücke |
+|---|---|---|---|
+| Je Angle Native-Format mit Begründung | **erfüllt** | A–D a), seit der Schlussrunde mit PillowDaddy-eigenen Belegen (Tochter-Winner, Ekelbilder, Wechseljahre als Einwand) | – |
+| Story-Gerüst 8–10 Schritte | **erfüllt** | A 10, B 10, C 9, D 10. Für D gibt es zusätzlich den Abgleich mit dem Winner SR-K05 (Positionen in %). | Platzhalter (`[N]`, `[£XX]`, Gewicht, Trockenzeit) brauchen echte Produktdaten. |
+| 3 Headline-Muster | **erfüllt** | Muster mit wörtlichem Original und Link: A 7, B 8, C 3, D 6 | C liegt genau am Minimum. |
+| Vorlage mit Link | **erfüllt** | d)-Tabellen: A 9 Zeilen/13 Links, B 8/10, C 6/6, D 6/11. Neu: Seiten-Schablone (Kap. 1.5) und Video-Sekunden-Anker (Kap. 1.6). | Keine UK-Rechtsprüfung (Kap. 4 ist nur eine Leitplanke). Claims-Belege (Waschtest, Umfrage) fehlen noch. |
+
+---
+
+##### Wichtigste offene Lücken (Priorität)
+
+1. **GLJ-Transkripte:** 37 Video-Cluster haben nur den 40-s-Hook. Nachholen per `get_transcription_status`; betroffen sind vor allem K01- und K02-Hook-Varianten.
+2. **Zählbasis:** Das Inventar liegt bei den US-Personas um 62 IDs über der Einzelzählung. Kennzahlen sollten auf 4.472 IDs (Agent 1) beruhen.
+3. **5 Native-LPs sind 404 (153 Ads)**, darunter US headaches-r-1 mit 110 Ads. Aufbau und Mechanismus fehlen.
+4. **Kein Spend für US/UK.** Winner-Urteile außerhalb von DE/AT beruhen nur auf Laufzeit und Varianten.
+5. **PillowDaddy UK (Brielle Grace)** läuft erst seit 06.10. Der Erfolg ist offen; in 2–4 Wochen erneut prüfen.
+6. **Eingeblendeter Video-Text** ist nur aus Startframes erfasst, Text in Bildern teils nur per OCR.
+7. Für **Angle D** hat keine der 8 Vorbild-Marken ein vollständiges Tochter-Advertorial. Das beste Vorbild ist PillowDaddys eigene Long-Copy SR-K05/KZ-01. Das ist eine Lücke im Markt, keine Lücke der Research.
+
 ### Zeitfenster
 "Letzte 6 Monate" = jede Ad, die zwischen **2026-04-08 und 2026-10-08** irgendwann lief: aktiv heute ODER end_date ≥ 2026-04-08 (auch wenn vor April gestartet – Langläufer sind besonders wichtig!). Ads, die vor dem 08.04. endeten, nur zählen (Spalte "vor Fenster"), nicht analysieren.
 
@@ -8577,7 +9563,3 @@ Identische Creatives (gleicher Titel+Text+Medium) zu einem **Creative-Cluster** 
 - **Kandidat**: kein Winner, aber Laufzeit 14–59 Tage, ODER aktiv mit 7–13 Tagen und Signal (Spend ≥ $2.001 oder ≥ 3 Varianten).
 - **Test**: noch aktiv, < 14 Tage, kein Kandidat-Signal (zu früh für Urteil).
 - **Verlierer**: inaktiv und Laufzeit < 14 Tage.
-
-### Nicht erzeugte Dateien
-
-- `a2/muster.md`

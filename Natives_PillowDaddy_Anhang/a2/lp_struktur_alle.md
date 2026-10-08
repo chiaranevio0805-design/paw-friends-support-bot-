@@ -834,7 +834,7 @@ Stand 08.10.2026, Agent 2. Quelle: Playwright-Rendering **Mobile 390 px / iPhone
 - **Meta-Description:** „Wir testen die besten Schlafprodukte — damit du es nicht musst.“
 - **Zeilen vor der Headline (Kopfleiste):** „ANZEIGE · Werblicher Inhalt (Advertorial). Dieser Beitrag enthält bezahlte Werbu“ · „SchlafBerater.de“ · „Wir testen die besten Schlafprodukte — damit du es nicht musst.“ (32 Wörter)
 - **Headline (h1):** „Die besten Nackenkissen im Test 2026: Welches hält wirklich, was es verspricht?“
-- **Subheadline (Zeile(n) direkt danach):** –
+- **Subheadline (Zeile(n) direkt danach):** – (keine eigene Subheadline; Fließtext/Byline folgt direkt)
 - **Autor-/Datumszeilen:** „Von Lisa Hartmann \| Aktualisiert: Juni 2026“
 - **Länge:** 1893 Wörter sichtbar gesamt; Artikel (Headline→Footer) 1854; Footer 7; Seitenhöhe Mobile 17598 px; 6 Bilder ≥150 px, 0 Videos
 - **Erste Produktnennung** („Therapiekissen“) nach **170 Wörtern** ab Headline (9 % des Artikels), Abschnitt „(Kopfbereich: Headline/Sub/Autor)“: „Nacken Therapiekissen von PillowDaddy“
@@ -897,7 +897,7 @@ Stand 08.10.2026, Agent 2. Quelle: Playwright-Rendering **Mobile 390 px / iPhone
 - **Meta-Description:** „Wir testen die besten Schlafprodukte — damit du es nicht musst.“
 - **Zeilen vor der Headline (Kopfleiste):** „SchlafBerater.de“ · „Wir testen die besten Schlafprodukte — damit du es nicht musst.“ · „Adevtorial“ (12 Wörter)
 - **Headline (h1):** „Die besten Nackenkissen im Test 2026: Welches hält wirklich, was es verspricht?“
-- **Subheadline (Zeile(n) direkt danach):** –
+- **Subheadline (Zeile(n) direkt danach):** – (keine eigene Subheadline; Fließtext/Byline folgt direkt)
 - **Autor-/Datumszeilen:** „Von Lisa Hartmann \| Aktualisiert: Juni 2026“
 - **Länge:** 1849 Wörter sichtbar gesamt; Artikel (Headline→Footer) 1834; Footer 3; Seitenhöhe Mobile 17308 px; 6 Bilder ≥150 px, 0 Videos
 - **Erste Produktnennung** („Therapiekissen“) nach **170 Wörtern** ab Headline (9 % des Artikels), Abschnitt „(Kopfbereich: Headline/Sub/Autor)“: „Nacken Therapiekissen von PillowDaddy“
@@ -960,7 +960,7 @@ Stand 08.10.2026, Agent 2. Quelle: Playwright-Rendering **Mobile 390 px / iPhone
 - **Meta-Description:** „Wir testen die besten Schlafprodukte — damit du es nicht musst.“
 - **Zeilen vor der Headline (Kopfleiste):** „ANZEIGE · Werblicher Inhalt (Advertorial). Dieser Beitrag enthält bezahlte Werbu“ · „SchlafBerater.de“ · „Wir testen die besten Schlafprodukte — damit du es nicht musst.“ (32 Wörter)
 - **Headline (h1):** „Die besten Nackenkissen im Test 2026: Welches hält wirklich, was es verspricht?“
-- **Subheadline (Zeile(n) direkt danach):** –
+- **Subheadline (Zeile(n) direkt danach):** – (keine eigene Subheadline; Fließtext/Byline folgt direkt)
 - **Autor-/Datumszeilen:** „Von Lisa Hartmann \| Aktualisiert: Juni 2026“
 - **Länge:** 1836 Wörter sichtbar gesamt; Artikel (Headline→Footer) 1797; Footer 7; Seitenhöhe Mobile 13422 px; 6 Bilder ≥150 px, 0 Videos
 - **Erste Produktnennung** („PillowDaddy“) nach **169 Wörtern** ab Headline (9 % des Artikels), Abschnitt „PillowDaddy Nacken-Therapiekissen“: „PillowDaddy Nacken-Therapiekissen“
@@ -1761,7 +1761,7 @@ Stand 08.10.2026, Agent 2. Quelle: Playwright-Rendering **Mobile 390 px / iPhone
 - **Browser-Titel:** „Scottsdale Woman, 67, Discovers What ICU Nurses Are Calling The Fastest Way To Fix Neck Pain For Sid“
 - **Zeilen vor der Headline (Kopfleiste):** „Advertorial“ · „Trending in the US“ (5 Wörter)
 - **Headline (fett (p)):** „Scottsdale Woman, 67, Discovers What ICU Nurses Are Calling The Fastest Way To Fix Neck Pain For Side Sleepers“
-- **Subheadline (Zeile(n) direkt danach):** –
+- **Subheadline (Zeile(n) direkt danach):** – (keine eigene Subheadline; Fließtext/Byline folgt direkt)
 - **Autor-/Datumszeilen:** „Mon, September 14th, 2026 \| 10:54 am EST - 84,498 Views“ · „By Jessica Callaway“
 - **Länge:** 3609 Wörter sichtbar gesamt; Artikel (Headline→Footer) 3387; Footer 217; Seitenhöhe Mobile 33981 px; 26 Bilder ≥150 px, 5 Videos
 - **Erste Produktnennung** („Neck Therapy“) nach **487 Wörtern** ab Headline (14 % des Artikels), Abschnitt „The Discovery“: „“Neck Therapy Pillow.”“
@@ -1899,7 +1899,7 @@ Stand 08.10.2026, Agent 2. Quelle: Playwright-Rendering **Mobile 390 px / iPhone
 - **Meta-Description:** „Wir testen die besten Schlafprodukte — damit du es nicht musst.“
 - **Zeilen vor der Headline (Kopfleiste):** „SchlafBerater.de“ · „Wir testen die besten Schlafprodukte — damit du es nicht musst.“ (11 Wörter)
 - **Headline (h1):** „Kissen im Test 2026: Wir haben alle 5 Bauarten je 30 Nächte getestet. Die beliebteste fiel durch.“
-- **Subheadline (Zeile(n) direkt danach):** –
+- **Subheadline (Zeile(n) direkt danach):** – (keine eigene Subheadline; Fließtext/Byline folgt direkt)
 - **Autor-/Datumszeilen:** „Von Lisa Hartmann \| Aktualisiert: Juni 2026“
 - **Länge:** 3020 Wörter sichtbar gesamt; Artikel (Headline→Footer) 2996; Footer 13; Seitenhöhe Mobile 24635 px; 6 Bilder ≥150 px, 0 Videos
 - **Erste Produktnennung** („Therapiekissen“) nach **835 Wörtern** ab Headline (28 % des Artikels), Abschnitt „Platz 1 im Test“: „Nacken Therapiekissen von PillowDaddy“
@@ -2507,3 +2507,14 @@ Stand 08.10.2026, Agent 2. Quelle: Playwright-Rendering **Mobile 390 px / iPhone
 - Desde que la Almohada Terapéutica Cervical se presentó en internet, el producto ha generado un increíble revuelo y ya se ha vendido más de 189,000+ veces.
 - Debido a su popularidad y reseñas positivas, la empresa está tan convencida de su producto que ahora ofrece una garantía de satisfacción de 60 días mientras haya unidades disponibles.
 - … (+5 weitere in `lp_struktur_alle.json`)
+
+## C. Nicht gerenderte Native-Gruppen (heute HTTP 404, Inhalt nicht abrufbar)
+| Gruppe | URL | Ads im Fenster (aktiv) | Bekannter Ad-Titel (Inventar) |
+|---|---|---|---|
+| us_advert_headaches_r1 | try.pillowdaddy-us.com/advert-neck-therapy-pillow-headaches-r-1 | 110 (0) | „Why Your Morning Headaches Keep Coming Back (The Real Cause Will Shock You)“ |
+| us_advert_neckpain_r4 | try.pillowdaddy-us.com/advert-neck-therapy-pillow-neck-pain-r-4 | 31 (0) | „The Real Reason Your Neck Pain Keeps Coming Back“ |
+| us_advert_neckpain_r1 | try.pillowdaddy-us.com/advert-neck-therapy-pillow-neck-pain-r-1 | 8 (0) | – |
+| de_advert6_schwindel_t2_usdomain | try.pillowdaddy-us.com/advert-6-das-nacken-therapiekissen-schwindel-t-2 | 3 (0) | – |
+| us_advert_antisnoring | try.pillowdaddy-us.com/advert-1-anti-snoring-therapy-pillow | 1 (0) | – |
+
+Geprüft am 08.10.2026 per curl + Playwright (404); Wayback-API antwortete mit HTTP 429. Bereits fertig zerlegt (eigene Dateien, hier nicht wiederholt): `lp_de_advert6_schwindel.md`, `lp_de_advert7_tinnitus.md`. Qualitative Einordnung aller Seiten: `lp_analysen_alle.md`; PDPs: `pdp_uebersicht.md`.

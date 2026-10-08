@@ -31,7 +31,7 @@ Stand 08.10.2026, Agent 1 (Teilaufgabe Top 15 Video-Ads). Alle Zitate wörtlich 
 | 14 | [88084999](https://app.gethookd.ai/share/ad/88084999?signature=8bfa4634e2e8b84de61df2a08ec2ee3e0531bea78e78cc5a4f05bbf95033b3a0) | PillowDaddy | DE | Knete-Animation „Anna“ | Winner | 41 | inaktiv | $501–$2.000 | 7 / 1 | PDBJ-V02 / PDBJ-V02 | 41 Tage, Spend bis $501–2.000, 7 Varianten; weibliche Persona-Variante der Knete-Story. |
 | 15 | [83625035](https://app.gethookd.ai/share/ad/83625035?signature=6cb2313e9849a294449db4616ebcf418067fc4b378b2a6d439cb3ee75d36ae7e) | The Daily Health | EN | EN Long-Form Snoring („fastest way to stop snoring“) | Kandidat | 41 | inaktiv | – | 1 / 1 | DH-K56-C01 / US-B06 | EN, 41 Tage (Kandidat), aufgenommen für die Englisch-Quote und als einziges EN-Schnarch-Video; nächster EN-Kandidat nach Konzept-Deckel. |
 
-Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T., Konzept-Deckel), PDBJ-V02-Nachfolger DH-K05-C01 (EN „Neck Pain Relief Backed by Science!“, 38 T.), DH-K01-C14 (EN 426 s, 34 T.), PDBJ-V03 (Pixar-3D „Monster-Kissen“, 27 T., Spend bis $5k).
+Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T., Konzept-Deckel), DH-K05-C01 (EN „Neck Pain Relief Backed by Science!“, 38 T.), DH-K01-C14 (EN 426 s, 34 T.), PDBJ-V03 (Pixar-3D „Monster-Kissen“, 27 T., Spend bis $5k).
 
 
 ## 1. „So hört Schnarchen sofort auf“ – Atemweg-Mechanismus (Long-Form) – Ad 74485763
@@ -49,7 +49,7 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 466.5 s (7:46) / 720x900 |
 | Format | Long-Form-Erklärvideo (7:46) als Voiceover über schnelle B-Roll-Kompilation: Vorher/Nachher-Glüh-Effekt (rot→grün), 3D-Anatomie Atemweg/Skelett, UGC-Schnarcher, Stock-Szenen (Reanimationskurs, Paar im Bett), Wärmebild-Insert, Endcard. Untertitel-Kästen unten (2 Zeilen, weiß auf grau), im Hook schwarzer Balken oben. |
 | Landingpage | https://shop.pillowdaddy.de/advert-1-schnarchen-das-nacken-therapiekissen – Advertorial (shop.pillowdaddy.de/advert-…, „Thomas Brandt, Chiropraktiker“) |
-| Transkript-Quelle | ### K05-B1 – Referenz K05-187 (Ad 74485763, [share_url](https://app.gethookd.ai/share/ad/74485763?signature=445d441d4f97c39e641c6c8dee7be327243afc43c3723eecf3f5 |
+| Transkript-Quelle | `transcripts_persona_de_journal_brandt.md`, Body-Variante K05-B1 (Referenz K05-187, Ad 74485763; GetHooked-Whisper) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
@@ -92,7 +92,7 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 401.0 s (6:41) / 720x900 |
 | Format | Long-Form-Erklärvideo (6:41): UGC-artige Bett-Szenen (Frau in Seitenlage) mit Muskel-/Skelett-Overlays, 3D-Anatomie (Bandscheibe, Nerv), OP-Stock, Schwarzweiß-Szenen für „falsch“, Produkt-Demos mit U-förmigem Ganzkörperkissen, Timeline-Leiste, Endcard. Hook-Balken oben (weinrot, „die schlechteste“ gelb), Untertitel-Kästen unten. |
 | Landingpage | https://shop.pillowdaddy.de/advert-1-das-schlaftherapie-kissen-1 – Advertorial (Listicle-Aufbau), shop.pillowdaddy.de |
-| Transkript-Quelle | ### K09-B1 – Referenz K09-238 (Ad 74485768, [share_url](https://app.gethookd.ai/share/ad/74485768?signature=b03d7e13a07ea52d0ae08ad055ded9040e093e7e6852caeb1940 |
+| Transkript-Quelle | `transcripts_persona_de_journal_brandt.md`, Body-Variante K09-B1 (Referenz K09-238, Ad 74485768; GetHooked-Whisper) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
@@ -134,7 +134,7 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 408.9 s (6:49) / 720x900 |
 | Format | Long-Form-Mechanismus-Video (6:49): 3D-Anatomie (Skelett, Nerven, glühende HWS), Mann auf rosa Kissen mit Röntgen-Overlay, Chiropraktiker-Clips am Modell, OP-Stock, UGC-Testimonial (Talking Head), TikTok-Screenshot, Endcard. Hook-Balken oben (weinrot, weiß/gelb), Untertitel-Kästen. |
 | Landingpage | https://shop.pillowdaddy.de/advert-3-das-nacken-therapiekissen-1 – Advertorial (shop.pillowdaddy.de/advert-3-das-nacken-therapiekissen-1) |
-| Transkript-Quelle | Vollständiges Transkript 58233408 (Medium 129844629, Sprechende 408.3 s): |
+| Transkript-Quelle | `transcripts_pd_marke_bis_juli.md` – Vollständiges Transkript 58233408 (Medium 129844629, Sprechende 408.3 s) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
@@ -177,7 +177,7 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 64.0 s (1:04) / 720x1280 |
 | Format | Kurzes UGC-Listicle (64 s), Reverse-Psychology-Hook + nummerierte „Gründe“; schnelle Kompilation von Selfie-/Handy-Clips (Frauen auf dem weißen bzw. mintgrünen Schmetterlingskissen), Wort-für-Wort-Captions mittig (weiß), grüne/rote Effekte, Schwarzweiß + rotes X für „vorher“. Keine Endcard. |
 | Landingpage | https://shop.pillowdaddy.de/advert-1-das-nacken-therapiekissen-1 – Listicle-Advertorial (shop.pillowdaddy.de) |
-| Transkript-Quelle | Vollständiges Transkript 66186872 (Medium 220428778, Sprechende 63.7 s): |
+| Transkript-Quelle | `transcripts_pd_marke_bis_juli.md` – Vollständiges Transkript 66186872 (Medium 220428778, Sprechende 63.7 s) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
@@ -215,7 +215,7 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 351.6 s (5:52) / 720x900 |
 | Format | Long-Form-Experten-Erklärvideo (5:52): Symptom-Montage (UGC-Frauen/Männer + 3D-Gehirn/Herz), Experte als Kreis-Insert, Anatomie-Overlays, Chiropraktiker am Skelett, Produktgrafik „3 ZONEN“, Demo mit rotem X, mehrere UGC-Testimonials, Endcard. Weinroter Hook-Balken oben, Untertitel-Kästen. |
 | Landingpage | https://shop.pillowdaddy.de/advert-6-das-nacken-therapiekissen-schwindel – Advertorial (shop.pillowdaddy.de/advert-6-das-nacken-therapiekissen-schwindel) |
-| Transkript-Quelle | ### K01-B1 – Referenz K01-001 (Ad 96489719, [share_url](https://app.gethookd.ai/share/ad/96489719?signature=37040ca3da7330278cf944b4b9b89643e2ef4ada0847104ff151 |
+| Transkript-Quelle | `transcripts_persona_de_journal_brandt.md`, Body-Variante K01-B1 (Referenz K01-001, Ad 96489719; GetHooked-Whisper) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
@@ -296,7 +296,7 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 383.0 s (6:23) / 720x900 |
 | Format | Long-Form-Experten-Erklärvideo (6:23): Behandlungsszene mit Nerven-Overlay + Gehirn-Scan-Kreis, Symptom-Talking-Heads, Experte, Kittel-Arzt, 3D-Arterien/Vagus, Laptop-Grafik „INCORRECT SLEEPING“, Produktgrafik mit grünem Nacken, Timeline, UGC-Testimonial, Kalender-Animation „14“, Endcard. Weinroter Balken + Untertitel. |
 | Landingpage | https://shop.pillowdaddy.de/advert-6-das-nacken-therapiekissen-schwindel – Advertorial (shop.pillowdaddy.de/advert-6-das-nacken-therapiekissen-schwindel) |
-| Transkript-Quelle | ### K01-B2 – Referenz K01-002 (Ad 100373716, [share_url](https://app.gethookd.ai/share/ad/100373716?signature=e9951b4ee54d09b415ffda53800210bbb172cd4f7e0bb2aa15 |
+| Transkript-Quelle | `transcripts_persona_de_journal_brandt.md`, Body-Variante K01-B2 (Referenz K01-002, Ad 100373716; GetHooked-Whisper) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
@@ -315,7 +315,7 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | 4:41–5:11 | UGC-Testimonial (Frau, warm gefiltert) | Untertitel „Kein Hohlraum mehr zwischen“ | Schon in der ersten Nacht habe ich gemerkt, das hilft ja. Das hast du direkt gespürt. Ich bin morgens aufgewacht und dachte mir so, warte mal, Nacken tut gar nicht mehr weh? Nach zwei Wochen waren die kompletten Kopfschmerzen weg von mir. Also einfach weg. Kein Ruheraum mehr zwischen Kissen und Nacken. Die Schultern werden entlastet und das Kribbeln im Arm ist jetzt auch endlich weg. Ich schlafe jetzt echt so gut wie seit langem nicht mehr und wache morgens erholt auf. Es hört sich vielleicht komisch an, aber dieses Kissen hat mir mein Leben zurückgegeben. | Beweis (Kunden-O-Ton) |
 | 5:11–5:39 | Kalender-Animation „14“ + Produkt-Unschärfe | Kalenderblatt „14“; Untertitel „verschwunden.“ | Rund 92% der Kundinnen berichteten bereits nach den ersten Nächten von einer spürbaren Linderung ihres Schwindels, ihrer Benommenheit und dem Kribbeln in den Armen. Und nach etwas mehr als 14 Tagen waren die Beschwerden meist vollständig verschwunden. Viele dieser Personen waren anfangs skeptisch, da sie bereits schon alles mögliche ausprobiert hatten. HNO-Ärzte, Neurologen oder auch Physiotherapie. Doch nachdem sie die vielen positiven Bewertungen und einzigartige Garantie sahen, haben sie sich entschieden, dem Nacken-Therapie-Kissen eine Chance zu geben. | Beweis 92 % / 14 Tage + Skeptiker (HNO-Ärzte, Neurologen) |
 | 5:39–6:10 | UGC-Frau umarmt das Kissen | Untertitel „Seitdem das Nacken Therapiekissen“ | Das sehr ambitionierte Team hinter dem Kissen bietet nämlich ein Versprechen an, das kein Pharmakonzern oder Arzt jemals geben würde. Wenn du nach 30 Nächten mit dem Nacken-Therapie-Kissen keinen großen Unterschied bei deinen Symptomen spürst, bekommst du dein volles Geld rückerstattet. Seitdem das Nacken-Therapie-Kissen im Internet vorgestellt wurde, hat das Produkt mit über 21 Millionen Aufrufen auf TikTok einen unglaublichen Hype ausgelöst und war bereits dreimal ausverkauft. Und deshalb ist der aktuelle Lagerbestand sehr limitiert. Klicke jetzt also unten auf den Link, um das Nacken-Therapie-Kissen ganz ohne Risiko für 30 Nächte zu testen oder du bekommst dein Geld zurück. | Garantie 30 Nächte + TikTok-Hype/Knappheit |
-| 6:10–6:23 | Endcard blau | „NUR NOCH KURZE ZEIT“ / „Pillow Daddy“ / „40% Rabatt“ / „Jetzt kaufen“ / „SCHMERZEN IN NACKEN, SCHULTERN UND ARMEN LINDERN“ |  | CTA |
+| 6:10–6:23 | Endcard blau | „NUR NOCH KURZE ZEIT“ / „Pillow Daddy“ / „40% Rabatt“ / „Jetzt kaufen“ / „SCHMERZEN IN NACKEN, SCHULTERN UND ARMEN LINDERN“ | (Fortsetzung des vorherigen Satzes) | CTA |
 
 - **Hook 0–3 s:** Gleicher Warn-Hook wie die Ischias-Version („Das ist die schlechteste Schlafposition“), aber mit einem Gehirn-Scan-Kreis, der von blau auf grün springt (Lösung im Hook angedeutet), und Symptom-Effekten (Sterne um den Kopf, glühendes Herz) bei 0:03–0:05.
 - **Produkt-Reveal:** Gesprochen 3:17–3:21 („…entstand letztes Jahr schließlich das Nackentherapiekissen“), Kissen im Bild ab ~3:20 = nach ca. 52 % der Laufzeit.
@@ -339,21 +339,21 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 69.0 s (1:09) / 720x1280 |
 | Format | Kurzes UGC-Listicle (69 s) wie #4, aber anderes Produkt (Schlaftherapie-Kissen, U-Form) + Info-Grafik-Labels („Rücken/Hüfte/Ischias“ mit grünen Radar-Kreisen), Muskel-Overlay, Physio-Szene, 4er-Split-Screen mit Testimonials, Endcard mit Wolken. |
 | Landingpage | https://shop.pillowdaddy.de/advert-1-das-schlaftherapie-kissen-1 – Listicle-Advertorial (shop.pillowdaddy.de) |
-| Transkript-Quelle | Vollständiges Transkript 107025504 (Medium 348934255, Sprechende 65.3 s): |
+| Transkript-Quelle | `transcripts_pd_marke_bis_juli.md` – Vollständiges Transkript 107025504 (Medium 348934255, Sprechende 65.3 s) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
 | Zeitraum | Bild / Szene | eingeblendeter Text (wörtlich) | gesprochener Text (wörtlich) | Funktion |
 |---|---|---|---|---|
 | 0:00–0:03 | Junge Frau auf dem Sofa umarmt lachend das graue U-Kissen (Produkt ab Frame 1) | Wort-Captions „Kaufe dir“ → „bloß nicht das“ → „Schlaftherapie“ | Kaufe dir bloß nicht das Schlaf-Therapie-Kissen. Hier sind 5 Gründe dagegen. | Hook (Reverse Psychology, Produkt sofort) |
-| 0:03–0:04 | Rothaarige Frau legt sich seitlich aufs U-Kissen | „Hier sind“ |  | Hook-Verlängerung (5 Gründe) |
+| 0:03–0:04 | Rothaarige Frau legt sich seitlich aufs U-Kissen | „Hier sind“ | (Fortsetzung des vorherigen Satzes) | Hook-Verlängerung (5 Gründe) |
 | 0:04–0:21 | Kissen leuchtet grün unter der Frau; Labels mit grünen Radar-Kreisen; Muskel-Anatomie-Overlay; S/W-Frau mit rotem Schmerzblitz + rotem X | „in der Sekunde“ „komplett“; Labels „Rücken“, „Hüfte“, „Ischias“; „Ischiasnerv“ „endlich aufhörst“ | 1. In der Sekunde, wo du dich drauflegst, verändert sich dein Schlaf komplett. Dein Ischias, deine Hüfte und dein Rücken entspannen sich sofort. Es löst auf der Stelle die Druckpunkte, die deinen Ischias-Nerv nachts einklemmen und richtet deine Wirbelsäule neutral aus, damit du endlich aufhörst, mit brennenden Ischias und Hüftschmerzen aufzuwachen. | Grund 1: sofortige Entlastung + Mini-Mechanismus (Druckpunkte, Ischiasnerv, neutrale Wirbelsäule) |
 | 0:21–0:33 | Frau schläft auf dem Kissen (grün markiert); Frau tief schlafend; Physiotherapeut renkt Patientin ein | „es benutzt“ „und erholsamer“ „Dein Physiotherapeut“ | 2. Sobald du es benutzt, wird aus unruhigen, schmerzvollen Nächten endlich ein tiefer und erholsamer Schlaf. Ich rede hier von schmerzfreien Morgen, schon ab der ersten Nacht. Dein Physiotherapeut wird dich vermissen. | Grund 2: tiefer Schlaf + „Physiotherapeut wird dich vermissen“ |
 | 0:33–0:42 | Frau und Mann im Flur (Mann staunt); Wisch-Übergang | „wird merken“ „was plötzlich“ | 3. Sogar deine Kinder und deine Familie wird merken, wie ausgeruht du auf einmal aussiehst. Und alle deine Freundinnen werden dich fragen, was plötzlich dein Geheimnis ist. | Grund 3: Familie/Freundinnen bemerken es |
 | 0:42–0:48 | Blonde Frau umarmt das Kissen strahlend | „gibt es praktisch“ | 4. Das Schlaf-Therapie-Kissen gibt es praktisch gerade geschenkt mit einem riesigen 40% Rabatt. | Grund 4: 40 % Rabatt |
 | 0:48–0:56 | Spiegel-Selfie mit dem mannshohen Kissen; Frau auf Hotelbett | „Und wenn du“ „rückerstattet“ | 5. Und wenn du in den 30 Nächten Testphase keine Verbesserung siehst, kriegst du dein volles Geld rückerstattet. Es ist also quasi umsonst. | Grund 5: 30-Nächte-Garantie |
 | 0:56–1:03 | 4er-Split-Screen: verschiedene Frauen mit dem Kissen, eine spricht begeistert | „und finde heraus“ | Hole dir jetzt also das Schlaf-Therapie-Kissen und finde heraus, warum 92% der Menschen, die einmal gewechselt haben, nie wieder zu ihrem alten Kissen zurückkehren. | CTA + Social Proof (92 %) |
-| 1:03–1:09 | Endcard: Frau schläft auf dem U-Kissen zwischen Wolken | „Pillow Daddy“, „40% RABATT“, „+GRATIS eBOOK“, „Klick unten auf den Link ⬇“ |  | Angebot + CTA |
+| 1:03–1:09 | Endcard: Frau schläft auf dem U-Kissen zwischen Wolken | „Pillow Daddy“, „40% RABATT“, „+GRATIS eBOOK“, „Klick unten auf den Link ⬇“ | (Fortsetzung des vorherigen Satzes) | Angebot + CTA |
 
 - **Hook 0–3 s:** Identisch zu #4 („Kaufe dir bloß nicht …“), aber das Bild zeigt sofort das ungewöhnlich große U-Kissen, das eine Frau umarmt – das auffällige Objekt selbst ist der visuelle Stopper.
 - **Produkt-Reveal:** Sofort (0:00).
@@ -377,7 +377,7 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 310.9 s (5:11) / 720x900 |
 | Format | Long-Form-Experten-Erklärvideo (5:11): Muskel-Overlay-Hook, Behandlungsszene (Therapeut + Experte im Kasack), 3D-Nerv/Bandscheibe, UGC-Schmerzszenen, Feuer-Effekt am Bein, „Entwicklungsteam“-Szene, Kittel-Arzt hält U-Kissen („3 ZONEN STÜTZSYSTEM“), UGC-Testimonials + Split-Screen, Endcard mit Icons. Weinroter Balken + Untertitel. |
 | Landingpage | https://shop.pillowdaddy.de/advert-1-das-schlaftherapie-kissen-1 – Advertorial (Listicle-Aufbau), shop.pillowdaddy.de |
-| Transkript-Quelle | ### K02-B1 – Referenz K02-091 (Ad 107108716, [share_url](https://app.gethookd.ai/share/ad/107108716?signature=22fa77c2ee57cb148ce3f9f43c67b182cf97dd2c463c5e45bb |
+| Transkript-Quelle | `transcripts_persona_de_journal_brandt.md`, Body-Variante K02-B1 (Referenz K02-091, Ad 107108716; GetHooked-Whisper) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
@@ -418,7 +418,7 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 105.5 s (1:45) / 720x1280 |
 | Format | KI-/Knete-Animation (Claymation-Look, 3D-Stop-Motion-Optik) mit Persona-Story in der 3. Person; Wort-für-Wort-Captions mittig (weiß); rot glühende HWS als Problem-Marker, blau leuchtende HWS als Lösung; Kissen-Produktshot am Ende. Keine Endcard-Grafik. |
 | Landingpage | https://shop.pillowdaddy.de/advert-1-das-nacken-therapiekissen-1 – Listicle-Advertorial (shop.pillowdaddy.de) |
-| Transkript-Quelle | Vollständiges Transkript 118591859 (Medium 387457171, Sprechende 104.1 s): |
+| Transkript-Quelle | `transcripts_pd_marke_bis_juli.md` – Vollständiges Transkript 118591859 (Medium 387457171, Sprechende 104.1 s) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
@@ -499,7 +499,7 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 336.1 s (5:36) / 720x900 |
 | Format | Ich-Story-Long-Form im UGC-Look: Selfie-Erzählerin (Auto, Küche) + Symptom-Talking-Heads, Arzt-/HNO-Szenen, Supermarkt-POV, 3D-Anatomie (C1/C2, Arterien, Vagus), Engineering-Szene am CAD-Bildschirm, Produkt-Demo mit grünem Nacken, Balance-Therapie-Szene, Endcard. Weinroter Balken + große rote Schlagwörter + Untertitel. |
 | Landingpage | https://try.pillowdaddy-us.com/advert-neck-therapy-pillow-dizziness-r-1 – Advertorial (try.pillowdaddy-us.com/advert-neck-therapy-pillow-dizziness-r-1) |
-| Transkript-Quelle | GetHooked get_transcription_status media None |
+| Transkript-Quelle | GetHooked get_transcription_status (08.10.2026), Whisper, Medium 435082930/435087121 (in der US-Lane noch processing) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
@@ -539,7 +539,7 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 80.4 s (1:20) / 720x1280 |
 | Format | Kurz-Case/„Experiment“-Video (80 s): realistische (z. T. KI-generierte) Szenen eines Schlafapnoe-Patienten, weiße Textboxen mit farbigen Schlüsselwörtern, grüner Glüh-Ring um den Kopf auf dem Produkt, Laubbläser-Metapher, Anatomie-Overlays, 3D-Produktgrafik mit Labels, Paar-Szene, Endcard mit Gratis-eBook. |
 | Landingpage | https://shop.pillowdaddy.de/advert-1-schnarchen-das-nacken-therapiekissen – Advertorial (shop.pillowdaddy.de, Schnarch-Advertorial) |
-| Transkript-Quelle | ### K05-B2 – Referenz K05-189 (Ad 90347406, [share_url](https://app.gethookd.ai/share/ad/90347406?signature=9843ec84451f8ab4d8f6d7c915e1eb52bb5b8d759d46b6d1eca8 |
+| Transkript-Quelle | `transcripts_persona_de_journal_brandt.md`, Body-Variante K05-B2 (Referenz K05-189, Ad 90347406; GetHooked-Whisper) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
@@ -577,14 +577,14 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 | Dauer / Auflösung | 105.8 s (1:46) / 720x1280 |
 | Format | KI-/Knete-Animation (Claymation-Look) wie #10, aber mit Produkt-Teaser im Hook (Anna schwebt auf dem Kissen über dem Bett zwischen Knet-Wolken); Wort-für-Wort-Captions; Schriftzug „Hallo, Anna!“; Stein-Gag; Produktshot am Ende. |
 | Landingpage | https://shop.pillowdaddy.de/advert-1-das-nacken-therapiekissen-1 – Listicle-Advertorial (shop.pillowdaddy.de) |
-| Transkript-Quelle | Vollständiges Transkript 88084999 (Medium 289466257, Sprechende 105.0 s): |
+| Transkript-Quelle | `transcripts_pd_marke_bis_juli.md` – Vollständiges Transkript 88084999 (Medium 289466257, Sprechende 105.0 s) |
 
 **Sekunden-Tabelle** (gesprochener Text wörtlich aus dem Transkript, ASR-Fehler unkorrigiert; Zeiten = Segmentstarts)
 
 | Zeitraum | Bild / Szene | eingeblendeter Text (wörtlich) | gesprochener Text (wörtlich) | Funktion |
 |---|---|---|---|---|
 | 0:00–0:02 | Nahaufnahme Anna seitlich auf flachem Kissen, Halswirbelsäule glüht rot | „Das ist“ „der Grund,“ | Das ist der Grund, warum Seitenschläfer mit Nackenschmerzen jetzt zu diesem seltsam geformten Kissen wechseln. | Hook-Start (Problem-Bild) |
-| 0:02–0:06 | Anna schläft auf dem Schmetterlingskissen, das zwischen Wolken über dem Bett schwebt (Goldstaub, Laterne) | „Seitenschläfer“ „Nackenschmerzen“ „geformten“ |  | Hook: Neugier auf „seltsam geformtes Kissen“ + Produkt-Teaser |
+| 0:02–0:06 | Anna schläft auf dem Schmetterlingskissen, das zwischen Wolken über dem Bett schwebt (Goldstaub, Laterne) | „Seitenschläfer“ „Nackenschmerzen“ „geformten“ | (Fortsetzung des vorherigen Satzes) | Hook: Neugier auf „seltsam geformtes Kissen“ + Produkt-Teaser |
 | 0:06–0:17 | Anna im Bett (Nachttisch „Anna“), Schriftzug; Anna sitzt morgens auf der Bettkante | Einblendung „Hallo, Anna!“ (Schreibmaschinen-Schrift); „auf der Seite“ | Das hier ist Anna. Hallo Anna. Sie schläft seit Jahren auf der Seite und jeden Morgen wacht sie mit einem steifen Nacken, verspannten Schultern und Taubheitsgefühlen bis in die Fingerspitzen auf. | Persona-Einführung + Problem |
 | 0:17–0:32 | Anna mit rot glühender Brust/Nacken; Anna beim Physiotherapeuten (Gymnastikbälle) | „Fingerspitzen“ „Physiotherapie,“ | Anna hat schon alles Mögliche ausprobiert, um ihre Schmerzen loszuwerden. Dehnübungen am Morgen, Physiotherapie zweimal die Woche, Schmerzmittel, die sie mittlerweile täglich schluckt. Aber nichts hat geholfen und das aus einem bestimmten Grund. | Einwand: alles probiert (Dehnung, Physio, Schmerzmittel) |
 | 0:32–0:50 | Anna auf altem Kissen; rot glühende HWS (Nahaufnahme); Anna umarmt einen Stein in einer Höhle | „bestimmten“ „Halswirbelsäule,“ „lange bevor“ | Anna ist nie die wahre Ursache ihrer Nackenschmerzen angegangen. Und zwar ist die Ursache eine verdrehte Halswirbelsäule, verursacht durch ihr Kissen. Normale Kissen wurden nämlich vor über 2000 Jahren erfunden, lange bevor irgendjemand verstanden hat, wie die Halswirbelsäule wirklich funktioniert. | Ursache: das Kissen („vor über 2000 Jahren erfunden“ – Steinzeit-Gag) |
@@ -643,3 +643,92 @@ Nächste Plätze (nicht analysiert): DH-K01-C06 (EN Dizziness 176 s, Winner 73 T
 - **Warum es funktioniert:** Englische Neuschreibung des DE-Schnarch-Winners mit stärkerer Sprache: benannte Kaskade („cervical collapse cascade“, Stage 1–4) macht den Mechanismus merkbar und visuell (Leiste). Beziehungs-Szenen als Mini-Drama („First, she nudges you at 2am“). Zahlen-Stapel (91 %, 189.000, 4,8, 5.832) als Proof-Block. Lief 41 Tage (Kandidat) – schwächer als DE, aber einziges EN-Schnarch-Video.
 - **Übernahme für Decken ohne Bezug (UK):** Benannte Kaskade für Hygiene: „the night-sweat cycle“ in 4 Stufen (Stage 1 sweat soaks through the cover → 2 filling stays damp → 3 dust mites feed on skin cells → 4 you breathe it in) mit Leiste wie im Video. Beziehungs-Mini-Drama für Wechseljahre („First, you kick the duvet off at 2am. Then you pull it back on …“). Proof-Block mit Zahlen, Schluss-Satz als Emotion („Your mum didn't sign up to fight a duvet cover every Sunday.“).
 
+## Querschnitt – Muster über alle 15 Videos
+
+### Kennzahlen je Video
+
+| Rang | Ad | Spr. | Dauer | Schnitte | Ø Einstellung | Reveal (Produktname/-bild) | Reveal in % | Hook-Typ | max. Tage |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | 74485763 | DE | 466 s (7:46) | 202 | 2.3 s | 265 s | 57 % | Ergebnis-Versprechen + Visual rot→grün | 206 |
+| 2 | 74485768 | DE | 401 s (6:40) | 155 | 2.6 s | 155 s | 39 % | Warnung „schlechteste Schlafposition“ + Mythos-Bruch | 203 |
+| 3 | 58233408 | DE | 409 s (6:48) | 144 | 2.8 s | 190 s | 46 % | Warnung „Wenn du so schläfst“ + C5/C6 | 191 |
+| 4 | 66186872 | DE | 64 s (1:03) | 23 | 2.7 s | 0 s | 0 % | Reverse Psychology „Kaufe dir bloß nicht“ | 188 |
+| 5 | 107108734 | DE | 352 s (5:51) | 126 | 2.8 s | 178 s | 51 % | Symptom-Liste als Frage | 119 |
+| 6 | 106686087 | EN | 214 s (3:34) | 74 | 2.9 s | 118 s | 55 % | Selektion + Provokation gegen Ärzte | 119 |
+| 7 | 107108725 | DE | 383 s (6:22) | 128 | 3.0 s | 200 s | 52 % | Warnung „schlechteste Schlafposition“ + Symptome | 116 |
+| 8 | 107025504 | DE | 69 s (1:08) | 26 | 2.6 s | 0 s | 0 % | Reverse Psychology | 110 |
+| 9 | 107108716 | DE | 311 s (5:10) | 102 | 3.0 s | 156 s | 50 % | Warnung + Experte in 5 s | 109 |
+| 10 | 118591859 | DE | 105 s (1:45) | ~41 (Schätzung) | 2.5 s | 64 s | 61 % | Warnung (Knete-Persona) | 92 |
+| 11 | 113637112 | EN | 402 s (6:42) | 112 | 3.6 s | 193 s | 48 % | Warnung „If you sleep like this“ + C5/C6 + „instead“ | 81 |
+| 12 | 132268978 | EN | 336 s (5:36) | 146 | 2.3 s | 223 s | 66 % | Symptom-Liste → Ich-Story | 79 |
+| 13 | 90347406 | DE | 80 s (1:20) | 16 | 4.7 s | 3 s | 4 % | Experiment/Case („Wir haben … gebeten“) | 67 |
+| 14 | 88084999 | DE | 106 s (1:45) | ~49 (Schätzung) | 2.1 s | 66 s | 62 % | Neugier „Das ist der Grund, warum … wechseln“ | 41 |
+| 15 | 83625035 | EN | 331 s (5:30) | 106 | 3.1 s | 199 s | 60 % | Ergebnis-Superlativ + Visual rot→grün | 41 |
+
+(Schnitte = ffmpeg-Szenenwechsel > 0,3; bei den zwei Knete-Animationen nur Schätzung, siehe dort. Reveal = erster Produktname bzw. erstes Produktbild; bei #14 gibt es zusätzlich einen visuellen Teaser bei 0:02.)
+
+### 1. Zwei Formate tragen das Netzwerk
+- **Long-Form-Mechanismus-Video (10 von 15; 3:34–7:46, Median ca. 6:07)** – alle Top-3-Laufzeiten (206/203/191 Tage) und der höchste Spend ($20.000+) sind Long-Forms. Das ist das Format, auf das das Geld läuft.
+- **Kurzformen (5 von 15; 64–106 s)**: (a) UGC-Listicle „Kaufe dir bloß nicht … 5 Gründe“ (#4, #8), (b) Knete-Persona-Story „Das ist Sven/Anna“ (#10, #14), (c) Experiment/Case „Wir haben einen Patienten gebeten …“ (#13). Kurzformen zeigen das Produkt sofort (außer der Knete-Story) und sind die günstige Variante für warme Zielgruppen bzw. Tests.
+
+### 2. Die Master-Dramaturgie der Long-Forms (mit Sekunden-Ankern für ca. 6 min; in Klammern Anteil der Laufzeit)
+| Zeitraum (≈ 6:00) | Anteil | Baustein | typische Formulierung (wörtlich aus den Ads) |
+|---|---|---|---|
+| 0:00–0:03 | 0–1 % | **Hook-Balken + Körper-Visual** (Overlay rot glühend, Balken wechselt alle 2–3 s synchron zum Voiceover) | „Das ist die schlechteste Schlafposition“ / „Wenn du so schläfst, zerstörst du langsam deine Halswirbelsäule“ / „So hört Schnarchen sofort auf.“ |
+| 0:03–0:15 | 1–4 % | **Hook-Verlängerung**: Mythos-Bruch, Präzisions-Detail oder Experte im Kreis-Insert | „Die meisten Leute denken nämlich … Aber das ist leider völlig falsch.“ / „besonders C5 und C6.“ |
+| 0:15–1:00 | 4–17 % | **Problem-Spiegel + Validierung**: Alltagssymptome, Ärzte ratlos, Schuld wird auf das Kissen verlagert | „Dein MRT? Unauffällig. Die Ärzte? Ratlos.“ / „dann könnte das höchstwahrscheinlich an deinem alten Kissen liegen.“ |
+| 1:00–2:30 | 17–40 % | **Ursache-Mechanismus mit Namen + Analogie**, danach **Agitation** (OP, Lebenszeit, Beziehung) | „auch Zervikale Schlaffehlstellung genannt“ / „wie ein Gartenschlauch, der abgeknickt wird“ / „eine tickende Zeitbombe“ |
+| 2:30–3:00 | 40–50 % | **Lösungsprinzip + Feindbild-Parade** (CPAP, Nasenstrips, Kniekissen, Memory Foam, Daunen) | „Also wie können wir … lösen?“ / „Die Lösung liegt im Kissen selbst.“ |
+| **≈ 3:00 (Median 51 %)** | 39–66 % | **Produkt-Reveal mit Herkunftsstory** (fast wortgleich in allen DE-Videos) | „…hat ein renommierter deutscher Chiropraktiker gemeinsam mit einem österreichischen Gründerteam 21 orthopädische Kopfkissen getestet … entstand letztes Jahr schließlich das Nacken-Therapie-Kissen.“ |
+| 3:00–4:00 | 50–65 % | **Produkt-Mechanismus** (3 Zonen, Armablage, kühlender Bezug – inkl. „nächtliche Hitzewallungen“) + Abgrenzung normale Kissen | „Durch das intelligente Drei-Zonen-Nacken-Stützsystem …“ |
+| 4:00–4:20 | 65–72 % | **Zukunftsbild-Timeline** (Leiste „Nacht 1 / Woche 1 / Woche 2“) | „Nacht 1. Du wachst das erste Mal seit langem ohne … auf.“ |
+| 4:20–4:50 | 72–80 % | **Beweis**: UGC-Testimonial, „92 %“, „anfangs skeptisch“ | „Rund 92% der KundInnen berichteten bereits nach der ersten Nacht …“ |
+| 4:50–5:30 | 80–90 % | **Garantie + CTA + Negativ-Alternative** (oft „Zwei Optionen“) | „…ein Versprechen an, das kein Pharmakonzern oder Arzt jemals geben würde.“ / „Du hast jetzt also zwei Optionen.“ |
+| 5:30–6:00 | 90–100 % | **Knappheit + Endcard** | „…mit über 21 Millionen Aufrufen auf TikTok … bereits dreimal ausverkauft.“ / Endcard „NUR NOCH KURZE ZEIT – 40% Rabatt – Jetzt kaufen“ |
+
+Die EN-Versionen (#6, #11, #12, #15) übernehmen dieselbe Reihenfolge, sind aber knapper (3:34–6:42), arbeiten mit Stakkato-Sätzen („That's the racing heart. That's the dizziness.“) und benannten Kaskaden („cervical collapse cascade“, „Stage 1–4“). #12 ist als einziges eine echte **Ich-Story** (Patientinnen-Odyssee) mit der spätesten Enthüllung (66 %).
+
+### 3. Hook-Typen (Häufigkeit in den Top 15)
+| Hook-Typ | Anzahl | Beispiele |
+|---|---|---|
+| Warnung „So schläfst du falsch“ (+ Lösungsversprechen „und wie du stattdessen schlafen solltest“) | 6 | #2, #3, #7, #9, #10, #11 |
+| Symptom-Liste als Frage („Plötzlicher Schwindel, Ohrgeräusche …?“) | 2 | #5, #12 |
+| Ergebnis-Versprechen mit Vorher/Nachher-Visual (Nacken rot → grün in 1–2 s) | 2 | #1, #15 |
+| Reverse Psychology („Kaufe dir bloß nicht …“) | 2 | #4, #8 |
+| Selektion + Provokation („If your dizziness has gotten worse … your doctor isn't going to fix it.“) | 1 | #6 |
+| Experiment/Case („Wir haben einen Schlafapnoe-Patienten gebeten …“) | 1 | #13 |
+| Neugier auf das Objekt („…zu diesem seltsam geformten Kissen wechseln“) | 1 | #14 |
+
+Gemeinsam: (1) Text-Balken oben in Versalien, Schlüsselwort farbig (gelb/rot), wechselt im 2–3-s-Takt; (2) der Körper wird „durchsichtig“ gemacht (Muskel-/Skelett-Overlay, Glühen) – das Problem ist sofort sichtbar; (3) keine Marke, kein Logo im Hook (Ausnahme: Kurzformen mit Produkt im Bild); (4) die Lösung wird im Hook versprochen, aber nicht gezeigt.
+
+### 4. Reveal-Zeitpunkt
+- Long-Forms: Produktname zwischen 1:58 und 4:25, **Median 51 % der Laufzeit** (Spanne 39–66 %). Davor fällt kein Markenname.
+- Kurzformen: sofort (0–3 s) bei Listicle und Case; bei der Knete-Story nach ca. 60 % („Aber heute bekommt Sven etwas Neues.“), bei Anna mit visuellem Teaser bei 0:02.
+- Die Enthüllung kommt immer **nach** Mechanismus + Feindbild-Parade: Der Zuschauer soll das Produkt als logische Folge der Erklärung sehen.
+
+### 5. Länge und Schnittfrequenz
+- Long-Forms: Ø 2,3–3,6 s pro Einstellung (Median ca. 2,8 s), d. h. 100–200 Szenenwechsel – jede Aussage bekommt ein eigenes Bild (3D-Anatomie, UGC, Stock, Grafik). Talking Heads (Experte, Testimonial) nur als kurze Inserts oder Blöcke von 20–30 s.
+- Kurzformen: Ø 2,1–2,7 s (UGC-Listicle, Knete), Case-Video ruhiger (4,7 s).
+- Untertitel durchgehend (2-zeilige graue Kästen bzw. Wort-für-Wort-Captions) – die Videos funktionieren ohne Ton.
+
+### 6. Wiederkehrende Bausteine (Baukasten)
+- **Farbcode**: rot/Schwarzweiß + rotes X = Problem/falsch, grün/blau leuchtend = Lösung.
+- **Analogien**: Gartenschlauch, Strohhalm, Dominosteine, Gummiband, Hydraulikpresse, Laubbläser, Sicherungskasten, Reanimationsgriff.
+- **Autorität ohne echten Namen**: „renommierter deutscher Chiropraktiker“, Arzt-Darsteller im Kreis-Insert, „Johns Hopkins study“.
+- **Herkunftsstory mit Zahlen**: 21 getestete Kissen, 300 Bewertungen, 9 Monate, 4–6 Prototypen.
+- **Timeline-Leiste** Nacht 1 / Woche 1 / Woche 2, **Proof-Zahlen** (89–92 %, 189.000 Kunden, 4,8 Sterne), **Garantie** 30 (US teils 60) Nächte, **Knappheit** (18–21 Mio. TikTok-Aufrufe, 3× ausverkauft), **Endcard** 40 % Rabatt (+ Gratis-eBook).
+
+### 7. Was wir für Decken ohne Bezug (UK) übernehmen – Bauplan in Kurzform
+1. **Long-Form 3:30–5:00 auf Englisch nach Vorlage #6/#11** (EN-Rhythmus, kurze Sätze): 0–3 s Warn- oder Ergebnis-Hook mit Balken + Visual (Wärmebild/Mikroskop der Decke rot → grün); 3–15 s Mythos-Bruch („Most people think washing the cover is enough. It isn't.“); bis ~25 % Problem-Spiegel (Nachtschweiß, Kampf mit dem Bezug, Allergie-Symptome); bis ~45 % benannter Mechanismus („the night-sweat cycle“, Stage 1–4) + Feindbild-Parade (Bettbezug, Matratzenschoner, Daunendecke „petri dish for dust mites“, „hot wash“); **Reveal bei ~50 %** mit Herkunftsstory (getestete Füllungen, Prototypen, Waschtests); dann Features, Timeline „Night 1 / Week 1 / Week 2“, britisches Testimonial, Garantie, Zwei-Optionen-Close, Endcard.
+2. **UGC-Listicle 60 s** „Don't buy the coverless duvet. Here are 5 reasons why.“ – je ein Grund pro Angle (A Hygiene, B Wechseljahre, C Beziehen, D Mama), Rabatt, Garantie.
+3. **Knete-/KI-Persona 90–105 s** „This is Margaret. Hello, Margaret!“ (Angle C/D, Tochter schenkt die Decke).
+4. **Experiment 60–80 s** „We asked a woman with night sweats to sleep under it for 7 nights.“ – nur mit echter, dokumentierter Testperson.
+5. Hook-Tests: Warnung („This is the worst way to make your bed“) vs. Neugier („…switching to this strange duvet with no cover“) – im PillowDaddy-Netzwerk lief der Warn-Hook länger (Sven 92 Tage vs. Anna 41 Tage).
+6. **Compliance-Hinweis UK**: Die PillowDaddy-Videos arbeiten mit unbelegten Gesundheitsclaims, Fake-Experten und Knappheit („3× ausverkauft“). Für UK (ASA/CAP-Code) nur übernehmen, was wir belegen können; Experten-/Arzt-Darstellungen nicht fingieren.
+
+### Lücken / Hinweise zur Methode
+- **Bild/Szene-Spalte**: beruht auf je 20 Frames (Kontaktabzug: 0/1/2/3/5/8 s + 14 gleichmäßig verteilte Frames) plus Transkript; bei 100–200 Schnitten pro Long-Form ist nicht jede Einstellung beschrieben. Eingeblendete Texte sind wörtlich, soweit sie auf diesen Frames sichtbar sind; sonst steht „Untertitel (= gesprochen)“.
+- **Transkripte** sind Whisper-ASR (GetHooked); Fehler („HMO-Arzt“, „Ruheraum“, „Vargusnerv“) bewusst nicht korrigiert. Bei #5/#7 stammt der Text vom Referenz-Ad desselben Clusters (Body-Variante K01-B1/K01-B2); bei #5 weicht ein Testimonial-Untertitel („Bei mir also kein Fleck“) vom Transkript ab. #12-Transkript am 08.10. per `get_transcription_status` nachgeladen.
+- **Schnitte** bei den Knete-Animationen nur geschätzt (KI-Clips mit Überblendungen).
+- **Spend** für US-Ads nicht verfügbar (keine EU-Daten); Ranking dort nur über Laufzeit/Varianten.
+- Dateien: Videos `a1/top15/videos/` (fehlende neu geladen) bzw. Lane-Ordner (`videos_jb`, `videos_pdbj`); Kontaktabzüge `a1/top15/sheets/<id>.jpg`; Schnittlisten, Frame-Zeiten, Transkript-Auszüge und Spezifikationen `a1/top15/work/<id>/`; Skripte `a1/top15/tools/` (select.py, prep_one.sh/prep2.sh, tx.py, build.py, resheet.sh).

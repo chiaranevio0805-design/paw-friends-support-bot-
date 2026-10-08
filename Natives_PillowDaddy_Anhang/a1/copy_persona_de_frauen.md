@@ -10,7 +10,7 @@ Aufbau: Je Creative-Cluster (= identischer Primärtext) Headlines, Linkbeschreib
 - Headlines: „Wie stoppt man Schnarchen? 🤔“ (11×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (11×)
 - CTA: SHOP_NOW (11×)
-- Text im Bild: Bild 74563278 (2×): Foto: Matratze/Laken mit großen Schweiß-/Flüssigkeitsflecken (kein Text) [gesichtet] | Bild 74563476 (1×): Foto: ungemachtes Bett, Schweiß-Abdruck auf Laken, vergilbte Kissen (kein Text) [gesichtet] | Bild 74563433 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 7 weitere Bildvarianten
+- Text im Bild: Bild 74563278 (2×): Foto: Matratze/Laken mit großen Schweiß-/Flüssigkeitsflecken (kein Text) [gesichtet] | Bild 74563476 (1×): Foto: ungemachtes Bett, Schweiß-Abdruck auf Laken, vergilbte Kissen (kein Text) [gesichtet] | Bild 74563433 (1×): Foto: Kopfkissen mit großem gelb-braunem Speichel-/Schweißfleck (kein Text) [gesichtet] | + 7 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (15036 Zeichen):
 
@@ -280,7 +280,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-1-schnarchen-das-na
 - Headlines: „Wie stoppt man Schnarchen? 🤔“ (31×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (31×)
 - CTA: SHOP_NOW (31×)
-- Text im Bild: Bild 76951676 (14×): Foto: Bettlaken mit braunen Flecken, zerwühlt (kein Text) [gesichtet] | Bild 76951724 (1×): Foto: vergilbte, fleckige Kopfkissen + Konkurrenz-Nackenkissen auf Bett (kein Text) [gesichtet] | Bild 76951723 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 15 weitere Bildvarianten
+- Text im Bild: Bild 76951676 (14×): Foto: Bettlaken mit braunen Flecken, zerwühlt (kein Text) [gesichtet] | Bild 76951724 (1×): Foto: vergilbte, fleckige Kopfkissen + Konkurrenz-Nackenkissen auf Bett (kein Text) [gesichtet] | Bild 76951723 (1×): Foto: zwei vergilbte, fleckige Kopfkissen (kein Text) [gesichtet] | + 15 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (13399 Zeichen):
 
@@ -2004,7 +2004,7 @@ Hier ist der Rabatt-Link:
 - Headlines: „Warum dein Schwindel nicht weggeht (Der wahre Grund wird dich überraschen)“ (8×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (8×)
 - CTA: SHOP_NOW (8×)
-- Text im Bild: Bild 92830580 (2×): Röntgen HWS seitlich, oranger Kreis um Atlas/C1 (kein Text) [gesichtet] | Bild 93699175 (1×): Foto: MRT-Kontrollraum (kein Text) [gesichtet] | Bild 93699164 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 4 weitere Bildvarianten
+- Text im Bild: Bild 92830580 (2×): Röntgen HWS seitlich, oranger Kreis um Atlas/C1 (kein Text) [gesichtet] | Bild 93699175 (1×): Foto: MRT-Kontrollraum (kein Text) [gesichtet] | Bild 93699164 (1×): Foto: leerer Röntgenraum (kein Text) [gesichtet] | + 4 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, „limitiert“, „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (12876 Zeichen):
 
@@ -2299,7 +2299,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-6-das-nacken-therap
 - Headlines: „Warum dein Schwindel nicht weggeht (Der wahre Grund wird dich überraschen)“ (7×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (7×)
 - CTA: SHOP_NOW (7×)
-- Text im Bild: Bild 93699161 (3×): Foto: leerer Krankenhausflur (kein Text) [gesichtet] | Bild 92830588 (1×): Illustration Rückansicht Nacken, Muskel markiert + schwarzer Pfeil (kein Text) [gesichtet] | Bild 91268692 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 2 weitere Bildvarianten
+- Text im Bild: Bild 93699161 (3×): Foto: leerer Krankenhausflur (kein Text) [gesichtet] | Bild 92830588 (1×): Illustration Rückansicht Nacken, Muskel markiert + schwarzer Pfeil (kein Text) [gesichtet] | Bild 91268692 (1×): Foto: Monitor mit MRT-Schnittbild Kopf/HWS (kein Text) [gesichtet] | + 2 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, „limitiert“, „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (12990 Zeichen):
 
@@ -4135,7 +4135,7 @@ Hier ist nochmal der Rabattlink:
 - Headlines: „Wie stoppt man Schnarchen?“ (6×)
 - Linkbeschreibung: „Lies das, wenn dein Partner schnarcht...“ (6×)
 - CTA: SHOP_NOW (6×)
-- Text im Bild: Bild 89431224 (3×): Foto: Matratze mit großem gelb-braunem Schweißfleck, zerwühltes Bett (kein Text) [gesichtet] | Bild 89431246 (1×): Foto: Bettlaken/Decke zu riesigem Knäuel verdreht auf Bett (kein Text) [gesichtet] | Bild 89431220 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 1 weitere Bildvarianten
+- Text im Bild: Bild 89431224 (3×): Foto: Matratze mit großem gelb-braunem Schweißfleck, zerwühltes Bett (kein Text) [gesichtet] | Bild 89431246 (1×): Foto: Bettlaken/Decke zu riesigem Knäuel verdreht auf Bett (kein Text) [gesichtet] | Bild 89431220 (1×): Foto: zerwühlter Bettwäsche-Berg auf Bett (kein Text) [gesichtet] | + 1 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (13715 Zeichen):
 
@@ -5179,7 +5179,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-1-schnarchen-das-na
 - Headlines: „Wie stoppt man Schnarchen?“ (6×)
 - Linkbeschreibung: „Lies das, wenn dein Partner schnarcht...“ (6×)
 - CTA: SHOP_NOW (6×)
-- Text im Bild: Bild 89431125 (3×): Foto: graue Bettdecke mit großem Schweiß-Abdruck (kein Text) [gesichtet] | Bild 89431204 (1×): Nachtsichtkamera-Still: Paar steht im Dunkeln (kein Text) [gesichtet] | Bild 89431141 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 1 weitere Bildvarianten
+- Text im Bild: Bild 89431125 (3×): Foto: graue Bettdecke mit großem Schweiß-Abdruck (kein Text) [gesichtet] | Bild 89431204 (1×): Nachtsichtkamera-Still: Paar steht im Dunkeln (kein Text) [gesichtet] | Bild 89431141 (1×): Foto: graues Laken mit großem Schweiß-Abdruck (kein Text) [gesichtet] | + 1 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (13689 Zeichen):
 
@@ -5515,7 +5515,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-1-schnarchen-das-na
 - Headlines: „Warum dein Schwindel nicht weggeht (Der wahre Grund wird dich überraschen)“ (8×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (8×)
 - CTA: SHOP_NOW (8×)
-- Text im Bild: Bild 92830575 (1×): Foto: OP-Personal hilft Patientin im Kittel (Rückansicht) (kein Text) [gesichtet] | Bild 92830563 (1×): Foto: MRT-Raum (kein Text) [gesichtet] | Bild 99225321 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 5 weitere Bildvarianten
+- Text im Bild: Bild 92830575 (1×): Foto: OP-Personal hilft Patientin im Kittel (Rückansicht) (kein Text) [gesichtet] | Bild 92830563 (1×): Foto: MRT-Raum (kein Text) [gesichtet] | Bild 99225321 (1×): Foto: MRT-Gerät (kein Text) [gesichtet] | + 5 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, „limitiert“, „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (13008 Zeichen):
 
@@ -6189,7 +6189,7 @@ Hier ist nochmal der Link: https://shop.pillowdaddy.de/advert-6-das-nacken-thera
 - Headlines: „Wie stoppt man Schnarchen?“ (4×)
 - Linkbeschreibung: „Lies das, wenn dein Partner schnarcht...“ (4×)
 - CTA: SHOP_NOW (4×)
-- Text im Bild: Bild 89431246 (1×): Foto: Bettlaken/Decke zu riesigem Knäuel verdreht auf Bett (kein Text) [gesichtet] | Bild 89431163 (1×): Foto: zerwühlte Bettdecke mit Schweiß-Abdruck, Arm der Schläferin (kein Text) [gesichtet] | Bild 89431210 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 1 weitere Bildvarianten
+- Text im Bild: Bild 89431246 (1×): Foto: Bettlaken/Decke zu riesigem Knäuel verdreht auf Bett (kein Text) [gesichtet] | Bild 89431163 (1×): Foto: zerwühlte Bettdecke mit Schweiß-Abdruck, Arm der Schläferin (kein Text) [gesichtet] | Bild 89431210 (1×): Foto: Kissen/Matratzenauflage in Mülltonne am Straßenrand (kein Text) [gesichtet] | + 1 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (13593 Zeichen):
 
@@ -6525,7 +6525,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-1-schnarchen-das-na
 - Headlines: „Schulterschmerzen? Das könnte der wahre Grund sein“ (14×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (14×)
 - CTA: SHOP_NOW (14×)
-- Text im Bild: Bild 76951724 (1×): Foto: vergilbte, fleckige Kopfkissen + Konkurrenz-Nackenkissen auf Bett (kein Text) [gesichtet] | Bild 88557756 (1×): Comic-Illustration 2-geteilt: älterer Mann schläft mit Schulterschmerz (rot) vs. entspannt (Vorher/Nachher, kein Text) [gesichtet] | Bild 88557755 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 11 weitere Bildvarianten
+- Text im Bild: Bild 76951724 (1×): Foto: vergilbte, fleckige Kopfkissen + Konkurrenz-Nackenkissen auf Bett (kein Text) [gesichtet] | Bild 88557756 (1×): Comic-Illustration 2-geteilt: älterer Mann schläft mit Schulterschmerz (rot) vs. entspannt (Vorher/Nachher, kein Text) [gesichtet] | Bild 88557755 (1×): Illustration: Mann schläft auf der Seite, Nacken und Schulter rot markiert (kein Text) [gesichtet] | + 11 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: Fälschungs-/Kopien-Warnung
 - Primärtext (8402 Zeichen):
 
@@ -6692,7 +6692,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-1-das-nacken-therap
 - Headlines: „Wie stoppt man Schnarchen?“ (5×)
 - Linkbeschreibung: „Lies das, wenn dein Partner schnarcht...“ (5×)
 - CTA: SHOP_NOW (5×)
-- Text im Bild: Bild 89431260 (1×): Foto: Mann mit CPAP-Maske im Bett (kein Text) [gesichtet] | Bild 89431148 (1×): Foto: Waschmaschine + Wäschekorb voller zerfetzter Kissenfüllung (kein Text) [gesichtet] | Bild 89431186 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 2 weitere Bildvarianten
+- Text im Bild: Bild 89431260 (1×): Foto: Mann mit CPAP-Maske im Bett (kein Text) [gesichtet] | Bild 89431148 (1×): Foto: Waschmaschine + Wäschekorb voller zerfetzter Kissenfüllung (kein Text) [gesichtet] | Bild 89431186 (1×): Foto: Waschmaschine voller zerfetzter Kissenfüllung (kein Text) [gesichtet] | + 2 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (13860 Zeichen):
 
@@ -7272,7 +7272,7 @@ Das echte Nacken Therapiekissen bekommst du nur auf der offiziellen Seite, den L
 - Headlines: „Schwindel? Das könnte die wahre Ursache sein“ (9×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (9×)
 - CTA: SEE_DETAILS (5×), LEARN_MORE (4×)
-- Text im Bild: Bild 92830563 (1×): Foto: MRT-Raum (kein Text) [gesichtet] | Bild 100130548 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 99225355 (1×): Foto: CT/MRT-Gerät (kein Text) [gesichtet] | + 6 weitere Bildvarianten
+- Text im Bild: Bild 92830563 (1×): Foto: MRT-Raum (kein Text) [gesichtet] | Bild 100130548 (1×): Foto: ältere Frau mit Halskrause im Bett (kein Text) [gesichtet] | Bild 99225355 (1×): Foto: CT/MRT-Gerät (kein Text) [gesichtet] | + 6 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 60-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, „limitiert“, „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (15260 Zeichen):
 
@@ -7784,7 +7784,7 @@ Das echte Nacken Therapiekissen bekommst du nur auf der offiziellen Seite, den L
 - Headlines: „Nackenschmerzen? Das könnte die wahre Ursache sein“ (5×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (5×)
 - CTA: SHOP_NOW (5×)
-- Text im Bild: Bild 91268699 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 91268692 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 77116263 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 2 weitere Bildvarianten
+- Text im Bild: Bild 91268699 (1×): Röntgen HWS seitlich mit roten Pfeilen (kein Text) [gesichtet] | Bild 91268692 (1×): Foto: Monitor mit MRT-Schnittbild Kopf/HWS (kein Text) [gesichtet] | Bild 77116263 (1×): Medizin-Zeichnung Triggerpunkte Nacken/Schulter (zwei weiße Kreuze, kein Text) [gesichtet] | + 2 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: Fälschungs-/Kopien-Warnung
 - Primärtext (8464 Zeichen):
 
@@ -7957,7 +7957,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-2-das-nacken-therap
 - Headlines: „Nackenschmerzen? Das könnte die wahre Ursache sein“ (4×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (4×)
 - CTA: SHOP_NOW (4×)
-- Text im Bild: Bild 89431246 (1×): Foto: Bettlaken/Decke zu riesigem Knäuel verdreht auf Bett (kein Text) [gesichtet] | Bild 91268695 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 77116252 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 1 weitere Bildvarianten
+- Text im Bild: Bild 89431246 (1×): Foto: Bettlaken/Decke zu riesigem Knäuel verdreht auf Bett (kein Text) [gesichtet] | Bild 91268695 (1×): Foto: OP-Saal, Chirurg mit VR-Brille vor Monitor (kein Text) [gesichtet] | Bild 77116252 (1×): Foto: leeres Arzt-Untersuchungszimmer (kein Text) [gesichtet] | + 1 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: Fälschungs-/Kopien-Warnung
 - Primärtext (8343 Zeichen):
 
@@ -8130,7 +8130,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-2-das-nacken-therap
 - Headlines: „Nackenschmerzen? Das könnte die wahre Ursache sein“ (4×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (4×)
 - CTA: SHOP_NOW (4×)
-- Text im Bild: Bild 77116244 (2×): MRT-Schnitt HWS mit rot markierter Stelle + rote Pfeile (kein Text) [gesichtet] | Bild 88557752 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 91268598 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet)
+- Text im Bild: Bild 77116244 (2×): MRT-Schnitt HWS mit rot markierter Stelle + rote Pfeile (kein Text) [gesichtet] | Bild 88557752 (1×): Illustration Rückansicht Nacken/Schulter rot, zwei schwarze Pfeile (kein Text) [gesichtet] | Bild 91268598 (1×): Röntgen HWS seitlich mit roten Pfeilen, „R“ (kein Werbetext) [gesichtet]
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: Fälschungs-/Kopien-Warnung
 - Primärtext (8425 Zeichen):
 
@@ -8305,7 +8305,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-2-das-nacken-therap
 - Headlines: „Schwindel? Das könnte die wahre Ursache sein“ (15×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (15×)
 - CTA: LEARN_MORE (15×)
-- Text im Bild: Bild 93699148 (1×): Foto: Arm mit Infusionszugang + Patientenarmband im Klinikbett (kein Text) [gesichtet] | Bild 118137195 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 92830577 (1×): Illustration Kopf/Hals mit Nerven-/Lymphpunkten und roten Pfeilen (kein Text) [gesichtet] | + 12 weitere Bildvarianten
+- Text im Bild: Bild 93699148 (1×): Foto: Arm mit Infusionszugang + Patientenarmband im Klinikbett (kein Text) [gesichtet] | Bild 118137195 (1×): Röntgen HWS seitlich (kein Text) [gesichtet] | Bild 92830577 (1×): Illustration Kopf/Hals mit Nerven-/Lymphpunkten und roten Pfeilen (kein Text) [gesichtet] | + 12 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 60-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, Fälschungs-/Kopien-Warnung
 - Primärtext (20789 Zeichen):
 
@@ -8604,7 +8604,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-6-das-nacken-therap
 - Headlines: „Schwindel? Das könnte die wahre Ursache sein..“ (14×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (14×)
 - CTA: LEARN_MORE (14×)
-- Text im Bild: Bild 149761572 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 149761568 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 149761616 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 11 weitere Bildvarianten
+- Text im Bild: Bild 149761572 (1×): Foto: Nacken einer Frau mit oranger Markierungslinie (kein Text) [gesichtet] | Bild 149761568 (1×): Foto: Händchenhalten am Klinikbett, Patientenarmband (kein Text) [gesichtet] | Bild 149761616 (1×): Röntgen Schädel/HWS seitlich (kein Text) [gesichtet] | + 11 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, „limitiert“, „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (12747 Zeichen):
 
@@ -8896,7 +8896,7 @@ Hier ist nochmal der Rabatt-Link:
 - Headlines: „Schlafprobleme & Panikattacken? Das könnte der Grund sein“ (10×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen...“ (10×)
 - CTA: SHOP_NOW (10×)
-- Text im Bild: Bild 92133128 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 92133129 (1×): Foto: Krankenhauszimmer, Patient im Bett, Kaffeebecher (kein Text) [gesichtet] | Bild 92133131 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 7 weitere Bildvarianten
+- Text im Bild: Bild 92133128 (1×): Foto: Laken/Kissen mit großem Schweißfleck (kein Text) [gesichtet] | Bild 92133129 (1×): Foto: Krankenhauszimmer, Patient im Bett, Kaffeebecher (kein Text) [gesichtet] | Bild 92133131 (1×): Foto: dunkles Schlafzimmer, leeres zerwühltes Bett, Nachtlicht (kein Text) [gesichtet] | + 7 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt
 - Primärtext (7856 Zeichen):
 
@@ -9043,7 +9043,7 @@ https://shop.pillowdaddy.de/listicle-das-schlaftherapie-kissen-anxiety
 - Headlines: „Warum dein Schwindel nicht weggeht (Der wahre Grund wird dich überraschen)“ (12×); „Schwindel? Das könnte die wahre Ursache sein“ (11×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (23×)
 - CTA: SHOP_NOW (23×)
-- Text im Bild: Bild 93699165 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 91268695 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 93699158 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 20 weitere Bildvarianten
+- Text im Bild: Bild 93699165 (1×): Foto: erschöpfte Frau hält sich die Stirn (kein Text) [gesichtet] | Bild 91268695 (1×): Foto: OP-Saal, Chirurg mit VR-Brille vor Monitor (kein Text) [gesichtet] | Bild 93699158 (1×): Foto: Warteschlange im Supermarkt (nur Ladenschilder „AKTION“, kein Werbetext) [gesichtet] | + 20 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, „limitiert“, „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (14851 Zeichen):
 
@@ -9965,7 +9965,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-6-das-nacken-therap
 - Headlines: „Schwindel? Das könnte die wahre Ursache sein“ (5×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (5×)
 - CTA: SHOP_NOW (5×)
-- Text im Bild: Bild 85129760 (1×): Foto: Stapel alter vergilbter Kopfkissen auf Fliesenboden (kein Text) [gesichtet] | Bild 93699175 (1×): Foto: MRT-Kontrollraum (kein Text) [gesichtet] | Bild 91268598 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 2 weitere Bildvarianten
+- Text im Bild: Bild 85129760 (1×): Foto: Stapel alter vergilbter Kopfkissen auf Fliesenboden (kein Text) [gesichtet] | Bild 93699175 (1×): Foto: MRT-Kontrollraum (kein Text) [gesichtet] | Bild 91268598 (1×): Röntgen HWS seitlich mit roten Pfeilen, „R“ (kein Werbetext) [gesichtet] | + 2 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, „limitiert“, „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (12986 Zeichen):
 
@@ -10266,7 +10266,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-6-das-nacken-therap
 - Headlines: „Warum du es niemals bei Amazon kaufen solltest“ (5×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen...“ (5×)
 - CTA: SHOP_NOW (5×)
-- Text im Bild: Bild 113843308 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 113843287 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 85129604 (1×): Foto: aufgeschnittenes Kissen mit verfärbter, schimmeliger Schaumfüllung (Ekel-/Hygiene-Motiv, kein Text) [gesichtet] | + 2 weitere Bildvarianten
+- Text im Bild: Bild 113843308 (1×): Foto: Nackenkissen (Schmetterlingsform) auf Holzboden (kein Text) [gesichtet] | Bild 113843287 (1×): Foto: Nackenkissen auf Bett (kein Text) [gesichtet] | Bild 85129604 (1×): Foto: aufgeschnittenes Kissen mit verfärbter, schimmeliger Schaumfüllung (Ekel-/Hygiene-Motiv, kein Text) [gesichtet] | + 2 weitere Bildvarianten
 - Angebot im Text: Knappheit/Dringlichkeit: Fälschungs-/Kopien-Warnung
 - Primärtext (4970 Zeichen):
 
@@ -10367,7 +10367,7 @@ Wenn du das spürst — hast du das echte Produkt.
 - Headlines: „Schwindel? Das könnte die wahre Ursache sein“ (4×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (4×)
 - CTA: SHOP_NOW (4×)
-- Text im Bild: Bild 93699172 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 93699152 (1×): Foto: MRT-Kontrollraum mit Monitoren (kein Text) [gesichtet] | Bild 91268692 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 1 weitere Bildvarianten
+- Text im Bild: Bild 93699172 (1×): Foto: Kopfkissen und Laken mit rötlichen Flecken (kein Text) [gesichtet] | Bild 93699152 (1×): Foto: MRT-Kontrollraum mit Monitoren (kein Text) [gesichtet] | Bild 91268692 (1×): Foto: Monitor mit MRT-Schnittbild Kopf/HWS (kein Text) [gesichtet] | + 1 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, „limitiert“, „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (12947 Zeichen):
 
@@ -11846,7 +11846,7 @@ Hier ist der Rabatt-Link: https://try.pillowdaddy-us.com/advert-6-das-nacken-the
 - Headlines: „Nackenschmerzen? Das könnte die wahre Ursache sein“ (5×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (5×)
 - CTA: SHOP_NOW (5×)
-- Text im Bild: Bild 79010239 (1×): Illustration Rückansicht Nacken, Muskel markiert + schwarzer Pfeil (kein Text) [gesichtet] | Bild 77116263 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 91268663 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 2 weitere Bildvarianten
+- Text im Bild: Bild 79010239 (1×): Illustration Rückansicht Nacken, Muskel markiert + schwarzer Pfeil (kein Text) [gesichtet] | Bild 77116263 (1×): Medizin-Zeichnung Triggerpunkte Nacken/Schulter (zwei weiße Kreuze, kein Text) [gesichtet] | Bild 91268663 (1×): Röntgen HWS seitlich mit roten Pfeilen/Kreisen (kein Werbetext) [gesichtet] | + 2 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: Fälschungs-/Kopien-Warnung
 - Primärtext (9387 Zeichen):
 
@@ -12035,7 +12035,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-3-das-nacken-therap
 - Headlines: „Nackenschmerzen? Das könnte die wahre Ursache sein“ (4×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (4×)
 - CTA: SHOP_NOW (4×)
-- Text im Bild: Bild 77116244 (2×): MRT-Schnitt HWS mit rot markierter Stelle + rote Pfeile (kein Text) [gesichtet] | Bild 88557752 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 91268716 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet)
+- Text im Bild: Bild 77116244 (2×): MRT-Schnitt HWS mit rot markierter Stelle + rote Pfeile (kein Text) [gesichtet] | Bild 88557752 (1×): Illustration Rückansicht Nacken/Schulter rot, zwei schwarze Pfeile (kein Text) [gesichtet] | Bild 91268716 (1×): Illustration: Rückansicht Kopf/Schultern, Nacken rot (kein Text) [gesichtet]
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: Fälschungs-/Kopien-Warnung
 - Primärtext (8358 Zeichen):
 
@@ -12204,7 +12204,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-2-das-nacken-therap
 - Headlines: „Nackenschmerzen? Das könnte die wahre Ursache sein“ (3×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (3×)
 - CTA: SHOP_NOW (3×)
-- Text im Bild: Bild 77116227 (1×): Foto: leeres Klinikbett (POV) (kein Text) [gesichtet] | Bild 89431210 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 77116252 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet)
+- Text im Bild: Bild 77116227 (1×): Foto: leeres Klinikbett (POV) (kein Text) [gesichtet] | Bild 89431210 (1×): Foto: Kissen/Matratzenauflage in Mülltonne am Straßenrand (kein Text) [gesichtet] | Bild 77116252 (1×): Foto: leeres Arzt-Untersuchungszimmer (kein Text) [gesichtet]
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: Fälschungs-/Kopien-Warnung
 - Primärtext (8701 Zeichen):
 
@@ -12385,7 +12385,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-2-das-nacken-therap
 - Headlines: „Ischias- und Hüftschmerzen? Das könnte der wahre Grund sein“ (15×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen...“ (15×)
 - CTA: LEARN_MORE (15×)
-- Text im Bild: Bild 103796635 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 103796631 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 103796634 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 12 weitere Bildvarianten
+- Text im Bild: Bild 103796635 (1×): Foto: Frau liegt mit Schmerzen zwischen Kissen im Bett (kein Text) [gesichtet] | Bild 103796631 (1×): Foto: Frau sitzt im Bett, hält sich Hüfte/Rücken (kein Text) [gesichtet] | Bild 103796634 (1×): Comic 2-geteilt: Frau mit Hüftschmerz (rot) | schläft entspannt (Vorher/Nachher, nur „ZZZ“) [gesichtet] | + 12 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, „limitiert“, „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (17996 Zeichen):
 
@@ -12813,7 +12813,7 @@ Hier ist der Link: https://shop.pillowdaddy.de/advert-1-das-schlaftherapie-kisse
 - Headlines: „Kauft besser NICHT auf Amazon“ (8×)
 - Linkbeschreibung: „Ich wollte das eigentlich gar nicht teilen...“ (8×)
 - CTA: LEARN_MORE (8×)
-- Text im Bild: Bild 172038974 (1×): „KAUFT BESSER NICHT AUF AMAZON...“ [OCR, bereinigt] | Bild 172038996 (1×): „KAUFT EUCH BLOSS NICHT DIESES KISSEN!“ [OCR, bereinigt] | Bild 172038982 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 5 weitere Bildvarianten
+- Text im Bild: Bild 172038974 (1×): „KAUFT BESSER NICHT AUF AMAZON...“ [OCR, bereinigt] | Bild 172038996 (1×): „KAUFT EUCH BLOSS NICHT DIESES KISSEN!“ [OCR, bereinigt] | Bild 172038982 (1×): Foto: Nackenkissen auf Sessel; Text oben: „KAUFT BESSER NICHT AUF AMAZON...“ [gesichtet] | + 5 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 60-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, Fälschungs-/Kopien-Warnung
 - Primärtext (10958 Zeichen):
 
@@ -13027,7 +13027,7 @@ Das echte Nacken Therapiekissen bekommst du nur auf der offiziellen Seite, den L
 - Headlines: „Schwindel? Das könnte die wahre Ursache sein..“ (5×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (5×)
 - CTA: LEARN_MORE (5×)
-- Text im Bild: Bild 98191023 (1×): Foto: MRT-Gerät im Klinikflur (kein Text) [gesichtet] | Bild 149761552 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 92830577 (1×): Illustration Kopf/Hals mit Nerven-/Lymphpunkten und roten Pfeilen (kein Text) [gesichtet] | + 2 weitere Bildvarianten
+- Text im Bild: Bild 98191023 (1×): Foto: MRT-Gerät im Klinikflur (kein Text) [gesichtet] | Bild 149761552 (1×): Foto: zwei lachende Frauen im Krankenzimmer (kein Text) [gesichtet] | Bild 92830577 (1×): Illustration Kopf/Hals mit Nerven-/Lymphpunkten und roten Pfeilen (kein Text) [gesichtet] | + 2 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 60-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „limitiert“, „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (13101 Zeichen):
 
@@ -13235,7 +13235,7 @@ Hier ist der Rabatt-Link:
 - Headlines: „Schwindel? Das könnte die wahre Ursache sein..“ (7×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (7×)
 - CTA: LEARN_MORE (7×)
-- Text im Bild: Bild 149761616 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 149761542 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 149761587 (1×): „Eine einzige verspannte Stelle in deinem Nacken kann dein gesamtes System aus dem Gleichgewicht bringen.“ + Icons „Schwindel“, „Herzklopfen“ [OCR, bereinigt] | + 4 weitere Bildvarianten
+- Text im Bild: Bild 149761616 (1×): Röntgen Schädel/HWS seitlich (kein Text) [gesichtet] | Bild 149761542 (1×): Foto: MRT-Raum mit Himmel-Deckenbild (kein Text) [gesichtet] | Bild 149761587 (1×): „Eine einzige verspannte Stelle in deinem Nacken kann dein gesamtes System aus dem Gleichgewicht bringen.“ + Icons „Schwindel“, „Herzklopfen“ [OCR, bereinigt] | + 4 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 60-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „limitiert“, „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (13792 Zeichen):
 
@@ -13433,7 +13433,7 @@ Hier ist nochmal der Rabatt-Link:
 - Headlines: „Kauf besser NICHT auf Amazon“ (6×)
 - Linkbeschreibung: „Ich wollte das eigentlich gar nicht teilen...“ (6×)
 - CTA: LEARN_MORE (6×)
-- Text im Bild: Bild 175899059 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 175899083 (1×): „KAUFT EUCH BLOSS NICHT DIESES KISSEN!“ [OCR, bereinigt] | Bild 175899039 (1×): „KAUFT EUCH BLOSS NICHT DIESES KISSEN!“ [OCR, bereinigt] | + 3 weitere Bildvarianten
+- Text im Bild: Bild 175899059 (1×): Foto: U-förmiges Körperkissen; Text oben: „KAUFT EUCH BLOSS NICHT DIESES KISSEN!“ [gesichtet] | Bild 175899083 (1×): „KAUFT EUCH BLOSS NICHT DIESES KISSEN!“ [OCR, bereinigt] | Bild 175899039 (1×): „KAUFT EUCH BLOSS NICHT DIESES KISSEN!“ [OCR, bereinigt] | + 3 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 60-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, Fälschungs-/Kopien-Warnung
 - Primärtext (16209 Zeichen):
 
@@ -13735,7 +13735,7 @@ Das echte Schlaftherapie Kissen bekommst du nur auf der offiziellen Seite, den L
 - Headlines: „Kauf besser NICHT auf Amazon“ (6×)
 - Linkbeschreibung: „Ich wollte das eigentlich gar nicht teilen...“ (6×)
 - CTA: LEARN_MORE (6×)
-- Text im Bild: Bild 175899083 (1×): „KAUFT EUCH BLOSS NICHT DIESES KISSEN!“ [OCR, bereinigt] | Bild 175899066 (1×): „KAUFT EUCH BLOSS NICHT DIESES KISSEN!“ [OCR, bereinigt] | Bild 175899040 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 3 weitere Bildvarianten
+- Text im Bild: Bild 175899083 (1×): „KAUFT EUCH BLOSS NICHT DIESES KISSEN!“ [OCR, bereinigt] | Bild 175899066 (1×): „KAUFT EUCH BLOSS NICHT DIESES KISSEN!“ [OCR, bereinigt] | Bild 175899040 (1×): Foto: graues U-Körperkissen auf Bett; Text oben: „KAUFT EUCH BLOSS NICHT DIESES KISSEN!“ [gesichtet] | + 3 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 60-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, Fälschungs-/Kopien-Warnung
 - Primärtext (16098 Zeichen):
 
@@ -14037,7 +14037,7 @@ Das echte Schlaftherapie Kissen bekommst du nur auf der offiziellen Seite, den L
 - Headlines: „(leer)“ (3×)
 - Linkbeschreibung: „(leer)“ (3×)
 - CTA: n/a (3×)
-- Text im Bild: Bild 92133144 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 92133140 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 92133146 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet)
+- Text im Bild: Bild 92133144 (1×): Foto: junge Frau schläft im Klinik-Infusionsstuhl (kein Text) [gesichtet] | Bild 92133140 (1×): Foto: erschöpfte junge Frau, Kopf in die Hand gestützt (kein Text) [gesichtet] | Bild 92133146 (1×): Foto: junge Frau liegt mit U-Körperkissen auf Bett (kein Text) [gesichtet]
 - Angebot im Text: Knappheit/Dringlichkeit: Fälschungs-/Kopien-Warnung
 - Primärtext (7448 Zeichen):
 
@@ -16101,7 +16101,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-7-das-nacken-therap
 - Headlines: „Wie stoppt man Schnarchen?“ (11×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (11×)
 - CTA: SHOP_NOW (11×)
-- Text im Bild: Bild 85129830 (1×): Foto: Badewanne mit eingeweichter Bettwäsche/Decke, schmutzig (kein Text) [gesichtet] | Bild 85129806 (1×): Foto: CPAP-Maske hängt an Wand über Bett, CPAP-Gerät auf Nachttisch (kein Text) [gesichtet] | Bild 85129775 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 8 weitere Bildvarianten
+- Text im Bild: Bild 85129830 (1×): Foto: Badewanne mit eingeweichter Bettwäsche/Decke, schmutzig (kein Text) [gesichtet] | Bild 85129806 (1×): Foto: CPAP-Maske hängt an Wand über Bett, CPAP-Gerät auf Nachttisch (kein Text) [gesichtet] | Bild 85129775 (1×): Foto: CPAP-Gerät mit Maske auf Nachttisch (kein Text) [gesichtet] | + 8 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, „limitiert“, „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (9810 Zeichen):
 
@@ -16317,7 +16317,7 @@ Ich habe dir hier den Link unten eingefügt. https://shop.pillowdaddy.de/advert-
 - Headlines: „Das 60€-Kissen, das unser AirBnB berühmt gemacht hat“ (5×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (5×)
 - CTA: SHOP_NOW (5×)
-- Text im Bild: Bild 85129604 (1×): Foto: aufgeschnittenes Kissen mit verfärbter, schimmeliger Schaumfüllung (Ekel-/Hygiene-Motiv, kein Text) [gesichtet] | Bild 85129620 (1×): Collage 2-teilig: Badewanne mit eingeweichter Decke | Waschmaschine mit zerfetzter Füllung + roter Pfeil (kein Text) [gesichtet] | Bild 85129631 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 2 weitere Bildvarianten
+- Text im Bild: Bild 85129604 (1×): Foto: aufgeschnittenes Kissen mit verfärbter, schimmeliger Schaumfüllung (Ekel-/Hygiene-Motiv, kein Text) [gesichtet] | Bild 85129620 (1×): Collage 2-teilig: Badewanne mit eingeweichter Decke | Waschmaschine mit zerfetzter Füllung + roter Pfeil (kein Text) [gesichtet] | Bild 85129631 (1×): Foto: vergilbtes, fleckiges Kopfkissen (kein Text) [gesichtet] | + 2 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (9816 Zeichen):
 
@@ -16528,7 +16528,7 @@ Ich habe dir hier den Link unten eingefügt. https://shop.pillowdaddy.de/advert-
 - Headlines: „Angststörung? Das könnte der wahre Grund sein..“ (10×); „Daniela Koch“ (2×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (10×); „(leer)“ (2×)
 - CTA: LEARN_MORE (12×)
-- Text im Bild: Bild 93699148 (8×): Foto: Arm mit Infusionszugang + Patientenarmband im Klinikbett (kein Text) [gesichtet] | Bild 99225330 (1×): Selfie: jubelnde Frau im Klinikhemd, Faust hoch (kein Text) – ‚geheilt‘-Motiv [gesichtet] | Bild 129570279 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 2 weitere Bildvarianten
+- Text im Bild: Bild 93699148 (8×): Foto: Arm mit Infusionszugang + Patientenarmband im Klinikbett (kein Text) [gesichtet] | Bild 99225330 (1×): Selfie: jubelnde Frau im Klinikhemd, Faust hoch (kein Text) – ‚geheilt‘-Motiv [gesichtet] | Bild 129570279 (1×): Selfie: lächelnde Frau mit Brille am Schreibtisch/Büro (kein Text) [gesichtet] | + 2 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 60-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, „limitiert“, „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (15107 Zeichen):
 
@@ -16868,7 +16868,7 @@ https://shop.pillowdaddy.de/advert-6-das-nacken-therapiekissen-schwindel
 - Headlines: „Warum deine Migräne nicht weggeht (Der wahre Grund überrascht dich)“ (11×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (11×)
 - CTA: SHOP_NOW (11×)
-- Text im Bild: Bild 85129639 (2×): Foto: Frau mit Kopfverband (Rückansicht) im Behandlungsraum (kein Text) [gesichtet] | Bild 85129879 (1×): Foto: Frau hält sich den Kopf, liegt verzweifelt im Bett (Migräne-Motiv, kein Text) [gesichtet] | Bild 85129877 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 7 weitere Bildvarianten
+- Text im Bild: Bild 85129639 (2×): Foto: Frau mit Kopfverband (Rückansicht) im Behandlungsraum (kein Text) [gesichtet] | Bild 85129879 (1×): Foto: Frau hält sich den Kopf, liegt verzweifelt im Bett (Migräne-Motiv, kein Text) [gesichtet] | Bild 85129877 (1×): Foto: Frau mit EEG-Haube in Praxis (Wandposter „GEHIRNANATOMIE“, „DAS NERVENSYSTEM“, kein Werbetext) [gesichtet] | + 7 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (16549 Zeichen):
 
@@ -17482,7 +17482,7 @@ P.S. Michael ist bereits zum "inoffiziellen Botschafter" für dieses Kissen in s
 - Headlines: „Angststörung? Das könnte der wahre Grund sein“ (9×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen...“ (9×)
 - CTA: LEARN_MORE (9×)
-- Text im Bild: Bild 93699161 (2×): Foto: leerer Krankenhausflur (kein Text) [gesichtet] | Bild 93699159 (2×): Foto: Patientin wird ins MRT geschoben (kein Text) [gesichtet] | Bild 100130582 (2×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 2 weitere Bildvarianten
+- Text im Bild: Bild 93699161 (2×): Foto: leerer Krankenhausflur (kein Text) [gesichtet] | Bild 93699159 (2×): Foto: Patientin wird ins MRT geschoben (kein Text) [gesichtet] | Bild 100130582 (2×): Foto: Klinik-Behandlungsraum mit zwei Pflegekräften (kein Text) [gesichtet] | + 2 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, „limitiert“, „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (14820 Zeichen):
 
@@ -18110,7 +18110,7 @@ Hier ist nochmal der Link: https://shop.pillowdaddy.de/advert-6-das-nacken-thera
 - Headlines: „Angststörung? Das könnte der wahre Grund sein..“ (4×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (4×)
 - CTA: LEARN_MORE (4×)
-- Text im Bild: Bild 99225348 (1×): Spiegel-Selfie: lachende Frau im Klinikhemd, Bizeps-Pose (kein Text) – ‚geheilt‘-Motiv [gesichtet] | Bild 104389325 (1×): 3D-CT Schädel/HWS mit rotem Fadenkreuz auf Schädelbasis (kein Text) [gesichtet] | Bild 129570283 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 1 weitere Bildvarianten
+- Text im Bild: Bild 99225348 (1×): Spiegel-Selfie: lachende Frau im Klinikhemd, Bizeps-Pose (kein Text) – ‚geheilt‘-Motiv [gesichtet] | Bild 104389325 (1×): 3D-CT Schädel/HWS mit rotem Fadenkreuz auf Schädelbasis (kein Text) [gesichtet] | Bild 129570283 (1×): Foto: weinende Frau, Hand vor dem Mund (kein Text) [gesichtet] | + 1 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 60-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, „limitiert“, „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (15115 Zeichen):
 
@@ -19891,7 +19891,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-7-das-nacken-therap
 - Headlines: „Warum dein Ohrensausen nicht weggeht (Der wahre Grund wird dich überraschen)“ (14×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen...“ (14×)
 - CTA: LEARN_MORE (14×)
-- Text im Bild: Bild 100130579 (1×): Foto: Frau mittleren Alters liegt mit Ohrstöpseln im MRT, Tränen (kein Text) [gesichtet] | Bild 99225355 (1×): Foto: CT/MRT-Gerät (kein Text) [gesichtet] | Bild 138614325 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 11 weitere Bildvarianten
+- Text im Bild: Bild 100130579 (1×): Foto: Frau mittleren Alters liegt mit Ohrstöpseln im MRT, Tränen (kein Text) [gesichtet] | Bild 99225355 (1×): Foto: CT/MRT-Gerät (kein Text) [gesichtet] | Bild 138614325 (1×): CT-Schnitt Kopf/HWS mit rotem Pfeil (kein Text) [gesichtet] | + 11 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 60-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, „limitiert“, „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (17471 Zeichen):
 
@@ -20938,7 +20938,7 @@ https://shop.pillowdaddy.de/advert-6-das-nacken-therapiekissen-schwindel
 - Headlines: „Pfeifen im Ohr? Das könnte die Ursache sein“ (5×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen...“ (5×)
 - CTA: SHOP_NOW (5×)
-- Text im Bild: Bild 98191028 (1×): Medizin-Illustration: Gehörgang/Rachen mit weißen Würmern/Fäden (Ekel-Motiv, kein Text) [gesichtet] | Bild 93699159 (1×): Foto: Patientin wird ins MRT geschoben (kein Text) [gesichtet] | Bild 91268699 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 2 weitere Bildvarianten
+- Text im Bild: Bild 98191028 (1×): Medizin-Illustration: Gehörgang/Rachen mit weißen Würmern/Fäden (Ekel-Motiv, kein Text) [gesichtet] | Bild 93699159 (1×): Foto: Patientin wird ins MRT geschoben (kein Text) [gesichtet] | Bild 91268699 (1×): Röntgen HWS seitlich mit roten Pfeilen (kein Text) [gesichtet] | + 2 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, „limitiert“, „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (18175 Zeichen):
 
@@ -22103,7 +22103,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-7-das-nacken-therap
 - Headlines: „Wie stoppt man Schnarchen?“ (3×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (3×)
 - CTA: SHOP_NOW (3×)
-- Text im Bild: Bild 89551944 (1×): Foto: Bett übersät mit Dutzenden alter, fleckiger Kopfkissen (Hygiene-/Kissen-Friedhof-Motiv, kein Text) [gesichtet] | Bild 89551941 (1×): Selfie: Frau mit Nasen-CPAP-Maske im Wohnzimmer (kein Text) [gesichtet] | Bild 89551939 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet)
+- Text im Bild: Bild 89551944 (1×): Foto: Bett übersät mit Dutzenden alter, fleckiger Kopfkissen (Hygiene-/Kissen-Friedhof-Motiv, kein Text) [gesichtet] | Bild 89551941 (1×): Selfie: Frau mit Nasen-CPAP-Maske im Wohnzimmer (kein Text) [gesichtet] | Bild 89551939 (1×): Foto: Hand leert Trockner-Flusensieb, Kissenfüllung quillt aus Trockner (kein Text) [gesichtet]
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, „limitiert“, „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (10254 Zeichen):
 
@@ -22339,7 +22339,7 @@ Ich habe dir hier den Link unten eingefügt. https://shop.pillowdaddy.de/advert-
 - Headlines: „Wie stoppt man Schnarchen?“ (3×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (3×)
 - CTA: SHOP_NOW (3×)
-- Text im Bild: Bild 89551940 (1×): Selfie: Frau mit CPAP-Maske im Bett (kein Text) [gesichtet] | Bild 89551942 (1×): Foto: Paket liegt im Regen unter Baum am Briefkasten (kein Text) [gesichtet] | Bild 85129775 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet)
+- Text im Bild: Bild 89551940 (1×): Selfie: Frau mit CPAP-Maske im Bett (kein Text) [gesichtet] | Bild 89551942 (1×): Foto: Paket liegt im Regen unter Baum am Briefkasten (kein Text) [gesichtet] | Bild 85129775 (1×): Foto: CPAP-Gerät mit Maske auf Nachttisch (kein Text) [gesichtet]
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, „limitiert“, „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (9911 Zeichen):
 
@@ -22781,7 +22781,7 @@ Ich habe dir hier den Link unten eingefügt. https://shop.pillowdaddy.de/advert-
 - Headlines: „Warum deine Nackenschmerzen nicht weggehen (Der wahre Grund wird dich überraschen)“ (8×)
 - Linkbeschreibung: „Ein simpler Grund, den 90% der Menschen übersehen“ (8×)
 - CTA: LEARN_MORE (8×)
-- Text im Bild: Bild 76252824 (1×): Röntgenbild Halswirbelsäule seitlich mit roten Pfeilen (kein Text) [gesichtet] | Bild 100130587 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 92830569 (1×): Röntgen HWS seitlich (kein Text) [gesichtet] | + 5 weitere Bildvarianten
+- Text im Bild: Bild 76252824 (1×): Röntgenbild Halswirbelsäule seitlich mit roten Pfeilen (kein Text) [gesichtet] | Bild 100130587 (1×): Foto: Nacken mit Bluterguss/Schröpf-Spuren (kein Text) [gesichtet] | Bild 92830569 (1×): Röntgen HWS seitlich (kein Text) [gesichtet] | + 5 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „limitiert“, „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (15004 Zeichen):
 
@@ -23185,7 +23185,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-2-das-nacken-therap
 - Headlines: „Warum deine Nackenschmerzen nicht weggehen (Der wahre Grund wird dich überraschen)“ (6×)
 - Linkbeschreibung: „Ein simpler Grund, den 90% der Menschen übersehen“ (6×)
 - CTA: LEARN_MORE (6×)
-- Text im Bild: Bild 100130585 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 91268598 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 100130558 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 3 weitere Bildvarianten
+- Text im Bild: Bild 100130585 (1×): Medizin-Illustration Halsmuskulatur mit gelb umkreister Stelle (kein Text) [gesichtet] | Bild 91268598 (1×): Röntgen HWS seitlich mit roten Pfeilen, „R“ (kein Werbetext) [gesichtet] | Bild 100130558 (1×): Foto: geröteter Nacken einer Frau (kein Text) [gesichtet] | + 3 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „limitiert“, „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (14974 Zeichen):
 
@@ -23591,7 +23591,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-2-das-nacken-therap
 - Headlines: „Ich schnarchte und vergaß Wörter. Ich dachte an Demenz. Die Wahrheit war eine andere...“ (9×)
 - Linkbeschreibung: „Warum Ärzte diese eine Ursache für Gehirnnebel und Vergesslichkeit oft übersehen“ (9×)
 - CTA: LEARN_MORE (9×)
-- Text im Bild: Bild 186199714 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 186199711 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 89551940 (1×): Selfie: Frau mit CPAP-Maske im Bett (kein Text) [gesichtet] | + 6 weitere Bildvarianten
+- Text im Bild: Bild 186199714 (1×): Selfie: Frau mit CPAP-Vollgesichtsmaske (kein Text) [gesichtet] | Bild 186199711 (1×): Foto: CPAP-Gerät mit Maske auf Bett (kein Text) [gesichtet] | Bild 89551940 (1×): Selfie: Frau mit CPAP-Maske im Bett (kein Text) [gesichtet] | + 6 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 60-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, „limitiert“, „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (9812 Zeichen):
 
@@ -24028,7 +24028,7 @@ Das echte Nacken Therapiekissen bekommst du nur auf der offiziellen Seite, den L
 - Headlines: „Kauft besser NICHT auf Amazon“ (7×); „Daniela Koch“ (3×)
 - Linkbeschreibung: „Ich wollte das eigentlich gar nicht teilen...“ (7×); „(leer)“ (3×)
 - CTA: LEARN_MORE (10×)
-- Text im Bild: Bild 192560798 (1×): Foto: Nackenkissen im Mülleimer, Zettel auf dem Boden: „AMAZON“ [gesichtet] | Bild 175899034 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 172038988 (1×): „KAUFT EUCH BLOSS NICHT DIESES KISSEN!“ [OCR, bereinigt] | + 7 weitere Bildvarianten
+- Text im Bild: Bild 192560798 (1×): Foto: Nackenkissen im Mülleimer, Zettel auf dem Boden: „AMAZON“ [gesichtet] | Bild 175899034 (1×): Foto: Nackenkissen im weißen Mülleimer, Zettel „AMAZON“ [gesichtet] | Bild 172038988 (1×): „KAUFT EUCH BLOSS NICHT DIESES KISSEN!“ [OCR, bereinigt] | + 7 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 60-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, Fälschungs-/Kopien-Warnung
 - Primärtext (13269 Zeichen):
 
@@ -24622,7 +24622,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-2-das-nacken-therap
 - Headlines: „Nackenschmerzen? Das könnte die wahre Ursache sein“ (13×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (13×)
 - CTA: SHOP_NOW (13×)
-- Text im Bild: Bild 77116244 (2×): MRT-Schnitt HWS mit rot markierter Stelle + rote Pfeile (kein Text) [gesichtet] | Bild 77116227 (2×): Foto: leeres Klinikbett (POV) (kein Text) [gesichtet] | Bild 77116312 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 8 weitere Bildvarianten
+- Text im Bild: Bild 77116244 (2×): MRT-Schnitt HWS mit rot markierter Stelle + rote Pfeile (kein Text) [gesichtet] | Bild 77116227 (2×): Foto: leeres Klinikbett (POV) (kein Text) [gesichtet] | Bild 77116312 (1×): Medizin-Illustration Hinterkopf-/Nackenmuskulatur, schwarzer Kreis (kein Text) [gesichtet] | + 8 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · Knappheit/Dringlichkeit: Fälschungs-/Kopien-Warnung
 - Primärtext (10689 Zeichen):
 
@@ -26339,7 +26339,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-6-das-nacken-therap
 - Headlines: „Warum dein Schwindel nicht weggeht (Der wahre Grund wird dich überraschen)“ (15×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (15×)
 - CTA: SHOP_NOW (15×)
-- Text im Bild: Bild 92830574 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 92830562 (1×): Foto: MRT-Gerät im Klinikflur (kein Text) [gesichtet] | Bild 93699159 (1×): Foto: Patientin wird ins MRT geschoben (kein Text) [gesichtet] | + 12 weitere Bildvarianten
+- Text im Bild: Bild 92830574 (1×): Röntgen HWS seitlich mit roter Linie (kein Text) [gesichtet] | Bild 92830562 (1×): Foto: MRT-Gerät im Klinikflur (kein Text) [gesichtet] | Bild 93699159 (1×): Foto: Patientin wird ins MRT geschoben (kein Text) [gesichtet] | + 12 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: „ausverkauft“, „limitiert“, „Aktion läuft noch“-Countdown-Logik, Fälschungs-/Kopien-Warnung
 - Primärtext (15138 Zeichen):
 
@@ -26646,7 +26646,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-6-das-nacken-therap
 - Headlines: „Warum dein Schwindel nicht weggeht (Der wahre Grund wird dich überraschen)“ (6×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (6×)
 - CTA: SHOP_NOW (6×)
-- Text im Bild: Bild 95325093 (1×): „Innenohr oder zervikogener Schwindel?“ [OCR, bereinigt] | Bild 92830565 (1×): Illustration Kopf-Profil mit zwei roten Schmerzzonen, Pfeile: „Innenohr oder zervikogener Schwindel?“ [gesichtet] | Bild 92830568 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 3 weitere Bildvarianten
+- Text im Bild: Bild 95325093 (1×): „Innenohr oder zervikogener Schwindel?“ [OCR, bereinigt] | Bild 92830565 (1×): Illustration Kopf-Profil mit zwei roten Schmerzzonen, Pfeile: „Innenohr oder zervikogener Schwindel?“ [gesichtet] | Bild 92830568 (1×): Foto: MRT-Gerät mit Wald-Deckenbild (kein Text) [gesichtet] | + 3 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: Fälschungs-/Kopien-Warnung
 - Primärtext (12027 Zeichen):
 
@@ -27194,7 +27194,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-6-das-nacken-therap
 - Headlines: „Warum dein Schwindel nicht weggeht (Der wahre Grund wird dich überraschen)“ (5×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (5×)
 - CTA: SHOP_NOW (5×)
-- Text im Bild: Bild 92830574 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 93699159 (1×): Foto: Patientin wird ins MRT geschoben (kein Text) [gesichtet] | Bild 93699156 (1×): Foto: ältere Frau steht am MRT, Patient liegt im Gerät (kein Text) [gesichtet] | + 2 weitere Bildvarianten
+- Text im Bild: Bild 92830574 (1×): Röntgen HWS seitlich mit roter Linie (kein Text) [gesichtet] | Bild 93699159 (1×): Foto: Patientin wird ins MRT geschoben (kein Text) [gesichtet] | Bild 93699156 (1×): Foto: ältere Frau steht am MRT, Patient liegt im Gerät (kein Text) [gesichtet] | + 2 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · 30-Tage/Nächte-Garantie (Geld zurück/Probeschlafen) · Knappheit/Dringlichkeit: Fälschungs-/Kopien-Warnung
 - Primärtext (11939 Zeichen):
 
@@ -27466,7 +27466,7 @@ Hier ist der Rabatt-Link: https://shop.pillowdaddy.de/advert-6-das-nacken-therap
 - Headlines: „Schulterschmerzen? Das könnte der wahre Grund sein“ (16×)
 - Linkbeschreibung: „Ich wollte das eigentlich nicht teilen..“ (16×)
 - CTA: SHOP_NOW (16×)
-- Text im Bild: Bild 88850449 (1×): Foto vom Monitor (Samsung): Röntgen Schulter mit „L“ (kein Werbetext) [gesichtet] | Bild 88557754 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | Bild 88557755 (1×): kein Text erkannt (OCR leer; Bild nicht einzeln gesichtet) | + 13 weitere Bildvarianten
+- Text im Bild: Bild 88850449 (1×): Foto vom Monitor (Samsung): Röntgen Schulter mit „L“ (kein Werbetext) [gesichtet] | Bild 88557754 (1×): Röntgen Schulter, Gelenk rot eingefärbt (kein Text) [gesichtet] | Bild 88557755 (1×): Illustration: Mann schläft auf der Seite, Nacken und Schulter rot markiert (kein Text) [gesichtet] | + 13 weitere Bildvarianten
 - Angebot im Text: 40 % Rabatt · Knappheit/Dringlichkeit: Fälschungs-/Kopien-Warnung
 - Primärtext (7887 Zeichen):
 
