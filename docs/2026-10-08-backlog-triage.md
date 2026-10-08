@@ -50,6 +50,7 @@ die `authuser`-Prüfung läuft nur über die Abfrage auf die Support-Adresse;
 | **16:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **achtundachtzigster Lauf ohne Zugang**, `authuser=chiaranevio0805@gmail.com` |
 | **17:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **neunundachtzigste gelaufene Abfrage ohne Zugang** |
 | **18:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **neunzigste gelaufene Abfrage ohne Zugang** |
+| **19:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einundneunzigste gelaufene Abfrage ohne Zugang**; in derselben Stunde der Abendreport |
 
 ### 🟨 Vier Stunden ohne Abfrage — offen benannt
 
