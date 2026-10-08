@@ -54,6 +54,7 @@ die `authuser`-Prüfung läuft nur über die Abfrage auf die Support-Adresse;
 | **20:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **zweiundneunzigste gelaufene Abfrage ohne Zugang** |
 | **21:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **dreiundneunzigste gelaufene Abfrage ohne Zugang** |
 | **22:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **vierundneunzigste gelaufene Abfrage ohne Zugang** |
+| **23:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **fünfundneunzigste gelaufene Abfrage ohne Zugang**; letzter Lauf des Tages |
 
 ### 🟨 Vier Stunden ohne Abfrage — offen benannt
 
@@ -153,3 +154,34 @@ erst um 16:18 zugestellt) **und dass dort ausdrücklich kein Ergebnis steht.**
 
 **Zahlen frisch nachgezählt: 483 / 121 ersetzt / 362 geltend / 83 gesperrt** —
 unverändert.
+
+---
+
+## Abschluss des 8. Oktober
+
+| | |
+|---|---|
+| **Protokollzeilen heute** | **24** (00:20–23:20) |
+| **Davon tatsächlich gelaufene Abfragen** | **20** |
+| **Stunden ohne Abfrage** | **4** (12:20–15:20, Trigger erst um 16:18 zugestellt) |
+| **Davon mit Zugang zum Support-Postfach** | **0** |
+| **Gelesene Kundennachrichten** | **0** |
+| **Geschriebene Entwürfe** | **0** |
+| **Eskalationen** | **0** |
+| **Gesendete E-Mails** | **0** |
+| **Erstattungen** | **0** |
+| **Zusammenhängende Abfragen ohne Zugang seit 04.10. 19:20** | **95** |
+
+**Vierter vollständiger Tag ohne Betreuung; insgesamt rund 100 Stunden.**
+**Was in dieser Zeit hereingekommen ist, weiß ich nicht.**
+
+**Geliefert wurde heute:** der englische Tagesreport
+(`docs/2026-10-08-daily-report-en.md`, im Chat, **ohne Gmail-Entwurf**, mit
+Begründung) und der Abendreport (`docs/2026-10-08-abendreport.md`, im Chat
+und als Datei). **Dazu die offene Benennung der vier Stunden ohne Abfrage —
+dort steht kein Ergebnis, auch kein „unverändert".**
+
+**Morgen das Erste, unverändert: die Gmail-Verbindung zurück auf
+`support.pawfriends.uk@gmail.com` — und prüfen, ob der Wechsel beabsichtigt
+war.** **Danach #8764 Craig Wren (Frist dann sieben Tage) und die fünf Fälle
+vom 04.10., die dann seit fünf Tagen keinen Entwurf haben.**
