@@ -44,6 +44,7 @@ die `authuser`-Prüfung läuft nur über die Abfrage auf die Support-Adresse;
 | **09:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertfünfte Abfrage ohne Zugang** |
 | **10:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertsechste Abfrage ohne Zugang** |
 | **11:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertsiebte Abfrage ohne Zugang** |
+| **12:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertachte Abfrage ohne Zugang** |
 
 ---
 
