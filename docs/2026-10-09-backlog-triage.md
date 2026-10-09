@@ -40,6 +40,7 @@ die `authuser`-Prüfung läuft nur über die Abfrage auf die Support-Adresse;
 | **05:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhunderterste Abfrage ohne Zugang** |
 | **06:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertzweite Abfrage ohne Zugang** |
 | **07:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertdritte Abfrage ohne Zugang** |
+| **08:20** | ohne Zeitfenster, **vor dem Eintrag gelaufen** | **unverändert, kein neuer Thread** — **einhundertvierte Abfrage ohne Zugang**; in derselben Stunde der Tagesreport |
 
 ---
 
@@ -92,3 +93,17 @@ die `authuser`-Prüfung läuft nur über die Abfrage auf die Support-Adresse;
 9. **Die fünf Sicherheitsmeldungen beantworten.**
 10. **Die drei Werbeanhänge öffnen** (#6311, Tamara Heathcote ×2).
 11. **Den Satz über die „zwölf Produkttexte" in 83 Entwürfen streichen lassen.**
+
+---
+
+## Tagesreport (EN) vom 09.10. — fünfter Tag ohne Gmail-Entwurf
+
+**`docs/2026-10-09-daily-report-en.md`, im Chat ausgegeben.** **Den
+Gmail-Entwurf habe ich zum fünften Mal NICHT angelegt** — die Verbindung
+hängt am privaten Postfach des Owners.
+
+**Im Report ausdrücklich genannt:** die vier Stunden vom 08.10. (12:20–15:20)
+ohne Abfrage und dass dort kein Ergebnis steht; **#8764 Craig Wrens Frist
+läuft seit sieben Tagen**; **104 zusammenhängende Abfragen ohne Zugang, rund
+109 Stunden unbetreut**; und weiterhin die Feststellung, dass seit dem 05.10.
+täglich ein Report hinausgeht und nichts zurückkommt.
