@@ -48,6 +48,7 @@ die `authuser`-Prüfung läuft nur über die Abfrage auf die Support-Adresse;
 | **13:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertneunte Abfrage ohne Zugang** |
 | **14:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertzehnte Abfrage ohne Zugang** |
 | **15:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertelfte Abfrage ohne Zugang** |
+| **16:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **kein neuer Thread** — **einhundertzwölfte Abfrage ohne Zugang**. 🟨 Einzige Änderung: beide Nachrichten des Trafford-Threads tragen jetzt zusätzlich `CATEGORY_PERSONAL`; weiter ungelesen, nichts geöffnet. Eine Label-Änderung, kein neuer Eingang |
 
 ---
 
