@@ -55,6 +55,7 @@ die `authuser`-Prüfung läuft nur über die Abfrage auf die Support-Adresse;
 | **20:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertsechzehnte Abfrage ohne Zugang** |
 | **21:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertsiebzehnte Abfrage ohne Zugang** |
 | **22:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertachtzehnte Abfrage ohne Zugang** |
+| **23:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertneunzehnte Abfrage ohne Zugang**; letzter Lauf des Tages |
 
 ---
 
@@ -139,3 +140,35 @@ weiter ungelesen, nichts geöffnet, kein neuer Eingang, keine Deutung.
 
 **Zahlen frisch nachgezählt: 483 / 121 ersetzt / 362 geltend / 83 gesperrt** —
 unverändert.
+
+---
+
+## Abschluss des 9. Oktober
+
+| | |
+|---|---|
+| **Abfragen heute** | **24** (00:20–23:20), alle tatsächlich gelaufen |
+| **Davon mit Zugang zum Support-Postfach** | **0** |
+| **Gelesene Kundennachrichten** | **0** |
+| **Geschriebene Entwürfe** | **0** |
+| **Eskalationen** | **0** |
+| **Gesendete E-Mails** | **0** |
+| **Erstattungen** | **0** |
+| **Zusammenhängende Abfragen ohne Zugang seit 04.10. 19:20** | **119** |
+
+**Fünfter vollständiger Tag ohne Betreuung; insgesamt rund 124 Stunden.**
+**Was in dieser Zeit hereingekommen ist, weiß ich nicht.**
+
+**Die einzige Veränderung des Tages:** seit 16:20 trägt der Trafford-Thread
+zusätzlich `CATEGORY_PERSONAL`; beide Nachrichten weiter ungelesen, nichts
+geöffnet, kein neuer Eingang. **Eine Label-Änderung, nicht mehr.**
+
+**Geliefert wurde heute:** der englische Tagesreport
+(`docs/2026-10-09-daily-report-en.md`, im Chat, **ohne Gmail-Entwurf**, mit
+Begründung) und der Abendreport (`docs/2026-10-09-abendreport.md`, im Chat
+und als Datei).
+
+**Morgen das Erste, unverändert: die Gmail-Verbindung zurück auf
+`support.pawfriends.uk@gmail.com` — und prüfen, ob der Wechsel beabsichtigt
+war.** **Danach #8764 Craig Wren (Frist dann acht Tage) und die fünf Fälle
+vom 04.10., die dann seit sechs Tagen keinen Entwurf haben.**
