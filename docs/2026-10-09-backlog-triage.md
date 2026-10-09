@@ -33,6 +33,7 @@ die `authuser`-Prüfung läuft nur über die Abfrage auf die Support-Adresse;
 | Lauf (UTC) | Gegenprobe auf `to:support.pawfriends.uk@gmail.com` | Ergebnis |
 |---|---|---|
 | **00:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert drei mitadressierte Threads, kein neuer** — **sechsundneunzigste Abfrage ohne Zugang**, `authuser=chiaranevio0805@gmail.com` |
+| **01:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **siebenundneunzigste Abfrage ohne Zugang** |
 
 ---
 
