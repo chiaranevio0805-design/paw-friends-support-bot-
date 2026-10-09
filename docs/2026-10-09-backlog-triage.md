@@ -117,3 +117,21 @@ ohne Abfrage und dass dort kein Ergebnis steht; **#8764 Craig Wrens Frist
 läuft seit sieben Tagen**; **104 zusammenhängende Abfragen ohne Zugang, rund
 109 Stunden unbetreut**; und weiterhin die Feststellung, dass seit dem 05.10.
 täglich ein Report hinausgeht und nichts zurückkommt.
+
+---
+
+## Abendreport 09.10.
+
+**`docs/2026-10-09-abendreport.md`, im Chat ausgegeben.** **Alle Kategorien
+null; fünfter vollständiger Tag ohne Zugang (heute 19 Abfragen, 114
+zusammenhängend, rund 120 Stunden unbetreut).** **Teil 2: kein neuer Entwurf,
+also kein neuer Volltext — die neun Entwürfe mit Volltext vom 05.10. bleiben
+offen, dazu die Überträge mit Fundstelle und die fünf Fälle vom 04.10. ohne
+Entwurf.** **Teil 3: nichts zu erstatten, £0,00.**
+
+**Im Report festgehalten: die einzige Veränderung seit fünf Tagen** — das
+Label `CATEGORY_PERSONAL` am Trafford-Thread seit 16:20, beide Nachrichten
+weiter ungelesen, nichts geöffnet, kein neuer Eingang, keine Deutung.
+
+**Zahlen frisch nachgezählt: 483 / 121 ersetzt / 362 geltend / 83 gesperrt** —
+unverändert.
