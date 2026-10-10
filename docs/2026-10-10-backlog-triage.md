@@ -60,6 +60,7 @@ kein neuer Eingang. **Eine Label-Änderung, nicht mehr; ich deute sie nicht.**
 | **20:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertvierzigste Abfrage ohne Zugang** |
 | **21:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhunderteinundvierzigste Abfrage ohne Zugang** |
 | **22:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertzweiundvierzigste Abfrage ohne Zugang** |
+| **23:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertdreiundvierzigste Abfrage ohne Zugang**; letzter Lauf des Tages |
 
 ---
 
@@ -146,3 +147,35 @@ Eingang, keine Deutung. **#8764 Craig Wren: acht Tage Frist.**
 
 **Zahlen frisch nachgezählt: 483 / 121 ersetzt / 362 geltend / 83 gesperrt** —
 unverändert.
+
+---
+
+## Abschluss des 10. Oktober
+
+| | |
+|---|---|
+| **Abfragen heute** | **24** (00:20–23:20), alle tatsächlich gelaufen |
+| **Davon mit Zugang zum Support-Postfach** | **0** |
+| **Gelesene Kundennachrichten** | **0** |
+| **Geschriebene Entwürfe** | **0** |
+| **Eskalationen** | **0** |
+| **Gesendete E-Mails** | **0** |
+| **Erstattungen** | **0** |
+| **Zusammenhängende Abfragen ohne Zugang seit 04.10. 19:20** | **143** |
+
+**Sechster vollständiger Tag ohne Betreuung; insgesamt rund 148 Stunden.**
+**Was in dieser Zeit hereingekommen ist, weiß ich nicht.**
+
+**Das Label `CATEGORY_PERSONAL` am Trafford-Thread ist den ganzen Tag über
+geblieben; beide Nachrichten weiter ungelesen, nichts geöffnet, kein neuer
+Eingang.**
+
+**Geliefert wurde heute:** der englische Tagesreport
+(`docs/2026-10-10-daily-report-en.md`, im Chat, **ohne Gmail-Entwurf**, mit
+Begründung) und der Abendreport (`docs/2026-10-10-abendreport.md`, im Chat
+und als Datei).
+
+**Morgen das Erste, unverändert: die Gmail-Verbindung zurück auf
+`support.pawfriends.uk@gmail.com` — und prüfen, ob der Wechsel beabsichtigt
+war.** **Danach #8764 Craig Wren (Frist dann neun Tage) und die fünf Fälle
+vom 04.10., die dann seit sieben Tagen keinen Entwurf haben.**
