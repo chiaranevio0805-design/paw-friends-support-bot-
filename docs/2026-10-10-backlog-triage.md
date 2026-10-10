@@ -45,6 +45,7 @@ kein neuer Eingang. **Eine Label-Änderung, nicht mehr; ich deute sie nicht.**
 | **05:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertfünfundzwanzigste Abfrage ohne Zugang** |
 | **06:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertsechsundzwanzigste Abfrage ohne Zugang** |
 | **07:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertsiebenundzwanzigste Abfrage ohne Zugang** |
+| **08:20** | ohne Zeitfenster, **vor dem Eintrag gelaufen** | **unverändert, kein neuer Thread** — **einhundertachtundzwanzigste Abfrage ohne Zugang**; in derselben Stunde der Tagesreport |
 
 ---
 
@@ -97,3 +98,19 @@ kein neuer Eingang. **Eine Label-Änderung, nicht mehr; ich deute sie nicht.**
 9. **Die fünf Sicherheitsmeldungen beantworten.**
 10. **Die drei Werbeanhänge öffnen** (#6311, Tamara Heathcote ×2).
 11. **Den Satz über die „zwölf Produkttexte" in 83 Entwürfen streichen lassen.**
+
+---
+
+## Tagesreport (EN) vom 10.10. — sechster Tag ohne Gmail-Entwurf
+
+**`docs/2026-10-10-daily-report-en.md`, im Chat ausgegeben.** **Den
+Gmail-Entwurf habe ich zum sechsten Mal NICHT angelegt** — die Verbindung
+hängt am privaten Postfach des Owners.
+
+**Im Report genannt:** **128 zusammenhängende Abfragen ohne Zugang, rund 133
+Stunden unbetreut**; **#8764 Craig Wrens Frist läuft seit acht Tagen**; die
+fünf Fälle vom 04.10. heute den sechsten Tag ohne Entwurf; das Label
+`CATEGORY_PERSONAL` am Trafford-Thread als einzige Veränderung in sechs Tagen
+— Label-Änderung, kein Eingang, keine Deutung; und weiterhin die
+Feststellung, dass seit dem 05.10. täglich ein Report hinausgeht und nichts
+zurückkommt.
