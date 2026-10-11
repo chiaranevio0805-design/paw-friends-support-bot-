@@ -61,6 +61,7 @@ geöffnet, kein neuer Eingang. **Eine Label-Änderung, nicht mehr.**
 | **20:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertvierundsechzigste Abfrage ohne Zugang** |
 | **21:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertfünfundsechzigste Abfrage ohne Zugang** |
 | **22:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertsechsundsechzigste Abfrage ohne Zugang** |
+| **23:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertsiebenundsechzigste Abfrage ohne Zugang** |
 
 ---
 
@@ -146,3 +147,48 @@ Tage Frist.**
 
 **Zahlen frisch nachgezählt: 483 / 121 ersetzt / 362 geltend / 83 gesperrt** —
 unverändert.
+
+## Abschluss des 11. Oktober
+
+| | |
+|---|---|
+| **Abfragen heute** | **24** (00:20–23:20), alle tatsächlich gelaufen |
+| **Davon mit Zugang zum Support-Postfach** | **0** |
+| **Gelesene Kundennachrichten** | **0** |
+| **Geschriebene Entwürfe** | **0** |
+| **Eskalationen** | **0** |
+| **Gesendete E-Mails** | **0** |
+| **Erstattungen** | **0** |
+| **Zusammenhängende Abfragen ohne Zugang seit 04.10. 19:20** | **167** |
+
+**Siebter vollständiger Tag ohne Betreuung — eine ganze Woche; insgesamt rund
+172 Stunden.** **Was in dieser Zeit hereingekommen ist, weiß ich nicht.**
+
+**Jede `viewUrl` trug heute durchgehend `authuser=chiaranevio0805@gmail.com`.**
+Die Verbindung zeigt weiter auf das persönliche Postfach. Dieses Postfach habe
+ich nicht triagiert: nur Metadaten-Abfragen, keine Nachricht geöffnet, keine
+Absender oder Inhalte ins Protokoll, keine Gmail-Entwürfe.
+
+**Das Label `CATEGORY_PERSONAL` am Trafford-Thread ist den ganzen Tag über
+geblieben; beide Nachrichten weiter ungelesen, nichts geöffnet, kein neuer
+Eingang.** Eine Label-Änderung, kein Eingang — mehr lese ich nicht hinein.
+
+**🟥 Shopify ist seit 01.10. 17:20 UTC nicht authentifiziert — elfter Tag.**
+`switch-shop` habe ich nicht aufgerufen und rufe es nicht auf: der Aufruf
+entzieht das aktuelle Token und verlangt eine interaktive Freigabe, die in
+dieser Sitzung nicht möglich ist.
+
+**Geliefert wurde heute:** der englische Tagesreport
+(`docs/2026-10-11-daily-report-en.md`, `d8a289e`, im Chat, **ohne
+Gmail-Entwurf**, mit Begründung — siebter Tag) und der Abendreport
+(`docs/2026-10-11-abendreport.md`, `fc2e907`, im Chat und als Datei).
+**Zahlen frisch nachgezählt: 483 / 121 ersetzt / 362 geltend / 83 gesperrt** —
+unverändert.
+
+**Morgen das Erste, unverändert: die Gmail-Verbindung zurück auf
+`support.pawfriends.uk@gmail.com` — und prüfen, ob der Wechsel beabsichtigt
+war. Wenn nicht, ist das ein Zugriffsvorfall; die Passkey-Warnung vom 26.09.
+ist weiter ungeprüft.** **Danach #8764 Craig Wren (Frist dann zehn Tage) und
+die fünf Fälle vom 04.10., die dann seit acht Tagen keinen Entwurf haben:
+`richard@brownwolf.net`, #7347 Jill Hibbs, `laceymick31@gmail.com`,
+#7982 Rod O'Donnell, Nigel Bennett.**
