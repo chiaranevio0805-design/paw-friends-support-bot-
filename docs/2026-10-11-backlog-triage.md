@@ -57,6 +57,7 @@ geöffnet, kein neuer Eingang. **Eine Label-Änderung, nicht mehr.**
 | **16:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertsechzigste Abfrage ohne Zugang** |
 | **17:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhunderteinundsechzigste Abfrage ohne Zugang** |
 | **18:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertzweiundsechzigste Abfrage ohne Zugang** |
+| **19:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertdreiundsechzigste Abfrage ohne Zugang**; in derselben Stunde der Abendreport |
 
 ---
 
