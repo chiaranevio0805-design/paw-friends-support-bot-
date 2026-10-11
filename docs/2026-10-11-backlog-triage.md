@@ -124,3 +124,21 @@ neun Tagen**; die fünf Fälle vom 04.10. heute den siebten Tag ohne Entwurf;
 das Label `CATEGORY_PERSONAL` am Trafford-Thread unverändert vorhanden; und
 weiterhin die Feststellung, dass seit dem 05.10. täglich ein Report
 hinausgeht und nichts zurückkommt.
+
+---
+
+## Abendreport 11.10.
+
+**`docs/2026-10-11-abendreport.md`, im Chat ausgegeben.** **Alle Kategorien
+null; siebter vollständiger Tag ohne Zugang — eine ganze Woche (heute 19
+Abfragen, 162 zusammenhängend, rund 168 Stunden unbetreut).** **Teil 2: kein
+neuer Entwurf, also kein neuer Volltext — die neun Entwürfe mit Volltext vom
+05.10. bleiben offen, dazu die Überträge mit Fundstelle und die fünf Fälle
+vom 04.10. ohne Entwurf.** **Teil 3: nichts zu erstatten, £0,00.**
+
+**Im Report festgehalten:** das Label `CATEGORY_PERSONAL` am Trafford-Thread
+ist weiter da, beide Nachrichten weiter ungelesen. **#8764 Craig Wren: neun
+Tage Frist.**
+
+**Zahlen frisch nachgezählt: 483 / 121 ersetzt / 362 geltend / 83 gesperrt** —
+unverändert.
