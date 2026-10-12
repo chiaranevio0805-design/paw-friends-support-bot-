@@ -50,6 +50,7 @@ geöffnet, kein neuer Eingang. **Eine Label-Änderung, nicht mehr.**
 | **05:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertdreiundsiebzigste Abfrage ohne Zugang** |
 | **06:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertvierundsiebzigste Abfrage ohne Zugang** |
 | **07:20** | ohne Zeitfenster, vor dem Eintrag gelaufen | **unverändert, kein neuer Thread** — **einhundertfünfundsiebzigste Abfrage ohne Zugang** |
+| **08:20** | ohne Zeitfenster, vor dem Eintrag gelaufen (Abfrage des Tagesreports) | **unverändert, kein neuer Thread** — **einhundertsechsundsiebzigste Abfrage ohne Zugang** |
 
 ---
 
@@ -102,3 +103,18 @@ geöffnet, kein neuer Eingang. **Eine Label-Änderung, nicht mehr.**
 9. **Die fünf Sicherheitsmeldungen beantworten.**
 10. **Die drei Werbeanhänge öffnen** (#6311, Tamara Heathcote ×2).
 11. **Den Satz über die „zwölf Produkttexte" in 83 Entwürfen streichen lassen.**
+
+---
+
+## Tagesreport (EN) vom 12.10. — achter Tag ohne Gmail-Entwurf
+
+**`docs/2026-10-12-daily-report-en.md`, im Chat ausgegeben.** **Den
+Gmail-Entwurf habe ich zum achten Mal NICHT angelegt** — die Verbindung
+hängt am privaten Postfach des Owners. Ein Entwurf würde dort landen und
+nicht im Support-Konto.
+
+**Inhalt:** alle Kategorien null; **176 zusammenhängende Abfragen ohne
+Zugang, rund 181 Stunden unbetreut**; #8764 Craig Wren **zehn Tage**;
+die fünf Fälle vom 04.10. **achter Tag ohne Entwurf**; Shopify
+**zwölfter Tag** ohne Authentifizierung. **Zahlen frisch nachgezählt:
+483 / 121 ersetzt / 362 geltend / 83 gesperrt.**
