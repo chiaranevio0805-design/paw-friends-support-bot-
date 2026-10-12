@@ -1,6 +1,8 @@
 # Clip-Inventar – FÜR IMMER PFOTE
 
-Stand: 12.10.2026 · Batch 1 (RAW_01–RAW_05) · Batch 2 (RAW_06–RAW_10) folgt
+Stand: 12.10.2026 · Batch 1 (RAW_01–RAW_05) · Batch 2 (RAW_06–RAW_08, es kamen 3 statt 5 Videos)
+
+Freigaben des Inhabers (12.10.): Nutzungsrechte ✅ · alle Clips nutzen, auch KI-Clips ✅ · alte Untertitel dürfen nie sichtbar sein.
 
 ## Übersicht
 
@@ -11,6 +13,24 @@ Stand: 12.10.2026 · Batch 1 (RAW_01–RAW_05) · Batch 2 (RAW_06–RAW_10) folg
 | RAW_03.mp4 | 17,1 s | 720x1280 | 24 | ⚠️ ZWEI verschiedene Hunde (siehe unten) | ⚠️ ja, englisch, durchgehend | nicht sichtbar | SnapInsta-Download (Instagram), Account unbekannt |
 | RAW_04.mp4 | 13,9 s | 720x1280 | 24 | Französische Bulldogge, rehbraun (fawn) | ⚠️ ja, englisch, durchgehend | nicht sichtbar | SnapInsta-Download (Instagram), Account unbekannt |
 | RAW_05.mp4 | 11,1 s | 720x1280 | 24 | Shih-Tzu-Welpe, weiß-braun | ⚠️ ja, englisch, durchgehend | nicht sichtbar | SnapInsta-Download (Instagram), Account unbekannt |
+| RAW_06.mp4 | 14,5 s | 720x1280 | 24 | Labrador, schokobraun, Senior – **derselbe Hund wie RAW_02** (2. Take) | ⚠️ ja, englisch | nicht sichtbar | SnapInsta-Download, CTA „Comment FOREVER“ |
+| RAW_07.mp4 | 11,7 s | 720x1280 | 24 | Labrador, schokobraun, Senior – gleiche Fotos im Rahmen wie RAW_02/06 → als derselbe Hund geführt | ⚠️ ja, englisch | nicht sichtbar | SnapInsta-Download, CTA „Comment FOREVER“ |
+| RAW_08.mp4 | 11,8 s | 720x1280 | 24 | Staffordshire (blau/grau), Welpe/jung; im Hintergrund 2. Staffy; Kleinkind malt | ⚠️ ja, englisch | nicht sichtbar | SnapInsta-Download |
+
+### Eingebrannter Text – gemessene Bänder (textband.py aus dem Cutting-Skill)
+
+| Clip | Band (Anteil Bildhöhe) |
+|---|---|
+| RAW_01 | 0:00–5:12 → 0,16–0,32 · 5:12–9:17 → 0,16–0,27 · ab 9:17 → 0,15–0,26 |
+| RAW_02 | 0,12–0,26 |
+| RAW_03 | 0,15–0,27 |
+| RAW_04 | 0:00–4:00 → 0,15–0,29 · 4:00–7:67 → 0,17–0,25 · ab 7:67 → 0,15–0,29 |
+| RAW_05 | 0:00–2:71 → 0,11–0,30 · 2:71–7:96 → 0,12–0,21 · ab 7:96 → 0,13–0,24 |
+| RAW_06 | 0,12–0,27 (CTA ab 10:29 → 0,11–0,28) |
+| RAW_07 | 0,15–0,27 |
+| RAW_08 | 0:00–3:04 → 0,14–0,30 · 3:04–9:00 → 0,15–0,26 · ab 9:00 → 0,15–0,27 |
+
+Lösung im Schnitt: Pro Shot liegt eine deckende Text-Karte (warmes Weiß + Goldlinie) exakt auf diesem Band (+1,2 % Rand, Zoom eingerechnet), darunter ist das Band zusätzlich weichgezeichnet. Unsere deutschen Texte stehen in dieser Karte. Ergebnis: Der alte Text ist in keinem Frame sichtbar (per Kontaktbogen geprüft). Nachteil: Bei RAW_02/RAW_06 lag der Originaltext über den Augen des Labradors, deshalb sind sie auch unter unserer Karte verdeckt.
 
 ### Wichtige Hinweise für alle 5 Videos
 
@@ -114,24 +134,66 @@ Stärkste Szene: #1 (Welpe, 0:00–2:70). Passt zu „erste Pfote / Welpe“, we
 
 ---
 
+## RAW_06.mp4 – Senior-Labrador, 2. Take von RAW_02, „Comment FOREVER“
+
+Hund: derselbe schokobraune Senior-Lab wie RAW_02 (andere Kameraposition, blauer Ärmel im Bild) ✅
+
+| # | Start–Ende | Was ist zu sehen | Typ | Qualität / Text |
+|---|---|---|---|---|
+| 1 | 0:00–4:08 | Alter Lab schaut in die Kamera, Pfote wird in Ton gedrückt, Abdruck sichtbar | HOOK-tauglich / EMOTION / PROZESS | scharf. Text „Don't wait until he's gone…“ |
+| 2 | 4:08–6:17 | Abdruck wird gold bemalt | PROZESS | scharf. Text „To wish you've done this 🥹“ |
+| 3 | 6:17–8:21 | Platte im schwarzen Rahmen | PROZESS | scharf |
+| 4 | 8:21–10:29 | Lab-Fotos werden eingesteckt | PROZESS / ERGEBNIS | scharf |
+| 5 | 10:29–14:51 | Rahmen wird im Schlafzimmer (rosa Decke) hochgehalten | ERGEBNIS / CTA-Hintergrund | scharf. Text „Comment "FOREVER" if you need this“ |
+
+## RAW_07.mp4 – Seniorin packt Rahmen aus + Lab auf Fliesen
+
+Hund: schokobrauner Senior-Lab (sitzt auf Fliesen); Fotos im Rahmen identisch mit RAW_02/06 → derselbe Hund ✅
+
+| # | Start–Ende | Was ist zu sehen | Typ | Qualität / Text |
+|---|---|---|---|---|
+| 1 | 0:00–2:71 | Ältere Frau (graue Haare, von hinten) packt den Rahmen aus Geschenkpapier aus | HOOK-tauglich / REAKTION | scharf, warm. Text „Perfect gift for senior dog parents 🥹“ |
+| 2 | 2:71–4:75 | Lab sitzt, Hand drückt Pfote auf Tonplatte (Fliesenboden) | PROZESS / EMOTION | scharf |
+| 3 | 4:75–6:50 | Abdruck wird mit blauem Pinsel gold bemalt, Goldtöpfe | PROZESS | scharf. Text „Don't wait until he's gone to do this“ |
+| 4 | 6:50–8:50 | Platte wird in schwarzen Rahmen gelegt | PROZESS | scharf |
+| 5 | 8:50–11:68 | Fertiger Rahmen wird in der Küche hochgehalten | ERGEBNIS / CTA-Hintergrund | scharf. Text „Comment "FOREVER" if you'd like to do this“ |
+
+## RAW_08.mp4 – Blue Staffy + Kleinkind
+
+Hund: Staffordshire, blau-grau, jung (Hauptdarsteller); 2. erwachsener Staffy liegt im Hintergrund. Fotos: Kind mit Staffy ✅
+
+| # | Start–Ende | Was ist zu sehen | Typ | Qualität / Text |
+|---|---|---|---|---|
+| 1 | 0:00–3:04 | Junger Staffy sitzt, Pfote wird in Ton gedrückt, zweiter Staffy liegt dahinter | HOOK-tauglich / PROZESS | scharf. Text „The perfect gift for pet owners doesn't exist… 👀“ |
+| 2 | 3:04–5:04 | Kleines Mädchen malt den Abdruck gold an | EMOTION / PROZESS | scharf, sehr niedlich. Text „Until you see this 😭🐶“ |
+| 3 | 5:04–7:13 | Mädchen legt die Platte in den Rahmen | PROZESS | scharf |
+| 4 | 7:13–8:67 | Foto (Mädchen umarmt Hund) wird eingesteckt (Draufsicht) | PROZESS / ERGEBNIS | scharf |
+| 5 | 8:67–11:84 | Kind hält den fertigen Rahmen im Wohnzimmer hoch, Hunde auf dem Sofa | ERGEBNIS / REAKTION | scharf. Text „Comment "PAW" if you NEED this 🥰🐾“ |
+
+---
+
 ## Szenen-Pool nach Typ (für die Schnittpläne)
 
 | Typ | Szenen |
 |---|---|
-| HOOK-tauglich | 01-1, 02-1 ⭐, 03-1, 03-2 ⭐, 04-1, 05-1 ⭐ |
-| EMOTION | 02-1, 03-2, 03-3, 05-1 |
-| PROZESS: Pfote in Ton | 01-1, 02-1, 03-3, 04-1, 05-1 |
-| PROZESS: Gold anmalen | 01-2, 02-2, 03-4, 04-2, 05-2 |
-| PROZESS: rahmen + Fotos | 01-3, 01-4, 02-3, 02-4, 03-5, 03-6, 04-3, 04-4, 05-3, 05-4 |
-| ERGEBNIS | 01-5, 02-5, 04-5, 05-5 |
-| REAKTION | 03-1, 03-2, 03-7 |
+| HOOK-tauglich | 01-1, 02-1 ⭐, 03-1, 03-2 ⭐, 04-1, 05-1 ⭐, 06-1, 07-1 ⭐, 08-1, 08-2 |
+| EMOTION | 02-1, 03-2, 03-3, 05-1, 06-1, 08-2 |
+| PROZESS: Pfote in Ton | 01-1, 02-1, 03-3, 04-1, 05-1, 06-1, 07-2, 08-1 |
+| PROZESS: Gold anmalen | 01-2, 02-2, 03-4, 04-2, 05-2, 06-2, 07-3, 08-2 |
+| PROZESS: rahmen + Fotos | 01-3, 01-4, 02-3, 02-4, 03-5, 03-6, 04-3, 04-4, 05-3, 05-4, 06-3, 06-4, 07-4, 08-3, 08-4 |
+| ERGEBNIS | 01-5, 02-5, 04-5, 05-5, 06-5, 07-5, 08-5 |
+| REAKTION | 03-1, 03-2, 03-7, 07-1, 08-5 |
+
+Szenen-Namen im Schnitt-Motor (`tools/ads.py`): G_* = RAW_01 · L_* = RAW_02 · L6_* = RAW_06 · L7_* = RAW_07 · O_* / B_press = RAW_03 · F_* = RAW_04 · P_* = RAW_05 · S_* = RAW_08.
+Hunde-Regel im Motor: Jede Ad wird automatisch geprüft (genau 1 Hund; Close-ups ohne Hund wie O_paint/O_frame sind neutral).
 
 Hinweis für den Schnitt: Die „Gold anmalen“-Close-ups ohne Hundegesicht (01-2, 02-2, 03-4, 04-2, 05-2) sind neutral. Sie können aber nur zum Hund passen, wenn Pfotengröße und Anzahl der Abdrücke stimmen (z. B. 05-2 = Welpenpfötchen, 03-4 = zwei große Abdrücke).
 
 ---
 
-## ⚠️ Offene Punkte zu Batch 1
+## Status der offenen Punkte
 
-1. **Nutzungsrechte**: Die Videos stammen laut Dateiname aus Instagram-Downloads (SnapInsta). Wenn sie von einem anderen Shop/Creator sind (z. B. @foreverrpaws), brauchen wir deren Erlaubnis oder Lizenz, bevor wir sie als eigene Ads posten. Das gilt auch, wenn wir den Text überdecken. Wenn sie vom Lieferanten mit Nutzungsrecht kommen: kurz bestätigen.
-2. **RAW_03 möglicherweise KI-generiert** und mit wechselnden Hunden → nutzen ja/nein?
-3. **Lieferumfang**: Goldfarbe + Pinsel dabei? Holzrahmen-Variante verfügbar?
+1. **Nutzungsrechte**: vom Inhaber am 12.10. bestätigt ✅
+2. **RAW_03 (evtl. KI)**: Freigabe „alle Clips nutzen“ ✅. Hunde-Regel trotzdem eingehalten: Opa-Ads zeigen nur Hund A + Close-ups ohne Hund; Buster nur in einer eigenen Ad.
+3. **Originalmusik der Rohvideos**: nicht verwendet. Es sind Musikspuren aus Instagram-Reels (Rechte an den Songs liegen beim Label, nicht beim Video-Ersteller) → Gefahr von Stummschaltung/Urheberrechts-Meldung. Stattdessen 19 eigene Tracks von ElevenLabs (`musik/`).
+4. **Lieferumfang**: Goldfarbe + Pinsel dabei? Holzrahmen-Variante (RAW_03) verfügbar? → noch offen [Lieferumfang prüfen]
