@@ -128,3 +128,21 @@ Zugang, rund 181 Stunden unbetreut**; #8764 Craig Wren **zehn Tage**;
 die fünf Fälle vom 04.10. **achter Tag ohne Entwurf**; Shopify
 **zwölfter Tag** ohne Authentifizierung. **Zahlen frisch nachgezählt:
 483 / 121 ersetzt / 362 geltend / 83 gesperrt.**
+
+---
+
+## Abendreport 12.10.
+
+**`docs/2026-10-12-abendreport.md`, im Chat ausgegeben.** **Teil 1: alle
+Kategorien null; achter voller Tag ohne Zugang (heute bis 18:20 19 Abfragen,
+186 zusammenhängend, rund 191 Stunden unbetreut).** **Teil 2: kein neuer
+Entwurf, also kein neuer Volltext — die neun Entwürfe mit Volltext vom 05.10.
+bleiben offen, dazu die Überträge mit Fundstelle und die fünf Fälle vom
+04.10. ohne Entwurf, achter Tag.** **Teil 3: nichts zu erstatten, £0,00.**
+
+**Im Report festgehalten:** das Label `CATEGORY_PERSONAL` am Trafford-Thread
+ist weiter da, beide Nachrichten weiter ungelesen. **#8764 Craig Wren: zehn
+Tage Frist.** **Shopify zwölfter Tag ohne Authentifizierung.**
+
+**Zahlen frisch nachgezählt: 483 / 121 ersetzt / 362 geltend / 83 gesperrt** —
+unverändert.
