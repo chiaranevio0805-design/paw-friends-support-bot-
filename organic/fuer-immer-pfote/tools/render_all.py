@@ -52,7 +52,11 @@ def to_engine(a):
 def job(args):
     a, pf = args
     e, _ = to_engine(a)
-    return E.render(e, pf, f"{OUT}/A{a['angle']}")
+    r = E.render(e, pf, f"{OUT}/.tmp_A{a['angle']}")
+    os.makedirs(f"{OUT}/A{a['angle']}", exist_ok=True)
+    final = f"{OUT}/A{a['angle']}/{os.path.basename(r)}"
+    os.replace(r, final)
+    return final
 
 
 if __name__ == "__main__":
@@ -65,7 +69,10 @@ if __name__ == "__main__":
         assert key not in seen, ("Hook-Szene + Hook-Text doppelt", name(a)); seen.add(key)
     print(len(sel), "Ads geprüft")
     if "--check" in sys.argv: sys.exit()
-    jobs = [(a, pf) for a in sel for pf in ("IG", "TT")]
+    od = lambda a: f"{OUT}/A{a['angle']}"
+    jobs = [(a, pf) for a in sel for pf in ("IG", "TT")
+            if "--force" in sys.argv or not os.path.exists(f"{od(a)}/{name(a)}_{pf}.mp4")]
+    print(len(jobs), "Dateien zu rendern", flush=True)
     with ProcessPoolExecutor(int(os.environ.get("PAR", "2"))) as ex:
         for r in ex.map(job, jobs):
             print("OK", os.path.basename(r), flush=True)

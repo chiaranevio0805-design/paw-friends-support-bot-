@@ -177,7 +177,7 @@ def render(ad, platform, outdir):
           f"loudnorm=I=-14:TP=-1.5:LRA=11,aresample=48000[aout]")
     run(["ffmpeg", "-y", "-v", "error", "-f", "concat", "-safe", "0", "-i", lst, "-stream_loop", "-1", "-i", ad["music"],
          "-filter_complex", f"[0:v]ass={ass}:fontsdir=/root/.fonts,trim=duration={end},format=yuv420p[vout];{af}",
-         "-map", "[vout]", "-map", "[aout]", "-c:v", "libx264", "-preset", "medium", "-crf", "19",
+         "-map", "[vout]", "-map", "[aout]", "-c:v", "libx264", "-preset", os.environ.get("FIP_PRESET", "faster"), "-crf", "19",
          "-maxrate", "8M", "-bufsize", "16M", "-profile:v", "high", "-r", str(FPS), "-pix_fmt", "yuv420p",
-         "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", "-t", f"{end:.3f}", "-threads", "2", out])
+         "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", "-t", f"{end:.3f}", "-threads", os.environ.get("TH", "2"), out])
     return out
