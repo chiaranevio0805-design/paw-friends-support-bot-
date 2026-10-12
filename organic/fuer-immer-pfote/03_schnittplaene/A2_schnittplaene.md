@@ -43,7 +43,7 @@ Text-Karte (warmes Weiß, Goldlinie, Fredoka Bold) liegt exakt über dem eingebr
 | Texttafel | Zeit | Text |
 |---|---|---|
 | Hook | 00,00–05,00 | Er ist schon 13 … / ich wollte seine Pfote behalten |
-| 2 | 05,00–08,80 | Jeder graue Haar-Tag zählt |
+| 2 | 05,00–08,80 | Jeder Tag mit ihm zählt |
 | CTA | 08,80–12,00 | IG/FB: Kommentiere „PFOTE“ und ich schick dir den Link 🐾 · TT/YT: Link in Bio 🐾 |
 
 ## FIP_A2_H03_10s

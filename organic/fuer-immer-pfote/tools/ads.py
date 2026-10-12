@@ -194,7 +194,7 @@ ad(2, 1, 15, "LIN", "Aussage", "piano_3.mp3", [
 ad(2, 2, 12, "LIN", "Ich-Erzählung", "piano_4.mp3", [
     ("L6_press", 3.0, "Er ist schon 13 …\\Nich wollte seine Pfote behalten", 0),
     ("L6_paint", 2.0, None, 0),
-    ("L6_frame", 1.9, "Jeder graue Haar-Tag zählt", 0),
+    ("L6_frame", 1.9, "Jeder Tag mit ihm zählt", 0),
     ("L6_photo", 1.9, None, 0),
     ("L6_result", 3.2, "CTA", 0.5)],
    "Er ist nicht mehr der Jüngste. Aber diese Pfote bleibt für immer 🤍 Kommentiere PFOTE und ich schick dir den Link.",
@@ -305,7 +305,7 @@ ad(3, 2, 15, "TEASE", "Frage", "weihnacht_2.mp3", [
    "Weihnachts-Spieluhr (weihnacht_2)", "IG Reels, Freitag 18 Uhr")
 
 ad(3, 3, 10, "REV", "Ich-Erzählung", "welpe_1.mp3", [
-    ("P_result", 2.4, "Mein liebstes Geschenk\\Ndieses Jahr", 0.2),
+    ("P_result", 2.4, "Mein liebstes Geschenk\\Ndieses Jahr", 1.0),
     ("P_press", 2.6, "Seine winzige Pfote …", 0),
     ("P_paint", 1.5, None, 0),
     ("P_result", 3.5, "CTA", 0)],
@@ -426,7 +426,7 @@ ad(4, 4, 12, "LIN", "Ich-Erzählung", "weihnacht_1.mp3", [
    "Weihnachts-Spieluhr (weihnacht_1)", "TikTok, 27.11. + 30.11. 12 Uhr und 19 Uhr")
 
 ad(4, 5, 10, "REV", "Aussage", "welpe_4.mp3", [
-    ("P_result", 2.4, "Cyber Monday ist der letzte\\Nsichere Bestelltag vor Weihnachten", 0.2),
+    ("P_result", 2.4, "Cyber Monday ist der letzte\\Nsichere Bestelltag vor Weihnachten", 1.0),
     ("P_press", 2.6, None, 0),
     ("P_paint", 1.5, None, 0),
     ("P_result", 3.5, "CTA", 0)],
@@ -528,7 +528,7 @@ ad(5, 4, 15, "TEASE", "Frage", "erinnerung_3.mp3", [
    "sanftes Klavier + Cello (erinnerung_3)", "IG + FB Reels, Sonntag 21 Uhr")
 
 ad(5, 5, 12, "REV", "Aussage", "welpe_3.mp3", [
-    ("P_result", 2.4, "Seine erste Pfote,\\Nfür immer", 0.2),
+    ("P_result", 2.4, "Seine erste Pfote,\\Nfür immer", 1.0),
     ("P_press", 2.7, None, 0),
     ("P_paint", 1.5, "Vier kleine Abdrücke in Gold", 0),
     ("P_frame", 2.0, None, 0),

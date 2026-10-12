@@ -95,7 +95,7 @@ Text-Karte (warmes Weiß, Goldlinie, Fredoka Bold) liegt exakt über dem eingebr
 
 | # | Zeit im Ad | Szene | Quelle | Ausschnitt | Tempo |
 |---|---|---|---|---|---|
-| 1 | 00,00–02,40 | P_result | RAW_05 | 8.20–10.60 | normal |
+| 1 | 00,00–02,40 | P_result | RAW_05 | 9.00–11.07 | Zeitlupe 86% |
 | 2 | 02,40–05,10 | P_press | RAW_05 | 0.00–2.66 | normal |
 | 3 | 05,10–06,60 | P_paint | RAW_05 | 2.75–4.20 | Zeitlupe 97% |
 | 4 | 06,60–08,60 | P_frame | RAW_05 | 4.29–6.24 | Zeitlupe 98% |
